@@ -548,3 +548,8 @@ The owner-approved [request plan](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA
 The next operation is documented direct listening and continuous-video review of the retained P0/P1 scenes, followed by reconciliation of C073 and other remaining tone/motion-dependent claims. Only after that gate is satisfied, proceed to **`GKM_KAYA_RINHA_CHARACTER_DOSSIER.md`**.
 
 The dossier remains mandatory before Phase 6 can close.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+The [1.1 Rinha witnesses](GKM_KAYA_RINHA_SOURCE_CROSSWALK.md#source-lock-11--additional-rinha-witnesses) extend the evidence for repair with unresolved equivalence. Rinha recognizes Misuzu and Temari's repair and rejects the same description of her own history in the café. D-SENA separately supplies Rinha's address to Sena, deflection toward Misuzu and a prospective answer about professional rivalry. D-TSUBAME 033 supplies direct participation in the rehearsal-access exchange. The text leaves the strength of the café denial and performed tone open. Preserve the 73 inherited claim dispositions and adjudicate the 1.1 witnesses at their named story states when the relevant evidence is reviewed.

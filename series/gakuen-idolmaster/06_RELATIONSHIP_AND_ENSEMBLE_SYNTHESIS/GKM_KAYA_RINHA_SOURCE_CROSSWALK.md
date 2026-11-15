@@ -467,3 +467,18 @@ The matrix should convert this crosswalk from **where the evidence is** into **w
 ## Current AV execution checkpoint — 2026-09-11
 
 All 18 matrix-selected scenes map to 12 retained compilations in the [Rinha packet](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md). Source identity, Japanese-caption anchors, selected-mix computation and sampled-still inspection are documented. Acquisition is satisfied for this plan; direct listening and continuous-motion review remain unperformed. The earlier acquisition handoff is historical; the current next operation is perceptual discrimination of the retained sources, then dossier synthesis when its gate is satisfied.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+### Source Lock 1.1 — additional Rinha witnesses
+
+An exact scan of all 172 new A1 objects found 28 messages with the displayed Rinha speaker in three distinct objects. The [revision 86 delta](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv) gives their full paths and hashes. These rows supplement the 118-object Source Lock 1.0 crosswalk. They leave the historical denominator and 18-target perceptual gate as defined in their original boundary.
+
+| A1 source and physical lines | New exact speech | Disposition |
+| --- | ---: | --- |
+| `adv_cidol-hmsz-3-018_01.txt` L007/031/037/059/073/078/125/146/150/165/180/202/226/232/255/264 | 16 | Rinha summarizes Misuzu and Temari's repair and resists the same account for herself. Preserve the contrast between current café speech and her recollection of prior incidents. |
+| `adv_dear_atbm_033.txt` L077/097 | 2 | Rinha asks about assistance and acknowledges the answer in the D-TSUBAME rehearsal. Tsubame describes the permission route. |
+| `adv_dear_jsna_034.txt` L098/104/108/141/159/183/223/234/424/503 | 10 | Rinha asks to see Sena's current performance, teases Misuzu, accepts the offered relationship with Sena and treats the next meeting as prospective. Keep the commentary on professional plans and displays of intimacy inside D-SENA. |
+
+Other new exact name references appear in Misuzu 018 part 02 L187, Temari 021 part 03 L092 and support 2-0078 part 01 L155. They are reports or calls by other speakers.

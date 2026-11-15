@@ -1,0 +1,1312 @@
+{
+  "created_utc": "2026-10-17T22:28:42.916121+00:00",
+  "status": "INITIAL_OWN_POST_UNCODED_SELECTED_CODING",
+  "protocol": "KONOSUBA_JAPANESE_HUMOR_AND_VOICE_PROTOCOL §5–6; VOLUME_DEEP_READING_METHOD §7.2; applied to admitted expanded artbook with explicit source-plane limitation",
+  "not_a_J02_census_or_new_holdout_assessment": true,
+  "source_first_file": "ORIGINAL_UNCODED_SELECTED_HUMOR_REGISTRY.json",
+  "source_first_sha256": "520e05be8ebf8321a187a7fab312a6c922ebcb47f31d6bf1e28cd84448d9508a",
+  "selected_set_warning": "68 selected original potential premises include nested/callback/soft visual/commentary units. They are not disjoint source-first census episodes; there is no portability percentage or fitted threshold. Each whole selected premise may have subordinate forms. H1 is only within the identified source plane, never automatic main-world admission.",
+  "H_overlay_warning": "H2 is amplification caution, not automatic denial of literal magical/material effects. H4 only marks actual nonliteral stylization/metafictional/imagination; main magical toads, salmon and spells remain source-present.",
+  "records": [
+    {
+      "id": "ARTB-CODE-001",
+      "original_uncoded_id": "ARTB-UNCODED-001",
+      "source_pages": [
+        9
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H1+H3",
+      "rationale": "A possession that seems incompatible with poverty is its cause; resale proposal turns the defense into danger. H1 applies to these frame utterances, H3 to generalizing the camera economy beyond this album fiction.",
+      "culture_and_context_flags": "material scarcity; no special culture required",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "011c3f4ae0097531d940c613ec012277a412460dd72ba71cc270da886ecc1a9c",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-002",
+      "original_uncoded_id": "ARTB-UNCODED-002",
+      "source_pages": [
+        10,
+        11,
+        17
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L2",
+      "H_evidence_treatment": "H1+H3",
+      "rationale": "Aqua shields an impossible image source with confidentiality formula and impersonal passives while photographed subjects demand accountability. The evasive stance is directly present; a secret canonical photographer is not established.",
+      "culture_and_context_flags": "journalistic/confidentiality register; privacy; recurrent frame",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "52958d57c117b4de09a4d7b252b028567a28e0331a13aa8cdbab6b2735d301fb",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-003",
+      "original_uncoded_id": "ARTB-UNCODED-003",
+      "source_pages": [
+        14
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H1",
+      "rationale": "Repeated joint imperative rebuke changes target and implicates the participants; K's silence completes the reversal. Rhythm of repetition matters without Japanese-only wordplay.",
+      "culture_and_context_flags": "repeated chorus; dependent old-photo premise",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "0964e9a94718f552547678127346735307f2307c02e0243b8a15edda0d785e8c",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-004",
+      "original_uncoded_id": "ARTB-UNCODED-004",
+      "source_pages": [
+        14
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H1",
+      "rationale": "A child's pudding pleasure is read as severe scarcity and occasions D's earnest offer, leaving M silent. An unasked-for helpful interpretation embarrasses its beneficiary.",
+      "culture_and_context_flags": "soft welfare/poverty case",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "7323ec50ca8884fea83392268865d2f5b11df834b6fa31d7f86c24baa95032ff",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-005",
+      "original_uncoded_id": "ARTB-UNCODED-005",
+      "source_pages": [
+        15
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H1",
+      "rationale": "D becomes the apologetic target just after being a corrector. The exact parallel between rebuke and her polite self-reproach sharpens role reversal.",
+      "culture_and_context_flags": "callback to3; separate prompt",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "e25daa97a79656e96fb5d757ace12eaa6f55ca676fa51f23bfda7bcc446c9b17",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-006",
+      "original_uncoded_id": "ARTB-UNCODED-006",
+      "source_pages": [
+        15
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H1+H3",
+      "rationale": "K's sister praise receives suspicious collective looks; he insists he merely complimented them. The protest is evidence, not proof of an unspoken sexual motive.",
+      "culture_and_context_flags": "soft embarrassment; narrator not omniscient",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "336707fb6086b0a33975c623b6ae94d62060d1c1dc55139a04b72eab77ad1ecb",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-007",
+      "original_uncoded_id": "ARTB-UNCODED-007",
+      "source_pages": [
+        16
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H1",
+      "rationale": "D seeks reassurance against a sexualized costume reading; M instead takes the books seriously and politely corrects sitting etiquette. Norm substitution survives translation, tone matters.",
+      "culture_and_context_flags": "book-care norm; no teacher appointment",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "9924fd75adebb0c64bb6d762c61efbb2aaeb53115b8498f8f4385fca112e5bcf",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-008",
+      "original_uncoded_id": "ARTB-UNCODED-008",
+      "source_pages": [
+        17
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H1+H3",
+      "rationale": "K escalates admiration of a child into an adoption-style proposal; D treats it as disinhibition. This is a provocative utterance, not a performed adoption or certified motive.",
+      "culture_and_context_flags": "kinship joke; sensitive interpretation limited",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "8224fc7a8773fa37cccdda0d0f7bd56937ba89c4088f096dbf8edf69999e07f7",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-009",
+      "original_uncoded_id": "ARTB-UNCODED-009",
+      "source_pages": [
+        18
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H1+H3",
+      "rationale": "A posed successful-party image is converted into self-certification until D asks its basis. Representation and actual achievement diverge.",
+      "culture_and_context_flags": "RPG/adventuring genre; static art",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "ba006bec024084b77daa711b4cb9bc8130abd530df65b427f4a2d1369112aa65",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-010",
+      "original_uncoded_id": "ARTB-UNCODED-010",
+      "source_pages": [
+        19
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L2",
+      "H_evidence_treatment": "H1",
+      "rationale": "Praise that D looks like a genuine knight implies her ordinary mismatch; honorific knight language and appearance-only qualifications make it insulting. D's actual answer is a challenge, not a shown fight.",
+      "culture_and_context_flags": "knight status; mock respect",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "390f746cec8391d01a8ede52b08a8d988a9d33c448dd7f9d33f3e48b56983480",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-011",
+      "original_uncoded_id": "ARTB-UNCODED-011",
+      "source_pages": [
+        20
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H1+H3",
+      "rationale": "Overemphatic denial of visits and abrupt topic shift expose K's exclusion; his protest is real while the unstated visits are not independently adjudicated.",
+      "culture_and_context_flags": "access/privacy; uncertainty",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "b0f21d32f352ca460782f16fdb7bcddaf23226a81ed06b86311d8d12bd9d2fba",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-012",
+      "original_uncoded_id": "ARTB-UNCODED-012",
+      "source_pages": [
+        20
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H1",
+      "rationale": "Luck-benefits explanation falters against the claimant's actual household experience; Aqua withdraws under K's look. No need to infer a full economic counterfactual.",
+      "culture_and_context_flags": "good-fortune irony",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "9b18b77c05a716e42a2d2b8eabdcce0838d43249d292f1024977bd4a7f183204",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-013",
+      "original_uncoded_id": "ARTB-UNCODED-013",
+      "source_pages": [
+        22,
+        27
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H1",
+      "rationale": "Aesthetic praise of Wiz crying rebounds first through causal blame and then through a matching judgment of Aqua. Her prohibition substitutes control for rebuttal.",
+      "culture_and_context_flags": "callback27 nested; not two counted trials",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "c59034a94ceb816ef25e6334053f77f66ee6ae3055c95a15ff82c099648b6ceb",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-014",
+      "original_uncoded_id": "ARTB-UNCODED-014",
+      "source_pages": [
+        23
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H1",
+      "rationale": "A repeated disposal question after silence increases pressure without supplying an answer. Evasion is observable; completed figurine disposal remains unknown.",
+      "culture_and_context_flags": "minimal-response timing",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "5831460201be6fe89efa1579ab4634735b088a3a71070610d58449230f4021ef",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-015",
+      "original_uncoded_id": "ARTB-UNCODED-015",
+      "source_pages": [
+        23
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H1+H3",
+      "rationale": "Appreciation of an unusual costume becomes a figurine sales lead; K's terse interest is the payoff. Actual sales history outside the frame remains unverified.",
+      "culture_and_context_flags": "merchandising metalepsis",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "822c8f1754a0ba720905f267b8717893bd87781b432de788be9b227b9a2d44b8",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-016",
+      "original_uncoded_id": "ARTB-UNCODED-016",
+      "source_pages": [
+        26
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L3",
+      "H_evidence_treatment": "H1+H3",
+      "rationale": "The new nickname blends tsundere with Megumin's name; denial followed by a chorus forces the label into interaction. The form needs recreation, although teasing is portable.",
+      "culture_and_context_flags": "genre-affect label; nested word formation",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "a64fc74a12e028c40a0b03d4a85ee42ff70637a83023e5f3f2602a81e4e419c4",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-017",
+      "original_uncoded_id": "ARTB-UNCODED-017",
+      "source_pages": [
+        26
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H1+H3",
+      "rationale": "Routine gardening advice treats attacking root vegetables as organized solidarity. Literal magical vegetables may exist in the fiction; the frame does not independently repeat the source encounter.",
+      "culture_and_context_flags": "fantasy flora; no H4 merely because magical",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "03ee0617eb8ab09dae0f837c658bc1711a4a76a7f93dbb0fb27596a1e02ffe7e",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-018",
+      "original_uncoded_id": "ARTB-UNCODED-018",
+      "source_pages": [
+        27
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L2",
+      "H_evidence_treatment": "H1+H3",
+      "rationale": "A respectable marriage-rate question beside denial of public sex commerce makes K's silence incriminating only through shared background. No new visit is shown.",
+      "culture_and_context_flags": "social script/secret sexual commerce; implication not confession",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "0b89358b6b063d83c155712b1eb59a2538103c0b9d023cdaa7c938542c41a4f4",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-019",
+      "original_uncoded_id": "ARTB-UNCODED-019",
+      "source_pages": [
+        28
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H1",
+      "rationale": "Advice to choose friends rebounds because adviser is the very close friend influencing Yunyun. Explicit relationship inference supplies the reversal.",
+      "culture_and_context_flags": "friendship boundary; avoid literal only-friend universality",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "738ba497d824d520b51c3d634aef4f5f2ef0a258ebd98cccac808ee141d7ce5a",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-020",
+      "original_uncoded_id": "ARTB-UNCODED-020",
+      "source_pages": [
+        33
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H1+H2",
+      "rationale": "Aqua appropriates victory credit by citing her disruptive departure, meets pinching and asks forgiveness. Actual objection and request stay literal; magnitude is bounded comic amplification.",
+      "culture_and_context_flags": "retrospective frame; no new Demon King event",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "a7385c96cb453f15aca4a86c9515e1d544ef9d519a210e591d2b737e1524c144",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-021",
+      "original_uncoded_id": "ARTB-UNCODED-021",
+      "source_pages": [
+        39
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H1+H2",
+      "rationale": "Aqua turns blame for three-person departure into indispensability and superiority until threatening wiggling hands make her retract. Initial note's hand-chopping gloss was wrong; no completed blow asserted.",
+      "culture_and_context_flags": "gesture threat; callback20",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "db023119e9ad55f09fc2f49129326c5f5d139e5f9a203dad83b39747e7d07356",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-022",
+      "original_uncoded_id": "ARTB-UNCODED-022",
+      "source_pages": [
+        40
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H1",
+      "rationale": "An absurdity list is selectively censored: K allows grand awakening interpretation but bans comment on Vanir's attire. Written prohibition controls how the picture can be discussed.",
+      "culture_and_context_flags": "visual-caption interdependence",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "58952d05f88bbf6c8dfa9b08d0308a17b9df77b926c0558b2cd261adde03edaf",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-023",
+      "original_uncoded_id": "ARTB-UNCODED-023",
+      "source_pages": [
+        41
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H1",
+      "rationale": "Asked why normally peaceful crabs chased, Aqua openly confirms provocation rather than excuse. No new actual crab chase is created by the reproduced image.",
+      "culture_and_context_flags": "fantasy migration rule reported",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "e3ee3cd957bf914ba66df55892f0ec3cbdf726d0a1da7f36a7d0817559cc1bc9",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-024",
+      "original_uncoded_id": "ARTB-UNCODED-024",
+      "source_pages": [
+        42
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H1+H3",
+      "rationale": "A ghost revelation is displaced by D's practical question about photographing ghosts. Impossible access is a recurring device; photographer capability remains unresolved.",
+      "culture_and_context_flags": "photography/supernatural convention",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "ed93d286076c2829030f55d87c88470239b34c58723b1e03d21629412607fe26",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-025",
+      "original_uncoded_id": "ARTB-UNCODED-025",
+      "source_pages": [
+        42
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H1",
+      "rationale": "Vanir/Wiz domination story prompts Aqua's categorical finishing demand. Comic severity is possible, but genuine containment concern remains a rival; no performed killing.",
+      "culture_and_context_flags": "soft security concern; ambiguous eligibility",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": true,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "073f4b1faf226c4fbcc11a0be9ffc2672d7a5228b8ffacfebcdf04812bb62159",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-026",
+      "original_uncoded_id": "ARTB-UNCODED-026",
+      "source_pages": [
+        43
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H1+H2",
+      "rationale": "Parallel romantic teasing has unequal tolerance when D returns it to M; interruption and the 'you first' defense preserve reciprocity dispute. Exact physical retaliation is unshown.",
+      "culture_and_context_flags": "gift/intimacy; no invented assault",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "02389d3fb4b6906d471bedf0a5bf12108b2115b11fd839707530ba05c5b39188",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-027",
+      "original_uncoded_id": "ARTB-UNCODED-027",
+      "source_pages": [
+        44
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L2",
+      "H_evidence_treatment": "H1",
+      "rationale": "K's guarded acceptance of belonging is publicly relabeled tsundere. Polarity management and a genre affect-label carry pragmatic force; no claim denial is insincere in every context.",
+      "culture_and_context_flags": "genre affect-label; family-home simile",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "88b6dbfe44a2cf3a175dc773654fe7c22bae93d2eed5ad5cbbfcef3b54943d96",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-028",
+      "original_uncoded_id": "ARTB-UNCODED-028",
+      "source_pages": [
+        51
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H1",
+      "rationale": "Parallel requests for duplicate photographs celebrate M's feat but exploit D's embarrassment; who requests a print and who is pictured controls the joke.",
+      "culture_and_context_flags": "photo consumption/privacy; boundary objection literal",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "47da1585dc13b0d4c3140284d0fffc4a3b86849087738628226d4cee63ab3b03",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-029",
+      "original_uncoded_id": "ARTB-UNCODED-029",
+      "source_pages": [
+        51
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H1+H3",
+      "rationale": "The reunion's humiliating trap is generalized as a temptation all would fail. Shared weakness is the frame's claim, not four independently observed failures.",
+      "culture_and_context_flags": "dependent source recollection",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "3658825db6c9a7799b518ff8514de4eaa2437f5a2fa6809d2648d297d1f404f0",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-030",
+      "original_uncoded_id": "ARTB-UNCODED-030",
+      "source_pages": [
+        52
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H1+H3",
+      "rationale": "Eris's otherworldly workplace image makes the withheld photographer's access absurdly implausible. A direct source demand is real, identity remains unanswered.",
+      "culture_and_context_flags": "metafictional access; no actual camera route inferred",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "34f680cf1ef5068b52db813afb61e0a373e51e1a12d45d7c03439ab14e9ce265",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-031",
+      "original_uncoded_id": "ARTB-UNCODED-031",
+      "source_pages": [
+        52
+      ],
+      "source_plane": "character_album_frame",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H1+H2",
+      "rationale": "Heroic magical image triggers specialist card verification, Aqua's death downgrade, K grievance and holy-punch threat while D demands provenance. Competing concerns derail admiration; no new death or punch.",
+      "culture_and_context_flags": "RPG ability card; repeated demands; nested wordform 聖なるグー",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "bdfa01caf8aa8f9fa7a5630407a92a9fa9f684eecb5f22e736479ebdcf708faa",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-032",
+      "original_uncoded_id": "ARTB-UNCODED-032",
+      "source_pages": [
+        54
+      ],
+      "source_plane": "reproduced_afterword_art",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H3+H4",
+      "rationale": "A child scribble is framed with melodramatic demonic-sister appraisal. It is reproduced illustrator afterword humor, not proof of actual malevolent child power.",
+      "culture_and_context_flags": "reproduced afterword illustration; not afterword prose corpus",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": true,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "30831004e607f19096ab829130e44e0c338a604a746731ed3eaaad1143948eba",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-033",
+      "original_uncoded_id": "ARTB-UNCODED-033",
+      "source_pages": [
+        54
+      ],
+      "source_plane": "reproduced_afterword_art",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H3+H4",
+      "rationale": "Imagined two-person nightclothes intimacy contrasts Yunyun's expectation of a three-person development. Explicit imagination label prevents treating this as a performed romantic event.",
+      "culture_and_context_flags": "reproduced imagined doodle; creator plane",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": true,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "209332b019bac35e9075b3ab028fb764c6d78b1ec8722f5159243826db2df406",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-034",
+      "original_uncoded_id": "ARTB-UNCODED-034",
+      "source_pages": [
+        67
+      ],
+      "source_plane": "creator_or_promotional_context",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H3",
+      "rationale": "Artist's 'fun usual quartet' assignment apparently culminates in quarrel, followed by mock surprise. Self-deprecating commissioning commentary is not a new quarrel caused in the world.",
+      "culture_and_context_flags": "creator-comment humor",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "5feb77cc1a9d1a2fff7acd2fcccf83fc97022eed766a7638ef59718520259a79",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-035",
+      "original_uncoded_id": "ARTB-UNCODED-035",
+      "source_pages": [
+        70
+      ],
+      "source_plane": "creator_or_promotional_context",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H3",
+      "rationale": "Flattering lady-like description excepts the familiar defining liabilities, producing affectionate qualification. This is artist appraisal, not blanket consent or actual desire evidence.",
+      "culture_and_context_flags": "creator characterization; exception structure",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "2144527256481b0acbaa1cbdc9baa91aebbcfcf3908df7e11c6792fe1954f51f",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-036",
+      "original_uncoded_id": "ARTB-UNCODED-036",
+      "source_pages": [
+        72,
+        73
+      ],
+      "source_plane": "creator_or_promotional_context",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H3",
+      "rationale": "Modern fast-food tableau gives Aqua a blurry selfie under a comment about uncertain camera internals. Depicted technological error is a design joke, not evidence of actual Japan travel.",
+      "culture_and_context_flags": "promotional modern-costume staging",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "a70502622ad9f09b10b135f5e68e45b1d2a51a3b9e89d9d0ff2045e355bd8e67",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-037",
+      "original_uncoded_id": "ARTB-UNCODED-037",
+      "source_pages": [
+        84
+      ],
+      "source_plane": "creator_or_promotional_context",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H3",
+      "rationale": "Artist denies that solitary Yunyun is lonely or talking to plants, then adds a hedge. Reassurance is pragmatically withdrawn, not certified biography.",
+      "culture_and_context_flags": "creator hedge; loneliness stereotype",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "634eeb56978c0aa275488217edf749ef09878a0c0262cb663f2b2971353407f0",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-038",
+      "original_uncoded_id": "ARTB-UNCODED-038",
+      "source_pages": [
+        85
+      ],
+      "source_plane": "creator_or_promotional_context",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H3",
+      "rationale": "Drunk Aqua illustration is paired with artist's claimed lack of memory drawing it. The rhyme is humorous but does not demonstrate real intoxication during production.",
+      "culture_and_context_flags": "creator self-deprecation; epistemic limit",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "59b0426ec7e78383f54436acc315f8d64b08749e49910127fdaf2ada23315918",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-039",
+      "original_uncoded_id": "ARTB-UNCODED-039",
+      "source_pages": [
+        90,
+        91
+      ],
+      "source_plane": "creator_or_promotional_context",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H3",
+      "rationale": "Grand adventuring cover uses Aqua's dubious self-drawn target cue, qualified by artist's likely failure prediction. No actual quest failure occurs here.",
+      "culture_and_context_flags": "anime BOX commission; hedge",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "e153137c2d14d360eb47c21f9fbf0ca2fc97d1fe88ca93a3ae7cf193f3284a41",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-040",
+      "original_uncoded_id": "ARTB-UNCODED-040",
+      "source_pages": [
+        109
+      ],
+      "source_plane": "creator_or_promotional_context",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H3+H4",
+      "rationale": "Countdown neglects the nominal hero while he complains about the others' fun and his confinement. Promotional serial scheduling supplies the situation, not actual main incarceration.",
+      "culture_and_context_flags": "countdown/magazine metalepsis",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "b42cbfab9861e3d97fcccd5b4869d925636ec08d573f665194e4d1e60371b960",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-041",
+      "original_uncoded_id": "ARTB-UNCODED-041",
+      "source_pages": [
+        110
+      ],
+      "source_plane": "creator_or_promotional_context",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H3+H4",
+      "rationale": "Movie-preparation staging lets Aqua rename the project a goddess legend. Self-promotion is legible, but the characters are not thereby established as actual filmmakers in novel continuity.",
+      "culture_and_context_flags": "film campaign; title appropriation",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "64c98eda6747648da3c8440077d5cee9575f4f2ae5de20f50fc71557983da7bf",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-042",
+      "original_uncoded_id": "ARTB-UNCODED-042",
+      "source_pages": [
+        133
+      ],
+      "source_plane": "creator_or_promotional_context",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H3",
+      "rationale": "Artist rhetorically questions equal age from contrasting design. This is a joke about appearance, not evidence of a different age or chronological maturation.",
+      "culture_and_context_flags": "creator gendered appearance comparison; soft",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": true,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "3be303ec508dfb4e9bd9f7b689f0f9ddc5cde477750994da52b1b3c03ad466d2",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-043",
+      "original_uncoded_id": "ARTB-UNCODED-043",
+      "source_pages": [
+        134
+      ],
+      "source_plane": "creator_or_promotional_context",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H3",
+      "rationale": "Artist cannot remember drawing a picture in a retrospective collection; commentary admits incomplete production memory rather than providing omniscient provenance.",
+      "culture_and_context_flags": "creator memory; miniature visual reactions nested",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "5b10303abb8f9ee39776a9aa7b531f47911e294937cb3ee9316797fc905c083b",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-044",
+      "original_uncoded_id": "ARTB-UNCODED-044",
+      "source_pages": [
+        137
+      ],
+      "source_plane": "creator_or_promotional_context",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H3",
+      "rationale": "Divine robe efficacy is recalled through a near-toss incident, with artist asking whether effect ever mattered. Hedged retrospective question is not a new controlled test.",
+      "culture_and_context_flags": "creator recollection; no model rescore",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "a4fa5631c79e450d82160daf2002ee9ea0c0db8eabf01ead52ad663613c883a5",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-045",
+      "original_uncoded_id": "ARTB-UNCODED-045",
+      "source_pages": [
+        138,
+        139
+      ],
+      "source_plane": "creator_or_promotional_context",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H3",
+      "rationale": "Banquet tableau embeds tugging, surprise and amused faces. Static commemorative staging supports visual contrast, not exact unseen dialogue, a performed assault sequence or consent.",
+      "culture_and_context_flags": "soft static visual eligibility; one spread",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": true,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "90ba83b6a255a08557f3bba2c6387752551afb90d07255bcfc25ac74a5e532f6",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-046",
+      "original_uncoded_id": "ARTB-UNCODED-046",
+      "source_pages": [
+        140,
+        141
+      ],
+      "source_plane": "drawing_song",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H3+H4",
+      "rationale": "Drawing-song instructions use cooking/fish-violence metaphors whose successive marks form M's head/hat, then proud sister praise. The procedure depends on text-image timing, not uniquely Japanese punning; no literal pot or fish battle occurs.",
+      "culture_and_context_flags": "Japanese drawing-song convention; explosion icon; reader address",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": true,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "8ee7b8fc7972be0e44480bb1547b17203c4b636565fd7505df58758cd8e52d61",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-047",
+      "original_uncoded_id": "ARTB-UNCODED-047",
+      "source_pages": [
+        142
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H1",
+      "rationale": "A summons without named recipient makes guilt/confessions contagious and mutual apology conditional on personal cost. Each confession differs; no judicial conviction is shown.",
+      "culture_and_context_flags": "collective liability; source-first story",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "c8f6342f67db330fe648a4326ba1b239f8ea0264834f97a701fb4e4f49cabc41",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-048",
+      "original_uncoded_id": "ARTB-UNCODED-048",
+      "source_pages": [
+        142
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H1+H2",
+      "rationale": "D's bound indignation at minor dish break shifts to happiness at being included in group blame. Belonging and coercion coexist; no retroactive consent to restraint.",
+      "culture_and_context_flags": "membership affect; adverse coercion",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "4862fd519451d7003a2850f26946187ecdab4dc948c424e8477b57de2be90f74",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-049",
+      "original_uncoded_id": "ARTB-UNCODED-049",
+      "source_pages": [
+        142
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L2",
+      "H_evidence_treatment": "H1",
+      "rationale": "K/A equate wealth/nobility with wrongdoing and maid-pranking; D distinguishes legitimate noble work. Hierarchy scripts and face challenge shape the verbal contest.",
+      "culture_and_context_flags": "class hierarchy; reported stereotype not fact",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "14f5588e57d2941c902aacb6035d361a9b4d252359af097fac8c4e674a972da5",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-050",
+      "original_uncoded_id": "ARTB-UNCODED-050",
+      "source_pages": [
+        143
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L2",
+      "H_evidence_treatment": "H1+H2",
+      "rationale": "Retaliatory preparations become an honorific Archwizard performance plus wine price for buffs, punctured by noble arrival. No actual spell buff or attack is completed in this exchange.",
+      "culture_and_context_flags": "status role/address; transactional service",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "7d11524d5648c469456ed3413cdb16c3d4f929340c501900d257bbcfc391ed10",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-051",
+      "original_uncoded_id": "ARTB-UNCODED-051",
+      "source_pages": [
+        143
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L2",
+      "H_evidence_treatment": "H1+H2",
+      "rationale": "Class insults descend into throwing/pocketing cheap snacks while D apologizes and restrains, then adds her own threat. Rank registers and the claimed petty inferiority carry social force.",
+      "culture_and_context_flags": "class deference; real aggression not immunity",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "0f297cad236ee3341ea2a3153715b9d443bbb51fd4954034b35cd55993be682a",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-052",
+      "original_uncoded_id": "ARTB-UNCODED-052",
+      "source_pages": [
+        143
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L2",
+      "H_evidence_treatment": "H1",
+      "rationale": "Noble's armor gaze is challenged by K's lechery accusation, then D uses value-appraisal excuse; hypocrisy matters while she contests attribution. A gaze/price inference is not an actual sexual assault.",
+      "culture_and_context_flags": "honor/status, erotic-gaze accusation",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "a555617e66519a38cee2709d65c43bd1bf917801cf974c0e4d073c0d82560acf",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-053",
+      "original_uncoded_id": "ARTB-UNCODED-053",
+      "source_pages": [
+        143,
+        144
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H1",
+      "rationale": "Aqua's denial is padded by probably/mostly-type hedges, and K treats the epistemic weakness as suspicious. Final cause is not yet known here; no inference backdating.",
+      "culture_and_context_flags": "hedge sequence; source-order limit",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "3a435e617010e591957cfacca7bce172b8e7ad876ad862ac321bbfd9ead64676",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-054",
+      "original_uncoded_id": "ARTB-UNCODED-054",
+      "source_pages": [
+        144
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H1",
+      "rationale": "Role-category and past flood make A convenient suspect without evidence; her justified objection coexists attempted blame displacement. Later indirect cause does not retroactively justify initial procedure.",
+      "culture_and_context_flags": "institutional suspicion; actual evidentiary objection",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "5455d35acbaf7a7f65863689bac0c8e0f983b6fade3c3e54ea1e611e97e4d06b",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-055",
+      "original_uncoded_id": "ARTB-UNCODED-055",
+      "source_pages": [
+        144
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H1",
+      "rationale": "M's attempted friendship reassurance presupposes Yunyun's desperation and costs her dignity; Yunyun's repeated denial yields to whispered wish. Cruel helpfulness and vulnerable response both stay literal.",
+      "culture_and_context_flags": "friendship hurt; soft adverse dignity",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "c4dfd21a722a6029cd6bea541d6d17e06da7d8876147d42360b5415e871a88b7",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-056",
+      "original_uncoded_id": "ARTB-UNCODED-056",
+      "source_pages": [
+        144
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H1+H2",
+      "rationale": "A whodunit flourish 'all solved' expands accusation to the whole town after intelligence rivalry; K's odds profit from purported inquiry. No conclusive epistemic competence established.",
+      "culture_and_context_flags": "RPG intelligence branding; detective trope",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "9b4f3041a43e235809937da55b3a5b459e58614140807cdc811967b2373b8112",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-057",
+      "original_uncoded_id": "ARTB-UNCODED-057",
+      "source_pages": [
+        145
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H1",
+      "rationale": "Aqua's confident frog-curse divinity/prayer is followed by swallowing and actual rescue. This is an observed failure of the proposed intervention, not proof all divine power fails.",
+      "culture_and_context_flags": "fantasy literal toads; no acoustic claim",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "666cd7dbe9d07a2b34c46a38b4b88d01cf39f19bf5f78e9e9c9c79cbed488a20",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-058",
+      "original_uncoded_id": "ARTB-UNCODED-058",
+      "source_pages": [
+        145
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H1",
+      "rationale": "After Yunyun rescues and offers towel, Aqua reads friendlessness as curse points. Practical care meets injurious reinterpretation, and Yunyun objects rather than affirming cause.",
+      "culture_and_context_flags": "stigma/folk curse; adverse relation",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "abaa5b6261c67e7c1fe995a9cf490470fdfa5a496ba0d5159cb5daad31683b33",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-059",
+      "original_uncoded_id": "ARTB-UNCODED-059",
+      "source_pages": [
+        146
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H1",
+      "rationale": "Yunyun's effective spell and crowd praise provoke M's competitive opening; later fresh information stops it. Competitiveness does not erase actual restraint.",
+      "culture_and_context_flags": "spell hierarchy; independent safety info",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "e07fceb878dd0f278fb9c54aedd373a8ba0f5cd875303ecc70f89228c9f927cb",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-060",
+      "original_uncoded_id": "ARTB-UNCODED-060",
+      "source_pages": [
+        146
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L2",
+      "H_evidence_treatment": "H1",
+      "rationale": "Aqua's concrete mating description becomes indecent by comparison with D, who objects; Aqua claims indirectness is better. Pragmatic euphemism/comparison matters more than biological content.",
+      "culture_and_context_flags": "sexual speech norm; no actual D act",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "856d72ac5e3264d4d031e36c6852a6b42311838e7f538bc6af2de01f61f19ab6",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-061",
+      "original_uncoded_id": "ARTB-UNCODED-061",
+      "source_pages": [
+        146
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "MIXED L0/L3",
+      "H_evidence_treatment": "H1",
+      "rationale": "Salmon beneath cloud replaces false frog account; monstrous kanji 荒魔鬼鮭 evokes familiar preserved-salmon sound. Plot revelation is portable, naming joke is Japanese-form dependent; relative naming centrality unresolved.",
+      "culture_and_context_flags": "food/orthographic wordplay; nested form; no complete L3 census claim",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": true,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "4ae4d21788d10ce11528cd201500db61530acaced5623e320de013383818756f",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-062",
+      "original_uncoded_id": "ARTB-UNCODED-062",
+      "source_pages": [
+        146
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L1",
+      "H_evidence_treatment": "H1",
+      "rationale": "Aqua invokes K's equality principle to justify male-only frontline risk while claiming tradition. Verbal appropriation exposes selective application, not a proven universal allocation norm.",
+      "culture_and_context_flags": "gendered labor; coercion",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "ea93b17c8126c2fa2b46942537257f2d90bcd0880819abf5d52b07d1df93cba9",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-063",
+      "original_uncoded_id": "ARTB-UNCODED-063",
+      "source_pages": [
+        146
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H1+H2",
+      "rationale": "Gear-destroying salmon invert male bravado and reveal belatedly disclosed tactical constraints; serious resource loss remains despite comic nudity. Magic can be literal without realistic-transfer availability.",
+      "culture_and_context_flags": "magical equipment attack; dignity/adverse",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "57d5237f7123b8f865b79ecaa4e43b087f5fcf2eea8871e20d98ff0bc1b2703f",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-064",
+      "original_uncoded_id": "ARTB-UNCODED-064",
+      "source_pages": [
+        147
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L2",
+      "H_evidence_treatment": "H1+H2",
+      "rationale": "K invokes noble knight protection and D's body to put her into threatened shield duty; D's request for useful role is separate from explicit stripping objection. Role-language frames coercion, not consent. Actual stripping of Darkness herself is not established by this paragraph.",
+      "culture_and_context_flags": "knight/noble obligation; contrary agency retained",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "02eb4b05c8d6baaa49b338232bea60b1577883e456f7952ff8bcedb8f513c335",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-065",
+      "original_uncoded_id": "ARTB-UNCODED-065",
+      "source_pages": [
+        147
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H1",
+      "rationale": "Merchants exploit dangerous stripping battle to sell gear, Freeze and buy salmon. The resource ecology enables some response while profits motivate instrumental opportunism.",
+      "culture_and_context_flags": "crisis commerce; actual fees not guaranteed sales",
+      "selected_denominator_flag": false,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "7e52360c3d5fecb5e659a79f955ea0f4d49c372db2eca0d47088f1094f06fe0f",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-066",
+      "original_uncoded_id": "ARTB-UNCODED-066",
+      "source_pages": [
+        147
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H1",
+      "rationale": "Real three-spell/physical coordination redirects salmon, then A claims always believed and reward is mere same-day discount. Competence and credit opportunism coexist; cause not erased.",
+      "culture_and_context_flags": "nonadditive resources; false prescience; nested reward gag",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "aa55621e6e203640ef295653a47065fdb942779f405661c5f43e10060c16ad4e",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-067",
+      "original_uncoded_id": "ARTB-UNCODED-067",
+      "source_pages": [
+        148
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L2",
+      "H_evidence_treatment": "H1",
+      "rationale": "D's restrained noble authority wins proper apology/payment; A forgives after defense, still defensive moral self-display. Price/status and polite understatement carry force, while redress itself is real.",
+      "culture_and_context_flags": "class leverage; actual apology/payment",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "ff61c2bf3d66202ac18396444ee4505875a52d0542bc38bace9fafa8acc17e3c",
+      "coded_after_complete_source_first_seal": true
+    },
+    {
+      "id": "ARTB-CODE-068",
+      "original_uncoded_id": "ARTB-UNCODED-068",
+      "source_pages": [
+        148
+      ],
+      "source_plane": "new_short_story",
+      "whole_selected_premise_L_assignment": "L0",
+      "H_evidence_treatment": "H1",
+      "rationale": "A's casual clean-water admission supplies likely hidden spawning cause after public vindication; M narrows it, A invokes no-investigation promise, D runs back with reward. Concealment and material retreat are observed; initial physical causation remains strongly inferred.",
+      "culture_and_context_flags": "dramatic irony; evidence vs proof; no later restitution invented",
+      "selected_denominator_flag": true,
+      "denominator_meaning": "true=chosen for emphasized qualitative discussion, not a complete disjoint humor census; never used for J02 proportion",
+      "statistical_denominator_eligible": false,
+      "uncertain_or_mixed": false,
+      "original_note_preserved": true,
+      "original_note_sha256_default_spaced_sorted_json": "5db673992515c655412971b825d2de84c5ca38efd3880f27366e78925d868028",
+      "coded_after_complete_source_first_seal": true
+    }
+  ]
+}

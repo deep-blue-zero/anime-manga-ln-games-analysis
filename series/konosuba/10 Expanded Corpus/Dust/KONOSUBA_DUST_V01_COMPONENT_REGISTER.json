@@ -1,0 +1,1480 @@
+{
+  "schema": "KONOSUBA_ACCEPTED_DUST01_COMPONENT_REGISTER_V1",
+  "status": "canonical",
+  "accepted_utc": "2026-10-17T22:53:08.846506+00:00",
+  "source_id": "DUST-01",
+  "source_sha256": "b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644",
+  "current_scope": {
+    "nonprincipal_containers": 16,
+    "nonprincipal_body_p": 124,
+    "nonprincipal_nonempty_p": 111,
+    "nonprincipal_base_characters": 3784,
+    "nonprincipal_ruby": 40,
+    "nonprincipal_rt": 71,
+    "non_p_nav_strings": 19,
+    "separate_principal_containers": 9,
+    "principal_body_p": 3185,
+    "principal_nonempty_p": 3068,
+    "principal_base_characters": 123624,
+    "principal_ruby": 3299,
+    "principal_rt": 4913,
+    "combined_containers": 25,
+    "combined_body_p": 3309,
+    "combined_nonempty_p": 3179,
+    "combined_base_characters": 127408,
+    "combined_ruby": 3339,
+    "combined_rt": 4984,
+    "actual_manifest_images_viewed": 27,
+    "whole_edition_scope_note": "KONOSUBA_DUST_V01_RECEIVING_AND_PROVENANCE.json",
+    "whole_edition_scope_note_field": "whole_edition_scope_note_exact"
+  },
+  "accepted_analysis": "KONOSUBA_DUST_V01_COMPONENT_ANALYSIS.md",
+  "current_principal": "KONOSUBA_DUST_V01_DEEP_READING.md",
+  "reviewed_successor_sha256": "edaa16d0d4c4cde776ce381467d701f27630e1de4c3f9dc5be349504f3deaa97",
+  "historically_scoped_reviewed_successor": {
+    "schema": "DUST01_SOURCE_SAFE_COMPONENT_V2_POST_PRINCIPAL_CORRECTIONS",
+    "status": "PRIVATE_CORRECTED_SUCCESSOR_FOR_ROOT_RECEIVING_NOT_CURRENT_CANONICAL_AUTHORITY",
+    "prepared_utc": "2026-10-17T22:50:45.887458+00:00",
+    "source_id": "DUST-01",
+    "scope_and_history": {
+      "original_component_seal": {
+        "file": "INITIAL_COMPLETE_COMPONENT_READING_AND_IMAGE_VIEW_SEAL.json",
+        "bytes": 2674,
+        "sha256": "4d312f7d7ca3c25e731523d87075ab125623d38b66e3e95fe5dc894272293e39"
+      },
+      "original_inventory_scope_time": "2026-10-17T22:10:31.146279+00:00",
+      "historical_fields_policy": "The nested original inventory scope/status, unread-principal flags and component-pass limitations describe the initial component seal. The five listed image interpretations alone incorporate later principal knowledge; opaque aliases are presentation-only. These old flags do not deny the separately completed principal pass.",
+      "principal_initial_seal": {
+        "file": "INITIAL_COMPLETE_PRINCIPAL_SOURCE_ONLY_SEAL.json",
+        "bytes": 3023,
+        "sha256": "24b960ce10dc63b370af41d3ee5679c9cadba342195b688e0b807558133586e6"
+      },
+      "principal_actual_read_receipt": {
+        "file": "ACTUAL_COMPLETE_PRINCIPAL_READ_AND_EXPOSURE_RECEIPT.json",
+        "bytes": 27146,
+        "sha256": "8445f9cf0e6311264dfdf9598af3eb7f3de274ed331627ac025d9b0a5fb25dee"
+      },
+      "corrected_source_basis": "Same native EPUB, previously actually viewed image assets, and separately read matching principal windows. Contextual scene joining raises actor confidence but is not independent corroboration or a second source.",
+      "no_new_source_or_image_viewing_to_build_v2": true,
+      "no_self_acceptance_current_authority_or_publication_claim": true
+    },
+    "current_combined_actual_read_view_scope": {
+      "nonprincipal_containers": 16,
+      "nonprincipal_body_p": 124,
+      "nonprincipal_nonempty_p": 111,
+      "nonprincipal_base_characters": 3784,
+      "nonprincipal_ruby": 40,
+      "nonprincipal_rt": 71,
+      "non_p_nav_strings": 19,
+      "separate_principal_containers": 9,
+      "principal_body_p": 3185,
+      "principal_nonempty_p": 3068,
+      "principal_base_characters": 123624,
+      "principal_ruby": 3299,
+      "principal_rt": 4913,
+      "combined_containers": 25,
+      "combined_body_p": 3309,
+      "combined_nonempty_p": 3179,
+      "combined_base_characters": 127408,
+      "combined_ruby": 3339,
+      "combined_rt": 4984,
+      "actual_manifest_images_viewed": 27,
+      "whole_edition_scope_note": "WHOLE_EDITION_ACCEPTANCE_SCOPE.md"
+    },
+    "same_source_correction_register": [
+      {
+        "json_path": [
+          "images",
+          13,
+          "observed_content"
+        ],
+        "image_id": "DUST-01-IMG-14",
+        "old": "The light-haired succubus-design character is held against Dust; she grasps cloth, has a flushed, moist-eyed expression, and a horn is visible.",
+        "new": "The light-haired succubus-design character is caught and supported against Mitsurugi; she grasps cloth and has a flushed, moist-eyed expression. A horn is visible in the illustration, while the surrounding performance presents her to Mitsurugi as a village girl.",
+        "source_route": {
+          "unit": "C03",
+          "start": 216,
+          "end": 221,
+          "native_member": "item/xhtml/p-005.xhtml"
+        },
+        "same_source_confidence": "HIGH contextual primary-scene/embedded-image join; not a separately printed name on the cropped image",
+        "external_receipt": {
+          "file": "EXTERNAL_COMPONENT_ACTOR_CORRECTIONS_FROM_PRINCIPAL_01.json",
+          "bytes": 4645,
+          "sha256": "4fc71065ab201dc7ca42a0a67631d1e3146986f7df988ac3818551eaba148e84"
+        }
+      },
+      {
+        "json_path": [
+          "images",
+          15,
+          "observed_content"
+        ],
+        "image_id": "DUST-01-IMG-16",
+        "old": "Darkness is visibly tied with rope around torso/arms; Dust is behind with a startled expression and sweat marker.",
+        "new": "Darkness is visibly tied with rope around torso/arms; Chris is the smaller figure behind her, with a startled expression and sweat marker.",
+        "source_route": {
+          "unit": "C04",
+          "start": 144,
+          "end": 167,
+          "native_member": "item/xhtml/p-006.xhtml"
+        },
+        "same_source_confidence": "HIGH contextual primary-scene/embedded-image join; not a separately printed name on the cropped image",
+        "external_receipt": {
+          "file": "EXTERNAL_COMPONENT_ACTOR_CORRECTIONS_FROM_PRINCIPAL_01.json",
+          "bytes": 4645,
+          "sha256": "4fc71065ab201dc7ca42a0a67631d1e3146986f7df988ac3818551eaba148e84"
+        }
+      },
+      {
+        "json_path": [
+          "images",
+          16,
+          "observed_content"
+        ],
+        "image_id": "DUST-01-IMG-17",
+        "old": "Yunyun in an altered low-neckline uniform/maid-like outfit before Vanir; lower small deformed reaction figures depict Darkness and Dust.",
+        "new": "Yunyun before Vanir in the unsolicited public-confession scene; lower small deformed reaction figures depict Darkness and Dust. The earlier maid-like/altered-uniform interpretation is withdrawn.",
+        "source_route": {
+          "unit": "C04",
+          "native_member": "item/xhtml/p-006.xhtml",
+          "p_start": 544,
+          "p_end": 565
+        },
+        "same_source_confidence": "HIGH scene match and actor identity; no occupational or costume-adoption event established. Visual clothing alone did not justify the earlier maid-like description.",
+        "external_receipt": {
+          "file": "EXTERNAL_COMPONENT_PRECISIONS_FROM_PRINCIPAL_02.json",
+          "bytes": 4958,
+          "sha256": "0a77260ed3177d7a650af8f2e25bd99cc9a69e0184687ea7ce05920ddad5a4db"
+        }
+      },
+      {
+        "json_path": [
+          "images",
+          18,
+          "observed_content"
+        ],
+        "image_id": "DUST-01-IMG-19",
+        "old": "Yunyun wearing glasses and Darkness behind her in bat-themed costumes, visibly uneasy/flushed.",
+        "new": "Sena wearing glasses and Darkness behind her in bat-themed shop costumes, visibly uneasy/flushed. The earlier Yunyun identification is wrong.",
+        "source_route": {
+          "unit": "C05",
+          "native_member": "item/xhtml/p-007.xhtml",
+          "p_start": 408,
+          "p_end": 420
+        },
+        "same_source_confidence": "HIGH actor identification from the now-read scene and image placement. Sena and Darkness have distinct stated discomfort/reactions; costume or blush does not establish completed sexual activity or blanket consent.",
+        "external_receipt": {
+          "file": "EXTERNAL_COMPONENT_PRECISIONS_FROM_PRINCIPAL_02.json",
+          "bytes": 4958,
+          "sha256": "0a77260ed3177d7a650af8f2e25bd99cc9a69e0184687ea7ce05920ddad5a4db"
+        }
+      },
+      {
+        "json_path": [
+          "images",
+          21,
+          "authority_or_uncertainty"
+        ],
+        "image_id": "DUST-01-IMG-22",
+        "old": "Luna is a contextual visual-identification candidate, not named by the image. No proposition about staff competence, flirtation or intent is proved.",
+        "new": "The now-read principal scene identifies the counter-seated woman as Luna; the image itself does not print her name. No proposition about staff competence, flirtation or intent is proved by the image alone.",
+        "source_route": {
+          "unit": "Final",
+          "native_member": "item/xhtml/p-009.xhtml",
+          "p_start": 314,
+          "p_end": 338
+        },
+        "same_source_confidence": "HIGH contextual identification using principal source and placement; earlier visual-only candidate status remains historically accurate at the component seal.",
+        "external_receipt": {
+          "file": "EXTERNAL_COMPONENT_PRECISIONS_FROM_PRINCIPAL_02.json",
+          "bytes": 4958,
+          "sha256": "0a77260ed3177d7a650af8f2e25bd99cc9a69e0184687ea7ce05920ddad5a4db"
+        }
+      }
+    ],
+    "historically_scoped_initial_inventory_with_five_attributable_corrections": {
+      "status": "PRIVATE_COMPLETE_AUTHORIZED_NONPRINCIPAL_COMPONENT_READING_AND_27_IMAGE_VIEWING_READY_FOR_ROOT_RECEIVING_NOT_SELF_ACCEPTED",
+      "recorded_utc": "2026-10-17T22:10:31.146279+00:00",
+      "source_id": "DUST-01",
+      "bonus_identity": "DUST-01-BONUS-01",
+      "native_bytes": 19450953,
+      "native_sha256": "b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644",
+      "input_metadata_sha256": "c70ad13cc1ecdb8e504347accb1257e5bd6ef4830880e5038348ffdaa684557a",
+      "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
+      "component_count": 25,
+      "nonprincipal_complete_container_count": 16,
+      "principal_body_container_count_not_read": 9,
+      "nonprincipal_totals": {
+        "paragraph_slots": 124,
+        "nonempty_p": 111,
+        "base_characters": 3784,
+        "ruby": 40,
+        "rt_nodes": 71,
+        "non_p_residual_records": 19
+      },
+      "all_manifest_images_actually_viewed": 27,
+      "images": [
+        {
+          "image_id": "DUST-01-IMG-01",
+          "member": "item/image/cover.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-01",
+          "bytes": 1717751,
+          "sha256": "e8d895d0e3af9404fb49ed32cc617a2749481cb5361a65fb49c278a7bee99939",
+          "width": 1443,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S01",
+              "member": "item/xhtml/p-cover.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 1,
+          "category": "COVER_PACKAGING_ILLUSTRATION",
+          "observed_content": "Darkness in armor/sword foreground and Dust behind, with title/subtitle and author/illustration/original-work/character-original credits. The plate supplies explicit differentiated credits, unlike OPF aut tags.",
+          "authority_or_uncertainty": "Posed packaging, not an observed fight or a dated meeting. Character identification also checked against the labelled character panels.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-02",
+          "member": "item/image/kuchie-001.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-02",
+          "bytes": 1160395,
+          "sha256": "c02ac07f7c3de1b1c821889c5ba226f6a5e8b014ceaf1b3cf73f20177e682a99",
+          "width": 1464,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S02",
+              "member": "item/xhtml/p-fmatter-001.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 1,
+          "category": "FRONT_PORTRAIT_AND_TITLE_PROMOTION",
+          "observed_content": "Light short-haired horned/bat-winged character in costume, title/subtitle and franchise badge. The same design is explicitly labelled ロリサキュバス in IMG04/06.",
+          "authority_or_uncertainty": "Portrait/pin-up presentation. No personal name or age is supplied by the plate; the marketing label is not an established personal name.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-03",
+          "member": "item/image/kuchie-002.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-03",
+          "bytes": 1407448,
+          "sha256": "494f69fd26738a3f7242e6251ff4fc86a868d0eec3f7591222f6fedf01e45736",
+          "width": 1389,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S03",
+              "member": "item/xhtml/p-fmatter-002.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 1,
+          "category": "ILLUSTRATED_CONTENTS_REFERENCE",
+          "observed_content": "Contents list with printed page numbers Pro003/C1 007/C2 024/C3 066/C4 102/C5 153/interlude207/final212/Epi279/afterword285, Darkness artwork, title and illustration/design credits.",
+          "authority_or_uncertainty": "Printed page numbers are navigation references, not EPUB paragraph numbers; no bonus entry on this printed contents plate does not negate the explicit ebook TOC bonus.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-04",
+          "member": "item/image/kuchie-003.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-04",
+          "bytes": 1601008,
+          "sha256": "e60342835b8043b4255ea712083818a2a34a8edfb5a3b4385b2f74c143701238",
+          "width": 2048,
+          "height": 1120,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S04",
+              "member": "item/xhtml/p-fmatter-003.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 2,
+          "category": "LABELLED_CHARACTER_QUOTE_MONTAGE",
+          "observed_content": "Panels label Darkness, Aqua, Megumin, Vanir, Leen, Yunyun, Loli Succubus and Dust, each with attributed short Japanese speech. Examples include Aqua 誰が駄女神よー！ and Leen あんたは、人に迷惑かけないと生きていけない存在なの？.",
+          "authority_or_uncertainty": "These are attributed packaging quotations/portraits. Exact original prose scenes, recipients and chronological order have not been matched; the montage is not one joint conversation.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-05",
+          "member": "item/image/kuchie-004.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-05",
+          "bytes": 1214600,
+          "sha256": "6fb49e80eca61592074e2f9ad99df5d04dd2115c718a3329f2468542e4451789",
+          "width": 1120,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S05",
+              "member": "item/xhtml/p-fmatter-004.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 2,
+          "category": "CAPTIONED_COLOR_SCENE_OR_PINUP",
+          "observed_content": "Darkness in a revealing bat-themed costume, visibly flustered; caption objects that the outfit is underwear and asks to wait.",
+          "authority_or_uncertainty": "Displayed objection matters; clothing, blush and pose cannot establish consent, a completed sexual event or precise narrative cause. Principal-scene matching remains open.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-06",
+          "member": "item/image/img-p002.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-06",
+          "bytes": 1408493,
+          "sha256": "57cf6c94c73280e2633f474172c14c2063f60601dba68d486b555e48b480b943",
+          "width": 1443,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S09",
+              "member": "item/xhtml/p-001.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 2,
+          "category": "CHARACTER_REFERENCE_WITH_REPRODUCED_PORTRAITS",
+          "observed_content": "Labelled character sheet: Dust warrior, Leen wizard/party member, Yunyun archwizard, Loli Succubus shop worker, plus Aqua archpriest, Megumin archwizard and Darkness crusader. Prose calls Leen a guardian-like figure for troublesome Dust, Yunyun skilled but usually solitary, and the succubus worker easily influenced.",
+          "authority_or_uncertainty": "Editorial character summaries, with uncertainty markers such as らしい and unknown truth of rumors about Dust. They are contextual claims, not independent trial observations. Some portraits repeat front-montage artwork.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-07",
+          "member": "item/image/img-m001.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-07",
+          "bytes": 122016,
+          "sha256": "1ff003c7c1af9d1bafb2afb84dc6dce2600d2396597309e12857adc4849b230c",
+          "width": 347,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S10",
+              "member": "item/xhtml/p-002.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 3,
+          "category": "PRINCIPAL_UNIT_TITLE_CARD",
+          "observed_content": "Prologue title and sword-bearing Dust silhouette.",
+          "authority_or_uncertainty": "Decorative unit marker; no new sword action/event.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-08",
+          "member": "item/image/img-m002.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-08",
+          "bytes": 166829,
+          "sha256": "a65221214ac875303ed011f0fce08c21368239682cf0d8c4c9a1000dc9a9d00d",
+          "width": 347,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S11",
+              "member": "item/xhtml/p-003.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 3,
+          "category": "PRINCIPAL_UNIT_TITLE_CARD",
+          "observed_content": "Chapter1 title あの物語の裏側を and the same Dust silhouette motif.",
+          "authority_or_uncertainty": "Decorative unit marker; not another independent depicted act.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-09",
+          "member": "item/image/img-p015.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-09",
+          "bytes": 1008019,
+          "sha256": "b9d8d99d2ac4a1999af1c4cd2aeb41b1d84409f7b54999657d5d63de851a1d57",
+          "width": 1443,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S11",
+              "member": "item/xhtml/p-003.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 3,
+          "category": "PRINCIPAL_ILLUSTRATION",
+          "observed_content": "Megumin with raised staff/arm, focused open-mouth expression and dramatic light effects.",
+          "authority_or_uncertainty": "A stylized action/portrait composition, without printed dialogue. No exact incantation, target, spell completion or effect can be supplied from the picture alone.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-10",
+          "member": "item/image/img-m003.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-10",
+          "bytes": 164016,
+          "sha256": "cd22819c551fdc4c9e846e0e84af73692e828dd830e4995352e3aa170126aa4e",
+          "width": 347,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S12",
+              "member": "item/xhtml/p-004.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 3,
+          "category": "PRINCIPAL_UNIT_TITLE_CARD",
+          "observed_content": "Chapter2 title あの魔剣をあなたに and Dust silhouette.",
+          "authority_or_uncertainty": "No narrative-prose reading is claimed.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-11",
+          "member": "item/image/img-p041.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-11",
+          "bytes": 1183372,
+          "sha256": "473cb63efcd8e1bafc848ad6bcabe95b851569db70595fd01ecc538236351d51",
+          "width": 1443,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S12",
+              "member": "item/xhtml/p-004.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 4,
+          "category": "PRINCIPAL_ILLUSTRATION",
+          "observed_content": "Long-haired clerically dressed woman points outward; lower panel gives Dust a strained smile/sweat reaction.",
+          "authority_or_uncertainty": "The woman is not named on this plate. Cecily is a contextual identification candidate, not independently established here; no spoken command or motive is printed.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-12",
+          "member": "item/image/img-p065.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-12",
+          "bytes": 1027731,
+          "sha256": "faf0c5494a15c02dffd5c68fac777d9b2b756723e3524de912655d00c0eda1ad",
+          "width": 1443,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S12",
+              "member": "item/xhtml/p-004.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 4,
+          "category": "PRINCIPAL_ILLUSTRATION",
+          "observed_content": "Leen in casual fur-collared clothing holds a bitten small round fruit and smiles with eyes closed.",
+          "authority_or_uncertainty": "Visible ordinary-life eating/pleasure presentation; no unpictured purchase, gift, motive or relationship change is established.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-13",
+          "member": "item/image/img-m004.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-13",
+          "bytes": 167890,
+          "sha256": "bb049b2b0661c9980451de2b40012594f9224012134cbbb873071aed5b0cd38b",
+          "width": 347,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S13",
+              "member": "item/xhtml/p-005.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 4,
+          "category": "PRINCIPAL_UNIT_TITLE_CARD",
+          "observed_content": "Chapter3 title あの勇者の奮闘記 and Dust silhouette.",
+          "authority_or_uncertainty": "Unit marker, not a separately read narrative.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-14",
+          "member": "item/image/img-p085.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-14",
+          "bytes": 1066520,
+          "sha256": "5d225c7ce8049457b4b06ef84b6ad0a6e749e5a36e5826a8d5ff8a9e72a0226f",
+          "width": 1443,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S13",
+              "member": "item/xhtml/p-005.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 4,
+          "category": "PRINCIPAL_ILLUSTRATION",
+          "observed_content": "The light-haired succubus-design character is caught and supported against Mitsurugi; she grasps cloth and has a flushed, moist-eyed expression. A horn is visible in the illustration, while the surrounding performance presents her to Mitsurugi as a village girl.",
+          "authority_or_uncertainty": "No printed dialogue. The image alone does not establish coercion, consent, complete rescue chronology, sex or a stable private preference.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-15",
+          "member": "item/image/img-m005.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-15",
+          "bytes": 165528,
+          "sha256": "855b9326be94aeefe021ac021e00921450d8d1ec3a1a0b7405bca11e0b63b332",
+          "width": 347,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S14",
+              "member": "item/xhtml/p-006.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 5,
+          "category": "PRINCIPAL_UNIT_TITLE_CARD",
+          "observed_content": "Chapter4 title あの令嬢と恋仲に and Dust silhouette.",
+          "authority_or_uncertainty": "Title promises a framing; it does not by itself prove reciprocal romantic commitment.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-16",
+          "member": "item/image/img-p117.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-16",
+          "bytes": 1105958,
+          "sha256": "5d45af82104594fc51794092b441a14c94088225f9a0505bd0b9c69b82c1d5c8",
+          "width": 1443,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S14",
+              "member": "item/xhtml/p-006.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 5,
+          "category": "PRINCIPAL_ILLUSTRATION",
+          "observed_content": "Darkness is visibly tied with rope around torso/arms; Chris is the smaller figure behind her, with a startled expression and sweat marker.",
+          "authority_or_uncertainty": "Restraint is visibly depicted; binder, cause, harm, consent and emotional meaning remain unestablished without the prose scene. Blush/open mouth is not sufficient inner-state access.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-17",
+          "member": "item/image/img-p151.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-17",
+          "bytes": 1163879,
+          "sha256": "2375574050fb6cce4b76ab59b8de35da835cd0794105ac2ee6e798909cb1e2db",
+          "width": 1443,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S14",
+              "member": "item/xhtml/p-006.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 5,
+          "category": "PRINCIPAL_ILLUSTRATION_WITH_COMIC_REACTION_PANEL",
+          "observed_content": "Yunyun before Vanir in the unsolicited public-confession scene; lower small deformed reaction figures depict Darkness and Dust. The earlier maid-like/altered-uniform interpretation is withdrawn.",
+          "authority_or_uncertainty": "Chibi proportions and reaction marks are visual rhetoric, not evidence of bodily transformation. Exact proposal/response words or private attraction cannot be reconstructed from the image.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-18",
+          "member": "item/image/img-m006.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-18",
+          "bytes": 175312,
+          "sha256": "83e395c0dcc99bbc0c633489e63a8c75f2b770eb956a794e1ff178eb81266f7c",
+          "width": 347,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S15",
+              "member": "item/xhtml/p-007.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 5,
+          "category": "PRINCIPAL_UNIT_TITLE_CARD",
+          "observed_content": "Chapter5 title あの夢魔と敵対勢力 and Dust silhouette.",
+          "authority_or_uncertainty": "Decorative framing only.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-19",
+          "member": "item/image/img-p191.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-19",
+          "bytes": 1074772,
+          "sha256": "2e582fff378c835eaa20915c391a0a76729949e5c4507a00aa4c7047cea5e290",
+          "width": 1443,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S15",
+              "member": "item/xhtml/p-007.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 6,
+          "category": "PRINCIPAL_ILLUSTRATION",
+          "observed_content": "Sena wearing glasses and Darkness behind her in bat-themed shop costumes, visibly uneasy/flushed. The earlier Yunyun identification is wrong.",
+          "authority_or_uncertainty": "Costume/fanservice depiction does not alone identify occupational adoption, a completed sexual act or a consent state. No dialogue printed.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-20",
+          "member": "item/image/img-m007.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-20",
+          "bytes": 163867,
+          "sha256": "51c394cb13aa01d3e7172fa1f7412b289fd3085116c62a209b8987e1fb6dc01d",
+          "width": 347,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S16",
+              "member": "item/xhtml/p-008.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 6,
+          "category": "PRINCIPAL_UNIT_TITLE_CARD",
+          "observed_content": "Interlude title とある貴族の宝物 and Dust silhouette.",
+          "authority_or_uncertainty": "No identification of the noble or treasure can be inferred as a proved event solely from this title.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-21",
+          "member": "item/image/img-m008.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-21",
+          "bytes": 159776,
+          "sha256": "180eb26bbf9b0392a051070db5c94d3b5daffb1d4d34c68132085dd5a54d05da",
+          "width": 347,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S17",
+              "member": "item/xhtml/p-009.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 6,
+          "category": "PRINCIPAL_UNIT_TITLE_CARD",
+          "observed_content": "Final chapter title あの過去を超えて and Dust silhouette.",
+          "authority_or_uncertainty": "Title is not proof that a specific remembered event or reform occurred.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-22",
+          "member": "item/image/img-p239.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-22",
+          "bytes": 902405,
+          "sha256": "c5ab22aef1e8dac1425b9f7bb205f70897b4e8665587c8de597b1e86eb9e33b6",
+          "width": 1443,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S17",
+              "member": "item/xhtml/p-009.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 6,
+          "category": "PRINCIPAL_ILLUSTRATION",
+          "observed_content": "Smiling light-haired woman in low-neckline guild-style clothing with a bow, seated or leaning at a counter.",
+          "authority_or_uncertainty": "The now-read principal scene identifies the counter-seated woman as Luna; the image itself does not print her name. No proposition about staff competence, flirtation or intent is proved by the image alone.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-23",
+          "member": "item/image/img-p278.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-23",
+          "bytes": 937949,
+          "sha256": "05b8dabfd57c683a93804f81fe23f17de971f63e7e464b05eb6a96fa7a6a1b3e",
+          "width": 1443,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S17",
+              "member": "item/xhtml/p-009.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 7,
+          "category": "PRINCIPAL_ILLUSTRATION",
+          "observed_content": "Dust crouches with a long shaft-like weapon, smiling, in a dark/light-dappled scene.",
+          "authority_or_uncertainty": "A composed capable-looking pose is present; weapon identity, imminent target, successful attack or later identity reveal is not certified by this image alone.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-24",
+          "member": "item/image/img-m009.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-24",
+          "bytes": 121966,
+          "sha256": "738a297df9ea88dd4480e0e9eeddb77018e0edbf987480c56ba07dc1525915a4",
+          "width": 347,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S18",
+              "member": "item/xhtml/p-010.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 7,
+          "category": "PRINCIPAL_UNIT_TITLE_CARD",
+          "observed_content": "Epilogue title and Dust silhouette.",
+          "authority_or_uncertainty": "Unit marker only.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-25",
+          "member": "item/image/img-p287.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-25",
+          "bytes": 1211527,
+          "sha256": "f336ea6e7c803e325cb58093e29cdd3d3cfa659d63d6b85803b0b720d3f5e8b6",
+          "width": 1443,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S19",
+              "member": "item/xhtml/p-011.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 7,
+          "category": "ILLUSTRATOR_DRAWING_PLUS_THREE_CREATOR_COMMENTARIES",
+          "observed_content": "Loli Succubus drawing with three clearly separately attributed comments: Hagure Yuuki thanks readers, speaks as a fan and wonders about the succubus girl’s name; Natsume Akatsuki congratulates the spin-off and calls another author writing Dust fresh; Kurone Mishima congratulates the release, anticipates reading Dust’s background and appreciates Hagure’s character drawings.",
+          "authority_or_uncertainty": "These comments are creator/production paratext. They are not character speech or additional fictional scenes. Mishima’s anticipation does not establish a completed prior reading or blanket approval of every event. Handwritten signature shapes were viewed but not separately palaeographically decoded.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-26",
+          "member": "item/image/allcover-001.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-26",
+          "bytes": 709470,
+          "sha256": "34d76f867b390248900484840f2dea98f2e36afc7545d4da06b76368df357da5",
+          "width": 2048,
+          "height": 829,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S21",
+              "member": "item/xhtml/p-allcover-001.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 7,
+          "category": "REPRODUCED_JACKET_PACKAGING_BLURB_AND_CREATOR_INTRODUCTIONS",
+          "observed_content": "Full jacket/spine composition repeats the cover art/title/credits, adds Hirukuma and Hagure introductory comments and promotional synopsis of Dust’s money-seeking troubles/Vanir prediction; cover/design credits are printed.",
+          "authority_or_uncertainty": "The synopsis is promotional compressed narrative, not an independent event source. Its first-person opening fragment and self-described town influence need not be a narrator-verified factual claim. Reproduced cover artwork is not another encounter.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        },
+        {
+          "image_id": "DUST-01-IMG-27",
+          "member": "item/image/i-bookwalker.jpg",
+          "private_recovery_alias": "DUST01-IMAGE-RECOVERY-27",
+          "bytes": 342205,
+          "sha256": "7cd722f5a19b77ac2c3b9e336a39ecc9803b7a4263dd236f4e8253f15adf2a4a",
+          "width": 1443,
+          "height": 2048,
+          "format": "JPEG",
+          "placements": [
+            {
+              "component_id": "DUST-01-S24",
+              "member": "item/xhtml/p-bookwalker.xhtml"
+            }
+          ],
+          "viewing": "ACTUALLY_DISPLAYED_AND_VISUALLY_INSPECTED",
+          "tool": "view_image",
+          "requested_detail": "original",
+          "returned_detail": "original",
+          "actual_view_batch": 7,
+          "category": "RETAILER_BRANDING",
+          "observed_content": "BOOK☆WALKER colored book-bar logo on white.",
+          "authority_or_uncertainty": "Retailer mark, not fiction or evidence of an additional story/bonus.",
+          "placement_provenance": "Exact root package structural metadata; authorized nonprincipal wrappers independently checked against native. Principal body text was not opened for placement verification."
+        }
+      ],
+      "components": [
+        {
+          "component_id": "DUST-01-N01",
+          "member": "item/navigation-documents.xhtml",
+          "spine_position": null,
+          "native_bytes": 1735,
+          "native_sha256": "36c589474602ccc650d40e4719e5366919f82ca01bf6805ed84faaae529aa6dd",
+          "paragraph_slots": 0,
+          "nonempty_p": 0,
+          "base_characters": 0,
+          "ruby": 0,
+          "rt_nodes": 0,
+          "non_p_residual_records": 19,
+          "our_component_scope": "AUTHORIZED_NONPRINCIPAL_COMPLETE",
+          "category": "NAVIGATION_REFERENCE",
+          "actual_disposition": "All19 non-P labels/link text and structural targets read; no fictional prose.",
+          "independent_native_projection_verification": true,
+          "body_paragraph_read_coverage": [],
+          "non_p_read_count": 19,
+          "image_asset_ids": []
+        },
+        {
+          "component_id": "DUST-01-S01",
+          "member": "item/xhtml/p-cover.xhtml",
+          "spine_position": 1,
+          "native_bytes": 817,
+          "native_sha256": "a6e2d3e8faa8986be86894040f6cbdb2d58c90c5f34820a1c5b370b81b66f663",
+          "paragraph_slots": 0,
+          "nonempty_p": 0,
+          "base_characters": 0,
+          "ruby": 0,
+          "rt_nodes": 0,
+          "non_p_residual_records": 0,
+          "our_component_scope": "AUTHORIZED_NONPRINCIPAL_COMPLETE",
+          "category": "COVER_PACKAGING",
+          "actual_disposition": "Full wrapper read, cover viewed.",
+          "independent_native_projection_verification": true,
+          "body_paragraph_read_coverage": [],
+          "non_p_read_count": 0,
+          "image_asset_ids": [
+            "DUST-01-IMG-01"
+          ]
+        },
+        {
+          "component_id": "DUST-01-S02",
+          "member": "item/xhtml/p-fmatter-001.xhtml",
+          "spine_position": 2,
+          "native_bytes": 804,
+          "native_sha256": "b07ee1cb09a03446608d89b84d9b50b0a36c63a31277082370368e43a6b9cdb8",
+          "paragraph_slots": 0,
+          "nonempty_p": 0,
+          "base_characters": 0,
+          "ruby": 0,
+          "rt_nodes": 0,
+          "non_p_residual_records": 0,
+          "our_component_scope": "AUTHORIZED_NONPRINCIPAL_COMPLETE",
+          "category": "FRONT_PORTRAIT_PACKAGING",
+          "actual_disposition": "Full wrapper read, illustration/title viewed.",
+          "independent_native_projection_verification": true,
+          "body_paragraph_read_coverage": [],
+          "non_p_read_count": 0,
+          "image_asset_ids": [
+            "DUST-01-IMG-02"
+          ]
+        },
+        {
+          "component_id": "DUST-01-S03",
+          "member": "item/xhtml/p-fmatter-002.xhtml",
+          "spine_position": 3,
+          "native_bytes": 804,
+          "native_sha256": "dff221a29b773edc68e5cd44c393529c04a5f373736ba72f8cbd0577f03d1a35",
+          "paragraph_slots": 0,
+          "nonempty_p": 0,
+          "base_characters": 0,
+          "ruby": 0,
+          "rt_nodes": 0,
+          "non_p_residual_records": 0,
+          "our_component_scope": "AUTHORIZED_NONPRINCIPAL_COMPLETE",
+          "category": "ILLUSTRATED_CONTENTS",
+          "actual_disposition": "Full wrapper read, complete printed contents/art/credits viewed.",
+          "independent_native_projection_verification": true,
+          "body_paragraph_read_coverage": [],
+          "non_p_read_count": 0,
+          "image_asset_ids": [
+            "DUST-01-IMG-03"
+          ]
+        },
+        {
+          "component_id": "DUST-01-S04",
+          "member": "item/xhtml/p-fmatter-003.xhtml",
+          "spine_position": 4,
+          "native_bytes": 804,
+          "native_sha256": "f4693c6a411d10bba9b375680faf78221bfed0e7ad2e82f12759c5a55ad22e87",
+          "paragraph_slots": 0,
+          "nonempty_p": 0,
+          "base_characters": 0,
+          "ruby": 0,
+          "rt_nodes": 0,
+          "non_p_residual_records": 0,
+          "our_component_scope": "AUTHORIZED_NONPRINCIPAL_COMPLETE",
+          "category": "CHARACTER_REFERENCE_QUOTE_MONTAGE",
+          "actual_disposition": "Full wrapper read, labels/quotes viewed; scene matching unresolved.",
+          "independent_native_projection_verification": true,
+          "body_paragraph_read_coverage": [],
+          "non_p_read_count": 0,
+          "image_asset_ids": [
+            "DUST-01-IMG-04"
+          ]
+        },
+        {
+          "component_id": "DUST-01-S05",
+          "member": "item/xhtml/p-fmatter-004.xhtml",
+          "spine_position": 5,
+          "native_bytes": 804,
+          "native_sha256": "ad361220e84143bccd7f847291642c31bafb61c50dd13b09cc034e5b8c37498a",
+          "paragraph_slots": 0,
+          "nonempty_p": 0,
+          "base_characters": 0,
+          "ruby": 0,
+          "rt_nodes": 0,
+          "non_p_residual_records": 0,
+          "our_component_scope": "AUTHORIZED_NONPRINCIPAL_COMPLETE",
+          "category": "CAPTIONED_COLOR_ILLUSTRATION",
+          "actual_disposition": "Full wrapper read, caption and costume image viewed; prose scene not read.",
+          "independent_native_projection_verification": true,
+          "body_paragraph_read_coverage": [],
+          "non_p_read_count": 0,
+          "image_asset_ids": [
+            "DUST-01-IMG-05"
+          ]
+        },
+        {
+          "component_id": "DUST-01-S06",
+          "member": "item/xhtml/p-titlepage.xhtml",
+          "spine_position": 6,
+          "native_bytes": 1279,
+          "native_sha256": "c4cafca519d044032c0fd28d03b189020d119155078bf8e93f810662ff4f380f",
+          "paragraph_slots": 7,
+          "nonempty_p": 7,
+          "base_characters": 69,
+          "ruby": 0,
+          "rt_nodes": 0,
+          "non_p_residual_records": 0,
+          "our_component_scope": "AUTHORIZED_NONPRINCIPAL_COMPLETE",
+          "category": "TITLE_AND_CREATOR_CREDIT",
+          "actual_disposition": "All7P read; original-work and prose-author roles distinguished.",
+          "independent_native_projection_verification": true,
+          "body_paragraph_read_coverage": [
+            1,
+            7
+          ],
+          "non_p_read_count": 0,
+          "image_asset_ids": []
+        },
+        {
+          "component_id": "DUST-01-S07",
+          "member": "item/xhtml/p-caution.xhtml",
+          "spine_position": 7,
+          "native_bytes": 787,
+          "native_sha256": "1bf1a83af1063332aed43a537d293c9d2efff17886291f41501684f0c401b9ab",
+          "paragraph_slots": 4,
+          "nonempty_p": 3,
+          "base_characters": 112,
+          "ruby": 0,
+          "rt_nodes": 0,
+          "non_p_residual_records": 0,
+          "our_component_scope": "AUTHORIZED_NONPRINCIPAL_COMPLETE",
+          "category": "DISPLAY_AND_TECHNICAL_CAUTION",
+          "actual_disposition": "All4P read, including blank/br slot.",
+          "independent_native_projection_verification": true,
+          "body_paragraph_read_coverage": [
+            1,
+            4
+          ],
+          "non_p_read_count": 0,
+          "image_asset_ids": []
+        },
+        {
+          "component_id": "DUST-01-S08",
+          "member": "item/xhtml/p-toc-001.xhtml",
+          "spine_position": 8,
+          "native_bytes": 1610,
+          "native_sha256": "cf78b2860c4489b8c1b89ab4d6da4bbbcd767962957c6f765f748d63de120cb7",
+          "paragraph_slots": 15,
+          "nonempty_p": 12,
+          "base_characters": 120,
+          "ruby": 0,
+          "rt_nodes": 0,
+          "non_p_residual_records": 0,
+          "our_component_scope": "AUTHORIZED_NONPRINCIPAL_COMPLETE",
+          "category": "NAVIGATION_CONTENTS",
+          "actual_disposition": "All15P read, including three blank/br slots; bonus explicitly labelled.",
+          "independent_native_projection_verification": true,
+          "body_paragraph_read_coverage": [
+            1,
+            15
+          ],
+          "non_p_read_count": 0,
+          "image_asset_ids": []
+        },
+        {
+          "component_id": "DUST-01-S09",
+          "member": "item/xhtml/p-001.xhtml",
+          "spine_position": 9,
+          "native_bytes": 802,
+          "native_sha256": "9c86492b862eb9cda5d89b331d7a9225f83e9dc72ffab6183fc11f4b987f193b",
+          "paragraph_slots": 0,
+          "nonempty_p": 0,
+          "base_characters": 0,
+          "ruby": 0,
+          "rt_nodes": 0,
+          "non_p_residual_records": 0,
+          "our_component_scope": "AUTHORIZED_NONPRINCIPAL_COMPLETE",
+          "category": "ILLUSTRATED_CHARACTER_REFERENCE",
+          "actual_disposition": "Full wrapper and all character-profile image text read.",
+          "independent_native_projection_verification": true,
+          "body_paragraph_read_coverage": [],
+          "non_p_read_count": 0,
+          "image_asset_ids": [
+            "DUST-01-IMG-06"
+          ]
+        },
+        {
+          "component_id": "DUST-01-S10",
+          "member": "item/xhtml/p-002.xhtml",
+          "spine_position": 10,
+          "native_bytes": 7708,
+          "native_sha256": "91b85aef7e2e2408bc4a337ee47f4bfd7925eabdd5086bad4da902786c44f361",
+          "paragraph_slots": 42,
+          "nonempty_p": 40,
+          "base_characters": 1598,
+          "ruby": 54,
+          "rt_nodes": 82,
+          "non_p_residual_records": 0,
+          "our_component_scope": "PRINCIPAL_BODY_NOT_OPENED_BY_THIS_COMPONENT_PASS",
+          "category": "PRINCIPAL_NARRATIVE_METADATA_ONLY",
+          "actual_disposition": "Principal-member identity/counts inherited from root structural/admission metadata. Embedded images alone viewed under separate authorization. No principal prose reading/completion claim.",
+          "independent_native_projection_verification": false,
+          "body_paragraph_read_coverage": [],
+          "image_asset_ids": [
+            "DUST-01-IMG-07"
+          ]
+        },
+        {
+          "component_id": "DUST-01-S11",
+          "member": "item/xhtml/p-003.xhtml",
+          "spine_position": 11,
+          "native_bytes": 30336,
+          "native_sha256": "8ff5b86a41f9b66e77373902a8f4820aeede5c8a36076dbcf9dfda3cf2cf0bd5",
+          "paragraph_slots": 176,
+          "nonempty_p": 168,
+          "base_characters": 6982,
+          "ruby": 206,
+          "rt_nodes": 298,
+          "non_p_residual_records": 0,
+          "our_component_scope": "PRINCIPAL_BODY_NOT_OPENED_BY_THIS_COMPONENT_PASS",
+          "category": "PRINCIPAL_NARRATIVE_METADATA_ONLY",
+          "actual_disposition": "Principal-member identity/counts inherited from root structural/admission metadata. Embedded images alone viewed under separate authorization. No principal prose reading/completion claim.",
+          "independent_native_projection_verification": false,
+          "body_paragraph_read_coverage": [],
+          "image_asset_ids": [
+            "DUST-01-IMG-08",
+            "DUST-01-IMG-09"
+          ]
+        },
+        {
+          "component_id": "DUST-01-S12",
+          "member": "item/xhtml/p-004.xhtml",
+          "spine_position": 12,
+          "native_bytes": 75376,
+          "native_sha256": "afe32cc5d5cefd0f034174dbf936615a817b720b1314e46456b400b5ee2a7b82",
+          "paragraph_slots": 466,
+          "nonempty_p": 445,
+          "base_characters": 18323,
+          "ruby": 428,
+          "rt_nodes": 635,
+          "non_p_residual_records": 0,
+          "our_component_scope": "PRINCIPAL_BODY_NOT_OPENED_BY_THIS_COMPONENT_PASS",
+          "category": "PRINCIPAL_NARRATIVE_METADATA_ONLY",
+          "actual_disposition": "Principal-member identity/counts inherited from root structural/admission metadata. Embedded images alone viewed under separate authorization. No principal prose reading/completion claim.",
+          "independent_native_projection_verification": false,
+          "body_paragraph_read_coverage": [],
+          "image_asset_ids": [
+            "DUST-01-IMG-10",
+            "DUST-01-IMG-11",
+            "DUST-01-IMG-12"
+          ]
+        },
+        {
+          "component_id": "DUST-01-S13",
+          "member": "item/xhtml/p-005.xhtml",
+          "spine_position": 13,
+          "native_bytes": 67514,
+          "native_sha256": "e39c43625ecfc0c72ff49a805a1baf90c5c3df53677a7c66f321528b4348bb49",
+          "paragraph_slots": 411,
+          "nonempty_p": 393,
+          "base_characters": 16029,
+          "ruby": 429,
+          "rt_nodes": 626,
+          "non_p_residual_records": 0,
+          "our_component_scope": "PRINCIPAL_BODY_NOT_OPENED_BY_THIS_COMPONENT_PASS",
+          "category": "PRINCIPAL_NARRATIVE_METADATA_ONLY",
+          "actual_disposition": "Principal-member identity/counts inherited from root structural/admission metadata. Embedded images alone viewed under separate authorization. No principal prose reading/completion claim.",
+          "independent_native_projection_verification": false,
+          "body_paragraph_read_coverage": [],
+          "image_asset_ids": [
+            "DUST-01-IMG-13",
+            "DUST-01-IMG-14"
+          ]
+        },
+        {
+          "component_id": "DUST-01-S14",
+          "member": "item/xhtml/p-006.xhtml",
+          "spine_position": 14,
+          "native_bytes": 95037,
+          "native_sha256": "da16890f4a720b7568f3bf5f492b92befc2af6b313fce6fb090223601527ed8d",
+          "paragraph_slots": 575,
+          "nonempty_p": 559,
+          "base_characters": 22488,
+          "ruby": 611,
+          "rt_nodes": 907,
+          "non_p_residual_records": 0,
+          "our_component_scope": "PRINCIPAL_BODY_NOT_OPENED_BY_THIS_COMPONENT_PASS",
+          "category": "PRINCIPAL_NARRATIVE_METADATA_ONLY",
+          "actual_disposition": "Principal-member identity/counts inherited from root structural/admission metadata. Embedded images alone viewed under separate authorization. No principal prose reading/completion claim.",
+          "independent_native_projection_verification": false,
+          "body_paragraph_read_coverage": [],
+          "image_asset_ids": [
+            "DUST-01-IMG-15",
+            "DUST-01-IMG-16",
+            "DUST-01-IMG-17"
+          ]
+        },
+        {
+          "component_id": "DUST-01-S15",
+          "member": "item/xhtml/p-007.xhtml",
+          "spine_position": 15,
+          "native_bytes": 98953,
+          "native_sha256": "fb0ce659939f2e6e4bc0b3848ded417ae3beafa949eb9dc0ef81d3113e5e8e85",
+          "paragraph_slots": 583,
+          "nonempty_p": 564,
+          "base_characters": 24350,
+          "ruby": 563,
+          "rt_nodes": 841,
+          "non_p_residual_records": 0,
+          "our_component_scope": "PRINCIPAL_BODY_NOT_OPENED_BY_THIS_COMPONENT_PASS",
+          "category": "PRINCIPAL_NARRATIVE_METADATA_ONLY",
+          "actual_disposition": "Principal-member identity/counts inherited from root structural/admission metadata. Embedded images alone viewed under separate authorization. No principal prose reading/completion claim.",
+          "independent_native_projection_verification": false,
+          "body_paragraph_read_coverage": [],
+          "image_asset_ids": [
+            "DUST-01-IMG-18",
+            "DUST-01-IMG-19"
+          ]
+        },
+        {
+          "component_id": "DUST-01-S16",
+          "member": "item/xhtml/p-008.xhtml",
+          "spine_position": 16,
+          "native_bytes": 10001,
+          "native_sha256": "495d98fa18aaeab4b40dbb0fce0bf751d58cc527d6bc53688a71efa57397a670",
+          "paragraph_slots": 52,
+          "nonempty_p": 49,
+          "base_characters": 2168,
+          "ruby": 71,
+          "rt_nodes": 99,
+          "non_p_residual_records": 0,
+          "our_component_scope": "PRINCIPAL_BODY_NOT_OPENED_BY_THIS_COMPONENT_PASS",
+          "category": "PRINCIPAL_NARRATIVE_METADATA_ONLY",
+          "actual_disposition": "Principal-member identity/counts inherited from root structural/admission metadata. Embedded images alone viewed under separate authorization. No principal prose reading/completion claim.",
+          "independent_native_projection_verification": false,
+          "body_paragraph_read_coverage": [],
+          "image_asset_ids": [
+            "DUST-01-IMG-20"
+          ]
+        },
+        {
+          "component_id": "DUST-01-S17",
+          "member": "item/xhtml/p-009.xhtml",
+          "spine_position": 17,
+          "native_bytes": 126004,
+          "native_sha256": "84be1ec954a42fd9ec7e2bfff0bf1d06101659f844c63014c16bcd5d19b5deb7",
+          "paragraph_slots": 801,
+          "nonempty_p": 773,
+          "base_characters": 29016,
+          "ruby": 867,
+          "rt_nodes": 1321,
+          "non_p_residual_records": 0,
+          "our_component_scope": "PRINCIPAL_BODY_NOT_OPENED_BY_THIS_COMPONENT_PASS",
+          "category": "PRINCIPAL_NARRATIVE_METADATA_ONLY",
+          "actual_disposition": "Principal-member identity/counts inherited from root structural/admission metadata. Embedded images alone viewed under separate authorization. No principal prose reading/completion claim.",
+          "independent_native_projection_verification": false,
+          "body_paragraph_read_coverage": [],
+          "image_asset_ids": [
+            "DUST-01-IMG-21",
+            "DUST-01-IMG-22",
+            "DUST-01-IMG-23"
+          ]
+        },
+        {
+          "component_id": "DUST-01-S18",
+          "member": "item/xhtml/p-010.xhtml",
+          "spine_position": 18,
+          "native_bytes": 11780,
+          "native_sha256": "b1ef3f26170e06516a63df036dc8bbbe3c47e1fa7ca085c14d8608f9e8e5260e",
+          "paragraph_slots": 79,
+          "nonempty_p": 77,
+          "base_characters": 2670,
+          "ruby": 70,
+          "rt_nodes": 104,
+          "non_p_residual_records": 0,
+          "our_component_scope": "PRINCIPAL_BODY_NOT_OPENED_BY_THIS_COMPONENT_PASS",
+          "category": "PRINCIPAL_NARRATIVE_METADATA_ONLY",
+          "actual_disposition": "Principal-member identity/counts inherited from root structural/admission metadata. Embedded images alone viewed under separate authorization. No principal prose reading/completion claim.",
+          "independent_native_projection_verification": false,
+          "body_paragraph_read_coverage": [],
+          "image_asset_ids": [
+            "DUST-01-IMG-24"
+          ]
+        },
+        {
+          "component_id": "DUST-01-S19",
+          "member": "item/xhtml/p-011.xhtml",
+          "spine_position": 19,
+          "native_bytes": 4993,
+          "native_sha256": "c74d35b110a92b42d03958f459001b53e8d4215ec7448e7229ba6e3aa9b0f804",
+          "paragraph_slots": 19,
+          "nonempty_p": 14,
+          "base_characters": 1002,
+          "ruby": 29,
+          "rt_nodes": 48,
+          "non_p_residual_records": 0,
+          "our_component_scope": "AUTHORIZED_NONPRINCIPAL_COMPLETE",
+          "category": "AUTHOR_AFTERWORD_AND_IMAGE_CONTAINED_CREATOR_COMMENTARY",
+          "actual_disposition": "All19P/1002base/29ruby read, and image atP19 separately viewed/read. Production statements separated from story events.",
+          "independent_native_projection_verification": true,
+          "body_paragraph_read_coverage": [
+            1,
+            19
+          ],
+          "non_p_read_count": 0,
+          "image_asset_ids": [
+            "DUST-01-IMG-25"
+          ]
+        },
+        {
+          "component_id": "DUST-01-S20",
+          "member": "item/xhtml/p-012.xhtml",
+          "spine_position": 20,
+          "native_bytes": 6810,
+          "native_sha256": "02826598c22b5cb995bb65a985f1efe6f9e0420b826b984d118fc608c34c6df9",
+          "paragraph_slots": 52,
+          "nonempty_p": 50,
+          "base_characters": 1911,
+          "ruby": 0,
+          "rt_nodes": 0,
+          "non_p_residual_records": 0,
+          "our_component_scope": "AUTHORIZED_NONPRINCIPAL_COMPLETE",
+          "category": "BONUS_FICTION",
+          "actual_disposition": "DUST-01-BONUS-01; all52P/1911base read, no ruby. Separate supplementary narrative; exact duplication/publication date/continuity still unresolved.",
+          "independent_native_projection_verification": true,
+          "body_paragraph_read_coverage": [
+            1,
+            52
+          ],
+          "non_p_read_count": 0,
+          "image_asset_ids": []
+        },
+        {
+          "component_id": "DUST-01-S21",
+          "member": "item/xhtml/p-allcover-001.xhtml",
+          "spine_position": 21,
+          "native_bytes": 803,
+          "native_sha256": "13234035e94447ffd5be5097c88c04d8a792c8baae0b9dc9a7ba0dd21f540914",
+          "paragraph_slots": 0,
+          "nonempty_p": 0,
+          "base_characters": 0,
+          "ruby": 0,
+          "rt_nodes": 0,
+          "non_p_residual_records": 0,
+          "our_component_scope": "AUTHORIZED_NONPRINCIPAL_COMPLETE",
+          "category": "JACKET_REPRODUCTION_AND_PROMOTION",
+          "actual_disposition": "Full wrapper and allcover printed blurbs/introductions viewed/read.",
+          "independent_native_projection_verification": true,
+          "body_paragraph_read_coverage": [],
+          "non_p_read_count": 0,
+          "image_asset_ids": [
+            "DUST-01-IMG-26"
+          ]
+        },
+        {
+          "component_id": "DUST-01-S22",
+          "member": "item/xhtml/p-colophon.xhtml",
+          "spine_position": 22,
+          "native_bytes": 3061,
+          "native_sha256": "4f1b5d5b14e062fa7749d90fc246f3e94f1a5346592c2b9d5ef00b8c9cc1b767",
+          "paragraph_slots": 21,
+          "nonempty_p": 21,
+          "base_characters": 379,
+          "ruby": 11,
+          "rt_nodes": 23,
+          "non_p_residual_records": 0,
+          "our_component_scope": "AUTHORIZED_NONPRINCIPAL_COMPLETE",
+          "category": "EDITION_AND_PUBLICATION_REFERENCE",
+          "actual_disposition": "All21P/11ruby read. 2017-08-01 publication distinct from2023 package modification.",
+          "independent_native_projection_verification": true,
+          "body_paragraph_read_coverage": [
+            1,
+            21
+          ],
+          "non_p_read_count": 0,
+          "image_asset_ids": []
+        },
+        {
+          "component_id": "DUST-01-S23",
+          "member": "item/xhtml/p-colophon2.xhtml",
+          "spine_position": 23,
+          "native_bytes": 1248,
+          "native_sha256": "eb70290b34d7849c6ec645d3d844d38ff62ebbd1def7e105a022fdb113dcd415",
+          "paragraph_slots": 6,
+          "nonempty_p": 4,
+          "base_characters": 191,
+          "ruby": 0,
+          "rt_nodes": 0,
+          "non_p_residual_records": 0,
+          "our_component_scope": "AUTHORIZED_NONPRINCIPAL_COMPLETE",
+          "category": "CREATOR_ORIGINALS_AND_RIGHTS_NOTICES",
+          "actual_disposition": "All6P read. Character-originals credit and rights/support context, no new fiction.",
+          "independent_native_projection_verification": true,
+          "body_paragraph_read_coverage": [
+            1,
+            6
+          ],
+          "non_p_read_count": 0,
+          "image_asset_ids": []
+        },
+        {
+          "component_id": "DUST-01-S24",
+          "member": "item/xhtml/p-bookwalker.xhtml",
+          "spine_position": 24,
+          "native_bytes": 669,
+          "native_sha256": "c865e1ab699a8f334f38ca80244e6385be120801b92316edf5d0df6ba22035ee",
+          "paragraph_slots": 0,
+          "nonempty_p": 0,
+          "base_characters": 0,
+          "ruby": 0,
+          "rt_nodes": 0,
+          "non_p_residual_records": 0,
+          "our_component_scope": "AUTHORIZED_NONPRINCIPAL_COMPLETE",
+          "category": "RETAILER_PROMOTION",
+          "actual_disposition": "Full wrapper read, logo viewed.",
+          "independent_native_projection_verification": true,
+          "body_paragraph_read_coverage": [],
+          "non_p_read_count": 0,
+          "image_asset_ids": [
+            "DUST-01-IMG-27"
+          ]
+        }
+      ],
+      "publication_dates": {
+        "edition_publication": "2017-08-01",
+        "base_first_edition": "2017-08-01",
+        "opf_modified": "2023-03-25T00:00:00Z",
+        "bonus_first_publication": "NOT_ESTABLISHED"
+      },
+      "authority_roles": {
+        "prose_author": "昼熊",
+        "original_work": "暁なつめ",
+        "character_originals": "三嶋くろね",
+        "illustration": "憂姫はぐれ",
+        "OPF_all_four_role_aut": "Preserved ambiguous machine role; human-facing title/cover/colophon/afterword clarify distinct roles."
+      },
+      "global_limits": [
+        "Retrospective later-Dust-informed continuing AI lineage, now bonus/image-informed before any future principal pass.",
+        "No P notes or findings read/shared.",
+        "No new full principal novel reading, formal humor census, code/outcome, R1 model revision, independent validation trial, acoustic observation or native-human certification.",
+        "No other EPUB/native source, image, excluded narrative or external lookup opened.",
+        "Private native XML, images and full projections are recovery artifacts and must not be copied into public Git.",
+        "All27 assets are27 viewed files, not27 independent scenes. Reproduced portraits/cover/silhouettes are dependent design material.",
+        "Complete this authorized component scope does not close whole-edition principal/literary analysis or all Stage C responsibilities."
+      ]
+    },
+    "source_safety": "No media bytes, native attachment path, full paragraph/XML/ruby arrays or private workspace asset path are included. Member names and hashes identify edition components; opaque recovery aliases resolve only through the separately retained private proof."
+  },
+  "source_plane": "STAGE_C_EXPANDED_ONLY_NO_FROZEN_BASELINE_OR_SCORE_CHANGE",
+  "unresolved": "Bonus first-publication/in-world date and exact reprint dependencies; no edition-completeness claim beyond this governed object."
+}

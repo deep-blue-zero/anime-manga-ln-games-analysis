@@ -1,0 +1,1009 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1",
+  "status": "PREPARED_EXACT_CANONICAL_DERIVATIVE_ROOT_INSTALLATION_PENDING",
+  "required_home": "P3-CHAR-MASHIRO",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MASHIRO_CHARACTER_MONOGRAPH.md",
+    "bytes": 37599,
+    "sha256": "e592ac7b5e8815bdba181c88db675c83a0cdd314fd5532decb13d4dc4ec78548",
+    "git_blob_oid_of_actual_bytes": "879cf4ace085c284feb3414fe135aceaf76155e1"
+  },
+  "all_immutable_local_input_tuples": [
+    {
+      "path": "TRINITY_JUSTICE_MONOGRAPHS/BLUE_ARCHIVE_MASHIRO_CHARACTER_MONOGRAPH.md",
+      "bytes": 36158,
+      "sha256": "e5acb2adcb32cea98d6fe38db414c6287b048d1338ac55962bbd465cad957929",
+      "git_blob_oid_of_actual_bytes": "f8d24fa0f8a58d53d45b4c6fa33332cd3a0d9eff",
+      "lines": 144
+    },
+    {
+      "path": "ROOT_MASHIRO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 6370,
+      "sha256": "6613a5b6815949524a0be8ad6abb851ceee5434ec988fd6179cf90cd7bc4eb71",
+      "git_blob_oid_of_actual_bytes": "98d16d05e619e95b24f4cdfaa94ce809fd9503e6",
+      "lines": 159
+    },
+    {
+      "path": "TRINITY_JUSTICE_MONOGRAPHS/MASHIRO_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "bytes": 29479,
+      "sha256": "79b98113e59c9f1982f70e7e23198493927d5e9826e5422a1c198b6543143c01",
+      "git_blob_oid_of_actual_bytes": "d1bc4a70f61d97e8323fed8bec7b3a5602644b82",
+      "lines": 550
+    },
+    {
+      "path": "TRINITY_JUSTICE_MONOGRAPHS/MASHIRO_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "bytes": 61488,
+      "sha256": "88df334608f19f535fb78e71dd724ff0ee3a53e37e14a8a2b32ba1e0b650abb9",
+      "git_blob_oid_of_actual_bytes": "86b788f8eaded41ab10fcc7eba2b35e3120851ac",
+      "lines": 885
+    },
+    {
+      "path": "TRINITY_JUSTICE_MONOGRAPHS/MASHIRO_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+      "bytes": 16849,
+      "sha256": "77600686f2ffacf7e8106421aa462495a6dd6628467e32c23482a80c14d2fd21",
+      "git_blob_oid_of_actual_bytes": "40790f4c8bc2eca524d9171fdc7a2d56d3b8ea6f",
+      "lines": 424
+    }
+  ],
+  "input_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MASHIRO_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "root_acceptance_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MASHIRO_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "transformation": "Only authority/frontmatter/current-scope framing, ROOT acceptance paragraph and explicitly disclosed historical-to-current status are changed. All original substantive body lines not named in the exact changed ranges are byte-equal and exhaustively mapped through EOF.",
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 4,
+      "canonical_line": 3,
+      "line_sha256": "b338f67ee786da13c2696216b79a7f59b8589825c8ad2208645e8d1134acda48",
+      "line_text": "package_key: P3-CHAR-MASHIRO"
+    },
+    {
+      "frozen_line": 5,
+      "canonical_line": 4,
+      "line_sha256": "42174ab0d58180c2b9b1ef6d081f79689fec5085713f928f77133937410e2e30",
+      "line_text": "candidate_responsibility: P3-F115"
+    },
+    {
+      "frozen_line": 6,
+      "canonical_line": 5,
+      "line_sha256": "e7a788054afb3032c592c367dea82955acad09488f259c0fc676ed789cd5b269",
+      "line_text": "linked_dated_route: P3-A037"
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 6,
+      "line_sha256": "9f08d8c9cdba485367bb4577a789bb4d47bdca4d0044ea42c888b25b58f9a3db",
+      "line_text": "person_key: BA_PERSON_MASHIRO"
+    },
+    {
+      "frozen_line": 8,
+      "canonical_line": 7,
+      "line_sha256": "6160eacbe14c9eca90f2888d78c0d4540a547ac938ece7c8a4c9c3f21a65f684",
+      "line_text": "display_name: Mashiro"
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 8,
+      "line_sha256": "f727bde37e9643ed6d0ebe1150e5d51b2c521ee8b7d5fd27e95c49bfb9ce6ec1",
+      "line_text": "variant_routes: [20003, 20004]"
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 9,
+      "line_sha256": "e925da12cf3d1926d8a7604c1d172cac57995cc7a685a549b2f1d5f0905c9ce4",
+      "line_text": "architecture: 1.12"
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 10,
+      "line_sha256": "ed2e528e6315754c1403405723fcd84011f6ea85eca3bf6d98f192bf5d3300a1",
+      "line_text": "created: 2026-10-10"
+    },
+    {
+      "frozen_line": 13,
+      "canonical_line": 11,
+      "line_sha256": "a1bccb9af245e370e8051bd3b0e1eaedd3daabac1db2c39f08bb5d84c9cab8c6",
+      "line_text": "source_credit: accepted_analytical_arguments_reused_with_declared_scope"
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 12,
+      "line_sha256": "78f66a5c711ab499c2b23b7da20193313f5c6bacd71757b8905f6f3b5e944fdb",
+      "line_text": "performed_voice_received: false"
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 13,
+      "line_sha256": "8ca2662d9764f44d40b9dd447e781fc3ce4164facdb4ac8fcf7ea568e6e0ef3b",
+      "line_text": "all_fourteen_gaps: OPEN"
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 29,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 30,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 31,
+      "line_sha256": "97772d41b084ca1a0b51db1f15e6a31b0469961f581733dbc4c980426ea9d441",
+      "line_text": "# Mashiro: justice, chosen pleasure and the participant's limits"
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 34,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 20,
+      "canonical_line": 35,
+      "line_sha256": "9a33aac2c231771295cd2645089044fec6ce7af972d47a6880d6d3d5b2ba99b9",
+      "line_text": "## 1. Core thesis"
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 36,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 37,
+      "line_sha256": "9363cd57c53090f1d0fe5b89c3527ff41c60ffcc95609cfc38c2f43983ee37f6",
+      "line_text": "Mashiro seeks an intelligible relationship between useful work, justice and a life she wants to share. She initiates difficult reading, invites observation of chosen practice, asks for clothing advice and wants another person to linger above a beautiful city. These are different forms of agency, rather than a blank seriousness which the adult fills with feeling. Her quietness does not abolish humor, enthusiasm, taste or talk. The sustained question is how a sincerely wanted practice becomes an experience for someone else: her own bodily limits can be precise, while her reading of another participant's fatigue, withdrawal or preferred leisure can fail. [P01:20003:002–015; 20004:002–006]"
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 38,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 39,
+      "line_sha256": "fde59325b35571642baf67260e9956e1dbc74b8aeffca5cc68c0e7ded189c689",
+      "line_text": "That asymmetry is a literary argument, not a permanent diagnosis of hypocrisy. A neck-touch objection is explicit; a later adult request to wait is refused. Homemade cooling food has real taste and care value; the special prize nevertheless ends in strenuous exercise with no swimming. By contrast, an actual clinic return and narrated recovery cannot be downgraded into a mere hope because its diagnosis is provisional. Mashiro's meanings require separate accounts of intention, permission, action, recipient experience and achieved ending. None of those levels supplies all the others. [P01:20003:005/006; 20004:003/005]"
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 40,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 41,
+      "line_sha256": "05a755b29057a6b5e8b3cec7fc24994e0c2017a45e059c9fd985d1cb96631ea5",
+      "line_text": "Her justice vocabulary is neither automatically empty nor an institutionally valid warrant. It can frame an unproved ambition to save everyone, make a commercial cuteness slogan sound like a rule, justify a personal gift or support a decision to rest. Public contexts also show actual restraint: she refuses to fire across a boundary until express permission arrives, offers a caring relay while guarding a venue and recognizes another audience's discomfort. Those acts complicate the private pressure without erasing it. The strongest portrait holds real ethical search and particular ordinary pleasures beside incomplete judgment about means, other people and institutional consequences. [P01:20003:003; 20004:002/003; L06; E51:004–014; L13; G01:1802]"
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 42,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 43,
+      "line_sha256": "6a7cca62c7a19662dc5b986a42d8a30205730b60f6cdc0d4516e4c792949adcc",
+      "line_text": "## 2. Longitudinal arc"
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 44,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 45,
+      "line_sha256": "33841154a19c8666b722dfd97f5b1e7077d9b1b2192b40a35a7ef16d779a0c4c",
+      "line_text": "The private sequence provides documentary links and local afterstates, not a universal growth ladder. Eleven BOND stories have their complete linked message threads. The exhaustion in base006 continues past its schedule witness into concerned messages and the adult's empty-looking replies; summer003 gives local recovery before a later self-report of recovery in summer005. Those relationships matter. They do not date every summer, group, public or written scene relative to Eden or make the summer presentation a more mature person. The selected variants remain two literal routes for one family question. [P01:checkpoint:L184–L210/L263–L265/L293–L309]"
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 46,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 47,
+      "line_sha256": "ecdfbc952404ca246460e19dbaecce30f6f51b4b318d839e07a4520eba4a3500",
+      "line_text": "At the beginning of the base repertoire, practical uniform repair and an unsuccessful joke already combine work with wanted conversation. The blood-color explanation frightens the teacher and is explicitly retracted as a joke, while the separate statement that operations leave blood to wash is affirmed. Her admission that people become afraid is local self-appraisal; the ending is time hearing her worries. No successful comedy lesson, new skirt delivery or independently enumerated casualty follows. Neither pure harmless joking nor pure violent confession adequately describes this mixed ending. [P01:20003:002]"
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 48,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 49,
+      "line_sha256": "f8467479d392576ea8dac6ca830ff5d88120ecb56449db5d7100a5f6fa86502d",
+      "line_text": "Reading then gives an explicit self-directed question. Mashiro says she once equated seniors with justice and Gehenna with evil, and says her view has changed while continuing to trust the seniors. The difficult book does not provide the answer she wants. Asked what she wants, she chooses to seek a way to save everyone outside the dilemma's imposed restrictions. The ambition is real, as is the pleasure of reading together; an executable rescue technique, appointment as future leader and completed renunciation of every school hostility are not shown. This is local ethical inquiry, not a completed institutional reform. [P01:20003:003]"
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 50,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 51,
+      "line_sha256": "db788c4a7208554f04e5e692462426266596ec59b459d3c15597f2b4b00434a1",
+      "line_text": "The other book encounter extends that inquiry through enjoyment rather than emergency. She values idiom origins, lessons and eventual justice, reports that people find the interest old-fashioned and welcomes the adult's interest. His borrowing request receives assent, and conversation continues before he returns to Schale; the physical loan and completed reading are unprinted. Literature Club peers' actual curiosity in GROUP1802 supplies a contrary reception to universal rejection, even as Mashiro struggles with their abstraction and wants her familiar club. The repertoire is not a simple ascent from isolation to universal understanding. [P01:20003:015; G01:1802]"
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 52,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 53,
+      "line_sha256": "368c3930524129e5282c850711173423e4ccac93408e1dec699a51e3b3c07164",
+      "line_text": "Summer juxtaposes choices with costs. She chooses a cute swimsuit on advice while continuing to worry about function; a different camouflage purchase enables hiding but ends in collapse, clinic transport and real local recovery. A later proposed gentle swim turns into demanding exercise, while another watchpoint encounter ends in actual shared viewing until sunset. In public summer company, Azusa and Mashiro revise their appraisals of each other and begin collaborating on a sandcastle. These are distinct achievements and disappointments. No single improved endpoint cancels the no-swim ending, determines a world calendar or proves that later training always respects limits. [P01:20004:002–006; E03:010/012/016]"
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 54,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 55,
+      "line_sha256": "fb338ee55c9237939aaec60d4ea1b74194068c786f3b2fe5e8fe1604ba11466e",
+      "line_text": "## 3. Public and private self"
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 56,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 57,
+      "line_sha256": "ff3c4319049cf087591baf1c94186366d71e0fa3d7ca82b691c45574f150d17b",
+      "line_text": "The same height can mean a firing position, a broad volunteer view, a cool breeze or a city she finds beautiful. In base009, she explicitly names city watching as a hobby. Workers, traffic and students contribute to the attractive scene; her thought that evil may be hidden is an interpretation, not evidence that those particular people are criminals. Calling herself ordinary and needing work to follow the seniors is self-positioning, not a narrator's finding of incompetence. The adult wants to remain, she asks for more time with him, and actual watching until sunset and descent complete the modest encounter. [P01:20003:009]"
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 58,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 59,
+      "line_sha256": "81c9ce82d8235274be035332088fe711a8fea9b4e84cde587bd77c6662314036",
+      "line_text": "The cancelled rooftop assignment has a different authority structure. Mashiro describes a proposed anesthetic shot and questioning by Tsurugi, but no shot or drug administration occurs. An unnamed member's phone call reports that Tsurugi already captured the target without sanction. That report ends Mashiro's assignment, after which comfort and schoolward return are actual. It establishes neither a harmless sedation protocol nor a complete witnessed account of the earlier capture, custody, interrogation or sanction. Operational posture and ordinary city looking must therefore remain different acts even where the vantage point resembles itself. [P01:20003:008/009]"
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 60,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 61,
+      "line_sha256": "a4f47ddf15b59a1d5350dc861065ac4428adf1d3335c86f168a9a7239ecb1f91",
+      "line_text": "A public marksman role also includes not firing. During the magical-girl event Mashiro supports Suzumi from Trinity, makes qualified observations, tracks the seller and repeatedly explains that permission is absent while the target remains in Gehenna. After Mirai crosses into Trinity, she expressly receives permission and a joint finishing action follows. This is actual institution-bound restraint and later force; it is neither generalized passivity nor a demonstrated universal law for every encounter. The crowd's delighted show interpretation does not settle what the armed participants did or what Mirai suffered. [E51:004/006/007/009/012/013]"
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 62,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 63,
+      "line_sha256": "3778f6fe4e6e7d9732363f1d6e4f2f729c305e36b7bb19b2309d1383e1e2c9ab",
+      "line_text": "Private ambition and public membership thus cannot certify each other. Wanting to save everyone is meaningful without authorizing every training demand. Remaining on task at a ceremonial venue can coexist with concerned listening. A film-like public spectacle can succeed while injuries, compensation and a paid bounty remain unsettled. Likewise, quiet books and ice need no protection success to become worthy evidence. A monograph loses Mashiro's distinctness if public efficacy becomes proof of private care, or if private awkwardness negates her actually printed public decisions. [P01; L13; E51:013–015]"
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 64,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 65,
+      "line_sha256": "67351f6906d9d0cb2212cd65a2d724d9d93b3a7adc218bca04fc2619717c5efd",
+      "line_text": "## 4. School and club role"
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 66,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 67,
+      "line_sha256": "2038f62513db4b5c24734be4ea2fcd1d246e25e5ce35f18b9898bf1179a2722a",
+      "line_text": "Justice Task Force gives Mashiro seniors, material resources, orders, local restrictions and consequences. Borrowing Hasumi's sewing box for provisional repair is a concrete form of peer support; statements about others' uniforms remain reports, not inspected bodies or an institutional inventory. Her hypothetical succession after seniors graduate is an aspiration, not a formal appointment. In GROUP1801 she participates in reported aftermath work alongside Hasumi and voices the view that harm cannot always be reduced to zero. The rescue succeeds, while hospitalization, possible trauma, collapsed-building help and compensation processing remain distinct. Her reasoning does not close restitution or justify unlimited force. In another group ending, Hasumi and Mashiro actually arrive after a report of an illegal briefing and find nobody there. The report motivates an intervention, not a completed trial; no encounter with PS68, adjudication, casualty inventory or settled compensation follows. Brief effective response has finite scope, just as aftermath work does. [P01:20003:002/003; G01:1801; G02:s1:u0118–0122]"
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 68,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 69,
+      "line_sha256": "318fb72363c682050a5a0dce28d9b7cb55fd0d469b33f862d1592ca24b8e36f5",
+      "line_text": "The next-day club contact is imposed through Nagisa's message, rather than freely chosen leisure or a demonstrated cure. Mashiro's literature visit has actual interested recipients, yet abstract talk makes her uneasy. This matters institutionally: organized exchange can offer attention to an interest without delivering the experience she wants. Her wish for familiar surroundings is a meaningful response, not proof that the peers reject her or that she is unable to participate. Neither education's proposed purpose nor attendance gives the institution complete control over reception. [G01:1801:s2/1802:s1]"
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 70,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 71,
+      "line_sha256": "a15d0bb05437ea16b3ec7b2fdcd7c8b77865fe16c46b8e099189940f03fcd6e0",
+      "line_text": "The scripture venue shows rules at an explicitly partial scope. Mashiro identifies herself and her security assignment, requests name and purpose and explains participant-list exclusion even for Sisterhood members. Guards themselves cannot pass specified points, and she acknowledges not knowing all details. She offers a message relay, responds to Hinata's crying and then postpones the relay when an alarm calls her away. This is access control with concern and finite knowledge. No completed confession, relay, entrance permission or omniscient doctrinal judgment is shown. The interrupted task is not simply indifference. [L13:s1:u0046–0088]"
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 72,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 73,
+      "line_sha256": "eafa82600a709ca20a0c8bc17bf4810f828dfcf45b38e7b981b395f9c0cfcfc4",
+      "line_text": "Another festival preserves her wish that less visible labor receive recognition while Tsurugi declines monopoly and Hasumi enjoys the relay. Those positions differ; Mashiro's concern is not a transferred statement that all achievement belongs to her. Later, on an off day after an operation, she worries that insufficiently visible contribution will make her presence useless, whereas Ichika says rest is part of duty. Mashiro also asks whether solitary patrol is lonely; Ichika recognizes this concern and accepts support. The institution contains recognition, rest and company as questions of membership, not only firepower. No completed patrol or general sniper doctrine follows from that encounter. [E18:012:s2:u0005–0050; E48:026]"
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 74,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 75,
+      "line_sha256": "3d22a371fac4b6cdbcde024b53ffea56b406f6ca205c67a1a6e4fc468a75423f",
+      "line_text": "Public Eden protection remains qualified context, rather than an invented Mashiro appearance. The received V003 arguments establish Tsurugi and Hinata's de-escalation, Hasumi and Tsurugi's rear guard and independent rescue activity. A literal name search or index association cannot add Mashiro to those acts. They provide a committee environment in which real protection, rule handling and injury coexist, while her own positive public claims here rest on actual group and event arguments. Her monograph neither borrows the seniors' feats nor infers global absence from missing literal matches. [M03:E006–E018; P01:checkpoint:L343–L371]"
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 76,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 77,
+      "line_sha256": "2383968aabd16f4ef1bae373f95c32ca45391dda36dc5bc2c36b4a346caeb41c",
+      "line_text": "## 5. Ordinary life"
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 78,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 79,
+      "line_sha256": "bf9cf717dba6a473ab8d3dd88ab2292b855d9758e9ece81926d08efe4e43eb5e",
+      "line_text": "Mashiro's pleasure often has a precise object and scale. A book is interesting despite being difficult; proverb origins are worth discussing despite uncertain reception; a skirt requires sewing; a city is beautiful even when no operation needs a view. These interests are not merely therapeutic evidence for a crisis model. The prolonged conversation and sunset endings are actual positive experiences in their own right. Her quietness can accompany substantial enthusiastic speech, and a failed joke is still an attempt at wanted lightness. [P01:20003:002/003/009/015]"
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 80,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 81,
+      "line_sha256": "6a096266f1f38666a87cd50d473c632e67a6baa37b4ae9189f95dc4d00b01d1e",
+      "line_text": "Choosing a swimsuit is likewise an ordinary experiment in advice, cuteness and function. Her old one is tight; she asks the adult rather than friends, wants freedom of movement and worries about exposure. The worker's popularity and universal-suitability claims are sales rhetoric, and 「可愛いは正義」 is briefly mistaken for an official criterion. The adult offers a colloquial explanation prefaced as inference, inwardly wants to prevent the item being returned and praises it again. Mashiro decides on his assurance; purchase and schoolward return occur. Both her request and assent and his guiding preference matter, while operational suitability is untested. The outcome supports neither completely pressure-free choice nor an erased choice. [P01:20004:002]"
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 82,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 83,
+      "line_sha256": "de82cf7ed1d4f8eeb36e093092fb97d1ba0ec4a5a39187fb9af099281b9d42f4",
+      "line_text": "Cooling has intrinsic taste as well as practical purpose. Mashiro makes popsicles and drinks and likes licking slowly to enjoy the flavor longer. The adult's odd expression makes her uncomfortable; no unprinted intimacy is required to understand the moment. Summer birthday lines want the modest gift of eating popsicles together, and Halloween's warm pumpkin soup supplies another taste. Those addresses are wishes, not separately completed shared consumption. The eventual training prize does not make the cooling preparations fictitious or justify discarding taste because leisure later fails. [P01:20004:005; checkpoint:L333–L335]"
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 84,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 85,
+      "line_sha256": "5e5151b95f9bbec684b969f2a4bcb1707e9d8180cf2f65a6993412882575fd24",
+      "line_text": "The beach watch chair joins duty, breeze, beauty and wanted company. Mashiro volunteers after hearing about litter and lost children; the sources do not narrate an individual child rescue or complete litter audit. She explains the broad view and fewer blind spots, likes the cooling breeze and invites the teacher to look together. A tight-space proposal, sweating concern and slippery-ladder warning remain practical limits, not certified comfort or safety. Actual shared viewing until sunset is the complete local end; separately eaten ice cream and successful completion of every volunteer task are unprinted. A quiet experience can be complete without a total service record. [P01:20004:006]"
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 86,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 87,
+      "line_sha256": "4c299b0ff9ec5aacb4eda40f850acca8e02caba6763f03a53ae478c3dc05951c",
+      "line_text": "Summer peers also generate pleasure which is not uniformly shared. Mashiro enjoys competition and technical possibilities; Hifumi becomes exhausted and wants fewer attacks. Azusa and Mashiro later explicitly revise earlier problem-student and rigid-committee appraisals and begin a joint construction. That reciprocal beginning has independent value without proving an indestructible castle, total school reconciliation or friendship among every participant. Hifumi's cost and the opponents' objections remain recipients' evidence alongside enjoyment. [E03:010–012/016]"
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 88,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 89,
+      "line_sha256": "604e427c7fd14a01540aacb1985789f2513e8aeec853ff1be1b5c5dca874ea19",
+      "line_text": "The gift encounter prevents a contrary caricature of permanent pleasurelessness. Shared warehouse tidying is narrated, and Mashiro thanks the adult. She describes emergency chocolate, its calories and possible future use, then relates fidelity to survival purpose to her personal justice. A sampled taste is represented and uncertain; expiry and unbooked-goods claims are her accounts, not storage or ledger audits. She asks, if it is no trouble, that the adult accept both the chocolate and her idea of justice because it would make her happy. Wanted conceptual sharing is affective value even when taste is poor. Final whole-gift acceptance or consumption is not shown, and survival value here does not revoke her delight in ice elsewhere. [L06:s1:u0002–0025]"
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 90,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 91,
+      "line_sha256": "fcf42308e73257a761a3c94e20b290b83a1a1f8d0e22b57cb83b4cc94961361e",
+      "line_text": "## 6. Crisis behavior"
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 92,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 93,
+      "line_sha256": "101aea8f29bf990d321b5e669a453e5047e4db7a824962e48eaf60a911dff595",
+      "line_text": "Mashiro's training has genuine technique and limits. In the first sniper trial she invites observation, warns that it may be uninteresting and describes patience, stillness and missed meals. Bugs disrupt aim. Her proposed tickling simulation does not consent to touching anywhere: the arm is tolerated, the cheek is qualified and the neck prompts an explicit objection invoking the training's purpose and justice. The narrator gives comfort after anger. A spoken apology, accepted repair, expanded permission or measured improvement in endurance is unprinted. Respecting this actual boundary does not require inventing an additional sexual act. [P01:20003:005]"
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 94,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 95,
+      "line_sha256": "43b46786510bc3e07d8935e10ffb53ad92273b485e406b41bd84d52a8d6e1afd",
+      "line_text": "The second trial reverses recipient pressure. Mashiro lets the adult join and warns of difficulty; rifle weight and the adult's felt heaviness remain local statements and perceptions. She carries the rifle and assigns ammunition, refuses a request to wait and aims at a thirty-storey ascent within five minutes. No achieved timed result is given. The adult actually ends exhausted, and the whole message coda continues with empty-looking replies, Mashiro wondering whether the pace was too fast and her worried call. Concern exists after the cost without a printed medical explanation, regained health, apology or revised protocol. [P01:20003:006; thread200030190 whole250–290 tail]"
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 96,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 97,
+      "line_sha256": "f10f4703ee57b78226907639bf4e1aafda4a97ac43d12cd9eef1bf8079d683e6",
+      "line_text": "The camouflage episode is both a technical success and a bodily failure. A separately purchased desert-type ghillie suit hides her from the adult initially. Reported waiting times and her insistence on another hour do not establish safe universal endurance. Distorted vision leads to actual carrying into a clinic. On waking, “probably heatstroke” is the adult's provisional explanation; she proposes more practice, and he refuses, tying rest to not collapsing and also allowing rest for itself. She agrees. Narration explicitly records local recovery and return to accommodation. That outcome is stronger than a recovery proposal but narrower than formal diagnosis, documented treatment or permanent heat adaptation. [P01:20004:003]"
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 98,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 99,
+      "line_sha256": "65742329a85c9173ebadf8a18dd52e641d38fbb5a745d1cfa04bc4145338ce68",
+      "line_text": "The next cooling encounter is a serious contrary endpoint. Although she self-reports recovery and gentle swimming is agreed, preliminary exercise exhausts the adult before swimming, and she proposes more sets. An earlier rest with homemade cooling food is actual. The winning stick's special prize then becomes strenuous training; the adult tries to escape, and the ending is exercise with no swimming. This does not depict another heat collapse or successful therapeutic swim. Heat concern and enthusiasm have not secured the participant's desired day. The mismatch is consequential even in a comic low-stakes story. [P01:20004:005]"
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 100,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 101,
+      "line_sha256": "1d628049369edc5e68f1d4003ce1fc9a27fe060c43045a69e04ab9dedb185604",
+      "line_text": "Public decisions offer a different restraint without supplying blanket absolution. Refusing warning fire in Gehenna and waiting through institutional discussion preserve a boundary while Suzumi and Reisa lose, reconsider and cooperate. The eventual crossing and permission enable Mashiro's firing as part of a joint conclusion. That conclusion contains audience delight, Love's lost bounty and Mirai's continuing marketing afterstate rather than a narrated trial, restitution or complete injury recovery. Permission proves a local order was received; it does not certify all force, crowd knowledge or legal consequences. An ethically serious portrait needs the actual restraint and the unfinished aftermath. [E51:007/011–015]"
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 102,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 103,
+      "line_sha256": "5126a5e4e8d500d9c6ae494111367b2a2cead0a8fe2cf2b1dd35bc47709b7008",
+      "line_text": "## 7. Relationship with Sensei"
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 104,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 105,
+      "line_sha256": "f5b744e6f9afbdce1f72b815bc470a178160f78ac04fdd09225f3f50a186b858",
+      "line_text": "The adult participates in experiences Mashiro independently seeks. She asks for book help and practice observation, requests advice on a purchase and chooses more time watching the city because he is near. He can respond by reading, showing interest, asking what she wants or staying. These acts support wanted company without making him the sole inventor of her interests. Book-loan assent and future senior succession remain narrower than completed reading or an appointed future; a shared sunset is an actual finished experience. [P01:20003:003/005/009/015; 20004:002]"
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 106,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 107,
+      "line_sha256": "a6099384a64a80766a45fc5fb8464a833c7fa4cc7e8eafb158dd726c47914642",
+      "line_text": "The training scenes keep both directions of bodily agency. Mashiro's objection shows that accepting a simulation does not mean unrestricted access to her body. Comfort after anger is not a demonstrated agreed repair. In the later trial the adult's request to wait is denied, and in the special-prize story his attempted flight fails to preserve the wanted swim. The relation cannot be called fully consensual from affection, comfort or enthusiastic invitations alone. Nor do those failures mean her invitations and gratitude are insincere. Separate participants can value a relationship and still experience different boundaries badly. [P01:20003:005/006; 20004:005]"
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 108,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 109,
+      "line_sha256": "fd92ee108f7abc5c3f59b5bc69d1065b22429acdc5b951586dcd6d70682d0b70",
+      "line_text": "His help is more effective in the actual heat recovery. He carries her to a clinic, rejects further training and permits rest; Mashiro accepts rather than simply having rest externally imposed as punishment. The narration closes with recovered return. This particular limit matters without transferring success to his other touching or purchase influence. In the swimsuit scene his advice is requested but his inward preference is active, and Mashiro's remaining functional worry deserves to survive the purchase. A helpful adult in one ending is not an invariant guarantor of autonomous choice. [P01:20004:002/003]"
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 110,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 111,
+      "line_sha256": "4959d8d823a3d60880632d4495e0d1c35347bebf5880404b138b639a9179edd6",
+      "line_text": "The gift allows her to share a personal valuation, not merely receive lessons. The adult helps with routine tidying and tastes the emergency chocolate; she expresses gratitude and a qualified wish that he accept what it symbolizes. Internally typed words receive replies in the preserved owner argument, so type alone cannot prove every thought inaudible. No inspected performance resolves the auditory mechanism, and sampled tasting is not whole-gift consumption. Her offered meaning and wanted happiness remain legible without an invented completed romantic acceptance. [L06:s1:u0002–0025]"
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 112,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 113,
+      "line_sha256": "9a07de2976538e3341f3d32f3d74ac0eb8e52418a11d94fe56c6755435abe923",
+      "line_text": "## 8. Major peer relationships"
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 114,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 115,
+      "line_sha256": "9de45d371d19a21d6ee74f286774cf83cda35f866e719128b056adef3ceef30f",
+      "line_text": "Hasumi is a practical senior as well as an admired institutional figure. The sewing box materially supports Mashiro's repair, while Mashiro's report that Hasumi has apparently not read a recommended book does not establish total rejection. Their reactions to tea and literature differ. Hasumi's delight in aroma precedes a qualified Gehenna-origin account and a proposed burning; Mashiro's justice book actually interests peers even when abstract discussion unsettles her. The seniors' likes and prejudices are not automatically Mashiro's. Keeping these particular exchanges prevents admiration from becoming personality transfer or a universally shared school hostility. [P01:20003:002/003/015; G01:1802]"
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 116,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 117,
+      "line_sha256": "fd3a6bcd7c0c1bc1c0a732689520ddbd2d6c2cf5f5b525c097cd1a3c22625c9f",
+      "line_text": "Tsurugi's relation includes care, practical relief and recipient questions. At Christmas Tsurugi offers to take Mashiro's outside shift because it feels easier, and Mashiro temporarily accepts. When Mine challenges the negotiation and creates conflict, Mashiro voluntarily refuses to leave the senior alone; Tsurugi defends the students' rare party leisure. Later Tsurugi recovers enough to act and an actual party follows, while Hasumi and Tsurugi retain doubts about Mine. Mashiro's chosen defense is not complete approval of every earlier intimidation method or proof that her desired off-duty experience disappeared. [E19:006–011]"
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 118,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 119,
+      "line_sha256": "a306f0214ab91873148791507dc938ea9c175ebb235e56d2ac331f8ffa5430b6",
+      "line_text": "In GROUP1802 Mashiro asks whether the Sweets peers shared Tsurugi's felt welcome. Their apprehensive asides and Kazusa's different response are not proof that Tsurugi heard them or knowingly lied. The question makes another audience's experience visible without withdrawing Tsurugi's real pleasure. It is one of Mashiro's strongest local recipient-sensitive acts and a genuine complication of her training failures. It cannot retroactively demonstrate that the exhausted teacher was equally respected. A particular act of perspective-taking is more useful than an invariant empathy score. [G01:1802:s1:u0034–0062/s2]"
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 120,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 121,
+      "line_sha256": "05778c5c6b21758815fb11892c7d113a90607570308c4d5b9d024fa20ba7cb9a",
+      "line_text": "Azusa is a peer whose appraisal can change in both directions. Competitive pleasure and technical discussion precede their explicit revision of problem-student and rigid-committee expectations and a collaborative start. The change belongs to those two recipients, not to every Trinity or Arius relation. Hifumi's exhaustion, food objections and ordinary purposes remain separate; joining a holiday is not automatic completion of every participant's wanted company or craft. Mashiro's ordinary technical curiosity is real without being an all-school reconciliation device. [E03:010–012/016]"
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 122,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 123,
+      "line_sha256": "5c83284ed2d198cc180e1c6b446609c923833ed40592b31e7ab5f181adf68b25",
+      "line_text": "Suzumi has a former membership history which corrects rumor, not an inferred failure to enter Justice. Mashiro has heard a rumor; Suzumi describes actual brief membership and why she could not remain, explicitly denying fight and hatred rumors. Reisa's appeal adds remembered protection but also headphones, music and chatting, and Suzumi ultimately chooses to continue her own task and later vigilante life. Mashiro's support, tracking and fire restrictions contribute without authoring those choices. Her sniff is not a proved cold or single secure emotion. The peers' revised self-understanding and fandom have value independently of her competence. [E51:004/008/012–014]"
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 124,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 125,
+      "line_sha256": "f7532e06adab7f4af7613f4504c6cb819bbe01ce1d627d0f2b1955f2d8f42253",
+      "line_text": "Hinata and Ichika test care at different practical edges. Mashiro's venue rule excludes an unlisted visitor but includes a relay offer and concern when Hinata cries; an alarm postpones help rather than completing it. Ichika tells her rest is duty and accepts support after recognizing a concern about lonely patrol, while privately finding the intensity hard to match. Both exchanges resist a total-care or pure-obedience portrait. Hinata's attempt at truth and Ichika's capacity judgment remain independent, and no completed admission, rest or patrol is supplied to manufacture a mutually perfect ending. [L13:s1:u0046–0088; E48:026]"
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 126,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 127,
+      "line_sha256": "0d2a6db802381d421fe551a49e250b87ff5dfef5e6950f66ea8a5a766daaf2ae",
+      "line_text": "## 9. Language and written voice"
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 128,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 129,
+      "line_sha256": "3fd109f6552cf028ab9921af8a3cb67329bd5164f5e4055e9d11ae2387949f6e",
+      "line_text": "正義 changes scale through the repertoire. A philosophy book's dilemma supports Mashiro's own all-save wish, not a solved universal rule. Delicious food can enter her examples of the good without becoming this account's moral classification. A sales slogan is misconstrued as an official norm and then explained colloquially; that correction does not authorize forgiving every act. Emergency chocolate connects purpose fidelity with her personal justice, while rest becomes compatible with justice and also ordinary value. The word's flexibility shows a search for continuity between chosen life and responsibility rather than proof that every use is interchangeable. [P01:20003:003; 20004:002/003; L06]"
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 130,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 131,
+      "line_sha256": "703cf6c0467991268b27dcd008955365eaed4e1c08b0d707a0fdef8faea0802e",
+      "line_text": "The blood joke demands similar differentiation. She retracts the proposed origin of the black uniform, affirms blood washing after operations and admits failed humor. A truthful second statement does not retroactively prove the joke's institutional history; the joke's retraction does not make the washing claim fiction. Her quiet introduction explicitly denies interpersonal incapacity, while enacted embarrassment and talk remain particular comparisons. Proverbs, observation and enthusiasm have no need to be converted into a clinical account or a heard performance. [P01:20003:002; checkpoint:L321–L331]"
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 132,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 133,
+      "line_sha256": "96466a41dd68184a5240850b150394c74ba758aadc7dd864a8b317c80d8bbe43",
+      "line_text": "Written profiles retain the literal name, first year, age, birthday and height, and observation/high-place hobbies. Base and summer status proverbs differ without establishing a development date. Lobby readiness coexists with senior-company pleasure and an objection that her body is not an operation console. The summer slip from play toward training may be embarrassment or familiar work language making pleasure acceptable; it does not prove all training is secretly fake. Birthday popsicles, warm soup, holiday suspicion and guarded promises are context-bound addresses, not achieved celebrations, confirmed Gehenna evil or new deployments. [P01:checkpoint:L321–L335]"
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 134,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 135,
+      "line_sha256": "a3e19572f4ff367de60afdd59e7c9c5a034bcd36d68a4d37994294e3d5971668",
+      "line_text": "The exact written costume1900900501 binds character20004 with an empty profile, eighteen lobby and six mission lines. Repeated803/10803/900803 contexts do not create three people or three completed plots; no900803 mission set or purchase is printed. A question about Tsurugi's scream is not a diagnosed event. The mission language accommodates rest, while Special ice/heat/gaze repetitions do not produce second shots or bodily encounters. The literal base line:000001 is preserved rather than renumbered, and an unprinted base title cannot be manufactured. Mode precision permits meaningful vulnerability and taste without fabricated chronology or audio. [P01:checkpoint:L325–L341]"
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 136,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 137,
+      "line_sha256": "3097b1f2d74687781bb42f00490ceafd6940935bb836608fda2b8897778ea554",
+      "line_text": "Dialogue, inward reaction, generic narration, retrospective messages, options and reported command witnesses carry different burdens. The complete exhausted-message tail matters beyond its link witness. L06's encoded inward alternatives and duplicate replies do not multiply formal choices or twice-performed speech; replies prevent a blanket inaudibility conclusion. L13's accepted text-actor seams separate Hinata's interrupted explanation, Mashiro's rule and local members' alarm. The present synthesis receives those literary arguments, not fresh raw rows, inspected pixels or performed voice. Printed audience effects cannot be turned into auditory measurements by force of vividness. [P01:thread200030190; L06; L13]"
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 138,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 139,
+      "line_sha256": "daf0995c894a2d93b298fcb24850b0e0c65300187113870fa966df8428a4193c",
+      "line_text": "## 10. Competing readings"
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 140,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 141,
+      "line_sha256": "d719ed8cb05f5cf2bd124ea940f9bc77695691d49fff60674fc10507d16b9d56",
+      "line_text": "An obedience-only reading captures her senior trust and work vocabulary, but misses independently wanted reading, city watching, clothing choice, gifts, technical curiosity and her wish to find a way beyond an imposed casualty dilemma. A teacher-created-agency reading likewise overlooks who initiates the requests and interests. The adult often helps, yet Mashiro's wanted ends precede that help. Conversely, an ethically mature model based only on clear touch limits and public firing restraint cannot explain refusal to wait, exhausted participation and no swimming. The portrait needs active ethical search without treating every practice as its successful realization. [P01; E03; E51; L06]"
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 142,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 143,
+      "line_sha256": "e6eda5d46f8db238b7773bcb791ee82824647c7e3402da33c034fec83d990c53",
+      "line_text": "An all-care-fails reading is also too strong. Actual interest in books, jointly enjoyed sunset, concern in the whole fatigue tail, clinic carrying and narrated recovery are positive results or real responses at their exact scopes. They are not guarantees of future medical protocols or repaired consent, but neither are they empty proposals. The right comparison preserves a successfully completed modest experience alongside the failed instrumental task or recipient preference elsewhere. It cannot downgrade a narrated recovery because the provisional diagnosis leaves other medical claims open. [P01:20003:003/006/009/015; 20004:003/005/006]"
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 144,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 145,
+      "line_sha256": "742673dadc172c134f491e2749e2d990d962418df4475f12cb91693857f289fa",
+      "line_text": "A pure-utilitarian interpretation of justice misses long taste enjoyment, breeze, pumpkin soup, cute clothing and the happiness wanted from symbolic gift sharing. The emergency chocolate's survival emphasis is situated, not evidence that taste never matters. A secretly-playful interpretation which calls all training fake erases the printed rifle burden, collapse and strenuous no-swim ending. Familiar work words may accommodate pleasure while actual demanding work remains real. Ordinary motives and adverse costs belong to the same character without one becoming a disguise for all the other evidence. [P01:20004:002–006/written; L06]"
+    },
+    {
+      "frozen_line": 131,
+      "canonical_line": 146,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 147,
+      "line_sha256": "51d16af5efe09b25b6b95e36210d8b0204296346858fd5fd04e473f1faccbe15",
+      "line_text": "Finally, a universal institutional-legitimacy reading would mistake express local permission, equipment labels and a successful public spectacle for safe sedation, complete accountability or legal adjudication. The cancelled operation fires no round; the allowed later shot leaves recipients and aftermath incompletely settled; mandatory exchange does not certify chosen rest. A total-institution-failure reading would erase real rescue work, cared-for peers, tracking and actual restraint. Keeping each person's decision and each ending lets Mashiro's competence matter without adopting the institution's broadest self-justifications. [P01:20003:008; G01:1801; L13; E51:013–015]"
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 148,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 149,
+      "line_sha256": "045fbc3485ba2b4f24a83573c0c93e55821d119e278723741cbe85487899d8cb",
+      "line_text": "## 11. Evidence route and remaining limits"
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 150,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 137,
+      "canonical_line": 152,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 138,
+      "canonical_line": 153,
+      "line_sha256": "7a83213809569c56f72835a044f1bfd98d036d0108c1066a847329acfed93e5e",
+      "line_text": "Bindings cover only enumerated small source owners. Historical c1 and main2e source comparisons remain separate from later ROOT publication and current mutable acceptance metadata. Architecture1.12 has the same required eleven-section structure as main's1.11. M03 supplies accepted institutional context, not a new Mashiro Eden appearance; Final's bounded retrieval comparison provides neither a new positive Final claim nor an exhaustive absence finding. Current Cycle008 admission governs3940 supplemental objects despite producers' preserved historical pending headers. No new primary, first-reader, independent, performed, global calendar or model credit follows. Package completeness is a joined literary argument, not a source count or fixed full-cast percentage."
+    },
+    {
+      "frozen_line": 139,
+      "canonical_line": 154,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 140,
+      "canonical_line": 155,
+      "line_sha256": "9e97ca5892658bdb2d65ce039d76ad729f656b5d628481ea5c6a22226d43adc1",
+      "line_text": "All fourteen gaps remain OPEN. G01 bounds unreceived wider contexts and duration; G02–G05 prevent Mashiro's committee or event contact from completing Yuuka, Serika, Hina, Arius or PS68's independent ordinary and public questions. G06 keeps local welcome, appraisal revision, joint work and audience pleasure distinct from global reconciliation or uniformly comfortable company. G07 permits whole-thread and event-local sequence without an absolute MAIN-event calendar. G08 preserves literal variant, book, costume, unknown-member and encoded-alternative boundaries. G09 separates jokes, claims, rules, choices, inward reactions, source actor seams and narrator endpoints. G10 supplies no received performance, sound, pixels, music or staging."
+    },
+    {
+      "frozen_line": 141,
+      "canonical_line": 156,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 142,
+      "canonical_line": 157,
+      "line_sha256": "97912d568a308d61d79763b196b9f93ce1e5d2d8a2b42bb1382b15eb871b71c6",
+      "line_text": "G11 provides no Hoshino–Yume historical closure. G12 prevents local role labels, remembered membership, repeated modes and fictional show parts from multiplying independent people or proving cross-event identity. G13 keeps actual local recovery separate from clinical certification; local permission from legal adequacy; comfort from agreed repair; reported rescue/capture from settled custody, casualty, compensation or safety outcomes. It also preserves the exhausted adult and no-swim ending rather than deleting costs because they are comic. G14 prevents written readiness, seasonal addresses, Special repeats and thematic similarities from becoming automatic cross-mode chronology or accomplished action. These limits restrict extension, not the intrinsic value of sewing, books, quiet looking, cool food, company or wanted sharing."
+    },
+    {
+      "frozen_line": 143,
+      "canonical_line": 158,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 144,
+      "canonical_line": 159,
+      "line_sha256": "e4f0372451bf560c62f9fb1b0d07f4e95ad3e29766a2561d6f48a17a14474741",
+      "line_text": "Mashiro's literary distinctness is a serious but unfinished effort to make justice inhabit an ordinary chosen life. She can seek answers, articulate a boundary, restrain fire, value company and attend to another audience, while also misjudging intensity and denying another person's wanted pause. Actual modest successes survive alongside those failures. A mature account keeps her own ends and every recipient's experience in view, rather than allowing a familiar moral word, a tactical role or a cheerful ending to stand in for the whole person."
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        3,
+        3
+      ],
+      "canonical_lines": [
+        3,
+        2
+      ],
+      "frozen_text": [
+        "artifact_type: phase3_character_monograph_candidate"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        11,
+        11
+      ],
+      "canonical_lines": [
+        10,
+        9
+      ],
+      "frozen_text": [
+        "status: AUTHOR_COMPLETE_ROOT_RECEIVING_PENDING"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        16,
+        15
+      ],
+      "canonical_lines": [
+        14,
+        28
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "source_generation: BA_REFRESH_20260928T032248159554Z",
+        "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8",
+        "source_boundary: \"Accepted textual analytical meanings at main2e2018d0d62d91e3e0a5e7681f72a31cec08e02c, with qualified historical c1f14d5120c29209ca571fea8d7cfbe111076ec5 and original earlier MAIN producer pins retained at their declared scopes; current scope control355/29; performed material unreceived\"",
+        "artifact_type: character_monograph",
+        "generation: V1",
+        "version: \"1.0\"",
+        "status: canonical",
+        "do_not_use_as_current_authority: false",
+        "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MASHIRO_CHARACTER_MONOGRAPH.md",
+        "review_state: ROOT_ACCEPTED_WITH_LIMITS",
+        "ROOT_literary_acceptance: ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+        "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL",
+        "updated: 2026-10-10",
+        "supersedes: []",
+        "superseded_by: []"
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        19,
+        18
+      ],
+      "canonical_lines": [
+        32,
+        33
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "",
+        "ROOT accepted the complete eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MASHIRO_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MASHIRO_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Source publication, main integration, separately required directed/institutional packages and full eligible-cast completion remain separate."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        136,
+        136
+      ],
+      "canonical_lines": [
+        151,
+        151
+      ],
+      "frozen_text": [
+        "This is a complete literary synthesis at the declared accepted analytical boundary, pending ROOT's whole receiving and adoption. P01 supplies all eleven private/message pairs and three written objects, including post-witness codas and ordinary endings; its complete argument143–427 is personally recovered here. G01, G02, E03 and E19 are personally complete small group/event arguments reused with their actual recipients. E18/E48/E51 reuse complete accepted event literary meanings with consequential arguments received again as needed; unreceived literal annex duties remain separately pending. L06 and L13 are freshly complete small normal-owner arguments through EOF. The scripture checkpoint supplies prior complete accepted meaning at its declared scope, not fresh whole-primary reading."
+      ],
+      "canonical_text": [
+        "ROOT accepted this complete literary synthesis with limits at the declared analytical boundary. P01 supplies all eleven private/message pairs and three written objects, including post-witness codas and ordinary endings; its complete argument143–427 is personally recovered here. G01, G02, E03 and E19 are personally complete small group/event arguments reused with their actual recipients. E18/E48/E51 reuse complete accepted event literary meanings with consequential arguments received again as needed; unreceived literal annex duties remain separately pending. L06 and L13 are freshly complete small normal-owner arguments through EOF. The scripture checkpoint supplies prior complete accepted meaning at its declared scope, not fresh whole-primary reading."
+      ]
+    }
+  ],
+  "source_argument_and_endpoint_credit": "Accepted original literary meanings/endings/recipient bounds and ROOT scopes retain their declared credit. Transport and public framing add zero literary, primary, performed, independent or identity-join credit.",
+  "ROOT_installation_pending": true,
+  "remote_publication": "NOT_YET_PUBLISHED",
+  "main_integration": "NOT_YET_INTEGRATED",
+  "full_required_scope": {
+    "packages": 355,
+    "mandatory_named_sections": 29,
+    "thresholds": [
+      89,
+      178,
+      267,
+      355
+    ]
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "no_separate_directed_institution_ensemble_completion": true
+}

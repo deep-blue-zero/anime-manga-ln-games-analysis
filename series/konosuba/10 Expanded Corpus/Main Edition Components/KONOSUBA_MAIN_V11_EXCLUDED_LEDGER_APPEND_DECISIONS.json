@@ -1,0 +1,166 @@
+{
+  "schema": "KONOSUBA_MAIN11_EXCLUDED_TEN_LEDGER_APPEND_DECISIONS_V1",
+  "source_id": "MAIN-11",
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 301773,
+      "sha256": "25ced01e8980fa81d83cf3a4651b70ccf8a573dbf1d038ba67e5afa7b65011e4"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 221761,
+      "sha256": "6d84a12d0fdd26b82f728bdf9dc8707da84bd6aa008346292810208bd2d7d20b"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 792134,
+      "sha256": "a848beb583411c35b671561fe879c6abbbaf6dff2e2d390d264d9233b177eb41"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 603049,
+      "sha256": "bb57f4c786e2aadfff61847eb2732e1d78ade6a619b996daa4b2223d8a161953"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 199469,
+      "sha256": "fa79f62008196dcb3a58bbd3181732e2c48da9cdc6a20b8ba39adf1974a3434a"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 192211,
+      "sha256": "263f01df496333e6ffee4908bbd8f55c7a9b013777e9b65c75b966314e7a6ae8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 216570,
+      "sha256": "a5f47657c785821815831a046583b3142c9d24310fb515dceebfbe7f970b1d93"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 180440,
+      "sha256": "45ae81998027454cff1fa9c56a9c798a28112fb0ddd4a8bec9e8e444a5d38e3a"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 271086,
+      "sha256": "2234d01b076c851195ebd824d75f09ed7c3e21baeb5e0d675777fce10b37bc3a"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 135212,
+      "sha256": "66fcd38270954bc400ebde7104cb43256d1db4d47c6e4870b4637ceda03157b1"
+    }
+  ],
+  "rows": [
+    {
+      "id": "M11EX-LD01",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness; represented Countビフランツ and unnamed banquet actors, retained Iris/Megumin/Funifura/Dodonko/Komekko/Luna/Lucy/Regina/AnrakuPrincess/Yuiyui/Yunyun/Vanir/shop-succubi separately attributed; author/creator/promotion separately typed",
+      "native_routes": "MAIN11U021P4-10/38-50/Q01-Q06/Q13-Q16",
+      "observation": "The new bonus fixes a castle banquet slice and Kazuma's already acquired lip-reading, while Aqua's possession of that specific skill is unestablished. Darkness's courtly reply includes a prior engagement refusal.",
+      "implication": "Keep ability acquisition time, domain capacity, court role and private preference separate; retained states receive no new pass or trial credit.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M11EX-LD02",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness; represented Countビフランツ and unnamed banquet actors, retained Iris/Megumin/Funifura/Dodonko/Komekko/Luna/Lucy/Regina/AnrakuPrincess/Yuiyui/Yunyun/Vanir/shop-succubi separately attributed; author/creator/promotion separately typed",
+      "native_routes": "MAIN11U021P3-53/Q10-Q20",
+      "observation": "Kazuma/Aqua enjoy observation together, agree on a report-and-avoidance proposal and then publicize an unsuspecting companion's private court talk. Darkness's later unwanted-gift complaint is a new attributed consequence.",
+      "implication": "Familiarity enables participation and intrusion; private speech, court courtesy and desired safety are not permission for gossip, marriage or harassment.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M11EX-LD03",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness; represented Countビフランツ and unnamed banquet actors, retained Iris/Megumin/Funifura/Dodonko/Komekko/Luna/Lucy/Regina/AnrakuPrincess/Yuiyui/Yunyun/Vanir/shop-succubi separately attributed; author/creator/promotion separately typed",
+      "native_routes": "M11EX-H01-H20/Q17/Q37",
+      "observation": "Twenty post-seal selected whole premises distinguish ordinary appetite, inflated self-image, retrospective pressure, unexpectedly serious information, failed inhibition, register discomfort and Japanese misreading; author/profile/promotion are separately typed.",
+      "implication": "Do not count comic pressure as harmless, hypothetical theft as performed, or uncertain power as H3. Selected overlap is not a gag census.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M11EX-LD04",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness; represented Countビフランツ and unnamed banquet actors, retained Iris/Megumin/Funifura/Dodonko/Komekko/Luna/Lucy/Regina/AnrakuPrincess/Yuiyui/Yunyun/Vanir/shop-succubi separately attributed; author/creator/promotion separately typed",
+      "native_routes": "M11EX-V01-V27/Q06-Q07/Q15-Q17",
+      "observation": "Twenty-seven exact short native fragments retain direct turns, Kazuma-voiced lip-reading, retrospective reports and author address as different language planes.",
+      "implication": "No acoustic or native-human judgment, overall voice frequency or mandatory catchphrase; ordinary formal courtesy does not itself prove private desire.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M11EX-LD05",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness; represented Countビフランツ and unnamed banquet actors, retained Iris/Megumin/Funifura/Dodonko/Komekko/Luna/Lucy/Regina/AnrakuPrincess/Yuiyui/Yunyun/Vanir/shop-succubi separately attributed; author/creator/promotion separately typed",
+      "native_routes": "MAIN11U021P45-50/M11EX-H10-H12/V18-V22",
+      "observation": "The local exact pairs ところで/ところ天, ビフランツ伯/透けパンツ好き and きちんと/キッチンと make the represented lip-reading error centrally Japanese-form dependent.",
+      "implication": "These are not perfect homophones or the targets' true preferences; the final output stays unfinished. Local L3 cannot supply a series-wide percentage.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M11EX-LD06",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness; represented Countビフランツ and unnamed banquet actors, retained Iris/Megumin/Funifura/Dodonko/Komekko/Luna/Lucy/Regina/AnrakuPrincess/Yuiyui/Yunyun/Vanir/shop-succubi separately attributed; author/creator/promotion separately typed",
+      "native_routes": "MAIN11U021P13-14/25-53/Q07/Q12/Q19-Q20",
+      "observation": "The narrator exposes his mistaken attraction inference and retaliatory pressure, actual broken skill-use vow and irritation, embarrassment voicing court language and protective stop; later gifts are reported rather than directly witnessed.",
+      "implication": "His mediation does not expose other minds or prove all quoted private speech externally. Retained memory-loss versus knowing deflection remains explicitly chronological.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M11EX-LD07",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness; represented Countビフランツ and unnamed banquet actors, retained Iris/Megumin/Funifura/Dodonko/Komekko/Luna/Lucy/Regina/AnrakuPrincess/Yuiyui/Yunyun/Vanir/shop-succubi separately attributed; author/creator/promotion separately typed",
+      "native_routes": "MAIN11U021P3-53/U018P5-24/Q04/Q12/Q37",
+      "observation": "Banquet appetite, curious people-watching, entertaining skill use, attraction/status irritation and everyday reputation concerns coexist. Author exercise/craft preferences belong to author nonfiction.",
+      "implication": "Ordinary choices are not reduced to crisis modes; an appealing request is not an unvalued burden, and the author's gag craft is not a principal personality trait.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M11EX-LD08",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness; represented Countビフランツ and unnamed banquet actors, retained Iris/Megumin/Funifura/Dodonko/Komekko/Luna/Lucy/Regina/AnrakuPrincess/Yuiyui/Yunyun/Vanir/shop-succubi separately attributed; author/creator/promotion separately typed",
+      "native_routes": "MAIN11U021P9-10/20/41-51/Q05-Q06/Q16-Q17",
+      "observation": "Kazuma actually decodes and Aqua attempts an unproven new skill; wrong public outputs differ from his accurate represented input and from an established fitted helping capacity.",
+      "implication": "No skill-card learning, universal art incapacity or infallible decoding. E01 role agreement remains partial without independent complementary-capacity proof.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M11EX-LD09",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness; represented Countビフランツ and unnamed banquet actors, retained Iris/Megumin/Funifura/Dodonko/Komekko/Luna/Lucy/Regina/AnrakuPrincess/Yuiyui/Yunyun/Vanir/shop-succubi separately attributed; author/creator/promotion separately typed",
+      "native_routes": "MAIN11 accepted-native receipt/Q21-Q33",
+      "observation": "Current1119 retained nativeP correct Aqua/Kazuma confrontation, Funifura/Dodonko and Aqua pudding identities; actual finite gifts, priest power, girl agency, Luna leverage and outside performers retain separate owners and limits.",
+      "implication": "Uncoded Wiz/cat guess remains preserved with attributable correction. No extra Wiz scene, child control power, Lolisa alias or complete future provider phase is fabricated.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M11EX-LD10",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness; represented Countビフランツ and unnamed banquet actors, retained Iris/Megumin/Funifura/Dodonko/Komekko/Luna/Lucy/Regina/AnrakuPrincess/Yuiyui/Yunyun/Vanir/shop-succubi separately attributed; author/creator/promotion separately typed",
+      "native_routes": "MAIN11U021P19-53/Q09-Q12/Q19-Q20",
+      "observation": "Political danger recruits a concrete later-report proposal24 and ready agreement25; irritation32 then defeats a restraint vow. A later reputation cue recruits an actual public stop51 with residual reported harm53.",
+      "implication": "The narrow communication attempt supports E03 locally; no full report, universal safety priority, pure duty, successful harm prevention or rewritten old contrary.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M11EX-LD11",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Darkness; represented Countビフランツ and unnamed banquet actors, retained Iris/Megumin/Funifura/Dodonko/Komekko/Luna/Lucy/Regina/AnrakuPrincess/Yuiyui/Yunyun/Vanir/shop-succubi separately attributed; author/creator/promotion separately typed",
+      "native_routes": "MAIN11U021P13-53/Q07/Q12/Q16-Q20",
+      "observation": "Failures include flattering inference from laughter, disproportionate grievance pressure, rapid inhibition failure, untrained public decoding, delayed checking and a rumor consequence continuing after the stop.",
+      "implication": "Distinguish attempted technique, appraisal, changed objective and execution. Harmful mistakes remain actual even when the represented outcome is comic.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M11EX-LD12",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Kazuma/Aqua/Darkness; represented Countビフランツ and unnamed banquet actors, retained Iris/Megumin/Funifura/Dodonko/Komekko/Luna/Lucy/Regina/AnrakuPrincess/Yuiyui/Yunyun/Vanir/shop-succubi separately attributed; author/creator/promotion separately typed",
+      "native_routes": "MAIN11 current assessment register/M11EX-Q01-Q38",
+      "observation": "Thirty-nine unchanged principal/party comparisons retain1narrowE03support,5partial(K01/K03/K04/E01/E06),1adjacentK05 and32NT;4typed diagnostics and14separateIris/YunyunNT preserve every original field.",
+      "implication": "Same informed post-seal source-local uptake; no blind C/F score, confidence update, new secondary opportunity or old score repair. All8models/both14nullsets exact; full program continues.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "schema": "konosuba.character-exact-scenario-inputs.v1",
+  "prepared_utc": "2026-10-24T15:10:47.315032+00:00",
+  "generation": "DUKE_EXPANDED_V1",
+  "foundation_freeze": {
+    "file": "COHORT37_MODEL_FOUNDATION_FREEZE_01.json",
+    "bytes": 3638,
+    "sha256": "ef147eb7f7062a12021525d4beacc22a5a44054b8164c6663ac6d0d1d58938f5"
+  },
+  "model_foundations": [
+    {
+      "file": "DUKE_MONOGRAPH_DRAFT_01.md",
+      "bytes": 15221,
+      "sha256": "0f85a23601ff503cc3f0bff41dd50f065002e15ab60421c74cd84bdcf70565e7"
+    },
+    {
+      "file": "DUKE_MODEL_DRAFT_01.md",
+      "bytes": 8153,
+      "sha256": "9d6adbd97e22fa28b4992867ca5af9d3ebbe75e44ef5fbf9ba15f10ba1c926fd"
+    },
+    {
+      "file": "DUKE_RULE_INVENTORY_DRAFT_01.json",
+      "bytes": 3327,
+      "sha256": "c397a655c169d1aa40f481cab6adb3a067a50b69ccd9c2b9acc1ff180b68cbff"
+    }
+  ],
+  "cases": [
+    {
+      "case_id": "DK-A1",
+      "pair": "DK-PAIR-A",
+      "variant": "unconnected",
+      "changed_factor": "Duke accepted connection information",
+      "prompt": "Use the frozen DUKE_EXPANDED_V1 model and its single DK-R01 hypothesis. This is an invented in-world scene during Duke's MAIN13 visit,before the graveyard confrontation or lich change. It is not a lost canonical event. The continuing author already knows the source and every contrast. Write Duke's immediate observable action and spoken response in English,in at most100words. Enact the scene;do not explain the model or narrate another person's hidden thoughts. Use only the stated scene facts and the frozen source capacities. Do not invent a prior attack by the other speaker,an unprovided order,retaliation mechanism,deadline or already-completed agreement. Duke may choose his own immediate action or reply within the supplied means.\n\nAt a public records courtyard,Duke is trying to obtain an ordinary written account relevant to Wiz's military-office duties. A physically weak lower demon is carrying several ledgers past the entrance. Duke knows the demon's species and weakness. The demon does not attack,threaten,block his body or claim authority over the challenge. It asks,\"Wait here five minutes while I put these ledgers away;you can ask about the record afterward.\" Duke can wait,ask a question or walk to another desk. There is no stated time-critical danger or prior refusal. Vanir is absent;no instruction from him has been delivered. Duke knows no connection between this demon and Vanir;the demon has not claimed one.",
+      "prompt_sha256": "d75d9d962708b6f96c449ca14c1fe9bcd35f89fbe06ac8d1a86be0f2b66aaf95",
+      "target_rule": "DK-R01",
+      "source_known": true
+    },
+    {
+      "case_id": "DK-A2",
+      "pair": "DK-PAIR-A",
+      "variant": "credited Vanir acquaintance",
+      "changed_factor": "Duke accepted connection information",
+      "prompt": "Use the frozen DUKE_EXPANDED_V1 model and its single DK-R01 hypothesis. This is an invented in-world scene during Duke's MAIN13 visit,before the graveyard confrontation or lich change. It is not a lost canonical event. The continuing author already knows the source and every contrast. Write Duke's immediate observable action and spoken response in English,in at most100words. Enact the scene;do not explain the model or narrate another person's hidden thoughts. Use only the stated scene facts and the frozen source capacities. Do not invent a prior attack by the other speaker,an unprovided order,retaliation mechanism,deadline or already-completed agreement. Duke may choose his own immediate action or reply within the supplied means.\n\nAt a public records courtyard,Duke is trying to obtain an ordinary written account relevant to Wiz's military-office duties. A physically weak lower demon is carrying several ledgers past the entrance. Duke knows the demon's species and weakness. The demon does not attack,threaten,block his body or claim authority over the challenge. It asks,\"Wait here five minutes while I put these ledgers away;you can ask about the record afterward.\" Duke can wait,ask a question or walk to another desk. There is no stated time-critical danger or prior refusal. Vanir is absent;no instruction from him has been delivered. Duke knows this demon is genuinely acquainted with Vanir;he accepts that connection. The demon has not claimed to speak for Vanir.",
+      "prompt_sha256": "b8303933ddc6ff02eec76aea7e7c1c14c244dcacd0a245091b60a85c518813e0",
+      "target_rule": "DK-R01",
+      "source_known": true
+    },
+    {
+      "case_id": "DK-B1",
+      "pair": "DK-PAIR-B",
+      "variant": "limited rescheduling request",
+      "changed_factor": "Requested concession relative to Duke core aim",
+      "prompt": "Use the frozen DUKE_EXPANDED_V1 model and its single DK-R01 hypothesis. This is an invented in-world scene during Duke's MAIN13 visit,before the graveyard confrontation or lich change. It is not a lost canonical event. The continuing author already knows the source and every contrast. Write Duke's immediate observable action and spoken response in English,in at most100words. Enact the scene;do not explain the model or narrate another person's hidden thoughts. Use only the stated scene facts and the frozen source capacities. Do not invent a prior attack by the other speaker,an unprovided order,retaliation mechanism,deadline or already-completed agreement. Duke may choose his own immediate action or reply within the supplied means.\n\nAt a public message counter,Duke still intends to pursue Wiz's army office through his own challenge. He knows the physically weak lower demon speaking to him is genuinely acquainted with Vanir;he accepts that connection. Vanir is absent,and the demon says it is asking on its own behalf rather than delivering his order. It has no stated enforcement device,does not threaten or attack,and cannot physically stop Duke leaving. Duke has not agreed to its request. There is no stated emergency or fixed appointment deadline. The demon says,\"Please move your challenge ten minutes later.\"",
+      "prompt_sha256": "edcf15ab432d118e7f3de65affa2e57345717c83eb752072ea84127db13e2471",
+      "target_rule": "DK-R01",
+      "source_known": true
+    },
+    {
+      "case_id": "DK-B2",
+      "pair": "DK-PAIR-B",
+      "variant": "abandon central challenge request",
+      "changed_factor": "Requested concession relative to Duke core aim",
+      "prompt": "Use the frozen DUKE_EXPANDED_V1 model and its single DK-R01 hypothesis. This is an invented in-world scene during Duke's MAIN13 visit,before the graveyard confrontation or lich change. It is not a lost canonical event. The continuing author already knows the source and every contrast. Write Duke's immediate observable action and spoken response in English,in at most100words. Enact the scene;do not explain the model or narrate another person's hidden thoughts. Use only the stated scene facts and the frozen source capacities. Do not invent a prior attack by the other speaker,an unprovided order,retaliation mechanism,deadline or already-completed agreement. Duke may choose his own immediate action or reply within the supplied means.\n\nAt a public message counter,Duke still intends to pursue Wiz's army office through his own challenge. He knows the physically weak lower demon speaking to him is genuinely acquainted with Vanir;he accepts that connection. Vanir is absent,and the demon says it is asking on its own behalf rather than delivering his order. It has no stated enforcement device,does not threaten or attack,and cannot physically stop Duke leaving. Duke has not agreed to its request. There is no stated emergency or fixed appointment deadline. The demon says,\"Please abandon your challenge and give up trying to take Wiz's post.\"",
+      "prompt_sha256": "76b8c4b528cb85c263f8e1b8311324064a747ba0399e298de8d2ecaf7f4652b6",
+      "target_rule": "DK-R01",
+      "source_known": true
+    }
+  ],
+  "case_count": 4,
+  "pair_count": 2,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "same_informed_root_authors_and_assesses": true,
+  "language": "English interactional continuity only;no Japanese/acoustic certification",
+  "not_final_nine_category_battery": true,
+  "original_first_bodies_serialized": false,
+  "prior_input_pin": {
+    "file": "DUKE_SCENARIO_INPUTS_DRAFT_01.json",
+    "bytes": 7785,
+    "sha256": "60fe4ffda9b2b9d487661aebd114098fe2086f69c6d4b794e25c444633177ea8"
+  },
+  "prefirst_precision": "Disambiguates the no-invented-attack clamp:it forbids inventing prior counterpart action,not choosing Duke own immediate action. No original first had been serialized."
+}

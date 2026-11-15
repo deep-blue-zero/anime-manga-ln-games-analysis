@@ -1,0 +1,157 @@
+{
+  "schema": "KONOSUBA_MAIN05_EXCLUDED_TEN_LEDGER_APPEND_DECISIONS_V1",
+  "source_id": "MAIN-05",
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 287983,
+      "sha256": "6fb6744ced849864df65cf5d2457bded1bef7fa41ac00b7f157e6a403934b0f1"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 208886,
+      "sha256": "eaf658cbecc30c94064ce47d1a6fb6ffc60e8b827192fac64b0570d16bca4689"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 777924,
+      "sha256": "79061101a3ae5cb69b2af7e69b75211cde44cf08528c0204bb1b64e4ae1491a8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 588682,
+      "sha256": "9c084439c3600fdf2d3050b606ccaa9e491236f5bf8850b4f3fdc68a168712f1"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 187429,
+      "sha256": "58f50cef60089ac8cc5e4feb9d6d13d802b47a6a33dcfa7916c5b23dae0896bf"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 180291,
+      "sha256": "71c46660fb80bbd07defa40713a9739fa29f0127fcd22de100fcde6e4f9d9978"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 202526,
+      "sha256": "871a7cc01e63e3801707470ebf738618df129da77e58b85c730737838f2de620"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 168200,
+      "sha256": "91ea9f6f218b062ad822311f9beab03775d670f6117d8e7f354b1a06c33d63ec"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 258059,
+      "sha256": "c962cff7f8b4b7f3713f40cebcc460396b86d462f84bf69733ad72a642699082"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 117041,
+      "sha256": "f573d2897f21a69e728b13eb56307d30072e1e252b4d6b3f8393e0bac49777f2"
+    }
+  ],
+  "rows": [
+    {
+      "id": "M05EX-LD01",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Arue/chief/family/other stated actors; creator and hypothetical roles separately typed",
+      "native_routes": "U014P70-140;IMG012/013/017/023-024",
+      "observation": "Keep document-induced urgency, disclosed fiction, ordinary company and proposed role behavior distinct from performed actions.",
+      "implication": "No global gullibility, prophecy fulfillment or compliant-service trait is inferred.",
+      "authority_and_adverse_limit": "New image/document/paratext reception; known principal event audit only, zero new principal pass credit or independent trial. Exact old ledger prefix, forecasts and scores retained."
+    },
+    {
+      "id": "M05EX-LD02",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Arue/chief/family/other stated actors; creator and hypothetical roles separately typed",
+      "native_routes": "U023P368-405;U028P169-231;IMG006/027",
+      "observation": "Megumin's non-action trust and hand-holding are specific; Kazuma later overrides the particular skill selection she requests and receives a pleased response after discovery.",
+      "implication": "Warmth and later pleasure do not supply retroactive authorization or an adult settled relationship.",
+      "authority_and_adverse_limit": "New image/document/paratext reception; known principal event audit only, zero new principal pass credit or independent trial. Exact old ledger prefix, forecasts and scores retained."
+    },
+    {
+      "id": "M05EX-LD03",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Arue/chief/family/other stated actors; creator and hypothetical roles separately typed",
+      "native_routes": "CURRENT_SELECTED_HUMOR_REGISTER",
+      "observation": "Separate17purposeful comic selections across actual quotations, document mistakes, staged art, a hypothetical demand sequence and production paratext.",
+      "implication": "Selections overlap and cannot become independent event frequency, personality scores or an all-text joke census.",
+      "authority_and_adverse_limit": "New image/document/paratext reception; known principal event audit only, zero new principal pass credit or independent trial. Exact old ledger prefix, forecasts and scores retained."
+    },
+    {
+      "id": "M05EX-LD04",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Arue/chief/family/other stated actors; creator and hypothetical roles separately typed",
+      "native_routes": "CURRENT_SELECTED_VOICE_REGISTER",
+      "observation": "16short written fragments preserve the actual speaker/document/imagined-role/creator/promotional plane; whole selections areL1with native forms retained.",
+      "implication": "No forced Japanese-only dependence from ruby, names, titles, honorifics or repeated formulas; no acoustic/native-human claim.",
+      "authority_and_adverse_limit": "New image/document/paratext reception; known principal event audit only, zero new principal pass credit or independent trial. Exact old ledger prefix, forecasts and scores retained."
+    },
+    {
+      "id": "M05EX-LD05",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Arue/chief/family/other stated actors; creator and hypothetical roles separately typed",
+      "native_routes": "U014P440;U019P1-25;U023P204-209;U027P476-479",
+      "observation": "His theory of no prior monster victims, assumed parental relationship meaning, tactical credit, divine punishment and future Yunyun shame have separate attribution.",
+      "implication": "Observed acts, guide claims, reported letters, wishes, speculation and narration do not share one knowledge plane.",
+      "authority_and_adverse_limit": "New image/document/paratext reception; known principal event audit only, zero new principal pass credit or independent trial. Exact old ledger prefix, forecasts and scores retained."
+    },
+    {
+      "id": "M05EX-LD06",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Arue/chief/family/other stated actors; creator and hypothetical roles separately typed",
+      "native_routes": "U015P52-64;U020P71-84;U030;IMG029",
+      "observation": "Camp talk values continuing ordinary shared life; Yunyun's father treats a military base as a tourism question; afterword work and NEXTwealth claims remain different planes.",
+      "implication": "A preference, reported resource prospect or preview is not an accomplished future condition.",
+      "authority_and_adverse_limit": "New image/document/paratext reception; known principal event audit only, zero new principal pass credit or independent trial. Exact old ledger prefix, forecasts and scores retained."
+    },
+    {
+      "id": "M05EX-LD07",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Arue/chief/family/other stated actors; creator and hypothetical roles separately typed",
+      "native_routes": "U014P321-368;U020P172-185;U023P42-53;U027P455-488",
+      "observation": "Plant-monster injury is mimicry, the cat-ear deity is a figurine, Aqua's cup mechanism stays unknown and Yunyun's lightning display accompanies coordinated waiting/dodging.",
+      "implication": "Recognized ability, display, actor knowledge, object identity and implementation success require distinct evidence.",
+      "authority_and_adverse_limit": "New image/document/paratext reception; known principal event audit only, zero new principal pass credit or independent trial. Exact old ledger prefix, forecasts and scores retained."
+    },
+    {
+      "id": "M05EX-LD08",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Arue/chief/family/other stated actors; creator and hypothetical roles separately typed",
+      "native_routes": "U014P378-442;U017P175-199;U019P1-25;IMG018",
+      "observation": "The orc sequence includes coercive danger and explicit resistance; the plant-monster decision retains moral conflict despite comic framing.",
+      "implication": "Comic tone supplies neither consent nor safety; attributed monster ecology and possible later casualties are not newly observed outcomes.",
+      "authority_and_adverse_limit": "New image/document/paratext reception; known principal event audit only, zero new principal pass credit or independent trial. Exact old ledger prefix, forecasts and scores retained."
+    },
+    {
+      "id": "M05EX-LD09",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Arue/chief/family/other stated actors; creator and hypothetical roles separately typed",
+      "native_routes": "U014P112-140;U020P71-84;U023P204-209;U028P169-219",
+      "observation": "Yunyun corrects a letter/fiction mistake, the chief admits theatrical wording, Sylvia misreads poor aim as tactical restraint, and Kazuma's generous override still breaches a specific request.",
+      "implication": "Keep corrections and costs beside apparent benefit. No omniscience from later outcome or a confident pose.",
+      "authority_and_adverse_limit": "New image/document/paratext reception; known principal event audit only, zero new principal pass credit or independent trial. Exact old ledger prefix, forecasts and scores retained."
+    },
+    {
+      "id": "M05EX-LD10",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Arue/chief/family/other stated actors; creator and hypothetical roles separately typed",
+      "native_routes": "CURRENT_EXPLORATORY_LOCAL_ASSESSMENTS",
+      "observation": "31principal and8party comparisons record no new eligible enactment trial; all4typed constraints remain explicit. Retained images are calibration/audit routes.",
+      "implication": "Do not repopulate original outcomes, retargetI01/I02/SEC01, duplicate old events or claim a new blind score.",
+      "authority_and_adverse_limit": "New image/document/paratext reception; known principal event audit only, zero new principal pass credit or independent trial. Exact old ledger prefix, forecasts and scores retained."
+    },
+    {
+      "id": "M05EX-LD11",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness/Yunyun/Arue/chief/family/other stated actors; creator and hypothetical roles separately typed",
+      "native_routes": "IMG009/011/012/013/019/020/026/029",
+      "observation": "Iris is only a future promotional proposal here; Yunyun/Arue/family witnesses add identity and attribution work to the census, without a new mature secondary model.",
+      "implication": "Corpus-wide source/event deduplication and earned per-character receiving remain required before tier promotion.",
+      "authority_and_adverse_limit": "New image/document/paratext reception; known principal event audit only, zero new principal pass credit or independent trial. Exact old ledger prefix, forecasts and scores retained."
+    }
+  ]
+}

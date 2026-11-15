@@ -1,0 +1,1950 @@
+{
+  "schema": "INDEPENDENT_VERITAS_CURRENT_V3_VP098_ARTICLE_VP104_WAGE_MOTIVE_ALL8_TWO_STAGE_RAW_INVERSE_AND_EXACT_ACTUAL_DIFF_QA_V1",
+  "reviewer": "/root/receive_middle_remaining",
+  "current_manifest": {
+    "bytes": 19272,
+    "sha256": "f1b9150efa1de1e058db20ace86a0be209861e9fd04dbc322727d384869c9ed6",
+    "git_blob_oid_of_actual_bytes": "0377a968218891095e3a4e099a8cea265ac082e2"
+  },
+  "checks": [
+    {
+      "check": "V3_to_V2series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.mdbeforepin",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.mdcurrentpin",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.mdidentity-noops",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.jsonbeforepin",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.jsoncurrentpin",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.jsonexact_actual_diff_pointer_allowlist",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.json/current_VP104_wage_motive_and_finite_achieved_endpoint_source_use_qualification_V3actualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.jsonexecuted_full_raw_inverse",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.jsonexecuted_full_raw_forward",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.jsonbeforepin",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.jsoncurrentpin",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.jsonexact_actual_diff_pointer_allowlist",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json/current_source_qualification_binding/git_blob_oid_of_actual_bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json/current_source_qualification_binding/sha256actualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json/current_source_qualification_binding/bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json/current_source_qualification_binding/bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json/current_source_qualification_binding/sha256actualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json/current_source_qualification_binding/git_blob_oid_of_actual_bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.jsonexecuted_full_raw_inverse",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.jsonexecuted_full_raw_forward",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.jsonbeforepin",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.jsoncurrentpin",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.jsonexact_actual_diff_pointer_allowlist",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json/current_source_qualification_binding/git_blob_oid_of_actual_bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json/current_source_qualification_binding/sha256actualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json/current_source_qualification_binding/bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json/current_source_qualification_binding/bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json/current_source_qualification_binding/sha256actualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json/current_source_qualification_binding/git_blob_oid_of_actual_bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.jsonexecuted_full_raw_inverse",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.jsonexecuted_full_raw_forward",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.jsonbeforepin",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.jsoncurrentpin",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.jsonexact_actual_diff_pointer_allowlist",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json/records/33/current_specific_qualifieractualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json/records/33/own_new_target_specific_positive_meaningactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json/current_source_qualification_binding/git_blob_oid_of_actual_bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json/current_source_qualification_binding/sha256actualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json/current_source_qualification_binding/bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json/current_source_qualification_binding/bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json/current_source_qualification_binding/sha256actualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json/current_source_qualification_binding/git_blob_oid_of_actual_bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json/records/33/own_new_target_specific_positive_meaningactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json/records/33/current_specific_qualifieractualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.jsonexecuted_full_raw_inverse",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.jsonexecuted_full_raw_forward",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.jsonbeforepin",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.jsoncurrentpin",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.jsonexact_actual_diff_pointer_allowlist",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/parts/2/git_blob_oid_of_actual_bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/parts/2/sha256actualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/parts/2/bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/parts/1/git_blob_oid_of_actual_bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/parts/1/sha256actualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/parts/0/git_blob_oid_of_actual_bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/parts/0/sha256actualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/source_receiving/git_blob_oid_of_actual_bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/source_receiving/sha256actualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/source_receiving/bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/source_receiving/bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/source_receiving/sha256actualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/source_receiving/git_blob_oid_of_actual_bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/parts/0/sha256actualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/parts/0/git_blob_oid_of_actual_bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/parts/1/sha256actualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/parts/1/git_blob_oid_of_actual_bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/parts/2/bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/parts/2/sha256actualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/parts/2/git_blob_oid_of_actual_bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.jsonexecuted_full_raw_inverse",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.jsonexecuted_full_raw_forward",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.jsonbeforepin",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.jsoncurrentpin",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.jsonexact_actual_diff_pointer_allowlist",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json/source_input_receiving/git_blob_oid_of_actual_bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json/source_input_receiving/sha256actualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json/source_input_receiving/bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json/all105_current_purpose_index/git_blob_oid_of_actual_bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json/all105_current_purpose_index/sha256actualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json/all105_current_purpose_index/sha256actualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json/all105_current_purpose_index/git_blob_oid_of_actual_bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json/source_input_receiving/bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json/source_input_receiving/sha256actualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json/source_input_receiving/git_blob_oid_of_actual_bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.jsonexecuted_full_raw_inverse",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.jsonexecuted_full_raw_forward",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.jsonbeforepin",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.jsoncurrentpin",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.jsonexact_actual_diff_pointer_allowlist",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/6/git_blob_oid_of_actual_bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/6/sha256actualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/5/git_blob_oid_of_actual_bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/5/sha256actualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/4/git_blob_oid_of_actual_bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/4/sha256actualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/4/bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/3/git_blob_oid_of_actual_bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/3/sha256actualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/2/git_blob_oid_of_actual_bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/2/sha256actualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/1/git_blob_oid_of_actual_bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/1/sha256actualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/1/bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/current_VP104_source_use_precision_and_author_receiving_boundary_V3actualafter",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/1/bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/1/sha256actualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/1/git_blob_oid_of_actual_bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/2/sha256actualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/2/git_blob_oid_of_actual_bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/3/sha256actualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/3/git_blob_oid_of_actual_bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/4/bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/4/sha256actualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/4/git_blob_oid_of_actual_bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/5/sha256actualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/5/git_blob_oid_of_actual_bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/6/sha256actualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/6/git_blob_oid_of_actual_bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.jsonexecuted_full_raw_inverse",
+      "passed": true
+    },
+    {
+      "check": "V3_to_V2series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.jsonexecuted_full_raw_forward",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.mdbeforepin",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.mdcurrentpin",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.mdidentity-noops",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.jsonbeforepin",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.jsoncurrentpin",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.jsonexact_actual_diff_pointer_allowlist",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.jsonexecuted_full_raw_inverse",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.jsonexecuted_full_raw_forward",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.jsonbeforepin",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.jsoncurrentpin",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.jsonexact_actual_diff_pointer_allowlist",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.jsonexecuted_full_raw_inverse",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.jsonexecuted_full_raw_forward",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.jsonbeforepin",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.jsoncurrentpin",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.jsonexact_actual_diff_pointer_allowlist",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.jsonexecuted_full_raw_inverse",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.jsonexecuted_full_raw_forward",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.jsonbeforepin",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.jsoncurrentpin",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.jsonexact_actual_diff_pointer_allowlist",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json/records/27/own_finite_institution_useactualafter",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json/records/27/own_finite_institution_useactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.jsonexecuted_full_raw_inverse",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.jsonexecuted_full_raw_forward",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.jsonbeforepin",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.jsoncurrentpin",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.jsonexact_actual_diff_pointer_allowlist",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/parts/2/git_blob_oid_of_actual_bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/parts/2/sha256actualafter",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/parts/2/bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/parts/2/bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/parts/2/sha256actualbefore",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json/parts/2/git_blob_oid_of_actual_bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.jsonexecuted_full_raw_inverse",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.jsonexecuted_full_raw_forward",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.jsonbeforepin",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.jsoncurrentpin",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.jsonexact_actual_diff_pointer_allowlist",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json/all105_current_purpose_index/git_blob_oid_of_actual_bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json/all105_current_purpose_index/sha256actualafter",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json/all105_current_purpose_index/sha256actualbefore",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json/all105_current_purpose_index/git_blob_oid_of_actual_bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.jsonexecuted_full_raw_inverse",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.jsonexecuted_full_raw_forward",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.jsonbeforepin",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.jsoncurrentpin",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.jsonexact_actual_diff_pointer_allowlist",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/actual_saved105_author_field_readbackactualafter",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/6/git_blob_oid_of_actual_bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/6/sha256actualafter",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/5/git_blob_oid_of_actual_bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/5/sha256actualafter",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/4/git_blob_oid_of_actual_bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/4/sha256actualafter",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/4/bytesactualafter",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/current_author_closeout_qualification_V2actualafter",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/4/bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/4/sha256actualbefore",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/4/git_blob_oid_of_actual_bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/5/sha256actualbefore",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/5/git_blob_oid_of_actual_bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/6/sha256actualbefore",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/exact7_components_before_this_transport/6/git_blob_oid_of_actual_bytesactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json/actual_saved105_author_field_readbackactualbefore",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.jsonexecuted_full_raw_inverse",
+      "passed": true
+    },
+    {
+      "check": "V2_to_V1series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.jsonexecuted_full_raw_forward",
+      "passed": true
+    },
+    {
+      "check": "actual-original8-immutable:series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md",
+      "passed": true
+    },
+    {
+      "check": "actual-original8-immutable:series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.json",
+      "passed": true
+    },
+    {
+      "check": "actual-original8-immutable:series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json",
+      "passed": true
+    },
+    {
+      "check": "actual-original8-immutable:series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json",
+      "passed": true
+    },
+    {
+      "check": "actual-original8-immutable:series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json",
+      "passed": true
+    },
+    {
+      "check": "actual-original8-immutable:series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+      "passed": true
+    },
+    {
+      "check": "actual-original8-immutable:series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "passed": true
+    },
+    {
+      "check": "actual-original8-immutable:series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O000",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O001",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O002",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O003",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O004",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O005",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O006",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O007",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O008",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O009",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O010",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O011",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O012",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O013",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O014",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O015",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O016",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O017",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O018",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O019",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O020",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O021",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O022",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O023",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O024",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O025",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O026",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O027",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O028",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O029",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O030",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O031",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O032",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O033",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O034",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O035",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O036",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O037",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O038",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O039",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O040",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O041",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O042",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O043",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O044",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O045",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O046",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O047",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O048",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O049",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O050",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O051",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O052",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O053",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O054",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O055",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O056",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O057",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O058",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O059",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O060",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O061",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O062",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O063",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O064",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O065",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O066",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O067",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O068",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O069",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O070",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O071",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O072",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O073",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O074",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O075",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O076",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O077",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O078",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O079",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O080",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O081",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O082",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O083",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O084",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O085",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O086",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O087",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O088",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O089",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O090",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O091",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O092",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O093",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O094",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O095",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O096",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O097",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O098",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O099",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O100",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O101",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O102",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O103",
+      "passed": true
+    },
+    {
+      "check": "all-original105-payloads:O104",
+      "passed": true
+    },
+    {
+      "check": "exact_two_total_newtarget_scalars_from_initial8",
+      "passed": true
+    },
+    {
+      "check": "current_VP104_selected_source_pin",
+      "passed": true
+    },
+    {
+      "check": "current_VP104_exact_L149_L151_context",
+      "passed": true
+    },
+    {
+      "check": "current_VP104_positive_effective_mirror",
+      "passed": true
+    }
+  ],
+  "check_count": 304,
+  "failures": [],
+  "full_two_stage_actual_field_operations": [
+    {
+      "stage": "V3_to_V2",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.json",
+      "complete_actual_operations": [
+        {
+          "pointer": "/current_VP104_wage_motive_and_finite_achieved_endpoint_source_use_qualification_V3",
+          "after": {
+            "schema": "VERITAS_VP104_CURRENT_SORA_WAGE_MOTIVE_AND_FINITE_ACHIEVED_END_SOURCE_USE_QUALIFICATION_V1",
+            "source_repository_path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 93829,
+            "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+            "git_blob_oid_of_actual_bytes": "512a08b30bfa91dee27087fd743809dc8aa30b98",
+            "selected_physical_lines": [
+              149,
+              151
+            ],
+            "complete_selected_maintained_argument_UTF8": "\nSensei later identifies the supposed lost gift as a gift for Sora and acknowledges failure to tell her (choices003/004). The explanation values reliable ordinary shop work, welcomes and daily availability rather than requiring a special achievement. She says she works for wages; this motive does not cancel her work's genuine value (u0054–0070). The gloves are actually opened/recognized and praised as light, warm and fitting; design/taste has its own intrinsic pleasant endpoint. Her question about how hand size was known offers two represented Sensei replies, including repeated observation while receiving change, not a single verified measurement technique (choice008). Final “suspicious adult” remains even as she says she is very happy and thanks Sensei for trusting the shop (u0071–0082). This is repaired gift attribution and welcomed care alongside continuing observational discomfort, not complete elimination of doubt, completed reciprocal coupon repayment, universal romance or proof that ordinary work can never be burdensome.\n",
+            "own_actual_selected_receiving": "71e55e complete maintainedL149–151/Sora04030u0054–0070",
+            "grade": "OWN_SELECTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ARGUMENT_ONLY;NOT_WHOLE344_NOT_32CANONICAL_UNITS_NOT_30PRIMARY_OR2REUSE",
+            "current_positive_meaning": "Selected MINI meanings retain actual fitted gloves, completed parties, enjoyed food, volunteered broadcast, rescue/dinner and a blooming plant as finite positive endpoints; Sora's wage motive and explicit release from endless repayment are distinct meaningful ends.",
+            "reason": "Sora says she works for wages; her motive has positive ordinary/work value. Actual opened/recognized warm fitting gloves are an achieved gift endpoint. Neither this source-local wage clause nor the new purpose certifies payroll; no global nonpayment or sourcewide wage absence is claimed. Prior originalO104 already preserves wage motive.",
+            "scope": "One new Veritas positive scalar, no body52 or semantic mirror. Current source-use qualifications/dependency pins follow this bounded precision; complete frozenO104/other104,source7/all14OPEN/model0 and all prior grades/decisions/raw inverse histories are unchanged.",
+            "different_author_finding_witness": {
+              "evidence_id": "private-witness:VERITAS-VP104-EXACT-ONE-FIELD-MIDDLE-FINDING",
+              "bytes": 5222,
+              "sha256": "f21892a6c22a88bf1ef1ed80ca3309ba582761f9e65d453b842ce1143c273d3b",
+              "git_blob_oid_of_actual_bytes": "669cca6c3b4a312a5704173cdee621cdf37d00bf",
+              "grade": "Full affected-field/repetition inventory and selected source reason, not positive repaired-delta QA; that remains pending."
+            },
+            "new_source_primary_native_raw_AV_identity_model_package_named_credit": 0
+          },
+          "kind": "ADD"
+        }
+      ],
+      "inverse_bytes_pin": {
+        "bytes": 92921,
+        "sha256": "0c19071ec199923fd8bf1182af7458e0e60cdc991556b8ac47c4ef1af3ce861f",
+        "git_blob_oid_of_actual_bytes": "7d66967676d51dc2988877b6ad5fe604a3c97660"
+      },
+      "current_bytes_pin": {
+        "bytes": 96330,
+        "sha256": "010dfd2652711bb69cb8b3af08285437ae15789460b3e86f0c8b38fab358ac6b",
+        "git_blob_oid_of_actual_bytes": "ff28b196c388a2f2cf924973c1de38fc8c10dc95"
+      }
+    },
+    {
+      "stage": "V3_to_V2",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json",
+      "complete_actual_operations": [
+        {
+          "pointer": "/current_source_qualification_binding/bytes",
+          "before": 92921,
+          "after": 96330,
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/current_source_qualification_binding/sha256",
+          "before": "0c19071ec199923fd8bf1182af7458e0e60cdc991556b8ac47c4ef1af3ce861f",
+          "after": "010dfd2652711bb69cb8b3af08285437ae15789460b3e86f0c8b38fab358ac6b",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/current_source_qualification_binding/git_blob_oid_of_actual_bytes",
+          "before": "7d66967676d51dc2988877b6ad5fe604a3c97660",
+          "after": "ff28b196c388a2f2cf924973c1de38fc8c10dc95",
+          "kind": "REPLACE"
+        }
+      ],
+      "inverse_bytes_pin": {
+        "bytes": 279058,
+        "sha256": "f116c08a6dcafafd048ad796b66d0a85624dfa09253f2ec46e8095d9127ac9f2",
+        "git_blob_oid_of_actual_bytes": "50c8d4a429b0e85cabcbe891fdb2da586483a6a1"
+      },
+      "current_bytes_pin": {
+        "bytes": 279058,
+        "sha256": "ac4d5aa0fe867e53914df9f1505996180edfa72004b665b40432200f4f7e1c2d",
+        "git_blob_oid_of_actual_bytes": "32f6032b9d3ba7736c3b477f8bc59b962d91e5b1"
+      }
+    },
+    {
+      "stage": "V3_to_V2",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json",
+      "complete_actual_operations": [
+        {
+          "pointer": "/current_source_qualification_binding/bytes",
+          "before": 92921,
+          "after": 96330,
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/current_source_qualification_binding/sha256",
+          "before": "0c19071ec199923fd8bf1182af7458e0e60cdc991556b8ac47c4ef1af3ce861f",
+          "after": "010dfd2652711bb69cb8b3af08285437ae15789460b3e86f0c8b38fab358ac6b",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/current_source_qualification_binding/git_blob_oid_of_actual_bytes",
+          "before": "7d66967676d51dc2988877b6ad5fe604a3c97660",
+          "after": "ff28b196c388a2f2cf924973c1de38fc8c10dc95",
+          "kind": "REPLACE"
+        }
+      ],
+      "inverse_bytes_pin": {
+        "bytes": 416675,
+        "sha256": "50480b7f5bcabef1fe6944e2e203e901fbc225fa172fad0c3bd595fb55d0649d",
+        "git_blob_oid_of_actual_bytes": "c1c06dbadfc2acc2f6037430c061be6c072da113"
+      },
+      "current_bytes_pin": {
+        "bytes": 416675,
+        "sha256": "1ff72d1b634ee056bab419702c8cc3b32418fc25af260d01afd66797eabe0dcf",
+        "git_blob_oid_of_actual_bytes": "cce46e5474673fec28d4546cbb6625a225040f5b"
+      }
+    },
+    {
+      "stage": "V3_to_V2",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json",
+      "complete_actual_operations": [
+        {
+          "pointer": "/current_source_qualification_binding/bytes",
+          "before": 92921,
+          "after": 96330,
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/current_source_qualification_binding/sha256",
+          "before": "0c19071ec199923fd8bf1182af7458e0e60cdc991556b8ac47c4ef1af3ce861f",
+          "after": "010dfd2652711bb69cb8b3af08285437ae15789460b3e86f0c8b38fab358ac6b",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/current_source_qualification_binding/git_blob_oid_of_actual_bytes",
+          "before": "7d66967676d51dc2988877b6ad5fe604a3c97660",
+          "after": "ff28b196c388a2f2cf924973c1de38fc8c10dc95",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/records/33/own_new_target_specific_positive_meaning",
+          "before": "Selected MINI meanings retain fitted gloves, wages, parties, food, volunteered broadcast, rescue/dinner, gardening and explicit release from endless repayment as distinct achieved goods.",
+          "after": "Selected MINI meanings retain actual fitted gloves, completed parties, enjoyed food, volunteered broadcast, rescue/dinner and a blooming plant as finite positive endpoints; Sora's wage motive and explicit release from endless repayment are distinct meaningful ends.",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/records/33/current_specific_qualifier",
+          "before": "Original source-local actors/modes and report-grade boundaries retained.",
+          "after": "Current source-use qualification distinguishes Sora wage motive from finite achieved gifts/food/help; originalO104 remains exact. Own selected maintainedL149–151/04030u0054–0070, no wholeMINI/primary replay or global nonpayment/payroll-absence claim.",
+          "kind": "REPLACE"
+        }
+      ],
+      "inverse_bytes_pin": {
+        "bytes": 580322,
+        "sha256": "d5f3d9e9b3fdde79748e66263c2afb5753bac01a69cb41c8dcf8089f5feac76b",
+        "git_blob_oid_of_actual_bytes": "52048428038f9dd4a18c3ff3ffa5674c962201f7"
+      },
+      "current_bytes_pin": {
+        "bytes": 580583,
+        "sha256": "251c0724f9398a56331581ff74ec113f064b04a32fb40d668aa3a217b29ff459",
+        "git_blob_oid_of_actual_bytes": "1f72783264c17afa13754aa64ed75cb5df750f69"
+      }
+    },
+    {
+      "stage": "V3_to_V2",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+      "complete_actual_operations": [
+        {
+          "pointer": "/source_receiving/bytes",
+          "before": 92921,
+          "after": 96330,
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/source_receiving/sha256",
+          "before": "0c19071ec199923fd8bf1182af7458e0e60cdc991556b8ac47c4ef1af3ce861f",
+          "after": "010dfd2652711bb69cb8b3af08285437ae15789460b3e86f0c8b38fab358ac6b",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/source_receiving/git_blob_oid_of_actual_bytes",
+          "before": "7d66967676d51dc2988877b6ad5fe604a3c97660",
+          "after": "ff28b196c388a2f2cf924973c1de38fc8c10dc95",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/parts/0/sha256",
+          "before": "f116c08a6dcafafd048ad796b66d0a85624dfa09253f2ec46e8095d9127ac9f2",
+          "after": "ac4d5aa0fe867e53914df9f1505996180edfa72004b665b40432200f4f7e1c2d",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/parts/0/git_blob_oid_of_actual_bytes",
+          "before": "50c8d4a429b0e85cabcbe891fdb2da586483a6a1",
+          "after": "32f6032b9d3ba7736c3b477f8bc59b962d91e5b1",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/parts/1/sha256",
+          "before": "50480b7f5bcabef1fe6944e2e203e901fbc225fa172fad0c3bd595fb55d0649d",
+          "after": "1ff72d1b634ee056bab419702c8cc3b32418fc25af260d01afd66797eabe0dcf",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/parts/1/git_blob_oid_of_actual_bytes",
+          "before": "c1c06dbadfc2acc2f6037430c061be6c072da113",
+          "after": "cce46e5474673fec28d4546cbb6625a225040f5b",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/parts/2/bytes",
+          "before": 580322,
+          "after": 580583,
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/parts/2/sha256",
+          "before": "d5f3d9e9b3fdde79748e66263c2afb5753bac01a69cb41c8dcf8089f5feac76b",
+          "after": "251c0724f9398a56331581ff74ec113f064b04a32fb40d668aa3a217b29ff459",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/parts/2/git_blob_oid_of_actual_bytes",
+          "before": "52048428038f9dd4a18c3ff3ffa5674c962201f7",
+          "after": "1f72783264c17afa13754aa64ed75cb5df750f69",
+          "kind": "REPLACE"
+        }
+      ],
+      "inverse_bytes_pin": {
+        "bytes": 70612,
+        "sha256": "79b04b99f9296b18e40c7021b8cb601fe1751fdfcf81a0ae0ed4ed2d7c888fe8",
+        "git_blob_oid_of_actual_bytes": "cdcec494529bd1154cda5038b8c911cdf7636447"
+      },
+      "current_bytes_pin": {
+        "bytes": 70612,
+        "sha256": "c2c76c14678388e72249243b41d88ea3cff642f73311f5980ccd1300882d47ba",
+        "git_blob_oid_of_actual_bytes": "fbf7673ed4a3f105b608515e9c525f5d3f88079d"
+      }
+    },
+    {
+      "stage": "V3_to_V2",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "complete_actual_operations": [
+        {
+          "pointer": "/all105_current_purpose_index/sha256",
+          "before": "79b04b99f9296b18e40c7021b8cb601fe1751fdfcf81a0ae0ed4ed2d7c888fe8",
+          "after": "c2c76c14678388e72249243b41d88ea3cff642f73311f5980ccd1300882d47ba",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/all105_current_purpose_index/git_blob_oid_of_actual_bytes",
+          "before": "cdcec494529bd1154cda5038b8c911cdf7636447",
+          "after": "fbf7673ed4a3f105b608515e9c525f5d3f88079d",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/source_input_receiving/bytes",
+          "before": 92921,
+          "after": 96330,
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/source_input_receiving/sha256",
+          "before": "0c19071ec199923fd8bf1182af7458e0e60cdc991556b8ac47c4ef1af3ce861f",
+          "after": "010dfd2652711bb69cb8b3af08285437ae15789460b3e86f0c8b38fab358ac6b",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/source_input_receiving/git_blob_oid_of_actual_bytes",
+          "before": "7d66967676d51dc2988877b6ad5fe604a3c97660",
+          "after": "ff28b196c388a2f2cf924973c1de38fc8c10dc95",
+          "kind": "REPLACE"
+        }
+      ],
+      "inverse_bytes_pin": {
+        "bytes": 903345,
+        "sha256": "fd6869bfceb457e48c0b4f33cd9b4276b8c1c2a63f320510f7b4a9af3ef61033",
+        "git_blob_oid_of_actual_bytes": "77b2a496eea480fe0bd576b6672c4dd3d91045fd"
+      },
+      "current_bytes_pin": {
+        "bytes": 903345,
+        "sha256": "5b9976958a9cb103e8583f581e55f5ebc3b2edfdde98b8bf3436508c891e3e11",
+        "git_blob_oid_of_actual_bytes": "8f8c7092766dbd7328d8cbff49f5898b78c5d35b"
+      }
+    },
+    {
+      "stage": "V3_to_V2",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json",
+      "complete_actual_operations": [
+        {
+          "pointer": "/current_VP104_source_use_precision_and_author_receiving_boundary_V3",
+          "after": {
+            "schema": "VERITAS_CURRENT_ONE_WAGE_MOTIVE_PRECISION_AND_PREVIOUS_READBACK_SCOPE_V1",
+            "saved_actual_UTC": "2026-10-14T00:30:36.803084+00:00",
+            "author": "/root/m008_composition_review",
+            "only_target_semantic_operation": {
+              "owner_id": "O104",
+              "veritas_purpose_id": "VP104",
+              "pointer": "/records/33/own_new_target_specific_positive_meaning",
+              "before": "Selected MINI meanings retain fitted gloves, wages, parties, food, volunteered broadcast, rescue/dinner, gardening and explicit release from endless repayment as distinct achieved goods.",
+              "current": "Selected MINI meanings retain actual fitted gloves, completed parties, enjoyed food, volunteered broadcast, rescue/dinner and a blooming plant as finite positive endpoints; Sora's wage motive and explicit release from endless repayment are distinct meaningful ends."
+            },
+            "source_use": {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.json",
+              "bytes": 96330,
+              "sha256": "010dfd2652711bb69cb8b3af08285437ae15789460b3e86f0c8b38fab358ac6b",
+              "git_blob_oid_of_actual_bytes": "ff28b196c388a2f2cf924973c1de38fc8c10dc95",
+              "JSON_pointer": "/current_VP104_wage_motive_and_finite_achieved_endpoint_source_use_qualification_V3"
+            },
+            "actual_selected_source_receiving": "71e55e full149–151 maintainedsource only; prior purpose36d528/963230 report meanings independently retain wage motive.4c5aea complete peer fieldset and selected context received.",
+            "original_all105_author_readback_role": "Seven original untruncated actual525 field outputs remain dated. Current VP098 article separately received20d5ca. Only VP104 positive is now semantically qualified; other524 target meaning scalars unchanged. Corrected actual saved positive/source/transport are separately received in final closeout; no fresh whole105 normals/primary or old-field endorsement inferred from the earlier receipt.",
+            "scope": "No source admission/new canonical count/body52/change to original105/other104/14OPEN/model0. One wage-motive versus achieved-end precision, necessary typed current dependency pins and source-use qualification. No global nonpayment or payroll absence.",
+            "current_QA_ROOT_gates": "Distinct-author actual corrected-delta QA and complete component verdict, ROOT full receiving/adoption/install/publication remain pending.",
+            "merge_approval": "RESERVED"
+          },
+          "kind": "ADD"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/1/bytes",
+          "before": 92921,
+          "after": 96330,
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/1/sha256",
+          "before": "0c19071ec199923fd8bf1182af7458e0e60cdc991556b8ac47c4ef1af3ce861f",
+          "after": "010dfd2652711bb69cb8b3af08285437ae15789460b3e86f0c8b38fab358ac6b",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/1/git_blob_oid_of_actual_bytes",
+          "before": "7d66967676d51dc2988877b6ad5fe604a3c97660",
+          "after": "ff28b196c388a2f2cf924973c1de38fc8c10dc95",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/2/sha256",
+          "before": "f116c08a6dcafafd048ad796b66d0a85624dfa09253f2ec46e8095d9127ac9f2",
+          "after": "ac4d5aa0fe867e53914df9f1505996180edfa72004b665b40432200f4f7e1c2d",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/2/git_blob_oid_of_actual_bytes",
+          "before": "50c8d4a429b0e85cabcbe891fdb2da586483a6a1",
+          "after": "32f6032b9d3ba7736c3b477f8bc59b962d91e5b1",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/3/sha256",
+          "before": "50480b7f5bcabef1fe6944e2e203e901fbc225fa172fad0c3bd595fb55d0649d",
+          "after": "1ff72d1b634ee056bab419702c8cc3b32418fc25af260d01afd66797eabe0dcf",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/3/git_blob_oid_of_actual_bytes",
+          "before": "c1c06dbadfc2acc2f6037430c061be6c072da113",
+          "after": "cce46e5474673fec28d4546cbb6625a225040f5b",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/4/bytes",
+          "before": 580322,
+          "after": 580583,
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/4/sha256",
+          "before": "d5f3d9e9b3fdde79748e66263c2afb5753bac01a69cb41c8dcf8089f5feac76b",
+          "after": "251c0724f9398a56331581ff74ec113f064b04a32fb40d668aa3a217b29ff459",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/4/git_blob_oid_of_actual_bytes",
+          "before": "52048428038f9dd4a18c3ff3ffa5674c962201f7",
+          "after": "1f72783264c17afa13754aa64ed75cb5df750f69",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/5/sha256",
+          "before": "79b04b99f9296b18e40c7021b8cb601fe1751fdfcf81a0ae0ed4ed2d7c888fe8",
+          "after": "c2c76c14678388e72249243b41d88ea3cff642f73311f5980ccd1300882d47ba",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/5/git_blob_oid_of_actual_bytes",
+          "before": "cdcec494529bd1154cda5038b8c911cdf7636447",
+          "after": "fbf7673ed4a3f105b608515e9c525f5d3f88079d",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/6/sha256",
+          "before": "fd6869bfceb457e48c0b4f33cd9b4276b8c1c2a63f320510f7b4a9af3ef61033",
+          "after": "5b9976958a9cb103e8583f581e55f5ebc3b2edfdde98b8bf3436508c891e3e11",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/6/git_blob_oid_of_actual_bytes",
+          "before": "77b2a496eea480fe0bd576b6672c4dd3d91045fd",
+          "after": "8f8c7092766dbd7328d8cbff49f5898b78c5d35b",
+          "kind": "REPLACE"
+        }
+      ],
+      "inverse_bytes_pin": {
+        "bytes": 8219,
+        "sha256": "b666b504a435d07f4d6ff2307fd495fce6b89235096888885189580743dd3c1f",
+        "git_blob_oid_of_actual_bytes": "b0b8c2c718b0ea7c30c48cbdb385caaee45a9718"
+      },
+      "current_bytes_pin": {
+        "bytes": 10848,
+        "sha256": "c4b996b176e3ffee14b692b63807f8d8abe682596bc4335ec68c4d5121ec87ee",
+        "git_blob_oid_of_actual_bytes": "9ff4bbc762016d9f3a6a0bce06c0af2b796e58aa"
+      }
+    },
+    {
+      "stage": "V2_to_V1",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.json",
+      "complete_actual_operations": [],
+      "inverse_bytes_pin": {
+        "bytes": 92921,
+        "sha256": "0c19071ec199923fd8bf1182af7458e0e60cdc991556b8ac47c4ef1af3ce861f",
+        "git_blob_oid_of_actual_bytes": "7d66967676d51dc2988877b6ad5fe604a3c97660"
+      },
+      "current_bytes_pin": {
+        "bytes": 92921,
+        "sha256": "0c19071ec199923fd8bf1182af7458e0e60cdc991556b8ac47c4ef1af3ce861f",
+        "git_blob_oid_of_actual_bytes": "7d66967676d51dc2988877b6ad5fe604a3c97660"
+      }
+    },
+    {
+      "stage": "V2_to_V1",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json",
+      "complete_actual_operations": [],
+      "inverse_bytes_pin": {
+        "bytes": 279058,
+        "sha256": "f116c08a6dcafafd048ad796b66d0a85624dfa09253f2ec46e8095d9127ac9f2",
+        "git_blob_oid_of_actual_bytes": "50c8d4a429b0e85cabcbe891fdb2da586483a6a1"
+      },
+      "current_bytes_pin": {
+        "bytes": 279058,
+        "sha256": "f116c08a6dcafafd048ad796b66d0a85624dfa09253f2ec46e8095d9127ac9f2",
+        "git_blob_oid_of_actual_bytes": "50c8d4a429b0e85cabcbe891fdb2da586483a6a1"
+      }
+    },
+    {
+      "stage": "V2_to_V1",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json",
+      "complete_actual_operations": [],
+      "inverse_bytes_pin": {
+        "bytes": 416675,
+        "sha256": "50480b7f5bcabef1fe6944e2e203e901fbc225fa172fad0c3bd595fb55d0649d",
+        "git_blob_oid_of_actual_bytes": "c1c06dbadfc2acc2f6037430c061be6c072da113"
+      },
+      "current_bytes_pin": {
+        "bytes": 416675,
+        "sha256": "50480b7f5bcabef1fe6944e2e203e901fbc225fa172fad0c3bd595fb55d0649d",
+        "git_blob_oid_of_actual_bytes": "c1c06dbadfc2acc2f6037430c061be6c072da113"
+      }
+    },
+    {
+      "stage": "V2_to_V1",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json",
+      "complete_actual_operations": [
+        {
+          "pointer": "/records/27/own_finite_institution_use",
+          "before": "Compare members' own creative/game repertoire and coordinated help without reducing their present lives to a assigned technical function.",
+          "after": "Compare members' own creative/game repertoire and coordinated help without reducing their present lives to an assigned technical function.",
+          "kind": "REPLACE"
+        }
+      ],
+      "inverse_bytes_pin": {
+        "bytes": 580321,
+        "sha256": "fa0a8ca65b61cb248198cc6b13ec7aa16110e4f93fc8c0e9ac6ac5aa8a1aab52",
+        "git_blob_oid_of_actual_bytes": "96e5c554d66194a1f73ef9eb3564f0a1c4b0ec4e"
+      },
+      "current_bytes_pin": {
+        "bytes": 580322,
+        "sha256": "d5f3d9e9b3fdde79748e66263c2afb5753bac01a69cb41c8dcf8089f5feac76b",
+        "git_blob_oid_of_actual_bytes": "52048428038f9dd4a18c3ff3ffa5674c962201f7"
+      }
+    },
+    {
+      "stage": "V2_to_V1",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+      "complete_actual_operations": [
+        {
+          "pointer": "/parts/2/bytes",
+          "before": 580321,
+          "after": 580322,
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/parts/2/sha256",
+          "before": "fa0a8ca65b61cb248198cc6b13ec7aa16110e4f93fc8c0e9ac6ac5aa8a1aab52",
+          "after": "d5f3d9e9b3fdde79748e66263c2afb5753bac01a69cb41c8dcf8089f5feac76b",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/parts/2/git_blob_oid_of_actual_bytes",
+          "before": "96e5c554d66194a1f73ef9eb3564f0a1c4b0ec4e",
+          "after": "52048428038f9dd4a18c3ff3ffa5674c962201f7",
+          "kind": "REPLACE"
+        }
+      ],
+      "inverse_bytes_pin": {
+        "bytes": 70612,
+        "sha256": "9befc4a1953112088f330f857ccf93e3fc4a123b6e92dcf2e85e82fd0475f656",
+        "git_blob_oid_of_actual_bytes": "2216759a32d408be3ca9d066d9bd4e176f152cca"
+      },
+      "current_bytes_pin": {
+        "bytes": 70612,
+        "sha256": "79b04b99f9296b18e40c7021b8cb601fe1751fdfcf81a0ae0ed4ed2d7c888fe8",
+        "git_blob_oid_of_actual_bytes": "cdcec494529bd1154cda5038b8c911cdf7636447"
+      }
+    },
+    {
+      "stage": "V2_to_V1",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "complete_actual_operations": [
+        {
+          "pointer": "/all105_current_purpose_index/sha256",
+          "before": "9befc4a1953112088f330f857ccf93e3fc4a123b6e92dcf2e85e82fd0475f656",
+          "after": "79b04b99f9296b18e40c7021b8cb601fe1751fdfcf81a0ae0ed4ed2d7c888fe8",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/all105_current_purpose_index/git_blob_oid_of_actual_bytes",
+          "before": "2216759a32d408be3ca9d066d9bd4e176f152cca",
+          "after": "cdcec494529bd1154cda5038b8c911cdf7636447",
+          "kind": "REPLACE"
+        }
+      ],
+      "inverse_bytes_pin": {
+        "bytes": 903345,
+        "sha256": "45996a2aa7521ad03dcdc1c3d432c84bee143082b97777410ba23dd60bdb3ff3",
+        "git_blob_oid_of_actual_bytes": "7a6848c6c0e26aab8375a00e4e35142d983230ce"
+      },
+      "current_bytes_pin": {
+        "bytes": 903345,
+        "sha256": "fd6869bfceb457e48c0b4f33cd9b4276b8c1c2a63f320510f7b4a9af3ef61033",
+        "git_blob_oid_of_actual_bytes": "77b2a496eea480fe0bd576b6672c4dd3d91045fd"
+      }
+    },
+    {
+      "stage": "V2_to_V1",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json",
+      "complete_actual_operations": [
+        {
+          "pointer": "/current_author_closeout_qualification_V2",
+          "after": {
+            "saved_actual_UTC": "2026-10-14T00:21:38.210486+00:00",
+            "predecessor": "Original exact8 V1 assembly and author-readback-PENDING creation text are retained privately and dated. Current all105 author field receiving is complete; independent componentQA/ROOT final receiving/adoption/installation/publication remain separate pending gates.",
+            "only_target_word_change": "VP098 one article in finite use; all other524 new meaning scalars, original105 full envelopes, source7,body200/52/rivals8/ends16/gaps14 remain exact.",
+            "boundaries": "No changed canonical/shared metadata or source admission/primary/native/raw/AV/person/model/named credit. Existing institution and its embeddedE001 only;fixed35529/25/384/788/all14OPEN/model0/178unreached/mergeReserved."
+          },
+          "kind": "ADD"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/4/bytes",
+          "before": 580321,
+          "after": 580322,
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/4/sha256",
+          "before": "fa0a8ca65b61cb248198cc6b13ec7aa16110e4f93fc8c0e9ac6ac5aa8a1aab52",
+          "after": "d5f3d9e9b3fdde79748e66263c2afb5753bac01a69cb41c8dcf8089f5feac76b",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/4/git_blob_oid_of_actual_bytes",
+          "before": "96e5c554d66194a1f73ef9eb3564f0a1c4b0ec4e",
+          "after": "52048428038f9dd4a18c3ff3ffa5674c962201f7",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/5/sha256",
+          "before": "9befc4a1953112088f330f857ccf93e3fc4a123b6e92dcf2e85e82fd0475f656",
+          "after": "79b04b99f9296b18e40c7021b8cb601fe1751fdfcf81a0ae0ed4ed2d7c888fe8",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/5/git_blob_oid_of_actual_bytes",
+          "before": "2216759a32d408be3ca9d066d9bd4e176f152cca",
+          "after": "cdcec494529bd1154cda5038b8c911cdf7636447",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/6/sha256",
+          "before": "45996a2aa7521ad03dcdc1c3d432c84bee143082b97777410ba23dd60bdb3ff3",
+          "after": "fd6869bfceb457e48c0b4f33cd9b4276b8c1c2a63f320510f7b4a9af3ef61033",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/exact7_components_before_this_transport/6/git_blob_oid_of_actual_bytes",
+          "before": "7a6848c6c0e26aab8375a00e4e35142d983230ce",
+          "after": "77b2a496eea480fe0bd576b6672c4dd3d91045fd",
+          "kind": "REPLACE"
+        },
+        {
+          "pointer": "/actual_saved105_author_field_readback",
+          "before": "PENDING_SEPARATE_ACTUAL_SAVED_PART_RECEIVING;this authored transport is a dated assembly-stage record and grants no complete final QA or ROOT acceptance",
+          "after": {
+            "grade": "COMPLETE_OWN_SAVED105_NEW_TARGET_FIVE_FIELD_AUTHOR_RECEIVING;NO_INDEPENDENT_QA_OR_SOURCE_PRIMARY_REPLAY",
+            "evidence_id": "private-witness:VERITAS-ALL105-CURRENT525-SAVED-AUTHOR-READBACK",
+            "bytes": 3489,
+            "sha256": "88b8e17d35888e232bda1f1df2e76b4c80129cdb408e8cf13e1ac51dbb82306e",
+            "git_blob_oid_of_actual_bytes": "0467432ee19578c4ece1de9a24845f948f57fa3f",
+            "actual_untruncated_outputs": [
+              "ab9997 VP000–014",
+              "4dabd0 VP015–029",
+              "a4acb7 VP030–044",
+              "ba5fa6 VP045–059",
+              "b50906 VP060–074",
+              "0f26d5 VP075–089",
+              "129001 VP090–104"
+            ],
+            "VP098_current_format_only_article": "a assigned→an assigned technical function; one new finite-use scalar article, no changed question/positive/counter/trigger,body/source/old105;fresh saved scalar readback in separate author final closeout governs."
+          },
+          "kind": "REPLACE"
+        }
+      ],
+      "inverse_bytes_pin": {
+        "bytes": 6661,
+        "sha256": "1a8f441cd0e0942fbe9a7b0148c4b41a46d55de97821e19ae5a7fc92e063185d",
+        "git_blob_oid_of_actual_bytes": "9ad91549d716b4d20e095717951e7edafb85ece2"
+      },
+      "current_bytes_pin": {
+        "bytes": 8219,
+        "sha256": "b666b504a435d07f4d6ff2307fd495fce6b89235096888885189580743dd3c1f",
+        "git_blob_oid_of_actual_bytes": "b0b8c2c718b0ea7c30c48cbdb385caaee45a9718"
+      }
+    }
+  ],
+  "only_two_new_target_field_changes_from_initial8": [
+    {
+      "owner_id": "O098",
+      "key": "own_finite_institution_use",
+      "before": "Compare members' own creative/game repertoire and coordinated help without reducing their present lives to a assigned technical function.",
+      "after": "Compare members' own creative/game repertoire and coordinated help without reducing their present lives to an assigned technical function."
+    },
+    {
+      "owner_id": "O104",
+      "key": "own_new_target_specific_positive_meaning",
+      "before": "Selected MINI meanings retain fitted gloves, wages, parties, food, volunteered broadcast, rescue/dinner, gardening and explicit release from endless repayment as distinct achieved goods.",
+      "after": "Selected MINI meanings retain actual fitted gloves, completed parties, enjoyed food, volunteered broadcast, rescue/dinner and a blooming plant as finite positive endpoints; Sora's wage motive and explicit release from endless repayment are distinct meaningful ends."
+    }
+  ],
+  "semantic_delta_own_receiving": "afda5c complete current source-use and transport qualifiers/all8 exact operations; current supported wage motive retains ordinary value without attained payroll outcome/globalabsence. GrammarVP098 is a single article; other523 original five-field values and all105 frozenpayloads exact.",
+  "boundaries": "All8 complete V3→actualV2 and V2→actualV1 raw byte inverses/forward independently executed. Actual old candidates/grades/decisions/currentbody source-primary scope preserved; no renewed whole200/105 literary or primary-source replay, ROOT adoption/install/count credit.",
+  "current_V4_VP042_wanted_fishing_report_mode_distinct_bounded_delta_QA_qualification_V1": {
+    "schema": "DISTINCT_CURRENT_V4_VP042_ONE_WANTED_REPORT_MODE_BOUNDED_QA_V1",
+    "saved_UTC": "2026-10-14T06:45:00.421266+00:00",
+    "reviewer": "/root/minato_105_derivative",
+    "candidate_author": "/root/m008_composition_review",
+    "decision": "PASS_WITH_LIMITS_CURRENT_V4_VP042_WANTED_FISHING_REPORT_MODE_EXACT8_BOUNDED_DELTA_AND_FULL_RAW_PRESERVATION",
+    "current_findings": [],
+    "actual_current_manifest": {
+      "private_witness_id": "VERITAS_CURRENT_V4_EXACT8_MANIFEST_20261014_V1",
+      "bytes": 22009,
+      "sha256": "df94c0a70b765f48d31087febdc02b0251a11ec519753ad2273a782a34d334ba",
+      "git_blob_oid_of_actual_bytes": "224dcb6dc839ad9b9348ba2fbc68919e49cb3376"
+    },
+    "actual_sparse8_recovery_proof": {
+      "private_witness_id": "VERITAS_CURRENT_V4_SPARSE8_RAW_RECOVERY_PROOF_20261014_V1",
+      "bytes": 48951,
+      "sha256": "6c752dfdc38f1cb011dde909d3d18ea4d1c20531f253bb692d985d0ab1e6b26d",
+      "git_blob_oid_of_actual_bytes": "d14c3bea68273aa6afd9d10431f60ce79d2adeef"
+    },
+    "Middle_exact_report_mode_finding": {
+      "private_witness_id": "VERITAS_VP042_WANTED_FISHING_EXACT_FINDING_20261014_V1",
+      "bytes": 22259,
+      "sha256": "4a52707ec4a561510bdbb825ae2329b2ee493420a2e74b8b3d4f2fbfbb703583",
+      "git_blob_oid_of_actual_bytes": "97fba4a07f2c43b3ca05b08524ee29ffa39a8ac6"
+    },
+    "complete_current_VP042_five_fields": {
+      "own_new_target_specific_substantive_question": "How can Veritas value imperfect leisure and familiar objects while preserving disputed permission and damage?",
+      "own_new_target_specific_positive_meaning": "Wanted fishing, holiday company, night leisure and a misleading ticket kept as souvenir are meaningful; opponents' boat is also home and return route.",
+      "own_new_target_specific_countermeaning_and_limit": "Victory repairs no broken rod or opponent pain. Nonomi's pressure and Wakamo's rejected rescue appraisal qualify leisure; final cleanup, departure and title remain unprinted.",
+      "own_finite_institution_use": "Compare the camp's mixed pleasures and mural audiences without requiring either uniformly carefree consent or an all-negative aftermath.",
+      "own_stronger_trigger": "Complete restoration, safe equipment or jurisdiction requires its particular actual evidence; enjoyed leisure, tactical success and shared settings do not authenticate those claims."
+    },
+    "current_record_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json#/records/6",
+    "current_body_claim_relations": [
+      "VCLAIM024",
+      "VCLAIM041",
+      "VCLAIM043"
+    ],
+    "complete_prior_QA_reason_retained": "Wanted fishing stays wanted; mixed pleasure and actual peer help are not achieved fishing or full restoration.",
+    "original399718_QA_echo_current_use_qualification": {
+      "retained_pointer": "/manual_complete105_current_target_five_field_dispositions/42/complete_current_five_target_fields/own_new_target_specific_positive_meaning",
+      "original_complete_value": "Fishing, holiday company, night leisure and a misleading ticket kept as souvenir are meaningful; opponents' boat is also home and return route.",
+      "operative_current_value": "Wanted fishing, holiday company, night leisure and a misleading ticket kept as souvenir are meaningful; opponents' boat is also home and return route.",
+      "scope": "This current additive bounded qualification governs the old bare Fishing echo for current V4 reuse. Whole399718 QA reasons/decision/payload remain literal historical evidence and are not rewritten or newly replayed."
+    },
+    "own_manual_report_mode_reason": "Wanted fishing explicitly remains desire. Serika’s familiar holiday, protected noncash prize, night leisure, bounded rest, souvenir and opponents’ boat-as-home/return route retain intrinsic value. The frozen report distinguishes ruined equipment, tactical success and actual registration/peer help; Nonomi’s pressure and Wakamo’s rejected rescue appraisal remain recipient costs. The new prefix supports Veritas’s comparison of camp/mural mixed goods without an achieved fishing claim, a source-global absence certificate, uniform consent, repaired machinery, legal title or chronology/identity transfer. The question, counter, finite use and stronger trigger are unchanged and remain compatible with that finite report mode.",
+    "own_actual_personal_receiving": {
+      "complete_Middle_finding_and_frozen_report": "bd591e untruncated complete22259 report; producer E814 range1–145/tool7e5fd8 is attributed, not my source-normal reading.",
+      "complete_actual_current_five_fields_and_qualification": "66267b exact currentVP042 five fields/body links/report grade and current transport qualification.",
+      "adequate_prior_roles": "I authored old201 Veritas body-first selected-source QA and earlier all105 purpose/report derivatives and consequential other-target report receiving; no Veritas body/new105 candidate authorship. Original26whole/79selected producer scopes and ROOT report dispositions remain attribution. Middle’s full399718 current200/52/new105 QA is reused only at its stated actual scope.",
+      "no_repeat_scope": "No fresh whole200/52/105/new525 literary pass, whole7 or E814 normal/primary/native/raw/AV replay; no renewed whole14752-check verification."
+    },
+    "bounded_mechanical_scope": {
+      "scalar_replacements": 13,
+      "one_semantic_positive_field": 1,
+      "typed_pin_replacements": 12,
+      "transport_qualifier_additions": 1,
+      "checked_typed_slots_including_noops": 15,
+      "all8_full_raw_inverse_and_forward": true,
+      "four_noops": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "other524_target_values_exact": true,
+      "all105_complete_original_envelopes_exact": true,
+      "body200_source7_literal52_context131_refs202_and_original_QAs_unchanged": true
+    },
+    "original100193_role": "Every original top-level key/value/schema/reviewer/check_count304/failures/delta and byte framing is preserved. This added field has a different current reviewer and bounded decision; it does not convert the earlier two-stage VP098/VP104 record into a new whole review.",
+    "ROOT_precursor_mechanics": "ROOT-reported fa22cc71763/694cbb precursor252-zero raw guard is attributed mechanics only, not my independent QA or signed semantic adoption.",
+    "remaining_gates": "Actual ROOT semantic package adoption, current205 public14 composition and distinct final composition QA, freeze/install/preflight/push/readback/fresh actual newhead CI/main integration remain separate. No acceptance/count or provider claim is granted by this receipt.",
+    "new_source_primary_native_raw_AV_identity_model_package_named_canonical_runtime_credit": 0,
+    "R_Git_provider_shared_metadata_public14_external_chat_operations": 0
+  }
+}

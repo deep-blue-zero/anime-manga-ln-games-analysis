@@ -1,0 +1,1035 @@
+{
+  "schema": "konosuba.cohort31.receiving-and-provenance.v1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "received_utc": "2026-10-24T07:16:33.598838+00:00",
+  "previous_published_source": "681d9d058caabc38a26c56496c255677e2a2d616",
+  "main_at_receiving": "6a3afaaf1bb61e0993db379ab4074c46e9ea98dd",
+  "semantic_receiving_sha256": "20d353939d71ac53c16e4bc58e11ff4600df3222ad294b21ded2a5f58588c580",
+  "foundation_seal_sha256": "efffd85b8193015dfff55c22138d0b70c155fc2775d95a0a19d1ecdde2792c04",
+  "foundation_review_sha256": "5c4f8f9f6d4018a0b34eddc4fd8cdf47eeadf3d3c4ce9912e471672688baf1a9",
+  "exact_input_freeze_sha256": "71f913686f4a131dd2dcd9bfc0517656548784e395b0e4ec94aeba984da4eb24",
+  "body_freeze_sha256": "4e1d327748846046c95b99b79415d14f73693082ce85e615433d24e623bcbedd",
+  "all33_frozen_private_artifact_pins": [
+    {
+      "file": "COHORT31_COMPACT_PROFILES_DRAFT_01.md",
+      "bytes": 6326,
+      "sha256": "6a4afe08d3e8f08992b7bafe0e418a01f3ac66319fb25349c4d91545db28fc9c"
+    },
+    {
+      "file": "COHORT31_EVIDENCE_INDEX_DRAFT_01.md",
+      "bytes": 11025,
+      "sha256": "1101443ed002fd7b01f1fd1f96a5c8e5d3ebfae2c992f810654dce2f9e4b6dc7"
+    },
+    {
+      "file": "COHORT31_NATIVE_PROVENANCE_DRAFT_01.json",
+      "bytes": 56087,
+      "sha256": "ef387a14156374dce5bcf39214654625bc99b7af678aaf5972f4bb09e42bb6c4"
+    },
+    {
+      "file": "COHORT31_NEW_DISCOVERY_RECORDS_DRAFT_01.json",
+      "bytes": 10521,
+      "sha256": "80090ab24de8b1e7d341bd909c7215e8fe2c1ca874ce7c56c81ae76d923e39f3"
+    },
+    {
+      "file": "COHORT31_SCOPE_ASSESSMENT_DRAFT_01.json",
+      "bytes": 9663,
+      "sha256": "a01c939167c0fb11c8b366ccaeb76f829630d9998b50cb1fac27d9b0d91132f2"
+    },
+    {
+      "file": "FROGER_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 7103,
+      "sha256": "c181a34b9dd9a811177d8b6873841cf271e9fb9d46a86450905d01a7a4c94af4"
+    },
+    {
+      "file": "GILBERT_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 8699,
+      "sha256": "0d1a119295723427ed5da7cec7df227d1d99207fcf738cfbe8dd8d3fe8554c8a"
+    },
+    {
+      "file": "GILBERT_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "bytes": 8582,
+      "sha256": "7844f396bd5930a76b4ba4b39c7b350cb2da7572e08a46921c77fb805b2fcbb4"
+    },
+    {
+      "file": "GORAN_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 7020,
+      "sha256": "031f54fb836c5dacb71fcfba45c423e02e9e9af04ddad983ac6799a15dcefe53"
+    },
+    {
+      "file": "NUMBER21_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 8905,
+      "sha256": "47afe8e0bccab2ff5ac0ee232c1e63dc7eadaf17f1ade31181a247e8b91fd700"
+    },
+    {
+      "file": "NUMBER21_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "bytes": 9509,
+      "sha256": "124de73657969e613f577389aec9b7f7e1959e8435a146adca45d3922df217d6"
+    },
+    {
+      "file": "OTOHIME_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 8307,
+      "sha256": "a553db695eac3d1236ddd2f1ee8f8c023cd224dc8c209d9d49bd603af0ac92d9"
+    },
+    {
+      "file": "OTOHIME_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "bytes": 8887,
+      "sha256": "eb96f6c2edd52a066ca570d4f8c6ea3515617cf743656b83614c4f091fea7e2a"
+    },
+    {
+      "file": "SUZUKI_CHIHO_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 8649,
+      "sha256": "f09412d0ce567606d75e7e6cd59d32006f83db99c515157d8d4e23971130b514"
+    },
+    {
+      "file": "SUZUKI_CHIHO_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "bytes": 7018,
+      "sha256": "b757fbcc4add8a09dbdaafbd36fe59b3bad0374a70aca21e8461cbe9bec63597"
+    },
+    {
+      "file": "TEMIREN_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 8282,
+      "sha256": "d4bf4fcd195a94ebaed14d89cd71382282e6454b4854866a7b7d840be511d750"
+    },
+    {
+      "file": "TEMIREN_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "bytes": 7062,
+      "sha256": "335e7731b7236339f19b1abeab82cd13210b23932b2a069ac648c6e7875a36a0"
+    },
+    {
+      "file": "COHORT31_NAME_REFERENCE_CHECK_DRAFT_01.json",
+      "bytes": 6810,
+      "sha256": "df45a6583c4a93fd84f2edd901cddf5b4bccb42f3cdb164edf383a87d687880f"
+    },
+    {
+      "file": "GILBERT_SCENARIO_INPUTS_01.json",
+      "bytes": 16410,
+      "sha256": "9e1a10db848c4c7a3ecdec2b9031681e0bcba816648d0757ea52ad636320fe06"
+    },
+    {
+      "file": "SUZUKI_CHIHO_SCENARIO_INPUTS_01.json",
+      "bytes": 11936,
+      "sha256": "af41de00153e73d48076c9408cca588ec446bb4d98cfde21a0f3454ec7711ad3"
+    },
+    {
+      "file": "OTOHIME_SCENARIO_INPUTS_01.json",
+      "bytes": 16382,
+      "sha256": "1c890b8e752c3b1dbf4549c92fd70b2396077e6b255ed5001e7338e1728c5890"
+    },
+    {
+      "file": "TEMIREN_SCENARIO_INPUTS_01.json",
+      "bytes": 11596,
+      "sha256": "9faea5d20ea84aff3820d52b1892c06bbb60582221de5da68f17a7f03b7533b7"
+    },
+    {
+      "file": "NUMBER21_SCENARIO_INPUTS_01.json",
+      "bytes": 16676,
+      "sha256": "20dd7f2a4bcb30e9a23c38fc54ef1817de99dde5e28b94efca92c59641eb1443"
+    },
+    {
+      "file": "GILBERT_FIRST_OUTPUTS_01.json",
+      "bytes": 9708,
+      "sha256": "374136a95cf63d51dc619d76b262b966867aa7d2a5371657b29c48347f4b0f07"
+    },
+    {
+      "file": "SUZUKI_CHIHO_FIRST_OUTPUTS_01.json",
+      "bytes": 6710,
+      "sha256": "0aaa7e52191c2f0c998b49a7ccc02c40d125149e55ac373c1fa7320882cb37dd"
+    },
+    {
+      "file": "OTOHIME_FIRST_OUTPUTS_01.json",
+      "bytes": 9682,
+      "sha256": "fa8ce99190e555b09f1fc39fff3650f344faf952049bf862fff046e5205da59f"
+    },
+    {
+      "file": "TEMIREN_FIRST_OUTPUTS_01.json",
+      "bytes": 6708,
+      "sha256": "3058dc50da47a254911b510e290c43e5b86f08d18ace3bf789c45b029b9c8f9c"
+    },
+    {
+      "file": "NUMBER21_FIRST_OUTPUTS_01.json",
+      "bytes": 9617,
+      "sha256": "b9398accc2c74b72fd724430eb900753a4807637c0428a52a4cb5029d9af0ef5"
+    },
+    {
+      "file": "GILBERT_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 9316,
+      "sha256": "af5d28ae82b68ac50ae9c0cc24ea9faaa775f26c2944bfc3d250d194335f07d0"
+    },
+    {
+      "file": "SUZUKI_CHIHO_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 7370,
+      "sha256": "b490b6f4eccb42dd722d3755a84f57f1073ea31c4b6c6e7b66b25c0de2a07558"
+    },
+    {
+      "file": "OTOHIME_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 9838,
+      "sha256": "0ec53490606547b3e0dd845daa381a89baa510242e1fb693c0b5fe0c843b1c43"
+    },
+    {
+      "file": "TEMIREN_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 7222,
+      "sha256": "d47127a9ff6e4e4994ecb9103ae011ee720e41a7b9e8fd5d481843d624763836"
+    },
+    {
+      "file": "NUMBER21_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 10117,
+      "sha256": "37b6261a3b1389a3ec89f806787f4b201c6f2f9e8efa991e4b4fc598472dbb81"
+    }
+  ],
+  "core_artifact_pins": [
+    {
+      "private_file": "COHORT31_EVIDENCE_INDEX_DRAFT_01.md",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md",
+      "bytes": 11025,
+      "sha256": "1101443ed002fd7b01f1fd1f96a5c8e5d3ebfae2c992f810654dce2f9e4b6dc7"
+    },
+    {
+      "private_file": "COHORT31_NATIVE_PROVENANCE_DRAFT_01.json",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_NATIVE_PROVENANCE.json",
+      "bytes": 56087,
+      "sha256": "ef387a14156374dce5bcf39214654625bc99b7af678aaf5972f4bb09e42bb6c4"
+    },
+    {
+      "private_file": "FROGER_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_FROGER_CHARACTER_MONOGRAPH.md",
+      "bytes": 7103,
+      "sha256": "c181a34b9dd9a811177d8b6873841cf271e9fb9d46a86450905d01a7a4c94af4"
+    },
+    {
+      "private_file": "GILBERT_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_GILBERT_CHARACTER_MONOGRAPH.md",
+      "bytes": 8699,
+      "sha256": "0d1a119295723427ed5da7cec7df227d1d99207fcf738cfbe8dd8d3fe8554c8a"
+    },
+    {
+      "private_file": "GILBERT_FIRST_OUTPUTS_01.json",
+      "target_path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_GILBERT_COHORT31_FIRST_OUTPUTS_01.json",
+      "bytes": 9708,
+      "sha256": "374136a95cf63d51dc619d76b262b966867aa7d2a5371657b29c48347f4b0f07"
+    },
+    {
+      "private_file": "GILBERT_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "target_path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_GILBERT_COHORT31_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 9316,
+      "sha256": "af5d28ae82b68ac50ae9c0cc24ea9faaa775f26c2944bfc3d250d194335f07d0"
+    },
+    {
+      "private_file": "GILBERT_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_GILBERT_RECONSTRUCTION_MODEL.md",
+      "bytes": 8582,
+      "sha256": "7844f396bd5930a76b4ba4b39c7b350cb2da7572e08a46921c77fb805b2fcbb4"
+    },
+    {
+      "private_file": "GILBERT_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_GILBERT_COHORT31_SCENARIO_INPUTS_01.json",
+      "bytes": 16410,
+      "sha256": "9e1a10db848c4c7a3ecdec2b9031681e0bcba816648d0757ea52ad636320fe06"
+    },
+    {
+      "private_file": "GORAN_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_GORAN_CHARACTER_MONOGRAPH.md",
+      "bytes": 7020,
+      "sha256": "031f54fb836c5dacb71fcfba45c423e02e9e9af04ddad983ac6799a15dcefe53"
+    },
+    {
+      "private_file": "NUMBER21_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_NUMBER21_CHARACTER_MONOGRAPH.md",
+      "bytes": 8905,
+      "sha256": "47afe8e0bccab2ff5ac0ee232c1e63dc7eadaf17f1ade31181a247e8b91fd700"
+    },
+    {
+      "private_file": "NUMBER21_FIRST_OUTPUTS_01.json",
+      "target_path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_NUMBER21_COHORT31_FIRST_OUTPUTS_01.json",
+      "bytes": 9617,
+      "sha256": "b9398accc2c74b72fd724430eb900753a4807637c0428a52a4cb5029d9af0ef5"
+    },
+    {
+      "private_file": "NUMBER21_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "target_path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_NUMBER21_COHORT31_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 10117,
+      "sha256": "37b6261a3b1389a3ec89f806787f4b201c6f2f9e8efa991e4b4fc598472dbb81"
+    },
+    {
+      "private_file": "NUMBER21_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_NUMBER21_RECONSTRUCTION_MODEL.md",
+      "bytes": 9509,
+      "sha256": "124de73657969e613f577389aec9b7f7e1959e8435a146adca45d3922df217d6"
+    },
+    {
+      "private_file": "NUMBER21_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_NUMBER21_COHORT31_SCENARIO_INPUTS_01.json",
+      "bytes": 16676,
+      "sha256": "20dd7f2a4bcb30e9a23c38fc54ef1817de99dde5e28b94efca92c59641eb1443"
+    },
+    {
+      "private_file": "OTOHIME_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_OTOHIME_CHARACTER_MONOGRAPH.md",
+      "bytes": 8307,
+      "sha256": "a553db695eac3d1236ddd2f1ee8f8c023cd224dc8c209d9d49bd603af0ac92d9"
+    },
+    {
+      "private_file": "OTOHIME_FIRST_OUTPUTS_01.json",
+      "target_path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_OTOHIME_COHORT31_FIRST_OUTPUTS_01.json",
+      "bytes": 9682,
+      "sha256": "fa8ce99190e555b09f1fc39fff3650f344faf952049bf862fff046e5205da59f"
+    },
+    {
+      "private_file": "OTOHIME_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "target_path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_OTOHIME_COHORT31_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 9838,
+      "sha256": "0ec53490606547b3e0dd845daa381a89baa510242e1fb693c0b5fe0c843b1c43"
+    },
+    {
+      "private_file": "OTOHIME_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_OTOHIME_RECONSTRUCTION_MODEL.md",
+      "bytes": 8887,
+      "sha256": "eb96f6c2edd52a066ca570d4f8c6ea3515617cf743656b83614c4f091fea7e2a"
+    },
+    {
+      "private_file": "OTOHIME_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_OTOHIME_COHORT31_SCENARIO_INPUTS_01.json",
+      "bytes": 16382,
+      "sha256": "1c890b8e752c3b1dbf4549c92fd70b2396077e6b255ed5001e7338e1728c5890"
+    },
+    {
+      "private_file": "SUZUKI_CHIHO_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_SUZUKI_CHIHO_CHARACTER_MONOGRAPH.md",
+      "bytes": 8649,
+      "sha256": "f09412d0ce567606d75e7e6cd59d32006f83db99c515157d8d4e23971130b514"
+    },
+    {
+      "private_file": "SUZUKI_CHIHO_FIRST_OUTPUTS_01.json",
+      "target_path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_SUZUKI_CHIHO_COHORT31_FIRST_OUTPUTS_01.json",
+      "bytes": 6710,
+      "sha256": "0aaa7e52191c2f0c998b49a7ccc02c40d125149e55ac373c1fa7320882cb37dd"
+    },
+    {
+      "private_file": "SUZUKI_CHIHO_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "target_path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_SUZUKI_CHIHO_COHORT31_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 7370,
+      "sha256": "b490b6f4eccb42dd722d3755a84f57f1073ea31c4b6c6e7b66b25c0de2a07558"
+    },
+    {
+      "private_file": "SUZUKI_CHIHO_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_SUZUKI_CHIHO_RECONSTRUCTION_MODEL.md",
+      "bytes": 7018,
+      "sha256": "b757fbcc4add8a09dbdaafbd36fe59b3bad0374a70aca21e8461cbe9bec63597"
+    },
+    {
+      "private_file": "SUZUKI_CHIHO_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_SUZUKI_CHIHO_COHORT31_SCENARIO_INPUTS_01.json",
+      "bytes": 11936,
+      "sha256": "af41de00153e73d48076c9408cca588ec446bb4d98cfde21a0f3454ec7711ad3"
+    },
+    {
+      "private_file": "TEMIREN_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TEMIREN_CHARACTER_MONOGRAPH.md",
+      "bytes": 8282,
+      "sha256": "d4bf4fcd195a94ebaed14d89cd71382282e6454b4854866a7b7d840be511d750"
+    },
+    {
+      "private_file": "TEMIREN_FIRST_OUTPUTS_01.json",
+      "target_path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_TEMIREN_COHORT31_FIRST_OUTPUTS_01.json",
+      "bytes": 6708,
+      "sha256": "3058dc50da47a254911b510e290c43e5b86f08d18ace3bf789c45b029b9c8f9c"
+    },
+    {
+      "private_file": "TEMIREN_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "target_path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_TEMIREN_COHORT31_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 7222,
+      "sha256": "d47127a9ff6e4e4994ecb9103ae011ee720e41a7b9e8fd5d481843d624763836"
+    },
+    {
+      "private_file": "TEMIREN_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_TEMIREN_RECONSTRUCTION_MODEL.md",
+      "bytes": 7062,
+      "sha256": "335e7731b7236339f19b1abeab82cd13210b23932b2a069ac648c6e7875a36a0"
+    },
+    {
+      "private_file": "TEMIREN_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_TEMIREN_COHORT31_SCENARIO_INPUTS_01.json",
+      "bytes": 11596,
+      "sha256": "9faea5d20ea84aff3820d52b1892c06bbb60582221de5da68f17a7f03b7533b7"
+    }
+  ],
+  "compact_profile_fragment": {
+    "private_file": "COHORT31_COMPACT_PROFILES_DRAFT_01.md",
+    "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+    "bytes": 6326,
+    "sha256": "6a4afe08d3e8f08992b7bafe0e418a01f3ac66319fb25349c4d91545db28fc9c"
+  },
+  "original_first_serialization_pins": [
+    {
+      "case_id": "GI-H01-A",
+      "body_file": "COHORT31_FIRST_BODY_GI-H01-A_01.txt",
+      "body_bytes": 644,
+      "body_sha256": "511f06b6c10de53c9de1c7ab76cee625e10702eda21f8c3aed925e270ea6a008",
+      "receipt_file": "COHORT31_FIRST_BODY_GI-H01-A_01_RECEIPT.json",
+      "receipt_sha256": "8b25fa719ffe1935de4255cdfcbc437470a25881fde411cfc52e39521be6a1f0",
+      "words": 105,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "GI-H01-B",
+      "body_file": "COHORT31_FIRST_BODY_GI-H01-B_01.txt",
+      "body_bytes": 670,
+      "body_sha256": "d87bf22157d92861eb9ebf64ca620e382bcdd0195faf522ee5e3b9d8960bdd60",
+      "receipt_file": "COHORT31_FIRST_BODY_GI-H01-B_01_RECEIPT.json",
+      "receipt_sha256": "5bfc03189f0878bb6f25387a0fcd848aa0db16c7e761e1b81c3a5d11d5915936",
+      "words": 107,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "GI-H02-A",
+      "body_file": "COHORT31_FIRST_BODY_GI-H02-A_01.txt",
+      "body_bytes": 667,
+      "body_sha256": "d6084eca614b72bca940398f3464a6dc04cbce79ad28901c2c223db9165d6b95",
+      "receipt_file": "COHORT31_FIRST_BODY_GI-H02-A_01_RECEIPT.json",
+      "receipt_sha256": "20e3d4471a2d261e34f3c6f397aef4be6e88a72040a8acaed3622f5fc1e82635",
+      "words": 107,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "GI-H02-B",
+      "body_file": "COHORT31_FIRST_BODY_GI-H02-B_01.txt",
+      "body_bytes": 628,
+      "body_sha256": "12df3981d77073a52966b15085e044a2066a33cd638102d6ffae439ab22a86bd",
+      "receipt_file": "COHORT31_FIRST_BODY_GI-H02-B_01_RECEIPT.json",
+      "receipt_sha256": "6e4882673ff973f807860933424fdd12032e97b9d3615fa16a26ed52baf65827",
+      "words": 109,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "GI-H03-A",
+      "body_file": "COHORT31_FIRST_BODY_GI-H03-A_01.txt",
+      "body_bytes": 690,
+      "body_sha256": "eff093d82e4f1b577bc15e19bf455347e57babd5d850f8a776549e04d31ea79c",
+      "receipt_file": "COHORT31_FIRST_BODY_GI-H03-A_01_RECEIPT.json",
+      "receipt_sha256": "4511b5c4e9e4482e63e44072e3e5a0cb12c101a5e06d1f5e5c9545a699bd9b5e",
+      "words": 112,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "GI-H03-B",
+      "body_file": "COHORT31_FIRST_BODY_GI-H03-B_01.txt",
+      "body_bytes": 687,
+      "body_sha256": "ca1aa7ae8ad12560c991b73a3a2ea7b106497a8104ad4bc82363f6c920a6193e",
+      "receipt_file": "COHORT31_FIRST_BODY_GI-H03-B_01_RECEIPT.json",
+      "receipt_sha256": "9a753e3a908119485c5275d1f1ac54b946e50dbda91c30c8f90231b2cb50b0ba",
+      "words": 106,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "CH-H01-A",
+      "body_file": "COHORT31_FIRST_BODY_CH-H01-A_01.txt",
+      "body_bytes": 677,
+      "body_sha256": "758a0bedf5ff97bceb9489fd2bead690e8eb3e23f03bf44d1bb767554863262a",
+      "receipt_file": "COHORT31_FIRST_BODY_CH-H01-A_01_RECEIPT.json",
+      "receipt_sha256": "0feb6aa5681d97308a0edee37f38fbf4079800a4547b57183997e0292c7df615",
+      "words": 108,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "CH-H01-B",
+      "body_file": "COHORT31_FIRST_BODY_CH-H01-B_01.txt",
+      "body_bytes": 641,
+      "body_sha256": "f8f3c9fa50cf985c7634032617f47fc91f0c5c885b347ee738a8b6a581c4ae0e",
+      "receipt_file": "COHORT31_FIRST_BODY_CH-H01-B_01_RECEIPT.json",
+      "receipt_sha256": "f1cb12c6073296e8c2e78c41b9776bce32e8770bd8047db554de8257892c0dd3",
+      "words": 113,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "CH-H02-A",
+      "body_file": "COHORT31_FIRST_BODY_CH-H02-A_01.txt",
+      "body_bytes": 647,
+      "body_sha256": "dc8bf3b9864353861d2d91d276ceb1c25b1423165b197fa00ea1ea2490e0aaa7",
+      "receipt_file": "COHORT31_FIRST_BODY_CH-H02-A_01_RECEIPT.json",
+      "receipt_sha256": "8259a2392f8cd9142bd0f1daa933669fb84af0a9995359849f13b5722ba6c3f4",
+      "words": 112,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "CH-H02-B",
+      "body_file": "COHORT31_FIRST_BODY_CH-H02-B_01.txt",
+      "body_bytes": 650,
+      "body_sha256": "3eb7de0014458ac5e025a0692b416141fe349d3d686e9a265b2f119c553669b3",
+      "receipt_file": "COHORT31_FIRST_BODY_CH-H02-B_01_RECEIPT.json",
+      "receipt_sha256": "7ad949cea6e3e7e6b2f5aa5eb304b68ceb732427cfdca048ad27f90e03ba47e5",
+      "words": 112,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "OT-H01-A",
+      "body_file": "COHORT31_FIRST_BODY_OT-H01-A_01.txt",
+      "body_bytes": 644,
+      "body_sha256": "f96e820eb701e582777cbc046edfdb5a2296b69f7cc82d8919413ff5d5ef123e",
+      "receipt_file": "COHORT31_FIRST_BODY_OT-H01-A_01_RECEIPT.json",
+      "receipt_sha256": "8656cb4f7900f12ed6508718de8b6e9e732d907c126fd5d5f983ccb250d0117e",
+      "words": 109,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "OT-H01-B",
+      "body_file": "COHORT31_FIRST_BODY_OT-H01-B_01.txt",
+      "body_bytes": 668,
+      "body_sha256": "b7883184267d4a24c6c0b1fe6d0891d2afe887368cc8feb16c85b56a51c93c4d",
+      "receipt_file": "COHORT31_FIRST_BODY_OT-H01-B_01_RECEIPT.json",
+      "receipt_sha256": "f5e51883f5de6bad9ccb68198136546d491e2193b8e3ac38800c726be86060ac",
+      "words": 112,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "OT-H02-A",
+      "body_file": "COHORT31_FIRST_BODY_OT-H02-A_01.txt",
+      "body_bytes": 665,
+      "body_sha256": "685723fc3bcf9b21fb6c214e8d152cdc93f2cbe3ed8ea4b16eddd847e96f24d2",
+      "receipt_file": "COHORT31_FIRST_BODY_OT-H02-A_01_RECEIPT.json",
+      "receipt_sha256": "13f943760362ab093745af52e9f29f47b7017e53ad574f57abe9b66e3f84c304",
+      "words": 112,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "OT-H02-B",
+      "body_file": "COHORT31_FIRST_BODY_OT-H02-B_01.txt",
+      "body_bytes": 663,
+      "body_sha256": "667cf51c4ce0436d6eb953130f63e853e1993e314aa27b1cb49379a058fcf8bc",
+      "receipt_file": "COHORT31_FIRST_BODY_OT-H02-B_01_RECEIPT.json",
+      "receipt_sha256": "408eb0f1836fa7c455bfcd93280e2660996a993cdd8f477eda0a27d35501bf77",
+      "words": 111,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "OT-H03-A",
+      "body_file": "COHORT31_FIRST_BODY_OT-H03-A_01.txt",
+      "body_bytes": 665,
+      "body_sha256": "58e415764448b00f7f8f9e280776a91a70075bbfa272da5558606ccf7ead11ee",
+      "receipt_file": "COHORT31_FIRST_BODY_OT-H03-A_01_RECEIPT.json",
+      "receipt_sha256": "69cbf3cc541ba8aedf9a4b9e70a655bf12643efe469479cf78541fb67478b394",
+      "words": 112,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "OT-H03-B",
+      "body_file": "COHORT31_FIRST_BODY_OT-H03-B_01.txt",
+      "body_bytes": 655,
+      "body_sha256": "608e2b54158a6fa0724def18e0dbb5f3b6917d631bc3fcc3aeadfcb377ede6e9",
+      "receipt_file": "COHORT31_FIRST_BODY_OT-H03-B_01_RECEIPT.json",
+      "receipt_sha256": "d5c8ef6f6df562656d61759e4ea2c673ff40d77b9a6555f01243b37718f3518d",
+      "words": 113,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "TE-H01-A",
+      "body_file": "COHORT31_FIRST_BODY_TE-H01-A_01.txt",
+      "body_bytes": 652,
+      "body_sha256": "1e45db3564d99e599f0cea4edb4edb87ccc1c40701df21ed7bd7462dcaea4060",
+      "receipt_file": "COHORT31_FIRST_BODY_TE-H01-A_01_RECEIPT.json",
+      "receipt_sha256": "d1a5d0c97a1dd3f25e87a79ce11df5c491665748611cc1a47cb102e90f05c0b0",
+      "words": 110,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "TE-H01-B",
+      "body_file": "COHORT31_FIRST_BODY_TE-H01-B_01.txt",
+      "body_bytes": 651,
+      "body_sha256": "e912fff9f22febfc0833c58dd78a3dcfc398cf6db60a7bf6c055763ef0aa409d",
+      "receipt_file": "COHORT31_FIRST_BODY_TE-H01-B_01_RECEIPT.json",
+      "receipt_sha256": "f8f6835f6035a466fcb43800bef2f5ec341feaf1aee3a5060f4f0679fc817dee",
+      "words": 112,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "TE-H02-A",
+      "body_file": "COHORT31_FIRST_BODY_TE-H02-A_01.txt",
+      "body_bytes": 649,
+      "body_sha256": "6aa0643716c56fbad55a35dc02e8e6ab80923ded07db90e8bc2f97b03596dc12",
+      "receipt_file": "COHORT31_FIRST_BODY_TE-H02-A_01_RECEIPT.json",
+      "receipt_sha256": "909271bad1dc07993b4afcbd64431e767da1639de268a2c85e9813280607461b",
+      "words": 111,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "TE-H02-B",
+      "body_file": "COHORT31_FIRST_BODY_TE-H02-B_01.txt",
+      "body_bytes": 666,
+      "body_sha256": "3acc79b1c9a6a23ee2b087ff0442d82f44009403cc9c8ed13577a9f4c69ba22e",
+      "receipt_file": "COHORT31_FIRST_BODY_TE-H02-B_01_RECEIPT.json",
+      "receipt_sha256": "47a103102e9bfb8798540cb4d3a0551a41ec0c0d4560697dd6fb2f88f1da2a7c",
+      "words": 113,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "N21-H01-A",
+      "body_file": "COHORT31_FIRST_BODY_N21-H01-A_01.txt",
+      "body_bytes": 613,
+      "body_sha256": "28715203488f2d4672f5c436ce1e8e37f5a4349167f55b6a52834d5f7fcf1788",
+      "receipt_file": "COHORT31_FIRST_BODY_N21-H01-A_01_RECEIPT.json",
+      "receipt_sha256": "ae17292eff65784a44db762f519826c0a846ea45be9fe8fa00f5d1dcdd688d8b",
+      "words": 107,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "N21-H01-B",
+      "body_file": "COHORT31_FIRST_BODY_N21-H01-B_01.txt",
+      "body_bytes": 635,
+      "body_sha256": "4544f6b511c6f7358bb847abb0b333729a8bd24db2fff731487605f54be284a3",
+      "receipt_file": "COHORT31_FIRST_BODY_N21-H01-B_01_RECEIPT.json",
+      "receipt_sha256": "38f3bda5ef992e4b7b05b3d6070403909d02f794f1f7b300d714dbce5b303d79",
+      "words": 115,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "N21-H02-A",
+      "body_file": "COHORT31_FIRST_BODY_N21-H02-A_01.txt",
+      "body_bytes": 662,
+      "body_sha256": "ffb1793c220cc35afcd962166b5af137b1b6b873cbfa88a2c7effe32c3cdbc06",
+      "receipt_file": "COHORT31_FIRST_BODY_N21-H02-A_01_RECEIPT.json",
+      "receipt_sha256": "87e0b1cab930734aa5936c19731a06b887fd1e54317ad22268accd32c0155a54",
+      "words": 111,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "N21-H02-B",
+      "body_file": "COHORT31_FIRST_BODY_N21-H02-B_01.txt",
+      "body_bytes": 676,
+      "body_sha256": "2d1a63bcc584b958c9a6f403723ded31b5fdbf6fb8b2dbbc2068bc20425bd34f",
+      "receipt_file": "COHORT31_FIRST_BODY_N21-H02-B_01_RECEIPT.json",
+      "receipt_sha256": "4a54c641ed825857acf3a3228c9a46b07a76be2e098c5a9944a36800cae9984a",
+      "words": 114,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "N21-H03-A",
+      "body_file": "COHORT31_FIRST_BODY_N21-H03-A_01.txt",
+      "body_bytes": 646,
+      "body_sha256": "f827041c925b802b52675941312197147461c31c606f5430dc2d00d7bb023909",
+      "receipt_file": "COHORT31_FIRST_BODY_N21-H03-A_01_RECEIPT.json",
+      "receipt_sha256": "baf12a82326daf39c0dcd2bcc1ba0b95cf6d099de235e92b12047a2fd0fc073e",
+      "words": 112,
+      "word_budget_satisfied": true
+    },
+    {
+      "case_id": "N21-H03-B",
+      "body_file": "COHORT31_FIRST_BODY_N21-H03-B_01.txt",
+      "body_bytes": 632,
+      "body_sha256": "0f101ef11c5cd38e875880b92f9d926640fcd2298bd98a59bfd731a23b2e308e",
+      "receipt_file": "COHORT31_FIRST_BODY_N21-H03-B_01_RECEIPT.json",
+      "receipt_sha256": "6c3cc4458808fa471f933989406919310836ff5ba8eed209a791f68ee794de2a",
+      "words": 114,
+      "word_budget_satisfied": true
+    }
+  ],
+  "new_artifact_scope": {
+    "models": 51,
+    "scoped_secondary_model_subjects": 45,
+    "bounded_profiles": 66,
+    "monograph_only_subjects": 24,
+    "nonfinal_records": 295,
+    "new_models": 5,
+    "new_monographs": 7,
+    "new_compact_profiles": 7,
+    "new_Tier0_records": 4,
+    "new_rules": 13,
+    "new_original_firsts": 26,
+    "new_dependent_pairs": 13
+  },
+  "subject_scope": {
+    "schema": "konosuba.cohort31.evidence-proportionate-scope-assessment.v1",
+    "recorded_utc": "2026-10-24T06:43:12.894245+00:00",
+    "published_source": "681d9d058caabc38a26c56496c255677e2a2d616",
+    "source_receiving_sha256": "720ee4b441e11b545338789d797f27968b30c81de6a2c6770e95e4d20998f846",
+    "native_provenance_sha256": "ef387a14156374dce5bcf39214654625bc99b7af678aaf5972f4bb09e42bb6c4",
+    "new_discovery_records_sha256": "80090ab24de8b1e7d341bd909c7215e8fe2c1ca874ce7c56c81ae76d923e39f3",
+    "subjects": [
+      {
+        "row": 163,
+        "character": "Gilbert",
+        "tier": 3,
+        "rules": 3,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate provisional conditional model",
+          "planned dependent pairs and original firsts after foundation/input freeze"
+        ],
+        "reason": "Religious framing/useful support,credibility debt and professional displacement have distinct conditions and countercases."
+      },
+      {
+        "row": 164,
+        "character": "Suzuki Chiho",
+        "tier": 3,
+        "rules": 2,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate provisional conditional model",
+          "planned dependent pairs and original firsts after foundation/input freeze"
+        ],
+        "reason": "Health rationalization with real vulnerability and material giving versus particular relational meaning; no artificial third rule."
+      },
+      {
+        "row": 165,
+        "character": "Otohime",
+        "tier": 3,
+        "rules": 3,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate provisional conditional model",
+          "planned dependent pairs and original firsts after foundation/input freeze"
+        ],
+        "reason": "Fear/preparation/bounded protection,resource rationale/comfort and invited partial repair have differentiated costs and rivals."
+      },
+      {
+        "row": 166,
+        "character": "Temiren",
+        "tier": 3,
+        "rules": 2,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate provisional conditional model",
+          "planned dependent pairs and original firsts after foundation/input freeze"
+        ],
+        "reason": "Recognition/disappointed appraisal and typed practical contribution; unstable sect labels stay qualification,not another mechanism."
+      },
+      {
+        "row": 167,
+        "character": "21",
+        "tier": 3,
+        "rules": 3,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate provisional conditional model",
+          "planned dependent pairs and original firsts after foundation/input freeze"
+        ],
+        "reason": "Pressure versus chosen belonging,requested inquiry with stopping boundary and useful work/contingent charity with vulnerabilities."
+      },
+      {
+        "row": 282,
+        "character": "Froger (Core TRPG replay)",
+        "tier": 2,
+        "artifacts": [
+          "twelve-dimension monograph"
+        ],
+        "reason": "Reported biography,sovereignty project,environment,guard relation,refused alternatives and detailed defeat support a monograph. Limits: One GM-shaped adversarial project; neutral work/cooperation and broader choices underidentified; permanent death unverified."
+      },
+      {
+        "row": 283,
+        "character": "Goran / Wally (Advanced TRPG replay)",
+        "tier": 2,
+        "artifacts": [
+          "twelve-dimension monograph"
+        ],
+        "reason": "Concealed project,newspaper identification,cheat,scenario-required confession,instrumental dragon use and actual disappearance support a monograph. Limits: Confession forced by scenario; ordinary cooperation and enduring mechanism underidentified; no permanent cosmological fate certified."
+      },
+      {
+        "row": 284,
+        "character": "Bo Kujo (Core TRPG farmer)",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "Reports abnormal raids; puzzled by prince address; actual Hanako return and thanks; cow award accounted. Limits: Reports do not certify every raid or victim fate; praise is not independent cognitive proof; Roman rendering derivative."
+      },
+      {
+        "row": 285,
+        "character": "Guild receptionist at Core replay quest and report",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "Requests urgent quest acceptance; receives report/checks records; skeptical rank response; holds artifact with return intention. Limits: Actual temple return unobserved; name/global continuity unknown; assigned role may contain unresolved actors."
+      },
+      {
+        "row": 286,
+        "character": "Inn bartender at Advanced replay introduction",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "Refuses milk as for children while tiny undead enters; party reacts; bounded gatekeeping behavior. Limits: No verified broad prejudice,household relation,other bartender join or subsequent policy."
+      },
+      {
+        "row": 287,
+        "character": "Flame Giant Toad survivor (Advanced replay)",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "Escaped/trained frog develops own hostile encounter and reported relation to former master. Limits: Possible overlap with Core troop does not establish exact individual past actions; no automatic Froger resurrection or global monster join."
+      },
+      {
+        "row": 288,
+        "character": "Winter Hatamoto (Advanced replay artificial ice creature)",
+        "tier": 0,
+        "artifacts": [
+          "bounded occurrence index"
+        ],
+        "reason": "Bounded creation/rules/encounter occurrence and identification are indexed. Limits: No sufficient individual voice/ordinary agency for a compact personality profile or main-novel join."
+      },
+      {
+        "row": 289,
+        "character": "Zamzar (Advanced replay reported researcher)",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "Investigation and produced will report valued dragon companionship,separation,death and an instruction against awakening. Limits: Will is openly revised by player suggestion/GM adoption; not pristine independent clue,full biography or live dialogue; no clinical solitude inference."
+      },
+      {
+        "row": 290,
+        "character": "Zamzar dragon and animated remains (Advanced replay state record)",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "Reported companion history and will support a bounded relationship profile; corpse-animation action belongs to Goran/GM and enemy rules. Limits: No current original-dragon speech or restored will; no21 kinship; final memorial only requested,not completed; record is not an extra resurrected person."
+      },
+      {
+        "row": 291,
+        "character": "Guild receptionist at Advanced replay aftermath",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "Apologizes for harmful client referral,pays party10000KE/2000each and permits continued house use. Limits: No certified prior conspiracy,full screening policy,personal biography or unique-actor count; local act does not repair every risk."
+      },
+      {
+        "row": 292,
+        "character": "Hanako (Core replay cow)",
+        "tier": 0,
+        "artifacts": [
+          "bounded occurrence index"
+        ],
+        "reason": "Threatened captive,freed and returned; GM as-if thanks indexed as personification. Limits: No literal human speech,independent personality mechanism or universal animal agency inferred."
+      },
+      {
+        "row": 293,
+        "character": "Froger trained frog subordinates (Core replay unresolved troop)",
+        "tier": 0,
+        "artifacts": [
+          "bounded occurrence index"
+        ],
+        "reason": "Training,guards,actual defeated guards and spared remaining frog indexed as bounded group occurrences. Limits: No complete actor count,each frog fate or automatic one-to-one survivor join; not disjoint unique people."
+      },
+      {
+        "row": 294,
+        "character": "Momoko (Core replay reported cow)",
+        "tier": 0,
+        "artifacts": [
+          "bounded occurrence index"
+        ],
+        "reason": "Reported name/abduction occurrence is retained. Limits: No witnessed rescue,current fate,literal voice or independent personality evidence."
+      }
+    ],
+    "existing_aggregate_routes": [
+      {
+        "row": 37,
+        "disposition": "Route older five-PC aggregate to163–167,retain history; no new5people."
+      },
+      {
+        "row": 38,
+        "disposition": "Keep open TRPG population/role route; preserve prior unrelated split history."
+      }
+    ],
+    "planned_existing_changed_rows": [
+      37,
+      38,
+      163,
+      164,
+      165,
+      166,
+      167
+    ],
+    "planned_untouched_entering_rows": 275,
+    "planned_new_rows": [
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290,
+      291,
+      292,
+      293,
+      294
+    ],
+    "planned_nonfinal_records": 295,
+    "planned_models_if_received": 51,
+    "planned_scoped_secondary_model_subjects": 45,
+    "planned_bounded_profiles": 66,
+    "planned_monograph_only_subjects": 24,
+    "new_monographs": 7,
+    "new_models": 5,
+    "new_rules": 13,
+    "new_compact_profiles": 7,
+    "new_Tier0_records": 4,
+    "planned_firsts": 26,
+    "planned_dependent_pairs": 13,
+    "exact_inputs_or_firsts_serialized": false,
+    "source_known": true,
+    "same_informed_root_authors_and_assesses_every_stage": true,
+    "all_contrasts_visible": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "whole_source_or_independent_credit": 0,
+    "new_role_records_not_unique_people": true,
+    "no_rule_count_quota": true,
+    "global_census_closed": false,
+    "global_completion_percentage": null,
+    "full_program_complete": false
+  },
+  "source_access_limits": "56complete current native Japanese images:25Core/31Advanced,original detail1441x2048;170complete source-order replay after-view note records and3current whole derivative files separately received.664technical image/wrapper joins are identity checks,not views. Original333Core/331Advanced admissions retain individual scopes;no whole-source,ruby,residual,image-set,OCR,audio,human or independent credit. Fixed-image replay layers,reported/coauthored history,GM necessity and unperformed scenarios remain distinct.",
+  "diagnostic_limits": "26original source-informed English firsts/13dependent pairs follow foundation/input freezes,same author/all contrasts visible,no external model or blind judge.105–115word bodies satisfy80–140format only. Explicit cues and repeated audit-style restraint invite generic answers and flatten voice. GI-H02-B,CH-H01-B/CH-H02,OT-H02-A andTE-H01-B may overstate self-correction/prudence absent source support. OT-H03-A extrapolates a detailed known-source fear account;N21-H01-A adds absence of any familiar person;N21-H02-A presupposes an earlier answer;N21-H03-B calls missingHP wounds without injury type. All originals retained,zero regeneration/feedback repair;no accuracy/grade/confidence gain.",
+  "unprobed_conditions": [
+    "Religious allocation of scarce aid across strangers",
+    "Endogenous choice to lie and durable trust repair",
+    "Actual harmful health intervention and sustained refusal response",
+    "Durable lending/repayment and resource boundaries",
+    "Irreversible danger without protective means",
+    "Repeated willing/unwilling private explanation",
+    "Long-term rejection and learned knowledge humility",
+    "Secure pressure-free belonging outside party",
+    "Mercy/combat/recovery branches not all exercised",
+    "Japanese pragmatic/audio fidelity and final nine-category battery"
+  ],
+  "current_unique_native_images": 56,
+  "current_Core_images": 25,
+  "current_Advanced_images": 31,
+  "complete_source_order_replay_note_records": 170,
+  "complete_current_derivative_files": 3,
+  "technical_native_binding_checks": 664,
+  "technical_checks_not_reading": true,
+  "new_whole_source_ruby_residual_image_set_admission_or_independent_credit": 0,
+  "first_output_aggregation_byte_exact": true,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "census_comparison": {
+    "changed_entering_rows": [
+      37,
+      38,
+      163,
+      164,
+      165,
+      166,
+      167
+    ],
+    "untouched_entering_rows": 275,
+    "new_rows": [
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290,
+      291,
+      292,
+      293,
+      294
+    ],
+    "nonfinal_records": 295,
+    "canonical_layout": "Manifest/four stable ordered payloads;private WORK97 separate.",
+    "canonical_private_historical_differences_retained": [
+      5,
+      6,
+      7,
+      8,
+      12,
+      13,
+      43,
+      78,
+      123,
+      124,
+      125,
+      137,
+      142,
+      143,
+      168,
+      170,
+      171,
+      172,
+      177
+    ],
+    "historical_storage_snapshot_unchanged": true,
+    "no_unique_person_denominator": true
+  },
+  "prior_preservation_checks": {
+    "entering_models": 31,
+    "current_controls": 12,
+    "C22_8canonical_14private_4firsts": true,
+    "C21_16canonical_24private_8firsts": true,
+    "C20_five_cores": true,
+    "C23_17private_12firsts": true,
+    "immutable": 66,
+    "historical": 72,
+    "scores": 4,
+    "Dust_blank_fields": 14,
+    "SI_SY_null_fields": 28,
+    "scratch_files": 80,
+    "local_native_objects": 8,
+    "current_models": 46,
+    "control_baseline": "Accepted owner-integrated main controls preserved at a90722d065e56e8fe2c2131e4307e4fa03d0c289; epoch1 migration files remain historical,not current routing.",
+    "C23_15canonical_17private_12firsts": true,
+    "C24_three_cores_seven_private_and_profile_exact": true,
+    "C25_three_cores_seven_private_and_profile_exact": true,
+    "C25_nine_native_thirtyfive_delivery_exact": true,
+    "C26_three_native_eleven_member_twentyeight_delivery_exact": true,
+    "global_discovery_and_evaluation_four_surfaces_exact": true,
+    "scratch80_untracked": true,
+    "C26_seven_canonical_eleven_private_six_firsts_exact": true,
+    "private_WORK88_exact": true,
+    "C27_195_raw_deliveries_exact": true,
+    "global_four_owner_surfaces_exact": true,
+    "source_known_only": true,
+    "independent_or_grade_gain": 0,
+    "C27_twentyfour_frozen_private_and_eighteen_original_firsts_exact": true,
+    "C27_twenty_cores_compact_fragment_exact": true,
+    "C28_twenty_eight_cores_thirtytwo_private_twentyfour_original_firsts_exact": true,
+    "C28_eighty_nine_raw_deliveries_exact": true,
+    "WORK92_exact": true,
+    "current_C28_public_gate_exact": true,
+    "C29_thirteen_cores_seventeen_private_sixteen_original_firsts_exact": true,
+    "C29_sixty_eight_raw_deliveries_exact": true,
+    "WORK94_exact": true,
+    "current_C29_public_gate_exact": true,
+    "C30_nineteen_cores_twenty_three_private_twenty_four_original_firsts_exact": true,
+    "C30_thirty_three_raw_deliveries_exact": true,
+    "WORK96_exact": true,
+    "current_C30_public_gate_exact": true
+  },
+  "all46_entering_models_unchanged": true,
+  "all29_C31_cores_frozen_exact": true,
+  "previous_author_gate": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT30_PUBLICATION_GATE_CLOSE.json",
+    "source": "681d9d058caabc38a26c56496c255677e2a2d616",
+    "audit_run_id": 40067718104,
+    "full_discovered_tests": 459,
+    "scope": "Cohort30 author tranche;protected-main integration separately owned."
+  },
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false,
+  "subject_scope_is_frozen_preinput_assessment": true,
+  "current_diagnostic_state": "After that dated planning assessment,26 original firsts and13 dependent source-known pairs were serialized and frozen with zero regeneration/feedback repair. Current counts are in new_artifact_scope and original_first_serialization_pins;no behavioral success score,independent validation or final battery follows.",
+  "publication_resolution": {
+    "source": "be0005b8599c08c9d8eb15ddbf453e68dfc12b49",
+    "tree": "57e93d3379599a2f1de2b27d6ad322e0a3002a69",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT31_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "733f192cbf87866536d28e8c7ab2f6f8f04129d46fdcdcf92605ba23852b0fd9",
+    "source_run": 40074965468,
+    "full_discovered_tests": 459,
+    "current_models": 51,
+    "author_publication_tranche_complete": true,
+    "main_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "separate_housekeeping_run": null
+  },
+  "current_gate_qualification": "Original source/diagnostic scope, all 29 canonical core artifacts, 33 frozen private artifacts and 26 original bodies/receipts remain exact. Author publication is closed; protected-main integration, independent accuracy, grade, confidence gain and the final nine-category battery are not certified."
+}

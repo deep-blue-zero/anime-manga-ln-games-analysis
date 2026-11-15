@@ -1,0 +1,322 @@
+{
+  "schema": "BLUE_ARCHIVE_SAYA_RECIPIENTS_ROOT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_COMPLETE_CANONICAL_INSTALLATION_PENDING",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS.md",
+  "current_scope": "355required/29mandatory non-denominator duties/25distinctparents/384homes unchanged",
+  "dated_source_beforeimage": "7a146891ad9ffd999b2c4377d66a73313217a510",
+  "dated_source_tree": "b726ef7a1a3a103d3011cf708a169eb8c7d659df",
+  "accepted_first_milestone_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "fixed_preparation_snapshot": {
+    "accepted_package_sequence": [
+      115,
+      120
+    ],
+    "new_packages": 6,
+    "after_complete_ROOT_install": 120,
+    "characters": 95,
+    "directed_relationships": 12,
+    "ensembles": 5,
+    "institutions": 8,
+    "named_duties_after_complete_ROOT_install": 10,
+    "published_before_successor": 114,
+    "merged_main": 89,
+    "next_milestone": 178,
+    "later121plus": "EXCLUDED_FROM_FIXED_PROPOSAL",
+    "automatic_chain_at_capture": "ROOT_ACCEPTED_EXACT_7A_SOURCE_HOUSEKEEPING_FINAL_PASS",
+    "new_named_duty_credit": 0,
+    "maintenance_package_credit": 0
+  },
+  "current_source114_complete_chain": {
+    "original_exact_tuple": {
+      "path": "ROOT_7A_SOURCE114_PUBLICATION_CHAIN_ACCEPTANCE_V1.json",
+      "bytes": 6318,
+      "sha256": "57b258715c04daebe7214aa9c489d500084e140a8acd0e43909bf25ec9c92c09",
+      "git_blob_oid_of_actual_bytes": "b612264f75505fd5a897db6e3457326443b457f3",
+      "immutable_transport_path": "immutable_originals/ROOT_7A_SOURCE114_PUBLICATION_CHAIN_ACCEPTANCE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "blue-archive/root-7a114-complete-publication-chain-acceptance/v1",
+      "decision": "ACCEPT_EXACT_SOURCE_HOUSEKEEPING_FINAL_COMPLETE_AUTOMATIC_CHAIN",
+      "checked_UTC": "2026-10-10T22:49:27.754056+00:00",
+      "source": "7a146891ad9ffd999b2c4377d66a73313217a510",
+      "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source_tree": "b726ef7a1a3a103d3011cf708a169eb8c7d659df",
+      "source_parent": [
+        "afb38a20d3714cb0ed7d22013cd7dfc86ad3226b"
+      ],
+      "original_capture": {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_7A_SOURCE114_COMPLETE_AUTOMATIC_CHAIN_V1/EXACT_COMPLETE_CHAIN_CAPTURE_AND_EXECUTED_WITNESSES_V1.json",
+        "bytes": 34450,
+        "sha256": "d7fbd82856043c199d8928d3ab63690127088dd3b4f66b4b31647705f76086b0",
+        "git_blob_sha1": "8c8f6496fe019ecfacf903e0d6e1e12dade9944d"
+      },
+      "runs_and_actual_execution": [
+        {
+          "role": "SOURCE",
+          "run": {
+            "id": 38091335960,
+            "name": "Repository audit",
+            "event": "push",
+            "head_sha": "7a146891ad9ffd999b2c4377d66a73313217a510",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38091335960",
+            "created_at": "2026-10-10T22:25:00Z",
+            "updated_at": "2026-10-10T22:35:53Z"
+          },
+          "complete_log": {
+            "path": "SOURCE_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 344274,
+            "lines": 2204,
+            "sha256": "905f4a7797f8d53228c2dea7a1aa08bf71023fbe2b5b083e076dff4615ccdd6a",
+            "git_blob_oid_of_actual_bytes": "553eb9b00b506b30458cb9fdbb0dfe205d2a215f"
+          },
+          "actual_archive_outcome": "success",
+          "actual_archive_SHA": "7a146891ad9ffd999b2c4377d66a73313217a510",
+          "actual_execution": {
+            "commit": "7a146891ad9ffd999b2c4377d66a73313217a510",
+            "outcome": "success",
+            "requested_profile": "shadow",
+            "executed_profile": "full",
+            "selection_enabled": false,
+            "discovered_tests": 292,
+            "tests_run": 292,
+            "errors": 0,
+            "failures": 0,
+            "expected_failures": 0,
+            "unexpected_successes": 0,
+            "skipped": 0
+          }
+        },
+        {
+          "role": "HOUSEKEEPING",
+          "run": {
+            "id": 38092024428,
+            "name": "Global index housekeeping",
+            "event": "workflow_run",
+            "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38092024428",
+            "created_at": "2026-10-10T22:35:54Z",
+            "updated_at": "2026-10-10T22:36:16Z"
+          },
+          "complete_log": {
+            "path": "HOUSEKEEPING_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 44321,
+            "lines": 267,
+            "sha256": "9e1477d7c778ebb127ff4f6b50669810071ac8d262389ec7bc86602505903555",
+            "git_blob_oid_of_actual_bytes": "be0bfcc3c83e6f8bc4697a5117d4675801fa6726"
+          },
+          "actual_noop_and_dispatch_witnesses": [
+            {
+              "line": 265,
+              "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-10T22:36:13.8552034Z PASS: dispatched the full audit for 7a146891ad9ffd999b2c4377d66a73313217a510"
+            },
+            {
+              "line": 266,
+              "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-10T22:36:13.8554382Z PASS: unchanged routing and branch boundaries verified; final audit dispatched"
+            }
+          ]
+        },
+        {
+          "role": "FINAL_FULL_AUDIT",
+          "run": {
+            "id": 38092046337,
+            "name": "Repository audit",
+            "event": "repository_dispatch",
+            "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38092046337",
+            "created_at": "2026-10-10T22:36:15Z",
+            "updated_at": "2026-10-10T22:47:00Z"
+          },
+          "complete_log": {
+            "path": "FINAL_FULL_AUDIT_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 343706,
+            "lines": 2199,
+            "sha256": "744d67ee3d90d5ed1d15537ce30f1a04b94eda923aef3a796b6669d2747c3d32",
+            "git_blob_oid_of_actual_bytes": "18d57210e8c3af956d99c96f61d1bae977d00a8a"
+          },
+          "actual_archive_outcome": "success",
+          "actual_archive_SHA": "7a146891ad9ffd999b2c4377d66a73313217a510",
+          "actual_execution": {
+            "commit": "7a146891ad9ffd999b2c4377d66a73313217a510",
+            "outcome": "success",
+            "requested_profile": "shadow",
+            "executed_profile": "full",
+            "selection_enabled": false,
+            "discovered_tests": 292,
+            "tests_run": 292,
+            "errors": 0,
+            "failures": 0,
+            "expected_failures": 0,
+            "unexpected_successes": 0,
+            "skipped": 0
+          }
+        }
+      ],
+      "exact_final_status": {
+        "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/7a146891ad9ffd999b2c4377d66a73313217a510",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "id": 56066576592,
+        "node_id": "SC_kwDOUJ9ads8AAAANDdQQ0A",
+        "state": "success",
+        "description": "Exact commit passed the repository audit",
+        "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38092046337",
+        "context": "Repository integration audit",
+        "created_at": "2026-10-10T22:46:57Z",
+        "updated_at": "2026-10-10T22:46:57Z"
+      },
+      "ROOT_actual_execution_summary_receiving": "2df931 complete actual source and final292full zero failure/error/skip executed7a archiveSUCCESS; actualhouse265–266 dispatch/noop; exactfinalstatus56066576592 success; all remote refs/tree/parent exact. Whole logs preserved, no whole log human reading claim.",
+      "whole_log_human_reading_claim": false,
+      "progress": "Published114/merged89; ROOTaccepted118 remains separate. Nextmerge178/full355cast target unchanged; zero new literary acceptance or milestone.",
+      "source_or_repository_mutations": 0,
+      "all14_original_gaps": "OPEN_UNCHANGED",
+      "UNBOUND9_and_unpublished39": "UNREAD_UNHASHED_UNCHANGED"
+    }
+  },
+  "original_exact_tuple": {
+    "path": "ROOT_SAYA_RECIPIENTS_COMPLETE_DIRECTED_RELATIONSHIP_ACCEPTANCE_V1.json",
+    "bytes": 6167,
+    "sha256": "14fef2e892f87fcaa00cea10294e8ec44638f4524a71f8259e7f935c43cf0b1c",
+    "git_blob_oid_of_actual_bytes": "e0b264d32e03de2abe9b8520e4dc0c1c55d0014b",
+    "immutable_transport_path": "immutable_originals/ROOT_SAYA_RECIPIENTS_COMPLETE_DIRECTED_RELATIONSHIP_ACCEPTANCE_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_SAYA_RECIPIENTS_COMPLETE_DIRECTED_RELATIONSHIP_ACCEPTANCE_V1",
+    "checked_UTC": "2026-10-10T21:45:31.049322+00:00",
+    "decision": "ACCEPT_COMPLETE_DIFFERENTIATED_DIRECTED_RECIPIENT_ARGUMENT_WITH_LIMITS",
+    "existing_home": "P3-REL-SAYA-RECIPIENTS-CARE-TECHNICAL-LIMITS",
+    "source_responsibility": "HYS::significant_responsibilities::14",
+    "mandatory_named_duties": [],
+    "candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 46781,
+      "lines": 156,
+      "sha256": "cfd65880a120d5e2fa999ca7129ac39da2af4175649b3dedfaeed813bf03e3fb"
+    },
+    "canonical_target": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS.md",
+    "immutable_author_freeze": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/SAYA_RECIPIENTS_AUTHOR_COMPLETE_SAVED_REVIEW_AND_EXACT_FREEZE_V1.json",
+      "bytes": 10702,
+      "lines": 202,
+      "sha256": "566520dcd086790561ca4375bc3695304f4e203c85bcfc04508d1d9bcd846848"
+    },
+    "ROOT_actual_receiving": {
+      "whole_body": "6fb177L1–80/23075cL81–156EOF complete operative156 lines; no substantive body correction identified.",
+      "source_and_controls": "c7d85b all six directed question families, current admission/actual fresh debt, all3operative actor/activity precision qualifications, overlap/scope/execution controls;6b5cbfallN01–N14and4a1e71allN15–N27 actual prior/fresh complete source scopes and purposes.",
+      "finite_ends": "c7d85b E01–E08 full meaningful fields;54053fE09–E26 andf833dbE27–E45 full textual directions/achievements/contrary/tail/mode constraints; mechanical161join arrays independently verified.",
+      "whole_saved_companions": "b41ee7whole67readable;4a1e71whole70precision/inverse;seal202lines joined a7e024 retained ends with complete86–136repair54053f. No whole9727-line register serialization credit.",
+      "reviewed_validation_helper": "4f42aawhole100lines; ROOT executes only complete read-only prefix before existing-report writer; frozen helper hash verified. Actual source/claim/end/gap/rival meaning remains separately received."
+    },
+    "semantic_grounds": [
+      "The relationship question asks whether another person’s answer can alter the purpose and costs of an encounter. Sensei, Nezusuke, society members, Helmet recipients, workers/guests, Shun/Kokona, Kisaki, Rumi, Kai and birthday participants retain differentiated agency.",
+      "Saya’s desired inquiry, praise, food, play, warmth, fragrance, exploration and company matter intrinsically. Actual meals, lost play, returned companion, collaborative finished work, release and completed party retain value alongside costs and unprinted tails.",
+      "Misleading invitations, delayed gift disclosure, redefined recipient symptoms, ineffective instruction and renewed restraint cannot be cleared by comic genre, affection, genius claims, adult presence or Kai’s worse conditions.",
+      "E839 actual request is Saya asking Kisaki for rest; Kisaki refuses while visitors remain and promises later convalescence. E805 restored Shun herself apologizes and receives qualified forgiveness, distinct from requesting Saya’s remedy. Birthday agreement and completed party differ from uninspected performed songs.",
+      "Requested remedies and meaningful contrast with Kai retain specific conditions and actual recipients; they supply no retrospective blanket consent, safe reproducible technique, clinical certification, completed supply/custody repair or lasting welfare.",
+      "Nine complete serious rivals,45finite ending cases, eleven substantive sections and all14literal originalOPEN effects support one full existing directed home. Independent character/relationship/ensemble/institution/Sensei/register duties stay mandatory across the full355/29/25 scope."
+    ],
+    "independent_finite_checks": {
+      "exact_normal_and_control_bindings": 33,
+      "normal_literary_bf5_main_current_same": 27,
+      "historical_control_bindings": 6,
+      "dated_controls_same_current": 4,
+      "saved_complete_paragraphs": 55,
+      "source_locator_projection_joins": 453,
+      "endpoint_source_joins": 161,
+      "finite_end_cases": 45,
+      "full_rivals": 9,
+      "substantial_sections": 11,
+      "literal_original_OPEN_gaps": 14,
+      "prior_frozen_witnesses_preserved": 14,
+      "unsealed_beforeimages_preserved": 3,
+      "only_precision_changed_body_lines": [
+        67,
+        93
+      ],
+      "unchanged_other_body_lines": 154,
+      "resolved_body_links": 5,
+      "frozen_output_and_auxiliary_tuples_exact": true,
+      "current355home_pending_exact": true
+    },
+    "canonical_preservation_requirement": "Retain all156 operative body lines,55paragraphs, allsix distinct recipient question families, ninefullrivals, all45ends and14originalOPEN effects. Preserve whole source/register/readable/precision/freeze and prior14witnesses through exact public translations/fullinverse. Historical N17 plan Saya-apology and N19 Marina wording stay frozen with the operative explicit qualifications; oldbf5/101 custody labels are dated, currentafb108 publication separate. No threshold based on ordinary stakes or future global-source recovery replaces adequate bounded argument.",
+    "progress": {
+      "previous_ROOTaccepted_packages": 114,
+      "new_directed_relationship_package": 1,
+      "total_ROOTaccepted_packages": 115,
+      "character_packages": 94,
+      "directed_relationship_packages": 11,
+      "ensemble_packages": 4,
+      "institution_packages": 6,
+      "ROOTaccepted_named_duties": 10,
+      "published_source_packages": 108,
+      "published_and_merged_packages": 89,
+      "next_merge_milestone": 178,
+      "canonical_adoption": "PENDING_LATER_SUCCESSOR_EXCLUDED_FROM_FIXED109_TO114"
+    },
+    "all14_original_gaps": "OPEN",
+    "R_Git_provider_writes": false,
+    "new_primary_native_raw_QA_AV_model_identity_credit": 0,
+    "full_goal_status": "ACTIVE_INCOMPLETE"
+  },
+  "historical_payload_qualification": "Every dated pending/local/afb/bf5/count/custody/source and relative-navigation field preserves creation-time meaning. Full original C bytes and literal/body inverses survive. Current ROOT acceptance is separately bound; mechanical transport supplies no new author, source, independent, primary/native/raw/QA/AV, model or scope credit. Original hashes bind originals rather than their public derivatives.",
+  "original_relative_navigation_boundary": "Historical payload hrefs retain their original document coordinates; explicit canonical body translations and public attachment descriptors supply current navigation. Historical relative literals are not fresh live-source reading.",
+  "assembler_receiving_credit": {
+    "new_primary_native_raw_QA_AV_model_identity": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 49617,
+    "sha256": "c268fb7f5e8d34f865d4c7b995edc1af00505e3ff5761b062b1be44ba59c7b5e",
+    "git_blob_oid_of_actual_bytes": "3f5261d7f1cd0cc256fb6de1df9838d25e61adcf"
+  },
+  "authority_framing_changes": {
+    "historical_frontmatter_fields": [
+      "ROOT_acceptance",
+      "artifact_type",
+      "canonical_adoption",
+      "canonical_completion_credit",
+      "canonical_home",
+      "canonical_target",
+      "counts_as_ROOT_accepted_completed",
+      "do_not_use_as_current_authority",
+      "generation",
+      "publication_state",
+      "root_acceptance",
+      "stage_state",
+      "status",
+      "version"
+    ],
+    "inserted_current_boundary": "**Current ROOT receiving and publication boundary.** ROOT independently adjudicated this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the operative original and complete byte inverse. Original pending/local/afb/bf5/count statements remain creation-time history. Published114 source 7a146891ad9ffd999b2c4377d66a73313217a510/tree b726ef7a1a3a103d3011cf708a169eb8c7d659df has a separately bound ROOT-accepted exact source→housekeeping→final automatic chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed six-package115–120 proposal takes effect only through complete ROOT installation, yielding120 (95character/12directedrelationship/5ensemble/8institution) and the unchanged10 completed non-denominator named duties. Later121+ is excluded. Required355packages/29duties across25parents/384homes, next178, all14original OPEN gaps and model0 remain unchanged. Mechanical transport grants no new source, original-primary, native, raw, QA, performed, independent literary, identity, denominator or milestone credit. **Package-specific operative qualification:** All156 literary lines, six recipient question families,45 finite end cases and nine rivals retain distinct recipients, actual rest refusals, gifts, inquiry and restored Shun's own apology. Historical plan actor errors are qualified by the full operative source/precision receipts. Saya's character, Meihua and every separate directed responsibility remain distinct.27 adequate normal scopes and original mode/identity/chronology limits are preserved; copies add no original-primary credit.",
+    "all_original_literary_paragraphs_unchanged_except_exact_href_translation": true
+  },
+  "mandatory_operative_qualification": "All156 literary lines, six recipient question families,45 finite end cases and nine rivals retain distinct recipients, actual rest refusals, gifts, inquiry and restored Shun's own apology. Historical plan actor errors are qualified by the full operative source/precision receipts. Saya's character, Meihua and every separate directed responsibility remain distinct.27 adequate normal scopes and original mode/identity/chronology limits are preserved; copies add no original-primary credit. 2026-10-11 operative correction: The joint capture resolves the local collaborators/conduit; Kai and her larger project remain unresolved. The board-game trap punctures Saya's renewed boast before the later MomoTalk admission of loss and wish for a rematch; no rematch or future win is established. See operative_source_consistency_correction and its versioned register; historical wording is retained without current endorsement of these corrected details.",
+  "operative_source_consistency_correction": {
+    "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json",
+    "correction_ids": [
+      "BA-SC-20261011-05",
+      "BA-SC-20261011-07"
+    ],
+    "qualification": "The joint capture resolves the local collaborators/conduit; Kai and her larger project remain unresolved. The board-game trap punctures Saya's renewed boast before the later MomoTalk admission of loss and wish for a rematch; no rematch or future win is established.",
+    "effective_canonical_body_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 50018,
+      "sha256": "aefc05761d2752ac238e1ad62fd96a3dc9f3f08492f0f981e7a73d852c69f50a",
+      "git_blob_oid_of_actual_bytes": "1dd2cf7e7930bd49a045588a48551914cba9a419"
+    },
+    "prior_canonical_body_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 49617,
+      "sha256": "c268fb7f5e8d34f865d4c7b995edc1af00505e3ff5761b062b1be44ba59c7b5e",
+      "git_blob_oid_of_actual_bytes": "3f5261d7f1cd0cc256fb6de1df9838d25e61adcf"
+    },
+    "preservation": "Original author/ROOT payloads, receipt decisions, source and paragraph hashes, attachment tuples, authority-framing snapshots and complete inverse ranges remain historical and unchanged. This dated correction governs current claim/endpoint use and the effective body binding; earlier canonical tuples and exact-unchanged-line labels describe the pre-correction snapshot. It does not claim new ROOT receiving, primary/media inspection, source admission, character identity, package, model, milestone or integration credit."
+  }
+}

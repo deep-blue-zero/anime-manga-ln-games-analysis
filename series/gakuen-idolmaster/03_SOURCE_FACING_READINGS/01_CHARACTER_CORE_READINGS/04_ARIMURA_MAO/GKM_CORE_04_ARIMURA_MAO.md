@@ -1147,3 +1147,38 @@ That is why the best Phase-3 sentence remains:
 > **Mao learns not to stop performing the prince, but to stop using the prince to disappear.**
 
 And the final direction of movement is not toward a stable label but toward `0番` with the capacity to keep revising what standing there can mean.
+
+
+## Source Lock 1.1 supplement — 2026-11-12
+
+The claims below use revision 86 A1. The earlier sections document the Source Lock 1.0 reading. The companion [evidence matrix](GKM_CORE_04_ARIMURA_MAO_EVIDENCE_MATRIX.md#source-lock-11-supplement--2026-11-12) records the claim dispositions. The [source delta](../../../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv) resolves original filenames to archive paths and hashes. L indicates a physical A1 line. M indicates the ordinal of an A1 message command.
+
+### Succession changes the title and preserves a personal star
+
+After Mao's H.I.F. win, the 100 Pro interview introduces her as the new titleholder and promotes Sena. Mao describes learning from juniors. Sena recognizes those juniors in Mao's performance. Afterward Mao calls Sena her enduring star. They joke that they are the morning and evening stars and a `ダブル` Prima Stella. `adv_cidol-amao-3-018_01.txt` L135–261 and `adv_cidol-amao-3-018_02.txt` L25–67, L154–291. [Communication reading](../GKM_COMMU_REVISION_86_DEEP_READING.md).
+
+Mao can receive the official distinction and continue learning from her predecessor. The Venus analogy gives a name to overlapping personal and public sources of authority. The dialogue establishes one official title transfer. The double title is joking. Its surrounding remarks give evidence of respect and reception in this scene.
+
+**Scope.** C1 within Mao 018 after Mao's H.I.F. win, compatible with the Mao-winning Dear state.
+
+**Claim disposition.** `MAO-R86-C01` — ADD to `MAO-C23`.
+
+### The Producer exercises professional leverage on Mao's behalf
+
+The 100 Pro president offers prepared papers and seeks to capitalize on publicity around Mao's win. The Producer asks to review the papers because they concern Mao's life. The president allows until the next day. Later Mao voices excitement alongside anxiety and commits to the prince she wants to become. `adv_cidol-amao-3-018_03.txt` L85–140, L149–210. [Communication reading](../GKM_COMMU_REVISION_86_DEEP_READING.md).
+
+The scene makes contract review a distinct form of care during Mao's move toward professional work. Mao expresses her goal in her own terms after the offered business arrangement and the Producer's promise. The president's possible test is the Producer's conjecture. The scene shows an offer and deferral. Mao's signature and later terms remain open.
+
+**Scope.** C1 after the Mao-winning result. The single-option `トップアイドルにする` precedes the final exchange.
+
+**Claim disposition.** `MAO-R86-C02` — ADD to `MAO-C27`.
+
+### Temari names the courage in Mao's conduct
+
+Mao privately admits being afraid during the dorm test of courage. Temari feels Mao's hand tremble and asks about the fear. Mao admits it, Temari calls her cool for going first anyway, and the two sing the commercial jingle Temari proposes. `adv_csprt-2-0078_01.txt` L112–155 and `adv_csprt-2-0078_02.txt` L79–182. [Support-card reading](../../03_SUPPORT_CARD_READINGS/GKM_SUPPORT_REVISION_86_DEEP_READING.md).
+
+Temari helps articulate and sustain a prince role that can include a visible limitation. The companion Mao is trying to reassure becomes an active participant in the reassurance. Mao asks Temari to keep the fear private. The acknowledgement supports this pair's exchange, with public use of vulnerability still open.
+
+**Scope.** C1 within the test of courage, C4 relative to the main tracks.
+
+**Claim disposition.** `MAO-R86-C03` — STRENGTHEN `MAO-C08` and `MAO-C09`.

@@ -9,7 +9,7 @@ source_boundary: GAKUMAS V2 Source Lock 1.0 — Misuzu character-owned textual c
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: '2026-08-16'
+last_updated: "2026-11-12 — Source Lock 1.0 historical corrections"
 ---
 
 # GKM CORE 11 — HATAYA MISUZU EVIDENCE / FALSIFICATION MATRIX
@@ -63,3 +63,14 @@ This matrix is subordinate to `GKM_CORE_11_HATAYA_MISUZU.md`. It keeps high-load
 | MISUZU-C43 | `まあ` / `ふふ` are stable textual voice markers and affect-control devices. | whole corpus | high frequency may partly reflect character-script convention | later quantitative voice study finds they are not meaningfully distinctive | **HIGH TEXT** |
 | MISUZU-C44 | Misuzu's totalizing desire is repeatedly bounded in practice by others remaining separate agents. | Temari/Rinha outcomes; fan plurality; Producer boundaries | possessive rhetoric remains unresolved | later phase shows deliberate coercive restriction of others' choices | **HIGH / ETHICAL OPEN** |
 | MISUZU-C45 | Misuzu is not anti-ambition; she is anti-unowned tempo. | Dear 001→037; Produce Story; CIDOL 016 | she sometimes critiques overexertion itself | later source shows she prefers comfort even when it sacrifices personally meaningful ambition | **VERY HIGH** |
+
+## Historical cross-track qualification — HSCA-001
+
+**MISUZU-C26 and MISUZU-C45 — STRENGTHEN (C1 @ U1).** In `adv_unit_01-04_20.txt` (A1 681–694), Misuzu privately understands her all-out exertion as access to Temari's world. In `adv_unit_01-04_22.txt` (542–823) she cries, vows not to sprint again and commits to 「徒歩で勝ちますね」. Both affect protection after defeat and teasing self-reassertion remain plausible functions. This is a separate episode from D-MISUZU Dear 022 and 032. See Relationship Systems I §5.9.1 and `LOC-HSCA-001C`–`001D`.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+**STRENGTHEN** MISUZU-C26 and MISUZU-C45 with deliberate rehearsal and permission to rest after effort. **STRENGTHEN** the scoped repair reading with Misuzu's own confirmation and keep Rinha's qualification separately attributed. The café recollection, E027 cooperation and U1 competitive aftermath have distinct continuity.
+
+[Source reading 1](../GKM_COMMU_REVISION_86_DEEP_READING.md) · [Source reading 2](../../02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md)

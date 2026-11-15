@@ -31,3 +31,8 @@ Phase 0 initializes the following cumulative ledgers. Each is a living analytica
 | GKM_AUDIOVISUAL_SOURCE_CROSSWALK.md | Audiovisual Source Crosswalk |
 
 All ledgers begin under Source Lock 1.0. A later source-lock upgrade must record which entries were derived from which source version.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+The dated 1.1 rows keep the original ledger schemas and source identities. Resolve each GKM-R86 group to a reading and exact A1 source in the [locator ledger](GKM_PRIMARY_SOURCE_LOCATOR_LEDGER.md#source-lock-11--transcript-refresh-2026-11-12).

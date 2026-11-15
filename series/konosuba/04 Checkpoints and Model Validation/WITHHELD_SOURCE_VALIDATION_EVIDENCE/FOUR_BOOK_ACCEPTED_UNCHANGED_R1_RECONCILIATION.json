@@ -1,0 +1,1298 @@
+{
+  "state": "ACCEPTED_FOUR_BOOK_UNCHANGED_R1_RECONCILIATION_PUBLICATION_GATE_PENDING",
+  "created_utc": "2026-10-17T21:14:06.451559+00:00",
+  "baseline": {
+    "version": "MAIN_ONLY_R1",
+    "source_commit": "3b92d9fac53c6065098d690aef68773588126def",
+    "actual_freeze_utc": "2026-10-17T15:05:30.667128+00:00",
+    "freeze_sha256": "a446f7f59c9ae1044a42b6ebe525bb75e8bfde00e78d9a10ec0dc73f67ce06a4",
+    "registry_sha256": "680748c892a9178852901c217b657119afeea3879e547db8a393d93878d9b833",
+    "all_original_models_tests_settings_responses_predictions_and_acceptance_boundaries_unchanged": true
+  },
+  "predefined_source_set": [
+    "YORI01",
+    "MASK",
+    "DUST06",
+    "DUST07"
+  ],
+  "prior_three_exact_accepted_pins": {
+    "YORI01": {
+      "path": "konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/YORI01_ACCEPTED_ADJUDICATIONS.json",
+      "bytes": 87574,
+      "sha256": "7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026"
+    },
+    "MASK": {
+      "path": "konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_ACCEPTED_ADJUDICATIONS.json",
+      "bytes": 210188,
+      "sha256": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967"
+    },
+    "DUST06": {
+      "path": "konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_ACCEPTED_ADJUDICATIONS.json",
+      "bytes": 229826,
+      "sha256": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e"
+    }
+  },
+  "fourth_concrete_candidate": {
+    "name": "DUST07_COMPLETE_ALL39_ROOT_ADJUDICATION_CANDIDATE.json",
+    "bytes": 273881,
+    "sha256": "a6114bf1036973925d0c3f7ab1ef34689ad1a1bd2a0a8d78cf6223378f1e3ac0"
+  },
+  "rows": [
+    {
+      "contract_id": "R1-K01",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "154707879df2e511257bb60ff2d0dda3366e058d4748cf0499838135dac36041",
+      "source_local_dispositions": {
+        "YORI01": "CONFIRMED",
+        "MASK": "CONFIRMED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [
+        "YORI01",
+        "MASK"
+      ],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "Separate affordable option generation from implementation/recovery; two actual source fits do not prove optimality or equal skill in unknown worlds.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-K02",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "b9197acf308cdc9cff1941a9878c5848f95ee34d2cccae12ea2015679c2be91e",
+      "source_local_dispositions": {
+        "YORI01": "PARTIAL",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {
+        "YORI01": "PARTIAL"
+      },
+      "untested_sources": [
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "Limited low-incentive guard coverage; initial reluctance under known Vanir danger is not a full low-stakes laziness test.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-K03",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "ff01f939d601c305e19a6d3be2b945dc29118a1828c29266dc5cc8b67869e393",
+      "source_local_dispositions": {
+        "YORI01": "CONFIRMED",
+        "MASK": "PARTIAL",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [
+        "YORI01"
+      ],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {
+        "MASK": "PARTIAL"
+      },
+      "untested_sources": [
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "Real costly practical help supports relationship-conditioned effort; danger/means appraisal and event dependence remain essential, and optimal/consensual means are not implied.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-K04",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "c1c18626dae4756fe87c8eaf895f7809bf290a9454972a43113011c58f9fef30",
+      "source_local_dispositions": {
+        "YORI01": "CONFIRMED",
+        "MASK": "PARTIAL",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [
+        "YORI01"
+      ],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {
+        "MASK": "PARTIAL"
+      },
+      "untested_sources": [
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "Pressure/redress is real; retain first-eligible-settlement and legitimate-advantage missingness rather than add personal-victim/extra-profit floors.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-K05",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "58aea31a914aa74fb4066e0256c42a165bc9eb26de088bcdd0871d39011e2d0c",
+      "source_local_dispositions": {
+        "YORI01": "CONFIRMED",
+        "MASK": "PARTIAL",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [
+        "YORI01"
+      ],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {
+        "MASK": "PARTIAL"
+      },
+      "untested_sources": [
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "Keep the OR trigger of failed technique or contradicting information, plus independent continuing objective/received alternative; costly end results do not negate option revision by definition.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-K06",
+      "exact_type": "COGNITIVE_VALUATION_COMMITMENT",
+      "literal_contract_utf8_sha256": "59ef4f257a462e4c1a52298d3d5297281ca9590e50b3adbdc504260053b5dc1f",
+      "source_local_dispositions": {
+        "YORI01": "NOT_TESTED",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "YORI01",
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "No holdout full role-equivalent replacement appraisal was certified for Kazuma. Do not promote nonfungibility to validated from other actors or a rescue.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-K07",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "1410bb9dd2e71a8ee5f916c07a7f73c262adfbe14a8eec3808d3b4a0aa5b6eba",
+      "source_local_dispositions": {
+        "YORI01": "CONFIRMED",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [
+        "YORI01"
+      ],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "Some real selective accounts fit; candid limits remain. Reports by other people and Dust self-excuses are not Kazuma agency explanations.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-K08",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "e0d619988397733cd858de12b4f6ab2b2ba102dab072b145cdcf461ceeca37a7",
+      "source_local_dispositions": {
+        "YORI01": "FALSIFIED",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [
+        "YORI01"
+      ],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "YORI01 has a full direct-pressure local opposite; later compatible wording cannot cancel it. DUST07 direct1050 is an adverse surface on a dependent event with unresolved leverage/purpose. StageD must qualify the civil-surface forecast instead of adding post-hoc politeness exceptions.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-A01",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "384ad78b35ae4865d89becdbdeddf68f9d8edfe4573c7ff7c8817e00122accc1",
+      "source_local_dispositions": {
+        "YORI01": "PARTIAL",
+        "MASK": "PARTIAL",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {
+        "YORI01": "PARTIAL",
+        "MASK": "PARTIAL"
+      },
+      "untested_sources": [
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "Real purification/manual work and joint expanded-potion damage coexist; keep known/unknown parameters and own execution/judgment separate without an invented ontology exemption.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-A02",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "7760c2f8ea701d2f814c092f4cb731a60f88b0ef88cd7c655e5fcecad402dc43",
+      "source_local_dispositions": {
+        "YORI01": "CONFIRMED",
+        "MASK": "CONFIRMED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [
+        "YORI01",
+        "MASK"
+      ],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "Two bounded acknowledgment-before-participation effects fit. No isolated causal gratitude effect, universal reliability or count of every praise line is established.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-A03",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "ab01af7295958338cf6bc6c84c3ad4c2bf605ad81f9106b4a6852c47b7253a91",
+      "source_local_dispositions": {
+        "YORI01": "AMBIGUOUS",
+        "MASK": "PARTIAL",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {
+        "YORI01": "AMBIGUOUS",
+        "MASK": "PARTIAL"
+      },
+      "untested_sources": [
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "Divine self-legitimation and retaliation/authority functions mix. Keep explicit identity-denial receipt and original repeated-case threshold; no compulsory goddess lexeme.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-A04",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "6555ffaa505bdc1571d9cba64e417f17dde97a15322a7a0c7c0374760ab259f2",
+      "source_local_dispositions": {
+        "YORI01": "NOT_TESTED",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "YORI01",
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "No full mere-paid-repetition/independent-art-standard offer in these four sources. Future model must retain evidence limit rather than claim validated artistic refusal.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-A05",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "c254c098cc8268255c12947b52a09a7f8c9917bae18256e97a58bdb21b9b1885",
+      "source_local_dispositions": {
+        "YORI01": "NOT_TESTED",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "YORI01",
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "No full trusted informed-consent-to-serious-harm conjunction; actual unconsented harm remains character evidence and cannot be treated as confirmation or disconfirmation of a different trigger.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-A06",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "dd8c709eda94f6344283df71eadf04961db11364b9422a179f1dc63f9d3db46e",
+      "source_local_dispositions": {
+        "YORI01": "NOT_TESTED",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "YORI01",
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "Particular attachment reflection exists without a fully current feasible easier separation comparison; no validated automatic loneliness/return rule.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-A07",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "523feeea8bc07be3424307337e71366aa1180382ff9d5a12c8f38cd88bf756a1",
+      "source_local_dispositions": {
+        "YORI01": "NOT_TESTED",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "YORI01",
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "No repeated unchanged-odds chance-loss and fresh-stake sequence certified. One loss or real supernatural luck is not reversal reasoning.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-A08",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "f360fac657568748b29473b2df7ad74002ba2d9e5a342b7347985c78bbabc03a",
+      "source_local_dispositions": {
+        "YORI01": "NOT_TESTED",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "YORI01",
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "Particular possession value without a matched fungible full-repair offer leaves the exact conditional untested; other subjects’ gifts are not proxy tests.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-M01",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "51829b70fbf3987e41cd7296a66155661759f695c90683e53de04e7701ed701b",
+      "source_local_dispositions": {
+        "YORI01": "CONFIRMED",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [
+        "YORI01"
+      ],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "YORI specialty-priority fit retains rank-subtype rival. DUST07 actual rank challenge lacks full art/cost predicates and repeats a known main event; no need completed cast to count an attempt.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-M02",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "e1bd2a414ed10223dfb150acf3997b5c41ff99054e92658e60b37bd76fac7d1e",
+      "source_local_dispositions": {
+        "YORI01": "NOT_TESTED",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "YORI01",
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "No independent self-accepted substantial build burden with a live feasible alternative certified. Third-party criticism and defensive anger do not supply self-acceptance.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-M03",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "a6bdc95c59faf6dff3008685052f6004d4f13a7bc99f32832f56f4fe536f919c",
+      "source_local_dispositions": {
+        "YORI01": "NOT_TESTED",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "YORI01",
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "Power demonstrations and distant blasts lack the complete prior fitted target/friendly geometry/resources/recovery conjunction; Wiz impersonation is the wrong actor.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-M04",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "22b9854d13d61238b56d37104d40e300eb0f3ca2579e63d0db5e3ccc00aff9a4",
+      "source_local_dispositions": {
+        "YORI01": "AMBIGUOUS",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {
+        "YORI01": "AMBIGUOUS"
+      },
+      "untested_sources": [
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "Early Wiz harm candidate is adverse but significant bond uncertain; no completed-act aftermath without a cast. Current validation does not resolve a universal compassion or cruelty rule.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-M05",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "d30b67ce810b88be5409744afd0f3b925a6621aa0dbd308ac6a636cbb488026d",
+      "source_local_dispositions": {
+        "YORI01": "NOT_TESTED",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "YORI01",
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "No full instrumental rewarding-use→independent goal weakening→new available choice sequence. Daily leisure frequency and another caster’s mana collapse do not substitute.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-M06",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "a4c65023fb2aafd0809d6e76a521ff6939e28cc85301000914ceb011e5812eb6",
+      "source_local_dispositions": {
+        "YORI01": "NOT_TESTED",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "YORI01",
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "No full negotiated still-operative intimate boundary with changed step observed; no later relationship state or counterpart desire backprojected.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-M07",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "182e7e3f05eb6455c3a88eda3a39301497c585423e1a434787d20166a39d27fa",
+      "source_local_dispositions": {
+        "YORI01": "NOT_TESTED",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "YORI01",
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "No full received face-saving offer transparently imposing valued-person honesty/dignity cost. Other actors’ cover stories are not a Megumin decision.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-D01",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "b7c9098d8d19204da1ea27875b96e0e01bff75f4a08548f709bffe0ac0c35df1",
+      "source_local_dispositions": {
+        "YORI01": "CONFIRMED",
+        "MASK": "PARTIAL",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [
+        "YORI01"
+      ],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {
+        "MASK": "PARTIAL"
+      },
+      "untested_sources": [
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "Real protection in YORI and context-matched reported intervention in MASK differ in guard completeness; DUST07 cohort departure is dependent and lacks an individual decision interval.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-D02",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "52119015c3a981b4c96d1a9ac5da617708d992da9914ff22cb96d3a1ee8c35c4",
+      "source_local_dispositions": {
+        "YORI01": "PARTIAL",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {
+        "YORI01": "PARTIAL"
+      },
+      "untested_sources": [
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "Prior accusations are not her self-accepted correction; the genuine capability-test alternative remains. Domain willingness, deliberate impracticality and inability differ.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-D03",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "9d32e9a67a32512565856695e4399105a73ef2847651335a41be0c5c7e86f4a0",
+      "source_local_dispositions": {
+        "YORI01": "CONFIRMED",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [
+        "YORI01"
+      ],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "Early unwanted exposure fit and later noble-status welcome have different states; public acts are not automatically exempt and pleasure is not consent.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-D04",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "139faa672a243a49b986740aecb026671e80b910f134073efdc62f8842440d99",
+      "source_local_dispositions": {
+        "YORI01": "NOT_TESTED",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "YORI01",
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "No full family/public burden-appraised-unfair with initial private-sacrifice/shared-remedy interval in these sources; do not infer secret own-cost intent from duty.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-D05",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "1de022ecd9aee75aa418e3dd6e26804c4af997779c2388b442faf5be6aaa71f9",
+      "source_local_dispositions": {
+        "YORI01": "NOT_TESTED",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "YORI01",
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "No full independently chosen experience with a specifically unwanted new condition; masochism stereotype supplies neither consent nor the changed-boundary guard.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-D06",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "7fc773689638cd82b6b6eea16900e2bec51e2b2eb5260f5f06fb310d29d4321f",
+      "source_local_dispositions": {
+        "YORI01": "CONFIRMED",
+        "MASK": "PARTIAL",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [
+        "YORI01"
+      ],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {
+        "MASK": "PARTIAL"
+      },
+      "untested_sources": [
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "Actual contacts/mediation and reported civic skill are unevenly observed. Retain available actual domain means and attempts without requiring success or inventing expertise.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-D07",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "1bfce8c93fe2f7df886940b7381196eebe9d2c2745751584b08a9ccb03281bf7",
+      "source_local_dispositions": {
+        "YORI01": "NOT_TESTED",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "YORI01",
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "No complete serious admission/honest answer plus separately perceived subsequent ridicule. Two directional branches remain untested, no relationship summary substitutes.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-D08",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "74a1ce0957c5dc43d58dbfbcc9b493f2700c235bd5661e7fde114af7fce2e4ad",
+      "source_local_dispositions": {
+        "YORI01": "PARTIAL",
+        "MASK": "NOT_TESTED",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "NOT_TESTED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {
+        "YORI01": "PARTIAL"
+      },
+      "untested_sources": [
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "Safety/encouragement components remain partial, with precedent salience and actual addressees limited; no guarantee from armor or prior survival.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-E01",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "9b977f8d8360998c5fd6c500127b5e4900ca6238616c56b8d7b6dba7cbe3d4bb",
+      "source_local_dispositions": {
+        "YORI01": "CONFIRMED",
+        "MASK": "CONFIRMED",
+        "DUST06": "AMBIGUOUS",
+        "DUST07": "CONFIRMED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [
+        "YORI01",
+        "MASK",
+        "DUST07"
+      ],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {
+        "DUST06": "AMBIGUOUS"
+      },
+      "untested_sources": [],
+      "cross_source_diagnosis_and_StageD_question": "Several local accepted fitted handoffs work, but DUST06 prior worm-rescue nonattempt remains a genuine adverse reading with unresolved original role/geometry guards; no whole-campaign or mandatory-quartet conclusion.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-E02",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "dd4cfb4fedeed2d89967c61eb678b98317ad6e727d5e8018bb1cac4aa137e48b",
+      "source_local_dispositions": {
+        "YORI01": "NOT_TESTED",
+        "MASK": "PARTIAL",
+        "DUST06": "NOT_TESTED",
+        "DUST07": "CONFIRMED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [
+        "DUST07"
+      ],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {
+        "MASK": "PARTIAL"
+      },
+      "untested_sources": [
+        "YORI01",
+        "DUST06"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "DUST07 bounded live-task hidden-work miscredit forces explicit correction. XP gaming may align training; original synthetic adverse/rival and actor-level opposite/corrective credit remain. No global rule or accuracy from one fit.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-E03",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "57c9fceea66cdf3c502dd3bd85c9e15c27d377e4459cd527e3017a055dbc88df",
+      "source_local_dispositions": {
+        "YORI01": "PARTIAL",
+        "MASK": "CONFIRMED",
+        "DUST06": "CONFIRMED",
+        "DUST07": "CONFIRMED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {
+        "YORI01": "PARTIAL"
+      },
+      "untested_sources": [],
+      "cross_source_diagnosis_and_StageD_question": "Concrete dependency-directed requests/interventions recur; a correct trace of a stalled problem alone is not support. DUST07 Wiz mana aftercare remains unshown and potentially adverse under a full success/opportunity interpretation.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-E04",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "ce8e674ae60bc5e707ac41c4151df040ed40e92a00cddcbed842a161c809aa28",
+      "source_local_dispositions": {
+        "YORI01": "NOT_TESTED",
+        "MASK": "CONFIRMED",
+        "DUST06": "CONFIRMED",
+        "DUST07": "CONFIRMED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [
+        "YORI01"
+      ],
+      "cross_source_diagnosis_and_StageD_question": "Specific-company cost and easier alternative are shown in bounded historical/current escape decisions. Actual voluntary departures, staff substitution and enemy replacement ambiguity defeat any unconditional reunion law.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-E05",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "3a766d1a5f47f894d8470ba7fe74dfc157c15b42be645d45179c4c6148e39c7f",
+      "source_local_dispositions": {
+        "YORI01": "PARTIAL",
+        "MASK": "CONFIRMED",
+        "DUST06": "CONFIRMED",
+        "DUST07": "CONFIRMED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {
+        "YORI01": "PARTIAL"
+      },
+      "untested_sources": [],
+      "cross_source_diagnosis_and_StageD_question": "Real withheld-plan questions fit; robust correct inference/common action could be a behavioral opposite under full guards. Do not credit bookkeeping, mindreading or require every private premise spoken.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-E06",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "2695005adb076a77dce11a1932e46e683a07e9d03722bb6ebf147b331ffcf103",
+      "source_local_dispositions": {
+        "YORI01": "CONFIRMED",
+        "MASK": "PARTIAL",
+        "DUST06": "AMBIGUOUS",
+        "DUST07": "FALSIFIED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [
+        "YORI01"
+      ],
+      "adverse_source_effects": [
+        "DUST07"
+      ],
+      "partial_or_ambiguous_sources": {
+        "MASK": "PARTIAL",
+        "DUST06": "AMBIGUOUS"
+      },
+      "untested_sources": [],
+      "cross_source_diagnosis_and_StageD_question": "DUST07 renewed post-information still-unwanted quiet is a local full opposite at MODERATE functional confidence; earlier/later objections and coherent-occasion/history rival remain. DUST06/MASK quiet-yield uncertainties also remain; frozen protective-goal exception cannot be invented.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-E07",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "940d61417cde251b57fb930df21ad4ce04460dccd4a7d909a3c3ce15c4da70c9",
+      "source_local_dispositions": {
+        "YORI01": "CONFIRMED",
+        "MASK": "CONFIRMED",
+        "DUST06": "CONFIRMED",
+        "DUST07": "CONFIRMED"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [
+        "YORI01",
+        "MASK",
+        "DUST06",
+        "DUST07"
+      ],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {},
+      "untested_sources": [],
+      "cross_source_diagnosis_and_StageD_question": "Accepted finite outside phases recur without a compulsory Kazuma organizer; ownership, permission, price, availability and physical compatibility remain actual constraints. Local substitution is not total party/campaign replacement.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    },
+    {
+      "contract_id": "R1-E08",
+      "exact_type": "BEHAVIORAL_COMMITMENT",
+      "literal_contract_utf8_sha256": "f8ab22e7593333fae7fa1bcdbbbd9a2ede7a96214a66484823c3a2dd508060e7",
+      "source_local_dispositions": {
+        "YORI01": "PARTIAL",
+        "MASK": "CONFIRMED",
+        "DUST06": "PARTIAL",
+        "DUST07": "PARTIAL"
+      },
+      "source_register_route": {
+        "YORI01": "YORI01_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "MASK": "MASK_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST06": "DUST06_ACCEPTED_ADJUDICATIONS.json; exact contract_id",
+        "DUST07": "DUST07 root candidate v2; exact contract_id; not accepted yet"
+      },
+      "positive_source_effects": [
+        "MASK"
+      ],
+      "adverse_source_effects": [],
+      "partial_or_ambiguous_sources": {
+        "YORI01": "PARTIAL",
+        "DUST06": "PARTIAL",
+        "DUST07": "PARTIAL"
+      },
+      "untested_sources": [],
+      "cross_source_diagnosis_and_StageD_question": "Some royal reassurance/commitment/correction fit with dissent; later sources mostly partial same-actor/timing compounds. No cross-scene splice, compulsory explicit guarantee or safety inference from survival.",
+      "not_independent_trials_or_aggregate_accuracy": true,
+      "frozen_model_revision": "NONE; any later change must be separately versioned after full expanded evidence admission"
+    }
+  ],
+  "descriptive_source_counts_NOT_accuracy": {
+    "YORI01": {
+      "CONFIRMED": 13,
+      "PARTIAL": 7,
+      "NOT_TESTED": 16,
+      "FALSIFIED": 1,
+      "AMBIGUOUS": 2
+    },
+    "MASK": {
+      "CONFIRMED": 8,
+      "NOT_TESTED": 22,
+      "PARTIAL": 9
+    },
+    "DUST06": {
+      "NOT_TESTED": 32,
+      "AMBIGUOUS": 2,
+      "CONFIRMED": 4,
+      "PARTIAL": 1
+    },
+    "DUST07": {
+      "NOT_TESTED": 31,
+      "CONFIRMED": 6,
+      "FALSIFIED": 1,
+      "PARTIAL": 1
+    }
+  },
+  "all_four_untested_contracts": [
+    "R1-K06",
+    "R1-A04",
+    "R1-A05",
+    "R1-A06",
+    "R1-A07",
+    "R1-A08",
+    "R1-M02",
+    "R1-M03",
+    "R1-M05",
+    "R1-M06",
+    "R1-M07",
+    "R1-D04",
+    "R1-D05",
+    "R1-D07"
+  ],
+  "consequential_local_failures": [
+    "YORI01:R1-K08 direct civil-surface opposite",
+    "DUST07:R1-E06 renewed post-information quiet; candidate pending bounded acceptance"
+  ],
+  "four_T_controls": {
+    "state": "SOURCE_NA_GENERATED_RESPONSE_ONLY",
+    "count_per_source": 4,
+    "no_new_generated_responses_or_replay": true,
+    "no_source_support_count": true
+  },
+  "core_findings": [
+    "Practical care, limited competence and local complementary action survive several supplied contexts without proving moral purity, universal success or a sole coordinator.",
+    "Status pressure need not use a civil surface; the original K08 forecast has an actual local failure.",
+    "A recipient may consciously endure an unwanted familiar act to protect a valued third party; typed no-consent accuracy is not behavioral objection.",
+    "Particular attachment can motivate costly contact/protection and still coexist with actual departures and changing bonds.",
+    "Outside providers remain finite independent agents; coercion, payment, body compatibility and known resource depletion constrain real use.",
+    "New Dust viewpoint changes the interpretation of the sword loan without changing Kazuma’s contemporaneous information or silently rewriting a main-only source/model."
+  ],
+  "validity_limits": [
+    "Source-specific semantic opportunities, not156 independent unknown trials or a numerical accuracy experiment. All later cards are outcome-aware after complete source reading.",
+    "Model/source/main-memory and previous holdout histories are shared; separate initial seals prevent current-source annotation exchange before first assessment, not universal blindness, unknown-pretraining absence or independent human/native coding.",
+    "Source and in-world chronology differ. Early relationships/skills/privacy agreements are not borrowed from later states. Known MAIN15/16/17 retellings are dependent, and DUST07 named31 formal scope retains all actual local component/adverse surfaces.",
+    "The four designated principal programs have full actual reading histories; entire editions, bonus/afterword/image components and full StageC literary responsibilities are still pending.",
+    "Main baseline inherited accepted-source-reading limits remain in its freeze; this validation is not a claim to have freshly reread all17 main novels or repaired those limits.",
+    "No new altered-world simulation or typed4T source experiment performed; original suite responses/settings/criteria stay historical."
+  ],
+  "StageD_control": "Preserve R1 and all score registers unchanged. After expanded literary/component analysis, version attributable current-model updates with old/new claim, evidence/counterevidence, predictive effect and uncertainty. Do not revise the baseline to hide a failure.",
+  "next_gate": "This actual semantic acceptance does not close publication. Complete canonical assembly, final preflight/nonforce push/readback/source audit/housekeeping/final exact-source status before any StageC narrative admission.",
+  "predecessor": {
+    "name": "FOUR_BOOK_UNCHANGED_R1_RECONCILIATION_CANDIDATE.json",
+    "bytes": 58607,
+    "sha256": "9a3f8472d93440b900e99d2574ffa2945444d242821e02a9d9116e3510e51660"
+  },
+  "current_source_route_alias_qualification": "Every row source_register_route.DUST07 literal \"DUST07 root candidate v2; exact contract_id; not accepted yet\" is the historical identical-disposition v2 drafting basis. The current concrete source candidate is exactly identified by fourth_concrete_candidate (root v3 SHAa6114bf1036973925d0c3f7ab1ef34689ad1a1bd2a0a8d78cf6223378f1e3ac0), which governs current proposal wording. All39 source scores and cross-source diagnoses are byte-identical across that pin-only successor. This reconciliation is still a candidate; actual root acceptance and publication must be recorded separately, and later current accepted-register route/UTC must supersede candidate lifecycle without rewriting these historical aliases.",
+  "predecessor_v2_pin": {
+    "name": "FOUR_BOOK_UNCHANGED_R1_RECONCILIATION_CANDIDATE.json",
+    "bytes": 58800,
+    "sha256": "5836de5ebde00d0e92f85423f0084c159f73a2bc81bfb5bb27591a518187db20"
+  },
+  "actual_accepted_utc": "2026-10-17T21:16:29.555881+00:00",
+  "accepted_reviewed_candidate": {
+    "name": "FOUR_BOOK_UNCHANGED_R1_RECONCILIATION_CANDIDATE.json",
+    "bytes": 59762,
+    "sha256": "7271c4867486f1ac7faee4602657a01e69ae972159d88577699fbefac87489d2"
+  },
+  "current_accepted_DUST07_register": {
+    "canonical_path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_ACCEPTED_ADJUDICATIONS.json",
+    "name": "ROOT_ACCEPTED_DUST07_ALL39_SOURCE_LOCAL_VALIDATION.json",
+    "bytes": 276665,
+    "sha256": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+  },
+  "current_alias_resolution": "Historical candidatev2 aliases remain explicitly historical as qualified; current accepted DUST07 register above now binds all39 identical reviewed judgments and actual UTC. The old candidate status/pin/route text is original drafting history, not a live acceptance blocker."
+}

@@ -1,0 +1,102 @@
+{
+  "schema": "KONOSUBA_MAIN_EXCLUDED_DERIVATIVE_CANDIDATE_MANIFEST_V1",
+  "source_id": "MAIN-04",
+  "created_utc": "2026-10-19T08:38:07.954302+00:00",
+  "baseline_commit": "910badd95227b2a105ec9ba89ca74129434ebaf0",
+  "canonical_directory": "series/konosuba/10 Expanded Corpus/Main Edition Components",
+  "files_excluding_this_manifest": [
+    {
+      "name": "KONOSUBA_MAIN_V04_EXCLUDED_COMPONENT_REGISTER.json",
+      "bytes": 115138,
+      "sha256": "0378a7648acf9b1caa4a061cc2c9cc8bb7979d2ca2161ab5f2a6d96d1da579a3"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V04_EXCLUDED_DEEP_READING.md",
+      "bytes": 20431,
+      "sha256": "607c96eb81023f975e64108226ec25a5c8119459ff6bbb6b9dc4f49a619075ae"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V04_EXCLUDED_HUMOR_REGISTER.json",
+      "bytes": 19072,
+      "sha256": "761a203756948c1ef883879fb9c21c2a946fcce81417e4859b3f351c971a7503"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V04_EXCLUDED_VOICE_REGISTER.json",
+      "bytes": 41783,
+      "sha256": "c8cfd665cf0cb64f1e54d7486e244ad9fb97d819cd44c7ff4bc72cdc4162f6dd"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V04_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+      "bytes": 45570,
+      "sha256": "95b04881cd73c472a4e38a38dfb999cdb37e947ba1b0cae8ee6d34ff72841cba"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V04_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 8739,
+      "sha256": "50f7652cc9435fe572dddd04abca2f1428d20eee27f1d69159d4ff73d3da83df"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V04_EXCLUDED_LEDGER_APPEND_DECISIONS.json",
+      "bytes": 11458,
+      "sha256": "712e256722ae62b425801b073e22379623778cfad48111b670e66bb50c727194"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V04_EXCLUDED_INITIAL_AUTHOR_UNCODED_SEAL.json",
+      "bytes": 22569,
+      "sha256": "bc8664eee1eae39b251628e69e0564c16e88e5752bbfa6a29a9c59affcc968b1"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V04_EXCLUDED_ORIGINAL_UNCODED_TEXT_NOTES.jsonl",
+      "bytes": 24879,
+      "sha256": "e89a6a7f78dee2144141c58ece1749311efce42e4f54367e55d9126736e58c32"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V04_EXCLUDED_ORIGINAL_UNCODED_IMAGE_NOTES.jsonl",
+      "bytes": 21692,
+      "sha256": "2fd2cacbb590c4eb3a1efef770b6e0c63ad5eac67e5ecfcaa15f401952fb62d1"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V04_EXCLUDED_ROOT_PRE_BODY_PREPARATION_VIEW.json",
+      "bytes": 182962,
+      "sha256": "df36b75e7da030bbdb5d72460f2a86e5f81cc636ea39c6c6b44a5a0c04bcc02c"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V04_EXCLUDED_COMPONENT_ANALYSIS.md",
+      "bytes": 14303,
+      "sha256": "87b4bc431c5046d019e0cf31187d5ab86249abcf04f3663127d00d07927e4b16"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V04_EXCLUDED_HUMOR_REGISTER.md",
+      "bytes": 7842,
+      "sha256": "e39e4341729f006900b35462afd276b8ad2c65c36f1fe9febe1a143442397cc4"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V04_EXCLUDED_VOICE_REGISTER.md",
+      "bytes": 16486,
+      "sha256": "e5b2e6363246512a85a29761da0fcb2348a71c74fcb5b8694baf754287cecb5e"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V04_EXCLUDED_SOURCE_AND_READING_RECEIPT.json",
+      "bytes": 3478,
+      "sha256": "8b756b7e2d9820c1c6c8e644e8b5d75eb1961c587a355dccce30074a1a6b16a6"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V04_EXCLUDED_RECEIVING_AND_PROVENANCE.json",
+      "bytes": 23338,
+      "sha256": "3be86a56478bc5c0da04875c272de17bab9b40c752636df357b182a805f4485c"
+    }
+  ],
+  "native_EPUB_images_and_full_source_text_not_published": true,
+  "source_first_notes_and_uncoded_seal_published_exact": true,
+  "preparation_public_view_is_explicitly_redacted": true,
+  "frozen_controls_exact": true,
+  "new_principal_reading_credit": 0,
+  "mechanical_report_representation_qualification": {
+    "recorded_utc": "2026-10-19T08:43:01.274319+00:00",
+    "reason": "Exact-index diff-check rejected CRLF as trailing whitespace; normalize report byte representation to repository LF",
+    "before_report_sha256": "96653f269195ba842ae7682a34ccdb3fd61b9661af41b18dab38134fc9f69900",
+    "after_report_sha256": "607c96eb81023f975e64108226ec25a5c8119459ff6bbb6b9dc4f49a619075ae",
+    "normalized_lines_equal": true,
+    "semantic_text_source_notes_assessments_and_ledger_prefixes_changed": false
+  }
+}

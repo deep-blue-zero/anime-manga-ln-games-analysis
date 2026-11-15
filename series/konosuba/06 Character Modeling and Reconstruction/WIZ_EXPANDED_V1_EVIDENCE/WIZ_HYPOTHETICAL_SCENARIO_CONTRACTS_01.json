@@ -1,0 +1,94 @@
+{
+  "schema": "KONOSUBA_WIZ_FIXED_HYPOTHETICAL_CONTRASTS_V1",
+  "scope": "Same informed author, all supplied main/supplemental histories already exposed; inputs fixed before these first responses. No blind source holdout, independent model/reviewer, accuracy denominator or confidence gain.",
+  "output_instructions": "Write one brief Wiz action/utterance and a separate outcome boundary. English is a functional rendering, not canonical Japanese or audio. Use only supplied facts, established familiar capacities and ownership. Keep all unprovided counterpart replies unknown; proposals, permissions, actual transfers and completed outcomes remain distinct.",
+  "pairs": [
+    {
+      "id": "WZ-H01",
+      "contrast": "The admitted victim's role changes; a prior neutrality condition is otherwise identical.",
+      "rules": [
+        "WZ-D01",
+        "WZ-D06"
+      ],
+      "cases": [
+        {
+          "id": "WZ-H01A",
+          "mode": "canonical_comic",
+          "input": "A familiar former enemy colleague meets Wiz at a quiet checkpoint. Their prior agreement, expressly recalled before this encounter, is noninterference provided he does not kill humans outside combat roles. He now clearly admits killing an unarmed civilian caretaker uninvolved in fighting. No immediate attack is underway, no private excuse or other victim is supplied, and the death is his admission rather than a separately witnessed act. He asks her to greet him as usual and leave the matter alone."
+        },
+        {
+          "id": "WZ-H01B",
+          "mode": "canonical_comic",
+          "input": "The same familiar colleague, quiet checkpoint and prior noninterference condition apply. He instead admits killing an armed adventurer who was actively fighting him in a mutual battle. No uninvolved civilian victim or continuing attack is supplied; the account remains his admission rather than a separately witnessed act. He asks her to greet him as usual and leave the matter alone."
+        }
+      ]
+    },
+    {
+      "id": "WZ-H02",
+      "contrast": "Only an explicit working-cash constraint and known missing demand evidence are added. This probes local accounting without guaranteeing a general cure.",
+      "rules": [
+        "WZ-D04",
+        "WZ-D03"
+      ],
+      "cases": [
+        {
+          "id": "WZ-H02A",
+          "mode": "realistic_transfer",
+          "input": "Wiz runs a small shop in a realistic setting with no magic. A verified maker demonstrates a reliable self-warming cup. Wiz knows the advertised function is real and imagines how useful it would be to outdoor workers. The maker offers a large stock order. No customer budget, actual demand, alternatives, cash ledger or delivery outcome has been supplied; she has not promised an order."
+        },
+        {
+          "id": "WZ-H02B",
+          "mode": "realistic_transfer",
+          "input": "The same reliable cup, appealing outdoor-worker use and large-stock offer apply. Wiz now has an explicit ledger showing the proposed order would consume money already required for tomorrow's rent and ordinary stock. She has attended to that explanation. No actual customer demand has been shown; no order has been promised and delivery remains unknown. She can ask about a small sample, whose availability and price have not been answered."
+        }
+      ]
+    },
+    {
+      "id": "WZ-H03",
+      "contrast": "Only paid absence duration changes, so a short break must not be treated as permanent loss of shared work.",
+      "rules": [
+        "WZ-D05",
+        "WZ-D07"
+      ],
+      "cases": [
+        {
+          "id": "WZ-H03A",
+          "mode": "canonical_comic",
+          "input": "A sponsor offers Wiz a generous fixed payment if she stays away from her own shop for ten years while Vanir works there. Vanir has offered to cover that period, but Wiz has not agreed. Wiz values their current shared work and hopes old companions may return there; no guaranteed reunion, romance or later job outcome is supplied. She is free to decline the sponsor's offer."
+        },
+        {
+          "id": "WZ-H03B",
+          "mode": "canonical_comic",
+          "input": "The same sponsor offers the same generous fixed payment, and Vanir has offered to cover the shop, but Wiz need stay away for only one afternoon and may return afterward. She has not agreed. The same value for shared work and hoped-for visiting companions apply; no guaranteed reunion, romance or later job outcome is supplied. She is free to decline or negotiate a return time."
+        }
+      ]
+    },
+    {
+      "id": "WZ-H04",
+      "contrast": "Stipulated compatible casting supply and its permission are jointly changed; this is a resource-state contrast, not an isolated causal experiment.",
+      "rules": [
+        "WZ-D02",
+        "WZ-D03"
+      ],
+      "cases": [
+        {
+          "id": "WZ-H04A",
+          "mode": "canonical_comic",
+          "input": "A small poisoned sluice segment could be frozen by a familiar Wiz spell, but the required cast exceeds her known remaining mana. A safe temporary withdrawal is possible. A potentially compatible adult donor is nearby but has not been asked, agreed or transferred anything. No new spell, life-force permission, instant replenishment or other provider is supplied. A companion asks Wiz to freeze it now."
+        },
+        {
+          "id": "WZ-H04B",
+          "mode": "canonical_comic",
+          "input": "The same small sluice segment and familiar spell apply. A compatible adult donor freely agreed to supply exactly one cast, and that specified mana transfer has actually completed. Wiz now has enough for that one narrow cast; no further supply or life-force permission exists. A safe withdrawal remains possible, and a companion asks her to freeze it now. Wider decontamination and the companion's later response are unknown."
+        }
+      ]
+    }
+  ],
+  "outputs_expected": 8,
+  "pairs_count": 4,
+  "score": null,
+  "independent_validation_credit": 0,
+  "source_validation_credit": 0,
+  "fixed_utc": "2026-10-19T22:57:16.254736+00:00",
+  "prose_seal_sha256": "96ecda63141f1d628f073e2d4c6add051aefaa3dd85b5220a7379b72e8243510"
+}

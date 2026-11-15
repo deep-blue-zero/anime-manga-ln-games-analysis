@@ -4,14 +4,14 @@ artifact_id: WATAYURI_CAST_AND_RECONSTRUCTION_READINESS
 artifact_type: character_readiness_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.8"
+version: "0.15"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V07 mainline through V07 Shift 36/i150, also latest depicted present; packaged shorts separately bounded; V08–V14 inventory only"
+source_boundary: "Japanese V01–V14 mainline through V14 Shift 71/i156 including the later photograph-board coda; packaged shorts separately bounded; V09 one-shot separate continuity; V10-B inventory only; later sources not admitted"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CAST_AND_RECONSTRUCTION_READINESS.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CAST_AND_RECONS
 
 **Update and revision rule.** Add a subject only after direct source identification. Reassess gates at meaningful volume checkpoints with cited evidence and separate abstain/defer outcomes; preserve prior time-indexed readiness and link any subsequently created canonical artifact. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V07 mainline through V07 Shift 36/i150, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1 and 36.2 remain separately bounded; V04 EX is promotional. V01–V06 sections retain their earlier states; dated V07 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V14 mainline through V14 Shift 71/i156, including the later photograph-board coda, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5, 46.5, 51.5, 56.5, 61.5, 66.5 and 71.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. All V01–V13 bodies retain their historical states; dated V14 additions carry the current source-branch account under the preserved V10 claim-lineage erratum. Main acceptance and run completion remain separately governed. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -508,3 +508,551 @@ The checkpoint therefore preserves **eight established identities**, adds **two 
 #### Architecture review
 
 The existing nine responsibilities remain adequate. The new material especially stresses three already governed distinctions: holder-specific information, stage-specific repair, and reader presentation versus event chronology. No new empty ledger or parallel “romance ontology” is needed. A later bounded HM synthesis could compare V02 repair, V06 reciprocal-care repair and V07 explicit refusal, but would need a distinct question beyond restating this sequence. The unresolved endpoint does not prohibit serious bounded synthesis; it prohibits presenting future viability as already established.
+
+
+<a id="v08"></a>
+## V08 — Current additions and transitions — 2026-10-08
+
+**V08 evidence key:** source-map key `V08`, Japanese witness `1bP7VtpkHkHaxxZiJ_O1Eae723HmX3JQ1`, SHA-256 `345c8e407a32a9453299ae564e50dd844d96a8d79623da3027f440b7de54cf1b`. The [frozen V08 reading](../02%20Sequential%20Readings/WATAYURI_V08_DEEP_READING.md#readiness) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V08; WY1–WY7 identities retain their earlier meanings. Mainline and latest depicted present both end at Shift 41/i158. Shift 41.5/i160–161 is a post-return clothing supplement with finer chronology OPEN. Afterword/edition matter i162–167 and bonus waking skit i168 do not advance the mainline endpoint. The receiving correction to i109 is incorporated throughout; original prior-volume findings remain intact.
+
+**Local identities and discovery boundary:** retain ten local subject IDs without new enrollment or model promotion. The seven current curator-owned discovery subjects and their separately enrolled V01–V04/V07 analytical or identity scopes remain untouched. Earlier ledger descriptions of discovery state remain historical.
+
+### Cast and reconstruction-readiness checkpoint
+
+Retain the **ten existing local subject IDs**. V08 introduces no new subject that requires enrollment. These are local scope assessments, not changes to the global character registry, A–E capability grades or authorization for cross-series simulation.
+
+A bounded monograph, an evidence ledger and an operational model have different responsibilities. V08 materially improves some models’ explanatory coverage, but no artifact is created or promoted merely because this reading is long or because a forecast receives one successful test. Separate commissioning, source reconciliation and any required validation remain necessary.
+
+#### WY1-CAST-HIME — Shiraki Hime / café Shirasagi Hime
+
+**Evidence gain.** The volume supplies a particularly useful separation among public future assurances, private wishes, a strategic total denial, a vulnerable admission and a practical limits list. Hime is not merely “someone who lies to be liked.” She can lie to avoid causing pain, to protect herself against anticipated hatred, to complete a public obligation or to avoid an embarrassing direct boundary. Those purposes can overlap. Her later honesty is also plural: it includes wanting to stay, not wanting romance and wanting only certain forms of contact. [O04–O06/O12–O15/O20/O25–O27.]
+
+**State-conditioned reconstruction.** Under threatened loss of a valued person’s regard, she may choose a distancing explanation that makes her own care less visible. When that explanation is challenged with particular evidence and the other person acknowledges the cost of the relation, she can disclose the wish she was concealing. In a new bodily or privacy context, she may first use scheduling or reassurance to avoid saying no; with a less threatening opening, she can state differentiated limits and demonstrate a form of contact she accepts. These are explanatory rules for this source range, not universal predictions that every objection conceals a yes. The romantic refusal remains a negative constraint on the model. [i077–102, i122–157.]
+
+**Everyday evidence.** Enjoyment of the trip, attractive accommodation and practical conveniences complements the existing evidence about comfort and material appeal. The clothing short adds recognition of another person’s tastes rather than a new complete wardrobe preference for Hime herself. Preparation, room logistics, the brief hand-contact exchange and photograph review supply everyday behavior beyond crisis dialogue. No favorite food, complete leisure schedule or domestic routine is invented. [i103–113, i158; S41.5/i160–161.]
+
+**Gates.** Dedicated cumulative evidence retrieval is justified. A bounded V01–V08 monograph is a legitimate separately commissioned candidate, with the explicit refusal, subsequent sister agreement and original-lie history all retained. An operational model still needs independent tests of protective withdrawal, informed response to Kanoko’s old project and conduct under newly disclosed or unfamiliar conditions. Portability remains deferred: outside these school/work/attachment settings, extrapolation would require declared assumptions and an abstention range.
+
+#### WY1-CAST-MITSUKI — Yano Mitsuki / café Ayanokōji Mitsuki
+
+**Evidence gain.** Mitsuki’s conduct now includes expected rejection, devastation at departure, difficulty understanding what to do, a memory-based revision, recognition of another’s sincere care, continuing romantic desire, restraint of one desired act, refusal of a posed embrace and participation in a concrete limits conversation. The model must preserve these different capacities rather than choose between “rigid and insensitive” and “always privately protective.” [O01/O07/O09/O10/O13–O15/O19/O23–O27.]
+
+**State-conditioned reconstruction.** When she thinks another person has clearly chosen to leave, she may initially treat further pursuit as an imposition even while wanting continued proximity. A specific reminder of that person’s actions can make a different question available. She is stronger at responding to concrete information than at safely inferring every unstated comfort rule, but the bath scene prevents this from becoming an excuse to ignore visible distress. Her explicit desire to have a shared rule should be modeled together with the need to pause when the other participant withdraws. [i050–066, i084–102, i140–157.]
+
+**Everyday evidence.** The source retains practical attention to work and room arrangements, a brief contact-and-apology exchange, an ordinary clothing preference and pleasure at its recognition. These details improve the model of someone who exists outside confrontations. They do not establish acoustic delivery or imply that decorative clothing has one fixed psychological meaning. [i109–113; S41.5/i160–161.]
+
+**Gates.** A bounded monograph and a dedicated time-indexed evidence ledger are justified candidates, not automatically promoted documents. The new **WY8-PR01** is a genuine next behavioral test rather than an already passed universal capability claim. Mature operational and cross-series use remain deferred until repeated boundary handling, contradictory cases and context dependence are examined. The model may not infer that a romantic no is secretly false merely because Mitsuki correctly challenges a different lie in this volume.
+
+#### WY1-CAST-KANOKO — Mamiya Kanoko / café Amamiya Kanoko
+
+**Evidence gain.** Kanoko explicitly locates some enjoyment in Liebe itself rather than only in access to Hime. She asks for a supportive birthday intervention and also returns to physical pressure against Mitsuki. She can understand something important about Hime while overstating another person’s responsibility. Her bath companionship remains shaped by concealment of her own desire, and the closing photographs add a new interpersonal expression without explaining its category. [O03/O09/O20/O21/O28.]
+
+**State-conditioned reconstruction.** Concern about losing the Hime associated with Liebe can motivate useful initiative, help-seeking and a more independent account of belonging. Under acute frustration at another person’s inaction, the same concern can produce accusatory or coercive intervention. The V07 apology must therefore be retained as a specific repaired act, not generalized into a permanent end to force or discarded as meaningless. The model needs both learning and recurrence. [i018–025, i055–060.]
+
+**Everyday and relational gaps.** The trip gives shared activity outside the usual café shift, but much of Kanoko’s attention remains relationship-centered. The clothing/breakfast bonus offers only a small undated comic behavior sample. Her actual response to an informed Hime learning the earlier control project remains unavailable. The café smile does not authorize a switch in the model’s established romantic target. [i125–136, i158, EP/i168.]
+
+**Gates.** A cumulative evidence ledger and a bounded character monograph can now support a substantial state-sensitive account, provided the undisclosed project, actual harms and current development all remain visible. Operational validation and crossover portability stay deferred. Forecasts requiring a specific new control demand or Hime’s informed response remain open rather than being satisfied by adjacent supportive behavior.
+
+#### WY1-CAST-SUMIKA — Chibana Sumika / café Tachibana Sumika
+
+**Evidence gain.** Sumika performs competent scene management, implements Kanoko’s request, celebrates her personally and produces photographs grounded in an actual reading habit. She also makes a bodily comment that Mai corrects. The coda gives a new moment in which something about Kanoko’s expression becomes salient to her. Useful care, imperfect conduct and incomplete self-knowledge can coexist. [O02/O03/O18/O22/O28.]
+
+**State-conditioned reconstruction.** She can use the café’s script to protect a distressed coworker without exposing private information, and she can translate a friend’s request into a socially effective scene. That interpretive skill is not universal access to everyone’s motives. Her surprise at a photograph is valuable partly because it leaves open whether she understood the personal significance of the interaction while arranging it. [i016, i018–025, i114–116, i158.]
+
+**Gates.** A bounded monograph and dedicated evidence retrieval remain justified candidates. A reconstruction should not leap from demonstrated mediation skill to assumed benevolence of every intervention, nor from the final smile to a settled romantic self-model. The original test about responding to a renewed request for attachment control is still open. Portability remains separately deferred.
+
+#### WY1-CAST-MAI — Koshiba Mai / café Mikoshiba Mai
+
+V08 adds concrete managerial choices: an alternative work position, a return question, participation in a pressured further discussion, acceptance of a refused pose, a correction of a bodily comment and later attention to photographs. These provide a richer procedural account than a single “manipulative” or “benevolent” label. The source supports both preservation of the café’s social arrangement and moments when production yields to a participant’s limit. [i008–011, i045, i069–076, i118–119, i137–139, i158.]
+
+Earlier recovery deception remains established and is not absolved by these improvements. Hime’s return is not explicit forgiveness. A focused institutional or managerial evidence dossier has a clear retrieval purpose; a bounded monograph remains a possible separate project, with ordinary life and private motives still undercovered. No operational model or cross-series authority is promoted.
+
+#### WY3-CAST-NENE — Nishidera Nene / former café Saionji Nene
+
+Nene participates in the group trip and its ordinary shared environment. This is useful continuation evidence: she is present as a worker and companion rather than only a witness to former romance. It does not provide new testimony resolving Goeidō’s motives or every element of the earlier café history. Her existing V04-scoped global discovery record remains the curator’s responsibility; V08 does not automatically expand it.
+
+Retain her previously justified bounded-analysis/evidence candidates and their separate gates. Do not create a new identity for ordinary-name, kitchen-role and former-salon-name appearances. The next material need remains a broader range of her own choices and self-accounts, not more inference from background participation.
+
+#### Four retained sparse subjects
+
+**WY4-CAST-GOEIDO, WY6-CAST-MITSUKI-FATHER, WY7-CAST-NAGISA and WY7-CAST-TANABE** receive no substantial new behavioral evidence in this volume. Retain their existing identities, source boundaries and sparse status. No new whereabouts, relationships, motive resolutions or off-page advice are inferred from their absence. Evidence-ledger expansion, operational modeling, monographs and portability remain deferred on their existing grounds.
+
+#### Architecture review
+
+The nine existing responsibilities still capture the volume’s material changes. The contact-specific agreement is a strong agency/information/relationship development, not a reason to create an empty new “consent ledger” that duplicates those homes. The photograph coda can be routed through visual form, information and SK relation until recurrence gives it an independent specialist purpose. A bounded V01–V08 HM synthesis is now a reasonable separately commissioned candidate because it could integrate formation, harm, repair, explicit refusal and chosen continuation. This reading does not create that synthesis or treat sequential progress as proof of full-series maturity.
+
+
+<a id="v09"></a>
+## V09 — Current additions and transitions — 2026-10-10
+
+**V09 evidence key:** source-map key `V09`, Japanese witness `1ul9LBhBmBD31tMYQZG5vHs17KLlDwjrK`, SHA-256 `598985a717491a8df61d8919884e49a828fa6422ef78a925f534ec1faac491d4`. The [frozen V09 reading](../02%20Sequential%20Readings/WATAYURI_V09_DEEP_READING.md#readiness) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V09; WY1–WY8 identities retain their earlier meanings. Mainline and latest depicted present both end at Shift 46/i134. Shift 46.5/i136–143 has finer chronology OPEN. Afterword/credits i144–146, separate one-shot i147–162 with closing page i163, and edition/bonus matter i164–168 do not advance the mainline endpoint. The one-shot’s characters remain outside Watayuri continuity. Accepted V06 and V08 corrections and all earlier frozen states remain intact.
+
+**Local identities and discovery boundary:** retain ten earlier local subjects, add sparse WY9-CAST-HARUKO and add ordinary-name alias 後藤葉子 to existing WY4-CAST-GOEIDO. Eleven local subjects do not imply new global discovery enrollment. The seven curator-owned discovery subjects and their individually enrolled scopes remain unchanged. No model, monograph or portability gate is promoted.
+
+### Cast and reconstruction-readiness checkpoint
+
+Retain the ten established local subjects and add one source-identified kitchen worker. The source-state endpoint for new assessments is V09/46/i134, with the separately marked supplement. The last repository-closed unit at dispatch is V08. No global discovery record, capability grade, operational model or monograph is created by this reading.
+
+#### WY1-CAST-HIME — Shiraki Hime / café Shirasagi Hime
+
+V09 adds ordinary participation rather than another complete private transformation. Hime can falter at an institutional motto, receive help, enjoy praise, reassure Kanoko of a genuinely valued friendship, ask what a new event requires, and propose a concrete practice arrangement. Her desire for admiration and her specific care need not compete as mutually exclusive explanations. The three-person preference is especially useful negative evidence against a model that treats every pleasant statement as a lie. [O01/O07/O15.]
+
+The source also preserves limits on her understanding. She is not shown receiving Kanoko’s full old project, the current maid/marriage fantasy, or Sumika’s private jealousy. Her proposed three-person practice can therefore be reasonable within her information while distressing to Kanoko. A reconstruction should not punish the character for failing to respond to facts she has not been given. [i033–045, i082–084.]
+
+**Readiness:** dedicated evidence retrieval and a separately commissioned bounded monograph remain justified by the accumulated corpus. V09 itself adds relatively little to an operational model outside school, work, friendship and presentation. The reputational-threat and new contact-limit tests remain open. No broader simulation reliability is inferred from a large quantity of prose. Preserve the accepted correction removing V08/i109 as a new practical-help trial.
+
+#### WY1-CAST-MITSUKI — Yano Mitsuki / café Ayanokōji Mitsuki
+
+Mitsuki supplies role knowledge, credits Kanoko’s established friendship and participates in the working group. In the supplement she describes Hime through admired capacities and mutual growth; that is a current self-account within a particular conversation, not a proof that every expectation is mutual. These observations retain the possibility of genuine appreciation across unequal strengths. [i001, i031–034; S46.5/i138–139.]
+
+No new ordinary Hime contact/privacy limit is clearly issued and tested. An in-role response to praise is not enough to certify uptake of the more precise method negotiated in V08. Mitsuki also notices Nene’s distress without being shown reading the phone, a useful constraint on any later reconstruction of what she knows about the returned visitor. [i031, i118–119.]
+
+**Readiness:** accumulated evidence supports bounded psychological and relationship synthesis; current operational validation still needs independent tests of restraint, response to refusal and uncertainty outside the established pair. Neither the new Nene scene nor Sumika’s parallel conflict should be imported as additional Mitsuki interiority. Models must retain her exact knowledge state and Hime’s nonromantic answer.
+
+#### WY1-CAST-KANOKO — Mamiya Kanoko / café Amamiya Kanoko
+
+Kanoko’s evidence becomes substantially more explicit about future expectations. She does not simply want Hime physically nearby; she wants proximity under a condition that Hime’s romantic attention remains uncommitted. The loveless-marriage/maid fantasy differentiates formal roles from emotional competition. It is a model of desired security, not proof of an occupational preference, a fixed tolerance of all husbands, or a future she has negotiated with Hime. [i041–046.]
+
+Her conduct also resists a one-dimensional passivity model. She signs photographs despite embarrassment, requests practical story help, states business-hour limits, volunteers private information, chooses the timing of a visit, challenges a suspected separatist motive, confirms Nene’s identity, and considers what the contact slip might enable. These acts vary in quality and authority. Initiative itself is neither proof of good judgment nor evidence that she controls the outcome. [i023–028, i063, i085–095, i110–134.]
+
+The major new failure risk is explanation through a familiar but incomplete model. Sumika previously opposed romance because of the old café rupture; Kanoko now uses that explanation to understand the withdrawn consultation. Given her information, the theory is coherent. It omits Sumika’s own changing desire, and it may encourage an intervention the intended beneficiary has not requested. The endpoint therefore supports a conditional decision model: when a valued support relationship changes without an intelligible explanation, Kanoko seeks a cause she can act on, particularly one that might restore its prior usefulness. That model remains a hypothesis with WY9-PR01 as an actual future test. [i099, i124–125, i132–134.]
+
+**Readiness:** a dedicated evidence ledger and V01–V09 bounded monograph are well justified for separate commissioning. Operational reconstruction requires explicit handling of jealousy, partial information, confidant dependence, practical competence and consent boundaries. Her genuine smiles and gratitude toward Sumika must be included as counterexamples to total Hime-only affect. Cross-series portability remains separately unvalidated; no invented hobby, favorite meal, diagnosis, or lifelong orientation is needed to make the model seem complete.
+
+#### WY1-CAST-SUMIKA — Chibana Sumika / café Tachibana Sumika
+
+This is the volume’s largest gain in character evidence. The source now distinguishes the public mentor, the privately proud helper, the person who wants to be preferred, the observer who resists a romantic category, and the employee whose practical skill persists during emotional difficulty. These are interacting states of one subject, not separate true and false selves. [i018–028, i038–045, i049–097.]
+
+A working motivational model must include at least three aims that can diverge: preserving the café’s collective continuity; preventing pain to a valued younger sister; and receiving special personal attention from her. The home invitation satisfies practical and protective aims while its later self-account exposes a competitive one. After recognition, Sumika tries to subordinate the third aim to the first two, but does so partly through concealment and withdrawal. The source does not show the unwanted feeling disappearing because she issues herself a moral instruction. [i083–099.]
+
+Her comparative self-conception is equally important. The earlier Nene/Goeidō rupture has helped define romance as a destructive category. The new desire therefore threatens not only a current relationship but her belief that she is the kind of person who protects others rather than disrupts them. Shame at the implication helps explain the difference between the information available to the reader and the explanation Kanoko receives. This is an inference supported by the explicit contrast and private recognition, not a clinical diagnosis. [i059, i093–097, i126–133.]
+
+Everyday evidence remains bounded but useful: she enjoys the café enough to contemplate visiting on a day off, uses teasing and register play with a familiar younger colleague, and offers a cold drink and a comfortable place to sit at home. Her casual clothing and room are observed settings, not sufficient evidence of a favorite style or an exhaustive domestic routine. Her actual role competence includes signature work, improvised story construction and awareness of the institution’s public logic. [i010–011, i025–028, i038, i063–067, i087–088.]
+
+**Readiness:** a dedicated cumulative evidence ledger and a substantial **V01–V09 state-bounded monograph are justified candidates**, without requiring an invented settled future. A reconstruction seed is now richer and testable: when personally desired attention seems possible, she may hope for a special meaning; when that meaning threatens her self-concept, she retreats into the sister role or an acceptable protective explanation. Under threats associated with Goeidō she can escalate into exclusion demands. These rules need explicit counterexamples, source-state indexing and holdouts; they are not promoted operational authority. WY9-PR02 supplies a future test of one narrow mechanism. A model must also include the possibility of honest care, useful restraint and fallible but genuine self-recognition.
+
+#### WY1-CAST-MAI — Koshiba Mai / café Mikoshiba Mai
+
+Mai gains evidence as an organizer of work and conflicting access needs. She differentiates opening time from meetings and interviews, reorganizes shifts, allows an alternative practice location, handles a difficult visitor, limits uncontrolled historical disclosure and pauses an escalating discussion for work. These are concrete decisions, not a universal claim that she always prioritizes consent or understands every private conflict. [i005–015, i080–084, i103–113, i127–134.]
+
+Her refusal to exclude Goeidō merely for visiting, and her request not to interfere uninvited with a former employee, should be modeled as context-specific judgments. She does not forgive the old harm on Nene’s or Sumika’s behalf. Her possible underestimation of the visitor’s future intentions remains a live question, not an established error. The earlier recovery deception still constrains any overly benevolent global model. [i128–134; inherited recovery record.]
+
+**Readiness:** distributed institutional evidence remains adequate to this transaction; an independent evidence ledger or bounded management/performance specialist is justified only if it improves retrieval. An operational or portable model remains unvalidated. Do not turn a useful current boundary into retroactive approval of every recruitment or retention practice.
+
+#### WY3-CAST-NENE — Nishidera Nene / former café Saionji Nene
+
+Nene becomes both an interpreter of another person’s feelings and a participant whose own stance is not exhausted by her first statement. She rebukes an insensitive generalization, proposes a qualified reading, and later exercises private initiative toward Goeidō after saying the relationship is closed. These events add current decision evidence beyond her role as a witness to history. [i049–058, i112–126.]
+
+The main modeling danger is false consistency. A rigid “over the relationship” model ignores the request; a rigid “secretly always wanted reunion” model invents a continuous motive. The evidence supports a state-sensitive account in which a renewed encounter can disturb a declared boundary, with the purpose of contact still open. Nene’s visible distress is important but not a unique identifier of that purpose. [i118–119, i125–126.]
+
+**Readiness:** dedicated evidence retrieval and a bounded Nene monograph become stronger candidates, but the new encounter ends before its consequential follow-through. A model must preserve the difference between direct self-report, others’ protective classifications, and observed initiative. Existing global curation is not expanded here. Source-grounded interpretation of her agency does not require pretending that the future meeting has already occurred.
+
+#### WY4-CAST-GOEIDO — café Goeidō Yōko; ordinary-name witness 後藤葉子
+
+Retain the existing historical subject and add the written ordinary-name alias, not a new entity. V09 supplies sustained present conduct for the first time in this reading sequence: use of a visitor pass and graduate manners, attention to the menu, selection of Sumika’s tea, different explanations by audience, a request to an intermediary, and reception of Nene’s meeting message. [i100–126.]
+
+The source permits a provisional interaction model—socially fluent, able to use established role language and personal address to obtain attention—but not a definitive moral or clinical classification. Sumika’s account gives reason for caution; Kanoko’s impression of charm gives no sufficient exoneration. The apology claim and the statement that love cannot be stopped require later testing against actions and recipients’ accounts. [i114–133.]
+
+**Readiness:** upgrade local evidence density from historical/sparse toward a present-interaction dossier candidate. A mature monograph, operational model and portable simulation remain deferred because motive, intervening history and current follow-through are thin. A reconstruction must not assume that the visitor knew Sumika’s day off or that the meeting wishes have already become an appointment.
+
+#### WY9-CAST-HARUKO — Shinooka Haruko / 篠岡春子
+
+**New local subject, first directly identified at V09/42/i012.** Nene introduces her as another kitchen worker. The supplement supplies repeated questions about sisterhood and an effort to reconcile different answers. The mainline also places her in ordinary kitchen coordination. These observations establish a new worker with incomplete concept knowledge and a demonstrated willingness to ask. They do not establish a biography, a legal-name/role-name distinction beyond what is supplied, a romantic attachment, or a judgment about general culinary ability. [i011–015, i113, i119; S46.5/i136–143.]
+
+Her analytical function is already useful: she makes familiar institutional vocabulary strange enough to require explanation. Her character reconstruction remains sparse. **Retain distributed evidence; defer independent model, monograph and portability.** A separate evidence ledger is not yet necessary merely because she has a name. The next useful evidence would concern actual work choices, relationships beyond the explanatory scene and whether her questions reflect a recurring method rather than one initial misunderstanding.
+
+#### Other retained subjects and out-of-continuity figures
+
+**WY6-CAST-MITSUKI-FATHER, WY7-CAST-NAGISA and WY7-CAST-TANABE** receive no material new behavioral evidence in this volume. Preserve their earlier records and sparse status without inventing off-page advice, whereabouts or reactions. The ten entering identities therefore remain, plus Haruko: **eleven local Watayuri subjects** at this assessment boundary.
+
+The one-shot’s 星奈 and 律 remain in the separate-component discussion, not this local cast or a cross-series reconstruction registry. Their shared author and packaging do not establish shared continuity. No new global character-discovery enrollment is performed for any subject.
+
+#### Architecture review at the V09 boundary
+
+The nine established responsibilities still capture the important evidence. Photography has become unusually consequential, but its different functions are already recoverable through performance, visual form, information and attachment records. A new “photography ledger” would currently duplicate these responsibilities rather than solve a demonstrated retrieval gap. The returning visitor likewise requires new records and a richer subject assessment, not a new continuity or root.
+
+A bounded SK synthesis and Sumika/Kanoko monographs could now be separately commissioned with substantial evidence and explicit unresolved endpoints. That recommendation is not a claim of full-series maturity. Before such work is promoted, the receiving analyst should reconcile the exact forecast criteria, distinguish the listener’s own boundary from control over another person, and preserve the source-level separation of current events, recalled photo production, dreams, script fiction, supplements and the one-shot.
+
+
+<a id="v10"></a>
+## V10 — Current additions and transitions — 2026-10-19
+
+**V10 evidence key:** source-map key `V10`, Japanese witness `1_op3JMqIOzXvfHSWN3znBlJPXjxAOtxI`, SHA-256 `3749dd05cca33587f32656dab6ca91d675c529fc23d30aaa2c33e9503bfb899b`. The [frozen V10 reading](../02%20Sequential%20Readings/WATAYURI_V10_DEEP_READING.md#readiness) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V10; section numbers refer to the complete reading. WY1–WY9 identities retain their original propositions and dated states, subject to the [attributable current claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum). Mainline and latest depicted present end at Shift 51/i154. Shift 51.5/i156–160 is historical prototype fitting; first-year bonus i168 and edition matter do not advance the endpoint. V10-B and V11+ remain excluded. All prior source corrections and freezes remain intact.
+
+**Retained identity:** WY9-CAST-HARUKO remains Shinooka Haruko / 篠岡春子 as accepted at V09. The delivered producer’s abbreviated Haruko label has been normalized below to preserve the earlier source-supported ordinary name. No new subject or global enrollment is created.
+
+## 15. Cast, reconstruction readiness and architectural checkpoint
+
+These are **V10-bounded assessments of the eleven existing local subjects**, not new global enrollments, reconstruction grades or automatic promotions. Their first-observation identities remain unchanged. The published entering boundary is V09; the inspected contribution reaches V10/i154, but the repository’s closed boundary advances only after the receiving transaction. Historical evidence is assessed at its historical state, not flattened into the characters’ current personalities.
+
+### 15.1 Nene — a participant’s changing object of love
+
+**Retain WY3-CAST-NENE: Nishidera Nene / 西寺寧々, formerly the Saionji Nene / 西園寺寧々 role.** V10 makes her substantially better supported as a subject in her own right, rather than someone known principally through Sumika’s protective account. Her explicit lesbian self-understanding, ordinary retail work, desire for a particular person rather than a generic substitute, pleasure in the café’s fiction, vulnerability to useful recognition, initial participation in a jealousy strategy, subsequent love for Yoko and actual departure now form a recoverable developmental sequence. The sequence contains choices and injuries without making either cancel the other. [O01–O18; C01–C11.]
+
+A useful conditional reconstruction distinguishes at least four states: the eighteen-year-old seeking reciprocal attachment; the new employee finding reassurance through Sumika’s role; the participant accepting an instrumental dating offer; and the later Nene asking whether Yoko loves her as the person she has become. Her willingness to enjoy an encounter does not predict agreement with every relationship purpose. Her eventual departure shows that access to pleasure is not always sufficient to retain her participation. Conversely, neither departure nor a claim of closure predicts immediate emotional freedom. [i008–028, i055, i057–088.]
+
+Everyday evidence includes demonstrated service work, enthusiasm for the fictional school and its material presentation, conversations she enjoys, food and outing choices within a particular reunion, and the historical fitting scene’s privacy negotiation. These are not a comprehensive inventory of favorite foods, domestic routines, or stable preferences. Written self-report and direct questions constrain her speech model; no acoustic characterization follows. [O02–O06/O13/O14/O30.]
+
+**Separate gates:** a dedicated chronological **evidence ledger is strongly justified as a retrieval candidate**. A **bounded monograph through V10** is now a credible separate commission: Nene’s own account can be integrated with, rather than subordinated to, Sumika’s earlier account. No such monograph is authored by this reading. An **operational model remains unvalidated**: the proposed conditional distinctions require explicit tests, counterexamples and stated failure conditions. **Cross-series portability remains deferred**, particularly where the café’s role structure, her known relationship history or the identity of the desired person is absent. Her final decision should not become a generic rule that she always leaves, or always tolerates, an unequal relationship.
+
+### 15.2 Yoko — greater evidence of interaction, not unrestricted access to motive
+
+**Retain WY4-CAST-GOEIDO: Goeidō / 五影堂; ordinary-name witness Gotō Yōko / 後藤葉子.** The newly depicted historical and current exchanges substantially increase evidence of what Yoko does and says. She recognizes a privacy problem, offers a mutually intelligible account of attraction, provides enjoyable attention, postpones an uncomfortable conversation, and explicitly returns to a strategy concerning Sumika. Her explanation of seriousness differs from the question Nene is asking. This supports a richer interaction model than either “completely insincere” or “simply misunderstood.” [O08/O11/O13–O17.]
+
+The strongest provisional rule is that Yoko can answer relational difficulty by offering an attractive activity or arrangement while keeping the purpose framed in her own terms. The actual emotional meaning of her stated liking remains less completely accessible. A model must retain the possibility of genuine enjoyment alongside an instrumental project; it must not invent an internal confession that every gesture was calculated. Her handling of Nene’s changed wishes is more securely observed than a complete personality diagnosis. [C03/C07–C10.]
+
+**Separate gates:** dedicated **evidence retrieval is justified**, especially to distinguish historical offers, current reports, observed conduct and inferred strategy. A **bounded character study is a candidate**, but it must foreground the uneven access to interiority. An **operational model and portable simulation are deferred**. Most importantly, the unidentified final call cannot be entered as a confirmed Yoko act merely because it would fit an emerging model. Model fit is not identity evidence. [C21; INF20.]
+
+### 15.3 Sumika — acknowledged love changes the usable source state
+
+**Retain WY1-CAST-SUMIKA: Chibana Sumika / 知花純加; café Tachibana Sumika / 橘純加.** V10 supplies both an earlier relationship she did not understand in the same way as Nene and a current relationship she explicitly wants romantically. These are different directional states. Nene’s historical love does not establish Sumika’s historical reciprocity, while Sumika’s actual declaration to Kanoko at i151 is stronger evidence than the V09 analyst’s hypothesis about her investment. [O05–O10/O25–O29.]
+
+The existing model of a capable, fallible helper should gain specific competing conditions. When help preserves a valued place, Sumika can be generous and resourceful. When repeated consultation makes her feel unseen, she can turn a legitimate limit into a personal accusation. She can imagine a hurtful solution, recognize its cost and reject the thought before acting. When Kanoko’s warmth seems personally directed, Sumika first protects the sister/friend explanation and later abandons that defense in an explicit confession. These are not interchangeable instances of one hidden motive. [O24–O28; AG16–AG21.]
+
+Her work, reading and rehearsal remain real interests and responsibilities, not props retroactively emptied by jealousy. The historical bonus adds her perception of Nene’s increasing ease, not a new romantic confession. The final home scene establishes Sumika’s hopeful understanding of the dating arrangement while withholding the advice known to Kanoko. A source-state model after i151 must therefore include **acknowledged love and unequal information**, rather than continuing to predict only denial. [O25/O29/O33.]
+
+**Separate gates:** an evidence ledger and a **bounded monograph or SK relationship study** remain justified separate candidates. A state-indexed **operational model is promising but unvalidated**; WY9-PR02’s local support is not a general simulation certificate. **Portability remains deferred**. The changed self-account makes old-state forecasts inappropriate unless their conditions are explicitly retained.
+
+### 15.4 Kanoko — initiative is established more securely than a settled new romantic object
+
+**Retain WY1-CAST-KANOKO: Mamiya Kanoko / 間宮果乃子; café Amamiya Kanoko / 雨宮果乃子.** V10 adds a consequential disclosure she previously lacked, new concealment from Hime, a failed appeal to Sumika, and a successful proposal that changes the formal relationship. Her actions cannot be described as merely passive reception of another person’s plan. She asks for privacy, ends conversations, approaches publicly, challenges an explanation, requests dating and reports an outcome. At the same time, the final call establishes an undisclosed advisory contribution whose exact extent remains unknown. [O21–O29.]
+
+The conditional account should distinguish an attachment threat from a practical service problem. Hime’s genuine care does not reassure Kanoko when it also confirms that Hime is willing to think seriously about Mitsuki’s love. Kanoko then minimizes that love and conceals the impact of learning about the kiss. Losing access to Sumika’s listening becomes a further problem. Her dating request explicitly seeks to change Sumika’s attitude toward romance, and its persuasive force includes an appeal to Sumika’s professed care. This is not equivalent to an explicit declaration that Kanoko now loves Sumika romantically. [C13–C15/C19–C21.]
+
+Counterevidence remains essential: Kanoko has shown real amusement, gratitude and attachment to Sumika, and her suffering is not cancelled by her controlling or coercive acts. Conversely, suffering does not make the painful hand grip or pressure to accept a request harmless. Neither “wholly calculating” nor “only being directed” captures all the visible behavior. [V09 retained findings; O27/O28.]
+
+**Separate gates:** dedicated evidence retrieval and a **bounded monograph** are justified candidates, with a mandatory split between stated purpose, observed action and undisclosed advice. **Operational reconstruction remains unvalidated**; a new dating status is not a passed behavioral test. **Portability remains deferred**, particularly when the scenario lacks Hime’s established role in Kanoko’s expectations or Sumika’s confidant history. No new unnamed-adviser subject is created merely to give an unverified identity a record.
+
+### 15.5 Hime and Mitsuki — positive continuation without a new romantic settlement
+
+**Retain WY1-CAST-HIME: Shiraki Hime / 白木陽芽; café Shirasagi Hime / 白鷺陽芽.** Her evidence expands through ordinary concern, attempts to discuss a difficult topic, recognition of a misleading explanation, respect for a changing-space request, and a more explicit account of why she takes Mitsuki’s feeling seriously. These acts coexist with not understanding Kanoko’s romantic stake. A reconstruction must allow genuine, sometimes insufficiently informed care; it should not infer that failure to find the hidden problem means Hime does not value Kanoko. Her account of the old kiss does not establish a changed answer to Mitsuki. [O20–O24; C13/C14/C23.]
+
+**Retain WY1-CAST-MITSUKI: Yano Mitsuki / 矢野美月; café Ayanokōji Mitsuki / 綾小路美月.** Mitsuki’s acknowledgment that Hime is better at a relevant performance task, willingness to receive assistance, and response to their particular bond give a concrete continuation of the reciprocal-care model. The source also preserves uneven skill through the rehearsal mistake. Neither a successful embrace nor talk of specialness proves mutual romantic agreement. The old contact-limit forecast lacks a qualifying new trial here. [O19/O20; C23; WY8-PR01.]
+
+For both subjects, **dedicated retrieval and bounded monographs remain separately justified candidates**, not newly created artifacts. Operational models require independently specified tests across source states and relationships; **portable simulation remains deferred**. V10 supplies a useful positive comparison for the new SK difficulty without making HM a universally resolved or normative template.
+
+### 15.6 Remaining five subjects — proportional carry-forward
+
+| Retained local subject | Material V10 contribution or absence | Readiness disposition |
+| --- | --- | --- |
+| **WY1-CAST-MAI — Koshiba Mai / 小柴舞; café Mikoshiba Mai / 御子柴舞** | Historical recruitment and the founding fiction; present staffing accommodation and room for rest; historical fitting and the kitchen manual’s institutional account. O04/O06/O18/O24/O30/O32. | Retain distributed operational evidence; a bounded institutional role study is possible separately. Private motive, complete biography and a validated portable model remain undercovered. None of this erases recovery concealment. |
+| **WY9-CAST-HARUKO — Shinooka Haruko / 篠岡春子; Haruko in the current abbreviated usage** | The consequence of Nene’s absence includes the replacement workload attributed to Haruko. This adds an operational relation, not a detailed independent viewpoint. O18. | Sparse local evidence only. Preserve the established name without adding unsupported biography, personality, model or monograph. |
+| **WY6-CAST-MITSUKI-FATHER — Mitsuki’s unnamed father** | No material new V10 observation used here. | Preserve the earlier sparse state without manufacturing a zero-change event or new biographical claim. |
+| **WY7-CAST-NAGISA — Nagisa** | No material new V10 observation used here. | Preserve earlier school-context evidence. Dedicated reconstruction remains deferred. |
+| **WY7-CAST-TANABE — Tanabe** | No material new V10 observation used here. | Preserve earlier school-context evidence. Dedicated reconstruction remains deferred. |
+
+**Architectural checkpoint.** The nine existing responsibilities still capture the material changes: Nene’s historical development, unequal relationship purposes, Sumika’s changed self-account, the advisory secrecy, specific contact and information limits, and the school script’s formal function. No missing responsibility justifies a new empty ledger. A bounded Nene study and an SK study now have stronger distinct questions, but neither must be created to pretend this volume has completed the larger synthesis lifecycle. The eight inherited claim-ID mismatches in §13.1 are a **retrieval-integrity problem to reconcile**, not a reason to add a competing claim system. Eleven local subjects remain distinct from the seven curator-owned discovery subjects, whose individually enrolled scopes are not changed by this contribution.
+
+
+<a id="v11"></a>
+## V11 — Current additions and transitions — 2026-10-20
+
+**V11 evidence key:** source-map key `V11`, Japanese witness `1C1Mnc2-Jgr3djCrylVn1e2KsTIPcKRzZ`, SHA-256 `12426ca4770f0efbfe3aab0c76a961e3225351754bb9270e92d6f6e74139f86e`. The [frozen V11 reading](../02%20Sequential%20Readings/WATAYURI_V11_DEEP_READING.md#readiness) supplies complete observations, interpretation and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V11 except inside reproduced original forecast formulations, whose internal references retain their creation-volume scope. Section numbers refer to the complete reading. All original claim identities and dated states remain governed by the [preserved current claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum). Mainline and latest depicted present end at Shift 56/i156. Shift 56.5/i158–161 contains earlier kitchen history and the pre-tea opportunity; edition matter and bonus do not supply a post-hotel outcome. V10-B and V12+ remain excluded.
+
+**Receiving disposition:** the full responsibility section below is accepted with version 1.1’s bounded corrections and current predecessor reconciliation. Its “proposed” labels and production-stage caveats retain their provenance; they do not mean the accepted source-branch increment lacks a receiving decision. The V10 source-branch transaction is already green at `dc89204170a0fb4078ddc4e8f5ca194bba2b58b5`; main acceptance of V10/V11 remains pending and distinct from this analytical state. No earlier section is overwritten, no forecast criterion is rewritten, and no local character gate is automatically promoted to global discovery or capability authority. See the [V11 receiving review](../07%20Audits%20and%20Handoffs/WATAYURI_V11_INTEGRATION_REVIEW.md).
+
+## 15. Character readiness and architectural checkpoint
+
+**Destination:** `WATAYURI_CAST_AND_RECONSTRUCTION_READINESS.md`. Retain the eleven existing local subject IDs. V11 adds evidence and changes state-specific understanding, not a duplicate identity for a revealed adviser or an invented identity for the final recipient. These assessments are producer proposals pending ordered V10/V11 acceptance; they are not global discovery enrollment or A–E capability grades.
+
+### 15.1 WY3-CAST-NENE — Nishidera Nene; former Saionji role
+
+Nene gains the largest increase in integrated causal coverage. The source now connects early unreturned love, knowingly indirect pursuit, actual subsequent love for Yoko, guilt, work withdrawal, continued belonging, present advice, confession, refusal and local repair. A model that treats her only as a victim misses deliberate provocation; one that treats her only as a manipulator misses genuine love, injury, the rejected opportunity to repeat the scheme, and the work of accepting an answer. [O08–O26/O34.]
+
+Her most useful provisional behavioral distinction is temporal. Earlier Nene could treat another person’s distress as a means of avoiding an unwanted direct answer. Present Nene can notice the temptation to exploit distress, refuse that route, state her conduct, and accept a definite refusal. That is a demonstrated local change, not proof it will survive every new attachment threat. WY11-PR01 is a real future test of one limited continuation, not a retrospective certification that the model already works everywhere. [O10–O14/O22–O26; §14.]
+
+Everyday coverage includes valued workplace belonging, continuing kitchen participation, practical planning, remembered service learning and a stated pleasure in the aroma of the former sister tea. These are concrete, non-crisis observations; they do not establish a complete domestic routine, favorite-food inventory, or broad leisure profile. Her explicit sexual self-understanding in the earlier source remains hers; it should not be projected onto Sumika’s different answer about self-labeling. [O18–O19/O26/O34; inherited WY10-C01.]
+
+**Gate decisions:** a dedicated cumulative evidence ledger is now strongly justified by retrieval value. A **bounded V01–V11 monograph is eligible for a separate commission**, especially one integrating self-report, contrary evidence, work and changing relational tactics. A state-indexed operational model is a substantive candidate, but a full validation claim remains deferred. Cross-series portability remains unassessed: these rich relations do not supply behavior for all unfamiliar social environments. No new artifact is created merely by this readiness statement.
+
+### 15.2 WY1-CAST-SUMIKA — Chibana Sumika; Tachibana role
+
+Sumika’s acknowledged love now has a wider behavioral range than jealousy or protectiveness. Private delight, appearance preparation, playful performance, a minimized wish, an actual self-interruption, acceptance of a canceled date, particular self-identification, hurt at old concealment, and a present refusal all coexist. A reconstruction must predict neither universal self-sacrifice nor inevitable control. Her capacity to correct an act is real; her tact can still fail, and disappointment can briefly become pressure before she retracts it. [O01–O07/O20–O26.]
+
+The difference between present and earlier knowledge is especially important. Sumika’s old hurt did not prove old romantic love for Nene. Her current happiness with Kanoko does not require believing Kanoko already reciprocates. She explicitly refuses to turn loving this person into a compulsory settled orientation label. A portable character voice should preserve that direct, person-specific speech rather than replace it with a diagnostic or categorical explanation she does not give. [O11/O21/O23–O26.]
+
+**Gate decisions:** dedicated evidence retrieval remains justified; a bounded monograph or an old-pair relationship study now has enough distinct material to be useful. Operational claims need to remain conditioned on known attachment, perceived abandonment and received information. The V11 ending supplies no actual test of her response to the hotel photograph, so no rescue or jealousy policy is certified. Portability remains a separate unpassed gate.
+
+### 15.3 WY1-CAST-KANOKO — Mamiya Kanoko; Amamiya role
+
+Kanoko becomes more legible through her own statements, not only jealousy inferred from faces. She reports unchanged feeling, wonders what she should give, doubts that her own wants are permissible, and explicitly distinguishes her earlier lack of romantic liking for Sumika from the proposal to help her. Her real concern, decision to spend time with Sumika, discomfort and continued Hime attachment prevent a one-note account. [O02/O04–O07/O15–O17/O27–O33.]
+
+A state-conditioned model should track when a personally important explanation becomes trusted. Yoko’s accurate identification of jealousy lends credibility to a much less secure prescription. Kanoko then uses a desired result—Sumika’s restored kindness—as evidence that the procedure should be working, despite her own unease. When a venue objection is recast as jealousy or being controlled, she can defend the idea that nothing changes by accepting something she initially questioned. These are observed mechanisms in this relationship, not a diagnosis of global gullibility or an inevitable response to every adviser. [O27–O33.]
+
+Ordinary evidence includes clothing consideration, rehearsal, choosing one after-work plan over another, asking for advice, and concern about a canceled date. A lack of a clothing preference in this one decision is not evidence that she has none; universal praise from Sumika is part of why the choice seems uninformative. The final secrecy is a material decision and risk factor without proving knowledge of Yoko’s full plan. [O04–O05/O16–O17/O29–O33.]
+
+**Gate decisions:** dedicated retrieval and a bounded monograph remain justified. A present-state model requires explicit limits on what Kanoko knows, what she is trying to repair, and which interlocutor supplies the causal story. Her own romantic development is not completed at i156. Operational validation and crossover portability are not promoted.
+
+### 15.4 WY4-CAST-GOEIDO — Gotō Yōko; Goeidō role
+
+Yoko gains direct adviser and present decision-sequence evidence. The previously unseen role is now confirmed, while the final message recipient remains a separate uncertainty. Her approach includes a correct partial diagnosis, a beneficiary-framed remedy, reassurance about retaining another love, reported limited availability, a venue shift, repeated reinterpretation of an objection, and a selected outgoing image. These support a specific account of manipulative conduct without requiring an invented total inner motive or a completed later harm. [O03/O09–O13/O27–O33.]
+
+Her practical helpfulness and enjoyable attention are not erased. They matter partly because they can make the later guidance credible. Conversely, credibility does not establish competence or authorization to determine others’ relationships. The source permits criticism of the exact conduct without flattening Yoko into a generic “temptress,” inventing a clinical diagnosis, or treating every historical interaction as certainly staged. [O03/O09–O13/O27/O30–O33.]
+
+**Gate decisions:** an evidence ledger and a tightly bounded behavioral study are justified. A mature explanatory monograph must keep viewpoint limits visible, especially where Nene’s account, Kanoko’s account and Yoko’s speech differ. Operational predictions about future harm, empathy, or final intention remain underdetermined. No unrestricted simulation authority is assigned.
+
+### 15.5 WY1-CAST-HIME — Shiraki Hime; Shirasagi role
+
+Hime’s V11 contribution is narrower but meaningful: she corrects pressure, preserves friendship without requiring harmony with Mitsuki, and accepts Kanoko’s separate plan. This supports a relationship-conditioned capacity for considerate revision. It does not establish receipt of Kanoko’s concealed love or old intervention, nor a new romantic answer to Mitsuki. Her cheerful ordinary/work presentation and bonus impression-management joke remain different evidence lanes. [O04/O05/O36.]
+
+Existing evidence-ledger and bounded-monograph eligibility remain; no new whole-model maturity is inferred from this comparatively small role. The two older Hime forecasts retain their exact absent triggers. Do not replace limited new evidence with imagined off-page reactions to the dating or hotel events.
+
+### 15.6 WY1-CAST-MAI — Koshiba Mai; Mikoshiba role
+
+Mai combines practical preparation with a deliberate opportunity for the old pair. The supplement makes her motive recoverable, but the actual repair belongs to Nene and Sumika’s decisions. This adds a concrete enabling intervention without erasing recovery concealment or proving managerial omniscience. The manual’s general safeguarding explanation is an edition-level institutional statement, not evidence that Mai has already detected the current outside meeting. [O18/O34–O35.]
+
+Dedicated evidence retrieval remains useful for distinguishing operational competence, opportunism, care and knowledge limits. A complete leadership model would need more tested choices under competing obligations; no new capability promotion follows from a single successful opportunity.
+
+### 15.7 WY1-CAST-MITSUKI and the four sparse established subjects
+
+**Mitsuki** continues in actual café service and in-role assistance, but V11 supplies no new substantial private contact-limit test or romantic reversal. Preserve her prior model state rather than inventing development from the shifting narrative focus. [V11/52/i009–010.]
+
+**WY6-CAST-MITSUKI-FATHER, WY7-CAST-NAGISA, WY7-CAST-TANABE, and WY9-CAST-HARUKO — Shinooka Haruko / 篠岡春子** receive no materially new characterization sufficient to change their current readiness in this reading. Haruko’s full identity is preserved from the accepted V09 record and the V10 receiving correction; it is not a new V11 discovery. Preserve their sparse, earlier evidence; absence is not a reason to lower an established fact or fill biography from general knowledge. The unidentified message recipient is not enrolled as any of them or as a new named person.
+
+### 15.8 Architecture and specialist need
+
+The nine existing responsibilities remain adequate. The two most justified bounded specialist questions are **Nene–Sumika’s movement from indirect pursuit to an accepted answer**, and **how confidant authority is acquired, used and contested in the Kanoko–Sumika–Yoko configuration**. They should be separately commissioned if retrieval and comparison would add value; this volume reading does not masquerade as a finished full-series synthesis.
+
+All proposed character artifacts must retain chronology, relationship-conditioned behavior, written speech, ordinary-life evidence, competing accounts and explicit failure conditions. Strong local understanding is not equivalent to cross-series portability. Global discovery and capability files remain the responsibility of their designated owners, not this producer.
+
+
+<a id="v12"></a>
+## V12 — Current additions and transitions — 2026-10-20
+
+**V12 evidence key:** source-map key `V12`, Japanese witness `1rfp1TTQIU1BAGmSpGu3UBoLcIqqyKkXz`, SHA-256 `cace78f56ffc5248eba9fe9d1e336730cbab70cdba834faf4be10629a5a70ab1`. The [frozen V12 reading](../02%20Sequential%20Readings/WATAYURI_V12_DEEP_READING.md#readiness) supplies full context, observations and image conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V12; reproduced original forecasts retain their creation-volume shorthand. Section numbers refer to the complete reading. Mainline and latest depicted present end at Shift 61/i140, where a historical report begins without its complete event or answer. Shift 61.5/i142–145 has finer chronology OPEN; edition matter and bonus do not continue the ending. V10-B and V13+ remain excluded.
+
+**Receiving disposition:** the complete responsibility section below is accepted for this source-branch transaction; “proposed” labels and producer-stage statements retain their historical provenance. Current main acceptance and run completion are separately governed in the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md#operational-boundary) and [receiving review](../07%20Audits%20and%20Handoffs/WATAYURI_V12_INTEGRATION_REVIEW.md). All earlier bodies and original claim identities remain preserved under the [expanded V10 claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum).
+
+## 15. Cast readiness, reconstruction limits, and architecture checkpoint
+
+This section reassesses the **eleven existing local subjects**; it enrolls nobody globally and promotes no model, monograph or specialist. Evidence-ledger, operational-model, monograph and portability decisions remain separate. A successful forecast concerns its stated situation, not comprehensive readiness. Ordinary names and role aliases stay on their established identities.
+
+### 15.1 WY1-CAST-KANOKO — Mamiya Kanoko / 間宮果乃子; café Amamiya
+
+**Material gain.** V12 supplies unusually explicit evidence about Kanoko’s need for an available listener, fear that unequal giving will lead to abandonment, and use of an insignificance rule to preserve her desired account of Hime. It also shows concrete refusals, a search for safety, harmful initiated contact, a specific apology and a chosen opening of an older story. These acts cannot be reduced to either passive victimhood or a timeless manipulator trait. The coercion by Yoko and Kanoko’s separate conduct toward Sumika require distinct attribution. [O01/O08/O09/O15/O19–O29.]
+
+**Conditional reconstruction.** When she fears that acknowledging an event will destabilize her relation to Hime, Kanoko can defend an abstract rule more strongly than its fit to her current experience warrants. When she fears losing Sumika’s availability, she may try to provide an expected girlfriend performance instead of first stating that need. Explicit reassurance that care is not a debt helps her articulate the need and begin a more particular account. The last step remains conditioned by pressure at i137; it is not evidence that any determined interrogation would help her. [C08/C16/C18/C19/C23–C26.]
+
+**Everyday and speech evidence.** Specific preferences include declining alcohol, choosing shelter and requesting a warm shower; she participates in cleanup and offers tray help. These are observed contextual choices, not a complete leisure, food or domestic-preference inventory. Polite forms coexist with firm refusal; apology and self-condemnation have to be distinguished from the analyst’s moral judgment. Her fear and tears do not establish a psychiatric diagnosis. [O01/O15/O17/O24; JP01/JP05/JP10/JP13.]
+
+**Gates.** A dedicated evidence ledger has strong retrieval justification, especially for knowledge, self-account and contact boundaries across source states. A V12-bounded monograph is a candidate for separate commission, but must prominently retain the unfinished confession history. An operational model remains **unpromoted**: the new explanation is rich yet under-tested, and the source ends precisely before a potentially major causal account. Cross-series portability remains **deferred**. The next evidence need is what the earlier confession actually involved and how that account changes Kanoko’s present choices—not a presumed eventual romantic answer.
+
+### 15.2 WY1-CAST-SUMIKA — Chibana Sumika / 知花純加; café Tachibana
+
+**Material gain.** Sumika now acts under an urgent threat to Kanoko, declares love publicly in that crisis, supplies practical care, refuses intimate compensation and hears the dating procedure she had not understood. She also punches Yoko, initially escalates the confrontation and later refuses a release request. The resulting model needs both the capacity to revise and the risk of turning a protective commitment into control. Her useful labor and genuine attachment do not make every means acceptable. [O07/O11/O12/O15/O17–O28.]
+
+**Conditional reconstruction.** A concrete perceived danger can prioritize action and fact-seeking over analysis of another person’s manipulative purpose. In the lobby Kanoko’s request interrupts escalation. In the later disclosure scene, however, the fear of repeating abandonment makes Sumika resist withdrawal. These contrasting responses are more informative than a single trait such as “protective.” They identify different triggers for restraint and insistence. [C10/C11/C19/C23; WY12-PR01.]
+
+**Values and ordinary conduct.** Sumika’s stated rejection of repayment differentiates love from obtaining acts. Her personally owned meaning of the kiss differentiates value from a universal law. Food, bedding, a spare toothbrush, information-seeking and hot-milk service show specific care work. The signed photograph remains evidence of particular attention, not a new general hobby catalogue. Her register repertoire includes ordinary urgency, forceful refusal and deliberately playful salon speech. [O17/O18/O22/O24/O25/O27; JP11–JP15.]
+
+**Gates.** Dedicated evidence retrieval and a bounded monograph are justified candidates. A tested operational model must incorporate the i065/i137 contrast and preserve the new forecast rather than claim that the repaired confidant agreement already validates future boundary reliability. Specialist treatment of support, desire and control has substantial evidence but remains a separate commission. Portability remains **deferred**: a model cannot export the authority of the elder-sister role or the history with Kanoko into every unfamiliar relation.
+
+### 15.3 WY3-CAST-NENE — Nishidera Nene / 西寺寧々; former Saionji
+
+**Material gain.** Nene’s V11 account encounters a new practical opportunity. She receives the image, shares it, supplies a probable destination, helps and then refuses Yoko’s renewed offer. Her friendship with Sumika remains personally valuable after the romantic answer. This gives her model a genuine prospective success under WY11-PR01 rather than only retrospective explanatory fit. [O06/O07/O13/O15.]
+
+**Conditional reconstruction.** Knowledge of a harmful former partner’s pattern can be used to help others without making the entire situation a contest to regain that partner. Nene can distinguish acknowledging her old participation from assuming responsibility for every later act. She challenges Yoko’s hierarchy of value and her fixation, but her question about hidden love remains an interpretation rather than privileged psychological access. [C12/C13; INF12–14.]
+
+**Limits and gates.** One successful stress response strengthens a source-bounded model candidate, not a universal reliability grade. Nene’s ordinary preferences outside the café and intimate relationship history remain unevenly covered. A dedicated evidence ledger and bounded monograph have strong justification; a broader validated operational model and cross-series portability remain **unpromoted**. Future evidence should test whether the refusal and friend-oriented choices persist under materially different conditions, rather than requiring a simplistic absence of all grief.
+
+### 15.4 WY4-CAST-GOEIDO — Gotō Yōko / 後藤葉子; Goeidō
+
+**Material gain.** V12 substantially increases direct evidence of Yoko’s conduct and stated theory. She manages the phone/image route, assigns others’ feelings through a romance-only hierarchy, uses coercion to demand a proposition and treats the resulting intervention as success. These are source-supported current acts, not merely Sumika’s earlier suspicion. Earlier usefulness or enjoyable attentiveness does not disappear, but its presence no longer supports an inference that the current advice relation is safe. [O01–O14; C01–C10/C13.]
+
+**Conditional reconstruction.** Yoko tends in these scenes to read restraint as denial and intense reaction as confirmation, preserving her preferred explanation across different outcomes. She treats another person’s sense of what matters as something to expose through pressure. Her own account explicitly denies love for Sumika; a model must preserve that denial alongside the observed fixation instead of treating the hidden-romance hypothesis as settled. [C04/C07/C13; JP03/JP06/JP09.]
+
+**Limits and gates.** No clinical label, complete motive hierarchy, general orientation rule beyond her source speech, or independently verified legal classification is assigned. A conduct-focused evidence dossier is now strongly justified. A mature explanatory monograph would need to preserve large holes in independent interiority and biography, and no operational or portable model is promoted. The relevant next questions concern actual later choices, recipients’ responses and any further self-account; none can be answered by importing future volumes.
+
+### 15.5 WY1-CAST-HIME — Shiraki Hime / 白木陽芽; café Shirasagi
+
+Hime’s V12 mainline role is chiefly as an absent person whose earlier acts others interpret, followed by the unfinished historical image. Those representations do not create a new Hime romantic statement. The separate half-chapter supplies her own current concern: she wants to help Kanoko but does not know the specific problem, and recognizes that she had assumed understanding. That is useful evidence of revisability and positive attachment, not a complete informed response to Kanoko’s current love, old project or hotel night. [O09/O26/O29/O30.]
+
+Preserve the existing state-bounded monograph/evidence candidates and unpassed operational/portability gates. The new middle-school report creates a **material uncertainty to resolve**, not permission to fill Hime’s history from inference. The short’s matching accessory retains nonexclusive attachment; no new spending or leisure preference is invented. [C21/C25/C27.]
+
+### 15.6 WY1-CAST-MITSUKI — Yano Mitsuki / 矢野美月; café Ayanokōji
+
+Mitsuki is present in the short and in others’ account of the earlier kiss, not in a newly depicted V12 intimate interaction with Hime. Her admission of difficulty understanding important people, together with envy of Kanoko’s importance to Hime, adds a modest but valuable ordinary conversation state. She does not demand that Hime abandon Kanoko in that scene. Her advice provides uncertainty rather than an authoritative diagnosis of Kanoko. [O26/O31.]
+
+The inherited HM contact forecast remains untested because Hime supplies no qualifying new limit to Mitsuki. Preserve existing evidence-ledger/monograph candidates and defer operational promotion. Do not substitute Sumika’s successful stop or failed release for Mitsuki’s response policy. No acoustic performance or comprehensive preference inventory is inferred. [WY8-PR01; C27.]
+
+### 15.7 Mai and the four sparse subjects — preserved identities, proportionate updates
+
+| Subject | Actual V12 contribution | Readiness disposition |
+| --- | --- | --- |
+| **WY1-CAST-MAI — Koshiba Mai / 小柴舞; Mikoshiba role** | Edition promotional illustration and separately authored setting manual; no new mainline intervention or full hotel briefing. O33/O34. | Preserve prior managerial evidence and separate its production framing. No new biography, model validation or claim that practical competence resolves the current crisis. |
+| **WY6-CAST-MITSUKI-FATHER — unnamed father** | No material new V12 evidence. | Preserve sparse identity and prior source boundary; no zero-change personality invention. |
+| **WY7-CAST-NAGISA** | No material new V12 evidence. | Preserve prior school-scene scope and deferred independent modeling. |
+| **WY7-CAST-TANABE** | No material new V12 evidence. | Preserve prior source identity and limits; do not transfer another speaker’s advice. |
+| **WY9-CAST-HARUKO — Shinooka Haruko / 篠岡春子** | No material new V12 character finding. | Preserve the accepted full identity and sparse kitchen evidence. The receiving V10 name correction remains effective. |
+
+The fictional Olivia and Erna belong to an embedded work and are indexed as such, not enrolled as new Watayuri mainline cast members. The hotel personnel, including the uniformed attendant, have bounded scene functions without supplied personal identities; no biographies or duplicate local subjects are created. Eleven established local records therefore remain eleven, and that count is not a statement about global discovery enrollment.
+
+### 15.8 Architectural checkpoint
+
+The existing nine responsibilities remain adequate. The particularly dense new questions—coerced interpretation, differentiated bodily boundaries, care without equivalent return, chosen friendship after rejection and reader/recipient knowledge—already have clear homes. Creating another empty ledger would not improve retrieval. The volume reading retains the full argument; the proposed increments preserve consequential state and cite it.
+
+A bounded Sumika–Kanoko study, Nene’s post-refusal development, and an analysis of Yoko’s use of stories and communication channels are justified **future candidates**, not completed artifacts. Any character monograph must answer who the person is, how she speaks and acts, her values and ordinary behavior, and how her response changes with knowledge, relation and stress. It must not treat V12’s crisis behavior as her entire everyday personality. Operational predictions and crossover portability require additional explicit validation, especially where a role or long relationship supplies the context.
+
+
+<a id="v13"></a>
+## V13 — Current additions and transitions — 2026-10-20
+
+**V13 evidence key:** source-map key `V13`, Japanese witness `1ZfyaG_u1-wVtFuuIFWQZGLEdmck-hY7W`, SHA-256 `602797c4450237e0eb6e391fac4099fa00ba7569f2de2a25ffb338e5085a14b1`. The [frozen V13 reading](../02%20Sequential%20Readings/WATAYURI_V13_DEEP_READING.md#readiness) supplies full context and image conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V13; original forecasts retain their creation-volume shorthand. Section numbers refer to that complete reading. Mainline/latest present ends at Shift 66/i158 before the planned reading event and further Sumika conversation. Shift 66.5/i160–162 falls after the park outing and before the breakup; edition matter and bonus do not continue the ending. V14 and V10-B remain excluded.
+
+**Receiving disposition:** the complete responsibility section below is accepted for this source-branch transaction; “proposed” labels and producer-stage statements retain their historical provenance. Main acceptance and run completion remain separately governed in the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md#operational-boundary) and [receiving review](../07%20Audits%20and%20Handoffs/WATAYURI_V13_INTEGRATION_REVIEW.md). All earlier bodies, original claim identities and receiving corrections remain preserved under the [expanded V10 claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum).
+
+## 15. Cast and reconstruction-readiness checkpoint
+
+The eleven established local subject identities are retained. This is a V13 evidence assessment, not a global discovery update or a capability grade. A dedicated evidence ledger, an operational reconstruction model, a monograph, a specialist synthesis, and cross-series portability remain separate decisions. A substantial reading and a plausible explanatory seed do not themselves pass all those gates.
+
+### 15.1 WY1-CAST-KANOKO — Mamiya Kanoko / 間宮果乃子
+
+**Major gain in historical causal coverage.** The anonymous-letter sequence supplies a concrete decision rule that earlier observations could only partly reconstruct. Kanoko can choose a risky disclosure when she imagines positive recognition, then retreat when she interprets refusal as loss of her special category. She preserves the valued connection by withholding identity, substituting an account, and proposing a rule against future change. This is more specific than “shy” or “possessive.” The behavior depends on what she expects disclosure to cost and which form of specialness she thinks can survive. [O03–O07.]
+
+**Present change is consequential but incomplete.** Kanoko becomes an actually useful listener to Sumika, chooses the café rather than exclusive time with Hime, and ends the volume wanting to talk properly with Sumika. These are counterexamples to a model in which every non-Hime person is interchangeable. They do not settle romantic reciprocity. Her fear of Hime knowing the love target, her forceful alarm, and her wish to prevent change remain active alongside new agency. [O11/O22/O29–O33.]
+
+**Everyday, speech, and state distinctions.** The bakery supplies limited preference uncertainty, apologetic sensitivity, and willingness to let Sumika choose; the park supplies an ability to answer another person’s problem with qualified reasoning. School withdrawal and sharp street protest are different states, not contradictions that require one to be dismissed as fake. Her language can move from deferential requests to direct anger when a valued arrangement is threatened. Do not invent comprehensive hobbies, food favorites, family attitudes, or a fixed sexual-identity label from these scenes.
+
+**Readiness:** dedicated chronological evidence retrieval is strongly justified as a separately commissioned task; a bounded V01–V13 monograph has substantial material but must preserve the new history’s late disclosure and the unresolved final talk. An operational model remains unpromoted: the new forecast is genuinely future-facing, and the source still has limited evidence outside the central school/work/attachment network. Cross-series portability remains deferred.
+
+### 15.2 WY1-CAST-SUMIKA — Chibana Sumika / 知花純加; café Tachibana Sumika / 橘純加
+
+**The helper needs help and has limits.** Sumika’s response to Kanoko’s advice is actual received care. Her domestic routine, food choices, playful dating manner, and difficulty with lingering reminders provide more ordinary-life evidence than a café-only persona model. The stored photo and cleanup sequence show a person trying to regulate exposure to a continuing attachment, not a person whose decision automatically ends feeling. [O08–O13/O34.]
+
+**Conditional decision policy:** when Sumika believes listening relieves loneliness, she can make room for disclosure and reject payment logic. When she concludes that the same arrangement perpetuates Kanoko’s suffering and exceeds her own endurance, she changes the terms and may prescribe a next step despite an immediate stop request. Her method is neither always controlling nor automatically justified by care. Asking about contact, allowing actual departure, and apologizing to Hime are meaningful contrasting cases. [O10/O18–O21/O26.]
+
+**Self-account and contradiction.** Sumika calls her own romance selfish and harmful, but the source preserves useful care and restraint. Conversely, her protective account of the breakup does not exhaust the private limit stated in the short. A reconstruction should carry both statements and their contexts rather than choose one as the complete hidden truth. Her confidence that Hime will not destroy the relation is a prediction made under partial knowledge, not a reliable fact a simulation may freely assume.
+
+**Readiness:** a bounded monograph or SK specialist remains a strong candidate after this tranche is accepted, with particular attention to the difference between support, endurance, and authority over another’s future. The new mixed forecast result should be included in any validation discussion. No operational or portable model is promoted here, and source-only manga speech does not authorize acoustic imitation.
+
+### 15.3 WY1-CAST-HIME — Shiraki Hime / 白木陽芽; café Shirasagi Hime / 白鷺陽芽
+
+**Historical friendship becomes more specific.** Hime actively rejects the pity account and asks for public closeness. She also handles the anonymous letter without knowing its author, revealing both her trust in Kanoko and the limitations of a conversation in which a hidden participant is affected by the proposed answer. These scenes should not be turned into deliberate rejection of a known Kanoko or an omniscient defense of every thing Hime says. [O02–O06.]
+
+**Present concern has a personal stake.** Hime notices withdrawal, offers alternatives, initially respects solitude, then pursues an explanation. Her later acknowledgment that she wants Kanoko’s attention makes the motivation more integrated: she cares about Kanoko and fears losing a valued place. Neither kindness nor self-involvement alone explains the sequence. The mixed procedure must remain in the model—initial restraint, renewed insistence, contact, play, clarification, and acceptance of partial rather than total disclosure. [O22–O33.]
+
+**Negative constraints:** Hime does not know the letter’s authorship or Kanoko’s romantic target at the freeze; she has not been fully briefed on the hotel; her positive attachment is not a new romantic classification; and the old self-report does not establish a lifelong incapacity. A simulation that gives her the reader’s complete causal map would be materially wrong.
+
+**Readiness:** the source tranche supports a nuanced bounded monograph candidate, especially performance, friendship, attention, and fear of separation. Operational validation remains separate. The dormant reputational-threat forecast cannot be treated as passed by this different intervention. Everyday evidence includes ordinary school/work participation, lunch choices, an offered outing, and the bonus’s task reassurance, not an invented comprehensive lifestyle.
+
+### 15.4 WY1-CAST-MITSUKI — Yano Mitsuki / 矢野美月; café Ayanokōji Mitsuki / 綾小路美月
+
+V13 adds comparatively little mainline interiority. Schoolwork cooperation and ordinary service context support continued participation; the bonus adds a specific performance-memory difficulty and willingness to receive Hime’s reassurance. Kanoko’s comparison of Mitsuki’s continued specialness is evidence about Kanoko’s reasoning, not a new statement by Mitsuki. The established nonromantic HM distinction and prior contact agreement remain unchanged. [O07/O14/O36.]
+
+Readiness should therefore not be inflated by the volume’s length. Retain earlier monograph/evidence candidates and their temporal states; add the bonus with its separate witness tag. No new Hime-to-Mitsuki limit event validates the open boundary forecast, and no role-based assumption of universal task mastery should override the actual rehearsal panel.
+
+### 15.5 WY1-CAST-MAI — Koshiba Mai / 小柴舞; café Mikoshiba Mai / 御子柴舞
+
+The managerial conversation is a substantive new case. Mai uses a pretext to create privacy, apologizes for it, allows postponement, distinguishes minimizing language from the absence of harm, and leaves help available without forcing further action. This adds evidence of a more careful procedure while preserving the earlier recruitment and recovery-concealment history. One good intervention cannot retroactively authorize those earlier acts. [O15/O16.]
+
+The exact source also constrains interpretation: Mai is working from Nene’s report and Kanoko’s current account, not a complete official record. The additional request begun at i071 remains incompletely supplied. A model must not invent its content. A dedicated evidence study remains justified if commissioned; a full private biography or unrestricted managerial reliability is not established here.
+
+### 15.6 WY3-CAST-NENE — Nishidera Nene / 西寺寧々; former Saionji role
+
+Nene’s relation to Sumika is discussed by Sumika at the park, and Mai identifies Nene as an information route concerning Saturday. Those are consequential present continuations, but V13 does not provide a new complete Nene interior account or another direct Nene–Sumika reconciliation scene. Preserve the V11 tea repair and V12 intervention at their own source boundaries. Kanoko’s helpful interpretation cannot be substituted for Nene’s unspoken response. [O11/O15.]
+
+The existing bounded monograph and evidence-retrieval candidates remain justified on the cumulative tranche. This volume adds relational circulation of earlier events, not a new proof of permanent emotional closure, revived romance, or an expanded present relationship with Yoko.
+
+### 15.7 Five sparse or nonexpanded subjects
+
+| Existing ID | V13 treatment | Readiness consequence |
+| --- | --- | --- |
+| **WY4-CAST-GOEIDO — Gotō Yōko / 後藤葉子** | Hotel conduct is recalled/reported; no new Yoko action, apology, reformation, sanction, or reunion is shown. | Preserve prior bounded model and serious evidence limits. Do not make absent aftermath into a resolution. |
+| **WY9-CAST-HARUKO — Shinooka Haruko / 篠岡春子** | Established identity remains. No consequential new personal development is attributed in this reading. | Sparse local status retained; no invented biography or global enrollment. |
+| **WY6-CAST-MITSUKI-FATHER** | No new qualifying V13 evidence. | Preserve unnamed identity and sparse scope; do not infer new family knowledge. |
+| **WY7-CAST-NAGISA** | No new attributed development required by the volume’s major claims. | Prior school evidence remains, with no promotion by association. |
+| **WY7-CAST-TANABE** | No new attributed development required by the volume’s major claims. | Same separate sparse gate; do not assign unnamed school speech to this subject without evidence. |
+
+Unnamed classmates, shop participants, children, and guests are retained in their actual local functions without invented names or unnecessary new enrollments. The fictional Erna remains a role in the performed text, not a newly discovered member of the ordinary Watayuri cast.
+
+### 15.8 Architecture and next evidence needs
+
+The nine existing responsibilities capture the material additions. No new ledger class is needed merely because the volume introduces a fuller old confession or a dating breakup. A future bounded HK history study could use the anonymous-letter mechanism and current remembered promise; an SK study could compare listening, receiving help, endurance, and authority. Such studies should be commissioned for a distinct retrieval or synthesis purpose, not created as obligatory placeholders.
+
+The next important uncertainties are concrete: what Kanoko says to Sumika if the proposed conversation occurs; how Sumika responds while retaining her own limits; whether Hime is ever told the letter’s authorship or romantic target; and how the scheduled performance interacts with the unsettled private relations. None is answered by the mere existence of a later volume in the inventory.
+
+
+<a id="v14"></a>
+## V14 — Current additions and transitions — 2026-10-21
+
+**V14 evidence key:** source-map key `V14`, Japanese witness `1PBGoBpS9bAs5e7Ljyl9jt8rWmvvHGFrS`, SHA-256 `36e49e9c3e79c7d355302bca34a0cd7350350ed9e9e0103e87be9f3ce096bd00`. The [frozen V14 reading](../02%20Sequential%20Readings/WATAYURI_V14_DEEP_READING.md#readiness) supplies full context and image conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references below mean V14; original forecasts retain their creation-volume shorthand. Section numbers refer to that complete reading. Mainline/latest present ends at Shift 71/i156, including the later photograph-board coda. Shift 71.5/i158–161 follows the stage kiss, but its exact placement relative to the coda is OPEN. Edition/bonus material stays separately bounded. V10-B and later sources remain excluded; inventory exhaustion does not establish series completion.
+
+**Receiving disposition:** the complete responsibility section below is accepted for this source-branch transaction; “proposed” labels and producer-stage statements retain their historical provenance. Main acceptance and run completion remain separately governed in the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md#operational-boundary) and [receiving review](../07%20Audits%20and%20Handoffs/WATAYURI_V14_INTEGRATION_REVIEW.md). All earlier bodies, original claim identities and receiving corrections remain preserved under the [expanded V10 claim-lineage erratum](WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#v10-claim-lineage-erratum).
+
+## 15. Cast, reconstruction readiness, and architecture checkpoint
+
+**Destination:** `03 Longitudinal Ledgers/WATAYURI_CAST_AND_RECONSTRUCTION_READINESS.md`. The eleven existing local identities are retained. One sparse, explicitly unnamed historical subject is added for attribution, not as a new global character enrollment. Evidence ledger, integrated monograph, operational model, validation, and cross-series portability remain separate gates.
+
+### 15.1 Chibana Sumika — acknowledged love with an incomplete procedural repertoire
+
+**Existing ID: `WY1-CAST-SUMIKA`.** V14 substantially improves a time-indexed account of Sumika. She can be an effective organizer and performer, notice and cover another person’s error, refuse offered compliance as insufficient, accept help from Nene, and disclose jealousy that previously distorted her support. These are actual differences of capability and state, not a single shift from bad to good. Her tears are intelligible through the staged farewell and her later account, rather than being treated as a free-standing sign of a universal personality trait. [O03/O06/O09/O13/O15.]
+
+The central motivational tension is now more explicit: Sumika wants to support Kanoko’s love and to have her own love matter, while fearing that the second desire makes the first corrupt. The beautiful-ending pose attempts to solve the tension by making her own cost disappear from the account. Nene’s advice and Kanoko’s response allow a different solution—say the cost, let the other person respond, and keep the relation without pretending the feelings match. This supports a richer bounded psychological synthesis, but not a guarantee of stable future success. [O04/O13–O18.]
+
+Ordinary behavior matters to the reconstruction. Sumika is embarrassed by conspicuous encouragement, can deflect a personal compliment into a safer general explanation, responds with awkward food offers, apologizes for a bodily comment, and enjoys playful banter while remaining easily destabilized by Kanoko’s attention. Her written speech shifts between composed elder language, direct ordinary self-reference, apology and teasing. A future model should condition these behaviors on audience and relationship rather than simulate her as uniformly confident or uniformly self-denying. [O26–O31; JP02–JP10.]
+
+**Readiness:** strong evidence for a bounded V01–V14 monograph and a dedicated cumulative evidence ledger, especially the relation between work competence, moral self-image, jealousy and listening. A testable operational model remains to be separately formulated and validated. Cross-series portability and any global capability grade are not established by this reading.
+
+### 15.2 Mamiya Kanoko — a second person’s good becomes a reason of her own
+
+**Existing ID: `WY1-CAST-KANOKO`.** The strongest new evidence is not a romantic conversion. It is Kanoko’s ability to identify Sumika as a person whose feelings and well-being she wants to protect, even while she continues loving Hime. Her first proposal still treats dating and bodily availability as repayment. The later proposal explicitly differentiates those acts from valuing the love. That developmental sequence should be preserved rather than summarized as an instantaneous lesson learned before the volume began. [O02/O03/O14/O17/O18.]
+
+Kanoko’s agency is concrete and conditional. She obtains private time, challenges Sumika’s account, chooses to stay after work, asks Hime to wait, and names another important person. She also loses a cue while thinking, initiates an unrequested stage kiss, and uses a painful pinch when frustrated with Sumika’s self-effacement. A mature account must keep the capacity to act and the quality of the chosen method separate. Neither a shy appearance nor an affectionate motive determines whether a particular act respects the other person’s limit. [O01/O09/O10/O12/O29/O30.]
+
+The ordinary-life record gains useful details without becoming an invented preference catalogue. Kanoko would attend this party for Sumika, wants potatoes in this exchange, accepts help supporting Mitsuki, and reflects privately after overhearing classmates rather than joining their discussion. The short’s wish for Sumika’s happiness and dissatisfaction with a generic senior label give her attachment positive content beyond a negative “not romantic.” None supplies a universal favorite food, complete social profile, or final self-applied identity category. [O27/O29/O32/O33.]
+
+**Readiness:** strong evidence for a bounded monograph and dedicated evidence retrieval, including revisions from exclusivity, secrecy and repayment toward personally chosen care. Any behavioral model must preserve the still-hidden Hime-directed love, the anonymous-letter history, and the absence of the promised new confession. Novel-situation predictions remain extrapolations unless validated against separately withheld evidence.
+
+### 15.3 Nishidera Nene — support without recapturing the former role
+
+**Existing ID: `WY3-CAST-NENE`; retain the Saionji alias on this subject.** Nene’s listening after the performance demonstrates that her earlier repair with Sumika has a usable present consequence. She can update a mistaken assumption, offer company, and draw on regret without trying to turn Sumika’s pain into a romantic opening. Her advice asks for an answer-producing conversation rather than the jealousy-producing procedure she once joined. This is a bounded behavioral contrast, not proof that every old feeling is gone. [O13; accepted V11 history.]
+
+Her Yoko response adds another necessary complexity. Nene supports restriction and blocks contact while acknowledging that the relationship once contained something helpful. A reconstruction that permits only pure condemnation or a return to romance would fail to reproduce this evidence. She can preserve an emotionally mixed history and still make a present access decision. Her direct ordinary speech and practical companionship belong alongside, rather than beneath, the romantic chronology. [O23/O26.]
+
+**Readiness:** a substantial bounded monograph and focused relationship/evidence study are warranted candidates. The relevant negative constraint is strong: do not predict every act of care for Sumika as an attempt to regain romantic status, and do not infer Yoko reconciliation from an acknowledgment of past benefit. Operational and portability assessment remain separate.
+
+### 15.4 Gotō Yōko / Goeidō — a history for certainty, not a certificate of explanation
+
+**Existing ID: `WY4-CAST-GOEIDO`.** V14 adds an explicit encounter with institutional accountability and a limited memory of a senior. Yoko continues to minimize harm and treats reactions she helped produce as evidence for her romance-only model. Her promise to disengage lacks a clear remorse account and has no admitted future enforcement test. The new history complicates a model of her motives, but does not diminish the direct evidence of her later choices. [O19–O25.]
+
+The senior memory supports cautious hypotheses about a desired sister relation and fear of rejection. It does not establish a full developmental biography, a diagnosis, a permanent sexual-identity category, or a single traumatic cause of all subsequent conduct. It also does not establish that every affectionate word Yoko ever spoke was false. The reconstruction problem is to explain how sincere attachment, selected interpretations, pleasure in influence, and harmful action can coexist without using one to erase the others.
+
+**Readiness:** a source-bounded character study is materially strengthened. Any operational model must distinguish known coercive procedures from uncertain deep causes and must not predict reform from the exit promise alone. Her current relation with the senior remains fragmentary. No outside biography or general theory of sexuality is supplied.
+
+### 15.5 Shiraki Hime — allowing distance without possessing the secret
+
+**Existing ID: `WY1-CAST-HIME`.** Hime’s direct new contribution is not a revelation of her own romantic orientation. She permits Kanoko to stay with Sumika, accepts a confidential answer, and agrees to wait, while privately feeling the loneliness of not knowing. Her relief that Kanoko has another important person is positive evidence of nonexclusive care. It does not mean she has ceased wanting special access or that she now knows the old letter’s author and love target. [O05/O12/O30.]
+
+The party also supplies ordinary practical care and discomfort: Hime offers a drink Kanoko liked, recognizes trouble with Mitsuki’s chocolate, and thanks Kanoko for assistance. These scenes support a model that includes competent everyday attention rather than only façade management and major confessions. They do not test the older reputational-threat forecast or create a new informed exclusivity response.
+
+**Readiness:** earlier monograph candidacy remains strong; V14 adds specific behavior under changed friendship and secrecy. A reconstruction must preserve actual knowledge limits and her retained nonromantic answer to Mitsuki. The new scenes do not establish a universally permissive attitude to touch or a permanent immunity to jealousy.
+
+### 15.6 Yano Mitsuki — current familiarity is not complete procedural reliability
+
+**Existing ID: `WY1-CAST-MITSUKI`; retain Ayanokōji as the role alias.** Mitsuki’s V14 mainline role is narrower than the central SK development. She participates in work and the party, speaks bluntly about Sumika’s rejection, and appears in the chocolate-related intrusive comic episode. Her ongoing relation with Hime is not reclassified as mutually romantic. The narrow explicit-limit forecast receives no clean new trial, while the behavior still qualifies any overly broad claim of reliable restraint. [O26/O29.]
+
+The bonus gives a separately bounded costume/pursuit joke, not a new canonical romance outcome. It should not be used to fill gaps in Mitsuki’s mainline interiority. **Readiness:** preserve prior evidence density and monograph candidacy; append this narrower current behavior and its source class. Do not promote a general model from a comic sequence with limited causal information.
+
+### 15.7 Koshiba Mai — institutional responsibility with bounded knowledge
+
+**Existing ID: `WY1-CAST-MAI`; retain Mikoshiba as the role alias.** Mai now supplies a direct response to reported harm, using the image/message record and Kanoko’s account, communicating exclusion and a future consequence. She also organizes the reading and celebration, distinguishes private photographs from merchandise, and offers theatrical hospitality. These are different exercises of authority and labor; none automatically absolves the earlier recovery concealment. [O06/O19–O22/O26/O31/O35.]
+
+The misleading invitation and uncertainty about Yoko’s future return remain part of the account. A model should neither cast Mai as an omniscient controller nor ignore the actual institutional boundary she creates. **Readiness:** a bounded managerial/persona study is strengthened, while full operational reliability and legal competence are not established by the scene.
+
+### 15.8 Sparse retained subjects and a new unnamed historical attribution
+
+| Local identity | V14 evidence / retention | Readiness consequence |
+| --- | --- | --- |
+| **WY6-CAST-MITSUKI-FATHER** | No new substantive V14 evidence. Preserve the prior limited visit-related record and uncertainty. | No fabricated zero-change observation or expanded biography. |
+| **WY7-CAST-NAGISA** | No new source-grounded identification or substantive V14 scene is added here. | Retain sparse prior scope; do not merge unnamed schoolgirls with this subject. |
+| **WY7-CAST-TANABE** | No new substantive V14 evidence under the established identity. | Prior advice-related coverage remains; no model or monograph promotion. |
+| **WY9-CAST-HARUKO — Shinooka Haruko / 篠岡春子** | The backstage comparison at i045–046 adds a limited situated view of the reading event. | Full established name retained; still too little for an integrated psychological reconstruction. |
+| **WY14-CAST-YOKO-SENIOR — unnamed senior addressed by Yoko** | Historical book/story interaction and initiated closeness at i119–123, plus partial current contact screen at i124. | New sparse local identity for stable attribution only. No personal name, parentage, marriage, complete history, or global enrollment is inferred. |
+
+The newly recorded senior is not a duplicate of Nene, Haruko, or an assumed known character. Other incidental schoolgirls, guests, and silhouettes remain unexpanded unless a future source makes them recurring subjects. The local count becomes **twelve**, consisting of eleven retained identities and one sparse unnamed subject. This is not a count of global discovery records or usable simulations.
+
+### 15.9 Architecture review at the inventory ceiling
+
+The existing nine responsibilities remain sufficient. The senior memory belongs to chronology, directional relationship, information, and sparse cast evidence; it does not require a new empty category. The event manual fits the existing performance/institution lane. The altered SK arrangement and Yoko comparison justify future bounded specialist questions, but this sequential task does not create those artifacts or pronounce their conclusions in advance.
+
+After receiving integration, a V01–V14 inventory-bounded reconciliation could consolidate original claim identities, unresolved tests, source-class boundaries, and character evidence retrieval before any major synthesis. It should not infer a terminal series boundary from the old inventory, silently admit V10-B, or erase the pending main-acceptance duties of earlier tranches. A monograph can be worthwhile at a bounded continuing-series state; cross-series simulation still requires an independently specified timestamp, knowledge state, limits, and validation.

@@ -504,3 +504,16 @@ The matrix requires a targeted Rinha audiovisual baseline before full person-lev
 The unnumbered [KAYA_RINHA AV home](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) supplies 18 scene records, 12 physical identities, 538 distinct inspected frame points, 18 selected-mix measurements and 73 claim dispositions. Rinha remains the distributed non-playable Tier S responsibility.
 
 Current source count is 118 relevant objects / 43 direct objects / 620 Rinha messages; historical 621 includes one fan-prefix false positive. The baseline refines C070’s sustained/accepted vulnerability, C052’s story-skill versus acoustic-fidelity distinction and C057’s speaker/body/observer attribution. Listening and continuous-motion review remain at 0 seconds. The character dossier is still pending; current next work is perceptual discrimination, not another acquisition plan.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+| character/actor | source_id | role | affiliations | relationships | institutional_function | continuity_class | confidence | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Hiwatari Kanae | GKM-R86-04, 07, 08 | live-in attendant, trainee and supporter | Kuramoto-affiliated school and household | China, Misuzu, Producer | care, dance support, election and commercial backstage work | C1 horizontal arc, C4 support | high within scenes | requests experiential access, future role open |
+| Kaya Rinha | GKM-R86-02, 03, 07, 08 | peer interlocutor and retrospective witness | track-specific SyngUp alumni ties | Misuzu, Temari, Sena and Tsubame | rehearsal, comparison and voiced disagreement | C1 local | high for exact tagged speech | 3 new exact-speaking objects, 28 messages, tracked separately from 1.0 |
+| owl | GKM-R86-08 | invited technical and creative mentor | 100 Pro | China, Hiro | controlled practice and borrowing team capabilities | C1 within each M sequence | high for stated methods | later school role open |
+| President Juo | GKM-R86-02, 05, 08 | president and parent | 100 Pro | Sena, Rinami, Mao | review of dual role, personal counsel and separate proposed contract | local C1 | high for attributed statements | neither private judgment nor offer constitutes an industry rule |
+| Serina, Shuka and Oboro | GKM-R86-09 | observers in the wings | scoped professional horizon | distinct Dear winners | anticipation and succession | C1 within alternative D tracks | high for displayed speech | `kkka` voice stem for final `？？？` remains a discovery lead |
+| Kotone's younger sister | GKM-R86-01 | trainee and spectator | Fujita family | Kotone | aspiring future co-performer | C1 within D-KOTONE | high | exact personal name open |
+| Asari | GKM-R86-07, 09 | teacher | Hatsuboshi Producer Course | student Producer, subjects of lesson | explains trainee support and alternative appraisal factors | C4 support / C3 lesson | high for speech | prior employment is reported research, alias open |

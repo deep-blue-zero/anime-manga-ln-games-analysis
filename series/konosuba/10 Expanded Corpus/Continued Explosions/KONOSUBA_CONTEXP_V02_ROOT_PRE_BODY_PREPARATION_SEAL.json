@@ -1,0 +1,443 @@
+{
+  "schema": "KONOSUBA_INFORMED_ROOT_PRE_BODY_CONTEXT_SEAL_V1",
+  "created_utc": "2026-10-18T19:03:46.948332+00:00",
+  "source_id": "CONTEXP-02",
+  "native_bytes": 2412289,
+  "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+  "native_admission_sha256": "7f77c217d7a711a0966a74377ddcc1ec9852b75be97fd82a01e68cad4516ccaa",
+  "preceding_full_gate_source": "b0668884aeb1e0f58db2395b214b9b3b947f0d8f",
+  "preceding_fresh_reload_sha256": "17a5ef3b4b3876c20c476e48eb437dab8f5b3077725945c5942271a353a3e196",
+  "actual_new_story_paragraphs_read_before_this_record": 0,
+  "actual_new_images_viewed_before_this_record": 0,
+  "entering_unchanged_Dust01_questions": "Historical unchanged Dust-only controls; not active family forecasts for this non-Dust source. All fourteen original future fields remain blank.",
+  "original_questions_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+  "original14future_fields_remain_blank": true,
+  "no_new_forecast_generation_or_amendment_at_this_admission": true,
+  "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+  "nonplot_preparation": "Use exact unchanged main-model contracts only at genuinely eligible chronological states. Track actual ability, accepted burden, target bond, provider ownership, independent choices, available cues and consequences. Informed local assessment is not a blind holdout score. Keep actual contraries and missingness.",
+  "source_first_plan": "Actual full supplied edition: all35text components including ruby/residuals/front/end/bonus/afterword/navigation and all25images, then immutable complete uncoded seal before formal L/H/voice/local outcomes.",
+  "full_program_continues": true,
+  "applicable_informed_family_context": {
+    "schema": "KONOSUBA_EXPLOSIONS_INFORMED_PRE_BODY_CONTEXT_V1",
+    "status": "INFORMED_EXPLORATORY_CONTEXT_NOT_NEW_FREEZE_OR_BLIND_FORECAST",
+    "created_utc": "2026-10-18T19:03:43.771568+00:00",
+    "source_id": "CONTEXP-02",
+    "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+    "new_source_body_read_before_context": 0,
+    "new_source_images_viewed_before_context": 0,
+    "entering_model_pins": [
+      {
+        "path": "06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+        "bytes": 60891,
+        "sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f",
+        "actual_semantic_reload_scope": "Megumin §§6–19,25–26: actual bounded semantic reload; seven unchanged R1-M contracts, not a new whole-model reread."
+      },
+      {
+        "path": "06 Character Modeling and Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+        "bytes": 67885,
+        "sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e",
+        "actual_semantic_reload_scope": "Party §25: all eight exact unchanged action/contrary contracts actually reloaded, with behavioral findings separated from typed constraints."
+      },
+      {
+        "path": "06 Character Modeling and Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 51278,
+        "sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1",
+        "actual_semantic_reload_scope": "Transfer §§13–16: actual bounded semantic reload of character-specific recalibration, provider graph, voice and seriousness limits."
+      }
+    ],
+    "applicable_unchanged_contracts": {
+      "Megumin": [
+        "R1-M01",
+        "R1-M02",
+        "R1-M03",
+        "R1-M04",
+        "R1-M05",
+        "R1-M06",
+        "R1-M07"
+      ],
+      "party": [
+        "R1-E01",
+        "R1-E02",
+        "R1-E03",
+        "R1-E04",
+        "R1-E05",
+        "R1-E06",
+        "R1-E07",
+        "R1-E08"
+      ],
+      "transfer": "Typed consistency only; not canonical behavioral forecast confirmations."
+    },
+    "chronology_and_exposure": "Separate publication order, in-world slice and actual encounter order. Follow EXP01→EXP02→EXP03→CONTEXP01→CONTEXP02 for this family. The exact within-book chronology is not assumed from an unopened body. Root already knows main17, four principal holdouts, accepted mixed sources and eight whole Dust editions; possible pretraining persists. An earlier character cannot inherit that later knowledge, skills, resources or intimacy. This is an informed expanded-corpus reading, not pristine independent testing.",
+    "reader_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+    "Dust_controls": "The seven Dust01 hypotheses and14future/adjudication blanks remain exact historical controls, not the active forecast family here. All four accepted holdout score artifacts remain immutable.",
+    "working_inquiries": [
+      {
+        "id": "EXP-INFORMED-W01",
+        "question": "At the independently established chronology of this continuation, how does chosen Explosion identity compete with actual contribution, scarcity, relationships and received criticism?",
+        "guard": "Record accepted burden versus external challenge, actual alternatives and contrary priorities; do not grant later mastery or call every rank dispute an explicit specialty challenge."
+      },
+      {
+        "id": "EXP-INFORMED-W02",
+        "question": "What skills, costs, resources, target relationships and recovery providers are actually available before each magical choice?",
+        "guard": "Separate intention, acquisition, execution, own choice, imposed rescue and aftermath. Output success does not establish prior geometry, autonomous safety inhibition or agreed provision."
+      },
+      {
+        "id": "EXP-INFORMED-W03",
+        "question": "How do Megumin and Yunyun each sustain, seek, exploit, refuse or repair their particular relation alongside independent aims?",
+        "guard": "No universal jealousy, kindness, unconditional obedience or retroactive consent. Main-series familiarity, particular intimate agreements and resources apply only when the actual source chronology independently supplies them; neither later knowledge imported early nor an early-state exclusion inherited automatically."
+      },
+      {
+        "id": "EXP-INFORMED-W04",
+        "question": "Which ordinary capabilities, preferences and family/resource practices have actual witnesses at this continuation’s own chronology, and which remain unknown?",
+        "guard": "Poverty is not universal thrift or an invented biography; no modern expertise by analogy. Record mundane neutral acts alongside comic peaks."
+      },
+      {
+        "id": "EXP-INFORMED-W05",
+        "question": "Who actually narrates each component, what is their current access and relationship stage, and how do self-description and audience management differ from other actors and the reader?",
+        "guard": "Identify the native narrator before attributing first person. Preserve false belief, available evidence and timing of later revelations; no assumed omniscience."
+      },
+      {
+        "id": "EXP-INFORMED-W06",
+        "question": "How do written register, theatricality, relational stance and comic sequence vary by recipient and purpose?",
+        "guard": "Collect exact native voice joins before formal codes. Keep H literalness and L linguistic dependence separate; magic alone is not H4, and ordinary idiom is not automatically L3. No acoustic/native-human certification."
+      }
+    ],
+    "evaluation_boundary": "Read every actual supplied eligible body/ruby/residual/image, including separate bonus stories and paratext, and seal the uncoded complete pass before assigning formal outcomes. Main R1-M/E records retain their original conditions; report source-specific eligibility, supporting behavior, actual adverse behavior, missingness and rivals separately. Do not amend the frozen baseline, fabricate scores or treat typed correctness as behavioral confirmation.",
+    "full_program_continues": true,
+    "actually_received_prior_expanded_family_context": [
+      {
+        "source_id": "EXP-01",
+        "publication_source": "ca8fa360d1b8e75a06b1f36e30c6189514e96090",
+        "gate_closed_utc": "2026-10-18T14:17:41.537840+00:00",
+        "fresh_authority_reload_utc": "2026-10-18T14:17:46.999724+00:00",
+        "assessment_path": "10 Expanded Corpus/Explosions/KONOSUBA_EXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+        "assessment_sha256": "09fb92b9dbb27df1510c7b9cbe83154e3eae720faaa411aec716626444f64c36",
+        "qualification_path": "10 Expanded Corpus/Explosions/KONOSUBA_EXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "qualification_sha256": "594cdfbf1b894c90b52d570baf0f68d8317f819ebabaa009bffa85e1fd8c4a79",
+        "prior_local_dispositions": [
+          {
+            "id": "R1-M01",
+            "local_category": "IDENTITY_ACTIVATION_OBSERVED_FULL_COMPETITIVE_COST_CONJUNCTION_QUALIFIED",
+            "model_transition": "PRESERVE identity sensitivity; do not claim a fully matched ordinary-companion-cost priority confirmation.",
+            "current_local_disposition": "No new C/P/F score. Strong descriptive activation and real ordinary-cost disregard inform the expanded model; full R1-M01 predictive comparability stays qualified."
+          },
+          {
+            "id": "R1-M02",
+            "local_category": "MEANINGFUL_RECONSIDERATION_SUPPORTED_BEFORE_OUTSIDE_INTERVENTION",
+            "model_transition": "STRENGTHEN a bounded contribution/identity conflict at this early state; retain the earlier refusal.",
+            "current_local_disposition": "Informed local behavioral support for meaningful reconsideration, not permanent rebuilding, a new prospective holdout success or proof that every danger recruits the same priority."
+          },
+          {
+            "id": "R1-M03",
+            "local_category": "NARROW_OUTPUT_SUCCEEDS_FULL_PREPARED_SAFE_OPERATION_NOT_ESTABLISHED",
+            "model_transition": "PRESERVE capacity/operation separation; keep whole-operation reliability open.",
+            "current_local_disposition": "Full prepared-operation branch remains untested/qualified here; powerful target execution and meaningful collateral/exhaustion are both accepted descriptive findings."
+          },
+          {
+            "id": "R1-M04",
+            "local_category": "NO_CLEAR_RECOGNIZED_BONDED_ACTUAL_PERSON_TARGET_CASE",
+            "model_transition": "OPEN the limited bonded-target transfer question; preserve contrary-looking pet acts at their actual scope.",
+            "current_local_disposition": "No new target-branch or aftermath score; early attachment is conditional and the original Wolbach-based transfer remains limited."
+          },
+          {
+            "id": "R1-M05",
+            "local_category": "CONTINUATION_DESIRE_WITH_OBSERVED_TEMPORARY_RESTRAINT",
+            "model_transition": "QUALIFY desire and actual continuation separately; no full instrumental-repetition score.",
+            "current_local_disposition": "Local desire evidence is compatible, actual present restraint is meaningful, and full original drift comparability remains qualified. No new accuracy total or universal compulsion."
+          },
+          {
+            "id": "R1-M06",
+            "local_category": "NO_CURRENT_NEGOTIATED_INTIMATE_PACE_CASE",
+            "model_transition": "PRESERVE chronological eligibility; do not import the later Kazuma arrangement.",
+            "current_local_disposition": "Original intimate-pace contract is not tested at this source state; expanded observations enter relationship/agency analysis without rewriting later prospective scores."
+          },
+          {
+            "id": "R1-M07",
+            "local_category": "PROTECTIVE_FACE_AND_HELP_FINDINGS_WITHOUT_FULL_OFFER_CONJUNCTION",
+            "model_transition": "PRESERVE bounded protective acts; keep the original image-saving-offer transfer open.",
+            "current_local_disposition": "No new full-contract score. Retain specific protective actions and contrary self-serving conduct; limited-source general transfer remains open."
+          }
+        ],
+        "actual_preceding_working_inquiries": [
+          {
+            "id": "EXP01-W01",
+            "question": "When accepted responsibility threatens the chosen build, how do independently recognized contribution loss, specific attachment and a feasible alternative change deliberation before resources or outside help remove the cost?",
+            "limit": "Compare early refusal with later actual accepted burden; no hindsight purity or automatic sister-name activation."
+          },
+          {
+            "id": "EXP01-W02",
+            "question": "How do Yunyun’s independent status goals, specific boundaries, wanted company and costly help change under different audiences and task stages?",
+            "limit": "Neither blanket victimhood nor unconditional willingness; keep her actual veto, physical superiority, practical craft and chosen risk."
+          },
+          {
+            "id": "EXP01-W03",
+            "question": "Which causal cues does the narrator receive, miss, consciously avoid or repair, and how does image-only other-viewpoint access change the reader’s account?",
+            "limit": "Do not install reader’s Horst/Chomusuke facts in an earlier protagonist belief state."
+          },
+          {
+            "id": "EXP01-W04",
+            "question": "Do actual recipient objections and specific aftermath change repeated food, pet, style and credit-seeking methods?",
+            "limit": "A meaningful new appreciation statement is not durable repair; preserve future actual opposites without treating every mistake as a reset."
+          }
+        ],
+        "exposure_limit": "Previously actually read and analyzed by this continuing informed root. These are expanded local observations, not new frozen forecasts or independent blind scores."
+      },
+      {
+        "source_id": "EXP-02",
+        "publication_source": "f8198f2c6b7915c7340fb36e1a99f3f94fb431b3",
+        "gate_closed_utc": "2026-10-18T15:56:49.433800+00:00",
+        "fresh_authority_reload_utc": "2026-10-18T15:56:55.277722+00:00",
+        "assessment_path": "10 Expanded Corpus/Explosions/KONOSUBA_EXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+        "assessment_sha256": "b2b574ce76217a2b43b00512c473a2eea35d1af70dd0bd65ead5057bb3672689",
+        "qualification_path": "10 Expanded Corpus/Explosions/KONOSUBA_EXP_V02_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "qualification_sha256": "c2ba3e206a2ffaa8df965739b14bc5d717306fa3cfc4bde7ad9f14c397225fa0",
+        "prior_local_dispositions": [
+          {
+            "id": "R1-M01",
+            "local_category": "IDENTITY_ESCALATION_OBSERVED_FULL_ORDINARY_COST_SPECIALTY_CASE_QUALIFIED",
+            "model_transition": "PRESERVE descriptive identity sensitivity; keep ordinary cost and grave pet sacrifice as different states.",
+            "current_local_disposition": "No new C/P/F score. The actual unsafe attempts strongly support identity sensitivity and oppose a broad care-first rule. The original full explicit-specialty/ordinary-cost competitive conjunction remains qualified."
+          },
+          {
+            "id": "R1-M02",
+            "local_category": "MUNDANE_ADAPTATION_AND_BURDEN_WITHOUT_FULL_KNOWN_BUILD_ALTERNATIVE",
+            "model_transition": "QUALIFY contribution sensitivity; do not infer a new feasible spell purchase or lasting build policy.",
+            "current_local_disposition": "No newly matched conflict score. Preserve actual willingness and ability at mundane work beside repeated poor restraint and reception. The full current build-conflict branch is untested/qualified, not disproved by no new purchase."
+          },
+          {
+            "id": "R1-M03",
+            "local_category": "ACTUAL_OUTPUT_WITH_PARTIAL_PRECAUTIONS_AND_LATE_OUTSIDE_RESCUE",
+            "model_transition": "PRESERVE narrow capacity; refuse to backdate prepared complete operation from successful outcome.",
+            "current_local_disposition": "Narrow target execution is supported descriptively. Full original prepared-operation reliability remains qualified; literal unsafe choices and incomplete recovery remain consequential adverse evidence against a broad safe-genius policy."
+          },
+          {
+            "id": "R1-M04",
+            "local_category": "KNOWN_BONDED_PET_SACRIFICE_ADVERSE_TO_BROAD_CARE_EXACT_PERSON_TARGET_NOT_MET",
+            "model_transition": "NARROW broad attachment-to-inhibition transfer sharply; retain the original significant-person target predicate without shielding pet harm.",
+            "current_local_disposition": "No full R1-M04 person-target score or completed bonded-target aftermath test. Publish a strong descriptive adverse constraint on generalized attachment/care and keep the original Wolbach-based transfer low-confidence."
+          },
+          {
+            "id": "R1-M05",
+            "local_category": "REPEATED_PLEASURE_AND_REAL_LOCAL_RESTRAINT_FULL_GOAL_WEAKENING_CASE_QUALIFIED",
+            "model_transition": "PRESERVE continuing desire while retaining actual voluntary and imposed restraints separately.",
+            "current_local_disposition": "No new full drift or safety score. The volume supports strong repeated desire, mixed independent restraint and failures under status pressure; it does not support universal compulsion or a fully prepared safe-operation law."
+          },
+          {
+            "id": "R1-M06",
+            "local_category": "EARLY_STATE_NO_NEGOTIATED_KAZUMA_INTIMATE_PACE_CASE",
+            "model_transition": "PRESERVE chronology and current recipient boundaries.",
+            "current_local_disposition": "Original intimate-pace contract is not tested. Current boundary violations/refusals enter expanded agency and relationship evidence without modifying the later prospective score."
+          },
+          {
+            "id": "R1-M07",
+            "local_category": "PUBLIC_CREDIT_AND_DIGNITY_ADVERSE_BROADLY_RECEIVED_COSTLY_OFFER_QUALIFIED",
+            "model_transition": "NARROW a broad dignity-first interpretation; do not promote every kind act or flattering claim into the original offered-plan case.",
+            "current_local_disposition": "No new full R1-M07 binary score. Publish actual envy, imposed face costs, missed reception and limited protective correction together; the limited-source image-saving-offer transfer remains qualified and broad altruistic expansion is constrained."
+          }
+        ],
+        "actual_preceding_working_inquiries": [
+          {
+            "id": "EXP02-W01",
+            "question": "When she explicitly receives a loved recipient’s danger or veto, which independently known identity, task and contribution stakes recruit actual restraint, negotiation, coercion or repair before external rescue changes the choice?",
+            "limit": "Retain the known cat-death choice and genuine city/night refusals; no automatic care-first, art-first, harmlessness or post-outcome urgency explanation."
+          },
+          {
+            "id": "EXP02-W02",
+            "question": "How do Yunyun and other providers evaluate repeated useful work, peak power, wanted company and their own place, and when does Megumin actually receive their proposals or costs?",
+            "limit": "Preserve independent invitation and withdrawal, actual guard/labor contributions and mixed motives; future appreciation alone is not durable repair."
+          },
+          {
+            "id": "EXP02-W03",
+            "question": "Which concrete skill/control/resource/recovery alternatives are known before each role choice, and does accepted contribution loss produce meaningful reconsideration at that actual state?",
+            "limit": "Do not invent unused points, a feasible purchase, a cleared battlefield, a willing carrier or a received alternative from later success."
+          },
+          {
+            "id": "EXP02-W04",
+            "question": "How do explicit cue receipt, other-viewpoint access, institutional reputation, mistaken accusations and actual later disclosures alter causal belief and public accountability?",
+            "limit": "Keep powder accident inference, unwitnessed pour, Arnes’s monster-herding disclosure and reported message/exoneration at their separate evidence planes; repeated depiction is not another trial."
+          }
+        ],
+        "exposure_limit": "Previously actually read and analyzed by this continuing informed root. These are expanded local observations, not new frozen forecasts or independent blind scores."
+      },
+      {
+        "source_id": "EXP-03",
+        "publication_source": "d2debefa1191927594547b89320923ebfb8fffd3",
+        "gate_closed_utc": "2026-10-18T17:24:59.025949+00:00",
+        "fresh_authority_reload_utc": "2026-10-18T17:25:05.163789+00:00",
+        "assessment_path": "10 Expanded Corpus/Explosions/KONOSUBA_EXP_V03_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+        "assessment_sha256": "2389a3f178e86539ba02e19a8b1d21204903d444092173fd10b149576afdc55f",
+        "qualification_path": "10 Expanded Corpus/Explosions/KONOSUBA_EXP_V03_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "qualification_sha256": "a784c1d1910cf3a5a5cd428f1d00c8f2e54fb1ad6e74a8902036f847ebf7b720",
+        "prior_local_dispositions": [
+          {
+            "id": "R1-M01",
+            "local_category": "EXPLICIT_ART_EFFICACY_CHALLENGE_REOPENS_GRAVE_RISK_TRIP_OTHER_STATUS_CASES_MIXED",
+            "model_transition": "Preserve descriptive art sensitivity; distinguish actual selective restraint and grave-danger activation from the original ordinary-cost conditional.",
+            "current_local_disposition": "Strong art-triggered activation and genuine selective restraint coexist. No new full ordinary-cost C/P/F score or universal art-first law."
+          },
+          {
+            "id": "R1-M02",
+            "local_category": "REAL_FUTURE_LEVEL_HELP_OFFER_INSTANT_REFUSAL_WITH_NONTRIVIAL_CONTRIBUTION_DISTRESS_AND_ROLE_SEARCH",
+            "model_transition": "Retain meaningful conflict without forcing a build conversion; expose the immediate refusal and the remaining valued-group comparability limit.",
+            "current_local_disposition": "No forced binary new score. Publish real offered alternative plus identity-preserving refusal, accepted usefulness problem and nontrivial distress/role adaptation. Full established-valued-group conjunction remains qualified at its own scope, not saved by an invented resource floor."
+          },
+          {
+            "id": "R1-M03",
+            "local_category": "MULTIPLE_SUCCESSFUL_TARGET_ACTS_WITH_REPEATED_FRIENDLY_EXPOSURE_AND_INCOMPLETE_PRIOR_RECOVERY",
+            "model_transition": "Preserve demonstrated narrow destructive power while explicitly rejecting a broad reliable-safe-operation reconstruction.",
+            "current_local_disposition": "Descriptive power strong; full prepared narrow reliability not newly confirmed. Capture the provider graph, warning times, lost resources and actual consequences without backdating outside help."
+          },
+          {
+            "id": "R1-M04",
+            "local_category": "ACTUAL_PET_AND_BYSTANDER_CARE_BONDED_ACTUAL_PERSON_OPPONENT_ABSENT",
+            "model_transition": "Retain low-confidence exact person-target transfer while adding real pre-action care and its limits, without rewriting EXP02.",
+            "current_local_disposition": "Exact R1-M04 actual-person-target branches untested here. Broad care is conditional and real; retain both this book’s costly care and the previous strong adverse pet-safety constraint."
+          },
+          {
+            "id": "R1-M05",
+            "local_category": "DAILY_DESIRE_AND_LOCAL_STOPPING_WITHOUT_FULL_INSTRUMENTAL_GOAL_WEAKENING_NEXT_OPPORTUNITY",
+            "model_transition": "Preserve desire, voluntary stopping, depletion and imposed Sleep as distinct states.",
+            "current_local_disposition": "No new full M05 repetition score. Preserve observed recurring desire and real current restraint, without inventing an overnight cast or abundant next-use resources."
+          },
+          {
+            "id": "R1-M06",
+            "local_category": "EARLY_AXEL_ENTRY_NO_LATER_NEGOTIATED_KAZUMA_INTIMATE_BOUNDARY",
+            "model_transition": "Keep actual early chronology and recipient agency; do not import later negotiated relationship.",
+            "current_local_disposition": "R1-M06 chronologically untested here, with explicit instruction to reassess the continuation’s actual chronology rather than inherit this exclusion."
+          },
+          {
+            "id": "R1-M07",
+            "local_category": "DIRECT_PUBLIC_FRIEND_FACE_HARM_BROADLY_ADVERSE_EXACT_OFFERED_FACE_SAVING_PLAN_ABSENT",
+            "model_transition": "Narrow universal dignity-protection transfer strongly; preserve the actual offered-plan predicate.",
+            "current_local_disposition": "Exact offered-plan branch remains untested. Publish clear descriptive adverse constraint on generalized dignity priority alongside actual bounty credit, responsibility and caring acts."
+          }
+        ],
+        "actual_preceding_working_inquiries": [
+          {
+            "id": "EXP03-W01",
+            "question": "At the continuation’s independently established chronology, how do explicit objections, known collateral and accepted responsibility compete with art, glory, revenge, pleasure and particular care before outside rescue?",
+            "limit": "Retain EXP02 known-pet-death choice, EXP03 real compensation/protection/bounty credit and actual public face harm; no single permanent care-first or art-first rule."
+          },
+          {
+            "id": "EXP03-W02",
+            "question": "Which actual offers of company or useful roles are made, received, declined, coerced or chosen, and whose own goals, place attachment and provider work explain the response?",
+            "limit": "Preserve real leveling/recruitment/travel offers and the stated route/city choices; loneliness is not no opportunities, and useful power is not complete agency."
+          },
+          {
+            "id": "EXP03-W03",
+            "question": "When a real feasible future alternative and self-accepted contribution loss coexist, what meaningful conflict, role search or compromise occurs at that known skill/resource state?",
+            "limit": "No currently-unused-point, performed-purchase, pure-motive or permanent-rebuild floor; also do not turn every sad response or outside criticism into independently accepted substantial burden."
+          },
+          {
+            "id": "EXP03-W04",
+            "question": "How do actual cue receipt, suppressed or interrupted disclosures, public reputation, private confession and later provider correction change belief and accountability?",
+            "limit": "Preserve the received Axis clue, completed late identity join, distinct private audiences, attributed devil lore and unresolved wound wording; determine CONTEXP01 chronology freshly before applying later relationship contracts."
+          }
+        ],
+        "exposure_limit": "Previously actually read and analyzed by this continuing informed root. These are expanded local observations, not new frozen forecasts or independent blind scores."
+      },
+      {
+        "source_id": "CONTEXP-01",
+        "publication_source": "b0668884aeb1e0f58db2395b214b9b3b947f0d8f",
+        "gate_closed_utc": "2026-10-18T19:01:54.369818+00:00",
+        "fresh_authority_reload_utc": "2026-10-18T19:02:04.737344+00:00",
+        "assessment_path": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+        "assessment_sha256": "71805577dbe44a2566e4b308ca9746323c0a8a6f7ccb815a954140b21f06376a",
+        "qualification_path": "10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json",
+        "qualification_sha256": "17df1226ad1d3d7ff8a9d4d0a4d35b05172b555f82365eec711470db7e572033",
+        "prior_local_dispositions": [
+          {
+            "id": "R1-M01",
+            "local_category": "STATUS_AND_RIVALRY_ACTIVATION_WITHOUT_FULL_EXPLICIT_ART_CHALLENGE_ORDINARY_COST_CASE",
+            "model_transition": "Keep actual rank/romantic jealousy and actual selective restraint distinct from the narrower specialty trigger.",
+            "current_local_disposition": "No new full C/P/F score. Descriptive identity sensitivity persists, while U019P0283–0319 independently supplies an actual evidence-based pause and duty acknowledgment."
+          },
+          {
+            "id": "R1-M02",
+            "local_category": "REAL_LEADER_AND_NOVICE_ROLE_CONCERN_WITHOUT_NEW_COSTLY_BUILD_ALTERNATIVE_CONJUNCTION",
+            "model_transition": "Carry EXP03’s real future leveling offer and meaningful grief unchanged; add current role adaptation and accepted leader burden at their actual scopes.",
+            "current_local_disposition": "Qualified descriptive support for meaningful contribution/belonging concern and identity-preserving role adaptation; no new binary contract score. Preserve EXP03’s instant skill refusal together with its real offered alternative and grief."
+          },
+          {
+            "id": "R1-M03",
+            "local_category": "PRIOR_TEAM_GEOMETRY_AND_PROVIDER_COMMITMENTS_IMPROVE_PREPARATION_NARROW_SUCCESS_FULL_GUARD_STILL_QUALIFIED",
+            "model_transition": "Raise descriptive evidence for planned team execution without inventing either universal unsafe collateral or a fully measured safe operation.",
+            "current_local_disposition": "Narrow opening and collective clearance are favorable descriptive task evidence with a substantially clearer provider graph than EXP03. Full prepared-reliability conjunction remains qualified at specific prior guard geometry/exit limits, not treated as confirmed merely from success or as ordinary own-technique failure."
+          },
+          {
+            "id": "R1-M04",
+            "local_category": "REJECTED_VALUED_HOUSE_TARGET_AND_REAL_PROTECTIVE_CHOICES_NOT_ADOPTED_BONDED_PERSON_HARM",
+            "model_transition": "Preserve specific care and refusal without converting a rejected suggestion, collateral or staged pet injury into the original actual-person opponent trigger.",
+            "current_local_disposition": "Exact bonded-person-target and completed-harm aftermath branches untested here. Add real selective pre-action care, duty and target refusal while retaining the adverse broader-care boundary."
+          },
+          {
+            "id": "R1-M05",
+            "local_category": "REAL_RECURRING_DESIRE_AND_NEXT_RESOURCES_AFTER_SIGNAL_GOAL_WEAKENING_CAUSATION_QUALIFIED",
+            "model_transition": "Retain continuation desire with actual opportunities; distinguish independent rescue need, habit, emptiness and imposed restraint from reward-only drift.",
+            "current_local_disposition": "Qualified favorable descriptive continuation/desire evidence with genuine goal weakening and actual later resources, not a clean new reward-caused drift score. New tactical need and routine pleasure remain explicit rival causes, without deleting the available daily opportunity."
+          },
+          {
+            "id": "R1-M06",
+            "local_category": "LATER_ROMANTIC_RELATION_ACTUAL_INVITATIONS_AND_LIMITS_NO_SHOWN_CHANGED_INTIMATE_STEP_OR_FIXED_OPERATIVE_PACE",
+            "model_transition": "Replace the early-Axel exclusion with component-specific later relationship facts; preserve real local agency without granting later permissions.",
+            "current_local_disposition": "No new R1-M06 behavioral score. Current exact agency facts and serious reciprocal/private context are retained; fresh chronology replaces EXP03’s early-state NT reason. Later main permissions are neither imported nor denied merely because the text does not restate them."
+          },
+          {
+            "id": "R1-M07",
+            "local_category": "ACTUAL_FRIEND_HUMILIATION_AND_FALSE_PUBLIC_PERFORMANCE_BROADLY_ADVERSE_EXACT_M_IMAGE_OFFER_DIFFERENT",
+            "model_transition": "Further constrain universal dignity-protection while preserving the unchanged received-offer predicate.",
+            "current_local_disposition": "Exact M-image protective-offer branch remains untested. Strong recurring contrary constraint on a broader invariant dignity/honesty priority; no new C/P/F or edited historical score."
+          }
+        ],
+        "actual_preceding_working_inquiries": [
+          {
+            "id": "CONTEXP01-W01",
+            "question": "At each next component’s actual date, which received veto, known risk, independently accepted duty or ordinary companion cost changes Megumin’s plan before outcomes, and which does she override?",
+            "limit": "Keep actual pauses/care alongside forced roles, recurrent transport assumptions, public teasing and Karen-humiliation encouragement; no global reform or comic exemption."
+          },
+          {
+            "id": "CONTEXP01-W02",
+            "question": "How do specific company, role and place wants generate real offers, refusal, membership and provider limits as the band develops?",
+            "limit": "Keep applicants versus enlisted members, title versus work, invitation versus completed action, and each person’s independent wants distinct."
+          },
+          {
+            "id": "CONTEXP01-W03",
+            "question": "When Megumin independently accepts build-caused contribution loss and knows a feasible costly alternative, what conflict or role adaptation actually follows?",
+            "limit": "Preserve EXP03’s real future leveling offer/refusal/grief and current non-Explosion item knowledge. No unused-point, immediate purchase, permanent policy or pure-motive floor."
+          },
+          {
+            "id": "CONTEXP01-W04",
+            "question": "Which clues are actually told, received, missed, corrected or confined to narrator/creator access, especially identities, paid providers, rumor and artifact causes?",
+            "limit": "Fix each narrator and component chronology freshly; afterword true-artifact disclosure is reader knowledge, not Chris/Kazuma knowledge, and the bonus staged cat attack never occurred."
+          }
+        ],
+        "exposure_limit": "Previously actually read and analyzed by this continuing informed root. These are expanded local observations, not new frozen forecasts or independent blind scores."
+      }
+    ],
+    "current_source_specific_working_inquiries": [
+      {
+        "id": "CONTEXP01-W01",
+        "question": "At each next component’s actual date, which received veto, known risk, independently accepted duty or ordinary companion cost changes Megumin’s plan before outcomes, and which does she override?",
+        "limit": "Keep actual pauses/care alongside forced roles, recurrent transport assumptions, public teasing and Karen-humiliation encouragement; no global reform or comic exemption."
+      },
+      {
+        "id": "CONTEXP01-W02",
+        "question": "How do specific company, role and place wants generate real offers, refusal, membership and provider limits as the band develops?",
+        "limit": "Keep applicants versus enlisted members, title versus work, invitation versus completed action, and each person’s independent wants distinct."
+      },
+      {
+        "id": "CONTEXP01-W03",
+        "question": "When Megumin independently accepts build-caused contribution loss and knows a feasible costly alternative, what conflict or role adaptation actually follows?",
+        "limit": "Preserve EXP03’s real future leveling offer/refusal/grief and current non-Explosion item knowledge. No unused-point, immediate purchase, permanent policy or pure-motive floor."
+      },
+      {
+        "id": "CONTEXP01-W04",
+        "question": "Which clues are actually told, received, missed, corrected or confined to narrator/creator access, especially identities, paid providers, rumor and artifact causes?",
+        "limit": "Fix each narrator and component chronology freshly; afterword true-artifact disclosure is reader knowledge, not Chris/Kazuma knowledge, and the bonus staged cat attack never occurred."
+      }
+    ],
+    "semantic_reload_precision": "The model scope describes the actual bounded semantic reload made before EXP-01 and retained across this continuing execution; each pin is freshly checked. Later admissions also carry the previously actually analyzed family dispositions and latest working questions, with exact published pins. This is not a claim of a fresh full reread of every model on every admission.",
+    "continuation_chronology_guard": "Chronology unresolved before opening. Determine actual narrator, acquired skills/resources, bonds and relationship stage from the source, including nonuniform component times. Do not automatically reuse EXP03 early-Axel R1-M06 ineligibility; apply the unchanged negotiated-boundary contract if the actual continuing slice supplies it, and retain behavioral response separately from typed state eligibility. No invented prior agreement from a later chosen act."
+  },
+  "applicable_family_context_sha256": "7cd4dc8d5258551758b19c43dd68174b68ab76bf552a0e449dd33577965b91be"
+}

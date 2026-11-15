@@ -1,0 +1,68 @@
+{
+ "public_derivative_provenance": {
+  "current_required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+  "current_ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+  "historical_status_rule": "Original pending/proposed/count fields below retain their dated witness scope. ROOT V3 accepts the preserved responsibilities with ten original operations, one duplicate absorption and five legacy-tracker allocations. Historical V2 N353/26 remains immutable; current required successor is355/29.",
+  "source_translation_rule": "Repository-relative, external-selected-corpus and immutable-local-custody references replace machine paths. Exact frozen byte/hash/blob tuples bind original payloads; these translated files have separately bound derivative tuples. Private witnesses are not publicly served.",
+  "written_source_qualification": "Written Japanese admitted pin a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; literal raw actor/locale/choice/report and conditional written modes retain original qualifications. No performed audiovisual receiving is claimed.",
+  "credit_rule": "Mechanical translation supplies zero new primary, performance, analytical-argument receiving or completed literary package credit.",
+  "original_input_reference": "immutable-local-custody://PHASE3_START_20261009/ROOT_FULL_CAST_MECHANICAL_COVERAGE_V1/MECHANICAL_INTEGRITY_AND_SCOPE_AUDIT.json",
+  "original_frozen_binding": {
+   "bytes": 1718,
+   "sha256": "52f16e6d81662579ffb2a18b8ab64807343599a1c494267bc72fb0629360386c",
+   "git_blob_sha1": "5a598b6313ea5db2951e3243c3b029380362ac3b"
+  }
+ },
+ "historical_payload": {
+  "status": "PASS_MECHANICAL_EXACTNESS_ONLY_ROOT_SEMANTIC_ACCEPTANCE_PENDING",
+  "published_revision": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+  "published_crosswalk_bytes_equal_current": true,
+  "complete_shard_roundtrip": {
+   "sources": 1107,
+   "unique_header_routes": 8326,
+   "dispatch_owners": 105,
+   "all_source_refs_resolve": true,
+   "all_locator_prefixes_match": true,
+   "all_positive_line_instance_fields": true
+  },
+  "source_units_by_class": {
+   "event": 1010,
+   "group": 65,
+   "mini": 32
+  },
+  "header_routes_by_class": {
+   "event": 7602,
+   "group": 428,
+   "mini": 296
+  },
+  "quoted_teacher_choice_routes": 742,
+  "quoted_teacher_choice_header_instances_locator_only": 4230,
+  "frozen_literal_custody_overlap_routes": 1514,
+  "multiple_role_home_proposal_routes": 1491,
+  "previously_no_frozen_source_inventory": {
+   "event": 447,
+   "group": 34
+  },
+  "frozen_rows_preserved": true,
+  "all25_loaded_frozen_input_tuples_still_exact": true,
+  "all_packet_fields_and_dictionaries_copied_exactly": true,
+  "Gehenna90_exact_header_routes": 755,
+  "Gehenna_choice_existing_routes": 32,
+  "Gehenna_choice_instances_locator_only": 132,
+  "Gehenna_choice_omissions": 0,
+  "all105_fresh_source_header_inventories_complete": true,
+  "semantic_receiving": "No new full primary narrative or literary-argument receipt. Stored writer-declared qualifications require ROOT receiving/adjudication.",
+  "owners_without_direct_normal_owner_receiving_declaration_refs": 35,
+  "dated_population": 540,
+  "dated_explicit_ID_reference_routes": 264,
+  "dated_no_loaded_explicit_ID_or_label_reference_routes": 276,
+  "all14_original_gaps": "UNCHANGED_OPEN; no gap closure or reassessment by mechanics",
+  "N_frozen": false,
+  "independent_people_added": 0,
+  "monograph_completions_added": 0,
+  "quarter_or_percentage": false,
+  "R_writes": false,
+  "Git_mutations": false,
+  "unbound_large_files_read_or_hashed": false
+ }
+}

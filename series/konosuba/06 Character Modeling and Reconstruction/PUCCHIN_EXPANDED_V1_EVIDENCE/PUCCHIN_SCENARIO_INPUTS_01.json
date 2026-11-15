@@ -1,0 +1,128 @@
+{
+  "schema": "konosuba.pucchin.informed-hypothetical-inputs.v1",
+  "recorded_utc": "2026-10-21T00:51:57.641204+00:00",
+  "status": "Exact inputs authored after foundation freeze; pending complete saved-input review and input freeze before any first body",
+  "foundation_seal_sha256": "c0dc3ba4105ee871ae88c9a336dd08fa4388fe37adb2bcd9882c75db4dbee89a",
+  "frozen_model": {
+    "path": "PUCCHIN_RECONSTRUCTION_MODEL_DRAFT_01.md",
+    "sha256": "56187440d00fdb4be3ee21e0433b6f137fc66787acb98f9ade041172556e3a28"
+  },
+  "source_known": true,
+  "same_continuing_root_author_designer_output_author_and_assessor": true,
+  "external_model_call": false,
+  "independent_judge": false,
+  "all_contrasts_visible": true,
+  "case_order": [
+    "PU-H01-A",
+    "PU-H01-B",
+    "PU-H02-A",
+    "PU-H02-B",
+    "PU-H03-A",
+    "PU-H03-B"
+  ],
+  "cases": [
+    {
+      "case_id": "PU-H01-A",
+      "pair_id": "PU-H01",
+      "target_rules": [
+        "PU-R01"
+      ],
+      "secondary_rule_context": [],
+      "changed_cue": "Same adult student gives a practical versus theatrical word-choice rationale",
+      "scenario": "Pucchin is an ordinary human instructor running an adult communication workshop. All participants are over 25. The current question is \"Why should a presenter care about word choice before a public demonstration?\" No detailed marking rubric has been announced. A student named Mira, 26, gives one answer while the others listen. Pucchin has a marker and a blank score sheet, but has not yet marked this answer. Mira says: \"So every listener understands the operating steps and we reduce mistakes.\" Show only Pucchin's immediate evaluation and one action with the marker or sheet, before Mira or anyone else replies. Do not complete the lesson or invent earlier marks.",
+      "exact_prompt": "Write 80–140 English words showing Pucchin's next immediate observable action and speech as a realistic human analogue governed by the frozen provisional model. Use only the supplied people, knowledge, authority, capacities and objects. Stop before another person's answer or any later result. Do not add backstory, unseen permission, professional powers or a completed outcome. The same continuing author knows the sources, all rules, every opposing contrast and this exercise design. This is an informed hypothetical first serialization, not an untouched-source test. Return only the scene body; comparison and assessment belong outside it.\n\nPucchin is an ordinary human instructor running an adult communication workshop. All participants are over 25. The current question is \"Why should a presenter care about word choice before a public demonstration?\" No detailed marking rubric has been announced. A student named Mira, 26, gives one answer while the others listen. Pucchin has a marker and a blank score sheet, but has not yet marked this answer. Mira says: \"So every listener understands the operating steps and we reduce mistakes.\" Show only Pucchin's immediate evaluation and one action with the marker or sheet, before Mira or anyone else replies. Do not complete the lesson or invent earlier marks.",
+      "exact_prompt_sha256": "02b973c6d57c839538604473a3b896d555373130edf06b646bd1fe5837e2d35c"
+    },
+    {
+      "case_id": "PU-H01-B",
+      "pair_id": "PU-H01",
+      "target_rules": [
+        "PU-R01"
+      ],
+      "secondary_rule_context": [],
+      "changed_cue": "Same adult student gives a practical versus theatrical word-choice rationale",
+      "scenario": "Pucchin is an ordinary human instructor running an adult communication workshop. All participants are over 25. The current question is \"Why should a presenter care about word choice before a public demonstration?\" No detailed marking rubric has been announced. A student named Mira, 26, gives one answer while the others listen. Pucchin has a marker and a blank score sheet, but has not yet marked this answer. Mira says: \"So the title and opening seize the room and make the presenter's name worth repeating.\" Show only Pucchin's immediate evaluation and one action with the marker or sheet, before Mira or anyone else replies. Do not complete the lesson or invent earlier marks.",
+      "exact_prompt": "Write 80–140 English words showing Pucchin's next immediate observable action and speech as a realistic human analogue governed by the frozen provisional model. Use only the supplied people, knowledge, authority, capacities and objects. Stop before another person's answer or any later result. Do not add backstory, unseen permission, professional powers or a completed outcome. The same continuing author knows the sources, all rules, every opposing contrast and this exercise design. This is an informed hypothetical first serialization, not an untouched-source test. Return only the scene body; comparison and assessment belong outside it.\n\nPucchin is an ordinary human instructor running an adult communication workshop. All participants are over 25. The current question is \"Why should a presenter care about word choice before a public demonstration?\" No detailed marking rubric has been announced. A student named Mira, 26, gives one answer while the others listen. Pucchin has a marker and a blank score sheet, but has not yet marked this answer. Mira says: \"So the title and opening seize the room and make the presenter's name worth repeating.\" Show only Pucchin's immediate evaluation and one action with the marker or sheet, before Mira or anyone else replies. Do not complete the lesson or invent earlier marks.",
+      "exact_prompt_sha256": "8b52ca99904b22f02fcb0aafef7be5b4e0333866e6b0230ce20e148c8b29c356"
+    },
+    {
+      "case_id": "PU-H02-A",
+      "pair_id": "PU-H02",
+      "target_rules": [
+        "PU-R02"
+      ],
+      "secondary_rule_context": [],
+      "changed_cue": "Audience/camera present versus no audience, with the same available virtual intervention",
+      "scenario": "Pucchin is an ordinary human instructor at an adult virtual-reality training station. Emil, 27, is controlling a virtual avatar on a bridge. A red warning means the avatar will lose the round soon unless the simulation is paused; there is no physical danger to any person. Pucchin knows the pause button is ready, within his reach and can be pressed now. He has no other required task or setup to finish. Emil says clearly, \"Please pause it now.\" The station camera is streaming the demonstration to the other adult workshop participants, who are watching the instructor. Show only Pucchin's next few seconds and speech, ending before the screen renders any intervention result, the round ends or Emil answers. Do not add injury, another obstacle or an unprovided technical constraint.",
+      "exact_prompt": "Write 80–140 English words showing Pucchin's next immediate observable action and speech as a realistic human analogue governed by the frozen provisional model. Use only the supplied people, knowledge, authority, capacities and objects. Stop before another person's answer or any later result. Do not add backstory, unseen permission, professional powers or a completed outcome. The same continuing author knows the sources, all rules, every opposing contrast and this exercise design. This is an informed hypothetical first serialization, not an untouched-source test. Return only the scene body; comparison and assessment belong outside it.\n\nPucchin is an ordinary human instructor at an adult virtual-reality training station. Emil, 27, is controlling a virtual avatar on a bridge. A red warning means the avatar will lose the round soon unless the simulation is paused; there is no physical danger to any person. Pucchin knows the pause button is ready, within his reach and can be pressed now. He has no other required task or setup to finish. Emil says clearly, \"Please pause it now.\" The station camera is streaming the demonstration to the other adult workshop participants, who are watching the instructor. Show only Pucchin's next few seconds and speech, ending before the screen renders any intervention result, the round ends or Emil answers. Do not add injury, another obstacle or an unprovided technical constraint.",
+      "exact_prompt_sha256": "f1d0b920bb24d52084d13f9e9c3ac423b5d9b285f67807dbf0c1f4392ea180f5"
+    },
+    {
+      "case_id": "PU-H02-B",
+      "pair_id": "PU-H02",
+      "target_rules": [
+        "PU-R02"
+      ],
+      "secondary_rule_context": [],
+      "changed_cue": "Audience/camera present versus no audience, with the same available virtual intervention",
+      "scenario": "Pucchin is an ordinary human instructor at an adult virtual-reality training station. Emil, 27, is controlling a virtual avatar on a bridge. A red warning means the avatar will lose the round soon unless the simulation is paused; there is no physical danger to any person. Pucchin knows the pause button is ready, within his reach and can be pressed now. He has no other required task or setup to finish. Emil says clearly, \"Please pause it now.\" The station camera is off. No audience is watching; only Pucchin and Emil are at the station. Show only Pucchin's next few seconds and speech, ending before the screen renders any intervention result, the round ends or Emil answers. Do not add injury, another obstacle or an unprovided technical constraint.",
+      "exact_prompt": "Write 80–140 English words showing Pucchin's next immediate observable action and speech as a realistic human analogue governed by the frozen provisional model. Use only the supplied people, knowledge, authority, capacities and objects. Stop before another person's answer or any later result. Do not add backstory, unseen permission, professional powers or a completed outcome. The same continuing author knows the sources, all rules, every opposing contrast and this exercise design. This is an informed hypothetical first serialization, not an untouched-source test. Return only the scene body; comparison and assessment belong outside it.\n\nPucchin is an ordinary human instructor at an adult virtual-reality training station. Emil, 27, is controlling a virtual avatar on a bridge. A red warning means the avatar will lose the round soon unless the simulation is paused; there is no physical danger to any person. Pucchin knows the pause button is ready, within his reach and can be pressed now. He has no other required task or setup to finish. Emil says clearly, \"Please pause it now.\" The station camera is off. No audience is watching; only Pucchin and Emil are at the station. Show only Pucchin's next few seconds and speech, ending before the screen renders any intervention result, the round ends or Emil answers. Do not add injury, another obstacle or an unprovided technical constraint.",
+      "exact_prompt_sha256": "19177bae01a9088472f6844281f69e614f98199bb7cfda0343e5d957cebebced"
+    },
+    {
+      "case_id": "PU-H03-A",
+      "pair_id": "PU-H03",
+      "target_rules": [
+        "PU-R03"
+      ],
+      "secondary_rule_context": [
+        "PU-R01"
+      ],
+      "changed_cue": "Same approved kit request is justified by profit versus a specific practical need",
+      "scenario": "Pucchin is an ordinary human instructor in an adult maker class. Rina, 30, asks to use two approved off-the-shelf LED modules from a shared materials box and a printed standard assembly plan. Pucchin is authorized to permit that use in class and knows the plan, but no construction has begun. He has already told her the project takes effort and is unlikely to sell for much. She now explains why she wants to make this simple light. Rina says: \"I want a prototype I can sell, because I hoped this would earn more than the basic exercise.\" Show only Pucchin's reply and one action with the box or printed plan, before Rina answers or starts work. No neighbor visit, finished lamp, electrical instruction, payment or successful test is shown.",
+      "exact_prompt": "Write 80–140 English words showing Pucchin's next immediate observable action and speech as a realistic human analogue governed by the frozen provisional model. Use only the supplied people, knowledge, authority, capacities and objects. Stop before another person's answer or any later result. Do not add backstory, unseen permission, professional powers or a completed outcome. The same continuing author knows the sources, all rules, every opposing contrast and this exercise design. This is an informed hypothetical first serialization, not an untouched-source test. Return only the scene body; comparison and assessment belong outside it.\n\nPucchin is an ordinary human instructor in an adult maker class. Rina, 30, asks to use two approved off-the-shelf LED modules from a shared materials box and a printed standard assembly plan. Pucchin is authorized to permit that use in class and knows the plan, but no construction has begun. He has already told her the project takes effort and is unlikely to sell for much. She now explains why she wants to make this simple light. Rina says: \"I want a prototype I can sell, because I hoped this would earn more than the basic exercise.\" Show only Pucchin's reply and one action with the box or printed plan, before Rina answers or starts work. No neighbor visit, finished lamp, electrical instruction, payment or successful test is shown.",
+      "exact_prompt_sha256": "bfa347300a4da9858bc49c38efac40816c4d8919d26d4b3d06ae0d60994731ec"
+    },
+    {
+      "case_id": "PU-H03-B",
+      "pair_id": "PU-H03",
+      "target_rules": [
+        "PU-R03"
+      ],
+      "secondary_rule_context": [
+        "PU-R01"
+      ],
+      "changed_cue": "Same approved kit request is justified by profit versus a specific practical need",
+      "scenario": "Pucchin is an ordinary human instructor in an adult maker class. Rina, 30, asks to use two approved off-the-shelf LED modules from a shared materials box and a printed standard assembly plan. Pucchin is authorized to permit that use in class and knows the plan, but no construction has begun. He has already told her the project takes effort and is unlikely to sell for much. She now explains why she wants to make this simple light. Rina says: \"My neighbor's reading light broke, and I want to make a replacement for them. I am not asking for payment.\" Show only Pucchin's reply and one action with the box or printed plan, before Rina answers or starts work. No neighbor visit, finished lamp, electrical instruction, payment or successful test is shown.",
+      "exact_prompt": "Write 80–140 English words showing Pucchin's next immediate observable action and speech as a realistic human analogue governed by the frozen provisional model. Use only the supplied people, knowledge, authority, capacities and objects. Stop before another person's answer or any later result. Do not add backstory, unseen permission, professional powers or a completed outcome. The same continuing author knows the sources, all rules, every opposing contrast and this exercise design. This is an informed hypothetical first serialization, not an untouched-source test. Return only the scene body; comparison and assessment belong outside it.\n\nPucchin is an ordinary human instructor in an adult maker class. Rina, 30, asks to use two approved off-the-shelf LED modules from a shared materials box and a printed standard assembly plan. Pucchin is authorized to permit that use in class and knows the plan, but no construction has begun. He has already told her the project takes effort and is unlikely to sell for much. She now explains why she wants to make this simple light. Rina says: \"My neighbor's reading light broke, and I want to make a replacement for them. I am not asking for payment.\" Show only Pucchin's reply and one action with the box or printed plan, before Rina answers or starts work. No neighbor visit, finished lamp, electrical instruction, payment or successful test is shown.",
+      "exact_prompt_sha256": "5244c848612233e52eed035583575134792f02eea3964caf7c48dda27c98fdbe"
+    }
+  ],
+  "pre_body_expectations": [
+    {
+      "pair": "PU-H01",
+      "conditional_expectation": "The theatrical rationale may receive a more approving evaluation than the practical one under his presentation preference; ordinary meaningful teaching remains a source-supported possibility.",
+      "strong_generic_rival": "An ordinary presentation rubric or generic dramatic teacher can explain the contrast. Answer content and style covary; no unique causal isolation.",
+      "failure_conditions": "Record invented rubric/earlier scores, automatic expertise failure, full class outcome, unprovided student traits or no meaningful difference."
+    },
+    {
+      "pair": "PU-H02",
+      "conditional_expectation": "An audience may make staging more salient and yield different timing from private intervention, but private theatrical ideals and prompt help remain possible.",
+      "strong_generic_rival": "Many instructors vary demonstration rhetoric for an audience; source generalization from one admitted delay is limited. Simulation stakes differ from source danger.",
+      "failure_conditions": "Record invented seconds/baseline/readiness obstacles, unprovided emergency, completed virtual outcome, universal ethical repair, no timing contrast or residual shared delay. Do not require or reward an unsafe act as fidelity proof."
+    },
+    {
+      "pair": "PU-H03",
+      "conditional_expectation": "Clarified neighbor need may unlock the specific resources despite low profit, while profit framing may meet practical correction or conditions. A grant in both branches is possible.",
+      "strong_generic_rival": "Ordinary teacher help or classroom entitlement can explain a grant; the need statement is not independently verified.",
+      "failure_conditions": "Record invented neighbor facts, construction/payment/test success, extra supplies/permission, technical instruction, full private motive or a weak/shared grant endpoint."
+    }
+  ],
+  "unprobed_rules": [],
+  "unprobed_source_mechanisms": [
+    "Actual magic/physical safety, precise grades and repeated delay rates, literal belief in stories, private confidentiality motive and Japanese voice remain untested."
+  ],
+  "limits": "Six source-known original responses in three paired hypotheticals are not six independent tests, source forecasts, Japanese-language assessments or a capability score. Model author, case designer, responder and assessor are the same informed continuing root. All other variants and earlier serializations are visible. Cases are fictional adult contemporary analogues, not modern biographical claims. No accuracy or confidence gain.",
+  "required_preservation": "Freeze complete input bytes and each exact prompt hash before any first serialization. Save each original first body once with exact receipt and order; preserve all defects. Do not regenerate, repair, replace or edit foundations/models in response to the exercises.",
+  "full_program_complete": false
+}

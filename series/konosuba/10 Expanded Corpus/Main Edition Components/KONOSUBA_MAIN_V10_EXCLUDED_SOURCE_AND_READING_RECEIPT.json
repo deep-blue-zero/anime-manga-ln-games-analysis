@@ -1,0 +1,91 @@
+{
+  "schema": "KONOSUBA_MAIN_EXCLUDED_ACTUAL_NEW_READING_WITH_RETAINED_PRINCIPAL_RECEIPT_V1",
+  "source_id": "MAIN-10",
+  "accepted_utc": "2026-10-19T15:14:05.907503+00:00",
+  "native_filename": "Konosuba - Main Series - Volume 10.epub",
+  "native_bytes": 1630298,
+  "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+  "OPF_member": "content.opf",
+  "OPF_sha256": "61280c671e8060d741830e156059badd3a16c8e468c3e80d9bd95c72ea8ddbe8",
+  "language": [
+    "ja"
+  ],
+  "colophon_and_bibliographic_difference": "Electronic issue2016-11-01; print-basis first issue2016-11-01; copyright2016. Edition statements agree; exact bonus date and later relationship stage remain unfixed.",
+  "admission_sha256": "0d8b36d7dffeecae9aa49f3674fa28f67c0beaa8c9e4095894e81e697352aec0",
+  "preceding_full_gate_source": "f5ab57916f33302c0b81a700b56876aab05777a9",
+  "preceding_fresh_reload_sha256": "6d7630db353a0c6845ae6bc6325356ca1fb8bd3ae2eb1a6b93901f88e3bfa0ff",
+  "excluded_uncoded_seal_sha256": "7ff5a507124144d6edb3f321b99da685ec9f0df3875d711bdab60fd126a09336",
+  "excluded_uncoded_seal_utc": "2026-10-19T14:43:19.006756+00:00",
+  "actual_new_reading": {
+    "text_resources": 17,
+    "P_slots": 127,
+    "native_images": 28,
+    "ruby_and_nonparagraph_residual_received": true,
+    "bonus_P": 60,
+    "nonbonus_text_slots_P": 67,
+    "author_afterword_P": 20,
+    "other_wrapper_credit_slots_P": 47
+  },
+  "retained_principal_authority": {
+    "members": 7,
+    "P_slots": 3026,
+    "new_principal_reading_credit": 0,
+    "exact_native_and_prior_acceptance_control_joins": true
+  },
+  "fresh_native_CRC": "PASS",
+  "all_native_text_image_hashes_reverified": true,
+  "original_uncoded_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 36806,
+      "sha256": "0d8b36d7dffeecae9aa49f3674fa28f67c0beaa8c9e4095894e81e697352aec0"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 184834,
+      "sha256": "264fb1dd3c574344f948e3355763227a94c89c9e0cf53ba150e429db104d93df"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 17704,
+      "sha256": "72a1fac97b5a834acd34a0fe52f97d48c20ddf522b5130fcc9ecf5e14e44e5b1"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 25292,
+      "sha256": "60b0ddf1db01361b95d3270754fb1ae3c0fca90586882b9153415df20d8888e8"
+    }
+  ],
+  "public_preparation_view_is_redacted": true,
+  "formal_counts": [
+    21,
+    23,
+    31,
+    12,
+    38
+  ],
+  "party_comparisons": 8,
+  "typed_constraints_not_behavioral_scores": 4,
+  "Iris_SI_C01_no_opportunity_comparisons": 7,
+  "Yunyun_SY_C01_no_opportunity_comparisons": 7,
+  "original_SI_SY_null_fields_preserved": 28,
+  "historical_Yunyun_cohort_gate_preserved": {
+    "actual_source_commit": "906a29b4c986de8035b2511ed19dbf3e7c3e0676",
+    "canonical_gate_sha256": "02bf090e2f30b8f01abb66a7fd4de5c4ce8a8ca219e7b4e25d703392a831af43",
+    "historical_gate_not_current_intervening_cohort": true
+  },
+  "preceding_main_component_gate": {
+    "source_id": "MAIN-09",
+    "actual_source_commit": "f5ab57916f33302c0b81a700b56876aab05777a9",
+    "gate_sha256": "9a89b150517dbafb670b10b202a34958e817f0aac740b3a5abb5871a21ae7ef1",
+    "reload_sha256": "6d7630db353a0c6845ae6bc6325356ca1fb8bd3ae2eb1a6b93901f88e3bfa0ff",
+    "schema": "KONOSUBA_MAIN09EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE_V1"
+  },
+  "historical_Iris_cohort_gate_preserved": {
+    "actual_source_commit": "bc9b67dc37212868b16e8b6eed1a39f07b258dd0",
+    "historical_gate_not_current_intervening_cohort": true
+  },
+  "continuing_informed_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD,YORI-01,YORI-02,YORI-03,YORI-04. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim. Separately completed main excluded-component programs: MAIN-01,MAIN-02,MAIN-03,MAIN-04,MAIN-05,MAIN-06,MAIN-07,MAIN-08,MAIN-09. These include their actual new bonuses/paratext/images, with original principal authority retained and zero new principal-pass credit. No pristine blindness is claimed. Iris andYunyunscopedTier3cohorts arepublished/fullgateclosed. ExistingSI-C01/SY-C01 eachcarrysevenoptionalrules/14originalnulls unchanged before this excluded exposure. Completed MAIN09excluded new22resources131P/33images include61Pbonus;1187boundedretainedMAIN09Preceivedwithzeronewprincipalcredit. CompleteMASKacceptedreport and1475uniqueactualnativeP additionallyreceived acrossU013/U017/U019/U021/U023;no newwholeMASKbookpass/independenttest. Workingcensus08has55qualifiedauditrows,notafinalpopulationdenominator.",
+  "no_new_blind_independent_audio_or_full_principal_reread_claim": true,
+  "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING"
+}

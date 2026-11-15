@@ -1,0 +1,274 @@
+{
+  "schema": "KONOSUBA_MAIN12_EXCLUDED_SELECTED_HUMOR_V1",
+  "source_id": "MAIN-12",
+  "records": [
+    {
+      "id": "M12EX-H01",
+      "boundary": {
+        "component_id": "MAIN-12-U022",
+        "start_P": 4,
+        "end_P": 10
+      },
+      "whole_selected_premise": "Kazuma praises an allegedly expensive tea, learns it is the cheapest, then relocates the credit to Wiz's brewing and offers patronage.",
+      "primary_L": "L2",
+      "L_rationale": "The shift in social account and face-saving compliment matters; exact tea terminology is not a central Japanese-form mechanism.",
+      "primary_H": "H1",
+      "H_rationale": "The selected scene actions, reactions, spoken reports and qualified narration are source-compatible literal acts. Rumored events and projected challenges remain attributed or unperformed rather than independently enacted.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_REPORTED_PAST_AND_RUMORS",
+      "eligibility_and_limits": "Purposeful overlapping post-seal selection after complete actual excluded-text/ruby/residual/image reception. A selected premise is not an independent event, frequency denominator or new validation score.",
+      "native_member": "text/part0020.html",
+      "native_member_sha256": "69cd89eae94f958f16452bf25c86647b08a0f50a8587858284b8ad512fefdf05",
+      "formal_assignment_after_seal_utc": "2026-10-19T17:08:30.314100+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M12EX-H02",
+      "boundary": {
+        "component_id": "MAIN-12-U022",
+        "start_P": 9,
+        "end_P": 10
+      },
+      "whole_selected_premise": "A hypothetical maid job is offered as generosity, rejected as an ill omen for the shop, then kept as a conditional fallback.",
+      "primary_L": "L2",
+      "L_rationale": "The conditional acceptance and correction of the implication define the exchange rather than one polite ending.",
+      "primary_H": "H1",
+      "H_rationale": "The selected scene actions, reactions, spoken reports and qualified narration are source-compatible literal acts. Rumored events and projected challenges remain attributed or unperformed rather than independently enacted.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_REPORTED_PAST_AND_RUMORS",
+      "eligibility_and_limits": "Purposeful overlapping post-seal selection after complete actual excluded-text/ruby/residual/image reception. A selected premise is not an independent event, frequency denominator or new validation score.",
+      "native_member": "text/part0020.html",
+      "native_member_sha256": "69cd89eae94f958f16452bf25c86647b08a0f50a8587858284b8ad512fefdf05",
+      "formal_assignment_after_seal_utc": "2026-10-19T17:08:30.314100+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M12EX-H03",
+      "boundary": {
+        "component_id": "MAIN-12-U022",
+        "start_P": 12,
+        "end_P": 22
+      },
+      "whole_selected_premise": "The Crimson girls urgently announce that a legendary witch is in town while that witch sits beside them hiding her face.",
+      "primary_L": "L0",
+      "L_rationale": "Asymmetric identification and dramatic irony survive ordinary paraphrase without a special Japanese form.",
+      "primary_H": "H1",
+      "H_rationale": "The selected scene actions, reactions, spoken reports and qualified narration are source-compatible literal acts. Rumored events and projected challenges remain attributed or unperformed rather than independently enacted.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_REPORTED_PAST_AND_RUMORS",
+      "eligibility_and_limits": "Purposeful overlapping post-seal selection after complete actual excluded-text/ruby/residual/image reception. A selected premise is not an independent event, frequency denominator or new validation score.",
+      "native_member": "text/part0020.html",
+      "native_member_sha256": "69cd89eae94f958f16452bf25c86647b08a0f50a8587858284b8ad512fefdf05",
+      "formal_assignment_after_seal_utc": "2026-10-19T17:08:30.314100+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M12EX-H04",
+      "boundary": {
+        "component_id": "MAIN-12-U022",
+        "start_P": 20,
+        "end_P": 30
+      },
+      "whole_selected_premise": "A formidable violent legend is recited to its embarrassed subject, who later concedes that it is exaggerated but not wholly false.",
+      "primary_L": "L2",
+      "L_rationale": "Attributed reputation and a qualified concession must be distinguished from an actual present attack or blanket denial.",
+      "primary_H": "H1",
+      "H_rationale": "The selected scene actions, reactions, spoken reports and qualified narration are source-compatible literal acts. Rumored events and projected challenges remain attributed or unperformed rather than independently enacted.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_REPORTED_PAST_AND_RUMORS",
+      "eligibility_and_limits": "Purposeful overlapping post-seal selection after complete actual excluded-text/ruby/residual/image reception. A selected premise is not an independent event, frequency denominator or new validation score.",
+      "native_member": "text/part0020.html",
+      "native_member_sha256": "69cd89eae94f958f16452bf25c86647b08a0f50a8587858284b8ad512fefdf05",
+      "formal_assignment_after_seal_utc": "2026-10-19T17:08:30.314100+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M12EX-H05",
+      "boundary": {
+        "component_id": "MAIN-12-U022",
+        "start_P": 24,
+        "end_P": 26
+      },
+      "whole_selected_premise": "Kazuma has repaired Aqua's incomplete earlier account by repeated visits, while the girls have only an anonymous public legend.",
+      "primary_L": "L0",
+      "L_rationale": "Different access routes explain the disparity without a required pun, script or special syntax.",
+      "primary_H": "H1",
+      "H_rationale": "The selected scene actions, reactions, spoken reports and qualified narration are source-compatible literal acts. Rumored events and projected challenges remain attributed or unperformed rather than independently enacted.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_REPORTED_PAST_AND_RUMORS",
+      "eligibility_and_limits": "Purposeful overlapping post-seal selection after complete actual excluded-text/ruby/residual/image reception. A selected premise is not an independent event, frequency denominator or new validation score.",
+      "native_member": "text/part0020.html",
+      "native_member_sha256": "69cd89eae94f958f16452bf25c86647b08a0f50a8587858284b8ad512fefdf05",
+      "formal_assignment_after_seal_utc": "2026-10-19T17:08:30.314100+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M12EX-H06",
+      "boundary": {
+        "component_id": "MAIN-12-U022",
+        "start_P": 29,
+        "end_P": 30
+      },
+      "whole_selected_premise": "The gentle host privately explains why she lets the town know only the safer outline of her adventuring past.",
+      "primary_L": "L2",
+      "L_rationale": "Selective disclosure and recipient-specific fear are central; apparent softness is not proof the violent past is fabricated.",
+      "primary_H": "H1",
+      "H_rationale": "The selected scene actions, reactions, spoken reports and qualified narration are source-compatible literal acts. Rumored events and projected challenges remain attributed or unperformed rather than independently enacted.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_REPORTED_PAST_AND_RUMORS",
+      "eligibility_and_limits": "Purposeful overlapping post-seal selection after complete actual excluded-text/ruby/residual/image reception. A selected premise is not an independent event, frequency denominator or new validation score.",
+      "native_member": "text/part0020.html",
+      "native_member_sha256": "69cd89eae94f958f16452bf25c86647b08a0f50a8587858284b8ad512fefdf05",
+      "formal_assignment_after_seal_utc": "2026-10-19T17:08:30.314100+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M12EX-H07",
+      "boundary": {
+        "component_id": "MAIN-12-U022",
+        "start_P": 32,
+        "end_P": 36
+      },
+      "whole_selected_premise": "Kazuma suggests celebrity fandom, Megumin wants a contest over a splendid title, and Yunyun wants information while declining enthusiasm for the contest.",
+      "primary_L": "L2",
+      "L_rationale": "Correction, prestige positioning and qualified dissent assign different goals to the same arrival.",
+      "primary_H": "H1",
+      "H_rationale": "The selected scene actions, reactions, spoken reports and qualified narration are source-compatible literal acts. Rumored events and projected challenges remain attributed or unperformed rather than independently enacted.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_REPORTED_PAST_AND_RUMORS",
+      "eligibility_and_limits": "Purposeful overlapping post-seal selection after complete actual excluded-text/ruby/residual/image reception. A selected premise is not an independent event, frequency denominator or new validation score.",
+      "native_member": "text/part0020.html",
+      "native_member_sha256": "69cd89eae94f958f16452bf25c86647b08a0f50a8587858284b8ad512fefdf05",
+      "formal_assignment_after_seal_utc": "2026-10-19T17:08:30.314100+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M12EX-H08",
+      "boundary": {
+        "component_id": "MAIN-12-U022",
+        "start_P": 37,
+        "end_P": 42
+      },
+      "whole_selected_premise": "A private head shake recruits Kazuma's public leave-her-alone account, and Wiz supports it by calling her own hidden persona frightening.",
+      "primary_L": "L2",
+      "L_rationale": "The public cover and private referent differ; the self-disparagement has an actual personal face cost.",
+      "primary_H": "H1",
+      "H_rationale": "The selected scene actions, reactions, spoken reports and qualified narration are source-compatible literal acts. Rumored events and projected challenges remain attributed or unperformed rather than independently enacted.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_REPORTED_PAST_AND_RUMORS",
+      "eligibility_and_limits": "Purposeful overlapping post-seal selection after complete actual excluded-text/ruby/residual/image reception. A selected premise is not an independent event, frequency denominator or new validation score.",
+      "native_member": "text/part0020.html",
+      "native_member_sha256": "69cd89eae94f958f16452bf25c86647b08a0f50a8587858284b8ad512fefdf05",
+      "formal_assignment_after_seal_utc": "2026-10-19T17:08:30.314100+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M12EX-H09",
+      "boundary": {
+        "component_id": "MAIN-12-U022",
+        "start_P": 40,
+        "end_P": 44
+      },
+      "whole_selected_premise": "An attempted protective diversion is bolstered by Yunyun treating Wiz as a reliable witness about the very witch Wiz is.",
+      "primary_L": "L2",
+      "L_rationale": "Credibility-based advice works through the recipient's missing identity premise rather than omniscient shared understanding.",
+      "primary_H": "H1",
+      "H_rationale": "The selected scene actions, reactions, spoken reports and qualified narration are source-compatible literal acts. Rumored events and projected challenges remain attributed or unperformed rather than independently enacted.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_REPORTED_PAST_AND_RUMORS",
+      "eligibility_and_limits": "Purposeful overlapping post-seal selection after complete actual excluded-text/ruby/residual/image reception. A selected premise is not an independent event, frequency denominator or new validation score.",
+      "native_member": "text/part0020.html",
+      "native_member_sha256": "69cd89eae94f958f16452bf25c86647b08a0f50a8587858284b8ad512fefdf05",
+      "formal_assignment_after_seal_utc": "2026-10-19T17:08:30.314100+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M12EX-H10",
+      "boundary": {
+        "component_id": "MAIN-12-U022",
+        "start_P": 44,
+        "end_P": 51
+      },
+      "whole_selected_premise": "Caution about the witch unfolds into hurtful stories whose tellers do not know that their host is the target.",
+      "primary_L": "L2",
+      "L_rationale": "Hearsay force, audience knowledge and unintended personal address carry the effect; the stories' motives are not verified facts.",
+      "primary_H": "H1",
+      "H_rationale": "The selected scene actions, reactions, spoken reports and qualified narration are source-compatible literal acts. Rumored events and projected challenges remain attributed or unperformed rather than independently enacted.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_REPORTED_PAST_AND_RUMORS",
+      "eligibility_and_limits": "Purposeful overlapping post-seal selection after complete actual excluded-text/ruby/residual/image reception. A selected premise is not an independent event, frequency denominator or new validation score.",
+      "native_member": "text/part0020.html",
+      "native_member_sha256": "69cd89eae94f958f16452bf25c86647b08a0f50a8587858284b8ad512fefdf05",
+      "formal_assignment_after_seal_utc": "2026-10-19T17:08:30.314100+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M12EX-H11",
+      "boundary": {
+        "component_id": "MAIN-12-U022",
+        "start_P": 48,
+        "end_P": 51
+      },
+      "whole_selected_premise": "Alleged romantic resentment becomes a collective claim of ugliness while the visibly embarrassed subject listens.",
+      "primary_L": "L2",
+      "L_rationale": "The escalating social insult and unattributed rumor turns matter; neither dating history nor appearance verdict is granted as objective truth.",
+      "primary_H": "H1",
+      "H_rationale": "The selected scene actions, reactions, spoken reports and qualified narration are source-compatible literal acts. Rumored events and projected challenges remain attributed or unperformed rather than independently enacted.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_REPORTED_PAST_AND_RUMORS",
+      "eligibility_and_limits": "Purposeful overlapping post-seal selection after complete actual excluded-text/ruby/residual/image reception. A selected premise is not an independent event, frequency denominator or new validation score.",
+      "native_member": "text/part0020.html",
+      "native_member_sha256": "69cd89eae94f958f16452bf25c86647b08a0f50a8587858284b8ad512fefdf05",
+      "formal_assignment_after_seal_utc": "2026-10-19T17:08:30.314100+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M12EX-H12",
+      "boundary": {
+        "component_id": "MAIN-12-U022",
+        "start_P": 50,
+        "end_P": 53
+      },
+      "whole_selected_premise": "The rumor sequence is followed by public identification of the shopkeeper as the Ice Witch, without showing who requested the announcement.",
+      "primary_L": "L0",
+      "L_rationale": "An ironic state change is portable, but exact initiating action and permission must remain unknown.",
+      "primary_H": "H1",
+      "H_rationale": "The selected scene actions, reactions, spoken reports and qualified narration are source-compatible literal acts. Rumored events and projected challenges remain attributed or unperformed rather than independently enacted.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_REPORTED_PAST_AND_RUMORS",
+      "eligibility_and_limits": "Purposeful overlapping post-seal selection after complete actual excluded-text/ruby/residual/image reception. A selected premise is not an independent event, frequency denominator or new validation score.",
+      "native_member": "text/part0020.html",
+      "native_member_sha256": "69cd89eae94f958f16452bf25c86647b08a0f50a8587858284b8ad512fefdf05",
+      "formal_assignment_after_seal_utc": "2026-10-19T17:08:30.314100+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M12EX-H13",
+      "boundary": {
+        "component_id": "MAIN-12-U019",
+        "start_P": 4,
+        "end_P": 7
+      },
+      "whole_selected_premise": "The creator lists a growing cooking repertoire, acknowledges that it all involves boiling, then jokingly recommends carrying a pot for an imagined sudden transfer.",
+      "primary_L": "L2",
+      "L_rationale": "Self-qualification and a joking recommendation frame an explicitly unperformed conditional; the real act is creator address, not a fictional transportation event.",
+      "primary_H": "H1",
+      "H_rationale": "This is an attributed creator statement or joke in nonfiction. The imagined contingency remains unperformed; neither author address nor ordinary fantasy terminology erases the source plane.",
+      "source_plane": "DATED_CREATOR_NONFICTION_ADDRESS",
+      "eligibility_and_limits": "Purposeful overlapping post-seal selection after complete actual excluded-text/ruby/residual/image reception. A selected premise is not an independent event, frequency denominator or new validation score.",
+      "native_member": "text/part0017.html",
+      "native_member_sha256": "48515da96fce03edf08c5c00c9a47e37b15087de8633659de8ca5e10610f96db",
+      "formal_assignment_after_seal_utc": "2026-10-19T17:08:30.314100+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M12EX-H14",
+      "boundary": {
+        "component_id": "MAIN-12-U019",
+        "start_P": 9,
+        "end_P": 11
+      },
+      "whole_selected_premise": "A romance-intensity forecast is immediately weakened by remembering a similar earlier assurance and asking readers not to expect too much.",
+      "primary_L": "L2",
+      "L_rationale": "Hedging and self-retraction shape a dated creator-reader promise; no later plot fulfillment is supplied.",
+      "primary_H": "H1",
+      "H_rationale": "This is an attributed creator statement or joke in nonfiction. The imagined contingency remains unperformed; neither author address nor ordinary fantasy terminology erases the source plane.",
+      "source_plane": "DATED_CREATOR_NONFICTION_ADDRESS",
+      "eligibility_and_limits": "Purposeful overlapping post-seal selection after complete actual excluded-text/ruby/residual/image reception. A selected premise is not an independent event, frequency denominator or new validation score.",
+      "native_member": "text/part0017.html",
+      "native_member_sha256": "48515da96fce03edf08c5c00c9a47e37b15087de8633659de8ca5e10610f96db",
+      "formal_assignment_after_seal_utc": "2026-10-19T17:08:30.314100+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    }
+  ],
+  "H_protocol": "H1 literal acts or attributed statements; H2 underlying reaction with amplified intensity; H3 only behavior contingent on a local gag, not uncertainty; H4 staged/nonliteral presentation rather than fantasy automatically. Actual and projected effects remain different.",
+  "L_protocol": "L0 structurally portable; L1 phrasing-sensitive; L2 register/pragmatic stance; L3 central Japanese-form dependence. Whole effects and named nested forms are distinct; selected overlap is not a denominator."
+}

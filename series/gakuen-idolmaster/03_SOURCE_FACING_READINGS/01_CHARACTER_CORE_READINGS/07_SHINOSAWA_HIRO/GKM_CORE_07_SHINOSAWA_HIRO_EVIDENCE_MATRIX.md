@@ -65,3 +65,13 @@ The textual pass does **not** decide:
 - whether H.I.F. crisis produces audible changes in vocal attack, breath, dynamics, or timing;
 - how the official MVs frame `光景`, `コントラスト`, and `サンフェーデッド` as a developmental sequence;
 - whether camera/choreography aestheticizes bodily fragility in ways that complicate the text's safety ethic.
+
+
+## Source Lock 1.1 supplement — 2026-11-12
+
+These claim rows apply to revision 86 A1. The [core supplement](GKM_CORE_07_SHINOSAWA_HIRO.md#source-lock-11-supplement--2026-11-12) gives the observations and interpretations separately. The Source Lock 1.0 matrix above records the historical assessment.
+
+| Claim ID | Disposition and prior claim | Bounded finding and A1 locator | Story state | Counterevidence and limits |
+| --- | --- | --- | --- | --- |
+| `HIRO-R86-C01` | STRENGTHEN `HIRO-C06`, `HIRO-C16` and `HIRO-C28` | Hiro preserves uncertainty while accepting collaborative resources. `adv_cidol-shro-3-022_01.txt` L51–99, L148–205, `adv_cidol-shro-3-022_02.txt` L180–228 and `adv_cidol-shro-3-022_03.txt` L76–145, L164–230. | C1 within Hiro's post-win weakening state. C3 controls recap disclosure. | The skip branch omits the retelling. Hiro leaves fan acceptance open and the scene ends during the song's development. |
+| `HIRO-R86-C02` | ADD to `HIRO-C29` | An ordinary friendship involves reciprocal practical adjustment. `adv_csprt-3-0107_02.txt` L99–135, `adv_csprt-3-0107_01.txt` L105–159 and `adv_csprt-3-0107_03.txt` L124–178. | C1 within the first summer holiday after Hiro made friends in this support story. C4 against the main tracks. | Hiro's guess about Misuzu's preference is met with deflection. The clearest evidence is Hiro's offer to find a mutually acceptable option. |

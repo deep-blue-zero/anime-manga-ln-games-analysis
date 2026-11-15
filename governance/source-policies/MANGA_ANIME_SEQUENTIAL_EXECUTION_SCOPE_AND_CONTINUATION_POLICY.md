@@ -2,12 +2,12 @@
 title: Manga / Anime Sequential Execution Scope and Continuation Policy
 artifact_id: MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY
 artifact_type: sequential_execution_scope_policy
-version: 1.1
+version: 1.3
 status: canonical
 generation: V1
 scope: corpus-wide sequential analytical execution authorization, continuation, checkpointing, recovery, and stop semantics
 created: 2026-08-27
-last_updated: 2026-09-13
+last_updated: 2026-10-15
 maintainer: ChatGPT + user
 source_boundary: "Operational governance for sequential volume, episode, chapter, event, route, commu, movement, and comparable analytical units across the Manga / Anime corpus"
 supersedes: null
@@ -559,7 +559,9 @@ sequential_execution:
   run_state: active | completed | blocked | interrupted_pending_recovery
 ```
 
-This block is **operational state**, not literary evidence and not a substitute for the project's source inventory or prospective ledger.
+This block is **operational state**, not literary evidence and not a substitute for the project's source inventory or prospective ledger. Recover the owner instruction, permitted source units, and terminal limit from the existing run/checkpoint or handoff record before continuation. Changing this block to `active` is not evidence that permission was granted. The initiation policy Section 3.9.4 checks state consistency at admission; it does not authenticate the owner instruction or infer source-range membership from filenames.
+
+Use these key spellings exactly; variants such as `next_sequential_operation` or `next_operation` are not read by the repository validator. A `completed` run names no next candidate operation (`NONE` or an uppercase `NONE_` token). At a run's end the project either closes its lock with a run stop or keeps it OPEN with `run_state: completed`; the initiation policy's Section 3.8 defines both, and an OPEN lock never authorizes the next run by itself.
 
 When no continuous run is active, projects need not preserve stale `run_state: active` metadata merely because an earlier chat once requested a range. Completed or abandoned run metadata may be collapsed into manifests/audits according to the project's architecture.
 
@@ -584,6 +586,15 @@ This preserves user control for ordinary deep readings while making large sequen
 ---
 
 # Changelog
+
+## v1.3 — 2026-10-15 — Admission consistency
+
+- Links run-state consistency to initiation Section 3.9.4 while preserving recoverable owner authorization in existing run and handoff records. No new approval stage or authorization vocabulary.
+
+## v1.2 — 2026-10-15 — Run-end state
+
+- Fixed the key spellings of the recommended `sequential_execution` block and stated how a completed run records its end, with the run stop defined by the initiation policy.
+- Preserved single-operation/continuous authorization and recovery semantics.
 
 ## v1.1 — 2026-09-13 — Cross-session execution and synthesis dispatch
 

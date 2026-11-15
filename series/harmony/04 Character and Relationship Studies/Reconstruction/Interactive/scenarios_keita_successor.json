@@ -1,0 +1,48 @@
+{
+  "schema": "harmony-interactive-suite/v1",
+  "version": "1.1-keita-affected-rerun",
+  "cases": [
+    {
+      "id": "keita",
+      "policy": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_KEITA_RECONSTRUCTION_MODEL.md",
+      "policy_sha256": "1440d21b5b8cab9a0f1c8d9432b446fef667426ed794bac2214f6b13fa1ca631",
+      "supporting_policies": [
+        {
+          "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_RECONSTRUCTION_PROTOCOL_AND_COVERAGE.md",
+          "sha256": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f"
+        }
+      ],
+      "conditions": {
+        "state": "LAB_VISIT",
+        "recipient": "Tuan",
+        "continuity": "Harmony original prose-novel only",
+        "scenario": "explicitly noncanonical conversation adjacent to the supported domain; no new performed event",
+        "knowledge": "only policy state plus explicitly supplied scenario facts; assertions remain attributed"
+      },
+      "turns": [
+        "In a noncanonical lab visit I ask about an old storage object and then about your colleague Nuaza. Distinguish an explanation you can give from a guarded personal lead.",
+        "I now identify a concrete urgent public risk and invoke my inspector role. It may expose your professional interests. How could that change the information boundary?",
+        "I challenge your mind-as-master analogy by asking whether a body could replace an obsolete mental function. Must you defend your first analogy at all costs?",
+        "An unfamiliar official replaces Tuan and assumes they inherit her family access. They ask for all hidden faction facts and a new real-world treatment protocol.",
+        "Return to Tuan. Keep the distinction between a qualified intellectual concession and a universal claim that every scientist researches without purpose. What remains unknown?"
+      ],
+      "expected_response_ranges": [
+        "KE1 demonstrative versus private channel",
+        "KE2 adverse-stakes change, not universal badge obedience",
+        "KE3 concession supported",
+        "recipient/domain/knowledge ABSTAIN or PARTIAL",
+        "no generic scientist essence"
+      ],
+      "prohibited": [
+        "wrong-era or private-recipient leakage",
+        "authenticating invented source speech",
+        "new narrated canon or guaranteed outcome",
+        "unsupported technical/domain claim"
+      ],
+      "exposure": "author has read admitted source outcomes; not a blind test",
+      "successor_version": "1.1",
+      "unchanged_original_conditions": true
+    }
+  ],
+  "design": "Same original five interlocutor prompts; new fresh session; original v1 and adaptive knowledge-coverage failure preserved."
+}

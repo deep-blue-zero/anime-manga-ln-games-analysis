@@ -1,0 +1,351 @@
+{
+  "schema": "ALL133_COVERAGE_DRAFT_PRECISE_UNRESOLVED_FLAGS",
+  "actual_context_pending": [],
+  "canonical_beforeimage_binding_failures": [],
+  "missing_claim_count_or_collection": [],
+  "missing_independently_named_category_collections": [
+    {
+      "package": "P3-CHAR-M014",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-M017",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-M031",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-M031",
+      "category": "acceptance_and_control_scopes",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-CHIHIRO-CH0160",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-KOYUKI-CH0198",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-HARE",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-HIBIKI",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-KOTAMA",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-KOTORI",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-MAKI",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-NERU-NEL",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-HINATA",
+      "category": "endpoints",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-ATSUKO",
+      "category": "endpoints",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-AKO",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-IORI",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-CHINATSU",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-MAKOTO",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-IROHA",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-IBUKI",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-SATSUKI",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-CHIAKI",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-FUUKA",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-JURI",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-JURI",
+      "category": "endpoints",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-HARUNA",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-HARUNA",
+      "category": "endpoints",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-AKARI",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-AKARI",
+      "category": "rivals_and_counterevidence",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-JUNKO",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-JUNKO",
+      "category": "rivals_and_counterevidence",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-IZUMI",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-IZUMI",
+      "category": "rivals_and_counterevidence",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-KASUMI",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-MEG",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-MEG",
+      "category": "endpoints",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-SENA",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-ERIKA",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-KIRARA",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-ARU",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-MUTSUKI",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-KAYOKO",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-HARUKA",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-HARUKA",
+      "category": "acceptance_and_control_scopes",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-SHIZUKO",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-FINA",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-FINA",
+      "category": "acceptance_and_control_scopes",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-UMIKA",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-KISAKI",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-CHAR-REIJO",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-REL-SORA-CUSTOMERS-SENSEI",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-INST-GEHENNA-FREEDOM",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-ENSEMBLE-SWEETS-BELONGING-UNEQUAL-KNOWLEDGE",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-INST-JUSTICE-WORK-LEISURE-ANSWERABILITY",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-INST-JUSTICE-WORK-LEISURE-ANSWERABILITY",
+      "category": "acceptance_and_control_scopes",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-REL-MEL-MOMIJI-CRAFT-PRIVACY-RECIPROCAL-CORRECTION",
+      "category": "endpoints",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-INST-PREFECT-PROTECTION-INFORMATION-FORCE",
+      "category": "endpoints",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-ENSEMBLE-GOURMET-DIFFERENTIATED-PLEASURE",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-INST-SCHOOL-LUNCH-WORK-RECIPIENTS",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-REL-FUUKA-JURI-RECIPROCAL-CARE-BURDEN",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-REL-MEG-KASUMI-CRAFT-LEVERAGE",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-REL-MEG-KASUMI-CRAFT-LEVERAGE",
+      "category": "endpoints",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-REL-HINA-AKO-SERVICE-INDEPENDENT-WANTS",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-REL-HINA-AKO-SERVICE-INDEPENDENT-WANTS",
+      "category": "endpoints",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-REL-REIJO-KAGUYA",
+      "category": "endpoints",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-INST-CC-STUDENT-OPERATIVE-LABOR",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-INST-ENGINEERING-CRAFT-CLIENT-CONSTRAINTS",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    },
+    {
+      "package": "P3-ENSEMBLE-CC-DIFFERENTIATED-COMPANY-CONTESTED-BELONGING",
+      "category": "architecture_applicability",
+      "status": "EXACT_CATEGORY_COLLECTION_NOT_SEPARATELY_SELECTED; may be embedded in ROOT or compound report declaration; no invented count."
+    }
+  ],
+  "unresolved_adoption_selection": [],
+  "all_flags_are_metadata_preparation_flags": "A missing separately selected category is not a finding that the package was unaudited; ROOT receipt at its actual declared scope remains authoritative. No missing count is fabricated.",
+  "all133_audit_repairs_complete": false
+}

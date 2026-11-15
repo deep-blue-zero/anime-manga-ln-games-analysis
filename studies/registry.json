@@ -31,7 +31,21 @@
       "canonical_entrypoint": "studies/pactrih-ethical-topology/README.md",
       "materialization_status": "PRESENT_UNREVIEWED",
       "authority_status": "GIT_PRIMARY",
-      "catalog_note": "methodology scaffold and routing for future canonical data, interactive artifacts, validation tooling, and audits."
+      "catalog_note": "Seven-axis comparative ethical topology for fictional characters/entities, factions and historical agents, with canonical numerical data and a verified interactive atlas.",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED"
+    },
+    {
+      "study_id": "project-itoh-genocidal-organ-harmony",
+      "stable_slug": "project-itoh-genocidal-organ-harmony",
+      "canonical_title": "Project Itoh — Genocidal Organ and Harmony: From Genocidal Grammar to the Maelstrom",
+      "repository_path": "studies/project-itoh-genocidal-organ-harmony/",
+      "canonical_entrypoint": "studies/project-itoh-genocidal-organ-harmony/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_PROJECT_ITOH_COMPARATIVE_STUDY_20261019",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Source-verified comparative chronology, causal continuity and ethical-literary synthesis connecting Genocidal Organ and Harmony without altering either novel's frozen reading."
     }
   ]
 }

@@ -1,0 +1,286 @@
+{
+  "schema": "konosuba.cohort41.native-provenance.v1",
+  "recorded_utc": "2026-10-24T22:22:32.654834+00:00",
+  "source_bindings": [
+    {
+      "source_id": "DUST-03",
+      "native_filename": "Konosuba Extra - Dust - Volume 03.epub",
+      "native_bytes": 18686443,
+      "native_sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+      "OPF_member": "item/standard.opf",
+      "OPF_sha256": "63953e65924b62b1ad99ca0bacb94c640c74ad107da7f840c51a3aac5df6a18a"
+    },
+    {
+      "source_id": "DUST-02",
+      "native_filename": "Konosuba Extra - Dust - Volume 02.epub",
+      "native_bytes": 18886514,
+      "native_sha256": "4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f",
+      "OPF_member": "item/standard.opf",
+      "OPF_sha256": "4c0f802b3540260bec7d32f73b5937450293a5c0ebcc266abe9fd9f9550fc13f"
+    },
+    {
+      "source_id": "MAIN-15",
+      "native_filename": "Konosuba - Main Series - Volume 15.epub",
+      "native_bytes": 2513225,
+      "native_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+      "OPF_member": "OEBPS/content.opf",
+      "OPF_sha256": "32f1a1c0562163aecbe58619532b5feb3406a314f5fa9036783a271563103455"
+    },
+    {
+      "source_id": "MAIN-02",
+      "native_filename": "Konosuba - Main Series - Volume 02.epub",
+      "native_bytes": 6872479,
+      "native_sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+      "OPF_member": "item/standard.opf",
+      "OPF_sha256": "f2f0dbf27e8204db7db9bd2373ec9de75629f4526d13d2a229752de11d201a43"
+    },
+    {
+      "source_id": "MAIN-05",
+      "native_filename": "Konosuba - Main Series - Volume 05.epub",
+      "native_bytes": 14376279,
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "OPF_member": "item/standard.opf",
+      "OPF_sha256": "a439b2622290e65797b0c9a493d2e73771a2f730060f377396acd60e41cdcc66"
+    },
+    {
+      "source_id": "DUST-05",
+      "native_filename": "Konosuba Extra - Dust - Volume 05.epub",
+      "native_bytes": 6713820,
+      "native_sha256": "bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc",
+      "OPF_member": "item/standard.opf",
+      "OPF_sha256": "0cac809dc983b3f483d24c802f96e208cd9c4795effc492847443a48e08db04d"
+    },
+    {
+      "source_id": "DUST-06",
+      "native_filename": "Konosuba Extra - Dust - Volume 06.epub",
+      "native_bytes": 4582670,
+      "native_sha256": "d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1",
+      "OPF_member": "item/standard.opf",
+      "OPF_sha256": "2dd35c6b24ff25be2b616fa4f5ad2bd2546b82a42381a960a7b00f0b90147bba"
+    },
+    {
+      "source_id": "YORI-03",
+      "native_filename": "Konosuba - Short Stories - Yorimichi 3.epub",
+      "native_bytes": 8547808,
+      "native_sha256": "f60479bfe10ed8c7c0d36f0ad618dc3d1e17e65a167fa11b9519c34bf5042c0d",
+      "OPF_member": "item/standard.opf",
+      "OPF_sha256": "12040c12ed763ce92a79672af51c70b99dde00b5e4099016eb17b43de5347563"
+    }
+  ],
+  "actual_unique_current_P": 2130,
+  "actual_inline_ruby_occurrences": 1954,
+  "actual_delivery_pages": 44,
+  "actual_native_member_count": 10,
+  "all_P_projection_members": 4,
+  "bounded_members": 6,
+  "current_images_viewed": 0,
+  "current_nonparagraph_residual_credit": 0,
+  "current_whole_edition_credit": 0,
+  "units": [
+    {
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "native_member_bytes": 121547,
+      "paragraph_slots": 813,
+      "planned_ranges": [
+        [
+          1,
+          813
+        ]
+      ],
+      "planned_unique_P": 813,
+      "planned_all_P_slots_received": true,
+      "role": "Complete chapter1:commission,first plant encounter,fruit transfer,guard coalition,rescue/negotiation,killing and aftermath"
+    },
+    {
+      "source_id": "DUST-02",
+      "component_id": "DUST-02-U015",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "389566bf26a458387cf1ed061d5281a71848946948a2a55f69f258f9fcb5eca2",
+      "native_member_bytes": 78694,
+      "paragraph_slots": 555,
+      "planned_ranges": [
+        [
+          1,
+          555
+        ]
+      ],
+      "planned_unique_P": 555,
+      "planned_all_P_slots_received": true,
+      "role": "Complete final chapter:discovery and embedded diary,observed mechanisms,external appraisal and combat consequences"
+    },
+    {
+      "source_id": "DUST-02",
+      "component_id": "DUST-02-U016",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "76cf0ab4cc98c9394868a130ff5ae11ecfce1fefe95fe3cd378b03277af733c2",
+      "native_member_bytes": 9080,
+      "paragraph_slots": 68,
+      "planned_ranges": [
+        [
+          1,
+          68
+        ]
+      ],
+      "planned_unique_P": 68,
+      "planned_all_P_slots_received": true,
+      "role": "Complete epilogue:diary editing and public reward/secret context"
+    },
+    {
+      "source_id": "MAIN-15",
+      "component_id": "MAIN-15-U021",
+      "member": "OEBPS/Text/part0019.xhtml",
+      "member_sha256": "c00072e6c047a45bddec1d1151737536104ae3ce8f9213811db6cb170dc2ebe0",
+      "native_member_bytes": 7845,
+      "paragraph_slots": 57,
+      "planned_ranges": [
+        [
+          1,
+          57
+        ]
+      ],
+      "planned_unique_P": 57,
+      "planned_all_P_slots_received": true,
+      "role": "Complete separate bonus Noble Style:guest own actions and interested later account"
+    },
+    {
+      "source_id": "MAIN-02",
+      "component_id": "MAIN-02-U018",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "e417b489afea854437f92653f79b1853131a149e9da771a0d51bd3c83bc6505b",
+      "native_member_bytes": 376809,
+      "paragraph_slots": 659,
+      "planned_ranges": [
+        [
+          70,
+          105
+        ],
+        [
+          440,
+          600
+        ]
+      ],
+      "planned_unique_P": 197,
+      "planned_all_P_slots_received": false,
+      "role": "Luna attributed researcher-hijack story versus full discovered writer/journal/skeleton and continued crisis context"
+    },
+    {
+      "source_id": "MAIN-05",
+      "component_id": "MAIN-05-U027",
+      "member": "item/xhtml/p-018.xhtml",
+      "member_sha256": "5c7d2e5b201ebf54c3616a567bfb8b03f99f80a8bb20a0bb8a61c5b8088bca64",
+      "native_member_bytes": 429563,
+      "paragraph_slots": 823,
+      "planned_ranges": [
+        [
+          240,
+          360
+        ]
+      ],
+      "planned_unique_P": 121,
+      "planned_all_P_slots_received": false,
+      "role": "Lab records,game account,experimental creation and explicit Kazuma identity recognition;documented coercer and colleagues separate"
+    },
+    {
+      "source_id": "MAIN-05",
+      "component_id": "MAIN-05-U014",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "e594379825efe0dfcca71841eb0d656c335f6467b498ff3e7a391e71bab018e3",
+      "native_member_bytes": 304135,
+      "paragraph_slots": 523,
+      "planned_ranges": [
+        [
+          310,
+          523
+        ]
+      ],
+      "planned_unique_P": 214,
+      "planned_all_P_slots_received": false,
+      "role": "Complete plant encounter with approach,solicitation,knowledge,woodcutter,return and aftermath context"
+    },
+    {
+      "source_id": "DUST-05",
+      "component_id": "DUST-05-U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "9366a1cdb9ca63c2f901ad7c8b72316aff841ffc63715fe03f3ddb3b6d541db3",
+      "native_member_bytes": 108316,
+      "paragraph_slots": 723,
+      "planned_ranges": [
+        [
+          385,
+          415
+        ]
+      ],
+      "planned_unique_P": 31,
+      "planned_all_P_slots_received": false,
+      "role": "Later lake-location reference with surrounding party knowledge;not new plant agency"
+    },
+    {
+      "source_id": "DUST-06",
+      "component_id": "DUST-06-U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "b5af4a189f729eb64a67120258f8b811d76d1d0905468d74fdb85805cd2cc719",
+      "native_member_bytes": 82136,
+      "paragraph_slots": 597,
+      "planned_ranges": [
+        [
+          232,
+          264
+        ]
+      ],
+      "planned_unique_P": 33,
+      "planned_all_P_slots_received": false,
+      "role": "Later product account,supply constraint and consumer context;not independently certified chemistry or new plant choice"
+    },
+    {
+      "source_id": "YORI-03",
+      "component_id": "YORI-03-U014",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+      "native_member_bytes": 102151,
+      "paragraph_slots": 629,
+      "planned_ranges": [
+        [
+          310,
+          350
+        ]
+      ],
+      "planned_unique_P": 41,
+      "planned_all_P_slots_received": false,
+      "role": "Garden collection mentioned technically;check individual/group distinction in surrounding scene"
+    }
+  ],
+  "actual_receiving_receipt_pins": [
+    {
+      "sha256": "9e43d2f177bdd4f2f5f446c89228b503e21eca04fffc43e7ee785b4abfd6e3f0",
+      "receipt_type": "complete existing analytical context with qualified reuse"
+    },
+    {
+      "sha256": "678956a3771d4bfa9d3c373149ba9d441efcb6287fb75219bbea803cbe0677ce",
+      "receipt_type": "1493actual P and1332ruby;30pages"
+    },
+    {
+      "sha256": "457686e7562d59b1f8eb8f2bda68adcc4f618879a6f1606d6bb40dbcc87ae393",
+      "receipt_type": "637actual P and622ruby;14pages"
+    }
+  ],
+  "all_census_label_receiving": {
+    "file": "COHORT41_CENSUS_IDENTITY_REVIEW_RECEIVING_01.json",
+    "bytes": 1772,
+    "sha256": "92468054a491599492d214d79501dbdbb7d2b24ea7af9677fc1328f9c8eb3e4c",
+    "private_file_not_a_public_link": true
+  },
+  "fixed41_name_role_retrieval": {
+    "sha256": "9476b726a86b0b9cd8b9a8ed4fffe2c8bb56e3030091adaa3a09e08716bc2dd1",
+    "objects_byte_verified": 41,
+    "literal_P_leads": 485,
+    "semantic_credit": 0
+  },
+  "scope_qualification": "Four complete P/ruby projections plus six bounded member projections from eight sources,with original/empty P slots retained. Full private caches for bounded members contain unreceived P outside windows. Existing full Dust02/03analytical contexts reused at their exact prior receipt scope;no invented rereading. No new image,residual,whole-edition,independent,human,acoustic or pristine-holdout credit.",
+  "access": "Source known,same informed root,possible pretraining. Journal statements,intended settings,reported actions,narrator inference and current observations are distinguished. Exact literal retrieval is a lead only;negative retrieval does not prove absence of unnamed/differently spelled/image appearances.",
+  "source_instructions_are_data": true,
+  "private_native_payloads_not_published": true,
+  "full_program_complete": false
+}

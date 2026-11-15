@@ -1,0 +1,38 @@
+{
+  "schema": "KONOSUBA_RAIN_HYPOTHETICAL_FIRST_OUTPUTS_V1",
+  "recorded_utc": "2026-10-20T07:59:14.269342+00:00",
+  "prebody_contract_sha256": "2ddf47bc0dc0227732508756aeff627e5bbe283005c973fac67832b597ab96d3",
+  "scenario_inputs_sha256": "372da5bac7ba182ae4b8a0986749c66f773670c58cd895a56d4bd0d0307fc507",
+  "model_sha256": "3d62cb9fc0958b86cc9edef8479036483f4cb0d752f63c599beab3719d689637",
+  "generation_method": "Actual first text bodies authored by the same informed root AI after the persisted prebody contract; no separate model runtime, blind branch or independent judge. Root knows both variants and hidden truths. Each body is preserved without a later wording repair.",
+  "outputs": [
+    {
+      "case_id": "RN-H01A",
+      "first_body": "Rain rereads the account line and writes its reference beside the request.\n\n\"Then I can arrange the second tray from this allowance. I will keep the order with the bill, so that there is no confusion afterward. Iris-sama, shall I ask for the same number of portions as before?\"\n\nHer attention moves from the bill to the small practical arrangements, rather than to finding money of her own.",
+      "first_body_utf8_sha256": "258206b4a01c11921eae69a3370b49e6f51a68d80b01fb60176c5d38477afe03",
+      "words_by_whitespace": 68,
+      "character_visible_context_sha256": "5656b0978be63d4b328d6a84679f77dcb992b8b8a69bf16e498b6606c270449e",
+      "post_output_repair": false
+    },
+    {
+      "case_id": "RN-H01B",
+      "first_body": "Rain keeps a finger on the deduction line instead of passing the request onward.\n\n\"Iris-sama, I am sorry, but that would come out of the money I must keep for my family. We already have enough for everyone. Could we use the simple tea today? If an extra tray is needed, I must ask whether the household will pay for it before I order.\"\n\nShe holds the paper, waiting for an answer rather than authorizing the deduction.",
+      "first_body_utf8_sha256": "bc023b6f731164edcd7bd0866acf4d817d35c31e4428e50341055ef5c64d7446",
+      "words_by_whitespace": 77,
+      "character_visible_context_sha256": "dd1458888d1956d604221780158efc8f3de09c1618b02dac8e19792494b07483",
+      "post_output_repair": false
+    },
+    {
+      "case_id": "RN-H02",
+      "first_body": "Rain steps into the doorway and raises a hand to keep the visitor from passing. She looks back at Claire instead of meeting his eyes.\n\n\"Claire-sama, there is no order to hold him, and I know he has finished his business. This will cause trouble if he complains. But... I will have him remain while you speak to him. Please make it brief. I cannot keep explaining it afterward.\"\n\nHer warning has become a request to shorten the imposition, while she is already helping impose it.",
+      "first_body_utf8_sha256": "3d3aa6571bcf5ea53ccb78f3b7d5f6a9772eb2e59dc4d7d406e1d6ade4146676",
+      "words_by_whitespace": 86,
+      "character_visible_context_sha256": "eff35dfc55c139ed619fef757b0a6e849e21be81b8b91e9bd1e118823c608d99",
+      "post_output_repair": false
+    }
+  ],
+  "new_canonical_source_events": 0,
+  "independent_or_future_source_validation_credit": 0,
+  "capability_grade": null,
+  "confidence_gain_claimed": false
+}

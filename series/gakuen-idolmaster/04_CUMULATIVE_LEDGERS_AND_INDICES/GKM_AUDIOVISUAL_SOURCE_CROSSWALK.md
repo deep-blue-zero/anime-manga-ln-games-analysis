@@ -447,3 +447,8 @@ R2 source note: the high-resolution Dear 021–027 and 028–037 files replace o
 All 18 planned targets reference one of 12 retained physical compilations in the [source manifest](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_SOURCE_MANIFEST_AND_AUDIT.md). The [target map](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/SUPPORTING_DATA/target_map.json) binds unchanged RINHA-AV/RINHA-XW IDs to exact A1 paths and source SHA-256s through the manifest. Caption points confirm scene identity; conservative envelopes are not exact frame cuts or complete word alignments.
 
 Ume11–20 is a new 1080p materialization distinct from historical 720p AV-UME-013; no byte-equivalence or independent-story credit is claimed. EVENT016 is 996×1920 portrait and its embedded chapter labels are shifted; actual main-03 captions govern its locator. Support0097-02 has nine Rinha messages and an independent fan utterance at 174.000s. All media are present; audible performance and continuous movement remain unreviewed.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+The [Carbon register](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_OBSERVATION_PACKET.md#new-and-supplemental-candidates) crosswalks the new D-KOTONE, D-SENA, D-TSUBAME, E027/E028/E030, support, U1 and Kanae targets to exact Japanese A1 locators and acquisition groups. Its Rinha table retains the original IDs, hashes, byte counts and conservative windows for 12 physical recordings. Public leads identify candidate editions. Acquire or recover the exact recordings, match their native dialogue or chapter and version, and verify offsets before cutting or judging a scene.

@@ -1,0 +1,429 @@
+{
+  "schema": "YUZU_COMPLETE_FIVE_ORIGINAL_REPORT_WARRANTS_PUBLIC_V1",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "generation": "PUBLIC_FORM_V1",
+  "date": "2026-11-04",
+  "home_zero": 58,
+  "required_package_id": "P3-CHAR-YUZU-TWO-KEY-BOUNDED",
+  "role": "Complete unchanged historical original ROOT wrappers O000–O004, locally attributed; no new shared/canonical owner or source attendance",
+  "stage": "CURRENT_ELIGIBLE_METADATA_PROPOSED_20261104;PRIOR_PUBLIC_C_FORM_ROOT_ACCEPTED_WITH_LIMITS;FINAL_DERIVATIVE_QA_AND_ROOT_BYTE_ACCEPTANCE_REQUIRED_BEFORE_INSTALLATION",
+  "component_paths": {
+    "BODY": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+    "MAP": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_BODY52_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+    "SOURCE": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_SOURCE_AUTHORITY_IDENTITY_AND_EFFECTIVE_USE_QUALIFICATIONS_V1.json",
+    "PURPOSE": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_ALL105_COMPLETE_FIVE_FIELD_COMPARATIVE_PURPOSES_V1.json",
+    "INDEX": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_COMPARISON_NAVIGATION_AND_RECIPROCAL_RELATION_INDEX_V1.json",
+    "WARRANT": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_SOURCE_REPORT_WARRANTS_O000_O004_COMPLETE_ATTRIBUTED_V1.json",
+    "AUTHOR": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_AUTHOR_REASONS_AND_DATED_QUALIFICATIONS_V1.json",
+    "PEER": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_DISTINCT_REVIEW_REASONS_AND_CURRENT_FINITE_QA_V1.json",
+    "ROOT": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_ROOT_PRIVATE_ADOPTION_AND_PUBLIC_COMPOSITION_CONTROL_V1.json",
+    "MANIFEST": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_PUBLIC_CURRENT_COMPONENT_MANIFEST_V1.json",
+    "ODY1": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O000_O029_CURRENT_PURPOSES_V1.json",
+    "ODY2": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O030_O054_CURRENT_PURPOSES_V1.json",
+    "ODY3": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O055_O079_CURRENT_PURPOSES_V1.json",
+    "ODY4": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O080_O104_CURRENT_PURPOSES_V1.json"
+  },
+  "exact_reference_semantics": "COMPONENT#/JSON/pointer resolves recursively to the whole typed value. Full equality is proved in ROOT exact reuse table; path aliases are explicit repository paths, never private locators.",
+  "complete_attributed_original_wrappers": [
+    {
+      "owner_id": "O000",
+      "current_ROOT_disposition": "ADOPTED_ROOT_OWN_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "current_disposition_qualification": "Separately owned whole maintained analytical-normal purpose; original question, positive and contrary meaning, finite result, prospective body use and source limits remain below. Historical other-owner pending counts do not supersede the latest all105 receiving closure.",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_19",
+      "original_record_pointer": "",
+      "complete_frozen_ROOT_own_purpose_sanitized": {
+        "schema": "ROOT_MINATO_SUPPLEMENTAL_OWNER000_FULL_PURPOSE_AND_ACTUAL_RECEIVING_V1",
+        "checked_UTC": "2026-10-11T23:44:56.109832+00:00",
+        "existing_home": "P3-CHAR-M040",
+        "owner_ref": 0,
+        "alias": "O000",
+        "source_class": "GROUP",
+        "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1101_1104_DEEP_READING.md",
+        "exact_original_C_binding": {
+          "original_owner_pointer": "/owners/0",
+          "dispatch_owner_ref": 0,
+          "source_class": "GROUP",
+          "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1101_1104_DEEP_READING.md",
+          "bound_C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1101_1104_DEEP_READING.md",
+          "bytes": 36852,
+          "sha256": "2215aa4cb0f6b7092939f775ac72e12361e6fa58ce9d4087f7686d10d3c9a2d3",
+          "git_blob_oid_of_actual_bytes": "2f1bce821c37ec76c58b0422fdc13da135258009",
+          "physical_lines": 220,
+          "working_equals_exact_commit": true,
+          "historical_receiving_declarations": "ATTRIBUTED_ONLY_NOT_UPGRADED"
+        },
+        "exact_owned_copy": {
+          "path": "repository-reference:series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1101_1104_DEEP_READING.md",
+          "bytes": 36852,
+          "sha256": "2215aa4cb0f6b7092939f775ac72e12361e6fa58ce9d4087f7686d10d3c9a2d3",
+          "git_blob_oid_of_actual_bytes": "2f1bce821c37ec76c58b0422fdc13da135258009"
+        },
+        "actual_own_ROOT_normal_receiving": {
+          "grade": "FRESH_COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_MEANING_ONLY",
+          "physical_lines": 220,
+          "actual_result": "41265b complete1-220EOF, untruncated",
+          "fresh_underlying_primary_raw_native_AV_receiving": false,
+          "source_own_primary_and_raw_claims": "Preserved as historical author declarations in the normal, not transferred to currentROOT reading.",
+          "current_authority": "CurrentCycle008 admission and PR152 corrections govern; olderCycle002 intake and proposed-ledger wording remains creation-stage history."
+        },
+        "complete_new_Minato_question_and_finite_result": "How can Minato value shared touring, curry and a friends familiar place while retaining each recipients different answer, and when can a caring intervention make a cost its giver did not intend? The four Gourmet arguments provide a substantive comparison: Haruna wants Izumi included in a rare sensory pleasure after earlier abandonment; Izumi actually values residual aroma despite the missing truffle meal; Junko objects to teasing and dubious sales yet joins offered kitchen labor; Haruna supplies oil and Akari invokes friendship while Fuukas practical warning is overridden and disorder ends without a meal or repair. Minatos tour enjoyment likewise preserves its scheduling cost, and her last-voyage choice preserves deferred objections and uninspected guest permission. These are different source-local tests of ordinary wants and answerable care. A wanted sensory or social experience matters independently of public success, while its enjoyment does not authorize every method. Hares reported sensory classification failing to settle Izumis self-reported enjoyment provides a further limit on turning explanation into a complete recipient account; it supplies no clinical finding about Sammy, animal consent or transfer of human self-report to a cat.",
+        "consequential_complete_positive_and_contrary_meanings": [
+          {
+            "normal_lines": [
+              79,
+              87
+            ],
+            "meaning": "Reported restaurant destruction, disagreement, recalled protest against abandonment, desired rescue before tasting and severe arrest have distinct owners. Harunas later inclusion does not retroactively make Izumi willing to be left."
+          },
+          {
+            "normal_lines": [
+              91,
+              97
+            ],
+            "meaning": "Confiscation return is promised, not completed; the club actually enjoys residual aroma. Sensei alternatives are not one simultaneous refusal or acceptance, and Hinas apology followed by fresh suspicion does not establish due-process completion or pool wrongdoing."
+          },
+          {
+            "normal_lines": [
+              101,
+              107
+            ],
+            "meaning": "Mint account and receptor findings are Hare reports with no printed validated test; Haruna dislikes, Junko tolerates, Izumi enjoys. A question about shampoo is not consumption or practical guidance. Felt human enjoyment is not determined by a reported classifier."
+          },
+          {
+            "normal_lines": [
+              111,
+              117
+            ],
+            "meaning": "Different egg preferences precede Fuuka workload/resource reports, actual supplied oil and volunteered labor. The warning is interrupted; the source ends with disorder and silence, no completed meal, apology, cleanup or audited injury/liability outcome."
+          },
+          {
+            "normal_lines": [
+              153,
+              165
+            ],
+            "meaning": "Full counterreadings preserve nonfood motives, ordinary scene structure, limited explanation, fallible authority and recipient-control failure. Main comparisons preserve chronology and separate crisis-accountability scope."
+          }
+        ],
+        "Minato_direct_and_comparative_role_boundary": {
+          "direct_Minato_role": "The complete maintained roster66-73 identifies ten speaking subjects across these fourobjects and does not identify Minato as one of them. This is a source-local analytical roster result, not a global appearance-absence or a fresh original-primary roster certificate.",
+          "comparison": "Positive pleasure, fallible inclusion, objections, reported explanation and failed offered help are individual comparisons to Minato actualMN03-04/MN08-14. No Gourmet actor becomes an anonymous Minato role.",
+          "actors": "Haruna,Akari,Junko/ZUNKO,Izumi,Hina,Chinatsu,Iori,Sensei,Hare,Fuuka retain distinct source-local modes; Juri is an absent mention, Izumi recalled at first, Iori reported in1103, teacher options alternative. No unprinted shared knowledge or variants.",
+          "chronology": "1101-1102 connected locally;1103/1104 independently placed; none dates against Minato/Sammy/EVENT861."
+        },
+        "finite_ends": [
+          "Actual shared aroma preserves joy although the truffle meal/return is unprinted.",
+          "Oil and offered labor are real acts; final kitchen disorder does not complete food, repair or recipient authorization.",
+          "Arrest is narrated, apology observed and new accusation unsettled; no complete custody/sanction/medical settlement.",
+          "Reported classification and persistent pleasure remain distinct; no validated biology, clinical cause, universal inference or animal preference."
+        ],
+        "prospective_body_claim_relations": [
+          {
+            "Minato_body_lines": [
+              9,
+              21,
+              47,
+              55,
+              137
+            ],
+            "purpose": "Preserve independently worthwhile pleasure with scheduling/recipient costs."
+          },
+          {
+            "Minato_body_lines": [
+              11,
+              59,
+              61,
+              125,
+              127
+            ],
+            "purpose": "Compare offered care and affection with consequences and reconsideration without retroactive permission."
+          },
+          {
+            "Minato_body_lines": [
+              65,
+              83,
+              129,
+              131
+            ],
+            "purpose": "Preserve epistemic difference between human account, animal interpretation and clinical causal/counterfactual claim."
+          }
+        ],
+        "source_or_low_stakes_exclusion": false,
+        "header_name_school_frequency_or_model_exclusion": false,
+        "all14_original_gaps": "OPEN",
+        "models": 0,
+        "new_primary_native_raw_AV_admission_identity_calendar_or_required_named_package_credit": 0,
+        "required_Minato105_duty_progress": {
+          "complete_new_source_specific_purpose_rows": 1,
+          "remaining_source_specific_rows": 104,
+          "whole105_completion": false
+        },
+        "body_installation_acceptance_or_publication": "PENDING; this new comparison does not change the original38705 draft or its saved57 claims."
+      }
+    },
+    {
+      "owner_id": "O001",
+      "current_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "current_disposition_qualification": "The exact original ROOT disposition, reason, receiving tools, scope limits and underlying-normal attribution remain below. Current all105 receiving closure supersedes creation-stage pending status only.",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_01",
+      "original_record_pointer": "/records/0",
+      "complete_frozen_ROOT_record_sanitized": {
+        "owner_id": "O001",
+        "complete_actually_received_fields": {
+          "owner_id": "O001",
+          "source_normal_binding": {
+            "original_owner_pointer": "/owners/1",
+            "dispatch_owner_ref": 1,
+            "source_class": "GROUP",
+            "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1201_1203_DEEP_READING.md",
+            "bound_C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1201_1203_DEEP_READING.md",
+            "bytes": 28415,
+            "sha256": "7878d5a7517dfad383ffd92f175d48f4ce5052afc332956122f396dc6209b32a",
+            "git_blob_oid_of_actual_bytes": "8d0422d805814d9148746b4c2f2ad9ab606b7038",
+            "physical_lines": 172,
+            "working_equals_exact_commit": true,
+            "historical_receiving_declarations": "ATTRIBUTED_ONLY_NOT_UPGRADED"
+          },
+          "minato_V3_line_joins": [
+            9,
+            41,
+            137
+          ],
+          "full_source_specific_question": "Can Minato’s enjoyed hosting and crew participation establish permission to define a recipient’s enduring role?",
+          "actual_connected_meaning": "Yuuka asks for a civic café; Asuna accepts under local delegation before Neru returns. Service opens and profit is reported, but Neru retains her jacket and refuses permanent maid work. Akane/Karin/Asuna’s real cleaning and service pleasures remain ordinary ends.",
+          "counterevidence_and_rival_limits": "Valid delegation and real enjoyment coexist with a leader’s objections, rushed opening and refused permanence. Revenue sufficiency is reported; no enacted permanent restructuring or inspected contract terms follow.",
+          "finite_result": "POSITIVE_COMPARATIVE_AUTHORITY_HOSPITALITY_AND_RECIPIENT_BOUNDARY",
+          "claim_and_source_limit": "Use the differentiated consent stages to test Minato’s tour, deferred objections and guest-schedule prediction. No Minato attendance, shared legal code or same-stakes coercion is established.",
+          "necessary_future_trigger": "Any claim that Minato’s opt-out or enjoyment authorizes every guest’s future role requires their actual answers and the consequential Minato command context; profit or group participation cannot substitute.",
+          "own_actual_C_receiving": {
+            "grade": "SELECTED_CONNECTED_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_TAIL",
+            "line_ranges": [
+              [
+                18,
+                24
+              ],
+              [
+                40,
+                120
+              ],
+              [
+                136,
+                152
+              ],
+              [
+                170,
+                172
+              ]
+            ],
+            "tool_output_refs": [
+              "e2a12e"
+            ],
+            "primary_native_raw_AV_or_whole_source_consumption_claim": false
+          },
+          "Minato_core_basis": "Own completeV3 draft receiving59f064; its19 core-source actual reading remains ROOT-attributed, not transferred to this agent.",
+          "direct_Minato_attendance_or_global_absence": "NOT_CLAIMED; positive comparative purpose only at inspected scope",
+          "status": "COMPLETE_FINITE_PURPOSE_AT_DISCLOSED_GRADE_ROOT_ADOPTION_PENDING"
+        },
+        "ROOT_current_purposewise_disposition": "ADOPT_FINITE_POSITIVE_PURPOSE_WITH_LIMITS_AT_SUPPLIED_ANALYTICAL_ARGUMENT_REPORT_GRADE",
+        "ROOT_reason_and_finite_use": "Adopt the useful delegated opening and separately refused permanent role as a positive hospitality/permission comparison. Preserve service and cleaning enjoyment as ends; do not infer Minato attendance, a common legal code, an enacted permanent role or universal recipient agreement.",
+        "ROOT_actual_receiving_tool": "d4e3ca",
+        "ROOT_own_underlying_normal_fresh_read": "NOT_CLAIMED; source contributor actual receiving remains separately attributed",
+        "new_credits": 0
+      }
+    },
+    {
+      "owner_id": "O002",
+      "current_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "current_disposition_qualification": "The exact original ROOT disposition, reason, receiving tools, scope limits and underlying-normal attribution remain below. Current all105 receiving closure supersedes creation-stage pending status only.",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_01",
+      "original_record_pointer": "/records/1",
+      "complete_frozen_ROOT_record_sanitized": {
+        "owner_id": "O002",
+        "complete_actually_received_fields": {
+          "owner_id": "O002",
+          "source_normal_binding": {
+            "original_owner_pointer": "/owners/2",
+            "dispatch_owner_ref": 2,
+            "source_class": "GROUP",
+            "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1301_1303_DEEP_READING.md",
+            "bound_C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1301_1303_DEEP_READING.md",
+            "bytes": 23556,
+            "sha256": "a2b69a516d530c14b075bb8625ff51d9046d27f5204c5d9ca3e72e73761e1872",
+            "git_blob_oid_of_actual_bytes": "7081b474475df1b425b2b7364470913f4a24bb05",
+            "physical_lines": 138,
+            "working_equals_exact_commit": true,
+            "historical_receiving_declarations": "ATTRIBUTED_ONLY_NOT_UPGRADED"
+          },
+          "minato_V3_line_joins": [
+            39,
+            83,
+            91
+          ],
+          "full_source_specific_question": "How does care for a familiar object or place differ from an authority’s imposed role and removal of a valued companion?",
+          "actual_connected_meaning": "Cherino seeks mascot-driven recruitment, Marina knowingly fabricates Peroro through coerced Nodoka performance, and Nodoka values savoring pudding, her telescope and Class227 despite wanting return. Her defense of the old building breaks the costume performance; narrated revolutions restore administration.",
+          "counterevidence_and_rival_limits": "Nodoka refuses inducement and complies to stop tickling. Tomoe corrects oversleep timing; Marina voices accurate mascot limits. Restoration is not voluntary assent or repaired treatment. The telescope damage and benefit promises remain uncompleted.",
+          "finite_result": "POSITIVE_COMPARATIVE_PLACE_ATTACHMENT_COERCION_AND_AFFECTED_PARTY",
+          "claim_and_source_limit": "Keep Minato’s familiar Sammy-place and withdrawal substantive while distinguishing claimed administrative hygiene grounds from recipient wishes. Costume reveal is source-local Nodoka, not a person merger or Minato role.",
+          "necessary_future_trigger": "A stronger claim of renewed collective consent, completed removal authority or benefited recipients must inspect the actual decision/afterstate and retained attribution seams, rather than an authority’s slogan.",
+          "own_actual_C_receiving": {
+            "grade": "SELECTED_CONNECTED_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_TAIL",
+            "line_ranges": [
+              [
+                77,
+                106
+              ],
+              [
+                121,
+                138
+              ]
+            ],
+            "tool_output_refs": [
+              "e2a12e",
+              "8baff6"
+            ],
+            "primary_native_raw_AV_or_whole_source_consumption_claim": false
+          },
+          "Minato_core_basis": "Own completeV3 draft receiving59f064; its19 core-source actual reading remains ROOT-attributed, not transferred to this agent.",
+          "direct_Minato_attendance_or_global_absence": "NOT_CLAIMED; positive comparative purpose only at inspected scope",
+          "status": "COMPLETE_FINITE_PURPOSE_AT_DISCLOSED_GRADE_ROOT_ADOPTION_PENDING"
+        },
+        "ROOT_current_purposewise_disposition": "ADOPT_FINITE_POSITIVE_PURPOSE_WITH_LIMITS_AT_SUPPLIED_ANALYTICAL_ARGUMENT_REPORT_GRADE",
+        "ROOT_reason_and_finite_use": "Adopt the differentiated attachment to companion/place and refusal under administrative inducement. Preserve pudding, telescope and class attachment as ordinary ends. Costume coercion, restored administration and threatened/damaged things are local results, without authenticating the claimant hygiene ground or joining persons.",
+        "ROOT_actual_receiving_tool": "d4e3ca",
+        "ROOT_own_underlying_normal_fresh_read": "NOT_CLAIMED; source contributor actual receiving remains separately attributed",
+        "new_credits": 0
+      }
+    },
+    {
+      "owner_id": "O003",
+      "current_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "current_disposition_qualification": "The exact original ROOT disposition, reason, receiving tools, scope limits and underlying-normal attribution remain below. Current all105 receiving closure supersedes creation-stage pending status only.",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_01",
+      "original_record_pointer": "/records/2",
+      "complete_frozen_ROOT_record_sanitized": {
+        "owner_id": "O003",
+        "complete_actually_received_fields": {
+          "owner_id": "O003",
+          "source_normal_binding": {
+            "original_owner_pointer": "/owners/3",
+            "dispatch_owner_ref": 3,
+            "source_class": "GROUP",
+            "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+            "bound_C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+            "bytes": 24487,
+            "sha256": "2f196a0f37e8bb018bf29b953b20f233be8bcbd829936448dcc51728d45a84b2",
+            "git_blob_oid_of_actual_bytes": "5af18f683c454059385397183a8822af7c9f7058",
+            "physical_lines": 153,
+            "working_equals_exact_commit": true,
+            "historical_receiving_declarations": "ATTRIBUTED_ONLY_NOT_UPGRADED"
+          },
+          "minato_V3_line_joins": [
+            51,
+            61,
+            65
+          ],
+          "full_source_specific_question": "Can enjoyable making or an accidentally useful result certify the safety and authorization of Minato’s caring means?",
+          "actual_connected_meaning": "Pizza and differing sauce tastes generate an enjoyable invention. The gun modification works but is recognized as Neru’s only afterward, withheld from her and used to distress attackers; ensuing retaliation and coughs are printed. Offered console repair and a dummy plan remain uncompleted.",
+          "counterevidence_and_rival_limits": "Craft pleasure and learned skill have intrinsic value. Unauthorized ownership, nondisclosure, hygiene drawbacks and warnings about use on eyes defeat a harmless-toy or useful-therefore-authorized reading. No clinical diagnosis or restored gun appears.",
+          "finite_result": "POSITIVE_COMPARATIVE_CRAFT_PLEASURE_MEANS_AND_UNPRINTED_REPAIR",
+          "claim_and_source_limit": "This qualifies a wisdom-by-affection inference around Minato’s rope-ball memory, pursuit and farewell without importing weapons, injury or technical mechanisms into her story.",
+          "necessary_future_trigger": "Claims of safe Minato rescue protocol, medically optimal voyage or completed practical repair require an adequate actual endpoint/counterfactual, not enjoyment or accidental utility.",
+          "own_actual_C_receiving": {
+            "grade": "SELECTED_CONNECTED_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_TAIL",
+            "line_ranges": [
+              [
+                59,
+                122
+              ],
+              [
+                137,
+                153
+              ]
+            ],
+            "tool_output_refs": [
+              "e2a12e"
+            ],
+            "primary_native_raw_AV_or_whole_source_consumption_claim": false
+          },
+          "Minato_core_basis": "Own completeV3 draft receiving59f064; its19 core-source actual reading remains ROOT-attributed, not transferred to this agent.",
+          "direct_Minato_attendance_or_global_absence": "NOT_CLAIMED; positive comparative purpose only at inspected scope",
+          "status": "COMPLETE_FINITE_PURPOSE_AT_DISCLOSED_GRADE_ROOT_ADOPTION_PENDING"
+        },
+        "ROOT_current_purposewise_disposition": "ADOPT_FINITE_POSITIVE_PURPOSE_WITH_LIMITS_AT_SUPPLIED_ANALYTICAL_ARGUMENT_REPORT_GRADE",
+        "ROOT_reason_and_finite_use": "Adopt craft and taste pleasure alongside unauthorized gun modification, nondisclosure, cough and unfinished repair. This tests affection-as-authorization and safe-means claims without transferring weapon technology or clinical injury into Minato. Making retains intrinsic value independently of useful or safe results.",
+        "ROOT_actual_receiving_tool": "d4e3ca",
+        "ROOT_own_underlying_normal_fresh_read": "NOT_CLAIMED; source contributor actual receiving remains separately attributed",
+        "new_credits": 0
+      }
+    },
+    {
+      "owner_id": "O004",
+      "current_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "current_disposition_qualification": "The exact original ROOT disposition, reason, receiving tools, scope limits and underlying-normal attribution remain below. Current all105 receiving closure supersedes creation-stage pending status only.",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_01",
+      "original_record_pointer": "/records/3",
+      "complete_frozen_ROOT_record_sanitized": {
+        "owner_id": "O004",
+        "complete_actually_received_fields": {
+          "owner_id": "O004",
+          "source_normal_binding": {
+            "original_owner_pointer": "/owners/4",
+            "dispatch_owner_ref": 4,
+            "source_class": "GROUP",
+            "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md",
+            "bound_C_copy": "repository-reference:series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md",
+            "bytes": 31173,
+            "sha256": "5befccc68d9cd8c89ba1f60e37f5fe861acfe280f33d5c5ea145f89a8126b0d6",
+            "git_blob_oid_of_actual_bytes": "5f0889bb9b75d3cf973d432467152fb830ba722f",
+            "physical_lines": 190,
+            "working_equals_exact_commit": true,
+            "historical_receiving_declarations": "ATTRIBUTED_ONLY_NOT_UPGRADED"
+          },
+          "minato_V3_line_joins": [
+            95,
+            99,
+            101
+          ],
+          "full_source_specific_question": "What prevents an allegation or sincere role norm from becoming verified truth or operational infallibility in Minato’s captaincy question?",
+          "actual_connected_meaning": "Maki fears her own record, recruits differently motivated peers, proposes false Yuuka data and accidentally publishes records while intentionally retaining/falsifying. Yuuka refuses self-serving official alteration yet gives a weak password. Chihiro corrects ethics; rumors persist after a reported correction.",
+          "counterevidence_and_rival_limits": "Technical access does not authorize data use; ethical intention does not repair security. The false100kg is not Yuuka’s body fact, and a correction is not complete deletion/recovery. Knowledge is distributed and unshared.",
+          "finite_result": "POSITIVE_COMPARATIVE_EVIDENTIARY_STATUS_ROLE_NORM_AND_AFTERSTATE",
+          "claim_and_source_limit": "Minato’s self-name, represented command and claimant accusation stay separate grades. Care or a correction cannot supply authenticated appointment, universal knowledge or permanently repaired authority.",
+          "necessary_future_trigger": "Before claiming proven Minato fraud, authenticated office or durable reputational repair, receive the complete consequential appointment/claimant/afterstate evidence and preserve its actual audience.",
+          "own_actual_C_receiving": {
+            "grade": "SELECTED_CONNECTED_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_TAIL",
+            "line_ranges": [
+              [
+                42,
+                92
+              ],
+              [
+                122,
+                138
+              ],
+              [
+                188,
+                190
+              ]
+            ],
+            "tool_output_refs": [
+              "8baff6",
+              "cdc821"
+            ],
+            "primary_native_raw_AV_or_whole_source_consumption_claim": false
+          },
+          "Minato_core_basis": "Own completeV3 draft receiving59f064; its19 core-source actual reading remains ROOT-attributed, not transferred to this agent.",
+          "direct_Minato_attendance_or_global_absence": "NOT_CLAIMED; positive comparative purpose only at inspected scope",
+          "status": "COMPLETE_FINITE_PURPOSE_AT_DISCLOSED_GRADE_ROOT_ADOPTION_PENDING"
+        },
+        "ROOT_current_purposewise_disposition": "ADOPT_FINITE_POSITIVE_PURPOSE_WITH_LIMITS_AT_SUPPLIED_ANALYTICAL_ARGUMENT_REPORT_GRADE",
+        "ROOT_reason_and_finite_use": "Adopt the separation of technical access, false record, ethical intention, weak security and continuing rumor. Apply as an evidentiary-status comparison for captaincy; neither reported command nor the claimant accusation authenticates appointment or proves fraud. No continuous audience knowledge or permanently repaired reputation is claimed.",
+        "ROOT_actual_receiving_tool": "d4e3ca",
+        "ROOT_own_underlying_normal_fresh_read": "NOT_CLAIMED; source contributor actual receiving remains separately attributed",
+        "new_credits": 0
+      }
+    }
+  ]
+}

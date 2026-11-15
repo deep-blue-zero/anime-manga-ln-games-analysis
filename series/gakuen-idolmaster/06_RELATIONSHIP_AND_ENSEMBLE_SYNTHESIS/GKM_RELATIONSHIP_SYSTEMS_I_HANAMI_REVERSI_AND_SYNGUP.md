@@ -5,7 +5,7 @@ analytical_role: relationship_systems_synthesis
 scope: RELATIONSHIP_SYSTEMS_I_HANAMI_REVERSI_AND_SYNGUP
 generation: V2
 status: canonical
-source_boundary: 'GAKUMAS V2 Source Lock 1.0 through completed Phases 0-5: six governing character-core readings (Saki, Ume, Lilja, Sumika, Temari, Misuzu), four canonical numbered-event readings, eight canonical support-card readings covering 498/498 support scripts / 9,777/9,777 support messages, cumulative relationship/continuity/character/source-locator infrastructure, and already-integrated audiovisual findings. Kaya Rinha is treated only through distributed direct/mediated evidence available before her mandatory Phase-6 dedicated crosswalk/evidence/dossier branch.'
+source_boundary: 'GAKUMAS V2 Source Lock 1.0 through completed Phases 0-5: six governing character-core readings (Saki, Ume, Lilja, Sumika, Temari, Misuzu), four canonical numbered-event readings, eight canonical support-card readings covering 498/498 support scripts / 9,777/9,777 support messages, cumulative relationship/continuity/character/source-locator infrastructure, and already-integrated audiovisual findings. Kaya Rinha is treated only through distributed direct/mediated evidence available before her mandatory Phase-6 dedicated crosswalk/evidence/dossier branch. The 2026-11-07 correction (§3.5.1) additionally re-reads Unit Story 01 Episode 01 Part 03 and Episode 04 Parts 04–25 and Saki Dear 009/022 from the A1 raw scripts; these sources were already inside the Saki core''s Phase-3 scope, so no new source object is admitted.'
 source_lock: GAKUMAS V2 Source Lock 1.0
 source_commit: 00d150a069a3ffa723a1ff264752ba242024caad
 source_revision: 32
@@ -13,12 +13,16 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-24'
+revised: '2026-11-07'
+revision_note: 'Substantive correction (STRENGTHEN / EXTEND): adds §3.5.1 on the U1 counter-track (Saki''s imagined Ume versus the actual Ume), one §3.10 transition row and §3.11 rules 8-9; all other content unchanged'
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM RELATIONSHIP SYSTEMS I — HANAMI, REVERSI, AND SYNGUP
+
+> **Revision record — 2026-11-07 (substantive correction).** The Hanami section previously read the sister system almost entirely through the Dear Idol tracks and did not use the Unit Story 01 (`U1`) Episode 04 sequence in which Saki dreams that Ume abandons her and the actual Ume then answers that fear. §3.5.1 adds that bilateral evidence; §3.10 gains one transition row and §3.11 gains rules 8–9. The principal thesis and every other section are unchanged. Saki’s interiority is analyzed in `GKM_CORE_01_HANAMI_SAKI.md` v2.1 §3.6.1; this document records only the relational consequence.
 
 ## 0. Purpose, authority, and principal thesis
 
@@ -281,6 +285,31 @@ Love does not cancel grief.
 
 Grief does not falsify love.
 
+### 3.5.1 U1 counter-track — feared abandonment versus the actual Ume *(2026-11-07)*
+
+`U1` gives the Hanami system a test the Dear tracks cannot: it sets Saki’s imagined Ume beside the actual Ume inside one continuity. Begrazia beats Re;IRIS at the Selection, and both sisters experience the result as Ume’s first victory over Saki (`adv_unit_01-04_07.txt`). Months later Saki dreams that Ume, having beaten her again, finds competing with her boring, announces a dream with Begrazia, and says goodbye (`adv_unit_01-04_13.txt`). Dream-Ume is Saki’s representation (`GKM_CORE_01_HANAMI_SAKI.md` §3.6.1); her lines are never evidence of Ume’s beliefs.
+
+| element | Saki’s imagined Ume (`04_13`) | actual Ume | status |
+| --- | --- | --- | --- |
+| victory over Saki | `今日もあたしの勝ちぃ！` — repeated | one win, then one loss: `1勝1敗` (`04_21`) | the dream iterates a single event |
+| the next contest | `ううん……何度やっても同じだよ。` | `へへ～、どーんとかかってきなさいっ！` (`04_07`); `いいの……？　これからも、勝負とか……挑んでも。` (`04_21`) | **DIRECT contradiction** |
+| affect toward the contest | `つまんない` | losing to Saki is `いままでで、いちばん、くやしいや`; running toward `同じ夢` is more fun than chasing was—Saki supplies `楽しい、でしょ？` and Ume agrees (`04_21`) | **DIRECT contradiction** |
+| new dream | `Begraziaのみんなと……トップアイドルになる。` | beating Saki was her life goal and is fulfilled; she loves idolhood and Begrazia (`04_14`); `新しい夢のはじまり` (`04_19`); `お姉ちゃんを追って、じゃあない。` (`04_21`) | **DIRECT confirmation** |
+| Saki’s place in that future | absent | named among those who should watch the new dream begin (`04_19`); the dream is the same goal Saki holds, `世界一のアイドル` (`04_13`, `04_21`) | **DIRECT contradiction** |
+| ending | `だから……ばいばい。` | `次は！　負けないからね！` (`04_21`) | **DIRECT contradiction** |
+
+Five relational findings follow.
+
+1. **Loss of supremacy is not loss of significance** *(SYNTHESIZED)*. U1 separates three losses the nightmare fuses. Saki loses competitive supremacy at the Selection; that loss is real and later reversed. She loses *exclusive* significance—`あたしのライバルは、お姉ちゃんだけじゃなくなって` (`04_21`); that loss is real and is not reversed. She loses *relational* significance only in the dream. The relationship answers the realistic part of the fear by making exclusivity unnecessary, not by restoring it.
+2. **De-totalization without emotional evacuation, enacted against its own nightmare** *(SYNTHESIZED)*. The nightmare imagines de-totalization *with* emotional evacuation: Ume’s widened world empties the old relation. The actual Ume enacts this document’s principal thesis (§0.1). Her dream becomes self-authored and plural while the sister contest gains intensity. Independence makes the sisters’ purpose more shared than before: before the Selection Ume wanted only to beat Saki and had never thought past it (`04_06`); afterward both pursue the world’s-best-idol goal.
+3. **The abandonment structure runs both ways** *(DIRECT, with one INFERENCE)*. §3.2 reads Ume’s pursuit as containing a fear that Saki will disappear. U1 shows the mirror image. After Saki concedes that Ume’s body has surpassed hers, Ume asks whether she may still challenge her (`04_21`); *inference:* she treats the concession as something that might end the contest. In `D-SAKI`, Ume, having just won, begs `あたしを置いていかないで！！` (`adv_dear_hski_022.txt`), while Saki had earlier feared that a victorious Ume would `二度と振り向いてくれなくなる` (`adv_dear_hski_009.txt`). Each sister fears being the one left behind. The tracks stay separate; the reciprocal fear is the invariant.
+4. **Regard never depended on the invincible image** *(DIRECT)*. Before any result, Saki confesses that she hid her flaws `大好きな妹に、失望されたくなかったから`; Ume answers that she always knew and that her sister is the most wonderful in the world (`04_18`). The admiration premise of the older-sister performance (§3.1) is falsified by its own recipient.
+5. **U1 answers the decisive question in one exchange** *(DIRECT)*. §3.2 asks whether Ume can arrive without destroying Saki’s identity and whether Saki can remain when arrival happens. In `04_21` Saki remains (`ええ！　いつでも挑んできなさいっ！`), Ume agrees that the shared race is more fun, and Saki says she is glad to have chosen this contest. The Dear tracks reach the same structure more slowly, through Project Stardust (§3.5–§3.6). U1 also shows that the relational answer can precede the competitive outcome, because the confession in `04_18` comes before the result.
+
+**Continuity guard.** All U1 citations are `C1 @ U1`; the two Dear citations remain `D-SAKI`. Ume’s statements in `04_14` and `04_19` are made in Saki’s absence and must not be described as things Saki hears. `GKM_CORE_10_HANAMI_UME.md` is deliberately unchanged: its declared boundary is the Ume character bundle, and its §22.1 defers bilateral claims to this synthesis.
+
+**Claim status.** **STRENGTHEN** — stable shared field. **EXTEND** — the arrival problem includes Saki’s fear of losing the counterpart, not only the lead, and a reciprocal fear on Ume’s side.
+
 ## 3.6 The mature sister relation: arrival becomes repeatable
 
 The winter rematch and Ume-side Dear material support the same structural correction even when exact result states remain track-sensitive.
@@ -379,6 +408,12 @@ It is:
 
 That remains OPEN.
 
+### 3.9.1 Saki's rival trajectory in D-UME (HSCA-002 / HSCA-003)
+
+After losing the D-UME N.I.A. FINALE, Saki calls herself the challenger and trains with Sena and Rinha (`LOC-HSCA-002A`). At the summer H.I.F., the Headmaster names Sena. Ume calls herself the loser, and Saki calls their result a draw and later says she caught up. The dialogue gives the sisters' views without a formal Saki–Ume ranking (`LOC-HSCA-002B`). Rinha and Ume's Producer independently describe the danger of burnout as observers. Ume wants their rivalry to give Saki more fuel (`LOC-HSCA-002C`–`002D`). Saki's plan for a full sprint as a self-producing 100 Pro idol and her refusal of a Producer bring a new case to the witness hypothesis, with no established long-term result (`LOC-HSCA-002E`).
+
+Ume's separately reasoned first preference for 100 Pro converges with Saki's already-decided placement. Ume considered competing from outside Hatsuboshi and explains why she prefers 100 Pro. This supports differentiation inside the shared field. Ume has not yet committed, and her statements do not settle the full influence of their relationship on her choice (`LOC-HSCA-003A`–`003C`). Both sequences are C1 @ D-UME. Their outcomes remain separate from D-SAKI and U1.
+
 ## 3.10 Hanami synthesis claim transitions
 
 | earlier / simplified claim | transition | current V2 relationship formulation |
@@ -389,6 +424,7 @@ That remains OPEN.
 | Ume beating Saki completes the arc | **REJECT** | victory is a hinge that makes self-authored idolhood and renewable rivalry possible |
 | rivalry and affection conflict | **REJECT** | grief, jealousy, admiration, care, and competitive desire can coexist without one falsifying the others |
 | mature rivalry is fully horizontal | **OPEN / QUALIFY** | either may lead, but older-sister symbolism, body-history, and emotional primacy remain asymmetrical |
+| Saki fears Ume’s arrival because she would lose the lead *(2026-11-07)* | **EXTEND / STRENGTHEN** | Saki fears losing the counterpart: being found not worth competing against and left behind (U1 `04_13` nightmare; `D-SAKI` Dear 009). The actual Ume confirms the de-totalization and contradicts the abandonment in both tracks, and Ume voices the reciprocal fear of being left (§3.5.1) |
 
 ## 3.11 Hanami reconstruction rules
 
@@ -401,6 +437,8 @@ For novel-situation modeling:
 5. Ume usually converts attachment into presence, physical action, invitation, morale, or direct challenge.
 6. Their rivalry becomes unhealthy when **distance itself** must be preserved rather than the contest enjoyed.
 7. Their mature bond allows other people to matter without downgrading the sister relation.
+8. *(2026-11-07)* Never cite dream-Ume (`adv_unit_01-04_13.txt`) as Ume’s belief, intention or evaluation of Saki in any track. Use it only as evidence of Saki’s fear.
+9. *(2026-11-07)* When modelling Saki facing a stronger Ume, treat the operative threat as loss of the counterpart and of the frustration that keeps the contest meaningful, not only loss of rank. Ume’s widening world does not by itself reduce her investment in the sister contest.
 
 ---
 
@@ -446,6 +484,8 @@ It is:
 > **Sumika turns Lilja's faith into an obligation to remain the strong person Lilja believes in.**
 
 This distinction is critical for simulation. Sumika can become defensive even when Lilja has not actually imposed the judgment Sumika fears.
+
+**Historical correction — HSCA-005, 2026-11-12.** In `adv_dear_ssmk_014.txt` (C1 @ D-SUMIKA, A1 406–458), Lilja expressly rejects trusting the promise itself. Sumika's accusation about the old prodigy comes afterward. Lilja hesitates, starts to defend a stronger Sumika and interrupts herself. The later apology acknowledges Lilja's part in the pressure (540–586). Lilja's work clearing Sumika's name supports attachment to the person in front of her (619–699). The episode leaves the precise weight of prodigy expectation unresolved. See `SUMIKA-C07` and `LOC-HSCA-005A`.
 
 ## 4.3 The concealment crisis — protection becomes disconnection
 
@@ -651,7 +691,7 @@ The danger is that circulation becomes obligation: if one member is always expec
 | earlier / simplified claim | transition | current V2 relationship formulation |
 | --- | --- | --- |
 | Sumika is Lilja's protector and Lilja follows | **REVISE** | founding asymmetry is real, but mature care is reversible and Lilja can lead/support Sumika |
-| Lilja believes only in the old prodigy | **REJECT as objective truth** | this is Sumika's fear; Lilja directly rejects concealment and increasingly responds to present Sumika |
+| Lilja believes only in the old prodigy | **REVISE / OPEN** | Sumika feels the pressure; Lilja rejects the promise framing, hesitates over the prodigy charge, acknowledges a part in the pressure, and acts for present-day Sumika (§4.2) |
 | REVERSI are inseparable halves | **REVISE** | fusion language is developmentally meaningful but not the mature endpoint |
 | shared dream proves relationship health | **REVISE** | health requires room for selfish desire, rivalry, and later separate dreams |
 | jealousy means possessiveness | **DOWNGRADE / QUALIFY** | jealousy is real, but repeated behavior is non-enclosing and socially expansive |
@@ -883,6 +923,12 @@ It is:
 > **old relationship → unsustainable role structure → rupture → continuing witnesshood → bounded indirect care → explicit conflict → reconciliation → new access under revised terms.**
 
 This is a stronger model of repair because it does not require the past to have been secretly fine.
+
+### 5.9.1 Begrazia as a U1 counter-track (HSCA-001)
+
+Misuzu asks Temari to join Begrazia and offers 「今度こそ、一緒に……」. Temari refuses and says immediate reunion would take away Misuzu's reason to exert herself. Misuzu describes her reasons for running as complicated, while Temari wants to meet her as a serious competitor. Misuzu also denies that she or Rinha resent Temari. The denial about Rinha is Misuzu's report (`LOC-HSCA-001A`). Kotone separately points out that joining a unit can worsen a relationship. When Kotone disclaims friendship, Misuzu defends Temari and revises her view of Kotone (`LOC-HSCA-001B`).
+
+During the result announcement, Misuzu privately calls her effort 「最初で最後の全力疾走」 and recognizes it as access to Temari's world. After losing, Misuzu cries with Temari, says she feels tricked, and commits to winning next time at a walk. The sequence supports a protective function of owned pace after defeat. Temari recognizes the familiar Misuzu in the return to walking, and Misuzu still challenges her. That leaves room for teasing self-reassertion. The exact delivery remains an AV question (`LOC-HSCA-001C`–`001D`). C1 @ U1. These developments corroborate non-restorative repair through competition while preserving the distinct Dear-track outcomes.
 
 ## 5.10 New memories matter more than reenactment
 
@@ -1544,3 +1590,10 @@ Phase 6 also still requires:
 - `GKM_KAYA_RINHA_CHARACTER_DOSSIER.md`.
 
 No definitive Phase-7 character monograph should be promoted until Phase 6 is substantially complete, in accordance with architecture v2.4.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+- **Hanami and Lilja.** E030 gives Saki's explicit temporary truce with Ume and Lilja's performance-specific mediation. Ume's accepted performance uses a remembered appeal to Saki. The sisters still prefer to compete when possible. See [E030](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md#e030--lilja-leads-by-matching-different-performers-to-the-same-brief).
+- **REVERSI.** In M-SUMIKA 018 part 02, Sumika tells Temari the agreement is a pause while each follows a separate ambition. Temari respects it and voices her own challenge. In part 03 Sumika accepts her mother's support and wants to bring Lilja to Hokkaido. Keep the father's knowledge gap in scope. See [Sumika 018](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/GKM_COMMU_REVISION_86_DEEP_READING.md#sumika-018--using-the-title-pausing-reversi-and-renewed-family-contact).
+- **SyngUp alumni.** Misuzu confirms Rinha's account of restored contact through one another's performances. Rinha pushes back against Temari's extension to their own history. E027 separately shows Temari and Misuzu sharing work and memories while Temari stays outside the student council. The scenes distinguish ongoing personal contact, mentorship and mutually acknowledged repair. See [Misuzu 018](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/GKM_COMMU_REVISION_86_DEEP_READING.md#misuzu-018--relational-repair-and-rehearsal) and [E027](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md#e027--a-commercial-collaboration-across-a-membership-boundary).

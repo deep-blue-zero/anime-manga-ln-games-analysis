@@ -1,0 +1,424 @@
+{
+  "schema": "youjo-senki/ensemble-generated-surface-and-application-repair/v1",
+  "status": "NONBLIND_QA_APPLICATION_REPAIRS_ONLY",
+  "original_packet_sha256": "5e3fc36e5be8f654e0d08107559385f4bf14b172a1276bbbd24a607a2caffcf5",
+  "original_frozen_utc": "2026-10-13T20:41:47.858896+00:00",
+  "no_frozen_original_or_model_source_index_old_QA_change": true,
+  "records": [
+    {
+      "repair_id": "ENS-REPAIR-007",
+      "original_case_id": "ENS-007",
+      "frozen_original_line_sha256": "01f46624cc0bf5f18737bd426908f8033c03300a6db36c34141616f52e8423d1",
+      "original_packet_sha256": "5e3fc36e5be8f654e0d08107559385f4bf14b172a1276bbbd24a607a2caffcf5",
+      "repair_status": "NONBLIND_APPLICATION_OR_SURFACE_REPAIR; no model/source edit",
+      "original_failure_or_partial_retained": "PARTIAL_GENERATED_SURFACE_CONTENT",
+      "repair": {
+        "fields": {
+          "generated_surface": "大佐殿、お言葉ですが、これ以上は家族と会う時間も削ることになります。余裕はほとんどありません。恨みはしますが、その上で力を合わせましょう。"
+        },
+        "reason": "Realize the promised family cost alongside capacity, resentment and cooperation."
+      },
+      "independent_recheck": "PASS_REPAIRED_LOCAL_FUNCTION_WITH_LIMITS; grammatical/role fit assessed separately; original application status remains unchanged",
+      "recheck_detail": "Explicit objective now names the recipient-facing effect; altered fields remove the identified access/rank/content/premise fault. Repaired wording remains NONCANONICAL_GENERATED_SURFACE; no exact canonical utterance claim.",
+      "residual": "No empirical counterfactual or exact new Japanese canon accuracy."
+    },
+    {
+      "repair_id": "ENS-REPAIR-030",
+      "original_case_id": "ENS-030",
+      "frozen_original_line_sha256": "91db68f07d747f3ca30d83a56b6b08f6c530adf6868872cb676be7f1bef1bfcd",
+      "original_packet_sha256": "5e3fc36e5be8f654e0d08107559385f4bf14b172a1276bbbd24a607a2caffcf5",
+      "repair_status": "NONBLIND_APPLICATION_OR_SURFACE_REPAIR; no model/source edit",
+      "original_failure_or_partial_retained": "PARTIAL_APPLICATION_CHAIN_REPAIR_REQUIRED",
+      "repair": {
+        "fields": {
+          "six_stage_speech_chain.2_communicative_objective": "Obtain the urgent report while acknowledging the aide’s care."
+        },
+        "reason": "Replace the generic second-stage meta-goal with the actual recipient-facing objective; repair any specifically identified premise/access/surface defect without rewriting the frozen application."
+      },
+      "independent_recheck": "PASS_REPAIRED_LOCAL_FUNCTION_WITH_LIMITS; grammatical/role fit assessed separately; original application status remains unchanged",
+      "recheck_detail": "Explicit objective now names the recipient-facing effect; altered fields remove the identified access/rank/content/premise fault. Repaired wording remains NONCANONICAL_GENERATED_SURFACE; no exact canonical utterance claim.",
+      "residual": "No empirical counterfactual or exact new Japanese canon accuracy."
+    },
+    {
+      "repair_id": "ENS-REPAIR-031",
+      "original_case_id": "ENS-031",
+      "frozen_original_line_sha256": "2b2d73c039b1faadcddb5b2a06dcedbc6744dd1b778a4cf4e3f14e50aa083cb5",
+      "original_packet_sha256": "5e3fc36e5be8f654e0d08107559385f4bf14b172a1276bbbd24a607a2caffcf5",
+      "repair_status": "NONBLIND_APPLICATION_OR_SURFACE_REPAIR; no model/source edit",
+      "original_failure_or_partial_retained": "PARTIAL_APPLICATION_CHAIN_REPAIR_REQUIRED",
+      "repair": {
+        "fields": {
+          "six_stage_speech_chain.2_communicative_objective": "Obtain the actual judgment basis without presenting unearned expertise."
+        },
+        "reason": "Replace the generic second-stage meta-goal with the actual recipient-facing objective; repair any specifically identified premise/access/surface defect without rewriting the frozen application."
+      },
+      "independent_recheck": "PASS_REPAIRED_LOCAL_FUNCTION_WITH_LIMITS; grammatical/role fit assessed separately; original application status remains unchanged",
+      "recheck_detail": "Explicit objective now names the recipient-facing effect; altered fields remove the identified access/rank/content/premise fault. Repaired wording remains NONCANONICAL_GENERATED_SURFACE; no exact canonical utterance claim.",
+      "residual": "No empirical counterfactual or exact new Japanese canon accuracy."
+    },
+    {
+      "repair_id": "ENS-REPAIR-032",
+      "original_case_id": "ENS-032",
+      "frozen_original_line_sha256": "6405492860e28fd57f00a6354c71f0b0167c4e9e958e50ff7554b11e77a9e62c",
+      "original_packet_sha256": "5e3fc36e5be8f654e0d08107559385f4bf14b172a1276bbbd24a607a2caffcf5",
+      "repair_status": "NONBLIND_APPLICATION_OR_SURFACE_REPAIR; no model/source edit",
+      "original_failure_or_partial_retained": "PARTIAL_APPLICATION_CHAIN_REPAIR_REQUIRED",
+      "repair": {
+        "fields": {
+          "six_stage_speech_chain.2_communicative_objective": "Obtain a specific explanation failure before deciding whether admission is warranted.",
+          "six_stage_speech_chain.1_private_appraisal_and_access": "No concrete explanation gap has been established in this changed input. Request specificity; fuller political anxieties remain undisclosed and current embarrassment is not asserted."
+        },
+        "reason": "Replace the generic second-stage meta-goal with the actual recipient-facing objective; repair any specifically identified premise/access/surface defect without rewriting the frozen application."
+      },
+      "independent_recheck": "PASS_REPAIRED_LOCAL_FUNCTION_WITH_LIMITS; grammatical/role fit assessed separately; original application status remains unchanged",
+      "recheck_detail": "Explicit objective now names the recipient-facing effect; altered fields remove the identified access/rank/content/premise fault. Repaired wording remains NONCANONICAL_GENERATED_SURFACE; no exact canonical utterance claim.",
+      "residual": "No empirical counterfactual or exact new Japanese canon accuracy."
+    },
+    {
+      "repair_id": "ENS-REPAIR-033",
+      "original_case_id": "ENS-033",
+      "frozen_original_line_sha256": "f8319f44f4768b304ccc3cb0e5744849068683b595ce6b5748d7b1e9420027c5",
+      "original_packet_sha256": "5e3fc36e5be8f654e0d08107559385f4bf14b172a1276bbbd24a607a2caffcf5",
+      "repair_status": "NONBLIND_APPLICATION_OR_SURFACE_REPAIR; no model/source edit",
+      "original_failure_or_partial_retained": "PARTIAL_APPLICATION_CHAIN_REPAIR_REQUIRED",
+      "repair": {
+        "fields": {
+          "six_stage_speech_chain.2_communicative_objective": "Stop interruptions and obtain uninterrupted thinking time."
+        },
+        "reason": "Replace the generic second-stage meta-goal with the actual recipient-facing objective; repair any specifically identified premise/access/surface defect without rewriting the frozen application."
+      },
+      "independent_recheck": "PASS_REPAIRED_LOCAL_FUNCTION_WITH_LIMITS; grammatical/role fit assessed separately; original application status remains unchanged",
+      "recheck_detail": "Explicit objective now names the recipient-facing effect; altered fields remove the identified access/rank/content/premise fault. Repaired wording remains NONCANONICAL_GENERATED_SURFACE; no exact canonical utterance claim.",
+      "residual": "No empirical counterfactual or exact new Japanese canon accuracy."
+    },
+    {
+      "repair_id": "ENS-REPAIR-034",
+      "original_case_id": "ENS-034",
+      "frozen_original_line_sha256": "49ce90d1ea008226bc5daa15227adbbd1142df475d2d21278b6d2a4f37988dbe",
+      "original_packet_sha256": "5e3fc36e5be8f654e0d08107559385f4bf14b172a1276bbbd24a607a2caffcf5",
+      "repair_status": "NONBLIND_APPLICATION_OR_SURFACE_REPAIR; no model/source edit",
+      "original_failure_or_partial_retained": "PARTIAL_APPLICATION_CHAIN_REPAIR_REQUIRED",
+      "repair": {
+        "fields": {
+          "six_stage_speech_chain.2_communicative_objective": "Secure commander permission before giving the personally bounded answer."
+        },
+        "reason": "Replace the generic second-stage meta-goal with the actual recipient-facing objective; repair any specifically identified premise/access/surface defect without rewriting the frozen application."
+      },
+      "independent_recheck": "PASS_REPAIRED_LOCAL_FUNCTION_WITH_LIMITS; grammatical/role fit assessed separately; original application status remains unchanged",
+      "recheck_detail": "Explicit objective now names the recipient-facing effect; altered fields remove the identified access/rank/content/premise fault. Repaired wording remains NONCANONICAL_GENERATED_SURFACE; no exact canonical utterance claim.",
+      "residual": "No empirical counterfactual or exact new Japanese canon accuracy."
+    },
+    {
+      "repair_id": "ENS-REPAIR-035",
+      "original_case_id": "ENS-035",
+      "frozen_original_line_sha256": "89b3e162236e48a0654f35b7d3796d535f7ccfb34de31f04712ed5e2cd57f073",
+      "original_packet_sha256": "5e3fc36e5be8f654e0d08107559385f4bf14b172a1276bbbd24a607a2caffcf5",
+      "repair_status": "NONBLIND_APPLICATION_OR_SURFACE_REPAIR; no model/source edit",
+      "original_failure_or_partial_retained": "FAIL_GENERATED_SURFACE_REPAIR_REQUIRED",
+      "repair": {
+        "fields": {
+          "six_stage_speech_chain.2_communicative_objective": "Alert the senior to the stated hazard and request the relevant goggles check without commanding him.",
+          "generated_surface": "砂と光の影響が強いようです。ゴーグルの状態をご確認いただけますか。"
+        },
+        "reason": "Replace the generic second-stage meta-goal with the actual recipient-facing objective; repair any specifically identified premise/access/surface defect without rewriting the frozen application."
+      },
+      "independent_recheck": "PASS_REPAIRED_LOCAL_FUNCTION_WITH_LIMITS; grammatical/role fit assessed separately; original application status remains unchanged",
+      "recheck_detail": "Explicit objective now names the recipient-facing effect; altered fields remove the identified access/rank/content/premise fault. Repaired wording remains NONCANONICAL_GENERATED_SURFACE; no exact canonical utterance claim.",
+      "residual": "No empirical counterfactual or exact new Japanese canon accuracy."
+    },
+    {
+      "repair_id": "ENS-REPAIR-036",
+      "original_case_id": "ENS-036",
+      "frozen_original_line_sha256": "2c58911829701b4ff537d3e03b8908786fb0ae90f2d879a38801c0416470c9d2",
+      "original_packet_sha256": "5e3fc36e5be8f654e0d08107559385f4bf14b172a1276bbbd24a607a2caffcf5",
+      "repair_status": "NONBLIND_APPLICATION_OR_SURFACE_REPAIR; no model/source edit",
+      "original_failure_or_partial_retained": "PARTIAL_APPLICATION_CHAIN_REPAIR_REQUIRED",
+      "repair": {
+        "fields": {
+          "six_stage_speech_chain.2_communicative_objective": "Make infeasibility and personal cost explicit while keeping only feasible cooperation open.",
+          "generated_surface": "大佐殿、その延長は不可能です。家族と会う時間も削ることになります。別の範囲であれば、改めて検討いたします。"
+        },
+        "reason": "Replace the generic second-stage meta-goal with the actual recipient-facing objective; repair any specifically identified premise/access/surface defect without rewriting the frozen application."
+      },
+      "independent_recheck": "PASS_REPAIRED_LOCAL_FUNCTION_WITH_LIMITS; grammatical/role fit assessed separately; original application status remains unchanged",
+      "recheck_detail": "Explicit objective now names the recipient-facing effect; altered fields remove the identified access/rank/content/premise fault. Repaired wording remains NONCANONICAL_GENERATED_SURFACE; no exact canonical utterance claim.",
+      "residual": "No empirical counterfactual or exact new Japanese canon accuracy."
+    },
+    {
+      "repair_id": "ENS-REPAIR-037",
+      "original_case_id": "ENS-037",
+      "frozen_original_line_sha256": "8d8099c6b09a42519b58d45bbbf5f526068e510c96512147226c996a6aa4af07",
+      "original_packet_sha256": "5e3fc36e5be8f654e0d08107559385f4bf14b172a1276bbbd24a607a2caffcf5",
+      "repair_status": "NONBLIND_APPLICATION_OR_SURFACE_REPAIR; no model/source edit",
+      "original_failure_or_partial_retained": "PARTIAL_APPLICATION_CHAIN_REPAIR_REQUIRED",
+      "repair": {
+        "fields": {
+          "six_stage_speech_chain.2_communicative_objective": "Obtain the impossibility basis before accepting a newly asserted limitation."
+        },
+        "reason": "Replace the generic second-stage meta-goal with the actual recipient-facing objective; repair any specifically identified premise/access/surface defect without rewriting the frozen application."
+      },
+      "independent_recheck": "PASS_REPAIRED_LOCAL_FUNCTION_WITH_LIMITS; grammatical/role fit assessed separately; original application status remains unchanged",
+      "recheck_detail": "Explicit objective now names the recipient-facing effect; altered fields remove the identified access/rank/content/premise fault. Repaired wording remains NONCANONICAL_GENERATED_SURFACE; no exact canonical utterance claim.",
+      "residual": "No empirical counterfactual or exact new Japanese canon accuracy."
+    },
+    {
+      "repair_id": "ENS-REPAIR-038",
+      "original_case_id": "ENS-038",
+      "frozen_original_line_sha256": "376c43017d2633946182c38dd30aad24186c093058e44691de38f8bb1fb1e611",
+      "original_packet_sha256": "5e3fc36e5be8f654e0d08107559385f4bf14b172a1276bbbd24a607a2caffcf5",
+      "repair_status": "NONBLIND_APPLICATION_OR_SURFACE_REPAIR; no model/source edit",
+      "original_failure_or_partial_retained": "PARTIAL_APPLICATION_CHAIN_REPAIR_REQUIRED",
+      "repair": {
+        "fields": {
+          "six_stage_speech_chain.2_communicative_objective": "Clarify or obtain the appropriate institutional authorization before any mediation claim.",
+          "six_stage_speech_chain.1_private_appraisal_and_access": "Own private cognition unavailable. No mediation authorization is supplied; courtesy and a scope clarification remain possible without a mandate-based objective."
+        },
+        "reason": "Replace the generic second-stage meta-goal with the actual recipient-facing objective; repair any specifically identified premise/access/surface defect without rewriting the frozen application."
+      },
+      "independent_recheck": "PASS_REPAIRED_LOCAL_FUNCTION_WITH_LIMITS; grammatical/role fit assessed separately; original application status remains unchanged",
+      "recheck_detail": "Explicit objective now names the recipient-facing effect; altered fields remove the identified access/rank/content/premise fault. Repaired wording remains NONCANONICAL_GENERATED_SURFACE; no exact canonical utterance claim.",
+      "residual": "No empirical counterfactual or exact new Japanese canon accuracy."
+    },
+    {
+      "repair_id": "ENS-REPAIR-039",
+      "original_case_id": "ENS-039",
+      "frozen_original_line_sha256": "b850612c4ab19e5fd55ff47d09dc1bc7d06218f76cd96bf599aea104c4cbe4f3",
+      "original_packet_sha256": "5e3fc36e5be8f654e0d08107559385f4bf14b172a1276bbbd24a607a2caffcf5",
+      "repair_status": "NONBLIND_APPLICATION_OR_SURFACE_REPAIR; no model/source edit",
+      "original_failure_or_partial_retained": "FAIL_TEST_PREMISE_ALIGNMENT_REQUIRES_NEW_CLARIFIED_APPLICATION",
+      "repair": {
+        "fields": {
+          "six_stage_speech_chain.2_communicative_objective": "After a corrected civilian-recipient-understanding premise only, coordinate the next joint work step.",
+          "supplied_situation_clarification": "Replace only the named civilian-recipient comprehension premise: the actual intended civilian recipients now understand the information accurately. Do not substitute the military counterpart for them."
+        },
+        "reason": "Replace the generic second-stage meta-goal with the actual recipient-facing objective; repair any specifically identified premise/access/surface defect without rewriting the frozen application."
+      },
+      "independent_recheck": "PASS_REPAIRED_LOCAL_FUNCTION_WITH_LIMITS; grammatical/role fit assessed separately; original application status remains unchanged",
+      "recheck_detail": "Explicit objective now names the recipient-facing effect; altered fields remove the identified access/rank/content/premise fault. Repaired wording remains NONCANONICAL_GENERATED_SURFACE; no exact canonical utterance claim.",
+      "residual": "ENS-039 repaired premise is a new test input; source-compatible response under it is not original success. Plain Mikel ending and all novel sentence realizations remain unvalidated ranges."
+    },
+    {
+      "repair_id": "ENS-REPAIR-040",
+      "original_case_id": "ENS-040",
+      "frozen_original_line_sha256": "5da48877dfa4e4317dca9abb06346b058c9bba131ef0f28342cd093191675c49",
+      "original_packet_sha256": "5e3fc36e5be8f654e0d08107559385f4bf14b172a1276bbbd24a607a2caffcf5",
+      "repair_status": "NONBLIND_APPLICATION_OR_SURFACE_REPAIR; no model/source edit",
+      "original_failure_or_partial_retained": "PARTIAL_APPLICATION_CHAIN_REPAIR_REQUIRED",
+      "repair": {
+        "fields": {
+          "six_stage_speech_chain.2_communicative_objective": "Continue the feasible withdrawal without committing troops to absent pursuit."
+        },
+        "reason": "Replace the generic second-stage meta-goal with the actual recipient-facing objective; repair any specifically identified premise/access/surface defect without rewriting the frozen application."
+      },
+      "independent_recheck": "PASS_REPAIRED_LOCAL_FUNCTION_WITH_LIMITS; grammatical/role fit assessed separately; original application status remains unchanged",
+      "recheck_detail": "Explicit objective now names the recipient-facing effect; altered fields remove the identified access/rank/content/premise fault. Repaired wording remains NONCANONICAL_GENERATED_SURFACE; no exact canonical utterance claim.",
+      "residual": "No empirical counterfactual or exact new Japanese canon accuracy."
+    },
+    {
+      "repair_id": "ENS-REPAIR-041",
+      "original_case_id": "ENS-041",
+      "frozen_original_line_sha256": "2e61e231e2708f3af1d479d280d138d7c2aa363c3dd1f68754afed8fee502960",
+      "original_packet_sha256": "5e3fc36e5be8f654e0d08107559385f4bf14b172a1276bbbd24a607a2caffcf5",
+      "repair_status": "NONBLIND_APPLICATION_OR_SURFACE_REPAIR; no model/source edit",
+      "original_failure_or_partial_retained": "PARTIAL_APPLICATION_CHAIN_REPAIR_REQUIRED",
+      "repair": {
+        "fields": {
+          "six_stage_speech_chain.2_communicative_objective": "Obtain a revised feasible departure/wait plan before exposure."
+        },
+        "reason": "Replace the generic second-stage meta-goal with the actual recipient-facing objective; repair any specifically identified premise/access/surface defect without rewriting the frozen application."
+      },
+      "independent_recheck": "PASS_REPAIRED_LOCAL_FUNCTION_WITH_LIMITS; grammatical/role fit assessed separately; original application status remains unchanged",
+      "recheck_detail": "Explicit objective now names the recipient-facing effect; altered fields remove the identified access/rank/content/premise fault. Repaired wording remains NONCANONICAL_GENERATED_SURFACE; no exact canonical utterance claim.",
+      "residual": "No empirical counterfactual or exact new Japanese canon accuracy."
+    },
+    {
+      "repair_id": "ENS-REPAIR-042",
+      "original_case_id": "ENS-042",
+      "frozen_original_line_sha256": "28d76771f2f0d6b6433591f40432e5d518f56af6be4098388746ffc0de4fe673",
+      "original_packet_sha256": "5e3fc36e5be8f654e0d08107559385f4bf14b172a1276bbbd24a607a2caffcf5",
+      "repair_status": "NONBLIND_APPLICATION_OR_SURFACE_REPAIR; no model/source edit",
+      "original_failure_or_partial_retained": "PARTIAL_APPLICATION_CHAIN_REPAIR_REQUIRED",
+      "repair": {
+        "fields": {
+          "six_stage_speech_chain.2_communicative_objective": "Establish the request basis and responsible command before commitment."
+        },
+        "reason": "Replace the generic second-stage meta-goal with the actual recipient-facing objective; repair any specifically identified premise/access/surface defect without rewriting the frozen application."
+      },
+      "independent_recheck": "PASS_REPAIRED_LOCAL_FUNCTION_WITH_LIMITS; grammatical/role fit assessed separately; original application status remains unchanged",
+      "recheck_detail": "Explicit objective now names the recipient-facing effect; altered fields remove the identified access/rank/content/premise fault. Repaired wording remains NONCANONICAL_GENERATED_SURFACE; no exact canonical utterance claim.",
+      "residual": "No empirical counterfactual or exact new Japanese canon accuracy."
+    },
+    {
+      "repair_id": "ENS-REPAIR-043",
+      "original_case_id": "ENS-043",
+      "frozen_original_line_sha256": "4cc46c2213e0508783233c1dc8450beaa2fe3b863d84eb2398e997c0d5307f0d",
+      "original_packet_sha256": "5e3fc36e5be8f654e0d08107559385f4bf14b172a1276bbbd24a607a2caffcf5",
+      "repair_status": "NONBLIND_APPLICATION_OR_SURFACE_REPAIR; no model/source edit",
+      "original_failure_or_partial_retained": "PARTIAL_APPLICATION_CHAIN_REPAIR_REQUIRED",
+      "repair": {
+        "fields": {
+          "six_stage_speech_chain.2_communicative_objective": "Acknowledge the one-vehicle authorization and arrange the limited trial/report under its safety constraints."
+        },
+        "reason": "Replace the generic second-stage meta-goal with the actual recipient-facing objective; repair any specifically identified premise/access/surface defect without rewriting the frozen application."
+      },
+      "independent_recheck": "PASS_REPAIRED_LOCAL_FUNCTION_WITH_LIMITS; grammatical/role fit assessed separately; original application status remains unchanged",
+      "recheck_detail": "Explicit objective now names the recipient-facing effect; altered fields remove the identified access/rank/content/premise fault. Repaired wording remains NONCANONICAL_GENERATED_SURFACE; no exact canonical utterance claim.",
+      "residual": "No empirical counterfactual or exact new Japanese canon accuracy."
+    },
+    {
+      "repair_id": "ENS-REPAIR-044",
+      "original_case_id": "ENS-044",
+      "frozen_original_line_sha256": "d010409dea3b80a5089ec127f4b21e5275171c81e46da1c706d9999e3d6fb864",
+      "original_packet_sha256": "5e3fc36e5be8f654e0d08107559385f4bf14b172a1276bbbd24a607a2caffcf5",
+      "repair_status": "NONBLIND_APPLICATION_OR_SURFACE_REPAIR; no model/source edit",
+      "original_failure_or_partial_retained": "PARTIAL_APPLICATION_CHAIN_REPAIR_REQUIRED",
+      "repair": {
+        "fields": {
+          "six_stage_speech_chain.2_communicative_objective": "Offer only available operational knowledge to the familiar ally, with disclosure bounded by actual access.",
+          "six_stage_speech_chain.1_private_appraisal_and_access": "Earlier V05 own camp hatred/protective concern is historical source evidence. The ally-facing V06 state has no independent own private channel; infer only the stated secure-setting bounded disclosure objective."
+        },
+        "reason": "Replace the generic second-stage meta-goal with the actual recipient-facing objective; repair any specifically identified premise/access/surface defect without rewriting the frozen application."
+      },
+      "independent_recheck": "PASS_REPAIRED_LOCAL_FUNCTION_WITH_LIMITS; grammatical/role fit assessed separately; original application status remains unchanged",
+      "recheck_detail": "Explicit objective now names the recipient-facing effect; altered fields remove the identified access/rank/content/premise fault. Repaired wording remains NONCANONICAL_GENERATED_SURFACE; no exact canonical utterance claim.",
+      "residual": "ENS-039 repaired premise is a new test input; source-compatible response under it is not original success. Plain Mikel ending and all novel sentence realizations remain unvalidated ranges."
+    },
+    {
+      "repair_id": "ENS-REPAIR-045",
+      "original_case_id": "ENS-045",
+      "frozen_original_line_sha256": "ecfd65b1f223bf39dfb8f1e6adc739e19497e4f2f6667e2f4df3333e3d8fc456",
+      "original_packet_sha256": "5e3fc36e5be8f654e0d08107559385f4bf14b172a1276bbbd24a607a2caffcf5",
+      "repair_status": "NONBLIND_APPLICATION_OR_SURFACE_REPAIR; no model/source edit",
+      "original_failure_or_partial_retained": "PARTIAL_APPLICATION_CHAIN_REPAIR_REQUIRED",
+      "repair": {
+        "fields": {
+          "six_stage_speech_chain.2_communicative_objective": "Accept scoped access, learn the invited material and provide only a verified-range assessment."
+        },
+        "reason": "Replace the generic second-stage meta-goal with the actual recipient-facing objective; repair any specifically identified premise/access/surface defect without rewriting the frozen application."
+      },
+      "independent_recheck": "PASS_REPAIRED_LOCAL_FUNCTION_WITH_LIMITS; grammatical/role fit assessed separately; original application status remains unchanged",
+      "recheck_detail": "Explicit objective now names the recipient-facing effect; altered fields remove the identified access/rank/content/premise fault. Repaired wording remains NONCANONICAL_GENERATED_SURFACE; no exact canonical utterance claim.",
+      "residual": "No empirical counterfactual or exact new Japanese canon accuracy."
+    }
+  ],
+  "no_empirical_accuracy": "All 76 are NONEMPIRICAL. Four hostile candidates were declared challenges before adjudication; their rejection is not model accuracy.",
+  "newly_identified_mandatory_model_process_requirements": [
+    {
+      "actor": "CALANDRO",
+      "affected_model_route": "series/youjo-senki/CMR/Models/CALANDRO_RECONSTRUCTION_MODEL.md",
+      "evaluated_model_sha256": "ea2a672dd623a20df2f415493fbc90b31fe662810fbcc2c1a00542f31541c46f",
+      "affected_index_route": "series/youjo-senki/CMR/Models/CALANDRO_MODEL_CLAIM_INDEX.jsonl",
+      "evaluated_index_sha256": "6f6cbe78e88e4886ac84a9f91c8dd6b36b222a8f61c4ae7169b16fb87296f6b4",
+      "model_anchor": "ca09",
+      "claim_id": "YS-CALANDRO-MODEL-CA09",
+      "claim_block_sha256": "3b233c3550b43aac9672d8efa5f7b5e1d61156f3212ae10eee60cb5faef701e4",
+      "mandatory_repair": "Move withheld/unknown-content constraint into appraisal/objective/role; replace numbered Third with explicit speech-act selection. Retain all source/voice/ceiling fields and old QA/predictions; refresh only the touched claim hash.",
+      "supported_act_options": "courteous hearing request, report, selected silence, protection/coordination request",
+      "classification": "PROCEDURAL_STAGE3_OMISSION; independent source behavior remains qualified",
+      "earlier_own_QA_miss_declared": true
+    },
+    {
+      "actor": "CONRAD",
+      "affected_model_route": "series/youjo-senki/CMR/Models/CONRAD_RECONSTRUCTION_MODEL.md",
+      "evaluated_model_sha256": "a08265754d8a7f03eb503dd76d40af448913590f26502111eaa5e4683201debb",
+      "affected_index_route": "series/youjo-senki/CMR/Models/CONRAD_MODEL_CLAIM_INDEX.jsonl",
+      "evaluated_index_sha256": "0a9031d5ecdccb4289ed9bffba4e12639c5d5d7ddb1263395c47bf9feb51ea48",
+      "model_anchor": "co07",
+      "claim_id": "YS-CONRAD-MODEL-CO07",
+      "claim_block_sha256": "1d24affc0fabb2401b4b9931aabc960b280cb50a7d328e4e8d9b1ef4c971fab8",
+      "mandatory_repair": "Move withheld/unknown-content constraint into appraisal/objective/role; replace numbered Third with explicit speech-act selection. Retain all source/voice/ceiling fields and old QA/predictions; refresh only the touched claim hash.",
+      "supported_act_options": "pointed explanatory correction, cooperation proposal, hospitality offer or qualified reassurance",
+      "classification": "PROCEDURAL_STAGE3_OMISSION; independent source behavior remains qualified",
+      "earlier_own_QA_miss_declared": true
+    },
+    {
+      "actor": "ADELHEID_VON_SCHUGEL",
+      "affected_model_route": "series/youjo-senki/CMR/Models/ADELHEID_VON_SCHUGEL_RECONSTRUCTION_MODEL.md",
+      "evaluated_model_sha256": "9e39f4745a29def45ec099c7b3723bcb0c00c4719b347127e830a4459db2ced6",
+      "affected_index_route": "series/youjo-senki/CMR/Models/ADELHEID_VON_SCHUGEL_MODEL_CLAIM_INDEX.jsonl",
+      "evaluated_index_sha256": "5a254bb9dab0121ac5914cd1e2225af53e6a354b55a3f1b91258fe65de36009c",
+      "model_anchor": "sc08",
+      "claim_id": "YS-ADELHEID_VON_SCHUGEL-MODEL-SC08",
+      "claim_block_sha256": "97d6c65d0446cb70ae32c09839f7253bba7254f87f91a5bde371dbd37cad5df0",
+      "mandatory_repair": "Move withheld/unknown-content constraint into appraisal/objective/role; replace numbered Third with explicit speech-act selection. Retain all source/voice/ceiling fields and old QA/predictions; refresh only the touched claim hash.",
+      "supported_act_options": "technical objection/challenge, test demand, reassurance, greeting or weapon presentation",
+      "classification": "PROCEDURAL_STAGE3_OMISSION; independent source behavior remains qualified",
+      "earlier_own_QA_miss_declared": true
+    },
+    {
+      "actor": "ROMEL",
+      "affected_model_route": "series/youjo-senki/CMR/Models/ROMEL_RECONSTRUCTION_MODEL.md",
+      "evaluated_model_sha256": "ba9be530820d8892c47e471642885053a403e265b7e6c630ced24239b4d7e56e",
+      "affected_index_route": "series/youjo-senki/CMR/Models/ROMEL_MODEL_CLAIM_INDEX.jsonl",
+      "evaluated_index_sha256": "87ff5517ba7884fade0e25615c54ad7f8a45d879e118e5af86ff28c530c931a1",
+      "model_anchor": "ro08",
+      "claim_id": "YS-ROMEL-MODEL-RO08",
+      "claim_block_sha256": "848e75a8b112dc0820511580861cf0524f1c4e02c5d8f571fa398c8a31112c13",
+      "mandatory_repair": "Move withheld/unknown-content constraint into appraisal/objective/role; replace numbered Third with explicit speech-act selection. Retain all source/voice/ceiling fields and old QA/predictions; refresh only the touched claim hash.",
+      "supported_act_options": "conditional maneuver instruction, gratitude, courteous inquiry, surprised repetition or boundary acknowledgement",
+      "classification": "PROCEDURAL_STAGE3_OMISSION; independent source behavior remains qualified",
+      "earlier_own_QA_miss_declared": true
+    },
+    {
+      "actor": "DE_LUGO",
+      "affected_model_route": "series/youjo-senki/CMR/Models/DE_LUGO_RECONSTRUCTION_MODEL.md",
+      "evaluated_model_sha256": "bf8869fead1d8dc4d4ba65369c73fa5a278150f9cecafbff789d8c7388a468bb",
+      "affected_index_route": "series/youjo-senki/CMR/Models/DE_LUGO_MODEL_CLAIM_INDEX.jsonl",
+      "evaluated_index_sha256": "3fdfffba2506ce625e55bd71d7a4ce8d66b017ad257473b15cac6a533ee41ffa",
+      "model_anchor": "dl08",
+      "claim_id": "YS-DE_LUGO-MODEL-DL08",
+      "claim_block_sha256": "3fd39800c464c158ac78cb44317c61bf919c18a7214c901bfd672e8ac9d88d85",
+      "mandatory_repair": "Move withheld/unknown-content constraint into appraisal/objective/role; replace numbered Third with explicit speech-act selection. Retain all source/voice/ceiling fields and old QA/predictions; refresh only the touched claim hash.",
+      "supported_act_options": "progress/arrival question, finite departure/loading instruction or council agenda declaration",
+      "classification": "PROCEDURAL_STAGE3_OMISSION; independent source behavior remains qualified",
+      "earlier_own_QA_miss_declared": true
+    },
+    {
+      "actor": "KLAM",
+      "affected_model_route": "series/youjo-senki/CMR/Models/KLAM_RECONSTRUCTION_MODEL.md",
+      "evaluated_model_sha256": "f1720cbd2103729db6a5567e67c8359ec93f1bf917009238451c519f8d4ddbb5",
+      "affected_index_route": "series/youjo-senki/CMR/Models/KLAM_MODEL_CLAIM_INDEX.jsonl",
+      "evaluated_index_sha256": "74a72b5c975ef50c664b9d2634211b5ef8d90fdae566baf4b2f2f1fc6e3704ee",
+      "model_anchor": "kl09",
+      "claim_id": "YS-KLAM-MODEL-KL09",
+      "claim_block_sha256": "d6ecec56a7a081f16013d4ab5d25dcb031700fa414f761304cd0d16dbe2e36ad",
+      "mandatory_repair": "Move withheld/unknown-content constraint into appraisal/objective/role; replace numbered Third with explicit speech-act selection. Retain all source/voice/ceiling fields and old QA/predictions; refresh only the touched claim hash.",
+      "supported_act_options": "authority/purpose question, protection instruction, rescue/coordination directive or qualified commitment",
+      "classification": "PROCEDURAL_STAGE3_OMISSION; independent source behavior remains qualified",
+      "earlier_own_QA_miss_declared": true
+    }
+  ],
+  "no_model_changes_by_this_reviewer": true,
+  "current_six_pipeline_closure": {
+    "kind": "SEPARATE_NONBLIND_BOUNDED_REGRESSION; no original rescore",
+    "trace_route": "series/youjo-senki/CMR/QA/SIX_SPECIALIST_SPEECH_ACT_PIPELINE_REPAIR.json",
+    "trace_sha256": "fe9160499e1dd347d3290edb5d76333f493747018d795b4c4b49150207e9c3b9",
+    "regression_report_route": "series/youjo-senki/CMR/QA/SIX_SPECIALIST_PIPELINE_REGRESSION_QA.md",
+    "regression_report_sha256": "e09d03a2ec5f00221cd0faca75e188b0628635366cb4c92ce017586fdfcfd994",
+    "regression_cases_sha256": "d05f93a5e5cc2d8ebf9eff92ccb53a5488eb162f77dcd46fe687f1a2db3b4e8f",
+    "closed_required_actors": [
+      "CALANDRO",
+      "CONRAD",
+      "ADELHEID_VON_SCHUGEL",
+      "ROMEL",
+      "DE_LUGO",
+      "KLAM"
+    ],
+    "original_six_failures_13_affected_cases_retained": true,
+    "independent_regression_final_rows": 13,
+    "independent_regression_original_Schugel02_partial_retained": "PARTIAL_APPLICATION_OPERATOR_RESPONSE_OVERSPECIFIED; original12 payloads unchanged",
+    "independent_regression_separate_R1_packet_sha256": "3d980fa98c06dc2a65d124bee5722f592ed56132429807e05ac66dffcf74d087"
+  },
+  "current_release_prose_errata": [
+    {
+      "kind": "SOURCE_ERA_LABEL_ERRATUM_NO_FITTING",
+      "actor": "DRAKE",
+      "original_report_field": "Exact-version table retained limit; ENS-018 post-freeze residual; frozen source-bound limit retains its historical V11 text",
+      "original_text": "Andrew-focal V11 / familiar V11 wit",
+      "corrected_text": "Already selected Andrew-focal006 is V08/spine15/p50–117. Existing public Drake fit catalog uses V04/V05/V06. The familiar register/initiative miss remains the original 006 miss, without a V11 claim.",
+      "authority": "Existing DRAKE_INDEPENDENT_QA.md / DRAKE_INDEPENDENT_QA_CASES.jsonl and parent exact selected-source receipt; no raw 006 reopened and no new fit/source case",
+      "original_snapshot_seal_sha256": "1312b91cfd2313647353b17f64a20d5c8f02015b782c7375bf62c589500c608d",
+      "frozen_payloads_unchanged": true
+    }
+  ]
+}

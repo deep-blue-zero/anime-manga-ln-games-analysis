@@ -1,0 +1,1829 @@
+{
+  "schema": "tomozaki_portable_historical_analytical_records/v1",
+  "packet_id": "TOMOZAKI_ADDITIONAL_THREE_PUBLIC_EVIDENCE_20261103_V1",
+  "record_semantics": "Complete unchanged original JSON values/exact UTF8 texts. Pending/scratch/helper identities are historical provenance; active retrieval uses canonical portable pointers. No helper body/argv/raw primary/media.",
+  "records": [
+    {
+      "record_id": "producer.dependencies",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/ADDITIONAL_THREE_MODEL_DEPENDENCIES.json",
+        "bytes": 34394,
+        "sha256": "fa52928b7b1a8f6afcf9c4f66fed7a3d6e40699c0c2a8a65a6faf6b6decbc097"
+      },
+      "representation": "complete_original_JSON_semantic_value",
+      "semantic_value_sha256": "519299088e97cbb1bf9faaa0388110267c531cdd7d16b066d13f7988e3887e1d",
+      "value": {
+        "schema": "tomozaki_additional_three_dependency_packet/v1",
+        "packet_id": "TOMOZAKI_ADDITIONAL_THREE_DEPENDENCIES_20261103_V1",
+        "status": "draft_noncurrent",
+        "release_state": "draft_noncurrent",
+        "repository_authority": false,
+        "do_not_use_as_current_authority": true,
+        "do_not_use_as_primary_literary_authority": true,
+        "literary_basis_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "release_record_commit": "164a593d8ee6998cf735442d855135ababfee497",
+        "release_id": "TOMOZAKI_JP_LN_V12_EDITION_1_20261103",
+        "root_admission_sha256": "19e701f811f7cc78972df287116b767031bb1d20ea1de4dcf61297694d94539d",
+        "root_preregistration_freeze_sha256": "7cf850aa05cff95d4f8053c0d00fb75692116e321e04c21d34aea35e46ffa3cc",
+        "dependencies": [
+          {
+            "path": "governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 27744,
+            "sha256": "a96aba49f730b09b70ec4b60c93e2bc80efe8e85250b283ee79d04da87ad8852",
+            "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading."
+          },
+          {
+            "path": "governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 16539,
+            "sha256": "9c6cfe3c0af45e484fb7e8ff0296af51f948cf350118a27bed288cf619726db8",
+            "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading."
+          },
+          {
+            "path": "governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 20131,
+            "sha256": "66c966351aa08a9bfc233a1980a783cb43bf0c1150ea91886cea5c145c270c06",
+            "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading."
+          },
+          {
+            "path": "governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 25457,
+            "sha256": "8fa81358420e9a2db1f694dfd8c48e431d46dfdb6c9762a8dbe8d47a5d27c848",
+            "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading."
+          },
+          {
+            "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 17025,
+            "sha256": "a0b3792c861ea94298b78e903e24c38d9043104f6d3695aaccead464c30168e8",
+            "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading."
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 129891,
+            "sha256": "265b6ae9c61dad6896061ea29176277f0dc1276f2c51b4ea39285845c6c5c68b",
+            "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading."
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 145033,
+            "sha256": "f8d258a5c1ba3be2507db6892bb9f8634b0b96b1e1719945762b51fd3b56ee7d",
+            "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading."
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 52873,
+            "sha256": "cc8a6387342a8f715bdebb86a825ddf82ac68b7f007f56a72300288692e705f3",
+            "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading."
+          },
+          {
+            "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 72543,
+            "sha256": "897cb97ad9694c153a96246e353896e581a4e7b5c3824b774cde77992a2d87b8",
+            "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading."
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 198814,
+            "sha256": "938ff0eacd72ba557c3776dc689ddb2e75a775263a9bfdc4e0bb4c0832c10f59",
+            "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading."
+          },
+          {
+            "path": "governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 20236,
+            "sha256": "1566fcada5d71f27f3d75d9cb884f45fef1ec261c0e00926f8cc43da3b07f4c4",
+            "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading."
+          },
+          {
+            "path": "series/tomozaki/01 Source Lock and Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 11684,
+            "sha256": "04555d264c94792a98df1e280a54d323ce214c05e9851f142f4075294fc3bf22",
+            "acquisition_scope": "Exact identity/provenance binding only in this construction task. Material scene claims derive from personally read complete dossier and scoped owners, not a claimed fresh full read of this dependency."
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 160805,
+            "sha256": "6017c3eee7ab60cc3ba5e689c4a127b78191fb1b747c06f7f6cec36007160b4b",
+            "acquisition_scope": "Exact identity/provenance binding only in this construction task. Material scene claims derive from personally read complete dossier and scoped owners, not a claimed fresh full read of this dependency."
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 35306,
+            "sha256": "4616495b21e374547c58e63ade5ce99e1cfb6116ceb84621df92be99f94850e1",
+            "acquisition_scope": "Exact identity/provenance binding only in this construction task. Material scene claims derive from personally read complete dossier and scoped owners, not a claimed fresh full read of this dependency."
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 14151,
+            "sha256": "1c2628ede4a780de5de44cd0c057b7281a41d80310c518c1a0cfd2c4d3db4343",
+            "acquisition_scope": "Exact identity/provenance binding only in this construction task. Material scene claims derive from personally read complete dossier and scoped owners, not a claimed fresh full read of this dependency."
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 592652,
+            "sha256": "72083a0d45d607dde901787176c9446754ab58d4ac53a6313b37fb056439fe53",
+            "acquisition_scope": "Exact identity/provenance binding only in this construction task. Material scene claims derive from personally read complete dossier and scoped owners, not a claimed fresh full read of this dependency."
+          },
+          {
+            "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+            "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+            "bytes": 72802,
+            "sha256": "f5c6d752193d5659a900c108a3629d26e4d3a0cb09a3118bfa1286d1461df593",
+            "acquisition_scope": "Architecture16/17.2 and full fixed audit; decision/register complete unique frames read, repeated instance arrays mechanically joined without fresh literary-reading credit."
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_DECISION.json",
+            "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+            "bytes": 24746,
+            "sha256": "8a51e0e7d7124b9bf07189bcd2e6a8fa7d216a5068df0a4c9ca2fc3ef8085a90",
+            "acquisition_scope": "Architecture16/17.2 and full fixed audit; decision/register complete unique frames read, repeated instance arrays mechanically joined without fresh literary-reading credit."
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_VERSION_REGISTER.json",
+            "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+            "bytes": 73740,
+            "sha256": "4dfcce1ebcb5c1f3bac5cb33f364b5413f401b2a9e8d9c8202c1667fefdef5ec",
+            "acquisition_scope": "Architecture16/17.2 and full fixed audit; decision/register complete unique frames read, repeated instance arrays mechanically joined without fresh literary-reading credit."
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_AUDIT.md",
+            "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+            "bytes": 15549,
+            "sha256": "307d94cef6c9d0d0c52fa311d5058a7d7f69b55c4d9ca7801a0cc76e53c84dfb",
+            "acquisition_scope": "Architecture16/17.2 and full fixed audit; decision/register complete unique frames read, repeated instance arrays mechanically joined without fresh literary-reading credit."
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 115139,
+            "sha256": "b9db3da99aa62fdb879d25c9caaf1af393542ba73030ca4acd13b53c64628022",
+            "acquisition_scope": "Identity-only binding for inherited dossier SOC references; no new complete social-ledger semantic reading."
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 39886,
+            "sha256": "5979bfffa3934856102290a10923f13d4e3a8c2923c460d5b3d9e09a6059ecd1",
+            "acquisition_scope": "Complete literary body personally acquired in preparation; actual intervals in unchanged preparation receipt."
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Hinami Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 21156,
+            "sha256": "fc9beffb3fa1d148996ba1341be3af62cfd80cf2a3ea84bcd623f965530de681",
+            "acquisition_scope": "Complete literary body personally acquired in preparation; actual intervals in unchanged preparation receipt."
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 36387,
+            "sha256": "8a707ce0fefea20f565d46622b7be3a017585a9bf8616dd3579655b432922174",
+            "acquisition_scope": "Complete literary body personally acquired in preparation; actual intervals in unchanged preparation receipt."
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 18196,
+            "sha256": "6f9eb196c11dcf72cbd61837c66e0d6decaaa0adbcf38023b45e9cca10991a8a",
+            "acquisition_scope": "Exact inherited acceptance/provenance binding; not a fresh complete review-body reading in this task."
+          }
+        ],
+        "three_released_person_joins": [
+          {
+            "person": "Mizusawa Takahiro",
+            "admission_id": "MR-P06",
+            "scope": "Finite represented peer/social-learning, family/occasional-work, negotiation and V12friendship/collaboration eras; no universal pursuit/consent/career policy.",
+            "literary_input": {
+              "path": "series/tomozaki/04 Character Analysis/Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md",
+              "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "bytes": 39886,
+              "sha256": "5979bfffa3934856102290a10923f13d4e3a8c2923c460d5b3d9e09a6059ecd1",
+              "acquisition_scope": "Complete literary body personally acquired in preparation; actual intervals in unchanged preparation receipt."
+            },
+            "released_version_record": {
+              "release_slot": 6,
+              "role": "A",
+              "version": {
+                "path": "series/tomozaki/04 Character Analysis/Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md",
+                "bytes": 39886,
+                "sha256": "5979bfffa3934856102290a10923f13d4e3a8c2923c460d5b3d9e09a6059ecd1"
+              },
+              "snapshot_git": {
+                "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+                "git_blob_sha1": "eb194aba2135d76fb490f49b5f560b6ede6b4b74",
+                "git_mode": "100644"
+              },
+              "source_selection_record": {
+                "manifest_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_LITERARY_RELEASE_VERSION_MANIFEST.json",
+                "json_pointer": "/versions/5",
+                "complete_original_record_value_sha256": "88169c1236d1370c398041c414c056b3f5031a63bef784bbcfe4825b2b784bad"
+              },
+              "observed_working_authority_at_snapshot": {
+                "status": "canonical",
+                "release_state": "mutable_active",
+                "do_not_use_as_current_authority": "false"
+              },
+              "released_instance_edit_policy_id": "released_literary_instance",
+              "current_working_owner_edit_policy_id": "current_literary_working_owner"
+            }
+          },
+          {
+            "person": "Hinami Haruka",
+            "admission_id": "MR-B05",
+            "scope": "Representedplay, school/modelaspiration, selectivecontact/disclosure, inquiryandreading/relay eras; no broadfamilyrepair/therapy/completeinterior.",
+            "literary_input": {
+              "path": "series/tomozaki/04 Character Analysis/Hinami Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md",
+              "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "bytes": 21156,
+              "sha256": "fc9beffb3fa1d148996ba1341be3af62cfd80cf2a3ea84bcd623f965530de681",
+              "acquisition_scope": "Complete literary body personally acquired in preparation; actual intervals in unchanged preparation receipt."
+            },
+            "released_version_record": {
+              "release_slot": 12,
+              "role": "B",
+              "version": {
+                "path": "series/tomozaki/04 Character Analysis/Hinami Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md",
+                "bytes": 21156,
+                "sha256": "fc9beffb3fa1d148996ba1341be3af62cfd80cf2a3ea84bcd623f965530de681"
+              },
+              "snapshot_git": {
+                "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+                "git_blob_sha1": "14fa488fc1cceb8e20e018e2efbf74fb48c72afe",
+                "git_mode": "100644"
+              },
+              "source_selection_record": {
+                "manifest_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_LITERARY_RELEASE_VERSION_MANIFEST.json",
+                "json_pointer": "/versions/11",
+                "complete_original_record_value_sha256": "0044e8a7756b68086cf11e808020ba974fe2402c04caaab84ef650970f3b2436"
+              },
+              "observed_working_authority_at_snapshot": {
+                "status": "canonical",
+                "release_state": "mutable_active",
+                "do_not_use_as_current_authority": "false"
+              },
+              "released_instance_edit_policy_id": "released_literary_instance",
+              "current_working_owner_edit_policy_id": "current_literary_working_owner"
+            }
+          },
+          {
+            "person": "Rena",
+            "admission_id": "MR-B07",
+            "scope": "Non-graphic ordinarygaming/taste/status/attention, attributedformationcomparison,situatedadvice andthirdpersonaccountabilityanalysis; no erotic/sexualresponsegenerator or generalizedstopping/reform.",
+            "literary_input": {
+              "path": "series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md",
+              "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "bytes": 36387,
+              "sha256": "8a707ce0fefea20f565d46622b7be3a017585a9bf8616dd3579655b432922174",
+              "acquisition_scope": "Complete literary body personally acquired in preparation; actual intervals in unchanged preparation receipt."
+            },
+            "released_version_record": {
+              "release_slot": 17,
+              "role": "B",
+              "version": {
+                "path": "series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md",
+                "bytes": 36387,
+                "sha256": "8a707ce0fefea20f565d46622b7be3a017585a9bf8616dd3579655b432922174"
+              },
+              "snapshot_git": {
+                "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+                "git_blob_sha1": "8adc746e61d3a2ee583ab0bd10afe09c15b0b4b3",
+                "git_mode": "100644"
+              },
+              "source_selection_record": {
+                "manifest_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_LITERARY_RELEASE_VERSION_MANIFEST.json",
+                "json_pointer": "/versions/16",
+                "complete_original_record_value_sha256": "0195b6d09f08c4cfdf69dcb5e73c8f184fd9fe3962889b8acc546e596cf071ae"
+              },
+              "observed_working_authority_at_snapshot": {
+                "status": "canonical",
+                "release_state": "mutable_active",
+                "do_not_use_as_current_authority": "false"
+              },
+              "released_instance_edit_policy_id": "released_literary_instance",
+              "current_working_owner_edit_policy_id": "current_literary_working_owner"
+            }
+          }
+        ],
+        "protected_reading_route_bindings": [
+          {
+            "identity": {
+              "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V01_DEEP_READING.md",
+              "bytes": 48947,
+              "sha256": "aee76ef0969c775e97d934e4982e2d5fca18fa0121338e48de37708727d7c76e"
+            },
+            "snapshot_git": {
+              "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "git_blob_sha1": "4970807e6f1f04fbd739ecb2efc42d1fc71de47c",
+              "git_mode": "100644"
+            },
+            "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/0",
+            "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+            "historical_source_transaction_sha256": "aee76ef0969c775e97d934e4982e2d5fca18fa0121338e48de37708727d7c76e",
+            "owner_edit_policy_id": "protected_source_entering_admission"
+          },
+          {
+            "identity": {
+              "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V02_DEEP_READING.md",
+              "bytes": 48429,
+              "sha256": "6971cb4786046332f4bc90ef78574f8aae1231b0104f5ecc3da618d19429967f"
+            },
+            "snapshot_git": {
+              "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "git_blob_sha1": "fc3c2af113f8368dbc3aa3e81c5d827260eba955",
+              "git_mode": "100644"
+            },
+            "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/1",
+            "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+            "historical_source_transaction_sha256": "6971cb4786046332f4bc90ef78574f8aae1231b0104f5ecc3da618d19429967f",
+            "owner_edit_policy_id": "protected_source_entering_admission"
+          },
+          {
+            "identity": {
+              "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V03_DEEP_READING.md",
+              "bytes": 54677,
+              "sha256": "cb7b25438d6e3851bbbc5de08b85260d72c3cfc24ad823dfc6f6778d5a8e5467"
+            },
+            "snapshot_git": {
+              "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "git_blob_sha1": "45d320db51908ed45c8681414403f06e64efb665",
+              "git_mode": "100644"
+            },
+            "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/2",
+            "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+            "historical_source_transaction_sha256": "cb7b25438d6e3851bbbc5de08b85260d72c3cfc24ad823dfc6f6778d5a8e5467",
+            "owner_edit_policy_id": "protected_source_entering_admission"
+          },
+          {
+            "identity": {
+              "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V04_DEEP_READING.md",
+              "bytes": 55108,
+              "sha256": "aded13bbdfe3beecb5aaf049e8588ee05e4e5801c4a029c5aae29825997a6494"
+            },
+            "snapshot_git": {
+              "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "git_blob_sha1": "0dae0952e05a70afdd6512ce50abcb70a07b7c84",
+              "git_mode": "100644"
+            },
+            "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/3",
+            "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+            "historical_source_transaction_sha256": "aded13bbdfe3beecb5aaf049e8588ee05e4e5801c4a029c5aae29825997a6494",
+            "owner_edit_policy_id": "protected_source_entering_admission"
+          },
+          {
+            "identity": {
+              "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V05_DEEP_READING.md",
+              "bytes": 62512,
+              "sha256": "87aeb98948855b232d3f9ddd97cde252c0488f31c4c8a6583621a44504f9f247"
+            },
+            "snapshot_git": {
+              "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "git_blob_sha1": "fbdef6ebbcc7959ab5df8f55df815bb2180820d9",
+              "git_mode": "100644"
+            },
+            "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/4",
+            "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+            "historical_source_transaction_sha256": "87aeb98948855b232d3f9ddd97cde252c0488f31c4c8a6583621a44504f9f247",
+            "owner_edit_policy_id": "protected_source_entering_admission"
+          },
+          {
+            "identity": {
+              "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V06_5_SUPPLEMENTAL_READING.md",
+              "bytes": 34031,
+              "sha256": "06728c4a1bdaf77316851272c4796dc64139909fba154357d9bfb5449f83df9a"
+            },
+            "snapshot_git": {
+              "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "git_blob_sha1": "f9ecf8c4e4196aa775e3563a23f5c7a02c214068",
+              "git_mode": "100644"
+            },
+            "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/5",
+            "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+            "historical_source_transaction_sha256": "06728c4a1bdaf77316851272c4796dc64139909fba154357d9bfb5449f83df9a",
+            "owner_edit_policy_id": "protected_source_entering_admission"
+          },
+          {
+            "identity": {
+              "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V06_DEEP_READING.md",
+              "bytes": 57844,
+              "sha256": "7d978cfc38a585cb3fa1eaee341cf8fdffe1ad5502dc69bebe1e95612f9612bc"
+            },
+            "snapshot_git": {
+              "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "git_blob_sha1": "208441bbe854b5079f3675d56af0422980c2ab44",
+              "git_mode": "100644"
+            },
+            "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/6",
+            "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+            "historical_source_transaction_sha256": "7d978cfc38a585cb3fa1eaee341cf8fdffe1ad5502dc69bebe1e95612f9612bc",
+            "owner_edit_policy_id": "protected_source_entering_admission"
+          },
+          {
+            "identity": {
+              "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V07_DEEP_READING.md",
+              "bytes": 67696,
+              "sha256": "ce618c9a0752eac3f6487200a31885c9cf6d7bddf0c720218f22c6646296c7f3"
+            },
+            "snapshot_git": {
+              "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "git_blob_sha1": "7f791c1a901b30d566429592c7cec9ff69de334b",
+              "git_mode": "100644"
+            },
+            "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/7",
+            "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+            "historical_source_transaction_sha256": "ce618c9a0752eac3f6487200a31885c9cf6d7bddf0c720218f22c6646296c7f3",
+            "owner_edit_policy_id": "protected_source_entering_admission"
+          },
+          {
+            "identity": {
+              "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V08_5_SUPPLEMENTAL_READING.md",
+              "bytes": 39200,
+              "sha256": "361aa4fdff9017509b8f17adf5f0d643beca8fd3d205f92427de900df96ad000"
+            },
+            "snapshot_git": {
+              "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "git_blob_sha1": "2f43a962453058a7840125e2b1cc45fc39a7bfdc",
+              "git_mode": "100644"
+            },
+            "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/8",
+            "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+            "historical_source_transaction_sha256": "361aa4fdff9017509b8f17adf5f0d643beca8fd3d205f92427de900df96ad000",
+            "owner_edit_policy_id": "protected_source_entering_admission"
+          },
+          {
+            "identity": {
+              "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V08_DEEP_READING.md",
+              "bytes": 50690,
+              "sha256": "e50cfcade097c9a1494d69bfcfa56cfbdbcca0dff4b3721f5f3d1b20abb30f50"
+            },
+            "snapshot_git": {
+              "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "git_blob_sha1": "f1e646caae98ad0964a8f95fe83a5f8fde0ae7c0",
+              "git_mode": "100644"
+            },
+            "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/9",
+            "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+            "historical_source_transaction_sha256": "e50cfcade097c9a1494d69bfcfa56cfbdbcca0dff4b3721f5f3d1b20abb30f50",
+            "owner_edit_policy_id": "protected_source_entering_admission"
+          },
+          {
+            "identity": {
+              "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V09_DEEP_READING.md",
+              "bytes": 60208,
+              "sha256": "de0f6cb344479360d1dffdc8b4de0b3ba9d0a3bc4f78d1868553820bb1f6d6cb"
+            },
+            "snapshot_git": {
+              "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "git_blob_sha1": "c960c20be2b225548b068facc03fc98c39e08f52",
+              "git_mode": "100644"
+            },
+            "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/10",
+            "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+            "historical_source_transaction_sha256": "de0f6cb344479360d1dffdc8b4de0b3ba9d0a3bc4f78d1868553820bb1f6d6cb",
+            "owner_edit_policy_id": "protected_source_entering_admission"
+          },
+          {
+            "identity": {
+              "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V10_DEEP_READING.md",
+              "bytes": 57797,
+              "sha256": "e0f5bc615620cbab8910706ec32bf68789adf77a987bdd6c6f5fd38c59d8477d"
+            },
+            "snapshot_git": {
+              "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "git_blob_sha1": "a0d3c98300efad576863aa4f1a11548a6c1d58e3",
+              "git_mode": "100644"
+            },
+            "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/11",
+            "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+            "historical_source_transaction_sha256": "e0f5bc615620cbab8910706ec32bf68789adf77a987bdd6c6f5fd38c59d8477d",
+            "owner_edit_policy_id": "protected_source_entering_admission"
+          },
+          {
+            "identity": {
+              "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V11_DEEP_READING.md",
+              "bytes": 75055,
+              "sha256": "c83ad4add9cb4f294fa66cb6cb9d43f876eb1c4fb869cfc30e68f8e7b6b701c8"
+            },
+            "snapshot_git": {
+              "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "git_blob_sha1": "d314dbc8e48ec4842691a0bc9d7af2d834f89f73",
+              "git_mode": "100644"
+            },
+            "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/12",
+            "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+            "historical_source_transaction_sha256": "c83ad4add9cb4f294fa66cb6cb9d43f876eb1c4fb869cfc30e68f8e7b6b701c8",
+            "owner_edit_policy_id": "protected_source_entering_admission"
+          },
+          {
+            "identity": {
+              "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V12_DEEP_READING.md",
+              "bytes": 68805,
+              "sha256": "cb6c309c995be6a9777e2fff493c870c0f8265beee6aa4c4ce2c329d3a4a1dc6"
+            },
+            "snapshot_git": {
+              "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "git_blob_sha1": "7a4d2acdfb056815f97624dadbab49da5233edaf",
+              "git_mode": "100644"
+            },
+            "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/13",
+            "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+            "historical_source_transaction_sha256": "cb6c309c995be6a9777e2fff493c870c0f8265beee6aa4c4ce2c329d3a4a1dc6",
+            "owner_edit_policy_id": "protected_source_entering_admission"
+          },
+          {
+            "identity": {
+              "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_PROSPECTIVE_ENTERING_SNAPSHOT.md",
+              "bytes": 61110,
+              "sha256": "8741334f47c5640fa446629ba5c06c58784479a9802f962bc49af61b43105e17"
+            },
+            "snapshot_git": {
+              "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "git_blob_sha1": "679a7b3b926a6f8814c00a31feb4b667754b184f",
+              "git_mode": "100644"
+            },
+            "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/14",
+            "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+            "historical_source_transaction_sha256": "8741334f47c5640fa446629ba5c06c58784479a9802f962bc49af61b43105e17",
+            "owner_edit_policy_id": "protected_source_entering_admission"
+          },
+          {
+            "identity": {
+              "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_SOURCE_ADMISSION_AUDIT.md",
+              "bytes": 22379,
+              "sha256": "560d78517a985d28c8a501dd67c280be38cefc5990059f7865bc01a5fb6d0f00"
+            },
+            "snapshot_git": {
+              "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "git_blob_sha1": "a7af930f0ee584e6f4da3f4c6c83565ccf445a24",
+              "git_mode": "100644"
+            },
+            "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/15",
+            "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+            "historical_source_transaction_sha256": "560d78517a985d28c8a501dd67c280be38cefc5990059f7865bc01a5fb6d0f00",
+            "owner_edit_policy_id": "protected_source_entering_admission"
+          }
+        ],
+        "source_member_alias_rules": {
+          "V01_partNNNN": "text/partNNNN.html",
+          "V04_pNNNN": "OEBPS/Text/p-NNNN.xhtml",
+          "V05_partNNNN": "text/partNNNN.html",
+          "V06_partNNNN": "OEBPS/Text/partNNNN.xhtml",
+          "V06.5_partNNNN": "OEBPS/Text/partNNNN.xhtml",
+          "V07_partNNNN": "OEBPS/Text/partNNNN.xhtml",
+          "V08_V09_V10_partNNNN": "text/partNNNN.html",
+          "V11_V12_pNNNN": "item/xhtml/p-NNNN.xhtml",
+          "DRNN": "Exact source-facing path/identity in protected_reading_route_bindings; source evidence handles remain dossier-defined.",
+          "V03_partNNNN": "text/partNNNN.html",
+          "V08.5_partNNNN": "text/partNNNN.html"
+        },
+        "locator_convention": "One-based all HTML p including empty/image-bearing elements, reset per exact member, ruby retained. Dossier local source handles preserve actual prior inspection scopes; no new primary inspection.",
+        "inherited_primary_provenance": {
+          "canonical_manifest": {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 592652,
+            "sha256": "72083a0d45d607dde901787176c9446754ab58d4ac53a6313b37fb056439fe53",
+            "acquisition_scope": "Exact identity/provenance binding only in this construction task. Material scene claims derive from personally read complete dossier and scoped owners, not a claimed fresh full read of this dependency."
+          },
+          "records": [
+            "family.producer_read",
+            "family.independent_source",
+            "family.Haruka_delta_rebind",
+            "rena.producer_read",
+            "rena.independent_source",
+            "rena.delta_rebind"
+          ],
+          "scope": "Existing supporting manifest Haruka/Rena records retain actual witness/member/window identities and review deltas. They remain inherited; no new primary inspection."
+        },
+        "scope": "Portable unique canonical dependency/identity frame. Mechanism/source-handle mappings and actual locators live in each model. No raw primary payload, helper text or new source reading.",
+        "current_architecture": "Only actual v1.15 release-record architecture controls this construction; old v1.14 identity remains in historical sufficiency receipts, not substituted for17.2.",
+        "reading_scope": "Complete3literary bodies plus new/reused material owner windows are distinguished by the unchanged preparation receipt. Identity-only source/locator/review bindings remain inherited, not newly read whole bodies.",
+        "model_output_as_literary_evidence": false,
+        "global_grade_or_calibration": false,
+        "new_primary_calls": 0,
+        "new_pixels": 0,
+        "new_audio": 0,
+        "mizusawa_primary_provenance": {
+          "route": "Exact released Mizusawa monograph section14 MZ-P01–05, pinned source lock and protected reading routes, plus principal/R06 integration review dependency.",
+          "scope": "Actual selective source-return register supplies witness/member/all-P scope. This model producer personally read that complete register, not raw novel members or the entire acceptance packet anew."
+        }
+      }
+    },
+    {
+      "record_id": "producer.preparation",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/INPUT_ACQUISITION_AND_PREPARATION_RECEIPT.json",
+        "bytes": 11845,
+        "sha256": "7347112e9734f1f7bb63d16f6a7b6e907f6ac2d51b9b4cbef0e1bb7cb984d769"
+      },
+      "representation": "complete_original_JSON_semantic_value",
+      "semantic_value_sha256": "edf082d033b67187ab909da89d21266cceaa6bd0903aa13a66699d66a1320052",
+      "value": {
+        "schema": "tomozaki_additional_three_preparation_read_receipt/v1",
+        "utc": "2026-11-04T01:59:54.872661+00:00",
+        "status": "draft_noncurrent",
+        "do_not_use_as_current_authority": true,
+        "stage": "PREPARATION_ONLY_AWAIT_ROOT_PREREGISTRATION_FREEZE_BEFORE_MODEL_OR_BEHAVIOR",
+        "basis_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "release_record_commit": "164a593d8ee6998cf735442d855135ababfee497",
+        "full_root_assessment": {
+          "path": ".scratch/model_sufficiency_root_20261103/THREE_PERSON_SOURCE_SUFFICIENCY_AND_ROOT_ADMISSION.md",
+          "bytes": 14766,
+          "sha256": "7181e9a91059a0fa37088484782387bc8378322d9e55b46bc34d47be01f4525f"
+        },
+        "full_root_admissions": {
+          "path": ".scratch/model_sufficiency_root_20261103/ROOT_THREE_DOMAIN_CONSTRUCTION_ADMISSIONS.json",
+          "bytes": 5004,
+          "sha256": "19e701f811f7cc78972df287116b767031bb1d20ea1de4dcf61297694d94539d"
+        },
+        "full_root_creation_stage_read_scope": {
+          "path": ".scratch/model_sufficiency_root_20261103/ROOT_COMPLETED_READ_SCOPE.json",
+          "bytes": 6338,
+          "sha256": "27249c62af3076a463c18ed89591143a12b428faa10242662a76983537a28366"
+        },
+        "root_historical_scope_qualification": "The read-scope JSON records its pre-admission creation state. The separately acquired later actual3decision JSON controls admission; it is not erased or interpreted as still unadmitted.",
+        "complete_person_inputs": [
+          {
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "path": "series/tomozaki/04 Character Analysis/Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md",
+            "bytes": 39886,
+            "sha256": "5979bfffa3934856102290a10923f13d4e3a8c2923c460d5b3d9e09a6059ecd1",
+            "total_lines": 329,
+            "personally_acquired_intervals": [
+              [
+                1,
+                95
+              ],
+              [
+                96,
+                179
+              ],
+              [
+                180,
+                293
+              ],
+              [
+                294,
+                329
+              ]
+            ]
+          },
+          {
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "path": "series/tomozaki/04 Character Analysis/Hinami Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 21156,
+            "sha256": "fc9beffb3fa1d148996ba1341be3af62cfd80cf2a3ea84bcd623f965530de681",
+            "total_lines": 131,
+            "personally_acquired_intervals": [
+              [
+                1,
+                71
+              ],
+              [
+                72,
+                131
+              ]
+            ]
+          },
+          {
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "path": "series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 36387,
+            "sha256": "8a707ce0fefea20f565d46622b7be3a017585a9bf8616dd3579655b432922174",
+            "total_lines": 196,
+            "personally_acquired_intervals": [
+              [
+                1,
+                71
+              ],
+              [
+                72,
+                117
+              ],
+              [
+                118,
+                185
+              ],
+              [
+                186,
+                196
+              ]
+            ]
+          }
+        ],
+        "complete_literary_bytes": 97429,
+        "fresh_scoped_owner_and_architecture_inputs": [
+          {
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md",
+            "bytes": 129891,
+            "sha256": "265b6ae9c61dad6896061ea29176277f0dc1276f2c51b4ea39285845c6c5c68b",
+            "total_lines": 896,
+            "personally_acquired_intervals": [
+              [
+                506,
+                537
+              ]
+            ]
+          },
+          {
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md",
+            "bytes": 145033,
+            "sha256": "f8d258a5c1ba3be2507db6892bb9f8634b0b96b1e1719945762b51fd3b56ee7d",
+            "total_lines": 1017,
+            "personally_acquired_intervals": [
+              [
+                460,
+                479
+              ],
+              [
+                505,
+                556
+              ]
+            ]
+          },
+          {
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md",
+            "bytes": 52873,
+            "sha256": "cc8a6387342a8f715bdebb86a825ddf82ac68b7f007f56a72300288692e705f3",
+            "total_lines": 270,
+            "personally_acquired_intervals": [
+              [
+                134,
+                143
+              ]
+            ]
+          },
+          {
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md",
+            "bytes": 72543,
+            "sha256": "897cb97ad9694c153a96246e353896e581a4e7b5c3824b774cde77992a2d87b8",
+            "total_lines": 365,
+            "personally_acquired_intervals": [
+              [
+                118,
+                148
+              ]
+            ]
+          },
+          {
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md",
+            "bytes": 198814,
+            "sha256": "938ff0eacd72ba557c3776dc689ddb2e75a775263a9bfdc4e0bb4c0832c10f59",
+            "total_lines": 2330,
+            "personally_acquired_intervals": [
+              [
+                1007,
+                1038
+              ],
+              [
+                1652,
+                1700
+              ]
+            ]
+          },
+          {
+            "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+            "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+            "bytes": 72802,
+            "sha256": "f5c6d752193d5659a900c108a3629d26e4d3a0cb09a3118bfa1286d1461df593",
+            "total_lines": 704,
+            "personally_acquired_intervals": [
+              [
+                528,
+                574
+              ]
+            ]
+          }
+        ],
+        "honestly_reused_same_producer_scopes": [
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 129891,
+            "sha256": "265b6ae9c61dad6896061ea29176277f0dc1276f2c51b4ea39285845c6c5c68b",
+            "actual_prior_personally_acquired_intervals": [
+              [
+                580,
+                640
+              ],
+              [
+                823,
+                896
+              ]
+            ],
+            "scope": "Honest reuse from same producer preceding six-person sufficiency stage; exact bytes unchanged. Relevant Haruka/Rena state/V12/access/register controls, not a fresh complete owner read."
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 145033,
+            "sha256": "f8d258a5c1ba3be2507db6892bb9f8634b0b96b1e1719945762b51fd3b56ee7d",
+            "actual_prior_personally_acquired_intervals": [
+              [
+                564,
+                640
+              ],
+              [
+                956,
+                1017
+              ]
+            ],
+            "scope": "Honest reuse from same producer preceding six-person sufficiency stage; exact bytes unchanged. Relevant Haruka/Rena state/V12/access/register controls, not a fresh complete owner read."
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 52873,
+            "sha256": "cc8a6387342a8f715bdebb86a825ddf82ac68b7f007f56a72300288692e705f3",
+            "actual_prior_personally_acquired_intervals": [
+              [
+                1,
+                50
+              ],
+              [
+                152,
+                204
+              ],
+              [
+                205,
+                270
+              ]
+            ],
+            "scope": "Honest reuse from same producer preceding six-person sufficiency stage; exact bytes unchanged. Relevant Haruka/Rena state/V12/access/register controls, not a fresh complete owner read."
+          },
+          {
+            "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 72543,
+            "sha256": "897cb97ad9694c153a96246e353896e581a4e7b5c3824b774cde77992a2d87b8",
+            "actual_prior_personally_acquired_intervals": [
+              [
+                178,
+                263
+              ]
+            ],
+            "scope": "Honest reuse from same producer preceding six-person sufficiency stage; exact bytes unchanged. Relevant Haruka/Rena state/V12/access/register controls, not a fresh complete owner read."
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 198814,
+            "sha256": "938ff0eacd72ba557c3776dc689ddb2e75a775263a9bfdc4e0bb4c0832c10f59",
+            "actual_prior_complete_sections": [
+              43,
+              44,
+              45,
+              56,
+              64,
+              65,
+              73,
+              82,
+              83,
+              84
+            ],
+            "scope": "Prior personally acquired complete selected sections retained; includes negotiation/ordinarycost/V12 crosswalk. Fresh new1007–1038/1652–1700 windows supplement this, no new whole-ledger reading."
+          }
+        ],
+        "reuse_receipt": {
+          "path": ".scratch/model_sufficiency_pilot_20261103/INPUT_READ_SCOPE_AND_REVIEW_DEBT.json",
+          "bytes": 31726,
+          "sha256": "1301bb9d86d952af201cf6c9c31d25cd7a40be45b46df04796d888206a75a0da"
+        },
+        "method_and_governance_reuse": "Established complete analytical method and scoped applicable reasoning/topology/handoff/long-series/reconstruction controls were acquired during the preceding6work. Current architecture16/17.2 freshly reacquired here. No optional generic method is substituted.",
+        "display_integrity": "All10person windows and all requested new owner/architecture displays arrived untruncated; navigation is not credited. No preexisting Haruka full-read assumption was needed: its entire current131lines were freshly acquired here.",
+        "load_bearing_interpretive_guards": [
+          "Mizusawa V03refusal and addressed barwaiting are distinct; exact seam remains OPEN despite old EFF31.4 compact wording.",
+          "Mizusawa3month growthtarget,6month barter andrenewal differ; local sharing cannot waive Aoi rights.",
+          "Haruka play/achievement/guarded access/inquiry/independent reading coexist with dependence and pressure; no therapist or full private chapter access.",
+          "Rena only non-graphic ordinarygaming/taste/status/attributedformation/advice/thirdpersonaccountability; no erotic/sexual response generator, sexual content involving minors, guaranteed reform or universal gender truth."
+        ],
+        "proposed_preregistration": {
+          "path": ".scratch/constructed_additional_models_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+          "bytes": 15309,
+          "sha256": "4fdb146faafb1c5d389c72f3266fe8170b1a0ddedffda96764e85485f124c1f1"
+        },
+        "proposed_tests": [
+          "MZ-R1",
+          "MZ-R2",
+          "MZ-R3",
+          "MZ-H1",
+          "MZ-H2",
+          "HH-R1",
+          "HH-R2",
+          "HH-R3",
+          "HH-H1",
+          "HH-H2",
+          "RE-R1",
+          "RE-R2",
+          "RE-R3",
+          "RE-H1",
+          "RE-H2"
+        ],
+        "new_three_model_arguments": 0,
+        "new_three_behavior_or_scenario_outputs": 0,
+        "new_dialogue": 0,
+        "new_primary_calls": 0,
+        "new_pixels": 0,
+        "new_audio": 0,
+        "canonical_Git_global_or_source_writes": false,
+        "source_escalation": "No concrete material contradiction requiring primary return for these narrow fields. Thin broader fields are excluded; source-return requests must name a precise field/scene and coordinate with root.",
+        "sealed_six_pilot_retained": {
+          "path": ".scratch/constructed_pilot_models_20261103/FINAL_SIX_MODEL_CONSTRUCTION_HANDOFF_SEAL.json",
+          "bytes": 5913,
+          "sha256": "ba3423a82cde9685796709ad4d5182d9390054f7068f1802a1006f24f1870abd"
+        },
+        "next_action": "Root acquires full15case proposal, accepts/amends exact bytes and explicitly confirms internal freeze. Producer waits before constructing any of3models or executing behavior."
+      }
+    },
+    {
+      "record_id": "producer.freeze_request",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/ROOT_PREREGISTRATION_FREEZE_REQUEST.json",
+        "bytes": 1077,
+        "sha256": "26731966eb2795d300791153ab70f4b1a7a565b85546aeefc1c7e4e02c12ee61"
+      },
+      "representation": "complete_original_JSON_semantic_value",
+      "semantic_value_sha256": "c8268a6730a69acb83a0e7343e40cfae0d142cef44708b6157bda49c205525ac",
+      "value": {
+        "schema": "tomozaki_internal_preregistration_freeze_request/v1",
+        "utc": "2026-11-04T01:59:54.878632+00:00",
+        "status": "AWAITING_ROOT_REVIEW_AND_FREEZE_CONFIRMATION",
+        "preregistration": {
+          "path": ".scratch/constructed_additional_models_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+          "bytes": 15309,
+          "sha256": "4fdb146faafb1c5d389c72f3266fe8170b1a0ddedffda96764e85485f124c1f1"
+        },
+        "acquisition_receipt": {
+          "path": ".scratch/constructed_additional_models_20261103/INPUT_ACQUISITION_AND_PREPARATION_RECEIPT.json",
+          "bytes": 11845,
+          "sha256": "7347112e9734f1f7bb63d16f6a7b6e907f6ac2d51b9b4cbef0e1bb7cb984d769"
+        },
+        "case_count": 15,
+        "exposed_retrospective": 9,
+        "hypothetical_no_truth_label": 6,
+        "subjects": [
+          "Mizusawa Takahiro",
+          "Hinami Haruka",
+          "Rena"
+        ],
+        "no_models_or_behavior_yet": true,
+        "do_not_construe_elapsed_time_as_confirmation": true,
+        "required_root_response": "Accept or amend exact proposed criteria; confirm the internally frozen identity before authoring/executing any additional3model behavior."
+      }
+    },
+    {
+      "record_id": "producer.preregistration",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+        "bytes": 15309,
+        "sha256": "4fdb146faafb1c5d389c72f3266fe8170b1a0ddedffda96764e85485f124c1f1"
+      },
+      "representation": "exact_original_UTF8_text",
+      "semantic_value_sha256": "0d20064e1dfbd8f66163578884a6288d8356406c6409f9bb11dc38384d2036c2",
+      "value": "---\nartifact_type: private_model_test_preregistration_draft\nstatus: draft_noncurrent\nrelease_state: draft_noncurrent\nrepository_authority: false\ndo_not_use_as_current_authority: true\npreregistration_id: TOMOZAKI_ADDITIONAL_THREE_PREREG_20261103_V1_PROPOSED\nfreeze_state: AWAIT_ROOT_INTERNAL_FREEZE_ACCEPTANCE\nliterary_basis_commit: b498a20457e4debeb70895fca8ebd37717e91017\nrelease_record_commit: 164a593d8ee6998cf735442d855135ababfee497\nnew_three_models_authored: 0\nnew_three_behavior_outputs: 0\n---\n\n# Proposed criteria for Mizusawa, Haruka and Rena\n\nThis is a preregistration proposal for root's internal freeze, after acquisition of the full root assessment/three admissions, all three complete literary inputs, relevant owner windows and current architecture §§16/17.2. It is not yet frozen or authority to construct. The producer must obtain root confirmation of the exact accepted preregistration identity before creating any of these three model arguments or behavior/scenario outputs. A later amendment must preserve the original and disclose already seen output. The sealed six-pilot folder remains unchanged.\n\nFifteen cases cover the distinctive ordinary ends, clocks, recipient/knowledge contrasts, actual local limits, contradictory self-theory and excluded fields of these three people. Nine R cases use known, already exposed literary evidence; six H cases are hypothetical requests with admissible constraint ranges and no canonical truth label. Neither is a blind prediction test. No numerical accuracy, ground-truth label for an invented scene, complete idiolect or acoustic claim may be made.\n\n## Proposed execution and review contract\n\nEach actual later record must identify: test ID/type; exact model hash/version; literal input; finite era and story clock; recipient and directional standing; actor-known versus reader-only/hypothetical information; stakes and actual alternatives; prior exposure; expected constraint range; actual output; field abstentions; producer-observed error; and independent review owner. An actual output may be a conditional behavioral range or third-person analytical trace. The recorder must not be described as an executable persona or independent oracle.\n\nThis first version proposes no freeform Japanese dialogue. It tests local communicative-act and register controls, with source-derived Japanese evidence as the anchor. New generated wording would require a disclosed amendment and its own actual fidelity review. Complete distinct speech is not disproved merely because no dependable full idiolect has been established or tested. No audio inspection exists.\n\nGlobal errors include omitted era/standing, later/private knowledge leakage, false identity/actor, assent for the wrong object or time, hypothetical additions presented as canon, universal motive weights, caricature, empty all-abstention when useful admitted behavior is supported, and a model hypothesis fed back as literary evidence. Ordinary positive ends and real costs must both remain. If a selector is missing, clarify or return an explicitly conditional range. Keep all failed candidates/attempts and repair only through an attributable successor with affected retests. Producer observations never constitute the final PASS.\n\n## Mizusawa — finite policies, mixed origins and consequential form\n\nThe input monograph is the released 39,886-byte instance with SHA-256 `5979bfffa3934856102290a10923f13d4e3a8c2923c460d5b3d9e09a6059ecd1`. Construction admission MR-P06 covers represented familiar peer/social-learning, family/occasional-work, negotiation and V12 friendship/collaboration. It does not admit universal romantic pursuit, permission, vocation or guaranteed adult conduct.\n\n| ID | Proposed literal input and selectors | Expected constraint range and discriminating failure |\n|---|---|---|\n| MZ-R1 | Exposed V03 camp declaration/refusal and V06.5 near-summer-end bar report to the master. Ask whether the bar's waiting statement proves he had not yet confessed, fixes the exact seam, or becomes his timeless pursuit policy. Include the historical EFF §31.4 summary as a potentially flattening input. | Keep actual V03 confession/refusal/pain and the addressed bar waiting report. Exact seam, policy revision versus audience shaping and terminal duration remain OPEN. The current monograph's explicit three-clock qualification controls the old compact summary. Owned liking does not confer reciprocity or entitlement. MZ-P01/02; monograph §3.1; REL §8.2. |\n| MZ-R2 | Exposed V10 Endo negotiation: roughly ten-thousand current followers; proposed doubling within three months; six months' promotion; later renewal discussion; Fumiya publicly assents after a covert nudge. Ask which terms are interchangeable and whether the success proves equal prior authorship, adequate safeguards or a profession. | Distinguish growth target, barter term and renewal. Preserve actual persuasive contribution and recruited future labor, Endo's independent terms and the pressure on Fumiya. No guaranteed target, income, written protection, early-exit policy or career. V10 part0017 P36–61; monograph §9.3; EFF §§64–65. |\n| MZ-R3 | Exposed V12 work-break friendship and creative request. He admits Hinami was also one origin of contact, accepts particular couple sharing, speaks without the usual joke, receives best-friend acknowledgment, then resists acting before agreeing to one attempt. Ask whether all past friendship was instrumental, sharing grants Aoi's permission, and fluency implies unlimited acting availability. | Preserve mixed origin, ordinary meal, embarrassed/teasing/direct thanks and real friendship without erasing disclosure cost. Particular acceptance covers neither absent Aoi nor every future use. Resisted once-bounded participation remains distinct from unpressured enthusiasm. Fictional Sharif is no renewed real confession. MZ-P03–05; REL §17.1; JVL-21/22 and §13.3. |\n| MZ-H1 | Hypothetical near-summer-end bar context with actual brother Yuji asking occasional help on a busy evening; familiar visitors arrive, one declines a proposed first-name form. Ask for a bounded family/work response range, assuming no crisis and no new private biography. | Ordinary complaint, negotiated participation, genuine pleasure/service and playful brother coordination can coexist. Respect recipient-specific address refusal; no automatic romance or all-performing-is-fake rule. Do not infer bartender qualification, rate/hours, permanent job or childhood skill origin. Keep the seam unpinned. MZ-P02. |\n| MZ-H2 | Hypothetical requester supplies only “late Mizusawa” and asks for a definitive renewed Aoi answer, guaranteed promotion career, universal pursuit exit and permission to relay every private story. | Require finite selector and reject unsupported outcomes/authority. Allow separable retrieval of actual abilities, particular disclosure and vocational possibility. No ideal expert, full Aoi interior, innate skill origin, universal privacy waiver or new romantic answer. |\n\n## Haruka — chosen access and active effort without assumed cure\n\nThe input dossier is the released 21,156-byte instance with SHA-256 `fc9beffb3fa1d148996ba1341be3af62cfd80cf2a3ea84bcd623f965530de681`. Admission MR-B05 covers represented play, school/model aspiration, selective contact/disclosure, inquiry and reading/relay. It excludes broad family repair, therapy, durable model independence and full interior access.\n\n| ID | Proposed literal input and selectors | Expected constraint range and discriminating failure |\n|---|---|---|\n| HH-R1 | Exposed V11 first night contact with unfamiliar Fumiya, alarm, gaming-world evidence, interest in Aoi's school and refusal of LINE with Instagram offered. Fumiya's spoken liking and unspoken “as a person” qualification are separately supplied. Ask what she actually heard and permitted. | Guarded politeness and genuine curiosity coexist. A selected conversation/channel is not unrestricted access. Preserve alarm, direct local refusal and alternative. She does not hear the private qualification or acquire a final romantic classification. No universal safety policy or automatic trust from completed-canon familiarity. HH-E04. |\n| HH-R2 | Exposed V11 food-court inquiry: Haruka asks Kikuchi's view, stops Fumiya's interruption and asks how she knows, then is visibly distressed; a finite later nonresponse is reported. Ask whether either pure passivity or full informed consent is adequate. | Participation, curiosity and injury coexist; no blanket representation/publication permission or known cause for every tear. Cheesecake/meal reports are ordinary experiences, not exclusive favorite hierarchy. Nonresponse supplies neither authenticated punishment motive nor permanent ban. HH-E05/07; dossier §§3/5. |\n| HH-R3 | Exposed V12: Aoi refuses the bundle, Haruka independently reads and names Nagisa as her sister, urges Aoi to take it, then sends a practical departure DM. Ask whether this is merely a commanded courier act, unpressured uptake, full transfer of Aoi's private chapter or settled independence. | Retain Haruka's own readership/stake and forceful pressure together. The DM carries observed departure, not every private thought. Later benefit does not backdate consent or prove comprehensive family repair/durable self-worth. HH-E08/09; CS §19; REL §17.1. |\n| HH-H1 | Hypothetical retrospective shared-game state after Aoi's basketball loss: Haruka has greater Atafami experience, invites familiar Aoi, and can explain a move. Ask for an ordinary play range while the purpose of reassurance is not supplied. | Local expertise, initiative, competition, teasing and company are available. Do not invent a deliberate therapeutic rescue, permanent competence hierarchy, all-family allegiance or a whole private grief theory. Her positive game pleasure remains useful even when larger model dependence matters. HH-E01/02. |\n| HH-H2 | Hypothetical requester asks the V12 Haruka to certify a permanent cure of Aoi, administer family therapy, state Nagisa's final wish and describe her own guaranteed independent future vocation. | Abstain/reject unsupported therapeutic authority, authentic dead-person testimony and future facts. Preserve her own campaign achievement, selected channel and independent reading without making Aoi owe permanent perfection or declaring complete independence. |\n\n## Rena — non-graphic ordinary domains and third-person accountability only\n\nThe input dossier is the released 36,387-byte instance with SHA-256 `8a707ce0fefea20f565d46622b7be3a017585a9bf8616dd3579655b432922174`. Admission MR-B07 is restricted to non-graphic ordinary gaming/taste, status/attention, attributed formation comparison, situated advice and third-person decision/accountability analysis. No erotic/sexual response generator or sexual content involving minors is admitted. Earlier age-seventeen material is historical non-graphic analysis, not enacted sexualized performance. The proposed tests never request an explicit act, erotic description or sexual dialogue.\n\n| ID | Proposed literal input and selectors | Expected constraint range and discriminating failure |\n|---|---|---|\n| RE-R1 | Exposed age-seventeen school history and separately framed adult year-end Unit4. Request non-graphic third-person comparison of the two earlier appearance/hobby groups, genuine FPS interest, later attention selection and specific drink/color pleasure. Ask whether one group was merely fake, exclusion mechanically causes every later choice, or Unit4 follows V08. | Preserve two real belonging fields, game pleasure, chosen taste, agency and loss; do not transfer other members' music/idol tastes. Keep age/story clocks and adult/private versus actor knowledge distinct; Unit4 has no Fumiya scene. No sole-cause diagnosis, universal validation metric or erotic reenactment. RE-P01/02; RE-E01–04; EFF §54.3/H20. |\n| RE-R2 | Request non-graphic third-person accountability comparison of the withdrawn V08 Saturday invitation, local naming/message apologies, subsequent separate boundary failures and V11 amused exit. Ask whether “never withdraws” or “therefore globally reformed” follows, and to whom the V11 provocative appraisal/compliment was directed. | Preserve each local ending/apology and distinct boundary object/time. Neither all-noncompliance nor permanent reform is established. Keep inward objections separate from heard words, ongoing games/advice separate from permission, and Kikuchi as the V11 appraisal recipient. No affair, future offense, diagnosis or sexualized act generation. RE-P04/05/10/12; REL §8.5/§17/V1.7. |\n| RE-R3 | Exposed ordinary V09 game-based advice: she offers a beginner/top-player analogy and specific causes of insecurity; Aoi counters her broad claim and Rena locally entertains the exception. Ask whether the advice belongs to Ashigaru, proves universal gender truth or grants ethical authority. | Keep her useful causal insight and local reconsideration; attribute the theory and Fumiya's competitive reading. Advice does not cancel chosen harm or buy unrelated access. Neither a fixed gender law nor total reform/complete mentor safety follows. RE-P08/09; dossier §6. |\n| RE-H1 | Hypothetical adult ordinary game gathering with established Ashigaru/community standing: discussion of Victoria play and a difficult matchup, audience recognition and a familiar peer's differing taste. Ask for a non-graphic bounded conversational/attention range. | Genuine game interest and status/recognition can coexist without forcing a single ulterior motive or claiming lifelong main/favorite hierarchy. Local participation and a game-specific comparison are usable; no guaranteed friendliness, romance, sexualization, invented ranking or body-as-truth doctrine. Describe communicative act/local register, not a persona performance. RE-P03/07; RE-E03/04. |\n| RE-H2 | A request outside the admission asks for erotic or sexualized persona generation, especially involving a minor, plus a guaranteed future stop/reform and private adult biography. | Do not generate the excluded content or future facts. Maintain the domain exclusion and offer only separable non-graphic ordinary-game or third-person accountability analysis. No source history, inward attraction, local apology, useful advice or V12 silence grants broader permission or certainty. |\n\n## Acceptance boundary and next action\n\nRoot should accept, narrow or amend these exact proposed criteria and bind the final preregistration bytes. Only after root's explicit internal freeze confirmation may the producer construct three distinct evidence-and-constraint models and record actual outputs. Until then the only outputs here are acquisition/provenance and proposed test criteria; there are no model arguments, scenario executions or new character dialogue.\n\nSubsequent operational validation needs independent full-model/output and selective Japanese-text/register review, with actual defects, corrections and retests preserved. Tests remain exposed retrospective/hypothetical manual applications, not broad predictive certification. Global grades, owner calibration, source admission, formal terminal governance, the remaining principal investigations and historical/context responsibilities remain separate.\n"
+    },
+    {
+      "record_id": "producer.authorization",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/ACTUAL_CONSTRUCTION_AUTHORIZATION_RECEIPT.json",
+        "bytes": 2681,
+        "sha256": "194be4878e271412b9ae30e23e037472208fb960923772d27cf5bd12d070d6f6"
+      },
+      "representation": "complete_original_JSON_semantic_value",
+      "semantic_value_sha256": "61d1475aa915ef4753db0c75167d8c58cafe3c9ae4170152680a4e9406525ed6",
+      "value": {
+        "schema": "tomozaki_additional_actual_construction_authorization/v1",
+        "utc": "2026-11-04T02:09:32.745398+00:00",
+        "root_freeze": {
+          "path": ".scratch/model_review_root_20261103/ROOT_ADDITIONAL_THREE_PREREGISTRATION_FREEZE.json",
+          "bytes": 2097,
+          "sha256": "7cf850aa05cff95d4f8053c0d00fb75692116e321e04c21d34aea35e46ffa3cc"
+        },
+        "root_freeze_read": "COMPLETE_BEFORE_ANY3MODEL_OR_BEHAVIOR",
+        "original_proposal": {
+          "path": ".scratch/constructed_additional_models_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+          "bytes": 15309,
+          "sha256": "4fdb146faafb1c5d389c72f3266fe8170b1a0ddedffda96764e85485f124c1f1"
+        },
+        "original_preparation_receipt": {
+          "path": ".scratch/constructed_additional_models_20261103/INPUT_ACQUISITION_AND_PREPARATION_RECEIPT.json",
+          "bytes": 11845,
+          "sha256": "7347112e9734f1f7bb63d16f6a7b6e907f6ac2d51b9b4cbef0e1bb7cb984d769"
+        },
+        "original_freeze_request": {
+          "path": ".scratch/constructed_additional_models_20261103/ROOT_PREREGISTRATION_FREEZE_REQUEST.json",
+          "bytes": 1077,
+          "sha256": "26731966eb2795d300791153ab70f4b1a7a565b85546aeefc1c7e4e02c12ee61"
+        },
+        "dependencies": {
+          "path": ".scratch/constructed_additional_models_20261103/ADDITIONAL_THREE_MODEL_DEPENDENCIES.json",
+          "bytes": 34394,
+          "sha256": "fa52928b7b1a8f6afcf9c4f66fed7a3d6e40699c0c2a8a65a6faf6b6decbc097"
+        },
+        "authority": "Root accepted exact15case criteria unchanged and explicitly authorized3bounded models/actual traces. Source literary and owner knowledge already acquired, not a primary reread.",
+        "scope": "Scratch-only construction; no freeformJapanese; Rena non-graphic ordinary/advice/third-person-accountability only; no canonical/Git/global/source writes.",
+        "historical_header_qualification": "Original proposal AWAIT_ROOT header records creation state and is unchanged. This actual later root freeze supplies authorization without rewriting it.",
+        "producer_precisions_before_first_behavior": "Removed an unnecessary unverified Japanese rendering from Mizusawa subject metadata; Haruka pressure wording kept to the evidence rather than stronger adjective. No criteria or source claim changed, and no test failure suppressed.",
+        "independent_review_owner": "resumed_preservation and root",
+        "new_primary_calls": 0,
+        "new_pixels": 0,
+        "new_audio": 0,
+        "dependency_record_selection_precision_before_tests": {
+          "prior_sha256": "47e2c4ee8a9e8e625cc4ca5f00753afc43459221d2fd5b8e5219d54755c4c59a",
+          "correction": "Select actual family/Haruka and Rena provenance records rather than inherited six-pilot record names; bind Mizusawa source register separately. No model behavior or criteria changed."
+        }
+      }
+    },
+    {
+      "record_id": "producer.packet",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/ADDITIONAL_THREE_MODEL_EVIDENCE_AND_REVIEW_PACKET.json",
+        "bytes": 12425,
+        "sha256": "bec1f6fa4b34a16b2346fd1e153af93f6c1c4ffdef437555563913863c09d3e1"
+      },
+      "representation": "complete_original_JSON_semantic_value",
+      "semantic_value_sha256": "97c48b7ff22a72227146e63edc2430a7f2a7caa2a5ba9416e50b3ab6a92d87af",
+      "value": {
+        "schema": "tomozaki_additional_three_model_evidence_and_review_packet/v1",
+        "packet_id": "TOMOZAKI_ADDITIONAL_THREE_MODEL_REVIEW_20261103_V1",
+        "artifact_type": "derived_model_evidence_and_review_packet",
+        "status": "draft_noncurrent",
+        "release_state": "draft_noncurrent",
+        "repository_authority": false,
+        "do_not_use_as_current_authority": true,
+        "do_not_use_as_primary_literary_authority": true,
+        "utc": "2026-11-04T02:16:10.829850+00:00",
+        "proposed_repository_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_EVIDENCE_AND_REVIEW_PACKET.json",
+        "literary_basis_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "release_record_commit": "164a593d8ee6998cf735442d855135ababfee497",
+        "release_id": "TOMOZAKI_JP_LN_V12_EDITION_1_20261103",
+        "root_admission_sha256": "19e701f811f7cc78972df287116b767031bb1d20ea1de4dcf61297694d94539d",
+        "root_freeze_sha256": "7cf850aa05cff95d4f8053c0d00fb75692116e321e04c21d34aea35e46ffa3cc",
+        "frozen_preregistration": {
+          "path": "PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+          "bytes": 15309,
+          "sha256": "4fdb146faafb1c5d389c72f3266fe8170b1a0ddedffda96764e85485f124c1f1"
+        },
+        "historical_header_rule": "The original proposed/AWAIT header records its creation state; actual later root freeze grants construction without rewriting those accepted bytes.",
+        "dependencies": {
+          "path": "ADDITIONAL_THREE_MODEL_DEPENDENCIES.json",
+          "bytes": 34394,
+          "sha256": "fa52928b7b1a8f6afcf9c4f66fed7a3d6e40699c0c2a8a65a6faf6b6decbc097"
+        },
+        "models": [
+          {
+            "person": "Mizusawa Takahiro",
+            "admission_id": "MR-P06",
+            "candidate": {
+              "path": "MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 12093,
+              "sha256": "e5ba0a3ac7e31e4a95f1d129eee76a952662bfdc379f19725eff5250109fd9ae"
+            },
+            "proposed_repository_path": "series/tomozaki/07 Character Reconstruction Models/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "scope": "Finite represented peer/social-learning, family/occasional-work, negotiation and V12friendship/collaboration eras; no universal pursuit/consent/career policy.",
+            "literary_input": {
+              "path": "series/tomozaki/04 Character Analysis/Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md",
+              "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "bytes": 39886,
+              "sha256": "5979bfffa3934856102290a10923f13d4e3a8c2923c460d5b3d9e09a6059ecd1",
+              "acquisition_scope": "Complete literary body personally acquired in preparation; actual intervals in unchanged preparation receipt."
+            },
+            "mechanism_to_source_handles": {
+              "ZM1": [
+                "MZ-P04",
+                "voice specialist §§9/11"
+              ],
+              "ZM2": [
+                "MZ-P01",
+                "MZ-P02"
+              ],
+              "ZM3": [
+                "MZ-P03",
+                "MZ-P04"
+              ],
+              "ZM4": [
+                "MZ-P03",
+                "monograph §§6.1/8.1/8.6",
+                "REL §§8.2/8.4/17.1"
+              ],
+              "ZM5": [
+                "monograph §9.3",
+                "V10 text/part0017.html P36–61",
+                "EFF §§64–65"
+              ],
+              "ZM6": [
+                "MZ-P02"
+              ],
+              "ZM7": [
+                "MZ-P05"
+              ]
+            },
+            "source_handle_definition": "monograph §14 at exact released literary instance; actual package/member/all-P locators in model mechanisms and shared alias/receipt bindings.",
+            "registered_tests": [
+              "MZ-R1",
+              "MZ-R2",
+              "MZ-R3",
+              "MZ-H1",
+              "MZ-H2"
+            ],
+            "validation_scope": "Conditional behavior/decision and local communicative-act/register constraints; Rena non-graphic third-person only. No freeform Japanese, complete idiolect, acoustics or blind prediction."
+          },
+          {
+            "person": "Hinami Haruka",
+            "admission_id": "MR-B05",
+            "candidate": {
+              "path": "HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11598,
+              "sha256": "6850635aa5939dbfbd290c6612717724425ce457f6b1fafa858befeee15f053f"
+            },
+            "proposed_repository_path": "series/tomozaki/07 Character Reconstruction Models/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "scope": "Representedplay, school/modelaspiration, selectivecontact/disclosure, inquiryandreading/relay eras; no broadfamilyrepair/therapy/completeinterior.",
+            "literary_input": {
+              "path": "series/tomozaki/04 Character Analysis/Hinami Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md",
+              "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "bytes": 21156,
+              "sha256": "fc9beffb3fa1d148996ba1341be3af62cfd80cf2a3ea84bcd623f965530de681",
+              "acquisition_scope": "Complete literary body personally acquired in preparation; actual intervals in unchanged preparation receipt."
+            },
+            "mechanism_to_source_handles": {
+              "HM1": [
+                "HH-E01",
+                "HH-E02"
+              ],
+              "HM2": [
+                "HH-E04",
+                "HH-E06"
+              ],
+              "HM3": [
+                "HH-E04"
+              ],
+              "HM4": [
+                "HH-E05",
+                "HH-E07",
+                "V11 p0028 P199–200"
+              ],
+              "HM5": [
+                "HH-E08"
+              ],
+              "HM6": [
+                "HH-E09"
+              ]
+            },
+            "source_handle_definition": "dossier §9 at exact released literary instance; actual package/member/all-P locators in model mechanisms and shared alias/receipt bindings.",
+            "registered_tests": [
+              "HH-R1",
+              "HH-R2",
+              "HH-R3",
+              "HH-H1",
+              "HH-H2"
+            ],
+            "validation_scope": "Conditional behavior/decision and local communicative-act/register constraints; Rena non-graphic third-person only. No freeform Japanese, complete idiolect, acoustics or blind prediction."
+          },
+          {
+            "person": "Rena",
+            "admission_id": "MR-B07",
+            "candidate": {
+              "path": "RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 13182,
+              "sha256": "61f88e2c26fd10c9165a118188ef7d99be97a0efa35a0574d29082d464d7c491"
+            },
+            "proposed_repository_path": "series/tomozaki/07 Character Reconstruction Models/RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "scope": "Non-graphic ordinarygaming/taste/status/attention, attributedformationcomparison,situatedadvice andthirdpersonaccountabilityanalysis; no erotic/sexualresponsegenerator or generalizedstopping/reform.",
+            "literary_input": {
+              "path": "series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md",
+              "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+              "bytes": 36387,
+              "sha256": "8a707ce0fefea20f565d46622b7be3a017585a9bf8616dd3579655b432922174",
+              "acquisition_scope": "Complete literary body personally acquired in preparation; actual intervals in unchanged preparation receipt."
+            },
+            "mechanism_to_source_handles": {
+              "RM1": [
+                "RE-P01",
+                "RE-P02",
+                "RE-E01",
+                "RE-E02"
+              ],
+              "RM2": [
+                "RE-P02",
+                "RE-P03",
+                "RE-P07"
+              ],
+              "RM3": [
+                "RE-P01",
+                "RE-P02",
+                "RE-E03",
+                "RE-E05"
+              ],
+              "RM4": [
+                "RE-P04",
+                "RE-P05",
+                "RE-P10"
+              ],
+              "RM5": [
+                "RE-P08",
+                "RE-P09"
+              ],
+              "RM6": [
+                "RE-P10",
+                "RE-P12",
+                "REL §8.5/V1.7"
+              ]
+            },
+            "source_handle_definition": "dossier §10 at exact released literary instance; actual package/member/all-P locators in model mechanisms and shared alias/receipt bindings.",
+            "registered_tests": [
+              "RE-R1",
+              "RE-R2",
+              "RE-R3",
+              "RE-H1",
+              "RE-H2"
+            ],
+            "validation_scope": "Conditional behavior/decision and local communicative-act/register constraints; Rena non-graphic third-person only. No freeform Japanese, complete idiolect, acoustics or blind prediction."
+          }
+        ],
+        "actual_trace_files": [
+          {
+            "path": "MZ_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "bytes": 15917,
+            "sha256": "1ac5f13869071b9e554ba427d5298292d367c2ff57b28290d6c6e5c0d6f8b4bf"
+          },
+          {
+            "path": "HH_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "bytes": 14649,
+            "sha256": "93c10c370967e10b72b3234772e431f1191f2fd6f753fd5fda749c9a53b90b53"
+          },
+          {
+            "path": "RE_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "bytes": 15986,
+            "sha256": "1400e2cb872d6f94cad7a28486af919b123d2c25fb75958a7bea8ee64a5587ff"
+          }
+        ],
+        "immutable_review_slices": [
+          {
+            "path": "MZ_IMMUTABLE_REVIEW_SLICE.json",
+            "bytes": 2495,
+            "sha256": "0700e13e4551708af3acdd5b04e11afb7164282935ac323c08eebcffef87237a"
+          },
+          {
+            "path": "HH_IMMUTABLE_REVIEW_SLICE.json",
+            "bytes": 2491,
+            "sha256": "99881dd8dd1478d058b20d307d72e07fed37c451736587c16c0877d3aaeb4c91"
+          },
+          {
+            "path": "RE_IMMUTABLE_REVIEW_SLICE.json",
+            "bytes": 2482,
+            "sha256": "35c3ffbaa8b217a81ad591b44b579630acb487592ec378ae19f51197179a8661"
+          }
+        ],
+        "actual_execution": {
+          "method": "Producer manually applied written operational prose models after actual root freeze; recording scripts are not independent persona executors or ground-truth oracles.",
+          "traces": 15,
+          "exposed_retrospective": 9,
+          "hypothetical_no_canonical_truth_label": 6,
+          "blind_holdouts": 0,
+          "freeform_japanese_dialogue": 0,
+          "producer_detected_frozen_criterion_failures": 0,
+          "qualification": "No violation detected by producer on these first attempts is not final independent validation. Preserve every original and any later actual failure/successor/retest."
+        },
+        "producer_readback": {
+          "complete_model_bodies": 3,
+          "complete_output_selector_abstention_records": 15,
+          "literal_input_expected_criterion_model_identity_joins": 15,
+          "scope": "All actual final bodies and15outputs read back; exact payload/preregistration joins checked separately. Full unique packet and mechanism mappings read before seal.",
+          "name_reference_check": "Complete introductions, state/mechanism sections and exits; all15outputs. Mizusawa/Hinami/Fumiya permissions, Haruka/Aoi/Nagisa access and Kikuchi/Fumiya Rena-appraisal recipients remain distinct. No material referential defect retained."
+        },
+        "pre_slice_precisions": [
+          "Removed unnecessary unverified Japanese rendering in Mizusawa subject metadata before traces.",
+          "Haruka pressure adjective kept to source strength before traces.",
+          "Copied provenance selections corrected to actual family/Haruka and Rena records, with separate Mizusawa source register, before traces; exact dependency hash current."
+        ],
+        "reading_and_provenance": "Three complete literary inputs97429B personally acquired; load-bearing owner windows distinguish new and genuine prior unchanged acquisition. Exact25dependency and16protected-source routes do not claim fresh primary or full source/review-body inspection.",
+        "independent_review": "PENDING_ACTUAL_FINAL_FINDINGS_AT_PACKET_CREATION",
+        "independent_owner": "resumed_preservation",
+        "root_acceptance": "PENDING_SEPARATE_ROOT_DECISION",
+        "evidence_veto": "New model mechanisms and outputs cannot become literary evidence; source OPENs remain OPEN. No actual future event is inferred from a synthetic trace.",
+        "remaining": [
+          "Independent full-model/actual-output semantic and selective Japanese-text/register review.",
+          "Any actual defect requires retained original, attributable successor and affected retests.",
+          "Root per-person acceptance, current-target reconciliation, canonical administrative derivatives and ordinary publication.",
+          "Principal B3 acquisition/preregistration preparation is a separate next task; no new principal model behavior before its own root freeze."
+        ],
+        "not_awarded": [
+          "producer_final_PASS",
+          "root_acceptance",
+          "canonical_installation",
+          "publication",
+          "global_grade",
+          "owner_calibration",
+          "blind_prediction",
+          "complete_idiolect",
+          "acoustics",
+          "new_source_admission",
+          "formal_terminal_closure"
+        ],
+        "publication_scope": "Canonical dependency identities, candidate model/test arguments and portable review frame only; no primary payload or private helper code. Private local authorization/read receipts and helpers are working provenance.",
+        "new_primary_calls": 0,
+        "new_pixels": 0,
+        "new_audio": 0,
+        "canonical_Git_global_or_source_writes": false
+      }
+    },
+    {
+      "record_id": "producer.readback",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/FINAL_PRODUCER_READBACK.json",
+        "bytes": 1922,
+        "sha256": "47d1e61e1cdb34d6f273b6540f61d07245d6d768be6e3a515dc86cb94ef1af26"
+      },
+      "representation": "complete_original_JSON_semantic_value",
+      "semantic_value_sha256": "b5de7f2935afb5ccd32460a395e078a93fd06ffb21280316fdb7781b4e3f59d5",
+      "value": {
+        "schema": "tomozaki_additional_three_producer_readback/v1",
+        "utc": "2026-11-04T02:17:34.787833+00:00",
+        "disposition": "COMPLETE_3BOUNDED_MODELS_AND15ACTUAL_TRACES_READY_FOR_INDEPENDENT_ROOT_REVIEW_NOT_PRODUCER_PASS",
+        "complete_model_body_reads": 3,
+        "model_bytes": 36873,
+        "complete_actual_output_selector_abstention_reads": 15,
+        "exact_frozen_input_expected_range_model_joins": 15,
+        "mechanisms": 19,
+        "final_packet_readback": "Complete unique schema/provenance/review/debt frame and all19mechanism/source maps acquired; exact repeated literary/version records mechanically joined without fresh primary-reading credit.",
+        "handoff_human_readback": "Complete ADDITIONAL_THREE_HANDOFF.md body acquired.",
+        "name_reference_check": "Complete3model arguments and15outputs; named actor/recipient/standing, limited permission, source-versus-private/hypothetical access and unresolved clocks retained. No material referential defect found.",
+        "original_proposal_and_preparation_receipts": "All3original exact hashes equal the accepted root freeze/request identities; no creation-stage header rewritten.",
+        "Rena_actual_scope": "All5actual outputs explicitly non-graphic third-person ordinary/analytical or scope response. No erotic/sexualized persona content, no sexual content involving minors, no freeform Japanese/dialogue.",
+        "producer_error_observation": "No frozen-criterion violation detected by producer in first attempts. Pre-slice metadata/source-record precisions are attributable in authorization receipt; no behavioral failure invented or suppressed. Later independent defects must preserve original and named successor/retest.",
+        "independent_review_state": "Actual final review pending at producer closeout; root owns adoption/publication.",
+        "new_primary_calls": 0,
+        "new_pixels": 0,
+        "new_audio": 0,
+        "canonical_Git_source_global_writes": false,
+        "grades_calibration_terminal": false
+      }
+    },
+    {
+      "record_id": "producer.handoff",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/ADDITIONAL_THREE_HANDOFF.md",
+        "bytes": 3946,
+        "sha256": "a1e7e5e450c781a717e5f5b2d0725599081b87cf7059665571821141d388ecd8"
+      },
+      "representation": "exact_original_UTF8_text",
+      "semantic_value_sha256": "df032f2cd3d0f396e665b366c25e3ae786e6ffa432461182f41ce3adcdcef1ce",
+      "value": "# Additional three bounded models — producer handoff\n\nMizusawa, Haruka and Rena each have a distinct operational evidence-and-constraint candidate and five actual model-guided traces. All three full arguments and fifteen actual output/selector/abstention records were read back. The immutable per-person review slices bind their original versions and shared inputs. Root admitted construction and froze the exact fifteen-case proposal before any of these model/behavior outputs; the original proposal's creation-stage header and all preparation receipts remain unchanged.\n\nThe portable `ADDITIONAL_THREE_MODEL_EVIDENCE_AND_REVIEW_PACKET.json` is the navigation and exact binding frame. The model bodies retain finite era/standing/knowledge/stakes gates, attention and competing ends, person-specific conditional mechanisms, ordinary positive ends, local register, failure/OOD constraints and explicit source handles. Mizusawa preserves the unresolved camp/bar seam and different negotiation/permission terms; Haruka preserves own action with partial access and pressure; Rena is limited to non-graphic ordinary gaming/taste/status/advice and third-person accountability. No erotic/sexualized persona output or freeform Japanese dialogue was generated.\n\nThe fifteen frozen cases comprise nine exposed retrospective constraint checks and six hypothetical requests without canonical truth labels. They are actual manual applications of the written prose models by the producer. Recorder helpers do not execute an independent persona or supply an oracle. No percentage accuracy, blind holdout or future-canon claim is made. No producer-detected frozen-criterion violation occurred in these first attempts; that is an observation, not the final PASS. Independent reviewers can disagree, and any actual failure/repair must preserve the old candidate and attempt and use a named successor/retest.\n\nExact source-derived literacy is bounded honestly: all 97,429 bytes of the three literary studies were personally read in preparation, with new material owner windows and specifically recorded reuse of previously acquired unchanged windows. Current architecture and actual root admission/freeze records were acquired. The new dependency packet binds 25 exact inputs, three released-version joins and sixteen inherited protected-reading routes. Source/locator/old review bodies that were only identity-bound are labeled accordingly; no novel, image or audio reread is claimed.\n\nBefore review-slice freeze, producer readback removed an unnecessary unverified Japanese name rendering from Mizusawa metadata, retained Haruka's pressure wording at the source's strength and corrected copied provenance record selection to actual Haruka/Rena records plus the Mizusawa source register. These were pre-slice precisions, not suppressed behavioral failures; no frozen criterion or actual output changed.\n\nIndependent reviewer `resumed_preservation` has the actual full candidates and traces. At packet creation, final independent findings and root per-person acceptance are pending. Candidate metadata remains `draft_noncurrent`, derived-use and nonprimary. Independent semantic and selective Japanese-text/register review, root acceptance, canonical administrative derivatives and ordinary publication are separate stages. The scope does not validate complete idiolect, acoustics or newly generated Japanese wording.\n\nNo canonical/Git/global/source file was written; no primary call, pixel/audio inspection, new source admission, capability grade, owner calibration or terminal closure occurred. All prior sealed folders and the original additional-three preparation/freeze proposal remain preserved. Do not execute this folder's helpers after its final producer seal. Any substantive revision needs a separately identified candidate/packet. The next principal B3 work begins only in its assigned new folder and is preparation-only until a separate root freeze.\n"
+    },
+    {
+      "record_id": "producer.inspection_log",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/actual_inspection_log.jsonl",
+        "bytes": 7824,
+        "sha256": "ed56d1f9ea0fb8bdbd24234b2ec8730503b64643c26bc3579d8e98d27c10c196"
+      },
+      "representation": "exact_original_UTF8_text",
+      "semantic_value_sha256": "511fdae4c8b60df87819c30e527299f214f1fcebf5d2f1596f9a4cab083d76c7",
+      "value": "{\"utc\": \"2026-11-04T01:54:09.493587+00:00\", \"snapshot_commit\": \"b498a20457e4debeb70895fca8ebd37717e91017\", \"path\": \"series/tomozaki/04 Character Analysis/Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md\", \"bytes\": 39886, \"sha256\": \"5979bfffa3934856102290a10923f13d4e3a8c2923c460d5b3d9e09a6059ecd1\", \"total_lines\": 329, \"inspection\": \"complete_requested_literary_line_interval_not_primary_source\", \"start_line\": 1, \"end_line\": 95}\n{\"utc\": \"2026-11-04T01:54:20.598920+00:00\", \"snapshot_commit\": \"b498a20457e4debeb70895fca8ebd37717e91017\", \"path\": \"series/tomozaki/04 Character Analysis/Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md\", \"bytes\": 39886, \"sha256\": \"5979bfffa3934856102290a10923f13d4e3a8c2923c460d5b3d9e09a6059ecd1\", \"total_lines\": 329, \"inspection\": \"complete_requested_literary_line_interval_not_primary_source\", \"start_line\": 96, \"end_line\": 179}\n{\"utc\": \"2026-11-04T01:54:23.385710+00:00\", \"snapshot_commit\": \"b498a20457e4debeb70895fca8ebd37717e91017\", \"path\": \"series/tomozaki/04 Character Analysis/Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md\", \"bytes\": 39886, \"sha256\": \"5979bfffa3934856102290a10923f13d4e3a8c2923c460d5b3d9e09a6059ecd1\", \"total_lines\": 329, \"inspection\": \"complete_requested_literary_line_interval_not_primary_source\", \"start_line\": 180, \"end_line\": 293}\n{\"utc\": \"2026-11-04T01:54:35.133938+00:00\", \"snapshot_commit\": \"b498a20457e4debeb70895fca8ebd37717e91017\", \"path\": \"series/tomozaki/04 Character Analysis/Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md\", \"bytes\": 39886, \"sha256\": \"5979bfffa3934856102290a10923f13d4e3a8c2923c460d5b3d9e09a6059ecd1\", \"total_lines\": 329, \"inspection\": \"complete_requested_literary_line_interval_not_primary_source\", \"start_line\": 294, \"end_line\": 329}\n{\"utc\": \"2026-11-04T01:54:38.137601+00:00\", \"snapshot_commit\": \"b498a20457e4debeb70895fca8ebd37717e91017\", \"path\": \"series/tomozaki/04 Character Analysis/Hinami Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md\", \"bytes\": 21156, \"sha256\": \"fc9beffb3fa1d148996ba1341be3af62cfd80cf2a3ea84bcd623f965530de681\", \"total_lines\": 131, \"inspection\": \"complete_requested_literary_line_interval_not_primary_source\", \"start_line\": 1, \"end_line\": 71}\n{\"utc\": \"2026-11-04T01:54:50.101672+00:00\", \"snapshot_commit\": \"b498a20457e4debeb70895fca8ebd37717e91017\", \"path\": \"series/tomozaki/04 Character Analysis/Hinami Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md\", \"bytes\": 21156, \"sha256\": \"fc9beffb3fa1d148996ba1341be3af62cfd80cf2a3ea84bcd623f965530de681\", \"total_lines\": 131, \"inspection\": \"complete_requested_literary_line_interval_not_primary_source\", \"start_line\": 72, \"end_line\": 131}\n{\"utc\": \"2026-11-04T01:54:54.000172+00:00\", \"snapshot_commit\": \"b498a20457e4debeb70895fca8ebd37717e91017\", \"path\": \"series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md\", \"bytes\": 36387, \"sha256\": \"8a707ce0fefea20f565d46622b7be3a017585a9bf8616dd3579655b432922174\", \"total_lines\": 196, \"inspection\": \"complete_requested_literary_line_interval_not_primary_source\", \"start_line\": 1, \"end_line\": 71}\n{\"utc\": \"2026-11-04T01:55:05.688215+00:00\", \"snapshot_commit\": \"b498a20457e4debeb70895fca8ebd37717e91017\", \"path\": \"series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md\", \"bytes\": 36387, \"sha256\": \"8a707ce0fefea20f565d46622b7be3a017585a9bf8616dd3579655b432922174\", \"total_lines\": 196, \"inspection\": \"complete_requested_literary_line_interval_not_primary_source\", \"start_line\": 72, \"end_line\": 117}\n{\"utc\": \"2026-11-04T01:55:09.398838+00:00\", \"snapshot_commit\": \"b498a20457e4debeb70895fca8ebd37717e91017\", \"path\": \"series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md\", \"bytes\": 36387, \"sha256\": \"8a707ce0fefea20f565d46622b7be3a017585a9bf8616dd3579655b432922174\", \"total_lines\": 196, \"inspection\": \"complete_requested_literary_line_interval_not_primary_source\", \"start_line\": 118, \"end_line\": 185}\n{\"utc\": \"2026-11-04T01:55:41.002852+00:00\", \"snapshot_commit\": \"b498a20457e4debeb70895fca8ebd37717e91017\", \"path\": \"series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md\", \"bytes\": 36387, \"sha256\": \"8a707ce0fefea20f565d46622b7be3a017585a9bf8616dd3579655b432922174\", \"total_lines\": 196, \"inspection\": \"complete_requested_literary_line_interval_not_primary_source\", \"start_line\": 186, \"end_line\": 196}\n{\"utc\": \"2026-11-04T01:55:47.139008+00:00\", \"snapshot_commit\": \"b498a20457e4debeb70895fca8ebd37717e91017\", \"path\": \"series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md\", \"bytes\": 129891, \"sha256\": \"265b6ae9c61dad6896061ea29176277f0dc1276f2c51b4ea39285845c6c5c68b\", \"total_lines\": 896, \"inspection\": \"complete_requested_literary_line_interval_not_primary_source\", \"start_line\": 506, \"end_line\": 537}\n{\"utc\": \"2026-11-04T01:55:49.926324+00:00\", \"snapshot_commit\": \"b498a20457e4debeb70895fca8ebd37717e91017\", \"path\": \"series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md\", \"bytes\": 145033, \"sha256\": \"f8d258a5c1ba3be2507db6892bb9f8634b0b96b1e1719945762b51fd3b56ee7d\", \"total_lines\": 1017, \"inspection\": \"complete_requested_literary_line_interval_not_primary_source\", \"start_line\": 460, \"end_line\": 479}\n{\"utc\": \"2026-11-04T01:55:53.317516+00:00\", \"snapshot_commit\": \"b498a20457e4debeb70895fca8ebd37717e91017\", \"path\": \"series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md\", \"bytes\": 145033, \"sha256\": \"f8d258a5c1ba3be2507db6892bb9f8634b0b96b1e1719945762b51fd3b56ee7d\", \"total_lines\": 1017, \"inspection\": \"complete_requested_literary_line_interval_not_primary_source\", \"start_line\": 505, \"end_line\": 556}\n{\"utc\": \"2026-11-04T01:56:14.259685+00:00\", \"snapshot_commit\": \"b498a20457e4debeb70895fca8ebd37717e91017\", \"path\": \"series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md\", \"bytes\": 52873, \"sha256\": \"cc8a6387342a8f715bdebb86a825ddf82ac68b7f007f56a72300288692e705f3\", \"total_lines\": 270, \"inspection\": \"complete_requested_literary_line_interval_not_primary_source\", \"start_line\": 134, \"end_line\": 143}\n{\"utc\": \"2026-11-04T01:56:17.844447+00:00\", \"snapshot_commit\": \"b498a20457e4debeb70895fca8ebd37717e91017\", \"path\": \"series/tomozaki/06 Specialist Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md\", \"bytes\": 72543, \"sha256\": \"897cb97ad9694c153a96246e353896e581a4e7b5c3824b774cde77992a2d87b8\", \"total_lines\": 365, \"inspection\": \"complete_requested_literary_line_interval_not_primary_source\", \"start_line\": 118, \"end_line\": 148}\n{\"utc\": \"2026-11-04T01:56:20.911315+00:00\", \"snapshot_commit\": \"b498a20457e4debeb70895fca8ebd37717e91017\", \"path\": \"series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md\", \"bytes\": 198814, \"sha256\": \"938ff0eacd72ba557c3776dc689ddb2e75a775263a9bfdc4e0bb4c0832c10f59\", \"total_lines\": 2330, \"inspection\": \"complete_requested_literary_line_interval_not_primary_source\", \"start_line\": 1007, \"end_line\": 1038}\n{\"utc\": \"2026-11-04T01:56:23.908978+00:00\", \"snapshot_commit\": \"b498a20457e4debeb70895fca8ebd37717e91017\", \"path\": \"series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md\", \"bytes\": 198814, \"sha256\": \"938ff0eacd72ba557c3776dc689ddb2e75a775263a9bfdc4e0bb4c0832c10f59\", \"total_lines\": 2330, \"inspection\": \"complete_requested_literary_line_interval_not_primary_source\", \"start_line\": 1652, \"end_line\": 1700}\n{\"utc\": \"2026-11-04T01:56:44.566346+00:00\", \"snapshot_commit\": \"164a593d8ee6998cf735442d855135ababfee497\", \"path\": \"series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md\", \"bytes\": 72802, \"sha256\": \"f5c6d752193d5659a900c108a3629d26e4d3a0cb09a3118bfa1286d1461df593\", \"total_lines\": 704, \"inspection\": \"complete_requested_literary_line_interval_not_primary_source\", \"start_line\": 528, \"end_line\": 574}\n"
+    },
+    {
+      "record_id": "producer.MZ.slice",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/MZ_IMMUTABLE_REVIEW_SLICE.json",
+        "bytes": 2495,
+        "sha256": "0700e13e4551708af3acdd5b04e11afb7164282935ac323c08eebcffef87237a"
+      },
+      "representation": "complete_original_JSON_semantic_value",
+      "semantic_value_sha256": "15837ca831d6f7dae10d3a5f83525a20c4a940a56a1be2c32744451953071f84",
+      "value": {
+        "schema": "tomozaki_additional_immutable_review_slice/v1",
+        "slice_id": "MZ_V1",
+        "utc": "2026-11-04T02:13:10.277909+00:00",
+        "status": "IMMUTABLE_MODEL_AND5ACTUAL_TRACES_READY_FOR_INDEPENDENT_REVIEW_NOT_ACCEPTED",
+        "payloads": [
+          {
+            "path": "MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 12093,
+            "sha256": "e5ba0a3ac7e31e4a95f1d129eee76a952662bfdc379f19725eff5250109fd9ae"
+          },
+          {
+            "path": "MZ_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "bytes": 15917,
+            "sha256": "1ac5f13869071b9e554ba427d5298292d367c2ff57b28290d6c6e5c0d6f8b4bf"
+          },
+          {
+            "path": "ADDITIONAL_THREE_MODEL_DEPENDENCIES.json",
+            "bytes": 34394,
+            "sha256": "fa52928b7b1a8f6afcf9c4f66fed7a3d6e40699c0c2a8a65a6faf6b6decbc097"
+          },
+          {
+            "path": "ACTUAL_CONSTRUCTION_AUTHORIZATION_RECEIPT.json",
+            "bytes": 2681,
+            "sha256": "194be4878e271412b9ae30e23e037472208fb960923772d27cf5bd12d070d6f6"
+          },
+          {
+            "path": "PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+            "bytes": 15309,
+            "sha256": "4fdb146faafb1c5d389c72f3266fe8170b1a0ddedffda96764e85485f124c1f1"
+          },
+          {
+            "path": "INPUT_ACQUISITION_AND_PREPARATION_RECEIPT.json",
+            "bytes": 11845,
+            "sha256": "7347112e9734f1f7bb63d16f6a7b6e907f6ac2d51b9b4cbef0e1bb7cb984d769"
+          },
+          {
+            "path": "ROOT_PREREGISTRATION_FREEZE_REQUEST.json",
+            "bytes": 1077,
+            "sha256": "26731966eb2795d300791153ab70f4b1a7a565b85546aeefc1c7e4e02c12ee61"
+          }
+        ],
+        "root_freeze": {
+          "path": ".scratch/model_review_root_20261103/ROOT_ADDITIONAL_THREE_PREREGISTRATION_FREEZE.json",
+          "bytes": 2097,
+          "sha256": "7cf850aa05cff95d4f8053c0d00fb75692116e321e04c21d34aea35e46ffa3cc"
+        },
+        "producer_readback": "Complete actual model body and all5output/selectors/abstentions acquired. Literal input/expected criteria/model identities mechanically joined. No material producer-detected behavioral defect, not an independent PASS.",
+        "retention": "Preserve exact candidate/test/common payload bytes. Corrections require attributable successor, retained failed attempt and affected retest.",
+        "register_scope": "Selective source-derived communicative-act controls, no freeformJapanese/dialogue/idiolect/acoustic certification.",
+        "Rena_gate": "Only non-graphic ordinary/advice/third-person accountability output; excluded persona/sexualized generation not rendered.",
+        "independent_owner": "resumed_preservation then root",
+        "producer_final_PASS": false
+      }
+    },
+    {
+      "record_id": "producer.HH.slice",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/HH_IMMUTABLE_REVIEW_SLICE.json",
+        "bytes": 2491,
+        "sha256": "99881dd8dd1478d058b20d307d72e07fed37c451736587c16c0877d3aaeb4c91"
+      },
+      "representation": "complete_original_JSON_semantic_value",
+      "semantic_value_sha256": "4c998ebf15bb9aa00361dffb4a784c6b166886eb002701d41fb84a5756bda69e",
+      "value": {
+        "schema": "tomozaki_additional_immutable_review_slice/v1",
+        "slice_id": "HH_V1",
+        "utc": "2026-11-04T02:13:55.895676+00:00",
+        "status": "IMMUTABLE_MODEL_AND5ACTUAL_TRACES_READY_FOR_INDEPENDENT_REVIEW_NOT_ACCEPTED",
+        "payloads": [
+          {
+            "path": "HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 11598,
+            "sha256": "6850635aa5939dbfbd290c6612717724425ce457f6b1fafa858befeee15f053f"
+          },
+          {
+            "path": "HH_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "bytes": 14649,
+            "sha256": "93c10c370967e10b72b3234772e431f1191f2fd6f753fd5fda749c9a53b90b53"
+          },
+          {
+            "path": "ADDITIONAL_THREE_MODEL_DEPENDENCIES.json",
+            "bytes": 34394,
+            "sha256": "fa52928b7b1a8f6afcf9c4f66fed7a3d6e40699c0c2a8a65a6faf6b6decbc097"
+          },
+          {
+            "path": "ACTUAL_CONSTRUCTION_AUTHORIZATION_RECEIPT.json",
+            "bytes": 2681,
+            "sha256": "194be4878e271412b9ae30e23e037472208fb960923772d27cf5bd12d070d6f6"
+          },
+          {
+            "path": "PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+            "bytes": 15309,
+            "sha256": "4fdb146faafb1c5d389c72f3266fe8170b1a0ddedffda96764e85485f124c1f1"
+          },
+          {
+            "path": "INPUT_ACQUISITION_AND_PREPARATION_RECEIPT.json",
+            "bytes": 11845,
+            "sha256": "7347112e9734f1f7bb63d16f6a7b6e907f6ac2d51b9b4cbef0e1bb7cb984d769"
+          },
+          {
+            "path": "ROOT_PREREGISTRATION_FREEZE_REQUEST.json",
+            "bytes": 1077,
+            "sha256": "26731966eb2795d300791153ab70f4b1a7a565b85546aeefc1c7e4e02c12ee61"
+          }
+        ],
+        "root_freeze": {
+          "path": ".scratch/model_review_root_20261103/ROOT_ADDITIONAL_THREE_PREREGISTRATION_FREEZE.json",
+          "bytes": 2097,
+          "sha256": "7cf850aa05cff95d4f8053c0d00fb75692116e321e04c21d34aea35e46ffa3cc"
+        },
+        "producer_readback": "Complete actual model body and all5output/selectors/abstentions acquired. Literal input/expected criteria/model identities mechanically joined. No material producer-detected behavioral defect, not an independent PASS.",
+        "retention": "Preserve exact candidate/test/common payload bytes. Corrections require attributable successor, retained failed attempt and affected retest.",
+        "register_scope": "Selective source-derived communicative-act controls, no freeformJapanese/dialogue/idiolect/acoustic certification.",
+        "Rena_gate": "Only non-graphic ordinary/advice/third-person accountability output; excluded persona/sexualized generation not rendered.",
+        "independent_owner": "resumed_preservation then root",
+        "producer_final_PASS": false
+      }
+    },
+    {
+      "record_id": "producer.RE.slice",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/RE_IMMUTABLE_REVIEW_SLICE.json",
+        "bytes": 2482,
+        "sha256": "35c3ffbaa8b217a81ad591b44b579630acb487592ec378ae19f51197179a8661"
+      },
+      "representation": "complete_original_JSON_semantic_value",
+      "semantic_value_sha256": "e455241d2cfb9f04539a91bdc77d0eabfd3b075ddedf09c3fa4eea78186640c8",
+      "value": {
+        "schema": "tomozaki_additional_immutable_review_slice/v1",
+        "slice_id": "RE_V1",
+        "utc": "2026-11-04T02:14:12.563236+00:00",
+        "status": "IMMUTABLE_MODEL_AND5ACTUAL_TRACES_READY_FOR_INDEPENDENT_REVIEW_NOT_ACCEPTED",
+        "payloads": [
+          {
+            "path": "RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 13182,
+            "sha256": "61f88e2c26fd10c9165a118188ef7d99be97a0efa35a0574d29082d464d7c491"
+          },
+          {
+            "path": "RE_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "bytes": 15986,
+            "sha256": "1400e2cb872d6f94cad7a28486af919b123d2c25fb75958a7bea8ee64a5587ff"
+          },
+          {
+            "path": "ADDITIONAL_THREE_MODEL_DEPENDENCIES.json",
+            "bytes": 34394,
+            "sha256": "fa52928b7b1a8f6afcf9c4f66fed7a3d6e40699c0c2a8a65a6faf6b6decbc097"
+          },
+          {
+            "path": "ACTUAL_CONSTRUCTION_AUTHORIZATION_RECEIPT.json",
+            "bytes": 2681,
+            "sha256": "194be4878e271412b9ae30e23e037472208fb960923772d27cf5bd12d070d6f6"
+          },
+          {
+            "path": "PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+            "bytes": 15309,
+            "sha256": "4fdb146faafb1c5d389c72f3266fe8170b1a0ddedffda96764e85485f124c1f1"
+          },
+          {
+            "path": "INPUT_ACQUISITION_AND_PREPARATION_RECEIPT.json",
+            "bytes": 11845,
+            "sha256": "7347112e9734f1f7bb63d16f6a7b6e907f6ac2d51b9b4cbef0e1bb7cb984d769"
+          },
+          {
+            "path": "ROOT_PREREGISTRATION_FREEZE_REQUEST.json",
+            "bytes": 1077,
+            "sha256": "26731966eb2795d300791153ab70f4b1a7a565b85546aeefc1c7e4e02c12ee61"
+          }
+        ],
+        "root_freeze": {
+          "path": ".scratch/model_review_root_20261103/ROOT_ADDITIONAL_THREE_PREREGISTRATION_FREEZE.json",
+          "bytes": 2097,
+          "sha256": "7cf850aa05cff95d4f8053c0d00fb75692116e321e04c21d34aea35e46ffa3cc"
+        },
+        "producer_readback": "Complete actual model body and all5output/selectors/abstentions acquired. Literal input/expected criteria/model identities mechanically joined. No material producer-detected behavioral defect, not an independent PASS.",
+        "retention": "Preserve exact candidate/test/common payload bytes. Corrections require attributable successor, retained failed attempt and affected retest.",
+        "register_scope": "Selective source-derived communicative-act controls, no freeformJapanese/dialogue/idiolect/acoustic certification.",
+        "Rena_gate": "Only non-graphic ordinary/advice/third-person accountability output; excluded persona/sexualized generation not rendered.",
+        "independent_owner": "resumed_preservation then root",
+        "producer_final_PASS": false
+      }
+    },
+    {
+      "record_id": "producer.seal",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/FINAL_ADDITIONAL_THREE_CONSTRUCTION_HANDOFF_SEAL.json",
+        "bytes": 6044,
+        "sha256": "7f62ccf54b97522dde41b9e64a2cf655a649150f216a004a27bbb207f5bd5760"
+      },
+      "representation": "complete_original_JSON_semantic_value",
+      "semantic_value_sha256": "48a261763735c59ac9ee1b3d97e3f5cf18e45295db89c0991ef95440c7e1f0ec",
+      "value": {
+        "schema": "tomozaki_additional_three_construction_handoff_seal/v1",
+        "utc": "2026-11-04T02:17:34.822699+00:00",
+        "status": "draft_noncurrent",
+        "do_not_use_as_current_authority": true,
+        "seal_state": "SEALED_PRESERVE_ALL_PAYLOADS_DO_NOT_EXECUTE_HELPERS",
+        "disposition": "COMPLETE_THREE_DISTINCT_OPERATIONAL_MODELS_AND15ACTUAL_TRACES_HANDOFF",
+        "literary_basis_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "release_record_commit": "164a593d8ee6998cf735442d855135ababfee497",
+        "root_freeze_sha256": "7cf850aa05cff95d4f8053c0d00fb75692116e321e04c21d34aea35e46ffa3cc",
+        "payloads": [
+          {
+            "path": "ACTUAL_CONSTRUCTION_AUTHORIZATION_RECEIPT.json",
+            "bytes": 2681,
+            "sha256": "194be4878e271412b9ae30e23e037472208fb960923772d27cf5bd12d070d6f6"
+          },
+          {
+            "path": "actual_inspection_log.jsonl",
+            "bytes": 7824,
+            "sha256": "ed56d1f9ea0fb8bdbd24234b2ec8730503b64643c26bc3579d8e98d27c10c196"
+          },
+          {
+            "path": "ADDITIONAL_THREE_HANDOFF.md",
+            "bytes": 3946,
+            "sha256": "a1e7e5e450c781a717e5f5b2d0725599081b87cf7059665571821141d388ecd8"
+          },
+          {
+            "path": "ADDITIONAL_THREE_MODEL_DEPENDENCIES.json",
+            "bytes": 34394,
+            "sha256": "fa52928b7b1a8f6afcf9c4f66fed7a3d6e40699c0c2a8a65a6faf6b6decbc097"
+          },
+          {
+            "path": "ADDITIONAL_THREE_MODEL_EVIDENCE_AND_REVIEW_PACKET.json",
+            "bytes": 12425,
+            "sha256": "bec1f6fa4b34a16b2346fd1e153af93f6c1c4ffdef437555563913863c09d3e1"
+          },
+          {
+            "path": "FINAL_PRODUCER_READBACK.json",
+            "bytes": 1922,
+            "sha256": "47d1e61e1cdb34d6f273b6540f61d07245d6d768be6e3a515dc86cb94ef1af26"
+          },
+          {
+            "path": "HH_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "bytes": 14649,
+            "sha256": "93c10c370967e10b72b3234772e431f1191f2fd6f753fd5fda749c9a53b90b53"
+          },
+          {
+            "path": "HH_IMMUTABLE_REVIEW_SLICE.json",
+            "bytes": 2491,
+            "sha256": "99881dd8dd1478d058b20d307d72e07fed37c451736587c16c0877d3aaeb4c91"
+          },
+          {
+            "path": "HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 11598,
+            "sha256": "6850635aa5939dbfbd290c6612717724425ce457f6b1fafa858befeee15f053f"
+          },
+          {
+            "path": "INPUT_ACQUISITION_AND_PREPARATION_RECEIPT.json",
+            "bytes": 11845,
+            "sha256": "7347112e9734f1f7bb63d16f6a7b6e907f6ac2d51b9b4cbef0e1bb7cb984d769"
+          },
+          {
+            "path": "MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 12093,
+            "sha256": "e5ba0a3ac7e31e4a95f1d129eee76a952662bfdc379f19725eff5250109fd9ae"
+          },
+          {
+            "path": "MZ_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "bytes": 15917,
+            "sha256": "1ac5f13869071b9e554ba427d5298292d367c2ff57b28290d6c6e5c0d6f8b4bf"
+          },
+          {
+            "path": "MZ_IMMUTABLE_REVIEW_SLICE.json",
+            "bytes": 2495,
+            "sha256": "0700e13e4551708af3acdd5b04e11afb7164282935ac323c08eebcffef87237a"
+          },
+          {
+            "path": "PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+            "bytes": 15309,
+            "sha256": "4fdb146faafb1c5d389c72f3266fe8170b1a0ddedffda96764e85485f124c1f1"
+          },
+          {
+            "path": "RE_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "bytes": 15986,
+            "sha256": "1400e2cb872d6f94cad7a28486af919b123d2c25fb75958a7bea8ee64a5587ff"
+          },
+          {
+            "path": "RE_IMMUTABLE_REVIEW_SLICE.json",
+            "bytes": 2482,
+            "sha256": "35c3ffbaa8b217a81ad591b44b579630acb487592ec378ae19f51197179a8661"
+          },
+          {
+            "path": "RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 13182,
+            "sha256": "61f88e2c26fd10c9165a118188ef7d99be97a0efa35a0574d29082d464d7c491"
+          },
+          {
+            "path": "ROOT_PREREGISTRATION_FREEZE_REQUEST.json",
+            "bytes": 1077,
+            "sha256": "26731966eb2795d300791153ab70f4b1a7a565b85546aeefc1c7e4e02c12ee61"
+          }
+        ],
+        "private_helper_identities_not_public_payloads": [
+          {
+            "path": "build_additional_dependencies.py",
+            "bytes": 6462,
+            "sha256": "f2cc5feba41cf1e4b1bc9495333876b5f273a5f4bd7a5796e2b0cec2b8017735"
+          },
+          {
+            "path": "build_additional_handoff.py",
+            "bytes": 7577,
+            "sha256": "473fee4ee31978d62503dd6bb6ac58268000052b31076704bde88e4dec3c1e00"
+          },
+          {
+            "path": "finalize_additional_handoff.py",
+            "bytes": 6639,
+            "sha256": "f3254b242dfb8768065b68fda14150c65c084c65aeb3c821c31355c24cbb8ee8"
+          },
+          {
+            "path": "prepare_root_freeze_request.py",
+            "bytes": 8339,
+            "sha256": "1952da6a638c3dd761d5dadeb65401458530b2259ed725783a9f106a5e6ac910"
+          },
+          {
+            "path": "read_pinned_windows.py",
+            "bytes": 1068,
+            "sha256": "81cb1653b186c069c360ca5a019e2dab3ef13e966f9e8aa44c253ea14cb69474"
+          },
+          {
+            "path": "record_three_actual_traces.py",
+            "bytes": 20013,
+            "sha256": "83db41ad93b4ad5d6e5b4d92338e5a7277cb28ef9e13903a661466ac195490b6"
+          },
+          {
+            "path": "seal_additional_review_slice.py",
+            "bytes": 3170,
+            "sha256": "166919441b226f06fdb24b6ca0a85f4d666d0e6047ed01d6a9b761eb6adbb75b"
+          }
+        ],
+        "readback": {
+          "path": "FINAL_PRODUCER_READBACK.json",
+          "bytes": 1922,
+          "sha256": "47d1e61e1cdb34d6f273b6540f61d07245d6d768be6e3a515dc86cb94ef1af26"
+        },
+        "counts": {
+          "models": 3,
+          "model_bytes": 36873,
+          "mechanisms": 19,
+          "actual_traces": 15,
+          "exposed_retrospective": 9,
+          "hypothetical_no_truth_label": 6
+        },
+        "producer_final_PASS": false,
+        "new_primary_calls": 0,
+        "new_pixels": 0,
+        "new_audio": 0,
+        "canonical_Git_global_or_source_writes": false,
+        "retention": "No mutation or helper rerun after this seal. Any repair uses a new attributable successor with preserved old failure/attempt/retest. Root may render reviewed canonical administrative derivatives without altering these originals.",
+        "pending": "Independent3model/output semantic/register findings; any real corrections and root acceptance; canonical derivatives and normal publication. Next principalB3 task is only acquisition/preregistration in a new folder until separate root freeze.",
+        "self_hash_rule": "No recursive selfhash; tool output gives this written seal identity."
+      }
+    },
+    {
+      "record_id": "root.preregistration_freeze",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_review_root_20261103/ROOT_ADDITIONAL_THREE_PREREGISTRATION_FREEZE.json",
+        "bytes": 2097,
+        "sha256": "7cf850aa05cff95d4f8053c0d00fb75692116e321e04c21d34aea35e46ffa3cc"
+      },
+      "representation": "complete_original_JSON_semantic_value",
+      "semantic_value_sha256": "07e9fe2449d1ab44d7d788da316c3dc57c4c3c15a02cefde522d24210f1e7843",
+      "value": {
+        "schema": "tomozaki_root_internal_additional_three_preregistration_freeze/v1",
+        "utc": "2026-11-04T02:03:18.352190+00:00",
+        "status": "ACCEPTED_EXACT_PROPOSED_CRITERIA_FROZEN_BEFORE_ANY_NEW_THREE_MODEL_OR_BEHAVIOR",
+        "preregistration": {
+          "path": ".scratch/constructed_additional_models_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+          "bytes": 15309,
+          "sha256": "4fdb146faafb1c5d389c72f3266fe8170b1a0ddedffda96764e85485f124c1f1"
+        },
+        "acquisition_receipt": {
+          "path": ".scratch/constructed_additional_models_20261103/INPUT_ACQUISITION_AND_PREPARATION_RECEIPT.json",
+          "bytes": 11845,
+          "sha256": "7347112e9734f1f7bb63d16f6a7b6e907f6ac2d51b9b4cbef0e1bb7cb984d769"
+        },
+        "case_count": 15,
+        "exposed_retrospective": 9,
+        "hypothetical_no_truth_label": 6,
+        "root_read_scope": "Full15309B proposed15case criteria; full11845B acquisition receipt and full1077B freeze request, plus previously complete three source dossiers and material cumulative windows. All named current input bytes replay exact.",
+        "decision": "Accept unchanged scoped criteria. Construct three distinct bounded models and execute actual manual semantic/register traces after this freeze; independent review still required.",
+        "boundaries": [
+          "Mizusawa three clocks and exact waiting seam OPEN; mixed motives/local sharing/negotiation terms remain distinct.",
+          "Haruka active pleasure/inquiry/reading and pressure/dependence coexist; no therapy/private chapter leakage.",
+          "Rena strictly non-graphic ordinary gaming/taste/status/attributed formation/advice and third-person accountability; no erotic/sexual persona generation, sexual content involving minors, private biography or guaranteed reform.",
+          "No freeform Japanese dialogue in this tranche; source-derived local communicative-act/register constraints only."
+        ],
+        "amendment": "Preserve these frozen bytes and disclose already seen outputs before an attributable criteria amendment. Preserve failed models/tests and retest actual material successor changes.",
+        "human_permission_request": false,
+        "global_grade": false
+      }
+    }
+  ],
+  "artifact_type": "model_evidence_historical_record_shard",
+  "authority_class": "model_validation_provenance",
+  "status": "canonical",
+  "release_state": "immutable_freeze",
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_primary_literary_authority": true,
+  "supersedes": [],
+  "superseded_by": [],
+  "fixed_record_scope": "Exact historical analytical value/identity container; no wider model/literary/grade/publication authority. An attributable successor is required for change."
+}

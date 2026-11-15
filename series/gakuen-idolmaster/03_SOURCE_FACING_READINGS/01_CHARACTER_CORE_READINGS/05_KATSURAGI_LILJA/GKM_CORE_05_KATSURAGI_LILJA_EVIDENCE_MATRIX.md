@@ -68,3 +68,13 @@ This matrix routes the Phase-3 Lilja reading into falsifiable claims. `D-LILJA` 
 
 ### Culture / family / ordinary life
 `C16`, `C17`, `C18`, `C26`
+
+
+## Source Lock 1.1 supplement — 2026-11-12
+
+These claim rows apply to revision 86 A1. The [core supplement](GKM_CORE_05_KATSURAGI_LILJA.md#source-lock-11-supplement--2026-11-12) gives the observations and interpretations separately. The Source Lock 1.0 matrix above records the historical assessment.
+
+| Claim ID | Disposition and prior claim | Bounded finding and A1 locator | Story state | Counterevidence and limits |
+| --- | --- | --- | --- | --- |
+| `LILJA-R86-C01` | STRENGTHEN `LILJA-C18` and ADD related evidence for `LILJA-C30` | Campaign leadership means adjusting a method to another person. `adv_event_030_main-01.txt` M014–034, `adv_event_030_main-02.txt` M023–042, M052–070, `adv_event_030_main-04.txt` M023–070 and `adv_event_030_main-05.txt` M001–027. | C1 within E030, C2 relative to Lilja's main tracks. | The accepted retake establishes the job outcome within the event. The degree of change in voice and physical delivery remains open. |
+| `LILJA-R86-C02` | ADD to `LILJA-C18` and `LILJA-C19` | Costume craft develops through trust and control of disclosure. `adv_csprt-3-0111_02.txt` L6–148 and `adv_csprt-3-0111_03.txt` L11–166. | C1 within the Halloween preparation, C4 against the main tracks. | Lilja is still considering public idol use in this story. The relation between these Halloween preparations and the numbered event is unestablished. |

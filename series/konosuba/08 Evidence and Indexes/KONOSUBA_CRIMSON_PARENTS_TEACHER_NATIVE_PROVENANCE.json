@@ -1,0 +1,1308 @@
+{
+  "schema": "konosuba.crimson-parents-teacher.native-provenance.v1",
+  "authored_utc": "2026-10-21T00:37:46.061675+00:00",
+  "status": "INITIAL_FOUNDATION_BEFORE_EXACT_INPUTS_FIRST_BODIES_AND_CANONICAL_RECEIVING",
+  "published_base": "9b191f37ae735b24786a52a52f46d10e82609771",
+  "published_base_tree": "486141c171ff750e54d8e5a155bd4d9a6a485617",
+  "closed_cohort22_gate_sha256": "6ce3347d769e2ef95b67d31a0f08e25b78a3a4b6edeaad51aa3a7294eb7006c2",
+  "owning_authority_reload_sha256": "2886b34b8514290b0f121a97fd5c176a7c8afedc38ba770e7e54301549d458ad",
+  "all12_controls_and31_entering_models_rechecked_exact": true,
+  "subject_rows": [
+    {
+      "row": 39,
+      "name": "Yuiyui",
+      "native_name": "ゆいゆい",
+      "proposed_tier": 3,
+      "provisional_model_rules": 3
+    },
+    {
+      "row": 40,
+      "name": "Hyoizaburoo",
+      "native_name": "ひょいざぶろー",
+      "proposed_tier": 2,
+      "provisional_model_rules": 0
+    },
+    {
+      "row": 44,
+      "name": "Pucchin",
+      "native_name": "ぷっちん",
+      "proposed_tier": 3,
+      "provisional_model_rules": 3
+    }
+  ],
+  "known_scope": {
+    "unique_known_BASE_context_slots": 3992,
+    "text_members": 22,
+    "text_native_objects": 7,
+    "reference_native_objects": 1,
+    "total_native_objects": 8,
+    "actual_known_reference_image_views": 1,
+    "index_retrieval_rows": 49,
+    "whole_source_ruby_residual_image_set_admission_or_independent_validation_credit": 0
+  },
+  "metadata_retrieval": {
+    "canonical_root_objects_checked": 41,
+    "name_number_scan_sha256": "1905756f9f1fb264652d59b7e74e1791aa3c39a804570f99db2fdd38ee577846",
+    "broad_role_number_scan_sha256": "18573f7ed7c2dd50173b6050f90ca6d55f3ec41666d6fe537b130e3312ed74a0",
+    "actual_role_scan_execution_receipt": "b36f43",
+    "scope": "Only retrieval metadata; all native/current component register bytes verified. No semantic target appearance, exhaustive absence, full pass or independent credit. Excludes _duplicates and MAIN18."
+  },
+  "native_object_and_register_pins": [
+    {
+      "source": "MAIN-01",
+      "native_filename": "Konosuba - Main Series - Volume 01.epub",
+      "native_bytes": 7058492,
+      "native_sha256": "7a80b4f6c6761176927539a6274892f187f1171e773a3295225a8ab5389747c6",
+      "current_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V01_EXCLUDED_COMPONENT_REGISTER.json",
+          "sha256": "6ec254c1186ede68a739063e2421db583d396b011a10aba4fd8a4f71d22e655f"
+        }
+      ]
+    },
+    {
+      "source": "MAIN-05",
+      "native_filename": "Konosuba - Main Series - Volume 05.epub",
+      "native_bytes": 14376279,
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "current_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V05_EXCLUDED_COMPONENT_REGISTER.json",
+          "sha256": "a8d47cffa2b1a1de2099b9dfbfe8aab328e903a986a173d039b981581468462d"
+        }
+      ]
+    },
+    {
+      "source": "MAIN-11",
+      "native_filename": "Konosuba - Main Series - Volume 11.epub",
+      "native_bytes": 6177663,
+      "native_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+      "current_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V11_EXCLUDED_COMPONENT_REGISTER.json",
+          "sha256": "d323c2fad7915c46bfe9d041350e8aec40561f23741abfbbf00a6fac913b9dc4"
+        }
+      ]
+    },
+    {
+      "source": "MAIN-14",
+      "native_filename": "Konosuba - Main Series - Volume 14.epub",
+      "native_bytes": 2839172,
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "current_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V14_EXCLUDED_COMPONENT_REGISTER.json",
+          "sha256": "67dd17b1d29f61183d6cc6dfbeed68335be3cfdfc58189dcae65a9346fc3285f"
+        }
+      ]
+    },
+    {
+      "source": "EXP-01",
+      "native_filename": "Konosuba - Spin-off - Explosions - Volume 01.epub",
+      "native_bytes": 19168549,
+      "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "current_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Explosions\\KONOSUBA_EXP_V01_COMPONENT_REGISTER.json",
+          "sha256": "28bbfa4f4a7914cf1e4318230a810855f97eb13f071e99237a09e086ae2ea2be"
+        }
+      ]
+    },
+    {
+      "source": "EXP-02",
+      "native_filename": "Konosuba - Spin-off - Explosions - Volume 02.epub",
+      "native_bytes": 13672536,
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "current_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Explosions\\KONOSUBA_EXP_V02_COMPONENT_REGISTER.json",
+          "sha256": "9d9bb676fe0fa9a813153993d1b2a2a1b196df103b2c8ee469763e1b77b3e2b8"
+        }
+      ]
+    },
+    {
+      "source": "CONTEXP-01",
+      "native_filename": "Konosuba - Spin-off - Continued Explosions - Volume 01.epub",
+      "native_bytes": 18609246,
+      "native_sha256": "60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f",
+      "current_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Continued Explosions\\KONOSUBA_CONTEXP_V01_COMPONENT_REGISTER.json",
+          "sha256": "8c31cb78d30d549864623f781fad193e5457b9b0cad722fe5e1cb45dcf7a3120"
+        }
+      ]
+    },
+    {
+      "source": "FAN-MEM",
+      "native_filename": "Konosuba - Fanbook - Official Memorial Fanbook.epub",
+      "native_bytes": 69401330,
+      "native_sha256": "e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d",
+      "current_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Reference\\KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json",
+          "sha256": "526ce342424786a408f67de0e35d3fb282f6df4e29208b807f19036a00f10fac"
+        }
+      ]
+    }
+  ],
+  "actual_member_unions": [
+    {
+      "source": "CONTEXP-01",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "fddde7e2b79954035eb31215c302cf1e38c851ef5156117f530fc308557d7984",
+      "unique_known_BASE_slots": 61,
+      "actual_BASE_intervals": [
+        [
+          285,
+          345
+        ]
+      ]
+    },
+    {
+      "source": "EXP-01",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+      "unique_known_BASE_slots": 614,
+      "actual_BASE_intervals": [
+        [
+          1,
+          614
+        ]
+      ]
+    },
+    {
+      "source": "EXP-01",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+      "unique_known_BASE_slots": 703,
+      "actual_BASE_intervals": [
+        [
+          1,
+          703
+        ]
+      ]
+    },
+    {
+      "source": "EXP-01",
+      "member": "item/xhtml/p-018.xhtml",
+      "member_sha256": "7a80854b35590237f585e783e73eb82042f55eaf9a07e301566c1690356cff97",
+      "unique_known_BASE_slots": 120,
+      "actual_BASE_intervals": [
+        [
+          1,
+          120
+        ]
+      ]
+    },
+    {
+      "source": "EXP-01",
+      "member": "item/xhtml/p-024.xhtml",
+      "member_sha256": "3f41c401eed63de1de9dcb486461831e3caa77dccf0eafdb7451107600d984fd",
+      "unique_known_BASE_slots": 114,
+      "actual_BASE_intervals": [
+        [
+          1,
+          65
+        ],
+        [
+          131,
+          179
+        ]
+      ]
+    },
+    {
+      "source": "EXP-01",
+      "member": "item/xhtml/p-027.xhtml",
+      "member_sha256": "60647d2820d49b2b7ac5570c5013f18e6ab080aaa434672a2ab59421a58532da",
+      "unique_known_BASE_slots": 173,
+      "actual_BASE_intervals": [
+        [
+          1,
+          110
+        ],
+        [
+          365,
+          427
+        ]
+      ]
+    },
+    {
+      "source": "EXP-01",
+      "member": "item/xhtml/p-033.xhtml",
+      "member_sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+      "unique_known_BASE_slots": 125,
+      "actual_BASE_intervals": [
+        [
+          490,
+          614
+        ]
+      ]
+    },
+    {
+      "source": "EXP-02",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "unique_known_BASE_slots": 137,
+      "actual_BASE_intervals": [
+        [
+          65,
+          135
+        ],
+        [
+          280,
+          345
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-01",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "f184bf1a9a03d32616c2f3553ba58e65e70eba684f55252014b7c01a12b314b1",
+      "unique_known_BASE_slots": 36,
+      "actual_BASE_intervals": [
+        [
+          370,
+          405
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "e594379825efe0dfcca71841eb0d656c335f6467b498ff3e7a391e71bab018e3",
+      "unique_known_BASE_slots": 66,
+      "actual_BASE_intervals": [
+        [
+          230,
+          295
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_sha256": "52e7eede0b901ef0e86aade6d2650a2f9c98371d1d586a263818cc4754a8da79",
+      "unique_known_BASE_slots": 139,
+      "actual_BASE_intervals": [
+        [
+          50,
+          110
+        ],
+        [
+          180,
+          257
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "2e2215d572de125d3427f3f08f0bdb4862ef7215f3933139f8000d06ecce58d0",
+      "unique_known_BASE_slots": 244,
+      "actual_BASE_intervals": [
+        [
+          1,
+          244
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-014.xhtml",
+      "member_sha256": "62a0d3c64b2c9c6b5213017d5bf2c080ac4e85d11199319f8c02836099b7f3b3",
+      "unique_known_BASE_slots": 292,
+      "actual_BASE_intervals": [
+        [
+          220,
+          355
+        ],
+        [
+          475,
+          630
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-018.xhtml",
+      "member_sha256": "5c7d2e5b201ebf54c3616a567bfb8b03f99f80a8bb20a0bb8a61c5b8088bca64",
+      "unique_known_BASE_slots": 132,
+      "actual_BASE_intervals": [
+        [
+          560,
+          625
+        ],
+        [
+          735,
+          800
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-11",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "402519269fae35532674fbb60f7fdb8b42df28e725a4b27c30639aafcfdd971f",
+      "unique_known_BASE_slots": 56,
+      "actual_BASE_intervals": [
+        [
+          205,
+          260
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-11",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "3c906a437c23241ca003a012cedc1461282eb8a9e4c4bf5781231f02b4984760",
+      "unique_known_BASE_slots": 56,
+      "actual_BASE_intervals": [
+        [
+          145,
+          200
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-11",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "6d37867cc78380b4980018711fc5e494540d6d2d774f85274b606108ae2b7c6d",
+      "unique_known_BASE_slots": 253,
+      "actual_BASE_intervals": [
+        [
+          95,
+          150
+        ],
+        [
+          170,
+          315
+        ],
+        [
+          370,
+          420
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-11",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "411be22a287cad0c8c0c0a1539b2115736cefdb3913fbcc172779045a3f76d25",
+      "unique_known_BASE_slots": 143,
+      "actual_BASE_intervals": [
+        [
+          1,
+          143
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0010.xhtml",
+      "member_sha256": "10ed143a5cf74a48533cc4d858b92143cdc2464a197dff54189122b7ebc6119c",
+      "unique_known_BASE_slots": 66,
+      "actual_BASE_intervals": [
+        [
+          265,
+          330
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "member_sha256": "17f21fce2f092f99ce3a4804e8f6e9a4090ceb54132d3f3cf96676222cf835d4",
+      "unique_known_BASE_slots": 211,
+      "actual_BASE_intervals": [
+        [
+          205,
+          330
+        ],
+        [
+          445,
+          490
+        ],
+        [
+          535,
+          573
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0012.xhtml",
+      "member_sha256": "aa8db56f63b180d4740d7bd38d974c0490b2fd79211fc42e433d23131e19d23b",
+      "unique_known_BASE_slots": 136,
+      "actual_BASE_intervals": [
+        [
+          1,
+          65
+        ],
+        [
+          180,
+          250
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319",
+      "unique_known_BASE_slots": 115,
+      "actual_BASE_intervals": [
+        [
+          1,
+          115
+        ]
+      ]
+    }
+  ],
+  "actual_complete_native_windows": [
+    {
+      "receipt": 1,
+      "source": "MAIN-01",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "f184bf1a9a03d32616c2f3553ba58e65e70eba684f55252014b7c01a12b314b1",
+      "first": 370,
+      "last": 405,
+      "paragraph_slots": 36,
+      "actual_complete_tool_chunk": "00fbcf"
+    },
+    {
+      "receipt": 1,
+      "source": "EXP-01",
+      "unit": "EXP-01-U023",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+      "first": 170,
+      "last": 220,
+      "paragraph_slots": 51,
+      "actual_complete_tool_chunk": "5cdcbf"
+    },
+    {
+      "receipt": 1,
+      "source": "EXP-01",
+      "unit": "EXP-01-U018",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+      "first": 160,
+      "last": 220,
+      "paragraph_slots": 61,
+      "actual_complete_tool_chunk": "fd51be"
+    },
+    {
+      "receipt": 2,
+      "source": "EXP-01",
+      "unit": "EXP-01-U018",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+      "first": 221,
+      "last": 280,
+      "paragraph_slots": 60,
+      "actual_complete_tool_chunk": "2b23ce"
+    },
+    {
+      "receipt": 3,
+      "source": "MAIN-05",
+      "unit": "C3_start / start",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_sha256": "52e7eede0b901ef0e86aade6d2650a2f9c98371d1d586a263818cc4754a8da79",
+      "first": 180,
+      "last": 220,
+      "paragraph_slots": 41,
+      "actual_complete_tool_chunk": "c6936d"
+    },
+    {
+      "receipt": 3,
+      "source": "MAIN-05",
+      "unit": "C3_start / start",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_sha256": "52e7eede0b901ef0e86aade6d2650a2f9c98371d1d586a263818cc4754a8da79",
+      "first": 221,
+      "last": 257,
+      "paragraph_slots": 37,
+      "actual_complete_tool_chunk": "2d68c1"
+    },
+    {
+      "receipt": 3,
+      "source": "MAIN-05",
+      "unit": "C3 / continuation",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "2e2215d572de125d3427f3f08f0bdb4862ef7215f3933139f8000d06ecce58d0",
+      "first": 1,
+      "last": 65,
+      "paragraph_slots": 65,
+      "actual_complete_tool_chunk": "088066"
+    },
+    {
+      "receipt": 3,
+      "source": "MAIN-05",
+      "unit": "C3 / continuation",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "2e2215d572de125d3427f3f08f0bdb4862ef7215f3933139f8000d06ecce58d0",
+      "first": 66,
+      "last": 125,
+      "paragraph_slots": 60,
+      "actual_complete_tool_chunk": "45cbed"
+    },
+    {
+      "receipt": 3,
+      "source": "MAIN-05",
+      "unit": "C3 / continuation",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "2e2215d572de125d3427f3f08f0bdb4862ef7215f3933139f8000d06ecce58d0",
+      "first": 126,
+      "last": 185,
+      "paragraph_slots": 60,
+      "actual_complete_tool_chunk": "9a31b7"
+    },
+    {
+      "receipt": 3,
+      "source": "MAIN-05",
+      "unit": "C3 / continuation",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "2e2215d572de125d3427f3f08f0bdb4862ef7215f3933139f8000d06ecce58d0",
+      "first": 186,
+      "last": 244,
+      "paragraph_slots": 59,
+      "actual_complete_tool_chunk": "61d8c2"
+    },
+    {
+      "receipt": 4,
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "e594379825efe0dfcca71841eb0d656c335f6467b498ff3e7a391e71bab018e3",
+      "first": 230,
+      "last": 295,
+      "paragraph_slots": 66,
+      "actual_complete_tool_chunk": "f6daeb"
+    },
+    {
+      "receipt": 4,
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-014.xhtml",
+      "member_sha256": "62a0d3c64b2c9c6b5213017d5bf2c080ac4e85d11199319f8c02836099b7f3b3",
+      "first": 220,
+      "last": 285,
+      "paragraph_slots": 66,
+      "actual_complete_tool_chunk": "ebff00"
+    },
+    {
+      "receipt": 4,
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-014.xhtml",
+      "member_sha256": "62a0d3c64b2c9c6b5213017d5bf2c080ac4e85d11199319f8c02836099b7f3b3",
+      "first": 286,
+      "last": 355,
+      "paragraph_slots": 70,
+      "actual_complete_tool_chunk": "40b61e"
+    },
+    {
+      "receipt": 4,
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-014.xhtml",
+      "member_sha256": "62a0d3c64b2c9c6b5213017d5bf2c080ac4e85d11199319f8c02836099b7f3b3",
+      "first": 475,
+      "last": 540,
+      "paragraph_slots": 66,
+      "actual_complete_tool_chunk": "444e4c"
+    },
+    {
+      "receipt": 4,
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-014.xhtml",
+      "member_sha256": "62a0d3c64b2c9c6b5213017d5bf2c080ac4e85d11199319f8c02836099b7f3b3",
+      "first": 541,
+      "last": 590,
+      "paragraph_slots": 50,
+      "actual_complete_tool_chunk": "6d22b6"
+    },
+    {
+      "receipt": 4,
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-014.xhtml",
+      "member_sha256": "62a0d3c64b2c9c6b5213017d5bf2c080ac4e85d11199319f8c02836099b7f3b3",
+      "first": 591,
+      "last": 630,
+      "paragraph_slots": 40,
+      "actual_complete_tool_chunk": "418f55"
+    },
+    {
+      "receipt": 4,
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-018.xhtml",
+      "member_sha256": "5c7d2e5b201ebf54c3616a567bfb8b03f99f80a8bb20a0bb8a61c5b8088bca64",
+      "first": 560,
+      "last": 625,
+      "paragraph_slots": 66,
+      "actual_complete_tool_chunk": "981421"
+    },
+    {
+      "receipt": 4,
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-018.xhtml",
+      "member_sha256": "5c7d2e5b201ebf54c3616a567bfb8b03f99f80a8bb20a0bb8a61c5b8088bca64",
+      "first": 735,
+      "last": 800,
+      "paragraph_slots": 66,
+      "actual_complete_tool_chunk": "22cf8f"
+    },
+    {
+      "receipt": 5,
+      "source": "MAIN-11",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "411be22a287cad0c8c0c0a1539b2115736cefdb3913fbcc172779045a3f76d25",
+      "first": 55,
+      "last": 115,
+      "paragraph_slots": 61,
+      "actual_complete_tool_chunk": "b6924b"
+    },
+    {
+      "receipt": 5,
+      "source": "MAIN-11",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "411be22a287cad0c8c0c0a1539b2115736cefdb3913fbcc172779045a3f76d25",
+      "first": 116,
+      "last": 143,
+      "paragraph_slots": 28,
+      "actual_complete_tool_chunk": "f808ed"
+    },
+    {
+      "receipt": 5,
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0010.xhtml",
+      "member_sha256": "10ed143a5cf74a48533cc4d858b92143cdc2464a197dff54189122b7ebc6119c",
+      "first": 265,
+      "last": 330,
+      "paragraph_slots": 66,
+      "actual_complete_tool_chunk": "8fa123"
+    },
+    {
+      "receipt": 5,
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "member_sha256": "17f21fce2f092f99ce3a4804e8f6e9a4090ceb54132d3f3cf96676222cf835d4",
+      "first": 205,
+      "last": 275,
+      "paragraph_slots": 71,
+      "actual_complete_tool_chunk": "218d2d"
+    },
+    {
+      "receipt": 5,
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0012.xhtml",
+      "member_sha256": "aa8db56f63b180d4740d7bd38d974c0490b2fd79211fc42e433d23131e19d23b",
+      "first": 1,
+      "last": 65,
+      "paragraph_slots": 65,
+      "actual_complete_tool_chunk": "a2b824"
+    },
+    {
+      "receipt": 5,
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0012.xhtml",
+      "member_sha256": "aa8db56f63b180d4740d7bd38d974c0490b2fd79211fc42e433d23131e19d23b",
+      "first": 180,
+      "last": 250,
+      "paragraph_slots": 71,
+      "actual_complete_tool_chunk": "52d08d"
+    },
+    {
+      "receipt": 5,
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319",
+      "first": 1,
+      "last": 65,
+      "paragraph_slots": 65,
+      "actual_complete_tool_chunk": "1424f4"
+    },
+    {
+      "receipt": 6,
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "member_sha256": "17f21fce2f092f99ce3a4804e8f6e9a4090ceb54132d3f3cf96676222cf835d4",
+      "first": 276,
+      "last": 330,
+      "paragraph_slots": 55,
+      "actual_complete_tool_chunk": "344fc1"
+    },
+    {
+      "receipt": 6,
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "member_sha256": "17f21fce2f092f99ce3a4804e8f6e9a4090ceb54132d3f3cf96676222cf835d4",
+      "first": 445,
+      "last": 490,
+      "paragraph_slots": 46,
+      "actual_complete_tool_chunk": "adc714"
+    },
+    {
+      "receipt": 6,
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319",
+      "first": 66,
+      "last": 115,
+      "paragraph_slots": 50,
+      "actual_complete_tool_chunk": "ab2554"
+    },
+    {
+      "receipt": 6,
+      "source": "MAIN-11",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "6d37867cc78380b4980018711fc5e494540d6d2d774f85274b606108ae2b7c6d",
+      "first": 95,
+      "last": 150,
+      "paragraph_slots": 56,
+      "actual_complete_tool_chunk": "7b5bab"
+    },
+    {
+      "receipt": 6,
+      "source": "MAIN-11",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "6d37867cc78380b4980018711fc5e494540d6d2d774f85274b606108ae2b7c6d",
+      "first": 170,
+      "last": 230,
+      "paragraph_slots": 61,
+      "actual_complete_tool_chunk": "632f8e"
+    },
+    {
+      "receipt": 6,
+      "source": "MAIN-11",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "6d37867cc78380b4980018711fc5e494540d6d2d774f85274b606108ae2b7c6d",
+      "first": 250,
+      "last": 315,
+      "paragraph_slots": 66,
+      "actual_complete_tool_chunk": "68b85d"
+    },
+    {
+      "receipt": 6,
+      "source": "MAIN-11",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "6d37867cc78380b4980018711fc5e494540d6d2d774f85274b606108ae2b7c6d",
+      "first": 370,
+      "last": 420,
+      "paragraph_slots": 51,
+      "actual_complete_tool_chunk": "a786e1"
+    },
+    {
+      "receipt": 6,
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "member_sha256": "17f21fce2f092f99ce3a4804e8f6e9a4090ceb54132d3f3cf96676222cf835d4",
+      "first": 535,
+      "last": 573,
+      "paragraph_slots": 39,
+      "actual_complete_tool_chunk": "904094"
+    },
+    {
+      "receipt": 6,
+      "source": "EXP-01",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+      "first": 1,
+      "last": 65,
+      "paragraph_slots": 65,
+      "actual_complete_tool_chunk": "22d2f9"
+    },
+    {
+      "receipt": 6,
+      "source": "EXP-01",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+      "first": 66,
+      "last": 130,
+      "paragraph_slots": 65,
+      "actual_complete_tool_chunk": "cfc09d"
+    },
+    {
+      "receipt": 6,
+      "source": "EXP-01",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+      "first": 131,
+      "last": 159,
+      "paragraph_slots": 29,
+      "actual_complete_tool_chunk": "65fb39"
+    },
+    {
+      "receipt": 6,
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_sha256": "52e7eede0b901ef0e86aade6d2650a2f9c98371d1d586a263818cc4754a8da79",
+      "first": 50,
+      "last": 110,
+      "paragraph_slots": 61,
+      "actual_complete_tool_chunk": "52fca7"
+    },
+    {
+      "receipt": 7,
+      "source": "EXP-01",
+      "unit": "U018",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+      "first": 281,
+      "last": 345,
+      "paragraph_slots": 65,
+      "actual_complete_tool_chunk": "4ed1e1"
+    },
+    {
+      "receipt": 7,
+      "source": "EXP-01",
+      "unit": "U018",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+      "first": 346,
+      "last": 410,
+      "paragraph_slots": 65,
+      "actual_complete_tool_chunk": "cfe6d1"
+    },
+    {
+      "receipt": 7,
+      "source": "EXP-01",
+      "unit": "U018",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+      "first": 411,
+      "last": 475,
+      "paragraph_slots": 65,
+      "actual_complete_tool_chunk": "87b416"
+    },
+    {
+      "receipt": 7,
+      "source": "EXP-01",
+      "unit": "U018",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+      "first": 476,
+      "last": 540,
+      "paragraph_slots": 65,
+      "actual_complete_tool_chunk": "23b15d"
+    },
+    {
+      "receipt": 7,
+      "source": "EXP-01",
+      "unit": "U018",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+      "first": 541,
+      "last": 614,
+      "paragraph_slots": 74,
+      "actual_complete_tool_chunk": "fde28d"
+    },
+    {
+      "receipt": 7,
+      "source": "EXP-02",
+      "unit": "U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "first": 65,
+      "last": 135,
+      "paragraph_slots": 71,
+      "actual_complete_tool_chunk": "1b51cd"
+    },
+    {
+      "receipt": 7,
+      "source": "EXP-02",
+      "unit": "U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "first": 280,
+      "last": 345,
+      "paragraph_slots": 66,
+      "actual_complete_tool_chunk": "68fe49"
+    },
+    {
+      "receipt": 7,
+      "source": "CONTEXP-01",
+      "unit": "U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "fddde7e2b79954035eb31215c302cf1e38c851ef5156117f530fc308557d7984",
+      "first": 285,
+      "last": 345,
+      "paragraph_slots": 61,
+      "actual_complete_tool_chunk": "e0f5e3"
+    },
+    {
+      "receipt": 8,
+      "source": "EXP-01",
+      "unit": "EXP-01-U023",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+      "first": 1,
+      "last": 65,
+      "paragraph_slots": 65,
+      "actual_complete_tool_chunk": "acafa3"
+    },
+    {
+      "receipt": 8,
+      "source": "EXP-01",
+      "unit": "EXP-01-U023",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+      "first": 66,
+      "last": 130,
+      "paragraph_slots": 65,
+      "actual_complete_tool_chunk": "309120"
+    },
+    {
+      "receipt": 8,
+      "source": "EXP-01",
+      "unit": "EXP-01-U023",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+      "first": 131,
+      "last": 169,
+      "paragraph_slots": 39,
+      "actual_complete_tool_chunk": "132319"
+    },
+    {
+      "receipt": 8,
+      "source": "EXP-01",
+      "unit": "EXP-01-U023",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+      "first": 221,
+      "last": 285,
+      "paragraph_slots": 65,
+      "actual_complete_tool_chunk": "9da85c"
+    },
+    {
+      "receipt": 8,
+      "source": "EXP-01",
+      "unit": "EXP-01-U023",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+      "first": 286,
+      "last": 350,
+      "paragraph_slots": 65,
+      "actual_complete_tool_chunk": "fe64b4"
+    },
+    {
+      "receipt": 8,
+      "source": "EXP-01",
+      "unit": "EXP-01-U023",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+      "first": 351,
+      "last": 415,
+      "paragraph_slots": 65,
+      "actual_complete_tool_chunk": "040938"
+    },
+    {
+      "receipt": 8,
+      "source": "EXP-01",
+      "unit": "EXP-01-U023",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+      "first": 416,
+      "last": 480,
+      "paragraph_slots": 65,
+      "actual_complete_tool_chunk": "8bf263"
+    },
+    {
+      "receipt": 8,
+      "source": "EXP-01",
+      "unit": "EXP-01-U023",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+      "first": 481,
+      "last": 545,
+      "paragraph_slots": 65,
+      "actual_complete_tool_chunk": "662322"
+    },
+    {
+      "receipt": 8,
+      "source": "EXP-01",
+      "unit": "EXP-01-U023",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+      "first": 546,
+      "last": 610,
+      "paragraph_slots": 65,
+      "actual_complete_tool_chunk": "5609fd"
+    },
+    {
+      "receipt": 8,
+      "source": "EXP-01",
+      "unit": "EXP-01-U023",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+      "first": 611,
+      "last": 645,
+      "paragraph_slots": 35,
+      "actual_complete_tool_chunk": "025659"
+    },
+    {
+      "receipt": 8,
+      "source": "EXP-01",
+      "unit": "EXP-01-U023",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+      "first": 646,
+      "last": 675,
+      "paragraph_slots": 30,
+      "actual_complete_tool_chunk": "dad7c1"
+    },
+    {
+      "receipt": 8,
+      "source": "EXP-01",
+      "unit": "EXP-01-U023",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+      "first": 676,
+      "last": 703,
+      "paragraph_slots": 28,
+      "actual_complete_tool_chunk": "19186a"
+    },
+    {
+      "receipt": 9,
+      "source": "EXP-01",
+      "unit": "EXP-01-U034",
+      "member": "item/xhtml/p-024.xhtml",
+      "member_sha256": "3f41c401eed63de1de9dcb486461831e3caa77dccf0eafdb7451107600d984fd",
+      "first": 1,
+      "last": 65,
+      "paragraph_slots": 65,
+      "actual_complete_tool_chunk": "626d8d"
+    },
+    {
+      "receipt": 9,
+      "source": "EXP-01",
+      "unit": "EXP-01-U034",
+      "member": "item/xhtml/p-024.xhtml",
+      "member_sha256": "3f41c401eed63de1de9dcb486461831e3caa77dccf0eafdb7451107600d984fd",
+      "first": 131,
+      "last": 179,
+      "paragraph_slots": 49,
+      "actual_complete_tool_chunk": "a08c21"
+    },
+    {
+      "receipt": 9,
+      "source": "EXP-01",
+      "unit": "EXP-01-U037",
+      "member": "item/xhtml/p-027.xhtml",
+      "member_sha256": "60647d2820d49b2b7ac5570c5013f18e6ab080aaa434672a2ab59421a58532da",
+      "first": 1,
+      "last": 65,
+      "paragraph_slots": 65,
+      "actual_complete_tool_chunk": "77118b"
+    },
+    {
+      "receipt": 9,
+      "source": "EXP-01",
+      "unit": "EXP-01-U037",
+      "member": "item/xhtml/p-027.xhtml",
+      "member_sha256": "60647d2820d49b2b7ac5570c5013f18e6ab080aaa434672a2ab59421a58532da",
+      "first": 66,
+      "last": 110,
+      "paragraph_slots": 45,
+      "actual_complete_tool_chunk": "369d5f"
+    },
+    {
+      "receipt": 9,
+      "source": "EXP-01",
+      "unit": "EXP-01-U037",
+      "member": "item/xhtml/p-027.xhtml",
+      "member_sha256": "60647d2820d49b2b7ac5570c5013f18e6ab080aaa434672a2ab59421a58532da",
+      "first": 365,
+      "last": 427,
+      "paragraph_slots": 63,
+      "actual_complete_tool_chunk": "356216"
+    },
+    {
+      "receipt": 9,
+      "source": "EXP-01",
+      "unit": "EXP-01-U043",
+      "member": "item/xhtml/p-033.xhtml",
+      "member_sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+      "first": 490,
+      "last": 555,
+      "paragraph_slots": 66,
+      "actual_complete_tool_chunk": "1db76f"
+    },
+    {
+      "receipt": 9,
+      "source": "EXP-01",
+      "unit": "EXP-01-U043",
+      "member": "item/xhtml/p-033.xhtml",
+      "member_sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+      "first": 556,
+      "last": 614,
+      "paragraph_slots": 59,
+      "actual_complete_tool_chunk": "11bedb"
+    },
+    {
+      "receipt": 10,
+      "source": "EXP-01",
+      "unit": "EXP-01-U028",
+      "member": "item/xhtml/p-018.xhtml",
+      "member_sha256": "7a80854b35590237f585e783e73eb82042f55eaf9a07e301566c1690356cff97",
+      "first": 1,
+      "last": 65,
+      "paragraph_slots": 65,
+      "actual_complete_tool_chunk": "2bfe6e"
+    },
+    {
+      "receipt": 10,
+      "source": "EXP-01",
+      "unit": "EXP-01-U028",
+      "member": "item/xhtml/p-018.xhtml",
+      "member_sha256": "7a80854b35590237f585e783e73eb82042f55eaf9a07e301566c1690356cff97",
+      "first": 66,
+      "last": 120,
+      "paragraph_slots": 55,
+      "actual_complete_tool_chunk": "d58c0c"
+    },
+    {
+      "receipt": 11,
+      "source": "MAIN-11",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "402519269fae35532674fbb60f7fdb8b42df28e725a4b27c30639aafcfdd971f",
+      "first": 205,
+      "last": 260,
+      "paragraph_slots": 56,
+      "actual_complete_tool_chunk": "97a420"
+    },
+    {
+      "receipt": 11,
+      "source": "MAIN-11",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "411be22a287cad0c8c0c0a1539b2115736cefdb3913fbcc172779045a3f76d25",
+      "first": 1,
+      "last": 54,
+      "paragraph_slots": 54,
+      "actual_complete_tool_chunk": "04aa39"
+    },
+    {
+      "receipt": 11,
+      "source": "MAIN-11",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "3c906a437c23241ca003a012cedc1461282eb8a9e4c4bf5781231f02b4984760",
+      "first": 145,
+      "last": 200,
+      "paragraph_slots": 56,
+      "actual_complete_tool_chunk": "30ef35"
+    },
+    {
+      "receipt": 11,
+      "source": "MAIN-11",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "6d37867cc78380b4980018711fc5e494540d6d2d774f85274b606108ae2b7c6d",
+      "first": 231,
+      "last": 249,
+      "paragraph_slots": 19,
+      "actual_complete_tool_chunk": "d736e2"
+    }
+  ],
+  "private_receipt_chain_pins": [
+    {
+      "file": "CRIMSON_PARENTS_TEACHER_ACTUAL_KNOWN_PREPARATION_RECEIVING_01.json",
+      "bytes": 5396,
+      "sha256": "b583582431af8f153372300aed56b2746699bdde49bf176f2e9462efea6e2298",
+      "cumulative_unique_known_BASE_slots": 148
+    },
+    {
+      "file": "CRIMSON_PARENTS_TEACHER_ACTUAL_KNOWN_PREPARATION_RECEIVING_02.json",
+      "bytes": 2685,
+      "sha256": "d95528b633c2d9559dab6a7ff58d02a43ae9f1b9f15062fc0ebf4918f9ec29aa",
+      "cumulative_unique_known_BASE_slots": 208
+    },
+    {
+      "file": "CRIMSON_PARENTS_TEACHER_ACTUAL_KNOWN_PREPARATION_RECEIVING_03.json",
+      "bytes": 5642,
+      "sha256": "995feab25e5c69eb81fda38b792383e5d261c34babf4b38423e9889f04c5d11e",
+      "cumulative_unique_known_BASE_slots": 530
+    },
+    {
+      "file": "CRIMSON_PARENTS_TEACHER_ACTUAL_KNOWN_PREPARATION_RECEIVING_04.json",
+      "bytes": 5481,
+      "sha256": "9626a4acee7b5a7093ec46e9a50a309d0a9db1aeb27992447030ecd4527b1f6c",
+      "cumulative_unique_known_BASE_slots": 1020
+    },
+    {
+      "file": "CRIMSON_PARENTS_TEACHER_ACTUAL_KNOWN_PREPARATION_RECEIVING_05.json",
+      "bytes": 6804,
+      "sha256": "e72c05b99c74c5a1c76ce66c04695ad3093d4a9a7f9fdba5007308dd3ac974ed",
+      "cumulative_unique_known_BASE_slots": 1447
+    },
+    {
+      "file": "CRIMSON_PARENTS_TEACHER_ACTUAL_KNOWN_PREPARATION_RECEIVING_06.json",
+      "bytes": 8293,
+      "sha256": "f7d0596d379bc887c751e3f88c83bc8599578d8927367be01e02883d93f56ae7",
+      "cumulative_unique_known_BASE_slots": 2091
+    },
+    {
+      "file": "CRIMSON_PARENTS_TEACHER_ACTUAL_KNOWN_PREPARATION_RECEIVING_07.json",
+      "bytes": 7359,
+      "sha256": "45e19c26c7ab8d7d7dde58ee0df52157f9f572451d04f2fea9a37c2e252a6a1f",
+      "cumulative_unique_known_BASE_slots": 2623
+    },
+    {
+      "file": "CRIMSON_PARENTS_TEACHER_ACTUAL_KNOWN_PREPARATION_RECEIVING_08.json",
+      "bytes": 8654,
+      "sha256": "9ece7c805a6e8d0ea15271d02b4adf4a5ea0d3f569b7b20421fc7b8956ae997b",
+      "cumulative_unique_known_BASE_slots": 3275
+    },
+    {
+      "file": "CRIMSON_PARENTS_TEACHER_ACTUAL_KNOWN_PREPARATION_RECEIVING_09.json",
+      "bytes": 6639,
+      "sha256": "c9563619341813ac21a95aec7813337482caa5e50fa6248ff8803b60f4f60c4e",
+      "cumulative_unique_known_BASE_slots": 3687
+    },
+    {
+      "file": "CRIMSON_PARENTS_TEACHER_ACTUAL_KNOWN_PREPARATION_RECEIVING_10.json",
+      "bytes": 4876,
+      "sha256": "c05b56ad6c6556b6dc09c3804478f15661e8ed40b5443eee06bc4013652df60e",
+      "cumulative_unique_known_BASE_slots": 3807
+    },
+    {
+      "file": "CRIMSON_PARENTS_TEACHER_ACTUAL_KNOWN_PREPARATION_RECEIVING_11.json",
+      "bytes": 4056,
+      "sha256": "b27e76d749ba09d70d46bc28a7357c97a227fe4912f9f7957d3a55eea437c329",
+      "cumulative_unique_known_BASE_slots": 3992
+    }
+  ],
+  "actual_known_reference_image_views": [
+    {
+      "source": "FAN-MEM",
+      "page_id": "FAN-MEM-S036",
+      "printed_page": "34",
+      "native_image_member": "item/image/i-034.jpg",
+      "native_image_sha256": "f3d1720f9c744653129a3ea2a7bfd9ccf32c0ad7c66f63a662c667e1df834e4c",
+      "native_image_bytes": 705239,
+      "native_wrapper_member": "item/xhtml/p-034.xhtml",
+      "native_wrapper_sha256": "600ae7c1a76e9fda0413bfd1c7e533ccf78ba163ec8460964853a347075c929b",
+      "native_sha256": "e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d",
+      "register_sha256": "526ce342424786a408f67de0e35d3fb282f6df4e29208b807f19036a00f10fac",
+      "actual_view": "functions.exec forwarded tools.view_image original image after extraction7d860f; displayed1448x2048 resized1334x1888, all four profile texts actually legible/read",
+      "scope": "Known accepted editorial reference view; no new image-set/fiction/independent-event admission or validation"
+    }
+  ],
+  "index_draft_sha256": "3d38c1c7bda9ad7c56eb1a8e0d15ce8fcbfaaf35188779078776f484a4e046b9",
+  "source_access_qualifications": [
+    "BASE slots include contexts and rejected joins; retrieval rows are not independent observations or a final population. Scope shared among three targets, minor roles and unrelated actors.",
+    "Parents own actions/words distinct from daughter report, Kazuma private inference, child memo, Wiz/Chekera testimony and editorial appraisal. Current chief is Yunyun father. Her privacy/wish/consent not supplied by mother approval.",
+    "Pucchin direct selfname ties homeroom role; ambition not promotion. Separate medical/principal/workshop roles not automatically joined. CONTEXP01 pudding hit rejected as teacher.",
+    "Original sources/programs were accepted earlier at declared scopes. Full BASE on EXP01U018/U023 is bounded reinspection only, no new ruby/whole-source pass or independent decision count.",
+    "Pucchin prop weapons do not establish actual metal-weight strength; effective cast and bad rescue delay coexist. Pupil completed-chant testimony and teacher timing admission retain separate access.",
+    "Weather stops later by teacher report/compatible exterior; exact joint repair unobserved. True damaged seal report can coexist with wrong self-created-rain attribution; deliberate sabotage is narrator suspicion.",
+    "Pucchin recipe/material support is own grant; patient/diagnosis/manufacture/handover/cure/payment separate. CreateWater heard without named caster remains unassigned. Apparent secrecy motive is narrator inference.",
+    "Yui failed Sleep/Paralyze and later Darkness neutralization report both preserved; exact final method unknown. Mutual passed-out aftermath limits drinking plan without proving winner, promise kept or final arrangement.",
+    "Hyo crafting quality/spending/absence largely reported. Extra remittance expenditure is Megumin forecast. FAN-MEM editorial report of Wiz favorable skill appraisal and family defects answer different questions. No completed buyer trade independently watched.",
+    "FAN-MEM page is editorial, no additional independent novel action. Mother slimness explicitly inferred from family claim; locking not physical chains. Arue/Neri adjacent context does not rewrite prior cores.",
+    "Fourteen new discovery slots include separately bounded shops/staff, roster names, messenger, three letter occurrences and unresolved parent group. Overlap/identity/unique-person count remain unresolved; no automatic full models for minor names.",
+    "All31 entering models/earlier original outputs, reports, forecasts, scores, protected blanks/nulls and previous frozen cores retain their exact bytes. This author does not write designated global curator/evaluator outputs."
+  ],
+  "diagnostic_authorship": {
+    "source_known": true,
+    "broad_case_directions_known": true,
+    "exact_inputs_serialized": false,
+    "actual_first_bodies_serialized": false,
+    "same_continuing_root_is_model_author_designer_responder_and_assessor": true,
+    "independent_responder_or_external_model_call": false,
+    "no_blind_accuracy_independent_grade_or_confidence_gain": true,
+    "Japanese_output_adequacy_unassessed": true
+  },
+  "full_program_complete": false
+}

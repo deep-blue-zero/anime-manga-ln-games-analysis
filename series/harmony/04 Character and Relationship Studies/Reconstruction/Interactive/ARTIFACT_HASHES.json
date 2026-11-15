@@ -1,0 +1,66 @@
+{
+  "schema": "harmony-interactive-packet-hashes/v1",
+  "scope": "Every regular file in this Interactive directory except this hash list; frozen original/tested policies and current selection are bound separately in the parent directory.",
+  "files": [
+    {
+      "path": "character_harness.py",
+      "bytes": 8796,
+      "sha256": "ed084abedf37ec96da1bbf7c5b4d36dd8d730bb4c180e9172082cc237fad9b01"
+    },
+    {
+      "path": "extract_runtime_context.py",
+      "bytes": 3092,
+      "sha256": "d228032f46db91a75a9a6cdb6161cca2f6ea4ea4d81acd477f0e2529922ca72e"
+    },
+    {
+      "path": "interactions.json",
+      "bytes": 252506,
+      "sha256": "c78e24c0952ba5c76f7c70cf338915aa7c5f556bb8dc3a4df121efe508e430d0"
+    },
+    {
+      "path": "materialize_frozen.py",
+      "bytes": 2669,
+      "sha256": "f4cee59377d005a9d14e23bce19fac44e1020192599a1b75bfd7e3167fdc2d7c"
+    },
+    {
+      "path": "package_receipts.py",
+      "bytes": 7364,
+      "sha256": "92678a7cde3aa2bb564b72e785076b801abc7af584c83be27fca5a0c0f671b60"
+    },
+    {
+      "path": "README.md",
+      "bytes": 11295,
+      "sha256": "cee4b6551fb3b61336507305f5d04c4bd96128d4673cbb64273e5a640baf2f99"
+    },
+    {
+      "path": "resume_followups.py",
+      "bytes": 4214,
+      "sha256": "971d1b044f5c96c787e3a4aa71476809229e9856520db90d7680992f30d9c4d8"
+    },
+    {
+      "path": "runtime_context.json",
+      "bytes": 42966,
+      "sha256": "493d5e03d4586859899f5a2bf63a2396077aff312cd0db86831eb1d6946557e8"
+    },
+    {
+      "path": "runtime_receipt.json",
+      "bytes": 586575,
+      "sha256": "ce36eb6e7e5c1f3ed9fb4683e8421e75da98c7f2869c12387841683e8689ec1c"
+    },
+    {
+      "path": "scenarios.json",
+      "bytes": 24999,
+      "sha256": "0da633068a28c274934b620c511e497b739fd6b2c75f12dfc15c97b22cfb28e9"
+    },
+    {
+      "path": "scenarios_keita_successor.json",
+      "bytes": 2742,
+      "sha256": "a0b73554747fc3aaa5fdcbf8aeffca979cbd492ee02c1d6b39d9928eef5bf6bc"
+    },
+    {
+      "path": "scenarios_successors.json",
+      "bytes": 10334,
+      "sha256": "7fca35d1bed60cc5859b44e4705a1cb17fbc87c4bd352d61f86f1b450ea5ff8a"
+    }
+  ]
+}

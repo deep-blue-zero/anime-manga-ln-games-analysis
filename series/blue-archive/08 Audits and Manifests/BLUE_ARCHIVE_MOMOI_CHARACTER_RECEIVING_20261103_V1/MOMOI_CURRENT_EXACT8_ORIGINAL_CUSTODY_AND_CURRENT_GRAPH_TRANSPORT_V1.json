@@ -1,0 +1,234 @@
+{
+  "schema": "MOMOI_CURRENT_EXACT8_ORIGINAL_CUSTODY_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1",
+  "author": "/root/publishing_shared7_review",
+  "role": "BODY_AND_NEW105_AUTHOR_NOT_INDEPENDENT_SELF_QA",
+  "exact_current_first7": [
+    {
+      "C_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MOMOI_CHARACTER_MONOGRAPH.md",
+      "bytes": 29862,
+      "sha256": "c680cdf19b1816700e00fb25952499803e5e4cea66f3746bf7828607eb5cb99c",
+      "git_blob_oid_of_actual_bytes": "89931eaf7c2d1b123abba4e2f9b4ede1e7f46515"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ALL105_NEW_PURPOSES_MOP000_MOP035_V1.json",
+      "bytes": 502620,
+      "sha256": "9e51d97b2aeb02ad33fa0d53ce2af8f850367107d96944b83abec0e7894508e8",
+      "git_blob_oid_of_actual_bytes": "127f8e9da4bd6bb11400b110878787a246d5d2df"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ALL105_NEW_PURPOSES_MOP036_MOP070_V1.json",
+      "bytes": 627239,
+      "sha256": "2ac8355598066b779e0acf31af63d0258a2f1cf1d6aaae9002bd54e78dc3df41",
+      "git_blob_oid_of_actual_bytes": "4ff18b32c52cf6522a14f5219db525b4ab0df214"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ALL105_NEW_PURPOSES_MOP071_MOP104_V1.json",
+      "bytes": 812110,
+      "sha256": "3180ca6a65ffe25adb25049e35a7b71bbacb83894d39badd0ee90d96793439f9",
+      "git_blob_oid_of_actual_bytes": "8d9eb3bbd934d31669c77729709c811ed0dc7098"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_SOURCE6_COMPLETE12_QUESTIONS_GRADE_AND_CURRENT_QUALIFIERS_V1.json",
+      "bytes": 33277,
+      "sha256": "b5402ebdd5b954e25f0029200241d356a699fcc0f7094c2a7886a3f356da021f",
+      "git_blob_oid_of_actual_bytes": "94244448a435d50adf83800ac5be6f22d855528a"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_CURRENT_COMPLETE_LITERAL60_SOURCE_QUESTION_PURPOSE_RIVAL_END_GAP_REGISTER_V1.json",
+      "bytes": 493639,
+      "sha256": "276fea235a05ddc1221e8fdfd189074caa7bec151401d639d2aeed62a380c573",
+      "git_blob_oid_of_actual_bytes": "2e1d19a160452bd0940920e73564301a23733250"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ALL105_NEW_PURPOSE_EXACT_PART_BODY_RELATION_INDEX_V1.json",
+      "bytes": 330053,
+      "sha256": "1448b1d663460f2be8a34707d92fd7adff2bb17a53d32d65e9c931383e841bbb",
+      "git_blob_oid_of_actual_bytes": "071c8c1448b400efb6d03764feef6fa3cd9e3178"
+    }
+  ],
+  "self_tuple_rule": "External author entry binds this eighth transport; no self hash.",
+  "original20_raw_input_custody_manifest": {
+    "C_path": "private-witness:MOMOI_LOCATION_bafb431f7b06c356a12747e41976ee954608d1b3be8dbcba4447697405c5161f",
+    "bytes": 17984,
+    "sha256": "49272d1a6546202b3ed918a695e8db8beddb0902549bb0aa1f2b5dcb0f8952c1",
+    "git_blob_oid_of_actual_bytes": "2dadd4c1a4adcafce9cececd1b91ef35e22aab00"
+  },
+  "current14_original_whole_raw_recovery_proofs": [
+    {
+      "C_path": "private-witness:MOMOI_LOCATION_51c5f315dec027ff3a3203f8c92fa515942ffdd5abe86748e9a342f9605a484f",
+      "bytes": 16271,
+      "sha256": "1e03f13799abacaec416957b888d08b537d1e83c99d2994e76f16d89642723c0",
+      "git_blob_oid_of_actual_bytes": "811b8f1d74c8165938ce26bb3ad69d1b07f977f6"
+    },
+    {
+      "C_path": "private-witness:MOMOI_LOCATION_d8e91355ec0d42e50ac1ac26d0de70c4596d951f801215a3237bd27a3e85a002",
+      "bytes": 16291,
+      "sha256": "e4b85a309b4778249b9cd01c7d7ffd5bd447a1f6f648136bd4af2a805a5830ea",
+      "git_blob_oid_of_actual_bytes": "bc35ec7551b19fd44ece08f73ac835d4814cbfd0"
+    },
+    {
+      "C_path": "private-witness:MOMOI_LOCATION_2fe6eadc14495f7c0e289637084d07b6feac751ede6b58d8c277d35ff9de9790",
+      "bytes": 16291,
+      "sha256": "95c5a587c29e2a7c0db308c45d37eddd8d10a9e40ba5dbf9d02b7e0fd8bc350c",
+      "git_blob_oid_of_actual_bytes": "336598b719ac9381c3e0a6e2a4342fa5a347c0cc"
+    },
+    {
+      "C_path": "private-witness:MOMOI_LOCATION_b6d1b35af2a6efa94d7143f9650718e6b9e85d2a510c367ac9be1dffe505b444",
+      "bytes": 16283,
+      "sha256": "8cf1df2614394562a3e2b92c94222138a91cc1b45377e0da3c831562ebeca6ec",
+      "git_blob_oid_of_actual_bytes": "cb952ab22166ec9bfe8d991d04f57efa73e8fc73"
+    },
+    {
+      "C_path": "private-witness:MOMOI_LOCATION_ff8c31278e9b6a2b6c6b057319ed8c87368d0af1f1638ccb659b252dedf64f09",
+      "bytes": 16279,
+      "sha256": "02ed7357a51fbf77725ef820c90ef004d556588aa4c928167cdd3bf5b5974a7b",
+      "git_blob_oid_of_actual_bytes": "2318c66572c654f3618abc5f322535db62d5dddc"
+    },
+    {
+      "C_path": "private-witness:MOMOI_LOCATION_ab4718355738b26970b129eea8b0ec1f4a957dd7c374cf54939bfb345e1d9a2b",
+      "bytes": 16291,
+      "sha256": "e10e332b84e9cb5fa7bbd5bcf26fddb73b2c9c0fa08387d9605515310dd39217",
+      "git_blob_oid_of_actual_bytes": "5484deae37599e445da26469a46f9ecf2d251f7d"
+    },
+    {
+      "C_path": "private-witness:MOMOI_LOCATION_4eb1fa701eceb7adc2b7a42655c19fc74f2371814399f45d31be52c2b5736417",
+      "bytes": 16293,
+      "sha256": "00bb06d74f5ef69f2236dfd818ce020980f9d6fca278578ff1b23b9b1787527a",
+      "git_blob_oid_of_actual_bytes": "f96d207baaa11b700cee628e2cd23a0ca9869e23"
+    },
+    {
+      "C_path": "private-witness:MOMOI_LOCATION_211c1ab801ac3c4929f8b12c832095ec10fa6808499546355893df92230e1e7a",
+      "bytes": 16275,
+      "sha256": "d37f6272d1260f9a7747b96a3144e0261d1b87ecf8b388f86470a5718d5f4567",
+      "git_blob_oid_of_actual_bytes": "ec7a91dd8cc71f1e11d43c611194c4e57a90b09e"
+    },
+    {
+      "C_path": "private-witness:MOMOI_LOCATION_8e318ad93ce0d0e05007101908a30b8002d109eeeea944e6fc5671bd88cb98de",
+      "bytes": 16291,
+      "sha256": "c7c3f6604925b5030a157b05857b50b33012031736020677ff25da1a900d6f1f",
+      "git_blob_oid_of_actual_bytes": "70958059895bb42d4a7a036e8894ff1609cd0766"
+    },
+    {
+      "C_path": "private-witness:MOMOI_LOCATION_219ad52e535d574af49c9f5e0a69a6482dcbbebadea05cd175f543f417a6f1e6",
+      "bytes": 16293,
+      "sha256": "25253315f2f62f10d91536b5268d4f4f7871be11948346c2a2507572f0377718",
+      "git_blob_oid_of_actual_bytes": "da9c81d3c9a18668cd26d35bce3e7d18e4e2d8af"
+    },
+    {
+      "C_path": "private-witness:MOMOI_LOCATION_84514a23be903bca822ed35854eefd755ec1edf718aa6e55cfe5c053e0e70821",
+      "bytes": 9720,
+      "sha256": "ff645cca0413226399d96c3575f487cf66e3acce982a6174770f6640e2a66727",
+      "git_blob_oid_of_actual_bytes": "caaed09f21ef990504f6008276906a2ef522d04f"
+    },
+    {
+      "C_path": "private-witness:MOMOI_LOCATION_376395a3bc8b2594be3d0dc808a63120c5e56870f9ea35e538b3af4ea3411ae1",
+      "bytes": 238372,
+      "sha256": "43813d1c487f45a18cb872a858452e937ad01d3c28582a3a86d8788c45183f15",
+      "git_blob_oid_of_actual_bytes": "5580e5e5d79301ac748c770559d2f14305055bb1"
+    },
+    {
+      "C_path": "private-witness:MOMOI_LOCATION_8e0f6d00c3a9e1030f94e6a2210cde46973f972134321c5476a5d4b1a3d64553",
+      "bytes": 242233,
+      "sha256": "64c4288c8a08fd29d7f666c1c9ef206be99dc4c20a9fbab5fbe0d1f3d8165543",
+      "git_blob_oid_of_actual_bytes": "2ca4608a1d23bcca16b915db0ce3dbf145790364"
+    },
+    {
+      "C_path": "private-witness:MOMOI_LOCATION_df10b3a0ed51ac82c0899d78c41448afea9a36c274bb77ad29e32a6ef32dc4c6",
+      "bytes": 242727,
+      "sha256": "e31db3a322f65306c1ca5cbad27df8c3f55ceb6dcc1bbe4fe92bdf63769eb63d",
+      "git_blob_oid_of_actual_bytes": "5dbe5778fd799f20a7362bb650d9b00d95b7a8b1"
+    }
+  ],
+  "immutable_current_body_source_QA_ROOT_inputs": {
+    "MOMOI_BODY_FIRST_CURRENT_COMPLETE_MAP_V2.json": {
+      "C_path": "private-witness:MOMOI_LOCATION_2f191568ef8dc11a0a39f85dd84e59b03ec0f5aafb55af28e24964cb3f6b4ae9",
+      "bytes": 202353,
+      "sha256": "cb3401affc4ec75c7cd32ee2b72753ed664b430700e494c205cd2b913435e83c",
+      "git_blob_oid_of_actual_bytes": "148ea05365a1ba4d351ebffab1314acc2c03f41c"
+    },
+    "MOMOI_COMPLETE_AUTHOR_FEEDBACK_READINESS_ONLY_V1.json": {
+      "C_path": "private-witness:MOMOI_LOCATION_924f23bf0b914b6e5ec04aedc62f8edbe6bd6eb9ff72e07d43285dba1be80799",
+      "bytes": 33890,
+      "sha256": "9ab0f38e967d5641d8e2e9c7146b55c1c9a5a0e189cf2c39bc51122a6bcbb01d",
+      "git_blob_oid_of_actual_bytes": "43c6d70003391762d1e255b0db1dfcc85bebd786"
+    },
+    "ROOT_MOMOI_ACTUAL_READINESS_PERMISSION_FOR_NEW105_ONLY_V1.json": {
+      "C_path": "private-witness:MOMOI_LOCATION_38dcca42a589e8fc99f17ffdf6aab04077bd37443f3eba431a6dfb0772f831b1",
+      "bytes": 24514,
+      "sha256": "efe16553f11a60e66d8f6576cfff03cffccd5c6046b0f1ef8e25960aba19a30d",
+      "git_blob_oid_of_actual_bytes": "662dc4f6f98c8c36969202b52adeed289f157926"
+    },
+    "MOMOI_PRIOR_ACTUAL_SOURCE6_COMPLETE12_OWN_ANSWERS_V1.json": {
+      "C_path": "private-witness:MOMOI_LOCATION_bed074e1e0377af1f96d904576f1b957ad6cec039b00722f908de52317756c96",
+      "bytes": 34200,
+      "sha256": "d9ed124e44eb249ddc278fc3d269f7814fda06c792efe49a7fd2874d68b6b35e",
+      "git_blob_oid_of_actual_bytes": "4f014ac493f1b0029a0b4afa63d27466ca9130f6"
+    },
+    "ROOT_MOMOI_ACTUAL_BODY_ONLY_ADOPTION_WITH_LIMITS_V1.json": {
+      "C_path": "private-witness:MOMOI_LOCATION_aa8112637d3614e05a9366823e0b765313425121c9500c935b2e68359394b470",
+      "bytes": 83705,
+      "sha256": "f3cffa89d68e246754bf162a0a1d1e9a302e736a10f39ca38611c941334afbb2",
+      "git_blob_oid_of_actual_bytes": "3497a6e59fc5bdb65fc192238f0bbbffb9747aeb"
+    },
+    "MOMOI_DISTINCT_BODY_ONLY_FULL_QA_V1.json": {
+      "C_path": "private-witness:MOMOI_LOCATION_b6390cc6ff59a91b9d713706ad524aacc7f7dd3b424ea2371f7c94bb6f5cd8f6",
+      "bytes": 212941,
+      "sha256": "7aa62fba7c63eaedbdfe5c45fc02006c39b3be9505eaf683ddf00f7e0f31bc31",
+      "git_blob_oid_of_actual_bytes": "2a9caba3af43893c103711b1da4fd6ced95f892c"
+    }
+  },
+  "body_geometry": "156 physical lines/60 exact substantive paragraphs; adopted BODYV2 raw28571 unchanged.",
+  "original_payload_scope": "Whole original11 wrappers and M0083 carriers recovered with all residuals/memberorder/raw serializers; Minato3 outer tuples are references only; narrow61767/59334 original payloads preserved without reinterpretation.",
+  "current_source_use_qualifiers": {
+    "O002": "Threatened telescope harm is not completed damage; coercive compliance is not free assent.",
+    "O015": "Initial courtesy precedes abuse and escalation. Observed missing chip damage is distinct from Alice bug hypothesis and any forensic exploit finding. Yuzu volunteers the later perfect local match; pressured attendance and unwanted publicity remain.",
+    "O023": "Rei requests the break Sumire grants; Rei wants stadium food and offers a treat, and Sumire permits one hot dog. Wanting food is not proof of eating; no meal consumed by Sumire is shown. Shared spectating is positive. G330 local absence of a later home run does not negate E845 actual grand slam.",
+    "O061": "The cheer request rejected in the represented imagined case is not an actual adult request or performed dream event.",
+    "O069": "Alice invites Toki and Toki thanks her. Toki proposes the teacher/club withdraw; the club refuses to leave a friend and Alice articulates wanted help. Toki later chooses fighting as their friend and offers shared responsibility. Neru praise/apology, crown custody, proposed transfer and future bounty keep distinct actors and endpoints.",
+    "O087": "Actual no-force one-week agreement and unpacking, not evidence the week was fulfilled.",
+    "O094": "Teacher request to read Miyo wanted romance novels is refused, not Miyo authorship or refusal to write/share authored writing.",
+    "O096": "Mel reported foodlessness precedes supplied food, then later bill/printing-cost bargaining. Contract follows rejected9:1; final agreed terms/ratio unprinted and future collection incomplete. No demonstrated deliberate food withholding or clinical starvation mechanism.",
+    "O098": "Himari inwardly aims to buy time; Eimi hardware report and Rio cracking remain distinct. Reversal begins, not final victory or authenticated resurrection.",
+    "O103": "Anna deliberate fuel use/public-failure fear differs from Elina admitted projection. Fuel, not battery, blocks starting.",
+    "O104": "Wage motive does not prove paid wages; producer30primary2reuse is attributed, not a new source inspection.",
+    "Momoi_gift_direction": "The reported old-console gift is FROM Momoi TO Midori. Probably Midori first console remains tentative; Momoi recall is not fresh Midori testimony.",
+    "actor_mode_chronology": "All original grades and local actors/modes stay literal. No implied Momoi attendance beyond actual source course, shared calendar, universal audience, performed voice, registry join or global absence."
+  },
+  "no_stakes_exclusion": "All105 receive genuine Momoi fivefields. Rest, taste, drink, softness, play, old console, making and chosen company are intrinsic even without public success.",
+  "author_saved_value_receiving": "PENDING_ACTUAL_ALL105_525_AND60_JOINS_UNIQUE_CONTROLS_READBACK; final author closure follows actual receiving.",
+  "body_metadata_history": "Original private header and prior readiness pending fields remain dated. Actual ROOT24514 grants new105 authoring only; no automatic componentQA or ROOT package acceptance.",
+  "fixed_home": {
+    "required_id": "P3-CHAR-MOMOI",
+    "home_zero": 54,
+    "ordinal": 55,
+    "CSV_physical": 56,
+    "source_family": "P3-F121",
+    "named_duty": "NONE",
+    "literal_person_key": "BA_PERSON_MOMOI",
+    "variants": [
+      "13011",
+      "10094"
+    ],
+    "extra_REL": "NOT_COMPLETED"
+  },
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "inside_named_duty": null,
+  "separate_relationship_completion": 0,
+  "new_primary_native_raw_AV_normal105_admission_identity_count_model_runtime_merge_credit": 0,
+  "R_Git_provider_shared_protected39_private9_payload_access_or_writes": 0,
+  "current_public_metadata_preparation_qualification_20261103": {
+    "metadata_prepared": "2026-11-03",
+    "role": "C-only metadata proposal, using actually adopted privateV4; distinct public-byte QA and ROOT composed-byte adoption remain separate actual gates.",
+    "people_and_roles": "Original body/new105 author /root/publishing_shared7_review; original component and finite V4 reviewer /root/next_cast_source_preparation; this new reporter/composer /root/current_preflight_requirements; actual ROOT private8 adoption is separately attributed. No fresh independent literary review, source inspection or cryptographic ROOT signature is claimed.",
+    "source_grades": "Author3WHOLE715+3SELECTED503=1218; component peer6WHOLE1641; ROOT original body5WHOLE1189+FinalSELECTED150 and later selected162 separately. Frozen common105 original26WHOLE79SELECTED remains attributed. Metadata composition adds no primary/native/raw/AV/normal105 receiving.",
+    "historical_states": "Original BODYV2 header, new105NOT_AUTHORED and pending source/transport/review fields are complete dated creation history. OriginalV3 QA WITH_FINDINGS is not relabeled; currentfiniteV4 resolves the exact8 crown clauses and reuses the unchanged scope. PrivateROOT acceptance governs private8 only, not this public-byte proposal.",
+    "eight_crown_precision": "MOP102 was the direct custody error; the other seven actor/holder/collective precisions do not prove eight separate ownership acts. Collective recovery and Yuzu continued hold coexist with Momoi local win, reassurance, friendship, cleaning and play; her participation is not erased.",
+    "finite_actors": "Momoi gives the console TO Midori; probably-first remains tentative. Midori observes missing chip damage; Alice offers the bug hypothesis; Yuzu volunteers the later match and owns the unwanted celebrity afterstate. Alice invites Toki; club refusal and Toki later friend-choice remain distinct. Neru report, handover, payment and new game are separate endpoints.",
+    "ordinary_value": "Play, stories, sweets, drink, softness, naps, console memories, craft, service and chosen company retain intrinsic value independent of crisis payoff or finished product. Actual discomfort, refusal and unfinished work remain contrary evidence.",
+    "identity_and_scope": "One existing P3-CHAR-MOMOI/home54/F121, BA_PERSON_MOMOI variants13011/10094, no mandatory inside named duty, extraREL, identity join or registry repair.",
+    "ROOT_private_projection": "Only mechanical /checks array may be omitted from public ROOT report with exact ordered count/hash, private whole receipt and original member order; all12 ROOT warrants and every other member survive. The separate1202071 proof is only an existing metadata-bound opaque private witness, never read or copied here.",
+    "live_current_state": "Reported baseline152/355 and19/29 remains unchanged; next178. Currentmain/owner instructions govern publication and merges. Original October merge-reserved strings remain dated history. This preparation performs no R/shared/Git/provider operation.",
+    "gaps_models_credit": "All14 original gaps remainOPEN/models0; no new count, source admission, named/extraREL, identity, install/publication/runtime or merge credit."
+  }
+}

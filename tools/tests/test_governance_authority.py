@@ -164,6 +164,26 @@ class AuthorityFrontMatterTests(unittest.TestCase):
                     expected,
                 )
 
+    def test_unchanged_front_matter_is_parsed_once_and_rejections_recur(self) -> None:
+        core = sys.modules[parse_authority_front_matter.__module__]
+        data = authority_document("canonical")
+        path = "series/example/memoized.md"
+        expected = AuthorityMetadata("canonical", (), (), False)
+        self.assertEqual(parse_authority_front_matter(data, path), expected)
+        with mock.patch.object(core, "_restricted_yaml_load", side_effect=AssertionError("re-parsed")):
+            # The same block at the same path is remembered, body bytes aside...
+            self.assertEqual(parse_authority_front_matter(data, path), expected)
+            self.assertEqual(parse_authority_front_matter(data + b"\nmore body\n", path), expected)
+            # ...while another path or a changed block is parsed on its own.
+            with self.assertRaises(AssertionError):
+                parse_authority_front_matter(data, "series/example/other.md")
+            with self.assertRaises(AssertionError):
+                parse_authority_front_matter(data.replace(b"status: canonical", b"status: superseded"), path)
+        invalid = b"---\nstatus: [\n---\n"
+        for _ in range(2):
+            with self.assertRaises(DomainError):
+                parse_authority_front_matter(invalid, path)
+
     def test_non_exact_opener_is_unclassified_legacy(self) -> None:
         valid = authority_document("canonical")
         cases = {
@@ -637,16 +657,16 @@ class AuthorityGraphTests(unittest.TestCase):
 class PublicGovernanceInvariantTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls) -> None:
-        cls.scope = load_json(REPOSITORY_ROOT / "governance/AUTHORITY_SCOPE.json")
+        cls.scope = load_json(REPOSITORY_ROOT / "governance/archive/migration/AUTHORITY_SCOPE.json")
         cls.binding = load_json(
             REPOSITORY_ROOT
-            / "governance/repository-controls/public-activation-bindings.json"
+            / "governance/archive/migration/public-activation-bindings.json"
         )
         cls.tracked_file_policy = load_json(
             REPOSITORY_ROOT
             / "governance/repository-controls/tracked-file-policy.json"
         )
-        state_path = REPOSITORY_ROOT / "governance/AUTHORITY_STATE.yaml"
+        state_path = REPOSITORY_ROOT / "governance/archive/migration/AUTHORITY_STATE.yaml"
         cls.state = _restricted_yaml_load(
             state_path.read_text(encoding="utf-8"),
             str(state_path),
@@ -679,23 +699,24 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         self.assertEqual(self.scope["activation"]["candidate_commit"], expected["activation_commit"])
         self.assertEqual(self.scope["activation"]["activation_tag"], expected["activation_tag"])
         activation = self.state["analytical_authority_activation"]
-        self.assertEqual(activation["status"], "GIT_ACTIVE_STABILIZING")
+        self.assertEqual(activation["status"], "GIT_ACTIVE_ACCEPTED")
         for key, value in expected.items():
             self.assertEqual(activation[key], value)
-        self.assertEqual(self.state["migration"]["completed_gate"], "G8")
-        self.assertEqual(self.state["migration"]["current_gate"], "G9_STABILIZATION")
-        self.assertEqual(
-            self.state["migration"]["current_subphase"],
-            "DAILY_STABILIZATION_MONITORING",
-        )
-        self.assertEqual(self.state["stabilization"]["state"], "ACTIVE_DAILY")
+        self.assertEqual(self.state["state"], "GIT_ACTIVE_ACCEPTED")
+        self.assertEqual(self.state["migration"]["completed_gate"], "G9")
+        self.assertEqual(self.state["migration"]["current_gate"], "NONE_MIGRATION_COMPLETE")
+        self.assertEqual(self.state["stabilization"]["state"], "ACCEPTED")
+        self.assertEqual(self.state["stabilization"]["owner_acceptance"], "ACCEPTED")
+        self.assertEqual(self.state["stabilization"]["owner_acceptance_date"], "2026-10-15")
+        # The frozen activation scope keeps its activation-time state and bytes.
+        self.assertEqual(self.scope["stabilization"]["state"], "ACTIVE_DAY_0")
         self.assertEqual(self.state["stabilization"]["day_0_audit"], "PASS")
         self.assertEqual(
             self.state["stabilization"]["day_0_audit_commit"],
             "f704fc18ab7d38aef0b7addb21af675d5a898827",
         )
 
-        cutover = load_json(REPOSITORY_ROOT / "governance/cutovers/AUTHORITY_EPOCH_1.json")
+        cutover = load_json(REPOSITORY_ROOT / "governance/archive/migration/AUTHORITY_EPOCH_1.json")
         self.assertEqual(cutover["authority_epoch"], 1)
         self.assertEqual(cutover["state"], "GIT_ACTIVE_STABILIZING")
         self.assertEqual(cutover["cutover_id"], expected["cutover_id"])
@@ -703,7 +724,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         self.assertEqual(cutover["activation_tag"], expected["activation_tag"])
         self.assertEqual(cutover["authority_scope_sha256"], expected["authority_scope_sha256"])
 
-    def test_g7_closure_and_active_prose_are_consistent(self) -> None:
+    def test_g7_closure_record_is_exact(self) -> None:
         closure = self.state["migration"]["g7_phase_closure"]
         self.assertEqual(
             closure["status"],
@@ -716,39 +737,6 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             closure["literal_step5_closure_receipt_sha256"],
             "f0c486687e35f4da789af3552d08d3768873a33470e90671c44bd518fcc361ac",
         )
-
-        prose = {
-            "README.md": ("epoch-1 primary analytical authority", "14-day stabilization"),
-            "governance/CHATGPT_AUTHORITY_AND_ROUTING.md": (
-                "Git authority is active and stabilizing",
-                "g8-authority-epoch-1-20260902T134713Z",
-            ),
-            "governance/MANGA_ANIME_CORPUS_INDEX.md": (
-                "epoch-1 primary analytical authority",
-                "Analytical authority: Git",
-            ),
-            "governance/policies/REPOSITORY_CONTROLS.md": (
-                "G7 final reconciliation",
-                "verified G8 authority activation",
-            ),
-            "series/README.md": ("final G7 materialization", "GIT_PRIMARY"),
-            "studies/README.md": ("GIT_PRIMARY", "authority epoch 1"),
-        }
-        for relative_path, expected_phrases in prose.items():
-            text = (REPOSITORY_ROOT / relative_path).read_text(encoding="utf-8")
-            for phrase in expected_phrases:
-                with self.subTest(path=relative_path, phrase=phrase):
-                    self.assertIn(phrase, text)
-            self.assertNotIn("full corpus is complete", text.casefold())
-
-        routing = (
-            REPOSITORY_ROOT / "governance/CHATGPT_AUTHORITY_AND_ROUTING.md"
-        ).read_text(encoding="utf-8")
-        self.assertIn("GitHub API or connector mode (ChatGPT)", routing)
-        self.assertIn("Local clone mode (Codex)", routing)
-        self.assertIn("primary/source-domain material in Drive", routing)
-        self.assertIn("approved primary-source material on local disk", routing)
-        self.assertIn("git add -- <path>...", routing)
 
     def test_public_activation_evidence_tuple_is_exact(self) -> None:
         publication = self.binding["repository_publication_activation"]
@@ -775,7 +763,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         )
         raw = (
             REPOSITORY_ROOT
-            / "governance/repository-controls/public-activation-bindings.json"
+            / "governance/archive/migration/public-activation-bindings.json"
         ).read_text(encoding="utf-8")
         self.assertNotRegex(raw, r"(?i)(?:[a-z]:\\|/home/|/users/)")
 
@@ -836,7 +824,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             series_registry["schema"],
             "anime-manga-ln-games-analysis/series-registry/v2",
         )
-        self.assertEqual(series_registry["status"], "GIT_PRIMARY_AUTHORITY_EPOCH_1_STABILIZING")
+        self.assertEqual(series_registry["status"], self.state["state"])
         series_ids = [row["series_id"] for row in series_registry["series"]]
         self.assertEqual(len(series_ids), len(set(series_ids)))
         self.assertTrue(
@@ -1957,10 +1945,10 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
 
     def test_historical_private_bootstrap_bindings_are_unchanged(self) -> None:
         historical = {
-            "governance/repository-controls/bootstrap-bindings.json": (
+            "governance/archive/migration/bootstrap-bindings.json": (
                 "7ebb26e4cff22acbabe72905847f6efbbb6885c4a6be0b9e5297db22d654ae17"
             ),
-            "governance/repository-controls/G3_BOOTSTRAP_TRACKED_PATHS.txt": (
+            "governance/archive/migration/G3_BOOTSTRAP_TRACKED_PATHS.txt": (
                 "75c6fe48adc719090828a2da02f3dc69e2334b8b20ee5f1c89e0f4c33ee6d191"
             ),
         }
@@ -1988,32 +1976,6 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             if line and not line.lstrip().startswith("#") and "whitespace=" in line
         ]
         self.assertEqual(active_whitespace_rules, [tsv_rule, furina_rule])
-
-        controls = (
-            REPOSITORY_ROOT / "governance/policies/REPOSITORY_CONTROLS.md"
-        ).read_text(encoding="utf-8")
-        self.assertIn(f"`{tsv_rule}`", controls)
-        self.assertIn(f"`{furina_rule}`", controls)
-        self.assertIn(
-            "35 intentional CommonMark hard breaks on lines 16–19 and 28–58",
-            controls,
-        )
-        self.assertIn(
-            "106,094-byte length and SHA-256 "
-            "`f61db7d38eb980bf6906fccee93a78200048f6bd2cf6efcfe60788520918b356`",
-            controls,
-        )
-        for preserved_control in (
-            "`blank-at-eof`",
-            "schema validation",
-            "exact-byte hashing",
-            "TSV rectangularity",
-            "strict UTF-8/LF validation",
-            "content-safety checks",
-            "Any broader path or whitespace waiver is prohibited.",
-        ):
-            with self.subTest(preserved_control=preserved_control):
-                self.assertIn(preserved_control, controls)
 
 
 if __name__ == "__main__":

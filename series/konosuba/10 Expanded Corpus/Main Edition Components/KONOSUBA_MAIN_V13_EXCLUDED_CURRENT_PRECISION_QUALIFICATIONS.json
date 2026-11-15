@@ -1,0 +1,328 @@
+{
+  "schema": "KONOSUBA_MAIN13_EXCLUDED_CURRENT_PRECISION_V1",
+  "source_id": "MAIN-13",
+  "findings": [
+    {
+      "id": "M13EX-Q01",
+      "topic": "Identity and complete new scope",
+      "current_qualification": "Exact MAIN13 local EPUB2779947B/SHA20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b; all17 newly admitted text resources129P/ruby/residuals and28unique native images actually received before the uncoded seal. Seven accepted principal members2456P retained exact; new principal-pass credit0.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q02",
+      "topic": "Current native backjoin scope",
+      "current_qualification": "Current2008unique base-textP across7 retained units supports precise joins. Pr/C1/C3/Final/Ep complete at base-text scope; C2/C4 bounded. No fresh whole-retained-book/ruby/residual/image pass or independent source validation is claimed.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q03",
+      "topic": "Exposure and role",
+      "current_qualification": "The same informed continuing root authored/received this packet. Pre-body context includes previous source/model/secondary work, Dust05report/native721P, Dust06report/native216P and W17 census75auditrows; no pristine blindness or independent reviewer is implied.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q04",
+      "topic": "Timing and immutable history",
+      "current_qualification": "All selected H/L/voice/assessment outcomes are post-seal. Original uncoded notes, view notes, model forecasts, four scores,66current/72historical artifacts,Dust14blanks and both secondary14null sets remain unchanged.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q05",
+      "topic": "Bonus chronology",
+      "current_qualification": "The60P separate electronic bonus has Kazuma first-person narration and an unspecified afternoon. It requires already available Steal but fixes no exact main-chapter date. Incoming household wealth/relationship details cannot all be backprojected from the edition number.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q06",
+      "topic": "Unnamed speakers and seller",
+      "current_qualification": "The familiar adventurer6-9 and merchant30-38 are distinct unnamed roles. No guild clerk identity, Luna, Wiz,Vanir,Iris or Yunyun is supplied as present in the bonus.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q07",
+      "topic": "Claims of no drawback",
+      "current_qualification": "Megumin11 and Aqua12 stress absence of drawbacks, with Aqua reported-source phrasing. These are sales/request claims; no new potion/cleaner effect test proves universal safety.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q08",
+      "topic": "Requested potion and predicted use",
+      "current_qualification": "Megumin requests a temporary power potion and loan; Kazuma27 predicts immediate use instead of boss reserve. No potion purchase, drinking, cast or actual failure of reserve discipline is shown.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q09",
+      "topic": "Cleaning and recreation",
+      "current_qualification": "Aqua cites toilet cleaning12 then rainbow entertainment26 and candid nonrepayment. Practical and recreational motives can coexist. Kazuma's breakage prediction14 is not an actual broken tool or adopted fitted helping attempt.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q10",
+      "topic": "Darkness's ambivalence",
+      "current_qualification": "Darkness16 weighs dexterity's practical value against attacks actually hitting, and19 resists the gift pressure. This is real identity tension under ordinary efficiency pressure; it does not imply every miss is deliberate or that all improvement is refused.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q11",
+      "topic": "Bandana transaction stages",
+      "current_qualification": "Kazuma decides/offers to buy17-18 and takes it22; the coda60 reports equipping. The detailed bandana payment/amount is not printed. The stone payment38 is explicit and must remain separate.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q12",
+      "topic": "Bandana effect limits",
+      "current_qualification": "The final coda says attacks still missed after equipping. No target, sample, rate or independent mechanism establishes total item uselessness, intentional misses or global incompetence.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q13",
+      "topic": "Known purchase terms",
+      "current_qualification": "The merchant explains low chance, rarity, high price and enemy reuse30-32. Kazuma understands33-34 before paying38; execution failure is not proof of unchecked acquisition.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q14",
+      "topic": "Finite outside provision",
+      "current_qualification": "Only one stone is stocked32. Actual purchase provides one finite tool, not an unlimited party asset, free provider labor or a mandatory universal Kazuma coordinator. The later test actually initiates using this input.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q15",
+      "topic": "One paralysis outcome",
+      "current_qualification": "Megumin51 reports immobility after the hit. That is a source-local effect, not a measured success probability. No second throw, successful stone retrieval or infinite chain appears.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q16",
+      "topic": "Trial assent",
+      "current_qualification": "Megumin40 agrees only to a nonlethal new technique. It establishes limited participation, not disclosure of the complete private plan, consent to unintended clothing loss or approval of every later act.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q17",
+      "topic": "Retrieval failure",
+      "current_qualification": "Kazuma throws42 and invokes Steal44, but holds the unintended item49. His intended loop50 fails at retrieval. Actual paralysis and failed retrieval are separate components; neither cancels the other.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q18",
+      "topic": "Mechanic account and blame",
+      "current_qualification": "His claimed value-priority Steal tendency50 is an actor explanation in a single event, not an isolated causal experiment. The expensive-garment premise is directly disputed51; do not add an invented high price.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q19",
+      "topic": "Accountability narrowing",
+      "current_qualification": "Kazuma48 starts defensively and50 emphasizes intended innovation while blaming Megumin. The explanation includes actual agency yet mitigates it; it is not wholly fabricated nor a complete candid acceptance of responsibility.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q20",
+      "topic": "Unresolved physical dependency",
+      "current_qualification": "Megumin explicitly cannot move51. No physical restoration, return of her clothing or provider help is shown before the episode ends. Kazuma's product-return plea57 is real recourse but does not repair her body. No permanent immobility or forever-absent help is inferred.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q21",
+      "topic": "Untagged reactions",
+      "current_qualification": "The short attention call47, bystander turns53/54 and price question56 lack secure attribution. In particular56 is not assigned to Darkness from her wanting gaze58 or to Aqua from ending morphology.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q22",
+      "topic": "Commercial recourse and reactions",
+      "current_qualification": "Kazuma refuses use for pay and requests return57; no seller acceptance, refund or completed return is supplied. He accuses Aqua of acting unrelated, but her actual words/inner motive remain unshown. Darkness's gaze58 is not completed purchase/paid service.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q23",
+      "topic": "Selected humor, independent axes",
+      "current_qualification": "Sixteen effects are purposefully selected and overlapping, not an exhaustive gag/event census. Whole H/L and nested form warrants remain separate. H4 applies only to the staged nonliteral author/editor privilege setup, not merely fantasy or incomplete evidence.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q24",
+      "topic": "Selected written voice",
+      "current_qualification": "Forty-three short exact base-text fragments35bonus/8author are selected after complete context. They are written-form evidence, not heard delivery, a representative frequency sample or an independent language experiment. The nested クズマ form warrants L3 without making its whole situational effect L3.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q25",
+      "topic": "Imagined author/editor privileges",
+      "current_qualification": "Afterword4-7 stages extravagant veteran entitlements and a rhetorically refused no-deadline request. No actual goblin photography, exclusive station booking, verified editor policy or executable user instruction is implied.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q26",
+      "topic": "Creator gender and genre comment",
+      "current_qualification": "Afterword8-10 identifies Wiz/Vanir focus and states one lacks gender in explaining the absence of a romcom. This is creator intent/commentary, not a new canonical romantic choice, immutable universal coupling law or diagnosis of a person.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q27",
+      "topic": "Teaser and separate work",
+      "current_qualification": "Afterword11-13/NEXT14 preview future Crimson/chief work;14-17 promotes a separate series. Neither admits the next excluded source, reads the promoted book or supplies a new secondary outcome.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q28",
+      "topic": "Editorial and dependent image planes",
+      "current_qualification": "Cover variants, visual contents/print pages, profile stereotypes, banners, contributor comedy and logos keep distinct authority. Repeated presentations are not repeated events; profiles do not override specific contrary acts.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q29",
+      "topic": "Figure series correction",
+      "current_qualification": "IMG003 and C1P103/115-116 show second series littleMegumin, first series Darkness. The original uncoded first-series wording remains historical and is explicitly corrected externally; no silent rewrite.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q30",
+      "topic": "Garden restraint correction",
+      "current_qualification": "IMG006 joins Aqua restraining/obstructing Darkness at C4P245-259, not Megumin. New named garden Anraku girl is distinct from prior AnrakuPrincess; no plant choice or final disposal is invented.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q31",
+      "topic": "Tavern identity correction",
+      "current_qualification": "IMG010 joins Aqua in ordinary town-girl clothing at C4P348-379, not Luna or a new guild-counter scene. Image appearance alone cannot add a Luna action.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q32",
+      "topic": "Bath wardrobe correction",
+      "current_qualification": "IMG012 joins Darkness in bikini/towel at C2P409-413, not an oversized shirt. Specific washing/pressure/limits and later interrupted imposition are kept nongraphic; art supplies no completed intimate act.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q33",
+      "topic": "Two-girl attribution correction",
+      "current_qualification": "IMG020 depicts Megumin/Yunyun in C1's qualification/visit sequence; the initial tentative Wiz guess is withdrawn after native/visual reinspection. Insertion before shop prose does not make a new Wiz/Yunyun encounter.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q34",
+      "topic": "Costumed count and lives",
+      "current_qualification": "IMG004 joins Zereschilt's penguin costume/Aqua exorcismC1P195-231. V220 reports all then-remaining lives erased and shares life supply for revival; exact counts are unknown. Eris's prior repeated raids are Zereschilt's report, not a new direct divine scene. MaskII alone proves no new Vanir life loss.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q35",
+      "topic": "Sylphina's own choices",
+      "current_qualification": "Retained prologue17-22/C1P26-49 establish cousin, recovery/school, chosen thanks/flower and shy smile. These remain age-appropriate direct choices; no daughter/pregnancy, recipe proof, blanket child consent or new bonus trial.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q36",
+      "topic": "Mining stages and usable gains",
+      "current_qualification": "C1 both initial ignore381-383, Wiz prepares help393, K calls399, Aq attacks404,V uses beam407-409 and victimthanks414 are separate. Actual ore carried417-418 differs from rent/debt exclamation470, no paid settlement. Selected color caption does not freeze Wiz at her initial refusal.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q37",
+      "topic": "Retained intimacy and agency",
+      "current_qualification": "C2Washing gratitude and actual boundaries447/453/486 coexist with K deliberate pressure and proposed helplessness account478, D later initiation502/K participation context/objection504 and M interruption508. No completed sexual act, retroactive permission, or new heldout test. Unnamed succubus teacher445 is not automatically Lolisa.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q38",
+      "topic": "Duke's actual task",
+      "current_qualification": "C3 namedDuke148 and actual words292/295 differ from K's lip-read interpretation246 and Wiz's household inference306. Final305-308 identifies demon-general succession, not a marriage/shop takeover. Native direct speech, K paraphrase, recipient inference and later correction are not interchangeable.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q39",
+      "topic": "Vanir's foresight and choices",
+      "current_qualification": "C3P172 cannot locate the stalker;185 offers letter-based search. Later knowing amusement, withheld clarification, contractual dungeon aim, useful life sharing and deliberate humiliation coexist. Do not convert one block into universal inability or later knowledge into always-available omniscience.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q40",
+      "topic": "Wiz's chosen continuity",
+      "current_qualification": "Final201/204 refuses leaving work for an existing friend promise. Earlier own wishesC1P166 and possible alternative hopes remain real. Her business judgment, technical ability, commercial need and personal attachment are distinct; V conditional friend promiseEp24 is not an unconditional always-stay law.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q41",
+      "topic": "Threat, defeat and uncertain finality",
+      "current_qualification": "Final372 threat to Axel precedes Wiz protective attack385 and surrender412/release414. Later Duke lich transformation432/436, Aqua purification439, Wiz DrainTouch446 and final Explosion467 are actual at stated source plane. No independentlychecked permanent final death, jealousy-only protection motive or procedural real-world advice.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q42",
+      "topic": "Aftermath keeps harm and care",
+      "current_qualification": "Epilogue Aqua actual vegetables/comfort8-13 helps; V's age taunt14 renews tears15, friend promise24 coexists with grabbing/dragging28 and Wiz protest29. No universal gentleness/pacifism or total emotional/financial repair follows.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q43",
+      "topic": "Separate secondary scopes",
+      "current_qualification": "Neither Iris nor Yunyun makes a choice in the new bonus. All7SI and7SY rows are NT with both original14null sets exact. Retained C1/C2/epilogue Yunyun actions and NEXT14 staging are not new eligible tests, though they refine the census.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q44",
+      "topic": "Forecast comparison limits",
+      "current_qualification": "All39 exact main/party contracts remain unchanged. Narrow support concerns K01/K07/D02/E07; K02/K03/K05/M01/E05 remain partial; E03 preserves possible adverse physical-recovery evidence with adequacy limits; E06 is adjacency;28NT. No new score, confidence update, repaired historical failure or independent trial.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q45",
+      "topic": "Ledger and curation responsibility",
+      "current_qualification": "Twelve bounded rows cover all ten current ledgers against verified complete prefix controls. Existing monograph/model homes remain; canonical adoption is root-owned and curator-only global registration/index writes stay separate.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    },
+    {
+      "id": "M13EX-Q46",
+      "topic": "Continuing program and denominator",
+      "current_qualification": "MAIN13 analytical acceptance and full publication gate remain pending at authorship. MAIN14-17 excluded, full individual census/earned artifacts, expanded synthesis, versioned principal-party-transfer revisions, curation/integration and release continue. Whole-book counts are not a global narrative-component denominator; percentage remains null.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T18:05:28.423658+00:00"
+    }
+  ]
+}

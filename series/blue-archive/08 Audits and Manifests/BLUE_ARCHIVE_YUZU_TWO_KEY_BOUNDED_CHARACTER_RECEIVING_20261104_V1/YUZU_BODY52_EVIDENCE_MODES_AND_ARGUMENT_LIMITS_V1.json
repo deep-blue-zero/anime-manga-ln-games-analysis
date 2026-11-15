@@ -1,0 +1,4024 @@
+{
+  "schema": "YUZU_BODY52_MODES_CONTROLS_AND_CURRENT_GEOMETRY_PUBLIC_V1",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "generation": "PUBLIC_FORM_V1",
+  "date": "2026-11-04",
+  "home_zero": 58,
+  "required_package_id": "P3-CHAR-YUZU-TWO-KEY-BOUNDED",
+  "role": "All52 unique map reasons and79 qualitative controls; literal paragraphs resolve to the readable body",
+  "stage": "CURRENT_ELIGIBLE_METADATA_PROPOSED_20261104;PRIOR_PUBLIC_C_FORM_ROOT_ACCEPTED_WITH_LIMITS;FINAL_DERIVATIVE_QA_AND_ROOT_BYTE_ACCEPTANCE_REQUIRED_BEFORE_INSTALLATION",
+  "component_paths": {
+    "BODY": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+    "MAP": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_BODY52_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+    "SOURCE": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_SOURCE_AUTHORITY_IDENTITY_AND_EFFECTIVE_USE_QUALIFICATIONS_V1.json",
+    "PURPOSE": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_ALL105_COMPLETE_FIVE_FIELD_COMPARATIVE_PURPOSES_V1.json",
+    "INDEX": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_COMPARISON_NAVIGATION_AND_RECIPROCAL_RELATION_INDEX_V1.json",
+    "WARRANT": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_SOURCE_REPORT_WARRANTS_O000_O004_COMPLETE_ATTRIBUTED_V1.json",
+    "AUTHOR": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_AUTHOR_REASONS_AND_DATED_QUALIFICATIONS_V1.json",
+    "PEER": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_DISTINCT_REVIEW_REASONS_AND_CURRENT_FINITE_QA_V1.json",
+    "ROOT": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_ROOT_PRIVATE_ADOPTION_AND_PUBLIC_COMPOSITION_CONTROL_V1.json",
+    "MANIFEST": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_PUBLIC_CURRENT_COMPONENT_MANIFEST_V1.json",
+    "ODY1": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O000_O029_CURRENT_PURPOSES_V1.json",
+    "ODY2": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O030_O054_CURRENT_PURPOSES_V1.json",
+    "ODY3": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O055_O079_CURRENT_PURPOSES_V1.json",
+    "ODY4": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O080_O104_CURRENT_PURPOSES_V1.json"
+  },
+  "exact_reference_semantics": "COMPONENT#/JSON/pointer resolves recursively to the whole typed value. Full equality is proved in ROOT exact reuse table; path aliases are explicit repository paths, never private locators.",
+  "body": {
+    "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+    "bytes": 31896,
+    "sha256": "8a4ef53eb5b9046814bd82c27190c39d29aeb41f5f667191babf83523b8f1413",
+    "physical_lines": 157,
+    "numbered_paragraphs": 52
+  },
+  "SOURCE": {
+    "path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_SOURCE_AUTHORITY_IDENTITY_AND_EFFECTIVE_USE_QUALIFICATIONS_V1.json"
+  },
+  "records": [
+    {
+      "paragraph_id": "YUZU-P001",
+      "section": "1. Participation belongs to a person, not to a score",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              247,
+              253
+            ],
+            [
+              398,
+              401
+            ]
+          ]
+        },
+        {
+          "source_id": "YS04",
+          "physical_intervals": [
+            [
+              79,
+              81
+            ],
+            [
+              140,
+              150
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ02",
+        "YQ10"
+      ],
+      "own_claim_limit": "An interpretive thesis at maintained analytical scope, not a predictive or clinical rule.",
+      "architecture_track_ids": [
+        "T01"
+      ],
+      "method_concern_ids": [
+        "M01"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 35,
+        "UTF8_byte_offset": 2529,
+        "UTF8_bytes_without_LF": 566,
+        "literal_sha256_without_LF": "29998ce8076c42631e270cedb44ddf8ad49855c4420e9c58a933e9225f9154ff",
+        "paragraph_id": "YUZU-P001"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP000"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P002",
+      "section": "1. Participation belongs to a person, not to a score",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              239,
+              243
+            ],
+            [
+              315,
+              339
+            ],
+            [
+              403,
+              409
+            ]
+          ]
+        },
+        {
+          "source_id": "YS02",
+          "physical_intervals": [
+            [
+              91,
+              103
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ01"
+      ],
+      "own_claim_limit": "No person/variant merge, A067 identification or additional required allocation.",
+      "architecture_track_ids": [
+        "T01"
+      ],
+      "method_concern_ids": [],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 37,
+        "UTF8_byte_offset": 3097,
+        "UTF8_bytes_without_LF": 651,
+        "literal_sha256_without_LF": "09b38ece0cfdb3bd29d0bb1b04bcbbcc007174dd24ff9c75e87cd44d8ffe1380",
+        "paragraph_id": "YUZU-P002"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP002",
+        "YZP015",
+        "YZP066",
+        "YZP098",
+        "YZP102"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P003",
+      "section": "1. Participation belongs to a person, not to a score",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              213,
+              245
+            ],
+            [
+              456,
+              524
+            ]
+          ]
+        },
+        {
+          "source_id": "YS04",
+          "physical_intervals": [
+            [
+              66,
+              77
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ01",
+        "YQ08",
+        "YQ12"
+      ],
+      "own_claim_limit": "WHOLE1094 maintained lines; zero new primary/native/raw/AV or normal105 credit.",
+      "architecture_track_ids": [
+        "T01",
+        "T11"
+      ],
+      "method_concern_ids": [
+        "M16"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 39,
+        "UTF8_byte_offset": 3750,
+        "UTF8_bytes_without_LF": 592,
+        "literal_sha256_without_LF": "7e1d47c30edd8219d89a47c4cb5d0565be9240bc9410fcbe605bc426ede4c015",
+        "paragraph_id": "YUZU-P003"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP104"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P004",
+      "section": "2. Refuge, play and a gift that does not erase refusal",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              257,
+              260
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ02",
+        "YQ08"
+      ],
+      "own_claim_limit": "Reported fear of Yuuka is not an observed council decision or a diagnosis.",
+      "architecture_track_ids": [
+        "T03",
+        "T05"
+      ],
+      "method_concern_ids": [
+        "M02",
+        "M04",
+        "M09"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 43,
+        "UTF8_byte_offset": 4403,
+        "UTF8_bytes_without_LF": 464,
+        "literal_sha256_without_LF": "26df8801302dd2e37c7055a5234c31bde499596cd0e6ee2015aa61d72a724aba",
+        "paragraph_id": "YUZU-P004"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP002",
+        "YZP009",
+        "YZP016",
+        "YZP019",
+        "YZP036",
+        "YZP044",
+        "YZP047",
+        "YZP066",
+        "YZP072",
+        "YZP086",
+        "YZP099",
+        "YZP101"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P005",
+      "section": "2. Refuge, play and a gift that does not erase refusal",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              258,
+              260
+            ],
+            [
+              409,
+              409
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ02",
+        "YQ04",
+        "YQ10"
+      ],
+      "own_claim_limit": "No guarantee that all adult boundary conduct was respectful, and no sorted or invented source order.",
+      "architecture_track_ids": [
+        "T03",
+        "T07",
+        "T09"
+      ],
+      "method_concern_ids": [
+        "M01",
+        "M03",
+        "M06",
+        "M08",
+        "M11",
+        "M13"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 45,
+        "UTF8_byte_offset": 4869,
+        "UTF8_bytes_without_LF": 601,
+        "literal_sha256_without_LF": "14bb9628d643193b32f1fe00044ce51ede4c4e7565b996d7fbdcaf94a628d792",
+        "paragraph_id": "YUZU-P005"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP002",
+        "YZP033",
+        "YZP045",
+        "YZP047",
+        "YZP052",
+        "YZP055",
+        "YZP084",
+        "YZP090",
+        "YZP091",
+        "YZP095"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P006",
+      "section": "2. Refuge, play and a gift that does not erase refusal",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              262,
+              265
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ02",
+        "YQ04",
+        "YQ08"
+      ],
+      "own_claim_limit": "Adult response alternatives are alternatives; local game results are not a universal ranking history.",
+      "architecture_track_ids": [
+        "T05",
+        "T07",
+        "T09"
+      ],
+      "method_concern_ids": [
+        "M02",
+        "M05",
+        "M07",
+        "M11",
+        "M13"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 47,
+        "UTF8_byte_offset": 5472,
+        "UTF8_bytes_without_LF": 692,
+        "literal_sha256_without_LF": "7248597f02d0f86f9f3376cff244d6e80902499d30bfed963557b3d7fd366e05",
+        "paragraph_id": "YUZU-P006"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP009",
+        "YZP020",
+        "YZP023",
+        "YZP035",
+        "YZP046",
+        "YZP048",
+        "YZP077",
+        "YZP089"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P007",
+      "section": "2. Refuge, play and a gift that does not erase refusal",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              277,
+              282
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ02",
+        "YQ04"
+      ],
+      "own_claim_limit": "Peer gift delivery is reported; no branch accumulation, unprinted purchase or unrestricted gift consent.",
+      "architecture_track_ids": [
+        "T05",
+        "T07"
+      ],
+      "method_concern_ids": [
+        "M02",
+        "M09",
+        "M11"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 49,
+        "UTF8_byte_offset": 6166,
+        "UTF8_bytes_without_LF": 688,
+        "literal_sha256_without_LF": "2ee576a69a6688997840d5f48966c4a4e91dabde0849b0c5ff69bef799f2bae3",
+        "paragraph_id": "YUZU-P007"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP000",
+        "YZP009",
+        "YZP019",
+        "YZP024",
+        "YZP025",
+        "YZP026",
+        "YZP027",
+        "YZP029",
+        "YZP031",
+        "YZP032",
+        "YZP036",
+        "YZP037",
+        "YZP038",
+        "YZP042",
+        "YZP043",
+        "YZP044",
+        "YZP055",
+        "YZP059",
+        "YZP060",
+        "YZP067",
+        "YZP070",
+        "YZP071",
+        "YZP074",
+        "YZP076",
+        "YZP078",
+        "YZP079",
+        "YZP080",
+        "YZP082",
+        "YZP083",
+        "YZP085",
+        "YZP086",
+        "YZP090",
+        "YZP091",
+        "YZP092",
+        "YZP100",
+        "YZP101",
+        "YZP102",
+        "YZP104"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P008",
+      "section": "2. Refuge, play and a gift that does not erase refusal",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              284,
+              287
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ03",
+        "YQ04",
+        "YQ07"
+      ],
+      "own_claim_limit": "The golden-master etymology is her account; no clinical cure or public review consensus is supplied.",
+      "architecture_track_ids": [
+        "T02",
+        "T05",
+        "T07",
+        "T08"
+      ],
+      "method_concern_ids": [
+        "M02",
+        "M03",
+        "M11",
+        "M12",
+        "M14"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 51,
+        "UTF8_byte_offset": 6856,
+        "UTF8_bytes_without_LF": 522,
+        "literal_sha256_without_LF": "8c9d56e4b95ef639922a3a9c576708e65cfc1a087f77720eb0db367129408714",
+        "paragraph_id": "YUZU-P008"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP016",
+        "YZP018",
+        "YZP028",
+        "YZP035",
+        "YZP039",
+        "YZP040",
+        "YZP044",
+        "YZP046",
+        "YZP049",
+        "YZP054",
+        "YZP072",
+        "YZP073",
+        "YZP075",
+        "YZP086",
+        "YZP093",
+        "YZP094",
+        "YZP096",
+        "YZP103"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P009",
+      "section": "2. Refuge, play and a gift that does not erase refusal",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              287,
+              289
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ03",
+        "YQ07"
+      ],
+      "own_claim_limit": "No technical safety audit or completed replay is inferred from successful preservation.",
+      "architecture_track_ids": [
+        "T02"
+      ],
+      "method_concern_ids": [
+        "M07",
+        "M14"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 53,
+        "UTF8_byte_offset": 7380,
+        "UTF8_bytes_without_LF": 533,
+        "literal_sha256_without_LF": "5b651f006e820d71bc756f675701fe4d297fe369991698a90fe5e89dd78783a5",
+        "paragraph_id": "YUZU-P009"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP003",
+        "YZP004",
+        "YZP021",
+        "YZP040",
+        "YZP073",
+        "YZP075",
+        "YZP096",
+        "YZP099",
+        "YZP103"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P010",
+      "section": "3. Making and work expose the limits of reassurance",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              267,
+              270
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ03",
+        "YQ09"
+      ],
+      "own_claim_limit": "Resource need is concrete; loss scale and repair remain reported at their stated scope.",
+      "architecture_track_ids": [
+        "T04",
+        "T08"
+      ],
+      "method_concern_ids": [
+        "M02",
+        "M06",
+        "M10"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 57,
+        "UTF8_byte_offset": 7971,
+        "UTF8_bytes_without_LF": 525,
+        "literal_sha256_without_LF": "80b08cb7d80ea99552119563b548f588d7c7739dec074c28519dca45fb315b46",
+        "paragraph_id": "YUZU-P010"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP003",
+        "YZP010",
+        "YZP014",
+        "YZP030",
+        "YZP037",
+        "YZP064",
+        "YZP068"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P011",
+      "section": "3. Making and work expose the limits of reassurance",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              268,
+              270
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ04",
+        "YQ09",
+        "YQ10"
+      ],
+      "own_claim_limit": "No indefinite work availability, verified customer consensus or complete allocation of referral responsibility.",
+      "architecture_track_ids": [
+        "T07",
+        "T09"
+      ],
+      "method_concern_ids": [
+        "M03",
+        "M04",
+        "M07",
+        "M08",
+        "M11",
+        "M13"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 59,
+        "UTF8_byte_offset": 8498,
+        "UTF8_bytes_without_LF": 566,
+        "literal_sha256_without_LF": "a040492421b9a0db73f6edc968c2fecda805586cc22c9fbff91fa3ccbbb54316",
+        "paragraph_id": "YUZU-P011"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP005",
+        "YZP010",
+        "YZP014",
+        "YZP017",
+        "YZP023",
+        "YZP024",
+        "YZP026",
+        "YZP030",
+        "YZP031",
+        "YZP032",
+        "YZP033",
+        "YZP036",
+        "YZP037",
+        "YZP042",
+        "YZP045",
+        "YZP050",
+        "YZP053",
+        "YZP057",
+        "YZP061",
+        "YZP062",
+        "YZP063",
+        "YZP064",
+        "YZP070",
+        "YZP071",
+        "YZP074",
+        "YZP076",
+        "YZP078",
+        "YZP079",
+        "YZP082",
+        "YZP084",
+        "YZP087",
+        "YZP088",
+        "YZP089",
+        "YZP090",
+        "YZP092",
+        "YZP094",
+        "YZP095",
+        "YZP100",
+        "YZP102",
+        "YZP104"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P012",
+      "section": "3. Making and work expose the limits of reassurance",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              272,
+              275
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ02",
+        "YQ03",
+        "YQ10"
+      ],
+      "own_claim_limit": "Repeated self-exhortation is one printed repetition, not two independent decisions or proof of permanent recovery.",
+      "architecture_track_ids": [],
+      "method_concern_ids": [
+        "M09"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 61,
+        "UTF8_byte_offset": 9066,
+        "UTF8_bytes_without_LF": 641,
+        "literal_sha256_without_LF": "7e93b970d44b8d3717b092acddd1946217ec876927bf996cce3d177aeb96a14b",
+        "paragraph_id": "YUZU-P012"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP000",
+        "YZP005",
+        "YZP014",
+        "YZP025",
+        "YZP026",
+        "YZP027",
+        "YZP028",
+        "YZP031",
+        "YZP032",
+        "YZP036",
+        "YZP038",
+        "YZP041",
+        "YZP052",
+        "YZP058",
+        "YZP061",
+        "YZP062",
+        "YZP064",
+        "YZP065",
+        "YZP070",
+        "YZP071",
+        "YZP076",
+        "YZP078",
+        "YZP079",
+        "YZP081",
+        "YZP082",
+        "YZP088",
+        "YZP090",
+        "YZP092",
+        "YZP100",
+        "YZP104"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P013",
+      "section": "3. Making and work expose the limits of reassurance",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              293,
+              296
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ03",
+        "YQ04",
+        "YQ09"
+      ],
+      "own_claim_limit": "No enacted forced dressing, objectively inferior body, signed papers or school-wide rumor is established.",
+      "architecture_track_ids": [
+        "T03",
+        "T04",
+        "T08"
+      ],
+      "method_concern_ids": [
+        "M02",
+        "M04",
+        "M05",
+        "M06",
+        "M09",
+        "M10",
+        "M12"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 63,
+        "UTF8_byte_offset": 9709,
+        "UTF8_bytes_without_LF": 700,
+        "literal_sha256_without_LF": "34c977c6b440b17a2517ee6bdd99767d9565399263846588fd91a5731186d685",
+        "paragraph_id": "YUZU-P013"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP001",
+        "YZP013",
+        "YZP016",
+        "YZP019",
+        "YZP022",
+        "YZP029",
+        "YZP034",
+        "YZP035",
+        "YZP040",
+        "YZP044",
+        "YZP048",
+        "YZP049",
+        "YZP050",
+        "YZP051",
+        "YZP059",
+        "YZP061",
+        "YZP072",
+        "YZP073",
+        "YZP074",
+        "YZP075",
+        "YZP077",
+        "YZP079",
+        "YZP080",
+        "YZP082",
+        "YZP083",
+        "YZP084",
+        "YZP085",
+        "YZP086",
+        "YZP087",
+        "YZP090",
+        "YZP093",
+        "YZP094",
+        "YZP095",
+        "YZP096",
+        "YZP097",
+        "YZP103"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P014",
+      "section": "3. Making and work expose the limits of reassurance",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              298,
+              301
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ04",
+        "YQ09",
+        "YQ10"
+      ],
+      "own_claim_limit": "The adult’s charm-point appraisal of clumsiness is not an ergonomic or customer safety finding.",
+      "architecture_track_ids": [
+        "T02",
+        "T07"
+      ],
+      "method_concern_ids": [
+        "M03",
+        "M11",
+        "M14"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 65,
+        "UTF8_byte_offset": 10411,
+        "UTF8_bytes_without_LF": 635,
+        "literal_sha256_without_LF": "c1d55b9519dd3685902e9ae58471e1c81fc932e0a58a2bd951d52eb5fa71fde1",
+        "paragraph_id": "YUZU-P014"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP001",
+        "YZP010",
+        "YZP014",
+        "YZP024",
+        "YZP032",
+        "YZP033",
+        "YZP034",
+        "YZP035",
+        "YZP047",
+        "YZP052",
+        "YZP053",
+        "YZP059",
+        "YZP061",
+        "YZP063",
+        "YZP064",
+        "YZP076",
+        "YZP077",
+        "YZP080",
+        "YZP085",
+        "YZP088",
+        "YZP091",
+        "YZP093",
+        "YZP097",
+        "YZP100"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P015",
+      "section": "3. Making and work expose the limits of reassurance",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              303,
+              308
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ03",
+        "YQ08",
+        "YQ10"
+      ],
+      "own_claim_limit": "Employer repair/popularity reports stay reports; no universal enjoyment of errors or vanishing worker burden.",
+      "architecture_track_ids": [
+        "T02",
+        "T03",
+        "T07",
+        "T09"
+      ],
+      "method_concern_ids": [
+        "M01",
+        "M04",
+        "M05",
+        "M07",
+        "M11",
+        "M13",
+        "M14"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 67,
+        "UTF8_byte_offset": 11048,
+        "UTF8_bytes_without_LF": 717,
+        "literal_sha256_without_LF": "fe9b1d505bacfecc33703d0a58264cb0532a2cc596bf42495fb3ec53a4adc016",
+        "paragraph_id": "YUZU-P015"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP003",
+        "YZP005",
+        "YZP013",
+        "YZP022",
+        "YZP040",
+        "YZP050",
+        "YZP051",
+        "YZP057",
+        "YZP059",
+        "YZP060",
+        "YZP062",
+        "YZP070",
+        "YZP074",
+        "YZP077",
+        "YZP088"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P016",
+      "section": "3. Making and work expose the limits of reassurance",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              310,
+              313
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ03",
+        "YQ04",
+        "YQ09"
+      ],
+      "own_claim_limit": "Generic visitors stay unregistered; the repeated misunderstanding is not proof of a universal reputation.",
+      "architecture_track_ids": [],
+      "method_concern_ids": [
+        "M09"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 69,
+        "UTF8_byte_offset": 11767,
+        "UTF8_bytes_without_LF": 669,
+        "literal_sha256_without_LF": "f38e1a2a21ab289067d71882505aa9a5770bc42487729c0811df2d9b27ff3109",
+        "paragraph_id": "YUZU-P016"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP001",
+        "YZP016",
+        "YZP034",
+        "YZP049",
+        "YZP072",
+        "YZP085",
+        "YZP093",
+        "YZP097",
+        "YZP101"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P017",
+      "section": "4. The separate20055 scope: comfort, cooperation and a wanted world",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              317,
+              320
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ01",
+        "YQ04",
+        "YQ10"
+      ],
+      "own_claim_limit": "Separate CH0336 evidence; no diagnosis, chronology backfill or new Final source grade.",
+      "architecture_track_ids": [
+        "T07"
+      ],
+      "method_concern_ids": [
+        "M04",
+        "M11",
+        "M14"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 73,
+        "UTF8_byte_offset": 12510,
+        "UTF8_bytes_without_LF": 672,
+        "literal_sha256_without_LF": "1f8744a48831780896c873e04b9339eccada886b5c407c2389651151198975dc",
+        "paragraph_id": "YUZU-P017"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP002",
+        "YZP006",
+        "YZP024",
+        "YZP028",
+        "YZP033",
+        "YZP038",
+        "YZP039",
+        "YZP047",
+        "YZP054",
+        "YZP058",
+        "YZP063",
+        "YZP066",
+        "YZP067",
+        "YZP075",
+        "YZP083",
+        "YZP099"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P018",
+      "section": "4. The separate20055 scope: comfort, cooperation and a wanted world",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              322,
+              325
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ03",
+        "YQ04",
+        "YQ08"
+      ],
+      "own_claim_limit": "Later sightings/uniqueness remain hearsay; no general gaming collapse or inspected developer-bug cause.",
+      "architecture_track_ids": [
+        "T07"
+      ],
+      "method_concern_ids": [
+        "M07",
+        "M11",
+        "M14"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 75,
+        "UTF8_byte_offset": 13184,
+        "UTF8_bytes_without_LF": 663,
+        "literal_sha256_without_LF": "dbd8d5e57f4da304b166e591652340f75a5fd3ebba79deef5c86108b1ab8562e",
+        "paragraph_id": "YUZU-P018"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP006",
+        "YZP020",
+        "YZP023",
+        "YZP089",
+        "YZP098"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P019",
+      "section": "4. The separate20055 scope: comfort, cooperation and a wanted world",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              327,
+              332
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ02",
+        "YQ03",
+        "YQ10"
+      ],
+      "own_claim_limit": "No clinical injury or enacted off-game violence is supplied by the tournament representation.",
+      "architecture_track_ids": [
+        "T07"
+      ],
+      "method_concern_ids": [
+        "M04",
+        "M07",
+        "M11",
+        "M14"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 77,
+        "UTF8_byte_offset": 13849,
+        "UTF8_bytes_without_LF": 616,
+        "literal_sha256_without_LF": "e2c85e7719214570c15db705afdf96d62e139881a294afb5b4f840cf4ed74bdd",
+        "paragraph_id": "YUZU-P019"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP023",
+        "YZP089",
+        "YZP098"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P020",
+      "section": "4. The separate20055 scope: comfort, cooperation and a wanted world",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              327,
+              332
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ02",
+        "YQ04",
+        "YQ08"
+      ],
+      "own_claim_limit": "A wanted prize and unwanted publicity remain nonidentical endpoints in the separate person-key scope.",
+      "architecture_track_ids": [
+        "T02",
+        "T07"
+      ],
+      "method_concern_ids": [
+        "M02",
+        "M03",
+        "M11",
+        "M14"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 79,
+        "UTF8_byte_offset": 14467,
+        "UTF8_bytes_without_LF": 576,
+        "literal_sha256_without_LF": "a9760bc11c24a9e6644aa5c0808f6194405c37449a13c115d12c5d3fa6cc1ae6",
+        "paragraph_id": "YUZU-P020"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP006",
+        "YZP017",
+        "YZP039",
+        "YZP056",
+        "YZP058",
+        "YZP067",
+        "YZP071",
+        "YZP081"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P021",
+      "section": "4. The separate20055 scope: comfort, cooperation and a wanted world",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              334,
+              339
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ01",
+        "YQ02",
+        "YQ08"
+      ],
+      "own_claim_limit": "No independent NPC personhood, universal game skill or new MAIN/Final ending follows.",
+      "architecture_track_ids": [
+        "T03",
+        "T05",
+        "T09"
+      ],
+      "method_concern_ids": [
+        "M02",
+        "M05",
+        "M09",
+        "M13"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 81,
+        "UTF8_byte_offset": 15045,
+        "UTF8_bytes_without_LF": 688,
+        "literal_sha256_without_LF": "c86757ab3d9ad5f13f189fa06b97a44bfdd16ce96c9b1f1e0e9fd4809feef8d1",
+        "paragraph_id": "YUZU-P021"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP066",
+        "YZP067",
+        "YZP098"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P022",
+      "section": "5. Peer-led play: a refusal, a new choice, a win and an exit",
+      "source_refs": [
+        {
+          "source_id": "YS02",
+          "physical_intervals": [
+            [
+              64,
+              79
+            ],
+            [
+              89,
+              99
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ01",
+        "YQ05"
+      ],
+      "own_claim_limit": "Source-local continuity is secure; variant assignment and an invented overnight timing bridge are not.",
+      "architecture_track_ids": [
+        "T08"
+      ],
+      "method_concern_ids": [
+        "M08",
+        "M12"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 85,
+        "UTF8_byte_offset": 15800,
+        "UTF8_bytes_without_LF": 526,
+        "literal_sha256_without_LF": "61fe61440cfa9161105969dba5cd51c5d54322202109778a93f929794501f9df",
+        "paragraph_id": "YUZU-P022"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP007",
+        "YZP015",
+        "YZP029",
+        "YZP045",
+        "YZP046",
+        "YZP091"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P023",
+      "section": "5. Peer-led play: a refusal, a new choice, a win and an exit",
+      "source_refs": [
+        {
+          "source_id": "YS02",
+          "physical_intervals": [
+            [
+              73,
+              79
+            ],
+            [
+              97,
+              99
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ02",
+        "YQ03",
+        "YQ05"
+      ],
+      "own_claim_limit": "No machine benchmark, purchase, console ownership or completed leisure recovery is asserted.",
+      "architecture_track_ids": [
+        "T05"
+      ],
+      "method_concern_ids": [
+        "M02",
+        "M09"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 87,
+        "UTF8_byte_offset": 16328,
+        "UTF8_bytes_without_LF": 507,
+        "literal_sha256_without_LF": "5cebe5b9e4aa60bdfb1e685940c4d399e4c8a382ef65d0711a15ae5f1b5edf6c",
+        "paragraph_id": "YUZU-P023"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP004",
+        "YZP015",
+        "YZP020",
+        "YZP021"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P024",
+      "section": "5. Peer-led play: a refusal, a new choice, a win and an exit",
+      "source_refs": [
+        {
+          "source_id": "YS02",
+          "physical_intervals": [
+            [
+              81,
+              95
+            ],
+            [
+              124,
+              130
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ05",
+        "YQ08",
+        "YQ09"
+      ],
+      "own_claim_limit": "Local perfect play and apology do not establish platform moderation, universal rank or durable manners.",
+      "architecture_track_ids": [
+        "T08"
+      ],
+      "method_concern_ids": [
+        "M07",
+        "M08",
+        "M12"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 89,
+        "UTF8_byte_offset": 16837,
+        "UTF8_bytes_without_LF": 577,
+        "literal_sha256_without_LF": "40c785314bc71e569637f4f40de867dd26c6f6b7380c965916419323b3e0b8c6",
+        "paragraph_id": "YUZU-P024"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP004",
+        "YZP011",
+        "YZP015",
+        "YZP045",
+        "YZP048"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P025",
+      "section": "5. Peer-led play: a refusal, a new choice, a win and an exit",
+      "source_refs": [
+        {
+          "source_id": "YS02",
+          "physical_intervals": [
+            [
+              91,
+              99
+            ],
+            [
+              118,
+              130
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ05",
+        "YQ07",
+        "YQ08"
+      ],
+      "own_claim_limit": "The contrary audience ending is retained, not converted into a hidden wish for celebrity.",
+      "architecture_track_ids": [
+        "T03",
+        "T09"
+      ],
+      "method_concern_ids": [
+        "M01",
+        "M04",
+        "M05",
+        "M06",
+        "M13"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 91,
+        "UTF8_byte_offset": 17416,
+        "UTF8_bytes_without_LF": 639,
+        "literal_sha256_without_LF": "9976c661d85a0af845d980af47154d84dea855eeef660699ee7c0b143cb714fe",
+        "paragraph_id": "YUZU-P025"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP007",
+        "YZP015",
+        "YZP022",
+        "YZP023",
+        "YZP026",
+        "YZP029",
+        "YZP041",
+        "YZP045",
+        "YZP046",
+        "YZP048",
+        "YZP049",
+        "YZP050",
+        "YZP051",
+        "YZP052",
+        "YZP053",
+        "YZP055",
+        "YZP056",
+        "YZP060",
+        "YZP062",
+        "YZP080",
+        "YZP081",
+        "YZP083",
+        "YZP084",
+        "YZP085",
+        "YZP087",
+        "YZP089",
+        "YZP091",
+        "YZP095",
+        "YZP097",
+        "YZP101"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P026",
+      "section": "6. Club and crisis: recognition is not a complete home",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              374,
+              377
+            ]
+          ]
+        },
+        {
+          "source_id": "YS04",
+          "physical_intervals": [
+            [
+              79,
+              81
+            ],
+            [
+              94,
+              102
+            ],
+            [
+              140,
+              144
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ03",
+        "YQ07",
+        "YQ09"
+      ],
+      "own_claim_limit": "These chapter outcomes are attributed maintained comparison, not my fresh reading of chapter primaries.",
+      "architecture_track_ids": [
+        "T04"
+      ],
+      "method_concern_ids": [
+        "M06",
+        "M10"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 95,
+        "UTF8_byte_offset": 18116,
+        "UTF8_bytes_without_LF": 576,
+        "literal_sha256_without_LF": "1cc23893b4aff9fd5e727fbcddb024ec1f68fa05582d5d34a9ab438f5e0bfcb1",
+        "paragraph_id": "YUZU-P026"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP008",
+        "YZP018",
+        "YZP030",
+        "YZP037",
+        "YZP042",
+        "YZP043",
+        "YZP065",
+        "YZP068",
+        "YZP073",
+        "YZP094",
+        "YZP096",
+        "YZP102"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P027",
+      "section": "6. Club and crisis: recognition is not a complete home",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              386,
+              389
+            ]
+          ]
+        },
+        {
+          "source_id": "YS04",
+          "physical_intervals": [
+            [
+              104,
+              112
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ07",
+        "YQ09"
+      ],
+      "own_claim_limit": "No universal permission for deception or completed institutional reparation.",
+      "architecture_track_ids": [
+        "T04",
+        "T06"
+      ],
+      "method_concern_ids": [
+        "M08",
+        "M10"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 97,
+        "UTF8_byte_offset": 18694,
+        "UTF8_bytes_without_LF": 609,
+        "literal_sha256_without_LF": "9d6a31de7ff386a44a9170377a24c8dbd4821bbbb3f95874b1d4205e18edfe96",
+        "paragraph_id": "YUZU-P027"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP004",
+        "YZP008",
+        "YZP011",
+        "YZP017",
+        "YZP043"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P028",
+      "section": "6. Club and crisis: recognition is not a complete home",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              386,
+              391
+            ]
+          ]
+        },
+        {
+          "source_id": "YS04",
+          "physical_intervals": [
+            [
+              86,
+              92
+            ],
+            [
+              128,
+              156
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ07",
+        "YQ10"
+      ],
+      "own_claim_limit": "No complete safety settlement, solo rescue attribution or retroactive permission for every dangerous assignment.",
+      "architecture_track_ids": [
+        "T04",
+        "T06",
+        "T08"
+      ],
+      "method_concern_ids": [
+        "M06",
+        "M10",
+        "M12"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 99,
+        "UTF8_byte_offset": 19305,
+        "UTF8_bytes_without_LF": 549,
+        "literal_sha256_without_LF": "1048e8bec3fb6e75bafc838c7da10816dbdc41a65d041e0fc14d0b04d90aa665",
+        "paragraph_id": "YUZU-P028"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP018",
+        "YZP020",
+        "YZP029",
+        "YZP030",
+        "YZP034",
+        "YZP039",
+        "YZP041",
+        "YZP054",
+        "YZP056",
+        "YZP057",
+        "YZP058",
+        "YZP063",
+        "YZP065",
+        "YZP081",
+        "YZP087",
+        "YZP103"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P029",
+      "section": "7. Event825: puzzle work, companions and partial settlements",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              354,
+              355
+            ],
+            [
+              444,
+              446
+            ]
+          ]
+        },
+        {
+          "source_id": "YS03",
+          "physical_intervals": [
+            [
+              99,
+              103
+            ],
+            [
+              115,
+              115
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ03",
+        "YQ06",
+        "YQ09"
+      ],
+      "own_claim_limit": "Tentative participant reasoning and declared UI associations are not engineering, identity or full security certifications.",
+      "architecture_track_ids": [
+        "T04",
+        "T06"
+      ],
+      "method_concern_ids": [
+        "M07",
+        "M10"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 103,
+        "UTF8_byte_offset": 19921,
+        "UTF8_bytes_without_LF": 563,
+        "literal_sha256_without_LF": "c3978c658b0be22cf34318930ce0a55d9fefa62b11f386a1a23c5f83c24df1d3",
+        "paragraph_id": "YUZU-P029"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP010",
+        "YZP069"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P030",
+      "section": "7. Event825: puzzle work, companions and partial settlements",
+      "source_refs": [
+        {
+          "source_id": "YS03",
+          "physical_intervals": [
+            [
+              107,
+              117
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ03",
+        "YQ06",
+        "YQ07"
+      ],
+      "own_claim_limit": "No collateral-damage survey, all-purpose harmless-thief verdict or completed mansion-wide suppression.",
+      "architecture_track_ids": [
+        "T06",
+        "T08"
+      ],
+      "method_concern_ids": [
+        "M07",
+        "M12"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 105,
+        "UTF8_byte_offset": 20486,
+        "UTF8_bytes_without_LF": 567,
+        "literal_sha256_without_LF": "4d3da9e18767a551d8566bfafea4f5076110e3006662e793d0667bf67a0f87e9",
+        "paragraph_id": "YUZU-P030"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP017",
+        "YZP020",
+        "YZP034",
+        "YZP041",
+        "YZP042",
+        "YZP054",
+        "YZP056",
+        "YZP057",
+        "YZP065",
+        "YZP069",
+        "YZP081",
+        "YZP099"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P031",
+      "section": "7. Event825: puzzle work, companions and partial settlements",
+      "source_refs": [
+        {
+          "source_id": "YS03",
+          "physical_intervals": [
+            [
+              107,
+              115
+            ],
+            [
+              125,
+              127
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ04",
+        "YQ06",
+        "YQ08"
+      ],
+      "own_claim_limit": "Collective club response is not redistributed as individual speech; seam-qualified actors remain qualified.",
+      "architecture_track_ids": [
+        "T06",
+        "T08",
+        "T09"
+      ],
+      "method_concern_ids": [
+        "M08",
+        "M12",
+        "M13"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 107,
+        "UTF8_byte_offset": 21055,
+        "UTF8_bytes_without_LF": 597,
+        "literal_sha256_without_LF": "dbcf76fedcb0ad196bcfe34eb50dc0b88ef7b80d6214cee6e810a74bcf381b85",
+        "paragraph_id": "YUZU-P031"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP011",
+        "YZP056",
+        "YZP069",
+        "YZP087",
+        "YZP098"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P032",
+      "section": "7. Event825: puzzle work, companions and partial settlements",
+      "source_refs": [
+        {
+          "source_id": "YS03",
+          "physical_intervals": [
+            [
+              119,
+              127
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ02",
+        "YQ06",
+        "YQ09"
+      ],
+      "own_claim_limit": "No Akira capture, legal ownership settlement, paid amount, purchased machine or instituted development allocation.",
+      "architecture_track_ids": [
+        "T04",
+        "T06"
+      ],
+      "method_concern_ids": [
+        "M02",
+        "M08",
+        "M10"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 109,
+        "UTF8_byte_offset": 21654,
+        "UTF8_bytes_without_LF": 680,
+        "literal_sha256_without_LF": "6fa2e6a3d05e8a3a89f3dc2b92f4e6f77e79290eee025c0ddc783e35f9cf7b67",
+        "paragraph_id": "YUZU-P032"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP008",
+        "YZP017",
+        "YZP021",
+        "YZP037",
+        "YZP042",
+        "YZP043",
+        "YZP068",
+        "YZP069",
+        "YZP094",
+        "YZP102"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P033",
+      "section": "8. Directed care without an adult monopoly",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              257,
+              339
+            ],
+            [
+              389,
+              401
+            ],
+            [
+              424,
+              425
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ04",
+        "YQ10"
+      ],
+      "own_claim_limit": "No romance, universal therapeutic authority, sole rescuer model or total account of Sensei interiority.",
+      "architecture_track_ids": [
+        "T07"
+      ],
+      "method_concern_ids": [
+        "M01",
+        "M03",
+        "M08",
+        "M11"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 113,
+        "UTF8_byte_offset": 22383,
+        "UTF8_bytes_without_LF": 556,
+        "literal_sha256_without_LF": "82e9cd37f8001c3e148e743983f2c1ec76c6d4d127a4fd5ead2ae28f302dd485",
+        "paragraph_id": "YUZU-P033"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP000",
+        "YZP001",
+        "YZP005",
+        "YZP006",
+        "YZP010",
+        "YZP016",
+        "YZP022",
+        "YZP024",
+        "YZP026",
+        "YZP027",
+        "YZP028",
+        "YZP031",
+        "YZP032",
+        "YZP033",
+        "YZP034",
+        "YZP038",
+        "YZP039",
+        "YZP040",
+        "YZP041",
+        "YZP044",
+        "YZP045",
+        "YZP047",
+        "YZP049",
+        "YZP050",
+        "YZP052",
+        "YZP053",
+        "YZP054",
+        "YZP055",
+        "YZP057",
+        "YZP058",
+        "YZP059",
+        "YZP061",
+        "YZP062",
+        "YZP063",
+        "YZP064",
+        "YZP066",
+        "YZP067",
+        "YZP070",
+        "YZP071",
+        "YZP072",
+        "YZP074",
+        "YZP075",
+        "YZP076",
+        "YZP078",
+        "YZP079",
+        "YZP083",
+        "YZP084",
+        "YZP086",
+        "YZP088",
+        "YZP090",
+        "YZP091",
+        "YZP092",
+        "YZP093",
+        "YZP095",
+        "YZP099",
+        "YZP100",
+        "YZP101",
+        "YZP103",
+        "YZP104"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P034",
+      "section": "8. Directed care without an adult monopoly",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              267,
+              299
+            ],
+            [
+              374,
+              401
+            ]
+          ]
+        },
+        {
+          "source_id": "YS02",
+          "physical_intervals": [
+            [
+              69,
+              99
+            ]
+          ]
+        },
+        {
+          "source_id": "YS03",
+          "physical_intervals": [
+            [
+              107,
+              127
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ04",
+        "YQ06",
+        "YQ07"
+      ],
+      "own_claim_limit": "No separate relationship duty is completed, and no uniform club appetite for exposure is inferred.",
+      "architecture_track_ids": [
+        "T08"
+      ],
+      "method_concern_ids": [
+        "M06",
+        "M10",
+        "M12"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 115,
+        "UTF8_byte_offset": 22941,
+        "UTF8_bytes_without_LF": 603,
+        "literal_sha256_without_LF": "5ab3fe75dd7d06f3a412886ee4852a82f51ad8c7cf4d203274750fae36ee8af9",
+        "paragraph_id": "YUZU-P034"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP007",
+        "YZP013",
+        "YZP015",
+        "YZP018",
+        "YZP019",
+        "YZP022",
+        "YZP029",
+        "YZP030",
+        "YZP038",
+        "YZP041",
+        "YZP048",
+        "YZP049",
+        "YZP051",
+        "YZP052",
+        "YZP054",
+        "YZP055",
+        "YZP056",
+        "YZP058",
+        "YZP060",
+        "YZP061",
+        "YZP065",
+        "YZP069",
+        "YZP073",
+        "YZP080",
+        "YZP082",
+        "YZP087",
+        "YZP095",
+        "YZP096",
+        "YZP097",
+        "YZP103"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P035",
+      "section": "9. Written repertoire and the limits of a longitudinal story",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              343,
+              346
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ02",
+        "YQ08",
+        "YQ12"
+      ],
+      "own_claim_limit": "Printed profile/UI facts stay source-conditioned and do not establish performed voice or an elapsed calendar.",
+      "architecture_track_ids": [
+        "T03",
+        "T05",
+        "T09"
+      ],
+      "method_concern_ids": [
+        "M05",
+        "M09",
+        "M13",
+        "M16"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 119,
+        "UTF8_byte_offset": 23611,
+        "UTF8_bytes_without_LF": 529,
+        "literal_sha256_without_LF": "f564b806337525bacf18940111624d5f59efa006202ff399ac839f112f176661",
+        "paragraph_id": "YUZU-P035"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP009",
+        "YZP012",
+        "YZP018",
+        "YZP019",
+        "YZP025",
+        "YZP027",
+        "YZP028",
+        "YZP031",
+        "YZP035",
+        "YZP036",
+        "YZP038",
+        "YZP043",
+        "YZP068",
+        "YZP072",
+        "YZP077",
+        "YZP078",
+        "YZP085",
+        "YZP086",
+        "YZP092",
+        "YZP101",
+        "YZP104"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P036",
+      "section": "9. Written repertoire and the limits of a longitudinal story",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              348,
+              355
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ01",
+        "YQ02",
+        "YQ08"
+      ],
+      "own_claim_limit": "Variant continuity within YUZU does not join the separate CH0336 key or enact every contextual utterance.",
+      "architecture_track_ids": [
+        "T03",
+        "T05",
+        "T09"
+      ],
+      "method_concern_ids": [
+        "M05",
+        "M09",
+        "M13",
+        "M16"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 121,
+        "UTF8_byte_offset": 24142,
+        "UTF8_bytes_without_LF": 593,
+        "literal_sha256_without_LF": "5a11ae45c6d5a74f65c11864451f0501ae8fb6fab59c2eb035cc79ca252a7a80",
+        "paragraph_id": "YUZU-P036"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP012",
+        "YZP025",
+        "YZP027",
+        "YZP028",
+        "YZP078",
+        "YZP097",
+        "YZP104"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P037",
+      "section": "9. Written repertoire and the limits of a longitudinal story",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              351,
+              362
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ01",
+        "YQ02",
+        "YQ08",
+        "YQ12"
+      ],
+      "own_claim_limit": "No source-grade expansion to full E854 plot; no additional Final reading from the private recollection.",
+      "architecture_track_ids": [
+        "T03",
+        "T05",
+        "T09"
+      ],
+      "method_concern_ids": [
+        "M05",
+        "M09",
+        "M13",
+        "M16"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 123,
+        "UTF8_byte_offset": 24737,
+        "UTF8_bytes_without_LF": 606,
+        "literal_sha256_without_LF": "7a7d4c74f2a8e48caa110f5562fa2dca29b7cf648b6cfebc2b19747b8039aefe",
+        "paragraph_id": "YUZU-P037"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP012",
+        "YZP098"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P038",
+      "section": "9. Written repertoire and the limits of a longitudinal story",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              284,
+              339
+            ],
+            [
+              403,
+              409
+            ]
+          ]
+        },
+        {
+          "source_id": "YS02",
+          "physical_intervals": [
+            [
+              79,
+              79
+            ],
+            [
+              103,
+              116
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ07",
+        "YQ08",
+        "YQ12"
+      ],
+      "own_claim_limit": "No merged biography, repaired timestamp, selected choice accumulation or general conversion trajectory.",
+      "architecture_track_ids": [
+        "T02",
+        "T09"
+      ],
+      "method_concern_ids": [
+        "M13",
+        "M14",
+        "M16"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 125,
+        "UTF8_byte_offset": 25345,
+        "UTF8_bytes_without_LF": 686,
+        "literal_sha256_without_LF": "7abc9c548d9ce60fca2a0bfcf50c154d418c54617467f2b79d2b6acfafc58c47",
+        "paragraph_id": "YUZU-P038"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP014",
+        "YZP035",
+        "YZP053",
+        "YZP060",
+        "YZP077"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P039",
+      "section": "10. Eight serious competing readings",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              263,
+              265
+            ],
+            [
+              303,
+              339
+            ]
+          ]
+        },
+        {
+          "source_id": "YS02",
+          "physical_intervals": [
+            [
+              75,
+              99
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ02",
+        "YQ11"
+      ],
+      "own_claim_limit": "Finite rival R01; retain its strongest warranted observation without making a universal rule.",
+      "architecture_track_ids": [
+        "T10"
+      ],
+      "method_concern_ids": [
+        "M15"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 129,
+        "UTF8_byte_offset": 26074,
+        "UTF8_bytes_without_LF": 350,
+        "literal_sha256_without_LF": "1ee66fc974f25edff96b1aa6dc95a30e8e9f979ab095251a7b83de980cb768d2",
+        "paragraph_id": "YUZU-P039"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP003",
+        "YZP011",
+        "YZP020",
+        "YZP021",
+        "YZP046",
+        "YZP089"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P040",
+      "section": "10. Eight serious competing readings",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              267,
+              313
+            ],
+            [
+              327,
+              332
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ10",
+        "YQ11"
+      ],
+      "own_claim_limit": "Finite rival R02; retain its strongest warranted observation without making a universal rule.",
+      "architecture_track_ids": [
+        "T10"
+      ],
+      "method_concern_ids": [
+        "M15"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 131,
+        "UTF8_byte_offset": 26426,
+        "UTF8_bytes_without_LF": 355,
+        "literal_sha256_without_LF": "6b06d3d8eb2eb1f6e121c7d00d33975db50ff069e17a63c2b2b78ec93fdcf88e",
+        "paragraph_id": "YUZU-P040"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP005",
+        "YZP013",
+        "YZP022",
+        "YZP023",
+        "YZP032",
+        "YZP048",
+        "YZP050",
+        "YZP051",
+        "YZP053",
+        "YZP062",
+        "YZP088"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P041",
+      "section": "10. Eight serious competing readings",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              389,
+              401
+            ],
+            [
+              424,
+              425
+            ]
+          ]
+        },
+        {
+          "source_id": "YS02",
+          "physical_intervals": [
+            [
+              118,
+              127
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ04",
+        "YQ07",
+        "YQ11"
+      ],
+      "own_claim_limit": "Finite rival R03; retain its strongest warranted observation without making a universal rule.",
+      "architecture_track_ids": [
+        "T10"
+      ],
+      "method_concern_ids": [
+        "M15"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 133,
+        "UTF8_byte_offset": 26783,
+        "UTF8_bytes_without_LF": 363,
+        "literal_sha256_without_LF": "0faf9e2fb42683b803553dcc33b4169c2673268f9f9eb101d7a56d1dcf97e4c0",
+        "paragraph_id": "YUZU-P041"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP004",
+        "YZP006",
+        "YZP017",
+        "YZP024",
+        "YZP033",
+        "YZP039",
+        "YZP047",
+        "YZP057",
+        "YZP063",
+        "YZP074",
+        "YZP081",
+        "YZP083"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P042",
+      "section": "10. Eight serious competing readings",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              272,
+              339
+            ],
+            [
+              398,
+              401
+            ]
+          ]
+        },
+        {
+          "source_id": "YS02",
+          "physical_intervals": [
+            [
+              69,
+              99
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ02",
+        "YQ04",
+        "YQ11"
+      ],
+      "own_claim_limit": "Finite rival R04; retain its strongest warranted observation without making a universal rule.",
+      "architecture_track_ids": [
+        "T10"
+      ],
+      "method_concern_ids": [
+        "M15"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 135,
+        "UTF8_byte_offset": 27148,
+        "UTF8_bytes_without_LF": 381,
+        "literal_sha256_without_LF": "a65c08740043e2ea0f0b04da01ecb562cdddc3b99b3b204fa60625e61f1ca5fc",
+        "paragraph_id": "YUZU-P042"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP001",
+        "YZP007",
+        "YZP010",
+        "YZP026",
+        "YZP051",
+        "YZP055",
+        "YZP064",
+        "YZP084"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P043",
+      "section": "10. Eight serious competing readings",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              257,
+              289
+            ]
+          ]
+        },
+        {
+          "source_id": "YS02",
+          "physical_intervals": [
+            [
+              91,
+              99
+            ]
+          ]
+        },
+        {
+          "source_id": "YS03",
+          "physical_intervals": [
+            [
+              101,
+              127
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ03",
+        "YQ10",
+        "YQ11"
+      ],
+      "own_claim_limit": "Finite rival R05; retain its strongest warranted observation without making a universal rule.",
+      "architecture_track_ids": [
+        "T10"
+      ],
+      "method_concern_ids": [
+        "M15"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 137,
+        "UTF8_byte_offset": 27531,
+        "UTF8_bytes_without_LF": 382,
+        "literal_sha256_without_LF": "d62062f6ceb2ab7290674ade34a808bfc8b1f566863da473c68f736cc4d566fe",
+        "paragraph_id": "YUZU-P043"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP008",
+        "YZP021",
+        "YZP030",
+        "YZP075",
+        "YZP099"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P044",
+      "section": "10. Eight serious competing readings",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              275,
+              289
+            ],
+            [
+              334,
+              362
+            ]
+          ]
+        },
+        {
+          "source_id": "YS04",
+          "physical_intervals": [
+            [
+              140,
+              156
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ02",
+        "YQ07",
+        "YQ11"
+      ],
+      "own_claim_limit": "Finite rival R06; retain its strongest warranted observation without making a universal rule.",
+      "architecture_track_ids": [
+        "T10"
+      ],
+      "method_concern_ids": [
+        "M15"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 139,
+        "UTF8_byte_offset": 27915,
+        "UTF8_bytes_without_LF": 390,
+        "literal_sha256_without_LF": "1ae54bf4cc75b7ecd92db4d062ac963bccc8042d3a9c76e255e0972e971cc646",
+        "paragraph_id": "YUZU-P044"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP000",
+        "YZP009",
+        "YZP012",
+        "YZP018",
+        "YZP019",
+        "YZP025",
+        "YZP027",
+        "YZP031",
+        "YZP036",
+        "YZP037",
+        "YZP040",
+        "YZP042",
+        "YZP043",
+        "YZP059",
+        "YZP060",
+        "YZP065",
+        "YZP067",
+        "YZP068",
+        "YZP070",
+        "YZP071",
+        "YZP073",
+        "YZP076",
+        "YZP079",
+        "YZP080",
+        "YZP082",
+        "YZP092",
+        "YZP093",
+        "YZP094",
+        "YZP096",
+        "YZP100",
+        "YZP102",
+        "YZP104"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P045",
+      "section": "10. Eight serious competing readings",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              239,
+              243
+            ],
+            [
+              403,
+              409
+            ]
+          ]
+        },
+        {
+          "source_id": "YS02",
+          "physical_intervals": [
+            [
+              79,
+              103
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ01",
+        "YQ07",
+        "YQ11"
+      ],
+      "own_claim_limit": "Finite rival R07; retain its strongest warranted observation without making a universal rule.",
+      "architecture_track_ids": [
+        "T10"
+      ],
+      "method_concern_ids": [
+        "M15"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 141,
+        "UTF8_byte_offset": 28307,
+        "UTF8_bytes_without_LF": 409,
+        "literal_sha256_without_LF": "6c8bbef2801aa86b63348c40f4da686cc81167095185f569044b20c7bf66d138",
+        "paragraph_id": "YUZU-P045"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP002",
+        "YZP046"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P046",
+      "section": "10. Eight serious competing readings",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              327,
+              339
+            ],
+            [
+              393,
+              396
+            ]
+          ]
+        },
+        {
+          "source_id": "YS04",
+          "physical_intervals": [
+            [
+              140,
+              156
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ01",
+        "YQ08",
+        "YQ11"
+      ],
+      "own_claim_limit": "Finite rival R08; retain its strongest warranted observation without making a universal rule.",
+      "architecture_track_ids": [
+        "T10"
+      ],
+      "method_concern_ids": [
+        "M15"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 143,
+        "UTF8_byte_offset": 28718,
+        "UTF8_bytes_without_LF": 410,
+        "literal_sha256_without_LF": "006da05d2adae2a62c3ca27dc333feb0866ad3bb3d18429d76428f589f57cad0",
+        "paragraph_id": "YUZU-P046"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP066",
+        "YZP098"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P047",
+      "section": "11. Finite endpoints and an evidence route that leaves room for revision",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              257,
+              260
+            ]
+          ]
+        },
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              262,
+              265
+            ]
+          ]
+        },
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              267,
+              270
+            ]
+          ]
+        },
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              272,
+              275
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ12"
+      ],
+      "own_claim_limit": "Endpoints describe only the located act/report and its expressed limit; no durable state or count completion.",
+      "architecture_track_ids": [
+        "T11"
+      ],
+      "method_concern_ids": [],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 147,
+        "UTF8_byte_offset": 29207,
+        "UTF8_bytes_without_LF": 418,
+        "literal_sha256_without_LF": "0a519129744858c2bced006141ac25253f5c9eb0729bfe4a8695ca399cb6e472",
+        "paragraph_id": "YUZU-P047"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP002",
+        "YZP005",
+        "YZP014"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P048",
+      "section": "11. Finite endpoints and an evidence route that leaves room for revision",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              277,
+              282
+            ]
+          ]
+        },
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              284,
+              287
+            ]
+          ]
+        },
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              287,
+              289
+            ]
+          ]
+        },
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              293,
+              296
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ12"
+      ],
+      "own_claim_limit": "Endpoints describe only the located act/report and its expressed limit; no durable state or count completion.",
+      "architecture_track_ids": [
+        "T11"
+      ],
+      "method_concern_ids": [],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 149,
+        "UTF8_byte_offset": 29627,
+        "UTF8_bytes_without_LF": 372,
+        "literal_sha256_without_LF": "e72fc5bd673dc86296f42fa2cd7a73bbdfa4c4c57b2c425999807d1f600eacdd",
+        "paragraph_id": "YUZU-P048"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP000",
+        "YZP003",
+        "YZP009",
+        "YZP016",
+        "YZP025",
+        "YZP044"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P049",
+      "section": "11. Finite endpoints and an evidence route that leaves room for revision",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              298,
+              301
+            ]
+          ]
+        },
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              303,
+              308
+            ]
+          ]
+        },
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              310,
+              313
+            ]
+          ]
+        },
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              317,
+              320
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ12"
+      ],
+      "own_claim_limit": "Endpoints describe only the located act/report and its expressed limit; no durable state or count completion.",
+      "architecture_track_ids": [
+        "T11"
+      ],
+      "method_concern_ids": [],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 151,
+        "UTF8_byte_offset": 30001,
+        "UTF8_bytes_without_LF": 414,
+        "literal_sha256_without_LF": "7c4421af1e55604804b97771faa77e064cf3106750b948e1d8622db47787b371",
+        "paragraph_id": "YUZU-P049"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP001",
+        "YZP006",
+        "YZP013"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P050",
+      "section": "11. Finite endpoints and an evidence route that leaves room for revision",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              322,
+              325
+            ]
+          ]
+        },
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              327,
+              332
+            ]
+          ]
+        },
+        {
+          "source_id": "YS02",
+          "physical_intervals": [
+            [
+              91,
+              99
+            ],
+            [
+              125,
+              125
+            ]
+          ]
+        },
+        {
+          "source_id": "YS03",
+          "physical_intervals": [
+            [
+              123,
+              127
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ12"
+      ],
+      "own_claim_limit": "Endpoints describe only the located act/report and its expressed limit; no durable state or count completion.",
+      "architecture_track_ids": [
+        "T11"
+      ],
+      "method_concern_ids": [],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 153,
+        "UTF8_byte_offset": 30417,
+        "UTF8_bytes_without_LF": 497,
+        "literal_sha256_without_LF": "2908877acf493da9c5571e060c5a12939189c729b5b2cb8ebd0d77bfd5984ce1",
+        "paragraph_id": "YUZU-P050"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP007",
+        "YZP008",
+        "YZP011",
+        "YZP015",
+        "YZP069"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P051",
+      "section": "11. Finite endpoints and an evidence route that leaves room for revision",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              403,
+              454
+            ]
+          ]
+        },
+        {
+          "source_id": "YS04",
+          "physical_intervals": [
+            [
+              214,
+              218
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ01",
+        "YQ12"
+      ],
+      "own_claim_limit": "No original gap is closed; the own CL list neither renames nor replaces that original gap register.",
+      "architecture_track_ids": [
+        "T01",
+        "T11"
+      ],
+      "method_concern_ids": [
+        "M16"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 155,
+        "UTF8_byte_offset": 30916,
+        "UTF8_bytes_without_LF": 697,
+        "literal_sha256_without_LF": "127c52bb4439d05218cfd98fed25da93a7ac1a13f206388f6bdcac58f4e57464",
+        "paragraph_id": "YUZU-P051"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP012",
+        "YZP068"
+      ]
+    },
+    {
+      "paragraph_id": "YUZU-P052",
+      "section": "11. Finite endpoints and an evidence route that leaves room for revision",
+      "source_refs": [
+        {
+          "source_id": "YS01",
+          "physical_intervals": [
+            [
+              438,
+              454
+            ]
+          ]
+        },
+        {
+          "source_id": "YS04",
+          "physical_intervals": [
+            [
+              208,
+              218
+            ]
+          ]
+        }
+      ],
+      "question_ids": [
+        "YQ01",
+        "YQ11",
+        "YQ12"
+      ],
+      "own_claim_limit": "BODY_FIRST_AUTHOR_ARGUMENT_WITH_LIMITS, not independent self-QA or future authority.",
+      "architecture_track_ids": [
+        "T01",
+        "T11"
+      ],
+      "method_concern_ids": [
+        "M16"
+      ],
+      "body_paragraph": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+        "physical_line": 157,
+        "UTF8_byte_offset": 31615,
+        "UTF8_bytes_without_LF": 280,
+        "literal_sha256_without_LF": "939b09bd12938635d319e87503578b3fc3cd0923ec55de203cd10640f7316966",
+        "paragraph_id": "YUZU-P052"
+      },
+      "all_genuine_purpose_ids": [
+        "YZP104"
+      ]
+    }
+  ],
+  "all_unique_adopted_controls": {
+    "current_scope": {
+      "home_zero": 58,
+      "family": "F147",
+      "required_id": "P3-CHAR-YUZU-TWO-KEY-BOUNDED",
+      "one_existing_duty_two_literal_scopes": true,
+      "YUZU_variants": [
+        "10018",
+        "26009"
+      ],
+      "separate_CH0336_variant": "20055",
+      "A067_and_G250_join": "SOURCE_LOCAL_ONLY_EMPTY_UPSTREAM_JOIN_RETAINED",
+      "identity_resolution": "DEFERRED",
+      "inside_named_duty": false
+    },
+    "all11_architecture_tracks": [
+      {
+        "track_id": "T01",
+        "track": "core thesis",
+        "body_paragraph_ids": [
+          "YUZU-P001",
+          "YUZU-P002",
+          "YUZU-P003",
+          "YUZU-P051",
+          "YUZU-P052"
+        ],
+        "complete_own_coverage_reason": "Selective participation distinguishes wanted relation from imposed availability; source and identity limits are part of the thesis."
+      },
+      {
+        "track_id": "T02",
+        "track": "longitudinal arc",
+        "body_paragraph_ids": [
+          "YUZU-P008",
+          "YUZU-P009",
+          "YUZU-P014",
+          "YUZU-P015",
+          "YUZU-P020",
+          "YUZU-P038"
+        ],
+        "complete_own_coverage_reason": "Local change and contrary endings are explicit; release dates and separate keys do not supply a single growth chronology."
+      },
+      {
+        "track_id": "T03",
+        "track": "public/private self",
+        "body_paragraph_ids": [
+          "YUZU-P004",
+          "YUZU-P005",
+          "YUZU-P013",
+          "YUZU-P015",
+          "YUZU-P021",
+          "YUZU-P025",
+          "YUZU-P035",
+          "YUZU-P036",
+          "YUZU-P037"
+        ],
+        "complete_own_coverage_reason": "Audience-specific privacy, skill and presentation survive apparent contradictions; no hidden universal persona is supplied."
+      },
+      {
+        "track_id": "T04",
+        "track": "school/club role",
+        "body_paragraph_ids": [
+          "YUZU-P010",
+          "YUZU-P013",
+          "YUZU-P026",
+          "YUZU-P027",
+          "YUZU-P028",
+          "YUZU-P029",
+          "YUZU-P032"
+        ],
+        "complete_own_coverage_reason": "Material labor, room recognition and distributed help have finite institutional endpoints."
+      },
+      {
+        "track_id": "T05",
+        "track": "ordinary life",
+        "body_paragraph_ids": [
+          "YUZU-P004",
+          "YUZU-P006",
+          "YUZU-P007",
+          "YUZU-P008",
+          "YUZU-P021",
+          "YUZU-P023",
+          "YUZU-P035",
+          "YUZU-P036",
+          "YUZU-P037"
+        ],
+        "complete_own_coverage_reason": "Cool refuge, leisure, gifts, hardware curiosity, warmth and game experience are intrinsic."
+      },
+      {
+        "track_id": "T06",
+        "track": "crisis behavior",
+        "body_paragraph_ids": [
+          "YUZU-P027",
+          "YUZU-P028",
+          "YUZU-P029",
+          "YUZU-P030",
+          "YUZU-P031",
+          "YUZU-P032"
+        ],
+        "complete_own_coverage_reason": "Yuzu contributes within distributed public intervention; cost, deception and unfinished accountability are retained."
+      },
+      {
+        "track_id": "T07",
+        "track": "Sensei relationship",
+        "body_paragraph_ids": [
+          "YUZU-P005",
+          "YUZU-P006",
+          "YUZU-P007",
+          "YUZU-P008",
+          "YUZU-P011",
+          "YUZU-P014",
+          "YUZU-P015",
+          "YUZU-P017",
+          "YUZU-P018",
+          "YUZU-P019",
+          "YUZU-P020",
+          "YUZU-P033"
+        ],
+        "complete_own_coverage_reason": "Actually helpful support and specific failures of understanding/permission are both present."
+      },
+      {
+        "track_id": "T08",
+        "track": "major peer relationships",
+        "body_paragraph_ids": [
+          "YUZU-P008",
+          "YUZU-P010",
+          "YUZU-P013",
+          "YUZU-P022",
+          "YUZU-P024",
+          "YUZU-P028",
+          "YUZU-P030",
+          "YUZU-P031",
+          "YUZU-P034"
+        ],
+        "complete_own_coverage_reason": "Directed contributions and differing wants are not a uniform club personality or a new relationship allocation."
+      },
+      {
+        "track_id": "T09",
+        "track": "language/voice",
+        "body_paragraph_ids": [
+          "YUZU-P005",
+          "YUZU-P006",
+          "YUZU-P011",
+          "YUZU-P015",
+          "YUZU-P021",
+          "YUZU-P025",
+          "YUZU-P031",
+          "YUZU-P035",
+          "YUZU-P036",
+          "YUZU-P037",
+          "YUZU-P038"
+        ],
+        "complete_own_coverage_reason": "Refusal, hedging, labels, reports, choices and UI repetition remain written source modes, never performed voice."
+      },
+      {
+        "track_id": "T10",
+        "track": "competing readings",
+        "body_paragraph_ids": [
+          "YUZU-P039",
+          "YUZU-P040",
+          "YUZU-P041",
+          "YUZU-P042",
+          "YUZU-P043",
+          "YUZU-P044",
+          "YUZU-P045",
+          "YUZU-P046"
+        ],
+        "complete_own_coverage_reason": "Eight explicit serious alternatives retain warranted observations but face concrete contrary cases."
+      },
+      {
+        "track_id": "T11",
+        "track": "evidence route",
+        "body_paragraph_ids": [
+          "YUZU-P003",
+          "YUZU-P047",
+          "YUZU-P048",
+          "YUZU-P049",
+          "YUZU-P050",
+          "YUZU-P051",
+          "YUZU-P052"
+        ],
+        "complete_own_coverage_reason": "Four exact maintained accounts and individual locators support finite endpoints, open gaps and revision."
+      }
+    ],
+    "all16_qualitative_method_concerns": [
+      {
+        "concern_id": "M01",
+        "method_concern": "core contradiction",
+        "body_paragraph_ids": [
+          "YUZU-P001",
+          "YUZU-P005",
+          "YUZU-P015",
+          "YUZU-P025",
+          "YUZU-P033"
+        ],
+        "complete_own_coverage_reason": "Wanted participation and competence coexist with exposure limits. The café and crowd endings stop either side from cancelling the other."
+      },
+      {
+        "concern_id": "M02",
+        "method_concern": "explicit goals",
+        "body_paragraph_ids": [
+          "YUZU-P004",
+          "YUZU-P006",
+          "YUZU-P007",
+          "YUZU-P008",
+          "YUZU-P010",
+          "YUZU-P013",
+          "YUZU-P020",
+          "YUZU-P021",
+          "YUZU-P023",
+          "YUZU-P032"
+        ],
+        "complete_own_coverage_reason": "The body locates quiet space, an opponent, shared leisure, resources, reference work, hardware, a game world and next-game funding as different wanted ends; proposal versus accomplishment remains explicit."
+      },
+      {
+        "concern_id": "M03",
+        "method_concern": "implicit needs",
+        "body_paragraph_ids": [
+          "YUZU-P005",
+          "YUZU-P008",
+          "YUZU-P011",
+          "YUZU-P014",
+          "YUZU-P020",
+          "YUZU-P033"
+        ],
+        "complete_own_coverage_reason": "The interpretation proposes understood conditions and recipient control as needs from actual refusals, privacy and help exchanges. It does not claim hidden motive as directly spoken fact."
+      },
+      {
+        "concern_id": "M04",
+        "method_concern": "fears, wounds, shame, or unresolved obligations",
+        "body_paragraph_ids": [
+          "YUZU-P004",
+          "YUZU-P011",
+          "YUZU-P013",
+          "YUZU-P015",
+          "YUZU-P017",
+          "YUZU-P019",
+          "YUZU-P025"
+        ],
+        "complete_own_coverage_reason": "Social fear, painful criticism, memory and pressure are source-specific. Fear is not a clinical diagnosis, and success does not imply a completed obligation to become available."
+      },
+      {
+        "concern_id": "M05",
+        "method_concern": "self-concept versus others perception",
+        "body_paragraph_ids": [
+          "YUZU-P006",
+          "YUZU-P013",
+          "YUZU-P015",
+          "YUZU-P021",
+          "YUZU-P025",
+          "YUZU-P035",
+          "YUZU-P036",
+          "YUZU-P037"
+        ],
+        "complete_own_coverage_reason": "Cautious speech, ridicule predictions and game-value questions differ from printed results, employer reports and fan legends; no narrator report is silently turned into her self-description."
+      },
+      {
+        "concern_id": "M06",
+        "method_concern": "public role versus private behavior",
+        "body_paragraph_ids": [
+          "YUZU-P005",
+          "YUZU-P010",
+          "YUZU-P013",
+          "YUZU-P025",
+          "YUZU-P026",
+          "YUZU-P028",
+          "YUZU-P034"
+        ],
+        "complete_own_coverage_reason": "Chief, worker, model, competitor and public helper retain separate conditions; private refuge and public contribution are not a contradiction that needs one false side."
+      },
+      {
+        "concern_id": "M07",
+        "method_concern": "competence and failure modes",
+        "body_paragraph_ids": [
+          "YUZU-P006",
+          "YUZU-P009",
+          "YUZU-P011",
+          "YUZU-P015",
+          "YUZU-P018",
+          "YUZU-P019",
+          "YUZU-P024",
+          "YUZU-P029",
+          "YUZU-P030"
+        ],
+        "complete_own_coverage_reason": "Actual wins, data protection and puzzle/scouting work coexist with errors, a body-interface obstacle, uncertain bug explanations and misled interpretation; reported repairs stay reported."
+      },
+      {
+        "concern_id": "M08",
+        "method_concern": "ethics and use of power",
+        "body_paragraph_ids": [
+          "YUZU-P005",
+          "YUZU-P011",
+          "YUZU-P022",
+          "YUZU-P024",
+          "YUZU-P027",
+          "YUZU-P031",
+          "YUZU-P032",
+          "YUZU-P033"
+        ],
+        "complete_own_coverage_reason": "Pressure, omission, deception and requests for surrender have specific actors and recipients. An attained good does not retrospectively authorize a method or impose endless performance."
+      },
+      {
+        "concern_id": "M09",
+        "method_concern": "humor and ordinary life",
+        "body_paragraph_ids": [
+          "YUZU-P004",
+          "YUZU-P007",
+          "YUZU-P012",
+          "YUZU-P013",
+          "YUZU-P016",
+          "YUZU-P021",
+          "YUZU-P023",
+          "YUZU-P035",
+          "YUZU-P036",
+          "YUZU-P037"
+        ],
+        "complete_own_coverage_reason": "Comic role misunderstandings, cooling/console curiosity, gifts, warmth, games and company have intrinsic value; embarrassment is not simply dismissed as a gag."
+      },
+      {
+        "concern_id": "M10",
+        "method_concern": "relationship to school/club",
+        "body_paragraph_ids": [
+          "YUZU-P010",
+          "YUZU-P013",
+          "YUZU-P026",
+          "YUZU-P027",
+          "YUZU-P028",
+          "YUZU-P029",
+          "YUZU-P032",
+          "YUZU-P034"
+        ],
+        "complete_own_coverage_reason": "Making resources and common work connect the club; special prize and reprieve differ from permanent tenure. Distinct members contribute and can pressure or misunderstand."
+      },
+      {
+        "concern_id": "M11",
+        "method_concern": "relationship to Sensei",
+        "body_paragraph_ids": [
+          "YUZU-P005",
+          "YUZU-P006",
+          "YUZU-P007",
+          "YUZU-P008",
+          "YUZU-P011",
+          "YUZU-P014",
+          "YUZU-P015",
+          "YUZU-P017",
+          "YUZU-P018",
+          "YUZU-P019",
+          "YUZU-P020",
+          "YUZU-P033"
+        ],
+        "complete_own_coverage_reason": "The actual adult relation includes welcomed company, honored privacy and crowd extraction alongside omissions and surprising handling. It is not generalized to romance or all peers."
+      },
+      {
+        "concern_id": "M12",
+        "method_concern": "significant peer relationships",
+        "body_paragraph_ids": [
+          "YUZU-P008",
+          "YUZU-P013",
+          "YUZU-P022",
+          "YUZU-P024",
+          "YUZU-P028",
+          "YUZU-P030",
+          "YUZU-P031",
+          "YUZU-P034"
+        ],
+        "complete_own_coverage_reason": "Momoi, Midori, Alice, Toki and other contributors keep their directed acts; the club refusal is collective, Alice invitation is directed to Toki, and a source-local join remains unresolved."
+      },
+      {
+        "concern_id": "M13",
+        "method_concern": "Japanese voice/register",
+        "body_paragraph_ids": [
+          "YUZU-P005",
+          "YUZU-P006",
+          "YUZU-P011",
+          "YUZU-P015",
+          "YUZU-P021",
+          "YUZU-P025",
+          "YUZU-P031",
+          "YUZU-P035",
+          "YUZU-P036",
+          "YUZU-P037",
+          "YUZU-P038"
+        ],
+        "complete_own_coverage_reason": "Emphatic refusal, stammering, hedging, game/maid address, written thought, narrator labels and UI repetition are differentiated; no acoustic acting is inferred."
+      },
+      {
+        "concern_id": "M14",
+        "method_concern": "longitudinal development",
+        "body_paragraph_ids": [
+          "YUZU-P008",
+          "YUZU-P009",
+          "YUZU-P014",
+          "YUZU-P015",
+          "YUZU-P017",
+          "YUZU-P018",
+          "YUZU-P019",
+          "YUZU-P020",
+          "YUZU-P038"
+        ],
+        "complete_own_coverage_reason": "A faced prototype and local rehearsal-to-visit relation support change without recovery certainty. Separate person keys and unknown placement block a single inferred maturation timeline."
+      },
+      {
+        "concern_id": "M15",
+        "method_concern": "contradictions and counterevidence",
+        "body_paragraph_ids": [
+          "YUZU-P039",
+          "YUZU-P040",
+          "YUZU-P041",
+          "YUZU-P042",
+          "YUZU-P043",
+          "YUZU-P044",
+          "YUZU-P045",
+          "YUZU-P046"
+        ],
+        "complete_own_coverage_reason": "All eight rivals are serious partial explanations constrained by specific contrary actions/endings; current errors, declined work and unwanted fame are retained."
+      },
+      {
+        "concern_id": "M16",
+        "method_concern": "source-class dependence of each claim",
+        "body_paragraph_ids": [
+          "YUZU-P003",
+          "YUZU-P035",
+          "YUZU-P036",
+          "YUZU-P037",
+          "YUZU-P038",
+          "YUZU-P051",
+          "YUZU-P052"
+        ],
+        "complete_own_coverage_reason": "Every body paragraph has exact maintained account/physical loci and its own limit. Producer primary35, reports, UI and chapter reuse remain separately attributed; no new105 or model follows."
+      }
+    ],
+    "eight_serious_rivals": [
+      {
+        "rival_id": "R01",
+        "complete_own_argument": "The talent-first reading explains why others rely on her and why UZQueen recognition matters. It fails if talent becomes sufficient explanation: console curiosity, wanted leisure and scripted-game emotion are ends without an audience’s reward, while format-specific movement difficulty and current café errors resist universal mastery.",
+        "body_paragraph_id": "YUZU-P039"
+      },
+      {
+        "rival_id": "R02",
+        "complete_own_argument": "The exposure-as-cure reading can point to completed work, some courage and actual public participation. It cannot absorb the declined next shift, continued stranger fear, repeated misunderstood endings, “もう無理です,” or requested crowd escape. These are contrary endpoints, not temporary noise that a presumed final cure may erase.",
+        "body_paragraph_id": "YUZU-P040"
+      },
+      {
+        "rival_id": "R03",
+        "complete_own_argument": "The adult-rescue reading has genuine evidence in comfort, privacy, shared play and extraction after help requested. It becomes excessive when it ignores omitted job information, misfiring reassurance and observer pressure, or the peer-led arcade action without Sensei. Aid is significant without monopolizing agency or providing one best intervention.",
+        "body_paragraph_id": "YUZU-P041"
+      },
+      {
+        "rival_id": "R04",
+        "complete_own_argument": "The exploitation-only reading rightly notices pressured attendance, uninformed work and unwanted publicity. But it would also erase self-chosen modelling, an invitation to leisure, honored disc privacy, volunteered matches, meaningful work pleasure and shared game-world attention. Recognizing those goods does not excuse the specific pressure that remains beside them.",
+        "body_paragraph_id": "YUZU-P042"
+      },
+      {
+        "rival_id": "R05",
+        "complete_own_argument": "The helpless-withdrawal reading fits concealment and social distress but not her material contributions, quick data preservation, volunteered competition, puzzle/scouting work or request for an apology. Equally, calling every concealment strategic would suppress actual fear. The evidence supports different relations to exposure, not one hidden motive for all retreats.",
+        "body_paragraph_id": "YUZU-P043"
+      },
+      {
+        "rival_id": "R06",
+        "complete_own_argument": "The instrumental-ordinary-life reading treats hobbies, gifts and comfort as useful chiefly because they prepare crisis performance. The sources explicitly value an enjoyable day, nearby joy, warm routine, creative memory and a shared peaceful game world. Some work and rescue really are helped by these relations, but their worth does not depend on a later institutional result.",
+        "body_paragraph_id": "YUZU-P044"
+      },
+      {
+        "rival_id": "R07",
+        "complete_own_argument": "The unified-growth biography gains apparent simplicity from shared names, profile similarities and recurring motifs. It fails the literal two-key binding, unresolved group join, release/in-world distinction and repeated contrary endings. Comparison remains possible, but the bridge is an argument about parallel decisions and audiences rather than a repaired registry or a dated maturation ladder.",
+        "body_paragraph_id": "YUZU-P045"
+      },
+      {
+        "rival_id": "R08",
+        "complete_own_argument": "The games-are-unreal dismissal has a valid warning against treating virtual victory as actual assault or NPC thanks as proven personhood. It goes too far if it denies the player’s felt choice, cooperation and pleasure.20055:006 names the scripted ending precisely while valuing experience; MAIN’s Alice conflict is a different source problem and cannot be solved by either analogy or dismissal.",
+        "body_paragraph_id": "YUZU-P046"
+      }
+    ],
+    "sixteen_finite_endpoints": [
+      {
+        "endpoint_id": "E01",
+        "complete_finite_endpoint": "The10018 account preserves refusal to yield the locker and explicit refusal of joint use.",
+        "source_refs": [
+          {
+            "source_id": "YS01",
+            "physical_intervals": [
+              [
+                257,
+                260
+              ]
+            ]
+          }
+        ],
+        "body_paragraph_id": "YUZU-P047"
+      },
+      {
+        "endpoint_id": "E02",
+        "complete_finite_endpoint": "The familiar-opponent session prints three perfect wins and ten further adult defeats, not a universal rank.",
+        "source_refs": [
+          {
+            "source_id": "YS01",
+            "physical_intervals": [
+              [
+                262,
+                265
+              ]
+            ]
+          }
+        ],
+        "body_paragraph_id": "YUZU-P047"
+      },
+      {
+        "endpoint_id": "E03",
+        "complete_finite_endpoint": "The convenience-store shift completes and a larger next assignment is declined.",
+        "source_refs": [
+          {
+            "source_id": "YS01",
+            "physical_intervals": [
+              [
+                267,
+                270
+              ]
+            ]
+          }
+        ],
+        "body_paragraph_id": "YUZU-P047"
+      },
+      {
+        "endpoint_id": "E04",
+        "complete_finite_endpoint": "The mascot shift ends with reported safe completion and meaningful nearby joy while stranger fear persists.",
+        "source_refs": [
+          {
+            "source_id": "YS01",
+            "physical_intervals": [
+              [
+                272,
+                275
+              ]
+            ]
+          }
+        ],
+        "body_paragraph_id": "YUZU-P047"
+      },
+      {
+        "endpoint_id": "E05",
+        "complete_finite_endpoint": "An enjoyable park day with attractions and food is narrated; the free pass retains limits.",
+        "source_refs": [
+          {
+            "source_id": "YS01",
+            "physical_intervals": [
+              [
+                277,
+                282
+              ]
+            ]
+          }
+        ],
+        "body_paragraph_id": "YUZU-P048"
+      },
+      {
+        "endpoint_id": "E06",
+        "complete_finite_endpoint": "Private disc inspection occurs after the adult leaves; criticism is still painful.",
+        "source_refs": [
+          {
+            "source_id": "YS01",
+            "physical_intervals": [
+              [
+                284,
+                287
+              ]
+            ]
+          }
+        ],
+        "body_paragraph_id": "YUZU-P048"
+      },
+      {
+        "endpoint_id": "E07",
+        "complete_finite_endpoint": "Quick action prevents prototype deletion while replay is deferred.",
+        "source_refs": [
+          {
+            "source_id": "YS01",
+            "physical_intervals": [
+              [
+                287,
+                289
+              ]
+            ]
+          }
+        ],
+        "body_paragraph_id": "YUZU-P048"
+      },
+      {
+        "endpoint_id": "E08",
+        "complete_finite_endpoint": "Self-chosen modelling and small courage end in a visitor misunderstanding and return to the locker.",
+        "source_refs": [
+          {
+            "source_id": "YS01",
+            "physical_intervals": [
+              [
+                293,
+                296
+              ]
+            ]
+          }
+        ],
+        "body_paragraph_id": "YUZU-P048"
+      },
+      {
+        "endpoint_id": "E09",
+        "complete_finite_endpoint": "Private café practice produces only tentative courage with actual strangers untested there.",
+        "source_refs": [
+          {
+            "source_id": "YS01",
+            "physical_intervals": [
+              [
+                298,
+                301
+              ]
+            ]
+          }
+        ],
+        "body_paragraph_id": "YUZU-P049"
+      },
+      {
+        "endpoint_id": "E10",
+        "complete_finite_endpoint": "The later café visit has actual errors and customer satisfaction alongside continued worker pressure.",
+        "source_refs": [
+          {
+            "source_id": "YS01",
+            "physical_intervals": [
+              [
+                303,
+                308
+              ]
+            ]
+          }
+        ],
+        "body_paragraph_id": "YUZU-P049"
+      },
+      {
+        "endpoint_id": "E11",
+        "complete_finite_endpoint": "Shared physical room cleaning is achieved, but the visitor misunderstanding is not repaired.",
+        "source_refs": [
+          {
+            "source_id": "YS01",
+            "physical_intervals": [
+              [
+                310,
+                313
+              ]
+            ]
+          }
+        ],
+        "body_paragraph_id": "YUZU-P049"
+      },
+      {
+        "endpoint_id": "E12",
+        "complete_finite_endpoint": "In separate20055, quiet company and hand holding precede reported calm, not a permanent cure.",
+        "source_refs": [
+          {
+            "source_id": "YS01",
+            "physical_intervals": [
+              [
+                317,
+                320
+              ]
+            ]
+          }
+        ],
+        "body_paragraph_id": "YUZU-P049"
+      },
+      {
+        "endpoint_id": "E13",
+        "complete_finite_endpoint": "The divided VR task yields joint top-ranker entry in under a day at that represented game scope.",
+        "source_refs": [
+          {
+            "source_id": "YS01",
+            "physical_intervals": [
+              [
+                322,
+                325
+              ]
+            ]
+          }
+        ],
+        "body_paragraph_id": "YUZU-P050"
+      },
+      {
+        "endpoint_id": "E14",
+        "complete_finite_endpoint": "Tournament pair victory, crowd escape and later message-reported hardware receipt are separate positive endpoints.",
+        "source_refs": [
+          {
+            "source_id": "YS01",
+            "physical_intervals": [
+              [
+                327,
+                332
+              ]
+            ]
+          }
+        ],
+        "body_paragraph_id": "YUZU-P050"
+      },
+      {
+        "endpoint_id": "E15",
+        "complete_finite_endpoint": "G250 achieves a local perfect win, spoken apology to Momoi and eventual exit, with wanted viewing time unprinted.",
+        "source_refs": [
+          {
+            "source_id": "YS02",
+            "physical_intervals": [
+              [
+                91,
+                99
+              ],
+              [
+                125,
+                125
+              ]
+            ]
+          }
+        ],
+        "body_paragraph_id": "YUZU-P050"
+      },
+      {
+        "endpoint_id": "E16",
+        "complete_finite_endpoint": "E825 confirms Yuzu’s continued crown hold and enjoyable late play, while cash, agency handover and next-game production remain unsettled.",
+        "source_refs": [
+          {
+            "source_id": "YS03",
+            "physical_intervals": [
+              [
+                123,
+                127
+              ]
+            ]
+          }
+        ],
+        "body_paragraph_id": "YUZU-P050"
+      }
+    ],
+    "original14_OPEN": [
+      {
+        "original_gap_id": "G01",
+        "status": "OPEN",
+        "scope": "original maintained source gap; not replaced by own CL",
+        "source_id": "YS01",
+        "physical_lines": [
+          454,
+          454
+        ]
+      },
+      {
+        "original_gap_id": "G02",
+        "status": "OPEN",
+        "scope": "original maintained source gap; not replaced by own CL",
+        "source_id": "YS01",
+        "physical_lines": [
+          454,
+          454
+        ]
+      },
+      {
+        "original_gap_id": "G03",
+        "status": "OPEN",
+        "scope": "original maintained source gap; not replaced by own CL",
+        "source_id": "YS01",
+        "physical_lines": [
+          454,
+          454
+        ]
+      },
+      {
+        "original_gap_id": "G04",
+        "status": "OPEN",
+        "scope": "original maintained source gap; not replaced by own CL",
+        "source_id": "YS01",
+        "physical_lines": [
+          454,
+          454
+        ]
+      },
+      {
+        "original_gap_id": "G05",
+        "status": "OPEN",
+        "scope": "original maintained source gap; not replaced by own CL",
+        "source_id": "YS01",
+        "physical_lines": [
+          454,
+          454
+        ]
+      },
+      {
+        "original_gap_id": "G06",
+        "status": "OPEN",
+        "scope": "original maintained source gap; not replaced by own CL",
+        "source_id": "YS01",
+        "physical_lines": [
+          454,
+          454
+        ]
+      },
+      {
+        "original_gap_id": "G07",
+        "status": "OPEN",
+        "scope": "original maintained source gap; not replaced by own CL",
+        "source_id": "YS01",
+        "physical_lines": [
+          454,
+          454
+        ]
+      },
+      {
+        "original_gap_id": "G08",
+        "status": "OPEN",
+        "scope": "original maintained source gap; not replaced by own CL",
+        "source_id": "YS01",
+        "physical_lines": [
+          454,
+          454
+        ]
+      },
+      {
+        "original_gap_id": "G09",
+        "status": "OPEN",
+        "scope": "original maintained source gap; not replaced by own CL",
+        "source_id": "YS01",
+        "physical_lines": [
+          454,
+          454
+        ]
+      },
+      {
+        "original_gap_id": "G10",
+        "status": "OPEN",
+        "scope": "original maintained source gap; not replaced by own CL",
+        "source_id": "YS01",
+        "physical_lines": [
+          454,
+          454
+        ]
+      },
+      {
+        "original_gap_id": "G11",
+        "status": "OPEN",
+        "scope": "original maintained source gap; not replaced by own CL",
+        "source_id": "YS01",
+        "physical_lines": [
+          454,
+          454
+        ]
+      },
+      {
+        "original_gap_id": "G12",
+        "status": "OPEN",
+        "scope": "original maintained source gap; not replaced by own CL",
+        "source_id": "YS01",
+        "physical_lines": [
+          454,
+          454
+        ]
+      },
+      {
+        "original_gap_id": "G13",
+        "status": "OPEN",
+        "scope": "original maintained source gap; not replaced by own CL",
+        "source_id": "YS01",
+        "physical_lines": [
+          454,
+          454
+        ]
+      },
+      {
+        "original_gap_id": "G14",
+        "status": "OPEN",
+        "scope": "original maintained source gap; not replaced by own CL",
+        "source_id": "YS01",
+        "physical_lines": [
+          454,
+          454
+        ]
+      }
+    ],
+    "fourteen_separate_own_claim_limits": [
+      {
+        "claim_limit_id": "CL01",
+        "complete_own_limit": "Two literal person-key scopes; no merger or chronology across them."
+      },
+      {
+        "claim_limit_id": "CL02",
+        "complete_own_limit": "Source-local A067 and G250 empty join remain unjoined."
+      },
+      {
+        "claim_limit_id": "CL03",
+        "complete_own_limit": "Local ordering only; release dates and G250 timing seam do not settle an in-world calendar."
+      },
+      {
+        "claim_limit_id": "CL04",
+        "complete_own_limit": "Written register only; no performed voice or audio."
+      },
+      {
+        "claim_limit_id": "CL05",
+        "complete_own_limit": "Inventory33 versus printed32 retained without fabricated line."
+      },
+      {
+        "claim_limit_id": "CL06",
+        "complete_own_limit": "Unseen message images remain unreceived."
+      },
+      {
+        "claim_limit_id": "CL07",
+        "complete_own_limit": "Technical reports/results do not certify general software, hardware or system safety."
+      },
+      {
+        "claim_limit_id": "CL08",
+        "complete_own_limit": "Fear/status metaphors and bodily reports do not establish clinical diagnosis or cure."
+      },
+      {
+        "claim_limit_id": "CL09",
+        "complete_own_limit": "Each invitation, body arrangement, role and gift keeps recipient-specific limits."
+      },
+      {
+        "claim_limit_id": "CL10",
+        "complete_own_limit": "Local recognition does not demonstrate wanted fame or durable reputational repair."
+      },
+      {
+        "claim_limit_id": "CL11",
+        "complete_own_limit": "Paid-work reports do not establish complete contract, payment or future availability."
+      },
+      {
+        "claim_limit_id": "CL12",
+        "complete_own_limit": "Prize, room reprieve, crown custody and agency reports do not establish permanent institutional/legal settlement."
+      },
+      {
+        "claim_limit_id": "CL13",
+        "complete_own_limit": "E854 UI is not full plot; private recollection is not new Final receiving."
+      },
+      {
+        "claim_limit_id": "CL14",
+        "complete_own_limit": "No model/prediction/admission/count/publication follows from this body-first argument."
+      }
+    ]
+  },
+  "M16_effective_current_note": "This original body-scope reason does not deny the later separately authored 105-purpose companion; it still grants no source admission, model or package completion.",
+  "historical_controls_wording": "Old body/map new105-not-authored and review-pending strings are preserved dated stages. They do not negate this separately commissioned author-purpose work or assert new distinctQA/ROOT adoption."
+}

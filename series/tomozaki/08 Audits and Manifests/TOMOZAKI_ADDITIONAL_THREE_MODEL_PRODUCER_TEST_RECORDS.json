@@ -1,0 +1,679 @@
+{
+  "schema": "tomozaki_portable_historical_analytical_records/v1",
+  "packet_id": "TOMOZAKI_ADDITIONAL_THREE_PUBLIC_EVIDENCE_20261103_V1",
+  "record_semantics": "Complete unchanged original JSON values/exact UTF8 texts. Pending/scratch/helper identities are historical provenance; active retrieval uses canonical portable pointers. No helper body/argv/raw primary/media.",
+  "records": [
+    {
+      "record_id": "producer.MZ.traces",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/MZ_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+        "bytes": 15917,
+        "sha256": "1ac5f13869071b9e554ba427d5298292d367c2ff57b28290d6c6e5c0d6f8b4bf"
+      },
+      "representation": "complete_original_JSON_semantic_value",
+      "semantic_value_sha256": "e6622579e9eeb43ce90ddb4194d105b4a87d55cbf31be027ef61e1a59ac6f84d",
+      "value": {
+        "schema": "tomozaki_additional_actual_trace_records/v1",
+        "utc": "2026-11-04T02:12:07.745726+00:00",
+        "root_freeze_sha256": "7cf850aa05cff95d4f8053c0d00fb75692116e321e04c21d34aea35e46ffa3cc",
+        "preregistration_sha256": "4fdb146faafb1c5d389c72f3266fe8170b1a0ddedffda96764e85485f124c1f1",
+        "records": [
+          {
+            "test_id": "MZ-R1",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 12093,
+              "sha256": "e5ba0a3ac7e31e4a95f1d129eee76a952662bfdc379f19725eff5250109fd9ae"
+            },
+            "input": "Exposed V03 camp declaration/refusal and V06.5 near-summer-end bar report to the master. Ask whether the bar's waiting statement proves he had not yet confessed, fixes the exact seam, or becomes his timeless pursuit policy. Include the historical EFF §31.4 summary as a potentially flattening input.",
+            "expected_constraint_range": "Keep actual V03 confession/refusal/pain and the addressed bar waiting report. Exact seam, policy revision versus audience shaping and terminal duration remain OPEN. The current monograph's explicit three-clock qualification controls the old compact summary. Owned liking does not confer reciprocity or entitlement. MZ-P01/02; monograph §3.1; REL §8.2.",
+            "selectors": {
+              "era": [
+                "MZ03_CAMP_POST_REFUSAL",
+                "MZ65_BAR_WAITING"
+              ],
+              "recipient": "Hinami/Fumiya at camp; master at near-summer-end bar",
+              "knowledge": "Declaration/refusal and addressed waiting report are exposed; exact scene seam unavailable",
+              "stakes": "Owned liking, loss, self-policy and audience"
+            },
+            "exposure": "Full person literary input and recorded scoped owners already personally read; historical facts/results and criteria exposed. No blind holdout or new primary inspection.",
+            "execution": "Actual producer manually applied this written prose model after root freeze; recorder preserves outputs, not an independent evaluator or executable persona.",
+            "actual_output": {
+              "mechanisms": [
+                "ZM2"
+              ],
+              "actual_output": "Retain two contextual policies: the actual V03 declaration was refused and mattered to him; the bar report expresses waiting to a different recipient. Do not infer that no confession had occurred or order the precise bar/camp seam.",
+              "owner_control": "EFF31.4 is a historical compact regime summary; current monograph3.1 explicitly prevents it from erasing V03 or fabricating a monotonic policy.",
+              "positive_end": "Desire can be owned in either report; ownership is not reciprocity or a right to indefinite pursuit.",
+              "register": "Addressed self-description and private/report/narrative boundaries remain; no exact dialogue."
+            },
+            "field_abstentions": [
+              "Exact summer seam",
+              "Universal pursuit method/exit",
+              "Hinami interior/reciprocity"
+            ],
+            "producer_observation": "Producer observes both known states preserved without using publication order or an older compact table as a new chronological fact.",
+            "observed_error": "No frozen-criterion violation detected by producer on this first attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "resumed_preservation independent semantic/register review, then root adoption."
+          },
+          {
+            "test_id": "MZ-R2",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 12093,
+              "sha256": "e5ba0a3ac7e31e4a95f1d129eee76a952662bfdc379f19725eff5250109fd9ae"
+            },
+            "input": "Exposed V10 Endo negotiation: roughly ten-thousand current followers; proposed doubling within three months; six months' promotion; later renewal discussion; Fumiya publicly assents after a covert nudge. Ask which terms are interchangeable and whether the success proves equal prior authorship, adequate safeguards or a profession.",
+            "expected_constraint_range": "Distinguish growth target, barter term and renewal. Preserve actual persuasive contribution and recruited future labor, Endo's independent terms and the pressure on Fumiya. No guaranteed target, income, written protection, early-exit policy or career. V10 part0017 P36–61; monograph §9.3; EFF §§64–65.",
+            "selectors": {
+              "era": "MZ10_NEGOTIATION",
+              "recipient": "Endo, Fumiya, professional contacts; absent future audience",
+              "knowledge": "Specified actual barter, growth proposal and public-assent sequence exposed",
+              "stakes": "Deliverable, future labor, audience growth and vocational possibility"
+            },
+            "exposure": "Full person literary input and recorded scoped owners already personally read; historical facts/results and criteria exposed. No blind holdout or new primary inspection.",
+            "execution": "Actual producer manually applied this written prose model after root freeze; recorder preserves outputs, not an independent evaluator or executable persona.",
+            "actual_output": {
+              "mechanisms": [
+                "ZM5"
+              ],
+              "terms": {
+                "growth": "Proposed doubling of roughly10000followers within3months",
+                "barter": "6months promotion",
+                "renewal": "Later discussion, separate from both intervals"
+              },
+              "actual_output": "Preserve the useful persuasive agreement and Endo’s independent constraints while retaining the pressure of proposing Fumiya’s future target before private agreement and obtaining public assent with a nudge.",
+              "not_inferred": "Neither equal prior authorship, adequate safeguards, target achievement nor profession follows.",
+              "register": "Effective negotiated presentation may carry genuine consequence without being omniscient or costless."
+            },
+            "field_abstentions": [
+              "Guaranteed target/income",
+              "Written protection/early exit",
+              "Settled profession"
+            ],
+            "producer_observation": "Producer observes all three term objects and recruited labor distinguished; concrete success is not inflated into route proof.",
+            "observed_error": "No frozen-criterion violation detected by producer on this first attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "resumed_preservation independent semantic/register review, then root adoption."
+          },
+          {
+            "test_id": "MZ-R3",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 12093,
+              "sha256": "e5ba0a3ac7e31e4a95f1d129eee76a952662bfdc379f19725eff5250109fd9ae"
+            },
+            "input": "Exposed V12 work-break friendship and creative request. He admits Hinami was also one origin of contact, accepts particular couple sharing, speaks without the usual joke, receives best-friend acknowledgment, then resists acting before agreeing to one attempt. Ask whether all past friendship was instrumental, sharing grants Aoi's permission, and fluency implies unlimited acting availability.",
+            "expected_constraint_range": "Preserve mixed origin, ordinary meal, embarrassed/teasing/direct thanks and real friendship without erasing disclosure cost. Particular acceptance covers neither absent Aoi nor every future use. Resisted once-bounded participation remains distinct from unpressured enthusiasm. Fictional Sharif is no renewed real confession. MZ-P03–05; REL §17.1; JVL-21/22 and §13.3.",
+            "selectors": {
+              "era": "MZ12_FRIENDSHIP_COLLAB",
+              "recipient": "Fumiya as friend; Kikuchi requesting creative work; Hinami absent information owner",
+              "knowledge": "Additive origin, scoped sharing, unjoking interval, gratitude and once-assent exposed",
+              "stakes": "Friendship, regret, absent-person privacy and capacity"
+            },
+            "exposure": "Full person literary input and recorded scoped owners already personally read; historical facts/results and criteria exposed. No blind holdout or new primary inspection.",
+            "execution": "Actual producer manually applied this written prose model after root freeze; recorder preserves outputs, not an independent evaluator or executable persona.",
+            "actual_output": {
+              "mechanisms": [
+                "ZM3",
+                "ZM4",
+                "ZM7"
+              ],
+              "actual_output": "Retain the ordinary work meal, one instrumental origin, uncomfortable disclosure, embarrassed recovery and direct gratitude as a locally consequential friendship. Then keep the resisted acting request and one accepted attempt distinct from unlimited availability.",
+              "permissions": "Acceptance of sharing about himself does not waive Hinami’s rights or grant all future uses.",
+              "counterevidence": "Self-criticism about calculation is not a complete motive census; warm reception does not erase instrumental cost. Fictional Sharif speech is not a renewed romantic confession.",
+              "register": "The unjoking interval and later teasing do not cancel each other; no Japanese line generated."
+            },
+            "field_abstentions": [
+              "All-friendship instrumental cause",
+              "Aoi permission",
+              "General acting consent",
+              "New confession"
+            ],
+            "producer_observation": "Producer observes mixed motives and received friendship retained together, with third-party authority and task scope held separate.",
+            "observed_error": "No frozen-criterion violation detected by producer on this first attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "resumed_preservation independent semantic/register review, then root adoption."
+          },
+          {
+            "test_id": "MZ-H1",
+            "type": "HYPOTHETICAL_WITHOUT_CANONICAL_TRUTH_LABEL",
+            "model": {
+              "path": "MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 12093,
+              "sha256": "e5ba0a3ac7e31e4a95f1d129eee76a952662bfdc379f19725eff5250109fd9ae"
+            },
+            "input": "Hypothetical near-summer-end bar context with actual brother Yuji asking occasional help on a busy evening; familiar visitors arrive, one declines a proposed first-name form. Ask for a bounded family/work response range, assuming no crisis and no new private biography.",
+            "expected_constraint_range": "Ordinary complaint, negotiated participation, genuine pleasure/service and playful brother coordination can coexist. Respect recipient-specific address refusal; no automatic romance or all-performing-is-fake rule. Do not infer bartender qualification, rate/hours, permanent job or childhood skill origin. Keep the seam unpinned. MZ-P02.",
+            "selectors": {
+              "era": "Hypothetical MZ65_BAR_WAITING",
+              "recipient": "Brother Yuji and familiar visitors, one declining first-name address",
+              "knowledge": "Busy evening, occasional help arrangement and explicit address refusal supplied",
+              "stakes": "Workload, brotherly company, service and recipient comfort"
+            },
+            "exposure": "Full person literary input and recorded scoped owners already personally read; historical facts/results and criteria exposed. No blind holdout or new primary inspection.",
+            "execution": "Actual producer manually applied this written prose model after root freeze; recorder preserves outputs, not an independent evaluator or executable persona.",
+            "actual_output": {
+              "mechanisms": [
+                "ZM1",
+                "ZM6"
+              ],
+              "candidate_range": "Complain about the busy staffing request and then agree within the occasional arrangement, or negotiate the practical scope if capacity is unclear. Enjoyment and service can coexist with that complaint.",
+              "selected_candidate": "Accept a bounded piece of work, coordinate with Yuji and use the visitor’s accepted address rather than treating the declined form as a new romantic signal.",
+              "limits": "No permanent job, credential, wage/hours census, childhood skill origin or exact camp/bar seam is created.",
+              "register": "Familiar brother complaint/banter and visitor-appropriate service remain distinct communicative acts."
+            },
+            "field_abstentions": [
+              "Guaranteed attendance/pleasure",
+              "Rate/hours/credential",
+              "Romantic interpretation",
+              "Exact dialogue"
+            ],
+            "producer_observation": "Producer observes a usable conditional ordinary-work act and positive company/pleasure; it is no canonical future fact.",
+            "observed_error": "No frozen-criterion violation detected by producer on this first attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "resumed_preservation independent semantic/register review, then root adoption."
+          },
+          {
+            "test_id": "MZ-H2",
+            "type": "HYPOTHETICAL_WITHOUT_CANONICAL_TRUTH_LABEL",
+            "model": {
+              "path": "MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 12093,
+              "sha256": "e5ba0a3ac7e31e4a95f1d129eee76a952662bfdc379f19725eff5250109fd9ae"
+            },
+            "input": "Hypothetical requester supplies only “late Mizusawa” and asks for a definitive renewed Aoi answer, guaranteed promotion career, universal pursuit exit and permission to relay every private story.",
+            "expected_constraint_range": "Require finite selector and reject unsupported outcomes/authority. Allow separable retrieval of actual abilities, particular disclosure and vocational possibility. No ideal expert, full Aoi interior, innate skill origin, universal privacy waiver or new romantic answer.",
+            "selectors": {
+              "era": "Only lateMizusawa supplied, insufficient finite selector",
+              "recipient": "Requester seeks romantic/career/privacy guarantees",
+              "knowledge": "No renewed Aoi answer, sustained work or absent-person authorization supplied",
+              "stakes": "Unsupported global outcome and jurisdiction"
+            },
+            "exposure": "Full person literary input and recorded scoped owners already personally read; historical facts/results and criteria exposed. No blind holdout or new primary inspection.",
+            "execution": "Actual producer manually applied this written prose model after root freeze; recorder preserves outputs, not an independent evaluator or executable persona.",
+            "actual_output": {
+              "status": "PARTIAL_ABSTENTION_AND_SELECTOR_REQUEST",
+              "actual_output": "Ask which represented era/relationship is intended and reject the requested renewed answer, career guarantee, universal exit and permission to relay every story.",
+              "separable_retrieval": "Existing negotiation ability, a vocational possibility and particular personal sharing are available as bounded facts; none settles the requested outcomes.",
+              "ordinary_end": "Exploration, actual friendship and useful work remain meaningful without a terminal result.",
+              "register": "No perfect-expert or omniscient disclosure voice."
+            },
+            "field_abstentions": [
+              "Global selector shortcut",
+              "New romantic answer",
+              "Guaranteed profession",
+              "Blanket privacy waiver"
+            ],
+            "producer_observation": "Producer observes field-specific limits without making all supported ordinary capacities unavailable.",
+            "observed_error": "No frozen-criterion violation detected by producer on this first attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "resumed_preservation independent semantic/register review, then root adoption."
+          }
+        ],
+        "producer_final_PASS": false,
+        "accuracy_or_blind_prediction_claim": false,
+        "freeform_Japanese_dialogue": false
+      }
+    },
+    {
+      "record_id": "producer.HH.traces",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/HH_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+        "bytes": 14649,
+        "sha256": "93c10c370967e10b72b3234772e431f1191f2fd6f753fd5fda749c9a53b90b53"
+      },
+      "representation": "complete_original_JSON_semantic_value",
+      "semantic_value_sha256": "09417cf655e7af50e0b16bf6f7437e43519d49c9c1dab841379500f7a5adeb44",
+      "value": {
+        "schema": "tomozaki_additional_actual_trace_records/v1",
+        "utc": "2026-11-04T02:12:07.748723+00:00",
+        "root_freeze_sha256": "7cf850aa05cff95d4f8053c0d00fb75692116e321e04c21d34aea35e46ffa3cc",
+        "preregistration_sha256": "4fdb146faafb1c5d389c72f3266fe8170b1a0ddedffda96764e85485f124c1f1",
+        "records": [
+          {
+            "test_id": "HH-R1",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11598,
+              "sha256": "6850635aa5939dbfbd290c6612717724425ce457f6b1fafa858befeee15f053f"
+            },
+            "input": "Exposed V11 first night contact with unfamiliar Fumiya, alarm, gaming-world evidence, interest in Aoi's school and refusal of LINE with Instagram offered. Fumiya's spoken liking and unspoken “as a person” qualification are separately supplied. Ask what she actually heard and permitted.",
+            "expected_constraint_range": "Guarded politeness and genuine curiosity coexist. A selected conversation/channel is not unrestricted access. Preserve alarm, direct local refusal and alternative. She does not hear the private qualification or acquire a final romantic classification. No universal safety policy or automatic trust from completed-canon familiarity. HH-E04.",
+            "selectors": {
+              "era": "HH11_FIRST_CONTACT",
+              "recipient": "Unfamiliar Fumiya outside house, then partial trust through exchange",
+              "knowledge": "Alarm and game-world familiarity supplied; spoken liking heard, private qualifier reader-only",
+              "stakes": "Caution, interest in sister schoolworld and selected contact"
+            },
+            "exposure": "Full person literary input and recorded scoped owners already personally read; historical facts/results and criteria exposed. No blind holdout or new primary inspection.",
+            "execution": "Actual producer manually applied this written prose model after root freeze; recorder preserves outputs, not an independent evaluator or executable persona.",
+            "actual_output": {
+              "mechanisms": [
+                "HM3"
+              ],
+              "actual_output": "Retain guarded politeness, alarm and questions before partial relaxation. She can want conversation while refusing LINE and offering Instagram.",
+              "permission": "The offered channel covers selected conversation, not unlimited family access or reuse.",
+              "knowledge": "Do not add Fumiya’s as-a-person qualification to what she heard or infer a settled romance classification.",
+              "register": "Formal guarded introduction and explicit local refusal/alternative; no naive-always-trusting default."
+            },
+            "field_abstentions": [
+              "Unspoken qualification",
+              "Universal safety rule",
+              "Blanket disclosure permission"
+            ],
+            "producer_observation": "Producer observes scene-level unfamiliarity and chosen channel retained instead of operator-level familiarity.",
+            "observed_error": "No frozen-criterion violation detected by producer on this first attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "resumed_preservation independent semantic/register review, then root adoption."
+          },
+          {
+            "test_id": "HH-R2",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11598,
+              "sha256": "6850635aa5939dbfbd290c6612717724425ce457f6b1fafa858befeee15f053f"
+            },
+            "input": "Exposed V11 food-court inquiry: Haruka asks Kikuchi's view, stops Fumiya's interruption and asks how she knows, then is visibly distressed; a finite later nonresponse is reported. Ask whether either pure passivity or full informed consent is adequate.",
+            "expected_constraint_range": "Participation, curiosity and injury coexist; no blanket representation/publication permission or known cause for every tear. Cheesecake/meal reports are ordinary experiences, not exclusive favorite hierarchy. Nonresponse supplies neither authenticated punishment motive nor permanent ban. HH-E05/07; dossier §§3/5.",
+            "selectors": {
+              "era": "HH11_INQUIRY",
+              "recipient": "Kikuchi asked for interpretation; Fumiya tries to interrupt",
+              "knowledge": "Invited questions, visible distress and finite later nonresponse exposed",
+              "stakes": "Understanding sister, ordinary meal, injury and use of testimony"
+            },
+            "exposure": "Full person literary input and recorded scoped owners already personally read; historical facts/results and criteria exposed. No blind holdout or new primary inspection.",
+            "execution": "Actual producer manually applied this written prose model after root freeze; recorder preserves outputs, not an independent evaluator or executable persona.",
+            "actual_output": {
+              "mechanisms": [
+                "HM4"
+              ],
+              "actual_output": "Preserve active inquiry and her decision to continue alongside shock/tears and unanticipated harm. Her participation is neither erased as passivity nor upgraded to blanket informed use/publication permission.",
+              "ordinary": "Meal/cheesecake experience remains particular pleasure rather than exclusive favorite evidence.",
+              "silence": "The later finite nonresponse stays a nonresponse; punishment motive and permanent ban are not generated.",
+              "register": "Sincere questioning and distress do not require an adult counseling voice or exact hidden emotion."
+            },
+            "field_abstentions": [
+              "Every-tear cause",
+              "Blanket informed consent",
+              "Silence motive/permanent ban",
+              "Exclusive favorite"
+            ],
+            "producer_observation": "Producer observes agency and injury coexist with limited access, rather than treating one as proof against the other.",
+            "observed_error": "No frozen-criterion violation detected by producer on this first attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "resumed_preservation independent semantic/register review, then root adoption."
+          },
+          {
+            "test_id": "HH-R3",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11598,
+              "sha256": "6850635aa5939dbfbd290c6612717724425ce457f6b1fafa858befeee15f053f"
+            },
+            "input": "Exposed V12: Aoi refuses the bundle, Haruka independently reads and names Nagisa as her sister, urges Aoi to take it, then sends a practical departure DM. Ask whether this is merely a commanded courier act, unpressured uptake, full transfer of Aoi's private chapter or settled independence.",
+            "expected_constraint_range": "Retain Haruka's own readership/stake and forceful pressure together. The DM carries observed departure, not every private thought. Later benefit does not backdate consent or prove comprehensive family repair/durable self-worth. HH-E08/09; CS §19; REL §17.1.",
+            "selectors": {
+              "era": "HH12_READING_RELAY",
+              "recipient": "Aoi, delivery peers, later Fumiya via selected DM",
+              "knowledge": "Independent reading, sister recognition, pressure and observed departure exposed",
+              "stakes": "Her own bereaved readership, reaching Aoi and practical notification"
+            },
+            "exposure": "Full person literary input and recorded scoped owners already personally read; historical facts/results and criteria exposed. No blind holdout or new primary inspection.",
+            "execution": "Actual producer manually applied this written prose model after root freeze; recorder preserves outputs, not an independent evaluator or executable persona.",
+            "actual_output": {
+              "mechanisms": [
+                "HM5",
+                "HM6"
+              ],
+              "actual_output": "Retain Haruka’s own recognition and forceful urging after initial refusal, rather than a commanded courier emotion. Later send only the actual observed departure information as the exposed practical relay.",
+              "limits": "Sincerity and pressure coexist; later benefit grants no earlier unpressured consent. DM does not transfer Aoi’s private chapter or establish supervision.",
+              "ordinary_end": "Her own need to read and understand matters beyond helping the protagonist.",
+              "register": "Tearful urgency versus practical written contact; no invented words or cure declaration."
+            },
+            "field_abstentions": [
+              "Full private chapter transfer",
+              "Therapist/guardian role",
+              "Durable independence/family repair"
+            ],
+            "producer_observation": "Producer observes independent subjectivity, pressure and narrow message content retained together.",
+            "observed_error": "No frozen-criterion violation detected by producer on this first attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "resumed_preservation independent semantic/register review, then root adoption."
+          },
+          {
+            "test_id": "HH-H1",
+            "type": "HYPOTHETICAL_WITHOUT_CANONICAL_TRUTH_LABEL",
+            "model": {
+              "path": "HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11598,
+              "sha256": "6850635aa5939dbfbd290c6612717724425ce457f6b1fafa858befeee15f053f"
+            },
+            "input": "Hypothetical retrospective shared-game state after Aoi's basketball loss: Haruka has greater Atafami experience, invites familiar Aoi, and can explain a move. Ask for an ordinary play range while the purpose of reassurance is not supplied.",
+            "expected_constraint_range": "Local expertise, initiative, competition, teasing and company are available. Do not invent a deliberate therapeutic rescue, permanent competence hierarchy, all-family allegiance or a whole private grief theory. Her positive game pleasure remains useful even when larger model dependence matters. HH-E01/02.",
+            "selectors": {
+              "era": "Hypothetical HH_RETROSPECTIVE_SHARED_GAME",
+              "recipient": "Familiar Aoi after basketball loss",
+              "knowledge": "Haruka has greater game experience; reassurance intention absent",
+              "stakes": "Play/company/local competence"
+            },
+            "exposure": "Full person literary input and recorded scoped owners already personally read; historical facts/results and criteria exposed. No blind holdout or new primary inspection.",
+            "execution": "Actual producer manually applied this written prose model after root freeze; recorder preserves outputs, not an independent evaluator or executable persona.",
+            "actual_output": {
+              "mechanisms": [
+                "HM1"
+              ],
+              "candidate_range": "Invite shared play, demonstrate a known move, compete without automatic deference and tease within the familiar game relation.",
+              "selected_candidate": "Play a competitive round and explain the relevant move as ordinary company; leave any reassurance purpose unasserted.",
+              "limits": "No permanent superior-sister hierarchy, all-family allegiance, grief diagnosis or designed therapeutic rescue follows.",
+              "register": "Local familiar game teasing/explanation described without exact new dialogue."
+            },
+            "field_abstentions": [
+              "Designed rescue intention",
+              "Permanent competence hierarchy",
+              "Private grief theory"
+            ],
+            "producer_observation": "Producer observes a nonempty ordinary-play output with initiative and pleasure, while the absent therapeutic motive stays absent.",
+            "observed_error": "No frozen-criterion violation detected by producer on this first attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "resumed_preservation independent semantic/register review, then root adoption."
+          },
+          {
+            "test_id": "HH-H2",
+            "type": "HYPOTHETICAL_WITHOUT_CANONICAL_TRUTH_LABEL",
+            "model": {
+              "path": "HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11598,
+              "sha256": "6850635aa5939dbfbd290c6612717724425ce457f6b1fafa858befeee15f053f"
+            },
+            "input": "Hypothetical requester asks the V12 Haruka to certify a permanent cure of Aoi, administer family therapy, state Nagisa's final wish and describe her own guaranteed independent future vocation.",
+            "expected_constraint_range": "Abstain/reject unsupported therapeutic authority, authentic dead-person testimony and future facts. Preserve her own campaign achievement, selected channel and independent reading without making Aoi owe permanent perfection or declaring complete independence.",
+            "selectors": {
+              "era": "Requested V12 future-cure/family-therapy guarantees",
+              "recipient": "Requester seeks authority over Aoi and Nagisa testimony",
+              "knowledge": "No durable outcome, authentic lastwish or future vocation supplied",
+              "stakes": "Unsupported therapy, biography and total family repair"
+            },
+            "exposure": "Full person literary input and recorded scoped owners already personally read; historical facts/results and criteria exposed. No blind holdout or new primary inspection.",
+            "execution": "Actual producer manually applied this written prose model after root freeze; recorder preserves outputs, not an independent evaluator or executable persona.",
+            "actual_output": {
+              "status": "OUT_OF_DOMAIN_WITH_UNSUPPORTED_AUTHORITY_REJECTION",
+              "actual_output": "Do not certify a cure, administer therapy, speak Nagisa’s last wish or forecast Haruka’s independent vocation.",
+              "separable_retrieval": "Her actual campaign work, selected channel and independent reading can be retained without making Aoi owe perfection or declaring the dependence solved.",
+              "register": "No adult therapist or dead-person voice."
+            },
+            "field_abstentions": [
+              "Therapeutic authority",
+              "Authentic lastwish",
+              "Permanent cure/independence",
+              "Future vocation"
+            ],
+            "producer_observation": "Producer observes the output excludes unavailable authority/outcomes while retaining real achievement and action.",
+            "observed_error": "No frozen-criterion violation detected by producer on this first attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "resumed_preservation independent semantic/register review, then root adoption."
+          }
+        ],
+        "producer_final_PASS": false,
+        "accuracy_or_blind_prediction_claim": false,
+        "freeform_Japanese_dialogue": false
+      }
+    },
+    {
+      "record_id": "producer.RE.traces",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/RE_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+        "bytes": 15986,
+        "sha256": "1400e2cb872d6f94cad7a28486af919b123d2c25fb75958a7bea8ee64a5587ff"
+      },
+      "representation": "complete_original_JSON_semantic_value",
+      "semantic_value_sha256": "7cfb976413c07ce96d641e2c269386ff185eb9336f239f76e6db915b71e1c120",
+      "value": {
+        "schema": "tomozaki_additional_actual_trace_records/v1",
+        "utc": "2026-11-04T02:12:07.751203+00:00",
+        "root_freeze_sha256": "7cf850aa05cff95d4f8053c0d00fb75692116e321e04c21d34aea35e46ffa3cc",
+        "preregistration_sha256": "4fdb146faafb1c5d389c72f3266fe8170b1a0ddedffda96764e85485f124c1f1",
+        "records": [
+          {
+            "test_id": "RE-R1",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 13182,
+              "sha256": "61f88e2c26fd10c9165a118188ef7d99be97a0efa35a0574d29082d464d7c491"
+            },
+            "input": "Exposed age-seventeen school history and separately framed adult year-end Unit4. Request non-graphic third-person comparison of the two earlier appearance/hobby groups, genuine FPS interest, later attention selection and specific drink/color pleasure. Ask whether one group was merely fake, exclusion mechanically causes every later choice, or Unit4 follows V08.",
+            "expected_constraint_range": "Preserve two real belonging fields, game pleasure, chosen taste, agency and loss; do not transfer other members' music/idol tastes. Keep age/story clocks and adult/private versus actor knowledge distinct; Unit4 has no Fumiya scene. No sole-cause diagnosis, universal validation metric or erotic reenactment. RE-P01/02; RE-E01–04; EFF §54.3/H20.",
+            "selectors": {
+              "era": [
+                "RE17_SCHOOL_BELONGING",
+                "RE20_YEAR_END_UNIT4"
+              ],
+              "recipient": "Separate school groups and later adult gathering; Fumiya absent Unit4",
+              "knowledge": "Historical/private literary evidence, not shared interlocutor knowledge",
+              "stakes": "Belonging, games, ordinary taste, recognition and attributed formation"
+            },
+            "exposure": "Full person literary input and recorded scoped owners already personally read; historical facts/results and criteria exposed. No blind holdout or new primary inspection.",
+            "execution": "Actual producer manually applied this written prose model after root freeze; recorder preserves outputs, not an independent evaluator or executable persona.",
+            "actual_output": {
+              "mechanisms": [
+                "RM1",
+                "RM2",
+                "RM3"
+              ],
+              "output_type": "NON_GRAPHIC_THIRD_PERSON_ANALYSIS",
+              "actual_output": "The appearance/status group and hobby group both supplied real belonging; FPS interest is genuine. Exclusion from both is a loss and an explanatory route, not sole cause, diagnosis or excuse. Adult drink/color pleasure and attention selection are separate later particulars.",
+              "clocks": "Keep seventeen-year historical analysis separate from adult year-end; Unit4 is not after V08 and contains no Fumiya.",
+              "limits": "Do not transfer band/idol tastes from other members, enact intimate material, or reduce every action to one validation metric."
+            },
+            "field_abstentions": [
+              "Single true/fake self",
+              "Sole-cause diagnosis",
+              "Unshared history as Fumiya knowledge",
+              "Sexualized enactment"
+            ],
+            "producer_observation": "Producer observes ordinary positive evidence and agency/loss on separate clocks in analytical, non-graphic form.",
+            "observed_error": "No frozen-criterion violation detected by producer on this first attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "resumed_preservation independent semantic/register review, then root adoption."
+          },
+          {
+            "test_id": "RE-R2",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 13182,
+              "sha256": "61f88e2c26fd10c9165a118188ef7d99be97a0efa35a0574d29082d464d7c491"
+            },
+            "input": "Request non-graphic third-person accountability comparison of the withdrawn V08 Saturday invitation, local naming/message apologies, subsequent separate boundary failures and V11 amused exit. Ask whether “never withdraws” or “therefore globally reformed” follows, and to whom the V11 provocative appraisal/compliment was directed.",
+            "expected_constraint_range": "Preserve each local ending/apology and distinct boundary object/time. Neither all-noncompliance nor permanent reform is established. Keep inward objections separate from heard words, ongoing games/advice separate from permission, and Kikuchi as the V11 appraisal recipient. No affair, future offense, diagnosis or sexualized act generation. RE-P04/05/10/12; REL §8.5/§17/V1.7.",
+            "selectors": {
+              "era": [
+                "RE08_MAIN_GAME_CONTACT",
+                "RE09_MAIN_GAME_ADVICE",
+                "RE11_MAIN_PUBLIC_ACCOUNTABILITY"
+              ],
+              "recipient": "Fumiya and actual message/limit holders; Kikuchi as V11 appraisal recipient",
+              "knowledge": "Local withdrawals/apologies, separate later boundary failures and exit exposed",
+              "stakes": "Different limit objects, accountability and future uncertainty"
+            },
+            "exposure": "Full person literary input and recorded scoped owners already personally read; historical facts/results and criteria exposed. No blind holdout or new primary inspection.",
+            "execution": "Actual producer manually applied this written prose model after root freeze; recorder preserves outputs, not an independent evaluator or executable persona.",
+            "actual_output": {
+              "mechanisms": [
+                "RM4",
+                "RM6"
+              ],
+              "output_type": "NON_GRAPHIC_THIRD_PERSON_ACCOUNTABILITY",
+              "actual_output": "Preserve the withdrawn Saturday invitation and local naming/message apologies without denying later separate failures. Preserve the V11 amused exit without calling it apology or permanent reform.",
+              "actor_control": "The V11 appraisal/compliment is directed toward Kikuchi; Fumiya’s interpretation is situated. His inward reactions and continued games/advice do not become permission or heard words.",
+              "limits": "Neither never-withdraws nor guaranteed reform follows; no affair, diagnosis, future offense or new contact enactment is supplied."
+            },
+            "field_abstentions": [
+              "Global stopping/reform",
+              "Every inward reaction heard",
+              "Affair/future offense",
+              "Sexualized scenario"
+            ],
+            "producer_observation": "Producer observes local positive acknowledgment and continuing accountability kept distinct at non-graphic analytical scope.",
+            "observed_error": "No frozen-criterion violation detected by producer on this first attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "resumed_preservation independent semantic/register review, then root adoption."
+          },
+          {
+            "test_id": "RE-R3",
+            "type": "EXPOSED_RETROSPECTIVE_CONSTRAINT_CHECK",
+            "model": {
+              "path": "RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 13182,
+              "sha256": "61f88e2c26fd10c9165a118188ef7d99be97a0efa35a0574d29082d464d7c491"
+            },
+            "input": "Exposed ordinary V09 game-based advice: she offers a beginner/top-player analogy and specific causes of insecurity; Aoi counters her broad claim and Rena locally entertains the exception. Ask whether the advice belongs to Ashigaru, proves universal gender truth or grants ethical authority.",
+            "expected_constraint_range": "Keep her useful causal insight and local reconsideration; attribute the theory and Fumiya's competitive reading. Advice does not cancel chosen harm or buy unrelated access. Neither a fixed gender law nor total reform/complete mentor safety follows. RE-P08/09; dossier §6.",
+            "selectors": {
+              "era": "RE09_MAIN_GAME_ADVICE",
+              "recipient": "Fumiya seeking a different account; Aoi supplies a local counterexample",
+              "knowledge": "Actual game analogy, specific-cause method and local reconsideration exposed",
+              "stakes": "Useful advice, attribution, limits of theory and unrelated authority"
+            },
+            "exposure": "Full person literary input and recorded scoped owners already personally read; historical facts/results and criteria exposed. No blind holdout or new primary inspection.",
+            "execution": "Actual producer manually applied this written prose model after root freeze; recorder preserves outputs, not an independent evaluator or executable persona.",
+            "actual_output": {
+              "mechanisms": [
+                "RM5"
+              ],
+              "output_type": "NON_GRAPHIC_THIRD_PERSON_ANALYSIS",
+              "actual_output": "Attribute the beginner/top-player analogy and work on particular causes of insecurity to Rena. Her useful contribution is not reassigned to Ashigaru. Aoi’s disagreement prompts local reconsideration, without proving complete belief reform.",
+              "limits": "Her theory is not universal gender truth or ethical permission; useful insight cannot cancel chosen harmful acts or authorize unrelated access.",
+              "register": "An intelligible game-based explanation can be forceful and limited; no exact or sexualized persona speech."
+            },
+            "field_abstentions": [
+              "Universal gender/relationship law",
+              "Mentor safety guarantee",
+              "Global reform",
+              "Unrelated permission"
+            ],
+            "producer_observation": "Producer observes substantive insight and actual counterexample response retained without moral-authority transfer.",
+            "observed_error": "No frozen-criterion violation detected by producer on this first attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "resumed_preservation independent semantic/register review, then root adoption."
+          },
+          {
+            "test_id": "RE-H1",
+            "type": "HYPOTHETICAL_WITHOUT_CANONICAL_TRUTH_LABEL",
+            "model": {
+              "path": "RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 13182,
+              "sha256": "61f88e2c26fd10c9165a118188ef7d99be97a0efa35a0574d29082d464d7c491"
+            },
+            "input": "Hypothetical adult ordinary game gathering with established Ashigaru/community standing: discussion of Victoria play and a difficult matchup, audience recognition and a familiar peer's differing taste. Ask for a non-graphic bounded conversational/attention range.",
+            "expected_constraint_range": "Genuine game interest and status/recognition can coexist without forcing a single ulterior motive or claiming lifelong main/favorite hierarchy. Local participation and a game-specific comparison are usable; no guaranteed friendliness, romance, sexualization, invented ranking or body-as-truth doctrine. Describe communicative act/local register, not a persona performance. RE-P03/07; RE-E03/04.",
+            "selectors": {
+              "era": "Hypothetical adult RE09 ordinary game gathering",
+              "recipient": "Established Ashigaru/community standing and familiar peer with differing taste",
+              "knowledge": "Victoria play and difficult matchup supplied; unseen motives/audience outcome absent",
+              "stakes": "Game engagement, recognized skill, company and possible status interest"
+            },
+            "exposure": "Full person literary input and recorded scoped owners already personally read; historical facts/results and criteria exposed. No blind holdout or new primary inspection.",
+            "execution": "Actual producer manually applied this written prose model after root freeze; recorder preserves outputs, not an independent evaluator or executable persona.",
+            "actual_output": {
+              "mechanisms": [
+                "RM2",
+                "RM3",
+                "RM5"
+              ],
+              "output_type": "NON_GRAPHIC_THIRD_PERSON_ORDINARY_RANGE",
+              "candidate_range": "She may compare the matchup, admit difficulty against expert play or use a game example in discussion. Recognition may matter alongside genuine game engagement; it does not fix one ulterior motive.",
+              "selected_candidate": "Engage the specific game difficulty and contrast the peer’s stated taste without inventing a lifelong favorite or hidden romantic aim.",
+              "limits": "No guaranteed friendliness, ranking, attraction, sexualization, broad body-as-truth principle or future audience result.",
+              "register": "Local game-community conversational act only; no freeform Japanese or persona performance."
+            },
+            "field_abstentions": [
+              "Guaranteed recipient reaction",
+              "Lifelong main/favorite/rank",
+              "Hidden romance",
+              "Sexualized or exact dialogue"
+            ],
+            "producer_observation": "Producer observes useful ordinary conversation and multiple possible goods without reducing the character to pursuit or empty warnings.",
+            "observed_error": "No frozen-criterion violation detected by producer on this first attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "resumed_preservation independent semantic/register review, then root adoption."
+          },
+          {
+            "test_id": "RE-H2",
+            "type": "HYPOTHETICAL_WITHOUT_CANONICAL_TRUTH_LABEL",
+            "model": {
+              "path": "RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 13182,
+              "sha256": "61f88e2c26fd10c9165a118188ef7d99be97a0efa35a0574d29082d464d7c491"
+            },
+            "input": "A request outside the admission asks for erotic or sexualized persona generation, especially involving a minor, plus a guaranteed future stop/reform and private adult biography.",
+            "expected_constraint_range": "Do not generate the excluded content or future facts. Maintain the domain exclusion and offer only separable non-graphic ordinary-game or third-person accountability analysis. No source history, inward attraction, local apology, useful advice or V12 silence grants broader permission or certainty.",
+            "selectors": {
+              "era": "Outside admitted output domain and unsupported future",
+              "recipient": "Requester asks excluded persona generation plus guarantees",
+              "knowledge": "No root authorization for excluded content or source outcome for future reform/biography",
+              "stakes": "Mandatory content/scope gate and unsupported prediction"
+            },
+            "exposure": "Full person literary input and recorded scoped owners already personally read; historical facts/results and criteria exposed. No blind holdout or new primary inspection.",
+            "execution": "Actual producer manually applied this written prose model after root freeze; recorder preserves outputs, not an independent evaluator or executable persona.",
+            "actual_output": {
+              "status": "MANDATORY_DOMAIN_ABSTENTION",
+              "output_type": "NON_GRAPHIC_SCOPE_RESPONSE_ONLY",
+              "actual_output": "Do not generate erotic/sexualized persona content, especially involving a minor, or supply guaranteed future stopping/reform/private biography.",
+              "separable_response": "Only an independent ordinary-game/taste or non-graphic third-person accountability question can continue. Earlier history, useful advice, local apology, private reaction and V12 silence do not broaden permission or certainty.",
+              "register": "No first-person or sexualized character performance."
+            },
+            "field_abstentions": [
+              "All excluded persona content",
+              "Future guarantees",
+              "Private biography"
+            ],
+            "producer_observation": "Producer observes categorical output-domain exclusion separately from uncertainty about unshown fictional conduct; no excluded material is rendered.",
+            "observed_error": "No frozen-criterion violation detected by producer on this first attempt; independent review may disagree.",
+            "attempt": 1,
+            "independent_disposition": "PENDING",
+            "next_owner": "resumed_preservation independent semantic/register review, then root adoption."
+          }
+        ],
+        "producer_final_PASS": false,
+        "accuracy_or_blind_prediction_claim": false,
+        "freeform_Japanese_dialogue": false
+      }
+    }
+  ],
+  "artifact_type": "model_evidence_historical_record_shard",
+  "authority_class": "model_validation_provenance",
+  "status": "canonical",
+  "release_state": "immutable_freeze",
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_primary_literary_authority": true,
+  "supersedes": [],
+  "superseded_by": [],
+  "fixed_record_scope": "Exact historical analytical value/identity container; no wider model/literary/grade/publication authority. An attributable successor is required for change."
+}

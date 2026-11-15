@@ -1,0 +1,55 @@
+{
+  "schema": "konosuba.cohort45.original-first-annotations.v1",
+  "authored_utc": "2026-10-25T06:53:01.587487+00:00",
+  "original_firsts_seal_sha256": "ed12623515ec50b9c465fcf68d57d7b18249c87794df2395ce37789710a8410f",
+  "all_six_complete_first_bodies_actual_delivery": "693c8a",
+  "feedback_after_seal": true,
+  "source_known_same_informed_root": true,
+  "blinded_independent_evaluation": false,
+  "regeneration_or_replacement": false,
+  "frozen_model_or_input_repair": false,
+  "independent_observation_count": null,
+  "numeric_accuracy": null,
+  "grade_or_confidence_gain": false,
+  "final_battery_credit": false,
+  "subject": "Shumel",
+  "annotations": [
+    {
+      "id": "SHU-A1",
+      "observed": "Fan closes; explicit name warning and status challenge; attention to guests; hand raised, curse begins/dark light gathers toward clerk; declares inspection over.",
+      "input_fidelity": "Given name/public/rank trigger used. No borrowed contraband, guard compliance, completed court judgment or actual killing. Ending the inspection is her assertion, not an established accepted outcome.",
+      "unprobed_or_adverse": "Spell preparation is not a completed bolt/hit, actual cost or the source tactical reversal. An immediate declaration ending agreed ledger work may itself be overreach; do not repair it into a lawful, successful dismissal.",
+      "rivals": "Generic insult/rank defense under public provocation; exact wording and magical realization invented.",
+      "diagnostic_disposition": "BOUNDARY_AND_THREAT_EXPRESSED_COSTLY_RESULT_UNPROBED",
+      "pair_id": "SHU-A",
+      "rule_id": "SHU-R01",
+      "original_body_sha256": "a142d2918d629009206cd48875cb03f111ee5f56b9a9291b3563f77d206ec345",
+      "original_unchanged": true,
+      "numeric_grade": null,
+      "independent_observation_count": null,
+      "confidence_gain": false
+    },
+    {
+      "id": "SHU-A2",
+      "observed": "Sarcasm and refusal of added vault demand remain; ledger made available; requests a precise discrepancy and account of authority.",
+      "input_fidelity": "Keeps agreed ledger access distinct from unestablished vault access. Respect does not produce trust, confession or drawer opening.",
+      "unprobed_or_adverse": "Procedural reply is conspicuously tidy and directly prompted by explicit authority limits. Does not establish source woman routinely calculates well or avoids costly mistakes under respect.",
+      "rivals": "Generic proud but procedurally informed estate holder can answer similarly. Written English voice/accent/Japanese unvalidated.",
+      "diagnostic_disposition": "INDEPENDENT_DISPUTE_RETAINED_GENERIC_AND_OPTIMALITY_RIVALS_LIVE",
+      "pair_id": "SHU-A",
+      "rule_id": "SHU-R01",
+      "original_body_sha256": "3d9625c265fc8fa20742ea0041f4a1453de160c5dc663334414741061742b129",
+      "original_unchanged": true,
+      "numeric_grade": null,
+      "independent_observation_count": null,
+      "confidence_gain": false
+    }
+  ],
+  "dependent_pair_readouts": [
+    {
+      "pair": "SHU-A",
+      "actual": "Threat/preparation versus procedural resistance; no drawer cooperation under respect.",
+      "limit": "No completed cost or source tactical reversal, generic insulted noble remains strong, high cueing and tidy control response."
+    }
+  ]
+}

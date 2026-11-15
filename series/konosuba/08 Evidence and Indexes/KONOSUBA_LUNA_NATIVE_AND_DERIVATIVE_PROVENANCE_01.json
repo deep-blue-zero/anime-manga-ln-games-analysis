@@ -1,0 +1,163 @@
+{
+  "schema": "KONOSUBA_LUNA_NATIVE_AND_DERIVATIVE_PROVENANCE_V1",
+  "recorded_utc": "2026-10-20T08:52:25.456723+00:00",
+  "source_boundary": "56dd3653c85d475ab85cdf891202d8e97531d729",
+  "private_actual_receiving02_sha256": "45dfa178e67a93df4e17b4e244c8f9c4116ab67f8624e4a0919e67983353f4bb",
+  "known_BASE_context_slots_within_receipt": 1033,
+  "members": 8,
+  "admitted_native_objects": 4,
+  "current_windows": [
+    {
+      "source": "MASK",
+      "unit": "U017",
+      "member": "text/part0015.html",
+      "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+      "member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_COMPONENT_REGISTER.json",
+      "accepted_register_sha256": "c7338384c21411ac221ab3f5ad1681c2aebe2408bf87e9d26fac6fa2a6be9349",
+      "actual_complete_line_windows": [
+        [
+          1,
+          357
+        ],
+        [
+          426,
+          587
+        ]
+      ],
+      "within_member_context_slots": 519
+    },
+    {
+      "source": "MAIN-11",
+      "unit": "U014",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+      "member_sha256": "6d37867cc78380b4980018711fc5e494540d6d2d774f85274b606108ae2b7c6d",
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_COMPONENT_REGISTER.json",
+      "accepted_register_sha256": "d323c2fad7915c46bfe9d041350e8aec40561f23741abfbbf00a6fac913b9dc4",
+      "actual_complete_line_windows": [
+        [
+          390,
+          520
+        ]
+      ],
+      "within_member_context_slots": 131
+    },
+    {
+      "source": "MAIN-11",
+      "unit": "U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+      "member_sha256": "ea07ae3ecd06688a9df16a05d8bc98ff53a644ab013cc30d79bb67a727f4da9b",
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_COMPONENT_REGISTER.json",
+      "accepted_register_sha256": "d323c2fad7915c46bfe9d041350e8aec40561f23741abfbbf00a6fac913b9dc4",
+      "actual_complete_line_windows": [
+        [
+          60,
+          136
+        ],
+        [
+          495,
+          535
+        ]
+      ],
+      "within_member_context_slots": 118
+    },
+    {
+      "source": "DUST-07",
+      "unit": "U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "member_sha256": "6777b851ec9f2e450e5cb21d96956c1ab584b9f2d3438842eceafb76241bf39a",
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_COMPONENT_REGISTER.json",
+      "accepted_register_sha256": "cc2abb85e5d05c5a3653c774375e4b0d30644cb7f92c74c4214ebba64864cfcc",
+      "actual_complete_line_windows": [
+        [
+          90,
+          138
+        ]
+      ],
+      "within_member_context_slots": 49
+    },
+    {
+      "source": "DUST-07",
+      "unit": "U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "member_sha256": "c9ba71b51dab40b49a9f5d2b42952a635d1dd55a4e9c2aae16853c21d8e256e1",
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_COMPONENT_REGISTER.json",
+      "accepted_register_sha256": "cc2abb85e5d05c5a3653c774375e4b0d30644cb7f92c74c4214ebba64864cfcc",
+      "actual_complete_line_windows": [
+        [
+          900,
+          930
+        ]
+      ],
+      "within_member_context_slots": 31
+    },
+    {
+      "source": "DUST-07",
+      "unit": "U014",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "member_sha256": "b44ca1e68568f6e50d74461e956b1d432a296135e95cd93142f6054d85ae923d",
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_COMPONENT_REGISTER.json",
+      "accepted_register_sha256": "cc2abb85e5d05c5a3653c774375e4b0d30644cb7f92c74c4214ebba64864cfcc",
+      "actual_complete_line_windows": [
+        [
+          110,
+          130
+        ]
+      ],
+      "within_member_context_slots": 21
+    },
+    {
+      "source": "MAIN-11",
+      "unit": "U016",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+      "member_sha256": "6fc357c0d2a2e296781b478ab7edf4772d6abaa0db3e52da650136ca6b4bdeee",
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_COMPONENT_REGISTER.json",
+      "accepted_register_sha256": "d323c2fad7915c46bfe9d041350e8aec40561f23741abfbbf00a6fac913b9dc4",
+      "actual_complete_line_windows": [
+        [
+          1,
+          55
+        ]
+      ],
+      "within_member_context_slots": 55
+    },
+    {
+      "source": "YORI-04",
+      "unit": "U014",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+      "member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI04_COMPONENT_REGISTER.json",
+      "accepted_register_sha256": "3b3c5ca579e021301b5f0bbf91787481fa8883ee67e96e48acd20b4f3a9563cb",
+      "actual_complete_line_windows": [
+        [
+          450,
+          558
+        ]
+      ],
+      "within_member_context_slots": 109
+    }
+  ],
+  "credit_limits": "Retrospective known-source BASE recheck only; no new global unique-primary/full-source/ruby/image/admission/independent credit. Context slots are not character actions/trials. Earlier source, reports and ten-ledger receiving retain distinct scopes.",
+  "precision_findings": [
+    "MASKU01781-102 actual corpse-gift rejection and ecological/service explanation; no personal corpse hobby, retrieval of dolls not shown in this window.",
+    "MASKU017316-330 own finite penalty/force options, unpaid overtime and three-month no-leave account; own reported rest/company/domestic wishes.",
+    "MASKU017450 actual thanks for performed cover work;487 preplanned emotional harvest,511-519 explicit objection and paid future-work demand;539 bounty is Vanir retrospective report,541 opts out of unwanted forecast. Continued contact does not certify repair or consent to humiliation.",
+    "MAIN11U014431-444 Luna appropriates Komekko admiration; child answers hearing/sympathy, not delegated control of adult labor. U01575-101 actual adult objections/ignored Megumin voice, not frictionless free assent.",
+    "MAIN11U015119 conditional date offer,120 rejection,122 demand for rumor source;125 physical restraint,131 knows frontal combat weakness. U015515 original assignment was investigation,524 actual pay with unanswered heartless-selection question;roots519 explicitly remain.",
+    "DUST07U013118-126 actual guild-vault ten-million commitment accepted and attack begun; epilogueU014122 Dust reports received money, not a separately watched bank transfer or Luna private savings.",
+    "DUST07U011920-922 Luna leaves on Dust request without understanding his reason; a contrary case to universal coercion or uniform refusal failure.",
+    "YORI04U014453 finite participant banquet;458-460 narrated zero-death report expressly uses resurrection exclusion.",
+    "YORI04U014492 recognizes retired status; DarkStalker volunteers, Assassin529 has not accepted; later552-557 eventual separate assent. Patrol not completed; no omitted authorization supplied by the first volunteer.",
+    "YORI04 narrator uses many unquoted narrative-side turns; retain Luna explicitly quoted turns and Assassin correction mediated through narrator rather than invented full transcript."
+  ],
+  "no_source_text_or_images_included": true,
+  "global_census_closed": false,
+  "full_program_complete": false
+}

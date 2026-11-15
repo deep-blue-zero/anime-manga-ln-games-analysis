@@ -954,3 +954,28 @@ Recommended routing:
 - Rinami extraction, source-family segmentation, continuity reconstruction, locators, bounded first draft: **GPT-5.6 Sol — Extra High**.
 - Hiro integrated audiovisual baseline: **GPT-5.6 Pro — Pro reasoning preferred**, because the critical unresolved issues depend on direct comparison among fragile/exhausted speech, public `神格`, private/cute desire, crisis performance, and the `光景 → コントラスト → サンフェーデッド` developmental musical sequence.
 - Hiro final Phase-7 monograph: **GPT-5.6 Pro — Pro reasoning**.
+
+
+## Source Lock 1.1 supplement — 2026-11-12
+
+The claims below use revision 86 A1. The earlier sections document the Source Lock 1.0 reading. The companion [evidence matrix](GKM_CORE_07_SHINOSAWA_HIRO_EVIDENCE_MATRIX.md#source-lock-11-supplement--2026-11-12) records the claim dispositions. The [source delta](../../../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv) resolves original filenames to archive paths and hashes. L indicates a physical A1 line. M indicates the ordinal of an A1 message command.
+
+### Hiro preserves uncertainty while accepting collaborative resources
+
+The optional recap recalls Hiro's one-night H.I.F. achievement, the promise to retire it, and the resulting loss of capability. Both branches lead to the decision to make a new single. Owl recognizes Hiro's fear of being left behind and proposes acquiring or borrowing new `手札` read `カード`. Hiro welcomes the production help and names uncertainty and difficulty as the starting point for her new song `め`. `adv_cidol-shro-3-022_01.txt` L51–99, L148–205, `adv_cidol-shro-3-022_02.txt` L180–228 and `adv_cidol-shro-3-022_03.txt` L76–145, L164–230. [Communication reading](../GKM_COMMU_REVISION_86_DEEP_READING.md).
+
+Hiro wants to answer her audience while retaining the experience she chose. The collaboration expands the means available to her and permits her own different answer to the same dilemma. The skip branch omits the retelling. Hiro leaves fan acceptance open and the scene ends during the song's development.
+
+**Scope.** C1 within Hiro's post-win weakening state. C3 controls recap disclosure.
+
+**Claim disposition.** `HIRO-R86-C01` — STRENGTHEN `HIRO-C06`, `HIRO-C16` and `HIRO-C28`.
+
+### An ordinary friendship involves reciprocal practical adjustment
+
+Hiro explicitly calls Misuzu a dear friend and asks her to make a summer memory together. Misuzu makes room for Hiro's wish and offers shade when Hiro struggles. Later Hiro notices that Misuzu avoids the spicy dishes and asks to find food both will enjoy. `adv_csprt-3-0107_02.txt` L99–135, `adv_csprt-3-0107_01.txt` L105–159 and `adv_csprt-3-0107_03.txt` L124–178. [Support-card reading](../../03_SUPPORT_CARD_READINGS/GKM_SUPPORT_REVISION_86_DEEP_READING.md).
+
+Hiro helps choose and revise a shared activity. Both participants act on the other person's needs as the outing changes. Hiro's guess about Misuzu's preference is met with deflection. The clearest evidence is Hiro's offer to find a mutually acceptable option.
+
+**Scope.** C1 within the first summer holiday after Hiro made friends in this support story. C4 against the main tracks.
+
+**Claim disposition.** `HIRO-R86-C02` — ADD to `HIRO-C29`.

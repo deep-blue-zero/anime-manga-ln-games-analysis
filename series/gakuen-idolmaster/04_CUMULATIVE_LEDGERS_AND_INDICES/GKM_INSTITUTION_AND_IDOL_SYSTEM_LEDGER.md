@@ -5,7 +5,7 @@ document_type: "persistent ledger"
 version: "2.5"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-24 - Phase 6 side-character synthesis institutional routing integrated"
+last_updated: "2026-11-12 — Source Lock 1.0 historical corrections"
 status: "active; cumulative through Phase 6 side-character synthesis"
 ---
 
@@ -603,3 +603,23 @@ This is a synthesis-only institutional update; it introduces no new Source Lock 
 Phase-8 institutional synthesis should therefore evaluate systems through the people who administer and contest them, not only through stated rules.
 
 **Next Phase-6 operation:** `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`.
+
+## Historical source corrections — 2026-11-12
+
+| State | Evidence | Institutional consequence and limit |
+| --- | --- | --- |
+| C1 @ D-UME | Saki reports President Juo's scouting and 100 Pro's willingness to support self-production. She intends family management and declines a dedicated Producer (`LOC-HSCA-002E`). Ume later names 100 Pro her first preference (`LOC-HSCA-003A`). | Agency-supported self-production is possible for Saki in this track. Ume has a preference; the compensation comparator is branch-gated and does not establish a hiring rule. |
+| C1 @ U1 | Sena leads and produces Begrazia, plans to leave idol work, then reverses herself after the unit result. Ume reminds her that graduates cannot enter school events (`LOC-HSCA-004A`, `004D`). | Unit member, producer and student eligibility have separate conditions. Sena does not disclose a plan that resolves the future roster. |
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+| system ID | English label | Japanese | scope | explicit rule/fact | primary evidence | continuity role |
+| --- | --- | --- | --- | --- | --- | --- |
+| SYS-R86-100P-INTAKE | 100 Pro intake | 本所属 / 仮所属 | E028 | Rinami describes September and January full-affiliation opportunities and continued lessons under provisional affiliation. Tsubame separately reports direct scouting can occur at the festival. | E028/01 M004–008, /04 M027–030 | The relationship between direct scouting and the exam stays open. |
+| SYS-R86-EXTERNAL | Six Major Auditions | 六大オーディション / 完全制覇 | D-KOTONE, D-SENA | Asari distinguishes external tests from Hatsuboshi's title. Winning all six is `完全制覇` read `グランドスラム`, for which Asari says fans confer a special title. | D-KOTONE 029 M074–078 and D-SENA 029 L240–251 | Count wins separately by route. Neither five aggregate school wins nor one Triple Crown equals a Grand Slam. |
+| SYS-R86-DUAL | Active performer and producer | プロデューサー兼トップアイドル | D-SENA | President Juo expressly accepts Sena's dual role after her external results. | D-SENA 028 L428–530 and 033 L010–023 | Before winter outcome, individual institutional concession. |
+| SYS-R86-WINTER | Winter H.I.F. evaluation | 選抜試験 / ガラクタロード | P3-SENA explanatory fragments | Asari describes tightened three-test selection, unified solo/unit entrance and the final's prescribed/free rounds and combined judgment. | `adv_pstory_003_jsna_world-explanation-selection.txt` L007–111, `world-explanation-final.txt` L007–100 | Described P3 procedure. Keep individual result states scoped. |
+| SYS-R86-COUNCIL | Student council handover | 次期生徒会長 | E028, Kanae 000, M-CHINA 018, D-TSUBAME | Sena and Tsubame discuss China receiving work, China wins an election and explicitly distinguishes president-elect from incumbent, and Tsubame arranges rehearsal access. | GKM-R86-03, 04, 05, 08 | Stages of handover and separate witnesses. |
+| SYS-R86-PRODUCTION | Student and sponsor co-production | 大型タイアップ / コンセプト | E027→E030 | Sponsor requests student perspective. Sena includes a nonmember, then delegates concept and recruitment to Lilja. | E027/01 M007–020 and /04 M039–050, E030/01 M014–034 | Specific campaign. |
+| SYS-R86-ASARI | Producer Course mentorship | 先生 / 卒業 | support 3-0099 | Asari states teaching purpose and continued responsibility until graduation. Producer reports past 100 Pro employment. | 3-0099_01 L019–087 and _03 L019–030 | Prior professional name remains unverified. |

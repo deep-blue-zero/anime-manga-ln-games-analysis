@@ -20,7 +20,7 @@ continuity_tracks:
 - D-UME
 - M-UME
 reasoning_route: GPT-5.6 Sol — Extra High
-last_updated: '2026-08-16'
+last_updated: "2026-11-12 — Source Lock 1.0 historical corrections"
 ---
 
 # GKM CORE 10 — HANAMI UME / 花海佑芽
@@ -598,21 +598,13 @@ Later AV analysis should pay particular attention to whether stage “cuteness�
 
 ---
 
-# 19. Career agency: post-Saki Ume can choose against the obvious path
+# 19. Career agency: Hanami Ume reasons through her first-choice agency
 
-Dear 035 is strong evidence that individuation has become institutional rather than merely emotional.
+**Correction — HSCA-003, 2026-11-12 (REVISE UME-C30).** In Dear 033, Hanami Saki says her entry to 100 Pro has been decided after President Juo's scouting. Saki plans agency-supported self-production and family management. Ume's long 「…………………………………そっか」 follows both the announcement and Saki's statement that she will sprint from start to finish. The text leaves its precise cause open (`adv_dear_hume_033.txt`, A1 298–393).
 
-Ume considers future agencies through actual information gathering. She recognizes the appeal of 961 because a harsher environment and fighting Hatsuboshi could be exciting. She nevertheless selects 100pro as her first preference because she has formed her own judgment that it is where the next interesting story will develop.
+In Dear 035 Ume has not yet committed to an agency. She calls 100 Pro her first choice, asks to revisit the timing after H.I.F., and says direct conversations and informal alumni visits formed her judgment. She considered 961 Pro as a way to compete from outside Hatsuboshi and expects 100 Pro to become more interesting with her (`adv_dear_hume_035.txt`, 183–304). Ume and Saki name the same professional field at different stages of decision. Ume gives her own reasons, without naming Saki as a motive.
 
-This matters because the choice is not “go wherever Saki goes.”
-
-The same late route also shows her choosing `真っ白いページと水彩の主人公` over the rivalry song that seems to carry Saki's intended destiny.
-
-These are quiet but important acts of authorship:
-
-> **Ume can honor relational inheritance while choosing differently.**
-
-That is the opposite of severance. It is differentiation strong enough that continued love no longer requires copied decisions.
+The Producer uses 100 Pro as an environment comparator in Dear 014 (`adv_dear_hume_014.txt`, 186), and as a compensation comparator in Dear 016 only in the third `報酬が……` choice (`adv_dear_hume_016.txt`, 52). These comparisons do not establish a general rule for Hatsuboshi graduates. The earlier §19 inferred divergence of agency outcome. The better supported claim is **self-reasoned career preference within a shared field** (C1 @ D-UME). Ume's separately evidenced song choice in Dear 031–032 still differentiates her artistic direction.
 
 ---
 
@@ -916,3 +908,10 @@ The most reliable Phase-3 thesis is therefore:
 That is why her late “world's strongest idol” language is not best read as simple domination.
 
 For Hanami Ume, the strongest idol is the one who can keep enough people running that nobody has to disappear over the horizon alone.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+In Ume's fragrance campaign communication, Ume wants to borrow from her imagined future. Her Producer identifies composure already visible in competition. Ume then recasts `現実` with ruby `あたし` and `理想` with ruby `ライバル`, turning her actual self into a challenger to the Producer's ideal (`adv_cidol-hume-3-022_02.txt` L119–192; `_03.txt` L127–186). E030 separately gives a performance technique that depends on Ume imagining the familiar act of asking her sister for something (`adv_event_030_main-04.txt` M052–070; `main-05` M018–029).
+
+[Source reading 1](../GKM_COMMU_REVISION_86_DEEP_READING.md) · [Source reading 2](../../02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md)

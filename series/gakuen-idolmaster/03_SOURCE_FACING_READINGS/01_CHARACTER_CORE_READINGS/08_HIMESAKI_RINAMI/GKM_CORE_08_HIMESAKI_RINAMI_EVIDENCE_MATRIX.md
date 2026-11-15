@@ -67,3 +67,14 @@ The textual pass does **not** decide:
 - how `SUGAR FLAVOR` distributes leadership, contrast, and reciprocity between Rinami and Mao;
 - whether H.O.F./H.I.F. staging visually reinforces care-as-embrace, peer competition, or summit authority;
 - how breath, pacing, register, laughter, hesitation, and crying change during Dear 026–027 and 037.
+
+
+## Source Lock 1.1 supplement — 2026-11-12
+
+These claim rows apply to revision 86 A1. The [core supplement](GKM_CORE_08_HIMESAKI_RINAMI.md#source-lock-11-supplement--2026-11-12) gives the observations and interpretations separately. The Source Lock 1.0 matrix above records the historical assessment.
+
+| Claim ID | Disposition and prior claim | Bounded finding and A1 locator | Story state | Counterevidence and limits |
+| --- | --- | --- | --- | --- |
+| `RINAMI-R86-C01` | ADD to `RINAMI-C28` and STRENGTHEN the vocational strand of `RINAMI-C30` | Rinami makes a career decision through the work she has already done. `adv_event_028_main-03.txt` M053–078, `adv_event_028_main-04.txt` M074–077 and `adv_event_028_main-05.txt` M030–078. | C1 within E028 after summer H.I.F. and before September intake. Exact main-route placement remains open. | The source establishes an intention to sit the exam and supplies no exam or hiring result. It leaves the division of planning between Tsubame and Sena open. |
+| `RINAMI-R86-C02` | STRENGTHEN `RINAMI-C28` | Rinami teaches a professional craft and receives a peer's answer. `adv_csprt-3-0106_01.txt` L76–152, `adv_csprt-3-0106_02.txt` L110–164 and `adv_csprt-3-0106_03.txt` L93–159. | C1 within the festival advance shoot and C4 against the main tracks. The former unit is recalled. | Temari's description of her cool image and Rinami's own memories remain perspective-specific. The pauses and delivery need AV inspection. |
+| `RINAMI-R86-C03` | NARROW the occupational attribution for this source. CONFIRM the existing `RINAMI-C28` basis | Rinami appears as a guest in the RippleSign interview. `adv_cidol-hrnm-3-018_03.txt` L8–50, L76–127, L291. | Revision 86 reading of Rinami's duo-contest web special. | This change is scoped to one broadcast. Other Rinami reporting and presenter jobs require their own sources. |

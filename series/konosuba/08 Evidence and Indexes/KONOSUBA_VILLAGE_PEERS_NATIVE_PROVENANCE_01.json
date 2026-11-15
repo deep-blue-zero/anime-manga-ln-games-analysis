@@ -1,0 +1,405 @@
+{
+  "schema": "konosuba.village-peers.native-provenance.v1",
+  "recorded_utc": "2026-10-20T19:05:33.733763+00:00",
+  "scope": "Known admitted-source bounded BASE rechecks for C20 descriptive artifacts, not source re-admission or fresh complete editions. No native media or full transcripts are included.",
+  "published_base": "fdd72d658e75bf527f9b564118a39edaf5809caa",
+  "subjects": [
+    "Funifura",
+    "Dodonko",
+    "Nerimaki"
+  ],
+  "native_objects": [
+    {
+      "source_id": "MAIN-11",
+      "native_filename": "Konosuba - Main Series - Volume 11.epub",
+      "native_bytes": 6177663,
+      "native_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+      "admission_sha256": "50749a3fcd57bc2a0f1e97d6eebc6b4c537c613c3d02798a0caeceae207d08d2",
+      "current_component_register_sha256": "d323c2fad7915c46bfe9d041350e8aec40561f23741abfbbf00a6fac913b9dc4",
+      "current_principal_contract_sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e"
+    },
+    {
+      "source_id": "MAIN-14",
+      "native_filename": "Konosuba - Main Series - Volume 14.epub",
+      "native_bytes": 2839172,
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "admission_sha256": "66516800b5b49a768d316ac684b65643c51cbbd063c52363dbe501ba061e9c73",
+      "current_component_register_sha256": "67dd17b1d29f61183d6cc6dfbeed68335be3cfdfc58189dcae65a9346fc3285f",
+      "current_principal_contract_sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e"
+    },
+    {
+      "source_id": "EXP-01",
+      "native_filename": "Konosuba - Spin-off - Explosions - Volume 01.epub",
+      "native_bytes": 19168549,
+      "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "admission_sha256": "615c86a7c62c699cd5f6274172f192117e5157f15572931f2b0135b4863d7d1e",
+      "register_sha256": "28bbfa4f4a7914cf1e4318230a810855f97eb13f071e99237a09e086ae2ea2be"
+    },
+    {
+      "source_id": "EXP-02",
+      "native_filename": "Konosuba - Spin-off - Explosions - Volume 02.epub",
+      "native_bytes": 13672536,
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "admission_sha256": "8e980e97636b77f7eec790ff9f38830f586b2a91a780fc9c07f5fab94f5440e3",
+      "register_sha256": "9d9bb676fe0fa9a813153993d1b2a2a1b196df103b2c8ee469763e1b77b3e2b8"
+    },
+    {
+      "source_id": "MAIN-03",
+      "native_filename": "Konosuba - Main Series - Volume 03.epub",
+      "native_bytes": 3497582,
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+      "admission_sha256": "7ab195535b037a831d10377feba6144996291dc9cc5da56135328e1dffb1dff1",
+      "current_component_register_sha256": "8230a7b293c2817e3fedec2727d1657675353abc5692d335036cae6c447ba04b",
+      "current_principal_contract_sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e"
+    },
+    {
+      "source_id": "MAIN-05",
+      "native_filename": "Konosuba - Main Series - Volume 05.epub",
+      "native_bytes": 14376279,
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "admission_sha256": "867a105769b44fd417531f906fb1da0c738985ec4ab0f1781eb452c133cac486",
+      "current_component_register_sha256": "a8d47cffa2b1a1de2099b9dfbfe8aab328e903a986a173d039b981581468462d",
+      "current_principal_contract_sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e"
+    },
+    {
+      "source_id": "DUST-03",
+      "native_filename": "Konosuba Extra - Dust - Volume 03.epub",
+      "native_bytes": 18686443,
+      "native_sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+      "admission_sha256": "30161e56e9a93714cbb39b7c84cde39d63621605b28cfe22c88ac06a40ac7628",
+      "register_sha256": "53b858ed6ac34f17cb61c2e7078b813750fd1295f97ff4b58da4548a3417172a"
+    },
+    {
+      "source_id": "YORI-02",
+      "native_filename": "Konosuba - Short Stories - Yorimichi 2.epub",
+      "native_bytes": 9172954,
+      "native_sha256": "f7b9051a4f2bea3033eea528477d4cc80cfdebe214d51d0764a3cf1eef352baf",
+      "admission_sha256": "f3ede4239d7ca6a6c8335f815af412867c501b407c43506b2cb4e3c6f6eb1154",
+      "register_sha256": "d591d8573c43a2e3d4a26f736a125ca143b0aef39859166827c2e3b10b176e5c"
+    }
+  ],
+  "members": [
+    {
+      "locator_key": "MAIN11-C3-start",
+      "source_id": "MAIN-11",
+      "component_id": "MAIN-11-U014",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "6d37867cc78380b4980018711fc5e494540d6d2d774f85274b606108ae2b7c6d",
+      "member_paragraph_slots": 579,
+      "actual_known_BASE_windows": [
+        [
+          41,
+          200
+        ]
+      ],
+      "unique_known_BASE_context_slots": 160,
+      "BASE_complete_this_cohort": false
+    },
+    {
+      "locator_key": "MAIN11-Ep-start",
+      "source_id": "MAIN-11",
+      "component_id": "MAIN-11-U017",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "411be22a287cad0c8c0c0a1539b2115736cefdb3913fbcc172779045a3f76d25",
+      "member_paragraph_slots": 143,
+      "actual_known_BASE_windows": [
+        [
+          1,
+          50
+        ]
+      ],
+      "unique_known_BASE_context_slots": 50,
+      "BASE_complete_this_cohort": false
+    },
+    {
+      "locator_key": "MAIN14-C1-start",
+      "source_id": "MAIN-14",
+      "component_id": "MAIN-14-U012",
+      "member": "OEBPS/Text/part0010.xhtml",
+      "member_sha256": "10ed143a5cf74a48533cc4d858b92143cdc2464a197dff54189122b7ebc6119c",
+      "member_paragraph_slots": 418,
+      "actual_known_BASE_windows": [
+        [
+          150,
+          210
+        ],
+        [
+          330,
+          418
+        ]
+      ],
+      "unique_known_BASE_context_slots": 150,
+      "BASE_complete_this_cohort": false
+    },
+    {
+      "locator_key": "MAIN14-C3-start",
+      "source_id": "MAIN-14",
+      "component_id": "MAIN-14-U014",
+      "member": "OEBPS/Text/part0012.xhtml",
+      "member_sha256": "aa8db56f63b180d4740d7bd38d974c0490b2fd79211fc42e433d23131e19d23b",
+      "member_paragraph_slots": 404,
+      "actual_known_BASE_windows": [
+        [
+          145,
+          215
+        ]
+      ],
+      "unique_known_BASE_context_slots": 71,
+      "BASE_complete_this_cohort": false
+    },
+    {
+      "locator_key": "MAIN14-C4-start",
+      "source_id": "MAIN-14",
+      "component_id": "MAIN-14-U016",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319",
+      "member_paragraph_slots": 681,
+      "actual_known_BASE_windows": [
+        [
+          1,
+          100
+        ]
+      ],
+      "unique_known_BASE_context_slots": 100,
+      "BASE_complete_this_cohort": false
+    },
+    {
+      "locator_key": "MAIN05-F-start",
+      "source_id": "MAIN-05",
+      "component_id": "MAIN-05-U028",
+      "member": "item/xhtml/p-019.xhtml",
+      "member_sha256": "bcecb00920208d7afe38c9c9b255c6dae6b36c981916f456b63a5e95370d8db4",
+      "member_paragraph_slots": 232,
+      "actual_known_BASE_windows": [
+        [
+          1,
+          232
+        ]
+      ],
+      "unique_known_BASE_context_slots": 232,
+      "BASE_complete_this_cohort": true
+    },
+    {
+      "locator_key": "MAIN03-C2-start",
+      "source_id": "MAIN-03",
+      "component_id": "MAIN-03-U017",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "e95a01a476aba149445390b976c0387177a0528c4b0e167bfa466efa7fd1592d",
+      "member_paragraph_slots": 638,
+      "actual_known_BASE_windows": [
+        [
+          570,
+          615
+        ]
+      ],
+      "unique_known_BASE_context_slots": 46,
+      "BASE_complete_this_cohort": false
+    },
+    {
+      "locator_key": "EXP-01-U023",
+      "source_id": "EXP-01",
+      "component_id": "EXP-01-U023",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+      "member_paragraph_slots": 703,
+      "actual_known_BASE_windows": [
+        [
+          1,
+          170
+        ],
+        [
+          330,
+          703
+        ]
+      ],
+      "unique_known_BASE_context_slots": 544,
+      "BASE_complete_this_cohort": false
+    },
+    {
+      "locator_key": "EXP-01-U034",
+      "source_id": "EXP-01",
+      "component_id": "EXP-01-U034",
+      "member": "item/xhtml/p-024.xhtml",
+      "member_sha256": "3f41c401eed63de1de9dcb486461831e3caa77dccf0eafdb7451107600d984fd",
+      "member_paragraph_slots": 179,
+      "actual_known_BASE_windows": [
+        [
+          1,
+          179
+        ]
+      ],
+      "unique_known_BASE_context_slots": 179,
+      "BASE_complete_this_cohort": true
+    },
+    {
+      "locator_key": "EXP-01-U037",
+      "source_id": "EXP-01",
+      "component_id": "EXP-01-U037",
+      "member": "item/xhtml/p-027.xhtml",
+      "member_sha256": "60647d2820d49b2b7ac5570c5013f18e6ab080aaa434672a2ab59421a58532da",
+      "member_paragraph_slots": 427,
+      "actual_known_BASE_windows": [
+        [
+          1,
+          427
+        ]
+      ],
+      "unique_known_BASE_context_slots": 427,
+      "BASE_complete_this_cohort": true
+    },
+    {
+      "locator_key": "EXP-02-U015",
+      "source_id": "EXP-02",
+      "component_id": "EXP-02-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "member_paragraph_slots": 487,
+      "actual_known_BASE_windows": [
+        [
+          315,
+          487
+        ]
+      ],
+      "unique_known_BASE_context_slots": 173,
+      "BASE_complete_this_cohort": false
+    },
+    {
+      "locator_key": "EXP-02-U023",
+      "source_id": "EXP-02",
+      "component_id": "EXP-02-U023",
+      "member": "item/xhtml/p-014.xhtml",
+      "member_sha256": "7815e5bd9b505481befbb570e409ce2180d48afe638c2c7b2fcc813235c8b014",
+      "member_paragraph_slots": 702,
+      "actual_known_BASE_windows": [
+        [
+          350,
+          487
+        ],
+        [
+          650,
+          702
+        ]
+      ],
+      "unique_known_BASE_context_slots": 191,
+      "BASE_complete_this_cohort": false
+    },
+    {
+      "locator_key": "EXP-02-U029",
+      "source_id": "EXP-02",
+      "component_id": "EXP-02-U029",
+      "member": "item/xhtml/p-020.xhtml",
+      "member_sha256": "417d1d458cc45fa61582ea36ccfdbfb506bb5e6afc9a16983089d3538035def5",
+      "member_paragraph_slots": 373,
+      "actual_known_BASE_windows": [
+        [
+          1,
+          90
+        ]
+      ],
+      "unique_known_BASE_context_slots": 90,
+      "BASE_complete_this_cohort": false
+    },
+    {
+      "locator_key": "DUST-03-U011",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "member_paragraph_slots": 813,
+      "actual_known_BASE_windows": [
+        [
+          530,
+          585
+        ]
+      ],
+      "unique_known_BASE_context_slots": 56,
+      "BASE_complete_this_cohort": false
+    },
+    {
+      "locator_key": "YORI-02-U024",
+      "source_id": "YORI-02",
+      "component_id": "YORI-02-U024",
+      "member": "item/xhtml/p-015.xhtml",
+      "member_sha256": "8b5eeb955f8e23c0a7cbbc84db7ba8784793d9fe57eccc2b394aabf1789a201f",
+      "member_paragraph_slots": 367,
+      "actual_known_BASE_windows": [
+        [
+          40,
+          105
+        ]
+      ],
+      "unique_known_BASE_context_slots": 66,
+      "BASE_complete_this_cohort": false
+    }
+  ],
+  "unique_known_BASE_context_slots": 2535,
+  "text_member_count": 15,
+  "native_object_count": 8,
+  "actual_image_rechecks": 1,
+  "image": {
+    "source_id": "MAIN-14",
+    "image_id": "MAIN-14-IMG026",
+    "member": "OEBPS/Images/image00191.jpeg",
+    "bytes": 118472,
+    "sha256": "242e7c0a06e745d349dcbc4a1f0f1e38690da0f6307407fe7a25b5d6276c4a22",
+    "actual_recheck": "Pixels actually received in prior receipt05 after exact binding reacquired in99fc8b; current byte comparison is not a second view or new source pass.",
+    "supported_use": "Afterword caption explicitly frames the depicted pairing as Nerimaki imagination; prose MAIN14C1P358/370 supplies referent. No performed intimacy, assent or external creator identity inferred."
+  },
+  "private_receiving_history": [
+    {
+      "private_receipt_identity": "VILLAGE_PEERS_ACTUAL_KNOWN_PREPARATION_RECEIVING_01.json",
+      "sha256": "4b5b706b75717791420db1e364978812464dbfce0186575fd9b40c38325c9e24"
+    },
+    {
+      "private_receipt_identity": "VILLAGE_PEERS_ACTUAL_KNOWN_PREPARATION_RECEIVING_02.json",
+      "sha256": "59821f95c48c28c9a1c2949827d2d2a8f8547f76329f3f72a0599cc217c4a069"
+    },
+    {
+      "private_receipt_identity": "VILLAGE_PEERS_ACTUAL_KNOWN_PREPARATION_RECEIVING_03.json",
+      "sha256": "6bdb2a2d3a893eeddfe8d8344404e6ecf21ea0e89e312618b37f10897a9d4e96"
+    },
+    {
+      "private_receipt_identity": "VILLAGE_PEERS_ACTUAL_KNOWN_PREPARATION_RECEIVING_04.json",
+      "sha256": "f44431c53d9d9bd9e46d92aff579b17279216b862e80e10b9a01176bfbc540f3"
+    },
+    {
+      "private_receipt_identity": "VILLAGE_PEERS_ACTUAL_KNOWN_PREPARATION_RECEIVING_05.json",
+      "sha256": "9a8db1b2238336e20008f1bbe162ea5ec9c7a7a97b253eaa6c49cd5f74b987d6"
+    },
+    {
+      "private_receipt_identity": "VILLAGE_PEERS_ACTUAL_KNOWN_PREPARATION_RECEIVING_06.json",
+      "sha256": "b5891e6eaa1c63aa8dedd61f7ec6657fac83018d9ddce409f92d1863959b94f3"
+    },
+    {
+      "private_receipt_identity": "VILLAGE_PEERS_ACTUAL_KNOWN_PREPARATION_RECEIVING_07.json",
+      "sha256": "224c3ca6ba7c234cc5e43ed3dafee3929efb3357e098ba9109446d982216a640"
+    },
+    {
+      "private_receipt_identity": "VILLAGE_PEERS_ACTUAL_KNOWN_PREPARATION_RECEIVING_08.json",
+      "sha256": "98945732c2e0cfd504eff5cf70d93660c1b79dc9e11010f7c853c234dee0d844"
+    },
+    {
+      "private_receipt_identity": "VILLAGE_PEERS_ACTUAL_KNOWN_PREPARATION_RECEIVING_09.json",
+      "sha256": "126b76294622d5a7bfda38d1d9430436573c5f23e9f7d88e337ea7c5a7b8d17a"
+    }
+  ],
+  "repeat_voice_and_actor_checks_no_new_union_credit": [
+    "bd9b3e",
+    "2c16b5",
+    "67200e",
+    "a32ade",
+    "6e6d2a"
+  ],
+  "derivative_scope": "Earlier admitted reports, main01-17/checkpoints, ten responsibilities and mixed-support receiving retain prior literal or qualified reuse boundaries; not claimed freshly read as whole here.",
+  "lead_search_limit": "637bee cached name metadata and prior retained-main name discovery are retrieval leads only. Context-truncated attempts receive no semantic reading, absence or exhaustive unnamed/raster coverage credit.",
+  "source_types": "Direct action, participant report, narration/inference, imagined pair, actual afterword image and later testimony remain separate. Multiple rows citing a scene do not multiply observations.",
+  "independent_observation_count": null,
+  "new_whole_source_ruby_residual_or_image_set_passes": 0,
+  "new_source_admissions": 0,
+  "new_models": 0,
+  "new_scenario_inputs": 0,
+  "new_first_bodies": 0,
+  "independent_accuracy_result": null,
+  "confidence_gain": 0,
+  "full_program_complete": false
+}

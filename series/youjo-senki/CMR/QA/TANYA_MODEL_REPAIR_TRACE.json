@@ -1,0 +1,108 @@
+{
+  "schema": "youjo-senki/tanya-exact-model-repair-trace/v1",
+  "repair_scope": "Five mandatory first-QA repairs plus explicit crisis-address/book clarification and versioned status routing",
+  "original_model_sha256": "908f46f6dee54035012161f2bad680aedfb70133e96e231e519c1b551b010153",
+  "successor_model_sha256": "ae436797d00380bf958fc7d486052a31454db8322a8d53ac9b5cbd674c253015",
+  "original_claim_index_sha256": "fca4c20f4471314e162c4e99e246e1be9bc18b68420bc911c853085535f1edb1",
+  "successor_claim_index_sha256": "8512deea1f2b644050797adf9d1823e0b7459e9f649f3c9d94bf7feef6e521c1",
+  "original_first_QA_gate": "FAIL_REPAIR_REQUIRED",
+  "original_prediction_sha256": "beb05d9e9414c109a670f6cd5ba910659425fe23c7bc52ea679dbddd96ce8893",
+  "original_holdout_results": {
+    "YS-CMR5-QARESERVE-003": "PARTIAL",
+    "YS-CMR5-QARESERVE-004": "PARTIAL"
+  },
+  "repair_evaluation_type": "NONBLIND_POST_EVALUATION_SOURCE_REPAIR_NOT_NEW_HELDOUT_SUCCESS",
+  "reverse_reconstruction": "Starting from successor UTF8LF model, replace every new_text with old_text in reversed edits order; exact resulting bytes match original_model_sha256. No raw novel source is embedded.",
+  "reverse_byte_proof": "PASS_EXACT_ORIGINAL_BYTES",
+  "edits": [
+    {
+      "old_text": "version: \"1.0\"",
+      "new_text": "version: \"1.1\"",
+      "scope": "VERSION",
+      "reason": "Traceable first independent QA repair successor"
+    },
+    {
+      "old_text": "qa_status: CONSTRUCTION_CANDIDATE_NOT_YET_INDEPENDENTLY_EVALUATED",
+      "new_text": "qa_status: VERSIONED_INDEPENDENT_QA_RECORD_SEPARATE",
+      "scope": "QA_METADATA",
+      "reason": "Exact gate is bound by separate versioned independent records; no premature PASS claim"
+    },
+    {
+      "old_text": "(V01-013/039;V03-001/018/042;V04-009/029;V05-054;R14).",
+      "new_text": "(V01-013;V03-001/018/042;V04-009/029;V05-054;R14).",
+      "scope": "T19_CITATION",
+      "reason": "Remove networking/presentation witness from equipment/body-fit support, preserving its valid use elsewhere"
+    },
+    {
+      "old_text": "(V03-029;V04-033;V06-034/035;V13-073;V14-047).",
+      "new_text": "(V03-034;V04-033;V06-034/035;V13-073;V14-047).",
+      "scope": "T21_CITATION",
+      "reason": "Use source-verified Arabica/aroma/breathing rather than unrelated pay/leave witness"
+    },
+    {
+      "old_text": "(V03-025/029/034;V06-021;V07-021;V09-056;V10-071;V11-055/060;V12-014;R20).",
+      "new_text": "(V03-025/034;V06-021;V07-021;V09-056;V10-071;V11-055/060;V12-014;R20).",
+      "scope": "T37_CITATION",
+      "reason": "Remove pay/leave from positive coffee preference while retaining valid preference/enjoyment controls"
+    },
+    {
+      "old_text": "4. **Inspect constraints.** Manpower, logistics, fatigue, body, time, enemy capability, dependent allies, reputation and the cost of error are real. A favorable description is not a supplied capability.",
+      "new_text": "4. **Inspect constraints.** Manpower, logistics, fatigue, body, time, enemy capability, dependent allies, reputation and the cost of error are real. Verify that a coordination route has a person with the actual knowledge, reachable communication, authority and time to deliver. A favorable description or requested contact is not a supplied capability.",
+      "scope": "T11_COORDINATION",
+      "reason": "Actual route capacity must precede reliance on support; original case004 remains PARTIAL"
+    },
+    {
+      "old_text": "<a id=\"t13\"></a>",
+      "new_text": "An invited expert review can make a relevant limitation worth disclosing. In the post-exercise naval case, Tanya directly criticizes the defensive mechanism and interdepartmental coordination, then admits her own formation's limited shipboard experience to seek joint specialist training. Survival, real learning and a convenient further meal can coexist; she does not disclose her prior-world rationale or claim the refit/training was completed. The precise density/layering proposals are local technical judgments, not a universal solution a reconstruction may invent. This post-evaluation control repairs an overrestrictive disclosure prediction; it does not replace that original partial forecast. (YS-CMR5-QARESERVE-003 in [the first QA ledger](../QA/TANYA_INDEPENDENT_QA_CASES.jsonl).)\n\n<a id=\"t13\"></a>",
+      "scope": "T12_INVITED_CRITIQUE",
+      "reason": "Permit relevant own-gap admission and specialist learning without unnecessary autobiography"
+    },
+    {
+      "old_text": "<a id=\"t19\"></a>",
+      "new_text": "Coordination is itself a scarce capability, with an observable delivery test. A junior officer being present does not establish that he knows the local successor or defense plan. In the damaged-headquarters case, Tanya's first task assignment fails; she narrows it to a minimal accurate contact message and stops planning on timely integrated support. Her functioning mages become mobile reserve while disconnected allies are expected only to hold their positions. The general rule is to downgrade a route when knowledge, contact or time cannot deliver and use forces actually available; it is neither a universal refusal of teamwork nor a guarantee of successful independent action. Further mistakes and visible feedback must remain possible. The original prediction's optimistic coordination expectation remains a partial result. (YS-CMR5-QARESERVE-004 in [the first QA ledger](../QA/TANYA_INDEPENDENT_QA_CASES.jsonl).)\n\n<a id=\"t19\"></a>",
+      "scope": "T18_COORDINATION_FALLBACK",
+      "reason": "Add actual knowledge/capacity check, minimal-task repair and bounded mobile/local-role fallback"
+    },
+    {
+      "old_text": "<a id=\"t21\"></a>",
+      "new_text": "Before delegating a time-critical task, check the person's actual local knowledge as well as rank and general competence. If the assigned person cannot identify the needed authority, narrow the instruction to information he can accurately carry, reallocate the search if feasible, and lower reliance on the missing result. Tanya can discover this allocation error late rather than anticipate it perfectly. The repaired case is retrospective evidence for this constraint, not a new blind prediction. (YS-CMR5-QARESERVE-004;T11/T18.)\n\n<a id=\"t21\"></a>",
+      "scope": "T20_TASK_CAPACITY",
+      "reason": "Distinguish trained competence from local knowledge; narrow failed junior assignment"
+    },
+    {
+      "old_text": "Copying them into an unfamiliar superior-facing response would discard their conditions.",
+      "new_text": "Copying them into an unfamiliar superior-facing response would discard their conditions. The post-evaluation damaged-HQ control also has harsh downward address to unfamiliar local officers under urgent provisional command. That is a different condition from mature deputy familiarity: rank/task activation does not create intimacy or authorize the form toward a civilian or superior. (YS-CMR5-QARESERVE-004.)",
+      "scope": "T26_CRISIS_ADDRESS",
+      "reason": "Make the newly observed unfamiliar-downward crisis mode explicit without a universal pronoun rule"
+    },
+    {
+      "old_text": "His own fatigue, cigar and future picture-book hope belong to him.",
+      "new_text": "His fatigue and cigar belong to him. In the same conversation Tanya recalls Rudersdorf's earlier unrealized publishing promise, while Zettour proposes his own future cultural-book contribution; neither is completed publication.",
+      "scope": "T32_DUAL_BOOK_OWNERSHIP",
+      "reason": "Clarify Tanya p577 recall versus Zettour p580/585 future contribution"
+    },
+    {
+      "old_text": "The first-model sequence matters. This candidate is constructed before transfer to other characters and is not yet an independently qualified pilot.",
+      "new_text": "The first-model sequence matters. The initial candidate was constructed and independently tested before any transfer model. Its frozen audit records FAIL / REPAIR_REQUIRED, two partial continuations and three citation-use defects. Version1.1 applies the five required scoped repairs and the book-ownership clarification; any acceptance is a separately bound nonblind repair review, not a replacement held-out success.",
+      "scope": "T44_QA_HISTORY",
+      "reason": "Preserve original failure/partials and scope of repaired successor"
+    },
+    {
+      "old_text": "Construction qualification is **pending** at this freeze. Neither this document's source breadth nor its substantive length is a QA result. The V01–V14 boundary is closed for Tanya candidate adjudication, while unestablished domains, later volumes, main integration and canonical promotion are separate statuses. Independent QA and any repair must precede transfer-model completion and final canonical handoff.",
+      "new_text": "The [frozen first audit](../QA/TANYA_INDEPENDENT_QA.md) and [exact repair trace](../QA/TANYA_MODEL_REPAIR_TRACE.json) preserve the initial failure, predictions and before/after text. The [independent successor review](../QA/TANYA_REPAIR_ACCEPTANCE_QA.md) must bind this version's exact model/index hashes before transfer release. Original held-out partials, selected wording coverage, sparse intimate/civilian domains and unknown future outcomes remain limits even if repair acceptance passes. Source breadth and substantive length are not prediction accuracy. The V01–V14 boundary is closed for Tanya candidate adjudication; main integration and canonical promotion remain separate statuses.",
+      "scope": "T44_SUCCESSOR_GATE",
+      "reason": "Route to versioned acceptance while claiming no premature pass or accuracy"
+    }
+  ],
+  "source_audit_reference_correction": {
+    "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_TANYA_CMR2_V14_CLOSURE_AUDIT.md",
+    "before_sha256": "d98c7b8dac685b076fa65698d93e54648b327170cf33e848060c1c211bccb0cb",
+    "after_sha256": "8243d600bd0bb08809fb116bbda0e85454c077f1844dc93370ffd53c5a9e7e53",
+    "old_text": "V13-014 dining analogy andV14-012 bath metaphor",
+    "new_text": "V13-014 dining analogy andV14-003 bath metaphor",
+    "source": "YS-TAN-CMR2-V14-003",
+    "diagnostic_or_candidate_changed": false
+  },
+  "independent_successor_gate": "AWAITING_EXACT_HASH_ACCEPTANCE",
+  "no_transfer_models_started": true
+}

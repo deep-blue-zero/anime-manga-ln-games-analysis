@@ -27,8 +27,31 @@ from character_index_core import (  # noqa: E402
     validate_repository_path,
     validate_schema_document,
 )
-from generate_character_index import render  # noqa: E402
+from generate_character_index import render_outputs  # noqa: E402
 from validate_repository import validate_current_domain, validate_markdown_links  # noqa: E402
+
+
+def render(records, authority) -> str:
+    """Every generated discovery output (root index and namespace pages), in path order."""
+
+    outputs = render_outputs(records, authority)
+    return "".join(outputs[path] for path in sorted(outputs))
+
+
+def partition_documents(records) -> dict[str, bytes]:
+    """Store records as canonical namespace partitions."""
+
+    partitions: dict[str, list[dict]] = {}
+    for item in records:
+        namespace = item["character_entity_id"].split(":", 1)[0]
+        partitions.setdefault(f"characters/registry/{namespace}.jsonl", []).append(item)
+    return {
+        path: "".join(
+            json.dumps(item) + "\n"
+            for item in sorted(rows, key=lambda row: row["analysis_subject_id"].encode("ascii"))
+        ).encode()
+        for path, rows in partitions.items()
+    }
 
 
 def authority_bytes(status: str = "canonical") -> bytes:
@@ -141,9 +164,7 @@ class LiveCurationTests(unittest.TestCase):
 
     def errors(self, records, documents):
         documents = dict(documents)
-        documents["characters/registry.jsonl"] = (
-            "".join(json.dumps(item) + "\n" for item in records).encode()
-        )
+        documents.update(partition_documents(records))
         return validate_current_domain(TOOLS.parent, snapshot(*documents.items()), require_schema=True)
 
     def test_current_registry_satisfies_live_discovery_contract(self):
@@ -262,6 +283,40 @@ class CanonicalizationTests(unittest.TestCase):
                 with self.assertRaisesRegex(DomainError, "remote or nonlocal"):
                     validate_schema_document(schema, "instrumented schema")
                 network.assert_not_called()
+
+
+    @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
+    def test_accepted_schema_is_checked_once_and_rejections_recur(self) -> None:
+        import jsonschema
+
+        schema = {
+            "$schema": "https://json-schema.org/draft/2020-12/schema",
+            "title": "memoization fixture 7f3a9c",
+            "type": "object",
+            "properties": {"analysis_subject_id": {"type": "string"}},
+            "required": ["analysis_subject_id"],
+            "additionalProperties": False,
+        }
+        validator_class = jsonschema.validators.Draft202012Validator
+        with mock.patch.object(validator_class, "check_schema", wraps=validator_class.check_schema) as check:
+            validate_schema_document(copy.deepcopy(schema), "first copy")
+            validate_schema_document(copy.deepcopy(schema), "second copy")
+            self.assertEqual(check.call_count, 1)
+            # Equal content is one schema; a changed schema is checked on its own.
+            changed = {**copy.deepcopy(schema), "title": "memoization fixture 7f3a9c changed"}
+            validate_schema_document(changed, "changed")
+            self.assertEqual(check.call_count, 2)
+        # Diagnostics do not depend on whether the schema was remembered.
+        instance = {"analysis_subject_id": 1, "extra": True}
+        first = schema_diagnostics(instance, copy.deepcopy(schema), "characters/registry.jsonl", line_number=1)
+        second = schema_diagnostics(instance, copy.deepcopy(schema), "characters/registry.jsonl", line_number=1)
+        self.assertEqual(first, second)
+        self.assertEqual(len(first), 2)
+        # A rejected schema is never remembered: each attempt is refused again.
+        remote = {"$schema": "https://json-schema.org/draft/2020-12/schema", "$ref": "https://invalid.example/s.json"}
+        for _ in range(2):
+            with self.assertRaisesRegex(DomainError, "remote or nonlocal"):
+                validate_schema_document(copy.deepcopy(remote), "remote schema")
 
 
 class DiscoveryContractTests(unittest.TestCase):
@@ -478,16 +533,17 @@ class DiscoveryContractTests(unittest.TestCase):
         failures = validate_discovery_records([leaf_a, leaf_b, composite], self.series)
         self.assertTrue(any("INCLUDED requires evidence" in item for item in failures), failures)
 
-    def test_render_declares_scoped_post_cutover_git_authority(self) -> None:
+    def test_render_declares_git_main_authority(self) -> None:
         path = "series/example/A.md"
         authority = AuthorityGraph(snapshot((path, authority_bytes())))
         included = record("example:alice@anime", evidence_path=path, included=True)
         for records in ([], [included]):
             with self.subTest(included=bool(records)):
                 output = render(records, authority)
-                self.assertIn("Git repository is the primary analytical authority", output)
-                self.assertIn("governance/AUTHORITY_SCOPE.json", output)
-                self.assertIn("governance/AUTHORITY_STATE.yaml", output)
+                self.assertIn("Git repository is the analytical authority", output)
+                # Migration records are archived; the index does not route readers to them.
+                self.assertNotIn("AUTHORITY_SCOPE.json", output)
+                self.assertNotIn("AUTHORITY_STATE.yaml", output)
                 self.assertIn("remain outside Git authority", output)
                 self.assertNotIn("nonauthoritative migration candidate", output)
                 self.assertNotIn("Google Drive remains the analytical authority", output)
@@ -513,6 +569,7 @@ class DiscoveryContractTests(unittest.TestCase):
         a = record("example:alice@a", continuity_id="a", evidence_path=path_a, included=True)
         b = record("example:alice@b", continuity_id="b", evidence_path=path_b, included=True)
         a["evidence"][0]["anchor"] = "section(1)%"
+        outputs = render_outputs([b, a], authority)
         output = render([b, a], authority)
         self.assertEqual(output.count("### Alice\n"), 1)
         self.assertEqual(output.count("Alice Example (en, ALTERNATIVE)"), 1)
@@ -521,12 +578,14 @@ class DiscoveryContractTests(unittest.TestCase):
             "series/example/A%20file%20%281%29%25.md#section%281%29%25",
             output,
         )
+        self.assertEqual(
+            sorted(outputs), ["CHARACTER_ANALYSIS_INDEX.md", "characters/index/example.md"]
+        )
         linked = snapshot(
             (path_a, authority_bytes()),
             (path_b, authority_bytes()),
-            ("governance/AUTHORITY_SCOPE.json", b"{}\n"),
-            ("governance/AUTHORITY_STATE.yaml", b"{}\n"),
-            ("CHARACTER_ANALYSIS_INDEX.md", output.encode("utf-8")),
+            *partition_documents([a, b]).items(),
+            *((path, text.encode("utf-8")) for path, text in outputs.items()),
         )
         self.assertEqual(validate_markdown_links(linked), [])
 

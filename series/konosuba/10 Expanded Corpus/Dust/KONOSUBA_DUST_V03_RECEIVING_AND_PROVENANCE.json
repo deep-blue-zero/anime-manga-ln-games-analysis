@@ -1,0 +1,239 @@
+{
+  "schema": "KONOSUBA_DUST03_WHOLE_SUPPLIED_EDITION_SAME_ROOT_ACCEPTANCE_V1",
+  "source_id": "DUST-03",
+  "status": "ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "accepted_utc": "2026-10-18T06:18:22.445096+00:00",
+  "native_identity": {
+    "native_filename": "Konosuba Extra - Dust - Volume 03.epub",
+    "native_bytes": 18686443,
+    "native_sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+    "OPF_member": "item/standard.opf",
+    "OPF_sha256": "63953e65924b62b1ad99ca0bacb94c640c74ad107da7f840c51a3aac5df6a18a"
+  },
+  "actual_source_and_reading_receipt": {
+    "schema": "KONOSUBA_DUST03_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+    "source_id": "DUST-03",
+    "accepted_utc": "2026-10-18T06:18:22.445096+00:00",
+    "native_filename": "Konosuba Extra - Dust - Volume 03.epub",
+    "native_bytes": 18686443,
+    "native_sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+    "OPF_member": "item/standard.opf",
+    "OPF_sha256": "63953e65924b62b1ad99ca0bacb94c640c74ad107da7f840c51a3aac5df6a18a",
+    "language": [
+      "ja"
+    ],
+    "colophon": "2018-07-01/ver003; electronic special edition, based same-date first print. Distinct author/original-work/illustration/character-concept credits.",
+    "admission_sha256": "30161e56e9a93714cbb39b7c84cde39d63621605b28cfe22c88ac06a40ac7628",
+    "admission_utc": "2026-10-18T05:23:57.419984+00:00",
+    "preceding_full_gate_source": "c121df158194c0fd01608899ed07080520b9cfc0",
+    "preceding_gate_sha256": "c47c75b2c87a94229f1954bec745047775687a559dc731a3e710afbe1e99789d",
+    "preceding_fresh_reload_sha256": "de7bf6f67938cdf3b537fc1bbd8c1f4bd106c6aef88ac51d63cc5e3e8583a1d4",
+    "complete_uncoded_seal_sha256": "c3b720dca1aa04919ce86995a291bc86092d152b95ab868b3a6935710ac42813",
+    "complete_uncoded_seal_utc": "2026-10-18T05:55:31.063514+00:00",
+    "actual_reading": {
+      "all_textual_components": 25,
+      "all_native_P_slots": 2886,
+      "principal_P_slots": 2755,
+      "other_P_slots": 131,
+      "bonus_P_slots": 50,
+      "all_native_images_actually_viewed": 24,
+      "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+      "all_native_local_and_archive_text_image_hash_joins_reverified": 49,
+      "fresh_native_ZIP_CRC": "PASS",
+      "image_individual_scopes_control": true
+    },
+    "source_first_sealed_pins": [
+      {
+        "file": "NATIVE_ADMISSION.json",
+        "bytes": 27602,
+        "sha256": "30161e56e9a93714cbb39b7c84cde39d63621605b28cfe22c88ac06a40ac7628"
+      },
+      {
+        "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+        "bytes": 2192,
+        "sha256": "3c6824fb13fe65c959d4f75f765714ebc9d5a566ee782a983f66f59a0fb13421"
+      },
+      {
+        "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+        "bytes": 127454,
+        "sha256": "000dfc9e7a194962a284e141b7355474df41134fd82dd270bf479182247af621"
+      },
+      {
+        "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+        "bytes": 21190,
+        "sha256": "6b52696d4217c9a5fe25ee5b8ae63fd4bab9149006bc0ed29847b1ed6c1c2c7f"
+      }
+    ],
+    "formal_coverage": {
+      "full_responsibilities": 17,
+      "selected_premises_not_census": 60,
+      "short_form_context_witnesses": 77,
+      "local_unchanged_question_assessments": 7,
+      "append_only_decisions_across_ten_ledgers": 34,
+      "current_precision_qualifications": 15
+    },
+    "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/Dust01-02/art-fan/Core/Advanced; possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+    "no_independent_second_full_pass_native_human_audio_claim": true,
+    "source_first_originals_remain_exact": true,
+    "original_four_scores_and_14_future_fields_unchanged": true,
+    "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING"
+  },
+  "current_root_check": "Same continuing informed root authored and checked the full17responsibility report, all60purposeful whole-premise arguments, all77 native anchors/context arguments, seven unchanged-question conjuncts/rivals, all25text/24image dispositions and34append-only decisions. No separate reviewer or second full independent reading is represented.",
+  "formal_refinement_before_acceptance": "Initial post-seal private drafts preserved separately; current review narrows material comic bounds away from broader context and removes language-dependence overclaims where proposition alone carries the effect. No uncoded source-first note or frozen classification was edited.",
+  "current_qualifications": [
+    {
+      "id": "Q01",
+      "qualification": "Original image2 note misidentified a horned/succubus design. Current image2 identification is Yunyun, joined to the native profile and labelled frontmatter. The original erroneous note is preserved.",
+      "source": "IMG002/IMG004/IMG006"
+    },
+    {
+      "id": "Q02",
+      "qualification": "Native image21 labels U017 the epilogue; U016 continues the flight before it. The original loose epilogue label remains in uncoded history, while current segmentation is corrected.",
+      "source": "U015–U018/IMG020–022"
+    },
+    {
+      "id": "Q03",
+      "qualification": "Opening U010 repeats U013:P0856–0869. One privacy/impersonation event has two textual presentations; voice058 links back rather than becoming a second trial.",
+      "source": "U010:P0016/0029–0030;U013:P0856–0869"
+    },
+    {
+      "id": "Q04",
+      "qualification": "The old instruction permits spear use for the lady or another person he truly wants to protect; it is not an absolute ban. Exact wording is now available, while the necessary weapon-choice trigger and older lady identity remain separate.",
+      "source": "U016:P0006–0007"
+    },
+    {
+      "id": "Q05",
+      "qualification": "Dust stops an available rescue while the guards remain caught, for explicitly dispensable gratification. Yunyun rescues them despite him. Later help, gradual digestion and a comic frame do not erase contrary protective-choice evidence.",
+      "source": "U013:P0218–0247"
+    },
+    {
+      "id": "Q06",
+      "qualification": "Plant magical control and guards-as-wives/lovers are admitted Dust lies. Later narration about fruit hallucination is distinct. Actual providers investigate and volunteer for their own clients.",
+      "source": "U011:P0635–0669/0693/0731"
+    },
+    {
+      "id": "Q07",
+      "qualification": "The dream account is Dust's untested explanation after hearing a swap premise; Vanir later confirms the actual pairing. First swap and second observational cohabitation have different scopes. Royal-magic causation of the second is Dust's inference.",
+      "source": "U013:P0758–0807;U014:P0009–0022/0107/0143–0145"
+    },
+    {
+      "id": "Q08",
+      "qualification": "Vanir's product safety/dependence claims are interested assurances; future citywide stock destruction is unperformed. No medical or numerical safety certification is made.",
+      "source": "U013:P0691–0700"
+    },
+    {
+      "id": "Q09",
+      "qualification": "Treasury provenance precedes ring commitment; the exact royal crest and resale refusal appear later. Dust owns an unusable cash substitute and only proposes a future exchange.",
+      "source": "U012:P0428–0432/0533–0537"
+    },
+    {
+      "id": "Q10",
+      "qualification": "The request for unwanted dreams produces apology, not an enacted punishment or documented specific provider consent. More than half of the earlier guards leave; whole customer recovery is not enumerated.",
+      "source": "U011:P0682–0739"
+    },
+    {
+      "id": "Q11",
+      "qualification": "Night flight and reported refuge are completed bounded outcomes, not solved marriage/funding, permanent freedom, public identity disclosure or confirmed universal safety.",
+      "source": "U014:P0268–0370;U016:P0001–0044"
+    },
+    {
+      "id": "Q12",
+      "qualification": "Wiz's repeated collapse, smoke and unconsciousness are not independently final death. Beldia scenes are artifact-mediated recollection, not present encounters or independent main-story replication.",
+      "source": "U011:P0298–0336;U012:P0188–0198;U013:P0506–0586"
+    },
+    {
+      "id": "Q13",
+      "qualification": "Image placement is not identical to depicted moment. IMG015 shows clothed armed guards, not swallowed bodies or Yunyun's rescue; IMG017 shows clothed Claire near a door.",
+      "source": "IMG015/IMG017"
+    },
+    {
+      "id": "Q14",
+      "qualification": "Leen's explicit lover denial, Yunyun's acquaintance correction, and Iris's privacy request retain their ordinary force. No secret assent, reverse-direction generosity test, or honorific-to-care shortcut is inferred.",
+      "source": "U012:P0525–0526;U013:P0294–0297/0856;U014:P0185–0186"
+    },
+    {
+      "id": "Q15",
+      "qualification": "Bonus outcome includes a pre-capture purpose check, cancellation and fee received. It is checking counterevidence, not a completed toad capture or another access failure.",
+      "source": "U020:P0039–0050"
+    }
+  ],
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 222369,
+      "sha256": "aad1152f2fc02122d5c42a9d7ef4fa2be0199b01329b974820f58a789fb10358"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 153652,
+      "sha256": "73976f9d539cd7e789bb7d85dccb82ad84a6b5c435b88a0375f570c579768d37"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 726854,
+      "sha256": "cb441695c57e3541cedeccabf9802bd4422363ed032c0562fbd8ef184b463d40"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 538997,
+      "sha256": "80b3636dc863dfc27ac5383925517ba3157e179c4f9a72c0160049c80b9a66c0"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 134440,
+      "sha256": "51afb1fa67f849c0842fef3461f547c40a1bd04aa13484cb3c1d677a91471bf3"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 129603,
+      "sha256": "0ef480cb508d8ce6a8acf69677b17877b6d6f053fd8256742d481d66b16b4bce"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 150196,
+      "sha256": "08621a4b15cde5537e588bb4e13bccd8137e7e6316d806254f612b60d5ad0963"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 117596,
+      "sha256": "b8dc670f603afc83e077b2bbc3545c0444cba20539998da042a4d5cc1bdcc0f8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 204628,
+      "sha256": "7dcfb5c89650cf7070fcca3c6ebb79133d41b0a71086f4f1ff52b8b3becd9bb4"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "bytes": 992781,
+      "sha256": "8982e12eee2fc53da7cb34f60aa04ebddefccbab44070680a464c6c52740f345"
+    }
+  ],
+  "frozen_proof": {
+    "current66_verified": 66,
+    "historical72_at_3b92_verified": 72,
+    "four_score_sha256": {
+      "YORI01": "7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026",
+      "MASK": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967",
+      "DUST06": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e",
+      "DUST07": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+    },
+    "original14blank_file_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+    "R1_changed": false
+  },
+  "whole_edition_accounting_only": {
+    "supplemental_total": 19,
+    "accepted_including_this_pending_publication": [
+      "DUST-01",
+      "DUST-02",
+      "DUST-03"
+    ],
+    "previously_published_full_gate_closed": [
+      "DUST-01",
+      "DUST-02"
+    ],
+    "mixed_programs_published_at_stated_scopes": 5
+  },
+  "global_narrative_component_completion_percentage": null,
+  "remaining_boundary": "Exact containing remote readback/sourceaudit/housekeeping/final actual-source audit/status/fresh authority reload before separate Dust04 admission; full remaining StageC/StageD/final release continues."
+}

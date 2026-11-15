@@ -9,7 +9,7 @@ source_boundary: GAKUMAS V2 Source Lock 1.0 — Sena character-owned textual cor
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: '2026-08-16'
+last_updated: "2026-11-12 — Source Lock 1.0 historical corrections"
 ---
 
 # GKM CORE 12 — JUO SENA EVIDENCE / FALSIFICATION MATRIX
@@ -75,6 +75,15 @@ This matrix is subordinate to `GKM_CORE_12_JUO_SENA.md`. It keeps high-load Phas
 | SENA-C55 | Sena is not converted from ambition to humility; greed becomes more explicit and accountable. | Dear 021, 027; `我儘`; world-best goal | she learns vulnerability and support | later text frames renunciation/modesty as the endpoint of her arc | **VERY HIGH** |
 | SENA-C56 | The best Phase-3 thesis is generative supremacy rather than benevolent queenship. | aggregate D/P1/P2/M evidence | ethical recipient-side phases remain pending | later events/support cards show her interventions systematically suppress rather than generate independent agency | **ACTIVE PROVISIONAL / HIGH** |
 
+**Historical cross-track qualification (HSCA-004, 2026-11-12).** SENA-C03 retains its D-SENA origin scope and SENA-C26 retains its P2 failure scope. Under C1 @ U1, Sena cites production and the risk of being a drag when announcing retirement, reopens the decision in conversation with Saki, then retracts it following Begrazia's defeat. She distinguishes numerical rank from performance impact, independently strengthening SENA-C06. Exact A1 anchors and counterevidence are in the core's U1 subsection and `LOC-HSCA-004A`–`004D`.
+
 ## Matrix use rule
 
 Claims labeled **TEXT / AV PENDING** may guide acquisition but must not be converted into acoustic, choreographic or visual findings until the relevant source has been directly inspected. Claims labeled **RECIPIENT SIDE OPEN** must be retested in the relevant character, event, support-card and relationship phases rather than repeated as settled truths from Sena's route alone.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+**STRENGTHEN** SENA-C19, C29, C35, C42 and C56 with the 100 Pro concession and costs of the dual role. **STRENGTHEN** C43–C44 with the branch-specific distinction between transferring office and remaining a challenger. **OPEN** the long-term consequences of the raised standard for later pupils.
+
+[Source reading 1](GKM_SENA_TRANSCRIPT_REFRESH_20261112.md)

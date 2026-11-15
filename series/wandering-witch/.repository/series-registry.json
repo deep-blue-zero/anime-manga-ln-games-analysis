@@ -1,0 +1,16 @@
+{
+  "series_id": "wandering-witch",
+  "stable_slug": "wandering-witch",
+  "canonical_title": "Wandering Witch: The Journey of Elaina",
+  "media": [
+    "LIGHT_NOVEL"
+  ],
+  "repository_path": "series/wandering-witch/",
+  "canonical_entrypoint": "series/wandering-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_REVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261107",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Japanese light-novel project for 魔女の旅々 (Wandering Witch: The Journey of Elaina); main numbered editions and the separate 2014 Upper/Lower originals retain distinct witness and comparison scopes."
+}

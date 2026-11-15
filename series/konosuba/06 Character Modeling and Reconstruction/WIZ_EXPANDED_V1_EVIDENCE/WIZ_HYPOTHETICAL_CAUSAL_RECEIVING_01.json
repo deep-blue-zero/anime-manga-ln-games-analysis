@@ -1,0 +1,47 @@
+{
+  "schema": "KONOSUBA_WIZ_HYPOTHETICAL_CAUSAL_RECEIVING_V1",
+  "reviewer": "Same informed author; no delegated or independent review.",
+  "pairs": [
+    {
+      "id": "WZ-H01",
+      "finding": "The role condition produces opposition to leaving an admitted civilian killing unaddressed, versus a distinction for mutual combat. Neither response invents a witnessed death, hidden victim or authority to arrest.",
+      "limits": "The inputs explicitly state the moral condition and are source-like. This is not a new source test, a full force-deployment trial or proof of general proportionality.",
+      "confidence_transition": "NONE"
+    },
+    {
+      "id": "WZ-H02",
+      "finding": "Without operating data, attention stays on the useful function and imagined display; with the attended ledger, the response pauses a large order and asks about a sample.",
+      "limits": "No actual bad purchase or sale occurs. The corrected case is heavily cued and may be idealized; it cannot certify accounting reliability or removal of the recurring omission risk.",
+      "confidence_transition": "NONE"
+    },
+    {
+      "id": "WZ-H03",
+      "finding": "Long exclusion is refused while a one-afternoon proposal can be considered with a return boundary.",
+      "limits": "Duration contrast prevents an unconditional never-leave rule, but payment and companion-return outcomes remain unknown. Friend value, owner identity and project dependence are not isolated, and irreversible rankings remain underidentified.",
+      "confidence_transition": "NONE"
+    },
+    {
+      "id": "WZ-H04",
+      "finding": "Insufficient supply leads to a limit/withdrawal proposal; actual consensual compatible supply enables the described narrow cast.",
+      "limits": "H04B's boundary phrase 'attempted/performed' is imprecise. The actual first response narrates directing/voicing the spell but does not separately describe a verified physical effect; its reference to a frozen part is speaker wording. Record the cast separately, leave effect status unverified and do not claim a clean completed-effect result. This is an adverse accounting limitation, not a passed empirical test.",
+      "confidence_transition": "NONE"
+    }
+  ],
+  "outputs_unchanged": true,
+  "score": null,
+  "independent_validation_credit": 0,
+  "source_validation_credit": 0,
+  "confidence_increase": false,
+  "prose_revision": "Clarify cast versus explicitly represented physical effect; preserve the ambiguous first response and all seven rule confidence states. Add exercise limits without new source facts or exceptions.",
+  "remaining_open": [
+    "Civilian condition transfer beyond Hans",
+    "Ordinary budget integration versus a heavily prompted local correction",
+    "Company/security/project ranking under irreversible choice",
+    "Unverified cast effects and every unprovided counterpart reply",
+    "Target ontology, resource compatibility and supply at novel tasks"
+  ],
+  "reviewed_utc": "2026-10-19T23:00:04.231556+00:00",
+  "draft01_sha256": "2455b2f8a861293fca8fa0b6ffa9bf80b8c9e294b3f8aba137300623952fe5bc",
+  "draft02_sha256": "39fa7a6c9a74a58b366d99c516c64d94d6e41e245d90792bd09dff42bc9961b6",
+  "first_outputs_sha256": "4e6dae41b094403e2cddc6c6fd9eb7549ecc312ba6d3b949d302d317acf5ba13"
+}

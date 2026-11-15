@@ -1,0 +1,576 @@
+{
+  "schema": "konosuba.cohort48.native-provenance.v1",
+  "prepared_utc": "2026-10-25T15:05:58.178067+00:00",
+  "source_scope": {
+    "current_unique_structural_P": 1895,
+    "current_ruby_occurrences": 1862,
+    "actual_source_review_pages": 46,
+    "known_EPUB_objects": 14,
+    "unique_native_members": 20,
+    "complete_paragraph_ruby_narrative_members": 4,
+    "complete_paragraph_ruby_author_paratext_members": 1,
+    "current_images_viewed": 0,
+    "current_residuals_received": 0,
+    "new_whole_edition_global_first_or_independent_credit": 0,
+    "source_known_same_informed_root": true
+  },
+  "known_local_source_bindings": [
+    {
+      "source_id": "DUST-02",
+      "native_filename": "Konosuba Extra - Dust - Volume 02.epub",
+      "native_bytes": 18886514,
+      "native_sha256": "4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f",
+      "opf": "item/standard.opf",
+      "OPF_sha256": "4c0f802b3540260bec7d32f73b5937450293a5c0ebcc266abe9fd9f9550fc13f",
+      "source_known": true
+    },
+    {
+      "source_id": "DUST-05",
+      "native_filename": "Konosuba Extra - Dust - Volume 05.epub",
+      "native_bytes": 6713820,
+      "native_sha256": "bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc",
+      "opf": "item/standard.opf",
+      "OPF_sha256": "0cac809dc983b3f483d24c802f96e208cd9c4795effc492847443a48e08db04d",
+      "source_known": true
+    },
+    {
+      "source_id": "MAIN-01",
+      "native_filename": "Konosuba - Main Series - Volume 01.epub",
+      "native_bytes": 7058492,
+      "native_sha256": "7a80b4f6c6761176927539a6274892f187f1171e773a3295225a8ab5389747c6",
+      "opf": "item/standard.opf",
+      "OPF_sha256": "9baf66f7525556ede2a82a215d5f96e485ac46af5537391804a523836e785811",
+      "source_known": true
+    },
+    {
+      "source_id": "MAIN-05",
+      "native_filename": "Konosuba - Main Series - Volume 05.epub",
+      "native_bytes": 14376279,
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "opf": "item/standard.opf",
+      "OPF_sha256": "a439b2622290e65797b0c9a493d2e73771a2f730060f377396acd60e41cdcc66",
+      "source_known": true
+    },
+    {
+      "source_id": "MAIN-10",
+      "native_filename": "Konosuba - Main Series - Volume 10.epub",
+      "native_bytes": 1630298,
+      "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "opf": "content.opf",
+      "OPF_sha256": "61280c671e8060d741830e156059badd3a16c8e468c3e80d9bd95c72ea8ddbe8",
+      "source_known": true
+    },
+    {
+      "source_id": "MAIN-11",
+      "native_filename": "Konosuba - Main Series - Volume 11.epub",
+      "native_bytes": 6177663,
+      "native_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+      "opf": "item/standard.opf",
+      "OPF_sha256": "69d48ebec4d1989e6aaf34d304d7bd5d8c162f3223faad041adb67cf104ed64d",
+      "source_known": true
+    },
+    {
+      "source_id": "MAIN-12",
+      "native_filename": "Konosuba - Main Series - Volume 12.epub",
+      "native_bytes": 1570295,
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "opf": "content.opf",
+      "OPF_sha256": "2ef93048e85d44494c2da406d2e9efcbffcfe212b06efd3082bea72b81eea29c",
+      "source_known": true
+    },
+    {
+      "source_id": "MAIN-16",
+      "native_filename": "Konosuba - Main Series - Volume 16.epub",
+      "native_bytes": 8530869,
+      "native_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+      "opf": "item/standard.opf",
+      "OPF_sha256": "9bf3cb7daa5812197253e8f5328e624ceee6b367f0a0ce895b3729fc31d6721e",
+      "source_known": true
+    },
+    {
+      "source_id": "MAIN-17",
+      "native_filename": "Konosuba - Main Series - Volume 17.epub",
+      "native_bytes": 2197695,
+      "native_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+      "opf": "content.opf",
+      "OPF_sha256": "bcb1fa6a6479b790f3edea18a9d00ed3fff6fcf4c16bfc2d6e9cb9dc02ad4d7c",
+      "source_known": true
+    },
+    {
+      "source_id": "MASK",
+      "native_filename": "Konosuba - Spin-off - Consulting the Masked Devil.epub",
+      "native_bytes": 2895671,
+      "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+      "opf": "content.opf",
+      "OPF_sha256": "327ab8c4c2253ee6e2777f2b179a4877a8a39ca4bbdaeafc4427d729357c3b7b",
+      "source_known": true
+    },
+    {
+      "source_id": "YORI-01",
+      "native_filename": "Konosuba - Short Stories - Yorimichi.epub",
+      "native_bytes": 2395940,
+      "native_sha256": "71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594",
+      "opf": "content.opf",
+      "OPF_sha256": "bd03e0d8867c7acaa7bec3a4a490d6287042c21f8c98ad5251537afbde2dd2de",
+      "source_known": true
+    },
+    {
+      "source_id": "YORI-02",
+      "native_filename": "Konosuba - Short Stories - Yorimichi 2.epub",
+      "native_bytes": 9172954,
+      "native_sha256": "f7b9051a4f2bea3033eea528477d4cc80cfdebe214d51d0764a3cf1eef352baf",
+      "opf": "item/standard.opf",
+      "OPF_sha256": "3fb5c9ce87a43b9508b06e3f6258b80d45135c40db7c813fe5ddcef0a54cc071",
+      "source_known": true
+    },
+    {
+      "source_id": "YORI-03",
+      "native_filename": "Konosuba - Short Stories - Yorimichi 3.epub",
+      "native_bytes": 8547808,
+      "native_sha256": "f60479bfe10ed8c7c0d36f0ad618dc3d1e17e65a167fa11b9519c34bf5042c0d",
+      "opf": "item/standard.opf",
+      "OPF_sha256": "12040c12ed763ce92a79672af51c70b99dde00b5e4099016eb17b43de5347563",
+      "source_known": true
+    },
+    {
+      "source_id": "YORI-04",
+      "native_filename": "Konosuba - Short Stories - Yorimichi 4.epub",
+      "native_bytes": 10437818,
+      "native_sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+      "opf": "item/standard.opf",
+      "OPF_sha256": "ca1a08ee4b2ce96e79897b9f9fb12c142e685c24027335f860e457b705a998e2",
+      "source_known": true
+    }
+  ],
+  "actual_native_member_ranges": [
+    {
+      "source_id": "MAIN-16",
+      "citation_short_form": "MAIN16",
+      "component_id": "MAIN-16-U010",
+      "member": "item/xhtml/p-002.xhtml",
+      "native_member_sha256": "aac0476d3091ee405a7becfd1362e430bfe1b60ea423dd7b76f7689131ef9eb9",
+      "paragraph_slots": 513,
+      "actual_ranges": [
+        [
+          1,
+          513
+        ]
+      ],
+      "actual_unique_structural_P": 513,
+      "actual_ruby_occurrences": 464,
+      "access": "FICTIONAL_NARRATIVE_CHAPTER_CONTEXT",
+      "complete_paragraph_ruby_member": true,
+      "source_known": true,
+      "independent_observation_count": null
+    },
+    {
+      "source_id": "MAIN-16",
+      "citation_short_form": "MAIN16",
+      "component_id": "MAIN-16-U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "ac772ee6f9bf6a4ab402c82cf5232521aea3180de172d42c8ab7f7c842c86a74",
+      "paragraph_slots": 45,
+      "actual_ranges": [
+        [
+          1,
+          45
+        ]
+      ],
+      "actual_unique_structural_P": 45,
+      "actual_ruby_occurrences": 64,
+      "access": "FICTIONAL_NARRATIVE_INTERLUDE",
+      "complete_paragraph_ruby_member": true,
+      "source_known": true,
+      "independent_observation_count": null
+    },
+    {
+      "source_id": "MAIN-16",
+      "citation_short_form": "MAIN16",
+      "component_id": "MAIN-16-U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_member_sha256": "722b44dbe6a27c039dc902c9447e602b9139a12a8a8a03a1fb7492a34da3e991",
+      "paragraph_slots": 578,
+      "actual_ranges": [
+        [
+          1,
+          578
+        ]
+      ],
+      "actual_unique_structural_P": 578,
+      "actual_ruby_occurrences": 546,
+      "access": "FICTIONAL_NARRATIVE_CHAPTER_CONTEXT",
+      "complete_paragraph_ruby_member": true,
+      "source_known": true,
+      "independent_observation_count": null
+    },
+    {
+      "source_id": "MAIN-16",
+      "citation_short_form": "MAIN16",
+      "component_id": "MAIN-16-U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9b52838e6052c13d4e5b04af9e45b1a454b7e6268e86a5372eb4bc6338d52c9a",
+      "paragraph_slots": 47,
+      "actual_ranges": [
+        [
+          1,
+          47
+        ]
+      ],
+      "actual_unique_structural_P": 47,
+      "actual_ruby_occurrences": 39,
+      "access": "FICTIONAL_NARRATIVE_INTERLUDE",
+      "complete_paragraph_ruby_member": true,
+      "source_known": true,
+      "independent_observation_count": null
+    },
+    {
+      "source_id": "MASK",
+      "citation_short_form": "MASK",
+      "component_id": "MASK-U015",
+      "member": "text/part0013.html",
+      "native_member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+      "paragraph_slots": 518,
+      "actual_ranges": [
+        [
+          1,
+          89
+        ]
+      ],
+      "actual_unique_structural_P": 89,
+      "actual_ruby_occurrences": 117,
+      "access": "FICTIONAL_NARRATIVE_CHAPTER_CONTEXT",
+      "complete_paragraph_ruby_member": false,
+      "source_known": true,
+      "independent_observation_count": null
+    },
+    {
+      "source_id": "MAIN-17",
+      "citation_short_form": "MAIN17",
+      "component_id": "MAIN-17-U014",
+      "member": "text/part0012.html",
+      "native_member_sha256": "43b8bcea92d4723fb7ea62d3d84cb6e2e862c0ac9c3c596c088d455a741e6b84",
+      "paragraph_slots": 789,
+      "actual_ranges": [
+        [
+          1,
+          113
+        ]
+      ],
+      "actual_unique_structural_P": 113,
+      "actual_ruby_occurrences": 121,
+      "access": "FICTIONAL_NARRATIVE_CHAPTER_CONTEXT",
+      "complete_paragraph_ruby_member": false,
+      "source_known": true,
+      "independent_observation_count": null
+    },
+    {
+      "source_id": "YORI-01",
+      "citation_short_form": "YORI01",
+      "component_id": "YORI-01-U020",
+      "member": "text/part0018.html",
+      "native_member_sha256": "f98d101efb147882b8ab4b49837b148c19596a30310034d4c7e60e2a821e5ad6",
+      "paragraph_slots": 312,
+      "actual_ranges": [
+        [
+          135,
+          181
+        ],
+        [
+          286,
+          312
+        ]
+      ],
+      "actual_unique_structural_P": 74,
+      "actual_ruby_occurrences": 84,
+      "access": "FICTIONAL_NARRATIVE_CHAPTER_CONTEXT",
+      "complete_paragraph_ruby_member": false,
+      "source_known": true,
+      "independent_observation_count": null
+    },
+    {
+      "source_id": "YORI-03",
+      "citation_short_form": "YORI03",
+      "component_id": "YORI-03-U016",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_member_sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+      "paragraph_slots": 517,
+      "actual_ranges": [
+        [
+          250,
+          365
+        ]
+      ],
+      "actual_unique_structural_P": 116,
+      "actual_ruby_occurrences": 107,
+      "access": "FICTIONAL_NARRATIVE_CHAPTER_CONTEXT",
+      "complete_paragraph_ruby_member": false,
+      "source_known": true,
+      "independent_observation_count": null
+    },
+    {
+      "source_id": "YORI-02",
+      "citation_short_form": "YORI02",
+      "component_id": "YORI-02-U018",
+      "member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "58b31875b6874b2f36e8b86f5f50e055c24ae77656cca417d9efa4ea127fb987",
+      "paragraph_slots": 331,
+      "actual_ranges": [
+        [
+          215,
+          238
+        ]
+      ],
+      "actual_unique_structural_P": 24,
+      "actual_ruby_occurrences": 17,
+      "access": "FICTIONAL_NARRATIVE_CHAPTER_CONTEXT",
+      "complete_paragraph_ruby_member": false,
+      "source_known": true,
+      "independent_observation_count": null
+    },
+    {
+      "source_id": "YORI-04",
+      "citation_short_form": "YORI04",
+      "component_id": "YORI-04-U016",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+      "paragraph_slots": 573,
+      "actual_ranges": [
+        [
+          510,
+          550
+        ]
+      ],
+      "actual_unique_structural_P": 41,
+      "actual_ruby_occurrences": 16,
+      "access": "FICTIONAL_NARRATIVE_CHAPTER_CONTEXT",
+      "complete_paragraph_ruby_member": false,
+      "source_known": true,
+      "independent_observation_count": null
+    },
+    {
+      "source_id": "MAIN-01",
+      "citation_short_form": "MAIN01",
+      "component_id": "MAIN-01-U015",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "ddbc8913eac9e07d53c63b9bacbc55b3946b122988fd4fe0f64f8a3b05719f08",
+      "paragraph_slots": 613,
+      "actual_ranges": [
+        [
+          508,
+          532
+        ]
+      ],
+      "actual_unique_structural_P": 25,
+      "actual_ruby_occurrences": 26,
+      "access": "FICTIONAL_NARRATIVE_CHAPTER_CONTEXT",
+      "complete_paragraph_ruby_member": false,
+      "source_known": true,
+      "independent_observation_count": null
+    },
+    {
+      "source_id": "MAIN-01",
+      "citation_short_form": "MAIN01",
+      "component_id": "MAIN-01-U016",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_member_sha256": "dd84c04115935a332b3ed650e357dfe233392ad0bc7211d7e074e4a195965094",
+      "paragraph_slots": 817,
+      "actual_ranges": [
+        [
+          17,
+          41
+        ]
+      ],
+      "actual_unique_structural_P": 25,
+      "actual_ruby_occurrences": 19,
+      "access": "FICTIONAL_NARRATIVE_CHAPTER_CONTEXT",
+      "complete_paragraph_ruby_member": false,
+      "source_known": true,
+      "independent_observation_count": null
+    },
+    {
+      "source_id": "MAIN-01",
+      "citation_short_form": "MAIN01",
+      "component_id": "MAIN-01-U017",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_member_sha256": "302d2cc0f96ed85f25f592782b71134f62eb4224c19a1864b777dfc5ae9fa0f1",
+      "paragraph_slots": 601,
+      "actual_ranges": [
+        [
+          412,
+          436
+        ]
+      ],
+      "actual_unique_structural_P": 25,
+      "actual_ruby_occurrences": 19,
+      "access": "FICTIONAL_NARRATIVE_CHAPTER_CONTEXT",
+      "complete_paragraph_ruby_member": false,
+      "source_known": true,
+      "independent_observation_count": null
+    },
+    {
+      "source_id": "MAIN-05",
+      "citation_short_form": "MAIN05",
+      "component_id": "MAIN-05-U023",
+      "member": "item/xhtml/p-014.xhtml",
+      "native_member_sha256": "62a0d3c64b2c9c6b5213017d5bf2c080ac4e85d11199319f8c02836099b7f3b3",
+      "paragraph_slots": 630,
+      "actual_ranges": [
+        [
+          483,
+          507
+        ]
+      ],
+      "actual_unique_structural_P": 25,
+      "actual_ruby_occurrences": 38,
+      "access": "FICTIONAL_NARRATIVE_CHAPTER_CONTEXT",
+      "complete_paragraph_ruby_member": false,
+      "source_known": true,
+      "independent_observation_count": null
+    },
+    {
+      "source_id": "MAIN-10",
+      "citation_short_form": "MAIN10",
+      "component_id": "MAIN-10-U012",
+      "member": "text/part0010.html",
+      "native_member_sha256": "f87f7afb3581d5ce16fed794c82b7fa4421ce6df21fde22c4dc4722482e6c74f",
+      "paragraph_slots": 337,
+      "actual_ranges": [
+        [
+          10,
+          34
+        ]
+      ],
+      "actual_unique_structural_P": 25,
+      "actual_ruby_occurrences": 54,
+      "access": "FICTIONAL_NARRATIVE_CHAPTER_CONTEXT",
+      "complete_paragraph_ruby_member": false,
+      "source_known": true,
+      "independent_observation_count": null
+    },
+    {
+      "source_id": "MAIN-11",
+      "citation_short_form": "MAIN11",
+      "component_id": "MAIN-11-U018",
+      "member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "abaf7e00cf72ef4bc0411ea5cb20d195ff1673155b076f25023ef57ae4096788",
+      "paragraph_slots": 30,
+      "actual_ranges": [
+        [
+          1,
+          30
+        ]
+      ],
+      "actual_unique_structural_P": 30,
+      "actual_ruby_occurrences": 28,
+      "access": "AUTHOR_PARATEXT_OTHER_WORK_REFERENCE",
+      "complete_paragraph_ruby_member": true,
+      "source_known": true,
+      "independent_observation_count": null
+    },
+    {
+      "source_id": "MAIN-12",
+      "citation_short_form": "MAIN12",
+      "component_id": "MAIN-12-U016",
+      "member": "text/part0014.html",
+      "native_member_sha256": "fc3b0d46cdd18a686df87885665e1e3b877384c6aae34285d34a0713cdc58799",
+      "paragraph_slots": 582,
+      "actual_ranges": [
+        [
+          313,
+          337
+        ]
+      ],
+      "actual_unique_structural_P": 25,
+      "actual_ruby_occurrences": 25,
+      "access": "FICTIONAL_NARRATIVE_CHAPTER_CONTEXT",
+      "complete_paragraph_ruby_member": false,
+      "source_known": true,
+      "independent_observation_count": null
+    },
+    {
+      "source_id": "DUST-02",
+      "citation_short_form": "DUST02",
+      "component_id": "DUST-02-U015",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_member_sha256": "389566bf26a458387cf1ed061d5281a71848946948a2a55f69f258f9fcb5eca2",
+      "paragraph_slots": 555,
+      "actual_ranges": [
+        [
+          247,
+          271
+        ]
+      ],
+      "actual_unique_structural_P": 25,
+      "actual_ruby_occurrences": 24,
+      "access": "FICTIONAL_NARRATIVE_CHAPTER_CONTEXT",
+      "complete_paragraph_ruby_member": false,
+      "source_known": true,
+      "independent_observation_count": null
+    },
+    {
+      "source_id": "MAIN-01",
+      "citation_short_form": "MAIN01",
+      "component_id": "MAIN-01-U014",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_member_sha256": "f184bf1a9a03d32616c2f3553ba58e65e70eba684f55252014b7c01a12b314b1",
+      "paragraph_slots": 608,
+      "actual_ranges": [
+        [
+          529,
+          553
+        ]
+      ],
+      "actual_unique_structural_P": 25,
+      "actual_ruby_occurrences": 20,
+      "access": "FICTIONAL_NARRATIVE_CHAPTER_CONTEXT",
+      "complete_paragraph_ruby_member": false,
+      "source_known": true,
+      "independent_observation_count": null
+    },
+    {
+      "source_id": "DUST-05",
+      "citation_short_form": "DUST05",
+      "component_id": "DUST-05-U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_member_sha256": "9366a1cdb9ca63c2f901ad7c8b72316aff841ffc63715fe03f3ddb3b6d541db3",
+      "paragraph_slots": 723,
+      "actual_ranges": [
+        [
+          493,
+          517
+        ]
+      ],
+      "actual_unique_structural_P": 25,
+      "actual_ruby_occurrences": 34,
+      "access": "FICTIONAL_NARRATIVE_CHAPTER_CONTEXT",
+      "complete_paragraph_ruby_member": false,
+      "source_known": true,
+      "independent_observation_count": null
+    }
+  ],
+  "private_complete_actual_receiving_sha256": "4faf106e1961bed6dff7a0c37df693fd457217076592678905a0109c472d64ec",
+  "technical_literal_locator": {
+    "known_objects": 41,
+    "XML_parse_failures": 0,
+    "private_locator_sha256": "780aab99fdf1be9b60908b93c2820d74687bb8b6a6217695f44320b46a01e0cf",
+    "new_semantic_paragraph_credit": 0,
+    "whole_corpus_absence_proof": false
+  },
+  "actual_complete_delivery_basis": {
+    "base_pages": 29,
+    "adaptive_pages": 16,
+    "final_Gil_context_pages": 1,
+    "truncated_combined_base25_26_attempt_uncredited": true,
+    "separate_base25_26_actual_receiving": true
+  },
+  "classification": "MAIN11U018 is author paratext referring to Kemono Michi,not another KonoSuba narrative member or vampire person. MAIN16U011/U013 are Aqua-focalized fictional interludes. Original pending-access preparation records remain private exact history.",
+  "historical_exposure": "Earlier admitted MAIN16resource/image/principal base-text scopes remain historical known exposure. Current paragraph/ruby returns neither reset a holdout nor certify a new full edition. MAIN17U0141-113 and MAIN16DemonKing/daughter reports are now known before C49.",
+  "source_qualifications": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+    "sha256": "5cdc9609befcd93dc9c861b1fa7784cc3a934c1ee6df04250bcd2f9ff85ddc69"
+  },
+  "private_native_arrays_images_caches_or_absolute_local_paths_exported": false,
+  "independent_observation_count": null,
+  "global_completion_percentage": null,
+  "full_program_complete": false
+}

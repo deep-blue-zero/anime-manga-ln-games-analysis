@@ -1,0 +1,600 @@
+{
+  "schema": "ROOT_VERITAS_CURRENT200_LITERAL52_NEW105_SELECTED7_EXACTV4_SEMANTIC_ADOPTION_V1",
+  "ROOT": "ROOT",
+  "signature_state": "SIGNED_BY_ROOT_AFTER_ACTUAL_COMPLETE_RECEIVING",
+  "ROOT_decision": "ACCEPT_CURRENT_VERITAS_EXACTV4_BODY200_LITERAL52_NEW105_SELECTED7_AND_CURRENT_DISTINCT_QA_WITH_LIMITS_FOR_METADATA_ONLY_PUBLIC14_COMPOSITION",
+  "existing_home": "P3-INST-VERITAS-TECHNICAL-CARE-RECIPIENT-PRIVACY",
+  "current_author_manifest": {
+    "bytes": 22009,
+    "sha256": "df94c0a70b765f48d31087febdc02b0251a11ec519753ad2273a782a34d334ba",
+    "git_blob_oid_of_actual_bytes": "224dcb6dc839ad9b9348ba2fbc68919e49cb3376"
+  },
+  "current_author_exact8": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 49607,
+      "sha256": "e0b64a944cc24bb6c71c4eb236118c6763883b5ab8ff3d1095912d6780374b15",
+      "git_blob_oid_of_actual_bytes": "8490875d962d9c1cc4fd36c0939eb8dd8084a3de"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.json",
+      "bytes": 96330,
+      "sha256": "010dfd2652711bb69cb8b3af08285437ae15789460b3e86f0c8b38fab358ac6b",
+      "git_blob_oid_of_actual_bytes": "ff28b196c388a2f2cf924973c1de38fc8c10dc95"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json",
+      "bytes": 279058,
+      "sha256": "ac4d5aa0fe867e53914df9f1505996180edfa72004b665b40432200f4f7e1c2d",
+      "git_blob_oid_of_actual_bytes": "32f6032b9d3ba7736c3b477f8bc59b962d91e5b1"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json",
+      "bytes": 416682,
+      "sha256": "519ecde5c1df08b8aa4a1493aff46dec2490dfe45956faa6475d78ed5d11589a",
+      "git_blob_oid_of_actual_bytes": "fb6fa9fe1bb6baea392828a593b411a805b1bb20"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json",
+      "bytes": 580583,
+      "sha256": "251c0724f9398a56331581ff74ec113f064b04a32fb40d668aa3a217b29ff459",
+      "git_blob_oid_of_actual_bytes": "1f72783264c17afa13754aa64ed75cb5df750f69"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+      "bytes": 70612,
+      "sha256": "31350c8e7f9341803026edf95a7f4d44a5b6837730cfd6ff351e66639d1c811e",
+      "git_blob_oid_of_actual_bytes": "8aee9c41f7e8e214036719b271aef8930a8a1574"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 903345,
+      "sha256": "b91c03283c240212a771c52373af234229ae3024daff6bef2294321e46fa4496",
+      "git_blob_oid_of_actual_bytes": "e28684b4e560091905a2887ed13eaa10f57cc1af"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 13019,
+      "sha256": "5eca3c64cdb563d220bfe7d35938a0a9b10839108dccb2d6a0be101269120987",
+      "git_blob_oid_of_actual_bytes": "6ea0b285525b271c6bde1ae97fd0990d950d72f3"
+    }
+  ],
+  "applicable_independent_QA3": [
+    {
+      "qa_role": "QA_OLD201_BODY_ONLY",
+      "original_receipt_basename": "INDEPENDENT_VERITAS_CURRENT201_FULL52_BODY_FIRST_LITERARY_DIMENSION15_E00112_RIVAL8_END16_GAP14_RECEIVING_QA_V1.json",
+      "bytes": 222943,
+      "sha256": "5fb16096b1a23f04f716cc2b4449f32e31075edc3a477c79542bba177aad4eda",
+      "git_blob_oid_of_actual_bytes": "2d8ff242c046f40a5e1d8a3130d3fe5ccf13ce77"
+    },
+    {
+      "qa_role": "QA_FULL_CURRENT200_V3",
+      "original_receipt_basename": "INDEPENDENT_VERITAS_CURRENT_V3_COMPLETE200_LITERAL52_NEW105_SOURCE7_EXACT8_FULL_LITERARY_COMPONENT_CURRENT_POSITIVE_REVIEW_V1.json",
+      "bytes": 399718,
+      "sha256": "bbbbf36b7fc79665c2d9f4ae04abf002a9a2e2c5db79648a4ffd5380b9a6edd9",
+      "git_blob_oid_of_actual_bytes": "b20e879a6de7ed4559299acba4cb039a07605299"
+    },
+    {
+      "qa_role": "QA_CURRENT_V4_ADDITIVE_DELTA",
+      "original_receipt_basename": "INDEPENDENT_VERITAS_CURRENT_V4_VP042_WANTED_REPORT_MODE_ADDITIVE_BOUNDED_DELTA_AND_COMPLETE_ORIGINAL_TWO_STAGE_QA_SUCCESSOR_V1.json",
+      "bytes": 107231,
+      "sha256": "703d627bc158484bbbb5420a02b4d779e722790522b63a2c181853297450120c",
+      "git_blob_oid_of_actual_bytes": "632061fc2a37c90d645d13e538646b1287d1d893"
+    }
+  ],
+  "complete_personal_receiving_basis": {
+    "private_witness_id": "ROOT_VERITAS_CURRENT200_LITERAL52_NEW105_SELECTED7_PERSONAL_RECEIVING_20261014_V1",
+    "bytes": 37938,
+    "sha256": "50fac40102ccbcb3f2de813d080ac057ff6c9995d31818e9ed2d81b340a79ce0",
+    "git_blob_oid_of_actual_bytes": "624ed00238a6934daf8936e5b5af66957ae02d62",
+    "role": "Complete prior personal receiving plus subsequent currentV4/QA closure; original37938 decision explicitly was not package adoption."
+  },
+  "actual_ROOT_V4_raw_guard": {
+    "private_witness_id": "ROOT_VERITAS_CURRENT_V4_SPARSE8_PERSONAL_GUARD_20261014_V1",
+    "bytes": 14205,
+    "sha256": "e8be02817c7615c53f765d70e68edf9a83c5d9288325cbd1d628baaf17726ee7",
+    "role": "ROOT actual7c066d currentV4 sparse8 closure; not writer/adoption credit from composer."
+  },
+  "semantic_adoption_extent": {
+    "body200_literal52": true,
+    "new105_all525_fields": true,
+    "current52_source_purpose_responsibility_joins": true,
+    "selected7_maintained_source_contexts": true,
+    "current_V4_VP042_and_distinct_deltaQA": true,
+    "original105_envelopes_and_current8_preservation": true
+  },
+  "current_collection_bounds": {
+    "body_physical_lines": 200,
+    "literal_paragraphs": 52,
+    "target_purposes": 105,
+    "new_target_fields": 525,
+    "maintained_core_sources": 7,
+    "institutional_dimensions": 15,
+    "embedded_E001_arguments": 12,
+    "rivals": 8,
+    "finite_endpoints": 16,
+    "original_OPEN_gaps": 14,
+    "complete_context_segments": 131,
+    "literal_source_join_refs": 202
+  },
+  "source_INPUT_coverage": "All7 current source tuples/author complete ranges/grade/manual reasons and17 complete operating fields personally received. VP094 E85081–100 and VP104 MINI149–151 current qualifiers personally received earlier c4e4ea. Complete original six-qualification object remains preserved with prior ROOT operative61767 receiving reused at its actual scope; no new whole historical JSON/source receiving inferred.",
+  "additional_own_selected_G150_contexts": [
+    {
+      "range": [
+        99,
+        105
+      ],
+      "tool": "122c5f",
+      "bytes": 2717,
+      "sha256": "74c016c415949ee4e8fb48529cca55aaca0c2d9448b39e8a0e840d24b1606c47"
+    },
+    {
+      "range": [
+        111,
+        120
+      ],
+      "tool": "8a46a4",
+      "bytes": 2065,
+      "sha256": "1ab6894b2348cb4005a74e9c56cdbc1e8a5b189041f38f31606d696a03d042d1"
+    },
+    {
+      "range": [
+        126,
+        134
+      ],
+      "tool": "5a9b99",
+      "bytes": 1739,
+      "sha256": "74d8fea8327733361cf5de295059c02ad67c04153b66942e6a663193dcbde381"
+    }
+  ],
+  "source_grade_boundary": "Author whole7, independent reviewer selected7, ROOT actual selected7 and complete current report-purpose receiving remain separate. No whole105 normal, primary/native/raw/AV, additional admission, chronology/person identity consolidation, reconstruction model or source-global absence credit.",
+  "source_grade_roles": {
+    "author": "WHOLE7_MAINTAINED_WRITTEN_ANALYTICAL_CARRIERS",
+    "ROOT": "SELECTED7_MAINTAINED_WRITTEN_CONTEXTS",
+    "independent_QA": "OLD201_SELECTED_BODY_SCOPE_PLUS_CURRENT200_NEW105_COMPONENT_SCOPE_PLUS_BOUNDED_V4_DELTA;ORIGINAL_GRADES_PRESERVED",
+    "fresh_primary_native_raw_AV_whole105_normal_or_source_admission": 0
+  },
+  "current_VP042_disposition": {
+    "owner_id": "O042",
+    "purpose_id": "VP042",
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json",
+    "JSON_pointer": "/records/6/own_new_target_specific_positive_meaning",
+    "accepted_current_positive": "Wanted fishing, holiday company, night leisure and a misleading ticket kept as souvenir are meaningful; opponents' boat is also home and return route.",
+    "grade": "Wanted fishing at prior maintained report-purpose grade; no achieved fishing or source-global absence claim.",
+    "current_thirdQA_qualification_key": "current_V4_VP042_wanted_fishing_report_mode_distinct_bounded_delta_QA_qualification_V1"
+  },
+  "authorized_metadata_only_body205_scope": {
+    "artifact_type": "institutional_synthesis",
+    "status": "active_provisional",
+    "review_state": "ROOT_ACCEPTED_WITH_LIMITS_INDEPENDENT_COMPONENT_REVIEW_COMPLETE",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": false,
+    "canonical_home": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md",
+    "body_physical_lines_after_metadata": 205,
+    "all52_arguments_and_all525_fields_unchanged": true
+  },
+  "retained_author_creation_scope": {
+    "old200_current205_creation_statement": "The literal argument, finite endpoints, original gaps, all105 new Veritas target purposes and receiving metadata still require their separate different-author review and ROOT receiving/adoption. This is the existing institution and its required embedded ensemble. No additional required or named-duty denominator, source admission, registry join, reconstruction model, prediction register or canonical completion is created by this draft. All14 gaps remain OPEN, models0, fixed355/29/25/384/788 and next178 remain unchanged, and main merge approval remains reserved.",
+    "role": "Exact L200 creation-time pending statement remains literal at promoted L205, explicitly qualified by actual signed semantic adoption/current control; no install/publication/runtime credit."
+  },
+  "fixed_scope": {
+    "required": 355,
+    "named": 29,
+    "parents": 25,
+    "homes": 384,
+    "navigation": 788,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "next178": "UNREACHED",
+    "merge_approval": "RESERVED"
+  },
+  "no_installation_publication_new_runtime_or_canonical_credit": true,
+  "ROOT_receiving_complete": true,
+  "signed_ROOT_receiving_statement": "ROOT accepts the actual exactV4 institutional argument with limits after personally receiving all200 body lines and52 complete arguments, all52 full source/purpose/responsibility joins and current reasons, all105 new five-field comparisons, the selected maintained contexts of seven sources and the current source INPUT roles. Actual currentVP042 full five fields and every current named operation were received at7c066d; its wanted mode agrees with the necessary complete frozen report/findinge5e93e. The bounded distinct currentV4 qualification4bb7ec and full-original100193 inverse820e97 close that issue. All524 other target values, original105 objects, source7 and body52 are unchanged in the actual entire8 sparse inverse closure. Root accepts plural technical help, ordinary games/art/taste/sound/company/rest, differentiated authority and privacy limits, fallible interpretation and unfinished recipient repair without universal expertise, automatic consent, a forced identity/chronology join or reconstruction maturity. This signature authorizes only the exact declared metadata composition; composed14 review, shared7 acceptance, installation, publication and newhead runtime remain separate.",
+  "remaining_gates": "Distinct complete current205/public14 compositionQA, ROOT composed-byte receiving/adoption, exact freeze/install/preflight/provider/push/readback/fresh newhead CI/main integration remain separate.",
+  "signed_actual_UTC": "2026-10-14T06:51:43.802142+00:00",
+  "actual_personal_receiving_and_closure_tools": {
+    "body200": [
+      "f74ebc",
+      "77a495",
+      "bfa780"
+    ],
+    "complete52_join_reasons": [
+      "1eebfa",
+      "a65fcf",
+      "8e0574"
+    ],
+    "all105_five_fields": [
+      "4ceb07",
+      "d97167",
+      "41f4e6",
+      "a19e37",
+      "80e38c",
+      "537111",
+      "61972b",
+      "914e26",
+      "6aba4f",
+      "4c1216",
+      "518a5a",
+      "7bb955",
+      "e98fe9",
+      "fafa9e"
+    ],
+    "complete_source7_metadata": [
+      "864219",
+      "904cfc",
+      "7a0375",
+      "3a96b9",
+      "d1fdf3",
+      "89b478",
+      "580cbc"
+    ],
+    "source_operating_fields": "595bbb",
+    "new_E850_MINI_qualifiers": "c4e4ea",
+    "current_V4_manifest_whole": "6833df",
+    "current_V4_actual_fields_all14_operations_sparse_closure": "7c066d",
+    "current_V4_distinct_QA_complete_additive_qualification": "4bb7ec",
+    "current_V4_QA_full_original_inverse": "820e97",
+    "current_V4_mechanical_critical_metadata_only": "b5ed9e",
+    "predecessor_V3_full8_inverse_all11_bodyLF_actual_execution": "fa22cc"
+  },
+  "own_all105_finite_substantive_reasons_at_actual_report_grade": [
+    {
+      "start": 0,
+      "count": 4,
+      "next": 4,
+      "tool": "4ceb07",
+      "end": 3,
+      "complete_five_fields": true,
+      "complete_current_independent_QA_reason_and_source_qualifiers": true,
+      "own_reasons": [
+        "O000: Food enjoyment and kitchen failure answer different recipient questions. Izumi's desire and Junko's help do not settle medical preference or completed provision; compare Hare's actual taste-related care.",
+        "O001: Temporary delegated C&C service and desired pleasure do not establish a permanent contract or role. Neru's jacket refusal and later participation remain separate; profit alone does not show implemented restructuring.",
+        "O002: Pudding, telescope and Class227 attachment retain positive value alongside coercive costume and uncompleted repair. Administrative restoration does not restore a telescope or turn promises into completed outcomes.",
+        "O003: Enjoyable making and different tastes coexist with withheld recognition and unfinished repair. Device success does not establish an owner's permission, and makers' knowledge must not replace the actual recipient response."
+      ]
+    },
+    {
+      "start": 4,
+      "end": 10,
+      "tool": "d97167",
+      "complete_five_fields": true,
+      "complete_current_independent_QA_reason_and_source_qualifiers": true,
+      "own_reasons": [
+        "O004: Access and defense establish differentiated institutional acts; intentional falsification and retention remain distinct from accidental publication. False mass and incomplete recipient knowledge prevent universal truth or repair.",
+        "O005: Inspection and individual enjoyment are genuine separate outcomes. The later adverse drink response limits any universal welfare claim without identifying a validated cause or completed budget action.",
+        "O006: Patient company is a positive good, while coercive methods and unequal knowledge remain contrary. A threatened injection is not administered care and helpful intent does not establish informed agreement.",
+        "O007: Tea pleasure, happiness and difficulty belong to different participants. Neither an organizer's appraisal nor one favorable response establishes unanimous reception or erases an origin-based rejection.",
+        "O008: Cocoa desire and protective concern do not author a punitive resource rule. Formal allocation and expenditure endpoints are required before treating proposed deductions as implemented policy.",
+        "O009: Later rescue and chosen help do not retrospectively authorize imposed leisure. Doing nothing and conversation retain substantive value alongside attraction and rescue.",
+        "O010: Agreement on the word cleaning lacks informed task identity when site and combat consequences are missing. Actual communication and recipient knowledge, rather than a shared label, decide authorization."
+      ]
+    },
+    {
+      "start": 11,
+      "end": 17,
+      "tool": "41f4e6",
+      "complete_five_fields": true,
+      "complete_current_independent_QA_reason_and_source_qualifiers": true,
+      "own_reasons": [
+        "O011: Recognizing a dubious pitch and belonging are real, but correct detection supplies neither proportionate authority nor future reform. Hare's restoration and Chihiro's acknowledgment need their actual later choices.",
+        "O012: Quiet picnic, food, cards, sleep and accepted ideas matter at their achieved scope. Acceptance is not funding, implementation or economic recovery; scale does not determine the value of pleasure.",
+        "O013: Film participation, sleep and provision are separate ends. A maker's imagined praise cannot answer for actual rebuke or establish contest success; compare Maki's pride with audience reception.",
+        "O014: A remembered refusal does not settle current loneliness or a renewed conditional invitation. Veritas members' winter refusal remains local, rather than a permanent desire for exclusion.",
+        "O015: Yuzu's chosen help and competence coexist with limits on fame. A victory and friends' enthusiasm do not confer a publicity appetite or permanent service duty.",
+        "O016: Discretion and quiet care are valued; private explanation, rumor origin and public notice have different evidential reach. Persistent rumor prevents a completed reputational-repair claim.",
+        "O017: Local capture demonstrates efficacy without supplying authority or restitution. Suspension and hypothetical sniping do not establish a preferred or optimal intervention, and police powers cannot be transferred to Veritas."
+      ]
+    },
+    {
+      "start": 18,
+      "end": 24,
+      "tool": "a19e37",
+      "complete_five_fields": true,
+      "complete_current_independent_QA_reason_and_source_qualifiers": true,
+      "own_reasons": [
+        "O018: Literary pleasure and hardship advocacy survive misclassification, but embedded fiction is not witnessed feeling. Ashes do not identify the physical burner or establish relief; representation and act require separate channels.",
+        "O019: Water, towel, reflector work, stars and welcome are substantive care. Social reception does not enact a charter, and small scale is no reason to remove ordinary reciprocal goods.",
+        "O020: Relieved watch and rations are positive, while uneven duty and lingering explosive aftermath remain costs. Volunteers, assigners and affected recipients cannot be collapsed into one cooperative subject.",
+        "O021: Shared invention and a favorable coda matter despite a missed function. Prestige and money hopes alter scrutiny; fortune alone neither validates prediction nor identifies Noa's earlier knowledge.",
+        "O022: Chise's chosen preparation and personalized thanks retain her authorship. Covert following and concern do not establish consent or repaired trust, even with approving fans.",
+        "O023: A requested goal and conditional participation do not authorize a changing restraint method. Wanted home run remains unachieved in the report, and Group330's mapped Rei is not joined to event-local Rei.",
+        "O024: Kisaki's private activity and Kokona's specific request must retain their agents. Inferred interests or titles do not communicate a mandate; hedged growth and height rumors remain unverified."
+      ]
+    },
+    {
+      "start": 25,
+      "end": 31,
+      "tool": "80e38c",
+      "complete_five_fields": true,
+      "complete_current_independent_QA_reason_and_source_qualifiers": true,
+      "own_reasons": [
+        "O025: Kasumi's invitation to chosen work, rest and ice-pop reception retain their specific positive scope. The operative 61767 alias qualification prevents universal office, price, clinical or logistics claims.",
+        "O026: Gratitude and park company count while exhaustion persists. Refusal overridden by hand-leading and continued workload limit any cure claim; temporary pleasure must still be retained.",
+        "O027: Nine gifts have distinct labor, taste and company meanings. False summons and undisclosed additions prevent the later thanks from authorizing the method or proving health benefit or allegiance.",
+        "O028: Hand labor, bought convenience, waiting and rest support different sincere purposes. Later allowance cannot retroactively authorize retrieval; letter contents, memory and Rei/Kei routes remain unresolved.",
+        "O029: Izuna's desires and changed allegiance involve her own listening and rescue. Recognition may exploit labor, and a helpful companion is not sole author of choice or completed relational repair.",
+        "O030: Pudding, literature, company, pay and leave remain separate interests despite leadership restoration. Postponed benefits and source-local rescue stages keep implementation and repair open.",
+        "O031: Sea, making, reciprocal food and next-day energy are actual pleasures. Unequal leave, exhaustion and partial cleanup prevent a universal happy-outing or full-aftermath claim; photos do not answer consent."
+      ]
+    },
+    {
+      "start": 32,
+      "end": 38,
+      "tool": "537111",
+      "complete_five_fields": true,
+      "complete_current_independent_QA_reason_and_source_qualifiers": true,
+      "own_reasons": [
+        "O032: Hina's coffee, conversation and play retain value while danger, hesitant assent and removed refusal qualify care. Issued training is not completed safe work, and contradictions do not establish a universal reform chronology.",
+        "O033: Shun's wanted care, chosen return and qualified forgiveness are real later outcomes. Deception, restraint and food refusal remain earlier harms; return proves neither pharmacology nor retroactive consent.",
+        "O034: Clothing, privacy, free play and conditional release preserve C&C recipients' interests. Coerced laughter and Koyuki's refusal survive, while an offered adult rescue is not executed retrieval or restoration.",
+        "O035: Miku's self-introduction, joy and awkward rehearsal are substantive acts. Invitation and prepared body do not establish finished performance, tuning, audience approval or virtual ontology; no AV performance was received.",
+        "O036: Dwelling, livelihood, togetherness, tea and rest involve different makers, workers and guests. Development before permission and the blast's aftermath prevent late concessions from establishing housing or material restitution.",
+        "O037: New Year wishes, album savings and a renewed offering matter with an empty safe and hesitant assent. Meaningful ritual is neither recovered resources nor authorization of renewed exhausting labor.",
+        "O038: Keeping, displaying, anti-mess decisions and shared viewing are meaningful different gift uses. Keeping does not prove consumption, and abrupt feeding or prior objections still require recipient-specific assent."
+      ]
+    },
+    {
+      "start": 39,
+      "end": 45,
+      "tool": "61972b",
+      "complete_five_fields": true,
+      "complete_current_independent_QA_reason_and_source_qualifiers": true,
+      "own_reasons": [
+        "O039: Wanted peace, aesthetic interests, maintenance and local restart are meaningful distinct outcomes. Credentials, promised containment and held chocolate do not certify identity, sustained safeguards, consumption or reciprocal romance.",
+        "O040: Restoration, baking and a precise iced-Americano request preserve craft and particular taste. Accepting cake does not establish preference, total relational conversion, perfect technical cause or safe diversion.",
+        "O041: Spoken trust and achieved E018 catch/help differ from E017 forecast and crossing. Distributed rescue is real while application, bills and future delivery remain unfinished; help does not certify an institutional mandate.",
+        "O042: The comparison must preserve desired fishing rather than achieved fishing, alongside leisure, company and souvenir meaning. Current positive 'Fishing...' is ambiguous against its own explicit QA reason; exact source-scope resolution is required before adoption. Victory does not restore rod, opponent pain, title or cleanup.",
+        "O043: A substitute victory and permitted feast are fulfilled positive endpoints. Serika's dissent and unaccepted food prevent those acts from establishing broad rights, refunds or all-recipient satisfaction.",
+        "O044: Kazusa initiates help and sets reciprocal terms. Neither tolerated joking nor a drink offer establishes unlimited teasing or purchased care; alternative adult responses and the original accusation remain separate.",
+        "O045: A retracted Justice option and desired nonpunitive cessation preserve the recipient's remedy. An available authority or declared strike does not supply an enacted method, completed blow or blanket immunity rule."
+      ],
+      "concrete_issue": {
+        "owner": "O042",
+        "purpose": "VP042",
+        "status": "FINITE_SCOPE_RESOLUTION_PENDING_BEFORE_ADOPTION",
+        "positive_opening": "Fishing, holiday company, night leisure and a misleading ticket kept as souvenir are meaningful",
+        "current_QA_reason": "Wanted fishing stays wanted; mixed pleasure and actual peer help are not achieved fishing or full restoration.",
+        "agent_task": "receive_middle_remaining"
+      }
+    },
+    {
+      "start": 46,
+      "end": 52,
+      "tool": "914e26",
+      "complete_five_fields": true,
+      "complete_current_independent_QA_reason_and_source_qualifiers": true,
+      "own_reasons": [
+        "O046: Retained skill, safety checking and fairness-motivated disclosure are actual choices. A photograph, reputation or embarrassment does not authenticate a complete past or essential violent/hacker identity.",
+        "O047: Respectful address, stopping questions and hearing Reisa preserve directed limits. Voluntary-affiliation reports do not establish a complete census, absence of informal authority or unlimited command.",
+        "O048: Independent action, courage and hesitation after correction show local reconsideration. Criminal revival remains interpretation, unstable tags remain qualified, and hesitation does not diagnose or establish durable reform.",
+        "O049: Continued personhood and shared sweets can coexist with unequal history and inspected private material. A helper's intention cannot undo actual photograph exposure or settle disputed speaker attribution.",
+        "O050: Timely arrival and continued persuasion are chosen goods alongside an explicit exposure protest. Continued cooperation does not rescind privacy criticism, and alternative apologies or shame imagery do not establish complete repair or diagnosis.",
+        "O051: Caring role-play and ordinary play retain their intended value while reproducing a rejected identity. Public escalation and source-tag uncertainty prevent helpers' kindness from supplying recipient assent or a permanently failed reform verdict.",
+        "O052: Gratitude for intention and objection to the particular act coexist. Yoshimi's demand to listen preserves the recipient direction; silence, solidarity and metaphors do not close consent or repair."
+      ]
+    },
+    {
+      "start": 53,
+      "end": 59,
+      "tool": "6aba4f",
+      "complete_five_fields": true,
+      "complete_current_independent_QA_reason_and_source_qualifiers": true,
+      "own_reasons": [
+        "O053: Reisa's explicit withdrawal is a real choice despite a later renewed challenge. Concern for her lost rival role matters, but the promise and threatened fight do not establish permanent conduct or cure.",
+        "O054: Injury concern, returned letter, attachment and desired distance retain her responsibility and boundaries. Reassurance and confidentiality do not clinically clear injury, excuse pursuit or establish shared disclosure.",
+        "O055: Kazusa's chosen inquiry coexists with irritation and appreciation of cessation. Speaker-owned motive and inward adult concern are not shared briefing, completed rescue or reversed affinity.",
+        "O056: Coordinated help and valued theatre do not require accepting friendship labels or a pooled mandate. Testimony about expected police response and drifting tags cannot authenticate jurisdiction or all speakers.",
+        "O057: Protective refusal and actual allied arrival are genuine help while objections to public naming persist. Lay appraisals do not diagnose injury; intervention does not retroactively authorize humiliation.",
+        "O058: Returned property, hunger and an offered meal preserve ordinary routine. Reported familiarity does not establish clinical recovery, completed eating or an ordering fix for nonmonotonic IDs.",
+        "O059: Café warmth, cake, friends and a smile belong to Kazusa's remembered desired life before consultation. Helpful adults do not author those ends; resemblance leaves the unnamed girl unidentified and gratitude may retain criticism."
+      ]
+    },
+    {
+      "start": 60,
+      "end": 66,
+      "tool": "4c1216",
+      "complete_five_fields": true,
+      "complete_current_independent_QA_reason_and_source_qualifiers": true,
+      "own_reasons": [
+        "O060: Parfait, ordering and food jokes preserve local routine while renewed challenge qualifies cessation. Solo-rescue rumor must not replace collective help, and a pleasant close proves no stable disposition.",
+        "O061: Contest revision, machine stop and opening are achieved accommodations. Utaha's wanted clothes, Chihiro's rejected imagined request, unconsulted labor and safety limits prevent all-recipient approval.",
+        "O062: Useful-difference coaching, mixed enjoyment and sixth place have positive value. Chihiro's explicit nonenjoyment, Hibiki's boundary and hunger/rest denial remain contrary to a uniformly enjoyed occasion.",
+        "O063: Actual treatment, apology and party are finite positives after mistaken and harmful force. Blocked explanation and interpreted nonlexical assent prevent intent or celebration from supplying full restitution or lasting reform.",
+        "O064: Fuuka's expertise, later personal assent and kitchen/festival pleasure matter after kidnapping and closure. Later consent has specific scope, while testimony does not audit wages, safety or permanent reopening.",
+        "O065: Coalition thanks, food, play and completion reports retain their reported positive scope despite revival. Recurrence does not erase earlier completion or establish permanent safety, sole causation or a full roster.",
+        "O066: Ethical restraint, cycling, worker pride, thanks, door-opening and accompaniment are specific goods. Temporary contact, unequal repair reports and offered listening do not establish durable control, fulfilled conversation or cross-world identity."
+      ]
+    },
+    {
+      "start": 67,
+      "end": 73,
+      "tool": "518a5a",
+      "complete_five_fields": true,
+      "complete_current_independent_QA_reason_and_source_qualifiers": true,
+      "own_reasons": [
+        "O067: Warmth, home, food, cycling, making and chosen trust protect a child's owned life from an abstract institutional mandate. Self-blame, doctrine and counterfactual scarves do not prove loss causality or complete safety.",
+        "O068: Courtesy, reported emergency-aid approval and willing students establish capacity and prospective help. Approval does not disburse funds, procure resources, rebuild a district or reinstate a suspended office.",
+        "O069: Toki's request, chosen friendship, play, shared responsibility and Neru's praise/apology remain particular goods. Costume does not disclose stakes or confer expertise, and Toki's reported Odysseia interpretation creates no Minato scene.",
+        "O070: Rumi's chosen cooking, Saya's research refusal and later meal, recognition and apology have distinct recipient endpoints. Secret use of Kokona and unresolved expenses remain costs; Mina is not Minato.",
+        "O071: Lighting, knots, app work and barbecue are useful local public goods. The operative coastal 61767 qualifier preserves investigators/coastguards/villagers, Saki's refusals and incomplete custody/refrigeration rather than generic resort authority.",
+        "O072: Map/capsule companionship, reburial, sea, laughter and thanks retain intrinsic value. Lost writing, visitor limits and withheld knowledge prevent attachment from establishing historic intent or universal comfort.",
+        "O073: Chosen manuscript completion and restored friendship coexist with refused appropriation and Momiji's continuing endpoint objection. The operative no-ratio qualifier prevents completion or gratitude from proving sales, rights or all-maker agreement."
+      ]
+    },
+    {
+      "start": 74,
+      "end": 85,
+      "tool": "7bb955",
+      "reader": "LEAN_V2",
+      "complete_five_fields": true,
+      "complete_current_independent_QA_reason_and_source_qualifiers": true,
+      "own_reasons": [
+        "O074: A droppable request and modest talk set particular service limits. Useful knowledge, promised meals and occasional contact do not establish accompaniment, periodic duty or completed restoration.",
+        "O075: Curiosity, conditional aid, a valued meeting and an accepted trace retain meaning without full understanding. The operative maker/client qualifier preserves Sensei's opening rest and unresolved manufacture, memory and reunion.",
+        "O076: Reading, dinner, cocoa, cleanup and chosen sunrise directly ground E001. The later exit option does not retroactively authorize imposed attendance, erase recording/body/labor objections or prove permanent rest reform.",
+        "O077: Hina's accepted responsibility and later written appreciation are real distinct stages. They are not heard performance, while coercion, Iroha's refusal and covert cost transfer remain unsettled.",
+        "O078: Gifts end at different eating, reading, making, request, discussion or exit stages. Specific endpoint qualifications and work concerns prevent one warm occasion from completing every gift use or labor repair.",
+        "O079: Umika chooses hosting after an off-ramp, and guests enjoy the completed trip/ceremony. The operative hosting qualifier preserves relocation, sabotage, lost time and shared response rather than faultless planning or sole-adult authorship.",
+        "O080: Airi's desired learning, food, clothes and music matter alongside friends' desire for her presence before success. Confidence does not authorize ignored boundaries, and alternative endings are not a cumulative career.",
+        "O081: Kanna's partial service wish, child protection and actual thanks have local value. Mistaken restraint, refused rewards and imposed arrangements prevent one gratitude response from establishing universal competence or harmlessness.",
+        "O082: Arius sea, food, music, quiet, stage desire, reunion and chosen photographs retain distinct goods. Source-local unpaid wages, secret force, camera limits and Misaki's objections remain costs; absent Azusa is not included.",
+        "O083: Kisaki's invitation and corrected welcome are specific acts rather than unanimous affiliation. Bodily testimony, cell pressure, privacy and procedural dissent persist, with fine defeated-party precision explicitly deferred.",
+        "O084: Office-holder reflection, wanted culture and bounded maintenance retain ordinary life and responsibility. Kai's coercive cause/cure bargain is testimony, while poor bodily condition prevents celebration from establishing harmless force or permanent cure.",
+        "O085: Mari chooses a valued week and its end. Duration and representation differ: photo disposal remains promised, later upload permission remains future and private gifts do not establish a permanent public waiver."
+      ]
+    },
+    {
+      "start": 86,
+      "end": 97,
+      "tool": "e98fe9",
+      "reader": "LEAN_V2",
+      "complete_five_fields": true,
+      "complete_current_independent_QA_reason_and_source_qualifiers": true,
+      "own_reasons": [
+        "O086: Chosen pajamas, snacks, games and an accepted gift are finite goods. Mouth-covering, recording pressure and continued filings remain separate requests and costs; confiscating one recorder does not fix an entire privacy regime.",
+        "O087: Seia and Rio own self-proof motives; Karin asks for information, Neru refuses exclusion and Rio chooses a bounded week after an off-ramp. The operative agency qualifier gives no C&C-owned self-proof or blanket assent.",
+        "O088: Fuuka's desired day off and Juri's chosen service differ. Later practice, an express ability to refuse and shared pancakes matter while overload, interrupted rest and harmful food remain contrary to general safety or compensated rest.",
+        "O089: A singular home-run victory and Hanae's chosen cheering are meaningful. Later defeat, tired nonculprits, wrist uncertainty and refused contract prevent permanent skill promotion or continuing training permission.",
+        "O090: Diners' intact-pizza condition and Aoba's self-directed safety/touch boundary matter alongside stopped emergency and signed intact handover. Throughput and gratitude do not close wider cargo purpose, offered medicine or repair.",
+        "O091: Quiet reading, stopped coercion, food, rescue and later chosen swimming are distinct positives. Initial gathering assent does not disclose a festival, and skill or friendship cannot retroactively authorize contact or privacy pressure.",
+        "O092: Mika's own luxury/play wants and Kasumi's quiet reading/company remain independent ends. Meals, cleanup, cards and withdrawal do not settle phone pressure, concealment or ongoing staffing burdens; helper encounters are not a simultaneous patrol.",
+        "O093: Eri's painting matters before recognition, and Rena's respected refusal remains distinct from later chosen help. Collective light does not validate summoning, eliminate Guard labor or satisfy all access and bodily conditions.",
+        "O094: Miyo's unwanted trade role and reading-access refusal differ from Ritsu's author/sculpture/material interests. Selected E85081–100 supports no writing refusal, profit or imported Veritas attendance; frozen shorthand remains historical.",
+        "O095: Suzumi's actual JTF membership and exit differ from failed entry, while remembered company and chosen viewing support a local decision. Love's corrected victory/power supply and continuing worker/body/quiet costs prevent complete legitimacy.",
+        "O096: Takane's real criticism, photography and library wants coexist with false biography and starvation leverage. Rejected9:1 is not an executed contract; prestige, guesses and naps do not authenticate truth or hidden strategy.",
+        "O097: Tsukuyo's styling, performance today, self-name and chosen return have time-specific value. Prior fitting, contact, diet and invitation pressure remain; praise does not choose a career or future upload permission."
+      ]
+    },
+    {
+      "start": 98,
+      "end": 104,
+      "tool": "fafa9e",
+      "reader": "LEAN_V2",
+      "complete_five_fields": true,
+      "complete_current_independent_QA_reason_and_source_qualifiers": true,
+      "own_reasons": [
+        "O098: Kei's chosen name/uniform and Alice's imperfect shared present resist assigned technical erasure. Toki's provisional game/manga interests and Eimi's peace/cold have ordinary value; co-design is not Yuzu's advance consent or complete repair.",
+        "O099: Konoka's dinner, protection, shared food, inquiry and useful negative result retain finite positive scope. One confession explains only its planted acts, while forced help and incomplete repair remain contrary to a total explanation.",
+        "O100: Recipient-sensitive tea, poetry, local swim progress and an expressly permitted walk are achieved leisure/help. Kanae's imposed work/collapse, late medicine and renewed trouble prevent an all-rested or durable recovery claim.",
+        "O101: Selective company, rescue, protective diversion and an actual replacement boat recognize memory-sensitive value beyond price. Photo permissions differ, dream-qualified pleasure is not real history and unsettled budgets/apologies limit complete repair.",
+        "O102: Printed Minato hospitality and navigation-based refusal differ from divers' pleasures and specific rescue/warmth. Partial remission, paperwork refusal, anonymous rescuer and no-exceptions rule remain source-local, with no crew, animal or MAIN chronology join.",
+        "O103: Anna's warmth/confidence, Elina's shared-success wishes and Lana's computing/friendship are distinct ends. Anna admits fear-driven fuel use and Elina admits motivational projection; apology and qualification do not prove a won race or total understanding.",
+        "O104: Fitted gloves, parties, food, volunteered broadcast, rescue/dinner and a blooming plant are finite completed goods. Sora's wage motive and release from endless repayment are different ends, not payroll evidence; reciprocal gratitude grants no further labor, touch or capture."
+      ]
+    }
+  ],
+  "current_VP042_own_finite_acceptance": "The current positive explicitly says Wanted fishing. The exact saved report values this desire alongside imperfect holiday/company/night leisure/souvenir and boat-as-home. Achieved registration and peer help remain separate from ruined equipment, disputed permission and unfinished restoration; no primary replay or source-global nonachievement follows.",
+  "own_selected_core_judgment_basis": "Use complete ROOT own prior selected-source judgments from the bound37938 basis and original10408 partial at their exact stated selected scopes. The new S05 contexts99–105,111–120,126–134 directly retain slogan/falsification tension, secure Chihiro title/rebuke, gossip mode, label uncertainty, circulation after retreat and the unfinished reputational endpoint.",
+  "explicit_current_S05_190_qualification": {
+    "original_path": "private-witness:ROOT_VERITAS_ORIGINAL10408_SELECTED7_PARTIAL_V3",
+    "pointer": "/selected_maintained_source_personal_reads/6/grade",
+    "old_value": "complete selected maintained GROUP argument54–92; not whole171/3native/AV",
+    "current_scope": "complete selected maintained GROUP argument54–92 plus the three exact new selected contexts99–105,111–120,126–134; not whole190/3canonical/native/AV",
+    "reason": "171 was a wrong negative-scope number in ROOT's own private partial. Exact current31173/5bef carrier is190 lines, independently count-bound. INPUT190 and VP004 maintained190 are correct and unchanged.",
+    "actual_whole_metadata_addendum_receiving": "a7a4ad",
+    "addendum": {
+      "bytes": 6592,
+      "sha256": "802251079d5c2a66568f1bc24e673bc7bda9c2eaabdce4796d9ef64e8fe3126e"
+    },
+    "original_receipt_preserved": true,
+    "new_whole_source_or_primary_credit": 0
+  },
+  "independent_QA_extent_clarification": "Old201 receipt is whole201/body52 QA with its disclosed selected-source scope, not currentV4 entire8 or whole7 reading. Full399718 is current200/body52/new105 component QA with selected maintained source receiving; its oldVP042 echo is governed by the current additive third107231 qualification. The original100193 two-stage304-check role remains exact history. New93245 mechanical report has504 serialized checks, no failures/findings; reviewer reports506 executed including two later receipt-cap checks. ROOT has not rerun the full14752 graph or claimed human whole serialized checkstream receiving.",
+  "private_checker_output_disposition": "Private ROOT V4 guardV1 stopped before any receipt on a wrong OBJECT_MEMBER_APPEND schema assumption. Preserved V1; V2 uses actual ROOT_MEMBER_APPEND and independently verifies original absence. Actual7c066d entire8 guard and current fields closed. Truncated847233 is not credited as full mechanical-report receiving; bounded critical metadata b5ed9e is credited only at its actual extent.",
+  "publication_snapshot_at_semantic_adoption": {
+    "source_head": "604db4a5155102f626470411c3dce8634038d3e0",
+    "main": "67b2a064714c099204636764a24aabc9ca58f2e6",
+    "source_required": 144,
+    "source_named": 16,
+    "main_required": 133,
+    "main_named": 13,
+    "new_installation_publication_credit": 0,
+    "merge_approval": "RESERVED"
+  },
+  "current_metadata_only_body205_public_composition_role_qualification_V1": {
+    "role": "Path-only public ROOT derivative plus metadata205/current bindings. Actual signedROOT adopted originalV4 body200/52/new105/selected7; no literary argument or source scope altered by framing.",
+    "actual_original_signed_ROOT_witness": {
+      "private_witness_id": "VERITAS_ACTUAL_ROOT_CURRENT_V4_SEMANTIC_ADOPTION_ORIGINAL",
+      "bytes": 45025,
+      "sha256": "46121eacbc425e4c8907d6f9907cc6861992ba32fd54f59194146b2bcfeb0b54",
+      "git_blob_oid_of_actual_bytes": "ed3dc61fc89314b3e6212c9d3bde512820641070"
+    },
+    "current_body_and_author8_metadata_routes": [
+      {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md",
+        "bytes": 49854,
+        "sha256": "d0999a4f2fca5a7de0c4db54c408fa1d70bd1c1860d494dc195493ffd9979016",
+        "git_blob_oid_of_actual_bytes": "17403be665e8ca6e5c755d23dccec7dd0966df5b"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.json",
+        "bytes": 96330,
+        "sha256": "010dfd2652711bb69cb8b3af08285437ae15789460b3e86f0c8b38fab358ac6b",
+        "git_blob_oid_of_actual_bytes": "ff28b196c388a2f2cf924973c1de38fc8c10dc95"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json",
+        "bytes": 279058,
+        "sha256": "ac4d5aa0fe867e53914df9f1505996180edfa72004b665b40432200f4f7e1c2d",
+        "git_blob_oid_of_actual_bytes": "32f6032b9d3ba7736c3b477f8bc59b962d91e5b1"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json",
+        "bytes": 416682,
+        "sha256": "519ecde5c1df08b8aa4a1493aff46dec2490dfe45956faa6475d78ed5d11589a",
+        "git_blob_oid_of_actual_bytes": "fb6fa9fe1bb6baea392828a593b411a805b1bb20"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json",
+        "bytes": 580583,
+        "sha256": "251c0724f9398a56331581ff74ec113f064b04a32fb40d668aa3a217b29ff459",
+        "git_blob_oid_of_actual_bytes": "1f72783264c17afa13754aa64ed75cb5df750f69"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+        "bytes": 70612,
+        "sha256": "bd79f1563c91a0cc24534f5e75270f0cd996ce4021bcacb4b94574e2cb2a222c",
+        "git_blob_oid_of_actual_bytes": "b88e5d845b7fd900c62869d8c331c1e97818648d"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+        "bytes": 903910,
+        "sha256": "6518b30bf47487f81f883cba2c5cc992bfe958aa595a37de631a73b5c00d8459",
+        "git_blob_oid_of_actual_bytes": "d686c498e94be2a9f92ff8aa7baf02580b0788e8"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json",
+        "bytes": 15319,
+        "sha256": "4efe5d2989fc1c3602ed32f6324336bf07ca84fa60abdbc12bd20db661441e8d",
+        "git_blob_oid_of_actual_bytes": "b2d19505478ed39c27269ffebc995d7f79117021"
+      }
+    ],
+    "current_QA3_public_routes": [
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/INDEPENDENT_VERITAS_CURRENT201_FULL52_BODY_FIRST_LITERARY_DIMENSION15_E00112_RIVAL8_END16_GAP14_RECEIVING_QA_V1.json",
+        "bytes": 220661,
+        "sha256": "a29fcf314a04319e68453fa9952b8de13bb5f7685f4939bcfec716b65e0c22af",
+        "git_blob_oid_of_actual_bytes": "37591884ddc11a05e60e6fc8d437d353fe2d90d6"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/INDEPENDENT_VERITAS_CURRENT_V3_COMPLETE200_LITERAL52_NEW105_SOURCE7_EXACT8_FULL_LITERARY_COMPONENT_CURRENT_POSITIVE_REVIEW_V1.json",
+        "bytes": 398629,
+        "sha256": "2d2773bf0bf18ba9bd91a121988979f4da60c7dc2d6a47ea869083c6d6110053",
+        "git_blob_oid_of_actual_bytes": "2ed52ac8506b3207a2b0f85c7a8898c24afb41b1"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/INDEPENDENT_VERITAS_CURRENT_V4_VP042_WANTED_REPORT_MODE_ADDITIVE_BOUNDED_DELTA_AND_COMPLETE_ORIGINAL_TWO_STAGE_QA_SUCCESSOR_V1.json",
+        "bytes": 107231,
+        "sha256": "703d627bc158484bbbb5420a02b4d779e722790522b63a2c181853297450120c",
+        "git_blob_oid_of_actual_bytes": "632061fc2a37c90d645d13e538646b1287d1d893"
+      }
+    ],
+    "old200_current205_pending_creation_statement": "The literal argument, finite endpoints, original gaps, all105 new Veritas target purposes and receiving metadata still require their separate different-author review and ROOT receiving/adoption. This is the existing institution and its required embedded ensemble. No additional required or named-duty denominator, source admission, registry join, reconstruction model, prediction register or canonical completion is created by this draft. All14 gaps remain OPEN, models0, fixed355/29/25/384/788 and next178 remain unchanged, and main merge approval remains reserved.",
+    "creation_statement_qualification": "This unchanged formerL200/currentL205 sentence dates the author's assembly. Current exact revisedQA/signedROOT semantic acceptance govern current205 metadata framing. It does not block semantic reuse after actual adoption, and it grants no installation/publication/runtime.",
+    "source_grade_boundary": "Author whole7, independent reviewer selected7, ROOT actual selected7 and complete current report-purpose receiving remain separate. No whole105 normal, primary/native/raw/AV, additional admission, chronology/person identity consolidation, reconstruction model or source-global absence credit.",
+    "current_reconstruction_role": "Current register operative205 rule/102 shifted physical_line refs/three plural bodycounts/four bodytuples are mechanical framing; exact original200 rule/executed_equal retained as dated history.",
+    "current_composition_acceptance_and_installation_runtime": "Distinct public14 compositionQA/ROOT composed-byte adoption/freeze/install/preflight/push/readback/newCI remain pending."
+  }
+}

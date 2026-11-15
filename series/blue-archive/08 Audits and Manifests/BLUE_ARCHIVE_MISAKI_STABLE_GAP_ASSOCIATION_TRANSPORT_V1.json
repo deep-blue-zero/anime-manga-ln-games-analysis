@@ -1,0 +1,1388 @@
+{
+  "original_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MISAKI_CHARACTER_MONOGRAPH.md",
+    "bytes": 44816,
+    "sha256": "75959f195431b94b247c7dc36a0af02aa560c855170516cbda933e724a0759ff",
+    "git_blob_oid_of_actual_bytes": "db7606139dc41c1c54f33f6daeea433bad04f16b",
+    "lines": 222
+  },
+  "canonical_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MISAKI_CHARACTER_MONOGRAPH.md",
+    "bytes": 45306,
+    "sha256": "a106131f294f7fbcf2472bee26cfd1c20910069a4e548ace86fd8b16ed20e81c",
+    "git_blob_oid_of_actual_bytes": "388d729a53132c818484541d84496a75a29dbd7e",
+    "lines": 224
+  },
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 3,
+      "canonical_line": 3,
+      "line_sha256": "032ead6743fecce5b52fa7fa239a8d8b45b4cc17743bd0aff7988d51f670b629",
+      "line_text": "character: \"戒野ミサキ / Misaki\""
+    },
+    {
+      "frozen_line": 4,
+      "canonical_line": 4,
+      "line_sha256": "f212a35eee27aff4b667088d05ac7cf18160a2dc5eeb485901e28ea65ecd2f3d",
+      "line_text": "person_scope: \"BA_PERSON_MISAKI;10041/20049;costume1900942201→20049\""
+    },
+    {
+      "frozen_line": 5,
+      "canonical_line": 5,
+      "line_sha256": "1658226d82991e821acc7363ec1375c03a4c3037e48a2a07ed6d5d89a5430ec5",
+      "line_text": "method: DEEP_SYNTHESIS"
+    },
+    {
+      "frozen_line": 6,
+      "canonical_line": 6,
+      "line_sha256": "2084413932021b66232c019d7d67e81ba2cf005acb31f12c32acb13608a5283c",
+      "line_text": "architecture: \"1.12, section7.1, eleven required dimensions\""
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 7,
+      "line_sha256": "2b4c71a3936349b6920c14d8d0327b826ca56d5e7944bc878548abba1650fe54",
+      "line_text": "analytical_base: \"2e2018d0d62d91e3e0a5e7681f72a31cec08e02c\""
+    },
+    {
+      "frozen_line": 8,
+      "canonical_line": 8,
+      "line_sha256": "c8ef145b6da8758b2dd4f184f0c6454d958b15d80fcfd350803c0682bf3d65dd",
+      "line_text": "historical_source_witness: \"c1f14d5120c29209ca571fea8d7cfbe111076ec5\""
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 9,
+      "line_sha256": "a7128a3b6afa054c49654fbcb14fcbdd61123b6ed5e0cac56e74d54399bb96b6",
+      "line_text": "japanese_supplemental_source: \"a038020f1f5ac02dcfe76962426d38f86414cdd8\""
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 10,
+      "line_sha256": "14e0401cbb122674957ed72090cd06063f320f5d1d77a57ec343b3b2cbe52b04",
+      "line_text": "authority_quartet: \"Current Cycle008 admission; ROOT qualified complete analytical receiving with limits; historical order/independence UNKNOWN; performed voice UNRECEIVED\""
+    },
+    {
+      "frozen_line": 11,
+      "canonical_line": 11,
+      "line_sha256": "ecd7362898d29a29893f280a0a16561368ca6915faaadffe5bbb792584d518ee",
+      "line_text": "scope: \"Bounded literary synthesis; all14 gaps OPEN; no clinical/person model, denominator or milestone credit\""
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 12,
+      "line_sha256": "8fecbb6a3875013f0e9b08c2e80984516ba9166974308b35a91a124bb697c029",
+      "line_text": "date: \"2026-10-10\""
+    },
+    {
+      "frozen_line": 13,
+      "canonical_line": 13,
+      "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+      "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 14,
+      "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+      "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 15,
+      "line_sha256": "a78d001b78a3d7ff6c2a969a79a9161ba91d13f66ae5395214eac9606ef46e38",
+      "line_text": "source_boundary: \"Accepted textual analytical meanings at main2e2018d0d62d91e3e0a5e7681f72a31cec08e02c, with qualified historical c1f14d5120c29209ca571fea8d7cfbe111076ec5 and original earlier MAIN producer pins retained at their declared scopes; current scope control355/29; performed material unreceived\""
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 16,
+      "line_sha256": "bb914669cd55a7b273c7c953cc13af9416c336d813c7209977fd932f34e35a82",
+      "line_text": "artifact_type: character_monograph"
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 17,
+      "line_sha256": "0946f5047ae20836f2c40c039c809b4c2a0e0f6548c9e51e4ef1342b3ede236b",
+      "line_text": "generation: V1"
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 18,
+      "line_sha256": "8878f2140aa69d1a5d1e7162cae938d4568edf7cc2db8f4c81d48d2db480cf77",
+      "line_text": "version: \"1.0\""
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 19,
+      "line_sha256": "65f8c9418b8c955845bfd8af0a0e28e9f96ba9d6a85f33432dc3d945b3077a79",
+      "line_text": "status: canonical"
+    },
+    {
+      "frozen_line": 20,
+      "canonical_line": 20,
+      "line_sha256": "5f8f531e4042b21b5d0d2716b65c580c988d1279922c0f27c4f1a2b150d75d9c",
+      "line_text": "do_not_use_as_current_authority: false"
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 21,
+      "line_sha256": "8ca26bd5c6ccd5371fdc70d4b131240f0035c4ec64555a76c0cedf68c03a7632",
+      "line_text": "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MISAKI_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 22,
+      "line_sha256": "00e49c1496cb4da04454581ee29d5ff7dc030e3a4cab5f5b254e6304d75cf82e",
+      "line_text": "review_state: ROOT_ACCEPTED_WITH_LIMITS"
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 23,
+      "line_sha256": "baafbc7f33f97a3d4f99bc6fda0ac9e6726b8352ad2cf997040603fe01df044c",
+      "line_text": "ROOT_literary_acceptance: ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS"
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 24,
+      "line_sha256": "86708701dc67d223d34105f2386d6a73fd185db1ab2c5daedb78ffbd2699277f",
+      "line_text": "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL"
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 25,
+      "line_sha256": "7c725a9641b79d6b64eec622760fa9fc218446a8d9a5e3dbdd9a384c2740f25f",
+      "line_text": "updated: 2026-10-10"
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 26,
+      "line_sha256": "376685b1669772602a00ad4af1f358c52d2115e97392e2af8fd98676192e219d",
+      "line_text": "supersedes: []"
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 27,
+      "line_sha256": "45cbca5ff920f29b0ebe746007487b320c6715a0daa81e8655ae97c53482fcd3",
+      "line_text": "superseded_by: []"
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 28,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 29,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 30,
+      "line_sha256": "65f446d90ef1676eaf54f3ff647b3433a211baa38d09ff397af7021ab8cc9d0f",
+      "line_text": "# Misaki: company can matter while refusal still means something"
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 31,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 32,
+      "line_sha256": "56c0f92a7674d3b6e7d7d483f4a384d3653c1da69fc8f16af6bd10b33c25b12a",
+      "line_text": "ROOT accepted the complete eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MISAKI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MISAKI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Source publication, main integration, separately required directed/institutional packages and full eligible-cast completion remain separate."
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 33,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 34,
+      "line_sha256": "61e850b6de441450c86e47ef2b7aab46abe4aa9f7b53c16345ba3005b5df93d5",
+      "line_text": "Misaki’s seventeen selected objects comprise seven BOND episodes, seven whole associated MomoTalk objects and three complete written objects. Their current shared private owner also contains Hiyori15 and Subaru11, which remain distinct responsibilities. This monograph uses its personally complete accepted argument and relevant complete Main/Final/event arguments. Necessary Japanese recovery checks the hotel encounter, sandcastle ending and whole cloudy-afternoon message. It neither imports unseen pictures nor treats the two variants’ documentary release order as a calendar of recovery. The exact receipt preserves complete versus refreshed scopes and source-mode boundaries."
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 35,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 36,
+      "line_sha256": "d98d9a2bfe8eef0335fdd96c939f21edcdf9430544ec73ec7d101a9ff13eb326",
+      "line_text": "## 1. Core thesis: value is more credible when the recipient can contest it"
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 37,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 38,
+      "line_sha256": "73d5a30550b96fa0521cfaf63ec7b16d0f2c1fd3d5751e58f4369852896b80a3",
+      "line_text": "Misaki gives a particularly strong test of whether care acknowledges a person or merely turns her into evidence of an adult’s success. She may want silence, solitude and little debt, while illness or loneliness can make particular help and company valuable. Her later admission that talking supplied something on an otherwise unproductive cloudy day is a positive endpoint because she names that exception herself. It cannot cancel the refusals that preceded the outing or make every imposed activity secretly desired. The character’s agency consists partly in making such distinctions available. [10041:002/003/005;20049:002/003/005;wholeMM200490210.]"
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 39,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 40,
+      "line_sha256": "b6eaf1b6f94f83c1f4085e11eaebaba498c926711cb963433bce71c3a3ede17d",
+      "line_text": "Her futility arguments deserve serious engagement. The body seems a prison, people seem isolated islands, a sandcastle returns to sand, and rain spoils a promised sun benefit. These claims respond to actual limitation and loss; they are not merely errors awaiting a cheerful correction. The sources nevertheless disclose specific counterexamples: self-initiated help, skilled craft assistance, a wanted presence, practical responsibility, a deliberate gift and valued conversation. The answer is local value within vulnerability, not a globally installed optimistic worldview. [Complete seven private pairs;EVENT810E076.]"
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 41,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 42,
+      "line_sha256": "6dce6a0614a23d57186a730dd68daabf056884110f49fa87553b529f607745eb",
+      "line_text": "The adult’s good intention is correspondingly insufficient. He persists after refusals, presses a walk that brings a bodily problem, arrives despite a dismissive message, and offers a photo as meaning after she has not agreed to a record. Misaki can correct him without that correction being reduced to proof that she likes him. Positive company and adverse pressure coexist. A later assent supplies a later boundary; it is not permission retroactively applied to earlier contact, intrusion or photography. [10041:003:u:0024–0050;20049:002/003/005.]"
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 43,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 44,
+      "line_sha256": "76c5c36149ed487bfe43f9ffb05d8eabf0027c6b76a5be3d51dc181b76742e62",
+      "line_text": "Her public responsibility also exceeds a private refusal repertoire. She joins rescue after a bridge-side crisis, protests Saori’s renewed self-sacrifice, reports Atsuko’s severe injury and continues care after Saori leaves. These acts make other people consequential to her while leaving serious distress and insecure conditions. Neither caregiving nor a good afternoon certifies enduring recovery. A monograph must preserve the person who can support companions and still need quiet, help and an answerable adult. [V003C004E008–027;V006;EVENT838/853.]"
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 45,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 46,
+      "line_sha256": "558d88842eb63c0acb860fe59fc96075f03d347abeabf2681eaefe0011918789",
+      "line_text": "## 2. Longitudinal development: participation without a certified cure"
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 47,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 48,
+      "line_sha256": "9156c58062e40ab5b8061fb2d11fd47c95ca06aff3f22255aab9aa9cc5920bb6",
+      "line_text": "V003C003 places Misaki inside the Squad’s harmful public action and tactical vulnerability. She reports entrapment, later reports disturbed Justina control, and receives a future in which flight remains possible but pursuit active. Her reporting is a distinct part of the public argument, not proof of every technical cause or a legal acquittal. The wider school coalition, injuries and Azusa’s chosen belonging remain independent facts that an Arius-centered view cannot erase. [V003C003E013–025, complete accepted chapter argument.]"
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 49,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 50,
+      "line_sha256": "435191829a2e58ec8b07704e2bfb5609acc1317023bfb0a4bf220e592f0bbf86",
+      "line_text": "V003C004 contains an explicitly represented bridge-side self-harm crisis interrupted by Saori. Misaki joins the rescue mission afterward. The sequence gives a concrete changed action, not a clinical diagnosis, permanent cure or a guarantee that participation removes distress. It must also remain distinct from the private hotel scene: that scene’s water, opened door and modal overlay do not explicitly show a method or a completed attempt. The public episode’s clearer description does not authorize copying an event into another source. [V003C004E008–016;10041:005, complete Japanese recovery.]"
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 51,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 52,
+      "line_sha256": "c4ebf5c4b723c3fa42a697b210dfcd492f968a1c8d19cfdfc0ab53c52f90cee7",
+      "line_text": "Rescue expands what her care can do. She reaches the sanctuary, initially tentatively judges Atsuko unconscious, later protests Saori being substituted as a sacrifice and reports serious injury and blood loss. Atsuko’s waking revises the apparent unconsciousness while retaining the gravity of the injury. The outcome is actual local contact and survival; Misaki’s concern does not supply a clinical all-clear or authenticate a protective mask mechanism. Distinct rescue institutions and Mika’s delaying role remain causal contributors. [V003C004E021–026.]"
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 53,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 54,
+      "line_sha256": "989c1c7e1b153cfa0ab400f4fac47167b91faa70f140442a95c103926578f47c",
+      "line_text": "The departure leaves Misaki with a practical burden. She fears homelessness and pursuit while remaining with Hiyori and Atsuko. Atsuko’s flower-in-concrete hope offers an answer without issuing a housing entitlement or guaranteed return. The ordinary private encounters in ruins, hotels and streets therefore have material context, but their place on a universal Main calendar is not established. An episode’s existing shelter or visit cannot be promoted into permanent institutional provision. [V003C004E027;10041 private pairs.]"
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 55,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 56,
+      "line_sha256": "f42a9eaa3942ac085b74859136eec2f7b8da08517c61fc1f92d7d5f2dd533b2f",
+      "line_text": "MainV006 later broadens the Squad’s participation into conflict with stayers, schooling and collective plans. Subaru’s grievance and Maia’s attachments remain independent; the returnees’ wishes do not settle them. Reported surrender, convictions and parole retain the difference between admission to a future and innocence. Actual class and celebration coexist with provisional institution ideas and incomplete resources. Misaki’s presence in this ensemble supports participation, without assigning every printed group turn or proposed office to her. [V006C001–003 and attribution controls.]"
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 57,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 58,
+      "line_sha256": "a5940d8d18e707c4e21a854fc2eae3fb99c64b8632e2e090329859f8058342bf",
+      "line_text": "The private sequence provides more exact individual changes. A refused initial meeting is followed by a destination report; she then authors a request for help. A found bag returns a childhood object to the discussion without confirmed present attachment. Summer activities distinguish being swayed into swimming from voluntary technical help at a sandcastle. The final cloudy afternoon produces a direct conversational exception to her “nothing gained” statement. These are changes in situations and available response, not a release-number proof of steadily improving health. [10041:002/003/005/015;20049:002/003/005 and whole associated messages.]"
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 59,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 60,
+      "line_sha256": "fa9d501f0cc95eb17f26c6608859e62520a125a2c71c8f6b01ab7e8be99e4e43",
+      "line_text": "Final and events extend shared public activity while preserving distinct private preferences. The Squad’s conditional rear-guard participation is not proof of every battle result or universal pardon. Festival company produces actual photos and time together but does not erase Misaki’s sensitivity to crowds, light and noise. Her funding correction in the fashion bridge gives another person’s material story greater precision; it does not make fashion, gardening or silence a uniform Arius preference. [FinalC002E015/C004E010;EVENT838E017–021;EVENT853E008.]"
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 61,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 62,
+      "line_sha256": "53d3e081a74e4e82b21bccb493d0df0e84870865a8b96f04e64b1b66eae30545",
+      "line_text": "## 3. Public and private characterization: solitude is a preference, not absence"
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 63,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 64,
+      "line_sha256": "dabbc82570a324e353b66beff3c7cfc36c8d2fa22d0aaa9bcb2386292d9aadae",
+      "line_text": "The written hobbyひとりで過ごすこと gives solitude positive standing as a chosen way to spend time. The private texts cannot be summarized as a contest in which company must defeat solitude. She asks for no more talking in the elevator, warns against proximity in the walk, and dislikes being treated as a child. Those boundaries have meaning even when another encounter contains loneliness or thanks. A person can prefer solitude and want a particular companion at a particular time. [Written10041/20049;10041:002/003/005;20049 private.]"
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 65,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 66,
+      "line_sha256": "d5dabe11390a59cf46f39ac05ff5366f302df9a5ff607be47d1c75d83a72832b",
+      "line_text": "The hotel scene makes that coexistence particularly strong. Her own message initiates help; the body is heavy, hot and dizzy in the represented encounter, and Sensei’s cold diagnosis is a guess. An italic loneliness statement and later admission that his absence became unbearable disclose wanted presence. She also becomes angry and uncertain in response to him. These are not mutually exclusive clues to a solved hidden affection. They are different experiences within one care relation. [10041:005:u:0003–0019/0037–0045;wholeMM100410110.]"
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 67,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 68,
+      "line_sha256": "15c4e223bbdae5d168592abee527e988f67ce62a6c806ff9784d7d2391401b05",
+      "line_text": "The childhood doll is another limit on interpretive possession. Saori’s carving and childhood play are Misaki’s testimony. She expressly denies present attachment and says its value was in the past. Sensei’s dear-object framing meets that denial. Recovering a memory need not prove continued cherished love, and thanking him for help need not settle the doll’s custody. She asks for its return; the scene does not narrate a completed handback. The analysis must leave both past value and current refusal of the framing visible. [10041:015:u:0033–0045.]"
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 69,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 70,
+      "line_sha256": "97ddb6b8dab4f3bf44d99e1e156b9ba73f07f710ac06adcbabea0f2c1708ef20",
+      "line_text": "Summer profile narration adds a distinct perspective by describing hidden first-sea excitement and blush or anger. Its existence must not be discarded, but it is not an unlimited key for decoding all direct refusals as lies. Narrated shared sea teaching and local enjoyment coexist with a reluctant agreement, fatigue, doubt about progress and explicit objections. A third-person description can complicate a statement without granting the observer a universal right to overrule it. [Written20049;20049:002 and wholeMM200490010.]"
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 71,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 72,
+      "line_sha256": "c1679b901dca9aa4fd709f2142544885a6213b13d30f988528d7667fed748b2c",
+      "line_text": "Public distress and private arguments also have separate witness conditions. The profile’s self-destructive-seeming behavior and bands concealing something do not independently authenticate wounds, a method or a medical disorder. V003C004’s explicitly described crisis is a specific event, and the hotel’s water remains differently represented. The monograph may receive distress seriously without pretending all its sources are identical clinical evidence. [Written10041;V003C004E008–016;10041:005.]"
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 73,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 74,
+      "line_sha256": "423a57771d1f7c88bce6f349a15331791061caab6d8f044517d507cfa35b3c42",
+      "line_text": "## 4. School, club and institution: insecure settings make small provisions consequential"
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 75,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 76,
+      "line_sha256": "cd4bd297911b481bfad90a23fd871efbf91f892fb8b3cd71e199813e13e0d05d",
+      "line_text": "Misaki’s first meeting describes outsiders usually being barred while the companions remain hidden. Her statement that their lives are in the adult’s hands is a situated dependency appraisal, not unlimited access or consent. Practical GPS correction can be appreciated without being independently technically validated. The elevator’s power-error notice, manager’s restoration report and actual opening give a local infrastructure event an endpoint; the hour forecast is not an inspected elapsed hour and release does not cure the disclosed claustrophobic constraint. [10041:002:u:0012–0075.]"
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 77,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 78,
+      "line_sha256": "d4ec936e0e7bbdfb784fef9b3f70f25f607455021ad36ec8424b58e9b56d773b",
+      "line_text": "Rough sleeping, guard complaints and a Valkyrie threat later make shelter insecurity concrete. Recognition and escort enable this encounter, and the missing bag is actually found. Neither the local adult intervention nor recovered belongings provides a lawful sleeping place or a permanent home. Her fear after Saori’s departure and these private conditions can be compared without dating the encounter after that farewell. [10041:015:u:0003–0025;V003C004E027.]"
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 79,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 80,
+      "line_sha256": "697d4244b3f3d55e82575ebc07578c546616ff029f3712b6cd5e79e23991752b",
+      "line_text": "EVENT810 supplies labor that is easily dismissed if one looks only for formal offices. Utilities and access routes in an unmaintained demolition building need attention. Misaki describes protecting companions, and the adult’s alternative reports about checks or safe arrival remain limited. Japanese narration represents various duties undertaken, mostly quickly resolved; the Korean emphasis differs. Their quickness does not make the responsibilities invented or prove exhaustive safety. The local care work has value while durable infrastructure repair remains open. [EVENT810E076:u:0002–0033, complete accepted argument.]"
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 81,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 82,
+      "line_sha256": "80a17fb7a7517d7ec1d56fb14d3907f4e939f2616f0233ac2a6629b6345f5377",
+      "line_text": "MainV006’s classroom and collective involvement provide another institutional setting. Surrender/parole, real study and celebration are distinct from complete repair, an audited gradebook and a representative charter. Misaki’s individual decisions should not be replaced by one school stance, especially where anonymous/Hiyori labels drift. Surrounding Trinity care and sponsorship GROUP meanings supply context without a direct Squad-owned group sequence or invented membership. [V006C001–003;accepted V003/V006 GROUP relevance scope.]"
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 83,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 84,
+      "line_sha256": "32d1de009586e4e41e6af0413fe4c4701600f66fe0ab3f755b7bf0358c0050ef",
+      "line_text": "Festival and costume settings retain similar limits. Misaki can find a visit “not bad once,” value clean water and object to physical poking while a festival still has labor disputes and coercive protection. The costume’s838,10838 and900838 lobby blocks are written contexts, not three trips or a full operation history. Safety appraisal in one line is not a whole-event audit. Personal positive experience and institutional risk can remain true at the same time. [Written20049 andcostume1900942201;EVENT838.]"
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 85,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 86,
+      "line_sha256": "fb77ab9301fbcc991c0f09fd848058fdeab81eba3f94f2d11473bf5a128fceb0",
+      "line_text": "## 5. Ordinary life: choosing company without conceding every activity"
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 87,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 88,
+      "line_sha256": "08011a2faf3e59e5993c99f13be5df9c688aa8ed9febc42d5625a62c73388152",
+      "line_text": "The elevator ending gives both help and an unresolved sadness. The adult initiates contact despite her lack of an intention to meet. Food refusal and a survival-oriented account of the body precede the stoppage. Her request for silence is not respected simply by asking more questions; she names claustrophobia, the door opens, the adult apologizes and she accepts. The departing sadness remains. This is release and local apology, not a story in which conviviality solves a deficient body. [10041:002:u:0030–0075;wholeMM100410010.]"
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 89,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 90,
+      "line_sha256": "f1e6f09b70023b867336672b24d8da4cce52e739cd5184bbcfb634cc0f74af57",
+      "line_text": "The walk exposes the limits of claimed relational credit. Her whole message supplies a chosen destination report, but in the scene she accepts walking as an order, warns about approach and then sneezes. She names hay fever, receives a drink and thanks the adult while also correcting him: he caused the problem and is presumptuous. The handkerchief’s washing and return remain future, and she refuses a gift framing because she wants no debt. An enjoyed or helpful element does not make the outing originally wanted. Agreement about flowers does not establish a universal flower hobby. [10041:003:u:0008–0050;wholeMM100410070.]"
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 91,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 92,
+      "line_sha256": "81896530a5cb0255359bbaf4533c15a75accbbc14419d1cd233417e2c91dde8c",
+      "line_text": "In the hotel she has asked for help. Foodlessness, dizziness and heat give need a concrete representation; the provided room, food and clothes are offers, and actual medicine-taking is the final narrated achievement. Water and an opened door lead into an overlay discussing a cold, noisy world and the impossibility of washing it clean. No explicit method or completed attempt is printed there. Her anger, self-blame and desire for presence retain their own force without an invented emergency supplying blanket justification for intrusion. The sweet children’s syrup provokes another objection, and the whole afterword preserves anger, apology, repayment plans and a prospective tomorrow rather than a completed next visit. [10041:005:u:0003–0056, complete Japanese recovery;wholeMM100410110.]"
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 93,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 94,
+      "line_sha256": "a7e9cc70bb1a8bd4f867f36e2b4d0343246235219f6852250bb3c5b7a6c46284",
+      "line_text": "The recovered bag and doll add a remembered ordinary relation to Saori. They do not require a secret present affection to matter. Childhood play is testimony worth retaining, and past value is still a meaningful relation to an object. Current denial of attachment and demand for return remain current limits. No completed handback, new home or permanent trust is narrated. This outcome challenges an interpretation in which every refusal merely hides an object the adult correctly knows she cherishes. [10041:015:u:0025–0045;wholeMM100410230, two W15 alternative witnesses for one pair.]"
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 95,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 96,
+      "line_sha256": "3b39140d61e2410e5e2d881a4d13170ca925ebed0646dfa0f1e1200b2d71f3d3",
+      "line_text": "The first sea activity is pressed rather than freely disclosed as a prior wish. Repeated refusals, inability to swim, reluctant agreement and objection to flotation infantilization are explicit. Narration confirms teaching and enjoyment of the sea together at a local degree. The whole message then supplies fatigue, the adult’s slight-progress judgment, her flailing interpretation and a proposed other method. Mastery, originally desired swimming and a completed future lesson are absent. Both positive shared activity and the cost of being swayed must remain. [20049:002:u:0003–0027;wholeMM200490010 throughmessages170.]"
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 97,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 98,
+      "line_sha256": "5f78bedb6266fb713e12953197a60e9b8e5fa523620388bb3a9f7a811c6633da",
+      "line_text": "The sand scene gives her a different initiative. She refuses another swim and recalls having been swayed. She permits the adult to build alone, then offers water, bucket technique and craft assistance herself. This contribution is not reducible to passive obedience. Its pleasure remains contested in her logged denial and accusation about orchestration. The interrupted “not bad” assessment is followed by collapse, and no castle is rebuilt. Her futility account therefore has an actual object loss behind it. [20049:003:u:0004–0038, complete Japanese recovery;wholeMM200490150.]"
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 99,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 100,
+      "line_sha256": "a677946c0860ea0accae4d33a5a32f74946063a325febda6991592855f6d1678",
+      "line_text": "The adult’s meaning/photo alternative and her startled reaction then indicate an unasked record. She requests deletion immediately. The selected ending prints neither deletion nor image inspection; the adult’s valuation cannot become her general photographic consent. A record is not an ethically neutral substitute for a failed castle when its subject objects. Her craft mattered while it existed; its worth need not be secured by keeping a photograph against her demand. [20049:003:choice:004/u:0039–0044.]"
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 101,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 102,
+      "line_sha256": "7ebebdccb7549dae7d13a99ec24f1316207f5a8726e55845ea5a9ca9c851a043",
+      "line_text": "Sunbathing again begins with a dismissal the adult does not heed, an explicit statement that she never agreed, and later assent to get it over with. She distinguishes being accustomed from liking. Rain interrupts the planned benefit. She nevertheless asks to continue and later, in the whole message, says conversation was the exception to gaining nothing. This is an independently named value within an otherwise cloudy day, not clinical sunlight benefit, permanent optimism or assent rewritten backward. Her final addition can matter without making the adult’s initial persistence exemplary. [20049:005;wholeMM200490210:messages260–410, complete Japanese recovery.]"
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 103,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 104,
+      "line_sha256": "b59706a610abf3efab33e5b5bd8f36eebf5895d226f15a9af0869a4b28aea1ac",
+      "line_text": "The gift event similarly lets practical duty and personal decision coexist. Misaki deliberates after a pocket object is noticed, offers chocolate, asks it be eaten, frames gratitude and emphatically denies another meaning. She demands a response rather than a grin. Narration fulfills adult eating while calming her anger, not mutual eating, fully achieved calm or solved motive. A blush cannot cancel an explicit meaning boundary. Giving remains a positive act without forcing a romance classification or treating protective work as a pretext proven false. [EVENT810E076:u:0034–0051.]"
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 105,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 106,
+      "line_sha256": "f69487b4105c5b93d1383726fba9621fc9bc69b871f61ef52868db627c3914da",
+      "line_text": "Other small sources keep preferences independent. Her correction that the adult funded half Hiyori’s magazine purchase is material testimony, while Hiyori’s interest remains genuine. Crowd, light and noise limits persist inside festival company and actually distributed photos. Written clean water and solitude have ordinary value; the costume’s physical poke objection remains a boundary. Such evidence directly changes how company and care should be described and therefore remains analytically consequential whatever its stakes. [EVENT853E008;EVENT838E017–021;written20049/costume1900942201.]"
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 107,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 108,
+      "line_sha256": "9238878e81323563facfcc6fb75a0241aadfcfc2607af87087927bf01ef4d245",
+      "line_text": "## 6. Crisis behavior: needing help does not forfeit judgment"
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 109,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 110,
+      "line_sha256": "8acd63f76278fb0d8dea1902d5828c13fbbb1a4fff04f737402eed6b3aeac7a3",
+      "line_text": "Misaki’s tactical reports inV003C003 show active participation inside a harmful operation. Entrapment and disturbed-control testimony are specific acts of reporting, with uninspected mechanism and casualty limits. The Squad’s eventual escape does not certify innocence or immunity. A person’s later need for care cannot erase those public conditions, just as membership in a harmful group cannot render all subsequent need deserved. [V003C003E013–025.]"
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 111,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 112,
+      "line_sha256": "d31f3e6d7129debc5185174510ae5b827ed3a358b50452e8d45dae1b93eaf2b1",
+      "line_text": "The interrupted bridge-side crisis requires a particularly clear outcome. Saori’s intervention and Misaki’s joined rescue mission are consequential. There is no permanently recovered state, clinical discharge or complete account of what prevents recurrence. Mission usefulness should not become the measure of whether her life is now worth keeping. The private conversation endpoint offers another kind of value that does not depend on joining a dangerous task. [V003C004E008–016;wholeMM200490210.]"
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 113,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 114,
+      "line_sha256": "5f9abe423118dc9fcb59c387dec6ffcd56ac0d7bf0c2c657012c3a4c30801150",
+      "line_text": "At the sanctuary Misaki’s judgments change with evidence. A tentative unconsciousness appraisal precedes serious injury and bleeding reports, then Atsuko’s actual waking speech. The observer can retain uncertainty without denying the reversal. Misaki also protests Saori’s offer to replace Atsuko as sacrifice. Caring for the Squad includes resisting endless self-expenditure, not merely accepting the current leader’s proposal. Other rescuers, delayed threats and omitted tactics remain distinct sources of the outcome. [V003C004E021–026.]"
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 115,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 116,
+      "line_sha256": "6b86178b11e4d238d2ff614f76b47bb8a1098c66be824ba490715a048e5df0d1",
+      "line_text": "Saori’s separation then leaves care work and insecurity together. Misaki’s fear of homelessness and pursuit is not disproved by a hopeful flower or a future reunion wish. EVENT810 gives that care concrete utility and route maintenance; the quick completion of most local tasks is positive but narrow. It is neither a substitute for safe housing nor evidence that concerns about housing were imaginary. The contrast keeps the public future materially difficult rather than grading every good act as total repair. [V003C004E027;EVENT810E076.]"
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 117,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 118,
+      "line_sha256": "0111bae8fbae5545111a4e1bdf29d1d651b8a10b58a149e411fcb02c23eb4969",
+      "line_text": "EVENT838 supplies adverse collective protective behavior as well as wanted leisure. Threats, restriction and confinement in the Squad’s defense of Saori’s opportunity remain troubling; source actor seams sometimes warrant only group-level attribution. Misaki’s protecting Atsuko during conflict is consequential at the accepted argument’s local scope, and the reunion/retreat does not certify every antagonist dead, arrested or compensated. A positive photo ending cannot authorize coercive acts earlier in the same event. [EVENT838E004–015/017–021.]"
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 119,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 120,
+      "line_sha256": "b3fb6bfb0a642bca5ecbdfba3615e9a9865b38a44375160085b80c499140f434",
+      "line_text": "The private bodily scenes are related but different. Claustrophobia and hay fever are her disclosed accounts; foodlessness, dizziness and hot skin precede a guessed illness and actual medicine-taking. They require respect as source-specific constraints rather than independent medical diagnosis. Adult reassurance and later thanks do not disprove the constraint. The hotel’s water does not authenticate a method, while the explicit public bridge crisis remains real in its own witness. Precision protects both the gravity of distress and the boundaries of the scene. [10041:002/003/005;V003C004E008–016.]"
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 121,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 122,
+      "line_sha256": "05f0354865ffd29a918d199a8b4a7e930a088026bdf11577b4f1a3b768d0a85a",
+      "line_text": "## 7. Sensei relationship: correction belongs inside care"
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 123,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 124,
+      "line_sha256": "a90ed3f22962046a1d2b4cbee2addc4b8c7e9767fc30a0809f99b6c53ea4b763",
+      "line_text": "The relation is strongest when Misaki can identify what helped and what harmed. GPS correction is thanked; a flower walk’s problem is laid at the adult’s initiative; medicine is taken while infantilizing choice is challenged; conversation is named as a cloudy day’s gain. These different appraisals give her a recipient’s authority to evaluate care without making her omniscient. A monograph that preserves only thanks would lose correction, and one that preserves only refusal would lose her authored requests and named company. [10041:002/003/005;20049:005.]"
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 125,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 126,
+      "line_sha256": "1d9c924aa64845af3c97990dfeb0abd44a6004913791ca45a765071bf111142b",
+      "line_text": "Requested presence is specific. The hotel’s message asks for help, and the scene discloses loneliness when he leaves. Her self-blame can coexist with anger that is not simply ingratitude. The adult supplies room and medicine, but the ending does not certify recovery or eliminate irritation. The whole afterword’s planned repayment and tomorrow remain future; continued communication under disagreement is meaningful without a full reconciliation certificate. [10041:005 andwholeMM100410110.]"
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 127,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 128,
+      "line_sha256": "61af1d1f95eb4c2777dd4b149392a16e4f619aaf5212411e0fde814ca93ecf02",
+      "line_text": "Care should also acknowledge requests for less contact. The elevator silence demand, proximity warning, refusal of a gift/debt framing, dismissal before sunbathing and deletion request are not empty stylistic noise. Formal choice, response and later agreement stay local. The adult’s invitation may produce a good experience, yet that does not establish that ignoring the first message was respectful or necessary. Misaki’s eventual conversational exception supplies a value she accepts rather than an unlimited justification he can reuse. [10041:002/003;20049:003/005.]"
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 129,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 130,
+      "line_sha256": "f27a158069f5172be9ec77abc9377172625c7361661cb48f9e009153e15c39ad",
+      "line_text": "The gift scene explicitly contests interpretive authority. Misaki offers something and frames limited gratitude, then denies other meaning and demands an answer. The adult’s grin and her embarrassment do not settle a hidden romance or overrule her description. The delivered eating has an actual endpoint; a giver’s motive can remain incompletely known while her requested limit is perfectly clear. This distinction permits warmth without mind reading. [EVENT810E076:u:0034–0051.]"
+    },
+    {
+      "frozen_line": 131,
+      "canonical_line": 131,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 132,
+      "line_sha256": "02eee1f5043d3ff84edec368a32112a8656e87e6f90b23a299e7e0c91dc28f16",
+      "line_text": "Physical and visual boundaries make the relation answerable. Misaki’s costume objection to being poked, and the sand scene’s immediate deletion request, remain exact local demands. The selected text has no completed deletion. Photo-as-memory language can therefore be ethically adverse rather than automatically a solution to impermanence. Her opinion of the activity need not be solved before her record preference is respected. [Costume1900942201:Lobby10;20049:003:u:0041–0044.]"
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 133,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 134,
+      "line_sha256": "7d095d2be95c796bbda0e6ce2ac06a7839660471d46f314ca27c91fa78cad024",
+      "line_text": "Public support also retains distributed agency. Saori interrupts the bridge crisis; companions act in rescue; Mika delays; Trinity care institutions mobilize. Sensei contributes significant help and an account of adult responsibility, without creating Misaki’s entire future or holding an unquestionable right to direct her life. MainV006’s surrender and schooling have uninspected legal terms. A meaningful literary ethic of presence must distinguish ordinary company, specific care and formal authority. [V003C004;V006C001–003.]"
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 135,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 136,
+      "canonical_line": 136,
+      "line_sha256": "49c28c1bda192206134c53a9cfa6ce6fc4c3c41ef9136c6809ccb320f6870c5c",
+      "line_text": "## 8. Peers: a shared predicament does not create a shared interior life"
+    },
+    {
+      "frozen_line": 137,
+      "canonical_line": 137,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 138,
+      "canonical_line": 138,
+      "line_sha256": "b79194c53483e43c7bfcf1442f3a8ff10f432fbc804b2a66cff366301e764ed0",
+      "line_text": "Saori’s relation contains both protective intervention and a subsequent transfer of care burden. Misaki joins her rescue mission, resists renewed sacrifice, and later remains with companions while Saori seeks an independent future. Childhood testimony about the carved doll supplies an older ordinary connection, not proof of current attachment or a complete history of mutual dependence. Separation, memory, continued care and fear remain together. No guaranteed return or permanently resolved bond is installed. [V003C004E008–027;10041:015.]"
+    },
+    {
+      "frozen_line": 139,
+      "canonical_line": 139,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 140,
+      "canonical_line": 140,
+      "line_sha256": "cd55d23c364c48bfce5e63603a1678dc863954f1bc1dad97a2d00493b7b12b72",
+      "line_text": "Atsuko’s survival matters directly to Misaki’s actions and reports. The later flower hope can answer fear without cancelling it. Gardening, school play and photography belong to Atsuko as specific wants; Misaki’s own solitude and limits need not become lesser versions of those wants. A treasured withheld Atsuko picture and Misaki’s requested deletion are two different uses of privacy. One owner values preserving a record, another rejects an unasked record. The comparison supports recipient agency without a universal photo preference. [V003C004E024–027;Atsuko26013:005;Misaki20049:003.]"
+    },
+    {
+      "frozen_line": 141,
+      "canonical_line": 141,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 142,
+      "canonical_line": 142,
+      "line_sha256": "7bd869b104d3a20fe786a180869c0257f81e669890484dd6aeca84311ddd9bb5",
+      "line_text": "Hiyori’s fashion enthusiasm and model wish remain independent. Misaki corrects the funding story; the correction does not discredit the joy or assert that Hiyori ought to give up fashion. Atsuko’s effort warning and gardening alternative are another position. The short three-person bridge provides differentiated ordinary lives within shared material difficulty, not a ranking of humble versus frivolous interests. [EVENT853E008:u:0004–0006/0012–0013/0023–0028.]"
+    },
+    {
+      "frozen_line": 143,
+      "canonical_line": 143,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 144,
+      "canonical_line": 144,
+      "line_sha256": "e38e2d9558799812ea1775a20a4fbf7062c59171c784fdf27b994bab56831b15",
+      "line_text": "Festival company also retains different recipients. Misaki can help protect a companion and find the setting excessive. Hiyori’s photo-prize preference and Saori’s refusal to demand universal accommodation belong to them. Pictures actually taken and distributed are positive; they do not make crowd, light and noise limits disappear or prove every future activity desirable. Companion care should be examined in the directions actually printed, including pressured protection and requested company. [EVENT838E004–021.]"
+    },
+    {
+      "frozen_line": 145,
+      "canonical_line": 145,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 146,
+      "canonical_line": 146,
+      "line_sha256": "46f2021ad213b78d3b377f58b32d5858b9ce7d510ed86aef01674b31575b44e2",
+      "line_text": "Maia and Subaru introduce Arius positions outside the returned Squad’s shared account. Attachments, staying-side grievances and repair work remain theirs. Misaki’s participation in later study does not answer every grievance, certify unanimous residents’ assent or authenticate an office. Anonymous Arius students, guard, manager, utility-related roles and festival labels stay source local. Repeated letters or shared schools do not provide global person joins. [V006C001–003;private/event attribution controls.]"
+    },
+    {
+      "frozen_line": 147,
+      "canonical_line": 147,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 148,
+      "canonical_line": 148,
+      "line_sha256": "28a8f8696dc78f914c4276956e9680e52ea57380fff07d6d5fcca4695330ee4f",
+      "line_text": "Azusa and the remedial friends also retain their chosen lives after the Squad’s public harm. Final’s Hanako accepts a conditional coalition, not a declaration that all former harms are erased. These bridges allow Misaki meaningful participation beyond one protective unit while keeping recipients’ claims available. The character’s future can widen without requiring them all to endorse one interpretation of her or her companions. [V003C003;FinalC002E015.]"
+    },
+    {
+      "frozen_line": 149,
+      "canonical_line": 149,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 150,
+      "canonical_line": 150,
+      "line_sha256": "f657f510f854e0a7d86c394943c031d92cc3436ebe63984ffcef69546651aaa8",
+      "line_text": "## 9. Written register: denial, pauses and profile narration remain different witnesses"
+    },
+    {
+      "frozen_line": 151,
+      "canonical_line": 151,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 152,
+      "canonical_line": 152,
+      "line_sha256": "559b9ebec4916a09de6f3608ca504d2d03022c91ccc5099eca8e5024e9cf61ce",
+      "line_text": "Both profiles give戒野ミサキ, second-year status,16,January13,163cm andひとりで過ごすこと. BaseStatus wishes for rain; summerStatus for sun. Those source-local statuses complicate preferences without dating a cured transition. The base description of low interest, self-destructive-seeming behavior and concealed bands is profile narration. It supplies no inspected wounds, method or diagnosis, and cannot convert every silence into a specific clinical sign. [character_data10041/20049.]"
+    },
+    {
+      "frozen_line": 153,
+      "canonical_line": 153,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 154,
+      "canonical_line": 154,
+      "line_sha256": "ac14622da7a0efc805ef9f1c9d80abca9d9f46bcfa2bfbe4bb6ced9bfdf77141",
+      "line_text": "Base10041 containsUITitle3918,CharacterGet3919,Cafe3920–3924,Lobby3925–3946,Lobby23947–3968,Weapon3969 andSpecial3970–3978. The repeated Lobby formulations are written contexts rather than another set of events. A masterless-hound/leash-order idiom is self-positioning, not an adult’s entitlement. Birthday presence can be welcomed beside death/birth reflection and thanks. Silence to avoid spoiling an atmosphere indicates a perspective, not absence of experience. Medicine-special parallels do not add another narrated medicine-taking episode. [Complete written10041 argument.]"
+    },
+    {
+      "frozen_line": 155,
+      "canonical_line": 155,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 156,
+      "canonical_line": 156,
+      "line_sha256": "86f0982b3f24626ca855fec4984a5bf27448c081706fe155a279a3abb1cf1cb0",
+      "line_text": "Summer20049 hasUITitle1/Get1,Cafe1–5,Lobby1–28,Weapon1 andSpecial1–9, with noLobby2. Clean water is a specific ordinary value. Asking what the teacher wants is not a delivered gift. Birthday thanks and a contrast between what she once would have said and a current undisclosed New-Year thought provide written differences without a synchronized narrative state edge. The sand-special echo does not make another successful castle. Third-person hidden-excitement language remains a separate perspective from direct dissent. [Complete written20049 argument.]"
+    },
+    {
+      "frozen_line": 157,
+      "canonical_line": 157,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 158,
+      "canonical_line": 158,
+      "line_sha256": "423340fd80c390ddfcb87e42043f9a4bea38a87af4c14ea654ff30f2e46e09b7",
+      "line_text": "Costume1900942201 binds20049 and has an emptyProfile. Its actual contexts areUIEventLobby838:1–13,10838:14–26 and900838:27–35. There is noMission orMiniGame class;900838 contains only the printed initial/Idle material. The earlier blocks’ specific pleasure and “not bad once,” quiet/crowd preferences, tentative danger appraisal, fresh air and poke objection remain their exact predicates. Stage company if the adult wants it is prospective, not a performed show or whole-event receiving. [Complete selected costume argument.]"
+    },
+    {
+      "frozen_line": 159,
+      "canonical_line": 159,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 160,
+      "canonical_line": 160,
+      "line_sha256": "10d83f32b5006cbaeb34c97563e518fadd92a9cf832e07ceb0f640c2607fc976",
+      "line_text": "Inward text, narrator overlays, logged Korean labels, formal choices, direct statements and whole messages remain different modes. The hotel’s overlay is not a visual inspection of a body; the sand’s logged craft does not turn every denial into a narrator’s direct psychological verdict. Responses to inward formulations complicate audible delivery without proving telepathy. The comparative public source retains Hiyori/anonymous actor drift rather than assigning every group phrase to Misaki. [10041:005;20049:003;V003/V006 mode qualifications.]"
+    },
+    {
+      "frozen_line": 161,
+      "canonical_line": 161,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 162,
+      "canonical_line": 162,
+      "line_sha256": "d22928c8a40e4126ced220fcefd4454445a36bc5a9fc49f10dab38bd2602c780",
+      "line_text": "This register supports a bounded interpretation of blunt refusal, dry correction, pessimistic argument, guarded thanks and particular affirmation. It does not support a fixed performed pitch, a medical inference or a law that every “boring” means enjoyment. The most consequential precision is that some meanings are explicitly left unsaid or denied while other goods are named. That distinction belongs to the literary account even when performed evidence remains unreceived."
+    },
+    {
+      "frozen_line": 163,
+      "canonical_line": 163,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 164,
+      "canonical_line": 164,
+      "line_sha256": "c147dd4d12c3347819eebe4e070f6882a2d3d028e7c30d4978f94c3afa24a38d",
+      "line_text": "## 10. Competing readings and their strongest tests"
+    },
+    {
+      "frozen_line": 165,
+      "canonical_line": 165,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 166,
+      "canonical_line": 166,
+      "line_sha256": "8ea4375f042f5c08e68447e77cbb729f562cf2655d63a20d3b8b1f2c95a5d1d8",
+      "line_text": "**“Misaki believes nothing has value and wants no relation.”** Body, island and futile-castle arguments provide strong direct support for this reading at particular times. Self-authored help, unwanted absence, craft assistance, a deliberate gift and named conversational value limit the universal conclusion. The text does not require her to abandon solitude or all futility arguments before a specific relation matters. [Complete private17;EVENT810E076.]"
+    },
+    {
+      "frozen_line": 167,
+      "canonical_line": 167,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 168,
+      "canonical_line": 168,
+      "line_sha256": "a2d5be5a90e8c21b9f13b731dbb835f9dee14a20b82eff415c3242e201b3a626",
+      "line_text": "**“Every refusal hides the pleasure Sensei correctly knows she wants.”** Summer profile narration and actual shared activity complicate direct denials. They cannot cancel the pressed walk’s bodily problem, repeated objections, dismissed message or deletion demand. The voluntarily supplied craft technique and independently named conversation provide firmer positive agency than a universal hidden-wish rule. [10041:003;20049:002/003/005;written20049.]"
+    },
+    {
+      "frozen_line": 169,
+      "canonical_line": 169,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 170,
+      "canonical_line": 170,
+      "line_sha256": "e9a61327278d049d25a913555f9f01b2a0f4532ca29c6278403f57976a6f7b5b",
+      "line_text": "**“Good intentions make the intervention necessary and harmless.”** Room, medicine, technical help, apology and company have substantial positive endpoints. Irritation, intrusion, child treatment, reluctance and unasked photography are adverse. The hotel prints no method or completed attempt that would license a fabricated emergency justification; the clearer public crisis belongs to another source. Positive care and answerability remain together. [10041:002/003/005;20049:003;V003C004.]"
+    },
+    {
+      "frozen_line": 171,
+      "canonical_line": 171,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 172,
+      "canonical_line": 172,
+      "line_sha256": "10fe131ad919f36785cfc0f743d21baae19bebdfb1b114d38f65ca2370cca717",
+      "line_text": "**“A pleasant ending certifies enduring recovery.”** Joined rescue, medicine-taking, craft, a gift and conversation show changed acts and local good. Distress, sadness, insecure shelter and continued disagreement remain. No diagnostic discharge or permanent optimistic stance is supplied. Her life’s value is not contingent on becoming consistently cheerful or useful. [V003C004;private17.]"
+    },
+    {
+      "frozen_line": 173,
+      "canonical_line": 173,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 174,
+      "canonical_line": 174,
+      "line_sha256": "5b0218cd262968dc9260c959a887f9ea3fa9d010e98b1234375aa542ac1495ca",
+      "line_text": "**“The recovered doll proves a cherished secret attachment.”** Childhood carving and play support past value. Misaki expressly denies current attachment, qualifies the past and asks for the object’s return. Thanks does not settle the contested framing or narrate handback. A serious reading can retain memory while respecting an incomplete or changed present relation to the object. [10041:015.]"
+    },
+    {
+      "frozen_line": 175,
+      "canonical_line": 175,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 176,
+      "canonical_line": 176,
+      "line_sha256": "cbaf7e1856ecf1e8e861d7f41c48b406ee6ad0486284ac3aabad43a7d30fc534",
+      "line_text": "**“A photograph solves the sandcastle’s impermanence.”** The photo alternative offers a record of work, and her contribution was real. The castle still collapses, and the record is unasked at the level indicated by her reaction. She demands deletion, with no completed deletion printed. The adult’s solution is therefore ethically contested rather than universal proof that nothing was lost. [20049:003.]"
+    },
+    {
+      "frozen_line": 177,
+      "canonical_line": 177,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 178,
+      "canonical_line": 178,
+      "line_sha256": "9981220a27b4a95fe5e4387784ef4dd14010fc5976ef0fd0dd466cbf661af941",
+      "line_text": "**“Protective duty is only a pretext for romance.”** Pocket hesitation, gift and blush allow an affectionate reading. Utilities/routes and quickly completed duties have actual textual standing; explicit denied meaning and requested response are equally clear. A settled secret motive would erase both work and interpretive boundary. Care can be present without an exclusive-romance verdict. [EVENT810E076.]"
+    },
+    {
+      "frozen_line": 179,
+      "canonical_line": 179,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 180,
+      "canonical_line": 180,
+      "line_sha256": "6c78d555d7eb530b01123cb560659863b19268653c6e3ae0fd2ae8554b7dfc49",
+      "line_text": "**“Public harm makes later private help undeserved.”** Squad wrongdoing and independent injured recipients remain consequential. They do not turn all deprivation or bodily distress into rightful punishment, and they do not remove the person’s claim to an answerable future. Conversely, private need cannot absolve the public operation. The public and private arguments require both responsibility and the possibility of care. [V003C003/C004;V006;private17.]"
+    },
+    {
+      "frozen_line": 181,
+      "canonical_line": 181,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 182,
+      "canonical_line": 182,
+      "line_sha256": "d470f5047c5e85905aa2b2fbd63913acd5ab4ca90c6ea7ac8bd64dde2f0019a2",
+      "line_text": "The central argument survives these contrary cases because it is specific. Misaki can name value and contest its framing, ask for presence and decline contact, care for companions and remain insecure. Company gains meaning when those differences remain available rather than being solved into one observer’s victory."
+    },
+    {
+      "frozen_line": 183,
+      "canonical_line": 183,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 184,
+      "canonical_line": 184,
+      "line_sha256": "bc975ad429ca5f09919dfd2aaf8e7733fb081bc6cc2f8e4aaeca382f8f169580",
+      "line_text": "## 11. Evidence routes, fourteen open gaps and completion boundary"
+    },
+    {
+      "frozen_line": 185,
+      "canonical_line": 185,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 186,
+      "canonical_line": 186,
+      "line_sha256": "3395068b70b82d679b73cd4cb225ad4f3adcaecd4e3f29a538db931f1d708c3b",
+      "line_text": "Canonical target:`series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MISAKI_CHARACTER_MONOGRAPH.md`. ROOT independently received and accepted the complete bounded literary argument with limits. The exact receipt distinguishes current whole accepted arguments, fresh spans and three necessary complete Japanese objects, with saved paragraph hashes and actual custody."
+    },
+    {
+      "frozen_line": 187,
+      "canonical_line": 187,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 188,
+      "canonical_line": 188,
+      "line_sha256": "227ee68edf75b00659497462197c2b47672702eff163c86fafeb40d3c524b118",
+      "line_text": "| Responsibility | Exact owner or IDs | Contribution and limit |"
+    },
+    {
+      "frozen_line": 189,
+      "canonical_line": 189,
+      "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+      "line_text": "|---|---|---|"
+    },
+    {
+      "frozen_line": 190,
+      "canonical_line": 190,
+      "line_sha256": "559aaed985d2b6c6ec2d098281d108f7151cd98652b34be70c25746bd401263e",
+      "line_text": "| Misaki17 | `02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md` | Personally complete826-line owner reused; Misaki7B+7wholeMM+3written. Hiyori15/Subaru11 separate. Cycle008 governs old producer status clauses. |"
+    },
+    {
+      "frozen_line": 191,
+      "canonical_line": 191,
+      "line_sha256": "4d8b252fc91f3385c2be0e442cf53ccccb6a8a4ed55ed074ea64f4931b78b692",
+      "line_text": "| Base10041 | BOND002/003/005/015;wholeMM100410010/070/110/230 | Release/apology/sadness, pressed walk/correction, requested care/actual medicine, found bag/past doll/current denial. Two W15 alternatives atE015 are one pair. |"
+    },
+    {
+      "frozen_line": 192,
+      "canonical_line": 192,
+      "line_sha256": "51c289cf9c5b4a5ea5d4d9c85704d5a6b0619b2c39ee975dba958f26038f739b",
+      "line_text": "| Summer20049 | BOND002/003/005;wholeMM200490010/150/210 | Pressed swimming, voluntary craft/collapse/delete request, cloudy day/valued conversation; no mastery, deletion or cure invented. |"
+    },
+    {
+      "frozen_line": 193,
+      "canonical_line": 193,
+      "line_sha256": "c16d8122b1e1b43086d0ef07ad70fac404a1b477e967bc9eea6fea3bc221cb21",
+      "line_text": "| Written3 | character_data10041/20049;costume1900942201→20049 | Exact solitude preference, narrator-profile conditions and context blocks. No wounds/gesture/performed inference. |"
+    },
+    {
+      "frozen_line": 194,
+      "canonical_line": 194,
+      "line_sha256": "be6afc45de31c0034537d13bfb967d9fe44d691d073019e835922497a93adfe9",
+      "line_text": "| V003 | Complete maintained account andC003/C004 checkpoints | Harmful operation, bridge-side crisis/intervention, rescue reports/protest, care burden and insecure aftermath. |"
+    },
+    {
+      "frozen_line": 195,
+      "canonical_line": 195,
+      "line_sha256": "61daed9adba22e35f527cb48e1a22af2014a2eec51d1a2542f6fb7a81aacdcf3",
+      "line_text": "| V006 | Complete maintained account and three chapter checkpoints | Independent stayers’ positions, reported legal settlement, real learning and provisional school/repair. |"
+    },
+    {
+      "frozen_line": 196,
+      "canonical_line": 196,
+      "line_sha256": "ffb45f869fddc7b98de4e46684ba87590e167f38d71297653d29bb3301f9ff46",
+      "line_text": "| Final | Complete maintained account/fourchapters;C002E015/C004E010 | Conditional coalition and companions’ separate onward relations, not full battle or employment settlement. |"
+    },
+    {
+      "frozen_line": 197,
+      "canonical_line": 197,
+      "line_sha256": "73f54719a4dbc5203c720dbff3465e65550f1d1ec8cadb2b7edeef4a54a35eac",
+      "line_text": "| EVENT810 | Complete102-object current owner reused;completeE076 deep argument | Concrete duties, deliberated gift, denied meaning and adult eating; no mutual-eating or full safety certificate. |"
+    },
+    {
+      "frozen_line": 198,
+      "canonical_line": 198,
+      "line_sha256": "72b3ae78fb237650f70c8da033d4b07c828c3230b5e8f637c1cbada97be1b2a4",
+      "line_text": "| EVENT838/853 | Complete21/13-object current owners and prior exact rosters reused | Protection/company with different recipients; actual photos; funding correction, fashion and gardening remain distinct wants. |"
+    },
+    {
+      "frozen_line": 199,
+      "canonical_line": 199,
+      "line_sha256": "f3bf93c1e164e0f8d8f1a3970fbe68673befd3968053d80b4eaa0ecb94c59c60",
+      "line_text": "| GROUP context | Accepted V003/V006 relevance scopes | Surrounding care/sponsorship without fictitious Squad-owned sequence, direct membership or substituted private evidence. |"
+    },
+    {
+      "frozen_line": 200,
+      "canonical_line": 200,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 201,
+      "canonical_line": 201,
+      "line_sha256": "ba3903e5a5de34c3d67212cc028b169bc4b7504902cd5d362c134a7edccbcf0b",
+      "line_text": "All original fourteen gaps remain **OPEN** and constrain the following stronger propositions."
+    },
+    {
+      "frozen_line": 202,
+      "canonical_line": 202,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 203,
+      "canonical_line": 203,
+      "line_sha256": "2416921fe372cb665ec0dcfe7e3679c0be3bbc64f18c0b1e78c47dd052ddfc6a",
+      "line_text": "| Gap | Claim-specific limit and required witness |"
+    },
+    {
+      "frozen_line": 204,
+      "canonical_line": 204,
+      "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+      "line_text": "|---|---|"
+    },
+    {
+      "frozen_line": 205,
+      "canonical_line": 205,
+      "line_sha256": "4e4c0bc214eab63d68b37df811c79be031f047d15faca89204644c49e8c439a6",
+      "line_text": "| G01 ordinary/private | Complete17 establishes particular wants, refusals and outcomes. Actual later handkerchief/doll return, image deletion, restored castle, next meeting and other promises need their own endpoints. |"
+    },
+    {
+      "frozen_line": 206,
+      "canonical_line": 206,
+      "line_sha256": "4fad5c24b800a2d4f5b8e624c02e354ae887b85c198abc7f35fd9facb1b36594",
+      "line_text": "| G02 Yuuka | Work/care analogy creates no direct Misaki/Yuuka relation or transferred complete family scope. |"
+    },
+    {
+      "frozen_line": 207,
+      "canonical_line": 207,
+      "line_sha256": "ebf68fec4844efcd47d0b6ae274f8c37619932404be74633970798a1bcfde672",
+      "line_text": "| G03 Serika | Shared deprivation or street settings do not authenticate Serika’s labor or a common remedy. Independent source-located argument is required. |"
+    },
+    {
+      "frozen_line": 208,
+      "canonical_line": 208,
+      "line_sha256": "57e28fe7435ebdc196b80f23b8218c0a3805928b1f7ee0482544abe9aa369848",
+      "line_text": "| G04 Hina | Parallel distress or public conflict supplies no exact causal/repair link or synchronized private state. |"
+    },
+    {
+      "frozen_line": 209,
+      "canonical_line": 209,
+      "line_sha256": "e713833d4254a6cbe44f4ff29a44fae8a14eb6f112bd71ee70d1c16504e6cdd7",
+      "line_text": "| G05 Arius/PS68 | Misaki’s care and independent peers are received. Permanent shelter, every companion’s private judgment, directed PS68 ties and full repair remain separate duties. |"
+    },
+    {
+      "frozen_line": 210,
+      "canonical_line": 210,
+      "line_sha256": "cfd254a56f1bd18d6d7741e6158b37789594c8b76fd330b642cdd98717c430a9",
+      "line_text": "| G06 cross-school | Actual coalition and surrounding GROUP context support bounded comparison, not universal affiliation or unanimous acceptance. |"
+    },
+    {
+      "frozen_line": 211,
+      "canonical_line": 211,
+      "line_sha256": "03b2518ee6d752b84b07d28d6a854bdabd8579ed6e00b0e2ae83b474f40114ad",
+      "line_text": "| G07 chronology | Local prior swim/message references remain positive. Releases, variant order and public/private similarity do not date a global recovery path or post-parole visit. |"
+    },
+    {
+      "frozen_line": 212,
+      "canonical_line": 212,
+      "line_sha256": "2e6a554ce3712132f9a833aff20641f9f6185ed97118ce1ec51f63e79acf3ec9",
+      "line_text": "| G08 names/local IDs | Costume838/10838/900838 blocks are written aliases; local role letters and event numbering do not create extra trips, people or years. |"
+    },
+    {
+      "frozen_line": 213,
+      "canonical_line": 213,
+      "line_sha256": "4cbdd80dffeeabb2e4c2da09948fcb841111041c0fd5384a122d2d0ba95d747f",
+      "line_text": "| G09 attribution/choices | All formal private alternatives and whole tails remain represented. Public Hiyori/anonymous drift restricts isolated lines; inward-response tensions need exact local witnesses for audible ownership. |"
+    },
+    {
+      "frozen_line": 214,
+      "canonical_line": 214,
+      "line_sha256": "9472e149490b5951fc294b5178999ded5f874789db768d7d889312e21e1eaa9d",
+      "line_text": "| G10 audiovisual | Logged craft, water, blush, bands, photos and stage text are not inspected visual/performed evidence. No clinical method, gesture decoding, image subject or voice quality follows. |"
+    },
+    {
+      "frozen_line": 215,
+      "canonical_line": 215,
+      "line_sha256": "d6ae90d1705ed4f3316d738bdd43bc178911467c1286859298c48d6d5d462cfd",
+      "line_text": "| G11 records/office | Collective schooling, test reports and repair proposals lack full charter, gradebook, budget and archive authentication. Misaki receives no invented office. |"
+    },
+    {
+      "frozen_line": 216,
+      "canonical_line": 216,
+      "line_sha256": "c53a6a9d7385f5679c34eb3bee20dc9814b6e284587afb40036e0344cf340b94",
+      "line_text": "| G12 identity/variants | Exact戒野ミサキ/person key and10041/20049 plus costume relation are bounded comparison. No synchronized body history or extra person is counted. |"
+    },
+    {
+      "frozen_line": 217,
+      "canonical_line": 217,
+      "line_sha256": "ae29db7e6fc172b5a625df3616a05f15ad7ad42eec3b7b981cfde78c2f9ec40a",
+      "line_text": "| G13 technical/clinical/legal | Self-labeled claustrophobia/hay fever, guessed cold, actual medicine and public crisis remain distinct witnesses. Diagnosis, lasting recovery, safe utilities, custody/permission and image deletion need explicit evidence. |"
+    },
+    {
+      "frozen_line": 218,
+      "canonical_line": 218,
+      "line_sha256": "18070b4b615816cde69a49b403813916e27f898f3fd0e340ff8c587440021697",
+      "line_text": "| G14 modes | Report, denial, plan, inward text, narrator/log, choice and completed act stay separate. Profile hidden excitement does not overrule every refusal, and public crisis does not fill the hotel’s omitted method. |"
+    },
+    {
+      "frozen_line": 219,
+      "canonical_line": 219,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 220,
+      "canonical_line": 222,
+      "line_sha256": "c1aa0ccd926df08bf19c4f87ff9238df46d64e83044881b99843cd14b0189c44",
+      "line_text": "No mandatory recovery is known to remain for the bounded claims asserted here. The complete Japanese hotel confirms its explicit care, anger, absence and medicine ending without a printed method; the complete sand scene confirms craft, collapse and deletion request; the whole final summer message confirms continued cloud and a conversational exception. Stronger clinical, legal, visual, chronological and institutional assertions require the named witnesses. Unfulfilled or refused ends remain legitimate literary limits."
+    },
+    {
+      "frozen_line": 221,
+      "canonical_line": 223,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 222,
+      "canonical_line": 224,
+      "line_sha256": "542e71c4a9ea9e1a76c87635adafe0d625fa734ef1532fe2e4884d160ba3aed4",
+      "line_text": "Completion of this monograph is separate from full Phase3 completion. Directed Misaki–Sensei, Misaki–Saori/Atsuko/Hiyori, remaining Squad/stayer and cross-school relations; differentiated Arius ensemble and institutional repair; and written-register/ethics packages remain required justified specialist work. ROOT alone receives/adopts, reconciles full-cast responsibilities and determines integration/merge milestones. This monograph grants no global registry, model, new denominator, quarter, remote publication or merge result."
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        220,
+        219
+      ],
+      "canonical_lines": [
+        220,
+        221
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "**Stable original G11 — Hoshino's Yume record and office states: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MISAKI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved records/office row remains a local contribution; it does not replace the independent Hoshino–Yume record and office-state duty. No gap closure or new source, primary, literary, model or count credit follows.",
+        ""
+      ]
+    }
+  ],
+  "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+  "terminal_LF_preserved": true,
+  "schema": "BLUE_ARCHIVE_EXACT_OLDER_STABLE_GAP_ASSOCIATION_TRANSPORT_V1",
+  "status": "ROOT_ACCEPTED_EXACT_ASSOCIATION_INSTALLATION_PENDING",
+  "original_source": "5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+  "earlier_original_source": "92184703994a1950a5660654ce52d8516dbe9bf5",
+  "original_G14_line": 218,
+  "exact_added_paragraph": "**Stable original G11 — Hoshino's Yume record and office states: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MISAKI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved records/office row remains a local contribution; it does not replace the independent Hoshino–Yume record and office-state duty. No gap closure or new source, primary, literary, model or count credit follows.",
+  "complete_byte_inverse": {
+    "unchanged_prefix_bytes": 43755,
+    "exact_inserted_UTF8_text": "\n**Stable original G11 — Hoshino's Yume record and office states: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MISAKI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved records/office row remains a local contribution; it does not replace the independent Hoshino–Yume record and office-state duty. No gap closure or new source, primary, literary, model or count credit follows.\n",
+    "exact_inserted_bytes": 490,
+    "unchanged_suffix_bytes": 1061,
+    "inverse": "Remove precisely the inserted span beginning at the unchanged prefix byte length; entire original bytes/hash/blob are recovered."
+  },
+  "original_local_gap_rows_unchanged": true,
+  "current_ROOT_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEVEN_OLDER_STABLE_GAP_ROOT_ACCEPTANCE_AND_TRANSPORT_V1.json",
+  "older_public_saved_and_ROOT_tuple_qualification": "Earlier immutable author/ROOT/saved-output records bind their exact pre-association derivative, not the new current derivative. This exact transport controls only the approved zero-credit gap association; prior literary/source custody is unchanged.",
+  "all14_gaps": "OPEN_UNCHANGED",
+  "new_credit": 0
+}
