@@ -14,7 +14,7 @@ Recorded assessments of subjects in the `kamakura-sho` namespace of the [Charact
 
 #### Assessment `kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-studies-20261114-01`
 
-- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Recorded status: `STALE` — historical record; not current readiness
 - Entity: `kamakura-sho:asumi-ogasawara`
 - Scope: continuity `original-novel`
 - Source boundary: Only the subject's two curated REVIEWED items at basis\_commit, each read in full with its front matter: the canonical KSOA-G1 character monograph KSOA\_ASUMI\_OGASAWARA.md and the canonical KSOA-G1 directed relationship study KSOA\_PARTNERSHIP.md. Both are repository analysis of the seven accepted Japanese publisher EPUBs \(文春文庫 V01-V07, through V07 EPI p\[0151\] and KSOA-V07-H-0015\), and both mark themselves do\_not\_use\_as\_literary\_evidence, so they are analysis, not quotation sources. Most narration is focalized through Motoya, and the items separate her acts and explanations from his readings of her. The ledger entries, deep readings, project reconstruction specification and post-V07 readiness audit that the items link were read only as method context; they are not curated on this subject and no claim rests on them. Motoya's monograph and capability state are not borrowed.
@@ -22,7 +22,7 @@ Recorded assessments of subjects in the `kamakura-sho` namespace of the [Charact
 - Basis commit: `ba293c95436e3ebba51e57b144dedb59b802d19d`
 - Evidence set: `CHARACTER_EVIDENCE_SET_V1` `6424ead402a9a8001560fed1115665692e046caff07ec40e91682fd20f4bd9db`
 - Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, applying the owner calibration rulings recorded there \(B/C boundary, single counting of uncertainty, dialogue constrained-use test, chronology splits, relationship-transfer safeguards and control-state attribution\); evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
-- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Overall tier: historical `C` — specialist-supported interpretation without unconstrained simulation support
 - Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
   - `DIALOGUE` condition: Use is illustrative reconstruction in Japanese at a named volume, never attributed quotation.
   - `DIALOGUE` condition: Address and self-reference follow the sampled audience: あたし and 吉川くん with Motoya, 鎌倉署の小笠原 identification and courtesy with witnesses and craftspeople, explicit rank statement when a witness presumes Motoya's precedence.
@@ -46,6 +46,7 @@ Recorded assessments of subjects in the `kamakura-sho` namespace of the [Charact
 - Evidence at basis commit:
   - [`kamakura-sho:asumi-ogasawara@original-novel#ksoa-g1-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ba293c95436e3ebba51e57b144dedb59b802d19d/series/kamakura-sho/studies/KSOA_ASUMI_OGASAWARA.md)
   - [`kamakura-sho:asumi-ogasawara@original-novel#ksoa-g1-partnership-study`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ba293c95436e3ebba51e57b144dedb59b802d19d/series/kamakura-sho/studies/KSOA_PARTNERSHIP.md)
+- Stale reason: reconstruction\_status.py currentness at main 57a2a2026b88f3c9d09fbe0b4f90b62c4d768690 reports EFFECTIVELY\_STALE with reason EVIDENCE\_BYTES\_CHANGED: Kamakura-sho commits 8ece7539 and 5cad0cd4 \(PR \#598, reconciliation with an independent blind reading\) changed the referenced bytes of kamakura-sho:asumi-ogasawara@original-novel\#ksoa-g1-character-monograph \(KSOA\_ASUMI\_OGASAWARA.md, rewritten as v2.0\) and kamakura-sho:asumi-ogasawara@original-novel\#ksoa-g1-partnership-study \(KSOA\_PARTNERSHIP.md, revised to v1.1\). Discovery membership, scope and coverage are unchanged and both items remain canonical; a reassessment at a newer basis is required before this assessment applies.
 
 ### Subject `kamakura-sho:motoya-kitsukawa@original-novel`
 
@@ -55,7 +56,7 @@ Recorded assessments of subjects in the `kamakura-sho` namespace of the [Charact
 
 #### Assessment `kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-studies-20261114-01`
 
-- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Recorded status: `STALE` — historical record; not current readiness
 - Entity: `kamakura-sho:motoya-kitsukawa`
 - Scope: continuity `original-novel`
 - Source boundary: Only the subject's two curated REVIEWED items at basis\_commit, each read in full with its front matter: the canonical KSOA-G1 character monograph series/kamakura-sho/studies/KSOA\_MOTOYA\_KITSUKAWA.md and the canonical directed partnership study series/kamakura-sho/studies/KSOA\_PARTNERSHIP.md. Both are repository literary analysis of the seven Japanese publisher novels \(文春文庫\) through V07 EPI p\[0151\] and KSOA-V07-H-0015. The ledgers, deep readings, claim-revision entries and the project's reconstruction specification and readiness audit that these studies link are not curated on this subject; the ledger and reading locators cited below are quoted from the two studies as their own citations, and no claim rests on unread linked material. No primary-source inspection was performed.
@@ -63,7 +64,7 @@ Recorded assessments of subjects in the `kamakura-sho` namespace of the [Charact
 - Basis commit: `6238b9e49be575ab682092ce353940d194b9c6c3`
 - Evidence set: `CHARACTER_EVIDENCE_SET_V1` `853e49b30a1b4ef185b69e1aa8a906f50da885b3f8530320a392ec6f8743765c`
 - Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, applying the owner calibration rulings recorded there \(B/C boundary, single counting of uncertainty, dialogue constrained-use test, chronology splits, relationship-transfer safeguards and control-state attribution\); evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
-- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Overall tier: historical `C` — specialist-supported interpretation without unconstrained simulation support
 - Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
   - `DIALOGUE` condition: Use is illustrative reconstruction of a named V01-V07 state, never attributed quotation; Japanese lines presented as canon are retrieved from the witnesses.
   - `DIALOGUE` condition: Self-reference and address follow the sampled audiences: 俺 and surname with Asumi, mock rank title in deference-protest, 吉川です in official introduction, 僕 with Nagasaka; unsampled audiences are lower confidence.
@@ -88,3 +89,4 @@ Recorded assessments of subjects in the `kamakura-sho` namespace of the [Charact
 - Evidence at basis commit:
   - [`kamakura-sho:motoya-kitsukawa@original-novel#ksoa-g1-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6238b9e49be575ab682092ce353940d194b9c6c3/series/kamakura-sho/studies/KSOA_MOTOYA_KITSUKAWA.md)
   - [`kamakura-sho:motoya-kitsukawa@original-novel#ksoa-g1-partnership-study`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6238b9e49be575ab682092ce353940d194b9c6c3/series/kamakura-sho/studies/KSOA_PARTNERSHIP.md)
+- Stale reason: reconstruction\_status.py currentness at main 57a2a2026b88f3c9d09fbe0b4f90b62c4d768690 reports EFFECTIVELY\_STALE with reason EVIDENCE\_BYTES\_CHANGED: Kamakura-sho commits 8ece7539 and 5cad0cd4 \(PR \#598, reconciliation with an independent blind reading\) changed the referenced bytes of kamakura-sho:motoya-kitsukawa@original-novel\#ksoa-g1-character-monograph \(KSOA\_MOTOYA\_KITSUKAWA.md, rewritten as v2.0\) and kamakura-sho:motoya-kitsukawa@original-novel\#ksoa-g1-partnership-study \(KSOA\_PARTNERSHIP.md, revised to v1.1\). Discovery membership, scope and coverage are unchanged and both items remain canonical; a reassessment at a newer basis is required before this assessment applies.
