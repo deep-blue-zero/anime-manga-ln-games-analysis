@@ -1,0 +1,45 @@
+---
+title: "Shiboyugi — Momono"
+artifact_id: SBY_MOMONO_MONOGRAPH
+artifact_type: character_monograph
+series: shiboyugi
+subject_id: SBY-P004
+version: "1.0"
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_generation: SBY-INITIAL
+authority_scope: "Standalone literary portrait of the Japanese novel continuity through V10"
+source_boundary: "The admitted Japanese main narratives and original visual layers of SBY-JP-V01-W01 through SBY-JP-V10-W01"
+canonical_home: series/shiboyugi/characters/SHIBOYUGI_MOMONO_MONOGRAPH.md
+created: 2026-11-15
+last_updated: 2026-11-15
+recommended_reasoning_class: DEEP_SYNTHESIS
+---
+
+# Momono
+
+Momono (桃乃, モモノ) tells the other women in Ghost House that she was deceived into participating and would give up the prize to return safely. Her fear is plainly visible. It changes what she tries first and whose reassurance she seeks. As the game progresses she tests routes, asks the question that makes the others look directly at a disturbing event, and does something for the veteran that the veteran thinks the apparently steadier Beniya could not manage at that moment. The Japanese novel material through V10 leaves her at the open door. This portrait contains V01 spoilers and preserves that last observed position.
+
+## A claim about entry, and the earliest choices we see
+
+Momono introduces herself while crying in a room with five other players dressed more or less alike. She says she was deceived. Kinko provides the account of an attractive paid job and a loss of consciousness before arrival. The distinction matters because Kinko is doing the explaining while Momono is struggling to speak. Momono's own priorities are clear enough: she says she needs no money if she can get out safely, then stops talking. The narrated assessment of her appearance and voice leads Yūki to guess that the operators actively sought her out for her appeal. Later the same observer regards a need to fill places as plausible. Neither account shows what the recruiter actually sought. The circumstances of her consent, the name she used in ordinary life and the original job's contact remain unknown. (V01 S12 P0209–0224/P0607–0609.) [Ghost House's introductions and trust tests](../readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e002--earned-trust-and-a-dangerous-familiar-room)
+
+Momono generally stays close to another person as fear rises. Beniya strokes her back at the table, and Momono holds on to Yūki when the others decide to travel together. The apparent need for reassurance accompanies a real preference for methods she considers less dangerous. When their first search fails she proposes going over the known route again before searching more deeply, telling the group that the more invasive search frightens her. Yūki considers this reasonable. In the next chamber Momono actually tries the door they came through and calls the others' attention to the closed retreat. Kokutō's death earlier had strongly affected her. That response does not prevent her from gathering information or proposing an alternative. (V01 S12 P0224–0226/P0286–0309/P0352–0362/P0406–0411.) [Finding the familiar room and losing the way back](../readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e002--earned-trust-and-a-dangerous-familiar-room)
+
+## Care and self-preservation
+
+The game next separates each participant inside a subdivided room. After freeing herself, Beniya uses the opening again to get the shared keys to Momono before the two still at risk. Momono receives them and the reader sees Kinko obtain them directly from her later. The view does not establish each person's private intention in the second transfer. After the partition is gone, Momono notices that Aoi's body lacks the red color she expects and asks why. It is a concrete question about a frightening scene. Beniya follows the answer to the implication that their bodies were modified prior to play and then falls silent, visibly shaken. This time Momono strokes Beniya's back. The relation has a real direction of change. The person whom Beniya helped speak and keep going now provides steadiness Beniya cannot summon alone. It does not yield either woman's prior history of the other or explain her choice under a different pressure. (V01 S12 P0517–0548/P0566–0597.) [Preferential aid and its reversal](../readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e004--altered-bodies-and-the-price-of-leaving-nobody-behind)
+
+At the lift she suggests splitting the four survivors into two pairs, seeking confirmation. Beniya shows the notice limiting it to one use. Momono loses her first way of imagining how everybody can go. After Kinko volunteers to stay, Momono takes Yūki's hand and hesitates to let her leave to recover Kinko. Yūki reads that action as support for leaving as a group of three. The look Beniya gives and Momono's uncertain sounds are part of Yūki's evidence. When Yūki explains why Kinko's choice makes it harder for the others to escape, Momono lets go and assents to Yūki continuing. Her later frank reply, that given the situation what else could one do, lends weight to the initial reading. It does not establish the exact form of her thought while she held the hand. Her desire that no one be left and her readiness to consider what three might do coexist under changing available choices. (V01 S12 P0624–0657/P0685–0704/P0710–0736/P0880–0887.) [The lift and the unsettled value of self-sacrifice](../readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e004--altered-bodies-and-the-price-of-leaving-nobody-behind)
+
+When the group agrees to incur injury to take the lift together, Yūki asks Momono to help her first. Yūki judges Beniya's distress and Kinko's weakened condition more consequential than Momono's visibly fearful manner. Momono actually helps. The narrator deliberately elides many details of the procedure. The known outcome, four people making the lift work, gives this action a weight that the group never had occasion to give her first tears. The inference is modest but significant. Crying, seeking help and acting in a demanding situation can be successive responses by the same person. They serve different ends. (V01 S12 P0798–0834.) [The choices that get four people to the lift](../readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e004--altered-bodies-and-the-price-of-leaving-nobody-behind)
+
+## Speech and the look beyond the door
+
+Her dialogue under uncertainty frequently starts with あの or その and leaves a clause unfinished. Two distinct modes are audible in the written rendering. At the lift she expresses a tentative proposal as いい……ですよね, appealing to the others to confirm it. After Aoi's death her otherwise hesitant question is precise, なんで、赤くないんですか. Silence and hesitation mark emotional pressure without giving every incomplete phrase the same meaning. On the walk out she thinks talking about survival plans sounds ominous, then joins in. She says she wants ramen after all the sweets available inside and explicitly denies a special liking for it. She then asks Beniya what she would do. That supplies a momentary appetite and initiative in a conversation about ordinary life. It cannot carry an enduring culinary profile. (V01 S12 P0408–0410/P0567–0574/P0639–0649/P0847–0865.) [Different heard registers and responses in Ghost House](../readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e012--where-the-text-lets-a-voice-be-heard)
+
+When the people-shaped lights imply another loss, Momono laughs at the first implication and asks whether there is a less awful interpretation. The question is both a wish and a consequence of what she has learned: the room with the lift did have an alternative to leaving one whole person behind. Beniya supplies her own distinct hypothesis. Yūki kills Kinko and opens the door before either can develop a test. Momono stands inside with Beniya as Yūki steps out. Their confirmed status is living as last seen. Momono's request for reassurance, her actual care and Beniya's directed help support a close situational bond. The narration's teasing speculation about the pair comes from Yūki and supplies no firsthand romantic or intimate evidence. No later private preferences, ordinary occupation or home plans beyond the immediate wish to return are established. (V01 S12 P0594–0597/P0909–0932.) [Competing last-door interpretations](../readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e005--the-final-lock-and-the-things-a-rule-makes-possible)
+
+Under a similarly frightening, ambiguous constraint, Momono can first seek a familiar route or a clear word of reassurance, and can make a practical contribution once she sees who needs it and why. Her decision to let Yūki act after a material explanation is better grounded than a prediction of uniform self-sacrifice. Her care for Beniya and help with the lift are equally strong constraints on treating her as someone others simply have to carry. The portrait has no secure basis for predicting how she would choose work, intimacy or voluntary participation in a later game.
