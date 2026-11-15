@@ -27,15 +27,15 @@ The central reading question is: what does the admitted prose let a reader estab
 
 No narrative has been read for this INITIAL foundation. The title motivates possible questions about asserted rules, enforced constraints and material livelihood, but it establishes none of their narrative forms. Do not assume a protagonist, game cycle, institution, debt, economy, cast, narrator, chronology or recurring ontology from the title. The future source can earn, alter or retire these design questions.
 
-The lock is CLOSED. This method neither authorizes admission nor certifies owner approval, narrative understanding or reconstruction readiness.
+The [current entrypoint](CURRENT_STATE_AND_CORPUS_MAP.md) records the live reading gate and authorization. This method governs reading within that declared scope.
 
 ## 2. Unit and source contract
 
 The initial candidate backbone is the supplied numbered volumes 01–10. The normal future closure unit is one admitted volume, with chapter or dramatic-movement captures inside it. Internal segmentation follows actual headings, changes of setting or participants, goal changes, disclosure shifts and narrative form. It must not follow arbitrary extraction chunks or an assumed one-game-per-volume pattern.
 
-Before reading, bind the selected witness to its exact source receipt and component map. Keep distinct the state of a file being present, transport-verified, byte-bound, admitted, inspected and closed. All current files are merely available with metadata matched to the supplied audit. Ten available units are not a continuous-run authorization.
+Before reading, bind the selected witness to its exact source receipt and component map. Keep distinct the state of a file being present, transport-verified, byte-bound, admitted, inspected and closed. At bootstrap the ten available files were matched to the supplied audit by metadata alone. Recover current availability through the source register and active authorization through the entrypoint.
 
-Electronic bonuses require special care: every recorded title includes an electronic-bonus designation, yet the components are not mapped. Separate main narrative, bonus narrative, illustrations, creator statements, advertisements and previews before exposing their content to the reader. Only explicitly admitted components enter the reading. A bonus may be later-disclosing or independent; do not classify it by its filename alone. Record the actual release position, narrative position if established and admission order independently.
+Electronic bonuses require special care: every recorded title includes an electronic-bonus designation. The source register records current component mapping and unresolved admission obligations. Separate main narrative, bonus narrative, illustrations, creator statements, advertisements and previews before exposing their content to the reader. Only explicitly admitted components enter the reading. A bonus may be later-disclosing or independent; do not classify it by its filename alone. Record the actual release position, narrative position if established and admission order independently.
 
 Japanese prose governs narration, register, wording and speech claims. A gloss is labeled as an analyst's translation. A translation or adaptation can be a separately admitted comparison witness, never an invisible substitute. Textual variants require separate witnesses and a map of additions, deletions, substitutions or relocations before explanations are proposed.
 
@@ -165,4 +165,4 @@ Editorial clarification cannot silently change who acted, thought or knew someth
 
 This method inherits the [handoff contract](../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md), [archive policy](../../governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md), [medium policy](../../governance/source-policies/MANGA_ANIME_MEDIUM_AND_INSPECTION_LANE_ROUTING_POLICY.md) and [reasoning policy](../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md). The architecture specifies specialist and release gates, preferred stage owners and complete-output handoff.
 
-The present state is INITIAL: zero admitted units, zero observations, zero narrative claims, zero forecasts and zero evaluated character models. The method may be reviewed and corrected now. Sequential execution requires its own future authorization and an honestly satisfied OPEN gate.
+The INITIAL bootstrap began with zero admitted units, observations, narrative claims, forecasts and evaluated character models. Consult the current entrypoint for the accepted run boundary.
