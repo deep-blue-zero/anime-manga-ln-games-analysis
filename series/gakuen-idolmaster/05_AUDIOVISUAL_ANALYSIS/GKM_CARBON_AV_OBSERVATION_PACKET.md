@@ -7,8 +7,8 @@ status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_boundary: "A1 Source Locks 1.0 and 1.1 (revision 86), 82412aa5029abd363e68aec145e36525cf9b6b06; separate RINHA-AV-20260911 media identities"
-last_updated: '2026-11-12'
+source_boundary: "A1 Source Locks 1.0 and 1.1 for the 2026-11-12 selection; Source Lock 1.2 for Kanae candidates at revision 88; separate RINHA-AV-20260911 media identities"
+last_updated: '2026-11-15'
 ---
 
 # Gemini 4 Carbon observation packet
@@ -17,7 +17,7 @@ This is a selection and retrieval handoff. Direct listening and continuous video
 
 ```yaml
 handoff_id: GKM-AV-CARBON-20261112
-handoff_version: "1"
+handoff_version: "2"
 stage_id: selection
 stage_state: READY_FOR_HANDOFF
 execution_topology: HYBRID_STAGED
@@ -139,3 +139,17 @@ The selection has 35 rows. The inherited Rinha set contributes 11 required P0 sc
 | Phase 5 support-card queue | Earlier support requests retain their dispositions in the [AV verification queue](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md). This selection advances the explicitly listed support sources. The remaining support backlog is deferred for this pass. |
 | Phase 3 character AV baselines | Existing acquisition closures and 13/13 baseline delivery stand. The [current corpus map](../CURRENT_STATE_AND_CORPUS_MAP.md) routes the open listening and continuous-motion qualifications in the Hiro and Misuzu rebuilds to their character packets and their affected claims. Those qualifications remain open and are deferred in this selection. |
 | Revised staging in older A1 objects | Saki idol communication 015 part 03, Sena Dear 025, and Tsubame Dear 020/022 have revision-dependent staging. Comparisons are deferred pending a matching acquisition and a live interpretation question. Record the capture build before any comparison. |
+
+## Source Lock 1.2 — Kanae candidates
+
+The Kanae supplement adds **three P1 targets, one P2 target and one deferred target** to the 35-row selection above, and raises this packet to `handoff_version` 2: version 1 (2026-11-12) was the 35-row selection alone; version 2 (2026-11-15) keeps those rows unchanged and adds the five Source Lock 1.2 rows below. A frozen observation log states which handoff version it covers. `AV-CARBON-KNA-001` retains its separate horizontal-prologue scope. The [A1 audiovisual crosswalk](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_SOURCE_CROSSWALK.md#source-lock-12--transcript-refresh-2026-11-15) supplies resolved script asset names and command clocks. The bounded local Gakuen media and catalog scan found no edition matching these rows. Recording identity and capture offsets are pending. Use the same edition, alignment, synchronized inspection and observation-first rules as above. The asset clip clock and a captured video's clock need separate accounting.
+
+| Candidate | Priority | Subjects and source state | Exact A1 locator and scene | Required channels and observation question | Acquisition target and time status |
+| --- | --- | --- | --- | --- | --- |
+| `AV-HKNE-R88-01` | P1 | Hiwatari Kanae and Producer; C1, Dear 009 advancement | `adv_dear_hkne_009.txt` L107–155, L180–219, L226–256 and L311–326. Actual examination stage and debrief. `adv_dear_hkne_002.txt` L368 gives the title `初`. | Synchronized Japanese AV and music. What happens to audible breath, gaze and posture during entry, and which cues carry the transition into and out of the embedded performance? Identify the displayed crowd and compare delivery before and after the performance. | Native `氷渡香名江 親愛度コミュ 第9話` capture with intact `初` cut and surrounding dialogue. `sud_music_live_all-001-hkne_true-001` / `tln_live_all-001`. Source ADV L217–219 spans 164.201–212.214 s, clip-in 51.0 s. Exact capture offsets unresolved. |
+| `AV-HKNE-R88-02` | P1 | Kanae, China and Producer; C1 within communication 3-000, C2 across families | `adv_cidol-hkne-3-000_01.txt` L99–172 and `_03.txt` L17–63, L110–196. Solo demo and pre-live self-description. | Synchronized AV and direct music listening. Compare the two instrumental cue passages in their scenes. If a matched standalone performance exists, document audible texture, tempo or vocal phrasing, and posture when visible. Distinguish changes in mix from differences in delivery. | Native three-part Kanae rank-3 communication plus separately identified `メタモルフォーゼ` rendition when available. `sud_bgm_adv_inst-hkne-001` part 01 L116 has 20 s asset offset; part 03 L120 cues it again. Capture intervals unresolved. |
+| `AV-HKNE-R88-03` | P2 | Kanae and Producer; C1, Dear 010 ending | `adv_dear_hkne_010.txt` L320–378 and L381. Final address and video command. | Synchronized AV. What is heard between the final voiced thought and the video? Use visual and audio observations to describe any relationship between the video and the closing speech. | Uncut `氷渡香名江 親愛度コミュ 第10話` ending with `mov_adv_dear_ed_hkne_001`, script duration 165 s from ADV 313.129 s. Capture offset and version unresolved. |
+| `AV-HKNE-R88-04` | P1 | Kanae, China, Producer and staff; C1, separate Dear scenes | `adv_dear_hkne_004.txt` L373–485; `adv_dear_hkne_005.txt` L272–355, L389–510 and L532–613; `adv_dear_hkne_008.txt` L504–541 and L613–722. Stand-in, admission gift and mirror, commitment and sprint. | Synchronized AV, retaining BGM and pauses. Compare how breath, torso, turn timing and visual framing present discomfort, gift reception and moving toward the stage. Identify whose response is visible and how the picture and sound distinguish fantasy, inner speech and the current scene. | Native episodes 4, 5 and 8, complete scene runs with Japanese captions and original audio. Use `0番のバミリ`, `すずらんの髪飾り` and `アイドルに、なりたい、です` for alignment. Capture offsets unresolved. |
+| `AV-HKNE-R88-05` | Deferred | Kanae; C3 live wrappers and separately scoped common steps | Eight `adv_live_hkne_001_start/end-01..04-01.txt` wrappers and seven `adv_pstep_001_cmmn_` files. See the [exact A1 delta](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261115.tsv). | Native synchronized AV and recorded game state. Which start and end pair at the observed venue and result? What is heard during the A1 voice slots without messages? | Native Produce Series 001 captures with recorded route, grade/conditions and pre/post scenes, plus variant-matched step captures or a verified voice-slot map. Absolute capture offsets unresolved. Defer until dispatch metadata can support repeatable comparison. |
+
+Complete the prioritized recordings and freeze neutral notes before opening the [Kanae adjudication rows](GKM_CARBON_AV_ADJUDICATION.md#source-lock-12--kanae-candidates).
