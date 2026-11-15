@@ -3,7 +3,7 @@ title: "Shiboyugi — Source Register"
 artifact_id: SBY_SOURCE_REGISTER
 artifact_type: source_register
 series: shiboyugi
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -115,3 +115,7 @@ SBY-SO-001 is resolved for all ten witnesses. SBY-SO-002 is resolved for the mai
 The principal source owner and three separately assigned specialists finished the Japanese text scope of SBY-JP-V01-W01. The principal inspected the original illustrations and text-bearing guide in the admitted spine and the current-volume front art after the prose-end freeze. The [deep reading](readings/SHIBOYUGI_V01_DEEP_READING.md) and [checkpoint](checkpoints/SHIBOYUGI_V01_CHECKPOINT.md) record the actual coverage, retrieval and exclusions. Only the V01 main and stated art scope is closed.
 
 The first component map mistakenly included short members before the afterword. V01 S18–S19 have signed 解説 headings, independently observed by the character and language specialists. Their output exposure occurred after the principal's assignment release and is excluded from those specialists' findings. The principal and evidence specialist did not open those contents. The corrected private map and reader refuse these members and classify analogous signed headings in V02 S19–S20 and V03 S24–S26 by structure alone. The actual EPUBs and the remaining admitted paragraph/ruby locators are unchanged. Earlier receipt bytes were preserved. The current counts in the table reflect these corrections. No later narrative was opened for the correction. Bonus and unresolved back matter remain governed by SBY-SO-002 and excluded from the main reading lane.
+
+## V02 coverage
+
+The principal completed all 2,375 paragraph positions, the five at-position plates and six delayed original front and cover plates of SBY-JP-V02-W01. Two specialists completed independent main-prose passes, and the language specialist's selective pass reached 2,065 positions across all four narrative members. The [V02 reading](readings/SHIBOYUGI_V02_DEEP_READING.md) and [V02 checkpoint](checkpoints/SHIBOYUGI_V02_CHECKPOINT.md) route details and achieved source scope. All assigned V02 reading used the corrected component classification and witness receipt. Signed commentary S19–S20 and all afterword, bonus and unclassified material stay outside this unit's main evidence. V03 is the next unit through its independent committed frontier.
