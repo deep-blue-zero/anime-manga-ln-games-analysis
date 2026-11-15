@@ -3,7 +3,7 @@ title: "Shiboyugi — Source Register"
 artifact_id: SBY_SOURCE_REGISTER
 artifact_type: source_register
 series: shiboyugi
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -135,3 +135,7 @@ The principal completed all 2,283 positions in S14/S16/S19/S21/S23. An interrupt
 ## V06 coverage with embedded coda illustration
 
 The principal read all 2,362 Japanese positions in S14/S16/S18/S20/S22, including all layout and the S22 P0139 image reference. S15/S17/S19/S21-I01 were read at their positions. S22-I01 is a same-story ending image inside the final prose member and was opened after the P0139 marker and the prose freeze. Its position is neither delayed front matter nor a separate trailing promotional member. Ten delayed front images S01–10-I01 were read at unit end. S12-I01 was inspected solely to classify it as navigation. The evidence, character and language readers independently read all 2,362 positions. Critical review reopened decisive original prose and checked all fifteen admitted images. The V06 ZIP retains its known non-first mimetype entry warning and the verified bytes. Genuine main-source reading and same-witness image decode succeeded without alteration. S11/S13 and S23–31 stay outside the literary argument. S24 and S25 remain unread. The [reading](readings/SHIBOYUGI_V06_DEEP_READING.md) and [checkpoint](checkpoints/SHIBOYUGI_V06_CHECKPOINT.md) supply the evidence, prospective scope and publication-independent committed frontier requirements.
+
+## V07 coverage and the narrative text plate
+
+The principal, evidence, language and character readers each independently covered all 2,371 Japanese paragraph and layout positions in S14/S16/S19/S21/S23/S25, and the six placed originals S15/S17/S18/S20/S22/S24 in presentation order. S17-I01 is an all-text narrative plate, visually read in full at its location between the apartment chapter and the next captioned frontispiece. The ten same-volume covers, profiles and title originals S01–10 were delayed to unit end. S12 was then identified as contents navigation. Independent critical review reopened original prose and checked the sixteen eligible assets and the S12 boundary. The verified unchanged EPUB retains its non-first mimetype warning with all rasters decodable. S11/S13 and S26–34 are outside the literary reading, including excluded navigation artwork and withheld indeterminate S27/S28. The [V07 reading](readings/SHIBOYUGI_V07_DEEP_READING.md) and [checkpoint](checkpoints/SHIBOYUGI_V07_CHECKPOINT.md) route the evidence findings and cover their exposure boundaries.
