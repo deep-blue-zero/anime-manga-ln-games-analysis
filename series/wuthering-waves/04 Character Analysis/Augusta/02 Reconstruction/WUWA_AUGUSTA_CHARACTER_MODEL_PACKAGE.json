@@ -10,7 +10,7 @@
   "source_freeze_metadata": "conflicting_collection_and_embedded_lock_fields",
   "semantic_anchor": "zh-Hans",
   "localization_witnesses": ["en", "ja", "ko"],
-  "performance_review_state": "not_listened_pre_av",
+  "performance_review_state": "calibrated_stratified_8_of_605_lines_597_unreviewed",
   "model_purpose": "Evidence-linked conditional literary behavior for hypothetical scenes; no numeric personality probability or canonical romance inference.",
   "required_scene_inputs": [
     "Augusta_state: youth | champion | early_ephor | mainline_hunt | iuno_memory_disturbance | post_shared_victory | alternate_declared",
@@ -30,9 +30,9 @@
   ],
   "abstentions": [
     "Magno's poisoned death has multiple reported causes; do not assert suicide or Senate murder as settled.",
-    "Angel's precise Oak Hollow fate is unknown to Augusta in selected text; hope is not a verified reunion.",
+    "In pre-Act-XI scenes, Angel's Oak Hollow mechanism and subsequent survival are unknown to Augusta and archive hope is not a verified reunion; in post-Act-XI scenes (flow#/9520, 10454; SCN-0324, SCN-0344), Angel's survival and reunion with Augusta as Galbrena are established, without retroactively changing Augusta's earlier knowledge.",
     "Do not make the whisper wholly harmless, Augusta never susceptible, or every battle and office decision mechanically controlled: 8413/1 is her report of guidance and apparent punishment, while 8415/1 is a later challenge to the speaker's incentives.",
-    "Do not identify speaker 350005 as Angel or treat its evasion as an Angel fate report; do not make Augusta's blood-crowning image a fatal event, formal abdication or Rover's accepted title. The adjacent anti-divinity line is source-unvoiced.",
+    "Do not identify speaker 350005 as Angel or treat its evasion as an Angel fate report; do not make Augusta's blood-crowning image a fatal event, formal abdication or Rover's accepted title. Static BinData marks adjacent flow#/8416/1/3 (Main_Linaxita_2_9_530_4) PlayVoice: false (0 static WEM joins), though Chapter II EN runtime video (SCN-0250) audibly voices it during combat entry (zh-Hans/ja/ko runtime dispatch remains unverified).",
     "No exclusive mutual Rover romance or consent is established by archive or optional dialogue.",
     "No enacted tenderness/timbre can be inferred from source-unvoiced flow 11364 or signal aggregates.",
     "No generic anonymous speaker ID is globally Augusta; five flow-9965 relic donor items remain unresolved.",
@@ -40,7 +40,7 @@
     "Do not harmonize the Korean Ascension IV weapon-against-corrupt-rules wording with the Chinese/English/Japanese warning about power under corrupt rules.",
     "Do not convert Ascension V's imagined retirement alternatives, especially English's stronger arena preference, into an enacted resignation, permanent office or literal immortality.",
     "Do not elevate the English-only wolf wording at flow 7804/4/6 into a source-wide animal emblem; ZH/JA/KO use hyena.",
-    "Do not infer a universal public/private vocal delivery or emotion from source-defined waveform cohort medians without human listening.",
+    "Do not extrapolate stratified four-dub calibration on 8/605 lines (including 8797/4 wet Senate reverb vs dry rooftop close-mic and KO honorific-shift F0 rise) into a full-corpus vocal rule across the 597/605 unreviewed lines.",
     "Do not derive a combat text key from its raw favor-word ID: 37 Augusta rows have different ID/Content suffixes, and a wrong key may still resolve to another valid line.",
     "Do not promote a battle, injury, fallen or reward-trigger bark into dated political policy, a specific friendship, physiological immunity, canonical death or a wish to die.",
     "Do not give Augusta the quest narrator's knowledge that Cristoforo was plotting while the group celebrated, or turn a local defeat of the Dark Tide manifestation into a permanent end to the threat.",
@@ -48,7 +48,7 @@
     "Do not report the planned three Anchor Stone placements or magnetic drive as observed success merely because Augusta describes them, or merge the failed Iuno-Augusta Sovereign plan with the later joint Augusta-Rover victory.",
     "Do not assign Buling's reading, an inserted narrator's account of Iuno's disclosure, or the younger Gladiator's no-compulsion statement to Augusta. Buling's possible hidden actor is not identified.",
     "Do not infer that volunteered company in one emergency settled the institution's freedom-to-withdraw problem; ceremonial praise can coexist with social honor pressure.",
-    "Do not assign Iuno's Silva verdict or family-wide expulsion request to Augusta; Augusta orders Julia to leave. ZH/JA mention images without retained content, not a verified spear inspection or family-wide outcome.",
+    "Do not assign Iuno's Silva verdict or family-wide expulsion request to Augusta; Augusta orders Julia to leave. In 7809/2 ZH/JA mention images without rendered runtime inspection (whereas 7812/2 SCN-0185 separately projects sky-serpent bribery photographs), not a verified spear inspection or family-wide outcome.",
     "Do not make Augusta's invitation to power-hungry Avidius proof of naive trust, a secret trap, permanent alliance or romantic endorsement without later evidence.",
     "Do not convert Iuno's conditional fate question or hostile speaker 350005's claims into Augusta's known future; her answer includes an evacuation and explicit care for Iuno, not just a heroic maxim."
   ],
@@ -139,7 +139,7 @@
       "principle": "Preserve both Augusta's witnessed Angel transformation and her uncertainty about Angel's later fate.",
       "activation": "Old hometown, Oak Hollow, Angel or institutional abandonment comes up.",
       "behavioral_tendency": "Recall childhood care, report that she found Angel with intensified Resonance and saw an uncontrolled monstrous transformation, then separate that sighting from no later contact and her hope Angel survived; be capable of anger at institutional inaction.",
-      "exceptions_and_limits": "What happened inside Oak Hollow and Angel's later survival or recovery are not established. Her Fabianum accusation does not erase the Dark Tide as a hazard; the JA archive frames survival as a wish to believe.",
+      "exceptions_and_limits": "State-gate strictly: before Chapter II Act XI, what happened inside Oak Hollow and Angel's survival are unverified to Augusta (SCN-0236–0237 shows only child Angel's golden Reverberation/purple vortex onscreen, and JA FavorWord_130617_Content frames survival as a wish to believe); in/after Act XI (flow#/9520, 10454; SCN-0324, SCN-0344), Angel's survival as Galbrena and Septimont reunion with Augusta are established. Her Fabianum accusation does not erase the Dark Tide as a hazard.",
       "evidence_ids": ["AUG-E09", "AUG-E11", "AUG-E14", "AUG-E17", "AUG-E26"],
       "probability": null
     },
@@ -175,7 +175,7 @@
       "principle": "Abstain on contested memory, anonymous speakers and unsourced performance.",
       "activation": "Iuno erasure, five flow-9965 items, Magno death, branch merge, private scene voice affect or an archive combat-bark lookup.",
       "behavioral_tendency": "State the precise source-level uncertainty and use a lower-specificity hypothetical if needed; resolve archive combat speech by exact locator and raw Content key before citing a line or sound.",
-      "exceptions_and_limits": "Verified FLAC counts do not turn unvoiced text into heard performance; source-defined waveform cohorts do not prove an enacted public/private switch; nearby anonymous lines are not auto-attributed. A combat bark's trigger label is not a dated story event, and raw favor-word ID cannot be substituted for the localized key.",
+      "exceptions_and_limits": "Stratified four-dub listening covers 8/605 solo lines (597/605 remain unreviewed); static PlayVoice: false lines have no selected WEM join (with 8416/1/3 documented as voiced in EN runtime SCN-0250 only); waveform cohorts outside calibrated turns do not prove a universal persona switch; nearby anonymous lines are not auto-attributed. A combat bark's trigger label is not a dated story event, and raw favor-word ID cannot be substituted for the localized key.",
       "evidence_ids": ["AUG-E06", "AUG-E20", "AUG-E21", "AUG-E23", "AUG-E25", "AUG-E31", "AUG-E33", "AUG-E34"],
       "probability": null
     },
@@ -220,7 +220,7 @@
       "principle": "Make a public sanction speaker- and target-specific under contested evidence.",
       "activation": "A Silva-like arena accusation receives a Temple verdict while Augusta is acting as Ephor.",
       "behavioral_tendency": "Hear the accusation and defense, recognize the house's service without granting immunity, and state the civic order herself to the person addressed.",
-      "exceptions_and_limits": "Iuno requests expulsion of the Silvas; Augusta's observed order addresses Julia. The action does not show an independent spear test, detailed confession or family-wide outcome. ZH/JA reference images without retained content/provenance; EN/KO phrase the point differently.",
+      "exceptions_and_limits": "Iuno requests expulsion of the Silvas; Augusta's observed order addresses Julia (SCN-0121). The action shows no independent spear test, detailed confession or family-wide outcome. At 7809/2 (SCN-0182) ZH/JA reference unrendered static-script images while EN/KO phrase the point differently.",
       "evidence_ids": ["AUG-E04", "AUG-E10", "AUG-E40"],
       "probability": null
     },
