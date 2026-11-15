@@ -15,6 +15,71 @@ superseded_by: []
 Ordered byte interval of the complete logical SourceLock; read only through its current owner and manifest. No primary-source payload.
 
 <!-- T7S SOURCE LOCK PAYLOAD BEGIN -->
+            "vo_special_185_127",
+            "vo_special_185_128",
+            "vo_special_185_129",
+            "vo_special_185_130",
+            "vo_special_185_131",
+            "vo_special_185_132",
+            "vo_special_title_185_01"
+          ],
+          "dialogue_voice_cues": [
+            "vo_special_185_097",
+            "vo_special_185_098",
+            "vo_special_185_099",
+            "vo_special_185_100",
+            "vo_special_185_101",
+            "vo_special_185_102",
+            "vo_special_185_103",
+            "vo_special_185_104",
+            "vo_special_185_105",
+            "vo_special_185_106",
+            "vo_special_185_107",
+            "vo_special_185_108",
+            "vo_special_185_109",
+            "vo_special_185_110",
+            "vo_special_185_111",
+            "vo_special_185_112",
+            "vo_special_185_113",
+            "vo_special_185_114",
+            "vo_special_185_115",
+            "vo_special_185_116",
+            "vo_special_185_117",
+            "vo_special_185_118",
+            "vo_special_185_119",
+            "vo_special_185_120",
+            "vo_special_185_121",
+            "vo_special_185_122",
+            "vo_special_185_123",
+            "vo_special_185_124",
+            "vo_special_185_125",
+            "vo_special_185_126",
+            "vo_special_185_127",
+            "vo_special_185_128",
+            "vo_special_185_129",
+            "vo_special_185_130",
+            "vo_special_185_131"
+          ],
+          "dialogue_voice_page_count": 35,
+          "exact_unresolved_voice_carrier_pages": {
+            "vo_special_185_132": [
+              39
+            ]
+          },
+          "exact_gap_acceptance_sha256": "8f60d9673c589d8c8f3b23f492cb76129ac6b75a23403cf5e11aa36bff498259",
+          "static_preparation_sha256": "4d1c9760c10949abef8bbfdc023b14b73d860a7faf222f6dfe9ca089146f7b93",
+          "root_case_actual_review_sha256": "3243643180266ea4a2f62ae1a33e38e9f15f3f49da1d522642b54806d3b454de",
+          "performed_voice": "UNHEARD",
+          "runtime": "UNOBSERVED",
+          "inline_references": {}
+        },
+        {
+          "episode_id": "505018304",
+          "binding_sha256": "f4c08d77ac05e5502026618e4c6240c5cf1645acc4417f27a90373bce29dd7de",
+          "voice_bindings": [
+            {
+              "cue": "vo_special_186_132",
+              "canonical_audio_asset_id": "wav:1101176e8e31384a1e8004eccf1deaef617a69c85a9eeca9f0c9200164644e30",
               "wav_sha256": "1101176e8e31384a1e8004eccf1deaef617a69c85a9eeca9f0c9200164644e30"
             },
             {
@@ -7817,50 +7882,4 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
           "root_case_actual_review_sha256": "916bd521316f30af00fecf8b3ce3edc9a5103dd3ae0e25175a1eae57dc3d9b03",
           "performed_voice": "UNHEARD",
           "runtime": "UNOBSERVED",
-          "inline_references": {}
-        },
-        {
-          "episode_id": "504015205",
-          "binding_sha256": "517d07d6edb1d386d370608b49d5f2168d2a7a0fd3b4bd401482d8a323373e68",
-          "voice_bindings": [
-            {
-              "cue": "vo_special_156_086",
-              "canonical_audio_asset_id": "wav:e4f8a9dfacc5c17bf6552773fa72477ecf5586a392a1d3b2298e48677a11368c",
-              "wav_sha256": "e4f8a9dfacc5c17bf6552773fa72477ecf5586a392a1d3b2298e48677a11368c"
-            },
-            {
-              "cue": "vo_special_156_087",
-              "canonical_audio_asset_id": "wav:45ae41e9d2d9247c20879297d1ef65a059015821335a7b434347292ab45a273a",
-              "wav_sha256": "45ae41e9d2d9247c20879297d1ef65a059015821335a7b434347292ab45a273a"
-            },
-            {
-              "cue": "vo_special_156_088",
-              "canonical_audio_asset_id": "wav:8db8852a3dd3bf98528ed8a0a2c61a5a33a48fe970953f5d39e2d68133bf4c55",
-              "wav_sha256": "8db8852a3dd3bf98528ed8a0a2c61a5a33a48fe970953f5d39e2d68133bf4c55"
-            },
-            {
-              "cue": "vo_special_156_089",
-              "canonical_audio_asset_id": "wav:1afc9c40bb85917d7bd22d9ee41fe5dad87c0da36155ed0503f7b1da47283f01",
-              "wav_sha256": "1afc9c40bb85917d7bd22d9ee41fe5dad87c0da36155ed0503f7b1da47283f01"
-            },
-            {
-              "cue": "vo_special_156_090",
-              "canonical_audio_asset_id": "wav:a773da70f4fb48143facfab61159d4889db692ffc987e4d9918ba6be982ffa0c",
-              "wav_sha256": "a773da70f4fb48143facfab61159d4889db692ffc987e4d9918ba6be982ffa0c"
-            },
-            {
-              "cue": "vo_special_156_091",
-              "canonical_audio_asset_id": "wav:cc34ba08e163d27f6be7c792097e71b789318c53119f69eff09d7a79fd9628a5",
-              "wav_sha256": "cc34ba08e163d27f6be7c792097e71b789318c53119f69eff09d7a79fd9628a5"
-            },
-            {
-              "cue": "vo_special_156_092",
-              "canonical_audio_asset_id": "wav:e1eca5bb53e21148e7534e82ffe7c0e06686355077f2ed0e8293b84e44ecf7aa",
-              "wav_sha256": "e1eca5bb53e21148e7534e82ffe7c0e06686355077f2ed0e8293b84e44ecf7aa"
-            },
-            {
-              "cue": "vo_special_156_093",
-              "canonical_audio_asset_id": "wav:f9ee7cb3c2aefd442a512ab4806ec789726afdaffca60904b49f78cf45d29e6c",
-              "wav_sha256": "f9ee7cb3c2aefd442a512ab4806ec789726afdaffca60904b49f78cf45d29e6c"
-            },
 <!-- T7S SOURCE LOCK PAYLOAD END -->
