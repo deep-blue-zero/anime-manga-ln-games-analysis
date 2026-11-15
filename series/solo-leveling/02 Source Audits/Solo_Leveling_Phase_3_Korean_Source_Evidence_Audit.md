@@ -17,7 +17,7 @@ do_not_use_as_current_authority: false
 
 The v1 corpus says Chugong's Korean novel governs every prose claim. Its own source records show that the Korean EPUB was never loaded while Documents 00–13, the Phase 2 correspondence map and the five reconstruction models were written. Phase 1 revalidated the Korean boundaries from an earlier workspace's audit, and every paragraph-level locator was left "pending remount".
 
-This audit closes that gap. The Korean omnibus was loaded, its integrity and boundaries were verified, and it was converted into a reproducible paragraph-locator layer. Seven independent specialists then tested the corpus against it, two independent critical reviewers checked every material or adverse finding, and a final pass settled the open manhwa-side items.
+This audit closes that gap. The Korean omnibus was loaded, its integrity and boundaries were verified, and it was converted into a reproducible paragraph-locator layer. Seven independent specialists then tested the corpus against it, two independent critical reviewers checked every material or adverse specialist finding (the 109 rows in §8), and a final pass settled the open manhwa-side items. That final pass ran in a reduced configuration with a self-reviewing participant (§6); §5 records a recheck by the principal for M1-01 and none for M1-02–M1-07.
 
 **Overall result.**
 
@@ -113,7 +113,7 @@ Volumes break mid-chapter, so a chapter can appear at both ends of adjacent volu
 | 외전 19 `최종화. 12년 후 (1)` | V14 p282–p292 | |
 | 외전 20–21 | V15 Part 4 | Go's second visit and death, 외전 21 · s032¶1438–1478 = V15 p016–p028 |
 | 후일담 2 `다시 만날 때까지` | V15 p052–p058 | the final prose paragraph (Suho's dream) is the first panel of p058 |
-| — | V15 p059–p243, p252–p267 | manhwa-original adolescent-Suho continuation |
+| — | V15 p059–p243, p252–p267 | manhwa-original adolescent-Suho continuation on the pages inspected, about 45 of the 207 Part 5–6 pages (§9 item 1); the uninspected pages are unverified, so a further embedded prose adaptation like p244–p251 is not excluded |
 
 ## 4. Material corrections by theme
 
@@ -122,7 +122,7 @@ Each item gives the decisive Korean locators. Full rows are in §8.
 ### 4.1 Correspondence and boundaries
 
 - **Go Gunhee's formal ending is adapted, one-to-one, in V14 Part 3 p239–p249** (S1-01, CONTRADICTED). The map and ledger place it as omitted from V13 with "comparable" material in V15 Part 4. The V15 Go material is a different scene: his second visit and death in 외전 21.
-- **The V15 p061 "hard boundary" needs rewriting** (S1-02/S1-04, QUALIFY). The prose ends at s032¶1950, the first panel of V15 p058. The jump to adolescent Suho begins at p059, still inside Part 4. Parts 5–6 are manhwa-original continuation, **except** p244–p251, which adapt 외전 1 nearly beat for beat.
+- **The V15 p061 "hard boundary" needs rewriting** (S1-02/S1-04, QUALIFY). The prose ends at s032¶1950, the first panel of V15 p058. The jump to adolescent Suho begins at p059, still inside Part 4. Parts 5–6 are manhwa-original continuation, **except** p244–p251, which adapt 외전 1 nearly beat for beat. Parts 5–6 were sampled at about 45 of 207 pages (§9 item 1), so p244–p251 is the only embedded adaptation found, not a verified sole exception.
 - **`Beautiful World`'s support-department question is Chugong's** (S1-03, CONTRADICTED; S5-13). Document 11 credits it to the adaptation as "a more constitutional answer than Jinwoo's original solution". The question and its healer-recruitment answer are in 외전 1 (s030¶1765–1777). The adaptation's game frame remains manhwa-original.
 - **V13's closing question about being needed is Chugong's** (S1-08): 외전 4 · s031¶77. V13 ends at s031¶94 and leaves out the ch.243 closing vignettes, which move to V14.
 - **Misplaced rows.**
@@ -147,7 +147,7 @@ Each item gives the decisive Korean locators. Full rows are in §8.
 
 ### 4.3 Shadows: consent, refusal, compelled loyalty
 
-- **The refusal thesis is strengthened** (S5-04). The only shadow refusal in the text is a refusal to attack Jinwoo himself when ordered (ch.100 · s010¶1186–1190). Every exit is a release or erasure by Jinwoo. 외전 13 says shadow feelings derive from the Monarch's mind (s031¶1986–1990).
+- **The refusal thesis is strengthened** (S5-04). The only shadow refusal in the text is a refusal to attack Jinwoo himself when ordered (ch.100 · s010¶1186–1190). Every exit Jinwoo decides is a release or erasure. The exception is the reset, where the Cup's rule annihilates shadows overlapping the past time-axis without Jinwoo choosing it (§4.4; ch.243 · s030¶1455). No exit is shown to be elected by a shadow. 외전 13 says shadow feelings derive from the Monarch's mind (s031¶1986–1990).
 - **The narrator states compelled loyalty outright**: the dead are forced into absolute loyalty by the Monarch's power while each keeps its own consciousness (`절대적인 충성심을 강요받는`, ch.226 · s028¶1381). The same scene breaks Jinwoo's stated rule against making innocent dead into soldiers, with a promise to return them to rest after the war (¶1370–1380) (S3-11). This is the single most important passage the corpus omits on shadow ethics.
 - **Min Byung-gu.**
   - Extraction rests on presumed consent: "he'd choose the same, 100 out of 100" (s013¶1635).
@@ -200,7 +200,7 @@ Each item gives the decisive Korean locators. Full rows are in §8.
   | 외전 1–21 | 46.6 |
   | 후일담 | 65.9 |
 
-  The figure counts all speakers, so it is an upper bound on Jinwoo's interiority. The finding: interiority roughly halves after ch.160 and does not recover in the side stories. The adaptation contrast still holds (the prose keeps more cognition than the manhwa), but "continuous" should become "front-loaded and thinning", and the manhwa's "punctuated" Jinwoo partly follows a trend already in the prose. S6's further claim that the side stories are the lowest band does not reproduce.
+  The figure counts all speakers, so it is an upper bound on Jinwoo's interiority. The finding: quoted-thought density across all speakers roughly halves after ch.160 and does not recover in the side stories. That Jinwoo's own interiority thins is an inference from this aggregate; this record reports no count restricted to thoughts attributable to Jinwoo (§9 item 8). The adaptation contrast still holds (the prose keeps more cognition than the manhwa), but "continuous" should become "front-loaded and thinning", and the manhwa's "punctuated" Jinwoo partly follows a trend already in the prose. S6's further claim that the side stories are the lowest band does not reproduce.
 - **Missing and misworded terms.** `거인왕` does not occur; the text has `거인들의 왕` (S6-14).
 
 ### 4.8 Character reconstruction models
@@ -425,6 +425,8 @@ Claims and evidence are abridged; the cited lines and locators are authoritative
 5. **No claims in Document 10 or Document 12 were audited for their own sake.** Document 12 propositions that depend on corrected claims are listed in the register rows.
 6. **The reconstruction models still need full dialogue/register validation** and withheld-scene testing. This audit is a first pass, not that validation.
 7. **The original Korean-language manhwa remains unavailable.** Translation claims about manhwa balloons remain out of scope.
+8. **A count of Jinwoo's own quoted thoughts has not been made.** The §4.7 density figures count all speakers, so the proposed change of Document 09's "continuous" to "front-loaded and thinning" rests on an inference from the aggregate until thoughts attributable to Jinwoo are counted separately.
+9. **Two §8 rows need their evidence summaries completed from the participants' working files.** The evidence cell of S7-14 ends mid-quotation. The evidence cell of S7-22 carries the specialist's not-found result, while the adopted verdict and disposition are R1's (LOCATED, ch.84 · s008¶1583–1595, with R1 disagreeing with the specialist); what the ch.84 passage establishes is not summarized in this record.
 
 ## 10. Correction route (proposed, not executed)
 
