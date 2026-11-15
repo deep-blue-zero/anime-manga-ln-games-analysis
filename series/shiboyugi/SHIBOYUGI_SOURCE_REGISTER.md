@@ -3,7 +3,7 @@ title: "Shiboyugi — Source Register"
 artifact_id: SBY_SOURCE_REGISTER
 artifact_type: source_register
 series: shiboyugi
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -147,3 +147,9 @@ Four full reading roles each independently covered all 2,220 numbered Japanese p
 ## V09 coverage and two placed text plates
 
 Four independent whole-text reading roles covered all 2,092 original Japanese or layout positions in S14/S16/S18/S21/S24/S26, including seven placed original assets in disclosure order S15/S17/S19/S20/S22/S23/S25. S19 (recruitment patterns) and S22 (high clearing counts and motivation) are full-text assets read in place with their claims and evidentiary scope identified. Ten same-volume covers, profiles and title originals S01–10 were delayed until separate prose and placed-image freezes, followed by classification of S12 as graphical contents. The critical lane reopened decisive native passages and viewed the same eligible originals with exact isolation from the staged text, then tested the staged reading. The unchanged witness has mimetype first and all 26 rasters decoded. S11/S13 and S27–36 are excluded, including unresolved S28–30 and S33 and bonus and advertising text. Consult the [V09 deep reading](readings/SHIBOYUGI_V09_DEEP_READING.md) and [checkpoint](checkpoints/SHIBOYUGI_V09_CHECKPOINT.md) for the accepted provenance and remaining uncertainty.
+
+## V10 coverage and authorized source end
+
+Four principal/specialist roles read all 2,068 Japanese prose or layout positions in S14, S16, S19, S21, S23 and S26, and seven placed originals in order S15/S17/S18/S20/S22/S24/S25. S17 is the in-position unattributed scale exposition, S24 the in-position unattributed retirement exposition. Both text-bearing originals were completely read where placed. Ten same-volume cover, profiles and title originals S01–10 were delayed until separate prose and placed-material freezes. S12 proved graphical contents and contributed only navigation. The independent critical reviewer checked decisive native windows and all eligible originals before exact-unit review. The unchanged witness has mimetype first and all 25 packaged rasters decoded technically. S11, S13 including its navigation image and S27–37 remain excluded, including unresolved S28–31 and S34 and the bonus, afterword and advertising material. No scope anomaly occurred in V10.
+
+The [V10 reading](readings/SHIBOYUGI_V10_DEEP_READING.md), [entering freeze](checkpoints/SHIBOYUGI_V10_ENTERING_STATE.md) and [checkpoint](checkpoints/SHIBOYUGI_V10_CHECKPOINT.md) complete the V01–V10 source tract following the nine preserved unit transactions. The high-water mark is V10, with no authorized next candidate and no authorized supplemental narrative. Current synthesis, qualification and evidence-limited reconstruction judgments may proceed across these ten readings without acquiring another witness. Remaining external bibliography and bonus/preview component questions have no authority over the completed Japanese primary boundary.
