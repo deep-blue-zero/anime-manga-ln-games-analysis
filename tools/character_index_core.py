@@ -779,12 +779,26 @@ def _authority_from_front_matter(front: str, path: str) -> AuthorityMetadata | N
 
 
 class AuthorityGraph:
-    def __init__(self, snapshot: GitSnapshot):
+    def __init__(
+        self,
+        snapshot: GitSnapshot,
+        *,
+        front_matter_cache: MutableMapping[tuple[str, bytes], AuthorityMetadata | None] | None = None,
+    ):
+        """Build one snapshot's authority graph.
+
+        ``front_matter_cache`` lets a caller that builds graphs for many
+        snapshots sharing most documents parse each distinct document once.
+        It maps the exact path and bytes to the accepted result; a rejected
+        document is never stored, so every graph re-derives its error.
+        """
+
         self.snapshot = snapshot
         self.metadata: dict[str, AuthorityMetadata | None] = {}
         self.edges: set[tuple[str, str]] = set()
         self.errors: list[str] = []
         self.invalid_paths: set[str] = set()
+        self._front_matter_cache = front_matter_cache
         self._build()
 
     def _error(self, message: str, *paths: str) -> None:
@@ -800,14 +814,20 @@ class AuthorityGraph:
             and entry.mode == "100644"
             and entry.tracked
         )
+        cache = self._front_matter_cache
         for path in markdown:
+            data = self.snapshot.entries[path].data
+            if cache is not None and (path, data) in cache:
+                self.metadata[path] = cache[(path, data)]
+                continue
             try:
-                self.metadata[path] = parse_authority_front_matter(
-                    self.snapshot.entries[path].data, path
-                )
+                self.metadata[path] = parse_authority_front_matter(data, path)
             except DomainError as exc:
                 self.metadata[path] = None
                 self._error(str(exc), path)
+                continue
+            if cache is not None:
+                cache[(path, data)] = self.metadata[path]
         for path, meta in self.metadata.items():
             if meta is None:
                 continue
@@ -1716,11 +1736,14 @@ ASSESSMENT_LIFECYCLE_FIELDS = frozenset(
 EFFECTIVE_CURRENT_STATES = frozenset({"CURRENT_REVIEWED", "CURRENT_PROVISIONAL"})
 
 
-def load_discovery_snapshot_records(selected: GitSnapshot) -> list[dict[str, Any]]:
+def load_discovery_snapshot_records(
+    selected: GitSnapshot, *, authority: AuthorityGraph | None = None
+) -> list[dict[str, Any]]:
     """Return the fully validated discovery registry of one exact snapshot.
 
     Either storage layout is accepted, so basis commits from before the
-    partition migration stay reproducible.
+    partition migration stay reproducible. ``authority`` is the graph of
+    ``selected`` when the caller has already built it.
     """
 
     entries = {name: selected.get(path) for name, path in DISCOVERY_INPUT_PATHS.items()}
@@ -1761,7 +1784,7 @@ def load_discovery_snapshot_records(selected: GitSnapshot) -> list[dict[str, Any
             f"{selected.identity}: invalid basis discovery registry schema: "
             + " | ".join(failures)
         )
-    basis_authority = AuthorityGraph(selected)
+    basis_authority = authority if authority is not None else AuthorityGraph(selected)
     failures.extend(registry.layout_errors)
     failures.extend(basis_authority.errors)
     failures.extend(
@@ -1976,6 +1999,9 @@ def evaluate_reconstruction_assessments(
     # Basis commits share nearly every blob; verified bytes are read once per
     # evaluation and shared by object ID instead of once per basis commit.
     blob_cache: dict[str, bytes] = {}
+    # Likewise nearly every document: each distinct one is parsed once, and
+    # one graph per basis commit serves both its registry and its assessments.
+    front_matter_cache: dict[tuple[str, bytes], AuthorityMetadata | None] = {}
 
     def snapshot(commit: str) -> GitSnapshot:
         if commit not in snapshot_cache:
@@ -1986,12 +2012,16 @@ def evaluate_reconstruction_assessments(
 
     def records_at(commit: str) -> list[dict[str, Any]]:
         if commit not in basis_record_cache:
-            basis_record_cache[commit] = load_discovery_snapshot_records(snapshot(commit))
+            basis_record_cache[commit] = load_discovery_snapshot_records(
+                snapshot(commit), authority=authority_at(commit)
+            )
         return basis_record_cache[commit]
 
     def authority_at(commit: str) -> AuthorityGraph:
         if commit not in basis_authority_cache:
-            basis_authority_cache[commit] = AuthorityGraph(snapshot(commit))
+            basis_authority_cache[commit] = AuthorityGraph(
+                snapshot(commit), front_matter_cache=front_matter_cache
+            )
         return basis_authority_cache[commit]
 
     comparison_by_subject: dict[str, Mapping[str, Any]] | None = None
@@ -2443,8 +2473,8 @@ def load_reconstruction_policy(snapshot: GitSnapshot) -> tuple[str | None, list[
 _CHECKED_SCHEMA_CLASSES: dict[str, Any] = {}
 
 
-def _schema_validator_class(schema: Mapping[str, Any], label: str) -> Any:
-    """Return the Draft 2020-12 validator class once ``schema`` passes inspection.
+def _checked_schema(schema: Mapping[str, Any], label: str) -> tuple[str, Any]:
+    """Return ``schema``'s canonical JSON form and its Draft 2020-12 validator class.
 
     Inspection and metaschema checking depend only on the schema's content, so
     an accepted schema is remembered by its canonical JSON form: validating a
@@ -2457,11 +2487,14 @@ def _schema_validator_class(schema: Mapping[str, Any], label: str) -> Any:
     except (TypeError, ValueError) as exc:
         raise DomainError(f"{label}: schema is not canonical JSON: {exc}") from exc
     accepted = _CHECKED_SCHEMA_CLASSES.get(canonical)
-    if accepted is not None:
-        return accepted
-    accepted = _check_schema_validator_class(schema, label)
-    _CHECKED_SCHEMA_CLASSES[canonical] = accepted
-    return accepted
+    if accepted is None:
+        accepted = _check_schema_validator_class(schema, label)
+        _CHECKED_SCHEMA_CLASSES[canonical] = accepted
+    return canonical, accepted
+
+
+def _schema_validator_class(schema: Mapping[str, Any], label: str) -> Any:
+    return _checked_schema(schema, label)[1]
 
 
 def _check_schema_validator_class(schema: Mapping[str, Any], label: str) -> Any:
@@ -2582,6 +2615,29 @@ def _diagnostic_path(
     return "<root>" if not rendered else "/" + "/".join(rendered)
 
 
+# One private copy, validator and property-name set per accepted schema, and the
+# diagnostics of each exact (schema, instance, source, line). A registry row is
+# checked at every basis commit that contains it, and the result depends on
+# nothing else, so the repeats are answered from here.
+_SCHEMA_RUNTIMES: dict[str, tuple[Any, Any, frozenset[str]]] = {}
+_SCHEMA_DIAGNOSTICS: dict[tuple[str, str, str, int], tuple[SchemaDiagnostic, ...]] = {}
+_SCHEMA_DIAGNOSTICS_LIMIT = 65536
+
+
+def _canonical_json_key(value: Any) -> str | None:
+    """Return a key equal exactly when two plain JSON values are equal, else None.
+
+    Only a value that survives the round trip is given a key, so a tuple, a
+    non-string key or a non-finite number is never confused with its JSON form.
+    """
+
+    try:
+        key = json.dumps(value, sort_keys=True, ensure_ascii=False, allow_nan=False)
+        return key if json.loads(key) == value else None
+    except (TypeError, ValueError, RecursionError):
+        return None
+
+
 def schema_diagnostics(
     instance: Any,
     schema: Mapping[str, Any],
@@ -2589,8 +2645,18 @@ def schema_diagnostics(
     *,
     line_number: int | None = None,
 ) -> list[SchemaDiagnostic]:
-    validator_class = _schema_validator_class(schema, repository_path)
-    validator = validator_class(schema)
+    canonical, validator_class = _checked_schema(schema, repository_path)
+    runtime = _SCHEMA_RUNTIMES.get(canonical)
+    if runtime is None:
+        private = json.loads(canonical)
+        runtime = (private, validator_class(private), frozenset(_schema_property_names(private)))
+        _SCHEMA_RUNTIMES[canonical] = runtime
+    private, validator, instance_properties = runtime
+    # The shared runtime stands in only for a schema equal to its private copy.
+    exact = private == schema
+    if not exact:
+        validator = validator_class(schema)
+        instance_properties = frozenset(_schema_property_names(schema))
     source = (
         repository_path
         if _DIAGNOSTIC_SOURCE_RE.fullmatch(repository_path)
@@ -2606,7 +2672,10 @@ def schema_diagnostics(
             and SUBJECT_ID_RE.fullmatch(candidate)
         ):
             subject = candidate
-    instance_properties = _schema_property_names(schema)
+    instance_key = _canonical_json_key(instance) if exact else None
+    cache_key = None if instance_key is None else (canonical, instance_key, source, line)
+    if cache_key is not None and cache_key in _SCHEMA_DIAGNOSTICS:
+        return list(_SCHEMA_DIAGNOSTICS[cache_key])
     result: list[SchemaDiagnostic] = []
     for error in validator.iter_errors(instance):
         instance_path = _diagnostic_path(
@@ -2629,7 +2698,12 @@ def schema_diagnostics(
                 ),
             )
         )
-    return sorted(result, key=SchemaDiagnostic.sort_key)
+    result.sort(key=SchemaDiagnostic.sort_key)
+    if cache_key is not None:
+        if len(_SCHEMA_DIAGNOSTICS) >= _SCHEMA_DIAGNOSTICS_LIMIT:
+            _SCHEMA_DIAGNOSTICS.clear()
+        _SCHEMA_DIAGNOSTICS[cache_key] = tuple(result)
+    return result
 
 
 def render_schema_diagnostics(diagnostics: Iterable[SchemaDiagnostic]) -> list[str]:

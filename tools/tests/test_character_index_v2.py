@@ -318,6 +318,83 @@ class CanonicalizationTests(unittest.TestCase):
             with self.assertRaisesRegex(DomainError, "remote or nonlocal"):
                 validate_schema_document(copy.deepcopy(remote), "remote schema")
 
+    @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
+    def test_remembered_diagnostics_never_cross_schema_instance_source_or_line(self) -> None:
+        import jsonschema
+
+        schema = {
+            "$schema": "https://json-schema.org/draft/2020-12/schema",
+            "title": "diagnostic memo fixture 51c0e2",
+            "type": "object",
+            "properties": {"analysis_subject_id": {"type": "string"}, "tags": {"type": "array"}},
+            "required": ["analysis_subject_id"],
+            "additionalProperties": False,
+        }
+        path = "characters/registry/example.jsonl"
+        instance = {"analysis_subject_id": 1, "extra": True}
+        valid = {"analysis_subject_id": "a"}
+
+        def keywords(value, used_schema) -> list[str]:
+            return [item.validator_keyword for item in schema_diagnostics(value, used_schema, path, line_number=3)]
+
+        validator_class = jsonschema.validators.Draft202012Validator
+        with mock.patch.object(
+            validator_class, "iter_errors", autospec=True, side_effect=validator_class.iter_errors
+        ) as checked:
+            first = schema_diagnostics(copy.deepcopy(instance), copy.deepcopy(schema), path, line_number=3)
+            calls = checked.call_count
+            self.assertGreater(calls, 0)
+            # An equal row under an equal schema at the same place is answered without a second check.
+            again = schema_diagnostics(copy.deepcopy(instance), copy.deepcopy(schema), path, line_number=3)
+            self.assertEqual(checked.call_count, calls)
+        self.assertEqual(first, again)
+        self.assertEqual(sorted(item.validator_keyword for item in first), ["additionalProperties", "type"])
+        # The caller owns the list it receives.
+        again.clear()
+        self.assertEqual(schema_diagnostics(instance, schema, path, line_number=3), first)
+        # Source and line are part of every diagnostic.
+        moved = schema_diagnostics(instance, schema, path, line_number=4)
+        self.assertEqual({item.line_number for item in moved}, {4})
+        elsewhere = schema_diagnostics(instance, schema, "characters/registry/other.jsonl", line_number=3)
+        self.assertEqual({item.repository_path for item in elsewhere}, {"characters/registry/other.jsonl"})
+        # A value that only resembles a remembered one as JSON is checked on its own.
+        self.assertEqual(keywords({**valid, "tags": ["x"]}, schema), [])
+        self.assertEqual(keywords({**valid, "tags": ("x",)}, schema), ["type"])
+        # So is a different schema, including the same object changed in place.
+        self.assertEqual(keywords(valid, schema), [])
+        self.assertEqual(keywords(valid, {**copy.deepcopy(schema), "required": ["analysis_subject_id", "tags"]}), ["required"])
+        changed_in_place = copy.deepcopy(schema)
+        self.assertEqual(keywords(valid, changed_in_place), [])
+        changed_in_place["required"].append("tags")
+        self.assertEqual(keywords(valid, changed_in_place), ["required"])
+
+    def test_shared_front_matter_cache_never_changes_a_graph(self) -> None:
+        path, other = "series/example/A.md", "series/example/NEXT.md"
+        plain = b"# No front matter\n"
+        versions = [
+            snapshot((path, authority_bytes()), (other, plain)),
+            snapshot((path, authority_bytes("historical_legacy")), (other, plain)),
+            # A nonreciprocal edge, then an unterminated block: graph and parse errors.
+            snapshot((path, authority_bytes("superseded")), (other, authority_bytes())),
+            snapshot((path, b"---\nstatus: canonical\n"), (other, authority_bytes())),
+        ]
+
+        def facts(graph: AuthorityGraph) -> tuple:
+            return (graph.metadata, graph.edges, graph.errors, graph.invalid_paths)
+
+        expected = [facts(AuthorityGraph(item)) for item in versions]
+        self.assertEqual(len({repr(item) for item in expected}), len(versions))
+        self.assertTrue(expected[2][2] and expected[3][2])
+        for order in ([0, 1, 2, 3], [3, 2, 1, 0], [0, 1, 0, 3, 3, 2, 1]):
+            cache: dict = {}
+            for index in order:
+                with self.subTest(order=order, index=index):
+                    graph = AuthorityGraph(versions[index], front_matter_cache=cache)
+                    self.assertEqual(facts(graph), expected[index])
+            # A rejected document is derived again by every graph, never stored.
+            self.assertNotIn((path, versions[3].entries[path].data), cache)
+            self.assertIn((path, versions[0].entries[path].data), cache)
+
 
 class DiscoveryContractTests(unittest.TestCase):
     def setUp(self) -> None:
