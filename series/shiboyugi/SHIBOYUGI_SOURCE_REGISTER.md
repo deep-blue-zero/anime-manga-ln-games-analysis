@@ -3,7 +3,7 @@ title: "Shiboyugi — Source Register"
 artifact_id: SBY_SOURCE_REGISTER
 artifact_type: source_register
 series: shiboyugi
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -118,4 +118,8 @@ The first component map mistakenly included short members before the afterword. 
 
 ## V02 coverage
 
-The principal completed all 2,375 paragraph positions, the five at-position plates and six delayed original front and cover plates of SBY-JP-V02-W01. Two specialists completed independent main-prose passes, and the language specialist's selective pass reached 2,065 positions across all four narrative members. The [V02 reading](readings/SHIBOYUGI_V02_DEEP_READING.md) and [V02 checkpoint](checkpoints/SHIBOYUGI_V02_CHECKPOINT.md) route details and achieved source scope. All assigned V02 reading used the corrected component classification and witness receipt. Signed commentary S19–S20 and all afterword, bonus and unclassified material stay outside this unit's main evidence. V03 is the next unit through its independent committed frontier.
+The principal completed all 2,375 paragraph positions, the five at-position plates and six delayed original front and cover plates of SBY-JP-V02-W01. Two specialists completed independent main-prose passes, and the language specialist's selective pass reached 2,065 positions across all four narrative members. The [V02 reading](readings/SHIBOYUGI_V02_DEEP_READING.md) and [V02 checkpoint](checkpoints/SHIBOYUGI_V02_CHECKPOINT.md) route details and achieved source scope. All assigned V02 reading used the corrected component classification and witness receipt. Signed commentary S19–S20 and all afterword, bonus and unclassified material stay outside this unit's main evidence. V03 followed its independent committed frontier.
+
+## V03 coverage
+
+The principal completed all 2,197 paragraph positions in main prose, the seven at-position plates S11/S13/S14/S16/S18/S20/S22 I01 and six delayed cover/front plates S01–S06 I01 of SBY-JP-V03-W01. Evidence, character and language readers independently covered all 2,197 paragraph positions. The independent reviewer reopened diagnostic prose and checked all thirteen eligible plates. See the [V03 reading](readings/SHIBOYUGI_V03_DEEP_READING.md) and [V03 checkpoint](checkpoints/SHIBOYUGI_V03_CHECKPOINT.md) for the scope, name and reporting differences. Retrieval used the immutable v2 locator through an added wrapper gating access on Git's committed entrypoint. The supplied package retains a reported first-entry mimetype warning and passed retrieval and image verification. S24–S26 signed commentary, afterword, publisher notices, electronic bonus, advertisements and unresolved back artwork are excluded. V04 is the next unit through the committed frontier.
