@@ -2,10 +2,11 @@
 title: Manga / Anime Long-Series Hybrid Execution Protocol
 artifact_id: MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL
 artifact_type: long_series_hybrid_execution_protocol
-version: "1.0"
+version: "1.1"
 status: canonical
 scope: preferred phase lifecycle for substantial longitudinal series and bounded live-service corpora
 created: 2026-09-13
+last_updated: 2026-11-14
 maintainer: ChatGPT + user
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -122,7 +123,7 @@ A generated evidence summary can orient the analyst but cannot be the sole suppo
 
 Cloud Pro is tasked with substantial analytical authorship, not merely formatting local findings. Its deliverable can be a complete monograph or synthesis within the assigned evidence scope.
 
-For a major character, the architecture should normally make development/state transitions, motive and self-report, relationship conditioning, language/performance where supported, contradictions/counterevidence, thematic function, and limitations recoverable. The actual work determines which dimensions matter; do not force every character through an identical psychological template.
+For a major character, the architecture should normally make development/state transitions, motive and self-report, relationship conditioning, language/performance where supported, contradictions/counterevidence, thematic function, and limitations recoverable. The actual work determines which dimensions matter; do not force every character through an identical psychological template. An individual character monograph meets the [self-contained character monograph standard](MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard) (initiation Section 5.5.1), whose responsibilities are coverage duties, not a template.
 
 A specialist must make an argument appropriate to its role. A continuous synthesis must reconcile specialist findings into a coherent account rather than concatenate abstracts. A reconstruction model remains distinct from literary interpretation and must meet its own behavioral constraints and validation responsibilities.
 
@@ -189,6 +190,10 @@ Evaluate the topology by evidence-grounded analytical depth, preserved prospecti
 The default may be changed for a task when another adequate route is better. Record the reason; do not convert a situational exception into a claim that cloud or local is categorically superior.
 
 ## Changelog
+
+### v1.1 - 2026-11-14 - Self-contained monograph pointer
+
+Section 8 points individual character monographs to the self-contained character monograph standard (initiation Section 5.5.1). Phase lifecycle, ownership and depth rules are otherwise unchanged.
 
 ### Proposal revision 2 - 2026-09-13
 
