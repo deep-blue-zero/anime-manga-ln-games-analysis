@@ -18,6 +18,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "a-certain-dark-side-item",
+      "stable_slug": "a-certain-dark-side-item",
+      "canonical_title": "A Certain Dark Side ITEM",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/a-certain-dark-side-item/",
+      "canonical_entrypoint": "series/a-certain-dark-side-item/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261115",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese strelka manga adaptation とある暗部の少女共棲, Dengeki Comics NEXT; team agency, covert tasking and secrecy as presented by collected-page form."
+    },
+    {
       "series_id": "a-certain-scientific-accelerator",
       "stable_slug": "a-certain-scientific-accelerator",
       "canonical_title": "A Certain Scientific Accelerator",
