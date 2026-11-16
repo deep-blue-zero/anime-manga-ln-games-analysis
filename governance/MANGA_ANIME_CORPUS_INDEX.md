@@ -82,6 +82,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [THE IDOLM@STER CINDERELLA GIRLS (2015 Anime)](../series/the-idolmaster-cinderella-girls-2015-anime/) — `series/the-idolmaster-cinderella-girls-2015-anime/`
 - [THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)](../series/the-idolmaster-cinderella-girls-mobile-games/) — `series/the-idolmaster-cinderella-girls-mobile-games/`
 - [THE IDOLM@STER CINDERELLA GIRLS U149](../series/the-idolmaster-cinderella-girls-u149/) — `series/the-idolmaster-cinderella-girls-u149/`
+- [The Irregular at Magic High School - Yoru no Tobari ni Yami wa Hirameku](../series/mahouka-yoru-no-tobari/) — `series/mahouka-yoru-no-tobari/` — Japanese light-novel spin-off 魔法科高校の劣等生 夜の帳に闇は閃く; the Kuroba twins, assignment and loyalty, cover identities and disclosure inside the prose subseries.
 - [The Ramparts of Ice / 氷の城壁](../series/the-ramparts-of-ice/) — `series/the-ramparts-of-ice/` — Japanese full-colour tankobon analysis of character development, directed relationships, source-language expression and edition-specific visual form, with bounded reconstruction.
 - [Three Days of Happiness](../series/three-days-of-happiness/) — `series/three-days-of-happiness/` — Standalone Japanese novel 三日間の幸福 by Sugaru Miaki; independent prose project with edition-bounded source and reconstruction responsibilities.
 - [To Be Hero X](../series/to-be-hero-x/) — `series/to-be-hero-x/`

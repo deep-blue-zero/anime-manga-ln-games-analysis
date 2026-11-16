@@ -595,6 +595,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "mahouka-yoru-no-tobari",
+      "stable_slug": "mahouka-yoru-no-tobari",
+      "canonical_title": "The Irregular at Magic High School - Yoru no Tobari ni Yami wa Hirameku",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/mahouka-yoru-no-tobari/",
+      "canonical_entrypoint": "series/mahouka-yoru-no-tobari/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261115",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese light-novel spin-off 魔法科高校の劣等生 夜の帳に闇は閃く; the Kuroba twins, assignment and loyalty, cover identities and disclosure inside the prose subseries."
+    },
+    {
       "series_id": "mass-effect",
       "stable_slug": "mass-effect",
       "canonical_title": "Mass Effect",
