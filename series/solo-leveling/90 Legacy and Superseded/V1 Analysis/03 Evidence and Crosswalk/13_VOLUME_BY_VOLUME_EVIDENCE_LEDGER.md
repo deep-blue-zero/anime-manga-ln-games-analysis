@@ -3,10 +3,11 @@ title: Solo Leveling — Volume-by-Volume Evidence Ledger
 project: Solo Leveling Definitive Novel–Manhwa Synthesis
 document_id: SL_SYNTH_13
 version: '1.0'
-status: canonical
+status: superseded
 supersedes: []
-superseded_by: []
-do_not_use_as_current_authority: false
+superseded_by:
+- series/solo-leveling/03 Evidence and Crosswalk/13_VOLUME_BY_VOLUME_EVIDENCE_LEDGER_V2.md
+do_not_use_as_current_authority: true
 source_scope:
 - 'Chugong''s complete original Korean novel omnibus: main story, 외전 1–21, 후일담 1–2'
 - Official English manhwa Volumes 1–15

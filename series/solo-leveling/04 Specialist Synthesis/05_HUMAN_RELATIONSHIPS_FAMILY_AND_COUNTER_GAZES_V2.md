@@ -8,7 +8,8 @@ authority_generation: v2
 canonical_home: series/solo-leveling/04 Specialist Synthesis/05_HUMAN_RELATIONSHIPS_FAMILY_AND_COUNTER_GAZES_V2.md
 version: '2.0'
 status: canonical
-supersedes: []
+supersedes:
+- series/solo-leveling/90 Legacy and Superseded/V1 Analysis/04 Specialist Synthesis/05_HUMAN_RELATIONSHIPS_FAMILY_AND_COUNTER_GAZES.md
 superseded_by: []
 do_not_use_as_current_authority: false
 source_scope:

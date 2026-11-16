@@ -4,10 +4,11 @@ subtitle: The Sung Jinwoo who exists most clearly in prose
 project: Solo Leveling Definitive Novel–Manhwa Synthesis
 document_id: SL_SYNTH_09
 version: '1.0'
-status: canonical
+status: superseded
 supersedes: []
-superseded_by: []
-do_not_use_as_current_authority: false
+superseded_by:
+- series/solo-leveling/04 Specialist Synthesis/09_KOREAN_NARRATION_VOICE_TERMINOLOGY_AND_TRANSLATION_V2.md
+do_not_use_as_current_authority: true
 source_scope:
 - 'Chugong''s complete original Korean novel omnibus: main story, 외전 1–21, 후일담 1–2'
 - Official English manhwa Volumes 1–15 for adaptation/translation comparison where appropriate

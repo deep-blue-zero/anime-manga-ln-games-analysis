@@ -3,10 +3,11 @@ title: Solo Leveling — Series Architecture and Volume Progression
 project: Solo Leveling Definitive Novel–Manhwa Synthesis
 document_id: SL_SYNTH_01
 version: '1.0'
-status: canonical
+status: superseded
 supersedes: []
-superseded_by: []
-do_not_use_as_current_authority: false
+superseded_by:
+- series/solo-leveling/04 Specialist Synthesis/01_SERIES_ARCHITECTURE_AND_VOLUME_PROGRESSION_V2.md
+do_not_use_as_current_authority: true
 source_scope:
 - Original Korean novel
 - Official English manhwa Volumes 1–15

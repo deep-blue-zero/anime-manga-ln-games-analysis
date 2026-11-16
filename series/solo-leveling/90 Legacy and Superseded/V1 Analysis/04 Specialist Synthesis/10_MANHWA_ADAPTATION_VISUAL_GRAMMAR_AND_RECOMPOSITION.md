@@ -4,10 +4,11 @@ subtitle: Mythologizing Jinwoo through image, pacing, reaction, and structural c
 project: Solo Leveling Definitive Novel–Manhwa Synthesis
 document_id: SL_SYNTH_10
 version: '1.0'
-status: canonical
+status: superseded
 supersedes: []
-superseded_by: []
-do_not_use_as_current_authority: false
+superseded_by:
+- series/solo-leveling/04 Specialist Synthesis/10_MANHWA_ADAPTATION_VISUAL_GRAMMAR_AND_RECOMPOSITION_V2.md
+do_not_use_as_current_authority: true
 source_scope:
 - Official English manhwa Volumes 1–15 as the controlling visual/adaptation source
 - Chugong's complete original Korean novel omnibus for prose correspondence and adaptation comparison

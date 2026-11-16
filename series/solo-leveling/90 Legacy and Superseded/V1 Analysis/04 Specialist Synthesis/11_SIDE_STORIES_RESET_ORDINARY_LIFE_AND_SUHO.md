@@ -4,10 +4,11 @@ subtitle: What remains after the quest ends
 project: Solo Leveling Definitive Novel–Manhwa Synthesis
 document_id: SL_SYNTH_11
 version: '1.0'
-status: canonical
+status: superseded
 supersedes: []
-superseded_by: []
-do_not_use_as_current_authority: false
+superseded_by:
+- series/solo-leveling/04 Specialist Synthesis/11_SIDE_STORIES_RESET_ORDINARY_LIFE_AND_SUHO_V2.md
+do_not_use_as_current_authority: true
 source_scope:
 - Chugong's complete original Korean novel omnibus, including 외전 1–21 and 후일담 1–2
 - Official English manhwa Volumes 13–15 for adaptation structure, reset-world visual form, and the manhwa-original adolescent-Suho continuation
