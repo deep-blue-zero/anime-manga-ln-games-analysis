@@ -57,6 +57,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [One Punch Man](../series/one-punch-man/) — `series/one-punch-man/`
 - [Oregairu](../series/oregairu/) — `series/oregairu/`
 - [Oreimo](../series/oreimo/) — `series/oreimo/`
+- [Overlord](../series/overlord/) — `series/overlord/` — Japanese collected light novels オーバーロード; game-derived expectations, viewpoints, delegated power and changing institutions in the prose continuity.
 - [Peach Girl / ピーチガール](../series/peach-girl/) — `series/peach-girl/` — Original Japanese manga analysis of character development, directional relationships, information and reputation, and manga form; architecture supports longitudinal synthesis and time-bounded character reconstruction. Primary and derived evidence remain in Drive.
 - [Playing Death Games to Put Food on the Table](../series/shiboyugi/) — `series/shiboyugi/` — Japanese light-novel series 死亡遊戯で飯を食う。, also known as Shiboyugi; edition-bounded prose, disclosure, character, relationship and reconstruction analysis.
 - [Project SEKAI](../series/project-sekai/) — `series/project-sekai/` — Previously omitted Drive analytical corpus; 58 documents and original folder hierarchy imported. External source and media evidence remain outside Git.
