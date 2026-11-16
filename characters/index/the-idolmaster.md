@@ -24,7 +24,7 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `amaya-tsubame-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence; it is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
+  - `amaya-tsubame-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence. Under the living-core policy (architecture §18.1, 2026-11-15) it also integrates numbered-event, support-story and other-route evidence into its body as dated, attributed additions, each kept in its own track and listed in the core's Phase-4/5 integration pointers. It is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-13-amaya-tsubame` — GKM CORE 13 AMAYA TSUBAME](../../series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/13_AMAYA_TSUBAME/GKM_CORE_13_AMAYA_TSUBAME.md)
 
@@ -46,7 +46,7 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `arimura-mao-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence; it is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
+  - `arimura-mao-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence. Under the living-core policy (architecture §18.1, 2026-11-15) it also integrates numbered-event, support-story and other-route evidence into its body as dated, attributed additions, each kept in its own track and listed in the core's Phase-4/5 integration pointers. It is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-04-arimura-mao` — GKM CORE 04 ARIMURA MAO](../../series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/04_ARIMURA_MAO/GKM_CORE_04_ARIMURA_MAO.md) — **active provisional authority**
 
@@ -113,7 +113,7 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `hanami-ume-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence; it is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
+  - `hanami-ume-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence. Under the living-core policy (architecture §18.1, 2026-11-15) it also integrates numbered-event, support-story and other-route evidence into its body as dated, attributed additions, each kept in its own track and listed in the core's Phase-4/5 integration pointers. It is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-10-hanami-ume` — GKM CORE 10 HANAMI UME](../../series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/10_HANAMI_UME/GKM_CORE_10_HANAMI_UME.md)
 
@@ -135,7 +135,7 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `hataya-misuzu-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence; it is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
+  - `hataya-misuzu-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence. Under the living-core policy (architecture §18.1, 2026-11-15) it also integrates numbered-event, support-story and other-route evidence into its body as dated, attributed additions, each kept in its own track and listed in the core's Phase-4/5 integration pointers. It is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-11-hataya-misuzu` — GKM CORE 11 HATAYA MISUZU](../../series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/11_HATAYA_MISUZU/GKM_CORE_11_HATAYA_MISUZU.md)
 
@@ -180,7 +180,7 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `himesaki-rinami-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence; it is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
+  - `himesaki-rinami-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence. Under the living-core policy (architecture §18.1, 2026-11-15) it also integrates numbered-event, support-story and other-route evidence into its body as dated, attributed additions, each kept in its own track and listed in the core's Phase-4/5 integration pointers. It is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-08-himesaki-rinami` — GKM CORE 08 HIMESAKI RINAMI](../../series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/08_HIMESAKI_RINAMI/GKM_CORE_08_HIMESAKI_RINAMI.md)
 
@@ -314,7 +314,7 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `juo-sena-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence; it is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
+  - `juo-sena-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence. Under the living-core policy (architecture §18.1, 2026-11-15) it also integrates numbered-event, support-story and other-route evidence into its body as dated, attributed additions, each kept in its own track and listed in the core's Phase-4/5 integration pointers. It is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-12-juo-sena` — GKM CORE 12 JUO SENA](../../series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/12_JUO_SENA/GKM_CORE_12_JUO_SENA.md)
 
@@ -359,7 +359,7 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `katsuragi-lilja-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence; it is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
+  - `katsuragi-lilja-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence. Under the living-core policy (architecture §18.1, 2026-11-15) it also integrates numbered-event, support-story and other-route evidence into its body as dated, attributed additions, each kept in its own track and listed in the core's Phase-4/5 integration pointers. It is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-05-katsuragi-lilja` — GKM CORE 05 KATSURAGI LILJA](../../series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/05_KATSURAGI_LILJA/GKM_CORE_05_KATSURAGI_LILJA.md)
 
@@ -426,7 +426,7 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `kuramoto-china-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence; it is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
+  - `kuramoto-china-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence. Under the living-core policy (architecture §18.1, 2026-11-15) it also integrates numbered-event, support-story and other-route evidence into its body as dated, attributed additions, each kept in its own track and listed in the core's Phase-4/5 integration pointers. It is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-06-kuramoto-china` — GKM CORE 06 KURAMOTO CHINA](../../series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/06_KURAMOTO_CHINA/GKM_CORE_06_KURAMOTO_CHINA.md)
 
@@ -494,7 +494,7 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `shinosawa-hiro-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence; it is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
+  - `shinosawa-hiro-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence. Under the living-core policy (architecture §18.1, 2026-11-15) it also integrates numbered-event, support-story and other-route evidence into its body as dated, attributed additions, each kept in its own track and listed in the core's Phase-4/5 integration pointers. It is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-07-shinosawa-hiro` — GKM CORE 07 SHINOSAWA HIRO](../../series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/07_SHINOSAWA_HIRO/GKM_CORE_07_SHINOSAWA_HIRO.md)
 
@@ -516,7 +516,7 @@ Reviewed analysis subjects in the `the-idolmaster` namespace of the [Character A
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `shiun-sumika-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence; it is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
+  - `shiun-sumika-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence. Under the living-core policy (architecture §18.1, 2026-11-15) it also integrates numbered-event, support-story and other-route evidence into its body as dated, attributed additions, each kept in its own track and listed in the core's Phase-4/5 integration pointers. It is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-09-shiun-sumika` — GKM CORE 09 SHIUN SUMIKA](../../series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/09_SHIUN_SUMIKA/GKM_CORE_09_SHIUN_SUMIKA.md)
 
