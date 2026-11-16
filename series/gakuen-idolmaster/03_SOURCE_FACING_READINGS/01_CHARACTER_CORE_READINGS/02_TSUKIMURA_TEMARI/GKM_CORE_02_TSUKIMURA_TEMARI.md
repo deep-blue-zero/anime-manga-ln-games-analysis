@@ -3,7 +3,7 @@ title: "Gakuen Idolmaster V2 — Tsukimura Temari Character-Core Reading"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "Phase-3 provisional character-core reading"
 artifact_type: source_facing_character_core
-version: "2.0"
+version: "2.1"
 phase: "3 — Character-Core Readings"
 character: "Tsukimura Temari / 月村手毬"
 character_code: "ttmr"
@@ -11,11 +11,15 @@ source_lock: "GAKUMAS V2 Source Lock 1.0"
 governing_method: "GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.1"
 governing_continuity: "GKM_CONTINUITY_AND_STORY_STATE_MAP.md"
 created: "2026-08-14"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15 corrections: REVISE, STRENGTHEN, DOWNGRADE and OPEN transitions with A1 locators, dated integration of numbered-event, support-story and host-track evidence into the body, and a Phase-4/5 integration pointer section."
 status: "canonical Phase-3 source-facing artifact; provisional, not a definitive monograph"
 audiovisual_status: "textual and scripted-dramaturgy analysis complete; music/MV and selected dialogue-performance evidence requested but not yet inspected"
 ---
 
 # GKM CORE 02 — TSUKIMURA TEMARI / 月村手毬
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** Targeted corrections and integrations from the source-to-analysis audit (GKM-SAA findings). REVISE: the Dear 035–037 address sequence (§2.5, §10.4; GKM-SAA-006), the summer-H.I.F. causal clause (§2.4; GKM-SAA-121), the U1 "weak center" scope and exit bullet (§2.6; GKM-SAA-032, GKM-SAA-167), Misuzu's ability in Temari's eyes (§2.3; GKM-SAA-049), the Event 008 fan scene and authorship of plural fandom (§3.2.10, §11.1, §26; GKM-SAA-008), the Misuzu–Producer arc (§7.2; GKM-SAA-045), the consent pattern (§10.2; GKM-SAA-044), the self-love conditionality (§17.4, H-TEMARI-03; GKM-SAA-046) and criticism preferences (§18, §20; GKM-SAA-184). DOWNGRADE: Rinha's protective motive to effect language (§3.2.9, §9.1, §17.5; GKM-SAA-042). STRENGTHEN: Kaya Kei as Temari's first idol (new §3.2.13a; GKM-SAA-043), the STEP3 variance turn (§3.1.1, §6.2; GKM-SAA-007), family and childhood (§3.3.5, §5.1; GKM-SAA-047), Temari in other idols' Dear tracks (§1.3, §16.8, §25; GKM-SAA-048), and P3 traceability items (GKM-SAA-163, 179–183). The same address error outside the named targets is also corrected (§14.2, §23.3; GKM-SAA-006). Owner decision 1 (amended): numbered-event and support evidence (E007, E016, E023; support 3-0106, 3-0112, 2-0078 and 3-0114; GKM-SAA-104, GKM-SAA-108, GKM-SAA-275) now sits in the body as dated additions, indexed by the new "Phase-4/5 integration pointers" section before §22. Every changed sentence quotes its v2.0 wording in the dated note beside it; romance-coded material stays OPEN.
 
 ## 0. Executive thesis
 
@@ -119,6 +123,8 @@ The reading proceeded in the required Phase-3 order:
 
 `D-TEMARI` and `P3-C-TEMARI` converge strongly around Sena’s summer Prima Stella title and the reformed winter H.I.F., but this does not authorize mechanical concatenation of every gameplay result fragment with every Dear Idol scene.
 
+**Track note (2026-11-15, GKM-SAA-048, GKM-SAA-104, GKM-SAA-108) — STRENGTHEN.** Dated additions in this revision also cite Temari where she appears outside Temari-owned sources: other idols' Dear tracks (labelled `C1 @ D-[host]`, for example `C1 @ D-MISUZU`), numbered story events (`E007`, `E016`, `E023`; C4 relative to D-TEMARI unless internally anchored) and support stories (`S3-0106`, `S3-0112`, `S2-0078`, `S3-0114`; revision 86, C4 externally). These states keep their own labels. Host-track states are focalised through the host idol and are mutually exclusive with D-TEMARI where they occupy the same slot (for example the winter H.I.F.), so none of them is added to Temari's own biography. The Phase-4/5 integration pointers section before §22 indexes where each item now sits.
+
 ## 1.4 Evidence boundary
 
 This document directly supports:
@@ -195,9 +201,11 @@ Misuzu is not merely a caretaker. She is:
 
 - the childhood companion who first shared Temari’s dream;
 - the person who knew and managed her bodily needs;
-- a singer Temari underestimated because Misuzu rarely exerted herself visibly;
+- a singer whose ability Temari always rated far above her own, but whose unhurried pace she misread as laziness;
 - someone whose care became intolerable because it could make Temari feel permanently childlike;
 - a rival who must stop yielding if the relationship is to become survivable.
+
+**Audit correction (2026-11-15, GKM-SAA-049) — REVISE / STRENGTHEN.** v2.0 read: "a singer Temari underestimated because Misuzu rarely exerted herself visibly". Temari does not underestimate Misuzu's ability. In Dear 004 she calls Misuzu and Rinha "私よりも遥かにすごいふたり" (`adv_dear_ttmr_004` L163) while complaining that Misuzu is always idling and never shows real effort (L141); in Dear 009 she says they were far better than she was but too kind to her (`adv_dear_ttmr_009` L274–L284). What she misread was Misuzu's pace. The hierarchy also has a chronology. At formation Temari was the clumsiest of the three (`adv_cidol-ttmr-3-007_02` L152). Dear 022 recalls a fellow beginner improving fast and leaving her behind (`adv_dear_ttmr_022` L204–L219); the referent is most plausibly Misuzu, since Rinha was already strong at their first meeting (`adv_dear_ttmr_011` L174). In Kaya Kei's heyday SyngUp! was called Rinha's one-woman unit (Temari's recollection, `adv_dear_hmsz_032` L190; C1 @ D-MISUZU). Temari says that by the time SyngUp! became famous Rinha had devoted herself to supporting her (`adv_cidol-ttmr-3-007_02` L123), and the Producer reports that the public saw a Temari one-man unit (`adv_dear_ttmr_004` L68). In the same D-MISUZU scene Temari says that as a child she felt Rinha and Kei had taken Misuzu from her, because her own songs could not move Misuzu to tears (`adv_dear_hmsz_032` L286, L317–L327); that is other-route memory, not D-TEMARI. Limits: "clumsiest" may be self-deprecation.
 
 Temari’s N.I.A. victories do not prove that she was right to reject them. They make a new relationship form possible: she can beat, admire, need, and be needed without returning to the exact structure that destroyed SyngUp!.
 
@@ -205,15 +213,19 @@ Temari’s N.I.A. victories do not prove that she was right to reject them. They
 
 Misuzu’s solo performance reveals a frightening possibility: the person Temari thought was standing behind her can generate a world in which Temari becomes a spectator. Temari does not merely fear losing. She experiences the pleasure and humiliation of becoming Misuzu’s fan.
 
-Juo Sena ultimately wins the summer Prima Stella title. Temari refuses consolatory moral accounting. She acknowledges that her own presence may have changed the field and that the Producer’s work may have helped produce the winning conditions; nevertheless, `負けは負け`—a loss is a loss.
+Juo Sena ultimately wins the summer Prima Stella title. Temari refuses consolatory moral accounting. She tentatively acknowledges that her own song may have changed the atmosphere of the field; nevertheless, `負けは負け`—a loss is a loss.
 
 The key development is that Temari no longer interprets another person’s superiority only as evidence that she should disappear. She converts Misuzu’s awakening, Sena’s victory, and Rinha’s return into the next structure of pursuit.
+
+**Audit correction (2026-11-15, GKM-SAA-121) — REVISE.** v2.0 read: "She acknowledges that her own presence may have changed the field and that the Producer’s work may have helped produce the winning conditions". The clause about the Producer's work has no support and is deleted. After the loss Temari asks only whether her song at least changed the atmosphere (`adv_dear_ttmr_023` L257). It is the Producer who argues that her performance woke the audience and might even have changed who became Prima Stella (L262–L279). She answers `負けは負けです` and then thanks him (L283–L288). Sena later corroborates the point from her side: Temari's song at the H.I.F. cleared her doubts and returned her to being a challenger (`adv_dear_ttmr_027` L113–L120). The causal point is therefore shared between Temari's tentative question, the Producer's argument and Sena's testimony; §3.2.13 states it correctly. The next pursuit includes the 961 giant-killing bouts (§3.1.1, §6.2; GKM-SAA-007) and the contest with Rinha's copy of Kaya Kei (§3.2.13a; GKM-SAA-043).
 
 ## 2.5 Winter H.I.F.: present-tense self-love
 
 By the winter H.I.F., Temari’s route no longer asks whether she can become independent of everyone who formed her. It asks whether she can stand at the summit while naming those formations as hers.
 
-She beats Saki and treats that victory as a defining class rivalry rather than the destruction of Saki. She eats food prepared through intimate knowledge, accepts help with hated vegetables, lets Misuzu prepare her, confronts Rinha’s continued fan support, and asks the Producer to call her `手毬` without the distancing honorific.
+She beats Saki and treats that victory as a defining class rivalry rather than the destruction of Saki. She eats food prepared through intimate knowledge, accepts help with hated vegetables, lets Misuzu prepare her, confronts Rinha’s continued fan support, and asks the Producer to send her off without the distancing honorific.
+
+**Audit correction (2026-11-15, GKM-SAA-006) — REVISE.** v2.0 read: "asks the Producer to call her `手毬` without the distancing honorific". Before the final Temari asks to be sent off, just this once, not as `月村さん` but `呼び捨て` (`adv_dear_ttmr_035` L632–L643). The Producer's single option is `月村`, followed by a plain imperative (L647–L650). After the victory he reverts to `月村さん` (`adv_dear_ttmr_037` L242). He then says he chose the wrong words at the send-off, asks to redo it and, again through a single option, says `手毬` (L417–L428) before proposing ramen ahead of the meeting that Temari herself has just called (L396–L432). Temari answers with a long silent line and then `はいっ` (L441–L450). Her de-honorification request remains her agency. The escalation `月村さん` → `月村` → `手毬` is the Producer's own move, parallel to his `俺` slips (for example `adv_dear_ttmr_008` L249; `adv_dear_ttmr_023` L353). The ramen line is mixed register (`食い` with `ましょう`), not plainly casual. Alternative reading: `呼び捨て` can cover the given name, and his "wrong words" may concede that she wanted `手毬`; that is an ambiguity in her wish, not evidence that she asked for `手毬`. Her puzzled reply at L424 precedes the name and is not evidence that the name surprised her. The delivery of L441 and L450 is an optional AV question; the attribution is settled by the text.
 
 When she becomes Prima Stella, she does not promise to preserve the title unchanged. She says she will make it greater, attack higher, and sing as both the titleholder and **Tsukimura Temari**. The final state is not rest. It is the ability to say:
 
@@ -227,7 +239,7 @@ without needing that sentence to mean:
 
 Unit Story provides a parallel proof that Temari can live in a group without reproducing SyngUp! exactly.
 
-She initially rejects the shared Producer and the unit with open hostility. The arrangement threatens both exclusive Producer access and the unresolved memory of being the weak center supported by stronger members. Saki’s response is not soothing. Saki demands more effort, gives Temari the harsh phrase she secretly wants, and treats her as someone capable of catching up.
+She initially rejects the shared Producer and the unit with open hostility. The arrangement threatens both exclusive Producer access and the unresolved memory of SyngUp!’s collapse, which U1 Temari remembers as her own selfish overdrive rather than, as in D-TEMARI, as being the weak center supported by stronger members. Saki’s response is not soothing. Saki demands more effort, gives Temari the harsh phrase she secretly wants, and treats her as someone capable of catching up.
 
 Temari eventually accepts because the dream remains. Within Re;IRIS she:
 
@@ -237,11 +249,13 @@ Temari eventually accepts because the dream remains. Within Re;IRIS she:
 - learns recipient-specific care rather than generic optimization;
 - admits that Kotone can lead the unit;
 - contributes her voice as repayment and as collective force;
-- nearly exits when center order triggers insecurity;
-- uses provocation to reactivate Saki after defeat;
+- stages a comic exit threat over Saki’s health-policing of her food;
+- uses provocation to reactivate Saki after defeat, returning Saki’s own recruitment speech to her while denying that it is encouragement;
 - tells Misuzu to stop yielding and become a rival.
 
 `U1` does not prove that all SyngUp! wounds are resolved. It proves that Temari can inhabit a unit when conflict, role distribution, and dependence remain speakable.
+
+**Audit correction (2026-11-15, GKM-SAA-032, GKM-SAA-167, GKM-SAA-163) — REVISE / STRENGTHEN; compatibility OPEN.** v2.0 read: "the unresolved memory of being the weak center supported by stronger members", and listed "nearly exits when center order triggers insecurity". The weak-center framing belongs to D-TEMARI: it arises from the Producer's video reframe and Temari's confession in Dear 004 (`adv_dear_ttmr_004` L127–L176) and from her Dear 015 account. U1 keeps Temari's pre-reframe self-account. She remembers urging the unit on, "もっと、もっと", while voices displayed as `？？？` say they are sick of it and that she is pushing too hard and should walk; the second set of lines carries Misuzu's voice assets (`adv_unit_01-01_11` L172–L221). She tells Saki that she left because the other members were useless (L496), which Saki calls a lie (L522). Inwardly she judges that she was only selfish, ignored her comrades' feelings, and sulked and ran when they did not match her (`adv_unit_01-01_13` L125–L160, inner speech). U1 is not free of self-deprecation: when Sena apologises for not scouting her, Temari answers that her reputation was bad (`adv_unit_01-04_17` L747–L765), and Sena reports other producers' judgement that Temari would bring a large minus to any unit (L782). Whether "weak center" (D-TEMARI) and "selfish over-driver" (U1) are compatible facets of one history stays OPEN; the Dear 004 confession and the U1 plea that she will be crushed both imply bodily limits as well as overdrive. The only U1 exit threat is comic: Temari announces she is leaving Re;IRIS because Saki stripped the batter from her tonkatsu (`adv_unit_01-03_12` L40–L302, L272). Centre order leads instead to her own proposal not to fix the centre (`adv_unit_01-03_01` L150–L188). The provocation bullet now records the return of Saki's speech: "あのときの言葉、そのまま返してやる" (`adv_unit_01-04_09` L482), followed by Temari's "励ましてない" (L548); Saki's original recruitment speech is at `adv_unit_01-01_11` L645–L653 and `adv_unit_01-01_12` L469–L602. Kotone and the Producer also contribute to Saki's recovery (04_10–04_12).
 
 ---
 
@@ -257,6 +271,8 @@ This makes her unlike a straightforward beginner. A poor Producer could improve 
 
 That strategy is one reason Temari experiences him as different from Misuzu and Rinha. He does not say, “stop flying.” He says, in effect, “we will redesign the aircraft.” The ethical difficulty is that an aircraft metaphor can also reduce a person to a performance system.
 
+**Audit integration (2026-11-15, GKM-SAA-007) — STRENGTHEN.** D-TEMARI STEP3 supplies the route evidence for this strategy. It is recorded under §6.2.
+
 ### 3.1.2 The P1 result ladder distinguishes pride from delusion
 
 The mutually exclusive branches reveal a stable standard without forming one biography.
@@ -268,6 +284,8 @@ The mutually exclusive branches reveal a stable standard without forming one bio
 - In first-place/true-labeled states, success does not end the evaluation. She asks what comes next and expands “world’s best to the Producer” into a world-scale goal.
 
 The invariant is not that Temari is impossible to satisfy. It is that evaluation matters because it answers an identity question: **is she moving toward or away from the person she can respect?**
+
+**Audit note (2026-11-15, GKM-SAA-182) — choice conditions.** Two of the behaviours above are player-choice branches, not unconditioned P1 responses. The failure exchange in which Temari denies being depressed and is hurt by the Producer's "disastrous" verdict is choice 1 of `adv_pstory_001_ttmr_after-audition-final-failure-01` (L21–L58). The expansion from "world's best to the Producer" to a world-scale goal is choice 2 of `adv_pstory_001_ttmr_ending-true-01` (L60–L170, especially L158–L163). The invariants still hold across branches; the quoted scenes do not. §16.8 lists further Temari branch divergences, whose ledger home is `GKM_BRANCH_DIVERGENCE_LEDGER.md`.
 
 ### 3.1.3 Food is not comic decoration
 
@@ -305,6 +323,8 @@ Temari knows that information about her old conflict and current decline exists.
 
 This creates the basis for trust: not unconditional approval, but the belief that accurate negative knowledge does not automatically end selection.
 
+**Audit integration (2026-11-15, GKM-SAA-183) — STRENGTHEN.** The scouting conversation also starts a lexical arc. Asked why he scouted her, the Producer says he wants to produce a top idol and calls it a `目標`, because it is not as vague as a dream; Temari notes "目標、ですか。夢ではなく", names her own goal and tells him "よかったね、プロデューサー。あなたの目標、達成できるよ" (`adv_dear_ttmr_003` L203–L235). In Dear 020 she corrects him when he says "dream": "夢じゃなくて、目標でしょう？" (`adv_dear_ttmr_020` L233–L251). By the winter final she speaks of "私たちの夢" (`adv_dear_ttmr_034` L369), and after the victory she repeats her Dear 003 line verbatim (`adv_dear_ttmr_037` L144–L151 = `adv_dear_ttmr_003` L231). The Producer's own dream is bound to her from the start: he thought the scouting would make his dream come true (`adv_cidol-ttmr-3-009_03` L222–L228), says he is realising it by meeting her (`adv_dear_ttmr_011` L264), and says she will make "俺の夢" come true (`adv_dear_ttmr_020` L226). See §10.3.
+
 ### 3.2.2 STEP1 reconstructs the body before it reconstructs the biography
 
 The earliest intervention is concrete:
@@ -325,6 +345,8 @@ Temari refuses to say she trusts the Producer. Instead she says that she decides
 To say “I trust you” would expose dependence. To say “I will repay what you did” allows connection to be structured as chosen obligation.
 
 Later, song becomes the most important repayment medium.
+
+**Audit integration (2026-11-15, GKM-SAA-179) — STRENGTHEN (P1 locators).** Produce Series 1 carries the same structure in a utility idiom. In one opening Temari tells the Producer she is only using him to realise her dream and then allows him to stay beside her (`adv_pstory_001_ttmr_opening-normal-03` L11–L22). In a final-audition branch she says she likes him "because you are useful" (`adv_pstory_001_ttmr_after-audition-final-normal-01` L121–L126, choice 3). In the true ending she says she relies on him and, saying she will say it only once, thanks him with `ありがとう、大好き` (`adv_pstory_001_ttmr_ending-true-01` L177–L201). Read in order, these give "only using you" → "you may stay" → open gratitude, but they are mutually exclusive C3 fragments, so the order is a comparison of states, not a chronology. The true ending's choice 1 keeps her refusal to celebrate a step as anything but process (L85–L98). Cross-route echo: in D-MISUZU, Temari accepts being produced "temporarily" with "私も自分のために、あなたを利用させてもらうから……お互い様だね" (`adv_dear_hmsz_028` L106–L110; C1 @ D-MISUZU).
 
 ### 3.2.4 SyngUp! was destroyed by asymmetry made unspeakable
 
@@ -347,6 +369,8 @@ It was a failure to create a form in which three truths could coexist:
 3. necessity did not have to mean permanent hierarchy or humiliation.
 
 Because those truths were not fought over honestly, resentment accumulated until the only available fight was catastrophic and public.
+
+**Audit note (2026-11-15, GKM-SAA-032, GKM-SAA-049) — scope.** The inferiority memory in this subsection is the D-TEMARI account (`adv_dear_ttmr_004` L127–L176; Dear 015), and the conclusion that the breakup was "not simply" selfish rejection is a D-track conclusion. In U1 Temari contests it in her own voice, judging inwardly that she was only selfish (`adv_unit_01-01_13` L125–L160); see §2.6. Whether the accounts are compatible stays OPEN. The hierarchy behind "superior members" has a chronology (clumsiest at formation; Rinha's one-woman unit in Kaya Kei's heyday; later a Temari one-man unit in public perception), recorded under §2.3.
 
 ### 3.2.5 Misuzu’s care was both accurate and intolerable
 
@@ -374,6 +398,8 @@ Temari calls those words like a curse because they make a previously impossible 
 
 The same event produces Misuzu’s dream. SyngUp! therefore begins not from professional convenience but from a shared revelation whose meaning differs for each girl.
 
+*Cross-reference (2026-11-15, GKM-SAA-043):* the Prima Stella of that performance is Rinha's sister Kaya Kei; see §3.2.13a.
+
 ### 3.2.8 Artificial wings do not become natural
 
 Temari’s route repeatedly uses wings as the image of aspiration, support, and constructed capacity. The mature correction is not that the wings become biologically hers.
@@ -399,9 +425,15 @@ Rinha, meanwhile, has absorbed hostility after the SyngUp! rupture and attempts 
 
 The relationship becomes healthier only when both can be origins and future rivals rather than original and copy.
 
+**Audit correction (2026-11-15, GKM-SAA-042) — DOWNGRADE (motive to effect; motive OPEN).** In Dear 015 Temari says that the criticism of her died down because Rinha's inflammatory videos drew a fiercer backlash, and that Rinha "took most of Tsukimura Temari's bad reputation by force" (`adv_dear_ttmr_015` L116–L143). Rinha rejects that reading on the spot: "私を『いい人』みたいに言うの、やめてくれない？" and "賀陽燐羽を美化しすぎ" (L146–L154). She says she had meant to quit idol work after middle school and only said what she wanted to say (L164–L168). The effect is established: public hostility shifted onto Rinha. The protective motive is contested and stays OPEN (see RINHA-C034 and RINHA-C035 in `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md`). Temari's idealising memory, in which only a handful of people know the real Rinha and "私が覚えていれば" is enough (`adv_cidol-ttmr-3-007_02` L118–L136), characterises Temari's attachment and is not proof of Rinha's motive. Competing readings: Rinha's denial may be face-saving; Misuzu calls Rinha extremely loyal and kind (`adv_dear_ttmr_014` L92); Rinha's inner speech values the two who did not mind singing beside her (`adv_dear_ttmr_020` L36); and the Producer's video analysis supports Rinha's on-stage support role during SyngUp! (`adv_dear_ttmr_004` L127–L137), which is a different kind of protection. The Rinha AV queue already holds the delivery of the denial; the Rinha gate is unaffected.
+
+**Audit integration (2026-11-15, GKM-SAA-180) — STRENGTHEN.** Rinha's language survives inside Temari in D-TEMARI, not only in Event 016 (§4.1).
+
 ### 3.2.10 Fans make the old unit socially real
 
-A SyngUp! fan who remains happy that Temari continues singing forces a correction. Temari nearly treats the fan’s attachment as invalid because Misuzu and Rinha are absent. Saki and Kotone redirect her toward the fan’s actual statement.
+*Source family (2026-11-15 relabel, GKM-SAA-008): this scene is Event 008 (`adv_event_008_main-02`), not Dear Idol, and is C4 relative to D-TEMARI. The event reading is `GKM_EVENTS_006_012_DEEP_READING.md` §4.2.*
+
+A SyngUp! fan who remains happy that Temari continues singing forces a correction. Temari discounts herself as the object of that SyngUp!-era attachment, starting to say that Misuzu and Rinha are not here today. Saki and Kotone redirect her toward the fan’s actual statement.
 
 The important principle is:
 
@@ -409,6 +441,8 @@ The important principle is:
 > therefore the past cannot be declared meaningless by the people who made it.
 
 Temari must learn that fans may preserve several idols and several eras without betraying any of them.
+
+**Audit correction (2026-11-15, GKM-SAA-008) — REVISE.** v2.0 read: "Temari nearly treats the fan’s attachment as invalid because Misuzu and Rinha are absent", and framed plural fandom as something Temari must learn. In D-TEMARI Temari is the author of that principle. When Rinha plans to hand her fans to "someone", Temari answers from her own history as a fan: her favourite idol retired, she grieved, she came to love a new idol, and "どっちも特別に決まってる！ どっちも運命に決まってる！" (`adv_dear_ttmr_016` L181–L246). Rinha later cites it back to her, "あなたがそう言ったんじゃない。涙ながらに" (`adv_dear_ttmr_035` L528–L536). The accurate model has three parts: Temari articulates plural fandom about her own fandom; she discounts herself as an object of SyngUp!-era fandom (`adv_event_008_main-02` L95–L99); and she competes possessively for fans, "私のファンだから！ あなたには渡さない！" to Kotone (L310). The last sentence above therefore describes what Event 008 tests from the receiving side, not a lesson the D-TEMARI route has to teach her. Her difficulty is in showing delight: inner joy at being approached and called cool stays behind a blunt reply (`adv_event_011_main-03` L207–L229). At E008 L262 her inner speech denies an authored image ("そんなのじゃないのに") rather than invalidating the fan.
 
 ### 3.2.11 Plan A and Plan B expose the difference between mystique and attraction
 
@@ -426,6 +460,8 @@ To become Misuzu’s fan is both admiration and humiliation. It reveals that Tem
 
 The mature rivalry requires Misuzu to become a person Temari must chase, not merely a person who keeps Temari alive.
 
+*Note (2026-11-15, GKM-SAA-049):* the "sleepy caretaker" model was never a judgement that Misuzu lacked ability; Temari always rated her far higher and misread her pace (§2.3). Dear 022 makes the reversal explicit: Misuzu, who seemed to walk while Temari ran, overtakes her at a walk again (`adv_dear_ttmr_022` L204–L231).
+
 ### 3.2.13 Sena’s victory separates causal importance from victory
 
 The Producer suggests that Temari’s pressure changed the field and may have helped produce the conditions under which Sena became Prima Stella. Temari refuses to substitute causal importance for the title.
@@ -433,6 +469,14 @@ The Producer suggests that Temari’s pressure changed the field and may have he
 This protects the seriousness of competition. It also shows that relational contribution and scoreboard loss can both be true.
 
 Temari’s `負けは負け` is not nihilism. It prevents consolatory narratives from stealing the motivating clarity of defeat.
+
+### 3.2.13a Kaya Kei, the copy, and surpassing the first idol (2026-11-15, GKM-SAA-043)
+
+**Audit integration — STRENGTHEN.** The core named Rinha as Temari's model but left the third figure in her origin unnamed. The Prima Stella of the childhood H.I.F. performance is Kaya Kei, Rinha's sister: child Rinha says "すごいでしょ、私のお姉ちゃん" (`adv_cidol-ttmr-3-009_02` L103). The Producer names Kei as the idol SyngUp! aimed at, and Temari calls her the person she admired "かつて", the reason she became an idol (`adv_dear_ttmr_011` L151–L162). Rinha says that when Temari's admired idol retired she switched to someone similar, so that Rinha is now her idol (`adv_dear_ttmr_016` L196–L209). The retirement is implied, not shown.
+
+In STEP3 the relation becomes a contest. Rinha warns Temari off the subject of why she will not train (`adv_dear_ttmr_025` L155–L179). Temari confirms that Rinha's present stage is a complete copy of the former Prima Stella Kaya Kei, same voice and ability, which Rinha does not intend to train beyond (L183–L205). Temari then declares that beating this Rinha will count as beating Kei, and sets as her short-term goal "月村手毬の『はじまりのアイドル』、賀陽継を超える！" (L221–L289). She wins in the auditorium where she first watched an idol live and answers Rinha's question about overtaking her ideal with "さいっこう！！！" (`adv_dear_ttmr_026` L331–L374). Dear 037 closes the loop: the Producer likens her to the "太陽の歌姫" who once guided her, says a new dream was born today from admiration of Temari, and Temari wonders whether a stranger might become an idol because of her (`adv_dear_ttmr_037` L301–L322).
+
+Limits and counterevidence: Kei never appears; every Kei statement is reported or remembered. In the `ガラクタロード` communication Temari names both Kei and Rinha as her present ideal of a cool idol (`adv_cidol-ttmr-3-018_02` L123–L140), which softens the contrast between "once" and "now". The past Prima Stella named 賀陽 recalled in D-MAO (HSCA-159) is adjacent and belongs to the Kaya Rinha crosswalk.
 
 ### 3.2.14 STEP3 turns reliance into declared method
 
@@ -500,6 +544,8 @@ The comedy is not a failure of the character study. It prevents the origin myth 
 
 When asked for roots, she eventually admits that episodes involving the Producer keep coming to mind. The relationship has become part of the story through which she explains herself.
 
+**Audit integration (2026-11-15, GKM-SAA-047) — STRENGTHEN.** The same communication records the family setting of the origin. Misuzu's mother gave the two girls the H.I.F. tickets; they came from Kyoto on a family trip, and Temari explains that her parents and Misuzu's are close friends (`adv_cidol-ttmr-3-009_01` L110–L134). On the day Temari pulled a yawning, uninterested Misuzu across the campus (L140–L159). The wider family evidence is under §5.1.
+
 ### 3.3.6 `雨上がりのアイリス`: exclusive assignment and first fanservice
 
 The unit dream reveals that Saki and Kotone have become imaginable partners. The Producer responds with jealousy toward his own dream counterpart, and Temari reverses care by asking him to say everything.
@@ -556,6 +602,8 @@ She can sing, narrate, prepare from a script, and project authority. Ordinary di
 
 The distinction is useful: stage legibility is a specialized achievement, not proof of generalized social ease.
 
+**Audit integration (2026-11-15, GKM-SAA-108, GKM-SAA-275) — STRENGTHEN; support story 3-0106 (revision 86).** A summer-festival advance food report with Himesaki Rinami tests this boundary directly. Temari's inner speech tells her to be specific for viewers, and she produces a technical description of the ramen; she recognises that it is only an explanation and, following Rinami's spontaneous delight, opens instead with plain pleasure (`adv_csprt-3-0106_01` L76–L152). She says she is good at singing but not at variety or reporting work, wants to try, and asks Rinami, who did reporting jobs with her former unit, for tips (`adv_csprt-3-0106_02` L110–L164). She also says she would rather not show how hard she tries, because of her cool image (`adv_csprt-3-0106_03` L54–L58). After filming Rinami says that everyone else in her old unit quit and asks whether Temari has ever thought of quitting. Temari says she has, many times: practice is hard, seniors are strict, she cannot eat what she likes, and she caused her comrades endless trouble, held them back and cried every day; "でも、アイドル、好きだから" (L122–L159). The exchange runs both ways: Rinami helps Temari make experience legible to an audience, and Temari gives Rinami an answer to a doubt they share; Rinami's own loss of her unit stays her own subject. The self-blame is retrospective and unscoped: `仲間` and the strict seniors are not named, so SyngUp! is the likely but unconfirmed referent. Scope: C1 within the advance-report shoot, C4 externally. The scene also bears on §3.1.5: the self-blaming account sits beside a stated attachment to the work itself.
+
 ### 3.4.4 Food remains the shortest route to unguarded response
 
 Sweets, juice, ramen, curry, tonkatsu, and reward meals make her anticipation and pleasure immediately audible in the text. Weight anxiety follows almost as quickly.
@@ -567,6 +615,8 @@ Food is therefore where the idealized future and the feared prior body collide m
 She is eager to sing for children, prepares seriously for fan-facing work, gives direct advice, and chooses song as a gift when she does not know what object the Producer would want.
 
 Her care is often more convincing when she can translate it into performance or concrete action than when she must state affection directly.
+
+**Audit integration (2026-11-15, GKM-SAA-104) — STRENGTHEN; Event 023.** Event 023 extends song-as-gift from the Producer to Misuzu and adds what the gift knows about its recipient. Choosing Misuzu's birthday present, Temari recounts every past gift; Shinosawa Hiro points out that Temari has never once asked Misuzu what she wanted for her birthday (`adv_event_023_main-04` L7–L107). Temari remembers Misuzu asking her to sing a lullaby every day so that she could nap well, a request she had brushed off as an excuse not to train (L219–L230). She turns it into a one-copy CD of a birthday song and a lullaby, books a studio and wants a trainer's help with a genre she has never practised (L255–L291). Misuzu receives it as "夢が……叶いました" and promises to listen every night; Temari answers that she wants Misuzu to fall asleep, not replay it (`adv_event_023_main-05` L229–L302). Hiro mediates without replacing either friend (`GKM_EVENTS_021_PLUS_DEEP_READING.md` §4.5–§4.6). Scope: C4 relative to D-TEMARI. The scene is evidence for H-TEMARI-07 at the level of a private relationship and for §9.3: the repaired bond makes a new artifact rather than restoring the old unit.
 
 ## 3.5 Live, growth, and startup material
 
@@ -605,6 +655,8 @@ Temari openly identifies Rinha as a model for her cool character construction. T
 
 The stronger reading is developmental. Most artistic identities begin through imitation. The moral and aesthetic question is whether the imitation remains borrowed prestige or becomes a form capable of answering new experience.
 
+**Audit integration (2026-11-15, GKM-SAA-180, GKM-SAA-104) — STRENGTHEN.** Rinha's language survives inside Temari's own speech and teaching. In D-TEMARI, when Rinha says Temari has learned to talk back, Temari answers that she is only copying what Rinha would say (`adv_dear_ttmr_024` L390–L399). Temari later turns Rinha's own threat to make her cry in front of a crowd (`adv_dear_ttmr_015` L272) on China and Hiro, as rivals she will not go easy on, almost word for word (`adv_dear_ttmr_029` L473–L491). When Rinha mocks Temari's elation, wishing the juniors from earlier could see her now, and starts an ambition line, "アイドルなら、もっと向上心を――", Temari completes the sentence herself and Rinha falls silent (`adv_dear_ttmr_030` L338–L389). In D-MISUZU, Misuzu tells Rinha that Temari copies everything Rinha does and picked up her cynical phrasing (`adv_dear_hmsz_016` L90–L114; C1 @ D-MISUZU, Misuzu's testimony). Event 016 shows the transmission as pedagogy (Phase-4 event evidence, C4 relative to D-TEMARI): teaching batting to Kotone's younger sister, Temari uses the grip instruction and the line "打てるようになると、結構楽しいから" that, in her memory, Rinha used when the young Temari wanted to give up (`adv_event_016_main-03` L26, L123, L134–L151). Temari privately thinks she is bad with children (L88–L91) and still keeps the child practising (L168–L183). See `GKM_EVENTS_013_020_DEEP_READING.md` §5.4.
+
 Temari’s coolness becomes hers when:
 
 - she understands what she was actually imitating;
@@ -631,6 +683,8 @@ Temari’s private behavior includes:
 The text repeatedly makes these qualities funny. It does not conclude that the stage is a lie.
 
 The stage is where she can organize those unstable feelings into something controlled enough to reach another person.
+
+**Audit integration (2026-11-15, GKM-SAA-181) — STRENGTHEN.** "Childish dependence" has a located repertoire. Temari repeatedly checks whether the Producer is angry (`adv_dear_ttmr_007` L89–L100; `adv_dear_ttmr_008` L112; `adv_dear_ttmr_019` L30). Alone, she complains that he usually comes without being called (`adv_cidol-ttmr-3-000_02` L220–L225). She tells him units no longer trouble her because she now has him (`adv_cidol-ttmr-3-011_01` L159–L181). After a P2 final failure she pleads "どうか、一緒にいて、ください" (`adv_pstory_002_ttmr_after-audition-final-failure-01` L66; C3). Rinha says Temari has always used crying to make her give in (`adv_dear_ttmr_016` L325–L333; Rinha's claim, which RINHA-C057 bounds). In Event 016 she checks that she is counted in the group (`adv_event_016_main-01` L489–L525). Counterevidence: before the winter final she is composed enough to make a request of the Producer rather than check his mood (`adv_dear_ttmr_035` L632–L656). The repertoire supports TMR-P04 and §20.
 
 ## 4.3 Coolness as total combustion
 
@@ -661,6 +715,8 @@ Some features are directly supported: dependency, food pleasure, low self-regula
 
 The prior self may be as narratively simplified as the public cool idol.
 
+**Audit integration (2026-11-15, GKM-SAA-047, GKM-SAA-108) — STRENGTHEN.** Outside evidence now gives the child self a family and a second witness. Temari is from Kyoto; the Tsukimura and Hataya parents are close, Misuzu's mother supplied the H.I.F. tickets (`adv_cidol-ttmr-3-009_01` L110–L134), and the families took summer trips together (SL1.1, `adv_event_027_main-02` L318). Temari says the two households often did Halloween together; one year her father insisted on a princess costume while Misuzu came as a frighteningly real zombie that made the neighbourhood children cry, and Temari asks Hanami Saki to keep the princess story from Kotone (support 3-0112, revision 86: `adv_csprt-3-0112_03` L49–L176; the neighbourhood scene is her memory). Her parents attend the winter H.I.F. and want to publish a book on how they raised top idol Tsukimura Temari, which she asks the Producer to stop; in the same exchange he says he keeps his barbs for her alone (`adv_dear_ttmr_035` L206–L268). In D-MISUZU, Misuzu gives a counter-portrait of the child: a round, chubby, warmly disruptive "big sister" who kept falling and crying, and who restored goodness to a cold, precocious Misuzu (`adv_dear_hmsz_027` L181–L297; C1 @ D-MISUZU, other-route memory that Misuzu may idealise). This supports §5.1's caution and partly answers Q19: warmth, noise and the capacity to move another person belonged to the child Temari now remembers as only dependent and spoiled. Counterevidence: Temari's own childhood self-account (Dear 010) remains the in-route memory.
+
 ## 5.2 Effort is both liberation and punishment
 
 Temari likes herself when she is approaching the ideal. This gives effort positive emotional meaning: action can create a self she respects.
@@ -668,6 +724,8 @@ Temari likes herself when she is approaching the ideal. This gives effort positi
 It also means rest threatens identity. If self-love is generated through approach, stopping can feel like reversal.
 
 This is why her work ethic cannot be praised without qualification. It is admirable because it is chosen and productive. It is dangerous because suffering can become moral evidence.
+
+*Cross-reference (2026-11-15, GKM-SAA-046):* Dear 022 comes close to stating the condition: hating herself back then, she had only one kind of moment in which she could like herself, and the scene ties it to running all-out (`adv_dear_ttmr_022` L219–L280). §5.4 records how other people's belief and a rank-independent anchor qualify it.
 
 ## 5.3 “Lazy” names desire, not observable behavior
 
@@ -682,6 +740,8 @@ By the winter conclusion she can say that the current Temari is the one she like
 But she immediately resumes ascent. The route does not test whether she could retain self-regard during prolonged stagnation, injury, ordinary life, or a future in which the top becomes unreachable.
 
 The appropriate formulation is **present-tense self-love**, not completed unconditional acceptance.
+
+**Audit correction (2026-11-15, GKM-SAA-046) — REVISE; unconditionality still OPEN.** The formulation "present-tense, not unconditional" stands, but the corpus says more about what the self-love rests on. (a) It is mediated by other people. After the summer loss Temari says that because someone believes in her, she can believe in herself (`adv_dear_ttmr_027` L382–L427). The Dear 037 sentence "私は、今日の私が一番好き！" follows her reminder that the Producer once called them alike and her wish that both of them come to like her more (`adv_dear_ttmr_037` L452–L477). Misuzu's belief, which Temari says she would have dismissed as flattery at her debut, she now accepts (`adv_dear_ttmr_034` L160–L191). (b) In U1 the self-love line comes after full effort and before the verdict: "（……過去最高の私を出せた）", "（私は、こういう私が好き）" (`adv_unit_01-04_20` L662–L671, inner speech, C1 @ U1). There it is conditioned on effort, not victory; this also carries the Temari side of the HSCA-001 residual for U1 04_20. (c) A rank-independent anchor: before an audition she says that, even if it is called self-praise, she loves her own singing (`adv_pstory_001_ttmr_before-audition-mid-normal-01` L60–L86, choice 2, C3). Counterevidence: in Dear 022 the one moment she could like herself is tied to all-out effort (`adv_dear_ttmr_022` L219–L280); P2 final failure returns to self-hatred; and all three statements follow strong performances or depend on a branch. Whether the self-love survives prolonged non-achievement remains open.
 
 ---
 
@@ -705,6 +765,8 @@ She is not an underdog in the simple sense.
 Temari can exceed her stable capacity in a single performance. The same trait produces unforgettable peaks and disastrous depletion.
 
 This is why pacing, stamina, emotional regulation, and repertoire matter more than another generic increase in will.
+
+**Audit integration (2026-11-15, GKM-SAA-007) — STRENGTHEN.** D-TEMARI STEP3 gives this problem its route evidence, as the evidence for the "preserve the peak" strategy of §3.1.1. (1) The Producer reminds Temari that he once called her an idol of unstable ability, says that so far he has cut the downside by building stamina, and announces that the 961 training will now raise the ceiling of her upside through repeated giant-killing bouts (`adv_dear_ttmr_025` L432–L444). (2) He sets a series of bouts she cannot afford to lose, so that she is forced to learn efficient use of stamina, because she uses up whatever stamina she has (`adv_dear_ttmr_026` L23–L40). The format was signalled only by an emphasised `たち` in `賀陽さんたち` (`adv_dear_ttmr_025` L376; `adv_dear_ttmr_026` L25); see §10.2. (3) Afterwards Temari reports that she sang longer and harder than usual and "自分で自分を、コントロールできていた", and plans to sing with everything from first to last at the next H.I.F. (`adv_dear_ttmr_027` L207–L251). This is a one-series self-report, bounded by the Producer's private doubt before the decisive bout, "（……最後まで歌い切れれば）" (`adv_dear_ttmr_026` L231, inner speech). (4) The turn embraces variance and raises the ceiling; it does not resolve variance into stability. The Producer tells Kuroi that with Temari good days are good and bad days are bad (`adv_dear_ttmr_026` L245–L246), and before the winter final she promises the audience "上ブレした月村手毬" (`adv_dear_ttmr_035` L613). This is a second strand of technical maturation beside the emotional plurality of TMR-C09 and H-TEMARI-08.
 
 ## 6.3 Rival singers expand technique by expanding feeling
 
@@ -753,6 +815,10 @@ Who feeds Temari matters.
 Misuzu’s food carries childhood intimacy and possessive knowledge. The Producer’s food carries calculation, professional authority, and increasingly domestic exclusivity. Friends’ food creates broader belonging. Temari’s ability to eat certain vegetables depends on relational framing.
 
 Feeding can therefore mean care, control, competition, seduction, reward, or permission.
+
+**Audit integration (2026-11-15, GKM-SAA-108; revision-86 routing for support 3-0114) — STRENGTHEN (reported).** In a lunch exchange among Hanami Ume, Kuramoto China, Shinosawa Hiro and Misuzu, Misuzu says that lately she makes Temari's bento every morning, that the food she is sharing is left over from it, and that the rolled omelette is Temari's favourite (`adv_csprt-3-0114_03` L35–L48). Temari is absent, so this is Misuzu's report within one support continuity (C4 externally); it does not show who proposed the arrangement or how Temari regards it, and it is not extrapolated to other routes. It adds a concrete instance of Misuzu as a daily food provider alongside the Producer's nutritional authority.
+
+**Audit correction (2026-11-15, GKM-SAA-045) — REVISE (TMR-B04).** The Misuzu–Producer relation around Temari's care is a dated arc, not only a competition. (1) Handover: Misuzu tells the Producer that her precious comrade broke the birdcage and flew away, says she fears Temari will destroy herself, and asks whether she may entrust Temari to him; he accepts that a producer's job includes going to ruin together, and Temari claims him as "私だけの、プロデューサー" (`adv_dear_ttmr_009` L324–L375). (2) Rivalry over care: Misuzu flaunts the bond of childhood friends and warns him about the day his promise not to take her place proves false (`adv_cidol-ttmr-3-016_01` L180–L208). (3) Coordination: the Producer and Misuzu went together to 961 to arrange the training that set the transfer stake (`adv_dear_ttmr_025` L326–L358); he hears from Misuzu that Temari can now eat vegetables and calls the contact necessary to keep Temari in top condition (`adv_dear_ttmr_033` L66–L76); he admits they trade Temari anecdotes as a "Win-Win" relationship, which she protests (`adv_dear_ttmr_034` L280–L321); and his asides say he increasingly understands Misuzu's urge to indulge her (`adv_cidol-ttmr-3-011_03` L85–L89; `adv_dear_ttmr_034` L288). Misuzu's cage image is Misuzu-side support for TMR-S02, and Dear 009 is the textual locus of the Producer's role as the point to which containment is transferred (see §10.5). Counter-reading: the coordination may be benign complementary care, and Temari's protests are playful; she calls the 961 plan the best present before she learns the stake (`adv_dear_ttmr_025` L365).
 
 ## 7.3 The Producer’s nutritional competence is effective and intrusive
 
@@ -818,9 +884,11 @@ This is succession as rivalry rather than mere replacement.
 | --- | --- | --- |
 | Temari | voice, ambition, full combustion | self-destruction; care experienced as humiliation |
 | Misuzu | care, atmosphere, bodily knowledge | possession; indispensability; containment |
-| Kaya Rinha | model, rivalry, external horizon, public memory | disappearance; origin hierarchy; self-erasing protection |
+| Kaya Rinha | model, rivalry, external horizon, public memory | disappearance; origin hierarchy; absorption of public blame (protective motive contested) |
 
 SyngUp! failed not because these forces were false, but because they could not be coordinated without consuming one another.
+
+**Audit correction (2026-11-15, GKM-SAA-042) — DOWNGRADE.** v2.0 gave Rinha's distortion as "self-erasing protection". The effect—public hostility shifted onto Rinha—is established; the protective motive is contested by Rinha on the spot and stays OPEN (§3.2.9).
 
 ## 9.2 The breakup was a failure of form
 
@@ -843,6 +911,8 @@ This is one of Gakumas’s strongest relational claims:
 Rinha is not a third wheel in a two-person romance. Temari’s idol origin, cool persona, fandom, public scandal, and rivalry all pass through Rinha. During fear, Temari calls for both Misuzu and Rinha.
 
 The old unit was a triangle of emotional gravity; any synthesis that treats Rinha only as external plot pressure will remain incomplete.
+
+**Audit integration (2026-11-15, GKM-SAA-108; revision-86 routing for support 2-0078) — STRENGTHEN.** A dorm test of courage led by Arimura Mao supplies a further fear-call and a reversal of care. Mao attributes the tradition, tentatively, to a former Prima Stella (`adv_csprt-2-0078_01` L41–L63). When something licks her cheek, Temari cries out for Rinha, "りんはぁ……" (L155); Rinha is invoked only and supplies no speech. Holding Mao's hand, Temari notices in inner speech that it is shaking and asks whether Mao is also afraid of ghosts; Mao admits it as a secret (`adv_csprt-2-0078_02` L79–L116). Temari answers that Mao, walking ahead while afraid, is cool, and proposes singing a cheerful song from a commercial she watched as a child, which they sing together (L123–L182). Scope: C1 within the support story, C4 externally; Mao's own fear is shown in her inner speech (`adv_csprt-2-0078_01` L112–L126). The scene supports this section's fear-call observation, §4.2's fear of ghosts, and a case of Temari giving a senior the standard of courage under which Mao's imperfect prince persona can work.
 
 ## 9.5 Yuri coding and category discipline
 
@@ -890,7 +960,9 @@ The relationship includes authority over:
 - high-risk institutional wagers;
 - who may enter the production relationship.
 
-At least one later strategy involving 961/Gokugetsu stakes is arranged without Temari’s advance consent. Success does not retroactively erase that issue.
+Several decisions are taken without Temari’s advance consent; the clearest is the 961/Gokugetsu transfer stake. Success does not retroactively erase that issue.
+
+**Audit correction (2026-11-15, GKM-SAA-044) — STRENGTHEN (located pattern).** v2.0 read: "At least one later strategy involving 961/Gokugetsu stakes is arranged without Temari’s advance consent." The sources give a pattern. (1) The Producer uses footage Temari explicitly asked him to cut; his aside is "（……絶対使おう）" (`adv_cidol-ttmr-3-002_02` L91–L98), and she protests afterwards that she told him to cut it (`adv_cidol-ttmr-3-002_03` L22–L38, where she also judges that her cool image survived). (2) He reports after the fact that, if she and Misuzu lose to Rinha's side, both will transfer to 961 after graduation; she protests "事後報告やめてください！！", and he answers that it is already promised (`adv_dear_ttmr_025` L376–L428). (3) He signals the bout format only through wording (`adv_dear_ttmr_026` L23–L40; §6.2). (4) He vetoes the SyngUp! dissolution live but gives reasons and gains her assent; she agrees to defer it until everything is over (`adv_dear_ttmr_023` L468–L514). (5) In two P1 endings meals with disliked vegetables serve as a substitute penalty (`adv_pstory_001_ttmr_ending-normal-04` L39–L48; `adv_pstory_001_ttmr_ending-normal-05` L19–L53, choice 1). Her refusals typically run protest → ratification: after the bout series Misuzu says she may come to dislike the Producer for this, and Temari answers that it shows how much he trusts Tsukimura Temari (`adv_dear_ttmr_027` L186–L200). Counter-pattern: she readily accepts a trainer's authority (`adv_pevent_001_ttmr_activity_010` L48–L61, choice 2). Counterevidence: Dear 023 wins her assent through argument, and much of the pattern is comic in register; her ratification may express consent delegated within the partnership.
 
 ## 10.3 Reciprocal interpretation is real
 
@@ -901,6 +973,8 @@ The final relationship model must therefore hold both:
 - asymmetric institutional authority;
 - meaningful reciprocal care and co-authorship.
 
+**Audit integration (2026-11-15, GKM-SAA-183) — STRENGTHEN.** Reciprocity includes a shared goal vocabulary: the Producer's `目標`, Temari's correction back to it, their shift to "私たちの夢", and her verbatim callback after the victory, with the Producer's own dream bound to scouting her (§3.2.1).
+
 ## 10.4 Exclusive language is central
 
 The pair repeatedly defines itself through singularity:
@@ -910,9 +984,11 @@ The pair repeatedly defines itself through singularity:
 - he does not want even a dream self to intrude;
 - she asks him to settle for her;
 - he frames the work as worth a life;
-- she asks for first-name address.
+- she asks to be sent off without the honorific, and he later moves to `手毬` on his own initiative.
 
 This can be read as devotion, professional vocation, romance coding, mutual possession, or all simultaneously. The text does not force one category.
+
+**Audit correction (2026-11-15, GKM-SAA-006) — REVISE.** v2.0's last bullet read: "she asks for first-name address." The given name is the Producer's self-initiated escalation after the victory (§2.5); the reciprocity model therefore includes a move he makes, not only one she requests. Whether the address sequence is romance-coded stays OPEN.
 
 ## 10.5 The relationship may transfer rather than solve dependency
 
@@ -928,6 +1004,8 @@ Later phases must test:
 - alternative collaborators;
 - mistakes by the Producer;
 - whether Temari can continue when his exclusive witnessing is unavailable.
+
+**Audit integration (2026-11-15, GKM-SAA-045, GKM-SAA-181, GKM-SAA-048) — STRENGTHEN; strictly track-labelled.** Dear 009 is the textual point at which Misuzu hands Temari's care to the Producer (§7.2), and the attachment repertoire in §4.2 shows the dependence in daily form. Other idols' Dear tracks supply partial tests that D-TEMARI cannot. (a) C1 @ D-MISUZU: the Producer there says that keeping Temari in top form was necessary to keep Misuzu in top form (`adv_dear_hmsz_017` L166–L191); Temari offers to let him produce all three SyngUp! members as soloists (L195–L221); he later tells her that producing her is only temporary and that Misuzu is his only assigned idol, and Temari answers that she will use him for her own sake too, "お互い様だね" (`adv_dear_hmsz_028` L39–L110); later in that track Temari is reported to be heading for 100 Pro (`adv_dear_hmsz_033` L85–L147). (b) C1 @ D-CHINA, with the same state noted in D-MAO: once all three have reconciled, Temari and Misuzu skip the winter H.I.F. to prepare the SyngUp! dissolution live, because "二兎を追う" would cost both (`adv_dear_kcna_031` L92–L119; `adv_dear_amao_030` L344). Temari then coaches the juniors strictly and tells China she is her fan (`adv_dear_kcna_031` L505–L616). Two SL1.1 Dear tracks show the same state (verifier fix V1, 2026-11-15). C1 @ D-TSUBAME (SL1.1): Temari thanks Amaya Tsubame for her help with Rinha and the live, Tsubame having arranged the procedures that let Rinha, now at Gokugetsu, rehearse at Hatsuboshi; Misuzu says they will pour everything into the dissolution live instead of the H.I.F., and Temari tells Tsubame that Misuzu's parting jibe is "ただの照れ隠しです" (`adv_dear_atbm_033` L60–L196). C1 @ D-SENA (SL1.1): Temari thanks Juo Sena, there Misuzu's producer, for help with the dissolution live (`adv_dear_jsna_034` L79–L89); when Sena invites her to drop the formality and even use her name without honorific, Temari declines for now and says she will adjust the distance little by little, "すこしずつ距離感を調整していきます" (L254–L266); she asks bluntly why Sena has not yet joined 100 Pro (L276–L319); she says that, unavoidable as it is, "今回の『H.I.F』に出ていないことが悔しいな" (L457); and asked whether they will come to the professional world, answers "はい……いずれ、必ず" (L486–L493). The D-SENA regret qualifies the choice not to compete: it is a deferral she feels as a cost, not indifference to the title. (c) C1 @ D-SUMIKA: Temari tells Sumika that an idol who kills herself to meet fans' expectations cannot shine (`adv_dear_ssmk_025` L218–L523, especially L416–L432). These states are focalised through the host idol, are mutually exclusive with D-TEMARI at the winter H.I.F. slot, and are never added to Temari's own biography. They show that Temari can work under a Producer who is not exclusively hers, can choose not to compete, and can advise others; they do not show how D-TEMARI Temari would respond.
 
 ## 10.6 Their strongest achievement
 
@@ -945,6 +1023,8 @@ Temari initially experiences fandom through exclusivity and succession: fans bel
 
 This plural attachment is an important corrective to her own possessive instincts.
 
+**Audit correction (2026-11-15, GKM-SAA-008) — REVISE.** The paragraph above casts plural attachment as a lesson Temari receives. In D-TEMARI she is its author: she formulates plural, non-transferable fandom from her own history as a fan to rebut Rinha's plan to hand her fans to "someone", and Rinha adopts it at Dear 035 (`adv_dear_ttmr_016` L181–L246; `adv_dear_ttmr_035` L528–L536; §3.2.10). The possessive instinct is real but separate: she competes for individual fans (`adv_event_008_main-02` L310) and discounts herself as an object of SyngUp!-era fandom (L95–L99).
+
 ## 11.2 Rinha’s fan transfer is both care and troubling asset logic
 
 Rinha’s attempt to redirect fans protects their future and Temari’s. It also treats fandom strategically as something that can be transferred.
@@ -954,6 +1034,8 @@ The final music/fan synthesis should distinguish:
 - fans as people with memory and choice;
 - fan counts as competitive resources;
 - inherited audiences as ethical responsibility.
+
+*Note (2026-11-15, GKM-SAA-008):* the critique of asset logic stands, and the route supplies its in-text counter-voice: Temari herself answers the transfer plan that a fan's attachments cannot be handed to someone on purpose (`adv_dear_ttmr_016` L185–L246).
 
 ## 11.3 Public abrasiveness becomes an attraction
 
@@ -979,6 +1061,8 @@ Saki’s competition begins in love of pursuit and the older-sister race. Temari
 
 Both construct confidence; Saki’s construction is outwardly expansive, Temari’s more defensive and combustible. Their winter contest tests whether two highly authored idols can lose to one another without losing personhood.
 
+**Audit integration (2026-11-15, GKM-SAA-108) — STRENGTHEN; support story 3-0112 (revision 86).** A low-stakes Halloween errand shows the friendship outside competition. Saki enlists Temari to help turn surplus Hanami Farm pumpkins into jack-o'-lanterns and cafeteria dishes; Temari agrees grudgingly and asks Saki to make her simmered pumpkin in return (`adv_csprt-3-0112_01` L110–L180). Saki says her family keeps detailed body data on the sisters alongside the photos; Temari answers that her own family is no less attached, says she is often told she resembles her family, and tells Saki that the Hanami sisters have lately started to look alike, which pleases Saki (`adv_csprt-3-0112_02` L58–L148). Temari then entrusts Saki with the childhood princess-costume story and asks her to keep it from Kotone, who would tease her (`adv_csprt-3-0112_03` L49–L176). The disclosures run both ways, and the secret is a mark of trust with a stated limit: Temari explains the costume as her father's wish and chooses who may know. Scope: C1 within the support story, C4 externally. It bears on verification target 6 (low-stakes friendship with Saki) for one support continuity; the family content is under §5.1.
+
 ## 12.2 Kotone: the adult-shaped peer
 
 Temari’s claim that Kotone may be unbeatable “as a human” acknowledges a competence she cannot reduce to song or rank. Kotone reads institutions, money, ordinary work, conflict, and people with a groundedness Temari lacks.
@@ -990,6 +1074,8 @@ Kotone’s presence also helps diagnose SyngUp!: she can see when reconciliation
 Temari can behave like an irritated senior, fan, friend, and quasi-older-sister toward China and Hiro. She is capable of admiring their unusual idol forms rather than seeing their weakness only as inferiority.
 
 Their inclusion in late Dear Idol material broadens her emotional world beyond the old trio and the Producer.
+
+**Audit integration (2026-11-15, GKM-SAA-104) — STRENGTHEN; Event 007.** Event 007 shows the relation outside D-TEMARI and reverses the support direction. Working a Halloween job with Kuramoto China and Shinosawa Hiro, Temari at first refuses to say why she became an idol, then gives almost China's own answer: she saw a wonderful idol's live and wanted to become one; she tells China there is much in which China is the stronger one (`adv_event_007_main-04` L399–L468). When the power fails, her inner speech is terrified, she grabs China's hand and calls it the safe thing to do (`adv_event_007_main-05` L5–L188, inner speech at L5, L19, L188). She objects to giving away the collected sweets because they are on the job, is persuaded by China's principle, and sings to the crowd in the dark after Hiro says that Temari singing is the best option (L247–L483). Before the final live, when China fears she will drag Temari down, Temari answers "……引っぱっていい" and "私が引っぱってあげるから、ついてきなさい！" (L555–L604). Scope: C4 relative to D-TEMARI. It bears on verification target 12 (helping a junior without taking over: she pulls China through the live but follows China's lead on the sweets) and on §4.2's fear of the dark. Event reading: `GKM_EVENTS_006_012_DEEP_READING.md` §3.4–§3.6. In other idols' Dear tracks she also coaches China and the juniors and declares herself China's fan (C1 @ D-CHINA; §10.5).
 
 ## 12.4 Misuzu and Rinha must be analyzed outside Temari
 
@@ -1066,7 +1152,7 @@ The contrast is central to characterization.
 
 ## 14.2 Politeness is a boundary tool
 
-Early `です/ます` language with the Producer can sound formally controlled while carrying hostility. As intimacy grows, plain forms, teasing, command, and first-name requests reduce distance.
+Early `です/ます` language with the Producer can sound formally controlled while carrying hostility. As intimacy grows, plain forms, teasing, command, her request for honorific-free address and the Producer's own move to her given name reduce distance. *(Corrected 2026-11-15, GKM-SAA-006; same error outside named target: v2.0 read "first-name requests"; see §2.5.)*
 
 The shift should be tracked relationally rather than described as a general decline in politeness.
 
@@ -1176,6 +1262,12 @@ The 83 Produce Event scripts are conditional ecology. Their recurrence strengthe
 
 Multipart episodes are internally ordered. Cross-episode chronology is C2/C4 unless song release, story references, or explicit internal statements anchor it.
 
+## 16.8 Host-track, event and support states; Dear branch divergences (2026-11-15, GKM-SAA-048, GKM-SAA-182)
+
+**Audit integration — STRENGTHEN.** Temari appears in other idols' Dear tracks (for example D-MISUZU, D-CHINA, D-MAO, D-SUMIKA, and SL1.1 D-TSUBAME and D-SENA), in numbered events and in support stories. Each such state keeps its host label (`C1 @ D-[host]`, `E`, `S`), is focalised through its host, and is mutually exclusive with D-TEMARI where both occupy the same slot. In D-CHINA, for example, Temari and Misuzu skip the winter H.I.F. that D-TEMARI Temari wins (§10.5). None of these states is concatenated with D-TEMARI.
+
+Within D-TEMARI several Dear scenes branch. In Dear 010 the player chooses whom the Producer rates higher; only choice 1 has him say that Misuzu is currently the better idol, while adding that he would rather produce Temari (`adv_dear_ttmr_010` L156–L213), and choice 2 has Temari conclude he has wanted her from the start (L214–L224). In Dear 013 the player chooses Kotone or Saki as Temari's partner for the promotion; the partner's reaction differs (L35–L42; L403 against L818), and the audit comparison found Temari's own acts invariant across the two branches (not re-checked line by line here). The P1 choice conditions are recorded under §3.1.2. Temari's branch set belongs in `GKM_BRANCH_DIVERGENCE_LEDGER.md`.
+
 ---
 
 # 17. Adversarial reading and counterevidence
@@ -1200,11 +1292,15 @@ Mutual devotion can coexist with structural enclosure.
 
 ## 17.4 Counterargument: self-love remains victory-conditioned
 
-Her strongest positive self-statements occur after major achievement and before/after first place. We still lack a long stable state of non-winning self-regard.
+Her most public positive self-statements cluster around major achievement and first place. We still lack a long stable state of non-winning self-regard.
+
+**Audit correction (2026-11-15, GKM-SAA-046, GKM-SAA-048) — REVISE.** v2.0 read: "Her strongest positive self-statements occur after major achievement and before/after first place." That overstates the conditionality. A U1 self-love line comes after full effort but before the verdict, and a P1 line rests on loving her own singing even if it is called self-praise (§5.4). Other idols' Dear tracks add non-winning states: Temari chooses to skip a winter H.I.F. (C1 @ D-CHINA; also SL1.1 D-TSUBAME and D-SENA; in D-SENA she says she regrets missing it, `adv_dear_jsna_034` L457) and, in D-MISUZU, accepts being produced as secondary (§10.5). Those are host-track states, not D-TEMARI evidence. The counterargument still stands in narrower form: no source yet shows a long stable state of self-regard through non-achievement.
 
 ## 17.5 Counterargument: Rinha’s suffering becomes Temari’s developmental resource
 
-Rinha’s reputational sacrifice, attempted retirement, and return are essential to Temari’s arc. A Temari-centered narrative can easily turn that cost into useful backstory without giving Rinha equal authorship.
+The shift of public hostility onto Rinha, her attempted retirement, and her return are essential to Temari’s arc. A Temari-centered narrative can easily turn that cost into useful backstory without giving Rinha equal authorship.
+
+**Audit correction (2026-11-15, GKM-SAA-042) — DOWNGRADE.** v2.0 began: "Rinha’s reputational sacrifice". "Sacrifice" asserts a protective motive that Rinha rejects on the spot (`adv_dear_ttmr_015` L146–L168); the cost is established, the motive OPEN (§3.2.9).
 
 ## 17.6 Counterargument: Misuzu’s concern may be more ethically serious than the route allows Temari to admit
 
@@ -1228,7 +1324,7 @@ Food, leisure, games, relationships, and hobbies frequently become training, rew
 
 1. Temari’s singing ability is exceptional; her central early limitations are stamina, bodily condition, emotional variance, and pacing.
 2. The SyngUp! breakup and its aftermath are embodied in food, sleep, grooming, weight, and performance decline.
-3. She wants criticism when it is specific and actionable, even when it hurts.
+3. She wants criticism when it is specific and actionable, even when it hurts. *Qualified (2026-11-15, GKM-SAA-184, REVISE):* she also asks the Producer to listen, empathise and respond with timely sympathy (`adv_cidol-ttmr-3-015_01` L25–L59), and after a P2 mid-audition failure she objects that bad news should come "重病を告げるかのような繊細さで" while conceding she had said she wanted to go straight to a review (`adv_pstory_002_ttmr_after-audition-mid-failure-01` L40–L59). In one P1 final-failure branch she instead says she likes that he says nothing superfluous (`adv_pstory_001_ttmr_after-audition-final-failure-01` L98–L129, choice 3). See §20.
 4. She frequently denies trust while behaving through debt, compliance, disclosure, and return.
 5. Her self-description as lazy does not describe low output; it describes desire for comfort and fear of dependence.
 6. She associates effort with the self she can like and rest with potential regression.
@@ -1268,6 +1364,8 @@ The stage persona is not less authentic because it is modeled and practiced. It 
 Temari can love the self she has made today, but the sources do not yet establish self-regard independent of progress.
 
 **Falsifier:** later ordinary-life material shows stable affection for herself during inactivity, failure, or inability to improve.
+
+**Audit note (2026-11-15, GKM-SAA-046) — REVISE (qualification).** The hypothesis stands, with two qualifications from §5.4: the self-regard is mediated by other people's belief, and it is effort-conditioned in U1 rather than victory-conditioned. A rank-independent anchor (loving her own singing even if it is called self-praise) appears in one P1 branch. None of these yet meets the falsifier.
 
 ## H-TEMARI-04 — Rivalry makes care tolerable
 
@@ -1321,6 +1419,8 @@ Saki, Kotone, China, Hiro, Sena, and the Producer reduce the pressure on Misuzu/
 - She wants the Producer exclusively while learning that fandom and rivalry can be plural.
 - She says the stage is where she can be honest, leaving open how honest ordinary life can become.
 - She learns to like today’s self while structuring tomorrow around dissatisfaction.
+- She asks for efficient, unsoftened criticism and also for empathy and delicate delivery of bad news (2026-11-15, GKM-SAA-184).
+- She claims independence while repeatedly checking whether the Producer is angry and expecting him to come without being called (2026-11-15, GKM-SAA-181).
 
 ---
 
@@ -1346,6 +1446,8 @@ Saki, Kotone, China, Hiro, Sena, and the Producer reduce the pressure on Misuzu/
 - Can either tolerate non-exclusive collaboration?
 - Is first-name intimacy developmental freedom, romance coding, professional singularity, or all three?
 
+*Provisional answer (2026-11-15, GKM-SAA-044, GKM-SAA-006):* she refuses him by loud protest that usually ends in ratification ("……それだけ月村手毬を信頼してるってことでしょ", `adv_dear_ttmr_027` L200), while she accepts a trainer's authority readily (§10.2). The first-name step is his initiative, not her request (§2.5); its category stays OPEN.
+
 ## Temari ↔ Saki
 
 - Does rivalry permit mutual vulnerability outside competition?
@@ -1365,6 +1467,46 @@ Saki, Kotone, China, Hiro, Sena, and the Producer reduce the pressure on Misuzu/
 
 - Is Sena primarily title predecessor, awakener, institutional ideal, or someone Temari knows personally?
 - Does inherited title pressure deepen or reduce Temari’s self-hatred?
+
+*Event and U1 evidence (2026-11-15, GKM-SAA-106, GKM-SAA-032):* in Event 005 Sena says the student council can scout only one SyngUp! member and that, if one is chosen, it is not Temari, despite her talent (`adv_event_005_main-03` L145–L176; C4). In U1 Sena apologises to Temari for underestimating her and not scouting her, says she should not have taken Temari's bad reputation at face value, and expects the producers who judged that Temari would bring a large minus to any unit to regret it as she does (`adv_unit_01-04_17` L710–L798; C1 @ U1). Sena's motive for the choice stays OPEN. The unnamed friend Misuzu is jealous of in Event 002 (`adv_event_002_main-05` L85–L101) is most probably Temari on cross-event evidence, but E002 does not name her; the identification is owned by `GKM_EVENTS_001_005_DEEP_READING.md` §4.6. Sena's own testimony that Temari's summer song cleared her doubts is under §2.4.
+
+---
+
+## Phase-4/5 integration pointers — 2026-11-15 (source-to-analysis audit)
+
+Owner decision 1 of the 2026-11-15 source-to-analysis audit routes numbered-event and support-story evidence into the character cores (GKM-SAA-104, GKM-SAA-108). The evidence now sits in the body as dated additions; this section is the index. Each row keeps its source label. Event and support states are C4 relative to D-TEMARI unless internally anchored, host-track Dear states are `C1 @ D-[host]`, and none is added to Temari's own biography. Reading-section and CSL-row entries point to existing homes; the CSL rows for the four revision-86 support stories are pending in the ledgers.
+
+| event or support object | A1 locator | what it adds | owning reading section | CSL row | now integrated in |
+| --- | --- | --- | --- | --- | --- |
+| Event 007 (Halloween work with China and Hiro) | `adv_event_007_main-04` L399–L468; `adv_event_007_main-05` L5–L604 | shared idol origin with China; terror in the blackout and the hand-hold; "引っぱっていい" support reversal | `GKM_EVENTS_006_012_DEEP_READING.md` §3.4–§3.6 | Phase 4 — Events 006–012 ensemble correction, Temari row | §12.3 (GKM-SAA-104) |
+| Event 016 (sport-centre outing) | `adv_event_016_main-03` L26–L183 | Rinha's batting pedagogy remembered and passed on to Kotone's sister; "bad with children" inner speech | `GKM_EVENTS_013_020_DEEP_READING.md` §5.4 | Phase 4 — Events 013–020 character-state additions, Temari row | §4.1 (GKM-SAA-104, GKM-SAA-180) |
+| Event 023 (Misuzu's birthday) | `adv_event_023_main-04` L7–L291; `adv_event_023_main-05` L182–L312 | one-copy birthday and lullaby CD from a remembered request; Hiro as mediator | `GKM_EVENTS_021_PLUS_DEEP_READING.md` §4.1–§4.6 | Phase 4 — Events 021+ character-state additions and numbered-event closure, Temari row | §3.4.5 (GKM-SAA-104) |
+| Event 008, with Event 011 | `adv_event_008_main-02` L90–L310; `adv_event_011_main-03` L207–L229 | SyngUp! fan; self-discounting; possessive competition for fans; hidden delight at praise | `GKM_EVENTS_006_012_DEEP_READING.md` §4.2 | Phase 4 — Events 006–012 ensemble correction, Temari row | §3.2.10, §11.1 (GKM-SAA-008) |
+| Events 002 and 005 | `adv_event_002_main-05` L85–L101; `adv_event_005_main-03` L145–L176 | unnamed friend of Misuzu's jealousy (probably Temari; unnamed in E002); Sena's choice not to scout Temari | `GKM_EVENTS_001_005_DEEP_READING.md` §4.6, §7.6 | Phase 4 — Events 001–005 ensemble correction | §21 Temari ↔ Sena (pointer; GKM-SAA-106) |
+| Event 027 (SL1.1) | `adv_event_027_main-02` L318 | Tsukimura–Hataya family summer trips | `GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md` E027 | Source Lock 1.1 — transcript refresh, Temari row | §5.1 (GKM-SAA-047) |
+| Support 3-0106 (revision 86), with Rinami | `adv_csprt-3-0106_01` L76–L152; `adv_csprt-3-0106_02` L110–L164; `adv_csprt-3-0106_03` L54–L159 | audience-facing report technique learned from Rinami; hidden effort for a cool image; past thoughts of quitting, unscoped self-blame toward `仲間`, "でも、アイドル、好きだから" | `GKM_SUPPORT_REVISION_86_DEEP_READING.md`, source-family row 3-0106 | pending | §3.4.3; `TMR-R86-C03` (GKM-SAA-108, GKM-SAA-275) |
+| Support 3-0112 (revision 86), with Saki | `adv_csprt-3-0112_01` L110–L180; `adv_csprt-3-0112_02` L58–L148; `adv_csprt-3-0112_03` L49–L176 | low-stakes friendship errand; family resemblance; Halloween with the Hataya family; princess-costume secret kept from Kotone | `GKM_SUPPORT_REVISION_86_DEEP_READING.md`, source-family row 3-0112 | pending | §12.1, §5.1; `TMR-R86-C04` (GKM-SAA-108) |
+| Support 2-0078 (revision 86), with Mao | `adv_csprt-2-0078_01` L41–L155; `adv_csprt-2-0078_02` L79–L182 | dorm test of courage; Temari calls for Rinha when frightened; notices Mao's shaking hand, reframes courage and proposes a shared song | `GKM_SUPPORT_REVISION_86_DEEP_READING.md`, source-family row 2-0078 | pending | §9.4; `TMR-R86-C05` (GKM-SAA-108) |
+| Support 3-0114 (revision 86), Temari mentioned | `adv_csprt-3-0114_03` L35–L48 | Misuzu reports making Temari's bento every morning (Temari absent) | `GKM_SUPPORT_REVISION_86_DEEP_READING.md`, source-family row 3-0114 | pending | §7.2; `TMR-R86-C06` (GKM-SAA-108) |
+| Host-track Dear: D-MISUZU 017/028/033, D-CHINA 031, D-MAO 030, D-SUMIKA 025 | `adv_dear_hmsz_017` L166–L221; `adv_dear_hmsz_028` L39–L110; `adv_dear_hmsz_033` L85–L147; `adv_dear_kcna_031` L92–L119, L505–L616; `adv_dear_amao_030` L344; `adv_dear_ssmk_025` L416–L432 | Temari under a Producer who is not exclusively hers; skipping a winter H.I.F. for the dissolution live; coaching juniors; advice against self-erasure | host cores and Relationship Systems I §5 | host Phase-3 rows | §1.3, §10.5, §16.8, §17.4, §25 (GKM-SAA-048) |
+| Host-track Dear (SL1.1): D-TSUBAME 033, D-SENA 034 | `adv_dear_atbm_033` L60–L196; `adv_dear_jsna_034` L79–L493 | the same skipped-H.I.F. dissolution-live state; Temari's gratitude for Tsubame's and Sena's help; regret at missing this H.I.F.; gradual distance adjustment with Sena; "いずれ、必ず" on going pro | Tsubame and Sena cores (SL1.1 refreshes) | host SL1.1 rows | §10.5, §16.8 (GKM-SAA-048; verifier fix V1) |
+| Host-track Dear: D-MISUZU 027 and 032 | `adv_dear_hmsz_027` L181–L297; `adv_dear_hmsz_032` L186–L327 | Misuzu's portrait of the child Temari; Temari's childhood jealousy and the early SyngUp! hierarchy | Misuzu core; Relationship Systems I §5.2 | Phase 3 — Hataya Misuzu, Temari reconfiguration row | §5.1 (GKM-SAA-047), §2.3 (GKM-SAA-049) |
+
+**Verification targets in §22 that Phase-4/5 evidence now bears on (GKM-SAA-108 b).** These are pointers to existing readings; the claim strength stays as each reading states it.
+
+| §22 target | evidence it bears on | reading | CSL row |
+| --- | --- | --- | --- |
+| 1. care received after refusing it | Kotone's tolerated intrusion (`story_0015`); food care from Kotone and Misuzu accepted while need is denied | `GKM_SUPPORT_SERIES_02_PART_001_025_DEEP_READING.md` §17; `GKM_SUPPORT_SERIES_03_PART_051_075_DEEP_READING.md` (Temari STRENGTHEN) | Phase 5 — Support Series 2 Part 001–025 and Series 3 Part 051–075, Temari rows |
+| 5. Rinha's own account | Rinha's on-the-spot denial in Dear 015 (§3.2.9); the remembered three-person ramen routine (`story_0058`) | `GKM_SUPPORT_SERIES_03_PART_051_075_DEEP_READING.md` §9 | Phase 5 — Support Series 3 Part 051–075, Kaya Rinha row |
+| 6. low-stakes friendship with Saki and Kotone | support 3-0112 (§12.1); `story_0029`; `story_0057` | `GKM_SUPPORT_REVISION_86_DEEP_READING.md`; `GKM_SUPPORT_SERIES_03_PART_026_050_DEEP_READING.md` §5; `GKM_SUPPORT_SERIES_03_PART_051_075_DEEP_READING.md` §8 | Phase 5 — Support Series 3 Part 026–050, Temari and Kotone rows |
+| 9. fans who remember SyngUp! | Event 008 (§3.2.10) | `GKM_EVENTS_006_012_DEEP_READING.md` §4.2 | Phase 4 — Events 006–012, Temari row |
+| 10. non-idol competence | report work in support 3-0106 (§3.4.3); competence that collapses on ice with Lilja (`story_0049`) | `GKM_SUPPORT_REVISION_86_DEEP_READING.md`; `GKM_SUPPORT_SERIES_03_PART_026_050_DEEP_READING.md` §25 | Phase 5 — Support Series 3 Part 026–050, Temari row |
+| 11. jealousy named without aggression | Event 026: envy turned into professional support | `GKM_EVENTS_021_PLUS_DEEP_READING.md` §7 | Phase 4 — Events 021+, Temari row |
+| 12. helping a junior without taking over | Event 007 (§12.3); rescuing and teaching Hiro while denying friendship (`story_0021`) | `GKM_EVENTS_006_012_DEEP_READING.md` §3.6; `GKM_SUPPORT_SERIES_02_PART_001_025_DEEP_READING.md` §23 | Phase 4 — Events 006–012 and Phase 5 — Support Series 2 Part 001–025, Temari rows |
+| 14. self-love after a meaningful loss | Dear 027 after the summer loss; U1 04_20 before the verdict (§5.4) | this core §5.4 | — |
+| 15. trio scenes without an assigned caretaker | three-person ramen memory (`story_0058`); repair that refuses to restore SyngUp! (`story_0033`) | `GKM_SUPPORT_SERIES_03_PART_051_075_DEEP_READING.md` §9; `GKM_SUPPORT_SERIES_03_PART_026_050_DEEP_READING.md` §9 | Phase 5 — Support Series 3 Part 026–050 and 051–075, Temari and Rinha rows |
+
+Targets 2, 3, 4, 7, 8 and 13 remain open in this index. For target 8, the revision-86 reading notes that Temari's position on Saki's protected rest days is unknown (support 2-0055).
 
 ---
 
@@ -1387,6 +1529,8 @@ Later complete passes should search for:
 13. Situations where stage honesty creates ordinary-life consequences.
 14. Evidence that current self-love persists after a meaningful loss.
 15. Temari/Misuzu/Rinha scenes in which no one is assigned the role of caretaker.
+
+Which of these targets the Phase-4 event pass and Phase-5 support pass now bear on is indexed in the pointer section immediately above (2026-11-15, GKM-SAA-108).
 
 ---
 
@@ -1502,7 +1646,7 @@ The AV queue uses whole commus and uploader-facing Japanese nomenclature. Intern
 - `月村手毬 STEP4 HIF コミュ`
 - `学マス 手毬 親愛度 28 37`
 
-**Covers:** `adv_dear_ttmr_028–037`; Saki contest, food/trust, first-name request, Prima Stella performance/address, present-tense self-love.
+**Covers:** `adv_dear_ttmr_028–037`; Saki contest, food/trust, honorific-free send-off request and the Producer's later given-name step, Prima Stella performance/address, present-tense self-love. *(Corrected 2026-11-15, GKM-SAA-006; same error outside named target: v2.0 read "first-name request".)*
 
 **Priority:** P0.
 
@@ -1610,6 +1754,8 @@ No clipping is required. Complete commus should be supplied; target scenes will 
 19. What parts of her former child self were valuable and lost during reconstruction?
 20. Does the final series ultimately endorse the necessity of self-construction or mourn the inability to feel lovable without it?
 
+**Partial answers (2026-11-15; questions stay open).** Q9 (GKM-SAA-044): she readily accepts a trainer's authority in one Produce Event branch (`adv_pevent_001_ttmr_activity_010` L48–L61, choice 2), so the open part concerns another Producer rather than specialists. Q10 (GKM-SAA-048): in D-MISUZU another Producer state produces her only temporarily and names Misuzu as his only assigned idol; Temari accepts on terms of mutual use (`adv_dear_hmsz_028` L39–L110; C1 @ D-MISUZU; §10.5). Q17 (GKM-SAA-048): her advice to others in host tracks is strict but not only punitive; she tells Sumika that an idol who kills herself to meet expectations cannot shine (`adv_dear_ssmk_025` L416–L432; C1 @ D-SUMIKA) and coaches the juniors toward their own next step (`adv_dear_kcna_031` L505–L590; C1 @ D-CHINA). Q19 (GKM-SAA-047): Misuzu's D-MISUZU portrait of the warm, disruptive child who restored goodness to her names qualities the child had that Temari's own account omits (§5.1).
+
 ---
 
 # 26. Primary-source locator table
@@ -1625,11 +1771,11 @@ No clipping is required. Complete commus should be supplied; target scenes will 
 | artificial wings | `adv_dear_ttmr_010`; `020`; `027` | recurring explicit metaphor |
 | Rinha is model for cool persona | `adv_dear_ttmr_016` | direct `キャラ作り` confession |
 | Rinha attempts idol end-of-life | `adv_dear_ttmr_016` | direct within D-TEMARI |
-| fans can retain Rinha and support Temari | `adv_dear_ttmr_016–020`; related fan dialogue | direct |
+| fans can retain Rinha and support Temari | `adv_dear_ttmr_016` L181–L246; `adv_dear_ttmr_035` L520–L540; Event 008 `adv_event_008_main-02` L90–L310 | direct; E008 is C4. Corrected 2026-11-15 (GKM-SAA-008): v2.0 cited `adv_dear_ttmr_016–020; related fan dialogue`, but Dear 017–020 contain no fan scene |
 | Misuzu becomes rival rather than caretaker only | `adv_dear_ttmr_017–019`; `021–023` | D-TEMARI |
 | Sena wins summer Prima Stella | `adv_dear_ttmr_023` | C0 within D-TEMARI/P3-C |
 | loss remains loss despite causal influence | `adv_dear_ttmr_023` | direct |
-| Temari surpasses Rinha as origin model | `adv_dear_ttmr_025–027` | D-TEMARI STEP3 |
+| Temari surpasses Kaya Kei, her first idol, through Rinha's copy | `adv_dear_ttmr_025` L155–L289; `adv_dear_ttmr_026` L331–L374; `adv_dear_ttmr_011` L151–L162 | D-TEMARI STEP3. Revised 2026-11-15 (GKM-SAA-043): v2.0 gloss "Temari surpasses Rinha as origin model", locator `adv_dear_ttmr_025–027`; see §3.2.13a |
 | reliance on Misuzu/Rinha becomes speakable | `adv_cidol-ttmr-3-016_01` | C-TEMARI; later-state |
 | current self can be liked | `adv_dear_ttmr_037` | direct, post-victory |
 | Temari wins winter Prima Stella | `adv_dear_ttmr_036–037` | C0/C1 within D-TEMARI |

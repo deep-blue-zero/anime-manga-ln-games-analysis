@@ -12,12 +12,17 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-24'
+version: "1.1"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15: REVISE (wording only) of every masculine pronoun for Mao with a pronoun method note (GKM-SAA-013/031); REVISE (qualified) of the §26 'age-near family' reading (GKM-SAA-161); REVISE by narrowing of the §31 Lilja register model (GKM-SAA-107); locator and provenance REVISE in §22 (HSCA-123) and §15 (HSCA-168, to inference)."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM SUPPORT SERIES 03 PART 051–075 DEEP READING
+
+> **Revision record — v1.1, 2026-11-15 (source-to-analysis audit corrections).** (1) REVISE, wording only, GKM-SAA-013 / GKM-SAA-031: all 15 masculine pronouns for Mao, on 10 lines in §2, §4, §12, §22, §23 and §27.2, now read she/her, or name Mao or the other participant where a pronoun would be ambiguous; a pronoun method note is added to §0. (2) REVISE (qualified), GKM-SAA-161: §26 notes the emphasis-tagged `家族` (`adv_csprt-3-0075_02` L108) and Kotone's silence (L117), anchors the household-member reading on `adv_cidol-kcna-3-009_02` L122, L236, and keeps Kanae's name as inference; the earlier sentence is kept. (3) REVISE by narrowing, GKM-SAA-107 (P2, A1 re-read): §31 adds an addressee speech-level note for Lilja. (4) REVISE, HSCA-123: the reader-section illustration detail in §22 is tagged to `adv_csprt-3-0074_01` L133. (5) REVISE, HSCA-168: §15 marks the injury cause of Sumika's fear as an off-page summary and an inference (`adv_csprt-3-0064_03` L62).
 
 ## 0. Scope, method, and principal finding
 
@@ -28,6 +33,8 @@ The source boundary is the complete `support_series_3_part_051-075.dialogue.txt`
 As throughout Phase 5, story numbering is not promoted into a single global chronology. Three parts under one story ID are treated as related evidence surfaces, while stronger temporal placement requires an explicit school-year, seasonal, institutional, remembered-history, relationship-state, or other internal anchor. Retrospective and dream material can establish remembered relational grammar without forcing the modular present-day support scene into one fixed branch calendar.
 
 The A2 dialogue extraction is the reading surface. A1 raw scripts remain wording authority. No card art, facial animation, camera emphasis, costume detail, or vocal-performance claim is inferred from text alone. Performance-sensitive distinctions are routed to the audiovisual verification queue.
+
+**Pronoun convention for Mao (GKM-SAA-013 / GKM-SAA-031, 2026-11-15).** Mao's ボク and prince register are not grounds for masculine English pronouns; pronouns follow the character, not the persona (see MAO-C14). Mao describes herself as a girl (`adv_dear_amao_003` L81; `adv_cidol-amao-3-015_02` L147). This reading therefore uses she/her for Mao, and names Mao where a pronoun could be confused with another person in the scene. Quoted Japanese is unchanged.
 
 ### Principal tranche thesis — care travels through translation and brokerage
 
@@ -129,11 +136,11 @@ No retrospective is used to impose chronology beyond what its own wording suppor
 
 # 2. `story_0051` — Rinami and Mao: early peerhood beneath the future senior roles
 
-The first part strips both characters back to a point before their later senior identities feel inevitable. Rinami is a new student unpacking a large care package from home: rice, soy sauce, canned food, instant noodles, and especially ten kilograms of rice. Mao appears as the dependable classmate who already behaves enough like an upperclassman that Rinami previously mistook him for one.
+The first part strips both characters back to a point before their later senior identities feel inevitable. Rinami is a new student unpacking a large care package from home: rice, soy sauce, canned food, instant noodles, and especially ten kilograms of rice. Mao appears as the dependable classmate who already behaves enough like an upperclassman that Rinami previously mistook Mao for one.
 
-Mao's competence has a practical history. He knows how to carry heavy things because his theatre work involved moving equipment. That detail matters because it keeps “prince-like reliability” from becoming a purely aesthetic trait: some of the role's credibility is backed by embodied labor learned in another institution.
+Mao's competence has a practical history. She knows how to carry heavy things because her theatre work involved moving equipment. That detail matters because it keeps “prince-like reliability” from becoming a purely aesthetic trait: some of the role's credibility is backed by embodied labor learned in another institution.
 
-Part 2 makes the role permeable. Mao admits to child acting, including local commercials and an embarrassing squirrel-costume performance. Rinami's curiosity destabilizes his composed image. The black-coffee sequence is even cleaner: Mao chooses black coffee because it looks adult, coughs from the bitterness, and still tries to describe the suffering as connoisseurship. The scene does not expose the prince persona as fraudulent; it shows a young person actively rehearsing one version of adulthood.
+Part 2 makes the role permeable. Mao admits to child acting, including local commercials and an embarrassing squirrel-costume performance. Rinami's curiosity destabilizes Mao's composed image. The black-coffee sequence is even cleaner: Mao chooses black coffee because it looks adult, coughs from the bitterness, and still tries to describe the suffering as connoisseurship. The scene does not expose the prince persona as fraudulent; it shows a young person actively rehearsing one version of adulthood.
 
 Part 3 provides a strong early peer anchor. Rinami is intimidated by the gap between ordinary middle-school music class and Hatsuboshi training, especially by Sena. Mao is also awed, but converts awe into competitive orientation: they are only at the starting line, and by the next cherry-blossom season both should have begun to bloom.
 
@@ -174,7 +181,7 @@ A mature Ume can still ask what Saki would do while refusing to let Saki answer 
 
 # 4. `story_0053` — the third-year quartet: personality through play and the finitude of school time
 
-A board-game night makes Sena's producer observation concrete in low-stakes form. Mao's preference for a stylish comeback makes his strategy legible; Tsubame's thoughts are written on her face to the childhood friend who knows her best; Rinami's orthodox play contains a possible reluctance to beat Sena directly. The game functions as a miniature behavioral laboratory.
+A board-game night makes Sena's producer observation concrete in low-stakes form. Mao's preference for a stylish comeback makes her strategy legible; Tsubame's thoughts are written on her face to the childhood friend who knows her best; Rinami's orthodox play contains a possible reluctance to beat Sena directly. The game functions as a miniature behavioral laboratory.
 
 The travel-food scene then levels the hierarchy. Sena admits that a chance visit to Kotone's workplace led to discovering hamburgers, briefly overeating them, and gaining weight. Rinami, Mao, and Tsubame all have their own appetite/discipline negotiations. The No.1 idol is not exempt from ordinary appetitive error.
 
@@ -319,11 +326,11 @@ The third part shows the student-council room from another outsider angle. Misuz
 
 # 12. `story_0061` — third-year mentorship: seeing juniors accurately without flattening them
 
-Rinami and Mao browse accessories while Sena and Tsubame independently decide what would best suit Mao, turning aesthetic judgment into another competitive arena. The important element is not which hairpin is “correct,” but that both seniors interpret Mao through different models of his appeal while Rinami anticipates the rivalry before it fully erupts.
+Rinami and Mao browse accessories while Sena and Tsubame independently decide what would best suit Mao, turning aesthetic judgment into another competitive arena. The important element is not which hairpin is “correct,” but that both seniors interpret Mao through different models of her appeal while Rinami anticipates the rivalry before it fully erupts.
 
 Part 2 is stronger institutionally. Tsubame criticizes the first-year council members' work but then gives a remarkably precise positive evaluation: China and Ume are slow but persist until completion; Misuzu appears lazy yet reliably supports the surrounding people; all three possess the basic orientation of doing what they can for the student body. Tsubame is therefore not merely a severity machine. She distinguishes execution quality from underlying civic disposition.
 
-Part 3 gives Mao another ordinary preference and a privacy boundary. Sena accompanies him on dorm errands and is explicitly warned not to turn the outing into investigation of Kotone's private dorm life. Mao then becomes visibly excited by a takoyaki shop, describing himself as particular about flour-based foods. Sena joins rather than mocking the break in his usual cool image.
+Part 3 gives Mao another ordinary preference and a privacy boundary. Sena accompanies Mao on dorm errands and is explicitly warned not to turn the outing into investigation of Kotone's private dorm life. Mao then becomes visibly excited by a takoyaki shop, describing herself as particular about flour-based foods. Sena joins rather than mocking the break in Mao's usual cool image.
 
 ### Claim transitions
 
@@ -373,7 +380,7 @@ Sumika arrives jokingly asking Rinami to comfort her because a teacher scolded h
 
 The food scene adds body pluralism. Rinami enjoys sweets but actively manages weight and uses the idea of a cheat day. Sumika says she has not needed the same kind of restriction. The contrast should remain body-specific rather than generalized into discipline versus irresponsibility.
 
-Part 3 is the major promotion. Sumika admits that dancing has become frightening after her injury history. Rinami does not claim perfect equivalence. Instead she discloses a different stage wound: after being removed from her first-year unit, she became afraid of performing. She identifies this as the `Love☆しすたぁず` period and reveals that her old marketed role was more little-sister-coded than the older-sister identity Sumika now instinctively sees in her.
+Part 3 is the major promotion. Sumika admits that dancing has become frightening after her injury history. (Provenance, HSCA-168, 2026-11-15: the scene summarizes the cause off-page with `――そんな感じで、今は踊るのが、ちょっと怖くなっちゃって` (`adv_csprt-3-0064_03` L62); no line names the injury, and `今は` marks a current state. The injury link is an inference, most plausibly continuous with the knee-injury fear in the Sumika core and the `story_0055` nightmare in §6, not text of this scene.) Rinami does not claim perfect equivalence. Instead she discloses a different stage wound: after being removed from her first-year unit, she became afraid of performing. She identifies this as the `Love☆しすたぁず` period and reveals that her old marketed role was more little-sister-coded than the older-sister identity Sumika now instinctively sees in her.
 
 ### Claim transitions
 
@@ -508,7 +515,7 @@ The gift that seals the exchange is not money. Kotone has saved a collaboration 
 
 The quartet's karaoke trip reveals several mundane preference layers. Rinami regularly goes to karaoke alone. Mao treats karaoke as a different pleasure from vocal lessons. Sena still follows contemporary idols closely and chooses a GEKKA song because she remains an idol fan even after becoming Hatsuboshi's No.1. Tsubame turns karaoke scoring into another direct contest with Sena.
 
-Rinami's anime song creates a family-history anchor. Her parents were often away for work, so she and her younger sister watched anime together in the evenings. They even submitted illustrations to reader sections. Mao has heard the song enough during repeated karaoke outings with Rinami to know it himself. This gives mature peer friendship a texture of repeated hobby exposure rather than only high-stakes mutual support.
+Rinami's anime song creates a family-history anchor. Her parents were often away for work, so she and her younger sister watched anime together in the evenings. They even submitted illustrations to reader sections (this detail comes from `adv_csprt-3-0074_01` L133, not from `story_0071`, whose anime line is `adv_csprt-3-0071_02` L33; locator tagged 2026-11-15, HSCA-123; see §25). Mao has heard the song enough during repeated karaoke outings with Rinami to know it herself. This gives mature peer friendship a texture of repeated hobby exposure rather than only high-stakes mutual support.
 
 The arcade scene addresses public hierarchy. Tsubame beats Sena at a dance game but suspects Sena was not fully serious. Then strangers immediately recognize Sena and ask for an autograph, reinforcing the visibility gap between No.1 and No.2. Tsubame uses the familiar “second-highest mountain” analogy to describe the asymmetry. A different student then recognizes **Tsubame** specifically and praises the dance she just performed. Mao's response is the correct reconstruction cue: people are watching Tsubame too.
 
@@ -527,9 +534,9 @@ China attempts stair sprints because she heard the Hanami sisters trained that w
 
 Mao joins her for a safer run rather than merely prohibiting the attempt. This matters for care modeling. Correction works better when it preserves the underlying intention—China wants to build stamina—while changing the means.
 
-At lunch Mao discovers China and Hiro in the courtyard and slips easily into theatrical butler play when Hiro suggests the image suits him. The ability to improvise role is recreational, not only professional armor.
+At lunch Mao discovers China and Hiro in the courtyard and slips easily into theatrical butler play when Hiro suggests the image suits Mao. The ability to improvise role is recreational, not only professional armor.
 
-The final part gives another small role-image contradiction. China is searching for a mobile melon-bread vendor after Rinami's recommendation, apparently intending to bring the food to Kanae. Mao knows how the local shop works and helps search. After succeeding, he asks China to keep his own liking for melon bread secret because he thinks a cool person should prefer a more sophisticated pastry.
+The final part gives another small role-image contradiction. China is searching for a mobile melon-bread vendor after Rinami's recommendation, apparently intending to bring the food to Kanae. Mao knows how the local shop works and helps search. After succeeding, Mao asks China to keep Mao's own liking for melon bread secret because Mao thinks a cool person should prefer a more sophisticated pastry.
 
 ### Claim transitions
 
@@ -584,6 +591,8 @@ Kotone visits the Kuramoto estate and is overwhelmed by its scale. China prepare
 
 Part 2 complicates China's wealthy childhood. She had many lessons, rarely visited friends' houses, got lost inside the estate, and sometimes cried because her life felt different from other children's. She says that phase passed and emphasizes that she now has age-near family and a lively home. The source therefore supports **childhood social restriction**, not a blanket claim of emotional deprivation.
 
+**The marked `家族` (GKM-SAA-161; REVISE, qualified).** The word is emphasis-tagged in the script, `歳の近い<em=>家族</em>もおりますし` (`adv_csprt-3-0075_02` L108), and Kotone answers with a long silence (L117). Read with China's rank-3 communication, where a same-age maid apprentice comforted the young China and the day she became one of the family is told as `大切な家族が、増えた日` (`adv_cidol-kcna-3-009_02` L122, L236), the marked word plausibly refers to a household member treated as family rather than to a blood relative. Naming that person as Kanae remains an inference from other homes; the China core §19 and the side-character synthesis already carry the Kanae-as-family frame. Kotone's silence is not interpreted here beyond its textual length; its meaning is an AV-C staging question. The sentence above (“age-near family”) is kept, with this qualification.
+
 China then invites Kotone and her younger siblings to the Kuramoto family's chestnut-picking tradition and explicitly wants to befriend the siblings. This extends cross-class friendship into family networks just as Kotone's Saki/Temari friendship has already done.
 
 Part 3 completes the gift loop. After being moved by Kotone's personalized cookie, China researches the technique with household help and makes a ribbon-shaped cookie for Kotone, assisted by Ume and Hiro. Care has been learned, transformed, and returned. Kotone's closing observation—that Hatsuboshi is never boring—registers how dense her cross-class network has become.
@@ -628,7 +637,7 @@ The support corpus now strongly rejects any simple hierarchy in which the highes
 - Sumika retains serious athletic speed and dance literacy despite her avoidance history.
 - Kotone is a high-functioning worker and social-service expert while remaining academically endangered by time poverty.
 - Tsubame is unusually effective at fundamentals, paperwork, and custom tutoring.
-- Mao has practical stagehand skills and local knowledge that his polished image does not advertise.
+- Mao has practical stagehand skills and local knowledge that her polished image does not advertise.
 - China can be socially open, culturally knowledgeable, and deeply persistent while weak in academics and ordinary bureaucracy.
 - Rinami can provide sophisticated emotional containment while needing her own body/food management and carrying past stage fear.
 - Sena can read many people extremely quickly while remaining unable to classify Hiro through her normal talent model.
@@ -864,6 +873,7 @@ This tranche supplies several high-value register distinctions for downstream sp
 ### Lilja
 - Shy hesitations remain in ordinary approach behavior, but fandom/expertise can accelerate her into long, confident explanatory runs.
 - Embarrassment spikes around public exposure of elite gaming status or cosplay, not around the interests themselves when the listener is safe.
+- **Addressee speech level (GKM-SAA-107; REVISE by narrowing, 2026-11-15; A1 re-read).** In this tranche Lilja speaks plainly to Saki (`adv_csprt-3-0054_01` L65), to Saki and Kotone together (`adv_csprt-3-0059_02` L22) and to China (`adv_csprt-3-0063_01` L125). Elsewhere in the support corpus she is plain with Sumika (`adv_csprt-3-0042_01` L17), but keeps です/ます with Temari even after her address moves from `月村さん` (`adv_csprt-3-0031_02` L30, L73) to `手毬ちゃん` (`adv_csprt-3-0049_01` L52, L76; `_03` L84), with Mao (`adv_csprt-3-0040_02` L95, L101) and with Hiro (`adv_csprt-2-0053_02` L81). Her polite わたし-based register is therefore addressee-dependent rather than a uniform baseline: it holds for seniors and some same-year peers, while with Sumika, Saki, Kotone and China she uses plain speech. This narrows the existing model without reversing it; politeness persists where the voice ledger says it does, including with Temari after the two grow closer. The full addressee map belongs to the Japanese voice-and-register ledger.
 
 ### Sumika
 - Uses joking, casual, and teasing framing even when approaching a real wound.

@@ -12,9 +12,14 @@ do_not_use_as_current_authority: false
 last_updated: '2026-08-17'
 title: Gakuen Idolmaster V2 — Shiun Sumika Phase-3 AV Revision Addendum
 parent_authority: GKM_CORE_09_SHIUN_SUMIKA.md
+version: "2.1"
+revised: "2026-11-15"
+revision_note: "v2.1 source-to-analysis audit 2026-11-15 correction (REVISE, textual scope only): the Love & Joy coauthorship row now records domain-split authorship (GKM-SAA-131); AV results unchanged and no new AV review"
 ---
 
 # SHIUN SUMIKA — PHASE-3 AV REVISION ADDENDUM
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** The front matter carried no version key; the 2026-08-17 addendum is treated as v2.0. **REVISE (textual scope):** the `Love & Joy` coauthorship row gains a dated scope note from GKM-SAA-131; the earlier cell wording is kept verbatim at the start of the cell. No AV result was changed and no audiovisual evidence was inspected for this revision.
 
 This addendum routes the textual Phase-3 hypotheses into their post-AV state. It does not replace the textual core or the complete AV baseline.
 
@@ -26,7 +31,7 @@ This addendum routes the textual Phase-3 hypotheses into their post-AV state. It
 | chosen strong mask is a beautiful lie practiced toward truth | STRENGTHEN | Tame and LoveJoy official MVs visualize identity as constructed interface under growing Sumika control |
 | `Tame → Kakushi → LoveJoy` forms a developmental sequence | STRENGTHEN | brightness-as-step → protected stillness → self-authored outward movement |
 | ballet can be reused without restoring the compulsory ballet future | STRENGTHEN | LoveJoy 3DMV shows ballet-derived line/spatial control inside frontal idol address |
-| `Love & Joy` is genuine coauthorship | STRENGTHEN | commu plus MV/3DMV align on self-recording, preference, movement, styling and audience circuit |
+| `Love & Joy` is genuine coauthorship | STRENGTHEN | commu plus MV/3DMV align on self-recording, preference, movement, styling and audience circuit. **Textual scope, REVISE 2026-11-15 (GKM-SAA-131):** in the commu, authorship is split by domain. Choreography is Sumika's (`adv_cidol-ssmk-3-012_02.txt` L55–L84). The Producer initiates the costume step and picks the outfit at her request for his taste (`adv_cidol-ssmk-3-012_03.txt` L11, L72–L93); the ponytail is his request (L97–L114); fanservice and staging are his proposal, co-designed at her insistence (L183–L192). "Styling" therefore is not Sumika's sole authorship; the AV alignment above is not re-tested here |
 | REVERSI maturity requires differentiation | STRENGTHEN | alternating focality, hand contact plus separation, mirrored but nonidentical positions |
 | public disclosure is raw confession or a final cure | REVISE / DOWNGRADE | Dear 032 directly performs fracture → Lilja co-regulation → testimony → audience promise → tears → humor return; exposure becomes vocational without becoming curative |
 | Producer scaffolds autonomy | STRENGTHEN / OPEN | LoveJoy stepping-back enables authorship; Dear 034 shows chosen reliance, and Dear 037 explicitly suspends the Producer role for personal truth; emotional indispensability remains structurally unresolved |

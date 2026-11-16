@@ -17,10 +17,15 @@ continuity_tracks:
 - M-RINAMI
 reasoning_route: GPT-5.6 Sol — Extra High
 last_updated: '2026-08-15'
+version: "2.1"
+revised: "2026-11-15"
+revision_note: "v2.1 source-to-analysis audit 2026-11-15 corrections (STRENGTHEN / REVISE / OPEN; no claim rejected): adds the Producer-side mechanics of the romance with the conclusion kept OPEN, relocates the Dear 020 memory line, corrects inner-speech, branch and sequence labels, integrates dated event, support and cross-track evidence into the body, and adds a Phase-4/5 integration pointer section"
 ---
 
 # GKM CORE 08 — HIMESAKI RINAMI / 姫崎莉波
 ## Phase 3 source-facing character deep reading
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** Implements GKM-SAA-003, 019, 020, 071–076, 104, 108, 128–130 and 222–227, together with HSCA-040 and HSCA-044, after re-reading the cited A1 lines. Transitions: STRENGTHEN (new dated subsections in §2, §3, §5, §6, §8, §9, §22, §23 and §24, and the integrated event and support evidence), REVISE (wording, inner-speech, branch and sequence corrections in §5, §6, §7, §8, §11, §12, §21 and §27 item 7; the earlier wording is quoted at each change), and OPEN (OQ-RINAMI-11 on the Producer's side; the RippleSign origin narrative under OQ-RINAMI-07). Any romance conclusion remains OPEN. The Producer's romantic reciprocity is recorded as implied, never as fact. A new pointer section before §29 indexes where each event and support item now sits. The 2026-11-12 Source Lock 1.1 supplement is unchanged except for one dated pointer. No audiovisual evidence was used.
 
 ## 0. Status, purpose, and evidence boundary
 
@@ -37,6 +42,8 @@ The Rinami-owned corpus contains **210 source objects / 6,057 dialogue messages*
 | Live fragments | 8 | 14 | compressed performance-state texture |
 | Growth | 3 | 12 | system/growth texture |
 | Startup/seasonal | 2 | 13 | minor relational texture |
+
+**Count basis (2026-11-15, GKM-SAA-225).** The 6,057 figure is the manifest message count. The raw A1 objects contain 6,058 message commands. The difference is one nameless, hidden scene caption, `――数日後。` at `adv_dear_hrnm_012.txt` L413, which the manifest does not count. No interpretive claim depends on the difference, and the source-metrics JSON keeps the manifest figure.
 
 Produce Story divides into:
 
@@ -107,6 +114,16 @@ The route therefore begins with two unstable hierarchies crossing:
 
 The entire relationship grows out of that mismatch rather than resolving it.
 
+### How the unit ended, in Rinami's own words (2026-11-15, GKM-SAA-226)
+
+STRENGTHEN. "She alone failed to gain comparable popularity" remains an accurate summary. Rinami's own accounts, however, give the end of `Love☆しすたぁず` three framings that are never reconciled: she was removed (`ユニットから外されちゃったの`, Dear 002 L63), she quit (`ユニットを辞めてからは`, Dear 010-01 L70), and the unit was dissolved (`前のユニットを解散してからは`, Dear 032 L295). Support stories, C4 against D-RINAMI, add the aftermath in her words: she cried every day after being left out (`adv_csprt-3-0005_02.txt` L75–L79), and afterward the stage frightened her (`adv_csprt-3-0064_03.txt` L91, L115). In D-RINAMI, Kana and the other former members come to H.O.F. to cheer for her (Dear 033 L190–L218). The failed past therefore returns as support, not only as the archive that Shion weaponizes (§9). Limit: the three framings are perspective-specific, and the source does not settle which administrative act ended the unit.
+
+### The support path as Rinami's real exit route (2026-11-15, GKM-SAA-074)
+
+STRENGTHEN. Before the route, Rinami's likely way out of idolhood was not leaving school but becoming a supporter of other idols. In a communication episode she tells the Producer that, before she met him, student-council work had been `楽しくて、充実してて`, and that supporting idols had seemed acceptable even if she never turned professional (`adv_cidol-hrnm-3-013_03.txt` L54–L74, C4). In another episode Sena says that scouting Rinami for the council was the right call (`adv_cidol-hrnm-3-017_02.txt` L120), and Rinami asks herself whether she is better suited to that work than to idolhood (L146, inner speech). Event 013 shows the same pull in event continuity: council work matters to her as much as idol work (`adv_event_013_main-03.txt` L161), and she muses on supporting idols while being one (L498–L503, inner speech). Kana took exactly that path. She transferred to the general course to study stage direction because supporting idols suited her better than being one (Dear 022 L40–L54). SL1.1 `adv_event_028_main-02.txt` L235–L250 reports the same path for the former unit's leader. Kana's news provokes Rinami's survivor's doubt, `一番の落ちこぼれだった、私だけが、まだアイドルを続けてる` (Dear 022 L102), which feeds the summer crisis (§11).
+
+The valuation stays two-sided. Support is a positive vocation: Rinami says she likes both aiming to be an idol and cheering on those who aim (`adv_csprt-3-0005_03.txt` L104–L113). It is also a temptation to self-erasure (CIDOL 017_02 L146–L154, inner speech). Counterevidence: she never stopped her lessons (CIDOL 017_02 L204–L209). This bears on RINAMI-C01, C07 and C08 and on OQ-RINAMI-06.
+
 ---
 
 # 3. Care begins as co-regulation, not one-way maturity
@@ -151,6 +168,12 @@ This also explains why the mature line:
 
 is not a late corruption of a selfless older-sister ideal. It is the recovered truth of the childhood scene. Rinami's joy was always part of the circuit.
 
+### Singing as root and as self-assessed weakness; the first fan (2026-11-15, GKM-SAA-073)
+
+STRENGTHEN. Singing is both the root of Rinami's idolhood and the skill she rates lowest in herself. As root: the childhood song for the crying boy (Dear 026–027), and, in SL1.1, the TV `歌のお姉さん` she wanted to resemble and her own report that her music teacher called her the best in class (`adv_event_028_main-05.txt` L17, L74, inner speech at L74). As weakness: `歌は、ちょっと苦手だなぁ` (`adv_pstory_001_hrnm_after-step-2-normal-01.txt` L47, choice 1 of 3) and `歌のほうが苦手、かなぁ` (`adv_pstory_001_hrnm_ending-normal-02.txt` L36, choice 1 of 2), both P1, C3 and branch-only. She calls her childhood singing `へたっぴ` in the P1 true ending (`adv_pstory_001_hrnm_ending-true-01.txt` L98) and in her D-RINAMI dream (Dear 034 L102). A support story has her tell Misuzu that as a first-year she could not sing at all (`adv_csprt-3-0045_02.txt` L52, C4).
+
+The first-fan motif recurs across tracks. In Dear 006 she realizes that the child Producer was the first audience of her live (L335). In her Dear 034 dream he loves her clumsy singing (L95–L113). The P1 true ending names him `一番大切なファン1号さん` (L150–L156, C3). In a Produce Event before a handshake session, the Producer offers to shake her hand, and she jokes `きみが最初のお客さん？` (`adv_pevent_002_hrnm_sales_4-003-01.txt` L57, choice 3 of 3, C3; added after verification, 2026-11-15). In the P3 final-failure fragment the Producer says that her song makes everyone smile (`adv_pstory_003_hrnm_final-failure-01.txt` L66, C3). This sharpens RINAMI-C21. Limits: whether her singing sounds weak is a performance question for AV review, while the self-assessment is textual; `苦手` can also be read as ordinary modesty.
+
 ---
 
 # 4. `お姉さん` is both discovered and manufactured
@@ -193,6 +216,10 @@ Even that should not be essentialized. Three years of fundamentals, targeted pro
 
 > **Rinami's naturalness is an achieved performance condition.**
 
+### Support evidence: the acting improves when the template is removed (2026-11-15, GKM-SAA-108)
+
+STRENGTHEN (RINAMI-C05, C13). Support Series 1 stages the same paradox outside the Dear route (C4). A visual trainer finds Rinami's grateful-acting exercise stiff and names the problem as trying too hard to perform `妹っぽさ`. The trainer asks her to set aside her circumstances and imagine someone close to her, and the repeated lines then succeed (`adv_csprt-1-0004_01.txt` L51–L120). The most probable referent of those circumstances is her assigned Love☆しすたぁず persona, an inference recorded in the support reading. In the second part, Rinami's care for her actual younger sister, who has a fever, is affectionate but skeptical and directive (`adv_csprt-1-0004_02.txt` L19–L113). Two limits apply: relational imagination improves the performance, but the exercise does not show that the older-sister role is her essence, and the family scene is a single phone call.
+
 ---
 
 # 5. Ordinary-life evidence: she likes caring, but she can also receive
@@ -225,7 +252,7 @@ Most importantly, `adv_pevent_001_hrnm_activity_020.txt` has her seek the Produc
 >
 > `今日だけは、その……甘えてもいいかな。`
 
-When told she can rely on him whenever she wants, she eventually jokes that she can become the “little sister” for once and asks to sit beside him.
+This opening (L14–L20) is branch-free and carries the claim in every branch. A three-way player choice follows (L25), and its continuations are alternatives, not one sequence. In choice 1 he tells her to rely on him at any time (L30). In choice 2 she jokes that she will be the little sister for now, since he can be both a younger and an older brother to her (L59, L69). In choice 3 she asks to sit beside him where nobody can see (L84–L95). (Revised 2026-11-15, GKM-SAA-130. Earlier wording: “When told she can rely on him whenever she wants, she eventually jokes that she can become the ‘little sister’ for once and asks to sit beside him.”)
 
 This is not incidental gap comedy. It is part of the route's maturation:
 
@@ -241,6 +268,43 @@ It is:
 
 > **caregiver who treats receiving as exceptional → person capable of reciprocal dependency without losing caregiver identity.**
 
+### Event and support evidence: care as a recipient-centred method, and its limits (2026-11-15, GKM-SAA-104, GKM-SAA-108)
+
+STRENGTHEN (RINAMI-C04, C07). The numbered events (C1 within each event; C2 against the main routes) show the same care mechanism outside the Dear route and give it limits.
+
+- **Reframing, not reassurance (E003).** Rinami notices Mao's tension before Mao names it (`adv_event_003_main-03.txt` L113, L134). She does not deny the stakes. She reframes the summer live as a festival to enjoy with the audience (L188–L243).
+- **A method, not an answer (E006, E010).** She teaches Ume and China to plan an event by first asking whom it is for and how those people should feel (`adv_event_006_main-02.txt` L332–L371). She defines her own role as stopping them only when they go too far (`adv_event_006_main-03.txt` L388–L404). She gives Hiro the same method for choosing a gift (`adv_event_010_main-02.txt` L352–L377).
+- **Juniors can carry her (E015).** When the sound fails mid-live, Rinami tells herself that, as the third-year, she must hold the stage (`adv_event_015_main-04.txt` L449–L485, inner speech). China steps in first with an improvised local song (L495–L519).
+- **Protective command, and its boundary (E021, E022).** Rinami bans the exhausted Sena and Tsubame from council work and asks them to rely on the others (`adv_event_021_main-01.txt` L294–L379). With the feverish, overtraining Mao she does not command rest. Because she shares the feeling, she says she cannot tell Mao not to overdo it, and asks only that Mao keep warm (`adv_event_022_main-03.txt` L21–L32). In these events her command applies to duty overwork, not to a final-year ambition she shares.
+
+Support stories (C4) add the receiving side and ordinary teaching:
+
+- she carries her lesson routine into study when helping Mao (`adv_csprt-2-0003_02.txt` L64–L98);
+- she asks Misuzu to teach her Japanese cooking and so becomes the learner (`adv_csprt-2-0026_02.txt` L89–L92);
+- she briefly suspends Kotone's older-sister role, `今だけはお姉ちゃんお休みで` (`adv_csprt-2-0058_01.txt` L186);
+- she mentors Temari's beauty care (`adv_csprt-2-0061_02.txt` L68–L103);
+- she draws on her own loneliness after moving away from home to support Lilja (`adv_csprt-3-0074_03.txt` L119).
+
+Limit: these are event-bound or modular states. They corroborate the mechanism but do not place D-RINAMI scenes in sequence.
+
+### Ordinary-life inventory (2026-11-15, GKM-SAA-222)
+
+STRENGTHEN. Further ordinary texture, mostly C2–C4 and consistent across tracks:
+
+- **Home.** Fukuoka (`adv_pevent_001_hrnm_school_007.txt` L4; `adv_event_013_main-01.txt` L266; Dear 037 L285); rice sent from home (`adv_event_017_main-01.txt` L48); parents often away at work during her childhood (`adv_csprt-3-0071_02.txt` L30); the family sake brewery (§13).
+- **Food.** Home-style ginger seasoning (Dear 006 L160, choice 1 of 3) and a grandmother's recipe (L171, choice 2 of 3); a daily packed lunch because she likes cooking and it costs little (L193); a sushi request (Dear 020 L72–L85) and delight at ikura (Dear 010-01 L26); a large appetite held back by dietary restraint during N.I.A. (Dear 020 L263–L268).
+- **Leisure.** Karaoke, where she sings `ガラクタロード` alone to encourage herself (`adv_cidol-hrnm-3-017_03.txt` L26–L41; §20).
+
+Added after verification (2026-11-15, GKM-SAA-222), each re-read in A1:
+
+- **Home.** A rural hometown with many rice fields (`ほら、私の田舎って、田んぼがいっぱいあったでしょ`, `adv_pstory_001_hrnm_ending-normal-01.txt` L36, C3). As a child she was given snacks from her father's evening drinks instead of sweets (`adv_event_013_main-03.txt` L78). Her sister asks whether she is eating the honey umeboshi their mother sent (Dear 021 L199).
+- **Leisure.** A wish for an onsen trip, fulfilled by chance (`adv_cidol-hrnm-3-004_01.txt` L14, inner speech; `adv_cidol-hrnm-3-004_03.txt` L15–L71). Historical drama (she recommends 大河ドラマ to Mao, `adv_csprt-2-0003_01.txt` L106). Evening anime with her younger sister (`adv_csprt-3-0071_02.txt` L33), and anime in middle school (`adv_csprt-3-0074_01.txt` L125). Romance manga and a romance film used as song study (`adv_cidol-hrnm-3-013_01.txt` L159; `adv_cidol-hrnm-3-018_03.txt` L248).
+- **Habit.** Getting lost: as a first-year she was lost on campus when Mao guided her (`adv_csprt-3-0051_01.txt` L80).
+
+Two items were not verified, hidden sweets and her own weight worries, and are not recorded here.
+
+Limit: much of this texture also lives in the ledgers. It is recorded here because it bears on §5's claim that care is also her own pleasure.
+
 ---
 
 # 6. Romance is explicit, but its professional fusion is the real analytical problem
@@ -249,7 +313,7 @@ Rinami's Producer relationship should not be euphemized as merely “romance-cod
 
 By Dear 009 she says she may no longer be able to see him as a younger brother.
 
-Dear 010 opens with her distressed internal continuation:
+Dear 010 opens with her distressed continuation, spoken aloud while she is alone (L39; the line is not marked as inner speech). (Revised 2026-11-15, GKM-SAA-129(d). Earlier wording: “Dear 010 opens with her distressed internal continuation.”)
 
 > `私、{user}くんのこと……`
 
@@ -285,6 +349,8 @@ The text does **not** state that they literally marry. The analytical fact is mo
 
 > **Rinami herself chooses to fuse romantic confession, lifelong mutual aid, and professional production into one vow.**
 
+**Supplement (2026-11-15, GKM-SAA-003).** The sentence above stands, and the fusion is also co-produced. The vow's wording is Rinami's chosen language. It takes up a production idiom that the Producer kept supplying: training toward Prima Stella (Dear 010 L385), an office in her hometown (Dear 026 L421), and `トップアイドルにします` to her father (Dear 027 L18). The fusion is therefore co-produced in idiom and authored by Rinami in voice. See "How the Producer answers" below.
+
 That prevents a clean compartmentalization in either direction.
 
 It would be wrong to say:
@@ -304,17 +370,45 @@ The Phase-7 question should therefore be:
 
 The route strongly supports “yes” to the first half. It does not eliminate the second.
 
+### How the Producer answers (2026-11-15, GKM-SAA-003)
+
+STRENGTHEN, with the romance conclusion kept OPEN. In the Dear chain (C1 within D-RINAMI), Rinami's intimacy bids are repeatedly answered in professional terms. She deflates or protests, and sometimes he corrects course.
+
+- **Dear 009**, after the single-option choice at L267 (its branch is empty; L273–L365 are common to every playthrough). The Producer says she is no longer his older sister alone (L307), then calls it a joke (L317). Rinami says she may no longer be able to see him as a younger brother (L324), then reframes this as her becoming everyone's older sister (L344). He endorses that professional frame (L349), and she answers `{user}くんの、ばか` (L365). Earlier in the chapter, when Rinami asks whether the head-pat “older-sister switch” is just something he wants, choice 1 of a two-way choice has him admit `それもあります` (L149–L158). That admission is branch-only.
+- **Dear 010.** He reads her as everyone's older sister now (L347) and proposes to keep the sister–brother relation (L362) as training toward Prima Stella (L385). She repeats `訓練……ね` (L390).
+- **Dear 020.** He says the older-sister reinforcement week need not continue (L410). That retires the frame, and she asks for closeness as herself (L414). After her remark about the moon (L429), he answers with a pause and `綺麗、です……とても` (L436–L437; the L437 message has its speaker label hidden, `hide=true`).
+- **Dear 026.** To her question about staying home and living there together (L405), he answers `それも悪くない、ですね` (L412) and mentions an office in her hometown (L420–L421). He then says she loves idols above all (L437).
+- **Dear 027.** Before her father he takes the single-option `娘さんをください` (L13) and glosses it as making her a top idol (L18).
+
+Modular states corroborate the pattern (C3/C4). When she hints that she would like to experience a date, to have an image for a love song (`adv_cidol-hrnm-3-000_02.txt` L105), he offers to send her a hundred romance manga (L120). He reads one of her moods as fatigue (`adv_cidol-hrnm-3-001_01.txt` L206, a parenthesized thought), which is sincere obliviousness in at least that scene. In P2, asked whether he will comfort her if she loses, he says that he will plan the next win, and she deflates (`adv_pstory_002_hrnm_before-audition-a-normal-01.txt` L58–L68). In two branch-only continuations of `adv_pevent_001_hrnm_activity_010.txt`, he declines to call her `お姉ちゃん` (choice 1, L36), or offers to do so as one of her fans (choice 3, L71); in the latter she replies `そういうのじゃ、ないんだけどなぁ` (L75). In the P1 true ending, `私の一番大切な……` is completed as `ファン1号さん` (`adv_pstory_001_hrnm_ending-true-01.txt` L150–L156).
+
+The sibling and training frame works as a pretext that both of them use until Dear 020 retires it. His romantic reciprocity is strongly implied but never voiced: by the retracted line in Dear 009 (L307), by sleep-talk `お姉……さん` (`adv_cidol-hrnm-3-008_02.txt` L153), by Dear 020 L436–L437 (label hidden at L437), and by his tears in Dear 037 (L65–L85). He accepts her lifelong request through a hidden single-option `――はい` (Dear 037 L453, `hideMessage=true`). Earlier in the scene he had answered aloud `――はい` to her `きみと一緒に。最高のトップアイドルに。` (L375–L378).
+
+Counterevidence and limits. He sometimes corrects course on his own initiative: after first answering with lesson talk, he asks whether she still has time (`adv_cidol-hrnm-3-002_02.txt` L187–L217). His protective anger is phrased in the sibling idiom (Dear 016 L182). `それも悪くない` (Dear 026 L412) and Dear 020 L437 can be read as reciprocal feeling. The father scene (Dear 027 L6–L18) is comic. A competing reading holds that the reframing is principled restraint, because the route makes the scandal risk of a producer–idol romance explicit (Dear 015 L171–L176). Whether his reframing is obliviousness, restraint or both stays OPEN (OQ-RINAMI-11). The “yes” above concerns reciprocal care and partnership and Rinami's romantic choice. Whether the Producer's romantic feeling is reciprocal is not established. The tone of CIDOL 002_02 L190, the pauses at Dear 020 L419 and L436, his tears and the staging of `ばか` (Dear 009 L359–L365) need AV review. The textual finding does not depend on them.
+
+### Governance evidence: stigma, a bluff and covert interventions (2026-11-15, GKM-SAA-020; HSCA-044)
+
+STRENGTHEN. Three textual facts bear on the governance question of this section.
+
+1. Shion's fake video headlines a scandal between the older-sister idol and her Producer (`みんなのお姉さんアイドルに　スキャンダル発覚！`, `担当プロデューサーと熱愛中！？`; Dear 015 L171–L176). The in-world stigma of a producer–idol romance is therefore explicit in D-RINAMI (C1). This is recorded, not interpreted, and the Producer calls the video a fake collage (L190).
+2. The Producer stops Shion with a threat that he later admits was a bluff (Dear 016 L99–L152). It is an ethically relevant protective act taken on Rinami's behalf. Rinami says it frightened her a little (L170).
+3. He makes covert interventions. He withholds the 100 Pro scout offer so that she can concentrate on H.I.F. (Dear 037 L300–L314). In one P1 ending he has been increasing her lesson time without her noticing (`adv_pstory_001_hrnm_ending-normal-04.txt` L50, choice 1 of 2, C3). The dream notebook, which Rinami opens with some hesitation (Dear 027 L25–L34, inner speech at L34), reveals planning he had not shown her.
+
+None of these is shown to harm her, and Rinami endorses the method in retrospect (§25). They supply concrete cases for RINAMI-C25 and OQ-RINAMI-03.
+
 ---
 
 # 7. The childhood relationship was reciprocal before either of them understood it
 
 The “older sister / little brother” memory itself becomes unstable as the route progresses.
 
-Dear 020 revisits the childhood festival where they became lost in the forest. Each remembers the other as the person who took the frightened one's hand.
+Dear 020 revisits the childhood festival where they became lost in the forest. Each remembers the other as the person who took the frightened one's hand: each credits the other with leading (L339–L362), and Rinami stresses that he was the younger one (L355). D-RINAMI leaves the disagreement unresolved. Rinami lets it go with `まあいっか` (L367).
 
-They finally arrive at the better reconstruction:
+The explicit synthesis is spoken only in a communication episode, `adv_cidol-hrnm-3-013_03.txt` L197 (C4 against D-RINAMI):
 
 > `きみと私、お互いがお互いの手を引っぱりあってたんだ。`
+
+(Revised 2026-11-15, GKM-SAA-019. Earlier wording: “They finally arrive at the better reconstruction”, which placed this line in Dear 020. Dear 020 supplies mutual crediting and an unstable hierarchy. In another episode Rinami keeps her own version in inner speech, `adv_cidol-hrnm-3-017_01.txt` L212.)
 
 This is structurally important.
 
@@ -326,7 +420,7 @@ The recovered memory instead becomes:
 
 > **two frightened children pull one another through the forest.**
 
-When present-day Rinami takes his hand at the festival, she initially frames it with the older-sister script—do not get separated from “older sister”—then deliberately changes the wording to:
+When present-day Rinami takes his hand at the festival, she initially frames it with the older-sister script—do not get separated from “older sister” (`お姉さんとはぐれないように、ね♪`, Dear 020 L408). After the Producer says that the older-sister reinforcement week need not continue (L410), she changes the wording to (L414): (Revised 2026-11-15, GKM-SAA-129(e). Earlier wording: “then deliberately changes the wording to”. The change follows his objection.)
 
 > `私とはぐれないように。`
 
@@ -356,9 +450,33 @@ Dear 017 makes the transformation explicit. The earlier Rinami could imagine bei
 
 This is one of the clearest places where V2 must reject a pure “recovery of old self” model.
 
-**Competitive ambition is new.**
+**Competitive ambition is revived and re-licensed, not simply new.** (Revised 2026-11-15, HSCA-040. Earlier wording: “Competitive ambition is new.”) In D-RINAMI, Rinami reminds Mao that in their first idol class the two of them promised to catch up with Sena someday (Dear 030 L350). In a P3 result fragment she says that standing on that stage has been her dream since first year (`adv_pstory_003_hrnm_final-normal-02.txt` L11, C3). N.I.A. does not create competitive desire from nothing. It revives an early ambition that had gone dormant and licenses it at summit scale.
 
 The Producer does not merely restore a childhood trait. Idol experience produces a desire that did not exist in the same form before.
+
+### The `一番星` promise arc (2026-11-15, GKM-SAA-071)
+
+STRENGTHEN (RINAMI-C18, C10, C15). In D-RINAMI (C1), the ambition is carried by a promise that passes back and forth between Rinami and the Producer:
+
+1. **Dear 010.** She makes her confession conditional: if she becomes Prima Stella at summer H.I.F., she will ask one favour (L421–L441) and tell him her true feelings (L449, inner speech).
+2. **Dear 017.** After N.I.A. she says she wants to become Prima Stella (L138). He promises to make her a top idol and asks her, in return, to take him to the place where the `一番星《いちばんぼし》` can be seen (L154–L158). She promises to show him the star rising `きみの一番そばで` (L166–L175).
+3. **Dear 023.** She vows before the stage to keep that promise (L74–L79). After the loss she says `きみとの約束……守れなかった` (L517). The loss is felt as a broken promise, and it also voids the condition on the confession.
+4. **Dear 025.** A parallel broken promise to her father: a homecoming live as a top idol (L499–L507).
+5. **Dear 027.** His notebook states the promise in reverse, as his own promise to take her where the star can be seen (L179, which Rinami reads aloud). She later says that she has made her own `一番星《いちばんぼし》` declaration to Sena (L764).
+6. **Dear 028.** He renews the promise (L166).
+7. **Dear 035–037.** She recalls `あの約束` (Dear 035 L393) and turns it into `一番星の景色、一緒に見よう` (L447). After the victory she thinks `これが、『一番星』の景色――` (Dear 036 L518, inner speech) and says `一番星の見える景色に立ったね` (Dear 037 L226). She then links the promise to the confession (Dear 037 L396).
+
+The ruby carries a double reading: the title `一番星《プリマステラ》` and the view `一番星《いちばんぼし》`. In one exchange of a P3 result fragment the Producer says `一番星《いちばんぼし》の見える場所へ` and Rinami answers `『一番星《プリマステラ》』に` (`adv_pstory_003_hrnm_final-normal-02.txt` L16–L17, C3). The pun is the lexical carrier of the career–relationship fusion. It also shows that the dream-ownership crisis of §11 is partly a crisis of debt to the Producer and to her father, which recovery turns into a shared view. Counterevidence: the `一番星` pun is not exclusive to Rinami, since the institution and other routes use it. The P3 occurrences are branch-scoped result fragments and are not merged with D-RINAMI.
+
+### The Produce-route pattern (2026-11-15, GKM-SAA-072)
+
+STRENGTHEN. The Produce Story tracks (C3, with branch variants) model a development parallel to D-RINAMI but not identical with it.
+
+- **Series 1.** Failure branches open with self-removal (`ほかの子をプロデュースしたほうが――`, `adv_pstory_001_hrnm_after-audition-final-failure-01.txt` L51, choice 1 of 3) or `私なんか` (L95, choice 2 of 3; `adv_pstory_001_hrnm_after-audition-final-normal-03.txt` L59, choice 1 of 3). Failure is measured against `みんなのお姉さん` (`adv_pstory_001_hrnm_ending-normal-05.txt` L17, before the choice). Recommitment is invariant and always follows the Producer's words (`after-audition-final-failure-01` L53–L117, choices 1 and 2; `before-audition-mid-normal-01` L117, choice 3 of 3). The school is framed as an institution that gives second chances to those who keep trying (`after-audition-final-failure-01` L139, choice 3 of 3; `ending-normal-05` L35, choice 2 of 2).
+- **Series 2.** Her resolve is partly self-sourced, `本気で悔しいって、そう思える私がいるから――` (`adv_pstory_002_hrnm_after-audition-final-failure-01.txt` L67), while inner speech still confirms borrowed belief (`（きみが信じてくれるから、　私はずっと頑張れるんだ）`, `adv_pstory_002_hrnm_after-audition-b-normal-03.txt` L68).
+- **Series 3.** A dream owned since first year (`adv_pstory_003_hrnm_final-normal-02.txt` L11) and a claimed title (L17).
+
+The pattern runs from borrowed belief, through self-felt frustration, to owned ambition. Counterevidence: even in Series 3 the Producer's speech precedes her recommitment (`adv_pstory_003_hrnm_selection-failure-01.txt` L53–L70; `adv_pstory_003_hrnm_final-failure-01.txt` L79–L93). Series 3 consists of four conditional fragments, so this is not a P3 biography (§0).
 
 ---
 
@@ -385,6 +503,24 @@ Rinami's victory over Shion therefore has a broader identity claim inside it:
 > **growth does not require deleting an embarrassing earlier self.**
 
 This is also why the old unit should not be treated merely as a mistake. Rinami's failed first-year work becomes one source of professional knowledge: she understands what it feels like to act toward a market image that is not working, what it feels like to be the member left behind, and how fragile public identity can be.
+
+### N.I.A.'s counter-models of sisterhood (2026-11-15, GKM-SAA-020)
+
+STRENGTHEN (RINAMI-C14, C16). The Shion arc is also about what an older sister is. N.I.A. stages counter-models against which Rinami's relational, age-independent sisterhood is defined (C1 within D-RINAMI unless labelled otherwise):
+
+- **The sister as oppressor.** In Shion's own antagonistic speech, her attack on the `欺瞞に満ちた、お姉さんアイドル` (Dear 014 L138) follows from her view of older sisters as `絶対的な圧制者` and from her loathing of them (L101–L122).
+- **The sister as object of contempt.** Gekka addresses Shion as `愚妹` (Dear 018 L97, L165; Dear 031 L142–L229). Rinami applies her own ethic to Gekka: `ぐ、愚妹とか、妹にそんな言葉、使っちゃだめだよ` (Dear 031 L209).
+- **Exclusive sisterhood.** In a P2 result file (C3), Nadeshiko is unsettled by the warmth she feels toward Rinami, because her only older sister should be `四音お姉さま` (`adv_pstory_002_hrnm_after-audition-b-normal-02.txt` L84–L90, inner speech).
+
+- **Real older sisters as rivals (H.O.F.).** At the older-sister idol festival, Saki enters as an older sister who will not yield the No.1 place (Dear 033 L68), and Kotone enters because her younger siblings told her that she is the best older sister (L116–L135). Rinami answers `負けないよ、相手が誰でも。私が一番の、お姉さんなんだから。` (L333). Sisterhood is here a competitive category, and Rinami contests it as a relational older sister without biological seniority. (Added after verification, 2026-11-15.)
+
+Against these models, Rinami answers that a younger person can still be everyone's older sister (Dear 014 L155). The Producer adds that being an older sister has nothing to do with actual age (L162).
+
+Rinami's first will to win in the Dear chain arises as protective anger on the Producer's behalf. When Shion threatens to draw him into a fake scandal, Rinami says she is angry (Dear 015 L213–L238). Then comes `絶対勝つよ` (L251), the chain's first explicit vow to win, followed by `弟を守るときのお姉ちゃんは――世界で一番、強いんだ` (L257–L262). The Producer's anger mirrors hers in the same sibling idiom (Dear 016 L182). Care converts into competition (RINAMI-C14). “First” is scoped to the Dear chain. Counterevidence: the scandal is a single episode, resolved by a bluff (§6), and the provenance reading above remains correct.
+
+### Support evidence: the failed unit becomes professional knowledge (2026-11-15, GKM-SAA-108)
+
+STRENGTHEN. In a support story (C4), Rinami draws a theory of units from her Love☆しすたぁず years. Her old unit got on well, but each member was absorbed in her own immediate tasks (`adv_csprt-3-0101_02.txt` L123). What she now values is clear roles, and members covering one another's weaknesses while each shows her own character (L96, L135). This supports the claim above that her failed first-year work became a source of professional knowledge. Limit: the state is modular and adds no placement in D-RINAMI.
 
 ---
 
@@ -416,13 +552,13 @@ That is enough to shatter the old assumption that she belongs only in a support 
 
 The summer H.I.F. failure is one of Rinami's most important episodes because it combines external catastrophe with internal uncertainty.
 
-Immediately before her performance, Rinami learns that her father has been badly injured in a bicycle accident and requires surgery. Her stage performance deteriorates and Sena wins.
+Immediately before her performance, Rinami learns that her father has been badly injured in a bicycle accident and is in surgery. Her mother adds that his life is not in danger (`命に別状はない`, Dear 023 L362). The performance itself is elided. Sena is announced as Prima Stella (L385), and Mao's `調子が――` (L400) implies that Rinami's stage deteriorated. (Revised 2026-11-15, GKM-SAA-129(a). Earlier wording: “requires surgery. Her stage performance deteriorates and Sena wins.”)
 
 It would be easy to interpret this as pure bad luck.
 
-The homecoming arc refuses that simplification.
+The route refuses that simplification.
 
-Rinami admits that the family emergency was not the entire problem. Before the call, she was already asking whether she had the right to want the summit, whether the dream was really hers, and whether her love for idols was sufficiently “real” to answer the expectations surrounding her.
+In the homecoming arc Rinami tells the Producer that she had been unsure whether her wish to be an idol was real (Dear 027 L524–L531). The explicit re-attribution of the loss comes later, when she tells Sena that the family emergency was not the entire problem and that she would not have beaten Sena even without it (Dear 029 L209–L238). (Revised 2026-11-15, GKM-SAA-129(b). Earlier wording: “The homecoming arc refuses that simplification. Rinami admits that the family emergency was not the entire problem.”) Before the call, she was already asking whether she had the right to want the summit, whether the dream was really hers, and whether her love for idols was sufficiently “real” to answer the expectations surrounding her.
 
 This is a dream-authorship crisis.
 
@@ -443,9 +579,15 @@ Instead it has to answer:
 
 The answer comes from the fact that idolhood was Rinami's first major self-authored `わがまま`—the first thing her father remembers her asking for despite a lifelong tendency to restrain herself for other people.
 
+### Promises, survivor's doubt and an event parallel (2026-11-15, GKM-SAA-071, GKM-SAA-074, GKM-SAA-104)
+
+STRENGTHEN (RINAMI-C18). Two further pressures feed the crisis. The loss breaks two promises, to the Producer (Dear 023 L517) and to her father (Dear 025 L499–L507; §8). Before the summer, Kana's new path had already left Rinami asking why she, `一番の落ちこぼれ`, was the one still continuing (Dear 022 L102; §2). Event 017 supplies an event-continuity parallel (C1 within E017). Rinami admits that, while Tsubame and Mao moved forward and she stood still, she wondered whether her love for idols was weaker (`adv_event_017_main-05.txt` L157–L167). After filming the senior idols' daily lives, she defines an idol as someone whose pursuit of a dream shines in ordinary life as well as on stage (L565–L591). The event resolves a comparable doubt through observation rather than crisis, and it is not placed relative to D-RINAMI.
+
 ---
 
-# 12. Dear 027: desire becomes speakable only after the Producer refuses to command it
+# 12. Dear 027: desire is re-voiced without apology after the Producer refuses to command it
+
+(Heading revised 2026-11-15, GKM-SAA-128. Earlier heading: “Dear 027: desire becomes speakable only after the Producer refuses to command it.” Rinami had voiced the wish before: `参加を決めたのは、私の意思です` (Dear 012 L325), wanting Prima Stella (Dear 017 L138), and wanting to test herself against Gekka, followed by `ごめんね、わがままで` (Dear 018 L393–L400). Dear 027 removes the apology. The Producer's own `これは、俺のわがままです` (Dear 013 L364) is a related mirror. The hinge status in §27 item 9 is preserved.)
 
 The dream notebook is ethically important because it reveals how much planning, anxiety, error, and labor sits behind the Producer's apparent “magic.”
 
@@ -459,17 +601,17 @@ But the decisive detail is negative:
 
 He did not order her back.
 
-Rinami tests him:
+Rinami has already tested him, before the notebook, in Dear 026 (L387–L449):
 
 > what if I quit Hatsuboshi and ask you to live here with me?
 
-He answers that such a life would not be inherently unacceptable—but says he does not believe it is what she wants because:
+He answers that such a life would not be bad (`それも悪くない、ですね`, L412), that production does not require Hatsuboshi and an office in her hometown could be interesting (L420–L421), but that it never occurred to him that she would quit, because:
 
 > `姫崎さんは、なによりも、アイドルが好きだから。`
 
-Rinami then runs.
+Dear 027 replays the exchange as a colour-graded flashback (L209–L252; the quoted wording is the replay at L252, which renders Dear 026 L437). Rinami then runs, responding to a remembered exchange rather than a new one. (Revised 2026-11-15, GKM-SAA-129(c). Earlier wording placed the test after the notebook in Dear 027 (“Rinami tests him: … He answers that such a life would not be inherently unacceptable—but says he does not believe it is what she wants because”) and omitted the hometown-office answer.)
 
-Her body converts uncertainty into desire:
+Her body converts uncertainty into desire. The first two lines are inner speech (Dear 027 L376 and L402, both marked `isInner`); the third is spoken aloud while she is alone (L414):
 
 > `私の心が、体が――悔しいって……叫んでる！`
 >
@@ -479,15 +621,17 @@ Her body converts uncertainty into desire:
 
 This is a critical reversal of the caretaker pattern.
 
-She is not saying:
+She is not telling herself:
 
 > people need me, therefore I should return.
 
-She is saying:
+She tells herself:
 
 > **I wanted to win. I want this.**
 
-Only after that selfish grammar becomes possible does she reconnect it to care:
+(Revised 2026-11-15, GKM-SAA-128. Earlier wording: “She is not saying … She is saying”. She does not say `優勝したかった` to the Producer. Her outward claim is relational, `きみと一緒に` (L414).)
+
+Only after that selfish grammar becomes possible does she reconnect it to care, this time addressed to the Producer (L514–L557):
 
 > `ファンのみんなを笑顔にして、私が一番の笑顔になりたいんだ。`
 
@@ -707,13 +851,17 @@ The commu also includes the Producer's explicit statement that she should stop c
 
 This makes `ガラクタロード` a high-priority AV falsification object: if the performance still relies on a soft/maternal vocal image, the “beyond older sister” claim may need narrowing; if it supports a broader encouragement register, it strengthens the textual progression.
 
+### Support evidence: transmission in ordinary life (2026-11-15, GKM-SAA-108)
+
+STRENGTHEN. The same structure appears in council life (C4). Rinami shows China a private festival viewing place, explaining that a student-council senior, since graduated, showed it to her after finding her there (`adv_csprt-3-0030_03.txt` L80–L119). Something received from a senior passes to a junior. Limit: a modular state; the reading also treats it as an inherited council ritual.
+
 ---
 
 # 21. `SUGAR FLAVOR` / RippleSign: Rinami chooses a peer, not a dependent
 
-CIDOL 018 is important because Rinami herself chooses Mao for a duo competition.
+In Rinami's own communication version (CIDOL 018), Rinami herself chooses Mao for a duo competition.
 
-The Producer has evaluated multiple possible partners and explicitly gives Rinami the final choice.
+Rinami asks whether she may decide her unit partner herself (`adv_cidol-hrnm-3-018_01.txt` L180), and the Producer agrees that this is best (L184). (Revised 2026-11-15, GKM-SAA-129(f) and GKM-SAA-076. Earlier wording: “CIDOL 018 is important because Rinami herself chooses Mao for a duo competition. The Producer has evaluated multiple possible partners and explicitly gives Rinami the final choice.”)
 
 She does not choose the person easiest to “older-sister.” She chooses the classmate whose back she most wants to trust:
 
@@ -730,6 +878,15 @@ This is a useful expansion beyond the onee-san model:
 > **Rinami can create relational performance through peer reciprocity, not only asymmetrical care.**
 
 The later Mao/Rinami relationship synthesis should test the same episode from Mao's side rather than treating Rinami's invitation as complete bilateral truth.
+
+### Two origin versions of RippleSign (2026-11-15, GKM-SAA-076)
+
+REVISE (version scope) and OPEN. Two communication episodes on two idols' cards narrate the unit's origin, and the versions are not additive (C4 each).
+
+- **Rinami's version** (`adv_cidol-hrnm-3-018_01.txt` L172–L221). Rinami asks to choose (L180) and names Mao (L192). She recalls that Mao had once refused her proposal because Mao wanted results as an idol first (L209–L213).
+- **Mao's version** (`adv_cidol-amao-3-017_01.txt` L173–L198; `adv_cidol-amao-3-017_02.txt` L8–L131). The Producer asks Mao whom she would like to partner, and Mao suggests Rinami (L176). Mao gives a different reason for the earlier refusal: she wanted to be seen as a cool prince, and beside the taller Rinami she might look like a little brother next to an older sister (017_02 L17–L67).
+
+“Rinami herself chooses Mao” holds within Rinami's version. The invariant across both versions is an earlier proposal by Rinami that Mao refused, followed by an eventual mutual choice. The origin narrative is therefore OPEN under OQ-RINAMI-07. The audiovisual agreement on the shared performance is unaffected, and both versions support RINAMI-C28.
 
 ---
 
@@ -749,6 +906,33 @@ This is another example of care/respect needing reclassification rather than eli
 
 The winter route does not require Rinami to become less respectful. It requires respect to stop functioning as a reason not to compete.
 
+### Sena's voice on Rinami (2026-11-15, GKM-SAA-075)
+
+STRENGTHEN (RINAMI-C12). Sena is the institution's talent-reader and an aspiring producer. On Rinami, however, she says that her eye failed, and each perspective belongs to its own track.
+
+- **Communication (C4).** Sena tells the Producer that she noticed Rinami's older-sister aptitude but could neither see her hidden talent nor draw it out naturally. As someone aiming to be a producer, she says `不明を恥じるわ` (`adv_cidol-hrnm-3-007_02.txt` L176–L191).
+- **D-RINAMI (C1).** In inner speech Sena concedes that even she missed the charm the Producer drew out (Dear 012 L245–L256). Later she allows that Rinami may have `私に見えないなにか` (Dear 023 L214–L220), and that Rinami has grown in a way `私の眼では測れない` (Dear 027 L723). Rinami, for her part, thinks of talent-reading as Sena's ability (Dear 018 L194, inner speech).
+- **Support (C4).** Sena privately predicts Rinami's latent potential (`adv_csprt-3-0038_02.txt` L96–L126, inner speech). She asks whether Rinami is unconsciously holding back from beating her, `私に勝つことに遠慮してない？` (`adv_csprt-3-0053_01.txt` L111–L129).
+
+The Producer's childhood memory is therefore not the only privileged reading of Rinami, and the institution's best reader records its own limit. Counterevidence: Sena did notice the older-sister aptitude (CIDOL 007_02 L180), so her blindness is partial.
+
+### Event and support evidence: the council relation (2026-11-15, GKM-SAA-104, GKM-SAA-108)
+
+STRENGTHEN. In Event 013's first-year flashback, Sena recruits Rinami into the student council. Sena explains why she will become president and admits that she cannot run the council alone (`adv_event_013_main-03.txt` L333–L474). In Event 005 Rinami, in a soft register, questions whether an Idol Course student may also act as a producer and remarks that the formal limits may still be lenient for Sena (`adv_event_005_main-01.txt` L162–L166, L228). Gentle delivery carries firm institutional judgment. In a support story Rinami notices that Sena is tired. Sena answers `……莉波には、隠せないか` and admits that she has been going to bed late, and Rinami brings her herbal tea (`adv_csprt-3-0038_03.txt` L19–L76). Rinami is a person to whom Sena can show strain. These states are C1 within each event or C4, and do not alter the D-RINAMI peerization sequence.
+
+### `星南ちゃん` completed (2026-11-15, GKM-SAA-223)
+
+STRENGTHEN. Within D-RINAMI the attempt of Dear 029 is completed at the summit: after `ありがとう、ございます` (Dear 036 L434), Rinami says `星南ちゃん` (L445). This bears on OQ-RINAMI-08. In Event 025 she stops Sena and Tsubame in plain register, `ふたりとも、喧嘩はダメだよ？` (`adv_event_025_main-01.txt` L77, C1 within E025).
+
+Register by setting (added after verification, 2026-11-15). These items are textual; their prosody is AV-dependent.
+
+- **Mock-formal older-sister rulings:** `お姉さんは説明を求めます` and `聞きましょう。お姉さんだからね` (`adv_cidol-hrnm-3-017_03.txt` L85, L104); `してほしくありません` (`adv_cidol-hrnm-3-017_01.txt` L282); `聞きましょう` (Dear 012 L509); `説明を求めます` (Dear 032 L264).
+- **Older-sister speech on demand:** asked to celebrate “in an older-sister way”, she says `ふふ、やったわね` (`adv_pstory_001_hrnm_after-audition-final-normal-02.txt` L49–L57, choice 1 of 3, C3). An inner `かしら` appears in a classroom scene (`adv_pevent_001_hrnm_school_005.txt` L13, inner speech).
+- **Address by setting:** `プロデューサー！` at a formal recommitment (`adv_pstory_001_hrnm_after-audition-final-failure-01.txt` L117, choice 2 of 3); `プロデューサーさん` when speaking of him to someone else (`adv_cidol-hrnm-3-008_01.txt` L201–L207); `プロデューサーくん` to her sister (Dear 021 L254).
+- **Reunion register:** she offers keigo at the reunion (Dear 001 L108–L115). When he says that she is still his older sister, she complains that he will not call her `莉波お姉ちゃん`. He declines (`それはまた別の問題です`), and she drops the keigo (Dear 002 L30–L38).
+
+Further register details belong to the voice-and-register ledger.
+
 ---
 
 # 23. Mao and Tsubame prevent “Producer magic” from swallowing Rinami's history
@@ -767,6 +951,27 @@ The route therefore rejects a magical-Producer model in two ways:
 The better model is:
 
 > **stored craft + relational trigger + self-authored desire + institutional opportunity.**
+
+### Event and support evidence: first-year history with Mao and the class (2026-11-15, GKM-SAA-104, GKM-SAA-108)
+
+STRENGTHEN. Events and support stories give the pre-Producer history its own scenes.
+
+- **Event 013, first-year flashback (C1 within E013).** Rinami introduces herself as an inexperienced student from Fukuoka (`adv_event_013_main-01.txt` L266–L273). She is privately frightened by the hostile class atmosphere (L365–L379, inner speech), yet she is the one who stops the quarrel, with `いい加減にしなさーーーーいっ！` and the reminder that idols who fight make nobody happy (L479–L616). Her social authority predates both the senior persona and the Producer.
+- **Support (C4).** As a first-year she first mistook the dependable Mao for a senior (`adv_csprt-3-0051_01.txt` L108). She tells a still-formal Mao `有村さんは、カッコいいよ` (`adv_csprt-2-0075_02.txt` L142). In a later beach story she turns Mao's protective logic back onto Mao (`adv_csprt-2-0020_01.txt` L128–L150).
+
+### Rinami in other idols' routes: a track-bound index (2026-11-15, GKM-SAA-227)
+
+STRENGTHEN. These states are C1 within another idol's Dear route, or C3 within one Unit Story branch. They are mutually exclusive with D-RINAMI and are not merged with it.
+
+| track | Rinami's state | A1 locator |
+|---|---|---|
+| D-MAO | competes in QUARTET in the group that includes Shion and loses; later speaks of watching Mao's FINALE stage and victory live | `adv_dear_amao_014.txt` L8–L23; `adv_dear_amao_015.txt` L25–L33; `adv_dear_amao_030.txt` L139 |
+| D-KOTONE (SL1.1) | helps with Kotone's project, then closes that work: `ここからは、ライバル同士だよ` | `adv_dear_fktn_033.txt` L334–L394; `adv_dear_fktn_035.txt` L511–L548 |
+| D-TSUBAME (SL1.1) | qualifies for the main event at the selection | `adv_dear_atbm_031.txt` L335–L400 |
+| D-SENA (SL1.1) | introduces herself publicly as `アイドル・姫崎莉波` | `adv_dear_jsna_031.txt` L113–L119 |
+| U1, branch 3 only (C3) | after the Producer declines her help, she says `……相変わらず素直じゃないなぁ`, which implies prior acquaintance; in the shared continuation she starts to ask him something, is interrupted, and the question stays unasked | `adv_unit_01-03_04.txt` L104–L147 (branch), L248–L315 (shared) |
+
+The U1 line is C3 corroboration of the D-RINAMI childhood link, not proof of it. Two of these states are already recorded in the relationship-state ledger.
 
 ---
 
@@ -791,6 +996,10 @@ But V2 adds the required correction:
 > **that warmth is now carried by three years of technique, competitive experience, public craft, and explicit ambition.**
 
 The summit is not achieved by remaining “merely kind.”
+
+### The professional horizon at the D-RINAMI endpoint (2026-11-15, GKM-SAA-224)
+
+STRENGTHEN. The endpoint does not stop at the summit speech. In Dear 037 the Producer lists the work ahead: Prima Stella interviews, photo shoots, a debut live and planning for a homecoming live in Fukuoka (L284–L285). He reveals a scout offer from 100 Pro, which he had withheld so that she could concentrate on H.I.F. (L300–L311; §6), and says that President Juo had been watching her since her N.I.A. win (L314). The homecoming live answers the broken promise to her father (Dear 025 L499–L507). The SL1.1 backstage epilogue adds a veteran's `100プロで、待ってるよ` (`adv_dear_hrnm_037-01.txt` L112). That epilogue is read, with its twelve variants, in the [Dear epilogues reading](../GKM_DEAR_EPILOGUES_AND_COMMON_ADV_REV86.md) (§ Thirteen alternate backstage epilogues). These are C1 within D-RINAMI. E028's professional-exam path (SL1.1 supplement below) is a separate track and is not merged with this endpoint. In a support story (C4), Rinami says that she wants to stay on stage as long as she can and grow together with her fans (`adv_csprt-2-0013_02.txt` L57–L89). This bears on OQ-RINAMI-06.
 
 ---
 
@@ -852,7 +1061,7 @@ The full corpus strongly supports this and makes the paradox explicit. Later `�
 ### V1: Rinami's route is openly romance-coded
 **STRENGTHEN.**
 
-V2 can be more precise: the route contains explicit romantic internal monologue and direct confession. The remaining analytical issue is not whether romance exists but how romance interacts with professional authority.
+V2 can be more precise: the route contains explicit romantic internal monologue and direct confession. The remaining analytical issue is not whether romance exists but how romance interacts with professional authority. (Pointer, 2026-11-15, GKM-SAA-003: Rinami's romance is explicit; the Producer's side stays OPEN. See §6, “How the Producer answers”, and OQ-RINAMI-11.)
 
 ### V1: Rinami's origin is singing to make a lonely person smile
 **STRENGTHEN / REVISE.**
@@ -881,12 +1090,12 @@ At the end of the textual core, the strongest bounded conclusions are:
 4. **Naturalness is produced.** The Producer deliberately rehearses a relational condition until unforced public behavior becomes repeatable.
 5. **The failed imouto past remains part of her history.** Growth does not require denying that earlier sincere performance existed.
 6. **Late blooming is stored labor plus trigger, not miracle alone.** Three years of fundamentals materially matter.
-7. **Competition creates new desire.** N.I.A. and H.I.F. produce an ambition that cannot be reduced to childhood restoration.
+7. **Competition revives and re-licenses desire.** N.I.A. and H.I.F. produce an ambition that cannot be reduced to childhood restoration, though it revives a first-year vow with Mao (Dear 030 L350; §8). (Revised 2026-11-15, HSCA-040. Earlier wording: “Competition creates new desire.”)
 8. **Summer H.I.F. defeat is diagnostic.** It exposes both family vulnerability and uncertainty over whether the dream is truly hers.
-9. **Dear 027 is the self-authorship hinge:** `優勝したかった` precedes the mature care circuit.
+9. **Dear 027 is the self-authorship hinge:** `優勝したかった` precedes the mature care circuit. (2026-11-15, GKM-SAA-128: the line is inner speech, L402; the hinge status is preserved.)
 10. **Technique becomes care.** `全身でファンサ` and `愛` prevent the route from opposing warmth to professional precision.
-11. **The Producer relationship is genuinely reciprocal but structurally hybrid.** Childhood intimacy, student-to-student proximity, professional authority, and explicit romance coexist.
-12. **Dear 037 deliberately fuses romance and production.** The text supports the fusion as Rinami's chosen language; it does not establish literal marriage or erase professional ethics.
+11. **The Producer relationship is genuinely reciprocal but structurally hybrid.** Childhood intimacy, student-to-student proximity, professional authority, and explicit romance coexist. (Scoped 2026-11-15, GKM-SAA-003: the reciprocity is one of care and partnership. The explicit romance is Rinami's. The Producer's romantic reciprocity is strongly implied but never voiced, and he accepts her lifelong request through a hidden single-option `――はい`, Dear 037 L453. See §6, “How the Producer answers”, and OQ-RINAMI-11.)
+12. **Dear 037 deliberately fuses romance and production.** The text supports the fusion as Rinami's chosen language; it does not establish literal marriage or erase professional ethics. (Supplemented 2026-11-15, GKM-SAA-003: the fusion is co-produced in idiom and authored by Rinami in voice.)
 13. **D-RINAMI Prima Stella is track-scoped.** Conditional P3 results remain separate.
 14. **Audiovisual evidence remains necessary** to determine whether vocal/visual performance supports the textual distinctions among onee-san public warmth, private desire, mature romantic songcraft, competitive intensity, technical precision, and peer collaboration.
 
@@ -903,6 +1112,9 @@ Does apparent effortlessness risk hiding the three years of labor and ongoing ma
 ## OQ-RINAMI-03 — Producer/romance governance
 How does the pair negotiate career decisions once romantic commitment is explicit and the Producer retains specialized professional power?
 
+## OQ-RINAMI-11 — The Producer's side of the romance (2026-11-15, GKM-SAA-003)
+OPEN. Rinami's love is explicit. The Producer answers her bids in professional terms, his romantic reciprocity is implied but never voiced, and he accepts her lifelong request through a hidden single-option `――はい` (§6, “How the Producer answers”). Is his reframing obliviousness, restraint (for example against the scandal risk shown in Dear 015), or both? CIDOL 001_01 L206 shows sincere obliviousness in at least one scene. Delivery evidence (pauses, tears, staging) is AV-dependent. This question is kept distinct from OQ-RINAMI-03, which concerns governance once commitment is explicit.
+
 ## OQ-RINAMI-04 — Meaningful refusal
 Can Rinami disagree with or refuse the Producer when the request concerns something emotionally important rather than a small production detail?
 
@@ -914,15 +1126,67 @@ Does professional success deepen the self-authored dream or recreate the old ten
 
 ## OQ-RINAMI-07 — Mao/RippleSign bilateral authority
 How does Mao understand Rinami's invitation and their reciprocal cool/cute exchange? Phase-6 synthesis must adjudicate both sides.
+(2026-11-15, GKM-SAA-076: the audiovisual Phase-3 bilateral close concerns the shared performance. The origin narrative is OPEN, because two non-additive C4 versions give the choice to different initiators; see §21, “Two origin versions of RippleSign”.)
 
 ## OQ-RINAMI-08 — Sena peerization after victory
 Does Rinami retain the less hierarchical `星南ちゃん` relation after competitive result states change?
+(2026-11-15, GKM-SAA-223: in D-RINAMI the form is completed at Dear 036 L445; see §22.)
 
 ## OQ-RINAMI-09 — Family and hometown
 Does the triumphant hometown return allow Rinami to integrate family obligation and idol ambition without turning one into mere support infrastructure for the other?
 
 ## OQ-RINAMI-10 — AV falsification
 Do `clumsy trick`, `L.U.V`, `36℃ U･B･U`, `Campus mode!!`, `ガラクタロード`, `Howling over the World`, and `SUGAR FLAVOR` actually produce the range the textual model predicts?
+
+---
+
+## Phase-4/5 integration pointers — 2026-11-15 (source-to-analysis audit)
+
+This index implements GKM-SAA-104 and GKM-SAA-108 for Rinami, together with her Batch 2 items (GKM-SAA-075 and 227). Each event and support item below is now integrated into the body section named in the fourth column, as a dated, attributed addition. Event readings are cited as E001–005, E006–012, E013–020 and E021+ (`02_STORY_EVENT_READINGS`). Support readings are cited as S01, S02a/b/c and S03a/b/c/d (`03_SUPPORT_CARD_READINGS`). CSL means the character-state ledger, by section, Rinami row.
+
+| event or support object | A1 locator | what it adds | core section | owning reading section | CSL row |
+|---|---|---|---|---|---|
+| Event 003 | `adv_event_003_main-03.txt` L113–L243 | reframes Mao's stage fear as festival pleasure | §5 | E001–005 §5.3 | Phase 4 — Events 001–005 |
+| Event 005 | `adv_event_005_main-01.txt` L162–L228 | soft register carrying institutional judgment of Sena | §22 | E001–005 §7.9, §12.9 | Phase 4 — Events 001–005 |
+| Event 006 | `adv_event_006_main-02.txt` L332–L371; `main-03` L388–L404 | teaches a recipient-centred planning method; limits her own role | §5 | E006–012 §2.4 | Phase 4 — Events 006–012 |
+| Event 010 | `adv_event_010_main-02.txt` L352–L377 | the same method for Hiro's gift | §5 | E006–012 §6.2 | Phase 4 — Events 006–012 |
+| Event 013 (first-year flashback) | `adv_event_013_main-01.txt` L266–L616 | Fukuoka newcomer who stops the class quarrel | §5, §23 | E013–020 §2.1 | Phase 4 — Events 013–020 |
+| Event 013 (council) | `adv_event_013_main-03.txt` L78, L135–L161, L333–L474, L498–L503 | Sena's recruitment; council work as vocation and exit path; snacks from her father's evening drinks | §2, §5, §22 | E013–020 §2.2 | Phase 4 — Events 013–020 |
+| Event 015 | `adv_event_015_main-04.txt` L449–L519 | third-year responsibility; China carries the gap | §5 | E013–020 §4.4 | Phase 4 — Events 013–020 |
+| Event 017 | `adv_event_017_main-01.txt` L48; `main-05` L157–L167, L565–L591 | rice from home; doubt resolved by observation | §5, §11 | E013–020 §6.6 | Phase 4 — Events 013–020 |
+| Event 021 | `adv_event_021_main-01.txt` L294–L379 | protective command over Sena and Tsubame | §5 | E021+ §2.1 | Phase 4 — Events 021+ |
+| Event 022 | `adv_event_022_main-03.txt` L21–L32 | boundary: no command over Mao's shared ambition (GKM-SAA-271) | §5 | E021+ §2.1 | Phase 4 — Events 021+ |
+| Event 025 | `adv_event_025_main-01.txt` L77 | plain register toward Sena and Tsubame | §22 | E021+ | Phase 4 — Events 021+ |
+| Event 028 (SL1.1) | `adv_event_028_main-02.txt` L235–L250; `main-05` L17, L74 | former unit leader's support path; singing origin | §2, §3; SL1.1 supplement | E027/028/030 refresh | Source Lock 1.1 — 2026-11-12 |
+| Support 1-0004 | `adv_csprt-1-0004_01.txt` L51–L120; `_02` L19–L113 | acting improves without the little-sister template; firm care for her sister | §4 | S01 §6 | Phase 5 — Support Series 1 |
+| Support 2-0003 | `adv_csprt-2-0003_01.txt` L106; `_02` L64–L98 | historical drama; lesson routine carried into study | §5 | S02a §5 | Phase 5 — Series 2 Part 001–025 |
+| Support 2-0013 | `adv_csprt-2-0013_02.txt` L57–L89 | wants a long career growing with fans | §24 | S02a §15 | Phase 5 — Series 2 Part 001–025 |
+| Support 2-0020 | `adv_csprt-2-0020_01.txt` L128–L150 | turns Mao's protective logic back onto Mao | §23 | S02a §22 | Phase 5 — Series 2 Part 001–025 |
+| Support 2-0026 | `adv_csprt-2-0026_02.txt` L89–L92 | becomes Misuzu's learner in Japanese cooking | §5 | S02b §2 | Phase 5 — Series 2 Part 026–050 |
+| Support 2-0058 | `adv_csprt-2-0058_01.txt` L186 | suspends Kotone's older-sister role | §5 | S02c §7 | Phase 5 — Series 2 Part 051–074 |
+| Support 2-0061 | `adv_csprt-2-0061_02.txt` L68–L103 | beauty-care mentoring of Temari | §5 | S02c §10 | Phase 5 — Series 2 Part 051–074 |
+| Support 2-0075 | `adv_csprt-2-0075_02.txt` L142 | first-year affirmation of Mao | §23 | S02c §24 | Phase 5 — Series 2 Part 051–074 |
+| Support 3-0005 | `adv_csprt-3-0005_02.txt` L75–L79; `_03` L104–L113 | left out of the unit; support as vocation | §2 | S03a §7 | Phase 5 — Series 3 Part 001–025 |
+| Support 3-0030 | `adv_csprt-3-0030_03.txt` L80–L119 | passes a senior's viewing place to China | §20 | S03b §6 | Phase 5 — Series 3 Part 026–050 |
+| Support 3-0038 | `adv_csprt-3-0038_02.txt` L96–L126; `_03` L19–L76 | Sena's private belief in her potential; Sena shows strain to her | §22 | S03b §14 | Phase 5 — Series 3 Part 026–050 |
+| Support 3-0045 | `adv_csprt-3-0045_02.txt` L52 | could not sing as a first-year | §3 | S03b §21 | Phase 5 — Series 3 Part 026–050 |
+| Support 3-0051 | `adv_csprt-3-0051_01.txt` L80, L108 | lost on campus and guided by Mao; mistook first-year Mao for a senior | §5, §23 | S03c §2 | Phase 5 — Series 3 Part 051–075 |
+| Support 3-0053 | `adv_csprt-3-0053_01.txt` L111–L129 | Sena reads her deference | §22 | S03c §4 | Phase 5 — Series 3 Part 051–075 |
+| Support 3-0064 | `adv_csprt-3-0064_03.txt` L91, L115 | stage fear after the unit | §2 | S03c §15 | Phase 5 — Series 3 Part 051–075 |
+| Support 3-0071 | `adv_csprt-3-0071_02.txt` L30, L33 | parents often away in childhood; evening anime with her sister | §5 | S03c §22 | Phase 5 — Series 3 Part 051–075 |
+| Support 3-0074 | `adv_csprt-3-0074_01.txt` L125; `_03` L119 | anime in middle school; own homesickness used to support Lilja | §5 | S03c §25 | Phase 5 — Series 3 Part 051–075 |
+| Support 3-0101 | `adv_csprt-3-0101_02.txt` L77–L135 | unit theory drawn from Love☆しすたぁず | §9 | S03d §26 | Phase 5 closure — Series 3 Part 076–102 |
+| Support 3-0106 (SL1.1) | `adv_csprt-3-0106_01.txt`–`_03.txt` | craft teaching and Temari's answer (RINAMI-R86-C02) | SL1.1 supplement | R86 | Source Lock 1.1 — 2026-11-12 |
+| Cross-track states (GKM-SAA-227) | see the §23 index | Rinami in D-MAO, D-KOTONE, D-TSUBAME, D-SENA and U1 | §23 | host-track Dear readings; U1 | — |
+| Support 2-0031 | not re-read | Ume, Rinami and Saki's drink (CSL: relays Ume's admiration to Saki) | indexed only, not yet integrated | S02b §7 | Phase 5 — Series 2 Part 026–050 |
+| Support 2-0041 | not re-read | Saki and Rinami, sister separation anxiety | indexed only, not yet integrated | S02b §17 | Phase 5 — Series 2 Part 026–050 |
+| Support 2-0060 | not re-read | Hiro and Rinami, ordinary firsts | indexed only, not yet integrated | S02c §9 | Phase 5 — Series 2 Part 051–074 |
+| Support 3-0006 | not re-read (a quick check found its `憧れ` lines refer to Sena) | China and Rinami (CSL: China treats her as an idol ideal) | indexed only, not yet integrated | S03a §8 | Phase 5 — Series 3 Part 001–025 |
+| Kotone hardship-aid scene | object as named in S03a | Rinami identifies Kotone's hardship aid | indexed only, not yet integrated | S03a | Phase 5 — Series 3 Part 001–025 |
+| Support 3-0034 | not re-read | Mao and Rinami, laundry, tea and craft | indexed only, not yet integrated | S03b §10 | Phase 5 — Series 3 Part 026–050 |
+| Support 3-0047 | not re-read | Ume and Rinami, Valentine design | indexed only, not yet integrated | S03b §23 | Phase 5 — Series 3 Part 026–050 |
+
+**What Phase 5 answered (GKM-SAA-108).** §30 lists event and support passes, and a Sena/Rinami bilateral synthesis, among the later work that should revise this core. The rows above are that revision for events and supports. They strengthen RINAMI-C04, C05, C07, C12, C13, C14 and C28. They supply the before-state that RINAMI-C01 and C30 anticipated. They give §22 a Sena-side voice. None of them replaces the governing thesis. Several CSL items were not integrated because their A1 lines were not re-read in this pass: China treating Rinami as an idol ideal, the Kotone hardship-aid scene, the Ume/Saki relay, the Hiro and Valentine stories, and the laundry story with Mao. They are indexed in the last rows of the table and remain in the CSL and the support readings. Two GKM-SAA-222 ordinary-life items, hidden sweets and her own weight worries, could not be verified in A1 and are not recorded. After verification, the real older sisters at H.O.F. (§9), the handshake `最初のお客さん` (§3), the rural home, onsen and related items (§5), and the `わね` and address-variant items (§22) were re-read and integrated.
 
 ---
 
@@ -952,6 +1216,7 @@ The full publication-oriented locators belong in `GKM_PRIMARY_SOURCE_LOCATOR_LED
 | H.O.F. / audience smiles → self-love / `愛してるよ` | `.../dear_033.txt` |
 | D-RINAMI Prima Stella | `.../dear_036.txt` |
 | retrospective consent /青春 / confession / lifelong production vow | `.../dear_037.txt` |
+| `一番星` promise arc and ruby double reading (2026-11-15, GKM-SAA-071) | `.../dear_010.txt` L421–L449; `.../dear_017.txt` L138–L175; `.../dear_023.txt` L74–L79, L517; `.../dear_025.txt` L499–L507; `.../dear_027.txt` L179, L764; `.../dear_028.txt` L166; `.../dear_035.txt` L393, L447; `.../dear_036.txt` L518; `.../dear_037.txt` L226, L396 |
 | `clumsy trick` communication | `transcripts_raw/03_idol_communications/hrnm=Rinami_Himesaki/rank_3/episode_000/part_01.txt`–`part_03.txt` |
 | `Campus mode!!` | `.../episode_007/part_01.txt`–`part_03.txt` |
 | Valentine's intimacy / Producer-course university texture | `.../episode_008/part_01.txt`–`part_03.txt` |
@@ -1017,3 +1282,5 @@ The revision makes this job an appearance on an interviewer's program. Rinami's 
 **Scope.** Revision 86 reading of Rinami's duo-contest web special.
 
 **Claim disposition.** `RINAMI-R86-C03` — NARROW the occupational attribution for this source. CONFIRM the existing `RINAMI-C28` basis.
+
+**Pointer (2026-11-15, GKM-SAA-224).** For Rinami's SL1.1 backstage epilogue (`adv_dear_hrnm_037-01.txt`), see the [Dear epilogues reading](../GKM_DEAR_EPILOGUES_AND_COMMON_ADV_REV86.md) and the endpoint addition in §24.

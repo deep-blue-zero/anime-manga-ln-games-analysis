@@ -5,7 +5,10 @@ status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: '2026-08-16'
+last_updated: '2026-11-15'
+version: "2.1"
+revised: "2026-11-15"
+revision_note: "v2.1 source-to-analysis audit 2026-11-15 correction (REVISE): SN-R18 now cites the cross-route and SL1.1 defeat evidence instead of reading as evidence-absent, keeping integration and AV delivery open"
 artifact_type: claim_revision_ledger
 scope: CHARACTER_JUO_SENA_PHASE3_CORE_AV_ADDENDUM
 character: Juo Sena / 十王星南
@@ -14,6 +17,8 @@ parent_authority: GKM_CORE_12_JUO_SENA.md
 ---
 
 # GKM CORE 12 — JUO SENA AV REVISION ADDENDUM
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** GKM-SAA-026 **REVISE**s the current-authority text of SN-R18, which stays OPEN; the earlier text is quoted below the table. No AV was inspected for this change, and the other transitions are unchanged.
 
 ## 1. Purpose
 
@@ -40,7 +45,9 @@ This addendum routes the canonical textual core through the completed Phase-3 AV
 | SN-R15 | authority is primarily vertical | REVISE | Sena can organize height, rally, proximity, direct rivalry, and distributed center. |
 | SN-R16 | Producer relationship resolves authority through reciprocity | OPEN | Affect is reciprocal; formal production power remains asymmetric. |
 | SN-R17 | Sena's field has become non-Sena-centered | OPEN | Rivals are independent, but the field is still largely designed around Sena as horizon. |
-| SN-R18 | mature Sena can metabolize defeat | OPEN | Current route verifies fear and victory, not a later major defeat. |
+| SN-R18 | mature Sena can metabolize defeat | OPEN | Defeat responses are attested outside D-SENA: D-SAKI 024's pre-reform hollowing and re-ignition, reformed winter H.I.F. losses in other idols' Dear 036 scenes, and the SL1.1 P3-SENA final-failure test (core: cross-route defeat counter-track; OPEN-SENA-12). How they bear on the D-SENA model, and how the responses are delivered (AV-HYP-SENA-09), remain open. (2026-11-15, GKM-SAA-026, REVISE) |
+
+**Revision note (2026-11-15, GKM-SAA-026).** SN-R18's earlier current-authority text read: “Current route verifies fear and victory, not a later major defeat.” That holds for D-SENA itself, but it read as an evidence gap that other routes and the SL1.1 Produce failure test now fill. The textual claim does not depend on AV; delivery of the defeat responses remains an AV candidate.
 
 ## 3. Canonical replacement paragraph
 

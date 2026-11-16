@@ -3,7 +3,9 @@ artifact_type: communication_deep_reading
 title: "Gakuen Idolmaster V2 — Revision 86 Idol Communication Readings"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "supplementary source-facing reading"
-version: "1.0"
+version: "1.1"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15: STRENGTHEN of Mao 018's placement with two internal callbacks that anchor it after D-MAO 023/024 and D-MAO 026 (GKM-SAA-195); no earlier wording is replaced."
 phase: "3 - Character Core Readings"
 source_lock: "GAKUMAS V2 Source Lock 1.1 (revision 86)"
 status: "canonical"
@@ -11,13 +13,15 @@ status: "canonical"
 
 # Revision 86 idol communication readings
 
+> **Revision record — v1.1, 2026-11-15 (source-to-analysis audit corrections).** STRENGTHEN only, GKM-SAA-195. The Mao 018 section now records two internal callbacks in part 03: L17 presupposes D-MAO 023 L574 and 024 L255–269, and L174 recalls D-MAO 026 L95. The bound-state table row for `adv_cidol-amao-3-018` keeps its earlier wording ("compatible with a Mao-winning Dear state") and adds a pointer to these anchors.
+
 This reading accounts for 33 new rank-3 scripts across 11 three-part episodes and nine lead idols (1,347 extracted message commands). It also rechecks the Rinami 018 part 03 and Saki 015 part 03 revisions (83 message commands). Tsubame and Sena communication additions have separate readings. [The per-object source delta](../../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv) resolves the original filenames below to their exact A1 paths and checksums. All cited line numbers are 1-based A1 physical lines. The source pass covered Japanese messages, speaker attribution, branch directives, non-dialogue narration and scene cues. Counts describe script commands.
 
 The episode parts have internal C1 order where the scenes establish it. A recollection or imagined scene retains its own time and evidentiary status. Across communications the governing default is C2/C4. Several scripts explicitly require a local winning state or later institutional phase. Those facts establish continuity inside the named state. Other branches retain their own outcomes.
 
 | Episode original-name stem | New files | Message commands by part | Bound state |
 | --- | ---: | --- | --- |
-| `adv_cidol-amao-3-018` | 3 | 37 / 42 / 41 | C1 after Mao's H.I.F. win and before spring professional debut; compatible with a Mao-winning Dear state |
+| `adv_cidol-amao-3-018` | 3 | 37 / 42 / 41 | C1 after Mao's H.I.F. win and before spring professional debut; compatible with a Mao-winning Dear state; internal callbacks place it after D-MAO 026 where both tracks apply (GKM-SAA-195) |
 | `adv_cidol-hmsz-3-018` | 3 | 35 / 34 / 40 | C1 rehearsal chain before an H.I.F. main round; part 01 café after the prior reconciliation and with embedded memory |
 | `adv_cidol-hmsz-3-020` | 3 | 33 / 38 / 51 | C1 apparel tie-up first-round variant in Misuzu's producer track |
 | `adv_cidol-hski-3-022` | 3 | 35 / 45 / 40 | C1 fragrance tie-up in Saki's producer track |
@@ -37,6 +41,8 @@ The younger students congratulate Mao after H.I.F. and say the senior performers
 At the interview, Mao credits younger idols for teaching her different forms of appeal. Sena recognizes those juniors in Mao's performance and proposes that a former actor's observational skills helped her learn (`_02` L25–67). Their private exchange turns `一番星` into paired Venus imagery. Mao asks Sena to keep her personal star status despite succession. Dawn and evening stars describe parallel sources of light, and the joint `ダブル` title is a joke (L154–291). Preserve the official transfer and both women’s evaluations separately.
 
 The 100 Pro president puts ready papers before Mao and the Producer. The Producer asks for review because they concern Mao's life; the president allows until the next day (`_03` L85–140). The script establishes the offer, immediate publicity incentive and deferred signature. The Producer privately wonders whether this was a test. Mao reports anticipation alongside anxiety. The one-option `トップアイドルにする` at L187–189 selects the continuation to the Producer's promise and Mao's own prince vow (L193–210). This is a gated utterance, with no second route. Route to Mao and Sena cores, their relationship synthesis, story state, institutional ledger and branch ledger.
+
+Two callbacks in part 03 anchor the episode's order relative to D-MAO (GKM-SAA-195). In the 100 Pro lobby the Producer reminds Mao that she once stormed the place (`_03` L17). This presupposes Mao's D-MAO 023 announcement that she is going to storm it and her D-MAO 024 confrontation with the 100 Pro president (`十王社長`) (`adv_dear_amao_023` L574; `adv_dear_amao_024` L255–269). After the offer, Mao says `言ったでしょう` and recalls, in slightly different words, her D-MAO 026 line that with the Producer she can fly through any storm (`_03` L174; `adv_dear_amao_026` L95). Where both tracks apply, cidol 018 therefore comes after D-MAO 026, beyond mere compatibility with a Mao-winning Dear state. The callbacks are direct speech and fix relative order only. They could be the writers' cross-referencing without calendar intent, and they do not merge the communication family into the D-MAO calendar.
 
 ## Misuzu 018 — Relational repair and rehearsal
 
