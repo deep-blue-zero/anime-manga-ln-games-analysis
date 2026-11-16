@@ -960,7 +960,7 @@
         "ANIME"
       ],
       "repository_path": "series/solo-leveling/",
-      "canonical_entrypoint": "series/solo-leveling/04 Specialist Synthesis/00_README_AND_CORPUS_MAP.md",
+      "canonical_entrypoint": "series/solo-leveling/04 Specialist Synthesis/00_README_AND_CORPUS_MAP_V2.md",
       "canonical_entrypoint_status": "PRESENT_VERIFIED",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
