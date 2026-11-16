@@ -827,6 +827,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "overlord",
+      "stable_slug": "overlord",
+      "canonical_title": "Overlord",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/overlord/",
+      "canonical_entrypoint": "series/overlord/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261115",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese collected light novels オーバーロード; game-derived expectations, viewpoints, delegated power and changing institutions in the prose continuity."
+    },
+    {
       "series_id": "peach-girl",
       "stable_slug": "peach-girl",
       "canonical_title": "Peach Girl / ピーチガール",
