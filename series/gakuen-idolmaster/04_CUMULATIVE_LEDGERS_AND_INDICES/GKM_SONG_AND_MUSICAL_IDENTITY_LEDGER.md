@@ -2,14 +2,18 @@
 title: "Gakuen Idolmaster V2 - Song and Musical Identity Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.13"
+version: "2.14"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-22 — Rinami integrated musical identity R2 promoted; 13/13 character baselines complete"
+last_updated: "2026-11-15 — source-to-analysis audit corrections (GKM-SAA-073, 076, 228)"
+revised: "2026-11-15"
+revision_note: "v2.14 correction (source-to-analysis audit 2026-11-15; transitions STRENGTHEN, REVISE and OPEN): Rinami R2 adds singing as root and self-assessed weak skill (GKM-SAA-073); SUGAR FLAVOR origin narrative scoped to two non-additive C4 versions and reopened while the performance close is preserved (GKM-SAA-076); Sumika CIDOL 007 placement anchors added (GKM-SAA-228); no sonic claim changed"
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
 ---
 
 # SONG AND MUSICAL IDENTITY LEDGER
+
+> **Revision record — v2.14, 2026-11-15 (source-to-analysis audit corrections).** (1) GKM-SAA-076: the Rinami R2 `SUGAR FLAVOR` disposition "PHASE-3 BILATERAL CLOSE with Mao: synchronized peer difference" is kept for the performance (REVISE in scope) and the origin narrative is reopened (OPEN): Rinami's communication 018 and Mao's communication 017 tell the unit's origin with opposite initiators. (2) GKM-SAA-073, STRENGTHEN: a dated note in the Rinami R2 section. (3) GKM-SAA-228, STRENGTHEN: placement anchors in the Sumika `Campus mode!!` row. Earlier wording is kept in each row. The earlier `last_updated` value read "2026-08-22 — Rinami integrated musical identity R2 promoted; 13/13 character baselines complete".
 
 This is a cumulative V2 project ledger. It is initialized in Phase 0 and must be updated rather than recreated as later phases add evidence.
 
@@ -200,7 +204,7 @@ Provisional textual sequence hypothesis: `光景 → コントラスト → サ�
 | `Campus mode!! [姫崎莉波]` | CIDOL 007 | inherited institutional song re-authored as `私だけの` version | text strong; AV pending |
 | `Howling over the World [姫崎莉波]` | CIDOL 012 | forceful/shared repertoire + SF genre elasticity | crosswalk text/discovery strong; AV pending |
 | `ガラクタロード [姫崎莉波]` | CIDOL 017 | encouragement inherited from senior and returned outward; conscious onee-san performance no longer required | text strong; AV pending |
-| `SUGAR FLAVOR` / RippleSign | CIDOL 018 | Mao/Rinami peer collaboration; cute + cool mutual learning; three-year history as song material | text strong; AV pending |
+| `SUGAR FLAVOR` / RippleSign | CIDOL 018 | Mao/Rinami peer collaboration; cute + cool mutual learning; three-year history as song material. *(2026-11-15, GKM-SAA-076)* This is the Rinami-side version of the unit's origin; Mao's CIDOL 017 is a separate, non-additive C4 version with the opposite initiator | text strong; AV pending |
 | `歌声は君いろ` | official 2nd-single catalog | supplementary original musical breadth | official title verified; textual commu role not asserted |
 | `標 [姫崎莉波 Solo Ver.]` | official 3rd-single catalog | optional inherited-song solo | CD-exclusive; nonblocking |
 | `ENDLESS DANCE [姫崎莉波 Solo Ver.]` | official 3rd-single catalog | optional tour/shared-song solo | CD-exclusive; nonblocking |
@@ -214,7 +218,7 @@ Do not infer arrangement, tessitura, breath, timbre, phrasing, dynamics or MV me
 | `Tame-Lie-One-Step` | CIDOL 000 | hesitation + one step; upbeat dance surface reframed as courage-giving | official title verified; AV pending |
 | `カクシタワタシ` | CIDOL 002 | protected weak-self exposure; Sumika materially participates in lyric formation | official title verified; AV pending |
 | `Love & Joy` | CIDOL 012 | STEP3 `弱さを強さに変える曲`; self-authored choreography/style; ballet re-used | official title/STEP3 role verified; AV pending |
-| `Campus mode!! [紫雲清夏]` | CIDOL 007 | inherited school performance tied to reignited idol desire and Lilja promise | text strong; AV pending |
+| `Campus mode!! [紫雲清夏]` | CIDOL 007 | inherited school performance tied to reignited idol desire and Lilja promise. *(2026-11-15, GKM-SAA-228)* Placement: `adv_cidol-ssmk-3-007_02.txt` L9–119 shares the spoken dorm-night exchange of `adv_dear_ssmk_013.txt` L298–373, so the song sits inside the N.I.A. rumour crisis; the communication adds Sumika's inner monologue (L56–95, L139) that Dear 013 does not voice. Its flashback L148–158 reprises `adv_dear_ssmk_006.txt` L418–439, after the Producer leaves (L408–415), with small wording differences, and continues into Lilja's question about the knee injury (L216–232). Lilja therefore learns of the injury right after Dear 006, without the Producer present | text strong; AV pending |
 | `ときめきエモーション` / REVERSI | CIDOL 017 | unit history/penlight promise; fusion language requiring later differentiation | official title verified; AV pending |
 | `Kira Kira` | official 2nd-single catalog | supplementary original breadth | official title; exact internal commu mapping not forced |
 | `がむしゃらに行こう！ [紫雲清夏]` | official 2nd-single catalog | shared high-energy breadth | AV optional |
@@ -423,11 +427,13 @@ Rinami's stable musical identity is not “mature soft love song.” It is **rel
 | `Campus mode!!` | inherited school ideal becomes personally inhabitable while Producer withholds his own fixed design | STRENGTHEN autonomy through selective restraint |
 | `ガラクタロード` | bright pop-rock force, sneakers, jumps, and returned encouragement | REJECT maternal-softness confinement |
 | `Howling over the World` | dark/cyber/command register and genre elasticity | REJECT narrow onee-san essence |
-| `SUGAR FLAVOR` | rotating center, separate solos, mutual correction, differentiated color worlds, shared audience | PHASE-3 BILATERAL CLOSE with Mao: synchronized peer difference |
+| `SUGAR FLAVOR` | rotating center, separate solos, mutual correction, differentiated color worlds, shared audience | PHASE-3 BILATERAL CLOSE with Mao: synchronized peer difference. *(2026-11-15, GKM-SAA-076)* PRESERVE for the performance; origin narrative OPEN. Two non-additive C4 versions tell the origin with opposite initiators: in `adv_cidol-hrnm-3-018_01.txt` Rinami chooses Mao (L180, L192) and, after Mao first declines again, insists (`018_02` L20–94); in `adv_cidol-amao-3-017_01.txt` Mao proposes Rinami (L176) and asks her (`017_02` L141–199). Both keep an earlier Rinami proposal that Mao refused: Rinami recalls it as deferred until Mao had results (`018_01` L209–213); Mao's version stages it a year earlier, with Mao wanting to stand alone as a prince (`017_02` L8–131). Scope "Rinami chooses" and "Mao asks" to their own version |
 | `歌声は君いろ` | filmic landscape, travel, memory, and voice continuity | supplementary mature identity object |
 | `ENDLESS DANCE`, `がむしゃら`, `ミラクルナナウ`, `初` | dark, athletic, comic, novelty, and inherited-repertoire portability | breadth confirmation |
 
 Current musical thesis: **Rinami makes care portable by expanding the forms through which address can travel; maturation means the address no longer requires her own desire to disappear.**
+
+*(2026-11-15, GKM-SAA-073, STRENGTHEN.)* Singing is both Rinami's root and, in her own words, a weak skill. Root: the song she sang to the Producer when he was a child, which he remembers as a lullaby and she identifies as an evening anime song (`adv_dear_hrnm_006.txt` L320–335; at L335 she calls him the first audience of her live), and her report that her music teacher praised her as best in class (Source Lock 1.1 `adv_event_028_main-05.txt` L17). Self-assessment: `歌は、ちょっと苦手だなぁ` (P1 `adv_pstory_001_hrnm_after-step-2-normal-01.txt` L47, choice 1), singing as the weaker of her skills in another ending (`ending-normal-02` L36, choice 1), and `へたっぴな歌` for her early singing (P1 `ending-true-01` L98). The first-fan motif recurs: Dear 006 L335; `ファン1号さん` at the P1 true ending (L156); the handshake event's `きみが最初のお客さん？` (`adv_pevent_002_hrnm_sales_4-003-01.txt` L57, choice 3). In a Produce Series 003 failure the Producer calls hers a song that makes everyone smile (`adv_pstory_003_hrnm_final-failure-01.txt` L66). This sharpens the "relational address" thesis without changing it. Whether her rendered singing reads as technically weak is a performance question, routed as `AV-CARBON-SAA-073`; the self-assessment is textual. Track labels: D-RINAMI for Dear; C3 Produce states for the P1 and P3 lines; E028 is a numbered event, C2 globally.
 
 <!-- PHASE5_SUPPORT_SERIES_03_PART_026_050_2026-08-24 -->
 ## Phase 5 support-card promotion — `Campus mode!!` as intergenerational repertoire

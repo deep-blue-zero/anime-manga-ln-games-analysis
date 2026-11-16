@@ -2,14 +2,18 @@
 title: "Gakuen Idolmaster V2 - Voice Performance State Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.5"
+version: "2.6"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-09-11 — RINHA-AV-20260911 bounded evidence integrated; perceptual review open"
+last_updated: "2026-11-15 — source-to-analysis audit correction to T-DIA-04 (GKM-SAA-006); perceptual review open"
+revised: "2026-11-15"
+revision_note: "v2.6 correction (source-to-analysis audit 2026-11-15; transition REVISE): T-DIA-04 Dear 035 now tests the requested honorific drop answered by the bare surname, with the given name initiated by the Producer in Dear 037 (GKM-SAA-006); no acoustic claim promoted"
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
 ---
 
 # VOICE PERFORMANCE STATE LEDGER
+
+> **Revision record — v2.6, 2026-11-15 (source-to-analysis audit corrections).** GKM-SAA-006, REVISE: the Temari T-DIA-04 Dear 035 row read "surname-to-given-name distance shift". A1 shows Temari asking only to drop `さん` (`adv_dear_ttmr_035.txt` L632–643), the Producer answering with the bare surname `月村` (single option, L647) and a plain imperative (L650), and the given name `手毬` arriving in Dear 037 on the Producer's initiative (`adv_dear_ttmr_037.txt` L417, single option L428). Her request remains her agency. Residual ambiguity: `呼び捨て` could in principle cover the given name, but A1 shows her naming only the honorific. The Dear 037 row gains the reception test. The earlier `last_updated` value read "2026-09-11 — RINHA-AV-20260911 bounded evidence integrated; perceptual review open".
 
 This is a cumulative V2 project ledger. It is initialized in Phase 0 and must be updated rather than recreated as later phases add evidence.
 
@@ -68,9 +72,9 @@ No Temari AV has yet been inspected. These are hypotheses to test, not observed 
 | Tsukimura Temari | T-DIA-02 | Dear 019 | `TV5 rival command` | Misuzu | praise reception, command, response to refusal | PENDING |
 | Tsukimura Temari | T-DIA-03 | Dear 022–023 | `TV6 fan/inferiority/loss` | Misuzu/Sena/Producer | admiration, shame, contained post-loss affect | PENDING |
 | Tsukimura Temari | T-DIA-03 | Dear 027 | `TV7 artificial-flight confidence` | Misuzu/Producer | intimacy and rocket escalation | PENDING |
-| Tsukimura Temari | T-DIA-04 | Dear 035 | `TV8 chosen name intimacy` | Producer | surname-to-given-name distance shift | PENDING |
+| Tsukimura Temari | T-DIA-04 | Dear 035 | `TV8 chosen name intimacy` | Producer | requested honorific drop (`月村さんじゃなくて`, L632–643) answered by the bare surname `月村` (L647) and a plain imperative (L650); the given name follows only in Dear 037, on the Producer's initiative (GKM-SAA-006) | PENDING |
 | Tsukimura Temari | T-DIA-04 | Dear 036 | `TV9 formal title → attack` | public/Sena | gratitude, title receipt, noncustodial ambition | PENDING |
-| Tsukimura Temari | T-DIA-04 | Dear 037 | `TV10 present self-love` | Producer/private | food pleasure, reciprocal `好き`, future orientation | PENDING |
+| Tsukimura Temari | T-DIA-04 | Dear 037 | `TV10 present self-love` | Producer/private | food pleasure, reciprocal `好き`, future orientation; reception of the Producer-initiated `手毬` (L428; silent line L441, `はいっ` L450; AV-CARBON-SAA-006) | PENDING |
 | Tsukimura Temari | T-DIA-05 | cidol 000 | `TV11 song-self denial/recognition` | Producer/live | difference between spoken disavowal and singing | PENDING |
 | Tsukimura Temari | T-DIA-07 | cidol 018 | `TV12 blue-flame cool` | Producer/live | cold image vs high-heat complete combustion | PENDING |
 

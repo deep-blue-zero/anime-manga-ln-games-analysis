@@ -15,10 +15,15 @@ last_updated: '2026-08-22'
 title: Gakuen Idolmaster V2 — Himesaki Rinami Complete Audiovisual Baseline
 legacy_supersession_notes:
 - 'legacy supersedes: GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R1'
+version: "2.1"
+revised: "2026-11-15"
+revision_note: "v2.1 source-to-analysis audit 2026-11-15 corrections (REVISE; no AV observation added or changed): corrects the §5 account of the Dear 020 memory and scopes the §12 'mutual love' formulation and the 'lover' wording in the §12 heading and §7 without downgrading them, keeping the romance conclusion OPEN"
 ---
 
 # GKM — HIMESAKI RINAMI COMPLETE AUDIOVISUAL BASELINE
 ## Phase 3 integrated acting, voice, music, choreography, visual authorship, and character synthesis
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** These are text-control corrections only. No listening or motion review was performed, and no AV observation was changed. §5 (GKM-SAA-019): in Dear 020 each character credits the other with leading. The explicit “pulled each other” synthesis is found only in CIDOL 013_03 L197 (C4). §12 (GKM-SAA-003): “Genuine mutual love” is scoped to Rinami's explicit love and the Producer's hidden single-option acceptance. His romantic reciprocity is strongly implied but never voiced. The word “lover” in the §12 heading and in §7 is scoped the same way. Each earlier formulation is quoted at the point of change. Stronger claims remain AV-dependent and are routed to the Carbon queue.
 
 ## 0. Authority, purpose, and evidence discipline
 
@@ -186,7 +191,7 @@ The route refuses to solve this by declaring the old work fake. Rinami's current
 
 Competition then changes the function of composure. Against Gekka and the N.I.A. field, stable warmth is no longer only reassurance. It becomes a way to remain relational while wanting a scarce result. Public projection grows, but the route preserves calibration: victory can be taken seriously without becoming proof of permanent superiority.
 
-Dear 020 revises the childhood memory itself. Rinami and the Producer each remember pulling the other's hand. The scene gives the entire route a bilateral origin. The onee-san story was never the whole truth.
+Dear 020 revises the childhood memory itself. Rinami and the Producer each credit the other with leading: each remembers being led by the other (TEXT-CONTROL, Dear 020 L339–L362), and Rinami lets the disagreement rest with `まあいっか` (L367). The explicit synthesis, that they pulled each other's hands, is spoken only in the communication episode `adv_cidol-hrnm-3-013_03.txt` L197 (C4). Through mutual credit, the scene still gives the route a bilateral origin. The onee-san story was never the whole truth. (Corrected 2026-11-15, GKM-SAA-019. Earlier wording: “Rinami and the Producer each remember pulling the other's hand.”)
 
 ### Phase disposition
 
@@ -236,7 +241,7 @@ Dear 037 is now visually resolvable as a multi-register passage rather than one 
 6. mutual-aid / marriage-vow syntax;
 7. an upright, composed request for a continuing professional future.
 
-The sequence strengthens chosen fusion while preserving the governance question. Romance does not erase the Producer relation, and professional language does not neutralize romance. Rinami deliberately joins lover, partner, witness, and Producer address; the ethical issue is whether later structures preserve her capacity to refuse, revise, and differentiate those roles.
+The sequence strengthens chosen fusion while preserving the governance question. Romance does not erase the Producer relation, and professional language does not neutralize romance. Rinami deliberately joins the address of her explicit love with partner, witness, and Producer address (scoped 2026-11-15, GKM-SAA-003; earlier wording: “joins lover, partner, witness, and Producer address”; the Producer's acceptance comes through a hidden single-option `――はい`, Dear 037 L453); the ethical issue is whether later structures preserve her capacity to refuse, revise, and differentiate those roles.
 
 ### Phase disposition
 
@@ -391,7 +396,9 @@ This closes the Phase-3 audiovisual hypothesis that SUGAR FLAVOR might simply re
 
 ---
 
-# 12. The Producer — trigger, witness, private addressee, lover, and governance problem
+# 12. The Producer — trigger, witness, private addressee, addressee of Rinami's explicit love, and governance problem
+
+(Heading scoped 2026-11-15, GKM-SAA-003. Earlier heading: “The Producer — trigger, witness, private addressee, lover, and governance problem.” Rinami's love is explicit, and the Producer accepts her lifelong request through a hidden single-option `――はい` (Dear 037 L453). His romantic reciprocity is implied but never voiced, and any romance conclusion stays OPEN.)
 
 The AV packet strengthens the Producer's productive role without making it magical.
 
@@ -408,11 +415,13 @@ He supplies:
 
 The packet also shows limits to his authorship. `Campus mode!!` deliberately withholds his interpretive image. Mao, Tsubame, Sena, family, Shion, Gekka, fans, and three years of prior work prevent him from becoming the sole cause of Rinami's existence.
 
-Dear 037 is not evidence that professional asymmetry disappears. It is evidence that Rinami retrospectively claims the method and chooses to fuse romantic and production language.
+Dear 037 is not evidence that professional asymmetry disappears. It is evidence that Rinami retrospectively claims the method and chooses to fuse romantic and production language. (2026-11-15, GKM-SAA-003: that language takes up a production idiom the Producer kept supplying; see the textual core §6, “How the Producer answers”.)
 
 The mature ethical formulation is:
 
-> **Genuine mutual love and meaningful professional authority can coexist. Their coexistence makes governance more necessary, not less.**
+> **Rinami's explicit love, the Producer's acceptance of her lifelong request through a hidden one-option `はい` (Dear 037 L453), and meaningful professional authority can coexist. His romantic reciprocity is strongly implied (Dear 009 L307; CIDOL 008_02 L153; Dear 020 L436–L437, speaker label hidden at L437; his tears at Dear 037 L65–L85) but never voiced. Their coexistence makes governance more necessary, not less.**
+
+(Scoped 2026-11-15, GKM-SAA-003, without downgrading the formulation. Earlier formulation: “Genuine mutual love and meaningful professional authority can coexist. Their coexistence makes governance more necessary, not less.” The romance conclusion stays OPEN. Any statement stronger than “implied”, for example from the Dear 020 pauses or the Dear 037 tears, is AV-dependent.)
 
 ---
 

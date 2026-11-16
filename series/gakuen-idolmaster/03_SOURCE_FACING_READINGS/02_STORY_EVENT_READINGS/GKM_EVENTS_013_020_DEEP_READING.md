@@ -12,12 +12,17 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-23'
+version: "1.1"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15 corrections (GKM-SAA-030, 078, 104, 157, 269; HSCA-118) applied by targeted edit with A1 locators, using the STRENGTHEN and OPEN transitions and keeping earlier wording recoverable."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM EVENTS 013–020 DEEP READING
+
+> **Revision record — v1.1, 2026-11-15 (source-to-analysis audit corrections).** First versioned revision; the text before this date counts as v1.0. Dated notes mark each change: §1.2 continuity notes on the escort-program order (GKM-SAA-269; STRENGTHEN for Events 015 and 018 running in parallel, OPEN for Event 019) and on the Mao–Sena order across Events 013, 017 and 022 (GKM-SAA-157, OPEN), cross-referenced in §6.5, §12, §13.1 and §17 Q8; §2.4, its relationship-promotion row and §12 bound Tsubame's reading of Sena (GKM-SAA-030, STRENGTHEN); §3.5 Misuzu's twice-stated nostalgia (HSCA-118, STRENGTHEN); §9.4 Sumika's first-person gyaru origin (GKM-SAA-078, HSCA-091, STRENGTHEN); §11 and §18 owner-policy note on core integration (GKM-SAA-104). Earlier formulations stay in place beside each note.
 
 ## 0. Scope, method, and principal finding
 
@@ -83,6 +88,11 @@ Event numbering again cannot be used as a calendar. This tranche contains severa
 | Event 018 | escort-program state; Sumika is still managing dance-related fear after injury | high locally; moderate global placement | Mao is third-year lead; Sumika and Hiro are first-year participants; Sumika describes ongoing graded return to dance |
 | Event 019 | escort-program emergency replacement state; likely after prior regional program installments, but exact order beyond program continuity remains bounded | high for program identity; moderate-high for relation to E015/E018 | student council describes Nagoya as the next upcoming escort-program performance; Saki is recruited as exceptional first-year substitute leader |
 | Event 020 | first-year Lilja–Sumika shared-life state, less than one year into their present cohabitation/routine | high locally | they explicitly say it has not yet been a year; both are active Hatsuboshi idols and discuss current work, SNS, and magazine questionnaires |
+
+**Continuity notes — 2026-11-15 (source-to-analysis audit).**
+
+- **Events 015, 018 and 019 (GKM-SAA-269; STRENGTHEN for E015 ∥ E018, OPEN for E019).** While planning the Osaka program, Mao says that Rinami's escort program with Lilja and China is supposed to go to Hiroshima (`adv_event_018_main-01` L186–L209). Event 015 is therefore planned or under way when Event 018 begins. Mao adds `ことねたちは例外みたいだし`, with emphasis on `例外` in A1 (L216). The most economical referent is the first-year-led Nagoya unit of Event 019, where the council calls Nagoya the next scheduled program performance (`adv_event_019_main-01` L96–L117). If that identification holds, the Event 019 emergency arrangement is already known when Event 018 begins, which revises the Event 019 row's "likely after prior regional program installments" (retained above). This is inference only: Event 019 does not mention Osaka or Hiroshima, and `例外` could refer to another arrangement involving Kotone.
+- **Events 013, 017 and 022: Mao and Sena (GKM-SAA-157; OPEN).** In Event 017, Mao's inner speech says that she has lost even the right to chase Sena and has been averting her eyes (`adv_event_017_main-04` L433–L472). In Event 022 she has avoided Sena's third-year lives (`adv_event_022_main-05` L277–L289, inner speech) and ends by resolving to stop running (L429–L460). Both states are pre-summer-H.I.F. They cohere with the Event 013 vow `今度こそ` (`adv_event_013_main-05` L462–L469) only if they precede it, or if the events are read as separate modular states. The Event 013 vow carries no season anchor; Tsubame's `次の『H.I.F』` (L265) is unspecified. Do not narrate the Event 013 vow as preceding the Event 017 advice. One economical local order is E017/E022 (pre-summer) → E022 resolution → E013 vow before a later H.I.F., but the order stays OPEN. Alternative: Mao vows in Event 013 and regresses in Event 017, since modular events need not cohere.
 
 ### Embedded C1 history inside modular events
 
@@ -191,6 +201,14 @@ Tsubame accepts the successor work only after Sena promises full commitment to t
 
 This interaction is a clean instance of **heroic rivalry as anti-displacement**. Tsubame does not reject Sena's institutional vocation; she refuses to let it become a substitute for continuing to exist as a contestant herself.
 
+**Bounded mutual knowledge — 2026-11-15 (GKM-SAA-030, STRENGTHEN).** Tsubame's reading of Sena is real but bounded. Tsubame detects the distraction (`気もそぞろだな`, `adv_event_013_main-05` L167), and Sena acknowledges it (L183). Sena then gives the student-council production project as her worry. In inner speech she apologizes to Tsubame for withholding the belief that she can no longer grow as an idol (L305–L322). Tsubame's later shrine wish, that Sena grow overwhelmingly by the next H.I.F. (L519–L537), unknowingly targets that hidden fear (§2.5). Event 021 extends the pattern:
+
+- after her first Prima Stella win, Sena confided the pressure to Rinami, not to Tsubame (`adv_event_021_main-04` L47–L92);
+- Sena keeps her envy of Tsubame's "wings" unspoken (`adv_event_021_main-05` L345–L363, inner speech);
+- Sena calls Tsubame's ideal of her Tsubame's own (`adv_event_021_main-03` L243).
+
+Tsubame's claim that Sena can rely only on her (`adv_event_021_main-05` L175) is Tsubame's statement, not an established fact. This complements Relationship Systems II §5.7, where the pair misses affective information that Rinami supplies. Counterevidence: Tsubame does detect Sena's distraction here and her fatigue in Event 021. Sena's inner apology could also be read as conventional dramatic irony rather than a durable asymmetry.
+
 ## 2.5 The shrine: successor logic becomes rival logic
 
 At the arts shrine, Sena wishes for her juniors to succeed at H.I.F. Mao and Rinami instead make declarations aimed at Sena. Mao vows to catch her. Rinami says she lacks Mao's confidence but still wants to confront Sena directly because Sena called her an `敵`/rival. Tsubame wishes that Sena will have grown overwhelmingly by the next H.I.F. because defeating a stagnant Sena would be meaningless.
@@ -216,7 +234,7 @@ Rinami regulates the group, Mao returns an old unanswered promise, Tsubame refus
 ### Relationship promotions
 
 - **Sena ↔ Rinami — PROMOTE:** institutional trust is rooted in Sena's explicit recognition of Rinami's emotional-perceptual competence and Rinami's long history of seeing Sena's less perfect states.
-- **Sena ↔ Tsubame — STRENGTHEN:** childhood/long-term rivalry includes unusually accurate mood detection and the right to challenge Sena's self-displacement into mentorship.
+- **Sena ↔ Tsubame — STRENGTHEN:** childhood/long-term rivalry includes unusually accurate mood detection and the right to challenge Sena's self-displacement into mentorship. *(Bounded 2026-11-15, GKM-SAA-030: Tsubame detects the mood but not the growth-limit belief Sena withholds from her; see §2.4.)*
 - **Sena ↔ Mao — STRENGTHEN:** long asymmetry contains a specific unanswered plea to be pursued; Mao's current challenge is a delayed relational answer.
 - **third-year quartet — PROMOTE:** their present mutual legibility is historically earned. Rinami is not simply “the nice one,” Mao not merely “the prince,” Tsubame not merely “the rival,” and Sena not merely “the leader”; each role has been renegotiated across years of shared observation.
 
@@ -319,6 +337,8 @@ The point is not that Misuzu's “true self” is a hidden athlete waiting for f
 After losing, Hiro explicitly refuses to complain that Misuzu should have worked harder earlier. Misuzu says getting Hiro motivated was already enough to make Hiro the class MVP. Hiro answers that a permanently full-power Misuzu would not even feel like Misuzu.
 
 This is mature differentiation: capability does not create an obligation to live permanently at maximum output.
+
+**Nostalgia cue — 2026-11-15 (HSCA-118, STRENGTHEN).** Misuzu twice names the motivated state as nostalgic (`懐かしい`): when she becomes Hiro's pair (`adv_event_014_main-03` L514) and at the decisive race (`adv_event_014_main-05` L116). Temari predicts the comeback from long acquaintance (`美鈴のことは、よく知ってるから`, `adv_event_014_main-04` L476; `adv_event_014_main-05` L408). This is an instance of the tranche's continuity-bearing-witness thesis. The referent of `懐かしい` is unstated. A link to an earlier period of effort with Temari or SyngUp! is plausible but inferential. The jurisdiction reading above stands, with one refinement: Misuzu may experience the exertion as the return of a remembered state rather than as something friendship newly licenses.
 
 ## 3.6 Hiro learns shared disappointment
 
@@ -675,6 +695,8 @@ Mao answers with a performance proposition:
 This is not a request that Sena stop being the crown. It is an invitation to **expand what the crown can contain**.
 
 The logic parallels Mao's own integrated model: authenticity comes through the freedom to choose and integrate roles, not by stripping role away.
+
+*Continuity bound — 2026-11-15 (GKM-SAA-157, OPEN).* Mao's inner speech in this scene says she has lost even the right to chase Sena and has been averting her eyes (`adv_event_017_main-04` L433–L472). That state is hard to place after the Event 013 vow `今度こそ`. Read "intimidated observer toward peer interpreter" (Event 017 relationship promotions below) as movement within Event 017, not as progress beyond Event 013. See the §1.2 continuity notes.
 
 ## 6.6 Rinami's camera turns observation into self-revision
 
@@ -1048,6 +1070,8 @@ The comedy preserves the character mechanism. Lilja's restraint is often not lac
 
 This is relevant to her performance model. The shy exterior is not evidence of low inner amplitude.
 
+**Sumika's gyaru origin — 2026-11-15 (GKM-SAA-078, HSCA-091; STRENGTHEN).** In the same mall section Lilja asks when Sumika acquired her cosmetics knowledge. Sumika answers that after quitting ballet and returning to Japan she dressed gyaru-style in rebellion against her nagging mother, learned from friends and magazines, and found that the style had become natural to her (`adv_event_020_main-03` L186–L211; `気づいたら、馴染んでた`, L211). HSCA-091 identified this as the only first-person account in Source Lock 1.0 of where Sumika's gyaru presentation came from. Observation: the style was adopted after the ballet loss and became habitual. Inference for the Sumika core: "authentic" should not imply "original"; the gyaru self is an acquired identity that became true. Counterevidence: Sumika's pleasure in fashion here is unforced, and elsewhere she defines gyaru as a state of heart (`ギャルっていうのはね。心の在り方だから！`, `transcripts_raw/04_support_card_stories/support_series_3/story_0073/part_03.txt` L180). The core-level revision belongs to the Sumika core and its evidence matrix.
+
 The same section contains a telling self-definition. When Sumika worries that idol work leaves less time for hobbies, Lilja says both dream and hobby matter and she intends to choose both, even if that is selfish or unrealistic. The most dramatic phrasing turns out to be an anime quotation, but that does not make the commitment false. Lilja borrows media language to articulate a genuine value.
 
 ### Claim transitions
@@ -1220,6 +1244,8 @@ For later relationship synthesis, **predictability of friction** should be track
 
 The following transitions are tranche-level routing instructions, not replacements for the full character ledgers.
 
+> **2026-11-15 (owner policy, source-to-analysis audit GKM-SAA-104):** event deltas are now integrated into the character cores as dated, attributed additions; see each core's 'Phase-4/5 integration pointers' section.
+
 | character | transition | Events 013–020 evidence | current implication |
 | --- | --- | --- | --- |
 | Hanami Saki | **STRENGTHEN / OPEN** | E016 permits Ume's independent friend world while concealing her own loneliness; E019 builds a functioning unit around Temari/Kotone's differentiated strengths | pedagogy and leadership are increasingly relationally adaptive; older-sister identity still constrains admitted vulnerability |
@@ -1245,8 +1271,8 @@ The following edges are strong enough to enter the cumulative relationship ledge
 | relation | event state | promotion |
 | --- | --- | --- |
 | Sena ↔ Rinami | E013 | Sena explicitly recruits Rinami for emotional perception she/Tsubame lack; Rinami has long access to Sena's less-perfect states |
-| Sena ↔ Tsubame | E013 | rivalry includes mood recognition and refusal to let Sena substitute mentoring for self-development |
-| Sena ↔ Mao | E013/E017 | Mao's old failure to promise pursuit becomes present challenge and role-expansion advice |
+| Sena ↔ Tsubame | E013 | rivalry includes mood recognition and refusal to let Sena substitute mentoring for self-development; *bounded (2026-11-15, GKM-SAA-030): Sena withholds her growth-limit belief from Tsubame (`adv_event_013_main-05` L305–L322, inner speech) and confided the Prima Stella pressure to Rinami (`adv_event_021_main-04` L47–L92); see §2.4* |
+| Sena ↔ Mao | E013/E017 | Mao's old failure to promise pursuit becomes present challenge and role-expansion advice; *order OPEN (2026-11-15, GKM-SAA-157): do not read the E013 vow → E017 advice as a progression; see the §1.2 continuity notes* |
 | senior quartet | E013/E017 | long-duration peer system with differentiated functions: regulation, challenge, performance interpretation, institutional leadership |
 | Hiro ↔ Misuzu | E014 | **PROMOTE:** mutual `大切な友達` / `大好き`; shared loss and chosen exceptional effort |
 | Rinami ↔ China | E015 | senior/junior relation becomes explicitly reversible during live crisis |
@@ -1278,6 +1304,8 @@ Events 015, 018, and 019 collectively establish a recurring program architecture
 - the pedagogical goal is not merely junior observation. Juniors are expected to produce, adapt, and sometimes lead.
 
 This should be promoted to the institution ledger as a concrete mechanism for **distributed production education**.
+
+*Program concurrency — 2026-11-15 (GKM-SAA-269, STRENGTHEN).* Mao plans the Osaka program while Rinami's Hiroshima program with Lilja and China is scheduled (`adv_event_018_main-01` L186–L209), so installments can run in parallel rather than strictly in series. The relation to Event 019 stays inference-labelled (§1.2 continuity notes).
 
 ## 13.2 Sports festival as spectacle and training
 
@@ -1435,13 +1463,15 @@ Priority reflects interpretive leverage, not presumed visual spectacle.
 5. **Rinha transmission:** what other phrases, techniques, habits, or values in Temari can be traced to Rinha rather than inferred from current Temari alone?
 6. **Saki vulnerability:** does she ever directly tell Ume that Ume's independence makes her lonely, or is need consistently translated into rivalry/older-sister performance?
 7. **Rinami/Mao regional mentoring:** Events 015 and 018 should later be compared systematically as two senior styles rather than treated as isolated travel stories.
-8. **Escort program chronology:** Event 019 strongly suggests a serial program context around Hiroshima/Osaka/Nagoya, but exact ordering should remain bounded until a direct schedule/bridge source is found.
+8. **Escort program chronology:** Event 019 strongly suggests a serial program context around Hiroshima/Osaka/Nagoya, but exact ordering should remain bounded until a direct schedule/bridge source is found. *2026-11-15 (GKM-SAA-269):* `adv_event_018_main-01` L186–L216 now supplies a locator. Event 015 is planned or under way when Event 018 begins, and Mao's `例外` most economically refers to the Event 019 unit (inference). See the §1.2 continuity notes.
 9. **Lilja public fandom identity:** does later material reward or punish bringing otaku/cosplay identity into public idol branding?
 10. **Lilja/Sumika future:** does the shared demand that “both become idols” remain supportive when career outcomes materially diverge?
 
 ---
 
 # 18. Canonical routing instructions
+
+> **2026-11-15 (owner policy, source-to-analysis audit GKM-SAA-104):** event deltas are now integrated into the character cores as dated, attributed additions; see each core's 'Phase-4/5 integration pointers' section.
 
 ## Promote immediately to mutable ledgers
 

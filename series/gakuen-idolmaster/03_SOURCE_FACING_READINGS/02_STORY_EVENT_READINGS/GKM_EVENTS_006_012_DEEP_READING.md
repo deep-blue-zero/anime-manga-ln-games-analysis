@@ -12,12 +12,17 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-23'
+version: "1.1"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15 corrections (GKM-SAA-104, GKM-SAA-268; HSCA-156, HSCA-173, HSCA-174) applied by targeted edit with A1 locators, using the REVISE and STRENGTHEN transitions and keeping earlier wording recoverable."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM EVENTS 006–012 DEEP READING
+
+> **Revision record — v1.1, 2026-11-15 (source-to-analysis audit corrections).** First versioned revision; the text before this date counts as v1.0. Dated notes mark each change: §3.4 and §10.4 Temari's Event 007 recognition of China is spoken but cut off by the blackout and received in Event 011 (GKM-SAA-268, HSCA-173, REVISE wording); §5.4 the Event 009 repair begins with Kotone standing in for Sumika (HSCA-156, STRENGTHEN); §13.4 Temari monitors her own inner/outer split (HSCA-174, STRENGTHEN); §9 and §17 owner-policy note on core integration (GKM-SAA-104). Earlier formulations stay in place beside each note.
 
 ## 0. Scope, method, and principal finding
 
@@ -279,6 +284,8 @@ China had imagined Temari as categorically distant—a technically gifted person
 
 Temari then tells China that China has many things in which she is the superior one.
 
+**Marker precision — 2026-11-15 (GKM-SAA-268, HSCA-173; REVISE wording).** The recognition is spoken but not received in Event 007. Temari says it at `adv_event_007_main-04` L468; China asks `……え？　あの、今なんと――` (L474), and the blackout cuts in (L496). The explicit recognition that China does take in comes in Event 011. When China calls herself a `ぽんこつ`, Temari answers `いまはもう違うでしょ。自信持ちなよ`, and she then agrees with Mao about China's gift (`adv_event_011_main-01` L208–L215, L279–L282). Behavioural recognition is still received in Event 007 through Temari's promise to pull China through the live (§3.6). The v1.0 sentence above, which narrates the compliment as delivered, is retained for the record and should be read with this qualification.
+
 The event has already demonstrated what she means.
 
 ## 3.5 Blackout: vulnerability reverses the support direction
@@ -499,6 +506,8 @@ Kotone then finds Lilja, identifies what she is struggling with, and gives her a
 She does not permanently take over the conversation. She returns with Lilja and introduces one small teaching task at a time until Lilja can directly instruct Ume herself.
 
 This is another excellent example of scaffolded self-authorship.
+
+**How the repair begins — 2026-11-15 (HSCA-156, STRENGTHEN).** Alone and overloaded, Lilja first calls for the absent Sumika (`ど、どうしよう……清夏ちゃん……。`, `adv_event_009_main-04` L364–L368), and Kotone arrives at that moment (L377). After giving the relational permission, Kotone teases Lilja about the reflex, `ゴメンね♪　――清夏じゃなくて` (L492), and Lilja asks her to keep it secret (L499). The expansion beyond Sumika therefore starts from a residual reflexive dependence that embarrasses Lilja, with Kotone standing in for Sumika. This qualifies the Event 009 thesis without contradicting it.
 
 **STRENGTHEN:** Kotone's social intelligence is not omniscience—she literally forgot to recruit Lilja—but it includes rapid repair once another person's difficulty becomes visible.
 
@@ -975,6 +984,8 @@ Lilja must stop using exhaustion as moral proof. Sumika must stop using withdraw
 
 # 9. Cross-event character-state audit
 
+> **2026-11-15 (owner policy, source-to-analysis audit GKM-SAA-104):** event deltas are now integrated into the character cores as dated, attributed additions; see each core's 'Phase-4/5 integration pointers' section.
+
 | character | transition | events | Phase-4 delta from 006–012 |
 | --- | --- | --- | --- |
 | Hanami Saki | **PROMOTE / STRENGTHEN** | E008, E009, E012 | competition/optimization becomes transferable pedagogy; care includes enforced rest, role responsibility, and individualized training; sister attachment still permits mild jealousy |
@@ -1020,6 +1031,8 @@ This is the strongest relationship development in the tranche.
 Event 007 begins with China frightened of Temari's pressure and Temari calling her a `ぽんこつ`. China then identifies Temari's social weakness, redirects her into song, discovers their shared idol origin, supports her through the blackout, and receives Temari's promise to pull her through the live.
 
 Event 011 explicitly remembers that history. Temari now calls China's social gift a talent, China proactively offers to support Temari in customer interaction, and Temari promises to rescue China when her own limits appear.
+
+*2026-11-15 (GKM-SAA-268):* Temari's spoken recognition in Event 007 is cut off by the blackout before China can take it in (`adv_event_007_main-04` L468–L496). The received verbal recognition is Event 011's `いまはもう違うでしょ` (`adv_event_011_main-01` L215). See §3.4.
 
 **PROMOTE:** domain-sensitive reciprocal friendship.
 
@@ -1263,6 +1276,8 @@ The key mature change is not that the blunt syntax disappears. It acquires new r
 
 Care arrives as command.
 
+**Self-monitoring — 2026-11-15 (HSCA-174, STRENGTHEN).** The split is not static. In Event 008 Saki reads Temari's coldness to the fan charitably, as a chosen idol image (`adv_event_008_main-02` L258). In inner speech Temari rejects that reading but cannot find words for the difference (`そんなのじゃないのに`, L262). In Event 011 Temari names the mismatch herself afterwards and checks it with China: `冷たい対応だったかな？` (`adv_event_011_main-03` L320). Observation: Temari does not experience her fan-facing coldness as an authored persona, and she can reflect on it. The order of Events 008 and 011 relative to each other is unresolved, so no Event 008 → Event 011 development is asserted.
+
 ## 13.5 Kotone: register mobility is operational competence
 
 Kotone's inner voice remains blunt and money-conscious; customer-facing voice becomes highly polished and cute; peer voice can be abrasive, teasing, diagnostic, or reassuring within seconds.
@@ -1424,6 +1439,8 @@ All 35 evidence objects in the dedicated tranche are unique source scripts. Bund
 # 17. Ledger-routing decisions
 
 The following findings should be appended to the mutable cumulative infrastructure rather than left only in this reading.
+
+> **2026-11-15 (owner policy, source-to-analysis audit GKM-SAA-104):** event deltas are now integrated into the character cores as dated, attributed additions; see each core's 'Phase-4/5 integration pointers' section.
 
 ## Character-state ledger
 

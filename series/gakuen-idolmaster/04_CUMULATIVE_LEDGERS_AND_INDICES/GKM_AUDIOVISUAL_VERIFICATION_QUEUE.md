@@ -2,14 +2,18 @@
 title: "Gakuen Idolmaster V2 - Audiovisual Verification Queue"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.7"
+version: "2.8"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-07 — AV-DIA-SAKI-007 registered as P2 optional (Saki core v2.1 correction); RINHA-AV-20260911 state unchanged"
+last_updated: "2026-11-15 — source-to-analysis audit AV routing (Carbon handoff version 3); RINHA-AV-20260911 state unchanged"
+revised: "2026-11-15"
+revision_note: "v2.8 routing addition (source-to-analysis audit 2026-11-15; every routed question enters as OPEN, no claim changed, no closed queue reopened): cross-references the 36 audit candidates of Carbon supplement GKM-AV-CARBON-20261115-SAA, narrows the E001 main-02 request to delivery, timing and Temari's reaction (GKM-SAA-272) and records already-queued audit items"
 status: "active; Rinha source/text, selected-mix and sampled-still pass delivered; listening, motion and dossier gate open"
 ---
 
 # AUDIOVISUAL VERIFICATION QUEUE
+
+> **Revision record — v2.8, 2026-11-15 (source-to-analysis audit corrections).** Adds [Source-to-analysis audit routing — 2026-11-15](#source-to-analysis-audit-routing--2026-11-15). The earlier `last_updated` value read "2026-11-07 — AV-DIA-SAKI-007 registered as P2 optional (Saki core v2.1 correction); RINHA-AV-20260911 state unchanged". No closed character queue is edited or reopened, and the Rinha gate stays open.
 
 This is a cumulative V2 project ledger. It is initialized in Phase 0 and must be updated rather than recreated as later phases add evidence.
 
@@ -914,3 +918,52 @@ Script-derived Kanae referrals at the rev 88 boundary. Source identity and comma
 | AV-HKNE-R88-05 | Pair native live start/end versions and resolve voice slots for message-free steps before transcribing heard lines. | AV-C script staging; dispatch and audio identities pending |
 
 Listening and continuous-motion inspection for the 1.2 transaction both total zero seconds. This evidence serves the new text tranche. The Rinha perceptual gate retains its own matched-source obligations.
+
+## Source-to-analysis audit routing — 2026-11-15
+
+The 2026-11-15 source-to-analysis audit (findings `GKM-SAA-nnn`, change-plan Batch 5-A) routes its audiovisual-dependent items to the [Carbon observation supplement](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_OBSERVATION_PACKET.md#source-to-analysis-audit-supplement--2026-11-15), handoff version 3, supplement `GKM-AV-CARBON-20261115-SAA`, and its [paired claims under test](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_ADJUDICATION.md#source-to-analysis-audit-supplement--2026-11-15). The owner assigned the review to Gemini Carbon 4. This section adds queue entries; it does not edit or reopen the closed China, Sumika, Ume, Lilja or Rinami queues above, and no target here belongs to the inherited Rinha gate. Each textual claim stands without AV. Exact A1 locators, neutral questions and acquisition status are in the packet row of the same ID.
+
+| Target | Playback question | State |
+| --- | --- | --- |
+| AV-CARBON-SAA-213 (GKM-SAA-213) | Identify the voice of the narration in `adv_pstory_003_kcna_selection-failure-01` L92–99 against China and Kanae references. | Group A, P1; script assets `hkne-001..003` under `actorId=kcna`; matched media pending |
+| AV-CARBON-SAA-246 (GKM-SAA-246) | Render Misuzu's `egao3` facial at sampled Produce loci and at `adv_cidol-hmsz-3-018_01` L250, compared with egao1 and egao2. | Group A, P1; AV-C command loci listed; rendering pending |
+| AV-CARBON-SAA-117 (GKM-SAA-117, GKM-SAA-242) | Describe the masked voice at `adv_dear_hmsz_019` L101–108 and the unnamed child voice at `adv_cidol-ttmr-3-009_01` L176. | Group A, P1, supplemental; `krnh` voice assets; outside the inherited Rinha gate |
+| AV-CARBON-SAA-241 (GKM-SAA-241) | Confirm the voice and displayed name of the two `name=佑芽` lines in `adv_live_hmsz_001_start-03-01` L21–24. | Group A, P1; capture pending |
+| AV-CARBON-SAA-221 (GKM-SAA-221) | Compare the setting and audience of Hiro's live wrappers 04 with 01–03. | Group A, P1; capture pending |
+| AV-CARBON-SAA-177 (GKM-SAA-177, GKM-SAA-283) | Identify the narrating voice of the school credo in the tutorial and U1 01_01 against Saki's labelled delivery in U1 04_25 and Ume Dear 001. | Group A, P1; `hski` voice assets; capture pending |
+| AV-CARBON-SAA-001 (GKM-SAA-001, GKM-SAA-057) | Delivery and framing of Mao's outburst, `adv_dear_amao_022` L439–496. | Group B, P2; Mao baseline source; re-inspection optional |
+| AV-CARBON-SAA-002 (GKM-SAA-002) | Delivery of Hiro's disclosures, `adv_dear_shro_010` L199 and `adv_dear_shro_024` L197. | Group B, P2; Hiro baseline sources; optional |
+| AV-CARBON-SAA-003 (GKM-SAA-003) | Delivery, pauses and facial staging at `adv_cidol-hrnm-3-002_02` L190, `adv_dear_hrnm_020` L419/L436, `adv_dear_hrnm_037` L65–85 and `adv_dear_hrnm_009` L359–365. | Group B, P2; Rinami R2 sources; optional |
+| AV-CARBON-SAA-004 (GKM-SAA-004) | Tears and register changes, `adv_dear_hmsz_032` L186–369 and `adv_dear_hmsz_036` L1047–1276. | Group B, P2; Misuzu baseline sources; optional |
+| AV-CARBON-SAA-006 (GKM-SAA-006) | Silence and reply after the Producer's `手毬`, `adv_dear_ttmr_037` L441 and L450. | Group B, P2; optional |
+| AV-CARBON-SAA-009 (GKM-SAA-009) | Flashback marking at `adv_dear_fktn_013` L59–62; BGM change at `adv_dear_fktn_018` L138. | Group B, P2; staging; optional |
+| AV-CARBON-SAA-014 (GKM-SAA-014) | Facial staging at `adv_dear_kllj_027` L390–433; delivery at `adv_dear_kllj_037` L332/L368 and `adv_cidol-kllj-3-022_02` L102; branch stills in Dear 037. | Group B, P2; paired branch captures; optional |
+| AV-CARBON-SAA-026 (GKM-SAA-026) | Sena's defeat responses, `adv_dear_hski_024` L336–382, `adv_dear_amao_036` L300–306, `adv_dear_kllj_036` L583 (AV-HYP-SENA-09). | Group B, P2; optional |
+| AV-CARBON-SAA-037 (GKM-SAA-037) | Voicing of Saki's inner lines, `adv_dear_hski_033` L258–307. | Group B, P2; optional |
+| AV-CARBON-SAA-052 (GKM-SAA-052, GKM-SAA-185) | Delivery, still and music, `adv_dear_fktn_037` L506–541. | Group B, P2; optional |
+| AV-CARBON-SAA-053 (GKM-SAA-053) | Observable singing and dancing in Kotone's rendered performances, against `adv_cidol-fktn-3-011_02` L111–166. | Group B, P2; Kotone baseline sources; optional |
+| AV-CARBON-SAA-054 (GKM-SAA-054) | Delivery of `adv_cidol-fktn-3-001_01` L152–165 after L147. | Group B, P2; optional |
+| AV-CARBON-SAA-067 (GKM-SAA-067) | Realization of the publicity plan, `adv_cidol-shro-3-012_03` L186–315. | Group B, P2; optional |
+| AV-CARBON-SAA-068 (GKM-SAA-068) | Delivery of `adv_cidol-shro-3-007_02` L91 and `adv_cidol-shro-3-018_02` L143. | Group B, P2; optional |
+| AV-CARBON-SAA-071 (GKM-SAA-071) | Content of the stills at `adv_dear_hrnm_010` L434–435 and `adv_dear_hrnm_037` L441–442. | Group B, P2; optional |
+| AV-CARBON-SAA-073 (GKM-SAA-073) | Observable vocal technique in Rinami's rendered songs, against her self-assessment (`adv_pstory_001_hrnm_after-step-2-normal-01` L47). | Group B, P2; Rinami R2 sources; optional |
+| AV-CARBON-SAA-079 (GKM-SAA-079) | Delivery of Ume's lines about losing, `adv_dear_hume_005` L54–110, `adv_dear_hume_028` L96–105, `adv_pstory_003_hume_final-failure-01` L45. | Group B, P2; optional |
+| AV-CARBON-SAA-082 (GKM-SAA-082) | Delivery and facial staging, `adv_cidol-hume-3-009_03` L75–99, `adv_cidol-hume-3-009_02` L469–519, `adv_dear_hume_010-01` L45–76. | Group B, P2; optional |
+| AV-CARBON-SAA-087 (GKM-SAA-087) | Delivery at Misuzu's address shifts in Dear 012, 014, 016, 019, 034 and 036 (AV-HYP-MISUZU-04). | Group B, P2; optional |
+| AV-CARBON-SAA-088 (GKM-SAA-088) | Rendered sky at `adv_dear_hmsz_037` L56–76; stills at L421–438. | Group B, P2; optional |
+| AV-CARBON-SAA-089 (GKM-SAA-089) | Staging of the recalled exchange, `adv_dear_jsna_034` L345–363. | Group B, P2; optional |
+| AV-CARBON-SAA-115 (GKM-SAA-115) | Whether the Producer's results and self-effacing lines are voiced, `adv_presult_003_final-failure` L3 and four further objects. | Group B, P2; optional |
+| AV-CARBON-SAA-128 (GKM-SAA-128) | Voicing of Rinami's inner lines, `adv_dear_hrnm_027` L376 and L402. | Group B, P2; optional |
+| AV-CARBON-SAA-162 (GKM-SAA-162) | Facial and music staging, `adv_unit_01-04_07` L345–420 and L760–831. | Group B, P2; optional |
+| AV-CARBON-SAA-187 (GKM-SAA-187) | Flashback marking, `adv_cidol-fktn-3-006_01` L66–99. | Group B, P2; staging; optional |
+| AV-CARBON-SAA-189 (GKM-SAA-189) | Presentation of the Producer's address and 俺 lines, `adv_cidol-fktn-3-011_02` L146, `adv_dear_fktn_027` L452, `adv_dear_fktn_037` L612. | Group B, P2; optional |
+| AV-CARBON-SAA-194 (GKM-SAA-194) | Delivery at `adv_cidol-amao-3-015_03` L303 and of the inner lines at `adv_dear_amao_037` L302–308. | Group B, P2; optional |
+| AV-CARBON-SAA-223 (GKM-SAA-223) | Prosody of `adv_cidol-hrnm-3-017_03` L85 and L104. | Group B, P2; optional |
+| AV-CARBON-SAA-287 (GKM-SAA-287) | Dream and waking staging, `adv_startup_2025_ef-01_cmmn-02` L36–88. | Group B, P2; staging; optional |
+| AV-CARBON-SAA-289 (GKM-SAA-289) | Setting, audience and trainers in two lesson objects and `adv_pstep_001_cmmn_before-rest-01-atbm` L1. | Group B, P2; staging; optional |
+| `adv_event_001_main-02` (Phase 4 Events 001–005 P0; `AV-CARBON-E001-001`) | Narrowed (GKM-SAA-272): A1 settles who voices the dubbed line (L341 label `リーリヤ？`; L342 voice `…_ssmk-018`, `actorId=ssmk`). The request concerns delivery, timing and Temari's reaction, not voice ownership. | P0 unchanged; the 2026-08-23 row above is not edited |
+| `adv_dear_ttmr_015`, `adv_dear_ttmr_016` (GKM-SAA-042, GKM-SAA-121) | Already asked under `RINHA-AV-P0-001` and `RINHA-AV-P0-002`. | No new entry; Rinha gate unchanged |
+| `adv_event_021_main-05` (GKM-SAA-030); `adv_event_012_main-02`, `-03`, `-05` (GKM-SAA-105) | Already queued at P0 above. | No new dependency |
+| AV-HKNE-R88-05 (GKM-SAA-265) | Also identify the backgrounds of `adv_pstep_001_cmmn_before-rest-01-hkne` and `adv_pstep_001_cmmn_after-odekake-01-d-02`. | AV-C asset identity; deferred with the parent row |
+
+Listening and continuous-motion inspection for this routing both total zero seconds.

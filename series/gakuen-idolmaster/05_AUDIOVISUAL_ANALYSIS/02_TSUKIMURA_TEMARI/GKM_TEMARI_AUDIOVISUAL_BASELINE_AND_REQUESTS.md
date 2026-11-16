@@ -2,15 +2,19 @@
 title: "Gakuen Idolmaster V2 — Tsukimura Temari Audiovisual Baseline and Request Set"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "Phase-3 audiovisual discovery and acquisition specification"
-version: "2.2"
+version: "2.3"
 phase: "3 — Character-Core Readings"
 character: "Tsukimura Temari / 月村手毬"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 created: "2026-08-14"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15 correction: REVISE of the AV-DIA-TEMARI-012 scene description and the §7 speaking-performance question (Dear 035 address attribution); no request status changes."
 status: "acquisition and inspection complete; all Phase-3 P0/P1 requests closed"
 ---
 
 # TSUKIMURA TEMARI — AUDIOVISUAL BASELINE AND REQUEST SET
+
+> **Revision record — v2.3, 2026-11-15 (source-to-analysis audit corrections).** `AV-DIA-TEMARI-012` described Dear 035 as "requests `手毬`". In A1 Temari requests an honorific-free (`呼び捨て`) send-off and the Producer answers `月村` (`adv_dear_ttmr_035` L632–L650); the given name `手毬` is his own move in Dear 037 (`adv_dear_ttmr_037` L417–L432). REVISE; GKM-SAA-006. The §7 speaking-performance question about the late `手毬` request carries the same correction. The acquisition gate and request statuses are unchanged.
 
 ## 0. Evidence boundary
 
@@ -201,7 +205,7 @@ The complete current P0/P1 dialogue queue collapses into **seven whole videos**.
 
 **Covers:**
 
-- `AV-DIA-TEMARI-012` — Dear 035: requests `手毬`; final sendoff;
+- `AV-DIA-TEMARI-012` — Dear 035: requests an honorific-free (`呼び捨て`) sendoff, answered with `月村`; final sendoff (corrected 2026-11-15, GKM-SAA-006; v2.2 read "requests `手毬`");
 - `AV-DIA-TEMARI-013` — Dear 036: Prima Stella ceremony and title speech;
 - `AV-DIA-TEMARI-014` — Dear 037: ramen, present-tense self-love, Producer attachment.
 
@@ -274,7 +278,7 @@ These are useful but do not block the initial integrated baseline:
 - Does the `私だけのプロデューサー` line sound comic, possessive, frightened, triumphant, or layered?
 - How is Rinha imitation audible in persona scenes?
 - What happens to register when Misuzu uses `まりちゃん`?
-- Does the late `手毬` request produce an audible change in relation?
+- Does the late honorific-free (`呼び捨て`) request, and the Producer's own later `手毬`, produce an audible change in relation? (Corrected 2026-11-15, GKM-SAA-006; v2.2 read "Does the late `手毬` request produce an audible change in relation?")
 
 ### Singing identity
 
