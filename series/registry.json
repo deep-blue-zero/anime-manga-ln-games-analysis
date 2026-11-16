@@ -18,6 +18,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "a-certain-dark-side-item",
+      "stable_slug": "a-certain-dark-side-item",
+      "canonical_title": "A Certain Dark Side ITEM",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/a-certain-dark-side-item/",
+      "canonical_entrypoint": "series/a-certain-dark-side-item/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261115",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese strelka manga adaptation とある暗部の少女共棲, Dengeki Comics NEXT; team agency, covert tasking and secrecy as presented by collected-page form."
+    },
+    {
       "series_id": "a-certain-scientific-accelerator",
       "stable_slug": "a-certain-scientific-accelerator",
       "canonical_title": "A Certain Scientific Accelerator",
@@ -94,6 +110,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "agents-of-the-four-seasons",
+      "stable_slug": "agents-of-the-four-seasons",
+      "canonical_title": "Agents of the Four Seasons",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/agents-of-the-four-seasons/",
+      "canonical_entrypoint": "series/agents-of-the-four-seasons/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261115",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese light-novel cycle 春夏秋冬代行者; seasonal offices, protection and obligation, focalized disclosure and the distinct Dance and Archer books."
     },
     {
       "series_id": "aobuta",
@@ -203,6 +235,22 @@
       "catalog_note": "Japanese アオのハコ main manga project with separate Interlude and Prologue prose supplement witnesses; medium-specific narration and cross-source continuity remain explicitly distinguished."
     },
     {
+      "series_id": "boku-no-kanojo-wa-dekkawaii",
+      "stable_slug": "boku-no-kanojo-wa-dekkawaii",
+      "canonical_title": "Boku no Kanojo wa Dekkawaii",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/boku-no-kanojo-wa-dekkawaii/",
+      "canonical_entrypoint": "series/boku-no-kanojo-wa-dekkawaii/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261115",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "sanorin's Japanese school romantic-comedy manga 僕の彼女はデッカワイイ. Collected-page study of scale, visibility, comic timing and relationship change."
+    },
+    {
       "series_id": "chainsaw-man",
       "stable_slug": "chainsaw-man",
       "canonical_title": "Chainsaw Man",
@@ -280,6 +328,22 @@
       "catalog_note": "Single Japanese animated feature: narrative, character and directed relationships, cinematic form and musical dramaturgy, with independent continuous-AV reading and bundle-mediated reconciliation."
     },
     {
+      "series_id": "delicious-in-dungeon",
+      "stable_slug": "delicious-in-dungeon",
+      "canonical_title": "Delicious in Dungeon",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/delicious-in-dungeon/",
+      "canonical_entrypoint": "series/delicious-in-dungeon/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261115",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Ryoko Kui's Japanese manga ダンジョン飯 (Dungeon Meshi). Manga-bounded study of group decision-making, food and material constraints, dungeon ecology, and visual narration."
+    },
+    {
       "series_id": "domestic-girlfriend",
       "stable_slug": "domestic-girlfriend",
       "canonical_title": "Domestic Girlfriend / ドメスティックな彼女",
@@ -310,6 +374,22 @@
       "authority_status": "GIT_PRIMARY",
       "project_initiation_gate": "REQUIRED",
       "catalog_note": "Japanese manga project for Dr.STONE, with numbered main volumes and the separately scoped 科学王国事典 official fanbook; fictional explanation, depicted capability and external reference remain distinct evidence classes."
+    },
+    {
+      "series_id": "fx-fighter-kurumi-chan",
+      "stable_slug": "fx-fighter-kurumi-chan",
+      "canonical_title": "FX Fighter Kurumi-chan",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/fx-fighter-kurumi-chan/",
+      "canonical_entrypoint": "series/fx-fighter-kurumi-chan/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261115",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese collected manga FX戦士くるみちゃん by Demunyan and Tansan Daisuki. Page-based analysis of information, uncertainty, financial decisions and their human consequences in the fiction."
     },
     {
       "series_id": "gakuen-idolmaster",
@@ -579,6 +659,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "mahouka-yoru-no-tobari",
+      "stable_slug": "mahouka-yoru-no-tobari",
+      "canonical_title": "The Irregular at Magic High School - Yoru no Tobari ni Yami wa Hirameku",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/mahouka-yoru-no-tobari/",
+      "canonical_entrypoint": "series/mahouka-yoru-no-tobari/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261115",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese light-novel spin-off 魔法科高校の劣等生 夜の帳に闇は閃く; the Kuroba twins, assignment and loyalty, cover identities and disclosure inside the prose subseries."
+    },
+    {
       "series_id": "mass-effect",
       "stable_slug": "mass-effect",
       "canonical_title": "Mass Effect",
@@ -701,23 +797,6 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
-      "series_id": "onna-tomodachi",
-      "stable_slug": "onna-tomodachi",
-      "canonical_title": "Onna Tomodachi wa Tanomeba Igai to Yarasete Kureru",
-      "media": [
-        "LIGHT_NOVEL",
-        "MANGA"
-      ],
-      "repository_path": "series/onna-tomodachi/",
-      "canonical_entrypoint": "series/onna-tomodachi/CURRENT_STATE_AND_CORPUS_MAP.md",
-      "canonical_entrypoint_status": "PRESENT_VERIFIED",
-      "materialization_status": "PRESENT_UNREVIEWED",
-      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261115",
-      "authority_status": "GIT_PRIMARY",
-      "project_initiation_gate": "REQUIRED",
-      "catalog_note": "Japanese light-novel series 女友達は頼めば意外とヤらせてくれる and its manga adaptation. Distinct prose and manga evidence for focalization, relationships and agency."
-    },
-    {
       "series_id": "oregairu",
       "stable_slug": "oregairu",
       "canonical_title": "Oregairu",
@@ -746,6 +825,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "overlord",
+      "stable_slug": "overlord",
+      "canonical_title": "Overlord",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/overlord/",
+      "canonical_entrypoint": "series/overlord/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261115",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese collected light novels オーバーロード; game-derived expectations, viewpoints, delegated power and changing institutions in the prose continuity."
     },
     {
       "series_id": "peach-girl",
@@ -966,6 +1061,22 @@
       "authority_status": "GIT_PRIMARY",
       "project_initiation_gate": "REQUIRED",
       "catalog_note": "Owner-accepted Japanese-LN foundation, architecture STABILIZED at completion; V01 byte-locked with locally retained, reverified locators. Japanese LN V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes read in full and closed; continuous sequential run through all supplied Japanese works authorized 2026-10-14 and complete; master ledger reconciled; high-water mark -another- (lower); checkpoint, longitudinal reconciliation, three specialist arguments, four character monographs, relationship arguments, integrated synthesis and reconstruction-readiness assessment closed at author level; no reconstruction model. Primary and deterministic derived evidence remain outside Git."
+    },
+    {
+      "series_id": "smoke-blue-no-ame-nochi-hare",
+      "stable_slug": "smoke-blue-no-ame-nochi-hare",
+      "canonical_title": "Smoke Blue no Ame nochi Hare",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/smoke-blue-no-ame-nochi-hare/",
+      "canonical_entrypoint": "series/smoke-blue-no-ame-nochi-hare/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261115",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga スモークブルーの雨のち晴れ by 波真田かもめ. Collected-manga study of adult relationships, work, care and the visual and linguistic representation of intimacy."
     },
     {
       "series_id": "solo-leveling",
