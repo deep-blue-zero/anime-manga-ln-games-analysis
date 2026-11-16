@@ -1,0 +1,16 @@
+{
+  "series_id": "boku-no-kanojo-wa-dekkawaii",
+  "stable_slug": "boku-no-kanojo-wa-dekkawaii",
+  "canonical_title": "Boku no Kanojo wa Dekkawaii",
+  "media": [
+    "MANGA"
+  ],
+  "repository_path": "series/boku-no-kanojo-wa-dekkawaii/",
+  "canonical_entrypoint": "series/boku-no-kanojo-wa-dekkawaii/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_UNREVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261115",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "sanorin's Japanese school romantic-comedy manga 僕の彼女はデッカワイイ. Collected-page study of scale, visibility, comic timing and relationship change."
+}
