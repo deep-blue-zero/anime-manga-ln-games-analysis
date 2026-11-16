@@ -96,6 +96,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "agents-of-the-four-seasons",
+      "stable_slug": "agents-of-the-four-seasons",
+      "canonical_title": "Agents of the Four Seasons",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/agents-of-the-four-seasons/",
+      "canonical_entrypoint": "series/agents-of-the-four-seasons/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261115",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese light-novel cycle 春夏秋冬代行者; seasonal offices, protection and obligation, focalized disclosure and the distinct Dance and Archer books."
+    },
+    {
       "series_id": "aobuta",
       "stable_slug": "aobuta",
       "canonical_title": "AoButa",
