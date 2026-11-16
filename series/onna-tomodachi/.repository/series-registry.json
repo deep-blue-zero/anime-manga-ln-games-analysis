@@ -1,0 +1,17 @@
+{
+  "series_id": "onna-tomodachi",
+  "stable_slug": "onna-tomodachi",
+  "canonical_title": "Onna Tomodachi wa Tanomeba Igai to Yarasete Kureru",
+  "media": [
+    "LIGHT_NOVEL",
+    "MANGA"
+  ],
+  "repository_path": "series/onna-tomodachi/",
+  "canonical_entrypoint": "series/onna-tomodachi/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_UNREVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261115",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Japanese light-novel series 女友達は頼めば意外とヤらせてくれる and its manga adaptation. Distinct prose and manga evidence for focalization, relationships and agency."
+}
