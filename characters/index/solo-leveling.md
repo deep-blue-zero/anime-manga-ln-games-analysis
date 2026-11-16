@@ -71,6 +71,7 @@ Reviewed analysis subjects in the `solo-leveling` namespace of the [Character An
   - `sung-jinwoo-reviewed-corpus`: LIGHT_NOVEL OTHER: Reviewed character analysis over the complete original Korean novel, including the main story, admitted side stories, and postscripts; manhwa evidence is excluded by the reconstruction artifacts.; continuity `solo-leveling-original-korean-novel`
 - Reviewed current evidence:
   - [`02-sung-jinwoo-character-deep-dive` — 02 SUNG JINWOO CHARACTER DEEP DIVE](../../series/solo-leveling/04%20Specialist%20Synthesis/02_SUNG_JINWOO_CHARACTER_DEEP_DIVE.md)
+  - [`02-sung-jinwoo-character-deep-dive-v2` — 02 SUNG JINWOO CHARACTER DEEP DIVE V2](../../series/solo-leveling/04%20Specialist%20Synthesis/02_SUNG_JINWOO_CHARACTER_DEEP_DIVE_V2.md)
   - [`sung-jinwoo-character-reconstruction-model` — SUNG JINWOO CHARACTER RECONSTRUCTION MODEL](../../series/solo-leveling/04%20Specialist%20Synthesis/SUNG_JINWOO_CHARACTER_RECONSTRUCTION_MODEL.md) — **active provisional authority**
 
 <a id="woo-jinchul"></a>
