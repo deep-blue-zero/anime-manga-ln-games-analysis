@@ -10,11 +10,58 @@ Recorded assessments of subjects in the `kamakura-sho` namespace of the [Charact
 
 - Registry file: [`characters/reconstruction_capabilities/kamakura-sho/asumi-ogasawara@original-novel.jsonl`](../reconstruction_capabilities/kamakura-sho/asumi-ogasawara@original-novel.jsonl)
 
+<a id="kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-v2-monograph-20261116-01"></a>
+
+#### Assessment `kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-v2-monograph-20261116-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `kamakura-sho:asumi-ogasawara`
+- Scope: continuity `original-novel`
+- Source boundary: Only the subject's two curated REVIEWED items at basis\_commit, each read in full with its front matter: the canonical v2.0 self-contained character monograph KSOA\_ASUMI\_OGASAWARA.md \(reconciled on 2026-11-15 with the independent KSOA-CB1 baseline, every Japanese quotation checked against its witness line\) and the canonical v1.1 relationship study KSOA\_PARTNERSHIP.md. Both analyse the seven accepted Japanese publisher EPUB witnesses \(V01-V07, through V07 EPI p\[0151\] and KSOA-V07-H-0015\) and both mark themselves do\_not\_use\_as\_literary\_evidence: they are analysis, not quotation sources. Outside the reader-only prologues every chapter is focalized through Motoya, so the items keep her acts, self-reports and his readings of her apart; this record does the same. The ledgers, deep readings, CB1 adjudication records, qualification record and project reconstruction specification they link were read only as method context; none is curated on this subject and no claim rests on them. Motoya's monograph and capability state are not borrowed. No primary source was inspected.
+- Temporal boundary: Asumi across the complete seven-novel series, V01 \(May-June 2022, one month after her transfer\) through the V07 epilogue \(31 July-5 August, summer 2023\), bound by volume. Address and relational behaviour differ by period: teasing-senior キミ and the bully card \(V01-V02\), Motoya's narratorial 'weak for handsome men' \(V01-V03\), physical familiarity \(V04\), あんた and open hostility to Sayaka and Emiri \(V05-V06\), and the return of キミ, the truce and the stated reliance \(V07\). Facts first disclosed late \(her mother's death, the apartment, the student romance, the shop's history\) are prior conditions, not development, and belong to her at every earlier state. The boundary limits evidence, not her knowledge; she has no access to Motoya's private thoughts or his final pledge, and in V07 he withholds Emiri's visit until Sayaka reveals it. Within-volume state changes are located only for the V06 freeze-out and the V07 epilogue.
+- Basis commit: `6fca4fab304d77d2c3d448e67b995fea480c37b0`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `8b38b3bffe2175217098f3cf47150a6e757974681a09f283cdbff145dfeaf8b7`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, including the owner calibration rulings; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Illustrative written-Japanese lines only, never presented as quotation; choose the action first, then the register.
+  - `DIALOGUE` condition: Bind to a volume period: キミ in V01-V03 and V07, あんた only in V05-V06 anger, the sugary register only in V01-V03.
+  - `DIALOGUE` condition: Recipients limited to the sampled classes: Motoya, witnesses, high-status interviewees, lying suspects, superiors, juniors, the drunk celebration setting.
+  - `DIALOGUE` condition: Never invent narrated inner monologue; no acoustic voice.
+  - `CROSS_SCENARIO` condition: Predict her method \(fix on an anomaly, admit no basis, make it testable by others, seek sanction, stage a disclosure\) and her pressure on liars within her stated limits.
+  - `CROSS_SCENARIO` condition: Give her use of confidences as alternatives tied to case relevance, not as a single prediction.
+  - `CROSS_SCENARIO` condition: Abstain on which anomaly she will notice; that is case-specific.
+  - `CROSS_SCENARIO` bounds: chronology A stated volume state: V01-V03 \(teasing キミ, bully card in V01-V02\) or V04-V07 \(debriefs, the V05-V06 hostility pattern only where Sayaka or Emiri are present\), with her knowledge limited to what she holds at that point.; interlocutor Motoya as her paired partner under a Kamakura joint investigation headquarters, with witnesses, suspects, gatekeepers, craftspeople and superiors of the classes the monograph samples; a new woman around Motoya is not covered by R6a.; settings A new criminal case in or near Kamakura investigated by the Kanagawa police, of the kind the seven cases sample.; No interview conducted under a superior's direct observation, no explicit prohibition from a superior, no physical danger beyond a single arrest.; No romantic decision and no private or home-life content beyond the located items.
+  - `MUNDANE_SOCIAL` condition: Settings the monograph samples: choosing and leading meals in Kamakura, guiding routes and local history, café visits, the case-end celebration with Motoya.
+  - `MUNDANE_SOCIAL` condition: Predict leadership, enthusiasm and teasing; at celebrations heavy drinking and grievances, without fixing the content of a grievance or any act beyond talk.
+  - `MUNDANE_SOCIAL` condition: No home routine, friends outside work or family scenes; none is shown.
+  - `ETHICAL_DELIBERATION` condition: Only her located positions: lawful means, deception of suspects accepted, no perjury, no publication, no gifts, honest warnings about testimony.
+  - `ETHICAL_DELIBERATION` condition: Treat promised discretion as a weak limit and give its use as alternatives.
+  - `PROFESSIONAL_CONTEXT` condition: Police investigative work in the Kamakura frame, with Motoya, at a stated period.
+  - `PROFESSIONAL_CONTEXT` condition: Supported: interviews \(soft opening, apologetic alibi formula, graded escalation, softening when the person yields\), bluffs within her limits, framing gaps for superiors, staged disclosures, debriefs with Motoya.
+  - `PROFESSIONAL_CONTEXT` condition: Not supported: foreign-language interviews \(she says she is hopeless at English\), outcomes of a superior's flat refusal, career or rank outcomes.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` B; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` D; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` B; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `development-cause-unshown` (evidence-backed limitation): The changes in address and relational behaviour across volumes have no shown cause; they may reflect her, the cases' social configurations or Motoya's attention.
+  - `discretion-not-inhibitor` (evidence-backed limitation): Promised discretion does not reliably restrain her: she uses confidences in V03, V05 and V06, in V05 and V06 against their source, and her apologies address disorder, not confidences.
+  - `drunk-speech-discount` (evidence-backed limitation): The V07 credit, the V06 バディ claim and the grievances about being taken for strong or plain are said drunk; the sober-drunk split is a tendency, and drunk statements are not to be projected into later sober conduct.
+  - `focalization-opacity` (evidence-backed limitation): Her thought is never narrated; outside the prologues every chapter is focalized through Motoya, whose unhedged readings of her are his view and once admittedly wrong. Every motive in a model of her is inference.
+  - `hospital-fear-unexplained` (evidence-backed limitation): The fear of hospitals is self-reported in V01 with an explanation deferred and never given; any link to her mother's death is speculation.
+  - `hostility-motive-undetermined` (evidence-backed limitation): Her hostility to women around Motoya has four competing readings \(attachment, proprietorial partnership, personality clash, drunk banter\) that the items leave open; the pattern covers Sayaka and Emiri only and is not to be generalized.
+  - `life-and-home-gaps` (evidence gap): Her life between about ten and twenty-seven, the headquarters posting, friendships outside work and home routine are blank in the source.
+  - `no-acoustic-voice` (evidence gap): The source is prose; voice quality exists only as Motoya's narrated descriptors.
+  - `romance-open` (evidence-backed limitation): Romantic intent toward Motoya is neither established nor excluded at the series end; his narrated counterevidence is affirmative.
+  - `untested-conditions` (evidence gap): No interview under a superior's direct observation, no open defiance of an explicit prohibition and no physical danger beyond the V02 arrest is shown.
+- Evidence at basis commit:
+  - [`kamakura-sho:asumi-ogasawara@original-novel#ksoa-g1-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6fca4fab304d77d2c3d448e67b995fea480c37b0/series/kamakura-sho/studies/KSOA_ASUMI_OGASAWARA.md)
+  - [`kamakura-sho:asumi-ogasawara@original-novel#ksoa-g1-partnership-study`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6fca4fab304d77d2c3d448e67b995fea480c37b0/series/kamakura-sho/studies/KSOA_PARTNERSHIP.md)
+- Supersedes: `kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-studies-20261114-01`
+
 <a id="kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-studies-20261114-01"></a>
 
 #### Assessment `kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-studies-20261114-01`
 
-- Recorded status: `STALE` — historical record; not current readiness
+- Recorded status: `SUPERSEDED` — historical record; replaced by a successor assessment
 - Entity: `kamakura-sho:asumi-ogasawara`
 - Scope: continuity `original-novel`
 - Source boundary: Only the subject's two curated REVIEWED items at basis\_commit, each read in full with its front matter: the canonical KSOA-G1 character monograph KSOA\_ASUMI\_OGASAWARA.md and the canonical KSOA-G1 directed relationship study KSOA\_PARTNERSHIP.md. Both are repository analysis of the seven accepted Japanese publisher EPUBs \(文春文庫 V01-V07, through V07 EPI p\[0151\] and KSOA-V07-H-0015\), and both mark themselves do\_not\_use\_as\_literary\_evidence, so they are analysis, not quotation sources. Most narration is focalized through Motoya, and the items separate her acts and explanations from his readings of her. The ledger entries, deep readings, project reconstruction specification and post-V07 readiness audit that the items link were read only as method context; they are not curated on this subject and no claim rests on them. Motoya's monograph and capability state are not borrowed.
@@ -46,6 +93,7 @@ Recorded assessments of subjects in the `kamakura-sho` namespace of the [Charact
 - Evidence at basis commit:
   - [`kamakura-sho:asumi-ogasawara@original-novel#ksoa-g1-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ba293c95436e3ebba51e57b144dedb59b802d19d/series/kamakura-sho/studies/KSOA_ASUMI_OGASAWARA.md)
   - [`kamakura-sho:asumi-ogasawara@original-novel#ksoa-g1-partnership-study`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ba293c95436e3ebba51e57b144dedb59b802d19d/series/kamakura-sho/studies/KSOA_PARTNERSHIP.md)
+- Superseded by: `kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-v2-monograph-20261116-01`
 - Stale reason: reconstruction\_status.py currentness at main 57a2a2026b88f3c9d09fbe0b4f90b62c4d768690 reports EFFECTIVELY\_STALE with reason EVIDENCE\_BYTES\_CHANGED: Kamakura-sho commits 8ece7539 and 5cad0cd4 \(PR \#598, reconciliation with an independent blind reading\) changed the referenced bytes of kamakura-sho:asumi-ogasawara@original-novel\#ksoa-g1-character-monograph \(KSOA\_ASUMI\_OGASAWARA.md, rewritten as v2.0\) and kamakura-sho:asumi-ogasawara@original-novel\#ksoa-g1-partnership-study \(KSOA\_PARTNERSHIP.md, revised to v1.1\). Discovery membership, scope and coverage are unchanged and both items remain canonical; a reassessment at a newer basis is required before this assessment applies.
 
 ### Subject `kamakura-sho:motoya-kitsukawa@original-novel`
