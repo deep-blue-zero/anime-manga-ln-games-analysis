@@ -4,10 +4,11 @@ subtitle: Portable conclusions for future analysis
 project: Solo Leveling Definitive Novel–Manhwa Synthesis
 document_id: SL_SYNTH_12
 version: '1.0'
-status: canonical
+status: superseded
 supersedes: []
-superseded_by: []
-do_not_use_as_current_authority: false
+superseded_by:
+- series/solo-leveling/04 Specialist Synthesis/12_COMPARATIVE_REFERENCE_MATRICES_AND_FINAL_QUESTIONS_V2.md
+do_not_use_as_current_authority: true
 source_scope:
 - Chugong's complete original Korean novel omnibus, including main story, 외전 1–21, and 후일담 1–2
 - Official English manhwa Volumes 1–15 for visual/adaptation evidence and manhwa-original continuation material

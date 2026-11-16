@@ -8,7 +8,8 @@ authority_generation: v2
 canonical_home: series/solo-leveling/04 Specialist Synthesis/09_KOREAN_NARRATION_VOICE_TERMINOLOGY_AND_TRANSLATION_V2.md
 version: '2.0'
 status: canonical
-supersedes: []
+supersedes:
+- series/solo-leveling/90 Legacy and Superseded/V1 Analysis/04 Specialist Synthesis/09_KOREAN_NARRATION_VOICE_TERMINOLOGY_AND_TRANSLATION.md
 superseded_by: []
 do_not_use_as_current_authority: false
 source_scope:

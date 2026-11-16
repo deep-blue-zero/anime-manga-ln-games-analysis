@@ -4,10 +4,11 @@ subtitle: Hunter society, public authority, private force, and the constitutiona
 project: Solo Leveling Definitive Novel–Manhwa Synthesis
 document_id: SL_SYNTH_07
 version: '1.0'
-status: canonical
+status: superseded
 supersedes: []
-superseded_by: []
-do_not_use_as_current_authority: false
+superseded_by:
+- series/solo-leveling/04 Specialist Synthesis/07_INSTITUTIONS_GUILDS_STATECRAFT_AND_GEOPOLITICS_V2.md
+do_not_use_as_current_authority: true
 source_scope:
 - 'Chugong''s complete original Korean novel omnibus: main story, 외전 1–21, 후일담 1–2'
 - Official English manhwa Volumes 1–15

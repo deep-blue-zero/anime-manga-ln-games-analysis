@@ -4,10 +4,11 @@ subtitle: Scope, source hierarchy, navigation, and executive orientation
 project: Solo Leveling Definitive Novel–Manhwa Synthesis
 document_id: SL_SYNTH_00
 version: '1.0'
-status: canonical
+status: superseded
 supersedes: []
-superseded_by: []
-do_not_use_as_current_authority: false
+superseded_by:
+- series/solo-leveling/04 Specialist Synthesis/00_README_AND_CORPUS_MAP_V2.md
+do_not_use_as_current_authority: true
 source_scope:
 - 'Chugong''s complete original Korean novel omnibus: main story, 외전 1–21, 후일담 1–2'
 - Official English manhwa Volumes 1–15
@@ -154,11 +155,11 @@ Supporting production documents:
 
 These non-numbered specialist artifacts extend the canonical synthesis for character modeling and simulation. They do **not** supersede the numbered analytical corpus. The original Korean novel governs their primary-source claims; the numbered synthesis is used as an assisting framework and retrieval map. Their current authority state is `active_provisional` pending hand-validated dialogue/register passes and withheld-scene testing.
 
-- `SUNG_JINWOO_CHARACTER_RECONSTRUCTION_MODEL.md` ([Drive-artifact reference](../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md)) - operational speech, psychology, relationship-register, and behavioral model for Jinwoo.
-- `GO_GUNHEE_CHARACTER_RECONSTRUCTION_MODEL.md` ([Drive-artifact reference](../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md)) - operational model for Go Gunhee, emphasizing warrior-to-institution-builder continuity, rhetorical flexibility, consent, public stewardship, reciprocal punishment, and succession.
-- `WOO_JINCHUL_CHARACTER_RECONSTRUCTION_MODEL.md` ([Drive-artifact reference](../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md)) - operational model for Woo Jinchul, emphasizing evidence discipline, anomaly handling, fear-performance, institutional boundaries, crisis command, and reset-world personality continuity.
-- `YOO_JINHO_CHARACTER_RECONSTRUCTION_MODEL.md` ([Drive-artifact reference](../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md)) - operational model for Yoo Jinho, emphasizing voluntary loyalty, fear-inclusive courage, `형님`-conditioned speech, paternal recognition, fairness, business competence, emotional expressivity, and money-as-proof behavior.
-- `CHA_HAE_IN_CHARACTER_RECONSTRUCTION_MODEL.md` ([Drive-artifact reference](../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md)) - operational model for Cha Hae-In, emphasizing professional directness, privacy, competitive integrity, responsibility toward weaker people, romantic inhibition with behavioral initiative, and reset-world athletic personality continuity.
+- `SUNG_JINWOO_CHARACTER_RECONSTRUCTION_MODEL.md` ([Drive-artifact reference](../../../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md)) - operational speech, psychology, relationship-register, and behavioral model for Jinwoo.
+- `GO_GUNHEE_CHARACTER_RECONSTRUCTION_MODEL.md` ([Drive-artifact reference](../../../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md)) - operational model for Go Gunhee, emphasizing warrior-to-institution-builder continuity, rhetorical flexibility, consent, public stewardship, reciprocal punishment, and succession.
+- `WOO_JINCHUL_CHARACTER_RECONSTRUCTION_MODEL.md` ([Drive-artifact reference](../../../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md)) - operational model for Woo Jinchul, emphasizing evidence discipline, anomaly handling, fear-performance, institutional boundaries, crisis command, and reset-world personality continuity.
+- `YOO_JINHO_CHARACTER_RECONSTRUCTION_MODEL.md` ([Drive-artifact reference](../../../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md)) - operational model for Yoo Jinho, emphasizing voluntary loyalty, fear-inclusive courage, `형님`-conditioned speech, paternal recognition, fairness, business competence, emotional expressivity, and money-as-proof behavior.
+- `CHA_HAE_IN_CHARACTER_RECONSTRUCTION_MODEL.md` ([Drive-artifact reference](../../../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md)) - operational model for Cha Hae-In, emphasizing professional directness, privacy, competitive integrity, responsibility toward weaker people, romantic inhibition with behavioral initiative, and reset-world athletic personality continuity.
 
 Recommended use: character reconstruction question -> relevant reconstruction model -> cited `index_split_XXX` primary-source anchor -> numbered synthesis / Document 13 for longitudinal or interpretive cross-check.
 
