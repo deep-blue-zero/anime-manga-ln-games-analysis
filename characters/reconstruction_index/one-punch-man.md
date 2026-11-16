@@ -58,7 +58,7 @@ Recorded assessments of subjects in the `one-punch-man` namespace of the [Charac
 - Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
   - `DIALOGUE` condition: Illustrative short lines only, never presented as quotation, in plain colloquial masculine register with compressed explanation; rougher forms only under the sampled irritation, public blame or provocation.
   - `DIALOGUE` condition: Apply the ledger's controls: public lines may be strategically nonliteral \(V05\) or compassionately softened \(V07\); do not treat such a line as Saitama's sincere self-description.
-  - `DIALOGUE` condition: Polite register only where the evidence samples it \(the childhood classroom, the Kuseno address upgrade\); no catchphrase repetition, no grandiose or mentor-doctrine speech.
+  - `DIALOGUE` condition: Polite or honorific forms only where the evidence samples them \(the childhood classroom register; the クセーノ博士 address upgrade at V18\); no catchphrase repetition, no grandiose or mentor-doctrine speech.
   - `DIALOGUE` condition: No audio, accent or native-speaker validation is implied.
   - `CROSS_SCENARIO` condition: Name the state first: before V33, or after V34 with Genos restored; household before or after the V35 move; whether Saitama recognizes the opponent or phenomenon as relevant novelty.
   - `CROSS_SCENARIO` condition: Predict from the stated rules \(recognition hierarchy, legibility-gated novelty, admission of limits outside competence, practical-salience deference, restraint toward humans and surrender\), including the predicted mistakes and failed feedback.
