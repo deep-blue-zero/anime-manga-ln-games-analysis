@@ -6,7 +6,8 @@ document_id: SL_SYNTH_13_V2
 authority_generation: v2
 version: '2.0'
 status: canonical
-supersedes: []
+supersedes:
+- series/solo-leveling/90 Legacy and Superseded/V1 Analysis/03 Evidence and Crosswalk/13_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
 superseded_by: []
 do_not_use_as_current_authority: false
 source_scope:

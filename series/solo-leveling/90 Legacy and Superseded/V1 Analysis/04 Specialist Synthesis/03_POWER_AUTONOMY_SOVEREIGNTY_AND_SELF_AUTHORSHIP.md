@@ -4,10 +4,11 @@ subtitle: What power changes, what it cannot solve, and who gets to decide what 
 project: Solo Leveling Definitive Novel–Manhwa Synthesis
 document_id: SL_SYNTH_03
 version: '1.0'
-status: canonical
+status: superseded
 supersedes: []
-superseded_by: []
-do_not_use_as_current_authority: false
+superseded_by:
+- series/solo-leveling/04 Specialist Synthesis/03_POWER_AUTONOMY_SOVEREIGNTY_AND_SELF_AUTHORSHIP_V2.md
+do_not_use_as_current_authority: true
 source_scope:
 - 'Chugong''s complete original Korean novel omnibus: main story, 외전 1–21, 후일담 1–2'
 - Official English manhwa Volumes 1–15
