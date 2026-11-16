@@ -49,6 +49,7 @@ All G7 roots are `PRESENT_REVIEWED` and `GIT_PRIMARY` within authority epoch 1. 
 
 ## Post-cutover Git-native series roots
 
+- [`a-certain-dark-side-item/`](a-certain-dark-side-item/) — A Certain Dark Side ITEM — Japanese strelka manga adaptation とある暗部の少女共棲, Dengeki Comics NEXT; team agency, covert tasking and secrecy as presented by collected-page form.
 - [`a-certain-scientific-accelerator/`](a-certain-scientific-accelerator/) — A Certain Scientific Accelerator — Distinct A Certain Scientific Accelerator manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison.
 - [`a-certain-scientific-mental-out/`](a-certain-scientific-mental-out/) — A Certain Scientific Mental Out — Distinct A Certain Scientific Mental Out manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison.
 - [`a-certain-scientific-railgun/`](a-certain-scientific-railgun/) — A Certain Scientific Railgun — Distinct A Certain Scientific Railgun manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison.
