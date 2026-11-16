@@ -28,6 +28,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Chitose Is in the Ramune Bottle](../series/chiramune/) — `series/chiramune/` — post-cutover Git-native analytical root; original-language light-novel sources remain in the governed Drive evidence plane.
 - [Classroom of the Elite](../series/classroom-of-the-elite/) — `series/classroom-of-the-elite/`
 - [Cosmic Princess Kaguya! / 超かぐや姫！](../series/cosmic-princess-kaguya/) — `series/cosmic-princess-kaguya/` — Single Japanese animated feature: narrative, character and directed relationships, cinematic form and musical dramaturgy, with independent continuous-AV reading and bundle-mediated reconciliation.
+- [Delicious in Dungeon](../series/delicious-in-dungeon/) — `series/delicious-in-dungeon/` — Ryoko Kui's Japanese manga ダンジョン飯 (Dungeon Meshi). Manga-bounded study of group decision-making, food and material constraints, dungeon ecology, and visual narration.
 - [Domestic Girlfriend / ドメスティックな彼女](../series/domestic-girlfriend/) — `series/domestic-girlfriend/` — Japanese manga analysis of character development, directed relationships, page form and source-language expression, with bounded reconstruction and distinct source horizons.
 - [Dr. STONE](../series/dr-stone/) — `series/dr-stone/` — Japanese manga project for Dr.STONE, with numbered main volumes and the separately scoped 科学王国事典 official fanbook; fictional explanation, depicted capability and external reference remain distinct evidence classes.
 - [Gakuen Idolmaster](../series/gakuen-idolmaster/) — `series/gakuen-idolmaster/`
@@ -82,6 +83,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [THE IDOLM@STER CINDERELLA GIRLS (2015 Anime)](../series/the-idolmaster-cinderella-girls-2015-anime/) — `series/the-idolmaster-cinderella-girls-2015-anime/`
 - [THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)](../series/the-idolmaster-cinderella-girls-mobile-games/) — `series/the-idolmaster-cinderella-girls-mobile-games/`
 - [THE IDOLM@STER CINDERELLA GIRLS U149](../series/the-idolmaster-cinderella-girls-u149/) — `series/the-idolmaster-cinderella-girls-u149/`
+- [The Irregular at Magic High School - Yoru no Tobari ni Yami wa Hirameku](../series/mahouka-yoru-no-tobari/) — `series/mahouka-yoru-no-tobari/` — Japanese light-novel spin-off 魔法科高校の劣等生 夜の帳に闇は閃く; the Kuroba twins, assignment and loyalty, cover identities and disclosure inside the prose subseries.
 - [The Ramparts of Ice / 氷の城壁](../series/the-ramparts-of-ice/) — `series/the-ramparts-of-ice/` — Japanese full-colour tankobon analysis of character development, directed relationships, source-language expression and edition-specific visual form, with bounded reconstruction.
 - [Three Days of Happiness](../series/three-days-of-happiness/) — `series/three-days-of-happiness/` — Standalone Japanese novel 三日間の幸福 by Sugaru Miaki; independent prose project with edition-bounded source and reconstruction responsibilities.
 - [To Be Hero X](../series/to-be-hero-x/) — `series/to-be-hero-x/`
