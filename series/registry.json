@@ -983,6 +983,22 @@
       "catalog_note": "Owner-accepted Japanese-LN foundation, architecture STABILIZED at completion; V01 byte-locked with locally retained, reverified locators. Japanese LN V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes read in full and closed; continuous sequential run through all supplied Japanese works authorized 2026-10-14 and complete; master ledger reconciled; high-water mark -another- (lower); checkpoint, longitudinal reconciliation, three specialist arguments, four character monographs, relationship arguments, integrated synthesis and reconstruction-readiness assessment closed at author level; no reconstruction model. Primary and deterministic derived evidence remain outside Git."
     },
     {
+      "series_id": "smoke-blue-no-ame-nochi-hare",
+      "stable_slug": "smoke-blue-no-ame-nochi-hare",
+      "canonical_title": "Smoke Blue no Ame nochi Hare",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/smoke-blue-no-ame-nochi-hare/",
+      "canonical_entrypoint": "series/smoke-blue-no-ame-nochi-hare/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261115",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga スモークブルーの雨のち晴れ by 波真田かもめ. Collected-manga study of adult relationships, work, care and the visual and linguistic representation of intimacy."
+    },
+    {
       "series_id": "solo-leveling",
       "stable_slug": "solo-leveling",
       "canonical_title": "Solo Leveling",
