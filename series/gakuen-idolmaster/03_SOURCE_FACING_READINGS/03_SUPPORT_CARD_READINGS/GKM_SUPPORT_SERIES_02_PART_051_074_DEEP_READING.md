@@ -12,12 +12,17 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-24'
+version: "1.1"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15: REVISE (wording only) of every masculine pronoun for Mao to she/her with a pronoun method note (GKM-SAA-013/031), and REVISE (narrowing) of the story_0071 Sena–Kotone consent critique in §20, §28.12 and §33.7 (HSCA-067)."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM SUPPORT SERIES 02 PART 051–074 DEEP READING
+
+> **Revision record — v1.1, 2026-11-15 (source-to-analysis audit corrections).** (1) REVISE, wording only, GKM-SAA-013 / GKM-SAA-031: all 43 masculine pronouns for Mao, on 28 lines in §5, §8, §11, §14, §15, §18, §21, §24 and §28.4, now read she/her, or name Mao or the other participant where a pronoun would be ambiguous; no analytical claim changes. A pronoun method note is added to §0. (2) REVISE (narrowing), HSCA-067: §20 gains a dated note that `story_0071` shows concealed authorship, not a decision taken for Kotone (`adv_csprt-2-0071_01` L71, L136, L140, L144); the informed-consent caution is kept, and the earlier Phase-6 warning text is preserved above the note. §28.12 and §33.7 carry matching dated qualifications.
 
 ## 0. Scope, method, and principal finding
 
@@ -32,6 +37,8 @@ Accordingly, `0055`, `0057`, and `0078` are not present in this bundle, while `0
 As throughout Phase 5, story numbering is not converted into global chronology. The two parts grouped under one support-story ID are related evidence surfaces, not automatically adjacent scenes. Most stories remain modular C2/C4-compatible evidence unless explicit memory, school year, season, institutional role, or relationship-state language supplies a stronger anchor.
 
 The A2 dialogue extraction is the reading surface. A1 raw-script paths remain the wording authority and are retained in the locator appendix. No uninspected facial animation, card illustration, camera state, costume rendering, or vocal nuance is promoted from the text alone. Performance-sensitive distinctions are routed to the audiovisual queue.
+
+**Pronoun convention for Mao (GKM-SAA-013 / GKM-SAA-031, 2026-11-15).** Mao's ボク and prince register are not grounds for masculine English pronouns; pronouns follow the character, not the persona (see MAO-C14). Mao describes herself as a girl (`adv_dear_amao_003` L81; `adv_cidol-amao-3-015_02` L147). This reading therefore uses she/her for Mao, and names Mao where a pronoun could be confused with another person in the scene. Quoted Japanese is unchanged.
 
 ### Principal tranche thesis — care becomes shared interpretation
 
@@ -243,16 +250,16 @@ The pair is a useful falsification test for character simulators. Given the same
 **Participants:** Sumika, Mao  
 **Functions:** clothing, reciprocal gaze, humor, institutional outreach, performance rehearsal
 
-Mao asks Sumika for help choosing clothing. Sumika happily turns the task into a dress-up session until Mao notices. Instead of ending the play, Mao reverses it: a jacket that does not fit him suits Sumika, and he begins styling *her* with equal enthusiasm.
+Mao asks Sumika for help choosing clothing. Sumika happily turns the task into a dress-up session until Mao notices. Instead of ending the play, Mao reverses it: a jacket that does not fit Mao suits Sumika, and Mao begins styling *Sumika* with equal enthusiasm.
 
-The important point is reciprocal gaze. Mao is not simply the prince who evaluates others or the senior who receives junior fashion knowledge. He notices Sumika's height, legs, and model-like proportions and becomes excited by how clothing works on her body.
+The important point is reciprocal gaze. Mao is not simply the prince who evaluates others or the senior who receives junior fashion knowledge. Mao notices Sumika's height, legs, and model-like proportions and becomes excited by how clothing works on Sumika's body.
 
 Part 2 reveals a different kind of performance adaptation. Mao and Sumika have been assigned a comedy routine for prospective Hatsuboshi applicants because the student council wants the school to feel approachable. Sumika thinks the demand is unreasonable. Mao treats it as a job and studies how to make it work, even deliberately feeding Sumika a false claim about Idol Course students walking through halls in dance steps so that her natural `なんでやねーん` becomes the desired straight-man response.
 
 ### Claim transitions
 
 - **Mao — STRENGTHEN:** performance authorship extends into humor and outreach work, not only prince acting or dramatic roles.
-- **Mao — STRENGTHEN:** he can engineer another person's spontaneous register instead of demanding polished acting.
+- **Mao — STRENGTHEN:** she can engineer another person's spontaneous register instead of demanding polished acting.
 - **Sumika — STRENGTHEN:** fashion competence is both technical and playful; she accepts role reversal when Mao becomes stylist.
 - **Mao ↔ Sumika — STRENGTHEN:** reciprocal teasing/styling has become low-stakes social play rather than solely production collaboration.
 - **Institution — STRENGTHEN:** student-council recruitment strategy includes making Idol Course life legible and approachable to prospective students.
@@ -337,9 +344,9 @@ Kotone should not be treated as globally suspicious of nurturing senior women. T
 **Participants:** Hiro, Mao, dance trainer  
 **Functions:** martial-arts training, childhood play, software/game expertise, gamification risk
 
-Hiro decides that martial-arts training might strengthen body and mind and invents a self-imposed challenge: catch a falling leaf before it reaches the ground. Mao recognizes the structure immediately because he invented similar “training” games as a child.
+Hiro decides that martial-arts training might strengthen body and mind and invents a self-imposed challenge: catch a falling leaf before it reaches the ground. Mao recognizes the structure immediately because she herself invented similar “training” games as a child.
 
-Mao does not mock the impulse. He redirects it toward fundamentals and offers to teach basic forms.
+Mao does not mock the impulse. She redirects it toward fundamentals and offers to teach basic forms.
 
 This is a small but useful overlap between them: both can turn development into stylized challenge, but Mao has enough embodied training to know where fantasy needs technique.
 
@@ -352,7 +359,7 @@ This is analytically valuable because it shows **Hiro recognizing an unintended 
 ### Claim transitions
 
 - **Hiro — STRENGTHEN:** technical/software competence includes product-behavior observation and iterative design judgment.
-- **Mao — STRENGTHEN:** challenge/reward structures can pull his disciplined personality into overinvestment.
+- **Mao — STRENGTHEN:** challenge/reward structures can pull her disciplined personality into overinvestment.
 - **Mao — STRENGTHEN:** childhood imagination and current training discipline are continuous rather than opposed.
 - **Hiro ↔ Mao — STRENGTHEN:** expertise is strongly bidirectional—Mao supplies embodied technique; Hiro supplies systems/design expertise.
 - **Institution — STRENGTHEN:** Idol Course students participate in ordinary-course club projects across school subcultures.
@@ -433,15 +440,15 @@ Temari's internal shift from weight panic to delighted reception of Rinami's pra
 **Participants:** Kotone, Mao  
 **Functions:** Halloween play, fear response, remembered preference, sweet coffee identity
 
-Mao is choosing a Halloween costume and remembers that Rinami teased him the previous year by proposing a bunny outfit. He has come alone this time because he wants to choose something “cool.”
+Mao is choosing a Halloween costume and remembers that Rinami teased her the previous year by proposing a bunny outfit. She has come alone this time because she wants to choose something “cool.”
 
-Kotone hides, appears as a zombie, and scares him badly enough that his composed senior image collapses into a startled cry. Kotone immediately recognizes that she may have gone too far.
+Kotone hides, appears as a zombie, and scares Mao badly enough that Mao's composed senior image collapses into a startled cry. Kotone immediately recognizes that she may have gone too far.
 
 The point is not “Mao is secretly cowardly.” The point is role permeability. Kotone has enough relational access to create a scene in which Mao's unguarded reaction appears without making the relationship unsafe.
 
-Part 2 is subtler. Kotone makes coffee jelly because Mao previously said he likes coffee. Mao's private reaction shows anxiety about the coffee bitterness, but Kotone adds a very sweet condensed-milk sauce because that is how *she* likes to make the dessert. Mao is relieved, genuinely enjoys it, and considers trying the combination again.
+Part 2 is subtler. Kotone makes coffee jelly because Mao previously professed to like coffee. Mao's private reaction shows anxiety about the coffee bitterness, but Kotone adds a very sweet condensed-milk sauce because that is how *she* likes to make the dessert. Mao is relieved, genuinely enjoys it, and considers trying the combination again.
 
-This should not be overread as Kotone deliberately exposing the black-coffee pose. The text does not establish that she knows. What it does show is that an ordinary gift accidentally creates a bridge between **Mao's stated coffee identity and his actual sweet preference**.
+This should not be overread as Kotone deliberately exposing the black-coffee pose. The text does not establish that she knows. What it does show is that an ordinary gift accidentally creates a bridge between **Mao's stated coffee identity and her actual sweet preference**.
 
 ### Claim transitions
 
@@ -521,15 +528,15 @@ Lilja's desire to “fully reproduce” `ごきげんよう` is a strong reminde
 **Participants:** Mao, Misuzu  
 **Functions:** dorm leadership, fatigue, naps, training autonomy, senior/junior perception
 
-Mao goes looking for Misuzu because she has skipped practice. He intends to correct her, discovers her preferred nap location, and falls asleep there himself because the environment is genuinely comfortable.
+Mao goes looking for Misuzu because she has skipped practice. Mao intends to correct Misuzu, discovers Misuzu's preferred nap location, and falls asleep there herself because the environment is genuinely comfortable.
 
 Misuzu interprets Mao's fatigue generously: dorm management is hard, especially with a lively first-year cohort.
 
-When Mao wakes, he does not conclude that skipping practice is therefore acceptable. He acknowledges the appeal of the spot and still tells Misuzu to attend training.
+When Mao wakes, she does not conclude that skipping practice is therefore acceptable. She acknowledges the appeal of the spot and still tells Misuzu to attend training.
 
-Part 2 repeats the negotiation more directly. Mao finds Misuzu asleep in the dance room, wakes her with theatrical `sleeping beauty` language, and invites her to train with him. Misuzu declines: she has her own pace.
+Part 2 repeats the negotiation more directly. Mao finds Misuzu asleep in the dance room, wakes her with theatrical `sleeping beauty` language, and invites her to train together. Misuzu declines: she has her own pace.
 
-Mao accepts the refusal and does his own practice.
+Mao accepts the refusal and does her own practice.
 
 This is useful because it distinguishes **rule enforcement from takeover**. Mao can disapprove of Misuzu's pace while allowing her to retain ownership over it once the immediate shared obligation is not controlling the scene.
 
@@ -537,8 +544,8 @@ Misuzu watches Mao's high-quality practice and then privately concludes that the
 
 ### Claim transitions
 
-- **Mao — STRENGTHEN:** dorm leadership combines normative expectations with recipient autonomy; he does not automatically coerce compliance outside clear shared duties.
-- **Misuzu — STRENGTHEN:** she can accurately perceive and appreciate Mao's effort while refusing to adopt his effort level.
+- **Mao — STRENGTHEN:** dorm leadership combines normative expectations with recipient autonomy; she does not automatically coerce compliance outside clear shared duties.
+- **Misuzu — STRENGTHEN:** she can accurately perceive and appreciate Mao's effort while refusing to adopt Mao's effort level.
 - **Mao ↔ Misuzu — PROMOTE:** the pair can negotiate incompatible work rhythms without turning disagreement into moral hostility.
 - **Mao — STRENGTHEN:** visible fatigue is compatible with high-functioning senior care; competence does not erase workload cost.
 
@@ -556,25 +563,25 @@ The final beat where Misuzu decides Mao may be “a little strange” should rem
 
 Tsubame asks Mao to repair a torn costume. Mao uses embroidery to disguise the damage and adds an enormous gold dragon. Tsubame initially hates the conspicuous result.
 
-Then Mao explains why he chose it: Tsubame's stage looked to him like a golden ascending dragon, forcefully climbing into the sky.
+Then Mao explains why she chose it: Tsubame's stage looked to Mao like a golden ascending dragon, forcefully climbing into the sky.
 
 Tsubame changes her mind.
 
-This scene is a compact statement of Mao's artistic process. Craft is not merely technical repair. He interprets another performer, materializes the interpretation, and then offers it back to the performer as an object.
+This scene is a compact statement of Mao's artistic process. Craft is not merely technical repair. She interprets another performer, materializes the interpretation, and then offers it back to the performer as an object.
 
-The second part reveals that Mao and Tsubame regularly align in film and book taste. Tsubame raises Mao's child-actor history and asks why he does not pursue acting alongside idol work.
+The second part reveals that Mao and Tsubame regularly align in film and book taste. Tsubame raises Mao's child-actor history and asks why Mao does not pursue acting alongside idol work.
 
-Mao's answer is one of the clearest career-priority statements in the support corpus. He still loves acting and wants to do it, but first wants to become a top idol. He rejects half-measures: the ideal is to become someone recognized at the top of idol work **and** active as an actor.
+Mao's answer is one of the clearest career-priority statements in the support corpus. She still loves acting and wants to do it, but first wants to become a top idol. She rejects half-measures: the ideal is to become someone recognized at the top of idol work **and** active as an actor.
 
 This is not renunciation of the actor self. It is sequencing.
 
 ### Claim transitions
 
-- **Mao — STRENGTHEN:** role authorship includes translating his reading of another performer into costume/craft decisions.
+- **Mao — STRENGTHEN:** role authorship includes translating her reading of another performer into costume/craft decisions.
 - **Tsubame — STRENGTHEN:** strong aesthetic resistance can reverse when the symbolic rationale fits her self-understanding.
 - **Mao — STRENGTHEN:** acting remains an affirmative future ambition; current idol priority is a chosen order of operations, not rejection of the acting vocation.
 - **Mao ↔ Tsubame — PROMOTE:** shared film/book taste provides an ordinary friendship channel outside hierarchy and competition.
-- **Mao — REJECT:** any model that requires him to “leave acting behind” to become authentic.
+- **Mao — REJECT:** any model that requires her to “leave acting behind” to become authentic.
 
 ---
 
@@ -661,7 +668,7 @@ The scene itself shows that **performing the surface form of intimacy does not m
 
 Sena and Mao encounter one another carrying large quantities of Valentine's chocolate from students and fans. Both focus less on quantity than on labor: chosen wrapping colors, cards, letters, and the time someone spent preparing a gift.
 
-Mao says the gifts are so meaningful he hesitates to open them. Sena agrees that letters are especially enjoyable. Mao mentions writing replies.
+Mao says the gifts are so meaningful she hesitates to open them. Sena agrees that letters are especially enjoyable. Mao mentions writing replies.
 
 This is useful because it frames fan relation as reciprocal attention rather than one-way adoration. Neither treats popularity as abstract status; both notice **evidence of another person's effort**.
 
@@ -751,6 +758,8 @@ Temari agrees to secrecy.
 
 When modeling Sena and Kotone, **do not equate accurate talent perception with authority to decide for Kotone**. This story is direct counterevidence.
 
+**Narrowed 2026-11-15 (HSCA-067; REVISE).** What this scene shows is concealed authorship, not a decision taken for Kotone. Sena conceals that the campaign was her idea in order to pre-empt a refusal based on who proposed it (`adv_csprt-2-0071_01` L136). The school issued the request, and Kotone kept and exercised the choice to accept: Sena is glad Kotone took the job (L140), and Kotone told Temari about it herself (L71). The only in-scene observer, Temari, reads Sena as clumsy, `かなり不器用？` (L144), not as manipulative. The informed-consent caution stands, because withholding who originated an offer in order to change the recipient's choice is a consent problem. The phrase “authority to decide for Kotone” is not supported by this scene, and neither the section heading's “manipulative” nor “consent avoidance” in the transitions should be read beyond concealed authorship that pre-empts a source-based refusal. Earlier wording is kept above.
+
 ---
 
 # 21. `story_0072` — Mao and Saki: losing can be craft rather than defeat
@@ -759,7 +768,7 @@ When modeling Sena and Kotone, **do not equate accurate talent perception with a
 **Participants:** Mao, Saki  
 **Functions:** acting, stage combat, audience orientation, star presence, role adaptation
 
-Mao coaches Saki through a sword-fighting scene and discovers that she has enough martial background to absorb the physical material quickly. He then introduces a concept Saki initially dislikes: the professional skill of the `斬られ役`, a performer whose job is to lose convincingly so that the protagonist looks strong.
+Mao coaches Saki through a sword-fighting scene and discovers that she has enough martial background to absorb the physical material quickly. Mao then introduces a concept Saki initially dislikes: the professional skill of the `斬られ役`, a performer whose job is to lose convincingly so that the protagonist looks strong.
 
 Saki's reaction is completely characteristic: even in acting, losing sounds frustrating.
 
@@ -868,11 +877,11 @@ Part 2 is much more important for continuity. It is explicitly a first-year scen
 
 Mao volunteers.
 
-His performance goes poorly. He says this is not his “real” self and falls back into the old height logic: once he grows taller, he will become the cool Mao he imagines.
+Mao's performance goes poorly. Mao says this is not her “real” self and falls back into the old height logic: once she grows taller, she will become the cool Mao she imagines.
 
-Rinami tells him he is already cool.
+Rinami tells Mao that Mao is already cool.
 
-Then she asks him to practice with her because she also wants to catch Sena and Tsubame.
+Then Rinami asks Mao to practice with her because she also wants to catch Sena and Tsubame.
 
 This is a major Phase-6 promotion. Rinami's affirmation is not late-stage reassurance after Mao's identity reconstruction. It exists **inside the earlier insecure period**, while Mao still believes physical growth will solve the gap between desired and actual self.
 
@@ -1044,7 +1053,7 @@ This tranche materially strengthens Mao's role plurality:
 - film/book enthusiast;
 - actor who still wants a future acting career after top-idol achievement.
 
-Most important is `story_0075`: Rinami recognized him as cool during first-year insecurity, before his mature role-authorship model stabilized.
+Most important is `story_0075`: Rinami recognized Mao as cool during first-year insecurity, before Mao's mature role-authorship model stabilized.
 
 ## 28.5 Katsuragi Lilja — STRENGTHEN
 
@@ -1125,7 +1134,7 @@ Sena continues to gain ordinary reversibility:
 
 - she can be taught by Ume;
 - she can be embarrassed by Temari's “cute” judgment;
-- she can be an intense Kotone fan/producer whose correct talent judgment coexists with consent-avoidant tactics;
+- she can be an intense Kotone fan/producer whose correct talent judgment coexists with consent-avoidant tactics (narrowed 2026-11-15, HSCA-067: in `story_0071` she conceals her authorship to pre-empt a refusal based on who proposed it, while Kotone retains and exercises the choice to accept, and Temari reads this as clumsiness; see §20);
 - she thinks institutionally about what remains after departure.
 
 The key warning remains:
@@ -1324,7 +1333,7 @@ Mao explicitly wants both: top-idol achievement first, acting work afterward/alo
 
 ## 33.7 “Sena's developmental judgment is benevolent, therefore relationally safe” — REJECT
 
-The Kotone campaign shows accurate talent judgment paired with deliberate circumvention of anticipated refusal.
+The Kotone campaign shows accurate talent judgment paired with deliberate circumvention of anticipated refusal. (Narrowed 2026-11-15, HSCA-067: the circumvention is concealed authorship; the school made the request and Kotone kept and exercised the choice to accept; see §20.)
 
 ## 33.8 “Close relationships are those without conflict” — REJECT
 

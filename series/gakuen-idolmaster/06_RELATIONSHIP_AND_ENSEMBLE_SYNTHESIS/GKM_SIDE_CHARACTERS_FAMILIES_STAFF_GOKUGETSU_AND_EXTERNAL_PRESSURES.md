@@ -13,12 +13,17 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-24'
+version: '2.1'
+revised: '2026-11-15'
+revision_note: 'Source-to-analysis audit 2026-11-15 targeted corrections (REVISE / STRENGTHEN / OPEN): merges the Juo father, 十王社長 and Ryuusei Juo into one entity, adds route-scoped family, staff, Gokugetsu/961 and secondary-figure evidence, and records China household gatekeeping as OPEN; all other content unchanged'
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM SIDE CHARACTERS, FAMILIES, STAFF, GOKUGETSU, AND EXTERNAL PRESSURES
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** The file had no version key before this revision; its generation-V2 text is treated as v2.0. REVISE: Sena's father, 十王社長, President Juo and Ryuusei Juo / 十王龍正 are one person (§2.4, §5.1, §12, §13; GKM-SAA-033 with GKM-SAA-252); the Hanami parents are differentiated (§2.1, GKM-SAA-239); Lilja's mother kept opposing the plan (§2.6, GKM-SAA-124); the Juo evaluator's eye is reportedly shared rather than inherited (§2.4, GKM-SAA-250); the Gekka romanization gains its metadata basis (§4.2, GKM-SAA-261). STRENGTHEN: dated, track-labelled additions in §2.1–§2.10, §3.1, §4.1–§4.6, §5.1, §7.1–§7.5, §14.2 and §15 Q12 (GKM-SAA-001, 002, 009, 020, 022, 035, 047, 074, 086, 089, 090, 096, 126, 171, 192, 197, 218, 230, 236, 245, 287; HSCA-043, HSCA-145). OPEN: China's household gatekeeping of the Producer is recorded without a romance conclusion (§2.3, GKM-SAA-016). Each changed formulation names its v2.0 wording in place. The principal thesis and all other sections are unchanged.
 
 ## 0. Purpose, authority, and principal thesis
 
@@ -173,7 +178,7 @@ Saki and Ume are often read through extraordinary individual discipline. V2 requ
 
 The Hanami household supplies an elite athletic ecology:
 
-- professional/elite athlete parents;
+- professional/elite athlete parents (v2.0 wording; differentiated below, GKM-SAA-239);
 - family training methodology;
 - substantial equipment at home;
 - the Hanami Training Center;
@@ -205,6 +210,14 @@ Saki's later food, body, recovery, equipment, and scheduling competence can ther
 
 > **personal optimization + sibling obligation + inherited athletic culture + accumulated practice.**
 
+### Grandparents, differentiated parents and a shared facility (GKM-SAA-171, GKM-SAA-239, HSCA-145) — 2026-11-15
+
+**Grandparents (STRENGTHEN, GKM-SAA-171).** The v2.0 model had no grandparents. In D-SAKI, Saki says the parents were almost never home and that the grandparents looked after the sisters from her earliest memories, while she and Ume spent much time alone together (`adv_dear_hski_010` L290–L302). In U1 a farming grandfather sends the food that Saki shares with Kotone (`adv_unit_01-02_03` L492–L519). In SL1.1 support 3-0112_02 the grandparents prepared matching Halloween costumes for both sisters, and Saki calls them her proud family (`adv_csprt-3-0112_02` L7–L37). Saki's care for Ume therefore grew inside a household where grandparents, not only Saki, covered the parents' absence.
+
+**Parents (REVISE, GKM-SAA-239; C1 @ D-UME unless stated).** "Professional/elite athlete parents" is too uniform. The mother is a national-hero athlete in the dance trainer's words (`adv_dear_hume_034` L322). After the sisters chose idolhood she took every qualification she could and set up an idol-training facility with staff introduced by the headmaster (`adv_dear_hume_021` L367–L391), and before Hatsuboshi's trainers she calls herself their junior as an idol trainer (034 L342–L358). The father, 花海社長, is a former athlete, company president and author (`adv_dear_hume_025` L333–L372). His local standing is comic and shaky: Ume teases that his old team sends him no coaching work (L442), and he calls himself a former-athlete local celebrity (`adv_dear_hume_026` L698). He supports rather than expects (L733–L747) and gives Ume the rival-valuing maxim 「敵を大切に」 (L775). The Producer says he had a hand in the facility (021 L396). Family capital remains real, but it is not one uniform elite block.
+
+**A facility shared with rivals (STRENGTHEN, HSCA-145).** Across tracks the Hanami facility also trains other idols: China and Kotone visit it in D-SENA 014 (`adv_dear_jsna_014` L163–L218), Tsubame describes training there in D-SENA 025 (`adv_dear_jsna_025` L567), and in D-SAKI 032 the mother trains Tsubame (`adv_dear_hski_032` L317–L358). Each instance belongs to its host track. Together they show that the developmental capital described above is not reserved for the sisters.
+
 ## 2.2 The Fujita family: scarcity, secrecy, and premature usefulness
 
 Kotone's household is the strongest corrective to any interpretation that treats all developmental problems as psychological.
@@ -229,6 +242,8 @@ The parents' protective secrecy around the father's dangerous work is especially
 This yields a side-character/family principle with broad applicability:
 
 > **Information can itself be care. Protection through omission is not automatically protective.**
+
+**Producer-side counter-case (GKM-SAA-009; C1 @ D-KOTONE).** The Producer also withholds information from Kotone, but the omission has a different structure. In Dear 012 he announces a trip whose purpose he cannot explain, and Kotone agrees not to ask (`adv_dear_fktn_012` L384–L415). In Dear 018 the purpose appears: her parents and siblings sit in the front row, which the Producer presents as removing the cause of her worry before the performance (`adv_dear_fktn_018` L106–L158). Kotone's composure breaks and then turns into resolve (L170, L221–L231). In Dear 020, when she asks, he explains how he found her father (`adv_dear_fktn_020` L68–L97). This omission is temporary, agreed to, and disclosed on request. It qualifies the principle above without overturning it: omission can protect when its scope is agreed and its content returns to the person it concerns. Whether the Producer always tells Kotone the truth remains an open question in the Kotone core.
 
 Later, debt repayment does not erase Kotone's family identity. Her siblings become fans, artists, conversational partners, school visitors, and possible sources of comparison anxiety. They are not simply dependents waiting for her earnings.
 
@@ -280,13 +295,23 @@ This is a recurring Gakumas pattern:
 
 Kanae's role shows that secondary caregivers and administrators can be morally central even when the core character and powerful elder dominate the dramatic frame.
 
+### Household gatekeeping of the Producer (GKM-SAA-016; OPEN) — 2026-11-15
+
+Several objects show the household regulating the Producer's access to China while China voices long-horizon wishes for proximity. They are recorded here as markers. Under the corpus policy on romance-coded material, any romance conclusion stays OPEN.
+
+- **Gatekeeping.** When China proposes a two-person hot-spring holiday and then a room for the Producer in the house, a maid answers each time with silence that the Producer reads as a warning stare (M-CHINA, `adv_cidol-kcna-3-005_03` L80–L150). Kanae introduces herself by warning the Producer with the fate of a disloyal Han Xin and announcing that she will judge whether he is fit to guide China (C1 @ D-CHINA, `adv_dear_kcna_024` L118–L141). Kanae admits marking an audition with jealousy, and the Producer replies that he judged strictly too (`adv_cidol-kcna-3-016_01` L166–L198). In one choice branch the Producer thinks Hiwatari would never permit China to keep him at home (`adv_pevent_003_kcna_activity_022` L52; C3, choice 1, parenthetical thought).
+- **China's wishes.** China defers the room proposal until 「しかるべきとき」 and says she will raise it herself (005_03 L175–L183).
+- **Counter-readings.** China frames the room practically, as saving the Producer's travel time (005_03 L134). The SL1.2 Kanae reading later records the Kanae–Producer rivalry turning into a negotiated partnership.
+
+These markers connect Kanae's constitutional mediation, described above, to the Producer's own position in the household.
+
 ## 2.4 The Juo family: dynasty, inherited perception, and indirect care
 
 Sena's family links private development to institutional power more directly than most other households.
 
 Kunio, her grandfather, represents:
 
-- an inherited evaluator's eye;
+- a reportedly shared evaluator's eye (GKM-SAA-250; v2.0 read "an inherited evaluator's eye"; see the 2026-11-15 subsection below);
 - long institutional experience;
 - access to school governance;
 - authorization capacity;
@@ -302,6 +327,20 @@ The Juo family must therefore remain double-coded:
 - **dynastic pressure and institutional reach** are equally real.
 
 Removing either side would distort Sena.
+
+### One father, two institutions (GKM-SAA-033, GKM-SAA-252, GKM-SAA-089, GKM-SAA-090, GKM-SAA-250) — 2026-11-15
+
+**Identity (REVISE; SL1.0 anchor).** The Producer asks Sena about "your father, President Juo" (十王社長; M-SENA, `adv_cidol-jsna-3-002_02` L192), and Sena answers as his daughter, teasing him about his "future boss" (L196). In D-MAO the same 十王社長 introduces himself as 100 Pro's representative director, 十王龍正 (ruby じゅうおうりゅうせい; `adv_dear_amao_021` L381), and in D-MAO 025 a professional idol calls the reigning Prima Stella "President Juo's daughter" (`adv_dear_amao_025` L287). The headmaster is Sena's grandfather (002_02 L173). When the Producer cites the headmaster's remark that Hatsuboshi is not monolithic, Sena calls it an ordinary parent–child quarrel (L200–L205), which places Kunio and 十王社長 as father and son. Sena's father, 十王社長, the SL1.1 "President Juo" and Ryuusei Juo / 十王龍正 of §5.1 are therefore one person. The v2.0 split, in which "Sena's father" appeared here, Ryuusei only in §5.1, and the two in different tiers of §13, is superseded. D-MAO conduct and Sena's family model should now be read together.
+
+**The father as Sena describes him (STRENGTHEN; observer evidence).** Sena says the family relationship is good but that she rarely meets anyone except her grandfather (002_02 L167–L185). She describes her father as capable, cunning, given to roundabout schemes, and unwilling ever to release an idol he has once favoured (L243–L249). The Producer privately thinks this sounds like Sena (L253), and Sena says her father resembles the Producer (L255–L278). In 002_03 the Producer arranges for the family to attend; Sena calls her father 「あの冷血漢」 and is surprised that her family come when invited (`adv_cidol-jsna-3-002_03` L66–L106), while the father attends in her merchandise and asks for a different version. These are Sena's and the Producer's views of him, not his self-account.
+
+**The laid rail (STRENGTHEN).** Sena herself values the rail laid for her as happiness (C1 @ D-SENA, `adv_dear_jsna_005` L197–L204). That valuation stands beside this section's reading of dynastic pressure rather than under it. In SL1.1, after a home visit that the Producer did not announce to Sena, 十王社長 says that he placed her on the best path he knew and that whether she stays on it is hers to decide, that his wife warned him not to load a parent's life onto the child, and that rare meetings have let misunderstandings pile up (M-SENA, `adv_cidol-jsna-3-017_03` L139–L209). In SL1.1 D-SENA 034, Sena recalls that after her first Prima Stella title he told her she would not succeed as a professional. She took this as confirmation that she was below top-idol standard, did not contest it, and drifted until she met the Producer (`adv_dear_jsna_034` L313–L421). Misuzu calls father and daughter equally hasty (L378).
+
+**Opposite sides of N.I.A. (labelled inference).** In D-SENA the headmaster says N.I.A. was planned in secret by "Kuroi's boy" and "my son", leaving him out (`adv_dear_jsna_012` L15–L19). That this son is 十王社長 is a high-probability inference, not an explicit statement: the headmaster says four will face criticism; the Producer names 十王社長 among them, uncorrected (L49–L52); and Sena treats the dispute as a parent–child quarrel (002_02 L200–L205). On that reading grandfather and son stand on opposite sides of N.I.A. planning in this route. See the spine reading §4.2.
+
+**The evaluator's eye (REVISE, GKM-SAA-250).** A shared eye is claimed more than shown. The principal evidence is the headmaster's own claim, in D-CHINA, to have "seen" that China's and Sena's talents are nearly equal (`adv_dear_kcna_003` L97); the Producer privately judges the comparison meaningless, since Sena began lessons at three (L105–L109). In D-SENA, Sena's remark that her grandfather can "see" too occurs only in choice 3 (`adv_dear_jsna_002` L140, L164–L170). "Inherited" therefore becomes "reportedly shared".
+
+The double coding above stands, now with one actor who is both Sena's father and the president of 100 Pro.
 
 ## 2.5 Rinami's family: a good alternative life makes choice more meaningful
 
@@ -321,7 +360,7 @@ Family support here creates an ethical pressure on the Producer as well: trusted
 
 Lilja's Swedish/Japanese family background rejects the easy foreign-girl liberation narrative.
 
-Her mother initially worries about the idol plan, but the concern is not framed as hostility. Lilja prepares materials to explain Hatsuboshi and Japanese idols. Her Japanese father functions as a cultural bridge through anime/games and broader Japanese popular culture. Birthday, Christmas, cooking, and memory material emphasize attachment.
+Her mother kept opposing the idol plan (「ずっと反対してた」) because she did not know Japanese idol culture and worried that nobody could go to Japan with Lilja; the concern is not framed as hostility (M-LILJA, `adv_cidol-kllj-3-018_02` L147–L195; GKM-SAA-124, revising the v2.0 wording "Her mother initially worries about the idol plan"). Her mother's frail health keeps her in Sweden (L182), but the opposition is not reduced to health. Lilja prepares materials to explain Hatsuboshi and Japanese idols, and after that presentation her mother says she wants to see Lilja on stage (L201–L206). Lilja's later sense of what she owes the family mixes gratitude and obligation: having pushed this through, she must show them herself shining (L236–L245). Her Japanese father functions as a cultural bridge through anime/games and broader Japanese popular culture. Birthday, Christmas, cooking, and memory material emphasize attachment.
 
 The consequence is important:
 
@@ -349,6 +388,8 @@ A useful simulation rule is:
 
 > **Hiro does not need her parents to misunderstand her in order for her choice to become meaningful. She needs them to recognize that optimization is not the only legitimate measure of a life.**
 
+**The Producer and the family (GKM-SAA-218; C1 @ D-HIRO) — 2026-11-15.** Dear 020 reveals that soon after taking Hiro on, the Producer visited her home without telling her, because he wanted to hear directly how her parents saw her path (`adv_dear_shro_020` L60–L97). Hiro reports, from her mother, that her father was angry that day because the Producer never once said that Hiro could become an idol or had idol talent (L119–L133), and that the Producer's candid progress reports on her as a poor idol kept irritating him (L140–L144). Hiro likes her father except for his treating her as special (L117). He was also the Producer's source for the owl video (`adv_dear_shro_024` L171–L177; see §7.3). The headmaster admitted Hiro on intuition despite a zero practical score (`adv_dear_shro_001` L160–L192). The father's objection is therefore not only opportunity cost; it is also resistance to a Producer who refuses to promise success. The undisclosed visit is a benign information asymmetry.
+
 ## 2.8 Mao's parents: agency was respected before results justified it
 
 Mao's parents matter because they did not author the prince dream for her.
@@ -371,6 +412,8 @@ This archive can threaten her when public rediscovery turns old ability into exp
 
 The family function is thus not simply pressure or support. It is **provenance**.
 
+**Family strain and authorship conflict (GKM-SAA-022) — 2026-11-15.** The judgment above that the family evidence is "less individually interior" is too strong for the current record. Under SL1.0, ballet began at the parents' instruction (`adv_dear_ssmk_010` L169); Sumika falls silent when asked whether home was cramped (`adv_cidol-ssmk-3-014_02` L141–L154); she describes her gyaru style as rebellion against her mother (`adv_event_020_main-03` L194–L211); she finds it hard to tell her parents that she wants idolhood (`adv_dear_ssmk_032` L414); and her mother warns that Sumika skips practice, which Sumika rebuffs (`adv_csprt-3-0093_01` L164–L169). SL1.1 M-SUMIKA 018_03 (`adv_cidol-ssmk-3-018_03` L62–L335), in the state where Sumika wins, confirms conflict since she quit ballet, the mother's opposition, the father's support as the mother reports it, and a repair. Linking that repair to her Dear 032 confession is a cross-track identification. The family function is therefore provenance together with a conflict over who authors her assigned future.
+
 ## 2.10 Misuzu's family: relation can be inherited before it is chosen
 
 Misuzu and Temari grew up close enough to resemble sisters partly because their families were already connected. That is a useful reminder that some major peer relationships begin inside adult-created social structure.
@@ -380,6 +423,14 @@ The later Temari/Misuzu conflict is theirs. But the original access conditions w
 This distinction matters for modeling intimacy:
 
 > **A relationship may become profoundly chosen even when its first proximity was inherited.**
+
+### Misuzu's household (GKM-SAA-245) — 2026-11-15
+
+The Producer met Misuzu's parents on the day he signed her, and they attend her talk show (M-MISUZU, `adv_cidol-hmsz-3-014_03` L59–L72). Before a decisive live in D-MISUZU he offers her a tea ritual that he says he learned from her parents (`adv_dear_hmsz_035` L208–L216, a single-option choice). Misuzu is an only child; the Hataya and Tsukimura parents are close friends, and she grew up with Temari "like sisters", calling Temari her older sister (`adv_dear_hmsz_027` L168–L192). Misuzu's mother gave the two girls the H.I.F. tickets that began both idol dreams, on a family trip (M-TEMARI, `adv_cidol-ttmr-3-009_01` L110–L134). In Event 013 Rinami reports that Misuzu is from Kyoto (hearsay, `adv_event_013_main-02` L110).
+
+### Temari's household (GKM-SAA-047) — 2026-11-15
+
+Temari says the two families' parents are close (009_01 L120); the Producer's question presumes that the girls travelled from Kyoto, and Temari does not dispute it (L114). In D-TEMARI her parents attend H.I.F. and propose publishing a book on how they raised top idol Temari, which she asks the Producer to stop; he adds that he speaks sarcastically to her alone (`adv_dear_ttmr_035` L206–L268). Misuzu's D-MISUZU 027 portrait gives an outside view of the child Temari: round, often falling and crying, noisy and warm, the friend who restored goodness to a cold, precocious Misuzu (`adv_dear_hmsz_027` L196–L297). That counter-portrait partly answers the Temari core's question about her childhood self-account. SL1.1 adds the two families' summer trips (`adv_event_027_main-02` L318–L377) and shared Halloweens (`adv_csprt-3-0112_03` L49–L127).
 
 ## 2.11 Family synthesis: support should be decomposed, not morally averaged
 
@@ -392,7 +443,7 @@ Across these households, 'supportive family' is far too coarse.
 | Kuramoto | capital, affection, access | coercive leverage / legitimacy risk | internal restraints; Kanae mediation |
 | Juo | expertise, dynasty, institutional reach | paternalism / inherited burden | answerable authority rather than automatic entitlement |
 | Himesaki | stable home, alternative future | trusted adults concentrating authority | Rinami retains final authorship |
-| Katsuragi | warm transnational home, culture | migration/homesickness | bridge rather than severance |
+| Katsuragi | warm transnational home, culture | migration/homesickness; the mother's sustained, non-hostile opposition until Lilja's own presentation (§2.6, GKM-SAA-124) | bridge rather than severance |
 | Shinosawa | optionality, acceptance | opportunity-cost optimization | chosen value recognized as value |
 | Arimura | early agency support | shame-driven self-concealment | visibility restored without coercive correction |
 | Shiun | training/history archive | inherited expectation | provenance reused under self-authored terms |
@@ -448,6 +499,14 @@ This must not be mistranslated as permission to falsify evidence. It is a perfor
 This is one of the clearest places where Gakumas treats professional persona as potentially ethical rather than inherently fake.
 
 Asari herself models the same permeability. She can teach an ideal of near-superhuman producer competence while still being hungry, flustered, playful, proud, and imperfectly contemporary.
+
+### The producer's other first duty (GKM-SAA-001; C1 @ D-MAO) — 2026-11-15
+
+In Mao Dear 024 the Producer tells Asari that the decision to join 100 Pro is Mao's and that, "as her Producer", he would support it (`adv_dear_amao_024` L15–L22). Asari asks what a producer's most important role is and, after his answer (a three-way choice, L61), adds a second, equally important duty: to see the same dream as the idol, fly toward it together, and entrust his own dream to hers (L71–L94). She then asks who can best fly beside Mao (L108–L112), and the Producer answers by recalling his promise to make Mao a cute, cool, invincible prince (L114–L120). Here Asari corrects the Producer's professional self-effacement rather than his technique. The lesson complements the magician principle: steadiness in front of the idol does not mean neutrality about her future. The Producer's earlier deference and his later admission belong to the Mao core (§2.8, §8).
+
+### A recurring dream motif (GKM-SAA-287; C4, non-biographical) — 2026-11-15
+
+The April Fools' dream scenes and the support scouting exercise form one recurring motif. In the 2026 dream the Producer pitches Asari as an idol with intelligent beauty and a reassuring embrace that could make many fans happy (`transcripts_raw/10_startup_and_seasonal/2026/ef-01_cmmn-01.txt` L84–L101), echoing his pitch in the scouting exercise (support 3-0019_03), and Asari's closing 「わたしの――プロデューサーくん♪」 (`transcripts_raw/10_startup_and_seasonal/2026/ef-01_cmmn-02.txt` L85) repeats her line in Event 029 (`adv_event_029_main-04` L199). In the 2025 dream Asari insists that she is his teacher, not an idol (`transcripts_raw/10_startup_and_seasonal/2025/ef-01_cmmn-02.txt` L36–L88). These scenes are C4 paratext and say nothing about Asari's biography. Separately, in one H.I.F. lesson branch Asari says she has watched past Prima Stella winners (`adv_pevent_003_cmmn_school_2-004` L22; C3, choice 1), a small piece of institutional memory.
 
 ## 3.2 The three trainers: different epistemologies, not interchangeable tutorial NPCs
 
@@ -603,17 +662,23 @@ Rinami's answer is archival rather than purifying: the old work can have been si
 
 Shion therefore becomes an agent of **identity provenance pressure**.
 
+In D-RINAMI the attack also has a motive in the text (GKM-SAA-020; 2026-11-15). Shion attacks Rinami as a "deceitful older-sister idol" (`adv_dear_hrnm_014` L132–L143) immediately after declaring that an older sister is an absolute oppressor whom she loathes (L101–L122). Rinami answers that a younger person can still be everyone's older sister, and the Producer adds that being an older sister has nothing to do with age (L149–L162). Here Shion turns a sibling wound against Rinami's identity, which links this attack to §4.3.
+
 ### Against Sumika
 
 Shion engineers social isolation and offers another institution as sanctuary. She also expresses an instrumental view of fans that Sumika experiences as ethically incompatible with her own idol philosophy.
 
 Here Shion is not merely critic; she is recruiter and alternative-institution pressure.
 
+Sumika's answer is not only refusal (GKM-SAA-230; C1 @ D-SUMIKA; 2026-11-15). After declaring that she and Shion can never agree (`adv_dear_ssmk_018` L100–L111), Sumika later thanks the defeated Shion for exposing her complacency, says she was glad to be invited even if the invitation was false, and parts with 「またね」 (`adv_dear_ssmk_019` L57–L89). The incompatibility concerns their idol philosophies, not a severed relation.
+
 ### Through Tsubame
 
 Tsubame recognizes in Shion a comparison wound structurally similar to her own Sena wound and extends the hero principle that an idol should not abandon someone merely because they stand on the other side.
 
 This prevents Shion from remaining a one-note villain. Her damage becomes legible without turning harmful behavior into innocence.
+
+The D-TSUBAME outcome records both refusal and repair (GKM-SAA-096; 2026-11-15). Shion rejects Tsubame's pity (`adv_dear_atbm_016` L127–L170), and Tsubame concedes, in a muttered spoken line whose speaker label is hidden, that her present self cannot reach Shion's heart (L278). Tsubame then challenges Gekka, who agrees to reconsider her own idol model if Tsubame wins (`adv_dear_atbm_018` L113–L123). After Gekka concedes defeat, Shion insists that she will not be saved by Tsubame, and Gekka takes Shion home to straighten her out (`adv_dear_atbm_019` L54–L154). By Dear 023 Gekka trains Shion daily and credits Tsubame with having changed her (`adv_dear_atbm_023` L245–L264, L414–L420). Tsubame's hero principle works indirectly here, without coercing Shion.
 
 ### Shion synthesis
 
@@ -628,6 +693,8 @@ A core character who can answer Shion has usually developed enough self-authorsh
 ## 4.2 `白草月花`: external standard, world horizon, and scouting authority
 
 The Japanese-name identity `白草月花` is authoritative in this corpus; prior analytical artifacts vary in romanization between Gekka/Tsukika. Until transliteration is independently locked, this document preserves the Japanese identity and uses **Gekka** as the working English shorthand because it is already common in the V2 artifacts.
+
+Metadata basis (GKM-SAA-261; 2026-11-15): the A1 scripts give 月花 no ruby, and her actor and voice-asset code is `sgka` (for example `sud_vo_adv_dear_atbm_004_sgka-001`), which supports the reading Gekka; the form "Tsukika" is not attested in A1. The corpus therefore harmonises on 白草月花 with Gekka as its single working romanization. An official reading would still need a credited source.
 
 Gekka's repeated function is external legitimacy.
 
@@ -661,6 +728,8 @@ This provides a clean cross-system rule:
 
 > **Domain expertise does not transfer automatically into relationship expertise.**
 
+**Further witnesses (GKM-SAA-020, GKM-SAA-096) — 2026-11-15.** Two Dear routes add evidence beyond `story_0105`. In D-RINAMI, Gekka calls Shion 「愚妹」 ("foolish younger sister"; `adv_dear_hrnm_018` L97; `adv_dear_hrnm_031` L142, L180) and justifies the word by Shion's straying from the idol's proper path of pleasing fans and wasting her gifts and environment (031 L217–L224). Rinami tells Gekka not to use such a word for her own sister (L209), applying her relational idea of sisterhood to Gekka herself. In D-TSUBAME, Gekka takes Shion home and trains her daily after losing to Tsubame (§4.1, "Through Tsubame"). That is a second witness of sister repair, bound to D-TSUBAME and separate from `story_0105`; it does not erase the managerial contact pattern of the support story.
+
 ## 4.4 Nadeshiko: inherited power and miscalibrated brokerage
 
 Nadeshiko performs two different negative-control functions.
@@ -688,6 +757,19 @@ He enters H.I.F. with open contempt for Hatsuboshi and directs Shion to scout st
 
 Competition is therefore not only about trophies. It is also about **talent markets and institutional prestige**.
 
+### Gokugetsu, 961 Pro and Kuroi's office (GKM-SAA-035, GKM-SAA-236) — 2026-11-15
+
+SL1.0 Dear sources give the rival institution an identity that v2.0 built only from late support material. Each item below is an attributed statement inside its host track.
+
+- **The school.** 極月学園 is a small elite school funded by 961 Pro in Sena's words (C1 @ D-TSUBAME, `adv_dear_atbm_012` L125) and founded by 961 Pro in Mao's words (C1 @ D-MAO, `adv_dear_amao_013` L180). The difference between 出資 (funding) and 設立 (founding) is kept as stated.
+- **Kuroi's office.** Kuroi is its 理事長 (board chairman). Shion addresses him so in the Dear 010-01 cutaway that recurs across routes (for example `adv_dear_kcna_010-01` L98–L112; `adv_dear_hume_010-01` L113–L127; `adv_dear_ttmr_010-01` L146–L160), and the Producer calls him 黒井理事長 (`adv_dear_jsna_011` L28).
+- **Direct recruitment.** In D-UME, Kuroi tells the Producer to bring Ume to 961 Pro; the Producer refuses before a three-way choice of reasons, so the refusal is invariant (`adv_dear_hume_016` L28–L35). In Dear 035 the Producer confirms repeated poaching offers for Ume, from 961 Pro and many other agencies; Ume names 100 Pro as her first choice while admitting that competing against Hatsuboshi from 961 had tempted her (`adv_dear_hume_035` L148–L263). 961 is therefore a live alternative that Ume weighs.
+- **Branch statements.** In one branch of the refusal the Producer says 961 Pro does not employ producers (L38); in another Kuroi complains about Hatsuboshi's "false lessons" on him and sends a message to 「あの老いぼれと冷血漢」 (L45–L49). Both are C3 choice-branch content and the speakers' own assertions. The text does not name the old man or the cold-blooded man, and this synthesis does not resolve them from other scenes. In D-CHINA, Hatsuboshi does teach a course on 961-style production: China reads its syllabus title (`adv_dear_kcna_010-01` L83).
+- **N.I.A.** In D-MAO, Gekka says that the organiser, 961 Pro, approves her irregular challenge (`adv_dear_amao_018` L250), and the Producer speaks of N.I.A.'s organiser (L284). Route-scoped, 961 is an organiser of N.I.A.; compare the headmaster's account of its planning in §2.4 and in the spine reading §4.2.
+- **SyngUp.** In D-TEMARI, Misuzu reports that Rinha has left Hatsuboshi for 961 Pro (`adv_dear_ttmr_010-01` L122–L132), and the Producer reads 961's intent as fielding her in N.I.A. (`adv_dear_ttmr_011` L114–L118). Thanked by the Producer, Kuroi answers that SyngUp! will now come to him whole (`adv_dear_ttmr_026` L224–L225). Rinha's own "end-of-career" account is adjudicated in the Rinha evidence matrix (RINHA-C023, RINHA-C024).
+
+Kuroi is therefore a person with institutional authority, chairman of a 961-backed school linked to 961 Pro's recruitment and to N.I.A., and not only a support-story scout.
+
 ## 4.6 Gokugetsu as a counterinstitution
 
 Taken together, the Gokugetsu-facing material performs four major functions.
@@ -706,7 +788,7 @@ Fan instrumentality, recruitment pressure, inherited power, and severe training 
 
 ### 4. Alternative future
 
-Gokugetsu can offer sanctuary, recruitment, or professional escalation. A Hatsuboshi student must therefore choose Hatsuboshi rather than merely remain because no alternative exists.
+Gokugetsu can offer sanctuary, recruitment, or professional escalation. A Hatsuboshi student must therefore choose Hatsuboshi rather than merely remain because no alternative exists. D-UME and D-TEMARI make this concrete through Kuroi's invitation of Ume and Rinha's transfer (§4.5, GKM-SAA-035, GKM-SAA-236).
 
 The correct synthesis is not:
 
@@ -741,6 +823,12 @@ It is:
 > **Professionalization becomes ethically dangerous when it assumes that optimization may replace a relation the performer herself considers constitutive of authorship.**
 
 The best side-character pressure is not an obviously evil option. It is a plausible good that clarifies what the protagonist refuses to trade away.
+
+### The offer-maker is Sena's father (GKM-SAA-033, GKM-SAA-086) — 2026-11-15
+
+Ryuusei Juo is the same person as Sena's father, 十王社長 (§2.4). His offer to Mao remains professionally rational in D-MAO. Sena's portrait of him adds that he is capable, cunning, given to roundabout schemes, and unwilling ever to release an idol he has favoured (M-SENA, `adv_cidol-jsna-3-002_02` L243–L249). That is Sena's observation, not a verdict on the Mao offer. In ruby, 100 Pro is read じゅうおうプロ (`adv_dear_atbm_003` L196; `adv_dear_ttmr_011` L22), and the Producer calls ガラクタロード 100 Pro's signature song (`adv_cidol-kllj-3-018_03` L45; the SL1.1 Sena refresh records the same fact).
+
+100 Pro also matters outside D-MAO. In D-MISUZU the Producer takes Misuzu and Temari to meet 100 Pro seniors: owl, and 愁佳, who says she heard about the visit from 龍正 (`adv_dear_hmsz_030` L92–L156). Later the Producer admits a strategy of selling both of them high and hopes 100 Pro will take Temari (`adv_dear_hmsz_033` L140–L147). The professionalization pressure in this section is therefore sometimes one that the Producer himself cultivates.
 
 ## 5.2 H.I.F. judges and public records: evaluation becomes durable external consequence
 
@@ -902,6 +990,8 @@ Current use:
 - explain one origin point of Rinami's care behavior;
 - preserve sibling domestic life as part of Rinami's non-idol competence.
 
+**Shiori's own voice (HSCA-043; C1 @ D-RINAMI) — 2026-11-15.** Shiori also speaks for herself. In Dear 021 she says she feels a little lonely now that her sister has become "everyone's" older sister (`adv_dear_hrnm_021` L242–L245); in Dear 025 she insists that Rinami is her sister alone (`adv_dear_hrnm_025` L121). These lines give Shiori a view of her own, bounded to these scenes; the caution above still applies to anything beyond them.
+
 ## 7.2 Kana / former `Love☆しすたぁず` unitmate
 
 Kana links Rinami to the failed first-year unit without forcing that history to remain only humiliation.
@@ -912,6 +1002,8 @@ Current use:
 
 > **old unit relations can survive through differentiated professional futures.**
 
+Cross-link (GKM-SAA-074; 2026-11-15): the supporter path is one that Rinami herself considered. Before meeting the Producer she found student-council work for idols enjoyable and fulfilling, and thought that supporting idols might be enough if she never turned professional (M-RINAMI, `adv_cidol-hrnm-3-013_03` L54–L74). In 017_02 her inner speech wonders whether support work suits her better than idolhood, while her body kept training (`adv_cidol-hrnm-3-017_02` L134–L209). Kana's differentiated future is therefore also Rinami's road not taken. The valuation of support stays two-sided: a real vocation and a temptation to self-erasure.
+
 ## 7.3 `owl`
 
 The former Hatsuboshi idol admired by Hiro functions as a historical model of constructed idol persona and collaborative/public artifact.
@@ -920,11 +1012,15 @@ The figure is less important as a fully reconstructable person than as evidence 
 
 This broadens Hiro's cultural genealogy beyond Producer + classmates + current summit.
 
+**Origin trigger (GKM-SAA-002; C1 @ D-HIRO) — 2026-11-15.** owl is also the trigger of Hiro's idol origin, not only a model of persona. In Dear 024 Hiro says that a live glimpsed by chance on someone's device was the first idol she ever saw, that it was very cute, and that this was what started it (「それが、きっかけ。」; `adv_dear_shro_024` L185–L203). It was owl's summer H.I.F. performance the previous year, when owl was a third-year (L207–L209). Hiro's father told the Producer that she had shown him that video when she first raised idolhood (L171–L177). In Dear 036 Hiro recalls that the idol she admired lost to Sena at that festival and congratulated her with visible frustration (`adv_dear_shro_036` L631–L660). In D-MISUZU owl appears as a 100 Pro senior (`adv_dear_hmsz_030` L92–L103). The persona-model reading above stands; the origin layer is added to it.
+
 ## 7.4 Former university classmates
 
 Hiro's accelerated academic history could easily be narrated as solitary genius isolation. Later return of former university peers corrects that possibility.
 
 They establish that the pre-idol life contained usable social relations rather than being a dead credential block.
+
+**The letter and the disclosure (GKM-SAA-002, GKM-SAA-126) — 2026-11-15.** In D-HIRO 035 a letter from an unnamed former classmate, given as unattributed inner lines, says that the video she was watching that day started idol Shinosawa Hiro, that the friends always cheered Hiro on together, and that their secret viewing sessions became a cherished hobby of their own (`adv_dear_shro_035` L189–L212). The classmates are thus fans whose fandom grew out of Hiro's origin, not only returning peers. In the communication track the Producer plans to disclose Hiro's academic past publicly with a declaration that she will pursue idolhood alone, promises to minimise the advantages the pedigree could bring, and Hiro admits she is a little afraid because there is much she has not told Ume and China (M-HIRO, `adv_cidol-shro-3-012_02` L26–L133). This is M-HIRO evidence compatible with D-HIRO, not a D-HIRO scene.
 
 ## 7.5 The former theatre prince/top star
 
@@ -933,6 +1029,8 @@ For Mao, the childhood prince-role performer proves that leaving or transforming
 The figure is an important counterfactual model:
 
 > **role transition does not have to mean identity death.**
+
+**Identity and track variants (GKM-SAA-192) — 2026-11-15.** The figure is named only in the communication track: 龍月真希 (ruby りゅうげつまき), a member of the troupe 劇団『プラネタリウム』, whose tickets the Producer gives Mao (M-MAO, `adv_cidol-amao-3-015_01` L114–L123). The tracks differ. In D-MAO 010 she is the childhood top star who played princes, retired from musical theatre to become an actress, and whose screen work Mao had avoided until she finds her still cool (`adv_dear_amao_010` L267–L333). In M-MAO 015 Mao says she has watched all her films "since then" (L155), which may presuppose the Dear 010 viewing; that sequence is an inference. In P1 she is a retired stage actress whose favourite product Mao uses (`adv_pstory_001_amao_after-step-2-normal-02` L107–L114). Each state belongs to its track, and the name is not attested in the D-MAO or P1 files.
 
 ## 7.6 Sumika's former ballet observers and classmates
 
@@ -1260,8 +1358,8 @@ Mashiro, fans, workers, vendors, ordinary-course clubs, and unnamed observers pr
 ## OPEN
 
 - exact independent motives of several Gokugetsu actors across all contexts;
-- transliteration lock for some Japanese-name side characters where prior artifacts differ;
-- full internal mechanics of 100Pro and its relation to Hatsuboshi;
+- transliteration lock for some Japanese-name side characters where prior artifacts differ (白草月花 harmonised on Gekka from `sgka` metadata, §4.2, GKM-SAA-261; an official reading remains open);
+- full internal mechanics of 100Pro and its relation to Hatsuboshi (narrowed 2026-11-15: 100 Pro's president is Sena's father and the headmaster's son, and the headmaster attributes N.I.A.'s planning to Kuroi and, by inference, that son, §2.4, GKM-SAA-033; contracts, recruitment terms and H.I.F. authority remain open);
 - consistent H.I.F. judging membership/rubric;
 - broader family interiority for several core idols;
 - long-term fate and current independent vocation of several former unitmates;
@@ -1292,7 +1390,7 @@ are complete.
 - 白草月花 / working shorthand Gekka
 - Hiwatari Kanae / 氷渡香名江
 - Juo Kunio / 十王邦夫
-- Juo Ryuusei / 十王龍正
+- Juo Ryuusei / 十王龍正 — 十王社長, 100 Pro president, Kunio's son and Sena's father (one entity, §2.4, GKM-SAA-033)
 - the three named-by-role Hatsuboshi trainers as differentiated staff actors
 - Mashiro Yu / 真城優
 
@@ -1307,7 +1405,7 @@ These figures are sufficiently recurrent or structurally important that later mo
 - Rinami's father and Shiori
 - Mao's parents
 - Sumika's family / ballet-history witnesses
-- Sena's father
+- Sena's father — merged into Tier A Juo Ryuusei / 十王龍正 (GKM-SAA-033; listed separately in v2.0)
 - Misuzu family
 - Kana / former Love☆Sisters unitmate
 - `owl`
@@ -1348,7 +1446,7 @@ Examples:
 
 - Saki against Rinha/Tsubame/external resource comparison;
 - Mao against Shion/Gekka/Ryuusei;
-- Lilja against Shion;
+- Lilja against Shion, with Saki and Mao as generous counter-poles (GKM-SAA-197): Saki respects Lilja because she keeps getting up and does not break (M-LILJA, `adv_cidol-kllj-3-008_02` L91–L159), and in D-MAO 012 Mao calls the ability to keep striving toward an aspiration a remarkable talent (`adv_dear_amao_012` L402–L429), which qualifies the Producer's near-monopoly on interpreting Lilja;
 - China against Nadeshiko/family-power critique;
 - Rinami against Shion/Gekka/family alternative;
 - Sumika against Shion/public rediscovery;
@@ -1394,7 +1492,7 @@ How a character treats a vendor, journalist, child, stranger, worker, or ordinar
 
 10. Which Shion traits survive outside adversarial contexts?
 11. How does Gekka behave when she is not evaluating, competing, or training?
-12. What exactly is Kuroi's institutional role and authority?
+12. What exactly is Kuroi's institutional role and authority? (Partly answered 2026-11-15: he is 理事長 of the 961-funded or 961-founded 極月学園, recruits for 961 Pro, and is linked to N.I.A.'s organisation, §4.5, GKM-SAA-035, GKM-SAA-236. His formal position inside 961 Pro and his private motives remain open.)
 13. How much of Nadeshiko's coercive behavior is personal versus systemic?
 14. How does the Gekka/Shion sibling relation look from Shion's direct perspective across more than `story_0105`?
 

@@ -14,12 +14,17 @@ governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-24'
 last_updated: 2026-08-24 — direct-speaker parser correction after evidence-matrix preflight audit
+version: '2.1'
+revised: '2026-11-15'
+revision_note: 'Source-to-analysis audit 2026-11-15 coordinated correction (REVISE / STRENGTHEN): adds an actor-resolved count beside the frozen displayed-name count, reclassifies RINHA-XW-014 and RINHA-XW-064 as masked-speaker krnh-voiced objects, and adds supplementary rows outside the frozen 118-object denominator; the Rinha AV gate is unchanged'
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM KAYA RINHA SOURCE CROSSWALK
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** The file had no version key before this revision; its text is treated as v2.0. One coordinated edit implements GKM-SAA-117, GKM-SAA-158, GKM-SAA-165, GKM-SAA-242, GKM-SAA-290 and HSCA-159. REVISE: RINHA-XW-014 and RINHA-XW-064 carry Rinha (`krnh`) voice assets under masked speaker labels; with one further masked line in RINHA-XW-015 and one variant-labelled line in RINHA-XW-070, an actor-resolved count of 626 messages is recorded beside the frozen displayed-name count of 620 (§0.3; recount corrected after verification V10); the Unit Story note no longer says that no Rinha-name row exists (§3.2). STRENGTHEN: five supplementary rows outside the frozen 118-object denominator (§4.1), a route note on public perception, and an actor-resolved note in the SL1.1 addendum. The 118-object boundary, the 620 displayed-name figure, all crosswalk IDs and the 18-target perceptual gate are unchanged.
 
 > **2026-09-11 exact-speaker correction.** The 43 A1 direct files and their A2 logical entries agree on **620** Rinha messages. The earlier 621 total included `燐羽様ファン` at support0097 part02 raw line 143; that object contains nine Rinha messages. The fan remains public-reception evidence. Source Lock, all 118 objects, 6,709 containing messages and crosswalk IDs are unchanged. [Audit](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_SOURCE_MANIFEST_AND_AUDIT.md). The prior tagged-speaker correction recovered the larger direct pool; this further correction excludes a prefix-name false positive.
 
@@ -42,12 +47,33 @@ This document is **canonical for source discovery and provenance**. It is **not*
 - The 118 source objects contain **6,709 total source-envelope messages**. **This is not a count of 6,709 Rinha-evidence lines**; it is only the sum of all messages in the containing objects.
 - Rinha-own direct-speaking evidence is distributed across **Temari, Misuzu, Saki, Ume, numbered events, support stories, and idol communications**. Tsubame’s recovered route objects are observer/context evidence only.
 - No separately acquired Rinha-named or `krnh`-named MP4 was discoverable in the current Drive AV search, but raw ADV metadata proves voiced Rinha assets exist and are individually recoverable.
+- **2026-11-15 actor-resolved supplement:** resolving Rinha by actor and voice stem as well as by displayed name adds **6** single-speaker messages in four objects: 5 under masked labels (RINHA-XW-014: 1; RINHA-XW-015: 1; RINHA-XW-064: 3) and 1 under the variant label 「出会った頃の燐羽」 (RINHA-XW-070: 1), giving **626** under actor resolution. Shared or group lines that include a Rinha voice are listed but not counted. The **620** displayed-name figure remains the frozen count above. See §0.3.
 
 ### 0.2 Parser correction — 2026-08-24
 
 The initial crosswalk release reported **28 direct-speaking objects / 339 Rinha lines**. Before construction of the evidence matrix, all 118 matched source bodies were re-audited by the displayed speaker field. The original counter recognized plain `燐羽:` forms but missed many metadata-tagged forms such as `燐羽 speaker=img_adv_speaker_krnh_000-005:` and `燐羽 ... isInner=true:`. The corrected result is **43 direct-speaking objects / 621 logical Rinha dialogue messages**.
 
 This correction changes **classification and direct-message counts only**. The canonical source boundary remains **118/118 unique objects**, with no source added, removed, or duplicated. Fifteen Dear objects previously mislabeled as observer-only are now correctly marked `R-DIRECT`; `RINHA-XW-041` additionally contains direct Rinha interiority. The evidence matrix must use these corrected values.
+
+### 0.3 Actor-resolution and supplementary-row correction — 2026-11-15 (GKM-SAA-117, GKM-SAA-242, GKM-SAA-165, GKM-SAA-158, HSCA-159)
+
+§0.2 counted Rinha's speech by the displayed speaker field, while §1 freezes the actor code `krnh` and the voice stems `..._krnh-*` as entity identifiers. Two objects fall between those rules:
+
+- **RINHA-XW-064** (`adv_dear_hmsz_019`): three lines under the masked label 「やさしい声」 ("a gentle voice") carry `sud_vo_adv_dear_hmsz_019_krnh-001`, `-002` and `-003` (L101, L105, L107). Misuzu answers 「リーダー」 (L111) and later tells Temari she heard the leader's voice; Temari replies that Rinha could not be there (L142, L155). The text leaves Rinha's identity and diegetic presence open: the voice may be present speech, or Misuzu's dream or memory of her leader. Classification: speaker label withheld; Rinha voice assets; identity open in the text.
+- **RINHA-XW-014** (`adv_cidol-ttmr-3-009_01`): child Rinha's first words in Temari's memory of their first meeting appear under 「？？？」 with `sud_vo_adv_cidol-ttmr-3-009_01_krnh-001` (L176); RINHA-XW-015 continues the same memory with displayed-name Rinha speech.
+
+RINHA-XW-014 and RINHA-XW-064 are reclassified as masked-speaker `krnh`-voiced objects. Two objects already counted as direct-speaking also gain one actor-resolved message each:
+
+- **RINHA-XW-015** (`adv_cidol-ttmr-3-009_02`): the part opens by repeating the 「？？？」 line under its own voice asset, `sud_vo_adv_cidol-ttmr-3-009_02_krnh-001` (L4–L5).
+- **RINHA-XW-070** (`adv_dear_hmsz_025`): one line is labelled 「出会った頃の燐羽」 ("Rinha as she was when we met") and carries `sud_vo_adv_dear_hmsz_025_krnh-002` (L329–L330). The exact-name rule (`name=燐羽`) did not count it.
+
+Under actor resolution the single-speaker total is therefore **626**: 620 displayed-name + 5 masked-label (XW-014: 1; XW-015: 1; XW-064: 3) + 1 variant-label (XW-070: 1). This recount replaces the first 2026-11-15 figure of 624, which missed the XW-015 and XW-070 lines (verification V10).
+
+Shared or group lines that include a Rinha voice are listed but **not counted**, because the label covers several speakers. In SL1.0 they are: `adv_dear_hmsz_014` L117 and L122 (label 「佑芽と佑芽？」, Ume together with Rinha's imitation of her; `krnh-001`/`-002` at L121/L127; RINHA-XW-059); `adv_dear_hmsz_023` L208 (一同; `krnh-015` at L211; RINHA-XW-068); `adv_dear_hski_024` L304 (一同; `krnh-007` at L305; RINHA-XW-081); and `adv_dear_hski_024` L625 (label 星南, followed by shared chant voices including `sud_vo_general_part_krnh_001` at L640; RINHA-XW-081). SL1.1 group lines appear in the addendum below. One further `krnh` voice (`adv_dear_ttmr_024` L79) is placed just before a displayed 燐羽 message (L80) and is already counted.
+
+The **620 displayed-name count stays the frozen figure** used in §0.1, §3, §5, §9 and §13; the 626 actor-resolved count is a separate figure, and none of these lines enters the 18-target perceptual set. The tables in §3 keep their v2.0 values. Diegetic presence and delivery are AV-dependent and are routed to the existing Carbon queue; this correction neither opens nor closes the Rinha AV gate.
+
+The earlier Unit Story note in §3.2 ("SyngUp context only; no Rinha-name/direct row") was inconsistent with Relationship Systems I §5.9.1, which already uses Unit Story 04_08, where Misuzu names Rinha. It is revised in place, and §4.1 adds supplementary rows for objects that the 118-object pass left out. Those rows **do not reopen the frozen 118-object denominator**; they carry their own IDs (`RINHA-XW-SUP-nn`) and are not counted in §3.
 
 ## 1. Entity resolution and retrieval aliases
 
@@ -124,7 +150,7 @@ An object is included when at least one of the following is true:
 | Ume | 16 | 7 | 109 | substantial direct fan-handoff/training/sister-model evidence; late route state is not a substitute for SyngUp chronology |
 | Tsubame | 6 | 0 | 0 | observer/context only in recovered rows; no Rinha direct dialogue in this host envelope |
 | Ensemble | 13 | 5 | 36 | events/support can supply cross-route ordinary/public evidence; continuity remains event/support scoped |
-| Unit Story | 2 | 0 | 0 | SyngUp context only; no Rinha-name/direct row |
+| Unit Story | 2 | 0 | 0 | SyngUp context only in the frozen rows; no direct row. Rinha is named in Misuzu's report in Unit Story 04_08, added as supplementary row RINHA-XW-SUP-03 (§4.1; GKM-SAA-165, revising the v2.0 wording "no Rinha-name/direct row") |
 
 ### 3.3 Presence-mode distribution
 
@@ -139,6 +165,8 @@ An object is included when at least one of the following is true:
 | `PRESENT_INTERIORITY_AND_SPEECH` | 2 | direct Rinha interiority plus speech; continuity scope still governs |
 | `PRESENT_TRIAD_SPEECH` | 1 | direct present relational evidence |
 | `PRESENT_UME_SPEECH` | 1 | direct present cross-network evidence |
+
+The counts above are the frozen v2.0 values. Since 2026-11-15, RINHA-XW-014 and RINHA-XW-064 also carry the row-level mode `MASKED_SPEAKER_VOICE` (§0.3); they remain counted here under `UNIT_CONTEXT_ONLY`.
 
 ## 4. Full unique-source crosswalk — 118 canonical objects
 
@@ -159,8 +187,8 @@ An object is included when at least one of the following is true:
 | `RINHA-XW-011` | Misuzu | Produce events | `adv_pevent_002_hmsz_sales_4-003-02.txt` | `transcripts_raw/02_produce_events/event_002/hmsz=Misuzu_Hataya/sales_4-003-02.txt` | 9 | 0 | C3 route/branch | `UNIT_CONTEXT_ONLY` | REL-INFERENCE, META | MISUZU, SYNGUP | 秦谷美鈴 Produce Event 002 / sales_4-003-02 | NO_RINHA_VOICE; host-scene AV may exist |
 | `RINHA-XW-012` | Temari | Idol communications | `adv_cidol-ttmr-3-007_02.txt` | `transcripts_raw/03_idol_communications/ttmr=Temari_Tsukimura/rank_3/episode_007/part_02.txt` | 43 | 0 | C2/C4 modular | `DISCUSSED_OR_REMEMBERED` | OTHER-REPORT | TEMARI, MISUZU, SYNGUP | 月村手毬 アイドルコミュ EP007-02 | NO_RINHA_VOICE; host-scene AV may exist |
 | `RINHA-XW-013` | Temari | Idol communications | `adv_cidol-ttmr-3-007_03.txt` | `transcripts_raw/03_idol_communications/ttmr=Temari_Tsukimura/rank_3/episode_007/part_03.txt` | 33 | 0 | C2/C4 modular | `DISCUSSED_OR_REMEMBERED` | OTHER-REPORT | TEMARI, MISUZU | 月村手毬 アイドルコミュ EP007-03 | NO_RINHA_VOICE; host-scene AV may exist |
-| `RINHA-XW-014` | Temari | Idol communications | `adv_cidol-ttmr-3-009_01.txt` | `transcripts_raw/03_idol_communications/ttmr=Temari_Tsukimura/rank_3/episode_009/part_01.txt` | 37 | 0 | C2/C4 modular | `UNIT_CONTEXT_ONLY` | REL-INFERENCE, META | TEMARI, MISUZU, SYNGUP, HIF | 月村手毬 アイドルコミュ EP009-01 | NO_RINHA_VOICE; host-scene AV may exist |
-| `RINHA-XW-015` | Temari | Idol communications | `adv_cidol-ttmr-3-009_02.txt` | `transcripts_raw/03_idol_communications/ttmr=Temari_Tsukimura/rank_3/episode_009/part_02.txt` | 38 | 4 | C2/C4 modular | `DIRECT_SPEECH` | R-DIRECT, R-LING | TEMARI, MISUZU, SYNGUP | 月村手毬 アイドルコミュ EP009-02 | VOICED_IN_ADV; dedicated Rinha AV mapping not yet frozen |
+| `RINHA-XW-014` | Temari | Idol communications | `adv_cidol-ttmr-3-009_01.txt` | `transcripts_raw/03_idol_communications/ttmr=Temari_Tsukimura/rank_3/episode_009/part_01.txt` | 37 | 0 (+1 actor-resolved, 2026-11-15) | C2/C4 modular | `UNIT_CONTEXT_ONLY` → `MASKED_SPEAKER_VOICE` (2026-11-15) | REL-INFERENCE, META; MEMORY, OPEN (2026-11-15) | TEMARI, MISUZU, SYNGUP, HIF | 月村手毬 アイドルコミュ EP009-01 | v2.0: NO_RINHA_VOICE. 2026-11-15: L176 「？？？」 carries `sud_vo_adv_cidol-ttmr-3-009_01_krnh-001` inside Temari's first-meeting memory (GKM-SAA-117); delivery routed to the Carbon queue; Rinha gate unchanged |
+| `RINHA-XW-015` | Temari | Idol communications | `adv_cidol-ttmr-3-009_02.txt` | `transcripts_raw/03_idol_communications/ttmr=Temari_Tsukimura/rank_3/episode_009/part_02.txt` | 38 | 4 (+1 actor-resolved, 2026-11-15: masked 「？？？」 L4, `krnh-001`) | C2/C4 modular | `DIRECT_SPEECH` | R-DIRECT, R-LING | TEMARI, MISUZU, SYNGUP | 月村手毬 アイドルコミュ EP009-02 | VOICED_IN_ADV; dedicated Rinha AV mapping not yet frozen |
 | `RINHA-XW-016` | Temari | Idol communications | `adv_cidol-ttmr-3-009_03.txt` | `transcripts_raw/03_idol_communications/ttmr=Temari_Tsukimura/rank_3/episode_009/part_03.txt` | 55 | 0 | C2/C4 modular | `DISCUSSED_OR_REMEMBERED` | OTHER-REPORT | TEMARI, MISUZU, SYNGUP | 月村手毬 アイドルコミュ EP009-03 | NO_RINHA_VOICE; host-scene AV may exist |
 | `RINHA-XW-017` | Temari | Idol communications | `adv_cidol-ttmr-3-011_01.txt` | `transcripts_raw/03_idol_communications/ttmr=Temari_Tsukimura/rank_3/episode_011/part_01.txt` | 43 | 0 | C2/C4 modular | `UNIT_CONTEXT_ONLY` | REL-INFERENCE, META | TEMARI, SAKI, SYNGUP | 月村手毬 アイドルコミュ EP011-01 | NO_RINHA_VOICE; host-scene AV may exist |
 | `RINHA-XW-018` | Temari | Idol communications | `adv_cidol-ttmr-3-011_03.txt` | `transcripts_raw/03_idol_communications/ttmr=Temari_Tsukimura/rank_3/episode_011/part_03.txt` | 56 | 0 | C2/C4 modular | `UNIT_CONTEXT_ONLY` | REL-INFERENCE, META | TEMARI, SYNGUP | 月村手毬 アイドルコミュ EP011-03 | NO_RINHA_VOICE; host-scene AV may exist |
@@ -209,13 +237,13 @@ An object is included when at least one of the following is true:
 | `RINHA-XW-061` | Misuzu | Dear Idol | `adv_dear_hmsz_016.txt` | `transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_016.txt` | 80 | 27 | C1 @ D-MISUZU | `DIRECT_SPEECH` | R-DIRECT, R-LING | TEMARI, MISUZU, SYNGUP | 秦谷美鈴 親愛度コミュ 016 | RINHA-AV-P0-004; SOURCE_MAPPED / STILLS_SAMPLED / MIX_COMPUTED; LISTENING_MOTION_OPEN |
 | `RINHA-XW-062` | Misuzu | Dear Idol | `adv_dear_hmsz_017.txt` | `transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_017.txt` | 80 | 0 | C1 @ D-MISUZU | `DISCUSSED_OR_REMEMBERED` | OTHER-REPORT | TEMARI, MISUZU, SYNGUP | 秦谷美鈴 親愛度コミュ 017 | NO_RINHA_VOICE; host-scene AV may exist |
 | `RINHA-XW-063` | Misuzu | Dear Idol | `adv_dear_hmsz_018.txt` | `transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_018.txt` | 43 | 0 | C1 @ D-MISUZU | `DISCUSSED_OR_REMEMBERED` | OTHER-REPORT | TEMARI, MISUZU, SHION, SYNGUP | 秦谷美鈴 親愛度コミュ 018 | NO_RINHA_VOICE; host-scene AV may exist |
-| `RINHA-XW-064` | Misuzu | Dear Idol | `adv_dear_hmsz_019.txt` | `transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_019.txt` | 54 | 0 | C1 @ D-MISUZU | `UNIT_CONTEXT_ONLY` | REL-INFERENCE, META | TEMARI, MISUZU, SYNGUP | 秦谷美鈴 親愛度コミュ 019 | NO_RINHA_VOICE; host-scene AV may exist |
+| `RINHA-XW-064` | Misuzu | Dear Idol | `adv_dear_hmsz_019.txt` | `transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_019.txt` | 54 | 0 (+3 actor-resolved, 2026-11-15) | C1 @ D-MISUZU | `UNIT_CONTEXT_ONLY` → `MASKED_SPEAKER_VOICE` (2026-11-15) | REL-INFERENCE, META; OPEN, R-AV (2026-11-15) | TEMARI, MISUZU, SYNGUP | 秦谷美鈴 親愛度コミュ 019 | v2.0: NO_RINHA_VOICE. 2026-11-15: speaker label withheld (「やさしい声」 L101/L105/L107); Rinha voice assets `krnh-001..003`; identity and diegetic presence open in the text (GKM-SAA-117, GKM-SAA-242); queued for Carbon AV; Rinha gate unchanged |
 | `RINHA-XW-065` | Misuzu | Dear Idol | `adv_dear_hmsz_020.txt` | `transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_020.txt` | 78 | 19 | C1 @ D-MISUZU | `DIRECT_SPEECH` | R-DIRECT, R-LING | TEMARI, MISUZU, SYNGUP, GOKUGETSU, HIF | 秦谷美鈴 親愛度コミュ 020 | VOICED_IN_ADV; dedicated Rinha AV mapping not yet frozen |
 | `RINHA-XW-066` | Misuzu | Dear Idol | `adv_dear_hmsz_021.txt` | `transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_021.txt` | 63 | 2 | C1 @ D-MISUZU | `DIRECT_SPEECH` | R-DIRECT, R-LING | TEMARI, MISUZU, SENA, SYNGUP, GOKUGETSU, HIF | 秦谷美鈴 親愛度コミュ 021 | VOICED_IN_ADV; dedicated Rinha AV mapping not yet frozen |
 | `RINHA-XW-067` | Misuzu | Dear Idol | `adv_dear_hmsz_022.txt` | `transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_022.txt` | 62 | 0 | C1 @ D-MISUZU | `DISCUSSED_OR_REMEMBERED` | OTHER-REPORT | MISUZU, SENA, SYNGUP | 秦谷美鈴 親愛度コミュ 022 | NO_RINHA_VOICE; host-scene AV may exist |
 | `RINHA-XW-068` | Misuzu | Dear Idol | `adv_dear_hmsz_023.txt` | `transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_023.txt` | 60 | 16 | C1 @ D-MISUZU | `DIRECT_SPEECH` | R-DIRECT, R-LING | TEMARI, MISUZU, SENA, SYNGUP, HIF | 秦谷美鈴 親愛度コミュ 023 | RINHA-AV-P1-006; SOURCE_MAPPED / STILLS_SAMPLED / MIX_COMPUTED; LISTENING_MOTION_OPEN |
 | `RINHA-XW-069` | Misuzu | Dear Idol | `adv_dear_hmsz_024.txt` | `transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_024.txt` | 88 | 27 | C1 @ D-MISUZU | `DIRECT_SPEECH` | R-DIRECT, R-LING | TEMARI, MISUZU, SAKI, UME, TSUBAME, SENA, HIF | 秦谷美鈴 親愛度コミュ 024 | RINHA-AV-P0-005; SOURCE_MAPPED / STILLS_SAMPLED / MIX_COMPUTED; LISTENING_MOTION_OPEN |
-| `RINHA-XW-070` | Misuzu | Dear Idol | `adv_dear_hmsz_025.txt` | `transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_025.txt` | 82 | 1 | C1 @ D-MISUZU | `DIRECT_SPEECH` | R-DIRECT, R-LING | TEMARI, MISUZU, SYNGUP, HIF | 秦谷美鈴 親愛度コミュ 025 | VOICED_IN_ADV; dedicated Rinha AV mapping not yet frozen |
+| `RINHA-XW-070` | Misuzu | Dear Idol | `adv_dear_hmsz_025.txt` | `transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_025.txt` | 82 | 1 (+1 actor-resolved, 2026-11-15: variant label 「出会った頃の燐羽」 L329, `krnh-002`) | C1 @ D-MISUZU | `DIRECT_SPEECH` | R-DIRECT, R-LING | TEMARI, MISUZU, SYNGUP, HIF | 秦谷美鈴 親愛度コミュ 025 | VOICED_IN_ADV; dedicated Rinha AV mapping not yet frozen |
 | `RINHA-XW-071` | Misuzu | Dear Idol | `adv_dear_hmsz_030.txt` | `transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_030.txt` | 70 | 0 | C1 @ D-MISUZU | `UNIT_CONTEXT_ONLY` | REL-INFERENCE, META | TEMARI, MISUZU, SENA, SYNGUP, HIF | 秦谷美鈴 親愛度コミュ 030 | NO_RINHA_VOICE; host-scene AV may exist |
 | `RINHA-XW-072` | Misuzu | Dear Idol | `adv_dear_hmsz_031.txt` | `transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_031.txt` | 94 | 0 | C1 @ D-MISUZU | `UNIT_CONTEXT_ONLY` | REL-INFERENCE, META | TEMARI, MISUZU, SENA, SYNGUP, HIF | 秦谷美鈴 親愛度コミュ 031 | NO_RINHA_VOICE; host-scene AV may exist |
 | `RINHA-XW-073` | Misuzu | Dear Idol | `adv_dear_hmsz_032.txt` | `transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_032.txt` | 60 | 0 | C1 @ D-MISUZU | `DISCUSSED_OR_REMEMBERED` | OTHER-REPORT | TEMARI, MISUZU, SYNGUP, HIF | 秦谷美鈴 親愛度コミュ 032 | NO_RINHA_VOICE; host-scene AV may exist |
@@ -264,6 +292,20 @@ An object is included when at least one of the following is true:
 | `RINHA-XW-116` | Ensemble | Support stories | `adv_csprt-3-0102_03.txt` | `transcripts_raw/04_support_card_stories/support_series_3/story_0102/part_03.txt` | 20 | 0 | C2/C4 support | `UNIT_CONTEXT_ONLY` | REL-INFERENCE, META | TEMARI, SAKI, UME, SYNGUP | サポートコミュ story_0102 part_03 | NO_RINHA_VOICE; host-scene AV may exist |
 | `RINHA-XW-117` | Unit Story | Unit Story | `adv_unit_01-04_13.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_13.txt` | 71 | 0 | C1 @ U1 | `UNIT_CONTEXT_ONLY` | REL-INFERENCE, META | TEMARI, SAKI, UME, SYNGUP, HIF | ユニットストーリー Re;IRIS episode_04 part_13 / SyngUp! context | NO_RINHA_VOICE; host-scene AV may exist |
 | `RINHA-XW-118` | Unit Story | Unit Story | `adv_unit_01-04_17.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_17.txt` | 73 | 0 | C1 @ U1 | `UNIT_CONTEXT_ONLY` | REL-INFERENCE, META | TEMARI, MISUZU, SAKI, SENA, RINAMI, SYNGUP | ユニットストーリー Re;IRIS episode_04 part_17 / SyngUp! context | NO_RINHA_VOICE; host-scene AV may exist |
+
+### 4.1 Supplementary rows — 2026-11-15 (source-to-analysis audit)
+
+These rows sit **outside the frozen 118-object denominator** and are not counted in §3 (§0.3). None contains Rinha's own displayed-name speech. `A1 lines` counts the object's raw message lines.
+
+| ID | host | family | original source name | exact A1 path | A1 lines | Rinha-relevant lines | continuity | presence mode | evidence labels | note | vehicle |
+| --- | --- | --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
+| `RINHA-XW-SUP-01` | Ensemble (Misuzu, Ume) | Support stories | `adv_csprt-3-0011_01.txt` | `transcripts_raw/04_support_card_stories/support_series_3/story_0011/part_01.txt` | 20 | L53, L81, L107–L112 | C2/C4 support | `DISCUSSED_OR_REMEMBERED` (unnamed) | OTHER-REPORT, REL-INFERENCE, OPEN | Misuzu takes the class 1-1 and class 1-3 errands because she has important friends in both classes with whom she has long been estranged. Rinha is named nowhere; the class 1-3 referent is **probably Rinha**, who is described as formerly of class 1-3 (`adv_dear_atbm_012` L445; `adv_dear_hume_012` L151). This is an inference. **Dissent:** HSCA-119 disputes the identification on transfer timing; the audit review holds it by inference only. | GKM-SAA-158 |
+| `RINHA-XW-SUP-02` | Ensemble (Temari, Misuzu) | Support stories | `adv_csprt-3-0033_02.txt` | `transcripts_raw/04_support_card_stories/support_series_3/story_0033/part_02.txt` | 20 | L137–L141 | C2/C4 support | `DISCUSSED_OR_REMEMBERED` (unnamed) | OTHER-REPORT, REL-INFERENCE, OPEN | After their own reconciliation, Misuzu tells Temari that one person remains with whom they must still reconcile; the person is unnamed. The Support Series 3 Part 026–050 reading (§9) already routes this remaining reconciliation to Rinha interpretively; only the crosswalk row was missing. | GKM-SAA-158 |
+| `RINHA-XW-SUP-03` | Unit Story | Unit Story | `adv_unit_01-04_08.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_08.txt` | 56 | L166–L178 | C1 @ U1 | `DISCUSSED_OR_REMEMBERED` | OTHER-REPORT | Temari says she assumed she was resented for ruining the three members' dream; Misuzu answers that neither she nor 「りんちゃん」 resents her (L178). Misuzu's report, not evidence of Rinha's motive; consistent with Relationship Systems I §5.9.1. | GKM-SAA-165 (HSCA-001 residual) |
+| `RINHA-XW-SUP-04` | Unit Story | Unit Story | `adv_unit_01-01_11.txt` | `transcripts_raw/12_unit_story/unit_01/episode_01/part_11.txt` | 70 | L181–L182 | C1 @ U1 (memory) | `OPEN` | OPEN | Two unvoiced 「？？？」 lines answer Temari's remembered appeal to keep striving. They are a possible memory line of a SyngUp member, but the speaker is not established; not counted as Rinha evidence and supports no claim about Rinha. | GKM-SAA-165 |
+| `RINHA-XW-SUP-05` | Mao | Dear Idol | `adv_dear_amao_025.txt` | `transcripts_raw/05_dear_idol/amao=Mao_Arimura/dear_025.txt` | 87 | L287–L288 | C1 @ D-MAO | `DISCUSSED_OR_REMEMBERED` (surname only) | OTHER-REPORT, OPEN | A professional alumna recalls that when she was a third-year the Prima Stella was 「賀陽さん」. Only the surname is given; the referent is most compatible with Kaya Kei, the former Prima Stella of RINHA-C003, and is not established as Rinha. The same exchange names the current Prima Stella as President Juo's daughter (L287). | HSCA-159 |
+
+**Route note — public perception (GKM-SAA-290).** Two existing rows carry a reversal of public perception: in D-MISUZU, Temari recalls that in Kei's heyday SyngUp! was called Rinha's one-woman unit (RINHA-XW-073, `adv_dear_hmsz_032` L190); in D-TEMARI, the Producer says the public saw SyngUp! as Temari's one-man unit (RINHA-XW-031, `adv_dear_ttmr_004` L68). They are reported perceptions in two tracks; whether they form one sequence or describe different publics is open. Routed to the evidence matrix (RINHA-C001, §6.1).
 
 ## 5. Direct-evidence priority map
 
@@ -482,3 +524,5 @@ An exact scan of all 172 new A1 objects found 28 messages with the displayed Rin
 | `adv_dear_jsna_034.txt` L098/104/108/141/159/183/223/234/424/503 | 10 | Rinha asks to see Sena's current performance, teases Misuzu, accepts the offered relationship with Sena and treats the next meeting as prospective. Keep the commentary on professional plans and displays of intimacy inside D-SENA. |
 
 Other new exact name references appear in Misuzu 018 part 02 L187, Temari 021 part 03 L092 and support 2-0078 part 01 L155. They are reports or calls by other speakers.
+
+**Actor-resolved note — 2026-11-15 (GKM-SAA-117).** The scan above used the displayed speaker only. Resolving by voice stem finds two SL1.1 group lines that include a Rinha voice. In `adv_dear_fktn_035.txt` at L349 the label 「アンチ？の方々」 carries four voices, including `sud_vo_adv_dear_fktn_035_krnh-001` (L352), inside a scene that Kotone imagines. In `adv_dear_jsna_034.txt` at L332 the label 一同 carries `sud_vo_adv_dear_jsna_034_krnh-009` (L335). Neither is single-speaker Rinha speech, and neither is added to the 28 displayed-name messages.

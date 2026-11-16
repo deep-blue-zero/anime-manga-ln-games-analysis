@@ -12,12 +12,17 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-23'
+version: "1.1"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15: REVISE (wording only) of every masculine pronoun for Mao to she/her with a pronoun method note (GKM-SAA-013/031), a consistency fix of the §14 dance-trainer pronoun, and REVISE of the Sena–Tsubame 'semantic mismatch' framing in §25, §27, §28 and §30.4 (HSCA-068)."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM SUPPORT SERIES 02 PART 026–050 DEEP READING
+
+> **Revision record — v1.1, 2026-11-15 (source-to-analysis audit corrections).** (1) REVISE, wording only, GKM-SAA-013 / GKM-SAA-031: nine masculine pronouns for Mao in eight sentences (§3 two; §9 three; §21 two; the §27 Mao bullet one) now read she/her, or name Mao where a pronoun would be ambiguous; no analytical claim changes. A pronoun method note is added to §0. (2) §14: the dance trainer's pronoun now reads “her”, for consistency with the side-character synthesis and the Series 3 parts 076–102 reading; A1 dialogue does not itself establish the trainer's gender. (3) REVISE, HSCA-068: §25 adds a qualification and rewords its Sena ↔ Tsubame transition (earlier wording kept in the transition line); §27, §28 and §30.4 carry short dated cross-references.
 
 ## 0. Scope, method, and principal finding
 
@@ -28,6 +33,8 @@ The source boundary is the complete `support_series_2_part_026-050.dialogue.txt`
 As throughout Phase 5, support-story IDs are not treated as chronology. Paired parts under one support-story number are read as related evidence surfaces, not automatically as adjacent scenes. Most scenes remain modular C2/C4-compatible evidence unless an explicit memory, seasonal anchor, institutional role, or relationship-state reference earns stronger placement.
 
 The A2 dialogue extraction is the reading surface. A1 raw-script paths remain the source authority for wording and are retained in the locator section. No facial animation, card illustration, camera state, costume rendering, or vocal nuance is promoted from text alone. Performance-sensitive questions are routed to the audiovisual queue.
+
+**Pronoun convention for Mao (GKM-SAA-013 / GKM-SAA-031, 2026-11-15).** Mao's ボク and prince register are not grounds for masculine English pronouns; pronouns follow the character, not the persona (see MAO-C14). Mao describes herself as a girl (`adv_dear_amao_003` L81; `adv_cidol-amao-3-015_02` L147), and in Series 2 Rinami calls her a cute girl (`adv_csprt-2-0020_01` L143). This reading therefore uses she/her for Mao. Quoted Japanese is unchanged.
 
 ### Principal tranche thesis — care becomes technique
 
@@ -153,12 +160,12 @@ The implication is bounded but strong: Rinami understands Mao well enough to cre
 
 Part 2 shifts to Sena's fixation on Kotone. Sena calls Kotone a giant diamond in the rough, offers to buy her tea, and declares them “partners and friends” so they can discuss future production. Kotone's answer is revealingly double-negative: she does not *entirely* deny friendship, and free food tempts her, but she still escapes the production conversation.
 
-Mao's reaction is useful observer triangulation. He has known Sena as a high-functioning president and top idol but had not realized this “intense” side existed.
+Mao's reaction is useful observer triangulation. She has known Sena as a high-functioning president and top idol but had not realized this “intense” side existed.
 
 ### Claim transitions
 
 - **Mao ↔ Rinami — STRENGTHEN:** reciprocal care can operate through face-saving indirection; Rinami knows when to solve a problem without naming it.
-- **Mao — STRENGTHEN:** his composed prince/senior surface is observably more permeable around Rinami.
+- **Mao — STRENGTHEN:** her composed prince/senior surface is observably more permeable around Rinami.
 - **Sena — STRENGTHEN:** Kotone pursuit is experienced by established peers as a genuine departure in intensity, not merely normal presidential enthusiasm.
 - **Kotone ↔ Sena — STRENGTHEN:** Kotone permits some friendship language while still rejecting Sena's attempt to convert relational access into production agreement.
 
@@ -299,9 +306,9 @@ Part 2 turns to school performance. China happily describes learning alongside f
 
 Sumika directs Mao through pose work and asks for a “prince-like” version. Mao gives her a full `子猫ちゃん♪` line, then discovers Sumika was also recording video for publicity rather than only taking the assignment photograph. Mao is mortified and tries to stop its use.
 
-By part 2, the video is successful. Mao continues participating because increasing Sumika's fans would make him happy. The hierarchy reverses: Sumika is the domain expert in short-form publicity, while Mao supplies the performance asset.
+By part 2, the video is successful. Mao continues participating because increasing Sumika's fans would make Mao happy too. The hierarchy reverses: Sumika is the domain expert in short-form publicity, while Mao supplies the performance asset.
 
-Then Mao becomes genuinely playful. When Sumika asks for a pose with his hand at her waist, Mao adds `――お姫様`, surprising her enough that she privately admits she may actually be flustered. Mao explains that he “got carried away.”
+Then Mao becomes genuinely playful. When Sumika asks for a pose with Mao's hand at Sumika's waist, Mao adds `――お姫様`, surprising Sumika enough that she privately admits she may actually be flustered. Mao explains that she “got carried away.”
 
 ### Claim transitions
 
@@ -432,7 +439,7 @@ The dance trainer is strict but brings Kotone a sports drink because she has bee
 
 This is professionalism under scarcity. Kotone's paid-work schedule makes time itself an economic resource.
 
-In part 2 the trainer warns her not to become so tense that the dance stiffens. His main advice is not a shortcut but a shift in orientation: practice until the body remembers, and always imagine the audience because rehearsal exists for performance rather than for rehearsal itself.
+In part 2 the trainer warns her not to become so tense that the dance stiffens. Her main advice is not a shortcut but a shift in orientation: practice until the body remembers, and always imagine the audience because rehearsal exists for performance rather than for rehearsal itself.
 
 Kotone accepts the argument immediately.
 
@@ -588,7 +595,7 @@ Forms of address should be modeled relationally, not as static character diction
 **Participants:** Temari, Mao  
 **Functions:** bug fear, childhood oddity, dorm safety, supernatural fear, mutual help
 
-Temari panics when a ladybug flies into her hair and asks Mao to remove it. Mao handles the bug calmly and admits that as a child he liked outdoor play enough to “talk with insects.” Temari privately revises her impression: Mao is kind and dependable, but perhaps strange.
+Temari panics when a ladybug flies into her hair and asks Mao to remove it. Mao handles the bug calmly and admits that as a child she liked outdoor play enough to “talk with insects.” Temari privately revises her impression: Mao is kind and dependable, but perhaps strange.
 
 Part 2 reverses the fear distribution. Mao is setting homemade snake traps after sightings near the dorm. Temari recalls a school ghost story about a human-faced snake and notices that Mao is trembling after a sudden sound. Mao is frightened but keeps trying to reassure dorm residents through action.
 
@@ -599,7 +606,7 @@ Temari offers to help. Mao initially says it is the dorm leader's job; Temari an
 - **Temari — STRENGTHEN:** fear can make her openly dependent on a senior without destroying pride.
 - **Mao — STRENGTHEN:** dependable seniority does not require fearlessness; duty can coexist with private fear.
 - **Mao ↔ Temari — PROMOTE:** mutual vulnerability supports reciprocal practical help rather than one-way senior rescue.
-- **Mao — STRENGTHEN:** dorm leadership includes mundane safety work that he initially considers his responsibility to absorb alone.
+- **Mao — STRENGTHEN:** dorm leadership includes mundane safety work that she initially considers her responsibility to absorb alone.
 
 ---
 
@@ -684,13 +691,15 @@ Tsubame hears condescension. Mao and Rinami understand that Sena is trying to pr
 
 This is an important Sena/Tsubame communication mismatch: Sena's own history makes “unfinished” developmentally precious, but Tsubame's rival orientation hears rank dominance.
 
+**Qualification (HSCA-068; REVISE of the mismatch framing, 2026-11-15).** The scene does not show Tsubame simply mishearing developmental praise. In the same exchange Sena makes explicit superiority claims: she has no intention of losing to Tsubame yet (`adv_csprt-2-0049_01` L32), the result would be the same however many times they danced (L44), and her own dance is the more complete (L102). She then laughs at Tsubame's anger (L136). In part 2 Tsubame names this as Sena's habitual skill at provocation, `相変わらず人を煽るのが上手い女だ` (`_02` L113), and Sena again pairs praise with rank by calling Tsubame the academy's No.2, after herself (L123). Sena's speech therefore combines sincere valuation of Tsubame's growth with knowing, playful rank provocation that Tsubame recognizes as habitual; the friction is mutual sport as well as misreading. Rinami's reading that Sena wants to convey talent (`_01` L143) and Mao's verdict that it sounds only like provocation (L149) are observer judgments, and the two readings can coexist. Relationship Systems II §5 already models the pair as adversarial intimacy. The tone itself remains AV-gated.
+
 Part 2 moves to council administration. Sena and Tsubame process documents with intimidating speed. Tsubame tells Ume and China they will be responsible for this work next year. Sena says not to worry because they will be taught—by Tsubame. When Tsubame objects, Sena praises her as more capable outside idol work, then identifies her as the academy's No.2 idol as well.
 
 Ume's surprised reaction irritates Tsubame enough that she promises very thorough training.
 
 ### Claim transitions
 
-- **Sena ↔ Tsubame — PROMOTE/STRENGTHEN:** rivalry contains a systematic mismatch between Sena's developmental praise and Tsubame's sensitivity to hierarchy.
+- **Sena ↔ Tsubame — PROMOTE/STRENGTHEN, wording REVISED 2026-11-15 (HSCA-068):** Sena pairs sincere valuation of Tsubame's growth with deliberate, playful rank provocation that Tsubame recognizes as habitual (`相変わらず人を煽るのが上手い`); the friction is mutual sport as well as misreading. Earlier wording: “rivalry contains a systematic mismatch between Sena's developmental praise and Tsubame's sensitivity to hierarchy.”
 - **Sena — STRENGTHEN:** she values incompletion because it preserves growth; this is consistent with her own fear of developmental closure.
 - **Tsubame — STRENGTHEN:** administrative competence is elite and highly trusted by Sena.
 - **Student council — PROMOTE:** succession includes explicit skills transfer from current leaders to Ume and China, not merely appointment to titles.
@@ -765,7 +774,7 @@ Temari's remembered shopping volume is not enough to infer a socioeconomic profi
 **STRENGTHEN / PROMOTE**
 
 - Rinami has privileged access to a softer/private Mao and can protect face through indirect practical care.
-- Sumika can teach Mao publicity technique, while Mao can choose to lean into prince performance playfully once he regains authorship of the context.
+- Sumika can teach Mao publicity technique, while Mao can choose to lean into prince performance playfully once she regains authorship of the context.
 - Dorm leadership includes mundane safety labor and a tendency to absorb responsibility personally.
 - Fear does not negate dependable seniority; Temari can notice fear and still rely on Mao.
 
@@ -844,7 +853,7 @@ Temari's remembered shopping volume is not enough to infer a socioeconomic profi
 
 **PROMOTE / STRENGTHEN**
 
-- Sena/Tsubame rivalry is now tied to a repeatable semantic mismatch: Sena praises developmental incompletion, while Tsubame hears hierarchical condescension.
+- Sena/Tsubame rivalry is now tied to a repeatable semantic mismatch: Sena praises developmental incompletion, while Tsubame hears hierarchical condescension. (Qualified 2026-11-15, HSCA-068: Sena also provokes on rank deliberately and Tsubame names the habit; see §25.)
 - Tsubame's council/administrative competence is elite, not merely adequate.
 - She is explicitly positioned as a teacher for the next council generation.
 
@@ -870,7 +879,7 @@ Temari's remembered shopping volume is not enough to infer a socioeconomic profi
 | Hiro ↔ China/Ume | **STRENGTHEN** | Hiro actively hosts friend-play and values their enjoyment |
 | Saki ↔ Lilja | **PROMOTE** | explicit `友達`; rivalry pedagogy and reciprocal motivation |
 | Kotone ↔ Sumika | **PROMOTE** | mutual styling, budget/fashion exchange, dessert sharing |
-| Sena ↔ Tsubame | **PROMOTE** | rank rivalry plus persistent misreading of “unfinished” praise |
+| Sena ↔ Tsubame | **PROMOTE** | rank rivalry plus persistent misreading of “unfinished” praise, alongside Sena's deliberate rank provocation that Tsubame names as habitual (HSCA-068; §25) |
 | Kotone ↔ Temari | **PROMOTE/STRENGTHEN** | errands, shopping, diet talk, clothes recommendations, sincere praise |
 
 ---
@@ -942,7 +951,7 @@ This matters for simulation because the likely advice-giver depends on the domai
 
 ## 30.4 Incompletion as developmental value
 
-**STRENGTHEN.** Sena's praise of Tsubame as unfinished clarifies a major Sena motif: an unfinished person remains capable of becoming more. The tragedy is that this compliment arrives in language a rival hears as domination.
+**STRENGTHEN.** Sena's praise of Tsubame as unfinished clarifies a major Sena motif: an unfinished person remains capable of becoming more. The tragedy is that this compliment arrives in language a rival hears as domination. (Qualified 2026-11-15, HSCA-068: the same scene pairs the compliment with Sena's knowing rank provocation, which Tsubame calls habitual (`adv_csprt-2-0049_02` L113), so the friction is partly mutual sport rather than only a tragic mishearing; see §25.)
 
 ## 30.5 Ordinary pleasure as relational infrastructure
 

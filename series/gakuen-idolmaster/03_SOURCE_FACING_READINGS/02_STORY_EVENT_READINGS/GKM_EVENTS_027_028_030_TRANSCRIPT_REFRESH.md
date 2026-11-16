@@ -5,9 +5,14 @@ artifact_type: event_deep_reading
 generation: V2
 status: canonical
 source_boundary: "GAKUMAS V2 Source Lock 1.1 — Event 027, 028 and 030 A1 only"
+version: "1.1"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15 correction (GKM-SAA-270) applied by targeted edit: the Event 024 → Event 028 festival link is STRENGTHENED as an inference and the late-September versus September-exam dating is left OPEN."
 ---
 
 # Numbered events 027, 028 and 030
+
+> **Revision record — v1.1, 2026-11-15 (source-to-analysis audit corrections).** First versioned revision; the 2026-11-12 text counts as v1.0. One dated paragraph is added after the E028 continuity paragraph (GKM-SAA-270; STRENGTHEN link, OPEN date). The earlier sentence "before September intake" is retained as an E028-local statement.
 
 This reading supplements the Source Lock 1.0 numbered-event readings. It covers all fifteen A1 scripts and 949 message commands across these three events. In the references below, `E027/03 M039` means the 39th `[message]` in original `adv_event_027_main-03.txt`, sorted as `transcripts_raw/06_story_events/event_027/main-03.txt`. Substitute the indicated event and part for the other references. Raw narration commands are cited by physical line. The event scripts contain no player-choice branches. Each event is C1 internally. The cross-event and shared-story links below have their own bounds.
 
@@ -40,6 +45,8 @@ The childhood memory has separate perspectives. Misuzu remembers being unable to
 **Rinami and Tsubame.** Rinami's words `本物のアイドル` and `資格` express her doubt about being entitled to pursue the role (03 M069–074). Tsubame asks `お前は今、どうしたいんだ！？` and names the work Rinami has already been doing (05 M044–057). Rinami's inner answer appeals to her own body that has kept being an idol for three years (M059–064). The scene makes her stage decision legible as her own. Tsubame and Sena provide access. Tsubame earlier asks Sena to use her office, Rinami later identifies the intervention as for her, and Tsubame publicly frames it as Sena's whim. This sequence supports an inference of intentional assistance without resolving who designed every detail. Tsubame closes by calling Rinami a prospective rival for both herself and Sena (M070–078). Rinami can move from supporting a stage to performing on it without discarding the school and care work that the episode has shown.
 
 **Continuity.** This is the third-years' last school festival, after the summer H.I.F. and before September intake, Selection and winter H.I.F. The president appears first under `？？？` and is identified within the scene. Rinami's memory of getting soaked at a summer live with Mao and Azasshii (04 M037–039) supplies a cross-event matching anchor. The date and the corresponding Produce or Dear result remain open. Venus at 03 M040 is `一番星` read `いちばんぼし`; the historical title at M044 uses the same characters read `プリマステラ`.
+
+**Event 024 link and dating — 2026-11-15 (GKM-SAA-270; STRENGTHEN link, OPEN date).** Ume says the mystery event has been brushed up further since then (03 M023–024). The most economical reading is that this festival is the one whose culture-festival project Ume and Misuzu planned in Source Lock 1.0 Event 024 (`adv_event_024_main-02`; Events 021+ reading §1.3 and §5.2). The link is an inference, and it creates a dating tension. Hidden narration in Event 024 dates the planning to late September (`――9月下旬。`, physical line 4), with the concept settled a few days later (`――数日後。`, physical line 175). Event 028 places the festival in the week after the career forms are handed out (01 M002) and before Rinami's September exam (01 M004–006; 05 M075). Either the exam falls at the very end of September or one dating is loose. Read "before September intake" in the previous paragraph as an E028-local statement.
 
 ## E030 — Lilja leads by matching different performers to the same brief
 

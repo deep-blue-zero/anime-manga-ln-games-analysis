@@ -2,14 +2,18 @@
 title: "Gakuen Idolmaster V2 Branch Topology and Result-State Model"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "branch topology specification"
-version: "2.0"
+version: "2.1"
 phase: "1 - Continuity and Story-State Reconstruction"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 created: "2026-08-13"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15 targeted addition (STRENGTHEN): §5.5 records two SL1.0 lesson variants that presuppose a P3-C run producing Sena; the NOT PRESENT IN LOCK rule and all other content unchanged"
 status: "canonical Phase 1 artifact"
 ---
 
 # GKM BRANCH TOPOLOGY AND RESULT-STATE MODEL
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** STRENGTHEN: §5.5 adds a note that two SL1.0 shared lesson variants presuppose a P3-C run in which the Producer produces Sena (GKM-SAA-116). The coverage rule and all other sections are unchanged.
 
 ## 0. Purpose
 
@@ -249,6 +253,8 @@ The statements “Sena is current champion” and “Ume is current champion” 
 ## 5.5 Coverage limitation
 
 No individual Series 3 pstory fragments exist for Kotone, Sena, or Tsubame in Source Lock 1.0. This must be represented as `NOT PRESENT IN LOCK`, not `DID NOT PARTICIPATE`.
+
+Note (GKM-SAA-116; 2026-11-15): the absence concerns Produce Story fragments, not every trace of a P3-C[SENA] state. Two SL1.0 shared Produce-event lesson variants presuppose a run in which the Producer produces Sena: `adv_pevent_003_cmmn_school_1-006-02` (Asari addresses him as Sena's 担当プロデューサー, L5, L13) and `adv_pevent_003_cmmn_school_3-005-02` (a planned fourth consecutive H.I.F. title, L5, L13, L22–L25). They are C3 lesson variants within P3-C and do not create a Sena Series 3 biography. SL1.1 later supplies P3-SENA material.
 
 ---
 
