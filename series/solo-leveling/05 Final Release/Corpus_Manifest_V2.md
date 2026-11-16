@@ -15,7 +15,7 @@ source_boundary: "Chugong's complete original Korean novel and official English 
 
 The project has one current first-read surface after authorized integration, the [V2 corpus map](../04%20Specialist%20Synthesis/00_README_AND_CORPUS_MAP_V2.md). The project-local descriptor selects `series/solo-leveling/04 Specialist Synthesis/00_README_AND_CORPUS_MAP_V2.md` for the generated catalog. V2 authority applies to the complete Korean novel omnibus, including the 21 numbered side stories and two postscripts, and to the official English manhwa through V15. Source identity, provenance, and sampled boundaries are documented in the [source verification](../02%20Source%20Audits/Solo_Leveling_V2_Source_Verification.md) and [corrected correspondence map](../03%20Evidence%20and%20Crosswalk/Solo_Leveling_Corrected_Correspondence_Map_v2.md).
 
-The edition includes fourteen numbered documents with 124,115 whitespace-delimited words, including the evidence ledger. The [claim revisions](../03%20Evidence%20and%20Crosswalk/Solo_Leveling_V2_Claim_Revisions.md) are authoritative for dispositions on historical claims. The [integration report](Solo_Leveling_V1_to_V2_Analytical_Change_Report.md) records the substantive choices and review. The character model follow-up scopes separate operational questions.
+The edition includes fourteen numbered documents with 124,067 whitespace-delimited words, including the evidence ledger. The [claim revisions](../03%20Evidence%20and%20Crosswalk/Solo_Leveling_V2_Claim_Revisions.md) are authoritative for dispositions on historical claims. The [integration report](Solo_Leveling_V1_to_V2_Analytical_Change_Report.md) records the substantive choices and review. The character model follow-up scopes separate operational questions.
 
 ## Authority transition
 
@@ -64,7 +64,7 @@ Paths are relative to `series/solo-leveling/`. [Artifact_Checksums_V2.sha256](Ar
 | `04 Specialist Synthesis/01_SERIES_ARCHITECTURE_AND_VOLUME_PROGRESSION_V2.md` | 67,980 | `d9240d50a6212e6243775cf179c1f7e330e6a2940099913f1f67d3752a39040a` |
 | `04 Specialist Synthesis/02_SUNG_JINWOO_CHARACTER_DEEP_DIVE_V2.md` | 110,302 | `da642e3fd0ebd1e04968c9df7196fb8e34733966f06a4f84b991d93cc61f10c9` |
 | `04 Specialist Synthesis/03_POWER_AUTONOMY_SOVEREIGNTY_AND_SELF_AUTHORSHIP_V2.md` | 57,295 | `635f551029478deaac3e5f72fecac49d51abc29fcfd0e0e521fae1ea65aef47e` |
-| `04 Specialist Synthesis/04_ETHICS_VIOLENCE_JUDGMENT_PERSONHOOD_AND_CARE_V2.md` | 66,001 | `a39c7102f3c573170f4177bf8ac452734fb70aa0f3296aea0526724afcfe84e0` |
+| `04 Specialist Synthesis/04_ETHICS_VIOLENCE_JUDGMENT_PERSONHOOD_AND_CARE_V2.md` | 66,192 | `3f2c98710dfd0feceb6ee911f14ca42cc933221e04fc6d745981816ab3008427` |
 | `04 Specialist Synthesis/05_HUMAN_RELATIONSHIPS_FAMILY_AND_COUNTER_GAZES_V2.md` | 62,909 | `91a074f344cb95a08ca12c18edd4658d895beec43dccbc4abad8e0b1736382de` |
 | `04 Specialist Synthesis/06_SHADOW_ARMY_PERSONHOOD_MONARCHY_AND_DEPENDENT_SOCIETY_V2.md` | 49,670 | `6a71b48787c66436fd8a2a4a19ec1496c967e442a7365216fd9f74fb754b1c81` |
 | `04 Specialist Synthesis/07_INSTITUTIONS_GUILDS_STATECRAFT_AND_GEOPOLITICS_V2.md` | 55,123 | `92a841911bb9f96092a1899d4091cd0ccf79487366a0274898c906f05873d10c` |

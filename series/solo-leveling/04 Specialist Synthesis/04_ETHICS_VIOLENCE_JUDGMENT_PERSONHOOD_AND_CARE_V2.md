@@ -818,7 +818,7 @@ Suho does not choose:
 - the conditions under which memory returns;
 - or the threshold Jinwoo uses to judge readiness.
 
-The first terminal prose dream appears at V15 p058; p059 introduces the older student, p061 is the Part 5 interleaf and p062 names Suho. The later book includes original trials and adapted material such as the prose office story framed at pp244–251. Its different sources carry different claims about what Jinwoo hopes to teach and what helping weaker hunters means.
+The final sentence of Chugong’s prose corresponds to the opening dream panel on V15 p058. Page 59 introduces the older student. After the Part 5 interleaf on p061, a classmate addresses him as “Sungho” on p062. The later trial sequence establishes that he is Jinwoo’s son (V15 pp229–234) and uses “Sooho” on p234. The later book includes original trials and adapted material such as the prose office story framed at pp244–251. Its different sources carry different claims about what Jinwoo hopes to teach and what helping weaker hunters means.
 
 The moral contrast with the Architect is substantial.
 
