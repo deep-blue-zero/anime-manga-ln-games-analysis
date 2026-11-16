@@ -8,7 +8,8 @@ authority_generation: v2
 canonical_home: series/solo-leveling/04 Specialist Synthesis/00_README_AND_CORPUS_MAP_V2.md
 version: '2.0'
 status: canonical
-supersedes: []
+supersedes:
+- series/solo-leveling/90 Legacy and Superseded/V1 Analysis/04 Specialist Synthesis/00_README_AND_CORPUS_MAP.md
 superseded_by: []
 do_not_use_as_current_authority: false
 source_scope:
@@ -199,4 +200,4 @@ The final prose sentence aligns with the first dream panel on V15 p058. Waking c
 
 Read from this corpus map to the responsible specialist and the corrected evidence. Evidence available at a particular time limits what that part of the narrative establishes. Exact primary observations and attribution have precedence when they conflict with a thematic synthesis.
 
-The V2 edition supersedes the affected V1 analyses in the current project route upon authorized integration. The V1 files and their original publication metadata remain available as a record of the earlier interpretation. The release manifest gives the pinned V1 archive, checksum history and exact successor mapping. The methodological amendment scopes the use of the two preserved V1 foundations. The merged Phase 3 audit remains the historical input to the [claim revisions](../03%20Evidence%20and%20Crosswalk/Solo_Leveling_V2_Claim_Revisions.md).
+The V2 edition supersedes the affected V1 analyses in the current project route upon authorized integration. The V1 files remain available under [`90 Legacy and Superseded/V1 Analysis/`](../90%20Legacy%20and%20Superseded/V1%20Analysis/04%20Specialist%20Synthesis/00_README_AND_CORPUS_MAP.md) as a record of the earlier interpretation. They are marked `superseded`, and V2 is the edition to cite. The release manifest gives the pinned V1 archive, checksum history and exact successor mapping. The methodological amendment scopes the use of the two preserved V1 foundations. The merged Phase 3 audit remains the historical input to the [claim revisions](../03%20Evidence%20and%20Crosswalk/Solo_Leveling_V2_Claim_Revisions.md).

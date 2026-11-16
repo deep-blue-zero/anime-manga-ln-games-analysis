@@ -7,7 +7,8 @@ authority_generation: v2
 canonical_home: series/solo-leveling/04 Specialist Synthesis/01_SERIES_ARCHITECTURE_AND_VOLUME_PROGRESSION_V2.md
 version: '2.0'
 status: canonical
-supersedes: []
+supersedes:
+- series/solo-leveling/90 Legacy and Superseded/V1 Analysis/04 Specialist Synthesis/01_SERIES_ARCHITECTURE_AND_VOLUME_PROGRESSION.md
 superseded_by: []
 do_not_use_as_current_authority: false
 source_scope:
