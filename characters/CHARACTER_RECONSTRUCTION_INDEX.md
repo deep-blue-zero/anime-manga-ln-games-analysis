@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 149; `STALE` 1; `SUPERSEDED` 33
+- Recorded totals: `CANDIDATE` 150; `STALE` 1; `SUPERSEDED` 33
 
 ## Namespaces
 
@@ -40,7 +40,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 30 | 42 |
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 2 | 2 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 7 |
-| [`project-sekai`](reconstruction_index/project-sekai.md) | 1 | 2 |
+| [`project-sekai`](reconstruction_index/project-sekai.md) | 2 | 3 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 18 | 19 |
 | [`shiboyugi`](reconstruction_index/shiboyugi.md) | 1 | 1 |
 | [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 6 | 6 |
@@ -163,6 +163,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `peach-girl:okayasu-kairi@manga` | [`peach-girl-okayasu-kairi-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-okayasu-kairi-manga-v01-v18-dossier-20261110-01) | `CANDIDATE` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
 | `peach-girl:okayasu-ryo@manga` | [`peach-girl-okayasu-ryo-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-okayasu-ryo-manga-v01-v18-dossier-20261110-01) | `CANDIDATE` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
 | `peach-girl:tojigamori-kazuya@manga` | [`peach-girl-tojigamori-kazuya-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-tojigamori-kazuya-manga-v01-v18-dossier-20261110-01) | `CANDIDATE` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
+| `project-sekai:nene@game` | [`project-sekai-nene-game-generation-2-package-20261116-01`](reconstruction_index/project-sekai.md#project-sekai-nene-game-generation-2-package-20261116-01) | `CANDIDATE` | `B` | `51d0e99d78a1f60d8d1551a03c58f8e7291e2b27` |
 | `project-sekai:tsukasa@game` | [`project-sekai-tsukasa-game-generation-2-package-20261116-02`](reconstruction_index/project-sekai.md#project-sekai-tsukasa-game-generation-2-package-20261116-02) | `CANDIDATE` | `B` | `58340ff57a3ae0e5f7b3d97996ba9ad47cc24d4a` |
 | `project-sekai:tsukasa@game` | [`project-sekai-tsukasa-game-generation-2-package-20261116-01`](reconstruction_index/project-sekai.md#project-sekai-tsukasa-game-generation-2-package-20261116-01) | `SUPERSEDED` | `B` | `6fca4fab304d77d2c3d448e67b995fea480c37b0` |
 | `re-zero:beatrice@light-novel` | [`re-zero-beatrice-ln-v01-v15-model-20261029-01`](reconstruction_index/re-zero.md#re-zero-beatrice-ln-v01-v15-model-20261029-01) | `CANDIDATE` | `C` | `057a9b65f94da293f9eda5a5cefd11568839a094` |
