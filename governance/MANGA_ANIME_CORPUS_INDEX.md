@@ -24,6 +24,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Azur Lane](../series/azur-lane/) — `series/azur-lane/`
 - [BLUE ARCHIVE](../series/blue-archive/) — `series/blue-archive/`
 - [Blue Box](../series/blue-box/) — `series/blue-box/` — Japanese アオのハコ main manga project with separate Interlude and Prologue prose supplement witnesses; medium-specific narration and cross-source continuity remain explicitly distinguished.
+- [Boku no Kanojo wa Dekkawaii](../series/boku-no-kanojo-wa-dekkawaii/) — `series/boku-no-kanojo-wa-dekkawaii/` — sanorin's Japanese school romantic-comedy manga 僕の彼女はデッカワイイ. Collected-page study of scale, visibility, comic timing and relationship change.
 - [Bottom-Tier Character Tomozaki](../series/tomozaki/) — `series/tomozaki/` — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
 - [Chainsaw Man](../series/chainsaw-man/) — `series/chainsaw-man/` — Japanese manga project for チェンソーマン; numbered main manga witnesses form the source lane, with adaptations and other works by the creator kept separate.
 - [Chitose Is in the Ramune Bottle](../series/chiramune/) — `series/chiramune/` — post-cutover Git-native analytical root; original-language light-novel sources remain in the governed Drive evidence plane.
