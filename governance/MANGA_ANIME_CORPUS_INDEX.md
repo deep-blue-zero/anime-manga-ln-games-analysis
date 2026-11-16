@@ -55,6 +55,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [NANA](../series/nana/) — `series/nana/`
 - [NTR: Netsuzou Trap](../series/ntr-netsuzou-trap/) — `series/ntr-netsuzou-trap/` — Frozen complete Japanese V01–V06 mainline retains its six freezes, four character monographs, six specialists and full-series argument. Separately admitted NTR-JP-LW has complete 24-image reading, sealed original-rule adjudication, appended current states/ledgers, scoped character and relationship extensions, supplemental integration and a justified broader-continuity synthesis. Other supplements remain quarantined; bounded final acceptance and exact-head publication verification follow the single canonical entrypoint and repository contract.
 - [One Punch Man](../series/one-punch-man/) — `series/one-punch-man/`
+- [Onna Tomodachi wa Tanomeba Igai to Yarasete Kureru](../series/onna-tomodachi/) — `series/onna-tomodachi/` — Japanese light-novel series 女友達は頼めば意外とヤらせてくれる and its manga adaptation. Distinct prose and manga evidence for focalization, relationships and agency.
 - [Oregairu](../series/oregairu/) — `series/oregairu/`
 - [Oreimo](../series/oreimo/) — `series/oreimo/`
 - [Peach Girl / ピーチガール](../series/peach-girl/) — `series/peach-girl/` — Original Japanese manga analysis of character development, directional relationships, information and reputation, and manga form; architecture supports longitudinal synthesis and time-bounded character reconstruction. Primary and derived evidence remain in Drive.
