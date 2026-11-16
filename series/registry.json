@@ -280,20 +280,20 @@
       "catalog_note": "Single Japanese animated feature: narrative, character and directed relationships, cinematic form and musical dramaturgy, with independent continuous-AV reading and bundle-mediated reconciliation."
     },
     {
-      "series_id": "delta-and-gamma-science-club-notes",
-      "stable_slug": "delta-and-gamma-science-club-notes",
-      "canonical_title": "Delta and Gamma - Science Club Notes",
+      "series_id": "delicious-in-dungeon",
+      "stable_slug": "delicious-in-dungeon",
+      "canonical_title": "Delicious in Dungeon",
       "media": [
-        "LIGHT_NOVEL"
+        "MANGA"
       ],
-      "repository_path": "series/delta-and-gamma-science-club-notes/",
-      "canonical_entrypoint": "series/delta-and-gamma-science-club-notes/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "repository_path": "series/delicious-in-dungeon/",
+      "canonical_entrypoint": "series/delicious-in-dungeon/CURRENT_STATE_AND_CORPUS_MAP.md",
       "canonical_entrypoint_status": "PRESENT_VERIFIED",
       "materialization_status": "PRESENT_UNREVIEWED",
       "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261115",
       "authority_status": "GIT_PRIMARY",
       "project_initiation_gate": "REQUIRED",
-      "catalog_note": "Japanese light novels デルタとガンマの理学部ノート; everyday mysteries, scientific inference, school club life and relationship disclosure in the collected prose."
+      "catalog_note": "Ryoko Kui's Japanese manga ダンジョン飯 (Dungeon Meshi). Manga-bounded study of group decision-making, food and material constraints, dungeon ecology, and visual narration."
     },
     {
       "series_id": "domestic-girlfriend",
