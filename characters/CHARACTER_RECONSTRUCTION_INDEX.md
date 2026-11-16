@@ -15,13 +15,13 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 146; `STALE` 1; `SUPERSEDED` 33
+- Recorded totals: `CANDIDATE` 147; `STALE` 1; `SUPERSEDED` 33
 
 ## Namespaces
 
 | Namespace | Subjects | Assessments |
 | --- | ---: | ---: |
-| [`86-eighty-six`](reconstruction_index/86-eighty-six.md) | 2 | 2 |
+| [`86-eighty-six`](reconstruction_index/86-eighty-six.md) | 3 | 3 |
 | [`attack-on-titan`](reconstruction_index/attack-on-titan.md) | 1 | 1 |
 | [`azur-lane`](reconstruction_index/azur-lane.md) | 2 | 2 |
 | [`blue-archive`](reconstruction_index/blue-archive.md) | 3 | 3 |
@@ -57,6 +57,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 
 | Subject | Assessment | Recorded status | Overall tier | Basis commit |
 | --- | --- | --- | --- | --- |
+| `86-eighty-six:raiden-shuga@original-light-novels` | [`86-eighty-six-raiden-shuga-ln-cmr-profile-20261116-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-raiden-shuga-ln-cmr-profile-20261116-01) | `CANDIDATE` | `B` | `d68f3465126a2a95fd36138af773ccaea10d8e9a` |
 | `86-eighty-six:shinei-nouzen@original-light-novels` | [`86-eighty-six-shinei-nouzen-ln-cmr-profile-20261023-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-shinei-nouzen-ln-cmr-profile-20261023-01) | `CANDIDATE` | `B` | `dd7112797976a61f5e85517b86a233f597ecbb1d` |
 | `86-eighty-six:vladilena-milize@original-light-novels` | [`86-eighty-six-vladilena-milize-ln-cmr-profile-20261116-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-vladilena-milize-ln-cmr-profile-20261116-01) | `CANDIDATE` | `B` | `d68f3465126a2a95fd36138af773ccaea10d8e9a` |
 | `attack-on-titan:erwin-smith@manga` | [`attack-on-titan-erwin-smith-manga-v2-shared-ledgers-20261115-01`](reconstruction_index/attack-on-titan.md#attack-on-titan-erwin-smith-manga-v2-shared-ledgers-20261115-01) | `CANDIDATE` | `C` | `e9f6fda08bd880fbfdc248355bae75d167519627` |
