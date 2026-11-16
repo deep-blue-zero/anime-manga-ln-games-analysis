@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 143; `STALE` 1; `SUPERSEDED` 32
+- Recorded totals: `CANDIDATE` 144; `STALE` 1; `SUPERSEDED` 33
 
 ## Namespaces
 
@@ -31,8 +31,8 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`cosmic-princess-kaguya`](reconstruction_index/cosmic-princess-kaguya.md) | 1 | 1 |
 | [`genshin-impact`](reconstruction_index/genshin-impact.md) | 1 | 1 |
 | [`harmony`](reconstruction_index/harmony.md) | 1 | 1 |
-| [`kamakura-sho`](reconstruction_index/kamakura-sho.md) | 2 | 4 |
-| [`konosuba`](reconstruction_index/konosuba.md) | 14 | 14 |
+| [`kamakura-sho`](reconstruction_index/kamakura-sho.md) | 2 | 5 |
+| [`konosuba`](reconstruction_index/konosuba.md) | 15 | 15 |
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 2 | 2 |
 | [`monogatari-series`](reconstruction_index/monogatari-series.md) | 1 | 1 |
@@ -74,13 +74,15 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `kamakura-sho:asumi-ogasawara@original-novel` | [`kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-v2-monograph-20261116-02`](reconstruction_index/kamakura-sho.md#kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-v2-monograph-20261116-02) | `CANDIDATE` | `B` | `58340ff57a3ae0e5f7b3d97996ba9ad47cc24d4a` |
 | `kamakura-sho:asumi-ogasawara@original-novel` | [`kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-studies-20261114-01`](reconstruction_index/kamakura-sho.md#kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-studies-20261114-01) | `SUPERSEDED` | `C` | `ba293c95436e3ebba51e57b144dedb59b802d19d` |
 | `kamakura-sho:asumi-ogasawara@original-novel` | [`kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-v2-monograph-20261116-01`](reconstruction_index/kamakura-sho.md#kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-v2-monograph-20261116-01) | `SUPERSEDED` | `B` | `6fca4fab304d77d2c3d448e67b995fea480c37b0` |
-| `kamakura-sho:motoya-kitsukawa@original-novel` | [`kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-studies-20261114-01`](reconstruction_index/kamakura-sho.md#kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-studies-20261114-01) | `STALE` | `C` | `6238b9e49be575ab682092ce353940d194b9c6c3` |
+| `kamakura-sho:motoya-kitsukawa@original-novel` | [`kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-v2-monograph-20261116-01`](reconstruction_index/kamakura-sho.md#kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-v2-monograph-20261116-01) | `CANDIDATE` | `B` | `f979bbe513c5013ec494c6268aca5168ff39296b` |
+| `kamakura-sho:motoya-kitsukawa@original-novel` | [`kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-studies-20261114-01`](reconstruction_index/kamakura-sho.md#kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-studies-20261114-01) | `SUPERSEDED` | `C` | `6238b9e49be575ab682092ce353940d194b9c6c3` |
 | `konosuba:amaryllis@original-light-novel` | [`konosuba-amaryllis-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-amaryllis-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `C` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
 | `konosuba:angie@original-light-novel` | [`konosuba-angie-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-angie-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `C` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
 | `konosuba:aqua@original-light-novel` | [`konosuba-aqua-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-aqua-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `B` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
 | `konosuba:darkness@original-light-novel` | [`konosuba-darkness-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-darkness-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `B` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
 | `konosuba:demon-king@original-light-novel` | [`konosuba-demon-king-ln-main17-u013-u014-monograph-20261026-01`](reconstruction_index/konosuba.md#konosuba-demon-king-ln-main17-u013-u014-monograph-20261026-01) | `CANDIDATE` | `E` | `c1ce63553e42527cebd7e6e4a665429c69619c88` |
 | `konosuba:heidel@original-light-novel` | [`konosuba-heidel-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-heidel-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `C` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
+| `konosuba:karen-donnelly@original-light-novel` | [`konosuba-karen-donnelly-original-light-novel-calibration-20261116-01`](reconstruction_index/konosuba.md#konosuba-karen-donnelly-original-light-novel-calibration-20261116-01) | `CANDIDATE` | `C` | `f979bbe513c5013ec494c6268aca5168ff39296b` |
 | `konosuba:mammon@original-light-novel` | [`konosuba-mammon-ln-main17-u012-monograph-20261026-01`](reconstruction_index/konosuba.md#konosuba-mammon-ln-main17-u012-monograph-20261026-01) | `CANDIDATE` | `E` | `c1ce63553e42527cebd7e6e4a665429c69619c88` |
 | `konosuba:megumin@original-light-novel` | [`konosuba-megumin-ln-main17-expanded-staged-20261027-01`](reconstruction_index/konosuba.md#konosuba-megumin-ln-main17-expanded-staged-20261027-01) | `CANDIDATE` | `C` | `e4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da` |
 | `konosuba:metal-mora@trpg-advanced-supplied-scenario` | [`konosuba-metal-mora-trpg-advanced-supplied-scenario-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-metal-mora-trpg-advanced-supplied-scenario-calibration-20261027-01) | `CANDIDATE` | `E` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
@@ -188,7 +190,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `shuukura:mio-komatsu@original-light-novel` | [`shuukura-mio-komatsu-ln-kss12-ln10-20261031-01`](reconstruction_index/shuukura.md#shuukura-mio-komatsu-ln-kss12-ln10-20261031-01) | `CANDIDATE` | `E` | `ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b` |
 | `shuukura:mio-komatsu@original-light-novel` | [`shuukura-mio-komatsu-ln-kss12-20261021-01`](reconstruction_index/shuukura.md#shuukura-mio-komatsu-ln-kss12-20261021-01) | `SUPERSEDED` | `E` | `036ed43f1d2a974b5351429792bae2c733e577db` |
 | `solo-leveling:cha-hae-in@original-korean-novel` | [`solo-leveling-cha-hae-in-original-korean-novel-reconstruction-model-20261107-01`](reconstruction_index/solo-leveling.md#solo-leveling-cha-hae-in-original-korean-novel-reconstruction-model-20261107-01) | `CANDIDATE` | `C` | `7da71cb9be614645641dc5c0038b1df3acf07063` |
-| `solo-leveling:sung-jinwoo@original-korean-novel` | [`solo-leveling-sung-jinwoo-original-korean-novel-model-and-deep-dive-20261114-01`](reconstruction_index/solo-leveling.md#solo-leveling-sung-jinwoo-original-korean-novel-model-and-deep-dive-20261114-01) | `CANDIDATE` | `B` | `cc2fc3f09157521688c863b1dfd65ef310d61dc4` |
+| `solo-leveling:sung-jinwoo@original-korean-novel` | [`solo-leveling-sung-jinwoo-original-korean-novel-model-and-deep-dive-20261114-01`](reconstruction_index/solo-leveling.md#solo-leveling-sung-jinwoo-original-korean-novel-model-and-deep-dive-20261114-01) | `STALE` | `B` | `cc2fc3f09157521688c863b1dfd65ef310d61dc4` |
 | `solo-leveling:yoo-jinho@original-korean-novel` | [`solo-leveling-yoo-jinho-original-korean-novel-reconstruction-model-20261114-01`](reconstruction_index/solo-leveling.md#solo-leveling-yoo-jinho-original-korean-novel-reconstruction-model-20261114-01) | `CANDIDATE` | `C` | `923ee527a9f594b30e751e697c62a0b549eb77dc` |
 | `sound-euphonium:kaori-nakaseko@original-novels` | [`sound-euphonium-kaori-nakaseko-original-novels-hibike-monograph-20261114-01`](reconstruction_index/sound-euphonium.md#sound-euphonium-kaori-nakaseko-original-novels-hibike-monograph-20261114-01) | `CANDIDATE` | `B` | `cc2fc3f09157521688c863b1dfd65ef310d61dc4` |
 | `the-idolmaster:yonai-p@u149-anime` | [`the-idolmaster-yonai-p-u149-anime-20261023-01`](reconstruction_index/the-idolmaster.md#the-idolmaster-yonai-p-u149-anime-20261023-01) | `CANDIDATE` | `D` | `dd7112797976a61f5e85517b86a233f597ecbb1d` |

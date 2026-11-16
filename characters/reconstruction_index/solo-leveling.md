@@ -54,7 +54,7 @@ Recorded assessments of subjects in the `solo-leveling` namespace of the [Charac
 
 #### Assessment `solo-leveling-sung-jinwoo-original-korean-novel-model-and-deep-dive-20261114-01`
 
-- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Recorded status: `STALE` — historical record; not current readiness
 - Entity: `solo-leveling:sung-jinwoo`
 - Scope: continuity `solo-leveling-original-korean-novel`
 - Source boundary: Only the subject's two curated REVIEWED items at basis\_commit, each read in full: SUNG\_JINWOO\_CHARACTER\_RECONSTRUCTION\_MODEL.md \(V1, active\_provisional\) and 02\_SUNG\_JINWOO\_CHARACTER\_DEEP\_DIVE.md \(v1.0, canonical\). Both are repository analysis of the Chugong Korean novel omnibus: main story, side stories 1-21 and the two postscripts. The deep dive's official-English-manhwa claims, including manhwa-original material after V15 p061, are set aside, and its novel claims are used. Neither item's own labels are adopted. The uncurated Solo Leveling synthesis documents, the other character models and capability records, and the primary text were not used. No primary-source inspection was made.
@@ -62,7 +62,7 @@ Recorded assessments of subjects in the `solo-leveling` namespace of the [Charac
 - Basis commit: `cc2fc3f09157521688c863b1dfd65ef310d61dc4`
 - Evidence set: `CHARACTER_EVIDENCE_SET_V1` `7b005e474b195cc9ccaadc85de895f4abd63030ac60ce25b783241832aee0e65`
 - Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, applying the owner calibration rulings recorded there \(B/C boundary, single counting of uncertainty, dialogue constrained-use test, chronology splits, relationship-transfer safeguards and control-state attribution\); evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
-- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Overall tier: historical `B` — strong inferential model with explicit bounded uncertainty
 - Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
   - `DIALOGUE` condition: One named developmental state \(RM §20\) and an interlocutor from the sampled classes in RM §21.
   - `DIALOGUE` condition: Output keeps interior reasoning out of speech unless the scene gives him a reason to say it \(RM §4\).
@@ -96,6 +96,7 @@ Recorded assessments of subjects in the `solo-leveling` namespace of the [Charac
 - Evidence at basis commit:
   - [`solo-leveling:sung-jinwoo@original-korean-novel#02-sung-jinwoo-character-deep-dive`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/cc2fc3f09157521688c863b1dfd65ef310d61dc4/series/solo-leveling/04%20Specialist%20Synthesis/02_SUNG_JINWOO_CHARACTER_DEEP_DIVE.md)
   - [`solo-leveling:sung-jinwoo@original-korean-novel#sung-jinwoo-character-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/cc2fc3f09157521688c863b1dfd65ef310d61dc4/series/solo-leveling/04%20Specialist%20Synthesis/SUNG_JINWOO_CHARACTER_RECONSTRUCTION_MODEL.md)
+- Stale reason: reconstruction\_status.py currentness at main f979bbe513c5013ec494c6268aca5168ff39296b reports EFFECTIVELY\_STALE with reasons EVIDENCE\_MEMBERSHIP\_CHANGED and SUBJECT\_COVERAGE\_CHANGED: discovery PR \#605 \(commit a971ab17\) added reviewed evidence solo-leveling:sung-jinwoo@original-korean-novel\#02-sung-jinwoo-character-deep-dive-v2 \(04 Specialist Synthesis/02\_SUNG\_JINWOO\_CHARACTER\_DEEP\_DIVE\_V2.md, canonical v2.0\) and routed it into the sung-jinwoo-reviewed-corpus coverage, so this assessment no longer covers the subject's reviewed evidence set. A reassessment at a newer basis is required before any assessment of this subject applies.
 
 ### Subject `solo-leveling:yoo-jinho@original-korean-novel`
 
