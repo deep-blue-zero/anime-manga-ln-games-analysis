@@ -69,7 +69,7 @@ Details: `checkpoints/CHECKPOINT_1_BASELINE_LOCKED.md`.
 | No-message objects inspected in A1 | 381: voice-only 284, staging-relevant 94 (87 in the system partition plus 7 Produce Series 003 staging stubs in the common-route partition), technical 2, opaque `musics.txt` 1 |
 | Partial / not read / inaccessible | 0 / 0 / 0 |
 | Objects carrying ≥1 independent observation | 2,600 |
-| Objects cited by a Stage B finding | 628 |
+| Objects linked to a Stage B finding | 678 |
 
 Per-object ledger: `C_SOURCE_COVERAGE_LEDGER.tsv` (one row per object: lock, archive path, SHA-256, reader, status, function, participants,
 observation IDs, finding IDs).
@@ -87,7 +87,7 @@ observation IDs, finding IDs).
 | MISINTERPRETED / ATTRIBUTION_ERROR / CONTINUITY_ERROR | 22 / 17 / 14 | 0.5 |
 | AV_DEPENDENT | 15 | 0.2 |
 
-> **Correction (2026-11-15).** An earlier version of this report gave the comparison total as 10,788 and computed the percentages against it. The category counts were right, but the total was an addition error carried over from Checkpoint 3. The frozen Stage B disposition files hold 9,788 rows, which is the denominator used above. The no-message line in §3 also omitted the 7 Produce Series 003 staging stubs classified in the common-route partition, so its classes now add to 381. A read-only external review found both errors. No finding, severity or recommendation changes.
+> **Correction (2026-11-15).** An earlier version of this report gave the comparison total as 10,788 and computed the percentages against it. The category counts were right, but the total was an addition error carried over from Checkpoint 3. The frozen Stage B disposition files hold 9,788 rows, which is the denominator used above. The no-message line in §3 also omitted the 7 Produce Series 003 staging stubs classified in the common-route partition, so its classes now add to 381. A read-only external review found both errors. A later review (PR #617) found that five findings naming their objects in shorthand (CMP01-C011, CMP01-C012, CMP06-C006, CMP07-C016, CMP10-C016) had no link in the coverage ledger. They are now linked through the objects of the Stage A observations they cite, which raises the count of objects linked to a finding from 628 to 678. Three findings cite no A1 object because they concern consistency inside the canon (CMP12-C012, CMP12-C013, CMP14-C011), so they stay unlinked. No finding, severity or recommendation changes.
 
 Errors of reading (misinterpretation, attribution, continuity) make up **half a percent** of comparisons. The corpus's weaknesses are mostly **absences
 and routing**, not misreadings.

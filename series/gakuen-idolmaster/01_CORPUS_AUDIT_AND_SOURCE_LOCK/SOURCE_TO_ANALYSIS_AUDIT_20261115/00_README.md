@@ -35,7 +35,7 @@ corrections the owner authorized are applied separately through the ordinary cla
 | [Adversarial review record](GKM_SAA_F_ADVERSARIAL_REVIEW_RECORD.md) and [review table](GKM_SAA_F_REVIEW_TABLE.md) | 85 independent reviews (47 sustained, 38 qualified, 0 rejected) and preserved dissent |
 | [Limitations and completion](GKM_SAA_G_LIMITATIONS_AND_COMPLETION.md) | What is and is not complete, independence and contamination disclosures |
 
-In both TSV files an empty final cell is written as `—`, so that no line ends in whitespace.
+In both TSV files an empty final cell is written as `—`, so that no line ends in whitespace. In the coverage ledger, five findings that name their objects in shorthand are linked through the objects of the Stage A observations they cite. Three findings concern consistency inside the canon and cite no A1 object, so they are not linked. The executive report's correction note gives the details.
 
 **Headline.** P0 0 · P1 4 · P2 113 · P3 175. 84% of 9,788 evidence comparisons were already covered by the canonical prose. 127 of the 180 Source Lock 1.0
 historical-audit findings (HSCA) were independently rediscovered.
