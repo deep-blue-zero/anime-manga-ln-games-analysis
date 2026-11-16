@@ -4,6 +4,7 @@ artifact_type: claim_revision_ledger
 scope: CHARACTER_KURAMOTO_CHINA_TEXTUAL_CORE_AV_REVISION
 character: Kuramoto China / 倉本千奈
 generation: V2
+version: "2.1"
 release: R1
 status: canonical
 source_boundary: AV revision of GKM_CORE_06_KURAMOTO_CHINA.md based on the complete Phase-3 audiovisual packet
@@ -11,10 +12,14 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 last_updated: '2026-08-21'
+revised: "2026-11-15"
+revision_note: "v2.1 source-to-analysis audit 2026-11-15 corrections (REVISE, narrowing two open items with textual A1 evidence; no AV claim changed): the Producer row and the open items on family resistance and Producer refusal carry dated narrowing notes (GKM-SAA-015, GKM-SAA-063)"
 title: GKM Core 06 — Kuramoto China AV Revision Addendum
 ---
 
 # GKM CORE 06 — KURAMOTO CHINA AV REVISION ADDENDUM
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** The unversioned addendum of 2026-08-21 is treated as v2.0. Version 2.1 appends dated narrowing notes to the Producer row and to two items under *Claims not closed by the AV packet*, using textual A1 evidence integrated into the parent core v2.1 §18 and §19 (GKM-SAA-015, GKM-SAA-063). The original wording of each row and item is retained before its note. No audiovisual evidence was inspected and no AV formulation is changed.
 
 This addendum routes the Phase-3 textual model through the complete China audiovisual pass. It does not silently mutate the textual core.
 
@@ -43,7 +48,7 @@ This addendum routes the Phase-3 textual model through the complete China audiov
 | D-CHINA Prima Stella can claim victory | **STRENGTHEN** | speech names support, raw-skill asymmetry, and personal victory together |
 | Top-idol self-credit is complete | **REJECT** | Dear 037 preserves inability to self-name despite public title and victory |
 | Gentle/elegant repertoire defines musical identity | **REVISE / EXPAND** | wonder remains central, but darker authority and common-song portability are real |
-| Producer enhances agency | **STRENGTHEN / OPEN** | he creates interpretive tasks rather than supplying every answer; disagreement and separation remain under-tested |
+| Producer enhances agency | **STRENGTHEN / OPEN** | he creates interpretive tasks rather than supplying every answer; disagreement and separation remain under-tested. *Narrowed 2026-11-15 (GKM-SAA-015): textually, D-CHINA attests a bounded refusal without relational cost, in which China declines his `まぐれ勝ち` strategy with an apology and he assents through a one-option choice (`adv_dear_kcna_033.txt` L344–L366); refusal under risk, sustained disagreement and separation remain open (core §18).* |
 | Responsible use resolves class inequality | **REJECT** | AV grandeur may aestheticize advantage; distributive fairness remains a Phase-8 question |
 
 ## Revised compact model
@@ -58,9 +63,9 @@ Formal shorthand:
 
 - whether China can sustain public authority during prolonged unpopular governance;
 - how she reacts when fans criticize, leave, or divide;
-- whether family love can be resisted when the family interest conflicts with public duty;
+- whether family love can be resisted when the family interest conflicts with public duty; *narrowed 2026-11-15 (GKM-SAA-063): resistance to family will is attested textually in D-CHINA (`adv_dear_kcna_009.txt` L151–L173; `adv_dear_kcna_010-01.txt` L14; `adv_dear_kcna_011.txt` L181–L241); resistance in a sustained conflict with public duty remains open (core §19, CHINA-C33);*
 - durability of China/Hiro reciprocity under serious disagreement or resource disparity;
-- stable Producer disagreement, refusal, or separation;
+- stable Producer disagreement, refusal, or separation; *narrowed 2026-11-15 (GKM-SAA-015): a bounded, cost-free refusal is attested at `adv_dear_kcna_033.txt` L344–L366; refusal under risk and separation remain open (core §18, CHINA-C29);*
 - post-D-CHINA self-naming as top idol;
 - support-card evidence about casual register and ordinary friendship;
 - cast-wide distributive comparison of wealth, access, production, and institutional legitimacy;

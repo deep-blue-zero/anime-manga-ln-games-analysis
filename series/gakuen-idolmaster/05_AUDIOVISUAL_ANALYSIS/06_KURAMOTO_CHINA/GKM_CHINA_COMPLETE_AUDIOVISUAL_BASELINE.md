@@ -4,6 +4,7 @@ artifact_type: audiovisual_baseline
 scope: CHARACTER_KURAMOTO_CHINA_PHASE3_COMPLETE_AV
 character: Kuramoto China / 倉本千奈
 generation: V2
+version: "2.1"
 release: R1
 status: canonical
 source_boundary: '21 canonical logical AV objects / 4.989 hours / 2.231 GB decimal: complete Dear 001-037, six complete song communications, eight rendered performances, and three authored official MVs; one duplicate high-resolution Dear 021/Kanae excerpt retained as a supplemental inspection aid'
@@ -12,11 +13,15 @@ supersedes:
 superseded_by: []
 do_not_use_as_current_authority: false
 last_updated: '2026-08-21'
+revised: "2026-11-15"
+revision_note: "v2.1 source-to-analysis audit 2026-11-15 correction (REVISE, narrowing open question 3 in §18 with textual A1 evidence; GKM-SAA-063); no audiovisual observation or AV claim is changed"
 title: Gakuen Idolmaster V2 — Kuramoto China Complete Audiovisual Baseline
 ---
 
 # GKM — KURAMOTO CHINA COMPLETE AUDIOVISUAL BASELINE
 ## Phase 3 integrated acting, register, privilege, leadership, fan relation, music, friendship, inheritance, and public-authority synthesis
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit correction).** The unversioned baseline of 2026-08-21 is treated as v2.0. Version 2.1 appends a dated narrowing note to §18 question 3 from textual A1 evidence integrated into `GKM_CORE_06_KURAMOTO_CHINA.md` §19 (GKM-SAA-063). The question's original wording is retained. No source was re-inspected audiovisually, and the packet, measurements and every AV finding are unchanged.
 
 ## 0. Authority and evidence discipline
 
@@ -671,7 +676,7 @@ Can China retain receptive authority when fans withdraw, allies resist, the Prod
 
 1. How do numbered events alter China’s ordinary group role outside her route’s privilege/leadership problem?
 2. Do support cards show a less regulated register with Hiro, Ume, Kanae, Sena, or other peers?
-3. Can China exercise authority against family interests rather than merely regulate excesses of family love?
+3. Can China exercise authority against family interests rather than merely regulate excesses of family love? *Narrowed 2026-11-15 (GKM-SAA-063; textual evidence, not AV): within D-CHINA she openly defies her grandfather for the first time by making him accept that she continues as an idol with her Producer (`adv_dear_kcna_009.txt` L151–L173); he stops his unreasonable requests after she scolds him (`adv_dear_kcna_010-01.txt` L14); and she refuses votes the household offers to command (`adv_dear_kcna_011.txt` L181–L241). Resistance to family will is therefore attested; authority against family interest in a sustained conflict with public duty remains open.*
 4. How does she respond to fans who criticize, leave, or refuse gratitude?
 5. Does prolonged student-council work preserve `ふにゃ/きり` permeability or harden the mask?
 6. Can Hiro and China remain reciprocal when their technical and material resources diverge sharply?

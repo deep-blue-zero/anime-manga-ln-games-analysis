@@ -9,11 +9,16 @@ source_boundary: Direct inspection of five Dear sources and eight Mao cidol comm
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: '2026-08-17'
+last_updated: '2026-11-15'
 parent_authority: GKM_MAO_COMPLETE_AUDIOVISUAL_BASELINE.md
+version: "2.1"
+revised: "2026-11-15"
+revision_note: "v2.1 applies the source-to-analysis audit 2026-11-15 (REVISE, textual scope only): §10 no longer states that the Dear spine could not supply Mao's Kansai register; no new audiovisual observation was made"
 ---
 
 # ARIMURA MAO — DIALOGUE AND VOICE-ACTING CLOSE READING
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** GKM-SAA-057 corrects one statement of scope in §10: the D-MAO script does contain Kansai speech, including its strongest eruption in Dear 022. The correction rests on A1 text only. No listening or motion review was performed for it, and the performed prosody of the Dear 022 scene is left to the Carbon observation queue. All other sections are unchanged; the earlier §10 sentence is kept.
 
 ## 0. Scope and limits
 
@@ -127,6 +132,8 @@ That conversion is important for voice modeling. Mature authority is less orname
 ## 10. Osaka/Kansai register — local memory and comic de-formalization
 
 `ミラクルナナウ(ﾟ∀ﾟ)！` adds a high-value state that the Dear spine could not supply. Mao deliberately performs Kansai speech, then demands the missing comic response. Later `そんなに泣いてへんし` slips out when the shopkeeper exposes childhood dependence.
+
+**2026-11-15 correction (GKM-SAA-057): REVISE — textual scope only.** The statement above that the Dear spine "could not supply" this state is wrong at the level of the script. Dear 022 contains Mao's strongest Kansai eruption, aimed at the Producer under maximal distress (`ボケナスのドアホーーーーーっ！`, `アホンダラーーーーーっ！`, `adv_dear_amao_022` L439–L496). In D-MAO Mao also relays her mother's invitation to the Producer to visit them in Hyogo (Dear 022 L339), calls Osaka her `地元` (Dear 032 L183) and has a Kansai tsukkomi in one Dear 033 branch (L281). The Osaka communication remains the fullest staged instance of playful, local Kansai, but in the Dear route the register also carries distress and intimacy. The textual core (§12.4) now models Kansai as Mao's emotional home register and keeps open whether it is native or acquired. The voice-state row "Kansai/local play" in §12 is read with this scope. This correction rests on A1 text only; the performed prosody of the Dear 022 outburst, and whether it plays as comic or serious, are optional calibrations for the Carbon observation queue, not findings of this document.
 
 The communication cycles among:
 
