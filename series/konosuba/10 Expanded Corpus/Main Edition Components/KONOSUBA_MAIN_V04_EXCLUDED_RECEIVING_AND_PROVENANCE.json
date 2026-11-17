@@ -1,0 +1,441 @@
+{
+  "schema": "KONOSUBA_MAIN_EXCLUDED_BOUNDED_SAME_ROOT_RECEIVING_V1",
+  "source_id": "MAIN-04",
+  "accepted_utc": "2026-10-19T08:38:07.954302+00:00",
+  "status": "ACCEPTED_AT_STATED_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "actual_source_scope": {
+    "schema": "KONOSUBA_MAIN_EXCLUDED_ACTUAL_NEW_READING_WITH_RETAINED_PRINCIPAL_RECEIPT_V1",
+    "source_id": "MAIN-04",
+    "accepted_utc": "2026-10-19T08:38:07.954302+00:00",
+    "native_filename": "Konosuba - Main Series - Volume 04.epub",
+    "native_bytes": 3907671,
+    "native_sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+    "OPF_member": "item/standard.opf",
+    "OPF_sha256": "18355a9f9399b24882cd76357319dea4c7735cd16218bba9a47fa916c88e7669",
+    "language": [
+      "ja"
+    ],
+    "colophon_and_bibliographic_difference": "Electronic colophon and print-basis firstedition both2014-05-01;copyright2014Akatsuki/Mishima/KADOKAWA;staff/designcredits retained. Publication prospects in afterword remain contemporaneous reports/plans.",
+    "admission_sha256": "fcb57c6be68440b882b67463db1c3364d05088ce6559e9bb43526815c58036f1",
+    "preceding_full_gate_source": "910badd95227b2a105ec9ba89ca74129434ebaf0",
+    "preceding_fresh_reload_sha256": "7655d22fb9f54ac234e98267f9b975b3514c5ef873fee4c713f8be7453e04bb7",
+    "excluded_uncoded_seal_sha256": "bc8664eee1eae39b251628e69e0564c16e88e5752bbfa6a29a9c59affcc968b1",
+    "excluded_uncoded_seal_utc": "2026-10-19T08:22:09.516350+00:00",
+    "actual_new_reading": {
+      "text_resources": 24,
+      "P_slots": 144,
+      "native_images": 31,
+      "ruby_and_nonparagraph_residual_received": true,
+      "bonus_P": 67,
+      "nonbonus_text_slots_P": 77,
+      "author_afterword_P": 26,
+      "other_wrapper_credit_slots_P": 51
+    },
+    "retained_principal_authority": {
+      "members": 9,
+      "P_slots": 3135,
+      "new_principal_reading_credit": 0,
+      "exact_native_and_prior_acceptance_control_joins": true
+    },
+    "fresh_native_CRC": "PASS",
+    "all_native_text_image_hashes_reverified": true,
+    "original_uncoded_pins": [
+      {
+        "file": "NATIVE_ADMISSION.json",
+        "bytes": 45811,
+        "sha256": "fcb57c6be68440b882b67463db1c3364d05088ce6559e9bb43526815c58036f1"
+      },
+      {
+        "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+        "bytes": 180818,
+        "sha256": "fe8b68fd56542773e4466504191ea6628b4ce6e6d4327a9295bc8f77c7066ce4"
+      },
+      {
+        "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+        "bytes": 24879,
+        "sha256": "e89a6a7f78dee2144141c58ece1749311efce42e4f54367e55d9126736e58c32"
+      },
+      {
+        "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+        "bytes": 21692,
+        "sha256": "2fd2cacbb590c4eb3a1efef770b6e0c63ad5eac67e5ecfcaa15f401952fb62d1"
+      }
+    ],
+    "public_preparation_view_is_redacted": true,
+    "formal_counts": [
+      12,
+      32,
+      31,
+      11,
+      28
+    ],
+    "party_comparisons": 8,
+    "typed_constraints_not_behavioral_scores": 4,
+    "continuing_informed_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD,YORI-01,YORI-02,YORI-03,YORI-04. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim. Separately completed main excluded-component programs: MAIN-01,MAIN-02,MAIN-03. These include their actual new bonuses/paratext/images, with original principal authority retained and zero new principal-pass credit. No pristine blindness is claimed.",
+    "no_new_blind_independent_audio_or_full_principal_reread_claim": true,
+    "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING"
+  },
+  "semantic_name_reference_review": "Same continuing informed root checked all17report sections against complete24resource/144P/31image reception and narrow retained-principal joins. Actual makeup, recipient preference, forced start/later scoped volunteering, mistaken staff identity, attempted correction, human-safety target error, hesitant intention and unshown spell release remain distinct. The two-page Wiz encounter is counterfactual; balloon actors/object, caged dragon, actual unnamed bath woman, welcome-speaker access and Hans identity are corrected additively without editing originals. All24native/eightraster fragments and both added image boundaries verified. Same-author bounded receiving, no independent review.",
+  "narrow_retained_principal_native_backjoins": {
+    "schema": "KONOSUBA_SECONDARY_ACCEPTED_PRINCIPAL_NATIVE_IMAGE_BACKJOIN_09",
+    "recorded_utc": "2026-10-19T08:24:50.588271+00:00",
+    "source": "MAIN-04",
+    "new_principal_pass_credit": 0,
+    "new_excluded_pass_credit_in_these_backjoins": 0,
+    "native_sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+    "windows": [
+      {
+        "component_id": "MAIN-04-U019",
+        "member": "item/xhtml/p-007.xhtml",
+        "member_sha256": "8d1119bc818f8df065a9efa77420778cb889f544e583d0bf6b2968248e145bf8",
+        "actual_untruncated_windows_P": [
+          [
+            1,
+            10
+          ],
+          [
+            368,
+            406
+          ]
+        ]
+      },
+      {
+        "component_id": "MAIN-04-U022",
+        "member": "item/xhtml/p-010.xhtml",
+        "member_sha256": "ce1612319bf679ca2731cad1a4ed16de4023a0b799ccb58490efd30c548515a7",
+        "actual_untruncated_windows_P": [
+          [
+            1,
+            42
+          ],
+          [
+            58,
+            124
+          ]
+        ]
+      },
+      {
+        "component_id": "MAIN-04-U016",
+        "member": "item/xhtml/p-004.xhtml",
+        "member_sha256": "5cb48cef90dcdc1419a9bf6bcb815043d55b9ebf7fdeb01d439139f033b9322e",
+        "actual_untruncated_windows_P": [
+          [
+            93,
+            115
+          ],
+          [
+            329,
+            356
+          ]
+        ]
+      },
+      {
+        "component_id": "MAIN-04-U017",
+        "member": "item/xhtml/p-005.xhtml",
+        "member_sha256": "2b11d380ddfd3c23806883176f5f2419b7266685960ff726debb82f91a490c65",
+        "actual_untruncated_windows_P": [
+          [
+            21,
+            34
+          ]
+        ]
+      },
+      {
+        "component_id": "MAIN-04-U024",
+        "member": "item/xhtml/p-012.xhtml",
+        "member_sha256": "c512e28feb296ec13d93e49f99d3b9a99053adce9fdc73891a6c3f920e80adf3",
+        "actual_untruncated_windows_P": [
+          [
+            216,
+            282
+          ]
+        ]
+      }
+    ],
+    "current_qualifications": [
+      {
+        "images": [
+          "MAIN-04-IMG018",
+          "MAIN-04-IMG019"
+        ],
+        "finding": "One explicitly counterfactual imagined bath/back-washing encounter with Wiz. Retained U019P402-406 says Wiz already bathed before return; K wonders what might have happened if not delayed. U022P1-2 returns to her question and his five/ten-minute regret. No actual meeting or washing with Wiz. Preserve original uncoded uncertainty and resolve additively."
+      },
+      {
+        "images": [
+          "MAIN-04-IMG015"
+        ],
+        "finding": "Current precision corrects uncoded object/identity impression: U016P101 explicitly Aqua inflates rubber and Darkness follows103-104; K privately identifies failed contraceptive prototypes105 now reused as balloons. Not food/snacks or Yunyun, and no actual sexual act. Original visual impression remains history, not current authority."
+      },
+      {
+        "images": [
+          "MAIN-04-IMG016"
+        ],
+        "finding": "Caged creature explicitly dragon U016P341, M seeks food342; Wiz pets unusually attached Chomusuke343. No inferred bird species or introduced second named pet. Wiz considers Vanir work-exclusion as kindness351, while K admits withheld real travel reason353-354: actor knowledge remains asymmetric."
+      },
+      {
+        "images": [
+          "MAIN-04-IMG020"
+        ],
+        "finding": "Current precision corrects original Wiz label: actual mixed-bath woman is an unnamed red-haired short-haired yellow-eyed woman U022P62-64, separately from imagined Wiz in preceding comic. She reports half-self conflict103-106 and warning108, asks not to be watched110; K initially dismisses111 then turns away115. Later identity/ontology joins are not supplied by this image alone. Do not attribute her report, request or voice to Wiz."
+      },
+      {
+        "images": [
+          "MAIN-04-IMG017"
+        ],
+        "finding": "Aqua-styled raster welcome is compositional illustration at retained split. U017P34 actual Aqua says arrival at Arcanretia; U019P9 gives an unassigned welcome/recruitment spiel. Do not falsely assign every line of that prose spiel to Aqua because she is drawn on spread."
+      },
+      {
+        "images": [
+          "MAIN-04-IMG022"
+        ],
+        "finding": "U024P244-265 explicitly identifies man as Hans via Wiz repeated recognition and own-name outburst. Prior U022P91 independently called departing bath man Hans. This joins actual man, not the unnamed bath woman. Wiz unintended exposure claim271 differs from K speculation273; not established deliberate sabotage or unbounded innocence."
+      }
+    ],
+    "original_uncoded_notes_modified": false,
+    "forecast_history_modified": false,
+    "scope": "Same-root informed narrow checks of already accepted principal bodies, zero new principal reading credit. All printed windows actually received untruncated; no full second pass or independent confirmation claimed."
+  },
+  "component_role_detail_completion": {
+    "recorded_utc": "2026-10-19T08:34:24.938482+00:00",
+    "operation": "Add missing component detail/routing metadata; all original formal role/count fields and outcomes preserved",
+    "original_file": "CURRENT_COMPONENT_ROLES_INITIAL_BEFORE_DETAIL_COMPLETION.json",
+    "before_sha256": "a3dd3685f1d6ee01f93e554e41aeb1a50e18173bb0c48b133126cd9685c374ba",
+    "after_sha256": "a4ec2434f893e3ae4b8d0c10dfe4de87d13c416b18bb678bdbb311be4010a5bd",
+    "added_fields": [
+      "bonus_narrative",
+      "colophon",
+      "component_limits",
+      "image_only_compositional_welcome",
+      "image_only_narrative_components",
+      "next_boundary",
+      "next_display",
+      "next_label",
+      "next_source_id",
+      "previous_directory",
+      "previous_label"
+    ],
+    "formal_assessments_and_original_uncoded_notes_changed": false
+  },
+  "current_qualifications": [
+    {
+      "id": "M04EX-Q01",
+      "current_precision": "Nine accepted principal members3135P retain exact original authority, joins and reading history; zero new principal reading credit.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q02",
+      "current_precision": "All24newresources144P/31images actually received: one67Pbonus,26Pcreatorafterword,51otherwrapper/credit/navigation slots. Resource/P/image totals are not a global narrative denominator.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q03",
+      "current_precision": "Bonus cemetery event is K-focalized. Relation to a precise main chapter/day is unbound; future skills or relationship permissions are not back-projected.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q04",
+      "current_precision": "Aqua already accepted the guild/association staff job. Wiz is forcibly brought6, then independently offers to help15; later scoped assent does not authorize the start or every later action.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q05",
+      "current_precision": "Aqua's attribution of lich pride10 is contradicted by Wiz's own hurt-preference correction11. Recipient preference is not inferred from a defender's kind label.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q06",
+      "current_precision": "Actual zombie makeup23 and frightening appearance are manual achievement, not actual zombie conversion or proof Wiz is a living human.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q07",
+      "current_precision": "K's elderly heart-failure possibility24 is hypothetical; no actual participant medical injury/death occurs.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q08",
+      "current_precision": "Aqua's distraction/hide plan27 and Wiz's acceptance28 precede action; actual arriving actors are fellow hired workers30, not the public participants initially assumed.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q09",
+      "current_precision": "K's identity correction39 is interrupted; later real explanation56 exists. Do not erase either intervention or claim the group receives and accepts it.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q10",
+      "current_precision": "Workers' references to speech and rare zombie58-60 preserve their mistaken belief, not a source-certified classification of Wiz.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q11",
+      "current_precision": "Human-safe Turn Undead62 is their proposed discriminator. Wiz is a lich, explicitly protests55, and never supplies consent/trust to purification here.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q12",
+      "current_precision": "Aqua's weak-power promise63 is a stated intention with hesitation. No spell-release sentence is shown before cut; running65 and reward66 do not certify a performed safe spell, actual purification, death or harmless reset.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q13",
+      "current_precision": "Aqua's bonus66 is an actual anomalous narrated reward; its exact awarding reason and prior incentive motive remain unbound.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q14",
+      "current_precision": "Frontmatter005-011 uses staged/compressed cases, wishes and explicit imagination commentary. Do not treat every drawn line as an independent enacted mainline event.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q15",
+      "current_precision": "Eris-doll luck/profit are vendor/Wiz expectations, not measured outcomes. Prior doll manufacture is distinct from a hobby or a new exploded deity effigy.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q16",
+      "current_precision": "M's100-floor church/dungeon and incineration promise are imagined/staged; no new actual Explosion trial. D's explicit Eris refusal remains, with later method unfinished and no completed conversion/body act.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q17",
+      "current_precision": "Aqua's admiring crowd and K/Yunyun bath wishes remain represented desires; no real public service-burden test or extra intimate encounter.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q18",
+      "current_precision": "IMG012 M14 is an edition-profile declaration alongside Yunyun13/D18/K16/Wiz20/Sena20/unknownAquaEris. Preserve earlier M13 profiles and source dates rather than silently overwriting them or inventing a birthday event.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q19",
+      "current_precision": "IMG015 original uncoded snack/identity impression is corrected additively: retained U016P101-105 explicitly Aqua/D inflating failed rubber prototypes as balloons. Not Yunyun/food or a performed sexual act.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q20",
+      "current_precision": "IMG016 creature is explicitly dragon U016P341, not a bird; Wiz pets Chomusuke343. No full new creature ontology or automatic magic from art.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q21",
+      "current_precision": "IMG018-019 form one two-page counterfactual imagined Wiz encounter. U019P402-406 and U022P1-2 bind missed timing and return. No actual shared bath, completed washing or new permission.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q22",
+      "current_precision": "IMG020 original uncoded Wiz label is corrected: actual woman is unnamed red-haired/short-haired/yellow-eyed in U022P62-64, distinct from imagined Wiz. Her half-self report/leave request cannot enter Wiz voice/biography.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q23",
+      "current_precision": "IMG017 Aqua-styled welcome composition does not assign every untagged recruitment line to her: U017P34 says arrival, U019P9 remains an unassigned street welcome.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q24",
+      "current_precision": "IMG022 man is explicitly Hans U024P244-265 and earlier U022P91; keep Wiz's unintentional-recognition claim271 distinct from K speculation273. No complete new enemy model from one portrait.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q25",
+      "current_precision": "NEXT5 request/reactions/village clarification is promotional elliptical framing; no actual pregnancy, child, sexual act, adult consent or newly performed future trip.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q26",
+      "current_precision": "Creator afterword plans/reports and weapon/read joke remain paratext, not character behavior, actual audience response or a fresh completed publication/cast. Colophon electronic+printbasis2014-05-01.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q27",
+      "current_precision": "All31principal+8party comparisons are informed qualitative uses of unchanged contracts, fourtyped constraints separate. Selected12H/32V overlap, are postseal and do not form a census, accuracy denominator or independent replication.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q28",
+      "current_precision": "Originaluncoded notes, frozen66current/72historical, fouraccepted scores,14Dustblanks and secondary I01/I02 lineage/SEC01 target scopes remain intact; full41program and secondary census/substantive artifacts remain active.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    }
+  ],
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 286382,
+      "sha256": "e0455ea7e63938dcd51fe56e716f4302841455f48c5a26d8b5c6d5aef5f2c540"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 207301,
+      "sha256": "6df7a289eb548535f54832da166a1cbeff3321abfab202ba4eab228866ec6f42"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 776279,
+      "sha256": "858e55382ed41b165802ccd6f572907bbfc5e0667d5e249a8da0836fba773462"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 587083,
+      "sha256": "3e3c5efbb9b32074ff9019ca43374dd2efb5c29e060f9aaf0abf7546954a710e"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 185770,
+      "sha256": "c9b9a9ee4f97b64d655621dd40bb0126aa0629ee00255ab6e4f4ac969ed2ef8f"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 178689,
+      "sha256": "5dc118d9d106dad981d33f2883c5fb83e4ff1d1ff5b7bb734d741dbfe4dd6bb9"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 200878,
+      "sha256": "07ea2f4ba578793761f6cae8aab39006f6c91546cf9ced164c06f6193f591edf"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 166601,
+      "sha256": "1e83d5da53cf6fd89e7c645c362caef6c7e1dbfbabf2562367df18fde1b9f67f"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 256467,
+      "sha256": "5c1cf1c0cdeee26d17ffea7c404b9f293f0f1fc71c06cd2477401729e1143b6f"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 114765,
+      "sha256": "d906c4e97bced80c53ec978f779043b17ded626bfc7cfef7816121974ab70c4a"
+    }
+  ],
+  "frozen_proof": {
+    "current66_verified": 66,
+    "historical72_at_3b92_verified": 72,
+    "four_score_sha256": {
+      "YORI01": "7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026",
+      "MASK": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967",
+      "DUST06": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e",
+      "DUST07": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+    },
+    "original14blank_file_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+    "R1_or_old_secondary_forecasts_changed": false
+  },
+  "supplemental19_and_mixed5_gate_states_unchanged": true,
+  "main_excluded_component_programs": {
+    "this_source_analytically_accepted_containing_publication_pending": "MAIN-04",
+    "next_separate_source": "MAIN-05",
+    "accepted_principal_bodies_retained": true
+  },
+  "global_narrative_component_completion_percentage": null,
+  "next_boundary": "Exact sourcepublication/all-treeandchanged-streamreadback/sourceaudit/housekeeping/finalactualsourceaudit-status/freshauthorityreload beforeMAIN05excluded admission. Incorporate then-currentmain ordinarily if needed and run affected author checks before nextpush. Fullremaining sources/syntheses/versionedmodels/secondarycensus/earnedartifacts/curation/release continue.",
+  "mechanical_report_newline_normalization": {
+    "recorded_utc": "2026-10-19T08:43:01.274319+00:00",
+    "reason": "Exact-index diff-check rejected CRLF as trailing whitespace; normalize report byte representation to repository LF",
+    "before_report_sha256": "96653f269195ba842ae7682a34ccdb3fd61b9661af41b18dab38134fc9f69900",
+    "after_report_sha256": "607c96eb81023f975e64108226ec25a5c8119459ff6bbb6b9dc4f49a619075ae",
+    "normalized_lines_equal": true,
+    "semantic_text_source_notes_assessments_and_ledger_prefixes_changed": false
+  }
+}

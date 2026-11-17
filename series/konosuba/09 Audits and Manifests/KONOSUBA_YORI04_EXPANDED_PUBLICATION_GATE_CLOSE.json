@@ -1,0 +1,91 @@
+{
+  "schema": "KONOSUBA_YORI04_EXPANDED_PUBLICATION_GATE_CLOSE_V1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "closed_utc": "2026-10-19T05:35:16.916748+00:00",
+  "actual_source_commit": "06d75f592a6e88278b59067d88c4cc2f76884467",
+  "tree": "209a90f208a8918418b3383989e87e4347c51e74",
+  "all8714_remote_paths_equal": true,
+  "all56_changed_blob_streams_equal": true,
+  "source_audit": {
+    "run": 39203377666,
+    "job": 117900895182,
+    "actual_source": "06d75f592a6e88278b59067d88c4cc2f76884467",
+    "paths": 8714,
+    "full_tests": 352,
+    "all5_non_success_zero": true,
+    "selection_enabled": false,
+    "log_sha256": "bf1550245b7c68785d0b2484a510372d13be0b83831475cd173d2d47667c3b21"
+  },
+  "housekeeping": {
+    "verified_utc": "2026-10-19T05:21:46.478066+00:00",
+    "actual_SOURCE_SHA": "06d75f592a6e88278b59067d88c4cc2f76884467",
+    "run": 39203883244,
+    "job": 117902412178,
+    "result": "NO_OP",
+    "exact_final_source_dispatch_verified": true,
+    "log_sha256": "96b2e8711e389bf31108a695f7446e097362ec8d7a570a6f5850a91608b2ca5a",
+    "workflow_run_metadata_head": "08c9f70287df19e761bd2b0253905f5b2fdc65b1",
+    "started_at": "2026-10-19T05:18:47Z",
+    "completed_at": "2026-10-19T05:19:11Z",
+    "selected_actual_lines": [
+      "  BRANCH_NAME: series/konosuba",
+      "  SOURCE_SHA: 06d75f592a6e88278b59067d88c4cc2f76884467",
+      "  BRANCH_NAME: series/konosuba",
+      "  SOURCE_SHA: 06d75f592a6e88278b59067d88c4cc2f76884467",
+      "  BRANCH_NAME: series/konosuba",
+      "  SOURCE_SHA: 06d75f592a6e88278b59067d88c4cc2f76884467",
+      "PASS: dispatched the full audit for 06d75f592a6e88278b59067d88c4cc2f76884467",
+      "PASS: unchanged routing and branch boundaries verified; final audit dispatched"
+    ]
+  },
+  "final_audit": {
+    "run": 39203922224,
+    "job": 117902532053,
+    "actual_source": "06d75f592a6e88278b59067d88c4cc2f76884467",
+    "paths": 8714,
+    "full_tests": 352,
+    "all5_non_success_zero": true,
+    "selection_enabled": false,
+    "log_sha256": "7f81c2467a680dd65e75f7fb4c030232e52298a56f912494092a30a24f537752",
+    "actual_snapshot_from_PASS": "06d75f592a6e88278b59067d88c4cc2f76884467",
+    "displayed_workflow_head_metadata": "08c9f70287df19e761bd2b0253905f5b2fdc65b1"
+  },
+  "exact_commit_status": {
+    "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/06d75f592a6e88278b59067d88c4cc2f76884467",
+    "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+    "id": 56661634485,
+    "node_id": "SC_kwDOUJ9ads8AAAANMUvttQ",
+    "state": "success",
+    "description": "Exact commit passed the repository audit",
+    "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39203922224",
+    "context": "Repository integration audit",
+    "created_at": "2026-10-19T05:24:38Z",
+    "updated_at": "2026-10-19T05:24:38Z"
+  },
+  "source_branch_head": "06d75f592a6e88278b59067d88c4cc2f76884467",
+  "current_main": "aaa8eaf09ca64e2d5ef82e3f5b6b05383e33b25f",
+  "source_main_integration_not_asserted": true,
+  "next": "Fresh published authority reload below, then separate exact next-source admission. Full fixed41 program remains active.",
+  "post_publication_main_drift": {
+    "observed_main": "aaa8eaf09ca64e2d5ef82e3f5b6b05383e33b25f",
+    "main_incorporated_before_source_push": "08c9f70287df19e761bd2b0253905f5b2fdc65b1",
+    "accepted_later_delta_paths": [
+      "series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md",
+      "series/shuukura/03 Web and Supplemental Readings/SHUUKURA_V2_KAK_JP_E0002_DEEP_READING.md",
+      "series/shuukura/04 Longitudinal Ledgers/SHUUKURA_CHARACTER_STATE_AND_READINESS_LEDGER.md",
+      "series/shuukura/04 Longitudinal Ledgers/SHUUKURA_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md",
+      "series/shuukura/04 Longitudinal Ledgers/SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER.md",
+      "series/shuukura/04 Longitudinal Ledgers/SHUUKURA_RELATIONSHIP_RULE_AND_BOUNDARY_LEDGER.md",
+      "series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_KAK_JP_E0002_TRANSACTION_AUDIT.md",
+      "series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md",
+      "series/shuukura/CURRENT_STATE_AND_CORPUS_MAP.md"
+    ],
+    "governance_KonoSuba_and_global_controls_unchanged_by_delta": true,
+    "later_main_status_success": true,
+    "source_branch_and_local_HEAD_remain_exact_audited_source": "06d75f592a6e88278b59067d88c4cc2f76884467",
+    "current_main_incorporated_in_source": false,
+    "required_before_next_push": "Ordinary merge of then-current main, complete candidate review and affected author preflight; fresh both-head/rules/identity checks. These source audits certify only the existing source SHA.",
+    "closure_basis": "Owner request lines348-359 and CHANGE_INTEGRATION_CHECKLIST.md stable sequence steps4-6 require exact source/readback/audits/status and synchronize before each new publication. Housekeeping verified NO_OP and exact final-source dispatch; it did not report required main incorporation. This is a post-final-audit unrelated accepted main update, not a source-branch child or new source commit."
+  },
+  "current_main_incorporated_in_source": false
+}

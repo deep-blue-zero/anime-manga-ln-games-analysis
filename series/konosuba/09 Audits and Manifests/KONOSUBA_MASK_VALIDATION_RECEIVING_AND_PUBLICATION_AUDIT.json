@@ -1,0 +1,384 @@
+{
+  "status": "SUBSTANTIVELY_ACCEPTED_MASK_VALIDATION_CONCRETE_PUBLICATION_CANDIDATE",
+  "candidate_authored_utc": "2026-10-17T17:58:28.718539+00:00",
+  "source_branch": "series/konosuba",
+  "entering_fully_audited_source": "0f8ae12a3b18c968ba4f5f6052dffab25c3eee59",
+  "source_local_acceptance": {
+    "status": "ACCEPTED_SOURCE_LOCAL_PRINCIPAL_VALIDATION_NOT_STAGE_B_OR_BOOK_COMPLETION",
+    "actual_accepted_utc": "2026-10-17T17:53:18.365009+00:00",
+    "accepted_record": {
+      "path": "/workspace/scratch/konosuba/withheld-source-validation/MASK/root-accepted-v1/ROOT_ACCEPTED_MASK_ALL39_SOURCE_LOCAL_VALIDATION.json",
+      "bytes": 210188,
+      "sha256": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967"
+    },
+    "candidate_and_event_pins": [
+      {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/MASK/root-receiving-candidate-v3/MASK_ALL39_RECEIVING_CANDIDATE.json",
+        "bytes": 205855,
+        "sha256": "986a7c3be0320f3fb333fd071a44c9f090291872cb2e949cd728584847a3ab51"
+      },
+      {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/MASK/root-receiving-candidate-v3/MASK_CORRECTED_EVENTS_AND_FORM_RECEIVING_CANDIDATE.json",
+        "bytes": 115379,
+        "sha256": "fbe9eff36234d6a9d41a67fd49b468c83b1377830afa6085c747261b494d4f33"
+      }
+    ],
+    "review_pins": [
+      {
+        "path": "/workspace/scratch/konosuba/mask-semantic/receiving-01/MASK_POSTSHARED_SOURCE_AND_ALL39_RECEIVING_REPORT.md",
+        "bytes": 24725,
+        "sha256": "4b52eaaf95e6f7d6a280fc828f57abbe63f909015333bf45f54fc2ac9c57a40f"
+      },
+      {
+        "path": "/workspace/scratch/konosuba/mask-semantic/receiving-01/ALL39_COORDINATED_RECEIVING_RECOMMENDATIONS.json",
+        "bytes": 42934,
+        "sha256": "20908069739b317c9dda4b68c1f8d561f31290ae3496fd95e6b8610822abcc97"
+      },
+      {
+        "path": "/workspace/scratch/konosuba/mask-semantic/receiving-02/BOUNDED_CURRENT_CANDIDATE_V3_RECEIVING_REPORT.md",
+        "bytes": 11632,
+        "sha256": "799b9c6c2bda49610cc12b92284eaba9014db7f1c866080b0c176a9ef0b5f6a8"
+      },
+      {
+        "path": "/workspace/scratch/konosuba/v17-independent/MASK-root-candidate-bounded-receiving-v2/FINAL_BOUNDED_FIVE_VALUE_RECEIVING_CLOSURE.md",
+        "bytes": 2221,
+        "sha256": "1a9cb020900ea7b869fde4aff5fe9fe77ea28e1aeb8d1d59d2c1bb2473274512"
+      }
+    ],
+    "counts": {
+      "CONFIRMED": 8,
+      "NOT_TESTED": 22,
+      "PARTIAL": 9
+    },
+    "all39_literals_exact": true,
+    "four_T_generated_only_NA": true,
+    "all66_suite_current_exact": true,
+    "all72_original_at3b92_exact": true,
+    "unchanged_YORI_K08_local_F": true,
+    "remaining_two_holdout_bodies_closed": true,
+    "excluded_MASK_components_closed": true,
+    "producer_shielded": true,
+    "no_new_source_or_model_exposure_from_acceptance": true,
+    "canonical_adoption_and_publication_pending": true
+  },
+  "independent_ledger_and_v3_seal_sha256": "2445998f3518d2eae2ca3dea1c650088bbea2d40e9b3968430dd337aa93ad88a",
+  "semantic_ledger_seal_sha256": "d518faac2c7da080d988343e9a9ad60bd3c6d744a3da78274fcc25c045b94269",
+  "semantic_v3_seal_sha256": "7475e040e2735fe09aabaa649fdd2cf74599613aa7e43b9d208cd801371dfc0e",
+  "exact_ten_ledger_manifest_sha256": "66e2952c63ed87c7bd6c0741ff17e2510a3537dd135dedf4bdf28c5a5541739f",
+  "authored_streams": [
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_INITIAL_ROOT_ALL39.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 253966,
+      "after_sha256": "f292cabc0ee4794437f3022657af90e3e8a99a043b3ad88a2a9653a75f18c449"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_INITIAL_INDEPENDENT_ALL39.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 346445,
+      "after_sha256": "de15c0a6100a467f9c19f9c6ff82feb9ad19e14ed54868495e17c38630461421"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_INITIAL_SEMANTIC_ALL39.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 185423,
+      "after_sha256": "e9a5fb96c4b72404ddeced076b7aa8081e47216ec8452765911e84332be07deb"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_ACCEPTED_ADJUDICATIONS.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 210188,
+      "after_sha256": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_INDEPENDENT_RECEIVING.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 25481,
+      "after_sha256": "11a99cd1cde9536a64ba23a8a5e840b15d22fbec5ef72f2a573db19246e5509c"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_SEMANTIC_RECEIVING.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 24725,
+      "after_sha256": "4b52eaaf95e6f7d6a280fc828f57abbe63f909015333bf45f54fc2ac9c57a40f"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_SEMANTIC_BOUNDED_RECEIVING.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 11632,
+      "after_sha256": "799b9c6c2bda49610cc12b92284eaba9014db7f1c866080b0c176a9ef0b5f6a8"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_INDEPENDENT_BOUNDED_RECEIVING.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 6784,
+      "after_sha256": "e31a0f42c90689d08d55fe338992a17532d79335fa8a37c25851af30dd4850df"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_INDEPENDENT_V2_RECEIVING.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 2221,
+      "after_sha256": "1a9cb020900ea7b869fde4aff5fe9fe77ea28e1aeb8d1d59d2c1bb2473274512"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_SEMANTIC_ALL39_COORDINATED_RECEIVING.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 42934,
+      "after_sha256": "20908069739b317c9dda4b68c1f8d561f31290ae3496fd95e6b8610822abcc97"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_INDEPENDENT_LATE_QUALIFICATIONS.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 1267,
+      "after_sha256": "1f5f1817c2d7ccc9179204cfd9007075762f7e1e64417d36df48c5442e1d6cff"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_EVENTS_AND_OPPORTUNITY_INDEX.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 116271,
+      "after_sha256": "613d135e7effa311d2d418a719fa4282c1e007cbb9290edd33085e134cdcf624"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_ROOT_RECEIVING_CORRECTIONS.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 20880,
+      "after_sha256": "5fa1da0ccde000020d70a1b2d78d5fc1cda370e20891d41016b93abf1d6e8db7"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_SOURCE_AND_READING_RECEIPT.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 16153,
+      "after_sha256": "d3f84c1d552e7809d429601d9a8b81bfa0bad6337ece0e979bfc517d8dd93b36"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_WITHHELD_SOURCE_VALIDATION.md",
+      "before_bytes": 18386,
+      "before_sha256": "0c6a2f5ea0a50d0886be72abcf7e1ee34decb60541b2d7b771e22f0ad4f13661",
+      "after_bytes": 47695,
+      "after_sha256": "e92e9e655678b36eb9da140b7dd0bc5e6f4519bc3c1f0f46c1b9c0fa91ef9aba"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "before_bytes": 196614,
+      "before_sha256": "4d75e6b2ef152ce9248b38438206845197fcf1018ab5c0ca762489e7dece4911",
+      "after_bytes": 199403,
+      "after_sha256": "d15e1cf39a18aa4112f8b61b7b906d5e6ceacee7a0dd4e657960e295b5cfbdf3"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "before_bytes": 128061,
+      "before_sha256": "d83e66a9862c82829d7d4dc6081fd1935f0ebf7c5db72e34c989eb284e811e05",
+      "after_bytes": 130945,
+      "after_sha256": "31dcddc0cff4e75e15957877a63e8917611406dcc4803249876c11cf53334cd6"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "before_bytes": 176323,
+      "before_sha256": "eec10502feb4b06a0913266ffe04115b77237bcb32f2242ef39d94c642cd57da",
+      "after_bytes": 179319,
+      "after_sha256": "d9502fda8e5815837df0c5e07df7560be6f86b59de5b45e36db09ec3d2ddd5fa"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "before_bytes": 124787,
+      "before_sha256": "68837ad95878711188f26a686787c81d89e92ffca3d566c07dc0f6320f89bfb3",
+      "after_bytes": 127672,
+      "after_sha256": "7aed39f1dda00ace6c06f231128bc9e1927f7dda7e8010ea93ab644c29298849"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "before_bytes": 702202,
+      "before_sha256": "af931298d3539e0bf61cd4165dd8233aa31ab2dc77fa0a285ebb46fe2f08a9c4",
+      "after_bytes": 705116,
+      "after_sha256": "8324ab8e4957072b18783ebe8e82bb04bdbebce5ca141da2fc1d7139ae519db8"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "before_bytes": 513566,
+      "before_sha256": "763639eee422e46e6d2a4d1fa04f54e8ccc60af4d6f80e488f9c8791a05716ad",
+      "after_bytes": 516615,
+      "after_sha256": "b70187135c41cc43d18ab12256b4650d195916e90d222449d37aa1bbd4b0996a"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "before_bytes": 93207,
+      "before_sha256": "c116940b9af5f323d80611f063a1470a3772f78a9e72b315dae90024d046c0e8",
+      "after_bytes": 96149,
+      "after_sha256": "d225ed9b1ab62b930a8112c2b47ed8e82f545219c34102640d42c0276fed7c44"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "before_bytes": 107496,
+      "before_sha256": "9ba1b11f7f50037207a5dd6226bc7c98be4699e98f9417befaa9cfe08d711552",
+      "after_bytes": 110431,
+      "after_sha256": "c434a4dae032ee67bb32d015c27d4d14b48671daac392ec173ffd626eea9d415"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "before_bytes": 104368,
+      "before_sha256": "655d85f6983466662524cfd82a9e84eef353d3a0ade034b0a36aab3ec28067c3",
+      "after_bytes": 107283,
+      "after_sha256": "3572a77a6531477e58c3ddc56adadb9661735a2cfd7e8734122d080ee03e58bf"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "before_bytes": 962598,
+      "before_sha256": "8a1d40465c36e0bd95285a8d306f00f67c335f2495db5d86a9e35ed8545b9dd8",
+      "after_bytes": 965816,
+      "after_sha256": "9931a7700117059446014a9aeb73fd2c02d97e7dbb64d6962e470cced016d357"
+    },
+    {
+      "path": "series/konosuba/01 Source Lock and Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.json",
+      "before_bytes": 539662,
+      "before_sha256": "87c206660eed069c78aa2dbc6e1ccbc7d134b0505384afafce1f0f48e2a75db9",
+      "after_bytes": 546052,
+      "after_sha256": "e85f3f36e916cff1182c372dec5f1c16f9adfd3c484de88cb351897ee83715dc"
+    },
+    {
+      "path": "series/konosuba/01 Source Lock and Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.md",
+      "before_bytes": 29458,
+      "before_sha256": "2e5e545bfbe6e2d8cb3e3cca40335767cb73d1a0ad75a93c8e155a5e16dba804",
+      "after_bytes": 32512,
+      "after_sha256": "e646530a497d779ec117ccfd38033d1ee364df6de98330012165c4d38dd38204"
+    },
+    {
+      "path": "series/konosuba/01 Source Lock and Inventory/KONOSUBA_SOURCE_INVENTORY.md",
+      "before_bytes": 17190,
+      "before_sha256": "3dbebee221fe92617f7af75f31af81a0286cd95bb7cae04181c65c922b25c1a7",
+      "after_bytes": 20144,
+      "after_sha256": "239a1c694a35901c000e1af6aaab23906ea6b19eaf7bc54ca58b07968ebb89af"
+    },
+    {
+      "path": "series/konosuba/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "before_bytes": 134762,
+      "before_sha256": "897a327bc7f374cc567bcc05265631f33d57c0df2d6c3611475bf90e2bbcb19e",
+      "after_bytes": 139069,
+      "after_sha256": "a3829d8d6a8dff687c367a80f98d9540036b039af818e69b60fe0bf79e1c2927"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CONTINUOUS_COMPLETION_RUN_AUDIT.md",
+      "before_bytes": 146103,
+      "before_sha256": "d0b5bff3e7be8e076b98ef9e40f2ee3bb60f7e8069ce08916d87aa6d911cfc5c",
+      "after_bytes": 150332,
+      "after_sha256": "ee7b16bb53e18833b537e61d6d1af34893619d80760b98a5ce49f30edf717906"
+    }
+  ],
+  "preservation": {
+    "all_ten_complete0f8_ledger_prefixes_exact": true,
+    "all_maintained_targeted_inverses_exact": true,
+    "all40other_source_objects_and_register_rows_exact": true,
+    "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
+    "all66_suite_current_exact": true,
+    "all72_original_at3b92_retrievable": true,
+    "all_original_MASK_initials_and_old_candidates_exact": true,
+    "YORI_and_Gen01_to05_histories_unchanged": true
+  },
+  "substantive_limits": "Seven MASK principal members/source-local unchanged-R1 validation only. Full StageB, complete MASK literary/edition/excluded components, expanded corpus/model revisions and project completion remain open. Actual prior independent scopes and E08 dissent preserved.",
+  "publication": "Containing exact commit/tree/readback/sourceaudit/housekeeping/final actual-SHA status unknown at authorship; prior0f8 gate cannot certify this candidate. Concrete adoption/commit follows review. Current entrypoint will reconcile its later gate.",
+  "audit_self_exclusion": "This receipt lists the other30 authored streams; its own exact bytes are captured by the private final staged candidate and remote readback, avoiding recursive self hash.",
+  "ordinary_main_reconciliation": {
+    "status": "ORDINARY_PRESERVING_MAIN_MERGE_COMPLETED_NOT_PUBLISHED",
+    "utc": "2026-10-17T17:59:05.857436+00:00",
+    "source_parent": "0f8ae12a3b18c968ba4f5f6052dffab25c3eee59",
+    "main_parent": "23064c95c652cafefea486e30d806ba858d0e1a9",
+    "merge": "9167acb39cad7b323d3d07b20cddce7589df5c5f",
+    "tree": "e5408a53cedb9441cab14ce6b4d3adc917764925",
+    "imports": [
+      {
+        "path": "series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md",
+        "bytes": 105155,
+        "sha256": "2e8a32dd759637827ed0cc965d3e27c2ed35e95308f8d38dcf61e2aff099d83d"
+      },
+      {
+        "path": "series/shuukura/03 Web and Supplemental Readings/SHUUKURA_V2_BW_JP_V03_DEEP_READING.md",
+        "bytes": 29854,
+        "sha256": "80170fbc5ee7bde29e490abab2d7cb5c695931971362c9edccad247beda879de"
+      },
+      {
+        "path": "series/shuukura/03 Web and Supplemental Readings/SHUUKURA_V2_BW_JP_V06_DEEP_READING.md",
+        "bytes": 30904,
+        "sha256": "d8cd85a2c4b0220d6a9e1400b7b3e9f34c0c4e39fa9848c25638c37b14596b15"
+      },
+      {
+        "path": "series/shuukura/04 Longitudinal Ledgers/SHUUKURA_CHARACTER_STATE_AND_READINESS_LEDGER.md",
+        "bytes": 284554,
+        "sha256": "b6a9cd43a5ac5b70839eb63a1271d98c8c4d2b4674e9359999431c3adf4e105b"
+      },
+      {
+        "path": "series/shuukura/04 Longitudinal Ledgers/SHUUKURA_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md",
+        "bytes": 359394,
+        "sha256": "ad01f9f7773d2b9f4f7a3364d830f946b84273135e47921b6eaa53b95c999428"
+      },
+      {
+        "path": "series/shuukura/04 Longitudinal Ledgers/SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER.md",
+        "bytes": 492023,
+        "sha256": "2b2ef18a609f52de34669c425aecc15fdefeb2385bcd514eaf01e88706e903cb"
+      },
+      {
+        "path": "series/shuukura/04 Longitudinal Ledgers/SHUUKURA_RELATIONSHIP_RULE_AND_BOUNDARY_LEDGER.md",
+        "bytes": 317984,
+        "sha256": "2a8ffb3175688cee8e2e229b15eb8df3b5cd8e9f2718a591a4075426e3accfa2"
+      },
+      {
+        "path": "series/shuukura/05 Character Studies/SHUUKURA_MIYAGI_SHIORI_RECONSTRUCTION.md",
+        "bytes": 148331,
+        "sha256": "db5f24d459398977f7dca58483e3b5f479f211eb2d435bd63faf8483c1998abb"
+      },
+      {
+        "path": "series/shuukura/05 Character Studies/SHUUKURA_SENDAI_HAZUKI_RECONSTRUCTION.md",
+        "bytes": 165625,
+        "sha256": "6b6886c88c2d59a87af819f77f34b445b0c2f1389016e7aecb14e0c0e732df05"
+      },
+      {
+        "path": "series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_BW_JP_V03_TRANSACTION_AUDIT.md",
+        "bytes": 15261,
+        "sha256": "303580ef83488bc3bbe541bc2516875ef085f4882737e3f8a7172f167a9185b1"
+      },
+      {
+        "path": "series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_BW_JP_V06_TRANSACTION_AUDIT.md",
+        "bytes": 14823,
+        "sha256": "9bb305a116b0930d87cd5fae32f08044755db6a64ea0ddad8464f7d09d6388c1"
+      },
+      {
+        "path": "series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md",
+        "bytes": 87509,
+        "sha256": "56c2d57ba53f015882a12628afc1c031f1d051a8cb0238fc5fb28f0433ae89e9"
+      },
+      {
+        "path": "series/shuukura/CURRENT_STATE_AND_CORPUS_MAP.md",
+        "bytes": 40522,
+        "sha256": "7abc404840d32467563d75cd60feb8ab883974485da5e30b1895cd4bef7b0957"
+      }
+    ],
+    "all_KonoSuba_tracked_subtree_exact_source": true,
+    "both_unstaged_progress_files_preserved": [
+      {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CONTINUOUS_COMPLETION_RUN_AUDIT.md",
+        "bytes": 146103,
+        "sha256": "d0b5bff3e7be8e076b98ef9e40f2ee3bb60f7e8069ce08916d87aa6d911cfc5c"
+      },
+      {
+        "path": "series/konosuba/CURRENT_STATE_AND_CORPUS_MAP.md",
+        "bytes": 134762,
+        "sha256": "897a327bc7f374cc567bcc05265631f33d57c0df2d6c3611475bf90e2bbcb19e"
+      }
+    ],
+    "no_conflicts": true,
+    "no_governance_changes": true
+  },
+  "ordinary_main_reconciliation_receipt_sha256": "7251f529991a9b12d8c7da040344dea1a08f22cfb92eabf3b91916214272af43"
+}

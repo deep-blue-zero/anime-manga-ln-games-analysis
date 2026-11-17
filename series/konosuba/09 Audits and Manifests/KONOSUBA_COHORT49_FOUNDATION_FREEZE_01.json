@@ -1,0 +1,68 @@
+{
+  "schema": "konosuba.cohort49.source-safe-foundation-freeze.v1",
+  "frozen_utc": "2026-10-25T16:40:47.117806+00:00",
+  "private_complete_freeze_sha256": "f2bb0afee77a1f151422227b89f0ef5d1d7f54f5a391a3bcaefd403ce8ff0883",
+  "complete_author_review_pages": 20,
+  "complete_new_artifact_pins": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_PAIN_CHARACTER_MONOGRAPH.md",
+      "bytes": 9131,
+      "sha256": "118de3af1aa05ece8aa8f1fcafe826caafd1ae16e61548b78bafdaafb6ecd1f6"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MAMMON_CHARACTER_MONOGRAPH.md",
+      "bytes": 11935,
+      "sha256": "d2c7f3b2aca5dd7a5b7258f59cfeaf6488579d8a1140f2effea49c6e12a955a7"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MASKED_GATEKEEPER_CHARACTER_MONOGRAPH.md",
+      "bytes": 8537,
+      "sha256": "329ecb93167a28ae5671a6d7c8bf69cbaa451cdef0bfb68d704da7088bac3d16"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DEMON_KING_CHARACTER_MONOGRAPH.md",
+      "bytes": 15183,
+      "sha256": "255706a147c050b8bdfb01bf21612c8532455cb4646129a6fcfd2f22e6680f30"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md",
+      "bytes": 10657,
+      "sha256": "2ffbd38d951803ccf5d79d370da16bc48122e1bb0d3200fd6b6cc9f7965193c1"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT49_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json",
+      "bytes": 21998,
+      "sha256": "f1cf682be0097eacf80d83323b2c4d74523ae8de27c7adfe44024edeb613c9af"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT49_NATIVE_PROVENANCE_01.json",
+      "bytes": 7700,
+      "sha256": "05855012d6488748d3248298b5de2b6bcef88d22d315aca5838065637712c9bd"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT49_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+      "bytes": 9196,
+      "sha256": "88e0716d7fa127190b0a4c053c79c18e0dc9cc92db51d3f6ca8fa9098f7a2921"
+    }
+  ],
+  "exact_existing_ledger_append_pins": [
+    {
+      "destination": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "fragment_bytes": 5355,
+      "fragment_sha256": "d6f739437c5e7f548f31c65f1ba16b228c8c684c951beb32fc50567f7484f35e",
+      "hash_scope": "exact append fragment, not the entire existing ledger"
+    }
+  ],
+  "monographs": 4,
+  "bounded_profiles": 2,
+  "new_models": 0,
+  "new_rules": 0,
+  "new_inputs": 0,
+  "new_original_firsts": 0,
+  "model_program_not_earned": "All six evidence-proportionate dispositions are below Tier3. No generative model or diagnostic program is manufactured.",
+  "all71_entering_models_preserved": true,
+  "source_known_same_informed_root": true,
+  "independent_observation_count": null,
+  "no_accuracy_grade_or_confidence_gain": true,
+  "full_program_complete": false
+}

@@ -244,7 +244,5 @@
       "email": "noreply@github.com"
     }
   ],
-  "allowed_missing_canonical_entrypoints": [
-    "shuukura"
-  ]
+  "allowed_missing_canonical_entrypoints": []
 }

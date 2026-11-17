@@ -1,0 +1,56 @@
+{
+  "source": "TRPG-CORE",
+  "status": "INITIAL_CANDIDATE_NOT_ROOT_ADOPTED",
+  "components": [
+    {
+      "id": "TRPG-CORE-REPLAY-01",
+      "route": "printed010–082 +084",
+      "plane": "EDITED_PLAYED_SESSION_ACCOUNT",
+      "scope": "Actual performed-within-account results, GM/player/PC voices and declared/reported backgrounds separately received."
+    },
+    {
+      "id": "TRPG-CORE-WORLD-01",
+      "route": "printed250–260 incl259 reference",
+      "plane": "CONTINUOUS_SECOND_PERSON_GUIDE_FICTION",
+      "scope": "Complete beginning-through-ending; unnamed protagonist; present events, narrated past and prospective party future distinguished."
+    },
+    {
+      "id": "TRPG-CORE-SCENARIO-01",
+      "route": "printed298–311",
+      "plane": "PROSPECTIVE_GM_SCENARIO",
+      "scope": "Complete scenario including refusal, retreat, danger, failure, end branches and afterplay; no actual execution."
+    },
+    {
+      "id": "TRPG-CORE-TEACHING-01",
+      "route": "dividers009/085/203/249/263/297",
+      "plane": "STAGED_PEDAGOGICAL_CHARACTER_COMMENTARY",
+      "scope": "All actual balloons read; no natural main-series role-window test."
+    },
+    {
+      "id": "TRPG-CORE-PERSONA-01",
+      "route": "sample vignettes101/103/105/107/109;lifepath111–115;class/cheat/reference flavor",
+      "plane": "OPTIONAL_PERSONAS_AND_MINIATURES",
+      "scope": "All eligible prose read; selectable outcomes not performed histories; compressed113 label remains uncertain."
+    },
+    {
+      "id": "TRPG-CORE-RULES-01",
+      "route": "printed203–248 and related character/GM passages",
+      "plane": "RULES_AND_EMBEDDED_EXAMPLES",
+      "scope": "All pages actually viewed; substantive claims restricted to actual passages read, not exhaustive numerical audit."
+    },
+    {
+      "id": "TRPG-CORE-GM-01",
+      "route": "printed263–296",
+      "plane": "GM_GUIDANCE_QUESTS_ENEMIES_AND_TRAPS",
+      "scope": "Eligible narrative/example/flavor read; dense stat/index audit not claimed."
+    },
+    {
+      "id": "TRPG-CORE-PARATEXT-01",
+      "route": "front matter;appendix312–323;covers/forms;colophon/platform",
+      "plane": "ART_REFERENCE_FORMS_AND_BIBLIOGRAPHY",
+      "scope": "Every native page disposition is enumerated; no absence inference from XHTML zero text or metadata counts."
+    }
+  ],
+  "all333_individual_rows": "ALL333_SOURCE_SAFE_ACTUAL_COMPONENT_DISPOSITION_REGISTER.json",
+  "scope_not_a_main_event_index": true
+}

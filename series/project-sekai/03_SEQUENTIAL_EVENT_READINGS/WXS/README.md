@@ -68,3 +68,17 @@ Source Drive folder ID: `1FNx7gP6h69ov1qzmLQNfDV8oANywc0ey`.
 - [EVENT_0164 — Choices for the future](PJSK_EVENT_0164_DEEP_READING.md): complete 23-story envelope; Emu and Ryō co-design and defend a lower-priced experimental Kikyo production, gain executive approval, and test it with a particular audience. Long-term financial and fan outcomes remain open; Nene's Ryō rivalry and independent WxS craft remain distinct.
 
 - [EVENT_0167 — Dear my fellows](PJSK_EVENT_0167_DEEP_READING.md): complete 26-story World Link envelope; the shared dream of separate possible futures and an imagined Wonder Stage reunion strengthens the actual independent quartet's reciprocal commitment. A changed harbor tree and shard remain locally observed without a proven causal law; four individual routes and public-knowledge limits remain distinct.
+
+- [EVENT_0172 — Deeper and deeper](PJSK_EVENT_0172_DEEP_READING.md): complete 29-story envelope; Rui makes personal experience an explicit part of recipient-responsive direction through direct consultation and a staged trial whose audience balance remains unfinished. Ena and the distinct KAITO manifestations have separate I2 routes; all five units and six ledgers are integrated.
+
+- [EVENT_0178 — Deep Dark For Light](PJSK_EVENT_0178_DEEP_READING.md): complete 25-story envelope; Tsukasa’s role method advances through an imagined loss of recipients and actual contest response; Asahi explicitly reciprocates rivalry. A special award opens a shared prospective theatre run, with allocation and public performance pending.
+
+- [EVENT_0185 — 超克のプロタゴニスタ](PJSK_EVENT_0185_DEEP_READING.md): complete 22-story envelope; Nene answers specific professional trust in a completed lead performance, then receives bounded former-peer repair; Rui’s admitted risk and Rin’s gentler success preserve multiple ways of helping.
+
+- [EVENT_0196 — CHANGE！えむは王女さま！？](PJSK_EVENT_0196_DEEP_READING.md): complete 22-story envelope; Resemblance enables a risky substitution, but support succeeds through returned authorship and a specific hearing; reciprocal study, ordinary play and local-singer initiative retain their own value.
+
+- [EVENT_0200 — 残照のInside Direction](PJSK_EVENT_0200_DEEP_READING.md): complete 28-story envelope; Rui coordinates an effective film performance with a real interpersonal cost; associated self-encounters distinguish Shizuku’s accepted past from Mafuyu’s unsettled need to preserve herself.
+
+- [EVENT_0208 — Phantom maze monster](PJSK_EVENT_0208_DEEP_READING.md): complete 24-story envelope; A cohosted production succeeds while costly autobiographical role work exposes a need for social return. Tsukasa accepts help and repairs ordinary contact but will not renounce the method; the group’s new agreement and Rui’s unresolved responsibility remain bounded.
+
+- [EVENT_0217 — Drive to Dream！](PJSK_EVENT_0217_DEEP_READING.md): complete 22-story envelope; Adapted theatre and a direct request win particular help; actual Broadway viewing sharpens Nene’s ambition and perceived distance, while Wonder! remains an announced audition rather than a cast role.

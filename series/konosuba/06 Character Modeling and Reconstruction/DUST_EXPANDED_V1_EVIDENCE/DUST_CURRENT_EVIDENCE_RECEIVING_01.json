@@ -1,0 +1,180 @@
+{
+  "schema": "KONOSUBA_SCOPED_DUST_EVIDENCE_RECEIVING_V1",
+  "authored_utc": "2026-10-20T01:29:49.300430+00:00",
+  "status": "SCOPED_ANALYTICAL_RECEIVING_COMPLETE_CANONICAL_ADOPTION_PUBLICATION_PENDING",
+  "source_known": true,
+  "reviewer_provenance": "Same root author; no independent reviewer or native-human certification.",
+  "ledger_scope": {
+    "physical_files": 11,
+    "responsibilities": 10,
+    "pins": {
+      "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md": {
+        "sha256": "f74ff6fee3fe0fa8842e540229706b2fae9b3072dfbb008a008e64b9a2133c36",
+        "lines": 1600
+      },
+      "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md": {
+        "sha256": "c65b98c9d3ad7e7c0f553f4fed9925c4d51e8bf3ceb90b4e0d4f4c69f2ec5c21",
+        "lines": 1351
+      },
+      "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md": {
+        "sha256": "5ce3d24051bc7fc07b748feb4e45c07b4d090bce2446f20c7629dbb42090ab78",
+        "lines": 1813
+      },
+      "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md": {
+        "sha256": "a613a5c0d293cf692000dd8716f27ccbc3fd1935bff91ce8ae9efae78e28d2e0",
+        "lines": 1842
+      },
+      "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md": {
+        "sha256": "83c848d91a2734cc37f6025b0f63e85e7284ecfea57fb6a15dc799b39343c4ae",
+        "lines": 1807
+      },
+      "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md": {
+        "sha256": "dba0a6c1c971a165c1f4582e59fc32c61cf51ae02794a0073259763b68ceec92",
+        "lines": 1279
+      },
+      "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md": {
+        "sha256": "6e3892edf4e3248d30b61594e750822d36d526277174baa18331909daeb52263",
+        "lines": 7892
+      },
+      "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md": {
+        "sha256": "c851fa6fb1fbd0fde30a98fcd9ee41f4a7a1f88ddb5241adc8a67a7a3fa5ab13",
+        "lines": 380
+      },
+      "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md": {
+        "sha256": "fe9976b8227953fb248b26be78accefe7fe13a5724002db2e082e9db118160a4",
+        "lines": 1228
+      },
+      "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md": {
+        "sha256": "9d7215b2a072a15102592ab51ae5639f58332a6cec94bf12c5e9dc14ba0e5497",
+        "lines": 1353
+      },
+      "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md": {
+        "sha256": "efe1ed87ec57b6e8e0827f07a3a46ee53ce6189b82f5af3fd50b2e5dd8016ade",
+        "lines": 1156
+      }
+    },
+    "selection_packet_sha256": "e54ba29a8c8b4e21a58a7e8cecc1b2f01fc10027d87f5abc6ced68fd4be6dd30",
+    "actual_displayed_selection_ranges": [
+      [
+        1,
+        15
+      ],
+      [
+        16,
+        28
+      ],
+      [
+        29,
+        38
+      ],
+      [
+        39,
+        43
+      ],
+      [
+        44,
+        61
+      ],
+      [
+        62,
+        66
+      ]
+    ],
+    "selection_entries": 66,
+    "whole_ledger_semantic_reading_claim": false,
+    "additional_actual_body_ranges": {
+      "KONOSUBA_CHARACTER_STATE_LEDGER.md": [
+        [
+          1116,
+          1125
+        ]
+      ],
+      "KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md": [
+        [
+          890,
+          905
+        ]
+      ],
+      "KONOSUBA_HUMOR_MECHANICS_LEDGER.md": [
+        [
+          1412,
+          1426
+        ]
+      ],
+      "KONOSUBA_KAZUMA_NARRATOR_LEDGER.md": [
+        [
+          815,
+          827
+        ]
+      ],
+      "KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md": [
+        [
+          771,
+          798
+        ]
+      ],
+      "KONOSUBA_RELATIONSHIP_STATE_LEDGER.md": [
+        [
+          897,
+          919
+        ]
+      ]
+    },
+    "heading_and_route_only_items_not_behavioral_evidence": [
+      3,
+      5,
+      7,
+      18,
+      19,
+      20,
+      29,
+      32,
+      37,
+      41,
+      46,
+      49,
+      55
+    ],
+    "mechanical_full_Dust_family_concordance_unique_lines": 392,
+    "mechanical_concordance_not_receiving_credit": true,
+    "current_full_CharacterState_contiguous_raw_boundary": 583,
+    "next_contiguous_CharacterState_raw_line": 584
+  },
+  "current_analytical_derivatives": "All seventeen MAIN reports and all six checkpoints received at their declared scopes. CP05 reference-table and CP06 exact-contract reuses retain their explicit nonliteral-display qualifiers; earlier92 appendix is documentary transcription, not new source adjudication.",
+  "current_checkpoint_receipt_pins": {
+    "SECONDARY_AUDIT_REPORT_READ_RECEIPT_53.json": "574640fffb155530a2b8d096d2d8df1071cb35d9a23aee0c71b1e42370e6ed78",
+    "SECONDARY_AUDIT_REPORT_READ_RECEIPT_54.json": "0b8eb45a19f5f8a4696c71a74e18607323b4e23080d8cf195752585793d2dfb1",
+    "SECONDARY_AUDIT_REPORT_READ_RECEIPT_55.json": "67701296d7ba146a2a5b001502809b5a877bb1cfe633b794ef0384cfb2ea3a3b"
+  },
+  "private_draft_locator_corrections": [
+    {
+      "before": "DUST02 C02 attraction/refusal locator",
+      "after": "DUST02 C03 P149/P156-176/P420-424",
+      "method": "Preserved sealed first draft; corrected new draft version only."
+    },
+    {
+      "before": "Keith forced removal conflated with DUST07 U011 training",
+      "after": "Keith nonhelp U012 P295-304; training U011 P735-944 remains a distinct event",
+      "method": "Preserved sealed first draft; corrected new draft version only."
+    }
+  ],
+  "material_semantic_receiving": [
+    "Keep the DUST04 refused wager as direct contrary coercive choice without injury, completed handover, or later-success floors.",
+    "Sword loan is one cross-viewpoint event with real defensive purpose, private friendship, performed public cover, a genuine conditional profit possibility and an actual return request. No return performed.",
+    "Dust does not narrate Kazuma first-person scenes simply because the rolling narrator ledger has Kazuma in its filename.",
+    "MAIN15 tobacco reply is Kazuma to Serena with Dust absent; MAIN16 challenges have overlapping view duplicates, not extra source episodes.",
+    "Provider agreement, current resources, same-event identity and actual observed result remain separate.",
+    "Known-source hypothetical first outputs do not establish independent reliability and the third pair has no behavioral discrimination."
+  ],
+  "original_questions_scores_models": "All original seven Dust questions/fourteen blanks, frozen current/history source records, four score files and eleven entering models preserved. No old judgment rescored.",
+  "current_known_pending_external_erratum": "CURRENT_SECONDARY_MAIN15_PV29_ACTOR_ERRATUM_01: Aqua accuses and Darkness denies at native P349-350; keep original frozen report/rationale/code/window and add an attributable qualification through its ordinary claim-revision home.",
+  "final_global_census_complete": false,
+  "final_independent_observation_count": null,
+  "global_completion_percentage": null,
+  "remaining": [
+    "Canonical adoption, exact-path review and live preflight; normal source publication/full gates; designated curation/integration/release.",
+    "Broader census and ledger consolidation, exact MAIN07 retelling joins, further earned secondary artifacts, expanded specialists and separately versioned six principal/party/transfer models."
+  ],
+  "private_payload_before_git_path_normalization_sha256": "6799a69e6c52ade0b7ff18154c441024b044a6b3e3ef6a78d6ad56dc2a72021b",
+  "public_transformation": "Normalize relative ledger identity keys to Git forward slashes; actual referenced bytes and receiving scopes unchanged."
+}

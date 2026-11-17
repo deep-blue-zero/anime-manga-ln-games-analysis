@@ -1,0 +1,186 @@
+{
+  "schema": "konosuba.post-validation.stage-d.executed-suite-scope.v1",
+  "prepared_utc": "2026-10-26T06:22:25.292203+00:00",
+  "model_version": "POST_VALIDATION_STAGE_D_V1",
+  "current_authority": "Active provisional tested cores and separate source-known diagnostic evidence; containing publication pending.",
+  "six_exact_tested_model_cores": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md",
+      "frozen_file": "KONOSUBA_AQUA_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md",
+      "bytes": 15710,
+      "sha256": "66e6f9a8a4fc46506917f8c1c83bb1e88ff438267dd9311ae847ad1316b8b75e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md",
+      "frozen_file": "KONOSUBA_DARKNESS_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md",
+      "bytes": 15296,
+      "sha256": "c478565ef08354ec152917b30d4dea76282f1f49176263d6034fb54c67d98056"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md",
+      "frozen_file": "KONOSUBA_KAZUMA_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md",
+      "bytes": 16589,
+      "sha256": "f35ef6b308f5c0e1ffb3dc0eb904482eb203af1b118dea2eb1aa8e5e43bc2eba"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md",
+      "frozen_file": "KONOSUBA_MEGUMIN_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md",
+      "bytes": 15972,
+      "sha256": "7dcccf99a5ed908a3e837521032130a2ae2fed88b2c55977170296094cdc81dc"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_POST_VALIDATION_INTERACTION_MODEL_V1.md",
+      "frozen_file": "KONOSUBA_PARTY_POST_VALIDATION_INTERACTION_MODEL_V1.md",
+      "bytes": 16569,
+      "sha256": "0e7bd633176b4f7922f78ff4985818e731ce54d19c42fe4d7562f627dab9d219"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_POST_VALIDATION_CROSS_CONTEXT_TRANSFER_MODEL_V1.md",
+      "frozen_file": "KONOSUBA_POST_VALIDATION_CROSS_CONTEXT_TRANSFER_MODEL_V1.md",
+      "bytes": 14085,
+      "sha256": "ad6e1fe8a986491dae698b9f4a951f7e5b869b16e500a057a4c7f6a12734e8c6"
+    }
+  ],
+  "extended_synthesis_sha256": "18134157e7ae0ac1da50de628d67adfb90aba0c490c4ddddc3fed22d9f49de93",
+  "current_feedback_sha256": "ba3b5b5c6599f20ddd51751771b352de329688d061d22a0011b6bcb71594331b",
+  "settings": 45,
+  "actual_firsts": 90,
+  "criteria_each": 8,
+  "fully_prebound_directional_opening_views": 49,
+  "distinct_directional_commitments": 18,
+  "directional_interpretation": "All49 text traces align at their immediate interval; internal consistency only, no accuracy rate.",
+  "typed_A04_defect_retained": "SD1-QA-D01 / F04-A-TR VIOLATED",
+  "diagnostic_successor_replaces_original": false,
+  "earlier_model_bodies_preserved": 71,
+  "resulting_model_bodies": 77,
+  "scoped_secondary_model_entries_unchanged": 65,
+  "profile_passages_unchanged": 231,
+  "monograph_only_studies_unchanged": 69,
+  "nonfinal_access_records_unchanged": 836,
+  "independent_observation_nulls_preserved": true,
+  "unique_person_denominator": null,
+  "global_completion_percentage": null,
+  "full_program_complete": false,
+  "new_files": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md",
+      "bytes": 15710,
+      "sha256": "66e6f9a8a4fc46506917f8c1c83bb1e88ff438267dd9311ae847ad1316b8b75e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md",
+      "bytes": 15296,
+      "sha256": "c478565ef08354ec152917b30d4dea76282f1f49176263d6034fb54c67d98056"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md",
+      "bytes": 16589,
+      "sha256": "f35ef6b308f5c0e1ffb3dc0eb904482eb203af1b118dea2eb1aa8e5e43bc2eba"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_POST_VALIDATION_RECONSTRUCTION_MODEL_V1.md",
+      "bytes": 15972,
+      "sha256": "7dcccf99a5ed908a3e837521032130a2ae2fed88b2c55977170296094cdc81dc"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_POST_VALIDATION_INTERACTION_MODEL_V1.md",
+      "bytes": 16569,
+      "sha256": "0e7bd633176b4f7922f78ff4985818e731ce54d19c42fe4d7562f627dab9d219"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_POST_VALIDATION_CROSS_CONTEXT_TRANSFER_MODEL_V1.md",
+      "bytes": 14085,
+      "sha256": "ad6e1fe8a986491dae698b9f4a951f7e5b869b16e500a057a4c7f6a12734e8c6"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/KONOSUBA_EXTENDED_CORPUS_SYNTHESIS.md",
+      "bytes": 28165,
+      "sha256": "18134157e7ae0ac1da50de628d67adfb90aba0c490c4ddddc3fed22d9f49de93"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/POST_VALIDATION_STAGE_D_V1_EVIDENCE/STAGED_MODEL_CORE_FREEZE_01.json",
+      "bytes": 3090,
+      "sha256": "2bde793fbf6a93d1de6b2b09397eb1999ebc860f66e31c6f39ac7378dba95113"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/POST_VALIDATION_STAGE_D_V1_EVIDENCE/STAGED_INPUTS_AND_PREBINDINGS_FREEZE_01.json",
+      "bytes": 4273,
+      "sha256": "8b9d343573f4728eae7defc05a7912332a57cbde7a8b0028bddfffe792c65068"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/POST_VALIDATION_STAGE_D_V1_EVIDENCE/STAGED_FIXED_NOVEL_CASE_BANK_02.json",
+      "bytes": 77347,
+      "sha256": "3b05f20a306df4d24647cb43ec9daf0a9a51f3dd533ea4997f79366775e448ab"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/POST_VALIDATION_STAGE_D_V1_EVIDENCE/STAGED_FIXED_EXECUTABLE_PROMPTS_02.json",
+      "bytes": 254628,
+      "sha256": "0e5b8187801f0514d33e250e4f5436d025d3e3f22736c0c1253acc908d0d38f0"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/POST_VALIDATION_STAGE_D_V1_EVIDENCE/STAGED_FIXED_PRIMARY_PREBINDINGS_01.json",
+      "bytes": 967439,
+      "sha256": "d521241fd0e253f4726568349429a28d5708b86851cbc24a85011fe7b69dc36c"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/POST_VALIDATION_STAGE_D_V1_EVIDENCE/STAGED_PRE_FIRST_INPUT_QUALIFICATIONS_01.json",
+      "bytes": 7059,
+      "sha256": "618db70704d0858020728dbbf2f96b536a9d16fc2c0096cc25d8dc75365a65b0"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/POST_VALIDATION_STAGE_D_V1_EVIDENCE/STAGED_ACTUAL_FIRST_RESPONSE_RELEASE_01.json",
+      "bytes": 3464,
+      "sha256": "50521dbaa39b6e196c3dc68e41a9f8fe61b32faba77fb8e8e55311915ad1b4ee"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/POST_VALIDATION_STAGE_D_V1_EVIDENCE/STAGED_ALL90_ACTUAL_FIRSTS_SEAL_01.json",
+      "bytes": 58487,
+      "sha256": "0ebbe678ad8fc6916b910c7b94e825c07b3f3c39ccc4cac835e2af2ee41ec02b"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/POST_VALIDATION_STAGE_D_V1_EVIDENCE/STAGED_SEPARATE_AUTHOR_FEEDBACK_01.json",
+      "bytes": 732357,
+      "sha256": "3f1b332b2599fce41bc434ce56ab69f9c933d67a83a8e8a466dbfd65dea16a1c"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/POST_VALIDATION_STAGE_D_V1_EVIDENCE/STAGED_SEPARATE_AUTHOR_FEEDBACK_02.json",
+      "bytes": 736098,
+      "sha256": "ba3b5b5c6599f20ddd51751771b352de329688d061d22a0011b6bcb71594331b"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/POST_VALIDATION_STAGE_D_V1_EVIDENCE/STAGED_FEEDBACK_MODE_JOIN_QUALIFICATION_01.json",
+      "bytes": 34200,
+      "sha256": "550fcdfc9030e099e3e59cf0cf91926d5dee0a0256bc0911adf8854e1e8999f6"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/POST_VALIDATION_STAGE_D_V1_EVIDENCE/STAGED_ACTUAL_FIRST_TEXTS_01.json",
+      "bytes": 79689,
+      "sha256": "e26286d1729c9d92aff1f6c847636ec04d77592df346d4363828a2374d570cb0"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/POST_VALIDATION_STAGE_D_V1_EVIDENCE/STAGED_FIRST_TEXT_ACTUAL_RECEIVING_01.json",
+      "bytes": 782,
+      "sha256": "05c7cd6ec9d0afe7fea5697d0f2cfa19e6ca3fd3307f70dfde38cd79cee62655"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/POST_VALIDATION_STAGE_D_V1_EVIDENCE/STAGED_EXECUTION_SETTINGS_01.json",
+      "bytes": 1157,
+      "sha256": "0a23f18a08306d3515dbe84bd880fa61dd43d0096c6de927afde47dd83600262"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/POST_VALIDATION_STAGE_D_V1_EVIDENCE/STAGED_DIAGNOSTIC_SUCCESSORS_01.json",
+      "bytes": 1595,
+      "sha256": "2ef997f63b14e98f24b1102c1fbfc9261ad621b7540d12441293556e3caf6464"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/POST_VALIDATION_STAGE_D_V1_EVIDENCE/README.md",
+      "bytes": 2770,
+      "sha256": "392b7356ed97589d5ef1d2163397c13ece86af081bca46c8e7c0f1c305589b9a"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_STAGE_D_DIAGNOSTIC_BATTERY_REPORT_V1.md",
+      "bytes": 11421,
+      "sha256": "f02e4acf748cb76ccdbb8aed51f9e0eb04f7dfa7aeaa2bbb0fd9c78ba0ec77cc"
+    }
+  ]
+}

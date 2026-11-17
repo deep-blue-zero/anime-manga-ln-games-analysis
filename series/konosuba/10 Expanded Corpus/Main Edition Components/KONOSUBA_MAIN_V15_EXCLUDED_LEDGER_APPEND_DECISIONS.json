@@ -1,0 +1,166 @@
+{
+  "schema": "KONOSUBA_MAIN15_EXCLUDED_TEN_LEDGER_APPEND_DECISIONS_V1",
+  "source_id": "MAIN-15",
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 314962,
+      "sha256": "9c98a7e1bfc2131b63904c940c830ca9c53618d441e5c9780b0dea2f8a0d3ddb"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 231997,
+      "sha256": "f315f2b6c24ac42e97d2232168a608c2c9d3fb013af265a420b811ce1b625876"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 803443,
+      "sha256": "3560a75d3835543eaba8f817303a7df19f445acf7a3a69c3367ea063a7144117"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 614245,
+      "sha256": "0ba19894f4e95a3fead8b0498029321ea322abc99d2da08512e0c73936796a80"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 209864,
+      "sha256": "68d10ec24f34b0fabdd6a109a7f9b34ad5f9835b3501fdf7cdc2cadf8ff6c76e"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 202502,
+      "sha256": "0c86a488bae2a42545213cd88e53ff7677a4a9d08d89fd6d63420c657abbcf47"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 227941,
+      "sha256": "f48e0e4dba6fe50bf7561d8bd0f4382d938178ba20f1fd6c65ace3c1d07789b9"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 190771,
+      "sha256": "15464b92bb45e3216f1de2403b47126c06899eb6b68716b3b8b2f2e033e332ee"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 281515,
+      "sha256": "9857ebf2e3a4958ae4de0ff68e4b38b69780bd0aece9e1fad62e9a408c67f8c5"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 147705,
+      "sha256": "6d09d736b1f47428d166f60bb92b01e4bdac51f77e8c1f48f80a14c971a7b392"
+    }
+  ],
+  "rows": [
+    {
+      "id": "M15EX-LD01",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "subjects": "Kazuma/Darkness and unnamed noblewoman in new bonus; Aqua/Megumin/Yunyun/Iris have no new bonus choices. Retained Eris/Wiz/Vanir/Serena/Zereschilt/Aloerina/Claire/Rain/Chomusuke retain separate source phases and information; unjoined nun art stays unnamed; creator/contributor/promotion separate",
+      "native_routes": "MAIN15U021P4-17/19-57;Q06-Q18",
+      "observation": "Kazuma values an anticipated noblewoman encounter and food, follows trusted false guidance, discovers the deception and keeps a grievance. Darkness combines amusement, claimed financial protection and an actual apology offer.",
+      "implication": "Preserve actor-specific goal conflict, real harmful means and unperformed compensation; no pure protector or universal incompetent label.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M15EX-LD02",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "subjects": "Kazuma/Darkness and unnamed noblewoman in new bonus; Aqua/Megumin/Yunyun/Iris have no new bonus choices. Retained Eris/Wiz/Vanir/Serena/Zereschilt/Aloerina/Claire/Rain/Chomusuke retain separate source phases and information; unjoined nun art stays unnamed; creator/contributor/promotion separate",
+      "native_routes": "MAIN15U021P7-9/47-57;Q14-Q18",
+      "observation": "Familiarity permits Kazuma to trust Darkness's status and accept an explanation without accepting the treatment. Her offer and request for forgiveness do not establish his acceptance.",
+      "implication": "Trust, truth, explanation acceptance, repair attempt and repaired relationship are distinct states.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M15EX-LD03",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "subjects": "Kazuma/Darkness and unnamed noblewoman in new bonus; Aqua/Megumin/Yunyun/Iris have no new bonus choices. Retained Eris/Wiz/Vanir/Serena/Zereschilt/Aloerina/Claire/Rain/Chomusuke retain separate source phases and information; unjoined nun art stays unnamed; creator/contributor/promotion separate",
+      "native_routes": "MAIN15U021P19-21/33-45/50;Q08/Q12/Q14/Q43",
+      "observation": "The unnamed noblewoman actually initiates a stories encounter and attempts face-saving repair; Darkness's later money-motive claim is interested testimony.",
+      "implication": "Keep the guest's own agency and unknown identity/motive rather than reduce her to a proved predator or merge noble houses.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M15EX-LD04",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "subjects": "Kazuma/Darkness and unnamed noblewoman in new bonus; Aqua/Megumin/Yunyun/Iris have no new bonus choices. Retained Eris/Wiz/Vanir/Serena/Zereschilt/Aloerina/Claire/Rain/Chomusuke retain separate source phases and information; unjoined nun art stays unnamed; creator/contributor/promotion separate",
+      "native_routes": "MAIN15H01-H12;U021P1-57;U018P4-8;IMG004/008/024",
+      "observation": "A false expertise lesson produces literal misuse; differing reactions expose it, and a concrete apology offer reuses the desired noblewoman category. Stereotype/heroic/profile amplification and explicit anniversary/NEXT staging occupy different planes.",
+      "implication": "Selected7H1/3H2/2H4 are analytic selections, not a comedy census; H3 is not uncertainty and paratext is not automatically nonliteral.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M15EX-LD05",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "subjects": "Kazuma/Darkness and unnamed noblewoman in new bonus; Aqua/Megumin/Yunyun/Iris have no new bonus choices. Retained Eris/Wiz/Vanir/Serena/Zereschilt/Aloerina/Claire/Rain/Chomusuke retain separate source phases and information; unjoined nun art stays unnamed; creator/contributor/promotion separate",
+      "native_routes": "MAIN15V01-V36;Q11/Q39-Q40",
+      "observation": "36exact short written forms pair speaker/context/function: authoritative correction, sincere clarification, formal encounter repair, direct accusation, defensive gratitude and a future forgiveness appeal; creator framing/thanks are separately attributed.",
+      "implication": "Ordinary question/politeness cannot prove status pressure, consent or L3; no audio/frequency/independent-window claim.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M15EX-LD06",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "subjects": "Kazuma/Darkness and unnamed noblewoman in new bonus; Aqua/Megumin/Yunyun/Iris have no new bonus choices. Retained Eris/Wiz/Vanir/Serena/Zereschilt/Aloerina/Claire/Rain/Chomusuke retain separate source phases and information; unjoined nun art stays unnamed; creator/contributor/promotion separate",
+      "native_routes": "MAIN15U021P7-10/38-54;AS-R1-K01/K04/K07/K08",
+      "observation": "His noble-status trust and ramen analogy explain locally plausible inference from false inputs. Later true accusation and acceptance of Darkness's explanation do not supply every K04/K07 guard or prove that the explanation is true.",
+      "implication": "Distinguish narrator perception, prior belief, actual action, attributed report and a consciously selective account.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M15EX-LD07",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "subjects": "Kazuma/Darkness and unnamed noblewoman in new bonus; Aqua/Megumin/Yunyun/Iris have no new bonus choices. Retained Eris/Wiz/Vanir/Serena/Zereschilt/Aloerina/Claire/Rain/Chomusuke retain separate source phases and information; unjoined nun art stays unnamed; creator/contributor/promotion separate",
+      "native_routes": "MAIN15U021P19-29/49-57;Q16-Q18",
+      "observation": "Kazuma anticipates a refined encounter and missed restaurant food. Darkness offers home cooking with costly ingredients and pouring; an ordinary shared-meal appeal matters after the prank.",
+      "implication": "Record actual preferences and future offers at their observed scale; no completed dinner, ingredient purchase, forgiveness or romance.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M15EX-LD08",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "subjects": "Kazuma/Darkness and unnamed noblewoman in new bonus; Aqua/Megumin/Yunyun/Iris have no new bonus choices. Retained Eris/Wiz/Vanir/Serena/Zereschilt/Aloerina/Claire/Rain/Chomusuke retain separate source phases and information; unjoined nun art stays unnamed; creator/contributor/promotion separate",
+      "native_routes": "MAIN15U021P4-17/52-56;retained1088P receipt;Q17/Q25-Q32",
+      "observation": "Darkness's known noble/household repertoire can support a bounded food offer while her actual etiquette teaching is false and harmful. Accepted-main rechecks identify real distinct Yunyun/Aqua/Wiz/Eris contributions.",
+      "implication": "Do not turn rank into honesty or basic cooking into chef mastery; provider ownership, task fit, execution and global success stay separate.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M15EX-LD09",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "subjects": "Kazuma/Darkness and unnamed noblewoman in new bonus; Aqua/Megumin/Yunyun/Iris have no new bonus choices. Retained Eris/Wiz/Vanir/Serena/Zereschilt/Aloerina/Claire/Rain/Chomusuke retain separate source phases and information; unjoined nun art stays unnamed; creator/contributor/promotion separate",
+      "native_routes": "MAIN15U021P50-53;retainedC1P486-505;Q14/Q27/Q33",
+      "observation": "The bonus does not supply a full recognized serious-harm protection case: financial danger is Darkness's later account. Retained C1P493/500Darkness objects before Kazuma's actual505violence while Megumin encourages495.",
+      "implication": "No fresh principal trial; preserve real dissent, actual aggression and mixed protective/amusement motives without pure-motive or injury floors.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M15EX-LD10",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "subjects": "Kazuma/Darkness and unnamed noblewoman in new bonus; Aqua/Megumin/Yunyun/Iris have no new bonus choices. Retained Eris/Wiz/Vanir/Serena/Zereschilt/Aloerina/Claire/Rain/Chomusuke retain separate source phases and information; unjoined nun art stays unnamed; creator/contributor/promotion separate",
+      "native_routes": "MAIN15U021P5-17/38-47;AS-R1-E05",
+      "observation": "Kazuma's no-towel question does not expose the prank; modeled noble authority and a ramen analogy sustain compliance until contrasting visible reactions reveal the error.",
+      "implication": "Separate rationalization from correctness, clarification from successful detection and false teaching from technical inability.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M15EX-LD11",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "subjects": "Kazuma/Darkness and unnamed noblewoman in new bonus; Aqua/Megumin/Yunyun/Iris have no new bonus choices. Retained Eris/Wiz/Vanir/Serena/Zereschilt/Aloerina/Claire/Rain/Chomusuke retain separate source phases and information; unjoined nun art stays unnamed; creator/contributor/promotion separate",
+      "native_routes": "MAIN15U021P48-57;AS-R1-E03;Q13-Q18",
+      "observation": "Expulsion leaves missed food and relational liability. Darkness's meal proposal responds concretely; the narrative ends before performance or agreement. The alleged scam avoided is not a verified achieved objective.",
+      "implication": "An actual remedy proposal can fit a narrow action forecast while the cost remains unresolved; a promise is neither free reset nor completed recovery.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M15EX-LD12",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Kazuma/Darkness and unnamed noblewoman in new bonus; Aqua/Megumin/Yunyun/Iris have no new bonus choices. Retained Eris/Wiz/Vanir/Serena/Zereschilt/Aloerina/Claire/Rain/Chomusuke retain separate source phases and information; unjoined nun art stays unnamed; creator/contributor/promotion separate",
+      "native_routes": "MAIN15EX-AS-R1-K01–M07/E01–E08/T01–T04;SI-D01–07/SY-D01–07;Q41/Q44",
+      "observation": "39informed unchanged-contract comparisons:4narrowD06/E03/E05/E07,4partialK04/K07/D01/E01,31NT;4typed diagnostics;7IrisNT+7YunyunNT. Retained image/text joins have no new test credit.",
+      "implication": "Original forecasts, four scores, Dust14blanks, both scope null sets, model pins and uncoded history remain exact; no confidence, accuracy, pristine blindness or independent review update.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    }
+  ]
+}

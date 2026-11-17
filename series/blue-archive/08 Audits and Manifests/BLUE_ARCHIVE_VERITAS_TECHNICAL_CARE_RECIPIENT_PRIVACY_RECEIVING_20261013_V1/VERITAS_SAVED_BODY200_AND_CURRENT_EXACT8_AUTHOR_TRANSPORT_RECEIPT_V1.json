@@ -1,0 +1,224 @@
+{
+  "author": "/root/m008_composition_review",
+  "created_actual_UTC": "2026-10-14T00:16:37.712715+00:00",
+  "existing_required_home": "P3-INST-VERITAS-TECHNICAL-CARE-RECIPIENT-PRIVACY",
+  "mandatory_embedded_responsibility": "P3-XMI-E001",
+  "additional_required_or_named_denominator": 0,
+  "fixed_scope": {
+    "required": 355,
+    "named": 29,
+    "parents": 25,
+    "homes": 384,
+    "navigation": 788,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "next178": "UNREACHED",
+    "merge_approval": "RESERVED"
+  },
+  "independent_component_QA_ROOT_receiving_adoption_installation_publication": "PENDING_SEPARATE",
+  "new_source_primary_native_raw_AV_identity_model_or_canonical_package_credit": 0,
+  "schema": "VERITAS_BODY200_LITERAL52_NEW105_SOURCE7_EXACT8_AUTHOR_TRANSPORT_V1",
+  "body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 49854,
+    "sha256": "d0999a4f2fca5a7de0c4db54c408fa1d70bd1c1860d494dc195493ffd9979016",
+    "git_blob_oid_of_actual_bytes": "17403be665e8ca6e5c755d23dccec7dd0966df5b",
+    "physical_lines": 205,
+    "paragraph_ids": [
+      "VCLAIM001",
+      "VCLAIM002",
+      "VCLAIM003",
+      "VCLAIM004",
+      "VCLAIM005",
+      "VCLAIM006",
+      "VCLAIM007",
+      "VCLAIM008",
+      "VCLAIM009",
+      "VCLAIM010",
+      "VCLAIM011",
+      "VCLAIM012",
+      "VCLAIM013",
+      "VCLAIM014",
+      "VCLAIM015",
+      "VCLAIM016",
+      "VCLAIM017",
+      "VCLAIM018",
+      "VCLAIM019",
+      "VCLAIM020",
+      "VCLAIM021",
+      "VCLAIM022",
+      "VCLAIM023",
+      "VCLAIM024",
+      "VCLAIM025",
+      "VCLAIM026",
+      "VCLAIM027",
+      "VCLAIM028",
+      "VCLAIM029",
+      "VCLAIM030",
+      "VCLAIM031",
+      "VCLAIM032",
+      "VCLAIM033",
+      "VCLAIM034",
+      "VCLAIM035",
+      "VCLAIM036",
+      "VCLAIM037",
+      "VCLAIM038",
+      "VCLAIM039",
+      "VCLAIM040",
+      "VCLAIM041",
+      "VCLAIM042",
+      "VCLAIM043",
+      "VCLAIM044",
+      "VCLAIM045",
+      "VCLAIM046",
+      "VCLAIM047",
+      "VCLAIM048",
+      "VCLAIM049",
+      "VCLAIM050",
+      "VCLAIM051",
+      "VCLAIM052"
+    ],
+    "creation_frontmatter_history": "Original V1 frontmatter/prose retained exactly. Current V2 removes only terminal emptyline201, preserves first200 lines, and does not rewrite dated review/preparation status."
+  },
+  "exact7_components_before_this_transport": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 49854,
+      "sha256": "d0999a4f2fca5a7de0c4db54c408fa1d70bd1c1860d494dc195493ffd9979016",
+      "git_blob_oid_of_actual_bytes": "17403be665e8ca6e5c755d23dccec7dd0966df5b"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.json",
+      "bytes": 96330,
+      "sha256": "010dfd2652711bb69cb8b3af08285437ae15789460b3e86f0c8b38fab358ac6b",
+      "git_blob_oid_of_actual_bytes": "ff28b196c388a2f2cf924973c1de38fc8c10dc95"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json",
+      "bytes": 279058,
+      "sha256": "ac4d5aa0fe867e53914df9f1505996180edfa72004b665b40432200f4f7e1c2d",
+      "git_blob_oid_of_actual_bytes": "32f6032b9d3ba7736c3b477f8bc59b962d91e5b1"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json",
+      "bytes": 416682,
+      "sha256": "519ecde5c1df08b8aa4a1493aff46dec2490dfe45956faa6475d78ed5d11589a",
+      "git_blob_oid_of_actual_bytes": "fb6fa9fe1bb6baea392828a593b411a805b1bb20"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json",
+      "bytes": 580583,
+      "sha256": "251c0724f9398a56331581ff74ec113f064b04a32fb40d668aa3a217b29ff459",
+      "git_blob_oid_of_actual_bytes": "1f72783264c17afa13754aa64ed75cb5df750f69"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+      "bytes": 70612,
+      "sha256": "bd79f1563c91a0cc24534f5e75270f0cd996ce4021bcacb4b94574e2cb2a222c",
+      "git_blob_oid_of_actual_bytes": "b88e5d845b7fd900c62869d8c331c1e97818648d"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 903910,
+      "sha256": "6518b30bf47487f81f883cba2c5cc992bfe958aa595a37de631a73b5c00d8459",
+      "git_blob_oid_of_actual_bytes": "d686c498e94be2a9f92ff8aa7baf02580b0788e8"
+    }
+  ],
+  "component_count_including_this_transport": 8,
+  "authorship": "Own Veritas body52/new105/source-grade/literal binding composition. Prior Library105 QA and LP094 correction/Culinary35/GSC reason proposal authorship disclosed; no clean-room independence or reuse of others source-native credits. Body-only Minato review does not cover new105 or current components.",
+  "actual_body_author_readback": [
+    "e160b3 originalL1–70",
+    "3b33d1 originalL71–138",
+    "b9c398 originalL139–201;currentV2 only removes terminal emptyline201"
+  ],
+  "actual_saved105_author_field_readback": {
+    "grade": "COMPLETE_OWN_SAVED105_NEW_TARGET_FIVE_FIELD_AUTHOR_RECEIVING;NO_INDEPENDENT_QA_OR_SOURCE_PRIMARY_REPLAY",
+    "evidence_id": "private-witness:VERITAS-ALL105-CURRENT525-SAVED-AUTHOR-READBACK",
+    "bytes": 3489,
+    "sha256": "88b8e17d35888e232bda1f1df2e76b4c80129cdb408e8cf13e1ac51dbb82306e",
+    "git_blob_oid_of_actual_bytes": "0467432ee19578c4ece1de9a24845f948f57fa3f",
+    "actual_untruncated_outputs": [
+      "ab9997 VP000–014",
+      "4dabd0 VP015–029",
+      "a4acb7 VP030–044",
+      "ba5fa6 VP045–059",
+      "b50906 VP060–074",
+      "0f26d5 VP075–089",
+      "129001 VP090–104"
+    ],
+    "VP098_current_format_only_article": "a assigned→an assigned technical function; one new finite-use scalar article, no changed question/positive/counter/trigger,body/source/old105;fresh saved scalar readback in separate author final closeout governs."
+  },
+  "body_first_peer_QA_role": "Complete201/52 body-only literary review retained at exact222943/5fb160...; no new105/component adoption implied.",
+  "source_and_original_recovery": "Whole source7 and eleven original105 input parts remain exact private raw beforeimages; all105 complete original row objects preserved in new parts. Complete original envelope reconstruction/full byte inverses are executed in separate private proofs. Published61767 and59334 roles are distinct.",
+  "current_installation": "NOT_INSTALLED_NOT_PUBLISHED;NO_NEW_HEAD_RUNTIME_OR_MAIN_CREDIT",
+  "merge_approval": "RESERVED",
+  "current_author_closeout_qualification_V2": {
+    "saved_actual_UTC": "2026-10-14T00:21:38.210486+00:00",
+    "predecessor": "Original exact8 V1 assembly and author-readback-PENDING creation text are retained privately and dated. Current all105 author field receiving is complete; independent componentQA/ROOT final receiving/adoption/installation/publication remain separate pending gates.",
+    "only_target_word_change": "VP098 one article in finite use; all other524 new meaning scalars, original105 full envelopes, source7,body200/52/rivals8/ends16/gaps14 remain exact.",
+    "boundaries": "No changed canonical/shared metadata or source admission/primary/native/raw/AV/person/model/named credit. Existing institution and its embeddedE001 only;fixed35529/25/384/788/all14OPEN/model0/178unreached/mergeReserved."
+  },
+  "current_VP104_source_use_precision_and_author_receiving_boundary_V3": {
+    "schema": "VERITAS_CURRENT_ONE_WAGE_MOTIVE_PRECISION_AND_PREVIOUS_READBACK_SCOPE_V1",
+    "saved_actual_UTC": "2026-10-14T00:30:36.803084+00:00",
+    "author": "/root/m008_composition_review",
+    "only_target_semantic_operation": {
+      "owner_id": "O104",
+      "veritas_purpose_id": "VP104",
+      "pointer": "/records/33/own_new_target_specific_positive_meaning",
+      "before": "Selected MINI meanings retain fitted gloves, wages, parties, food, volunteered broadcast, rescue/dinner, gardening and explicit release from endless repayment as distinct achieved goods.",
+      "current": "Selected MINI meanings retain actual fitted gloves, completed parties, enjoyed food, volunteered broadcast, rescue/dinner and a blooming plant as finite positive endpoints; Sora's wage motive and explicit release from endless repayment are distinct meaningful ends."
+    },
+    "source_use": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.json",
+      "bytes": 96330,
+      "sha256": "010dfd2652711bb69cb8b3af08285437ae15789460b3e86f0c8b38fab358ac6b",
+      "git_blob_oid_of_actual_bytes": "ff28b196c388a2f2cf924973c1de38fc8c10dc95",
+      "JSON_pointer": "/current_VP104_wage_motive_and_finite_achieved_endpoint_source_use_qualification_V3"
+    },
+    "actual_selected_source_receiving": "71e55e full149–151 maintainedsource only; prior purpose36d528/963230 report meanings independently retain wage motive.4c5aea complete peer fieldset and selected context received.",
+    "original_all105_author_readback_role": "Seven original untruncated actual525 field outputs remain dated. Current VP098 article separately received20d5ca. Only VP104 positive is now semantically qualified; other524 target meaning scalars unchanged. Corrected actual saved positive/source/transport are separately received in final closeout; no fresh whole105 normals/primary or old-field endorsement inferred from the earlier receipt.",
+    "scope": "No source admission/new canonical count/body52/change to original105/other104/14OPEN/model0. One wage-motive versus achieved-end precision, necessary typed current dependency pins and source-use qualification. No global nonpayment or payroll absence.",
+    "current_QA_ROOT_gates": "Distinct-author actual corrected-delta QA and complete component verdict, ROOT full receiving/adoption/install/publication remain pending.",
+    "merge_approval": "RESERVED"
+  },
+  "current_VP042_wanted_fishing_one_positive_written_report_mode_qualification_V4": {
+    "created_UTC": "2026-10-14T06:36:24.311835+00:00",
+    "authority_role": "ROOT-authorized bounded analytical successor only; no signed whole package adoption or public14 promotion.",
+    "owner_id": "O042",
+    "purpose_id": "VP042",
+    "actual_current_part_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json",
+    "actual_current_field_JSON_pointer": "/records/6/own_new_target_specific_positive_meaning",
+    "complete_historical_V3_before": "Fishing, holiday company, night leisure and a misleading ticket kept as souvenir are meaningful; opponents' boat is also home and return route.",
+    "complete_current_V4_after": "Wanted fishing, holiday company, night leisure and a misleading ticket kept as souvenir are meaningful; opponents' boat is also home and return route.",
+    "current_meaning_grade": "Wanted fishing is desired at maintained written-report/prior-purpose grade. Holiday company, night leisure and the souvenir remain positive at their original grades. This does not assert completed fishing, source-global absence, or new primary/native/AV receiving.",
+    "historical_V3_QA_and_originals": "Entire original399718 QA, earlier100193 delta, source96330/body200/other524 fields/all105 original envelopes and allV1/V2/V3 histories remain literal. New current VP042 deltaQA is pending separately; old whole reviews are not rewritten or transferred.",
+    "supported_finding": {
+      "private_witness_id": "VERITAS_VP042_WANTED_FISHING_EXACT_FINDING_20261014_V1",
+      "bytes": 22259,
+      "sha256": "4a52707ec4a561510bdbb825ae2329b2ee493420a2e74b8b3d4f2fbfbb703583",
+      "git_blob_oid_of_actual_bytes": "97fba4a07f2c43b3ca05b08524ee29ffa39a8ac6"
+    },
+    "pending_gates": "Different-author exact current deltaQA, ROOT semantic package adoption, current205 public14 composition/freeze/install/publication/new runtime remain pending.",
+    "new_source_admission_model_package_named_or_canonical_credit": 0
+  },
+  "current205_ROOT_semantic_authority_and_dated200_creation_scope_qualification_V1": {
+    "role": "Current205 metadata-only authority framing after exact signedROOT semantic adoption of originalcurrentV4 body200; no argument/source/525 value changes.",
+    "actual_original_signed_ROOT_semantic_adoption": {
+      "private_witness_id": "VERITAS_ACTUAL_ROOT_CURRENT_V4_SEMANTIC_ADOPTION_ORIGINAL",
+      "bytes": 45025,
+      "sha256": "46121eacbc425e4c8907d6f9907cc6861992ba32fd54f59194146b2bcfeb0b54",
+      "git_blob_oid_of_actual_bytes": "ed3dc61fc89314b3e6212c9d3bde512820641070"
+    },
+    "current_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 49854,
+      "sha256": "d0999a4f2fca5a7de0c4db54c408fa1d70bd1c1860d494dc195493ffd9979016",
+      "git_blob_oid_of_actual_bytes": "17403be665e8ca6e5c755d23dccec7dd0966df5b",
+      "physical_lines": 205
+    },
+    "old200_creation_pending_statement_preserved_at_current205": "The literal argument, finite endpoints, original gaps, all105 new Veritas target purposes and receiving metadata still require their separate different-author review and ROOT receiving/adoption. This is the existing institution and its required embedded ensemble. No additional required or named-duty denominator, source admission, registry join, reconstruction model, prediction register or canonical completion is created by this draft. All14 gaps remain OPEN, models0, fixed355/29/25/384/788 and next178 remain unchanged, and main merge approval remains reserved.",
+    "source_grade_boundary": "Author whole7, independent reviewer selected7, ROOT actual selected7 and complete current report-purpose receiving remain separate. No whole105 normal, primary/native/raw/AV, additional admission, chronology/person identity consolidation, reconstruction model or source-global absence credit.",
+    "historical_pending_scope": "Old author preparation fields, old200/201 QA/body snapshots and finalL205 pending paragraph remain dated creation-time evidence; actual signedROOT/new thirdQA control current semantic acceptance. CompositionQA/composed-byte adoption/freeze/install/publication/newruntime remain pending."
+  }
+}

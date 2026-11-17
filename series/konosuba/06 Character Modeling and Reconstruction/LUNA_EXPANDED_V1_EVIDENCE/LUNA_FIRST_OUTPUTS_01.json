@@ -1,0 +1,31 @@
+{
+  "schema": "KONOSUBA_LUNA_ACTUAL_FIRST_OUTPUTS_V1",
+  "actually_authored_after_prebody_contract_utc": "2026-10-20T08:53:39.927405+00:00",
+  "prebody_contract_sha256": "421c6138bab033d5dced7d5d97bccff8153ad0183b8bb583b4ad508bfe187da8",
+  "model_sha256": "7d071db906bd88e6e14b305705825a11c253f99eb66e6ee26644c4523bded2c9",
+  "inputs_sha256": "829e24f5fa3485360a99c54241a8e8d0f208fb13c2c62c8a8cd102864de67bea",
+  "actual_first_bodies": [
+    {
+      "scenario_id": "LUNA-H01A",
+      "reply": "Just the seals, Maro-san. You can do in thirty minutes what will keep me here for another hour. These four are learning what it means to help at the guild. I would like them to see they can rely on you. Won't you stay?",
+      "chosen_next_action": "Luna directs the question to Maro while deliberately keeping the trainees in the exchange, and waits for another answer instead of starting the sorting herself."
+    },
+    {
+      "scenario_id": "LUNA-H01B",
+      "reply": "Thirty minutes would save me an hour, Maro-san. I know you already delivered the envelope; I am asking for more. Could you take this one extra task before you go?",
+      "chosen_next_action": "Luna leaves the seals on her side of the desk and waits for another answer."
+    },
+    {
+      "scenario_id": "LUNA-H02",
+      "reply": "That was kind of you, Iven-san. You are asking because you would actually like my company, not just to be polite? I... yes, I would like a drink tomorrow. After work.",
+      "chosen_next_action": "Luna smiles hesitantly and asks what time after work he had in mind."
+    }
+  ],
+  "actual_body_count": 3,
+  "execution": "These are the actual first English bodies written by the same informed root author after binding the model and inputs. Tool execution stores and hashes them; it is not an external model/runtime or independent judge.",
+  "regenerations_or_repairs": 0,
+  "source_validation_credit": 0,
+  "independent_accuracy_credit": 0,
+  "Japanese_or_acoustic_credit": 0,
+  "confidence_gain_claimed": false
+}

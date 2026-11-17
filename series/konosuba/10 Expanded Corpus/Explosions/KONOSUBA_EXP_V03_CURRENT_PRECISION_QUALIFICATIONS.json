@@ -1,0 +1,318 @@
+{
+  "schema": "KONOSUBA_EXP03_CURRENT_PRECISION_QUALIFICATIONS_V1",
+  "created_utc": "2026-10-18T16:59:43.064345+00:00",
+  "original_uncoded_history_unchanged": true,
+  "findings": [
+    {
+      "id": "Q01",
+      "qualification": "Title numbered3, ふたりは最強！のターン; electronic issue and underlying print first edition both2015-06-01; no explicit electronic version.",
+      "source": "U006/U050"
+    },
+    {
+      "id": "Q02",
+      "qualification": "This is the early Axel-entry sequence before the main party forms. Publication, in-world and informed-reader order remain separate; do not assume the later continuation has this same chronology.",
+      "source": "U011/U045;prebody chronology"
+    },
+    {
+      "id": "Q03",
+      "qualification": "All52text units/2662P/48native images actually read/viewed;2614principal P across7body members plus48other P. Twenty integral image-prose pages are outside that P denominator.",
+      "source": "Complete uncoded seal"
+    },
+    {
+      "id": "Q04",
+      "qualification": "Four Yunyun interludes have4/4/4/8actual prose pages. IMG023 and IMG040 are decorative closures, not fifth/ninth prose pages. Last interlude includes later carriage travel.",
+      "source": "IMG019–040"
+    },
+    {
+      "id": "Q05",
+      "qualification": "Final interlude’s lonely-demon-king recollection is one nested fable reference, continuous with the prior book story, not another present-world trial or proven prophecy.",
+      "source": "IMG038–039"
+    },
+    {
+      "id": "Q06",
+      "qualification": "Megumin’s native narrative does not yet name the working pair; cast paratext supplies Aqua/Satou Kazuma to readers. Familiar sight is not prior personal bond.",
+      "source": "U011/U045;IMG041"
+    },
+    {
+      "id": "Q07",
+      "qualification": "The shop Explosion-woman clue is received but not locally verified; hesitation about appearing established postpones the visit.",
+      "source": "U013P0049–0064"
+    },
+    {
+      "id": "Q08",
+      "qualification": "The new high-mana archpriest is explicitly described as Axis/self-claimed goddess at U013P0133–0134. Later search failure cannot be explained by absence of that cue.",
+      "source": "U013P0118–0138;U026;U045"
+    },
+    {
+      "id": "Q09",
+      "qualification": "Rize and Raina are siblings; their actual combat, crop loss and Megumin’s own compensation payment remain. She pays because they should not bear her damage.",
+      "source": "U013P0171–0278"
+    },
+    {
+      "id": "Q10",
+      "qualification": "Yunyun’s notice wants company and listeners on nonquest days as well as combat roles. Older-looking visitor’s13claim is not verified, and the meal is reported in main narration after the separately read interlude.",
+      "source": "U013P0272–0323;IMG019–022"
+    },
+    {
+      "id": "Q11",
+      "qualification": "Fish/banana agricultural premises and disappearance performance cause actual firings; mechanism of vanished stock is not shown. Working-pair frustration does not establish Megumin’s superiority or their later identities to her.",
+      "source": "U013P0283–0309/0531–0575"
+    },
+    {
+      "id": "Q12",
+      "qualification": "Ain/Rod/Thomas/Jack provide frontline/archery/healing. Two actual no-cast choices preserve allies; the giant-slime cast still knocks everyone down after Thomas’s prior warning.",
+      "source": "U013P0351–0467"
+    },
+    {
+      "id": "Q13",
+      "qualification": "Apology/inadequacy and voluntary one-spell disclosure are actual self-accepted usefulness concerns, before/around the real leveling alternative. Do not use only the later grief to invent trigger acceptance.",
+      "source": "U013P0414–0419/0480–0496"
+    },
+    {
+      "id": "Q14",
+      "qualification": "The group explicitly offers FUTURE leveling help toward intermediate magic; currently unused skill points are not required. Instant refusal, subsequent belonging grief and stronger-role search all remain.",
+      "source": "U013P0486–0496/0531–0538"
+    },
+    {
+      "id": "Q15",
+      "qualification": "Board Explosion and one-per-day rule belong to the actual game, not a real spell or a universal behavioral license.",
+      "source": "U013P0522–0527"
+    },
+    {
+      "id": "Q16",
+      "qualification": "Yunyun actually initiates approaches and receives interest. Excited glowing eyes are misread, existing women block another approach, the sect later refuses her and a new traveler really offers company.",
+      "source": "IMG019–039"
+    },
+    {
+      "id": "Q17",
+      "qualification": "Cat-pyramid sabotage is Megumin’s deliberate action; praising the pet does not answer Yunyun’s actual apology demand.",
+      "source": "U020P0039–0056"
+    },
+    {
+      "id": "Q18",
+      "qualification": "The guild thug’s duel is offscreen; his cheated-loss account is a report and weaker-victim plan is not reform. Megumin’s spectator motive and Yunyun’s blocking action remain.",
+      "source": "U020P0062–0115"
+    },
+    {
+      "id": "Q19",
+      "qualification": "Monsters-only compliance still creates real repair labor. Guard states crater cost and warns farther-away casting; Megumin supplies actual postcast immobility risk.",
+      "source": "U020P0117–0132"
+    },
+    {
+      "id": "Q20",
+      "qualification": "The indoor reputation chant is an actual interrupted attempt despite empty mana, not a completed Explosion. Dangerous-user reputation is distinguished from explicit art discrimination.",
+      "source": "U020P0153–0183"
+    },
+    {
+      "id": "Q21",
+      "qualification": "Yunyun attempts to refuse the sick-mother/date solicitation; the mother claim is unverified. Police threat and prior cult-form disposal are actual interventions, not license for all later paternalism.",
+      "source": "U020P0184–0222"
+    },
+    {
+      "id": "Q22",
+      "qualification": "The kneeling listening repair is real but interrupted before renewed disclosure; reward capture does not prove the important prior resolve was finally received.",
+      "source": "U020P0223–0275"
+    },
+    {
+      "id": "Q23",
+      "qualification": "Yunyun explicitly says she is not short of cash. Lost-noble appearance assumptions and intimate-work suspicion belong to actors, not performed work or universal rules.",
+      "source": "U020P0259–0302;U032P0048–0069"
+    },
+    {
+      "id": "Q24",
+      "qualification": "Three frogs earn15000actual pay. Five-kill100000bonus is not earned; level increase and later lack of rabbit bounty are separate.",
+      "source": "U020P0330–0350/0533–0558"
+    },
+    {
+      "id": "Q25",
+      "qualification": "Cute-rabbit danger was actually warned before both girls feed/stroke; nofire defensive choices and eventual encirclement come before the collateral blast.",
+      "source": "U020P0351–0490"
+    },
+    {
+      "id": "Q26",
+      "qualification": "Here immediate death danger already exists before the rabbit Explosion. This timing does not rewrite EXP02’s cat-death choice before later enemy-charged-fireball urgency.",
+      "source": "U020P0448–0490;EXP02U044"
+    },
+    {
+      "id": "Q27",
+      "qualification": "First Horst encounter shows no attack. The girls flee before listening; unrecognized protective voice/partial recovery is not already confirmed divine intervention.",
+      "source": "U020P0493–0530"
+    },
+    {
+      "id": "Q28",
+      "qualification": "Yunyun’s no-attack/search correction and Megumin’s renewed art-efficacy challenge both occur. The devil risk remains grave rather than ordinary inconvenience.",
+      "source": "U020P0539–0564"
+    },
+    {
+      "id": "Q29",
+      "qualification": "The weak inn cat prompts an unanswered food/water question; no actual nutrition diagnosis or proof of specific neglect mechanism is supplied.",
+      "source": "U020P0599–0611"
+    },
+    {
+      "id": "Q30",
+      "qualification": "The interlude dragon-knight gossip is attributed reputation with unknown face, not a newly verified full Dust biography. The blue-robed recruiter is unnamed here; do not infer Cecily solely from robe.",
+      "source": "IMG024–027"
+    },
+    {
+      "id": "Q31",
+      "qualification": "Yunyun accepts a proposed conversion, but the next interlude explicitly says the sect REFUSED her. No completed registration is established.",
+      "source": "IMG027–028"
+    },
+    {
+      "id": "Q32",
+      "qualification": "Yunyun refuses alcohol because young while buying the adviser beer. Sexualized unwanted advice is non-graphic; 胸ぐら is the man’s collar, not groping. No paid-friend contract occurs.",
+      "source": "IMG028–031"
+    },
+    {
+      "id": "Q33",
+      "qualification": "The preemptive anti-rage grab is based on Yunyun’s expectation: Megumin had actually chosen initial restraint for group cohesion before it. Unwanted contact and retaliation still occur.",
+      "source": "U026P0037–0064"
+    },
+    {
+      "id": "Q34",
+      "qualification": "Lightning/Fireball and actual tree-fire suppression show multiple providers. Yunyun’s agreement to fight is accompanied by stop-pushing, not unlimited assent.",
+      "source": "U026P0066–0124"
+    },
+    {
+      "id": "Q35",
+      "qualification": "Mitsurugi’s severe injury, one-wing damage and failed expedition are reported; exact offscreen combat and Beldia’s destination remain unshown.",
+      "source": "U026P0126–0188"
+    },
+    {
+      "id": "Q36",
+      "qualification": "Cecily’s earlier locked-room entry is unresolved; Yunyun’s later actual Unlock cannot retroactively explain it. Money task acceptance does not authorize unwanted contact.",
+      "source": "U026P0226–0286;U034P0171–0233"
+    },
+    {
+      "id": "Q37",
+      "qualification": "Sacred loan message is reported by Cecily/Zesta; Cecily interprets funds as hired-devil-killer money. No completed divine loan or verified correct expenditure instruction is shown.",
+      "source": "U026P0252–0286"
+    },
+    {
+      "id": "Q38",
+      "qualification": "Actual church-destruction refusal, honest apology/help, Cecily’s actual window damage and the rejected charity-recipient clue remain together.",
+      "source": "U026P0288–0369"
+    },
+    {
+      "id": "Q39",
+      "qualification": "Cemetery shielding is genuine, then both run; the pale woman’s identity/undead status is not locally confirmed. No TurnUndead acquired or performed.",
+      "source": "U026P0371–0411"
+    },
+    {
+      "id": "Q40",
+      "qualification": "Yunyun waits all night and later gets an actual Rex-group invitation after their real ambush protection and her capture. Megumin repeatedly withholds social help as training.",
+      "source": "U026P0413–0510"
+    },
+    {
+      "id": "Q41",
+      "qualification": "Horst corrects the captured beast to ordinary beginner-killer. The three fighters’ knockout method is explicitly unknown to Megumin.",
+      "source": "U026P0511–0568"
+    },
+    {
+      "id": "Q42",
+      "qualification": "Devil-contract reliability, backup lives, forced release and future child service are actor claims. No completed exchange contract, pet assent or actual rebirth is supplied.",
+      "source": "U026P0585–0598;U034P0483–0493"
+    },
+    {
+      "id": "Q43",
+      "qualification": "Megumin considers pet transfer before declaring she never SAID she would accept. Never committed is not never considered; unfamiliar worker-bystander danger is noticed before fight resolution.",
+      "source": "U026P0602–0627;U032P0028–0039"
+    },
+    {
+      "id": "Q44",
+      "qualification": "U032callsRexgroupfortunatelynotseriouslyinjured; U034P0219narrator calls them quite badly hurt, and Cecily says immobile before healing/barely able to fight after. Preserve the wording/function tension without inventing clinical reconciliation or full health.",
+      "source": "U032P0001–0005;U034P0219/0251–0267"
+    },
+    {
+      "id": "Q45",
+      "qualification": "Friendship label recruits company but Yunyun explicitly rejects doing anything and resents being pleased. Concrete cloak stop and objections remain.",
+      "source": "U032P0041–0046"
+    },
+    {
+      "id": "Q46",
+      "qualification": "Stones/prize-slip advance is a current prank, depicted again in wide comic IMG010. Real gold arrives later; repeated depiction is not another event and not EXP01’s denied allegation.",
+      "source": "U032P0081–0097;U033;U034P0003–0032"
+    },
+    {
+      "id": "Q47",
+      "qualification": "Former guards refuse based on actual friendly-fire/miss risk. Hide purchase, toy scent, cat untying/accepted care and known refraction warning are separate preparation facts.",
+      "source": "U034P0033–0135"
+    },
+    {
+      "id": "Q48",
+      "qualification": "Yunyun’s actual nocturnal plan is independently recruited Rex support and protective Sleep; no daily overnight Explosion is completed. Megumin actually receives the mana-leak flaw while feigning sleep.",
+      "source": "U034P0151–0233"
+    },
+    {
+      "id": "Q49",
+      "qualification": "Cecily’s real partial healing enables the alternate plan; the blessing act and calming effect are observed but no quantified magic buff or full recovery is shown.",
+      "source": "U034P0251–0283"
+    },
+    {
+      "id": "Q50",
+      "qualification": "IMG048 is a native128x128transparent gaiji, voiced い before っ!? at U034P0315, actually read using a white-background enlarged QA view. Base-text extraction omits the glyph; no claim that text joins alone reproduce every printed character.",
+      "source": "U034P0315;IMG048"
+    },
+    {
+      "id": "Q51",
+      "qualification": "The agreed F code covers current team eyes; arriving hidden Megumin is uninformed and gets blinded. Horst’s local immunity and claimed virtual senses are distinct evidence.",
+      "source": "U034P0319–0369"
+    },
+    {
+      "id": "Q52",
+      "qualification": "Enhanced Paralysis knowingly differs from an ineffective ordinary spell; unexpected self-area effect immobilizes Yunyun. Probably-her-father potion is Megumin’s inference, and proposed ceasefire is not mutual execution.",
+      "source": "U034P0371–0424"
+    },
+    {
+      "id": "Q53",
+      "qualification": "Megumin deliberately exposes private avowals despite repeated direct stop pleas. Helpful charging/rescue, retaliation for Sleep and glory do not make that face cost consensual or harmless.",
+      "source": "U034P0426–0476"
+    },
+    {
+      "id": "Q54",
+      "qualification": "Prior crusader/thief and construction-worker exorcism weaken Horst according to his late report, not Megumin’s original knowledge. Final immobile allies remain exposed; nearly all need guild stretchers.",
+      "source": "U034P0483–0516"
+    },
+    {
+      "id": "Q55",
+      "qualification": "Bounty transfer to Rex group is actual; Megumin explicitly credits their work and owns causal responsibility. Remaining advance money goes to Yunyun under a failed income forecast, not proven universal money indifference or settled loan.",
+      "source": "U034P0511–0516;U045P0013–0018"
+    },
+    {
+      "id": "Q56",
+      "qualification": "Future advanced magic/duel/chiefship/Cecilytraining are goals, not achieved events. The final carriage woman offers company and is still unnamed when Yunyun realizes she forgot to ask.",
+      "source": "U034P0520–0561;IMG032–039"
+    },
+    {
+      "id": "Q57",
+      "qualification": "Final woman’s grief and early-versus-later-Arcanretia mutter support reader inference, not Yunyun’s full recognition or proof of executed future plans; sect blame does not establish Arnes caused the powder accident.",
+      "source": "IMG035–039"
+    },
+    {
+      "id": "Q58",
+      "qualification": "Epilogue real suitable party offer is declined for an admitted Axel attachment. Later notice finally joins the already received archpriest clues; approach/intro stops before actual later party agreements.",
+      "source": "U045P0028–0104"
+    },
+    {
+      "id": "Q59",
+      "qualification": "Creator/cast pages contain no lower fictional coda or separate electronic bonus. Posed portraits, banners, maps/props and cast names have unequal evidence roles, not extra behavioral trials.",
+      "source": "IMG041–047;component register"
+    },
+    {
+      "id": "Q60",
+      "qualification": "113original selected voice anchors match exactly; original106omits brackets around 残機. All114current forms match exact windows, with original fragment preserved. Gaiji reading is separately secured, and written voice is not audio/native-human validation.",
+      "source": "Postseal anchor check;CURRENT_SELECTED_VOICE_REGISTER"
+    },
+    {
+      "id": "Q61",
+      "qualification": "87purposeful whole-effect selections and114voice witnesses are not censuses, population rates or new accuracy scores. H2 actual amplification retains consequences; no automatic H3/H4 from magic, misunderstanding, staging or fiction.",
+      "source": "Formal registers"
+    },
+    {
+      "id": "Q62",
+      "qualification": "Frozen66current/72historical/four score files/14blank Dust fields remain exact. Eleven accepted whole supplemental editions after this publication are only a book count; mixed/main-excluded/StageD/secondary/release obligations remain and global component percentage stays null.",
+      "source": "Frozen controls;coverage/current run audit"
+    }
+  ],
+  "original_pre_seal_image_scope_corrections_exact": []
+}

@@ -2,12 +2,12 @@
 title: Manga / Anime Project Initiation and Architecture Policy
 artifact_id: MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY
 artifact_type: project_initiation_architecture_policy
-version: 1.7
+version: "1.13"
 status: canonical
 generation: V1
 scope: corpus-wide analytical project initiation and architecture governance
 created: 2026-08-27
-last_updated: 2026-10-15
+last_updated: 2026-11-15
 maintainer: ChatGPT + user
 source_boundary: "Corpus-wide governance for new and existing anime, manga, light-novel, novel, game, and related analytical projects"
 supersedes: null
@@ -49,7 +49,9 @@ This policy applies to newly initiated or materially restarted analytical projec
 
 It applies whether the eventual goal is full-series literary synthesis, character reconstruction, audiovisual analysis, ethics analysis, relationship modeling, music dramaturgy, institutional analysis, or another substantial interpretive program.
 
-It does **not** require a full architecture for casual one-off discussion, ordinary question answering, source identification, preliminary scouting, or a narrowly bounded analysis that is not being opened as an ongoing corpus project.
+Two artifact contracts also reach new work in existing projects, prospectively and as Section 10 states: the current-unit story synopsis (Section 5.3) and the self-contained character monograph standard (Section 5.5.1). So does the multi-agent source-reading requirement owned by the [topology policy](MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading) (Section 4.1).
+
+This policy does **not** require a full architecture for casual one-off discussion, ordinary question answering, source identification, preliminary scouting, or a narrowly bounded analysis that is not being opened as an ongoing corpus project.
 
 ---
 
@@ -119,6 +121,7 @@ The method should govern **how the source will be read**. Depending on medium an
 - prospective-reading or truth-freeze rules;
 - textual, visual, audiovisual, musical, linguistic, or performance lenses;
 - scene/chapter/episode segmentation;
+- a front-of-reading, human-facing synopsis of narrative events for plot-bearing source units, with explicit source and disclosure bounds;
 - character-state and relationship-state observation;
 - dialogue, translation, voice, and speech-register handling;
 - fact/inference/speculation distinctions;
@@ -128,7 +131,16 @@ The method should govern **how the source will be read**. Depending on medium an
 - contradiction handling within a sequential reading;
 - what each sequential artifact must update before it can be considered complete.
 
-For a new anime project with no existing analytical method, the [Generic Source-Bounded Anime Episode Analytical Method](../analytical-methods/GENERIC_ANIME_EPISODE_ANALYTICAL_METHOD.md) may be used as an optional bootstrap/design reference. It does not itself satisfy the project-local governing-method requirement. The project must adapt or author a series-specific method after source reconnaissance, include only analytically justified modules, pair it with a synthesis/corpus architecture, and expose both through the canonical project entrypoint before sequential analysis is unlocked.
+For a new project with no existing analytical method, the corpus reference methods in `governance/analytical-methods/` may be used as optional bootstrap/design references:
+
+- anime episodes: the [Generic Source-Bounded Anime Episode Analytical Method](../analytical-methods/GENERIC_ANIME_EPISODE_ANALYTICAL_METHOD.md);
+- continuous audiovisual analysis: the [Generic Source-Bounded Continuous Audiovisual Analytical Method](../analytical-methods/GENERIC_CONTINUOUS_AUDIOVISUAL_ANALYTICAL_METHOD.md);
+- manga: the [Generic Source-Bounded Manga Analytical Method](../analytical-methods/GENERIC_MANGA_ANALYTICAL_METHOD.md);
+- light novels and novels: the [Generic Source-Bounded Novel Analytical Method](../analytical-methods/GENERIC_NOVEL_ANALYTICAL_METHOD.md);
+- games, including live-service games, branching narratives, and extracted game data: the [Generic Source-Bounded Game Analytical Method](../analytical-methods/GENERIC_GAME_ANALYTICAL_METHOD.md);
+- character reconstruction: the [Generic Character Reconstruction Method](../analytical-methods/GENERIC_CHARACTER_RECONSTRUCTION_METHOD.md).
+
+The [medium and inspection-lane routing policy](MANGA_ANIME_MEDIUM_AND_INSPECTION_LANE_ROUTING_POLICY.md) states which reference fits which medium and inspection lane. None of these references itself satisfies the project-local governing-method requirement. The project must adapt or author a series-specific method after source reconnaissance, include only analytically justified modules, pair it with a synthesis/corpus architecture, and expose both through the canonical project entrypoint before sequential analysis is unlocked.
 
 ## 3.4 Governing synthesis/corpus architecture established
 
@@ -141,6 +153,8 @@ Typical filename:
 or a coherent project-specific equivalent.
 
 The architecture should govern **what analytical corpus the readings are building**. It must satisfy the Minimum Semantic Contract in Section 5.
+
+The [Generic Multi-Document Synthesis Architecture Template](../analytical-methods/GENERIC_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_TEMPLATE.md) may be used as an optional bootstrap reference. Like the reference methods, it does not itself satisfy this requirement and must be adapted to the project in proportion to its source (Section 11).
 
 ## 3.5 Canonical entrypoint established
 
@@ -210,6 +224,8 @@ Literal model names should not be hard-coded as durable architectural ontology w
 For substantial long-series work, the architecture should name preferred owners for framework/architecture design, sequential primary-source readings, synchronized ledgers, retrospective synthesis, required audiovisual completion, and repository integration. Apply the [long-series hybrid execution protocol](MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md) and [capability-routing policy](MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md); either environment may design architecture, with fresh cloud Pro preferred when adequately grounded.
 
 Identify how a frozen evidence state will be handed to a fresh synthesis session and how returned work will be accepted. The [analytical handoff contract](MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md) governs the transfer. These execution descriptors do not satisfy the initiation gate by themselves, require new empty ledgers, or replace the current eligible method and synthesis/corpus architecture.
+
+Every project with substantive sequential readings also records its multi-agent reading configuration under Section 4.1 of the topology policy: the principal and analytical-integrator role, the specialist responsibilities chosen for its medium, objectives and evidence density, the critical-review role, any unit types eligible for the reduced configuration and why, and the transaction record that preserves contributions and their reconciliation. Name roles, not providers. For a new project this record is part of the gate in Section 3.8; for an established project with an OPEN lock it is a targeted amendment under Section 10 and does not affect the lock.
 
 ## 3.8 Sequential analysis lock
 
@@ -284,13 +300,33 @@ The activation baseline remains immutable and continues to govern architecture a
 
 For a governed admission, the existing structured fields must agree: an OPEN lock, `run_state: active`, matching nonempty `next_permitted_operation` and `next_candidate_operation`, the continuation policy's mode, and recoverable `authorized_start` and `terminal_boundary`. A single-operation run has the same start and terminal unit. A completed run records both next fields as `NONE` or an uppercase `NONE_` token. Blocked, interrupted, missing, malformed or contradictory run state cannot admit a reading. Recognized run declarations in front matter and independent YAML fences must agree; deleting the execution block does not remove the check.
 
-A final admission transaction may record `complete` or `completed` when main already records the run active with consistent next operations and bounds, the candidate preserves its mode/start/terminal boundary, and its committed high-water mark reaches that terminal boundary. Otherwise publish the reading under truthful active state and record completion after acceptance. This is an existing run's completion, not an authorization to extend it.
+A final admission transaction may record `complete` or `completed` when main already records the run active with consistent next operations and bounds, the candidate preserves its mode/start/terminal boundary, and its committed high-water mark reaches that terminal boundary. A run completed on its source branch before publication may instead use the portable completion proof below. Without either route, publish under truthful active state while the run is active and record completion after acceptance; never relabel an already completed run to manufacture admission. These routes preserve an existing run's completion and do not authorize extending it.
+
+#### Completed source-branch publication
+
+An authorized source branch may publish its completed run in one batch using its own `.repository/completed-run-publication.json`, schema `anime-manga-ln-games-analysis/completed-run-publication/v1`. This is optional integrity evidence, not a new permission, a closure seal, a terminal-boundary amendment, or an exception to source review. It requires no project-specific global allowlist. Existing run-stop and terminal seals remain independently enforced.
+
+The proof names the registered project root and canonical entrypoint, the exact completion commit and its direct active first parent. It carries their original textual Git commit objects, the tree nodes needed to resolve both entrypoints and the complete completion-time project tree, and historical Markdown blobs unavailable from exact candidate bytes. Every included commit, tree and blob is checked against its Git object hash; missing, malformed, substituted or contradictory evidence fails closed. The validator reconstructs all completion-time project Markdown to classify the full historical reading set, rather than trusting a declared reading list or an arbitrary active ancestor. The completed entrypoint must pass the ordinary active-to-completed transition check against that parent, and its operational fields must exactly agree with the current entrypoint.
+
+The complete current reading set and bytes must equal that historical completed set. Added, removed, retyped, nonregular or altered readings cannot be laundered through an older completion proof, even if the proof is regenerated. Unrelated retrospective ledgers, syntheses and other nonreading changes may proceed while preserving the historical blobs needed for classification. A proof is consulted only when main records no run or a consistently completed one. It never overrides the bounds of a run already active on main, which completes through the ordinary route even while an earlier proof remains tracked, and never bypasses a blocked, interrupted, malformed or contradictory run state on main. A later authorized active run uses the ordinary active admission route; an old proof grants it no source authority.
+
+`tools/completed_run_publication.py` exports this text-only proof from available Git history and a candidate worktree. Review it with the exact publication candidate and run ordinary author preflight. A squash merge can discard source-history ancestry and object availability; the self-contained, hash-checked evidence permits the same validation in a fresh post-squash main audit without network retrieval, writing Git objects, moving comparison refs, or trusting a prior success flag. Original history remains recoverable through the source branch and publication backup. Missing proof objects still fail closed even if an unbound object happens to exist locally.
 
 No-admission changes preserve accepted historical readings and permit retrospective claim revisions, syntheses and reconstruction. Existing inconsistent operational metadata need not be rewritten for an unrelated correction: consistency is checked when its operational fields change or admission is attempted. Mature legacy roots without structured run declarations retain their established architecture route; adopting or changing a declared run must be truthful. An existing CLOSED or terminal closure still enforces all its seals and final source boundary independently of this delta check.
 
 These checks establish machine-readable consistency, not owner approval or semantic source-range membership. Before executing, recover the current owner instruction and its permitted units from the existing run/checkpoint or handoff record under continuation Sections 3-5 and 12; a next-operation label or agent-written `active` field is not permission. Source-inventory membership, unit identity, and whether a declared operation actually falls within a prose or live-service boundary still require source-grounded review. The local check trusts the fetched main ref; the protected exact-head audit supplies the provider-controlled context. Do not replace that ref, shift the activation baseline, or change classification to conceal an admission. No new authorization ledger or signature system is created.
 
 ---
+
+### 3.9.5 Retrospective publication of an independently frozen generation
+
+Publishing an already completed, independently frozen **noncurrent** generation is distinct from admitting another primary narrative unit. A generation label or `draft_noncurrent` status alone never establishes this distinction. Where ordinary project-local run/closure mechanisms cannot represent the import without misstating another generation's execution, the owner may first merge an exact `frozen_generation_publications` binding into `governance/repository-controls/project-initiation-gate.json` through the separate reserved governance route. A binding added on the publication candidate itself has no admission effect.
+
+The binding identifies the registered project and its unchanged single canonical entrypoint, publication-only subdirectories, the exact publication-manifest SHA-256, immutable original analytical commit and corpus tree, original comparison and V1 boundary commits, the recoverable source-boundary file and digest, explicit owner authorization, generation identities, and any additional publication-provenance file digests. Before proposing the binding, recover and verify every original/publication digest mapping against the historical originals. Record technical normalization as a derivative; never represent changed publication bytes as the original freeze. Original private Git history and source payloads need not become public ancestors or artifacts.
+
+The validator uses only bindings already on fetched main. An unused binding is inert. Once any file in its reserved publication envelope is present, the complete manifest, every mapped artifact and every provenance file must be regular, present at its exact reviewed bytes, and together constitute exactly that envelope. The manifest must retain its frozen identities, source boundary, complete original-versus-publication mappings and noncurrent authority metadata. Every published Markdown artifact retains `draft_noncurrent`, `do_not_use_as_current_authority: true`, empty supersession lists and its reviewed generation identity. Missing, altered, retyped, nonregular or additional files fail; publication must retain its reviewed binding during import and after publication.
+
+Only those verified files are excluded from the **new narrative admission** delta for their own registered root. Architecture/current-method checks, existing run-stop and terminal seals, historical preservation, publication hazards and all other repository checks remain active. An extra reading outside the exact envelope still needs an ordinary authorized active run. The import does not resume or extend V1, open a source gate, certify new literary findings, authorize corrections, or promote analytical authority. Mutable operational routing may separately record truthful completed-run status and publication routes through attributable targeted edits, preserving historical readings, freezes, source boundaries and receipts. No general generation-management or source-authorization framework is created.
 
 # 4. Paired-foundation responsibility split
 
@@ -386,7 +422,7 @@ The architecture must identify what each sequential deep reading is expected to 
 
 It need not duplicate the analytical method. It should define the architectural outputs of a completed source-unit reading, for example:
 
-- deep-reading artifact;
+- deep-reading artifact, with a human-facing current-unit story synopsis when the unit contains a narrative sequence;
 - cumulative ledger updates;
 - new or revised claims;
 - evidence locators;
@@ -395,7 +431,11 @@ It need not duplicate the analytical method. It should define the architectural 
 - readiness-state changes;
 - corpus-map update.
 
-A deep reading should not be considered architecturally complete merely because its standalone prose was written if required cumulative state was not advanced.
+**Human-facing synopsis contract.** A plot-bearing sequential deep reading (in particular a novel or manga volume) must open with a clearly labeled **current-unit story synopsis** near the front of the canonical artifact, after brief identity/witness and entering-context material where needed, and before extended diagnostic interpretation or ledger inventories. Write it as coherent, accessible prose answering *what actually happens*: the opening situation, principal participants and stakes, consequential actions and decisions, causal turning points, major disclosures, and the state at the unit's ending. Preserve concrete scene and physical-event mechanics when established by the source; do not replace them with abstract descriptions of thematic or investigative significance. Scale the detail to the density of the unit rather than enforcing a fixed word count or chapter-by-chapter template. Other narrative media adapt the same responsibility to their own unit structure; non-narrative analytical passes may mark it inapplicable with a reason.
+
+The synopsis is **unit-end, spoiler-bearing orientation**, not a frozen prospective checkpoint or a source of new independent evidence. It may reveal the current unit's climax or solution, but not information from later unadmitted units. Distinguish witnessed events from testimony, conjecture, disputed attributions and unresolved outcomes in ordinary prose; avoid promoting an investigator's belief or a character's report into omniscient fact. Provide retrievable source locators or stable observation/evidence references for material event claims without turning the synopsis into a ledger or cluttering every sentence. Where the unit has an entering state, orient the reader briefly without conflating inherited events with new ones. Compose or finalize the synopsis only after the applicable prospective captures are frozen, and do not expose the full spoiler-bearing reading to a bounded earlier-horizon analyst. Its purpose is independent human comprehension alongside, not instead of, the detailed causal, formal, character and evidence work.
+
+A deep reading should not be considered architecturally complete merely because its standalone prose was written if required cumulative state was not advanced. Nor is a substantive reading complete until the independent participation, critical review and reconciliation required by Section 4.1 of the topology policy are recoverable from the unit's transaction record.
 
 ## 5.4 Longitudinal infrastructure
 
@@ -435,7 +475,81 @@ The architecture must state whether the project expects:
 - reconstruction/validation artifacts;
 - or no dedicated character/relationship layer.
 
-It should specify the conditions under which a character or relationship earns an independent canonical home rather than being handled inside a broader synthesis.
+It should specify the conditions under which a character or relationship earns an independent canonical home rather than being handled inside a broader synthesis. For individual character monographs, those conditions operate within Section 5.5.1's qualification test: a project may add assessment triggers, but it may not exclude a character whom the evidence qualifies.
+
+Where person-level character synthesis is within the project's analytical purpose, the architecture also names where monograph qualification decisions are recorded, the canonical home and naming of individual monographs, and the sequential captures that will supply them, and applies Section 5.5.1. A project whose purpose excludes literary person-level synthesis, such as a purely formal, institutional or thematic program, or a reconstruction program whose declared purpose is modeling rather than literary portraiture, may declare no dedicated monograph layer with its reason. That declaration does not let a project whose purpose includes person-level literary character analysis leave a qualified character to distributed ledger coverage indefinitely.
+
+<a id="self-contained-character-monograph-standard"></a>
+
+### 5.5.1 Self-contained character monograph standard
+
+**Purpose.** A substantive individual character monograph is the canonical, independently usable portrait of one person within its declared source, continuity and temporal boundaries. A human reader or an LLM given only that document should be able to form a substantially faithful account of the character within its stated scope, without retrieving ledgers, readings or specialist studies merely to reconstruct the character's personality and behavior. Other artifacts remain available for verification and for deeper questions; they do not substitute for the portrait. Any document typed or presented as a character's canonical individual portrait is a substantive monograph for this standard; brief notes on characters who do not qualify use another artifact type.
+
+**Qualification.** Not every named or incidental character needs a monograph. Within a project whose analytical purpose includes person-level synthesis (Section 5.5), a character qualifies when the admitted evidence supports a differentiated personal portrait; an architecture may not restrict eligibility to a fixed roster or by narrative role. A differentiated portrait rests on convergent evidence, whether across many units or in one concentrated sequence; on meaningful variation across contexts or interlocutors; and on constraints or counterexamples that rule out a generic personality sketch. A role description, one memorable scene, a trait attributed by others or a collection of isolated facts does not qualify a character by itself. Prominence, protagonist status, popularity and citation count do not decide eligibility: supporting characters, adults and antagonists can qualify, and repeated appearances can remain shallow. Qualification does not require a complete biography, exhaustive preferences or equally rich speech evidence; a qualified character's monograph must still address every coverage responsibility below, stating what is unknown.
+
+**Recorded decisions and the production obligation.** The project assesses eligibility, as its architecture specifies, no later than its specialist-synthesis readiness gate (Section 5.13, item 3), and again when new evidence materially changes a character's history, behavior, relationships or speech evidence. The review considers every character for whom the cumulative homes hold differentiated evidence, not only leads; ledgers help find candidates, but absence from a dedicated ledger is not disqualification. Each assessed character's record gives the stable identity, assessment boundary, outcome, a brief source-grounded rationale naming the largest gaps, the next review trigger, and the monograph path once a real document exists. It lives in the home the architecture names, such as a local monograph index or readiness record, which stays mutable or is carried forward by its successor so later outcomes and paths can be added. A project may keep an established local vocabulary; otherwise it uses:
+
+| Outcome | Meaning and required action |
+|---|---|
+| `QUALIFIED_PENDING` | Evidence supports a monograph; production is required and outstanding |
+| `COMPLETE_AT_BOUNDARY` | A monograph meeting this standard exists at the declared boundary and has passed the acceptance review below |
+| `DEFERRED_EVIDENCE` | Evidence does not yet support a differentiated portrait; record the deficiency and the reassessment trigger, and keep the analysis in its existing canonical homes |
+| `REASSESS_AFTER_REVISION` | A material new finding challenges eligibility or the current portrait; retain the prior assessment until it is resolved |
+
+A qualified character creates a production obligation in the project's character and specialist synthesis stage. A bounded task may leave recorded pending work, but the character layer is not complete while a qualified character lacks a monograph. The architecture/role-gap audit (Section 9) confirms that qualification decisions are recorded; the full-series-synthesis readiness and release audits (Section 5.13, items 4 and 6) list every outstanding obligation, and none of them may describe the character layer as complete while one remains. An unassessed character is neither qualified nor rejected. Do not create empty indexes, placeholder monographs, invented qualification results or readiness claims to simulate progress. Qualification is an evidenced analytical judgment, not an additional approval gate.
+
+**Coverage responsibilities.** Within its declared boundaries, and to the extent the admitted evidence supports, the monograph lets its reader understand the character's:
+
+1. **Identity and circumstances:** names and aliases, background, roles, circumstances and position in the story, with the monograph's source, continuity, temporal and spoiler boundary.
+2. **Personal history:** formative experiences and significant past events, how they bear on present behavior, and when each was depicted, when it was disclosed and what the character knew at the time.
+3. **Personality and psychology:** values, goals, motives, fears, vulnerabilities, contradictions, coping strategies and self-conception.
+4. **Cognition and decision-making:** what the character notices, how they reason and prioritize, and how they respond to uncertainty or conflicting obligations.
+5. **Behavioral patterns:** ordinary conduct, cooperation, conflict, stress responses, mistakes, corrections and meaningful exceptions.
+6. **Speech and communication:** source-language register, self-reference and forms of address, vocabulary and rhetorical habits, politeness, humor and silence, how these shift with audience and pressure, and differences between interior thought and outward speech. State the medium's limits: written register is not performed voice.
+7. **Relationships:** major connections and the directed differences in behavior, trust, attachment, rivalry, dependency and disclosure toward particular people, and how those relationships develop.
+8. **Preferences and ordinary life:** supported likes, dislikes, food, leisure, hobbies, habits, comforts and aversions, distinguishing stable preference from situational choice or accommodation.
+9. **Romantic and intimate psychology:** attraction, romantic history, attachment, boundaries, jealousy and intimate preference, only as the source evidences them and never extrapolated. This dimension is not presumed relevant to every character; where it is not evidenced or not applicable, a one-line statement suffices, and for minors it is limited to what the source depicts.
+10. **Capabilities and limitations:** professional skill, specialized knowledge, and physical or supernatural ability where applicable, the limits on their use, and the difference between capacity and willingness.
+11. **Longitudinal development:** changes in personality, priorities, relationships, knowledge and self-understanding across the authorized source, separating actual development from the late revelation of an existing trait.
+12. **Operational behavioral profile:** a concise, conditional account of how the character is likely to perceive, evaluate, choose, communicate and react in different circumstances, with triggers, counterconditions, support level and the contexts in which it should abstain.
+13. **Interpretive uncertainty:** alternative explanations, counterexamples, unresolved contradictions, known evidence gaps and the limits of extrapolation.
+14. **Source traceability:** precise locators or stable claim and evidence references for material interpretations, with links to the authoritative deeper records.
+
+These are coverage responsibilities, not mandatory headings or a fixed order. Related responsibilities may share a section when their distinctions remain recoverable. The medium, narration and character type set the emphasis: a first-person narrator may support extensive interior reconstruction, while a character shown only from outside supports interiority only as labeled inference, and visual media may add embodied presentation (expression, gesture, appearance, staging) where it contributes to the portrait. A dimension the source never tests is stated as unknown or insufficiently evidenced; one the source tests and shows absent is stated as an evidence-backed limitation. Neither is filled to complete a template, and absence counts as evidence only where the source gave the character an opportunity.
+
+**Single-document usability.** The monograph is a coherent standalone document, not an index to other files. Its links verify claims, preserve revision history and route to specialist arguments; they do not carry the portrait. Each of these fails the standard:
+
+- a personality section consisting mostly of links to a character ledger;
+- a relationship section that sends the reader to a partnership or relationship study without explaining the character's own conduct in that relationship;
+- a speech section that lists a few pronouns but leaves conversational style to another document;
+- a behavioral profile of abstract adjectives, without contexts, conditions and counterexamples;
+- a development account reduced to a list of unit references, without explaining what changed and why.
+
+A concise opening orientation for efficient context loading is encouraged when a sustained analytical account follows it. A character card does not replace that account.
+
+**Responsibility boundaries.** Self-containment does not create a competing authority. Each artifact keeps one primary responsibility:
+
+| Artifact | Primary responsibility |
+|---|---|
+| Character monograph | Integrated, independently usable person-level portrait |
+| Source-facing reading | Original scene observations and local literary interpretation |
+| Longitudinal evidence ledger | Chronology, state changes, evidence history and revisions |
+| Relationship or thematic specialist | Independent relational or thematic analytical questions |
+| Operational reconstruction model | Formal conditional behavior and speech model |
+| Validation record | Independent assessment of predictive or reconstruction fidelity |
+
+The monograph synthesizes what the other layers establish about this person and explains it to the reader. It does not copy whole ledgers, reproduce extended copyrighted source passages (brief source-language anchors suffice), restate specialist essays, or decide a specialist's separate question; it explains that question's consequences for this person and links to the fuller argument. When a claim it relies on is revised, the monograph is corrected through the architecture's claim-revision route (Section 5.8) by erratum, revision or a bounded successor, preserving any earlier-boundary portrait. Its compact operational profile does not claim that a separate reconstruction model exists or has been tested or validated, and it confers no reconstruction capability grade. Keep visible the differences between observed behavior, the character's self-report, narratorial or other-character interpretation, supported analytical inference, bounded extrapolation, speculation and unknown or unavailable information, using the project's own evidence vocabulary where it has one. Within a project, one analysis subject (continuity or incarnation) at one boundary has one canonical current portrait; the project does not maintain competing current full portraits of the same person. A monograph carries `artifact_type: character_monograph`, or the project's established equivalent, and complete authority metadata (Section 13).
+
+**Evidence-proportional depth.** No minimum or maximum word count applies. Length follows evidence density, the character's complexity and development, and the monograph's analytical responsibility. A central viewpoint character across a long series may warrant an extensive monograph; a supporting character whose evidence is concentrated in one arc may warrant a shorter, bounded one. Avoid both mechanical compression that drops meaningful behavior and padding with repeated plot summary.
+
+**Acceptance: self-containment and fidelity.** Before a monograph is semantically accepted, promoted, integrated as current, or recorded `COMPLETE_AT_BOUNDARY`, whether or not it crossed sessions under the [handoff contract](MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md), review two independent properties. Record each result separately in the acceptance or integration record and reference it from the qualification record:
+
+1. **Self-containment** asks whether the necessary character information is actually present. Given only the monograph and no other repository context, could a reader or LLM construct a substantially faithful account of the character within its stated scope? Test with representative questions about personality and motivational structure; typical and exceptional decisions; thinking and reasoning style; natural speech and register; major relationship differences; ordinary preferences and habits; development across the available story; expected reactions to a novel but comparable situation; and where uncertainty and unsupported extrapolation begin. A question the source cannot answer is passed by a monograph that says so.
+2. **Fidelity** asks whether its interpretations are accurate, traceable and appropriately qualified against the source. Check load-bearing claims against their locators and current claim state under the project's existing acceptance rules.
+
+A monograph can pass one property and fail the other. The proportionate default is a documented question-by-question check of the monograph read on its own, preferably by a reviewer other than its author. An independent monograph-only retrieval probe, in which a fresh reviewer or model session receives only the document and its answers are then checked against the source, is recommended for central characters or where a deficiency is suspected; it is not universally required and adds no validation software. Neither property establishes character-simulation readiness: reconstruction readiness and capability remain separate determinations under the project's reconstruction method and the [reconstruction maintenance policy](../policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md).
+
+Applicability to existing projects and artifacts is stated in Section 10.
 
 ## 5.6 Specialist synthesis responsibilities
 
@@ -723,6 +837,21 @@ This rule specifically prevents the situation in which a project completes seque
 
 This policy is prospective. Existing mature projects are **grandfathered**.
 
+The synopsis contract does not require retroactive editing of completed or frozen readings, reopening their prospective captures, or re-reading primary sources solely to standardize presentation. Apply it to new eligible units through the series-specific method at a natural boundary. A separate, source-checked synopsis supplement for an older unit may be authored when explicitly warranted, without rewriting frozen analytical history.
+
+The self-contained character monograph standard (Section 5.5.1) is mandatory, in any series or study, for:
+
+- every new substantive individual character monograph, including future monograph work in established projects;
+- every current monograph whose portrait is generally revised, and every monograph that supersedes one;
+- new analytical architectures and projects; and
+- bootstrap-only projects that have not begun narrative analysis, which adopt it in their architecture before their first sequential reading.
+
+An erratum, a claim-revision correction or a selective update applies the standard to the content it changes and does not by itself require the whole document to conform. An established project records qualification decisions for the characters within its scope when it next enters character or specialist synthesis, or at its next architecture review checkpoint (Section 8); no corpus-wide sweep is required.
+
+The standard does not retrofit frozen source readings, historical monographs retained at earlier evidence boundaries, completed analytical releases, or existing studies that carry a different legitimate analytical responsibility. A grandfathered monograph's nonconformance with this standard is not by itself a correction duty. A material deficiency in an existing current monograph may be remedied, when the owner or project undertakes it, by a separately scoped, source-grounded revision or deepening pass ([long-series protocol](MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md) Section 12), not by a corpus-wide rewrite. A project's own binding monograph rules continue to govern where they are more specific or more demanding, and this standard applies where they are silent. A local rule does not lower the coverage, single-document usability, responsibility boundaries or production obligation required for work within this section's mandatory scope, and this standard completes no production work a local rule records as outstanding.
+
+The multi-agent source-reading requirement reaches existing projects as topology Section 4.1.8 states; the configuration it asks for is recorded under Section 3.7.
+
 Do not create replacement documents solely to make old projects cosmetically conform.
 
 At the next natural analytical boundary for an existing project:
@@ -903,10 +1032,12 @@ Before opening the first substantive sequential deep reading, verify:
 - current-state/corpus-map entrypoint exists;
 - required day-one longitudinal ledgers are initialized;
 - responsibility matrix is present or equivalently represented;
+- character synthesis responsibility is explicit: where person-level synthesis is in scope, the named home for qualification decisions, the monograph home and naming, and the supplying sequential captures under Section 5.5.1 (no record or monograph exists yet); otherwise the reason no dedicated monograph layer is expected;
 - source/conflict/continuity rules are explicit enough for the work;
 - architecture extension rule exists;
 - synthesis completion gates exist;
 - reasoning classes are inherited or assigned appropriately;
+- multi-agent reading configuration is recorded (Section 3.7; topology Section 4.1);
 - sequential-analysis lock is explicitly open.
 
 If any analytically material item is missing, keep the lock closed and repair the project foundation before beginning the sequential pass.
@@ -922,6 +1053,44 @@ This policy exists so that the corpus never again reaches the end of a long sequ
 ---
 
 # Changelog
+
+## v1.13 — 2026-11-15 — Multi-agent source reading
+
+- Routes the binding multi-agent source-reading requirement, owned by Section 4.1 of the topology policy, into initiation: Section 3.7 asks projects to record their reading configuration by role, Section 5.3 treats recoverable independent participation and reconciliation as part of a complete substantive reading, and the compliance checklist adds the configuration item.
+- Sections 1 and 10 point to the topology policy's prospective applicability. For a new project the recorded configuration becomes part of the foundation checked before the lock opens; an established project's OPEN lock is unaffected and its configuration is recorded by a targeted amendment. Machine enforcement of the gate is unchanged.
+
+## v1.12 — 2026-11-14 — Self-contained character monographs
+
+- Adds Section 5.5.1: a substantive individual character monograph is the canonical, independently usable portrait of one person within its declared boundaries, covering fourteen evidence-bounded responsibilities, with untested dimensions marked unknown and tested absences marked as limitations rather than invented.
+- Section 5.5 now asks architectures with person-level synthesis to name the qualification record home, monograph home and supplying captures, and keeps local eligibility conditions inside the global qualification test.
+- Defines evidence-based qualification that is not limited to protagonists or a fixed roster, a recorded outcome vocabulary, and a production obligation reported by the synthesis-readiness and release audits, so a qualified character's portrait is not left indefinitely to distributed ledgers; no placeholders or invented results.
+- Preserves the separate responsibilities of readings, ledgers, specialists, reconstruction models and validation records; a monograph's compact operational profile claims no model, validation or capability grade.
+- Adds a proportionate acceptance review that records self-containment and fidelity separately, with an optional monograph-only retrieval probe and no new validation software.
+- States prospective applicability in Sections 1 and 10 (new, generally revised and superseding monographs; new projects; bootstrap-only projects before their first reading; qualification records in established projects at their next character-synthesis entry or review checkpoint) without retrofitting frozen, historical or released artifacts or turning grandfathered nonconformance into a correction duty, keeps stricter local rules, and adds a compliance-checklist item.
+
+## v1.11 — 2026-11-13 — Human-facing narrative synopsis
+
+- Requires a source-bounded, readable current-unit story synopsis near the front of plot-bearing sequential deep readings, with concrete events and closure rather than only themes or case abstractions.
+- Keeps the spoiler-bearing unit-end synopsis distinct from prospective freezes and evidentiary ledgers, permits medium-specific proportionate formats, and preserves grandfathered/frozen readings.
+
+
+## v1.10 — 2026-10-24 — Corpus reference foundations
+
+- Lists the corpus reference methods for anime, continuous audiovisual analysis, manga, novels, games, and character reconstruction, and the reference synthesis architecture template, as optional bootstrap references.
+- Routes medium and inspection-lane selection to the medium and inspection-lane routing policy. The gate requirements are unchanged.
+
+## v1.9 — 2026-10-20 — Reviewed independent frozen publication
+
+- Distinguishes an exact, separately owner-reviewed noncurrent import from new narrative admission when another generation's run cannot represent it.
+- Requires the binding already on main, complete reviewed publication bytes, immutable analytical/source identities and preserved noncurrent authority metadata.
+- Preserves the completed source-branch proof route, architecture checks, ordinary admission, run stops, terminal seals and historical evidence; no candidate-side self-authorization or source gate is added.
+
+## v1.8 — 2026-10-20 — Completed source-branch publication
+
+- Adds an optional portable, hash-checked completion proof for a run completed before its first batched publication.
+- Requires a real active-to-completed transition, identical operational bounds and the exact complete reading set; preserves ordinary admission, architecture, source-authorization and closure checks.
+- Consults a proof only over main with no recorded run or a consistently completed one, so main's active, blocked, interrupted or malformed run state keeps its ordinary route.
+- Makes proof validation independent of source object availability after a squash merge without adding a global project exception or weakening missing-evidence failures.
 
 ## v1.7 — 2026-10-15 — Run-state consistency without routine seals
 

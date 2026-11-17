@@ -1,0 +1,242 @@
+{
+  "schema": "KONOSUBA_MAIN15_EXCLUDED_SELECTED_HUMOR_V1",
+  "source_id": "MAIN-15",
+  "records": [
+    {
+      "id": "M15EX-H01",
+      "boundary": {
+        "component_id": "MAIN-15-U021",
+        "start_P": 1,
+        "end_P": 9
+      },
+      "whole_selected_premise": "Kazuma applies his remembered outside-first cutlery rule; Darkness supplies a false updated inside-first rule and models it, and he trusts her noble status.",
+      "primary_L": "L2",
+      "L_rationale": "The correction draws authority from a familiar noble teaching a less informed companion; the differing task accounts do the work.",
+      "primary_H": "H1",
+      "H_rationale": "The teaching, modeled use, confusion and trust are actual acts. The supposed universal fashion update is Darkness's false instruction, not the source world's rule.",
+      "source_plane": "New bonus fiction; lesson before next-day meeting.",
+      "eligibility_and_limits": "No claim that expertise in etiquette compels truthfulness or that Kazuma has already discovered the prank.",
+      "native_member": "OEBPS/Text/part0019.xhtml",
+      "native_member_sha256": "c00072e6c047a45bddec1d1151737536104ae3ce8f9213811db6cb170dc2ebe0",
+      "formal_assignment_after_seal_utc": "2026-10-19T20:16:04.097533+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M15EX-H02",
+      "boundary": {
+        "component_id": "MAIN-15-U021",
+        "start_P": 10,
+        "end_P": 17
+      },
+      "whole_selected_premise": "Knowing that a finger bowl cleans fingers does not protect Kazuma from Darkness's invented face-washing ritual, napkin explanation and warning that his mistakes will shame her.",
+      "primary_L": "L1",
+      "L_rationale": "The literal face-cleansing account elaborates the figurative black heart into a plausible-sounding custom; an English equivalent can retain the device.",
+      "primary_H": "H1",
+      "H_rationale": "He really rinses fingers, questions the missing towel and hears the invented rule. Actual face washing occurs only at the later meeting.",
+      "source_plane": "New bonus fiction; instruction phase.",
+      "eligibility_and_limits": "The false custom and claimed noble moral symbolism are attributed deception, not ethnographic facts.",
+      "native_member": "OEBPS/Text/part0019.xhtml",
+      "native_member_sha256": "c00072e6c047a45bddec1d1151737536104ae3ce8f9213811db6cb170dc2ebe0",
+      "formal_assignment_after_seal_utc": "2026-10-19T20:16:04.097533+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M15EX-H03",
+      "boundary": {
+        "component_id": "MAIN-15-U021",
+        "start_P": 19,
+        "end_P": 25
+      },
+      "whole_selected_premise": "Kazuma's imagined delicate flower-loving noblewoman meets Darkness's correction that his picture resembles a suspicious person and her equally sweeping claim that nobles are black-hearted.",
+      "primary_L": "L1",
+      "L_rationale": "The lighter-than-chopsticks delicate-lady idiom and black-heart figure carry wording-sensitive contrast; neither requires untranslatable Japanese form.",
+      "primary_H": "H2",
+      "H_rationale": "Real anticipation and disagreement are amplified into idealized or universally corrupt noble types. These are the speakers' stereotypes, not settled character truths.",
+      "source_plane": "New bonus fiction; earlier invitation flashback.",
+      "eligibility_and_limits": "No encountered guest is proved corrupt by this exchange; a remembered Iris meeting is not a new Iris choice.",
+      "native_member": "OEBPS/Text/part0019.xhtml",
+      "native_member_sha256": "c00072e6c047a45bddec1d1151737536104ae3ce8f9213811db6cb170dc2ebe0",
+      "formal_assignment_after_seal_utc": "2026-10-19T20:16:04.097533+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M15EX-H04",
+      "boundary": {
+        "component_id": "MAIN-15-U021",
+        "start_P": 26,
+        "end_P": 31
+      },
+      "whole_selected_premise": "Kazuma says Darkness damaged his image of noblewomen; she demands an explanation while he continues hoping for a gentle one, then redirects his excitement into an offer to teach the latest manners.",
+      "primary_L": "L2",
+      "L_rationale": "Familiar affront, defensive challenge and seemingly useful redirection organize the turn sequence.",
+      "primary_H": "H1",
+      "H_rationale": "The insult, glare, hesitation and offer are literal; the withheld purpose becomes clear later, not omnisciently shared at this point.",
+      "source_plane": "New bonus fiction; earlier invitation flashback.",
+      "eligibility_and_limits": "Her unspoken exact motive at P30 is not fully accessible merely because Kazuma notices mouth movement.",
+      "native_member": "OEBPS/Text/part0019.xhtml",
+      "native_member_sha256": "c00072e6c047a45bddec1d1151737536104ae3ce8f9213811db6cb170dc2ebe0",
+      "formal_assignment_after_seal_utc": "2026-10-19T20:16:04.097533+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M15EX-H05",
+      "boundary": {
+        "component_id": "MAIN-15-U021",
+        "start_P": 32,
+        "end_P": 40
+      },
+      "whole_selected_premise": "Polite mutual introductions establish the desired encounter, after which Kazuma courteously excuses himself to wash his face in the finger bowl and the guest tries to save the conversation by changing to soup.",
+      "primary_L": "L2",
+      "L_rationale": "Formal greetings and an excuse formula remain civil while the ensuing act violates the guest's expectations; her 'wild adventurer' repair is context-dependent.",
+      "primary_H": "H1",
+      "H_rationale": "Greeting, face washing, wiping, surprised interjection, onlookers and the guest's repair all occur. The restaurant does not accept Darkness's fabricated custom.",
+      "source_plane": "New bonus fiction; actual next-day meeting.",
+      "eligibility_and_limits": "P37 is the guest's interjection, attributed by P38; courtesy does not mean approval of the act.",
+      "native_member": "OEBPS/Text/part0019.xhtml",
+      "native_member_sha256": "c00072e6c047a45bddec1d1151737536104ae3ce8f9213811db6cb170dc2ebe0",
+      "formal_assignment_after_seal_utc": "2026-10-19T20:16:04.097533+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M15EX-H06",
+      "boundary": {
+        "component_id": "MAIN-15-U021",
+        "start_P": 41,
+        "end_P": 47
+      },
+      "whole_selected_premise": "Kazuma noisily empties the soup bowl using an accepted ramen analogy, then distinguishes the guest's embarrassment from Darkness's barely contained laughter and exposes the false teaching.",
+      "primary_L": "L1",
+      "L_rationale": "The written slurping sound and ramen comparison make his causal reasoning audible on the page; no recorded audio or uniquely Japanese dependency is claimed.",
+      "primary_H": "H1",
+      "H_rationale": "The noisy drinking, prior acceptance of the explanation, observed contrasting reactions and angry accusation are actual. A false input can support locally understandable inference and still produce failure.",
+      "source_plane": "New bonus fiction; actual next-day meeting.",
+      "eligibility_and_limits": "The guest's embarrassment is not secretly laughter merely because both women blush or tremble.",
+      "native_member": "OEBPS/Text/part0019.xhtml",
+      "native_member_sha256": "c00072e6c047a45bddec1d1151737536104ae3ce8f9213811db6cb170dc2ebe0",
+      "formal_assignment_after_seal_utc": "2026-10-19T20:16:04.097533+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M15EX-H07",
+      "boundary": {
+        "component_id": "MAIN-15-U021",
+        "start_P": 48,
+        "end_P": 52
+      },
+      "whole_selected_premise": "After Kazuma is expelled, his grievance meets Darkness's apology, request for gratitude and claim that the guest sought his wealth; his acceptance of that account does not end his objection to being toyed with or losing the meal.",
+      "primary_L": "L2",
+      "L_rationale": "Apology, defensive reframing, continuing laughter and a renewed boundary compete within a familiar dispute.",
+      "primary_H": "H1",
+      "H_rationale": "Expulsion, complaint, laughter and attributed explanation are real. The guest's financial motive and family decline remain Darkness's reports, accepted by Kazuma but not independently demonstrated.",
+      "source_plane": "New bonus fiction; walk home.",
+      "eligibility_and_limits": "The text explicitly expels Kazuma, not every diner or necessarily Darkness; no actual financial solicitation is shown.",
+      "native_member": "OEBPS/Text/part0019.xhtml",
+      "native_member_sha256": "c00072e6c047a45bddec1d1151737536104ae3ce8f9213811db6cb170dc2ebe0",
+      "formal_assignment_after_seal_utc": "2026-10-19T20:16:04.097533+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M15EX-H08",
+      "boundary": {
+        "component_id": "MAIN-15-U021",
+        "start_P": 53,
+        "end_P": 57
+      },
+      "whole_selected_premise": "Darkness proposes a meal with expensive ingredients and pouring drinks, then offers her own noblewoman status as part of the appeal; Kazuma hesitates, and the scene ends on her amused smile.",
+      "primary_L": "L2",
+      "L_rationale": "A concrete apology offer becomes a relational forgiveness request; the speaker's own category reuses the earlier desired noblewoman encounter.",
+      "primary_H": "H1",
+      "H_rationale": "The offers, internal conflict, request and smile occur. The meal, pouring, forgiveness and any romantic agreement remain unperformed or unconfirmed.",
+      "source_plane": "New bonus fiction; walk home.",
+      "eligibility_and_limits": "Ordinary cooking repertoire supports a bounded offer, not demonstrated luxury-chef execution, accepted compensation or completed intimacy.",
+      "native_member": "OEBPS/Text/part0019.xhtml",
+      "native_member_sha256": "c00072e6c047a45bddec1d1151737536104ae3ce8f9213811db6cb170dc2ebe0",
+      "formal_assignment_after_seal_utc": "2026-10-19T20:16:04.097533+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M15EX-H09",
+      "boundary": {
+        "component_id": "MAIN-15-U018",
+        "start_P": 4,
+        "end_P": 8
+      },
+      "whole_selected_premise": "The author presents a heroic solo retaliation for Aqua, then admits this spoiler summary is only 'roughly right', inviting the reader to recall the volume's less tidy help, tactics and agency.",
+      "primary_L": "L2",
+      "L_rationale": "The emphatic heroic buildup and understated final qualification depend on their creator-to-reader sequencing.",
+      "primary_H": "H2",
+      "H_rationale": "The underlying confrontation and concern are real, but selective heroic compression amplifies solo agency and uncomplicated resistance. The creator statement is not a new witnessed canonical act.",
+      "source_plane": "Creator afterword, distinct from fictional narrator.",
+      "eligibility_and_limits": "Retained Yunyun assistance, Kazuma's initiated violence and altered-state choices remain; this framing cannot revise accepted events.",
+      "native_member": "OEBPS/Text/part0016.xhtml",
+      "native_member_sha256": "cbea1f22f31a098448577c45c84a6eb74080538397a30541e352fe80f015d341",
+      "formal_assignment_after_seal_utc": "2026-10-19T20:16:04.097533+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M15EX-H10",
+      "boundary": {
+        "component_id": "MAIN-15-U005",
+        "image_id": "MAIN-15-IMG004"
+      },
+      "whole_selected_premise": "The fifth-anniversary party tableau gathers the familiar quartet and Chomusuke in congratulatory celebration.",
+      "primary_L": "L0",
+      "L_rationale": "The anniversary staging and celebratory poses are structurally portable.",
+      "primary_H": "H4",
+      "H_rationale": "This is an explicitly commemorative contributor composition; no source-world fifth-year party or fresh shared meal follows from it.",
+      "source_plane": "MAIN-15-IMG004, anniversary color art.",
+      "eligibility_and_limits": "Image-only staging is distinguished by its explicit anniversary framing, not by a blanket rule that every illustration is nonliteral.",
+      "native_member": "OEBPS/Text/part0003.xhtml",
+      "native_member_sha256": "daf1211ecacf60c453c540db871b34ac84685cb253e3b8bb135f2fd57c5e9433",
+      "native_image_sha256": "2af6ed3db10c6c1effeada6ee67da2d5d79331149baba2c77005a96647c05cd2",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T20:16:04.097533+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M15EX-H11",
+      "boundary": {
+        "component_id": "MAIN-15-U010",
+        "image_id": "MAIN-15-IMG008"
+      },
+      "whole_selected_premise": "Editorial profiles compress Kazuma, Aqua, Darkness and Megumin into memorable extreme labels alongside Serena, Wiz, Chomusuke and Zel.",
+      "primary_L": "L1",
+      "L_rationale": "Short profile labels and absolutes shape the caricature; the underlying character associations can be translated.",
+      "primary_H": "H2",
+      "H_rationale": "Known interests and weaknesses are amplified into capsule identities; they are not universal inability, motive or action laws.",
+      "source_plane": "MAIN-15-IMG008, editorial character profile.",
+      "eligibility_and_limits": "A profile's supposed uselessness cannot erase demonstrated technical healing, shielding, household work or strategic choice.",
+      "native_member": "OEBPS/Text/part0008.xhtml",
+      "native_member_sha256": "292e2a22336b9080e0d6c4e58d47cc95c7c2711d414700f6f5989b16b2b12329",
+      "native_image_sha256": "22bef2fe8c18b05cade9830ab770b3b63b5ecbea211b5399e7002ec1bc48bf3e",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T20:16:04.097533+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M15EX-H12",
+      "boundary": {
+        "component_id": "MAIN-15-U019",
+        "image_id": "MAIN-15-IMG024"
+      },
+      "whole_selected_premise": "The NEXT16 staged household scene lets Kazuma and Megumin belatedly discover Aqua's missing domestic labor while Darkness tries to tell them Aqua is still listening outside.",
+      "primary_L": "L2",
+      "L_rationale": "Delayed interruption and overheard belated appreciation govern the reversal.",
+      "primary_H": "H4",
+      "H_rationale": "The forthcoming-volume promotion stages a comic script; its dialogue does not admit MAIN16 or create another actual departure episode.",
+      "source_plane": "MAIN-15-IMG024, promotional raster script.",
+      "eligibility_and_limits": "The gag acknowledges household provision without proving Aqua performed every chore or that the next volume has been read.",
+      "native_member": "OEBPS/Text/part0017.xhtml",
+      "native_member_sha256": "e8fd4591d4b074ac8d7c6a97effb651f0be4c4230ac24c5a676542562361d5c8",
+      "native_image_sha256": "7f1237179705e1690d49749da745bd3f9939065f1fbb6770e00be764ec67e11e",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T20:16:04.097533+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    }
+  ],
+  "H_protocol": "H1 literal acts or attributed statements; H2 underlying reaction with amplified intensity; H3 only behavior contingent on a local gag, not uncertainty; H4 staged/nonliteral presentation rather than fantasy automatically. Actual and projected effects remain different.",
+  "L_protocol": "L0 structurally portable; L1 phrasing-sensitive; L2 register/pragmatic stance; L3 central Japanese-form dependence. Whole effects and named nested forms are distinct; selected overlap is not a denominator."
+}

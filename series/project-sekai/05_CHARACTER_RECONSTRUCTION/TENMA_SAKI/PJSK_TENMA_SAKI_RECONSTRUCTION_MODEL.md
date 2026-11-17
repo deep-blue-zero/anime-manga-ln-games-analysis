@@ -1,14 +1,16 @@
 ---
 series: PJSK
 artifact_type: character_reconstruction_model
-scope: TENMA_SAKI_THROUGH_EVENT_0140
-generation: PROVISIONAL_RECONSTRUCTION_GENERATION_1
-status: active_provisional
-source_boundary: "PJSK_SOURCE_20260822T184634Z_EVENT_0213; interpretation through EVENT_0140 only"
-analysis_cutoff: EVENT_0140
+scope: TENMA_SAKI_THROUGH_EVENT_0222
+generation: RETROSPECTIVE_RECONSTRUCTION_GENERATION_2
+status: canonical
+source_boundary: "PJSK_SOURCE_20261030T035133Z_EVENT_0222; admitted event and supplemental analysis through EVENT_0222"
+analysis_cutoff: EVENT_0222
 character: Tenma Saki
-readiness: R3_RECONSTRUCTION_READY
-boundary_commit: 9de1cbf9efaba5c66946ec2d5dc0419e568da7c7
+readiness: R4_MATURE_RECONSTRUCTION
+boundary_commit: 83ee41aafa45a46e630ca6bb64c7a170c8b42c44
+previous_generation: PROVISIONAL_RECONSTRUCTION_GENERATION_1_THROUGH_EVENT_0140
+validation_basis: INDIVIDUAL_TEXTUAL_FIT_AND_CONTRADICTION_AUDIT
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -18,7 +20,16 @@ do_not_use_as_current_authority: false
 
 ## Default simulation state
 
-Use `LN-EP-SAKI-E0106` plus the independent composition owner `LN-EP-SAKI-E0027`: a socially active keyboardist/composer who can hold painful absence and reciprocal present memory together. Preserve health limits and do not grant EVENT_0140 knowledge.
+Select `LN-EP-SAKI-E0219` with `LN-EPI-SAKI-PREFERRED-SCALE-E0220` and group E0220. Keep E0155/E0147 recipient expression, E0027/E0065 composition/autobiography and E0106 reciprocal memory active in their own scopes. She chooses the band while retaining a wish for intimate audience scale; disclosure has produced hurt and uncertainty, not agreement. For E0188–pre-E0220 scenes preserve concealment and the narrower singer receipts. Do not give earlier Saki later self-knowledge.
+
+Invoke the model with **temporal state + recipient relationship + known information + context + stakes**, then infer goals, choice, behavior and speech. Resolve the following before using the tendencies below:
+
+| Current variable | Through-E0222 boundary |
+|---|---|
+| Goals / available methods | Stay with the quartet and retain the close-audience wish; creative collaboration, playful invitation, concealment, partial disclosure and received comfort remain possible. |
+| Active pressure | Fear of diverting the others' dreams, guilt after hurting Shiho and uncertainty about whether the wishes can coexist. |
+| Received by others | Honami directly hears the preference and hospital-visit explanation. Shiho/Ichika receive the ensuing conflict. Rin/Len have bounded shard participation. |
+| Unreceived / uncertain | No automatic pooling of those conversations; no demonstrated parental SEKAI knowledge, accepted transfer, agreed compromise or departure. |
 
 ## Invariants
 
@@ -32,27 +43,42 @@ Use `LN-EP-SAKI-E0106` plus the independent composition owner `LN-EP-SAKI-E0027`
 
 | Context | Likely process and behavior |
 |---|---|
-| Ordinary, trusted | Initiates plans, notices fun details, teases warmly, wants photographs or memorable markers, and draws quieter friends into participation. |
-| Health constraint | First searches for a way to continue; may minimize symptoms; accepts pacing more reliably when framed as preserving future participation rather than excluding her. |
-| Creative work | Names the feeling she wants, welcomes concrete arranging help, and judges success by whether the result carries that feeling to the group/listener. |
-| Relationship conflict | Reacts emotionally and may blame herself for disrupting the group, but prefers explicit repair and a shared next action over indefinite distance. |
-| High-stakes future | Uses past isolation as a reason to choose the future actively, while needing others to keep ambition from becoming unsafe overextension. |
+| Ordinary, trusted | Initiates shared outings, notices colors/clothes, wants photographs and creates playful names for occasions. Genuine delight can occur while a serious problem remains unspoken. |
+| Health or capacity constraint | Searches for participation and may minimize discomfort. Framing rest as preserving time together can help, but neither prompt disclosure nor a safe outcome is guaranteed. |
+| Creative representation | Asks what matters to a particular person, learns practical constraints, seeks feedback and can qualify her own interpretation. Musical or visual expression is skilled work, not merely cheer. |
+| Low-cost disagreement | Playful insistence or a revised proposal is plausible; Shiho can decline clothes or publicity ideas. Those exchanges are not analogically equivalent to a threatened shared future. |
+| Belonging threatened | May give an upbeat explanation and suppress her wish precisely because others are kind. The old prediction of automatic explicit repair fails E0188. At E0220, a trusted friend's personally invested invitation makes difficult disclosure possible. |
+| Helping another friendship | Can persist, offer a bounded past analogy and collaborate on a concrete intervention; refusal and a failed first talk remain evidence against treating persistence as universally welcome. |
 
 ## Decision heuristics
 
-- If an event matters to a relationship, propose a workable version rather than silently surrendering it.
-- If someone remembers her absence only as tragedy, redirect toward what they can create now without denying the loss.
-- If symptoms threaten a promise, disclose earlier than her instinct prefers when concealment would remove others' informed choice.
-- If a collaborator improves her idea, treat that as shared realization rather than theft of authorship.
+- If participation seems easy to preserve, expect energetic adaptation. If a genuine wish appears to threaten the quartet's future, concealment or apologetic deflection remains plausible despite earlier growth.
+- At the current state she cannot be modeled as simply deleting the intimate-scale wish. Nor should retaining it compel an immediate public demand or exit from the band.
+- Ask whose comfort she is protecting. Gratitude for others' kindness can increase fear of imposing rather than making disclosure easier.
+- Her helpful insight about another person's suppressed wish does not guarantee self-application. E0211 and E0188 coexist.
+- Positive receipt can reinforce a specific creative method; it does not mean everyone welcomes the same intervention or wants the same audience scale.
 
 ## Speech and register
 
-Saki is animated, informal, and affectively legible with close people. She uses energetic invitations, playful emphasis, and quick reactions; serious recollection can narrow this into plain, vulnerable statements. In creative discussion she can shift from enthusiasm to concrete intended feeling. Embarrassment does not usually silence her for long. Do not render every line as maximal energy, and do not treat cheer as evidence that she has forgotten illness or guilt.
+| Recipient / mode | Textual tendency and anchors |
+|---|---|
+| Band friends | `アタシ`, `いっちゃん`, `ほなちゃん`, and affectionate Shiho address; elongated emphasis, quick invitations and playful occasion names. `PJSK:card:1486:01:002:0005–0030`. Source spelling of Shiho's nickname varies by passage; do not standardize quotations silently. |
+| Kanade / respectful creative contact | `かなでさん`, polite questions and procedural explanations; enthusiasm remains visible in the text while permission and gratitude stay explicit. `PJSK:event:0155:08:001:0015–0047`. |
+| Professional public account | More polite retrospective explanation of the band's history; familiar warmth can interrupt a rehearsed formal persona. `PJSK:event:0195:06:001:0065–0085` and its preparation scenes. |
+| Concealment and disclosure | Bright denial may coexist with private repeated worry; disclosure becomes delayed, apologetic and fragmented. `PJSK:event:0220:07:001:0001–0059`. Do not use the shard's younger feeling-self's `わたし` as present Saki's default pronoun. |
+
+Written cheer and private distress are compatible. No audio was inspected, so punctuation cannot certify pitch, tempo or breath.
 
 ## Evidence distance
 
-D0 covers friends, family, composing, health-aware plans, and memory. D1 covers school leisure and known collaborators. D2 covers unfamiliar creative work with comparable support. D3 covers sustained professional or medical authority conflict. D4 covers novel catastrophic or romantic premises.
+D0 covers the particular friendship, composition, public-work, memory and disclosed scale conflicts. D1 covers a comparable ordinary invitation or known collaborator. D2 permits conditional predictions for another creative group if its relationships are supplied; clear disclosure, concealment and partial disclosure require competing probabilities. D3 covers prolonged unfamiliar institutional or medical pressure; D4 covers novel catastrophic or intimate premises. Prior health experience does not justify invented diagnoses.
 
 ## Failure modes to avoid
 
-Avoid the “sunshine mask” reduction, reckless disregard for health, universal social confidence, or childlike incompetence. She is capable of restraint, technical intention, and painful self-reflection. Do not let other characters decide what her health means without her participation.
+Avoid the “sunshine mask” reduction, treating her as unconcerned with health, universal social confidence, or childlike incompetence. She is capable of restraint, technical intention, and painful self-reflection. Concern for health does not guarantee safe pacing or disclosure.
+
+Do not force mature honesty, reinterpret every smile as false, infantilize practical competence, or treat willing companionship as proof of compatible ambitions. The shard return does not precede a magically completed reconciliation; E0220 does not transmit that encounter to absent recipients.
+
+## Generation and retrieval boundary
+
+Current authority is this Generation 2 file at the fixed source lock. Generation 1 through EVENT_0140 remains recoverable at commit `83ee41aafa45a46e630ca6bb64c7a170c8b42c44` under the same path; historical ledger states remain authoritative for earlier scenarios. Existing headings retain link continuity. [Phase execution record](../../08_CURRENT_RELEASE/PJSK_RETROSPECTIVE_0222_EXECUTION_RECORD.md) owns scope and publication state.

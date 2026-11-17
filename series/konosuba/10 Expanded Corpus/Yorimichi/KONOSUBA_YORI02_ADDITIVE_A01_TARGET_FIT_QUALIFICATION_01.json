@@ -1,0 +1,118 @@
+{
+  "schema": "KONOSUBA_YORI02_ADDITIVE_A01_TARGET_FIT_QUALIFICATION_V1",
+  "recorded_utc": "2026-10-19T01:33:26.957065+00:00",
+  "status": "CURRENT_ADDITIVE_PRECISION_CONTAINING_NEXT_PUBLICATION_PENDING",
+  "source_id": "YORI-02",
+  "original_published_source": "3f4549eb3d9838ed585c6a486b68f8fa2b167a20",
+  "reconciled_full_gate_source": "db1454ef9027993713c8bcce58e8b993e6e8a0cd",
+  "current_effective_comparison": "EXPLORATORY_QUALIFIED_TARGET_FIT_AND_OWN_ERROR_UNRESOLVED_NOT_A_NEW_SCORE",
+  "current_scope": "The actually adopted calming command fails: wind knocks Aqua back. That operation result remains literal adverse material. A full R1-A01 own-execution contrary is not established: her domain-affinity claim135 and deity appeal219 do not independently prove this storm spirit is a compatible/compliant target for that technique, nor does rejection222 establish technical error. Treat exact execution comparison as qualified/ambiguous, retaining a poor-judgment hypothesis and target-fit/noncompliance rival. No ontology invented from failure, no favorable confirmation, no change to R1 or old scores.",
+  "original_overstatement": "Current report/model comparison calls the command a fitted/adverse local phase too categorically; domain affiliation alone was used beyond independently established target parameters.",
+  "exact_R1_A01": {
+    "id": "R1-A01",
+    "path": "06 Character Modeling and Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+    "model_sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430",
+    "section_sha256": "66cee68dd9b9db9e7775845107bea1c8b35cc19566f0d55689cc0ab8fe6b2994",
+    "exact_unchanged_section": "### R1-A01 — An adopted fitted helping step uses real competence\n\n**Chronological eligibility:** Use only capacity known available at the selected main slice; exceptional V17 body recreation is unavailable as an ordinary earlier option.\n\n**Trigger:** A concrete need in a demonstrated sacred/support/manual domain is received, and Aqua has actually adopted an immediately executable helping step.\n\n**State before choice:** Awake/engaged, actual access and resources, compatible target/provider, relevant world capability and a task within stated demonstrated parameters; establish these before judging output.\n\n**Relationship/addressee/audience:** Requester/beneficiary may vary; neither friendship nor professional title is required. Audience is recorded but need not be present.\n\n**Stakes/alternatives:** Assess the narrow helping step, not the full campaign. Record interfering danger and feasible alternatives independently; do not infer unavailable means from a later failure.\n\n**Appraisal:** The problem is one she can practically do something about, rather than merely a threat to status.\n\n**Motive competition:** Task ownership and competent mastery may coexist with pride, complaint or appetite. No pure helping motive is required.\n\n**Action commitment:** Make a technically fitted attempt using available capability, with domain-appropriate execution rather than generic inability. A larger operation may still fail in another phase.\n\n**Voice function:** Communicate whatever the current subtask requires: explanation, acceptance, request, complaint or silence. No directive increase is predicted merely because service is active.\n\n**Strongest rival:** Actual target fit, access or readiness was misidentified; alternatively her ordinary execution can fail despite apparently adequate means, as V14 prevents infallibility.\n\n**Confidence:** MODERATE for reliable fitted execution; HIGH for existence of specified repeatedly demonstrated capacities.\n\n**Contrary evidence:** A full eligible adopted step fails through her own ordinary technique/judgment or she performs a knowingly unfitted substitute without an independently evidenced competing change. Do not rescue by inventing ontology.\n\n**Disconfirmation/branch threshold:** One matched own-execution failure is a local adverse case; two distinct full cases challenge the reliable-execution mechanism. Availability/adoption and execution are reported separately; interference cannot silently be credited as success.\n\n**Source claims/routes:** A-C01/A-C02/A-C04; MAIN01C4 and MAIN02C5 multi-provider phases; V09F43-110; V10detox readiness vs capacity; V14cemetery actualfailure; V15patient access/cure; CP06MG05-A01 PARTIAL\n\n**Evidence/H/L limits:** E1/E2/E5 acts plus E6 reports/inferences distinguished. H1 literal capability may have H2 magnitude. No new L assignment or series-wide frequency.\n\n**Both-mode mapping:** Canonical: bind actual magic and compatibility. Transfer: use only explicitly retained powers or supplied ordinary skill; absent magic means no magical step. Do not invent medicine/engineering credentials to satisfy the prediction.\n\n**Missingness/adequacy:** If capability/access/readiness/adoption or target fit is unknown, mark the relevant branch NOT_TESTED/AMBIGUOUS externally, not favorable by default. Adequacy concerns observable step/outcome, not a fixed utterance count.\n\n\n",
+    "claim_type": "BEHAVIORAL_FORECAST",
+    "current_use": "Retrospective informed applicability and qualitative comparison only; no new blind score or rewrite of an accepted outcome."
+  },
+  "native_routes": [
+    "YORI-02-U020:P0135–0136",
+    "YORI-02-U020:P0208–0227"
+  ],
+  "all17_original_derivative_streams_preserved_exact": [
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_COMPONENT_REGISTER.json",
+      "bytes": 242388,
+      "sha256": "d591d8573c43a2e3d4a26f736a125ca143b0aef39859166827c2e3b10b176e5c"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_DEEP_READING.md",
+      "bytes": 38138,
+      "sha256": "e0c759f30ffe03e9e4ce4aff5c23685cb013fc287c3e05a32cf283c1705e01ac"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_HUMOR_REGISTER.json",
+      "bytes": 98168,
+      "sha256": "25333e136f229ca4caf6fbc4cfdc7e4e9e63a6aa9ad488655bb72a22296aaf86"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_VOICE_REGISTER.json",
+      "bytes": 182621,
+      "sha256": "af3449ce4d3c47e5a412bc9438280579269ee4041a491876fa498bead9aa39b4"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+      "bytes": 202290,
+      "sha256": "0a05c5ef5dc8eb65084d41aeaf705d7bdc1b6b59e31a5dbeb59af1749edf2af2"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 15559,
+      "sha256": "7cd0c109d00d7ff4956193e6dde4e1b2bfe9cd441e439c5f53b277340e9612c8"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_LEDGER_APPEND_DECISIONS.json",
+      "bytes": 27469,
+      "sha256": "865b99fdf4d8a2a8b399dd1c9a8ad0baa714672e20c02145a4afd8b87661633d"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_INITIAL_AUTHOR_UNCODED_SEAL.json",
+      "bytes": 12632,
+      "sha256": "b2e09e16b1ad40808cddc3590fe0269e7fa26b639003da8ab78c2cab2029b0f9"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 147908,
+      "sha256": "d32d2aca3c257ecdb4802b5cc2c171f09609821f86a83e888050c531b712caec"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_ORIGINAL_UNCODED_TEXT_NOTES.jsonl",
+      "bytes": 116704,
+      "sha256": "aa69e5f801dc3d4962c0cd50781a1920cc39b7b5a49d4dc530198e79de6902f2"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_ORIGINAL_UNCODED_IMAGE_NOTES.jsonl",
+      "bytes": 21729,
+      "sha256": "c1ec366d1734404ce8ff08ddf7d1fdf9b54b263c796c1aadb29705034d4a0d9d"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_COMPONENT_ANALYSIS.md",
+      "bytes": 16659,
+      "sha256": "cdaf5435f851190a0c8971fc7fa770a5d2c0e7635c9d751f0018f6cb5916229b"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_HUMOR_REGISTER.md",
+      "bytes": 44548,
+      "sha256": "fadab8985cc0313b89196b5f2befc4dec41c73a85cec2dc44bda93be86469fb6"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_VOICE_REGISTER.md",
+      "bytes": 58976,
+      "sha256": "9698087c2bbd7c0448c0c288a434c555eb3cf6bb9a9162cc43114bf2c526a0ae"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_SOURCE_AND_READING_RECEIPT.json",
+      "bytes": 8478,
+      "sha256": "99c2d6ec6a14b4b672b2b0b684c81ea507d61a2cc42a68982c0a6e1c31be41e2"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_RECEIVING_AND_PROVENANCE.json",
+      "bytes": 29607,
+      "sha256": "512993f6df5f119f67ee4fc67b4eb9a788ecfd788d934c60a693e9a0624ceaf8"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_HANDOFF_MANIFEST.json",
+      "bytes": 3471,
+      "sha256": "3aa8c48ca4b60c7766ef659c042f3df858c824057d982c7ad4c528bb307f7e76"
+    }
+  ],
+  "narrative_facts_and_all_original_L_H_codes_unchanged": true,
+  "actual_adopted_calming_failure_retained": true,
+  "full_A01_own_execution_contrary_not_established": true,
+  "not_a_positive_confirmation_or_invented_ontology_escape": true,
+  "original_R1_four_holdout_scores_and14blanks_unchanged": true,
+  "chronology": "Diagnosed after YORI02 publication, before any next-source native body/image reading; next-source prebody context explicitly carries this correction.",
+  "author": "Same continuing informed root, not independent review."
+}

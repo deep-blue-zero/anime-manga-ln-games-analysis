@@ -1,0 +1,60 @@
+{
+  "cases": [
+    {
+      "id": "clavis",
+      "session_id": "01a1525d-aa1c-7bf1-91de-afba7dfd138b",
+      "prompt": "Return to the earlier C-S private teaching exchange at GO-U009 end; Lucia has not heard the Williams exchange, and no later events are known. Lucia responds to your preference for privacy: 'You have answered without telling me much. Is there a question you want to ask me that I can reasonably decline?' Continue this conversation without deciding her reply for her.",
+      "policy_sha256": "4d3d12da7cbfc7f5371544138ed5cc26114268c1567f8e5249f63739b21a754b",
+      "reviewer_provenance": "Independent nonauthor reviewer /root/harmony_names, wave1 selected from actual initial conversation responses; retain initial run and full policy unchanged. No expected answer, rule selection or score supplied to runtime."
+    },
+    {
+      "id": "williams",
+      "session_id": "01a1525d-aa21-7e82-aca9-9d500bff28d5",
+      "prompt": "Return to the earlier W-S Clavis conversation after the U011 counseling report, with no train, terminal or family-evening knowledge transferred. Clavis replies to your offer of company: 'Staying helps more than advice right now. I've got water. What would you like to do with these next few minutes?' Continue the exchange without deciding what Clavis does next.",
+      "policy_sha256": "72e6514f1ea732590888753cfed615043e7f070dce15cf7155eccf729027bbaf",
+      "reviewer_provenance": "Independent nonauthor reviewer /root/harmony_names, wave1 selected from actual initial conversation responses; retain initial run and full policy unchanged. No expected answer, rule selection or score supplied to runtime."
+    },
+    {
+      "id": "john_paul",
+      "session_id": "01a1525d-aa22-7692-b266-53675a1d1c77",
+      "prompt": "Return to the same J2 restrained rail-custody exchange, before any destination has been disclosed in this noncanonical conversation and before the attack. Clavis answers your question about how he accounts for his part: 'I call it work, but that is an answer I give when I want questions to stop. What would you ask me next?' No private maternal history is supplied. Continue the conversation without controlling his answer.",
+      "policy_sha256": "788244799f77bb332d8f0e7b2cd6a89f6edc4f402f9475c9ee7dfe6dad8417c2",
+      "reviewer_provenance": "Independent nonauthor reviewer /root/harmony_names, wave1 selected from actual initial conversation responses; retain initial run and full policy unchanged. No expected answer, rule selection or score supplied to runtime."
+    },
+    {
+      "id": "lucia",
+      "session_id": "01a1525f-c2b5-7460-9dd7-3b61f3bcfeea",
+      "prompt": "Return to L1, the Bishop teaching exchange through GO-U009 end; no operative name or later knowledge is supplied. Bishop responds to your distinction between a boundary and distrust: 'I was treating willingness to talk as agreement with me. Could you show me where my question went wrong, without discussing John?' Continue the lesson without deciding Bishop's response.",
+      "policy_sha256": "38143215e4bdb911acf11c0b25f1e097242b6e99cc9fd6f126a6ba901d57ca6c",
+      "reviewer_provenance": "Independent nonauthor reviewer /root/harmony_names, wave1 selected from actual initial conversation responses; retain initial run and full policy unchanged. No expected answer, rule selection or score supplied to runtime."
+    },
+    {
+      "id": "alex",
+      "session_id": "01a1525c-ff42-77b0-bda1-4dd01f24c2ae",
+      "prompt": "Return to living A1 before the GO-U004 target encounter, with Leland as peer recipient; the earlier request for a posthumous answer is withdrawn. Leland replies to your uncertainty about heaven: 'You have not convinced me. Why does that uncertainty leave us anything worth talking about?' Continue the conversation without inventing Leland's private convictions or later events.",
+      "policy_sha256": "6efcc302f07a459dc61c076071e209ccf39f73a574693d52f4e06e28344d08b1",
+      "reviewer_provenance": "Independent nonauthor reviewer /root/harmony_names, wave1 selected from actual initial conversation responses; retain initial run and full policy unchanged. No expected answer, rule selection or score supplied to runtime."
+    },
+    {
+      "id": "leland",
+      "session_id": "01a15260-1fb7-7d50-b7ea-c76602350724",
+      "prompt": "Return to the B3 live status exchange at GO-U022-E013 before later deterioration or death, Clavis on the same link. The outside investigator exchange is set aside. Clavis responds to your limited report: 'I hear you. I will stop asking for certainty. What is the most useful question I should ask you now?' Continue within the same bodily and viewpoint constraints without deciding what Clavis does.",
+      "policy_sha256": "c3ca194a2625f83bfce577d3096d61330652b28bacedd01c304a762a6e7ff09e",
+      "reviewer_provenance": "Independent nonauthor reviewer /root/harmony_names, wave1 selected from actual initial conversation responses; retain initial run and full policy unchanged. No expected answer, rule selection or score supplied to runtime."
+    },
+    {
+      "id": "rockwell",
+      "session_id": "01a15260-26a0-7650-a0dc-0a1608eac47d",
+      "prompt": "Return to R2 after Evans's dismissal, with Clavis in the admitted audience and the same disclosed custody terms. Clavis responds to your instruction: 'I can repeat the custody terms. I still do not understand what you need me to report back if another officer asks why. What can I say?' No authenticated new order or further clearance is stipulated. Continue the briefing without inventing an approval chain or deciding the other officer's response.",
+      "policy_sha256": "f2bd2fc83686f4b62f1821ec8fa8d699abf36ca7e2980687210f6537d2c33c66",
+      "reviewer_provenance": "Independent nonauthor reviewer /root/harmony_names, wave1 selected from actual initial conversation responses; retain initial run and full policy unchanged. No expected answer, rule selection or score supplied to runtime."
+    },
+    {
+      "id": "lucius",
+      "session_id": "01a15261-804a-7eb1-afe7-01014ec11e06",
+      "prompt": "Continue U2, the local archive-exposure confrontation through GO-U017-E006–007, before the breach; Lucia is present and no later survival outcome is known. Lucia responds to your last reply: 'You said protecting their freedom while watching them. Whose freedom, and whom are you watching? I do not understand who you mean.' Continue the exchange without supplying Lucia's reaction, an unseen plan or an outcome.",
+      "policy_sha256": "ada69e0a8df20f468f6a62864a552210e62f2c16393c0b8d77d60bdc12da9603",
+      "reviewer_provenance": "Independent nonauthor reviewer /root/harmony_names, wave1 selected from actual initial conversation responses; retain initial run and full policy unchanged. No expected answer, rule selection or score supplied to runtime."
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "schema": "KONOSUBA_WHOLE_LOCAL_TEXT_EPUB_ACTUAL_UNCODED_READING_SEAL_V1",
+  "source_id": "DUST-07",
+  "sealed_utc": "2026-10-18T11:04:05.328502+00:00",
+  "native_filename": "Konosuba Extra - Dust - Volume 07.epub",
+  "native_bytes": 4740436,
+  "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+  "fresh_native_ZIP_CRC": "PASS",
+  "actual_complete_textual_units": 20,
+  "actual_paragraph_slots": 2952,
+  "actual_unique_native_images_viewed": 19,
+  "unit_interval_verification": [
+    {
+      "component_id": "DUST-07-U001",
+      "native_member": "item/xhtml/p-cover.xhtml",
+      "sha256": "2bc6abd1ae0b82d07b0b2d55197d38a8f69f73c32efda0bab876a4fc5fddf280",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-07-U002",
+      "native_member": "item/xhtml/p-fmatter-001.xhtml",
+      "sha256": "d5363e54a6429a67f7f73c94886c1728c1ab7143acc395afa16b630ab64e889f",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-07-U003",
+      "native_member": "item/xhtml/p-fmatter-002.xhtml",
+      "sha256": "1c6bc7936067a6752a57b2919c263eb17e7ad33bb128b7194f6108b33d9bd662",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-07-U004",
+      "native_member": "item/xhtml/p-fmatter-003.xhtml",
+      "sha256": "74943c25bab45f3dcce30a726c022994684a4b63930dd7028a6f5de9561df5e3",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-07-U005",
+      "native_member": "item/xhtml/p-fmatter-004.xhtml",
+      "sha256": "dcbe2d8339e74f0c13520a11366fb8d07cab47e9d0b5a7bb1d7af8c143d152c1",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-07-U006",
+      "native_member": "item/xhtml/p-titlepage.xhtml",
+      "sha256": "3a2b713fd15edc2792d8bf6f44d228329f39eb520c99a0340ab7747217220e86",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-07-U007",
+      "native_member": "item/xhtml/p-caution.xhtml",
+      "sha256": "49c6724be5fe694366b3fb9b9f34b5b4d575a047ee916c7093e807669a02ec67",
+      "paragraph_slots_actually_received": 4,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-07-U008",
+      "native_member": "item/xhtml/p-toc-001.xhtml",
+      "sha256": "0dd996cee6e6cafa788cae3a816d4977733e8f2f3e45336a4cb85a4c7cc7d035",
+      "paragraph_slots_actually_received": 9,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-07-U009",
+      "native_member": "item/xhtml/p-001.xhtml",
+      "sha256": "0ec1ef9cd7b863e7f2921d7f9f79b7c36abd6193e99339049f75adff256a8796",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-07-U010",
+      "native_member": "item/xhtml/p-002.xhtml",
+      "sha256": "7ea4de340201b002efe97a46f4639b4d588a0d6e0b447634919a21341f41e46a",
+      "paragraph_slots_actually_received": 51,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-07-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "sha256": "c9ba71b51dab40b49a9f5d2b42952a635d1dd55a4e9c2aae16853c21d8e256e1",
+      "paragraph_slots_actually_received": 1115,
+      "intervals": 6,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-07-U012",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "sha256": "fffa57992203fe201aa2feb701792a5b7168bb29542cf44f34f1dffbba24b8d5",
+      "paragraph_slots_actually_received": 890,
+      "intervals": 5,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-07-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "sha256": "6777b851ec9f2e450e5cb21d96956c1ab584b9f2d3438842eceafb76241bf39a",
+      "paragraph_slots_actually_received": 677,
+      "intervals": 4,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-07-U014",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "sha256": "b44ca1e68568f6e50d74461e956b1d432a296135e95cd93142f6054d85ae923d",
+      "paragraph_slots_actually_received": 148,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-07-U015",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "sha256": "6917ee35e382752ec687da5e0ce60817bcd60da393a3e1f8563bb471d9c05e8b",
+      "paragraph_slots_actually_received": 35,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-07-U016",
+      "native_member": "item/xhtml/p-allcover-001.xhtml",
+      "sha256": "123836bda34a8c2e4c7c1ea0c20a3043ec5dfc9ff28a2a7eb489e1d7848a69da",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-07-U017",
+      "native_member": "item/xhtml/p-colophon.xhtml",
+      "sha256": "ffd7dbefcc0731f2d385fb7610658388cb3803ecec12f9472933f44e43459b05",
+      "paragraph_slots_actually_received": 20,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-07-U018",
+      "native_member": "item/xhtml/p-colophon2.xhtml",
+      "sha256": "bdbdffd83cfad73ffa34f8712d77d1b95a0de901a7b36cfb19ab62046721f4fa",
+      "paragraph_slots_actually_received": 3,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-07-U019",
+      "native_member": "item/xhtml/p-bookwalker.xhtml",
+      "sha256": "65719179002ebb0468c3ba14986dda2049ad4c6a087daba3350b8c2189eeb97d",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-07-U020",
+      "native_member": "item/navigation-documents.xhtml",
+      "sha256": "26ddbf8d992e1847c5ad422daeffc426ad4663408409168ece7bff192181c91f",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    }
+  ],
+  "immutable_uncoded_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 22495,
+      "sha256": "715c760ef593ee52c7717f843f40d03fde10b9617ecd6f40c0aea102c1684834"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 7175,
+      "sha256": "6ad45162b880e7582dbe929736c6d1bdeae0e375e744f4bd9be8252dd31cca91"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 126497,
+      "sha256": "e3960ff45bcc013bb1a838e6e2fce500e513b67178b207ebda4a0ed36d81c108"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 14619,
+      "sha256": "f9288724a5ef53849fee2dd3b9c2d0a6c1e0430eed1852932dd33e0cc302ebf7"
+    }
+  ],
+  "all_source_first_formal_outcomes_still_unassigned": true,
+  "reader": "Continuing informed root AI; same author and receiver, no independent review, pristine blindness, native-human or audio claim.",
+  "scope": "All supplied textual bodies, ruby readings displayed inline, native nonparagraph residuals, front/end/navigation, electronic bonus, author and contributor paratext, and every image received actual separate reading/view records. Exact layout inspection of textual XHTML is not a separate print-page facsimile claim. Structural extraction alone received no reading credit.",
+  "corrections_to_resolve_in_separate_current_derivatives": [],
+  "remaining": "Formal L/H and voice coding, natural-order question assessment, seventeen-responsibility report, component dispositions, ledger decisions, acceptance, and full publication gate; no whole-program completion claim."
+}

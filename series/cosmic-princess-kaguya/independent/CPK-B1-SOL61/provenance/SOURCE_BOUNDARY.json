@@ -1,0 +1,72 @@
+{
+  "execution_id": "CPK-B1-SOL61",
+  "status": "draft_noncurrent",
+  "do_not_use_as_current_authority": true,
+  "source_unit": "F01",
+  "source_witness": "CPK-W01-NF-WEBRIP-HEVC",
+  "source_bytes": 4916885885,
+  "source_sha256": "b940eede5e3ce2e83e507a33e6523516c21e770dbccd8cc9e4461af77b23a42a",
+  "duration_seconds": 8523.207,
+  "source_audio": "0:a:0 / absolute1 / Japanese OPUS 48kHz5.1",
+  "source_subtitle": "0:s:3 / absolute16 / Japanese SDH",
+  "bundle_generated_at_declared": "2026-11-12T02:58:17Z",
+  "bundle_files": 5761,
+  "bundle_hash_manifest_sha256": "5a18ed467b026f4f467e2eb94c009bcfdcf7490806a0811296f4f8490fd5229d",
+  "metadata_and_text_witnesses": [
+    {
+      "source_locator": "00_metadata/manifest.csv",
+      "bytes": 581,
+      "sha256": "7a80f0a577a49995591b603758bd51154515ad0294cc1356a6e994939e7d202e"
+    },
+    {
+      "source_locator": "00_metadata/manifest.json",
+      "bytes": 5736,
+      "sha256": "faccb5f9394d4cdca57f8f0852600b98a0509ed80a5c781f3b16e4a068333952"
+    },
+    {
+      "source_locator": "00_metadata/source_stream_inventory.json",
+      "bytes": 14204,
+      "sha256": "ea648f19379e132cdf8cced407341668b8fbd5f9d1f9915a41efe8197c77da9a"
+    },
+    {
+      "source_locator": "00_metadata/validation_report.json",
+      "bytes": 1228,
+      "sha256": "90488bfde45b576802a423688cd912df85d916dfc90f43e3990c0c7f8a26e165"
+    },
+    {
+      "source_locator": "01_subtitles/extracted_ass/movie.ja.sdh.ass",
+      "bytes": 254566,
+      "sha256": "2f99be1a75cbcd94be66abb5eb811f5cf4905f7136998f037b6c369cbf6c0986"
+    },
+    {
+      "source_locator": "01_subtitles/extracted_ass/movie.en.ass",
+      "bytes": 183216,
+      "sha256": "01d910357219d319d1e43fbe3d6eb414087499cb4d6c2da3c9bea061e14eda2d"
+    },
+    {
+      "source_locator": "01_subtitles/extracted_ass/movie.zh-Hans.ass",
+      "bytes": 187921,
+      "sha256": "6b30519f1639c336931f164d76e4fd71cf2daa77431472154bb3b94e34b2fcb0"
+    },
+    {
+      "source_locator": "01_subtitles/extracted_ass/movie.zh-Hant.ass",
+      "bytes": 183542,
+      "sha256": "10c474179b08b63dde06e76b52598fd19800ffb37477efe51cade24e747901c5"
+    },
+    {
+      "source_locator": "03_ai_analysis/CPK_movie_screenshots.zip",
+      "bytes": 1408466144,
+      "sha256": "4d979316029af59d41f37de6d0472745d00dd550da4c8e12bc5f8f32b499aa08"
+    },
+    {
+      "source_locator": "01_subtitles/analysis_ass/movie.analysis.ja.ass",
+      "bytes": 254566,
+      "sha256": "2f99be1a75cbcd94be66abb5eb811f5cf4905f7136998f037b6c369cbf6c0986"
+    }
+  ],
+  "bootstrap_commit": "f9a284e66943ce007d31e899f88074a17900d3cf",
+  "governance_main_commit": "46c341663e7e0b78d75fe9e2b3dc6e83859f85db",
+  "exposure": "user assignment; five bootstrap procedural files; allowlisted live global governance; generic character method; supplied source bundle and deterministic source-return QA; no questions, PR or external film interpretation",
+  "audio_listened_seconds": 0,
+  "continuous_video_viewed_seconds": 0
+}

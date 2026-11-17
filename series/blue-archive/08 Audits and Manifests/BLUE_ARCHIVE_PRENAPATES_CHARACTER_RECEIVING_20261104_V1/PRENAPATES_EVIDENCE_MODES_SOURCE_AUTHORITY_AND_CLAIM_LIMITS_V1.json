@@ -1,0 +1,4162 @@
+{
+  "schema": "BLUE_ARCHIVE_CHARACTER_PUBLIC_FORM_FULL_DATED_MEANING_AND_PROVENANCE_V1",
+  "artifact_id": "P3-CHAR-M029",
+  "subject": "Prenapates",
+  "generation": "V2",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "scope": "Existing home23/P3-CHAR-M029/P3-M029/A201same duty;V100;notnamed; distinct from current Sensei.",
+  "lifecycle_state": "CURRENT_ELIGIBLE_METADATA_DERIVATIVE_20261104_PENDING_DIFFERENT_METADATA_QA_AND_ROOT_ADOPTION",
+  "composer": "/root/ayame_p015_correction_plan",
+  "composer_role": "Former distinct finite plan reviewer now public-form composer; no Prenapates underlying source course or literary-body approval; not future different public QA or Root adopter.",
+  "rights_and_class": "Project-authored analytical/provenance/navigation text and bounded existing maintained-analysis warrants; no new primary/native/raw/AV/source-media rights. Source copies/helpers/execution queues/inverses remain private.",
+  "role": "SOURCE",
+  "class_need_before_size": "Source/mode/grade authority, full old/current paragraph purposes/evidence and five dated old literary variants.",
+  "current_components": [
+    {
+      "role": "BODY",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+      "bytes": 15050,
+      "sha256": "2e0dcce5c5be1996b79c8d9db3f56d006a9d5735861e1c9d4378b5408f5902b0",
+      "kind": "CURRENT_GENERATED_COMPONENT_BYTES_ONLY;not dated locator navigation"
+    }
+  ],
+  "dated_records": {
+    "A02": {
+      "record_id": "A02",
+      "original_role": "SOURCE",
+      "original_actor_fields": {
+        "author": "/root/sumire_v2_finite_qa"
+      },
+      "original_date_fields": {
+        "UTC": "2026-11-04T14:02:56.715613+00:00"
+      },
+      "original_file": {
+        "filename": "PRENAPATES_BODY_SOURCE_OWN333_REUSE_IDENTITY_CURRENT_PIN_GUARD_AND_ACTOR_MODE_LIMITS_V1.json",
+        "bytes": 18043,
+        "sha256": "66b428e542d334620bce7631d8e13c3a124c2c8814b548cab503e53af173133c"
+      },
+      "original_whole_typed_sha256": "ce72693a3f767376e14600ec98519c590e6a07127ee7d156622217dbd9d855c0",
+      "projected_whole_typed_sha256": "2ee7beda37f747c902f80299896141ea22fff0dd82cff1050c0d9e51e768b0b9",
+      "retention_scope": "Whole original intellectual value; original dated meanings, reader/course and approvals remain attributed.",
+      "original_value": {
+        "schema": "PRENAPATES_BODY_AUTHOR_OWN333_VERIFIED_REUSE_SOURCE_IDENTITY_AND_GRADE_AUTHORITY_V1",
+        "author": "/root/sumire_v2_finite_qa",
+        "UTC": "2026-11-04T14:02:56.715613+00:00",
+        "authority": {
+          "status": "draft_noncurrent",
+          "supersedes": [],
+          "superseded_by": [],
+          "do_not_use_as_current_authority": true
+        },
+        "scope": "Existinghome23/P3-CHAR-M029/P3-M029,V100;notnamed;A201 same duty.",
+        "root_complete_readiness_adoption": {
+          "C_path": "DATED-LOCATOR-A1AF444B81F6A906",
+          "bytes": 18749,
+          "sha256": "e6ce4c28f6ecc06e3a5a1115c1576ac2c0600ac416c20fce9ed496bc5ec9e902",
+          "actual_whole_meaning_received_before_body": true,
+          "six_Root_reasons": "Root personally received nine complete normative payloads and333 maintained addresses; readiness only, then explicit new body commission. Their source judgments remain attributed rather than pooled attendance."
+        },
+        "old_own_actual_course": {
+          "C_path": "DATED-LOCATOR-C027F3DAB5BD16B7",
+          "bytes": 6946,
+          "sha256": "a210561dc652ccb235e36b12f9c27ba65c52c48ed3ebd5ff8840b8c9782402fe",
+          "same_reviewer_identity": true
+        },
+        "old_own_complete_reasons": {
+          "C_path": "DATED-LOCATOR-1F7E3EB993A8D0F8",
+          "bytes": 17650,
+          "sha256": "65c7dc608e5baaa894bb5f8eb2173bc1ff2454dfd661a899bda4f6ab370869cc",
+          "current_body_author_is_prior_reader_not_new_independent_reviewer": true
+        },
+        "source_table": [
+          {
+            "source_id": "V100",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "C_path": "DATED-LOCATOR-B41E912AE63BDD7E",
+            "bytes": 49292,
+            "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+            "whole_physical_lines": 452,
+            "own_personal_ranges_reused": [
+              [
+                117,
+                175
+              ],
+              [
+                233,
+                251
+              ],
+              [
+                288,
+                292
+              ]
+            ],
+            "own_personal_lines": 83,
+            "own_actual_grade": "SELECTED_MAINTAINED",
+            "source_use_role": "OWN_PREVIOUS_ACTUAL_REVIEWER_COURSE_REUSED_BY_SAME_READER_NOW_AUTHOR_AFTER_EXACT_PIN_GUARD",
+            "own_meaning_and_limit": "Reused V100127–175/233–25168 plus new15 for exact chapter route and dated person-route qualification. Counterpart support and card/return/fate limits are distinct; dated missing direct-person join does not imply source absence or privateF license."
+          },
+          {
+            "source_id": "C004",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+            "C_path": "DATED-LOCATOR-0F49FB5F1CF60791",
+            "bytes": 12691,
+            "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+            "whole_physical_lines": 60,
+            "own_personal_ranges_reused": [
+              [
+                1,
+                60
+              ]
+            ],
+            "own_personal_lines": 60,
+            "own_actual_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+            "source_use_role": "OWN_PREVIOUS_ACTUAL_REVIEWER_COURSE_REUSED_BY_SAME_READER_NOW_AUTHOR_AFTER_EXACT_PIN_GUARD",
+            "own_meaning_and_limit": "Biometric counterpart support, coalition interruption and present-Sensei return reports do not certify Prenapates fate or complete controller history. Other subjects ordinary outcomes remain theirs."
+          },
+          {
+            "source_id": "E008",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E008_DEEP_READING.md",
+            "C_path": "DATED-LOCATOR-B7E4456A71808DCA",
+            "bytes": 5803,
+            "sha256": "0bc61d26f72c33d5958e9059c3b7e2612bff08b57839afeb4b8a213e6f0b4938",
+            "whole_physical_lines": 38,
+            "own_personal_ranges_reused": [
+              [
+                1,
+                38
+              ]
+            ],
+            "own_personal_lines": 38,
+            "own_actual_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+            "source_use_role": "OWN_PREVIOUS_ACTUAL_REVIEWER_COURSE_REUSED_BY_SAME_READER_NOW_AUTHOR_AFTER_EXACT_PIN_GUARD",
+            "own_meaning_and_limit": "Early double-tagged one-OS/her-teacher passage remains qualified. Later Arona naming and Plana acceptance are separately resolved, not a definite Prenapates grief/loyalty cause."
+          },
+          {
+            "source_id": "C003",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+            "C_path": "DATED-LOCATOR-1F817D2CA5827D9A",
+            "bytes": 14443,
+            "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+            "whole_physical_lines": 76,
+            "own_personal_ranges_reused": [
+              [
+                1,
+                76
+              ]
+            ],
+            "own_personal_lines": 76,
+            "own_actual_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+            "source_use_role": "OWN_PREVIOUS_ACTUAL_REVIEWER_COURSE_REUSED_BY_SAME_READER_NOW_AUTHOR_AFTER_EXACT_PIN_GUARD",
+            "own_meaning_and_limit": "Named confrontation, Shiroko abductor allegation, missed shots and OS authentication/timers have different owners and evidence levels. Enemy backdoor control does not prove every Prenapates command or a full body/controller history."
+          },
+          {
+            "source_id": "E007",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E007_DEEP_READING.md",
+            "C_path": "DATED-LOCATOR-5161586488C0EA59",
+            "bytes": 5774,
+            "sha256": "704902f8babcc49f7cd28a71931d0fce99a71a833114b583209fc609e11fdb74",
+            "whole_physical_lines": 36,
+            "own_personal_ranges_reused": [
+              [
+                1,
+                36
+              ]
+            ],
+            "own_personal_lines": 36,
+            "own_actual_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+            "source_use_role": "OWN_PREVIOUS_ACTUAL_REVIEWER_COURSE_REUSED_BY_SAME_READER_NOW_AUTHOR_AFTER_EXACT_PIN_GUARD",
+            "own_meaning_and_limit": "OS reports own escape gift, most plausibly Prenapates to alternate Shiroko in immediate context; transfer is unstaged. Teacher-trust interpretation and inward help-that-child request retain uncertain markers. Apparent OS transfer and cooperative rescue plan do not show either teacher physical rescue, impact or final fate."
+          },
+          {
+            "source_id": "E006",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E006_DEEP_READING.md",
+            "C_path": "DATED-LOCATOR-963697C64AC02209",
+            "bytes": 6405,
+            "sha256": "2d0ea8b7769611b6fffecaa2411bb4f1843af5bb70e507e10960d48e7b5a3e9b",
+            "whole_physical_lines": 40,
+            "own_personal_ranges_reused": [
+              [
+                1,
+                40
+              ]
+            ],
+            "own_personal_lines": 40,
+            "own_actual_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+            "source_use_role": "OWN_PREVIOUS_ACTUAL_REVIEWER_COURSE_REUSED_BY_SAME_READER_NOW_AUTHOR_AFTER_EXACT_PIN_GUARD",
+            "own_meaning_and_limit": "Current Sensei trust/delaying purpose is his speech. Threat tags can contain adjacent speakers. Two recognized card displays have no printed activation, winner or cost; system survival probability remains a forecast."
+          }
+        ],
+        "own_course_totals": {
+          "reused_actual_personal_maintained_addresses": 333,
+          "five_whole_lines": 250,
+          "selected_V100_lines": 83,
+          "new_story_receiving_in_composition": 0,
+          "primary_native_raw_AV_admission": 0
+        },
+        "currentness_grade": "Root18749/guard5919 reports the same six exact currentN7b65 source bytes preserved by protectedMain27a, whole-tree equality. This author checks the positive C rawpins and own historical identity/ranges, not N/Git/provider. Root333 and author702 are distinct courses, never borrowed.",
+        "current_source_guard": {
+          "C_path": "DATED-LOCATOR-05921CA9DBE0A728",
+          "bytes": 5919,
+          "sha256": "036bb268fc6f4cac5b85590bd37b487d489c7795e41fdcacd2f72508b41ef045",
+          "state": "Pre-receiving NOT_YET field is dated Root guard; completed Root18749 owns actual receiving."
+        },
+        "original_normative_payloads_whole_and_attributed": [
+          {
+            "path": "DATED-LOCATOR-0A8377F314BE9345",
+            "bytes": 18317,
+            "sha256": "75b10d2e5e28456c5817cd9b1ea41d740dd5cfbe45f0f25c2d73d41839b96850",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-6E333D0D5D536C05",
+            "bytes": 12368,
+            "sha256": "316f5d82564cfb6c84007875f1d275c3a72a50c7aaef91359696cf53e103da4c",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-09079D5D82F02E25",
+            "bytes": 12930,
+            "sha256": "f1888c226773df5df043b7c8ce3462625e3e9ac54b2294ca731a24c7728a392a",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-940C59CE86B4B03D",
+            "bytes": 5558,
+            "sha256": "8c415a1ea58e319c7645079dc2ba1edbbfd825314f983b28c7b7398b5012c2dc",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-CB6D1F8076E7A80B",
+            "bytes": 9406,
+            "sha256": "93b83697bcdb8a5e866524163ff68d53f7bf397dbabc3a3c2ef805fb6ecb8695",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-94DA9D27C10E02D8",
+            "bytes": 5205,
+            "sha256": "b3c863ad819af72aaea74fe41ef6d0674dd915257df1fe27999dcee0f1d49b85",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-D958F8EC52B93354",
+            "bytes": 6946,
+            "sha256": "a210561dc652ccb235e36b12f9c27ba65c52c48ed3ebd5ff8840b8c9782402fe",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-952B506E6A72482F",
+            "bytes": 17650,
+            "sha256": "65c7dc608e5baaa894bb5f8eb2173bc1ff2454dfd661a899bda4f6ab370869cc",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-210DACDDF6FDCDD7",
+            "bytes": 3818,
+            "sha256": "1effb1479723c06a01a7ce1fa4c82be88eb7639ac37fa1f76b5096eaf9da2df8",
+            "actual_complete_meanings_received_by_Root": true
+          }
+        ],
+        "operative_actor_mode_end_limits": [
+          "C003 named encounter, abductor allegation and OS authentication/control/timers are distinct; no complete body/disguise/controller history.",
+          "C00430 biometric plus E00630 participant support establishes a local counterpart inquiry, not numerical identity or symmetric motives/history.",
+          "E00626 trust/delay is current Sensei speech. E00618/28 threat tags retain adjacent-speaker ambiguity. E00630 two displayed cards give no activation/effect/victor/cost.",
+          "E00720 own-escape gift is OS report, most plausibly Prenapates→alternateShiroko in immediate context; transfer and recipient marker remain limited.",
+          "E00722 OS evolving teacher-trust interpretation is not a proved complete plan. Inward help-that-child teacher/request/recipient remain qualified.",
+          "Protection/fall report, apparent OS data transfer, proposed joint rescue and E008 present-Sensei return are separate endpoints. No final Prenapates fate/impact/death/medical result or definite Plana grief/loyalty.",
+          "Private ordinary biography, hobbies, institutional office history or rupture/repair must not be fabricated. Care remains meaningful at its report-qualified grade; other actors meals, OS routines and current Sensei trust are not his goods."
+        ],
+        "conditional_seam": {
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E016_DEEP_READING.md",
+          "status": "UNOPENED; NO CURRENT REQUEST",
+          "trigger": "Stop for Root with a specific question before a stronger exact early quotation, abduction-guide agency or individual-controller claim than the bounded paraphrase. No unapproved access."
+        },
+        "framework": {
+          "manifest_C_path": "DATED-LOCATOR-D23A4E273F3B3785",
+          "method": "53414/c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d; own fresh physical250–379; prior relevant rules reused at exact unchanged pin.",
+          "architecture": "52261/848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286; own fresh319–345, prior Phase3/authority/file-responsibility ranges reused unchanged."
+        },
+        "before_body": "SOURCE/own333 rawpin and same-reader guard completed before any new connected body prose. No ritual whole333 replay or author702 course transfer.",
+        "credits_and_access": "Author-only C draft, no Root adoption or different-body review. Only new D writes and exact positive C input custody; no N/heldR/Git/provider/shared/global/source/control/frozen/protected/private/opaque/broadscan/externalchat/foreignhelper. No newsource,identity,named,REL,model,count,install,publication."
+      }
+    },
+    "A03": {
+      "record_id": "A03",
+      "original_role": "SOURCE",
+      "original_actor_fields": {
+        "author": "/root/sumire_v2_finite_qa"
+      },
+      "original_date_fields": {},
+      "original_file": {
+        "filename": "PRENAPATES_COMPLETE_CONNECTED_BODY_LITERAL_PURPOSE_ACTOR_MODE_RECIPIENT_ENDPOINT_AND_ELEVEN_DIMENSION_MAP_V1.json",
+        "bytes": 56327,
+        "sha256": "1206d0aeed7535dad0ac0a5ab848ea9a8c4b0cc41d2dca75326197cd8a8a337f"
+      },
+      "original_whole_typed_sha256": "dfc8f8e2bcc4c02bacc6e24e1fdf8c26a1822cb2e428f07ad7d9c5859144e4e3",
+      "projected_whole_typed_sha256": "dfc8f8e2bcc4c02bacc6e24e1fdf8c26a1822cb2e428f07ad7d9c5859144e4e3",
+      "retention_scope": "Whole original intellectual value; original dated meanings, reader/course and approvals remain attributed.",
+      "original_value": {
+        "schema": "PRENAPATES_CONNECTED_BODY_COMPLETE_LITERAL20_PURPOSE_MODE_RECIPIENT_END_MAP_V1",
+        "author": "/root/sumire_v2_finite_qa",
+        "authority": {
+          "status": "draft_noncurrent",
+          "supersedes": [],
+          "superseded_by": [],
+          "do_not_use_as_current_authority": true
+        },
+        "lifecycle": "AUTHOR_MAP_FOR_FROZEN_DRAFT_PENDING_DIFFERENT_BODY_QA_AND_ROOT",
+        "component_refs": [
+          {
+            "relative_path": "BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH_C_ONLY_DRAFT_V1.md",
+            "bytes": 14135,
+            "sha256": "0033d5cd7268d6f54c84521e9a0f01eb03c840e92743c11851252e07b392c8ae"
+          },
+          {
+            "relative_path": "PRENAPATES_BODY_SOURCE_OWN333_REUSE_IDENTITY_CURRENT_PIN_GUARD_AND_ACTOR_MODE_LIMITS_V1.json",
+            "bytes": 18043,
+            "sha256": "66b428e542d334620bce7631d8e13c3a124c2c8814b548cab503e53af173133c"
+          }
+        ],
+        "paragraph_count": 20,
+        "physical_body_lines": 67,
+        "paragraphs": [
+          {
+            "paragraph_id": "PNP001",
+            "physical_start_line": 21,
+            "physical_end_line": 21,
+            "UTF8_span": [
+              889,
+              1630
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  974,
+                  1715
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "8ac2345f724cc2f8c6d3c745266213f610bfcd720103ece2fcc578c1e2e69a5b",
+                "complete_utf8_sha256": "cab70a65a04b91834fd224190ef36bfc19aae563e8dafee227e1095d71d47bd4"
+              }
+            },
+            "literal_UTF8_bytes": 741,
+            "literal_sha256": "cab70a65a04b91834fd224190ef36bfc19aae563e8dafee227e1095d71d47bd4",
+            "own_connected_purpose": "Make unequal access the individual thesis rather than pretend either hostility or care is a complete biography.",
+            "actor_mode_and_recipient_direction": "Prenapates named opponent/gesture;OS reports/interpretation;teacher/child referents qualified",
+            "claim_grade_and_finite_endpoint": "Named presence/represented gesture and reported possible care have distinct grades.",
+            "particular_end_or_knowledge_limit": "No complete intention,finished outcome or global moral essence.",
+            "character_dimension_ids": [
+              1,
+              3,
+              6,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "C003",
+                "inclusive_physical_ranges": [
+                  [
+                    44,
+                    44
+                  ],
+                  [
+                    53,
+                    53
+                  ],
+                  [
+                    62,
+                    63
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/3",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    18
+                  ],
+                  [
+                    28,
+                    28
+                  ],
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    20,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP002",
+            "physical_start_line": 23,
+            "physical_end_line": 23,
+            "UTF8_span": [
+              1632,
+              2316
+            ],
+            "literal_text": "The named encounter supplies a subject rather than a complete explanation. C003 distinguishes Prenapates' presence from an abductor allegation and from OS authentication, control and timer reports. Those pieces of evidence have different owners and functions. An allegation can make the encounter consequential without becoming a fully staged history; a system reading can constrain a situation without disclosing the intention behind every act. The reader should therefore resist making a recognizable enemy role do the work of an already known biography. The particular person remains worth asking about precisely where that role leaves questions unanswered. [C003:44,53,56,62–63]",
+            "literal_UTF8_bytes": 684,
+            "literal_sha256": "f9fcf112f61719fcbcbe42607d75c8a1b2e9e398a64b5cccdcd52f924cec464c",
+            "own_connected_purpose": "Give the named encounter positive specificity while separating allegation from system reports.",
+            "actor_mode_and_recipient_direction": "Prenapates encountered;abductor allegation;OS authentication/control/timers",
+            "claim_grade_and_finite_endpoint": "Named encounter plus attributed allegation/report.",
+            "particular_end_or_knowledge_limit": "No staged complete abduction/guide/controller history or secure ownership of every act.",
+            "character_dimension_ids": [
+              1,
+              3,
+              4,
+              11
+            ],
+            "evidence": [
+              {
+                "source_id": "C003",
+                "inclusive_physical_ranges": [
+                  [
+                    44,
+                    44
+                  ],
+                  [
+                    53,
+                    53
+                  ],
+                  [
+                    56,
+                    56
+                  ],
+                  [
+                    62,
+                    63
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/3",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP003",
+            "physical_start_line": 25,
+            "physical_end_line": 25,
+            "UTF8_span": [
+              2318,
+              2944
+            ],
+            "literal_text": "Counterpart recognition strengthens that inquiry without making the two teachers interchangeable. C004 supplies familiar Arona biometric support, and the two-card encounter includes participant identification of Prenapates as another Sensei. This is positive local evidence, not merely resemblance supplied by an analyst. It does not establish numerical identity, symmetric memories, the same motives or a complete account of the body through which Prenapates is encountered. The comparison can remain useful without turning current Sensei's clearly attributed choices into facts about the other teacher. [C004:30; E006:26,30]",
+            "literal_UTF8_bytes": 626,
+            "literal_sha256": "04c6a79d86c51727905506366ee38724d86d603e54c84babb1c6ac6cefe7dfc0",
+            "own_connected_purpose": "Retain real counterpart evidence without merging two teachers or their private purposes.",
+            "actor_mode_and_recipient_direction": "Arona biometric support;participant recognition of Prenapates;currentSensei distinct",
+            "claim_grade_and_finite_endpoint": "Local biometric/participant counterpart support.",
+            "particular_end_or_knowledge_limit": "No numerical identity,symmetric memories/motives or full body history.",
+            "character_dimension_ids": [
+              1,
+              7,
+              11
+            ],
+            "evidence": [
+              {
+                "source_id": "C004",
+                "inclusive_physical_ranges": [
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/1",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    26,
+                    26
+                  ],
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP004",
+            "physical_start_line": 27,
+            "physical_end_line": 27,
+            "UTF8_span": [
+              2946,
+              3580
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  3362,
+                  3996
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "8318b9e474ee93d4a6ad1f854c28147e0efb4eec7e74d8b9f0bd6cddf5767417",
+                "complete_utf8_sha256": "fd6dd5e99b517165a449edd3a29187f27db5d2b369bcb2ca85f6fb3f9175a1d2"
+              }
+            },
+            "literal_UTF8_bytes": 634,
+            "literal_sha256": "fd6dd5e99b517165a449edd3a29187f27db5d2b369bcb2ca85f6fb3f9175a1d2",
+            "own_connected_purpose": "Situate the public role amid other actors while honestly bounding institution and agency.",
+            "actor_mode_and_recipient_direction": "Namedteacher amid Shiroko/OS operations;no sole-control inference",
+            "claim_grade_and_finite_endpoint": "Encounter situation and separately owned operations.",
+            "particular_end_or_knowledge_limit": "School/club/rank and complete active-controller biography unestablished.",
+            "character_dimension_ids": [
+              3,
+              4,
+              6
+            ],
+            "evidence": [
+              {
+                "source_id": "C003",
+                "inclusive_physical_ranges": [
+                  [
+                    44,
+                    44
+                  ],
+                  [
+                    53,
+                    53
+                  ],
+                  [
+                    56,
+                    56
+                  ],
+                  [
+                    62,
+                    63
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/3",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP005",
+            "physical_start_line": 31,
+            "physical_end_line": 31,
+            "UTF8_span": [
+              3637,
+              4276
+            ],
+            "literal_text": "The two card displays give the encounter a finite action that should not disappear into uncertainty about everything else. The written account represents the gestures and the participants' recognition of the objects. Prenapates can therefore be considered as someone who makes a represented gesture in this confrontation, rather than only a name attached to reports. Yet a displayed card is not an activated effect. The account does not print a victor, a calibrated expenditure or the missing sequence by which one card defeats another. The gesture has narrative weight before any complete technical explanation is obtained. [E006:30–32]",
+            "literal_UTF8_bytes": 639,
+            "literal_sha256": "713908973736307b9a0548fd02761c4a2121187cbffc3240ba2ec902651a3e6d",
+            "own_connected_purpose": "Preserve a particular represented gesture before any unprinted mechanics.",
+            "actor_mode_and_recipient_direction": "Prenapates/currentSensei card gestures;participant object recognition",
+            "claim_grade_and_finite_endpoint": "Two displays.",
+            "particular_end_or_knowledge_limit": "No activation,effect,victor,calibrated expenditure or complete contest sequence.",
+            "character_dimension_ids": [
+              1,
+              6,
+              7
+            ],
+            "evidence": [
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    30,
+                    32
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP006",
+            "physical_start_line": 33,
+            "physical_end_line": 33,
+            "UTF8_span": [
+              4278,
+              4921
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  4711,
+                  5354
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "2c052829016f3cb61ccd489a634e922bf910865fc5eb4007c6d47f7d1fc8f93e",
+                "complete_utf8_sha256": "c538deed8ff0dae8031452be4a5756e9cf0bb8b63a442e8c8b90ee3810b44999"
+              }
+            },
+            "literal_UTF8_bytes": 643,
+            "literal_sha256": "c538deed8ff0dae8031452be4a5756e9cf0bb8b63a442e8c8b90ee3810b44999",
+            "own_connected_purpose": "Keep agency attribution act-specific: clarity of one gesture does not cure uncertain threat tags.",
+            "actor_mode_and_recipient_direction": "Namedthreat tags may contain adjacent speakers;gesture separately represented",
+            "claim_grade_and_finite_endpoint": "Hostile content and report warning retained together.",
+            "particular_end_or_knowledge_limit": "No blanket command ownership or automatic innocence.",
+            "character_dimension_ids": [
+              3,
+              6,
+              9,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    18
+                  ],
+                  [
+                    28,
+                    28
+                  ],
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP007",
+            "physical_start_line": 35,
+            "physical_end_line": 35,
+            "UTF8_span": [
+              4923,
+              5516
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  5356,
+                  5949
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "997bd9fca63052bd6cd5c4b408f04f87737033cc2768b7c2931eae1366e0d063",
+                "complete_utf8_sha256": "49842270ef1bc910ef83649950aa0427fbde8b9f4cf14299ff98fdd2c651e7bc"
+              }
+            },
+            "literal_UTF8_bytes": 593,
+            "literal_sha256": "49842270ef1bc910ef83649950aa0427fbde8b9f4cf14299ff98fdd2c651e7bc",
+            "own_connected_purpose": "Use currentSensei clear trust/delay speech as an asymmetrical comparison rather than borrowed intent.",
+            "actor_mode_and_recipient_direction": "CurrentSensei owns explicit trust/delay;Prenapates gesture distinct",
+            "claim_grade_and_finite_endpoint": "Speech versus represented gesture at different access levels.",
+            "particular_end_or_knowledge_limit": "No shared interiority or interchangeable-Sensei psychology.",
+            "character_dimension_ids": [
+              3,
+              7,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    26,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "C004",
+                "inclusive_physical_ranges": [
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/1",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP008",
+            "physical_start_line": 39,
+            "physical_end_line": 39,
+            "UTF8_span": [
+              5555,
+              6166
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  5988,
+                  6599
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "1b08c9725dde91ea9d7eafb9f4c1bbdff30fc208420e828f16a24f060beb0492",
+                "complete_utf8_sha256": "f273330148e07b3bc5dfecc0952448dbe1176d3606e7fc82f18b31a7ad6527fb"
+              }
+            },
+            "literal_UTF8_bytes": 611,
+            "literal_sha256": "f273330148e07b3bc5dfecc0952448dbe1176d3606e7fc82f18b31a7ad6527fb",
+            "own_connected_purpose": "Introduce the reported own-escape gift across an honestly omitted transition.",
+            "actor_mode_and_recipient_direction": "OS reports gift;most-plausible Prenapates→alternateShiroko contextual direction",
+            "claim_grade_and_finite_endpoint": "OS report and later zero-use resource state.",
+            "particular_end_or_knowledge_limit": "Transfer/recipient markers incomplete;no reconstructed activation or card contest.",
+            "character_dimension_ids": [
+              2,
+              6,
+              8,
+              11
+            ],
+            "evidence": [
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    20
+                  ],
+                  [
+                    28,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP009",
+            "physical_start_line": 41,
+            "physical_end_line": 41,
+            "UTF8_span": [
+              6168,
+              6799
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  6601,
+                  7232
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "4e77ac7988c8e2963f27122d002e68856b98e2df34056ffa27dd2f1e09d38266",
+                "complete_utf8_sha256": "9a53942f8538f364ce092b94aa4869d610cdb8a9bcb7fd93c5e800d80ee3ab14"
+              }
+            },
+            "literal_UTF8_bytes": 631,
+            "literal_sha256": "9a53942f8538f364ce092b94aa4869d610cdb8a9bcb7fd93c5e800d80ee3ab14",
+            "own_connected_purpose": "Give the qualified recipient-care candidate positive value without full absolution or a proved cost.",
+            "actor_mode_and_recipient_direction": "Possible teacher giver→another escape;OS report remains authority",
+            "claim_grade_and_finite_endpoint": "Report-qualified directed care and apparent self-costly meaning.",
+            "particular_end_or_knowledge_limit": "No clinical/technical price,confirmed fatal result or justification of every earlier act.",
+            "character_dimension_ids": [
+              1,
+              5,
+              6,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    20,
+                    20
+                  ],
+                  [
+                    22,
+                    22
+                  ],
+                  [
+                    28,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP010",
+            "physical_start_line": 43,
+            "physical_end_line": 43,
+            "UTF8_span": [
+              6801,
+              7428
+            ],
+            "literal_text": "The OS also interprets the teacher as trusting the counterpart to accomplish what he could not. This account of trust belongs to her developing understanding. It supplies relational meaning and a possible way to understand the gift, rather than direct omniscient access to a complete Prenapates plan. The difference is consequential. An observer's interpretation can be thoughtful and moving without proving that all the preceding events were intentionally arranged toward the result she now hopes for. The character remains more than an enemy function without becoming the fully known author of the entire rescue. [E007:22,28]",
+            "literal_UTF8_bytes": 627,
+            "literal_sha256": "78ff94c1728b103898339c5e6ee853dd4ee4b846275080659a728e501ccd8aa7",
+            "own_connected_purpose": "Let OS interpretation contribute relational meaning without turning it into an omniscient plan.",
+            "actor_mode_and_recipient_direction": "OS interprets teacher trust toward counterpart",
+            "claim_grade_and_finite_endpoint": "Evolving observer interpretation.",
+            "particular_end_or_knowledge_limit": "No complete Prenapates intention,arranged rescue or proved endpoint.",
+            "character_dimension_ids": [
+              3,
+              7,
+              8,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    22,
+                    22
+                  ],
+                  [
+                    28,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP011",
+            "physical_start_line": 45,
+            "physical_end_line": 45,
+            "UTF8_span": [
+              7430,
+              8054
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  8103,
+                  8727
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "2664fc8fc6baef455a57fcb03fac9d3e02e20456ef11925173faff43c90a3dee",
+                "complete_utf8_sha256": "ffb457f08038987302b2d6aef0c443b1eaa3f6230843fba9bbfa961d141e7400"
+              }
+            },
+            "literal_UTF8_bytes": 624,
+            "literal_sha256": "ffb457f08038987302b2d6aef0c443b1eaa3f6230843fba9bbfa961d141e7400",
+            "own_connected_purpose": "Distinguish the inward child-help request from a securely identified private confession.",
+            "actor_mode_and_recipient_direction": "Inwardunmarkedteacher→OS help-that-child;teacher/recipient contextual",
+            "claim_grade_and_finite_endpoint": "Textual inward request with limited identity markers.",
+            "particular_end_or_knowledge_limit": "No authenticated whole wish-list,settled recipient chain or completed response.",
+            "character_dimension_ids": [
+              3,
+              5,
+              8,
+              9
+            ],
+            "evidence": [
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    18
+                  ],
+                  [
+                    22,
+                    22
+                  ],
+                  [
+                    28,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP012",
+            "physical_start_line": 47,
+            "physical_end_line": 47,
+            "UTF8_span": [
+              8056,
+              8742
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  8729,
+                  9415
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "2531fc7dd40df33f6c4303e3ed9bbc4812706baa45f5cae3b0812a740eeb62d6",
+                "complete_utf8_sha256": "bdcab628860680a07b885508779510a24403bb1d288c4a52fd9ab743c29d027f"
+              }
+            },
+            "literal_UTF8_bytes": 686,
+            "literal_sha256": "bdcab628860680a07b885508779510a24403bb1d288c4a52fd9ab743c29d027f",
+            "own_connected_purpose": "Address sparse ordinary life through proper limits and intrinsic qualified care rather than invented goods.",
+            "actor_mode_and_recipient_direction": "Possible Prenapates care;currentSensei/OS goods not transferable",
+            "claim_grade_and_finite_endpoint": "Recipient-directed wanted end at report-qualified grade.",
+            "particular_end_or_knowledge_limit": "No supported hobbies/meals/domestic routine or unpressured baseline;not ineligible.",
+            "character_dimension_ids": [
+              1,
+              3,
+              5,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    26,
+                    26
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    20,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E008",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/2",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP013",
+            "physical_start_line": 49,
+            "physical_end_line": 49,
+            "UTF8_span": [
+              8744,
+              9452
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  9417,
+                  10125
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "afc895c3bcf59731b08e8d29fb61033b18910a4b61b7ea5b40f2a7cefb527fa4",
+                "complete_utf8_sha256": "2ccd126c077d0c67f3b1b8785d41b3a0b0acc996d73615cdff77c6b51e88f6ec"
+              }
+            },
+            "literal_UTF8_bytes": 708,
+            "literal_sha256": "2ccd126c077d0c67f3b1b8785d41b3a0b0acc996d73615cdff77c6b51e88f6ec",
+            "own_connected_purpose": "Make presentation and register part of access to character rather than a route to invented performance.",
+            "actor_mode_and_recipient_direction": "Namedteacher/participant/OSreport/OSinterpretation/inward teacher modes differ",
+            "claim_grade_and_finite_endpoint": "Maintained written wording with shared labels.",
+            "particular_end_or_knowledge_limit": "No heard acting,inspected visual performance,complete interiority or automatic tag resolution.",
+            "character_dimension_ids": [
+              3,
+              9,
+              11
+            ],
+            "evidence": [
+              {
+                "source_id": "C003",
+                "inclusive_physical_ranges": [
+                  [
+                    62,
+                    63
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/3",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    18
+                  ],
+                  [
+                    28,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    18
+                  ],
+                  [
+                    22,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E008",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    18
+                  ],
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/2",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP014",
+            "physical_start_line": 53,
+            "physical_end_line": 53,
+            "UTF8_span": [
+              9500,
+              10140
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  10173,
+                  10813
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "7e941b0f9d9f8894377b75a830420a2e7658713193642d67415b532917bb7cfd",
+                "complete_utf8_sha256": "dc8d8e59fbd168e2c19f4fb8638ba5e33d09e80675d03c96cf11806d14e14f05"
+              }
+            },
+            "literal_UTF8_bytes": 640,
+            "literal_sha256": "dc8d8e59fbd168e2c19f4fb8638ba5e33d09e80675d03c96cf11806d14e14f05",
+            "own_connected_purpose": "Retain danger without supplying an unprinted physical fate to finish a martyr narrative.",
+            "actor_mode_and_recipient_direction": "OS protection/fall reports;Prenapates fate unprinted",
+            "claim_grade_and_finite_endpoint": "Reported danger and missing final impact.",
+            "particular_end_or_knowledge_limit": "No death/clinical status,complete sacrifice mechanism or external-plot reconstruction.",
+            "character_dimension_ids": [
+              2,
+              6,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    20,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "C004",
+                "inclusive_physical_ranges": [
+                  [
+                    49,
+                    49
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/1",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP015",
+            "physical_start_line": 55,
+            "physical_end_line": 55,
+            "UTF8_span": [
+              10142,
+              10767
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  10815,
+                  11440
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "dda93e345653f780663ba79c7237bd7a4f876ab5d1c47d50d1d2cd6afc0b2d92",
+                "complete_utf8_sha256": "01c637dcb6651daaaeb998aa1de6a7757767cbe8611a2734ff1c6cf33e98f52d"
+              }
+            },
+            "literal_UTF8_bytes": 625,
+            "literal_sha256": "01c637dcb6651daaaeb998aa1de6a7757767cbe8611a2734ff1c6cf33e98f52d",
+            "own_connected_purpose": "Separate OS transfer,rescue proposal and currentSensei return so one endpoint cannot finish another subject.",
+            "actor_mode_and_recipient_direction": "ApparentOSdata transfer;proposedjoint rescue;report presentSensei returned",
+            "claim_grade_and_finite_endpoint": "Different report/proposal/return endpoints.",
+            "particular_end_or_knowledge_limit": "No Prenapates survival/death,unseen landing or escape mechanics.",
+            "character_dimension_ids": [
+              2,
+              6,
+              7,
+              8
+            ],
+            "evidence": [
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    24,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E008",
+                "inclusive_physical_ranges": [
+                  [
+                    22,
+                    22
+                  ],
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/2",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "C004",
+                "inclusive_physical_ranges": [
+                  [
+                    22,
+                    22
+                  ],
+                  [
+                    34,
+                    34
+                  ],
+                  [
+                    49,
+                    49
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/1",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP016",
+            "physical_start_line": 57,
+            "physical_end_line": 57,
+            "UTF8_span": [
+              10769,
+              11351
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  11442,
+                  12024
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "b7eb3ded621e0dc6b56dd306a4093bed82aa21bcfa04d2b11f772e3b6df2179b",
+                "complete_utf8_sha256": "14dfeec6b6af4b1351f715a07bec3a9c98886c05811d3156b078c2b2b0bc058e"
+              }
+            },
+            "literal_UTF8_bytes": 582,
+            "literal_sha256": "14dfeec6b6af4b1351f715a07bec3a9c98886c05811d3156b078c2b2b0bc058e",
+            "own_connected_purpose": "Preserve opening OS/teacher ambiguity despite later clearer Arona-Plana naming.",
+            "actor_mode_and_recipient_direction": "OneOS/herteacher contextual;later Arona/Plana distinct naming",
+            "claim_grade_and_finite_endpoint": "Qualified opening versus later naming relation.",
+            "particular_end_or_knowledge_limit": "No definite Prenapates fate or Plana grief/loyalty;no transfer of her choices to him.",
+            "character_dimension_ids": [
+              3,
+              8,
+              9,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "E008",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    18
+                  ],
+                  [
+                    22,
+                    22
+                  ],
+                  [
+                    28,
+                    28
+                  ],
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/2",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    18
+                  ],
+                  [
+                    24,
+                    24
+                  ],
+                  [
+                    28,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP017",
+            "physical_start_line": 59,
+            "physical_end_line": 59,
+            "UTF8_span": [
+              11353,
+              12069
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  12026,
+                  12742
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "b456203715b8319d6ae745c8c6801c3cf6fe752f7677dd3acac5829ed2258daf",
+                "complete_utf8_sha256": "43a74d4c207fbb2335123132bcde65efd33094da89961a3c5a2bc2d47b7f8eff"
+              }
+            },
+            "literal_UTF8_bytes": 716,
+            "literal_sha256": "43a74d4c207fbb2335123132bcde65efd33094da89961a3c5a2bc2d47b7f8eff",
+            "own_connected_purpose": "Describe local disclosure as development in the reader available evidence, not a fabricated life arc.",
+            "actor_mode_and_recipient_direction": "Encounter→gesture→report/request→rescue proposal→otherteacher return",
+            "claim_grade_and_finite_endpoint": "Local narrative sequence and changed access.",
+            "particular_end_or_knowledge_limit": "No complete private/institutional biography,major rupture/repair or global reform calendar.",
+            "character_dimension_ids": [
+              2,
+              3,
+              4,
+              11
+            ],
+            "evidence": [
+              {
+                "source_id": "C003",
+                "inclusive_physical_ranges": [
+                  [
+                    44,
+                    44
+                  ],
+                  [
+                    62,
+                    62
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/3",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    20,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E008",
+                "inclusive_physical_ranges": [
+                  [
+                    22,
+                    22
+                  ],
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/2",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "V100",
+                "inclusive_physical_ranges": [
+                  [
+                    117,
+                    129
+                  ],
+                  [
+                    233,
+                    251
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/0",
+                "own_grade": "SELECTED_MAINTAINED",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP018",
+            "physical_start_line": 63,
+            "physical_end_line": 63,
+            "UTF8_span": [
+              12121,
+              12769
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  12794,
+                  13442
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "9e771dca86ee51327fd9da962897766ecc7750c55a217ed90e08053d5840c793",
+                "complete_utf8_sha256": "6e1c3f48546f27040c6b3a01211e63f307d92e1052b4f4b2cc55749f28a33d70"
+              }
+            },
+            "literal_UTF8_bytes": 648,
+            "literal_sha256": "6e1c3f48546f27040c6b3a01211e63f307d92e1052b4f4b2cc55749f28a33d70",
+            "own_connected_purpose": "Test pure-hostile and martyr totals against their actual contrary evidence without erasing care.",
+            "actor_mode_and_recipient_direction": "Hostile encounter versus qualified gift/request reports",
+            "claim_grade_and_finite_endpoint": "Partial warrants and mode-specific contrary cases.",
+            "particular_end_or_knowledge_limit": "No blanket absolution or requirement of certain fate before any positive meaning.",
+            "character_dimension_ids": [
+              1,
+              6,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "C003",
+                "inclusive_physical_ranges": [
+                  [
+                    44,
+                    44
+                  ],
+                  [
+                    53,
+                    53
+                  ],
+                  [
+                    62,
+                    62
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/3",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    18
+                  ],
+                  [
+                    28,
+                    28
+                  ],
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    20,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP019",
+            "physical_start_line": 65,
+            "physical_end_line": 65,
+            "UTF8_span": [
+              12771,
+              13503
+            ],
+            "literal_text": "A known-puppet account and a current-Sensei-under-another-name account offer different shortcuts. The first invites an explanation of uncertain control; the second takes counterpart support seriously. Yet no adequate body or controller diagnosis is received here, and the other teacher's explicit speech remains his own. Neither shortcut supplies the missing history. Likewise, treating all tags as commands or the OS interpretation as a complete plan would make access more uniform than the accounts allow. The character's limited ordinary evidence is not a reason to expel him from analysis; it is a reason to keep the scope of the argument particular. [C003:53,56,62–63; C004:30,49; E006:18,26–30; E007:22,28; V100:288–292]",
+            "literal_UTF8_bytes": 732,
+            "literal_sha256": "1762c158b6f39f27782911a02cbfa7b82e5d038a6b0cfb9d33123afaa6e63354",
+            "own_connected_purpose": "Test control,identity,all-tags,complete-plan and sparse-ineligibility shortcuts explicitly.",
+            "actor_mode_and_recipient_direction": "Prenapates/currentSensei/OS distinct knowledge and agency modes",
+            "claim_grade_and_finite_endpoint": "Several serious explanations invited but uncompleted.",
+            "particular_end_or_knowledge_limit": "No received body/controller diagnosis;no erased gesture,borrowed motive or invented private biography.",
+            "character_dimension_ids": [
+              1,
+              3,
+              4,
+              5,
+              7,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "C003",
+                "inclusive_physical_ranges": [
+                  [
+                    53,
+                    53
+                  ],
+                  [
+                    56,
+                    56
+                  ],
+                  [
+                    62,
+                    63
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/3",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "C004",
+                "inclusive_physical_ranges": [
+                  [
+                    30,
+                    30
+                  ],
+                  [
+                    49,
+                    49
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/1",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    18
+                  ],
+                  [
+                    26,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    22,
+                    22
+                  ],
+                  [
+                    28,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "V100",
+                "inclusive_physical_ranges": [
+                  [
+                    288,
+                    292
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/0",
+                "own_grade": "SELECTED_MAINTAINED",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP020",
+            "physical_start_line": 67,
+            "physical_end_line": 67,
+            "UTF8_span": [
+              13505,
+              14134
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  14420,
+                  15049
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "34dd711476e8d56c6d49ff3de36cffeb94f2b39fdad3549d05aab984df55ce6f",
+                "complete_utf8_sha256": "6262473e2e44ce9eff230749d65e5dd3fe0adb82104bcea8f649a1367d03ba9c"
+              }
+            },
+            "literal_UTF8_bytes": 629,
+            "literal_sha256": "6262473e2e44ce9eff230749d65e5dd3fe0adb82104bcea8f649a1367d03ba9c",
+            "own_connected_purpose": "Close the character argument on particular recognition and limited care without finishing an unknown person.",
+            "actor_mode_and_recipient_direction": "Named counterpart;representedgesture;qualified gift/request foranother",
+            "claim_grade_and_finite_endpoint": "Positive directed possibility remains with unanswered history.",
+            "particular_end_or_knowledge_limit": "No total intent/command attribution or confirmed fate;no technical lifecycle in literary closing.",
+            "character_dimension_ids": [
+              1,
+              2,
+              5,
+              8,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "C003",
+                "inclusive_physical_ranges": [
+                  [
+                    44,
+                    44
+                  ],
+                  [
+                    62,
+                    62
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/3",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    20,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "C004",
+                "inclusive_physical_ranges": [
+                  [
+                    49,
+                    49
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/1",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          }
+        ],
+        "all11_character_dimensions": [
+          {
+            "dimension": 1,
+            "name": "Core thesis",
+            "paragraph_scope": "PNP001/002/009/018/020",
+            "own_judgment": "Namedopponent,representedgesture and qualifiedcare produce a particular person-question under unequal access. No complete moral essence replaces the mixed evidence."
+          },
+          {
+            "dimension": 2,
+            "name": "Longitudinal arc",
+            "paragraph_scope": "PNP008/014–017/020",
+            "own_judgment": "A local encounter-to-report sequence changes reader access; no full life transformation,death,rupture or repair is fabricated."
+          },
+          {
+            "dimension": 3,
+            "name": "Public/private self",
+            "paragraph_scope": "PNP002/004/006/010–013/016/019",
+            "own_judgment": "Public naming,system reports and qualified inwardrequest provide different access. Complete goals,implicit needs,fears,wounds/private memories are not authenticated beyond these modes."
+          },
+          {
+            "dimension": 4,
+            "name": "Institution/school/club role",
+            "paragraph_scope": "PNP004/017/019",
+            "own_judgment": "Teacher/opponent appears in a control confrontation among other actors; no complete school/club/rank/controller biography. Situating role doesnot assign every operation to him."
+          },
+          {
+            "dimension": 5,
+            "name": "Ordinary life and intrinsic goods",
+            "paragraph_scope": "PNP009/011/012/020",
+            "own_judgment": "Recipient-directed care can matter without a guaranteed result,while hobbies/meals/unpressuredbaseline remain unavailable. Sparse evidence is neither fabricated nor excluded."
+          },
+          {
+            "dimension": 6,
+            "name": "Crisis behavior/competence/power",
+            "paragraph_scope": "PNP005/006/008/014/015/018",
+            "own_judgment": "Clear gesture,uncertain threats,reportedgift/danger retain different action grades. No activation/effect/victor/cost/safety/clinical mechanism or completed sacrifice."
+          },
+          {
+            "dimension": 7,
+            "name": "Sensei counterpart relation",
+            "paragraph_scope": "PNP003/007/010/015/019",
+            "own_judgment": "Biometric and participant support permit comparison; currentSensei trust stays his own,OS interpretation remains hers. No numericalidentity or symmetric history."
+          },
+          {
+            "dimension": 8,
+            "name": "Major recipient/peer relations",
+            "paragraph_scope": "PNP008–012/015/016/020",
+            "own_judgment": "AlternateShiroko gift/request context and OS trust interpretation are central but markers limited; Arona/Plana naming is their separate relation,not definite Prenapates motive or fate."
+          },
+          {
+            "dimension": 9,
+            "name": "Language/voice/register",
+            "paragraph_scope": "PNP006/011/013/016",
+            "own_judgment": "Sharedteacher/OS labels,adjacenttags and inwardrequest constrain attribution. Written contextualmode only; no new native/performed/visual course or solvedspeakerhistory."
+          },
+          {
+            "dimension": 10,
+            "name": "Competing readings/counterevidence",
+            "paragraph_scope": "PNP006–012/014/016/018/019",
+            "own_judgment": "Eight serious rivals have partial warrants and local contrary cases; none is resolved by importing an externalplot or erasing uncertainty/positive care."
+          },
+          {
+            "dimension": 11,
+            "name": "Evidence route and source-class dependence",
+            "paragraph_scope": "PNP002/003/008/013/017/020",
+            "own_judgment": "Own5WHOLE250+V100SELECTED83 at exactcurrent same-reader pins; overlapping maintained accounts not independent events or primary64. ConditionalE016 remainsunopened because no stronger exactearlyclaim isneeded."
+          }
+        ],
+        "scope": "Existinghome23/P3-CHAR-M029/P3-M029,V100;A201 same duty;notnamed;no source/count/identity/model/publication.",
+        "mode_rule": "A bodycitation gives maintainedphysicalscope,not new underlyingprimary/native/raw/AV access. Contextual teacher/recipient and distinctendpoints remainqualifications rather than an invented complete biography."
+      }
+    },
+    "V02": {
+      "record_id": "V02",
+      "original_role": "SOURCE",
+      "original_actor_fields": {
+        "author": "/root/sumire_v2_finite_qa"
+      },
+      "original_date_fields": {
+        "UTC": "2026-11-04T15:15:33.742757+00:00"
+      },
+      "original_file": {
+        "filename": "OWN_SAME_READER_PRIOR333_SIX_SOURCE_PINS_AND_RANGES_UNCHANGED_REUSE_GUARD_NO_NEW_COURSE_V1.json",
+        "bytes": 6680,
+        "sha256": "9d01e7f3dfbc55a7e27e65fb8d33e331d93f8919d10f65cb2f6b72581d33e9b0"
+      },
+      "original_whole_typed_sha256": "2f21a983903e76c3d06ace5821c5e90837aec87e6804c59dd8411a418ea097de",
+      "projected_whole_typed_sha256": "1fab52db2378c199d039bbeedc06a721900b7b739867c266410786db8127b826",
+      "retention_scope": "Whole original intellectual value; original dated meanings, reader/course and approvals remain attributed.",
+      "original_value": {
+        "schema": "PRENAPATES_FINITE_SUCCESSOR_SAME_READER_OWN333_SIX_SOURCE_REUSE_GUARD_V1",
+        "author": "/root/sumire_v2_finite_qa",
+        "UTC": "2026-11-04T15:15:33.742757+00:00",
+        "rows": [
+          {
+            "source_id": "V100",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "C_path": "DATED-LOCATOR-B41E912AE63BDD7E",
+            "bytes": 49292,
+            "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+            "own_ranges_reused": [
+              [
+                117,
+                175
+              ],
+              [
+                233,
+                251
+              ],
+              [
+                288,
+                292
+              ]
+            ],
+            "own_grade": "SELECTED_MAINTAINED",
+            "own_addresses": 83
+          },
+          {
+            "source_id": "C004",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+            "C_path": "DATED-LOCATOR-0F49FB5F1CF60791",
+            "bytes": 12691,
+            "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+            "own_ranges_reused": [
+              [
+                1,
+                60
+              ]
+            ],
+            "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+            "own_addresses": 60
+          },
+          {
+            "source_id": "E008",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E008_DEEP_READING.md",
+            "C_path": "DATED-LOCATOR-B7E4456A71808DCA",
+            "bytes": 5803,
+            "sha256": "0bc61d26f72c33d5958e9059c3b7e2612bff08b57839afeb4b8a213e6f0b4938",
+            "own_ranges_reused": [
+              [
+                1,
+                38
+              ]
+            ],
+            "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+            "own_addresses": 38
+          },
+          {
+            "source_id": "C003",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+            "C_path": "DATED-LOCATOR-1F817D2CA5827D9A",
+            "bytes": 14443,
+            "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+            "own_ranges_reused": [
+              [
+                1,
+                76
+              ]
+            ],
+            "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+            "own_addresses": 76
+          },
+          {
+            "source_id": "E007",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E007_DEEP_READING.md",
+            "C_path": "DATED-LOCATOR-5161586488C0EA59",
+            "bytes": 5774,
+            "sha256": "704902f8babcc49f7cd28a71931d0fce99a71a833114b583209fc609e11fdb74",
+            "own_ranges_reused": [
+              [
+                1,
+                36
+              ]
+            ],
+            "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+            "own_addresses": 36
+          },
+          {
+            "source_id": "E006",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E006_DEEP_READING.md",
+            "C_path": "DATED-LOCATOR-963697C64AC02209",
+            "bytes": 6405,
+            "sha256": "2d0ea8b7769611b6fffecaa2411bb4f1843af5bb70e507e10960d48e7b5a3e9b",
+            "own_ranges_reused": [
+              [
+                1,
+                40
+              ]
+            ],
+            "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+            "own_addresses": 40
+          }
+        ],
+        "old_own_identity_guards": {
+          "old_own_actual_course": {
+            "bytes": 6946,
+            "sha256": "a210561dc652ccb235e36b12f9c27ba65c52c48ed3ebd5ff8840b8c9782402fe",
+            "printed_reader": null,
+            "identity_basis": "Course6946 has no printed actor; do not invent one. Exact own reasons11116 explicitly name reviewer /root/sumire_v2_finite_qa; original SOURCE author and bound same_reviewer_identity:true explicitly connect this exact course."
+          },
+          "old_own_complete_reasons": {
+            "bytes": 17650,
+            "sha256": "65c7dc608e5baaa894bb5f8eb2173bc1ff2454dfd661a899bda4f6ab370869cc",
+            "printed_reader": "/root/sumire_v2_finite_qa",
+            "identity_basis": "Course6946 has no printed actor; do not invent one. Exact own reasons11116 explicitly name reviewer /root/sumire_v2_finite_qa; original SOURCE author and bound same_reviewer_identity:true explicitly connect this exact course."
+          }
+        },
+        "addresses": 333,
+        "grade": "FiveWHOLE250+V100SELECTED83 same-reader original course only. Raw pins/parse are custody; current already-own warrant refresh is not new whole source or new333 unique addresses. No702/Root333/reviewer333/primary64/native/raw/AV transferred.",
+        "prospective_precision": "Initial PN V2Q01 phrased Sensei as accuser by misreading companion-with-Sensei wording. WholeF01/currentC00344/53 locate companion Shiroko as accuser, Prenapates accused, herself alleged victim. Initial question remains dated; current authoring uses corrected direction. No target body written yet.",
+        "own_probe_diagnostic": "An initial identity probe expected a printed actor on both own prior files and stopped because6946 course has no such field. No candidate/source defect. Exact11116 own reasons and original SOURCE same-reader binding resolve identity; null remains unprinted rather than fabricated."
+      }
+    },
+    "V03": {
+      "record_id": "V03",
+      "original_role": "SOURCE",
+      "original_actor_fields": {
+        "author": "/root/sumire_v2_finite_qa"
+      },
+      "original_date_fields": {
+        "UTC": "2026-11-04T14:02:56.715613+00:00"
+      },
+      "original_file": {
+        "filename": "PRENAPATES_V2_CURRENT_SOURCE_OWN333_REUSE_AND_FINITE_ACTOR_MODE_QUALIFICATIONS_V1.json",
+        "bytes": 21453,
+        "sha256": "510e5e4968b503c3075fd573f6b1c7341148c48a2a1d553f67dfa08a8d8b46f1"
+      },
+      "original_whole_typed_sha256": "6d22c77c7c08ea1b3d3fe9419dad04a9fba23fb8e1704a9cde2dc03d236a1473",
+      "projected_whole_typed_sha256": "bc967b53ea0d00d7dd5d713389a19594e46f3e8a1b7a59a95b2d56fa44294bd2",
+      "retention_scope": "Whole original intellectual value; original dated meanings, reader/course and approvals remain attributed.",
+      "original_value": {
+        "schema": "PRENAPATES_BODY_AUTHOR_OWN333_VERIFIED_REUSE_SOURCE_IDENTITY_AND_GRADE_AUTHORITY_V1",
+        "author": "/root/sumire_v2_finite_qa",
+        "UTC": "2026-11-04T14:02:56.715613+00:00",
+        "authority": {
+          "status": "draft_noncurrent",
+          "supersedes": [],
+          "superseded_by": [],
+          "do_not_use_as_current_authority": true
+        },
+        "scope": "Existinghome23/P3-CHAR-M029/P3-M029,V100;notnamed;A201 same duty.",
+        "root_complete_readiness_adoption": {
+          "C_path": "DATED-LOCATOR-A1AF444B81F6A906",
+          "bytes": 18749,
+          "sha256": "e6ce4c28f6ecc06e3a5a1115c1576ac2c0600ac416c20fce9ed496bc5ec9e902",
+          "actual_whole_meaning_received_before_body": true,
+          "six_Root_reasons": "Root personally received nine complete normative payloads and333 maintained addresses; readiness only, then explicit new body commission. Their source judgments remain attributed rather than pooled attendance."
+        },
+        "old_own_actual_course": {
+          "C_path": "DATED-LOCATOR-C027F3DAB5BD16B7",
+          "bytes": 6946,
+          "sha256": "a210561dc652ccb235e36b12f9c27ba65c52c48ed3ebd5ff8840b8c9782402fe",
+          "same_reviewer_identity": true
+        },
+        "old_own_complete_reasons": {
+          "C_path": "DATED-LOCATOR-1F7E3EB993A8D0F8",
+          "bytes": 17650,
+          "sha256": "65c7dc608e5baaa894bb5f8eb2173bc1ff2454dfd661a899bda4f6ab370869cc",
+          "current_body_author_is_prior_reader_not_new_independent_reviewer": true
+        },
+        "source_table": [
+          {
+            "source_id": "V100",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "C_path": "DATED-LOCATOR-B41E912AE63BDD7E",
+            "bytes": 49292,
+            "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+            "whole_physical_lines": 452,
+            "own_personal_ranges_reused": [
+              [
+                117,
+                175
+              ],
+              [
+                233,
+                251
+              ],
+              [
+                288,
+                292
+              ]
+            ],
+            "own_personal_lines": 83,
+            "own_actual_grade": "SELECTED_MAINTAINED",
+            "source_use_role": "OWN_PREVIOUS_ACTUAL_REVIEWER_COURSE_REUSED_BY_SAME_READER_NOW_AUTHOR_AFTER_EXACT_PIN_GUARD",
+            "own_meaning_and_limit": "Reused V100127–175/233–25168 plus new15 for exact chapter route and dated person-route qualification. Counterpart support and card/return/fate limits are distinct; dated missing direct-person join does not imply source absence or privateF license."
+          },
+          {
+            "source_id": "C004",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+            "C_path": "DATED-LOCATOR-0F49FB5F1CF60791",
+            "bytes": 12691,
+            "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+            "whole_physical_lines": 60,
+            "own_personal_ranges_reused": [
+              [
+                1,
+                60
+              ]
+            ],
+            "own_personal_lines": 60,
+            "own_actual_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+            "source_use_role": "OWN_PREVIOUS_ACTUAL_REVIEWER_COURSE_REUSED_BY_SAME_READER_NOW_AUTHOR_AFTER_EXACT_PIN_GUARD",
+            "own_meaning_and_limit": "Biometric counterpart support, coalition interruption and present-Sensei return reports do not certify Prenapates fate or complete controller history. Other subjects ordinary outcomes remain theirs."
+          },
+          {
+            "source_id": "E008",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E008_DEEP_READING.md",
+            "C_path": "DATED-LOCATOR-B7E4456A71808DCA",
+            "bytes": 5803,
+            "sha256": "0bc61d26f72c33d5958e9059c3b7e2612bff08b57839afeb4b8a213e6f0b4938",
+            "whole_physical_lines": 38,
+            "own_personal_ranges_reused": [
+              [
+                1,
+                38
+              ]
+            ],
+            "own_personal_lines": 38,
+            "own_actual_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+            "source_use_role": "OWN_PREVIOUS_ACTUAL_REVIEWER_COURSE_REUSED_BY_SAME_READER_NOW_AUTHOR_AFTER_EXACT_PIN_GUARD",
+            "own_meaning_and_limit": "Early double-tagged one-OS/her-teacher passage remains qualified. Later Arona naming and Plana acceptance are separately resolved, not a definite Prenapates grief/loyalty cause."
+          },
+          {
+            "source_id": "C003",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+            "C_path": "DATED-LOCATOR-1F817D2CA5827D9A",
+            "bytes": 14443,
+            "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+            "whole_physical_lines": 76,
+            "own_personal_ranges_reused": [
+              [
+                1,
+                76
+              ]
+            ],
+            "own_personal_lines": 76,
+            "own_actual_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+            "source_use_role": "OWN_PREVIOUS_ACTUAL_REVIEWER_COURSE_REUSED_BY_SAME_READER_NOW_AUTHOR_AFTER_EXACT_PIN_GUARD",
+            "own_meaning_and_limit": "Named confrontation, Shiroko abductor allegation, missed shots and OS authentication/timers have different owners and evidence levels. Enemy backdoor control does not prove every Prenapates command or a full body/controller history."
+          },
+          {
+            "source_id": "E007",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E007_DEEP_READING.md",
+            "C_path": "DATED-LOCATOR-5161586488C0EA59",
+            "bytes": 5774,
+            "sha256": "704902f8babcc49f7cd28a71931d0fce99a71a833114b583209fc609e11fdb74",
+            "whole_physical_lines": 36,
+            "own_personal_ranges_reused": [
+              [
+                1,
+                36
+              ]
+            ],
+            "own_personal_lines": 36,
+            "own_actual_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+            "source_use_role": "OWN_PREVIOUS_ACTUAL_REVIEWER_COURSE_REUSED_BY_SAME_READER_NOW_AUTHOR_AFTER_EXACT_PIN_GUARD",
+            "own_meaning_and_limit": "OS reports own escape gift, most plausibly Prenapates to alternate Shiroko in immediate context; transfer is unstaged. Teacher-trust interpretation and inward help-that-child request retain uncertain markers. Apparent OS transfer and cooperative rescue plan do not show either teacher physical rescue, impact or final fate."
+          },
+          {
+            "source_id": "E006",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E006_DEEP_READING.md",
+            "C_path": "DATED-LOCATOR-963697C64AC02209",
+            "bytes": 6405,
+            "sha256": "2d0ea8b7769611b6fffecaa2411bb4f1843af5bb70e507e10960d48e7b5a3e9b",
+            "whole_physical_lines": 40,
+            "own_personal_ranges_reused": [
+              [
+                1,
+                40
+              ]
+            ],
+            "own_personal_lines": 40,
+            "own_actual_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+            "source_use_role": "OWN_PREVIOUS_ACTUAL_REVIEWER_COURSE_REUSED_BY_SAME_READER_NOW_AUTHOR_AFTER_EXACT_PIN_GUARD",
+            "own_meaning_and_limit": "Current Sensei trust/delaying purpose is his speech. Threat tags can contain adjacent speakers. Two recognized card displays have no printed activation, winner or cost; system survival probability remains a forecast."
+          }
+        ],
+        "own_course_totals": {
+          "reused_actual_personal_maintained_addresses": 333,
+          "five_whole_lines": 250,
+          "selected_V100_lines": 83,
+          "new_story_receiving_in_composition": 0,
+          "primary_native_raw_AV_admission": 0
+        },
+        "currentness_grade": "Root18749/guard5919 reports the same six exact currentN7b65 source bytes preserved by protectedMain27a, whole-tree equality. This author checks the positive C rawpins and own historical identity/ranges, not N/Git/provider. Root333 and author702 are distinct courses, never borrowed.",
+        "current_source_guard": {
+          "C_path": "DATED-LOCATOR-05921CA9DBE0A728",
+          "bytes": 5919,
+          "sha256": "036bb268fc6f4cac5b85590bd37b487d489c7795e41fdcacd2f72508b41ef045",
+          "state": "Pre-receiving NOT_YET field is dated Root guard; completed Root18749 owns actual receiving."
+        },
+        "original_normative_payloads_whole_and_attributed": [
+          {
+            "path": "DATED-LOCATOR-0A8377F314BE9345",
+            "bytes": 18317,
+            "sha256": "75b10d2e5e28456c5817cd9b1ea41d740dd5cfbe45f0f25c2d73d41839b96850",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-6E333D0D5D536C05",
+            "bytes": 12368,
+            "sha256": "316f5d82564cfb6c84007875f1d275c3a72a50c7aaef91359696cf53e103da4c",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-09079D5D82F02E25",
+            "bytes": 12930,
+            "sha256": "f1888c226773df5df043b7c8ce3462625e3e9ac54b2294ca731a24c7728a392a",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-940C59CE86B4B03D",
+            "bytes": 5558,
+            "sha256": "8c415a1ea58e319c7645079dc2ba1edbbfd825314f983b28c7b7398b5012c2dc",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-CB6D1F8076E7A80B",
+            "bytes": 9406,
+            "sha256": "93b83697bcdb8a5e866524163ff68d53f7bf397dbabc3a3c2ef805fb6ecb8695",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-94DA9D27C10E02D8",
+            "bytes": 5205,
+            "sha256": "b3c863ad819af72aaea74fe41ef6d0674dd915257df1fe27999dcee0f1d49b85",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-D958F8EC52B93354",
+            "bytes": 6946,
+            "sha256": "a210561dc652ccb235e36b12f9c27ba65c52c48ed3ebd5ff8840b8c9782402fe",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-952B506E6A72482F",
+            "bytes": 17650,
+            "sha256": "65c7dc608e5baaa894bb5f8eb2173bc1ff2454dfd661a899bda4f6ab370869cc",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-210DACDDF6FDCDD7",
+            "bytes": 3818,
+            "sha256": "1effb1479723c06a01a7ce1fa4c82be88eb7639ac37fa1f76b5096eaf9da2df8",
+            "actual_complete_meanings_received_by_Root": true
+          }
+        ],
+        "operative_actor_mode_end_limits": [
+          "C003 named encounter, abductor allegation and OS authentication/control/timers are distinct; no complete body/disguise/controller history.",
+          "C00430 biometric plus E00630 participant support establishes a local counterpart inquiry, not numerical identity or symmetric motives/history.",
+          "E00626 trust/delay is current Sensei speech. E00618/28 threat tags retain adjacent-speaker ambiguity. E00630 two displayed cards give no activation/effect/victor/cost.",
+          "E00720 own-escape gift is OS report, most plausibly Prenapates→alternateShiroko in immediate context; transfer and recipient marker remain limited.",
+          "E00722 OS evolving teacher-trust interpretation is not a proved complete plan. Inward help-that-child teacher/request/recipient remain qualified.",
+          "Protection/fall report, apparent OS data transfer, proposed joint rescue and E008 present-Sensei return are separate endpoints. No final Prenapates fate/impact/death/medical result or definite Plana grief/loyalty.",
+          "Private ordinary biography, hobbies, institutional office history or rupture/repair must not be fabricated. Care remains meaningful at its report-qualified grade; other actors meals, OS routines and current Sensei trust are not his goods."
+        ],
+        "conditional_seam": {
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E016_DEEP_READING.md",
+          "status": "UNOPENED; NO CURRENT REQUEST",
+          "trigger": "Stop for Root with a specific question before a stronger exact early quotation, abduction-guide agency or individual-controller claim than the bounded paraphrase. No unapproved access."
+        },
+        "framework": {
+          "manifest_C_path": "DATED-LOCATOR-D23A4E273F3B3785",
+          "method": "53414/c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d; own fresh physical250–379; prior relevant rules reused at exact unchanged pin.",
+          "architecture": "52261/848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286; own fresh319–345, prior Phase3/authority/file-responsibility ranges reused unchanged."
+        },
+        "before_body": "SOURCE/own333 rawpin and same-reader guard completed before any new connected body prose. No ritual whole333 replay or author702 course transfer.",
+        "credits_and_access": "Author-only C draft, no Root adoption or different-body review. Only new D writes and exact positive C input custody; no N/heldR/Git/provider/shared/global/source/control/frozen/protected/private/opaque/broadscan/externalchat/foreignhelper. No newsource,identity,named,REL,model,count,install,publication.",
+        "finite_V2_actor_mode_qualification": {
+          "author": "/root/sumire_v2_finite_qa",
+          "UTC": "2026-11-04T15:29:07.348777+00:00",
+          "commission": {
+            "C_path": "DATED-LOCATOR-A2AE37A59B964873",
+            "bytes": 8759,
+            "sha256": "37b5d95b9daef01d751a6e4baf866753831ea691d7abb88a066e891c8e4861be"
+          },
+          "scope": "Only PNP002/003/005/010/019 and dependent map/SOURCE/author/current4 metadata; header/title/headings/closing/other15 exact.",
+          "unchanged_source_course": "Original six source rows and old own333 identity/ranges remain exact. FiveWHOLE250+V100SELECTED83 same-reader reuse; no new source or otherreader course.",
+          "effective_claims": [
+            {
+              "id": "F01",
+              "meaning": "Sensei-companion Shiroko is the accuser; Prenapates is accused of abducting her, who is the alleged victim. C00344/53 retains scene-level identity uncertainty; no completed abduction mechanism or newE016."
+            },
+            {
+              "id": "F02",
+              "meaning": "Hostile Shiroko claims killing her own Sensei at C00430/50 and V100165. Preserve attributed alleged past/truth uncertainty and no teacher=Prenapates join, present body/controller diagnosis or final-fall fate. Counterpart support and repetition across maintained synthesis are not independent events."
+            },
+            {
+              "id": "P04",
+              "meaning": "E00630 participant-identifies two displayed adult cards. No activation/effect/victor/measured cost."
+            },
+            {
+              "id": "F03",
+              "meaning": "First OS voice repeats same-choice/same-situation while revising teacher-trust interpretation at E00722/28. Her inferred continuity is not a Prenapates maxim, jointly authenticated self-account, universal law or complete rescue plan."
+            }
+          ],
+          "reviewer_grade_addendum": {
+            "C_path": "DATED-LOCATOR-86875547F3535AA7",
+            "bytes": 2321,
+            "sha256": "6149176b7132a6dae54002399e3f91e54cb261e5608009bc2d0d5d04d064747b"
+          },
+          "grade_addendum_effect": "Root8759 pending-addendum sentence remains dated. Actual2321 addendum is now positively received: F02V100165 is SELECTED83, never WHOLE452. Original faulty generic label remains frozen history.",
+          "original_field_dating": "Original SOURCE UTC,before_body,currentness/Root guard and original seven operative limits retain originalV1 context. This additive qualification controls the finite current details without relabeling any old source attendance.",
+          "prospective_precision": "Initial finiteQ01 incorrectly rendered Sensei as accuser; actualF01 and exact C00344/53 specify Shiroko-labelled companion with Sensei. Initial question retained dated; no body ever written with that mistaken direction.",
+          "stage": "New C author draft only; differentfiniteQA and Root newbyte adoption separate; no public/currentcanonical/install/count/source/identity/model credit."
+        }
+      }
+    },
+    "V04": {
+      "record_id": "V04",
+      "original_role": "SOURCE",
+      "original_actor_fields": {
+        "author": "/root/sumire_v2_finite_qa"
+      },
+      "original_date_fields": {},
+      "original_file": {
+        "filename": "PRENAPATES_V2_COMPLETE20_LITERAL_PURPOSE_MODE_RECIPIENT_ENDPOINT_AND_DIMENSION_MAP_V1.json",
+        "bytes": 59313,
+        "sha256": "b37f064be4d3669e2329d3dc111b86b6c5ac41152f0f757ca89351940672c66d"
+      },
+      "original_whole_typed_sha256": "7f43b865067c7b315dd2cc392514704f5c5b02b2786c3ede9ee2ca40e5e97ca3",
+      "projected_whole_typed_sha256": "7f43b865067c7b315dd2cc392514704f5c5b02b2786c3ede9ee2ca40e5e97ca3",
+      "retention_scope": "Whole original intellectual value; original dated meanings, reader/course and approvals remain attributed.",
+      "original_value": {
+        "schema": "PRENAPATES_CONNECTED_BODY_COMPLETE_LITERAL20_PURPOSE_MODE_RECIPIENT_END_MAP_V1",
+        "author": "/root/sumire_v2_finite_qa",
+        "authority": {
+          "status": "draft_noncurrent",
+          "supersedes": [],
+          "superseded_by": [],
+          "do_not_use_as_current_authority": true
+        },
+        "lifecycle": "C_ONLY_FINITE_V2_MAPPING_PENDING_DIFFERENT_DELTA_QA_AND_ROOT_NEW_BYTE_RECEIVING",
+        "component_refs": [
+          {
+            "relative_path": "BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH_C_ONLY_FINITE_SUCCESSOR_V2.md",
+            "bytes": 14965,
+            "sha256": "5a95355e7c44e0ddfb39bdf9916a62b87527405c4c1d1546a2ab70ad7af6536e"
+          },
+          {
+            "relative_path": "PRENAPATES_V2_CURRENT_SOURCE_OWN333_REUSE_AND_FINITE_ACTOR_MODE_QUALIFICATIONS_V1.json",
+            "bytes": 21453,
+            "sha256": "510e5e4968b503c3075fd573f6b1c7341148c48a2a1d553f67dfa08a8d8b46f1"
+          }
+        ],
+        "paragraph_count": 20,
+        "physical_body_lines": 67,
+        "paragraphs": [
+          {
+            "paragraph_id": "PNP001",
+            "physical_start_line": 21,
+            "physical_end_line": 21,
+            "UTF8_span": [
+              889,
+              1630
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  974,
+                  1715
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "8ac2345f724cc2f8c6d3c745266213f610bfcd720103ece2fcc578c1e2e69a5b",
+                "complete_utf8_sha256": "cab70a65a04b91834fd224190ef36bfc19aae563e8dafee227e1095d71d47bd4"
+              }
+            },
+            "literal_UTF8_bytes": 741,
+            "literal_sha256": "cab70a65a04b91834fd224190ef36bfc19aae563e8dafee227e1095d71d47bd4",
+            "own_connected_purpose": "Make unequal access the individual thesis rather than pretend either hostility or care is a complete biography.",
+            "actor_mode_and_recipient_direction": "Prenapates named opponent/gesture;OS reports/interpretation;teacher/child referents qualified",
+            "claim_grade_and_finite_endpoint": "Named presence/represented gesture and reported possible care have distinct grades.",
+            "particular_end_or_knowledge_limit": "No complete intention,finished outcome or global moral essence.",
+            "character_dimension_ids": [
+              1,
+              3,
+              6,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "C003",
+                "inclusive_physical_ranges": [
+                  [
+                    44,
+                    44
+                  ],
+                  [
+                    53,
+                    53
+                  ],
+                  [
+                    62,
+                    63
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/3",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    18
+                  ],
+                  [
+                    28,
+                    28
+                  ],
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    20,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP002",
+            "physical_start_line": 23,
+            "physical_end_line": 23,
+            "UTF8_span": [
+              1632,
+              2383
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  1717,
+                  2468
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "154e0e7d2293e885de92331cff01d02480f9e890d8558d75b4b64d88c3f30506",
+                "complete_utf8_sha256": "3ab0708eafe1fe7312bbc9b2e15438af5ff579f0509a8b91dfe7e7a483940e1f"
+              }
+            },
+            "literal_UTF8_bytes": 751,
+            "literal_sha256": "3ab0708eafe1fe7312bbc9b2e15438af5ff579f0509a8b91dfe7e7a483940e1f",
+            "own_connected_purpose": "Name the available accusation direction without completing an abduction history.",
+            "actor_mode_and_recipient_direction": "Sensei-companion Shiroko accuses Prenapates of abducting herself; OS authentication/control/timers have separate owners.",
+            "claim_grade_and_finite_endpoint": "Attributed allegation at C00344/53; no staged abduction mechanism.",
+            "particular_end_or_knowledge_limit": "No automatic join of Shiroko presentations, full guide/body/controller history or newE016.",
+            "character_dimension_ids": [
+              1,
+              3,
+              4,
+              11
+            ],
+            "evidence": [
+              {
+                "source_id": "C003",
+                "inclusive_physical_ranges": [
+                  [
+                    44,
+                    44
+                  ],
+                  [
+                    53,
+                    53
+                  ],
+                  [
+                    56,
+                    56
+                  ],
+                  [
+                    62,
+                    63
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/3",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP003",
+            "physical_start_line": 25,
+            "physical_end_line": 25,
+            "UTF8_span": [
+              2385,
+              3275
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  2470,
+                  3360
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "5565e21d6ac85fe1c19ce40c37a7c2a80f19d2d06828c7270716e87dc851f895",
+                "complete_utf8_sha256": "b0141a3cafabd164dc97a353feb598897e082ad3e432d4f3ee69672084beb3f3"
+              }
+            },
+            "literal_UTF8_bytes": 890,
+            "literal_sha256": "b0141a3cafabd164dc97a353feb598897e082ad3e432d4f3ee69672084beb3f3",
+            "own_connected_purpose": "Keep counterpart support beside the hostile Shiroko past-killing testimony at different grades.",
+            "actor_mode_and_recipient_direction": "Arona biometric/participant counterpart support; hostile Shiroko owns claim of killing her own Sensei; currentSensei distinct.",
+            "claim_grade_and_finite_endpoint": "Positive local counterpart support plus attributed alleged past whose truth remains open.",
+            "particular_end_or_knowledge_limit": "No teacher=Prenapates join,numericalidentity,symmetric memories/motives,present body/controller diagnosis or final-fate proof.",
+            "character_dimension_ids": [
+              1,
+              7,
+              11
+            ],
+            "evidence": [
+              {
+                "source_id": "C004",
+                "inclusive_physical_ranges": [
+                  [
+                    30,
+                    30
+                  ],
+                  [
+                    50,
+                    50
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/1",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    26,
+                    26
+                  ],
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "V100",
+                "inclusive_physical_ranges": [
+                  [
+                    165,
+                    165
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/0",
+                "own_grade": "SELECTED_MAINTAINED",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP004",
+            "physical_start_line": 27,
+            "physical_end_line": 27,
+            "UTF8_span": [
+              3277,
+              3911
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  3362,
+                  3996
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "8318b9e474ee93d4a6ad1f854c28147e0efb4eec7e74d8b9f0bd6cddf5767417",
+                "complete_utf8_sha256": "fd6dd5e99b517165a449edd3a29187f27db5d2b369bcb2ca85f6fb3f9175a1d2"
+              }
+            },
+            "literal_UTF8_bytes": 634,
+            "literal_sha256": "fd6dd5e99b517165a449edd3a29187f27db5d2b369bcb2ca85f6fb3f9175a1d2",
+            "own_connected_purpose": "Situate the public role amid other actors while honestly bounding institution and agency.",
+            "actor_mode_and_recipient_direction": "Namedteacher amid Shiroko/OS operations;no sole-control inference",
+            "claim_grade_and_finite_endpoint": "Encounter situation and separately owned operations.",
+            "particular_end_or_knowledge_limit": "School/club/rank and complete active-controller biography unestablished.",
+            "character_dimension_ids": [
+              3,
+              4,
+              6
+            ],
+            "evidence": [
+              {
+                "source_id": "C003",
+                "inclusive_physical_ranges": [
+                  [
+                    44,
+                    44
+                  ],
+                  [
+                    53,
+                    53
+                  ],
+                  [
+                    56,
+                    56
+                  ],
+                  [
+                    62,
+                    63
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/3",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP005",
+            "physical_start_line": 31,
+            "physical_end_line": 31,
+            "UTF8_span": [
+              3968,
+              4624
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  4053,
+                  4709
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "cc3ad03cb0636dd63feb694815cc758fca398d1a74adb592e394e8361b5e7df2",
+                "complete_utf8_sha256": "004d17a3d5413fa225a620252019ec78f076436afb24397a1849aa942bc71907"
+              }
+            },
+            "literal_UTF8_bytes": 656,
+            "literal_sha256": "004d17a3d5413fa225a620252019ec78f076436afb24397a1849aa942bc71907",
+            "own_connected_purpose": "Make participant-identified adult-card display a positive particular action without activation mechanics.",
+            "actor_mode_and_recipient_direction": "CurrentSensei and Prenapates display; participants identify adult cards; no universal command ownership.",
+            "claim_grade_and_finite_endpoint": "Two represented adult-card gestures with participant identification.",
+            "particular_end_or_knowledge_limit": "No activated effect,victor,calibrated cost or missing contest reconstruction.",
+            "character_dimension_ids": [
+              1,
+              6,
+              7
+            ],
+            "evidence": [
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    30,
+                    32
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP006",
+            "physical_start_line": 33,
+            "physical_end_line": 33,
+            "UTF8_span": [
+              4626,
+              5269
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  4711,
+                  5354
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "2c052829016f3cb61ccd489a634e922bf910865fc5eb4007c6d47f7d1fc8f93e",
+                "complete_utf8_sha256": "c538deed8ff0dae8031452be4a5756e9cf0bb8b63a442e8c8b90ee3810b44999"
+              }
+            },
+            "literal_UTF8_bytes": 643,
+            "literal_sha256": "c538deed8ff0dae8031452be4a5756e9cf0bb8b63a442e8c8b90ee3810b44999",
+            "own_connected_purpose": "Keep agency attribution act-specific: clarity of one gesture does not cure uncertain threat tags.",
+            "actor_mode_and_recipient_direction": "Namedthreat tags may contain adjacent speakers;gesture separately represented",
+            "claim_grade_and_finite_endpoint": "Hostile content and report warning retained together.",
+            "particular_end_or_knowledge_limit": "No blanket command ownership or automatic innocence.",
+            "character_dimension_ids": [
+              3,
+              6,
+              9,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    18
+                  ],
+                  [
+                    28,
+                    28
+                  ],
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP007",
+            "physical_start_line": 35,
+            "physical_end_line": 35,
+            "UTF8_span": [
+              5271,
+              5864
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  5356,
+                  5949
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "997bd9fca63052bd6cd5c4b408f04f87737033cc2768b7c2931eae1366e0d063",
+                "complete_utf8_sha256": "49842270ef1bc910ef83649950aa0427fbde8b9f4cf14299ff98fdd2c651e7bc"
+              }
+            },
+            "literal_UTF8_bytes": 593,
+            "literal_sha256": "49842270ef1bc910ef83649950aa0427fbde8b9f4cf14299ff98fdd2c651e7bc",
+            "own_connected_purpose": "Use currentSensei clear trust/delay speech as an asymmetrical comparison rather than borrowed intent.",
+            "actor_mode_and_recipient_direction": "CurrentSensei owns explicit trust/delay;Prenapates gesture distinct",
+            "claim_grade_and_finite_endpoint": "Speech versus represented gesture at different access levels.",
+            "particular_end_or_knowledge_limit": "No shared interiority or interchangeable-Sensei psychology.",
+            "character_dimension_ids": [
+              3,
+              7,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    26,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "C004",
+                "inclusive_physical_ranges": [
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/1",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP008",
+            "physical_start_line": 39,
+            "physical_end_line": 39,
+            "UTF8_span": [
+              5903,
+              6514
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  5988,
+                  6599
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "1b08c9725dde91ea9d7eafb9f4c1bbdff30fc208420e828f16a24f060beb0492",
+                "complete_utf8_sha256": "f273330148e07b3bc5dfecc0952448dbe1176d3606e7fc82f18b31a7ad6527fb"
+              }
+            },
+            "literal_UTF8_bytes": 611,
+            "literal_sha256": "f273330148e07b3bc5dfecc0952448dbe1176d3606e7fc82f18b31a7ad6527fb",
+            "own_connected_purpose": "Introduce the reported own-escape gift across an honestly omitted transition.",
+            "actor_mode_and_recipient_direction": "OS reports gift;most-plausible Prenapates→alternateShiroko contextual direction",
+            "claim_grade_and_finite_endpoint": "OS report and later zero-use resource state.",
+            "particular_end_or_knowledge_limit": "Transfer/recipient markers incomplete;no reconstructed activation or card contest.",
+            "character_dimension_ids": [
+              2,
+              6,
+              8,
+              11
+            ],
+            "evidence": [
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    20
+                  ],
+                  [
+                    28,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP009",
+            "physical_start_line": 41,
+            "physical_end_line": 41,
+            "UTF8_span": [
+              6516,
+              7147
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  6601,
+                  7232
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "4e77ac7988c8e2963f27122d002e68856b98e2df34056ffa27dd2f1e09d38266",
+                "complete_utf8_sha256": "9a53942f8538f364ce092b94aa4869d610cdb8a9bcb7fd93c5e800d80ee3ab14"
+              }
+            },
+            "literal_UTF8_bytes": 631,
+            "literal_sha256": "9a53942f8538f364ce092b94aa4869d610cdb8a9bcb7fd93c5e800d80ee3ab14",
+            "own_connected_purpose": "Give the qualified recipient-care candidate positive value without full absolution or a proved cost.",
+            "actor_mode_and_recipient_direction": "Possible teacher giver→another escape;OS report remains authority",
+            "claim_grade_and_finite_endpoint": "Report-qualified directed care and apparent self-costly meaning.",
+            "particular_end_or_knowledge_limit": "No clinical/technical price,confirmed fatal result or justification of every earlier act.",
+            "character_dimension_ids": [
+              1,
+              5,
+              6,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    20,
+                    20
+                  ],
+                  [
+                    22,
+                    22
+                  ],
+                  [
+                    28,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP010",
+            "physical_start_line": 43,
+            "physical_end_line": 43,
+            "UTF8_span": [
+              7149,
+              8016
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  7234,
+                  8101
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "9841792f729ed7102cb4360d8786c23ec7f6f04f39864d576fe59612aa721444",
+                "complete_utf8_sha256": "c34d09072516a730f5f1e1633a18502631e1b6cb4850748162abbbd79ad0e092"
+              }
+            },
+            "literal_UTF8_bytes": 867,
+            "literal_sha256": "c34d09072516a730f5f1e1633a18502631e1b6cb4850748162abbbd79ad0e092",
+            "own_connected_purpose": "Give the first OS voice’s interpreted continuity its specific repeated-choice motif.",
+            "actor_mode_and_recipient_direction": "First OS voice reconsiders teacher wish and repeats same-choice/same-situation as her interpretation of counterparts.",
+            "claim_grade_and_finite_endpoint": "OS-owned evolving trust/continuity inference at E00722/28.",
+            "particular_end_or_knowledge_limit": "Not a direct Prenapates maxim,jointly authenticated self-account,universal law or complete intended rescue plan.",
+            "character_dimension_ids": [
+              3,
+              7,
+              8,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    22,
+                    22
+                  ],
+                  [
+                    28,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP011",
+            "physical_start_line": 45,
+            "physical_end_line": 45,
+            "UTF8_span": [
+              8018,
+              8642
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  8103,
+                  8727
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "2664fc8fc6baef455a57fcb03fac9d3e02e20456ef11925173faff43c90a3dee",
+                "complete_utf8_sha256": "ffb457f08038987302b2d6aef0c443b1eaa3f6230843fba9bbfa961d141e7400"
+              }
+            },
+            "literal_UTF8_bytes": 624,
+            "literal_sha256": "ffb457f08038987302b2d6aef0c443b1eaa3f6230843fba9bbfa961d141e7400",
+            "own_connected_purpose": "Distinguish the inward child-help request from a securely identified private confession.",
+            "actor_mode_and_recipient_direction": "Inwardunmarkedteacher→OS help-that-child;teacher/recipient contextual",
+            "claim_grade_and_finite_endpoint": "Textual inward request with limited identity markers.",
+            "particular_end_or_knowledge_limit": "No authenticated whole wish-list,settled recipient chain or completed response.",
+            "character_dimension_ids": [
+              3,
+              5,
+              8,
+              9
+            ],
+            "evidence": [
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    18
+                  ],
+                  [
+                    22,
+                    22
+                  ],
+                  [
+                    28,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP012",
+            "physical_start_line": 47,
+            "physical_end_line": 47,
+            "UTF8_span": [
+              8644,
+              9330
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  8729,
+                  9415
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "2531fc7dd40df33f6c4303e3ed9bbc4812706baa45f5cae3b0812a740eeb62d6",
+                "complete_utf8_sha256": "bdcab628860680a07b885508779510a24403bb1d288c4a52fd9ab743c29d027f"
+              }
+            },
+            "literal_UTF8_bytes": 686,
+            "literal_sha256": "bdcab628860680a07b885508779510a24403bb1d288c4a52fd9ab743c29d027f",
+            "own_connected_purpose": "Address sparse ordinary life through proper limits and intrinsic qualified care rather than invented goods.",
+            "actor_mode_and_recipient_direction": "Possible Prenapates care;currentSensei/OS goods not transferable",
+            "claim_grade_and_finite_endpoint": "Recipient-directed wanted end at report-qualified grade.",
+            "particular_end_or_knowledge_limit": "No supported hobbies/meals/domestic routine or unpressured baseline;not ineligible.",
+            "character_dimension_ids": [
+              1,
+              3,
+              5,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    26,
+                    26
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    20,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E008",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/2",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP013",
+            "physical_start_line": 49,
+            "physical_end_line": 49,
+            "UTF8_span": [
+              9332,
+              10040
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  9417,
+                  10125
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "afc895c3bcf59731b08e8d29fb61033b18910a4b61b7ea5b40f2a7cefb527fa4",
+                "complete_utf8_sha256": "2ccd126c077d0c67f3b1b8785d41b3a0b0acc996d73615cdff77c6b51e88f6ec"
+              }
+            },
+            "literal_UTF8_bytes": 708,
+            "literal_sha256": "2ccd126c077d0c67f3b1b8785d41b3a0b0acc996d73615cdff77c6b51e88f6ec",
+            "own_connected_purpose": "Make presentation and register part of access to character rather than a route to invented performance.",
+            "actor_mode_and_recipient_direction": "Namedteacher/participant/OSreport/OSinterpretation/inward teacher modes differ",
+            "claim_grade_and_finite_endpoint": "Maintained written wording with shared labels.",
+            "particular_end_or_knowledge_limit": "No heard acting,inspected visual performance,complete interiority or automatic tag resolution.",
+            "character_dimension_ids": [
+              3,
+              9,
+              11
+            ],
+            "evidence": [
+              {
+                "source_id": "C003",
+                "inclusive_physical_ranges": [
+                  [
+                    62,
+                    63
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/3",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    18
+                  ],
+                  [
+                    28,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    18
+                  ],
+                  [
+                    22,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E008",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    18
+                  ],
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/2",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP014",
+            "physical_start_line": 53,
+            "physical_end_line": 53,
+            "UTF8_span": [
+              10088,
+              10728
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  10173,
+                  10813
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "7e941b0f9d9f8894377b75a830420a2e7658713193642d67415b532917bb7cfd",
+                "complete_utf8_sha256": "dc8d8e59fbd168e2c19f4fb8638ba5e33d09e80675d03c96cf11806d14e14f05"
+              }
+            },
+            "literal_UTF8_bytes": 640,
+            "literal_sha256": "dc8d8e59fbd168e2c19f4fb8638ba5e33d09e80675d03c96cf11806d14e14f05",
+            "own_connected_purpose": "Retain danger without supplying an unprinted physical fate to finish a martyr narrative.",
+            "actor_mode_and_recipient_direction": "OS protection/fall reports;Prenapates fate unprinted",
+            "claim_grade_and_finite_endpoint": "Reported danger and missing final impact.",
+            "particular_end_or_knowledge_limit": "No death/clinical status,complete sacrifice mechanism or external-plot reconstruction.",
+            "character_dimension_ids": [
+              2,
+              6,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    20,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "C004",
+                "inclusive_physical_ranges": [
+                  [
+                    49,
+                    49
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/1",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP015",
+            "physical_start_line": 55,
+            "physical_end_line": 55,
+            "UTF8_span": [
+              10730,
+              11355
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  10815,
+                  11440
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "dda93e345653f780663ba79c7237bd7a4f876ab5d1c47d50d1d2cd6afc0b2d92",
+                "complete_utf8_sha256": "01c637dcb6651daaaeb998aa1de6a7757767cbe8611a2734ff1c6cf33e98f52d"
+              }
+            },
+            "literal_UTF8_bytes": 625,
+            "literal_sha256": "01c637dcb6651daaaeb998aa1de6a7757767cbe8611a2734ff1c6cf33e98f52d",
+            "own_connected_purpose": "Separate OS transfer,rescue proposal and currentSensei return so one endpoint cannot finish another subject.",
+            "actor_mode_and_recipient_direction": "ApparentOSdata transfer;proposedjoint rescue;report presentSensei returned",
+            "claim_grade_and_finite_endpoint": "Different report/proposal/return endpoints.",
+            "particular_end_or_knowledge_limit": "No Prenapates survival/death,unseen landing or escape mechanics.",
+            "character_dimension_ids": [
+              2,
+              6,
+              7,
+              8
+            ],
+            "evidence": [
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    24,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E008",
+                "inclusive_physical_ranges": [
+                  [
+                    22,
+                    22
+                  ],
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/2",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "C004",
+                "inclusive_physical_ranges": [
+                  [
+                    22,
+                    22
+                  ],
+                  [
+                    34,
+                    34
+                  ],
+                  [
+                    49,
+                    49
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/1",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP016",
+            "physical_start_line": 57,
+            "physical_end_line": 57,
+            "UTF8_span": [
+              11357,
+              11939
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  11442,
+                  12024
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "b7eb3ded621e0dc6b56dd306a4093bed82aa21bcfa04d2b11f772e3b6df2179b",
+                "complete_utf8_sha256": "14dfeec6b6af4b1351f715a07bec3a9c98886c05811d3156b078c2b2b0bc058e"
+              }
+            },
+            "literal_UTF8_bytes": 582,
+            "literal_sha256": "14dfeec6b6af4b1351f715a07bec3a9c98886c05811d3156b078c2b2b0bc058e",
+            "own_connected_purpose": "Preserve opening OS/teacher ambiguity despite later clearer Arona-Plana naming.",
+            "actor_mode_and_recipient_direction": "OneOS/herteacher contextual;later Arona/Plana distinct naming",
+            "claim_grade_and_finite_endpoint": "Qualified opening versus later naming relation.",
+            "particular_end_or_knowledge_limit": "No definite Prenapates fate or Plana grief/loyalty;no transfer of her choices to him.",
+            "character_dimension_ids": [
+              3,
+              8,
+              9,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "E008",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    18
+                  ],
+                  [
+                    22,
+                    22
+                  ],
+                  [
+                    28,
+                    28
+                  ],
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/2",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    18
+                  ],
+                  [
+                    24,
+                    24
+                  ],
+                  [
+                    28,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP017",
+            "physical_start_line": 59,
+            "physical_end_line": 59,
+            "UTF8_span": [
+              11941,
+              12657
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  12026,
+                  12742
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "b456203715b8319d6ae745c8c6801c3cf6fe752f7677dd3acac5829ed2258daf",
+                "complete_utf8_sha256": "43a74d4c207fbb2335123132bcde65efd33094da89961a3c5a2bc2d47b7f8eff"
+              }
+            },
+            "literal_UTF8_bytes": 716,
+            "literal_sha256": "43a74d4c207fbb2335123132bcde65efd33094da89961a3c5a2bc2d47b7f8eff",
+            "own_connected_purpose": "Describe local disclosure as development in the reader available evidence, not a fabricated life arc.",
+            "actor_mode_and_recipient_direction": "Encounter→gesture→report/request→rescue proposal→otherteacher return",
+            "claim_grade_and_finite_endpoint": "Local narrative sequence and changed access.",
+            "particular_end_or_knowledge_limit": "No complete private/institutional biography,major rupture/repair or global reform calendar.",
+            "character_dimension_ids": [
+              2,
+              3,
+              4,
+              11
+            ],
+            "evidence": [
+              {
+                "source_id": "C003",
+                "inclusive_physical_ranges": [
+                  [
+                    44,
+                    44
+                  ],
+                  [
+                    62,
+                    62
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/3",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    20,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E008",
+                "inclusive_physical_ranges": [
+                  [
+                    22,
+                    22
+                  ],
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/2",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "V100",
+                "inclusive_physical_ranges": [
+                  [
+                    117,
+                    129
+                  ],
+                  [
+                    233,
+                    251
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/0",
+                "own_grade": "SELECTED_MAINTAINED",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP018",
+            "physical_start_line": 63,
+            "physical_end_line": 63,
+            "UTF8_span": [
+              12709,
+              13357
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  12794,
+                  13442
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "9e771dca86ee51327fd9da962897766ecc7750c55a217ed90e08053d5840c793",
+                "complete_utf8_sha256": "6e1c3f48546f27040c6b3a01211e63f307d92e1052b4f4b2cc55749f28a33d70"
+              }
+            },
+            "literal_UTF8_bytes": 648,
+            "literal_sha256": "6e1c3f48546f27040c6b3a01211e63f307d92e1052b4f4b2cc55749f28a33d70",
+            "own_connected_purpose": "Test pure-hostile and martyr totals against their actual contrary evidence without erasing care.",
+            "actor_mode_and_recipient_direction": "Hostile encounter versus qualified gift/request reports",
+            "claim_grade_and_finite_endpoint": "Partial warrants and mode-specific contrary cases.",
+            "particular_end_or_knowledge_limit": "No blanket absolution or requirement of certain fate before any positive meaning.",
+            "character_dimension_ids": [
+              1,
+              6,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "C003",
+                "inclusive_physical_ranges": [
+                  [
+                    44,
+                    44
+                  ],
+                  [
+                    53,
+                    53
+                  ],
+                  [
+                    62,
+                    62
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/3",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    18
+                  ],
+                  [
+                    28,
+                    28
+                  ],
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    20,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP019",
+            "physical_start_line": 65,
+            "physical_end_line": 65,
+            "UTF8_span": [
+              13359,
+              14333
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  13444,
+                  14418
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "d5bbad4c66e298fa90d18a540cf93c894ee3438fd2f4909e919efb920466945a",
+                "complete_utf8_sha256": "5533e6123ccd3238bdb9acb3871d25fff6d585bc7b7bd852bb2d638ad46ed2b6"
+              }
+            },
+            "literal_UTF8_bytes": 974,
+            "literal_sha256": "5533e6123ccd3238bdb9acb3871d25fff6d585bc7b7bd852bb2d638ad46ed2b6",
+            "own_connected_purpose": "Test body/control and interchangeable-teacher rivals against actual attributed partial warrants.",
+            "actor_mode_and_recipient_direction": "Hostile Shiroko owns alleged own-teacher killing; counterpart support remains separate; currentSensei speech stays his.",
+            "claim_grade_and_finite_endpoint": "Concrete testimony supports asking the body question,not solving it.",
+            "particular_end_or_knowledge_limit": "Truth/teacheridentity/body/controller/fate remain unproved; OS interpretation isnot a complete plan; sparsegoods not ineligibility.",
+            "character_dimension_ids": [
+              1,
+              3,
+              4,
+              5,
+              7,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "C003",
+                "inclusive_physical_ranges": [
+                  [
+                    53,
+                    53
+                  ],
+                  [
+                    56,
+                    56
+                  ],
+                  [
+                    62,
+                    63
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/3",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "C004",
+                "inclusive_physical_ranges": [
+                  [
+                    30,
+                    30
+                  ],
+                  [
+                    49,
+                    50
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/1",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    18,
+                    18
+                  ],
+                  [
+                    26,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    22,
+                    22
+                  ],
+                  [
+                    28,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "V100",
+                "inclusive_physical_ranges": [
+                  [
+                    165,
+                    165
+                  ],
+                  [
+                    288,
+                    292
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/0",
+                "own_grade": "SELECTED_MAINTAINED",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          },
+          {
+            "paragraph_id": "PNP020",
+            "physical_start_line": 67,
+            "physical_end_line": 67,
+            "UTF8_span": [
+              14335,
+              14964
+            ],
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+                "kind": "UTF8_span",
+                "span_excluding_LF": [
+                  14420,
+                  15049
+                ],
+                "decoded_type": "string",
+                "complete_typed_sha256": "34dd711476e8d56c6d49ff3de36cffeb94f2b39fdad3549d05aab984df55ce6f",
+                "complete_utf8_sha256": "6262473e2e44ce9eff230749d65e5dd3fe0adb82104bcea8f649a1367d03ba9c"
+              }
+            },
+            "literal_UTF8_bytes": 629,
+            "literal_sha256": "6262473e2e44ce9eff230749d65e5dd3fe0adb82104bcea8f649a1367d03ba9c",
+            "own_connected_purpose": "Close the character argument on particular recognition and limited care without finishing an unknown person.",
+            "actor_mode_and_recipient_direction": "Named counterpart;representedgesture;qualified gift/request foranother",
+            "claim_grade_and_finite_endpoint": "Positive directed possibility remains with unanswered history.",
+            "particular_end_or_knowledge_limit": "No total intent/command attribution or confirmed fate;no technical lifecycle in literary closing.",
+            "character_dimension_ids": [
+              1,
+              2,
+              5,
+              8,
+              10
+            ],
+            "evidence": [
+              {
+                "source_id": "C003",
+                "inclusive_physical_ranges": [
+                  [
+                    44,
+                    44
+                  ],
+                  [
+                    62,
+                    62
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/3",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E006",
+                "inclusive_physical_ranges": [
+                  [
+                    30,
+                    30
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/5",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "E007",
+                "inclusive_physical_ranges": [
+                  [
+                    20,
+                    28
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/4",
+                "own_grade": "WHOLE_MAINTAINED_NEW_PERSONAL_RECEIVING",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              },
+              {
+                "source_id": "C004",
+                "inclusive_physical_ranges": [
+                  [
+                    49,
+                    49
+                  ]
+                ],
+                "SOURCE_pointer": "/source_table/1",
+                "own_grade": "WHOLE_MAINTAINED_PRIOR_OWN_REUSE",
+                "receiving": "SAME_AUTHOR_OWN_PRIOR333_VERIFIED_REUSE_NOT_ROOT_OR_OTHER_AUTHOR_COURSE"
+              }
+            ]
+          }
+        ],
+        "all11_character_dimensions": [
+          {
+            "dimension": 1,
+            "name": "Core thesis",
+            "paragraph_scope": "PNP001/002/009/018/020",
+            "own_judgment": "Namedopponent,representedgesture and qualifiedcare produce a particular person-question under unequal access. No complete moral essence replaces the mixed evidence."
+          },
+          {
+            "dimension": 2,
+            "name": "Longitudinal arc",
+            "paragraph_scope": "PNP008/014–017/020",
+            "own_judgment": "A local encounter-to-report sequence changes reader access; no full life transformation,death,rupture or repair is fabricated."
+          },
+          {
+            "dimension": 3,
+            "name": "Public/private self",
+            "paragraph_scope": "PNP002/004/006/010–013/016/019",
+            "own_judgment": "Public naming,system reports and qualified inwardrequest provide different access. Complete goals,implicit needs,fears,wounds/private memories are not authenticated beyond these modes."
+          },
+          {
+            "dimension": 4,
+            "name": "Institution/school/club role",
+            "paragraph_scope": "PNP004/017/019",
+            "own_judgment": "Teacher/opponent appears in a control confrontation among other actors; no complete school/club/rank/controller biography. Situating role doesnot assign every operation to him."
+          },
+          {
+            "dimension": 5,
+            "name": "Ordinary life and intrinsic goods",
+            "paragraph_scope": "PNP009/011/012/020",
+            "own_judgment": "Recipient-directed care can matter without a guaranteed result,while hobbies/meals/unpressuredbaseline remain unavailable. Sparse evidence is neither fabricated nor excluded."
+          },
+          {
+            "dimension": 6,
+            "name": "Crisis behavior/competence/power",
+            "paragraph_scope": "PNP005/006/008/014/015/018",
+            "own_judgment": "Clear gesture,uncertain threats,reportedgift/danger retain different action grades. No activation/effect/victor/cost/safety/clinical mechanism or completed sacrifice."
+          },
+          {
+            "dimension": 7,
+            "name": "Sensei counterpart relation",
+            "paragraph_scope": "PNP003/007/010/015/019",
+            "own_judgment": "Biometric/participant counterpart support and hostile Shiroko’s alleged own-teacher killing are different warrants. Truth and teacher identification remain unproved; currentSensei trust stays his,firstOS repeated-choice continuity stays her interpretation,not numericalidentity or symmetric history."
+          },
+          {
+            "dimension": 8,
+            "name": "Major recipient/peer relations",
+            "paragraph_scope": "PNP008–012/015/016/020",
+            "own_judgment": "AlternateShiroko gift/request context and OS trust interpretation are central but markers limited; Arona/Plana naming is their separate relation,not definite Prenapates motive or fate."
+          },
+          {
+            "dimension": 9,
+            "name": "Language/voice/register",
+            "paragraph_scope": "PNP006/011/013/016",
+            "own_judgment": "Sharedteacher/OS labels,adjacenttags and inwardrequest constrain attribution. Written contextualmode only; no new native/performed/visual course or solvedspeakerhistory."
+          },
+          {
+            "dimension": 10,
+            "name": "Competing readings/counterevidence",
+            "paragraph_scope": "PNP006–012/014/016/018/019",
+            "own_judgment": "Eight serious rivals retain partial warrants and contrary cases. Alleged past killing now gives the body question a concrete testimony basis without diagnosis; OS repeat-choice motif supports asking about care/entrustment without proving a complete plan. No imported fate or erased qualified care."
+          },
+          {
+            "dimension": 11,
+            "name": "Evidence route and source-class dependence",
+            "paragraph_scope": "PNP002/003/008/013/017/020",
+            "own_judgment": "Own5WHOLE250+V100SELECTED83 at exactcurrent same-reader pins; overlapping maintained accounts not independent events or primary64. ConditionalE016 remainsunopened because no stronger exactearlyclaim isneeded."
+          }
+        ],
+        "scope": "Existinghome23/P3-CHAR-M029/P3-M029,V100;A201 same duty;notnamed;no source/count/identity/model/publication.",
+        "mode_rule": "A bodycitation gives maintainedphysicalscope,not new underlyingprimary/native/raw/AV access. Contextual teacher/recipient and distinctendpoints remainqualifications rather than an invented complete biography.",
+        "finite_V2_scope": {
+          "author": "/root/sumire_v2_finite_qa",
+          "UTC": "2026-11-04T15:29:07.348777+00:00",
+          "only_changed_literal_ids": [
+            "PNP002",
+            "PNP003",
+            "PNP005",
+            "PNP010",
+            "PNP019"
+          ],
+          "old_body_bytes": 14135,
+          "old_body_sha256": "0033d5cd7268d6f54c84521e9a0f01eb03c840e92743c11851252e07b392c8ae",
+          "new_body_bytes": 14965,
+          "new_body_sha256": "5a95355e7c44e0ddfb39bdf9916a62b87527405c4c1d1546a2ab70ad7af6536e",
+          "source_qualification": "Current SOURCE finite_V2_actor_mode_qualification governs added claim details; original own333 source grades/actor referent unchanged.",
+          "old_scope": "Full frozen original map and changed old intellectual fields retained under exact original pins/prewrite typed inverses; no oldQA relabeling."
+        }
+      }
+    }
+  },
+  "operative_current_mode_and_grade_routes": {
+    "source_base": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "JSON_pointer": "/dated_records/A02/original_value"
+    },
+    "finite_current_qualification": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "JSON_pointer": "/dated_records/V03/original_value/finite_V2_actor_mode_qualification"
+    },
+    "effective_V100165_grade": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/Q10/original_value"
+    },
+    "precedence": "Full V03 current finite actor/mode qualification and Q10 effective SELECTED83 govern reuse. Old original map/source/approval/grade fields remain dated, not unqualified current contrary meanings. Root actually adopted the prepared public6 under RA02; this canonical-metadata C candidate still requires different metadataQA and actual Root derivative adoption before any persistence or publication."
+  },
+  "current_public_paragraph_geometry": [
+    {
+      "paragraph_id": "PNP001",
+      "physical_start_line": 21,
+      "physical_end_line": 21,
+      "UTF8_span_excluding_LF": [
+        974,
+        1715
+      ],
+      "literal_UTF8_bytes": 741,
+      "literal_sha256": "cab70a65a04b91834fd224190ef36bfc19aae563e8dafee227e1095d71d47bd4",
+      "current_map_pointer": "/dated_records/V04/original_value/paragraphs/0",
+      "dated_original_map_pointer": "/dated_records/A03/original_value/paragraphs/0"
+    },
+    {
+      "paragraph_id": "PNP002",
+      "physical_start_line": 23,
+      "physical_end_line": 23,
+      "UTF8_span_excluding_LF": [
+        1717,
+        2468
+      ],
+      "literal_UTF8_bytes": 751,
+      "literal_sha256": "3ab0708eafe1fe7312bbc9b2e15438af5ff579f0509a8b91dfe7e7a483940e1f",
+      "current_map_pointer": "/dated_records/V04/original_value/paragraphs/1",
+      "dated_original_map_pointer": "/dated_records/A03/original_value/paragraphs/1"
+    },
+    {
+      "paragraph_id": "PNP003",
+      "physical_start_line": 25,
+      "physical_end_line": 25,
+      "UTF8_span_excluding_LF": [
+        2470,
+        3360
+      ],
+      "literal_UTF8_bytes": 890,
+      "literal_sha256": "b0141a3cafabd164dc97a353feb598897e082ad3e432d4f3ee69672084beb3f3",
+      "current_map_pointer": "/dated_records/V04/original_value/paragraphs/2",
+      "dated_original_map_pointer": "/dated_records/A03/original_value/paragraphs/2"
+    },
+    {
+      "paragraph_id": "PNP004",
+      "physical_start_line": 27,
+      "physical_end_line": 27,
+      "UTF8_span_excluding_LF": [
+        3362,
+        3996
+      ],
+      "literal_UTF8_bytes": 634,
+      "literal_sha256": "fd6dd5e99b517165a449edd3a29187f27db5d2b369bcb2ca85f6fb3f9175a1d2",
+      "current_map_pointer": "/dated_records/V04/original_value/paragraphs/3",
+      "dated_original_map_pointer": "/dated_records/A03/original_value/paragraphs/3"
+    },
+    {
+      "paragraph_id": "PNP005",
+      "physical_start_line": 31,
+      "physical_end_line": 31,
+      "UTF8_span_excluding_LF": [
+        4053,
+        4709
+      ],
+      "literal_UTF8_bytes": 656,
+      "literal_sha256": "004d17a3d5413fa225a620252019ec78f076436afb24397a1849aa942bc71907",
+      "current_map_pointer": "/dated_records/V04/original_value/paragraphs/4",
+      "dated_original_map_pointer": "/dated_records/A03/original_value/paragraphs/4"
+    },
+    {
+      "paragraph_id": "PNP006",
+      "physical_start_line": 33,
+      "physical_end_line": 33,
+      "UTF8_span_excluding_LF": [
+        4711,
+        5354
+      ],
+      "literal_UTF8_bytes": 643,
+      "literal_sha256": "c538deed8ff0dae8031452be4a5756e9cf0bb8b63a442e8c8b90ee3810b44999",
+      "current_map_pointer": "/dated_records/V04/original_value/paragraphs/5",
+      "dated_original_map_pointer": "/dated_records/A03/original_value/paragraphs/5"
+    },
+    {
+      "paragraph_id": "PNP007",
+      "physical_start_line": 35,
+      "physical_end_line": 35,
+      "UTF8_span_excluding_LF": [
+        5356,
+        5949
+      ],
+      "literal_UTF8_bytes": 593,
+      "literal_sha256": "49842270ef1bc910ef83649950aa0427fbde8b9f4cf14299ff98fdd2c651e7bc",
+      "current_map_pointer": "/dated_records/V04/original_value/paragraphs/6",
+      "dated_original_map_pointer": "/dated_records/A03/original_value/paragraphs/6"
+    },
+    {
+      "paragraph_id": "PNP008",
+      "physical_start_line": 39,
+      "physical_end_line": 39,
+      "UTF8_span_excluding_LF": [
+        5988,
+        6599
+      ],
+      "literal_UTF8_bytes": 611,
+      "literal_sha256": "f273330148e07b3bc5dfecc0952448dbe1176d3606e7fc82f18b31a7ad6527fb",
+      "current_map_pointer": "/dated_records/V04/original_value/paragraphs/7",
+      "dated_original_map_pointer": "/dated_records/A03/original_value/paragraphs/7"
+    },
+    {
+      "paragraph_id": "PNP009",
+      "physical_start_line": 41,
+      "physical_end_line": 41,
+      "UTF8_span_excluding_LF": [
+        6601,
+        7232
+      ],
+      "literal_UTF8_bytes": 631,
+      "literal_sha256": "9a53942f8538f364ce092b94aa4869d610cdb8a9bcb7fd93c5e800d80ee3ab14",
+      "current_map_pointer": "/dated_records/V04/original_value/paragraphs/8",
+      "dated_original_map_pointer": "/dated_records/A03/original_value/paragraphs/8"
+    },
+    {
+      "paragraph_id": "PNP010",
+      "physical_start_line": 43,
+      "physical_end_line": 43,
+      "UTF8_span_excluding_LF": [
+        7234,
+        8101
+      ],
+      "literal_UTF8_bytes": 867,
+      "literal_sha256": "c34d09072516a730f5f1e1633a18502631e1b6cb4850748162abbbd79ad0e092",
+      "current_map_pointer": "/dated_records/V04/original_value/paragraphs/9",
+      "dated_original_map_pointer": "/dated_records/A03/original_value/paragraphs/9"
+    },
+    {
+      "paragraph_id": "PNP011",
+      "physical_start_line": 45,
+      "physical_end_line": 45,
+      "UTF8_span_excluding_LF": [
+        8103,
+        8727
+      ],
+      "literal_UTF8_bytes": 624,
+      "literal_sha256": "ffb457f08038987302b2d6aef0c443b1eaa3f6230843fba9bbfa961d141e7400",
+      "current_map_pointer": "/dated_records/V04/original_value/paragraphs/10",
+      "dated_original_map_pointer": "/dated_records/A03/original_value/paragraphs/10"
+    },
+    {
+      "paragraph_id": "PNP012",
+      "physical_start_line": 47,
+      "physical_end_line": 47,
+      "UTF8_span_excluding_LF": [
+        8729,
+        9415
+      ],
+      "literal_UTF8_bytes": 686,
+      "literal_sha256": "bdcab628860680a07b885508779510a24403bb1d288c4a52fd9ab743c29d027f",
+      "current_map_pointer": "/dated_records/V04/original_value/paragraphs/11",
+      "dated_original_map_pointer": "/dated_records/A03/original_value/paragraphs/11"
+    },
+    {
+      "paragraph_id": "PNP013",
+      "physical_start_line": 49,
+      "physical_end_line": 49,
+      "UTF8_span_excluding_LF": [
+        9417,
+        10125
+      ],
+      "literal_UTF8_bytes": 708,
+      "literal_sha256": "2ccd126c077d0c67f3b1b8785d41b3a0b0acc996d73615cdff77c6b51e88f6ec",
+      "current_map_pointer": "/dated_records/V04/original_value/paragraphs/12",
+      "dated_original_map_pointer": "/dated_records/A03/original_value/paragraphs/12"
+    },
+    {
+      "paragraph_id": "PNP014",
+      "physical_start_line": 53,
+      "physical_end_line": 53,
+      "UTF8_span_excluding_LF": [
+        10173,
+        10813
+      ],
+      "literal_UTF8_bytes": 640,
+      "literal_sha256": "dc8d8e59fbd168e2c19f4fb8638ba5e33d09e80675d03c96cf11806d14e14f05",
+      "current_map_pointer": "/dated_records/V04/original_value/paragraphs/13",
+      "dated_original_map_pointer": "/dated_records/A03/original_value/paragraphs/13"
+    },
+    {
+      "paragraph_id": "PNP015",
+      "physical_start_line": 55,
+      "physical_end_line": 55,
+      "UTF8_span_excluding_LF": [
+        10815,
+        11440
+      ],
+      "literal_UTF8_bytes": 625,
+      "literal_sha256": "01c637dcb6651daaaeb998aa1de6a7757767cbe8611a2734ff1c6cf33e98f52d",
+      "current_map_pointer": "/dated_records/V04/original_value/paragraphs/14",
+      "dated_original_map_pointer": "/dated_records/A03/original_value/paragraphs/14"
+    },
+    {
+      "paragraph_id": "PNP016",
+      "physical_start_line": 57,
+      "physical_end_line": 57,
+      "UTF8_span_excluding_LF": [
+        11442,
+        12024
+      ],
+      "literal_UTF8_bytes": 582,
+      "literal_sha256": "14dfeec6b6af4b1351f715a07bec3a9c98886c05811d3156b078c2b2b0bc058e",
+      "current_map_pointer": "/dated_records/V04/original_value/paragraphs/15",
+      "dated_original_map_pointer": "/dated_records/A03/original_value/paragraphs/15"
+    },
+    {
+      "paragraph_id": "PNP017",
+      "physical_start_line": 59,
+      "physical_end_line": 59,
+      "UTF8_span_excluding_LF": [
+        12026,
+        12742
+      ],
+      "literal_UTF8_bytes": 716,
+      "literal_sha256": "43a74d4c207fbb2335123132bcde65efd33094da89961a3c5a2bc2d47b7f8eff",
+      "current_map_pointer": "/dated_records/V04/original_value/paragraphs/16",
+      "dated_original_map_pointer": "/dated_records/A03/original_value/paragraphs/16"
+    },
+    {
+      "paragraph_id": "PNP018",
+      "physical_start_line": 63,
+      "physical_end_line": 63,
+      "UTF8_span_excluding_LF": [
+        12794,
+        13442
+      ],
+      "literal_UTF8_bytes": 648,
+      "literal_sha256": "6e1c3f48546f27040c6b3a01211e63f307d92e1052b4f4b2cc55749f28a33d70",
+      "current_map_pointer": "/dated_records/V04/original_value/paragraphs/17",
+      "dated_original_map_pointer": "/dated_records/A03/original_value/paragraphs/17"
+    },
+    {
+      "paragraph_id": "PNP019",
+      "physical_start_line": 65,
+      "physical_end_line": 65,
+      "UTF8_span_excluding_LF": [
+        13444,
+        14418
+      ],
+      "literal_UTF8_bytes": 974,
+      "literal_sha256": "5533e6123ccd3238bdb9acb3871d25fff6d585bc7b7bd852bb2d638ad46ed2b6",
+      "current_map_pointer": "/dated_records/V04/original_value/paragraphs/18",
+      "dated_original_map_pointer": "/dated_records/A03/original_value/paragraphs/18"
+    },
+    {
+      "paragraph_id": "PNP020",
+      "physical_start_line": 67,
+      "physical_end_line": 67,
+      "UTF8_span_excluding_LF": [
+        14420,
+        15049
+      ],
+      "literal_UTF8_bytes": 629,
+      "literal_sha256": "6262473e2e44ce9eff230749d65e5dd3fe0adb82104bcea8f649a1367d03ba9c",
+      "current_map_pointer": "/dated_records/V04/original_value/paragraphs/19",
+      "dated_original_map_pointer": "/dated_records/A03/original_value/paragraphs/19"
+    }
+  ]
+,"dated_preparation_metadata_snapshot":{
+  "stage": "Literal prior public-form preparation metadata before actual Root prepared-byte adoption; historical, not current contrary control.",
+  "values": {
+    "generation": "V1",
+    "status": "draft_noncurrent",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": true,
+    "scope": "Existing home23/P3-CHAR-M029/P3-M029/A201same duty;V100;notnamed; distinct from current Sensei.",
+    "lifecycle_state": "C_ONLY_PUBLIC_FORM_PREPARATION_FROM_ACTUALLY_ADOPTED_FINITE_PLAN;DIFFERENT_PUBLIC_QA_AND_ROOT_PUBLIC_BYTE_ADOPTION_PENDING",
+    "composer": "/root/ayame_p015_correction_plan",
+    "composer_role": "Former distinct finite plan reviewer now public-form composer; no Prenapates underlying source course or literary-body approval; not future different public QA or Root adopter.",
+    "rights_and_class": "Project-authored analytical/provenance/navigation text and bounded existing maintained-analysis warrants; no new primary/native/raw/AV/source-media rights. Source copies/helpers/execution queues/inverses remain private.",
+    "role": "SOURCE",
+    "class_need_before_size": "Source/mode/grade authority, full old/current paragraph purposes/evidence and five dated old literary variants.",
+    "current_components": [
+      {
+        "role": "BODY",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+        "bytes": 15032,
+        "sha256": "2538cccf38a3500f7d6fd688c766de60c1ed1f1ed976757f6858db05a1c1304b",
+        "kind": "CURRENT_GENERATED_COMPONENT_BYTES_ONLY;not dated locator navigation"
+      }
+    ]
+  },
+  "operative_current_mode_and_grade_routes": {
+    "source_base": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "JSON_pointer": "/dated_records/A02/original_value"
+    },
+    "finite_current_qualification": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "JSON_pointer": "/dated_records/V03/original_value/finite_V2_actor_mode_qualification"
+    },
+    "effective_V100165_grade": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/Q10/original_value"
+    },
+    "precedence": "Full V03 current finite actor/mode qualification and Q10 effective SELECTED83 govern reuse. Old original map/source/approval/grade fields remain dated, not unqualified current contrary meanings. No current-canonical authority is granted by this draft."
+  }
+},"current_metadata_control":{
+  "authorizer": "/root",
+  "recorder": "/root/sumire_shared7_finite_plan",
+  "basis": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+    "JSON_pointer": "/dated_records/RA02/original_value"
+  },
+  "meaning": "Root actually adopted prepared public6 and explicitly commissioned this same-six metadata derivative. Original composer/preparation fields and historical pending public_byte_adoption remain dated; canonical metadata here is a current-eligible candidate pending different metadataQA and actual Root derivative adoption.",
+  "prepared_public6_adopted": true,
+  "different_metadata_QA": "PENDING",
+  "Root_actual_derivative_adoption": "PENDING",
+  "installed": false,
+  "published_commit": null,
+  "count_credit": 0,
+  "source_course_credit": 0
+}}

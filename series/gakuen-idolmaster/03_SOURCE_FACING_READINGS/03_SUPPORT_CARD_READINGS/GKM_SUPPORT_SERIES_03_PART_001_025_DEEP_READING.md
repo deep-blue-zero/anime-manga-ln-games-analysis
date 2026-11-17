@@ -12,12 +12,17 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-24'
+version: "1.1"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15: REVISE (wording only) of every masculine pronoun for Mao to she/her with a pronoun method note (GKM-SAA-013/031); STRENGTHEN of §13 with an inference-labelled reading of Misuzu's two unnamed estranged friends, dissent recorded (GKM-SAA-158); REVISE of the §25 enrolment-reason locator (HSCA-128) and of the §26 prediction and part-order wording (HSCA-115)."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM SUPPORT SERIES 03 PART 001–025 DEEP READING
+
+> **Revision record — v1.1, 2026-11-15 (source-to-analysis audit corrections).** (1) REVISE, wording only, GKM-SAA-013 / GKM-SAA-031: all 17 masculine pronouns for Mao, on 8 lines in §7, §9, §24 and §29, now read she/her, or name Mao or the other participant where a pronoun would be ambiguous; no analytical claim changes. A pronoun method note is added to §0. (2) STRENGTHEN, GKM-SAA-158 (P3, owner-adjudicated, dissent preserved): §13 records that Misuzu names unnamed estranged friends in both class 1-1 and class 1-3 (`adv_csprt-3-0011_01` L81, L107–L119), with Temari and Kaya Rinha as inference-labelled probable referents and the HSCA-119 dissent recorded. The earlier §13 clause read “openly acknowledging that work gives her a non-awkward reason to speak to Temari”. (3) REVISE, HSCA-128: the enrolment-reason locator moves from §25 (`story_0023`) to §5 (`adv_csprt-3-0003_02` L69). (4) REVISE, HSCA-115: §26 now gives the prediction to Saki only, reads Kotone's emphasised line as ironic alignment with Temari, and notes that part 2 precedes part 1 in content. Earlier wording is kept in each section.
 
 ## 0. Scope, method, and principal finding
 
@@ -28,6 +33,8 @@ The architecture-defined source is `support_series_3_part_001-025.dialogue.txt`.
 Support-story numbering is not treated as global chronology. Three parts grouped under the same story ID are related evidence surfaces, not automatically adjacent moments. Stronger continuity placement is used only where the dialogue itself supplies an explicit school-year, seasonal, institutional, or remembered-history anchor.
 
 The A2 dialogue extraction is the reading surface. A1 raw paths remain the wording authority. No card illustration, facial animation, camera state, costume rendering, or vocal performance is inferred from text alone. Performance-sensitive ambiguities are routed to the audiovisual queue.
+
+**Pronoun convention for Mao (GKM-SAA-013 / GKM-SAA-031, 2026-11-15).** Mao's ボク and prince register are not grounds for masculine English pronouns; pronouns follow the character, not the persona (see MAO-C14). Mao describes herself as a girl (`adv_dear_amao_003` L81; `adv_cidol-amao-3-015_02` L147). This reading therefore uses she/her for Mao, and names Mao where a pronoun could be confused with another person in the scene. Quoted Japanese is unchanged.
 
 ### Principal tranche thesis — care becomes social infrastructure
 
@@ -203,6 +210,8 @@ Saki uses a day off to test Ume's makeup ability, explicitly linking the lesson 
 
 A city outing then reverses expertise. Saki rarely leaves the school grounds and initially treats the trip as geographical reconnaissance. Ume knows the surrounding city better and becomes guide. The humor culminates when Saki, normally equipment-focused, asks Ume to choose cute clothes for her.
 
+During the outing Ume remarks that the school's training facilities have everything the sisters used at home, and Saki answers that this was one of the reasons she decided to enrol (`adv_csprt-3-0003_02` L57–L69). This locator was previously given under §25 (`story_0023`); it is moved here by HSCA-128.
+
 The third part introduces China. China praises Saki extravagantly after Saki rescues her from Ume's dangerous dodgeball and calls her `咲季お姉さま`. Saki loves the sound of it. Ume becomes immediately jealous and demands another match.
 
 ### Claim transitions
@@ -237,11 +246,11 @@ Part 3 returns to waking behavior. Ume tries to train during a mandatory complet
 
 # 7. `story_0005` — Mao and Rinami: same-year origins, different public callings
 
-This story supplies a particularly useful first-year historical correction. Rinami remembers becoming lost while looking for the dorm and encountering Mao, whom she assumes is a cool senior. Mao is in fact another new student. The error matters because Mao's prince-coded social performance was already functioning at first contact: he sees someone confused, adopts a composed helping role, and escorts her.
+This story supplies a particularly useful first-year historical correction. Rinami remembers becoming lost while looking for the dorm and encountering Mao, whom she assumes is a cool senior. Mao is in fact another new student. The error matters because Mao's prince-coded social performance was already functioning at first contact: Mao sees someone confused, adopts a composed helping role, and escorts Rinami.
 
 The second part shows their mature third-year seniority. Rinami finds a crying newcomer who cannot keep up with group dance. She does not offer false reassurance. She discloses her own unit failure and being removed, tells the girl it is acceptable to cry, and reframes grief as compatible with later strength. Mao adds that the capacity to mourn one's own inadequacy is a first step and that Hatsuboshi will keep supporting the student so long as the student does not give up.
 
-Part 3 reveals a durable difference in self-conception. Rinami asks Mao to help student council. Mao declines: he respects Rinami's service but admits that he wants the spotlight and audience. Rinami, by contrast, says she likes being an idol **and** likes supporting people who want to become idols.
+Part 3 reveals a durable difference in self-conception. Rinami asks Mao to help student council. Mao declines: she respects Rinami's service but admits that she wants the spotlight and audience. Rinami, by contrast, says she likes being an idol **and** likes supporting people who want to become idols.
 
 ### Claim transitions
 
@@ -274,17 +283,17 @@ Rinami's idol charisma should not be modeled solely through maternal/older-siste
 
 # 9. `story_0007` — Lilja and Mao: princehood as orientation technology
 
-At a dorm welcome gathering, Lilja is overwhelmed by the crowd and without Sumika. Mao notices the isolated newcomer, offers a drink, introduces himself as dorm leader, infers her Nordic origin correctly, and gives her a stable conversational frame. Lilja leaves thinking he is a prince-like senior.
+At a dorm welcome gathering, Lilja is overwhelmed by the crowd and without Sumika. Mao notices the isolated newcomer, offers a drink, introduces herself as dorm leader, infers Lilja's Nordic origin correctly, and gives Lilja a stable conversational frame. Lilja leaves thinking Mao is a prince-like senior.
 
 Part 2 repeats the mechanism spatially. Lilja gets lost, Mao locates the problem, corrects her mistaken building, offers to carry her if necessary, and finally escorts her. Princehood here is not merely image—it is a **procedure for reducing another person's uncertainty**.
 
-Part 3 makes the asymmetry more interesting. Lilja is overtraining because she believes she has less talent than everyone else. Mao tells her she is a first-year student who should still be exploring possibility. When Lilja asks whether Mao also worries, he admits he does, then retreats into humor about height. Lilja reassures him that he is a perfect prince; Mao answers that at least in front of juniors, he should remain the perfect prince he is supposed to be.
+Part 3 makes the asymmetry more interesting. Lilja is overtraining because she believes she has less talent than everyone else. Mao tells her she is a first-year student who should still be exploring possibility. When Lilja asks whether Mao also worries, Mao admits she does, then retreats into humor about height. Lilja reassures Mao that Mao is a perfect prince; Mao answers that at least in front of juniors, she should remain the perfect prince she is supposed to be.
 
 ### Claim transitions
 
 - **Mao ↔ Lilja — PROMOTE:** Mao is one of Lilja's earliest senior anchors at Hatsuboshi.
 - **Mao — STRENGTHEN:** “prince” behavior is a service protocol that provides orientation, safety, and composure to juniors.
-- **Mao — STRENGTHEN:** senior composure also contains a burden—junior admiration can make him feel responsible for maintaining the role while he remains anxious himself.
+- **Mao — STRENGTHEN:** senior composure also contains a burden—junior admiration can make her feel responsible for maintaining the role while she remains anxious herself.
 - **Lilja — STRENGTHEN:** self-assessed talent deficit, not lack of desire, drives dangerous overwork.
 
 ---
@@ -347,7 +356,9 @@ Part 3 closes with shared post-training exhaustion. China suddenly calls after t
 
 # 13. `story_0011` — Sena's production system contains both overreach and restraint
 
-Part 1 uses student-council work to create a legitimate route between estranged people. Ume cannot collect input from absent students. Misuzu volunteers to take the classes containing people important to her, openly acknowledging that work gives her a non-awkward reason to speak to Temari. This is a strong example of institution as relational infrastructure.
+Part 1 uses student-council work to create a legitimate route between estranged people. Ume cannot collect input from absent students. Misuzu volunteers to take the classes containing people important to her, openly acknowledging that work gives her a non-awkward reason to speak to the estranged friends in those classes (probably Temari and Rinha; see the note below). This is a strong example of institution as relational infrastructure.
+
+**Two estranged friends, neither named (GKM-SAA-158; P3, inference, dissent recorded).** Misuzu takes classes 1-1 and 1-3 (`adv_csprt-3-0011_01` L81) and says she has an important friend in each, with whom she has long been estranged and has had no opening to make up (L107, L112); council work gives her a reason to speak to them (L119). She names neither. The class 1-1 friend is probably Temari, whom Misuzu elsewhere places in 1年1組 (`adv_cidol-hmsz-3-018_01` L107). The class 1-3 friend is probably Kaya Rinha, whom other routes identify as formerly of class 1-3 (`adv_dear_atbm_012` L445; `adv_dear_hume_012` L151); Misuzu's only documented estrangements are with the SyngUp! pair. Both identifications are inferences, and the Rinha one rests entirely on corroboration from outside this scene. HSCA-119 disputes the Rinha identification on transfer timing; the 2026-11-15 audit adopted it at P3 with this inference label, and the dissent is recorded here. On this reading the scene sits relationally before the Temari reconciliation and while Rinha was still enrolled in class 1-3; it does not fix a calendar point.
 
 Part 2 is one of the best constraints on the “Sena always overrides consent” model. Sena asks Misuzu why she accepted recruitment. Misuzu says the answer is too troublesome to explain. Sena does **not** force disclosure. Instead she says she will improve as producer until Misuzu wants to tell her voluntarily. Misuzu thanks Sena for valuing her current self.
 
@@ -357,7 +368,7 @@ Part 3 anchors Sena's recruitment of Ume. Ume admits she did not know who Sena w
 
 - **Sena — REVISE/STRENGTHEN:** her production style includes genuine consent-sensitive restraint in some domains; overreach is situational rather than total.
 - **Sena — STRENGTHEN:** self-described talent perception is highly quantified/visualized (`数値で視える`). Treat this as Sena's phenomenological claim, not literal supernatural fact unless independently established.
-- **Misuzu ↔ Temari — STRENGTHEN:** institutional duty can provide an acceptable bridge across relational estrangement.
+- **Misuzu ↔ Temari — STRENGTHEN:** institutional duty can provide an acceptable bridge across relational estrangement. (Temari is the probable, unnamed class 1-1 friend; GKM-SAA-158.)
 - **Sena ↔ Ume — STRENGTHEN:** Ume's trust began before complete information, through intuitive confidence in developmental benefit.
 
 ---
@@ -568,9 +579,9 @@ Part 3 is a dream. Misuzu dreams that Temari wakes her from rain-induced sleep a
 
 # 24. `story_0022` — Mao and Kotone: princehood becomes labor-sensitive care
 
-Kotone surprises Mao with the speed and quality of dorm cleaning. She explains that cleaning is part of almost every job and that she helped with housework because of younger siblings. Mao explicitly updates his assessment of her.
+Kotone surprises Mao with the speed and quality of dorm cleaning. She explains that cleaning is part of almost every job and that she helped with housework because of younger siblings. Mao explicitly updates her assessment of Kotone.
 
-Part 2 gives a classic prince intervention. Kotone is caught in a sudden downpour before work. Mao has an umbrella because a composed prince plans for contingencies. When Kotone refuses to take it, Mao gives it anyway because he cannot leave a junior soaked on the way to a job. Kotone is left recognizing the practical reality behind the school's `リトルプリンス` image.
+Part 2 gives a classic prince intervention. Kotone is caught in a sudden downpour before work. Mao has an umbrella because a composed prince plans for contingencies. When Kotone refuses to take it, Mao gives it anyway because she cannot leave a junior soaked on the way to a job. Kotone is left recognizing the practical reality behind the school's `リトルプリンス` image.
 
 Part 3 deepens the same mechanism. Kotone falls asleep while cleaning because lessons plus work are affecting her. Mao identifies the job strain, frames the resulting impairment as a dorm-leader concern, takes over the cleaning, and physically carries Kotone toward her room when she protests.
 
@@ -590,7 +601,7 @@ Do not romanticize the princess carry into proof of romance. The text frames it 
 
 Part 1 uses an umbrella to produce sibling role-play. Ume says she will act as Saki's boyfriend; Saki argues that the umbrella-holder should be the boyfriend and insists on the role herself. Both say romance is distant from them because idol life leaves little time. Treat this as a current attitude in a comic sibling scene, not a universal statement about the franchise's romantic ontology.
 
-Part 2 is more structurally important. The sisters are delighted by Hatsuboshi's training equipment. Saki says access to such facilities was one reason she chose the school. Their home also had training equipment, but not at this level. Saki's father has asked her to video equipment and submit an opinion report. Crucially, when Ume wants to use a machine immediately, Saki stops her because the trainer has not yet arrived and the activity would deviate from the planned program.
+Part 2 is more structurally important. The sisters are delighted by Hatsuboshi's training equipment. Their home also had training equipment, but not at this level: Saki says even their house did not have facilities like these (`adv_csprt-3-0023_02` L46). (Locator corrected 2026-11-15, HSCA-128: Saki's statement that the facilities were one reason she chose the school is in `story_0003` part 2, L69, and is now recorded in §5. Earlier wording here: “Saki says access to such facilities was one reason she chose the school.”) Saki's father has asked her to video equipment and submit an opinion report. Crucially, when Ume wants to use a machine immediately, Saki stops her because the trainer has not yet arrived and the activity would deviate from the planned program.
 
 Part 3 shows both sisters talking about appearance without undermining athletic identity. Ume has become more fashion-conscious through friends. Saki tells Ume she is cute, then the two joke about swapping bodies to wear clothes each thinks would suit the other.
 
@@ -607,9 +618,9 @@ Part 3 shows both sisters talking about appearance without undermining athletic 
 
 Part 1 shows Saki tutoring Kotone for a retest. Saki praises every correct answer because she assumes praise increases motivation; Kotone admits it works but finds it embarrassing between classmates. More importantly, Kotone hesitates to ask for help because she cannot repay it. Saki rejects immediate reciprocity: if Saki is ever in trouble, Kotone will help, and people chasing the same dream should support one another.
 
-Temari verbally refuses the mutual-aid principle. Saki and Kotone both correctly predict that she would help in a real crisis.
+Temari verbally refuses the mutual-aid principle (`adv_csprt-3-0024_01` L126, L141). Saki predicts that Temari would help in a real crisis (L135). Kotone's emphasised line, `手毬とまったく同じ気持ち` (L148), ironically sides with Temari's refusal rather than predicting how Temari would behave, although it can also be heard as “I would deny it too, and still help.” (Revised 2026-11-15, HSCA-115. Earlier wording: “Saki and Kotone both correctly predict that she would help in a real crisis.”)
 
-Part 2 shows the same problem becoming dangerous under Sena's attention. Kotone has not told anyone about failing scores, yet Sena already knows and offers private tutoring in her room while calling herself Kotone's fan. Kotone experiences the surveillance/access as alarming rather than supportive.
+Part 2 shows the same problem under Sena's attention. In content it precedes part 1: in part 2 Kotone has told no one yet (`_02` L97) and Saki tells her to ask for help early (L34), while in part 1 Saki scolds her for asking too late (`_01` L90) and the tutoring is already under way. The parts are therefore related surfaces, not an escalation in part order (HSCA-115; earlier wording: “Part 2 shows the same problem becoming dangerous under Sena's attention.”). Kotone has not told anyone about failing scores, yet Sena already knows and offers private tutoring in her room while calling herself Kotone's fan. Kotone experiences the surveillance/access as alarming rather than supportive.
 
 Part 3 supplies the most important corrective. Rinami identifies the material cause: Kotone's work burden is interfering with school. She names a **hardship-student relief system** and offers to investigate it together. Kotone accepts immediately.
 
@@ -698,7 +709,7 @@ The professional “wizard” role is explicitly a **performed responsibility**,
 
 ## Mao
 
-**STRENGTHEN** — princehood is a practical junior-care technology; spotlight desire is positively owned; dorm leadership gives him jurisdiction over fatigue/safety; senior image can become a burden when juniors need reassurance.
+**STRENGTHEN** — princehood is a practical junior-care technology; spotlight desire is positively owned; dorm leadership gives her jurisdiction over fatigue/safety; senior image can become a burden when juniors need reassurance.
 
 ## Lilja
 

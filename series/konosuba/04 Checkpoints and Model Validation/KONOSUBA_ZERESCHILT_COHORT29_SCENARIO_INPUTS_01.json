@@ -1,0 +1,126 @@
+{
+  "schema": "konosuba.cohort29.exact-source-informed-scenario-inputs.v1",
+  "subject": "Zereschilt",
+  "recorded_utc": "2026-10-24T03:51:09.783695+00:00",
+  "foundation_seal_sha256": "5852c534f30801c5fe468aa523f9693b71ed88f45b903fa0e51490054d8799e9",
+  "frozen_model_file": "ZERESCHILT_RECONSTRUCTION_MODEL_DRAFT_01.md",
+  "frozen_model_sha256": "150c7cf593709644029b0a2630e2ee480aff079c19dee0768167955691cbab97",
+  "source_known": true,
+  "same_informed_root_designer_responder_assessor": true,
+  "all_opposing_inputs_and_expectations_visible": true,
+  "external_model_call": false,
+  "pairs": [
+    {
+      "pair_id": "ZS-H01",
+      "primary_rule": "ZS-R01",
+      "category": "resource state/bargaining",
+      "common_context": "A visitor addresses Zereschilt by his recognized title and asks for a small clipping of his manifested nail. It will hurt briefly but cause no lasting disability or life loss. The visitor offers a moderate payment and will accept a refusal. There is no threat, child, holy attacker or emergency. No one has offered another benefit. Show his next choice and reply; do not complete the visitor response.",
+      "qualitative_pre_response_expectation": "Resource sufficiency changes. A can seek a different exchange; B gives material security real value. Neither condition forces agreement or licenses a completed job.",
+      "design_and_rival_limits": "Explicit utility cue and generic bargaining dominate. Exact private emotional price is unknown; inventing a new emotional taxonomy or instant painless nail violates the setup."
+    },
+    {
+      "pair_id": "ZS-H02",
+      "primary_rule": "ZS-R02",
+      "category": "fear/danger and typed capacity",
+      "common_context": "At the shop doorway Zereschilt is alone, with an unlocked rear exit and an alarm he can ring. Vanir is away and cannot restore him here. Wiz is already safe outside. One aggressor is approaching him. No customers or child require rescue. Show his next action and speech, ending before the aggressor responds.",
+      "qualitative_pre_response_expectation": "Only the specified opponent capability changes,with exits and absent revival fixed. A allows competent resistance; B makes protective withdrawal/help seeking plausible. Unknown exact life count stays unknown.",
+      "design_and_rival_limits": "The threat difference is overwhelming and generic tactical caution predicts it. No result identifies a unique threshold,courage score or full combat repertoire."
+    },
+    {
+      "pair_id": "ZS-H03",
+      "primary_rule": "ZS-R03",
+      "category": "relationship repair and practical dependence",
+      "common_context": "Zereschilt needs temporary lodging. Darkness offers a modest paid shop-adjacent errand for one day and a spare room that night, with the same noncoercive terms in both versions. Sylphina and Aqua are absent. Zereschilt remembers that Darkness participated in the castle attack. He can ask, accept or decline. Show his next choice and speech, leaving her unprovided reply open.",
+      "qualitative_pre_response_expectation": "Apology changes while practical terms stay fixed. A can make local repair explicit; B may retain grievance or bargain while accepting. R03 does not require opposite employment choices.",
+      "design_and_rival_limits": "Both may accept for security,so action contrast can be nonisolating. Apology cues ordinary social reciprocity. No response proves universal pardon or permanent patronage."
+    },
+    {
+      "pair_id": "ZS-H04",
+      "primary_rule": "ZS-R04",
+      "category": "ordinary work/relationship conflict",
+      "common_context": "At the shop a quiet afternoon needs one counter attendant while Wiz and Vanir attend an outing. There is no danger or unusual pay. Zereschilt can do the work and would also enjoy the outing. Another attendant could cover if asked, but has not agreed. Show his next choice and speech; do not author the others consent or a completed substitution.",
+      "qualitative_pre_response_expectation": "Voluntary request versus revoked expectation/imposed assignment changes. Contribution may remain possible in both; objection/disappointment should not automatically become total disloyalty.",
+      "design_and_rival_limits": "Requester,prior promise and consent all change,so the contrast is not a single isolated causal variable. Generic fairness and workplace preference are strong rivals."
+    }
+  ],
+  "cases": [
+    {
+      "case_id": "ZS-H01-A",
+      "pair_id": "ZS-H01",
+      "variant": "A",
+      "exact_prompt": "Write one original English scene of 80–140 words showing Zereschilt in this explicitly hypothetical situation. Use a concrete action and natural dialogue,not an analytical explanation. Use only supplied capacities and what this character can know. End before an unprovided other-person response. This is source-informed; do not present it as a native event.\n\nA visitor addresses Zereschilt by his recognized title and asks for a small clipping of his manifested nail. It will hurt briefly but cause no lasting disability or life loss. The visitor offers a moderate payment and will accept a refusal. There is no threat, child, holy attacker or emergency. No one has offered another benefit. Show his next choice and reply; do not complete the visitor response.\n\nVariant A: He still has a secure castle, ample money and a stable place to live; he knows the payment would add little practical value.",
+      "exact_prompt_sha256": "dd741a984ecc8154814ca71b3da4d811bf16301dbcea5925f85a55cfd2af2d61",
+      "primary_rule": "ZS-R01",
+      "category": "resource state/bargaining"
+    },
+    {
+      "case_id": "ZS-H01-B",
+      "pair_id": "ZS-H01",
+      "variant": "B",
+      "exact_prompt": "Write one original English scene of 80–140 words showing Zereschilt in this explicitly hypothetical situation. Use a concrete action and natural dialogue,not an analytical explanation. Use only supplied capacities and what this character can know. End before an unprovided other-person response. This is source-informed; do not present it as a native event.\n\nA visitor addresses Zereschilt by his recognized title and asks for a small clipping of his manifested nail. It will hurt briefly but cause no lasting disability or life loss. The visitor offers a moderate payment and will accept a refusal. There is no threat, child, holy attacker or emergency. No one has offered another benefit. Show his next choice and reply; do not complete the visitor response.\n\nVariant B: He has lost the castle and money, needs a place to stay this week and has no confirmed job; the payment would cover that week.",
+      "exact_prompt_sha256": "25012df176bd99bb9bf117a374b1153c3bd3586fe577fd95f98103891ee4e7f8",
+      "primary_rule": "ZS-R01",
+      "category": "resource state/bargaining"
+    },
+    {
+      "case_id": "ZS-H02-A",
+      "pair_id": "ZS-H02",
+      "variant": "A",
+      "exact_prompt": "Write one original English scene of 80–140 words showing Zereschilt in this explicitly hypothetical situation. Use a concrete action and natural dialogue,not an analytical explanation. Use only supplied capacities and what this character can know. End before an unprovided other-person response. This is source-informed; do not present it as a native event.\n\nAt the shop doorway Zereschilt is alone, with an unlocked rear exit and an alarm he can ring. Vanir is away and cannot restore him here. Wiz is already safe outside. One aggressor is approaching him. No customers or child require rescue. Show his next action and speech, ending before the aggressor responds.\n\nVariant A: The aggressor is an ordinary unarmed looter whom he can physically hold off without serious injury; he knows this from a previous encounter.",
+      "exact_prompt_sha256": "719a9276d9233b48816f2e330fbc5f51c703b168063080df1d0444629c1b3440",
+      "primary_rule": "ZS-R02",
+      "category": "fear/danger and typed capacity"
+    },
+    {
+      "case_id": "ZS-H02-B",
+      "pair_id": "ZS-H02",
+      "variant": "B",
+      "exact_prompt": "Write one original English scene of 80–140 words showing Zereschilt in this explicitly hypothetical situation. Use a concrete action and natural dialogue,not an analytical explanation. Use only supplied capacities and what this character can know. End before an unprovided other-person response. This is source-informed; do not present it as a native event.\n\nAt the shop doorway Zereschilt is alone, with an unlocked rear exit and an alarm he can ring. Vanir is away and cannot restore him here. Wiz is already safe outside. One aggressor is approaching him. No customers or child require rescue. Show his next action and speech, ending before the aggressor responds.\n\nVariant B: The aggressor can annihilate his remaining lives with one holy strike; he recognizes the power and cannot block it.",
+      "exact_prompt_sha256": "2f8b0613f86dca1817f52aec0f98fd74768a782012e6d090fa724095aa6716a1",
+      "primary_rule": "ZS-R02",
+      "category": "fear/danger and typed capacity"
+    },
+    {
+      "case_id": "ZS-H03-A",
+      "pair_id": "ZS-H03",
+      "variant": "A",
+      "exact_prompt": "Write one original English scene of 80–140 words showing Zereschilt in this explicitly hypothetical situation. Use a concrete action and natural dialogue,not an analytical explanation. Use only supplied capacities and what this character can know. End before an unprovided other-person response. This is source-informed; do not present it as a native event.\n\nZereschilt needs temporary lodging. Darkness offers a modest paid shop-adjacent errand for one day and a spare room that night, with the same noncoercive terms in both versions. Sylphina and Aqua are absent. Zereschilt remembers that Darkness participated in the castle attack. He can ask, accept or decline. Show his next choice and speech, leaving her unprovided reply open.\n\nVariant A: Before making the offer, Darkness explicitly apologizes for her part in the attack and acknowledges that it hurt him.",
+      "exact_prompt_sha256": "31929b2964bdcb26d2bed79ccf083167d5e02d878f50421010f80e7d3d9af110",
+      "primary_rule": "ZS-R03",
+      "category": "relationship repair and practical dependence"
+    },
+    {
+      "case_id": "ZS-H03-B",
+      "pair_id": "ZS-H03",
+      "variant": "B",
+      "exact_prompt": "Write one original English scene of 80–140 words showing Zereschilt in this explicitly hypothetical situation. Use a concrete action and natural dialogue,not an analytical explanation. Use only supplied capacities and what this character can know. End before an unprovided other-person response. This is source-informed; do not present it as a native event.\n\nZereschilt needs temporary lodging. Darkness offers a modest paid shop-adjacent errand for one day and a spare room that night, with the same noncoercive terms in both versions. Sylphina and Aqua are absent. Zereschilt remembers that Darkness participated in the castle attack. He can ask, accept or decline. Show his next choice and speech, leaving her unprovided reply open.\n\nVariant B: Darkness makes the offer without mentioning the attack or apologizing.",
+      "exact_prompt_sha256": "ae67265d821f5936f2f51e0457df4ac7b4a07b4dc6a4166911f43fb1d6426300",
+      "primary_rule": "ZS-R03",
+      "category": "relationship repair and practical dependence"
+    },
+    {
+      "case_id": "ZS-H04-A",
+      "pair_id": "ZS-H04",
+      "variant": "A",
+      "exact_prompt": "Write one original English scene of 80–140 words showing Zereschilt in this explicitly hypothetical situation. Use a concrete action and natural dialogue,not an analytical explanation. Use only supplied capacities and what this character can know. End before an unprovided other-person response. This is source-informed; do not present it as a native event.\n\nAt the shop a quiet afternoon needs one counter attendant while Wiz and Vanir attend an outing. There is no danger or unusual pay. Zereschilt can do the work and would also enjoy the outing. Another attendant could cover if asked, but has not agreed. Show his next choice and speech; do not author the others consent or a completed substitution.\n\nVariant A: No plans have been promised to Zereschilt. Wiz asks whether he will volunteer this once so she can attend.",
+      "exact_prompt_sha256": "a1067b0160134a5c7447b906de3b6eb03f6c51a09574dd916238a308b8c3a153",
+      "primary_rule": "ZS-R04",
+      "category": "ordinary work/relationship conflict"
+    },
+    {
+      "case_id": "ZS-H04-B",
+      "pair_id": "ZS-H04",
+      "variant": "B",
+      "exact_prompt": "Write one original English scene of 80–140 words showing Zereschilt in this explicitly hypothetical situation. Use a concrete action and natural dialogue,not an analytical explanation. Use only supplied capacities and what this character can know. End before an unprovided other-person response. This is source-informed; do not present it as a native event.\n\nAt the shop a quiet afternoon needs one counter attendant while Wiz and Vanir attend an outing. There is no danger or unusual pay. Zereschilt can do the work and would also enjoy the outing. Another attendant could cover if asked, but has not agreed. Show his next choice and speech; do not author the others consent or a completed substitution.\n\nVariant B: The outing had been explicitly promised to Zereschilt. Vanir now assigns him the counter without consulting him.",
+      "exact_prompt_sha256": "5093eabb927d46beb6419f950b25dfad938567867824d9b4803a67497d469057",
+      "primary_rule": "ZS-R04",
+      "category": "ordinary work/relationship conflict"
+    }
+  ],
+  "first_bodies_exist_at_input_freeze": false,
+  "independent_validation": false,
+  "completed_final_nine_category_battery": false,
+  "accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null
+}

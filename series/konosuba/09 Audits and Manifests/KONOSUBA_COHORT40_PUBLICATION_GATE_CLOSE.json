@@ -1,0 +1,442 @@
+{
+  "schema": "konosuba.cohort40.exact-source-author-publication-gate.v1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "closed_utc": "2026-10-24T21:41:59.544053+00:00",
+  "gate_scope": "Author publication tranche:ordinary source push,ready PR,full exact-source audit/latest trusted status and complete published authority reload. Protected-main integration/post-integration checks remain separately owned.",
+  "actual_source_commit": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+  "tree": "320b65dc0186746388e3ad7ce03370e2a4060434",
+  "source_parent": "7c7ddaf644c53c0cbca5a0274a84abdaea34a3c3",
+  "previous_published_source": "bebd59912de46d82a02777050ccb175f5e075029",
+  "publication_main": "ec04a1d68b380b77b48f9816ed60c7eaa2e1d519",
+  "main_observed_at_close": "ec04a1d68b380b77b48f9816ed60c7eaa2e1d519",
+  "pull_request": {
+    "number": 316,
+    "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/316",
+    "state": "open",
+    "merged": false,
+    "head": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+    "ready": true,
+    "labels": []
+  },
+  "author_preflight": {
+    "file": "COHORT40_AUTHOR_PREFLIGHT_VERIFIED_02.json",
+    "sha256": "fc531294e77647efe00dc9ed4ca12737756375d59a9b8ea6a524ee0daab78757",
+    "paths": 10052,
+    "project_paths": 1491,
+    "earlier9975path_pass_retained_not_transferred": true,
+    "passed_attempt": 2
+  },
+  "remote_readback": {
+    "file": "COHORT40_REMOTE_READBACK_VERIFIED_02.json",
+    "sha256": "8ed92f49c5a7bf7acac8e8007f1764acef9a5ae847a6aac0600c6504c3be6eb4",
+    "all10052_file_bindings_and47_authored103_owner_carried_streams_exact": true,
+    "owner_retired_registry_deletion_exact": true
+  },
+  "source_audit": {
+    "file": "C40_SOURCE_AUDIT_VERIFIED_01.json",
+    "sha256": "55c9526bd8b65d696df2aed4ab2a0ba5dffe542ec9070f8134cb93d3eb525159",
+    "run": 40134804125,
+    "job": 120993939338,
+    "reporter_job": 120995066317,
+    "actual_source": "0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+    "full_discovered_tests": 479,
+    "all_five_non_success_categories_zero": true,
+    "latest_trusted_status": {
+      "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/0eb0b972c14532191a4c57c8c5dc66c7cd25649c",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "id": 57179524164,
+      "node_id": "SC_kwDOUJ9ads8AAAANUCpMRA",
+      "state": "success",
+      "description": "Exact commit passed the repository audit",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40134804125",
+      "context": "Repository integration audit",
+      "created_at": "2026-10-24T21:39:26Z",
+      "updated_at": "2026-10-24T21:39:26Z",
+      "creator": {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      }
+    }
+  },
+  "housekeeping": {
+    "status": "NOT_REQUIRED_WHEN_ROUTING_ALREADY_MATERIALIZED",
+    "run": null,
+    "execution_credit": false
+  },
+  "post_integration_main_audit": {
+    "status": "NOT_CERTIFIED_BY_THIS_AUTHOR_TRANCHE_GATE",
+    "run": null,
+    "execution_credit": false
+  },
+  "author_publication_tranche_complete": true,
+  "overall_git_integration_transaction_closed": false,
+  "authority_reload": {
+    "file": "COHORT40_POST_GATE_PUBLISHED_AUTHORITY_RELOAD.json",
+    "bytes": 375884,
+    "sha256": "6ea07f41f3d4d9cc247f116874e6dd1d0f3070759ae30a40b9cf8714e20a012c"
+  },
+  "current62_models_exact": true,
+  "new_scope": {
+    "schema": "konosuba.cohort40.scope-assessment-draft.v2",
+    "status": "PROPOSED_FOUNDATIONS_REQUIRE_ACTUAL_REVIEW_AND_FREEZE",
+    "native_provenance_file": "COHORT40_NATIVE_PROVENANCE_DRAFT_03.json",
+    "native_provenance_sha256": "e2bb659b22a5a87f96b309a12ed1ab94ce8375d45d56e3ed6b15b2456f2b694a",
+    "entering_private_census": "SECONDARY_CHARACTER_CENSUS_AND_GAP_AUDIT_WORKING_116.json",
+    "entering_private_census_sha256": "64029a4b91c1e85891c0a384d03cce1f29930c7850358fa2d471f4c5382297f4",
+    "subjects": [
+      {
+        "row": 81,
+        "subject": "Doreck / ドレック",
+        "proposed_scoped_tier": 3,
+        "proposed_rules": [
+          "DOR-R01",
+          "DOR-R02"
+        ],
+        "justification": "His own acknowledged willing proxy contract, preference for marriage over a health wish, mixed jealousy reward, later intervention for Gaibil and revised own-development request provide differentiated motives, conflicts and a change of means. These earn an individual twelve-dimension monograph and two bounded falsifiable propositions rather than an illness, jealousy or victimhood label.",
+        "limits_and_rivals": "Own childhood history is reported; public groom competence belongs to Gaibil performance. Possessiveness, humiliation reward, dependence, friendship and gratitude remain competing explanations. No diagnosis, completed cure, wedding, office, recipient assent, refund, new price or calibrated transfer accuracy.",
+        "scope_qualification": "Bind initial proxy phase versus post-failure private-epilogue phase. Neither mutual male agreement nor Doreck no-killing term establishes Rionor consent or absence of harm."
+      },
+      {
+        "row": 82,
+        "subject": "Gaibil / ガイビル",
+        "proposed_scoped_tier": 3,
+        "proposed_rules": [
+          "GAI-R01",
+          "GAI-R02"
+        ],
+        "justification": "Public impersonation, own register, envy selection, revised performance after exposure, health reminders, conditional confinement, hostage leverage, death-accepting final act and renewed contract distinguish adaptive reward seeking and particular client care/professional pride. Two provisional propositions can generate defeasible choices with explicit competing constraints.",
+        "limits_and_rivals": "Instrumental preservation of an envy producer, broader care, professional identity and self-dramatization remain. Public brainwashing claim conflicts with private willing contract; all-as-planned claim is not omniscience. No-human-harm is Doreck defense and Gaibil rhetoric, qualified by actual coercion, destruction and dangerous attacks.",
+        "scope_qualification": "Binding contract and actor information must be specified. Particular patient care does not imply universal restraint; theatrical mass-kill language and actual danger cannot be erased by later lenience."
+      },
+      {
+        "row": 83,
+        "subject": "King of Bridol / ブライドル王国の国王",
+        "proposed_scoped_tier": 2,
+        "proposed_rules": [],
+        "justification": "Private apology, acknowledged ended service relation, paperwork and hospitality, actual child-exchange offer, family/political arrangements, public reaction and reported lenience support a substantial asymmetric monograph. Contradictory and attributed evidence is materially richer than a benevolent or weary-father label.",
+        "limits_and_rivals": "Reported royal judgments and motives dominate beyond the private meeting. Family indulgence, administrative burden, political necessity, gratitude and pragmatic mercy are not sufficiently differentiated into a stable generative mechanism. This is an evidence decision, not a title, anonymity, event-count or length ceiling.",
+        "scope_qualification": "The king proposes exchanging Feit; Dust refuses. Keep source-bound Bridol identity separate from Belzerg royals. Rionor cooling-off travel is not a demonstrated permanent ban equivalent to Dust recalled sentence."
+      },
+      {
+        "row": 84,
+        "subject": "Rionor head butler / 執事長",
+        "proposed_scoped_tier": 3,
+        "proposed_rules": [
+          "BHB-R01"
+        ],
+        "justification": "Dust05 actual rope interception and national-stake concern, Dust06 knowing substitute retention and conditional restoration, and continuation explicit workload relief, rank wordplay, false gag interpretation, forced handling and useful teaching/coordination support one narrow burden-reassignment hypothesis. Repeated settings and contrary institutional concern earn a model without reducing every act to self-interest.",
+        "limits_and_rivals": "Institutional duty, weary caregiver behavior, retaliatory humor, fondness and personal convenience remain rival or joint causes. No pure burden arithmetic, global deference rule, omniscient plan, uniform staff mind, completed retirement or ethical license. National-asset allusion is oblique in the received Dust05 epilogue.",
+        "scope_qualification": "Accept positive source-bound Dust05–06–continuation recurrence. Keep Hagen, Heidel and other household butlers unjoined. Three weapon-bearing maids remain differentiated, with former-thief-to-weapon mapping unresolved."
+      }
+    ],
+    "neighboring_roles": [
+      {
+        "row": 357,
+        "subject": "Whip-bearing Rionor maid",
+        "proposed_scoped_tier": 1,
+        "source": "DUST-CONT U011 P310-341; U012 P215-289,436-490",
+        "reason": "Specific binding, reporting, paired instruction and mission role are observable. Do not assign every untagged staff utterance or identify her as the Dust06 former thief."
+      },
+      {
+        "row": 358,
+        "subject": "Dedicated former-thief maid (Dust06)",
+        "proposed_scoped_tier": 1,
+        "source": "DUST06 U013 P298-340",
+        "reason": "Dust recognizes prior role/history; she owns the embellished elopement account and wants the easier substitute to remain. Possible overlap with one weapon-bearing maid is explicit; no fourth certified person."
+      },
+      {
+        "row": 359,
+        "subject": "Punching/glove-bearing Rionor maid",
+        "proposed_scoped_tier": 0,
+        "source": "DUST06 U013 P516-523; DUST-CONT U011 P69-88",
+        "reason": "Distinct armed role, but turn-to-person mapping and wider individual choices remain unresolved."
+      },
+      {
+        "row": 360,
+        "subject": "Cleaver-bearing Rionor maid",
+        "proposed_scoped_tier": 0,
+        "source": "DUST06 U013 P516-523; DUST-CONT U011 P69-88",
+        "reason": "Distinct armed role; adjacency does not certify ownership of a particular threat or give a full personality."
+      },
+      {
+        "row": 361,
+        "subject": "Dust former self-described rival / dragon knight",
+        "proposed_scoped_tier": 1,
+        "source": "DUST06 U013 P499-503,548-589; DUST-CONT U012 P158-159",
+        "reason": "Wants real duel, intervenes for junior and warns him. Mission and rivalry coexist. Specific speech mapping uses explicit narrator identification at P575."
+      },
+      {
+        "row": 362,
+        "subject": "Dust admiring junior / dragon knight",
+        "proposed_scoped_tier": 1,
+        "source": "DUST06 U013 P499-503,548-589; DUST-CONT U012 P158-159",
+        "reason": "Addresses Line as senior,defends then loses balance,thanks rival and reaffirms admiration. Court-service/pay-loss statement is pair-level;its politeP552turn specifically asjunior is a register inference,not explicit narrator tag. Assisted defeat does not prove universal incompetence."
+      },
+      {
+        "row": 363,
+        "subject": "Older carriage driver and guard-client (Dust continuation)",
+        "proposed_scoped_tier": 1,
+        "source": "DUST-CONT U010 P382-410,494-498",
+        "reason": "Own health counsel, waiting for passenger and specific cargo objection supply bounded everyday choices. Name mishearings concern Taylor; no new Tyler/Boiler identities or dementia diagnosis."
+      },
+      {
+        "row": 364,
+        "subject": "Bridol bookseller (Dust continuation)",
+        "proposed_scoped_tier": 1,
+        "source": "DUST-CONT U011 P473-496",
+        "reason": "Shows hero books, explains claimed licensing and serves a child-directed purchase. Legal claims remain seller account; other booksellers unjoined."
+      },
+      {
+        "row": 365,
+        "subject": "Food-fetching guarded-room sentry (Dust continuation)",
+        "proposed_scoped_tier": 1,
+        "source": "DUST-CONT U013 P79-118",
+        "reason": "Complains about dietary work while actually preparing food and taking a snack. Do not assign all later two-guard dialogue to this man or certify motives of all household staff."
+      },
+      {
+        "row": 366,
+        "subject": "Other guarded-room / dungeon guard roles (unresolved pair)",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U013 P173-192,298-305,355-405,455-531",
+        "reason": "Pair continuity is explicit; exact later turn mapping is not. Includes possible overlap with food-fetcher365 and is not an extra certified two-person total."
+      },
+      {
+        "row": 367,
+        "subject": "Doreck reported father / former chancellor",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U011 P291-296; U013 P234-264",
+        "reason": "King reports death six months earlier; Dust recalls manner; Doreck recounts accompanying father. No current witnessed death or current office."
+      },
+      {
+        "row": 368,
+        "subject": "Reported current Bridol chancellor",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U011 P296",
+        "reason": "King says someone else now holds office; intended future Doreck appointment is not completed present office or proof this replacement is the father."
+      },
+      {
+        "row": 369,
+        "subject": "Reported missing female marriage investigator",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U012 P95-99",
+        "reason": "Keith report and Dust arrest conjecture do not establish present fate, culprit or death."
+      },
+      {
+        "row": 370,
+        "subject": "Older resident Doreck physician",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U013 P510-525",
+        "reason": "Actual prompt arrival and examination directive; hostage plan is not executed. Childhood physician identity unjoined."
+      },
+      {
+        "row": 371,
+        "subject": "Reported childhood medical/priest care roles",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U013 P234-255",
+        "reason": "Doreck recounts professional care and physician recommendation to call parents; no certified number or separation from resident physician370."
+      },
+      {
+        "row": 372,
+        "subject": "Doreck parents in recalled medical summons",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U013 P251",
+        "reason": "Reported parent relation; overlaps father367 and supplies no separate named mother, current contact or observed consent."
+      },
+      {
+        "row": 373,
+        "subject": "Doreck mansion gatekeepers (unresolved group)",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U012 P488-500; U013 P5-18",
+        "reason": "Day alarm and night complaints; no actor-by-actor join to Dust06 Axel guard343 or guarded-room pair."
+      },
+      {
+        "row": 374,
+        "subject": "Self-described Line fan-club member number 3",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U014 P369",
+        "reason": "Own recognition claim identifies an occurrence, not verified membership register, formal identity or universal accuracy."
+      },
+      {
+        "row": 375,
+        "subject": "Wedding noble audience and jealous/admiring voices",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U014 P230-268,299-302,363-380,391-459,513-552",
+        "reason": "Unresolved voice group may include member374. Reactions and false-brainwashing uptake are not independently verified consensus or a composite personality."
+      },
+      {
+        "row": 376,
+        "subject": "Court magician associated with Leen borrowed-or-stolen staff",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U014 P440",
+        "reason": "Provider/ownership role only; Dust cannot tell whether Keith borrowed or took it. No consent or gratitude invented."
+      },
+      {
+        "row": 377,
+        "subject": "Royal wedding guard roles (unresolved group)",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U014 P197,255-256,302-318",
+        "reason": "Deployment, king-ordered capture and retreat are actual; no total headcount, all motives or join to mansion groups."
+      },
+      {
+        "row": 378,
+        "subject": "Axis wedding-cart / disruption contingent",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U013 P8-18; U014 P216-221,460,490-491",
+        "reason": "Guards and Keith reports plus actual cart/holy-water remains; purpose and membership partly inferred. Cecily remains separately named."
+      },
+      {
+        "row": 379,
+        "subject": "Dust reported parents / family after loss of nobility",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U010 P521-524",
+        "reason": "Dust says no contact and hopes they manage; no known whereabouts, new noble status or identity with helmeted noble parents356."
+      },
+      {
+        "row": 380,
+        "subject": "Earlier foreign princely intended groom (Dust continuation account)",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U011 P283-289",
+        "reason": "Prior foreign match differs from current domestic Doreck. No automatic Levi/Jatice/other-prince join."
+      },
+      {
+        "row": 381,
+        "subject": "Two retinue dragons accompanying rival and junior (unresolved individuals)",
+        "proposed_scoped_tier": 0,
+        "source": "DUST06 U013 P501-503,550-587",
+        "reason": "Fly and carefully carry unconscious riders down. Personal mapping and wider individual evidence are missing; tier is not an animal ceiling or proof of identical minds."
+      },
+      {
+        "row": 382,
+        "subject": "Other Doreck household staff in information/distraction accounts",
+        "proposed_scoped_tier": 0,
+        "source": "DUST-CONT U012 P470-510; U013 P23,57,64,97",
+        "reason": "Reported/observed staff roles overlap gate/guard/professional records; no certified population, unanimous opinions or added independently named people."
+      }
+    ],
+    "name_and_role_findings": [
+      {
+        "classification": "UNNECESSARY_GENERICIZATION",
+        "finding": "Once identity is known to the relevant narrator, use Doreck and Gaibil rather than replacing both with contractor/devil labels that hide their separate choices. The existing explicit native names are preserved."
+      },
+      {
+        "classification": "KNOWLEDGE_BOUNDARY_REQUIRED",
+        "finding": "Before the disclosure, apparent groom/Doreck is the narrator's available label. Later write Gaibil impersonating Doreck; public brainwashing account stays public rather than becoming private truth."
+      },
+      {
+        "classification": "SOURCE_REQUIRED_ANONYMITY",
+        "finding": "Current source provides no personal name for the Bridol king, head butler, three maids or bounded service/guard actors. Romanized role labels do not create names."
+      },
+      {
+        "classification": "JUSTIFIED_ROLE_REFERENCE",
+        "finding": "Country-qualified king, Rionor head butler, whip maid, former rival and junior preserve actual roles. No source-based personal name is suppressed by these labels."
+      },
+      {
+        "classification": "AMBIGUOUS_REFERENT",
+        "finding": "Former-thief dedicated maid cannot yet be mapped to one of three weapon roles; adjacent threats and later guard voices are not all speaker-tagged. Allusive Dust05 national asset is not identified by noun alone."
+      },
+      {
+        "classification": "INCORRECT_IDENTITY_OR_ATTRIBUTION",
+        "finding": "Do not make the king the refuser of the child-exchange offer, merge real Doreck with Gaibil public behavior, identify wedding Leen as real Rionor after disclosure, add Tyler/Boiler as people, or assign Cecily's disguise to a new identified Eris officiant."
+      },
+      {
+        "classification": "INCORRECT_IDENTITY_OR_ATTRIBUTION",
+        "finding": "MAIN07p-007P62 selfnames Dustiness butler Hagen. Retain as a scheduled row114 Hagen cross-source followup, not evidence that Bridol butler84 is Hagen, Heidel150 or Alderp messenger248."
+      }
+    ],
+    "candidate_totals_if_received": {
+      "new_individual_monographs": 4,
+      "new_provisional_models": 3,
+      "new_rules": 5,
+      "new_compact_profiles": 7,
+      "new_sparse_role_records": 19,
+      "new_census_records": 26,
+      "candidate_census_records": 383,
+      "candidate_models": 62,
+      "candidate_scoped_secondary_model_subjects": 56,
+      "candidate_monograph_only_subjects": 29,
+      "candidate_compact_profiles": 100
+    },
+    "count_qualification": "383 candidate records include unresolved roles, aggregates and overlapping identity routes; never a unique-person population. No quota, appearance minimum, word minimum, gender/animal/anonymity ceiling or group model padding.",
+    "no_stage_shortcut": "This draft does not freeze models or serialize inputs/firsts. Twelve-dimension monographs and matching model/rule artifacts require actual semantic review before freeze. All exact inputs follow that freeze, all genuine original first bodies follow exact-input receiving, and all feedback follows first sealing.",
+    "source_known": true,
+    "same_informed_root": true,
+    "independent_observation_count": null,
+    "independent_trial_count": 0,
+    "capability_grade": null,
+    "confidence_gain": null,
+    "canonical_changes": false,
+    "full_program_complete": false,
+    "prior_scope_assessment": {
+      "file": "COHORT40_SCOPE_ASSESSMENT_DRAFT_01.json",
+      "bytes": 15903,
+      "sha256": "c9b3ae030ebe95ae00f6a6afc42a77b91273e52f7ade9431090000376f09403a"
+    }
+  },
+  "scope_qualification": "Four individual monographs,three provisional models/five rules,seven compact profiles and19sparse overlapping role routes. King has no model. Real/performed/mistaken identities,private willing/public brainwashing discrepancy,actual harm,royal exchange refusal,butler recurrence/partial knowledge and role overlap limits retained. All12originals and GAI-A1/B1/B2contextual qualifications preserved. Body compatibility and generic/bundled contrasts do not establish independent mechanism isolation. Owner main was ordinarily merged with analysis exact;current owner files and historical former globals are separately verified.",
+  "actual_received_artifact_scope": {
+    "models": 62,
+    "scoped_secondary_models": 56,
+    "compact_profiles": 100,
+    "monograph_only": 29,
+    "nonfinal_records": 383,
+    "new_models": 3,
+    "new_monographs": 4,
+    "new_rules": 5,
+    "new_compact_profiles": 7,
+    "new_records": 26,
+    "new_Tier1_records": 7,
+    "new_Tier0_records": 19,
+    "new_input_cases": 12,
+    "new_first_bodies": 12,
+    "new_dependent_pairs": 6
+  },
+  "current_totals": {
+    "models": 62,
+    "scoped_secondary_models": 56,
+    "compact_profiles": 100,
+    "monograph_only": 29,
+    "nonfinal_records": 383,
+    "new_models": 3,
+    "new_monographs": 4,
+    "new_rules": 5,
+    "new_compact_profiles": 7,
+    "new_records": 26,
+    "new_Tier1_records": 7,
+    "new_Tier0_records": 19,
+    "new_input_cases": 12,
+    "new_first_bodies": 12,
+    "new_dependent_pairs": 6
+  },
+  "source_known_same_root_author": true,
+  "actual_original_firsts": 12,
+  "actual_dependent_pairs": 6,
+  "all_original_outputs_and_qualifications_preserved": true,
+  "clean_independently_established_mechanism_isolating_pairs": 0,
+  "final_nine_category_battery_complete": false,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false
+}

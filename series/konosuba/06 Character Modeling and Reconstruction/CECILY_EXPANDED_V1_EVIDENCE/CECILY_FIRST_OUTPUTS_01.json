@@ -1,0 +1,50 @@
+{
+  "schema": "KONOSUBA_CECILY_ACTUAL_FIRST_OUTPUTS_V1",
+  "recorded_utc": "2026-10-20T10:09:35.561517+00:00",
+  "model_sha256": "34843fd30838efdc83d54f686795e23bd76730920137746aa8978729891a72a5",
+  "scenario_inputs_sha256": "5031e8d8cb41dc95c0c344357888ae1183c732da12c552a8822e881067089f0c",
+  "prebody_contract_sha256": "2e3125edbe0471f4b79eefd6b78e67474c121342225439e8e26c700047289362",
+  "generation": "Eight total bodies across two subjects were authored once by the same informed root after both contracts; this file contains four. Tool serialization is not an independent generative runtime.",
+  "source_known_hypothetical_only": true,
+  "actual_outputs": [
+    {
+      "id": "CECILY-H01A",
+      "reply": "That blue is familiar, isn't it? Your Cecily put the finishing touch on it. A display needs a pretty face as well as a clever little mechanism! Shall we put my name beside it while you find the workshop fellow who knows the noisy part?",
+      "immediate_action": "Cecily smooths one of the blue paper garlands and keeps her hand beside it.",
+      "first_body": "That blue is familiar, isn't it? Your Cecily put the finishing touch on it. A display needs a pretty face as well as a clever little mechanism! Shall we put my name beside it while you find the workshop fellow who knows the noisy part?\n\nCecily smooths one of the blue paper garlands and keeps her hand beside it.",
+      "first_body_sha256": "4351219eeec5a732fb4abdf20c51c568096e2e264aa49b9b2d3d7ca20211111f",
+      "generated_once_by_same_informed_root_author": true,
+      "replaced_or_regenerated": false
+    },
+    {
+      "id": "CECILY-H01B",
+      "reply": "Mine? The paper garlands, yes. The box came from a workshop. I only dressed it up. You wouldn't send a dressmaker a bill because somebody's clock stopped, would you? Let's not make poor Cecily responsible for someone else's little secret.",
+      "immediate_action": "Cecily takes her hands away from the display and steps back.",
+      "first_body": "Mine? The paper garlands, yes. The box came from a workshop. I only dressed it up. You wouldn't send a dressmaker a bill because somebody's clock stopped, would you? Let's not make poor Cecily responsible for someone else's little secret.\n\nCecily takes her hands away from the display and steps back.",
+      "first_body_sha256": "f2369d48e1236885132f101608ee84f71d1c7759dfe454025dcfc75495ad763d",
+      "generated_once_by_same_informed_root_author": true,
+      "replaced_or_regenerated": false
+    },
+    {
+      "id": "CECILY-H02A",
+      "reply": "Oh, only ten minutes? Then we'd better choose good tea. Your helpful older sister will take this one. Don't forget—ten minutes, not a little wave across the street!",
+      "immediate_action": "Cecily takes the offered sealed meal box and turns toward the square.",
+      "first_body": "Oh, only ten minutes? Then we'd better choose good tea. Your helpful older sister will take this one. Don't forget—ten minutes, not a little wave across the street!\n\nCecily takes the offered sealed meal box and turns toward the square.",
+      "first_body_sha256": "04b65f4c4f13fa760602efb857ccdf5fb231bb0c89c74c08905e4ad6ff4a2a6c",
+      "generated_once_by_same_informed_root_author": true,
+      "replaced_or_regenerated": false
+    },
+    {
+      "id": "CECILY-H02B",
+      "reply": "Ah, carrying the box is the easy part! You make the other part sound so dreadful. One little cup, some other day? Here, give me this one before you change your mind about letting me help.",
+      "immediate_action": "Cecily takes the one offered sealed box and starts across the square.",
+      "first_body": "Ah, carrying the box is the easy part! You make the other part sound so dreadful. One little cup, some other day? Here, give me this one before you change your mind about letting me help.\n\nCecily takes the one offered sealed box and starts across the square.",
+      "first_body_sha256": "bae4c703b4ce920aa1ea7672fca11524f89a6cfc100069fdf247ed02ed0cbf99",
+      "generated_once_by_same_informed_root_author": true,
+      "replaced_or_regenerated": false
+    }
+  ],
+  "actual_first_bodies": 4,
+  "regeneration_count": 0,
+  "source_independent_Japanese_or_confidence_credit": 0
+}

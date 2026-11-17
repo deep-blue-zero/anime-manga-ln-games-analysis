@@ -1,0 +1,441 @@
+{
+  "schema": "MOMOI_SOURCE6_COMPLETE12_QUESTIONS_ANSWERS_CURRENT_QUALIFIERS_AND_ACTUAL_GRADE_V1",
+  "author": "/root/publishing_shared7_review",
+  "role": "BODY_AND_NEW105_AUTHOR_NOT_DISTINCT_QA",
+  "existing_home": {
+    "required_id": "P3-CHAR-MOMOI",
+    "home_zero": 54,
+    "ordinal": 55,
+    "CSV_physical": 56,
+    "source_family": "P3-F121",
+    "named_duty": "NONE",
+    "literal_person_key": "BA_PERSON_MOMOI",
+    "variants": [
+      "13011",
+      "10094"
+    ],
+    "extra_REL": "NOT_COMPLETED"
+  },
+  "body": {
+    "C_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MOMOI_CHARACTER_MONOGRAPH.md",
+    "bytes": 29862,
+    "sha256": "c680cdf19b1816700e00fb25952499803e5e4cea66f3746bf7828607eb5cb99c",
+    "git_blob_oid_of_actual_bytes": "89931eaf7c2d1b123abba4e2f9b4ede1e7f46515"
+  },
+  "source6": {
+    "MOMO_NORMAL": {
+      "source_id": "MOMO_NORMAL",
+      "exact_binding": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MOMOI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MOMOI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "bytes": 60173,
+        "sha256": "fd49c3d8388eca08160c4f607052cee3d861c35109435435d6f6b7a3ed490be5",
+        "git_blob_oid_of_actual_bytes": "9eaa01b0b006e73fc858eafe6f6d1fd00b6e016a",
+        "physical_lines": 402
+      },
+      "own_grade": "WHOLE_CURRENT_MAINTAINED_ANALYTICAL_ACCOUNT_NOT_PRIMARY",
+      "own_physical_intervals": [
+        [
+          1,
+          402
+        ]
+      ],
+      "actual_receiving": "Allfour complete source pages1–202/203–290/291–388/389–402 through EOF after9458 prequestions saved.",
+      "own_finite_judgment": "The whole normal contains the complete qualified19-object argument, its actual eight pair/tail narratives and three written contexts. Cycle008 governs old source/veto/unadmitted/cumulative prose. The producer’s canonical19/primary receipts are attributed, not my source reading. Ordinary tastes, finished minor tasks, discomfort, iterative writing and role/reception limits are all retained."
+    },
+    "GROUP250": {
+      "source_id": "GROUP250",
+      "exact_binding": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2501_2502_DEEP_READING.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2501_2502_DEEP_READING.md",
+        "bytes": 22203,
+        "sha256": "11d758d98de1a967cd93e86a789a778e9dc04bfab520be0d558d127da6b7ad37",
+        "git_blob_oid_of_actual_bytes": "94c2927af342ed823a661f79999c6f6268edb95a",
+        "physical_lines": 144,
+        "role": "FIXED_F93_MAINTAINED_PUBLIC_ANALYTICAL_CONTEXT_NOT_NEW_PRIMARY_OR_HUMAN_READING"
+      },
+      "own_grade": "WHOLE_CURRENT_MAINTAINED_ANALYTICAL_ACCOUNT_NOT_PRIMARY",
+      "own_physical_intervals": [
+        [
+          1,
+          144
+        ]
+      ],
+      "actual_receiving": "Complete direct bounded whole maintained text in this Momoi source-preparation task.",
+      "own_finite_judgment": "The whole144-line maintained group account distinguishes initial courtesy from escalation and community concern from intimidation/in-group exceptions. Yuzu’s pressured conditional attendance is not her later volunteered perfect match or wanted celebrity. Empty joins, handle spellings, yesterday/ten-minute timing seam and raw/heading conflicts stay literal; no teacher appears or platform repair is established."
+    },
+    "EVENT825": {
+      "source_id": "EVENT825",
+      "exact_binding": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_825/BLUE_ARCHIVE_EVENT_825_CONTEXTUALIZATION_CHECKPOINT.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_825/BLUE_ARCHIVE_EVENT_825_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 37786,
+        "sha256": "0a04a3d7913d5ff800cf97c6d3581b38999b16f05f569978eecae8b391b1c9f9",
+        "git_blob_oid_of_actual_bytes": "d42104a33d911bddec431a94c5c030e2834f2e7d",
+        "physical_lines": 169,
+        "role": "FIXED_F93_MAINTAINED_PUBLIC_ANALYTICAL_CONTEXT_NOT_NEW_PRIMARY_OR_HUMAN_READING"
+      },
+      "own_grade": "WHOLE_CURRENT_MAINTAINED_ANALYTICAL_ACCOUNT_NOT_PRIMARY",
+      "own_physical_intervals": [
+        [
+          1,
+          169
+        ]
+      ],
+      "actual_receiving": "Complete direct bounded whole maintained text in this Momoi source-preparation task.",
+      "own_finite_judgment": "The whole169-line maintained event account gives a local game win, wanted clothing praise, withheld job information, danger, evolving Toki affiliation and real late play. Alice’s coherent invitation/thanks exchange is not swapped to Toki as inviter; repeated actor seams stay qualified. Crown custody and reported Meitaro capture differ from transfer/payment/funding; escaped Akira and unmade next game remain open."
+    },
+    "V002": {
+      "source_id": "V002",
+      "exact_binding": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 33564,
+        "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+        "git_blob_oid_of_actual_bytes": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+        "physical_lines": 257,
+        "role": "FIXED_F93_ALREADY_ADMITTED_MAINTAINED_ANALYTICAL_CONTEXT_BYTES_ONLY_NOT_HUMAN_PRIMARY_OR_SOURCE_RECEIVING"
+      },
+      "own_grade": "SELECTED_CONNECTED_CURRENT_MAINTAINED_ANALYTICAL_ACCOUNT_NOT_PRIMARY",
+      "own_physical_intervals": [
+        [
+          66,
+          229
+        ],
+        [
+          231,
+          257
+        ]
+      ],
+      "actual_receiving": "Exact unchanged pins and actual selected receiving from completed Eimi review sourcejournal17695/fb889f53, reused only at those real intervals; no new whole credit.",
+      "own_finite_judgment": "Actual prior selected connected convergence distinguishes making, play, reception, prize, temporary home and safety. Momoi’s craft frustration, wanted company and recipient limits can contextualize the crisis without dating private episodes before it, giving her all authorship or treating her role analogy as a system-safety theorem."
+    },
+    "EVENT854": {
+      "source_id": "EVENT854",
+      "exact_binding": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_854/BLUE_ARCHIVE_EVENT_854_CONTEXTUALIZATION_CHECKPOINT.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_854/BLUE_ARCHIVE_EVENT_854_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 47958,
+        "sha256": "f8ce4ffdedac78b6e92b296515c9ace92a4277e441dee72348d815785b5283f7",
+        "git_blob_oid_of_actual_bytes": "23b45869c2d1a6f08b988ec2e00c435d271ca327",
+        "physical_lines": 217,
+        "role": "FIXED_F93_ALREADY_ADMITTED_MAINTAINED_ANALYTICAL_CONTEXT_BYTES_ONLY_NOT_HUMAN_PRIMARY_OR_SOURCE_RECEIVING"
+      },
+      "own_grade": "SELECTED_CONNECTED_CURRENT_MAINTAINED_ANALYTICAL_ACCOUNT_NOT_PRIMARY",
+      "own_physical_intervals": [
+        [
+          50,
+          189
+        ],
+        [
+          207,
+          217
+        ]
+      ],
+      "actual_receiving": "Exact unchanged pins and actual selected receiving from completed Eimi review sourcejournal17695/fb889f53, reused only at those real intervals; no new whole credit.",
+      "own_finite_judgment": "Actual prior selected complete coherent event argument and scope controls preserve distinct engineering/peer work, ordinary wants and unannounced Yuzu piloting. The late reversal begins rather than completes final victory. No Momoi role is invented where another actor or an ambiguous heading supplies the words."
+    },
+    "FINAL": {
+      "source_id": "FINAL",
+      "exact_binding": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 49292,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "git_blob_oid_of_actual_bytes": "4712932e1058e7babcc693932caedcfd1a076622",
+        "physical_lines": 452,
+        "role": "FIXED_F93_ALREADY_ADMITTED_MAINTAINED_ANALYTICAL_CONTEXT_BYTES_ONLY_NOT_HUMAN_PRIMARY_OR_SOURCE_RECEIVING"
+      },
+      "own_grade": "SELECTED_CONNECTED_CURRENT_MAINTAINED_ANALYTICAL_ACCOUNT_NOT_PRIMARY",
+      "own_physical_intervals": [
+        [
+          84,
+          175
+        ],
+        [
+          195,
+          251
+        ],
+        [
+          441,
+          452
+        ]
+      ],
+      "actual_receiving": "Exact unchanged pins and actual selected receiving from completed Eimi review sourcejournal17695/fb889f53, reused only at those real intervals; no new whole credit.",
+      "own_finite_judgment": "Actual prior selected connected four-chapter convergence credits particular coalition work and ordinary meal/model/home aftermath. Momoi finding a save file does not authenticate its identity, establish resurrection or finish civic/legal/clinical obligations. No private game research is made the cause of all later rescue."
+    }
+  },
+  "actual_source_grade": {
+    "whole": 3,
+    "whole_lines": 715,
+    "selected": 3,
+    "selected_lines": 503,
+    "total": 1218,
+    "grade": "Maintained written analytical accounts and source-qualified prior context, no primary/native/raw/AV/normal105."
+  },
+  "all12_original_questions_and_complete_own_answers": [
+    {
+      "question_id": "MQ01",
+      "complete_original_pre_receiving_question": "Which exact base/maid and written routes are positively declared for Momoi, and how do their source-local identities, pairings and current owner qualifications fit the existing F121 home without importing Midori or constructing a new variant/person join?",
+      "own_complete_bounded_answer": "The normal positively names BA_PERSON_MOMOI/才羽モモイ and the two variants13011/10094; it binds8 BOND+8 completeMM+3 written=19. CurrentrequiredZERO54/ordinal55/CSV56/F121 has no mandatory named section. C&C misunderstanding and borrowed maid clothes do not make her a C&C employee; Midori and Alice remain distinct actors, and the costume binding is not an extra registry decision.",
+      "own_disposition": "ADEQUATE_MAINTAINED_CONTEXT_WITH_LIMITS_NO_ROOT_BODY_PERMISSION"
+    },
+    {
+      "question_id": "MQ02",
+      "complete_original_pre_receiving_question": "What does Momoi actually want or enjoy in games, stories, sweets, manga, art/research, rest, food and company? Which ordinary goods remain meaningful when no new product, victory or public rescue results?",
+      "own_complete_bounded_answer": "Games, stories, sweets/snacks, a soft sofa, sunlight, dreams, cake/tea, a drink, wanted consoles and specific company have intrinsic value. Actual shared games, bought drink, completed cleaning and delicious bought food are real endpoints even without a new game or trophy. Failing a task does not erase pleasure; pleasure does not prove skill, permission or safe rest.",
+      "own_disposition": "ADEQUATE_MAINTAINED_CONTEXT_WITH_LIMITS_NO_ROOT_BODY_PERMISSION"
+    },
+    {
+      "question_id": "MQ03",
+      "complete_original_pre_receiving_question": "How do her preferences for heroic stories, imaginative role language and desire to make an impact develop within the actual encounters? Which objections, unanswered contradictions and unfinished scripts prevent an invariant fantasy policy or completed creative growth story?",
+      "own_complete_bounded_answer": "The difficult-game study has real environmental-storytelling content but borrows Sensei controller competence; firstending is on screen, a secondrun is narrated without a secondendingscreen. Her defense of conventional hero stories is substantial, yet she wants impact and cannot solve a renewed contradiction after advice. Encouragement permits returning for help, not a completed script or universal creative method.",
+      "own_disposition": "ADEQUATE_MAINTAINED_CONTEXT_WITH_LIMITS_NO_ROOT_BODY_PERMISSION"
+    },
+    {
+      "question_id": "MQ04",
+      "complete_original_pre_receiving_question": "What exactly do Momoi and Midori separately say, remember, give, lose or compete over around consoles, games and sibling company? Which hunts, gifts, storage mistakes and message tails must remain different endpoints instead of one merged event?",
+      "own_complete_bounded_answer": "The older-sister gift and gaming-brought-closeness history belong to Momoi’s report/profile, not my fresh Midori testimony. The found console is only probably Midori’s first, its lost location complicates preservation, and the hunt fails while shared games continue. Matching memories and a different Midori hunt cannot be merged into one event or a single guaranteed sibling-repair mechanism.",
+      "own_disposition": "ADEQUATE_MAINTAINED_CONTEXT_WITH_LIMITS_NO_ROOT_BODY_PERMISSION"
+    },
+    {
+      "question_id": "MQ05",
+      "complete_original_pre_receiving_question": "Who proposes or performs each personal care, cleaning, cooking, novel rest or service act, what does the recipient answer, and what afterstate follows? How can actual benefit coexist with bodily cost, refusal, work displacement or promised rather than completed help?",
+      "own_complete_bounded_answer": "Momoi actually buys/sips the stamp-rally drink and helps complete cleaning; maidfood is tasty and all bought, not homecooked. Overbuying/no fridge and exhaustive clearing have their own costs. Novelrest devices produce severe vibration/dizziness/overstimulation and persistent soreness; an already-promised review and benign intent do not establish informed ongoing consent or restorative efficacy.",
+      "own_disposition": "ADEQUATE_MAINTAINED_CONTEXT_WITH_LIMITS_NO_ROOT_BODY_PERMISSION"
+    },
+    {
+      "question_id": "MQ06",
+      "complete_original_pre_receiving_question": "How do Momoi and Sensei direct invitations, requests, criticism, reassurance, teasing, gifts and boundaries toward each other? Which choices, inward statements or messages remain conditional, and which wishes cannot establish exclusive romance or infinite adult/student availability?",
+      "own_complete_bounded_answer": "Sensei provides local controller help, limited scenario advice, jointwork and company, while having fatigue, refusal, inward/choice modes and fallible physical teasing. Momoi’s invented affection score, embarrassment and secrecy request show a situated personal wish, not measured affection, certified romance, secured privacy or unlimited future availability. Alternative menu/response branches are not one composite event.",
+      "own_disposition": "ADEQUATE_MAINTAINED_CONTEXT_WITH_LIMITS_NO_ROOT_BODY_PERMISSION"
+    },
+    {
+      "question_id": "MQ07",
+      "complete_original_pre_receiving_question": "What do Alice, Yuzu, Midori and other peers independently want and actually do in the club/public contexts? Where do encouragement, publicity, competition and pressure differ, and what local refusal or willing continuation constrains a club-wide preference claim?",
+      "own_complete_bounded_answer": "G250 shows Momoi’s initial courtesy before abuse, concern for newcomers alongside threat/intimidation and an insider-teasing exception. Yuzu initially refuses, agrees only to watch and later volunteers to play; acclaim burdens her despite real local skill. E825 differentiates Momoi praise/console wants, Midori doubts, Yuzu’s capacities/limits and Alice’s invite to Toki; no club-wide desire or separate relationship completion follows.",
+      "own_disposition": "ADEQUATE_MAINTAINED_CONTEXT_WITH_LIMITS_NO_ROOT_BODY_PERMISSION"
+    },
+    {
+      "question_id": "MQ08",
+      "complete_original_pre_receiving_question": "What actual making, research, service and play exhibit task-specific competence or error? Distinguish work produced, audience reception, prize or budget, temporary institutional permission and durability, with no scalar capacity or universally safe imagination claim.",
+      "own_complete_bounded_answer": "Competence is task-specific: first game ending is achieved by Sensei, actual cleaning and serving succeed, stamps are gathered locally and a drink bought. Trophy redemption is not shown, writing remains unfinished, food buffs are fictional and no homemade authorship follows bought taste. Public special prize, conditional institutional permission and rescue at attributedMain scope are separate outcomes, not a skill score or durable safety certificate.",
+      "own_disposition": "ADEQUATE_MAINTAINED_CONTEXT_WITH_LIMITS_NO_ROOT_BODY_PERMISSION"
+    },
+    {
+      "question_id": "MQ09",
+      "complete_original_pre_receiving_question": "Which profile, costume, birthday, seasonal or other written triggers are actually included, and what source mode do they have? Do repeated special lines, wishes, promises and appearance contexts add an enacted event, date, job or consent, or retain a narrower conditional role?",
+      "own_complete_bounded_answer": "The two profiles and one50-line costume object have hobbies/status/café/lobby/seasonal/weapon/special modes. Empty costumeProfile stays empty. Event825/10825/900825 reuse/subset lines do not create three event witnesses; named profile stamp lines contextualize generic BOND logs without changing their headings. Conditional work/birthday/shop/equipment language is not an enacted job, overnight event, trophy or combat test.",
+      "own_disposition": "ADEQUATE_MAINTAINED_CONTEXT_WITH_LIMITS_NO_ROOT_BODY_PERMISSION"
+    },
+    {
+      "question_id": "MQ10",
+      "complete_original_pre_receiving_question": "Which Japanese self-corrections, quoted terms, hesitation, imagined roles, inward/choice/log/narrator modes and actor seams matter to audience and voice? What remains uncertain without importing spoken performance, silent repair or shared thought access?",
+      "own_complete_bounded_answer": "Game/quest,1P/2P,bonus-life,job/class,maid/master and the 不可能力→不可抗力 correction have situated force. The affection score is invented, buffs are explicitly game content, console identification tentative, and trophy/heroending formulations mode-bound. Inward replies, generic logs/named profile correspondence, duplicate options and actor seams remain written evidence rather than native branch or AV performance.",
+      "own_disposition": "ADEQUATE_MAINTAINED_CONTEXT_WITH_LIMITS_NO_ROOT_BODY_PERMISSION"
+    },
+    {
+      "question_id": "MQ11",
+      "complete_original_pre_receiving_question": "Which institutional/peer crises and ordinary afterstates can legitimately contextualize Momoi through actual public evidence? Keep individual contributions, protest, fatigue, temporary club conditions and unfinished plans distinct from universal reform or a private-lesson-caused rescue chronology.",
+      "own_complete_bounded_answer": "V002’s making/reception/prize/temporary-club distinction and the public peer/event accounts adequately contextualize ordinary repertoire at maintained grades. E825 has undisclosed labor, danger, twice-recovered crown, reported capture, praise/apology and lateplay, but no performed agency transfer/cash/budget/newgame. Final’s particular rescue and ordinary aftermath do not date the private accounts or authenticate Kei.sav.",
+      "own_disposition": "ADEQUATE_MAINTAINED_CONTEXT_WITH_LIMITS_NO_ROOT_BODY_PERMISSION"
+    },
+    {
+      "question_id": "MQ12",
+      "complete_original_pre_receiving_question": "Which serious rival readings best fit the received course—simple immature fantasist, purely generous sibling, harmless creative care, exclusive adult dependence, total incapacity, flawless maker or linear growth—and which exact contrary cases and finite endpoints discriminate them while all14 original gaps remainOPEN/models0?",
+      "own_complete_bounded_answer": "Eight serious rivals remain testable: research-as-mere-evasion, flawlesswriter, inability-to-accept-defeat, purely generous sister, idealcare, totalincapacity, exclusiveadultdependence and harmlessrolefulfillment. Each loses concrete contrary cases or actual positives. Finite endings and modes constrain them;14 original gaps stayOPEN/models0, source-readiness does not itself authorize body/new105 or source/identity/count/publication.",
+      "own_disposition": "ADEQUATE_MAINTAINED_CONTEXT_WITH_LIMITS_NO_ROOT_BODY_PERMISSION"
+    }
+  ],
+  "author_feedback_readiness": {
+    "C_path": "private-witness:MOMOI_LOCATION_924f23bf0b914b6e5ec04aedc62f8edbe6bd6eb9ff72e07d43285dba1be80799",
+    "bytes": 33890,
+    "sha256": "9ab0f38e967d5641d8e2e9c7146b55c1c9a5a0e189cf2c39bc51122a6bcbb01d",
+    "git_blob_oid_of_actual_bytes": "43c6d70003391762d1e255b0db1dfcc85bebd786"
+  },
+  "actual_ROOT_readiness_new105_permission": {
+    "C_path": "private-witness:MOMOI_LOCATION_38dcca42a589e8fc99f17ffdf6aab04077bd37443f3eba431a6dfb0772f831b1",
+    "bytes": 24514,
+    "sha256": "efe16553f11a60e66d8f6576cfff03cffccd5c6046b0f1ef8e25960aba19a30d",
+    "git_blob_oid_of_actual_bytes": "662dc4f6f98c8c36969202b52adeed289f157926"
+  },
+  "actual_distinct_body_QA": {
+    "C_path": "private-witness:MOMOI_LOCATION_b6390cc6ff59a91b9d713706ad524aacc7f7dd3b424ea2371f7c94bb6f5cd8f6",
+    "bytes": 212941,
+    "sha256": "7aa62fba7c63eaedbdfe5c45fc02006c39b3be9505eaf683ddf00f7e0f31bc31",
+    "git_blob_oid_of_actual_bytes": "2a9caba3af43893c103711b1da4fd6ced95f892c"
+  },
+  "actual_ROOT_body_only_adoption": {
+    "C_path": "private-witness:MOMOI_LOCATION_aa8112637d3614e05a9366823e0b765313425121c9500c935b2e68359394b470",
+    "bytes": 83705,
+    "sha256": "f3cffa89d68e246754bf162a0a1d1e9a302e736a10f39ca38611c941334afbb2",
+    "git_blob_oid_of_actual_bytes": "3497a6e59fc5bdb65fc192238f0bbbffb9747aeb"
+  },
+  "actual_author_feedback_receiving": "All161 peer unique reasons/controls whole38cd42/704160/9f847d/21e0e0/9518f0/b72711; ROOT12/currentconcurrence c60f42; own31-member readiness whole6c8eb6; actual ROOT24514 acceptance governs dated pending fields.",
+  "genuine12_pre_NEW105_comparative_questions": [
+    [
+      "M105Q01",
+      "Which particular original common-source good can illuminate Momoi's wanted play, snacks, softness, drinks, console memory or company without requiring a successful product or crisis payoff?",
+      "Use normal191–299 and body003/018/022–024 as actual local taste, act or wish; keep each comparator's different owner and reception."
+    ],
+    [
+      "M105Q02",
+      "How can environmental storytelling, conventional heroes and wanted impact coexist with unsolved writing, borrowed controller skill and finite helpful advice?",
+      "Use normal197–215; distinguish Momoi's ideas, Sensei's decisive play, days-later contradiction and unprinted finished script or second ending."
+    ],
+    [
+      "M105Q03",
+      "When do an imagined score, game buff, role or success claim reveal a person's attention without validating its numbers, mechanism or institutional authority?",
+      "Use normal217–227/261–281/285–299, keeping invented points, fictive buffs, reported support and actual machine effects distinct."
+    ],
+    [
+      "M105Q04",
+      "What does a cared-for old console or bought gift allow us to say about memory, material care and a sibling's response, and what does it leave unknown?",
+      "Use normal239–247 and V002124–126; retain probably, reported gift history, lost location and separate failed/successful hunts, without reading Midori's mind."
+    ],
+    [
+      "M105Q05",
+      "How do an actual drink, cleaning and tasty bought food differ from promised rest or failed machinery as recipient-shaped care?",
+      "Use normal233–237/249–281; do not transfer later gratitude or intention into consent, homemade authorship, tested efficacy, recovery or all-future safety."
+    ],
+    [
+      "M105Q06",
+      "Which source-specific requests and refusals constrain invitations, control, bodily methods and the duration of wanted company?",
+      "Preserve adult fatigue and protest, Momoi's lottery non-guarantee, requested secrecy, Yuzu's changing answers and each comparator's real direction; no permanent access or reciprocal romance."
+    ],
+    [
+      "M105Q07",
+      "How does courtesy before escalation complicate both the sore-loser and community-guardian readings?",
+      "Use whole G25059–99: newcomer grievance is substantive, intimidation and insider exception remain contestable, threats are not shots and bug interpretation is not forensic proof."
+    ],
+    [
+      "M105Q08",
+      "How can chosen later participation and an achieved win coexist with initial pressure, unwanted acclaim and an unfinished ordinary purpose?",
+      "Use Yuzu's refusal, conditional watching, volunteered match, perfect local victory, apology and exit; wanted console-viewing recovery and lasting publicity preference stay unprinted."
+    ],
+    [
+      "M105Q09",
+      "What do role recognition, borrowed clothes and late shared play accomplish in E825 without legitimating the undisclosed work or danger?",
+      "Keep Alice invitation/Toki thanks, Toki responsibility/Neru apology, peer discoveries and rescues distinct; custody, transfer, cash, funding and new-game production require their own actual acts."
+    ],
+    [
+      "M105Q10",
+      "How should written repertoire, inward realizations, teacher alternatives, generic logs and uncertain source actors constrain each new comparison?",
+      "No accumulated alternatives, telepathy, performed voice or new calendar; use exact qualified local correspondences and leave empty joins or unresolved headings unchanged."
+    ],
+    [
+      "M105Q11",
+      "How do the actual V002/E854/Final contexts broaden Momoi's agency and ordinary attachments without a private-before-crisis growth mechanism or all-purpose competence?",
+      "Use only my actual selected intervals, preserve Momoi's lot, named peer rescue, hidden pilot information and gratitude pressure, and leave reversal beginning or unauthenticated Kei.sav finite."
+    ],
+    [
+      "M105Q12",
+      "For each of the105 new target functions, what exact positive, countercase, finite body role and stronger-evidence trigger are warranted at the original report and my actual maintained grades?",
+      "Keep original26WHOLE79SELECTED attributed, separate direct G250/E825 whole and E854 selected roles, retain full original11/M0083 and narrow qualifiers, all14OPEN/models0/no extra home or named duty; no new primary/admission/identity/count from authoring."
+    ]
+  ],
+  "original_common105_qualifier_reference": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 61767,
+    "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+    "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f",
+    "scope": "Published source130b9 current GSC six-purpose successor layer; source-consistency audit qualifiers and original purpose/source payloads remain operative at their actual disclosed grades. This Minato derivative does not alter their records, inverse proofs or actor decisions."
+  },
+  "original_common105_qualifier_scope": "Original source629 audit, PR152 frozen fields and later current effective qualifications remain operative at their disclosed snapshots; original source payloads are retained as dated owner history.",
+  "full_narrow61767_and59334_raw_copies": {
+    "frozen_25": {
+      "source_C_path": "private-witness:MOMOI_LOCATION_38d5b85d2f6777303af4fe7defdbf0bf5814afd04830a8c0d6e7b9138ba92b96",
+      "current_exact_C_raw_copy": "private-witness:MOMOI_LOCATION_3c1a8d94a0cbf079ab211bb9a63389d9a48db837f2ed254eaea8770e3ee38b82",
+      "bytes": 61767,
+      "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+      "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f"
+    },
+    "frozen_26": {
+      "source_C_path": "private-witness:MOMOI_LOCATION_b7f574f421c2646e1846f0586090e5d1cd9bd9517d814872c6cb50b1d265baa9",
+      "current_exact_C_raw_copy": "private-witness:MOMOI_LOCATION_32d0bef4a8c861792b6cca6a12e5242d1c7c2e4fc6b672ff6795f8fd95abd8ba",
+      "bytes": 59334,
+      "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+      "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679"
+    }
+  },
+  "current_common_source_use_qualifications": {
+    "O002": "Threatened telescope harm is not completed damage; coercive compliance is not free assent.",
+    "O015": "Initial courtesy precedes abuse and escalation. Observed missing chip damage is distinct from Alice bug hypothesis and any forensic exploit finding. Yuzu volunteers the later perfect local match; pressured attendance and unwanted publicity remain.",
+    "O023": "Rei requests the break Sumire grants; Rei wants stadium food and offers a treat, and Sumire permits one hot dog. Wanting food is not proof of eating; no meal consumed by Sumire is shown. Shared spectating is positive. G330 local absence of a later home run does not negate E845 actual grand slam.",
+    "O061": "The cheer request rejected in the represented imagined case is not an actual adult request or performed dream event.",
+    "O069": "Alice invites Toki and Toki thanks her. Toki proposes the teacher/club withdraw; the club refuses to leave a friend and Alice articulates wanted help. Toki later chooses fighting as their friend and offers shared responsibility. Neru praise/apology, crown custody, proposed transfer and future bounty keep distinct actors and endpoints.",
+    "O087": "Actual no-force one-week agreement and unpacking, not evidence the week was fulfilled.",
+    "O094": "Teacher request to read Miyo wanted romance novels is refused, not Miyo authorship or refusal to write/share authored writing.",
+    "O096": "Mel reported foodlessness precedes supplied food, then later bill/printing-cost bargaining. Contract follows rejected9:1; final agreed terms/ratio unprinted and future collection incomplete. No demonstrated deliberate food withholding or clinical starvation mechanism.",
+    "O098": "Himari inwardly aims to buy time; Eimi hardware report and Rio cracking remain distinct. Reversal begins, not final victory or authenticated resurrection.",
+    "O103": "Anna deliberate fuel use/public-failure fear differs from Elina admitted projection. Fuel, not battery, blocks starting.",
+    "O104": "Wage motive does not prove paid wages; producer30primary2reuse is attributed, not a new source inspection.",
+    "Momoi_gift_direction": "The reported old-console gift is FROM Momoi TO Midori. Probably Midori first console remains tentative; Momoi recall is not fresh Midori testimony.",
+    "actor_mode_chronology": "All original grades and local actors/modes stay literal. No implied Momoi attendance beyond actual source course, shared calendar, universal audience, performed voice, registry join or global absence."
+  },
+  "original_normal105_scope": "Complete frozen original105 report objects are reused literally at original26WHOLE79SELECTED attributed grades. Current own Momoi functions are new analytical work, not fresh underlying whole normal105 or primary receiving.",
+  "body_metadata_qualification": "Unchanged BODYV2 and earlier map/readiness statuses are dated creation-stage facts. Actual ROOT24514 readiness accepts genuine new105 only; no current exact8 component QA, ROOT package acceptance, count or public lifecycle is inferred.",
+  "all14_original_gaps": [
+    {
+      "original_gap_id": "G01",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G02",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G03",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G04",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G05",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G06",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G07",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G08",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G09",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G10",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G11",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G12",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G13",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G14",
+      "status": "OPEN"
+    }
+  ],
+  "own14_CL_are_not_original_gap_mappings": true,
+  "models": 0,
+  "inside_named_duty": null,
+  "separate_relationship_completion": 0,
+  "current_component_QA_ROOT_package_adoption_count_publication": "PENDING"
+}

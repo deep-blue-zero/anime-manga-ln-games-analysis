@@ -1,0 +1,159 @@
+{
+  "schema": "BLUE_ARCHIVE_UMIJI_MINATO_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1",
+  "home": "P3-CHAR-M040",
+  "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+  "body_tuple": {
+    "bytes": 42004,
+    "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+    "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+  },
+  "prepared_public_register_recovery_and_input_bindings": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_CURRENT_COMPLETE_CLAIM_REGISTER_V4.json",
+      "bytes": 628503,
+      "sha256": "69650b13a601d643ecbaef20d1fa3b445542f2ced3d42db9bd8443055fea3794",
+      "git_blob_oid_of_actual_bytes": "8927ec64b6e1df34db79c50ce380d9c2a9d9c123"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_CURRENT_CLAIM_BINDINGS_AND_RECOVERY_20261013_V1.json",
+      "bytes": 138079,
+      "sha256": "9d1a4b253e053ec253780fb3c886d3e7001eb9c312218604689855efc390024e",
+      "git_blob_oid_of_actual_bytes": "273c3333bd0dbbbd268b9868de75d8ecf8beb61e"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+      "bytes": 3751,
+      "sha256": "22cad693a81c7857ae7a85ab63a12b9ebde8b9062931d66e8cd4a258fecf66f8",
+      "git_blob_oid_of_actual_bytes": "039fa652771c287b229c87e4905a9688d43480d7"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "bytes": 43235,
+      "sha256": "831ed02afd0cffb3cb617e8bf43898e50e1caa7f56acc9044c62e599878a27b9",
+      "git_blob_oid_of_actual_bytes": "7878fc7670b0298801edeec8e7d48313118f77ca"
+    }
+  ],
+  "all105_dependency_bindings": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_CURRENT_ROOT_PURPOSE_INDEX_V1.json",
+      "bytes": 60419,
+      "sha256": "8d05c15f1d54a7ca816350af57fc6d54f7618fdaff94221344f8e01a9a2698bf",
+      "git_blob_oid_of_actual_bytes": "cb1d5ea000b7a8fb018380df3852d6b4d60307c2"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+      "bytes": 175040,
+      "sha256": "8e7e43b6b7643af9622bbaf69e91a0ded858fd4452ae3ff6773cd3054dbecdae",
+      "git_blob_oid_of_actual_bytes": "4316db408d1c8b1bfae685d5cff359817f59c2ae"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+      "bytes": 311785,
+      "sha256": "88022612a68c33c452639eaf4a7a9ba5bbfbc5e84bda6deea09c3537140a1002",
+      "git_blob_oid_of_actual_bytes": "74047a97019d8bb1ea6bdfd1c847ba68eaba2034"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+      "bytes": 462753,
+      "sha256": "528ba4307d3621c7565852727099a37cb8b66e325dc336c105695fe24a5cb553",
+      "git_blob_oid_of_actual_bytes": "4971d41202426c72d2c61abb8b1c367a856cd7cb"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_SOURCE_AND_FROZEN_RECEIPT_CUSTODY_V1.json",
+      "bytes": 238267,
+      "sha256": "59ebb8eadfec0661b779505e0465ede76e2f392d160f878e398d6ace81265dc8",
+      "git_blob_oid_of_actual_bytes": "9ca86c0649902c836901bc695362575c444faee3"
+    }
+  ],
+  "receiving_basis_snapshot": {
+    "literal_body_line3_source_reference": "130b9c1c230c928601041b9b8ef4f013d44b24e7",
+    "literal_body_line3_integrated_main_reference": "0ed395926cca502fe1461d8c172330baab99e70e",
+    "role": "FIXED_ACTUAL_RECEIVING_BASIS_SNAPSHOT_NOT_THE_FUTURE_MINATO_PUBLICATION_HEAD",
+    "ROOT_fresh_fetch_witness": "82bad8",
+    "body_bytes_must_not_change_to_predict_future_publication_SHA": true,
+    "current_published_source_packages": 134,
+    "current_named_duties": 14,
+    "main_integrated_packages": 133,
+    "conditional_Minato_package135": "NOT_CREDITED_INSTALLATION_PUBLICATION_AND_FINAL_TRANSPORT_RECEIPTS_REQUIRED",
+    "extra_named_credit": 0
+  },
+  "authoritative_corrected_actual_body_operations_V2": {
+    "bytes": 47054,
+    "sha256": "e8a7e74c39d72fe96aec09bd498990785d72284c20eff4b93c251bc4877dd55c",
+    "git_blob_oid_of_actual_bytes": "27bbce62d32349143657fde6bf2b60484bba6d23"
+  },
+  "private_exact_originals_and_complete_sanitization_inverse_preserved": true,
+  "all_nine_actual_forward_and_full_inverse_executed": true,
+  "claim_binding_counts": {
+    "original57": 57,
+    "unchanged51": 51,
+    "approved_original_successors6": 6,
+    "new058": 1,
+    "current_total58": 58,
+    "rivals8": 8,
+    "finite_ends16": 16,
+    "original_OPEN_gaps14": 14
+  },
+  "strict_UTF8_LF_noBOM_single_trailing_LF_public_JSON_under1MiB": true,
+  "current_package_installation_publication_independent_final_transport_receiving": "PENDING_ROOT",
+  "self_binding_role": "EXTERNAL_PROOF_MANIFEST_BINDS_THIS_RECEIPT; NO_RECURSIVE_SELF_HASH",
+  "source_and_credit_limits": {
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "core19": {
+      "whole_admitted_analytical_normals": 18,
+      "adequate_same_ROOT_prior_normal": 1,
+      "source_scope_credit_boundary": "18 fresh complete admitted NORMAL arguments and1 adequate sameROOT prior NORMAL argument with exact documented display repair. No other-writer source receiving, availability or copying is converted to personal primary reading."
+    },
+    "supplemental105": {
+      "ROOT_individually_adopted": 105,
+      "author_complete_normal_scopes": 26,
+      "author_selected_connected_account_scopes": 79,
+      "ROOT_report_receiving_does_not_upgrade_underlying_extents": true
+    },
+    "new_primary_native_raw_AV_private_identity_model_credit": 0,
+    "separate_parents": "Sammy directed care, Odysseia institution, claimant and GSC parents remain separately responsible.",
+    "ordinary_intrinsic_value_and_each_recipient_mode_preserved": true
+  },
+  "current_ROOT_receiving_qualification_and_prepared_dependency_bindings_20261013_V1": {
+    "decision": "CURRENT_PREPARED_COMPONENT_MEANINGS_ACCEPTED_BY_ROOT_WITH_LIMITS;ACTUAL_CANONICAL_INSTALLATION_PUBLICATION_AND_MAIN_REMAIN_SEPARATE",
+    "qualified_historical_prepared_array": "prepared_public_register_recovery_and_input_bindings retains exact original preparation tuples. This current array supersedes its ROOT receipt tuple only and adds the complete durable QA binding; other prepared files are unchanged.",
+    "current_prepared_register_recovery_ROOT_input_and_full_QA_bindings": [
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_CURRENT_COMPLETE_CLAIM_REGISTER_V4.json",
+        "bytes": 628503,
+        "sha256": "69650b13a601d643ecbaef20d1fa3b445542f2ced3d42db9bd8443055fea3794",
+        "git_blob_oid_of_actual_bytes": "8927ec64b6e1df34db79c50ce380d9c2a9d9c123"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_CURRENT_CLAIM_BINDINGS_AND_RECOVERY_20261013_V1.json",
+        "bytes": 138079,
+        "sha256": "9d1a4b253e053ec253780fb3c886d3e7001eb9c312218604689855efc390024e",
+        "git_blob_oid_of_actual_bytes": "273c3333bd0dbbbd268b9868de75d8ecf8beb61e"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "bytes": 9105,
+        "sha256": "98be8cde958dba4c3e792027137110ea25c94ed2ef59b6a8ff5b952b3cb3f9cc",
+        "git_blob_oid_of_actual_bytes": "7af2048aeddc34871e1f91cc852d4b19da684828"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "bytes": 43235,
+        "sha256": "831ed02afd0cffb3cb617e8bf43898e50e1caa7f56acc9044c62e599878a27b9",
+        "git_blob_oid_of_actual_bytes": "7878fc7670b0298801edeec8e7d48313118f77ca"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_INDEPENDENT_BODY_AND_PURPOSE_REVIEW_20261013_V1.json",
+        "bytes": 528589,
+        "sha256": "2ded615a8409a76be31a42bc3f2f27fb76798e19c43df8289cef4a32feffd2d7",
+        "git_blob_oid_of_actual_bytes": "df3ade5a3c0f6387262364e703d21fa77a0af2d5"
+      }
+    ],
+    "all105_prepared_bindings": "Existing all105_dependency_bindings remains exact and operative.",
+    "semantic_qualification_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json#/current_ROOT_semantic_receiving_qualification_20261013_V1",
+    "qualified_old_PENDING_ROOT": "The old scalar combines semantic receiving with future operations. Current component receiving is accepted; installation/source/CI/main claims require distinct actual evidence.",
+    "recursive_self_hash": "NONE; exact current transport bytes are bound by the external composed manifest.",
+    "fixed_receiving_basis_not_future_publication_head": true
+  }
+}

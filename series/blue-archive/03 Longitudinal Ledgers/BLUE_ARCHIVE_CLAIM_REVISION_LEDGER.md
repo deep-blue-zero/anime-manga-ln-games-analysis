@@ -11,7 +11,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 
 # BLUE ARCHIVE CLAIM REVISION LEDGER
@@ -4035,3 +4035,16 @@ The [operative correction register](../08%20Audits%20and%20Manifests/BLUE_ARCHIV
 | BA-SC-20261011-05 / SR008 | REVISE | The joint capture resolves the local collaborators/conduit; Kai and her larger project remain unresolved. | EVENT826 in the correction register |
 | BA-SC-20261011-06 / HA021 | REVISE | Ako's imagined report is twenty-thousand characters, not words; it remains an internal demand. | AKO in the correction register |
 | BA-SC-20261011-07 / SR020, E08 | REVISE | The board-game trap punctures Saya's renewed boast before the later MomoTalk admission of loss and wish for a rematch; no rematch or future win is established. | N06 in the correction register |
+
+## Kei source-fidelity corrections — 2026-10-16
+
+The [correction record](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_SOURCE_FIDELITY_CORRECTIONS_20261016.json) binds the complete Japanese three-scene recheck, exact old/new clauses, affected retained review copies, and current byte/locator routing. The prior source account and reviewer decisions retain their dated scopes; repository validation is separate from source-fidelity adjudication.
+
+| Claim / dependency | Transition | Current formulation | Evidence |
+|---|---|---|---|
+| KEI-P015 and literal copy | REVISE | Kei's current body had apparently been destined for disposal; neither completed disposal nor an earlier body's disposal is reported. The pickup wording is a simile. | private002 u0025/u0031; pinned raw GroupId1013502, DataList234169/234175 |
+| KEI-P023 / KEP042 and retained copies | REVISE | Not bad evaluates school. The later arcade invitation, acknowledged prior enjoyment and unshown future visit remain distinct. | private005 u0053–0054/u0073–0080; GroupId1013505 |
+| KEP051 / KEP073 / KEP090 / KEP094 and dependent reasons | REVISE | Kei recognizes the danger that her criticism will impose her wishes on the makers. This supports respect for others' creative agency, not a reversal into others imposing those game preferences on her. | private006 choice011/u0056–0063; GroupId1013506, DataList234534/234537/234540–234548 |
+| KEI-P026/P027/P053/P057/P061/P067, KE06 and source-account line115 | REVISE | Agreement with the caution and feeling understood are shown. Acceptance of a new feedback proposal, changed subsequent practice and completed design are not established. | Same private006 exchange; exact dependent replacements and historical qualifications in the correction record |
+
+These corrections retain the existing package, named-section, source-admission, identity and model boundaries and leave all fourteen original gaps open.

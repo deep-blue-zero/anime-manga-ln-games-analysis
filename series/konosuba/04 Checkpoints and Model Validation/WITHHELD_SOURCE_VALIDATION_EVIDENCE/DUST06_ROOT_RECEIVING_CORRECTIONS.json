@@ -1,0 +1,206 @@
+{
+  "state": "ATTRIBUTABLE_EXTERNAL_CORRECTIONS_ORIGINAL_INITIALS_PRESERVED",
+  "source_id": "DUST-06",
+  "accepted_utc": "2026-10-17T19:39:07.686147+00:00",
+  "complete_private_correction_input": {
+    "name": "DUST06_EXTERNAL_CURRENT_SOURCE_AND_ROUTE_CORRECTIONS.json",
+    "bytes": 9450,
+    "sha256": "8795acdc7ed3d0b54f822061d4a1d0a68c52fc8bd8b485caa1576b56a2a6186d"
+  },
+  "earlier_root_erratum_input": {
+    "name": "ROOT_POST_INITIAL_CHRONOLOGY_AND_ATTRIBUTION_ERRATA.json",
+    "bytes": 5439,
+    "sha256": "58c13ed1d6f69058b7922b93bed6f6913d7ab4dcf60f2df787e8650da67e475f"
+  },
+  "earlier_root_corrections": [
+    {
+      "id": "D06-ROOT-ERR-01",
+      "old_claim": "Root earlier shorthand put the old C02P173 wedding tomorrow.",
+      "new_claim": "The old princess says 明後日 at173; Line at196 permits return tomorrow to reach the day-after-tomorrow ceremony. This is two days, not tomorrow.",
+      "primary_locator": "C02P169–204, especially173/196",
+      "independent_reader": "I correctly retained two days in its initial; its actual native recheck exposed root error.",
+      "impact": "Correct old-episode chronology; no date supplied for later current-frame marriage and no automatic E04 outcome. Preserve every original note/assessment byte."
+    },
+    {
+      "id": "D06-ROOT-ERR-02",
+      "old_claim": "Any root summary reducing C02P896 to willingness alone without its actual conditional ability judgment.",
+      "new_claim": "Line privately judges he could probably repel the commander by all-out combat, then refuses on gratitude grounds. He separately sees no escape with other knights and Faitfore secured897–898. Conditional self-assessment is not demonstrated victory, general superiority or feasible escape.",
+      "primary_locator": "C02P887–918, especially895–898",
+      "impact": "Keep ability, willingness and opportunity distinct; S externally qualifies its compressed could-fight card. No new model or outcome."
+    },
+    {
+      "id": "D06-ROOT-ERR-03",
+      "old_claim": "Capitalized Sleep phase or signal/Sleep in reviewer wording could be read as a printed formal spell name.",
+      "new_claim": "Use observed sleep-inducing effect, actual Rolyssa provider and prearranged cue; no formal spell name is printed in the cited aerial interval.",
+      "primary_locator": "C04P582–596, reused root complete first reading and peer exact checks; no new root recheck of that interval claimed in this receipt.",
+      "impact": "Attribution/nomenclature precision only; preserve originals."
+    }
+  ],
+  "additional_current_corrections": [
+    {
+      "id": "D06-ROOT-ERR-04",
+      "old": "D06-R-025 calls C02P304–306 unsteady near-speechless.",
+      "current": "Vacant-eyed at304, an actual compressed utterance305 and audible muttering306. No demonstrated speech incapacity at302–303; later fatigue323–324 stays later.",
+      "route": "C02P286–326",
+      "impact": "Exact observed description, no outcome rescue or initial rewrite."
+    },
+    {
+      "id": "D06-ROOT-ROUTE-01",
+      "old": "D06-E23 has C03P410–423 but empty source_first_observation_ids/observation arrays.",
+      "current": "Existing original D06-R-049 covers C03P410–450 and is already embedded under E08. Current E23 route points to that original observation, clipped context410–423, with explicit overlap/dependence.",
+      "new_source_observation_created": false,
+      "original_arrays_unchanged": true
+    },
+    {
+      "id": "D06-JP-PRECISION-01",
+      "current": "S JP08’s explanatory 今/今日 wording is narrowed to actual 今日 atC02P128; source witness itself was exact. C01P422 is the target of regret/反省, not proof of a newly performed apology.",
+      "impact": "Literal/pragmatic wording precision only; no new L code, motive certainty or outcome."
+    },
+    {
+      "id": "D06-NATIVE-ALIAS-01",
+      "current": "C02P762/771 prints リール but766 prints リーン. Preserve the actual native local edition inconsistency rather than silently substituting the later actual Leen into the old scene.",
+      "impact": "Identity/locator precision; working Romanizations are not official evidence."
+    },
+    {
+      "id": "D06-EVENT-AUTHORITY-01",
+      "current": "Use defeated for the worm’s 倒された atC03P256. A gruesome screened outcome atC04P254 does not independently certify detailed corpse anatomy/death; threats, imagined acts and a seen whip are not completed events.",
+      "impact": "No fabricated event authority."
+    }
+  ],
+  "current_route_operations": {
+    "state": "EXACT_THREE_CURRENT_ROUTE_ALIGNMENTS_FULL_FORWARD_INVERSE_PASS",
+    "predecessor": {
+      "bytes": 224621,
+      "sha256": "85dfcadf0619c3a40da027d6cc6cbc5cedf2953b38a808f1dadacbe01d0fc406"
+    },
+    "successor": {
+      "bytes": 226176,
+      "sha256": "817aad979d6438da87b2a1b3ba4fdff67906b7fda03cd1651eeebde1ac780cf7"
+    },
+    "operations": [
+      {
+        "contract_id": "R1-A02",
+        "field": "root_current_proposal.primary_routes",
+        "before_exact": [
+          {
+            "source_id": "DUST-06",
+            "unit": "C04",
+            "member": "item/xhtml/p-005.xhtml",
+            "first_p": 532,
+            "last_p": 539
+          }
+        ],
+        "after_exact": [
+          {
+            "source_id": "DUST-06",
+            "unit": "C04",
+            "member": "item/xhtml/p-005.xhtml",
+            "first_p": 532,
+            "last_p": 539
+          },
+          {
+            "source_id": "DUST-06",
+            "unit": "C04",
+            "member": "item/xhtml/p-005.xhtml",
+            "first_p": 127,
+            "last_p": 132
+          }
+        ],
+        "reason": "Current rationale/primary-route alignment; original initial and coordinated reviewer fields preserved. No outcome/type/threshold change."
+      },
+      {
+        "contract_id": "R1-A08",
+        "field": "root_current_proposal.primary_routes",
+        "before_exact": [
+          {
+            "source_id": "DUST-06",
+            "unit": "C03",
+            "member": "item/xhtml/p-004.xhtml",
+            "first_p": 501,
+            "last_p": 518
+          }
+        ],
+        "after_exact": [
+          {
+            "source_id": "DUST-06",
+            "unit": "C03",
+            "member": "item/xhtml/p-004.xhtml",
+            "first_p": 501,
+            "last_p": 518
+          },
+          {
+            "source_id": "DUST-06",
+            "unit": "C01",
+            "member": "item/xhtml/p-002.xhtml",
+            "first_p": 101,
+            "last_p": 126
+          },
+          {
+            "source_id": "DUST-06",
+            "unit": "C01",
+            "member": "item/xhtml/p-002.xhtml",
+            "first_p": 451,
+            "last_p": 500
+          },
+          {
+            "source_id": "DUST-06",
+            "unit": "C02",
+            "member": "item/xhtml/p-003.xhtml",
+            "first_p": 984,
+            "last_p": 1019
+          }
+        ],
+        "reason": "Current rationale/primary-route alignment; original initial and coordinated reviewer fields preserved. No outcome/type/threshold change."
+      },
+      {
+        "contract_id": "R1-M07",
+        "field": "root_current_proposal.primary_routes",
+        "before_exact": [
+          {
+            "source_id": "DUST-06",
+            "unit": "C03",
+            "member": "item/xhtml/p-004.xhtml",
+            "first_p": 491,
+            "last_p": 518
+          }
+        ],
+        "after_exact": [
+          {
+            "source_id": "DUST-06",
+            "unit": "C03",
+            "member": "item/xhtml/p-004.xhtml",
+            "first_p": 491,
+            "last_p": 518
+          },
+          {
+            "source_id": "DUST-06",
+            "unit": "C03",
+            "member": "item/xhtml/p-004.xhtml",
+            "first_p": 29,
+            "last_p": 43
+          },
+          {
+            "source_id": "DUST-06",
+            "unit": "C04",
+            "member": "item/xhtml/p-005.xhtml",
+            "first_p": 381,
+            "last_p": 391
+          }
+        ],
+        "reason": "Current rationale/primary-route alignment; original initial and coordinated reviewer fields preserved. No outcome/type/threshold change."
+      }
+    ],
+    "added_metadata": {
+      "authored_utc": "2026-10-17T19:32:20.086044+00:00",
+      "predecessor_bytes": 224621,
+      "predecessor_sha256": "85dfcadf0619c3a40da027d6cc6cbc5cedf2953b38a808f1dadacbe01d0fc406",
+      "scope": "Three new current route arrays expanded to match actual individualized rationales. No original initial/coordinated field or root8E rationale changed.",
+      "original_v1_preserved": true
+    },
+    "full_inverse_byte_exact": true,
+    "no_outcome_model_initial_or_source_change": true
+  },
+  "all_originals_unchanged": true,
+  "no_new_primary_or_model_revision": true,
+  "source_media_native_paths_full_XML_and_acquisition_records_published": false
+}

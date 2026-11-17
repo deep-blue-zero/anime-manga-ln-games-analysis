@@ -1,0 +1,193 @@
+{
+  "schema": "konosuba/pre-response-binding-metadata-only-final/v1",
+  "state": "FINAL_BINDINGS_SEALED_NOT_EXECUTED_NO_EXECUTION_PERMISSION",
+  "sealed_at_utc": "2026-10-17T14:21:16.897072+00:00",
+  "counts": {
+    "fixed_case_settings": 45,
+    "individual_cases": 36,
+    "party_cases": 9,
+    "individual_executions": 72,
+    "party_executions": 18,
+    "all_bindings": 90,
+    "owner_root": 18,
+    "owner_producer": 36,
+    "owner_independent": 36,
+    "responses_generated_read_or_evaluated_in_this_operation": 0
+  },
+  "project_reconstruction_generation": "V1",
+  "reconstruction_model_version": "MAIN_ONLY_R1",
+  "historical_root_prose_alias_disambiguated": "model_generation MAIN_ONLY_R1 is a preserved alias, not project V2 or Gen06.",
+  "exact_received_model_inputs": {
+    "K": {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 60135,
+      "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+    },
+    "T": {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+      "bytes": 49900,
+      "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+    },
+    "A": {
+      "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+      "bytes": 63022,
+      "sha256": "f85d902572a6d1f5094a3892c693d7d456dde5b90b688d706840693a63499187"
+    },
+    "M": {
+      "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 59422,
+      "sha256": "618a867bfadb361305de4a4b8587a86f348eae1985042bbef11389fd9ab67080"
+    },
+    "D": {
+      "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-source-precision-proposal-v4/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+      "bytes": 61217,
+      "sha256": "dc70739ab5613e70b6387421f324330735a0b79d1944100a3fd613f1cd2a310f"
+    },
+    "E": {
+      "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-receiving-v2/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+      "bytes": 66517,
+      "sha256": "13c288a0278f87af60ee0b1c01d04ed6336977e9f34d36e9f163a9e6399b0271"
+    }
+  },
+  "original_bank_metadata_seal": {
+    "path": "/workspace/scratch/konosuba/reconstruction-case-bank-private-v1/METADATA_ONLY_CASE_BANK_SEAL.json",
+    "bytes": 1251,
+    "sha256": "dc623e198c411e307c96767a69da21432d88289e198652fa7d93f4a8bebf1120"
+  },
+  "bank_stream_identity": {
+    "path": "/workspace/scratch/konosuba/reconstruction-case-bank-private-v1/SEALED_EVALUATOR_CASE_BANK_PRIVATE.json",
+    "bytes": 130801,
+    "sha256": "1d88c6f5356adcb8b54bb401952be9b4b83f046a4aa141755af4a14e04e74e9f"
+  },
+  "original_ninety_prompt_core_stream_identity": {
+    "path": "/workspace/scratch/konosuba/reconstruction-case-bank-private-v1/SEALED_EXECUTABLE_PROMPTS_PRIVATE.json",
+    "bytes": 304159,
+    "sha256": "a0e260030457c940f06412c33894a86a69ba1aa301044af87ab9e9ab6f60674c"
+  },
+  "root_safe_to_read_before_K18_response_seal": [
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/ROOT_SAFE_PRE_EXECUTION_METADATA_PROJECTION.md",
+      "bytes": 7120,
+      "sha256": "e2b3cff5a60ed2ad8153f934d5b4bc9a19197fecef5517836aa7c65d757351f8"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/AUTHOR_SCOPE_AND_RELEASE_LIMITS.md",
+      "bytes": 6024,
+      "sha256": "4eeace2d48f303415b28a910d2ecd03b6eba9421f08f4cbff2d2b3f2b86ccaf1"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/SAFE_PRE_RESPONSE_INTEGRITY_QA.json",
+      "bytes": 2793,
+      "sha256": "3b4f7de566f41f963f3253fbc7e5c144dc6dcfd36a327871231b052d0064e0da"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/verify_pre_response_integrity.py",
+      "bytes": 7514,
+      "sha256": "d5bdacc6a3621b2bf3d6f86cc334aa2a93cbbd6c2785e772a5c1b1e86a3a596c"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/DARKNESS_ACCEPTED_PIN_REFRESH_EXACT_INVERSE_RECEIPT.json",
+      "bytes": 12316,
+      "sha256": "2e3ac095ec7dc5fba1a42c7cef67bd23db8ada784e6bbe2ca0a5bfd450655519"
+    }
+  ],
+  "owner_generation_packs_closed_until_explicit_root_execution_release": [
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/SAFE_OWNER_PROMPT_PACK_ROOT.json",
+      "bytes": 77120,
+      "sha256": "65157674d948f17907893abd47ab630e1e325aea1da1dbf17600b2f606375540"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/SAFE_OWNER_PROMPT_PACK_PRODUCER.json",
+      "bytes": 151637,
+      "sha256": "3c11810c46f78632c92f839d7300cb4514c0582252b0fcb18afa0ac45e7a3b66"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/SAFE_OWNER_PROMPT_PACK_INDEPENDENT.json",
+      "bytes": 148201,
+      "sha256": "7fcc86d74bd8932dc5cb4c2c1429948d7e6d9e38d8c3001559c8a61c5932163c"
+    }
+  ],
+  "evaluator_private_closed_to_generators_before_first_complete_response_seals": [
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/SEALED_PRE_RESPONSE_BINDINGS_PRIVATE.json",
+      "bytes": 1382202,
+      "sha256": "0a05252f1005f482da2d0f015d4431f715c9b8544451d2d7ba3251fdeecd189d"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/EVALUATOR_BINDING_READING_PROJECTION_PRIVATE.md",
+      "bytes": 89811,
+      "sha256": "e08e7eaf4d4494932408738fed8701d754c0a0180a33d52dd7865e880cb6249f"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/ALL39_FIXED_BANK_COVERAGE_NOT_OUTCOMES.json",
+      "bytes": 3444,
+      "sha256": "6d527b18f543dd254d83f7ae89b9edd66d587db38405fa98f98ef24925b1d380"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/EXACT_RECEIVED_MODEL_CONTRACT_REGISTRY.json",
+      "bytes": 250967,
+      "sha256": "680748c892a9178852901c217b657119afeea3879e547db8a393d93878d9b833"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/PRIVATE_ACTUAL_BINDING_AUTHOR_READBACK_SCOPE.json",
+      "bytes": 1044,
+      "sha256": "4fd4322f93ef14f63516b9b37f7a691e1689581d5ab4299e1030ef4be0397cb7"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/build_pre_response_bindings.py",
+      "bytes": 75304,
+      "sha256": "9fe2f4b86f0bbd485dcb8bd9aebfe23d1222aa75ea17f3a68e2bdb2915346d01"
+    }
+  ],
+  "source_precision_root_acceptance": {
+    "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/ROOT_ACCEPTED_DARKNESS_SOURCE_PRECISION_PREBINDING_SUCCESSOR.json",
+    "bytes": 2280,
+    "sha256": "6530cd6eeedb8553d02090cf1f20612170b33fc476fba0f53c4be40dece55b12"
+  },
+  "refresh_authoring_and_sealing_scripts": [
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/apply_accepted_darkness_pin_refresh.py",
+      "bytes": 7801,
+      "sha256": "f5d33986d684b8467c08cf9d30e1b7d721413b5fc0d4f218d57ddfe49fa167c6"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/seal_pre_response_handoff.py",
+      "bytes": 7372,
+      "sha256": "d34f390a92c681c8cf5c89dd3f3028b377bf115dcf17a7c32bf0bb5518202c4d"
+    }
+  ],
+  "first_complete_draft_preserved": "UNSEALED_COMPLETE_DRAFT_BEFORE_D_LOCATOR_RESOLUTION",
+  "immediate_pre_refresh_complete_draft_preserved": "COMPLETE_PRE_REFRESH_DRAFT_PRESERVED",
+  "dependency_hold_and_draft_manifest": "Preserved historical records; superseded for current pin readiness only by the accepted refresh and this final seal.",
+  "earlier_bound_at_timestamp_meaning": "Existing registry creation and per-row bound_at fields retain the first complete conceptual/rule-binding draft times. The accepted Darkness identity was refreshed only at this receipt recorded_utc, after its root acceptance and before final binding seal or any response; no claim that the new identity was already bound at the older draft timestamp.",
+  "all_original_case_facts_modes_and_prompt_core_hashes_unchanged": true,
+  "all_private_profiles_goals_exceptions_rule_categories_and_outcomes_unchanged_by_pin_refresh": true,
+  "contract_types": {
+    "person_party_behavioral_or_valuation_commitments": 39,
+    "typed_transfer_consistency_constraints_excluded_from_behavioral_counts": 4
+  },
+  "aggregate_overlapping_primary_rule_views_not_trials": {
+    "FULL_PREBOUND": 30,
+    "PARTIAL_NOT_FULL_TEST": 58,
+    "NOT_TRIGGERED": 580,
+    "CONDITIONAL_PHASE_ONLY_NOT_INITIAL_FULL_TEST": 32,
+    "FULL_WITH_PREBOUND_MODEL_INFERENCE": 2
+  },
+  "initial_full_or_prebound_inferential_mapping_distinct_commitments": 5,
+  "other_commitments_without_initial_full_conjunction": 34,
+  "testability_scope": "Nine-family/ninety-execution coverage is not complete antecedent coverage of all39. Missing/partial/conditional phases are not passes; no model prediction totals, averages, personality accuracy or statistical inference follows.",
+  "source_snapshot_scope": "Exact published39b specialist input/old66-pin snapshot is historical and retrievable. Current CR-MAIN007 qualification paths are not asserted byte-identical to old66 current files. No fresh all66-current-path verification.",
+  "root_preexecution_receiving_scope": "METADATA_INTEGRITY_SAFE_POLICY_ONLY. Root must not read full bindings/expectations before its first complete K18 response seal. P/I likewise use only own masked prompts/current models before first response seals. Full substantive receiving of prebound detail is post-response.",
+  "positive_masking_policy": "Packs contain exact original available-information prompt cores, current model identities and common output fields only; no evaluator-only world truth, case-specific expected answer, rule eligibility, adverse signature or answer menu.",
+  "hidden_information_rule": "Hidden world facts are not character knowledge or grounds to penalize warranted ignorance. Owner-only private information stays owner-only until disclosure. Unprovided inquiry replies and unknown physical outcomes remain unresolved.",
+  "runtime": "UNKNOWN_NOT_EXECUTED",
+  "actual_future_execution_times": null,
+  "execution_permission": "NOT_GRANTED_BY_THIS_SEAL; separate explicit root release required.",
+  "limitations": [
+    "Shared source and specialist-informed case author; post-comparison model receiving, not statistical independence or original coding.",
+    "No new primary narrative, excluded/expanded/holdout/image exposure.",
+    "No canonical/Git write, source validation, model/suite acceptance or suite freeze.",
+    "Private full binding exceeds1MiB; preserve original stream and create lossless sub1MiB owner partitions with complete byte reassembly proof for later publication."
+  ]
+}

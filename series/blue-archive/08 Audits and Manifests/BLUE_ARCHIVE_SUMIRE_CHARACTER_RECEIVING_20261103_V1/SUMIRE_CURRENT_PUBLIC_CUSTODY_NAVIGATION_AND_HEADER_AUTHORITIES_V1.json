@@ -1,0 +1,194 @@
+{
+ "schema": "SUMIRE_CURRENT_PUBLIC12_CUSTODY_NAVIGATION_AND_HEADER_AUTHORITIES_V1",
+ "artifact_id": "SUMIRE_CURRENT_PUBLIC_NAV_20261103_V1",
+ "preparation_scope": {
+  "metadata_prepared": "2026-11-03",
+  "composer": "/root/recover_yuzu_saved_review",
+  "role": "Public metadata composition of actual ROOT-adopted privateV3; distinct publicbyteQA and ROOT publicadoption pending",
+  "original_authors_and_reviewers": "Original body/new525 author and full236 reviewer remain attributed inside complete retained reports; finiteV2/V3 reviewers, finite author and ROOT have separate courses. Composer adds no literary or source reading credit.",
+  "current_semantic_limits": "All52 literary paragraphs and525 target values exact; SMP013 completed personalised menu, SMP015 obtained apology to Momoi and unchanged SS04Kei03 source-use qualification remain operative. Canonical Kei record50345 remains distinct from C-only55781 route proposal; no global installation implied.",
+  "dated_status_rule": "Original NOT_STARTED/body-only/source/pending/withfindings fields retain dated creation scopes. Actual ROOT19100 accepts private8 only. Current public interpretation and header authority are supplied separately without rewriting old judgments.",
+  "source_grade": "Original author/fullreviewer maintained4WHOLE950 attributed; finite composer own selectedG25015 from its earlier assigned task is not a new composition source course. No primary/native/raw/AV/normal105/source admission.",
+  "identity": "Existing P3-CHAR-SUMIRE/home56/F138/BA_PERSON_SUMIRE variants10012/20044 costume1900936201; no alias/identity/named/extraREL completion.",
+  "gaps_models_count": "All14 original gaps OPEN; model0 and published152/355 named19/29 remain unchanged. No install/runtime/publication/merge credit."
+ },
+ "exact_current_first10_nonself_components": [
+  {
+   "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SUMIRE_CHARACTER_MONOGRAPH.md",
+   "bytes": 25661,
+   "sha256": "602dd505b980ba18b4ca651e898d60abf6c4d3e8c9830e121415dec430d44681",
+   "git_blob_oid_of_actual_bytes": "3a263325f6032874de501036982e55f87ad4e658"
+  },
+  {
+   "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_ALL105_GENUINE_NEW_PURPOSES_SMP000_SMP035_V1.json",
+   "bytes": 413399,
+   "sha256": "595e5ba946291d22fe3b3ff86cee8edbc33eda3abe124bba653d6905025ef6cb",
+   "git_blob_oid_of_actual_bytes": "adf089ae4e89f38a1d8867b4efd07a30148d40df"
+  },
+  {
+   "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_ALL105_GENUINE_NEW_PURPOSES_SMP036_SMP070_V1.json",
+   "bytes": 534525,
+   "sha256": "f6a02cc0d6d2955cac9fea8b68511b94f9967f3eea6b394eef476b0b3b88b389",
+   "git_blob_oid_of_actual_bytes": "4e0710862bbeebb5e5b17a8bdc6139be4a1ae01c"
+  },
+  {
+   "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_ALL105_GENUINE_NEW_PURPOSES_SMP071_SMP104_V1.json",
+   "bytes": 694460,
+   "sha256": "7009fdd5e1db482c33703e85975d2fc864566859d890debce03f0b0ae9765c95",
+   "git_blob_oid_of_actual_bytes": "f4e945971a92a6876031eb300b9e188c1526d71f"
+  },
+  {
+   "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_SOURCE4_COMPLETE12_ANSWERS_NEW105_QUESTIONS_GRADES_AND_CURRENT_COMMON_QUALIFICATIONS_V1.json",
+   "bytes": 46774,
+   "sha256": "866aab751189cf94cdb6fdf5bb144b74ed5ab681e14a75dffdf3e342037fce94",
+   "git_blob_oid_of_actual_bytes": "ec4cd8587461187d5efee2f4921364b38fc4b796"
+  },
+  {
+   "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_CURRENT_COMPLETE_LITERAL52_SOURCE_QUESTION_NEW105_RIVAL_END_GAP_REGISTER_V1.json",
+   "bytes": 890921,
+   "sha256": "a7ee8650a7dfc5e2af748500a7280bbd9f3d1ada59eed57f60a2d8299581b866",
+   "git_blob_oid_of_actual_bytes": "706522043ec1a268df861f260c5409af8e5c72bd"
+  },
+  {
+   "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_ALL105_GENUINE_NEW_PURPOSE_EXACT_PART_BODY_RELATION_INDEX_V1.json",
+   "bytes": 596983,
+   "sha256": "6a66043871873d4ec0504ab019b3022d5420eb2ee86c4d3d1e2ec2202c393065",
+   "git_blob_oid_of_actual_bytes": "bfd28b2c0d3604b1f74ff8bf65b4c81ba67b1818"
+  },
+  {
+   "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_CURRENT_EXACT8_ORIGINAL_CUSTODY_AND_CURRENT_GRAPH_TRANSPORT_V1.json",
+   "bytes": 26369,
+   "sha256": "bd7f6379c3b38103d01982bda38ff916714c6f29e10e5d4ea315f5c0a0e9eceb",
+   "git_blob_oid_of_actual_bytes": "14c07a70be06a4aa55750a3fbea34dbeb8d4abc8"
+  },
+  {
+   "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_PRIOR_DISTINCT_COMPLETE_COMPONENT_REVIEW_TRUTHFUL_INPUT_REPORT_V1.json",
+   "bytes": 619332,
+   "sha256": "e7476f23066a758c19a24309a5daecc24701818951c1990df0636787da45e79c",
+   "git_blob_oid_of_actual_bytes": "18fe6e7c4246b08da6be5064d0803c87ebf07bef"
+  },
+  {
+   "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_ACTUAL_ROOT_PRIVATE_V3_SEMANTIC_ADOPTION_PUBLIC_REPORT_V1.json",
+   "bytes": 17102,
+   "sha256": "afb0754b1c300da07c90517a79e89122e251ef411290732312a7741876c9edc1",
+   "git_blob_oid_of_actual_bytes": "945675b89a55daa61028f5e96dc63c217a15be6b"
+  }
+ ],
+ "current_header_authority_map": [
+  {
+   "header_witness_id": "ROOT_SUMIRE_PRIVATE_V3_SEMANTIC_ADOPTION_20261103_V1",
+   "original_private_receipt": {
+    "bytes": 19100,
+    "sha256": "11f826843f6172cee2589aaec9090f0cc1f16b3f2f7f9a0ee1b9860b63bc631d",
+    "git_blob_oid_of_actual_bytes": "caff57796980ace948c92f5dcac5296c3d47086e"
+   },
+   "current_public_report": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_ACTUAL_ROOT_PRIVATE_V3_SEMANTIC_ADOPTION_PUBLIC_REPORT_V1.json",
+    "bytes": 17102,
+    "sha256": "afb0754b1c300da07c90517a79e89122e251ef411290732312a7741876c9edc1",
+    "git_blob_oid_of_actual_bytes": "945675b89a55daa61028f5e96dc63c217a15be6b"
+   },
+   "role": "Actual prior private8 semantic acceptance only"
+  },
+  {
+   "header_witness_id": "SUMIRE_PRIOR_DISTINCT_COMPLETE_REVIEW_WITH_FINITE_V2_V3_QUALIFICATIONS_V1",
+   "current_public_report": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_PRIOR_DISTINCT_COMPLETE_COMPONENT_REVIEW_TRUTHFUL_INPUT_REPORT_V1.json",
+    "bytes": 619332,
+    "sha256": "e7476f23066a758c19a24309a5daecc24701818951c1990df0636787da45e79c",
+    "git_blob_oid_of_actual_bytes": "18fe6e7c4246b08da6be5064d0803c87ebf07bef"
+   },
+   "role": "Complete original18/full236 reasons with unchangedWITH_FINDINGS plus exact finiteV2/V3 resolution reports; composer is not reviewer"
+  }
+ ],
+ "complete_private8_review_basis": [
+  {
+   "bytes": 24824,
+   "sha256": "dfe08bd58e978531d3677639567a6d5441041646a5de22fe0cdd3277a2bb8ffe",
+   "git_blob_oid_of_actual_bytes": "0d3e5453789f2b262a8fa27ad9b7c179314cce22"
+  },
+  {
+   "bytes": 421558,
+   "sha256": "0a4277a2162fb82c0831551babcbda4d3b1a4f90d0536cb7f5d75fc331b0f3da",
+   "git_blob_oid_of_actual_bytes": "bd71193cc361361427605c78cdf365ad44449c35"
+  },
+  {
+   "bytes": 542416,
+   "sha256": "f45684de8e0c3b4638e401199ec3edf1d290a021ae6e85b5d13d4b1160bf8732",
+   "git_blob_oid_of_actual_bytes": "d63ccb2516829f52bc543aa38ece51829ae9cfa4"
+  },
+  {
+   "bytes": 702083,
+   "sha256": "f9657135b5bef4725cc93d916d334902cd49942083a8d9688ab4de26de6766ff",
+   "git_blob_oid_of_actual_bytes": "62590ece4742467ebc5849220433b490d0e0f461"
+  },
+  {
+   "bytes": 52497,
+   "sha256": "847bc263d309e2741a509347a9d81e82f1c6b4391445de1d95ab2e43c8c09589",
+   "git_blob_oid_of_actual_bytes": "d2b013c14a30efbe30b08ecc8528252ad2a34bba"
+  },
+  {
+   "bytes": 939372,
+   "sha256": "f8aacfa193d2a98e85c31341e2a5aa51c2ad09b07b3e68520393973a2c6c886a",
+   "git_blob_oid_of_actual_bytes": "df80b740af4b5dca2195f06ca50b1aa0d9b7da60"
+  },
+  {
+   "bytes": 697428,
+   "sha256": "adbb4581bc3d724427a25e5154fee52743268c48abf81eff9e6dd2d201e555b4",
+   "git_blob_oid_of_actual_bytes": "d52ed77b12238c673a677cf145ea59076ada9ec0"
+  },
+  {
+   "bytes": 29966,
+   "sha256": "8c980cbc5029242a92b0594afb0a0be7cc908f889c0eab0e816aacaa998768f3",
+   "git_blob_oid_of_actual_bytes": "ca60d5ce591d5498ba79c2365f9e34c578a490a0"
+  }
+ ],
+ "original14_and20_recovery_contract": {
+  "original14": 14,
+  "current_marker_selectors": 315,
+  "original20": 20,
+  "rule": "Complete private8/raw14/raw20 data and full inverse operations are held in bounded C composition recovery contract. No private target alias or new source credit."
+ },
+ "canonical_source_aliases": [
+  {
+   "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUMIRE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+   "role": "Only positively declared maintained source binding; no guessed person/variant/private9 route"
+  },
+  {
+   "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md",
+   "role": "Only positively declared maintained source binding; no guessed person/variant/private9 route"
+  },
+  {
+   "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2501_2502_DEEP_READING.md",
+   "role": "Only positively declared maintained source binding; no guessed person/variant/private9 route"
+  },
+  {
+   "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3301_3303_DEEP_READING.md",
+   "role": "Only positively declared maintained source binding; no guessed person/variant/private9 route"
+  },
+  {
+   "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+   "role": "Only positively declared maintained source binding; no guessed person/variant/private9 route"
+  },
+  {
+   "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_SOURCE_FIDELITY_CORRECTIONS_20261016.json",
+   "role": "Only positively declared maintained source binding; no guessed person/variant/private9 route"
+  }
+ ],
+ "historical_delivery_rule": "Generic nonresolving withheld values are not aliases. Exact original values/member order are losslessly recoverable in C-only inverse data.",
+ "current_body_geometry": {
+  "physical_lines": 155,
+  "literal_paragraphs": 52,
+  "private_original_lines": 145,
+  "private_original_tuple": {
+   "bytes": 24824,
+   "sha256": "dfe08bd58e978531d3677639567a6d5441041646a5de22fe0cdd3277a2bb8ffe",
+   "git_blob_oid_of_actual_bytes": "0d3e5453789f2b262a8fa27ad9b7c179314cce22"
+  },
+  "line_delta": 10,
+  "byte_delta": 673
+ },
+ "all14_original_gaps": "OPEN",
+ "models": 0,
+ "selfpin_rule": "First10 only; no self-reference"
+}

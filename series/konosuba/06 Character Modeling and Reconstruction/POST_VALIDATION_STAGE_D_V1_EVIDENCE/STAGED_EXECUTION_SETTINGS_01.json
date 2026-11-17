@@ -1,0 +1,16 @@
+{
+  "schema": "konosuba.staged.actual-execution-settings.v1",
+  "release_sha256": "50521dbaa39b6e196c3dc68e41a9f8fe61b32faba77fb8e8e55311915ad1b4ee",
+  "settings": {
+    "exact_served_model_build": "UNKNOWN",
+    "temperature": "UNKNOWN",
+    "top_p": "UNKNOWN",
+    "seed": "UNKNOWN",
+    "sampling_controls_set_by_this_run": false
+  },
+  "authoring": "Actual current assistant authors each bounded complete continuation separately as literal text. Python only serializes and hashes those texts; no response template or external model API is used.",
+  "context": "Source-known same assistant authored models, case bank, bindings, responses and later QA. Earlier case design anticipated behaviors; these are first complete released continuations, not blind first thoughts or independent API samples. Paired modes and all cases are dependent.",
+  "recording": "Exclusive UTF-8 response files, input/model hash joins and batch sealing time. Save time is not claimed to be per-token generation time. Preserve all firsts before any feedback. No rewriting originals, even for defects.",
+  "external_model_api_called": false,
+  "independent_api_samples": false
+}

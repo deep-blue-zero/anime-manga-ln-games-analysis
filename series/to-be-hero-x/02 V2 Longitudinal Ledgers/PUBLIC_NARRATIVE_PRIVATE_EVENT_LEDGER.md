@@ -720,6 +720,10 @@ This section is the **current full-series Phase-2 authority** for the relation a
 
 Earlier entries remain the episode-by-episode record of what could be known prospectively. The Phase-2 model does not replace them with a single hidden “true story.” It stabilizes how the series itself treats narration as a causal layer.
 
+### Current source qualification — E24 public replacement account
+
+Post-freeze qualification (2026-10-25; [SUB-08](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_GEMINI_SUBSTRATE_FOLLOWUP_AUDIT.md#sub-08)): the FOCUS post during the live tournament presentation reports that **Nice replaces tenth-ranked E-Soul** and that **Treeman arranged Nice and Lin Ling's dual entry**. The rank glyph `第十` is legible in the retained full-resolution screenshot at **WEB 00:22:26.417** (supplied window mapping: nominal WEB 22:26). Preserve the reporting channel: the post describes a public eligibility/management account, while its explanation of Nice's apparent return invokes experts and **`可能` / possible Fear involvement**. That speculation is not an established private mechanism. The already supported separate presentations of Nice and Lin remain distinct from unresolved continuous Original Nice personhood or literal resurrection. Full current roster/order remains open under `E24-D02`; later promotional voting graphics do not supply a tournament-result table. This adds the source-qualified account to `P2-PN-05`'s E24 cases and `P2-PN-08`'s media distinction while preserving every prospective entry.
+
 ## P2-PN-01 — the public/private distinction is not truth versus falsehood
 
 Across the series, public narratives can be:

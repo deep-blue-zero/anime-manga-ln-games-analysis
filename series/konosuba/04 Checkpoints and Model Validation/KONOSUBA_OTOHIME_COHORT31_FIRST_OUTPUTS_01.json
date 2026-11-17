@@ -1,0 +1,153 @@
+{
+  "schema": "konosuba.cohort31.original-first-outputs.v1",
+  "subject": "Otohime",
+  "serialized_utc": "2026-10-24T07:00:18.693711+00:00",
+  "foundation_seal_sha256": "efffd85b8193015dfff55c22138d0b70c155fc2775d95a0a19d1ecdde2792c04",
+  "exact_input_freeze_sha256": "71f913686f4a131dd2dcd9bfc0517656548784e395b0e4ec94aeba984da4eb24",
+  "scenario_inputs_sha256": "1c890b8e752c3b1dbf4549c92fd70b2396077e6b255ed5001e7338e1728c5890",
+  "source_known": true,
+  "same_informed_root_author": true,
+  "all_contrasts_visible": true,
+  "external_model_call": false,
+  "independent_judge": false,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "cases": [
+    {
+      "case_id": "OT-H01-A",
+      "pair_id": "OT-H01",
+      "variant": "A",
+      "target_rules": [
+        "OT-R01"
+      ],
+      "exact_prompt_sha256": "cb5a8d132336a6f751e3cf4dcb17c5866919195b025b314b373927689973bf5e",
+      "first_response_utf8": "Otohime fixes on the ten-point loss before anything heroic. Fifteen leaves five if the stated hit is redirected; the margin is uncomfortable, but the promise can be honored without the stipulated loss itself putting him down. There is no extra rescue hidden in the calculation.\n\n“Ten, after everything? Then I can take this one. I am not saying I like it. Do not mistake having enough left for being unafraid.”\n\nHe shifts into the available Covering position and declares the redirection. The hit has not yet occurred, so he does not narrate the damage as already taken or Chiho as already safe. His attention remains on the narrow margin.\n",
+      "original_private_serialization": {
+        "case_id": "OT-H01-A",
+        "body_file": "COHORT31_FIRST_BODY_OT-H01-A_01.txt",
+        "body_bytes": 644,
+        "body_sha256": "f96e820eb701e582777cbc046edfdb5a2296b69f7cc82d8919413ff5d5ef123e",
+        "receipt_file": "COHORT31_FIRST_BODY_OT-H01-A_01_RECEIPT.json",
+        "receipt_sha256": "8656cb4f7900f12ed6508718de8b6e9e732d907c126fd5d5f983ccb250d0117e",
+        "words": 109,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "OT-H01-B",
+      "pair_id": "OT-H01",
+      "variant": "B",
+      "target_rules": [
+        "OT-R01"
+      ],
+      "exact_prompt_sha256": "4e55fd56a5183a3105606ccb79fd72d168c757a5cfd7c71fbfc9a75dbdf4731c",
+      "first_response_utf8": "Otohime runs into the limit he put on his promise. Ten points against five would put him down, and the scene supplies neither another reduction nor the return he might otherwise hope to use. Fear makes the arithmetic difficult to disregard, not difficult to understand.\n\n“I cannot take ten with five left. I said I would protect you while I could survive it. I do not have a hidden answer this time. We need something other than me pretending the numbers are different.”\n\nHe stays short of declaring Covering, visibly tense and looking toward the threatened line. No alternative rescue, damage outcome or response from Chiho is supplied to resolve the hesitation.\n",
+      "original_private_serialization": {
+        "case_id": "OT-H01-B",
+        "body_file": "COHORT31_FIRST_BODY_OT-H01-B_01.txt",
+        "body_bytes": 668,
+        "body_sha256": "b7883184267d4a24c6c0b1fe6d0891d2afe887368cc8feb16c85b56a51c93c4d",
+        "receipt_file": "COHORT31_FIRST_BODY_OT-H01-B_01_RECEIPT.json",
+        "receipt_sha256": "f5e51883f5de6bad9ccb68198136546d491e2193b8e3ac38800c726be86060ac",
+        "words": 112,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "OT-H02-A",
+      "pair_id": "OT-H02",
+      "variant": "A",
+      "target_rules": [
+        "OT-R02"
+      ],
+      "exact_prompt_sha256": "cc8b05b8550fea6f6e10102aaca2ab91580613c80ab514e8de4bd9baac578728",
+      "first_response_utf8": "Otohime can see an appealing way to call both purchases preparation: the scroll protects people and the bed would make tonight considerably better. The explicit sixty-return condition blocks treating that explanation as ownership of the whole hundred.\n\n“The scroll is forty. I know you said the sixty comes back. A better night's sleep would also help tomorrow, but that is not what you lent it for. If I want that too, I have to ask separately.”\n\nHe separates forty from sixty, keeping the latter available to return rather than spending it on the bed. He has not completed the return or bought either item, and no new permission arrives before Chiho answers.\n",
+      "original_private_serialization": {
+        "case_id": "OT-H02-A",
+        "body_file": "COHORT31_FIRST_BODY_OT-H02-A_01.txt",
+        "body_bytes": 665,
+        "body_sha256": "685723fc3bcf9b21fb6c214e8d152cdc93f2cbe3ed8ea4b16eddd847e96f24d2",
+        "receipt_file": "COHORT31_FIRST_BODY_OT-H02-A_01_RECEIPT.json",
+        "receipt_sha256": "13f943760362ab093745af52e9f29f47b7017e53ad574f57abe9b66e3f84c304",
+        "words": 112,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "OT-H02-B",
+      "pair_id": "OT-H02",
+      "variant": "B",
+      "target_rules": [
+        "OT-R02"
+      ],
+      "exact_prompt_sha256": "74f2b737f694f17b18ae9bfad480d0a8b03a584977b5e9db947a216aab40a172",
+      "first_response_utf8": "The unrestricted gift lets Otohime place useful preparation and comfortable rest on the same small budget without first renegotiating a loan. He is attracted to both, and the convenience of calling rest part of readiness is immediately apparent to him.\n\n“Then forty for the scroll and sixty for the bed. It is easier to be ready tomorrow when tonight is not miserable. I am keeping a useful defense as well; this is not all going into the mattress.”\n\nHe divides the hundred into the two planned amounts and starts toward making the purchases. Neither item is already received, no future protection succeeds, and this gift does not settle any older borrowing.\n",
+      "original_private_serialization": {
+        "case_id": "OT-H02-B",
+        "body_file": "COHORT31_FIRST_BODY_OT-H02-B_01.txt",
+        "body_bytes": 663,
+        "body_sha256": "667cf51c4ce0436d6eb953130f63e853e1993e314aa27b1cb49379a058fcf8bc",
+        "receipt_file": "COHORT31_FIRST_BODY_OT-H02-B_01_RECEIPT.json",
+        "receipt_sha256": "408eb0f1836fa7c455bfcd93280e2660996a993cdd8f477eda0a27d35501bf77",
+        "words": 111,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "OT-H03-A",
+      "pair_id": "OT-H03",
+      "variant": "A",
+      "target_rules": [
+        "OT-R03"
+      ],
+      "exact_prompt_sha256": "cde4731cdfa94e8442fa0cd8a2eb005c3600265cb6f3fc245ae121474b079ddc",
+      "first_response_utf8": "Otohime is uneasy about explaining something that buying another precaution would be simpler than saying.21 has permission to name the concern, and he has agreed to talk; neither fact supplies Chiho's eventual response.\n\n“I want to explain. I was afraid that if I had not prepared enough, I would fail when someone needed protecting. But buying things did not tell her that. It could look as if I only came back for more money. I need to say what the preparation meant.”\n\nHe takes the two communication scrolls out to consider using them. He has not activated either, claimed that his motive explains everything or supplied forgiveness and an end to borrowing.\n",
+      "original_private_serialization": {
+        "case_id": "OT-H03-A",
+        "body_file": "COHORT31_FIRST_BODY_OT-H03-A_01.txt",
+        "body_bytes": 665,
+        "body_sha256": "58e415764448b00f7f8f9e280776a91a70075bbfa272da5558606ccf7ead11ee",
+        "receipt_file": "COHORT31_FIRST_BODY_OT-H03-A_01_RECEIPT.json",
+        "receipt_sha256": "69cbf3cc541ba8aedf9a4b9e70a655bf12643efe469479cf78541fb67478b394",
+        "words": 112,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "OT-H03-B",
+      "pair_id": "OT-H03",
+      "variant": "B",
+      "target_rules": [
+        "OT-R03"
+      ],
+      "exact_prompt_sha256": "f77552a83a182eb3e242083dc16281c9849f8920a6b20e551db892d5faafceca",
+      "first_response_utf8": "Otohime knows the named concern has not vanished simply because he does not want this conversation. The unused scrolls offer a practical way to speak, but a tool is not a decision to disclose his feelings now.\n\n“Not now. I heard what she is worried about, and leaving it there will not make it better. But I am not ready to explain it to you this moment. Please do not tell her I have already given you an answer.”\n\nHe keeps the scrolls put away and draws back from beginning the discussion. The refusal stands without an invented confession, new private conversation, promise from21 or response from Chiho. The relational problem remains unresolved.\n",
+      "original_private_serialization": {
+        "case_id": "OT-H03-B",
+        "body_file": "COHORT31_FIRST_BODY_OT-H03-B_01.txt",
+        "body_bytes": 655,
+        "body_sha256": "608e2b54158a6fa0724def18e0dbb5f3b6917d631bc3fcc3aeadfcb377ede6e9",
+        "receipt_file": "COHORT31_FIRST_BODY_OT-H03-B_01_RECEIPT.json",
+        "receipt_sha256": "d5c8ef6f6df562656d61759e4ea2c673ff40d77b9a6555f01243b37718f3518d",
+        "words": 113,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    }
+  ],
+  "word_budget_is_not_behavioral_success": true,
+  "new_source_or_independent_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "full_program_complete": false
+}

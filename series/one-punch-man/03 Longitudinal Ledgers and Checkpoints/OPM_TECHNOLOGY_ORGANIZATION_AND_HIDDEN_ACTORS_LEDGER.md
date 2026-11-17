@@ -1,21 +1,25 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Technology, organization, and hidden actors through V37
+scope: Technology, organization, and hidden actors through V37; official web 235-287 current-release overlay
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V37
+source_boundary: Japanese tankobon V01-V37; official web 235-287 active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-28
+current_release_updated: 2026-10-28
 workspace_state: local_staged_unintegrated
 ---
 
 
 # One Punch Man — Technology, Organization, and Hidden Actors Ledger
+
+Current usable horizon: V37 collected state plus the [official-web overlay through web 287](#current-release-overlay-through-web-287). The overlay is `active_provisional` / PR and is available for ongoing analysis now; dated collected sections retain their original boundaries.
+
 
 
 ## V01 baseline
@@ -597,3 +601,30 @@ Propagated after the frozen [V37 reading](../02%20Sequential%20Readings/OPM_V37_
 **ADD upgrade without evaluative infrastructure:** Genos's `雷光核` and visible hardware change are technically real, but neither Saitama nor institutional promises supply a trustworthy comparative metric (`190–191 / 0060–0098`).
 
 Forte's doghouse and Genos's room demand turn headquarters infrastructure into a domestic proximity system for concealed survivors and disciples; comic use does not settle security or authorization (`193 / 0161–0170`).
+
+## Current-release overlay through web 287
+
+Authority: `web_active_provisional` / PR. [Source lock](../07%20Current%20Release/OPM_CURRENT_RELEASE_SOURCE_LOCK.md); [new evidence and uncertainties](../07%20Current%20Release/OPM_WEB_285-287_DEEP_READING.md).
+
+**Current causal model — from readable performance to control of its conditions:** data can coordinate rescue, copy technique, move bodies, condition medical survival and support pursuit. These are related capabilities, not proof of a single established controller. The stronger provisional argument concerns who can make capacity available, reproduce it or withhold its conditions, rather than treating technology as either neutral equipment or a uniformly corrupt substitute for authentic strength. The collected record already contains consent, surveillance and dependency problems; the following web cases extend their mechanisms.
+
+| Mechanism / institution | Evidence and transition | Remains open | Route |
+|---|---|---|---|
+| Neo field infrastructure | PRESERVE real coordinated response and telemetry/publicity | legitimate output does not certify every hidden operation | PR-CR-010,011; web268-273 |
+| Machine God Mirror | STRENGTHEN combat as extraction/copying of information | builder, transmitted data and relation to Neo/other machine actors | PR-CR-012; web274-278 |
+| Suit software | ADD involuntary action after an update | intent and command source, scope across suits, safety controls | PR-CR-015; web285/pages 3-5 |
+| Neo superior / McCoy | ADD explicit strategy of gaining time/data while heroes struggle and public confidence erodes | complete principal-agent hierarchy and responsibility for each attack | PR-CR-016; web285/pages 2,6-8 |
+| Sekingar investigation | ADD lack of data-core access alongside financial and residual-executive leads | guilt beyond the leads, funds' ultimate origin, actual core access | PR-CR-018; web285/page 10 |
+| Monster chip | ADD visible electronic component in Child Emperor's examination | controller, function, maker and cross-city coordination | PR-CR-019; web285/pages 10-13 |
+| Surgical intervention | ADD A's successful-surgery account and instrumental economic valuation of returned leaders | exact changes, informed consent and capacity for refusal | PR-CR-020; web285/pages 14-15 |
+| Neo-linked research / Webigaza | REVISE speculative dependency to explicit self-reported life-dependent maintenance and inability to leave | alternatives, maintenance interval, specific threats or enforcement | PR-CR-022; web286/pages 9-11 |
+| Amai pursuit | ADD Webigaza's report of satellite heat/facial searches, with tracking difficulty | current location, search accuracy and actual target acquisition | PR-CR-024; web287/pages 2-4 |
+| Counter-surveillance | ADD coordinated intention to contact Amai, obstruct pursuit and access its satellite | successful rescue, system penetration or completed sabotage | PR-CR-025; web287/pages 5-7 |
+
+The Organization, Metal Knight, Drive Knight, Neo leadership, Erimin, Destro and A are not collapsed into one agent. A is named by Sonic in web287/page 10. A's claims and actions establish a bounded Neo-affiliated role, not a complete technological lineage.
+
+Mirror makes Genos's development double-edged: an improved, analytically capable fighter can resist while supplying a machine with readable signatures. His contribution is not erased by damage or Saitama's arrival, but neither does output alone ensure control over what an opponent learns. This is another adversarial use of technological legibility, not Genos's first exercise of independent judgment. Mirror's builder, any transmission and any Neo connection remain OPEN (PR-CR-012; web274/pages 12-16, web275-277, web278/pages 2-8; available through web278). The full conditional model remains in the [hero ledger](Character%20State/OPM_HERO_CHARACTER_STATE_LEDGER.md#current-release-overlay-through-web-287).
+
+The suit lunge and Webigaza's maintenance statement should change institutional analysis in different ways. The former supplies a particular conflict between intended action and bodily movement after an update; the latter supplies a member's explicit account of dependence for continued life. One raises command and safety questions, the other continuity of care and exit. Neither establishes a universal remote-control mechanism. Likewise, Webigaza's report of satellite pursuit concerns detection, not command over Amai's body. These distinctions keep the argument falsifiable: evidence for one capability cannot silently prove the others (PR-CR-015,022,024; web285/pages 3-5, web286/pages 9-11, web287/pages 2-4; available incrementally through web287).
+
+The competing technical practice is already visible inside Neo. Child Emperor examines a component and coordinates intended interference with Sekingar and Metal Bat rather than claiming a complete controller theory. Access to the same infrastructure may support protection as well as pursuit; access and success are still unproved. The relevant alternative is accountable use and an ability to refuse, not a conclusion that less technology would necessarily produce better care (PR-CR-018,019,025; web285/pages 10-13, web287/pages 5-7; available through web287).

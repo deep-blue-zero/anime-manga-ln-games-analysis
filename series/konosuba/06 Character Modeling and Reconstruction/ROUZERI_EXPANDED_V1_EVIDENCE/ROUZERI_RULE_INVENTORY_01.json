@@ -1,0 +1,53 @@
+{
+  "schema": "konosuba.character-rule-inventory.v1",
+  "recorded_utc": "2026-10-24T18:39:41.088049+00:00",
+  "generation": "ROUZERI_EXPANDED_V1",
+  "subject": "Rouzeri / ルーゼリ",
+  "existing_census_row": 79,
+  "scope_assessment_sha256": "7b88d5260034fd973d1be10e7abb16444d70b7c9f4b60e35b6e618f2a01f2a20",
+  "source_review_receiving_sha256": "85d700ea8b35326bb43271e0f823cd4af99ad42d91800a249c414d4af2f2754a",
+  "additional_Dust07_receiving_sha256": "d9a1838414bcc9a280e27677c9030cd863d46b3f6d47dc900893b717b7272655",
+  "model_draft_file": "ROUZERI_MODEL_DRAFT_02.md",
+  "model_draft_sha256": "dfb29ef6a18fcc72a9ef8aff1d6e7957dfb3be07ee4c113bd397685c9b9e79ec",
+  "monograph_draft_file": "ROUZERI_MONOGRAPH_DRAFT_02.md",
+  "monograph_draft_sha256": "16779ce7c35b32fb2490f3a904e80ba900ef8b9ae27f38ee81216e01b839d86b",
+  "rules": [
+    {
+      "rule_id": "ROU-R01",
+      "proposition": "Under a credible superior threat, Rouzeri can seek an argument, change of range or other available means that preserves both life and her current army project. If the offered escape instead requires losing the affiliation and standing she still values, expect resistance or negotiation over that cost rather than automatic acceptance merely because immediate danger falls. A tactical withdrawal and defection to humans are not equivalent in her appraisal. The rule does not compel fighting when a feasible role-preserving option is available.",
+      "support": [
+        "DUST07U013P398–407 shows her challenge to intervention and attempt to invoke Wiz's neutrality terms, while Vanir states that he is free of the army; P428–457 shows fear, admitted uncertainty about Wiz's collapse, renewed confidence, actual transformation and flight beyond Vanir's reach. P527 explicitly pairs a wish to run with managerial campaign pressure. P529–532 gives a real withdrawal/job proposal and her refusal through outsider standing, tolerable army life and the image of joining humans after killing them. Her changed tactics and actual refusal jointly support the distinction more than a generic brave/coward label."
+      ],
+      "contrary": [
+        "She initially threatens civilians to repair military embarrassment (P325), so survival and the welfare of others do not form a universal restraint. Her recruitment, force threat and stationary taunting show ambition, appetite and judgment failures that can displace caution. The source never shows her accepting the proposed role-preserving reassignment used as a possible transfer case. Dust's pride account is interpretation; her several own reasons cannot be reduced to one uniquely isolated cause."
+      ],
+      "rivals": [
+        "Generic fear, ordinary employment dependence, face-saving, military accountability and a retrospective justification can produce much of this pattern. Range use may be obvious tactics rather than personality-specific choice. Her attraction to Dust also affects recruitment. A source-known exercise can test whether a response respects these distinctions, but cannot by itself prove the distinctive mechanism or transfer reliability."
+      ],
+      "applies_when": [
+        "Specify which costs and protections she actually credits before the response. A credible compact differs from a bare claim; a reachable exit differs from an analyst-invented route. A quiet reassignment within a still-valued army, an exposed abandonment and a human-side placement carry different supplied consequences. If the state leaves the value of the role or feasibility of escape unknown, keep the response conditional or show an attempt to learn, rather than manufacturing a settled hierarchy."
+      ],
+      "do_not_assume": [
+        "Do not invent an executive appointment, an automatic supernatural punishment for quitting, infallible contract law, a guaranteed new employer, remorse, universal dragon honor or a biological inability to retreat. Her past civilian threat remains harmful. Praise and a no-resentment contest do not imply that every partnership respects consent. No current resurrection, permanent death, exact age or universal power multiplier is licensed."
+      ],
+      "confidence": "Moderate warrant for the local direction because the character expressly names conflicting reasons and changes means. Confidence in an affiliation-specific cause and any unfamiliar transfer is low. Concentrated distribution and a single refused exit prevent a mature general policy or calibrated threshold.",
+      "falsifier": "A sufficiently described recurring choice to abandon the still-valued role for dispensable convenience, or to ignore an acknowledged feasible role-preserving survival route solely for a doomed charge, would weaken the proposed distinction. Repeated automatic acceptance of exits that preserve none of the stated affiliation benefits would also oppose it. A changed valued role, unknown feasibility or overriding supplied danger must be recorded rather than silently treated as a matched case."
+    }
+  ],
+  "rule_count": 1,
+  "source_known": true,
+  "same_informed_root_authors_and_assesses_all_stages": true,
+  "all_contrasts_visible": true,
+  "exact_inputs_or_firsts_serialized": false,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false,
+  "prior_draft": {
+    "file": "ROUZERI_RULE_INVENTORY_DRAFT_01.json",
+    "bytes": 5317,
+    "sha256": "91502d6f70355b7622b44ec2226b584baccc9928a14ab4b0aafd13d40d91f0f9"
+  },
+  "attributable_prefreeze_precision": "Current corrected foundation;all original draft bytes and full initial review preserved. No input or first existed at this revision."
+}

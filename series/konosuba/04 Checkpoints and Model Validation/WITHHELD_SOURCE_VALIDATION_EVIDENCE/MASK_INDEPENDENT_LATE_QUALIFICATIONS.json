@@ -1,0 +1,22 @@
+{
+  "state": "ATTRIBUTABLE_EXTERNAL_NOTES_PRESERVE_SEALED_INITIAL_AND_RECEIVING",
+  "notes": [
+    {
+      "id": "LQ01",
+      "origin": "I original report cooler observation and associated shorthand",
+      "source": "C03P567–571",
+      "qualification": "Large-order arrival is prospective: expected two months later/after summer. Existing prototype and current stock profit are actual; no mass shipment or post-summer delivery occurs in this scene. Current root corrected event already makes this distinction.",
+      "new_primary_reading_for_this_receipt": false,
+      "basis": "Own earlier complete source read plus root/S attributable late source-fact qualification; no new source exposure."
+    },
+    {
+      "id": "LQ02",
+      "origin": "I original MI030 read-time fragment",
+      "source": "C05P62 and subsequent chest examination",
+      "qualification": "Wiz offers the others a rest and examines the chest; a received rest offer/refusal is not shown. Replace the stronger refused-rest gloss only through an external note; original remains exact.",
+      "new_primary_reading_for_this_receipt": false,
+      "basis": "Own earlier complete source read plus root/S attributable late source-fact qualification."
+    }
+  ],
+  "no_outcome_change": true
+}

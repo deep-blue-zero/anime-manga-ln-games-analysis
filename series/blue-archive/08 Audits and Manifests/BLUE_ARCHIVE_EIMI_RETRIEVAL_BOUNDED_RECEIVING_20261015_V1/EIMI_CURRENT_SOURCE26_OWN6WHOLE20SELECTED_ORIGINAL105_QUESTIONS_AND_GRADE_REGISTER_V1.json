@@ -1,0 +1,1881 @@
+{
+  "schema": "EIMI_CURRENT26_EXACT_MAINTAINED_SCOPES_ORIGINAL105_REPORT_AND_GENUINE_SOURCE_QUESTION_REGISTER_V1",
+  "author": "/root/next_cast_source_preparation",
+  "role": "New105 author; Eimi body authored by M008; distinct source/body peer by publisher. No self-independent body/component QA.",
+  "existing_scope": {
+    "required_id": "P3-CHAR-EIMI-RETRIEVAL-BOUNDED",
+    "home_zero": 47,
+    "home_ordinal": 48,
+    "required_CSV_physical": 49,
+    "source_family": "F084",
+    "literal_person_keys": [
+      "BA_PERSON_EIMI",
+      "BA_PERSON_CH0337"
+    ],
+    "source_variants": [
+      "10001",
+      "20032",
+      "10136"
+    ],
+    "inside_named_duty": null,
+    "G150_printed_Eimi_person_join": "EMPTY_RETAINED_NOT_REPAIRED"
+  },
+  "current_body": {
+    "original_C_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_CHARACTER_MONOGRAPH.md",
+    "C_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_CHARACTER_MONOGRAPH.md",
+    "bytes": 36734,
+    "sha256": "374617ae4829e9cb1baa61018a8fb966aeedde5edb4865fb2d2461114bfc4367",
+    "git_blob_oid_of_actual_bytes": "4113086b2cdad1634a756882e60e7647a03dbb71"
+  },
+  "original_body_map_V3": {
+    "original_C_path": "private-witness:EIMI_LOCATION_1aba06dfe48ae1e4037a117b4000471ddb74b7067258bc99f7ea6d624f746af0",
+    "C_path": "private-witness:EIMI_LOCATION_72104a3e6822ec37076bda01123722183a58c48f66047f779531f2c670b5cbab",
+    "bytes": 174314,
+    "sha256": "8776e789aa92c23c60e0822388e5d597188ed7324f715537e12d96813558a846",
+    "git_blob_oid_of_actual_bytes": "8b1a81e7a2db4fb0eaa1c31791ec82cde78390db"
+  },
+  "sourcebook26_author_actual_whole3800_NOT_transferred": {
+    "original_C_path": "private-witness:EIMI_LOCATION_18aff4c243ea929774e1fe2ec0f3aec0a2764414def195302aef2d038ceede89",
+    "C_path": "private-witness:EIMI_LOCATION_263f9fd1543298686e636beeaf434535883e35a8fcdfc27913b08d92b90f7645",
+    "bytes": 70382,
+    "sha256": "16fbeed87585f93c5c1b2d941dfce944a4f017ee610678508f9e43dc9ccfd6b4",
+    "git_blob_oid_of_actual_bytes": "b6b5b25dea9cf57348e42d43b6ee85b2aac79bda"
+  },
+  "source26": [
+    {
+      "source_id": "EP00",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP00",
+        "scope_role": "CURRENT_NORMAL_CYCLE008_GOVERNS_PRIOR20",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_EIMI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_EIMI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "bytes": 29433,
+        "sha256": "1905b4df47918eedc4d41993f8caa2f4bd16dfd3c03288f9d454972990f7180f",
+        "git_blob_oid_of_actual_bytes": "98410f7c82dc5f10f34ef4368ff9ebe851c4ad9d",
+        "physical_lines": 331,
+        "capture_grade": "FIXED_F93_MAINTAINED_OR_ELIGIBILITY_REQUIRED_METADATA_BYTES_ONLY_NOT_HUMAN_SOURCE_OR_PRIMARY_READING"
+      },
+      "own_actual_grade": "WHOLE_CURRENT_MAINTAINED_NORMAL_REUSED_AFTER_EXACT1905B4DF_PIN_EQUALITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          1,
+          331
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "e59c44",
+        "3b2e89",
+        "d7ba20"
+      ],
+      "own_complete_finite_source_judgment": "Whole normal account already received before any finer reading. Current identical29433/1905b4df copy retains Cycle008 qualification, two literalkeys and the ordinary/contrary repertoire. Old producer draft/veto/unadmitted text stays dated; no primary34 or identity promotion follows.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_CURRENT_MAINTAINED_NORMAL",
+        "intervals": [
+          [
+            1,
+            331
+          ]
+        ],
+        "actual_captures": [
+          "5af109",
+          "9b3ef9"
+        ]
+      }
+    },
+    {
+      "source_id": "EP01",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP01",
+        "scope_role": "PRIOR_PRODUCER_ANALYTICAL_CONTEXT_ONLY_GOVERNED_BY_EP00_CYCLE008",
+        "owner": 1,
+        "original_declared_C_path": "private-witness:EIMI_LOCATION_554164daf978d71d57bb734718d3bda50125552261829ff980a2ef5c2434a32e",
+        "C_path": "private-witness:EIMI_LOCATION_fa47a3a6203bf9e9d968fbfa1b1917ccb99562a20df817d1dce0dace2cb2cb48",
+        "bytes": 8093,
+        "sha256": "74dbf9f3179ac2a13d18c6450f61230b55fceb4699c6949b765f5575f2453e3d",
+        "git_blob_oid_of_actual_bytes": "af551d70938f163c74edb66e4d16ec8a8444ea1c",
+        "physical_lines": 111,
+        "source_ids": [
+          "BA:bond:10001:002",
+          "BA:momotalk:10001:thread:100010010"
+        ],
+        "raw_source_person_ids": [
+          "BA_PERSON_EIMI"
+        ],
+        "source_variant_ids": [
+          "BA_VARIANT_10001"
+        ],
+        "original_dated_contract_NOT_current_authority": {
+          "status": "draft_noncurrent",
+          "source_admission": "UNADMITTED",
+          "veto": true,
+          "do_not_use_as_current_authority": true
+        },
+        "current_role": "PRIOR_PRODUCER_ANALYTICAL_ARGUMENT_FOR_FINER_CONTEXT_COMPARISON_UNDER_CURRENT_NORMAL_CYCLE008_BOUNDS_NOT_PRIMARY_OR_NEW_ADMISSION"
+      },
+      "own_actual_grade": "SELECTED_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_PRIMARY_OR_INDEPENDENT_CURRENT_AUTHORITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          34,
+          99
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "7d3018"
+      ],
+      "own_complete_finite_source_judgment": "Heat/taste disagreement ends in actual shared ice cream after a stopped undressing proposal and reciprocal counteroffer. The mint alternatives do not establish one teacher taste, cooling efficacy, a dress regulation or lasting reform; ordinary pleasure and local boundary both matter.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_INDEPENDENT_CURRENT_AUTHORITY",
+        "intervals": [
+          [
+            1,
+            111
+          ]
+        ],
+        "actual_captures": [
+          "3d87b9"
+        ]
+      }
+    },
+    {
+      "source_id": "EP02",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP02",
+        "scope_role": "PRIOR_PRODUCER_ANALYTICAL_CONTEXT_ONLY_GOVERNED_BY_EP00_CYCLE008",
+        "owner": 2,
+        "original_declared_C_path": "private-witness:EIMI_LOCATION_1a2607a91579e6855d291cd0401db5687d80b5f249344a367f4acae40caca57a",
+        "C_path": "private-witness:EIMI_LOCATION_68c76ea4869c68dc0ae45c79ee0a8c9ac3bcd0c8f11f6d7f4b8eed055b948781",
+        "bytes": 8016,
+        "sha256": "6c7e811b3ae8c490e45d5bc3095d53a277db160586a5d1fc42701acb6ddd05e3",
+        "git_blob_oid_of_actual_bytes": "98a31363a6b5b3776f1137415e3d0cd735ff04cb",
+        "physical_lines": 111,
+        "source_ids": [
+          "BA:bond:10001:003",
+          "BA:momotalk:10001:thread:100010100"
+        ],
+        "raw_source_person_ids": [
+          "BA_PERSON_EIMI"
+        ],
+        "source_variant_ids": [
+          "BA_VARIANT_10001"
+        ],
+        "original_dated_contract_NOT_current_authority": {
+          "status": "draft_noncurrent",
+          "source_admission": "UNADMITTED",
+          "veto": true,
+          "do_not_use_as_current_authority": true
+        },
+        "current_role": "PRIOR_PRODUCER_ANALYTICAL_ARGUMENT_FOR_FINER_CONTEXT_COMPARISON_UNDER_CURRENT_NORMAL_CYCLE008_BOUNDS_NOT_PRIMARY_OR_NEW_ADMISSION"
+      },
+      "own_actual_grade": "SELECTED_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_PRIMARY_OR_INDEPENDENT_CURRENT_AUTHORITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          34,
+          99
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "481f2a"
+      ],
+      "own_complete_finite_source_judgment": "The inquiry is expressly personal, not Seminar business. Calories do not explain sweets, Sensei admits divination ignorance, and magazine research ends without a clear answer. Desired peer belonging is positive while friends remain unheard and chance/comrade wording cannot establish romance or social mastery.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_INDEPENDENT_CURRENT_AUTHORITY",
+        "intervals": [
+          [
+            1,
+            111
+          ]
+        ],
+        "actual_captures": [
+          "0e8be7"
+        ]
+      }
+    },
+    {
+      "source_id": "EP03",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP03",
+        "scope_role": "PRIOR_PRODUCER_ANALYTICAL_CONTEXT_ONLY_GOVERNED_BY_EP00_CYCLE008",
+        "owner": 3,
+        "original_declared_C_path": "private-witness:EIMI_LOCATION_0cfdd49a4e94b0ac8eee6328cb765ca43c4a19a525dc6848cde9f047858aedcb",
+        "C_path": "private-witness:EIMI_LOCATION_73bb0d395318f136bbf8ee7dc0c70386373911f8a62caaefc4e217af144d0b8a",
+        "bytes": 7774,
+        "sha256": "478a6da31d9699e44a8f6393e380e0420e7cce8c13f44d0163c5be3b0390e380",
+        "git_blob_oid_of_actual_bytes": "b5bbe98a5493c58c409c5665f2f49bd69d27439a",
+        "physical_lines": 111,
+        "source_ids": [
+          "BA:bond:10001:005",
+          "BA:momotalk:10001:thread:100010150"
+        ],
+        "raw_source_person_ids": [
+          "BA_PERSON_EIMI"
+        ],
+        "source_variant_ids": [
+          "BA_VARIANT_10001"
+        ],
+        "original_dated_contract_NOT_current_authority": {
+          "status": "draft_noncurrent",
+          "source_admission": "UNADMITTED",
+          "veto": true,
+          "do_not_use_as_current_authority": true
+        },
+        "current_role": "PRIOR_PRODUCER_ANALYTICAL_ARGUMENT_FOR_FINER_CONTEXT_COMPARISON_UNDER_CURRENT_NORMAL_CYCLE008_BOUNDS_NOT_PRIMARY_OR_NEW_ADMISSION"
+      },
+      "own_actual_grade": "SELECTED_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_PRIMARY_OR_INDEPENDENT_CURRENT_AUTHORITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          34,
+          99
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "c2f7ff"
+      ],
+      "own_complete_finite_source_judgment": "Both actually sing at the narrated outing; feared closed-room danger is hypothetical. Later gunfire comparison and proposed combination are refused, not performed. Pleasure survives without audio credit, actual classmates' danger, total normalization or an attack claim.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_INDEPENDENT_CURRENT_AUTHORITY",
+        "intervals": [
+          [
+            1,
+            111
+          ]
+        ],
+        "actual_captures": [
+          "e11e3a"
+        ]
+      }
+    },
+    {
+      "source_id": "EP04",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP04",
+        "scope_role": "PRIOR_PRODUCER_ANALYTICAL_CONTEXT_ONLY_GOVERNED_BY_EP00_CYCLE008",
+        "owner": 4,
+        "original_declared_C_path": "private-witness:EIMI_LOCATION_f14303bea756d54cc016467195246a283832e4d0ba5cd3d41c44dccdd33d3c60",
+        "C_path": "private-witness:EIMI_LOCATION_2d2147150cec707588bddc0b0b917bca2002f8ec6624e784261a5d5a01f94dd4",
+        "bytes": 7881,
+        "sha256": "fb29fb6a1412ec095396fb28969e02a07c52e76a75520a86235bd1bf454e46db",
+        "git_blob_oid_of_actual_bytes": "f23cc30d4e8cf34b3a1d2510baa68793cc2c16e0",
+        "physical_lines": 111,
+        "source_ids": [
+          "BA:bond:10001:006",
+          "BA:momotalk:10001:thread:100010230"
+        ],
+        "raw_source_person_ids": [
+          "BA_PERSON_EIMI"
+        ],
+        "source_variant_ids": [
+          "BA_VARIANT_10001"
+        ],
+        "original_dated_contract_NOT_current_authority": {
+          "status": "draft_noncurrent",
+          "source_admission": "UNADMITTED",
+          "veto": true,
+          "do_not_use_as_current_authority": true
+        },
+        "current_role": "PRIOR_PRODUCER_ANALYTICAL_ARGUMENT_FOR_FINER_CONTEXT_COMPARISON_UNDER_CURRENT_NORMAL_CYCLE008_BOUNDS_NOT_PRIMARY_OR_NEW_ADMISSION"
+      },
+      "own_actual_grade": "SELECTED_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_PRIMARY_OR_INDEPENDENT_CURRENT_AUTHORITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          34,
+          99
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "524bb8"
+      ],
+      "own_complete_finite_source_judgment": "Durability/fit/ease of removal and wanted cuteness differ; purchases finish while public changing is stopped and future accommodation is promised effort. Friends' report and timing/narrator seams remain unverified; no formal shop/school regulation or universal consent follows.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_INDEPENDENT_CURRENT_AUTHORITY",
+        "intervals": [
+          [
+            1,
+            111
+          ]
+        ],
+        "actual_captures": [
+          "a86d22"
+        ]
+      }
+    },
+    {
+      "source_id": "EP05",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP05",
+        "scope_role": "PRIOR_PRODUCER_ANALYTICAL_CONTEXT_ONLY_GOVERNED_BY_EP00_CYCLE008",
+        "owner": 5,
+        "original_declared_C_path": "private-witness:EIMI_LOCATION_ac89537f1a7b781ae643e76d96e58956cb531276076ebc46fa58a6df9cf8c984",
+        "C_path": "private-witness:EIMI_LOCATION_62108c44b93d6694053e687a91b2503da2cf062992706c7527a1fc148268f560",
+        "bytes": 7635,
+        "sha256": "e74b33d853eb2718e4e6a0ad2692f2a2ccf15b6478d09feb5b0a2aabc9b1b0fc",
+        "git_blob_oid_of_actual_bytes": "95c1b90fae129777de969c98320f45b8bf23946a",
+        "physical_lines": 111,
+        "source_ids": [
+          "BA:bond:10001:008",
+          "BA:momotalk:10001:thread:100010280"
+        ],
+        "raw_source_person_ids": [
+          "BA_PERSON_EIMI"
+        ],
+        "source_variant_ids": [
+          "BA_VARIANT_10001"
+        ],
+        "original_dated_contract_NOT_current_authority": {
+          "status": "draft_noncurrent",
+          "source_admission": "UNADMITTED",
+          "veto": true,
+          "do_not_use_as_current_authority": true
+        },
+        "current_role": "PRIOR_PRODUCER_ANALYTICAL_ARGUMENT_FOR_FINER_CONTEXT_COMPARISON_UNDER_CURRENT_NORMAL_CYCLE008_BOUNDS_NOT_PRIMARY_OR_NEW_ADMISSION"
+      },
+      "own_actual_grade": "SELECTED_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_PRIMARY_OR_INDEPENDENT_CURRENT_AUTHORITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          34,
+          99
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "920b0d"
+      ],
+      "own_complete_finite_source_judgment": "Treatment and bandaging actually occur after a visible abrasion, with sudden painful disinfectant and treatment embarrassment. The conditional private injury-for-attention thought is not performed harm, known or endorsed by Sensei, clinical diagnosis, healed outcome or guaranteed safety; caring intent does not erase surprise.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_INDEPENDENT_CURRENT_AUTHORITY",
+        "intervals": [
+          [
+            1,
+            111
+          ]
+        ],
+        "actual_captures": [
+          "2b493d"
+        ]
+      }
+    },
+    {
+      "source_id": "EP06",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP06",
+        "scope_role": "PRIOR_PRODUCER_ANALYTICAL_CONTEXT_ONLY_GOVERNED_BY_EP00_CYCLE008",
+        "owner": 6,
+        "original_declared_C_path": "private-witness:EIMI_LOCATION_66d5fff3085627c455924bc114737b6aceabe1b67c3e562c8380a0056059874a",
+        "C_path": "private-witness:EIMI_LOCATION_0c9259e637f483610f1a63939186c19e37bcffcf8cfac048382b557c68ad2103",
+        "bytes": 8295,
+        "sha256": "626e9912d6d1053a283a5f4dd6ef6b1a38086cb0fd150475c3a8d682851acd7c",
+        "git_blob_oid_of_actual_bytes": "d0880db9549fa9a4659fb7e59a82ffbfb573eb4a",
+        "physical_lines": 111,
+        "source_ids": [
+          "BA:bond:10001:020",
+          "BA:momotalk:10001:thread:100010330"
+        ],
+        "raw_source_person_ids": [
+          "BA_PERSON_EIMI"
+        ],
+        "source_variant_ids": [
+          "BA_VARIANT_10001"
+        ],
+        "original_dated_contract_NOT_current_authority": {
+          "status": "draft_noncurrent",
+          "source_admission": "UNADMITTED",
+          "veto": true,
+          "do_not_use_as_current_authority": true
+        },
+        "current_role": "PRIOR_PRODUCER_ANALYTICAL_ARGUMENT_FOR_FINER_CONTEXT_COMPARISON_UNDER_CURRENT_NORMAL_CYCLE008_BOUNDS_NOT_PRIMARY_OR_NEW_ADMISSION"
+      },
+      "own_actual_grade": "SELECTED_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_PRIMARY_OR_INDEPENDENT_CURRENT_AUTHORITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          34,
+          99
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "3e9111"
+      ],
+      "own_complete_finite_source_judgment": "The search's negative finding is local. Water and prepared modified fan are actual care, modifier unknown; narrow airflow motivates contact past hesitation and becomes hot. Teacher alternatives preserve uncertain causal diagnosis and future countermeasures, not measured success, universal absence, romance or blanket permission.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_INDEPENDENT_CURRENT_AUTHORITY",
+        "intervals": [
+          [
+            1,
+            111
+          ]
+        ],
+        "actual_captures": [
+          "cf61c1"
+        ]
+      }
+    },
+    {
+      "source_id": "EP07",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP07",
+        "scope_role": "PRIOR_PRODUCER_ANALYTICAL_CONTEXT_ONLY_GOVERNED_BY_EP00_CYCLE008",
+        "owner": 7,
+        "original_declared_C_path": "private-witness:EIMI_LOCATION_5457dd613fd4bb3028514af81f9f510db4b3217cb8decb47c65bfa268354f3d6",
+        "C_path": "private-witness:EIMI_LOCATION_265ccf6cee44041ec70da5b729cac62a4b3d940afe05392843307215243faa27",
+        "bytes": 8349,
+        "sha256": "fd3890a17b25badd843cb0702df95b9fd21108a4584c533a4a18e857247713c6",
+        "git_blob_oid_of_actual_bytes": "c5ff715d75e5e40af486ba1990b35e394ff6d2e9",
+        "physical_lines": 111,
+        "source_ids": [
+          "BA:bond:10136:002",
+          "BA:momotalk:10136:thread:101360010"
+        ],
+        "raw_source_person_ids": [
+          "BA_PERSON_CH0337"
+        ],
+        "source_variant_ids": [
+          "BA_VARIANT_10136"
+        ],
+        "original_dated_contract_NOT_current_authority": {
+          "status": "draft_noncurrent",
+          "source_admission": "UNADMITTED",
+          "veto": true,
+          "do_not_use_as_current_authority": true
+        },
+        "current_role": "PRIOR_PRODUCER_ANALYTICAL_ARGUMENT_FOR_FINER_CONTEXT_COMPARISON_UNDER_CURRENT_NORMAL_CYCLE008_BOUNDS_NOT_PRIMARY_OR_NEW_ADMISSION"
+      },
+      "own_actual_grade": "SELECTED_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_PRIMARY_OR_INDEPENDENT_CURRENT_AUTHORITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          34,
+          99
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "c618a8"
+      ],
+      "own_complete_finite_source_judgment": "The CH0337 route shows narrated protection and forceful reconnaissance with pace mismatch, surprise and apology. Present comfort/cooperation and return to group coexist with reported solitude and unnamed colleague; no global first, definitive enemy identity, proportionality audit, merged person key or sole adult causation follows.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_INDEPENDENT_CURRENT_AUTHORITY",
+        "intervals": [
+          [
+            1,
+            111
+          ]
+        ],
+        "actual_captures": [
+          "0b8f12"
+        ]
+      }
+    },
+    {
+      "source_id": "EP08",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP08",
+        "scope_role": "PRIOR_PRODUCER_ANALYTICAL_CONTEXT_ONLY_GOVERNED_BY_EP00_CYCLE008",
+        "owner": 8,
+        "original_declared_C_path": "private-witness:EIMI_LOCATION_42099e3611ef95a217080d8c4f5e2e6ef365d0fe3d54ed88f4089ee0159551e2",
+        "C_path": "private-witness:EIMI_LOCATION_c6d40f6f716a944f5371862b3280142f3ef2aa3cdd8062b3bae3729929482f85",
+        "bytes": 8151,
+        "sha256": "0aa9596dc6b25116495caa172772bc8733e067bff3972f00c86e8d0c0dd01163",
+        "git_blob_oid_of_actual_bytes": "738f473ab889fddefd154e8086ba53f473d6731e",
+        "physical_lines": 111,
+        "source_ids": [
+          "BA:bond:10136:003",
+          "BA:momotalk:10136:thread:101360070"
+        ],
+        "raw_source_person_ids": [
+          "BA_PERSON_CH0337"
+        ],
+        "source_variant_ids": [
+          "BA_VARIANT_10136"
+        ],
+        "original_dated_contract_NOT_current_authority": {
+          "status": "draft_noncurrent",
+          "source_admission": "UNADMITTED",
+          "veto": true,
+          "do_not_use_as_current_authority": true
+        },
+        "current_role": "PRIOR_PRODUCER_ANALYTICAL_ARGUMENT_FOR_FINER_CONTEXT_COMPARISON_UNDER_CURRENT_NORMAL_CYCLE008_BOUNDS_NOT_PRIMARY_OR_NEW_ADMISSION"
+      },
+      "own_actual_grade": "SELECTED_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_PRIMARY_OR_INDEPENDENT_CURRENT_AUTHORITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          34,
+          99
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "8133bd"
+      ],
+      "own_complete_finite_source_judgment": "Intuition/heuristic talk and thermal equilibrium are explanations/figures, not validated models. Actual arm-linking precedes later surprise/comfort, and the desire for closeness is explicit but hedged. Chosen stopping at today-to-here remains a meaningful endpoint, not completed confession, exclusive romance or advance-consent scene.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_INDEPENDENT_CURRENT_AUTHORITY",
+        "intervals": [
+          [
+            1,
+            111
+          ]
+        ],
+        "actual_captures": [
+          "5a409f"
+        ]
+      }
+    },
+    {
+      "source_id": "EP09",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP09",
+        "scope_role": "PRIOR_PRODUCER_ANALYTICAL_CONTEXT_ONLY_GOVERNED_BY_EP00_CYCLE008",
+        "owner": 9,
+        "original_declared_C_path": "private-witness:EIMI_LOCATION_9b275107001ce037afc2e19f1256562f9bdd3c2b8e5e5c3a53abbba4afc1c908",
+        "C_path": "private-witness:EIMI_LOCATION_357277d7ebb10ec12c1f73587cebd8c064346d9df97d1ad49abe378ccf8974da",
+        "bytes": 8409,
+        "sha256": "fbab1822e2e5f876c73781452f3a4a01c3ae09adadfce542151b9810976cb148",
+        "git_blob_oid_of_actual_bytes": "803ff7be9d55f9f890aa31ac888f932071feb1aa",
+        "physical_lines": 111,
+        "source_ids": [
+          "BA:bond:10136:005",
+          "BA:momotalk:10136:thread:101360130"
+        ],
+        "raw_source_person_ids": [
+          "BA_PERSON_CH0337"
+        ],
+        "source_variant_ids": [
+          "BA_VARIANT_10136"
+        ],
+        "original_dated_contract_NOT_current_authority": {
+          "status": "draft_noncurrent",
+          "source_admission": "UNADMITTED",
+          "veto": true,
+          "do_not_use_as_current_authority": true
+        },
+        "current_role": "PRIOR_PRODUCER_ANALYTICAL_ARGUMENT_FOR_FINER_CONTEXT_COMPARISON_UNDER_CURRENT_NORMAL_CYCLE008_BOUNDS_NOT_PRIMARY_OR_NEW_ADMISSION"
+      },
+      "own_actual_grade": "SELECTED_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_PRIMARY_OR_INDEPENDENT_CURRENT_AUTHORITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          34,
+          99
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "13ce5f"
+      ],
+      "own_complete_finite_source_judgment": "Literal garbling/coordinates lead to safe rescue, attributed depletion and equipment linkage. Apology, retained efficiency defence, fear of dislike and requested oversight remain distinct; possible partner and future independence are uncompleted. No battery specification, tested safety habit, permanent oversight solution or accepted romance follows.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_INDEPENDENT_CURRENT_AUTHORITY",
+        "intervals": [
+          [
+            1,
+            111
+          ]
+        ],
+        "actual_captures": [
+          "dd9875"
+        ]
+      }
+    },
+    {
+      "source_id": "EP10",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP10",
+        "scope_role": "PRIOR_PRODUCER_ANALYTICAL_CONTEXT_ONLY_GOVERNED_BY_EP00_CYCLE008",
+        "owner": 10,
+        "original_declared_C_path": "private-witness:EIMI_LOCATION_bb3ba43c7f88bad4a0aa69150c55d4877c302543b10fba371e42992ec9236dfd",
+        "C_path": "private-witness:EIMI_LOCATION_b4f77652dbc4f16f6ebee4ef0c837f904db788d952bc149a9fddddc6b245279f",
+        "bytes": 8382,
+        "sha256": "55b4c56b001de4314af3c3df5291e8ecf0a99d421023d9467dbb14d890716454",
+        "git_blob_oid_of_actual_bytes": "436b09ae66fd8c2d77402f3a61a23fa22f09c73e",
+        "physical_lines": 111,
+        "source_ids": [
+          "BA:bond:10136:006",
+          "BA:momotalk:10136:thread:101360160"
+        ],
+        "raw_source_person_ids": [
+          "BA_PERSON_CH0337"
+        ],
+        "source_variant_ids": [
+          "BA_VARIANT_10136"
+        ],
+        "original_dated_contract_NOT_current_authority": {
+          "status": "draft_noncurrent",
+          "source_admission": "UNADMITTED",
+          "veto": true,
+          "do_not_use_as_current_authority": true
+        },
+        "current_role": "PRIOR_PRODUCER_ANALYTICAL_ARGUMENT_FOR_FINER_CONTEXT_COMPARISON_UNDER_CURRENT_NORMAL_CYCLE008_BOUNDS_NOT_PRIMARY_OR_NEW_ADMISSION"
+      },
+      "own_actual_grade": "SELECTED_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_PRIMARY_OR_INDEPENDENT_CURRENT_AUTHORITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          34,
+          99
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "05d329"
+      ],
+      "own_complete_finite_source_judgment": "Sky viewing excludes reconnaissance and actual iced cocoa fits a specific taste. Present company, shared warmth and reluctance about wider obligations coexist; now-enough is not proven isolation or permanent exclusivity. The illness wish is immediately retracted with relief; unfamiliar sky and narration modes supply no cosmology or performed voice.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_INDEPENDENT_CURRENT_AUTHORITY",
+        "intervals": [
+          [
+            1,
+            111
+          ]
+        ],
+        "actual_captures": [
+          "e48f2f"
+        ]
+      }
+    },
+    {
+      "source_id": "EP11",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP11",
+        "scope_role": "PRIOR_PRODUCER_ANALYTICAL_CONTEXT_ONLY_GOVERNED_BY_EP00_CYCLE008",
+        "owner": 11,
+        "original_declared_C_path": "private-witness:EIMI_LOCATION_34c942aae271ca8adf5100dfe76e95e48a7ac6b3ee9ba89293d2bdf6a98e2ab4",
+        "C_path": "private-witness:EIMI_LOCATION_06aa52b8b7441e185c08cb761a10143e4b722530c6885384e69e6893b36a1a9d",
+        "bytes": 8018,
+        "sha256": "46b8333f74f31ea2ba1a907a1b13533c693e8b1e68d7d089fe715c1eb91028c6",
+        "git_blob_oid_of_actual_bytes": "d46f73530ab25a0a885e49f20fdacdc9abc0adc7",
+        "physical_lines": 111,
+        "source_ids": [
+          "BA:bond:20032:002",
+          "BA:momotalk:20032:thread:200320010"
+        ],
+        "raw_source_person_ids": [
+          "BA_PERSON_EIMI"
+        ],
+        "source_variant_ids": [
+          "BA_VARIANT_20032"
+        ],
+        "original_dated_contract_NOT_current_authority": {
+          "status": "draft_noncurrent",
+          "source_admission": "UNADMITTED",
+          "veto": true,
+          "do_not_use_as_current_authority": true
+        },
+        "current_role": "PRIOR_PRODUCER_ANALYTICAL_ARGUMENT_FOR_FINER_CONTEXT_COMPARISON_UNDER_CURRENT_NORMAL_CYCLE008_BOUNDS_NOT_PRIMARY_OR_NEW_ADMISSION"
+      },
+      "own_actual_grade": "SELECTED_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_PRIMARY_OR_INDEPENDENT_CURRENT_AUTHORITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          34,
+          99
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "782ef9"
+      ],
+      "own_complete_finite_source_judgment": "Style inquiry, experimentation and wanted novelty have value despite art-magazine/category error. Shopping is scheduled, not performed here; inner-voice proposal/reply seam remains written. No fashion authority, actual office appointment, guaranteed victory or universal incapacity follows.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_INDEPENDENT_CURRENT_AUTHORITY",
+        "intervals": [
+          [
+            1,
+            111
+          ]
+        ],
+        "actual_captures": [
+          "9e2ce7"
+        ]
+      }
+    },
+    {
+      "source_id": "EP12",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP12",
+        "scope_role": "PRIOR_PRODUCER_ANALYTICAL_CONTEXT_ONLY_GOVERNED_BY_EP00_CYCLE008",
+        "owner": 12,
+        "original_declared_C_path": "private-witness:EIMI_LOCATION_36b4b67c23c564b2b5e6b4fc3944ff9d951b5111955aa3c9ac041d1d75d7cfa4",
+        "C_path": "private-witness:EIMI_LOCATION_10968f2206bcb3ee0503a5a1911a9e2ff9c97110f7174d7a4833fc9ceb732517",
+        "bytes": 8049,
+        "sha256": "1546676ebf7f7a7fdf7c8bdb0e0347fb8c60d112b012cc2656de2f39151d8892",
+        "git_blob_oid_of_actual_bytes": "16b6cd8e70b0531dbd8b5a49e81db2de2bcd4c98",
+        "physical_lines": 111,
+        "source_ids": [
+          "BA:bond:20032:003",
+          "BA:momotalk:20032:thread:200320080"
+        ],
+        "raw_source_person_ids": [
+          "BA_PERSON_EIMI"
+        ],
+        "source_variant_ids": [
+          "BA_VARIANT_20032"
+        ],
+        "original_dated_contract_NOT_current_authority": {
+          "status": "draft_noncurrent",
+          "source_admission": "UNADMITTED",
+          "veto": true,
+          "do_not_use_as_current_authority": true
+        },
+        "current_role": "PRIOR_PRODUCER_ANALYTICAL_ARGUMENT_FOR_FINER_CONTEXT_COMPARISON_UNDER_CURRENT_NORMAL_CYCLE008_BOUNDS_NOT_PRIMARY_OR_NEW_ADMISSION"
+      },
+      "own_actual_grade": "SELECTED_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_PRIMARY_OR_INDEPENDENT_CURRENT_AUTHORITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          34,
+          99
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "64d742"
+      ],
+      "own_complete_finite_source_judgment": "Eimi herself rejects the cow pattern and buys a liked swimsuit; protective gift and actual café company follow. Changing-room promise produces partial coverage with omitted trousers, while daily wear and ice-sea use remain future. Protective care does not establish full compliance, technical safety or erased disagreement.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_INDEPENDENT_CURRENT_AUTHORITY",
+        "intervals": [
+          [
+            1,
+            111
+          ]
+        ],
+        "actual_captures": [
+          "faf79b"
+        ]
+      }
+    },
+    {
+      "source_id": "EP13",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP13",
+        "scope_role": "PRIOR_PRODUCER_ANALYTICAL_CONTEXT_ONLY_GOVERNED_BY_EP00_CYCLE008",
+        "owner": 13,
+        "original_declared_C_path": "private-witness:EIMI_LOCATION_02c2477e24be2f60fdd9e196c3ea83172b4d6b48b3fa6dba04991b2b2d75d489",
+        "C_path": "private-witness:EIMI_LOCATION_53f6d15d3933b09b9b95a3dd955bad40d36db479a4b5ee13cb2a46dabebc8810",
+        "bytes": 8244,
+        "sha256": "92e4de1a83782e001b8453c0fa7893c6579496f9c827c84cf6293c16913bbc6f",
+        "git_blob_oid_of_actual_bytes": "92893a43c57417dd6d943d70a46a4fcd4ef18441",
+        "physical_lines": 111,
+        "source_ids": [
+          "BA:bond:20032:005",
+          "BA:momotalk:20032:thread:200320180"
+        ],
+        "raw_source_person_ids": [
+          "BA_PERSON_EIMI"
+        ],
+        "source_variant_ids": [
+          "BA_VARIANT_20032"
+        ],
+        "original_dated_contract_NOT_current_authority": {
+          "status": "draft_noncurrent",
+          "source_admission": "UNADMITTED",
+          "veto": true,
+          "do_not_use_as_current_authority": true
+        },
+        "current_role": "PRIOR_PRODUCER_ANALYTICAL_ARGUMENT_FOR_FINER_CONTEXT_COMPARISON_UNDER_CURRENT_NORMAL_CYCLE008_BOUNDS_NOT_PRIMARY_OR_NEW_ADMISSION"
+      },
+      "own_actual_grade": "SELECTED_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_PRIMARY_OR_INDEPENDENT_CURRENT_AUTHORITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          34,
+          99
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "c385ce"
+      ],
+      "own_complete_finite_source_judgment": "The liked swimsuit, actual manually made fan, admitted weak wind/arm pain and turn-taking trial have ordinary value. Unnamed leader stays unnamed and nonmonotonic u0039 locator is retained. Adult minimum-temperature intervention has narrated cold cost, not real medical law; queried functional beauty/future advice do not become mastery.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_INDEPENDENT_CURRENT_AUTHORITY",
+        "intervals": [
+          [
+            1,
+            111
+          ]
+        ],
+        "actual_captures": [
+          "39ea37"
+        ]
+      }
+    },
+    {
+      "source_id": "EP14",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP14",
+        "scope_role": "PRIOR_PRODUCER_ANALYTICAL_CONTEXT_ONLY_GOVERNED_BY_EP00_CYCLE008",
+        "owner": 14,
+        "original_declared_C_path": "private-witness:EIMI_LOCATION_22ffb6c77e7f27d030587661b40f92cd5279cfad5903592f1d02141e0f8d62cd",
+        "C_path": "private-witness:EIMI_LOCATION_de14b049e32db994e8103e10ed5e682a3c34bcf8aad897a744c8e9bdfb53a28b",
+        "bytes": 8059,
+        "sha256": "be1b0a23e1a6bb870f51d4ae96f46d580f550f94c99548260ba1ebe0f253026a",
+        "git_blob_oid_of_actual_bytes": "56fa3c1635c40419cf598dfb4f94f0534fcc2bc9",
+        "physical_lines": 111,
+        "source_ids": [
+          "BA:bond:20032:006",
+          "BA:momotalk:20032:thread:200320300"
+        ],
+        "raw_source_person_ids": [
+          "BA_PERSON_EIMI"
+        ],
+        "source_variant_ids": [
+          "BA_VARIANT_20032"
+        ],
+        "original_dated_contract_NOT_current_authority": {
+          "status": "draft_noncurrent",
+          "source_admission": "UNADMITTED",
+          "veto": true,
+          "do_not_use_as_current_authority": true
+        },
+        "current_role": "PRIOR_PRODUCER_ANALYTICAL_ARGUMENT_FOR_FINER_CONTEXT_COMPARISON_UNDER_CURRENT_NORMAL_CYCLE008_BOUNDS_NOT_PRIMARY_OR_NEW_ADMISSION"
+      },
+      "own_actual_grade": "SELECTED_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_PRIMARY_OR_INDEPENDENT_CURRENT_AUTHORITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          34,
+          99
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "252073"
+      ],
+      "own_complete_finite_source_judgment": "Actual enjoyed ice bath and respected refusal precede a sneeze and disputed diagnosis. Hot tea is enacted, abandonment of routine is later intent for availability/worry reasons, home facility unbuilt. Neither unusual comfort nor an attributed diagnosis certifies invulnerability, confirmed illness or safe permanent habit.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_INDEPENDENT_CURRENT_AUTHORITY",
+        "intervals": [
+          [
+            1,
+            111
+          ]
+        ],
+        "actual_captures": [
+          "ef71d4"
+        ]
+      }
+    },
+    {
+      "source_id": "EP15",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP15",
+        "scope_role": "PRIOR_PRODUCER_ANALYTICAL_CONTEXT_ONLY_GOVERNED_BY_EP00_CYCLE008",
+        "owner": 15,
+        "original_declared_C_path": "private-witness:EIMI_LOCATION_5b3c34117998fcf86e6fe2f98b7247dd92e1835f901e8746fc534acf1787e371",
+        "C_path": "private-witness:EIMI_LOCATION_d76e0f4fe2762528d1880e7f10227aed059bd12bbf935030dcbd3caec66a6bf0",
+        "bytes": 8295,
+        "sha256": "91ab8d3d84e7b473d41afdf51967fae638991a7252320c74b0f44af3e4079c21",
+        "git_blob_oid_of_actual_bytes": "ce2f1a768ff56e8aa797e5fc625a132327ea2eea",
+        "physical_lines": 111,
+        "source_ids": [
+          "BA:character_data:10001:profile_and_dialog"
+        ],
+        "raw_source_person_ids": [
+          "BA_PERSON_EIMI"
+        ],
+        "source_variant_ids": [
+          "BA_VARIANT_10001"
+        ],
+        "original_dated_contract_NOT_current_authority": {
+          "status": "draft_noncurrent",
+          "source_admission": "UNADMITTED",
+          "veto": true,
+          "do_not_use_as_current_authority": true
+        },
+        "current_role": "PRIOR_PRODUCER_ANALYTICAL_ARGUMENT_FOR_FINER_CONTEXT_COMPARISON_UNDER_CURRENT_NORMAL_CYCLE008_BOUNDS_NOT_PRIMARY_OR_NEW_ADMISSION"
+      },
+      "own_actual_grade": "SELECTED_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_PRIMARY_OR_INDEPENDENT_CURRENT_AUTHORITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          34,
+          99
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "2d22e1"
+      ],
+      "own_complete_finite_source_judgment": "The10001 written repertoire retains BA_PERSON_EIMI, music/idleness, explicit affect, uncertain beauty and gratitude despite an emotionless label. Placeholder is not a slogan; birthdays/holidays/triggers and reused clothing words are not another chronological scene, performed contact or guaranteed mission outcome.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_INDEPENDENT_CURRENT_AUTHORITY",
+        "intervals": [
+          [
+            1,
+            111
+          ]
+        ],
+        "actual_captures": [
+          "b7a754"
+        ]
+      }
+    },
+    {
+      "source_id": "EP16",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP16",
+        "scope_role": "PRIOR_PRODUCER_ANALYTICAL_CONTEXT_ONLY_GOVERNED_BY_EP00_CYCLE008",
+        "owner": 16,
+        "original_declared_C_path": "private-witness:EIMI_LOCATION_d0f635c18e6e1cf740fd8804887ba2041f66c619c0b12aaa6c5496d90002f142",
+        "C_path": "private-witness:EIMI_LOCATION_65911873e6d843a2b2a6b00731a7658febc3dcae328a4d8de06bbd6330c1e7e1",
+        "bytes": 8220,
+        "sha256": "12dc0df0f45796fd5787d41f86d5f149687237b7b83bd33daaae95cfbfefe09d",
+        "git_blob_oid_of_actual_bytes": "4be10b7971f1f9b953d451378bf57b0593542a49",
+        "physical_lines": 111,
+        "source_ids": [
+          "BA:character_data:10136:profile_and_dialog"
+        ],
+        "raw_source_person_ids": [
+          "BA_PERSON_CH0337"
+        ],
+        "source_variant_ids": [
+          "BA_VARIANT_10136"
+        ],
+        "original_dated_contract_NOT_current_authority": {
+          "status": "draft_noncurrent",
+          "source_admission": "UNADMITTED",
+          "veto": true,
+          "do_not_use_as_current_authority": true
+        },
+        "current_role": "PRIOR_PRODUCER_ANALYTICAL_ARGUMENT_FOR_FINER_CONTEXT_COMPARISON_UNDER_CURRENT_NORMAL_CYCLE008_BOUNDS_NOT_PRIMARY_OR_NEW_ADMISSION"
+      },
+      "own_actual_grade": "SELECTED_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_PRIMARY_OR_INDEPENDENT_CURRENT_AUTHORITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          34,
+          99
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "5ede2b"
+      ],
+      "own_complete_finite_source_judgment": "The10136 written object keeps BA_PERSON_CH0337 and spaced full name. Hedged equipment/endurance claims and reported Toki comparison are not tested engineering or transfer. Desired proximity is explicitly not study gain; rest, caffeine and selective company remain intrinsic, without peer absence, permanent exclusivity or enacted replies.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_INDEPENDENT_CURRENT_AUTHORITY",
+        "intervals": [
+          [
+            1,
+            111
+          ]
+        ],
+        "actual_captures": [
+          "261c51"
+        ]
+      }
+    },
+    {
+      "source_id": "EP17",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP17",
+        "scope_role": "PRIOR_PRODUCER_ANALYTICAL_CONTEXT_ONLY_GOVERNED_BY_EP00_CYCLE008",
+        "owner": 17,
+        "original_declared_C_path": "private-witness:EIMI_LOCATION_86d87b47451ca00c4b5bda7b882deb68afb6fe4de99d01ca94d9f62576d9eb50",
+        "C_path": "private-witness:EIMI_LOCATION_2175ca051b5556ecf8659ff8dd6ad202f73985ad3dcc29f561e3e0cd32d0c9e7",
+        "bytes": 7813,
+        "sha256": "5f15e4340ea66a3c8acdd4d1c6a2e02fe12d5d35ab5c5ecffd87218e7cbc8529",
+        "git_blob_oid_of_actual_bytes": "c70592670be38b96fa0eab75ac17383dce38c73c",
+        "physical_lines": 111,
+        "source_ids": [
+          "BA:character_data:20032:profile_and_dialog"
+        ],
+        "raw_source_person_ids": [
+          "BA_PERSON_EIMI"
+        ],
+        "source_variant_ids": [
+          "BA_VARIANT_20032"
+        ],
+        "original_dated_contract_NOT_current_authority": {
+          "status": "draft_noncurrent",
+          "source_admission": "UNADMITTED",
+          "veto": true,
+          "do_not_use_as_current_authority": true
+        },
+        "current_role": "PRIOR_PRODUCER_ANALYTICAL_ARGUMENT_FOR_FINER_CONTEXT_COMPARISON_UNDER_CURRENT_NORMAL_CYCLE008_BOUNDS_NOT_PRIMARY_OR_NEW_ADMISSION"
+      },
+      "own_actual_grade": "SELECTED_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_PRIMARY_OR_INDEPENDENT_CURRENT_AUTHORITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          34,
+          99
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "aeca22"
+      ],
+      "own_complete_finite_source_judgment": "The20032 repertoire keeps BA_PERSON_EIMI and conditional cold comfort/taste/shared birthday plans. Statusabsence is not global absence, waterproofing remains a question and greater skill a wish. One Himari café reference is not a full dyad; accepted implied bath refusal does not enact another bath or every birthday.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_INDEPENDENT_CURRENT_AUTHORITY",
+        "intervals": [
+          [
+            1,
+            111
+          ]
+        ],
+        "actual_captures": [
+          "1db2c9"
+        ]
+      }
+    },
+    {
+      "source_id": "EP18",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP18",
+        "scope_role": "PRIOR_PRODUCER_ANALYTICAL_CONTEXT_ONLY_GOVERNED_BY_EP00_CYCLE008",
+        "owner": 18,
+        "original_declared_C_path": "private-witness:EIMI_LOCATION_33b2f5815f0222f675062f4d99eb94fdec51b74f887e3a1d02a47416ee74ea94",
+        "C_path": "private-witness:EIMI_LOCATION_67476e618bd818cd103f901f51e246eb08c79ec2315c352165f03e616082281d",
+        "bytes": 7209,
+        "sha256": "7fc96016ef539bc639a545fca24140e497eb5b2ed6a384b9aa9f3f9658d41feb",
+        "git_blob_oid_of_actual_bytes": "0b0978351ddf20fa0440b312acbcc6918da20a64",
+        "physical_lines": 111,
+        "source_ids": [
+          "BA:character_data:event_costume:1900904401:character:10001"
+        ],
+        "raw_source_person_ids": [
+          "BA_PERSON_EIMI"
+        ],
+        "source_variant_ids": [
+          "BA_VARIANT_10001"
+        ],
+        "original_dated_contract_NOT_current_authority": {
+          "status": "draft_noncurrent",
+          "source_admission": "UNADMITTED",
+          "veto": true,
+          "do_not_use_as_current_authority": true
+        },
+        "current_role": "PRIOR_PRODUCER_ANALYTICAL_ARGUMENT_FOR_FINER_CONTEXT_COMPARISON_UNDER_CURRENT_NORMAL_CYCLE008_BOUNDS_NOT_PRIMARY_OR_NEW_ADMISSION"
+      },
+      "own_actual_grade": "SELECTED_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_PRIMARY_OR_INDEPENDENT_CURRENT_AUTHORITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          34,
+          99
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "81de3a"
+      ],
+      "own_complete_finite_source_judgment": "The eight-row10001/Event701 costume context preserves ventilation preference, sleepiness, gladness and casing-ingress inconvenience. Enter/Idle/Buy are separate modes, proofcomplete text is not an executed proof/mission result, and short ordinary context needs no crisis stakes or new costume registration.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_INDEPENDENT_CURRENT_AUTHORITY",
+        "intervals": [
+          [
+            1,
+            111
+          ]
+        ],
+        "actual_captures": [
+          "228d9b"
+        ]
+      }
+    },
+    {
+      "source_id": "EP19",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP19",
+        "scope_role": "PRIOR_PRODUCER_ANALYTICAL_CONTEXT_ONLY_GOVERNED_BY_EP00_CYCLE008",
+        "owner": 19,
+        "original_declared_C_path": "private-witness:EIMI_LOCATION_c1bf2f03fc37dcbe856dbd9d4a80d0c7165b6850589d556c979e3c896dedfd33",
+        "C_path": "private-witness:EIMI_LOCATION_522f80df8132ea102a18304f3b74d97503f2acbc2a5fd4e0d2e28a3c09b7fd1b",
+        "bytes": 8937,
+        "sha256": "29b37ea450ea6570642eba3461d40037d7969b12b33e1c61123f7eb06fb33b20",
+        "git_blob_oid_of_actual_bytes": "9d6588fbba8eacdaaaf29b478f9890d968600c36",
+        "physical_lines": 111,
+        "source_ids": [
+          "BA:character_data:event_costume:1900931301:character:20032"
+        ],
+        "raw_source_person_ids": [
+          "BA_PERSON_EIMI"
+        ],
+        "source_variant_ids": [
+          "BA_VARIANT_20032"
+        ],
+        "original_dated_contract_NOT_current_authority": {
+          "status": "draft_noncurrent",
+          "source_admission": "UNADMITTED",
+          "veto": true,
+          "do_not_use_as_current_authority": true
+        },
+        "current_role": "PRIOR_PRODUCER_ANALYTICAL_ARGUMENT_FOR_FINER_CONTEXT_COMPARISON_UNDER_CURRENT_NORMAL_CYCLE008_BOUNDS_NOT_PRIMARY_OR_NEW_ADMISSION"
+      },
+      "own_actual_grade": "SELECTED_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_PRIMARY_OR_INDEPENDENT_CURRENT_AUTHORITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          34,
+          99
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "f1cf52"
+      ],
+      "own_complete_finite_source_judgment": "The20032/Event70000 repertoire preserves admitted analysis uncertainty, reported heat-variable distance/loneliness, unfulfilled lap permission request, conditional prizes, retracted abandonment joke and consolation. Himari/Toki preferences are reports, not direct Toki cognition or full dyads; bodyheat/probability/success claims remain unvalidated.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_INDEPENDENT_CURRENT_AUTHORITY",
+        "intervals": [
+          [
+            1,
+            111
+          ]
+        ],
+        "actual_captures": [
+          "7462c7"
+        ]
+      }
+    },
+    {
+      "source_id": "EP20",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "EP20",
+        "scope_role": "PRIOR_PRODUCER_ANALYTICAL_CONTEXT_ONLY_GOVERNED_BY_EP00_CYCLE008",
+        "owner": 20,
+        "original_declared_C_path": "private-witness:EIMI_LOCATION_7c828cec46b7fad9c3fcd13836956311195f97acfd0633910ad3f4198da8f34d",
+        "C_path": "private-witness:EIMI_LOCATION_02da5a1794bc52b8e64782ec03f05a6efb8fafb360934a04c317a19fc2fac4fd",
+        "bytes": 7811,
+        "sha256": "c19b4b721a4f3b2eef5820fe396bdd1f1dd3cf0a814ce88bc58d98f0b464b31d",
+        "git_blob_oid_of_actual_bytes": "e83d4280ac902e8a15a04e134ac40f3675047283",
+        "physical_lines": 111,
+        "source_ids": [
+          "BA:character_data:event_costume:1900948601:character:10136"
+        ],
+        "raw_source_person_ids": [
+          "BA_PERSON_CH0337"
+        ],
+        "source_variant_ids": [
+          "BA_VARIANT_10136"
+        ],
+        "original_dated_contract_NOT_current_authority": {
+          "status": "draft_noncurrent",
+          "source_admission": "UNADMITTED",
+          "veto": true,
+          "do_not_use_as_current_authority": true
+        },
+        "current_role": "PRIOR_PRODUCER_ANALYTICAL_ARGUMENT_FOR_FINER_CONTEXT_COMPARISON_UNDER_CURRENT_NORMAL_CYCLE008_BOUNDS_NOT_PRIMARY_OR_NEW_ADMISSION"
+      },
+      "own_actual_grade": "SELECTED_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_PRIMARY_OR_INDEPENDENT_CURRENT_AUTHORITY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          34,
+          99
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "35764d"
+      ],
+      "own_complete_finite_source_judgment": "The10136/Event854 context keeps distant emergency communication, face/talk pleasure, continued heat, accepted implied stop and marksman-not-sniper role. Cooler relocation helps without an invented mover; no completed mission, tactical doctrine, actual transaction, full dyad or new identity follows.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_PRIOR_ANALYTICAL_CONTEXT_UNDER_CURRENT_NORMAL_CYCLE008_NOT_INDEPENDENT_CURRENT_AUTHORITY",
+        "intervals": [
+          [
+            1,
+            111
+          ]
+        ],
+        "actual_captures": [
+          "572bbd"
+        ]
+      }
+    },
+    {
+      "source_id": "G150",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "G150",
+        "scope_role": "CURRENT_MAINTAINED_PUBLIC_CONTEXT",
+        "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md",
+        "bytes": 31173,
+        "sha256": "5befccc68d9cd8c89ba1f60e37f5fe861acfe280f33d5c5ea145f89a8126b0d6",
+        "git_blob_oid_of_actual_bytes": "5f0889bb9b75d3cf973d432467152fb830ba722f",
+        "physical_lines": 190,
+        "role": "FIXED_F93_ALREADY_ADMITTED_MAINTAINED_ANALYTICAL_CONTEXT_BYTES_ONLY_NOT_HUMAN_PRIMARY_OR_SOURCE_RECEIVING"
+      },
+      "own_actual_grade": "WHOLE_MAINTAINED_ANALYTICAL_NOT_PRIMARY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          1,
+          190
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "69caac",
+        "8a0068"
+      ],
+      "own_complete_finite_source_judgment": "Printed Eimi's concrete administrative work and false-data reaction coexist with the empty person join. Yuuka's ethical refusal and weak password differ; capacity is not legitimacy. Publication is observed in the schoolSNS context and the coda shows local rumor persistence after a reported notice, not authentic100kg/global exposure/full repair. Sensei is an imagined audience, not present.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_CURRENT_MAINTAINED_WRITTEN_CONTEXT_NOT_PRIMARY_NATIVE_RAW_OR_AV",
+        "intervals": [
+          [
+            1,
+            190
+          ]
+        ],
+        "actual_captures": [
+          "26f244",
+          "39b9ac"
+        ]
+      }
+    },
+    {
+      "source_id": "V002",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "V002",
+        "scope_role": "CURRENT_MAINTAINED_PUBLIC_CONTEXT",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 33564,
+        "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+        "git_blob_oid_of_actual_bytes": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+        "physical_lines": 257,
+        "role": "FIXED_F93_ALREADY_ADMITTED_MAINTAINED_ANALYTICAL_CONTEXT_BYTES_ONLY_NOT_HUMAN_PRIMARY_OR_SOURCE_RECEIVING"
+      },
+      "own_actual_grade": "WHOLE_MAINTAINED_ANALYTICAL_NOT_PRIMARY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          1,
+          257
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "5bf694",
+        "ccccac"
+      ],
+      "own_complete_finite_source_judgment": "The maintained whole-arc argument treats making, reception, recognition, belonging and safety as distinct. Ordinary taste, rest, art, games and selected company need no crisis payoff. Existing family source grades/current Cycle008 qualify older proposal text; no fresh45MAIN/577private/82event primary reading follows. E831 entrusted-gun/safeescape and E854 distributed aid/fear/unfinished reversal remain source-local, not one calendar or identity mechanism.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_CURRENT_MAINTAINED_WRITTEN_CONTEXT_NOT_PRIMARY_NATIVE_RAW_OR_AV",
+        "intervals": [
+          [
+            1,
+            257
+          ]
+        ],
+        "actual_captures": [
+          "683d1f",
+          "e3458d",
+          "3d608e"
+        ]
+      }
+    },
+    {
+      "source_id": "E831",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "E831",
+        "scope_role": "CURRENT_MAINTAINED_PUBLIC_CONTEXT",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_831/BLUE_ARCHIVE_EVENT_831_CONTEXTUALIZATION_CHECKPOINT.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_831/BLUE_ARCHIVE_EVENT_831_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 29214,
+        "sha256": "e63b8c490a3f80c8cc04f9079b927313b120cf91995e2cdc62a9b98a18eea24a",
+        "git_blob_oid_of_actual_bytes": "6e54e9131a3d70749584a49bed379fcacf926b63",
+        "physical_lines": 133,
+        "role": "FIXED_F93_ALREADY_ADMITTED_MAINTAINED_ANALYTICAL_CONTEXT_BYTES_ONLY_NOT_HUMAN_PRIMARY_OR_SOURCE_RECEIVING"
+      },
+      "own_actual_grade": "WHOLE_MAINTAINED_ANALYTICAL_NOT_PRIMARY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          1,
+          133
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "1ea06d",
+        "aa4627"
+      ],
+      "own_complete_finite_source_judgment": "Eimi revises briefing timing for understanding, reports carrying visitors, requests combat naming and accepts the entrusted gun while admitting incomplete understanding. Visitors retain different wants/refusals and bodily costs; gift acceptance is not all-demo consent. Failed gun, effective barrier action, chip repair, departure and exhausted safe escape are distinct endpoints. Memory erasure/home condition, future reunion, durable transport and predicted collapse are not verified; source actor headings remain qualified.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_CURRENT_MAINTAINED_WRITTEN_CONTEXT_NOT_PRIMARY_NATIVE_RAW_OR_AV",
+        "intervals": [
+          [
+            1,
+            133
+          ]
+        ],
+        "actual_captures": [
+          "b740ee",
+          "2eada6"
+        ]
+      }
+    },
+    {
+      "source_id": "E854",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "E854",
+        "scope_role": "CURRENT_MAINTAINED_PUBLIC_CONTEXT",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_854/BLUE_ARCHIVE_EVENT_854_CONTEXTUALIZATION_CHECKPOINT.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_854/BLUE_ARCHIVE_EVENT_854_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 47958,
+        "sha256": "f8ce4ffdedac78b6e92b296515c9ace92a4277e441dee72348d815785b5283f7",
+        "git_blob_oid_of_actual_bytes": "23b45869c2d1a6f08b988ec2e00c435d271ca327",
+        "physical_lines": 217,
+        "role": "FIXED_F93_ALREADY_ADMITTED_MAINTAINED_ANALYTICAL_CONTEXT_BYTES_ONLY_NOT_HUMAN_PRIMARY_OR_SOURCE_RECEIVING"
+      },
+      "own_actual_grade": "WHOLE_MAINTAINED_ANALYTICAL_NOT_PRIMARY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          1,
+          217
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "cec651",
+        "d54324",
+        "a7aee2"
+      ],
+      "own_complete_finite_source_judgment": "Himari's inward time-buying aim, Eimi's reported outside hardware destruction and Rio's cracking are separate. Heat burden, real cold enjoyment, fear, wanted idleness, retracted jokes and a short-name response remain intrinsically meaningful. Co-design does not supply Yuzu pilot consent; message heard by Alice and Kei differs from withheld suspected source identity. The EOF begins reversal after body/belt/communications reports, not final defeat, home return, universal safety or clinical clearance. Two Eimi-related actor seams remain unrepaired.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_CURRENT_MAINTAINED_WRITTEN_CONTEXT_NOT_PRIMARY_NATIVE_RAW_OR_AV",
+        "intervals": [
+          [
+            1,
+            217
+          ]
+        ],
+        "actual_captures": [
+          "26e66c",
+          "0f38dc",
+          "a038d8"
+        ]
+      }
+    },
+    {
+      "source_id": "FINAL",
+      "full_fixed_maintained_or_prior_analytical_binding_NOT_rewritten": {
+        "source_id": "FINAL",
+        "scope_role": "CURRENT_MAINTAINED_PUBLIC_CONTEXT",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 49292,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "git_blob_oid_of_actual_bytes": "4712932e1058e7babcc693932caedcfd1a076622",
+        "physical_lines": 452,
+        "role": "FIXED_F93_ALREADY_ADMITTED_MAINTAINED_ANALYTICAL_CONTEXT_BYTES_ONLY_NOT_HUMAN_PRIMARY_OR_SOURCE_RECEIVING"
+      },
+      "own_actual_grade": "WHOLE_MAINTAINED_ANALYTICAL_NOT_PRIMARY",
+      "own_actual_physical_intervals_inclusive": [
+        [
+          1,
+          452
+        ]
+      ],
+      "actual_own_tool_receiving_captures": [
+        "c74311",
+        "4072b3",
+        "af8138"
+      ],
+      "own_complete_finite_source_judgment": "The four-chapter maintained synthesis gives differentiated civic, technical and rescue acts with meals/model/home welcome as genuine ordinary ends. Early AMAS operator uncertainty differs from later remote-Rio evidence; linkcut, breach, return report and civic repairs are separate. Roughly2KB Kei.sav is unauthenticated, medical clearance/president location/legal reconfidence remain unknown. No new64MAIN primary credit, global chronology or Eimi attendance on everyfront follows.",
+      "author_original_grade_and_extent_NOT_transferred": {
+        "grade": "WHOLE_CURRENT_MAINTAINED_WRITTEN_CONTEXT_NOT_PRIMARY_NATIVE_RAW_OR_AV",
+        "intervals": [
+          [
+            1,
+            452
+          ]
+        ],
+        "actual_captures": [
+          "fde0c9",
+          "9ed7d4",
+          "64ad4a"
+        ]
+      }
+    }
+  ],
+  "own_actual_grade_summary": {
+    "whole": 6,
+    "whole_lines": 1580,
+    "selected": 20,
+    "selected_lines": 1320,
+    "total": 2900,
+    "finer20_intervals": "physical34-99 only, current normalCycle008 qualifies older intake stages",
+    "grade": "MAINTAINED_ANALYTICAL_NOT_PRIMARY_NATIVE_RAW_AV"
+  },
+  "body_author_original12_question_object_NOT_rewritten": {
+    "schema": "EIMI_HOME47_F084_GENUINE_OWN_SOURCE_QUESTIONS_BEFORE_ACTUAL_SOURCE_COURSE_V1",
+    "author": "/root/m008_composition_review",
+    "role": "FUTURE_BODY_AUTHOR_NOT_INDEPENDENT_SELF_QA",
+    "creation_stage": "BEFORE_OWN_NEW_MAINTAINED_SOURCE_RECEIVING",
+    "existing_scope": "Existing home47/F084 only; fixed retrieval-bounded responsibility, no registry/identity/named/count change.",
+    "questions": [
+      {
+        "question_id": "EQ01",
+        "complete_own_pre_receiving_question": "Which exact identity bindings distinguish BA_PERSON_EIMI variants10001/20032 from BA_PERSON_CH0337 variant10136, and which printed Eimi or group-role joins remain empty? How can the fixed retrieval-bounded home hold those distinctions without a manufactured person merge?",
+        "scope": "EQ01"
+      },
+      {
+        "question_id": "EQ02",
+        "complete_own_pre_receiving_question": "What does Eimi actually want, notice, enjoy or make in the private and written accounts—mint, music, spacing out, fashion, warmth, cocoa, tea, making and selected company—and which particular outcomes resist reducing them to public utility or incapacity?",
+        "scope": "EQ02"
+      },
+      {
+        "question_id": "EQ03",
+        "complete_own_pre_receiving_question": "Who initiates each private message, visit, invitation or request, what does the recipient actually answer, and which alternatives, conditional written contexts or reported tails stop a permanent commitment or complete mutual knowledge from being inferred?",
+        "scope": "EQ03"
+      },
+      {
+        "question_id": "EQ04",
+        "complete_own_pre_receiving_question": "How do Eimi’s self-descriptions, represented inward thoughts, speech, choices, reports and performed acts differ? In particular, where does an adverse private thought stop short of performed harm, and where do ambiguity or contradictory judgments remain?",
+        "scope": "EQ04"
+      },
+      {
+        "question_id": "EQ05",
+        "complete_own_pre_receiving_question": "What actual small problems, equipment uses or failures show task-specific competence and its limits? How do partial gear and fan failures, assumptions and disputed diagnoses prevent a universal technical, clinical or reliability claim?",
+        "scope": "EQ05"
+      },
+      {
+        "question_id": "EQ06",
+        "complete_own_pre_receiving_question": "How does directed work or companionship with Himari preserve different wants, interpretations, help, refusals and costs? Which particular episodes resist either ideal assistance or global coercion without manufacturing symmetric trust or a completed extra relationship duty?",
+        "scope": "EQ06"
+      },
+      {
+        "question_id": "EQ07",
+        "complete_own_pre_receiving_question": "What exactly occurs in the complete G150 account among printed Eimi, other local actors and observers? Which identities, knowledge, command roles, choices and finite results are actually supplied, and which empty join must remain empty?",
+        "scope": "EQ07"
+      },
+      {
+        "question_id": "EQ08",
+        "complete_own_pre_receiving_question": "What E831 acts, thoughts, ordering and results distinguish tracking, threatened or contemplated harm, practical help, choices and consequences? Which recipient, diagnosis or safety conclusions would exceed that actual course?",
+        "scope": "EQ08"
+      },
+      {
+        "question_id": "EQ09",
+        "complete_own_pre_receiving_question": "What does V002 add to Eimi’s public agency, relations, crisis contribution and limits? Keep different speakers, distant or reported presence and local chronology distinct from a single continuous calendar or an exhaustive biography.",
+        "scope": "EQ09"
+      },
+      {
+        "question_id": "EQ10",
+        "complete_own_pre_receiving_question": "In E854 and the Final account, what is actually entrusted, traced, remembered, recovered or escaped? How do the entrusted gun and safe escape differ from durable memory, reunion, full victory, ontology or clinical recovery?",
+        "scope": "EQ10"
+      },
+      {
+        "question_id": "EQ11",
+        "complete_own_pre_receiving_question": "Which written Japanese examples, hesitations, bluntness, playful or technical terms and audience seams support a situated voice? How do fourteen paired scopes and six written objects overlap rather than becoming independent confirmations, enacted UI actions or native/AV performance?",
+        "scope": "EQ11"
+      },
+      {
+        "question_id": "EQ12",
+        "complete_own_pre_receiving_question": "Which serious rivals best explain the complete received course—passive helper, omnipotent technician, cold or dangerous whole person, ideal care, total coercion or one linear growth story—and what concrete contrary cases and finite afterstates discriminate them while all14 original gaps remain OPEN/models0?",
+        "scope": "EQ12"
+      }
+    ],
+    "known_declaration_only": "Root and publisher prior journals remain attributed; no source cognition is borrowed. Exact maintained copies are to be pinned and actually received next. No primary targets or source admission.",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "new105_ROOT_body_acceptance_count_runtime_publication_merge_credit": 0
+  },
+  "body_author_original12_answers_NOT_rewritten": [
+    {
+      "question_id": "EQ01",
+      "complete_own_pre_receiving_question": "Which exact identity bindings distinguish BA_PERSON_EIMI variants10001/20032 from BA_PERSON_CH0337 variant10136, and which printed Eimi or group-role joins remain empty? How can the fixed retrieval-bounded home hold those distinctions without a manufactured person merge?",
+      "actual_source_loci": "EP00/255;EP07/35;EP15/34;EP16/34;EP17/34;G150/38–40/102/120",
+      "own_complete_actual_bounded_answer": "The boundedretrievalhome contains two unmerged printed personroutes. BA_PERSON_EIMI belongs10001/20032; BA_PERSON_CH0337 belongs10136. The group independently supplies printed Eimi with an empty personjoin; neither namefamiliarity nor registryavailability repairs it. Comparison can retain convergent efficiency, wantedcompany and source-localroles without claiming one chronologicalperson or a registryconsolidation.",
+      "own_disposition": "ADEQUATE_FOR_BOUNDED_BODY_AUTHORING_WITH_EXPLICIT_LIMITS_NOT_ROOT_OR_INDEPENDENT_QA"
+    },
+    {
+      "question_id": "EQ02",
+      "complete_own_pre_receiving_question": "What does Eimi actually want, notice, enjoy or make in the private and written accounts—mint, music, spacing out, fashion, warmth, cocoa, tea, making and selected company—and which particular outcomes resist reducing them to public utility or incapacity?",
+      "actual_source_loci": "EP01/39–79;EP03/39–79;EP04/39–79;EP10/39–79;EP13/39–79;EP15–20/38–78",
+      "own_complete_actual_bounded_answer": "Mint taste and sharedicecream, unresolvedpeerresearch, successfulsinging, wantedfit/cuteness, handmadefanwork, icedcocoa, chosenwarmth, tea, rest and music are particularordinarygoods. Some areactualscenes, othersselfreport/profile/conditionalrepertoire. Their value doesnot require crisisutility; acknowledgeddefects and differentrecipients remain partofeachresult.",
+      "own_disposition": "ADEQUATE_FOR_BOUNDED_BODY_AUTHORING_WITH_EXPLICIT_LIMITS_NOT_ROOT_OR_INDEPENDENT_QA"
+    },
+    {
+      "question_id": "EQ03",
+      "complete_own_pre_receiving_question": "Who initiates each private message, visit, invitation or request, what does the recipient actually answer, and which alternatives, conditional written contexts or reported tails stop a permanent commitment or complete mutual knowledge from being inferred?",
+      "actual_source_loci": "EP01–14/35–79;EP15–20/34–78",
+      "own_complete_actual_bounded_answer": "Messages and scenes distinguish personalrequests, futureoutings, actualshopping/gifts, advice, receivedtreatment, acceptedrefusals and incompletepromises. Sensei has alternatives and inward/reportedmode seams; thebodywill notassign allalternatives asoneevent, assume transparentmutualknowledge, or turn gratitude into blanketpermission/romance/permanentavailability.",
+      "own_disposition": "ADEQUATE_FOR_BOUNDED_BODY_AUTHORING_WITH_EXPLICIT_LIMITS_NOT_ROOT_OR_INDEPENDENT_QA"
+    },
+    {
+      "question_id": "EQ04",
+      "complete_own_pre_receiving_question": "How do Eimi’s self-descriptions, represented inward thoughts, speech, choices, reports and performed acts differ? In particular, where does an adverse private thought stop short of performed harm, and where do ambiguity or contradictory judgments remain?",
+      "actual_source_loci": "EP05/39–79;EP10/47/67;E831/103–108;E854/183–185",
+      "own_complete_actual_bounded_answer": "A privateconditional injury-for-attention thought is not performedintentionalinjury or Sensei endorsement. Retractions qualify jokes about illness/confinement/war. Reports, choices, sourceheadings, inwardnarration, UIcontexts and actualacts have differentowners and warrants. Uncertain labels remainunrepaired, not hiddenknowledge or AVperformance.",
+      "own_disposition": "ADEQUATE_FOR_BOUNDED_BODY_AUTHORING_WITH_EXPLICIT_LIMITS_NOT_ROOT_OR_INDEPENDENT_QA"
+    },
+    {
+      "question_id": "EQ05",
+      "complete_own_pre_receiving_question": "What actual small problems, equipment uses or failures show task-specific competence and its limits? How do partial gear and fan failures, assumptions and disputed diagnoses prevent a universal technical, clinical or reliability claim?",
+      "actual_source_loci": "EP06/39–79;EP09/39–79;EP12/39–79;EP13/39–79;EP14/39–79",
+      "own_complete_actual_bounded_answer": "Preparedwater/equipment, technicalreasoning and making are realcareorcompetence, while hotair, weakwind/armfatigue, depletedpower and partialtrousers show specificlimits. Sneeze-based illness is disputed; narrator-attributedadultcold is not a clinicallaw. Negative search islocal, prospectivecountermeasuresunverified, protectionnotuniversal.",
+      "own_disposition": "ADEQUATE_FOR_BOUNDED_BODY_AUTHORING_WITH_EXPLICIT_LIMITS_NOT_ROOT_OR_INDEPENDENT_QA"
+    },
+    {
+      "question_id": "EQ06",
+      "complete_own_pre_receiving_question": "How does directed work or companionship with Himari preserve different wants, interpretations, help, refusals and costs? Which particular episodes resist either ideal assistance or global coercion without manufacturing symmetric trust or a completed extra relationship duty?",
+      "actual_source_loci": "EP17/46/54;EP19/38–78;E831/77–101;E854/126/133/141–155;FINAL/145–162",
+      "own_complete_actual_bounded_answer": "The bodycan compare sourced workwithHimari andToki without completing anindependentdyad. Eimi’s usefulreports/outsidehardwareact, concern, receivedcompanyandrelocation coexistwith methodologicaluncertainty, overheatedburden, retractedjokes and differentiatedpreferences. Otheractors retain their own aims; neither idealcare nor totalcoercion exhausts thecourse.",
+      "own_disposition": "ADEQUATE_FOR_BOUNDED_BODY_AUTHORING_WITH_EXPLICIT_LIMITS_NOT_ROOT_OR_INDEPENDENT_QA"
+    },
+    {
+      "question_id": "EQ07",
+      "complete_own_pre_receiving_question": "What exactly occurs in the complete G150 account among printed Eimi, other local actors and observers? Which identities, knowledge, command roles, choices and finite results are actually supplied, and which empty join must remain empty?",
+      "actual_source_loci": "G150/38–48/68–80/90–120",
+      "own_complete_actual_bounded_answer": "Printed Eimi does officecleanup/recordentry, askswhatYuuka canmodify, receivesaccess andobservesfalseSNSdata. Yuuka rejects authorityabuse while leavingweakcredentials. Eimi accepts falseinformation beforecorrection; no dietrecommendation oractualweight is endorsed. Emptyjoinstays empty, andinterleavingdoesnot establish exacttechnicaltimestamps orothermainchronology.",
+      "own_disposition": "ADEQUATE_FOR_BOUNDED_BODY_AUTHORING_WITH_EXPLICIT_LIMITS_NOT_ROOT_OR_INDEPENDENT_QA"
+    },
+    {
+      "question_id": "EQ08",
+      "complete_own_pre_receiving_question": "What E831 acts, thoughts, ordering and results distinguish tracking, threatened or contemplated harm, practical help, choices and consequences? Which recipient, diagnosis or safety conclusions would exceed that actual course?",
+      "actual_source_loci": "E831/77–101/103–126",
+      "own_complete_actual_bounded_answer": "Briefing adapts an efficiencyproposal to recipientunderstanding. Visitorswant differentexperiences, report bodilylimitsandrefuse ordelimitrequests. Gungift acceptance is notblanketdemoconsent; manufacturefails and particularbarrier/defensiveacts help. Eimi promisesgun-custody whileadmitting incompleteunderstanding. No harmthought is madeanact, no universalsafetyorcompletefacilityrepair follows.",
+      "own_disposition": "ADEQUATE_FOR_BOUNDED_BODY_AUTHORING_WITH_EXPLICIT_LIMITS_NOT_ROOT_OR_INDEPENDENT_QA"
+    },
+    {
+      "question_id": "EQ09",
+      "complete_own_pre_receiving_question": "What does V002 add to Eimi’s public agency, relations, crisis contribution and limits? Keep different speakers, distant or reported presence and local chronology distinct from a single continuous calendar or an exhaustive biography.",
+      "actual_source_loci": "V002/75–81/168–170/216/243–251;FINAL/133–175/245–251",
+      "own_complete_actual_bounded_answer": "The normalMainconvergences are alreadyqualifiedwrittenaccounts. They provide Eimi’s familyandteamcontexts without freshprimaryreceiving or per-persondeploymentineveryscene. Local sequence and latercorroboration may narrow aclaim; IDs,releases,uniforms,commonmotifs and earlier/lateactorinformation do not give a globalcalendar or one fixed growthtrajectory.",
+      "own_disposition": "ADEQUATE_FOR_BOUNDED_BODY_AUTHORING_WITH_EXPLICIT_LIMITS_NOT_ROOT_OR_INDEPENDENT_QA"
+    },
+    {
+      "question_id": "EQ10",
+      "complete_own_pre_receiving_question": "In E854 and the Final account, what is actually entrusted, traced, remembered, recovered or escaped? How do the entrusted gun and safe escape differ from durable memory, reunion, full victory, ontology or clinical recovery?",
+      "actual_source_loci": "E831/99–106;E854/126/153–179;FINAL/153–175",
+      "own_complete_actual_bounded_answer": "Eimi actually accepts a gun as anentrustedtrace, visitorsdepart and localparty escapes exhausted. Memoryerasure at theirhome, future reunion, durablemachineryandpredictedcollapseare not witnessed. E854 hasrealhardwarecoordination with fear andunresolvedfinalbattle; Final hasdifferentlocalrescue, reportedreturn andordinaryhomeends without identity-fileauthentication orclinical/civiccompletion.",
+      "own_disposition": "ADEQUATE_FOR_BOUNDED_BODY_AUTHORING_WITH_EXPLICIT_LIMITS_NOT_ROOT_OR_INDEPENDENT_QA"
+    },
+    {
+      "question_id": "EQ11",
+      "complete_own_pre_receiving_question": "Which written Japanese examples, hesitations, bluntness, playful or technical terms and audience seams support a situated voice? How do fourteen paired scopes and six written objects overlap rather than becoming independent confirmations, enacted UI actions or native/AV performance?",
+      "actual_source_loci": "EP00/285–287;EP01–20/65–78;G150/107–120;E831/103–108;E854/181–185",
+      "own_complete_actual_bounded_answer": "Efficiency varies among comfort,giving,workreduction,company and withheldspeech; it isnotone invariant metric. Hedgeddesire,probability,reportedlabels,retractedjokes andmode seams mustremain. The14pairedscopes/sixwrittenobjects overlap the normalaccount; they are finerattributedcontext,notindependentprimaryconfirmations or performedvoice.",
+      "own_disposition": "ADEQUATE_FOR_BOUNDED_BODY_AUTHORING_WITH_EXPLICIT_LIMITS_NOT_ROOT_OR_INDEPENDENT_QA"
+    },
+    {
+      "question_id": "EQ12",
+      "complete_own_pre_receiving_question": "Which serious rivals best explain the complete received course—passive helper, omnipotent technician, cold or dangerous whole person, ideal care, total coercion or one linear growth story—and what concrete contrary cases and finite afterstates discriminate them while all14 original gaps remain OPEN/models0?",
+      "actual_source_loci": "EP00/263–299;EP05/47–79;EP06/47–79;EP07–14/43–79;E831/73–126;E854/187;FINAL/112–175",
+      "own_complete_actual_bounded_answer": "Instrument-only andaffectless readingslose explicitordinarypleasure andwantedcompany. Omnipotenttechnician losesmaterialfailures; idealcarelosespressure andcosts; totalcoercionloseschosenrequests/refusals; completechange or exclusiveadultcausation losesretainedselfreportlimits,otheractors andselectivereluctance. Eachrivalneeds finitepositivesandcontraries; no fittedmodel orclosedgapfollows.",
+      "own_disposition": "ADEQUATE_FOR_BOUNDED_BODY_AUTHORING_WITH_EXPLICIT_LIMITS_NOT_ROOT_OR_INDEPENDENT_QA"
+    }
+  ],
+  "new105_author_own12_question_answers_and_limits": [
+    {
+      "question_id": "EQ01",
+      "complete_original_own_pre_reading_question_NOT_rewritten": {
+        "id": "EQ01",
+        "own_source_specific_question": "What exactly belongs to the fixed Eimi responsibility, and which joins remain unavailable?",
+        "finite_evidence_and_abstention_rule": "Preserve BA_PERSON_EIMI10001/variants10001,20032 and BA_PERSON_CH0337/10136 literally/separately inside existing home47/F084. Determine each source's stated actor key before a character attribution; do not fill G150's printed Eimi emptyjoin or create a new identity/census."
+      },
+      "own_actual_bounded_answer": "The fixed retrieval responsibility holds BA_PERSON_EIMI for10001/20032 and BA_PERSON_CH0337 for10136 without joining them. The printed G150 Eimi has a secure named speaker but an empty person join. I can compare local care, tastes and useful work across these disclosed routes; neither equipment resemblance nor a familiar name proves one registered person or a continuous life.",
+      "actual_own_source_loci_and_grade": "EP00 whole331; EP07/EP15/EP16/EP17 selected34–99; G150 whole190",
+      "finite_stronger_claim_trigger_and_abstention": "Require a positively admitted identity decision for any merge; keep exact keys and variant/source modes in every new105 comparison.",
+      "disposition": "ADEQUATE_WITH_LIMITS_FOR_GENUINE_NEW105_PREPARATION"
+    },
+    {
+      "question_id": "EQ02",
+      "complete_original_own_pre_reading_question_NOT_rewritten": {
+        "id": "EQ02",
+        "own_source_specific_question": "When is cooling or another bodily preference an intrinsic wanted good, and whose comfort is actually represented?",
+        "finite_evidence_and_abstention_rule": "Separate Eimi's expressed preference, inward appraisal, a request, another recipient's answer and actual environmental action. Ordinary comfort can matter without crisis usefulness; no uniform preference or clinical threshold follows."
+      },
+      "own_actual_bounded_answer": "Cooling is a particular preference, while recipients and outcomes differ. The mint disagreement ends in actual shared ice cream; a modified fan becomes hot air; polar arm-linking expresses wanted closeness; iced cocoa recognizes Eimi's taste; actual tea is an exception after a disputed bath diagnosis. Quiet comfort has intrinsic value without proving thermal efficacy, universal taste or a clinical threshold.",
+      "actual_own_source_loci_and_grade": "EP01/06/08/10/13/14 selected34–99; normal331; E854 whole217",
+      "finite_stronger_claim_trigger_and_abstention": "Do not generalize a local pleasure or refusal into all-person comfort or permission. A stronger bodily mechanism needs actual supplied measurements/clinical evidence, absent here.",
+      "disposition": "ADEQUATE_WITH_LIMITS_FOR_GENUINE_NEW105_PREPARATION"
+    },
+    {
+      "question_id": "EQ03",
+      "complete_original_own_pre_reading_question_NOT_rewritten": {
+        "id": "EQ03",
+        "own_source_specific_question": "Which methods succeed locally, fail or meet a refusal?",
+        "finite_evidence_and_abstention_rule": "Track the precise requested end, employed means, recipient response, correction and finite afterstate. Cooperation in one task cannot authorize every cooling/body/technical method or erase an objection."
+      },
+      "own_actual_bounded_answer": "Methods have separate ends, answers and afterstates. Sensei's stop receives an alternative treat; a gunfire extension is refused; public changing is repeatedly stopped; bandaging is accomplished despite surprise; fan preparation fails cooling; gear acceptance omits trousers; ice-bath refusal is respected. These distinctions prevent either ideal care or total coercion from explaining every scene.",
+      "actual_own_source_loci_and_grade": "EP01/03/04/05/06/12/14 selected34–99; E831/E854 whole",
+      "finite_stronger_claim_trigger_and_abstention": "Use the particular request/response and task result, not later gratitude or useful work, before claiming a method was wanted, effective or authorized.",
+      "disposition": "ADEQUATE_WITH_LIMITS_FOR_GENUINE_NEW105_PREPARATION"
+    },
+    {
+      "question_id": "EQ04",
+      "complete_original_own_pre_reading_question_NOT_rewritten": {
+        "id": "EQ04",
+        "own_source_specific_question": "What do the maintained written sources establish about equipment, physical condition and technical competence?",
+        "finite_evidence_and_abstention_rule": "Keep Eimi's explanation or self-report separate from an observed device effect, another actor's diagnosis or a completed repair. Do not convert temperature jokes, endurance or equipment operation into clinical causation or universal mastery."
+      },
+      "own_actual_bounded_answer": "The maintained evidence supplies task-specific operation and attributed explanation, not a technical/clinical totality. Negative ruins search is local; the fan's modifier is unnamed; backpack depletion/linkage is Eimi's account; weak manual wind/arm pain are admitted; gear coverage is partial. Narrator-attributed adult cold and Eimi's disputed sneeze diagnosis have different warrants. Her E854 hardware report contributes without certifying universal mastery.",
+      "actual_own_source_loci_and_grade": "EP06/09/12/13/14/16 selected34–99; E854 whole217",
+      "finite_stronger_claim_trigger_and_abstention": "Require the relevant observed device/medical afterstate and actor before stronger engineering, health or reliability claims; never turn fictional cold into medical guidance.",
+      "disposition": "ADEQUATE_WITH_LIMITS_FOR_GENUINE_NEW105_PREPARATION"
+    },
+    {
+      "question_id": "EQ05",
+      "complete_original_own_pre_reading_question_NOT_rewritten": {
+        "id": "EQ05",
+        "own_source_specific_question": "Which ordinary activities are actual, wanted, offered, remembered or merely available written contexts?",
+        "finite_evidence_and_abstention_rule": "Receive the particular tastes, food/objects, company, play, clothing, rest and making the sources actually contain. Do not discard quiet goods or turn profile/UI invitations into performed encounters, purchases or stable biography."
+      },
+      "own_actual_bounded_answer": "Actual shared ice cream, narrated singing, shopping/gifts, fan making/trial, café/cocoa/tea and quiet company have different completed local ends. Research, promised shopping, daily wear, proposed home bath, future partners and lap sitting remain unresolved or prospective. Profiles and Enter/Idle/Buy/holiday modes offer wanted music, spacing out, rest, taste and company without creating additional performed scenes.",
+      "actual_own_source_loci_and_grade": "EP01–20 selected34–99; normal331; public5 whole",
+      "finite_stronger_claim_trigger_and_abstention": "Retain every quiet good at its own actual/reported/wanted/conditional grade. No performed transaction, contact, mission, birthday calendar or extra scene follows from a trigger row.",
+      "disposition": "ADEQUATE_WITH_LIMITS_FOR_GENUINE_NEW105_PREPARATION"
+    },
+    {
+      "question_id": "EQ06",
+      "complete_original_own_pre_reading_question_NOT_rewritten": {
+        "id": "EQ06",
+        "own_source_specific_question": "What do fear, jokes and apparently cool speech do in their actual local situations?",
+        "finite_evidence_and_abstention_rule": "Distinguish spoken written dialogue, inward text, narrator statement and teacher option. A humorous or restrained expression need not eliminate fear or care; no acoustic delivery, hidden diagnosis or invariant emotion rule follows."
+      },
+      "own_actual_bounded_answer": "Terse or instrumental wording coexists with embarrassment, gratitude, fear, loneliness, taste, humor and chosen reserve. Karaoke's feared room danger is hypothetical, gunfire only proposed/refused, the private injury-for-attention thought unperformed, and illness/confinement/war jokes explicitly retracted. Written language is the available mode; no acoustic delivery, diagnosis or permanent affect rule is supplied.",
+      "actual_own_source_loci_and_grade": "EP02/03/05/08/10/15/19 selected34–99; E854 whole217",
+      "finite_stronger_claim_trigger_and_abstention": "Preserve audience, inward/choice/narrator/trigger distinctions and the complete retraction. A stronger attribution must resolve its exact source seam rather than infer a hidden mind.",
+      "disposition": "ADEQUATE_WITH_LIMITS_FOR_GENUINE_NEW105_PREPARATION"
+    },
+    {
+      "question_id": "EQ07",
+      "complete_original_own_pre_reading_question_NOT_rewritten": {
+        "id": "EQ07",
+        "own_source_specific_question": "How are Eimi's and Sensei's requests, knowledge and care directed?",
+        "finite_evidence_and_abstention_rule": "Preserve who initiates a visit or asks for a method, which alternatives remain alternatives, what is accepted/refused and what is privately known. No blanket consent, exclusive dependence, romance or omniscient adult knowledge is inferred."
+      },
+      "own_actual_bounded_answer": "Requests and knowledge are directional. Eimi initiates inquiries and counteroffers, asks for feedback or guidance, and decides where speech stops; Sensei notices/treats, proposes alternatives and sometimes presses mistaken care. Contact can precede surprise and later comfort; the private injury thought is not known or endorsed by the adult. Present sufficiency and possible partnership matter without completing exclusivity or romance.",
+      "actual_own_source_loci_and_grade": "EP01–14 selected34–99; EP15–20 written selected34–99",
+      "finite_stronger_claim_trigger_and_abstention": "Do not accumulate teacher alternatives or turn thanks/late pleasure into advance permission. A stronger lasting commitment needs actual accepted terms and later conduct.",
+      "disposition": "ADEQUATE_WITH_LIMITS_FOR_GENUINE_NEW105_PREPARATION"
+    },
+    {
+      "question_id": "EQ08",
+      "complete_original_own_pre_reading_question_NOT_rewritten": {
+        "id": "EQ08",
+        "own_source_specific_question": "How does Eimi contribute alongside Himari and other peers without absorbing their acts?",
+        "finite_evidence_and_abstention_rule": "Separate Eimi's actual physical/hardware work from Himari's planning/inward time-buying and Rio's cracking wherever those contexts apply. Determine actual endpoints and retained costs; do not infer a uniquely measured successful window or permanent relationship completion."
+      },
+      "own_actual_bounded_answer": "E854 explicitly separates Himari's inward time-buying aim, Eimi's reported outside-hardware destruction and Rio's cracking opportunity. Heat burdens, cold pleasure, fear and wanted peaceful idleness remain alongside coordinated work and Toki's provisional hobbies. E831 similarly distributes carrying, chip/data support, manufacture, barrier work and defensive control. No single participant owns every success or receives absolution.",
+      "actual_own_source_loci_and_grade": "E854 whole217 especially124–126/141–162; E831 whole133; Final whole452",
+      "finite_stronger_claim_trigger_and_abstention": "Preserve source-specific actor/action/mode and finite result. No uniquely measured successful window, full safety/accountability settlement or extra relationship completion follows.",
+      "disposition": "ADEQUATE_WITH_LIMITS_FOR_GENUINE_NEW105_PREPARATION"
+    },
+    {
+      "question_id": "EQ09",
+      "complete_original_own_pre_reading_question_NOT_rewritten": {
+        "id": "EQ09",
+        "own_source_specific_question": "What does G150's peer-world course add at its already admitted maintained grade?",
+        "finite_evidence_and_abstention_rule": "Read its actual preferences, requests/responses, jokes and technical/ordinary context. Keep printed actor seams and empty join empty, attributed knowledge bounded, and requests separate from achieved endpoints. The cohort relation does not itself prove an identity merger."
+      },
+      "own_actual_bounded_answer": "G150's printed Eimi returns scales, asks about editing capacity, receives access for record entry and initially responds to false publication as data. Yuuka's role-based fairness refusal coexists with weak credentials; Veritas peers have different interests and culpable acts; Chihiro's ethical correction does not restore every affected person. The several-days rumor is observed locally, not a universal audience fact, and Eimi's empty join stays empty.",
+      "actual_own_source_loci_and_grade": "G150 whole190",
+      "finite_stronger_claim_trigger_and_abstention": "No authentic100kg measurement, clinical diet recommendation, transferred actor knowledge, global exposure, completed repair or registry join is inferred.",
+      "disposition": "ADEQUATE_WITH_LIMITS_FOR_GENUINE_NEW105_PREPARATION"
+    },
+    {
+      "question_id": "EQ10",
+      "complete_original_own_pre_reading_question_NOT_rewritten": {
+        "id": "EQ10",
+        "own_source_specific_question": "How does V002's account qualify local public work, loss or remembered context?",
+        "finite_evidence_and_abstention_rule": "Receive adequate actual maintained contexts and speaker/mode markers before using them. Keep narrative order, reports and unprinted motives separate; do not import a global psychological biography, a complete source20 inspection or later immunity to failure."
+      },
+      "own_actual_bounded_answer": "V002 distinguishes making, reception, recognition, belonging and safety across source-qualified comparisons. It confirms an Eimi34 family with two literal keys and current Cycle008 authority over older intake claims. Ordinary hobbies/craft/company broaden public cooperation without turning private lessons into its cause. Main and supplemental source reports, local callbacks and documentary release times do not create a global Eimi biography.",
+      "actual_own_source_loci_and_grade": "V002 whole257; normal331; Final whole452",
+      "finite_stronger_claim_trigger_and_abstention": "Maintain the whole account's attributed source scopes and local chronology. No fresh45MAIN/577private/82event primary credit or all-front attendance comes from reading a synthesis.",
+      "disposition": "ADEQUATE_WITH_LIMITS_FOR_GENUINE_NEW105_PREPARATION"
+    },
+    {
+      "question_id": "EQ11",
+      "complete_original_own_pre_reading_question_NOT_rewritten": {
+        "id": "EQ11",
+        "own_source_specific_question": "How do E831, E854 and Final differ in local chronology, audience and contribution?",
+        "finite_evidence_and_abstention_rule": "Use their actual source boundaries and qualifying current adoption. Avoid joining separate event/main modes or ending claims merely through name, school, release ID or broad thematic resemblance; preserve any incomplete control, rescue, equipment or institutional endpoint."
+      },
+      "own_actual_bounded_answer": "E831 grants visitor departure, Eimi's accepted gun custody and exhausted safe escape while home-world memory erasure, future reunion, durable machinery and predicted collapse remain unverified. E854 grants actual coordinated intervention and partial relief but ends as reversal begins; Final has its separate coalition/link/return-report/meal/model/home afterstates and unauthenticated Kei.sav. They can illuminate each other without one calendar or identity technology.",
+      "actual_own_source_loci_and_grade": "E831 whole133; E854 whole217; Final whole452",
+      "finite_stronger_claim_trigger_and_abstention": "Do not complete the E854 battle/home return from a different arc's return or turn an entrusted trace into authenticated memory/identity restoration. Keep planned, reported and actual endpoints separate.",
+      "disposition": "ADEQUATE_WITH_LIMITS_FOR_GENUINE_NEW105_PREPARATION"
+    },
+    {
+      "question_id": "EQ12",
+      "complete_original_own_pre_reading_question_NOT_rewritten": {
+        "id": "EQ12",
+        "own_source_specific_question": "What can the original20 analytical arguments and34-source union support at the currently qualified scope?",
+        "finite_evidence_and_abstention_rule": "Read adequate maintained arguments as analytical sources, keeping original primary production and source accounting attributed. Cycle008 can qualify old veto/UNADMITTED history without making every private argument a newly admitted primary owner. Retain serious rivals, finite endpoints,14OPEN/models0 and no new105/body/count/admission credit."
+      },
+      "own_actual_bounded_answer": "The20 finer arguments are prior analytical context under the current normal's Cycle008 qualification, not newly admitted primary authorities. I read each selected34–99, including its local argument, actor/mode/contrary and finite-limit reasoning:20SELECTED1320, not author20WHOLE2220. Together with my6WHOLE1580 maintained contexts they support bounded new105 functions while preserving unreceived header/tail extents, two keys, gaps14OPEN/models0 and no new duty.",
+      "actual_own_source_loci_and_grade": "Own normal331 reused after exact equality; public5 whole1249; EP01–20 selected1320; whole current69body/map and complete author/peer reports",
+      "finite_stronger_claim_trigger_and_abstention": "No original34 primary or author/reviewer/ROOT cognition transfers. If a new purpose needs a detail outside these actual intervals or an unresolved actor, receive that exact maintained context or abstain.",
+      "disposition": "ADEQUATE_WITH_LIMITS_FOR_GENUINE_NEW105_PREPARATION"
+    }
+  ],
+  "actual_own_readiness_and_feedback_concurrence": {
+    "original_C_path": "private-witness:EIMI_LOCATION_8ce47ac2463b0f1dde22bc51a66f632ef85c2ceee33e9e1013c74aac4594436e",
+    "C_path": "private-witness:EIMI_LOCATION_a2bc0bb6c8f5de65065845774a97824a7b265d1aa169fc2f91bf611007fbc18e",
+    "bytes": 118689,
+    "sha256": "c3c9e56c8565645678f41a41d7e197ac3da13c5909c66ab25d62492eeaaf920e",
+    "git_blob_oid_of_actual_bytes": "8bda48dbd3294981e5d60dca314afb7aac1b0a80"
+  },
+  "actual_own_readiness_closure": {
+    "original_C_path": "private-witness:EIMI_LOCATION_00a737a215c40731c1e551e354c6f8d32788a95b15d82f3122e2763e704bae3f",
+    "C_path": "private-witness:EIMI_LOCATION_ff1e5ece6c25437c4f0a7760d905523f5b0167f93542bb1ae747cedf6b136082",
+    "bytes": 4783,
+    "sha256": "6f7353c9c2802f39aaab513966ee32d77d08f196f46f1604f38a378195aec0da",
+    "git_blob_oid_of_actual_bytes": "96cfce4fdd656147d46fd21b55fa6f47be084757"
+  },
+  "actual_ROOT_body_only_permission_NOT_full_package": {
+    "original_C_path": "private-witness:EIMI_LOCATION_8fee180639580955d107d433689fafc8727dee4deb67ccfa1202f2b72e7ffa08",
+    "C_path": "private-witness:EIMI_LOCATION_4f6928ee88cd04c23e2460ebe55d9cfdcd7f021a4c27d6adc3b816832ca930bd",
+    "bytes": 12664,
+    "sha256": "e5b610906730a24b08d36bc1c952a61e3f3208bfb544811cbdbdcc868b66b1fc",
+    "git_blob_oid_of_actual_bytes": "9f88699ad2deff1a5a499d69d7dc508d4a15484f"
+  },
+  "actual_ROOT_readiness_permission_NOT_full_package": {
+    "original_C_path": "private-witness:EIMI_LOCATION_75f63d5a16064c15272593b0b4b87eddfcc8ee47186b805826c62b790157c8ec",
+    "C_path": "private-witness:EIMI_LOCATION_db81796a83ee70d0bde0a3978699d7a1a56afe9dd8d84165169505f2e7ea99dd",
+    "bytes": 5995,
+    "sha256": "b9025d72cf0edd52ea627c1e18cf9bfef9664484e3fbc39beadd10e72a303f39",
+    "git_blob_oid_of_actual_bytes": "5b22809696aad0a726c62a3d3713f99ae101f887"
+  },
+  "actual_prior_body_peer_QA_NOT_current_componentQA": {
+    "original_C_path": "private-witness:EIMI_LOCATION_e57f4bd685757023ed363ac12d3020b80a8a864437d37bd9ad08dfeaa5b4a8c0",
+    "C_path": "private-witness:EIMI_LOCATION_e7bf680c7e6cf2b9aeb31b76fd8c4a85586b40ad17d4e23a9cf62e63d950a76b",
+    "bytes": 155841,
+    "sha256": "7cf0030fb9f260fbb4439248d756e4e14c3150344d67ad2f38e2f985bda51893",
+    "git_blob_oid_of_actual_bytes": "54693f4de0fee2e98495ee3fbda472078a8bfa1e"
+  },
+  "complete_original20_custody": {
+    "C_path": "private-witness:EIMI_LOCATION_20529197d4e4de7f6d58e9418115c61ea6cd5c0adde1b6f5fd32a8fa888afab6",
+    "bytes": 18209,
+    "sha256": "784f1ee88a52ab586230667d12a545e3f469c911ac12fb3e8d731084a8d65741",
+    "git_blob_oid_of_actual_bytes": "d70967facd8db057c2c5b0493c8f2b902ba6f243"
+  },
+  "original_common105_qualifier_declaration_NOT_payload": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 61767,
+    "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+    "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f",
+    "scope": "Published source130b9 current GSC six-purpose successor layer; source-consistency audit qualifiers and original purpose/source payloads remain operative at their actual disclosed grades. This Minato derivative does not alter their records, inverse proofs or actor decisions."
+  },
+  "whole_narrow61767_payload": {
+    "original_C_path": "private-witness:EIMI_LOCATION_38d5b85d2f6777303af4fe7defdbf0bf5814afd04830a8c0d6e7b9138ba92b96",
+    "C_path": "private-witness:EIMI_LOCATION_8fb180553233d02b1979a3905f3631e746336a549e090226443e9227d1375e1a",
+    "bytes": 61767,
+    "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+    "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f"
+  },
+  "whole_oldGSC16_coffee59334_payload": {
+    "original_C_path": "private-witness:EIMI_LOCATION_b7f574f421c2646e1846f0586090e5d1cd9bd9517d814872c6cb50b1d265baa9",
+    "C_path": "private-witness:EIMI_LOCATION_95d66ab5c9499af7d0e1467c30a430dfd242d9d29c56551d9f714b0baa8339ad",
+    "bytes": 59334,
+    "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+    "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679"
+  },
+  "current_finite_source_qualifications": {
+    "O087": "Actual no-force one-week agreement and unpacking, not fulfilled duration.",
+    "O094": "Teacher requests reading access to Miyo wanted romance novels; Miyo refuses. No refusal to write or share authored writing.",
+    "O096": "Reported foodlessness followed by supplied food before later billing/bargaining; subsequent contract exists after rejected9:1, final ratio unprinted, future criticism collection uncompleted; not deliberate withheld meal or clinical mechanism.",
+    "O098": "Himari inward time-buying aim, Eimi reported hardware destruction and Rio cracking stay separate; no measured achieved unique window.",
+    "O103": "Anna fuel use from renewed public-failure fear differs from Elina projecting her own provocation response; fuel not battery.",
+    "O104": "Sora wage motive, not demonstrated payroll; producer30primary/2reuse not new author reading.",
+    "narrow61767": "Only O025/O071/O073/O075/O079/O087; not whole105 qualifier payload.",
+    "coffee59334": "Only oldGSC16 coffee-direction aliases; no whole105 extension.",
+    "frozen_original_labels": "Original Minato/Odysseia/claimant pending or current labels are quoted historical records, not current Eimi authorship/adoption. Original 'This Minato derivative' scope string remains literal."
+  },
+  "common105_receiving_rule": "All frozen original whole objects and their source-specific receiving scopes remain literal; original26WHOLE79SELECTED are attributed, no pool-wide new normal105/primary credit. O004/O075/O098 separately actual own maintained source copies are individually disclosed after equality. All other common rows are report comparisons even when a broader Final synthesis was read.",
+  "current_package_own_claim_limits": [
+    {
+      "own_limit_id": "ECL01",
+      "complete_limit": "No forced consolidation of BA_PERSON_EIMI and BA_PERSON_CH0337, and no repair of G150 printed Eimi empty person join.",
+      "canonical_original_gap_alignment": "NOT_ASSERTED"
+    },
+    {
+      "own_limit_id": "ECL02",
+      "complete_limit": "No global calendar, historical firstness or inevitable development from IDs, variants, written triggers or self-reported change.",
+      "canonical_original_gap_alignment": "NOT_ASSERTED"
+    },
+    {
+      "own_limit_id": "ECL03",
+      "complete_limit": "No new primary/native/raw/AV receiving, source admission or independence credit from maintained/prior analytical reading.",
+      "canonical_original_gap_alignment": "NOT_ASSERTED"
+    },
+    {
+      "own_limit_id": "ECL04",
+      "complete_limit": "No telepathy, performed prosody, invented replies or silent actor-mode repairs from inward, choice, log, report and UI seams.",
+      "canonical_original_gap_alignment": "NOT_ASSERTED"
+    },
+    {
+      "own_limit_id": "ECL05",
+      "complete_limit": "No universal efficiency, competence, incapacity, consent, trust, exclusivity or motive ranking.",
+      "canonical_original_gap_alignment": "NOT_ASSERTED"
+    },
+    {
+      "own_limit_id": "ECL06",
+      "complete_limit": "No enacted injury from the private harmful possibility, no attack from a refused proposal, and no literal act from retracted jokes.",
+      "canonical_original_gap_alignment": "NOT_ASSERTED"
+    },
+    {
+      "own_limit_id": "ECL07",
+      "complete_limit": "No clinical diagnosis, cure, nutritional law, certified cold endurance or injury-free result from character interpretation.",
+      "canonical_original_gap_alignment": "NOT_ASSERTED"
+    },
+    {
+      "own_limit_id": "ECL08",
+      "complete_limit": "No tested fan/backpack specification, identified modifier, fully compliant gear or durable engineering guarantee.",
+      "canonical_original_gap_alignment": "NOT_ASSERTED"
+    },
+    {
+      "own_limit_id": "ECL09",
+      "complete_limit": "No complete peer dyad, extra responsibility, named duty, registry join or universal relationship outcome.",
+      "canonical_original_gap_alignment": "NOT_ASSERTED"
+    },
+    {
+      "own_limit_id": "ECL10",
+      "complete_limit": "No transaction, lap sitting, birthday, mission success or repeated event enacted merely by profile or trigger text.",
+      "canonical_original_gap_alignment": "NOT_ASSERTED"
+    },
+    {
+      "own_limit_id": "ECL11",
+      "complete_limit": "No durable visitors memory, fulfilled reunion, inspected home-world condition, witnessed predicted collapse or repeatable transport from E831.",
+      "canonical_original_gap_alignment": "NOT_ASSERTED"
+    },
+    {
+      "own_limit_id": "ECL12",
+      "complete_limit": "No final E854 defeat, whole restoration, home return, clinical clearance, enrollment or completed identity ontology at its selected endpoint.",
+      "canonical_original_gap_alignment": "NOT_ASSERTED"
+    },
+    {
+      "own_limit_id": "ECL13",
+      "complete_limit": "No authentication of Kei.sav, president location, full civic/legal repair or universal safety from the Final normal comparison.",
+      "canonical_original_gap_alignment": "NOT_ASSERTED"
+    },
+    {
+      "own_limit_id": "ECL14",
+      "complete_limit": "No operational model, calibrated threshold, forecast, new105 completion, ROOT body adoption, count, canonical publication or reserved merge.",
+      "canonical_original_gap_alignment": "NOT_ASSERTED"
+    }
+  ],
+  "all14_original_gaps": [
+    {
+      "original_gap_id": "G01",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G02",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G03",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G04",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G05",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G06",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G07",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G08",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G09",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G10",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G11",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G12",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G13",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G14",
+      "status": "OPEN"
+    }
+  ],
+  "models": 0,
+  "new_source_admission_identity_named_REL350_count_runtime_publication_merge_credit": 0,
+  "current_componentQA_and_ROOT_package_acceptance": "PENDING"
+}

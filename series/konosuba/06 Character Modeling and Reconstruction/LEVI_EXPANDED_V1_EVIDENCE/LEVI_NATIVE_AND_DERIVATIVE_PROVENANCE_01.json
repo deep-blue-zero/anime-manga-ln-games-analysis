@@ -1,0 +1,131 @@
+{
+  "schema": "KONOSUBA_LEVI_NATIVE_AND_DERIVATIVE_PROVENANCE_V1",
+  "recorded_utc": "2026-10-20T06:06:00.407382+00:00",
+  "source_commit": "de46f030039b8420d18756dc3d88e59aa1adf5f8",
+  "actual_native_BASE_scope": [
+    {
+      "source": "MAIN-10",
+      "component": "MAIN-10-U014",
+      "member": "text/part0012.html",
+      "member_sha256": "e4f5bfc08389098f75ec9b8773b1d03e70066bb827f36b5a167b30aedb6c5098",
+      "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "cache_sha256": "47d50d24dfb8732d7976f98c66479b3bf96aa3f1ddb84f6963e776a9fd540456",
+      "actual_complete_BASE_ranges": [
+        [
+          519,
+          699
+        ]
+      ],
+      "unique_slots_within_this_record_only": 181,
+      "nonempty_BASE_slots": 173
+    },
+    {
+      "source": "MAIN-10",
+      "component": "MAIN-10-U015",
+      "member": "text/part0013.html",
+      "member_sha256": "b73250179b088609ca5fc8a0e16b9f8dd8f2df18eadcaeff469eaf5bf4bd95f0",
+      "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "cache_sha256": "1c03e4c4946bf37740becdba6471b23d00b822289a172e68e85416ae0d674004",
+      "actual_complete_BASE_ranges": [
+        [
+          25,
+          98
+        ],
+        [
+          139,
+          200
+        ],
+        [
+          247,
+          284
+        ]
+      ],
+      "unique_slots_within_this_record_only": 174,
+      "nonempty_BASE_slots": 168
+    },
+    {
+      "source": "MAIN-10",
+      "component": "MAIN-10-U016",
+      "member": "text/part0014.html",
+      "member_sha256": "ac05d3d4d196b00fe8cf2cee20d9c9e55d580a46bb9a3870aeeb3a53e68e99cd",
+      "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "cache_sha256": "e43f7bddb245a2b9d9aeca68bfb97edcc5098b8ead81003208b042dc1419d119",
+      "actual_complete_BASE_ranges": [
+        [
+          1,
+          35
+        ],
+        [
+          164,
+          239
+        ],
+        [
+          376,
+          477
+        ],
+        [
+          715,
+          758
+        ]
+      ],
+      "unique_slots_within_this_record_only": 257,
+      "nonempty_BASE_slots": 235
+    },
+    {
+      "source": "DUST-04",
+      "component": "DUST-04-U014",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "5a8c7944f627580addc1995ac3263c27196e51db4dc673c81d69bc772479b92a",
+      "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+      "cache_sha256": "0ac392768d055bcb2efcf5ef1cf4d3bd85d415684823328d07c8e8ee2847f5fc",
+      "actual_complete_BASE_ranges": [
+        [
+          6,
+          118
+        ],
+        [
+          119,
+          235
+        ],
+        [
+          236,
+          309
+        ],
+        [
+          310,
+          365
+        ],
+        [
+          366,
+          441
+        ]
+      ],
+      "unique_slots_within_this_record_only": 436,
+      "nonempty_BASE_slots": 432
+    }
+  ],
+  "private_actual_receiving_receipt_sha256": "0572cba9496a40e3c3b051b76c2c85822af683519c67b1e5b2b4f798f2792101",
+  "nonempty_BASE_slots": 1008,
+  "current_recheck_slots_not_new_global_unique_primary": 1048,
+  "actual_reading_limits": "Known admitted sources, bounded BASE rereading. No new whole-principal/full-edition/ruby/image/source-admission or independent-test credit; no increment to prior unique native totals without their overlap union. EXP03 305 slots; MAIN10/DUST04 1048 slots in this record.",
+  "current_reports": [
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V10_DEEP_READING.md",
+      "bytes": 200750,
+      "sha256": "63c4e06f6d26a4205ca451749b8a5e58414f4c85a585722ae75c7ab684c25be7",
+      "scope": "Earlier accepted full analytical report; current selected returns/native rechecks are not a fresh full primary pass."
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V04_DEEP_READING.md",
+      "bytes": 50258,
+      "sha256": "389c84d346bc0eab3d7e36b1ab5ad2d89ad3be594957e327ffcb21a70346811f",
+      "scope": "Earlier accepted full analytical report; current selected returns/native rechecks are not a fresh full primary pass."
+    }
+  ],
+  "source_history": "MAIN10 court/diplomacy precedes DUST04 post-Ragcraft custody. Reported engagement and rescue references are joined history, not a new original event or separate trial.",
+  "all_ten_rolling_responsibilities_received_before_cohort": true,
+  "full_current_ledger_receiving_latest_private_receipt_sha256": "b6b56a939d4cd3b54063f72188f725b3ebb4c3c36b135058f4695a2ea07101ed",
+  "no_new_source_admission_or_independent_validation": true,
+  "global_population_denominator": null,
+  "complete_program": false
+}

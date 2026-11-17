@@ -359,19 +359,19 @@ The audit therefore evaluates state selection, source attribution, causal explan
 
 **Basis:** C15, C40-C41; E59.
 
-**Acceptance condition:** Retain a named listener hypothesis; compare wording and matched contexts before an acting conclusion.
+**Acceptance condition:** Test `H-JP-01` and `H-EN-01` on matched clean-audio moments after checking localization wording; retain mandatory counterexamples (`CART-DUB-04`/`19` steel in `ja`, `CART-DUB-20` & `CART-EXTRA-04` playfulness in `en`) and keep findings language-scoped.
 
-**Failure signature:** Turn the reported contrast into a measured pitch difference or a universal character fact.
+**Failure signature:** Turn a language-scoped `29`-moment cohort result into a universal character fact or a `786`-line full census.
 
-**Audit disposition:** OPEN.
+**Audit disposition:** CALIBRATED_STRATIFIED_COHORT (`29` moments / `116` renders; `759/786` solo lines OPEN).
 
 ### T34 - A text describes a hand, smile, or gaze
 
 **Basis:** C20-C21, C48; E28, E58.
 
-**Acceptance condition:** Call it scripted bodily action until the actual sequence is reviewed; distinguish observed image from interpreted intention.
+**Acceptance condition:** Distinguish the `27` Chapter II main-story targets directly inspected on `WUWA_CH2_FAYATO_1080P60_6076F127` from the `6` unviewed optional/non-main-story targets (`AV02`, `AV13`, `AV14`, `AV17`, `AV18`, `AV23`, including `E28` `katixiya-shengtai_*`), keeping unviewed gestures labeled scripted bodily action.
 
-**Failure signature:** Claim that the analyst watched the gesture or knows camera duration.
+**Failure signature:** Claim direct visual observation on unviewed optional/overworld scenes or collapse observed staging into unspoken inner monologue.
 
 **Audit disposition:** MODALITY CHECK.
 
@@ -379,9 +379,9 @@ The audit therefore evaluates state selection, source attribution, causal explan
 
 **Basis:** C40, C45, C48-C50; E58-E59.
 
-**Acceptance condition:** Preserve available evidence and inherited preparation status without promoting it to a completed review.
+**Acceptance condition:** Distinguish the `27/33` inspected Chapter II AV targets and `29`-moment (`116`-render) four-dub calibration from the unreviewed `759/786` solo voice lines and `6` unviewed AV targets.
 
-**Failure signature:** State that no AV exists, or that all AV has already been analyzed.
+**Failure signature:** State that no AV/voice review exists, or misrepresent a stratified sample as a complete multimodal census.
 
 **Audit disposition:** PROVENANCE CHECK.
 
@@ -419,7 +419,7 @@ The result is a model that can continue under later evidence rather than one who
 
 **How stable is early disclosure?** The evidence includes medical candor and collaboration, but not a broad sample of comparable preventable dangers across all relationships. It is therefore safer to model a capacity to share information than a completed habit of doing so. A later ordinary risk in which she could ask for help would be especially informative.
 
-**How does public role affect voice and movement?** The archive explicitly makes composure effortful, and the owner has supplied a perceptual JP/EN contrast. No direct listening or structured visual pass was completed here. The model's text-based public/private distinction should be tested without assuming that one form always maps to one emotional register.
+**How does public role affect voice and movement?** The archive makes composure effortful (`FavorWord_140907_Content`), and the `29`-moment four-dub calibration ([speech/performance profile](../03%20Audiovisual%20and%20Voice/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md)) shows four language-specific solutions (`ja` `>110 Hz` pitch split, `zh-Hans` darkened single-person chest resonance, `en` fry/menace at narrower `f0` separation, and `ko` high-soprano polite belt), while `759/786` solo lines and `6/33` non-main-story/optional AV targets remain open.
 
 **What does civic repair become?** A stated plural arrangement and a refusal of supreme office do not settle the distribution of influence. A future failure, disagreement, or routine administrative scene may matter more than another victory speech. The current model should not award completed political maturity from an announced intention alone.
 

@@ -1,7 +1,0 @@
-{
-  "schema": "anime-manga-ln-games-analysis/nightly-integration/v1",
-  "workflow": ".github/workflows/nightly-integration.yml",
-  "controller": "tools/nightly_integration.py",
-  "workflow_sha256": "9050cd394c626f87c9f8c8d2c4c73b1bb25fe1e41353d3c5b2305f2785c8dc13",
-  "controller_sha256": "fdfbbc28635b8890d1eef84ddde95a091360ca45a4fd74ff91beee0840a3d279"
-}

@@ -1,0 +1,189 @@
+{
+  "schema": "KONOSUBA_YORI02_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+  "source_id": "YORI-02",
+  "accepted_utc": "2026-10-19T01:00:35.578390+00:00",
+  "native_filename": "Konosuba - Short Stories - Yorimichi 2.epub",
+  "native_bytes": 9172954,
+  "native_sha256": "f7b9051a4f2bea3033eea528477d4cc80cfdebe214d51d0764a3cf1eef352baf",
+  "OPF_member": "item/standard.opf",
+  "OPF_sha256": "3fb5c9ce87a43b9508b06e3f6258b80d45135c40db7c813fe5ddcef0a54cc071",
+  "language": [
+    "ja"
+  ],
+  "colophon": "この素晴らしい世界に祝福を！ よりみち２回目！. Author暁なつめ;illustration三嶋くろね;角川スニーカー文庫/KADOKAWA;publisher青柳昌行. Electronic and underlying print first edition2020-11-01/ver.001;copyrightNatsumeAkatsuki/KuroneMishima2020.",
+  "admission_sha256": "f3ede4239d7ca6a6c8335f815af412867c501b407c43506b2cb4e3c6f6eb1154",
+  "admission_utc": "2026-10-19T00:22:28.188019+00:00",
+  "preceding_full_gate_source": "8d83c69b16cdd4b6272518fdccc1282504cc0714",
+  "preceding_gate_sha256": "77aa218d3f2804d891a97d95b322d840b66e5494b0eeed747357bc75792fb076",
+  "preceding_fresh_reload_sha256": "02bc69053e9557a27f5031693f50bc2a706ee0c2547e2f802e0fd652501b14cd",
+  "complete_uncoded_seal_sha256": "b2e09e16b1ad40808cddc3590fe0269e7fa26b639003da8ab78c2cab2029b0f9",
+  "complete_uncoded_seal_utc": "2026-10-19T00:45:32.454836+00:00",
+  "actual_reading": {
+    "all_textual_components": 35,
+    "all_native_P_slots": 2746,
+    "principal_P_slots": 2675,
+    "other_P_slots": 71,
+    "separate_bonus_narrative": false,
+    "bonus_P_slots": 0,
+    "nonfiction_P_slots": 71,
+    "individually_identified_bonus_narrative_groups": [],
+    "individually_identified_narrative_image_groups": [
+      {
+        "id": "YORI02-ILLUSTRATED-AFTERWORD-CODA",
+        "component_id": "YORI-02-U029",
+        "image_ids": [
+          "YORI-02-IMG020"
+        ],
+        "scope": "Full actual sequential illustrated coda: modern game poster, solitary-controller inset, current companions and joining walk. Separate memory/company motif; no safe new chronological date or proof retained Japan-trip memory."
+      }
+    ],
+    "individually_identified_embedded_narrative_groups": [
+      {
+        "id": "YORI02-STORY01",
+        "native_units": [
+          "YORI-02-U012"
+        ],
+        "start_P": 1,
+        "end_P": 283,
+        "scope": "Distinct integral anthology story; Megumin first-person at just over one week after joining."
+      },
+      {
+        "id": "YORI02-STORY02",
+        "native_units": [
+          "YORI-02-U014"
+        ],
+        "start_P": 1,
+        "end_P": 282,
+        "scope": "Distinct integral Kazuma-first-person anthology/mini-story, actual full text/ruby read. Earlier original publication as bonus does not duplicate current body."
+      },
+      {
+        "id": "YORI02-STORY03",
+        "native_units": [
+          "YORI-02-U016"
+        ],
+        "start_P": 1,
+        "end_P": 390,
+        "scope": "Distinct integral Kazuma-first-person anthology/mini-story, actual full text/ruby read. Earlier original publication as bonus does not duplicate current body."
+      },
+      {
+        "id": "YORI02-STORY04",
+        "native_units": [
+          "YORI-02-U018"
+        ],
+        "start_P": 1,
+        "end_P": 331,
+        "scope": "Distinct integral Kazuma-first-person anthology/mini-story, actual full text/ruby read. Earlier original publication as bonus does not duplicate current body."
+      },
+      {
+        "id": "YORI02-STORY05",
+        "native_units": [
+          "YORI-02-U020"
+        ],
+        "start_P": 1,
+        "end_P": 393,
+        "scope": "Distinct integral Kazuma-first-person anthology/mini-story, actual full text/ruby read. Earlier original publication as bonus does not duplicate current body."
+      },
+      {
+        "id": "YORI02-STORY06",
+        "native_units": [
+          "YORI-02-U022"
+        ],
+        "start_P": 1,
+        "end_P": 423,
+        "scope": "Distinct integral Kazuma-first-person anthology/mini-story, actual full text/ruby read. Earlier original publication as bonus does not duplicate current body."
+      },
+      {
+        "id": "YORI02-STORY07",
+        "native_units": [
+          "YORI-02-U024"
+        ],
+        "start_P": 1,
+        "end_P": 367,
+        "scope": "Distinct integral Kazuma-first-person anthology/mini-story, actual full text/ruby read. Earlier original publication as bonus does not duplicate current body."
+      },
+      {
+        "id": "YORI02-MINI01",
+        "native_units": [
+          "YORI-02-U026"
+        ],
+        "start_P": 1,
+        "end_P": 67,
+        "scope": "Distinct integral Kazuma-first-person anthology/mini-story, actual full text/ruby read. Earlier original publication as bonus does not duplicate current body."
+      },
+      {
+        "id": "YORI02-MINI02",
+        "native_units": [
+          "YORI-02-U027"
+        ],
+        "start_P": 1,
+        "end_P": 62,
+        "scope": "Distinct integral Kazuma-first-person anthology/mini-story, actual full text/ruby read. Earlier original publication as bonus does not duplicate current body."
+      },
+      {
+        "id": "YORI02-MINI03",
+        "native_units": [
+          "YORI-02-U028"
+        ],
+        "start_P": 1,
+        "end_P": 77,
+        "scope": "Distinct integral Kazuma-first-person anthology/mini-story, actual full text/ruby read. Earlier original publication as bonus does not duplicate current body."
+      }
+    ],
+    "individually_identified_image_only_nonfiction_prose_groups": [
+      {
+        "id": "YORI02-PROFILES",
+        "component_id": "YORI-02-U010",
+        "image_id": "YORI-02-IMG010",
+        "scope": "Complete actual character-profile role text, no new performed event."
+      },
+      {
+        "id": "YORI02-JACKET-BIOS",
+        "component_id": "YORI-02-U031",
+        "image_id": "YORI-02-IMG004",
+        "scope": "Full jacket/bios/synopsis actually viewed at original resolution; historical paratext, not current biography claims."
+      }
+    ],
+    "integral_image_only_prose_pages": 0,
+    "all_native_images_actually_viewed": 28,
+    "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+    "all_native_local_and_archive_text_image_hash_joins_reverified": 63,
+    "fresh_native_ZIP_CRC": "PASS",
+    "image_individual_scopes_control": true
+  },
+  "source_first_sealed_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 35846,
+      "sha256": "f3ede4239d7ca6a6c8335f815af412867c501b407c43506b2cb4e3c6f6eb1154"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 147908,
+      "sha256": "d32d2aca3c257ecdb4802b5cc2c171f09609821f86a83e888050c531b712caec"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 116704,
+      "sha256": "aa69e5f801dc3d4962c0cd50781a1920cc39b7b5a49d4dc530198e79de6902f2"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 21729,
+      "sha256": "c1ec366d1734404ce8ff08ddf7d1fdf9b54b263c796c1aadb29705034d4a0d9d"
+    }
+  ],
+  "formal_coverage": {
+    "full_responsibilities": 17,
+    "selected_premises_not_census": 86,
+    "native_verified_short_form_context_witnesses": 83,
+    "local_unchanged_question_assessments": 31,
+    "append_only_decisions_across_ten_ledgers": 23,
+    "current_precision_qualifications": 70
+  },
+  "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD,YORI-01. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+  "no_independent_second_full_pass_native_human_audio_claim": true,
+  "source_first_originals_remain_exact": true,
+  "original_four_scores_and_14_future_fields_unchanged": true,
+  "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING",
+  "midread_precision_context": "All83 original short fragments exact-native-join; 86whole-premise selections are purposive not census. M-first-person early state differs from later K slices. Actual refusal without damage, command failure, unknown target identity, actor-owned work, memory wipe/item survival, D07withdrawal-versus-boundary ambiguity and incomplete operation ends retained. Illustrated coda does not override explicit memory loss."
+}

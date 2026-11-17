@@ -1,0 +1,283 @@
+{
+  "schema": "TOKI_CURRENT231_PUBLIC12_ROOT_SEMANTICALLY_ACCEPTED_METADATA_COMPOSITION_PROPOSAL_CONTROL_V1",
+  "composer": "/root/m008_composition_review",
+  "current_first11_public_components": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_TOKI_GAME_DEVELOPMENT_RECOGNITION_AND_BELONGING_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 53261,
+      "sha256": "f752314891f918d001724cbd8b13f90126664c85060a5bf31e7837bbabf4bfc8",
+      "git_blob_oid_of_actual_bytes": "54f6427ab9bd70bbcdd02c7a36ae1170c3dcaf84"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+      "bytes": 420656,
+      "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+      "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+      "bytes": 555475,
+      "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+      "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+      "bytes": 714831,
+      "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+      "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_EXISTING_EVENT825_SOURCE1_CORE_AND_EXACT6_AUTHOR_SCOPE_RECEIVING_V2.json",
+      "bytes": 41845,
+      "sha256": "f65f292f18db0d06e9492eb8812f063a68314198069e28ddcd20b703d86f82e5",
+      "git_blob_oid_of_actual_bytes": "b09767f66213ab1393c5ac594ee1b1e732b7ed83"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT228_COMPLETE_LITERAL59_CLAIM_AND_SOURCE_LIMIT_REGISTER_V2.json",
+      "bytes": 272754,
+      "sha256": "17c7110e742712ccb5bfd393087a3c7d1dcbe7adbad7ef6991abaef775e43e5a",
+      "git_blob_oid_of_actual_bytes": "bfb9c153988ed462317f3f6afaaa8f644788bdc5"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_ALL105_CURRENT_PURPOSE_AND_EXACT_SOURCE_BINDING_INDEX_V2.json",
+      "bytes": 147091,
+      "sha256": "5d7138a3895d6817e03f30a67bb2332e80e9d7dc4ec640ba3bff6f458b484dfd",
+      "git_blob_oid_of_actual_bytes": "b68e07a5cba0c3c91bbbdcead93065d616dac647"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_EXACT8_SAVED_OUTPUT_ORIGINAL_INPUT_PRESERVATION_AND_TRANSPORT_RECEIPT_V2.json",
+      "bytes": 819077,
+      "sha256": "e56f6d06bc539904f8048f989a3fd1517b9b6306c2aa0eba6b3baa1d56cbcb10",
+      "git_blob_oid_of_actual_bytes": "d456c5170e809ffe60e168ebf2b571679586eb95"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_PRIOR_COMPLETED_COMPONENT_REVIEW_NEW_PUBLIC_REPORT_V1.json",
+      "bytes": 341496,
+      "sha256": "e6b822a7864ecc5bdc7ea5c32b517ee7ecd16852042bd456d68a601614e9239f",
+      "git_blob_oid_of_actual_bytes": "d0bd9ee4fd2bbe81e94623ad51092298af2c462e"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_ACTUAL_ROOT_CURRENT228_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "bytes": 64198,
+      "sha256": "e98d8f13947fdab7d43fba08c84481cee05c9a6dd3a9ce3bdf0778c314d18de5",
+      "git_blob_oid_of_actual_bytes": "048f8863d5976827a6213cbdafbf34b5132390de"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT12_PUBLIC_AUTHORITY_AND_ORIGINAL_RECOVERY_CUSTODY_V1.json",
+      "bytes": 21999,
+      "sha256": "19cee33f8b926b60343450822c5c78fca5fb0eeebaf46efe602c71c9610a8f23",
+      "git_blob_oid_of_actual_bytes": "3124fc83752b6454fdaafd37bd783e98923b10e0"
+    }
+  ],
+  "current_body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_TOKI_GAME_DEVELOPMENT_RECOGNITION_AND_BELONGING_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 53261,
+    "sha256": "f752314891f918d001724cbd8b13f90126664c85060a5bf31e7837bbabf4bfc8",
+    "git_blob_oid_of_actual_bytes": "54f6427ab9bd70bbcdd02c7a36ae1170c3dcaf84"
+  },
+  "current_custody": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT12_PUBLIC_AUTHORITY_AND_ORIGINAL_RECOVERY_CUSTODY_V1.json",
+    "bytes": 21999,
+    "sha256": "19cee33f8b926b60343450822c5c78fca5fb0eeebaf46efe602c71c9610a8f23",
+    "git_blob_oid_of_actual_bytes": "3124fc83752b6454fdaafd37bd783e98923b10e0"
+  },
+  "header_authorities_resolve_explicitly": [
+    {
+      "header_witness_id": "ROOT_TOKI_CURRENT228_SIGNED_SEMANTIC_ADOPTION_20261014_V1",
+      "actual_original_signed_authority": {
+        "private_witness_id": "ROOT_TOKI_CURRENT228_SIGNED_SEMANTIC_ADOPTION_20261014_V1",
+        "bytes": 62642,
+        "sha256": "afcedfefe4ef1e3e0ab97675af332302b5b40fa8ae2e5ee5d3667c3cd6e662b0",
+        "git_blob_oid_of_actual_bytes": "cf56711e5407b64734e84169521417513f191b28"
+      },
+      "current_public_metadata_derivative": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_ACTUAL_ROOT_CURRENT228_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+        "bytes": 64198,
+        "sha256": "e98d8f13947fdab7d43fba08c84481cee05c9a6dd3a9ce3bdf0778c314d18de5",
+        "git_blob_oid_of_actual_bytes": "048f8863d5976827a6213cbdafbf34b5132390de"
+      },
+      "scope": "Original signed semantic acceptance; normalized derivative does not invent current-byte acceptance."
+    },
+    {
+      "header_witness_id": "TOKI_GDD_PRIOR_COMPLETED_COMPONENT_REVIEW_NEW_PUBLIC_REPORT_V1",
+      "original_accepted_new_reporting_object": {
+        "private_witness_id": "TOKI_NEW_PRIOR_COMPLETED_REVIEW_REPORT_ACCEPTED_ORIGINAL336254",
+        "bytes": 336254,
+        "sha256": "5c233f3b34d98b6cd59b8a77aba97020feb18d58d8edad4322f0771e74a71b7d",
+        "git_blob_oid_of_actual_bytes": "255ddd388c18ef4dd47935943f0e813aca5f3b19"
+      },
+      "current_public_new_reporting_envelope": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_PRIOR_COMPLETED_COMPONENT_REVIEW_NEW_PUBLIC_REPORT_V1.json",
+        "bytes": 341496,
+        "sha256": "e6b822a7864ecc5bdc7ea5c32b517ee7ecd16852042bd456d68a601614e9239f",
+        "git_blob_oid_of_actual_bytes": "d0bd9ee4fd2bbe81e94623ad51092298af2c462e"
+      },
+      "prior_original_full_component_QA": {
+        "private_witness_id": "TOKI_GDD_PRIVATE_ORIGINAL_FULL_COMPONENT_QA327199_V2",
+        "role": "current_full_component_manual",
+        "original_full_threefield_tuple": {
+          "bytes": 327199,
+          "sha256": "3800b16e15e71e5a184b36a311e2c33bfc94e4cc34359a5549f85c68d82f91bb",
+          "git_blob_oid_of_actual_bytes": "c9b81e1b83ec5aba0e0524e8baefdd79e421d114"
+        },
+        "original_schema": "INDEPENDENT_TOKI_GDD_CURRENT228_LITERAL59_NEW105_EXACTV2_COMPLETE_MANUAL_COMPONENT_QA_V1",
+        "original_reviewer": "/root/m008_composition_review",
+        "original_decision": "PASS_WITH_LIMITS_CURRENT228_COMPLETE59_ALL105_NEW525_EXACT8_DIRECTED_RELATIONSHIP_COMPONENT_REVIEW",
+        "original_immutable_private_not_public_derivative": true
+      },
+      "scope": "Reporting of prior actual completed review by the same reviewer; exact full reasons and selected records; not fresh QA."
+    }
+  ],
+  "actual_ROOT_original_semantic_authority": {
+    "private_witness_id": "ROOT_TOKI_CURRENT228_SIGNED_SEMANTIC_ADOPTION_20261014_V1",
+    "bytes": 62642,
+    "sha256": "afcedfefe4ef1e3e0ab97675af332302b5b40fa8ae2e5ee5d3667c3cd6e662b0",
+    "git_blob_oid_of_actual_bytes": "cf56711e5407b64734e84169521417513f191b28"
+  },
+  "prior_review_reporting_role": "Exactly one NEW public reporting object carries unchanged complete105/525 own judgments and complete59 own current literal/source/purpose/limit reasons from the same prior reviewer. Five original QA files remain immutable/private; address keys/mixed method labels are neither normalized nor re-published. Saved current4664 and prior181 counts remain separately attributed.",
+  "current_metadata_extent": {
+    "original_body_physical_lines": 228,
+    "current_body_physical_lines": 231,
+    "complete_unchanged_substantive_paragraphs": 59,
+    "genuinely_new_original_target_purpose_rows": 105,
+    "unchanged_original_new_meaning_values": 525,
+    "added_header_lines": 3,
+    "existing_lineage_arrays_preserved": true,
+    "measured59_UTF8_offset_metadata_and_explicit_current231_reconstruction": "New labeled metadata; original register had no offset/layout fields",
+    "whole_location_normalizations": 321,
+    "new_public_file_envelope_count": 12,
+    "required_locator": {
+      "zero_based": 313,
+      "one_based": 314,
+      "CSV_physical_line": 315,
+      "home_zero_based": 334,
+      "home_ordinal": 335,
+      "named_increment": 0
+    }
+  },
+  "current_closure_Miyo_qualification": {
+    "original_full_closure_pin": {
+      "bytes": 21950,
+      "sha256": "69d34a90aa8c331baa7c43580a80812b0dfde5136d92c33ac7c0d76b0e1262c1",
+      "git_blob_oid_of_actual_bytes": "4a77937cfffd18d5f829f7b922543cac11199ac0"
+    },
+    "pointer": "/source_grades/special_finite_controls",
+    "qualification": "Preserved dated \"refusal of adult writing access\" means Teacher requested READING access to Miyo wanted romance novels. No Miyo authorship or refusal to share self-authored writing is established. CurrentTGP094 fivefields already preserve reading-access distinction and stayunchanged.",
+    "frozen_original_mutation": 0
+  },
+  "scope_of_preserved_closure_phrase": "The literal authorclosure shorthand writing access is a dated preserved phrase. Its operative meaning is Teacher’s requested READING access to Miyo’s wanted romance novels; no authorship, refusal to write, or writing-sharing refusal claim. Original closure is not edited.",
+  "operative_vs_dated_source_and_body_binding_roles": {
+    "current": "Only explicit current_first11/body/custody/header binding graph and register current231 reconstruction are postcomposition current metadata.",
+    "dated": "Original ROOT reviewed-author8 tuples, NEWreport current_V2_basis/exact8 tuples, transport original11/M008/authorV1V2 proof objects and original53013 current_body_byte_NOOP remain historical original authority/custody, with exact original values or whole delivery-location tokens fully privately invertible.",
+    "source_ranges": "All TG-S01…06 physical source ranges and original105 source locators remain at original documents, not +3 shifted.",
+    "predecessor_runtime": "ROOT reports the preceding source/provider8c chain closed. It is predecessor evidence only, not future Toki composed/installed head CI."
+  },
+  "frontier_and_fixed_scope": {
+    "actual_published_source_ROOT_attributed": {
+      "required": 149,
+      "named": 18
+    },
+    "fixed355_29_25_384_788": "UNCHANGED",
+    "all14_gaps": "OPEN",
+    "models": 0,
+    "no_new_source_named_required_count_or_milestone_here": 0,
+    "merge": "RESERVED"
+  },
+  "gate_state": {
+    "actual_ROOT_original228_59_525_source6_semantic_acceptance": "COMPLETE_WITH_LIMITS",
+    "new_report_original_structure_exact34_selection_acceptance": "COMPLETE_WITH_LIMITS",
+    "current12_independent_metadata_composition_QA": "PENDING",
+    "ROOT_current12_composed_byte_adoption": "PENDING",
+    "final_control_qualification_and_freeze": "PENDING",
+    "R_install_INDEX_preflight_live_provider_push_full_readback_newheadCI": "PENDING"
+  },
+  "no_recursive_selfpin": "CONTROL pin belongs only in external manifest/finalfreeze; first11 excludes self.",
+  "private_originals_and_inverse_proofs": "Complete originals, opaque-ID maps, all10 whole raw inverse/forward proofs and historical5 QA copies are private custody. They are evidence IDs, not unbound public delivery dependencies.",
+  "ROOT_actual_completed_current_composition_gates_and_finite_final_CONTROL_qualification_V1": {
+    "author": "/root",
+    "scope": "Actual closed original-proposal12 metadata review and ROOT byte acceptance; one additive CONTROL successor only. No literary, source or count revision.",
+    "all_original_CONTROL_members_and_gate_state": "Preserved literal in original order as dated proposal creation state. Original PENDING values and predecessor149/18 frontier are historical captures, not the current closed byte-review gate results below.",
+    "actual_original_proposal12_manifest": {
+      "private_witness_id": "TOKI_CURRENT231_REVIEWED_PROPOSAL12_OUTER_MANIFEST_V1",
+      "bytes": 14116,
+      "sha256": "f26e2dacfbc186550fbd1318a01dd6d6a4189b2e015486038a72c5f0d42b118f",
+      "git_blob_oid_of_actual_bytes": "088302dcab84547a5212b77e91206ce56dc05042"
+    },
+    "actual_ROOT_original_proposal12_byte_adoption": {
+      "private_witness_id": "ROOT_TOKI_CURRENT231_EXACT12_SIGNED_COMPOSITION_BYTE_ADOPTION_V1",
+      "bytes": 15574,
+      "sha256": "3ad7227d6727a5e1800ba0488bf45b280128a4f4ee93a2f212233fd5ce7c4e74",
+      "git_blob_oid_of_actual_bytes": "0ddfb02a4635ca63e276a324d1bc36817867cc79"
+    },
+    "actual_independent_current12_metadata_QA": {
+      "private_witness_id": "INDEPENDENT_TOKI_CURRENT231_EXACT12_POSITIVE_MANUAL_QA_V1",
+      "bytes": 11056,
+      "sha256": "c711e5f3897294aa95c930238b7918c7dd5e724e3f5abeb9cbd3fc6604fa590b",
+      "git_blob_oid_of_actual_bytes": "7808dbc214879b444448a85bf7ed4c3bfa267d9b",
+      "reviewer": "/root/publishing_shared7_review",
+      "own_finite_metadata_reasons": 17,
+      "decision": "PASS_WITH_LIMITS",
+      "actual_mechanical_predicates": 4274,
+      "actual_groups": 7,
+      "findings": 0
+    },
+    "actual_ROOT_original_proposal12_machine_preservation_gate": {
+      "private_witness_id": "ROOT_TOKI_CURRENT231_FINAL12_ACTUAL_FULL_BYTE_GUARD_RESULT_V1",
+      "bytes": 15831,
+      "sha256": "5b5daa9b22c4d4e16b41048f65399d8c983eaa9f6e98ef0ebaf2af06a1a69533",
+      "git_blob_oid_of_actual_bytes": "39d9554c01c956bea9a6576abf63b04f57bb1df8",
+      "actual_predicates": 62243,
+      "findings": 0
+    },
+    "completed_gates": {
+      "original228_59_105_525_source6_semantic_acceptance": "COMPLETE_WITH_LIMITS",
+      "accepted_new_prior_review_exact34_reporting_structure": "COMPLETE_WITH_LIMITS",
+      "original_proposal12_distinct_independent_metadata_QA": "COMPLETE_WITH_LIMITS",
+      "ROOT_original_proposal12_exact_composed_byte_adoption": "COMPLETE_WITH_LIMITS"
+    },
+    "original_proposal12_acceptance_boundary": "The exact original proposal12 was accepted before this appendix. The current CONTROL appendix has its own focused independent preservation/authority review and ROOT final receiving/freeze requirement; original proposal QA and adoption cannot certify arbitrary successor CONTROL bytes.",
+    "exact_successor_delta": "All other11 components are raw NOOP. Every original CONTROL key/value/order is unchanged; only this entire member is appended. The private exact12807 original and one raw append operation make full inverse/forward recovery possible.",
+    "current_first11_and_header_witness_graph": "Unchanged and operative at its exact original proposal pins. CONTROL selfpin belongs only in the external final12 manifest/freeze, never inside this object.",
+    "remaining_required_use_conditions": [
+      "Focused independent QA of this full additive CONTROL member and raw inverse/forward",
+      "ROOT complete receiving and exact final12 external freeze before installation",
+      "ROOT sparse shared7 proposal receiving/acceptance for one existing home",
+      "Current source/main reconciliation and exact R installation",
+      "Author INDEX preflight, whitespace, approved identity and full candidate review",
+      "Fresh live provider/access controls and immediately rechecked remote heads",
+      "Ordinary non-forced source push and complete actual remote readback",
+      "Fresh successful source audit, housekeeping and exact final-head integration audit"
+    ],
+    "remaining_conditions_semantics": "These are use requirements, not a claim they already passed. Actual later completions are recorded in exact external ROOT freeze/install/publication/CI receipts; no future tuple is invented here.",
+    "frontier_capture": {
+      "source_at_qualification": "8c437de508fabc45c17f692e50861768f3f2ca44",
+      "actual_published_required_at_creation": 149,
+      "actual_published_named_at_creation": 18,
+      "prospective_required_after_reviewed_install_publication": 150,
+      "prospective_named": 18,
+      "required_home_zero313": 313,
+      "partition_home_zero334": 334,
+      "named_increment": 0,
+      "already_accepted_Toki_character_recount": 0
+    },
+    "finite_scope": {
+      "fixed_required": 355,
+      "fixed_named": 29,
+      "fixed_parents": 25,
+      "fixed_homes": 384,
+      "fixed_navigation": 788,
+      "all14_original_gaps": "OPEN",
+      "models": 0,
+      "new_source_primary_native_raw_AV_or_literary_receiving_credit": 0,
+      "R_Git_provider_writes_from_qualification": 0,
+      "merge": "RESERVED"
+    },
+    "ROOT_own_finite_qualification_reasons": [
+      "The independent17 metadata reasons and both mechanical reports close original-proposal byte-review gates while preserving separate semantic/source grades.",
+      "An additive current qualification reconciles dated pending fields without rewriting documentary history.",
+      "Eleven raw NOOP components and the unchanged first11 graph keep the successor delta finite and independently reviewable.",
+      "External final12 pinning avoids a recursive CONTROL selfhash and prevents borrowing old QA for arbitrary later bytes.",
+      "One existing relationship increment remains prospective until required installation and publication gates pass; all original gaps/models and reserved merge authority remain unchanged."
+    ]
+  }
+}

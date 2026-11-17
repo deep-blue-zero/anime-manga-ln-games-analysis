@@ -1,0 +1,281 @@
+{
+  "schema": "KONOSUBA_DUST04_WHOLE_SUPPLIED_EDITION_SAME_ROOT_ACCEPTANCE_V1",
+  "source_id": "DUST-04",
+  "status": "ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "accepted_utc": "2026-10-18T07:29:49.102050+00:00",
+  "native_identity": {
+    "native_filename": "Konosuba Extra - Dust - Volume 04.epub",
+    "native_bytes": 11564184,
+    "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+    "OPF_member": "item/standard.opf",
+    "OPF_sha256": "a6b661f99adfcf0ce4c3f466b4d889187496ac6a8dc0f6fd84731a318715e884"
+  },
+  "actual_source_and_reading_receipt": {
+    "schema": "KONOSUBA_DUST04_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+    "source_id": "DUST-04",
+    "accepted_utc": "2026-10-18T07:29:49.102050+00:00",
+    "native_filename": "Konosuba Extra - Dust - Volume 04.epub",
+    "native_bytes": 11564184,
+    "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+    "OPF_member": "item/standard.opf",
+    "OPF_sha256": "a6b661f99adfcf0ce4c3f466b4d889187496ac6a8dc0f6fd84731a318715e884",
+    "language": [
+      "ja"
+    ],
+    "colophon": "2018-11-01/ver002; based on same-date first print; distinct original-work/prose/illustration/character-concept credits.",
+    "admission_sha256": "7d9d1763f5ea317c4bf54645b8dff2202289c558260578e4aa5a22be0e36b735",
+    "admission_utc": "2026-10-18T06:35:44.765568+00:00",
+    "preceding_full_gate_source": "da2babc20ac4553d7e1e576e0fdcb6ba98b0394c",
+    "preceding_gate_sha256": "453ded401d0adb238225659cea3515fbc9834211805b3a5fc18231f57fd7ae5b",
+    "preceding_fresh_reload_sha256": "b61468b1aa2c30e070476bec83011f25761dae963759bc1f0a8b76f2081cce94",
+    "complete_uncoded_seal_sha256": "f1b4f24bfa6bbe2610a220b583fa9686d0e6fed2c2266bf0200c0c491284a71a",
+    "complete_uncoded_seal_utc": "2026-10-18T07:07:56.286158+00:00",
+    "actual_reading": {
+      "all_textual_components": 21,
+      "all_native_P_slots": 2709,
+      "principal_P_slots": 2648,
+      "other_P_slots": 61,
+      "separate_bonus_narrative": false,
+      "all_native_images_actually_viewed": 24,
+      "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+      "all_native_local_and_archive_text_image_hash_joins_reverified": 45,
+      "fresh_native_ZIP_CRC": "PASS",
+      "image_individual_scopes_control": true
+    },
+    "source_first_sealed_pins": [
+      {
+        "file": "NATIVE_ADMISSION.json",
+        "bytes": 25234,
+        "sha256": "7d9d1763f5ea317c4bf54645b8dff2202289c558260578e4aa5a22be0e36b735"
+      },
+      {
+        "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+        "bytes": 5655,
+        "sha256": "00b49a39ebc8065883cf36bc1e83e3a0d6337db858332b69d83285d072e87b92"
+      },
+      {
+        "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+        "bytes": 120219,
+        "sha256": "94e2bb26e6d3542a85c7bb0627b3e7657aea727ea4667f4cab4f0c45d5050b66"
+      },
+      {
+        "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+        "bytes": 21425,
+        "sha256": "28bd630bdf60a4754ddf446f1c849a7b9fa0413c83cfeca2e8aa6a84f8c50b8f"
+      }
+    ],
+    "formal_coverage": {
+      "full_responsibilities": 17,
+      "selected_premises_not_census": 68,
+      "native_verified_short_form_context_witnesses": 80,
+      "local_unchanged_question_assessments": 7,
+      "append_only_decisions_across_ten_ledgers": 34,
+      "current_precision_qualifications": 23
+    },
+    "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+    "no_independent_second_full_pass_native_human_audio_claim": true,
+    "source_first_originals_remain_exact": true,
+    "original_four_scores_and_14_future_fields_unchanged": true,
+    "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING"
+  },
+  "current_root_check": "Same continuing informed root authored and checked the full17responsibility report,68purposeful L/H arguments,80exact native voice joins/context arguments,7unchanged-question conjunct/rival assessments,21text/24image dispositions and34append decisions. No independent reviewer or second full reading.",
+  "formal_precision_review": "Initial post-seal formal drafts preserved privately before current review. Native anchors all verified, disjoint witness windows retained, and earlier-gift material distinguished from agreement to its later use. Original uncoded records and frozen files are exact.",
+  "current_qualifications": [
+    {
+      "id": "Q01",
+      "qualification": "Opening U010 and U014:P0341–0404 re-present the same one-round game; thirteen total cards, twelve remaining after Revi chooses. No independent second trial.",
+      "source": "U010;U014:P0341–0404;IMG020"
+    },
+    {
+      "id": "Q02",
+      "qualification": "All21text units/24images were actually read/viewed. Principal U010–015 contributes2648P, other units61P, total2709P. No separately supplied bonus story appears in the actual manifest/navigation.",
+      "source": "U001–021;native admission and full seal"
+    },
+    {
+      "id": "Q03",
+      "qualification": "The chapter1 title is not proof Taylor dates. Taylor expressly denies ever dating and reports an actual cash gift for the woman's unverified illness story. Retaliation does not prevent that loss.",
+      "source": "U011:P0553–0568;IMG009"
+    },
+    {
+      "id": "Q04",
+      "qualification": "One prior win is explicitly reported by the gambling venue guard. Always-losing cover language is not a numerical census; later low luck and repeated losses are actual narration.",
+      "source": "U011:P0288–0298;U012:P0645–0653"
+    },
+    {
+      "id": "Q05",
+      "qualification": "IMG010 depicts Dust and Vanir, not the food trick; IMG014 depicts the priestess holding scavenged food, not the adjacent sword grab; IMG020 shows Dust's ace and Small, not a whole-party celebration. Placement differs from depicted action.",
+      "source": "IMG010/014/020"
+    },
+    {
+      "id": "Q06",
+      "qualification": "The advance is explicitly received, later Dust says no money, then he explicitly spends the advance. No unprovided personal/party-account or timeline repair resolves this tension.",
+      "source": "U012:P0148/0207/0610"
+    },
+    {
+      "id": "Q07",
+      "qualification": "Small's own business purpose, refused recipient, unilateral wager, later land-motivated choice and next-day benign report remain distinct. Professional fantasy provision is not blanket personal assent.",
+      "source": "U012:P0216–0227/0594–0611/0617–0710/0805–0813"
+    },
+    {
+      "id": "Q08",
+      "qualification": "Keith's comforting dream is requested with offered payment and accepted only as an uncertain attempt. Delivery, payment and Keith's assent are not shown; later low spirits do not prove a particular dream occurred.",
+      "source": "U012:P0390–0394/0430–0440"
+    },
+    {
+      "id": "Q09",
+      "qualification": "The strange card game is not identified with an external franchise. Dust's earlier cheating accusations lack proof; Revi's later admission confirms his cheating, while exact markings remain Dust's inference.",
+      "source": "U012:P0550–0557/0649/0701–0714;U014:P0258–0264/0418"
+    },
+    {
+      "id": "Q10",
+      "qualification": "The return from the girls' outing contains only limited observation/report and an unexplained missing third man. No death, exact unseen episode or main-book backfill is invented.",
+      "source": "U012:P0563–0585"
+    },
+    {
+      "id": "Q11",
+      "qualification": "At the farm Dust initially withholds assistance, then audible context reveals previous destruction, reported compensation and a new funded arrangement. These do not establish prior permission or an unmotivated attack.",
+      "source": "U012:P0911–0945"
+    },
+    {
+      "id": "Q12",
+      "qualification": "The truth bell partly reacts to Dust's name without a completed clear ring. This does not identify an exact prior name or prove all surrounding claims false.",
+      "source": "U013:P0064–0091"
+    },
+    {
+      "id": "Q13",
+      "qualification": "Ragcraft's confession is real, but his theory of Zesta's discovery is false: Dust hears Zesta admit retaliation and playing along. Ragcraft does not hear it.",
+      "source": "U013:P0120–0158"
+    },
+    {
+      "id": "Q14",
+      "qualification": "Cell suppression and later corridor casting have different locations. Zesta's earlier antidote promise is still inadequate because it was made within the suppressed cell. No actual poisoning occurs.",
+      "source": "U013:P0215–0248/0332–0343"
+    },
+    {
+      "id": "Q15",
+      "qualification": "Actual protection causes a serious wound healed by Zesta. The strengthened golem defeats the sword method; the supplied spear, head weakness, protection context and concealment appraisal jointly explain victory.",
+      "source": "U013:P0403–0443"
+    },
+    {
+      "id": "Q16",
+      "qualification": "Dust's party searched repeatedly and was confined; his earlier fearful question about abandonment is not a settled fact. Regular-authority capture follows the actual flight of Zesta and Small.",
+      "source": "U013:P0465–0480;U014:P0147–0155"
+    },
+    {
+      "id": "Q17",
+      "qualification": "The royal threat to Small is actual. Later fictional embellishments by Dust and Small about Revi's conduct and losing stakes are lies, separately interrupted/queried by him. Leen's costly wager follows those lies.",
+      "source": "U014:P0060–0091/0187–0223/0318–0320"
+    },
+    {
+      "id": "Q18",
+      "qualification": "The important sword is retained during leisure loss, then actually risked for Small's freedom. Its value is knowingly checked; the exact giver remains unnamed. This is distinct from the spear restraint.",
+      "source": "U012:P0658/0765–0770;U013:P0320–0326;U014:P0123–0134"
+    },
+    {
+      "id": "Q19",
+      "qualification": "Revi accepts the exact reversal rule before play and later admits cheating. His release-regardless claim is only disclosed after Dust wins, so it cannot be backdated into the choice or erase credible danger.",
+      "source": "U014:P0339–0347/0395–0404/0418–0430"
+    },
+    {
+      "id": "Q20",
+      "qualification": "The party receives compensation for the explicitly failed surveillance commission. Dust's proposed multiplied repayment and upgraded lodging are not independently completed transactions; keep all ownership/accounting stages distinct.",
+      "source": "U012:P1075–1079;U015:P0007–0014"
+    },
+    {
+      "id": "Q21",
+      "qualification": "The epilogue's moon line and unfinished question do not certify an external literary allusion or completed romantic confession. Sickness, practical tending and gentle carrying are actual.",
+      "source": "U015:P0025–0042;IMG021"
+    },
+    {
+      "id": "Q22",
+      "qualification": "The actual afterword and contributor comments discuss dramatized voices; no audio was listened to. The writer's affection and forgiveness of Dust do not excuse conduct in the analysis.",
+      "source": "U016:P0004–0019;IMG022–023"
+    },
+    {
+      "id": "Q23",
+      "qualification": "The slime material derives from Yunyun's earlier Axis gift; current use of it in the trick does not establish her agreement to that later scheme. Actual provider agreements remain separately attributed.",
+      "source": "U011:P0380–0409"
+    }
+  ],
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 225044,
+      "sha256": "500a3b5b5946b7f2a268e301dc9bd9d1646e99c60c9547d462a870f81a5214e8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 156311,
+      "sha256": "e821e7c4497a923e7bf007335a7c82ac2bc5d79a3af8e9262a2b4640dbe5ce32"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 729546,
+      "sha256": "5563b80fc3379a52e1f8c4ff8e9805cbda90dad26218209c0f55d67523ed0340"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 541915,
+      "sha256": "589dc04fb8d5fbdfa84eaf89a7137d89d06ee326b8665a38ea13d01d9eb2c9e5"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 137384,
+      "sha256": "be7e7c5bce3a1483b7e6400b30f94a95cd44bd496d3fbfe12adf02969f81df94"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 132304,
+      "sha256": "0244eeda9be524d2a0687133e0adcf02795dc98e9ecc06d09869bb19a3d0f8ac"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 152772,
+      "sha256": "a6f7a2332c4eb3affe73921307332ae1f32ed8b3badbea507b56589bbcaf4064"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 120174,
+      "sha256": "a32869cf7e399b6a1bf604bd7af935f4a5b3f89129917723a3f513f1665573a1"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 207338,
+      "sha256": "af3101072378aab53006c552255ba8b8c519f9e1584080c6608fd92e0ac49c22"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "bytes": 1001159,
+      "sha256": "158a4ab99c7b445ed666c5a7eca373278f4e57f016d42507fd877621d42ee95f"
+    }
+  ],
+  "frozen_proof": {
+    "current66_verified": 66,
+    "historical72_at_3b92_verified": 72,
+    "four_score_sha256": {
+      "YORI01": "7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026",
+      "MASK": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967",
+      "DUST06": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e",
+      "DUST07": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+    },
+    "original14blank_file_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+    "R1_changed": false
+  },
+  "whole_edition_accounting_only": {
+    "supplemental_total": 19,
+    "accepted_including_this_pending_publication": [
+      "DUST-01",
+      "DUST-02",
+      "DUST-03",
+      "DUST-04"
+    ],
+    "previously_published_full_gate_closed": [
+      "DUST-01",
+      "DUST-02",
+      "DUST-03"
+    ],
+    "mixed_programs_published_at_stated_scopes": 5
+  },
+  "global_narrative_component_completion_percentage": null,
+  "remaining_boundary": "Exact containing remote readback/sourceaudit/housekeeping/final actual-source audit/status/freshauthorityreload before Dust05 separate admission; full StageC/StageD/secondary/index/finalrelease continues."
+}

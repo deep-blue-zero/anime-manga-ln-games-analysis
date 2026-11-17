@@ -64,3 +64,13 @@ This directory contains complete-envelope Nightcord event readings and bounded N
 - [EVENT_0165 — そして、針は動き出す](PJSK_EVENT_0165_DEEP_READING.md): complete 24-story envelope; an actual apology and trial home return coexist with renewed indirect pressure and guilt-driven silence, then a return to Kanade's refuge. The possible Empty-SEKAI lake-door key remains untested.
 
 - [EVENT_0170 — 泡沫に抱かれて](PJSK_EVENT_0170_DEEP_READING.md): complete 29-story World Link envelope; four shared possible lives without Nightcord converge through Kanade's song and direct contact, followed by actual four-person recommitment and an observed change in the Empty lake tree. The alternate family, school, art and fashion paths are not present biography; singer contact and shard cause stay bounded.
+
+- [EVENT_0177 — ほどけぬ明日に手を伸ばして](PJSK_EVENT_0177_DEEP_READING.md): complete 27-story envelope; Mizuki’s existing recipient-owned support gains an explicitly imagined future through clothing, while the choice remains open. Actual introductions, ordinary sibling time and group gratitude strengthen existing relations at I2 without a forced successor.
+
+- [EVENT_0184 — Colors of Pure Sense](PJSK_EVENT_0184_DEEP_READING.md): complete 24-story envelope; Ena regains expressive freedom without erasing a low technical assessment, names her university target and deletes one approval-seeking account while keeping her art work and shared place of return.
+
+- [EVENT_0192 — 覚めない幻想をノックして](PJSK_EVENT_0192_DEEP_READING.md): complete 24-story envelope; Kanade confronts the possible end of her rescuer role; provisional advice, guarded knowledge and ordinary reciprocal care leave the decision open.
+
+- [EVENT_0199 — Amid the Wavering Light](PJSK_EVENT_0199_DEEP_READING.md): complete 27-story envelope; A desired future is tested against time, materials and belonging; reciprocal counsel permits a conditional choice without removing capacity fears or promising permanent balance.
+
+- [EVENT_0210 — 褪せない今を、彩って](PJSK_EVENT_0210_DEEP_READING.md): complete 22-story envelope; A shared summer day becomes Ena’s deliberately time-bound sketch record. Received pleasure, personal memory, teasing and fallible help enrich all four without resolving Kanade’s question, Mafuyu’s risks or future uncertainty.

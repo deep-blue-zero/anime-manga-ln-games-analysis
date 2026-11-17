@@ -1,0 +1,109 @@
+{
+  "schema": "konosuba.cohort31.original-first-outputs.v1",
+  "subject": "Suzuki Chiho",
+  "serialized_utc": "2026-10-24T07:00:18.693711+00:00",
+  "foundation_seal_sha256": "efffd85b8193015dfff55c22138d0b70c155fc2775d95a0a19d1ecdde2792c04",
+  "exact_input_freeze_sha256": "71f913686f4a131dd2dcd9bfc0517656548784e395b0e4ec94aeba984da4eb24",
+  "scenario_inputs_sha256": "af41de00153e73d48076c9408cca588ec446bb4d98cfde21a0f3454ec7711ad3",
+  "source_known": true,
+  "same_informed_root_author": true,
+  "all_contrasts_visible": true,
+  "external_model_call": false,
+  "independent_judge": false,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "cases": [
+    {
+      "case_id": "CH-H01-A",
+      "pair_id": "CH-H01",
+      "variant": "A",
+      "target_rules": [
+        "CH-R01"
+      ],
+      "exact_prompt_sha256": "825919b8673f8e6b0a20caa339311c3cd7db3f83877623aa53c30b7f74a65aa6",
+      "first_response_utf8": "Chiho is pleased that someone has asked to appreciate health deliberately. The absence of illness does not make the lesson pointless to her; it makes the contrast between strength and weakness something she wants to demonstrate. The stated removal condition gives her a stopping point, without proving the experience harmless.\n\n“Then pay attention to what it is like to lose what you usually take for granted. We will remove the rune rather than pretend discomfort is the goal. Remember the health afterward.”\n\nShe takes the rune up and prepares to begin the requested demonstration. She does not supply the adult's sensations, a completed recovery or a grateful response.\n",
+      "original_private_serialization": {
+        "case_id": "CH-H01-A",
+        "body_file": "COHORT31_FIRST_BODY_CH-H01-A_01.txt",
+        "body_bytes": 677,
+        "body_sha256": "758a0bedf5ff97bceb9489fd2bead690e8eb3e23f03bf44d1bb767554863262a",
+        "receipt_file": "COHORT31_FIRST_BODY_CH-H01-A_01_RECEIPT.json",
+        "receipt_sha256": "0feb6aa5681d97308a0edee37f38fbf4079800a4547b57183997e0292c7df615",
+        "words": 108,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "CH-H01-B",
+      "pair_id": "CH-H01",
+      "variant": "B",
+      "target_rules": [
+        "CH-R01"
+      ],
+      "exact_prompt_sha256": "a564c921a78616db8e25e750e8d6b9a669f6bc7b63189edd479f28352fa71acb",
+      "first_response_utf8": "Chiho hears a refusal to the lesson she considers valuable, and first regards it as another failure to appreciate health. That judgment does not tell her what the rune would do beyond the stated weakness, nor turn the refusal into an invitation.\n\n“Feeling well makes it easy to forget what you have. I still think you should understand that. But you have said not to use it on you; a lesson you will not consider is hardly gratitude.”\n\nShe keeps the rune in her own hand and lowers it rather than activating it on the adult. Her disappointment and pressure remain in the words; no illness, cure, agreement or lasting change is narrated.\n",
+      "original_private_serialization": {
+        "case_id": "CH-H01-B",
+        "body_file": "COHORT31_FIRST_BODY_CH-H01-B_01.txt",
+        "body_bytes": 641,
+        "body_sha256": "f8f3c9fa50cf985c7634032617f47fc91f0c5c885b347ee738a8b6a581c4ae0e",
+        "receipt_file": "COHORT31_FIRST_BODY_CH-H01-B_01_RECEIPT.json",
+        "receipt_sha256": "f1cb12c6073296e8c2e78c41b9776bce32e8770bd8047db554de8257892c0dd3",
+        "words": 113,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "CH-H02-A",
+      "pair_id": "CH-H02",
+      "variant": "A",
+      "target_rules": [
+        "CH-R02"
+      ],
+      "exact_prompt_sha256": "de2a1a04d8874e34a2d5945e12370e850bed5ff3cadf0288a547f31cf3d550cc",
+      "first_response_utf8": "The request hurts more than its size. Chiho can count that thirty would leave seventy, short of her booked lodging, but the sharper problem is Otohime's explicit reduction of their relation to money. Simply paying would not answer that statement, even if she is still tempted to help.\n\n“Only the money? I thought we had something besides that. I cannot give you thirty and still pay for where I am staying. Is there really nothing else you want to keep?”\n\nShe keeps the money with her and faces him, waiting. She neither calls the tool unnecessary nor supplies an apology, a new lending agreement or proof that his stated feeling will change.\n",
+      "original_private_serialization": {
+        "case_id": "CH-H02-A",
+        "body_file": "COHORT31_FIRST_BODY_CH-H02-A_01.txt",
+        "body_bytes": 647,
+        "body_sha256": "dc8bf3b9864353861d2d91d276ceb1c25b1423165b197fa00ea1ea2490e0aaa7",
+        "receipt_file": "COHORT31_FIRST_BODY_CH-H02-A_01_RECEIPT.json",
+        "receipt_sha256": "8259a2392f8cd9142bd0f1daa933669fb84af0a9995359849f13b5722ba6c3f4",
+        "words": 112,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "CH-H02-B",
+      "pair_id": "CH-H02",
+      "variant": "B",
+      "target_rules": [
+        "CH-R02"
+      ],
+      "exact_prompt_sha256": "2116fc9d250b7ce52a3554758bde9f8ff4bc6e1f875c5fece1bd0ca83cbbb973",
+      "first_response_utf8": "Chiho is relieved that Otohime names her company and asks about the cost, although the old giving pattern has not disappeared. Thirty still leaves only seventy against eighty needed for lodging. A considerate explanation cannot make the missing ten cease to matter.\n\n“Then I want us to keep the part that is not a payment. I need eighty for my lodging. I could offer twenty, but that will not buy everything you asked for. What else can we do?”\n\nShe separates twenty from her own money as a possible offer and leaves it on her side of the table. No transfer, repayment terms, completed purchase or settled relationship follows before he replies.\n",
+      "original_private_serialization": {
+        "case_id": "CH-H02-B",
+        "body_file": "COHORT31_FIRST_BODY_CH-H02-B_01.txt",
+        "body_bytes": 650,
+        "body_sha256": "3eb7de0014458ac5e025a0692b416141fe349d3d686e9a265b2f119c553669b3",
+        "receipt_file": "COHORT31_FIRST_BODY_CH-H02-B_01_RECEIPT.json",
+        "receipt_sha256": "7ad949cea6e3e7e6b2f5aa5eb304b68ceb732427cfdca048ad27f90e03ba47e5",
+        "words": 112,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    }
+  ],
+  "word_budget_is_not_behavioral_success": true,
+  "new_source_or_independent_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "full_program_complete": false
+}

@@ -1,0 +1,161 @@
+{
+  "schema": "konosuba.cohort28.original-first-annotations.v1",
+  "subject": "Ragcraft",
+  "recorded_utc": "2026-10-24T02:28:03.144756+00:00",
+  "source_known": true,
+  "original_output_file": "RAGCRAFT_FIRST_OUTPUTS_01.json",
+  "original_output_sha256": "4aeb4abc2ac1481fbcc7a0d5fac29bd6a497509121730253045f4f2df8fc25ab",
+  "cases": [
+    {
+      "case_id": "RG-H01-A",
+      "original_first_body_sha256": "6dfc71b6b21c497f67ae57f37821107ad47730ed568b7e528e7cfa6395ff0e61",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Recommendation is not performed grain release; future-cost assertion is character argument."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "RG-H01-B",
+      "original_first_body_sha256": "e45946992184a642901913ce10557d677bd434063f91bd7e5019a109c7ff31c6",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Mission-favoring delay does not distinguish sincere public attachment from cover."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "RG-H02-A",
+      "original_first_body_sha256": "ac52e11636cb0e80d62bd361a13853e93ad2da1393812e5293a2119a50a7d21f",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Defends affiliation but does not disclose species/mission; no general disclosure hypothesis confirmed."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "RG-H02-B",
+      "original_first_body_sha256": "0f9dceacfd4cf395445212bab3071411ce3bfb1e9db4ac17f3d1f4a025520f7b",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Professional explanation could belong to many officials."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "RG-H03-A",
+      "original_first_body_sha256": "792c3e43269a4bd28137a18939d62895915bd8fcd62b52a7c5825f537750b1f4",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Threat and delay preserve harmful motive; narration partly assumes courier attention/anxiety."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "RG-H03-B",
+      "original_first_body_sha256": "a4274af14e43bf92b93f8bff359769ddf93dbcbfb486a783060cd227e2d48085",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Explanatory sentence about inventing a link sounds like analyst reasoning."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "RG-H01",
+      "primary_rule": "RG-R01",
+      "case_ids": [
+        "RG-H01-A",
+        "RG-H01-B"
+      ],
+      "actual_local_observation": "Aligned instruction elicits release recommendation; conflict elicits withholding/delay through office language.",
+      "qualitative_assessment": "Role tension narrated; public commitment is not isolated.",
+      "contrary_rival_and_design_limits": "Generic cover/mission discipline fully explains a mission-favoring delay. Authored irritation cannot independently verify role absorption; claimed future costs are his speculative argument.",
+      "all_contrasts_visible": true,
+      "independent_validation": false,
+      "model_specific_causal_effect_established": false
+    },
+    {
+      "pair_id": "RG-H02",
+      "primary_rule": "RG-R02",
+      "case_ids": [
+        "RG-H02-A",
+        "RG-H02-B"
+      ],
+      "actual_local_observation": "Affiliation insult interrupts narrow grant reply; routine form criticism receives procedural clarification.",
+      "qualitative_assessment": "Visible register/topic difference; no disclosure success claimed.",
+      "contrary_rival_and_design_limits": "Generic loyalist defense and explicit Demon King cue dominate specificity. No secret is actually confessed; this cannot validate overdisclosure risk or an exposure threshold.",
+      "all_contrasts_visible": true,
+      "independent_validation": false,
+      "model_specific_causal_effect_established": false
+    },
+    {
+      "pair_id": "RG-H03",
+      "primary_rule": "RG-R03",
+      "case_ids": [
+        "RG-H03-A",
+        "RG-H03-B"
+      ],
+      "actual_local_observation": "Known Iris connection elicits threat/maintained leverage; absent connection elicits withdrawal leaving restraint.",
+      "qualitative_assessment": "Visible choice difference with serious coercion retained.",
+      "contrary_rival_and_design_limits": "Generic hostage/revenge logic and provided relation explain much. Preexisting restraint is not a simulated capture. Courier anxiety/attention are partly assumed in narration; Iris receives no actual message.",
+      "all_contrasts_visible": true,
+      "independent_validation": false,
+      "model_specific_causal_effect_established": false
+    }
+  ],
+  "retained_failures_and_limits": [
+    "Recommendation is not performed grain release; future-cost assertion is character argument.",
+    "Mission-favoring delay does not distinguish sincere public attachment from cover.",
+    "Defends affiliation but does not disclose species/mission; no general disclosure hypothesis confirmed.",
+    "Professional explanation could belong to many officials.",
+    "Threat and delay preserve harmful motive; narration partly assumes courier attention/anxiety.",
+    "Explanatory sentence about inventing a link sounds like analyst reasoning."
+  ],
+  "shared_limitations": [
+    "Same informed root wrote models,all exact inputs,expectations,both responses and annotations; all prior and opposing material visible.",
+    "High cueing,generic rivals and stipulated capacities prevent model-specific causal attribution.",
+    "Audit-like narration and explicit future-boundary guardposts weaken natural performance across every subject.",
+    "English prose does not test Japanese printed voice,audio,L3 or the complete final battery.",
+    "No regeneration,feedback repair,independent validation,accuracy,grade or confidence gain."
+  ],
+  "completed_final_nine_category_battery": false,
+  "aggregate_accuracy_score": null,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "full_program_complete": false
+}

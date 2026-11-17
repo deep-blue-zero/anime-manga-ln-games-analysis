@@ -5,8 +5,8 @@ artifact_type: analytical_method
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.5"
-last_updated: "2026-10-14"
+version: "1.6"
+last_updated: "2026-10-18"
 status: canonical
 scope: "Japanese-primary published-LN prospective reading and evidence discipline"
 source_boundary: "Accepted foundation; Japanese LN V01 read and closed under this method; the method itself contains no source findings."
@@ -27,6 +27,8 @@ Read the published Japanese light novels as literature, preserving the mechanism
 
 The canonical route is [the current corpus map](../CURRENT_STATE_AND_CORPUS_MAP.md). Live repository authority and [initiation policy](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md) govern execution. The owner has accepted this current-eligible method and its paired architecture. V01 has a technical source lock. The owner first kept its locator package local and held SEQUENTIAL_ANALYSIS_LOCK = CLOSED; a later owner instruction, recorded 2026-10-14, opened the lock for V01 only after the source and original package were recovered and reverified. The current entrypoint owns the live lock state. Gate readiness and an explicit source-unit reading instruction remain distinct, and opening the gate establishes no narrative finding. V01 has since been read and closed under this method; its findings live in the V01 reading and the master ledger, not here.
 
+**Prospective amendment, 2026-10-18.** Diagnostic-retention requirements below govern subsequent authorized work. They do not certify the completed V1 corpus under a later standard, revise its findings, or authorize another reading. `generation: V1` identifies this framework's established lineage, not a new analytical run. Historical foundation and execution statements retain their original boundaries; the current entrypoint controls live permission. Independent-generation preparation follows architecture section 11, including exclusion of interpretation-bearing framework history.
+
 ## 1. Japanese primary evidence and source fidelity
 
 The intended primary track is numbered Japanese commercial LN I–XII in the supplied collection, one individually admitted volume per transaction. The [source map](../01%20Source%20Lock%20and%20Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md) distinguishes verified folder identities from retained audit findings. Folder presence, a filename, a script statistic, and an OPF label are each narrower than a source lock or completed reading.
@@ -37,7 +39,7 @@ Deterministic extraction must preserve paragraph and scene order, punctuation, J
 
 A locator records witness ID, source hash, exact chapter label, spine member, and paragraph/element anchor. Prefer native anchors where stable; otherwise define a one-based deterministic element rule, including handling of empty elements and scene separators. Round-trip ordinary dialogue, ruby-bearing text, a chapter boundary, and the final narrative passage to original XHTML. Record the normalizer version and projection/map hashes in the evidence plane. Reader-app reflow pages are not printed pagination. Printed page numbers may be cited only when genuinely established.
 
-Use witness grammar `SW-LNJP-V<NN>` and observation grammar `SW-E-LNJP-V<NN>-<sequence>`; supplements and web snapshots get separate witness IDs. These are prospective identifier patterns, not existing observations. The volume reading owns compact analytical observation records and recoverable locators. Raw text, paragraph maps, alignment tables, full image sets, and extraction databases remain governed Drive evidence.
+For the existing V1 lineage, use witness grammar `SW-LNJP-V<NN>` and observation grammar `SW-E-LNJP-V<NN>-<sequence>`; future independent generations use architecture section 11's qualified analytical namespaces while retaining verified witness identities; supplements and web snapshots get separate witness IDs. These patterns identify observation ownership; stating them creates no observation. The volume reading owns compact analytical observation records and recoverable locators. Raw text, paragraph maps, alignment tables, full image sets, and extraction databases remain governed Drive evidence.
 
 Refer to established characters by name in analytical prose; a role, title or epithet is used when it carries the point, such as the Silent Witch as a reputation experienced by people who do not know Monica, or Felix’s royal status where it matters. Preserve the source’s concealments and knowledge boundaries: name a figure the unit later identifies only while stating what the earlier scene’s participants knew, and never resolve an identity the ledger records as inference. Before semantic acceptance, apply a bounded name-and-reference check to the synopsis, at least one substantial close-reading section and the exit freeze. This implements the corpus-wide named-subject and referential-clarity standard maintained in the [analytical handoff and integration contract](../../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md); where that contract states the standard, it governs.
 
@@ -52,6 +54,28 @@ Read every admitted narrative part in source order: prologue, chapters, interlud
 Maintain a coverage table of chapter/scene range, focalizer, admission class, inspection state, substantive movement, and remaining gap. Counts corroborate a bounded inspection record; they do not establish comprehension. Retrieval, a keyword search, a synopsis, or excerpt screening cannot replace full admitted narrative coverage. Full coverage does not require equal commentary on every paragraph.
 
 Select close-reading scenes for literary centrality as well as relevance to current hypotheses. Include mundane exchanges, failed actions, limits of competence, contradictory behavior, and material not centered on the presumed protagonist. Record why diagnostic selections discriminate among explanations. Search can support retrieval after reading; it cannot silently choose the entire evidence set.
+
+### 2.1 Diagnostic fidelity and preservation
+
+Analytical completeness is not established by full source coverage, correct plot reconstruction, or identification of major themes. Source-grounded details that materially distinguish motivations, appraisals, emotional states, relationships, behavior, narrative mechanisms or thematic propositions must remain recoverable. A detail need not recur or affect the principal plot to matter.
+
+Keep these distinctions explicit:
+
+| Distinction | Operational consequence |
+|---|---|
+| Source coverage / comprehension | Inspection establishes what was encountered; an explanation must demonstrate what was understood. |
+| Plot retention / explanatory retention | Recording the resulting event does not preserve why this person acted this way. |
+| Trait label / conditional mechanism | Preserve the circumstances, appraisal, recipient and competing aims that constrain the response. |
+| Narrative prominence / diagnostic significance | Supporting-character viewpoints and minor scenes can discriminate among important interpretations. |
+| Repetition / importance | A single contradiction, private motive or explicit thematic proposition may be decisive. |
+| Observation / character belief / analyst inference | Preserve attribution and focalization; an assertion's occurrence does not establish its truth. |
+| Source-supported absence / capture gap | Absence from a reading or ledger is not absence from the source. Establish the inspected opportunity before using negative evidence. |
+
+Evaluate scenes for motivation, self-concept, appraisal and affect; public/private presentation; recipient-specific conduct and directional relationship asymmetries; ordinary interaction, humor, embarrassment, insecurity and vulnerability; textually supported gesture, posture and physical accommodation; conflicting expectations, misunderstandings and reciprocal consideration; contradictions among speech, belief, intention and action; institutional constraints and social roles; narrative voice, focalization and literary mechanisms; and explicit thematic propositions, including single occurrences. These are questions, not a requirement to find every feature in every scene or to supply a predetermined answer. Preserve who states a thematic proposition, in what context, and its qualifications or counterevidence; do not silently promote a character's proposition into the work's endorsement.
+
+Compression is permissible when it preserves the distinctions needed to reconstruct the source-supported explanation. Replacing a specific mechanism with an excessively generic characterization is analytical information loss, even if the event summary remains correct. Preserve enough context and the original source route to test competing explanations. Unsupported links remain unknown; fuller recording is not permission to invent causality.
+
+Preservation is proportional to demonstrated or reasonably plausible analytical significance. There are no word quotas, observation quotas, per-paragraph reports, or obligations to retain every incidental detail. When significance is uncertain but plausibly consequential, retain a bounded local observation and a usable retrieval route under architecture section 5.1, rather than treating uncertainty as permission to discard it.
 
 ## 3. Prospective knowledge and reader-facing orientation
 
@@ -83,7 +107,7 @@ Use these distinctions for consequential propositions:
 
 Separate what happens, what a participant thinks happened, why someone acts, how narration frames it, authorial intention, and actual reception. Support each with the appropriate source. A character's confidence, institutional doctrine, comic framing, or repeated reader assumption does not promote a belief into narrative truth.
 
-For a load-bearing inference preserve support, strongest rival explanation, disconfirming evidence, uncertainty, and the observation that could change it. Absence becomes negative evidence only when the declared inspected range and expected opportunity make absence meaningful. Missing access is an evidence gap, not proof that a trait or event is absent. An untested expectation remains UNTESTED.
+For a load-bearing inference preserve support, strongest rival explanation, disconfirming evidence, uncertainty, and the observation that could change it. Absence becomes negative evidence only when the declared inspected range and expected opportunity make absence meaningful. Missing access, insufficient capture, and failed routing are evidence gaps, not proof that a trait or event is absent. If a summary cannot establish the relevant inspected opportunity, retrieve the reading and, where necessary, reinspect the admitted source before asserting absence. An untested expectation remains UNTESTED.
 
 Use the [claims and revisions ledger](../03%20Longitudinal%20Ledgers/SW_CLAIMS_AND_REVISIONS_LEDGER.md)'s PRESERVE, STRENGTHEN, REVISE, DOWNGRADE, REJECT, and OPEN revision events under its claim-review contract (section 3). Review every applicable claim at each unit, record the review in the unit's receipt, and write an event only for a material result or a significant decision to preserve. Preserve the earlier formulation and its evidence boundary. A contradiction may result from ignorance, deception, chronology, focalization, witness revision, translation, paratext, or genuine inconsistency; retain alternatives until inspection supports adjudication.
 
@@ -97,7 +121,7 @@ For character observation use a recoverable process:
 
 `circumstance -> perceived evidence -> appraisal/belief -> affect -> available options -> choice -> action/speech -> consequences -> later revision`
 
-Mark which links are explicit and which are inferred. Preserve outward persona, private state, third-party attribution, and reader knowledge separately. Distinguish changed disposition from new knowledge, role/context change, relationship conditioning, newly revealed traits, and unresolved differences. Demonstrated expertise does not prove authority in every domain.
+A diagnostic observation preserves the distinctions in this chain that explain the particular response, including competing aims and recipient conditions, rather than only its resulting action. Mark which links are explicit, inferred, not shown, or unresolved; do not fill unsupported links merely to complete the chain. Preserve outward persona, private state, third-party attribution, and reader knowledge separately. Distinguish changed disposition from new knowledge, role/context change, relationship conditioning, newly revealed traits, and unresolved differences. Demonstrated expertise does not prove authority in every domain.
 
 Relationships are directional: A toward B can differ from B toward A. Track initiative, trust, information, dependence, duty, resources, refusal, conflict, repair, and independent aims. Attraction, loyalty, care, and obligation may overlap without being equivalent. Less interior access warrants narrower claims, not invented motives.
 
@@ -118,3 +142,31 @@ The [master ledger](../03%20Longitudinal%20Ledgers/SW_MASTER_LONGITUDINAL_LEDGER
 Evaluate explanatory depth, evidence specificity, temporal/epistemic discipline, meaningful counterinterpretations, and literary readability. Sparse plot bullets or generic character lists cannot satisfy a deep reading. No arbitrary word quota or maximum imposes compression, and length alone proves nothing. Preserve enough connected prose to develop significant arguments.
 
 A future single-unit instruction defaults to single_operation. Continuous execution needs an explicit recoverable terminal boundary under the [continuation policy](../../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md). Listing the next volume supplies a route, not permission. On interruption recover actual files and high-water mark before resuming; never infer closure from conversation memory.
+
+
+### 7.1 Semantic-retention acceptance gate
+
+Apply this gate at each future volume closure and at retrospective argument/synthesis acceptance. The reviewer compares meaning across original admitted source, reading, cumulative record or justified local route, and the proposed interpretation. Locator presence, document length, formatting, observation counts and a repository test pass cannot establish semantic retention.
+
+1. Record the candidate version/commit, source boundary, reviewer and review scope. Select a small, risk-sensitive sample spanning different focalizers, supporting-character viewpoints, ordinary interactions, consequential plot scenes and thematic passages where available. Include both inference-driven selections and source passages selected independently of existing claims; otherwise uncaptured material is invisible to the review. Explain unavailable categories and sampling limits without inventing coverage or fixed quotas.
+2. Inspect each sampled primary passage in enough context to distinguish observation, belief and inference. Trace it forward to the reading and cumulative destination/local route, then trace selected important interpretations backward to their primary basis. Check whether motivations, affect, reciprocity, contradiction, counterevidence and source-stated propositions survive, including distinctions not reflected in the synopsis. Expand inspection when a defect suggests a wider capture or routing problem.
+3. Record a compact finding with source locator, affected observation/claim or section, lost distinction, analytical consequence, severity and disposition. Use the reading's closure receipt or the target review/closeout in the existing checkpoint/audit homes; do not create another evidence ledger. Minor findings may be grouped. Source access that is required but unavailable is an unresolved obligation, not a passing sample.
+
+| Severity | Semantic consequence | Disposition |
+|---|---|---|
+| Minor | Incidental detail omitted with no meaningful analytical consequence in the declared scope. | Acceptable; no duty to accumulate trivia. |
+| Moderate | Distinctive nuance omitted from a summary, but recoverable through an identified, verified route and not material to the supported interpretation. | Correct or document why bounded retention is adequate, with a retrieval route and any remaining owner/action. |
+| Major | Important behavioral mechanism, counterevidence, relationship distinction or thematic proposition lost or rendered effectively undiscoverable. | Blocks analytical acceptance of the affected unit/product until repaired and checked through its dependencies, or resolved by an explicitly authorized, truthful scope change. A locator alone is not a repair. |
+| Critical | A central interpretation is contradicted by the source, or substantial admitted material is effectively unexamined. | Blocks closure; investigate the broader affected source range and dependent interpretations, then repeat the affected gate. |
+
+Severity follows analytical consequence, not how easily the source can be retrieved. A material lost mechanism is Major even when one source lookup could repair it. Moderate disposition cannot waive Major or Critical loss. Report the actual sampled result and remaining uncertainty; a bounded pass never certifies exhaustive retention. Reopening a historical finding requires the existing erratum/revision process, not alteration of a prospective freeze.
+
+Before a full independent second-generation run can be authorized, a separately commissioned, small source-grounded qualification review must test this pipeline under architecture section 11. It requires a reviewer independent of the pilot author and the same severity dispositions. This amendment performs no qualification review and grants no source-reading permission.
+
+### 7.2 Fidelity conflicts and bounded remedies
+
+If a process, sampling rule, artifact boundary or compression convention would materially degrade fidelity, use the repository's [analytical corrections and procedural conflicts procedure](../../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md#analytical-corrections-and-procedural-conflicts), implementing [routing section 4.2](../../../governance/AGENT_ROUTING.md#42-analytical-fidelity-and-procedural-corrigibility). Record the specific evidence/affected claim, conflicting control, material consequence, why ordinary remedies are inadequate, narrowest proposed remedy, approving authority and scope, provenance/epistemic safeguards, preserved history, validation and disposition in the existing project audit or current-state home. Prefer an ordinary correction or targeted amendment before a bounded exception. Execute only within existing authorization or the exact owner-approved remedy; no source, authority, publication or validation bypass is created.
+
+## Amendment history
+
+- **1.6 — 2026-10-18:** Prospective diagnostic fidelity, separate coverage/retention judgments, semantic-retention gate, source escalation and existing-governance conflict route. V1 findings and freezes unchanged; no qualification or second-generation run executed.

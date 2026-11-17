@@ -2,16 +2,21 @@
 title: "Gakuen Idolmaster V2 — Shared Narrative and Institutional Spine Deep Reading"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "canonical source-facing deep reading"
-version: "2.1"
+artifact_type: deep_reading
+version: "2.2"
 phase: "2 — Shared Narrative and Institutional Spine"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 governing_method: "GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md"
 governing_continuity: "GKM_CONTINUITY_AND_STORY_STATE_MAP.md"
 created: "2026-08-13"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15 targeted corrections (STRENGTHEN / REVISE): adds the headmaster's route-scoped account that N.I.A. was co-planned without him, the Juo–100 Pro family link and a pointer to route-scoped N.I.A. conventions, and narrows LOC-INST-020 to a lesson variant for Sena's Producer; the P2-common rules and all other content are unchanged"
 status: "canonical Phase 2 artifact; paratext integration 2026-08-15"
 ---
 
 # GKM SHARED AND INSTITUTIONAL SPINE DEEP READING
+
+> **Revision record — v2.2, 2026-11-15 (source-to-analysis audit corrections).** STRENGTHEN: §4.2 gains a route-scoped note on N.I.A.'s origin (the headmaster says it was co-planned by Kuroi and his son without him; GKM-SAA-033) and a pointer to D-route N.I.A. conventions (GKM-SAA-034); §13.3 and §14 record that 100 Pro's president 十王龍正 is Sena's father and the headmaster's son (GKM-SAA-033). REVISE: §16.2 and Appendix A `LOC-INST-020` are scoped to a Produce-event lesson variant addressed to Sena's own Producer (GKM-SAA-116). The P2-common rule statement in §4.2, the Phase-2 thesis and all other sections are unchanged.
 
 ## 0. Executive finding
 
@@ -328,6 +333,13 @@ The fan-vote structure can create circular advantage:
 > visibility helps produce votes; votes help produce access; access produces more visibility.
 
 The sources do not yet tell us whether Hatsuboshi consistently mitigates that feedback loop. Character routes may show “upsets” made possible by strong production, but the system still makes popularity a gate. Phase 3 and the event/support passes must test who benefits from this arrangement and who is structurally disadvantaged by it.
+
+### Route-scoped origin and conventions of N.I.A. (GKM-SAA-033, GKM-SAA-034) — 2026-11-15
+
+The P2-common rules above are unchanged. Two route-scoped layers sit beside them.
+
+- **Origin.** In D-SENA the headmaster says that N.I.A. is an event that "Kuroi's boy" and "my son" planned in secret, leaving him out, and that Hatsuboshi is therefore not completely monolithic (C1 @ D-SENA, `adv_dear_jsna_012` L15–L19). The safe wording is that, on the headmaster's account, N.I.A. was **co-planned** by Kuroi and his son outside the headmaster's control; it does not establish who founded or runs it. That this son is 十王社長, 十王龍正, is a high-probability inference rather than an explicit statement: the headmaster says four will face criticism; the Producer names 十王社長 among them, uncorrected (L49–L52); and Sena calls the dispute an ordinary parent–child quarrel (`adv_cidol-jsna-3-002_02` L200–L205). In D-MAO, Gekka refers to 961 Pro as the organiser (`adv_dear_amao_018` L250), and the Producer speaks of N.I.A.'s organiser (L284). See the side-character synthesis §2.4 and §4.5.
+- **Conventions.** Several D-routes frame N.I.A. as a rookie tournament from which top idols abstain by unwritten understanding, and one Producer line expects class 3 to stay out. These are host-route statements, not P2-common rules; the continuity map §3.2 records them with their scopes, and the institutional ledger holds the corresponding rows.
 
 ## 4.3 Old-rules summer H.I.F.: schoolwide excellence and divided forms
 
@@ -758,9 +770,7 @@ This establishes an alternative model:
 - institutional permission can authorize exceptional arrangements;
 - the school recognizes possible conflicts between student production and formal P-course authority.
 
-Sena’s model also contains a warning. She initially evaluates her own continued place in Begrazia through numerical capacity and assumes she should withdraw if she becomes a drag. After losing to Re;IRIS, she revises that belief and says idol ability cannot be fully represented by numbers.
-
-The institution is therefore capable of producing a self-critical Producer—but only through defeat and counterexample.
+**Historical correction — HSCA-004 (C1 @ U1).** Sena announces retirement and applies Begrazia's standard to herself, expecting Ume or Misuzu to surpass her. Her conversation with Saki unsettles that plan before the result. Re;IRIS then wins the unit contest, and Sena retracts retirement, citing her frustration and her own estimate of her performance. She accepts Misuzu's numerical comparison and still says that idol ability exceeds those numbers. Ume disputes Sena's self-ranking and raises the school event restriction after graduation. The correction distinguishes Sena's evaluation, the unit result and the unresolved roster question. See `LOC-HSCA-004A`–`004D` and Relationship Systems II §8.7.1.
 
 ---
 
@@ -1089,6 +1099,8 @@ The restrictions are a form of governance, but they do not erase the concentrati
 
 The source supports identifying a governance tension. It does not yet support a final judgment that the institution is corrupt or nepotistic. Sena’s conduct and the consequences of the arrangement require later analysis.
 
+**Family link to 100 Pro (GKM-SAA-033; 2026-11-15).** The family connection reaches beyond the school. Sena's father is 十王社長 (M-SENA, `adv_cidol-jsna-3-002_02` L192–L196), who introduces himself in D-MAO as 100 Pro's representative director 十王龍正 (`adv_dear_amao_021` L381), and the headmaster is Sena's grandfather (002_02 L173). The concentration of authority therefore links school leadership, the student council, the titleholder and the president of the agency to which, per §14, the headmaster transferred 100 Pro. This sharpens the governance tension without settling it; in D-SENA the headmaster and his son even stand on opposite sides of N.I.A.'s planning (§4.2, inference-labelled).
+
 ## 13.4 Succession is not passive inheritance
 
 Sena does not wait for a successor to emerge. She tries to produce one.
@@ -1133,6 +1145,8 @@ This widens the stakes of H.I.F.:
 - a performance record that can matter beyond school.
 
 The school is a pipeline, but not merely a pipeline. It remains an educational institution with its own titles, traditions, and peer ecology. The tension between educational development and industry selection is central to its identity.
+
+**Identity and origin notes (GKM-SAA-033; 2026-11-15).** Route sources outside the shared corpus identify 十王龍正 as Sena's father and, from Sena's own framing of the headmaster's dispute with him as a parent–child quarrel, as the headmaster's son (§13.3; side-character synthesis §2.4). In ruby, 100 Pro is read じゅうおうプロ (`adv_dear_atbm_003` L196; `adv_dear_ttmr_011` L22). The Producer calls the prescribed song ガラクタロード 100 Pro's signature song (`adv_cidol-kllj-3-018_03` L45), which the SL1.1 Sena refresh also records. On the headmaster's D-SENA account, N.I.A. was co-planned by Kuroi and his son without him (§4.2). None of this specifies 100 Pro's H.I.F. role, contracts or recruitment terms, which remain open.
 
 ---
 
@@ -1216,6 +1230,8 @@ Hatsuboshi therefore knows that its most valued quality exceeds its measurements
 That is not necessarily hypocrisy. Institutions need decision procedures. But it produces a durable contradiction:
 
 > **the school seeks singular, unquantifiable charisma through systems that require comparison and ranking.**
+
+**Scope correction (GKM-SAA-116; 2026-11-15).** The "shared classroom branch" above is narrower than general doctrine. It is the `-02` variant of a shared Produce-event lesson, in which Asari addresses the Producer as Sena's own 担当プロデューサー (`adv_pevent_003_cmmn_school_1-006-02` L5, L13); the 数値では計れない力 answer is Asari's reply to the third choice inside that variant (L54–L64). The companion variant `school_3-005-02` likewise addresses Sena's Producer about defending a fourth consecutive H.I.F. title (L5, L13, L22–L25). Both variants presuppose a P3-C run in which the Producer produces Sena, although Source Lock 1.0 contains no Sena Series 3 Produce Story; SL1.1 later supplies P3-SENA material. The P3-C world state is unchanged, and Sena's own aim of a fourth straight title also appears outside the Sena route (support `story_0104` part 01 L21). The contradiction stated above stands, but its textual basis is a lesson for Sena's Producer, not a lesson addressed to every Producer.
 
 ## 16.3 Fans are not only numbers
 
@@ -1550,7 +1566,7 @@ Phase 2 establishes the first proposition as Hatsuboshi’s pedagogical ideal. T
 | `LOC-INST-017` | one Prima Stella even after unit victory | `adv_pevent_003_cmmn_school_2-005.txt` | `transcripts_raw/02_produce_events/event_003/cmmn=Common_-_shared/school_2-005.txt` | `一番星は、あくまでひとり` |
 | `LOC-INST-018` | producer strategy/support curriculum | `adv_pevent_003_cmmn_school_1-005.txt` | `transcripts_raw/02_produce_events/event_003/cmmn=Common_-_shared/school_1-005.txt` | `勝ち筋を設計` / `完璧なサポート` |
 | `LOC-INST-019` | plural vocal standards | `adv_pevent_003_cmmn_school_1-001.txt` | `transcripts_raw/02_produce_events/event_003/cmmn=Common_-_shared/school_1-001.txt` | `高い技術` / `気持ちを表現` / `ミスひとつない` |
-| `LOC-INST-020` | individuality and charisma exceed pure technique | `adv_pevent_003_cmmn_school_1-006-02.txt` | `transcripts_raw/02_produce_events/event_003/cmmn=Common_-_shared/school_1-006-02.txt` | `技術が高いアイドルはいますが` / `数値では計れない力` |
+| `LOC-INST-020` | individuality and charisma exceed pure technique — in a lesson variant addressed to Sena's own Producer, presupposing a P3-C run producing Sena (scope revised 2026-11-15, GKM-SAA-116; §16.2) | `adv_pevent_003_cmmn_school_1-006-02.txt` | `transcripts_raw/02_produce_events/event_003/cmmn=Common_-_shared/school_1-006-02.txt` | `技術が高いアイドルはいますが` / `数値では計れない力` |
 | `LOC-INST-021` | producer learns injury/body signs | `adv_pevent_003_cmmn_school_2-003.txt` | `transcripts_raw/02_produce_events/event_003/cmmn=Common_-_shared/school_2-003.txt` | `ケガや不調を、見抜く` |
 | `LOC-INST-022` | nutrition/stress/visual condition management | `adv_pevent_003_cmmn_school_6-001.txt` | `transcripts_raw/02_produce_events/event_003/cmmn=Common_-_shared/school_6-001.txt` | `栄養バランス` / `緊張によるストレス` |
 | `LOC-INST-023` | paid industry jobs through internal audition | `adv_tower-001.txt` | `transcripts_raw/98_miscellaneous/tower/tower-001.txt` | `初星依頼制度` / `学内オーディション` / `報酬` |

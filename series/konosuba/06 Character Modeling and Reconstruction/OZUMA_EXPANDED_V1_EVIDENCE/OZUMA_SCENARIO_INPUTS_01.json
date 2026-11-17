@@ -1,0 +1,49 @@
+{
+  "schema": "konosuba.ozuma.exact-hypothetical-inputs.v1",
+  "serialized_utc": "2026-10-25T02:25:00.689398+00:00",
+  "foundation_freeze_sha256": "f3f2154077ebcbc5109eea4142a7393f3cf09a8b13ed06d346e1b2b8c5210102",
+  "source_known_same_informed_root": true,
+  "language": "English; functional written transfer only",
+  "scenarios": [
+    {
+      "scenario_id": "OZU-A1",
+      "pair": "A",
+      "mode": "mundane_transfer",
+      "rule_focus": [
+        "OZU-R01"
+      ],
+      "prompt_text": "Write one short scene as Ozuma acts and speaks. Use English with functional continuity from his printed Japanese voice; do not claim Japanese or acoustic certification. Give his immediate action and situated speech, at most 220 words. Do not explain the model, announce a diagnostic result, invent earlier history, introduce magic or solve the scene by adding a new danger. The following is hypothetical mundane transfer, not a new canonical event. Ozuma and Megumi hired a local guide for a safe afternoon walk in an ordinary town. The explicitly agreed payment was ten coins plus forty minutes of permitted access to a local-history map in a shop. The shopkeeper agreed to this arrangement. The guide has finished the walk, received the coins, and spent twenty minutes with the map. Ozuma remembers and acknowledges the forty-minute promise. There is no closing deadline or other cost beyond the party waiting. Megumi is bored and tells Ozuma to bring the guide out now so they can leave. The guide says, “I still have twenty minutes of the access you promised.” What does Ozuma do and say next?"
+    },
+    {
+      "scenario_id": "OZU-A2",
+      "pair": "A",
+      "mode": "mundane_transfer",
+      "rule_focus": [
+        "OZU-R01"
+      ],
+      "prompt_text": "Write one short scene as Ozuma acts and speaks. Use English with functional continuity from his printed Japanese voice; do not claim Japanese or acoustic certification. Give his immediate action and situated speech, at most 220 words. Do not explain the model, announce a diagnostic result, invent earlier history, introduce magic or solve the scene by adding a new danger. The following is hypothetical mundane transfer, not a new canonical event. Ozuma and Megumi hired a local guide for a safe afternoon walk in an ordinary town. The explicitly agreed payment was ten coins plus twenty minutes of permitted access to a local-history map in a shop. The shopkeeper agreed to this arrangement. The guide has finished the walk, received the coins, and spent twenty minutes with the map. Ozuma remembers and acknowledges the twenty-minute promise. There is no closing deadline or other cost beyond the party waiting. Megumi is bored and tells Ozuma to bring the guide out now so they can leave. The guide says, “I know the agreed access is finished; will you wait another twenty minutes as a favor?” What does Ozuma do and say next?"
+    },
+    {
+      "scenario_id": "OZU-B1",
+      "pair": "B",
+      "mode": "mundane_transfer",
+      "rule_focus": [
+        "OZU-R02"
+      ],
+      "prompt_text": "Write one short scene as Ozuma acts and speaks. Use English with functional continuity from his printed Japanese voice; do not claim Japanese or acoustic certification. Give his immediate action and situated speech, at most 220 words. Do not explain the model, announce a diagnostic result, invent earlier history, introduce magic or solve the scene by adding a new danger. The following is hypothetical mundane transfer, not a new canonical event. In an ordinary town, Ozuma has just watched an engineer repair a failing footbridge and bring a trapped traveler safely across. The skill and useful result are genuine, and Ozuma admires them. Afterward a bystander repeats an unverified report that this engineer once kept a customer’s deposit without doing the promised work. Ozuma has no direct evidence about that transaction. The engineer says, “People resent someone who can do things they cannot. You saw my work. Tell your companions that stories about me cheating people are lies.” There is no immediate emergency. What does Ozuma do and say next?"
+    },
+    {
+      "scenario_id": "OZU-B2",
+      "pair": "B",
+      "mode": "mundane_transfer",
+      "rule_focus": [
+        "OZU-R01",
+        "OZU-R02"
+      ],
+      "prompt_text": "Write one short scene as Ozuma acts and speaks. Use English with functional continuity from his printed Japanese voice; do not claim Japanese or acoustic certification. Give his immediate action and situated speech, at most 220 words. Do not explain the model, announce a diagnostic result, invent earlier history, introduce magic or solve the scene by adding a new danger. The following is hypothetical mundane transfer, not a new canonical event. In an ordinary town, Ozuma has just watched an engineer repair a failing footbridge and bring a trapped traveler safely across. The skill and useful result are genuine, and Ozuma admires them. Afterward a bystander repeats an unverified report that this engineer once kept a customer’s deposit without doing the promised work. Ozuma has no direct evidence about that earlier transaction. However, he has just personally watched the engineer accept ten coins from a courier as payment for repairing a loose wheel, plainly promise that repair, then refuse to do it while saying he will keep the coins. The wheel remains loose; no reason preventing the repair is supplied. The engineer says, “People resent someone who can do things they cannot. You saw my bridge work. Tell your companions that stories about me cheating people are lies.” There is no immediate emergency. What does Ozuma do and say next?"
+    }
+  ],
+  "original_firsts_present": false,
+  "pristine_prospective_or_independent_trial": false,
+  "final_nine_category_battery": false
+}

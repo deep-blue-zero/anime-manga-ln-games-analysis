@@ -1,0 +1,599 @@
+{
+  "schema": "tomozaki_principal_B_portable_historical_records/v1",
+  "artifact_type": "derived_model_historical_evidence_records",
+  "record_group": "ROOT_ACCEPTANCE",
+  "status": "canonical",
+  "release_state": "fixed_historical_evidence",
+  "repository_authority": false,
+  "do_not_use_as_current_authority": true,
+  "do_not_use_as_primary_literary_authority": true,
+  "historical_value_policy": "Complete values are preserved unchanged and attributable. Creation-stage pending/no-admission statements do not supersede later root decisions. Historical scratch/helper-identity strings are provenance only; no helper body/argv/raw primary is included.",
+  "records": [
+    {
+      "record_id": "root.ROOT_PRINCIPAL_B_ACTUAL_BINDING_AND_PRESERVATION_REPLAY.json",
+      "value_kind": "complete_json_semantic_value",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_review_root_20261103/ROOT_PRINCIPAL_B_ACTUAL_BINDING_AND_PRESERVATION_REPLAY.json",
+        "bytes": 15718,
+        "sha256": "f0a5539166f5baf42e59ba896bcca021a02a8c52a007d40818c25224fa8717b4"
+      },
+      "semantic_value_sha256": "801c7ef031c77659d502985a35867a7eac1eb6a000d0410f92a70070476dc73e",
+      "value": {
+        "schema": "tomozaki_root_B3_actual_binding_replay/v1",
+        "utc": "2026-11-04T03:13:34.767319+00:00",
+        "producer_sealed_payloads_raw_equal": 34,
+        "independent_sealed_outputs_raw_equal": 10,
+        "25_unique_current_and_Git_dependencies": [
+          {
+            "path": "governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "a96aba49f730b09b70ec4b60c93e2bc80efe8e85250b283ee79d04da87ad8852",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "9c6cfe3c0af45e484fb7e8ff0296af51f948cf350118a27bed288cf619726db8",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "66c966351aa08a9bfc233a1980a783cb43bf0c1150ea91886cea5c145c270c06",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "8fa81358420e9a2db1f694dfd8c48e431d46dfdb6c9762a8dbe8d47a5d27c848",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "a0b3792c861ea94298b78e903e24c38d9043104f6d3695aaccead464c30168e8",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "265b6ae9c61dad6896061ea29176277f0dc1276f2c51b4ea39285845c6c5c68b",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "f8d258a5c1ba3be2507db6892bb9f8634b0b96b1e1719945762b51fd3b56ee7d",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "cc8a6387342a8f715bdebb86a825ddf82ac68b7f007f56a72300288692e705f3",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "897cb97ad9694c153a96246e353896e581a4e7b5c3824b774cde77992a2d87b8",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "938ff0eacd72ba557c3776dc689ddb2e75a775263a9bfdc4e0bb4c0832c10f59",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "1566fcada5d71f27f3d75d9cb884f45fef1ec261c0e00926f8cc43da3b07f4c4",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "series/tomozaki/01 Source Lock and Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "04555d264c94792a98df1e280a54d323ce214c05e9851f142f4075294fc3bf22",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "6017c3eee7ab60cc3ba5e689c4a127b78191fb1b747c06f7f6cec36007160b4b",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "4616495b21e374547c58e63ade5ce99e1cfb6116ceb84621df92be99f94850e1",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+            "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+            "sha256": "f5c6d752193d5659a900c108a3629d26e4d3a0cb09a3118bfa1286d1461df593",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_DECISION.json",
+            "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+            "sha256": "8a51e0e7d7124b9bf07189bcd2e6a8fa7d216a5068df0a4c9ca2fc3ef8085a90",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_VERSION_REGISTER.json",
+            "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+            "sha256": "4dfcce1ebcb5c1f3bac5cb33f364b5413f401b2a9e8d9c8202c1667fefdef5ec",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_AUDIT.md",
+            "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+            "sha256": "307d94cef6c9d0d0c52fa311d5058a7d7f69b55c4d9ca7801a0cc76e53c84dfb",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "b9db3da99aa62fdb879d25c9caaf1af393542ba73030ca4acd13b53c64628022",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "6f9eb196c11dcf72cbd61837c66e0d6decaaa0adbcf38023b45e9cca10991a8a",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Nanami Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "31885d035841274f6070964123f3ca6b19d2a86af0cbf4b0ec3cb34c1ff7e192",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Natsubayashi Hanabi/NATSUBAYASHI_HANABI_CHARACTER_MONOGRAPH.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "adeb9b23234a9e332c4fd6a82e80e67040dead695f3ca687ef93b903f8087fb7",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Izumi Yuzu/IZUMI_YUZU_CHARACTER_MONOGRAPH.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "8e494e41e1843a793a7e566cea6e0a6d086644c8355335470c90ea2eb2a20bbe",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_ENSEMBLE_AND_PEER_NETWORK_SYNTHESIS.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "93e03734e1cee01edc1ad0e9c3e8adbd42a26b418b64cb84854614e4a1608453",
+            "raw_and_Git_equal": true
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "sha256": "2dd3bc309e8403132b28b8302eb5762dfa36d282c3f5a0dc9b08a8dce3beb376",
+            "raw_and_Git_equal": true
+          }
+        ],
+        "protected_owner": {
+          "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_FULL_CORPUS_PATH_AND_VALIDATION_MANIFEST.json",
+          "bytes": 101778,
+          "sha256": "643c900ac2e29cf570b7f8e4c7f7d8f18335ec80d56543328f976be2ab08af79",
+          "git_blob_sha1": "3e8c2cd6ae69214e9f3415f46b7bcbf77de7fa64",
+          "git_mode": "100644",
+          "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017"
+        },
+        "explicit_protected_owner_pointer_and_Git_joins": 16,
+        "fixed_release_literary_joins": 3,
+        "producer_execution_bindings": [
+          {
+            "file": "NM_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "NM-R1",
+            "actual_suboutputs": 3
+          },
+          {
+            "file": "NM_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "NM-R2",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "NM_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "NM-R3",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "NM_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "NM-R4",
+            "actual_suboutputs": 3
+          },
+          {
+            "file": "NM_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "NM-R5",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "NM_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "NM-R6",
+            "actual_suboutputs": 6
+          },
+          {
+            "file": "NM_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "NM-H1",
+            "actual_suboutputs": 1
+          },
+          {
+            "file": "NM_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "NM-H2",
+            "actual_suboutputs": 1
+          },
+          {
+            "file": "TH_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "TH-R1",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "TH_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "TH-R2",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "TH_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "TH-R3",
+            "actual_suboutputs": 3
+          },
+          {
+            "file": "TH_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "TH-R4",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "TH_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "TH-H1",
+            "actual_suboutputs": 1
+          },
+          {
+            "file": "TH_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "TH-H2",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "TH_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "TH-H3",
+            "actual_suboutputs": 1
+          },
+          {
+            "file": "IY_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "IY-R1",
+            "actual_suboutputs": 3
+          },
+          {
+            "file": "IY_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "IY-R2",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "IY_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "IY-R3",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "IY_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "IY-R4",
+            "actual_suboutputs": 1
+          },
+          {
+            "file": "IY_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "IY-R5",
+            "actual_suboutputs": 3
+          },
+          {
+            "file": "IY_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "IY-H1",
+            "actual_suboutputs": 1
+          },
+          {
+            "file": "IY_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "id": "IY-H2",
+            "actual_suboutputs": 1
+          },
+          {
+            "file": "NM_V2_ACTUAL_AFFECTED_RETESTS.json",
+            "id": "NM-R2",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "NM_V2_ACTUAL_AFFECTED_RETESTS.json",
+            "id": "NM-R6",
+            "actual_suboutputs": 6
+          }
+        ],
+        "independent_execution_bindings": [
+          {
+            "file": "MIMIMI_SIX_INDEPENDENT_ACTUAL_TRACES.json",
+            "id": "PB-MIM01",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "MIMIMI_SIX_INDEPENDENT_ACTUAL_TRACES.json",
+            "id": "PB-MIM02",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "MIMIMI_SIX_INDEPENDENT_ACTUAL_TRACES.json",
+            "id": "PB-MIM03",
+            "actual_suboutputs": 3
+          },
+          {
+            "file": "MIMIMI_SIX_INDEPENDENT_ACTUAL_TRACES.json",
+            "id": "PB-MIM04",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "MIMIMI_SIX_INDEPENDENT_ACTUAL_TRACES.json",
+            "id": "PB-MIM05",
+            "actual_suboutputs": 3
+          },
+          {
+            "file": "MIMIMI_SIX_INDEPENDENT_ACTUAL_TRACES.json",
+            "id": "PB-MIM06",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "TAMA_YUZU_TEN_INDEPENDENT_ACTUAL_TRACES.json",
+            "id": "PB-TAM01",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "TAMA_YUZU_TEN_INDEPENDENT_ACTUAL_TRACES.json",
+            "id": "PB-TAM02",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "TAMA_YUZU_TEN_INDEPENDENT_ACTUAL_TRACES.json",
+            "id": "PB-TAM03",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "TAMA_YUZU_TEN_INDEPENDENT_ACTUAL_TRACES.json",
+            "id": "PB-TAM04",
+            "actual_suboutputs": 3
+          },
+          {
+            "file": "TAMA_YUZU_TEN_INDEPENDENT_ACTUAL_TRACES.json",
+            "id": "PB-TAM05",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "TAMA_YUZU_TEN_INDEPENDENT_ACTUAL_TRACES.json",
+            "id": "PB-YUZ01",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "TAMA_YUZU_TEN_INDEPENDENT_ACTUAL_TRACES.json",
+            "id": "PB-YUZ02",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "TAMA_YUZU_TEN_INDEPENDENT_ACTUAL_TRACES.json",
+            "id": "PB-YUZ03",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "TAMA_YUZU_TEN_INDEPENDENT_ACTUAL_TRACES.json",
+            "id": "PB-YUZ04",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "TAMA_YUZU_TEN_INDEPENDENT_ACTUAL_TRACES.json",
+            "id": "PB-YUZ05",
+            "actual_suboutputs": 3
+          },
+          {
+            "file": "MIMIMI_V2_TWO_INDEPENDENT_ACTUAL_RETESTS.json",
+            "id": "PB-MIM02",
+            "actual_suboutputs": 2
+          },
+          {
+            "file": "MIMIMI_V2_TWO_INDEPENDENT_ACTUAL_RETESTS.json",
+            "id": "PB-MIM05",
+            "actual_suboutputs": 2
+          }
+        ],
+        "Mimimi_V2_exact_only_two_replacements": true,
+        "reviewer_count_correction_semantics_unchanged": true,
+        "reviewer_count_correction_exact_diff": [
+          "--- ",
+          "+++ ",
+          "@@ -119,7 +119,7 @@",
+          "   ],",
+          "   \"fresh_independent_retested_inputs\": 2,",
+          "   \"fresh_independent_suboutputs\": 4,",
+          "-  \"carry_forward\": \"Other four exact frozen independent inputs PB-MIM01/03/04/06 retain ten actual V1 suboutputs for mechanically unchanged mechanisms. They were fully read back and semantically reviewed; they are not relabeled fresh V2 applications. Complete V2body/complete delta acquired and no new impact identified. Original PB-MIM02/05 outputs and no-error observations remain honest initial-review history; later producer wording defect is explicitly preserved here.\",",
+          "+  \"carry_forward\": \"Other four exact frozen independent inputs PB-MIM01/03/04/06 retain nine actual V1 suboutputs for mechanically unchanged mechanisms. They were fully read back and semantically reviewed; they are not relabeled fresh V2 applications. Complete V2body/complete delta acquired and no new impact identified. Original PB-MIM02/05 outputs and no-error observations remain honest initial-review history; later producer wording defect is explicitly preserved here.\",",
+          "   \"V1_status\": \"Superseded model wording candidate, all body/20producer/14independent original suboutputs preserved. Producer found ambiguous model wording; no output time invention was observed.\",",
+          "   \"new_primary_calls\": 0,",
+          "   \"canonical_Git_source_producer_global_writes\": false,"
+        ],
+        "no_sealed_helpers_executed": true
+      }
+    },
+    {
+      "record_id": "root.ROOT_NM_EXACT_BOUNDED_MODEL_ACCEPTANCE.json",
+      "value_kind": "complete_json_semantic_value",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_review_root_20261103/ROOT_NM_EXACT_BOUNDED_MODEL_ACCEPTANCE.json",
+        "bytes": 2144,
+        "sha256": "bdc63cdb102b9750ac0db681baf6f43b6d7b7da885e2fa618caf266015b79913"
+      },
+      "semantic_value_sha256": "927fc6c356429dacb3749a4272f691d4e6bdcb064f89b7dd2429a76d0bbc722e",
+      "value": {
+        "schema": "tomozaki_root_exact_B3_individual_model_acceptance/v1",
+        "utc": "2026-11-04T03:13:34.769303+00:00",
+        "status": "ACCEPTED_EXACT_CURRENT_BOUNDED_PROSE_MODEL_PUBLICATION_PENDING",
+        "selected_model": {
+          "path": ".scratch/constructed_principal_models_b_20261103/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL_V2.md",
+          "bytes": 21897,
+          "sha256": "b60ef7a0b803d7e0354e2f8ad909f23be83e2c9ddad3507e1c75bdf888df38a4"
+        },
+        "root_actual_semantic_acquisition": "Complete current3modelbodies58106B, completeMimimiV2delta/defect, all22initialproducer46suboutputs+2actualretest8suboutputs, fullindependenthuman17632B andall16initial36suboutputs+2actualretest4suboutputs; all unique inputs/standing/access/stakes/mechanisms/outputs/register/abstention/exposure frames acquired. Frozenproducer22criteria previously fully acquired; exact equality now replayed. No fresh primary/full literary reread claim.",
+        "independent_seal": {
+          "path": ".scratch/principal_models_b_independent_review_20261103/FINAL_PRINCIPAL_B_INDEPENDENT_REVIEW_SEAL.json",
+          "bytes": 9062,
+          "sha256": "5874cfff12bd7daba190f32b415cab29c3b921d97e84384d594ff75f9060f6c0"
+        },
+        "root_own_binding_replay": {
+          "path": ".scratch/model_review_root_20261103/ROOT_PRINCIPAL_B_ACTUAL_BINDING_AND_PRESERVATION_REPLAY.json",
+          "bytes": 15718,
+          "sha256": "f0a5539166f5baf42e59ba896bcca021a02a8c52a007d40818c25224fa8717b4"
+        },
+        "finding": "V2 resolves producer NM-D01 timing wording; original body/all actual outputs preserved. Two producer cases/eight suboutputs and two independent inputs/four suboutputs freshly reapplied. Six producer/twelve outputs and four independent/nine outputs explicitly carried, not rerun.",
+        "remaining_material_defect": false,
+        "further_retest_required": false,
+        "scope": "Manual decision/constraint model; known-canon retrospective and hypothetical no-truth-label applications. Selective communicative-act/local written register only; no complete idiolect/freeform Japanese/acoustics/blind accuracy/global grade/sourceOPENclosure/future guarantee/terminal seal.",
+        "canonical_publication": false
+      }
+    },
+    {
+      "record_id": "root.ROOT_TH_EXACT_BOUNDED_MODEL_ACCEPTANCE.json",
+      "value_kind": "complete_json_semantic_value",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_review_root_20261103/ROOT_TH_EXACT_BOUNDED_MODEL_ACCEPTANCE.json",
+        "bytes": 2046,
+        "sha256": "c6f628314cb5e784e3794f06388ec0c111e6553b6a8cc1de833bc7eceb00c47c"
+      },
+      "semantic_value_sha256": "3aac83fccb6bd30b67e32e3191df64687e1d86eec97c9c90f64dd3dec11f76ef",
+      "value": {
+        "schema": "tomozaki_root_exact_B3_individual_model_acceptance/v1",
+        "utc": "2026-11-04T03:13:34.772280+00:00",
+        "status": "ACCEPTED_EXACT_CURRENT_BOUNDED_PROSE_MODEL_PUBLICATION_PENDING",
+        "selected_model": {
+          "path": ".scratch/constructed_principal_models_b_20261103/NATSUBAYASHI_HANABI_BOUNDED_RECONSTRUCTION_MODEL.md",
+          "bytes": 17318,
+          "sha256": "05d27a7901f802719ea3137ef435140eec4d40efafda17fbcf2f23a22fa27d5f"
+        },
+        "root_actual_semantic_acquisition": "Complete current3modelbodies58106B, completeMimimiV2delta/defect, all22initialproducer46suboutputs+2actualretest8suboutputs, fullindependenthuman17632B andall16initial36suboutputs+2actualretest4suboutputs; all unique inputs/standing/access/stakes/mechanisms/outputs/register/abstention/exposure frames acquired. Frozenproducer22criteria previously fully acquired; exact equality now replayed. No fresh primary/full literary reread claim.",
+        "independent_seal": {
+          "path": ".scratch/principal_models_b_independent_review_20261103/FINAL_PRINCIPAL_B_INDEPENDENT_REVIEW_SEAL.json",
+          "bytes": 9062,
+          "sha256": "5874cfff12bd7daba190f32b415cab29c3b921d97e84384d594ff75f9060f6c0"
+        },
+        "root_own_binding_replay": {
+          "path": ".scratch/model_review_root_20261103/ROOT_PRINCIPAL_B_ACTUAL_BINDING_AND_PRESERVATION_REPLAY.json",
+          "bytes": 15718,
+          "sha256": "f0a5539166f5baf42e59ba896bcca021a02a8c52a007d40818c25224fa8717b4"
+        },
+        "finding": "V1 preserves owned learner end and selectivity, reciprocal teaching, practiced craft, actual benefit with distributed cost, actor-specific apologies and absent-reply abstention.",
+        "remaining_material_defect": false,
+        "further_retest_required": false,
+        "scope": "Manual decision/constraint model; known-canon retrospective and hypothetical no-truth-label applications. Selective communicative-act/local written register only; no complete idiolect/freeform Japanese/acoustics/blind accuracy/global grade/sourceOPENclosure/future guarantee/terminal seal.",
+        "canonical_publication": false
+      }
+    },
+    {
+      "record_id": "root.ROOT_IY_EXACT_BOUNDED_MODEL_ACCEPTANCE.json",
+      "value_kind": "complete_json_semantic_value",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_review_root_20261103/ROOT_IY_EXACT_BOUNDED_MODEL_ACCEPTANCE.json",
+        "bytes": 2025,
+        "sha256": "4bb652291c44a516d5e420e0e17815ba7bc101650fde10602d79d278647df3c3"
+      },
+      "semantic_value_sha256": "176986b0a7dbb9e887969831937181f8e7f21e5d4171dbaccf90613adfec21d2",
+      "value": {
+        "schema": "tomozaki_root_exact_B3_individual_model_acceptance/v1",
+        "utc": "2026-11-04T03:13:34.774266+00:00",
+        "status": "ACCEPTED_EXACT_CURRENT_BOUNDED_PROSE_MODEL_PUBLICATION_PENDING",
+        "selected_model": {
+          "path": ".scratch/constructed_principal_models_b_20261103/IZUMI_YUZU_BOUNDED_RECONSTRUCTION_MODEL.md",
+          "bytes": 18891,
+          "sha256": "685c4f9736229b6dd705237f0b266158ae4a99ae40ed068e8db15c45e86344c1"
+        },
+        "root_actual_semantic_acquisition": "Complete current3modelbodies58106B, completeMimimiV2delta/defect, all22initialproducer46suboutputs+2actualretest8suboutputs, fullindependenthuman17632B andall16initial36suboutputs+2actualretest4suboutputs; all unique inputs/standing/access/stakes/mechanisms/outputs/register/abstention/exposure frames acquired. Frozenproducer22criteria previously fully acquired; exact equality now replayed. No fresh primary/full literary reread claim.",
+        "independent_seal": {
+          "path": ".scratch/principal_models_b_independent_review_20261103/FINAL_PRINCIPAL_B_INDEPENDENT_REVIEW_SEAL.json",
+          "bytes": 9062,
+          "sha256": "5874cfff12bd7daba190f32b415cab29c3b921d97e84384d594ff75f9060f6c0"
+        },
+        "root_own_binding_replay": {
+          "path": ".scratch/model_review_root_20261103/ROOT_PRINCIPAL_B_ACTUAL_BINDING_AND_PRESERVATION_REPLAY.json",
+          "bytes": 15718,
+          "sha256": "f0a5539166f5baf42e59ba896bcca021a02a8c52a007d40818c25224fa8717b4"
+        },
+        "finding": "V1 preserves chosen affiliation and public competence while capacity threshold, private agreement, hidden family access and final masked speech remain unestablished.",
+        "remaining_material_defect": false,
+        "further_retest_required": false,
+        "scope": "Manual decision/constraint model; known-canon retrospective and hypothetical no-truth-label applications. Selective communicative-act/local written register only; no complete idiolect/freeform Japanese/acoustics/blind accuracy/global grade/sourceOPENclosure/future guarantee/terminal seal.",
+        "canonical_publication": false
+      }
+    },
+    {
+      "record_id": "root.FINAL_ROOT_PRINCIPAL_B_EXACT_REVIEW_SEAL.json",
+      "value_kind": "complete_json_semantic_value",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_review_root_20261103/FINAL_ROOT_PRINCIPAL_B_EXACT_REVIEW_SEAL.json",
+        "bytes": 2657,
+        "sha256": "3606431dbe2f7c17ac293b2cbf4a5744201a3e01d2041f3d4241755120cf9b7f"
+      },
+      "semantic_value_sha256": "db1c8e99c4b41fca727f7009bea4ec5d2e213636a8c899086bfd46d1b71fd79a",
+      "value": {
+        "schema": "tomozaki_root_B3_exact_review_final_seal/v1",
+        "utc": "2026-11-04T03:13:34.776250+00:00",
+        "state": "SEALED_THREE_SELECTED_BOUNDED_MODELS_ACCEPTED_PUBLICATION_PENDING",
+        "payloads": [
+          {
+            "path": ".scratch/model_review_root_20261103/ROOT_PRINCIPAL_B_ACTUAL_BINDING_AND_PRESERVATION_REPLAY.json",
+            "bytes": 15718,
+            "sha256": "f0a5539166f5baf42e59ba896bcca021a02a8c52a007d40818c25224fa8717b4"
+          },
+          {
+            "path": ".scratch/model_review_root_20261103/ROOT_NM_EXACT_BOUNDED_MODEL_ACCEPTANCE.json",
+            "bytes": 2144,
+            "sha256": "bdc63cdb102b9750ac0db681baf6f43b6d7b7da885e2fa618caf266015b79913"
+          },
+          {
+            "path": ".scratch/model_review_root_20261103/ROOT_TH_EXACT_BOUNDED_MODEL_ACCEPTANCE.json",
+            "bytes": 2046,
+            "sha256": "c6f628314cb5e784e3794f06388ec0c111e6553b6a8cc1de833bc7eceb00c47c"
+          },
+          {
+            "path": ".scratch/model_review_root_20261103/ROOT_IY_EXACT_BOUNDED_MODEL_ACCEPTANCE.json",
+            "bytes": 2025,
+            "sha256": "4bb652291c44a516d5e420e0e17815ba7bc101650fde10602d79d278647df3c3"
+          }
+        ],
+        "producer_seal": {
+          "path": ".scratch/constructed_principal_models_b_20261103/FINAL_PRINCIPAL_B_CONSTRUCTION_HANDOFF_SEAL.json",
+          "bytes": 12057,
+          "sha256": "7561b5396e959beaa5fbb14e0922fc9d632b629c8cb968ed3382323fb3cffad0"
+        },
+        "independent_seal": {
+          "path": ".scratch/principal_models_b_independent_review_20261103/FINAL_PRINCIPAL_B_INDEPENDENT_REVIEW_SEAL.json",
+          "bytes": 9062,
+          "sha256": "5874cfff12bd7daba190f32b415cab29c3b921d97e84384d594ff75f9060f6c0"
+        },
+        "selected_models": [
+          {
+            "path": ".scratch/constructed_principal_models_b_20261103/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL_V2.md",
+            "bytes": 21897,
+            "sha256": "b60ef7a0b803d7e0354e2f8ad909f23be83e2c9ddad3507e1c75bdf888df38a4"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_b_20261103/NATSUBAYASHI_HANABI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 17318,
+            "sha256": "05d27a7901f802719ea3137ef435140eec4d40efafda17fbcf2f23a22fa27d5f"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_b_20261103/IZUMI_YUZU_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 18891,
+            "sha256": "685c4f9736229b6dd705237f0b266158ae4a99ae40ed068e8db15c45e86344c1"
+          }
+        ],
+        "mechanisms": 21,
+        "producer_observed_suboutputs": 54,
+        "independent_observed_suboutputs": 40,
+        "selected_producer_coverage": "22cases46suboutputs with explicit carry-forward",
+        "selected_independent_coverage": "16inputs35suboutputs with explicit carry-forward",
+        "global_and_terminal_pass": false
+      }
+    }
+  ]
+}

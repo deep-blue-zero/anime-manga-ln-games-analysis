@@ -19,7 +19,7 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
   "schema": "t7s-analysis/source-lock/v1",
   "artifact_id": "T7S_SOURCE_LOCK",
   "artifact_type": "source_lock",
-  "version": "12.94",
+  "version": "12.170",
   "generation": "V1",
   "status": "canonical",
   "supersedes": [],
@@ -44,7 +44,7 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
     "resource_revision": 100005,
     "build_version": "Bound by external preservation manifest; no unverified version string supplied"
   },
-  "scope_admission": "Complete235Main with bound inline/choices and280i-n-g/102chapters throughB0181 remain closed unchanged. Complete Intimacy closure 60 primary documents/7 family portfolios throughT7S_B0188; native/menu order is not total chronology. Completed i-n-g checkpoint B0160–B0181 remains22units/66episodes. Remaining289Intimacy/634eligible stories, active supplemental and actually multimodal character/longitudinal/era-release work remain. Full2034active/incomplete;2053blocked. Publication/exact final audit separate.",
+  "scope_admission": "Historical admission throughB0258/SourceLock12.167 preserved below with historical counts: Historical admission throughB0257/SourceLock12.166 preserved below with historical counts: Historical admission throughB0256/SourceLock12.165 preserved below with historical counts: Historical admission throughB0255/SourceLock12.164 preserved below with historical counts: Historical admission throughB0254/SourceLock12.163 preserved below with historical counts: Historical admission throughB0253/SourceLock12.162 preserved below with historical counts: Historical admission throughB0252/SourceLock12.161 preserved below with historical counts: Historical admission throughB0251/SourceLock12.160 preserved below withhistoricalcounts: Historical admission throughB0250/SourceLock12.159 preserved below withhistoricalcounts: Historical admission through B0249/SourceLock12.158 (preserved below with historical counts,not the current remaining statement): Historical admission through B0248/SourceLock12.157 (preserved below with historical counts,not the current remaining statement): Historical admission through B0247/SourceLock12.156 (preserved below with historical counts,not the current remaining statement): Historical admission through B0246/SourceLock12.155 (preserved below with historical counts, not the current remaining statement): Historical admission through B0245/SourceLock12.154 (preserved below with historical counts, not the current remaining statement): Historical admission through B0244/SourceLock12.153 (preserved below, including its historical counts, not the current remaining-count statement): Complete235Main+87inline,280i-n-g/102chapters,349Intimacy/49portfolios,45Short,12Legend/6pairs,9ManyMerryParty,48Birthday and first36Eventdocuments in11originalportfolios retain exact histories. Earlier known-exposures/failures and prospective freezes remain. B0244genuine pre-primary5role/47image acceptance,17capacityvectors/339negativecontrols precede primary;52completechunks,13before-nextcase+2between-family orderings preserve14documents/417pages in5/4/5chapters.1014primary/1101consumed;195Eventdocs/47portfolios,26818active supplemental records/attachments and full2034release remain.283availableWAVbindings/283distinctfiles hashverified/unheard;onlyexactcommand-onlyvo_special_127_018/503012305P24unresolvedinpinnedregistryafterpreservedfailure/freshexactprobe/case-onlysuccessor. NoItem/Choices/InlineMovie;nohearing/runtime/globalabsence/substitutecueclaim. Ordinary-lifeprivacy,NI+CORApressure/partialrepair,andhip-hopdistributedcare/Eiagencycostsretainseparatecausal/epistemic/literarymodels. LaterJacobnameandself-identificationdonotrewriteearlierunnamedfreeze;KajikamessageattributionP16andpartyreportP17remainreported. Noexactyear/Maininsertion/crossfamilycause,readiness/fullAV/erareleasepromotion. AlleightbeforeSourceLockpartsandeightcoveragepayloadsretained;exactoptionalnewledgertailsonlyasactualcompleteaftermanifestsrequire,unchangedcaps,noretirement/trimming.182olderserializedintegritymembersand1576unrelatedeffectivecoverageunchanged. Sourceentryc69fandtree-identicalauditedmain5f13798creconcilewithoutrewritingreceipts. Freshconsumers/enteringbeforelaterprimary;publication/integrationseparate;2053unopened. CURRENT_B0245_ADMISSION: fifteen complete Event documents in three original5/5/5families200310/200320/200330;674native/625written/49command pages,93actual chunks,14before-nextcase/2between-family freezes. Genuine pre-primary5role/50image acceptance with17capacityvectors/394negativecontrols. First51Eventdocuments in14originalportfolios;1029primary/1116consumed;180Eventdocuments/44families,26818active supplementalrecords/attachments and full2034release remain. All551namedWAVbindings resolved/unheard,325selected static/20background/fourtitle-image instances reviewed; Item/Title presences retained, noChoices/InlineMovie/runtime or maturity promotion. Only camp front/back source-explicit continuity; care boundary, limited permission, disputed appraisals and unperformed live remain. All184oldintegrityserializations,1575outside effective records and protected frozen B0244reading/erratum unchanged. B0244departure intention remains qualified by REV44. Exact V3reading/state and semantic/source reviews bound; native gates, publication and integration separate.2053unopened. CURRENT_B0246_ADMISSION: fifteen complete Event documents/original5/5/5families200340/200350/200360,579native/521written/58command pages,108actual chunks,14before-nextcase/2between-family freezes. Genuine pre-primary5role/54image acceptance,17capacityvectors/422negativecontrols. First66Eventdocuments/17portfolios;1044primary/1131consumed;165Event/41families plus26818active supplementalrecords/attachments/full2034release remain. All485availableWAVbindings UNHEARD;five command-only cues/sixcarrierpages remain exact scoped gaps,dialogueallbound.238sprites/20backgrounds/sixTitle occurrences reviewed;Item/Choices/InlineMovie absent. Reports, imagined scenes, provisional plans, recipient objections and differentiated enjoyment retain sources. All185oldintegrityserializations,1575outside effective rows and five frozen/protected documents unchanged. B0244REV44 and full readiness histories current; no completeAV/maturity/era promotion. V4exact reading/state reviews pinned; candidate/native/publication/integration gates remain separate.2053unopened. CURRENT_B0247_ADMISSION: eleven complete Eventdocuments/original2/5/4families200370/200380/200390;550native/510written/40commandpages;85actualchunks,10before-nextcase/2between-familyfreezes. Genuine pre-primary5role/55images,17vectors/426negativecontrols with separately qualifiedpre-executionpreparerV2correction. First77Eventdocuments/20portfolios;1055primary/1142consumed;154Event/38families plus26818active supplementalrecords/attachments/full2034release remain. All402available/distinctWAVs UNHEARD;nineexact unresolved cues/ten carriers:anonymouscomments,PLAYERappraisal,twocommands,Emocoellipsis.136selectedstills(includingoneItem)/15background/sixTitleoccurrences reviewed;Choices/InlineMovie absent. Different motives, localalias, explicitmusic/romance/contactboundaries, contestedauthority/labor and holder-specific reception preserved. All186oldintegrityserializations/1579outsideeffective rows/protected originals unchanged. B0244REV44/fullreadiness histories current; no fullAV/maturity/era promotion. ExactV2reading/state reviewspinned; candidate/native/publication/integration gates separate.2053unopened. CURRENT_B0248_ADMISSION: fifteen complete Eventdocuments/original5/4/6families200400/200410/200420;854native/789written/65commandpages;142actualchunks,14before-nextcase/2between-familyfreezes. Genuine pre-primary5role/59images,17positivevectors/458negativecontrols and actual native proof. First92Eventdocuments/23portfolios;1070primary/1157consumed;139Event/35families plus26818active supplementalrecords/attachments/full2034release remain. All658available/distinctWAVs UNHEARD;threeexact unresolved cues/fourcarriers:Makoto named written ellipses and two unlabelled commands.286selectedstills(includingoneItem)/22background/sixTitleoccurrences reviewed;Choices/InlineMovie/Loop absent. Contributions,camera/body boundaries,assigned roles,chosen theme,reported resources and holder-specific interpretations remain differentiated;Christmaspreparation closes without actualparty. All187oldintegrityserializations/1575outsideeffective rows/protected originals unchanged. B0244REV44/readiness histories current;UNIT0033/0034bounded planned states only;no fullAV/maturity/era promotion. Exactcorrectedreading/state andprivateprecision reviewspinned;candidate/native/publication/integration gates separate.2053unopened. CURRENT_B0249_ADMISSION: seven complete Eventdocuments/original2/1/4families200430/200440/200450;492native/464written/28commandpages;84actualchunks,6before-nextcase/2between-familyfreezes. Genuine November4pre-primary5role/61images,9capacityvectors/456negativecontrols and actual native proof. First99Eventdocuments/26portfolios;1077primary/1164consumed;132Event/32families plus26818active supplementalrecords/attachments/full2034release remain. All421available/distinctWAVs UNHEARD;exactMimiellipsisvo_special_199_01_01_120/P27/506019604 remains unresolved under separately accepted current-case guards;P49cue134cannot substitute.191selectedstills(including14Items)/12background/sixTitleoccurrences reviewed;Choices/InlineMovie/Loop absent. Particular contribution/refusal,attributed public accounts,private thought,reciprocal guidance and imagined future retain holders and source-local chronology. No exact catch,injury,unconsciousness,recovery,completed interview or mutual romance. All188oldintegrityserializations/1583outsideeffective rows/protected originals unchanged. B0244REV44/readiness histories current;no newunit/fullAV/maturity/era promotion. Separate date-only binding uses November5storage dates without changing November4primary gates. Candidate/native/publication/integration gates separate.2053unopened. CURRENT_B0250_ADMISSION: five complete Eventdocuments/original1/2/2families200460/200470/200480;546native/486written/60commandpages;94actualchunks,4before-nextcase/2between-familyfreezes. Genuine pre-primary5role/63images,9capacityvectors/469negativecontrols and separate guarded aggregate adapter/native proof. First104Eventdocuments/29portfolios;1082primary/1169consumed;127Event/29families plus26818active supplementalrecords/attachments/full2034release remain. All493available/distinctWAVs UNHEARD;no current missing named cue;no earlier Mimi exception inherited.195selectedstills(including2Items)/13background/sixTitleoccurrences reviewed;Choices/InlineMovie/Loop absent. Named gratitude,shared practice,qualified rivalry,reported permission,uneven knowledge,dissent and unfinished futures retain holders and source-local chronology. NewUNIT0035 is only the explicitly named temporary contest collective;no permanent band,identity,readiness,performed-AV or era promotion. All189oldintegrityserializations/1585outsideeffective rows/protected originals unchanged. B0244REV44/readiness histories current. Candidate/native/publication/integration gates separate.2053unopened. CURRENT_B0251_ADMISSION: eightcompleteEventdocuments/original2/2/4families200490/200500/200510;632native/587written/45commandpages;101actualparts,7before-nextcase/2betweenfamilyorderings. Genuinepre-primary5role/65images,17capacityvectors/493negativecontrols. First112Eventdocs/32families;1090primary/1177consumed;119Event/26families plus26818supplemental/full2034releaseremain. All490availableWAVsUNHEARD;exactcommand-onlymemory_0217_131at508021704:P54 unresolvedandfreshlyqualified;all479dialoguevoicepagesresolve.232selectedstillsincluding3Items/13backgrounds/6Titleinstances;noChoice/InlineMovie/Loop;runtimeUNOBSERVED. Recognition,particularcontributions,unevenknowledge,gradedassent andpromisedgifts retain source-localchronology. Nonewperson/unit/readiness/performedAV/erapromotion. All190oldintegrityserializations/1582outsideeffectiverows/protectedoriginals unchanged;B0244REV44/B0250separateerratumcurrent. Bothnative/synchronization/publication/integrationgatesseparate;2053unopened. CURRENT_B0252_ADMISSION: threecompleteEventdocuments/originalsingle-documentfamilies200520/200530/200540;620native/514written/106commandpages;95actualparts,2before-nextcase/2betweenfamilyorderings. GenuineNovember5pre-primary5role/66images,17capacityvectors/498negativecontrols;laterNovember6date-onlyacceptanceafterallfreezes,separatefromprimaryauthority. First115Eventdocs/35families;1093primary/1180consumed;116Event/23families plus26818supplemental/full2034releaseremain. All504availableWAVsUNHEARD;exactcommand509022101:P207memory_0218_172andwrittenEmoco511022301:P105vo_ing3_053_01_01_180 unresolvedandseparatelyqualified;501of502writtenvoicepagesresolve.170selectedstillsincluding18Items/18backgrounds/6Titleinstances;noChoice/InlineMovie/Loop;runtimeUNOBSERVED. Reception,privacy,wantedvisits,adaptedplay,namedinitiative,reports,unevenknowledgeandunfinishedfutures retain source-localchronology. Nonewperson/unit/readiness/performedAV/erapromotion. All191oldintegrityserializations/1587outsideeffectiverows/protectedoriginals unchanged;B0244REV44/B0250separateerratumcurrent. Bothnative/synchronization/publication/integrationgatesseparate;2053unopened. CURRENT_B0253_ADMISSION: complete original Eventfamily200550/all6documents/catalog903-908;512native/434written/78commandpages;72actualparts,fivebefore-nextcasefreezesandwholefamilyclosure. GenuineNovember6pre-primary5role/67images,17capacityvectors/511negativecontrols. First121Eventdocs/36families;1099primary/1186consumed;110Event/22families plus26818supplemental/full2034release remain. All306distinctWAVsUNHEARD/no unresolved current-family cue;155sprite/13background/2titleoccurrences;noChoice/InlineMovie/LoopSe/Item;runtimeUNOBSERVED. Sharedattentionstrategy retainsdifferentunderlyinggrievances;separateSaoriroleplay,reportedschoolcorrectionandunevenpublic/backstageknowledge remain source-local. Nonewperson/unit/readiness/performedAV/erapromotion. All192oldintegrityserializations/1584outsideeffectiverows/protectedoriginals unchanged;B0244REV44/B0250separateerratumcurrent. Bothnative/synchronization/publication/integrationgatesseparate;2053unopened. CURRENT_B0254_ADMISSION: complete original Eventfamily200560/all6documents/catalog909-914;640native/574written/66commandpages;103actualparts,fivebefore-nextcasefreezesandwholefamilyclosure. GenuineNovember6pre-primary5role/68images,V2ninecapacityvectors/513negativecontrols;prior V1failure retained. First127Eventdocs/37families;1105primary/1192consumed;104Event/21familiesplus26818supplemental/full2034release remain.503voicecarrierpages/501distinctwaveformsUNHEARD/no currentcuegap;257sprite-object/12background/2titleinstances;noChoice/InlineMovie/LoopSe;Itemretained;runtimeUNOBSERVED. Differentwants andqualifiedgeneralcompletion remain;Yumeno deferredshoot/protestedsolitaryrepeatweekunresolved. No newperson/unit/readiness/performedAV/erapromotion. All193olderintegrityserializations/1584outsideeffectiverows/protectedoriginalsunchanged;B0244REV44/B0250separateerratumcurrent. HistoricalentryFB andlatercurrentexecutionmain remain distinct. Bothnative/publication/integrationgatesseparate;2053unopened. CURRENT_B0255_ADMISSION: complete original Eventfamily200570/all6documents/catalog915-920;545native/464written/81commandpages;82actual complete parts,five before-nextcase freezes and whole-family closure. Genuine November6 pre-primary5role/70images;5vectors/527negative controls;prior prospective capacity and later private-checker failures retained. First133Eventdocs/38families;1111primary/1198consumed;98Event/20families plus26818supplemental/full2034 release remain.370voice-carrier occurrences/368distinct WAVs UNHEARD,no current cue gap;155sprite-object/20background/2title instances;noChoice/InlineMovie;looped SE in1/3;Item in1/2/5;runtimeUNOBSERVED. Three private propositions,real care and interference,shared LeSca wish and distributed work recovery remain distinct;false head premise and Player-origin question persist;Coney gossip unperformed. No new person,unit,readiness,performed AV orera promotion. All194older integrity serializations/1584outside effective rows/protected originals unchanged;B0244REV44/B0250separate erratumcurrent. Original source entry and later current execution remain distinct. Both current native/publication/integration gates separate;2053unopened. CURRENT_B0256_ADMISSION: complete original family200580/515024201-206/catalog921-926;624native/527written/97commandpages;115actual complete parts;ordered cases/whole-family freeze;genuine71image/nine-view/four-snapshot consumers,25positive vectors/544negative controls and reviewed native-v4. Five contests distinguish skill,winning,knowledge and recognition;explicitfriend/family-like acknowledgment coexists with official KARAKURI win and disputed pearl ruling;wager coda retains Ume's scope protest/renewed rivalry. Local Mitsuba/new Yumeno pen-name horizon preserved;no retroactive alias or consent claims.528distinct WAVs/528carriers UNHEARD;120distinct sprites/objects,5backgrounds,2titles across304/11/2instances actually viewed. NoChoice/InlineMovie;Item2/3/4/5;LoopSe1/3;runtimeUNOBSERVED. First139Eventdocs/39families;1117primary/1204consumed;92Event/19families plus26818supplemental/full2034 release remain. All195oldintegrity/1584outside effective rows andprotected originals exact;B0244REV44/B0250separate erratum retained. Original prospective date2026-11-06 distinct from actual close/application/publication timestamps. No newidentity/unit/readiness/era-release promotion;2053closed. CURRENT_B0257_ADMISSION: complete original family200590/516024801-806/catalog927-932;809native/707written/102commandpages;129actual complete parts;ordered cases/whole-family freeze;genuine71image/nine-view/four-snapshot consumers and prospective reviewed source/current007/ledger/native capability. The four become able to stop this feud when they cease trying either to win its terms or to hide inside a borrowed role and instead create a shared occasion with the people before them. That change requires Rona judgment, Hime continuing concern, Murasaki and Matsuri practical participation, and reciprocal audience action. The public end declaration is real within the scene, while its durability remains open. The arcade restores play but creates an unwanted leadership demand; the office restores professional selection and delivers rejection. These distinct outcomes preserve agency, uneven knowledge and institutional judgment rather than compressing the family into uncomplicated growth. 468distinct WAVs/468carriers UNHEARD;89distinct sprites/objects,13backgrounds,2titles across209/22/2instances actually viewed. NoChoice/InlineMovie;Item1/3/6;LoopSe6;runtimeUNOBSERVED. First145Eventdocs/40families;1123primary/1210consumed;86Event/18families plus26818supplemental/full2034 release remain. All196oldintegrity/1584outside effective rows andprotected originals exact;B0244REV44/B0250separate erratum retained. Original prospective date2026-11-07 distinct from actual close/application/publication timestamps. Threeexplicit localidentity/character routes;no newunit/readiness/era-release promotion;2053closed. CURRENT_B0258_ADMISSION: complete original family200600/517025401-406/catalog933-938;693native/576written/117command pages;110 actual complete parts;ordered case exits/whole-family freeze;genuine73-image/nine-view/four-snapshot consumers with reviewed source/current006-current007/ledger/native capability. The story neither makes encouragement sufficient for mastery nor makes limited skill equivalent to failure. The sisters' work, 4U's hidden contribution and the audience's pleasure can all matter while remaining different facts. Care moves through instruction, food, labor, gifts and a still-unwritten thank-you message; its warmth does not erase intrusion, cost or refusal. The temporary band's announced ending permits return to ordinary affiliation without cancelling what its participants learned or gave one another. All530 distinct WAVs/530 named carriers UNHEARD;79 distinct sprites/objects (72 sprites/7 objects),14 backgrounds,2 titles across206/24/2 review instances actually viewed. NoChoice/InlineMovie;Item1/3/4/5/6;LoopSe2/6;runtime UNOBSERVED. First151 Event documents/41 families;1129primary/1216consumed including87inline;80Event/17families plus26818supplemental/full2034 release remain. All197 old integrity serializations/1584 outside effective rows and protected originals remain exact. B0244REV44 and separate B0250 care erratum retain their horizons. B0258 adds the temporary YonhonRibon UNIT0036 and appended paired old-unit reference qualification/REV0045;no new person,READY or era-release promotion. Original prospective date2026-11-07 remains distinct from actual close/application/publication times;2053 remains closed. CURRENT_B0259_ADMISSION: complete original family200610/518026001-006/catalog939-944;506native/434written/72command pages;83actual complete text/native chunks;ordered case/family freezes;genuine74-image/nine-view/four-snapshot consumers. This block concerns exactly the six original documents of NM-EVENT-200610 and their complete local family relation. Each frozen case retains the knowledge available at its own exit. Character descriptions of success, failure, possession, happiness and a known method keep their speakers and degrees of support; none becomes an unrestricted narrator judgment. Closing the source family for textual analysis leaves performed-voice and runtime questions, historical readiness limits and the remaining 2034 release work open. All403named WAV resources (396dialogue+7non-dialogue) remain UNHEARD;38text turns have no named original dialogue cue. 195 selected sprite/object, 17 background and 2 title review instances; 90 distinct sprite/object, 10 background and 2 title resources actually viewed. No authored choices or inline movies;runtime UNOBSERVED. First157Event documents/42families;1135primary/1222consumed including87inline;74Event/16families plus26818supplemental/full2034 release remain. All198old integrity serializations/1584outside effective rows and protected originals remain exact. Original prospective date2026-11-07 remains distinct from actual close/application/publication times;2053 remains closed. CURRENT_SOLO_STAGE_TEXT_INTEGRATION accounts for 196 exact members of SUPP-solo_stage_message-ALL-v1 under four native conditions with a null narrative horizon. There are 26,622 active supplemental records or attachments remaining. The sequential narrative high-water is now T7S_B0260. T7S_B0260 closes one complete original Event member, NM-EVENT-200620/519026601/catalog 945, with 244 native pages after the exact integrated B0259 boundary. The 2034 release remains in progress.",
   "analysis_horizon": {
     "closed_blocks": [
       "T7S_B0001",
@@ -234,7 +234,79 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
       "T7S_B0185",
       "T7S_B0186",
       "T7S_B0187",
-      "T7S_B0188"
+      "T7S_B0188",
+      "T7S_B0189",
+      "T7S_B0190",
+      "T7S_B0191",
+      "T7S_B0192",
+      "T7S_B0193",
+      "T7S_B0194",
+      "T7S_B0195",
+      "T7S_B0196",
+      "T7S_B0197",
+      "T7S_B0198",
+      "T7S_B0199",
+      "T7S_B0200",
+      "T7S_B0201",
+      "T7S_B0202",
+      "T7S_B0203",
+      "T7S_B0204",
+      "T7S_B0205",
+      "T7S_B0206",
+      "T7S_B0207",
+      "T7S_B0208",
+      "T7S_B0209",
+      "T7S_B0210",
+      "T7S_B0211",
+      "T7S_B0212",
+      "T7S_B0213",
+      "T7S_B0214",
+      "T7S_B0215",
+      "T7S_B0216",
+      "T7S_B0217",
+      "T7S_B0218",
+      "T7S_B0219",
+      "T7S_B0220",
+      "T7S_B0221",
+      "T7S_B0222",
+      "T7S_B0223",
+      "T7S_B0224",
+      "T7S_B0225",
+      "T7S_B0226",
+      "T7S_B0227",
+      "T7S_B0228",
+      "T7S_B0229",
+      "T7S_B0230",
+      "T7S_B0231",
+      "T7S_B0232",
+      "T7S_B0233",
+      "T7S_B0234",
+      "T7S_B0235",
+      "T7S_B0236",
+      "T7S_B0237",
+      "T7S_B0238",
+      "T7S_B0239",
+      "T7S_B0240",
+      "T7S_B0241",
+      "T7S_B0242",
+      "T7S_B0243",
+      "T7S_B0244",
+      "T7S_B0245",
+      "T7S_B0246",
+      "T7S_B0247",
+      "T7S_B0248",
+      "T7S_B0249",
+      "T7S_B0250",
+      "T7S_B0251",
+      "T7S_B0252",
+      "T7S_B0253",
+      "T7S_B0254",
+      "T7S_B0255",
+      "T7S_B0256",
+      "T7S_B0257",
+      "T7S_B0258",
+      "T7S_B0259",
+      "T7S_B0260"
     ],
     "in_progress_blocks": [],
     "consumed_sources": [
@@ -7319,3462 +7391,5617 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
         ],
         "choice_scope": "NONE",
         "canonical_artifact": "02 Readings/T7S_B0188_DEEP_READING.md"
-      }
-    ],
-    "next_candidate_episode_id": "401000075",
-    "next_candidate_native_chapter_layer_id": null,
-    "next_candidate_status": "AUTHORIZED_B0189_NM-INTIMACY-200640_COMPLETE_FAMILY_UNREAD; full2034 active",
-    "authorized_story_boundary_complete": false,
-    "next_candidate_family_layer_id": "200640",
-    "next_candidate_portfolio_route_key": "NM-INTIMACY-200640"
-  },
-  "collection_manifest": {
-    "sha256": "f8127e578c3e350fca526b3f60315cedce2ef5de82d456d92962ca19364877b1",
-    "bytes": 1096631
-  },
-  "database": {
-    "sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
-    "bytes": 5864910848,
-    "schema": "t7s-query-index/1",
-    "normalized_schema": "t7s-normalized-scenario/1",
-    "verification": "FULL_FILE_SHA256_MATCH_AT_BOOTSTRAP_AND_B0002_B0003_AND_B0003_CHAPTER_CLOSE_AND_B0004_CHAPTER_CLOSE_AND_B0005_CHAPTER_CLOSE_AND_B0006_CHAPTER_CLOSE_AND_B0007_OPENING_PREFLIGHT_AND_B0007_CHAPTER_CLOSE_PREFLIGHT_AND_B0008_CHAPTER_CLOSE_PREFLIGHT_AND_B0009_CHAPTER_CLOSE_PREFLIGHT_AND_B0010_OPENING_PREFLIGHT_AND_EPISODE_1_0_CLOSE_PREFLIGHT_AND_EPISODE_4U_CLOSE_PREFLIGHT_AND_NEXT_TWO_UNITS_CLOSE_PREFLIGHT_AND_EPISODE_3_0_CLOSE_PREFLIGHT_AND_EPISODE_4_0_AXIS_CLOSE_PREFLIGHT_AND_EPISODE_0_0_CLOSE_PREFLIGHT_AND_EPISODE_0_7_CLOSE_PREFLIGHT_AND_EPISODE_5_0_CLOSE_PREFLIGHT_AND_EPISODE_6_0_CLOSE_PREFLIGHT_AND_EPISODE_NANASUTA_CLOSE_PREFLIGHT"
-  },
-  "episode_catalog": {
-    "artifact_id": "corpus:catalog/episodes.jsonl",
-    "scope": "corpus",
-    "role": "catalog_authority",
-    "size": 7810590,
-    "sha256": "cda29102ec76a4242bcbb194a37a12453510e7ca6ccffe5478e4f1358b18e625"
-  },
-  "source_artifact_manifest": {
-    "artifact": "source_artifacts.json",
-    "sha256": "7c0ac41509af9520a98129d924e42654a515ba3818683bd679f72342b3a191e5",
-    "bytes": 569048
-  },
-  "source_artifact_manifest_recipe": {
-    "query": "SELECT * FROM source_artifacts ORDER BY artifact_id COLLATE BINARY",
-    "serialization": "array of objects in SQLite column order; Python json.dumps(ensure_ascii=False, indent=2), final LF, UTF-8 without BOM",
-    "scope_resolution": "archive, corpus, media roots configured outside Git; reject path escape"
-  },
-  "masters": [
-    {
-      "table": "m_scenario",
-      "sha256": "0409286e46697e8bfe474ec607b01c7065107ae1f0e4e161c4b316a49b129c65",
-      "bytes": 531744,
-      "rows": 1350
-    },
-    {
-      "table": "m_scenario_layer",
-      "sha256": "5fac27e3e6bea2381b29eaf95a72e5c5f1c78af502554b1b0cb62106dcefafdc",
-      "bytes": 169172,
-      "rows": 462
-    },
-    {
-      "table": "m_character",
-      "sha256": "dbda7389df987ffe150500efa0d33c6af59c734cdcd835c2ccf83c561e19f5cd",
-      "bytes": 53055,
-      "rows": 74
-    },
-    {
-      "table": "m_live_music",
-      "sha256": "c2bc4a78f7f466e05d322839106cf2ad11c59b4eac2fe038619f13a17e5c684d",
-      "bytes": 82388,
-      "rows": 229
-    },
-    {
-      "table": "m_live_music_meta",
-      "sha256": "0960e010321f8ec6486f4a1d7cab10daa43de64160f1fc3108b398b5f69e2606",
-      "bytes": 411962,
-      "rows": 217
-    }
-  ],
-  "supplemental_tranches": [
-    {
-      "namespace": "card_message",
-      "count": 25711,
-      "membership_sha256": "453e0d1ff03b844eca5bc14d33971cf2f13b2d8a7a568cd12225fb374f92af82",
-      "encoding": "UTF-8, no BOM, LF; canonical_id BINARY order; one ID per line, final LF",
-      "query": "SELECT canonical_id FROM supplemental_text WHERE namespace=:namespace ORDER BY canonical_id COLLATE BINARY",
-      "parameters": {
-        "namespace": "card_message"
-      }
-    },
-    {
-      "namespace": "character_voice",
-      "count": 5072,
-      "membership_sha256": "3325a8aae6e87f324a58c519c97e6178c44a5520e318d6bae1458cd8056f30ae",
-      "encoding": "UTF-8, no BOM, LF; canonical_id BINARY order; one ID per line, final LF",
-      "query": "SELECT canonical_id FROM supplemental_text WHERE namespace=:namespace ORDER BY canonical_id COLLATE BINARY",
-      "parameters": {
-        "namespace": "character_voice"
-      }
-    },
-    {
-      "namespace": "eplive_navigation",
-      "count": 7,
-      "membership_sha256": "46bad0dab6001391c29b4392594f2fa8057ac0716973c132fc835197e97a0dac",
-      "encoding": "UTF-8, no BOM, LF; canonical_id BINARY order; one ID per line, final LF",
-      "query": "SELECT canonical_id FROM supplemental_text WHERE namespace=:namespace ORDER BY canonical_id COLLATE BINARY",
-      "parameters": {
-        "namespace": "eplive_navigation"
-      }
-    },
-    {
-      "namespace": "solo_stage_message",
-      "count": 196,
-      "membership_sha256": "654fa6ec270c3baf262e6beb23c72f43762c751bad5de9217226aad8a63de0a3",
-      "encoding": "UTF-8, no BOM, LF; canonical_id BINARY order; one ID per line, final LF",
-      "query": "SELECT canonical_id FROM supplemental_text WHERE namespace=:namespace ORDER BY canonical_id COLLATE BINARY",
-      "parameters": {
-        "namespace": "solo_stage_message"
-      }
-    },
-    {
-      "namespace": "tutorial_ui_message",
-      "count": 5,
-      "membership_sha256": "d78d0fa1753c75bed104422cff5246cb9d97fb66c94459b675bf85dd2eaeaa15",
-      "encoding": "UTF-8, no BOM, LF; canonical_id BINARY order; one ID per line, final LF",
-      "query": "SELECT canonical_id FROM supplemental_text WHERE namespace=:namespace ORDER BY canonical_id COLLATE BINARY",
-      "parameters": {
-        "namespace": "tutorial_ui_message"
-      }
-    }
-  ],
-  "counts": {
-    "catalog_episodes": 1350,
-    "Main": 364,
-    "Sub": 755,
-    "Event": 231,
-    "scenario_resources": 1578,
-    "additional_scripts": 228,
-    "text_records": 94457,
-    "catalog_text_records": 91523,
-    "pages": 110527,
-    "supplemental_records": 30991,
-    "media_assets": 95395,
-    "wav": 69520,
-    "images": 25688,
-    "movies": 187,
-    "native_wave_identities": 69647,
-    "logical_movie_resources": 189,
-    "media_relation_rows": 699298
-  },
-  "collection_seal_scope": {
-    "output_files": 112440,
-    "output_bytes": 82983925341,
-    "output_scopes": 6,
-    "evidence_artifacts": 2023,
-    "meaning": "canonical collection output counts, not raw acquisition counts"
-  },
-  "capabilities": {
-    "native_text": "Native Japanese wording, presence flags and page/command context; no automatic resolved identity",
-    "media": "Canonical decoded assets and native candidate/occurrence links; no universal timing or playback proof",
-    "lyrics": "215 nonempty of 217 m_live_music_meta records; game-master wording, not full-recording alignment",
-    "runtime_validation": "Historical four-script sample: 49 unique observed pages, 47 dialogue and 2 title; not complete playback"
-  },
-  "integrity": {
-    "b0188_close_verification": {
-      "operation": "T7S_B0188_CLOSE",
-      "checked_at": "2026-10-14",
-      "status": "PASS_BOUNDED_ORDINARY_LIFE_TEXT_NATIVE_AND_STATIC_REVIEW",
-      "portfolio_route_key": "NM-INTIMACY-200490",
-      "native_character_family_id": "200490",
-      "episode_ids": [
-        "401000068",
-        "401000353",
-        "401000392",
-        "401000456",
-        "401000638",
-        "401000726",
-        "401000986",
-        "401001070",
-        "401001258"
-      ],
-      "source_bindings": [
-        {
-          "episode_id": "401000068",
-          "script_id": "intimate_0068.json__33498f53071d1830",
-          "source_sha256": "18aa6fb1a44e7141d71e97ee3b15591ce6b3b713e4ba40228d2372e3dd8f4654",
-          "decoded_sha256": "0fdcbb17255b576eb77239540212ed311e7e432fb822d5cffff4c9508c5e3e48",
-          "normalized_sha256": "17a8af392896a912194953fe22346306820085e1c4f7664592c86021a3aea796",
-          "structured_sha256": "17a8af392896a912194953fe22346306820085e1c4f7664592c86021a3aea796",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000353",
-          "script_id": "intimate_0353.json__33e328c2466eb0f3",
-          "source_sha256": "bc5ea21607b455a944d6c9b8aa846daa89c525a126f9e1567e70805bdb73571e",
-          "decoded_sha256": "69252c7ca8ba6a113d10ff809fc0c2fb7eb327c36f5833761d010f45b162462b",
-          "normalized_sha256": "58431d74acf220ac01e125bd5838ab2bd63a7c3ede05ff1ab70e847d57824d6f",
-          "structured_sha256": "58431d74acf220ac01e125bd5838ab2bd63a7c3ede05ff1ab70e847d57824d6f",
-          "pages": 4,
-          "text_records": 3,
-          "command_only_pages": 1,
-          "voice_pages": 3,
-          "native_pages_verified": 4
-        },
-        {
-          "episode_id": "401000392",
-          "script_id": "intimate_0392.json__95e992629ba17886",
-          "source_sha256": "1c6fdb82c658383881703f1cca5621d1d562d6a39badaab84f6023e41f58444e",
-          "decoded_sha256": "69d1cc7c2d3cdba1d3a1ffc5dea0236be72346e9e31c01c7912a82f30806e432",
-          "normalized_sha256": "60a0b3f7334fe9a0d752dedf4021fd94c341517a5cb1c4ad3dd5685c1d0024a9",
-          "structured_sha256": "60a0b3f7334fe9a0d752dedf4021fd94c341517a5cb1c4ad3dd5685c1d0024a9",
-          "pages": 5,
-          "text_records": 4,
-          "command_only_pages": 1,
-          "voice_pages": 4,
-          "native_pages_verified": 5
-        },
-        {
-          "episode_id": "401000456",
-          "script_id": "intimate_0456.json__856ac24206ce9fd6",
-          "source_sha256": "51dfc867d7c05d6bd7c229fe09fe311792700f808a8f40ddfcd9f7cee808f640",
-          "decoded_sha256": "ecf60a0a41f5e20bdb68068d47b0d3998b690ac934c3eeae53ef4b553901e8ae",
-          "normalized_sha256": "3eb323afde8e017fac2561c02e2b79e65217175969bcdb863c5856eca34ba20a",
-          "structured_sha256": "3eb323afde8e017fac2561c02e2b79e65217175969bcdb863c5856eca34ba20a",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000638",
-          "script_id": "intimate_0638.json__e785490dd0566ef0",
-          "source_sha256": "dc60022733c74de7b3fde1852593c64413ae322976f0d90e92150c4d50fb55d7",
-          "decoded_sha256": "24cfc582cbfad96c630077e18912a0dfbd250109768130ea99885ad536604ee7",
-          "normalized_sha256": "03b3ed0ed0d34af3205ecc4456669798cb87efc0b92b8127a613254ca7a0982a",
-          "structured_sha256": "03b3ed0ed0d34af3205ecc4456669798cb87efc0b92b8127a613254ca7a0982a",
-          "pages": 5,
-          "text_records": 4,
-          "command_only_pages": 1,
-          "voice_pages": 4,
-          "native_pages_verified": 5
-        },
-        {
-          "episode_id": "401000726",
-          "script_id": "intimate_0726.json__19d2b3230557b6ef",
-          "source_sha256": "80dcdb2fa32cfab5d0d0c5cf66f31f9715092a4e5a79812c797f76469bce69e2",
-          "decoded_sha256": "647b06802ed10469af953402d4d1e93d65a88a44535b1a2070ea11bd40adb84b",
-          "normalized_sha256": "74682805042669a32d8ac7a186afe249ba8aac0ed5e87d87f0e9b52f357f1d98",
-          "structured_sha256": "74682805042669a32d8ac7a186afe249ba8aac0ed5e87d87f0e9b52f357f1d98",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000986",
-          "script_id": "intimate_0986.json__2f7a20a64820a307",
-          "source_sha256": "fab672203db5cc602258e48599cbc9c4582f62b5d50f9e74925d2d3bfd3a84d7",
-          "decoded_sha256": "640a04c0c2d5f2f27e37ba9cf0f8c4a103a1973918f2b6b222aef2f6334c9ad0",
-          "normalized_sha256": "118f819d2accfe1d05feeac7e211fe204f3d88ca285d465a427827d99922f1b7",
-          "structured_sha256": "118f819d2accfe1d05feeac7e211fe204f3d88ca285d465a427827d99922f1b7",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001070",
-          "script_id": "intimate_1070.json__84ee29342c5c5c5a",
-          "source_sha256": "1ee58d9c9147543c8a0f60a177f8c2d672e8703083423832751e6c57330fabe2",
-          "decoded_sha256": "827216e782c053bf57c53298ca045c68e73e088e6a35f1dadc074b1b30b19a78",
-          "normalized_sha256": "597f23ecfe6dd5c103972a28c3712004f19298669043a0838ba144a418381ce9",
-          "structured_sha256": "597f23ecfe6dd5c103972a28c3712004f19298669043a0838ba144a418381ce9",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001258",
-          "script_id": "intimate_1258.json__f8fe27425cc4371f",
-          "source_sha256": "0775580341fd7a7bbbda3ee496b33c323600cd24dbb3d784a42864fb3aaa1ef1",
-          "decoded_sha256": "ca7b7e638e9e09273cea4c547c00aa3d96ab8405507caaedf54e93162f50f3bf",
-          "normalized_sha256": "c2b96092570df3da89b793884abec20812acca4425adfaddcba2c731485d9f47",
-          "structured_sha256": "c2b96092570df3da89b793884abec20812acca4425adfaddcba2c731485d9f47",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        }
-      ],
-      "totals": {
-        "pages": 50,
-        "text_records": 41,
-        "command_only_pages": 9,
-        "voice_pages": 41,
-        "visual_refs": 287
       },
-      "voice_count_basis": "Distinct dialogue-associated log-order references; any title carriers separately reviewed; no listening",
-      "native_packet_sha256": "fa29fbc96485b562cab635645f4809867497700ef0da389c534c7a2792891bca",
-      "dialogue_packet_sha256": "8470594c8073e5591d8da24c35dd2d83bd0e1014687984123e81f5364fb39d8c",
-      "entering_repository_head": "f9f8af633c15aceb643d00f7456158702bd33109",
-      "entering_repository_tree": "6a9326280a58e7da120e603b9045b9995387096b",
-      "entering_source_lock_version": "12.93",
-      "entering_source_lock_logical_sha256": "9dd8ade74c902027eb0a2a3b9ef185be35df2591510c959ab97ebfc104668235",
-      "entering_source_lock_physical_owner_sha256": "75cda47eb35b089831df9b0badfb18938dc8fc9cdbf329027e3072bd4ed190a3",
-      "entering_source_high_water": "T7S_B0187",
-      "prospective_boundary_sha256": "e2ba64eba5642678028a62f8d3aa51a03bb3eba1bb91a6e5a2bb9c165dbd85e3",
-      "evidence_receipt_sha256": "7384395ef2d0057b60699d805df4348e574bc687c7fcf49a83f34a36822dc96e",
-      "native_fields_projection_sha256": "5e1e5d073341c98c7b39f36af6f4fd00cbb74621d7ac92c9fbc2ea7072598868",
-      "actual_root_review_sha256": "0ed935a657d90d35f2f6117b64bc74fe924419149b17daa67577955d795c1c9d",
-      "native_segment_review_sha256": "f5c153f768140c92df4bc03728c6e4558c1a47285fcea785a4d3496ccf5fccc9",
-      "reading_sha256": "58a534a5bbda3974857a66222c6330fc6e3147084e448b737466705f10dcff33",
-      "literal_authored_state_sha256": "e6d0b53c766b6f55e5329536e5b4e31bc4ef63c0593086d9fd6fd2a0d31eb1ad",
-      "visual_assets": [
-        {
-          "resource": "adv_chara_006_15_01",
-          "body": "adv_chara_006_15.png",
-          "body_sha256": "68a500c443345907480e25a460808203afd5f9fde716e142096f9beff8485105",
-          "face": "adv_chara_006_15_01.png",
-          "face_sha256": "f0b4ac890758947d8c9d96bbe5586eb8a06696cf88dc64fc805a27d544c71519",
-          "native_face_offset": [
-            134,
-            91
-          ],
-          "output_sha256": "bea983315b2686de373860a4d603b81e90f55b9527cbda27ecbc187c754a4790"
-        }
-      ],
-      "original_background_static_bindings": {
-        "status": "ACTUALLY_VIEWED_STATIC_ONLY",
-        "source_binding_receipt_sha256": "b03ea9dfb60a3cd7f6776334ae36c69bb297a5d14fb88fdd02ac67b999ed9535",
-        "count": 4,
-        "assets": [
-          {
-            "resource": "bg_002.jpg.enc",
-            "sha256": "3b75aaa618dfb3885f414f4d31ef9d1cc899dec37c1c50cb408fc8f4ba00c36f",
-            "representative_native_occurrence": {
-              "episode_id": "401000392",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_005.jpg.enc",
-            "sha256": "3fb088b1b9a764fd96643d5c694f8d157c82b9c8d85fb85073c037b8e57aec14",
-            "representative_native_occurrence": {
-              "episode_id": "401001070",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_027.jpg.enc",
-            "sha256": "aaa8fc18ee895582385f24f650f5990675f03d1dcd40e32eec1de4c89f0e5b36",
-            "representative_native_occurrence": {
-              "episode_id": "401000726",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_029.jpg.enc",
-            "sha256": "ad7723032f9909e830947909a38225e70864874e394f9d51c862ad084d042349",
-            "representative_native_occurrence": {
-              "episode_id": "401000068",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          }
-        ]
-      },
-      "coverage_effective_state_sha256": "b89495fa3effc8526972def7ee31c3b46ebfef541e00d8c726f9084305a505a5",
-      "execution_record": "09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md",
-      "entity_storage_append": {
-        "entering_manifest_sha256": "4b5661c1631925ee876476f6731cefc7181bee3392bce73afe82d3e245b90691",
-        "entering_logical_sha256": "06dcf7ce47048251004e39967b38a0994c0b9b4294db58870309238860101b9d",
-        "closing_manifest_sha256": "a0e1df35de90a28cd1ecb9246c6f5b18421c33ce0c296a8b908301b2c3c42741",
-        "closing_logical_sha256": "25061db28c60402e20978bcdc126b48ec5f671a154f69fbf509bced46bb85ef5",
-        "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
-        "sealed_older_components_byte_exact": true
-      },
-      "control_storage_append": {
-        "entering_logical_source_lock_sha256": "9dd8ade74c902027eb0a2a3b9ef185be35df2591510c959ab97ebfc104668235",
-        "entering_physical_owner_sha256": "75cda47eb35b089831df9b0badfb18938dc8fc9cdbf329027e3072bd4ed190a3",
-        "entering_coverage_manifest_sha256": "5735cdb25776298debd332a3d318351d97547af4d5f6840721593eb782f7d0a9",
-        "closing_coverage_manifest_sha256": "b247040a6d21963f96f665081bfd1bec86357e09c305d22490d149ccb3b51ec9",
-        "all_older_integrity_serialized_bytes": "BYTE_EXACT",
-        "administrative_storage_history": "UNCHANGED",
-        "logical_reader_required": true
-      },
-      "source_menu_and_chronology": "Complete independent conditional Intimacy occurrences; menu/source/priority order routes execution only; no total chronology.",
-      "boundary": "Actually bounded Japanese/native and selected static review; no performed voice/music/SFX listening, runtime, monograph maturity, full2034completion or2053admission."
-    },
-    "b0187_close_verification": {
-      "operation": "T7S_B0187_CLOSE",
-      "checked_at": "2026-10-14",
-      "status": "PASS_BOUNDED_ORDINARY_LIFE_TEXT_NATIVE_AND_STATIC_REVIEW",
-      "portfolio_route_key": "NM-INTIMACY-200530",
-      "native_character_family_id": "200530",
-      "episode_ids": [
-        "401000057",
-        "401000061",
-        "401000412",
-        "401000468",
-        "401000674",
-        "401000702",
-        "401000946",
-        "401001018",
-        "401001146"
-      ],
-      "source_bindings": [
-        {
-          "episode_id": "401000057",
-          "script_id": "intimate_0057.json__a295ab4cd44762ac",
-          "source_sha256": "1eef4f20a08c618d8b416fe941010e6934bacacd248e38c079bacf3f397848f6",
-          "decoded_sha256": "85c8cc4c315f1a353ed35081e8acc1d4043b220e64f7d19446ad2aa90de86af4",
-          "normalized_sha256": "496dfabf503c625aa7345ae75fff389409fdb4de085119982756e7c2d7dcc191",
-          "structured_sha256": "496dfabf503c625aa7345ae75fff389409fdb4de085119982756e7c2d7dcc191",
-          "pages": 4,
-          "text_records": 3,
-          "command_only_pages": 1,
-          "voice_pages": 3,
-          "native_pages_verified": 4
-        },
-        {
-          "episode_id": "401000061",
-          "script_id": "intimate_0061.json__4ff955c76e44cb08",
-          "source_sha256": "90f04affdb6cd9072e6aa7301080b223fd4f033477daa502cfda0ab74aa7e2d4",
-          "decoded_sha256": "594e24e1e32c81d8711230da5dbee46bb8baf21214040075e95a65e9a0b56350",
-          "normalized_sha256": "572ebadd715abe4a3b3678ff77f6076f4f01ba80d242b7482d1730b86502a9ef",
-          "structured_sha256": "572ebadd715abe4a3b3678ff77f6076f4f01ba80d242b7482d1730b86502a9ef",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000412",
-          "script_id": "intimate_0412.json__1fd20756382b6609",
-          "source_sha256": "013df862364271dc200b5b7f096bd8beba17efb96169f832f14bf23071b0745a",
-          "decoded_sha256": "fb07675b68bc6dd6dc8bb4a7680a43b46e8c0bd3c032d14ba7100b3e7841d6ae",
-          "normalized_sha256": "4655253947d4de2022ec336a4540300ef0cdda1041f2a1b0f43fc363cee2e9c8",
-          "structured_sha256": "4655253947d4de2022ec336a4540300ef0cdda1041f2a1b0f43fc363cee2e9c8",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000468",
-          "script_id": "intimate_0468.json__306be21cdf4f0d51",
-          "source_sha256": "04290016ef89bb1baddfaaad9d72903743e1998aa663d93dd08b728125c6c8a8",
-          "decoded_sha256": "8a1e8782c7411f9eacc6234be016b2ba5bb6357d781361cbdc82f1ff688ce69b",
-          "normalized_sha256": "0c448c7129f1c89cec4154e4191a32ea5edf66a1f5d688c41727b41461e2a235",
-          "structured_sha256": "0c448c7129f1c89cec4154e4191a32ea5edf66a1f5d688c41727b41461e2a235",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000674",
-          "script_id": "intimate_0674.json__b76b307c52c1076f",
-          "source_sha256": "b4a79287a67aecbb3a849ff7e9031f68fcf3c66672af694ba37aeb93aefcfd33",
-          "decoded_sha256": "f792ca6991fb5dcf582580198b2c4a8065dcc04490713e89a55ada61981422e9",
-          "normalized_sha256": "361c89221fc656dbdc279f053111116b3a28c8ba5d8c8660a78c32ddf34a5fa5",
-          "structured_sha256": "361c89221fc656dbdc279f053111116b3a28c8ba5d8c8660a78c32ddf34a5fa5",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000702",
-          "script_id": "intimate_0702.json__dfb8894520f28384",
-          "source_sha256": "2e55f699975c1eb15ada1c546377f66854ca3e7fb0c60684f653b3cf60d22298",
-          "decoded_sha256": "e1c303e7bf07d556310646036a8ef10abef1d018b81f53c3166ba1824dadd511",
-          "normalized_sha256": "242f9aa9a09494b9f3e48cb840b4a8c6e72ab3b15ad2a79e7addc248cad65b05",
-          "structured_sha256": "242f9aa9a09494b9f3e48cb840b4a8c6e72ab3b15ad2a79e7addc248cad65b05",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000946",
-          "script_id": "intimate_0946.json__812859df24d66847",
-          "source_sha256": "ea1f4b26bf74bc4f977c547da5ce379a0aac1a7015098036fe6177681c9737aa",
-          "decoded_sha256": "4c67a8001ce6729c1bdb6ea39330f0360417b11a5349f65dcdc88f435665b2d1",
-          "normalized_sha256": "e145ac028bdfe9a9741c9f2c61b587253255c4043bc66d61d6aec3fb990a0c01",
-          "structured_sha256": "e145ac028bdfe9a9741c9f2c61b587253255c4043bc66d61d6aec3fb990a0c01",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001018",
-          "script_id": "intimate_1018.json__7ea4b19b6abcef88",
-          "source_sha256": "a93db77948c49ab97fd597a955ea098c13a868ba9d9ae2c22027a6d7bb3f9ae9",
-          "decoded_sha256": "d95a65d8aac0764dc669df3a541327c20f0dca84f234df7aeeaf21cae33e5713",
-          "normalized_sha256": "df478c54d53a8b4c08c97d34bb66fb8a5a962f43d78d4386b2b6abb1e2f31336",
-          "structured_sha256": "df478c54d53a8b4c08c97d34bb66fb8a5a962f43d78d4386b2b6abb1e2f31336",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001146",
-          "script_id": "intimate_1146.json__5a9fe5e6ba8669c3",
-          "source_sha256": "fcae7ca9d023797ae005f5f8747b1a0c4ffcde77c987ab077a93027686aad778",
-          "decoded_sha256": "d1161ebfa669cb1c765ccd482f4e5557a6a3afe21a7716dd74c2e5f5956fec01",
-          "normalized_sha256": "edaa5f3dc29a5da0c71d96d01d03f8ccecfacfb2a58e25e27abcff7e5773af8a",
-          "structured_sha256": "edaa5f3dc29a5da0c71d96d01d03f8ccecfacfb2a58e25e27abcff7e5773af8a",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        }
-      ],
-      "totals": {
-        "pages": 52,
-        "text_records": 43,
-        "command_only_pages": 9,
-        "voice_pages": 43,
-        "visual_refs": 301
-      },
-      "voice_count_basis": "Distinct dialogue-associated log-order references; any title carriers separately reviewed; no listening",
-      "native_packet_sha256": "403cfdc209d65944e6bb3cbe28469a74f7cc2efd926b626d29972fa01bfd6505",
-      "dialogue_packet_sha256": "220101fd6b6165d07525bf322fa02ca0a361c50046881adaec306daea9c808d5",
-      "entering_repository_head": "9a087e6403b791ceca2f067ad383c56e2938f242",
-      "entering_repository_tree": "44abe728d5f0c5323804444eab948aeb8d3f16a3",
-      "entering_source_lock_version": "12.92",
-      "entering_source_lock_logical_sha256": "930d2bb39b9f4c3e17852c7bd6d02bd63b98cf9c4f02db366f3c62f467406725",
-      "entering_source_lock_physical_owner_sha256": "1c5d2ec719cb9a571e0860a27b21a81aca6f55f8e766bb789022dc414251fa33",
-      "entering_source_high_water": "T7S_B0186",
-      "prospective_boundary_sha256": "d1eacca0ef8122e6458bb674267d3988564f75863300df9a30d343c57e7a6d50",
-      "evidence_receipt_sha256": "9dd3a28e84fc1ac208efcf70633c77b4a20d0ac2ec044690c2e56502b93271df",
-      "native_fields_projection_sha256": "96b3daa037af73c1e53154150224a68083c509fd0078b3256f9e5421919f8b7b",
-      "actual_root_review_sha256": "a91f05063a5ab01dba764f7889d7364c250839e5a18117c76abf9aa18ff221fa",
-      "native_segment_review_sha256": "8acd0445c999169f06962432490cbd3f9501bcd1f9b818608f5835e8e34b6359",
-      "reading_sha256": "d3e8589e0c8d5886a32a4e9a16b82bd5edcfaa8d13acd2dc166c5df60285ed48",
-      "literal_authored_state_sha256": "3c97453062ab4f2edc78a9e509644af607371a52704e675b7e3af167ed3e3353",
-      "visual_assets": [
-        {
-          "resource": "adv_chara_010_01_01",
-          "body": "adv_chara_010_01.png",
-          "body_sha256": "ac05f3cd59cf77b2e8a37a23f406bd671a62496ebe681ec9bf0983fc6c843168",
-          "face": "adv_chara_010_01_01.png",
-          "face_sha256": "e156a889a518228a13bd2d898924eff617fd3e2203459121f168c34dfda6c1e4",
-          "native_face_offset": [
-            150,
-            104
-          ],
-          "output_sha256": "55297badaa1b20a1e6c97f6786df6184e5d1df66feae66f8ed6f2f5ad45ec953"
-        }
-      ],
-      "original_background_static_bindings": {
-        "status": "ACTUALLY_VIEWED_STATIC_ONLY",
-        "source_binding_receipt_sha256": "8837a5b7f824f02bf375bc65a7bc36637798ef37c47af41107819ddf83b091c1",
-        "count": 6,
-        "assets": [
-          {
-            "resource": "bg_002.jpg.enc",
-            "sha256": "3b75aaa618dfb3885f414f4d31ef9d1cc899dec37c1c50cb408fc8f4ba00c36f",
-            "representative_native_occurrence": {
-              "episode_id": "401000061",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_004.jpg.enc",
-            "sha256": "31b63d12811facf787b9292fd1787ab066f6a28322772586cc0ead59135c0c4a",
-            "representative_native_occurrence": {
-              "episode_id": "401001018",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_012.jpg.enc",
-            "sha256": "b6f6fa1bf6eeb2ea4af48902f59b664ea74c4f3639035ec48c2bda3cd6fc70f4",
-            "representative_native_occurrence": {
-              "episode_id": "401000468",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_031.jpg.enc",
-            "sha256": "5572b02b47870495fe839f40ee8c490db0b9c2f91b45cfaefd9ecf03249705ad",
-            "representative_native_occurrence": {
-              "episode_id": "401000674",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_032.jpg.enc",
-            "sha256": "2555f89da4d2924e263531bb78c9115391a489a13009d175b3b55e748fd3ce87",
-            "representative_native_occurrence": {
-              "episode_id": "401000946",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_036.jpg.enc",
-            "sha256": "e57057f56d5178ac90ce694fad3f305b52ed1e1e5a4270e4c4f406d4b5c2e165",
-            "representative_native_occurrence": {
-              "episode_id": "401000057",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          }
-        ]
-      },
-      "coverage_effective_state_sha256": "998ee40fd63cc818977c1b710af98cf7e0a3c6da4f71a3546e97ddc195522d45",
-      "execution_record": "09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md",
-      "entity_storage_append": {
-        "entering_manifest_sha256": "0e5b331a6327fa51e721a199ab52b1c4a813c2ee88524e54cafe865e13ce2271",
-        "entering_logical_sha256": "83d5088195c517e6a6ab9a9a5b8719ac5d0cad985583e4d442c6949dbab91ec9",
-        "closing_manifest_sha256": "4b5661c1631925ee876476f6731cefc7181bee3392bce73afe82d3e245b90691",
-        "closing_logical_sha256": "06dcf7ce47048251004e39967b38a0994c0b9b4294db58870309238860101b9d",
-        "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
-        "sealed_older_components_byte_exact": true
-      },
-      "control_storage_append": {
-        "entering_logical_source_lock_sha256": "930d2bb39b9f4c3e17852c7bd6d02bd63b98cf9c4f02db366f3c62f467406725",
-        "entering_physical_owner_sha256": "1c5d2ec719cb9a571e0860a27b21a81aca6f55f8e766bb789022dc414251fa33",
-        "entering_coverage_manifest_sha256": "446f34f95e6978e77cdeaedf5758cb1e1d05c5d9c8178d63f043d4fcd7b7c0dd",
-        "closing_coverage_manifest_sha256": "5735cdb25776298debd332a3d318351d97547af4d5f6840721593eb782f7d0a9",
-        "all_older_integrity_serialized_bytes": "BYTE_EXACT",
-        "administrative_storage_history": "UNCHANGED",
-        "logical_reader_required": true
-      },
-      "source_menu_and_chronology": "Complete independent conditional Intimacy occurrences; menu/source/priority order routes execution only; no total chronology.",
-      "boundary": "Actually bounded Japanese/native and selected static review; no performed voice/music/SFX listening, runtime, monograph maturity, full2034completion or2053admission."
-    },
-    "b0186_close_verification": {
-      "operation": "T7S_B0186_CLOSE",
-      "checked_at": "2026-10-14",
-      "status": "PASS_BOUNDED_ORDINARY_LIFE_TEXT_NATIVE_AND_STATIC_REVIEW",
-      "portfolio_route_key": "NM-INTIMACY-200610",
-      "native_character_family_id": "200610",
-      "episode_ids": [
-        "401000046",
-        "401000050",
-        "401000464",
-        "401000810",
-        "401001034",
-        "401001206",
-        "401001330",
-        "401006489"
-      ],
-      "source_bindings": [
-        {
-          "episode_id": "401000046",
-          "script_id": "intimate_0046.json__5ab04bf597c6a04f",
-          "source_sha256": "7b935d5f7085b2f69c335a037a31e1844dcaf08c7a5fce9ade04b53a8ed1d551",
-          "decoded_sha256": "416e386ad95e44f3c2213e02166b56a20e7c9c14a12cd9cffb28032d6459b8d1",
-          "normalized_sha256": "dbe00199b9549c674cff2d417c2652730e2870484b83a900328ada65802ad3f0",
-          "structured_sha256": "dbe00199b9549c674cff2d417c2652730e2870484b83a900328ada65802ad3f0",
-          "pages": 4,
-          "text_records": 3,
-          "command_only_pages": 1,
-          "voice_pages": 3,
-          "native_pages_verified": 4
-        },
-        {
-          "episode_id": "401000050",
-          "script_id": "intimate_0050.json__69ec3bee1f8ddfa9",
-          "source_sha256": "0fbea0c782bfadf463ee8686e9e53c7686e4d02cb30fae219648c0e6dd49357f",
-          "decoded_sha256": "e62c94599a63e5eaadb047381251c749aeabd44c733b7dbc655c12d5e5f5bb5f",
-          "normalized_sha256": "3f8e36a732606f864c77506c52e8ade46e06c1ad6a93a3f4ce6e6bdc2bb6a57e",
-          "structured_sha256": "3f8e36a732606f864c77506c52e8ade46e06c1ad6a93a3f4ce6e6bdc2bb6a57e",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000464",
-          "script_id": "intimate_0464.json__0e919ea3dad1d639",
-          "source_sha256": "fc66958067fee693c6c1f424273514578dad5f13b7dd60b7110b54160e2553c4",
-          "decoded_sha256": "8e96dc82e8ebadffbe510a3bdead101e31ff982355c437b6859d18097cbc4ce6",
-          "normalized_sha256": "126514e16d450807d40b9a8b56445bec2da203f2c4de042e7c14a99a86fad5a6",
-          "structured_sha256": "126514e16d450807d40b9a8b56445bec2da203f2c4de042e7c14a99a86fad5a6",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000810",
-          "script_id": "intimate_0810.json__54d4094c65329c3c",
-          "source_sha256": "4cdc6619a753a9ef7792dad03716cda887f3e4e9bf1fe738e8790cc94391aa52",
-          "decoded_sha256": "b8db1d7b12f9eaf6340a7c073f00a60e44239d86cac046e5fa42beefa537d517",
-          "normalized_sha256": "f7117439a4d136a256e267f237ed6287816d9f1f65d5f8c848ef3962ed5e8cad",
-          "structured_sha256": "f7117439a4d136a256e267f237ed6287816d9f1f65d5f8c848ef3962ed5e8cad",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001034",
-          "script_id": "intimate_1034.json__3c58509073afc760",
-          "source_sha256": "bbf19cb4aa1561a09538ba31790cb2062ac50029a0adae20f9191db95bbe25f8",
-          "decoded_sha256": "892bde18fb3c32b510fedef9cd204b01552b500ed6fe6d8e64f8ba77e3dd5779",
-          "normalized_sha256": "73e0deb597533a12decd7baa2b5b07f22af7b515eacdb4e1a6f4f536f87f0d37",
-          "structured_sha256": "73e0deb597533a12decd7baa2b5b07f22af7b515eacdb4e1a6f4f536f87f0d37",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001206",
-          "script_id": "intimate_1206.json__4d8b26541c299c01",
-          "source_sha256": "f39c3a5ce41f653e27b4706b29369f4c6f0ebbf3957d8a83d491376aa7bab1ad",
-          "decoded_sha256": "09957e5836090fe79dd29c53987beabe3a00f80577c98eaf292cf96556a31035",
-          "normalized_sha256": "235bbcef094ea11875c4d8e04987315fe3beaff6c7f7e7847090be88dc6a1e52",
-          "structured_sha256": "235bbcef094ea11875c4d8e04987315fe3beaff6c7f7e7847090be88dc6a1e52",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001330",
-          "script_id": "intimate_1330.json__ea05591a545c3af2",
-          "source_sha256": "114779b9968e5d18c2de9e15ce0f29645fa5c66a1e887dd6700a4848cfb4a006",
-          "decoded_sha256": "84b4453d9a4cfbffc50015eaf6620629bee096e220592881cf46be49ea851738",
-          "normalized_sha256": "ac611d87f9f4b63eef8ceb96b1c108f46185759ceff44027e35f6573ff53cb9d",
-          "structured_sha256": "ac611d87f9f4b63eef8ceb96b1c108f46185759ceff44027e35f6573ff53cb9d",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401006489",
-          "script_id": "exepisode_6489.json__01258ee6fc2d1656",
-          "source_sha256": "87efb4ee6d77f41740e665794e976edd5281b91922b672d4c7b08c3d5aa69683",
-          "decoded_sha256": "b23ac0515699b2faadba65fe7ea29d2697b4125bfe6a16d6b67c2183530c6d11",
-          "normalized_sha256": "463efedf132a703e14164d37deee3065df5d4f171fca3de0d3180e9c9610b387",
-          "structured_sha256": "463efedf132a703e14164d37deee3065df5d4f171fca3de0d3180e9c9610b387",
-          "pages": 238,
-          "text_records": 184,
-          "command_only_pages": 54,
-          "voice_pages": 0,
-          "native_pages_verified": 238
-        }
-      ],
-      "totals": {
-        "pages": 278,
-        "text_records": 217,
-        "command_only_pages": 61,
-        "voice_pages": 33,
-        "visual_refs": 2779
-      },
-      "voice_count_basis": "Distinct dialogue-associated log-order references; any title carriers separately reviewed; no listening",
-      "native_packet_sha256": "2626119c6597709bd0986a2b67cfd9284b8cb4c79065fc0c467132472ec3de82",
-      "dialogue_packet_sha256": "8ccbaa60a6c160f087b840f0d463bdc5dd636f6a3ca593f7b3c045857d0ce84f",
-      "entering_repository_head": "162efbcf46efbd297a24e0469da41ec16acc28cd",
-      "entering_repository_tree": "b7f82e1902d5342b9f1e1324ce76895cd1bfcf8b",
-      "entering_source_lock_version": "12.91",
-      "entering_source_lock_logical_sha256": "e4d03e15399b8de922773becc1bc2545b37a9349225c8f12075ed240163b4792",
-      "entering_source_lock_physical_owner_sha256": "8bdfe1fd30133b19dd50cd08adf0d0aefd97ee28d7d110c6d63c39a5c46b6c37",
-      "entering_source_high_water": "T7S_B0185",
-      "prospective_boundary_sha256": "af7d337ca77601660c14504cba2947981b135eab98eb36e3af2841279e25b706",
-      "evidence_receipt_sha256": "ea4594f9b8d850ea932e59bba4abc7e246948e1f0a03245e5dc7b381ede98dbd",
-      "native_fields_projection_sha256": "4915bcba133741d9eaac48a371b11e0ab4ee970321cf5efac56836e03fd81c87",
-      "actual_root_review_sha256": "a2b3bcbab2eb4cc76a1e93ad95b48939d4a2b0aec18ec997fd5972dff782b3c0",
-      "native_segment_review_sha256": "18b36b92d047582a1057abf5090c78eee0ffef88a8729f8b36fb24890cf8a2eb",
-      "reading_sha256": "10e83396e77a4e61cf1bd1e2b62e672c4ca6091d98af24828cf2fd5371b2bf86",
-      "literal_authored_state_sha256": "45a8923227d5040c67242627f2c7989b55df9452ba577a607436d4ec9b9841e3",
-      "visual_assets": [
-        {
-          "resource": "adv_chara_123_01_01",
-          "body": "adv_chara_123_01.png",
-          "body_sha256": "bf9dd13377050333bee12690b2cb5cc31035c1f0269f79493d6b1761efb819fd",
-          "face": "adv_chara_123_01_01.png",
-          "face_sha256": "a85209f6800000479df29e7204bc6556f8ba99ac7bb14e2846dc64f666131a18",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "3429f48b8106558324a426cba3a9406f91b8e8972d8846a5de8a330b52dc43e4"
-        },
-        {
-          "resource": "adv_chara_123_02_01",
-          "body": "adv_chara_123_02.png",
-          "body_sha256": "802dc2662ecc8337634834dbf560922c74c87e09596a9c9ff36b9be98bb8a738",
-          "face": "adv_chara_123_02_01.png",
-          "face_sha256": "445cc2316c9721abfc030dbe1f66ef728c4122eb4c2d54ae3c03eeb4c1571636",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "37954ffde5e7ce7fb070b0482ef11f9b6f7d16614df7d0f53bbc8c3b4b40bea1"
-        },
-        {
-          "resource": "adv_chara_123_02_02",
-          "body": "adv_chara_123_02.png",
-          "body_sha256": "802dc2662ecc8337634834dbf560922c74c87e09596a9c9ff36b9be98bb8a738",
-          "face": "adv_chara_123_02_02.png",
-          "face_sha256": "75fae822969ce5c17cd42f39a1196f7188c0f0dbdcaf834eb145a66915a9156c",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "bf774fe6c52d4fe6bf1a4a517a056509f6545d365d7541c1ca171e0987d9554b"
-        },
-        {
-          "resource": "adv_chara_123_02_03",
-          "body": "adv_chara_123_02.png",
-          "body_sha256": "802dc2662ecc8337634834dbf560922c74c87e09596a9c9ff36b9be98bb8a738",
-          "face": "adv_chara_123_02_03.png",
-          "face_sha256": "328ed526ef12fef04659a42b25238acfb55917db39362d0d72dc7a211c9b8d64",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "4dc677dd7e95c62bcdff1b7e9213ab734526b23794c134154940cc84bb39eb8d"
-        },
-        {
-          "resource": "adv_chara_123_02_04",
-          "body": "adv_chara_123_02.png",
-          "body_sha256": "802dc2662ecc8337634834dbf560922c74c87e09596a9c9ff36b9be98bb8a738",
-          "face": "adv_chara_123_02_04.png",
-          "face_sha256": "6919cceda1cb5d5508cce3313a4057277f46a99c23a9b718e6b5c294120c754c",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "843519769000060c903da1303b7783ed18b6704970be649f9ca31ad22d225f19"
-        },
-        {
-          "resource": "adv_chara_123_02_05",
-          "body": "adv_chara_123_02.png",
-          "body_sha256": "802dc2662ecc8337634834dbf560922c74c87e09596a9c9ff36b9be98bb8a738",
-          "face": "adv_chara_123_02_05.png",
-          "face_sha256": "d773f2ab159577e861830bbaa630a969b9db459bb8db32d32c0e0aef763f23f3",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "1dec8e2ab55d6563b7e8c9ce8abc90c1648e6d0a67e7d3ab3ff17efe25e3c2ec"
-        },
-        {
-          "resource": "adv_chara_123_02_06",
-          "body": "adv_chara_123_02.png",
-          "body_sha256": "802dc2662ecc8337634834dbf560922c74c87e09596a9c9ff36b9be98bb8a738",
-          "face": "adv_chara_123_02_06.png",
-          "face_sha256": "4eddd753b1cbb102c38c02b0b3cce4df6cf2556aaa76c500ef3e3648f2f90d0d",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "de64f81682c607bca93dda4819b2fcb3da4d6cbc7f24684cb11ba8625fdec34a"
-        },
-        {
-          "resource": "adv_chara_123_02_11",
-          "body": "adv_chara_123_02.png",
-          "body_sha256": "802dc2662ecc8337634834dbf560922c74c87e09596a9c9ff36b9be98bb8a738",
-          "face": "adv_chara_123_02_11.png",
-          "face_sha256": "288295abb8d0f72b2877705e970160bff058951bd0ecb2abf71a1caa5a5d7598",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "25d748a6ee79d9a6cbaab9fe587b5d8f2cf8f29e99596ca0e3eab408a4967136"
-        },
-        {
-          "resource": "adv_chara_123_02_13",
-          "body": "adv_chara_123_02.png",
-          "body_sha256": "802dc2662ecc8337634834dbf560922c74c87e09596a9c9ff36b9be98bb8a738",
-          "face": "adv_chara_123_02_13.png",
-          "face_sha256": "156db2daf31a4e610d38b8c656af05c05112aa6fe7182b1ea36852852a836830",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "f2ead77a171bc93d00f9363e82364713a3e3608bb4fd990b66969018c80fd4e1"
-        },
-        {
-          "resource": "adv_chara_123_02_14",
-          "body": "adv_chara_123_02.png",
-          "body_sha256": "802dc2662ecc8337634834dbf560922c74c87e09596a9c9ff36b9be98bb8a738",
-          "face": "adv_chara_123_02_14.png",
-          "face_sha256": "bcb0f020eac0612881342e3e45b7f8711520b28d56c6f001e7e1f74fbbb33bfd",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "e84749d0c676aaa3c2b9fcd73395304d9a07ec564dadd5e08d52619dc5aaec8a"
-        },
-        {
-          "resource": "adv_chara_123_02_15",
-          "body": "adv_chara_123_02.png",
-          "body_sha256": "802dc2662ecc8337634834dbf560922c74c87e09596a9c9ff36b9be98bb8a738",
-          "face": "adv_chara_123_02_15.png",
-          "face_sha256": "571bd8f0ec8605bd188309166350b556a4c82628adb5ab6b5164fc70b7f07425",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "832067cb5e1e72861965468c5b20af8f13790fecffd7312fba00af82107f8f8d"
-        },
-        {
-          "resource": "adv_chara_123_02_16",
-          "body": "adv_chara_123_02.png",
-          "body_sha256": "802dc2662ecc8337634834dbf560922c74c87e09596a9c9ff36b9be98bb8a738",
-          "face": "adv_chara_123_02_16.png",
-          "face_sha256": "3446f5f59ef6fcef62b8140c461c2b0e74bafdff28f57fcc5748ca34818f8dea",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "42c592045e39d824acdc6322c292520757d089aab6161ca2c5a1bbed58accf24"
-        },
-        {
-          "resource": "adv_chara_123_02_17",
-          "body": "adv_chara_123_02.png",
-          "body_sha256": "802dc2662ecc8337634834dbf560922c74c87e09596a9c9ff36b9be98bb8a738",
-          "face": "adv_chara_123_02_17.png",
-          "face_sha256": "38c521b433af678efec947079514dd003503dd2eac724fac6778110e66502a70",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "3972f6ab5e7b059a8e27fcf53f38e7fab5c580e7a22716ff0bf6992a91a06a11"
-        },
-        {
-          "resource": "adv_chara_123_02_18",
-          "body": "adv_chara_123_02.png",
-          "body_sha256": "802dc2662ecc8337634834dbf560922c74c87e09596a9c9ff36b9be98bb8a738",
-          "face": "adv_chara_123_02_18.png",
-          "face_sha256": "030373ddce227847f185ab90a3d3cb040713e17fec723943a4f524bf2280a694",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "661b4ea021f985161e7b3adb7be798ff71dedc0a8d05dcc9474eaf7fda3c0437"
-        },
-        {
-          "resource": "adv_chara_123_02_19",
-          "body": "adv_chara_123_02.png",
-          "body_sha256": "802dc2662ecc8337634834dbf560922c74c87e09596a9c9ff36b9be98bb8a738",
-          "face": "adv_chara_123_02_19.png",
-          "face_sha256": "d85bef7c52bfbd185cf7025076fa2f98ee892742d58a28be5fc6b61405a72ca3",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "a8c922949020ef4f49c1904da7243a913035d5d89d48d24c8b41da10965b99db"
-        },
-        {
-          "resource": "adv_chara_123_02_20",
-          "body": "adv_chara_123_02.png",
-          "body_sha256": "802dc2662ecc8337634834dbf560922c74c87e09596a9c9ff36b9be98bb8a738",
-          "face": "adv_chara_123_02_20.png",
-          "face_sha256": "e56fa8b750570723d19127ed0d8d4f5ef2fae9d7f391ef7f1a987d4dfa7396a1",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "91aac5ceb7225424ad70931d39c26b89fc3e9d0f1aed3d63a5f06b1a40bde49d"
-        },
-        {
-          "resource": "adv_chara_123_02_21",
-          "body": "adv_chara_123_02.png",
-          "body_sha256": "802dc2662ecc8337634834dbf560922c74c87e09596a9c9ff36b9be98bb8a738",
-          "face": "adv_chara_123_02_21.png",
-          "face_sha256": "c74cecb5b5882fa9b9b1982be1dcf0c2d4e648e849f6ed1fd249274f43d33603",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "5377c35d06e3b235631c5b64cc2e3584a4254b4f6f1bd626691817e41db0ddd1"
-        },
-        {
-          "resource": "adv_chara_123_02_24",
-          "body": "adv_chara_123_02.png",
-          "body_sha256": "802dc2662ecc8337634834dbf560922c74c87e09596a9c9ff36b9be98bb8a738",
-          "face": "adv_chara_123_02_24.png",
-          "face_sha256": "3e8f019256ee5f67f2c66e817c0c3a637a1af3c8260ac9d8226fd9b2a567c55a",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "319f6d7a448edd678bde21c011866508e1f37c53c18978162199ad1e3db289f5"
-        },
-        {
-          "resource": "adv_chara_123_02_26",
-          "body": "adv_chara_123_02.png",
-          "body_sha256": "802dc2662ecc8337634834dbf560922c74c87e09596a9c9ff36b9be98bb8a738",
-          "face": "adv_chara_123_02_26.png",
-          "face_sha256": "ae6bb18b54e9756d9cf25bed4331ac70e22b89ef2711a63212b899c92aaf802e",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "39f6b3ab63568274a86d14609b46ca465506df120f89ab31214464f95291d898"
-        },
-        {
-          "resource": "adv_chara_123_02_27",
-          "body": "adv_chara_123_02.png",
-          "body_sha256": "802dc2662ecc8337634834dbf560922c74c87e09596a9c9ff36b9be98bb8a738",
-          "face": "adv_chara_123_02_27.png",
-          "face_sha256": "e7873a0d52697e4fe941f38656ce1c62aa4baa633df8fc29d2d6872ce4176af2",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "e623fa806462fcb9cfce6db3922260b23816b6891fcf69d33ca34e83eeca477a"
-        },
-        {
-          "resource": "adv_chara_123_02_29",
-          "body": "adv_chara_123_02.png",
-          "body_sha256": "802dc2662ecc8337634834dbf560922c74c87e09596a9c9ff36b9be98bb8a738",
-          "face": "adv_chara_123_02_29.png",
-          "face_sha256": "e1058b88801afc7c780d18ec29d475039b7bda74b3d69f9c72cadae0a6ff1bad",
-          "native_face_offset": [
-            99,
-            78
-          ],
-          "output_sha256": "18488754401567d99e17e04317effe50913d0550f318e39c0258e251e84d260e"
-        },
-        {
-          "resource": "adv_chara_123_06_01",
-          "body": "adv_chara_123_06.png",
-          "body_sha256": "b37dea48f70dd1acc0ff7448b13f91275aac9be257495f28dcc4e704c6bf80e4",
-          "face": "adv_chara_123_06_01.png",
-          "face_sha256": "92de89dee42bbd1e21514964ffa1f8ca63c53034628009628695df4b7d4a077a",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "1ffebe33c8720178b29562aa7a93acd8450e0ec841ca8b51dff810dfde4bee23"
-        },
-        {
-          "resource": "adv_chara_123_06_02",
-          "body": "adv_chara_123_06.png",
-          "body_sha256": "b37dea48f70dd1acc0ff7448b13f91275aac9be257495f28dcc4e704c6bf80e4",
-          "face": "adv_chara_123_06_02.png",
-          "face_sha256": "8cd592bcb566cbf93447b808cf3f84166e9e942f288c4b71acfaa74ba9352d2f",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "28c7e0b413d47c15ba75706ef10c68d4a341cc6e41b84535006e6b8d7f9a90db"
-        },
-        {
-          "resource": "adv_chara_123_06_04",
-          "body": "adv_chara_123_06.png",
-          "body_sha256": "b37dea48f70dd1acc0ff7448b13f91275aac9be257495f28dcc4e704c6bf80e4",
-          "face": "adv_chara_123_06_04.png",
-          "face_sha256": "0dad139f57ff53aa6f690b384219363796d68d9f38dd33cb8fa14a18354df66b",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "ae97aaf955f3f8c7b6289a6a8dd60e5a4f15196afaf940a8fed3a5d2fd731d85"
-        },
-        {
-          "resource": "adv_chara_123_06_05",
-          "body": "adv_chara_123_06.png",
-          "body_sha256": "b37dea48f70dd1acc0ff7448b13f91275aac9be257495f28dcc4e704c6bf80e4",
-          "face": "adv_chara_123_06_05.png",
-          "face_sha256": "24286dbaf62cec87cc9e2ba1df030a13acf0df5dadee5204b6f4cf4f37d6de77",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "8950f4356ea3287126388e6c7d3d601c0d7e9bf1e2da2afc2bdc748400c2d3b3"
-        },
-        {
-          "resource": "adv_chara_123_06_06",
-          "body": "adv_chara_123_06.png",
-          "body_sha256": "b37dea48f70dd1acc0ff7448b13f91275aac9be257495f28dcc4e704c6bf80e4",
-          "face": "adv_chara_123_06_06.png",
-          "face_sha256": "3ddc3b47062283d79fb07d585003602820ab92fbb5ebf0c52ce0dba6cbecbc6e",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "986d6b4a975208011b5dd3cfbbe4569697f84b54c9ba54a774518a04c307d0c2"
-        },
-        {
-          "resource": "adv_chara_123_06_13",
-          "body": "adv_chara_123_06.png",
-          "body_sha256": "b37dea48f70dd1acc0ff7448b13f91275aac9be257495f28dcc4e704c6bf80e4",
-          "face": "adv_chara_123_06_13.png",
-          "face_sha256": "4c086c94eb990576555a301276a16f9e3a4f048c5acffdd42204f0c0fb152417",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "c2c477d6d1e25fd317f822e97655fcc3825587654852ac28b545f6d0d28ca836"
-        },
-        {
-          "resource": "adv_chara_123_06_15",
-          "body": "adv_chara_123_06.png",
-          "body_sha256": "b37dea48f70dd1acc0ff7448b13f91275aac9be257495f28dcc4e704c6bf80e4",
-          "face": "adv_chara_123_06_15.png",
-          "face_sha256": "7a7e9acfd0bc0a5924f55e5413dd30146cd125f6d994dc8dcd60b00b2df410ff",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "effdc77b86f44c37bced788723b5e0a3fbfe4640615324929f40e2ce1a70e47c"
-        },
-        {
-          "resource": "adv_chara_123_06_16",
-          "body": "adv_chara_123_06.png",
-          "body_sha256": "b37dea48f70dd1acc0ff7448b13f91275aac9be257495f28dcc4e704c6bf80e4",
-          "face": "adv_chara_123_06_16.png",
-          "face_sha256": "4e5bab82a923d5d5d4bc6d8e7018735fdcc4b251479ed49078b3f80c23b6b1cd",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "55ccb46bf64532c6bb25153f338214327ad0c78a5c2a7a43387d6ecb26e790ae"
-        },
-        {
-          "resource": "adv_chara_123_06_19",
-          "body": "adv_chara_123_06.png",
-          "body_sha256": "b37dea48f70dd1acc0ff7448b13f91275aac9be257495f28dcc4e704c6bf80e4",
-          "face": "adv_chara_123_06_19.png",
-          "face_sha256": "ccc07185d0f44cf11a1e7c9e4e251900d67d6d550f4f4dd2825c5bc48e1181f9",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "5ac4e4df527607fc52357c19c75635028f6254ba5e9ce35f0d20d17b9e2870e6"
-        },
-        {
-          "resource": "adv_chara_123_06_21",
-          "body": "adv_chara_123_06.png",
-          "body_sha256": "b37dea48f70dd1acc0ff7448b13f91275aac9be257495f28dcc4e704c6bf80e4",
-          "face": "adv_chara_123_06_21.png",
-          "face_sha256": "d504716904b8801923d7a103835bd916a8a5dc957f11fbeee33bebb1a2c7c364",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "b12f233b486d35a2697827100caea2d8b1327b5ada080b47127eb45fffc7ae36"
-        },
-        {
-          "resource": "adv_chara_123_06_25",
-          "body": "adv_chara_123_06.png",
-          "body_sha256": "b37dea48f70dd1acc0ff7448b13f91275aac9be257495f28dcc4e704c6bf80e4",
-          "face": "adv_chara_123_06_25.png",
-          "face_sha256": "20185b13f5c85492d05beab1204add2bc94b2ad3ec6d0dbcc6a05ef8d403de4b",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "253905087f1f58cfda0fa39a8b938271df593a64132d9ef322c0ad3ac26bd8a5"
-        },
-        {
-          "resource": "adv_chara_123_06_26",
-          "body": "adv_chara_123_06.png",
-          "body_sha256": "b37dea48f70dd1acc0ff7448b13f91275aac9be257495f28dcc4e704c6bf80e4",
-          "face": "adv_chara_123_06_26.png",
-          "face_sha256": "5ca3e44d67144e6442af5c10ad9e9fb9313448e31f5e8f455a6b5cb98f9bd217",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "69edd91b3dec3740d5096f04b4815a94133c0bceeff631906a2183df75cf40bf"
-        },
-        {
-          "resource": "adv_chara_123_06_29",
-          "body": "adv_chara_123_06.png",
-          "body_sha256": "b37dea48f70dd1acc0ff7448b13f91275aac9be257495f28dcc4e704c6bf80e4",
-          "face": "adv_chara_123_06_29.png",
-          "face_sha256": "399bf4a847ebf9677090e0fe5e78655231fb2fe9f0f9c1e20eca99c0034fc737",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "389c849d5d8cbc6c1ac6f8f5f37493834d2edf008c45a6b996182dc9abb2aa95"
-        },
-        {
-          "resource": "adv_chara_123_08_01",
-          "body": "adv_chara_123_08.png",
-          "body_sha256": "a781d2d1469957f76629aca93d6fd9e1951411433e39330fb15f77bd6dfecd04",
-          "face": "adv_chara_123_08_01.png",
-          "face_sha256": "92de89dee42bbd1e21514964ffa1f8ca63c53034628009628695df4b7d4a077a",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "7f1179f11f2ab11d44f1cd69d3be1807450a9b8ae873d1fd46c14a34e189c15e"
-        },
-        {
-          "resource": "adv_chara_123_08_02",
-          "body": "adv_chara_123_08.png",
-          "body_sha256": "a781d2d1469957f76629aca93d6fd9e1951411433e39330fb15f77bd6dfecd04",
-          "face": "adv_chara_123_08_02.png",
-          "face_sha256": "8cd592bcb566cbf93447b808cf3f84166e9e942f288c4b71acfaa74ba9352d2f",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "de079f71ed0e3a47719f9f2a1bc5143a4229ff983029e54676c6366ad64f6186"
-        },
-        {
-          "resource": "adv_chara_123_08_03",
-          "body": "adv_chara_123_08.png",
-          "body_sha256": "a781d2d1469957f76629aca93d6fd9e1951411433e39330fb15f77bd6dfecd04",
-          "face": "adv_chara_123_08_03.png",
-          "face_sha256": "a0a3a6846e77798e5679cc97b2f1ec89336755ad4bafa5faf851f30f0dd02818",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "227da553826ac5bf8154757a4f75223c57996a26c1ec6d67b155734fb6a31298"
-        },
-        {
-          "resource": "adv_chara_123_08_04",
-          "body": "adv_chara_123_08.png",
-          "body_sha256": "a781d2d1469957f76629aca93d6fd9e1951411433e39330fb15f77bd6dfecd04",
-          "face": "adv_chara_123_08_04.png",
-          "face_sha256": "0dad139f57ff53aa6f690b384219363796d68d9f38dd33cb8fa14a18354df66b",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "9ed68268beacae98164e7457a7fa9d85f809230149f070c195284c2b65b75761"
-        },
-        {
-          "resource": "adv_chara_123_08_05",
-          "body": "adv_chara_123_08.png",
-          "body_sha256": "a781d2d1469957f76629aca93d6fd9e1951411433e39330fb15f77bd6dfecd04",
-          "face": "adv_chara_123_08_05.png",
-          "face_sha256": "24286dbaf62cec87cc9e2ba1df030a13acf0df5dadee5204b6f4cf4f37d6de77",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "2b4823bbd4ee23580512811a04c2d0885cdb4bc14a9fec7dda27cc76e140bd9c"
-        },
-        {
-          "resource": "adv_chara_123_08_06",
-          "body": "adv_chara_123_08.png",
-          "body_sha256": "a781d2d1469957f76629aca93d6fd9e1951411433e39330fb15f77bd6dfecd04",
-          "face": "adv_chara_123_08_06.png",
-          "face_sha256": "3ddc3b47062283d79fb07d585003602820ab92fbb5ebf0c52ce0dba6cbecbc6e",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "1d1d7bf7ac329a43a0d3edce14575b91efd44a0a42d6237b154f06f9ac30d12a"
-        },
-        {
-          "resource": "adv_chara_123_08_11",
-          "body": "adv_chara_123_08.png",
-          "body_sha256": "a781d2d1469957f76629aca93d6fd9e1951411433e39330fb15f77bd6dfecd04",
-          "face": "adv_chara_123_08_11.png",
-          "face_sha256": "2fb37cfafc91d49074fc21181e077ef8c1beedf34d8f47ea086eb78998cd5e5a",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "e992f2ba93bfa7ef688ce12903e9502b500f2c3de504fc307907dc1aab98febc"
-        },
-        {
-          "resource": "adv_chara_123_08_12",
-          "body": "adv_chara_123_08.png",
-          "body_sha256": "a781d2d1469957f76629aca93d6fd9e1951411433e39330fb15f77bd6dfecd04",
-          "face": "adv_chara_123_08_12.png",
-          "face_sha256": "eb08c35eafb33dd28571860c77528e86dae3afc3048ae7a2db1f212454ffac3e",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "9646eb3b089bf182dc206479aeaa6541134cafbc0fb00c43066912611bd8e35b"
-        },
-        {
-          "resource": "adv_chara_123_08_13",
-          "body": "adv_chara_123_08.png",
-          "body_sha256": "a781d2d1469957f76629aca93d6fd9e1951411433e39330fb15f77bd6dfecd04",
-          "face": "adv_chara_123_08_13.png",
-          "face_sha256": "4c086c94eb990576555a301276a16f9e3a4f048c5acffdd42204f0c0fb152417",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "2e61ca0b58915f105d210ac5f1bcf567db027a69d0a2e5cf6774ec502712b373"
-        },
-        {
-          "resource": "adv_chara_123_08_16",
-          "body": "adv_chara_123_08.png",
-          "body_sha256": "a781d2d1469957f76629aca93d6fd9e1951411433e39330fb15f77bd6dfecd04",
-          "face": "adv_chara_123_08_16.png",
-          "face_sha256": "4e5bab82a923d5d5d4bc6d8e7018735fdcc4b251479ed49078b3f80c23b6b1cd",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "6186f7b3700c91c3b60083a154bcf5160b51aac09817cd8d0264414c23f57c82"
-        },
-        {
-          "resource": "adv_chara_123_08_17",
-          "body": "adv_chara_123_08.png",
-          "body_sha256": "a781d2d1469957f76629aca93d6fd9e1951411433e39330fb15f77bd6dfecd04",
-          "face": "adv_chara_123_08_17.png",
-          "face_sha256": "318e1ce2ffe078f45a4fe91ae63d750431590d8df4ac38c2e4589da1de9d6126",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "69f7f1957340e606b67977e0b02ca4a8b7838c4bea55d70b976ced6970e52017"
-        },
-        {
-          "resource": "adv_chara_123_08_19",
-          "body": "adv_chara_123_08.png",
-          "body_sha256": "a781d2d1469957f76629aca93d6fd9e1951411433e39330fb15f77bd6dfecd04",
-          "face": "adv_chara_123_08_19.png",
-          "face_sha256": "ccc07185d0f44cf11a1e7c9e4e251900d67d6d550f4f4dd2825c5bc48e1181f9",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "f5f63890e708e1598e51f7c19fc0fb6c92da201a1f7cfb9e72ad5e238a5395c3"
-        },
-        {
-          "resource": "adv_chara_123_08_24",
-          "body": "adv_chara_123_08.png",
-          "body_sha256": "a781d2d1469957f76629aca93d6fd9e1951411433e39330fb15f77bd6dfecd04",
-          "face": "adv_chara_123_08_24.png",
-          "face_sha256": "db44f9b4399ac8986a616f79c93de39b1a6e4ffe4749e90d691f3d43136e6c0f",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "3575fe1f4e1ca25ab9a214c36cda9018bf0144aa33af422247dacaec7e376433"
-        },
-        {
-          "resource": "adv_chara_123_08_25",
-          "body": "adv_chara_123_08.png",
-          "body_sha256": "a781d2d1469957f76629aca93d6fd9e1951411433e39330fb15f77bd6dfecd04",
-          "face": "adv_chara_123_08_25.png",
-          "face_sha256": "20185b13f5c85492d05beab1204add2bc94b2ad3ec6d0dbcc6a05ef8d403de4b",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "d981c9c1fd319da345b00459ea3229c1bd6edf1b319671e2245d83f31cce179f"
-        },
-        {
-          "resource": "adv_chara_123_08_26",
-          "body": "adv_chara_123_08.png",
-          "body_sha256": "a781d2d1469957f76629aca93d6fd9e1951411433e39330fb15f77bd6dfecd04",
-          "face": "adv_chara_123_08_26.png",
-          "face_sha256": "5ca3e44d67144e6442af5c10ad9e9fb9313448e31f5e8f455a6b5cb98f9bd217",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "9a6dad1458239ae5064d782b843e492b3c038f3a70b403e87eb3817120230f8f"
-        },
-        {
-          "resource": "adv_chara_123_08_27",
-          "body": "adv_chara_123_08.png",
-          "body_sha256": "a781d2d1469957f76629aca93d6fd9e1951411433e39330fb15f77bd6dfecd04",
-          "face": "adv_chara_123_08_27.png",
-          "face_sha256": "c21a4c0bc29046c5df0d28c6c04be0641efa3ce15a8f3e7f453a8246c4dd9ac5",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "04e05eca982f11c18d310883383dc81806544ee1e09ec5d2b84d6e364fcd4c16"
-        },
-        {
-          "resource": "adv_chara_123_08_28",
-          "body": "adv_chara_123_08.png",
-          "body_sha256": "a781d2d1469957f76629aca93d6fd9e1951411433e39330fb15f77bd6dfecd04",
-          "face": "adv_chara_123_08_28.png",
-          "face_sha256": "d3188a911a1dcbe51baf77739e2c91533ff09e59bbfea34bddd57b26c42c759b",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "46cf73f58af397cd9a58e52d0e6cd9099b8047e4b87fc01e563b24e9a50da73a"
-        },
-        {
-          "resource": "adv_chara_123_09_01",
-          "body": "adv_chara_123_09.png",
-          "body_sha256": "7259c2af35ff9f86295d74684f0c9fbd726f877c6ddba1c214e0606325cbd667",
-          "face": "adv_chara_123_09_01.png",
-          "face_sha256": "92de89dee42bbd1e21514964ffa1f8ca63c53034628009628695df4b7d4a077a",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "fe07592a3acfe4b7aeddf47fae68bfc7c70eb0b92e613b95891ce01a4e5b7339"
-        },
-        {
-          "resource": "adv_chara_123_09_02",
-          "body": "adv_chara_123_09.png",
-          "body_sha256": "7259c2af35ff9f86295d74684f0c9fbd726f877c6ddba1c214e0606325cbd667",
-          "face": "adv_chara_123_09_02.png",
-          "face_sha256": "8cd592bcb566cbf93447b808cf3f84166e9e942f288c4b71acfaa74ba9352d2f",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "9162ae47c862181681b99cd1a2e91726724718c4d9d2b421f7103d74bdbd8c98"
-        },
-        {
-          "resource": "adv_chara_123_09_03",
-          "body": "adv_chara_123_09.png",
-          "body_sha256": "7259c2af35ff9f86295d74684f0c9fbd726f877c6ddba1c214e0606325cbd667",
-          "face": "adv_chara_123_09_03.png",
-          "face_sha256": "a0a3a6846e77798e5679cc97b2f1ec89336755ad4bafa5faf851f30f0dd02818",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "4806de2d89be656338b9478b4f2191c88d21e3e53978fef53396ad37f87932c6"
-        },
-        {
-          "resource": "adv_chara_123_09_11",
-          "body": "adv_chara_123_09.png",
-          "body_sha256": "7259c2af35ff9f86295d74684f0c9fbd726f877c6ddba1c214e0606325cbd667",
-          "face": "adv_chara_123_09_11.png",
-          "face_sha256": "2fb37cfafc91d49074fc21181e077ef8c1beedf34d8f47ea086eb78998cd5e5a",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "e253438d370bbf2dbfa8973e8f2c77c621b4548ec977b4d5fe4261711e2b25b5"
-        },
-        {
-          "resource": "adv_chara_123_09_17",
-          "body": "adv_chara_123_09.png",
-          "body_sha256": "7259c2af35ff9f86295d74684f0c9fbd726f877c6ddba1c214e0606325cbd667",
-          "face": "adv_chara_123_09_17.png",
-          "face_sha256": "318e1ce2ffe078f45a4fe91ae63d750431590d8df4ac38c2e4589da1de9d6126",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "1984110766389325490cddbeb34cf216edebb6668d4efb7f61186662c1f18844"
-        },
-        {
-          "resource": "adv_chara_123_09_28",
-          "body": "adv_chara_123_09.png",
-          "body_sha256": "7259c2af35ff9f86295d74684f0c9fbd726f877c6ddba1c214e0606325cbd667",
-          "face": "adv_chara_123_09_28.png",
-          "face_sha256": "d3188a911a1dcbe51baf77739e2c91533ff09e59bbfea34bddd57b26c42c759b",
-          "native_face_offset": [
-            188,
-            99
-          ],
-          "output_sha256": "792a1f9fe89e373a6d70b263f31b8bfb37cb58e338800c355d637e85c3fc5651"
-        },
-        {
-          "resource": "adv_chara_163_01",
-          "body": "adv_chara_163_01.png",
-          "body_sha256": "f391a87e5e92cd791d733406ef762a4da0fb598e1fc99319d5961827144ca888",
-          "output_sha256": "c70661c4368e9be3af0bcfe01e68b7afeb9f336301834597fbe6e53e7358faea"
-        },
-        {
-          "resource": "adv_chara_199_01",
-          "body": "adv_chara_199_01.png",
-          "body_sha256": "f55e7b5ac25c2ada4fb98618ef9c01ec5585bd8e12dede0c33f190efeceaa0bd",
-          "output_sha256": "db721df3bcbb80828ae5f7024279a55722f4e12ebbc4ffca5cf3aeae18b67a31"
-        },
-        {
-          "resource": "adv_chara_212_01",
-          "body": "adv_chara_212_01.png",
-          "body_sha256": "acb117a3ba8ab5bba3dcd51e7d8ffc4e45de64e8e368810b6db80a41b9a017f6",
-          "output_sha256": "0b6500cd2f3b065f19243068272fc52b42831de138f58ef2cdc7b9447160eb99"
-        },
-        {
-          "resource": "adv_chara_214_01",
-          "body": "adv_chara_214_01.png",
-          "body_sha256": "91366ae4e915c90fb6df299f282502d5689e68971e08abdb2a3935a12b80f55f",
-          "output_sha256": "ae85f1dbf2a3879b900a52031e27eba8bbe817c9e121f211a521a41d8010d443"
-        },
-        {
-          "resource": "adv_chara_242_01",
-          "body": "adv_chara_242_01.png",
-          "body_sha256": "4c3345cddb7cefcccfd7b795e35cadcb4ff5a35995110e11ee1f644044481277",
-          "output_sha256": "99cf1e51ca7ce8e3cf6eeb15e91388e21c9e79a092699f1e789739255f58270e"
-        }
-      ],
-      "original_background_static_bindings": {
-        "status": "ACTUALLY_VIEWED_STATIC_ONLY",
-        "source_binding_receipt_sha256": "b9c2fe99a23db2bedf7b9fa30f0e46f984a5702aef676c974d83c8a5cfbda4ec",
-        "count": 15,
-        "assets": [
-          {
-            "resource": "bg_002.jpg.enc",
-            "sha256": "3b75aaa618dfb3885f414f4d31ef9d1cc899dec37c1c50cb408fc8f4ba00c36f",
-            "representative_native_occurrence": {
-              "episode_id": "401000050",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_004.jpg.enc",
-            "sha256": "31b63d12811facf787b9292fd1787ab066f6a28322772586cc0ead59135c0c4a",
-            "representative_native_occurrence": {
-              "episode_id": "401006489",
-              "page": 41,
-              "pointer": "/Pages/41/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_005.jpg.enc",
-            "sha256": "3fb088b1b9a764fd96643d5c694f8d157c82b9c8d85fb85073c037b8e57aec14",
-            "representative_native_occurrence": {
-              "episode_id": "401000046",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_027.jpg.enc",
-            "sha256": "aaa8fc18ee895582385f24f650f5990675f03d1dcd40e32eec1de4c89f0e5b36",
-            "representative_native_occurrence": {
-              "episode_id": "401001206",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_036.jpg.enc",
-            "sha256": "e57057f56d5178ac90ce694fad3f305b52ed1e1e5a4270e4c4f406d4b5c2e165",
-            "representative_native_occurrence": {
-              "episode_id": "401006489",
-              "page": 141,
-              "pointer": "/Pages/141/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_079.jpg.enc",
-            "sha256": "6a6aeb2444bb022982535133c4f4e703dd77181d7513940317d1af354b25e43c",
-            "representative_native_occurrence": {
-              "episode_id": "401006489",
-              "page": 113,
-              "pointer": "/Pages/113/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_101.jpg.enc",
-            "sha256": "12d6c9c44706d78e8cf2cc7064f3b0a6760f3d355d88ae0e380260797ff6d54c",
-            "representative_native_occurrence": {
-              "episode_id": "401006489",
-              "page": 76,
-              "pointer": "/Pages/76/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_111.jpg.enc",
-            "sha256": "49a803b161c4560b1a84ecd2f646b15bbc969df191c414a04f286a60bb54ba43",
-            "representative_native_occurrence": {
-              "episode_id": "401006489",
-              "page": 207,
-              "pointer": "/Pages/207/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_141.jpg.enc",
-            "sha256": "7afc2b83875382ea86d4845171445a1a5ea8a6d350e9e072933a4b951095b227",
-            "representative_native_occurrence": {
-              "episode_id": "401006489",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_351.jpg.enc",
-            "sha256": "bc53c23fcfa21e7b1f005d7820c1eb87b0e84ed0a58393af620a3d4960b74a80",
-            "representative_native_occurrence": {
-              "episode_id": "401006489",
-              "page": 75,
-              "pointer": "/Pages/75/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_352.jpg.enc",
-            "sha256": "83fec128996f4dcbc9bc37a1e6fec53bbd869bd88dd036d3a47a3f2375c55d45",
-            "representative_native_occurrence": {
-              "episode_id": "401006489",
-              "page": 236,
-              "pointer": "/Pages/236/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_545.jpg.enc",
-            "sha256": "12f4003cf3b2c4c188aa0ebdb560b961830b0d01edd907888a73b3010152afad",
-            "representative_native_occurrence": {
-              "episode_id": "401006489",
-              "page": 6,
-              "pointer": "/Pages/6/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_546.jpg.enc",
-            "sha256": "8b27903dbf369e8a5808954f097af1517e52586096f4b7d51a442b1987bfb5e1",
-            "representative_native_occurrence": {
-              "episode_id": "401006489",
-              "page": 95,
-              "pointer": "/Pages/95/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_565.jpg.enc",
-            "sha256": "ee208d2f58a40b19c4b1e33b163c47d67af776cdd4c7b91c649d9747e96bbcfc",
-            "representative_native_occurrence": {
-              "episode_id": "401006489",
-              "page": 159,
-              "pointer": "/Pages/159/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_575.jpg.enc",
-            "sha256": "d2addae626c27d8f6ef7b8b5157398861274f77547d12e05e04cbe20addf05e0",
-            "representative_native_occurrence": {
-              "episode_id": "401006489",
-              "page": 132,
-              "pointer": "/Pages/132/BackGround/FileName"
-            }
-          }
-        ]
-      },
-      "coverage_effective_state_sha256": "b609e7942109c800c80179b9d7292fe37f476f0b1c50791f9aa7874ce9b44029",
-      "execution_record": "09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md",
-      "entity_storage_append": {
-        "entering_manifest_sha256": "b93e206a8eba08351f49f77fb8d9d5d47c1a12daadf85d8ab8c230199fc48f9d",
-        "entering_logical_sha256": "8e64272cf600764236f6529890b228651cd336d820bd37c9957843706d868858",
-        "closing_manifest_sha256": "0e5b331a6327fa51e721a199ab52b1c4a813c2ee88524e54cafe865e13ce2271",
-        "closing_logical_sha256": "83d5088195c517e6a6ab9a9a5b8719ac5d0cad985583e4d442c6949dbab91ec9",
-        "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
-        "sealed_older_components_byte_exact": true
-      },
-      "control_storage_append": {
-        "entering_logical_source_lock_sha256": "e4d03e15399b8de922773becc1bc2545b37a9349225c8f12075ed240163b4792",
-        "entering_physical_owner_sha256": "8bdfe1fd30133b19dd50cd08adf0d0aefd97ee28d7d110c6d63c39a5c46b6c37",
-        "entering_coverage_manifest_sha256": "d0d62478f4b9f827877edf4c85e9c32ba6264638de8c03b2d816787699b42e37",
-        "closing_coverage_manifest_sha256": "446f34f95e6978e77cdeaedf5758cb1e1d05c5d9c8178d63f043d4fcd7b7c0dd",
-        "all_older_integrity_serialized_bytes": "BYTE_EXACT",
-        "administrative_storage_history": "UNCHANGED",
-        "logical_reader_required": true
-      },
-      "source_menu_and_chronology": "Complete independent conditional Intimacy occurrences; menu/source/priority order routes execution only; no total chronology.",
-      "boundary": "Actually bounded Japanese/native and selected static review; no performed voice/music/SFX listening, runtime, monograph maturity, full2034completion or2053admission."
-    },
-    "b0185_close_verification": {
-      "operation": "T7S_B0185_CLOSE",
-      "checked_at": "2026-10-14",
-      "status": "PASS_BOUNDED_ORDINARY_LIFE_TEXT_NATIVE_AND_STATIC_REVIEW",
-      "portfolio_route_key": "NM-INTIMACY-200460",
-      "native_character_family_id": "200460",
-      "episode_ids": [
-        "401000039",
-        "401000350",
-        "401000384",
-        "401000388",
-        "401000448",
-        "401000634",
-        "401000682",
-        "401001006",
-        "401001062"
-      ],
-      "source_bindings": [
-        {
-          "episode_id": "401000039",
-          "script_id": "intimate_0039.json__0f9c72a511e25e29",
-          "source_sha256": "69f5cb105a0a4a3bf3f132f02b9df7e3690d358085cd2ad52cf0da916a5e13af",
-          "decoded_sha256": "b36a2516f5b98a7835f9898a52d8d791fc928452d50208db97989cac18180ed2",
-          "normalized_sha256": "ca10f31827e2e0173404c35ec250160bad892943e2bcea2d7a851e7d01e8137d",
-          "structured_sha256": "ca10f31827e2e0173404c35ec250160bad892943e2bcea2d7a851e7d01e8137d",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000350",
-          "script_id": "intimate_0350.json__058ea1ea78ec08d0",
-          "source_sha256": "78a54fa6ede44b301b7d376d16f1e278ecd5e54a8006a23ba3192b023f1b9752",
-          "decoded_sha256": "6227ff3e8413c6d1ba10b63f1e5a12b24cb3500662e9922bee851656292ea030",
-          "normalized_sha256": "7499c397163d90d0cf8bb604dc4d2ca3b55c1644e8efad74c7955738d1d09987",
-          "structured_sha256": "7499c397163d90d0cf8bb604dc4d2ca3b55c1644e8efad74c7955738d1d09987",
-          "pages": 4,
-          "text_records": 3,
-          "command_only_pages": 1,
-          "voice_pages": 3,
-          "native_pages_verified": 4
-        },
-        {
-          "episode_id": "401000384",
-          "script_id": "intimate_0384.json__2793a7a198bfaf54",
-          "source_sha256": "d2f90a9d90bcd4dfdffc5ce10e831c3a532eddd4be6469ec32b6ef0f3d7dace9",
-          "decoded_sha256": "7ea6fa93622e9bad0455cabee2969625efa57441b7a83caad5f01486afdcd5df",
-          "normalized_sha256": "d4c03c7e3a8f17a44171a93d3aab0bd95e82c5b4919145af4eed211623488822",
-          "structured_sha256": "d4c03c7e3a8f17a44171a93d3aab0bd95e82c5b4919145af4eed211623488822",
-          "pages": 5,
-          "text_records": 4,
-          "command_only_pages": 1,
-          "voice_pages": 4,
-          "native_pages_verified": 5
-        },
-        {
-          "episode_id": "401000388",
-          "script_id": "intimate_0388.json__b1cb38a2ba54fe25",
-          "source_sha256": "bff70a79eeeade1fd77c5f74c471c907e52d27500d20008296114e8b4da83ebb",
-          "decoded_sha256": "fa8ee4f9702371cb4de7c214085e268820940e05a7ec3373fb3b145a9a4153b3",
-          "normalized_sha256": "616b65836db649c65c9b4d805ee7a80891d6db0dac0a79a61cfc94685228dbb5",
-          "structured_sha256": "616b65836db649c65c9b4d805ee7a80891d6db0dac0a79a61cfc94685228dbb5",
-          "pages": 5,
-          "text_records": 4,
-          "command_only_pages": 1,
-          "voice_pages": 4,
-          "native_pages_verified": 5
-        },
-        {
-          "episode_id": "401000448",
-          "script_id": "intimate_0448.json__93ecf4e735daf1ba",
-          "source_sha256": "492b85c2511b2d61f2010c518b7462ebab030ccc88229e28a9a864b5c26e2b6f",
-          "decoded_sha256": "b76d5e4c874d0f9b9b73d9d733fa689e40e035c45af137bc070824e295b39721",
-          "normalized_sha256": "61c14364f6bcacf34ea0244b49afff8aeb72e0fc00e77dc15d48f30362d52401",
-          "structured_sha256": "61c14364f6bcacf34ea0244b49afff8aeb72e0fc00e77dc15d48f30362d52401",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000634",
-          "script_id": "intimate_0634.json__b9f2b21fdc756903",
-          "source_sha256": "21678da9c2dddd05612be4db68ab98c7a5cad850e5c0bb5573eb36e798766821",
-          "decoded_sha256": "4993e140d640d78d4fd70ada3b7a6b5fd957c5388f0fb38646b16dcf3c42145a",
-          "normalized_sha256": "d6ef7b151f4659869865b9a5b9f4ec980a2830b4a6d18191409e8da328858c1e",
-          "structured_sha256": "d6ef7b151f4659869865b9a5b9f4ec980a2830b4a6d18191409e8da328858c1e",
-          "pages": 5,
-          "text_records": 4,
-          "command_only_pages": 1,
-          "voice_pages": 4,
-          "native_pages_verified": 5
-        },
-        {
-          "episode_id": "401000682",
-          "script_id": "intimate_0682.json__16fb33b465fc2208",
-          "source_sha256": "0bb8e0904fac27bddb6b71affa7c6c2723b74d270eaaee77cf8ece5a05b75b10",
-          "decoded_sha256": "a8678c9b9e9915817e6b5c1f7b6c4f28730f4e92861eb4e3a81b913c0758bf35",
-          "normalized_sha256": "32e463541df545710ed3f772b8e9f476dd323af294bfa20f26b7aef49a022997",
-          "structured_sha256": "32e463541df545710ed3f772b8e9f476dd323af294bfa20f26b7aef49a022997",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001006",
-          "script_id": "intimate_1006.json__45f4ce977c1bd99b",
-          "source_sha256": "5ef8867fc68ab84cedd456d1c1f91b586a32e297c6c85b91be3340f1f34cf7f6",
-          "decoded_sha256": "9bcfa5a6c801dce109a6c6df83a0d41ff029843568fadf88d5a2079dffc49168",
-          "normalized_sha256": "ed39c4c423fde8bb5b24abb1e89482b47df0c4290a6793740be534a167a2692f",
-          "structured_sha256": "ed39c4c423fde8bb5b24abb1e89482b47df0c4290a6793740be534a167a2692f",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001062",
-          "script_id": "intimate_1062.json__29543188f1283488",
-          "source_sha256": "6908223c77de064beeb6f62d06ec71ff47fe17dfc14b6c08ef528fc4a9b7dd8d",
-          "decoded_sha256": "008169d03ec77e8625b5710661c5f24feafa9589008c33362b4f18c4519ce481",
-          "normalized_sha256": "571e4d16cb8cfe13926ee9f1a4b0b854c5fc5f8d416e04c1da5fae62fe1e9662",
-          "structured_sha256": "571e4d16cb8cfe13926ee9f1a4b0b854c5fc5f8d416e04c1da5fae62fe1e9662",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        }
-      ],
-      "totals": {
-        "pages": 49,
-        "text_records": 40,
-        "command_only_pages": 9,
-        "voice_pages": 40,
-        "visual_refs": 280
-      },
-      "voice_count_basis": "Distinct dialogue-associated log-order references; any title carriers separately reviewed; no listening",
-      "native_packet_sha256": "a4dbc30706af2ec5f6f379337100f3dcef5bb6055667209ca945a56cb94ec7fa",
-      "dialogue_packet_sha256": "ed95cd0746f8a245e8ec4f95661733b4a9300e45867e810b0b9039fa762312c9",
-      "entering_repository_head": "66739eeacd16932a725d7a8515d6ea97628d6efc",
-      "entering_repository_tree": "0c0d79966fbe00f696f55099f5a047327275489a",
-      "entering_source_lock_version": "12.90",
-      "entering_source_lock_logical_sha256": "bb5eede679b0fc362946aac4bf1639a442df95893287f06e59ca4ade465d188b",
-      "entering_source_lock_physical_owner_sha256": "73589837a670b735a0e6520e86d5c7b83076381ce1b99181f72aec3647f074c8",
-      "entering_source_high_water": "T7S_B0184",
-      "prospective_boundary_sha256": "b5256b1be2c8f48a82aac234378ab963b0da2185aef331fa3da15d7f3b87f640",
-      "evidence_receipt_sha256": "53a30f55cd1f1e9d48654662bb4f3e24e34466302ae141818fd3dce98f95e43d",
-      "native_fields_projection_sha256": "f49078d0c79a8a2e1edd48e1989ebb3aa4e4be65be9cb710ea7ad8509479bdb3",
-      "actual_root_review_sha256": "38fc9f3548433c38f3521c60b1b448182ba7506e1102eec25b948d0597d42386",
-      "native_segment_review_sha256": "01774d8db266916694b538d0a314251bb73ee6b447569a723393e1554ff0c944",
-      "reading_sha256": "107e19ca4fed6e6beb8a908c336cf777052a98e6fd8c628e67dd864287dc79f6",
-      "literal_authored_state_sha256": "892e39a5f46a8a02597006a4446e2d9154f80aec2cc9be7322716accf5601472",
-      "visual_assets": [
-        {
-          "resource": "adv_chara_003_02_04",
-          "body": "adv_chara_003_02.png",
-          "body_sha256": "81ca424b3db7ec06f59bdef201d73426c018b984f1b1864b82404efe3b25deb9",
-          "face": "adv_chara_003_02_04.png",
-          "face_sha256": "f8c2fc7bdcb9d87ff516ef86efbbf63740724fe8ad3c958329540dad27631df6",
-          "native_face_offset": [
-            98,
-            92
-          ],
-          "output_sha256": "b4bf32d325cb5f15891ebf9214a2fe54cb4313b4039776afcd2c844d161baff6"
-        }
-      ],
-      "original_background_static_bindings": {
-        "status": "ACTUALLY_VIEWED_STATIC_ONLY",
-        "source_binding_receipt_sha256": "b9cdceb08ae6ef05e457ed83c0f5b1f48cdc86e66f3d6edf3684f1d0365240c0",
-        "count": 2,
-        "assets": [
-          {
-            "resource": "bg_002.jpg.enc",
-            "sha256": "3b75aaa618dfb3885f414f4d31ef9d1cc899dec37c1c50cb408fc8f4ba00c36f",
-            "representative_native_occurrence": {
-              "episode_id": "401000039",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_035.jpg.enc",
-            "sha256": "8fad1258b748aa41495f7471856bcb3917a58db72e6039b5d12c08e034d5ceb3",
-            "representative_native_occurrence": {
-              "episode_id": "401000350",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          }
-        ]
-      },
-      "coverage_effective_state_sha256": "3b4f2e215130f02a7802b9de49aa5bf542931a0abd6123efea0bebde358810f7",
-      "execution_record": "09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md",
-      "entity_storage_append": {
-        "entering_manifest_sha256": "95aaf16225a9db67c6aeca80466170dbb926afb7475b78136c5af2884f064616",
-        "entering_logical_sha256": "1d45b327b450729935ffa7c4b685d7c64cb47ee129133cf853b9e997ca5e05e3",
-        "closing_manifest_sha256": "b93e206a8eba08351f49f77fb8d9d5d47c1a12daadf85d8ab8c230199fc48f9d",
-        "closing_logical_sha256": "8e64272cf600764236f6529890b228651cd336d820bd37c9957843706d868858",
-        "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
-        "sealed_older_components_byte_exact": true
-      },
-      "control_storage_append": {
-        "entering_logical_source_lock_sha256": "bb5eede679b0fc362946aac4bf1639a442df95893287f06e59ca4ade465d188b",
-        "entering_physical_owner_sha256": "73589837a670b735a0e6520e86d5c7b83076381ce1b99181f72aec3647f074c8",
-        "entering_coverage_manifest_sha256": "0119d33a4870d75c0cf373aa690ebea5ae88b17d6350151d9e3cd1688a24fb7d",
-        "closing_coverage_manifest_sha256": "d0d62478f4b9f827877edf4c85e9c32ba6264638de8c03b2d816787699b42e37",
-        "all_older_integrity_serialized_bytes": "BYTE_EXACT",
-        "administrative_storage_history": "UNCHANGED",
-        "logical_reader_required": true
-      },
-      "source_menu_and_chronology": "Complete independent conditional Intimacy occurrences; menu/source/priority order routes execution only; no total chronology.",
-      "boundary": "Actually bounded Japanese/native and selected static review; no performed voice/music/SFX listening, runtime, monograph maturity, full2034completion or2053admission."
-    },
-    "b0184_close_verification": {
-      "operation": "T7S_B0184_CLOSE",
-      "checked_at": "2026-10-14",
-      "status": "PASS_BOUNDED_ORDINARY_LIFE_TEXT_NATIVE_AND_STATIC_REVIEW",
-      "portfolio_route_key": "NM-INTIMACY-200480",
-      "native_character_family_id": "200480",
-      "episode_ids": [
-        "401000028",
-        "401000352",
-        "401000400",
-        "401000590",
-        "401000670",
-        "401000730",
-        "401000906",
-        "401001002",
-        "401001066"
-      ],
-      "source_bindings": [
-        {
-          "episode_id": "401000028",
-          "script_id": "intimate_0028.json__c2e1cdceedd49372",
-          "source_sha256": "375d93c7269f3ac5ea48a6ed1629cc8d04ee3cbf1cca05a3e48ccaefc50d4d6a",
-          "decoded_sha256": "c3aa5d3ed3df5e68505713b37158f836377cc037b9872f2706fcae433e9ca2a3",
-          "normalized_sha256": "683f7f65c7acd2fecc4b37fd08a4f7ddc3303547d6ce4f8365fc6f75096033d6",
-          "structured_sha256": "683f7f65c7acd2fecc4b37fd08a4f7ddc3303547d6ce4f8365fc6f75096033d6",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000352",
-          "script_id": "intimate_0352.json__b47579ad69cb627c",
-          "source_sha256": "3dc7f4c4e6cfe8285c2ad0e64d1d90aaa8937d19dd0e5d6655172bda8983ebd4",
-          "decoded_sha256": "8403428b17886ee9064ed6c9c5f5a28a4b273733b8936dcd6d7dbc373d3d2ba0",
-          "normalized_sha256": "9a6ccccff6b94778a3de73bad0611432b324f397a58ce176290377570c351387",
-          "structured_sha256": "9a6ccccff6b94778a3de73bad0611432b324f397a58ce176290377570c351387",
-          "pages": 4,
-          "text_records": 3,
-          "command_only_pages": 1,
-          "voice_pages": 3,
-          "native_pages_verified": 4
-        },
-        {
-          "episode_id": "401000400",
-          "script_id": "intimate_0400.json__b4581abf7185a3d8",
-          "source_sha256": "bfe3bd0a51eacf239f137647921454c4b04ee0884e1c628aef4f77e8f1bcca8b",
-          "decoded_sha256": "d233a8795e5f9503834111ab0f780cbf31ad364619e47708dffc4f0161988c1e",
-          "normalized_sha256": "2f578881ff5ecb1c1db54f0b32e10a9624817b6ced7a5055ebbbcc95035deaa8",
-          "structured_sha256": "2f578881ff5ecb1c1db54f0b32e10a9624817b6ced7a5055ebbbcc95035deaa8",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000590",
-          "script_id": "intimate_0590.json__07f9f141a0f9ad8b",
-          "source_sha256": "d6c6fb491a9293a50b802359f73b7ec76ddb91ab53720cd2fa9705efe2697beb",
-          "decoded_sha256": "58ab64d46cedde59e3fe2c1cce240de5f52e5b2c4b2d42f73a2e13fd37c89b11",
-          "normalized_sha256": "69dda8e61767c128d9a9bf5ea41ba84e0d00da5b6ab2d45ceeb3e4237a96af92",
-          "structured_sha256": "69dda8e61767c128d9a9bf5ea41ba84e0d00da5b6ab2d45ceeb3e4237a96af92",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000670",
-          "script_id": "intimate_0670.json__0e61805b9f2695b9",
-          "source_sha256": "d5146920966b7e69a867e89b6cfdd315e1d6725f2054dd75a85e78cc57dfba88",
-          "decoded_sha256": "4f2d417edd9b4db469c0e57c1cdc15084f00a28a449223c407c26c03ac69522c",
-          "normalized_sha256": "5944563828ebcefbb515d23592ffeaa4eb18052b0bf57ecfbd8a028da6f84d96",
-          "structured_sha256": "5944563828ebcefbb515d23592ffeaa4eb18052b0bf57ecfbd8a028da6f84d96",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000730",
-          "script_id": "intimate_0730.json__5f5388e277425a01",
-          "source_sha256": "c56f5909fdedb2d6c459a6dc69fdcb661c61b55dacb6ea7f7114b0bc13905709",
-          "decoded_sha256": "3214c78724ad05c9c6e7c20be87881b59fa015930b1ecec1a7c601b8574963a2",
-          "normalized_sha256": "d1364c5ddb2fcd07a9ff0aabc083a464cc9ffba500e443cb1b84cc09085fd62b",
-          "structured_sha256": "d1364c5ddb2fcd07a9ff0aabc083a464cc9ffba500e443cb1b84cc09085fd62b",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000906",
-          "script_id": "intimate_0906.json__85b12c3eabfa0791",
-          "source_sha256": "25bcf3f8a7d42338a3e908b6abace78d91af97d4b4511ce9d377c7c2614a24d4",
-          "decoded_sha256": "0b7269014bb2cbe193560a7a5d4985d9061810f4fdb5c57d9c2865ef2f8dcca3",
-          "normalized_sha256": "df261b0c1a776bd12b0c4440c0655bfd4ef18668b473960db5f5b85add5fd21a",
-          "structured_sha256": "df261b0c1a776bd12b0c4440c0655bfd4ef18668b473960db5f5b85add5fd21a",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001002",
-          "script_id": "intimate_1002.json__4b86f42429506c9b",
-          "source_sha256": "36da483f09ced6b675d7432ce3ac37039faf3e26597cac87911fdcde2576687f",
-          "decoded_sha256": "0910f7911127af7eb34ed31fef07f0eef3ac205459edf2e1bd7eb4ba5166ef8d",
-          "normalized_sha256": "5667838bd93ed680a8b5fcc85487a2c10597c0febc0d2d2e1cb91b095609bd20",
-          "structured_sha256": "5667838bd93ed680a8b5fcc85487a2c10597c0febc0d2d2e1cb91b095609bd20",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001066",
-          "script_id": "intimate_1066.json__2f2f7965ab33c6ca",
-          "source_sha256": "08868a98f7c673cbf186ec6d57737de081252764b8ea774ca7be1a8b58c331a6",
-          "decoded_sha256": "a017b7a68b8207d78d334b01a551b7c9ce6ffe09ae6eda59a9519c7937f5c3f5",
-          "normalized_sha256": "a2c7bbf684710bf653fd868ffd090b1f07b2284728622f3dd31ce1f4c4c68c31",
-          "structured_sha256": "a2c7bbf684710bf653fd868ffd090b1f07b2284728622f3dd31ce1f4c4c68c31",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        }
-      ],
-      "totals": {
-        "pages": 52,
-        "text_records": 43,
-        "command_only_pages": 9,
-        "voice_pages": 43,
-        "visual_refs": 301
-      },
-      "voice_count_basis": "Distinct dialogue-associated log-order references; any title carriers separately reviewed; no listening",
-      "native_packet_sha256": "2e98172f350f28c88f31d5d230b8885d7e9ba2882f8610d632238e266ad9501f",
-      "dialogue_packet_sha256": "7f54cf3154e344aba2114cdca87ec87cf0b84dcd98fdd3514889ff2148f6bd3f",
-      "entering_repository_head": "17643f00b3f50f4c446f1a0fb8fa8d0282072164",
-      "entering_repository_tree": "9b46f01513216cee27eebf3c7e1a3768090c025d",
-      "entering_source_lock_version": "12.89",
-      "entering_source_lock_logical_sha256": "c80e3dfdaa45a562bfec3e398881defbcd88097e59f37c57ff8ca6ecaf2e927a",
-      "entering_source_lock_physical_owner_sha256": "9198193808bbd0afd9e0219d4faf937f0c4dee82c575d92db884750e5b0439a3",
-      "entering_source_high_water": "T7S_B0183",
-      "prospective_boundary_sha256": "4d3a5e7f060d19b598b7d8d95f1386802cefe256bdd9ffd34a3b1bc9634e3d82",
-      "evidence_receipt_sha256": "0696e2472d1c271dd96f2e8a2edb2bb9f5efd1a20099ea27f31bca16c83d060c",
-      "native_fields_projection_sha256": "3cf8598c6402e01e90527758eb74d899a1c20b90a12179cbb42d165b18b7d301",
-      "actual_root_review_sha256": "d06d6a299a3d552fc2e1d81edd22343169ed40c35d7c9cbb86115501e046c0ee",
-      "native_segment_review_sha256": "8a87a641fa16a457408994bbc25872d193fcba5537b20e8fac40df00978e370c",
-      "reading_sha256": "628a1f03f8e85d88527edaa3489f2cbd4c0ff8cfc4816d12c3e78b806836334e",
-      "literal_authored_state_sha256": "397afd01855aa4d490e55c70e938d9930f3b418383b8b7b23b71a4de41474f7b",
-      "visual_assets": [
-        {
-          "resource": "adv_chara_005_01_06",
-          "body": "adv_chara_005_01.png",
-          "body_sha256": "5eacc7b48f482d043fd5ebcb64d978a16ea335fd2c83a4b641983d2938444f21",
-          "face": "adv_chara_005_01_06.png",
-          "face_sha256": "64d462bae01306ef37c69391cb68cec019f5db3c7e023f90df56e41f24171e16",
-          "native_face_offset": [
-            76,
-            85
-          ],
-          "output_sha256": "610d49a021d49f8b3afda75920894c9e409ce35fcf0b9a2d3e819ad25c6c22a8"
-        },
-        {
-          "resource": "adv_chara_005_02_01",
-          "body": "adv_chara_005_02.png",
-          "body_sha256": "495af8e9da9f07ee113a270a242ad90534d119db02f8bb7a25ef89ef2f81a948",
-          "face": "adv_chara_005_02_01.png",
-          "face_sha256": "d67b1b54daa9ec5da6b1338ef59328093c2e2bd93c2fe4514257f0e37a3a5955",
-          "native_face_offset": [
-            76,
-            85
-          ],
-          "output_sha256": "b98c99190320c43761acf00754508c1bb7a96f189555b188a8dcf96014b12f90"
-        }
-      ],
-      "original_background_static_bindings": {
-        "status": "ACTUALLY_VIEWED_STATIC_ONLY",
-        "source_binding_receipt_sha256": "587be218d29e6ea34131cb839d03e5931ff2b28d7ca78f52005be71ffcada7fd",
-        "count": 6,
-        "assets": [
-          {
-            "resource": "bg_002.jpg.enc",
-            "sha256": "3b75aaa618dfb3885f414f4d31ef9d1cc899dec37c1c50cb408fc8f4ba00c36f",
-            "representative_native_occurrence": {
-              "episode_id": "401000028",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_005.jpg.enc",
-            "sha256": "3fb088b1b9a764fd96643d5c694f8d157c82b9c8d85fb85073c037b8e57aec14",
-            "representative_native_occurrence": {
-              "episode_id": "401000590",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_015.jpg.enc",
-            "sha256": "77e6aa65683b4da31b357978d5a462716498e113d78b76635cc7e4b3c54cc5a2",
-            "representative_native_occurrence": {
-              "episode_id": "401001002",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_027.jpg.enc",
-            "sha256": "aaa8fc18ee895582385f24f650f5990675f03d1dcd40e32eec1de4c89f0e5b36",
-            "representative_native_occurrence": {
-              "episode_id": "401000352",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_028.jpg.enc",
-            "sha256": "3c341b1ee7e2159ad639868f3ed3784556f39b795b91621db5d655e8c31a1259",
-            "representative_native_occurrence": {
-              "episode_id": "401000400",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_029.jpg.enc",
-            "sha256": "ad7723032f9909e830947909a38225e70864874e394f9d51c862ad084d042349",
-            "representative_native_occurrence": {
-              "episode_id": "401000670",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          }
-        ]
-      },
-      "coverage_effective_state_sha256": "99ba08322fcdac114c49aba0af306e0d395472335d3b617a538d819d08194ff1",
-      "execution_record": "09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md",
-      "entity_storage_append": {
-        "entering_manifest_sha256": "48b3038ea1da38068e10dd79fbbe2016b083aa763e011b9c0767be66072ce8b9",
-        "entering_logical_sha256": "fa6cac3bff233e40e84bde5afd7580608d2848cf7250677002b19f571a629665",
-        "closing_manifest_sha256": "95aaf16225a9db67c6aeca80466170dbb926afb7475b78136c5af2884f064616",
-        "closing_logical_sha256": "1d45b327b450729935ffa7c4b685d7c64cb47ee129133cf853b9e997ca5e05e3",
-        "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
-        "sealed_older_components_byte_exact": true
-      },
-      "control_storage_append": {
-        "entering_logical_source_lock_sha256": "c80e3dfdaa45a562bfec3e398881defbcd88097e59f37c57ff8ca6ecaf2e927a",
-        "entering_physical_owner_sha256": "9198193808bbd0afd9e0219d4faf937f0c4dee82c575d92db884750e5b0439a3",
-        "entering_coverage_manifest_sha256": "04a6cdee053c5ab5aadc68ed45ac5757c1be677df7a345f8067ba92c779c577b",
-        "closing_coverage_manifest_sha256": "0119d33a4870d75c0cf373aa690ebea5ae88b17d6350151d9e3cd1688a24fb7d",
-        "all_older_integrity_serialized_bytes": "BYTE_EXACT",
-        "administrative_storage_history": "UNCHANGED",
-        "logical_reader_required": true
-      },
-      "source_menu_and_chronology": "Complete independent conditional Intimacy occurrences; menu/source/priority order routes execution only; no total chronology.",
-      "boundary": "Actually bounded Japanese/native and selected static review; no performed voice/music/SFX listening, runtime, monograph maturity, full2034completion or2053admission."
-    },
-    "b0183_close_verification": {
-      "operation": "T7S_B0183_CLOSE",
-      "checked_at": "2026-10-14",
-      "status": "PASS_BOUNDED_ORDINARY_LIFE_TEXT_NATIVE_AND_STATIC_REVIEW",
-      "portfolio_route_key": "NM-INTIMACY-200520",
-      "native_character_family_id": "200520",
-      "episode_ids": [
-        "401000017",
-        "401000356",
-        "401000404",
-        "401000618",
-        "401000666",
-        "401000714",
-        "401000942",
-        "401000974",
-        "401001222"
-      ],
-      "source_bindings": [
-        {
-          "episode_id": "401000017",
-          "script_id": "intimate_0017.json__29eeb182f15c2d99",
-          "source_sha256": "8b5fa3abd06c9681e3bf5d37900b4fbe6a147f5f9988f8305aaefeb3e13ad9ce",
-          "decoded_sha256": "0530680354e7a0f76f05faa33182aae5739342410c0d1b9dbfd9ffc567753409",
-          "normalized_sha256": "87b87c97468a3c21721fb4f54972b1384526f7ffddebfbcba0a34b6289625738",
-          "structured_sha256": "87b87c97468a3c21721fb4f54972b1384526f7ffddebfbcba0a34b6289625738",
-          "pages": 5,
-          "text_records": 4,
-          "command_only_pages": 1,
-          "voice_pages": 4,
-          "native_pages_verified": 5
-        },
-        {
-          "episode_id": "401000356",
-          "script_id": "intimate_0356.json__a9ba64429e82d556",
-          "source_sha256": "dd8a8ee6445351acaf60f6d3874e8fe105c793405336863583c1b82f8c3fb114",
-          "decoded_sha256": "ba7b4e4750b56e5d44d0b318972beab9d90dc58319d062f2034101b2eb140a52",
-          "normalized_sha256": "53f2835aa4d25a4db90256bf96d1eecfbf8c0b04f6cb384c17c82c1399a5a8c3",
-          "structured_sha256": "53f2835aa4d25a4db90256bf96d1eecfbf8c0b04f6cb384c17c82c1399a5a8c3",
-          "pages": 4,
-          "text_records": 3,
-          "command_only_pages": 1,
-          "voice_pages": 3,
-          "native_pages_verified": 4
-        },
-        {
-          "episode_id": "401000404",
-          "script_id": "intimate_0404.json__56b99df0ece1a980",
-          "source_sha256": "0fdd0fa45f170050affdd39439a1c96acb912ae7e313e708b7fc8cc0226b3f73",
-          "decoded_sha256": "e75d75212bdf73ac7b12c58931c0f36c9ac8d52cafb9a45a652cd54aba1cfb89",
-          "normalized_sha256": "b3469bd7623b63469a2167112c2a8f90403ffb7591cff6a44a2b1955957f4b82",
-          "structured_sha256": "b3469bd7623b63469a2167112c2a8f90403ffb7591cff6a44a2b1955957f4b82",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000618",
-          "script_id": "intimate_0618.json__44e5d54a6ef8277d",
-          "source_sha256": "1edd39dce296669148fbdb59160f513fa865cc285ce8858cf90d3a3d8d9b56ed",
-          "decoded_sha256": "0fed8e725dd440b6f1c25d3a354805812b78383309a4ecb94fca0fcbb30c3cdd",
-          "normalized_sha256": "04c572694cbd68e30740e9754118aa0fc4df6fc02719f5ce352a73e08f371629",
-          "structured_sha256": "04c572694cbd68e30740e9754118aa0fc4df6fc02719f5ce352a73e08f371629",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000666",
-          "script_id": "intimate_0666.json__966cbe52cdef0c5a",
-          "source_sha256": "d7e37e436acb51deb43be285980f57bffe74d48f4826f95340d410a3ff720d5a",
-          "decoded_sha256": "d378bd5b576bee1bd31cd86ff176d530dc4ad63eae5c0efe7ee41d5e3a63f7e5",
-          "normalized_sha256": "24b79aba014f02e8bc7b8af73e5d7149d1dfecdcc711e3c127c07c7536d2eb4c",
-          "structured_sha256": "24b79aba014f02e8bc7b8af73e5d7149d1dfecdcc711e3c127c07c7536d2eb4c",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000714",
-          "script_id": "intimate_0714.json__404527e5bcb3f8f6",
-          "source_sha256": "a30bbe81afccc5d18b836ee74b16a9c5a8150122f81f43514af70b2def60f8b9",
-          "decoded_sha256": "ed1a503f89ea327d322aa78d6230af5e9b2bbba818c6f0be937d4b6423b86ea0",
-          "normalized_sha256": "e806f98c4ef189a3c1dced911fcf44da18793b0eb5e5d6000c210e100f53e0ba",
-          "structured_sha256": "e806f98c4ef189a3c1dced911fcf44da18793b0eb5e5d6000c210e100f53e0ba",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000942",
-          "script_id": "intimate_0942.json__98568547f695e967",
-          "source_sha256": "453d139ba65cbc443d7cd8c564c7d2234832904d551733438bf26681a9b0e049",
-          "decoded_sha256": "4080591cef4d65318b19b887e37e97fcb48229833573cefd48d927adff3e1039",
-          "normalized_sha256": "1dd8dc9c0040ce024443ae1b5885135c3c3bc6a2ad9a2fa7be067e6c939e75dd",
-          "structured_sha256": "1dd8dc9c0040ce024443ae1b5885135c3c3bc6a2ad9a2fa7be067e6c939e75dd",
-          "pages": 5,
-          "text_records": 4,
-          "command_only_pages": 1,
-          "voice_pages": 4,
-          "native_pages_verified": 5
-        },
-        {
-          "episode_id": "401000974",
-          "script_id": "intimate_0974.json__e59baeb96ef669d9",
-          "source_sha256": "82eb65b3df4d7ddad4f91b47b7a0409ef4c557a5dfe2764f7d717f6f1c514b48",
-          "decoded_sha256": "2bef14aa12f01297dbef148271ef15b7457ba7d797aefef94d9eed3f980f7c07",
-          "normalized_sha256": "3311b9e085318425c2d7f3a686885784d4c8af119cc8cb72c4a7dae79a061fab",
-          "structured_sha256": "3311b9e085318425c2d7f3a686885784d4c8af119cc8cb72c4a7dae79a061fab",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001222",
-          "script_id": "intimate_1222.json__1cb7ae9e1fa15f57",
-          "source_sha256": "021d204ffd8adba28b0500a89082e6fbba8b44fad2304625fecaeaeeaeb6e2a0",
-          "decoded_sha256": "350a608a2cd9e1e9ab4f3fcc3cf03b7cdeb67e4ca616f68bddca136b26efede9",
-          "normalized_sha256": "bdff7e09142a93fa5d967875c5977dbbcca09e6eba4edd30d1ee1f6e4ae01d07",
-          "structured_sha256": "bdff7e09142a93fa5d967875c5977dbbcca09e6eba4edd30d1ee1f6e4ae01d07",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        }
-      ],
-      "totals": {
-        "pages": 50,
-        "text_records": 41,
-        "command_only_pages": 9,
-        "voice_pages": 41,
-        "visual_refs": 287
-      },
-      "voice_count_basis": "Distinct dialogue-associated log-order references; any title carriers separately reviewed; no listening",
-      "native_packet_sha256": "d2acc88fefc5e0de2c4a0997ba7b067153aeff6314858951786cbc2f968fb58b",
-      "dialogue_packet_sha256": "175b837c6911dc4e49aa97a74a709e9a1c42d747458e9a7006e8f216d43d2e79",
-      "entering_repository_head": "f0ef86fd94a0ffad0fd0aac983b053620c25eb1d",
-      "entering_repository_tree": "e9d2ea20ea62e5beb5bcc29cffb779b56c0e7601",
-      "entering_source_lock_version": "12.88",
-      "entering_source_lock_logical_sha256": "a682d96e82d4d0281687e5dd98a7bde4aca8528d1dc705acec5d86a614de45c8",
-      "entering_source_lock_physical_owner_sha256": "d44607380bb599b9a47067be555466a5e2ecb18e42c2d42b3b4a74c0a1d98b53",
-      "entering_source_high_water": "T7S_B0182",
-      "prospective_boundary_sha256": "856b40ef530fa94d1a9021b0547df99aa8c374c45c360dfee4f49adc17c0df60",
-      "evidence_receipt_sha256": "29517f4f3e5497503133fc63b942bddb084e51b20617ec56e90b24e44c90befc",
-      "native_fields_projection_sha256": "8e8c9f55e3427b41fea6a5530e950d9640e499585dd9a9a9121362a766ec31b9",
-      "actual_root_review_sha256": "231cf2d57c8952045dc89759fb17059ea706f41ae4f3789b075c2616bf25bafd",
-      "native_segment_review_sha256": "782f906e59307904a946f6ad11b30ac8e295de4a4dac61c9da95229e5819f86c",
-      "reading_sha256": "2f1655275a443aa5ad3a4d60b79753c6d2e11e93af9a1c84446c560ac0fe3578",
-      "literal_authored_state_sha256": "8de22c401ff30c5e7b618a48e6b40e433501044724e958bca663307cb54b2707",
-      "visual_assets": [
-        {
-          "resource": "adv_chara_009_01_01",
-          "body": "adv_chara_009_01.png",
-          "body_sha256": "1394bf131aa1b5da7c122369f6602f13b148e83d25b22aa97c514b98a255f3c5",
-          "face": "adv_chara_009_01_01.png",
-          "face_sha256": "1ff4b74c551e65be21ef4e8f0a76847c123113635eab8b48dc0f8ad47173f2fb",
-          "native_face_offset": [
-            109,
-            85
-          ],
-          "output_sha256": "ee38b58e18dd992325e4ab9ea00f63a5feac7eff56e6e8f8b47313abc933a290"
-        }
-      ],
-      "original_background_static_bindings": {
-        "status": "ACTUALLY_VIEWED_STATIC_ONLY",
-        "source_binding_receipt_sha256": "b118d0b66ba3b49ddf209373b7a89dda491e78bf2b9b4da0f46988c3d4274a4d",
-        "count": 8,
-        "assets": [
-          {
-            "resource": "bg_002.jpg.enc",
-            "sha256": "3b75aaa618dfb3885f414f4d31ef9d1cc899dec37c1c50cb408fc8f4ba00c36f",
-            "representative_native_occurrence": {
-              "episode_id": "401000017",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_004.jpg.enc",
-            "sha256": "31b63d12811facf787b9292fd1787ab066f6a28322772586cc0ead59135c0c4a",
-            "representative_native_occurrence": {
-              "episode_id": "401000974",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_012.jpg.enc",
-            "sha256": "b6f6fa1bf6eeb2ea4af48902f59b664ea74c4f3639035ec48c2bda3cd6fc70f4",
-            "representative_native_occurrence": {
-              "episode_id": "401000618",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_023.jpg.enc",
-            "sha256": "b0fb785518e8445152b99dc331cb4f81b5c2a8e9a63e7a4b799e3532763a6355",
-            "representative_native_occurrence": {
-              "episode_id": "401000942",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_029.jpg.enc",
-            "sha256": "ad7723032f9909e830947909a38225e70864874e394f9d51c862ad084d042349",
-            "representative_native_occurrence": {
-              "episode_id": "401000666",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_031.jpg.enc",
-            "sha256": "5572b02b47870495fe839f40ee8c490db0b9c2f91b45cfaefd9ecf03249705ad",
-            "representative_native_occurrence": {
-              "episode_id": "401000404",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_033.jpg.enc",
-            "sha256": "fea4b60e4bef19ee4bc7d590a65c3fd6852b0566c38b90e322c2d80bed3cbbeb",
-            "representative_native_occurrence": {
-              "episode_id": "401000356",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_035.jpg.enc",
-            "sha256": "8fad1258b748aa41495f7471856bcb3917a58db72e6039b5d12c08e034d5ceb3",
-            "representative_native_occurrence": {
-              "episode_id": "401000714",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          }
-        ]
-      },
-      "coverage_effective_state_sha256": "13d4fd00e1005e50a0bcda38b5c64e5d61c6f39b2ef977b26e5f65626c87f527",
-      "execution_record": "09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md",
-      "entity_storage_append": {
-        "entering_manifest_sha256": "9a74566e352266afc7cc06056790ba1e0453738100a6d2912686bc2135da9bc7",
-        "entering_logical_sha256": "c4460dc70870dd156abe56684da392e2d782a417f671641fc03c48042b057bcc",
-        "closing_manifest_sha256": "48b3038ea1da38068e10dd79fbbe2016b083aa763e011b9c0767be66072ce8b9",
-        "closing_logical_sha256": "fa6cac3bff233e40e84bde5afd7580608d2848cf7250677002b19f571a629665",
-        "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
-        "sealed_older_components_byte_exact": true
-      },
-      "control_storage_append": {
-        "entering_logical_source_lock_sha256": "a682d96e82d4d0281687e5dd98a7bde4aca8528d1dc705acec5d86a614de45c8",
-        "entering_physical_owner_sha256": "d44607380bb599b9a47067be555466a5e2ecb18e42c2d42b3b4a74c0a1d98b53",
-        "entering_coverage_manifest_sha256": "052d360ffb1f5f21e3f3148d2a5b606841dbfa4679537a013233cbc00fec4dd4",
-        "closing_coverage_manifest_sha256": "04a6cdee053c5ab5aadc68ed45ac5757c1be677df7a345f8067ba92c779c577b",
-        "all_older_integrity_serialized_bytes": "BYTE_EXACT",
-        "administrative_storage_history": "UNCHANGED",
-        "logical_reader_required": true
-      },
-      "source_menu_and_chronology": "Complete independent conditional Intimacy occurrences; menu/source/priority order routes execution only; no total chronology.",
-      "boundary": "Actually bounded Japanese/native and selected static review; no performed voice/music/SFX listening, runtime, monograph maturity, full2034completion or2053admission."
-    },
-    "b0182_close_verification": {
-      "operation": "T7S_B0182_CLOSE",
-      "checked_at": "2026-10-14",
-      "status": "PASS_BOUNDED_ORDINARY_LIFE_TEXT_NATIVE_AND_STATIC_REVIEW",
-      "portfolio_route_key": "NM-INTIMACY-200740",
-      "native_character_family_id": "200740",
-      "episode_ids": [
-        "401000002",
-        "401000006",
-        "401000830",
-        "401000926",
-        "401001078",
-        "401001186",
-        "401001382"
-      ],
-      "source_bindings": [
-        {
-          "episode_id": "401000002",
-          "script_id": "intimate_0002.json__51f23659b79fc4ed",
-          "source_sha256": "c036c6f17d2054ac081fbfc9e82a6b84a1da133d3d408e22999283bd90200111",
-          "decoded_sha256": "055cc030b8a8fe70b2a870e29909f5984f36d4c164ef5ca926f20c05f1563235",
-          "normalized_sha256": "e6b23ca975498126003442466a7d9a25597edc19f42529a1047b050b65d00264",
-          "structured_sha256": "e6b23ca975498126003442466a7d9a25597edc19f42529a1047b050b65d00264",
-          "pages": 4,
-          "text_records": 3,
-          "command_only_pages": 1,
-          "voice_pages": 3,
-          "native_pages_verified": 4
-        },
-        {
-          "episode_id": "401000006",
-          "script_id": "intimate_0006.json__49f58b6c38f4fa45",
-          "source_sha256": "567146882f8df4c596379d41387798f5630e432fd55d154095f7ecf7e3998c71",
-          "decoded_sha256": "a31ab912c82c2f825b54259d589ff543eb12a7d5c2e02e338d0e313ad028d161",
-          "normalized_sha256": "a73e110010ba2022ff9e076503d64c6d82fe6376ef7dae40d17e28bcee0b6a00",
-          "structured_sha256": "a73e110010ba2022ff9e076503d64c6d82fe6376ef7dae40d17e28bcee0b6a00",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000830",
-          "script_id": "intimate_0830.json__3ba0a5a8482cf419",
-          "source_sha256": "d8ee13f9a1fad7eb5c2a44c1d0e1614b4ba9f4e4645c718c3708b91d7c3396e1",
-          "decoded_sha256": "39c13ddd27d11b26ef30a564c83bee4a79a9147cca0d6dc84775f8e199303e08",
-          "normalized_sha256": "d0a2ed3ac8fa11c18ab99821e016819adf01c6d5105cad31f87007740c83e88b",
-          "structured_sha256": "d0a2ed3ac8fa11c18ab99821e016819adf01c6d5105cad31f87007740c83e88b",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401000926",
-          "script_id": "intimate_0926.json__2166c6063834a53b",
-          "source_sha256": "e938ad07239956983e81329d6a207890e9e08071490503f305ca211246331911",
-          "decoded_sha256": "bf4aea327d8092a433f7952882409e4b3c37b4a33ed3f20ed81287f8ea1a18a3",
-          "normalized_sha256": "3d76ee9f2bcc41e74528eb85413bff3fe2041ac5af9bbf2342e713add8410b08",
-          "structured_sha256": "3d76ee9f2bcc41e74528eb85413bff3fe2041ac5af9bbf2342e713add8410b08",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001078",
-          "script_id": "intimate_1078.json__89ff59e829800cf6",
-          "source_sha256": "86cbe5674172832f0a598b96c7469348f056063223e3b76cd588176c40c79e09",
-          "decoded_sha256": "977ed4f83be460efd59a880a3f83ef4d2708bfb669c76ccdea28752a96980bdd",
-          "normalized_sha256": "ca741cf748369263015eeb811ba87482313bfc86d44fbf8626e1c32cf1068623",
-          "structured_sha256": "ca741cf748369263015eeb811ba87482313bfc86d44fbf8626e1c32cf1068623",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001186",
-          "script_id": "intimate_1186.json__6937b192466eeedb",
-          "source_sha256": "0724096b9d16fdb887d424a5e7a698e4726ce1ab78a3c17d5a92463cc4d0d7aa",
-          "decoded_sha256": "c04693af68e98ef065c36e5620f8d51f2385c61ee30204c0f7d5a98e9cda01d9",
-          "normalized_sha256": "375e6cb7a09b2d1fd5300c94b219d6cfba5b1bf65e4d54f63a9e914ce97af2e7",
-          "structured_sha256": "375e6cb7a09b2d1fd5300c94b219d6cfba5b1bf65e4d54f63a9e914ce97af2e7",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        },
-        {
-          "episode_id": "401001382",
-          "script_id": "intimate_1382.json__40fa3e3e808c1966",
-          "source_sha256": "83e0900feba10f3c42d6afd9b013a449d40eebb4214c9ed80745de77afee4e82",
-          "decoded_sha256": "d43fd9a2b002a3e88c716c93c5e8d0f64db3fc9634f9cf13968f3139dd57b69f",
-          "normalized_sha256": "666b6a147676d9d1ea9b113dd6fdf98650f81149eda5670e7f18b991f2ac8026",
-          "structured_sha256": "666b6a147676d9d1ea9b113dd6fdf98650f81149eda5670e7f18b991f2ac8026",
-          "pages": 6,
-          "text_records": 5,
-          "command_only_pages": 1,
-          "voice_pages": 5,
-          "native_pages_verified": 6
-        }
-      ],
-      "totals": {
-        "pages": 40,
-        "text_records": 33,
-        "command_only_pages": 7,
-        "voice_pages": 33,
-        "visual_refs": 231
-      },
-      "voice_count_basis": "Distinct dialogue-associated log-order references; title declarations additional; no listening",
-      "native_packet_sha256": "8a696baeda5f8486032a6cedc5771b7577c727300c44ea7dd756f7226c970ef3",
-      "dialogue_packet_sha256": "7f9930cc51813ac2a6542b7e1406f26751f221ac6c6d3a72a45f0d5964a663e8",
-      "entering_repository_head": "939d40a3473a73bcaa60e08b3087655d4150d7b0",
-      "entering_repository_tree": "1e855f15297f0a1bb98949c516077d89b14da517",
-      "entering_source_lock_version": "12.87",
-      "entering_source_lock_logical_sha256": "d270255d52a52cd1c89a8adefcbc8b6c43f2c2e8256fdfc128f0bfae197cc211",
-      "entering_source_lock_physical_owner_sha256": "f4b0ea2c2eed47470ddd2741cbee0a876de747c0509eda33ae9e5af94bef56cf",
-      "entering_source_high_water": "T7S_B0181",
-      "prospective_boundary_sha256": "8ae7cbd124d536d656e0eadfec7da3b9a7a3a1eed88ecbea66e3f7861ce9f64e",
-      "evidence_receipt_sha256": "5a08f4b4fa15768e0632217f53c278541f3561d7083dbb84a190c6d0e2e2d917",
-      "native_fields_projection_sha256": "d6bda53c44c64e4c8f6ad86da83136d7936fc4bc6e726f608672b352f25912d9",
-      "actual_root_review_sha256": "89b774655c3ddf673aa559fe134a39b0828bc08bdc9af077173350815276344d",
-      "native_segment_review_sha256": "3e4be9713f3ca3fc227d2c6cabd848e12781787f17b9629ef5dc98ce80e40625",
-      "reading_sha256": "f1749ce6a2cb3ab53bd2a6e1ddf302e42fd78332e816a60d3a11594497fd1b2c",
-      "literal_authored_state_sha256": "ad5d9e4e84f618de86827ca9cef7c436e7b5ea9b7a2ef9f46d4af83a737c4c85",
-      "visual_assets": [
-        {
-          "resource": "adv_chara_136_01_01",
-          "body": "adv_chara_136_01.png",
-          "body_sha256": "200a9e40c75a925f2991b38854443b5b026c20e01c466aef28b79b3904400bd3",
-          "face": "adv_chara_136_01_01.png",
-          "face_sha256": "811e413aa7ef6a7078bcb69a5a7ef73dfa67a800303c20299fe590a8214f2658",
-          "native_face_offset": [
-            115,
-            34
-          ],
-          "output_sha256": "31d25641e42954c7cdb0be726d9333ce831a698bacc13ba4cc9c0c39a8d94069"
-        }
-      ],
-      "original_background_static_bindings": {
-        "status": "ACTUALLY_VIEWED_STATIC_ONLY",
-        "source_binding_receipt_sha256": "0afd9071d6af70d99f9f0dcf6891310c1be6106124dab14072457d356f5304a6",
-        "count": 6,
-        "assets": [
-          {
-            "resource": "bg_002.jpg.enc",
-            "sha256": "3b75aaa618dfb3885f414f4d31ef9d1cc899dec37c1c50cb408fc8f4ba00c36f",
-            "representative_native_occurrence": {
-              "episode_id": "401001078",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_004.jpg.enc",
-            "sha256": "31b63d12811facf787b9292fd1787ab066f6a28322772586cc0ead59135c0c4a",
-            "representative_native_occurrence": {
-              "episode_id": "401000830",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_023.jpg.enc",
-            "sha256": "b0fb785518e8445152b99dc331cb4f81b5c2a8e9a63e7a4b799e3532763a6355",
-            "representative_native_occurrence": {
-              "episode_id": "401000926",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_028.jpg.enc",
-            "sha256": "3c341b1ee7e2159ad639868f3ed3784556f39b795b91621db5d655e8c31a1259",
-            "representative_native_occurrence": {
-              "episode_id": "401001382",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_030.jpg.enc",
-            "sha256": "a6b2c357f5836b5893470d548a7020509acb9dd48cd707cb5308347f13f55763",
-            "representative_native_occurrence": {
-              "episode_id": "401000002",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_037.jpg.enc",
-            "sha256": "58d282cc15ec3d6f1190d0bc9b0f6eaa6314503a854e952a79aa78295b1be90e",
-            "representative_native_occurrence": {
-              "episode_id": "401000006",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          }
-        ]
-      },
-      "coverage_effective_state_sha256": "2d600c8f1887f2a2e76a2c2023c555124ceeeb295b4b08dafda002ec39adca1c",
-      "execution_record": "09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md",
-      "source_menu_and_chronology": "Seven independent conditional Intimacy occurrences. Native source order, priority and menu labels are routing metadata only; no total chronology or actual unlock condition.",
-      "entity_storage_append": {
-        "entering_manifest_sha256": "9eccb27d2ae2bf5ae5005ee2dfc8c652934b795094cabdd81c7eb62762de110e",
-        "entering_logical_sha256": "558ee7c440366eb0ccd4103b8f033428ec3722a6a156abb660b8c66f68626a83",
-        "closing_manifest_sha256": "9a74566e352266afc7cc06056790ba1e0453738100a6d2912686bc2135da9bc7",
-        "closing_logical_sha256": "c4460dc70870dd156abe56684da392e2d782a417f671641fc03c48042b057bcc",
-        "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
-        "sealed_older_components_byte_exact": true
-      },
-      "control_storage_append": {
-        "entering_logical_source_lock_sha256": "d270255d52a52cd1c89a8adefcbc8b6c43f2c2e8256fdfc128f0bfae197cc211",
-        "entering_physical_owner_sha256": "f4b0ea2c2eed47470ddd2741cbee0a876de747c0509eda33ae9e5af94bef56cf",
-        "entering_coverage_manifest_sha256": "fb4b1e15b9ca6960b9189f567e36c0b847b521a068ca6d1a06c7f7b65718e593",
-        "closing_coverage_manifest_sha256": "052d360ffb1f5f21e3f3148d2a5b606841dbfa4679537a013233cbc00fec4dd4",
-        "all_older_integrity_serialized_bytes": "BYTE_EXACT",
-        "administrative_storage_history": "UNCHANGED",
-        "logical_reader_required": true
-      },
-      "boundary": "All33Japanese records/40native headers and selected portrait/six original backgrounds actually reviewed. Performed voice/music/SFX not listened; runtime not observed; underlying two actor PNGs hash-bound not individually viewed; no perceived scent, monograph maturity, full2034completion or2053admission."
-    },
-    "b0181_close_verification": {
-      "operation": "T7S_B0181_CLOSE",
-      "checked_at": "2026-10-14",
-      "status": "PASS_BOUNDED_TEXT_NATIVE_AND_STATIC_REVIEW",
-      "episode_ids": [
-        "612203801",
-        "612203802",
-        "612203803"
-      ],
-      "source_bindings": [
-        {
-          "episode_id": "612203801",
-          "script_id": "ing3_102038_01.json__60020ad29d010cfc",
-          "source_sha256": "34f50d263d270c30d8211f7cfc054bfc947a28ab59310b9add0428def8e7cc6d",
-          "decoded_sha256": "429174e4f7b77c934b4355c3a46b5368e46043487b1bf91089f22830188c24d1",
-          "normalized_sha256": "7c693a71c084e981a7f7b989a3c687ee718738ee284d51de585dea331f24dc2e",
-          "structured_sha256": "7c693a71c084e981a7f7b989a3c687ee718738ee284d51de585dea331f24dc2e",
-          "pages": 59,
-          "text_records": 49,
-          "command_only_pages": 10,
-          "voice_pages": 41,
-          "native_pages_verified": 59
-        },
-        {
-          "episode_id": "612203802",
-          "script_id": "ing3_102038_02.json__1e7f5b6ad0125a27",
-          "source_sha256": "d3d4633e1fd1655a760476f7219329a211655bf3b845e8858fe5de709db88edb",
-          "decoded_sha256": "3ea36cb215ea41d023c55b7631380d42366ce22aa67156baad4e498f56e9ab76",
-          "normalized_sha256": "8e01be9e6258ed94613dde4a92689d54711011624c99e1b72ccd825e0aff4d17",
-          "structured_sha256": "8e01be9e6258ed94613dde4a92689d54711011624c99e1b72ccd825e0aff4d17",
-          "pages": 94,
-          "text_records": 82,
-          "command_only_pages": 12,
-          "voice_pages": 49,
-          "native_pages_verified": 94
-        },
-        {
-          "episode_id": "612203803",
-          "script_id": "ing3_102038_03.json__545cdd38635e66bf",
-          "source_sha256": "47469fa4415b8a25f4083768e102fb380f03b5df75ae8f2ccd241f55963110e2",
-          "decoded_sha256": "34edf68264f4a16a042f3fdb3100bb4e2e2319e978ecbf44647b549b8f09af9c",
-          "normalized_sha256": "d36111f1a82d4abcea009c16be425a729ced0ea71540aba080bcaaa6bce3ec13",
-          "structured_sha256": "d36111f1a82d4abcea009c16be425a729ced0ea71540aba080bcaaa6bce3ec13",
-          "pages": 113,
-          "text_records": 104,
-          "command_only_pages": 9,
-          "voice_pages": 79,
-          "native_pages_verified": 113
-        }
-      ],
-      "totals": {
-        "pages": 266,
-        "text_records": 235,
-        "command_only_pages": 31,
-        "voice_pages": 169,
-        "visual_refs": 2359
-      },
-      "voice_count_basis": "Distinct dialogue log-order indexes with voice resource; title-only cues additional; no performed audio reviewed.",
-      "native_packet_sha256": "3ea0644c3361f4829dae4cc236de155d80e6eae894b755a039a71004f4fbe027",
-      "dialogue_packet_sha256": "fcfc6b70099f454f0687c141708ddafc00aa09cd4c2b8eee8f47e55c391003f5",
-      "entering_repository_head": "06020af42bd63a063aea78d864b1786d9e47cc13",
-      "entering_source_lock_version": "12.86",
-      "entering_source_lock_sha256": "8ab575377a8849daebe213cac6123b0553f919cdc5866f74ede813847eca6d9b",
-      "entering_source_high_water": "T7S_B0180",
-      "prospective_boundary_sha256": "effbeafc9576dee9ebeee399c83919121f22e7c56c0b8a3f916e965e234b676d",
-      "evidence_receipt_sha256": "17b3d503cad54176a8953927b8955350e3beaab22272309ba858198ebe1a94cd",
-      "native_fields_projection_sha256": "542f74824a26cf6e26bf561eed345eee5b76f99d34cedb5657a767a2202e1aaa",
-      "visual_assets": [
-        {
-          "resource": "adv_chara_011_01_01",
-          "body": "adv_chara_011_01.png",
-          "body_sha256": "16fc2472d10c8972da16fad1f65b0bbc8c49cfb9daf7ebf2c583e54fedfb6004",
-          "face": "adv_chara_011_01_01.png",
-          "face_sha256": "9956f30044002e511040dad3aff1cb23bb76a02dee8f34635c555bcc49e64c00",
-          "native_face_offset": [
-            89,
-            54
-          ],
-          "output_sha256": "4f610e7477a872aea3dcd8a87134f5e19d033ce60825f36fbbacd671ee554801"
-        },
-        {
-          "resource": "adv_chara_011_01_02",
-          "body": "adv_chara_011_01.png",
-          "body_sha256": "16fc2472d10c8972da16fad1f65b0bbc8c49cfb9daf7ebf2c583e54fedfb6004",
-          "face": "adv_chara_011_01_02.png",
-          "face_sha256": "573473c7740faae6a0f59a5a3821b21dd2eaf1e856b60b5582b0125adaf2c096",
-          "native_face_offset": [
-            89,
-            54
-          ],
-          "output_sha256": "28176ac9750b497165a11a88064aa4806c8bac6dbba410c3b29ecc8bc766417f"
-        },
-        {
-          "resource": "adv_chara_011_01_04",
-          "body": "adv_chara_011_01.png",
-          "body_sha256": "16fc2472d10c8972da16fad1f65b0bbc8c49cfb9daf7ebf2c583e54fedfb6004",
-          "face": "adv_chara_011_01_04.png",
-          "face_sha256": "e76bfd42497e39e6a02a908c937c3f49da9135d4b935569b01fd6763e655fbee",
-          "native_face_offset": [
-            89,
-            54
-          ],
-          "output_sha256": "9832f830da4789df9cf72e429441032450520bb378e52dbcc0017488a91880ae"
-        },
-        {
-          "resource": "adv_chara_011_01_05",
-          "body": "adv_chara_011_01.png",
-          "body_sha256": "16fc2472d10c8972da16fad1f65b0bbc8c49cfb9daf7ebf2c583e54fedfb6004",
-          "face": "adv_chara_011_01_05.png",
-          "face_sha256": "e3b948a9b4d34342fa9554ac4fb3319cd301ab78647f9cdbd2bcc585541606cc",
-          "native_face_offset": [
-            89,
-            54
-          ],
-          "output_sha256": "cf1c1ac2a43a0b253e7e1d41d9b5aa82268e8039995463c54eb45dafd8bb5eea"
-        },
-        {
-          "resource": "adv_chara_011_01_07",
-          "body": "adv_chara_011_01.png",
-          "body_sha256": "16fc2472d10c8972da16fad1f65b0bbc8c49cfb9daf7ebf2c583e54fedfb6004",
-          "face": "adv_chara_011_01_07.png",
-          "face_sha256": "c7c7e67872a60f3929ade5624fdb340867598c663eb4094e3362f0b642526b5e",
-          "native_face_offset": [
-            89,
-            54
-          ],
-          "output_sha256": "9ab85a977449f6f14314b2f934598c34b2ba97103e9db4c4e7652f114c4f43f1"
-        },
-        {
-          "resource": "adv_chara_011_01_08",
-          "body": "adv_chara_011_01.png",
-          "body_sha256": "16fc2472d10c8972da16fad1f65b0bbc8c49cfb9daf7ebf2c583e54fedfb6004",
-          "face": "adv_chara_011_01_08.png",
-          "face_sha256": "a02bbb9aa26326274c620e56e9174c1137bb02a9f48ceb5d0d8dee6dcde4c84b",
-          "native_face_offset": [
-            89,
-            54
-          ],
-          "output_sha256": "84e4d56c1f90737b8cbd9eadf7531126bb306032dde9156192b14809f395b309"
-        },
-        {
-          "resource": "adv_chara_011_01_10",
-          "body": "adv_chara_011_01.png",
-          "body_sha256": "16fc2472d10c8972da16fad1f65b0bbc8c49cfb9daf7ebf2c583e54fedfb6004",
-          "face": "adv_chara_011_01_10.png",
-          "face_sha256": "7934cd58c27e5095dab3a9bd25f80ae566b397af376528e210db370a4d56357b",
-          "native_face_offset": [
-            89,
-            54
-          ],
-          "output_sha256": "2e6d18ae8f5530868507ae56ddafdd7ecf9acb5f97101f05d0b67804068d69c4"
-        },
-        {
-          "resource": "adv_chara_011_01_11",
-          "body": "adv_chara_011_01.png",
-          "body_sha256": "16fc2472d10c8972da16fad1f65b0bbc8c49cfb9daf7ebf2c583e54fedfb6004",
-          "face": "adv_chara_011_01_11.png",
-          "face_sha256": "d80a37f1032ed788aa531d603ea8b4eb0b2491de90340cb7e211526489d55ebf",
-          "native_face_offset": [
-            89,
-            54
-          ],
-          "output_sha256": "9cd75a07b40302a2d6c72ec9cfd0c1da1b07e3ce3256b95a74f6ab22a2e4a764"
-        },
-        {
-          "resource": "adv_chara_011_01_12",
-          "body": "adv_chara_011_01.png",
-          "body_sha256": "16fc2472d10c8972da16fad1f65b0bbc8c49cfb9daf7ebf2c583e54fedfb6004",
-          "face": "adv_chara_011_01_12.png",
-          "face_sha256": "7033bf1b36ff067c4d2b7b082c7a1eacdba898bcf228d5a4c933dbb5b39f1561",
-          "native_face_offset": [
-            89,
-            54
-          ],
-          "output_sha256": "149b0349bff84586e8d1f1b51b4ad2e6b277ca948c3af8e57ec2d05b76728ab6"
-        },
-        {
-          "resource": "adv_chara_011_01_13",
-          "body": "adv_chara_011_01.png",
-          "body_sha256": "16fc2472d10c8972da16fad1f65b0bbc8c49cfb9daf7ebf2c583e54fedfb6004",
-          "face": "adv_chara_011_01_13.png",
-          "face_sha256": "b20252b0b5afaeb548c6bd5a927f1c93e15717a647bfc1d21ce0d1a0c8f3845e",
-          "native_face_offset": [
-            89,
-            54
-          ],
-          "output_sha256": "c86f7b0452f6e5bc87ce28f5282b01dbf8c8046610eaca14a0292b173ede63e1"
-        },
-        {
-          "resource": "adv_chara_011_01_15",
-          "body": "adv_chara_011_01.png",
-          "body_sha256": "16fc2472d10c8972da16fad1f65b0bbc8c49cfb9daf7ebf2c583e54fedfb6004",
-          "face": "adv_chara_011_01_15.png",
-          "face_sha256": "b76edf67334f30cab24b734889a9e28d2684f12ad5a74b799dd276397ce00bca",
-          "native_face_offset": [
-            89,
-            54
-          ],
-          "output_sha256": "a388d9a297fabe1286769a99b009b53b03229af4d22dbcb82dfb2db1af0b897b"
-        },
-        {
-          "resource": "adv_chara_011_01_16",
-          "body": "adv_chara_011_01.png",
-          "body_sha256": "16fc2472d10c8972da16fad1f65b0bbc8c49cfb9daf7ebf2c583e54fedfb6004",
-          "face": "adv_chara_011_01_16.png",
-          "face_sha256": "2258407157557107a65273ccaa8690ed7e5d1d970c3224650c0c61254ff75d4c",
-          "native_face_offset": [
-            89,
-            54
-          ],
-          "output_sha256": "44a6cebf6e316d1a37eaa39409da8ce131c6a59581cc51f491912a5f866a3ee6"
-        },
-        {
-          "resource": "adv_chara_011_01_17",
-          "body": "adv_chara_011_01.png",
-          "body_sha256": "16fc2472d10c8972da16fad1f65b0bbc8c49cfb9daf7ebf2c583e54fedfb6004",
-          "face": "adv_chara_011_01_17.png",
-          "face_sha256": "e3f0290933da7f6672fa03475d7294b64d765c19081b0e4bf3547eddf078ae43",
-          "native_face_offset": [
-            89,
-            54
-          ],
-          "output_sha256": "c4145873132257e069c1a0fe4c73472910694c56d9bffa68ef59aa6d00a8c5ea"
-        },
-        {
-          "resource": "adv_chara_023_01",
-          "body": "adv_chara_023_01.png",
-          "body_sha256": "3fd815ee09c3188f1f3851d046ceb8de19f2d7aa7afa552c1e2c2e07f60688af",
-          "output_sha256": "06a85428681d0e36ca6f80f9c00737488546c0953a17a4bf167003058d026fb3"
-        },
-        {
-          "resource": "adv_chara_027_01",
-          "body": "adv_chara_027_01.png",
-          "body_sha256": "810a321a0caa3684cb49ee9d614be39546da445df27bd0896e56a6c295b90f97",
-          "output_sha256": "d215fdeb03bfde804de0105b121aa682ce9f8d876f8b50948a02898afaecfcf4"
-        },
-        {
-          "resource": "adv_chara_037_01",
-          "body": "adv_chara_037_01.png",
-          "body_sha256": "fc3ecb9193f6223b5686d213dcc8f2a9c1afdf39ebca459bff71362d4ba0a5d5",
-          "output_sha256": "0b24bb2871d7302a44e59fd3edf0992a2c3a3e057fa4eab02eca0fd022fe3fdc"
-        },
-        {
-          "resource": "adv_chara_038_01",
-          "body": "adv_chara_038_01.png",
-          "body_sha256": "e7f35df30d8860f553a5bedc452a601515f2c0bd2fc28f458e71df798e742526",
-          "output_sha256": "8680f95acf1b40c8cba4b899230ed93bc0bfb75d63924e775b91a86429397f50"
-        },
-        {
-          "resource": "adv_chara_040_01",
-          "body": "adv_chara_040_01.png",
-          "body_sha256": "b31a962e523ec3200fee06279c4f845898bfef5ccf12ae47eaccfad7a9b2eca0",
-          "output_sha256": "6ff3db2337ca97918b503b55cdb77e44b0e0a0883a138b868dc9cd33f55c9702"
-        },
-        {
-          "resource": "adv_chara_128_01_01",
-          "body": "adv_chara_128_01.png",
-          "body_sha256": "627e3280d607585cb27dfda5c076a66f36a62cc9b23ce08780dd7fe85513829d",
-          "face": "adv_chara_128_01_01.png",
-          "face_sha256": "984450530f4a0bda0b2d44ac6eadb17a2f4867424684d0baa9e3309d6732cc1d",
-          "native_face_offset": [
-            105,
-            107
-          ],
-          "output_sha256": "04e0efd55701ff973ae98c30d2406f7a2c5d4c3987294d966f8e2dc481be258b"
-        },
-        {
-          "resource": "adv_chara_128_01_02",
-          "body": "adv_chara_128_01.png",
-          "body_sha256": "627e3280d607585cb27dfda5c076a66f36a62cc9b23ce08780dd7fe85513829d",
-          "face": "adv_chara_128_01_02.png",
-          "face_sha256": "ebffb031882ff24468e0ec7657c27fd98b3176d1b44d49d36d307a7ca3f44110",
-          "native_face_offset": [
-            105,
-            107
-          ],
-          "output_sha256": "886b6bec8566c55d5dcc2992adfceb04add04bc344d525bf291e7ba2d4cf16dc"
-        },
-        {
-          "resource": "adv_chara_128_01_03",
-          "body": "adv_chara_128_01.png",
-          "body_sha256": "627e3280d607585cb27dfda5c076a66f36a62cc9b23ce08780dd7fe85513829d",
-          "face": "adv_chara_128_01_03.png",
-          "face_sha256": "d4fe0a05b95c45312612503a6717d51781fed60b52bdf051e63220476179023f",
-          "native_face_offset": [
-            105,
-            107
-          ],
-          "output_sha256": "f3078d3275e5b00ef7094abffb907b51efb889006d70762d07e890fd79215ece"
-        },
-        {
-          "resource": "adv_chara_128_01_04",
-          "body": "adv_chara_128_01.png",
-          "body_sha256": "627e3280d607585cb27dfda5c076a66f36a62cc9b23ce08780dd7fe85513829d",
-          "face": "adv_chara_128_01_04.png",
-          "face_sha256": "41a7c6b1b9ec03f33418241dfc0711ca5ec60b908c4cabf825cbf9484c2da9c6",
-          "native_face_offset": [
-            105,
-            107
-          ],
-          "output_sha256": "3239d2704fe7fe97858df5c90a1cb27e91a602415d3cbe2c81904e2a04481b70"
-        },
-        {
-          "resource": "adv_chara_128_01_05",
-          "body": "adv_chara_128_01.png",
-          "body_sha256": "627e3280d607585cb27dfda5c076a66f36a62cc9b23ce08780dd7fe85513829d",
-          "face": "adv_chara_128_01_05.png",
-          "face_sha256": "2ffe1cc86086073f9b564afc5b8e8a0388f1c397815f7a773e32afc1c0f3d9de",
-          "native_face_offset": [
-            105,
-            107
-          ],
-          "output_sha256": "4bbbb92e702b6585b7c8df0a3f727b18771494d73307a4f90eda9138a218938c"
-        },
-        {
-          "resource": "adv_chara_147_01_01",
-          "body": "adv_chara_147_01.png",
-          "body_sha256": "df3ba4aa9a0969ae5dbb2f3d8b7e26c938ab1294692d595b12c3090fa8a47982",
-          "face": "adv_chara_147_01_01.png",
-          "face_sha256": "c97bdaea12f5d9f9bfb81e9ff25f5857cad50a11eb4fa75f0efd392c6f2c6874",
-          "native_face_offset": [
-            209,
-            62
-          ],
-          "output_sha256": "08c669b14f3c489b3460361737a7d4d1e93fadd065a9f55b874701326f3956de"
-        },
-        {
-          "resource": "adv_chara_147_01_02",
-          "body": "adv_chara_147_01.png",
-          "body_sha256": "df3ba4aa9a0969ae5dbb2f3d8b7e26c938ab1294692d595b12c3090fa8a47982",
-          "face": "adv_chara_147_01_02.png",
-          "face_sha256": "43ef551c868878f0fb73723a03c83abd4a568119ae6b01b78a9b0bd840275399",
-          "native_face_offset": [
-            209,
-            62
-          ],
-          "output_sha256": "9a6f3990b4568b0907990d2c21f2200d340550799bdbd78120e66519ee52034c"
-        },
-        {
-          "resource": "adv_chara_147_01_03",
-          "body": "adv_chara_147_01.png",
-          "body_sha256": "df3ba4aa9a0969ae5dbb2f3d8b7e26c938ab1294692d595b12c3090fa8a47982",
-          "face": "adv_chara_147_01_03.png",
-          "face_sha256": "b425dcb4e4aa81dee126a29a549706faa3ac8ed578ea2a62d61085fb2d4d42e7",
-          "native_face_offset": [
-            209,
-            62
-          ],
-          "output_sha256": "ffc811201455c6317889d113ab65a7851d117424772b55baceecc61ffef2c255"
-        },
-        {
-          "resource": "adv_chara_147_01_05",
-          "body": "adv_chara_147_01.png",
-          "body_sha256": "df3ba4aa9a0969ae5dbb2f3d8b7e26c938ab1294692d595b12c3090fa8a47982",
-          "face": "adv_chara_147_01_05.png",
-          "face_sha256": "3c7fe6f30a65d203ac767fe46d4de76c5c0ac25de7327a57a7fd02f243fb49c1",
-          "native_face_offset": [
-            209,
-            62
-          ],
-          "output_sha256": "642fecb3a5f8dce9bf90ca16ef600740b6f05b2e1bfec2faa7fb37de0121c0fc"
-        },
-        {
-          "resource": "adv_chara_147_01_07",
-          "body": "adv_chara_147_01.png",
-          "body_sha256": "df3ba4aa9a0969ae5dbb2f3d8b7e26c938ab1294692d595b12c3090fa8a47982",
-          "face": "adv_chara_147_01_07.png",
-          "face_sha256": "64aa373948667263317c13bd7e15f2551a4da5599e7910039973b58b7f85f428",
-          "native_face_offset": [
-            209,
-            62
-          ],
-          "output_sha256": "281ac84561e1d58c2ecef8fa639a0a7d90e82cafac595d625eef698ccb87c438"
-        },
-        {
-          "resource": "adv_chara_147_01_08",
-          "body": "adv_chara_147_01.png",
-          "body_sha256": "df3ba4aa9a0969ae5dbb2f3d8b7e26c938ab1294692d595b12c3090fa8a47982",
-          "face": "adv_chara_147_01_08.png",
-          "face_sha256": "dd288c615face7f35b2a56cb2584d37361efd4f9c36fd8e5d5a4d18afe1c4b18",
-          "native_face_offset": [
-            209,
-            62
-          ],
-          "output_sha256": "0345a0486c1ccb09a097d29ee893461542e098bb5c8e302cf1cd533c1a7da8c5"
-        },
-        {
-          "resource": "adv_chara_147_03_01",
-          "body": "adv_chara_147_03.png",
-          "body_sha256": "5f9773331950b8c0768b23d5cd883b65807f281eb478113e82046d03c492f915",
-          "face": "adv_chara_147_03_01.png",
-          "face_sha256": "e2e7728194aa0f1eb4a67a19cdc09447438cc17e92e6e04f994864459003490e",
-          "native_face_offset": [
-            209,
-            62
-          ],
-          "output_sha256": "abfe30a00c07c763454b8d951f74ab40a518ee700d57918ae52b95c16fd467de"
-        },
-        {
-          "resource": "adv_chara_147_03_02",
-          "body": "adv_chara_147_03.png",
-          "body_sha256": "5f9773331950b8c0768b23d5cd883b65807f281eb478113e82046d03c492f915",
-          "face": "adv_chara_147_03_02.png",
-          "face_sha256": "66570b74112f71a21a59b44896314fbbf5d2d7af6bb4120604af7eb0442b578c",
-          "native_face_offset": [
-            209,
-            62
-          ],
-          "output_sha256": "9849d21b86cbd818a54dc106b98ffcf28884dd0a7542ba51dd19cf2a3808daba"
-        },
-        {
-          "resource": "adv_chara_147_03_03",
-          "body": "adv_chara_147_03.png",
-          "body_sha256": "5f9773331950b8c0768b23d5cd883b65807f281eb478113e82046d03c492f915",
-          "face": "adv_chara_147_03_03.png",
-          "face_sha256": "b425dcb4e4aa81dee126a29a549706faa3ac8ed578ea2a62d61085fb2d4d42e7",
-          "native_face_offset": [
-            209,
-            62
-          ],
-          "output_sha256": "9beeb7cf258adb86284caecc4629583783b1fd8c9aa7775466cad046c5633e5a"
-        },
-        {
-          "resource": "adv_chara_147_03_05",
-          "body": "adv_chara_147_03.png",
-          "body_sha256": "5f9773331950b8c0768b23d5cd883b65807f281eb478113e82046d03c492f915",
-          "face": "adv_chara_147_03_05.png",
-          "face_sha256": "35559d2f1e774aa8cb193b3dac0e07318a57d2f96acd87c6ebb8d607413f78b1",
-          "native_face_offset": [
-            209,
-            62
-          ],
-          "output_sha256": "958bfc78e082dcd76f72c5011c99d820ace70d45a66c3fe82955b0df5cd46515"
-        },
-        {
-          "resource": "adv_chara_147_03_07",
-          "body": "adv_chara_147_03.png",
-          "body_sha256": "5f9773331950b8c0768b23d5cd883b65807f281eb478113e82046d03c492f915",
-          "face": "adv_chara_147_03_07.png",
-          "face_sha256": "75fa9ab45b7d52a9011dbed9539f8bf3db616af5c4ec2d2aeb4f28a5bb09624f",
-          "native_face_offset": [
-            209,
-            62
-          ],
-          "output_sha256": "1506033bb847b0ecf50503ce6e97be08b8f96e56668b833aa27362982ff20d8f"
-        },
-        {
-          "resource": "adv_chara_147_04_01",
-          "body": "adv_chara_147_04.png",
-          "body_sha256": "8fb27efd27fbe3a0aa6e23259484c95fc066a57c77a6f3038a751b5b7a100d79",
-          "face": "adv_chara_147_04_01.png",
-          "face_sha256": "ccf1abed2886c848233e14744b7f460ac24a0d27d546af4971671ba363d4e3cc",
-          "native_face_offset": [
-            209,
-            62
-          ],
-          "output_sha256": "e42eaec4b72821caeb70e3e8d2f31071e3f21141b8e5c457994e343066a4c518"
-        },
-        {
-          "resource": "adv_chara_147_04_03",
-          "body": "adv_chara_147_04.png",
-          "body_sha256": "8fb27efd27fbe3a0aa6e23259484c95fc066a57c77a6f3038a751b5b7a100d79",
-          "face": "adv_chara_147_04_03.png",
-          "face_sha256": "b425dcb4e4aa81dee126a29a549706faa3ac8ed578ea2a62d61085fb2d4d42e7",
-          "native_face_offset": [
-            209,
-            62
-          ],
-          "output_sha256": "2979265b0779e02bfc506bf70704451c486c37081a23e1216273ddd74a541680"
-        },
-        {
-          "resource": "adv_chara_147_04_05",
-          "body": "adv_chara_147_04.png",
-          "body_sha256": "8fb27efd27fbe3a0aa6e23259484c95fc066a57c77a6f3038a751b5b7a100d79",
-          "face": "adv_chara_147_04_05.png",
-          "face_sha256": "ae2cc2fed22b84c93383a97cffc71a3095c4154ff3319a69435fb4f89fede82e",
-          "native_face_offset": [
-            209,
-            62
-          ],
-          "output_sha256": "86d7487e07160efe68caa8cade69aca0ea79018e809e9dc0c260d2c4ebb6e3e0"
-        },
-        {
-          "resource": "adv_chara_147_04_06",
-          "body": "adv_chara_147_04.png",
-          "body_sha256": "8fb27efd27fbe3a0aa6e23259484c95fc066a57c77a6f3038a751b5b7a100d79",
-          "face": "adv_chara_147_04_06.png",
-          "face_sha256": "90324a0a7ae349ec4b2af5c2e334ce0369cdf9bf25b5fe749809bd3d796c34fc",
-          "native_face_offset": [
-            209,
-            62
-          ],
-          "output_sha256": "b97ba9f31049024648a5ff80bf7657dd6edee359a77d9404c89911bd89b008c2"
-        },
-        {
-          "resource": "adv_chara_147_04_07",
-          "body": "adv_chara_147_04.png",
-          "body_sha256": "8fb27efd27fbe3a0aa6e23259484c95fc066a57c77a6f3038a751b5b7a100d79",
-          "face": "adv_chara_147_04_07.png",
-          "face_sha256": "8f89b66a022ed95e7be1e5b64fe81537464e50253e599129e551ad40daa87cfd",
-          "native_face_offset": [
-            209,
-            62
-          ],
-          "output_sha256": "129fe3cd003d3fca2c1d41b9b6ececfc0c811208bc9b5904ef11c455a030bcdf"
-        }
-      ],
-      "coverage_effective_state_sha256": "0c92606e96795e4027150754f5e2c6eb468079e42e63a53068b110d747be2c8d",
-      "execution_record": "09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md",
-      "boundary": "Complete chapter-local text/native state plus selected static review; no authored choice or inline movie; no later-source semantic evidence; performed audio unreviewed. Full 2034 release remains incomplete.",
-      "original_background_static_bindings": {
-        "status": "ACTUALLY_VIEWED_STATIC_ONLY",
-        "source_binding_receipt_sha256": "37480d17d9b4201aa4cae988acea094eccae10bbd8af138de04d3869ec5b7cdd",
-        "count": 5,
-        "assets": [
-          {
-            "resource": "bg_004.jpg.enc",
-            "sha256": "31b63d12811facf787b9292fd1787ab066f6a28322772586cc0ead59135c0c4a",
-            "representative_native_occurrence": {
-              "episode_id": "612203801",
-              "page": 1,
-              "pointer": "/Pages/1/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_005.jpg.enc",
-            "sha256": "3fb088b1b9a764fd96643d5c694f8d157c82b9c8d85fb85073c037b8e57aec14",
-            "representative_native_occurrence": {
-              "episode_id": "612203802",
-              "page": 17,
-              "pointer": "/Pages/17/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_021.jpg.enc",
-            "sha256": "70478abf34db0cff8efeeb69d59693876c806257be4dd0768ffdbb38afd12ee7",
-            "representative_native_occurrence": {
-              "episode_id": "612203803",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_03.jpg.enc",
-            "sha256": "25c7d565a551ff57bc780f81e236ebb60b5f34fccfe4d5d21c6c7ffe6d80a6c1",
-            "representative_native_occurrence": {
-              "episode_id": "612203801",
-              "page": 0,
-              "pointer": "/Pages/0/BackGround/FileName"
-            }
-          },
-          {
-            "resource": "bg_076.jpg.enc",
-            "sha256": "ef8445ade70138ac7c5641194d326ed840c4dd6a726613d46b062e6101c013bc",
-            "representative_native_occurrence": {
-              "episode_id": "612203801",
-              "page": 36,
-              "pointer": "/Pages/36/BackGround/FileName"
-            }
-          }
+      {
+        "episode_id": "401000075",
+        "script_id": "intimate_0075.json__ad0300036a6f0755",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
         ],
-        "separate_from_selected_static_receipt": true
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0189_DEEP_READING.md"
       },
-      "execution_reconciliation": {
-        "base_commit": "06020af42bd63a063aea78d864b1786d9e47cc13",
-        "base_tree": "ac762aa5218869df68c37530d6550bedc5d5f38e",
-        "incorporated_main": "67b2a064714c099204636764a24aabc9ca58f2e6",
-        "preserved_prospective_head": "06020af42bd63a063aea78d864b1786d9e47cc13",
-        "unchanged_entering_t7s_subtree": "401a4a4e682e63567c9c8c378ba1129c9bd5ed0d",
-        "mode": "Exact unchanged committed B0180/source-lock12.86 predecessor; no post-freeze rebinding or source change.",
-        "byte_exact_closeout_adapter_sha256": "301804922b2ab294b7704a1312b7384e2027854bd0eef0174d76c53907c0e507"
+      {
+        "episode_id": "401000079",
+        "script_id": "intimate_0079.json__9fbc8c0d0330f10d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0189_DEEP_READING.md"
       },
-      "actual_root_review_sha256": "c4f5aa88a04789339146270035a17a49450833607111085a7c80ba6932217f23",
-      "entity_storage_append": {
-        "entering_manifest_sha256": "2d8982b7446db75c4c568aa969d4c54cd37e0f51a54dd2734b5363e7c1f1b181",
-        "entering_logical_sha256": "d931fd94a8738e83a703abeca4b1d451db8aec0243a885c8e37d694d81bdb697",
-        "closing_manifest_sha256": "9eccb27d2ae2bf5ae5005ee2dfc8c652934b795094cabdd81c7eb62762de110e",
-        "closing_logical_sha256": "558ee7c440366eb0ccd4103b8f033428ec3722a6a156abb660b8c66f68626a83",
-        "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
-        "sealed_older_components_byte_exact": true,
-        "entering_fingerprints": "Complete unchanged prospective control/entity snapshots."
+      {
+        "episode_id": "401000598",
+        "script_id": "intimate_0598.json__65b718a5fc0bc74b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0189_DEEP_READING.md"
       },
-      "control_storage_append": {
-        "entering_logical_source_lock_sha256": "8ab575377a8849daebe213cac6123b0553f919cdc5866f74ede813847eca6d9b",
-        "entering_physical_owner_sha256": "878e258765413191b5a8b2b739da06efe66658130a1fce4b54e0d8061b20f9fb",
-        "entering_coverage_manifest_sha256": "1d01335a44bf288bce573a1a28c1c4c0655df5e231b1df3b2779607691c29292",
-        "closing_coverage_manifest_sha256": "fb4b1e15b9ca6960b9189f567e36c0b847b521a068ca6d1a06c7f7b65718e593",
-        "all_older_integrity_serialized_bytes": "BYTE_EXACT",
-        "administrative_storage_history": "UNCHANGED",
-        "logical_reader_required": true
-      }
-    },
-    "b0180_close_verification": {
-      "operation": "T7S_B0180_CLOSE",
-      "checked_at": "2026-10-14",
-      "status": "PASS_BOUNDED_TEXT_NATIVE_AND_STATIC_REVIEW",
-      "episode_ids": [
-        "612203701",
-        "612203702",
-        "612203703"
-      ],
-      "source_bindings": [
-        {
-          "episode_id": "612203701",
-          "script_id": "ing3_102037_01.json__095529f81c383462",
-          "source_sha256": "538d6a6f84b98fb6bccb109888d075f2bd31a5f4835eda4ce0847e8be6f3e4ed",
-          "decoded_sha256": "deded3cea8db8a64c45398e10093c4aa9601f5cd1dbd959b7f8f0d03239e35be",
-          "normalized_sha256": "051149f392251ba256897788e543403303af88262d13eb3f28656c3b580733ca",
-          "structured_sha256": "051149f392251ba256897788e543403303af88262d13eb3f28656c3b580733ca",
-          "pages": 87,
-          "text_records": 77,
-          "command_only_pages": 10,
-          "voice_pages": 36,
-          "native_pages_verified": 87
-        },
-        {
-          "episode_id": "612203702",
-          "script_id": "ing3_102037_02.json__9263154363156358",
-          "source_sha256": "1655e7fd26ec909c7061ae1e4651922f2654ffb4d2f7f9e4e643ae6322e4d93b",
-          "decoded_sha256": "87cbce60850ed6d700320bd8dc4d7156edb9e6089b297bc1426ba9d791aa5df6",
-          "normalized_sha256": "e0c36a44b99355c78171bda27934deeeb78f679d2a9c49abe3c9872d935b72a2",
-          "structured_sha256": "e0c36a44b99355c78171bda27934deeeb78f679d2a9c49abe3c9872d935b72a2",
-          "pages": 111,
-          "text_records": 101,
-          "command_only_pages": 10,
-          "voice_pages": 73,
-          "native_pages_verified": 111
-        },
-        {
-          "episode_id": "612203703",
-          "script_id": "ing3_102037_03.json__3aff77abf6f84287",
-          "source_sha256": "ef6a178c05b34d36423c10d79f3480244a6d0af2d1e332332acdebcd860c3474",
-          "decoded_sha256": "806e1561cd012732c7ffb15458321161748dd83b11f726d5b6fee0198109beea",
-          "normalized_sha256": "ec3c69af31394c15dfd5bb11f03a0fe92ef874b56dbffa6f07e1e274bffc3030",
-          "structured_sha256": "ec3c69af31394c15dfd5bb11f03a0fe92ef874b56dbffa6f07e1e274bffc3030",
-          "pages": 160,
-          "text_records": 150,
-          "command_only_pages": 10,
-          "voice_pages": 98,
-          "native_pages_verified": 160
-        }
-      ],
-      "totals": {
-        "pages": 358,
-        "text_records": 328,
-        "command_only_pages": 30,
-        "voice_pages": 207,
-        "visual_refs": 2408
+      {
+        "episode_id": "401000794",
+        "script_id": "intimate_0794.json__8cc5f9eebd6e7d9d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0189_DEEP_READING.md"
       },
-      "voice_count_basis": "Distinct dialogue log-order indexes with voice resource; title-only cues additional; no performed audio reviewed.",
-      "native_packet_sha256": "42b837a60262b401e43d24b1f710fbc5a2cbd8bb38fa6452eec789475729bf66",
-      "dialogue_packet_sha256": "17ca754722057d7dc5ffa0a373085809cc3cfcb201030bf379cedf215e85bf45",
-      "entering_repository_head": "0285f51f78ac5d073250d91e9ee78aa2b36916d8",
-      "entering_source_lock_version": "12.85",
-      "entering_source_lock_sha256": "d0ae4bd05b8df94b2ca585d25a9e0f92064c87ee8244c87c8078cdb445e446e2",
-      "entering_source_high_water": "T7S_B0179",
-      "prospective_boundary_sha256": "33b717371cf800784f84f5e2d3c089ca7b8ede8cf4219fba6d201f14407283b9",
-      "evidence_receipt_sha256": "9421a2e6dd7f727e7e831ff4d9b81c2b556327dc0f869d04ef2565808755734a",
-      "native_fields_projection_sha256": "6a5e0f482a10f09db8adcfb764eec805b37a3177d5d3136ca7c07caca56a4b0d",
-      "visual_assets": [
-        {
-          "resource": "adv_chara_002_01_02",
-          "body": "adv_chara_002_01.png",
-          "body_sha256": "9afeb35f4f6391ea896d756d3f0cd3f2af54bb96a38199155349ee4e7444ca0c",
-          "face": "adv_chara_002_01_02.png",
-          "face_sha256": "b8a155519f31f57b6f1a54d426cb43db9bebf6d6c6b965e79b98049dada9eae8",
-          "native_face_offset": [
-            132,
-            64
-          ],
-          "output_sha256": "7ebd7e66cd060504d4d4734576de7809ea33225708afb5b0fd88153638ba413c"
-        },
-        {
-          "resource": "adv_chara_002_03_01",
-          "body": "adv_chara_002_03.png",
-          "body_sha256": "4bb14d813389b79055c4a24b5b3020e06bde9122d7b203b04a5489b358a7f1c7",
-          "face": "adv_chara_002_03_01.png",
-          "face_sha256": "44744b274cd5f728379c329e9a722c0639e1fab23ae5e846a483a3f131e80e14",
-          "native_face_offset": [
-            132,
-            64
-          ],
-          "output_sha256": "59b13c2655e6f3619ff902a52aac22ff6c10c4c63f17d56ed1b58b339f46165c"
-        },
-        {
-          "resource": "adv_chara_002_03_02",
-          "body": "adv_chara_002_03.png",
-          "body_sha256": "4bb14d813389b79055c4a24b5b3020e06bde9122d7b203b04a5489b358a7f1c7",
-          "face": "adv_chara_002_03_02.png",
-          "face_sha256": "b3dd46d4ffd6aaf7b538ed8be9d5b749b66f5245e46f784ba4c1d47b0c5515e8",
-          "native_face_offset": [
-            132,
-            64
-          ],
-          "output_sha256": "52041a1326e1ce2e9c79167904fc5dbec69df3012b00bb3c26657b14beb45e35"
-        },
-        {
-          "resource": "adv_chara_002_03_04",
-          "body": "adv_chara_002_03.png",
-          "body_sha256": "4bb14d813389b79055c4a24b5b3020e06bde9122d7b203b04a5489b358a7f1c7",
-          "face": "adv_chara_002_03_04.png",
-          "face_sha256": "2cb88b68caf7c8d4dd130720dc74b11d2e9ecbafb74e2027f4382735c16a38e5",
-          "native_face_offset": [
-            132,
-            64
-          ],
-          "output_sha256": "d686384705084bb7bb2de67295561809450c93bde45a370e7e7c2481e8f9dd38"
-        },
-        {
-          "resource": "adv_chara_002_03_06",
-          "body": "adv_chara_002_03.png",
-          "body_sha256": "4bb14d813389b79055c4a24b5b3020e06bde9122d7b203b04a5489b358a7f1c7",
-          "face": "adv_chara_002_03_06.png",
-          "face_sha256": "636d620d1336656ba031b88e5610fd04c6192ca6d40a1b779e32b8d306d77790",
-          "native_face_offset": [
-            132,
-            64
-          ],
-          "output_sha256": "d4acd9b6bbdd52e118b16b068915911053dba4926cb1a27c3be5a4ed479f72fa"
-        },
-        {
-          "resource": "adv_chara_002_03_09",
-          "body": "adv_chara_002_03.png",
-          "body_sha256": "4bb14d813389b79055c4a24b5b3020e06bde9122d7b203b04a5489b358a7f1c7",
-          "face": "adv_chara_002_03_09.png",
-          "face_sha256": "1fbe266add4f4354eaa78d04c5616b2b2c265c0f8bece8f515c717df6dc5ae1f",
-          "native_face_offset": [
-            132,
-            64
-          ],
-          "output_sha256": "8a3b5e12f4e5597ecc2a32bd2abc1b9932c08698d6a54809bf8cbb911b3f8609"
-        },
-        {
-          "resource": "adv_chara_002_03_11",
-          "body": "adv_chara_002_03.png",
-          "body_sha256": "4bb14d813389b79055c4a24b5b3020e06bde9122d7b203b04a5489b358a7f1c7",
-          "face": "adv_chara_002_03_11.png",
-          "face_sha256": "a4f478e7621a53a877e16735445088d7fe40afde731cec0752906efe9e3b703a",
-          "native_face_offset": [
-            132,
-            64
-          ],
-          "output_sha256": "dfdd6eb62836ea33189c85517d8aa2ecccd8eb77edfbdd7755d85828e77e6dcd"
-        },
-        {
-          "resource": "adv_chara_002_03_12",
-          "body": "adv_chara_002_03.png",
-          "body_sha256": "4bb14d813389b79055c4a24b5b3020e06bde9122d7b203b04a5489b358a7f1c7",
-          "face": "adv_chara_002_03_12.png",
-          "face_sha256": "a03326e800bdc2162bc9959e56e08a60f000df9549ba52d4b587b71c9d99793d",
-          "native_face_offset": [
-            132,
-            64
-          ],
-          "output_sha256": "eaeaf86bcec9452a9e998333fe04b615d49a3e8de64d315b3f5d0c25a45a0b6a"
-        },
-        {
-          "resource": "adv_chara_002_04_01",
-          "body": "adv_chara_002_04.png",
-          "body_sha256": "938fccd1b7bf1b8316a3ebb3c1da299beba659c3e51c5bcbb7abea4c41bb627a",
-          "face": "adv_chara_002_04_01.png",
-          "face_sha256": "ffdc7cd0a66fb0887593f5f343e477d5a0c10e00fe9b7c9d5da073c4b0ae5c36",
-          "native_face_offset": [
-            132,
-            64
-          ],
-          "output_sha256": "33d50a69a89be54232c2a1e8140a1f8cff7d8cb712eaa687ae9b9249b970efa6"
-        },
-        {
-          "resource": "adv_chara_002_04_03",
-          "body": "adv_chara_002_04.png",
-          "body_sha256": "938fccd1b7bf1b8316a3ebb3c1da299beba659c3e51c5bcbb7abea4c41bb627a",
-          "face": "adv_chara_002_04_03.png",
-          "face_sha256": "64f33233995694810a22d6eafcf22501042f16f77d5bdfe057c3fc4dcf962117",
-          "native_face_offset": [
-            132,
-            64
-          ],
-          "output_sha256": "10e56d3b3cc2ba4b736c35ea13de5a8cbd9da4f9245c5b5d47ac2ba0663a98c9"
-        },
-        {
-          "resource": "adv_chara_002_05_01",
-          "body": "adv_chara_002_05.png",
-          "body_sha256": "cb016340fb0d82c4b3f5e1c47bcd449550f680719951d70b9cbb10018be79a0b",
-          "face": "adv_chara_002_05_01.png",
-          "face_sha256": "e854468ca20c6edcc9d109d76ab16538a55797050e2d3fcbc7c3d27882489ca7",
-          "native_face_offset": [
-            132,
-            64
-          ],
-          "output_sha256": "bce4dc670a2a33e046334a35b35ecb522b4d3c8d2fb21f0540ae058eeab38c45"
-        },
-        {
-          "resource": "adv_chara_002_05_02",
-          "body": "adv_chara_002_05.png",
+      {
+        "episode_id": "401001094",
+        "script_id": "intimate_1094.json__e9207db61169c4d4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0189_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001302",
+        "script_id": "intimate_1302.json__a12cfffa0fac5977",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0189_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001458",
+        "script_id": "intimate_1458.json__b5db82d448cadd1b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0189_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000086",
+        "script_id": "intimate_0086.json__011611904fd7751d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0190_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000090",
+        "script_id": "intimate_0090.json__5be8fa85501d29f7",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0190_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000750",
+        "script_id": "intimate_0750.json__eb59ed4f7fea9b52",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0190_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000838",
+        "script_id": "intimate_0838.json__b7e84c890d5823f4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0190_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001050",
+        "script_id": "intimate_1050.json__a378554682c22fe5",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0190_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001130",
+        "script_id": "intimate_1130.json__9020a75b1cea1bd8",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0190_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001406",
+        "script_id": "intimate_1406.json__12a026139ed2c3fc",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0190_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401006538",
+        "script_id": "exepisode_6538.json__373dc2d9f7ef5b05",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          166
+        ],
+        "log_order_index": [
+          0,
+          166
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0190_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000101",
+        "script_id": "intimate_0101.json__f35b62ed14eabb54",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0191_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000354",
+        "script_id": "intimate_0354.json__d33bba9255b8210b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0191_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000396",
+        "script_id": "intimate_0396.json__4b23b63cf6fbd82a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0191_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000558",
+        "script_id": "intimate_0558.json__618bc0aa2100d88e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0191_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000650",
+        "script_id": "intimate_0650.json__0f5bc8f725bce743",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0191_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000686",
+        "script_id": "intimate_0686.json__d6570be9c22fa428",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0191_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001010",
+        "script_id": "intimate_1010.json__684b96751b454cbc",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0191_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001074",
+        "script_id": "intimate_1074.json__81c9f657d0595cdb",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0191_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001226",
+        "script_id": "intimate_1226.json__908d8aa419583112",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0191_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000105",
+        "script_id": "intimate_0105.json__8fc8b6d710761127",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0192_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000626",
+        "script_id": "intimate_0626.json__ac61ec4a2760a2f2",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0192_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001338",
+        "script_id": "intimate_1338.json__46b79737d2f9cfef",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0192_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001770",
+        "script_id": "intimate_1770.json__afb42cc2e684bb46",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0192_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401003025",
+        "script_id": "intimate_3025.json__d0a27e83df8774e2",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0192_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000107",
+        "script_id": "intimate_0107.json__bb1c51b53bcc5e0d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0193_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000882",
+        "script_id": "intimate_0882.json__b809f94987f5d266",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0193_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001486",
+        "script_id": "intimate_1486.json__1fe29b6a9d0e0659",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0193_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001794",
+        "script_id": "intimate_1794.json__b005059160daa913",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0193_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401003049",
+        "script_id": "intimate_3049.json__9caa990d22d1107b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0193_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000109",
+        "script_id": "intimate_0109.json__3752dca83e30282a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0194_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000694",
+        "script_id": "intimate_0694.json__b7204890de487f41",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0194_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001346",
+        "script_id": "intimate_1346.json__5d4ef0d746b0b24b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0194_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001570",
+        "script_id": "intimate_1570.json__b64ec3f2afe0d637",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0194_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001814",
+        "script_id": "intimate_1814.json__c2d979752d0cac94",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0194_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401003077",
+        "script_id": "intimate_3077.json__03ca7364b292f063",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0194_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000111",
+        "script_id": "intimate_0111.json__219ca0345e446698",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0195_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000826",
+        "script_id": "intimate_0826.json__4e4ba13962df73ee",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0195_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001418",
+        "script_id": "intimate_1418.json__91942a1028cc4678",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0195_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001857",
+        "script_id": "intimate_1857.json__ba42acc79007ec24",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0195_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401003053",
+        "script_id": "intimate_3053.json__0348bd3aaa4c88cf",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0195_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401003109",
+        "script_id": "intimate_3109.json__f5aab882ceab4351",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0195_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000113",
+        "script_id": "intimate_0113.json__05e8a4b5b1cc6cb9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0196_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000790",
+        "script_id": "intimate_0790.json__467a4a45a776ee1a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0196_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001374",
+        "script_id": "intimate_1374.json__d538078667e72783",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0196_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001834",
+        "script_id": "intimate_1834.json__056ac9768a0655db",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0196_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401003093",
+        "script_id": "intimate_3093.json__739591a95ec1fd64",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0196_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000115",
+        "script_id": "intimate_0115.json__422ab0c28ab6cdfc",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0197_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000742",
+        "script_id": "intimate_0742.json__107d9261cb4a6adb",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0197_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001466",
+        "script_id": "intimate_1466.json__ec4d37100708e83f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0197_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001762",
+        "script_id": "intimate_1762.json__2275d3720f8631f1",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0197_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001861",
+        "script_id": "intimate_1861.json__3166b4e0d6833f0c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0197_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401003133",
+        "script_id": "intimate_3133.json__91a6cb66ea39c841",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0197_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000120",
+        "script_id": "intimate_0120.json__a49daf5e7ac795d4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0198_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000124",
+        "script_id": "intimate_0124.json__f506d387cc24d857",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0198_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000562",
+        "script_id": "intimate_0562.json__8a5ff5e6418c63ad",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0198_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000806",
+        "script_id": "intimate_0806.json__54d98b62f33dfac9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0198_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001090",
+        "script_id": "intimate_1090.json__203f8a64941c4e1a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0198_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001278",
+        "script_id": "intimate_1278.json__c6bc99fe6b6107f1",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0198_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001446",
+        "script_id": "intimate_1446.json__0c5159e703c10ca5",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0198_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000131",
+        "script_id": "intimate_0131.json__bb449dd7913c6191",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0199_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000135",
+        "script_id": "intimate_0135.json__5917f1c64674cb37",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0199_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000460",
+        "script_id": "intimate_0460.json__d6261c6b4a433fbf",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0199_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000762",
+        "script_id": "intimate_0762.json__4d4cdcf28770c61d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0199_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001042",
+        "script_id": "intimate_1042.json__6349648eabe2e0d6",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0199_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001210",
+        "script_id": "intimate_1210.json__f0ad214afb7a3f48",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0199_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001494",
+        "script_id": "intimate_1494.json__822622e2c23a7c21",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0199_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401006487",
+        "script_id": "exepisode_6487.json__53ede54bf01c5198",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          289
+        ],
+        "log_order_index": [
+          0,
+          289
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0199_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000142",
+        "script_id": "intimate_0142.json__dfa751261405fae9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0200_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000428",
+        "script_id": "intimate_0428.json__e7fae93c2c9d01b0",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0200_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000734",
+        "script_id": "intimate_0734.json__3a92496733a32daf",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0200_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000878",
+        "script_id": "intimate_0878.json__bbbb77d07350155b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0200_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001038",
+        "script_id": "intimate_1038.json__8f247067d3729aa2",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0200_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001214",
+        "script_id": "intimate_1214.json__50dca7ddc98ba6c8",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0200_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001358",
+        "script_id": "intimate_1358.json__f570abc9c50f75e6",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0200_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401006488",
+        "script_id": "exepisode_6488.json__96606f4bd3f142ff",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          306
+        ],
+        "log_order_index": [
+          0,
+          306
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0200_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000149",
+        "script_id": "intimate_0149.json__e4250ab267892fac",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0201_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000153",
+        "script_id": "intimate_0153.json__a571ad0620bca749",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0201_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000754",
+        "script_id": "intimate_0754.json__613805786a2d3e60",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0201_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000894",
+        "script_id": "intimate_0894.json__887feaefed3909df",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0201_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001106",
+        "script_id": "intimate_1106.json__9616c8c757739b84",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0201_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001178",
+        "script_id": "intimate_1178.json__b43a243bd39b8d2a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0201_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001390",
+        "script_id": "intimate_1390.json__426c55d0be222a24",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0201_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000160",
+        "script_id": "intimate_0160.json__b64177aa039a2ca0",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0202_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000432",
+        "script_id": "intimate_0432.json__f23ff99167685ab4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0202_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000782",
+        "script_id": "intimate_0782.json__041c1943b00563c5",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0202_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001026",
+        "script_id": "intimate_1026.json__10b7064bb3693eac",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0202_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001162",
+        "script_id": "intimate_1162.json__21514358939fdc26",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0202_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001282",
+        "script_id": "intimate_1282.json__804c50d5f308c4bf",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0202_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001434",
+        "script_id": "intimate_1434.json__1eea45a23139a948",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0202_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000167",
+        "script_id": "intimate_0167.json__91d296de56da31f6",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0203_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000351",
+        "script_id": "intimate_0351.json__5fbc672c49b5c1ed",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0203_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000416",
+        "script_id": "intimate_0416.json__c35dd075ac334832",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0203_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000488",
+        "script_id": "intimate_0488.json__db69fd97a630e51a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0203_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000662",
+        "script_id": "intimate_0662.json__6190721e826c356e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0203_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000690",
+        "script_id": "intimate_0690.json__32798469a56b11ce",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0203_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000898",
+        "script_id": "intimate_0898.json__2a8b536b903e7022",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0203_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000970",
+        "script_id": "intimate_0970.json__9854cee5df9526f3",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0203_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001262",
+        "script_id": "intimate_1262.json__cff1f3a6dbdbe485",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0203_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000174",
+        "script_id": "intimate_0174.json__0d41266c3df0ca29",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0204_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000508",
+        "script_id": "intimate_0508.json__13d0df8263a2489b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0204_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000798",
+        "script_id": "intimate_0798.json__4e063ef784f6fa62",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0204_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000910",
+        "script_id": "intimate_0910.json__9f3958efb3717174",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0204_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001110",
+        "script_id": "intimate_1110.json__98592c2099f0044b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0204_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001290",
+        "script_id": "intimate_1290.json__7a5fed2628d0a3c7",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0204_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001394",
+        "script_id": "intimate_1394.json__dee6eb6a8b143005",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0204_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000181",
+        "script_id": "intimate_0181.json__eee10ef83ead07ce",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0205_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000520",
+        "script_id": "intimate_0520.json__11786ae51891c970",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0205_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000774",
+        "script_id": "intimate_0774.json__d561c5f48da9e5da",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0205_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000834",
+        "script_id": "intimate_0834.json__3b46f7d31009e52f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0205_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001058",
+        "script_id": "intimate_1058.json__9aad399e3b38ee80",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0205_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001134",
+        "script_id": "intimate_1134.json__379134a6cb1a2cfc",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0205_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001414",
+        "script_id": "intimate_1414.json__45aef2e4b10d3f8c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0205_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000188",
+        "script_id": "intimate_0188.json__722f9be7f1f6ffbb",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0206_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000574",
+        "script_id": "intimate_0574.json__b60f413577f67b9a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0206_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000766",
+        "script_id": "intimate_0766.json__2ef00d9edd226dd8",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0206_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000890",
+        "script_id": "intimate_0890.json__3660ad16a88d8585",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0206_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001114",
+        "script_id": "intimate_1114.json__cc497557a0ddbc94",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0206_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001306",
+        "script_id": "intimate_1306.json__c9bb81e1982d1428",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0206_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001454",
+        "script_id": "intimate_1454.json__a1b40845695f087f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0206_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000192",
+        "script_id": "intimate_0192.json__ce00d98153c0cb1b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0207_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000196",
+        "script_id": "intimate_0196.json__cee1dc1fc401d3f4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0207_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000822",
+        "script_id": "intimate_0822.json__ca1453db8893a31c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0207_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000922",
+        "script_id": "intimate_0922.json__e7f8fc2abe728369",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0207_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001174",
+        "script_id": "intimate_1174.json__5c6edb0402273bf9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0207_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001366",
+        "script_id": "intimate_1366.json__7c52f5fa9a8f86bc",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0207_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001514",
+        "script_id": "intimate_1514.json__da5bb7f02380ef38",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0207_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000203",
+        "script_id": "intimate_0203.json__9d53f8efe7ab6222",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0208_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000602",
+        "script_id": "intimate_0602.json__8938cf1c3fa1e187",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0208_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000854",
+        "script_id": "intimate_0854.json__f14e1219d867be69",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0208_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000934",
+        "script_id": "intimate_0934.json__aa95f7ef89960b8c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0208_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001102",
+        "script_id": "intimate_1102.json__ce326d9697dcfb51",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0208_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001298",
+        "script_id": "intimate_1298.json__6fabc4596a05a704",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0208_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001478",
+        "script_id": "intimate_1478.json__1ca6079df679cf81",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0208_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000210",
+        "script_id": "intimate_0210.json__ebda3e662399fdc4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0209_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000355",
+        "script_id": "intimate_0355.json__7ea5ed82de7e44d4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0209_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000408",
+        "script_id": "intimate_0408.json__c5dfeab65f69d11d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0209_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000578",
+        "script_id": "intimate_0578.json__7eacfe265879da75",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0209_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000646",
+        "script_id": "intimate_0646.json__431dbff75f660fd4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0209_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000698",
+        "script_id": "intimate_0698.json__734a388d91fafa0c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0209_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000950",
+        "script_id": "intimate_0950.json__ab2a2909c60f317c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0209_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000990",
+        "script_id": "intimate_0990.json__85c5a6a3d67c1dd4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0209_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401002005",
+        "script_id": "intimate_2005.json__3bf9b2f14b6ce625",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0209_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000214",
+        "script_id": "intimate_0214.json__a6168068f086c72b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0210_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000217",
+        "script_id": "intimate_0217.json__a2b406f2099fc4b6",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0210_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000566",
+        "script_id": "intimate_0566.json__beab5c8814d41620",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0210_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000658",
+        "script_id": "intimate_0658.json__9f9c6c8aef87b2e1",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0210_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000722",
+        "script_id": "intimate_0722.json__b3142dbfb9ab7c84",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0210_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000786",
+        "script_id": "intimate_0786.json__ee7629b42ce1de27",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0210_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000842",
+        "script_id": "intimate_0842.json__2aae2b526c8c2912",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0210_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000994",
+        "script_id": "intimate_0994.json__106be5942a8cb8e1",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0210_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001242",
+        "script_id": "intimate_1242.json__cbde3a93c4bbdb2d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0210_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000224",
+        "script_id": "intimate_0224.json__31aa2611df3c8d8b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0211_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000452",
+        "script_id": "intimate_0452.json__c4335362bd1bda4e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0211_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000622",
+        "script_id": "intimate_0622.json__b65c64e87bb09018",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0211_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000630",
+        "script_id": "intimate_0630.json__6f8095dbdbd2eb02",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0211_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000706",
+        "script_id": "intimate_0706.json__674d4eea7888605c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0211_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000846",
+        "script_id": "intimate_0846.json__35427af93878ee6d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0211_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000998",
+        "script_id": "intimate_0998.json__0059271175eeb2a9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0211_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001170",
+        "script_id": "intimate_1170.json__b464e422d5de3fb3",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0211_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001234",
+        "script_id": "intimate_1234.json__a4d74ba5ad3a2894",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0211_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000231",
+        "script_id": "intimate_0231.json__d17d1954457c1665",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0212_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000424",
+        "script_id": "intimate_0424.json__9b0075fa7ce77948",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0212_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000504",
+        "script_id": "intimate_0504.json__737afabd0f24bd3e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0212_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000642",
+        "script_id": "intimate_0642.json__0220691f043b03dd",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0212_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000710",
+        "script_id": "intimate_0710.json__8741a643fd26f9c3",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0212_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000850",
+        "script_id": "intimate_0850.json__242aa1ff58397bde",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0212_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001014",
+        "script_id": "intimate_1014.json__8489ee8fb1c22529",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0212_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001246",
+        "script_id": "intimate_1246.json__57240d43e70a42d2",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0212_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001506",
+        "script_id": "intimate_1506.json__988cd7e4f89bb2ab",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0212_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000238",
+        "script_id": "intimate_0238.json__85dd3eb9afe95fc3",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0213_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000586",
+        "script_id": "intimate_0586.json__409157a1b3599f41",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0213_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000814",
+        "script_id": "intimate_0814.json__39b8f0594ed9f6f2",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0213_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000962",
+        "script_id": "intimate_0962.json__6e67ca3a68186a38",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0213_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001118",
+        "script_id": "intimate_1118.json__b3a50fa6e3928ad0",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0213_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001350",
+        "script_id": "intimate_1350.json__d29b7b5b0f00c51d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0213_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001490",
+        "script_id": "intimate_1490.json__8d6a62f66b00b08e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0213_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000245",
+        "script_id": "intimate_0245.json__fa67a611f91fa7ca",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0214_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000492",
+        "script_id": "intimate_0492.json__9f31f6334c9f9a46",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0214_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000818",
+        "script_id": "intimate_0818.json__4c2e49e7d7672dd6",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0214_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000938",
+        "script_id": "intimate_0938.json__36a2363556efa1dd",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0214_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001190",
+        "script_id": "intimate_1190.json__62f74da99fa4b743",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0214_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001502",
+        "script_id": "intimate_1502.json__bae5207877f01c42",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0214_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001594",
+        "script_id": "intimate_1594.json__99a502f22b8ecec0",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0214_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000252",
+        "script_id": "intimate_0252.json__5b0ab5b3a03e6adc",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0215_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000606",
+        "script_id": "intimate_0606.json__b1c31ca97e04a006",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0215_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000866",
+        "script_id": "intimate_0866.json__79c5bb8a7e326704",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0215_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000958",
+        "script_id": "intimate_0958.json__c317e31c740a4064",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0215_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001202",
+        "script_id": "intimate_1202.json__d0bcdeff70bb78e8",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0215_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001342",
+        "script_id": "intimate_1342.json__9798a599568aa581",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0215_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001498",
+        "script_id": "intimate_1498.json__877bc3dbfb2b4373",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0215_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000259",
+        "script_id": "intimate_0259.json__f93179e72d0c222d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0216_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000534",
+        "script_id": "intimate_0534.json__c5f5cadde92417cd",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0216_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000914",
+        "script_id": "intimate_0914.json__b13a22e3991fd796",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0216_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001166",
+        "script_id": "intimate_1166.json__1324190f7c818838",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0216_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001294",
+        "script_id": "intimate_1294.json__21a63b2130a4f18f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0216_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001550",
+        "script_id": "intimate_1550.json__060f17471a9ca988",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0216_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001853",
+        "script_id": "intimate_1853.json__5312c78fa9cc225d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0216_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000263",
+        "script_id": "intimate_0263.json__bead57973a2155b2",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0217_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000267",
+        "script_id": "intimate_0267.json__17fad2f8b4cc7885",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0217_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000614",
+        "script_id": "intimate_0614.json__9ec0db4ce5d91255",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0217_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000738",
+        "script_id": "intimate_0738.json__4cd68a3c0eaeca6f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0217_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000874",
+        "script_id": "intimate_0874.json__ac1ca5de461965a9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0217_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001098",
+        "script_id": "intimate_1098.json__33951af0d35de6e3",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0217_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001286",
+        "script_id": "intimate_1286.json__8baf7cad887fb5e8",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0217_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000281",
+        "script_id": "intimate_0281.json__d0d2001793ff5332",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0218_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000440",
+        "script_id": "intimate_0440.json__9b91a88c86e009b7",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0218_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000554",
+        "script_id": "intimate_0554.json__9cab55b672c3fe85",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0218_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000858",
+        "script_id": "intimate_0858.json__19fd47b29b56a630",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0218_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001082",
+        "script_id": "intimate_1082.json__1b6daefba4873f6a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0218_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001274",
+        "script_id": "intimate_1274.json__72beda7e82643588",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0218_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001582",
+        "script_id": "intimate_1582.json__911569543f015f5a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0218_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000288",
+        "script_id": "intimate_0288.json__48a075a0247a546f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0219_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000444",
+        "script_id": "intimate_0444.json__3ebe0b283ece9851",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0219_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000778",
+        "script_id": "intimate_0778.json__f1f274decc82f511",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0219_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000862",
+        "script_id": "intimate_0862.json__2ce06478abf73b30",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0219_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001198",
+        "script_id": "intimate_1198.json__73b29f135d5aea7e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0219_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001402",
+        "script_id": "intimate_1402.json__ef7355de545cd72b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0219_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001626",
+        "script_id": "intimate_1626.json__130555d69ce4848b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0219_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000295",
+        "script_id": "intimate_0295.json__970c3f1ad40d172c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0220_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000299",
+        "script_id": "intimate_0299.json__9b532750208a4c7a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0220_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000582",
+        "script_id": "intimate_0582.json__c1e31e86914bac67",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0220_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000918",
+        "script_id": "intimate_0918.json__ed420763dbd5735a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0220_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001182",
+        "script_id": "intimate_1182.json__19c76039f056a842",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0220_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001318",
+        "script_id": "intimate_1318.json__4ac815f2ce1899f4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0220_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001422",
+        "script_id": "intimate_1422.json__46f8b15f577b34e9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0220_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000306",
+        "script_id": "intimate_0306.json__a9dfea03e33a1fd8",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0221_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000472",
+        "script_id": "intimate_0472.json__ecfd46700c3e6090",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0221_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000610",
+        "script_id": "intimate_0610.json__0e6fe6a6da7c96f0",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0221_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000870",
+        "script_id": "intimate_0870.json__735675592eacb722",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0221_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001122",
+        "script_id": "intimate_1122.json__68305a3ae595ea94",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0221_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001310",
+        "script_id": "intimate_1310.json__45b3f2ccb9721ffd",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0221_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001450",
+        "script_id": "intimate_1450.json__f276b8a6db6e6657",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0221_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401006536",
+        "script_id": "exepisode_6536.json__95c4d18621960103",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          131
+        ],
+        "log_order_index": [
+          0,
+          131
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0221_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000313",
+        "script_id": "intimate_0313.json__7842c1ed00b863e9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0222_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000436",
+        "script_id": "intimate_0436.json__a9a335aaa99bd286",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0222_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000758",
+        "script_id": "intimate_0758.json__e02cfa8dcc4e5610",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0222_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001054",
+        "script_id": "intimate_1054.json__7e970f04a7a6a79c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0222_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001142",
+        "script_id": "intimate_1142.json__dfed801007913ff7",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0222_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001314",
+        "script_id": "intimate_1314.json__ae37ee9f8f08d2de",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0222_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001430",
+        "script_id": "intimate_1430.json__a71c080f8305c259",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0222_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000320",
+        "script_id": "intimate_0320.json__be950ea51284aece",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0223_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000594",
+        "script_id": "intimate_0594.json__4075db405c22b03e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0223_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000802",
+        "script_id": "intimate_0802.json__618b1b37771a2502",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0223_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001022",
+        "script_id": "intimate_1022.json__3d3fa0981bca5d79",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0223_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001194",
+        "script_id": "intimate_1194.json__c30710cfbb7af22b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          6
+        ],
+        "log_order_index": [
+          0,
+          6
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0223_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001334",
+        "script_id": "intimate_1334.json__a75b5b7c011ab6b3",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          6
+        ],
+        "log_order_index": [
+          0,
+          6
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0223_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001530",
+        "script_id": "intimate_1530.json__65fa6dc7f2c66c64",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          6
+        ],
+        "log_order_index": [
+          0,
+          6
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0223_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000327",
+        "script_id": "intimate_0327.json__35836aaacddc316a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0224_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000528",
+        "script_id": "intimate_0528.json__2119e764f2385144",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0224_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000770",
+        "script_id": "intimate_0770.json__47c96d2aa41f023f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0224_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000954",
+        "script_id": "intimate_0954.json__5f7da8971aa5b39f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0224_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001138",
+        "script_id": "intimate_1138.json__6466db3df2b7b4a6",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0224_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001438",
+        "script_id": "intimate_1438.json__627276d7fa3c88dc",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0224_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001586",
+        "script_id": "intimate_1586.json__b377827f311bc31f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0224_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000331",
+        "script_id": "intimate_0331.json__f66c7572079eeb93",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0225_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000930",
+        "script_id": "intimate_0930.json__fc98440a0e896fc7",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0225_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001158",
+        "script_id": "intimate_1158.json__831248250ad1b31c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0225_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001634",
+        "script_id": "intimate_1634.json__9faa320036a21e29",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0225_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401003197",
+        "script_id": "intimate_3197.json__afe28f70f205b050",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0225_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000335",
+        "script_id": "intimate_0335.json__99977c7836843381",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0226_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000978",
+        "script_id": "intimate_0978.json__e8000730ea9d0276",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0226_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001154",
+        "script_id": "intimate_1154.json__7b6131504072136e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0226_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001614",
+        "script_id": "intimate_1614.json__7bc12e2cd5d778d4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0226_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401003209",
+        "script_id": "intimate_3209.json__1fa98bbfb8ef95e4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0226_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000339",
+        "script_id": "intimate_0339.json__ef9dc3b51cffd796",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0227_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001030",
+        "script_id": "intimate_1030.json__7ef7af644c5121bb",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0227_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001150",
+        "script_id": "intimate_1150.json__a44cd5f4e935d8c7",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0227_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001622",
+        "script_id": "intimate_1622.json__5f91e0efb5730418",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0227_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401003213",
+        "script_id": "intimate_3213.json__523ca1d0dc8b1ac8",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0227_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000343",
+        "script_id": "intimate_0343.json__a70374442efa7b60",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0228_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001126",
+        "script_id": "intimate_1126.json__478443cfc27d8fd8",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0228_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001722",
+        "script_id": "intimate_1722.json__1152a989fae598a5",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0228_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001818",
+        "script_id": "intimate_1818.json__16735cdb33319091",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0228_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401003245",
+        "script_id": "intimate_3245.json__9be47734399e7654",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0228_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000357",
+        "script_id": "intimate_0357.json__11a96c8185d1a57c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0229_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000420",
+        "script_id": "intimate_0420.json__816bf614338c71d2",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0229_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000542",
+        "script_id": "intimate_0542.json__5ffc3258ea7ba5c9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0229_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000654",
+        "script_id": "intimate_0654.json__ea80f24641f6e3da",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0229_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000718",
+        "script_id": "intimate_0718.json__d408f8c71d4108f6",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0229_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000902",
+        "script_id": "intimate_0902.json__f03ef131aa135cab",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0229_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000982",
+        "script_id": "intimate_0982.json__897dedd76d753fa0",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          5
+        ],
+        "log_order_index": [
+          0,
+          5
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0229_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001266",
+        "script_id": "intimate_1266.json__c12de2953a1d0517",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0229_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401001326",
+        "script_id": "intimate_1326.json__341fbd4ed74045bd",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          4
+        ],
+        "log_order_index": [
+          0,
+          4
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0229_DEEP_READING.md"
+      },
+      {
+        "episode_id": "401000374",
+        "script_id": "intimate_0374.json__6637fc3dfe7ca189",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          3
+        ],
+        "log_order_index": [
+          0,
+          3
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0230_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402000101",
+        "script_id": "mail_0001.json__f1ab74f25b395c4b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0231_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402000201",
+        "script_id": "mail_0002.json__5fc6778831016dcf",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0231_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402000301",
+        "script_id": "mail_0003.json__ddd6c0e201ed868d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0231_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402000401",
+        "script_id": "mail_0004.json__2a7e01a2ac52c877",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402000501",
+        "script_id": "mail_0005.json__b26c3f4f126f8a2a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402000601",
+        "script_id": "mail_0006.json__5924fb9f1a3134bd",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402000701",
+        "script_id": "mail_0007.json__fdd578a07bb7a995",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402000801",
+        "script_id": "mail_0008.json__d691fc8d64756e7b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402000901",
+        "script_id": "mail_0009.json__ddec3c0e68e0b5c0",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402001001",
+        "script_id": "mail_0010.json__2d806647a77639b1",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402001101",
+        "script_id": "mail_0011.json__9e937975231be153",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402001201",
+        "script_id": "mail_0012.json__0fc3c6e2eae0b4d2",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402001301",
+        "script_id": "mail_0013.json__4c54e4efebdd3fca",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402001401",
+        "script_id": "mail_0014.json__8abfecc7e3bb2326",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402001501",
+        "script_id": "mail_0015.json__681d788f973cfc7b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402001601",
+        "script_id": "mail_0016.json__97be6b837651effa",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402001701",
+        "script_id": "mail_0017.json__9f2f2c75f4925ae4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402001801",
+        "script_id": "mail_0018.json__22c3baae9ce5a66f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402001901",
+        "script_id": "mail_0019.json__8adcc6affd51a981",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402002001",
+        "script_id": "mail_0020.json__2029e202810c7e65",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402002101",
+        "script_id": "mail_0021.json__e5826e43bc11539e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402002201",
+        "script_id": "mail_0022.json__d7c81ece1295c798",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402002301",
+        "script_id": "mail_0023.json__3234706b93e38057",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402002401",
+        "script_id": "mail_0024.json__8e77f8034e92136e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402002501",
+        "script_id": "mail_0025.json__ed21520e1722177d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402002601",
+        "script_id": "mail_0026.json__c5eacd5c8bb4f2e9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402002701",
+        "script_id": "mail_0027.json__5b9f61cee9e589b4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402002801",
+        "script_id": "mail_0028.json__3a1bc3a6ca23adbb",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402002901",
+        "script_id": "mail_0029.json__94fe3749958a73fd",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402003001",
+        "script_id": "mail_0030.json__6249463d485ca529",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402003101",
+        "script_id": "mail_0031.json__7d6d0bde750d466a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402003201",
+        "script_id": "mail_0032.json__707dfd7adeabf85d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402003301",
+        "script_id": "mail_0033.json__d48968875822d804",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402003401",
+        "script_id": "mail_0034.json__6a2f30a7af694391",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402003501",
+        "script_id": "mail_0035.json__45c9ac94af3432bb",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402003601",
+        "script_id": "mail_0036.json__13760505da4cc42f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402003701",
+        "script_id": "mail_0037.json__119fb74e7e304a5d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402003801",
+        "script_id": "mail_0038.json__3a7882a2ecef554e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402003901",
+        "script_id": "mail_0039.json__f7c3aaae86292526",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402004001",
+        "script_id": "mail_0040.json__8c8fc34f4555f967",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402004101",
+        "script_id": "mail_0041.json__f89d796b5fe4e7ac",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402004201",
+        "script_id": "mail_0042.json__9ed1fa13d479aaad",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402004301",
+        "script_id": "mail_0043.json__65aa6e557827a186",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402004401",
+        "script_id": "mail_0044.json__3b765a373451510f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "402004901",
+        "script_id": "mail_0049.json__870013c47a2f976e",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          2
+        ],
+        "log_order_index": [
+          0,
+          2
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0232_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000101",
+        "script_id": "legend_001_02.json__f80d4c4d64b54e60",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          18
+        ],
+        "log_order_index": [
+          0,
+          18
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0233_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000102",
+        "script_id": "legend_001_03.json__449dfd92bdae1f37",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          11
+        ],
+        "log_order_index": [
+          0,
+          11
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0233_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000201",
+        "script_id": "legend_002_02.json__6e469bed275d21be",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          19
+        ],
+        "log_order_index": [
+          0,
+          19
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0233_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000202",
+        "script_id": "legend_002_03.json__76d2d652556cb0af",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          10
+        ],
+        "log_order_index": [
+          0,
+          10
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0233_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000301",
+        "script_id": "legend_003_02.json__073a69659d89132a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          23
+        ],
+        "log_order_index": [
+          0,
+          23
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0233_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000302",
+        "script_id": "legend_003_03.json__f82d27e80ed30c72",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          14
+        ],
+        "log_order_index": [
+          0,
+          14
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0233_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000401",
+        "script_id": "legend_004_02.json__dab652e901e7ee32",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          18
+        ],
+        "log_order_index": [
+          0,
+          18
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0233_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000402",
+        "script_id": "legend_004_03.json__e38714b4b96511c1",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          15
+        ],
+        "log_order_index": [
+          0,
+          15
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0233_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000501",
+        "script_id": "legend_005_02.json__270d3d27cfa1fd23",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          21
+        ],
+        "log_order_index": [
+          0,
+          21
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0233_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000502",
+        "script_id": "legend_005_03.json__dd87b866ae9cca21",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          13
+        ],
+        "log_order_index": [
+          0,
+          13
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0233_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000601",
+        "script_id": "legend_006_02.json__d72b3dcbd5454a58",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          25
+        ],
+        "log_order_index": [
+          0,
+          25
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0233_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000602",
+        "script_id": "legend_006_03.json__bf4d6c26f44e8505",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          19
+        ],
+        "log_order_index": [
+          0,
+          19
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0233_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000701",
+        "script_id": "exepisode_001_01.json__9d06ef8564c989cb",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          65
+        ],
+        "log_order_index": [
+          0,
+          65
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0234_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000702",
+        "script_id": "exepisode_001_02.json__f1f6087e1a80a604",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          65
+        ],
+        "log_order_index": [
+          0,
+          65
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0234_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000703",
+        "script_id": "exepisode_001_03.json__51cbf6247f632da7",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          85
+        ],
+        "log_order_index": [
+          0,
+          85
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0234_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000704",
+        "script_id": "exepisode_001_04.json__003b73f79a1420c5",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          57
+        ],
+        "log_order_index": [
+          0,
+          57
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0234_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000705",
+        "script_id": "exepisode_001_05.json__830c9d81807654d1",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          86
+        ],
+        "log_order_index": [
+          0,
+          86
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0234_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000706",
+        "script_id": "exepisode_001_06.json__66ef84d58dcabede",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          92
+        ],
+        "log_order_index": [
+          0,
+          92
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0234_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000707",
+        "script_id": "exepisode_001_07.json__9cae158561be4644",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          24
+        ],
+        "log_order_index": [
+          0,
+          24
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0234_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000708",
+        "script_id": "exepisode_001_08.json__edbc1d338695a7b7",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          74
+        ],
+        "log_order_index": [
+          0,
+          74
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0234_DEEP_READING.md"
+      },
+      {
+        "episode_id": "403000709",
+        "script_id": "exepisode_001_09.json__235ee35c94743a44",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          69
+        ],
+        "log_order_index": [
+          0,
+          69
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0234_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000001",
+        "script_id": "bdmemory_004_0416.json__1a1f13f56159eb97",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          18
+        ],
+        "log_order_index": [
+          0,
+          18
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0235_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000002",
+        "script_id": "bdmemory_038_0430.json__2efe071745d85eb5",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          18
+        ],
+        "log_order_index": [
+          0,
+          18
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0235_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000003",
+        "script_id": "bdmemory_032_0504.json__0ad8a76af95871e2",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          18
+        ],
+        "log_order_index": [
+          0,
+          18
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0235_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000004",
+        "script_id": "bdmemory_013_0512.json__bac9bd4484e27f06",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          28
+        ],
+        "log_order_index": [
+          0,
+          28
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0236_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000005",
+        "script_id": "bdmemory_003_0520.json__d7565695529fcb13",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          21
+        ],
+        "log_order_index": [
+          0,
+          21
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0236_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000006",
+        "script_id": "bdmemory_019_0528.json__064068669c9796b2",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          22
+        ],
+        "log_order_index": [
+          0,
+          22
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0236_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000007",
+        "script_id": "bdmemory_033_0608.json__bb3d6f7cdc94487d",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          20
+        ],
+        "log_order_index": [
+          0,
+          20
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0236_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000008",
+        "script_id": "bdmemory_001_0629.json__5e6689c82689a409",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          21
+        ],
+        "log_order_index": [
+          0,
+          21
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0236_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000009",
+        "script_id": "bdmemory_045_0630.json__a918b52b4f2ab4e0",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          22
+        ],
+        "log_order_index": [
+          0,
+          22
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0236_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000010",
+        "script_id": "bdmemory_011_0707.json__ba61220357943864",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          39
+        ],
+        "log_order_index": [
+          0,
+          39
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0236_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000011",
+        "script_id": "bdmemory_022_0713.json__487aadb7f1196027",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          30
+        ],
+        "log_order_index": [
+          0,
+          30
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0236_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000012",
+        "script_id": "bdmemory_006_0720.json__cfc247be8c90a4c5",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          22
+        ],
+        "log_order_index": [
+          0,
+          22
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0236_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000013",
+        "script_id": "bdmemory_017_0802.json__e35cbe3e5bb6a94a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          27
+        ],
+        "log_order_index": [
+          0,
+          27
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0236_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000014",
+        "script_id": "bdmemory_007_0808.json__6af966f707220783",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          19
+        ],
+        "log_order_index": [
+          0,
+          19
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0236_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000015",
+        "script_id": "bdmemory_005_0814.json__ecd862f4f24841e9",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          26
+        ],
+        "log_order_index": [
+          0,
+          26
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0236_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000016",
+        "script_id": "bdmemory_031_0828.json__2d28a26cc460c827",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          19
+        ],
+        "log_order_index": [
+          0,
+          19
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0237_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000017",
+        "script_id": "bdmemory_047_0830.json__61cf8e85811a93b2",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          25
+        ],
+        "log_order_index": [
+          0,
+          25
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0237_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000018",
+        "script_id": "bdmemory_021_0904.json__6242bb528be20899",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          24
+        ],
+        "log_order_index": [
+          0,
+          24
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0237_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000019",
+        "script_id": "bdmemory_028_0908.json__c838f391010b59b3",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          21
+        ],
+        "log_order_index": [
+          0,
+          21
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0237_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000020",
 <!-- T7S SOURCE LOCK PAYLOAD END -->

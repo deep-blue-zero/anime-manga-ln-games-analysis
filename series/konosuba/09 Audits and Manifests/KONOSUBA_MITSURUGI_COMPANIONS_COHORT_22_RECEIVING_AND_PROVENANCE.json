@@ -1,0 +1,374 @@
+{
+  "schema": "konosuba.cohort22.receiving-and-provenance.v1",
+  "recorded_utc": "2026-10-20T23:27:45.174708+00:00",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "scope": "One twelve-dimension monograph/four-rule provisional model, two separate compact existing-ledger role profiles,47retrieval rows, bounded native provenance and four same-root original firsts/two pairs/adverse assessment.",
+  "prior_published_authority": {
+    "source": "6cdc432fc24893957af1717db86982aa9da8b848",
+    "tree": "e1fba0a2affab5772b105995b8b7322c07c520dd",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_ARUE_SOKETTO_BUKKORORI_COHORT21_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "4a95e2864e4677f30d33b2de4d8d342e811ceaa77d84629cbe5c7b9b94b61e5f",
+    "source_run": 39504607065,
+    "housekeeping_run": 39505210888,
+    "final_run": 39505275375,
+    "full_tests_each": 385
+  },
+  "semantic_receiving_sha256": "ba66135f2044d0f9649d2280ba4fcb6f505dcd6db9b16f433e934211aa978936",
+  "native_provenance_sha256": "19aa7c02fe25be9dd919a3bb3ebfba7eda8798cd84c4c299eb507f146a81f22d",
+  "artifacts": [
+    {
+      "path": "MITSURUGI_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MITSURUGI_CHARACTER_MONOGRAPH.md",
+      "bytes": 19357,
+      "sha256": "6bfac3478718704da09e3c4832a773bbf323cc79d20fcb9ae4e172285eaa9e6d"
+    },
+    {
+      "path": "MITSURUGI_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MITSURUGI_RECONSTRUCTION_MODEL.md",
+      "bytes": 17326,
+      "sha256": "0919ba83f398d8e3e4960376b63f9cb65d95bc9072d8147c0a948dc1e3946cb8"
+    },
+    {
+      "path": "KONOSUBA_MITSURUGI_COMPANIONS_EVIDENCE_INDEX_DRAFT_01.md",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_MITSURUGI_COMPANIONS_EVIDENCE_INDEX.md",
+      "bytes": 17947,
+      "sha256": "aa3b574d601b8992bebc60940d14b2e092bd7b307b44675bf9dcddf070fe3811"
+    },
+    {
+      "path": "KONOSUBA_MITSURUGI_COMPANIONS_NATIVE_PROVENANCE_DRAFT_01.json",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_MITSURUGI_COMPANIONS_NATIVE_PROVENANCE.json",
+      "bytes": 42413,
+      "sha256": "19aa7c02fe25be9dd919a3bb3ebfba7eda8798cd84c4c299eb507f146a81f22d"
+    },
+    {
+      "path": "MITSURUGI_SCENARIO_INPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/MITSURUGI_EXPANDED_V1_EVIDENCE/MITSURUGI_SCENARIO_INPUTS_01.json",
+      "bytes": 12721,
+      "sha256": "cc29bbc1519c826f7258e9e0ed90fc067e068cbd562ac8212db8b43fa67b0cb4"
+    },
+    {
+      "path": "MITSURUGI_FIRST_OUTPUTS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/MITSURUGI_EXPANDED_V1_EVIDENCE/MITSURUGI_FIRST_OUTPUTS_01.json",
+      "bytes": 5383,
+      "sha256": "82dfe45ca45bbb3c655e810d9433bcfd69bd3a502c3dadd09da6fa34f18d6bcb"
+    },
+    {
+      "path": "MITSURUGI_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/MITSURUGI_EXPANDED_V1_EVIDENCE/MITSURUGI_FIRST_OUTPUT_ANNOTATIONS_01.json",
+      "bytes": 6729,
+      "sha256": "06cc616393fb4ba35fa732a2d148ac8d5e2d6ef27c14dc1d14cfc1033b326d4c"
+    },
+    {
+      "path": "MITSURUGI_CASE_ASSESSMENT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/MITSURUGI_EXPANDED_V1_EVIDENCE/MITSURUGI_CASE_ASSESSMENT_01.md",
+      "bytes": 5892,
+      "sha256": "828c16f00025abd4584368e9636332e4387fc6edd5670c7c43e3c140575c5827"
+    }
+  ],
+  "bounded_existing_ledger_profile_fragments": [
+    {
+      "path": "COHORT22_SPEAR_COMPANION_BOUNDED_PROFILE_DRAFT_01.md",
+      "bytes": 4371,
+      "sha256": "1a347be7088fc7fba59a9e58a57f540458d1b92c40c0a288e37d02a7821c87b1"
+    },
+    {
+      "path": "COHORT22_THIEF_COMPANION_BOUNDED_PROFILE_DRAFT_01.md",
+      "bytes": 4387,
+      "sha256": "65421bfebb21a12ac1835ffe9c486538d64e5cbd143f699e845dbef0c32f455e"
+    }
+  ],
+  "source_scope": {
+    "unique_known_BASE_context_slots": 5026,
+    "text_members": 35,
+    "text_native_objects": 17,
+    "image_reference_objects": 2,
+    "total_native_objects": 19,
+    "actual_known_reference_image_views": 5,
+    "whole_source_ruby_residual_image_set_admission_or_independent_validation_credit": 0
+  },
+  "models": {
+    "new": 1,
+    "new_rules": 4,
+    "prior_thirty_exact": [
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+        "bytes": 64491,
+        "sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_ARNES_RECONSTRUCTION_MODEL.md",
+        "bytes": 15026,
+        "sha256": "9e31cb2bf9e59f4a11e789f16166f575d740fd0a9fbd2e53adfbf46d89ffdaa6"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_BUKKORORI_RECONSTRUCTION_MODEL.md",
+        "bytes": 16781,
+        "sha256": "58eb7af904048542aa1579683000e84543c9aebbe686c9b1b4eab54ace149203"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CECILY_RECONSTRUCTION_MODEL.md",
+        "bytes": 20405,
+        "sha256": "34843fd30838efdc83d54f686795e23bd76730920137746aa8978729891a72a5"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CHRIS_ERIS_RECONSTRUCTION_MODEL.md",
+        "bytes": 24777,
+        "sha256": "213de30d6bfab2fb3a9d2c47c2158b6425a598814b92caa855913f08bd997083"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CLAIRE_RECONSTRUCTION_MODEL.md",
+        "bytes": 18435,
+        "sha256": "386b2e7c5df610e83bbf9fec58a8c9485132d6f28b8abb65a3658142de6b08d1"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 51278,
+        "sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+        "bytes": 62581,
+        "sha256": "e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DUST_RECONSTRUCTION_MODEL.md",
+        "bytes": 20922,
+        "sha256": "3ef260ea7a64f350c8c09448020a96e18ed0eed75af5acd417193805bff8655f"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_HOOST_RECONSTRUCTION_MODEL.md",
+        "bytes": 25873,
+        "sha256": "e973e7f325238ab71fa0e10e3588d32c8fc3bf03dd827bb32e9120789c4742c7"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md",
+        "bytes": 20464,
+        "sha256": "75afb94b5723af3620ea5fabe1d8a7c742645bb56de938c605a3d11999a42c29"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 61516,
+        "sha256": "6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KEITH_RECONSTRUCTION_MODEL.md",
+        "bytes": 14474,
+        "sha256": "405980a8b3b5446bc98499389a9f251bc6690d875ae24e9c4b6e8360fd0ed778"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KOMEKKO_RECONSTRUCTION_MODEL.md",
+        "bytes": 21826,
+        "sha256": "0be5bfa9097547a3d705b5a8216dd395f714382b65f6fa4cad499504641065c0"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LEEN_RECONSTRUCTION_MODEL.md",
+        "bytes": 17273,
+        "sha256": "d77fce9b6ac0635ee7ef1eeaedf1c816f4d80f097369f86204b46b0eb132120b"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LEVI_RECONSTRUCTION_MODEL.md",
+        "bytes": 23809,
+        "sha256": "dd3b48dba631c87e7c0fe604f0cb5a94dd618e5e77b9d2c781491b6c7b7b3c46"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LOLISA_RECONSTRUCTION_MODEL.md",
+        "bytes": 17753,
+        "sha256": "e493e89c2a9d12196d80cd9ad007e8e4063d02ce04dc7b70136171896d404475"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LUNA_RECONSTRUCTION_MODEL.md",
+        "bytes": 23199,
+        "sha256": "7d071db906bd88e6e14b305705825a11c253f99eb66e6ee26644c4523bded2c9"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+        "bytes": 60891,
+        "sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+        "bytes": 67885,
+        "sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_RAIN_RECONSTRUCTION_MODEL.md",
+        "bytes": 19139,
+        "sha256": "3d62cb9fc0958b86cc9edef8479036483f4cb0d752f63c599beab3719d689637"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_REX_RECONSTRUCTION_MODEL.md",
+        "bytes": 12417,
+        "sha256": "cbbd6d0182229a7cccfdb6384f9ae84687e9e3dc0d7278f7182bdf324c141660"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_SENA_RECONSTRUCTION_MODEL.md",
+        "bytes": 12443,
+        "sha256": "446eeef44c53bb36b980283cfb8285dfc24362ae0bf541f3c603a40346921031"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_SOKETTO_RECONSTRUCTION_MODEL.md",
+        "bytes": 14153,
+        "sha256": "95ff070b1d244446ac39b47383afc21f3bdffb9549213e1f0315889f0ff295b5"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_TAYLOR_RECONSTRUCTION_MODEL.md",
+        "bytes": 14105,
+        "sha256": "4e7b8b70962cdd6ad8a90fa987ba3279a23e8480dd4f92660822db76bb552701"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md",
+        "bytes": 25561,
+        "sha256": "081b6bef4df5584837d2a6fb565f746aa3d9c00a3c925c592596d2d3bb3186df"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md",
+        "bytes": 24361,
+        "sha256": "b8248785ff01251738798121a3ac1eea06b576913c1ea436e97fc22720146b89"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_WOLBACH_RECONSTRUCTION_MODEL.md",
+        "bytes": 15125,
+        "sha256": "d1df7c6476a2e2426ac3d0c99caa69a343d5d7418946141c4c533bc1cb122d53"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_YUNYUN_RECONSTRUCTION_MODEL.md",
+        "bytes": 25474,
+        "sha256": "4565a9089c9bac6c6f694469f27920d26f9ab1b44275c62c7160692575c765eb"
+      },
+      {
+        "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_ZESTA_RECONSTRUCTION_MODEL.md",
+        "bytes": 20868,
+        "sha256": "f7c966bf93a3c788a697f9b2da55f01b6b221d52ca9a95d63df45401632de0a0"
+      }
+    ],
+    "candidate_total": 31,
+    "scoped_secondary_subjects": 25,
+    "bounded_profiles": 21,
+    "monograph_only_subjects": [
+      "Nos",
+      "Rionor",
+      "Feit",
+      "Chomusuke",
+      "Funifura",
+      "Dodonko",
+      "Arue"
+    ]
+  },
+  "new_cases": {
+    "actual_first_bodies": 4,
+    "paired_hypotheticals": 2,
+    "same_informed_author": true,
+    "earlier_cases_visible_to_later": true,
+    "regenerations": 0,
+    "feedback_repairs": 0,
+    "actual_first_pins": [
+      {
+        "case_id": "MT-H01-A",
+        "body_file": "MITSURUGI_FIRST_BODY_MT-H01-A_01.txt",
+        "body_sha256": "54135026e561a4c4c945c9db1d71e42ab3bc58145ecbc090215d8fedf7bc23f3",
+        "receipt_file": "MITSURUGI_FIRST_BODY_MT-H01-A_01_RECEIPT.json",
+        "receipt_sha256": "a95bb4cecd2ae7263fc65383c602af0841c8d0905357d87638c2004654c4ae1e",
+        "serialized_utc": "2026-10-20T23:15:56.762773+00:00",
+        "words": 98
+      },
+      {
+        "case_id": "MT-H01-B",
+        "body_file": "MITSURUGI_FIRST_BODY_MT-H01-B_01.txt",
+        "body_sha256": "0837e5f0c1d99f16e81eca5070c402d1ddc6bc4bc4d289c7db48000a0666e6b3",
+        "receipt_file": "MITSURUGI_FIRST_BODY_MT-H01-B_01_RECEIPT.json",
+        "receipt_sha256": "957e07952187fae4f24ae163dd6884ff70da7198700f98e25852840967cc58fe",
+        "serialized_utc": "2026-10-20T23:16:10.146753+00:00",
+        "words": 106
+      },
+      {
+        "case_id": "MT-H02-A",
+        "body_file": "MITSURUGI_FIRST_BODY_MT-H02-A_01.txt",
+        "body_sha256": "e4ee979a851da31c79e676107538a376a3b071591ddc724df95f2c4356870b52",
+        "receipt_file": "MITSURUGI_FIRST_BODY_MT-H02-A_01_RECEIPT.json",
+        "receipt_sha256": "cf147b903ef56bd6030dbc24c56c3c13befd988cc7467a8420bad54f2b9798d3",
+        "serialized_utc": "2026-10-20T23:16:35.536511+00:00",
+        "words": 106
+      },
+      {
+        "case_id": "MT-H02-B",
+        "body_file": "MITSURUGI_FIRST_BODY_MT-H02-B_01.txt",
+        "body_sha256": "a5d8b892dbfe4162127b2f66cdd76a484a9bff211d35bd8ceeb7e3d4ba8f5eaf",
+        "receipt_file": "MITSURUGI_FIRST_BODY_MT-H02-B_01_RECEIPT.json",
+        "receipt_sha256": "6d0898099f9d8f4d33ecd7c22d280ec71301ff450e7525d8f56651cc89d88910",
+        "serialized_utc": "2026-10-20T23:17:07.098924+00:00",
+        "words": 104
+      }
+    ],
+    "adverse_findings": [
+      "Unsupported duration assurance and selective duty framing while other helpers/safe return path are supplied.",
+      "Strong generic danger/all-clear explanation and potentially overtidy return.",
+      "Ren token possession not supplied; no actual theft attempt is made.",
+      "Relative previous guard position added; both cases use both pockets.",
+      "No successful defense or new-method opponent action observed; strongly supplied memories dominate."
+    ],
+    "unprobed_dedicated_rules": [
+      "MT-R02",
+      "MT-R04"
+    ],
+    "accuracy_result": null,
+    "capability_grade": null,
+    "confidence_gain": null
+  },
+  "current_source_qualifications": [
+    "Shared フィオ/クレメア nameset role-unmapped; no duplicate people or official Latin spelling claim.",
+    "Real origami craft and reciprocal gift distinct from returned property, engagement or worthlessness.",
+    "Aqua private fear versus audible request; later Kazuma skills versus earlier level-one premise.",
+    "Direct main/Dust/FD/redo/reference planes and actor-specific healing/transport/pressure retained."
+  ],
+  "census": {
+    "records_not_final_people": 193,
+    "changed_current_rows": [
+      10,
+      127,
+      128
+    ],
+    "untouched_current_rows": 190,
+    "new_rows": [],
+    "carried_parent_closure_rows": [
+      45,
+      46,
+      47,
+      190,
+      191,
+      192
+    ],
+    "changed_parent_rows": [
+      10,
+      45,
+      46,
+      47,
+      127,
+      128,
+      190,
+      191,
+      192
+    ],
+    "untouched_parent_rows": 184,
+    "nameset_role_unmapped": true,
+    "private_histories_outside_targets_not_imported": true
+  },
+  "historical_integrity_requirement": "66immutable/72historical, four scores, Dust14blanks/SI-SY28nulls, prior30models/firsts/reports/indices/monographs and80scratch preserved. No six StageDsuccessors authored.",
+  "publication_gate_required": "Complete exact candidate/diff/link/preservation review, exact-index author preflight, normal push/exact remote tree/changed streams, source-HK-final terminal reports/reporter/status and fresh reload/PR254 refresh.",
+  "designated_ownership": "No protected merge, executor activation, new source admission or designated global curator/evaluator output authorship.",
+  "full_program_complete": false,
+  "publication_pending_at_authorship_history": "SEMANTIC_RECEIVING_COMPLETE_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "publication_gate_close": {
+    "source": "9b191f37ae735b24786a52a52f46d10e82609771",
+    "tree": "486141c171ff750e54d8e5a155bd4d9a6a485617",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MITSURUGI_COMPANIONS_COHORT22_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "6ce3347d769e2ef95b67d31a0f08e25b78a3a4b6edeaad51aa3a7294eb7006c2",
+    "source_run": 39516379860,
+    "housekeeping_run": 39517020268,
+    "final_run": 39517069341,
+    "full_tests_each": 385,
+    "published_project_paths": 1216,
+    "current_models": 31,
+    "no_independent_accuracy_or_confidence_gain": true
+  },
+  "published_authority_reload_sha256": "2886b34b8514290b0f121a97fd5c176a7c8afedc38ba770e7e54301549d458ad"
+}

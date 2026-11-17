@@ -1,0 +1,414 @@
+{
+  "schema": "KONOSUBA_YORI03_CURRENT_PRECISION_QUALIFICATIONS_V1",
+  "created_utc": "2026-10-19T02:26:43.277928+00:00",
+  "original_uncoded_history_unchanged": true,
+  "findings": [
+    {
+      "id": "Q01",
+      "qualification": "All26textualunits/3060nativeparagraphslots/26images actually received before the complete uncoded seal; extraction itself has no semantic credit.",
+      "source": "Whole-source seal/admission"
+    },
+    {
+      "id": "Q02",
+      "qualification": "Five distinct long bodies total3006Pslots, with54textualnonfictionPslots. Headers and blank/image slots remain native paragraph accounting, not a prose/gag population.",
+      "source": "U012/014/016/018/020 and all-unit inventory"
+    },
+    {
+      "id": "Q03",
+      "qualification": "No separate electronic bonus story exists in this supplied edition. Profiles, teasers, wraps, navigation, rights, diary doodle and afterword cartoon have individually inspected scopes.",
+      "source": "U001–026;IMG001–026"
+    },
+    {
+      "id": "Q04",
+      "qualification": "Author explicitly says all stories are new and chronology is fuzzy, broadly afterMAIN07. This does not date every intimate agreement or establish independent prediction exposure.",
+      "source": "U021P4/7–10"
+    },
+    {
+      "id": "Q05",
+      "qualification": "Ring loss is explicitly recalled in story3; collar history is explicitly recalled in story5. These links do not make every TOC entry a continuous dated sequence.",
+      "source": "U016P46–48/169;U020P19–20/860"
+    },
+    {
+      "id": "Q06",
+      "qualification": "K narrates the five bodies except Aqua's actual first-person diary entry U018444–451. The latter's self-excuse is not K's speech.",
+      "source": "U018P443–457"
+    },
+    {
+      "id": "Q07",
+      "qualification": "Story4 has22symbolicallydatedentries, not22newmainstories or actual calendar dates. Their four interleaved threads and later disclosures retain order.",
+      "source": "U018all dated headers"
+    },
+    {
+      "id": "Q08",
+      "qualification": "Story5's three alternatives retain onlyK's remembered experience and revert other state on flameout; current returns408/591/828. They are neither permanent canon replacement nor new independent trials.",
+      "source": "U020P47/58/408/591/828"
+    },
+    {
+      "id": "Q09",
+      "qualification": "New branch partners do not know K's later relations/secrets; his remembered procedural work can improve without importing later levels or learned powers into their bodies.",
+      "source": "U020P322/529–531/782"
+    },
+    {
+      "id": "Q10",
+      "qualification": "Original image notes remain exact. Before-seal actual IMG004/009 original-resolution reading corrects design name佐浦 to松浦リョウスケ in current derivatives.",
+      "source": "UNCODED_IMAGE_SCOPE_CORRECTIONS;IMG004/009"
+    },
+    {
+      "id": "Q11",
+      "qualification": "Color horn appearance alone was not physical-transformation proof; later actual horns and explicit ring mechanism establish that effect at the later interval.",
+      "source": "IMG006;U012P232–252"
+    },
+    {
+      "id": "Q12",
+      "qualification": "Cover/title/teaser repetitions are separate native image views, not repeated enacted battles, transformations or additional source publications.",
+      "source": "IMG001/005/006–009/022–026"
+    },
+    {
+      "id": "Q13",
+      "qualification": "IMG016 has handwritten date/signature and an angry doodle but no completed blow. Planned discipline in460 remains planned.",
+      "source": "U018P460–461;IMG016"
+    },
+    {
+      "id": "Q14",
+      "qualification": "IMG019 visually contrasts a quiet alternate house with remembered companions; the pale figures are not new ghosts or current physical presences.",
+      "source": "U020P778–800;IMG019"
+    },
+    {
+      "id": "Q15",
+      "qualification": "IMG020 is a warm current-world group close, not an enacted banquet, bill payment, cast or permanent contract signature.",
+      "source": "U020P871–882;IMG020"
+    },
+    {
+      "id": "Q16",
+      "qualification": "IMG021 is a labeled match-redoK/ sleepingAqua afterword miniature with actual thought/label/snore lettering, not a sixth long fiction body or audio witness.",
+      "source": "U021P21;IMG021"
+    },
+    {
+      "id": "Q17",
+      "qualification": "Aqua's announced journey is a same-day trip; D's explicit escort objection and actual dragging cannot be turned into accepted protection by class identity.",
+      "source": "U012P6–39"
+    },
+    {
+      "id": "Q18",
+      "qualification": "The ordinary named stone is explicitly effectless; the demon ring and later enchanted aura stones have real different effects. No all-products-fraud inference.",
+      "source": "U012P58/67–69;U020P26–35"
+    },
+    {
+      "id": "Q19",
+      "qualification": "M wears the ring before its unspecified cost is finished, and its prior contracted buyer and K's funding refusal remain actual ownership constraints.",
+      "source": "U012P69–103"
+    },
+    {
+      "id": "Q20",
+      "qualification": "Threatened intimate/destructive removal and proposed Steal are not performed. Critical non-graphic analysis does not invent acts from threats.",
+      "source": "U012P79/105–110"
+    },
+    {
+      "id": "Q21",
+      "qualification": "Eye beam, paralysis and horns are actual; eye pain, MP expense and restitution-linked magic curse are real separate costs learned at different times.",
+      "source": "U012P138–145/151–154/232–252/505–517"
+    },
+    {
+      "id": "Q22",
+      "qualification": "True frog warning is initially misread after retaliation threats; the later rescue/washing report does not supply a timely voluntary release.",
+      "source": "U012P163–178"
+    },
+    {
+      "id": "Q23",
+      "qualification": "Yun and other guild victims actually object to binding. A later purchased talisman does not authorize the earlier restraint.",
+      "source": "U012P204–270"
+    },
+    {
+      "id": "Q24",
+      "qualification": "The bounty pays for location information, not capture or killing; K's offered bribe is not paid before interruption.",
+      "source": "U012P373–382"
+    },
+    {
+      "id": "Q25",
+      "qualification": "The sacrifice question is explicitly hypothetical. The dagger attack, staff counter and later electric hit are actual different acts.",
+      "source": "U012P395–401/435–436"
+    },
+    {
+      "id": "Q26",
+      "qualification": "M's self-defense statement is a real rival, not a blanket exemption of bonded-target harm. Exact decisive-harm versus negotiated temporary-duel scope remains qualified, with no favorable M04pass.",
+      "source": "U012P393/400/419–436/448–465"
+    },
+    {
+      "id": "Q27",
+      "qualification": "M/Yun actually agree no companions, M later asks Aqua for healing and Yun objects. The cure does not retrospectively make assistance within the earlier duel rule.",
+      "source": "U012P419–420/458–473"
+    },
+    {
+      "id": "Q28",
+      "qualification": "M's utility wish is sincere; unknown MP cost before uses prevents manufacturing a prior fully prepared M03 case or an accepted substantial build burden from eventual failure.",
+      "source": "U012P488–513"
+    },
+    {
+      "id": "Q29",
+      "qualification": "No actual ring restitution payment or new functioning-cast proof follows the narrated curse.",
+      "source": "U012P476–477/517"
+    },
+    {
+      "id": "Q30",
+      "qualification": "Chris initially has only a noble trail and refuses properties. K's repeated questions precede the eventual collar disclosure; later truth cannot backdate his early knowledge.",
+      "source": "U014P33–48/135–136/255"
+    },
+    {
+      "id": "Q31",
+      "qualification": "Embedded turtle/orc fairy tales and elf-book claims retain their book voices; they are not newly witnessed revenge, scientific biology or independently dated source history.",
+      "source": "U014P8–29/88–113"
+    },
+    {
+      "id": "Q32",
+      "qualification": "Chris actually stole a private childhood photo and later admits graffiti; an earlier no-theft claim and initial security inference must be revised at the actual disclosures.",
+      "source": "U014P154–174/455–459"
+    },
+    {
+      "id": "Q33",
+      "qualification": "K actually visits as a guest while Chris infiltrates; his alibi goal does not mean no diversion occurred, and her objection does not make his original plan fully shared.",
+      "source": "U014P121–128"
+    },
+    {
+      "id": "Q34",
+      "qualification": "Slime cleaning, monster diversion and name-shouting are rejected proposals. Actual extortion is the replacement, not proof good judgment from revision alone.",
+      "source": "U014P65–75/185–199"
+    },
+    {
+      "id": "Q35",
+      "qualification": "D's noble evidence claim is a character's assertion, not independently verified universal law. K's direct protest, procedural challenge and false flirtation have different functions.",
+      "source": "U014P197–213"
+    },
+    {
+      "id": "Q36",
+      "qualification": "D's serious trust appeal and Chris's apology are real; her explicit reservation pending item properties and subsequent temptation prevent an unconditional-surrender account.",
+      "source": "U014P241–270"
+    },
+    {
+      "id": "Q37",
+      "qualification": "Actual contraband and public work coexist with interrupted defenses, uncertain prior evidence, biased suspicion and personal collar appetite; success does not cleanse the methods.",
+      "source": "U014P274–397/412–419"
+    },
+    {
+      "id": "Q38",
+      "qualification": "K receives a name-teasing threat before continuing; D actually intercepts the lethal spell. Threat receipt alone is not K08's own-legitimate-leverage pressure trigger.",
+      "source": "U014P370–383"
+    },
+    {
+      "id": "Q39",
+      "qualification": "Chris's countered Bind and D's bed counter are actual opponent adaptations, not automatically ordinary technical misexecution. The collar is thrown away before Steal fully launches.",
+      "source": "U014P461–475/538–560"
+    },
+    {
+      "id": "Q40",
+      "qualification": "Before self-wearing, D already dislikes the proposed embarrassment. Later explicit refusals, return offer and pleading survive physical gratification and a chosen beginning.",
+      "source": "U014P583–629"
+    },
+    {
+      "id": "Q41",
+      "qualification": "D's compulsory master role is imposed on K, who objects, yet he remains responsible for his later coercive commands. No all-party free agreement from magical activation.",
+      "source": "U014P585–603"
+    },
+    {
+      "id": "Q42",
+      "qualification": "The collar's mental suffering is explicitly different from assumed physical pain; actual household photography continues after an explicit stop/return plea. No performed public debut or recovery from the offer alone.",
+      "source": "U014P607–629"
+    },
+    {
+      "id": "Q43",
+      "qualification": "Wiz's operating-fund use is real, but her stated dungeon-treasure assumption and timing of ownership disclosure stay distinct from Vanir's accusation.",
+      "source": "U016P55–67"
+    },
+    {
+      "id": "Q44",
+      "qualification": "Body-work acceptance is corrected and refused when its different meaning is disclosed. No new sexual-work consent from the earlier ambiguous phrase.",
+      "source": "U016P79–84/120–135"
+    },
+    {
+      "id": "Q45",
+      "qualification": "The doll really sweeps, then actually explodes outdoors. Its immutable single-owner explosive feature is unsafe for ordinary home use, even though later buyers find a different pest use.",
+      "source": "U016P89–116/363–385"
+    },
+    {
+      "id": "Q46",
+      "qualification": "Wiz's goodbye includes real relational bids through sprout care and missing her; the requested five-year exclusion and later care instructions are not completed histories.",
+      "source": "U016P138–159"
+    },
+    {
+      "id": "Q47",
+      "qualification": "Actual merchandising demand and profit do not provide Wiz's permission; K knowingly aids secrecy and pays Aqua to remain away.",
+      "source": "U016P183–242/392–394"
+    },
+    {
+      "id": "Q48",
+      "qualification": "Vanir expects disappointment at combat rather than revealing photos, but customers explicitly like them. Their absence of negative emotion cannot be overwritten to save his forecast.",
+      "source": "U016P203–211"
+    },
+    {
+      "id": "Q49",
+      "qualification": "Vanir initially refuses the dungeon plea, later accompanies because of an unreadable challenger and intervenes after recognizing his work order's causal role.",
+      "source": "U016P258–265/288–289/343–348"
+    },
+    {
+      "id": "Q50",
+      "qualification": "Wiz actually advances against a pleading last-life opponent, then stops after kin/financial information. Her economic need and the opponent's no are both real.",
+      "source": "U016P327–350"
+    },
+    {
+      "id": "Q51",
+      "qualification": "Aqua actually sells all dolls; demanded and offered wages differ with no shown final payment. The reward of a better diet is not proof it endures.",
+      "source": "U016P363–385"
+    },
+    {
+      "id": "Q52",
+      "qualification": "Aqua's uninvited sacred penalties hurt both duelists, including favored Wiz. Effective exorcism is not automatically an adopted helping step or agreed referee role.",
+      "source": "U016P417–437"
+    },
+    {
+      "id": "Q53",
+      "qualification": "Wiz receives inventory-ownership/cost warnings and continues after an actual surrender/apology; exact price unknown does not erase known use of others' stock.",
+      "source": "U016P469–512"
+    },
+    {
+      "id": "Q54",
+      "qualification": "The duel ends with all manaatite used and loss exceeding doll profit; a vow not to sell merchandise is future restraint, not tested compliance.",
+      "source": "U016P515–517"
+    },
+    {
+      "id": "Q55",
+      "qualification": "K actually rescues Aqua after she violates her own fish advice; he also voluntarily cooks wanted fish. Complaint and ordinary competence survive the funny premise.",
+      "source": "U018P29–36/93"
+    },
+    {
+      "id": "Q56",
+      "qualification": "The wrong-namesake noble accusation does not establish D's engagement/bullying; subsequent detector disclosures overturn the other two women's stories too.",
+      "source": "U018P70–87/305–311"
+    },
+    {
+      "id": "Q57",
+      "qualification": "Self-conferring sea-dragon title is not species identification. D's newspaper warning is unknown to K until she finally tells it; growth and later release remain actual.",
+      "source": "U018P150/163–177/357/363–433"
+    },
+    {
+      "id": "Q58",
+      "qualification": "The tutor's ordinary lessons improve grades, while the pupil already hears the fabricated history as fiction; copied poses rather than total academic failure end the job.",
+      "source": "U018P118–144/209–222/313–318"
+    },
+    {
+      "id": "Q59",
+      "qualification": "K's intentional false crayfish supply and Aqua's reservoir release jointly cause the actual frog liability. New reservoir completion is not shown merely by its plan.",
+      "source": "U018P290/321–326"
+    },
+    {
+      "id": "Q60",
+      "qualification": "Birds are actually captured by K/D, then killed by M without shown knowledge of the farm. Their later cooking and farming loss do not create a bonded-person M04trial.",
+      "source": "U018P224–254"
+    },
+    {
+      "id": "Q61",
+      "qualification": "K expects alcohol but receives Aqua's genuinely treasured stone as the nonspecific promised reward; her taking it back is not a received equivalent-loss substitute.",
+      "source": "U018P206–207/295–299"
+    },
+    {
+      "id": "Q62",
+      "qualification": "M's prior attachment to the pet and later role concern, D's tank comparison and Aqua's healing overlap are distinct motivations. Creature tactical comprehension is K's inference.",
+      "source": "U018P370/399–422"
+    },
+    {
+      "id": "Q63",
+      "qualification": "Aqua's diary confirms an actual turtle loan under K's name and M's stock slaughter, not only the earlier proposal. K's release occurs, repayment and planned discipline remain open.",
+      "source": "U018P444–460"
+    },
+    {
+      "id": "Q64",
+      "qualification": "Actual current-world bridge damage is M's failure to adjust to a level increase. Unknown prior full geometry/recovery cannot confirm prepared reliability or excuse the damage.",
+      "source": "U020P858;R1-M03"
+    },
+    {
+      "id": "Q65",
+      "qualification": "Temporary alternate K's actual patience/deference and direct insults are descriptive voice, not automatically K08; his own legitimate status-pressure leverage and pragmatic contrast are required.",
+      "source": "R1-K08 exact section;U020P97/116/634–650"
+    },
+    {
+      "id": "Q66",
+      "qualification": "The invoice sequence has independently grounded liability/pressure but includes genuine questions and a blunt final demand; retain mixed function, not automatic K08success from syntax.",
+      "source": "U020P854–863"
+    },
+    {
+      "id": "Q67",
+      "qualification": "Only K's first-person gratitude for M's budgeting is explicitly sincere; the second-branch flattery is explicitly fabricated and Aqua misreads it as romance.",
+      "source": "U020P419–420/445–462"
+    },
+    {
+      "id": "Q68",
+      "qualification": "Rulebook handwriting is initially suspicious, then M explicitly confesses forgery; Aqua admits helping restrain the objector. D's perceived pleasure is not prior authorization.",
+      "source": "U020P430–432/594–606"
+    },
+    {
+      "id": "Q69",
+      "qualification": "Second-branch patient refusal occurs before healing. Third-branch unrequested healing succeeds and is appreciated afterward; benefit does not backdate permission.",
+      "source": "U020P512–520/654–667"
+    },
+    {
+      "id": "Q70",
+      "qualification": "Visible injury and a staff request precede the actual accepted second-branch healing; the veteran's leveling, gifts and successful business/lease are actual achievements of the third branch.",
+      "source": "U020P558–570/667–724"
+    },
+    {
+      "id": "Q71",
+      "qualification": "K's actual resource-sacrificing Wiz rescue coexists with a merchant offer received as extortion because of actual sacred harm and continued fear.",
+      "source": "U020P685–718"
+    },
+    {
+      "id": "Q72",
+      "qualification": "Easier material life works but K seeks particular companions; known temporary reversion and no actual offered equivalent person limit K06/durable E04 comparisons.",
+      "source": "U020P778–824"
+    },
+    {
+      "id": "Q73",
+      "qualification": "M/Yun actual harm and bound-K carrying are retained adverse material; hypothetical sacrifice, uncertain decisive harm and incomplete abandonment are not silently relabeled full M04tests.",
+      "source": "U012P395–450;U020P847–863"
+    },
+    {
+      "id": "Q74",
+      "qualification": "Purchased permanent-party paper remains unsigned after K's no; Aqua actually unties him. Banquet, fish blast, apology outings and invoice payments are not completed at the ending.",
+      "source": "U020P864–882"
+    },
+    {
+      "id": "Q75",
+      "qualification": "The narrow form-specific selections are the marked者selection slot and変態/ダクネス ruby. Ordinary suffering polysemy, cat suffixes and the workplace slogan are not automatically L3.",
+      "source": "HUMOR_REGISTER;V143;U014P607–615;U016P66"
+    },
+    {
+      "id": "Q76",
+      "qualification": "All146original short fragments join actual native base/displayed-ruby windows. V143's ruby-only join is a real source plane, not a silently repaired false quote.",
+      "source": "VOICE_REGISTER and native U020P839"
+    },
+    {
+      "id": "Q77",
+      "qualification": "Earlier uncoded possible-eligibility notes are historical; exact reloaded K08 corrects any reading based only on pressure received. Earlier A05-index mention of divine denial was an A03 label slip, not a model change.",
+      "source": "Original notes/current assessment/voice overrides"
+    },
+    {
+      "id": "Q78",
+      "qualification": "YORI02's failed storm command remains literal but exact R1-A01 fitted execution is qualified by the additive control received before this source at0body/0images. Original17YORI02derivative streams remain exact.",
+      "source": "KONOSUBA_YORI02_ADDITIVE_A01_TARGET_FIT_QUALIFICATION_01.json/.md"
+    },
+    {
+      "id": "Q79",
+      "qualification": "R1-A01 also permits a knowingly unfitted substitute to be adverse; Aqua's received frog warning/actual error cannot be excused by inventing incapacity. Independently adopted scope/available fitted alternative still need binding.",
+      "source": "U020P325–338;R1-A01"
+    },
+    {
+      "id": "Q80",
+      "qualification": "No new blind score, model freeze, old-outcome rewrite, original14future-field fill or global completion percentage follows from these qualitative comparisons.",
+      "source": "R1/current66/historical72/four-score/question controls"
+    },
+    {
+      "id": "Q81",
+      "qualification": "Full program remains YORI04, all17MAINexcluded programs, expanded/full syntheses, attributable versioned StageDprincipals/party/transfer, varied-context secondary models or limited dispositions, indexes/component audit/release and final transition only if earned.",
+      "source": "Continuous completion boundary"
+    }
+  ],
+  "source_body_and_originals_not_replaced": true,
+  "prior_source_additive_control": "KONOSUBA_YORI02_ADDITIVE_A01_TARGET_FIT_QUALIFICATION_01.json"
+}

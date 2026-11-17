@@ -1,0 +1,53 @@
+{
+  "schema": "konosuba.character-rule-inventory.v1",
+  "recorded_utc": "2026-10-24T18:39:41.099494+00:00",
+  "generation": "HELMETED_NOBLE_EXPANDED_V1",
+  "subject": "Helmeted noble / Dust admirer",
+  "existing_census_row": 88,
+  "scope_assessment_sha256": "7b88d5260034fd973d1be10e7abb16444d70b7c9f4b60e35b6e618f2a01f2a20",
+  "source_review_receiving_sha256": "85d700ea8b35326bb43271e0f823cd4af99ad42d91800a249c414d4af2f2754a",
+  "additional_Dust07_receiving_sha256": "d9a1838414bcc9a280e27677c9030cd863d46b3f6d47dc900893b717b7272655",
+  "model_draft_file": "HELMETED_NOBLE_MODEL_DRAFT_01.md",
+  "model_draft_sha256": "d42f8bfcef210af3b912a987f07682d66fcdadaabe2095c918a9f72052aefd3b",
+  "monograph_draft_file": "HELMETED_NOBLE_MONOGRAPH_DRAFT_02.md",
+  "monograph_draft_sha256": "1826af9d0233bc79856a1823ed79651f49653b17d94f03803d8a4829d575d5c0",
+  "rules": [
+    {
+      "rule_id": "HNO-R01",
+      "proposition": "When an opportunity plausibly connects him to Dust, expect readiness to acquire the associated object or undertake a useful role, including effort or resources beyond ordinary sales value. If the favor threatens a valued aspect of the object or his concealed identity, expect a finite term, preservation request or substitute means that can keep both ends available. Enthusiasm does not automatically cede the object, the face covering or every future request. This is a conditional appraisal of opportunity, not a guarantee of safe conduct toward the desired person.",
+      "support": [
+        "DUST01U016P24–52 shows actual purchase, refusal of change and wearing of the former Dust helmet, with craftsmanship explicitly secondary to its association. U017P398–421/549–551/591/610–616 shows volunteered horses, mounted escort and real combat/task participation. DUST03U014P248–260/315–324 gives eager readiness, acceptance of Dust's proposed one-day loan, extra armor, an emphatic no-cleaning request and a substitute face-covering bag. DUST07U013P30–42/151–155/183–186 adds child transport/care and a separately explicit horse loan, followed by an object-associated saddle fantasy rather than a performed intimate act."
+      ],
+      "contrary": [
+        "He can violate a recipient's limits: the held handshake and continued approach after Dust's stop requests remain actual adverse acts (DUST01U015P210–227/270–288). The rule therefore is not a general respect-for-consent policy. Own shyness does not prevent bold contact. He voices unlimited willingness before hearing a request; no observed later refusal establishes a precise upper bound. The one-day limit is proposed by Dust and accepted, not an independently imposed noble ultimatum. Some help benefits a child rather than supplying immediate adult closeness."
+      ],
+      "rivals": [
+        "Generic attachment, generous patronage, ordinary property retention, shyness and the intrinsic usefulness of helping can generate parts of the pattern. A finite loan alone does not isolate object association. Private narration gives stronger evidence of the desired connection, but not a numerical weight or universal cost threshold. Source-known contrasts and familiar object cues can make a response appear character-specific without identifying the mechanism."
+      ],
+      "applies_when": [
+        "Establish the object association and actual request before invoking it. Unknown provenance is not permission to invent prior Dust contact. State whether an ordinary replacement could preserve concealment, whether the object returns and what cleaning or modification would change. If the prompt only supplies a vague opportunity or uncertain reciprocity, preserve that uncertainty. Terms and another person's refusal remain facts even if his wishes or inferences favor a different outcome."
+      ],
+      "do_not_assume": [
+        "Do not fabricate reciprocal attraction, ownership of Dust, a personal name, unlimited money, a confirmed magic inverter, a secretly present observer or a joined MAIN07 identity. An initial touch request does not authorize continued contact after withdrawal. The model preserves the source violation as adverse; it does not require adding harassment to every new scene. Child care and adult attraction must remain distinct, and no child sexual role or act may be invented. A fantasy, reported wish or proposed licking is not a completed act."
+      ],
+      "confidence": "Moderate warrant for the local direction from own private viewpoint, actual object purchase and later bounded help. Confidence in motive-isolated thresholds and unfamiliar transfer is low. The source provides no mature reliability, independent observation count or calibrated donor response.",
+      "falsifier": "Repeated indifference to an explicitly valued Dust association while paying the same cost for an otherwise equivalent unassociated object would weaken the association branch. Repeated willing destruction of the stated valued aspect or exposure of identity when an acknowledged workable substitute exists, without a supplied overriding purpose, would weaken the preservation branch. New priorities, a changed relationship or unknown alternatives must remain explicit rather than being silently treated as a matched test."
+    }
+  ],
+  "rule_count": 1,
+  "source_known": true,
+  "same_informed_root_authors_and_assesses_all_stages": true,
+  "all_contrasts_visible": true,
+  "exact_inputs_or_firsts_serialized": false,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false,
+  "prior_draft": {
+    "file": "HELMETED_NOBLE_RULE_INVENTORY_DRAFT_01.json",
+    "bytes": 5622,
+    "sha256": "2143587116ecd7c565a91e4f1473e5ab65c0d1ffc0fa2348fbeb2c673ad23afb"
+  },
+  "attributable_prefreeze_precision": "Current corrected foundation;all original draft bytes and full initial review preserved. No input or first existed at this revision."
+}

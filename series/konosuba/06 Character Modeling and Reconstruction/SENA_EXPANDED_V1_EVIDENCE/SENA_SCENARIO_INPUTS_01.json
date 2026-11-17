@@ -1,0 +1,77 @@
+{
+  "schema": "konosuba.secondary.exact-scenario-inputs.v1",
+  "created_utc": "2026-10-20T17:07:37.928191+00:00",
+  "subject": "Sena",
+  "precase_freeze_file": "SENA_ARNES_MODELS_AND_RULES_PRECASE_FREEZE_01.json",
+  "precase_freeze_sha256": "58df851fb0f8bdb76a58831643428dfbcb4e2bae36fbe8af4d241eeeea868ce0",
+  "setting": "All-adult realistic modern human analogues; no performed canonical events, magic, hidden knowledge or legal advice.",
+  "authorship": "Same informed root model author/case designer/first-output author/assessor. General response tendencies were anticipated; cases are not blind or independent.",
+  "cases": [
+    {
+      "case_id": "SENA-H01-A",
+      "pair_id": "SENA-H01",
+      "exact_prompt": "Modern human analogue. Everyone is an adult. Sena is the community hall's volunteer coordinator, conducting a fact-finding conversation rather than a court hearing. A storage-room code was disclosed to contractor Vale without authorization. She suspects Kazuma, whose earlier careless behavior has damaged her trust, but she has no access log, confession or witness to the disclosure. She has a dated photograph from last year's public equipment fair clearly showing Kazuma shaking Vale's hand. Both agree that the current storage-room code was created two months after that fair. No other connection is established. Sena and Kazuma sit opposite each other at a small table; the photograph and a blank notepad are in front of her. Kazuma now says: I have never met Vale. I did not give him the code.\nGive Sena's next brief spoken response and one visible action. Stay with what she knows now; do not supply an investigation outcome, new evidence or anyone else's reply.",
+      "input_sha256": "3c7df75f123479072f9cfae3fd7a882d49e0da46891fe55801e9e8f2b416600e",
+      "intended_rules": [
+        "S-R01",
+        "S-R03"
+      ]
+    },
+    {
+      "case_id": "SENA-H01-B",
+      "pair_id": "SENA-H01",
+      "exact_prompt": "Modern human analogue. Everyone is an adult. Sena is the community hall's volunteer coordinator, conducting a fact-finding conversation rather than a court hearing. A storage-room code was disclosed to contractor Vale without authorization. She suspects Kazuma, whose earlier careless behavior has damaged her trust, but she has no access log, confession or witness to the disclosure. She has a dated photograph from last year's public equipment fair clearly showing Kazuma shaking Vale's hand. Both agree that the current storage-room code was created two months after that fair. No other connection is established. Sena and Kazuma sit opposite each other at a small table; the photograph and a blank notepad are in front of her. Kazuma now says: I met Vale at that public fair. I did not give him the code.\nGive Sena's next brief spoken response and one visible action. Stay with what she knows now; do not supply an investigation outcome, new evidence or anyone else's reply.",
+      "input_sha256": "250768c9182725859b45751150e8bd00b0e0c89e527e5d443288c46f8332de2f",
+      "intended_rules": [
+        "S-R01",
+        "S-R03"
+      ]
+    },
+    {
+      "case_id": "SENA-H02-A",
+      "pair_id": "SENA-H02",
+      "exact_prompt": "Modern human analogue. Everyone is an adult. Sena coordinates a neighborhood reading-room open day. She respects Kazuma because he solved a difficult event problem last month and has just told him so. The welcome desk needs one person from10:00to10:30. It is09:58. Sena must stay at the other end of the room to receive a delivery. Claire is due at10:15and can cover the desk from then onward; she is not yet present. Kazuma is physically able, has the next half-hour free and had planned to read his novel. Kazuma has never agreed to work this shift. Sena stands beside his chair, with a welcome badge and the desk timetable in her hands. Kazuma says, 'I'm not taking the welcome desk today. Please ask someone else.'\nGive Sena's next brief spoken response and one visible action. Do not invent authority to compel him, a legal rule, a completed shift or another person's response.",
+      "input_sha256": "a0ae69722d736eebb8cab1b67168079c9cff8518120deaf3d90e25835cbfc0c4",
+      "intended_rules": [
+        "S-R02",
+        "S-R03"
+      ]
+    },
+    {
+      "case_id": "SENA-H02-B",
+      "pair_id": "SENA-H02",
+      "exact_prompt": "Modern human analogue. Everyone is an adult. Sena coordinates a neighborhood reading-room open day. She respects Kazuma because he solved a difficult event problem last month and has just told him so. The welcome desk needs one person from10:00to10:30. It is09:58. Sena must stay at the other end of the room to receive a delivery. Claire is due at10:15and can cover the desk from then onward; she is not yet present. Kazuma is physically able, has the next half-hour free and had planned to read his novel. Yesterday Kazuma explicitly volunteered for this10:00to10:30shift, and Sena has his confirming message. Sena stands beside his chair, with a welcome badge and the desk timetable in her hands. Kazuma says, 'I'm not taking the welcome desk today. Please ask someone else.'\nGive Sena's next brief spoken response and one visible action. Do not invent authority to compel him, a legal rule, a completed shift or another person's response.",
+      "input_sha256": "faa3de43419ed04515c42c7a50d5648e5c84eede37545277485e18dbfa579530",
+      "intended_rules": [
+        "S-R02",
+        "S-R03"
+      ]
+    }
+  ],
+  "contrasts": [
+    {
+      "pair_id": "SENA-H01",
+      "cases": [
+        "SENA-H01-A",
+        "SENA-H01-B"
+      ],
+      "shared_setup_sha256": "799b7c81fa5f12cf9c6bab14ba03a1dae3221961d789e3e3378727b1d2399675",
+      "changed_field": "line",
+      "contrast_and_limit": "Only first clause changes from denial of ever meeting to admission of the photographed public contact. Code denial and evidence remain exact. Explicit contradiction/clarification strongly cues a generic investigator."
+    },
+    {
+      "pair_id": "SENA-H02",
+      "cases": [
+        "SENA-H02-A",
+        "SENA-H02-B"
+      ],
+      "shared_setup_sha256": "1069835aa25609c019be9e0cc85497db5cec1bd011c9a8514cd1bf547dc776b4",
+      "changed_field": "commitment",
+      "contrast_and_limit": "Only prior agreement changes. Present refusal, capacity, available time, admiration and Claire timing remain exact. Generic commitment norms are a serious rival; no universal forcing rule."
+    }
+  ],
+  "case_count": 4,
+  "paired_contrasts": 2,
+  "scope": "Proportionate internal probes; no principal battery or appearance quota. Rules unengaged by these inputs remain unprobed. These exact strings do not validate source interpretation, language adequacy, accuracy or confidence.",
+  "full_program_complete": false
+}

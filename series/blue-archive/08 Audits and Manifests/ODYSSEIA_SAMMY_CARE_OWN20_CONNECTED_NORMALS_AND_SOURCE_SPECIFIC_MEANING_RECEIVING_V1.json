@@ -1,0 +1,577 @@
+{
+  "schema": "ODYSSEIA_SAMMY_CARE_OWN_CONNECTED_ANALYTICAL_RECEIVING_V1",
+  "UTC": "2026-10-13T04:05:28.200453+00:00",
+  "existing_home": "P3-REL-ODYSSEIA-SAMMY-CARE",
+  "future_primary_target": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+  "stage": "C_ONLY_AUTHOR_INPUT_RECEIVING_NOT_ROOT_ACCEPTANCE_OR_PUBLICATION",
+  "normal_count": 20,
+  "core_main_count": 16,
+  "comparative_count": 4,
+  "records": [
+    {
+      "alias": "MN01",
+      "source_binding": {
+        "alias": "MN01",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E001_DEEP_READING.md",
+        "bytes": 5569,
+        "sha256": "a4fb6f0650abe2e36684ae830810055c2c0d40e34c175527c937ff76c2218fb9",
+        "git_blob_oid_of_actual_bytes": "2cfa3f3fb22427358b1bb2c95958613d73473a92",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_ranges": [
+        [
+          1,
+          35
+        ]
+      ],
+      "tool_receipts": [
+        "bf491a"
+      ],
+      "new_target_question": "Why does the first alarm not authorize a complete care diagnosis?",
+      "connected_positive_and_contrary_result": "The observed rope ball initiates an investigation, while origin, sender and active emergency remain inferred. The claimant's all-fleet recall exceeds Sensei's narrower investigation request; no transmission/compliance endpoint in MN01.",
+      "finite_limit": "MN01 is an authority/knowledge precondition, not a Sammy preference account.",
+      "role": "MAIN_CORE",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN02",
+      "source_binding": {
+        "alias": "MN02",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E002_DEEP_READING.md",
+        "bytes": 6723,
+        "sha256": "f2e35aa937604025b840b70900014f7c47199a74f507bb4527accddd662673c3",
+        "git_blob_oid_of_actual_bytes": "8c62783a20370f043b6220a70b9645b2c164c8bc",
+        "physical_lines": 38,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_ranges": [
+        [
+          1,
+          38
+        ]
+      ],
+      "tool_receipts": [
+        "bf491a"
+      ],
+      "new_target_question": "How can distinct leaders enter a shared care scene without speaker-tag merger?",
+      "connected_positive_and_contrary_result": "Olympos docking, Minato's self-name and Ami's deputy introduction are represented amid Ami-tag displacement. One flagship and thanked compliance establish local command/reception, without all-fleet return or authenticated offices.",
+      "finite_limit": "Names and functions do not let Ami inherit Minato's choices or either actor inherit a claimant's identity.",
+      "role": "MAIN_CORE",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN03",
+      "source_binding": {
+        "alias": "MN03",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E003_DEEP_READING.md",
+        "bytes": 7575,
+        "sha256": "409cc63812d2a901de0d7ded891b40bc8dda1df81bfc7aa87a3b3020b01dffb2",
+        "git_blob_oid_of_actual_bytes": "ee5db2ac32a5d864614dc43c23b5620520165efb",
+        "physical_lines": 40,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_ranges": [
+        [
+          1,
+          40
+        ]
+      ],
+      "tool_receipts": [
+        "bf491a"
+      ],
+      "new_target_question": "What already exists between Ami, Sammy and Minato before urgent illness?",
+      "connected_positive_and_contrary_result": "Ami limits food while speaking affectionately, Sammy sniffs guests and moves away, Ami goes to retrieve him. Minato insists on personally receiving guests and later apologizes for the long tour; ordinary making, attention and welcoming have value alongside timing costs.",
+      "finite_limit": "Movement and affectionate handling are actual represented relations; universal recipient pleasure, cat intention and tested safety are not supplied.",
+      "role": "MAIN_CORE",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN04",
+      "source_binding": {
+        "alias": "MN04",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E004_DEEP_READING.md",
+        "bytes": 5941,
+        "sha256": "206063c0cf27047603b2d9a64b3adbd814ff4c5ed4d40c167342002182ff2dd3",
+        "git_blob_oid_of_actual_bytes": "98013d091c7fb81a18ea6036b500814d51548805",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_ranges": [
+        [
+          1,
+          35
+        ]
+      ],
+      "tool_receipts": [
+        "bf491a"
+      ],
+      "new_target_question": "How does a toy become relational evidence rather than merely a false alarm solution?",
+      "connected_positive_and_contrary_result": "Minato identifies making and losing Sammy's ball; Sammy interrupts and Ami calls him. The toy provides an ordinary familiar object against the distress reading. The meal is eaten and taboo explanations are Minato's fallible safety history, not an operational manual.",
+      "finite_limit": "Maker testimony supports care and provenance explanation without an inspected loss route or authority to prescribe real rescue.",
+      "role": "MAIN_CORE",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN05",
+      "source_binding": {
+        "alias": "MN05",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E005_DEEP_READING.md",
+        "bytes": 6013,
+        "sha256": "ddf48a954b61ec4af0774692fd518ec31da33fd47747e5bfcd292357bf2ee3c6",
+        "git_blob_oid_of_actual_bytes": "bafbb30ae414142d820337f9941d8b30f1c0fa65",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_ranges": [
+        [
+          1,
+          35
+        ]
+      ],
+      "tool_receipts": [
+        "93f03e"
+      ],
+      "new_target_question": "Whose interests make ship/shore care difficult?",
+      "connected_positive_and_contrary_result": "Minato proposes shore care before the recall; Ami reports split students concerned with health, familiarity, fear and custom. Age/medical concerns and a possible fast boat are relayed, not chart/transfer. The one-week inquiry defers action while admitting limited understanding.",
+      "finite_limit": "Neither faction has a verified comparative veterinary plan; consultation and a deliberation window are distinct from treatment.",
+      "role": "MAIN_CORE",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN06",
+      "source_binding": {
+        "alias": "MN06",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E006_DEEP_READING.md",
+        "bytes": 4898,
+        "sha256": "d93ae4904902d6142bf970c13d16873f9a98f4e1e71ccc2a69038e2d27ae4098",
+        "git_blob_oid_of_actual_bytes": "dd6f5713c857d1e79761543b41a2398cb91f3848",
+        "physical_lines": 32,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_ranges": [
+        [
+          1,
+          32
+        ]
+      ],
+      "tool_receipts": [
+        "93f03e"
+      ],
+      "new_target_question": "When does concern expose others to costs?",
+      "connected_positive_and_contrary_result": "Sammy's cough coincides with a squall, without demonstrated causation. On a wet deck Sumika falls toward the sea, Sensei prevents her fall and develops back symptoms. Practical work conditions, animal curiosity and human action coexist with superstition.",
+      "finite_limit": "Actual acute symptoms and rescue do not supply sole causal fault, a clinically assessed cat or finished recovery.",
+      "role": "MAIN_CORE",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN07",
+      "source_binding": {
+        "alias": "MN07",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E007_DEEP_READING.md",
+        "bytes": 5445,
+        "sha256": "2537453c9b5bc16ab4b275813c0eaf4a6900996e92fb7e53c9ce005bb470ec2f",
+        "git_blob_oid_of_actual_bytes": "5e4a3767348c335693e33d88c06be38b81614fc5",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_ranges": [
+        [
+          1,
+          35
+        ]
+      ],
+      "tool_receipts": [
+        "93f03e"
+      ],
+      "new_target_question": "Can a caregiver stop harm while lacking authority to decide the whole life?",
+      "connected_positive_and_contrary_result": "Sanae diagnoses Sensei's sprain and stops Sumika shaking/blaming Sammy, citing hypertension/dizziness. She recognizes ship-environment risk and asks that Sammy's will matter, yet criticizes factions' projections and wants someone else to decide.",
+      "finite_limit": "Professional warning is stronger than secondhand relay; it still gives no tested residence preference, complete chart or simple shore prescription.",
+      "role": "MAIN_CORE",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN08",
+      "source_binding": {
+        "alias": "MN08",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E008_DEEP_READING.md",
+        "bytes": 5427,
+        "sha256": "7757b826c87ce34013d0567621adb8a90ab09c87229b9ed9e2ba8d2ae03fa77e",
+        "git_blob_oid_of_actual_bytes": "12bf7d2d94cb381ca0d5706efa8ca01cc64f5e88",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_ranges": [
+        [
+          1,
+          35
+        ]
+      ],
+      "tool_receipts": [
+        "93f03e"
+      ],
+      "new_target_question": "What changes when Minato delegates blame rather than establishes care terms?",
+      "connected_positive_and_contrary_result": "Minato rejects scapegoating and names Sammy a friend, but assents verbally to the claimant's outside hygiene-removal proposal. The claimant offers to absorb resentment without an inspected hygiene finding, authenticated capacity or destination-care plan.",
+      "finite_limit": "Affection and rational-duty language do not decide clinical optimum; assent is not handover.",
+      "role": "MAIN_CORE",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN09",
+      "source_binding": {
+        "alias": "MN09",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E009_DEEP_READING.md",
+        "bytes": 6296,
+        "sha256": "621761a34ca30ee73472c3d1b8dec45b0b64a3a48eb16a14e108b42b62889bfd",
+        "git_blob_oid_of_actual_bytes": "dd21df9e3375d84a85535512fc77920ae25ce2dd",
+        "physical_lines": 37,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_ranges": [
+        [
+          1,
+          37
+        ]
+      ],
+      "tool_receipts": [
+        "a229da"
+      ],
+      "new_target_question": "How can gifts and public compliance express different relations?",
+      "connected_positive_and_contrary_result": "Students hear a removal decision, grieve/hope/resent and prepare gifts. They reconsider excess balls/food against Sammy's familiar toy and illness; not all gifts are rejected. The claimant's chosen blame and hoped educational effect are self-report.",
+      "finite_limit": "Care's material imagination and self-correction are positive; neither no-defiance snapshot nor gift volume certifies unanimous consent or successful care.",
+      "role": "MAIN_CORE",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN10",
+      "source_binding": {
+        "alias": "MN10",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E010_DEEP_READING.md",
+        "bytes": 6081,
+        "sha256": "1f145e56e2502648be73ece0ffc7df04c04919ace3122f0f1a1bbea5ac333675",
+        "git_blob_oid_of_actual_bytes": "5355335a4c0517a600509ffa41fa43116790abfe",
+        "physical_lines": 37,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_ranges": [
+        [
+          1,
+          37
+        ]
+      ],
+      "tool_receipts": [
+        "a229da"
+      ],
+      "new_target_question": "How do Sammy's initiatives differ from the humans' interpretations of them?",
+      "connected_positive_and_contrary_result": "Sammy leaves his cushion, traverses familiar ships and is hidden by students wanting more time. Minato directs pursuit despite Ami's sea-fall warning, falls, receives Ami's ladder help; Sammy approaches and Minato reads concern.",
+      "finite_limit": "Visible initiative, familiar competence and human warmth matter without informed transfer refusal, a clinical safety clearance or cat motive certainty.",
+      "role": "MAIN_CORE",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN11",
+      "source_binding": {
+        "alias": "MN11",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E011_DEEP_READING.md",
+        "bytes": 5448,
+        "sha256": "90d84759c3e2d89c1c268d35bb9ebace287fad98ca1643f1214a7bfb7e0a1083",
+        "git_blob_oid_of_actual_bytes": "bdcacdb065ae5a4c1d01d03ae04fb8b090df7fa7",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_ranges": [
+        [
+          1,
+          35
+        ]
+      ],
+      "tool_receipts": [
+        "a229da"
+      ],
+      "new_target_question": "Who withdraws the plan, and what remains unresolved after repair?",
+      "connected_positive_and_contrary_result": "The transfer form is still unsigned. Minato asks cancellation after acknowledging fear and friendship; the claimant agrees. Ami's remaining bad-luck concern and Minato's experiential living-with answer persist. Sanae's urgent night call interrupts Sensei's closure thought.",
+      "finite_limit": "Minato authors the cancellation request; verbal agreement is not legal rescission, a care plan or proof no one was hurt.",
+      "role": "MAIN_CORE",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN12",
+      "source_binding": {
+        "alias": "MN12",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E012_DEEP_READING.md",
+        "bytes": 5095,
+        "sha256": "b9775698ccc1c6aceac919e318dbf62c32816a0aff2ed4d7d400e35c0f1c8d34",
+        "git_blob_oid_of_actual_bytes": "cd117c068e7f52b3377f3f4608e11b2af57ce703",
+        "physical_lines": 34,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_ranges": [
+        [
+          1,
+          34
+        ]
+      ],
+      "tool_receipts": [
+        "4d1b6e"
+      ],
+      "new_target_question": "How does critical time redistribute responsibility without settling clinical cause?",
+      "connected_positive_and_contrary_result": "Sanae gives vitals/prognosis and renal/cardiac hypotheses, explicitly rejecting Minato's single-cause guilt. Ami invokes prior cats dying ashore, Sumika protests cruelty and Minato asks Sensei to let Odysseia choose. The broadcast offers a final familiar voyage plus penalty-free opt-out, with objections deferred.",
+      "finite_limit": "Urgent medical knowledge, local leadership, dissent and familiar-place memory remain distinct; prognosis does not prove voyage benefit or transfer counterfactual.",
+      "role": "MAIN_CORE",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN13",
+      "source_binding": {
+        "alias": "MN13",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E013_DEEP_READING.md",
+        "bytes": 5320,
+        "sha256": "61d3c148bde4013254aeb1c7b7e9343e2956e8df2a7d6ede7cc23bd0d56646fc",
+        "git_blob_oid_of_actual_bytes": "ce9a3e94b55acdfd3827f7d5f77487f54029376a",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_ranges": [
+        [
+          1,
+          35
+        ]
+      ],
+      "tool_receipts": [
+        "4d1b6e"
+      ],
+      "new_target_question": "What is actually achieved by the last voyage?",
+      "connected_positive_and_contrary_result": "Olympos sails; Golden Elysium joins before permission, Trident asks and receives it, other clubs send requests. Sammy is narrated seeing fellow sailors, surrounded by friends, with contented expression and life-ending voyage.",
+      "finite_limit": "The animal-perspective narration is stronger than human motive attribution but not informed itinerary consent, guest approval, a full-fleet manifest or veterinary optimum.",
+      "role": "MAIN_CORE",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN14",
+      "source_binding": {
+        "alias": "MN14",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E014_DEEP_READING.md",
+        "bytes": 5764,
+        "sha256": "9c9a0b7c6c7e0f910278c32a54ebbc01743244e2a93f9ff40820a04fec1b39c6",
+        "git_blob_oid_of_actual_bytes": "cf5e0e26d2c47723315c06351ac81df3b6577c1c",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_ranges": [
+        [
+          1,
+          35
+        ]
+      ],
+      "tool_receipts": [
+        "a229da"
+      ],
+      "new_target_question": "How do survivors continue care after Sammy cannot answer?",
+      "connected_positive_and_contrary_result": "Half a month later Sumika changes bubble-making cleaning and a member reaches for tuna; Minato keeps the cushion and speaks of surface wellness, a best farewell and hoped future ties. Sumika retains right-foot care while admitting incomplete accident knowledge.",
+      "finite_limit": "Habit/material grief are meaningful continuing bonds, not an afterlife message, universal satisfaction, cure of grief or demonstrated permanent reform.",
+      "role": "MAIN_CORE",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN15",
+      "source_binding": {
+        "alias": "MN15",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md",
+        "bytes": 11521,
+        "sha256": "9a5b3c6916fc210deaa56d9f47f8991fb997e9d4df4b3ff115122bfac7449738",
+        "git_blob_oid_of_actual_bytes": "c02222a483d24e1275c1d0ed4b83cc326efcb49d",
+        "physical_lines": 58,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_ranges": [
+        [
+          1,
+          58
+        ]
+      ],
+      "tool_receipts": [
+        "a229da"
+      ],
+      "new_target_question": "How does the whole connected chapter qualify each apparent resolution?",
+      "connected_positive_and_contrary_result": "The checkpoint retains toy→welfare shift, proposal→decision→paperwork→unsigned cancellation, medical crisis, real voyage, narrated death and grief. It separates testimony/clinical hypothesis/narration and leaves office/clinical/legal/fleet claims unresolved.",
+      "finite_limit": "Its dated census/backfill/intake states are historical, not the new home's current status; no clinical counterfactual is added by synthesis.",
+      "role": "MAIN_CORE",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN16",
+      "source_binding": {
+        "alias": "MN16",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 19594,
+        "sha256": "f6438d5cccc1582c1a86b1e68be27a9321ef3f8bdb4ce21862fffbaad4fc3df9",
+        "git_blob_oid_of_actual_bytes": "3c5bdbe922e2ecb13e74c415affe1fa6a4392cf1",
+        "physical_lines": 677,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_ranges": [
+        [
+          1,
+          677
+        ]
+      ],
+      "tool_receipts": [
+        "4d1b6e",
+        "e160c6"
+      ],
+      "new_target_question": "What comparative care duties are already admitted for this arc?",
+      "connected_positive_and_contrary_result": "Current Cycle008 adopts required supplements WITH_LIMITS while preserving older pending producer statements. The account separates MAIN loss, EVENT861 work/rescue/debt and typed diver private company, with positive tastes/messages and recipient objections.",
+      "finite_limit": "This home reuses admitted written arguments, not new whole underlying primary or an inter-story cause; other characters' private pools do not become Minato/Ami biographies.",
+      "role": "MAIN_CORE",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN17",
+      "source_binding": {
+        "alias": "MN17",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_861/BLUE_ARCHIVE_EVENT_861_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 50993,
+        "sha256": "6f64262858301f3100f5edbf8b65c6463e117ad15ac607e6e537d1aa467bc553",
+        "git_blob_oid_of_actual_bytes": "cdd0f12e2ac27de5538ee7dc1293368df71878a4",
+        "physical_lines": 285,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_ranges": [
+        [
+          1,
+          285
+        ]
+      ],
+      "tool_receipts": [
+        "4c0445",
+        "a8e08b",
+        "54890f"
+      ],
+      "new_target_question": "How can office responsibility coexist with recipient freedom and pleasure?",
+      "connected_positive_and_contrary_result": "EVENT861 preserves curry/tea/ice-cream pleasure, Ami's return-to-work/refusal, captain/deputy debt constraints, diver stated wants, imposed embrace alongside an adult hand alternative, rescue and continuing work/debt.",
+      "finite_limit": "Only comparative care/authority controls: no chronology against Sammy, no grief causality transferred from event office and no consent inferred for animals.",
+      "role": "SOURCE_LOCAL_COMPARATIVE_CONTROL",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN18",
+      "source_binding": {
+        "alias": "MN18",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KOTONE/BLUE_ARCHIVE_KOTONE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "bytes": 24480,
+        "sha256": "f4644f7ca1a203f0f34f4664e7c270d93558b7425727560f47a8eeb1617cc944",
+        "git_blob_oid_of_actual_bytes": "a5b576913194450904ee29406c438c81249b3618",
+        "physical_lines": 582,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_ranges": [
+        [
+          1,
+          582
+        ]
+      ],
+      "tool_receipts": [
+        "93dee3"
+      ],
+      "new_target_question": "Does familiar expertise guarantee a companion experiences comfort?",
+      "connected_positive_and_contrary_result": "Kotone's actual poke/glasses/return, unwanted public judgment, ignored adult distance request and difficult float remain distinct. An unseen friend's later reported answer qualifies silence-as-rejection without naming that friend.",
+      "finite_limit": "Human spoken requests/refusals and response channels are a useful contrary frame; no Kotone private alias or same consent evidence for Sammy.",
+      "role": "SOURCE_LOCAL_COMPARATIVE_CONTROL",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN19",
+      "source_binding": {
+        "alias": "MN19",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KOKORO/BLUE_ARCHIVE_KOKORO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "bytes": 42654,
+        "sha256": "dba39b01fa27e17f64d7cb0d2fbdd85b2f98cefd1c12feeb6056b0d0a12c77a4",
+        "git_blob_oid_of_actual_bytes": "650ad2faef3c42ae17ee4e264e315b2716096b6e",
+        "physical_lines": 253,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_ranges": [
+        [
+          1,
+          253
+        ]
+      ],
+      "tool_receipts": [
+        "616504",
+        "02575c"
+      ],
+      "new_target_question": "Can a clinician-like helper both impose and receive wanted care?",
+      "connected_positive_and_contrary_result": "Kokoro apologizes for safety overreach, enjoys singing despite concealed appraisal, shares actual soup and needs chamber care after a false alarm; the whole thread later asks conditional future help after temporary avoidance.",
+      "finite_limit": "Local narrated chamber recovery cannot prove Sammy would recover; safety knowledge does not guarantee judgment, and genuine pleasure does not erase companion burden.",
+      "role": "SOURCE_LOCAL_COMPARATIVE_CONTROL",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "CARE20_EVENT860",
+      "source_binding": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_860/BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 51286,
+        "sha256": "ab1737179cd375e8edcee8f372c92c155ca5b8f9bfb077d73af06f5ec4de6320",
+        "physical_lines": 273
+      },
+      "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_ranges": [
+        [
+          1,
+          273
+        ]
+      ],
+      "tool_receipts": [
+        "0b0e82 source1-99 visible despite clipped schema inventory",
+        "af9f55 100-195",
+        "4b8955 196-273; tail repaired5f5be0 265-273"
+      ],
+      "new_target_question": "How should Sumika's duty, hobby and inconsistent apology be compared?",
+      "connected_positive_and_contrary_result": "EVENT860:015 ties a reported apology errand to wished biotope/insect collecting, then wrong-name routing produces Hina encounter without completed intended apology or narrated collecting. 008 actual attack order contradicts 011 crew-blaming apology.",
+      "finite_limit": "These source-local ordinary and accountability contrasts deepen Sumika's distinct care agency; no chronological conversion or clinical judgment of Sammy follows.",
+      "role": "SUMIKA_CONNECTED_HOBBY_APOLOGY_AND_RESPONSIBILITY_CONTRAST",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    }
+  ],
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "new_primary_native_raw_AV_admission_identity_named_package_registry_or_milestone_credit": 0,
+  "dated_state_qualification": "Source130b9/main0ed are fixed receiving-basis snapshots. Allocation/source-normal creation-stage pending/census states are history under current Cycle008/current audit qualifiers. Minato135 is parent-reported installed locally, source publication not certified here.",
+  "105_current_relationship_purposes": "IN_PROGRESS; no all105 new-target completion from these20 normal receipts.",
+  "operative_V3_author_precision_qualification": {
+    "role": "OPERATIVE_CURRENT_AUTHOR_V3_PRECISION;priorV1/V2 preparation statements and original decisions remain dated history",
+    "exact_independent_V2_review": {
+      "bytes": 59852,
+      "sha256": "386c0c6c41bad95edc86d6826ad61021793cd91ec6a94d5f10bb16f879e49541"
+    },
+    "ROOT_authorization": "Parent explicitly approved only the four supported narrow fields;ROOT final complete adoption still pending.",
+    "changed_semantic_fields": [
+      "CARE002 actual initiated retrieval",
+      "MN06 own report no-demonstrated-causation wording",
+      "O034 separate captive/pursuit/unexecuted rescue stages",
+      "O083 initial/broad outcome retained and fine defeated-party attribution deferred"
+    ],
+    "source_or_claim_counts_grades": "UNCHANGED;41claims/11dimensions/8rivals/16finiteends/14OPEN;20 own admitted analytical normals and105 selected purpose-report meanings retain attribution; no new physical/primary pass.",
+    "canonical_acceptance_installation_source_publication_main_integration": "PENDING_ROOT_ONLY",
+    "new_credit": 0
+  }
+}
