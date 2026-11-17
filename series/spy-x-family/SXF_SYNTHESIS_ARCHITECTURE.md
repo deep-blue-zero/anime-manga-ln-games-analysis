@@ -2,7 +2,7 @@
 title: "SPY x FAMILY — Synthesis Architecture"
 artifact_id: SXF_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: SXF-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–18 plus separate EYES ONLY fanbook; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-13
+last_updated: 2026-11-17
 architecture_lifecycle: INITIAL
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 ---
@@ -81,6 +81,14 @@ The authorized run specifies start, terminal boundary and checkpoint cadence. A 
 
 At each accepted reading, close complete prose and all five registers as one transaction. Freeze entering/exit states and prospective forecasts. Scoped no-change findings show actual inspection; missing pages or absent edits are not no-change evidence. Checkpoints preserve full earlier readings and state histories, then audit cross-unit knowledge, roles, directed ties, language/form and unresolved claims. They must not replace routine scenes with a few relationship labels.
 
+### Independent reading at S2
+
+For each future authorized reading of a Japanese main volume or separately admitted narrative fanbook component, the principal verifies the locked witness and the Japanese page-inspection route for each assignment, reads the full unit, and owns its single source-facing interpretation. Give a separate specialist the admitted pages and ask them to trace a proposition from its first visible or spoken cue to the people who could know or act on it. Trace who hears a line, whom it seems intended to convince, and what later conduct in the admitted scene supports that reading. Preserve an alternate account of the speaker’s purpose where the pages allow it.
+
+A distinct reviewer directly inspects the decisive panels and tests the difference between reader knowledge and each audience member's information. Check whether an ordinary action qualifies a claim about a performed role and whether a fanbook fact has entered the main account before disclosure. The specialist forms an account in a separate context before seeing the principal’s draft. Where practicable the reviewer inspects the evidence before seeing either account. Record prior exposure, freeze predictions before revealing the outcome and identify any findings that lose independent or prospective credit after exposure.
+
+Use the existing `SXF-TX` transaction, linking the independent findings to knowledge, relationship/routine and claim histories to record participants, assignments, actual access and horizon, located observations, alternatives and review challenges. The principal records the reason to adopt, qualify, reject or leave each material finding open, preserves diagnostic evidence in the reading, and reconciles the shared records once. Check coverage, findings and cumulative state before closing the transaction. Interpretive roles start at `SUBSTANTIVE_ANALYSIS` and escalate individually for difficult or propagation-sensitive judgments. The standing team has distinct specialist and reviewer contexts. Record a capability blocker at the entrypoint and hold acceptance and frontier advance if the required access or independence is unavailable. [Source-reading policy](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading)
+
 ## 6. State, continuity and epistemic model
 
 The state key is `source lane + witness/version + admitted frontier + disclosure position + story-time constraints + subject + proposition/knowledge + audience/role + physical/affective/resource condition + directed tie + interpretive mode`.
@@ -103,13 +111,15 @@ Material revisions propagate independently through knowledge matrix, directed ti
 
 ## 8. Monographs, specialists and integrated interpretation
 
-Character monographs require sufficient temporal, relational, audience and ordinary-context coverage to sustain a full literary question. They integrate behavior, self-presentation, knowledge, motives/rivals, language and narrative function. They are not compressed profiles.
+Assess character monographs at S5 using the qualification record below. They integrate behavior, self-presentation, knowledge, motives/rivals, language and narrative function. They are not compressed profiles.
 
 Relationship studies earn separate homes where directional development, performed/claimed ties, actual conduct, power or surrounding institutional conditions require sustained independent argument. Keep small routine changes and contrary evidence rather than only declarations or climactic moments.
 
 Possible information-distribution, role/institution, routine/relationship and page-form specialists remain **anticipated**, not established themes. Commission only when source evidence creates a recurring load-bearing question. If no independent specialist is warranted, role review must justify that from evidence and assign who discharges the responsibility.
 
 Specialists receive complete frozen readings and tested primary routes. They return full arguments with evidence returns, counterreadings and limits. Convergence resolves or retains disagreements and dependencies before synthesis readiness. The continuous synthesis connects information, action, role, relationship, language and form without turning every local scene into evidence for one preselected thesis.
+
+At character and specialist readiness, record each assessed person in the S5 role-gap record (`SXF-RG`). Assess differentiated behavior across contexts or within a concentrated sequence, including supporting characters and counterexamples. Record identity, source boundary, outcome, rationale, gaps, next review trigger and the portrait path once it exists. A qualified subject earns a standalone `studies/SXF_<subject>_MONOGRAPH.md`. Carry outstanding portraits through synthesis and release reviews. Reassess on material evidence changes. Check the portrait alone for a usable account of the person, then test fidelity separately against diagnostic source evidence. [Individual monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard)
 
 ## 9. Reconstruction as conditional, source-bounded modeling
 
@@ -149,7 +159,7 @@ Source-complete is not synthesis-ready. Main inventory closure does not imply fa
 
 ## 11. Execution, handoff and future growth
 
-SUBSTANTIVE_ANALYSIS governs future readings and interpretive updates; DEEP_SYNTHESIS covers checkpoints, monographs, specialists, models/evaluation; PREMIUM_QUALITY_FIRST covers propagation-sensitive architecture and integrated synthesis. Stable indexing is BOUNDED_STANDARD and hashing ROUTINE_FAST. Resolve actual settings through the [reasoning policy](../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md), never invent them.
+SUBSTANTIVE_ANALYSIS governs future readings and interpretive updates; DEEP_SYNTHESIS covers checkpoints, monographs, retrospective specialist studies, models/evaluation; PREMIUM_QUALITY_FIRST covers propagation-sensitive architecture and integrated synthesis. Stable indexing is BOUNDED_STANDARD and hashing ROUTINE_FAST. Resolve actual settings through the [reasoning policy](../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md), never invent them.
 
 The [long-series protocol](../../governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md) favors local source-capable readings/ledgers, fresh fully supplied synthesis, independent review and designated integration. Current capability is metadata/documents only. Verify transport, processing, STILL_IMAGE/TEXT inspection, interpretation and persistence under [capability routing](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md).
 
@@ -182,4 +192,5 @@ Stress review with an actor who has less information than the reader, an audienc
 
 ## Prospective amendment record
 
+- **2026-11-17 — v1.2.** Assigned S2 page and audience checks and routed the S5 portrait decisions.
 - **2026-11-13 — v1.1:** Linked the local-method synopsis duty under initiation policy §5.3 for future plot-bearing units. Actor/audience/disclosure distinctions, separately admitted fanbook scope, all analytical/register duties, INITIAL lifecycle and CLOSED authorization are preserved.

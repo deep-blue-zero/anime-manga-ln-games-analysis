@@ -2,7 +2,7 @@
 title: "SPY x FAMILY — Checkpoint and Reconstruction Register"
 artifact_id: SXF_CHECKPOINT_REGISTER
 artifact_type: checkpoint_reconstruction_register
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: SXF-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–18 plus separate EYES ONLY fanbook; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-17
 ---
 
 # Checkpoint and reconstruction register
@@ -22,7 +22,7 @@ No run, accepted frontier, checkpoint, model or readiness grade exists. This reg
 
 | Record / key | Required fields |
 |---|---|
-| Transaction `SXF-TX-nnnn` | Actual run/operation authorization; witness/unit; entering/exit frontier; full reading; five-register deltas or scoped no-change; page/retrieval/modality debts; name/reference sample/results; reviewer/disposition; next permitted operation |
+| Transaction `SXF-TX-nnnn` | Actual run/operation authorization; witness/unit; entering/exit frontier; full reading; five-register deltas or scoped no-change; page/retrieval/modality debts; name/reference sample/results; independent assignments, exposure and inspected page locators, material findings/rivals, review challenges, principal disposition and linked ledger effects or outstanding obligations; next permitted operation |
 | Checkpoint `SXF-CP-nn` | Authorized tranche; complete files/digests/authority; frozen knowledge/audience/relationship/voice/form states and forecasts; full reconciliation; contradictions; role gaps and remaining limits |
 | Dependency `SXF-DEP-nnnn` | Upstream source/evidence/claim/state; downstream argument/study/model; revision trigger; owner/review; OPEN/RESOLVED_WITH_ROUTE/ACCEPTED_LIMITATION with evidence |
 | Role gap `SXF-RG-nnnn` | Required responsibility; actual time/ordinary/relationship/audience/language/form coverage; missing evidence; synthesis effect; targeted return/specialist; justified no-specialist route and owner; acceptance criterion |
