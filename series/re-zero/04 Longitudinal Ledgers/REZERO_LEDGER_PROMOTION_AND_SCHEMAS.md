@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.57
+generation: V0.58
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -22,13 +22,13 @@ No recurring ledger was promoted at bootstrap. Frozen volume readings were the i
 
 V25 remains the last integrated numbered source through PR #498, with 777 narrative claims. E046 survives displacement and ends on an unnamed plain with awake Rem and physical Louis. The working derivation retains 45 Subaru deaths and 46 reached segments. SOURCE_COUNT_TENSION remains open for the seventeenth reunion, fifteen additional deaths, twenty-two post-loss deaths and total forty.
 
-Arc 6 full publication and integration is CLOSED. CI merged the exact final source bd78aaa984f47306f2da733c035de53e45431514 at b0d1294fa93ff1aa0b2df0e03de16db3a7d45106. Later native verification at 2026-11-17T05:51:45.064184+00:00 confirmed the same project tree on verified main 1659818b852648bdfa7718154049877130c981eb. [PR #501](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/501)
+Subaru’s V01–V25 full publication and integration gate is CLOSED. CI integrated 4d38b35183959bdcc5cf312d27b47f1565aa4562 at bbaa97ab25f876643cd1afc1f24ccab3d375f460. Exact main 3b79017dae5f077f802db05b3f406d00ba838c25 retained Re:Zero tree 83df9960cff2fca2f760c662e8513166cd7ee73d. [PR #622](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/622) Arc 6 was previously integrated through PR #501.
 
-The earned [Subaru V01–V25 model](../05%20Character%20Analysis/REZERO_NATSUKI_SUBARU_V01_V25_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_NATSUKI_SUBARU_V01_V25_FIDELITY_REVIEW.md) are implemented with local documentary PASS_WITH_BOUND across all nineteen dimensions, incorporating a separate source-grounded critique. The default is V25_E046_UNKNOWN_PLAIN_AFTER_HERO_INTRODUCTION_REM_UNRECOGNIZING. The own full publication and integration gate is pending. The earlier V01–V10 model and audit keep their own scope and terminal E013.
+The [Ram V01–V25 model](../05%20Character%20Analysis/REZERO_RAM_V01_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_RAM_V01_V25_FIDELITY_REVIEW.md) implement Ram’s V01–V25 successor. The nineteen-dimension local documentary result is PASS_WITH_BOUND after independent Japanese-source review. Ram’s default is V25_E046_LAST_OBSERVED_EVACUATED_BY_WOUNDED_PATRASCHE_SHADOW_OUTCOME_UNSHOWN. Her last warning reaches Subaru across the shadow. Her later fate is open. The Ram publication and integration gate is pending.
 
-Close SUBARU_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute RAM_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, JULIUS_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW in order, each with its own applied fidelity review and complete publication and integration gate. After all six, open the exact sealed V26 horizon and continue through admitted V43 and the mandatory terminal architecture, state, readiness and acquisition review. CI owns merges.
+Close RAM_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute JULIUS_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW in order, each with its own applied review and full integration gate. After all five, open the original sealed V26 horizon and continue in sequence through V43 and the terminal architecture, state, readiness and acquisition review. CI owns merges.
 
-The 84 protected artifacts, 26 previous model scopes and 53 previous model and review files retain their exact bytes. The five owners remain at E046/K1092/M695/I589/R219/RT675. Master §3 still selects all 777 exact V25 formulations, dispositions and ancestries.
+The 84 protected artifacts retain their exact bytes. Across 27 earlier scopes, 27 character models and 26 files named as fidelity reviews make 53 files. The separate character-reconstruction fidelity audit and Liliana’s fidelity reassessment bring the preserved inventory to 55. With Ram’s new pair, the directory covers 28 scopes, 28 models and 27 named fidelity reviews, or 57 artifacts when the audit and reassessment are included. The five owners end at E046/K1092/M695/I589/R219/RT675. Master §3 selects the 777 frozen formulations and their ancestry.
 
 ### Post-Garfiel15 Ram field-contract review
 
@@ -364,11 +364,11 @@ Accepted V22 saved content and sealed outgoingV23whole body → V22 final-index 
 
 ### V25 retained fields and scoped next uses
 
-Use the existing records for event states, actual receipt, separate body action and control, retained experience, role, mechanics and directional relationships. The earned [Subaru V01–V25 model](../05%20Character%20Analysis/REZERO_NATSUKI_SUBARU_V01_V25_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_NATSUKI_SUBARU_V01_V25_FIDELITY_REVIEW.md) are implemented with local documentary PASS_WITH_BOUND across all nineteen dimensions, incorporating a separate source-grounded critique. The default is V25_E046_UNKNOWN_PLAIN_AFTER_HERO_INTRODUCTION_REM_UNRECOGNIZING. The own full publication and integration gate is pending. The earlier V01–V10 model and audit keep their own scope and terminal E013.
+Use the existing owner fields for Ram’s received information, paid and imposed costs, and recipient-specific care. The [Ram V01–V25 model](../05%20Character%20Analysis/REZERO_RAM_V01_V25_CHARACTER_MODEL.md) and [applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_RAM_V01_V25_FIDELITY_REVIEW.md) implement Ram’s V01–V25 successor. The nineteen-dimension local documentary result is PASS_WITH_BOUND after independent Japanese-source review. Ram’s default is V25_E046_LAST_OBSERVED_EVACUATED_BY_WOUNDED_PATRASCHE_SHADOW_OUTCOME_UNSHOWN. Her last warning reaches Subaru across the shadow. Her later fate is open. The Ram publication and integration gate is pending. Ram calls steamed potatoes her cooking specialty at V02 p-011 B0615–0617. V22 part0014 B0328–0350 records Ram wondering why steamed potatoes are special to her. V03 p-018 B0085–0101 and p-020 B0006–0014 show her serving them and Subaru praising the seasoning. Use this source correction for RZ-V25-C311 and RZ-V25-C516 and the projections RZ-K-854, RZ-I-447 and RZ-RT-483, and for the V22 Ram cooking/work row in master §10. The alleged cooking failure has no support at the cited meal. A second correction qualifies RZ-V25-C717 in the register and reading, RZ-K-1032 and RZ-M-659. At V25 part0016 B0574–0587 Ram adds height and averts a fatal hit. Emilia tucks her knees, takes glancing toe contact and arrests the spin with ice. Adjudicate C311, C516 and C717 individually and reconcile the indicated projections at the next source-facing revision.
 
 [Arc 6 selectors](../02%20Sequential%20Readings/REZERO_ARC_06_CHECKPOINT.md#14-readiness-and-architecture-responsibility). The eight whole V19–V26 prospective bodies retain their literal form. V26 remains unopened with 60 questions and 10 forecasts sealed at 2026-11-07T14:56:58.822051Z. Its 24,594 UTF-8 bytes have SHA-256 93182f2f64194318c47afdb236abbb193eeac552a05fdc0619bd37d52b827bc1.
 
-Close SUBARU_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute RAM_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, JULIUS_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW in order, each with its own applied fidelity review and complete publication and integration gate. After all six, open the exact sealed V26 horizon and continue through admitted V43 and the mandatory terminal architecture, state, readiness and acquisition review. CI owns merges.
+Close RAM_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute JULIUS_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW in order, each with its own applied review and full integration gate. After all five, open the original sealed V26 horizon and continue in sequence through V43 and the terminal architecture, state, readiness and acquisition review. CI owns merges.
 
 ### V23 exact entering schema preimages
 
@@ -680,6 +680,45 @@ The existing five owners retain all fields and complete native bytes. The checkp
 [Scoped next uses and defaults](../02%20Sequential%20Readings/REZERO_ARC_06_CHECKPOINT.md#14-readiness-and-architecture-responsibility). All eight whole V19–V26 prospective bodies remain literal. V26 remains unopened, with 60 questions and10 forecasts sealed at2026-11-07T14:56:58.822051Z,24594UTF8bytes and SHA25693182f2f64194318c47afdb236abbb193eeac552a05fdc0619bd37d52b827bc1.
 
 Close ARC_06_FULL_PUBLICATION_INTEGRATION_GATE. Then execute SUBARU_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, RAM_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, JULIUS_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW, each with its own complete publication/integration gate before the next. Open sealed V26 afterward. Continue after every raised PR through admitted V43 and the mandatory terminal architecture, state, role-gap and acquisition review. CI owns merges.
+``````````
+
+
+### Ram V01–V25 transaction — exact entering fragments
+
+#### Entering fragment 1
+
+``````````markdown
+The earned [Subaru V01–V25 model](../05%20Character%20Analysis/REZERO_NATSUKI_SUBARU_V01_V25_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_NATSUKI_SUBARU_V01_V25_FIDELITY_REVIEW.md) are implemented with local documentary PASS_WITH_BOUND across all nineteen dimensions, incorporating a separate source-grounded critique. The default is V25_E046_UNKNOWN_PLAIN_AFTER_HERO_INTRODUCTION_REM_UNRECOGNIZING. The own full publication and integration gate is pending. The earlier V01–V10 model and audit keep their own scope and terminal E013.
+``````````
+
+#### Entering fragment 2
+
+``````````markdown
+Close SUBARU_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute RAM_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, JULIUS_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW in order, each with its own applied fidelity review and complete publication and integration gate. After all six, open the exact sealed V26 horizon and continue through admitted V43 and the mandatory terminal architecture, state, readiness and acquisition review. CI owns merges.
+``````````
+
+#### Entering fragment 3
+
+``````````markdown
+Arc 6 full publication and integration is CLOSED. CI merged the exact final source bd78aaa984f47306f2da733c035de53e45431514 at b0d1294fa93ff1aa0b2df0e03de16db3a7d45106. Later native verification at 2026-11-17T05:51:45.064184+00:00 confirmed the same project tree on verified main 1659818b852648bdfa7718154049877130c981eb. [PR #501](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/501)
+``````````
+
+#### Entering fragment 4
+
+``````````markdown
+The 84 protected artifacts, 26 previous model scopes and 53 previous model and review files retain their exact bytes. The five owners remain at E046/K1092/M695/I589/R219/RT675. Master §3 still selects all 777 exact V25 formulations, dispositions and ancestries.
+``````````
+
+#### Entering fragment 5
+
+``````````markdown
+Use the existing records for event states, actual receipt, separate body action and control, retained experience, role, mechanics and directional relationships. The earned [Subaru V01–V25 model](../05%20Character%20Analysis/REZERO_NATSUKI_SUBARU_V01_V25_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_NATSUKI_SUBARU_V01_V25_FIDELITY_REVIEW.md) are implemented with local documentary PASS_WITH_BOUND across all nineteen dimensions, incorporating a separate source-grounded critique. The default is V25_E046_UNKNOWN_PLAIN_AFTER_HERO_INTRODUCTION_REM_UNRECOGNIZING. The own full publication and integration gate is pending. The earlier V01–V10 model and audit keep their own scope and terminal E013.
+``````````
+
+#### Entering fragment 6
+
+``````````markdown
+Close SUBARU_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute RAM_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, JULIUS_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW in order, each with its own applied fidelity review and complete publication and integration gate. After all six, open the exact sealed V26 horizon and continue through admitted V43 and the mandatory terminal architecture, state, readiness and acquisition review. CI owns merges.
 ``````````
 
 ### Registered exact candidate homes
