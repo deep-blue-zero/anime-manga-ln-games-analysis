@@ -67,7 +67,7 @@ All rows use witness `TDH-JP-01` (bound; see above) and admission authority `TDH
 | U02 | S07 `text/part0005.html` | P0001–P0196 | ２．終わりの始まり | body | 2 | Summer at twenty: collapse, three days, then one day of referrals, appraisal and sale | INVENTORIED / INSPECTED / READ / INTEGRATED 2026-11-17 | [U02](readings/TDH_U02_DEEP_READING.md) | No gaps |
 | U03 | S08 `text/part0006.html` | P0001–P0128 | ３．三角座りの監視員 | body | 3 | Day one after the sale (morning to night) | INVENTORIED / INSPECTED / READ / INTEGRATED 2026-11-17 | [U03](readings/TDH_U03_DEEP_READING.md) | No gaps |
 | U04 | S09 `text/part0007.html` | P0001–P0082 | ４．答えあわせといきましょう | body | 4 | Most likely the night of day one; spring backstory | INVENTORIED / INSPECTED / READ / INTEGRATED 2026-11-17 | [U04](readings/TDH_U04_DEEP_READING.md) | No gaps |
-| U05 | S10 `text/part0008.html` | P0001–P0082 | ５．これから起こることすべて | body | 5 | Unknown | INVENTORIED / NOT_INSPECTED / NOT_READ / NOT_INTEGRATED | — | ≈6,100 chars |
+| U05 | S10 `text/part0008.html` | P0001–P0082 | ５．これから起こることすべて | body | 5 | Night of day one continued, to the small hours (rain) | INVENTORIED / INSPECTED / READ / INTEGRATED 2026-11-17 | [U05](readings/TDH_U05_DEEP_READING.md) | No gaps |
 | U06 | S11 `text/part0009.html` | P0001–P0123 | ６．変わってしまった人、変われなかった人 | body | 6 | Unknown | INVENTORIED / NOT_INSPECTED / NOT_READ / NOT_INTEGRATED | — | ≈7,300 chars |
 | U07 | S12 `text/part0010.html` | P0001–P0091 | ７．タイムカプセル荒らし | body | 7 | Unknown | INVENTORIED / NOT_INSPECTED / NOT_READ / NOT_INTEGRATED | — | ≈6,600 chars |
 | U08 | S13 `text/part0011.html` | P0001–P0092 | ８．不適切な行動 | body | 8 | Unknown | INVENTORIED / NOT_INSPECTED / NOT_READ / NOT_INTEGRATED | — | ≈5,600 chars |
