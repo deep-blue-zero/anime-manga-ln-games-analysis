@@ -2,7 +2,7 @@
 title: "Wandering Witch — Synthesis Architecture"
 artifact_id: WW_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: WW-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed source metadata only; no literary findings"
 source_boundary: "Metadata reconnaissance: Japanese main volumes 01–25 plus separate 2014 Upper and Lower editions; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-13
+last_updated: 2026-11-17
 architecture_lifecycle: INITIAL
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 ---
@@ -91,6 +91,14 @@ An accepted transaction includes the full reading and synchronized source, atlas
 
 No unit may enter because the previous unit was finished. The run's explicit scope and the current lock govern admission. The INITIAL lock is CLOSED, with no run record or next source candidate.
 
+### 5.1 Reading the local story before comparing it
+
+For a separately authorized main-volume reading, the principal records the verified edition, admitted parts and disclosure frontier, then freezes incoming expectations before exposing any participant to their resolution. Keep the 2014 Upper and Lower witnesses outside a main-lane assignment. Verify each participant’s Japanese text access and any still-image access its claims require. The principal covers the full admitted volume and maintains the distinction between the end of a local story and the end of a volume.
+
+An independent reader examines a local unit on its own terms before receiving the principal’s draft. Follow the focalizer’s Japanese presentation, the choices available to a supporting person, the actions the text actually depicts and what remains unknown at the ending. Return a located rival to any proposed moral or cross-unit pattern. A distinct reviewer selects revealing and contrary passages directly from the admitted witness, preferably before seeing the candidate. Test whether a similar name, image or role truly supports a recurrence edge, and whether the reading retains the local actor’s reasoning and the limits of the narrator’s knowledge. Record each context’s exposure. A later identification enters through a dated revision.
+
+The principal uses the full local argument and its `WW-TX` record to reconcile each material contribution. Preserve locator, rival, critical finding, reason for adopting, qualifying, rejecting or leaving it open, and any atlas, persona or claim destination. Only the principal writes the shared transaction. Route interpretation from the reading class in section 11 and escalate a difficult chronology or identity dispute for the responsible role. Hold acceptance and frontier advance and record the blocker in the current map when independent source access or review cannot be achieved. Only an unusually bounded authorized unit can combine specialist and reviewer in one separate context, with a reason and source evidence for both functions under [topology section 4.1](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading). W7’s optional commissioning concerns later synthesis studies.
+
 ## 6. Temporal, epistemic and continuity model
 
 The state key combines `source lane + witness version + admitted frontier + local-unit disclosure position + story/travel-time constraints + narrator/focalizer + subject information + context/role/resources + directed relationship`. Unknowns are explicit. An edition-comparative interpretation has its own mode and paired witnesses.
@@ -113,7 +121,7 @@ Dependency review checks the atlas edge, local argument, subject state, language
 
 A local-unit study is warranted when its causal/formal or evaluative problem needs sustained treatment beyond the source-facing reading. It must contribute an independent question, not a polished duplicate. A recurrence study needs a stated selection rule, diverse instances, counterinstances and plausible alternative groupings; it cannot stand on a few memorable examples.
 
-A character monograph requires adequate time/context/relationship coverage and ordinary-life evidence, with an explicit statement of what remains inaccessible. It integrates the subject's narration/presentation, actions, language, development and literary role. A relationship study handles directional and systemic issues that cannot be responsibly owned by either monograph alone.
+By W5, assess every person whose admitted evidence supports a differentiated portrait, including a supporting figure in a single local story. The persona ledger records identity, boundary, decision, rationale and gaps, reassessment trigger and actual monograph path when available. A qualified person creates a production obligation. Review the portrait for independent usability and fidelity under [initiation section 5.5.1](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard), reassess when material evidence changes, and record any outstanding obligation at W8 and release. The monograph integrates the subject's narration/presentation, actions, language, development and literary role. A relationship study handles directional and systemic issues that cannot be responsibly owned by either monograph alone.
 
 Potential specialists include narrative self-presentation, ordering and local-world variation, if evidence warrants them. They are **anticipated responsibilities**, not findings or mandatory empty directories. The role-gap review decides whether independent specialists are needed and records an evidence-based rationale if full readings and a qualified synthesis can discharge a role without a separate study.
 
