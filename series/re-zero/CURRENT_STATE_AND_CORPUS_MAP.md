@@ -67,7 +67,7 @@ The [Ram V01–V25 model](05%20Character%20Analysis/REZERO_RAM_V01_V25_CHARACTER
 
 Close RAM_V01_V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute JULIUS_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW in order, each with its own applied review and full integration gate. After all five, open the original sealed V26 horizon and continue in sequence through V43 and the terminal architecture, state, readiness and acquisition review. CI owns merges.
 
-The 84 protected artifacts and the 55 model and review files for the 27 earlier scopes retain their exact bytes. The five owners end at E046/K1092/M695/I589/R219/RT675. Master §3 selects the 777 frozen formulations and their ancestry.
+The 84 protected artifacts retain their exact bytes. Across 27 earlier scopes, 27 character models and 26 files named as fidelity reviews make 53 files. The separate character-reconstruction fidelity audit and Liliana’s fidelity reassessment bring the preserved inventory to 55. With Ram’s new pair, the directory covers 28 scopes, 28 models and 27 named fidelity reviews, or 57 artifacts when the audit and reassessment are included. The five owners end at E046/K1092/M695/I589/R219/RT675. Master §3 selects the 777 frozen formulations and their ancestry.
 
 Master §13 records the C691/C154 attribution correction and the new C311/C516 cooking and C717 rooftop corrections. The live schema routes the affected projections, including master §10.
 
