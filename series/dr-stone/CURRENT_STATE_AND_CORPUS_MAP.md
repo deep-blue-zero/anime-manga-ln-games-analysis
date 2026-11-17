@@ -2,7 +2,7 @@
 title: "Dr. STONE — Current State and Corpus Map"
 artifact_id: DS_CURRENT_STATE
 artifact_type: current_state_and_corpus_map
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: DS-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed source metadata only; no literary or technical findings"
 source_boundary: "Metadata only: Japanese main manga V01–27 plus separate 科学王国事典 fanbook; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-17
 project_initialization:
   status: canonical
   architecture_lifecycle: INITIAL
@@ -63,10 +63,12 @@ Read the [analytical method](DS_ANALYTICAL_METHOD.md) and [architecture](DS_SYNT
 
 There are no readings, monographs, specialists, models or archived generations. Technical specialization cannot replace ordinary character, relational, linguistic or formal interpretation.
 
+The [standing source-reading configuration](DS_SYNTHESIS_ARCHITECTURE.md#independent-source-reading) applies at the first separately authorized unit. The `DS-TX` transaction retains the contribution evidence and its disposition.
+
 ## Next permitted work and execution
 
 Review all sixteen duties and source-specific boundaries. Before any future run, bind selected immutable witnesses, verify actual chapter/image/spread/readability mapping and STILL_IMAGE access, then record bounded authorization under the [continuation policy](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md). Fanbook and external-reference operations need explicit scope. Foundation publication is not a reading authorization.
 
-Architecture and continuous integration use PREMIUM_QUALITY_FIRST to reduce propagation of unsupported mechanisms, source-layer conflation and flattened group/character reasoning. Sequential interpretation uses SUBSTANTIVE_ANALYSIS; checkpoints, specialists, monographs and model/evaluator work use DEEP_SYNTHESIS; stable indexing BOUNDED_STANDARD; hashes ROUTINE_FAST.
+Architecture and continuous integration use PREMIUM_QUALITY_FIRST to reduce propagation of unsupported mechanisms, source-layer conflation and flattened group/character reasoning. Sequential interpretation uses SUBSTANTIVE_ANALYSIS; checkpoints, retrospective specialist studies, monographs and model/evaluator work use DEEP_SYNTHESIS; stable indexing BOUNDED_STANDARD; hashes ROUTINE_FAST.
 
 Prefer source-capable local reading/ledgers, fresh fully supplied synthesis, independent review and designated integration. Current capability is metadata/local documents only. Manga requires STILL_IMAGE; TEXT/OCR aids retrieval. Drawn diagrams do not by themselves validate real-world procedures, and no audiovisual performance witness is admitted. Resume from full files and actual accepted register state. Primary images, raw extraction, private receipts and source IDs stay outside Git. [Local descriptor](.repository/series-registry.json) supplies root identity; housekeeping owns global routing.
