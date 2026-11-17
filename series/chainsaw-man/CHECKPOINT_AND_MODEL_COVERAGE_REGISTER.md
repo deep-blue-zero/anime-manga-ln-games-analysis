@@ -2,7 +2,7 @@
 title: "Chainsaw Man — Checkpoint and Model Coverage Register"
 artifact_id: CM_CHECKPOINT_REGISTER
 artifact_type: checkpoint_model_coverage_register
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: CM-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed source metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–24; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-17
 ---
 
 # Checkpoint and model coverage register
@@ -37,6 +37,8 @@ Future model artifacts must contain conditional trigger/stakes/state → respons
 Freeze true held-out predictions before source exposure. Independent evaluators compare outcomes with diagnostic baselines, decoys or controls where appropriate, preserving opportunity denominators and confounds. Exposed work is RETROSPECTIVE_CONSISTENCY_TEST. Synthetic outputs cannot become canonical evidence. Monographs and global readiness registries have distinct owners/responsibilities.
 
 ## Closeout and full-output handoff
+
+`CM-TX` carries the [independent reading receipt](CM_SYNTHESIS_ARCHITECTURE.md#independent-source-reading). Record each person's assignment, independent context, actual exposure, inspected material and precise locators. Preserve the material observations, rival explanations, counterexamples, challenges and remaining debts, with the principal's grounds for adopting, qualifying, rejecting or leaving each finding open. Link the full argument and any affected claim revisions. Record observed settings only when known.
 
 Accept complete readings and synchronized registers atomically. Verify page coverage, retrieval, prospective boundaries, state/relationship specificity, ordinary controls, language/form reasoning and bounded name/reference review. Missing required evidence remains a hold.
 

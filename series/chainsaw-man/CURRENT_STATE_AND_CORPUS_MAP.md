@@ -2,7 +2,7 @@
 title: "Chainsaw Man — Current State and Corpus Map"
 artifact_id: CM_CURRENT_STATE
 artifact_type: current_state_and_corpus_map
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: CM-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed source metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–24; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-17
 project_initialization:
   status: canonical
   architecture_lifecycle: INITIAL
@@ -61,10 +61,12 @@ Read the [method](CM_ANALYTICAL_METHOD.md) and [architecture](CM_SYNTHESIS_ARCHI
 
 There are no existing future studies or historical generations. The architecture protects uncertain identity/knowledge and state changes if encountered, ordinary-life evidence and full causal/visual arguments; it asserts no unread plot feature.
 
+The [standing source-reading configuration](CM_SYNTHESIS_ARCHITECTURE.md#independent-source-reading) applies at the first separately authorized unit. The `CM-TX` transaction retains the contribution evidence and its disposition.
+
 ## Next permitted work and execution
 
 Review the foundation's source scope, all sixteen duties, operational schemas and preservation of depth. Before future admission, verify exact bytes, spine/image order, chapter/spread boundaries and actual STILL_IMAGE access, then record bounded owner authorization under the [continuation policy](../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md). A green bootstrap check cannot supply that authorization.
 
-Architecture and continuous synthesis use PREMIUM_QUALITY_FIRST because state conflation and hindsight leakage can propagate through later models and claims. Sequential interpretations use SUBSTANTIVE_ANALYSIS; checkpoints, specialists, monographs and reconstruction use DEEP_SYNTHESIS; settled indexing BOUNDED_STANDARD; hashes ROUTINE_FAST. Actual model settings are recorded only if observed.
+Architecture and continuous synthesis use PREMIUM_QUALITY_FIRST because state conflation and hindsight leakage can propagate through later models and claims. Sequential interpretations use SUBSTANTIVE_ANALYSIS; checkpoints, retrospective specialist studies, monographs and reconstruction use DEEP_SYNTHESIS; settled indexing BOUNDED_STANDARD; hashes ROUTINE_FAST. Actual model settings are recorded only if observed.
 
 Prefer source-capable local readings/ledgers, fresh fully supplied synthesis, independent evaluation and designated integration. Current capabilities establish metadata/local document access only. Manga requires STILL_IMAGE inspection; TEXT/OCR is a retrieval aid and supplies no missing composition or silent-page evidence. No adaptation acting, motion or sound enters this lane. Resume from complete files and the last actual accepted transaction, not a short summary. Primary pages/private receipts stay in the evidence plane; Git holds analytical prose and public-safe routes. The [local descriptor](.repository/series-registry.json) identifies the root; housekeeping owns global routing.
