@@ -5,14 +5,14 @@ artifact_type: "source_unit_reading_specification"
 series: "Medalist / メダリスト"
 series_id: "medalist"
 generation: "MEDALIST_BOOTSTRAP_V1"
-version: "0.6"
+version: "0.7"
 status: "canonical"
 scope: "Reusable prospective source-unit transaction and completion contract"
 canonical_home: "series/medalist/00 Frameworks and Methods/MEDALIST_SOURCE_UNIT_READING_SPEC.md"
 source_boundary: "Reading contract; the closed manga boundary and admitted sources are those recorded in CURRENT_STATE_AND_CORPUS_MAP.md"
 created: "2026-10-11"
-updated: "2026-10-13"
-review_status: "AUTHOR_REVIEWED_NAMING_RULE_UPDATE"
+updated: "2026-11-17"
+review_status: "AUTHOR_REVIEWED_PROSPECTIVE_FRAMEWORK_AMENDMENT"
 foundation_owner_approval: "I approve the revised foundation. Begin analysis/deep reading of Volume 1."
 supersedes: []
 superseded_by: []
@@ -39,6 +39,7 @@ A reading or audit opened after 2026-10-13 names characters under the method's [
 | --- | --- |
 | Source/provenance and coverage | Exact witness and locator convention; complete admitted page/Score coverage; separately labeled cover, bonus and paratext; gaps and processing limitations. |
 | Entering knowledge state | Prior frozen reading/checkpoint IDs and versions; established developments, current scoped claims, unresolved questions and predictions. V01 explicitly has none. |
+| Current-unit story synopsis | For plot-bearing units, present the opening situation, consequential actions, disclosures and outcome in accessible prose near the front, with locators for major events. Write it after prospective captures freeze and keep its unit-end knowledge out of earlier assignments. Mark a non-narrative component inapplicable with its reason. |
 | Developments and chronological account | What changes in this unit, in source order; represented time distinguished from disclosure order; no later-unit explanation. |
 | Narrative and formal close reading | Significant causal/framing patterns plus diagnostic manga pages/panels; description separated from inference and competing readings. |
 | Character and directional relationships | Self-report/action/inference, state transitions, agency, mentorship/rivalry, knowledge differences, counterexamples and readiness implications. |
@@ -48,6 +49,8 @@ A reading or audit opened after 2026-10-13 names characters under the method's [
 | Cumulative updates | Exact affected ledger paths and row IDs/versions; explain material changes; certify other ledgers reviewed with no update needed. |
 | Frozen exit state | Source endpoint, knowledge frontier, accepted/open/rejected claims, participant state and unresolved debts recoverable as of this unit. |
 | Verification and transaction closure | Coverage/locator checks, cross-reference/authority review, staged paths, commit recovery route, publication/audit state and next candidate without implied authorization. |
+
+In verification and closure, record the [standing reading team](MEDALIST_SYNTHESIS_ARCHITECTURE.md#standing-reading-team) by participant and independent context, assigned scope and exposure, pages actually inspected, and any access gaps. Keep significant observations and rival explanations with their witness/Score/spine/image or fanbook component locators, critical corrections, and the principal’s disposition and reason for each. Identify affected MD-EV and MD-CL versions, retained counterevidence and unresolved obligations. Verify full principal coverage, reconciliation, ledger consistency and the disclosure boundary before accepting the reading.
 
 ## Observation and freeze schema
 
