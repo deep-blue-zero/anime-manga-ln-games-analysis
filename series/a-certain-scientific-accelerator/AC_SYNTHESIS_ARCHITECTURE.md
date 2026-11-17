@@ -3,7 +3,7 @@ title: "A Certain Scientific Accelerator — Governing synthesis architecture"
 artifact_id: AC_SYNTHESIS_ARCHITECTURE
 artifact_type: project_synthesis_architecture
 series: a-certain-scientific-accelerator
-version: "1.1"
+version: "1.2"
 generation: INITIAL_BOOTSTRAP
 status: canonical
 authority_scope: initial_project_design_only
@@ -44,7 +44,7 @@ Separate state and claim/form homes are justified by accumulation across the sup
 | Dimension | Sequential capture | Cumulative home | Final destination |
 |---|---|---|---|
 | Causal events and constraints | Coherent account with actors, alternatives and effects | State; claims for disputed connections | Continuous bounded synthesis |
-| Character development, habit and ordinary life | Named actions, self-report, inference and contrary cases | State; reconstruction coverage links | Subject study when earned, otherwise direct synthesis |
+| Character development, habit and ordinary life | Named actions, self-report, inference and contrary cases | State; reconstruction coverage links | Self-contained portrait when qualified under §4, otherwise a scoped study or direct synthesis |
 | Directed relationships | A→B/B→A and recipient-conditioned change separately | State | Relationship study only for independent sustained question |
 | Knowledge, focalization and disclosure | Knower, acquisition route, reader horizon, concealed identities | State + Claims/Form | Psychological/formal integration without future leakage |
 | Japanese register, address and lettering | Exact inspected wording and visual attribution | Claims/Form | Character or linguistic synthesis with source anchors |
@@ -57,6 +57,8 @@ Separate state and claim/form homes are justified by accumulation across the sup
 ## 4. Character, relationship and specialist synthesis
 
 Character and relationship interpretation remains required whether separate monographs exist or not. A subject study is justified by a sustained question across contexts, temporal development or a reconstruction target, with ordinary-life and contrary evidence represented. A protagonist name or high citation count alone is insufficient. Monographs must integrate behavior, psychology, language, relations, visual form and thematic role, citing claim versions and precise sources rather than broad “see volume” references.
+
+At character/specialist readiness, apply the [self-contained character monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard) to every subject with differentiated evidence, including supporting characters and concentrated sequences. In the existing boundary audit record identity, horizon, outcome, source grounds, gaps and reassessment trigger. Revisit the decision after material new evidence. Each qualified subject requires a portrait under `studies/` with its actual path and separate self-containment and source-fidelity decisions in the audit. Carry pending portraits through synthesis readiness and release. The portrait explains conduct, ordinary contexts, directed ties and Japanese expression within this manga's evidence boundary.
 
 The anticipated specialist question is **represented capability, action and aftermath**. When action, capability or institutional authority is represented, distinguish a speaker's boast/explanation, a visible action, its aftermath and the analyst's generalization. Test apparent invariants against exceptions and changing conditions. Graphic violence or ethically difficult conduct, if encountered, requires careful depiction/interpretation/endorsement distinctions, not a preset moral verdict or an excuse to discard ordinary behavior. It activates only when direct reading establishes recurrence, independent accumulation, later interpretive consequence, no adequate existing home and retrieval need. Otherwise the continuous synthesis explicitly discharges the dimension, recording why no independent specialist was needed. A shared-franchise study is not created just to route four titles.
 
@@ -95,6 +97,18 @@ Reasoning classes: metadata/locators BOUNDED_STANDARD; substantive reading and i
 
 The future run owner controls scope/admission/coordination; readers deliver full units and cumulative transactions; independent reviewers test semantics/compression; housekeeping owns routing outputs; discovery and reconstruction evaluators own their global products. Handoffs include complete files and hashes, target root/branch, source and knowledge boundary, drift assessment, pending defects and next owner. Verify full delivered content before authority promotion; never replace a maintained artifact from a partial preview.
 
+### Team for a source reading
+
+Before each authorized chapter or causal sequence, resolve the [source-reading configuration](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading). The principal inspects the whole admitted unit, authors its full reading and integrates the findings. Give the specialist and a distinct critical reviewer separate contexts, direct STILL_IMAGE access to assigned Japanese pages, and the accepted entering state at this manga's disclosure frontier. Each forms source observations independently of the principal's working account. Freeze prospective findings before later panels or the unit-end synopsis disclose their resolution. Record earlier franchise exposure and withhold affected independent or prospective credit.
+
+**Specialist assignment.** Trace an attributed capability from the Japanese balloon or caption through the action panels to the visible aftermath. Identify which step depends on an inferred cause, whose account supplies it and which page would support another explanation.
+
+**Critical review.** Verify the critical transition on the full pages. Test whether a visible outcome was promoted into a general rule or whether testimony displaced a supporting participant's action. Check for imported Railgun or Index chronology. The reviewer records the source routes, counterevidence and any loss of diagnostic evidence during integration. Where practical, the reviewer inspects decisive pages before seeing the candidate reading.
+
+The principal preserves material observations and counterreadings in the full reading, explains each contested disposition and alone coordinates shared state and claim updates. The [unit transaction](AC_CLAIMS_AND_FORM.md#transaction-freeze-and-amendment) records actual roles, context separation, source coverage and reconciliation. Use SUBSTANTIVE_ANALYSIS for a focused interpretive assignment and escalate conflicting attributions or high-impact revisions under §7. A later specialist study or reconstruction evaluation follows its own gates.
+
+An unusually bounded unit may combine specialist and review duties in one context independent of the principal when it can both contribute source-grounded findings and challenge the candidate directly. Justify each use in the transaction. Missing independent participation or required page inspection holds acceptance and frontier advancement. Record the capability gap at the current entrypoint.
+
 ## 8. Sixteen-duty crosswalk
 
 | Initiation duty | Implementation |
@@ -119,3 +133,5 @@ The future run owner controls scope/admission/coordination; readers deliver full
 ## Prospective amendment record
 
 - **2026-11-13 — v1.1:** Added the local-method link for the initiation-policy §5.3 current-unit story synopsis in future eligible readings. Existing full-reading, volume-reconciliation, source/knowledge, INITIAL lifecycle and CLOSED authorization duties remain intact.
+
+- **2026-11-17 — v1.2.** Recorded the standing source-reading team, independent page review and transaction evidence for future authorized units. Assigned character qualification and self-contained portrait acceptance to the existing boundary audit.
