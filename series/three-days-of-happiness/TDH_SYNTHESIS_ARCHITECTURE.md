@@ -8,7 +8,7 @@ generation: INITIAL_BOOTSTRAP
 status: canonical
 scope: "Governing synthesis architecture"
 authority_scope: initial_project_design_and_empty_analytical_frontier_only
-source_boundary: "One Japanese standalone novel EPUB inventoried; historical technical audit reviewed; no narrative admitted or read"
+source_boundary: "Designed from the bootstrap observation of one inventoried Japanese standalone novel EPUB; §8.1 added at the 2026-11-16 admission. Current source admission and frontiers are recorded in the source register and entrypoint, not here"
 canonical_home: series/three-days-of-happiness/TDH_SYNTHESIS_ARCHITECTURE.md
 supersedes: []
 superseded_by: []
@@ -31,7 +31,7 @@ No actual chapter structure, cast, thematic thesis or developmental arc is assum
 | `TDH_LONGITUDINAL_NOTEBOOK.md` | Cross-unit state, claim history, form/register retrieval and readiness, in separate typed sections | Required now; no analytical observations |
 | `readings/TDH_U<ordinal>_DEEP_READING.md` | Full source-facing argument for a mapped unit, with coverage receipt and ledger transaction | Future authorized reading only; no empty folder |
 | `checkpoints/TDH_<boundary>_CHECKPOINT.md` | Frozen state at a genuine pause or major interpretive boundary | Only if a multi-session boundary needs durable freeze; no arbitrary unit quota |
-| `studies/TDH_<subject>_<scope>_MONOGRAPH.md` | A sustained character or relationship question, integrating evidence rather than repeating chronology | Earned by an independent question and evidence across contexts |
+| `studies/TDH_<subject>_<scope>_MONOGRAPH.md` | A sustained character or relationship question, integrating evidence rather than repeating chronology | Earned by an independent question and evidence across contexts; an individual character qualifies under initiation §5.5.1 instead (see §8.1) |
 | `studies/TDH_<question>_STUDY.md` | A formal, linguistic or thematic question not adequately answered by the integrated reading | Optional, evidence-earned, one primary question per home |
 | `synthesis/TDH_NOVEL_SYNTHESIS.md` | Continuous argument about the whole admitted novel, integrating causality, perspective, form, character and counterreadings | Mandatory eventual destination after completion audit |
 | `audits/TDH_<boundary>_AUDIT.md` | Coverage, unresolved claims, authority and retrieval checks; full handoff inventory when transferring work | At an actual milestone, not empty day-one apparatus |
@@ -64,7 +64,7 @@ States and claims are append-only transitions. A mutable current view can point 
 
 ## 5. Character and reconstruction pathway
 
-Character and relationship analysis is a central responsibility even if no independent monograph is earned. A monograph needs a sustained question supported by distinct contexts, temporal transitions and counterevidence; length or protagonist status alone is insufficient. It integrates psychology, action, language, relations, form and function. It cites exact claims/locators and cannot substitute broad reading-file links for evidence.
+Character and relationship analysis is a central responsibility even if no independent monograph is earned. A relationship or specialist monograph needs a sustained question supported by distinct contexts, temporal transitions and counterevidence; length or protagonist status alone is insufficient. An individual character monograph is decided by initiation §5.5.1 qualification instead, as §8.1 records. It integrates psychology, action, language, relations, form and function. It cites exact claims/locators and cannot substitute broad reading-file links for evidence.
 
 Reconstruction is downstream and optional per subject, not an automatic deliverable. Use the [generic reconstruction method](../../governance/analytical-methods/GENERIC_CHARACTER_RECONSTRUCTION_METHOD.md): preserve named identity, validity period, knowledge limits, interlocutor-conditioned behavior/register, values in conflict, everyday repertoire, unstable contexts, contradictions and negative constraints. Mark insufficient coverage rather than inventing a personality. Sparse evidence in a standalone work may justify only a narrow contextual model or no usable model at all.
 
@@ -137,7 +137,7 @@ A future run owner coordinates source admission, review and publication; a reade
 
 **Prior parametric exposure.** Every participant is a large language model instance. This is a published and widely discussed novel, so participants may carry training-derived familiarity with its premise, plot or ending. That familiarity is quarantined under method §2: it supplies no evidence, removes no uncertainty and earns no blindness credit for forecasts. Prospective forecasts are still recorded, as disciplined statements of what the admitted text supports at the frontier, but they are labeled `PRIOR_EXPOSURE_POSSIBLE` and are not treated as evidence of naive prediction. Participants report any explicit recognition.
 
-**Reduced configuration.** No narrative unit is pre-designated eligible. A unit may combine B and C, or C and D, only under topology §4.1.2 with a reason recorded in its transaction. A reading never has fewer than A plus one genuinely independent, source-aware participant who both contributes and reviews. Front- and end-paratext dispositions are not substantive readings.
+**Reduced configuration.** No narrative unit is pre-designated eligible. A unit may combine B and C, or C and D, only under topology §4.1.2 with a reason recorded in its transaction. For run `TDH-RUN-20261116-U01-U15`, the [owner authorization](CURRENT_STATE_AND_CORPUS_MAP.md#owner-run-authorization) requires reviewer D to be distinct from the principal and the specialists, so combining C and D in that run needs a further owner authorization. A reading never has fewer than A plus one genuinely independent, source-aware participant who both contributes and reviews. Front- and end-paratext dispositions are not substantive readings.
 
 **Durable record.** Each reading carries a *Multi-agent participation and reconciliation* section inside its transaction. It records each participant's assignment, exposure boundary, inspected material, significant findings with locators, and A's per-finding disposition (`ADOPTED`, `QUALIFIED`, `REJECTED` or `OPEN`, plus the claim-transition vocabulary where a claim changes). The notebook transaction row summarizes participation. There are no per-agent files and no competing readings. Private reports and transcripts stay in the working plane.
 
