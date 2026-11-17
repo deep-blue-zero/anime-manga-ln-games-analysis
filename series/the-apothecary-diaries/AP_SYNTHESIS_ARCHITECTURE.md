@@ -2,7 +2,7 @@
 title: "The Apothecary Diaries — Synthesis Architecture"
 artifact_id: AP_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: AP-INITIAL
 authority_scope: "INITIAL bootstrap method, architecture, and administrative metadata only; no literary findings"
 source_boundary: "Metadata reconnaissance: Japanese volumes 01–16 and separate simplified Chinese volume 15; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-13
+last_updated: 2026-11-17
 architecture_lifecycle: INITIAL
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 ---
@@ -92,6 +92,14 @@ The owner-authorized run determines its start, terminal unit, checkpoint rhythm 
 
 Sequential closure is source-facing completion at that boundary. It is not proof that all synthesis roles have been filled. Detailed readings remain available for later specialists even where checkpoint prose summarizes a result.
 
+### 5.1 Independent reading of a Japanese volume
+
+Before a separately authorized volume, the principal binds its Japanese witness and disclosure frontier, freezes any prospective expectations and verifies each participant’s access to the assigned passages and their locators. All participants disclose prior exposure. The Japanese and simplified Chinese V15 require separate witness keys even where their UUIDs match. The principal reads all admitted components, accounts separately for text, original illustrations and paratext, and integrates the full reading and its ledger transaction.
+
+An independent specialist reads original Japanese before receiving the principal’s interpretation. Reconstruct how a practical explanation arises from observation, testimony or a character’s conjecture. Test a rival mechanism against what the speaker and listener could know or do then. Where ambiguous Japanese subjects, register or an ordinary exchange bear on that account, trace who addressed whom and what response followed. A distinct reviewer independently selects decisive and contrary passages, preferably before seeing the candidate, then tests attribution, omitted causal steps and whether alternatives survived in the serial and character registers. Use a verified still-image route for any claim that depends on an illustration.
+
+The principal preserves each material observation, locator, rival, reviewer finding and reason for adoption, qualification, rejection or deferral in the full reading or its linked `AP-TX` transaction. Retain unresolved disputes and identify any affected claim version or revision. The principal alone updates cumulative state. Select reasoning by responsibility from section 11’s reading class and escalate material ambiguity. If independent contexts or required evidence are unavailable, record the blocker at the entrypoint and hold acceptance and frontier advance. The normal volume has separate principal, specialist and reviewer. Any combined specialist/reviewer for an unusually bounded unit must meet and document [topology section 4.1](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading). G7 governs the later convergence of retrospective studies.
+
 ## 6. Time, knowledge and continuity
 
 The state vector is `{witness/edition, admitted frontier, disclosure position, story-time constraints, focalization, subject knowledge, reader knowledge, physical/affective condition, role, resources, directed relationships}`. Unknown fields stay unknown. “Same person” and “same event” links must be source-supported; no title familiarity fills them.
@@ -112,7 +120,7 @@ No summary, schema, table or reconstruction policy may replace the full account 
 
 ## 8. Monographs and specialists
 
-A character monograph begins when enough admitted evidence spans meaningful situations, knowledge states, relationships and low-stakes contexts to support a coherent question. Frequency of appearance alone is insufficient. It integrates narrative presentation, behavior, motive alternatives, development, language and literary function; it does not merely print the character ledger.
+At G5, assess every person for whom the readings or cumulative state support a differentiated portrait, including evidence concentrated within one volume. In the character ledger, record identity, boundary, qualification outcome and rationale, gaps, reassessment trigger and the real path when available. A qualified portrait is due in the character stage. Check it independently for self-containment and fidelity under [initiation section 5.5.1](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard). Reassess material new evidence and carry pending portraits to G8 and release. Frequency of appearance alone is insufficient. The monograph integrates narrative presentation, behavior, motive alternatives, development, language and literary function; it does not merely print the character ledger.
 
 A directed relationship study is warranted when reciprocal/asymmetric development, institutional constraints or persistent interpretive conflict cannot be adequately owned by either subject monograph. Its scope must identify both directions and surrounding relations, not assume symmetrical affection or trust.
 
@@ -196,3 +204,4 @@ A future architecture review should test these responsibilities against actual e
 ## Prospective amendment record
 
 - **2026-11-13 — v1.1:** Linked the initiation-policy §5.3 current-unit story synopsis to the local method for future eligible Japanese prose readings. Existing analytical responsibilities, witness distinctions, INITIAL lifecycle and CLOSED authorization boundary remain unchanged.
+- **2026-11-17 — v1.2.** Added the standing volume-reading configuration, transaction receipt and person-level qualification route.
