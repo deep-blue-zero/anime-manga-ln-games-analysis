@@ -841,7 +841,7 @@ Each `YURUCAMP_VXX_DEEP_READING.md` should use approximately this structure:
 
 1. Metadata and source identity
 2. Spoiler boundary
-3. Volume reconstruction
+3. Current-unit story synopsis and volume reconstruction
 4. Chapter-by-chapter observations
 5. Character baselines and deltas
 6. Relationship-state updates
@@ -864,6 +864,8 @@ Each `YURUCAMP_VXX_DEEP_READING.md` should use approximately this structure:
 23. Cumulative-state updates
 24. Open questions carried forward
 25. [Participation and reconciliation](YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md#independent-reading-of-ordinary-practice) with each assignment and horizon, actual pages, diagnostic observations, reviewer challenges, principal dispositions and links to affected cumulative records
+
+For a newly authorized narrative volume, open item 3 with a clearly labeled **Current-unit story synopsis** after the source and spoiler boundary and before chapter observations. Use Pass A to tell the opening situation, who is involved, what matters to them, and how choices, routes, practical setbacks, discoveries or invitations shape the ending. Preserve a small change in a plan or an ordinary routine when that is the consequential turn. Distinguish a proposed trip or a person’s account from a journey the pages show. Anchor material events to chapter and page-image locators and state what remains unresolved. Finalize the synopsis after the applicable prospective captures freeze. Keep it within this volume’s disclosure frontier and withhold it from earlier-horizon readers under [initiation §5.3](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#53-sequential-reading-contract).
 
 Not every section must be equally long.
 
