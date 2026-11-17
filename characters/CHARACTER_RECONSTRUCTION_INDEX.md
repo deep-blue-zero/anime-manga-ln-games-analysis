@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 156; `STALE` 1; `SUPERSEDED` 33
+- Recorded totals: `CANDIDATE` 155; `STALE` 2; `SUPERSEDED` 33
 
 ## Namespaces
 
@@ -185,7 +185,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `re-zero:otto-suwen@light-novel` | [`re-zero-otto-suwen-ln-v01-v13-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-otto-suwen-ln-v01-v13-model-20261024-01) | `CANDIDATE` | `C` | `38cb5cbdb32ef77596f93b4d2c5c7ee1609ca357` |
 | `re-zero:petra-leyte@light-novel` | [`re-zero-petra-leyte-ln-v01-v21-model-20261101-01`](reconstruction_index/re-zero.md#re-zero-petra-leyte-ln-v01-v21-model-20261101-01) | `CANDIDATE` | `C` | `194d0d5dbbc09d4cf22ede0af6a2789adf3a8a17` |
 | `re-zero:priscilla-barielle@light-novel` | [`re-zero-priscilla-barielle-ln-v01-v18-model-20261028-01`](reconstruction_index/re-zero.md#re-zero-priscilla-barielle-ln-v01-v18-model-20261028-01) | `CANDIDATE` | `C` | `2c4dee68a5be9dd7a4f14ec83028b9a9c4a6f83e` |
-| `re-zero:ram@light-novel` | [`re-zero-ram-ln-v01-v15-model-20261029-01`](reconstruction_index/re-zero.md#re-zero-ram-ln-v01-v15-model-20261029-01) | `CANDIDATE` | `C` | `057a9b65f94da293f9eda5a5cefd11568839a094` |
+| `re-zero:ram@light-novel` | [`re-zero-ram-ln-v01-v15-model-20261029-01`](reconstruction_index/re-zero.md#re-zero-ram-ln-v01-v15-model-20261029-01) | `STALE` | `C` | `057a9b65f94da293f9eda5a5cefd11568839a094` |
 | `re-zero:reala-thompson@light-novel` | [`re-zero-reala-thompson-ln-v01-v21-model-20261102-01`](reconstruction_index/re-zero.md#re-zero-reala-thompson-ln-v01-v21-model-20261102-01) | `CANDIDATE` | `C` | `1e97b80e68c064c65263e1f3322b4544ee499500` |
 | `re-zero:regulus-corneas@light-novel` | [`re-zero-regulus-corneas-ln-v01-v19-model-20261027-01`](reconstruction_index/re-zero.md#re-zero-regulus-corneas-ln-v01-v19-model-20261027-01) | `CANDIDATE` | `C` | `70efdcaf6ace3fd53fd94fb9c082c4abe9808fd1` |
 | `re-zero:reid-astrea@light-novel` | [`re-zero-reid-astrea-ln-v22-v24-manifested-model-20261107-01`](reconstruction_index/re-zero.md#re-zero-reid-astrea-ln-v22-v24-manifested-model-20261107-01) | `CANDIDATE` | `C` | `141711495d1fc86a86c6db882e6e734ad9efc91e` |
