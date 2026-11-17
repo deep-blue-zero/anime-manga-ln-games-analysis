@@ -1,0 +1,314 @@
+{
+  "schema": "KONOSUBA_MAIN14_EXCLUDED_CURRENT_PRECISION_V1",
+  "source_id": "MAIN-14",
+  "findings": [
+    {
+      "id": "M14EX-Q01",
+      "topic": "Exact source and reception",
+      "current_qualification": "Local MAIN14 EPUB2839172B/SHA33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463; all18 newly admitted resources129P with ruby/residuals and29native images actually received before seal8a74e0eaa1b438a665398333247bfaa029a5c09b29a08c1464e72ad0c8dbcdae. Eight accepted principal members2691P remain exact; new principal-pass credit0.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q02",
+      "topic": "Partition and source planes",
+      "current_qualification": "26resources:18new129P/8retained2691P. New material is57P electronic bonus,22P author afterword and50other title/rights/contents/bonus-heading/credit/colophon slots. Cover/profile/montage/banner/decorative art, contributor imagination and NEXT15 keep separate planes.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q03",
+      "topic": "Retained receiving scope",
+      "current_qualification": "All eight retained principal units were actually re-received completely at BASE-TEXT scope2691P for current attribution/chronology precision. This does not claim fresh retained ruby/residual reception, a new whole-EPUB read, independent validation or a new principal pass. Original principal authority and uncoded new-resource notes remain exact.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q04",
+      "topic": "Bonus chronology",
+      "current_qualification": "The bonus explicitly uses the pot at Megumin's village home. Its exact placement among retained chapters is not fixed. LaterC4P624/627 reports planting in the home garden; do not grant that later completion, trial qualification, final relationships or chief office to an earlier bonus choice.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q05",
+      "topic": "Historical notes and current corrections",
+      "current_qualification": "Initial image guesses are preserved verbatim as uncoded history. Current source-specific corrections in this report/qualifications control usage; they neither rewrite the old seal nor turn corrected art into a second event.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q06",
+      "topic": "Care versus goodness",
+      "current_qualification": "Aqua really waters the plantP6 and returns holding proposed waterP42. Her good-nature guaranteeP7 is a separate judgment. Kazuma's real private evidence of rudeness does not settle the plant's innate moral nature, survival needs or all monster upbringing.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q07",
+      "topic": "Yunyun's actual new choices",
+      "current_qualification": "Yunyun asserts an environmental accountP1, receives a graspP11 and declares care/adoption/future successionP12. The declaration is a real choice, while completed adoption, governance, breeding policy and permanent conduct are unperformed. Her departure after a help request can be uptake; her individual fertilizer work is not separately narrated.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q08",
+      "topic": "Private speech and recipient access",
+      "current_qualification": "Kazuma and the reader actually receive the rude utteranceP19 and tongue clickP25. Darkness arrivesP27; others have leftP15, returnP36, and Aqua arrivesP42. Their disbelief is not knowingly rejecting an observation they witnessed.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q09",
+      "topic": "Rude performance and inner state",
+      "current_qualification": "The plant's apparently innocent gigglingP23 and later frightened soundP56 are actual narrated performances. Strategic concealment is a reasonable interpretation, but omniscient motive, universal evil and a demonstrated language-development law are not supplied.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q10",
+      "topic": "Disposal and intervention",
+      "current_qualification": "Kazuma's uproot/burn demandP28 is a real threatened harmful act. Darkness stops it and he abandons this disposalP30. No burning, injury, later renewed disposal attempt or completed transplant is shown in the bonus.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q11",
+      "topic": "Darkness's developmental account",
+      "current_qualification": "Her young-seedling/human-infant analogyP32 is her available explanation, not authoritative fantasy biology. Her practical inquiry and timely protection can coexist with a mistaken analogy and a concern for Aqua's attachment.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q12",
+      "topic": "Untyped naming proposal",
+      "current_qualification": "P35's hesitant Shiro suggestion is untagged; shyness alone does not name Yunyun. No completed renaming is shown. The retained actual name atC1P149 isデッドスクリーム・ブラッディマリー.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q13",
+      "topic": "Untyped biological explanation",
+      "current_qualification": "P34/35/39 remain untagged. The polite biological objection atP39 cannot be assigned to Yunyun or Megumin by morphology alone. Returned vegetable scraps are held by MeguminP36, but the biology claim is still not a checked fact.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q14",
+      "topic": "Aqua's sympathy and hospital whisper",
+      "current_qualification": "Aqua's shoulder touch/rest adviceP44-45 and the group's hospital/oddness wordsP48 are actual. They establish neither a diagnosis, medical efficacy, actual referral/clinic visit nor that Kazuma imagined the plant speech.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q15",
+      "topic": "Komekko and the coda",
+      "current_qualification": "The child asksP51, calls the plant appetizingP55 and elicits its frightened responseP56. There is no eating or injury. Kazuma's universal children-are-cruel codaP57 is his amplified evaluation, not a general child model; all child analysis remains age appropriate/nonsexual.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q16",
+      "topic": "Creator work and dependence",
+      "current_qualification": "AfterwordP4-7 is an attributed report/self-own about commuting and work;P18 acknowledges late manuscript pressure on the illustrator. Creator conduct is separate from Kazuma, and the editor/illustrator retain their own labor and constraints.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q17",
+      "topic": "Creator rivalry interpretation",
+      "current_qualification": "AfterwordP8-9 describes an eternal-rivals concept and qualifies future expectation. It is interpretive evidence, not a new Yunyun/Megumin action, a settled future outcome or a guarantee of a romantic pairing.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q18",
+      "topic": "Tone and historical promotion",
+      "current_qualification": "AfterwordP10-12 raises stakes then promises a light experience. It does not erase real harm/failure. P14 advertises an unread collaboration;P15 records a contemporary-to-edition film announcement. Neither is a claim about present release status or automatic admission of another source.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q19",
+      "topic": "Edition date and wrappers",
+      "current_qualification": "The supplied electronic issue and print-basis first issue are2018-07-01/copyright2018. Textual/raster contents and retailer branding are locators/paratext, not new enacted episodes or a narrative completion denominator.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q20",
+      "topic": "Dependent cover and montage",
+      "current_qualification": "IMG029/001 cover/crop and IMG002 quote montage depend on existing characters/scenes. Montage joins include YC1P36,KC1P37,MC3P305,AqC3P35,DC2P571. Repetition does not create new choice/test counts.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q21",
+      "topic": "Decorative and editorial art",
+      "current_qualification": "IMG004Darkness/005Megumin vacation art is decorative, not a newly enacted holiday. IMG008 editorial profiles and chibis are not behavioral trials, and summary hyperbole cannot silently supply a precise trait law.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q22",
+      "topic": "IMG011 correction",
+      "current_qualification": "The initial Yunyun guess is withdrawn. RetainedC1P358-373 supports Kazuma/Nerimaki tavern context; image insertion atP387 is not the exact pictured utterance. No new Yunyun trial is earned from the illustration.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q23",
+      "topic": "IMG013 correction",
+      "current_qualification": "Upper Yunyun/stone supply corresponds toC2P109-125. Lower foreground is Megumin's gloved hand/staff, not a newly identified golem/unknown attack. No extra restraint or damage is inferred.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q24",
+      "topic": "IMG014 and recipient scope",
+      "current_qualification": "Mother-imposed Sleep/unauthorized clothing removal and actual objections remain harmful starts; later particular chosen closeness does not authorize them retrospectively. Darkness initially resists Sleep/ParalyzeC2P255-266 and later reports neutralizationP468. Keep all discussion non-graphic; no completed sexual act is asserted.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q25",
+      "topic": "IMG016 correction",
+      "current_qualification": "The earlier knife inference is withdrawn. The hand/collar/hair/clothing/armor detail does not establish a weapon in Darkness's date sceneC3P79-110; no knife use or injury is counted.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q26",
+      "topic": "IMG017 correction",
+      "current_qualification": "Native art andC3P382-388 support Darkness/Aqua kicking Aigis after Kazuma exposes his deception. The initial fist/punch gloss is superseded. His undressing proposal was not performed and never became blanket permission.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q27",
+      "topic": "IMG020 and IMG021 joins",
+      "current_qualification": "IMG020 depicts the shared K/M goal-resolution contextC4P296-307, despite insertion nearP315; no duplicate event or literal fist contact is added. IMG021 supports Yunyun's return/declarationP638-669, not a completed demon-king defeat.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q28",
+      "topic": "IMG023 Serena identity",
+      "current_qualification": "FinalP30-48 identifies Serena; EpP83 directly admits Celesdina as an alias. Serena/Celesdina is distinct from Sena. Native name/scene control the image join.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q29",
+      "topic": "IMG024 correction and Luna exclusion",
+      "current_qualification": "The presumed Darkness figure is withdrawn; the art/source supports an unnamed guild employee restraining Aqua during the final bar disturbance, especiallyP381. Job and appearance do not securely identify Luna. Do not assume every earlier departing actor returned off-page.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q30",
+      "topic": "Contributor and NEXT15 limits",
+      "current_qualification": "IMG026 explicitly depicts Nerimaki's imagined M/Y pairing and contributor framing, not enacted intimacy. IMG027 is a staged NEXT15 script with repeated demon-army-executive correction. Neither supplies a new canonical event or admits MAIN15 excluded material.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q31",
+      "topic": "Unjoined maid figure",
+      "current_qualification": "IMG003/012's unlabelled pointed-ear maid chibi remains unjoined after the complete principal base-text recheck. Preserve a decorative unidentified figure; do not manufacture a named actor, hidden story or negative evidence about absent secondary characters.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q32",
+      "topic": "Yunyun retained agency",
+      "current_qualification": "Her own chief/public-order goalC1P40/qualification46, anti-cheat refusalI13P5, newly learned device blockP61, affiliation diversionP64-68, actual card requestC4P542-551, protestP596 and return/goalP646/649 remain real. Qualification is not present chief office; hypothetical many-friends substitutionP663 is not actual abandonment. These are retained history, not fresh SY cases.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q33",
+      "topic": "Crimson village actors",
+      "current_qualification": "Nerimaki selfnamesC1P358 and bargains for news/service; her M/Y fantasyP370 is hers. Funifura/Dodonko are corrected identitiesP174; Megumin's wrong Sakiberry/Nerimaki labelsP173 do not create another enacted Sakiberry. Yunyun's unnamed father/current chief is distinct from Hyoizaburoo; actual anger/spell/punchC4P61-76 do not prove permanent family values.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q34",
+      "topic": "Komekko and adults' separate agency",
+      "current_qualification": "Komekko's gift/tea/food choicesC1P261-277 and sleeping-child pickup wishC4P91 remain actual. Yuiyui's remittance/debt reports and imposed methods retain their own evidentiary plane. Bukkorori's guessed slang teaching is not confirmed; his real protective work, harmful acts and errors are not collapsed into a NEET label. Soketto's staged ritual and escape excuse differ from omniscient prophecy.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q35",
+      "topic": "Aigis and Mitsurugi",
+      "current_qualification": "Aigis's actual veto/deception/admission and boundary-directed reactions remain distinct. Mitsurugi really appearsC3P49 and warnsP69; his Eris-dream/allotmentP62 is a report, not a new directly observed Eris choice or a new independent allotment event.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q36",
+      "topic": "Kazuma and Megumin retained battle",
+      "current_qualification": "Kazuma's actual freeze/cloak/Bind adaptation is followed by an actual failed ice-blade technique. Megumin's real safety conditions, refusal to abandon and bodily protection coexist with harmful behavior elsewhere. Her final Explosion/narrated destruction and later kill-card display are not erased into an unknown outcome, but no unshown Aqua heal or permanent death check is invented.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q37",
+      "topic": "Moguninnin scope",
+      "current_qualification": "The observed robot body, target classifier, particular magic/property block and later physical harm have specific conditions. A damaged component and actual destruction do not reveal omniscient creator purpose or a species-wide personality. Functional agency can earn bounded analysis without being projected onto every robot.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q38",
+      "topic": "Plant continuity and settlement",
+      "current_qualification": "The village seedling is the same named dependent, distinct from the former forest Anraku Queen. C4P624/627 is Aqua's later report of planting in Megumin's garden;P630 reports a child-care pact. Food motives inferred by Megumin do not establish actual eating. The bonus's unfinished planting is not silently reset.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q39",
+      "topic": "Serena and Dust event deduplication",
+      "current_qualification": "The service episode includes Serena's actual buff, strange bodies ignoring Aqua, Serena's voiced spell and their collapse; full causal mechanism is not established here. Dust's initial preferenceP126 and reversalP252 are real; monetary motiveP255 is Kazuma's inference. Dust05/Main14 viewpoints of the same event count once.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q40",
+      "topic": "Aqua retained errors and correction",
+      "current_qualification": "The cemetery episode's actual failure remains adverse to infallibility; later support, real mushroom act, apology/queue complianceP335-336 and actual self-healP368 prevent a global incompetence or uncorrectability label. K's never-clinic rhetoric is scoped; fictional efficacy/resistance is not real-world medicine.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q41",
+      "topic": "Wiz and Vanir retained bounds",
+      "current_qualification": "Wiz identifies Serena/Celesdina, experiences harmful Heal and reacts. Vanir's claimed earlier burning is report, not a newly watched burn/life decrement. His coercive sale/payment is actual, while untested medical artifact claims, unlimited foresight and complete unseen settlement are not established.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q42",
+      "topic": "Formal comparisons and frozen fields",
+      "current_qualification": "39exact unchanged main/party predicates receive5narrow source-local compatibilities(A01,D01,D06,E05,E07),2partials(K07,E01) and32full-guardNT. Four typed diagnostics are not behavioral scores. Seven Iris NT and seven Yunyun unscored rows, including2explicit near cases, preserve all28original null fields; Yunyun has real new choices but0established full-rule cases.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q43",
+      "topic": "Qualified census continuity",
+      "current_qualification": "Private W20 contains85qualified working rows, including grouped/unnamed unresolved boundaries; it is not a final individual denominator. Next revision must correct the Bridol-king child-for-money sentence: the king proposes, Dust refuses. MAIN14's Nerimaki/Moguninnin/unnamed-chief/plant/Serena and others require source-backed disposition; the unjoined maid and unlabelled guild staff do not earn invented identities.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    },
+    {
+      "id": "M14EX-Q44",
+      "topic": "Remaining program boundary",
+      "current_qualification": "MAIN14 publication requires exact candidate review/preflight, ordinary push/readback, source audit, completed housekeeping, final actual-source audit/status and fresh published-authority reload. MAIN15-17 excluded components remain unadmitted. Full secondary census/earned artifacts, expanded synthesis, versioned principal-party-transfer models, curation/integration/release remain required; global narrative completion is null.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T19:14:12.050115+00:00"
+    }
+  ]
+}

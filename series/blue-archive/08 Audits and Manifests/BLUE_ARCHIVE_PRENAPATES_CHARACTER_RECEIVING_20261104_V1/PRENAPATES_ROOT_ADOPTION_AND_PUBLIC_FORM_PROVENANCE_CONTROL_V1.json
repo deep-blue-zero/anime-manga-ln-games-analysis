@@ -1,0 +1,1291 @@
+{
+  "schema": "BLUE_ARCHIVE_CHARACTER_PUBLIC_FORM_FULL_DATED_MEANING_AND_PROVENANCE_V1",
+  "artifact_id": "P3-CHAR-M029",
+  "subject": "Prenapates",
+  "generation": "V2",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "scope": "Existing home23/P3-CHAR-M029/P3-M029/A201same duty;V100;notnamed; distinct from current Sensei.",
+  "lifecycle_state": "CURRENT_ELIGIBLE_METADATA_DERIVATIVE_20261104_PENDING_DIFFERENT_METADATA_QA_AND_ROOT_ADOPTION",
+  "composer": "/root/ayame_p015_correction_plan",
+  "composer_role": "Former distinct finite plan reviewer now public-form composer; no Prenapates underlying source course or literary-body approval; not future different public QA or Root adopter.",
+  "rights_and_class": "Project-authored analytical/provenance/navigation text and bounded existing maintained-analysis warrants; no new primary/native/raw/AV/source-media rights. Source copies/helpers/execution queues/inverses remain private.",
+  "role": "ROOT",
+  "class_need_before_size": "Complete actual readiness/privatebody/finiteplan/prepared-public6 adoption and explicit metadata commission, with old pending events retained as dated history; actual derivative adoption remains pending.",
+  "current_components": [
+    {
+      "role": "BODY",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+      "bytes": 15050,
+      "sha256": "2e0dcce5c5be1996b79c8d9db3f56d006a9d5735861e1c9d4378b5408f5902b0",
+      "kind": "CURRENT_GENERATED_COMPONENT_BYTES_ONLY;not dated locator navigation"
+    },
+    {
+      "role": "SOURCE",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "bytes": 187504,
+      "sha256": "4137e2c2da5e11df686c3ca195945e13692e63f7ca20a774c593c366604afac5",
+      "kind": "CURRENT_GENERATED_COMPONENT_BYTES_ONLY;not dated locator navigation"
+    },
+    {
+      "role": "AUTHOR",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "bytes": 428528,
+      "sha256": "d6d152749580dd0814cae9f603247b1238db9da3d6a6d43bf49397a369a36e59",
+      "kind": "CURRENT_GENERATED_COMPONENT_BYTES_ONLY;not dated locator navigation"
+    },
+    {
+      "role": "PEER",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "bytes": 366307,
+      "sha256": "c34c50213d3dedf2e138d3e46cc64f36d7d9905ae5d448776f3893210afd5487",
+      "kind": "CURRENT_GENERATED_COMPONENT_BYTES_ONLY;not dated locator navigation"
+    }
+  ],
+  "dated_records": {
+    "R01": {
+      "record_id": "R01",
+      "original_role": "ROOT",
+      "original_actor_fields": {
+        "actor": "/root"
+      },
+      "original_date_fields": {
+        "UTC": "2026-11-04T13:58:51.260Z"
+      },
+      "original_file": {
+        "filename": "ROOT_ACTUAL_PRENAPATES_M029_NINE_FULL_NORMATIVE_MEANINGS_OWN333_SOURCE_AND_SIX_READINESS_ADOPTION_REASONS_WITH_LIMITS_V1.json",
+        "bytes": 18749,
+        "sha256": "e6ce4c28f6ecc06e3a5a1115c1576ac2c0600ac416c20fce9ed496bc5ec9e902"
+      },
+      "original_whole_typed_sha256": "8fa9f2d1aee0b78ea902a650542d0854e3a5226db042ccf469dcfbd81af7020c",
+      "projected_whole_typed_sha256": "0a705f8b47b6cf8af8dcd362c0b4a422ddd6c304384efccd88b4462b3c419ef3",
+      "retention_scope": "Whole original intellectual value; original dated meanings, reader/course and approvals remain attributed.",
+      "original_value": {
+        "schema": "root-prenapates-m029-actual-complete-normative-own333-readiness-adoption/v1",
+        "UTC": "2026-11-04T13:58:51.260Z",
+        "actor": "/root",
+        "decision": "BOUNDED_CHARACTER_BODY_READINESS_ACCEPTED_WITH_LIMITS_ONLY;SEPARATE_BODY_COMMISSION_PERMITTED",
+        "required_home": "23/P3-CHAR-M029/P3-M029",
+        "boundary": "V100;notnamed;A201routeissameduty",
+        "before_source_prospective": {
+          "file": "ROOT_SIX_PROSPECTIVE_PRENAPATES_QUESTIONS_AND_PRIOR_METADATA_GRADE_BEFORE_NEW_CONSEQUENTIAL_SOURCE_RECEIVING_V1.json",
+          "bytes": 2135,
+          "sha256": "2148cab79b6582a7dd6967b5870d76590cb303e0a317c395b3ee3304b496d4ac"
+        },
+        "actual_Root_complete_normative_receiving": [
+          {
+            "path": "DATED-LOCATOR-0A8377F314BE9345",
+            "bytes": 18317,
+            "sha256": "75b10d2e5e28456c5817cd9b1ea41d740dd5cfbe45f0f25c2d73d41839b96850",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-6E333D0D5D536C05",
+            "bytes": 12368,
+            "sha256": "316f5d82564cfb6c84007875f1d275c3a72a50c7aaef91359696cf53e103da4c",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-09079D5D82F02E25",
+            "bytes": 12930,
+            "sha256": "f1888c226773df5df043b7c8ce3462625e3e9ac54b2294ca731a24c7728a392a",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-940C59CE86B4B03D",
+            "bytes": 5558,
+            "sha256": "8c415a1ea58e319c7645079dc2ba1edbbfd825314f983b28c7b7398b5012c2dc",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-CB6D1F8076E7A80B",
+            "bytes": 9406,
+            "sha256": "93b83697bcdb8a5e866524163ff68d53f7bf397dbabc3a3c2ef805fb6ecb8695",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-94DA9D27C10E02D8",
+            "bytes": 5205,
+            "sha256": "b3c863ad819af72aaea74fe41ef6d0674dd915257df1fe27999dcee0f1d49b85",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-D958F8EC52B93354",
+            "bytes": 6946,
+            "sha256": "a210561dc652ccb235e36b12f9c27ba65c52c48ed3ebd5ff8840b8c9782402fe",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-952B506E6A72482F",
+            "bytes": 17650,
+            "sha256": "65c7dc608e5baaa894bb5f8eb2173bc1ff2454dfd661a899bda4f6ab370869cc",
+            "actual_complete_meanings_received_by_Root": true
+          },
+          {
+            "path": "DATED-LOCATOR-210DACDDF6FDCDD7",
+            "bytes": 3818,
+            "sha256": "1effb1479723c06a01a7ce1fa4c82be88eb7639ac37fa1f76b5096eaf9da2df8",
+            "actual_complete_meanings_received_by_Root": true
+          }
+        ],
+        "actual_Root_source_course": [
+          {
+            "owner": "V100",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "C_path": "DATED-LOCATOR-B41E912AE63BDD7E",
+            "bytes": 49292,
+            "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+            "git_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622",
+            "planned_Root_actual_ranges": [
+              [
+                117,
+                175
+              ],
+              [
+                233,
+                251
+              ],
+              [
+                288,
+                292
+              ]
+            ],
+            "planned_Root_physical_addresses": 83,
+            "grade_if_actually_read": "SELECTED83_MAINTAINED",
+            "actual_grade": "ROOT_OWN_SELECTED83_MAINTAINED",
+            "actual_received": true,
+            "selected_lines_UTF8_sha256": "92b69c561142cf132719f0115468488ebca255b6569077fc72933d4a164269de"
+          },
+          {
+            "owner": "C004",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+            "C_path": "DATED-LOCATOR-0F49FB5F1CF60791",
+            "bytes": 12691,
+            "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+            "git_blob_oid": "d5fb4ba7e17b370de02541446f82ce4bdedd82e1",
+            "planned_Root_actual_ranges": [
+              [
+                1,
+                60
+              ]
+            ],
+            "planned_Root_physical_addresses": 60,
+            "grade_if_actually_read": "WHOLE_SHORT_MAINTAINED_CHECKPOINT_OR_EPISODE",
+            "actual_grade": "ROOT_OWN_WHOLE_SHORT_MAINTAINED",
+            "actual_received": true,
+            "selected_lines_UTF8_sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef"
+          },
+          {
+            "owner": "E008",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E008_DEEP_READING.md",
+            "C_path": "DATED-LOCATOR-B7E4456A71808DCA",
+            "bytes": 5803,
+            "sha256": "0bc61d26f72c33d5958e9059c3b7e2612bff08b57839afeb4b8a213e6f0b4938",
+            "git_blob_oid": "93b04ad3521926b7f8da642a883000eff808fcb9",
+            "planned_Root_actual_ranges": [
+              [
+                1,
+                38
+              ]
+            ],
+            "planned_Root_physical_addresses": 38,
+            "grade_if_actually_read": "WHOLE_SHORT_MAINTAINED_CHECKPOINT_OR_EPISODE",
+            "actual_grade": "ROOT_OWN_WHOLE_SHORT_MAINTAINED",
+            "actual_received": true,
+            "selected_lines_UTF8_sha256": "0bc61d26f72c33d5958e9059c3b7e2612bff08b57839afeb4b8a213e6f0b4938"
+          },
+          {
+            "owner": "C003",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+            "C_path": "DATED-LOCATOR-1F817D2CA5827D9A",
+            "bytes": 14443,
+            "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+            "git_blob_oid": "b385f8886700fb4470840306ecb05fdffb9275d2",
+            "planned_Root_actual_ranges": [
+              [
+                1,
+                76
+              ]
+            ],
+            "planned_Root_physical_addresses": 76,
+            "grade_if_actually_read": "WHOLE_SHORT_MAINTAINED_CHECKPOINT_OR_EPISODE",
+            "actual_grade": "ROOT_OWN_WHOLE_SHORT_MAINTAINED",
+            "actual_received": true,
+            "selected_lines_UTF8_sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50"
+          },
+          {
+            "owner": "E007",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E007_DEEP_READING.md",
+            "C_path": "DATED-LOCATOR-5161586488C0EA59",
+            "bytes": 5774,
+            "sha256": "704902f8babcc49f7cd28a71931d0fce99a71a833114b583209fc609e11fdb74",
+            "git_blob_oid": "bd7f2392ec845b5bc2494dcca631feea171fae7b",
+            "planned_Root_actual_ranges": [
+              [
+                1,
+                36
+              ]
+            ],
+            "planned_Root_physical_addresses": 36,
+            "grade_if_actually_read": "WHOLE_SHORT_MAINTAINED_CHECKPOINT_OR_EPISODE",
+            "actual_grade": "ROOT_OWN_WHOLE_SHORT_MAINTAINED",
+            "actual_received": true,
+            "selected_lines_UTF8_sha256": "704902f8babcc49f7cd28a71931d0fce99a71a833114b583209fc609e11fdb74"
+          },
+          {
+            "owner": "E006",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E006_DEEP_READING.md",
+            "C_path": "DATED-LOCATOR-963697C64AC02209",
+            "bytes": 6405,
+            "sha256": "2d0ea8b7769611b6fffecaa2411bb4f1843af5bb70e507e10960d48e7b5a3e9b",
+            "git_blob_oid": "49d860d9fe51d2e41d080d43c5e544a6499efbf3",
+            "planned_Root_actual_ranges": [
+              [
+                1,
+                40
+              ]
+            ],
+            "planned_Root_physical_addresses": 40,
+            "grade_if_actually_read": "WHOLE_SHORT_MAINTAINED_CHECKPOINT_OR_EPISODE",
+            "actual_grade": "ROOT_OWN_WHOLE_SHORT_MAINTAINED",
+            "actual_received": true,
+            "selected_lines_UTF8_sha256": "2d0ea8b7769611b6fffecaa2411bb4f1843af5bb70e507e10960d48e7b5a3e9b"
+          }
+        ],
+        "actual_Root_course_totals": {
+          "whole_maintained_files": 5,
+          "whole_physical_addresses": 250,
+          "selected_V100_addresses": 83,
+          "total_physical_addresses": 333,
+          "primary_native_raw_AV_new_units_or_admissions": 0
+        },
+        "own_receiving_sequence": "Ownprospective2135 before new consequential source reading. Complete9 normative payloads received: author18317course/12368answers/12930dimensions-rivals/5558limits-route/9406closure; peer5205prospective/6946course/17650full12/20/11/8/12reasons/3818closure. Then actual E0061–40,E0071–36,E0081–38 in one complete display; C0031–76,C0041–60 in another complete display; and V100117–175/233–251/288–292 in a complete selected83 display. No clipped output credited. Counts and fresh pins are fidelity only, not a proxy for this actual meaning receiving.",
+        "six_Root_complete_answers": [
+          {
+            "id": "PRP01",
+            "judgment": "The maintained C003 checkpoint names an encountered Prenapates, distinguishes an abductor allegation and missed shots from OS authentication/control/timer reports, and leaves the guide role incompletely audited. C00430 adds familiar Arona biometric support; E00630 adds participant recognition in the two-card scene. This gives a distinct counterpart inquiry without numerical identity, symmetric motive or a complete body/controller biography."
+          },
+          {
+            "id": "PRP02",
+            "judgment": "E00626 explicitly gives current Sensei’s own collaborative trust and delaying purpose; E00618/28 separately warns about ownership of hostile threat lines. E00630 represents two recognized card displays, and E007 starts after an omitted transition at zero remaining escape uses. Neither the name tag nor that later resource state prints activation, victory, cost or control authorship. A body may analyze these constrained gestures without inventing a technical sacrifice mechanism."
+          },
+          {
+            "id": "PRP03",
+            "judgment": "E00720 reports an own-escape gift to Shiroko; the immediate counterpart context makes Prenapates and alternate Shiroko the most plausible actors, with transfer and recipient markers still unprinted. E00722 gives an OS interpretation of the teacher’s trust and a context-qualified inward help-that-child request. These can carry recipient-directed care and apparent self-costly meaning even when no outcome is guaranteed. The OS interpretation must remain hers, and neither a secure full plan nor unqualified teacher/child identity is obtained."
+          },
+          {
+            "id": "PRP04",
+            "judgment": "Protection from an explosion and dangerous fall remain reports. Apparent OS data transfer, a proposed joint rescue and the E008 report of current Sensei’s safe return are separate endpoints. E008’s later Plana naming does not resolve all earlier OS/teacher referents. The study must leave impact, Prenapates’ final fate, body condition and Plana grief/loyalty open. Other students’ meals, Arona/Plana’s home and current Sensei’s speech cannot supply Prenapates’ missing ordinary biography."
+          },
+          {
+            "id": "PRP05",
+            "judgment": "Hostile-function, martyr, known-puppet, interchangeable-Sensei, complete-plan and all-tags-equal-command accounts each have a partial invitation but become excessive when made exhaustive. Qualified care pressures the first; unstaged transfer/unprinted cost/fate pressure martyrdom; absent received diagnosis limits a puppet account; actor-specific speech limits identity transfer. Sparse hobbies/private material is a limitation to state, not an eligibility exclusion or an invitation to invent sensory/domestic detail. All eleven dimensions can be substantive questions with honest boundaries."
+          },
+          {
+            "id": "PRP06",
+            "judgment": "The complete9 author/peer normative records and my actual fiveWHOLE250 plus selectedV10083 support readiness for a separately commissioned narrow MAIN/V100 character argument at home23/M029/P3-M029. They do not accept an unwritten body or a full operational reconstruction. No additional source is mandatory for this narrow paraphrased encounter/care inquiry. Exact early confrontation quotation, abduction/guide attribution or a stronger individual-controller claim would first trigger the positively named maintained C003E016 seam, which remains unopened."
+          }
+        ],
+        "current_source_guard": {
+          "file": "ROOT_ACTUAL_CURRENT_N7B65_SIX_MAINTAINED_OWNER_RAW_NOOP_GUARD_AND_PROSPECTIVE_OWN333_RANGES_BEFORE_SOURCE_RECEIVING_V1.json",
+          "bytes": 5919,
+          "sha256": "036bb268fc6f4cac5b85590bd37b487d489c7795e41fdcacd2f72508b41ef045",
+          "actual_N_at_guard": "7b65ab9e6c12d851bc545524ba5bb826db2e5c48",
+          "N_after_normal_ff": "27a3e1eae8c7aa6e0c52f6ead2d3860bb67f7a0c",
+          "whole_trees_equal": true,
+          "six_existing_source_copies_exact_to_current_tracked_bytes": true
+        },
+        "grade_separation": "Root own333 was actually newly received at this declared scope, not borrowed peer333. Original author702 and peer reused166+new167 remain attributed; Root does not claim wholeV100452, primary64, native/raw-dialogue/AV, oldchronological sourcefrontier or independently corroborated333events. Five maintained owners overlap the selected synthesis; no multiplication of witness events.",
+        "ordinary_and_end_rule": "Retain qualified recipient-directed care even with sparse ordinary/private evidence. Do not fill a heading with another actor’s goods, assumed hobbies or a familiar external plot. Do not erase an existing required subject because its maintained person-route is dated/unverified or its evidence is sparse.",
+        "limits_and_rivals": "All twelve authorlocal limits and eight serious rivals remain operative; full eleven-dimension body must test them, not fill missing biography/rupture/repair/technicalmechanics by inference. CurrentSensei speech/OS report/OS interpretation/inward unmarked teacher and participant identification stay distinct.",
+        "conditional_C003E016": "NOT_OPENED;positive maintained seam only if a stronger load-bearing exact quote/individual-controller/abduction-guide claim is proposed. No new primary/native/raw/AV or general acquisition authorized.",
+        "stage_and_project": "Readiness only; no authored body exists from this commission. Required355/named29/parents25/homes384/responsibilities788/all14OPEN/models0 unchanged; no person/identity/named/REL/model/count/source/publication credit. Actualsource163/PR457/Main27amerge+postmergepending belongs to separate publication receipts, never this dated old152 metadata.",
+        "next": "Root may now explicitly commission an original connected C-only bounded character body. New author prospectives/actualmeaningreadback/sourceattribution/map/stdlib proof/freeze required, then DIFFERENT completebodyQA and Rootactualnewbodyadjudication. No implicit continuation or publicforms/Nwrites.",
+        "access": "ExactpositiveC normative and declared six maintained source reads only, currentN pin guard previouslyauthorized; ownC receipt only. No oldheldR/protected39/private9/opaque targetbody/stat/hash/alias, futureunit/private/BOND/native/raw/AV intake, foreignhelper execution/import, broadscan or externalchat."
+      }
+    },
+    "R02": {
+      "record_id": "R02",
+      "original_role": "ROOT",
+      "original_actor_fields": {},
+      "original_date_fields": {
+        "UTC": "2026-11-04T13:47:26.180743+00:00"
+      },
+      "original_file": {
+        "filename": "ROOT_ACTUAL_CURRENT_N7B65_SIX_MAINTAINED_OWNER_RAW_NOOP_GUARD_AND_PROSPECTIVE_OWN333_RANGES_BEFORE_SOURCE_RECEIVING_V1.json",
+        "bytes": 5919,
+        "sha256": "036bb268fc6f4cac5b85590bd37b487d489c7795e41fdcacd2f72508b41ef045"
+      },
+      "original_whole_typed_sha256": "2df98a7d2d419fb26e55c8b3393125c59a516cefdcc13d0e913f4c46528e7b8e",
+      "projected_whole_typed_sha256": "2df98a7d2d419fb26e55c8b3393125c59a516cefdcc13d0e913f4c46528e7b8e",
+      "retention_scope": "Exactly selected complete original meanings; omitted mechanical values remain private. No whole raw-file alias.",
+      "selected_original_values": {
+        "/schema": "root-prenapates-current-six-owner-pin-and-prospective-selected333-source-receiving-guard/v1",
+        "/UTC": "2026-11-04T13:47:26.180743+00:00",
+        "/N_head": "7b65ab9e6c12d851bc545524ba5bb826db2e5c48",
+        "/planned_total": 333,
+        "/current_actual_personal_new_source_receiving": "NOT_YET;rawpin and currentness guard only. Root must actually read full declared ranges next; author702/peer333notborrowed.",
+        "/scope": "Existing maintained6 source copies only; no C003E016/private/primary/native/raw/AV/newunit or acquisition/admission; no count/bodycommission/adoption/publication.",
+        "/rows/0/owner": "V100",
+        "/rows/0/repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "/rows/0/planned_Root_actual_ranges": [
+          [
+            117,
+            175
+          ],
+          [
+            233,
+            251
+          ],
+          [
+            288,
+            292
+          ]
+        ],
+        "/rows/0/planned_Root_physical_addresses": 83,
+        "/rows/0/grade_if_actually_read": "SELECTED83_MAINTAINED",
+        "/rows/1/owner": "C004",
+        "/rows/1/repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+        "/rows/1/planned_Root_actual_ranges": [
+          [
+            1,
+            60
+          ]
+        ],
+        "/rows/1/planned_Root_physical_addresses": 60,
+        "/rows/1/grade_if_actually_read": "WHOLE_SHORT_MAINTAINED_CHECKPOINT_OR_EPISODE",
+        "/rows/2/owner": "E008",
+        "/rows/2/repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E008_DEEP_READING.md",
+        "/rows/2/planned_Root_actual_ranges": [
+          [
+            1,
+            38
+          ]
+        ],
+        "/rows/2/planned_Root_physical_addresses": 38,
+        "/rows/2/grade_if_actually_read": "WHOLE_SHORT_MAINTAINED_CHECKPOINT_OR_EPISODE",
+        "/rows/3/owner": "C003",
+        "/rows/3/repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+        "/rows/3/planned_Root_actual_ranges": [
+          [
+            1,
+            76
+          ]
+        ],
+        "/rows/3/planned_Root_physical_addresses": 76,
+        "/rows/3/grade_if_actually_read": "WHOLE_SHORT_MAINTAINED_CHECKPOINT_OR_EPISODE",
+        "/rows/4/owner": "E007",
+        "/rows/4/repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E007_DEEP_READING.md",
+        "/rows/4/planned_Root_actual_ranges": [
+          [
+            1,
+            36
+          ]
+        ],
+        "/rows/4/planned_Root_physical_addresses": 36,
+        "/rows/4/grade_if_actually_read": "WHOLE_SHORT_MAINTAINED_CHECKPOINT_OR_EPISODE",
+        "/rows/5/owner": "E006",
+        "/rows/5/repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E006_DEEP_READING.md",
+        "/rows/5/planned_Root_actual_ranges": [
+          [
+            1,
+            40
+          ]
+        ],
+        "/rows/5/planned_Root_physical_addresses": 40,
+        "/rows/5/grade_if_actually_read": "WHOLE_SHORT_MAINTAINED_CHECKPOINT_OR_EPISODE"
+      }
+    },
+    "R00": {
+      "record_id": "R00",
+      "original_role": "ROOT",
+      "original_actor_fields": {
+        "actor": "/root"
+      },
+      "original_date_fields": {
+        "UTC": "2026-11-04T13:41:45.361Z"
+      },
+      "original_file": {
+        "filename": "ROOT_SIX_PROSPECTIVE_PRENAPATES_QUESTIONS_AND_PRIOR_METADATA_GRADE_BEFORE_NEW_CONSEQUENTIAL_SOURCE_RECEIVING_V1.json",
+        "bytes": 2135,
+        "sha256": "2148cab79b6582a7dd6967b5870d76590cb303e0a317c395b3ee3304b496d4ac"
+      },
+      "original_whole_typed_sha256": "4a2b2191bbcb98f8e1d7e7ca2c4dc258faca27985c043be91c5646a18d7d52f2",
+      "projected_whole_typed_sha256": "4a2b2191bbcb98f8e1d7e7ca2c4dc258faca27985c043be91c5646a18d7d52f2",
+      "retention_scope": "Whole original intellectual value; original dated meanings, reader/course and approvals remain attributed.",
+      "original_value": {
+        "schema": "root-prenapates-prospective-receiving/v1",
+        "UTC": "2026-11-04T13:41:45.361Z",
+        "actor": "/root",
+        "prior_exposure": "Whole author5843 terminal and peer4676 terminal plus full current18456 receiving guide; no borrowed author702/peer333 underlying course. Earlier sequential history is dated, not an asserted current fresh reading.",
+        "before_new_consequential_maintained_source_receiving": true,
+        "questions": [
+          {
+            "id": "PRP01",
+            "question": "Which named encounter/biometric predicates distinguish Prenapates and current Sensei, and which controller/body/timer/abductor statements remain allegations or system reports?"
+          },
+          {
+            "id": "PRP02",
+            "question": "What do the two cards actually show, and precisely where does the account omit activation, duel resolution, effect or cost?"
+          },
+          {
+            "id": "PRP03",
+            "question": "How much actor/recipient specificity supports the escape gift and help-that-child request, separating OS report/interpretation from inward speech and incomplete teacher/child markers?"
+          },
+          {
+            "id": "PRP04",
+            "question": "What care or recipient-directed meaning survives these qualifications without constructing private hobbies, full psychology, universal absolution or a guaranteed successful transfer?"
+          },
+          {
+            "id": "PRP05",
+            "question": "Which protection/fall/apparent OS transfer/proposed rescue and present-Sensei return endpoints are different, and how do they limit fate or Plana grief/loyalty claims?"
+          },
+          {
+            "id": "PRP06",
+            "question": "Can an eleven-dimension original bounded character argument be supported at existingM029/V100 under eight serious rivals/twelve limits, or does a concrete load-bearing gap require the separately conditional C003E016 maintained seam?"
+          }
+        ],
+        "receiving_scope": "Complete9 normative payloads in positively located guide first, then own consequential exact existing maintained context under exactcurrent-pin check. No blanket702 quota, primary64/native/raw/AV/private/newunit or sourceadmission. No bodycommission/adoption/count/publication yet."
+      }
+    },
+    "R03": {
+      "record_id": "R03",
+      "original_role": "ROOT",
+      "original_actor_fields": {
+        "actor": "/root"
+      },
+      "original_date_fields": {
+        "UTC": "2026-11-04T15:04:56.692Z"
+      },
+      "original_file": {
+        "filename": "ROOT_ACTUAL_COMPLETE_PRENAPATES_BODY_QA_49135_FINDINGS26708_OWN13_WARRANTS_AND_FIVE_PARAGRAPH_FINITE_SUCCESSOR_COMMISSION_V1.json",
+        "bytes": 8759,
+        "sha256": "37b5d95b9daef01d751a6e4baf866753831ea691d7abb88a066e891c8e4861be"
+      },
+      "original_whole_typed_sha256": "a7dd07dbf27d8e4f23dfcffb17d04473b33c61605da1f68830d01dd188f7c69a",
+      "projected_whole_typed_sha256": "d22702d2738a72b0739bc502491a086af8f30af4f9bae7936981066260aa18e8",
+      "retention_scope": "Whole original intellectual value; original dated meanings, reader/course and approvals remain attributed.",
+      "original_value": {
+        "schema": "root-prenapates-complete-body-qa-finite-findings-adjudication-and-successor-commission/v1",
+        "UTC": "2026-11-04T15:04:56.692Z",
+        "actor": "/root",
+        "decision": "ACCEPT_F01_F02_F03_AND_INCLUDE_P04_FINITE_PRECISION;AUTHOR_C_ONLY_SUCCESSOR_COMMISSIONED;ORIGINAL_BODY_NOT_YET_ACCEPTED",
+        "existing_home": "P3-CHAR-M029/P3-M029;home23,notnamed",
+        "actual_root_receiving": "Whole5015 terminal; all49135 full specific12answers/20particular/11dimensions/8rivals/6reference judgments through two complete semantic partitions; whole26708 exact finding/oldtarget/13 sourcewarrant meanings; whole9734 course/3409closeout/1335 actorclarification. Prior personally received whole14135body/18043SOURCE/28361author and20mapmeanings/47links, current own333 readiness reused at unchanged raw pins. This continuation independently rechecked actual five target literals and13 sourcewarrant loci at already own333 scope.",
+        "qa_exact_pins": [
+          {
+            "path": "DATED-LOCATOR-EB97D22C21BE15A8",
+            "bytes": 5015,
+            "sha256": "17e5fed86a919cc0182607eeda4bbbbff1b3de229072f89beb8ad66dd2d68585"
+          },
+          {
+            "path": "DATED-LOCATOR-D02C27C5706BA254",
+            "bytes": 49135,
+            "sha256": "f67f0b9aa694a73072b2f2be267192c7bc6cd808151c57c8e231109c421020a8"
+          },
+          {
+            "path": "DATED-LOCATOR-70EEC6A0262CEBBC",
+            "bytes": 26708,
+            "sha256": "8d5d6ffeb82c7a9e4fee0487805d1397c7da0ef9ddf4fe3c1034b3980be881f8"
+          },
+          {
+            "path": "DATED-LOCATOR-BA3F98F30FC9C9C4",
+            "bytes": 9734,
+            "sha256": "0a88ce0fade43879b917ac283ef7c5347896e3fb6718e3988851b9775adf4f9b"
+          },
+          {
+            "path": "DATED-LOCATOR-27E64B9F44038E7F",
+            "bytes": 3409,
+            "sha256": "7b4a5a61baa1f8d5b3ed41fcb7143cc1cce1cc1c380977f6582bec18226200ee"
+          },
+          {
+            "path": "DATED-LOCATOR-B0846CD9191B34EF",
+            "bytes": 1335,
+            "sha256": "96c0f34232bb9e6e0389db2c3e605edf62d5944ddea8794e303cd9f6b5cbb8b0"
+          }
+        ],
+        "own_finite_proof": {
+          "path": "DATED-LOCATOR-E9F429D02E4C6C91",
+          "bytes": 6029,
+          "sha256": "a6f336db2b0aa90c40623223348a5838091fd3c7391181cbee5df2a8eb7abd1f",
+          "own_predicates": 37,
+          "false": 0,
+          "precision": "The proof scope sentence says14 witness lines by typo; actual locus list and checks establish13 unique source loci. No whole452 or fresh primary/newsource reading inferred."
+        },
+        "own_six_judgments": [
+          {
+            "id": "PNROOT01",
+            "judgment": "The opponent→gesture→reported gift/request→unfinished endpoint sequence is a character argument. Sparse ordinary biography and caveat-heavy style are not grounds to discard the subject or demand invented low-stakes evidence. The particular existing source claims merit finite integration."
+          },
+          {
+            "id": "PNROOT02",
+            "judgment": "F01 required: C00344/53 secures a Shiroko-labelled companion with Sensei accusing Prenapates of her own abduction. Preserve allegation mode and scene-level uncertainty; name the available accusation direction without supplying an unreceived completed abduction mechanism."
+          },
+          {
+            "id": "PNROOT03",
+            "judgment": "F02 required: C00430/50 and selectedV100165 retain hostile Shiroko claiming to have killed her own Sensei, while leaving its truth and teacher identification open. Include that testimony as a counterpart/rival partial warrant. Neither teacher=Prenapates nor present corpse/controller diagnosis or final death follows."
+          },
+          {
+            "id": "PNROOT04",
+            "judgment": "F03 required: E00722/28 supplies the first OS voice repeating same choice/same situation while revising her interpretation of her teacher. This particular inferred continuity belongs in PNP010 as hers, never as a directly authenticated Prenapates doctrine or complete rescue plan."
+          },
+          {
+            "id": "PNROOT05",
+            "judgment": "P04 included in authorized finite scope: E00630 explicitly supplies participant identification of two adult cards. Name the object at first discussion while retaining no activated effect, victor or measured cost. This is supported precision, not a new power claim."
+          },
+          {
+            "id": "PNROOT06",
+            "judgment": "Keep current Sensei trust/delay his, OS reports/interpretations hers and inward unmarked teacher/child qualified. Reported current Sensei return does not finish Prenapates fate, and later Plana naming supplies no retrospective grief/loyalty or teacher join. Original actor/date/course provenance and all ordinary recipient meanings remain intact."
+          }
+        ],
+        "qa_grade_clarification": "The V100 warrant in F02 has a too-broad generic full-short-maintained grade. Effective scope is reviewer SELECTED83 [117-175,233-251,288-292], witness165 in firstinterval, exactly as actual9734 course and terminal. Original label remains dated faulty metadata; separately requested reviewer addendum is pending. No WHOLE452 or independent corroboration credit. Copied actual_source_evidence arrays in49135 retain original bodyauthor referent under1335 addendum.",
+        "authorized_successor": {
+          "executor": "/root/sumire_v2_finite_qa, original bodyauthor",
+          "mode": "New C-only finite successor directory/filenames, preserve frozenV1 author and QA",
+          "body_targets": [
+            "PNP002 allegation direction",
+            "PNP003 qualified past-killing testimony",
+            "PNP005 adult-card firstreference",
+            "PNP010 OS repeated-choice motif",
+            "PNP019 corresponding qualified rival warrant"
+          ],
+          "related_targets": "Only dependent current paragraph map/literal/byte spans, actor-mode/recipient/end limits, relevant rival03/05 or affected dimension/Source qualifications and current4 tuples/own finite full reasons. Preserve all unchanged paragraphs/title/headings/closing and source6 bytes; exact old/new UTF8/typed inverse plan before writing. Date changed judgments as successor author; original author/reviewer/Root meanings remain full history.",
+          "stopping_point": "Complete saved new meaning readback and own independent fidelity, freeze exact selection/manifest/terminal for DIFFERENT finite deltaQA and Root actual newbyte adjudication. No public composition or currentcanonical/count/install/publication."
+        },
+        "required_preservation": [
+          "No new C003E016/primary/native/raw/AV intake or stronger early quoted/controller claim",
+          "Existing fiveWHOLE250 plusV100selected83 is same actual writer/Root scope, no702/peer333 transfer/newunique-course claim",
+          "All14 OPEN/models0/full355/29 and separate relatedduties unchanged",
+          "No N/Git/provider/shared7/global/control/heldR/private9/protected39/opaque accesses or foreignhelper execution",
+          "No frozen author/peer overwrites, no unbounded rewrite or new ending"
+        ],
+        "diagnostics": "Earlier Root guessed nonexistent BODY_FIRST filename before actual body route was received; failure preceded body reading and gave no candidate credit. Current actualDRAFT14135 is the sole frozen body reviewed. Root same-source13-warrant reading here is bounded refresh, not newsource attendance."
+      }
+    },
+    "R04": {
+      "record_id": "R04",
+      "original_role": "ROOT",
+      "original_actor_fields": {
+        "actor": "/root"
+      },
+      "original_date_fields": {
+        "UTC": "2026-11-04T16:14:49.100Z"
+      },
+      "original_file": {
+        "filename": "ROOT_ACTUAL_PRENAPATES_V2_WHOLE20_14965_NEW_MEANINGS_FULL20158_DIFFERENT_QA_OWN420_ADOPTION_AND_PUBLIC_PLAN_COMMISSION_V1.json",
+        "bytes": 8859,
+        "sha256": "d521fa39cf6f629d4782df1bdb18d79a44a7aa5038a37329a4dc80be178194ec"
+      },
+      "original_whole_typed_sha256": "ff0f6aa6a5370f4bbd418bced06be29f091c2aec83d729c86d774edfdd38918c",
+      "projected_whole_typed_sha256": "ff0f6aa6a5370f4bbd418bced06be29f091c2aec83d729c86d774edfdd38918c",
+      "retention_scope": "Whole original intellectual value; original dated meanings, reader/course and approvals remain attributed.",
+      "original_value": {
+        "schema": "ROOT_PRENAPATES_V2_ACTUAL_COMPLETE20_BODY_AND_FINITE_139_NEW_MEANINGS_DIFFERENT20158_QA_ADOPTION_V1",
+        "UTC": "2026-11-04T16:14:49.100Z",
+        "actor": "/root",
+        "decision": "ADOPT_EXACT_V2_PRIVATE_CONNECTED20_BODY_AND_CURRENT_MEANING4_WITH_LIMITS_FOR_SEPARATE_PUBLIC_FORM_RETENTION_PLANNING",
+        "body": {
+          "file": "BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH_C_ONLY_FINITE_SUCCESSOR_V2.md",
+          "bytes": 14965,
+          "sha256": "5a95355e7c44e0ddfb39bdf9916a62b87527405c4c1d1546a2ab70ad7af6536e",
+          "paragraphs": 20,
+          "physical_lines": 67
+        },
+        "prior_actual_basis": "My own maintained333 course, wholeV1 body14135/source18043/author28361/all20map/reasons, full differentQA49135/findings26708/course9734/closure3409/actor1335 and actual13warrants were personally received earlier and pinned in Root8759 finite commission. This receiving reuses that genuine same-reader context after exactpreservation checks, without source replay or borrowing author/peer counts.",
+        "actual_receiving": "This continued turn personally received whole14965 body untruncated through unchanged closing, whole7033 author terminal/selection1846/9496 author six-reason savedcloseout, full SOURCE finite qualifier, current author sixfinite answers/creation qualification, all five particular map andauthor judgments/evidence/modes/endlimits, changed dimensions7/10,rivals03/05,fourreferencejudgments and finite mapscope. Whole differentreview20158 read in overlapping0–11000/10500–end; whole4391 savedcloseout and6208 terminal received. No clipped exploratory display receives completeness credit.",
+        "six_complete_judgments": [
+          {
+            "topic": "Direction of accusation",
+            "reason": "PNP002 names the companion labelled Shiroko with Sensei as accuser and alleged victim, Prenapates as accused abductor. The clause and subsequent her allegation are clear, without manufacturing a staged earlier abduction, automatic allied/hostile Shiroko join or system-certified biography. This addresses F01. The author's initially mistaken Sensei-accuser prospective remains dated and explicitly corrected before writing."
+          },
+          {
+            "topic": "Past killing and the body rival",
+            "reason": "PNP003 places hostile Shiroko's alleged own-Sensei killing beside local biometric/participant counterpart support, andPNP019 uses that testimony as a concrete partial warrant for a corpse/control inquiry. Truth and teacher=Prenapates are expressly unproved; no numericalidentity,symmetric history,presentbody/controller or final-fall death follows. C004 andV100 repeat maintained analysis,not two independent events. This addresses F02 without unfairly weakening its rival."
+          },
+          {
+            "topic": "Actual displayed object",
+            "reason": "PNP005 specifies participant-identified adult cards at first object discussion. The represented gestures remain positive finite acts and retain narrative force before any technical explanation. Display does not become activation,effect,victor,calibratedcost or reconstructed missingduel. Neighboring threats retain attribution uncertainty andcurrentSensei owns trust/delay. This addressesP04 without altering broader powers."
+          },
+          {
+            "topic": "Owner of the repeated-choice motif",
+            "reason": "PNP010 makes same-choice/same-situation the first OS voice's developing interpretation of her teacher's wish and counterpart continuity. Her thinking is an event with relational meaning; it does not establish Prenapates doctrine,a jointselfaccount,universalpsychology or completeintendedrescue. Inwardteacher/child,reportedgift,protection/fall/proposedrescue/currentSenseireturn keep distinctsubjects and endpoints. This addressesF03."
+          },
+          {
+            "topic": "Whole connected portrait and ordinary goods",
+            "reason": "The complete20 argument still moves coherently from unequal opponent recognition/cardgesture toward qualifiedrecipientdirectedcare and unfinishedfate, then fairly tests villain,martyr,corpse/control,interchangeableSensei andcompleteplan readings. It is sustained literary reasoning rather than a source audit. Escape/help can matter intrinsically without absolution or fulfilledoutcome. Sparsehobby/meal/domestic evidence is openlylimited; OS/currentSensei pleasures are not borrowed andsparseordinaryscope is notineligibility. Written maintained sources supply no newly heard/performed/native/AV evidence."
+          },
+          {
+            "topic": "Exact preservation and different review",
+            "reason": "Own independent420/0 proves exact5rawparagraphforward/fullbodyinverse,139typedoperations/3completeJSONinverses,15otherparagraphmeanings/header/title/headings/closing preserved,source6same333ranges,48currentevidencelinks,13warrants,current4nodes5edges. Author1068,oldQA366/newdifferent1109+151 andRootold37 remain separate. The different reviewer recovered originalcompleteQA context honestly and disclosed its finite delta role; whole20158/4391 reasons support no further finite concern. OldWITH_FINDINGS andmistakenshortV100WHOLE label remain dated; effectiveV100165 isSELECTED83 under2321. NoC003E016/sourceexpansion is required for this bounded portrait. I accept the actualnewbody/meaning4,notpublicform/currentauthority/count/install/publication."
+          }
+        ],
+        "different_QA": {
+          "directory": "PRENAPATES_M029_V2_FIVE_PARAGRAPH_DISTINCT_FINITE_DELTA_QA_C_ONLY_20261104_V1",
+          "reasons": {
+            "file": "OWN_PRENAPATES_V2_COMPLETE_SIX_DELTA_ANSWERS_FIVE_PARTICULARS_REFERENCES_AND_LIMITED_VERDICT_V1.json",
+            "bytes": 20158,
+            "sha256": "d56dbcabebb072210af3548418bba3c2fd7559f48f1b249f26cf367f797185d7"
+          },
+          "readback": {
+            "file": "OWN_PRENAPATES_V2_ACTUAL_WHOLE_SAVED_MEANING_READBACK_AND_SIX_FINITE_QA_CLOSEOUT_V1.json",
+            "bytes": 4391,
+            "sha256": "ed1e2437a26e70291ccd3655efc6a6068904014851e394023751774b9954667e"
+          },
+          "result": "1109/0+151/0,finite no additional supportedconcern; owncount-assumptiondiagnosticV1retained,correctedversioned checkeronly,no candidateedit."
+        },
+        "own_proof": {
+          "file": "ROOT_OWN_PRENAPATES_V2_EXACT5_139_FULL_INVERSES15_SOURCE6_333_48LINKS_AND4_5_GRAPH_V1.json",
+          "bytes": 41827,
+          "sha256": "4d3de23f704160e265545527b51330d0325a5b3fc4cb83df4efa41dfcebf9259",
+          "predicates": 420,
+          "false": 0,
+          "scope": "Own independent stdlib code,positiveC only,no foreignhelperread/execute/import. Documentary fidelity,notsourcecognition."
+        },
+        "public_plan_commission": "Recover may now complete the separately commissioned fullmeaningretention/class/source-grade/prospective public-form plan using this acceptedV2body/current4. Preserve everyunique original author/readiness/QA finding,actualgradequalifier,finite successorjudgment,Rootcommission/adoption andpriorcourseactor/date. Operationalchecks/helpers/rawsource/wholebodycodecs/inputcarriers remainprivate; purecustodyfields requireexactbefore/after inverses and honestlogical/public/private distinctions. No publiccomposition/canonicalmetadata is commissioned by this receipt; first deliver the complete plan for distinct review andRoot receiving.",
+        "limits": "Existinghome23/P3-CHAR-M029/P3-M029/A201same duty,V100,notnamed. Realcurrent163/355,named19/29,required355/29/25/384/788,14OPEN/models0 unchanged;Suou164onlyCtransactionuntilactualpersistence. No newsource/person/identity/home/named/extraREL/model/count/install/publication/mergecredit. C-only;N/R/Git/provider/shared7/global/source/private/frozen/externalchat untouched.",
+        "exact_current4": [
+          {
+            "role": "BODY",
+            "inherited_role_key": "ORIGINAL_CONNECTED_CHARACTER_BODY",
+            "relative_path": "BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH_C_ONLY_FINITE_SUCCESSOR_V2.md",
+            "bytes": 14965,
+            "sha256": "5a95355e7c44e0ddfb39bdf9916a62b87527405c4c1d1546a2ab70ad7af6536e"
+          },
+          {
+            "role": "SOURCE",
+            "inherited_role_key": "OWN333_REUSE_IDENTITY_CURRENT_PIN_AND_ACTOR_MODE_AUTHORITY",
+            "relative_path": "PRENAPATES_V2_CURRENT_SOURCE_OWN333_REUSE_AND_FINITE_ACTOR_MODE_QUALIFICATIONS_V1.json",
+            "bytes": 21453,
+            "sha256": "510e5e4968b503c3075fd573f6b1c7341148c48a2a1d553f67dfa08a8d8b46f1"
+          },
+          {
+            "role": "MAP",
+            "inherited_role_key": "COMPLETE_LITERAL_PURPOSE_RECIPIENT_MODE_ENDPOINT_MAP",
+            "relative_path": "PRENAPATES_V2_COMPLETE20_LITERAL_PURPOSE_MODE_RECIPIENT_ENDPOINT_AND_DIMENSION_MAP_V1.json",
+            "bytes": 59313,
+            "sha256": "b37f064be4d3669e2329d3dc111b86b6c5ac41152f0f757ca89351940672c66d"
+          },
+          {
+            "role": "AUTHOR",
+            "inherited_role_key": "COMPLETE_AUTHOR_CHOICES_ELEVEN_DIMENSIONS_EIGHT_RIVALS_REFERENCES_AND_ACTUAL_READBACK",
+            "relative_path": "OWN_PRENAPATES_V2_FINITE_FIVE_PARAGRAPH_FULL_AUTHOR_REASONS_CURRENT20_ELEVEN_RIVALS_V1.json",
+            "bytes": 43303,
+            "sha256": "1cf087cbaadb27e2d717e63b436f24ad58635f10fad82fc7a2b2a93a72cc9a30"
+          }
+        ]
+      }
+    },
+    "RC01": {
+      "record_id": "RC01",
+      "original_role": "ROOT",
+      "original_actor_fields": {
+        "actor": "/root"
+      },
+      "original_date_fields": {
+        "UTC": "2026-11-04T17:02:51.281Z"
+      },
+      "original_file": {
+        "filename": "ROOT_ACTUAL_FULL_PLAN26645_QA15730_R02_5919_CLASS_ADJUDICATION_AND_FINITE_PLANNER_SUCCESSOR_COMMISSION_V1.json",
+        "bytes": 4859,
+        "sha256": "cb903ba74a8de1952d79d642569a255f2c3b4d494987b0c904b90328994077e5"
+      },
+      "original_whole_typed_sha256": "04b5efeb00ebd536b14538cc85731eebbe2d484194a2c623d67d27999938df0f",
+      "projected_whole_typed_sha256": "04b5efeb00ebd536b14538cc85731eebbe2d484194a2c623d67d27999938df0f",
+      "retention_scope": "Whole original intellectual value; original dated meanings, reader/course and approvals remain attributed.",
+      "original_value": {
+        "schema": "ROOT_PRENAPATES_PNPLAN_F01_ACTUAL_COMPLETE_PLAN_QA_AND_R02_RECEIVING_FINITE_PLANNER_CORRECTION_COMMISSION_V1",
+        "UTC": "2026-11-04T17:02:51.281Z",
+        "actor": "/root",
+        "decision": "ADJUDICATE_R02_CLASS_FINDING_SUPPORTED_AND_COMMISSION_FINITE_PLAN_SUCCESSOR_ONLY",
+        "actual_receiving": "Personally received whole current plan26645 via0–9500/9000–end,wholeplanner8152closeout,whole differentQA15730 via0–10500/10000–end+2939closeout+5631terminal,whole originalRoot R02 sourceguard5919 including all6mixedrows. Root8859actualprivatebodyadoption/current14965body/source333 remain genuinely priorowned at unchangedpins. No newsourcecourse or claim all56oldintellectualrecords freshlyread.",
+        "six_reasoned_judgments": [
+          {
+            "topic": "Exact supported class conflict",
+            "reason": "Actual currentplan ROOT content expressly excludes predicate/rawpin/typed-inverse queues;class_boundary likewise excludes rawpinrows. R02 is nevertheless selected at wholepointerempty,which includes six mixed rawcustodyrows. ReplacingCpaths withsafeIDs alone doesnot reconcilethatrole/need inconsistency. This is a finite retentionclassification correction,not a defect in Prenapates20body oradmittedsource."
+          },
+          {
+            "topic": "Meaning that must remain",
+            "reason": "KeepR02 schema,UTC,N_head,planned_total,before-receivingNOT_YET statement andscope ascomplete dated values. For eachof6rows,retain owner,repository_path,planned_Root_actual_ranges,planned_Root_physical_addresses,grade_if_actually_read complete. Thoseareindispensable prospective source-plan meanings,not sourceattendance. No invented actor/date orcompletedRoot333 isfilled into originalbefore-readingrecord."
+          },
+          {
+            "topic": "Only the mechanical leaves move private",
+            "reason": "Classify exactly24rowleaves—C_path,bytes,sha256,git_blob_oid inrows0–5—asprivatecustody commitments. Preserveexactoriginaltyped/rawvaluehashes andoriginalwhole5919pin/inverse privately; do notpublishsamequeue inanotherrole. Originalsourceauthority/claimmodes/full13warrants/sourcecourses elsewhere remain unchanged. ThisoneR02decision isnotname-wide removal ofeverybytes/hash/source-tablefield."
+          },
+          {
+            "topic": "Finite permissible representation",
+            "reason": "ReplaceR02whole-root retentionwithexplicitcomplete meaningfulselectors or anexactlossless curatedsourceplan withhonest public/private bounds andfullprivateinverse. Selectedpublicvalues mustnot silentlyclaimfulloldR02rawfilealias. Recalculate actualretainedroots/fieldoccurrences/purelocatorchanges/NOOPs/safeIDs/exclusions/selectorbinds fromdata; old56/127/553/151/402/65/31 aredatedobservations,notrequiredquotas. Numericcustodyleavesneednotcoincidewithstringfieldqueuecounts."
+          },
+          {
+            "topic": "Preservation and genuine review",
+            "reason": "Allother55recordsemantics,RP01–03prospectives/fulloldcurrentreadiness/body/QA/grades/rivals/13warrants/fiveoldparagraphs/20post-YAML14210 andthreeproposedheaderlines remain unchanged. Root420,planner780+742 anddifferentQA3143+165 aredistinctdocumentaryscopes. Fulluniquereasonsnewplannerreview/Rootcommission retainedasintellectualhistorywithactualactor/date; oldWITH_FINDINGS/no-furtherrevision andfaultygrade/accuser histories remainfrozenandcurrentqualifiersstayoperative."
+          },
+          {
+            "topic": "Remaining gates and authority",
+            "reason": "Thisreceipt authorizes onlya separatelyfrozen C plan successor andfullbeforeafter/typed/rawinverse specification. Itdoesnotadopttheentireplan orauthorizepublicafterimages/canonicalmetadata/shared7/Ninstallation/count/publication. DifferentfiniteplanQA+Rootwholecurrentmeaning/fidelityadoption mustprecedeexplicitpubliccompositioncommission. ExistingM029/home23/A201/V100/notnamed,sourcepublished164/named19,full355/29/25/384/788/all14OPEN/models0 remain."
+          }
+        ],
+        "exact_basis": {
+          "plan": {
+            "file": "PRENAPATES_M029_ACCEPTED_V2_COMPLETE_PUBLIC_RETENTION_CLASS_AND_EXACT_NORMALIZATION_PLAN_V3.json",
+            "bytes": 26645,
+            "sha256": "838ed1d7d79809a07b299fcbe7e667bfc5039b3984dad6d26fef7ffe399bdffc"
+          },
+          "finding": {
+            "file": "OWN_PRENAPATES_COMPLETE_PUBLIC_RETENTION_PLAN_SIX_ANSWERS_EXACT_R02_CLASS_FINDING_AND_BOUNDED_VERDICT_V1.json",
+            "bytes": 15730,
+            "sha256": "19d1ced36427b4fd1555432c2e5eef0d3becf229ca59bec59566ff6dc7b4d22f"
+          },
+          "R02": {
+            "file": "ROOT_ACTUAL_CURRENT_N7B65_SIX_MAINTAINED_OWNER_RAW_NOOP_GUARD_AND_PROSPECTIVE_OWN333_RANGES_BEFORE_SOURCE_RECEIVING_V1.json",
+            "bytes": 5919,
+            "sha256": "036bb268fc6f4cac5b85590bd37b487d489c7795e41fdcacd2f72508b41ef045"
+          }
+        },
+        "access": "NewownC only,exactpositiveCreads,noN/R/Git/provider/shared7/global/source/frozen/foreignhelper/excluded/private/externalchat. No sourceadmission/currentbody/model/identity/named/extraREL/homecredit."
+      }
+    },
+    "RC02": {
+      "record_id": "RC02",
+      "original_role": "ROOT",
+      "original_actor_fields": {
+        "actor": "/root"
+      },
+      "original_date_fields": {
+        "UTC": "2026-11-04T18:18:29.931Z"
+      },
+      "original_file": {
+        "filename": "ROOT_ACTUAL_R02_FULL_PLAN39074_QA12112_4131_OWN3810_120_ADOPTION_AND_EXPLICIT_PUBLIC6_COMPOSITION_V2.json",
+        "bytes": 13807,
+        "sha256": "307768ce5f6c10cfdb7a3a0db76864de7a844a7ba0f892e853cafa9264da7611"
+      },
+      "original_whole_typed_sha256": "bc5c19e2884b5b860ce2f6d6af44e576d07c16fbece7dcbf0ddad1d7f125e28a",
+      "projected_whole_typed_sha256": "bc5c19e2884b5b860ce2f6d6af44e576d07c16fbece7dcbf0ddad1d7f125e28a",
+      "retention_scope": "Whole original intellectual value; original dated meanings, reader/course and approvals remain attributed.",
+      "original_value": {
+        "schema": "ROOT_ACTUAL_PRENAPATES_R02_FULL_FINITE_PLAN_QA_ADOPTION_AND_EXPLICIT_SIX_ROLE_PUBLIC_COMPOSITION_V1",
+        "actor": "/root",
+        "UTC": "2026-11-04T18:18:29.931Z",
+        "decision": "ADOPT_EXACT_CURRENT_FINITE_PLAN_V2_WITH36_24_CLASS_BOUNDARY;COMMISSION_C_ONLY_FULL_MEANING_PUBLIC6_PREPARATION",
+        "identity": "Existing home23/P3-CHAR-M029/P3-M029/A201same duty,V100,notnamed;Prenapates distinct from currentSensei",
+        "complete_original_Root_prospective_before_this_receiving": {
+          "schema": "ROOT_SIX_R02_FINITE_SUCCESSOR_CLASS_PLAN_QUESTIONS_BEFORE_NEW_PLAN_QA_MEANINGS_V1",
+          "actor": "/root",
+          "UTC": "2026-11-04T17:56:18.571Z",
+          "role": "Root laterplanadjudicator,notplanner/differentQA",
+          "genuine_reuse": "Root personally received originalwhole5919R02,old26645plan/8152readback/fulloldpeer15730/2939/5631,actualRoot4859classfinding andown333/accepted14965privatebody+full20158bodyQA. Newcurrent39074finiteplan/new10446reasons/6580closeout anddifferent12112/4131/8063QA have not yet beenpersonallyreceived.",
+          "questions": [
+            "Do exactly6topscalars+30complete rowmeaningroots preserveall36claimedmeaningvalues,with24purecustodyleavesprivate andfulloriginaltyped/raw inverse ratherthanprivatewholefilealias?",
+            "Are allother55 originaldictionaries andallactual11laternormatives complete,with trueAUTHOR/PEER/ROOT/date/course/approvalstage andcurrentV2 inheritedfirstpersonattribution?",
+            "Does independentfieldderivation preserveall538 literalNOOPs and148pureproposals/173meaningroots/66IDs/55privatepartitions,including12R02oldstrings→6NOOPs ratherthan24string subtraction?",
+            "Do all15 alternatepaths33embedded expected-contentpins and66safeIDtargets have honestlogicalwrapper/private roles,without followingoriginalsource/helper targets or recreatingwholemixedR02public?",
+            "Does everybody/post14210/literal20/fiveoldvariant/13warrant/threefutureheaderproposal remainunchanged,andare source333/currentconditionallimits unupgraded?",
+            "Are class/need/rights andallunique currentplanner/QA/Rootreasoning retainedbyrole,with fullprewrite inverses/privateproofqueues andseparateRootplanadoption/explicitpubliccomposition/newbyteQA beforeanycanonicalcount?"
+          ],
+          "stage": "Prospectiveonly;nonewplan/publicformadoption or afterimages."
+        },
+        "actual_receiving": "Root personally received whole39074 currentV2plan in overlapping0–13500/13000–27000/26500–end;whole10446 planner reasons/6580readback/6249terminal;complete different12112reasons/4131readback/8063fullattributiondelta/4905terminal/3277prospectives. RemainingPL02/PL04/PQ01/FS01 whole meanings personallyreceived;othernew11 andold26645/8152/peer15730/2939/5631/Root4859/originalR025919 are genuine priorreceiving. All55classboundaries/fivecomplete reasons actuallyreceived. Own67normativeJSON parsing/686field/raw checks are data,not67freshhuman/sourcecourses.",
+        "plan": {
+          "filename": "PRENAPATES_M029_R02_CLASS_FINITE_SUCCESSOR_COMPLETE_PLAN_V2.json",
+          "bytes": 39074,
+          "sha256": "cb0c24e14bbfd5a0b2e85de0fda500f0c9d5720f368af31b242a103ed1b462eb",
+          "inventory": "699076/2e0f800b19e8e457bed0913437a38da1384d99dcd41efd16d152b132e3ca5c47",
+          "classes": "95304/ef35a5a1e2d7356690c2541423f3276db946af0e3ce73f583fde862d20cd74be"
+        },
+        "different_QA": {
+          "reviewer": "/root/ayame_p015_correction_plan",
+          "role": "Freshdifferentfiniteclass/retention/history/routing reviewer,noPrenapates sourcecourse,literarybodyapproval or borrowed333/702",
+          "full_reasons": "12112/0bb92377512d55b216d26ad5ad130464c2e853915ed52b57c7dde06bda5aac3c",
+          "readback": "4131/f770c017a61c39b5c24a7f08cb476030669877451f6b850682e3a8057aced175",
+          "result": "No new supported material finding;own5271/0+6/0,currenttargetunchanged;own inverse-dispatch/warrantunit/phrase diagnostics remainprivate."
+        },
+        "own_fidelity": {
+          "main": {
+            "filename": "ROOT_OWN_R02_FULL67_173_686_36_24_PARTITION55_RAW_TYPED_INVERSES_AND_3_HEADER_FIDELITY_V2.json",
+            "bytes": 242740,
+            "sha256": "bfbeca049647a45b8452f5e709c90e6900812204a40e60f354a0e3d5b8ce2ce5",
+            "predicates": 3810,
+            "false": 0
+          },
+          "supplement": {
+            "filename": "ROOT_OWN_R02_15_ALTERNATE33_GUARDS_AND_FULL_THREE_PREDECESSOR_TYPED_INVERSES_SUPPLEMENT_V1.json",
+            "bytes": 11525,
+            "sha256": "64a8334e27010a4d4106a11c7ccf5e30cd9fec98929ca4d6d7a07a28c30d3b7a",
+            "predicates": 120,
+            "false": 0
+          },
+          "diagnostic": "OwnV1 expected shortNOT_YET instead of completeoriginalsentence;3743/1resultretained. V2 preserves exact fullstatement,not shortenedtarget. No failed resultaccepted."
+        },
+        "six_Root_judgments": [
+          {
+            "topic": "R02 complete meaningful before-source history",
+            "reason": "Six topscalars plus30 complete row values retain schema/UTC/N_head/planned333/fullNOT_YETsentence/scope andeveryowner/repository/ranges/addresscount/conditionalgrade. Exactly24Cpath/bytes/SHA/gitOIDleaves areprivate custody;whole36+24 reconstructs entire5919typed object. This addressesPNPLAN-F01 without deleting prospective knowledge or claiming completedreceiving."
+          },
+          {
+            "topic": "Retained/private partition and full inverses",
+            "reason": "All67 recordleafpartitions are complete/disjoint;allother55 originaldicts/old31private classes/surviving547fields exact. Ownrawtoken/typedfields/projections/fullinverses verify686values andall173roots. CurrentR02selectedwrapper hasno wholeoriginal_value alias,privatequeue relocation or sourcecopy. Exactpredecessorplan/inventory/classes inverses recoverall3wholetypedoldobjects."
+          },
+          {
+            "topic": "Measured field and alias decisions",
+            "reason": "R02old12registeredstrings contain6repositoryNOOP+6Cpaths;24custodyleaves arenot24strings. Originalbase56/162/547/145pure402NOOP plus11real laternotes139fields produce67/173/686/148pure538NOOP/66IDs/55private. Ownindependent45logical/21private,30direct/15alternate mappings and33actualembedded guards allmatch;no oldlocator targetwasopened."
+          },
+          {
+            "topic": "Actors,sourcegrades and attribution",
+            "reason": "All11 later AUTHOR/PEER/ROOTnotes arecompleteactualintellectualrecords. V2 explicitlyattributes oldrecover firstperson andFS01prospectivequote,while finalsavedreceiving stateslatertruecourse. Readinessauthor702,bodyauthor333,peer333 andRoot333 staytheirown;wholeV100 isnotborrowed beyondactualSELECTED83. OldWITH_FINDINGS/accuser/genericgrade/no-further-revision remainhistorywithseparateeffectivequalifiers."
+          },
+          {
+            "topic": "Literary body,ordinary agency and class",
+            "reason": "Accepted14965/private20 andpost14210 areunchanged;only3futureheaderlines755→822/RAM15032 prescribed. Fullfiveoldparagraphs/13physicalwarrantloci remain. Qualifiedgesture/helpandordinarygoodskeepintrinsicvalue;source sparsityisnotineligibility. Sixroleclasses preservefullmeaningbeforebytes,nothelper/source/inputtransport/proofarraypubliccargo. No source/media rights orJSON/sizewaiver."
+          },
+          {
+            "topic": "Actual decision and later gates",
+            "reason": "I accept the exactfiniteplan/class/fielddecisions,not futurepublicbytes/currentauthority/count. Fullcurrentfinalplanner/QA/Rootmeaningsnowexist andmustjoinpubliccomposition byroleunderexplicitmapping. DifferentcompletepublicQA/Rootactualpublicadoption/currentmetadata/Nnormalpublication remainseparate. ExistingM029 remainsrequired anduncounteduntilactualpersistence."
+          }
+        ],
+        "explicit_public_composition": {
+          "composer": "/root/ayame_p015_correction_plan",
+          "role": "Former differentfiniteplanreviewer nowpublicformcomposer,not laterdifferentpublicQA/Rootadopter;noPrenapates sourcecourse",
+          "sole_new_directory": "PRENAPATES_ACCEPTED_R02_FINITE_PLAN_FULL_MEANING_SIX_ROLE_PUBLIC_COMPOSITION_C_ONLY_20261104_V1",
+          "base": "Use exactaccepted67/173inventory/686fielddecisions andall55privateboundaries/66IDs/6establishedproposedpaths. EntirepositivelyselectedCnormativeanalytical/provenanceJSONs and accepted14965analyticalbody may beread/hash forcompletebeforeimages. DoNOTfollowcontainedunderlyingmaintained/primary/native/raw/AV/private/excluded/helperlocators. Thisispublicformnotliteraryrewrite/sourcecourse.",
+          "body": "Exactly3declaredpreparationheaderlines only,retain draft_noncurrent/trueveto/emptyarrays andall14210postbody/20paragraphs. No canonicalmetadata here. Preservefull5oldparagraphs/all13warrantloci;useonlyactualcomplete-value equality duplicates declared8269proposal or separatelyproved with fulloccurrence/actor recovery.",
+          "additional_actual_meanings": [
+            {
+              "role": "AUTHOR",
+              "file": "PRENAPATES_M029_R02_CLASS_FINITE_SUCCESSOR_COMPLETE_PLAN_V2.json",
+              "bytes": 39074,
+              "sha256": "cb0c24e14bbfd5a0b2e85de0fda500f0c9d5720f368af31b242a103ed1b462eb",
+              "scope": "Wholecurrentfinalfiniteplan;privateinventory/classes/inversequeues referencedbycustodymetadata only,notimported."
+            },
+            {
+              "role": "AUTHOR",
+              "file": "OWN_PRENAPATES_R02_FINITE_PLAN_ACTUAL_COMPLETE_SAVED_MEANING_READBACK_AND_CLOSEOUT_V1.json",
+              "bytes": 6580,
+              "sha256": "11755e5172ae3aa74872520dc9cafaa02d993407caf6edd15831fc9d646cb09a"
+            },
+            {
+              "role": "AUTHOR",
+              "file": "START_HERE_PRENAPATES_R02_FINITE_CLASS_PLAN_SUCCESSOR_FROZEN_NO_AFTERIMAGES_V1.json",
+              "bytes": 6249,
+              "sha256": "97d4a9c508f178db55c8910817267272429ce692aa3f1e6eaa46d430922cac00"
+            },
+            {
+              "role": "PEER",
+              "file": "OWN_DIFFERENT_FINITE_R02_PLAN_QA_SIX_PROSPECTIVES_AND_ROLE_BEFORE_PLAN_MEANING_V1.json",
+              "bytes": 3277,
+              "sha256": "748439ba97be34f89a2d2f7d9b6df88c853d0203abb0cc80fda3acc65c60361e"
+            },
+            {
+              "role": "PEER",
+              "file": "OWN_DIFFERENT_PRENAPATES_R02_FINITE_PLAN_FULL_SIX_ANSWERS_AND_NO_NEW_MATERIAL_FINDING_V1.json",
+              "bytes": 12112,
+              "sha256": "0bb92377512d55b216d26ad5ad130464c2e853915ed52b57c7dde06bda5aac3c"
+            },
+            {
+              "role": "PEER",
+              "file": "OWN_DIFFERENT_PRENAPATES_R02_PLAN_QA_ACTUAL_SAVED_MEANING_READBACK_AND_CLOSEOUT_V1.json",
+              "bytes": 4131,
+              "sha256": "f770c017a61c39b5c24a7f08cb476030669877451f6b850682e3a8057aced175"
+            },
+            {
+              "role": "PEER",
+              "file": "START_HERE_DIFFERENT_PRENAPATES_R02_FINITE_PLAN_QA_FROZEN_NO_NEW_FINDING_V1.json",
+              "bytes": 4905,
+              "sha256": "df32a90b2b448fb64705b60749432f871c0cdaf70bfa17f8c8258328b758f0fe"
+            },
+            {
+              "role": "PEER",
+              "file": "OWN_DIFFERENT_PRENAPATES_V1_DATED_HISTORY_AND_CURRENT_V2_FULL_ATTRIBUTION_DELTA_SUPPLEMENT_V2.json",
+              "bytes": 8063,
+              "sha256": "32dfe8e18ad2656a70189d6698136f5b1a13206b6091ac95ff2bf414e8f6439b",
+              "scope": "Retain every complete top meaning except the EXACT /checks mechanical six-assertion array. This narrowly named queue stays private under full typed/raw commitment and inverse. Full four before/after attribution values remain directly readable;all nineteen unchanged-key names/counts/limits retained. No name-wide proof-key deletion.",
+              "retained_complete_top_pointers": [
+                "/schema",
+                "/UTC",
+                "/reviewer",
+                "/inputs",
+                "/same19_topkeys",
+                "/full_four_changed_or_added_values",
+                "/predicates",
+                "/false",
+                "/limits"
+              ],
+              "private_exact_root_commitment": {
+                "pointer": "/checks",
+                "value_type": "array",
+                "entries": 6,
+                "typed_sha256": "d0219cd8411cb51c0b48a0122fbd332932dfd61cb5252b5c22258233ec95ad02",
+                "original_file_bytes": 8063,
+                "original_file_sha256": "32dfe8e18ad2656a70189d6698136f5b1a13206b6091ac95ff2bf414e8f6439b",
+                "reason": "Mechanical six Boolean assertions only;complete unique attribution history/reasons retained in nine whole top roots."
+              }
+            },
+            {
+              "role": "ROOT",
+              "file": "THIS_ACTUAL_ROOT_PLAN_ADOPTION_AND_PUBLIC_COMPOSITION_COMMISSION",
+              "scope": "WholethisrecordincludingcompleteoriginalRootprospectives;actualplanacceptance/commission,not futurepublicbyteadoption."
+            }
+          ],
+          "prewrite": "Beforeanyafterimagewrite savecompleteexactfield/old-newtoken/privateboundaries/newnormative-rootmappings/typed&rawinverses/headerops/duplicateactualbase/speculativeDAGcontract. Newlaternotes maynormalize ONLYexactwholepureCcustodymetadatafields underitemizedfullinverse,never prose/identities/hashglobalregex. Measureactualallnewfield/record/root/IDcounts,notquotas. Everynewuniquecomposerquestion/reason/readback retainedwholebytrue role;operationalhelpers/proofqueues/rawsource/inputcodecs stayprivate.",
+          "stage": "Readwholeactualsavedbodyandalluniquenew6role meanings;independentfullselected/rawtypedinverses/currentgeometry/currentDAG/decodedhazard/class/rights checks. Measurefilesafterclassreview;>1MiBrequires exactbinding,nevermeaning-splitting. Freezeexact6selection/manifest/terminalforDIFFERENTcompletepublicQA+Rootactualnewbyteadoption. No currentmetadata/N/Git/provider/shared7/control/global/source/frozen/foreignhelper/excluded/catalogue/externalchat/countwrite."
+        },
+        "fixed_scope": "355/29/25/384/788;actualsource164/named19;all14OPEN/models0. No newsource/identity/home/named/REL/model/package credit fromthisplan.",
+        "exact_pointer_clarification": {
+          "prior_file": "ROOT_ACTUAL_R02_FULL_PLAN39074_QA12112_4131_OWN3810_120_ADOPTION_AND_EXPLICIT_PUBLIC6_COMPOSITION_V1.json",
+          "prior_bytes": 12464,
+          "prior_sha256": "a5d1a8600784ce5d66469b37e2bb9b72734d77581615f0f5966a6c96eb69f857",
+          "change": "Disambiguates prior spaced / checks wording as the exact /checks pointer and nine full top-meaning roots. Underlying plan/body/source/count/authority decision unchanged;prior privateV1 bytes retained."
+        }
+      }
+    }
+  ,"RA01":{
+  "record_id": "RA01",
+  "original_role": "ROOT",
+  "original_actor_fields": {
+    "actor": "/root"
+  },
+  "original_date_fields": {
+    "UTC": "2026-11-04T19:12:59.826Z"
+  },
+  "original_file": {
+    "filename": "ROOT_SIX_PUBLIC6_QUESTIONS_EXPOSURE_AND_R02_BOUNDARY_BEFORE_NEW_TARGET_MEANING_V1.json",
+    "bytes": 1772,
+    "sha256": "8b1e1329f3daf3471e722660ae8c4e78f215dae164f6e6e476e3ea749e2a2010"
+  },
+  "original_whole_typed_sha256": "d45c29ba9f035fc41f704f3b217f2222b588031604626909bed6d5fd93a55a7d",
+  "projected_whole_typed_sha256": "d45c29ba9f035fc41f704f3b217f2222b588031604626909bed6d5fd93a55a7d",
+  "retention_scope": "Whole original intellectual value; actual actor, course and stage remain attributed. Only individually declared whole pure custody strings normalized under full private raw/typed inverse.",
+  "original_value": {
+    "schema": "ROOT_PRENAPATES_PUBLIC6_SIX_PROSPECTIVES_BEFORE_NEW_PUBLIC_FORM_MEANING_V1",
+    "actor": "/root",
+    "UTC": "2026-11-04T19:12:59.826Z",
+    "questions": [
+      "Do current public6 preserve the full acceptedbody and actual actor/grade/date/stage of every nonidentical meaning,without treating Rootplanacceptance as publicbyteadoption?",
+      "Does R02 retain all36 meaningful roots directly with exactoriginalNOTYET firstpersonqualification while24custody-onlyleaves remainprivateunderfull5919inverse?",
+      "Are allold56/new11 andactual latercomposer/fullQA/Rootnormatives retainedwholebyrealrole,including distinct prospective/readback/history stages andsource333versus702 ownership?",
+      "Are individuallydeclaredpurecustodystrings separated fromNOOP/prose/identity/hashes and no hiddenprivateproofqueue/bodycodec/sourcecopy/filenamealias introduced?",
+      "Do actualsavedBODY14210postbytes/20paras,current35completebodyprojections/197routes/72IDs/56privateboundaries/15nonselfDAG followfullraw/typed inverses independently?",
+      "Do differentcompleteQAandRootownproof/actualnewmeaningreceiving support exactpublic6adoptiononly,withcanonicalmetadatacommission/persistence/count/model/sourcecourse stillseparate?"
+    ],
+    "exposure": "Rootalreadyactuallyadopted privatebody14965/post14210 and fullR02finiteplan39074 afterwholeQA12112/4131/8063 andown3810+120. Own genuinecourse333 remainsdistinct fromoriginalreadiness702 andbodyauthor/peer333;no newsourcecourse planned. Currentpublic6newmeaning notyetreceivedbyRoot.",
+    "scope": "ExactpositiveCpublicanalytical/provenance/form/inverse/normative records only. No contained underlying source/helper/private/excludedlocators orforeignhelperstat/read/hash/execute/import;noN/Git/provider/shared7/countwrites."
+  }
+},"RA02":{
+  "record_id": "RA02",
+  "original_role": "ROOT",
+  "original_actor_fields": {
+    "actor": "/root"
+  },
+  "original_date_fields": {
+    "UTC": "2026-11-04T19:48:00.805Z"
+  },
+  "original_file": {
+    "filename": "ROOT_ACTUAL_FULL_PUBLIC6_QA16585_READBACK5017_LEDGER64535_OWN4357_148_243_ADOPTION_AND_METADATA_ONLY_COMMISSION_V1.json",
+    "bytes": 19745,
+    "sha256": "c961da7fccd45f3da3461d40e2d63f1b5fcc869b8ba472a34eaa5e99deca6068"
+  },
+  "original_whole_typed_sha256": "8e8c1c463c1e6a6084c5af37085879b780525d187fc17dec5f5d8e2edcee9e64",
+  "projected_whole_typed_sha256": "1484f4a30af7a2a35e19032bb116eedc1705fcd560796c36239107e8865d3198",
+  "retention_scope": "Whole original intellectual value; actual actor, course and stage remain attributed. Only individually declared whole pure custody strings normalized under full private raw/typed inverse.",
+  "original_value": {
+    "schema": "ROOT_ACTUAL_PRENAPATES_FULL_PUBLIC6_DIFFERENT_QA_AND_OWN_NEW_BYTE_ADOPTION_CANONICAL_METADATA_ONLY_COMMISSION_V1",
+    "UTC": "2026-11-04T19:48:00.805Z",
+    "actor": "/root",
+    "decision": "ACCEPT_EXACT_PREPARED_PUBLIC6_WITH_LIMITS; COMMISSION_CANONICAL_METADATA_DERIVATIVE_ONLY",
+    "scope": "Existing character P3-CHAR-M029/P3-M029, home23/A201; no named duty, no new source admission, identity claim, model or package credit before complete accepted metadata6 plus shared7 persistence.",
+    "actual_received": {
+      "BODY": "Whole saved15032-byte BODY, all20 literary paragraphs and title/headings/closing; whole post-YAML14210 unchanged from actually adopted private body14965. Current form changes only three header lines at preparation stage. The card gesture, threat attribution, OS-reported gift and request, incomplete interior speech, recipient-directed care, endings and unprinted outcomes keep their distinct grades.",
+      "composer": "Whole CP01–CP07: prior prospective questions, three actual receiving-stage notes, complete six-role reasons, precision note and full10253 first-saved closeout, personally received at their distinct stages. Composer owns no underlying Prenapates source course and cannot self-adopt.",
+      "SOURCE": "Personally received complete V03 finite mode qualifier and current Q10 effectiveSELECTED83; A02 base authority, V03 qualification and Q10 current grade routes explicitly govern. Historical generic whole-body/new-source labels remain dated, not secretly rewritten. Actual actor courses remain distinct.",
+      "R02": "All six top meaningful values and thirty complete row meanings personally received, including original NOT_YET first-person qualification and planned333 history. Exactly24 custody-only leaves remain private and whole original5919 raw/typed recovery independently proved. Class partition does not discard low-stakes interpretive or provenance meaning.",
+      "additional": "All nine AQ05 full meaning roots received after expanding a formerly nested display; only exact six-Boolean /checks is private. Full five old literary variant paragraphs remain directly readable. Whole actual readiness R01, actual-receiving R03 and privatebody-adoption R04 distinct meanings received.",
+      "different_QA": "Whole16585 reasons,5017 saved-meaning readback and5351 frozen terminal personally received. Exposure ledger64535 is PEER intellectual/provenance meaning, not a bulk test queue: all unique top prose and every83 id/role/retained-form/receiving-method value received in bounded outputs; all83 actor/date/original-file tuples exactly equal actual current public wrappers, whose typed/raw recovery and genuine prior meanings Root independently verified. Clipped display after14000 chars earned no credit; remaining13500–21000 and20500–end were actually reissued and received.",
+      "navigation": "All current five JSON authority/rights/lifecycle surfaces, actual20 paragraph geometry,35 complete BODY projections, current15 nonself edges and all72 safe-ID classes received or exact-value reused from genuinely received complete declarations. Forty-nine actual logical wrapper targets and23 expressly nonruntime custody identities remain distinct. Both complete private-scope texts and all23 private IDs received. No contained private/source/helper target followed."
+    },
+    "same_reader_prior_authority": "Root genuinely owns its333 maintained-line course (five WHOLE250 plus V100 SELECTED83), original full-body/privateV2 adoption and finite R02 plan adoption. Original readiness reviewer702 and body author333/peer333 remain their own courses. Hash equality supports reuse of already received complete values; it supplies neither cognition nor source attendance.",
+    "six_particular_judgments": {
+      "BODY": "Accept the connected20-paragraph character interpretation with its asymmetric access to intention and outcome. Reported help and a gesture have positive literary value even when hostile involvement, exact speaker ownership, private motive and final effects remain incompletely known. No current Sensei identity merger, omniscience, accomplished rescue or generalized reform is added.",
+      "SOURCE": "Accept the SOURCE role as bounded maintained analytical evidence with full actor/mode qualification. The current finite V03 and Q10 grade govern; old misleading unqualified terms survive as dated history alongside their corrections. Publication metadata grants no primary/native/audio/video/raw attendance.",
+      "AUTHOR": "Accept all readiness, successive body decisions and prospective/actual composer records under their actual authors and dates. Preserve earlier uncertainty, later revision and separate genuine courses. Complete retained arguments are necessary authority; bulk custody/inverse data are private under exact recovery.",
+      "PEER": "Accept the distinct prior readiness702 and later complete-body333, finite-plan and public6 reviewer roles without conflating them. New full16585/5017/64535 QA meanings must all be retained by their true PEER role in the metadata derivative; the ledger is complete exposure/provenance argument, not a test queue.",
+      "ROOT": "Accept Root adoption and commission history as distinct dated events. Existing public_byte_adoption acceptedfalse/installedfalse/publishednull/count0 describes the prepared stage and remains literal history. This actual current Root prepared-byte adoption is new separate authority; recorder cannot substitute for Root, and future metadata adoption is separate.",
+      "REGISTRY": "Accept all real current logical component navigation and express private nonruntime witnesses. Full old actor/date/filename/hash meaning remains; opaque ID alone promises no file body or publication. Current-body selectors refer to complete equal paragraphs with whole beforeimages for displaced old variants. No filename aliases, hidden source transports, proof queues or body codecs are introduced."
+    },
+    "fresh_exact_six": [
+      {
+        "role": "BODY",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+        "C_path": "DATED-LOCATOR-8A41E6C9BAE83884",
+        "bytes": 15032,
+        "sha256": "2538cccf38a3500f7d6fd688c766de60c1ed1f1ed976757f6858db05a1c1304b",
+        "verified_now": true
+      },
+      {
+        "role": "SOURCE",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+        "C_path": "DATED-LOCATOR-319A6A6B35B8E045",
+        "bytes": 183530,
+        "sha256": "8423b7a5d397c1052edade1bdaab661c835a695f41906e123ae939651d19d439",
+        "verified_now": true
+      },
+      {
+        "role": "AUTHOR",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+        "C_path": "DATED-LOCATOR-726320F4BEC85EF1",
+        "bytes": 367364,
+        "sha256": "d102214316743387e43c27fc67f8e47a31cc2248027b76fbaa82b359ee9593ac",
+        "verified_now": true
+      },
+      {
+        "role": "PEER",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+        "C_path": "DATED-LOCATOR-A513660B64FF9A89",
+        "bytes": 272544,
+        "sha256": "e83c28aab685483623f1443d34ac34cf489cd04d8e13214e8b545d42f7529e1a",
+        "verified_now": true
+      },
+      {
+        "role": "ROOT",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+        "C_path": "DATED-LOCATOR-09D5E68F786C3907",
+        "bytes": 68400,
+        "sha256": "b0cd8a4bdffefc305dc59fcde6bd7293a653e0eba810d7575ff9bbe8ae869345",
+        "verified_now": true
+      },
+      {
+        "role": "REGISTRY",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_PUBLIC_COMPONENT_AND_DATED_LOCATOR_REGISTRY_V1.json",
+        "C_path": "DATED-LOCATOR-5C1D6A3D23245C52",
+        "bytes": 231130,
+        "sha256": "5559ad6e47d41776a3494645dec96f8ce3e8d022e217cbc4084374466c1a98ec",
+        "verified_now": true
+      }
+    ],
+    "different_review_pins": [
+      {
+        "filename": "OWN_PRENAPATES_PUBLIC6_COMPLETE_SIX_ANSWERS_REFERENCES_CLASS_AND_INDEPENDENT_VERDICT_V1.json",
+        "C_path": "DATED-LOCATOR-5CBF49FC40CF5CA1",
+        "bytes": 16585,
+        "sha256": "c3dffc1d0fae077e724a50ecdc3994db88f4aeaee0c05165deb09c9874d670f5"
+      },
+      {
+        "filename": "OWN_PRENAPATES_PUBLIC6_ACTUAL_WHOLE_SAVED_QA_MEANING_READBACK_AND_FINITE_CLOSEOUT_V1.json",
+        "C_path": "DATED-LOCATOR-686E0C6D3D38541F",
+        "bytes": 5017,
+        "sha256": "fe32ad70c074c8ce3695fe700fc58e4cb42752fc8854e34984083910b4d16861"
+      },
+      {
+        "filename": "OWN_PRENAPATES_PUBLIC6_COMPLETE_RETAINED_MEANING_COURSE_AND_EXACT83_ROLE_EXPOSURE_LEDGER_V1.json",
+        "C_path": "DATED-LOCATOR-27E858EF3DB7B7CF",
+        "bytes": 64535,
+        "sha256": "5a6bdfe39d72c65f17cf88fa89df9b84068f37d1bfdcb70ac0e6c432bddbb466"
+      },
+      {
+        "filename": "START_HERE_INDEPENDENT_PRENAPATES_ACTUAL_PUBLIC6_COMPLETE_MEANING_QA_FINAL_FROZEN_WITH_LIMITS_V1.json",
+        "C_path": "DATED-LOCATOR-73FC420690C60227",
+        "bytes": 5351,
+        "sha256": "e923aab216ef75c8addf7abb2555d4c53c89113330f07cf2ccd802579cd8d4e3"
+      }
+    ],
+    "own_independent_fidelity": [
+      {
+        "filename": "ROOT_OWN_PUBLIC6_ALL83_RAW_TYPED_197_ROOT862_FIELDS_AND_COMPLETE56_PARTITION_FIDELITY_V2.json",
+        "C_path": "DATED-LOCATOR-78768D8E3A19F00A",
+        "bytes": 405551,
+        "sha256": "2703a0694ff6e05c006fea8fd5dc67b2072fbb8d6232c1495f5d33aeb5c99baf",
+        "schema": "ROOT_OWN_PRENAPATES_PUBLIC6_FULL83_RAW_TYPED_197_ROOT_862_FIELD_56_PRIVATE_35_LITERAL_FIDELITY_V2",
+        "counts": {
+          "checks": 4357,
+          "false": 0,
+          "records": 83,
+          "roots": 197,
+          "fields": 862,
+          "pure": 155,
+          "NOOP": 707,
+          "private": 56,
+          "R02_meaning": 36,
+          "R02_private": 24,
+          "IDs": 72,
+          "literal_projections": 35,
+          "components": 6,
+          "edges": 15
+        }
+      },
+      {
+        "filename": "ROOT_OWN_CP07_FULL_SIX_RAW10_TYPED15_AND_OLD82_COMPLETE_INVERSE_SUPPLEMENT_V1.json",
+        "C_path": "DATED-LOCATOR-C141A679D6CCDDE9",
+        "bytes": 11535,
+        "sha256": "84c1e6127bab9ff09a51fffd36e424370be66bde03e3fb43412053044a15e22f",
+        "schema": "ROOT_OWN_PRENAPATES_CP07_FULL6_RAW10_TYPED15_INITIAL82_AND_BODY_NOOP_INVERSE_V1",
+        "counts": {
+          "checks": 148,
+          "false": 0,
+          "raw": 10,
+          "typed": 15,
+          "whole_components": 6,
+          "oldwrappers": 82
+        }
+      },
+      {
+        "filename": "ROOT_OWN_WHOLE14965_BODY_INVERSE_SAFE72_CLASS49_23_AND_DECODED_HAZARD_SUPPLEMENT_V2.json",
+        "C_path": "DATED-LOCATOR-BC001950A7E24E2F",
+        "bytes": 25287,
+        "sha256": "a6cab0bc84481c00b84b309be66b293729fa54ba557e7a0f96c8cbbda9734e83",
+        "schema": "ROOT_OWN_PRENAPATES_WHOLE_BODY_HEADER_INVERSE_SAFE72_LOGICAL49_PRIVATE23_AND_DECODED_HAZARDS_V2",
+        "counts": {
+          "checks": 243,
+          "false": 0,
+          "safeIDs": 72,
+          "logical": 49,
+          "privateOnly": 23,
+          "decoded_strings_keys": 22366,
+          "body_original": 14965,
+          "body_prepared": 15032,
+          "post_exact": 14210
+        }
+      }
+    ],
+    "own_QA_provenance_comparison": {
+      "count": 83,
+      "failed": 0,
+      "method": "Exact actual public wrapper record_id/original_role/original_file/original_actor_fields/original_date_fields, not just stage2 plan mappings. CP07 belongs to subsequent additive contract and is therefore absent from stage2 plan; actual83 matched."
+    },
+    "diagnostics": "Earlier own probes stopped on optional extra mapping hashes, a phrase variant and a stage2-only CP07 lookup; these incomplete probes earn no completion credit. Corrected mandatory fullraw/typed proof and actual-wrapper equality passed. No target or story prose changed to satisfy a checker. Composer stage2 inherited first-write/absence vocabulary is explicitly qualified by full CP07 additive contract; old specification remains dated.",
+    "rights_and_class": "Exact normative literary/source-authority/provenance records, complete typed/raw inverse and class data only. No foreign helpers or private recovery/source targets dereferenced. Public six largest367364 bytes; private1.63/1.64MiB specification/inverse files are not Git cargo. Class and need precede size; no storage integration handoff.",
+    "metadata_commission": {
+      "authorized": true,
+      "executor": "Different metadata author; Root remains sole N/Git/shared7 writer.",
+      "paths": "Same exact six repository paths only; new owned C derivative; no source/literary paragraph/source_boundary changes.",
+      "BODY": "Set current flat status canonical and veto false, retaining empty supersedes/superseded_by. Use honest current-eligible metadata lifecycle/generation, preserving complete old header raw/typed beforeimage privately and dated authority history. Post-YAML14210 bytes must remain exact; actual changed header operations must be derived, not assumed.",
+      "JSON": "Set current top-level canonical/false-veto/empty-arrays quartet and appropriate current-eligible metadata lifecycle. Preserve all old83 wrappers197 roots862 fields under only individually specified custody and complete-literal selector changes, with full whole raw/typed inverses and actual successor geometry. Retain old status/rights/lifecycle/preparation and pending/install/count snapshots as dated literal history; append actual Root prepared-byte adoption and explicit metadata commission separately.",
+      "new_meaning_retention": "Retain this complete Root actual adoption and original1772 Root prospective under ROOT; full independent16585 reasons,5017 readback and64535 exposure ledger under PEER; own metadata-author prospectives, complete reasons and actual saved-readback under AUTHOR. Other intellectual new records, if created, need their true role and whole retention. Counts are observations, never quotas.",
+      "routing": "Current six and nonself component DAG derived from actual afterimages in dependency order, no self-hash cycles. Distinguish current metadata authority from historical C drafts. ROOT current control names actual Root authorizer and different recorder. Retain full public6 QA/Root chronology rather than renaming old pending events.",
+      "procedure": "Write prospective questions before new meanings, personally receive complete new notes, exact prewrite field/raw/typed inverse specification before all afterimages and additive controls before later owned updates. Own independent whole-saved-byte verification and actual complete meaning readback; stop for a DIFFERENT metadata QA and Root actual derivative receiving/adoption. No N/Git/provider/shared7/source writes."
+    },
+    "execution": {
+      "prepared_bytes_adopted": true,
+      "canonical_metadata_future_not_adopted": true,
+      "installed": false,
+      "published_commit": null,
+      "count_credit": 0,
+      "source_course_credit": 0,
+      "models": 0,
+      "claim_gaps_closed": 0
+    },
+    "current_publication_context": {
+      "source_commit": "de338b5df62ba047a943288fea486d34eff58696",
+      "persisted_packages": 165,
+      "required": 355,
+      "named": 19,
+      "named_required": 29,
+      "next_milestone": 178,
+      "remaining": 13,
+      "main": "58f6f432370a93b475dd3969df838dfff184ea42",
+      "source_full_audit": "486/486 unique, zero failures/errors/skips; actual run41897078972 succeeded. This does not certify future Prenapates bytes."
+    }
+  }
+}},
+  "actual_plan_adoption_route": "/dated_records/RC02/original_value",
+  "public_byte_adoption": {
+    "status": "PENDING_DIFFERENT_COMPLETE_PUBLIC_QA_AND_ROOT_ACTUAL_RECEIVING",
+    "accepted": false,
+    "installed": false,
+    "published_commit": null,
+    "count_credit": 0
+  }
+,"dated_preparation_metadata_snapshot":{
+  "stage": "Literal prior public-form preparation metadata before actual Root prepared-byte adoption; historical, not current contrary control.",
+  "values": {
+    "generation": "V1",
+    "status": "draft_noncurrent",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": true,
+    "scope": "Existing home23/P3-CHAR-M029/P3-M029/A201same duty;V100;notnamed; distinct from current Sensei.",
+    "lifecycle_state": "C_ONLY_PUBLIC_FORM_PREPARATION_FROM_ACTUALLY_ADOPTED_FINITE_PLAN;DIFFERENT_PUBLIC_QA_AND_ROOT_PUBLIC_BYTE_ADOPTION_PENDING",
+    "composer": "/root/ayame_p015_correction_plan",
+    "composer_role": "Former distinct finite plan reviewer now public-form composer; no Prenapates underlying source course or literary-body approval; not future different public QA or Root adopter.",
+    "rights_and_class": "Project-authored analytical/provenance/navigation text and bounded existing maintained-analysis warrants; no new primary/native/raw/AV/source-media rights. Source copies/helpers/execution queues/inverses remain private.",
+    "role": "ROOT",
+    "class_need_before_size": "Complete actual readiness/privatebody/finiteplan adoption and explicit composition authority; no future public-byte adoption.",
+    "current_components": [
+      {
+        "role": "BODY",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md",
+        "bytes": 15032,
+        "sha256": "2538cccf38a3500f7d6fd688c766de60c1ed1f1ed976757f6858db05a1c1304b",
+        "kind": "CURRENT_GENERATED_COMPONENT_BYTES_ONLY;not dated locator navigation"
+      },
+      {
+        "role": "SOURCE",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+        "bytes": 183530,
+        "sha256": "8423b7a5d397c1052edade1bdaab661c835a695f41906e123ae939651d19d439",
+        "kind": "CURRENT_GENERATED_COMPONENT_BYTES_ONLY;not dated locator navigation"
+      },
+      {
+        "role": "AUTHOR",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+        "bytes": 367364,
+        "sha256": "d102214316743387e43c27fc67f8e47a31cc2248027b76fbaa82b359ee9593ac",
+        "kind": "CURRENT_GENERATED_COMPONENT_BYTES_ONLY;not dated locator navigation"
+      },
+      {
+        "role": "PEER",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+        "bytes": 272544,
+        "sha256": "e83c28aab685483623f1443d34ac34cf489cd04d8e13214e8b545d42f7529e1a",
+        "kind": "CURRENT_GENERATED_COMPONENT_BYTES_ONLY;not dated locator navigation"
+      }
+    ]
+  },
+  "BODY_header_UTF8_literal": "---\nseries: BLUE_ARCHIVE\nartifact_type: character_monograph\ngeneration: V1\nscope: Existing home23/P3-CHAR-M029/P3-M029; V100 only; A201 same duty; notnamed\nsubjects: Prenapates; distinct from current Sensei\nstatus: draft_noncurrent\nsupersedes: []\nsuperseded_by: []\ndo_not_use_as_current_authority: true\nsource_boundary: Original body author and distinct complete-body reviewer each declare five WHOLE250 plus V100 SELECTED83 maintained lines under separately attributed courses; Root owns its own333; public-form planning adds no source or primary/native/raw/AV attendance\nintended_repository_path: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md\nlifecycle_state: PUBLIC_FORM_PREPARATION_20261104_PRIVATE_V2_CONNECTED20_ROOT_ACCEPTED\ncreated: 2026-11-04\n---\n",
+  "public_byte_adoption": {
+    "status": "PENDING_DIFFERENT_COMPLETE_PUBLIC_QA_AND_ROOT_ACTUAL_RECEIVING",
+    "accepted": false,
+    "installed": false,
+    "published_commit": null,
+    "count_credit": 0
+  }
+},"current_metadata_control":{
+  "authorizer": "/root",
+  "recorder": "/root/sumire_shared7_finite_plan",
+  "basis": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+    "JSON_pointer": "/dated_records/RA02/original_value"
+  },
+  "meaning": "Root actually adopted prepared public6 and explicitly commissioned this same-six metadata derivative. Original composer/preparation fields and historical pending public_byte_adoption remain dated; canonical metadata here is a current-eligible candidate pending different metadataQA and actual Root derivative adoption.",
+  "prepared_public6_adopted": true,
+  "different_metadata_QA": "PENDING",
+  "Root_actual_derivative_adoption": "PENDING",
+  "installed": false,
+  "published_commit": null,
+  "count_credit": 0,
+  "source_course_credit": 0
+},"current_authority_control":{
+  "Root_authorizer": "/root",
+  "recording_metadata_author": "/root/sumire_shared7_finite_plan",
+  "prepared_public6_adoption_route": "/dated_records/RA02/original_value",
+  "Root_prospective_route": "/dated_records/RA01/original_value",
+  "complete_independent_public_QA_routes": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/PQA01/original_value"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/PQA02/original_value"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/PQA03/original_value"
+    }
+  ],
+  "historical_top_public_byte_adoption": "The existing top public_byte_adoption object is the literal pre-public-QA preparation snapshot. It does not contradict the later actual prepared-byte adoption under RA02 and is not a current derivative-byte acceptance record.",
+  "actual_metadata_derivative_adoption": "PENDING_DIFFERENT_METADATA_QA_AND_ROOT_ACTUAL_RECEIVING",
+  "installed": false,
+  "published_commit": null,
+  "count_credit": 0,
+  "models": 0,
+  "claim_gaps_closed": 0
+}}

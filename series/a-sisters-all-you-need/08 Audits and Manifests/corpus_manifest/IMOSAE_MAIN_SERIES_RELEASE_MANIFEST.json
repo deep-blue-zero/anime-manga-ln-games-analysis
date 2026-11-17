@@ -1,0 +1,678 @@
+{
+  "schema": "IMOSAE/numbered-main-series-analytical-release/v1",
+  "release_id": "IMOSAE-V01-V14-MAIN-SERIES-ANALYTICAL-RELEASE-1.0",
+  "generation": "V1",
+  "analytical_acceptance": "complete and locally reviewed within declared ceilings",
+  "created_utc": "2026-10-13T08:17:13.205697+00:00",
+  "branch": "series/a-sisters-all-you-need",
+  "original_prospective_freeze_base": "238fed779661f6a5a49d6a70034a6183d17ca175",
+  "reviewed_author_base": "cb99d141317d51f9c47ee098c7a07982c07c3a20",
+  "carrying_commit_rule": "The Git commit/tree carrying this manifest binds publication. No self-referential head SHA or successful CI/merge is asserted here. External execution receipt records exact source/final/integration SHAs.",
+  "source_releases": {
+    "raw": "IMOSAE-JP-LN-RAW-1.0",
+    "normalized": "IMOSAE-JP-LN-NORM-1.0",
+    "normalization_spec": "IMOSAE-NORM-SPEC-1.0",
+    "visual": "IMOSAE-VISUAL-INDEX-1.0",
+    "gaiji": "IMOSAE-GAIJI-MAP-1.0",
+    "mutated": false,
+    "normalized_manifest_Drive_id": "1IYRwvKtKcHWEIK-rQN_wF73h9qyjquht",
+    "normalized_text_folder": "1621QxO9x3GpR2wh7bpXtSUB9zgA4AaDX",
+    "sidecar_folder": "18yvch7xMrvPS3XobOoS7a4QIpevOEuil"
+  },
+  "source_check_totals": {
+    "raw_files": 14,
+    "raw_bytes": 222679906,
+    "paragraphs": 34766,
+    "ruby": 29083,
+    "gaiji": 651,
+    "format_annotations": 15175,
+    "visual_anchors": 552,
+    "raster_members": 666,
+    "frozen_raster_asset_hash_matches": 666,
+    "frozen_non_gaiji_visual_assets": 562,
+    "evidence_units": 3666,
+    "coordinate_references": 3729,
+    "G005_occurrences": 2,
+    "original_epub_block_xpaths_resolved": 34766,
+    "inline_gaiji_asset_members": 104,
+    "unique_inline_gaiji_asset_hashes": 65
+  },
+  "analytical_completeness": {
+    "prospective_readings": 14,
+    "frozen_checkpoints": 5,
+    "V14_ledgers": 8,
+    "mature_specialists": 8,
+    "terminal_products": 3,
+    "operational_subject_models": 17,
+    "broad_conditional_models": 5,
+    "bounded_models": 12,
+    "model_documents": 7,
+    "recognition_profile_documents": 1,
+    "mature_monographs": 4,
+    "manual_retrospective_QA_cases": 58,
+    "QA_results": {
+      "PASS": 36,
+      "ABSTENTION_PASS": 16,
+      "REPAIRED_PASS": 6
+    },
+    "final_block_claim_dispositions": 41,
+    "final_block_question_dispositions": 32,
+    "named_retrieval_guides": 5
+  },
+  "limits": {
+    "external_supplement_task_rows": "eleven explicitly deferred",
+    "held_out_behavior_prediction": "not executed",
+    "acoustic_performance": "not admitted/tested",
+    "unshown_futures_and_implementation": "remain open",
+    "ethical_evaluations": "qualified interpretation with contrary evidence, not universal TF",
+    "global_character_and_capability_effect": "no author writes; reviewed discovery leads only"
+  },
+  "envelope_exclusions": [
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/corpus_manifest/IMOSAE_MAIN_SERIES_RELEASE_MANIFEST.json",
+      "reason": "manifest cannot list its own hash; included in companion checksum file"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/release_checksums/IMOSAE_MAIN_SERIES_RELEASE.sha256",
+      "reason": "checksum file cannot contain its own hash"
+    }
+  ],
+  "payload_file_count": 99,
+  "payload_total_bytes": 6685981,
+  "payload": [
+    {
+      "path": "series/a-sisters-all-you-need/00 Frameworks and Methods/IMOSAE_ANALYTICAL_METHOD_V1.md",
+      "bytes": 29962,
+      "sha256": "c5f6b523fe316ea91abb7dbf8eaf1b3bb76595075b72d47549189a4a4b65cb7a",
+      "artifact_type": "analytical_method"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/00 Frameworks and Methods/IMOSAE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "bytes": 18866,
+      "sha256": "5709adf216ed6935ddc1d82f0061d46eb827fe7e1c726d07b25ddbd9fb045ca8",
+      "artifact_type": "synthesis_architecture"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/01 Source Lock and Inventory/IMOSAE_GAIJI_AND_TEXT_NORMALIZATION_REGISTER.md",
+      "bytes": 22668,
+      "sha256": "52141308cb7bd6d58b323faac3e747eb14c6192732e5454a950f7eff25b661c1",
+      "artifact_type": "source_normalization_register"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/01 Source Lock and Inventory/IMOSAE_ILLUSTRATION_AND_PARATEXT_INVENTORY.md",
+      "bytes": 83749,
+      "sha256": "fe918a27af687c2531eaa1d0ee87547318faa5be1afaee9be9c4f8c6719b793e",
+      "artifact_type": "illustration_paratext_inventory"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/01 Source Lock and Inventory/IMOSAE_NORMALIZED_READING_LAYER_AND_LOCATOR_REGISTER.md",
+      "bytes": 7907,
+      "sha256": "cb9df3c376f46e54f9abf66e05c2bb23e87094a4d9eebd669084c3a317c7b76d",
+      "artifact_type": "normalized_reading_layer_register"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/01 Source Lock and Inventory/IMOSAE_SOURCE_INVENTORY.md",
+      "bytes": 12597,
+      "sha256": "1d3adcbde0dfde43dc8c4251c7da40e2a33b7bce735d652d9fc90772463dbe28",
+      "artifact_type": "source_inventory"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/01 Source Lock and Inventory/IMOSAE_SOURCE_LOCK.md",
+      "bytes": 10475,
+      "sha256": "772257ffbf55c69912e2537349cbc7b8698874be4a01372a1657836e1c652484",
+      "artifact_type": "source_lock"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/01 Source Lock and Inventory/IMOSAE_SUPPLEMENTAL_SOURCE_INVENTORY_AND_ACQUISITION_PLAN.md",
+      "bytes": 21768,
+      "sha256": "25458d7b7ed33acdc550b1b37a4defbfb26e55df4c4763104ec3a1850754c191",
+      "artifact_type": "source_inventory"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/01 Source Lock and Inventory/machine_readable/checksums.sha256",
+      "bytes": 1652,
+      "sha256": "57520a40a9ceb7aeb3e76ec2904332c36d498808184ed899c05c8ea4f10a8d99",
+      "artifact_type": "source_or_project_metadata"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/01 Source Lock and Inventory/machine_readable/gaiji_map.json",
+      "bytes": 75629,
+      "sha256": "a55cb6c0843374299f8d8fa8c988d1fc0269f74487ac2a78be260dc8d08385ec",
+      "artifact_type": "source_or_project_metadata"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/01 Source Lock and Inventory/machine_readable/gaiji_occurrences.jsonl",
+      "bytes": 270744,
+      "sha256": "9f6100a6c61ed916f3280d4a58876abac7a8bee549237f947f5032d3249f64bb",
+      "artifact_type": "source_or_project_metadata"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/01 Source Lock and Inventory/machine_readable/illustration_paratext_index.jsonl",
+      "bytes": 1026727,
+      "sha256": "75b80bfec7d91cc2100fe5c8a8ba128d9b38645341a007d268ca84cbd075ea2d",
+      "artifact_type": "source_or_project_metadata"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/01 Source Lock and Inventory/machine_readable/illustration_paratext_validation.json",
+      "bytes": 8071,
+      "sha256": "6f0ab76da905ec54529e20447dc3573b3eff6c18c19360167eded731faa7109b",
+      "artifact_type": "source_or_project_metadata"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/01 Source Lock and Inventory/machine_readable/normalization_validation.json",
+      "bytes": 3487,
+      "sha256": "0793d5907f1a78a6dc4905772adaa1e728e7d8ee78650820aa29e6a434e7078a",
+      "artifact_type": "source_or_project_metadata"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/01 Source Lock and Inventory/machine_readable/source_manifest.json",
+      "bytes": 12295,
+      "sha256": "c020477fead457fd3673084ef44eea0deb404edf469ef203dda27cb4ec970f53",
+      "artifact_type": "source_or_project_metadata"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/Checkpoints/IMOSAE_V01-V03_CHECKPOINT.md",
+      "bytes": 50834,
+      "sha256": "fc0ee3d7803059ad7fcbb317333284533e8581c90a63b68d0fa64e2be5eff611",
+      "artifact_type": "checkpoint"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/Checkpoints/IMOSAE_V04-V06_CHECKPOINT.md",
+      "bytes": 46681,
+      "sha256": "f8177b6f520eb43b31bc3f6cec0281cdaeb285c0a591824bbfa9fbf25d93e6f7",
+      "artifact_type": "checkpoint"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/Checkpoints/IMOSAE_V07-V09_CHECKPOINT.md",
+      "bytes": 70287,
+      "sha256": "a7fce47d9d2a1a39c0e8cb4f739e1c49e02749fc00006153ef5d8c7bffab2e44",
+      "artifact_type": "checkpoint"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/Checkpoints/IMOSAE_V10-V12_CHECKPOINT.md",
+      "bytes": 65807,
+      "sha256": "d276a1afd8a4e1947e6e8ee1145c5bfafde7e523cc74aeb89c15f97a7dfedf64",
+      "artifact_type": "checkpoint"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/Checkpoints/IMOSAE_V13-V14_END_STATE_CHECKPOINT.md",
+      "bytes": 47875,
+      "sha256": "bd21fbb5e24d86108e9296574f43779f5198caa0f36ab5346726747e48ac507b",
+      "artifact_type": "checkpoint"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V01_DEEP_READING.md",
+      "bytes": 76628,
+      "sha256": "d37b0837362138953c2ab61bcafa059ce2c8ddbb3ad21c9badda6337d1d5c866",
+      "artifact_type": "deep_reading"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V02_DEEP_READING.md",
+      "bytes": 92791,
+      "sha256": "2e30c54b1dc6a2c232ceea4a2ad7f0c7b25280ec61a11898409a8057ce89e8e5",
+      "artifact_type": "deep_reading"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V03_DEEP_READING.md",
+      "bytes": 110628,
+      "sha256": "7d341da769f2fefd7593dd1ed268ce231cb88c43e3da2b20facbeef6098eec7b",
+      "artifact_type": "deep_reading"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V04_DEEP_READING.md",
+      "bytes": 95472,
+      "sha256": "0766d626b59c739f39a0186aa2572d738675db0f7a708412b661d97283a493b8",
+      "artifact_type": "deep_reading"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V05_DEEP_READING.md",
+      "bytes": 122806,
+      "sha256": "c774aa3d56a210aa0cc81089872dbc832da62260adea8b45e569abf5d2c23434",
+      "artifact_type": "deep_reading"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V06_DEEP_READING.md",
+      "bytes": 92933,
+      "sha256": "852ac4e1885b13931782817dabd6294c99261e998379cafc3f74e44c3c9d41cc",
+      "artifact_type": "deep_reading"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V07_DEEP_READING.md",
+      "bytes": 86983,
+      "sha256": "eeeac9ada717f6ebfabd4f035c362abf62c85db8d8308d0d4b17e2cf9c4a2eaf",
+      "artifact_type": "deep_reading"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V08_DEEP_READING.md",
+      "bytes": 114921,
+      "sha256": "dff1c5dac0eab9e186d36b39537643ca09a74db363fec07047697b86115fcf08",
+      "artifact_type": "deep_reading"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V09_DEEP_READING.md",
+      "bytes": 156809,
+      "sha256": "d07415ff769f194cbe0b3ffbfd14be986098632e8fff31c75d8712734b62e49d",
+      "artifact_type": "deep_reading"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V10_DEEP_READING.md",
+      "bytes": 181092,
+      "sha256": "6fa34b58b0396408ddd87e0423d10d0e5bffd4c334a19968a0ec09709236d4ad",
+      "artifact_type": "deep_reading"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V11_DEEP_READING.md",
+      "bytes": 159481,
+      "sha256": "f009fd24ebe8e86b80b353d1ad12cb679af17dcfabca7fa2a659d9e39a6ce500",
+      "artifact_type": "deep_reading"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V12_DEEP_READING.md",
+      "bytes": 164308,
+      "sha256": "a19308c8befb1b47bdd502561b70f885a2d18ff4ad03c6982c55128e4182ce89",
+      "artifact_type": "deep_reading"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V13_DEEP_READING.md",
+      "bytes": 211565,
+      "sha256": "618831a4112c06ab4108e99cc64f7ec8b3ac7991916bcf9e751bab5a0be1611d",
+      "artifact_type": "deep_reading"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/02 Sequential Readings/IMOSAE_V14_DEEP_READING.md",
+      "bytes": 118708,
+      "sha256": "e3bdbec2041a19dac8ad37726f07ed5820f2102a4722f74bc23b2817f4f8b489",
+      "artifact_type": "deep_reading"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_CHARACTER_AND_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 90498,
+      "sha256": "1efa4779231fba84452bcf5ca6309c91f9085afdc4a601eafbac220964c3b7db",
+      "artifact_type": "ledger"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_CLAIM_REVISION_LEDGER.md",
+      "bytes": 116203,
+      "sha256": "d2453c5f7cc215f0db7b0a7cb49f8525dec163cab397184f235241b487713961",
+      "artifact_type": "claim_revision_ledger"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_CREATIVE_LABOR_CAREER_AND_INDUSTRY_LEDGER.md",
+      "bytes": 68420,
+      "sha256": "499472c1a071fcf538029c1bf88c591ce13ac588227f7eea5df166375709b288",
+      "artifact_type": "ledger"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_FAMILY_IDENTITY_AND_SIBLINGHOOD_LEDGER.md",
+      "bytes": 44688,
+      "sha256": "9f489a9e1e56d7ef9f0c33ce11143e68fef7426ddf656fe31cf205ebbe6e637c",
+      "artifact_type": "ledger"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_FICTION_WITHIN_FICTION_GAMES_AND_INTERTEXT_LEDGER.md",
+      "bytes": 43969,
+      "sha256": "c4f47f9ad195960b876cf001573d09fe6251aad03fa47ebfca4fcb0a61da703b",
+      "artifact_type": "ledger"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_JAPANESE_VOICE_STYLE_AND_TERMINOLOGY_LEDGER.md",
+      "bytes": 50373,
+      "sha256": "58f2a16c70cc6094fd45df5270d1025803be4e2a231f54f009f44ceeb29120e1",
+      "artifact_type": "ledger"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_OPEN_QUESTIONS_LEDGER.md",
+      "bytes": 85290,
+      "sha256": "e837faed7b31ad417e502a8f3fe74b44485f788d2217d817e2ca0eef0d465d05",
+      "artifact_type": "ledger"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/03 Longitudinal Ledgers/IMOSAE_VISUAL_PARATEXT_AND_ILLUSTRATION_LEDGER.md",
+      "bytes": 46512,
+      "sha256": "853809e821998566eba76d47bd1d29e9ff69bcce4cad14905c2ca3b5adbaa993",
+      "artifact_type": "ledger"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_monographs/IMOSAE_CHAR_CHIHIRO_HASHIMA_MONOGRAPH_V01-V14.md",
+      "bytes": 22504,
+      "sha256": "34c165f8fa58c498ffc37af0a126336e96727ab7cff3dab86405ac657e117ca2",
+      "artifact_type": "character_monograph"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_monographs/IMOSAE_CHAR_ITSUKI_HASHIMA_MONOGRAPH_V01-V14.md",
+      "bytes": 25109,
+      "sha256": "70c3ecd8014aa6f0635e16d2b09b0324f386573e921d5e9289194187af313ff3",
+      "artifact_type": "character_monograph"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_monographs/IMOSAE_CHAR_MIYAKO_SHIRAKAWA_MONOGRAPH_V01-V14.md",
+      "bytes": 20267,
+      "sha256": "aa61026dc055720a21cc80fdbdbe75f785ffd9554cf7892e9e221343af299c82",
+      "artifact_type": "character_monograph"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_monographs/IMOSAE_CHAR_NAYUTA_KANI_MONOGRAPH_V01-V14.md",
+      "bytes": 20681,
+      "sha256": "d33f4d777573f99306992af73eaca76d4d1190f4bba52106d5f505e909c2b67e",
+      "artifact_type": "character_monograph"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHAR_CHIHIRO_HASHIMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 23744,
+      "sha256": "93b74e17c5345aeb86303237bc183713854a198c2c47a2c8777a22fe8cdf0241",
+      "artifact_type": "character_reconstruction_model"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHAR_HARUTO_FUWA_RECONSTRUCTION_MODEL.md",
+      "bytes": 21251,
+      "sha256": "53352e7ede22af34d6164785075c6c0259c3f669e8a34652957d10746751b06a",
+      "artifact_type": "character_reconstruction_model"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHAR_ITSUKI_HASHIMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 30532,
+      "sha256": "bff6873e9a4aaa834d75fe10a1c9762832a12a2a9916cccd3f9e991c8da9ebb9",
+      "artifact_type": "character_reconstruction_model"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHAR_KENJIRO_TOKI_DOMAIN_MODEL.md",
+      "bytes": 17734,
+      "sha256": "4f99e3b7d63c22a400e1716a113440a62e11f8cc7ea2dda268fbf525ae9b2b74",
+      "artifact_type": "character_reconstruction_model"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHAR_MIYAKO_SHIRAKAWA_RECONSTRUCTION_MODEL.md",
+      "bytes": 23377,
+      "sha256": "6c17ad3f5cbfc61058b02861bf5e70a77b454e1c62be849e4304695296a32173",
+      "artifact_type": "character_reconstruction_model"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHAR_NAYUTA_KANI_RECONSTRUCTION_MODEL.md",
+      "bytes": 26164,
+      "sha256": "fa8557a44bc7b082f27649107f948bacc6af9b8ec288fab69e908832860aaa6d",
+      "artifact_type": "character_reconstruction_model"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHARACTER_MODEL_EVIDENCE_AND_QA.md",
+      "bytes": 40016,
+      "sha256": "b51093c41c379b3666493f21a37e0e90ab937f68f1af9d722f0cde941a30e2be",
+      "artifact_type": "character_model_evidence_and_qa"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHARACTER_READINESS_AUDIT.md",
+      "bytes": 18844,
+      "sha256": "ae31d1a07755e3677c1ebaebaf59f2eb9f0b9c9d7421595949d0cb15a47a64fd",
+      "artifact_type": "character_readiness_audit"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_CHARACTER_RECONSTRUCTION_PROTOCOL.md",
+      "bytes": 13012,
+      "sha256": "96216d7889db240cb12a05605b4d2fc386b94b818b03fbb66a73bc22b6fd18f8",
+      "artifact_type": "character_reconstruction_protocol"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_RECOGNITION_AND_ABSTENTION_PROFILES.md",
+      "bytes": 19261,
+      "sha256": "59b27b4477a829479c58a21253d3ba6192e0f675df1048db41941bc5c138a67e",
+      "artifact_type": "character_recognition_profiles"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/character_reconstruction/IMOSAE_SECONDARY_CHARACTER_DOMAIN_MODELS.md",
+      "bytes": 63838,
+      "sha256": "3e96c8ef642e8d6b6154a75f04edeadac372ec9954cf0e45f70635b09d174bac",
+      "artifact_type": "character_reconstruction_model"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_CHAR_KANI_NAYUTA_PROVISIONAL_MONOGRAPH_V01-V06.md",
+      "bytes": 70873,
+      "sha256": "0106ee7cc37e706678a1ef4800f6218ea6d7bad7eada46d7c8b81b5c7b8e4f28",
+      "artifact_type": "character_monograph"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_CHAR_KENJIRO_TOKI_PROVISIONAL_MONOGRAPH_V01-V06.md",
+      "bytes": 77351,
+      "sha256": "b2c9db225cbea44fa5e44a579cb91a3e443652a04ba463607a960c2b48a687bd",
+      "artifact_type": "character_monograph"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_COMEDY_SEXUALITY_VULGARITY_AND_BOUNDARIES_SPECIALIST_SYNTHESIS.md",
+      "bytes": 48078,
+      "sha256": "e88817f46ebb0fd4812af278797efdff408a2b06db746b52072b4f9a3987b1d9",
+      "artifact_type": "specialist_synthesis"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_CREATIVE_LABOR_AUTHORSHIP_AND_LN_INDUSTRY_SPECIALIST_SYNTHESIS.md",
+      "bytes": 60329,
+      "sha256": "0f3d44ed6756ec402125e383d3137ca500fa058e9326b4f1cffcea94ffd81401",
+      "artifact_type": "specialist_synthesis"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_FAMILY_SIBLINGHOOD_AND_IDENTITY_SPECIALIST_SYNTHESIS.md",
+      "bytes": 50458,
+      "sha256": "477cc46ec4f25a6bdf8831de6f2fc0decced8697cefaa83c9b96f3793fe059d6",
+      "artifact_type": "specialist_synthesis"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_GAMES_TRPG_ALCOHOL_AND_SOCIAL_RITUAL_SPECIALIST_SYNTHESIS.md",
+      "bytes": 49293,
+      "sha256": "f139316ae2fcd3f37773af77f5d200a3f8e571de95ef4114e9b74ac8b95f38ce",
+      "artifact_type": "specialist_synthesis"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_ILLUSTRATION_PARATEXT_AND_MEDIA_REFLEXIVITY_SPECIALIST_SYNTHESIS.md",
+      "bytes": 47120,
+      "sha256": "10b48a73a4e9d0bf56d8ae8e2a5e657720a56eb7c9e215a9dc2ac15d191282af",
+      "artifact_type": "specialist_synthesis"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_NARRATION_JAPANESE_VOICE_AND_INTERTEXT_SPECIALIST_SYNTHESIS.md",
+      "bytes": 52745,
+      "sha256": "749cc4f5c304967b132bab4f70ec6634d9ae8b12ae59d79e9c0033d4d5ffa4c5",
+      "artifact_type": "specialist_synthesis"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_RELATIONSHIPS_INTIMACY_FRIENDSHIP_AND_ADULT_LIFE_SPECIALIST_SYNTHESIS.md",
+      "bytes": 54282,
+      "sha256": "cd1241a1f71087133849d575aab9562b08e83102651fd009b6cfd98fb7fb84ca",
+      "artifact_type": "specialist_synthesis"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/04 Specialist Synthesis/IMOSAE_TALENT_EFFORT_SUCCESS_FAILURE_AND_SELF_WORTH_SPECIALIST_SYNTHESIS.md",
+      "bytes": 53840,
+      "sha256": "07fe06a4553ed225fc19fe495623f9c055eeed97d54674cf5d77da1d7424c186",
+      "artifact_type": "specialist_synthesis"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/05 Full-Series Synthesis/IMOSAE_COMPARATIVE_REFERENCE_AND_OPEN_QUESTIONS.md",
+      "bytes": 47252,
+      "sha256": "ad7154278750edd7c8fba14c20cbed872467318b431e17389b72bfa89aed2db2",
+      "artifact_type": "comparative_reference_and_open_questions"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/05 Full-Series Synthesis/IMOSAE_CORE_CHARACTER_REFERENCE.md",
+      "bytes": 57694,
+      "sha256": "229a62aefce77b826d2d4b98059115e90d85252b73017761f6f9c348a8af51a7",
+      "artifact_type": "core_character_reference"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/05 Full-Series Synthesis/IMOSAE_FULL_SERIES_SYNTHESIS.md",
+      "bytes": 89068,
+      "sha256": "592afea07d8fa5fc2053f3976f383da9dd75a1f7e20259eb620b2ea8beac1c3e",
+      "artifact_type": "full_series_synthesis"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_ILLUSTRATION_LOCATOR_INDEX.md",
+      "bytes": 9153,
+      "sha256": "a476058c6408f875b65b0ff156caba42ab9d365e6348355e7002bea48fdf60d4",
+      "artifact_type": "illustration_locator_index"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_JAPANESE_PASSAGE_AND_TERMINOLOGY_INDEX.md",
+      "bytes": 15118,
+      "sha256": "869990cae8754967e90b7e8c9c1ac527d9d5839e98500ec569d78485551e22b3",
+      "artifact_type": "Japanese_passage_and_terminology_index"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_PRIMARY_IDENTITY_AND_NORMALIZATION_ERRATA.md",
+      "bytes": 14346,
+      "sha256": "d6e1135d8956027428327f32765d8109b5b61792a1249613cd9460ef84059557",
+      "artifact_type": "evidence_index"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_PRIMARY_SOURCE_LOCATOR_INDEX.md",
+      "bytes": 12481,
+      "sha256": "b2a604766b46429847778d46b25d21348509649e1d406419c45e6fd2fb92f989",
+      "artifact_type": "primary_source_locator_index"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_REVIEWED_CHARACTER_DISCOVERY_EVIDENCE_HANDOFF.md",
+      "bytes": 3378,
+      "sha256": "e40bb9f78d24d4d31d639095e793928b1a97e6a1ad39704d71f258eed5b124fb",
+      "artifact_type": "reviewed_character_discovery_evidence_handoff"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_SUPPLEMENT_CROSSWALK.md",
+      "bytes": 7780,
+      "sha256": "6dd7b40b9f00a470a6b937d43f916e9296c42e10ad81a61aba2d737c71021216",
+      "artifact_type": "supplement_crosswalk"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/06 Evidence and Indexes/IMOSAE_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+      "bytes": 8344,
+      "sha256": "6cfb8c3ce30e0659f1f93429bebeac2f504a2ce12d15f98bc688ea1d9b70b401",
+      "artifact_type": "volume_by_volume_evidence_ledger"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/06 Evidence and Indexes/machine_readable/IMOSAE_EVIDENCE_ROUTE_INDEX.jsonl",
+      "bytes": 975620,
+      "sha256": "4cc8a7b812b90e0d538ea84156199e439f6feb55a29d0a8d12f1344f7b02ed5b",
+      "artifact_type": "source_or_project_metadata"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/06 Evidence and Indexes/machine_readable/IMOSAE_G005_ANALYTICAL_EXCEPTION.json",
+      "bytes": 1877,
+      "sha256": "84066ba6b04cc5edddcfaba9b06706620d250a332165a96d0791e6c4b279881d",
+      "artifact_type": "source_or_project_metadata"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/06 Evidence and Indexes/machine_readable/IMOSAE_REVIEWED_CHARACTER_DISCOVERY_EVIDENCE_HANDOFF.json",
+      "bytes": 21947,
+      "sha256": "792cd42e3af409ca514326256ba8e401d30ca9a8e61013e204469cd9a6e02e31",
+      "artifact_type": "source_or_project_metadata"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/authority_audits/IMOSAE_FIRST_PUBLICATION_COMPATIBILITY_TRANSFORMATION.json",
+      "bytes": 9179,
+      "sha256": "53213f134f6f2a5e44efcf82dc3067493e63b8bead5755c409c9b6e83009edab",
+      "artifact_type": "source_or_project_metadata"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/authority_audits/IMOSAE_FIRST_PUBLICATION_COMPATIBILITY_TRANSFORMATION.md",
+      "bytes": 3149,
+      "sha256": "7b2c439c647a666d0b792cf4a7e1c8c3d3b469c8280cbf248606478dd7234efe",
+      "artifact_type": "first_publication_compatibility_transformation"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/authority_audits/IMOSAE_MAIN_SERIES_AUTHORITY_CAPABILITY_AND_BOUNDARY_AUDIT.md",
+      "bytes": 7379,
+      "sha256": "17d174cceb3baf5bcc4b16fd3490ebfd2fe2b7b562df6ea5d58652c89be160b7",
+      "artifact_type": "authority_capability_and_source_boundary_audit"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/authority_audits/IMOSAE_MAIN_SERIES_INTEGRITY_AND_COMPLETENESS_REVIEW.json",
+      "bytes": 28660,
+      "sha256": "09949a102bcba41bdf09e07a149bae552d6f5cbbffb9a2bbfcdf5b28f69963a3",
+      "artifact_type": "source_or_project_metadata"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/authority_audits/IMOSAE_MAIN_SERIES_INTEGRITY_AND_COMPLETENESS_REVIEW.md",
+      "bytes": 5354,
+      "sha256": "9a5d9692cec768becc3896d636b757aa2caebdaaf67b1e96c08be6751a507bae",
+      "artifact_type": "integrity_and_completeness_review"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/contradiction_audits/IMOSAE_MAIN_SERIES_SEMANTIC_CHRONOLOGY_AND_COUNTERTHESIS_AUDIT.md",
+      "bytes": 13010,
+      "sha256": "e1c1ceb53b239abaf38997151b7c854feeb90b4f14920e4f04fb3227adba620b",
+      "artifact_type": "semantic_chronology_and_counterthesis_audit"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/contradiction_audits/IMOSAE_V14_LEDGER_RECONCILIATION_VALIDATION.json",
+      "bytes": 12496,
+      "sha256": "006833d1546201d730748bb006f4d45c396555ac53a06a25cf8d807ce8ab3c27",
+      "artifact_type": "source_or_project_metadata"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/contradiction_audits/IMOSAE_V14_LEDGER_RECONCILIATION_VALIDATION.md",
+      "bytes": 6855,
+      "sha256": "951b07bfbb838f8516f8f99b8d5802ae80c6d6fb3c8c3d4ead9d4177008745fb",
+      "artifact_type": "audit"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/duplication_audits/IMOSAE_MAIN_SERIES_RESPONSIBILITY_AND_SUCCESSION_AUDIT.md",
+      "bytes": 6027,
+      "sha256": "aaf6984254987a5776afba9b573d7e9cd7b41c046f46f55bb4ebaa789ed4fee8",
+      "artifact_type": "responsibility_duplication_and_succession_audit"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/locator_validation/IMOSAE_V13-V14_CHECKPOINT_VALIDATION.json",
+      "bytes": 2539,
+      "sha256": "d6d4160624a53b4e21f8ccd7c19cf380318e52542f3d915b5418dd479e34f3d7",
+      "artifact_type": "source_or_project_metadata"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/locator_validation/IMOSAE_V13-V14_CHECKPOINT_VALIDATION.md",
+      "bytes": 2870,
+      "sha256": "d5542936d3d34edd2b8fef1a635ed6bddf491015f892fc58e00e73e364ba6813",
+      "artifact_type": "source_audit"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/locator_validation/IMOSAE_V14_SOURCE_AND_READING_VALIDATION.json",
+      "bytes": 20612,
+      "sha256": "82b3e38845053592bedb16d05714d9462111974b967069765e665031d4c3cf5e",
+      "artifact_type": "source_or_project_metadata"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/locator_validation/IMOSAE_V14_SOURCE_AND_READING_VALIDATION.md",
+      "bytes": 9728,
+      "sha256": "908d873242d94373e6247d51c71800ab2caa709768b7f2e847fd4a624675bcbb",
+      "artifact_type": "source_audit"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/source_audits/IMOSAE_MAIN_SERIES_SOURCE_AND_COORDINATE_AUDIT.json",
+      "bytes": 10184,
+      "sha256": "83d7330c6052b2577c5f5d6881196ca34b7552ce528499163966fce411d11749",
+      "artifact_type": "source_or_project_metadata"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/source_audits/IMOSAE_MAIN_SERIES_SOURCE_AND_COORDINATE_AUDIT.md",
+      "bytes": 4204,
+      "sha256": "2a7d95c694785c2360f75bce8b9adf98d95331b9f9af90d9aca786cd91f76f3c",
+      "artifact_type": "source_and_coordinate_audit"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/source_audits/IMOSAE_PHASE0_CLOSURE_AUDIT_VERIFICATION.json",
+      "bytes": 26157,
+      "sha256": "081a82caee3cfdd37423a67d701766038c0cc6806adfb68de99b0534744ef55f",
+      "artifact_type": "source_or_project_metadata"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/source_audits/IMOSAE_PHASE0_SOURCE_LOCK_AND_NORMALIZATION_CLOSURE_AUDIT.md",
+      "bytes": 12677,
+      "sha256": "550a2cd99b5db81fb8a2711d3af8671083c84805dbf19090138bc04eef51e35f",
+      "artifact_type": "source_audit"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/08 Audits and Manifests/source_audits/normalized_layer_manifest_RC1_pre_promotion.json",
+      "bytes": 6572,
+      "sha256": "74193178b7f0cab957a7b30fe6896a67a3f7c86545b9818d27ee2060cf1cecb8",
+      "artifact_type": "source_or_project_metadata"
+    },
+    {
+      "path": "series/a-sisters-all-you-need/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "bytes": 64409,
+      "sha256": "3946ad27eb48c1c39f4238238474724de8ce4f8e5a1f3a18a66d6653489387b0",
+      "artifact_type": "corpus_map"
+    }
+  ]
+}

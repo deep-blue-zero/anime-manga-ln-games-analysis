@@ -2,17 +2,18 @@
 series: IMOSAE
 artifact_type: ledger
 ledger_type: japanese_voice_style_and_terminology
-scope: V01-V13
+scope: V01-V14
 generation: V1
-status: active_provisional
-source_boundary: Japanese numbered light novels read through V13
-current_reading_boundary: V13
+status: canonical
+source_boundary: Japanese numbered light novels read through V14; nested fiction and paratext separately classed
+current_reading_boundary: V14
+checkpoint_freeze: IMOSAE_V13-V14_END_STATE_CHECKPOINT.md
 normalized_text_version: IMOSAE-JP-LN-NORM-1.0
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-version: '1.12'
-date: '2026-08-20'
+version: '1.13'
+date: '2026-10-12'
 ---
 
 # IMOSAE Japanese Voice, Style, and Terminology Ledger
@@ -550,3 +551,51 @@ V10 makes linguistic form part of identity re-authorship. Pronouns, sibling addr
 - **`晴彦さん`**: Chihiro retains Haruto's real-name address after the fake-boyfriend lie is abandoned. It indexes linguistic intimacy but not romantic reciprocity.
 - **`羽島伊月先生`**: Kyo switches to professional address when asking to become Itsuki's editor, marking a deliberate domain transition from friend/reader to editor-author relation.
 - **`主人公が、ヒロインのもとへ歩いていく`**: V13 literalizes the protagonist metaphor in the proposal sequence; movement is incremental rather than triumphant arrival.
+
+
+## V14 — Japanese voice, style and terminology / final mainline horizon
+
+Current identity/linguistic authority is original Japanese plus frozen sidecar, with exposed G005 exception. Earlier voice rows are history. This ledger records written speech and focalization; no performed acoustic traits are inferred.
+
+### Relationship and role condition register
+
+| Speaker / situation | Attested feature | Constraint / evidence |
+|---|---|---|
+| Haruto public judging | 私, polite title correction; 聖霊騎士 read シュヴァリエ | Public competence does not erase peer オレ, jealousy or spite. `IM-V14-E002` |
+| Haruto with Miyako | Personal invitation and direct romantic negotiation | His inner editor-fit judgment is not automatically spoken. `IM-V14-E006` `IM-V14-E008` |
+| Haruto LINE report | Deliberately altered condition | Narrator's 事実と違うことを伝えた governs truth assignment. `IM-V14-E009` |
+| Miyako personal promise | あたし; 春斗さん; explicit finite boundary | 結果的に超えても超えられなくても removes victory condition. `IM-V14-E008` |
+| Miyako professional offer | Courtesy and institutional surname identification | Friend/author bluntness cannot be made global contempt or universal casualness. `IM-V14-E003` `IM-V14-E020` |
+| Chihiro post-disclosure | 私, 兄さん, personal 晴彦 address continuity | Linguistic intimacy not reciprocal romance. `IM-V14-E005` |
+| Chihiro intoxicated | Garbled/repetitive orthography, nonstandard dakuten | Temporary state, not baseline voice. `IM-V14-E010` |
+| Chihiro final criticism | Direct 生モノ / ハイテク / ご都合主義 challenge | Critical ability does not choose an editor vocation. `IM-V14-E043` `IM-V14-E045` |
+| Chihiro privately | 宇宙飛行士 declaration and rejected 予知夢 idea | No other character has this knowledge; achievement unconfirmed. `IM-V14-E047` |
+| Nayuta answering request | 伊月さん, practical housework/Sora request plus desire to write | Preserve politeness and concrete enabling condition, not just a genius-return slogan. `IM-V14-E023` |
+| Itsuki public speech | Prepared public register shifts toward 俺 and challenge | Public formulation and privately qualified regret separate. `IM-V14-E025` |
+| Itsuki frame response | Rough childish insult/exit | Winning does not make uniformly adult speech. `IM-V14-E046` |
+| Draft-Sora / draft-Yū | 僕 with new senior; Yū's stylized ワタシ persona | Written draft characters only, not actual toddlers' future voices. `IM-V14-E029` `IM-V14-E030` `IM-V14-E038` |
+
+### Terms whose attribution changes interpretation
+
+- 一人前 moves from indefinite self-readiness toward Miyako's recognized competence and finite process. Household skill and editor status are different domains.
+- 想定するターゲット adopts a professional planning label for 可児那由多, a particular writer-reader. It does not mean a generic wife or market segment.
+- 強い想い is a local editorial diagnosis of these works' difference; universal recipe claims exceed it.
+- 人でなし in draft-Sora's appraisal contests the cost of 主人公になりたい. It is not actual toddler opinion or a narrator's verdict on every artist.
+- 俺たち in the represented stage transforms singular defiance into collective performance.
+- 生モノ identifies care around living people used as fiction; comic intention does not settle permission.
+- ないものねだり differentiates possession from value. これさえあればいい。 is a particular sufficient-value formulation, with persistence and opportunity still under pressure.
+- 関係ありますん retains comic ambiguity; a transparent literal disclaimer loses it.
+
+Routes: `IM-V14-E008` `IM-V14-E020` `IM-V14-E033` `IM-V14-E037` `IM-V14-E043` `IM-V14-E049` `IM-V14-E051`.
+
+### Names, aliases and source-proof readings
+
+Use Miyako / 白川京, Ui / 相生初, Ayane / 三田洞彩音 and separate Aoba / 笠松青葉. Full V14 roster ruby gives Gōdo Satoshi / 神戸聖, Shirogamine Nobunaga / 城ヶ峰信長, Nadeshiko / 木曽撫子 and Yū / 八坂優羽. なでこ is a nickname; 優羽 has no ha syllable. 和泉颯太 is Sōta Izumi, 神坂蒼真 is former pen name Misaka Sōma, 漬物ステーキ the new pen name. 熊野愛果 is Manaka Kumano, nickname Mana. Older mistaken labels remain readable through errata rather than mass edits.
+
+### Gaiji, ornaments and image-only text
+
+G005 at `V14|chapter:青い小鳥たち|spine:042|xhtml:text/part0041.html|p:0166|fp:f825ffa55e0b` must be interpreted as scolding from original glyph/ruby しか, not frozen 吐. This changes analytical meaning without mutating source release. G063's ambiguous LR symbol remains placeholder-sensitive; G064 preserves 大晦日; G004/G054 belong to different speakers/states. G002/G065 are structural ornaments.
+
+Image-only かかってこい completes 全員まとめて──; a prose-only quote is incomplete. Editor/writer Q&A is attributed PF, without invented scene chronology or unverified portrait names. `IM-V14-E035` `IM-V14-E073` `IM-V14-E062` `IM-V14-E067`
+
+Current scope is written Japanese through V14. Era-sensitive models and original-ruby/name QA must use this ledger's limits.

@@ -1,0 +1,123 @@
+{
+  "schema": "konosuba.character-rule-inventory.v1",
+  "generation": "KAREN_DONNELLY_EXPANDED_V1",
+  "recorded_utc": "2026-10-24T10:25:19.326883+00:00",
+  "subject": "Karen, explicitly self-introduced head of Donnelly; MASK Karen unjoined",
+  "existing_census_row": 70,
+  "model_scope": "Asymmetric provisional commercial/social/threat-appraisal reconstruction",
+  "model_draft_file": "KAREN_DONNELLY_MODEL_DRAFT_01.md",
+  "model_draft_sha256": "13e6ee711061b56e081b79d48513a3c10dac9392040c87d3b56fd45abc284a93",
+  "monograph_draft_file": "KAREN_DONNELLY_MONOGRAPH_DRAFT_01.md",
+  "monograph_draft_sha256": "4e151803e88c7d65c810c39fdc2162803916cfcb7df8a7a81db6cb3e4df700f5",
+  "scope_assessment_sha256": "66de57486a48e01b62fa1ff2f9444cf56b3dd2d22fae3d26a73cf619ba519843",
+  "source_review_receiving_sha256": "95a9fb9bd7c421f7730a4ca5d7ef32a59baa493e796c8ba99ce42016d7620a1a",
+  "rules": [
+    {
+      "rule_id": "KD-R01",
+      "proposition": "Useful cooperation can receive formal courtesy or a limited concession; an established status rivalry can redirect the same dealings into comparative belittlement and counterattack.",
+      "support": [
+        "CONTEXP01 U021P28–34,54,60–69",
+        "CONTEXP01 U021P73–99",
+        "CONTEXP01 U021P214–222"
+      ],
+      "contrary": [
+        "Return to contract P98–99",
+        "Actual piece-rate payment P235",
+        "Darkness reciprocal provocations prevent a one-sided cause account"
+      ],
+      "rivals": [
+        "business presentation",
+        "ordinary social comparison",
+        "hostile-noble convention"
+      ],
+      "applies_when": [
+        "valued practical cooperation or an established standing comparison is actually supplied",
+        "Karen knows the interlocutor/state and has a response opportunity"
+      ],
+      "do_not_assume": [
+        "universal rudeness",
+        "hidden attraction",
+        "every disagreement is a pedigree attack",
+        "all formal courtesy is a lie",
+        "unlimited willingness to lose business for a taunt"
+      ],
+      "confidence": "Comparative source pattern relatively strong; causal weights and unfamiliar transfer low.",
+      "falsifier": "Repeated unprovoked contempt toward clearly useful collaborators absent rivalry, or repeated unqualified concession of central status slights without another supplied constraint."
+    },
+    {
+      "rule_id": "KD-R02",
+      "proposition": "Criticism of an endorsed profitable practice for costs mainly borne by others tends to receive commercial justification through exchange, collection or selected returns, while practical paid mitigation remains possible.",
+      "support": [
+        "CONTEXP01 U021P219–222 own lending defense",
+        "CONTEXP01 U021P452 outlet statement and P474–476 received danger identification/own profit reply",
+        "CONTEXP01 U021P478–479 narrator business reconstruction, retained as inference"
+      ],
+      "contrary": [
+        "Representative employee apology P54",
+        "Actual agreed one-kill payment P235",
+        "Own immediate danger supplies a different state"
+      ],
+      "rivals": [
+        "ordinary commercial self-interest",
+        "habitual advocacy",
+        "comic exposition"
+      ],
+      "applies_when": [
+        "the endorsed practice, profit and criticism are known to Karen",
+        "the relevant cost is primarily external as she understands it"
+      ],
+      "do_not_assume": [
+        "verified borrower consent",
+        "profitable expected-value calculation",
+        "addiction or a diagnosis",
+        "Kazuma fatality known before P214 mockery",
+        "volunteered rescue was a contracted wage",
+        "reader/narrator private knowledge received"
+      ],
+      "confidence": "Moderate source support from two domains; causal priority and transfer provisional.",
+      "falsifier": "Repeated rejection of an otherwise profitable endorsed practice solely through newly owned concern for previously external harm, without another supplied incentive, would challenge the proposed tendency."
+    },
+    {
+      "rule_id": "KD-R03",
+      "proposition": "Believed rank/product/guard leverage can support commands or threats; a credible immediate personal consequence can interrupt them, with defiance able to return when an opening seems available.",
+      "support": [
+        "CONTEXP01 U021P225–228",
+        "CONTEXP01 U021P453–477",
+        "CONTEXP01 U021P496–517"
+      ],
+      "contrary": [
+        "A non-danger apology at P54",
+        "Fear is followed by another bounty threat at P515",
+        "Coercion is real and not made justified by describing the response"
+      ],
+      "rivals": [
+        "generic fear",
+        "comic timing",
+        "tactical bargaining"
+      ],
+      "applies_when": [
+        "Karen receives and believes the relevant threat",
+        "protection and immediate means are specified at her knowledge scope"
+      ],
+      "do_not_assume": [
+        "unseen guard rescue",
+        "claimed level proves a skill",
+        "legal claims are true",
+        "fear means remorse or permanent submission",
+        "source bodily violation is required in a probe"
+      ],
+      "confidence": "Local switches clear; distinctiveness beyond ordinary fear weak; nonsexual/novel institution transfer particularly tentative.",
+      "falsifier": "Repeated unchanged defiance after believed immediate personal danger and lost protection, or lasting meekness after credible protection is restored without an ongoing supplied threat."
+    }
+  ],
+  "rule_count": 3,
+  "source_known": true,
+  "same_informed_root_authors_and_assesses_all_stages": true,
+  "all_contrasts_visible": true,
+  "exact_inputs_or_firsts_serialized": false,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

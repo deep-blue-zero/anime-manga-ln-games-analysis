@@ -11,9 +11,14 @@ source_lock: 00d150a069a3ffa723a1ff264752ba242024caad
 source_lock_generated: 2026-08-02T22:21:04Z
 continuity_policy: track_scoped_non_additive
 av_status: requested_not_integrated
+version: "2.1"
+revised: "2026-11-15"
+revision_note: "v2.1, source-to-analysis audit 2026-11-15: REVISE (attribution, §3.2.14 and §3.2.17 wording, §3.2.15 'reciprocal', §10.3 heading, §1.4 scope), STRENGTHEN (event, support, U1 and cross-track evidence integrated in the body as dated additions; Phase-4/5 integration pointers) and OPEN retained for romance status and institutional asymmetry; first explicit version field, the Phase-3 text being v2.0 as in the Phase-3 pass report"
 ---
 
 # GKM CORE 03 — FUJITA KOTONE / 藤田ことね
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** This is the first explicit version field; the Phase-3 text, issued with the v2.0 Phase-3 pass report, and the 2026-11-12 Source Lock 1.1 pointer at the end are unchanged except where listed. Under the owner's 2026-11-15 policy that event and support evidence enters the character cores, dated additions marked `(2026-11-15, GKM-SAA-nnn)` now sit in the sections they bear on, and the new section *Phase-4/5 integration pointers* (after §19) indexes them. Transitions: **REVISE** GKM-SAA-122 (§3.2.17: the 超自信…超自信がない formula is the Producer's; earlier heading "H.I.F. anxiety returns as luck anxiety"; earlier text "Before H.I.F., Kotone worries that N.I.A. success may have been situational luck. She describes herself as both highly confident and highly unconfident."); **REVISE** GKM-SAA-009 (§3.2.14; earlier text "When the Producer brings family into the performance environment, Kotone becomes emotionally unstable in a way that pure ranking pressure does not produce."); **REVISE** GKM-SAA-185 (§3.2.15; earlier text "the route contains **strong reciprocal romantic coding and exclusivity**, while the Phase-3 corpus does not establish a formally declared canonical dating relationship."); **REVISE** GKM-SAA-010 (§10.3; earlier heading "Kotone refuses inheritance without refusing love"); **REVISE** GKM-SAA-191 (§1.4 scope narrowed; the original list is kept); **STRENGTHEN** GKM-SAA-009, 011, 050, 051, 052, 053, 054, 104, 108, 112, 156, 186, 187, 188, 189, 190, 267, 282 and HSCA-025 as dated additions; **OPEN** retained for formal romance status (owner decision 2) and for institutional asymmetry. No audiovisual evidence was used. Claim-level transitions are recorded in the evidence matrix.
 
 ## 0. Executive thesis
 
@@ -36,6 +41,8 @@ Her development is therefore not:
 It is closer to:
 
 > **precarity → supported capacity → ordinary professional life → chosen ambition.**
+
+**Origin note (2026-11-15, GKM-SAA-050; STRENGTHEN).** Precarity is one of two origins the text states for Kotone's decision to become an idol. The other is her admiration of Sena (§2.1). The arc above describes the material line. It does not make that line the only motive.
 
 The phrase that best captures the achievement of the late Dear Idol material is not `大金持ち` by itself. It is `普通`.
 
@@ -105,6 +112,8 @@ Primary local bundle artifacts:
 
 The relevant corpus is large enough to support a strong source-facing model of Kotone, but this is **not** her definitive monograph. Numbered story events and support-card stories remain reserved for later phases. Audiovisual conclusions about Hikaru Iida's performance, song production, MV grammar, and 3DMV embodiment are explicitly pending the dedicated AV pass.
 
+**Scope update (2026-11-15, GKM-SAA-104, GKM-SAA-108; STRENGTHEN).** The reservation in the previous paragraph no longer holds as policy. The owner decided on 2026-11-15 that event and support evidence enters each character core, because Kotone's story is still being extended. Numbered-event evidence (Phase 4), support-card evidence (Phase 5), Unit Story evidence and cross-track evidence from other idols' Dear routes now appear in this core as dated additions. Each keeps its own track label: `E0nn` for a numbered event, `S` plus the story ID for a support story, `U1`, or `C1 @ D-[host idol]`. None is merged into `D-KOTONE`. The section *Phase-4/5 integration pointers* (after §19) indexes them. The Phase-3 argument is unchanged except where a dated addition says otherwise.
+
 ## 1.2 Source order
 
 For claims in this document, evidentiary preference is:
@@ -147,6 +156,10 @@ This pass deliberately does **not** settle:
 
 Those remain later-phase questions.
 
+**Institutional route of the rescue (2026-11-15, GKM-SAA-191; REVISE, narrowing the third item).** The D-KOTONE text partly answers whether the Producer's financial interventions were ordinary or exceptional. When the Producer cuts Kotone's part-time work, he cites a rule: students who have a producer receive eased conditions for academy scholarships and support funds (`adv_dear_fktn_003.txt` L102–L104). U1 states the same rule (`adv_unit_01-01_07.txt` L114–L115). The Dear 011 refinancing, by the Producer's account, combined `学園の制度` with an outside expert and depended on Kotone's own results (`adv_dear_fktn_011.txt` L182–L187); he also concedes that he is overstepping (L124). Producer-course grades depend on the assigned idol's success (`adv_dear_fktn_001.txt` L102–L103), so the Producer has his own institutional stake in Kotone's results (see §11.2). Limit: the refinancing and the household-level intervention go beyond any rule stated in the text, so the third item is answered only in part. The support-story and D-SENA routes to relief appear in §2.4 and §10.2.
+
+**Placement anchors for some communications (2026-11-15, GKM-SAA-187; STRENGTHEN, relative order only).** A few C-KOTONE objects refer back to D-KOTONE events, which fixes their relative order without giving a single chronology. In `adv_cidol-fktn-3-007_03.txt` L34–L54, Kotone complains about the surprise of bringing her father, so the scene follows Dear 018. In `adv_cidol-fktn-3-011_03.txt` L88–L91, she recalls the Producer blowing away all her worries in "the worst way", which also follows Dear 018. In `adv_cidol-fktn-3-013_01.txt` L33, she recalls the celebration party, which follows the Dear 020–021 party. The first item in the list above therefore remains open in general.
+
 ---
 
 # 2. Story-state overview
@@ -169,6 +182,10 @@ Too many obligations occupy the same body:
 This is why apparently minor failures feel disproportionate. Her idol career is not merely a dream that can be tried and abandoned. It is one of the few imaginable mechanisms by which she can simultaneously escape low-wage work, repair family finances, and justify the enormous expense of attending Hatsuboshi.
 
 Her private declaration — `ぜーったい成り上がって、大金持ちになってやるからなぁ！` — is comic in delivery but structurally serious. `成り上がる` is not ornamental ambition. It names vertical movement out of a material position she finds intolerable.
+
+**A dual origin (2026-11-15, GKM-SAA-050; STRENGTHEN).** The text states two origins of Kotone's decision to become an idol, and they coexist. The first is family rescue. In Dear 010 she says she felt from childhood that `あたしがなんとかしなきゃ`, asked her parents to send her to Hatsuboshi and vowed to earn money as an idol (`adv_dear_fktn_010.txt` L58–L84). The second is admiration of Sena. Source Lock 1.0 D-KOTONE implies it: at Dear 013 L467, Sena's unfinished inner line breaks off on why Kotone aimed to become an idol. D-SENA makes it explicit (C1 @ D-SENA: `adv_dear_jsna_018.txt` L264–L289). In Source Lock 1.1 D-KOTONE, Kotone states it repeatedly in her own voice: `あたし、星南先輩に憧れて／アイドルになったんです` (`adv_dear_fktn_031.txt` L403), and again at Dear 033 L260 and Dear 037 L180. Event 022 fuses the two origins: after Sena's welcome live, Kotone wants to become an idol like Sena and earn a lot of money (C1 @ E022: `adv_event_022_main-02.txt` L118–L132). The motives also pull against each other. In Dear 031 Kotone says she is an idol for money, fans and praise, and calls competition only a means (L335–L338). In D-SENA 027 she is frustrated at not being Sena's foremost rival (C1 @ D-SENA: `adv_dear_jsna_027.txt` L531, L621). Counterevidence: Dear 010 grounds enrolment in family need; in C-KOTONE the Producer says she became an idol for her family, and she does not contest it (`adv_cidol-fktn-3-007_03.txt` L52); no Produce Story object names Sena as an origin. The admiration account may therefore be partly retrospective, voiced at the height of the rivalry.
+
+**Time depth and school status (2026-11-15, GKM-SAA-187, GKM-SAA-267; STRENGTHEN).** Kotone's "real poor results" (§3.2.3) span years. She describes three unrewarded years in Hatsuboshi's middle division (`adv_cidol-fktn-3-013_02.txt` L61; `adv_dear_fktn_036.txt` L873). In P2, Sena refers to training accumulated since middle school (`adv_pstory_002_fktn_after-audition-b-normal-03.txt` L94). Kotone's first live comes in her fourth year at the academy (`adv_dear_fktn_008.txt` L21), and she calls herself an idol in her fourth year (`adv_cidol-fktn-3-006_03.txt` L215). Event continuity agrees. In Event 012, in a flashback focalized through Lilja, Kotone calls herself `内部進学組`, an internal-progression student (C1 @ E012: `adv_event_012_main-02.txt` L117). In Event 005, Tsubame reports that Kotone, as a middle-division student, consulted her about how to take a part-time job after Tsubame stopped her working without permission (C1 @ E005: `adv_event_005_main-02.txt` L62–L95; Tsubame's account). So Class 1-1's division between internal and external entrants is not simply Temari against the external students. Limits: Tsubame's account is hearsay about Kotone, and the Event 012 self-description sits inside another character's memory.
 
 ## 2.2 STEP1/P1: the first “improvement” is removal of constraint
 
@@ -221,6 +238,8 @@ Kotone can now want:
 She loses H.I.F. and is capable of saying, correctly, that the live itself was successful and that her career benefited. The text then refuses to mistake that rational assessment for emotional recovery. When the Producer presses, Kotone abandons the professional defense and asks him to remain with her.
 
 This is an important correction to any model in which Kotone is simply the pragmatic member of the trio. She is pragmatic. She is also deeply affective, and the route becomes stronger when it lets both facts stand.
+
+**Esteem alongside rivalry outside the Dear track (2026-11-15, GKM-SAA-108, revision-86 routing; STRENGTHEN).** Support story 3-0113 (C4 relative to the main tracks) adds evidence that Kotone's esteem for Sena coexists with rivalry. It keeps three events distinct. (1) Private willingness: in inner speech Kotone credits Sena with teaching her about school systems and work so that she can stay an idol, wonders why she cannot be straightforward with Sena, and asks herself whether she might as well accept Sena's production (`adv_csprt-3-0113_02.txt` L18–L36). (2) Fearful projection: in a scene staged on a `dream` background, Sena imagines Kotone announcing that she has accepted another producer's offer (`adv_csprt-3-0113_01.txt` L89–L127). (3) Actual discussion: Kotone instead invites Sena to the aquarium as thanks (L149–L169), and Sena frames it as a date (L182). At the aquarium Kotone privately resolves to say she will accept Sena's production (`adv_csprt-3-0113_03.txt` L149). Sena's expensive restaurant booking prompts Kotone's joke that this is a proposal, not production, and the exchange ends without an acceptance (L160–L220). The willingness and the projection belong to different minds, and neither becomes an agreement on the page. Kotone's recognition of Sena as a rival remains scoped to its own Dear story. Numbered-event continuity adds a related state. In Event 022, Kotone tells Mao that she has been gradually cutting her part-time shifts because Sena helped her in various ways, and Mao notes that Kotone now keeps the curfew (C1 @ E022: `adv_event_022_main-04.txt` L61–L76; GKM-SAA-156). The help is unspecified; this core does not infer money or production from it. Counterevidence: in support stories Kotone refuses Sena's money (§10.2), and D-KOTONE places her material relief with the Producer (§3.2.1, §3.2.7).
 
 ## 2.5 Debt completion: the dream of normality
 
@@ -297,6 +316,10 @@ A Produce-side trip or absence by the Producer can reactivate Kotone's father-ab
 
 Sena's ability to support Kotone during Producer absence prevents the relationship system from being completely dyadic. Later phases should watch whether other peers can perform this function consistently.
 
+**Locator for the absence association (2026-11-15, GKM-SAA-011).** In P2, Kotone is subdued before an audition because she remembers the Producer's business trip. The Producer's inner line connects her fear of trips to her anxiety about separation (`adv_pstory_002_fktn_before-audition-a-normal-01.txt` L17–L29). A white-fade recall then replays her Dear 010 self-blame for her father's departure (L34; cf. `adv_dear_fktn_010.txt` L107–L112). The Producer promises that he will always come back and will call every day while away (L58–L81). This object ties the father association to absence. It does not tie the father to poor results, so it is not evidence for the results-conditioned fear described next.
+
+**A recurring fear of being given up on after poor results (2026-11-15, GKM-SAA-011; STRENGTHEN).** Across four continuity classes, Kotone fears that bad results will make the Producer give up on her, in stable vocabulary: `見捨て` and `見限` (being abandoned or given up on), and `契約解除` (contract cancellation). Instances: Dear 002, where she asks whether he will abandon her and he says he will not, `せっかく見つけた逸材ですから` (C1: `adv_dear_fktn_002.txt` L93–L95); P1 mid-failure, one choice branch (`adv_pstory_001_fktn_after-audition-mid-failure-01.txt` L62); P1 final-failure, one branch (`…_after-audition-final-failure-01.txt` L91); P1 after-step-2, one branch (`…_after-step-2-normal-03.txt` L133); P1 ending-normal-05, a trunk line before the choice (`…_ending-normal-05.txt` L36); the P1 true end, where she thanks him for never abandoning her (`…_ending-true-01.txt` L54); and U1, where she tells the Producer that, since he made the decision, he must not abandon her if she loses (`adv_unit_01-01_05.txt` L425–L430). The P1 items are C3 possibility space, not cumulative biography. In one P1 before-final branch, the Producer's assurance releases the tension that was holding her together, and she jokingly protests that he should have waited until after the show (`…_before-audition-final-normal-01.txt` L82–L116). The text shows release, not damage to the performance. This fear is distinct from the sibling-replacement fear in C-KOTONE (§3.3.7). It is linked to the father only by the association above, not by causation. Counterevidence: other P1 branches show self-reliant recovery, and the P3 selection failure is self-sufficient (§5.2).
+
 ### 3.1.5 The best P2 branches decouple technical genius from professional worth
 
 One important Produce statement is that even without being an unmatched genius, Kotone would have become a good idol. This is unusually important for a girl whose self-concept easily flips between “hidden special talent” and “former bottom student.”
@@ -343,6 +366,8 @@ This is not yet healthy self-confidence. It is **delegated confidence**.
 
 The Producer's interpretation becomes a prosthetic belief system. That can be developmentally useful. It also means his mistakes would have unusual power.
 
+**The affirmation becomes a named, shared ritual (2026-11-15, GKM-SAA-190; STRENGTHEN with a qualification).** The praise has a traceable history. In Dear 007 the Producer privately resolves to praise Kotone sincerely and often every day, because she is not used to praise (`adv_dear_fktn_007.txt` L206–L207; parenthetical thought). In Dear 026 he says he has rehearsed it since the day he found her (`adv_dear_fktn_026.txt` L256). Kotone notices in inner speech that he affirms her totally whenever she runs herself down (`adv_cidol-fktn-3-006_02.txt` L66). She later asks for it by name, for example `ちょー甘々な慰めをどぞ` (`adv_cidol-fktn-3-016_01.txt` L190) and a request for her usual `自己肯定感チャージ` (`adv_cidol-fktn-3-019_03.txt` L59). Sena, watching, calls it an embarrassing ritual (`adv_dear_fktn_015.txt` L225). In Dear 037 the Producer admits the calculation behind his early approach (`adv_dear_fktn_037.txt` L577). Because Kotone knows the mechanism and requests it, "prosthetic" needs qualifying: by the middle of the route the affirmation is co-managed, not only borrowed belief. Limit: requesting it still shows reliance on it.
+
 ### 3.2.5 Family recognition makes idolhood ontologically real
 
 Kotone's family seeing her online matters in a way rankings alone do not. She can finally think:
@@ -379,6 +404,8 @@ This is closer to social work, financial navigation, and case management than co
 
 It strengthens the route because the earlier problem was material. It also massively increases the Producer's influence over Kotone's private life. He is not only choosing songs and training plans. He becomes someone who understands and reorganizes the household's financial structure.
 
+**Institution and expert, by the Producer's account (2026-11-15, GKM-SAA-191; STRENGTHEN).** The Producer describes the refinancing as academy systems combined with an expert's help, made possible by Kotone's own results (`adv_dear_fktn_011.txt` L182–L187), and he acknowledges that he has stepped further in than he should (L124). Kotone protests that he talks as if it were nothing (L188). The rescue is therefore partly institutional and partly his initiative. §1.4 gives the rule that eases scholarship conditions for students with a producer.
+
 ### 3.2.8 Kotone does not want money generically; she wants money as an idol
 
 Produce Event material confirms this distinction in miniature. When a conversation raises money knowledge or paid work, Kotone is not simply indifferent to occupation so long as cash appears. She explicitly wants to earn **through idolhood**.
@@ -394,6 +421,8 @@ Kotone admired Sena before Sena became the current public summit. The line:
 creates a relation in which Kotone is not merely confronting institutional rank. She is confronting an idol she had already invested with personal meaning.
 
 Sena, meanwhile, identifies Kotone as a possible future solution to her own failure and institutional anxiety. That makes their relation asymmetrical in a different direction: the star tries to turn the fan into an heir.
+
+**The admiration is also an origin (2026-11-15, GKM-SAA-050; STRENGTHEN).** In Source Lock 1.1 Dear 030, Kotone calls Sena the beginning of her dream and a special person (`adv_dear_fktn_030.txt` L428–L432). In Dear 033 she asks Sena not to say the word Sena is about to use, and grounds the request in having become an idol out of admiration for Sena (`adv_dear_fktn_033.txt` L256–L260). Sena's admiration is therefore one of the two origins recorded in §2.1, not only an earlier fandom. Cross-reference: the Sena core §19 records the same origin for D-SENA.
 
 ### 3.2.10 The rejection of succession is one of Kotone's clearest acts of freedom
 
@@ -412,6 +441,8 @@ This is not rejection of Sena. It is rejection of **unilateral teleology**.
 A successor receives a task defined by the predecessor. A rival forces the predecessor to remain an active subject.
 
 Kotone's demand is therefore relationally generous as well as self-authoring: `自分でやれ` means Sena is not permitted to disappear into the function of “mentor who passes the torch.”
+
+**What is refused is designated succession (2026-11-15, GKM-SAA-010; REVISE, narrowing).** The refusal targets succession assigned to her as the answer to Sena's problem (`adv_dear_fktn_017.txt` L470–L477). It does not target inheritance as such. §10.3 records the narrowing and the Source Lock 1.1 evidence that Kotone wants to inherit by winning and, having won, takes up Sena's pride and duties.
 
 ### 3.2.11 `スター性` is the remainder after measurement
 
@@ -461,9 +492,11 @@ This triad should govern future interpretation:
 
 ### 3.2.14 Family contact breaks professional composure because the original stakes return
 
-When the Producer brings family into the performance environment, Kotone becomes emotionally unstable in a way that pure ranking pressure does not produce.
+When the Producer brings Kotone's family into the performance environment, her composure breaks in a way that pure ranking pressure does not produce, and the break then turns into resolve. (REVISE, 2026-11-15, GKM-SAA-009. The earlier wording, "emotionally unstable", is kept in the revision record.) The Producer states the scene's purpose: `心労の原因は、すべて潰しました` and `これでベストコンディションですね` (`adv_dear_fktn_018.txt` L135–L136). Kotone cries, calls the surprise the worst thing he could do just before a show, and says it has blown away everything she had been worrying about (L159–L176). She then turns to the stage, tells him to watch and promises everyone the best live (L221–L231). The function the text names is strain removal. The effect is overwhelm followed by release into resolve, not instability.
 
 This demonstrates that the route has not simply replaced family duty with career ambition. The career remains a material answer to the family story, and family recognition remains an emotional adjudicator of whether that answer feels real.
+
+**The father arc as the Producer's work (2026-11-15, GKM-SAA-009; STRENGTHEN; C1 within D-KOTONE).** Kotone's home did not previously state that the Producer searched for and found her father. The D-KOTONE sequence runs as follows. In Dear 010 Kotone blames herself for her father's departure (`adv_dear_fktn_010.txt` L102–L112). In Dear 012 the Producer announces a business trip whose purpose he cannot explain. Kotone agrees not to ask and asks only that he come back soon (`adv_dear_fktn_012.txt` L384–L422, L403, L407). In Dear 013 she asks Sena instead, and Sena keeps the secret (`adv_dear_fktn_013.txt` L5, L63). A white-faded flashback shown only to the audience reveals that the Producer had found irregularities in the Fujita household accounts but could not trace the father's movements (L53–L62). In Dear 018 her father, mother and siblings appear in the front row. Kotone asks whether the trip was for this (`adv_dear_fktn_018.txt` L116–L148), and the Producer explains that her family's words once restored her confidence (L153–L158). In Dear 020 he tells her, on request, how he worked it out: hidden income in the household accounts, and the belief that the father who raised her would not act irresponsibly. He ends `見つけられて、よかった` (`adv_dear_fktn_020.txt` L68–L97). Counterevidence and limits: Kotone had no say over her family's presence at the venue, and her composure does break (Dear 018 L159–L176). The father's dangerous work and how much the mother knew remain unspecified (Dear 020 L35, L96). In another track the Producer of D-SENA finds the father and keeps it secret so that Kotone will not feel indebted, and the secret fails when Kotone asks Sena directly (C1 @ D-SENA: `adv_dear_jsna_023.txt` L151–L192, L475–L528). That corroborates the method, not D-KOTONE events; the Sena core §24 treats its ethics. Kotone herself also guards her circumstances. She tells Temari she has her own `事情` (C1 @ E001: `adv_event_001_main-04.txt` L316). In D-SENA she says Sena's claim to know her whole situation is exactly why she avoided Sena (`adv_dear_jsna_016.txt` L349–L355). The ethical reading of the omission is in §9.3, and the power reading in §11.2.
 
 ### 3.2.15 Romantic coding grows through exclusivity and naming
 
@@ -473,7 +506,9 @@ The later desire to be called without the honorific, and ultimately by `こと�
 
 It is methodologically safest to say:
 
-> the route contains **strong reciprocal romantic coding and exclusivity**, while the Phase-3 corpus does not establish a formally declared canonical dating relationship.
+> the route contains **strong romantic coding and exclusivity, initiated by Kotone and routed through the idol prohibition**, while the Phase-3 corpus does not establish a formally declared canonical dating relationship.
+
+**Who initiates, and what stays OPEN (2026-11-15, GKM-SAA-185; REVISE, qualifying "reciprocal"; owner decision 2: recorded, bounded, OPEN).** The earlier wording called the coding "reciprocal" (see the revision record). The coding is initiated by Kotone and runs through the idol prohibition from C-KOTONE onward. In the communication episode Kotone says that, in her fourth year as an idol, she knows an idol's obligations (`adv_cidol-fktn-3-006_03.txt` L215). Her no-partner demand comes in Dear 018 (`adv_dear_fktn_018.txt` L184). In Source Lock 1.1 Dear 037 she tells the Producer directly that she loves him more than money (C1 within D-KOTONE: `adv_dear_fktn_037.txt` L120–L128). She then vows to seal that love until she retires (L143–L160), rescinds the no-partner demand (L285–L311), and refuses a verbal answer in both branches of the L380 choice (L406 and L460). Her stated reason is that a fulfilled romance would turn her back into `普通の女の子` (L411 and L465). The Producer's romantic feelings are never put into words. His reactions are partly player-selected: in Dear 018 the player chooses between a flustered silence and a composed `わかりました` (L196), and in Dear 037 between `あります` and `ありません` (L380). He also keeps boundaries. Kotone reports that he declined to stay overnight at her family's home because he is her producer (`adv_dear_fktn_021.txt` L422). When she calls the aquarium outing date-like, he calls it a break (C3: `adv_pevent_003_fktn_activity_022.txt` L8–L12). Paired counterevidence: the Producer cries with Kotone after the H.I.F. loss (`adv_dear_fktn_025.txt` L176–L179) and cries again in Dear 037 (L541), and the flustered Dear 018 branch exists. These are emotional displays, not declarations. Under Source Lock 1.1, the falsifier for KOTO-C24 is partly met: there is an explicit confession, but Kotone herself forbids its acceptance. Whether the relationship is mutual romance remains **OPEN** and is not asserted here.
 
 ### 3.2.16 Fanhood does not disappear when rivalry succeeds
 
@@ -483,9 +518,9 @@ This is a mature rivalry model because admiration is not an embarrassing earlier
 
 The fan remains inside the rival.
 
-### 3.2.17 H.I.F. anxiety returns as luck anxiety
+### 3.2.17 H.I.F. anxiety returns as comparative doubt, not luck anxiety
 
-Before H.I.F., Kotone worries that N.I.A. success may have been situational luck. She describes herself as both highly confident and highly unconfident.
+Before H.I.F., Kotone reports that people online call her N.I.A. win a fluke (`adv_dear_fktn_023.txt` L43). She does not adopt that reading. Her stated worry is failing the idols and fans who supported her if she does badly (L49–L59), and not being sure she has reached her ideal or can beat Sena (L171, L194). She is confident that she can win over everyone who called the win a fluke (L180–L188). The Producer sums this up as `超自信があって、超自信がない。両方なんですね` (L196), and Kotone agrees (L204). (REVISE, 2026-11-15, GKM-SAA-122: the formula is the Producer's summary, which Kotone endorses. The earlier heading and wording are kept in the revision record. Kotone does supply both halves in her own words, so the domain-split conclusion below is unaffected.)
 
 This is not contradiction by accident. It is her actual domain structure:
 
@@ -551,6 +586,8 @@ But it also totalizes the career:
 > `あたしのアイドル人生、喜んでお支払いします！！`
 
 A later ethical synthesis should ask whether the relation eventually allows gifts that do **not** need repayment.
+
+**The account is closed inside the exchange grammar (2026-11-15, GKM-SAA-052; REVISE, narrowing the OPEN).** In Source Lock 1.1 Dear 037 (C1 within D-KOTONE), Kotone asks whether she has repaid the Producer, `恩返し、できましたか……？` (`adv_dear_fktn_037.txt` L597). He answers `お釣りが必要なほど十分に` and names what she gave him: his dream fulfilled, a new dream, and the position of a top idol's producer (L604–L611). Payment becomes mutual gift, though still in the vocabulary of exchange. Kotone then reverses the provider role: she will make him happy and he will never struggle for money (L655). Limits: the closure still runs on debt words (`恩返し`, `お釣り`), and her vow keeps money as the medium of care. The question is narrowed, not closed. §11.4 and §11.6 continue the point. Support stories show bounded, debt-free care accepted from peers (§23).
 
 ---
 
@@ -664,6 +701,10 @@ That is another version of the franchise's “constructed self” thesis:
 
 > borrowing is not necessarily copying if the borrowed capacity is metabolized into one's own public relation.
 
+**The biggest reason is the two peers (2026-11-15, GKM-SAA-188; STRENGTHEN).** Kotone gives several reasons for her fear: an inferior live beside two great idols, and her own fans comparing her with Saki and Temari. The last reason she gives is that she does not want to disappoint the two who acknowledge her. The Producer marks that last reason as the big one (`adv_cidol-fktn-3-016_01.txt` L137–L163). The fear therefore concerns the peers' esteem as well as fan comparison. Source Lock 1.1 Dear 034 partly answers the Relationship Systems II §3.9 question of how the friendship holds when title outcomes separate the three (C1 within D-KOTONE). Temari, who is not competing at this H.I.F., names Saki and Kotone Class 1-1's representatives. Saki frames her challenge to Kotone as `いい仕事をしましょう！　お互いに！！` (`adv_dear_fktn_034.txt` L347–L354, L384–L453).
+
+**Which technical axis is weak (2026-11-15, GKM-SAA-053; see §7.3).** The peers' "elite vocal/dance performance" is not a single comparison for Kotone: her rated weakness is vocal, while dance is a rated strength.
+
 ### 3.3.9 `GO MY WAY!!`: inheritance is received through audience duty
 
 Kotone's engagement with 765PRO repertoire does not produce reverent paralysis. She can be a fan and still imagine a future in which earlier idols might want to sing *her* songs.
@@ -674,6 +715,8 @@ The communication returns, characteristically, to the audience:
 > ticket value must be exceeded by enjoyment.
 
 This is less possessive than it sounds. “My fan” here is a temporary **service obligation**, not a claim of emotional ownership.
+
+**Misuzu's maxim (2026-11-15, GKM-SAA-188; STRENGTHEN).** The wish to have earlier idols someday want to sing Kotone's songs comes after a line from Misuzu: an idol must always be the one who gives influence, `影響を与える側` (`adv_cidol-fktn-3-019_02.txt` L359). Kotone says she may be influenced by it, Misuzu offers it as a model she may copy, and Kotone then states her ambition (L370–L388). Here the inheritance motif reaches Kotone through a peer, not only through the 765PRO repertoire.
 
 ---
 
@@ -772,6 +815,10 @@ She demonstrates that:
 
 Later Re;IRIS synthesis should ask whether Kotone's audience-hospitality model becomes the unit's social glue, or whether that is over-reading one member's strength into the collective.
 
+**Kotone and Saki in U1 (2026-11-15, GKM-SAA-282; STRENGTHEN; C1 @ U1).** The U1 relation with Saki has its own arc. At their first meeting Kotone's inner voice dislikes Saki and plans to use her: Saki must be useful to Kotone's rise (`adv_unit_01-01_05.txt` L155–L178). Kotone later notes privately that calling Saki `お姉ちゃん` delights her (`adv_unit_01-02_03.txt` L625). When Saki and Temari make Kotone the leader, the real reason, trust, is spoken only after Kotone leaves. Saki says she should simply have said she trusts Kotone, and refuses to say it herself because it is embarrassing (`adv_unit_01-03_01.txt` L678–L708). Kotone never hears it. Later Kotone tells them she is glad she formed a unit with them (`adv_unit_01-03_11.txt` L554). The H.I.F.-eve scene is covered in the Saki core. Cross-reference: Relationship Systems II §3.3.
+
+**Kotone and Sena in U1 (2026-11-15, GKM-SAA-112; STRENGTHEN; C1 @ U1).** U1 contains a Kotone–Sena arc absent from the other homes. In their conversation after H.I.F., Sena calls Kotone her rival (`adv_unit_01-04_22.txt` L149). Kotone recalls Sena's repeated visits to her workplace and the scouting she took as jokes (L240–L249). Sena answers that it was all serious (L252) and says she found Kotone on a day during spring break (L351). Kotone explains that she did not believe the scouting because she believed in herself least of all (L376–L386). Sena calls herself a poor scout (L391) and ends by calling Kotone `私の可愛いライバルさん` (L468). Earlier, Sena resents the Producer for taking "my Kotone" (`adv_unit_01-04_02.txt` L371; `adv_unit_01-04_01.txt` L555–L570). Kotone's inner thought that, had she never met the Producer, Sena would have been her saviour (`adv_unit_01-04_22.txt` L439–L446) is Kotone's counterfactual, not an established fact. Repeated scouting is an invariant that U1 shares with D-KOTONE. Consistency check: Kotone says she had never spoken with Sena before their first greeting (`adv_unit_01-04_01.txt` L482), which fits because the workplace visits came afterwards.
+
 ---
 
 # 4. Money: from emergency metric to chosen pleasure
@@ -822,6 +869,8 @@ Kotone embraces the word.
 
 Her route is not about learning aristocratic detachment from economic ascent. It is about turning ascent from desperate necessity into authored direction.
 
+**Owning the word took endorsement (2026-11-15, HSCA-025; REVISE, adding a developmental qualifier).** Kotone does not embrace the word openly from the start. In Dear 001 the vow `ぜーったい成り上がって` is inner speech (`adv_dear_fktn_001.txt` L219). In Dear 006 she cuts herself off mid-word, `あたしが成り上が――じゃなくて……`, and substitutes "making my dream come true" (`adv_dear_fktn_006.txt` L199–L203). The Producer then uses the phrase himself, `大金持ちに成り上がる近道` (L252–L253). She asks whether he is put off, `……ヒきました？` (L262), and the only option the player is offered is `いいえ、健全な夢だと思います` (L265). By Dear 010 he gives it back to her as a target (§3.2.6). Her open ownership of `成り上がる` is therefore partly produced by the Producer's endorsement. This qualifies, and does not reverse, KOTO-C02.
+
 ## 4.4 The first truly extravagant fantasy is not luxury but nonfear
 
 A crucial early desire is to reach a point where spending itself is not frightening.
@@ -842,6 +891,8 @@ It does not mean mediocrity.
 
 It means **the removal of catastrophic side stakes**.
 
+**A limit of the motif (2026-11-15, GKM-SAA-185; STRENGTHEN).** In Source Lock 1.1 Dear 037, Kotone explains her refusal of a verbal answer to her confession by saying that a fulfilled romance would turn her back into `普通の女の子` (`adv_dear_fktn_037.txt` L411, repeated at L465 in the other branch). Ordinary professional process is what she wants. Ordinary girlhood she declines for the career.
+
 ## 5.2 Ordinary risk is a privilege
 
 A student with material security can fail an audition and ask what to improve.
@@ -854,6 +905,8 @@ Kotone initially risks reading the same failure as:
 - possible end of idolhood.
 
 The route's material interventions change the meaning of failure before they change whether failure occurs.
+
+**A Produce-track confirmation (2026-11-15, GKM-SAA-186; STRENGTHEN).** In the Source Lock 1.1 P3 selection failure (C3), Kotone is not selected. She says the loss is nothing compared with how she was in spring, that she is simply frustrated in an ordinary way, and that this will not end her life because a retry is allowed (`adv_pstory_003_fktn_selection-failure-01.txt` L50–L83, L64, L68). This is the reverse of the P1 tightrope (§3.1.1), and it supports KOTO-C21 from outside the Dear track. Across the failure objects, the person who carries the comfort shifts from the Producer to Kotone alone. Counterevidence: the P2 final failure keeps high-stakes framing, a loss `絶対負けちゃ、いけないところで` (`adv_pstory_002_fktn_after-audition-final-failure-01.txt` L19), so the shift is not uniform across states.
 
 ## 5.3 The Producer's greatest early achievement may be boring
 
@@ -939,6 +992,8 @@ Her ability to market herself should not be used to deny technical weakness or u
 
 The key is that professional idol worth is broader than the isolated technical axis.
 
+**An uneven technical profile (2026-11-15, GKM-SAA-053; REVISE, specifying §7.2–§7.3).** "Technical insecurity" needs an axis. Kotone's persistent technical weakness is vocal. In Dear 005 the Producer says `歌が下手です` whichever option the player picks (`adv_dear_fktn_005.txt` L164 choice; L173, L189). In Dear 007 Kotone says she has been scolded for years for bad singing (`adv_dear_fktn_007.txt` L60). In C-KOTONE the Producer recalls estimating her Vocal, Dance and Visual at about 0.4, 100 and 100 against an ordinary 1, 1 and 1. He revises the vocal figure to 2 and promises never to call her singing bad again, `もはや立派な武器ですよ` (`adv_cidol-fktn-3-011_02.txt` L111–L166). Dance and visual are rated strengths. In P1 the Producer says few at the academy will match the quality of her dance (`adv_pstory_001_fktn_after-step-2-normal-01.txt` L43). The dance trainer notes her sharpening dance and later admits underestimating her (`adv_pgrowth_001_fktn_01.txt` L5–L13; `_03` L6–L19). Her own rating of her dance varies with condition and branch (`adv_pevent_001_fktn_school_011.txt` L40–L52), consistent with KOTO-C03. The Producer's numbers are comically exaggerated, and he concedes that he lacks some objectivity (`adv_cidol-fktn-3-011_02.txt` L136). They show his assessment, not a measurement. This profile matches Relationship Systems II §3.3, which records Kotone's dance strength. §7.2's social-intelligence reading stands.
+
 ## 7.4 `スター性` names a relational effect
 
 Sena's `スター性` language is most useful if read not as mystical essence but as a name for an observed social effect the current metrics cannot completely explain.
@@ -1009,6 +1064,8 @@ This family correction parallels the Producer relationship.
 
 Kotone often tolerates difficult reality better than being managed through omission. Later phases should examine whether the Producer always meets that standard himself.
 
+**Partly answered in-track (2026-11-15, GKM-SAA-009; REVISE, narrowing the OPEN).** In D-KOTONE the Producer also protects through omission: he withholds the purpose of the Dear 012 trip (§3.2.14). That omission differs from the parents' in three ways. It is temporary. Kotone consents not to ask him (`adv_dear_fktn_012.txt` L403–L407). He explains on request once the result is known (`adv_dear_fktn_020.txt` L68–L97). It also ends well. This partly answers the question above without closing it. Kotone still asks Sena about the trip (`adv_dear_fktn_013.txt` L5), and she has no say over the family's appearance at the venue (§3.2.14). In D-SENA, where the secret is kept so that she will not feel indebted, she presses Sena for the truth (C1 @ D-SENA: `adv_dear_jsna_023.txt` L475–L509). That supports this section's principle, information as care, for Kotone. The side-character synthesis (§2.2) generalizes about protection through omission from the parents alone. This D-KOTONE case is the Producer-side counter-case.
+
 ## 9.4 Siblings are not only dependents
 
 The corpus also contains younger siblings as:
@@ -1033,17 +1090,23 @@ When financial emergency ends, Kotone does not stop being family-oriented. The s
 
 Kotone's admiration is historically deep enough that Sena cannot be reduced to a late-game rival inserted by the institution.
 
+**Admiration as origin (2026-11-15, GKM-SAA-050; STRENGTHEN).** The admiration is also one of the two stated origins of her decision to become an idol (§2.1, §3.2.9). D-SENA shows her watching Sena on television through Sena's long years of unglamorous training (C1 @ D-SENA: `adv_dear_jsna_018.txt` L264–L273).
+
 ## 10.2 Sena sees a solution before Kotone sees herself
 
 Sena's scouting and successor logic identify Kotone as material for Hatsuboshi's future.
 
 That recognition is flattering and dangerous because it can transform a person into an answer to another person's problem.
 
-## 10.3 Kotone refuses inheritance without refusing love
+**Method, consent and material terms (2026-11-15, GKM-SAA-051; REVISE, scoping KOTO-C13 to D-KOTONE, and STRENGTHEN).** The claim that Kotone accepts the Producer's projection more readily than Sena's holds within D-KOTONE. Another track shows a counter-state (C1 @ D-SENA; comparative, not additive to D-KOTONE). There, Sena's possessive and abstract scout fails: `私のモノになりなさい` is met with flight (`adv_dear_jsna_003.txt` L253–L261). Kotone also refuses Sena's offer to top up the fee from her own pocket, and Sena's producer observes that Kotone does not accept unearned reward (L361–L373, L397). Sena then revises her method. Her inner line calls her scouting hasty, abstract and one-sided (`adv_dear_jsna_013.txt` L30). Kotone accepts her as producer, `星南プロデューサー` (L296, L328). Later Sena proposes a concrete material route: a non-repayable scholarship that an N.I.A. win would secure, with conditions equal to having an official producer (`adv_dear_jsna_016.txt` L383–L425). This supports the hypothesis in §18.5 that Kotone's acceptance tracks method, consent and material context rather than the person. Kotone still resists being known too well (`adv_dear_jsna_016.txt` L349–L355). Support stories (C4) point the same way. Kotone refuses Sena's offer of money because she will not take on debt (`adv_csprt-2-0011_02.txt` L75). In 3-0113 she privately considers accepting Sena's production but does not accept on the page (§2.4). In Event 022 she accepts unspecified help that lets her cut shifts (§2.4). Counterevidence: in P2 Kotone insists that she has only one producer (`adv_pstory_002_fktn_before-audition-b-normal-01.txt` L84). In D-SENA she has no producer of her own, so acceptance there does not show a preference between the two projections. Cross-reference: Sena core §8 and §19.
+
+## 10.3 Kotone refuses designated succession, not inheritance, and not love
 
 `後継者` is rejected; `ライバル` is demanded.
 
 This is one of the corpus's clearest transformations from vertical to reciprocal relation.
+
+**Designated succession refused, earned inheritance embraced (2026-11-15, GKM-SAA-010; REVISE, narrowing the heading; KOTO-C12's core preserved).** The earlier heading said that Kotone "refuses inheritance" (see the revision record). What she refuses is designated succession: being made the answer to Sena's problem (`adv_dear_fktn_017.txt` L470–L477). In Source Lock 1.1 Dear 033 she asks Sena not to say `その言葉` (`adv_dear_fktn_033.txt` L256). The words are never spoken, so identifying them with D017's `後継者` is an inference. Sena then names her `私の宿命のライバル` instead (L287–L292). Kotone also wants inheritance earned by winning. In the P3 final failure (C3) she regrets that she could not inherit from the person she admired (`adv_pstory_003_fktn_final-failure-01.txt` L70). In the D-KOTONE winter-win state, having won, she says she received Sena's pride and duties along with the title and wants to do for juniors what Sena did (`adv_dear_fktn_037.txt` L197–L214). This matches Relationship Systems II §8: function transfer without identity replacement. Counterevidence: rivalry and friendship remain the primary relation (Dear 036 address change, §13).
 
 ## 10.4 `星南おねーちゃん` survives competition
 
@@ -1088,6 +1151,8 @@ He can monitor, restrict, intervene in family finances, determine schedule, set 
 
 The route usually depicts these interventions as beneficial. Benefit does not eliminate power.
 
+**The most invasive intervention, and the Producer's own stake (2026-11-15, GKM-SAA-009, GKM-SAA-191; STRENGTHEN).** The father search is the clearest case. The Producer reads the household accounts closely enough to infer hidden income, traces the father, and brings the family to the N.I.A. final without asking Kotone (§3.2.14; `adv_dear_fktn_020.txt` L76–L82). The interests are also mutual: the Producer's own course grades depend on Kotone's success (`adv_dear_fktn_001.txt` L102–L103; §1.4). The asymmetry is therefore not one of pure benevolence. Both parties have stakes in her results, while authority over information, schedule and family contact rests mostly with him.
+
 ## 11.3 Kotone turns debt into intimacy
 
 A recurring emotional mechanism is that receiving care makes Kotone uncomfortable unless it can be priced, repaid, or converted into future obligation.
@@ -1101,11 +1166,15 @@ Hence:
 
 Transactional language is not evidence that the relation is emotionally shallow. It is often the opposite: **exchange is how Kotone makes emotional dependence morally survivable**.
 
+**Money talk as cover, and affection voiced elsewhere (2026-11-15, GKM-SAA-054; STRENGTHEN).** Money talk has a third function besides real desire (§4.1) and the grammar of intimacy: deflecting when someone notices her sincerity. In C-KOTONE, Kotone says that everyone who paid and made time for her live should leave happy. The Producer says `………………真面目ですね`, and she retreats into fee logic: fewer fans means lower fees, `ただ、それだけですぅ` (`adv_cidol-fktn-3-001_01.txt` L138–L165). In the P1 true end she tells the Producer she likes him `おカネと同じくらい` (`adv_pstory_001_fktn_ending-true-01.txt` L184–L202). Across tracks she also voices respect, gratitude and love to third parties or in the person's absence. Speaking of Saki and Temari, she tells the Producer that she has always somewhat respected them but would never say so to their faces (`adv_cidol-fktn-3-011_02.txt` L48–L61). She shouts her love for Sena to the Producer because she could never say it to Sena's face (`adv_dear_fktn_022.txt` L175–L180). She has kept her long fandom of Sena hidden (`adv_dear_fktn_013.txt` L381). She tells her sister that she has done something like a confession before anything is said to the Producer (`adv_dear_fktn_021.txt` L211). Source Lock 1.1 Dear 037 is the reversal: a direct confession, which she then seals (§3.2.15). Counterevidence: money talk elsewhere carries no embarrassment, and her public speech in Dear 036 is direct, so this is a recurring device, not a rule.
+
 ## 11.4 The Producer increasingly accepts her language
 
 Rather than insisting that love/support must be “free,” he sometimes gives Kotone a payable form.
 
 This can reduce shame. It can also prevent her from learning that some forms of care do not create debt.
+
+**He also works against dependence (2026-11-15, GKM-SAA-052; STRENGTHEN).** In Source Lock 1.1 Dear 031, the Producer stops Kotone from pushing past an assignment on cuteness alone. He asks her to put her understanding into words and forbids answers calibrated to his face: `プロデューサーの顔をうかがいながら回答するのは禁止です` (`adv_dear_fktn_031.txt` L148–L173). The repayment framing is not his only register. He also asks her for independent judgment.
 
 ## 11.5 Romantic coding is structurally strong
 
@@ -1124,6 +1193,8 @@ Calling all of this purely professional would under-read the text.
 
 Calling them a formally established couple would overstate it.
 
+**Initiation and limits (2026-11-15, GKM-SAA-185; REVISE).** Most items in this list are initiated or voiced by Kotone. The Producer's side consists of player-selected reactions, boundary-keeping, teasing lines, and emotional displays that never become a declaration (§3.2.15). An example of the teasing is his song that cannot be offered to an `浮気者` (`adv_cidol-fktn-3-013_02.txt` L199–L200). Kotone's Source Lock 1.1 confession is explicit and sealed by her own vow. Formal couple status and mutual romance both remain **OPEN**.
+
 ## 11.6 The deepest risk is dependency disguised as repayment
 
 The Producer removes real constraints. Kotone genuinely loves and trusts him. Those facts can coexist with a structural danger:
@@ -1131,6 +1202,8 @@ The Producer removes real constraints. Kotone genuinely loves and trusts him. Th
 > if she experiences her whole idol life as something owed to him, can she later refuse him without feeling morally bankrupt?
 
 Phase 6/7 must test this.
+
+**Partial tests in later sources (2026-11-15, GKM-SAA-052, GKM-SAA-011; REVISE, narrowing).** Source Lock 1.1 Dear 037 provides partial tests (C1 within D-KOTONE). The Producer declares the account settled with change to spare (§3.2.22). Kotone sets terms over him: she withdraws her own no-partner demand (`adv_dear_fktn_037.txt` L285–L311) and refuses a verbal answer to her confession in both branches (L406, L460). Setting terms is not the same as refusing him, so the question is narrowed, not closed. Institutional asymmetry remains **OPEN**. The results-conditioned fear of being given up on (§3.1.4) shows that the risk named here appears in the text as early as Dear 002 and across P1 branches.
 
 ## 11.7 The deepest achievement is making future choice materially possible
 
@@ -1170,6 +1243,8 @@ The self-esteem song communication makes this comic, but the underlying question
 
 The current Phase-3 bundle overweights Producer/Dear/Produce structures relative to friendship-specific support stories. No final social-network claim should be frozen yet.
 
+**What the support and event passes added (2026-11-15, GKM-SAA-108, GKM-SAA-188; STRENGTHEN).** The Phase-5 support readings redistribute the map in three ways (C4 relative to the main tracks). (1) Peers can care for Kotone. Rinami lets her stop being the older sister for a moment (`adv_csprt-2-0058_01.txt` L197). Saki tutors her without demanding immediate repayment (support 3-0024 part 01, as read in Support Series 3 Part 001–025 §26). Rinami finds a hardship-relief system and offers to look into it with her (`adv_csprt-3-0024_03.txt` L113). Tsubame ends her training on health grounds (support 2-0079, as read in Support Series 2 Part 051–074 §27). (2) Kotone acts as a social broker. She refuses Misuzu's plan to pay her for lunches she would not make, `あたしおカネもらってんのに、なにもしないってことじゃん` (`adv_csprt-3-0065_02.txt` L77), and proposes that they cook for Temari together. (3) Her family reaches into her friendships. Her siblings remember Saki and Temari, and a younger sister visits Hatsuboshi to see what Kotone does there (support 3-0068). China extends an invitation to Kotone's siblings (support 3-0075). Both are read in Support Series 3 Part 051–075 §19 and §26. Numbered events add care in the other direction: in Event 022 Kotone nurses the feverish Mao with an older sibling's practical skill (Events 021+ reading §3.2). In Dear 034 the peer relation holds while Temari is absent from the competition (§3.3.8). The support readings' own summary is that Kotone resists care converted into leverage, debt or unwanted future control, not care itself. The pointer section after §19 lists the readings and ledger rows.
+
 ---
 
 # 13. Japanese textual voice and register
@@ -1194,6 +1269,8 @@ The elongated, deliberately cute address is performance inside ordinary conversa
 
 The AV pass should test how consistently Hikaru Iida differentiates this from plain `プロデューサー`.
 
+**Address threads and the Producer's `俺` (2026-11-15, GKM-SAA-189; STRENGTHEN).** Three register threads belong in the map. (1) The Producer, who normally speaks politely, slips into `俺` at moments of exposure: in C-KOTONE when he admits he underestimated her (`adv_cidol-fktn-3-011_02.txt` L103, with `くそ……悔しいな` at L187), and in Dear 012 L192, Dear 020 L249, Dear 025 L99, Dear 028 L67, Dear 030 L361 and Dear 032 L603. In Dear 027 the slip comes as a one-option choice, `俺の夢を叶えてください` (L453). (2) The Producer's address to Kotone moves from `藤田さん` to `ことね` (`adv_dear_fktn_027.txt` L452) and then to `ことねさん` in a one-option choice (`adv_dear_fktn_037.txt` L612). (3) Kotone's address to Sena forms a ladder. It runs `十王会長` (`adv_dear_fktn_012.txt` L56), `星南会長` and then `星南先輩`, the latter at Sena's insistence (`adv_dear_fktn_013.txt` L5–L33). `星南おねーちゃん` appears in exuberance (`adv_dear_fktn_022.txt` L408) and `アンタ` in anger (`adv_dear_fktn_017.txt` L474). `星南ちゃん` appears first when Kotone speaks to the Producer in Sena's absence (`adv_dear_fktn_025.txt` L71), and later to Sena's face, at Sena's initiative, in Dear 036 (L603). Delivery belongs to the AV pass.
+
 ## 13.4 Rough speech is not automatically the authentic core
 
 Lines like `くっそ`, `だべ`, or comic `殺すぞ` forms create texture that contrasts the sweet idol surface.
@@ -1209,6 +1286,8 @@ Both are authored relation-specific voices.
 Kotone frequently reaches for money/value/payment language even when discussing recognition or emotional debt.
 
 That makes translation delicate. Rendering every expression as generic “owe” language can lose the comic-material texture of her worldview.
+
+**Register note (2026-11-15, GKM-SAA-054; STRENGTHEN).** The same vocabulary also serves as cover when someone notices her sincerity (`adv_cidol-fktn-3-001_01.txt` L147–L165; §11.3). A translation should keep the abrupt switch from earnest to mercenary audible.
 
 ## 13.6 `普通`
 
@@ -1360,6 +1439,8 @@ She can believe strongly in specific kinds of attractiveness and social effectiv
 
 Money is both comic surface and real dream-content.
 
+**Third function (2026-11-15, GKM-SAA-054; STRENGTHEN).** Money talk is also a deflection deployed when her sincerity is noticed (§11.3). The rejection of the legacy claim stands.
+
 ---
 
 # 18. Counterevidence and interpretive limits
@@ -1385,6 +1466,8 @@ Both can be true. Material capability can increase while relational/institutiona
 ## 18.5 Counterexample: if Kotone rejects being Sena's successor, why accept the Producer's top-idol project?
 
 This is unresolved and important. One possible difference is that Kotone experiences the Producer's target as coauthored and responsive while Sena's successor script tries to solve Sena's problem through Kotone. But the contrast should be tested rather than assumed.
+
+**Partly tested (2026-11-15, GKM-SAA-051, GKM-SAA-010; STRENGTHEN).** Cross-track evidence supports the hypothesis without settling it. In D-SENA, Kotone accepts Sena as producer once Sena revises her method and offers concrete material terms (§10.2). In Source Lock 1.1 D-KOTONE, Kotone grounds her refusal of Sena's designation in her own promise to the Producer to reach the top and fulfil her dream (`adv_dear_fktn_033.txt` L266–L272). Having won, she then takes up Sena's duties by choice (§10.3). Acceptance appears to track method, consent and material context rather than the person.
 
 ## 18.6 Counterexample: does debt repayment “solve” class?
 
@@ -1426,6 +1509,45 @@ The following claims are carried into the evidence matrix as `KOTO-C01`–`KOTO-
 28. Kotone's talent includes social/audience intelligence not captured by isolated technical metrics.
 29. `スター性` functions as a name for nonquantified social effect, not proof of mystical essence.
 30. AV evidence is required before a definitive claim about how her cute/blunt textual registers map onto speaking and singing performance.
+
+Added 2026-11-15 (GKM-SAA-050): `KOTO-C31` — Kotone's idol origin is dual and text-stated: family rescue and admiration of Sena coexist (§2.1). The evidence matrix records this and the other 2026-11-15 claim transitions.
+
+---
+
+## Phase-4/5 integration pointers — 2026-11-15 (source-to-analysis audit)
+
+This section indexes the event, support, Unit Story and cross-track evidence that the 2026-11-15 additions integrate into this core (owner decision of 2026-11-15; GKM-SAA-104, GKM-SAA-108). Each item keeps its track label. "Core section" gives where the dated addition now sits. Reading sections refer to the files in `03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/` and `03_SOURCE_FACING_READINGS/03_SUPPORT_CARD_READINGS/`. CSL rows refer to section headings of `04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_CHARACTER_STATE_LEDGER.md`. "Row requested" marks a ledger addition handed to the ledger editors with this revision.
+
+| Object (track) | A1 locator | What it adds | Core section | Owning reading section | CSL row | Audit ID |
+| --- | --- | --- | --- | --- | --- | --- |
+| Event 001 main-04 (E001, C1) | `adv_event_001_main-04.txt` L316 | Kotone tells Temari she has her own `事情`; she guards her circumstances | §3.2.14 | Events 001–005 | Phase 4 — Events 001–005, Kotone | GKM-SAA-009 |
+| Event 005 main-02 (E005, C1; Tsubame's report) | `adv_event_005_main-02.txt` L62–L95 | Tsubame advised a middle-division Kotone after stopping her working without permission | §2.1 | Events 001–005 §7.3 | Phase 4 — Events 001–005, Kotone (row requested) | GKM-SAA-267 |
+| Event 012 main-02 (E012, C1; Lilja-focalized flashback) | `adv_event_012_main-02.txt` L108–L117 | Kotone calls herself `内部進学組` | §2.1 | Events 006–012 §8 | Phase 4 — Events 006–012, Kotone (row requested) | GKM-SAA-104, GKM-SAA-267 |
+| Event 022 main-02 (E022, C1) | `adv_event_022_main-02.txt` L118–L132 | Sena's welcome live as Kotone's model, fused with the money goal | §2.1 | Events 021+ §3 | Phase 4 — Events 021+, Kotone | GKM-SAA-050 |
+| Event 022 main-02/-03 (E022, C1) | `adv_event_022_main-02.txt` L64, L438; `adv_event_022_main-03.txt` L19 | Kotone nurses the feverish Mao with sibling-derived skill | §12.5 | Events 021+ §3.2 | Phase 4 — Events 021+, Kotone | GKM-SAA-104 |
+| Event 022 main-04 (E022, C1) | `adv_event_022_main-04.txt` L61–L76 | Sena's unspecified help lets Kotone cut part-time shifts; Mao notes she keeps the curfew | §2.4, §10.2 | Events 021+ §1.3, §3 | Phase 4 — Events 021+, Kotone (RSL event row requested) | GKM-SAA-104, GKM-SAA-156 |
+| Support 3-0113 (S, C4; revision 86) | `adv_csprt-3-0113_02.txt` L18–L36; `_01` L89–L182; `_03` L149–L220 | Private willingness, Sena's imagined rejection and an interrupted acceptance, kept as distinct events | §2.4, §10.2 | Revision 86 support reading, 3-0113 row and *Core and ledger integration* | Source Lock 1.1 — transcript refresh (row requested) | GKM-SAA-108 |
+| Support 2-0011 (S, C4) | `adv_csprt-2-0011_02.txt` L75 | Kotone refuses Sena's money because she will not take on debt | §10.2 | Support Series 2 Part 001–025 §13 | Phase 5 — Support Series 2 Part 001–025, Kotone | GKM-SAA-051, GKM-SAA-108 |
+| Support 2-0058 (S, C4) | `adv_csprt-2-0058_01.txt` L197 | Temporary, debt-free dependence on Rinami | §12.5, §23 | Support Series 2 Part 051–074 §7, §28.3, §33.4 | Phase 5 — Support Series 2 Part 051–074, Kotone | GKM-SAA-052, GKM-SAA-108 |
+| Support 2-0079 (S, C4) | `adv_csprt-2-0079_01.txt`–`_02.txt` (per reading) | Kotone accepts Tsubame's directive health care | §12.5 | Support Series 2 Part 051–074 §27 | Phase 5 — Support Series 2 Part 051–074, Kotone | GKM-SAA-108 |
+| Support 3-0024 (S, C4) | `adv_csprt-3-0024_03.txt` L113; `_01` (per reading) | Saki's deferred reciprocity; Rinami's routing to hardship relief | §1.4, §12.5 | Support Series 3 Part 001–025 §26 | Phase 5 — Support Series 3 Part 001–025, Kotone | GKM-SAA-052, GKM-SAA-108 |
+| Support 3-0065 (S, C4) | `adv_csprt-3-0065_02.txt` L77 | Kotone refuses payment without labor and brokers Misuzu's care for Temari | §12.5, §23 | Support Series 3 Part 051–075 §16 | Phase 5 — Support Series 3 Part 051–075, Kotone | GKM-SAA-108 |
+| Supports 3-0068 and 3-0075 (S, C4) | parts 01–03 of each (per reading) | Peers and China enter Kotone's family perimeter | §12.5, §23 | Support Series 3 Part 051–075 §19, §26 | Phase 5 — Support Series 3 Part 051–075, Kotone | GKM-SAA-108 |
+| D-SENA 003, 013, 016, 018, 023, 027 (C1 @ D-SENA) | `adv_dear_jsna_003.txt` L253–L397; `_013` L30, L296–L328; `_016` L349–L425; `_018` L264–L289; `_023` L151–L192, L475–L528; `_027` L531, L621 | Counter-state for KOTO-C13; Sena as idol origin; the father search in another track | §2.1, §3.2.14, §9.3, §10.1–§10.2, §18.5 | Sena core §8, §19, §24 | Phase 3 Character 12 — Juo Sena | GKM-SAA-009, GKM-SAA-050, GKM-SAA-051 |
+| U1 01-01_05, 01-02_03, 01-03_01, 01-03_11 (U1) | `adv_unit_01-01_05.txt` L155–L178; `adv_unit_01-02_03.txt` L625; `adv_unit_01-03_01.txt` L678–L708; `adv_unit_01-03_11.txt` L554 | The Kotone–Saki arc, from instrumental contempt to trust that Kotone never hears spoken | §3.6 | Relationship Systems II §3.3 | Phase 3 — Fujita Kotone, U1 Re;IRIS | GKM-SAA-282 |
+| U1 01-04_01, 01-04_02, 01-04_22 (U1) | `adv_unit_01-04_22.txt` L149–L468; `adv_unit_01-04_01.txt` L482–L570; `adv_unit_01-04_02.txt` L371 | The Kotone–Sena arc: spring-break discovery, scouting taken as jokes, rival naming | §3.6 | Relationship Systems II §8 | Phase 3 — Fujita Kotone, U1 Re;IRIS (RSL U1 row requested) | GKM-SAA-112 |
+
+**Support-card verification questions that Phase 5 answered, in whole or part (GKM-SAA-108).** These are questions from §23 and from the evidence matrix §3.3.
+
+| Question | Status after Phase 5 | Support-reading section | CSL row |
+| --- | --- | --- | --- |
+| §23 Q1 — care from peers without converting it into debt | **Answered, bounded**: accepted when temporary, debt-free and without leverage over her future | Support Series 2 Part 051–074 §7, §28.3, §33.4; Support Series 3 Part 001–025 §26 | Phase 5 — Support Series 2 Part 051–074; Support Series 3 Part 001–025 |
+| §23 Q2 — care Kotone gives peers when the Producer is absent | **Partly answered**: brokerage between Temari and Misuzu; errands and food care; nursing Mao in E022 | Support Series 3 Part 051–075 §16; Support Series 2 Part 026–050 §26; Events 021+ §3.2 | Phase 5 — Support Series 3 Part 051–075; Phase 4 — Events 021+ |
+| §23 Q4 — a younger sister's success without scarcity logic | **Partly answered**: a sister visits the school to see Kotone's work; in Source Lock 1.1 Dear 034 the sister names Kotone as her star | Support Series 3 Part 051–075 §19; Kotone transcript refresh (D034) | Phase 5 — Support Series 3 Part 051–075; Source Lock 1.1 refresh |
+| §23 Q6 — the family economy in stories not centered on the Producer | **Partly answered**: siblings enter peer networks (Saki, Temari, China) | Support Series 3 Part 051–075 §19, §26 | Phase 5 — Support Series 3 Part 051–075 |
+| §23 Q8 — refusing profitable work or money on ethical grounds | **Partly answered**: she refuses payment without labor (3-0065) and Sena's money as debt (2-0011) | Support Series 3 Part 051–075 §16; Support Series 2 Part 001–025 §13 | Phase 5 — Support Series 3 Part 051–075; Support Series 2 Part 001–025 |
+| §23 Q12 and matrix §3.3 item 3 — gifts received without repayment | **Narrowed**: debt-free peer care in support stories; Source Lock 1.1 Dear 037 settles the Producer account as mutual gift (§3.2.22) | Support Series 2 Part 051–074 §7, §33.4 | Phase 5 — Support Series 2 Part 051–074 |
+| §23 Q3 — whether romance-coded exclusivity becomes more controlling | **OPEN**: the support pass does not settle it | — | — |
 
 ---
 
@@ -1502,3 +1624,12 @@ Ordinary idolhood is the condition that finally lets extravagance become a choic
 11. Does the full AV corpus support a stable personal sonic identity, or primarily a highly portable performance technique?
 12. Can Kotone eventually receive love/support that she does not have to `お支払い` back?
 
+**Status note (2026-11-15, GKM-SAA-108, GKM-SAA-052).** Phase 5 support readings and Source Lock 1.1 Dear 037 have since answered questions 1 and 8, in bounded form or in part, and partly answered questions 2, 4 and 6. Question 12 is narrowed (§3.2.22, §11.6). Question 3 stays open. The second table in *Phase-4/5 integration pointers* gives the support-reading sections and ledger rows. The questions are kept as written so that the Phase-3 agenda stays recoverable.
+
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+In D-KOTONE 028–037, Kotone reports clearing her family's debt and says that earning still gives her joy, security, options and evidence that the work is valued (`adv_dear_fktn_028.txt` M037–051; `_032.txt` M074–096). The winter result and Sena's move from `星南先輩` to `星南ちゃん` belong to this Dear track (`_036.txt` M009 and M019–039). The separate P3 final-failure scene names Sena. Kotone's later vow to defer romance has a common endpoint across the two choice branches (`_037.txt` L380 and M053–099).
+
+[Source reading 1](GKM_KOTONE_TRANSCRIPT_REFRESH_20261112.md)

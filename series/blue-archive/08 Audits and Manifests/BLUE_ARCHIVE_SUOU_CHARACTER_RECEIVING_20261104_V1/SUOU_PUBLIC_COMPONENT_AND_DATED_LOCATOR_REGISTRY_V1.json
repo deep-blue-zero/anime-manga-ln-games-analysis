@@ -1,0 +1,1853 @@
+{
+  "schema": "SUOU_SIX_ROLE_PUBLIC_FORM_V1",
+  "series": "BLUE_ARCHIVE",
+  "artifact_role": "REGISTRY",
+  "scope": "P3-CHAR-M003/P3-M003;home2;V001 maintained analytical boundary",
+  "generation": "CURRENT_ELIGIBLE_METADATA_V1",
+  "authority": {
+    "status": "canonical",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": false
+  },
+  "composer": "/root/recover_yuzu_saved_review",
+  "preparation_date": "2026-11-04",
+  "lifecycle_state": "CURRENT_ELIGIBLE_METADATA_DERIVATIVE_20261104_PUBLIC24_ACCEPTED_FINITE_QA_ROOT_PENDING",
+  "review_at_creation": "Prior exact public6 accepted by Root SUOU-ROOT-PUBLIC6-20261104-V1 after disclosed different public-form QA. This metadata derivative requires different finite metadata QA and Root actual new-byte acceptance before installation/count/publication; no owner signature.",
+  "component_refs": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SUOU_CHARACTER_MONOGRAPH.md",
+      "bytes": 16894,
+      "sha256": "60617ebb4f0e79616c6462b57ea0ae18f39ddbaaca1a358650bfbd29b2d46ce5"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "bytes": 203065,
+      "sha256": "f8445f093d1dbe6da9ae27633a106323f356cc45311bd683a3c4e512bddf5f37"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "bytes": 307994,
+      "sha256": "614880b2f34ee26d3ffcbf382a576fae02c5421276ebf8eaaee022fe973606d2"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "bytes": 242216,
+      "sha256": "3f6dd0062996666a8835a9c7f238f257a63fb8237a3e516b7c198133620365c2"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "bytes": 94322,
+      "sha256": "7f5cc8a49a7c46b03c08e924ef6a563a06ede5998c56eeb6f9692f37e5c07c80"
+    }
+  ],
+  "source_and_history": "Every original actor/date/null and WHOLE/SELECTED grade is retained. Dated pending/zero/source162/Main152/PR455 values describe creation, not present instructions/counters. No new primary/native/raw/AV/private or source-admission/model/count/install/publication credit.",
+  "complete_record_registry": [
+    {
+      "record_id": "SUI000",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI000/content",
+      "projected_value_sha256": "9e187b47cdab5f831bfc4e5555217c392d7dfaec51f82a2af23b9e2ce6d290b1",
+      "original_value_sha256": "d33a88bd31aa16db5cfafb61151a694d2870b2727fa30e4f28a20ffbf5e9aee4",
+      "original_actor": null,
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_EXACT_POSITIVE_V001_CUSTODY_AND_OPEN_C003_RECEIVING_PLAN_V1.json",
+          "original_file_bytes": 2462,
+          "original_file_sha256": "8ce8497192595ce4e2c6010eba77f60a60dedc47363d2a812f747e3938ff78b8",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI001",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI001/content",
+      "projected_value_sha256": "6a7681b158618e28c63afc3d6aea0e446a4dcdc253690e69fb6344c976141132",
+      "original_value_sha256": "6a7681b158618e28c63afc3d6aea0e446a4dcdc253690e69fb6344c976141132",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_OWN11_READINESS_DIMENSIONS_EIGHT_SERIOUS_RIVALS_AND_TWELVE_LOCAL_CLAIM_LIMITS_V1.json",
+          "original_file_bytes": 14315,
+          "original_file_sha256": "28cc0cfb5329bf99dab81eabb2b4fa743aa1a5fe5cf4a47bcb5d1f3743452a81",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        },
+        {
+          "occurrence_index": 1,
+          "original_filename": "AUTHOR_OWN11_EIGHT_TWELVE_LIMITS_EXACT.json",
+          "original_file_bytes": 14315,
+          "original_file_sha256": "28cc0cfb5329bf99dab81eabb2b4fa743aa1a5fe5cf4a47bcb5d1f3743452a81",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI002",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI002/content",
+      "projected_value_sha256": "5e1104583a511a256b03745b19a26469556869de7b483bf219aaf60830260ff0",
+      "original_value_sha256": "5e1104583a511a256b03745b19a26469556869de7b483bf219aaf60830260ff0",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_OWN12_PLUS6_PLUS2_COMPLETE_SOURCE_ANSWERS_WITH_ROLE_RECIPIENT_WANT_AND_AFTERMATH_LIMITS_V1.json",
+          "original_file_bytes": 8082,
+          "original_file_sha256": "f897f0e9d1ab0be2dc7ffaf894776c3e557663e56490d5e4b4ebceaf70f3cdd0",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        },
+        {
+          "occurrence_index": 1,
+          "original_filename": "AUTHOR_OWN20_SOURCE_ANSWERS_EXACT.json",
+          "original_file_bytes": 8082,
+          "original_file_sha256": "f897f0e9d1ab0be2dc7ffaf894776c3e557663e56490d5e4b4ebceaf70f3cdd0",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI003",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI003/content",
+      "projected_value_sha256": "1037272fb0336fdcf04bead557bf98ef182ec99deadc238a5b00b8ca4fabf88f",
+      "original_value_sha256": "1037272fb0336fdcf04bead557bf98ef182ec99deadc238a5b00b8ca4fabf88f",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_OWN12_PROSPECTIVE_SOURCE_QUESTIONS_AND_EXACT_PRIOR_V001_50_EXPOSURE_BEFORE_COURSE_V1.json",
+          "original_file_bytes": 5829,
+          "original_file_sha256": "591b7188ce5615c08bdf7fc4c33a323a6a79605e97600a79daa5523b8cc39b9d",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI004",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI004/content",
+      "projected_value_sha256": "ed8b8e06819bc46b9b81ef79116d0eaf6d75e3fee94dfa5c1e4c4480c9eb412b",
+      "original_value_sha256": "ed8b8e06819bc46b9b81ef79116d0eaf6d75e3fee94dfa5c1e4c4480c9eb412b",
+      "original_actor": null,
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_OWN6_CONSEQUENTIAL_C003_CHECKPOINT_QUESTIONS_BEFORE_REQUEST_OR_NEW_CONTEXT_V1.json",
+          "original_file_bytes": 2619,
+          "original_file_sha256": "ba11e73bc2a3ecdddb218748612d12b3b01404cf7aa772f9db400da7d63c11a1",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI005",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI005/content",
+      "projected_value_sha256": "ba159929898085ea5c727d4253cf605b986095592bb1f6188259bb9e3d56d1e4",
+      "original_value_sha256": "52dd5ef91ccc92bd376a5d6d9bd539c12fe20a2fcf4b5d36d7a9b44bd0ed72c7",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_OWN_ACTUAL_CHECKPOINT72_SIX_ANSWERS_AND_TWO_FINER_ROLE_RELATION_QUESTIONS_BEFORE_REQUEST_V1.json",
+          "original_file_bytes": 4729,
+          "original_file_sha256": "0fee8b2f733578841dfc26b0261e80ca5bfefad1e0540943311328a41f2d332f",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI006",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI006/content",
+      "projected_value_sha256": "d784a216e5b3730c4c040511c495b359bd8cf202da78d664fc3c563553ae4bac",
+      "original_value_sha256": "2aab602d8f99ed0cbd2eaf1f55a715312061626597922554def553c29362bf7b",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_OWN_ACTUAL_SELECTED31_AND_THREE_POSITIVE_WHOLE_CONTEXT_CHOICES_BEFORE_CAPTURE_V1.json",
+          "original_file_bytes": 3292,
+          "original_file_sha256": "01142f723c98c8031bf9e0dbd409eaf66802e502c5594cce5fe34db0855f8d39",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI007",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI007/content",
+      "projected_value_sha256": "2f9280cb3d12c23805b66a7c59a91dceff8db61081cb29c1cdf87fe1655e197b",
+      "original_value_sha256": "8c2c0794fc7032c73d2291548bda90259b4ae1c100f5611ff4041675d5a21f0a",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_OWN_ACTUAL_WHOLE349_WORKING_ACCOUNT_COURSE_WITH_EXACT_PRIOR50_AND_OPEN_CHECKPOINT_NEED_V1.json",
+          "original_file_bytes": 3309,
+          "original_file_sha256": "8611fcc5dba0e5675e4580696396c9219ba1e30ab90aafa54d06fe97b8a8c90f",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI008",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI008/content",
+      "projected_value_sha256": "50279fc9f49ff96690181d8a8b02459bbbd12767b17e0ea71c7952ba0dda4ec5",
+      "original_value_sha256": "10dd37ea3fc92674481d4c286dd27069bc8fc50b84d3d20736abcb08539e6a55",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_OWN_ACTUAL_WHOLE537_PLUS_SELECTED19_COMPLETE_MAINTAINED556_COURSE_WITH_MEANINGS_AND_SOURCE_GRADES_V1.json",
+          "original_file_bytes": 23005,
+          "original_file_sha256": "1d99a8e02802a28914cecfff447c4c6afa27d5a199e25cd5957f6a4b28ebf7d2",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        },
+        {
+          "occurrence_index": 1,
+          "original_filename": "AUTHOR_OWN556_SOURCE_COURSE_EXACT.json",
+          "original_file_bytes": 23005,
+          "original_file_sha256": "1d99a8e02802a28914cecfff447c4c6afa27d5a199e25cd5957f6a4b28ebf7d2",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI009",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI009/content",
+      "projected_value_sha256": "86bdc09be668dd1374ef32c2dfcf46371bbd7b470e24ad27bdf59dce330f4d3f",
+      "original_value_sha256": "a34758f80bdaf010bbdf505ac0d9acfeaa0d107c22f2ea72e07205628276822b",
+      "original_actor": null,
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_OWN_EXACT_METADATA_ROWS_HOME2_M003_A314_AND_REQUIRED_HOME242_HOME207_NO_STORY_CREDIT_V1.json",
+          "original_file_bytes": 10385,
+          "original_file_sha256": "777c88a0792235b456f51ca06311d28749552f0565500c32606cc258f72f7b8c",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        },
+        {
+          "occurrence_index": 1,
+          "original_filename": "AUTHOR_EXACT_HOME_AND_DEBT_METADATA_EXACT.json",
+          "original_file_bytes": 10385,
+          "original_file_sha256": "777c88a0792235b456f51ca06311d28749552f0565500c32606cc258f72f7b8c",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI010",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI010/content",
+      "projected_value_sha256": "646c99bf6f5da4bcaa6048ad0e149604ba5bb0de5528ff3d063abb2cbc9977dd",
+      "original_value_sha256": "646c99bf6f5da4bcaa6048ad0e149604ba5bb0de5528ff3d063abb2cbc9977dd",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": "2026-11-04T04:45:15.716799+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_OWN_SEVEN_SUBSTANTIVE_CLOSURE_REASONS_ACTUAL_READBACK_AND_SOURCE_MECHANICAL_SCOPE_SEPARATION_V1.json",
+          "original_file_bytes": 5097,
+          "original_file_sha256": "677b1ea4064049cb91d95347d74594247a71cbed60ecf1f1693d78d1a2e89539",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        },
+        {
+          "occurrence_index": 1,
+          "original_filename": "AUTHOR_READINESS_MEANINGFUL_CLOSEOUT_EXACT.json",
+          "original_file_bytes": 5097,
+          "original_file_sha256": "677b1ea4064049cb91d95347d74594247a71cbed60ecf1f1693d78d1a2e89539",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI011",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI011/content",
+      "projected_value_sha256": "cc8038188f7ca5c5d18da1cdda218a52003ea5142b0b0e31b7fcf7f18512c2dd",
+      "original_value_sha256": "e8db9efe698c34d8fe8ac2b16694a2192162a42733d3d80aacdc43134e532eb4",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T04:59:15.789034+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_DISTINCT_QA_OWN12_ANSWERS_AND_COMPLETE_AUTHOR20_DIMENSIONS11_RIVALS8_LIMITS12_JUDGMENTS_WITH_BOUNDS_V1.json",
+          "original_file_bytes": 23610,
+          "original_file_sha256": "5217cb154e180c593f400f775c616a79f9227b4ff80d139329bfef775e3bfa71",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        },
+        {
+          "occurrence_index": 1,
+          "original_filename": "DISTINCT_OWN12_20_11_EIGHT_TWELVE_REASONED_REVIEW_EXACT.json",
+          "original_file_bytes": 23610,
+          "original_file_sha256": "5217cb154e180c593f400f775c616a79f9227b4ff80d139329bfef775e3bfa71",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI012",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI012/content",
+      "projected_value_sha256": "cbf93b5919d94d807a154c4ecddfbb7d5ee2ab078b194a23abf665da21019b1e",
+      "original_value_sha256": "cbf93b5919d94d807a154c4ecddfbb7d5ee2ab078b194a23abf665da21019b1e",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T04:53:09.081445+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_DISTINCT_QA_OWN12_PROSPECTIVE_QUESTIONS_AND_PRIOR_METADATA_ARONA_ROLE_BEFORE_SOURCE_BODY_RECEIVING_V1.json",
+          "original_file_bytes": 4273,
+          "original_file_sha256": "fa324809ed54f549060e389e8b5008169db70ebfaae31b7dedbf06770268b678",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI013",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI013/content",
+      "projected_value_sha256": "e03c3a000438364e6201336607f2366e725ae50c9c97d5031d8dab56fe4a07bd",
+      "original_value_sha256": "315a773296965904f4e23542a6c9748e647df5a8f44b0a93c42cd83be8977d9c",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T04:57:19.815365+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_DISTINCT_QA_OWN_ACTUAL_SELECTED94_WHOLE188_PLUS19_UNIQUE301_COURSE_AND_GRADE_BOUNDARIES_V1.json",
+          "original_file_bytes": 26737,
+          "original_file_sha256": "95e0d27980abaf7a660cd9a28340fc3cdfb5b700f39b775f7baab4769c6a3ccb",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        },
+        {
+          "occurrence_index": 1,
+          "original_filename": "DISTINCT_SOURCE301_GRADE_AND_MEANINGS_EXACT.json",
+          "original_file_bytes": 26737,
+          "original_file_sha256": "95e0d27980abaf7a660cd9a28340fc3cdfb5b700f39b775f7baab4769c6a3ccb",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI014",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI014/content",
+      "projected_value_sha256": "5b7fe1285af5830b47e1bf65dd61514e223c1e9e899fbd8baa7b27c9c58e6390",
+      "original_value_sha256": "5b7fe1285af5830b47e1bf65dd61514e223c1e9e899fbd8baa7b27c9c58e6390",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T04:54:35.625680+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_DISTINCT_QA_OWN_PLANNED_SELECTED94_WHOLE188_AND_SELECTED31_WITH_PRIOR_EXPOSURE_DISCLOSURE_V1.json",
+          "original_file_bytes": 2547,
+          "original_file_sha256": "87f572f2f903f3d0e138935020e24a711236fe3fd3d1916e04f4ea8bc65b61ef",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI015",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI015/content",
+      "projected_value_sha256": "c19fe2087f93a9c62160ac49461d25713fe37b8ca7fa1adad32cc4f7d6e8813d",
+      "original_value_sha256": "462561a1e15c966dfff6f0f1795ce003a925b408fa692501b55cd0eacf24ed67",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T05:02:05.080295+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_DISTINCT_QA_OWN_SEVEN_SUBSTANTIVE_CLOSURE_REASONS_ACTUAL_RECEIVING_AND_NO_BODY_SCOPE_V1.json",
+          "original_file_bytes": 5857,
+          "original_file_sha256": "38f0b00864352175bc60ffd5edee8e71c339e53f5d812bc0246de83816e5bb1d",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        },
+        {
+          "occurrence_index": 1,
+          "original_filename": "DISTINCT_MEANINGFUL_CLOSEOUT_EXACT.json",
+          "original_file_bytes": 5857,
+          "original_file_sha256": "38f0b00864352175bc60ffd5edee8e71c339e53f5d812bc0246de83816e5bb1d",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI016",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI016/content",
+      "projected_value_sha256": "b8f0d42cd79fbbe133587fc2478120ec66b22243eb70a46c84130b0bb87679c0",
+      "original_value_sha256": "013a6e4a369b69fd7fe7a549a960a39b183e88921af246ee2ef924a17a5ad9a8",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "AUTHOR_READINESS_TERMINAL_EXACT.json",
+          "original_file_bytes": 6705,
+          "original_file_sha256": "c01b77abd09dad1fff111658ec05ef3a518ce7ed0fef4b8ad4aa910f4c2c9a85",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI017",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI017/content",
+      "projected_value_sha256": "a5cfc94763d3200ea6a4a96ccbe488963d4d14c84706aa07dcd06be58ccf1780",
+      "original_value_sha256": "43ebd9ff6f8e0345ebacf8b2b8cc787dad82f4ff6ad42f627f273d85619387cb",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T05:02:05.095141+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "DISTINCT_READINESS_TERMINAL_EXACT.json",
+          "original_file_bytes": 6144,
+          "original_file_sha256": "883a334c8bddda796ff3c7a6d697b6f2e9d17a721a0aa40c90eba3c8ae82771a",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI018",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI018/content",
+      "projected_value_sha256": "1ef0908f5e3c801c67cbada94bec096b12398925b1873966b950da2bb4a9f68c",
+      "original_value_sha256": "e766fff85681207bb73685b8003748cf262a6929b2e50621600d1d7e5554a3ee",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": "2026-11-04T06:26:22.185834+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "OWN_SUOU_BODY_FIRST_PROSPECTIVE_ARGUMENT_QUESTIONS_AND_DATED_EXPOSURE_V1.json",
+          "original_file_bytes": 3522,
+          "original_file_sha256": "83d76773a6a80bb3d3560aa3fcf40c19d91e5e04cf1bca2f1c0e0419fdfab6bb",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI019",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI019/content",
+      "projected_value_sha256": "1d01113216fd16e5c9ebaa294bd75e96fde356fa52f205756facde40a62b93f2",
+      "original_value_sha256": "67be6641d502f1e088612a3936a5786d16d4e1e28d7b1352f163ab5347170330",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "OWN_SUOU_ORIGINAL_CONNECTED24_BODY_AUTHORING_CHOICES_ELEVEN_DIMENSIONS_EIGHT_RIVALS_AND_SIX_ANSWERS_V1.json",
+          "original_file_bytes": 18118,
+          "original_file_sha256": "c1cd47653f0ec3b5cb178c31a11e12059615b4a0d04ce574e6c6ba33fdb87563",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI020",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI020/content",
+      "projected_value_sha256": "31525bbea3439f36607b20aba7f93c6f41ba332032533b3559e2d9550fcba814",
+      "original_value_sha256": "49553f0686905f11797ba3b2234f3d38578cab0ae9a2da6fbfce1097b103280c",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": "2026-11-04T06:35:44.224743+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "OWN_SUOU_WHOLE_SAVED_CONNECTED_BODY24_AND_ARGUMENT_REFERENCE_READBACK_WITH_LIMITS_V1.json",
+          "original_file_bytes": 13863,
+          "original_file_sha256": "15d29c2624cb9d30e7996a98e4ce20cbe8465a27ce25465dbf9f00f6811ad59c",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI021",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI021/content",
+      "projected_value_sha256": "3a8d311e9910a7d09180c1ce1d8a9902a49911de8a187ed4a99b7f4aa50a3414",
+      "original_value_sha256": "c57df8415574de4dacf916da5d30e7d2553452b57b739ebf3a1d1b830fdba6a0",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": "2026-11-04T06:38:52.697773+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "OWN_SUOU_CONNECTED_BODY_FIRST_SEVEN_REASONED_AUTHOR_CLOSEOUT_ACTUAL_READBACK_AND_LIMITS_V1.json",
+          "original_file_bytes": 8791,
+          "original_file_sha256": "0fe9404692fd6e36cc23405c2b64471f21aa6d569e7acfd37fefa4e2e25c8f05",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI022",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "JSON_pointer": "/records/SUI022/content",
+      "projected_value_sha256": "930d37a4c39f534ee12bfe99423f7bc3e759e37ae5e6458cc3389e8e7e25845d",
+      "original_value_sha256": "83d7d56dad89a3dc1d134ac001fc546e971a8d5614d69ad13f220b458a406d29",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": "2026-11-04T06:30:22.087865+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_EXACT_L392_HEADER_NEIGHBORS_AND_SHARED_FRONTIER_NOT_AUTOMATIC_S2_DEBT_CLARIFICATION_V1.json",
+          "original_file_bytes": 7099,
+          "original_file_sha256": "5075bff0996b82776670f7e0e9c668e9ad92269142baaaf79703bf1a94e88f2b",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI023",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "JSON_pointer": "/records/SUI023/content",
+      "projected_value_sha256": "3c7f7fd48efa72cbdd7ad419b8340ca7ffe228d768722aa33f5cf6545ae58caa",
+      "original_value_sha256": "0153ca701c9c5571e7f8861b3ee8842694298c24fa0a43fd6620f3cb09838979",
+      "original_actor": null,
+      "original_date": "2026-11-04T06:33:44.779331+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_OWN_PREFREEZE_THREE_E020_RANGE_LOCATORS_TO_EXACT_SELECTED20_22_24_WITH_FULL_INVERSE_V1.json",
+          "original_file_bytes": 2694,
+          "original_file_sha256": "0fb3d322e9671ec8f82136a3f4dd48ef3dcd1e60d28f3839e1e7e16825984c7c",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI024",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/records/SUI024/content",
+      "projected_value_sha256": "9e33e2f7bf7fc3b7ae2d73321327c2bc69f835052690add76863371563fe46f6",
+      "original_value_sha256": "f7b1a23e115d72a3a1f42e9e0ac74fdfda53b0c1b26d5407064a86a046261eae",
+      "original_actor": "Root commission prose",
+      "original_date": "2026-11-04, commission attribution",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "ROOT_SUOU_BODY_COMMISSION_EXACT.md",
+          "original_file_bytes": 7208,
+          "original_file_sha256": "a5a0b91e4a9da551c3daf81543544fa18a11ce09bebbc541a8de90e43e2a8f5d",
+          "original_JSON_pointer": null,
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI025",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI025/content",
+      "projected_value_sha256": "204b7a817f17e04c79ac4ba8787f3fdc8bcad7d0b3de605d9b6560a596b022d6",
+      "original_value_sha256": "11aa5cab1769aee2fa1cea07626298123da005bdab1c2efc4c13300b873298f8",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": "2026-11-04T06:40:39.963567+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "START_HERE_SUOU_M003_CONNECTED24_BODY_FIRST_AUTHOR_COMPLETE_FROZEN_WITH_LIMITS_V1.json",
+          "original_file_bytes": 10514,
+          "original_file_sha256": "c51566a5dd6ceb596144fb19489970d82b064dd89ec1939e6035361d4d01002c",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI026",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "JSON_pointer": "/records/SUI026/content",
+      "projected_value_sha256": "bf31d08245370190a571596bbda666f794b6202295d17473e7f86ecd4a5f09c6",
+      "original_value_sha256": "77aae006324d50945db59564b1cf6defb88cbbb191975dace48f05eaf079c274",
+      "original_actor": null,
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_CURRENT24_LITERAL_EVIDENCE_MODE_MAP_WITH_E042_SUP020_DELTA_V2.json",
+          "original_file_bytes": 52741,
+          "original_file_sha256": "de6ef2f301a4276a0ecb1ad0a5b461c636457c25b8c4946ed56e16c77ceadde4",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI027",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "JSON_pointer": "/records/SUI027/content",
+      "projected_value_sha256": "5a500cc99622ae23e14fd83e380a068cf51fe4bd42e828416b757fc518b94ce1",
+      "original_value_sha256": "1724bba79024da80ecadd627e9cf37cb3bc6fd73667f4f36a0ae380763187689",
+      "original_actor": null,
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_CURRENT_SOURCE_AUTHORITY_ORIGINAL556_ACTOR_AND_NEW_E04235_QUALIFICATION_V2.json",
+          "original_file_bytes": 28350,
+          "original_file_sha256": "83cd751e2e95fb19dfa25e9d8173f847b637e4896acb8cda25b414d03b085a38",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI028",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI028/content",
+      "projected_value_sha256": "f7fbb96af0ea9208da1e22462e1efa9db32eea07d3ab6e9b25a5cee3a897385f",
+      "original_value_sha256": "f7fbb96af0ea9208da1e22462e1efa9db32eea07d3ab6e9b25a5cee3a897385f",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T06:50:44.730724+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_BODY_QA_OWN12_PROSPECTIVE_QUESTIONS_ACTUAL_EXPOSURE_AND_SOURCE_REUSE_GATE_BEFORE_BODY_V1.json",
+          "original_file_bytes": 5292,
+          "original_file_sha256": "253128c0d7c7f9924ba1c14ee06c498541e8dda6d55290bfddc1abffdb8e3f5f",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI029",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI029/content",
+      "projected_value_sha256": "2975c45765f75da9bc05cb47ac7a4b60b8d8d3cf1f3d25c94f1756823c693128",
+      "original_value_sha256": "2975c45765f75da9bc05cb47ac7a4b60b8d8d3cf1f3d25c94f1756823c693128",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T07:02:55.816512+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_BODY_QA_OWN24_PARTICULAR_REASONS_12_ANSWERS_ALL11_EIGHT_RIVALS_NINE_REFERENCES_AND_LIMITS_V1.json",
+          "original_file_bytes": 26673,
+          "original_file_sha256": "fd6f9e2859b2f11c666c189414d9aebd0c0e9b18479204b182833f80cdda858c",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI030",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI030/content",
+      "projected_value_sha256": "f45706e5359980148a4140ca0c9b853dec5edeb512a68bf5a61a8e251085fb65",
+      "original_value_sha256": "c993437d6d42cffc7fb85853f58b9e048250c5d1209c48cf5904c5285cb2fabc",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T07:04:40.843427+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_BODY_QA_OWN_EIGHT_COMPLETE_CLOSEOUT_REASONS_ACTUAL_RECEIVING_AND_FINAL_TARGET36_STABILITY_V1.json",
+          "original_file_bytes": 8408,
+          "original_file_sha256": "5bf4294756457375618f59354519fa221026f1643b2b8b4428087d9e8542d880",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI031",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI031/content",
+      "projected_value_sha256": "032fed6a752976a6e7ee809f2dd1996eee5ce49f28a2961eed56f2a696a54523",
+      "original_value_sha256": "3c44b7403c58cc6e4475ad4a4caa3db2549ff48c1d0161864bd89af4e92ac6a7",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T06:55:45.356163+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_BODY_QA_OWN_VERIFIED_PRIOR301_AND_ACTUAL_CURRENT254_REFRESH_SOURCE_MEANINGS_LIMITS_V1.json",
+          "original_file_bytes": 9177,
+          "original_file_sha256": "31ba9e4eadb88ee42c12dfd964956c4070a063bf8d3bfd97cf558b635dd782ac",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI032",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI032/content",
+      "projected_value_sha256": "052c061c0852a0357eb380d0ab6d02b802ae510160bd38d70e912ef45d749c93",
+      "original_value_sha256": "f9a5de1441581f97699364f5caecd76137951526eb4b98f3f5e42c738ab0bb79",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T07:05:29.141271+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "START_HERE_SUOU_M003_CURRENT75_LITERAL24_DISTINCT_COMPLETE_BODY_QA_FINAL_FROZEN_HANDOFF_V1.json",
+          "original_file_bytes": 5558,
+          "original_file_sha256": "da156c43ea1b65f5ba003c8439ff72df060bb82bf53083b93dada5f01b6df87f",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI033",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI033/content",
+      "projected_value_sha256": "d71fa6b64e52321e85a7460ee70c1c765c0bbc3cbfd1186638dcb91e02f9f8fe",
+      "original_value_sha256": "d71fa6b64e52321e85a7460ee70c1c765c0bbc3cbfd1186638dcb91e02f9f8fe",
+      "original_actor": "/root/recover_yuzu_saved_review",
+      "original_date": "2026-11-04",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "OWN_SIX_SUOU_E042_AUTHOR_QUESTIONS_AND_DATED_EXPOSURE_BEFORE_BODY_SOURCE_V1.json",
+          "original_file_bytes": 2885,
+          "original_file_sha256": "769f55953a9e76ed167773072f5b95bf2622e7f51a8ec3c353bee779712eab41",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI034",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI034/content",
+      "projected_value_sha256": "f7197ac7c37add47dc4f309fbc389d6697813f4a715fad2dd50ed6fc960e3cff",
+      "original_value_sha256": "694b85875f00d2e15e215ffb8cece6d561e011c1bafc0be68c6db3977328b3fd",
+      "original_actor": "/root/recover_yuzu_saved_review",
+      "original_date": "2026-11-04",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "OWN_SUOU_E042_SUP020_DELTA_AUTHOR_SIX_ANSWERS_SOURCE_LIMITS_AND_WHOLE_SAVED_BODY_READBACK_V1.json",
+          "original_file_bytes": 16430,
+          "original_file_sha256": "c62767223c42d03f5a988c796ac3e8e8aa71b5468a4df91fdb2e266390339d94",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI035",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI035/content",
+      "projected_value_sha256": "0a2eff651c520e496578c97d5e2e379e97373b1cc0c95927a3af9ff583296f6c",
+      "original_value_sha256": "d5d5353456aa318fde0c4739685b1d0dc75b6c41c175f9e67fa222655a50b053",
+      "original_actor": "/root/recover_yuzu_saved_review",
+      "original_date": "2026-11-04",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "START_HERE_SUOU_M003_E042_SUP020_CURRENT75_LITERAL24_FINITE_AUTHOR_SUCCESSOR_FROZEN_HANDOFF_V2.json",
+          "original_file_bytes": 11953,
+          "original_file_sha256": "db48940f03bfb4657519a40793cde493d2951d34cbc87dcd6c5415876d53b227",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI036",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI036/content",
+      "projected_value_sha256": "8afd40c5ea7164b0ef29618ba35553ed1094a8fc8645175e3e26e2056b0b367b",
+      "original_value_sha256": "8afd40c5ea7164b0ef29618ba35553ed1094a8fc8645175e3e26e2056b0b367b",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T12:37:17.991237+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "OWN_SUOU_E042_SIX_PROSPECTIVE_QUESTIONS_AND_PRIOR_QA_EXPOSURE_BEFORE_RECEIVING_V1.json",
+          "original_file_bytes": 2839,
+          "original_file_sha256": "77229c076f3a471be714d8f6449d98a1d741a10400368457eed04d771ba766de",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI037",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI037/content",
+      "projected_value_sha256": "fb5fc08097f5cb6fbc9fc291ecd0ad16acadc43d2302e0a1c7758d9c3fdf45c3",
+      "original_value_sha256": "fb5fc08097f5cb6fbc9fc291ecd0ad16acadc43d2302e0a1c7758d9c3fdf45c3",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T12:43:07.111686+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "OWN_SUOU_E042_WHOLE35_ACTUAL_COURSE_SIX_SOURCE_ANSWERS_AND_ATTRIBUTED_PRIOR_REUSE_V1.json",
+          "original_file_bytes": 4706,
+          "original_file_sha256": "a25f0bcaa1714f91a2dcc3a6f1518c6fbaa9a6298ed0568a257e82616ee1442b",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI038",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI038/content",
+      "projected_value_sha256": "f20ac6c82fdb9cd590cf9be949d8bf575ae0a5a68023341268e6437cdbbd50f6",
+      "original_value_sha256": "f20ac6c82fdb9cd590cf9be949d8bf575ae0a5a68023341268e6437cdbbd50f6",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T12:43:07.114663+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "OWN_SUOU_E042_SUP020_COMPLETE_SIX_FINITE_QA_REASONS_SEVEN_REFERENCES_AND_LIMITS_V1.json",
+          "original_file_bytes": 10183,
+          "original_file_sha256": "f722812faa97f10769c5f19f445b4c74d52508480adc0b594b24725642e8c6f5",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI039",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI039/content",
+      "projected_value_sha256": "213eb6c22b30bb6a44e246ab0a2c8d63a064486145fe1ed14a8bcdc6074ce554",
+      "original_value_sha256": "09b93d27a417c5ad17be0a378b507bdcf05488754530720c72b7fc020b236cac",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T12:44:02.302229+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "START_HERE_SUOU_E042_SUP020_DISTINCT_FINITE_QA_COMPLETE_FROZEN_WITH_LIMITS_V1.json",
+          "original_file_bytes": 5045,
+          "original_file_sha256": "dba6e42a1695b07f951a5393034e52d5e2559d4bda9d70f85473537d8782135f",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI040",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/records/SUI040/content",
+      "projected_value_sha256": "dcd383674052ad305e2820f3a94e498849e21734cc3700cd7f386a085ab5a44b",
+      "original_value_sha256": "6fd070168459cf61c1dfa40441ce45fef5c1e5666181723e7954c3e49a46ae02",
+      "original_actor": "/root",
+      "original_date": "2026-11-04T12:05:48.828156+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "ROOT_SUOU24_COMPLETE_ARGUMENT_AND_PEER_MEANING_RECEIVING_POSITIVE_E042_ORDINARY_WORK_MATERIAL_SUPPLEMENT_REQUIRED_V1.json",
+          "original_file_bytes": 8873,
+          "original_file_sha256": "3eb56de9bdea5445bd5cbaf0424ec52bcdbc7a7d496afd0de2781449c6862f33",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI041",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/records/SUI041/content",
+      "projected_value_sha256": "7a40a092626eb29812c831732d931cc3f1b25815a963c6e484a84f400903665f",
+      "original_value_sha256": "8178dada33b8e2ec35da05cfcdcf34c7fe60a61c7cff55bbc5eec122a53aa648",
+      "original_actor": "/root",
+      "original_date": "2026-11-04T12:53:15.517275+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "ROOT_ACTUAL_SUOU_CURRENT24_WITH_POSITIVE_E042_ORDINARY_WORK_FULL_MEANINGS_DISTINCT424_OWN99_PRIVATE_BODY_ADOPTION_WITH_LIMITS_V1.json",
+          "original_file_bytes": 9177,
+          "original_file_sha256": "f1186558a56dd4792467206c189eb092d4c34f2eaece7a4a07f51481eace6f90",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI042",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI042/content",
+      "projected_value_sha256": "37483c86e4344e757ec46e9419adbc9e460c4b613e151076f37611e9e361bde1",
+      "original_value_sha256": "37483c86e4344e757ec46e9419adbc9e460c4b613e151076f37611e9e361bde1",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "AUTHOR_READINESS_MANIFEST_EXACT.json",
+          "original_file_bytes": 11074,
+          "original_file_sha256": "02279189db2422daf249c32fa3c7e948bdbeb081f7d75ae891ed58430d188921",
+          "original_JSON_pointer": "/status",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI043",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI043/content",
+      "projected_value_sha256": "f2f7f558bf84a1427a78fad3bf56b19b08f2104571c1e4be384a1e0d4faf49f2",
+      "original_value_sha256": "f2f7f558bf84a1427a78fad3bf56b19b08f2104571c1e4be384a1e0d4faf49f2",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "AUTHOR_READINESS_MANIFEST_EXACT.json",
+          "original_file_bytes": 11074,
+          "original_file_sha256": "02279189db2422daf249c32fa3c7e948bdbeb081f7d75ae891ed58430d188921",
+          "original_JSON_pointer": "/scope",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI044",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI044/content",
+      "projected_value_sha256": "a88373e6b22392cca10fdc8559a688952baa37582a4312e23461b31a3633b5fe",
+      "original_value_sha256": "a88373e6b22392cca10fdc8559a688952baa37582a4312e23461b31a3633b5fe",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "AUTHOR_READINESS_MANIFEST_EXACT.json",
+          "original_file_bytes": 11074,
+          "original_file_sha256": "02279189db2422daf249c32fa3c7e948bdbeb081f7d75ae891ed58430d188921",
+          "original_JSON_pointer": "/mutation_policy",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI045",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI045/content",
+      "projected_value_sha256": "0aa4bb8e71d388685b3e9ffe116705dd98ada2af92b029074916508b6927c00e",
+      "original_value_sha256": "0aa4bb8e71d388685b3e9ffe116705dd98ada2af92b029074916508b6927c00e",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "AUTHOR_READINESS_MANIFEST_EXACT.json",
+          "original_file_bytes": 11074,
+          "original_file_sha256": "02279189db2422daf249c32fa3c7e948bdbeb081f7d75ae891ed58430d188921",
+          "original_JSON_pointer": "/credits",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI046",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI046/content",
+      "projected_value_sha256": "2a046cda8f692d212240ccdce1fcea137d5a8e19023221becf1b74679ab4f5f1",
+      "original_value_sha256": "2a046cda8f692d212240ccdce1fcea137d5a8e19023221becf1b74679ab4f5f1",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T05:02:05.094137+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "DISTINCT_READINESS_MANIFEST_EXACT.json",
+          "original_file_bytes": 8310,
+          "original_file_sha256": "a02adb8d2f040ef532c6f061bde1ebc951cb8c6c4b4c7a55ebf111cc4ab6304d",
+          "original_JSON_pointer": "/freeze",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI047",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI047/content",
+      "projected_value_sha256": "d4461d4deafd3818d92aea9ced0cc4332d23e56511e5897494342e57a68dbddb",
+      "original_value_sha256": "d4461d4deafd3818d92aea9ced0cc4332d23e56511e5897494342e57a68dbddb",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T05:02:05.094137+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "DISTINCT_READINESS_MANIFEST_EXACT.json",
+          "original_file_bytes": 8310,
+          "original_file_sha256": "a02adb8d2f040ef532c6f061bde1ebc951cb8c6c4b4c7a55ebf111cc4ab6304d",
+          "original_JSON_pointer": "/scope",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI048",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI048/content",
+      "projected_value_sha256": "5344069bd9f5dac843e7b08dacb54f35843bf7d36c7626303c205cd43620b642",
+      "original_value_sha256": "5344069bd9f5dac843e7b08dacb54f35843bf7d36c7626303c205cd43620b642",
+      "original_actor": null,
+      "original_date": "2026-11-04T06:40:39.963567+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_CONNECTED_BODY_FIRST_COMPLETE_FROZEN_EXTERNAL_ALLOWLIST_MANIFEST_V1.json",
+          "original_file_bytes": 11080,
+          "original_file_sha256": "f2e04eb296fbd7668d56bc04f28af30ea23cf39f426359efd6769c10544ff6b3",
+          "original_JSON_pointer": "/private_storage_limit",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI049",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI049/content",
+      "projected_value_sha256": "40298e42a99cd4c91faccf06adbf34609aaaf328788463791b054a78359dd87e",
+      "original_value_sha256": "40298e42a99cd4c91faccf06adbf34609aaaf328788463791b054a78359dd87e",
+      "original_actor": null,
+      "original_date": "2026-11-04T06:40:39.963567+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_CONNECTED_BODY_FIRST_COMPLETE_FROZEN_EXTERNAL_ALLOWLIST_MANIFEST_V1.json",
+          "original_file_bytes": 11080,
+          "original_file_sha256": "f2e04eb296fbd7668d56bc04f28af30ea23cf39f426359efd6769c10544ff6b3",
+          "original_JSON_pointer": "/graph_rule",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI050",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI050/content",
+      "projected_value_sha256": "d1a0d4f7933cfea8a3b7b5ba64f58022227ef7aa993137154454188cff38106d",
+      "original_value_sha256": "d1a0d4f7933cfea8a3b7b5ba64f58022227ef7aa993137154454188cff38106d",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_OWN_DOCUMENTARY_CURRENT_SOURCE556_AND_EXACT_METADATA_STAGE_CHECK_RESULTS_V1.json",
+          "original_file_bytes": 12034,
+          "original_file_sha256": "923c818d53d829b1402993cbe972365f2a450084b70c4ccac61cc8fd2c2bebe3",
+          "original_JSON_pointer": "/meaning_limit",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI051",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI051/content",
+      "projected_value_sha256": "2729dc7bc98ae88e71e8167c5c29c6aeafed54b1bd2d4f8efac38dc58671cf16",
+      "original_value_sha256": "2729dc7bc98ae88e71e8167c5c29c6aeafed54b1bd2d4f8efac38dc58671cf16",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_OWN_DOCUMENTARY_CURRENT_SOURCE556_AND_EXACT_METADATA_STAGE_CHECK_RESULTS_V1.json",
+          "original_file_bytes": 12034,
+          "original_file_sha256": "923c818d53d829b1402993cbe972365f2a450084b70c4ccac61cc8fd2c2bebe3",
+          "original_JSON_pointer": "/writes",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI052",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI052/content",
+      "projected_value_sha256": "4d24ac83711529e456c03cf878955d43e71f20c6739b08a1aac313ffaff7570b",
+      "original_value_sha256": "496ba5562f424282c4f28ca4a9c33161021e3a1b4aa3499ab84a1661553f1e07",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T13:07:14.600269+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "SUOU_CURRENT24_SIX_ROLE_PUBLIC_FORM_COMPLETE_REQUIREMENTS_PRESERVATION_AND_FIELD_SCOPE_PLAN_V1.json",
+          "original_file_bytes": 63301,
+          "original_file_sha256": "4876855e65867811cbaadab69a2a79d6d929d8eacebce4543ca0099ea78fc9d3",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI053",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI053/content",
+      "projected_value_sha256": "89bf3c89c450e977d1ca2a0a69eb1b7c78a356bfd960d82569535588eebc7bcb",
+      "original_value_sha256": "89bf3c89c450e977d1ca2a0a69eb1b7c78a356bfd960d82569535588eebc7bcb",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T12:54:23.515413+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "OWN_SUOU_SIX_ROLE_PUBLIC_PLAN_SIX_PROSPECTIVE_QUESTIONS_AND_COMPOSER_ROLE_EXPOSURE_V1.json",
+          "original_file_bytes": 2630,
+          "original_file_sha256": "e957a54acb896926694311b91d434b97d2f2da5a3ffeaeaeefa26062af6def90",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI054",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI054/content",
+      "projected_value_sha256": "ed3e8dec3f4cad55e659bf209e02ae07bd358b4b7e3a0b34920f07f7c7d2bbd3",
+      "original_value_sha256": "0ba39fefeb572abb49b357d328e40d73a8ec93a90e2b9fd4cdd793b6bf14bac7",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T13:10:38.373221+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "START_HERE_SUOU_CURRENT24_SIX_ROLE_PUBLIC_FORM_PLAN_COMPLETE_FROZEN_NO_AFTERIMAGES_V1.json",
+          "original_file_bytes": 4919,
+          "original_file_sha256": "a50131ef1b8dee19fbc7addf9ae33fb12051fb60d414b5b1bf0b7d3f91652a64",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI055",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI055/content",
+      "projected_value_sha256": "094a6b3d450d2be304a502aea2047149507da239677c4f700a68c15eb5ced927",
+      "original_value_sha256": "8e1cbf60b881071c95d921024b06a1b1bd7c758f3e0afb939159171e2021f807",
+      "original_actor": "/root/recover_yuzu_saved_review",
+      "original_date": "2026-11-04",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "OWN_SIX_SUOU_PUBLIC_PLAN_FIELD_BOUNDARY_REASONS_ACTOR_DATE_FINDINGS_AND_LIMITS_V1.json",
+          "original_file_bytes": 10722,
+          "original_file_sha256": "f1fdb03334d4edf2bc29609266aa7258d5af145e3b5e645e5034118715bad8b1",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI056",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI056/content",
+      "projected_value_sha256": "dbb3ceb75cdecce438179e77eb1738abd27bc105aa129e33837f11e2c3a808b8",
+      "original_value_sha256": "e0b0e9db26cab599d488530a23762cba707a5d350b293c6b26c1f3d8013bb4c5",
+      "original_actor": "/root/recover_yuzu_saved_review",
+      "original_date": "2026-11-04",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "START_HERE_SUOU_PUBLIC_PLAN_DISTINCT_FINITE_CHALLENGE_COMPLETE_FROZEN_WITH_LIMITS_V1.json",
+          "original_file_bytes": 6598,
+          "original_file_sha256": "d08c64c1361310ab6b31f9ec3592fb7c4161546ad28bd1cd7403de5dfd484327",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI057",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/records/SUI057/content",
+      "projected_value_sha256": "99b029aecdc74af447de80b09847bbaea40ed1c43df9cb9eabdf3f11db9765a8",
+      "original_value_sha256": "99b029aecdc74af447de80b09847bbaea40ed1c43df9cb9eabdf3f11db9765a8",
+      "original_actor": "/root",
+      "original_date": "2026-11-04T13:44:29.706Z",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "ROOT_ACTUAL_SUOU_COMPLETE_PLAN_PEER10722_OWN133_WITNESS_FIELD_AND_SIX_ROLE_SCOPE_ACCEPTANCE_WITH_PREWRITE_CONDITIONS_V1.json",
+          "original_file_bytes": 7072,
+          "original_file_sha256": "f30b52c09cff3847ec5776379738504256fc9e75c65fd00c6a7a37c7fa4a4b67",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI058",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI058/content",
+      "projected_value_sha256": "e0e20707dea9b47f03533e81fe5b94de0302e9b1a012f1fa425bf790bc46ab41",
+      "original_value_sha256": "e0e20707dea9b47f03533e81fe5b94de0302e9b1a012f1fa425bf790bc46ab41",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T13:45:43.830618+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "OWN_SUOU_PUBLIC_COMPOSER_SIX_NEW_QUESTIONS_ROLE_EXPOSURE_AND_COMPLETE_MEANING_GATE_V1.json",
+          "original_file_bytes": 2360,
+          "original_file_sha256": "f19596690460b58424cc6460d1ce76616f52d58ad564f5c7267fbc4f20fbe309",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI059",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI059/content",
+      "projected_value_sha256": "a2866833aa57145eabe2550184f4d1ee8f1a9be66c3902c73f47f8f525bbbff5",
+      "original_value_sha256": "a2866833aa57145eabe2550184f4d1ee8f1a9be66c3902c73f47f8f525bbbff5",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T14:00:53.222199+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "OWN_SUOU_PUBLIC_COMPOSER_COMPLETE_SIX_PREWRITE_REASONS_AND_ACTUAL_ROLE_LIMITS_V1.json",
+          "original_file_bytes": 4542,
+          "original_file_sha256": "30be30b533d6b9d4525c5f2f4222477e210b5c6a10ed0013c323b4d364eb3a36",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI060",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI060/content",
+      "projected_value_sha256": "6590ea2358adfe03c8547333f2a5f46e5f0d7b881e4650d0e3c12b0d7a46b268",
+      "original_value_sha256": "9c98e909e0a39b3a38d05a12020d959457316eb03f2c04135d01a33050eb908a",
+      "original_actor": "/root/recover_yuzu_saved_review",
+      "original_date": null,
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "OWN_COMPACT_SUOU_PUBLIC_PLAN_TYPED_FIELD_BOUNDARY_PROOF_AND_EXACT_INPUT_PINS_V1.json",
+          "original_file_bytes": 4243,
+          "original_file_sha256": "b74c5b9e59041d5b3d86bc112ceebdb4ea7cee9cca8e2fa9a00e72c12a6fda79",
+          "original_JSON_pointer": "",
+          "role": "Dated exact original/copy occurrence; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "Exact original values/locators/source witness and graph restored privately; public projection does not promise raw-source/helper/private-proof payload."
+    },
+    {
+      "record_id": "SUI061",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/records/SUI061/content",
+      "projected_value_sha256": "d3a2cbea6e9c39a243593167cbfe3683f9fce6aaf56901a3931cff7482eceb21",
+      "original_value_sha256": "d3a2cbea6e9c39a243593167cbfe3683f9fce6aaf56901a3931cff7482eceb21",
+      "original_actor": "/root/current_preflight_requirements",
+      "original_date": "2026-11-04T14:37:46.372265+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "OWN_SUOU_PUBLIC_ACTUAL_MEANING_READBACK_SIX_ANSWERS_CLASS_AND_COMPOSER_CLOSEOUT_V1.json",
+          "original_file_bytes": 12643,
+          "original_file_sha256": "022e43a078b8c25e10c8634cdf0d112015ab63e0396d8f43faab3c45abb948c8",
+          "original_JSON_pointer": "",
+          "role": "Exact original own composer closeout; not a published filename"
+        }
+      ],
+      "private_inverse_scope": "No intellectual projection; complete own closeout equals original typed content. Local source location remains private."
+    },
+    {
+      "record_id": "SUI062",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI062/content",
+      "projected_value_sha256": "43c57a9afe827549326afbee69160b7dbb67e55b599e83206095f22989b1f5b1",
+      "original_value_sha256": "43c57a9afe827549326afbee69160b7dbb67e55b599e83206095f22989b1f5b1",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": "2026-11-04T14:54:24.013782+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "OWN6_PROSPECTIVE_PUBLIC_FORM_QUESTIONS_PRIOR_PRIVATE_AUTHOR_ROLE_BEFORE_RECEIVING_V1.json",
+          "original_file_bytes": 2917,
+          "original_file_sha256": "a725e4ed4be291f4980dd5c2c71e75a54ee9862c9d02d245607402fbecfa7b06",
+          "original_JSON_pointer": "",
+          "role": "Exact new publicQA/Root/metadata-composer record, not an originally published filename"
+        }
+      ],
+      "private_inverse_scope": "Full original typed value restored by exact pure custodyfield inverses; original raw document remains frozen/private, not a public rawinput transport."
+    },
+    {
+      "record_id": "SUI063",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI063/content",
+      "projected_value_sha256": "a3640d1d909cf7b4afd982bcaa814f6d3fc58c549361fde44caee155e3ad12eb",
+      "original_value_sha256": "a3640d1d909cf7b4afd982bcaa814f6d3fc58c549361fde44caee155e3ad12eb",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": "2026-11-04T15:07:49.765194+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "OWN_FULL_SIX_PUBLIC_FORM_ANSWERS_RETENTION_ACTOR_DATE_SOURCE_CLASS_CURRENTNESS_AND_LIMITS_V1.json",
+          "original_file_bytes": 18916,
+          "original_file_sha256": "f82c3e78d259cf36e3774d1d9029e0afa2da3e5b676de492da9fde3d864e4503",
+          "original_JSON_pointer": "",
+          "role": "Exact new publicQA/Root/metadata-composer record, not an originally published filename"
+        }
+      ],
+      "private_inverse_scope": "Full original typed value restored by exact pure custodyfield inverses; original raw document remains frozen/private, not a public rawinput transport."
+    },
+    {
+      "record_id": "SUI064",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI064/content",
+      "projected_value_sha256": "c678125ca0fe6b0453d2bbfe1809cae9063b73572849e8bfb8ce5546a98d508f",
+      "original_value_sha256": "c678125ca0fe6b0453d2bbfe1809cae9063b73572849e8bfb8ce5546a98d508f",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": "2026-11-04T15:10:57.894274+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "OWN_COMPLETE_SAVED_MEANING_READBACK_AND_FIVE_REASONED_PUBLIC_QA_CLOSEOUT_V1.json",
+          "original_file_bytes": 4041,
+          "original_file_sha256": "8f6e37dc89090bac867bf9a620d95b3a1e8d3aba654ad04db69b0abb4fd5a815",
+          "original_JSON_pointer": "",
+          "role": "Exact new publicQA/Root/metadata-composer record, not an originally published filename"
+        }
+      ],
+      "private_inverse_scope": "Full original typed value restored by exact pure custodyfield inverses; original raw document remains frozen/private, not a public rawinput transport."
+    },
+    {
+      "record_id": "SUI065",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/records/SUI065/content",
+      "projected_value_sha256": "ef32ba13b608fed24f16d9a0f269a6d877730737a602d4a12a7c21ef22f8e979",
+      "original_value_sha256": "ef32ba13b608fed24f16d9a0f269a6d877730737a602d4a12a7c21ef22f8e979",
+      "original_actor": "/root/sumire_v2_finite_qa",
+      "original_date": "2026-11-04T15:11:48.242826+00:00",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "START_HERE_INDEPENDENT_SUOU_CURRENT24_PUBLIC6_COMPLETE_FORM_QA_FINAL_FROZEN_WITH_LIMITS_V1.json",
+          "original_file_bytes": 6116,
+          "original_file_sha256": "6c0e54f1e18a7c31dba2281657ef0055e86521747fcc3ba044e25bc370d3372c",
+          "original_JSON_pointer": "",
+          "role": "Exact new publicQA/Root/metadata-composer record, not an originally published filename"
+        }
+      ],
+      "private_inverse_scope": "Full original typed value restored by exact pure custodyfield inverses; original raw document remains frozen/private, not a public rawinput transport."
+    },
+    {
+      "record_id": "SUI066",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/records/SUI066/content",
+      "projected_value_sha256": "ec19461e901308eefb90d0f6aaaef14e07b7e747acd123f0022488271cf32874",
+      "original_value_sha256": "ec19461e901308eefb90d0f6aaaef14e07b7e747acd123f0022488271cf32874",
+      "original_actor": "/root",
+      "original_date": "2026-11-04T14:56:35.035Z",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "ROOT_SIX_PROSPECTIVE_CURRENT_PUBLIC_WRAPPER_AND_FULL_MEANING_REUSE_QUESTIONS_AFTER_TERMINAL_COMPOSER_BEFORE_SIX_CONTENT_V1.json",
+          "original_file_bytes": 1500,
+          "original_file_sha256": "918c694c72d18fc6e2416505bfbcd8505bf4677bba39afe04365a64c149b6429",
+          "original_JSON_pointer": "",
+          "role": "Exact new publicQA/Root/metadata-composer record, not an originally published filename"
+        }
+      ],
+      "private_inverse_scope": "Full original typed value restored by exact pure custodyfield inverses; original raw document remains frozen/private, not a public rawinput transport."
+    },
+    {
+      "record_id": "SUI067",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/records/SUI067/content",
+      "projected_value_sha256": "aafcac04ad8abb3073bc7c5a2f9c319ec459e5ec751485342708c674c2eadbb9",
+      "original_value_sha256": "4746b6762a2cb94fa9a3d2bed6af313f9b36977edf3fc49362b683d390b83fd9",
+      "original_actor": "/root",
+      "original_date": "2026-11-04T15:07:56.294Z",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "ROOT_ACTUAL_SUOU_PUBLIC6_NEW_WRAPPERS_FULL48_HISTORY_FULL_COMPOSER_AND_OWN1199_RECEIVING_REASONS_PENDING_DISTINCT_QA_V1.json",
+          "original_file_bytes": 5803,
+          "original_file_sha256": "533438bef8cb79d924d64e4f6b553ffe533e07bef010fa5ee0f9e6fa613d1542",
+          "original_JSON_pointer": "",
+          "role": "Exact new publicQA/Root/metadata-composer record, not an originally published filename"
+        }
+      ],
+      "private_inverse_scope": "Full original typed value restored by exact pure custodyfield inverses; original raw document remains frozen/private, not a public rawinput transport."
+    },
+    {
+      "record_id": "SUI068",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/records/SUI068/content",
+      "projected_value_sha256": "f986770fec2d1797291de5d5935a6d6cc3c5ff44b04be08c4677b74b11890cce",
+      "original_value_sha256": "1866882914f58ea844590f3d6fbad52fc968a627a8c5f2fd2f5a4c7c45d16199",
+      "original_actor": "/root",
+      "original_date": "2026-11-04T15:14:54.195Z",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "ROOT_ACTUAL_SUOU_EXACT_PUBLIC6_COMPLETE18916_DIFFERENT_QA_AND_OWN1199_SEMANTIC_ADOPTION_WITH_METADATA_DERIVATIVE_SCOPE_V2.json",
+          "original_file_bytes": 12893,
+          "original_file_sha256": "55eb78e333a9496a393764a0da75a39c7baed165f5631d6a43c36ca9db8f2fdd",
+          "original_JSON_pointer": "",
+          "role": "Exact new publicQA/Root/metadata-composer record, not an originally published filename"
+        }
+      ],
+      "private_inverse_scope": "Full original typed value restored by exact pure custodyfield inverses; original raw document remains frozen/private, not a public rawinput transport."
+    },
+    {
+      "record_id": "SUI069",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/records/SUI069/content",
+      "projected_value_sha256": "7a68272e1fcce0f77b842294e348276dc8e7083b12826a2c3c08a180ac8a73fd",
+      "original_value_sha256": "7a68272e1fcce0f77b842294e348276dc8e7083b12826a2c3c08a180ac8a73fd",
+      "original_actor": "/root/recover_yuzu_saved_review",
+      "original_date": "2026-11-04",
+      "occurrences": [
+        {
+          "occurrence_index": 0,
+          "original_filename": "OWN_SUOU_METADATA_COMPLETE_SIX_ANSWERS_CLASS_ACTOR_AND_FINITE_CLOSEOUT_MEANINGS_V1.json",
+          "original_file_bytes": 9005,
+          "original_file_sha256": "3bada1ad299cb1b4c80ba79891dca894d3547159d17618ca8aa34eed7c8e552f",
+          "original_JSON_pointer": "",
+          "role": "Exact new publicQA/Root/metadata-composer record, not an originally published filename"
+        }
+      ],
+      "private_inverse_scope": "Full original typed value restored by exact pure custodyfield inverses; original raw document remains frozen/private, not a public rawinput transport."
+    }
+  ],
+  "original52_root_count": 52,
+  "original60_occurrence_roles": 60,
+  "actual_record_count": 70,
+  "current_body_geometry_owner": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUOU_CHARACTER_RECEIVING_20261104_V1/SUOU_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+    "JSON_pointer": "/current_body_geometry"
+  },
+  "source_witness_locator_crosswalk": [
+    {
+      "record_id": "SUI008",
+      "original_pointer": "/selected19_complete_locus_records/0/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected19_complete_locus_records/0/source_witness_fingerprint",
+      "original_typed_string_sha256": "d1f9b17bacbb3f93224fe4b95080cc6f65d34292b3b4c1f72cd9a25640682756",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI008",
+      "original_pointer": "/selected19_complete_locus_records/1/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected19_complete_locus_records/1/source_witness_fingerprint",
+      "original_typed_string_sha256": "69397756ab927e8b8c628498a2ccae9eeb46db69adae42aeb3654491beef10d1",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI008",
+      "original_pointer": "/selected19_complete_locus_records/2/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected19_complete_locus_records/2/source_witness_fingerprint",
+      "original_typed_string_sha256": "c675aef05eba02ea741266ed3db3fa58c9f4c953f165bbac914a4f612b5c4d2c",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI008",
+      "original_pointer": "/selected19_complete_locus_records/3/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected19_complete_locus_records/3/source_witness_fingerprint",
+      "original_typed_string_sha256": "21ead907539cf3df941723b5f81c58d225e0fda3dc1d78353ef2e306baab5734",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI008",
+      "original_pointer": "/selected19_complete_locus_records/4/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected19_complete_locus_records/4/source_witness_fingerprint",
+      "original_typed_string_sha256": "93d14108f6e8bc62eb39de4f4ff58addff3575d9584ab0bb0dff57d63f36f61f",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI008",
+      "original_pointer": "/selected19_complete_locus_records/5/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected19_complete_locus_records/5/source_witness_fingerprint",
+      "original_typed_string_sha256": "2336460068affdc45bc8e19ebd7524b5c5878d1256a36aeef8ebd22cac0d2d95",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI008",
+      "original_pointer": "/selected19_complete_locus_records/6/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected19_complete_locus_records/6/source_witness_fingerprint",
+      "original_typed_string_sha256": "f9cf5a84643c3bc143e21778448941d42a4e5f515c48f321f32cf27f95e9e2a4",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI008",
+      "original_pointer": "/selected19_complete_locus_records/7/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected19_complete_locus_records/7/source_witness_fingerprint",
+      "original_typed_string_sha256": "c2d9621d960e5d69475fa9ffdb5811525f58208efba951fa8d49f4fe232a35af",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI008",
+      "original_pointer": "/selected19_complete_locus_records/8/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected19_complete_locus_records/8/source_witness_fingerprint",
+      "original_typed_string_sha256": "ee766e01b6fad6cb515e28b2e298037c230157144febcd27e7dd92c02c7bd282",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI008",
+      "original_pointer": "/selected19_complete_locus_records/9/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected19_complete_locus_records/9/source_witness_fingerprint",
+      "original_typed_string_sha256": "ea171305467bad0b6390d029117c15a27084c0a0e630074cf057ea7e86ee70e6",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI008",
+      "original_pointer": "/selected19_complete_locus_records/10/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected19_complete_locus_records/10/source_witness_fingerprint",
+      "original_typed_string_sha256": "f8b61650ef104caef79e8108685898821594bde95ce4cfe1ebac061220e66c93",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI008",
+      "original_pointer": "/selected19_complete_locus_records/11/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected19_complete_locus_records/11/source_witness_fingerprint",
+      "original_typed_string_sha256": "e035f4a48f000b1498af7642a9017b1ef4bb94e430d660f7cd4b76b907ed7a12",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI008",
+      "original_pointer": "/selected19_complete_locus_records/12/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected19_complete_locus_records/12/source_witness_fingerprint",
+      "original_typed_string_sha256": "acf8d8e31e78439f12569f1049e4ce925c46e3afea33d35c4f40d9af33910e62",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI008",
+      "original_pointer": "/selected19_complete_locus_records/13/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected19_complete_locus_records/13/source_witness_fingerprint",
+      "original_typed_string_sha256": "f90f4ef29a5a0808f2dc71bbe56f5245bcbabe01ceae86620ba58943d5a7a901",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI008",
+      "original_pointer": "/selected19_complete_locus_records/14/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected19_complete_locus_records/14/source_witness_fingerprint",
+      "original_typed_string_sha256": "4a74c594bf5adbfffeb045b2ddc9cb72eb573e17b5843cc406baa80e27b2817e",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI008",
+      "original_pointer": "/selected19_complete_locus_records/15/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected19_complete_locus_records/15/source_witness_fingerprint",
+      "original_typed_string_sha256": "b47893f58b586858a8209b8b904af6e7b1eba06b7600a31095ab86d48a92294d",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI008",
+      "original_pointer": "/selected19_complete_locus_records/16/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected19_complete_locus_records/16/source_witness_fingerprint",
+      "original_typed_string_sha256": "f989e03adae33e8b0e6d8a2e8fe36795be20f04efdd5b31d0be4ec37152b0be5",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI008",
+      "original_pointer": "/selected19_complete_locus_records/17/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected19_complete_locus_records/17/source_witness_fingerprint",
+      "original_typed_string_sha256": "471a4828790840ba5df902796326b9223f8f892470046e3856c9f1f0da206bdd",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI008",
+      "original_pointer": "/selected19_complete_locus_records/18/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected19_complete_locus_records/18/source_witness_fingerprint",
+      "original_typed_string_sha256": "83cce74826c3177e8d53eac1357336ca72416f14350100e4f406cf86ae7380cf",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI013",
+      "original_pointer": "/selected31_additional_complete_records/0/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected31_additional_complete_records/0/source_witness_fingerprint",
+      "original_typed_string_sha256": "d1f9b17bacbb3f93224fe4b95080cc6f65d34292b3b4c1f72cd9a25640682756",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI013",
+      "original_pointer": "/selected31_additional_complete_records/1/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected31_additional_complete_records/1/source_witness_fingerprint",
+      "original_typed_string_sha256": "69397756ab927e8b8c628498a2ccae9eeb46db69adae42aeb3654491beef10d1",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI013",
+      "original_pointer": "/selected31_additional_complete_records/2/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected31_additional_complete_records/2/source_witness_fingerprint",
+      "original_typed_string_sha256": "c675aef05eba02ea741266ed3db3fa58c9f4c953f165bbac914a4f612b5c4d2c",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI013",
+      "original_pointer": "/selected31_additional_complete_records/3/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected31_additional_complete_records/3/source_witness_fingerprint",
+      "original_typed_string_sha256": "21ead907539cf3df941723b5f81c58d225e0fda3dc1d78353ef2e306baab5734",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI013",
+      "original_pointer": "/selected31_additional_complete_records/4/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected31_additional_complete_records/4/source_witness_fingerprint",
+      "original_typed_string_sha256": "93d14108f6e8bc62eb39de4f4ff58addff3575d9584ab0bb0dff57d63f36f61f",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI013",
+      "original_pointer": "/selected31_additional_complete_records/5/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected31_additional_complete_records/5/source_witness_fingerprint",
+      "original_typed_string_sha256": "2336460068affdc45bc8e19ebd7524b5c5878d1256a36aeef8ebd22cac0d2d95",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI013",
+      "original_pointer": "/selected31_additional_complete_records/6/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected31_additional_complete_records/6/source_witness_fingerprint",
+      "original_typed_string_sha256": "f9cf5a84643c3bc143e21778448941d42a4e5f515c48f321f32cf27f95e9e2a4",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI013",
+      "original_pointer": "/selected31_additional_complete_records/7/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected31_additional_complete_records/7/source_witness_fingerprint",
+      "original_typed_string_sha256": "c2d9621d960e5d69475fa9ffdb5811525f58208efba951fa8d49f4fe232a35af",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI013",
+      "original_pointer": "/selected31_additional_complete_records/8/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected31_additional_complete_records/8/source_witness_fingerprint",
+      "original_typed_string_sha256": "ee766e01b6fad6cb515e28b2e298037c230157144febcd27e7dd92c02c7bd282",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI013",
+      "original_pointer": "/selected31_additional_complete_records/9/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected31_additional_complete_records/9/source_witness_fingerprint",
+      "original_typed_string_sha256": "ea171305467bad0b6390d029117c15a27084c0a0e630074cf057ea7e86ee70e6",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI013",
+      "original_pointer": "/selected31_additional_complete_records/10/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected31_additional_complete_records/10/source_witness_fingerprint",
+      "original_typed_string_sha256": "f8b61650ef104caef79e8108685898821594bde95ce4cfe1ebac061220e66c93",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI013",
+      "original_pointer": "/selected31_additional_complete_records/11/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected31_additional_complete_records/11/source_witness_fingerprint",
+      "original_typed_string_sha256": "e035f4a48f000b1498af7642a9017b1ef4bb94e430d660f7cd4b76b907ed7a12",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI013",
+      "original_pointer": "/selected31_additional_complete_records/12/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected31_additional_complete_records/12/source_witness_fingerprint",
+      "original_typed_string_sha256": "acf8d8e31e78439f12569f1049e4ce925c46e3afea33d35c4f40d9af33910e62",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI013",
+      "original_pointer": "/selected31_additional_complete_records/13/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected31_additional_complete_records/13/source_witness_fingerprint",
+      "original_typed_string_sha256": "f90f4ef29a5a0808f2dc71bbe56f5245bcbabe01ceae86620ba58943d5a7a901",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI013",
+      "original_pointer": "/selected31_additional_complete_records/14/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected31_additional_complete_records/14/source_witness_fingerprint",
+      "original_typed_string_sha256": "4a74c594bf5adbfffeb045b2ddc9cb72eb573e17b5843cc406baa80e27b2817e",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI013",
+      "original_pointer": "/selected31_additional_complete_records/15/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected31_additional_complete_records/15/source_witness_fingerprint",
+      "original_typed_string_sha256": "b47893f58b586858a8209b8b904af6e7b1eba06b7600a31095ab86d48a92294d",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI013",
+      "original_pointer": "/selected31_additional_complete_records/16/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected31_additional_complete_records/16/source_witness_fingerprint",
+      "original_typed_string_sha256": "f989e03adae33e8b0e6d8a2e8fe36795be20f04efdd5b31d0be4ec37152b0be5",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI013",
+      "original_pointer": "/selected31_additional_complete_records/17/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected31_additional_complete_records/17/source_witness_fingerprint",
+      "original_typed_string_sha256": "471a4828790840ba5df902796326b9223f8f892470046e3856c9f1f0da206bdd",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    },
+    {
+      "record_id": "SUI013",
+      "original_pointer": "/selected31_additional_complete_records/18/complete_matched_maintained_line",
+      "current_fingerprint_pointer": "/selected31_additional_complete_records/18/source_witness_fingerprint",
+      "original_typed_string_sha256": "83cce74826c3177e8d53eac1357336ca72416f14350100e4f406cf86ae7380cf",
+      "scope": "Carrier source text private; owner path/physical line remain directly readable."
+    }
+  ],
+  "current_graph_rule": "Only explicit top-level component_refs are current typed file dependencies. Every preserved original component_refs/graph/count/pending value is dated DATA. Registry has no self raw tuple; raw private transport and sanitized public proof have distinct scope.",
+  "metadata_derivative_dated_private_witnesses": [
+    {
+      "locator_id": "SUOU-DATED-WITNESS-233D2900E7B10C4C",
+      "filename": "ROOT_OWN_ACTUAL6_COMPLETE61_PLUS_COMPOSER_TYPED_INVERSES_48_HISTORY_AND_BODY_SOURCE_GRAPH_FIDELITY_V2.json",
+      "role": "Private documentary fidelity witness, not an analytical public input",
+      "original_recorded_bytes": 155853,
+      "original_recorded_sha256": "7ab39f8253c164cd6a4b05e4dec948d5a33327045b46f14e355fb1ec772d65f4",
+      "current_runtime_dependency": false,
+      "scope": "Dated custody only; exact private absolute locator retained in private prewrite inverse, never fabricated as published file."
+    },
+    {
+      "locator_id": "SUOU-DATED-WITNESS-A973984B5DCF07C3",
+      "filename": "BLUE_ARCHIVE_SUOU_CHARACTER_MONOGRAPH.md",
+      "role": "Prior accepted public component BODY",
+      "original_recorded_bytes": 16850,
+      "original_recorded_sha256": "fc289abe66dfac9839018c6847c3f4dca0516a8a6d9731a2b2b29999eca18c69",
+      "current_runtime_dependency": false,
+      "scope": "Dated custody only; exact private absolute locator retained in private prewrite inverse, never fabricated as published file."
+    },
+    {
+      "locator_id": "SUOU-DATED-WITNESS-4E9BA5CB621671F8",
+      "filename": "SUOU_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "role": "Prior accepted public component SOURCE_EVIDENCE_MODES",
+      "original_recorded_bytes": 202946,
+      "original_recorded_sha256": "fac0d7e291df48734467d32b874edcab9c036fc4c1a24261bf2682fd923af95b",
+      "current_runtime_dependency": false,
+      "scope": "Dated custody only; exact private absolute locator retained in private prewrite inverse, never fabricated as published file."
+    },
+    {
+      "locator_id": "SUOU-DATED-WITNESS-E395D84BD72BACD9",
+      "filename": "SUOU_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "role": "Prior accepted public component AUTHOR_READINESS",
+      "original_recorded_bytes": 307875,
+      "original_recorded_sha256": "c8f59a8ce658e6514abda3fda910eec35d724715d249a6c0afdd931d13b09fb9",
+      "current_runtime_dependency": false,
+      "scope": "Dated custody only; exact private absolute locator retained in private prewrite inverse, never fabricated as published file."
+    },
+    {
+      "locator_id": "SUOU-DATED-WITNESS-A6D5AB2E21E13214",
+      "filename": "SUOU_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "role": "Prior accepted public component INDEPENDENT_REVIEWS",
+      "original_recorded_bytes": 204257,
+      "original_recorded_sha256": "75f15067e944c0eb6a2eea987fe08e5ee05cbf320d057969c26f6b1c8ef8c2e6",
+      "current_runtime_dependency": false,
+      "scope": "Dated custody only; exact private absolute locator retained in private prewrite inverse, never fabricated as published file."
+    },
+    {
+      "locator_id": "SUOU-DATED-WITNESS-EA16FCDB5E4A606D",
+      "filename": "SUOU_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "role": "Prior accepted public component ROOT_CURRENT_PROVENANCE",
+      "original_recorded_bytes": 54597,
+      "original_recorded_sha256": "abb51bec9c94a5f6179270af3398e97830ded2c9b179547fc74000f50f377c69",
+      "current_runtime_dependency": false,
+      "scope": "Dated custody only; exact private absolute locator retained in private prewrite inverse, never fabricated as published file."
+    },
+    {
+      "locator_id": "SUOU-DATED-WITNESS-BCDAAD900BEC6436",
+      "filename": "SUOU_PUBLIC_COMPONENT_AND_DATED_LOCATOR_REGISTRY_V1.json",
+      "role": "Prior accepted public component REGISTRY",
+      "original_recorded_bytes": 100035,
+      "original_recorded_sha256": "c822cb652eaf68d7816c1a38b0b894580ef02760f245347d1045286be7e41d40",
+      "current_runtime_dependency": false,
+      "scope": "Dated custody only; exact private absolute locator retained in private prewrite inverse, never fabricated as published file."
+    }
+  ],
+  "metadata_derivative_record_rule": "New SUI062–SUI069 preserve complete peer/Root/own meanings. Pure custody fields alone normalize. Existing62 records/48 history remain literal; safe basenames/nested tuples are dated identities and not live public dependencies."
+}

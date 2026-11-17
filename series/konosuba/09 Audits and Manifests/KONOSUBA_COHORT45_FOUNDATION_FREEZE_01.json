@@ -1,0 +1,154 @@
+{
+  "schema": "konosuba.cohort45.source-safe-foundation-freeze.v1",
+  "private_complete_freeze_sha256": "a90e08631f114cdd939fe2999ffffa6ab18afd5bf1c9235c0f0b78acd9bedefb",
+  "frozen_utc": "2026-10-25T06:42:39.061908+00:00",
+  "foundation_pins": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_SHUMEL_CHARACTER_MONOGRAPH.md",
+      "bytes": 12716,
+      "sha256": "8dc54bc0d2d1a2b276d133a9c09cc8de9b64734c5ea758217261a51fab0984cf",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_VICE_CHARACTER_MONOGRAPH.md",
+      "bytes": 10325,
+      "sha256": "07d3e9df84065ff9b942d0acb0e9f7e1705d8d8339ce1427c02420a37b3e31dd",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LILAC_LALATINA_CHARACTER_MONOGRAPH.md",
+      "bytes": 9294,
+      "sha256": "a1561c41dd4cae21b979a968bd36bc8f565ffc378ff72e209d25d454e8e86d19",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TIA_CHARACTER_MONOGRAPH.md",
+      "bytes": 8894,
+      "sha256": "1f7e47055bcc26780024fe4acf3d75065f569b7a56bf97b0ec0c3b220d869020",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LILIANTINE_CHARACTER_MONOGRAPH.md",
+      "bytes": 10540,
+      "sha256": "063e68e68878f6316c9ccad7b850de9ec73ea04a7c6e27c6f7f5fad6a2180ebc",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MELVIREI_CHARACTER_MONOGRAPH.md",
+      "bytes": 10644,
+      "sha256": "d75f585cdfc95999a3f3eff1ccc7dbdda81157c3c097fc46e6ea91043203d98f",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LAST_LIFE_SUCCUBUS_OWNER_CHARACTER_MONOGRAPH.md",
+      "bytes": 10159,
+      "sha256": "1262c67dadada1a4407c9f40a751882fff9496308e4238ee631c4126a3e911f3",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CRANK_CHARACTER_MONOGRAPH.md",
+      "bytes": 8945,
+      "sha256": "45e2442f7020450e0e90a440d7ddb3576053cd56a73246e2b3af48373435c49f",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI03_SUCCUBUS_MESSENGER_CHARACTER_STUDY.md",
+      "bytes": 10358,
+      "sha256": "d1704a28e843b2cd69914b550549960cb59fa00ab98f8f340a526861857fe0d1",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_KNEE_INJURED_VETERAN_CHARACTER_MONOGRAPH.md",
+      "bytes": 12577,
+      "sha256": "347640b9a460a335f7ff754edbc5f38474a4106ba04f18166b78ef455d0c1cc4",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_SHUMEL_RECONSTRUCTION_MODEL.md",
+      "bytes": 8025,
+      "sha256": "96536f42abf075059eab4cfcc7eedaaedff0f8f1f346729ee5c7a76e06ab055f",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/SHUMEL_EXPANDED_V1_EVIDENCE/SHUMEL_RULE_INVENTORY_01.json",
+      "bytes": 5049,
+      "sha256": "c78dac5b3e5b0273f67c4dbaa57c843b438514bf11243dba692a4f92cd6c63a8",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KNEE_INJURED_VETERAN_RECONSTRUCTION_MODEL.md",
+      "bytes": 11534,
+      "sha256": "5a9dc199c4fc3d000e957c10309efe94bc4857559ce1775dfeb8493af62776a6",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KNEE_VETERAN_EXPANDED_V1_EVIDENCE/KNEE_VETERAN_RULE_INVENTORY_01.json",
+      "bytes": 8600,
+      "sha256": "fb60994c618e42f2f33ad0798577541b4095f7b0b2579851c1e75b3f362da6e5",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md#cohort-45--bounded-yorimichi-3-actors-and-source-roles",
+      "bytes": 19613,
+      "sha256": "b88508f3600492f1328c479cd327d32247b97220be46731537940a6cf03f4f9d",
+      "append_fragment_not_full_file": true
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md",
+      "bytes": 17270,
+      "sha256": "ace11f1d71107f07fd1aa2b8b243351ca6ac5bfca285ab16f3242862bf233efa",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI03_IDENTITY_AND_SUPPORTING_CAST_COHORT45_SUPPLEMENT.md",
+      "bytes": 11058,
+      "sha256": "c93bda082192ef65891bd6655f0c9e1b341805f55aa7f35538525a15e632411c",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_NEW_DISCOVERY_RECORDS.json",
+      "bytes": 52651,
+      "sha256": "00eef0e7502e741c7699698069f078e6acb4f3c597afd872c742252b069eae53",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_NATIVE_PROVENANCE.json",
+      "bytes": 7913,
+      "sha256": "1030a99ab5c62078a697f544778c7cb145554cb5a877d9123963b2c877037090",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_IDENTITY_AND_SCOPE_ASSESSMENT.json",
+      "bytes": 8072,
+      "sha256": "dfa13d009d23f0e168bdbcede162a5ffdf1abbfba2e073b59bce55c43c4b6d10",
+      "append_fragment_not_full_file": false
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 7295,
+      "sha256": "8c19f0b33334c5a2ce62f081c795314c9925a9c2a20c38350e413e3a212de873",
+      "append_fragment_not_full_file": false
+    }
+  ],
+  "complete_review": {
+    "original_pages": 41,
+    "complete_correction_pages": 4,
+    "all21_foundation_bodies_received": true,
+    "ten_corrected_bodies_covered_by_full_originals_and_complete_reversible_operations": true
+  },
+  "counts": {
+    "substantial_studies": 10,
+    "provisional_models": 2,
+    "rules": 3,
+    "bounded_profile_passages": 22,
+    "new_Tier1_census_routes": 21,
+    "qualified_Rex_occurrence_supplement": 1,
+    "new_source_records": 60
+  },
+  "all65_entering_models_preserved": true,
+  "exact_inputs_or_firsts_present_at_freeze": false,
+  "source_known_same_informed_root": true,
+  "no_independent_grade_or_confidence_gain": true,
+  "private_operational_checks_and_native_caches_not_exported": true,
+  "full_program_complete": false
+}

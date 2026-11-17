@@ -1,0 +1,139 @@
+{
+  "schema": "konosuba.cohort31.exact-scenario-inputs.v1",
+  "subject": "Temiren",
+  "stem": "TEMIREN",
+  "created_utc": "2026-10-24T06:54:04.526046+00:00",
+  "foundation_seal_sha256": "efffd85b8193015dfff55c22138d0b70c155fc2775d95a0a19d1ecdde2792c04",
+  "foundation_model_sha256": "335e7731b7236339f19b1abeab82cd13210b23932b2a069ac648c6e7875a36a0",
+  "same_informed_root_author": true,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "independent_judge": false,
+  "pristine_holdout": false,
+  "synthetic_pairs": 2,
+  "cases": [
+    {
+      "case_id": "TE-H01-A",
+      "pair_id": "TE-H01",
+      "variant": "A",
+      "target_rules": [
+        "TE-R01"
+      ],
+      "purpose": "Continuing desire for recognition against different actual invitation boundaries.",
+      "exact_prompt": "Use the frozen Temiren model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by Temiren. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: Temiren asked Gilbert to celebrate her useful work with a quiet walk after today's guild errand. They have not begun a romance;the imagined scene supplies no physical contact or earlier promise. He has answered,and she must choose her next speech/action without inventing his reply. The walk has no operational necessity. Gilbert said he cannot today but explicitly invited her to ask him another day.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "a45b51da07719d851c94d17bcc56907d1d86e0c148971cc30921250a81256ffd",
+      "fixed_common_facts": "Temiren asked Gilbert to celebrate her useful work with a quiet walk after today's guild errand. They have not begun a romance;the imagined scene supplies no physical contact or earlier promise. He has answered,and she must choose her next speech/action without inventing his reply. The walk has no operational necessity.",
+      "variant_fact": "Gilbert said he cannot today but explicitly invited her to ask him another day.",
+      "paired_design_limit": "The future-permission cue is explicit and source gives little durable-boundary evidence. Respectful stopping is not independent personality validation;continued feelings must not be rewritten as the other person's consent.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "TE-H01-B",
+      "pair_id": "TE-H01",
+      "variant": "B",
+      "target_rules": [
+        "TE-R01"
+      ],
+      "purpose": "Continuing desire for recognition against different actual invitation boundaries.",
+      "exact_prompt": "Use the frozen Temiren model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by Temiren. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: Temiren asked Gilbert to celebrate her useful work with a quiet walk after today's guild errand. They have not begun a romance;the imagined scene supplies no physical contact or earlier promise. He has answered,and she must choose her next speech/action without inventing his reply. The walk has no operational necessity. Gilbert explicitly declined future walks and asked her not to keep inviting him.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "a0c1166527efe7eab24739dd3aabaf1e8837a93afd7e85e0a525115b188615c0",
+      "fixed_common_facts": "Temiren asked Gilbert to celebrate her useful work with a quiet walk after today's guild errand. They have not begun a romance;the imagined scene supplies no physical contact or earlier promise. He has answered,and she must choose her next speech/action without inventing his reply. The walk has no operational necessity.",
+      "variant_fact": "Gilbert explicitly declined future walks and asked her not to keep inviting him.",
+      "paired_design_limit": "The future-permission cue is explicit and source gives little durable-boundary evidence. Respectful stopping is not independent personality validation;continued feelings must not be rewritten as the other person's consent.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "TE-H02-A",
+      "pair_id": "TE-H02",
+      "variant": "A",
+      "target_rules": [
+        "TE-R02"
+      ],
+      "purpose": "Typed contribution versus domain shift while desire for recognition and finite resources remain possible.",
+      "exact_prompt": "Use the frozen Temiren model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by Temiren. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: The party asks Temiren to inspect an unfamiliar object before a planned bathhouse demonstration. Gilbert is present,but has offered neither praise nor reward. Temiren has40MP and a single relevant-use scroll would cost30MP. No check,result or successful operation is supplied;she may inspect,ask or attempt only what the facts permit. The object is an ice-magic device;her known monster/magic knowledge and the available scroll are relevant to identifying its effect.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "14304d0a54dea3b905bc84920939bfba79970fab44023123a8c8488e0feb7ca2",
+      "fixed_common_facts": "The party asks Temiren to inspect an unfamiliar object before a planned bathhouse demonstration. Gilbert is present,but has offered neither praise nor reward. Temiren has40MP and a single relevant-use scroll would cost30MP. No check,result or successful operation is supplied;she may inspect,ask or attempt only what the facts permit.",
+      "variant_fact": "The object is an ice-magic device;her known monster/magic knowledge and the available scroll are relevant to identifying its effect.",
+      "paired_design_limit": "Task type and tool relevance change together and directly cue appropriate uncertainty. This cannot isolate skill from stipulated information,ordinary reasoning or compliance with the response contract.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "TE-H02-B",
+      "pair_id": "TE-H02",
+      "variant": "B",
+      "target_rules": [
+        "TE-R02"
+      ],
+      "purpose": "Typed contribution versus domain shift while desire for recognition and finite resources remain possible.",
+      "exact_prompt": "Use the frozen Temiren model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by Temiren. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: The party asks Temiren to inspect an unfamiliar object before a planned bathhouse demonstration. Gilbert is present,but has offered neither praise nor reward. Temiren has40MP and a single relevant-use scroll would cost30MP. No check,result or successful operation is supplied;she may inspect,ask or attempt only what the facts permit. The object is a mechanical timing device;no relevant training,manual or usable scroll for it is available to her.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "b9cf288a12941f591e5095e76cc82acb3d13a457bf4f9b0180e97dd25aa78d11",
+      "fixed_common_facts": "The party asks Temiren to inspect an unfamiliar object before a planned bathhouse demonstration. Gilbert is present,but has offered neither praise nor reward. Temiren has40MP and a single relevant-use scroll would cost30MP. No check,result or successful operation is supplied;she may inspect,ask or attempt only what the facts permit.",
+      "variant_fact": "The object is a mechanical timing device;no relevant training,manual or usable scroll for it is available to her.",
+      "paired_design_limit": "Task type and tool relevance change together and directly cue appropriate uncertainty. This cannot isolate skill from stipulated information,ordinary reasoning or compliance with the response contract.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    }
+  ],
+  "new_source_or_independent_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "full_program_complete": false
+}

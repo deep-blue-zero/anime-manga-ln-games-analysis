@@ -1,0 +1,337 @@
+{
+  "schema": "KONOSUBA_MAIN01_EXCLUDED_SELECTED_HUMOR_V1",
+  "source_id": "MAIN-01",
+  "records": [
+    {
+      "id": "M01EX-H01",
+      "boundary": {
+        "component_id": "MAIN-01-U023",
+        "start_P": 1,
+        "end_P": 10
+      },
+      "whole_selected_premise": "An artist's teacher-title and an unknown household's excessive deference surprise K while Aqua barely remembers the patron.",
+      "primary_L": "L2",
+      "L_rationale": "Artist/teacher honorific and occupational expectations need contextual rendering; the role mismatch is portable.",
+      "primary_H": "H1",
+      "H_rationale": "Actual choice, speech or represented claim is retained at its stated plane; reported events remain reports and unperformed acts remain unperformed.",
+      "source_plane": "DIRECT_DIALOGUE_WITH_ATTRIBUTED_PAST_CONTEXT",
+      "eligibility_and_limits": "Selected overlapping contexts from one bonus; no complete gag census, independent trials, accuracy statistic, universal trait or moral approval. Actual injury/aggression/refusal survives comic framing.",
+      "native_member": "item/xhtml/p-013.xhtml",
+      "native_member_sha256": "d0d94da771a41a0b19a90f2f346cf1cb1286b91ac8b017655bc5c9a6171d7a3b",
+      "formal_assignment_after_seal_utc": "2026-10-19T05:51:16.544165+00:00",
+      "source_first_selection_precision": "Boundary selected after the complete uncoded source pass; original uncoded notes retained. No preselected independent coding-window or population claim."
+    },
+    {
+      "id": "M01EX-H02",
+      "boundary": {
+        "component_id": "MAIN-01-U023",
+        "start_P": 11,
+        "end_P": 14
+      },
+      "whole_selected_premise": "A damaging baseball hit becomes a reported ten-minute replacement masterpiece and household treasure.",
+      "primary_L": "L0",
+      "L_rationale": "Restitution and absurdly uneven craft/foresight do not depend on Japanese form.",
+      "primary_H": "H1",
+      "H_rationale": "Actual choice, speech or represented claim is retained at its stated plane; reported events remain reports and unperformed acts remain unperformed.",
+      "source_plane": "ATTRIBUTED_AQUA_AND_BUTLER_PAST_REPORT",
+      "eligibility_and_limits": "Selected overlapping contexts from one bonus; no complete gag census, independent trials, accuracy statistic, universal trait or moral approval. Actual injury/aggression/refusal survives comic framing.",
+      "native_member": "item/xhtml/p-013.xhtml",
+      "native_member_sha256": "d0d94da771a41a0b19a90f2f346cf1cb1286b91ac8b017655bc5c9a6171d7a3b",
+      "formal_assignment_after_seal_utc": "2026-10-19T05:51:16.544165+00:00",
+      "source_first_selection_precision": "Boundary selected after the complete uncoded source pass; original uncoded notes retained. No preselected independent coding-window or population claim."
+    },
+    {
+      "id": "M01EX-H03",
+      "boundary": {
+        "component_id": "MAIN-01-U023",
+        "start_P": 15,
+        "end_P": 19
+      },
+      "whole_selected_premise": "A useful lucrative art career is rejected from priest/divine professional pride by the person K often calls unproductive.",
+      "primary_L": "L1",
+      "L_rationale": "Identity-versus-income reasoning and mutual insult survive changed wording.",
+      "primary_H": "H1",
+      "H_rationale": "Actual choice, speech or represented claim is retained at its stated plane; reported events remain reports and unperformed acts remain unperformed.",
+      "source_plane": "DIRECT_REFUSAL_AND_STATED_REASON",
+      "eligibility_and_limits": "Selected overlapping contexts from one bonus; no complete gag census, independent trials, accuracy statistic, universal trait or moral approval. Actual injury/aggression/refusal survives comic framing.",
+      "native_member": "item/xhtml/p-013.xhtml",
+      "native_member_sha256": "d0d94da771a41a0b19a90f2f346cf1cb1286b91ac8b017655bc5c9a6171d7a3b",
+      "formal_assignment_after_seal_utc": "2026-10-19T05:51:16.544165+00:00",
+      "source_first_selection_precision": "Boundary selected after the complete uncoded source pass; original uncoded notes retained. No preselected independent coding-window or population claim."
+    },
+    {
+      "id": "M01EX-H04",
+      "boundary": {
+        "component_id": "MAIN-01-U023",
+        "start_P": 20,
+        "end_P": 27
+      },
+      "whole_selected_premise": "K tries to make Aqua cry; her self-appointed disciple attacks at her call and K disables him, then protests her framing.",
+      "primary_L": "L1",
+      "L_rationale": "Escalating familiar aggression, intervention and incomplete accountability are pragmatic/context effects.",
+      "primary_H": "H1",
+      "H_rationale": "Actual choice, speech or represented claim is retained at its stated plane; reported events remain reports and unperformed acts remain unperformed.",
+      "source_plane": "DIRECT_EVENT_AND_K_NARRATION",
+      "eligibility_and_limits": "Selected overlapping contexts from one bonus; no complete gag census, independent trials, accuracy statistic, universal trait or moral approval. Actual injury/aggression/refusal survives comic framing.",
+      "native_member": "item/xhtml/p-013.xhtml",
+      "native_member_sha256": "d0d94da771a41a0b19a90f2f346cf1cb1286b91ac8b017655bc5c9a6171d7a3b",
+      "formal_assignment_after_seal_utc": "2026-10-19T05:51:16.544165+00:00",
+      "source_first_selection_precision": "Boundary selected after the complete uncoded source pass; original uncoded notes retained. No preselected independent coding-window or population claim."
+    },
+    {
+      "id": "M01EX-H05",
+      "boundary": {
+        "component_id": "MAIN-01-U023",
+        "start_P": 28,
+        "end_P": 29
+      },
+      "whole_selected_premise": "Aqua explains her sculptor admirer through leisure carving of sacred marks on Wiz's shop door; K foresees exclusion.",
+      "primary_L": "L0",
+      "L_rationale": "Gifted craft creates another person's potential access problem without a language-specific mechanism.",
+      "primary_H": "H1",
+      "H_rationale": "Actual choice, speech or represented claim is retained at its stated plane; reported events remain reports and unperformed acts remain unperformed.",
+      "source_plane": "AQUA_PAST_REPORT_AND_K_UNPERFORMED_CONSEQUENCE",
+      "eligibility_and_limits": "Selected overlapping contexts from one bonus; no complete gag census, independent trials, accuracy statistic, universal trait or moral approval. Actual injury/aggression/refusal survives comic framing.",
+      "native_member": "item/xhtml/p-013.xhtml",
+      "native_member_sha256": "d0d94da771a41a0b19a90f2f346cf1cb1286b91ac8b017655bc5c9a6171d7a3b",
+      "formal_assignment_after_seal_utc": "2026-10-19T05:51:16.544165+00:00",
+      "source_first_selection_precision": "Boundary selected after the complete uncoded source pass; original uncoded notes retained. No preselected independent coding-window or population claim."
+    },
+    {
+      "id": "M01EX-H06",
+      "boundary": {
+        "component_id": "MAIN-01-U023",
+        "start_P": 30,
+        "end_P": 33
+      },
+      "whole_selected_premise": "Demand for correct occupational recognition receives accidental-entertainer teasing and a sacred-fist threat.",
+      "primary_L": "L1",
+      "L_rationale": "Professional self-legitimation and incongruously sacred mundane violence are portable; グー is a local form detail.",
+      "primary_H": "H1",
+      "H_rationale": "Actual choice, speech or represented claim is retained at its stated plane; reported events remain reports and unperformed acts remain unperformed.",
+      "source_plane": "DIRECT_DIALOGUE_UNEXECUTED_THREAT",
+      "eligibility_and_limits": "Selected overlapping contexts from one bonus; no complete gag census, independent trials, accuracy statistic, universal trait or moral approval. Actual injury/aggression/refusal survives comic framing.",
+      "native_member": "item/xhtml/p-013.xhtml",
+      "native_member_sha256": "d0d94da771a41a0b19a90f2f346cf1cb1286b91ac8b017655bc5c9a6171d7a3b",
+      "formal_assignment_after_seal_utc": "2026-10-19T05:51:16.544165+00:00",
+      "source_first_selection_precision": "Boundary selected after the complete uncoded source pass; original uncoded notes retained. No preselected independent coding-window or population claim."
+    },
+    {
+      "id": "M01EX-H07",
+      "boundary": {
+        "component_id": "MAIN-01-U023",
+        "start_P": 34,
+        "end_P": 40
+      },
+      "whole_selected_premise": "The quarrel stops for a genuinely scraped crying child; actual competent Heal makes K describe Aqua as really priest-like.",
+      "primary_L": "L1",
+      "L_rationale": "Helpful action versus K's dismissive occupational expectation supplies the contrast.",
+      "primary_H": "H1",
+      "H_rationale": "Actual choice, speech or represented claim is retained at its stated plane; reported events remain reports and unperformed acts remain unperformed.",
+      "source_plane": "DIRECT_INJURY_CARE_AND_NARRATOR_APPRAISAL",
+      "eligibility_and_limits": "Selected overlapping contexts from one bonus; no complete gag census, independent trials, accuracy statistic, universal trait or moral approval. Actual injury/aggression/refusal survives comic framing.",
+      "native_member": "item/xhtml/p-013.xhtml",
+      "native_member_sha256": "d0d94da771a41a0b19a90f2f346cf1cb1286b91ac8b017655bc5c9a6171d7a3b",
+      "formal_assignment_after_seal_utc": "2026-10-19T05:51:16.544165+00:00",
+      "source_first_selection_precision": "Boundary selected after the complete uncoded source pass; original uncoded notes retained. No preselected independent coding-window or population claim."
+    },
+    {
+      "id": "M01EX-H08",
+      "boundary": {
+        "component_id": "MAIN-01-U023",
+        "start_P": 41,
+        "end_P": 44
+      },
+      "whole_selected_premise": "Physical healing does not stop sobbing, so Aqua switches to comforting performance rather than treating the first step as the whole need.",
+      "primary_L": "L0",
+      "L_rationale": "Distinct physical and emotional phases are intelligible without Japanese form.",
+      "primary_H": "H1",
+      "H_rationale": "Actual choice, speech or represented claim is retained at its stated plane; reported events remain reports and unperformed acts remain unperformed.",
+      "source_plane": "DIRECT_CONTINUING_DISTRESS_AND_NEW_ATTEMPT",
+      "eligibility_and_limits": "Selected overlapping contexts from one bonus; no complete gag census, independent trials, accuracy statistic, universal trait or moral approval. Actual injury/aggression/refusal survives comic framing.",
+      "native_member": "item/xhtml/p-013.xhtml",
+      "native_member_sha256": "d0d94da771a41a0b19a90f2f346cf1cb1286b91ac8b017655bc5c9a6171d7a3b",
+      "formal_assignment_after_seal_utc": "2026-10-19T05:51:16.544165+00:00",
+      "source_first_selection_precision": "Boundary selected after the complete uncoded source pass; original uncoded notes retained. No preselected independent coding-window or population claim."
+    },
+    {
+      "id": "M01EX-H09",
+      "boundary": {
+        "component_id": "MAIN-01-U023",
+        "start_P": 44,
+        "end_P": 48
+      },
+      "whole_selected_premise": "K decides to cooperate and turns toward skewers, missing the spectacle which has already gathered an audience.",
+      "primary_L": "L0",
+      "L_rationale": "Attentional timing and an unfinished helpful intention create the contrast.",
+      "primary_H": "H1",
+      "H_rationale": "Actual choice, speech or represented claim is retained at its stated plane; reported events remain reports and unperformed acts remain unperformed.",
+      "source_plane": "K_INTENTION_AND_PARTIAL_ACTION_NOT_HANDOFF",
+      "eligibility_and_limits": "Selected overlapping contexts from one bonus; no complete gag census, independent trials, accuracy statistic, universal trait or moral approval. Actual injury/aggression/refusal survives comic framing.",
+      "native_member": "item/xhtml/p-013.xhtml",
+      "native_member_sha256": "d0d94da771a41a0b19a90f2f346cf1cb1286b91ac8b017655bc5c9a6171d7a3b",
+      "formal_assignment_after_seal_utc": "2026-10-19T05:51:16.544165+00:00",
+      "source_first_selection_precision": "Boundary selected after the complete uncoded source pass; original uncoded notes retained. No preselected independent coding-window or population claim."
+    },
+    {
+      "id": "M01EX-H10",
+      "boundary": {
+        "component_id": "MAIN-01-U023",
+        "start_P": 46,
+        "end_P": 51
+      },
+      "whole_selected_premise": "A child's handkerchief trick releases many protected butterfly monsters and becomes a public encore demand.",
+      "primary_L": "L0",
+      "L_rationale": "Fantasy spectacle, protected-category incongruity and audience expansion are portable.",
+      "primary_H": "H1",
+      "H_rationale": "Actual choice, speech or represented claim is retained at its stated plane; reported events remain reports and unperformed acts remain unperformed.",
+      "source_plane": "DIRECT_DISPLAY_AND_REQUESTS",
+      "eligibility_and_limits": "Selected overlapping contexts from one bonus; no complete gag census, independent trials, accuracy statistic, universal trait or moral approval. Actual injury/aggression/refusal survives comic framing.",
+      "native_member": "item/xhtml/p-013.xhtml",
+      "native_member_sha256": "d0d94da771a41a0b19a90f2f346cf1cb1286b91ac8b017655bc5c9a6171d7a3b",
+      "formal_assignment_after_seal_utc": "2026-10-19T05:51:16.544165+00:00",
+      "source_first_selection_precision": "Boundary selected after the complete uncoded source pass; original uncoded notes retained. No preselected independent coding-window or population claim."
+    },
+    {
+      "id": "M01EX-H11",
+      "boundary": {
+        "component_id": "MAIN-01-U023",
+        "start_P": 49,
+        "end_P": 55
+      },
+      "whole_selected_premise": "The person skilled enough to delight a crowd objects to entertainer demands as a priest, returning K to the career-change judgment.",
+      "primary_L": "L1",
+      "L_rationale": "Role/ability tension and looped occupational framing are pragmatic; objection is not another completed performance.",
+      "primary_H": "H1",
+      "H_rationale": "Actual choice, speech or represented claim is retained at its stated plane; reported events remain reports and unperformed acts remain unperformed.",
+      "source_plane": "DIRECT_REFUSAL_AND_K_NARRATOR_FRAME",
+      "eligibility_and_limits": "Selected overlapping contexts from one bonus; no complete gag census, independent trials, accuracy statistic, universal trait or moral approval. Actual injury/aggression/refusal survives comic framing.",
+      "native_member": "item/xhtml/p-013.xhtml",
+      "native_member_sha256": "d0d94da771a41a0b19a90f2f346cf1cb1286b91ac8b017655bc5c9a6171d7a3b",
+      "formal_assignment_after_seal_utc": "2026-10-19T05:51:16.544165+00:00",
+      "source_first_selection_precision": "Boundary selected after the complete uncoded source pass; original uncoded notes retained. No preselected independent coding-window or population claim."
+    },
+    {
+      "id": "M01EX-H12",
+      "boundary": {
+        "component_id": "MAIN-01-U011",
+        "image_id": "MAIN-01-IMG010",
+        "full_image": true
+      },
+      "whole_selected_premise": "Aqua claims protagonist privilege, evades age and receives the banquet-goddess label.",
+      "primary_L": "L2",
+      "L_rationale": "Role/age-status quarrel is portable; local pronouns and self-reference are separate form details.",
+      "primary_H": "H4",
+      "H_rationale": "Explicit staged profile/promotional dialogue about protagonists, publication or a fantasy preview is nonliteral relative to enacted mainline events; this does not label ordinary canonical magic or source uncertainty H4.",
+      "source_plane": "STAGED_RASTER_PARATEXT",
+      "eligibility_and_limits": "Printed persona script is actually read, but not a new mainline encounter, sales statistic, age across all time, performed sexual event, consent or behavioral-forecast trial.",
+      "native_image_sha256": "c5c0953f8e950dd022f4bc004661ebb217db20500f4f317a0b18775ef03f8a34",
+      "native_member": "item/xhtml/p-001.xhtml",
+      "native_member_sha256": "70d10a16c9bab956f4a27460f08e5ce5509de20a8453066d59d6b4922acba08f",
+      "formal_assignment_after_seal_utc": "2026-10-19T05:51:16.544165+00:00",
+      "source_first_selection_precision": "Boundary selected after the complete uncoded source pass; original uncoded notes retained. No preselected independent coding-window or population claim."
+    },
+    {
+      "id": "M01EX-H13",
+      "boundary": {
+        "component_id": "MAIN-01-U011",
+        "image_id": "MAIN-01-IMG010",
+        "full_image": true
+      },
+      "whole_selected_premise": "Megumin's theatrical real-name introduction is treated as a nickname, then her protest is ignored.",
+      "primary_L": "L2",
+      "L_rationale": "Ordinary-name expectations and competitive interruption are portable; rubyクーン carries a localized style.",
+      "primary_H": "H4",
+      "H_rationale": "Explicit staged profile/promotional dialogue about protagonists, publication or a fantasy preview is nonliteral relative to enacted mainline events; this does not label ordinary canonical magic or source uncertainty H4.",
+      "source_plane": "STAGED_RASTER_PARATEXT",
+      "eligibility_and_limits": "Printed persona script is actually read, but not a new mainline encounter, sales statistic, age across all time, performed sexual event, consent or behavioral-forecast trial.",
+      "native_image_sha256": "c5c0953f8e950dd022f4bc004661ebb217db20500f4f317a0b18775ef03f8a34",
+      "native_member": "item/xhtml/p-001.xhtml",
+      "native_member_sha256": "70d10a16c9bab956f4a27460f08e5ce5509de20a8453066d59d6b4922acba08f",
+      "formal_assignment_after_seal_utc": "2026-10-19T05:51:16.544165+00:00",
+      "source_first_selection_precision": "Boundary selected after the complete uncoded source pass; original uncoded notes retained. No preselected independent coding-window or population claim."
+    },
+    {
+      "id": "M01EX-H14",
+      "boundary": {
+        "component_id": "MAIN-01-U012",
+        "image_id": "MAIN-01-IMG011",
+        "full_image": true
+      },
+      "whole_selected_premise": "Darkness envies a narrated Explosion, denies the wish and makes the denial increasingly revealing.",
+      "primary_L": "L2",
+      "L_rationale": "Denial versus expressed fantasy is portable; it is not enacted consent.",
+      "primary_H": "H4",
+      "H_rationale": "Explicit staged profile/promotional dialogue about protagonists, publication or a fantasy preview is nonliteral relative to enacted mainline events; this does not label ordinary canonical magic or source uncertainty H4.",
+      "source_plane": "STAGED_RASTER_PARATEXT",
+      "eligibility_and_limits": "Printed persona script is actually read, but not a new mainline encounter, sales statistic, age across all time, performed sexual event, consent or behavioral-forecast trial.",
+      "native_image_sha256": "7ef9d7454daa163681ee629a6186d88d4c58601a89733ae20259303400207454",
+      "native_member": "item/xhtml/p-002.xhtml",
+      "native_member_sha256": "b747ddc742f2ef2124a2489192788a545fd51b4015501ddfc9beca9eb03c74a5",
+      "formal_assignment_after_seal_utc": "2026-10-19T05:51:16.544165+00:00",
+      "source_first_selection_precision": "Boundary selected after the complete uncoded source pass; original uncoded notes retained. No preselected independent coding-window or population claim."
+    },
+    {
+      "id": "M01EX-H15",
+      "boundary": {
+        "component_id": "MAIN-01-U012",
+        "image_id": "MAIN-01-IMG011",
+        "full_image": true
+      },
+      "whole_selected_premise": "The proposed protagonist is repeatedly introduced as a servant by supposed companions.",
+      "primary_L": "L2",
+      "L_rationale": "Reciprocal role misassignment and genre-title parody need context but no uniquely Japanese mechanism.",
+      "primary_H": "H4",
+      "H_rationale": "Explicit staged profile/promotional dialogue about protagonists, publication or a fantasy preview is nonliteral relative to enacted mainline events; this does not label ordinary canonical magic or source uncertainty H4.",
+      "source_plane": "STAGED_RASTER_PARATEXT",
+      "eligibility_and_limits": "Printed persona script is actually read, but not a new mainline encounter, sales statistic, age across all time, performed sexual event, consent or behavioral-forecast trial.",
+      "native_image_sha256": "7ef9d7454daa163681ee629a6186d88d4c58601a89733ae20259303400207454",
+      "native_member": "item/xhtml/p-002.xhtml",
+      "native_member_sha256": "b747ddc742f2ef2124a2489192788a545fd51b4015501ddfc9beca9eb03c74a5",
+      "formal_assignment_after_seal_utc": "2026-10-19T05:51:16.544165+00:00",
+      "source_first_selection_precision": "Boundary selected after the complete uncoded source pass; original uncoded notes retained. No preselected independent coding-window or population claim."
+    },
+    {
+      "id": "M01EX-H16",
+      "boundary": {
+        "component_id": "MAIN-01-U021",
+        "image_id": "MAIN-01-IMG023",
+        "full_image": true
+      },
+      "whole_selected_premise": "The next-volume promotion becomes a protagonist dispute, an ungrounded sales boast and age insult rather than an informative preview.",
+      "primary_L": "L2",
+      "L_rationale": "BBA/ruby and protagonist-turn styling require local adaptation; the whole status dispute is portable.",
+      "primary_H": "H4",
+      "H_rationale": "Explicit staged profile/promotional dialogue about protagonists, publication or a fantasy preview is nonliteral relative to enacted mainline events; this does not label ordinary canonical magic or source uncertainty H4.",
+      "source_plane": "STAGED_RASTER_PARATEXT",
+      "eligibility_and_limits": "Printed persona script is actually read, but not a new mainline encounter, sales statistic, age across all time, performed sexual event, consent or behavioral-forecast trial.",
+      "native_image_sha256": "9b40c0d5c104f55cdfa8073fc58395fc24b7924de1bffe8af041edcc928ff7b6",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "52b1ceda1cb0f6128634450c3eac6a752f207e60392f3303fc79cf7555f2f727",
+      "formal_assignment_after_seal_utc": "2026-10-19T05:51:16.544165+00:00",
+      "source_first_selection_precision": "Boundary selected after the complete uncoded source pass; original uncoded notes retained. No preselected independent coding-window or population claim."
+    },
+    {
+      "id": "M01EX-H17",
+      "boundary": {
+        "component_id": "MAIN-01-U021",
+        "image_id": "MAIN-01-IMG023",
+        "full_image": true
+      },
+      "whole_selected_premise": "A sensational assault/NTR 'preview' is denied, K demands a real trailer, and unnamed question-mark voices intrude.",
+      "primary_L": "L2",
+      "L_rationale": "NTR/ruby is a nested subculture form needing explanation/adaptation; promotional unreliability and interruption remain portable.",
+      "primary_H": "H4",
+      "H_rationale": "Explicit staged profile/promotional dialogue about protagonists, publication or a fantasy preview is nonliteral relative to enacted mainline events; this does not label ordinary canonical magic or source uncertainty H4.",
+      "source_plane": "STAGED_RASTER_PARATEXT",
+      "eligibility_and_limits": "Printed persona script is actually read, but not a new mainline encounter, sales statistic, age across all time, performed sexual event, consent or behavioral-forecast trial.",
+      "native_image_sha256": "9b40c0d5c104f55cdfa8073fc58395fc24b7924de1bffe8af041edcc928ff7b6",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "52b1ceda1cb0f6128634450c3eac6a752f207e60392f3303fc79cf7555f2f727",
+      "formal_assignment_after_seal_utc": "2026-10-19T05:51:16.544165+00:00",
+      "source_first_selection_precision": "Boundary selected after the complete uncoded source pass; original uncoded notes retained. No preselected independent coding-window or population claim."
+    }
+  ],
+  "H_protocol": "H1 actual causal acts/speech or attributed report at the stated plane; H4 here is the explicit nonliteral mainline status of staged publication/profile scripts. Fantasy, uncertainty and unperformed intention are not automatic H3/H4.",
+  "L_protocol": "Whole-premise mechanism and nested form are distinguished. Ordinary idiom/honorific, ruby and local initialisms do not automatically establish central Japanese-only dependence. Selected records are not a census."
+}

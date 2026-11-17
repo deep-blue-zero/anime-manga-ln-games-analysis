@@ -1,0 +1,1172 @@
+{
+  "created_utc": "2026-10-17T23:50:05.154795+00:00",
+  "source_id": "DUST-02",
+  "selection": "PURPOSIVE; no population effect denominator or new J01 test",
+  "selected_record_count": 35,
+  "records": [
+    {
+      "id": "DUST02-V001",
+      "source": {
+        "unit": "Pro",
+        "member": "item/xhtml/p-002.xhtml",
+        "p_start": 5,
+        "p_end": 5
+      },
+      "before_window": {
+        "unit": "Pro",
+        "member": "item/xhtml/p-002.xhtml",
+        "p_start": 5,
+        "p_end": 5
+      },
+      "after_window": {
+        "unit": "Pro",
+        "member": "item/xhtml/p-002.xhtml",
+        "p_start": 9,
+        "p_end": 16
+      },
+      "speaker": "Yunyun",
+      "addressee_or_audience": "Dust",
+      "exact_short_form": "ご一緒してもいいですか",
+      "literal_gloss": "May I join you?",
+      "pragmatic_function": "Hesitant permission request concerns joining the bath; it grants no additional act.",
+      "independent_context_role_facts": "She is asking to enter the shared space, independently of Dust’s interpretation12–14.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Forward frame; same event returnsC03. Not a before/after formal effect trial.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V002",
+      "source": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 40,
+        "p_end": 40
+      },
+      "before_window": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 37,
+        "p_end": 39
+      },
+      "after_window": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 40,
+        "p_end": 41
+      },
+      "speaker": "Unnamed female rope-puller",
+      "addressee_or_audience": "Dust and pullers",
+      "exact_short_form": "女だけど舐めないでよね",
+      "literal_gloss": "I am a woman, but do not underestimate me.",
+      "pragmatic_function": "Rejects the male-limited premise of a rally while participating in the task.",
+      "independent_context_role_facts": "Pulling role and Dust’s rally precede the corrective turn.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Speaker is not silently identified as Leen; one turn does not establish a stable individual voice.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V003",
+      "source": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 168,
+        "p_end": 168
+      },
+      "before_window": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 163,
+        "p_end": 167
+      },
+      "after_window": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 168,
+        "p_end": 169
+      },
+      "speaker": "Dust",
+      "addressee_or_audience": "Leen",
+      "exact_short_form": "悪かったな",
+      "literal_gloss": "Sorry / I was wrong.",
+      "pragmatic_function": "Brief rough apology replaces an intended bodily complaint at her tears.",
+      "independent_context_role_facts": "Her observed crying/hug precedes his self-restraint166.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Adequate local context; unique lasting personality change not established.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V004",
+      "source": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 224,
+        "p_end": 224
+      },
+      "before_window": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 209,
+        "p_end": 223
+      },
+      "after_window": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 224,
+        "p_end": 232
+      },
+      "speaker": "Aqua",
+      "addressee_or_audience": "Dust; public audience invoked",
+      "exact_short_form": "的確に褒めて",
+      "literal_gloss": "Praise me accurately.",
+      "pragmatic_function": "Specifies desired public recognition rather than simply accepting praise.",
+      "independent_context_role_facts": "Resurrection thanks and escalating compliments already active.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Already-active esteem context; no acoustic volume measurement or main-only rescoring.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V005",
+      "source": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 48,
+        "p_end": 48
+      },
+      "before_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 46,
+        "p_end": 47
+      },
+      "after_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 48,
+        "p_end": 48
+      },
+      "speaker": "Dust",
+      "addressee_or_audience": "Leen and party",
+      "exact_short_form": "仲間で山分け",
+      "literal_gloss": "Divide equally among companions.",
+      "pragmatic_function": "Redefines fairness after the bigger reward acquires a bigger combat burden.",
+      "independent_context_role_facts": "Leen’s work-allocation condition47 precedes revision.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "One incentive reversal, not a stable generosity outcome.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V006",
+      "source": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 77,
+        "p_end": 77
+      },
+      "before_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 71,
+        "p_end": 76
+      },
+      "after_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 77,
+        "p_end": 79
+      },
+      "speaker": "Leen",
+      "addressee_or_audience": "Dust",
+      "exact_short_form": "骨まで消し炭",
+      "literal_gloss": "Charcoal down to the bones.",
+      "pragmatic_function": "Hyperbolic threat sets a boundary after unwanted prolonged contact and insult.",
+      "independent_context_role_facts": "Initial protective action and later excess are independently narrated.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "No actual spell cast here; H2 intensity, not unlimited lethal intent.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V007",
+      "source": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 290,
+        "p_end": 290
+      },
+      "before_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 284,
+        "p_end": 289
+      },
+      "after_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 290,
+        "p_end": 290
+      },
+      "speaker": "Small succubus",
+      "addressee_or_audience": "Dust and Leen",
+      "exact_short_form": "本当に人手が足りなかったら",
+      "literal_gloss": "If you really lack people.",
+      "pragmatic_function": "Makes emergency help conditional while leaving for work.",
+      "independent_context_role_facts": "Dream specialization, limits on other magic and request context are spoken.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "A condition is real; no exact professional-praise causal isolation.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V008",
+      "source": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 369,
+        "p_end": 369
+      },
+      "before_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 363,
+        "p_end": 368
+      },
+      "after_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 369,
+        "p_end": 375
+      },
+      "speaker": "Dust",
+      "addressee_or_audience": "Megumin",
+      "exact_short_form": "答えてくれませんかね",
+      "literal_gloss": "Could you answer me?",
+      "pragmatic_function": "Chosen polite institutional stance corners and humiliates the applicant.",
+      "independent_context_role_facts": "Narrator explicitly states strategic politeness371; one-shot constraint is separately explained.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Politeness does not equal care. Not an unconditional inference from morphology.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V009",
+      "source": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 501,
+        "p_end": 501
+      },
+      "before_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 493,
+        "p_end": 500
+      },
+      "after_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 501,
+        "p_end": 506
+      },
+      "speaker": "Leen",
+      "addressee_or_audience": "Yunyun; Dust also addressed",
+      "exact_short_form": "数日でいいから仲間に",
+      "literal_gloss": "Join us for just a few days.",
+      "pragmatic_function": "Supplies a bounded paid invitation and interrupts teasing.",
+      "independent_context_role_facts": "Recruitment need is established before the actual assent506.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "One helpful request, not indefinite membership or romantic inclusion.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V010",
+      "source": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 760,
+        "p_end": 760
+      },
+      "before_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 748,
+        "p_end": 759
+      },
+      "after_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 760,
+        "p_end": 784
+      },
+      "speaker": "Dust",
+      "addressee_or_audience": "Leen, Yunyun and Small",
+      "exact_short_form": "だけど背を向けるなよ",
+      "literal_gloss": "But do not turn your backs.",
+      "pragmatic_function": "Gives a concrete retreat procedure while placing himself forward.",
+      "independent_context_role_facts": "Dragon and companions’ fear are prior independent context.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Trust783 follows the initial decision. Outcome is later reported, not fully witnessed.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V011",
+      "source": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 18,
+        "p_end": 18
+      },
+      "before_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 8,
+        "p_end": 17
+      },
+      "after_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 18,
+        "p_end": 23
+      },
+      "speaker": "Dust",
+      "addressee_or_audience": "Kazuma",
+      "exact_short_form": "裏でもあんのかよ",
+      "literal_gloss": "Is there some catch?",
+      "pragmatic_function": "Proactively solicits a defect in a free offer.",
+      "independent_context_role_facts": "Free coupons are already offered; response warns about the city.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Genuine contrary to blanket underchecking; does not prove he acts adequately on all warnings.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V012",
+      "source": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 149,
+        "p_end": 149
+      },
+      "before_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 119,
+        "p_end": 148
+      },
+      "after_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 149,
+        "p_end": 149
+      },
+      "speaker": "Yunyun",
+      "addressee_or_audience": "Dust",
+      "exact_short_form": "何を言われても",
+      "literal_gloss": "Whatever you say.",
+      "pragmatic_function": "Separates gratitude for travel from explicit refusal of mixed bathing.",
+      "independent_context_role_facts": "Dubious culture claims precede the refusal; no charm yet applied.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Later imposed state cannot rewrite this refusal as consent.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V013",
+      "source": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 187,
+        "p_end": 187
+      },
+      "before_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 176,
+        "p_end": 186
+      },
+      "after_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 187,
+        "p_end": 211
+      },
+      "speaker": "Small succubus",
+      "addressee_or_audience": "Dust",
+      "exact_short_form": "私の憧れはバニル様",
+      "literal_gloss": "The one I admire is Lord Vanir.",
+      "pragmatic_function": "Rejects Dust’s desired affection and names an independent preference.",
+      "independent_context_role_facts": "Actual later acceptance cites Vanir’s attendance.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Permission depends on her goal; professional esteem not sole cause.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V014",
+      "source": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 247,
+        "p_end": 247
+      },
+      "before_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 242,
+        "p_end": 246
+      },
+      "after_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 247,
+        "p_end": 263
+      },
+      "speaker": "Luna",
+      "addressee_or_audience": "Dust",
+      "exact_short_form": "しれっとセクハラ発言",
+      "literal_gloss": "Casually making sexually harassing remarks.",
+      "pragmatic_function": "Directly rejects harassment and connects his misconduct to her workload.",
+      "independent_context_role_facts": "He approached with an invitation; her work limits precede his actual listening.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "No global profession or counseling skill inferred from that listening.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V015",
+      "source": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 368,
+        "p_end": 368
+      },
+      "before_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 350,
+        "p_end": 367
+      },
+      "after_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 368,
+        "p_end": 378
+      },
+      "speaker": "Small succubus",
+      "addressee_or_audience": "Vanir",
+      "exact_short_form": "この棒がオススメ",
+      "literal_gloss": "I recommend this stick.",
+      "pragmatic_function": "Uses a polite recommendation to route the rigged allocation toward her idol.",
+      "independent_context_role_facts": "Earlier arrangement with Dust and her own Vanir preference are separate facts.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "She is not a passive tool whose independent aim can be erased.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V016",
+      "source": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 594,
+        "p_end": 594
+      },
+      "before_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 572,
+        "p_end": 593
+      },
+      "after_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 594,
+        "p_end": 594
+      },
+      "speaker": "Dust",
+      "addressee_or_audience": "Axis recruiter",
+      "exact_short_form": "向こうへ行け",
+      "literal_gloss": "Go away.",
+      "pragmatic_function": "Rejects the recruiter after inspecting the hidden registration mechanism.",
+      "independent_context_role_facts": "Repeated document checks precede the conclusion.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Strong informed boundary; no universal immunity to deception.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V017",
+      "source": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 734,
+        "p_end": 734
+      },
+      "before_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 713,
+        "p_end": 733
+      },
+      "after_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 734,
+        "p_end": 738
+      },
+      "speaker": "Dust",
+      "addressee_or_audience": "Leen, Yunyun and Small",
+      "exact_short_form": "一人三十分ずつ交代",
+      "literal_gloss": "Take turns, thirty minutes each.",
+      "pragmatic_function": "Treats imposed affection as an allocation problem; unanimous rejection follows.",
+      "independent_context_role_facts": "Known charm/state and preceding competing offers are contextual facts.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Consent is not repaired by equal time; actual spells, no universal water-dispel rule.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V018",
+      "source": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 157,
+        "p_end": 157
+      },
+      "before_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 135,
+        "p_end": 156
+      },
+      "after_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 157,
+        "p_end": 158
+      },
+      "speaker": "Dust",
+      "addressee_or_audience": "Chris",
+      "exact_short_form": "女神アクアよりマシ",
+      "literal_gloss": "Better than goddess Aqua.",
+      "pragmatic_function": "Offers imperfect comparative comfort under his follower interpretation.",
+      "independent_context_role_facts": "Chris is visibly distressed by padding talk; her identity is not Dust’s knowledge.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "No direct access to her private divine self-appraisal; literal claim and intended comfort differ.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V019",
+      "source": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 176,
+        "p_end": 176
+      },
+      "before_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 168,
+        "p_end": 175
+      },
+      "after_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 176,
+        "p_end": 187
+      },
+      "speaker": "Dust",
+      "addressee_or_audience": "Yunyun",
+      "exact_short_form": "酒にでも酔って",
+      "literal_gloss": "Perhaps you were drunk.",
+      "pragmatic_function": "Provides a false ordinary explanation to conceal his charm responsibility.",
+      "independent_context_role_facts": "His private narration173–179 establishes concealment.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "A deliberate deceptive excuse, not simply an innocent social misreading.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V020",
+      "source": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 361,
+        "p_end": 361
+      },
+      "before_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 330,
+        "p_end": 360
+      },
+      "after_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 361,
+        "p_end": 363
+      },
+      "speaker": "Chris",
+      "addressee_or_audience": "Dust and companions",
+      "exact_short_form": "この方法は間違っている",
+      "literal_gloss": "This method is wrong.",
+      "pragmatic_function": "Rejects a risky method while preserving the religious goal.",
+      "independent_context_role_facts": "Risks have been discussed before refusal; Dust accepts another method362.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "No completed parade, no proof her entire agency is overridden.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V021",
+      "source": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 438,
+        "p_end": 438
+      },
+      "before_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 434,
+        "p_end": 437
+      },
+      "after_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 438,
+        "p_end": 444
+      },
+      "speaker": "Vanir",
+      "addressee_or_audience": "Dust",
+      "exact_short_form": "売り上げの一割",
+      "literal_gloss": "One tenth of the sales.",
+      "pragmatic_function": "Offers conditional compensation after Dust has already interposed to protect Small.",
+      "independent_context_role_facts": "Physical interposition436 precedes price offer.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Sales share is not net profit; commercial incentive coexists with prior protection.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V022",
+      "source": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 546,
+        "p_end": 546
+      },
+      "before_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 536,
+        "p_end": 545
+      },
+      "after_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 546,
+        "p_end": 549
+      },
+      "speaker": "Yunyun",
+      "addressee_or_audience": "Dust",
+      "exact_short_form": "混浴の件は帳消し",
+      "literal_gloss": "The mixed-bath affair is settled.",
+      "pragmatic_function": "Expresses forgiveness and appreciation on the information she actually has.",
+      "independent_context_role_facts": "Actual gift and confirmed rivalry use precede this turn.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "She does not know deliberate charm cause; no fully informed exoneration or romance.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V023",
+      "source": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 101,
+        "p_end": 101
+      },
+      "before_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 91,
+        "p_end": 100
+      },
+      "after_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 101,
+        "p_end": 102
+      },
+      "speaker": "Dust",
+      "addressee_or_audience": "His party",
+      "exact_short_form": "情報収集しに行くぞ",
+      "literal_gloss": "Go gather information.",
+      "pragmatic_function": "Distributes investigation after recognizing uncertainty and danger.",
+      "independent_context_role_facts": "Progressive decline and failed causal explanation precede the order.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Actual assent/departure102; no guarantee all information will be found.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V024",
+      "source": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 120,
+        "p_end": 120
+      },
+      "before_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 116,
+        "p_end": 119
+      },
+      "after_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 120,
+        "p_end": 123
+      },
+      "speaker": "Yunyun",
+      "addressee_or_audience": "Dust",
+      "exact_short_form": "自業自得ですよね",
+      "literal_gloss": "It is your own doing, isn’t it?",
+      "pragmatic_function": "Questions a self-exculpatory account while continuing the useful plan.",
+      "independent_context_role_facts": "Dust voluntarily entered Vanir’s commerce; prior participation is narrated.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Polite sentence ending does not neutralize reproach.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V025",
+      "source": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 138,
+        "p_end": 138
+      },
+      "before_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 136,
+        "p_end": 137
+      },
+      "after_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 138,
+        "p_end": 139
+      },
+      "speaker": "Yunyun",
+      "addressee_or_audience": "Vanir; Dust present",
+      "exact_short_form": "格好良いかも",
+      "literal_gloss": "It might be cool.",
+      "pragmatic_function": "Tentatively revalues an insulting loneliness title as a desirable title.",
+      "independent_context_role_facts": "Vanir supplied the title136; response is explicitly tentative.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "No prideful diagnosis from one joke; lexical/pragmatic sensitivity, not phonetic evidence.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V026",
+      "source": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 168,
+        "p_end": 168
+      },
+      "before_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 162,
+        "p_end": 167
+      },
+      "after_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 168,
+        "p_end": 169
+      },
+      "speaker": "Small succubus",
+      "addressee_or_audience": "Yunyun and party",
+      "exact_short_form": "私はどうなるのでしょうか",
+      "literal_gloss": "What would that make me?",
+      "pragmatic_function": "Transforms Yunyun’s modest offer into a comparative adequacy worry.",
+      "independent_context_role_facts": "Yunyun’s high combat capacity is independently demonstratedC02.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Sparse turn, no full before/after individual-form trial.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V027",
+      "source": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 224,
+        "p_end": 224
+      },
+      "before_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 201,
+        "p_end": 223
+      },
+      "after_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 224,
+        "p_end": 250
+      },
+      "speaker": "Dust",
+      "addressee_or_audience": "Leen",
+      "exact_short_form": "見捨てて置いていくわけない",
+      "literal_gloss": "There is no way I would abandon you here.",
+      "pragmatic_function": "Reassures while actual carrying and later complaints preserve effort cost.",
+      "independent_context_role_facts": "Established impairment and Leen’s leave-me request223 precede it.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Does not establish respect for every expressed preference or cancel later instrumentalization.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V028",
+      "source": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 253,
+        "p_end": 253
+      },
+      "before_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 245,
+        "p_end": 252
+      },
+      "after_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 253,
+        "p_end": 262
+      },
+      "speaker": "Leen, Yunyun and Small in unison",
+      "addressee_or_audience": "Dust",
+      "exact_short_form": "あと五年",
+      "literal_gloss": "Five more years.",
+      "pragmatic_function": "Amplifies the familiar snooze formula into an absurd refusal to wake.",
+      "independent_context_role_facts": "Motivation-drained sleep is established before the exchange.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "H2 exaggerated utterance, not actual five-year duration or H4 fantasy physics.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V029",
+      "source": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 374,
+        "p_end": 374
+      },
+      "before_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 355,
+        "p_end": 373
+      },
+      "after_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 374,
+        "p_end": 380
+      },
+      "speaker": "Dust",
+      "addressee_or_audience": "Three armed opponents",
+      "exact_short_form": "武器を捨てな",
+      "literal_gloss": "Drop your weapons.",
+      "pragmatic_function": "A task-directed command is enforced by a feigned threat to an impaired ally.",
+      "independent_context_role_facts": "Outnumbering and actual hostage positioning365 precede it.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Protective tactical outcome is not moral innocence; Small did not freely agree.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V030",
+      "source": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 436,
+        "p_end": 436
+      },
+      "before_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 424,
+        "p_end": 435
+      },
+      "after_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 436,
+        "p_end": 449
+      },
+      "speaker": "Dust",
+      "addressee_or_audience": "Three bound opponents",
+      "exact_short_form": "縄を解いてやるから",
+      "literal_gloss": "I will untie you, so…",
+      "pragmatic_function": "Bargains concrete rescue transport when solo carrying is too slow.",
+      "independent_context_role_facts": "Collapse and physical capacity limit434 are explicit before the offer.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Actual agreement437 and execution449; does not certify criminals’ general reform.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V031",
+      "source": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 516,
+        "p_end": 516
+      },
+      "before_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 501,
+        "p_end": 515
+      },
+      "after_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 516,
+        "p_end": 525
+      },
+      "speaker": "Small succubus",
+      "addressee_or_audience": "Dust; describes bargain with three men",
+      "exact_short_form": "続きが見たいなら",
+      "literal_gloss": "If you want to see the rest.",
+      "pragmatic_function": "Reports controlled service access as an incentive to help.",
+      "independent_context_role_facts": "Men’s changed readiness513–514 and later rope work522 are observed.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Reported bargain plus actual cooperation, not completed dream reward; no limitless compliance.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V032",
+      "source": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 529,
+        "p_end": 529
+      },
+      "before_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 505,
+        "p_end": 528
+      },
+      "after_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 529,
+        "p_end": 531
+      },
+      "speaker": "Taylor",
+      "addressee_or_audience": "Party",
+      "exact_short_form": "あまり余裕はないぞ",
+      "literal_gloss": "I do not have much margin.",
+      "pragmatic_function": "Warns about a concrete endurance limit while actually protecting the casters.",
+      "independent_context_role_facts": "Shield block528 establishes the current task before the limit statement.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "No global inability: actual effective defense and bounded reserve coexist.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V033",
+      "source": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 542,
+        "p_end": 542
+      },
+      "before_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 532,
+        "p_end": 541
+      },
+      "after_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 542,
+        "p_end": 546
+      },
+      "speaker": "Dust",
+      "addressee_or_audience": "Leen",
+      "exact_short_form": "この槍に向かって撃て",
+      "literal_gloss": "Fire toward this spear.",
+      "pragmatic_function": "Hands off the next damaging action after penetration alone has not stopped the machine.",
+      "independent_context_role_facts": "Actual spear placement541 and continued resistance precede command.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Combined finish and actual blast injury, not a safe solo win or general engineering expertise.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V034",
+      "source": {
+        "unit": "Epi",
+        "member": "item/xhtml/p-008.xhtml",
+        "p_start": 19,
+        "p_end": 19
+      },
+      "before_window": {
+        "unit": "Epi",
+        "member": "item/xhtml/p-008.xhtml",
+        "p_start": 6,
+        "p_end": 18
+      },
+      "after_window": {
+        "unit": "Epi",
+        "member": "item/xhtml/p-008.xhtml",
+        "p_start": 19,
+        "p_end": 33
+      },
+      "speaker": "Kazuma",
+      "addressee_or_audience": "Guild crowd; Dust present",
+      "exact_short_form": "みんなダストの奢り",
+      "literal_gloss": "It is all on Dust.",
+      "pragmatic_function": "Publicly commits someone else’s funds before agreement; later qualified consent is separate.",
+      "independent_context_role_facts": "Actual bounty precedes the announcement; Dust protests24.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Root source score unchanged; no assumption initial silence is assent.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    },
+    {
+      "id": "DUST02-V035",
+      "source": {
+        "unit": "Epi",
+        "member": "item/xhtml/p-008.xhtml",
+        "p_start": 57,
+        "p_end": 57
+      },
+      "before_window": {
+        "unit": "Epi",
+        "member": "item/xhtml/p-008.xhtml",
+        "p_start": 43,
+        "p_end": 56
+      },
+      "after_window": {
+        "unit": "Epi",
+        "member": "item/xhtml/p-008.xhtml",
+        "p_start": 57,
+        "p_end": 67
+      },
+      "speaker": "Leen",
+      "addressee_or_audience": "Dust",
+      "exact_short_form": "悩みがあるなら話しなさい",
+      "literal_gloss": "If something troubles you, tell us.",
+      "pragmatic_function": "Invokes companionship to invite disclosure; his actual start is then interrupted by sleep.",
+      "independent_context_role_facts": "Serious hidden-past question50 and his evasion precede the invitation.",
+      "eligibility": "Eligible as a source-located retrospective voice illustration. No formal J01/paired forecast outcome assigned.",
+      "adequacy_missingness_and_uncertainty": "Drunk state and sleep are material; secret contents and reciprocal romance remain unknown.",
+      "actual_form_selection_timing": "POST complete uncoded full-pass seal; purposive presentation, not a newly claimed prospective discovery",
+      "no_acoustic_claim": true,
+      "material_style_and_ruby": "Native base/ruby/styles were read; this public record quotes only the short base anchor. Private full windows are not embedded.",
+      "mixed_function_guard": "Multiple pragmatic functions may coexist; this illustration does not force a categorical before/after transition or treat the absence of polite morphology as failure."
+    }
+  ],
+  "root_adoption": {
+    "receiving_utc": "2026-10-18T01:34:31.692041+00:00",
+    "original_record_and_reading_history_preserved": true,
+    "current_receiving": "KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json",
+    "original_whole_file": {
+      "bytes": 58674,
+      "sha256": "3b96af92cd6ed3c8ace8e86f09191ba3e1186cbca00ac3f60d5c0a8c56f82c17"
+    }
+  }
+}

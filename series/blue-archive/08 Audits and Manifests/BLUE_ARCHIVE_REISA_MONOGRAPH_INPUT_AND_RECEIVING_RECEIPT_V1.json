@@ -1,0 +1,1943 @@
+{
+  "schema": "BLUE_ARCHIVE_REISA_MONOGRAPH_PUBLIC_INPUT_AND_RECEIVING_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE_INSTALLATION_PENDING",
+  "subject": "Reisa",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_REISA_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This preparation has no persistence or publication effect before complete ROOT installation. ROOT must verify the successful actual exact-head source/housekeeping/final chain for cf2fba61c9e8448acdd2677f06d5258c051a6ba4, complete the final whole candidate receiving, and install all final declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The complete original payload is immutable. Its pending, C-only, historical counts and audit statuses describe its creation-time custody event, not current adoption. Current ROOT acceptance is qualified explicitly here. Current scope remains355/29; no new source, primary, performance, model, independent literary or count credit follows from transport.",
+  "original_exact_tuple": {
+    "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/REISA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+    "bytes": 27487,
+    "sha256": "2aaa68e8336532785f15caff31ed789f08aba39ed5416359a131d3bfafcc8124",
+    "git_blob_oid_of_actual_bytes": "a2cf8cdefeed80dea2a3e1127feaea6e6829397b",
+    "lines": 555,
+    "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/REISA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+  },
+  "public_reference_translation": "Full original fields and strings survive with declared reference translation only; public provenance labels do not serve files or admit material. Original byte tuples remain original witnesses and are not claimed as derivative tuples.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "Author and ROOT complete/bounded meanings remain attributed to actual scopes. Mechanical transport adds no literary receiving."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "REISA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1",
+    "status": "AUTHOR_SOURCE_SCOPE_COMPLETE_ROOT_REVIEW_PENDING",
+    "package": "P3-CHAR-REISA-CH0167",
+    "typed_family": "P3-F056",
+    "dated_route": "P3-A046",
+    "person_key": "BA_PERSON_CH0167",
+    "full_name_jp": "宇沢レイサ",
+    "variants": [
+      10068,
+      20051
+    ],
+    "costume_contexts": [
+      "1900913301:character:10068",
+      "1900945101:character:20051"
+    ],
+    "body": {
+      "file": "BLUE_ARCHIVE_REISA_CHARACTER_MONOGRAPH.md",
+      "byte_count": 51470,
+      "line_count": 160,
+      "sha256": "81ffe1fde98b4bd6922d255feeeffc72144067ce55b68971a7f57383e5a021e6",
+      "actual_byte_blob_oid": "cfac1011469a3511436dfe13335ff03f07c4f31b"
+    },
+    "proposed_canonical_home": "series/blue-archive/04 Specialist Syntheses/CHARACTERS/BLUE_ARCHIVE_REISA_CHARACTER_MONOGRAPH.md",
+    "source_snapshot": "5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+    "analytical_main_comparand": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+    "architecture": "1.12/method1.10; main1.11 differs with unchanged11requirements; mutableprogress excluded",
+    "inputs": [
+      {
+        "source_id": "A01",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "byte_count": 52261,
+        "line_count": 851,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "actual_byte_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+        "author_receiving_scope": "Architecture1.12 required11 section meanings personally received previously fb4f2f L322–344; unchanged1.12, no full851line fresh claim",
+        "current_5f_source_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": false,
+          "historical_tuple": {
+            "byte_count": 51287,
+            "line_count": 849,
+            "sha256": "e5e0c9794fdb9664a61110eb002afc75011b75e49ab5965ad8808231455cd7cd",
+            "actual_byte_blob_oid": "685661b716fd0032997883efeb294425b0816c18"
+          }
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "A02",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+        "byte_count": 53414,
+        "line_count": 840,
+        "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+        "actual_byte_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+        "author_receiving_scope": "Method1.10 qualified prior required method receiving; no new full-file literary credit",
+        "current_5f_source_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true,
+          "tuple_reference": "THIS_CURRENT_INPUT"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "A03",
+        "repository_relative_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+        "byte_count": 79178,
+        "line_count": 354,
+        "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+        "actual_byte_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+        "author_receiving_scope": "Full literal original fourteen stable names personally received443d3e L25–45; allOPEN effects individually reasoned",
+        "current_5f_source_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true,
+          "tuple_reference": "THIS_CURRENT_INPUT"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "A04",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+        "byte_count": 19463,
+        "line_count": 113,
+        "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+        "actual_byte_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+        "author_receiving_scope": "Complete prior Cycle008 current control receiving and current S04/V/E10/E11N/E12 adoption wrappers personally received; supersedes old producer intake without original credit",
+        "current_5f_source_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true,
+          "tuple_reference": "THIS_CURRENT_INPUT"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "C05",
+        "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "byte_count": 461112,
+        "line_count": 6514,
+        "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+        "actual_byte_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1",
+        "author_receiving_scope": "Only three selected required homes Suzumi/Reisa/Shimiko personally received55140d; technical whole-byte binding not whole355 literary receiving",
+        "current_5f_source_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1",
+        "main2e_comparison": {
+          "present": false,
+          "meaning": "Later Phase3 control; no main2e source authority implied"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "C06",
+        "repository_relative_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+        "byte_count": 21833,
+        "line_count": 289,
+        "sha256": "2350c273cc06f2d86273b177b299521d96da7ee108c8a8368d4d652487483454",
+        "actual_byte_blob_oid": "195739a98c7b439b48bfd8e973282e941a45d8e1",
+        "author_receiving_scope": "Accepted355/29scope only; allocation not author/ROOTcompletion; no new denominator or quarter",
+        "current_5f_source_blob_oid": "195739a98c7b439b48bfd8e973282e941a45d8e1",
+        "main2e_comparison": {
+          "present": false,
+          "meaning": "Later Phase3 control; no main2e source authority implied"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "P",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 98719,
+        "line_count": 592,
+        "sha256": "a5ca5b6efb5eaa6e641d2c03a6dad456042e7ea8653238ad08e2af27bd4a2b3a",
+        "actual_byte_blob_oid": "0814d04e2bc8976c9fe5427ab5ff5846924215e8",
+        "author_receiving_scope": "Fresh040daa287–378/154270379–458 supplies complete Reisa eight paired bond/whole-message meanings and four written objects413–457, with7ee0e2545–592EOFclosingcontrols. Suzumi peermeaning also whole at that scope; earlier TrinityV2 whole relevant287–592 remains qualified. No freshIchika459–544 or592-line wholefile claim, no original20privateprimary/bodycredit.",
+        "current_5f_source_blob_oid": "0814d04e2bc8976c9fe5427ab5ff5846924215e8",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true,
+          "tuple_reference": "THIS_CURRENT_INPUT"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "V",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 38628,
+        "line_count": 195,
+        "sha256": "61e628dab0ac127c946e0101225a89d1d7808a27b0f540d5d7a03fc76c36072c",
+        "actual_byte_blob_oid": "38ec4671a63ffd51f0f92b9cfd4dad0517a304e5",
+        "author_receiving_scope": "Fresh4acd4438–114/dd75d4115–195EOFcomplete currentqualification and all17 consequential literary meanings/endings, reusedunchangedSuzumi receiving. No17newprimary/allindividualproducerbodycredit.",
+        "current_5f_source_blob_oid": "38ec4671a63ffd51f0f92b9cfd4dad0517a304e5",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true,
+          "tuple_reference": "THIS_CURRENT_INPUT"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "K",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 29090,
+        "line_count": 180,
+        "sha256": "da051efeb6be56edf1a979c9941b56a117254ed06f1a608c142f702b53888e6d",
+        "actual_byte_blob_oid": "3905b8d17b9fb33db30485c3525fe20451af51e5",
+        "author_receiving_scope": "Fresh complete analytical owner1–95d53fe7/96–180fba4ecEOF; prior bc33bd/b8a5e5 qualified remains. All17 accepted normal meanings and local source-mode/actor/end limits; no fresh17primary orindividualbodycredit.",
+        "current_5f_source_blob_oid": "3905b8d17b9fb33db30485c3525fe20451af51e5",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true,
+          "tuple_reference": "THIS_CURRENT_INPUT"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "A",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 53227,
+        "line_count": 306,
+        "sha256": "221e1398809a988693956548309259d18da8014cdbf69bcd8aac86b49cf30550",
+        "actual_byte_blob_oid": "d751bb3102093e6afaff1c875126b0378b41a537",
+        "author_receiving_scope": "Fresh entire owner1–1057fd155/106–1851e8428/186–2455780a4/246–306e2910cEOF. Complete47 analytical meanings/alternativeendings; secureReisa020 hospitality,012 unnamedaccusernotjoined. Current68–70 supersedes75historicalproducer pending. No47newprimary/individualproducerbodycredit.",
+        "current_5f_source_blob_oid": "d751bb3102093e6afaff1c875126b0378b41a537",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true,
+          "tuple_reference": "THIS_CURRENT_INPUT"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "J",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 53866,
+        "line_count": 268,
+        "sha256": "ab779ae688f8ced967127a810180613f39b5fc23fd15976bcd2ee3cd0b863ab0",
+        "actual_byte_blob_oid": "44f05d6979aa11562bb7d548664ae24aefe53a8f",
+        "author_receiving_scope": "Current authority49–7513b267; complete normal098meaning169–183c2027c; consequentialclosing213–268d5a920EOF. Initial695b6f was boundedliteralnavigation, not wholemeaningcredit. No whole38-object owner orall historicrole-body claim. Current59–61 qualifies historical66pending. Source098giftpositive recovered, no global810absence.",
+        "current_5f_source_blob_oid": "44f05d6979aa11562bb7d548664ae24aefe53a8f",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true,
+          "tuple_reference": "THIS_CURRENT_INPUT"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "L98",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_834/REVIEW_DRAFT_20261007_EPISODE_098/ROOT/EVENT834098_FINAL_D01_R01_COMPLETE_INTEGRATOR_REVIEW_V1.md",
+        "byte_count": 12871,
+        "line_count": 89,
+        "sha256": "883f0cdb0947f5057be19e8b286717482e8dbfb5ee595ec704a1e5b7b3f333f2",
+        "actual_byte_blob_oid": "71d84f0a541072fc82f5f860f45014ca8313ef93",
+        "author_receiving_scope": "Freshf2548awhole1–89EOF complete accepted historical integrator argument under currentJ/Cycle008. Native/raw/inverse/originalindividualauthor/independentbodycontrol assertions remain attributed, not freshly inspected orrerun. JP/KR predicate and unknownopening, selectedoption andsolitude limits retained; no newprimarycredit.",
+        "current_5f_source_blob_oid": "71d84f0a541072fc82f5f860f45014ca8313ef93",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true,
+          "tuple_reference": "THIS_CURRENT_INPUT"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      }
+    ],
+    "historical_C_inputs": [
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_INPUT_RECEIPTS_V2.json",
+        "byte_count": 26656,
+        "line_count": 665,
+        "sha256": "d8bb1889cd4a6804e155c8ce8fb5b29e81e7c7bbe12eac810d0f9640aaa7c942",
+        "actual_byte_blob_oid": "268ea4aea07800b844198ade4ab9aeffcf0232d6",
+        "meaning": "Declared prior bounded analytical receiving or eligibility control; no author/ROOT primary credit transfer; historical pending banners preserved"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_DECISION_REGISTER_V2.json",
+        "byte_count": 94478,
+        "line_count": 1943,
+        "sha256": "6f8607abe964b0032bda888a6d3b9f37b374a5aba8d953eca83d7f485627b6d4",
+        "actual_byte_blob_oid": "9643a0a29ebf143f506f3410bb6e55aed3666e02",
+        "meaning": "Declared prior bounded analytical receiving or eligibility control; no author/ROOT primary credit transfer; historical pending banners preserved"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/ROOT_TRINITY_V2_COMPLETE_RECEIVING_AND_EXACT_VERIFICATION.json",
+        "byte_count": 19185,
+        "line_count": 577,
+        "sha256": "e2be87c377790b9e29fb7d0bf892ffa9856341e9f2f443b10201783207af1aff",
+        "actual_byte_blob_oid": "90a608f87dfdbc6c7d12ccc8532ca3ca4f73b499",
+        "meaning": "Declared prior bounded analytical receiving or eligibility control; no author/ROOT primary credit transfer; historical pending banners preserved"
+      }
+    ],
+    "prior_frozen_payloads_preserved": [
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/BLUE_ARCHIVE_UTAHA_CHARACTER_MONOGRAPH.md",
+        "byte_count": 50384,
+        "line_count": 154,
+        "sha256": "7345567930a555f7f9152b6f1f25d40f17ac03720a1065f0c19ba8d09184cb05",
+        "actual_byte_blob_oid": "069e67eea0c5332679383e11cd4ce089a6488ad7"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/UTAHA_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 8028,
+        "line_count": 193,
+        "sha256": "3f7b403ba76b4de5bb79ff30bcf904650b5b1aae3cc4a808036cffc58bea0d7e",
+        "actual_byte_blob_oid": "c1497a2374f73ce0287d0e8509e4e55304c139ff"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/UTAHA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 42473,
+        "line_count": 1023,
+        "sha256": "821768e525f4b6c63acf64208be7e031a94ff6ec34c2d789d0782fe379be3acd",
+        "actual_byte_blob_oid": "d00a93c3cb03fb34c28c5115bda283c1ed3882ce"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/UTAHA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 2332,
+        "line_count": 67,
+        "sha256": "89498c5b29248d994d5ed8b23f84242c5e1049afb1bee64f5ba40567889c3681",
+        "actual_byte_blob_oid": "f20e8acb4f86219bc99ce39a97bb381b07f68452"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/UTAHA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 92196,
+        "line_count": 1668,
+        "sha256": "1445d750de0d9f4bdba9b52e0e7330ea37ad897a1d7fe1549406eb7db47d64b7",
+        "actual_byte_blob_oid": "741ca8130aa9ff9be47b29791afcb59a27e23369"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/BLUE_ARCHIVE_HIBIKI_CHARACTER_MONOGRAPH.md",
+        "byte_count": 52132,
+        "line_count": 160,
+        "sha256": "b5e924e7e4a67cde5454c8e3e0e256c37aa90556902acadf0c8ce3dee32a492a",
+        "actual_byte_blob_oid": "4acf0ec5752c70a3697ad8f086fdc4fd0e3d096d"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 8525,
+        "line_count": 190,
+        "sha256": "104e47aceb6e4a9a6eac628764367903cccfa5d787477fd508d9e6a3b214bcae",
+        "actual_byte_blob_oid": "0457eb8709ed87ba62c60cb0ae030054039bf1a7"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 51519,
+        "line_count": 1163,
+        "sha256": "1e8402d124304fa6efb6a9743a55480cf31bf6afc5d25493476abcb43ecb4c26",
+        "actual_byte_blob_oid": "19601edb504649d9432490eb541d4580f6df9c5d"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 2319,
+        "line_count": 67,
+        "sha256": "7f88419113a4c70fbdf61ecd480d99a600ecd9af5162dc9bb42d9c24e9975466",
+        "actual_byte_blob_oid": "d0b03c0c9871898dfa6740a7cf9bf7736a42f2f8"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 85340,
+        "line_count": 1584,
+        "sha256": "d2c57833a6964ff79163124cdb67f160ed5fa5e896509adf83e3347fdb0bb1eb",
+        "actual_byte_blob_oid": "d36074b9eb73cbeadb8950f146d8db45af7017a5"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md",
+        "byte_count": 58396,
+        "line_count": 151,
+        "sha256": "6a151ab4e7d74addd9a61e337811bc2d73d7662ff808d5f1fc4c1d1edf3375e0",
+        "actual_byte_blob_oid": "ee6ff7156dc2539bd46632495315e8508f44f78e"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 11711,
+        "line_count": 232,
+        "sha256": "cb5e465ea708da2dcc71757c80f2e5dc618381edb0de00169cac0d00e6db5e1f",
+        "actual_byte_blob_oid": "bd907a85be283f7bc5963c8581216bc9708eb898"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 49355,
+        "line_count": 1088,
+        "sha256": "51de4cef1a3dd3b662267dc3d8a333708be34392760f75d078bbb272952431b9",
+        "actual_byte_blob_oid": "4639bdad7267779d6fb98dd9026e55435b5369fb"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 2406,
+        "line_count": 67,
+        "sha256": "e5e7e4d8b05f629b35d66971178fb488bd016d547ea49f1b339d947e85de9e38",
+        "actual_byte_blob_oid": "1b8e66309744135888d8d8f54f114913417358e4"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 110593,
+        "line_count": 1932,
+        "sha256": "b90b32cdf8dc31a2be5d7969fa0490fdfa87d73a5fa9f766e99bfdefcc3296bd",
+        "actual_byte_blob_oid": "5c8297acdca2d0bfb333e3b1b917ef07ba872ccd"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/BLUE_ARCHIVE_SUZUMI_CHARACTER_MONOGRAPH.md",
+        "byte_count": 56964,
+        "line_count": 169,
+        "sha256": "454b63fa52c1efa31f9bd209603dc14b447f40ee69045d41ca7394e0be0ccc82",
+        "actual_byte_blob_oid": "c906897b3ecd4fbb75f015851435cf07c320344c"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SUZUMI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 6730,
+        "line_count": 185,
+        "sha256": "83d2d0a1bca7f9b28726ed9745da4313e393f19b436b1e148174c88e84843415",
+        "actual_byte_blob_oid": "85dfc29271ea8eea5cd84613dcebc659e350e8d6"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SUZUMI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 119246,
+        "line_count": 1165,
+        "sha256": "395916434ef9f8c638e79779a8511b314f6800845a25c0c02d6d601460acc532",
+        "actual_byte_blob_oid": "cddef9e0e83f4669c46f192f99b1264b88e0b667"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SUZUMI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 32782,
+        "line_count": 508,
+        "sha256": "bde20d1e088ed11942560642800f981026fdde52b6695fd6ec907d28e890bcac",
+        "actual_byte_blob_oid": "5977499d3684e4581d4e18772f3b7e3f682dd166"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SUZUMI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 29682,
+        "line_count": 611,
+        "sha256": "08824d42739b9edb6b4072597671590bcfc6611d05ce1b370b6bc8e2b3aa7041",
+        "actual_byte_blob_oid": "b099c40c789b1a2cf5514d4485b2ef8ea40200ae"
+      }
+    ],
+    "bounded_new_source_recovery": "Eight exact-bound admitted mechanicalheader shards b8549e located834098butno810route; metadataquery attributed to reconciliationagent,notprimary/narrativecredit. NecessarycurrentJauthority/scoped098+completeL98 receivedpersonallybeforefreeze; no globalgiftabsence.",
+    "source_custody": "Complete accepted normal private/public meanings and explicit smallgiftrecovery; primary/raw/native/control/inverse assertionsremain attributed, no freshoriginalindividualauthor orindependentbodycredit.",
+    "all_fourteen_OPEN": [
+      {
+        "stable_gap_and_literal_name": "G01 — Ordinary and private breadth",
+        "state": "OPEN",
+        "specific_effect": "OPEN: the whole selected play, rest, tour, fandom and care repertoire is intrinsic evidence; other required characters and all unreceived Reisa contexts are not completed here."
+      },
+      {
+        "stable_gap_and_literal_name": "G02 — Yuuka council/club decision transfer",
+        "state": "OPEN",
+        "specific_effect": "OPEN: informal Vigilance and Sweets hospitality do not supply Yuuka's unseen decision-transfer evidence."
+      },
+      {
+        "stable_gap_and_literal_name": "G03 — Serika service, peer and reciprocity range",
+        "state": "OPEN",
+        "specific_effect": "OPEN: Reisa's achieved tour and practical aid cannot reconstruct Serika's independent service/receiver breadth."
+      },
+      {
+        "stable_gap_and_literal_name": "G04 — Hina crisis causality, accountability and ordinary contrast",
+        "state": "OPEN",
+        "specific_effect": "OPEN: local tactical results and peer pressure here do not settle Hina's distinct causes or accountability."
+      },
+      {
+        "stable_gap_and_literal_name": "G05 — Arius and PS68 ordinary/aftermath transfer",
+        "state": "OPEN",
+        "specific_effect": "OPEN: patrol, park and Sweets comparisons are not evidence of Arius/PS68 safety, employment or social repair."
+      },
+      {
+        "stable_gap_and_literal_name": "G06 — Cross-school ordinary repertoire",
+        "state": "OPEN",
+        "specific_effect": "OPEN: the actual Trinity peers, audience and local shop recipients retain their own wants; all-school lives remain separately required."
+      },
+      {
+        "stable_gap_and_literal_name": "G07 — Story-world chronology",
+        "state": "OPEN",
+        "specific_effect": "OPEN: local recalls, event flashbacks and countdowns are received, but variants, releases, holidays and branch contexts provide no universal calendar or MAIN ordering."
+      },
+      {
+        "stable_gap_and_literal_name": "G08 — Event naming and repeat contexts",
+        "state": "OPEN",
+        "specific_effect": "OPEN:816 attested closing wording does not repair a null metadata title; repeated costume/card contexts do not become extra historical events."
+      },
+      {
+        "stable_gap_and_literal_name": "G09 — Written speaker/choice attribution",
+        "state": "OPEN",
+        "specific_effect": "OPEN: private citizen/compliment/drone seams and816/834/836/851 unstable or unknown labels remain literal; later named Reisa does not repair836012's accuser or834098's opening narration."
+      },
+      {
+        "stable_gap_and_literal_name": "G10 — Performed voice",
+        "state": "OPEN",
+        "specific_effect": "OPEN: Japanese written rhetoric, Korean logs, image placeholders and performance descriptions supply no received acting, sound, gesture or AV."
+      },
+      {
+        "stable_gap_and_literal_name": "G11 — Hoshino's Yume record and office states",
+        "state": "OPEN",
+        "specific_effect": "OPEN: no death record, authentication or office continuity is supplied by this character's patrol or ordinary comparisons."
+      },
+      {
+        "stable_gap_and_literal_name": "G12 — Counterpart, system and variant identity",
+        "state": "OPEN",
+        "specific_effect": "OPEN: literalCH0167 variants/costumes are retained; fictional roles, unknown people and source repetition do not prove broad continuity or new persons."
+      },
+      {
+        "stable_gap_and_literal_name": "G13 — Office, contract, safety and technical outcomes",
+        "state": "OPEN",
+        "specific_effect": "OPEN: no force mandate, clinical fracture/injury clearance, completed jacket return, independent dressing, restored bounty, material permission or enacted ordinance is shown beyond exact local stages;834098 shared eating/reading is actual but solitude, full letter and particular taste remain unverified."
+      },
+      {
+        "stable_gap_and_literal_name": "G14 — Unclassified/mode continuity",
+        "state": "OPEN",
+        "specific_effect": "OPEN: contact reports, inward lines, conditional scripts, choices, fictional roles, profile and public reception stay distinct; no universal consent, continuous biography or institutional closure follows."
+      }
+    ],
+    "ROOT_acceptance": "PENDING",
+    "canonical_adoption": "PENDING",
+    "unbound_large": "AllnineUNBOUNDunread/unhashed",
+    "source_count_is_completion": false
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "complete_author_attachments": [
+    {
+      "name": "REISA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "original_exact_tuple": {
+        "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/REISA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "bytes": 66516,
+        "sha256": "3d86a3b77764f0cb816e51762f8b1fca44797987a2bc85252502fd5d9e9589b7",
+        "git_blob_oid_of_actual_bytes": "c2ea2929bd215c008bc63e55e23454d799dcfbdb",
+        "lines": 1111,
+        "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/REISA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+      },
+      "complete_original_payload": {
+        "schema": "REISA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1",
+        "status": "AUTHOR_ARGUMENT_ROOT_REVIEW_PENDING",
+        "body": {
+          "file": "BLUE_ARCHIVE_REISA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 51470,
+          "line_count": 160,
+          "sha256": "81ffe1fde98b4bd6922d255feeeffc72144067ce55b68971a7f57383e5a021e6",
+          "actual_byte_blob_oid": "cfac1011469a3511436dfe13335ff03f07c4f31b"
+        },
+        "saved_paragraph_joins": [
+          {
+            "saved_paragraph_line": 21,
+            "saved_paragraph_sha256": "9e07f15ee8c41dac0736bf303eafe8b791bcee1c227c0c05abcc576bf69327e1",
+            "claim_identifying_projection": "宇沢レイサ is retained under the literal source identity BA_PERSON_CH0167 and its variants10068/20051.",
+            "citations": [
+              {
+                "label": "P:identity and selection, L308–363",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "Required home",
+                "relative_target": "../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+                "resolved_repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 25,
+            "saved_paragraph_sha256": "7eca1d639f695ac4da09122d64f3f35a6618f79b5e317de45971b297d104ce41",
+            "claim_identifying_projection": "Reisa tries to make a place for herself through heroic activity, named rivalry and carefully prepared company.",
+            "citations": [
+              {
+                "label": "P:friendship, gratitude, sunrise and fandom, L413–457",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 27,
+            "saved_paragraph_sha256": "f7b587bb6c1cda669d9c0ebc8f61d4ece6222613891c37db6cb331e6891c8f0c",
+            "claim_identifying_projection": "The public Kazusa relation is a serious contrary case.",
+            "citations": [
+              {
+                "label": "K:complete literary result and mechanisms, L109–115/123–140",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "A:E020, L201",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 29,
+            "saved_paragraph_sha256": "cdd5b9dd444408431e30b8a60f75319446dfe3607533e5ac274c5eafe6fa0da6",
+            "claim_identifying_projection": "Reisa's private episodes make a positive distinction between usefulness and being wanted.",
+            "citations": [
+              {
+                "label": "P:10068E003/E005;20051E003, L419–425/437–439",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 33,
+            "saved_paragraph_sha256": "390ac4aaf246ed256cc9b9f200631db65f3321dfa4622da32bbf3d5404e5ebab",
+            "claim_identifying_projection": "The base private sequence offers several connected problems without furnishing an absolute calendar.",
+            "citations": [
+              {
+                "label": "P:10068E002 and whole thread100680010, L415–417",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 35,
+            "saved_paragraph_sha256": "453b5b2dd97df6f0e43fe9a7b5a55ddff2a5301965c38e68e2379a64164989a7",
+            "claim_identifying_projection": "The next friendship/rest encounter preserves two equally wanted activities.",
+            "citations": [
+              {
+                "label": "P:10068E003/whole thread100680170, L419–421",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 37,
+            "saved_paragraph_sha256": "d8d99edad375508c883493dec774e0c34f633bd7d54112cfa15fb6f282bbd9e5",
+            "claim_identifying_projection": "Her gratitude day then puts wanted reciprocity into action.",
+            "citations": [
+              {
+                "label": "P:10068E005/whole thread100680300, L423–425",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 39,
+            "saved_paragraph_sha256": "dbc01d1fe645c61fa4b12403de6283d571e9491d674dcf07ca846334a2a0e028",
+            "claim_identifying_projection": "The dawn patrol offers another distinct ending.",
+            "citations": [
+              {
+                "label": "P:10068E006/whole thread100680360, L427–429",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 41,
+            "saved_paragraph_sha256": "24561fb46f2a782a3a2f35f10d4e983cc1dd8480e8a1bda7312026234d43cf69",
+            "claim_identifying_projection": "The20051 stories are varied continuities, not automatic higher rungs.",
+            "citations": [
+              {
+                "label": "P:20051E002–006/whole threads200510010/240/540/710, L433–447",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 43,
+            "saved_paragraph_sha256": "17523db208dfff76c6d8e92fbcad14a5ccf0e55cec8d45a584bdb8330217f817",
+            "claim_identifying_projection": "Event816 gives a locally ordered schema revision, protective withdrawal, rescue and renewed challenge.",
+            "citations": [
+              {
+                "label": "K:local chronology, L58–72",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "A:chronology/branches, L235–247",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "V:local order, L167",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 47,
+            "saved_paragraph_sha256": "440ace89564d504143587fd5f988c190cd2a3ef42d7fa4fdc71a6904d059a90f",
+            "claim_identifying_projection": "The separately located834098 gift has a complete local sequence without a calendar bridge.",
+            "citations": [
+              {
+                "label": "J:098u0003–0031/current L177/223/227",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 49,
+            "saved_paragraph_sha256": "2fa1cc8cdca4ce99e4a48550f3fe6d36d30909033ef2626d46ade9316751e700",
+            "claim_identifying_projection": "Heroic naming is a way to act and a way to remain connected.",
+            "citations": [
+              {
+                "label": "K:Reisa choices, direction and register, L111/123–127/139",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 51,
+            "saved_paragraph_sha256": "3fdcb3b74f0eb3d5ac65e67708e769b8098e3b3efbe000ca4177c1e31fb2ecf6",
+            "claim_identifying_projection": "The contact episode refuses a universal-outcast explanation.",
+            "citations": [
+              {
+                "label": "P:10068E002/E003, L415–421",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 53,
+            "saved_paragraph_sha256": "5489c4bfc1355ba63ab3f0868b69af21b890676fda3ffcbb877635c95a7b22c3",
+            "claim_identifying_projection": "Her costume enthusiasm is publicly knowledgeable and privately self-conscious.",
+            "citations": [
+              {
+                "label": "P:20051E002/E003/E005 and written fandom, L433–455",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "V:E004/E005 and peer comparison, L119–121/155",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 55,
+            "saved_paragraph_sha256": "1af84de844c4f8bb7a76461ca3e4c0ca25dad8870d86150be3ae76a04f515206",
+            "claim_identifying_projection": "The public caring face is not wholly pretended.",
+            "citations": [
+              {
+                "label": "V:E008/E014, L127/141",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "A:E020, L201/266",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 59,
+            "saved_paragraph_sha256": "c6a127ab8a997f56362f449838333e33e6e3a612486327b0d494778171d6323a",
+            "claim_identifying_projection": "Trinity gives Reisa school, peers and institutions, but nonofficial Vigilance must retain its stated character.",
+            "citations": [
+              {
+                "label": "K:institutional testimony, L125",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "P:Reisa rest and written duty, L419–421/449–455",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 61,
+            "saved_paragraph_sha256": "e01649870f68dfc6f9fb72eb015fb5edd68a94e10da748b7613e7333b4b6ec4b",
+            "claim_identifying_projection": "The Sweets Club's welcome demonstrates another form of belonging.",
+            "citations": [
+              {
+                "label": "A:E020u0003–0024, L201/266–268",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 63,
+            "saved_paragraph_sha256": "625c7eedf43a13822a31cfc6cf553cefe2de5b06aa45874a98ab6e889e950cf4",
+            "claim_identifying_projection": "Event851 distributes authority rather than letting heroic enthusiasm settle it.",
+            "citations": [
+              {
+                "label": "V:E003/E006/E007/E013/E014, L117/123–125/137–143",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 65,
+            "saved_paragraph_sha256": "7f733afaf11e7f0aaa4584ea1ab67991a45067683d77373003bf1f8609399d5b",
+            "claim_identifying_projection": "The period with a theme-park costume has its own duties and conditional contexts.",
+            "citations": [
+              {
+                "label": "P:four written objects and repeat/mode controls, L449–457/565–571",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 69,
+            "saved_paragraph_sha256": "7967188f6c9b8e9c0ddbff861a7977171dd33e2702c3bbfbc1320958e13bd63d",
+            "claim_identifying_projection": "The gratitude tour supplies a detailed wanted geography.",
+            "citations": [
+              {
+                "label": "P:10068E005, L423–425",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 71,
+            "saved_paragraph_sha256": "9d0ca0c7f677322fcb0f1dd9c61cd1fc5526198afca5e9d4fa6307e74880f5fb",
+            "claim_identifying_projection": "The sunrise sequence similarly joins beauty and vulnerability.",
+            "citations": [
+              {
+                "label": "P:10068E006/whole tail, L427–429",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 73,
+            "saved_paragraph_sha256": "f5ca5291085a055fb647c88bd2fec4d75346da3272665ae03ab2787a0b9743e2",
+            "claim_identifying_projection": "Fandom is skilled ordinary pleasure with its own material constraints.",
+            "citations": [
+              {
+                "label": "P:20051E002/E003 and written costume, L433–439/455–457",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "V:E004/E014, L119/141",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 75,
+            "saved_paragraph_sha256": "4daadc932913fa460bd435a1f6ae33c75cb8e24c21606daa911aa0bc23417c93",
+            "claim_identifying_projection": "Clothes are chosen, available and troublesome in different situations.",
+            "citations": [
+              {
+                "label": "P:20051E002/E005/E006 and complete message tails, L433–447",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 77,
+            "saved_paragraph_sha256": "3f19eeb760a990b0ea8406c07718e137d676ab1facb9b307281cb46232af865c",
+            "claim_identifying_projection": "The private written baseline retains hobbies, birthday greetings, rest, crowds and inactivity.",
+            "citations": [
+              {
+                "label": "P:written10068/20051 and costume contexts, L449–457/563–571",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 81,
+            "saved_paragraph_sha256": "35ab7b276b71871c10e0a343df482502874fdc60f6a806c35a203ec62902ead0",
+            "claim_identifying_projection": "The gift also supplies ordinary labor without a hierarchy of worthy evidence.",
+            "citations": [
+              {
+                "label": "J:098u0004–0031, L177/227",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 83,
+            "saved_paragraph_sha256": "dc67dd2fda351adeed5e7eb597eb2c43a3bf122650f9a44f445ce27e51f3dd05",
+            "claim_identifying_projection": "Reisa's816 protective withdrawal is a concrete revision.",
+            "citations": [
+              {
+                "label": "K:Reisa mechanism and contrary ending, L111–115/124/126/139",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 85,
+            "saved_paragraph_sha256": "e29ef0acac00411f9f4d6d3bc72e036839644e8fa1624a4d2731c8dec1489db5",
+            "claim_identifying_projection": "Useful private assistance has specific receivers and endpoints.",
+            "citations": [
+              {
+                "label": "P:20051E005/E006, L441–447",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 87,
+            "saved_paragraph_sha256": "c5afbbd146ffb03a739217c1e17429aabc59709fb0c673a772af91a12eeb1af1",
+            "claim_identifying_projection": "Event851 tests the heroine performance against a real adversary.",
+            "citations": [
+              {
+                "label": "V:E006/E007, L123–125/157–159",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 89,
+            "saved_paragraph_sha256": "5a1663f93e8ec8e8ee2b8b12eeca2b6a17db1715e32388c47fceda02f2a3ac7a",
+            "claim_identifying_projection": "The later mistaken capture also preserves other claims.",
+            "citations": [
+              {
+                "label": "V:E009–012 and attribution, L129–135/165",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 91,
+            "saved_paragraph_sha256": "6d68b8d534273015b6e2b40b75222ea84100e5274779491fe9ab3504bdb95337",
+            "claim_identifying_projection": "The joint final finish is real without completing all consequences.",
+            "citations": [
+              {
+                "label": "V:E012–016 and final limits, L135–147/157–159",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 95,
+            "saved_paragraph_sha256": "f24978e2f793e69bd0ec70c7bc412c7dbb55c49ce11fbae18ff36ca2cc33e35c",
+            "claim_identifying_projection": "The adult offers specific useful attention, but Reisa's agency cannot be reduced to its effect.",
+            "citations": [
+              {
+                "label": "P:10068E002–006, L415–429",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 97,
+            "saved_paragraph_sha256": "16107ccfc7f256609ade3be6dc41693a21ecbb94c91bcd530fbfe9f73ca4711e",
+            "claim_identifying_projection": "The gratitude episode is especially important because assistance need not make the recipient indebted to produce closeness.",
+            "citations": [
+              {
+                "label": "P:10068E005, L423–425",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 99,
+            "saved_paragraph_sha256": "3d6ae3cce4705a54352ea5d606ab58aa65712a98aa09c53d3c3ad6fca9d90479",
+            "claim_identifying_projection": "Costume help has finite scope.",
+            "citations": [
+              {
+                "label": "P:20051E002/E003/E006, L433–439/445–447",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 101,
+            "saved_paragraph_sha256": "4e8cda9eaf91286a6359d3a1d6d0ce6146ee4e0783c0ac45e640be514a8d51b6",
+            "claim_identifying_projection": "The816 adult relation is ethically mixed and should remain so.",
+            "citations": [
+              {
+                "label": "K:Sensei support/error and privacy, L115/124/126/138–139",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 105,
+            "saved_paragraph_sha256": "9dbb6aebe1c7f7b3c2cb7e63a947b1c2d82854abbcb3100eb4f0a443d6ce020b",
+            "claim_identifying_projection": "The later-reading request further qualifies the adult relation.",
+            "citations": [
+              {
+                "label": "J:098u0014–0031/current L177/223/227/233–239",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 107,
+            "saved_paragraph_sha256": "48234ac1390d6d1fe7caa3c58e8f492f2984132de9216e535367ffa370a11b81",
+            "claim_identifying_projection": "Kazusa must remain an independent person with a positive wanted life and an aversion Reisa hears imperfectly.",
+            "citations": [
+              {
+                "label": "K:Kazusa positive object, directed concern and final friction, L109–115/123–140",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 109,
+            "saved_paragraph_sha256": "eb8845a4a2ae5234f8de2b049b7f60ff6c4f7ec49c670ad2a645e42d4e0e0035",
+            "claim_identifying_projection": "Suzumi's reply is likewise more than a resource for Reisa's fandom.",
+            "citations": [
+              {
+                "label": "V:E004/E005/E008/E014 and alternatives, L119–127/141/155–157",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 111,
+            "saved_paragraph_sha256": "8bf3516ba7941a0f48adf3507ac72fece58440d0c12d3ed6c53ae3b07670b371",
+            "claim_identifying_projection": "Airi offers a distinct welcome.",
+            "citations": [
+              {
+                "label": "A:E020, L201/266",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "K:heterogeneous care and contrary cases, L113–115/140",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 113,
+            "saved_paragraph_sha256": "b4764598d553c0be9e3dffd5c2c46461e2f35135f58dbcc37b5b57f7e9886a41",
+            "claim_identifying_projection": "Love, Mashiro, Shimiko and Ui preserve other directed limits.",
+            "citations": [
+              {
+                "label": "V:E002/E007/E009/E011–017, L115/125/129–149",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 115,
+            "saved_paragraph_sha256": "f39921187e6930cddcc234cd5e7b55dfe5fbd5f7b0d3a3543223f95051e00e3c",
+            "claim_identifying_projection": "Anonymous recipients matter at their own scope.",
+            "citations": [
+              {
+                "label": "P:10068E002;20051E005/E006 and actor limits, L415–417/441–447/550",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "V:E003/E005/E007/E013, L117/121/125/137–139",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 119,
+            "saved_paragraph_sha256": "6500c08a88451a24b259f631027c975b613e80993e1555ecde4ab48aa6a858b0",
+            "claim_identifying_projection": "Reisa's full-name self-titling, 宿敵 and mission language are secure public forms in816 alongside polite uncertainty and private sadness.",
+            "citations": [
+              {
+                "label": "K:identity and written register, L76–88/105/124/127",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 121,
+            "saved_paragraph_sha256": "1f21d5e547ed031501fd5699f27a1e19c18b9c02e443a0f779ff8970d75ec903",
+            "claim_identifying_projection": "The magical roles remain in-world fiction and performance.",
+            "citations": [
+              {
+                "label": "V:language and mode distinctions, L119/129–143/163",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 123,
+            "saved_paragraph_sha256": "56da85863cae2a6bfa8f407c47d01548541396647521579acd7cde58ae4bf499",
+            "claim_identifying_projection": "Exact actor and mode seams remain consequential.",
+            "citations": [
+              {
+                "label": "P:exact attribution controls, L550",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "K:anomalies, L144–148",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "A:E012 and mode limits, L188/239–241",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "V:exact seams, L165/181",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 125,
+            "saved_paragraph_sha256": "0a101d48a7b09d9e23714ebb37600913e05829bb3ae4d286e2037ef16d65eb6d",
+            "claim_identifying_projection": "Whole MomoTalk endings distinguish an enacted outcome from a proposed one.",
+            "citations": [
+              {
+                "label": "P:whole pairs and closing mode controls, L415–457/563–571",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 129,
+            "saved_paragraph_sha256": "5a25dcfc904353b5709309007b47d71354a5fe9d6fd3b5836935c80f51b49226",
+            "claim_identifying_projection": "The834098 record adds exact locale limits.",
+            "citations": [
+              {
+                "label": "J:098/current L177/239/257–262",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 131,
+            "saved_paragraph_sha256": "d1c70e70d65e869bf9e939ed6715a84d3fbbc12b424991dacce45ac6cb88cd9c",
+            "claim_identifying_projection": "A purely disruptive-stalker account notices unwanted rivalry and its recurrence, but cannot explain trusted revision, protective withdrawal, responsibility, successful contact, wanted tour or independent peer welcome.",
+            "citations": [
+              {
+                "label": "K:rival schema and contrary ending, L111–115/139",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "P:reciprocity and assistance, L415–447",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "V:peer/tactical contrary evidence, L121–125/133–159",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 133,
+            "saved_paragraph_sha256": "090ab4410a3800af50d0d58907e4b770f9331f27bf24d026cd4b0c7e162738e2",
+            "claim_identifying_projection": "A social-deficit-then-cure account has anxiety and exhaustion in its favor but overstates both diagnosis and ending.",
+            "citations": [
+              {
+                "label": "P:10068E002–006, L415–429",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "A:E020, L201",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 135,
+            "saved_paragraph_sha256": "ca53b2f1a2b05941488714ed1d4ad98a2bbea64bf430e58616065711a2762300",
+            "claim_identifying_projection": "A secret-mutual-friendship account captures Kazusa's concern and Reisa's reunion pleasure, but treats rejected naming and renewed friction too lightly.",
+            "citations": [
+              {
+                "label": "K:directed limits, L111–115/124/138–140",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "V:offered alternative, pressure and voluntary later pleasure, L119–127/141/155",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 137,
+            "saved_paragraph_sha256": "a3423e5ed896b764118d39498aa7179241480415b5f049963cbcca26df878bc4",
+            "claim_identifying_projection": "The final evidential judgment keeps substantial attained ends: an actual reported successful conversation, sleep and immediate scheduling resolution, a wonderful favorite-place day, dawn beauty and rest, shared fandom time, a purchased outfit, retrieved drone and saved kite, corrective withdrawal, rescue and later peer welcome, clear apology/cooperation and a joint park finish.",
+            "citations": [
+              {
+                "label": "P:complete endings, L415–457/580",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "K:E017 and outcome limits, L115/139/148",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "A:E020, L201",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "V:ending/afterstories, L139–149",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 141,
+            "saved_paragraph_sha256": "7bf13a60fbfbbd9c067c1df09b952cbfdd5da0f121b3c2e7064752b577e4d58e",
+            "claim_identifying_projection": "P is the current accepted Suzumi/Reisa/Ichika private contextual account; K/A/V are current Event816/836/851 accounts, and J is current Event834 at scoped098 gift and ending.",
+            "citations": [
+              {
+                "label": "P:current adoption and custody, L287–318/582–592",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "K:accepted scope, L178–180",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "A:current adoption, L68–75",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "V:current adoption, L38–45",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "J:current adoption and scoped gift, L59–66/177/223/227",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "Cycle008",
+                "relative_target": "../../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          },
+          {
+            "saved_paragraph_line": 143,
+            "saved_paragraph_sha256": "b1ca4379154ddd6acb507d87ee985c8079855df55d8de408f8058cbf44b6fb4f",
+            "claim_identifying_projection": "The selected literal responsibility has a substantive eleven-dimension synthesis, with achieved and unfinished ends, independent peers and serious alternatives.",
+            "citations": [
+              {
+                "label": "Architecture7.1",
+                "relative_target": "../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+                "resolved_repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md"
+              },
+              {
+                "label": "Method",
+                "relative_target": "../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+                "resolved_repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md"
+              },
+              {
+                "label": "355/29 scope",
+                "relative_target": "../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+                "resolved_repository_relative_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json"
+              },
+              {
+                "label": "Original gaps",
+                "relative_target": "../../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+                "resolved_repository_relative_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence and exact paragraph binding, not substitute for complete saved paragraph or source meaning"
+          }
+        ],
+        "endpoints": [
+          {
+            "endpoint_id": "REI-E01",
+            "route": "10068E002/thread100680010",
+            "achieved_versus_unfinished": "Reportedsuccess/greatfun andthankscomplete;classmateskindinvites,not universalrejection/cure",
+            "locator": "P415–417"
+          },
+          {
+            "endpoint_id": "REI-E02",
+            "route": "10068E003/thread100680170",
+            "achieved_versus_unfinished": "Actualsleep/lightoff;wholemessage reportsdiscussedresolution/play+patrol,notdurablefatiguecure",
+            "locator": "P419–421"
+          },
+          {
+            "endpoint_id": "REI-E03",
+            "route": "10068E005/thread100680300",
+            "achieved_versus_unfinished": "Wonderfulsharedfavoriteplacesday;MMprefaceprospective,noextraenactedcoda",
+            "locator": "P423–425"
+          },
+          {
+            "endpoint_id": "REI-E04",
+            "route": "10068E006/thread100680360",
+            "achieved_versus_unfinished": "Incidentfreepatrolsunrise;actualcarry/restroom,unnamedrespectedpersonnotjoined;exhaustionretained",
+            "locator": "P427–429"
+          },
+          {
+            "endpoint_id": "REI-E05",
+            "route": "20051E002/thread200510010",
+            "achieved_versus_unfinished": "Jacketlendingpermitsdeparture;wash/returnplannednotcompleted/fullziprepairunproved",
+            "locator": "P433–435"
+          },
+          {
+            "endpoint_id": "REI-E06",
+            "route": "20051E003/thread200510240",
+            "achieved_versus_unfinished": "Patrolpretextcorrectedwantedplay,actualSchalegoodsviewing/tailfun;expressionu15seamnotself-certified",
+            "locator": "P437–439"
+          },
+          {
+            "endpoint_id": "REI-E07",
+            "route": "20051E005/thread200510540",
+            "achieved_versus_unfinished": "Threatinterventionactualdefeat/thanks/purchase/depart;incendiaryextinguishingHERreport,notaudit;nextperfectperformancewanted",
+            "locator": "P441–443"
+          },
+          {
+            "endpoint_id": "REI-E08",
+            "route": "20051E006/thread200510710",
+            "achieved_versus_unfinished": "Wallet/drone/kiteactualspecifichelp,shower/restreturn;buttonsimplemented,independentdressquestionunanswered",
+            "locator": "P445–447"
+          },
+          {
+            "endpoint_id": "REI-E09",
+            "route": "Fourwrittenobjects",
+            "achieved_versus_unfinished": "Hobbies/crowd/rest/birthday/fandom/madewand/conditionalfoundobject/cardcontexts,notnewpersons/allrealizedoutcomes",
+            "locator": "P449–457"
+          },
+          {
+            "endpoint_id": "REI-E10",
+            "route": "816005/008/009/010/011",
+            "achieved_versus_unfinished": "Trustcorrection→relapse→heardboundary/protectivewithdrawal/responsibility;privacyrequest andgoodintentnotpursuitpermission",
+            "locator": "K111–115/123–140"
+          },
+          {
+            "endpoint_id": "REI-E11",
+            "route": "816014/015/017",
+            "achieved_versus_unfinished": "Rescue/help/concernactual withclinicaloutcomesunproven;renewedchallenge survivesearlierpromise,no lastingcure/mutualfriendtitle",
+            "locator": "K115/139/146–148"
+          },
+          {
+            "endpoint_id": "REI-E12",
+            "route": "836020",
+            "achieved_versus_unfinished": "AiriinviteswithoutKazusa;Reisaaccepts,Kazusaactuallyboughtanticipatedicecream;notregistrybloodoath",
+            "locator": "A201/266–268"
+          },
+          {
+            "endpoint_id": "REI-E13",
+            "route": "836012",
+            "achieved_versus_unfinished": "Accusationunknownnotjoined toReisa because020laternamed;no extraReisaappearance",
+            "locator": "A188/239"
+          },
+          {
+            "endpoint_id": "REI-E14",
+            "route": "834098",
+            "achieved_versus_unfinished": "Giftreception,courtesy,modifiedcommercialgift/decoratedletter/refusalimmediatereading;U30sharedfood/return/readingactual;solitude/words/flavorunproved",
+            "locator": "J177/223/227;L9839–69"
+          },
+          {
+            "endpoint_id": "REI-E15",
+            "route": "851004/005",
+            "achieved_versus_unfinished": "Alternativeoffered/Suzumiqualifiedassent,thenpressure/timecost andstagepleasure;laterwantnoretroactiveconsent",
+            "locator": "V119–121"
+          },
+          {
+            "endpoint_id": "REI-E16",
+            "route": "851006/007",
+            "achieved_versus_unfinished": "Childrenattraction/spoilerblocking/tacticaldefeatactual;Lovefake-lossnotheroinewin;Mashiropermissionobjection",
+            "locator": "V123–125"
+          },
+          {
+            "endpoint_id": "REI-E17",
+            "route": "851008",
+            "achieved_versus_unfinished": "IndependentReisamusic/chat/pleasurepeeraccount;Suzumitask-firstchoice/formerJTFmembershipnotfailedapplication",
+            "locator": "V127"
+          },
+          {
+            "endpoint_id": "REI-E18",
+            "route": "851009–012",
+            "achieved_versus_unfinished": "Collectivecaptureactorlimits;batterypowersroomnotelectrictorture;clearapology/correctivecooperation/targetlocationactual",
+            "locator": "V129–135"
+          },
+          {
+            "endpoint_id": "REI-E19",
+            "route": "851013",
+            "achieved_versus_unfinished": "Actualjointpursuitfinish/explicitpermission;no clinicalclearance,bountyrestoration/refund/legalrule",
+            "locator": "V137–139"
+          },
+          {
+            "endpoint_id": "REI-E20",
+            "route": "851014–017",
+            "achieved_versus_unfinished": "LaterSuzumichosenviewing/continuingdecision,Reisawantedtowncompany;mealreportnotrepair/litterdisposalunshown;Ui lostsleep/materialpermissionopen",
+            "locator": "V141–149"
+          }
+        ],
+        "eleven_sections": [
+          {
+            "line": 23,
+            "heading": "## 1. Core thesis"
+          },
+          {
+            "line": 31,
+            "heading": "## 2. Longitudinal arc and legitimate ordering"
+          },
+          {
+            "line": 45,
+            "heading": "## 3. Public self, private self, and interpretation"
+          },
+          {
+            "line": 57,
+            "heading": "## 4. Trinity, Vigilance and the boundaries of belonging"
+          },
+          {
+            "line": 67,
+            "heading": "## 5. Ordinary life: play, taste, beauty and making time"
+          },
+          {
+            "line": 79,
+            "heading": "## 6. Crisis behavior: care, mistaken premises and recipient costs"
+          },
+          {
+            "line": 93,
+            "heading": "## 7. Relationship with Sensei: asking, reception and bounded assistance"
+          },
+          {
+            "line": 103,
+            "heading": "## 8. Major peers and independent recipients"
+          },
+          {
+            "line": 117,
+            "heading": "## 9. Japanese written voice and source-mode limits"
+          },
+          {
+            "line": 127,
+            "heading": "## 10. Competing readings and evidential judgment"
+          },
+          {
+            "line": 139,
+            "heading": "## 11. Evidence route, open gaps and bounded completeness"
+          }
+        ],
+        "rival_readings": [
+          {
+            "reading": "Purelydisruptivestalker",
+            "support": "Unwantedrivalry/renewedchallenge",
+            "contrary": "Trustedrevision/protectivewithdrawal/actualcompany/welcome"
+          },
+          {
+            "reading": "Whollymisunderstoodhero",
+            "support": "Care/help/responsibility",
+            "contrary": "Refusals/pressure/tacticaldefeat/recipientcosts"
+          },
+          {
+            "reading": "Socialdeficitthenadultcure",
+            "support": "Fear/fatigue",
+            "contrary": "Alreadykindinvites/coveroffers,localownsuccess,recurrentfatigue"
+          },
+          {
+            "reading": "Secretmutualfriendship",
+            "support": "Concern/reunionjoy",
+            "contrary": "Kazusarejectsnaming/duels,frictionpersists"
+          },
+          {
+            "reading": "Alwaysunrequitedperson",
+            "support": "Fearscontributionworthless/unwantedpursuit",
+            "contrary": "Airiindependenthospitality/Kazusaicecream/teacherwantedtour"
+          },
+          {
+            "reading": "Fullyconsensualfandomtransformation",
+            "support": "Alternative/qualifiedassent/laterchosenviewing",
+            "contrary": "Requestsfortime/palmpressure/unwantedvisibility"
+          },
+          {
+            "reading": "Alwayscoerced/noindependenttaste",
+            "support": "Pressurebeforeperformance",
+            "contrary": "Offeredalternative/Suzumiqualifiedassent/independentlaterfictionpleasure"
+          },
+          {
+            "reading": "Commercialgiftinferiororonlyoffered",
+            "support": "Selfcomparison/skillsvulnerability",
+            "contrary": "Realdecoration/work/positivewelcome/U30actualsharedfoodandreading,no objectivecraft ranking"
+          }
+        ],
+        "original_fourteen_gaps": [
+          {
+            "stable_gap_and_literal_name": "G01 — Ordinary and private breadth",
+            "state": "OPEN",
+            "specific_effect": "OPEN: the whole selected play, rest, tour, fandom and care repertoire is intrinsic evidence; other required characters and all unreceived Reisa contexts are not completed here."
+          },
+          {
+            "stable_gap_and_literal_name": "G02 — Yuuka council/club decision transfer",
+            "state": "OPEN",
+            "specific_effect": "OPEN: informal Vigilance and Sweets hospitality do not supply Yuuka's unseen decision-transfer evidence."
+          },
+          {
+            "stable_gap_and_literal_name": "G03 — Serika service, peer and reciprocity range",
+            "state": "OPEN",
+            "specific_effect": "OPEN: Reisa's achieved tour and practical aid cannot reconstruct Serika's independent service/receiver breadth."
+          },
+          {
+            "stable_gap_and_literal_name": "G04 — Hina crisis causality, accountability and ordinary contrast",
+            "state": "OPEN",
+            "specific_effect": "OPEN: local tactical results and peer pressure here do not settle Hina's distinct causes or accountability."
+          },
+          {
+            "stable_gap_and_literal_name": "G05 — Arius and PS68 ordinary/aftermath transfer",
+            "state": "OPEN",
+            "specific_effect": "OPEN: patrol, park and Sweets comparisons are not evidence of Arius/PS68 safety, employment or social repair."
+          },
+          {
+            "stable_gap_and_literal_name": "G06 — Cross-school ordinary repertoire",
+            "state": "OPEN",
+            "specific_effect": "OPEN: the actual Trinity peers, audience and local shop recipients retain their own wants; all-school lives remain separately required."
+          },
+          {
+            "stable_gap_and_literal_name": "G07 — Story-world chronology",
+            "state": "OPEN",
+            "specific_effect": "OPEN: local recalls, event flashbacks and countdowns are received, but variants, releases, holidays and branch contexts provide no universal calendar or MAIN ordering."
+          },
+          {
+            "stable_gap_and_literal_name": "G08 — Event naming and repeat contexts",
+            "state": "OPEN",
+            "specific_effect": "OPEN:816 attested closing wording does not repair a null metadata title; repeated costume/card contexts do not become extra historical events."
+          },
+          {
+            "stable_gap_and_literal_name": "G09 — Written speaker/choice attribution",
+            "state": "OPEN",
+            "specific_effect": "OPEN: private citizen/compliment/drone seams and816/834/836/851 unstable or unknown labels remain literal; later named Reisa does not repair836012's accuser or834098's opening narration."
+          },
+          {
+            "stable_gap_and_literal_name": "G10 — Performed voice",
+            "state": "OPEN",
+            "specific_effect": "OPEN: Japanese written rhetoric, Korean logs, image placeholders and performance descriptions supply no received acting, sound, gesture or AV."
+          },
+          {
+            "stable_gap_and_literal_name": "G11 — Hoshino's Yume record and office states",
+            "state": "OPEN",
+            "specific_effect": "OPEN: no death record, authentication or office continuity is supplied by this character's patrol or ordinary comparisons."
+          },
+          {
+            "stable_gap_and_literal_name": "G12 — Counterpart, system and variant identity",
+            "state": "OPEN",
+            "specific_effect": "OPEN: literalCH0167 variants/costumes are retained; fictional roles, unknown people and source repetition do not prove broad continuity or new persons."
+          },
+          {
+            "stable_gap_and_literal_name": "G13 — Office, contract, safety and technical outcomes",
+            "state": "OPEN",
+            "specific_effect": "OPEN: no force mandate, clinical fracture/injury clearance, completed jacket return, independent dressing, restored bounty, material permission or enacted ordinance is shown beyond exact local stages;834098 shared eating/reading is actual but solitude, full letter and particular taste remain unverified."
+          },
+          {
+            "stable_gap_and_literal_name": "G14 — Unclassified/mode continuity",
+            "state": "OPEN",
+            "specific_effect": "OPEN: contact reports, inward lines, conditional scripts, choices, fictional roles, profile and public reception stay distinct; no universal consent, continuous biography or institutional closure follows."
+          }
+        ],
+        "locator_review_scope": "Source meaning and saved paragraph joins at declaredpersonal/qualifiedreusescopes; not newprimary/raw/inverseorindependent verification",
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0,
+          "ROOT_acceptance": 0,
+          "canonical": 0,
+          "N": 0,
+          "quarter": 0
+        }
+      }
+    },
+    {
+      "name": "REISA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+      "original_exact_tuple": {
+        "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/REISA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "bytes": 1809,
+        "sha256": "69e1e7781cdaab638174b2454f3153d2cef1fb2c463647091d0fcdb1dd794e68",
+        "git_blob_oid_of_actual_bytes": "0e307804e525e490e450b2b10360e75b5803353a",
+        "lines": 43,
+        "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/REISA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json"
+      },
+      "complete_original_payload": {
+        "schema": "REISA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1",
+        "status": "SAVED_FINITE_ARTIFACTS_ACTUAL_COMPLETE_READBACK_REQUIRED_BEFORE_FREEZE",
+        "payloads": [
+          {
+            "file": "BLUE_ARCHIVE_REISA_CHARACTER_MONOGRAPH.md",
+            "byte_count": 51470,
+            "line_count": 160,
+            "sha256": "81ffe1fde98b4bd6922d255feeeffc72144067ce55b68971a7f57383e5a021e6",
+            "actual_byte_blob_oid": "cfac1011469a3511436dfe13335ff03f07c4f31b"
+          },
+          {
+            "file": "REISA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+            "byte_count": 27487,
+            "line_count": 555,
+            "sha256": "2aaa68e8336532785f15caff31ed789f08aba39ed5416359a131d3bfafcc8124",
+            "actual_byte_blob_oid": "a2cf8cdefeed80dea2a3e1127feaea6e6829397b"
+          },
+          {
+            "file": "REISA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+            "byte_count": 66516,
+            "line_count": 1111,
+            "sha256": "3d86a3b77764f0cb816e51762f8b1fca44797987a2bc85252502fd5d9e9589b7",
+            "actual_byte_blob_oid": "c2ea2929bd215c008bc63e55e23454d799dcfbdb"
+          }
+        ],
+        "format": "UTF8LF/noBOM/onefinalLF/allunder1MiB",
+        "links": {
+          "count": 79,
+          "rows_in": "REISA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json:citationrows",
+          "verified_from": "series/blue-archive/04 Specialist Syntheses/CHARACTERS",
+          "physical_C_location_is_published": false
+        },
+        "counts": {
+          "paragraph_joins": 51,
+          "endpoints": 20,
+          "sections": 11,
+          "original_OPEN_gaps": 14,
+          "prior_frozen": 20
+        },
+        "semantic_scope": "Full eleven-section sustained argument; actual achievementsandunfinishedtails,ordinarytaste/company/beauty intrinsicallyrequired; no ROOTcompletion or scope credit",
+        "complete_readback": "Must separately actuallyemitwholebody/source/claim/savedbeforeauthorseal; finitegeneration and tuplechecks arenot humanreceiving"
+      }
+    }
+  ],
+  "complete_frozen_manifest": {
+    "schema": "REISA_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1",
+    "status": "AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_FROZEN_ROOT_REVIEW_PENDING",
+    "package": "P3-CHAR-REISA-CH0167",
+    "payloads": [
+      {
+        "file": "BLUE_ARCHIVE_REISA_CHARACTER_MONOGRAPH.md",
+        "byte_count": 51470,
+        "line_count": 160,
+        "sha256": "81ffe1fde98b4bd6922d255feeeffc72144067ce55b68971a7f57383e5a021e6",
+        "actual_byte_blob_oid": "cfac1011469a3511436dfe13335ff03f07c4f31b"
+      },
+      {
+        "file": "REISA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 27487,
+        "line_count": 555,
+        "sha256": "2aaa68e8336532785f15caff31ed789f08aba39ed5416359a131d3bfafcc8124",
+        "actual_byte_blob_oid": "a2cf8cdefeed80dea2a3e1127feaea6e6829397b"
+      },
+      {
+        "file": "REISA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 66516,
+        "line_count": 1111,
+        "sha256": "3d86a3b77764f0cb816e51762f8b1fca44797987a2bc85252502fd5d9e9589b7",
+        "actual_byte_blob_oid": "c2ea2929bd215c008bc63e55e23454d799dcfbdb"
+      },
+      {
+        "file": "REISA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 1809,
+        "line_count": 43,
+        "sha256": "69e1e7781cdaab638174b2454f3153d2cef1fb2c463647091d0fcdb1dd794e68",
+        "actual_byte_blob_oid": "0e307804e525e490e450b2b10360e75b5803353a"
+      }
+    ],
+    "actual_complete_saved_receiving": {
+      "body": {
+        "characters": 51233,
+        "spans": [
+          [
+            "d7f0fd",
+            0,
+            18000
+          ],
+          [
+            "049378",
+            18000,
+            36000
+          ],
+          [
+            "dd895a",
+            36000,
+            51233
+          ]
+        ],
+        "EOF": true
+      },
+      "source": {
+        "characters": 27405,
+        "spans": [
+          [
+            "01fa37",
+            0,
+            27405
+          ]
+        ],
+        "EOF": true
+      },
+      "claims": {
+        "characters": 66256,
+        "spans": [
+          [
+            "077af3",
+            0,
+            22000
+          ],
+          [
+            "1fe299",
+            22000,
+            44000
+          ],
+          [
+            "d8fcfb",
+            44000,
+            66256
+          ]
+        ],
+        "EOF": true
+      },
+      "saved": {
+        "characters": 1809,
+        "spans": [
+          [
+            "be483e",
+            0,
+            1809
+          ]
+        ],
+        "EOF": true
+      },
+      "clipping": "None in these saved-body/receipt outputs; generation/hashing was not counted as receiving"
+    },
+    "finite_exact_checks": {
+      "result": "PASS",
+      "R_inputs": 12,
+      "historical_C": 3,
+      "prior_frozen": 20,
+      "payloads": 4,
+      "paragraph_joins": 51,
+      "canonical_home_links": 79,
+      "endpoints": 20,
+      "sections": 11,
+      "literal_original_OPEN_gaps": 14
+    },
+    "literary_review": {
+      "thesis": "Wanting a place through heroic work/rivalry/company can achieve reciprocity and care or make recipient replies hard to hear; her ordinary wanted life and others independent wishes are intrinsic.",
+      "ordinary": "Favorite shops/Peroro/HitGirls/park,sunrise,play/rest,fandom/clothes,makingdecoratedcommercialgift havevaluewithout publicstakesfilter.",
+      "independent_peers": "Kazusawantedcafe/refusals/concern;AiriindependentwelcomeandKazusaactualicecream;Suzumimusictaste/qualifiedassent/pressure/laterchoice;Loveownwork/bounty;Mashiropermission andUi craftcosts.",
+      "endings": "All8pairedwholemessage meanings/4written objects,816schema revision/renewedchallenge,836020welcome,851finish/afterstories and834098U30achievedsharedfood/return/reading retained at precise source scopes.",
+      "rivals": "Substantial disruptivestalker/whollyhero/adultcure/secretfriendship/universallyunrequited/allfandomconsent/allcoercion/giftinferiority alternatives evaluated against exactcontrary acts.",
+      "limits": "No privacy/duellicense/cure/medical orforceaudit, enactedordinance, compensatedbounty, whole834owner/rolebodycredit; JPsolituderequest notcertified byactual laterreading."
+    },
+    "source_recovery": "Positive834098metadataattributedb8549e→personallycompleteL98f2548a under J13b267/c2027c/d5a920; no810absenceglobal; no freshprimary/raw/inverse checks.",
+    "source_head": "5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+    "analytical_main": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+    "current_authority": "Cycle008qualifiesproducerhistoricalpending/noncurrent states; mutableROOTprogress outside author evidence",
+    "all_nine_unbound_large": "Unread/unhashed/unopened",
+    "credit_added": {
+      "primary": 0,
+      "raw": 0,
+      "native": 0,
+      "performed": 0,
+      "independent": 0,
+      "model": 0,
+      "ROOT_acceptance": 0,
+      "canonical": 0,
+      "N": 0,
+      "quarter": 0
+    },
+    "integration": "ROOT solely receives/adjudicates/installs; separate directedrelationship/institution duties remain required; frozen payloads immutable"
+  },
+  "original_frozen_manifest_exact_tuple": {
+    "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/REISA_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+    "bytes": 4812,
+    "sha256": "65189157a7777f62500ecdb52488f9e59530bfc4084090148872506c55afd946",
+    "git_blob_oid_of_actual_bytes": "7a70b70d2bc6ec90bd01ed9d4be56f49c3944a0b",
+    "lines": 140,
+    "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/REISA_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json"
+  },
+  "all_exact_frozen_transports": [
+    {
+      "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/BLUE_ARCHIVE_REISA_CHARACTER_MONOGRAPH.md",
+      "bytes": 51470,
+      "sha256": "81ffe1fde98b4bd6922d255feeeffc72144067ce55b68971a7f57383e5a021e6",
+      "git_blob_oid_of_actual_bytes": "cfac1011469a3511436dfe13335ff03f07c4f31b",
+      "lines": 160,
+      "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/BLUE_ARCHIVE_REISA_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/REISA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "bytes": 27487,
+      "sha256": "2aaa68e8336532785f15caff31ed789f08aba39ed5416359a131d3bfafcc8124",
+      "git_blob_oid_of_actual_bytes": "a2cf8cdefeed80dea2a3e1127feaea6e6829397b",
+      "lines": 555,
+      "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/REISA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+    },
+    {
+      "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/REISA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "bytes": 66516,
+      "sha256": "3d86a3b77764f0cb816e51762f8b1fca44797987a2bc85252502fd5d9e9589b7",
+      "git_blob_oid_of_actual_bytes": "c2ea2929bd215c008bc63e55e23454d799dcfbdb",
+      "lines": 1111,
+      "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/REISA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+    },
+    {
+      "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/REISA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+      "bytes": 1809,
+      "sha256": "69e1e7781cdaab638174b2454f3153d2cef1fb2c463647091d0fcdb1dd794e68",
+      "git_blob_oid_of_actual_bytes": "0e307804e525e490e450b2b10360e75b5803353a",
+      "lines": 43,
+      "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/REISA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json"
+    }
+  ],
+  "exact_body_reference_translations": [],
+  "retained_body_navigation_qualification": "Current normal owners are navigation; complete original individual argument and source scopes remain exact-bound and attributed. No producer physical receiving is retroactively added."
+}

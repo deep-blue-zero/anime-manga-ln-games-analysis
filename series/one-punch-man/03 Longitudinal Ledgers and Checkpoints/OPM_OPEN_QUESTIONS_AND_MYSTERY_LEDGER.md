@@ -1,21 +1,25 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Open questions and mystery state through V37
+scope: Open questions and mystery state through V37; official web 235-287 current-release overlay
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V37
+source_boundary: Japanese tankobon V01-V37; official web 235-287 active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-28
+current_release_updated: 2026-10-28
 workspace_state: local_staged_unintegrated
 ---
 
 
 # One Punch Man — Open Questions and Mystery Ledger
+
+Current usable horizon: V37 collected state plus the [official-web overlay through web 287](#current-release-overlay-through-web-287). The overlay is `active_provisional` / PR and is available for ongoing analysis now; dated collected sections retain their original boundaries.
+
 
 
 ## Rule
@@ -810,3 +814,26 @@ Propagated after the frozen [V37 reading](../02%20Sequential%20Readings/OPM_V37_
 | Darkshine readiness | bodily performance restored while battle fear remains | accessible return, support and future combat choice |
 
 God/cube/limiter cosmology, Tsukuyomi/Psykos custody, Garou restitution, Tareo's pale encounter and wider Blast/Bofoi questions retain their V36 limits. V38 and official-web narrative remain excluded until their own governed continuation.
+
+## Current-release overlay through web 287
+
+Authority: `web_active_provisional` / PR. This is the live question state after the frozen V37 table. [Source lock](../07%20Current%20Release/OPM_CURRENT_RELEASE_SOURCE_LOCK.md); [current synthesis](../07%20Current%20Release/OPM_CURRENT_RELEASE_SYNTHESIS.md).
+
+| ID / question | Current evidence / disposition | Unresolved alternative or next discriminating evidence |
+|---|---|---|
+| PR-OQ-01: Neo control | STRENGTHEN: explicit accumulation/exhaustion strategy, involuntary suit lunge, surgical value calculation and pursuit | ultimate controller, each actor's knowledge, function of the chip and distinct roles of Erimin/Destro/A. PR-CR-015,016,019,020,024,027 |
+| PR-OQ-02: Blue / Blast | lineage claim and effective field role persist | independent verification and Blast's acknowledged relationship. PR-CR-009 |
+| PR-OQ-03: Empty Void / God | recovery-oriented Blast intervention provides relational and tactical evidence | final Void condition, specific divine influence and complete history. PR-CR-004 |
+| PR-OQ-04: Amai aftermath | body exposed; Webigaza reports a Neo pursuit and difficulty identifying a transformed target | exact location, legal/public result, full cover-up knowledge and future conduct. PR-CR-008,024 |
+| PR-OQ-05: Mirror | data-copying local threat defeated following multiple interventions | builder, direction, transmissions and Neo connection. PR-CR-012 |
+| PR-OQ-06: city attacks | chip examination adds technological involvement to the coordination hypothesis | who placed it, whether it controlled anything and whether the attacks share an author. PR-CR-011,019 |
+| PR-OQ-07: Webigaza exit | PARTLY ANSWERED by her statement: Neo maintenance sustains life and she cannot leave | independent alternatives, maintenance interval, enforceability and consent to later acts. PR-CR-022 |
+| PR-OQ-08: Garou restitution | labor, restraint and reciprocal Suiryu training strengthen reinsertion | completed repair, legal resolution, durable identity and other victims' views. PR-CR-013 |
+| PR-OQ-09: web284 setup | LOCAL ROUTE ANSWERED: data/suit strategy, internal investigation, Webigaza conversation and Amai pursuit lead into Sonic encounter | wider arc outcome remains open; the setup was not an ending. PR-CR-015-028 |
+| PR-OQ-10: collection / redraw | overlap web282-284 remains byte-stable in October; no new tankobon admitted | future direct collection comparison for each retained claim; not an analysis freeze |
+| PR-OQ-11: returned leaders | followers see miracle/renewal; A reports successful surgery and economic value | degree of modification, continuity of personality, consent and control. PR-CR-020 |
+| PR-OQ-12: investigator plans | Child Emperor, Sekingar and Metal Bat coordinate Amai contact and interference | actual satellite access, successful obstruction/rescue and exposure of the financial leads. PR-CR-018,025 |
+| PR-OQ-13: Webigaza and Amai | admiration becomes disgust and promotion motive; Child Emperor entertains a self-maintenance interpretation of resentment | Webigaza's full knowledge, Amai's response and any reciprocal repair. PR-CR-021,024,026 |
+| PR-OQ-14: Sonic / A | A claims encirclement, describes killing as a game and orders attack; building explodes | combat result, injuries, casualties and A's full institutional mandate. PR-CR-027,028 |
+
+New evidence may advance these questions before another tankobon exists. A report, inference, declared aim and completed act retain different weights. Earlier V37 statements excluding later knowledge describe that table's historical boundary, not a standing prohibition on the current PR rows.

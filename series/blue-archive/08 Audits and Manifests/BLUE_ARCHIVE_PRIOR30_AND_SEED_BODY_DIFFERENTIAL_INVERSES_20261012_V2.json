@@ -1,0 +1,1005 @@
+{
+  "schema": "ROOT_COMPOSED_CURRENT_RECOVERY_ROUTE_WITH_EXACT_CONDITIONAL_MODULE_HISTORY_V1",
+  "conditional_precomposition_module": {
+    "schema": "blue-archive/prior30-plus-seed-exact-current-body-differential-inverse-module/v2",
+    "dated": "2026-10-12",
+    "base_source_commit": "629d39d2e3873e8e07a4d54db0c26dff06ed0775",
+    "scope": "24 prior30 body packages plus3 seed packages; SchoolLunch119 exact delta additionally ROOT-approved c0b437. Ayane/Saori and middle/last receiving modules remain excluded.",
+    "application_order": "Restore each prior_current_tuple by its exact differential inverse FIRST, then apply the unchanged pre-existing original-to-canonical inverse if original body recovery is requested.",
+    "body_revisions": [
+      {
+        "package": "P3-CHAR-AZUSA",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AZUSA_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 26558,
+          "sha256": "f434f72d90fd9ae78518335d490811fe544aaafbd067d2e2f5afb7653453336a"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AZUSA_CHARACTER_MONOGRAPH.md",
+          "bytes": 26700,
+          "sha256": "6db1f358d4618d212c3f3082c892f49efd06ff14ca8e9d1c8b82295be04b460c",
+          "lines": 136
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 31,
+            "before": "ROOT accepted this whole eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md) and [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_TRINITY_SECOND_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) govern the decision. All fourteen gaps remain OPEN and claim-specific. Publication, main integration and full eligible-cast completion are separate; the denominator remains unfrozen.\n",
+            "after": "ROOT accepted this whole eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md) and [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_TRINITY_SECOND_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) govern the decision. All fourteen gaps remain OPEN and claim-specific. Publication, main integration and full eligible-cast completion are separate. Current accepted scope fixes the denominator at 355 packages, with 29 named duties across 25 parents; the first 25% milestone is complete at 89, and the next threshold is 178.\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 135,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Current355 N is frozen; retain dated preparation history and first89/next178 limits, with no milestone credit.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-CHAR-HIFUMI-HIHUMI",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIFUMI_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 28096,
+          "sha256": "714c72945f0f84f69581ab65043d0abbb39ba96cf6ebf351b2b57ec9b773e0a2"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIFUMI_CHARACTER_MONOGRAPH.md",
+          "bytes": 28238,
+          "sha256": "cb4185c96c05cf04d1852381195849a018e573bde4451de8ef1f536b5ec28bec",
+          "lines": 142
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 32,
+            "before": "ROOT accepted this whole eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md) and [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_TRINITY_SECOND_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) govern the decision. All fourteen gaps remain OPEN and claim-specific. Publication, main integration and full eligible-cast completion are separate; the denominator remains unfrozen.\n",
+            "after": "ROOT accepted this whole eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md) and [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_TRINITY_SECOND_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) govern the decision. All fourteen gaps remain OPEN and claim-specific. Publication, main integration and full eligible-cast completion are separate. Current accepted scope fixes the denominator at 355 packages, with 29 named duties across 25 parents; the first 25% milestone is complete at 89, and the next threshold is 178.\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 141,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Current355 N is frozen; retain dated preparation history and first89/next178 limits, with no milestone credit.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-CHAR-MIKA-CH0069",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MIKA_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 25016,
+          "sha256": "1f624e03da8e7aa8c9fe6f3ac6906f7f80bca2315784f7a7ab2090c3744e9b67"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MIKA_CHARACTER_MONOGRAPH.md",
+          "bytes": 25220,
+          "sha256": "6af86d89d0c72d75d5da2bcdcb6863cc376cbcf87ba6f55de60994ed36858820",
+          "lines": 130
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 130,
+            "before": "All fourteen gaps remain OPEN at their claim-specific scope. G01/G06 do not erase the ordinary evidence received here; they limit exhaustiveness. G07/G08 limit ordering and repeated-event attribution. G09 limits isolated speaker and branch ownership; G10 bars performed-voice claims. G12/G14 bar unsupported variant, counterpart and mode joins. G13 limits institutional implementation, safety, financial and legal outcomes. G02/G03/G04/G05/G11 remain other or overlapping responsibilities, with no closure credit from this package. ROOT received and accepted this complete bounded literary argument WITH LIMITS on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md) and [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_TRINITY_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) govern that decision. Publication, protected integration and full eligible-cast completion remain separate; the denominator is unfrozen and no quarter is claimed.\n",
+            "after": "All fourteen gaps remain OPEN at their claim-specific scope. G01/G06 do not erase the ordinary evidence received here; they limit exhaustiveness. G07/G08 limit ordering and repeated-event attribution. G09 limits isolated speaker and branch ownership; G10 bars performed-voice claims. G12/G14 bar unsupported variant, counterpart and mode joins. G13 limits institutional implementation, safety, financial and legal outcomes. G02/G03/G04/G05/G11 remain other or overlapping responsibilities, with no closure credit from this package. ROOT received and accepted this complete bounded literary argument WITH LIMITS on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md) and [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_TRINITY_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) govern that decision. Publication, protected integration and full eligible-cast completion remain separate. Current accepted scope fixes the denominator at 355 packages, with 29 named duties across 25 parents; the first 25% milestone is complete at 89, and the next threshold is 178. Earlier author and receiving records retain their dated unfrozen/no-quarter state.\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 129,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Current355 N is frozen; retain dated preparation history and first89/next178 limits, with no milestone credit.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-CHAR-NAGISA",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NAGISA_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 26931,
+          "sha256": "4f2547d787261f3c2d1884c5d92584c07d14a5ec92c0bd2fd670352df7bc5bd7"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NAGISA_CHARACTER_MONOGRAPH.md",
+          "bytes": 27135,
+          "sha256": "1ac4ebd98397fbee0d43660c8686fa8af073b6c57625c3020fae54c843c57d5a",
+          "lines": 137
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 137,
+            "before": "All fourteen original gaps remain OPEN at their actual stronger-claim scope. G01/G06 limit repertoire exhaustiveness without excluding low-stakes art or taste. G07/G08 limit global order and event repetition; G09 limits speaker/choice ownership; G10 excludes performance. G12/G14 limit unsupported variant/mode joins. G13 limits charter, archive, property, budget, policy, safety and liability implementation. G02/G03/G04/G05/G11 receive no closure credit. ROOT received and accepted this complete bounded literary argument WITH LIMITS on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md) and [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_TRINITY_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) govern that decision. Publication, protected integration and full eligible-cast completion remain separate; the denominator is unfrozen and no quarter is claimed.\n",
+            "after": "All fourteen original gaps remain OPEN at their actual stronger-claim scope. G01/G06 limit repertoire exhaustiveness without excluding low-stakes art or taste. G07/G08 limit global order and event repetition; G09 limits speaker/choice ownership; G10 excludes performance. G12/G14 limit unsupported variant/mode joins. G13 limits charter, archive, property, budget, policy, safety and liability implementation. G02/G03/G04/G05/G11 receive no closure credit. ROOT received and accepted this complete bounded literary argument WITH LIMITS on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md) and [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_TRINITY_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) govern that decision. Publication, protected integration and full eligible-cast completion remain separate. Current accepted scope fixes the denominator at 355 packages, with 29 named duties across 25 parents; the first 25% milestone is complete at 89, and the next threshold is 178. Earlier author and receiving records retain their dated unfrozen/no-quarter state.\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 136,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Current355 N is frozen; retain dated preparation history and first89/next178 limits, with no milestone credit.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-CHAR-HANAKO",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HANAKO_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 30455,
+          "sha256": "01acbd5559ca25cb752f8fe77a134f5a24f5d0e75e6cabc50b647718b17654e8"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HANAKO_CHARACTER_MONOGRAPH.md",
+          "bytes": 30597,
+          "sha256": "8b3c810f64cfed188e881af44181b03ba55af654042080c985fc26cfd1b40afa",
+          "lines": 150
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 31,
+            "before": "ROOT accepted this whole eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md) and [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_TRINITY_SECOND_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) govern the decision. All fourteen gaps remain OPEN and claim-specific. Publication, main integration and full eligible-cast completion are separate; the denominator remains unfrozen.\n",
+            "after": "ROOT accepted this whole eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md) and [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_TRINITY_SECOND_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) govern the decision. All fourteen gaps remain OPEN and claim-specific. Publication, main integration and full eligible-cast completion are separate. Current accepted scope fixes the denominator at 355 packages, with 29 named duties across 25 parents; the first 25% milestone is complete at 89, and the next threshold is 178.\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 149,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Current355 N is frozen; retain dated preparation history and first89/next178 limits, with no milestone credit.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-CHAR-SEIA-CH0070",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SEIA_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 24692,
+          "sha256": "d37c1a6a056375952d9343c68f932423b26104c44464cdbf0e09f6dfe5772d12"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SEIA_CHARACTER_MONOGRAPH.md",
+          "bytes": 24945,
+          "sha256": "71661cdd2944ba906d7261133d895c5c92bf4c2592b07ed740205ec2dda50175",
+          "lines": 133
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 45,
+            "before": "Her wish to discuss reading firsthand resists an image of a person satisfied with secondhand rank or automatic assent. Others' acquiescence and loneliness are represented through her account, while she expressly denies that friendship has broken. She wants the experience of discussion, not merely a formal result. Shared carrying becomes actual; a conveniently ready book does not establish luck as a mechanism. The distinction between wanted participation and an externally measured deficit must be retained. [P03:10110:E005]\n",
+            "after": "Her wish to discuss reading firsthand resists an image of a person satisfied with secondhand rank or automatic assent. Rank-induced acquiescence is represented through her account; loneliness is the adult's question, and Seia expressly denies both broken friendships and current felt loneliness. She wants the experience of discussion, not merely a formal result. Shared carrying becomes actual; a conveniently ready book does not establish luck as a mechanism. The distinction between wanted participation and an externally measured deficit must be retained. [P03:10110:E005]\n"
+          },
+          {
+            "line": 133,
+            "before": "All fourteen gaps remain OPEN. G01/G06 limit exhaustiveness without disqualifying ordinary desire. G07/G08 limit chronology and repeat identity; G09 limits branch, actor and knowledge attribution; G10 excludes performance. G12/G14 bar unsupported variant/counterpart/mode or forecast-mechanism joins. G13 limits legal force, institutional representation, operation, safety and implementation. G02/G03/G04/G05/G11 are not closed by this package. ROOT received and accepted this complete bounded literary argument WITH LIMITS on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md) and [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_TRINITY_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) govern that decision. Publication, protected integration and full eligible-cast completion remain separate; the denominator is unfrozen and no quarter is claimed.\n",
+            "after": "All fourteen gaps remain OPEN. G01/G06 limit exhaustiveness without disqualifying ordinary desire. G07/G08 limit chronology and repeat identity; G09 limits branch, actor and knowledge attribution; G10 excludes performance. G12/G14 bar unsupported variant/counterpart/mode or forecast-mechanism joins. G13 limits legal force, institutional representation, operation, safety and implementation. G02/G03/G04/G05/G11 are not closed by this package. ROOT received and accepted this complete bounded literary argument WITH LIMITS on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md) and [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_TRINITY_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) govern that decision. Publication, protected integration and full eligible-cast completion remain separate. Current accepted scope fixes the denominator at 355 packages, with 29 named duties across 25 parents; the first 25% milestone is complete at 89, and the next threshold is 178. Earlier author and receiving records retain their dated unfrozen/no-quarter state.\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 131,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Rank acquiescence is Seia self-account; loneliness is adult question she denies. Current355 is frozen; no clinical/general certainty.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-CHAR-HASUMI",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 39612,
+          "sha256": "473c300b5d050d518df619dccb005a96e9011e21f57c8f7c1b3c1f7a8c501029"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+          "bytes": 39631,
+          "sha256": "104b0c00036d49c05b50a26594f556e155a0847bb73fe955ff0040679d5e9a5c",
+          "lines": 152
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 82,
+            "before": "Summer does not have to end flawlessly to count as enjoyed. A schedule crowded with her name, a refusal to transfer burdens and deferred clothes shopping establish that preparation has a cost. After the actual shopping, the beach brings sandcastle and burial play, water and wing-balancing pleasure, but also food refusal and an interrupted volleyball game. She awakens in shade, with carrying reported by the adult, having eaten nothing; neither a clinical cause nor a harmlessness certificate follows. Her subsequent meal is explicitly delicious and happy. Fireworks last until they are used up, and she later describes exceptional enjoyment. The promised future visit remains unshown, as does the completion of volleyball. A conclusion which keeps only the dizziness discards her actual wanted life; one which keeps only fireworks erases the cost. [H01:10124:002–006, all MomoTalk endings]\n",
+            "after": "Summer does not have to end flawlessly to count as enjoyed. A schedule crowded with her name, a refusal to transfer burdens and deferred clothes shopping establish that preparation has a cost. After the actual shopping, the beach brings sandcastle and burial play, water and wing-balancing pleasure, but also food refusal and an interrupted volleyball game. She awakens in shade, identifying the adult as having carried her, having eaten nothing; neither a clinical cause nor a harmlessness certificate follows. Her subsequent meal is explicitly delicious and happy. Fireworks last until they are used up, and she later describes exceptional enjoyment. The promised future visit remains unshown, as does the completion of volleyball. A conclusion which keeps only the dizziness discards her actual wanted life; one which keeps only fireworks erases the cost. [H01:10124:002–006, all MomoTalk endings]\n"
+          },
+          {
+            "line": 126,
+            "before": "The three profiles preserve literal metadata and different descriptions without becoming a universal age progression. Their present routes all belong to the declared Hasumi family; their school-year, age, birthday, height and interests are written fields rather than measurements of growth between stories. Base café and lobby lines include reading, rest, food resistance, work and threats; sports and summer lines anticipate movement, seasonal meetings, birthdays and protection. Such wishes and pledges are meaningful written characterization, but “never lose” or future availability is not a demonstrated invariant. The summer introduction's qualified expectation of enjoying a guard assignment is not proof that the entire holiday is carefree. [H01:449–516, five Hasumi written objects]\n",
+            "after": "The three profiles preserve literal metadata and different descriptions without becoming a universal age progression. Their present routes all belong to the declared Hasumi family; their school-year, age, birthday, height and interests are written fields rather than measurements of growth between stories. Base café and lobby lines include reading, rest, food resistance, work and threats; sports and summer lines anticipate movement, seasonal meetings, birthdays and protection. Such wishes and pledges are meaningful written characterization, but “never lose” or future availability is not a demonstrated invariant. The summer introduction's qualified expectation of enjoying a guard assignment is not proof that the entire holiday is carefree. [H01:365–382; 476–481, five Hasumi written objects]\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 150,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Hasumi identifies adult carrying; preserve speaker attribution and exact H014 direct source scope.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-CHAR-NATSU-CH0155",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NATSU_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 58239,
+          "sha256": "099b247f9203f73c581973ffff4a3e39ddc9c2d5cbabc21ad733929d5f996575"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NATSU_CHARACTER_MONOGRAPH.md",
+          "bytes": 58268,
+          "sha256": "55916d3989fb1573fc618f32fd6ef819179513024427b7e7dcc73c70ac5275e2",
+          "lines": 161
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 110,
+            "before": "Yoshimi has ordinary taste, effort and wanted performance rather than serving as a permanently naïve audience. She has her own possible holiday plan, rejects the icicle trip and ultimately helps with the rescue. Her chant can be laughed at and then revised into a group version; her fatigue and technical constraints differ from Kazusa's. In the café she and Natsu first fail to frighten, while her later insistence on the intended purpose helps the group correct the experience. When Natsu wants more occasions to perform, Yoshimi can stop her. Their band contributions differ without one proving the other's lesser worth. Yoshimi's continuation of imitation after Kazusa's stop requests belongs to that separate GROUP2001 scene, and it remains a serious contrary to a uniformly gentle club rather than conduct redistributed across every member. [G: complete GROUP2001–2002 arguments](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md) [A: L195–198, L229–230](../../02%20Sequential%20Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md) [E: L917–929](../../02%20Sequential%20Readings/EVENTS/EVENT_841/BLUE_ARCHIVE_EVENT_841_CONTEXTUALIZATION_CHECKPOINT.md)\n",
+            "after": "Yoshimi has ordinary taste, effort and wanted performance rather than serving as a permanently naïve audience. She has her own possible holiday plan, rejects the icicle trip and ultimately helps with the rescue. Her chant can be laughed at and then revised into a group version; her fatigue and technical constraints differ from Kazusa's. In the café she and Natsu first fail to frighten, while her later insistence on the intended purpose helps the group correct the experience. When Natsu wants more occasions to perform, Yoshimi wants someone to stop her. Their band contributions differ without one proving the other's lesser worth. Yoshimi's continuation of imitation after Kazusa's stop requests belongs to that separate GROUP2001 scene, and it remains a serious contrary to a uniformly gentle club rather than conduct redistributed across every member. [G: complete GROUP2001–2002 arguments](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md) [A: L195–198, L229–230](../../02%20Sequential%20Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md) [E: L917–929](../../02%20Sequential%20Readings/EVENTS/EVENT_841/BLUE_ARCHIVE_EVENT_841_CONTEXTUALIZATION_CHECKPOINT.md)\n"
+          },
+          {
+            "line": 134,
+            "before": "The decisive measure is whether experience can retain particular wanted value while leaving other people room to answer. Natsu sometimes makes that room: a conditional invitation, a private discovery, a loved gift without a compulsory label and a lunch whose enjoyment can end the lecture. Elsewhere the recipient supplies a correction: Hasumi's clothes concern, Kazusa's old-name boundary, Airi's actual motive, Yoshimi's stopping a performance or the friends' refusal of adventure. None of these need be discarded because the stakes are ordinary. The resultant character argument distinguishes accomplished pleasure and practical care from unfinished consent, protection, technical improvement, chronology and repaired understanding. It is complete at this literary boundary without claiming an infallible doctrine of romance or a predictive personality model. [P: L479–506](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [S7: L33–45](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md) [A: L176–180, L229](../../02%20Sequential%20Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md)\n",
+            "after": "The decisive measure is whether experience can retain particular wanted value while leaving other people room to answer. Natsu sometimes makes that room: a conditional invitation, a private discovery, a loved gift without a compulsory label and a lunch whose enjoyment can end the lecture. Elsewhere the recipient supplies a correction: Hasumi's clothes concern, Kazusa's old-name boundary, Airi's actual motive, Yoshimi's wish for someone to stop further plans or the friends' refusal of adventure. None of these need be discarded because the stakes are ordinary. The resultant character argument distinguishes accomplished pleasure and practical care from unfinished consent, protection, technical improvement, chronology and repaired understanding. It is complete at this literary boundary without claiming an infallible doctrine of romance or a predictive personality model. [P: L479–506](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [S7: L33–45](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md) [A: L176–180, L229](../../02%20Sequential%20Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md)\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 159,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Yoshimi wants someone to stop her; completed stopping is not represented. Preserve actual opposing wishes and ordinary shared work.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-CHAR-SHIMIKO",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIMIKO_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 60063,
+          "sha256": "8be8881541798d3c1d259272e2d6398d7a45ad6aabd1e6efe8d381aa357680d9"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIMIKO_CHARACTER_MONOGRAPH.md",
+          "bytes": 60063,
+          "sha256": "7aa59a2d13594081af9e37659e01ff26ed539bd3525861446cf6709a40f4608a",
+          "lines": 189
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 40,
+            "before": "Public comparisons widen this thesis without replacing the ordinary repertoire. In812 she admits a professional restoration limit and refers to Ui rather than pretending mastery. In851 she chooses media research and costume craft, makes a deliberately timed appearance and helps the audience contribute to a pursuit; her work also costs Ui sleep and has unshown material-use permission. These are different boundaries of competence and recipient care. The practical library, expert ancient-text work, performance and quiet company remain distinct responsibilities, with their actual successes, fears and unfinished consequences visible. [B:E002u0031–0061/current L365–367](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md) [V:E002/E011/E013/E017, L115/133/137–149](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)\n",
+            "after": "Public comparisons widen this thesis without replacing the ordinary repertoire. In812 she admits a professional restoration limit and refers to Ui rather than pretending mastery. In851 she chooses media research and costume craft, makes a deliberately timed appearance and helps the audience contribute to a pursuit; her work also costs Ui sleep and has unshown material-use permission. These are different boundaries of competence and recipient care. The practical library, expert ancient-text work, performance and quiet company remain distinct responsibilities, with their actual successes, fears and unfinished consequences visible. [B:E002u0031–0061/current L365–369](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md) [V:E002/E011/E013/E017, L115/133/137–149](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)\n"
+          },
+          {
+            "line": 64,
+            "before": "Public competence includes knowing when a book is beyond ordinary repair. In812Shimiko calls the damaged object something that used to be a book, distinguishes repair and restoration, and explains that reconnecting ancient text requires reading it. Her bandage/medicine versus surgery analogy is a professional explanation, not a literal living-book or medical claim. She identifies Ui as the exceptional specialist, explaining the “magician” nickname as skill rather than supernatural power. Admission of her limit and useful referral defeat an omniscient-librarian account without becoming refusal to help. [B:E002u0001–0061/current L365–367](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)\n",
+            "after": "Public competence includes knowing when a book is beyond ordinary repair. In812Shimiko calls the damaged object something that used to be a book, distinguishes repair and restoration, and explains that reconnecting ancient text requires reading it. Her bandage/medicine versus surgery analogy is a professional explanation, not a literal living-book or medical claim. She identifies Ui as the exceptional specialist, explaining the “magician” nickname as skill rather than supernatural power. Admission of her limit and useful referral defeat an omniscient-librarian account without becoming refusal to help. [B:E002u0001–0061/current L365–369](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)\n"
+          },
+          {
+            "line": 78,
+            "before": "In812consultation creates professional responsibility alongside secrecy. Shimiko is not blaming Hinata, but still asks for library quiet and receives compliance. The empty box and Kama Sutra substitute are relayed through questions and adult replies rather than a narrated replay; Hanako's copy is mentioned without Hanako speaking. Another substitution is considered against exposure to guards, and a feared public reading or school division is a forecast rather than an enacted crisis. Shimiko values being trusted and wants to help while hesitating. Useful civic concern and the adult-supported cover story therefore coexist; expertise does not make concealment self-authorizing. [B:E002u0001–0046/current L365–367](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)\n",
+            "after": "In812consultation creates professional responsibility alongside secrecy. Shimiko is not blaming Hinata, but still asks for library quiet and receives compliance. The empty box and Kama Sutra substitute are relayed through questions and adult replies rather than a narrated replay; Hanako's copy is mentioned without Hanako speaking. Another substitution is considered against exposure to guards, and a feared public reading or school division is a forecast rather than an enacted crisis. Shimiko values being trusted and wants to help while hesitating. Useful civic concern and the adult-supported cover story therefore coexist; expertise does not make concealment self-authorizing. [B:E002u0001–0046/current L365–369](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)\n"
+          },
+          {
+            "line": 80,
+            "before": "Ui's specialist work and later restoration cannot be assigned to Shimiko because she made a good referral. The current812 ending supports restored-scripture handoff, venue diversion, recognized substitute and resumed presentation at their accepted scope, while entry/swap steps, consent, casualties, treatment and later investigation remain unshown. Perfect-copy equivalence and the private inquiry are Ui's report/plan, not a measured certificate or revealed contents. Shimiko's own contribution is locating an appropriate expertise and maintaining norms; the people doing later work retain the credit and questions of that work. [B:E002 and final restoration/accountability, L365–367/375–387/397](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)\n",
+            "after": "Ui's specialist work and later restoration cannot be assigned to Shimiko because she made a good referral. The current812 ending supports restored-scripture handoff, venue diversion, recognized substitute and resumed presentation at their accepted scope, while entry/swap steps, consent, casualties, treatment and later investigation remain unshown. Perfect-copy equivalence and the private inquiry are Ui's report/plan, not a measured certificate or revealed contents. Shimiko's own contribution is locating an appropriate expertise and maintaining norms; the people doing later work retain the credit and questions of that work. [B:E002 and final restoration/accountability, L365–369/375–387/397](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)\n"
+          },
+          {
+            "line": 108,
+            "before": "The812 response contrasts by admitting a threshold of expertise. Shimiko wants to help and explains why ordinary repair cannot handle the damaged scripture. Her referral is a concrete constructive act, while guard exposure and public embarrassment remain predictions. This is neither a failed restoration performed by her nor proof she guarantees Ui's success. The end of her small object is at the referral, with later outcomes supplied by different accepted owners. The comparison makes competence conditional on knowing what one can do, locating another person's skill and maintaining the distinction between proposed risk and completed consequence. [B:E002u0024–0061/current L365–367/387](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)\n",
+            "after": "The812 response contrasts by admitting a threshold of expertise. Shimiko wants to help and explains why ordinary repair cannot handle the damaged scripture. Her referral is a concrete constructive act, while guard exposure and public embarrassment remain predictions. This is neither a failed restoration performed by her nor proof she guarantees Ui's success. The end of her small object is at the referral, with later outcomes supplied by different accepted owners. The comparison makes competence conditional on knowing what one can do, locating another person's skill and maintaining the distinction between proposed risk and completed consequence. [B:E002u0024–0061/current L365–369/387](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)\n"
+          },
+          {
+            "line": 124,
+            "before": "Adult support is not uniformly a permission certificate. Praise after the coercive library encounter does not make the punishment proportionate. In812adult replies and options participate in the hazardous substitution explanation; offered responsibility for possessing the book does not establish a harmless cover story. In private the adult's choice to value company is meaningful, while Shimiko's birthday want remains not yet delivered. These distinctions let helpful responses, ethical errors, alternatives and unfinished duties coexist without an omniscient-teacher interpretation. [P:enforcement praise, birthday and adult ethics, L421/461/524–525](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [B:E002u0011–0046/current L365–367](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)\n",
+            "after": "Adult support is not uniformly a permission certificate. Praise after the coercive library encounter does not make the punishment proportionate. In812adult replies and options participate in the hazardous substitution explanation; offered responsibility for possessing the book does not establish a harmless cover story. In private the adult's choice to value company is meaningful, while Shimiko's birthday want remains not yet delivered. These distinctions let helpful responses, ethical errors, alternatives and unfinished duties coexist without an omniscient-teacher interpretation. [P:enforcement praise, birthday and adult ethics, L421/461/524–525](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [B:E002u0011–0046/current L365–369](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)\n"
+          },
+          {
+            "line": 130,
+            "before": "Ui is a specialist and a person whose space and rest matter independently. Shimiko describes her exceptional ancient-text ability and guardedness; the description is not a lifelong diagnosis, and the “magician” epithet explicitly does not establish magic. Ui later performs the particular restoration and reporting work in812. In851Ui watches rapid reading/craft and loses sleep, while the planned knocking-out response is not enacted. Shimiko's useful referral and successful making coexist with that recipient cost. Their Library connection does not make their methods, access rules or desired company identical. [B:E002/current L365–367/375–387](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md) [V:E017, L149](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md) [P:distinct book/space practice, L489/507–509](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)\n",
+            "after": "Ui is a specialist and a person whose space and rest matter independently. Shimiko describes her exceptional ancient-text ability and guardedness; the description is not a lifelong diagnosis, and the “magician” epithet explicitly does not establish magic. Ui later performs the particular restoration and reporting work in812. In851Ui watches rapid reading/craft and loses sleep, while the planned knocking-out response is not enacted. Shimiko's useful referral and successful making coexist with that recipient cost. Their Library connection does not make their methods, access rules or desired company identical. [B:E002/current L365–369/375–387](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md) [V:E017, L149](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md) [P:distinct book/space practice, L489/507–509](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)\n"
+          },
+          {
+            "line": 132,
+            "before": "Hinata retains distress, compliance and independent later care. Shimiko clarifies she is not blaming her and asks for quiet; Hinata apologizes and complies. Their accepted812 small argument retains exact actor seams so Hinata's apology/fear is not turned into Shimiko's self-speech and Shimiko's professional/civic hesitation is not transferred to Hinata. Hinata's careful inventory, enjoyed food and chosen practical help in the private comparison are her own achievements rather than evidence that she is another librarian. A request to calm down can help maintain a reading room without erasing the distressed person's wants or making every later concealment ethical. [B:E002u0004–0046/current L365–367](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md) [P:Hinata/Ui/Shimiko difference, L266–268/509](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)\n",
+            "after": "Hinata retains distress, compliance and independent later care. Shimiko clarifies she is not blaming her and asks for quiet; Hinata apologizes and complies. Their accepted812 small argument retains exact actor seams so Hinata's apology/fear is not turned into Shimiko's self-speech and Shimiko's professional/civic hesitation is not transferred to Hinata. Hinata's careful inventory, enjoyed food and chosen practical help in the private comparison are her own achievements rather than evidence that she is another librarian. A request to calm down can help maintain a reading room without erasing the distressed person's wants or making every later concealment ethical. [B:E002u0004–0046/current L365–369](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md) [P:Hinata/Ui/Shimiko difference, L266–268/509](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)\n"
+          },
+          {
+            "line": 142,
+            "before": "Shimiko's address alternates invitation, preference inquiry, apology, enthusiasm, rules and playful lending language. 「返却不可」 in a happy message is not a literal ownership contract; an actual return deadline remains in another whole thread. Her story about a lonely auxiliary verb is grammar play, not a normal fairy tale simply mislabeled. The book-repair medical analogy explains a specialized limit without becoming guidance for bodies. The magician epithet excludes actual magic. These written choices support a situated bookish voice richer than either permanent disciplinary threat or universally soft reassurance. [P:language and complete tails, L433–445/527–528](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [B:E002u0031–0053/current L365–367](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)\n",
+            "after": "Shimiko's address alternates invitation, preference inquiry, apology, enthusiasm, rules and playful lending language. 「返却不可」 in a happy message is not a literal ownership contract; an actual return deadline remains in another whole thread. Her story about a lonely auxiliary verb is grammar play, not a normal fairy tale simply mislabeled. The book-repair medical analogy explains a specialized limit without becoming guidance for bodies. The magician epithet excludes actual magic. These written choices support a situated bookish voice richer than either permanent disciplinary threat or universally soft reassurance. [P:language and complete tails, L433–445/527–528](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [B:E002u0031–0053/current L365–369](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)\n"
+          },
+          {
+            "line": 144,
+            "before": "The private enforcement seams remain printed; secure surrounding evidence does not authorize a repaired native turn map. In812E002the inherited accepted argument identifies u4/u41 as Hinata-text under Shimiko labels andu29/u30 as Shimiko-text under Hinata labels, with exact raw commands attributed to that original analytical inspection. This author received the complete small argument but did not rerun native/raw checks. Its actor-specific correction can consequently be used at its declared evidence scope without claiming new provenance certainty. Unknown narration and option duplicates stay distinct from public speech and all selected alternatives. [P:exact private seams, L419/528](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [B:E002 exact attribution/current L365–367/393–397](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)\n",
+            "after": "The private enforcement seams remain printed; secure surrounding evidence does not authorize a repaired native turn map. In812E002the inherited accepted argument identifies u4/u41 as Hinata-text under Shimiko labels andu29/u30 as Shimiko-text under Hinata labels, with exact raw commands attributed to that original analytical inspection. This author received the complete small argument but did not rerun native/raw checks. Its actor-specific correction can consequently be used at its declared evidence scope without claiming new provenance certainty. Unknown narration and option duplicates stay distinct from public speech and all selected alternatives. [P:exact private seams, L419/528](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [B:E002 exact attribution/current L365–369/393–397](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)\n"
+          },
+          {
+            "line": 156,
+            "before": "An omniscient book expert interpretation can cite the profile's collection claim and successful wanted-book search. It cannot certify all libraries, every reader, the hoped-for rare book or ancient-text restoration beyond her stated capacity. A failure-only interpretation loses useful referral, the actual loan, completed adult work and good local rest. Competence is source-located and differentiated: she can know a shelf system, make a room wanted and admit a limit; Ui can have another specialist task. A positively received outcome neither guarantees every method nor eliminates its literary value when an adjacent goal fails. [P:failed hunt/actual loan/rest/profile, L435–461/507–509](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [B:E002/current L365–367](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)\n",
+            "after": "An omniscient book expert interpretation can cite the profile's collection claim and successful wanted-book search. It cannot certify all libraries, every reader, the hoped-for rare book or ancient-text restoration beyond her stated capacity. A failure-only interpretation loses useful referral, the actual loan, completed adult work and good local rest. Competence is source-located and differentiated: she can know a shelf system, make a room wanted and admit a limit; Ui can have another specialist task. A positively received outcome neither guarantees every method nor eliminates its literary value when an adjacent goal fails. [P:failed hunt/actual loan/rest/profile, L435–461/507–509](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [B:E002/current L365–369](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)\n"
+          },
+          {
+            "line": 162,
+            "before": "Substantial achieved ends remain: recommended reading, completed work and reading until dawn, enjoyed sorting after failed treasure, found and borrowed wanted book, actual adult sleep/regained energy, shared gift food/work and blanket care, honest referral, timed performance arrival and audience search. Unfinished or failed ends remain equally precise: no hoped-for unknown book, not-yet-returned loan, not-yet-delivered birthday alternative, visitor learning/safety/restitution unproved, material permission and Ui rest unsettled, and no whole-backlog/clinical/civic repair certificate. These outcomes sustain a distinct person who enjoys making reading and company wanted, with limits that her recipients help expose. [P:whole ending judgments, L421–445/461/534–560](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [C:gift056, L276](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md) [B:E002/final limits, L365–367/387](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md) [V:craft/afterstories, L141–149](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)\n",
+            "after": "Substantial achieved ends remain: recommended reading, completed work and reading until dawn, enjoyed sorting after failed treasure, found and borrowed wanted book, actual adult sleep/regained energy, shared gift food/work and blanket care, honest referral, timed performance arrival and audience search. Unfinished or failed ends remain equally precise: no hoped-for unknown book, not-yet-returned loan, not-yet-delivered birthday alternative, visitor learning/safety/restitution unproved, material permission and Ui rest unsettled, and no whole-backlog/clinical/civic repair certificate. These outcomes sustain a distinct person who enjoys making reading and company wanted, with limits that her recipients help expose. [P:whole ending judgments, L421–445/461/534–560](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [C:gift056, L276](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md) [B:E002/final limits, L365–369/387](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md) [V:craft/afterstories, L141–149](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 177,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "E812 professional norms/referral statement includes369; exact citations365–369, with count qualifier handled separately.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-CHAR-KAYOKO",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYOKO_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 44797,
+          "sha256": "8011e23447a250cc9458d4fb2080f08bef0cffda4251790e136c04e44c5f5de2"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYOKO_CHARACTER_MONOGRAPH.md",
+          "bytes": 44759,
+          "sha256": "a5188ff6439915da5b400ec3493b3b55a81fcd354eccdcd3e643ae5512bcfc27",
+          "lines": 195
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 142,
+            "before": "Ako's rescue scene is distinct again. The prefect who can represent an institutional complication is presently trapped and asks through an impeded situation; Kayoko offers and exerts help, Ako thanks her and wants a later meeting. The local escape reports are stronger than an unfulfilled wish, but the future meeting remains unprinted. Their encounter cannot be reduced to predictable school antagonism or used to erase the institutional asymmetry. This particular act deserves a directed relationship question at its actual scope. [EVENT823003F19–F21.]\n",
+            "after": "Ako's rescue scene is distinct again. The prefect who can represent an institutional complication is presently trapped; Kayoko offers and exerts help, Ako thanks her and wants a later meeting. The local escape reports are stronger than an unfulfilled wish, but the future meeting remains unprinted. Their encounter cannot be reduced to predictable school antagonism or used to erase the institutional asymmetry. This particular act deserves a directed relationship question at its actual scope. [EVENT823003F19–F21.]\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 194,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Actual trapped foot/help/thanks remain; request is unprinted at inspected adequate analytical grade, not a primary disproof.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-CHAR-SHIZUKO",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIZUKO_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 48012,
+          "sha256": "37c6c33d3f37a668e90dc33df2cba76575b94f92eccf03f55e69f9362c421e20"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIZUKO_CHARACTER_MONOGRAPH.md",
+          "bytes": 48026,
+          "sha256": "a82baec335d72cc6a28725941807395e521f675f74d8822a186346656d0b1e4f",
+          "lines": 176
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 143,
+            "before": "**The harmless charming klutz.** Rehearsed mistakes, embarrassment, comedic phrasing and the microphone recovery can sustain this reading locally. Genuine danger, actual collapse, unasked arm contact, enforced embarrassment suppression and pain after surrender defeat its harmless universal form. Nor can the analyst decide every slip is intentionally staged: the text presents disagreement and one direct correction. Charm is a practiced and sometimes successful public resource, not permission to remove receivers' refusals. [BA:bond:23006:002/005/015; :26008:003; BA:event:847:002.]\n",
+            "after": "**The harmless charming klutz.** Rehearsed mistakes, embarrassment, comedic phrasing and the microphone recovery can sustain this reading locally. Genuine danger, actual collapse, unasked arm contact, enforced embarrassment suppression, pain, surrender and a request to stop defeat its harmless universal form. Nor can the analyst decide every slip is intentionally staged: the text presents disagreement and one direct correction. Charm is a practiced and sometimes successful public resource, not permission to remove receivers' refusals. [BA:bond:23006:002/005/015; :26008:003; BA:event:847:002.]\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 175,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Pain, surrender and request to stop occur in direct scene summary; post-stop continuation remains explicitly derived reading at its retained analytical scope.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-CHAR-FINA",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_FINA_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 40941,
+          "sha256": "872cdf8dcccf0779bb27db2c0039d7d7dec365b7aa1b64ac15e92366b5999ced"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_FINA_CHARACTER_MONOGRAPH.md",
+          "bytes": 40938,
+          "sha256": "3a868fae2f99d9f832e642c51dbb905ca8054d315dbf256823ee402bcd928354",
+          "lines": 167
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 88,
+            "before": "Company is reciprocal in different ways. She wants the adult to experience the chocolate-cup novelty with her, values their place in her life and asks for continued shared pleasures. In the film set, the protagonist's similarity to her present clothes helps her find satisfaction, and later discussion has actual shared extent. In the guide ending she wants to visit as a guest rather than as a worker, withdraws the request, receives the adult's appraisal that the trip was fun and ends grateful. Withdrawal is not proof the wish vanished, adult enjoyment is not an enacted future guest trip, and gratitude is not blanket agreement to further work. Those differences leave a substantive wanted future without needing to invent its fulfillment. [BA:event:810:069; BA:bond:16004:003/005; BA:momotalk:20045:thread:200450350:messages550–650.]\n",
+            "after": "Company is reciprocal in different ways. She wants the adult to experience the chocolate-cup novelty with her, values their place in her life and asks for continued shared pleasures. In the film set, the protagonist's similarity to her present clothes helps her find satisfaction, and later discussion has actual shared extent. In the guide ending she wants to visit as a guest rather than as a worker, withdraws the request, receives the adult's appraisal that it sounds fun and ends grateful. Withdrawal is not proof the wish vanished, adult enjoyment is not an enacted future guest trip, and gratitude is not blanket agreement to further work. Those differences leave a substantive wanted future without needing to invent its fulfillment. [BA:event:810:069; BA:bond:16004:003/005; BA:momotalk:20045:thread:200450350:messages550–650.]\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 166,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Sounds fun appraises a future guest trip. Actual work, wanted future leisure and grateful anticipation remain distinct.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-INST-GEHENNA-FREEDOM",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS.md",
+        "prior_current_tuple": {
+          "bytes": 49807,
+          "sha256": "c34a3d70ff85e9351fc7eb086af24943e193a045bb74a8df5e2539a49c176ff9"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS.md",
+          "bytes": 50042,
+          "sha256": "47ecfba0fa82c1322291df83f97bbb4fbba0963dcc5c55aeb574bda65ee0327e",
+          "lines": 202
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 28,
+            "before": "**GF001.** Gehenna’s freedom is meaningful because its students want unlike lives. A bath, a pudding, an uninterrupted book, a beautiful broadcast, a quiet shrine visit, a competent kitchen, a holiday with friends and a successful protection operation are different goods. They cannot be translated without remainder into loyalty to the president, service to Hina, or the teacher’s preferred version of togetherness. The school’s strongest institutional promise is the permission for such differences to persist; its recurrent failure is to treat someone’s own pleasure, protection or collective identity as sufficient authority over another person’s time, property or body. This is a connected institutional argument about freedom’s recipients and maintenance, rather than a catalogue of unruly clubs. [O0;O5;O8;O25;O101;O104;SUP26;SUP40]\n",
+            "after": "**GF001.** Gehenna’s freedom is meaningful because its students want unlike lives. A bath, a pudding, an uninterrupted book, a beautiful broadcast, a quiet shrine visit, a competent kitchen, a holiday with friends and a successful protection operation are different goods. They cannot be translated without remainder into loyalty to the president, service to Hina, or the teacher’s preferred version of togetherness. The school’s strongest institutional promise is the permission for such differences to persist; its recurrent failure is to treat someone’s own pleasure, protection or collective identity as sufficient authority over another person’s time, property or body. This is a connected institutional argument about freedom’s recipients and maintenance, rather than a catalogue of unruly clubs. [O0;O5;O8;O25;O37:001/u39–59/66;O101;O104;SUP26;SUP40]\n"
+          },
+          {
+            "line": 30,
+            "before": "**GF002.** The two halves belong together. Haruna’s desire to include Izumi, Akari’s clean wrapping and friendship appeal, Iroha’s work that actually rescues others, Hina’s restraint, Mayumi’s pleasure in improving a broadcast and the actual continuing preparation of meals are positive human goods. Junko’s objections, Fuuka’s interrupted warning, Iroha’s refusal, the bystanders who recoil from a changed Prefect regime and the destroyed Shiba venue are equally necessary evidence. Neither good intentions nor real harm grants permission to erase the other half. The institutional question is who can answer the person affected, and who carries the consequences when no satisfactory answer is printed. [O0:1101–1104;O5;O101:003–015;SUP42;SUP44;PS18:111–187]\n",
+            "after": "**GF002.** The two halves belong together. Haruna’s desire to include Izumi, Akari’s clean wrapping and friendship appeal, Iroha’s work that actually rescues others, Hina’s restraint, Mayumi’s pleasure in maintaining the range and the actual continuing preparation of meals are positive human goods. Junko’s objections, Fuuka’s interrupted warning, Iroha’s refusal, the bystanders who recoil from a changed Prefect regime and the destroyed Shiba venue are equally necessary evidence. Neither good intentions nor real harm grants permission to erase the other half. The institutional question is who can answer the person affected, and who carries the consequences when no satisfactory answer is printed. [O0:1101–1104;O5;O101:003–015;SUP42;SUP44;PS18:111–187]\n"
+          },
+          {
+            "line": 54,
+            "before": "**GF012.** Hina’s bath, fatigue, offered ice pop, gratitude, suspicious bag boundary and piano are equally institutional evidence. They show a wanted life that protection work should make possible, rather than proof that the protector deserves exemption from answering others. Her actual performance and the party’s finite pleasures need no subsequent catastrophe to justify attention. The MINI birthday account’s earlier atmosphere is described as cold, so Reijo’s challenge to the teacher’s claimed transformation must retain that source wording; it cannot be used to invent an already lively room or remove the independently real cake, peer and campfire moments. [O25:3501–3502;O104:050;N19]\n",
+            "after": "**GF012.** Hina’s bath, fatigue, offered ice pop, gratitude, suspicious bag boundary and piano are equally institutional evidence. They show a wanted life that protection work should make possible, rather than proof that the protector deserves exemption from answering others. Her actual performance and the party’s finite pleasures need no subsequent catastrophe to justify attention. The MINI birthday account’s earlier atmosphere is described as cold, so Reijo’s challenge to the teacher’s claimed transformation must retain that source wording; it cannot be used to invent an already lively room or remove the independently real cake and peer pleasures or the accepted campfire invitation. [O25:3501–3502;O62:016/u55–63;O104:050;N19]\n"
+          },
+          {
+            "line": 70,
+            "before": "**GF018.** The Prefect Committee performs protection and can also become a source of boundary violations. Its practical help, procedural distinctions and opposition to arbitrary violence supply genuine institutional goods. Its reports, resource demands, intrusive interventions, quota pressures and unequal rest burdens are not thereby trivial. In GROUP1901–1902, audit and report layers and the wanted rescue of Fuuka need their own scope: neither a spoken quota nor a gunfire scene proves an inspected trajectory or completed schoolwide audit. Hina’s competence and Iori’s force should be read through specific recipients and authorization, not a generic protective essence. [O8;SUP26;SUP44;PS18]\n",
+            "after": "**GF018.** The Prefect Committee performs protection and can also become a source of boundary violations. Its practical help, procedural distinctions and opposition to arbitrary violence supply genuine institutional goods. Its reports, resource demands, intrusive interventions and unequal rest burdens are not thereby trivial. In GROUP1901–1902, audit and report layers and the wanted rescue of Fuuka need their own scope: neither a report demand nor a gunfire scene proves an inspected trajectory or completed schoolwide audit. Hina’s competence and Iori’s force should be read through specific recipients and authorization, not a generic protective essence. [O8;SUP26;SUP44;PS18]\n"
+          },
+          {
+            "line": 82,
+            "before": "**GF023.** Gehenna’s problem is not that ordinary desire opposes responsibility. Students often choose to work because work supplies company, pride, competence or pleasure: Mayumi repairs a broadcast she wants to improve, Fuuka wants recipients to enjoy food, Juri wants useful contribution, and a maker can enjoy construction for itself. Such desires are evidence of agency before an adult praises them. The problem begins when their chosen labor becomes an inexhaustible resource for somebody else’s plans or when the maker’s joy substitutes for the recipient’s answer. [SUP42;O5;O36;O101]\n",
+            "after": "**GF023.** Gehenna’s problem is not that ordinary desire opposes responsibility. Students often choose to work because work supplies company, pride, competence or pleasure: Mayumi helps clean and repair the range because she wants Gehenna’s daily life to improve, Fuuka wants recipients to enjoy food, Juri wants useful contribution, and a maker can enjoy construction for itself. Such desires are evidence of agency before an adult praises them. The problem begins when their chosen labor becomes an inexhaustible resource for somebody else’s plans or when the maker’s joy substitutes for the recipient’s answer. [SUP42;O5;O36;O101]\n"
+          },
+          {
+            "line": 92,
+            "before": "**GF027.** The holiday’s portions illustrate the same mechanism without a battle or fiscal chart. Iroha makes four portions look like five, removes dessert and accepts unchosen chores. The scene is not a nutritional audit, but it is an intelligible allocation of ordinary goods and work. Ibuki’s delight in dolphins and later pudding should not be made less valuable because Iroha is burdened; Iroha’s burden should not become consent because Ibuki is delighted. The group’s company depends on both differentiated wants and uneven maintenance. [O101:003/011–014]\n",
+            "after": "**GF027.** The holiday’s portions illustrate the same mechanism without a battle or fiscal chart. Iroha makes four portions look like five, removes dessert and accepts unchosen chores. The scene is not a nutritional audit, but it is an intelligible allocation of ordinary goods and work. Ibuki’s delight in dolphins and her separately represented shared pudding should not be made less valuable because Iroha is burdened; Iroha’s burden should not become consent because Ibuki is delighted. The group’s company depends on both differentiated wants and uneven maintenance. [O101:003/011–014;O78:114/u35]\n"
+          },
+          {
+            "line": 94,
+            "before": "**GF028.** Comparison clarifies what a better answer can look like without prescribing one uniform institution. Saki takes Miyu’s watch and receives first food choice; Rei receives an actual listening break and shared stadium snack; Rena’s operation refusal is respected before later voluntary help; friends invite Kaede again after learning that a prior refusal did not mean permanent exclusion. Each example turns on a particular person’s answer at a particular time. None proves a perfect school, and none should be excluded for having only ordinary consequences. [O20;O23;O93;O14]\n",
+            "after": "**GF028.** Comparison clarifies what a better answer can look like without prescribing one uniform institution. Saki takes Miyu’s watch and receives first food choice; Rei receives an actual listening break and enjoys stadium food during a shared outing; Rena’s operation refusal is respected before later voluntary help; friends invite Kaede again after learning that a prior refusal did not mean permanent exclusion. Each example turns on a particular person’s answer at a particular time. None proves a perfect school, and none should be excluded for having only ordinary consequences. [O20;O23;O93;O14]\n"
+          },
+          {
+            "line": 116,
+            "before": "**GF037.** Other schools’ cases supply consequential adult contraries. A dropped photograph creates Kazusa’s actual privacy lapse; suggestive arrangements can pressure a choice even when no order is printed; secrecy exchanged for swimming affects a privacy bargain; a monetary offer does not answer a visitor’s bodily complaint. They are comparisons of a position, not grounds for attributing those actions to a Gehenna student. They block an easy reading in which the adult automatically guarantees freedom simply by appearing in the scene. [O49;O55;O91;O75]\n",
+            "after": "**GF037.** Other schools’ cases supply consequential adult contraries and tests of bodily listening. A dropped photograph creates Kazusa’s actual privacy lapse; suggestive arrangements can pressure a choice even when no order is printed; secrecy exchanged for swimming affects a privacy bargain; Kotori’s monetary offer does not answer Mikoto’s bodily complaint. They are comparisons of a position, not grounds for attributing those actions to a Gehenna student. They block an easy reading in which the adult automatically guarantees freedom simply by appearing in the scene. [O49;O55;O91;O75]\n"
+          },
+          {
+            "line": 124,
+            "before": "**GF040.** Makoto–Iroha–Ibuki company is similarly differentiated. Makoto wants loyalty and a desired apology; Iroha wants rest, safety and limits on photographs; Ibuki wants help, dolphins, toys, pudding and time together. Chiaki’s journal and photograph wish and Satsuki’s recruitment or hypnosis proposal add more directions rather than one collective appetite. Iroha’s actual apology to Chiaki is not the unprinted mutual apology with Makoto, and Ibuki’s actual pleasure is not every member’s assent. The holiday’s company is a practical achievement that does not unify all its recipients. [O101:001–015;O41;O27]\n",
+            "after": "**GF040.** Makoto–Iroha–Ibuki company is similarly differentiated. Makoto wants loyalty and a desired apology; Iroha wants rest, safety and limits on photographs; Ibuki wants help, dolphins, toys, pudding and time together. Chiaki’s journal and photograph wish and Satsuki’s recruitment or hypnosis proposal add more directions rather than one collective appetite. Iroha’s actual apology to Chiaki is not the unprinted mutual apology with Makoto, and Ibuki’s actual pleasure is not every member’s assent. The holiday’s company is a practical achievement that does not unify all its recipients. [O101:001–015;O41;O27;O78:114/u21–35]\n"
+          },
+          {
+            "line": 156,
+            "before": "**GF052.** **All harm expresses cruelty.** Actual retaliation, blasts, silencing pressure and imposed sameness prevent a wholly innocent reading. But the motives and alternatives differ: Haruka’s attachment and later ratification are not one prior command; an overreaching protector differs from an attacker seeking credit; a care routine can harm without printing the intended trap the critic suspects. The proper institutional inference is neither acquittal nor an omniscient verdict on every heart. It is a claim about actions, recipients and unfinished answers at the source’s actual attribution scope. [PS18;O11;O6;O101]\n",
+            "after": "**GF052.** **All harm expresses cruelty.** Actual retaliation, blasts, silencing pressure and imposed sameness prevent a wholly innocent reading. But the motives and alternatives differ: Haruka’s attachment and demolition, followed by Aru’s ratification, are not one prior command; an overreaching protector differs from an attacker seeking credit; a care routine can harm without printing the intended trap the critic suspects. The proper institutional inference is neither acquittal nor an omniscient verdict on every heart. It is a claim about actions, recipients and unfinished answers at the source’s actual attribution scope. [PS18;O11;O6;O101]\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 192,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Separate proposed shrine/campfire from enacted goods; preserve recipients, source associations, privacy versus student dinner-money offer, Mayumi/Shoko and Haruka/Aru order. Defer precise quota detail at present source grade.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-ENSEMBLE-GOURMET-DIFFERENTIATED-PLEASURE",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_GOURMET_DIFFERENTIATED_PLEASURE_ENSEMBLE_SYNTHESIS.md",
+        "prior_current_tuple": {
+          "bytes": 50892,
+          "sha256": "b926d3828a3bed14c0ddc904e6091eb71d1ceae850c3279283ecf8712900bfc3"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_GOURMET_DIFFERENTIATED_PLEASURE_ENSEMBLE_SYNTHESIS.md",
+          "bytes": 50916,
+          "sha256": "f1c2c531f1ddd68fc655a349e3011fbae1b500483dc70bb9ef2a6456fd7f77c7",
+          "lines": 177
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 121,
+            "before": "[GPE039] Japanese and Korean formulations are kept at their own strength. Izumi's reported member priorities and commissioning order differ; Akari's vehicle ending differs between a designated driver/home and a hotel; Haruna's attack-denial and chosen-person wording differ; Junko's written cooking wish differs from a conditional cooking offer. A common summary cannot infer the stronger reading in both locales. Generic#st logs, inward adult thoughts, named#na expression, anonymous narration, formal alternatives, whole-message tails and conditioned costume lines remain separate modes. A text can narrate actual feeding or departure without an inspected recording, while a VoiceId or a script command cannot supply performed timing, tone, music or acted assent. This package receives accepted analytical meanings and their qualifications, not a fresh raw or media corpus. (AKARI-PRIVATE-07:L14–44; IZUMI-PRIVATE-09:L22–28; IZUMI-PRIVATE-10:L22–28; HARUNA-PRIVATE-05:L20–34; HARUNA-PRIVATE-11:L26–38; JUNKO-PRIVATE-11:L14–23; PUBLIC-01:L544–550.)\n",
+            "after": "[GPE039] Japanese and Korean formulations are kept at their own strength. Izumi's reported member priorities and commissioning order differ; Akari's vehicle ending differs between a designated driver/home and a hotel; Haruna's attack-denial and chosen-person wording differ; Junko's written cooking wish differs from a cooking thought conditional on being able to cook. A common summary cannot infer the stronger reading in both locales. Generic#st logs, inward adult thoughts, named#na expression, anonymous narration, formal alternatives, whole-message tails and conditioned costume lines remain separate modes. A text can narrate actual feeding or departure without an inspected recording, while a VoiceId or a script command cannot supply performed timing, tone, music or acted assent. This package receives accepted analytical meanings and their qualifications, not a fresh raw or media corpus. (AKARI-PRIVATE-07:L14–44; IZUMI-PRIVATE-09:L22–28; IZUMI-PRIVATE-10:L22–28; HARUNA-PRIVATE-05:L20–34; HARUNA-PRIVATE-11:L26–38; JUNKO-PRIVATE-11:L14–23; PUBLIC-01:L544–550.)\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 176,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Cooking is a thought conditional on ability, not an actual offer. Preserve ordinary taste, gratitude and all prior PR152 qualifications.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-CHAR-MEG",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MEG_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 37427,
+          "sha256": "0feee52d329645281859cc2c0fc8b82c453ed48c0ff2d1499d0296070aedf5fc"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MEG_CHARACTER_MONOGRAPH.md",
+          "bytes": 37448,
+          "sha256": "12baf404ed87117e9db21226ad80d7e0cd2106153c44842ce84fbbb81e73ed74",
+          "lines": 162
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 53,
+            "before": "Event808 gives a trajectory that cannot be folded into a simple improvement arc. A beautiful spa first appears to relieve deprivation and provide free use. Its expanding plans threaten the school district; a dispute becomes defeat; reuse receives actual permission; Meg then destroys the buildings. Survival, a remaining pool and a crowded bath coexist with loss of housing, water and work. Event848 supplies a completed replacement bath, volunteer assent and chosen company, followed within that event by a confirmed villa explosion and continuing cleanup costs. Other contexts show responsive and destructive capacities recurring in different configurations. Their exact source-world order relative to each private encounter remains unresolved. [E808:001,009–012; E848:008–011; G07]\n",
+            "after": "Event808 gives a trajectory that cannot be folded into a simple improvement arc. A beautiful spa first appears to relieve deprivation and provide free use. Its expanding plans threaten the school district; a dispute becomes defeat; reuse receives actual permission; Meg then destroys the buildings. Survival, a remaining pool and a crowded bath coexist with loss of housing, water and work. Event848 supplies a completed replacement bath and volunteer assent. Its confirmed villa explosion leaves continuing cleanup costs, while later chosen company remains a finite positive outcome. Other contexts show responsive and destructive capacities recurring in different configurations. Their exact source-world order relative to each private encounter remains unresolved. [E808:001,009–012; E848:008–011; G07]\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 161,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Explosion/cleanup precede later chosen company; preserve achieved company without changing local causal order.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-INST-SHANHAIJING-GENRYUMON-TRADITION-UNCHOSEN-OFFICE",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SHANHAIJING_GENRYUMON_INSTITUTION_SYNTHESIS.md",
+        "prior_current_tuple": {
+          "bytes": 45209,
+          "sha256": "1866a74bff9b1c930f82ff8576f404b850bffbeec0537d8b4604e4545267d661"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SHANHAIJING_GENRYUMON_INSTITUTION_SYNTHESIS.md",
+          "bytes": 45224,
+          "sha256": "d8535e8b667ba0a37f78c8f298b02478d9455e2658cc590ac24374bc31defca6",
+          "lines": 171
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 136,
+            "before": "**GI044.** **Urgency makes procedure irrelevant, or procedure alone supplies the answer.** Kai's imposed dependency and threatened harms support the safety concern behind a shortcut. Actual erased records and Kaguya's critique support the procedural concern. Kai's refusal to comply with later expulsion and the absence of a full formal process defeat both easy closures. The work provides a sustained conflict over which duties to act upon and who bears the risk. It does not print the statute, audit or uncomplicated alternative needed for a complete legal judgment. [A03:L128; A04:L114–124]\n",
+            "after": "**GI044.** **Urgency makes procedure irrelevant, or procedure alone supplies the answer.** Kai's imposed dependency and threatened harms support the safety concern behind a shortcut. Kisaki's admission of record erasure and Kaguya's critique support the procedural concern. Kai's refusal to comply with later expulsion and the absence of a full formal process defeat both easy closures. The work provides a sustained conflict over which duties to act upon and who bears the risk. It does not print the statute, audit or uncomplicated alternative needed for a complete legal judgment. [A03:L128; A04:L114–124]\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 170,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Record erasure is Kisaki admission with Kaguya objection; no physical archive inspection is asserted.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-REL-SHANHAIJING-RUMI-DIFFERENT-DIRECTIONS",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHANHAIJING_RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+        "prior_current_tuple": {
+          "bytes": 41996,
+          "sha256": "1a9846f464c7d2d8b67d3fc199a313710e00adeb137338bd7e0bbc2778456da8"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHANHAIJING_RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+          "bytes": 42046,
+          "sha256": "376edb5e0b438d6d947530324de997b06f8aa9dcb5ea0fc5fe0d0a4f9fae9083",
+          "lines": 179
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 28,
+            "before": "**Current ROOT receiving and publication boundary.** ROOT independently accepted this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual author/ROOT custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the unchanged original and full byte inverse. Original pending/audit/local-navigation/count statements describe creation-time history. The first25% milestone is complete at merged89/main `b76b4373e6d0526bc78ce00bb673dba9e536c128` after the exact ROOT-accepted full postmerge audit. Ordinary local2714 reconciliation and the current published101 source `bf5ded30464ab39f78f71e79ecc7494654c25faa`/tree `f84fb33df77dfcef9fb7270cb4d1064f6ec9c898` have separately bound custody; its source→housekeeping NOOP→final exact-head full292-test audit chain is ROOT-accepted. This fixed seven-package102–108 proposal persists only through complete ROOT installation, giving108 (93 character,7 directed relationship,3 ensemble,5 institution) and6 completed non-denominator named duties; later109+ reviews remain outside this snapshot. Required355 packages/29 duties across25 parents, next178 milestone, all14 original OPEN gaps and model0 remain unchanged. Mechanical transport adds no literary, primary, performed, independent, scope or model credit. **Package-specific operative qualification:** Preserve all167 final original lines and exact body inverse. Transport both adjacent source/claim links through an explicit reviewed derivative. Keep both distinct full named directions, private normal adequate scopes, source7546 versus new same-tree main/head, historical individualgift120 versus current canonical hash difference, qualified actor carriers and all fourteen OPEN gap meanings. No monograph proxy completion.\n",
+            "after": "**Current ROOT receiving and publication boundary.** ROOT independently accepted this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual author/ROOT custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the unchanged original and full byte inverse. Original pending/audit/local-navigation/count statements describe creation-time history. The first25% milestone is complete at merged89/main `b76b4373e6d0526bc78ce00bb673dba9e536c128` after the exact ROOT-accepted full postmerge audit. Ordinary local2714 reconciliation and the current published101 source `bf5ded30464ab39f78f71e79ecc7494654c25faa`/tree `f84fb33df77dfcef9fb7270cb4d1064f6ec9c898` have separately bound custody; its source→housekeeping NOOP→final exact-head full292-test audit chain is ROOT-accepted. This fixed seven-package102–108 proposal persists only through complete ROOT installation, giving108 (93 character,7 directed relationship,3 ensemble,5 institution) and6 completed non-denominator named duties; later109+ reviews remain outside this snapshot. Required355 packages/29 duties across25 parents, next178 milestone, all14 original OPEN gaps and model0 remain unchanged. Mechanical transport adds no literary, primary, performed, independent, scope or model credit. **Package-specific operative qualification:** Preserve all167 final original lines and exact body inverse. Transport both adjacent source/claim links through an explicit reviewed derivative. Keep both distinct full named directions, private normal adequate scopes, source7546 versus new same-tree main/head, gift120 raw-table and canonical-object hashes as distinct artifact kinds, qualified actor carriers and all fourteen OPEN gap meanings. No monograph proxy completion.\n"
+          },
+          {
+            "line": 92,
+            "before": "**RR025.** The anniversary tea encounter provides another bounded comparison. Kisaki articulates tea as pleasure with a friend, anticipates a taste and stages a rebuke expressly called a joke. Undisclosed club-assisted addition and the adult's surprise nevertheless remain. The current small normal meaning and current comparison support sensory company, subjective relaxation and non-disclosure; they do not certify a therapeutic mechanism or every added substance. The historical individual source hash remains historical against current routing. Neither entirely harmless nor inherently coercive hospitality can be inferred for all of her relationships from this gift. [A09:L024–044; A11:L032/L099–102]\n",
+            "after": "**RR025.** The anniversary tea encounter provides another bounded comparison. Kisaki articulates tea as pleasure with a friend, anticipates a taste and stages a rebuke expressly called a joke. Undisclosed club-assisted addition and the adult's surprise nevertheless remain. The current small normal meaning and current comparison support sensory company, subjective relaxation and non-disclosure; they do not certify a therapeutic mechanism or every added substance. A09 reports a raw-table hash; A11 retains canonical-object hash metadata. Their inequality establishes no source-version change. Neither entirely harmless nor inherently coercive hospitality can be inferred for all of her relationships from this gift. [A09:L024–044; A11:L032/L099–102]\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 177,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "A raw-table hash and canonical-object hash identify different artifact kinds; inequality alone establishes no source-version change.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-REL-REIJO-KAGUYA",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_REIJO_KAGUYA_RELATIONSHIP_SYNTHESIS.md",
+        "prior_current_tuple": {
+          "bytes": 40512,
+          "sha256": "aeeb130fd45f3f765a2f52c99a2fad1cf494ce2c8276d94dbb714e71620fed5f"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_REIJO_KAGUYA_RELATIONSHIP_SYNTHESIS.md",
+          "bytes": 40549,
+          "sha256": "b309c03f109dba39b0765ec8e67ad1a20f50eabe1ad1131f0f03a8e31473e499",
+          "lines": 160
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 51,
+            "before": "**RKG007.** Reijo's accepted private repertoire likewise keeps her from becoming only the competitive martial advocate. Voluntary weekend/weather rest, embarrassment over mental-discipline grades, fictional kung-fu restaurant discussion and shared genre pleasure coexist. Her wish to be protected at least once and her locally calm, tentative closeness with Sensei show that competent guarding does not exhaust what she wants. Attention to children's food shapes and preferences belongs to her recipient-facing work; her own desired sweets and pleasure in being asked to welcome children again retain their different ordinary value. None is a Kaguya encounter; their use here is comparative. They prevent explaining all her attachment to kung fu as domination while also supplying actual contrasts to her failure to listen during the morning. [S04:97–109; BA:bond:10104:002:u0020–0021/u0045–0053;003:u0085/u0099–0100;006:u0055–0062.]\n",
+            "after": "**RKG007.** Reijo's accepted private repertoire likewise keeps her from becoming only the competitive martial advocate. Voluntary weekend/weather rest, embarrassment while being seen training and evasion of a separate grade question, fictional kung-fu restaurant discussion and shared genre pleasure coexist. Her wish to be protected at least once and her locally calm, tentative closeness with Sensei show that competent guarding does not exhaust what she wants. Attention to children's food shapes and preferences belongs to her recipient-facing work; her own desired sweets and pleasure in being asked to welcome children again retain their different ordinary value. None is a Kaguya encounter; their use here is comparative. They prevent explaining all her attachment to kung fu as domination while also supplying actual contrasts to her failure to listen during the morning. [S04:97–109; BA:bond:10104:002:u0020–0021/u0045–0053;003:u0085/u0099–0100;006:u0055–0062.]\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 159,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Embarrassment being seen training and evasion of a separate grade question do not establish shame over grades.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-CHAR-KOTORI",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 59979,
+          "sha256": "3a108a0d06e49316b00a353d86519dc8a0104bf30ac53a5f458e19f4b6a58ba5"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md",
+          "bytes": 59994,
+          "sha256": "3269d3a4a3628451a848ceafcb6dab9355f52fd89854c36f59619427b4115ac3",
+          "lines": 162
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 57,
+            "before": "The library episode has another limit. Kotori undertakes to explain an anonymous girl's feelings, studies several kinds of writing, and notices an interrupted analogy to her own thinking about Sensei. She explicitly distinguishes herself from the girl. An adult bathroom request is followed by actual narrated non-return and a later message saying the problem was solved; the complete thread then keeps something explicitly secret. It licenses a connection between interpreting somebody else and encountering a personal difficulty, while resisting both a certified peer diagnosis and a full romantic disclosure. The anonymous girl and librarian retain their own local positions; neither is silently joined to a named person merely to make the comparison tidier. [16002:005u0001–0055/thread160020130, especiallymessage160020240:1296](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)\n",
+            "after": "The library episode has another limit. Kotori undertakes to explain an anonymous girl's feelings, studies several kinds of writing, and notices an interrupted analogy to her own thinking about Sensei. She explicitly distinguishes herself from the girl. Kotori's bathroom permission request is followed by her actual narrated non-return and a later message saying the problem was solved; the complete thread then keeps something explicitly secret. It licenses a connection between interpreting somebody else and encountering a personal difficulty, while resisting both a certified peer diagnosis and a full romantic disclosure. The anonymous girl and librarian retain their own local positions; neither is silently joined to a named person merely to make the comparison tidier. [16002:005u0001–0055/thread160020130, especiallymessage160020240:1296](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 161,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Preserve independent actor: Kotori permission/departure/nonreturn; Iroha photograph refusal versus Chiaki souvenir framing.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-CHAR-CHIAKI",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHIAKI_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 41946,
+          "sha256": "71ba789650588873c47318aab026307496537f3a7e8b9b37343b4fef7107ad73"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHIAKI_CHARACTER_MONOGRAPH.md",
+          "bytes": 42011,
+          "sha256": "f8c9a0d85bf26ca89b275f32561f004072f20a3645b59258dcbc09a8b6a12e2a",
+          "lines": 183
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 95,
+            "before": "Event860 gives a contrasting public environment for her appetite to observe and document. Ghost-ship and historical explanations retain report or deduction scope; photographs can be accepted or refused. Iroha's early dismissal and refusal coexist with a later actual apology to Chiaki and another declined face photograph. The Odysseia photo encounter includes a stated right to refuse and particular assent; a treasured photo is represented without the monograph inspecting its pixels. Actual rescue and replacement boat matter, while her thicker-issue and happy-ending wishes in written material do not themselves prove publication or complete repair. Later conquest material is retrospectively dream-qualified. [E860:002–014,016–027; CA12.]\n",
+            "after": "Event860 gives a contrasting public environment for her appetite to observe and document. Ghost-ship and historical explanations retain report or deduction scope; photographs can be accepted or refused. Iroha's early photograph refusal and Chiaki's souvenir characterization coexist with a later actual apology to Chiaki and another declined face photograph. The Odysseia photo encounter includes a stated right to refuse and particular assent; a treasured photo is represented without the monograph inspecting its pixels. Actual rescue and replacement boat matter, while her thicker-issue and happy-ending wishes in written material do not themselves prove publication or complete repair. Later conquest material is retrospectively dream-qualified. [E860:002–014,016–027; CA12.]\n"
+          },
+          {
+            "line": 111,
+            "before": "Iroha's answers are a recurrent test of Chiaki's attention. An early photo refusal and souvenir dismissal in Event860 are not evidence that the recipient never values her work. A later actual apology is meaningful, and another refusal remains a refusal. Chiaki's joking interpretation of feelings toward Makoto elicits qualified replies; it is not proof of a hidden universal affection. This relationship includes recognition, discomfort, disagreement and repair at finite scope, without requiring either unrestricted documentation or permanent hostility. [E860:002,011–013; CA12.]\n",
+            "after": "Iroha's answers are a recurrent test of Chiaki's attention. Iroha’s early photograph refusal, alongside Chiaki’s souvenir characterization in Event860, is not evidence that Iroha never values her work. A later actual apology is meaningful, and another refusal remains a refusal. Chiaki's joking interpretation of feelings toward Makoto elicits qualified replies; it is not proof of a hidden universal affection. This relationship includes recognition, discomfort, disagreement and repair at finite scope, without requiring either unrestricted documentation or permanent hostility. [E860:002,011–013; CA12.]\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 181,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Preserve independent actor: Kotori permission/departure/nonreturn; Iroha photograph refusal versus Chiaki souvenir framing.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-CHAR-IROHA",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IROHA_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 42295,
+          "sha256": "34bc492ffac01608e6a5bb359cb06eeceeacffa8f54d9e9ab51b4e5a5a849ff2"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IROHA_CHARACTER_MONOGRAPH.md",
+          "bytes": 42309,
+          "sha256": "23fcb8a403e5a263d5ec6d0aaf94b3d59fade71af5f2d6614126cfbda7042db5",
+          "lines": 185
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 115,
+            "before": "Chiaki has her own documentation and desires. Iroha refuses a photo and dismisses a souvenir in the holiday's early phase; a later actual apology to Chiaki is stronger than the costume's future kinder-treatment intention. Iroha declines another face photograph. The accepted photo during Odysseia hospitality includes an explicit right to refuse and particular assent, not blanket permission for all images. Chiaki's group joke about Iroha's feeling toward Makoto remains a prompt with qualified replies. Her kindness and enjoyment are not merely material through which Iroha's hidden emotions are proved. [E860:002,011–013; IR13.]\n",
+            "after": "Chiaki has her own documentation and desires. Iroha refuses a photograph, while Chiaki calls it a souvenir in the holiday's early phase; a later actual apology to Chiaki is stronger than the costume's future kinder-treatment intention. Iroha declines another face photograph. The accepted photo during Odysseia hospitality includes an explicit right to refuse and particular assent, not blanket permission for all images. Chiaki's group joke about Iroha's feeling toward Makoto remains a prompt with qualified replies. Her kindness and enjoyment are not merely material through which Iroha's hidden emotions are proved. [E860:002,011–013; IR13.]\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 184,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Iroha refuses the photograph while Chiaki calls it a souvenir; preserve distinct recipients and later privacy/choice limitations.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-CHAR-JURI",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_JURI_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 44827,
+          "sha256": "203b27f1d917106c213bad3a4852b9a07911fd2fbef25992c83cd3c53458904f"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_JURI_CHARACTER_MONOGRAPH.md",
+          "bytes": 44830,
+          "sha256": "1c5af64a898738cbd511e07dcad3c38a3f46c98bbe523083c714c0545a92f45f",
+          "lines": 213
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 134,
+            "before": "EVENT820 gives Juri independent concern and initiative within a group often organized around Haruna. She questions the proprietor's right to decide about closure and later challenges necessity rhetoric about those who refuse. She wants to help, study and shop, shows ingredient knowledge, and contributes completed carrots. Fuuka's own new agreement and opposing workers' possible costs remain independent decisions. Juri's final peace/better-cooking wish is still a wish, while the sea-bream rampage report is contrary evidence. Neither all-purpose solidarity nor blanket chaos explains this differentiated agency. [E820002/006–009/013–015]\n",
+            "after": "EVENT820 gives Juri independent concern and initiative within a group often organized around Haruna. She raises a question about the proprietor’s closure decision and later challenges necessity rhetoric about those who refuse. She wants to help, study and shop, shows ingredient knowledge, and contributes completed carrots. Fuuka's own new agreement and opposing workers' possible costs remain independent decisions. Juri's final peace/better-cooking wish is still a wish, while the sea-bream rampage report is contrary evidence. Neither all-purpose solidarity nor blanket chaos explains this differentiated agency. [E820002/006–009/013–015]\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 212,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Closure decision question is supported; stronger rights-closure reading remains unresolved at current adequate source grade, not disproved primary meaning.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-REL-HINA-AKO-SERVICE-INDEPENDENT-WANTS",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_HINA_AKO_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+        "prior_current_tuple": {
+          "bytes": 46691,
+          "sha256": "e77e71657099e4980358dd518ec7b23e62d716cd2bf24d16ceb2cd633e79dfb3"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_HINA_AKO_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+          "bytes": 46701,
+          "sha256": "ca41a643648dcf6482f571564d964bcf957a7ebdbceb44caa9718e1b008354bc",
+          "lines": 202
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 90,
+            "before": "**HA021.** Inward utterances create another boundary. Ako's twenty-thousand-character report is an internal statement, not information automatically delivered to Hina or Sensei. The incomplete emergency-at-a-cafe idea, later set aside because of the burden on Hina, remains a conditioned thought rather than an executed scheme. Likewise Hina's private resignation wish and the sports-festival warning about Sena need not be heard by Ako. An analyst can compare these records retrospectively while the characters retain their unequal local knowledge. Assuming complete mutual disclosure would remove the very interpretation, worry and failed contact that the scenes represent. [A:70–98,140–156; H:119–151; N01:493; N09:1–96; N11:1–55]\n",
+            "after": "**HA021.** Inward utterances create another boundary. The twenty-thousand-character report formulation is an internal statement, not information automatically delivered to Hina or Sensei. The incomplete emergency-at-a-cafe idea, later set aside because of the burden on Hina, remains a conditioned thought rather than an executed scheme. Likewise Hina's private resignation wish and the sports-festival warning about Sena need not be heard by Ako. An analyst can compare these records retrospectively while the characters retain their unequal local knowledge. Assuming complete mutual disclosure would remove the very interpretation, worry and failed contact that the scenes represent. [A:70–98,140–156; H:119–151; N01:493; N09:1–96; N11:1–55]\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 201,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Twenty-thousand-character internal report has unresolved thinker/actor at exact adequate source scope; neutralize attribution without assigning it to another person or reverting PR152 unit correction.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-CHAR-M014",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 40862,
+          "sha256": "cfadb1520e6abff16a0f0ec3ad6bff2adf14078c51398c644564565ea83af7bf"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+          "bytes": 40860,
+          "sha256": "8611e8f9dacfb0f7d0d402abfa4de7123b49cb299d3fdc1963a9435e2df583e8",
+          "lines": 184
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 126,
+            "before": "**HE-R04 — Pain justifies the initial politics.** A remembered arm lock makes the complaint concrete. It does not identify Rin as its author or validate the rumor repeated to the Sports Association. Kaya's affirmation and later contradiction are the adverse case. Recognizing Heine's cost and assessing her accusation require two judgments; sympathy cannot replace causal warrant. The actual record still leaves treatment and full recovery unknown. [HE03 L40; HE_PLUS02 L34.]\n",
+            "after": "**HE-R04 — Pain justifies the initial politics.** A remembered arm lock makes the complaint concrete. It does not identify Rin as its author or validate the rumor Heine repeats during Kaya's call. Kaya's affirmation and later contradiction are the adverse case. Recognizing Heine's cost and assessing her accusation require two judgments; sympathy cannot replace causal warrant. The actual record still leaves treatment and full recovery unknown. [HE03 L40; HE_PLUS02 L34.]\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 183,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Seed correction: preserve request/target distinction, rumor-recipient uncertainty, guard acceptance, and split Kaya chronology before/after Yukino objection.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-CHAR-M017",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 47142,
+          "sha256": "114817fe48a42bbf55b23eed78ad8840a828a43c8ea702affa1cb4dd040526f7"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+          "bytes": 47294,
+          "sha256": "7b0dafe1d5053b1f79e5323a9a92b28fe78fc4fd2c46dfb7385b027621ec5ec8",
+          "lines": 184
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 52,
+            "before": "**KA-C05.** The chapter then tests the administration against actual recipients and practical dependencies. The C002 checkpoint retains the restrictive street-document regime, the resident's delayed hospital journey until Kanna accepts an exception, Finance rejecting defective claims, Red Winter protest and problems responding to reported theft. Kaya's explanation moves toward a missing ingredient of fear. Her E013 order to detonate a named warhead under a station with civilians, disguise the result as accident and replace Traffic personnel is a concrete escalation of method. It is no generic promise to restore order: the specific civilian-risk objection reaches her, and she proceeds. The chronology within this chapter is adequate for that escalation; a whole cross-volume calendar is unnecessary and remains unproved. [KA16 L40–46; KA05 L24–34.]\n",
+            "after": "**KA-C05.** The chapter then tests the administration against actual recipients and practical dependencies. The C002 checkpoint retains the restrictive street-document regime, the resident's delayed hospital journey until Kanna assembles an exception route that the Kaiser guard accepts, Finance rejecting defective claims, Red Winter protest and problems responding to reported theft. Kaya's explanation moves toward a missing ingredient of fear. Her E013 order to detonate a named warhead under a station with civilians, disguise the result as accident and replace Traffic personnel is a concrete escalation of method. It is no generic promise to restore order: the specific civilian-risk objection reaches her, and she proceeds. The chronology within this chapter is adequate for that escalation; a whole cross-volume calendar is unnecessary and remains unproved. [KA16 L40–46; KA05 L24–34.]\n"
+          },
+          {
+            "line": 135,
+            "before": "| R04 — Helpless Kaiser or FOX puppet | The General pressures her for money, replaces her objective and orders confinement; FOX has its own school aims. Kaya independently chooses fear, the target, deception and offered railway rights after hearing the civilian objection. | Vulnerability and dependence explain constraints; they do not remove her represented initiative or distribute every decision to another actor. KA14 L36–40; KA05 L30–34. |\n",
+            "after": "| R04 — Helpless Kaiser or FOX puppet | The General pressures her for money, replaces her objective and orders confinement; FOX has its own school aims. Kaya independently chooses fear and the station target before Yukino's civilian objection; after hearing it, she acknowledges the projected harm, proceeds with the plan, proposes concealment as an accident, and offers railway rights. | Vulnerability and dependence explain constraints; they do not remove her represented initiative or distribute every decision to another actor. KA14 L36–40; KA05 L30–34. |\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 182,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Seed correction: preserve request/target distinction, rumor-recipient uncertainty, guard acceptance, and split Kaya chronology before/after Yukino objection.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-CHAR-M031",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RIN_CHARACTER_MONOGRAPH.md",
+        "prior_current_tuple": {
+          "bytes": 50790,
+          "sha256": "0718bf72cfaf3ce8efe89821919a49ef3031b006d9cf98f35b67846248c13efe"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RIN_CHARACTER_MONOGRAPH.md",
+          "bytes": 50839,
+          "sha256": "3d1c284b47f13c13e71deb2ce696c2597f6fa0f64d97615de4b0cc6488d021a8",
+          "lines": 213
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 50,
+            "before": "V004 gives a different institutional sequence. Schale is implicated in contested claims; investigation and collaboration are proposed; a federal meeting and a confidence question become instruments of conflict. The E007 account places its proceedings several hours before the E006 broadcast. This local order must be retained without borrowing Final's later vote problem as the result of the present prospective calls. Rin's request that an alleged collusion and the ancient-weapon matter receive the highest penalty is a request within a proceeding, not a printed tally or final judgment. Aoi, Heine and Sumomo have distinct represented positions, including literal actor seams. They do not become one unanimous consenting Council. [M4; E007]\n",
+            "after": "V004 gives a different institutional sequence. Schale is implicated in contested claims; investigation and collaboration are proposed; a federal meeting and a confidence question become instruments of conflict. The E007 account places its proceedings several hours before the E006 broadcast. This local order must be retained without borrowing Final's later vote problem as the result of the present prospective calls. Rin's request for the highest penalty against Kaiser's alleged armed seizure of federal authority and plan to operate the excavated ancient weapon is a request within a proceeding, not a printed tally or final judgment. Aoi, Heine and Sumomo have distinct represented positions, including literal actor seams. They do not become one unanimous consenting Council. [M4; E007]\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 212,
+        "ROOT_body_delta_approval": "ROOT89974e complete all26 changed-spans and 2026-10-12 manualacceptance;32f887 complete inverse verification",
+        "grade": "Seed correction: preserve request/target distinction, rumor-recipient uncertainty, guard acceptance, and split Kaya chronology before/after Yukino objection.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0
+      },
+      {
+        "package": "P3-INST-SCHOOL-LUNCH-WORK-RECIPIENTS",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SCHOOL_LUNCH_INSTITUTIONAL_SYNTHESIS.md",
+        "prior_current_tuple": {
+          "bytes": 59980,
+          "sha256": "d40a1733d8b9b14ae5402a96dd5f3e84d8cf3140cefa792160db0e14fb7380a6"
+        },
+        "effective_current_tuple": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SCHOOL_LUNCH_INSTITUTIONAL_SYNTHESIS.md",
+          "bytes": 60009,
+          "sha256": "0b3df270f9e440df71734821b70fcf6f941c2c6785a2e5e77aea72805f8c728d",
+          "lines": 225
+        },
+        "exact_differential_inverse": [
+          {
+            "line": 119,
+            "before": "Private care provides additional limits on success language. Fuuka's eighteen-dish effort has Japanese eating versus Korean tasting all eighteen, an adverse endpoint and an actual prescription; provision, administration, ingestion and cure are not printed. Eel purchase and return differ from later whole-thread testimony about today's dish, preparation and improved stamina. Juri's medicine is contemplated rather than prescribed, and repeated soup attempts leave the final dish unresolved. These cases qualify a competence-only account without equating all Fuuka care with Juri failure. The institutional synthesis uses them to distinguish a made dish, a reported effect, a proposed remedy and a completed recipient result. [F-CHK P02/P03; F-CMP Q05; J-CHK R01; J-CMP Q03.]\n",
+            "after": "Private care provides additional limits on success language. Fuuka's eighteen-dish effort has Japanese eating versus Korean tasting all eighteen, an adverse endpoint and an actual prescription; provision, administration, ingestion and cure are not printed. Eel purchase and return differ from later whole-thread questions about today's eel dish, hopes about its taste and a promise of a better next meal. Juri's medicine is contemplated rather than prescribed, and repeated soup attempts leave the final dish unresolved. These cases qualify a competence-only account without equating all Fuuka care with Juri failure. The institutional synthesis uses them to distinguish a made dish, a reported effect, a proposed remedy and a completed recipient result. [F-CHK P02/P03; F-CMP Q05; J-CHK R01; J-CMP Q03.]\n"
+          }
+        ],
+        "unaffected_lines_byte_identical": 224,
+        "ROOT_body_delta_approval": "ROOT c0b437 complete exact L119 before/after and 2026-10-12 explicit approval",
+        "grade": "PV06L20–28: intended stamina benefit, BOND purchase/return, adult awake/okay self-reports not medicalclearance, post-Schedule1728 todaydishquestion/1729 tastehope/1730 bettermealpromise. No report of preparation or improvedstamina. CurrentL159 already correctly keeps testimony separatefromwitnessedcooking.",
+        "source629_beforeimage_verified": true,
+        "new_source_credit": 0,
+        "ROOT_explicit_delta_approval_binding": {
+          "file_name": "ROOT_SCHOOL_LUNCH_L119_EXPLICIT_CURRENT_BODY_DELTA_APPROVAL_V1.json",
+          "bytes": 2123,
+          "sha256": "994a8df8372f86873d8cd2de8a1d7e244a3e4e4923282e60a087fa0be6e6ccd3"
+        }
+      }
+    ],
+    "frozen_original_payload_receipt_hash_inverse_mutation": false,
+    "all133_audit_complete_claim": false,
+    "new_package_source_primary_identity_model_milestone_credit": 0,
+    "merge_approval": "RESERVED",
+    "preserved_prepared_V1": {
+      "file_name": "BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V1.json",
+      "bytes": 123660,
+      "sha256": "ad878861124c62fe08699ec28849ff146ce3a85921674cca98bbf3c9d6c612a0",
+      "disposition": "PREPARED_HISTORY_PRESERVED;ONLY_NEW_SCHOOLLUNCH_DELTA_APPROVAL_STATE_QUALIFIED"
+    }
+  },
+  "actual_current_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AZUSA_CHARACTER_MONOGRAPH.md",
+      "bytes": 26700,
+      "sha256": "6db1f358d4618d212c3f3082c892f49efd06ff14ca8e9d1c8b82295be04b460c"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIFUMI_CHARACTER_MONOGRAPH.md",
+      "bytes": 28238,
+      "sha256": "cb4185c96c05cf04d1852381195849a018e573bde4451de8ef1f536b5ec28bec"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MIKA_CHARACTER_MONOGRAPH.md",
+      "bytes": 25220,
+      "sha256": "6af86d89d0c72d75d5da2bcdcb6863cc376cbcf87ba6f55de60994ed36858820"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NAGISA_CHARACTER_MONOGRAPH.md",
+      "bytes": 27135,
+      "sha256": "1ac4ebd98397fbee0d43660c8686fa8af073b6c57625c3020fae54c843c57d5a"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HANAKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 30597,
+      "sha256": "8b3c810f64cfed188e881af44181b03ba55af654042080c985fc26cfd1b40afa"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SEIA_CHARACTER_MONOGRAPH.md",
+      "bytes": 24945,
+      "sha256": "71661cdd2944ba906d7261133d895c5c92bf4c2592b07ed740205ec2dda50175"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "bytes": 39631,
+      "sha256": "104b0c00036d49c05b50a26594f556e155a0847bb73fe955ff0040679d5e9a5c"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NATSU_CHARACTER_MONOGRAPH.md",
+      "bytes": 58268,
+      "sha256": "55916d3989fb1573fc618f32fd6ef819179513024427b7e7dcc73c70ac5275e2"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIMIKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 60063,
+      "sha256": "7aa59a2d13594081af9e37659e01ff26ed539bd3525861446cf6709a40f4608a"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYOKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 44759,
+      "sha256": "a5188ff6439915da5b400ec3493b3b55a81fcd354eccdcd3e643ae5512bcfc27"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIZUKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 48026,
+      "sha256": "a82baec335d72cc6a28725941807395e521f675f74d8822a186346656d0b1e4f"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_FINA_CHARACTER_MONOGRAPH.md",
+      "bytes": 40938,
+      "sha256": "3a868fae2f99d9f832e642c51dbb905ca8054d315dbf256823ee402bcd928354"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_GEHENNA_FREEDOM_INSTITUTION_SYNTHESIS.md",
+      "bytes": 50042,
+      "sha256": "47ecfba0fa82c1322291df83f97bbb4fbba0963dcc5c55aeb574bda65ee0327e"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_GOURMET_DIFFERENTIATED_PLEASURE_ENSEMBLE_SYNTHESIS.md",
+      "bytes": 50916,
+      "sha256": "f1c2c531f1ddd68fc655a349e3011fbae1b500483dc70bb9ef2a6456fd7f77c7"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MEG_CHARACTER_MONOGRAPH.md",
+      "bytes": 37448,
+      "sha256": "12baf404ed87117e9db21226ad80d7e0cd2106153c44842ce84fbbb81e73ed74"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SHANHAIJING_GENRYUMON_INSTITUTION_SYNTHESIS.md",
+      "bytes": 45224,
+      "sha256": "d8535e8b667ba0a37f78c8f298b02478d9455e2658cc590ac24374bc31defca6"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHANHAIJING_RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 42046,
+      "sha256": "376edb5e0b438d6d947530324de997b06f8aa9dcb5ea0fc5fe0d0a4f9fae9083"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_REIJO_KAGUYA_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 40549,
+      "sha256": "b309c03f109dba39b0765ec8e67ad1a20f50eabe1ad1131f0f03a8e31473e499"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md",
+      "bytes": 59994,
+      "sha256": "3269d3a4a3628451a848ceafcb6dab9355f52fd89854c36f59619427b4115ac3"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHIAKI_CHARACTER_MONOGRAPH.md",
+      "bytes": 42011,
+      "sha256": "f8c9a0d85bf26ca89b275f32561f004072f20a3645b59258dcbc09a8b6a12e2a"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IROHA_CHARACTER_MONOGRAPH.md",
+      "bytes": 42309,
+      "sha256": "23fcb8a403e5a263d5ec6d0aaf94b3d59fade71af5f2d6614126cfbda7042db5"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_JURI_CHARACTER_MONOGRAPH.md",
+      "bytes": 44830,
+      "sha256": "1c5af64a898738cbd511e07dcad3c38a3f46c98bbe523083c714c0545a92f45f"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_HINA_AKO_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 46701,
+      "sha256": "ca41a643648dcf6482f571564d964bcf957a7ebdbceb44caa9718e1b008354bc"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "bytes": 41729,
+      "sha256": "591a26dafe7d99cb14cc2fa078d57c1b8d352920ee5de6f3e5ccbcfb0cfcee4b"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "bytes": 48102,
+      "sha256": "397ee45de5476ce53073fdc8e24e12bf0ee19bb78c2ad4748f2704264eeaf4ab"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RIN_CHARACTER_MONOGRAPH.md",
+      "bytes": 51552,
+      "sha256": "48e40dbdacb2f30b959f9e42975494ce49a185cdc4732e216e376d49eb2a7bcf"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SCHOOL_LUNCH_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 60009,
+      "sha256": "0b3df270f9e440df71734821b70fcf6f941c2c6785a2e5e77aea72805f8c728d"
+    }
+  ],
+  "current_total_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "current_total_wrapper_binding_and_recovery": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "current_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "preceding_preparation_tuple": {
+    "bytes": 124192,
+    "sha256": "1279488c9af126cd36f004fa782b5ad0f783ffd41d599821216abcc7d183c10f"
+  },
+  "original_transport_and_author_inverses": "UNCHANGED;COMPOSED_DIFFERENTIAL_FIRST",
+  "new_source_or_package_credit": 0
+}

@@ -1,0 +1,147 @@
+{
+  "schema": "konosuba.character-first-output-annotations.v1",
+  "assessed_utc": "2026-10-24T18:58:38.898378+00:00",
+  "generation": "HELMETED_NOBLE_EXPANDED_V1",
+  "first_outputs_pin": {
+    "file": "HELMETED_NOBLE_FIRST_OUTPUTS_DRAFT_01.json",
+    "bytes": 6646,
+    "sha256": "72706f575ac1456506d251cc42f1bdfa0906fa101b53d9a827292d21a0a4bad8"
+  },
+  "exact_inputs_pin": {
+    "file": "HELMETED_NOBLE_SCENARIO_INPUTS_01.json",
+    "bytes": 13816,
+    "sha256": "c485d2382aa7fe8c054b581fce5b0867432d3841b359cdbaf432a34e323f95e3"
+  },
+  "original_first_seal": {
+    "file": "COHORT39_ALL_ORIGINAL_FIRSTS_SEALED_01.json",
+    "bytes": 9865,
+    "sha256": "9fc27b3e2c8b87f22f79e0adc27e66f01ad7c7c64e89b4d335f7ee32478f0627"
+  },
+  "actual_complete_output_review_chunk": "ca18d4",
+  "annotations": [
+    {
+      "case_id": "HNO-A1",
+      "pair_id": "HNO-A",
+      "prompt_sha256": "c5a8e4802d1c8967e116a1a5c4136029296da3d0203a6949e28bfc8dcc9f12c7",
+      "original_body_pin": {
+        "file": "firsts01/HNO-A1.txt",
+        "bytes": 625,
+        "sha256": "2feb4ff07d19d6fe5505cc323bbd7d275877caff3b53093db52720a524c0b176"
+      },
+      "original_first_receipt": {
+        "file": "HNO-A1_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2008,
+        "sha256": "4583f8067c441cf96cd1e58c4d5888d3ee6cf8b7f18eb1abac405259c50f197d"
+      },
+      "target_rule": "HNO-R01",
+      "disposition": "BOUNDED_COMPATIBLE_ASSOCIATED_PURCHASE",
+      "observed": "Credits reliable note,buys scarf at stated price,asks no freshening and leaves manual.",
+      "body_constraints": "Only one purchase,after payment. No invented scent,photograph,magic authentication,Dust presence or reciprocal attention. Own careful handling is new action,not an imported acquisition history.",
+      "rule_comparison": "Matches associated-object direction. Input explicitly announces Dust contact,so generic sentimental collection and cue following remain strong rivals.",
+      "defects": [],
+      "original_body_changed": false,
+      "regenerated": false
+    },
+    {
+      "case_id": "HNO-A2",
+      "pair_id": "HNO-A",
+      "prompt_sha256": "bf9d47afba03a133ccd80ebf0a966ab63cd993f7f6625c5539836713d9b66911",
+      "original_body_pin": {
+        "file": "firsts01/HNO-A2.txt",
+        "bytes": 591,
+        "sha256": "1f2d6e7dd0cf92d75226f2d31fac13b925dc926e0e01054cda3c237b6ce2aa10"
+      },
+      "original_first_receipt": {
+        "file": "HNO-A2_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2009,
+        "sha256": "e3758fbdc1e43a0f051380bb50a3169cae62c6aeec35713791ba695a9c6467ac"
+      },
+      "target_rule": "HNO-R01",
+      "disposition": "COMPATIBLE_CHOICE_WITH_MINOR_UNBOUND_LANGUAGE",
+      "observed": "Leaves unassociated scarf and buys useful riding manual.",
+      "body_constraints": "No invented Dust association or second purchase. Marked price adds a price-marking detail absent input. Without an audience is loose because seller is present;it can mean absence of the desired social audience,but strict literal absence is not supplied. Both phrases remain exact and prevent an unqualified fully bound-body claim.",
+      "rule_comparison": "Lack of scarf preference fits the association hypothesis but manual usefulness is independently supplied. No calibrated willingness-to-pay or isolated motive result.",
+      "defects": [
+        "Unprovided price-marking detail in marked price.",
+        "Audience-absence wording is ambiguous with seller present."
+      ],
+      "original_body_changed": false,
+      "regenerated": false
+    },
+    {
+      "case_id": "HNO-B1",
+      "pair_id": "HNO-B",
+      "prompt_sha256": "154e6a56626ff7fb9c0a914728aa178e2787a9c7353843de6e5409737d6598a2",
+      "original_body_pin": {
+        "file": "firsts01/HNO-B1.txt",
+        "bytes": 631,
+        "sha256": "0597dc2da2c86dabebd3aa4f60ebf79174dac3c791e594717016012cfb436946"
+      },
+      "original_first_receipt": {
+        "file": "HNO-B1_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2009,
+        "sha256": "83e12080b84a780c59d00c27d3d701c0373875a76a725ab6e458d4e6423bdfee"
+      },
+      "target_rule": "HNO-R01",
+      "disposition": "BOUNDED_COMPATIBLE_PROTECTED_KEEPSAKE_LOAN",
+      "observed": "Offers valued scarf under supplied protective lining,no-wash and afternoon-return terms;plain spare remains available.",
+      "body_constraints": "No completed later return,new scarf,title authority,magic or invented intimacy. Return request is owned speech,not future fulfillment. Friend courtesy remains intact.",
+      "rule_comparison": "One possible finite loan,not an obligatory choice:plain spare also satisfies task and preserves keepsake. Explicit terms and valued aspect make generic attachment a strong rival.",
+      "defects": [],
+      "original_body_changed": false,
+      "regenerated": false
+    },
+    {
+      "case_id": "HNO-B2",
+      "pair_id": "HNO-B",
+      "prompt_sha256": "c2b0742e143d5ea7e72cc836dc554bf23de3f3a795d5ee2d1e425cabc244f66e",
+      "original_body_pin": {
+        "file": "firsts01/HNO-B2.txt",
+        "bytes": 629,
+        "sha256": "bdbe4acf2f4658a38066c45d21a609bd478b4bd61e1bc11cb370e0a3bc347bbb"
+      },
+      "original_first_receipt": {
+        "file": "HNO-B2_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2009,
+        "sha256": "476422cdee92feb647f4cf627166a9e45065b1dcfdea5b175d84b5d3097ba10d"
+      },
+      "target_rule": "HNO-R01",
+      "disposition": "BOUNDED_COMPATIBLE_SUBSTITUTE_PROVISION",
+      "observed": "Offers plain spare,keeps treasured scarf and accepts theater washing rule without inventing exemption.",
+      "body_constraints": "No extra scarf,return,intimacy or waiver;both items already belong to subject. Closing reflection explains his situated preference and is somewhat overt,but does not quote a model or assert a source event.",
+      "rule_comparison": "Compatible substitution;generic sentimental ownership would make the same choice. Explicit prompt value and workaround reduce diagnostic distinctiveness.",
+      "defects": [],
+      "original_body_changed": false,
+      "regenerated": false
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "HNO-A",
+      "disposition": "QUALIFIED_COMPATIBLE_DIRECTION_WITH_MINOR_LANGUAGE_DEFECTS",
+      "comparison": "Buys Dust-associated scarf versus useful manual when scarf has no Dust contact.",
+      "limits": "A2 price marking is unprovided and audience wording ambiguous. Source-known object cueing,manual utility and generic sentiment prevent clean motive isolation or strict full binding."
+    },
+    {
+      "pair_id": "HNO-B",
+      "disposition": "BOUNDED_COMPATIBLE_DEPENDENT_CONTRAST",
+      "comparison": "Lends protected keepsake versus offers equal plain spare under irreversible cleaning rule.",
+      "limits": "Input supplies valued aspect and substitute. Either scarf in B1 could meet practical task;no unique gold choice or clean mechanism isolation. This does not erase actual source consent violations."
+    }
+  ],
+  "original_firsts": 4,
+  "dependent_pairs": 2,
+  "unbound_or_ambiguous_detail_cases": [
+    "HNO-A2"
+  ],
+  "clean_mechanism_isolating_pairs": 0,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "same_informed_root_authors_and_assesses": true,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "Japanese_or_acoustic_voice_certification": false,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

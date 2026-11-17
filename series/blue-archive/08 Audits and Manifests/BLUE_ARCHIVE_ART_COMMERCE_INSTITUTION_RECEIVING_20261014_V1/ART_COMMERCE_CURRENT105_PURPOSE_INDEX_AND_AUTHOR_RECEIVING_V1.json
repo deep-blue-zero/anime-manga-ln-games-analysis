@@ -1,0 +1,2896 @@
+{
+  "schema": "ART_COMMERCE_CURRENT105_NEW_TARGET_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1",
+  "existing_home": "P3-INST-ART-COMMERCE-UNCHOSEN-HEADSHIP",
+  "current_body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ART_COMMERCE_AND_UNCHOSEN_HEADSHIP_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 49054,
+    "sha256": "450e4a1bcdd629269dc607652c5106ac4abf09d0fa83b97205fd40e8cfee6695",
+    "git_blob_oid_of_actual_bytes": "38436156d3fc53ddd16368016a78260bfde85f9b"
+  },
+  "current_source1": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT1_SOURCE_INPUT_AND_GRADE_RECEIVING_V1.json",
+    "bytes": 43230,
+    "sha256": "dc8b74790aec83c7d787ba83fd41f58f8feaceb11bacebb62f57cd60ec703630",
+    "git_blob_oid_of_actual_bytes": "8979e3e2aaefd58eb21cbd6b0ac1455d4c190dc3"
+  },
+  "current_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+      "bytes": 391873,
+      "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+      "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+      "bytes": 527768,
+      "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+      "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+      "bytes": 688509,
+      "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+      "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+    }
+  ],
+  "owner_rows": [
+    {
+      "owner_id": "O000",
+      "purpose_id": "ACP000",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/0",
+      "current_body_claim_ids": [
+        "ACLAIM016",
+        "ACLAIM037",
+        "ACLAIM051"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can sensory pleasure answer for an intervention's unwanted method?",
+        "own_new_Art_commerce_positive_connected_meaning": "Shared aroma and different mint tastes retain particular pleasure, like Ritsu's actual cake and the trio's café.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Overridden kitchen warning and final disorder do not yield a meal or repair.",
+        "own_new_Art_commerce_finite_result": "Use recipient-specific taste to distinguish café value from profitable or harmless commerce.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Require the completed meal, recipient permission and material aftermath for a stronger service verdict."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_ROOT_OWN_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O001",
+      "purpose_id": "ACP001",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/1",
+      "current_body_claim_ids": [
+        "ACLAIM003",
+        "ACLAIM017",
+        "ACLAIM018"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does a profitable service opening make its workers permanently available?",
+        "own_new_Art_commerce_positive_connected_meaning": "Asuna's delegated opening and reported earnings give service real worth; Neru's jacket remains wanted.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Neru refuses permanent maid work; no indefinite contract is inspected.",
+        "own_new_Art_commerce_finite_result": "Compare stages of delegation with Miyo hearing, accepting and still wanting dissolution.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Permanent staffing needs actual terms and each worker's renewed answer."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O002",
+      "purpose_id": "ACP002",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/2",
+      "current_body_claim_ids": [
+        "ACLAIM004",
+        "ACLAIM018",
+        "ACLAIM050"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can welcoming ritual cancel an unwanted institutional role?",
+        "own_new_Art_commerce_positive_connected_meaning": "Nodoka's pudding, telescope and Class227 home retain genuine belonging goods.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Forced mascot tickling and restored command do not establish consent.",
+        "own_new_Art_commerce_finite_result": "Compare an office's restored function with Miyo's continuing unwanted headship.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Require actual agreement and performed benefits before equating restoration with willing belonging."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O003",
+      "purpose_id": "ACP003",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/3",
+      "current_body_claim_ids": [
+        "ACLAIM006",
+        "ACLAIM011",
+        "ACLAIM047"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does clever making authorize altering another person's object?",
+        "own_new_Art_commerce_positive_connected_meaning": "Engineering's pizza, making pleasure and taste differences give invention intrinsic worth.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Unconsented gun modification and distress remain; retaliation is not restoration.",
+        "own_new_Art_commerce_finite_result": "Compare productive ingenuity with bag catapult and traps without calling either harmless.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Require requested change, restored object and recipient response for a benefit-with-permission claim."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O004",
+      "purpose_id": "ACP004",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/4",
+      "current_body_claim_ids": [
+        "ACLAIM014",
+        "ACLAIM038",
+        "ACLAIM050"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can useful information erase the injury to its subject?",
+        "own_new_Art_commerce_positive_connected_meaning": "Yuuka's fairness objection and Chihiro's correction give a recipient an actual response route.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Unauthorized access, false100kg and surviving rumor do not prove repaired standing.",
+        "own_new_Art_commerce_finite_result": "Compare Hiromi's trusted disclosure and missing informed agreement, preserving the false datum as false.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Correction needs the actual audience aftermath and restored information control."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O005",
+      "purpose_id": "ACP005",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/5",
+      "current_body_claim_ids": [
+        "ACLAIM011",
+        "ACLAIM020",
+        "ACLAIM047"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "What can a passed inspection establish about later recipients?",
+        "own_new_Art_commerce_positive_connected_meaning": "Hygiene passage and Izumi's pleasure are positive outcomes with separate scopes.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Iori's later adverse drink response is not chemical proof or universal harmlessness.",
+        "own_new_Art_commerce_finite_result": "Use finite certification to constrain claims that padding or monitoring guarantees every victim's safety.",
+        "own_new_Art_commerce_stronger_claim_trigger": "A general safety claim needs relevant exposure, inspection and aftermath evidence."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O006",
+      "purpose_id": "ACP006",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/6",
+      "current_body_claim_ids": [
+        "ACLAIM021",
+        "ACLAIM037",
+        "ACLAIM050"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does caring intent grant control over a recipient?",
+        "own_new_Art_commerce_positive_connected_meaning": "Visits and food attention have genuine social and material value.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Shooting after surrender and a prepared or threatened injection are not consent or completed therapy.",
+        "own_new_Art_commerce_finite_result": "Compare offered ointment and reassurance with actual healing left unprinted.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Therapeutic benefit requires explanation, actual treatment and relevant causal evidence."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O007",
+      "purpose_id": "ACP007",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/7",
+      "current_body_claim_ids": [
+        "ACLAIM016",
+        "ACLAIM035",
+        "ACLAIM050"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can one person's welcome stand for a whole group's response?",
+        "own_new_Art_commerce_positive_connected_meaning": "Tsurugi feels welcome and Hasumi initially enjoys aroma; each response matters.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Compulsory contact and later origin rejection oppose unanimous welcome.",
+        "own_new_Art_commerce_finite_result": "Keep unequal warmth beside Ritsu's answered affection and Fuyu's unanswered request.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Require each participant's response before claiming a uniformly welcomed ritual."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O008",
+      "purpose_id": "ACP008",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/8",
+      "current_body_claim_ids": [
+        "ACLAIM009",
+        "ACLAIM010",
+        "ACLAIM031"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "When is an expense process a paid material result?",
+        "own_new_Art_commerce_positive_connected_meaning": "Ibuki's cocoa and Iroha's work burdens identify different resource recipients.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Deductions and95percent or zero plans do not establish approved payment or remedy.",
+        "own_new_Art_commerce_finite_result": "Compare reported expense processing with the club's explicit zero earnings and loss.",
+        "own_new_Art_commerce_stronger_claim_trigger": "A completed financial settlement requires authorization, disbursement and affected-worker accounts."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O009",
+      "purpose_id": "ACP009",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/9",
+      "current_body_claim_ids": [
+        "ACLAIM025",
+        "ACLAIM037",
+        "ACLAIM050"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can correct danger information override chosen leisure?",
+        "own_new_Art_commerce_positive_connected_meaning": "Airi's talk and Kazusa's holiday wishes make time and company substantive.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Rescue and true icicle danger coexist with spoiled rest and upset stomach.",
+        "own_new_Art_commerce_finite_result": "Compare useful intervention with café business intrusion without treating accuracy as blanket permission.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Require the recipient's answer and relevant aftermath for a justified override."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O010",
+      "purpose_id": "ACP010",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/10",
+      "current_body_claim_ids": [
+        "ACLAIM017",
+        "ACLAIM029",
+        "ACLAIM038"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "What does a reply authorize when important acts were omitted?",
+        "own_new_Art_commerce_positive_connected_meaning": "Nonomi's picnic care and Ayane's assigned paid cleaning retain intrinsic labor and company.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Hoshino's omitted wrong-site combat leaves Ayane's reply uninformed, not approval of the hidden act.",
+        "own_new_Art_commerce_finite_result": "Compare Hiromi's relaxation under mistaken noninvolvement and Miyo's changed commission knowledge.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Informed authorization requires disclosure and an actual reconsidered answer."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O011",
+      "purpose_id": "ACP011",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/11",
+      "current_body_claim_ids": [
+        "ACLAIM003",
+        "ACLAIM007",
+        "ACLAIM018"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can belonging be real before formal recognition is proven?",
+        "own_new_Art_commerce_positive_connected_meaning": "Haruka's belonging and Mutsuki's amusement have actual ordinary continuity.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Aru's dubious pitch and withdrawal vow do not grant recognition or durable reform.",
+        "own_new_Art_commerce_finite_result": "Contrast lived club activity with its unreceived charter and unfinished dissolution.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Formal status or sustained reform needs a grant or implemented later change."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O012",
+      "purpose_id": "ACP012",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/12",
+      "current_body_claim_ids": [
+        "ACLAIM009",
+        "ACLAIM015",
+        "ACLAIM031"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does accepting a smaller quiet project finish procurement?",
+        "own_new_Art_commerce_positive_connected_meaning": "Pina's picnic, bento, cards and sleep and Umika's quiet willow idea preserve wanted ends.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Refused huge budget and accepted smaller idea do not establish purchase or a revived festival.",
+        "own_new_Art_commerce_finite_result": "Compare proportional choices with Miyo's refusal of unfunded wall repair.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Material completion requires actual purchase, installation and the intended recipient outcome."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O013",
+      "purpose_id": "ACP013",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/13",
+      "current_body_claim_ids": [
+        "ACLAIM009",
+        "ACLAIM016",
+        "ACLAIM028"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "How does a wanted artistic audience differ from actual reception?",
+        "own_new_Art_commerce_positive_connected_meaning": "Kaede's film-recognition wish, Tsubaki's sleep and Mimori's curry have distinct value.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Imagined praise and untested seasoning remain unperformed or untasted.",
+        "own_new_Art_commerce_finite_result": "Compare wished recognition with the actual public painting response and tasted cake.",
+        "own_new_Art_commerce_stronger_claim_trigger": "A stronger reception claim needs actual audience response or performed tasting."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O014",
+      "purpose_id": "ACP014",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/14",
+      "current_body_claim_ids": [
+        "ACLAIM018",
+        "ACLAIM037",
+        "ACLAIM038"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does later explanation supply prior permission to exclude?",
+        "own_new_Art_commerce_positive_connected_meaning": "Kaede's desired companionship and cat care remain valuable beside explanation or apology.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Unannounced patrol and a declined invitation do not establish unanimous assent.",
+        "own_new_Art_commerce_finite_result": "Compare later understanding with Hiromi's still unprinted informed knowledge.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Repaired belonging needs the affected person's response and implemented invitation terms."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O015",
+      "purpose_id": "ACP015",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/15",
+      "current_body_claim_ids": [
+        "ACLAIM005",
+        "ACLAIM017",
+        "ACLAIM039"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can recognition of talent respect a maker's unwanted audience?",
+        "own_new_Art_commerce_positive_connected_meaning": "Yuzu chooses wins and apology while remaining distant from wanted fame.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Pressure to attend and abusive courtesy do not prove free participation; a possible bug is unverified.",
+        "own_new_Art_commerce_finite_result": "Compare admired scripts with Miyo's embarrassment at criminal-talent praise.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Require chosen exposure and verified mechanism for stronger audience or technical claims."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O016",
+      "purpose_id": "ACP016",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/16",
+      "current_body_claim_ids": [
+        "ACLAIM014",
+        "ACLAIM038",
+        "ACLAIM050"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can an object's explanation finish the harm of a rumor?",
+        "own_new_Art_commerce_positive_connected_meaning": "Rumi's meals/privacy and Shun's quiet tea preserve recipient-specific wants.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Invented rumor and persistent misunderstanding are not completed reputation repair.",
+        "own_new_Art_commerce_finite_result": "Compare inward apology and Hiromi's trust without calling explanation a restored friendship.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Require actual audience correction and recipient-visible information aftermath."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O017",
+      "purpose_id": "ACP017",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/17",
+      "current_body_claim_ids": [
+        "ACLAIM006",
+        "ACLAIM012",
+        "ACLAIM031"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does useful emergency capacity establish jurisdiction or restitution?",
+        "own_new_Art_commerce_positive_connected_meaning": "Fubuki's donuts/rest, Kirino's advancement wish and actual hostage response retain distinct goods.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Unauthorized deployment, explosion and shop suspension are not judicial settlement or granted holiday.",
+        "own_new_Art_commerce_finite_result": "Compare effective traps with missing warrant and property repair.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Legitimacy needs a source-specific mandate and actual compensation or agreed rest."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O018",
+      "purpose_id": "ACP018",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/18",
+      "current_body_claim_ids": [
+        "ACLAIM027",
+        "ACLAIM028",
+        "ACLAIM043"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "How should an institution distinguish fictional accusation from performed sanction?",
+        "own_new_Art_commerce_positive_connected_meaning": "Mel's embedded fiction and Minori's hardship letter preserve imaginative and material purposes.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "The fiction is not Shigure/Nodoka's act; ashes do not identify a burner.",
+        "own_new_Art_commerce_finite_result": "Compare theatrical roles and inward client narration with actual club actions.",
+        "own_new_Art_commerce_stronger_claim_trigger": "A sanction or causal claim requires resolved mode, actor and performed decision."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O019",
+      "purpose_id": "ACP019",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/19",
+      "current_body_claim_ids": [
+        "ACLAIM017",
+        "ACLAIM037",
+        "ACLAIM051"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "What can modest practical gifts establish without official recognition?",
+        "own_new_Art_commerce_positive_connected_meaning": "Tsukuyo's water, towel, reflector and quiet stars and Izuna's welcome retain particular value.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Interview and welcome do not grant club status or perform a stunt.",
+        "own_new_Art_commerce_finite_result": "Compare ordinary care with membership procedure genuinely unreceived here.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Formal membership or accomplished performance needs its actual grant or depicted act."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O020",
+      "purpose_id": "ACP020",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/20",
+      "current_body_claim_ids": [
+        "ACLAIM009",
+        "ACLAIM015",
+        "ACLAIM031"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "How can scarce provisioning keep preferences and aftermath distinct?",
+        "own_new_Art_commerce_positive_connected_meaning": "Ration differences and reluctant allocation give coordination material recipients.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Refused expired cans, explosive disposal and lingering smell do not prove lawful salvage or a single cause.",
+        "own_new_Art_commerce_finite_result": "Compare trade usefulness with recipient cost and unprinted repair.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Safety and lawful provisioning need inspected supplies, authority and actual aftermath."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O021",
+      "purpose_id": "ACP021",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/21",
+      "current_body_claim_ids": [
+        "ACLAIM005",
+        "ACLAIM009",
+        "ACLAIM013",
+        "ACLAIM029"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does a useful device make the council's standards uniform?",
+        "own_new_Art_commerce_positive_connected_meaning": "Maker hopes, Noa's curiosity, shared construction and hedged titanium result give the project positive content.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Premature dismissal, payer risk and unoffered warning remain; no treasury theft or calibrated prediction follows.",
+        "own_new_Art_commerce_finite_result": "Compare fallible distributed expertise with the club's revised clue inquiry and unequal incentives.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Stronger financial or forecasting claims need accounts, validation and disclosed responses."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O022",
+      "purpose_id": "ACP022",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/22",
+      "current_body_claim_ids": [
+        "ACLAIM025",
+        "ACLAIM037",
+        "ACLAIM038"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does gratitude authorize following the person who receives it?",
+        "own_new_Art_commerce_positive_connected_meaning": "Chise's preparations, Kaho's rest and specific thanks retain giver and recipient interests.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Covert following and misread rebellion do not validate surveillance.",
+        "own_new_Art_commerce_finite_result": "Compare friendly attention with Hiromi's unshared knowledge and Miyo's book-access no.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Require actual permission and recipient-visible information aftermath."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O023",
+      "purpose_id": "ACP023",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/23",
+      "current_body_claim_ids": [
+        "ACLAIM005",
+        "ACLAIM018",
+        "ACLAIM046"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can talent be valued without owning a player's return?",
+        "own_new_Art_commerce_positive_connected_meaning": "Rei's beautiful-home-run wish, food and practice are particular chosen goods.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Machine restraint objections and refused return survive; no later home run or identity join follows.",
+        "own_new_Art_commerce_finite_result": "Compare useful work with Miyo's decisions and continuing exit wish.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Actual achievement and freely renewed participation are needed for stronger fulfillment."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O024",
+      "purpose_id": "ACP024",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/24",
+      "current_body_claim_ids": [
+        "ACLAIM003",
+        "ACLAIM025",
+        "ACLAIM046"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does office define all of a person's ordinary wants?",
+        "own_new_Art_commerce_positive_connected_meaning": "Kisaki's solitary exercise/rest and limited accepted child request preserve chosen purposes.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Projected discipline and stopped rivalry do not prove a universal mandate or clinical growth.",
+        "own_new_Art_commerce_finite_result": "Compare unchosen headship with Miyo's independent collection and reading interests.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Require each actor's stated terms and relevant measured outcome for broader authority or health claims."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O025",
+      "purpose_id": "ACP025",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/25",
+      "current_body_claim_ids": [
+        "ACLAIM010",
+        "ACLAIM018",
+        "ACLAIM032"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can chosen work coexist with earlier rest without completed public benefit?",
+        "own_new_Art_commerce_positive_connected_meaning": "Meg's rest, Kasumi's snow memory, Hina's ice pop and later chosen digging matter separately.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Refused scripted bag, bath relief and digging do not establish public opening or clinical revival.",
+        "own_new_Art_commerce_finite_result": "Compare late permission and continuing work with last-job intentions and missing material ends.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Actual opening, accepted terms and recipient aftermath are needed for stronger completion."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O026",
+      "purpose_id": "ACP026",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/26",
+      "current_body_claim_ids": [
+        "ACLAIM014",
+        "ACLAIM037",
+        "ACLAIM050"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can company be valuable without replenishing a tired worker?",
+        "own_new_Art_commerce_positive_connected_meaning": "Nagisa's tea, park memories and company are actual ordinary goods.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Reported burnout and unreplenished energy remain; hand-leading refusal is not erased.",
+        "own_new_Art_commerce_finite_result": "Compare Hiromi's fatigued literary company with no demonstrated labor relief.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Lasting rest needs redistribution of duties and the worker's relevant aftermath."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O027",
+      "purpose_id": "ACP027",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/27",
+      "current_body_claim_ids": [
+        "ACLAIM016",
+        "ACLAIM037",
+        "ACLAIM050"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "How do distinct gifts resist a single allegiance or health verdict?",
+        "own_new_Art_commerce_positive_connected_meaning": "Craft, tea, pictures, time and Rio's gratitude give nine gifts separate positive ends.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "False pretexts and undisclosed additions do not prove harmlessness or all agreement.",
+        "own_new_Art_commerce_finite_result": "Compare actual cake and affection with each recipient's different answer.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Require the specific recipient's knowledge and accepted aftermath for a stronger conclusion."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O028",
+      "purpose_id": "ACP028",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/28",
+      "current_body_claim_ids": [
+        "ACLAIM009",
+        "ACLAIM025",
+        "ACLAIM037"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does a gift collection confer permission for every interruption?",
+        "own_new_Art_commerce_positive_connected_meaning": "Sixteen gifts retain handmade work, letters, shared food, baker credit and chosen waiting.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Ignored EVENT Kei request and later allowance do not retroactively authorize interruption or join identities.",
+        "own_new_Art_commerce_finite_result": "Compare recipient fit with Miyo's retained leisure and reading boundaries.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Actual informed responses and independent identity evidence are needed beyond a collection count."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O029",
+      "purpose_id": "ACP029",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/29",
+      "current_body_claim_ids": [
+        "ACLAIM017",
+        "ACLAIM018",
+        "ACLAIM039"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does recognized skill establish a free permanent allegiance?",
+        "own_new_Art_commerce_positive_connected_meaning": "Izuna's food, view, fireworks and ninja dream matter; chosen rescue redirects allegiance.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Employer exploitation and a club inquiry do not complete membership or lasting autonomy.",
+        "own_new_Art_commerce_finite_result": "Compare admiration for Miyo's scripts with unfulfilled dissolution.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Require an actual grant, available alternatives and continued chosen participation."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O030",
+      "purpose_id": "ACP030",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/30",
+      "current_body_claim_ids": [
+        "ACLAIM003",
+        "ACLAIM009",
+        "ACLAIM018"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "What does restored command leave of postponed material benefits?",
+        "own_new_Art_commerce_positive_connected_meaning": "Pudding, literature comfort, home, wanted pay and leave retain concrete interests.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Restored office and promises do not implement wages, leave or all consent.",
+        "own_new_Art_commerce_finite_result": "Compare the club's continuing office with zero earnings and an unfinished exit.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Actual paid benefit, taken leave and informed response are needed for repair."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O031",
+      "purpose_id": "ACP031",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/31",
+      "current_body_claim_ids": [
+        "ACLAIM010",
+        "ACLAIM014",
+        "ACLAIM016"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "How can shared leisure retain the worker who made it costly?",
+        "own_new_Art_commerce_positive_connected_meaning": "Sea, sand, leave, food and next-day energy are positive particular respite.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Driving exhaustion, opponent costs and cleanup limits remain; photos are not universal consent.",
+        "own_new_Art_commerce_finite_result": "Compare café enjoyment with guard fatigue and material loss rather than one collective happy end.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Require each worker's response and complete material aftermath for an all-rest claim."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O032",
+      "purpose_id": "ACP032",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/32",
+      "current_body_claim_ids": [
+        "ACLAIM018",
+        "ACLAIM025",
+        "ACLAIM030"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can a responsible person's leisure stay intrinsic before duty is performed?",
+        "own_new_Art_commerce_positive_connected_meaning": "Hina's coffee, waves, games and swim wish have independent value.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Stress inference is not clinical evidence; issued training and rhythm wish are not completed acts.",
+        "own_new_Art_commerce_finite_result": "Compare Miyo's wanted reading and leisure with obligations still ongoing.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Actual enacted duty or relevant recovery aftermath is required for stronger completion."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O033",
+      "purpose_id": "ACP033",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/33",
+      "current_body_claim_ids": [
+        "ACLAIM021",
+        "ACLAIM037",
+        "ACLAIM050"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does later chosen care authorize earlier restraint?",
+        "own_new_Art_commerce_positive_connected_meaning": "Shun's missed treat, park, chosen antidote and qualified forgiveness retain specific goods.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Food refusal, deception and restraint remain; mechanism and privacy repair are unproved.",
+        "own_new_Art_commerce_finite_result": "Compare offered care with unprinted healing and compromised trust.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Cure or justified restraint needs mechanism, informed response and aftermath."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O034",
+      "purpose_id": "ACP034",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/34",
+      "current_body_claim_ids": [
+        "ACLAIM006",
+        "ACLAIM017",
+        "ACLAIM025"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "How do captive refusal and a useful service differ from completed rescue?",
+        "own_new_Art_commerce_positive_connected_meaning": "C&C curry, privacy, jacket choice and free play retain real positive purposes.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Captive pleas, Koyuki's refused pursuit and adult rescue proposal have distinct actors; rescue is unexecuted.",
+        "own_new_Art_commerce_finite_result": "Compare effective service with unfulfilled exit without collapsing refusal endpoints.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Require actual release, performed rescue and affected-person response for autonomy restored."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O035",
+      "purpose_id": "ACP035",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP000_ACP035_V1.json",
+        "bytes": 391873,
+        "sha256": "7a2444c8e5e6b622cbcdd327e8656e06ec40d93662a6e71ff0ad1ade6b079565",
+        "git_blob_oid_of_actual_bytes": "84cfe728531a27bc6030cc2b66196773c861a119"
+      },
+      "pointer": "/records/35",
+      "current_body_claim_ids": [
+        "ACLAIM005",
+        "ACLAIM016",
+        "ACLAIM028"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "When does preparation become a received artistic performance?",
+        "own_new_Art_commerce_positive_connected_meaning": "Miku's self-introduction, prepared body joy and audience wish preserve creative purpose.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Rhythm difficulty and a data request leave concert, attendance and permission future.",
+        "own_new_Art_commerce_finite_result": "Compare admired scripts and research with the actually completed public wager.",
+        "own_new_Art_commerce_stronger_claim_trigger": "A performed concert, authorized data use and actual reception are necessary for stronger success."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O036",
+      "purpose_id": "ACP036",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/0",
+      "current_body_claim_ids": [
+        "ACLAIM010",
+        "ACLAIM014",
+        "ACLAIM041"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can a late concession undo a lost home?",
+        "own_new_Art_commerce_positive_connected_meaning": "Nodoka's livelihood/home, Shigure's company and guests' tea/art/gardens remain worthwhile.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Overwork, refused help, late permission and Meg's blast do not restore the home.",
+        "own_new_Art_commerce_finite_result": "Compare financial loss and missing property repair with a positive ordinary scene.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Actual rebuilding, accepted compensation and worker aftermath are needed for restoration."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_ROOT_OWN_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O037",
+      "purpose_id": "ACP037",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/1",
+      "current_body_claim_ids": [
+        "ACLAIM009",
+        "ACLAIM010",
+        "ACLAIM037"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "How do peer gifts retain personal owners when funds remain missing?",
+        "own_new_Art_commerce_positive_connected_meaning": "Haruka's effort, Kayoko's album, Mutsuki's toys and Aru's recovery motive make resources particular.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Empty safe, conditional ramen, refused holiday and unpaid ends oppose financial restoration.",
+        "own_new_Art_commerce_finite_result": "Compare wished materials and café company with unpurchased typewriter/marble.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Require recovered funds, delivered food and chosen leave for stronger repair."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_ROOT_OWN_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O038",
+      "purpose_id": "ACP038",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/2",
+      "current_body_claim_ids": [
+        "ACLAIM016",
+        "ACLAIM037",
+        "ACLAIM044"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "How do gift directions and different receipt modes shape care?",
+        "own_new_Art_commerce_positive_connected_meaning": "Ui's anti-mess wish, Hiyori's sacrifice, Mari's display and Atsuko's viewing differ; adult coffee goes to Ayumu, her chocolate back.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Display is not installation and abrupt feeding not assent; old coffee aliases require59334 qualification.",
+        "own_new_Art_commerce_finite_result": "Compare Teacher's cake to Ritsu with recipient-fit rather than undirected exchange.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Stronger keeping, consumption or agreement needs each actual endpoint and correct actor direction."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O039",
+      "purpose_id": "ACP039",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/3",
+      "current_body_claim_ids": [
+        "ACLAIM005",
+        "ACLAIM012",
+        "ACLAIM021"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does civic thanks certify credentials or lasting security?",
+        "own_new_Art_commerce_positive_connected_meaning": "Sena's rest questions, Chihiro's walk/maintenance and Fubuki's art/bonus retain local goods.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Restart, subdual and chocolate do not authenticate impostors or establish pharmacology.",
+        "own_new_Art_commerce_finite_result": "Compare practical authority with local guard-role assertions and adult nonauthentication.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Require verified identity, actual containment and inspected system aftermath."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O040",
+      "purpose_id": "ACP040",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/4",
+      "current_body_claim_ids": [
+        "ACLAIM006",
+        "ACLAIM016",
+        "ACLAIM037"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can good intent finish a damaged object's care?",
+        "own_new_Art_commerce_positive_connected_meaning": "Ui's scripture repair, iced Americano, Shimiko's referral and contributors' cake labor make care concrete.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Hinata's gentle intent still damages an object; acceptance does not establish liking or full restoration.",
+        "own_new_Art_commerce_finite_result": "Compare padding and ointment with actual recipient and object endpoints.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Performed repair and the owner's response are needed for a restored-object claim."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O041",
+      "purpose_id": "ACP041",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/5",
+      "current_body_claim_ids": [
+        "ACLAIM017",
+        "ACLAIM039",
+        "ACLAIM046"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can wanted recognition survive friends' dissent without a formal grant?",
+        "own_new_Art_commerce_positive_connected_meaning": "Michiru's collectibles/recognition wish, peer disagreement and Ibuki's chosen trust retain different aims.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Distributed help and catch do not pay a bill or prove all knew Niya's plan.",
+        "own_new_Art_commerce_finite_result": "Compare talented planning with title disputes and unequal commission knowledge.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Formal recognition, payment and informed responses require actual later evidence."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O042",
+      "purpose_id": "ACP042",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/6",
+      "current_body_claim_ids": [
+        "ACLAIM009",
+        "ACLAIM010",
+        "ACLAIM050"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "What does a holiday prize leave of an unfulfilled wanted activity?",
+        "own_new_Art_commerce_positive_connected_meaning": "Serika's noncash prize, cleaning and night leisure retain concrete gains.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Shiroko's wanted fishing is not established as an achieved endpoint in the received report, and her rod is ruined; commandeering is not permission.",
+        "own_new_Art_commerce_finite_result": "Compare enjoyed café with wanted materials unpurchased and object losses unhealed.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Actual fishing, rod repair and affected-home responses are needed for full fulfillment."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O043",
+      "purpose_id": "ACP043",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/7",
+      "current_body_claim_ids": [
+        "ACLAIM007",
+        "ACLAIM010",
+        "ACLAIM031"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can a completed feast settle a project's property and labor claims?",
+        "own_new_Art_commerce_positive_connected_meaning": "Shizuko's project pleasure, substitute work, praise and feast preserve cooperation and making.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Serika's dissent, title, payment and refund limits remain.",
+        "own_new_Art_commerce_finite_result": "Compare achieved public response with commerce still financially and legally unfinished.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Ownership or compensation needs actual documents and recipient-visible settlement."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O044",
+      "purpose_id": "ACP044",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/8",
+      "current_body_claim_ids": [
+        "ACLAIM025",
+        "ACLAIM038",
+        "ACLAIM043"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can local relief grant permission for teasing or full disclosure?",
+        "own_new_Art_commerce_positive_connected_meaning": "Kazusa's self-naming, relief and offered drink retain a consultation's particular value.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Uncertain disclosure and alternative replies do not authorize every tease or define a stable essence.",
+        "own_new_Art_commerce_finite_result": "Compare Miyo's guarded interests and explicit reading no with locally welcomed talk.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Unqualified permission needs the actual selected act and recipient answer."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O045",
+      "purpose_id": "ACP045",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/9",
+      "current_body_claim_ids": [
+        "ACLAIM025",
+        "ACLAIM038",
+        "ACLAIM040"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does asking for cessation amount to a completed sanction?",
+        "own_new_Art_commerce_positive_connected_meaning": "Kazusa wants harassment stopped without punishment and wants particular information.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Interruption does not settle motives or injury and does not complete cessation.",
+        "own_new_Art_commerce_finite_result": "Compare explicit boundaries with Miyo's refusal of a deceptive ending and withheld knowledge.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Lasting repair needs actual ceased behavior and clarified recipient-defined terms."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O046",
+      "purpose_id": "ACP046",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/10",
+      "current_body_claim_ids": [
+        "ACLAIM006",
+        "ACLAIM011",
+        "ACLAIM049"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can a protective skill remain finite rather than define a violent essence?",
+        "own_new_Art_commerce_positive_connected_meaning": "Kazusa's escape climb and check on adult safety are useful particular acts.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Past photos and fairness disclosures do not authorize future pursuit or prove a violent true self.",
+        "own_new_Art_commerce_finite_result": "Compare Ritsu's physical capacity with its different artistic and coercive uses.",
+        "own_new_Art_commerce_stronger_claim_trigger": "An essential or future-danger claim needs relevant later acts, not one image or escape."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O047",
+      "purpose_id": "ACP047",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/11",
+      "current_body_claim_ids": [
+        "ACLAIM003",
+        "ACLAIM017",
+        "ACLAIM039"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does respect confer unlimited hierarchy or jurisdiction?",
+        "own_new_Art_commerce_positive_connected_meaning": "Kazusa's clearer request, Suzumi's voluntary group and anonymous hearing of Reisa retain local arrangements.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "They do not establish unlimited deference, full jurisdiction or harmless pursuit.",
+        "own_new_Art_commerce_finite_result": "Compare actual authority decisions with unreceived club charter and unwanted office.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Formal power needs a mandate; lasting harmlessness needs affected-person aftermath."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O048",
+      "purpose_id": "ACP048",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/12",
+      "current_body_claim_ids": [
+        "ACLAIM005",
+        "ACLAIM006",
+        "ACLAIM029"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "How does trusted correction retain a brave helper's fallibility?",
+        "own_new_Art_commerce_positive_connected_meaning": "Reisa's courage, conflict work and hesitant correction response preserve useful agency.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Reported attack complaints and actor seams do not certify justified force or lasting reform.",
+        "own_new_Art_commerce_finite_result": "Compare competent club methods with injury and coercive leverage.",
+        "own_new_Art_commerce_stronger_claim_trigger": "A stronger justice claim needs resolved actors, subsequent conduct and recipient aftermath."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O049",
+      "purpose_id": "ACP049",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/13",
+      "current_body_claim_ids": [
+        "ACLAIM014",
+        "ACLAIM017",
+        "ACLAIM038"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can friendship value a person before their unwanted past is public?",
+        "own_new_Art_commerce_positive_connected_meaning": "Airi's affirmation and Natsu's ingredient talk support friendship and making.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Photo exposure and unequal information do not implement accepted help.",
+        "own_new_Art_commerce_finite_result": "Compare literary belonging with Hiromi's uneven commission knowledge.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Reputation repair needs actual disclosure, audience response and later aftermath."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O050",
+      "purpose_id": "ACP050",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/14",
+      "current_body_claim_ids": [
+        "ACLAIM018",
+        "ACLAIM025",
+        "ACLAIM038"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can choosing continued work coexist with wanted privacy?",
+        "own_new_Art_commerce_positive_connected_meaning": "Kazusa appreciates arrival and chooses work without becoming only her public legend.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Shame is not diagnosis and appreciation does not authorize dissemination or restore public trust.",
+        "own_new_Art_commerce_finite_result": "Compare Miyo's continuing club activity with refusal of reading access.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Restored privacy requires actual information control and corrected audience response."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O051",
+      "purpose_id": "ACP051",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/15",
+      "current_body_claim_ids": [
+        "ACLAIM016",
+        "ACLAIM035",
+        "ACLAIM050"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does benevolent performance supply its recipient's requested recognition?",
+        "own_new_Art_commerce_positive_connected_meaning": "Friends' gang performance has an actual warm intention.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Kazusa asks accurate correction while Reisa renews rumor; kindness is not assent to an old role.",
+        "own_new_Art_commerce_finite_result": "Compare desired artistic praise with Miyo's unwanted criminal-talent praise.",
+        "own_new_Art_commerce_stronger_claim_trigger": "A welcomed ritual requires informed recipient answer and actual correction."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O052",
+      "purpose_id": "ACP052",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/16",
+      "current_body_claim_ids": [
+        "ACLAIM019",
+        "ACLAIM037",
+        "ACLAIM041"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can local explanation preserve an objection rather than finish every repair?",
+        "own_new_Art_commerce_positive_connected_meaning": "Friends explain and Yoshimi hears before excusing, supplying a possible repair route.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Kazusa asks whether she requested it; silence is not a completed remedy or diagnosis.",
+        "own_new_Art_commerce_finite_result": "Compare conversation and public wager with Hiromi's still missing confession.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Require implemented recipient terms and corrected relevant audience for full repair."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O053",
+      "purpose_id": "ACP053",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/17",
+      "current_body_claim_ids": [
+        "ACLAIM018",
+        "ACLAIM025",
+        "ACLAIM027"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "How does a promise to stop differ from a changed lasting role?",
+        "own_new_Art_commerce_positive_connected_meaning": "Reisa's promise and Suzumi's help offer retain potential change.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Lost rival purpose and renewed challenge counter durable cessation.",
+        "own_new_Art_commerce_finite_result": "Compare last-job intentions and another-job request rather than a completed exit ladder.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Sustained cessation or new vocation needs actual later chosen conduct."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O054",
+      "purpose_id": "ACP054",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/18",
+      "current_body_claim_ids": [
+        "ACLAIM014",
+        "ACLAIM037",
+        "ACLAIM050"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can protective care and joy remain true while distance persists?",
+        "own_new_Art_commerce_positive_connected_meaning": "Reisa checks injury, owns a problem and returns a letter; reunion contains joy and sadness.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Unwanted memory and protective distance survive; warmth is not cure or pursuit license.",
+        "own_new_Art_commerce_finite_result": "Compare caring attention with Hiromi's unprinted trust repair.",
+        "own_new_Art_commerce_stronger_claim_trigger": "A healed or universally welcomed relation needs recipient-defined distance and relevant aftermath."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O055",
+      "purpose_id": "ACP055",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/19",
+      "current_body_claim_ids": [
+        "ACLAIM019",
+        "ACLAIM025",
+        "ACLAIM044"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "What does an arranged encounter leave of the participant's own question?",
+        "own_new_Art_commerce_positive_connected_meaning": "Kazusa's visit and renewed inquiry preserve concern within irritation.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Adult-arranged context does not erase agency or reverse aversion.",
+        "own_new_Art_commerce_finite_result": "Compare adult mediation with Miyo's actual decisions and book refusal.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Changed desire requires her own terms or relevant chosen later acts."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O056",
+      "purpose_id": "ACP056",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/20",
+      "current_body_claim_ids": [
+        "ACLAIM006",
+        "ACLAIM012",
+        "ACLAIM039"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can practical help preserve a disputed friendship label?",
+        "own_new_Art_commerce_positive_connected_meaning": "Kazusa contests the label, Natsu wants theatre and Yoshimi urges help over obstruction.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Positioning and jurisdiction claims do not prove police authority or completed rescue.",
+        "own_new_Art_commerce_finite_result": "Compare cooperative capacities with unappointed titles and missing formal warrants.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Actual rescue, mandate or unanimous affiliation requires the performed act or grant."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O057",
+      "purpose_id": "ACP057",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/21",
+      "current_body_claim_ids": [
+        "ACLAIM014",
+        "ACLAIM025",
+        "ACLAIM038"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "How does tired help preserve a refusal to expose another person?",
+        "own_new_Art_commerce_positive_connected_meaning": "Reisa withholds Kazusa's identity and friends actually arrive.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Underworld naming irritates Kazusa; no examination or certified explosive cause follows exhaustion.",
+        "own_new_Art_commerce_finite_result": "Compare privacy held with Hiromi's information asymmetry without diagnosing either.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Medical or justified-force conclusions need relevant evidence and actual aftermath."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O058",
+      "purpose_id": "ACP058",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/22",
+      "current_body_claim_ids": [
+        "ACLAIM016",
+        "ACLAIM037",
+        "ACLAIM041"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "What can a returned object and offered meal establish?",
+        "own_new_Art_commerce_positive_connected_meaning": "Returned letter, trusted bench and hunger-directed meal offer give care material form.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "No clinic recovery, actual arrest or categorical romance follows.",
+        "own_new_Art_commerce_finite_result": "Compare cake actually tasted with an offered meal and ointment whose endpoint differs.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Require delivered food, performed legal action or appropriate health evidence for completion."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O059",
+      "purpose_id": "ACP059",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/23",
+      "current_body_claim_ids": [
+        "ACLAIM019",
+        "ACLAIM037",
+        "ACLAIM051"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can helpful consultation remain fallible and ordinary?",
+        "own_new_Art_commerce_positive_connected_meaning": "Kazusa reports help; café warmth, cake and changed friend relations are valuable.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Failures and irritation remain; no omniscient adult or clinical cure is authenticated.",
+        "own_new_Art_commerce_finite_result": "Compare useful discussion and pleasure with mistaken commission and explicit loss.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Universal success or cure needs independent relevant outcomes."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O060",
+      "purpose_id": "ACP060",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/24",
+      "current_body_claim_ids": [
+        "ACLAIM025",
+        "ACLAIM027",
+        "ACLAIM042"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "How does familiar food leave the demand for accuracy active?",
+        "own_new_Art_commerce_positive_connected_meaning": "Parfait and routine retain positive ordinary continuity.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Renewed solo-rescue myth and challenge do not enact a later fight or lasting cessation.",
+        "own_new_Art_commerce_finite_result": "Compare café pleasure with unfinished disclosure and exit.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Accurate correction and actual ceased pursuit are needed for reputation repaired."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O061",
+      "purpose_id": "ACP061",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/25",
+      "current_body_claim_ids": [
+        "ACLAIM009",
+        "ACLAIM016",
+        "ACLAIM025"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can maker enthusiasm choose the recipient's preferred recreation?",
+        "own_new_Art_commerce_positive_connected_meaning": "Noa's tea/records, Yuuka's schedule/rest and revised sports offers retain different goods.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Tired helpers, unwanted clothes and denied rest remain; opening is not universal service success.",
+        "own_new_Art_commerce_finite_result": "Compare fitting cake with Fuyu's refused import pitch and leisure intrusion.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Each recipient's actual response and resolved burden are needed for all helped."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O062",
+      "purpose_id": "ACP062",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/26",
+      "current_body_claim_ids": [
+        "ACLAIM010",
+        "ACLAIM014",
+        "ACLAIM051"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can a low contest rank erase craft or excuse denied rest?",
+        "own_new_Art_commerce_positive_connected_meaning": "Hasumi's coaching and worst-and-fun judgment, craft and food recognition are positive.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Chihiro did not enjoy it, Hibiki wants an end and hunger/rest costs persist.",
+        "own_new_Art_commerce_finite_result": "Compare artistic reception with financial failure without one shared success measure.",
+        "own_new_Art_commerce_stronger_claim_trigger": "An all-benefit claim needs each participant's testimony and actual material relief."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O063",
+      "purpose_id": "ACP063",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/27",
+      "current_body_claim_ids": [
+        "ACLAIM006",
+        "ACLAIM021",
+        "ACLAIM050"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does a repair party validate the force preceding it?",
+        "own_new_Art_commerce_positive_connected_meaning": "Handmade Santa aid, tea/rest, disclosure and local party give alternatives actual value.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Mine's blocked explanation and harmful force are not every patient's assent or full reform.",
+        "own_new_Art_commerce_finite_result": "Compare public changed ending with prior traps and injury still unrepaired.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Justified care requires explained acts, recipient agreement and sustained changed practice."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O064",
+      "purpose_id": "ACP064",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/28",
+      "current_body_claim_ids": [
+        "ACLAIM007",
+        "ACLAIM009",
+        "ACLAIM025"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does recognizing a cook settle labor terms?",
+        "own_new_Art_commerce_positive_connected_meaning": "Fuuka's recognition, Juri's pleasure/failure and later listening preserve chosen kitchen ends.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Commandeering remains; personal assent does not retroactively authorize kidnapping or settle wages.",
+        "own_new_Art_commerce_finite_result": "Compare useful goods and chosen work with financial loss and pressure.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Require actual wages, contracts and recipient-defined aftermath for labor justice."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O065",
+      "purpose_id": "ACP065",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/29",
+      "current_body_claim_ids": [
+        "ACLAIM005",
+        "ACLAIM014",
+        "ACLAIM041"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can coalition success retain ordinary relief while reconstruction is open?",
+        "own_new_Art_commerce_positive_connected_meaning": "Distributed thanks, play, food and rest are positive recipient-level goods.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Destruction reports do not establish sole cause, universal consent or rebuilt safety.",
+        "own_new_Art_commerce_finite_result": "Compare distributed clue work with achieved wager and missing restoration.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Actual rebuilding and source-specific mechanism evidence are needed for stronger closure."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O066",
+      "purpose_id": "ACP066",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/30",
+      "current_body_claim_ids": [
+        "ACLAIM017",
+        "ACLAIM018",
+        "ACLAIM039"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does renewed technical contact establish lasting belonging?",
+        "own_new_Art_commerce_positive_connected_meaning": "Contact reports, cycling, recognition, food and company preserve practical and quiet goods.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Restraint, masks and deferred listening do not prove durable contact or joined Minato identity.",
+        "own_new_Art_commerce_finite_result": "Compare technical membership and recognition with unreceived founding and future exit.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Continued contact, informed listening and independent identity evidence are needed beyond a door opening."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O067",
+      "purpose_id": "ACP067",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/31",
+      "current_body_claim_ids": [
+        "ACLAIM021",
+        "ACLAIM037",
+        "ACLAIM050"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can concrete aid be valued without endorsing a cosmology of suffering?",
+        "own_new_Art_commerce_positive_connected_meaning": "Scarf warmth, home, food, friends and cycling make aid recipient-specific.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Self-blame theory is unauthenticated; no complete safer roster or cure follows.",
+        "own_new_Art_commerce_finite_result": "Compare particular kindness with pain or trust not automatically repaired.",
+        "own_new_Art_commerce_stronger_claim_trigger": "A comprehensive safety or health claim needs the actual roster and relevant outcomes."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O068",
+      "purpose_id": "ACP068",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/32",
+      "current_body_claim_ids": [
+        "ACLAIM004",
+        "ACLAIM009",
+        "ACLAIM031"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "When is available budget a disbursed civic benefit?",
+        "own_new_Art_commerce_positive_connected_meaning": "Ayumu's request, Aoi's reported aid approval and student cooperation support initiative.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Suspended Rin authority, available money and promised coverage are not payment or performed all staffwork.",
+        "own_new_Art_commerce_finite_result": "Compare club fee claims and actual zero earnings with resource authorization.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Actual disbursement, restored authority and completed distributed labor are required for closure."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O069",
+      "purpose_id": "ACP069",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/33",
+      "current_body_claim_ids": [
+        "ACLAIM007",
+        "ACLAIM017",
+        "ACLAIM038"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "How do art care and welcomed affiliation retain source-specific knowledge duties?",
+        "own_new_Art_commerce_positive_connected_meaning": "Toki's affiliation/command rights, Neru's praise/apology, clothes and games give standing ordinary content.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Art title, payment and all guest knowledge remain unproved; Neru's exclusion refusal belongsO087/E843.",
+        "own_new_Art_commerce_finite_result": "Compare this event's art obligations with the club's provenance and information problem, without moving refusal actors.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Require actual source-local title, payment and informed responses for all-inclusive legitimate care."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O070",
+      "purpose_id": "ACP070",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP036_ACP070_V1.json",
+        "bytes": 527768,
+        "sha256": "a38b4b41905fbc94c93522040a71649e7902e5fa2b707fd04c1d7817aafaaa9f",
+        "git_blob_oid_of_actual_bytes": "cf29bec9bd8c6abbb12c8984331ba05edf4104b3"
+      },
+      "pointer": "/records/34",
+      "current_body_claim_ids": [
+        "ACLAIM009",
+        "ACLAIM014",
+        "ACLAIM025"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can office hospitality retain a cook's own aims and helper fatigue?",
+        "own_new_Art_commerce_positive_connected_meaning": "Rumi's cooking, Saya's impossible-job refusal, Mina's film interest and Kisaki's banquet apology matter separately.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Kokona's fatigue, secret trap and future apology remain; banquet is not wages or all rest.",
+        "own_new_Art_commerce_finite_result": "Compare Fuyu's commercial use of company with unequal club/guard work.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Disclosed tasks, paid terms and performed recipient-defined relief are needed for responsible command."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O071",
+      "purpose_id": "ACP071",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/0",
+      "current_body_claim_ids": [
+        "ACLAIM006",
+        "ACLAIM016",
+        "ACLAIM025"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can actual coastal service and shared food preserve a bodily refusal?",
+        "own_new_Art_commerce_positive_connected_meaning": "Fishing/community work, cargo, knots, app help and delivered food/barbecue have real recipients.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Saki's food/proximity and bed-sharing boundaries survive pressure and enjoyed party; limited repairs do not close law or refrigeration.",
+        "own_new_Art_commerce_finite_result": "Compare café pleasure with no blanket bodily assent and no completed property repair.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Stronger service or consent needs actual durable aftermath and each affected person's answer."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O072",
+      "purpose_id": "ACP072",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/1",
+      "current_body_claim_ids": [
+        "ACLAIM009",
+        "ACLAIM025",
+        "ACLAIM028"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does custodial curiosity grant unrestricted object access?",
+        "own_new_Art_commerce_positive_connected_meaning": "Ui's historical calm, Hanako's sea and Hinata/Koharu's different responses preserve quiet goods.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Map/reburial duties, opt-out and distance do not recover lost writing or reform all library policy.",
+        "own_new_Art_commerce_finite_result": "Compare wanted art and reading with Miyo's private-book refusal.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Recovered writing, completed reburial and continuing agreed access terms are needed for closure."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O073",
+      "purpose_id": "ACP073",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/2",
+      "current_body_claim_ids": [
+        "ACLAIM007",
+        "ACLAIM009",
+        "ACLAIM025"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does a completed manuscript make its creator's later work available?",
+        "own_new_Art_commerce_positive_connected_meaning": "Mel and Momiji reconcile; Mel freely completes a manuscript; reading, food and resources matter.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Secretarial appropriation, Minori's demand and outsourcing are refused; praise does not prove sales or9:1rights.",
+        "own_new_Art_commerce_finite_result": "Compare Miyo's useful writing with unchosen headship and separately declined tasks.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Compensation and continuing work require actual terms, sales and chosen assent."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O074",
+      "purpose_id": "ACP074",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/3",
+      "current_body_claim_ids": [
+        "ACLAIM014",
+        "ACLAIM018",
+        "ACLAIM041"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can reassurance supply freely chosen affiliation or finished repair?",
+        "own_new_Art_commerce_positive_connected_meaning": "Hasumi's rest request and Ichika's small talk/failed-task reassurance preserve local relief.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Ichika refuses Kasumi's belonging; accompaniment is constrained and conditional repair unperformed.",
+        "own_new_Art_commerce_finite_result": "Compare actual company with Hiromi's fatigue and unprinted repaired trust.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Completed repair and freely renewed accompaniment are needed for stronger restorative belonging."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O075",
+      "purpose_id": "ACP075",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/4",
+      "current_body_claim_ids": [
+        "ACLAIM005",
+        "ACLAIM006",
+        "ACLAIM047"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "What does a forced useful demonstration leave of technical workers' rest?",
+        "own_new_Art_commerce_positive_connected_meaning": "Saten values meeting memory; one-time demonstration helps departure; maker/visitor wants differ.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Sensei's opening rest is not Eimi's, helpers remain tired and failed guns unrepaired.",
+        "own_new_Art_commerce_finite_result": "Compare successful systems with labor and property endpoints not swallowed by utility.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Require restored equipment, chosen worker rest and verified world binding for broader closure."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O076",
+      "purpose_id": "ACP076",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/5",
+      "current_body_claim_ids": [
+        "ACLAIM016",
+        "ACLAIM025",
+        "ACLAIM050"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can later chosen camping authorize an undisclosed compulsory beginning?",
+        "own_new_Art_commerce_positive_connected_meaning": "Reading, cocoa, dinner, cleanup and sunrise are real ordinary ends; later continuation has an off-ramp.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Chihiro required the outing and withheld camp details; Rei refuses changed training; game numbers are not body-weight data.",
+        "own_new_Art_commerce_finite_result": "Compare a positive café afterstate with permission and knowledge still act-specific.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Prior informed invitation and participant-defined aftermath are needed for universal consent."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O077",
+      "purpose_id": "ACP077",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/6",
+      "current_body_claim_ids": [
+        "ACLAIM016",
+        "ACLAIM027",
+        "ACLAIM043"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "How can written performance keep publicity power distinct from enjoyment?",
+        "own_new_Art_commerce_positive_connected_meaning": "Hina accepts piano responsibility and is represented performing; Ibuki's cocoa/play/clothes retain worth.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Written performance is not heard audio; covert publicity does not prove hypnosis or budget repair.",
+        "own_new_Art_commerce_finite_result": "Compare theatrical guard language and public art reception at maintained written grade.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Mechanism, accounts and recipient knowledge are needed beyond ceremonial success."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O078",
+      "purpose_id": "ACP078",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/7",
+      "current_body_claim_ids": [
+        "ACLAIM009",
+        "ACLAIM017",
+        "ACLAIM037"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "How do livelihood and varied gifts resist a universal contract verdict?",
+        "own_new_Art_commerce_positive_connected_meaning": "PS68/Saori work and23different gifts include particular chosen ends and answered requests.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Contract safety, all gift agreement and complete compensation remain unproved.",
+        "own_new_Art_commerce_finite_result": "Compare useful trade and recipient-specific giving without letting breadth certify every term.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Actual contracts, payment and each relevant knowledgeable answer are needed for stronger legitimacy."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O079",
+      "purpose_id": "ACP079",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/8",
+      "current_body_claim_ids": [
+        "ACLAIM016",
+        "ACLAIM018",
+        "ACLAIM025"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "What does chosen hosting retain of timing criticism and risk knowledge?",
+        "own_new_Art_commerce_positive_connected_meaning": "Umika takes responsibility after an off-ramp; craft, clothes, scenery and actual festival/trip have value.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Timing objections survive; all risk knowledge and cleanup remain incomplete.",
+        "own_new_Art_commerce_finite_result": "Compare achieved public wager with Fuyu's risk dissent and separate material aftermath.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Disclosed risks and performed cleanup are needed for fully informed hosting closure."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O080",
+      "purpose_id": "ACP080",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/9",
+      "current_body_claim_ids": [
+        "ACLAIM017",
+        "ACLAIM035",
+        "ACLAIM046"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can friends value a maker before success without measuring a cure?",
+        "own_new_Art_commerce_positive_connected_meaning": "Airi wants skill and friends want her before success; practice, food/music and local self-acceptance are positive.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Wrong semla theory and misheard self-talk do not calibrate talent or diagnose recovery.",
+        "own_new_Art_commerce_finite_result": "Compare Ritsu's pre-reward literary affection with Miyo's fallible planning.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Stable skill or clinical change needs the actual branch outcome and appropriate evidence."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O081",
+      "purpose_id": "ACP081",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/10",
+      "current_body_claim_ids": [
+        "ACLAIM004",
+        "ACLAIM006",
+        "ACLAIM012"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does later civic thanks erase an imposed trial?",
+        "own_new_Art_commerce_positive_connected_meaning": "Kanna's service desire, child protection/thanks and Love's paid leisure have finite value.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Imposed lifesaver work and algorithmic mishandling are not restitution or permanent office transfer; tickets refused.",
+        "own_new_Art_commerce_finite_result": "Compare guard work and club obstruction with no all-recipient acquittal.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Resolved harm, chosen terms and formal office decision are needed for service justice."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O082",
+      "purpose_id": "ACP082",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/11",
+      "current_body_claim_ids": [
+        "ACLAIM010",
+        "ACLAIM016",
+        "ACLAIM051"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can stage pleasure pay missing wages or bodily costs?",
+        "own_new_Art_commerce_positive_connected_meaning": "Arius food, music, quiet and Saori's wanted stage sensation give actual reunion value.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Secret forced protection, unpaid wages, Misaki's discomfort and camera knowledge limits survive; Azusa attendance unproved.",
+        "own_new_Art_commerce_finite_result": "Compare café pleasure with explicit loss without treating enjoyment as compensation.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Actual pay, informed photography and affected-person response are required for complete settlement."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O083",
+      "purpose_id": "ACP083",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/12",
+      "current_body_claim_ids": [
+        "ACLAIM012",
+        "ACLAIM025",
+        "ACLAIM047"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "How can a positive battle endpoint retain fine actor uncertainty?",
+        "own_new_Art_commerce_positive_connected_meaning": "Numerical defeat and later broad defense remain positive; theatre, food and pandas have intrinsic worth.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Invitation is not unanimous assent; cell/interrogation precede correction; fine defeated-party attribution deferred.",
+        "own_new_Art_commerce_finite_result": "Compare local concession and enacted force without global acquittal or erasing an actual outcome.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Resolve the precise actor seam and actual relevant aftermath for narrower battle or justice attribution."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O084",
+      "purpose_id": "ACP084",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/13",
+      "current_body_claim_ids": [
+        "ACLAIM003",
+        "ACLAIM018",
+        "ACLAIM046"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can bounded maintenance coexist with refused headship or cure bargain?",
+        "own_new_Art_commerce_positive_connected_meaning": "Kisaki's unchosen office, Kai's rejected cure bargain and Kaguya's refused headship preserve agency.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Medical harm remains; festival beginning does not cure all or legitimize every reform.",
+        "own_new_Art_commerce_finite_result": "Direct comparison keeps Miyo's actual authority and dissolution wish together.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Agreed office, lawful reform or cure needs actual terms and appropriate outcomes."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O085",
+      "purpose_id": "ACP085",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/14",
+      "current_body_claim_ids": [
+        "ACLAIM016",
+        "ACLAIM025",
+        "ACLAIM038"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "When does creative recognition become permission to retain an image?",
+        "own_new_Art_commerce_positive_connected_meaning": "Mari freely leads then ends idol work; art, music, reading and play retain specific goods.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Requested public-photo disposal is not destruction; private gift is not upload consent; costs remain.",
+        "own_new_Art_commerce_finite_result": "Compare wanted art audience with Miyo's personal-reading access no.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Actual deletion or authorized publication and continuing response are needed for information repair."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O086",
+      "purpose_id": "ACP086",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/15",
+      "current_body_claim_ids": [
+        "ACLAIM003",
+        "ACLAIM014",
+        "ACLAIM018"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can a joyful council party erase imposed availability?",
+        "own_new_Art_commerce_positive_connected_meaning": "Pajamas accepted, games, cleanup, sleep, apology and greetings are actual ordinary goods.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Confinement, recorder/privacy interference, protested pursuit and continued filing remain.",
+        "own_new_Art_commerce_finite_result": "Compare wanted company with pressured office and unfinished exit instead of one redeemed institution.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Release, compensation, completed filing and recipient-defined privacy remedy are needed for labor repair."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O087",
+      "purpose_id": "ACP087",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/16",
+      "current_body_claim_ids": [
+        "ACLAIM006",
+        "ACLAIM017",
+        "ACLAIM025"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does useful cooperation cancel a member's right to know or refuse exclusion?",
+        "own_new_Art_commerce_positive_connected_meaning": "Seia's worth beyond prophecy, Rio's limits and C&C company support belonging.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Karin asks information; Neru refuses unilateral use-then-exclusion; one-week terms/work pretext are not full repair.",
+        "own_new_Art_commerce_finite_result": "Compare skilled club collaboration with actual knowledge and exit rights; this refusal remainsE843.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Implemented disclosed terms and durable recipient outcomes are needed for universal inclusion."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O088",
+      "purpose_id": "ACP088",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/17",
+      "current_body_claim_ids": [
+        "ACLAIM009",
+        "ACLAIM014",
+        "ACLAIM037"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can competent service respect the cook's rare day off?",
+        "own_new_Art_commerce_positive_connected_meaning": "Fuuka's rest, Juri's chosen substitute work, pancakes and permitted practice retain distinct value.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Explosion, manager pressure and Sena's painful objected treatment leave wages/safety/cure unresolved.",
+        "own_new_Art_commerce_finite_result": "Compare useful labor with wanted café leisure and Hiromi's work fatigue.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Agreed labor, actual rest/pay and relevant treatment endpoint are needed for completed care."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O089",
+      "purpose_id": "ACP089",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/18",
+      "current_body_claim_ids": [
+        "ACLAIM005",
+        "ACLAIM018",
+        "ACLAIM049"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does a desired sporting achievement validate unwanted training?",
+        "own_new_Art_commerce_positive_connected_meaning": "Rei's reverse walkoff grand slam realizes wanted success; she declines pro contract for her club.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Awkward clothes/drinks, overridden rest and failed machine remain; wrist harm or safety unverified.",
+        "own_new_Art_commerce_finite_result": "Compare actual public art achievement with distinct method and future-role refusal.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Chosen future training and verified bodily/machine aftermath are needed for all-benefit claims."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O090",
+      "purpose_id": "ACP090",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/19",
+      "current_body_claim_ids": [
+        "ACLAIM006",
+        "ACLAIM009",
+        "ACLAIM025"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does preserved cargo give a service authority over its worker?",
+        "own_new_Art_commerce_positive_connected_meaning": "Aoba's manga/safety wants, refused maneuver, actual stop, intact cargo and signatures retain real work.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Unwanted station visit remains; medicine offered/dinner invited are not performed care or settled damage.",
+        "own_new_Art_commerce_finite_result": "Compare wanted objects and competent trading with personal availability and unfinished repair.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Actual delivered care, resolved damage and agreed later labor are needed for closure."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O091",
+      "purpose_id": "ACP091",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/20",
+      "current_body_claim_ids": [
+        "ACLAIM006",
+        "ACLAIM025",
+        "ACLAIM039"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can a chosen contest erase coercive initial conditions?",
+        "own_new_Art_commerce_positive_connected_meaning": "Kikyou's quiet strategy/yakitori, Renge's stop, rescue and later contest choice are positive.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Confidentiality pressure, tail touch, sabotage/strain survive; no completed final, prize, CPR or cure follows.",
+        "own_new_Art_commerce_finite_result": "Compare willing public wager with coercive hearing and Fuyu's live risk objection.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Unpressured terms and actual contest/material aftermath are needed for universal consent."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O092",
+      "purpose_id": "ACP092",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/21",
+      "current_body_claim_ids": [
+        "ACLAIM009",
+        "ACLAIM014",
+        "ACLAIM016"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "How can shared recreation retain hidden work and separate quiet wants?",
+        "own_new_Art_commerce_positive_connected_meaning": "Mika's play, real barbecue/cleanup/cards and Kasumi's reading/ice cream are specific goods.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Covert labor, environmental/title limits and Seia's atonement do not enact structural repair or every rest preference.",
+        "own_new_Art_commerce_finite_result": "Compare café pleasure with unequal guard work and missing compensation.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Agreed work, resolved costs and each recipient's answer are needed for all-rest claims."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O093",
+      "purpose_id": "ACP093",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/22",
+      "current_body_claim_ids": [
+        "ACLAIM005",
+        "ACLAIM007",
+        "ACLAIM049"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can art confidence before success be valued without certifying institutional repair?",
+        "own_new_Art_commerce_positive_connected_meaning": "Eri's confidence, Tsumugi's company, Kanoe's taste and Rena's chosen bell support creative recognition.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Wish magic, finished guard work and future museum are unproved; coercion is not erased.",
+        "own_new_Art_commerce_finite_result": "Compare bounded Eri expertise and actual audience response with provenance/authority still finite.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Completed guard aftermath, chosen terms and opened museum are needed for stronger closure."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O094",
+      "purpose_id": "ACP094",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/23",
+      "current_body_claim_ids": [
+        "ACLAIM003",
+        "ACLAIM009",
+        "ACLAIM025",
+        "ACLAIM038"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "How does the club's useful creative work retain an unchosen head and private reading?",
+        "own_new_Art_commerce_positive_connected_meaning": "Miyo actually decides, rejects a false ending and refuses Teacher reading her wanted novels; Ritsu's sculpture/materials, favorite-author affection and cake remain separate.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Zero earnings/loss, tree blockade, contested titles and Hiromi's compromised knowledge remain; no tool/marble purchase or full repair.",
+        "own_new_Art_commerce_finite_result": "Direct whole139 maintained input grounds the institution and ensemble without typewriter-writing refusal or Ritsu novelist attribution.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Ownership/authentication, accepted labor terms, performed exit and recipient-visible repair need actual further evidence."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY;ADDITIONAL_OWN_COMPLETE139_MAINTAINED_EVENT850_CORE_AC01_B814AE_839EB3",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O095",
+      "purpose_id": "ACP095",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/24",
+      "current_body_claim_ids": [
+        "ACLAIM003",
+        "ACLAIM014",
+        "ACLAIM016"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can practical help coexist with actual exit and lost rest?",
+        "own_new_Art_commerce_positive_connected_meaning": "Suzumi joined then left JTF; Reisa's music/chat/patrol and Shimiko's craft/reading retain chosen value.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Love wins and feigns defeat; no heroine win/torture; Ui loses wanted sleep and cleanup is bounded.",
+        "own_new_Art_commerce_finite_result": "Compare completed departure elsewhere with Miyo's still unfinished dissolution.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Legitimate jurisdiction and restored rest require actual terms, Ui's response and aftermath."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O096",
+      "purpose_id": "ACP096",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/25",
+      "current_body_claim_ids": [
+        "ACLAIM007",
+        "ACLAIM025",
+        "ACLAIM028"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "How does real reader reception keep criticism and access conditions active?",
+        "own_new_Art_commerce_positive_connected_meaning": "Takane criticizes, Mel creates, readers make; Mashiro's tastes, tea and memories retain positive circulation.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "False biography, withdrawing readers and Ui's temporary distance remain; no final9:1rights/ownership or future collection follows.",
+        "own_new_Art_commerce_finite_result": "Compare spectator response with no universal taste or title proof.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Agreed circulation, accurate biography and recipient-visible collection outcome are needed for legitimate access."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O097",
+      "purpose_id": "ACP097",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/26",
+      "current_body_claim_ids": [
+        "ACLAIM017",
+        "ACLAIM025",
+        "ACLAIM046"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does today's artistic role define a permanent career?",
+        "own_new_Art_commerce_positive_connected_meaning": "Tsukuyo chooses styles/modeling today, retains ninja self-name and returns; repaired dress and camera views matter.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Forced fitting, diet and withheld phone/information remain; filming permission and new ramen unproved.",
+        "own_new_Art_commerce_finite_result": "Compare wanted recognition with Miyo's unwanted criminal-author label and ongoing office.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Freely renewed career, informed filming and delivered later meal are needed for fulfillment."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O098",
+      "purpose_id": "ACP098",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/27",
+      "current_body_claim_ids": [
+        "ACLAIM005",
+        "ACLAIM017",
+        "ACLAIM025"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can co-designed usefulness override refusal of erasure or assigned role?",
+        "own_new_Art_commerce_positive_connected_meaning": "Kei's chosen name/uniform, Alice's imperfect gift/refusal of erasure, Toki's hobbies and Eimi's peace preserve agency.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Pilot permission, health and identity metaphysics do not follow co-design; objections and broken machines remain.",
+        "own_new_Art_commerce_finite_result": "Compare practical artistic use with recipient control, preserving all source-local identity seams.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Independent identity evidence and actual informed operational consent are needed for stronger claims."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O099",
+      "purpose_id": "ACP099",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/28",
+      "current_body_claim_ids": [
+        "ACLAIM019",
+        "ACLAIM037",
+        "ACLAIM049"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does one explained rumor settle all mysteries or authorize contact?",
+        "own_new_Art_commerce_positive_connected_meaning": "Konoka's cooking, named inquiry, admitted Himari uncertainty and reunion give care particular content.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "One planted rumor explains only its acts; secret nonarrest, unconsulted hug and eating burden remain.",
+        "own_new_Art_commerce_finite_result": "Compare limited clue inference and adult nonauthentication with no omniscient account.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Resolved relevant acts and recipient permission are needed for causal or care closure."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O100",
+      "purpose_id": "ACP100",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/29",
+      "current_body_claim_ids": [
+        "ACLAIM003",
+        "ACLAIM009",
+        "ACLAIM025"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can office hospitality retain temperature, pace and task refusal?",
+        "own_new_Art_commerce_positive_connected_meaning": "Rumi wants iced tea; cooks refuse surprise duties; Kisaki revises pace; Kokona refuses infiltration then allows a walk.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Collapse, factions, late medicine and punishment remain; leisure is not universal rest or reformed command.",
+        "own_new_Art_commerce_finite_result": "Compare distinct wanted tools/tastes with pressure under an unwanted office.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Agreed tasks, actual labor relief and relevant treatment/discipline aftermath are required."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O101",
+      "purpose_id": "ACP101",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/30",
+      "current_body_claim_ids": [
+        "ACLAIM009",
+        "ACLAIM025",
+        "ACLAIM038"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Does actual rescue restore an irreplaceable object or every privacy boundary?",
+        "own_new_Art_commerce_positive_connected_meaning": "Iroha's rest/privacy/rations, protective rescue, refused forced retention and boat memory have distinct value.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Photo refusals, Sumika's attack then blame-shift and unfinished apology remain; pirate aftermath and cannon cause limited.",
+        "own_new_Art_commerce_finite_result": "Compare object's artistic worth beyond price with missing property/trust repair.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Completed apology, actual legal outcome and specific photography permission need source-resolved evidence."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O102",
+      "purpose_id": "ACP102",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/31",
+      "current_body_claim_ids": [
+        "ACLAIM003",
+        "ACLAIM010",
+        "ACLAIM018"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "Can useful navigation grant emancipation or all future work?",
+        "own_new_Art_commerce_positive_connected_meaning": "Minato's curry/sea cooking, Ami's recalled work, rescue warmth, retreat/ice cream and partial debt are positive.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Debt cancellation is offered not enacted; Minato refuses exception/bad-guy/extraction roles and Ami more paperwork.",
+        "own_new_Art_commerce_finite_result": "Compare wanted resources and skilled club labor with refused availability; MAIN/E861 identities stay separate.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Actual cancellation, agreed duties, finished cleanup and independent identity proof are needed for emancipation."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O103",
+      "purpose_id": "ACP103",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/32",
+      "current_body_claim_ids": [
+        "ACLAIM019",
+        "ACLAIM028",
+        "ACLAIM038"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "How can material appraisal distinguish one person's fear from another's projection?",
+        "own_new_Art_commerce_positive_connected_meaning": "Anna's warmth/fuel-use failure fear, Elina's admitted motivational projection, café/clothes and apologies retain distinct actors.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Forced praise, injury/property risk and unfinished race/restoration survive; fuel is not battery and projection not Anna confession.",
+        "own_new_Art_commerce_finite_result": "Compare probabilistic painting inference and trust without replacing another speaker's motives.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Resolved actor, inspected mechanism and completed race/school aftermath are needed for stronger attribution."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    },
+    {
+      "owner_id": "O104",
+      "purpose_id": "ACP104",
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ART_COMMERCE_INSTITUTION_RECEIVING_20261014_V1/ART_COMMERCE_CURRENT105_NEW_PURPOSE_JUDGMENTS_ACP071_ACP104_V1.json",
+        "bytes": 688509,
+        "sha256": "dc543adfb7dbaecc2ff411004d6abec6097ab0a30eef07b36df1fd3db1321958",
+        "git_blob_oid_of_actual_bytes": "c025e412be633ccb648ca16e8bc0d50640b9c00b"
+      },
+      "pointer": "/records/33",
+      "current_body_claim_ids": [
+        "ACLAIM009",
+        "ACLAIM010",
+        "ACLAIM016",
+        "ACLAIM025"
+      ],
+      "complete_new_five_field_judgments": {
+        "own_new_Art_commerce_target_specific_question": "What do brief ordinary purposes add to commerce without certifying compensation?",
+        "own_new_Art_commerce_positive_connected_meaning": "Gifts, cakes, broadcasts, dinner, flowers, pudding/play, Arata's refusal and Sora's need for wages retain varied intrinsic wants.",
+        "own_new_Art_commerce_countermeaning_and_rival_limit": "Coerced unpaid art, captive cooks, property/food abuse and pending promises remain; Sora's wage motive is not achieved payroll.",
+        "own_new_Art_commerce_finite_result": "Compare concrete service, desired resources and pleasure with explicit club loss;32report objects are not fresh46mini-primary coverage.",
+        "own_new_Art_commerce_stronger_claim_trigger": "Each wage, permission, legal or identity endpoint needs its particular source and actual performed aftermath."
+      },
+      "author_disposition": "AUTHOR_COMPLETE_FINITE_SOURCE_SPECIFIC_COMPARISON_WITH_LIMITS_ROOT_ACCEPTANCE_PENDING",
+      "actual_report_grade": "REUSE_OWN_PRIOR_ADEQUATE_COMMON105_WRITTEN_REPORT_MEANINGS_WITH_ATTRIBUTED_ORIGINAL_CONTRIBUTOR26WHOLE79SELECTED;NO_DEFAULT_UNDERLYING_NORMAL_REPLAY",
+      "original_ROOT_disposition": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "source_or_low_stakes_exclusion": false
+    }
+  ],
+  "exact_union105": "O000–O104 exactly once;105 distinct five-field source-specific judgments;ordinary character-building has intrinsic value. No name-frequency, low-stakes, school or model exclusion.",
+  "original_input_preservation": "All eleven full raw receiving envelopes and three source-rich M008 carrier raw objects recover exactly via retained original records plus private envelope/residual recipes. Historical target declarations are not new Art evidence.",
+  "current61767_dependency": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 61767,
+    "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+    "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f",
+    "scope": "EXISTING_SIX_SOURCE_CURRENT_QUALIFIER;ONLY_O025_O071_O073_O075_O079_O087"
+  },
+  "current59334_dependency": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_COFFEE_DIRECTION_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 59334,
+    "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+    "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679",
+    "scope": "EXISTING_PUBLISHED_OLD_GSC134_COFFEE_DIRECTION_16_RETAINED_ALIASES;NOT_NEW_GLOBAL_SOURCE_CORRECTION_OR_FUTURE_GSC_ADOPTION"
+  },
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "independent_complete_package_QA_and_ROOT_adoption": "PENDING",
+  "canonical_named_or_scope_credit": 0
+}

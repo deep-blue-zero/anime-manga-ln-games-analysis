@@ -1,0 +1,1818 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1",
+  "status": "PREPARED_EXACT_CANONICAL_DERIVATIVE_ROOT_INSTALLATION_PENDING",
+  "required_home": "P3-CHAR-HINA",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINA_CHARACTER_MONOGRAPH.md",
+    "bytes": 70951,
+    "sha256": "3ff4253a2cbfdc6653a3403c19b39ffa0aaea46199a059b090a52346194a1e90",
+    "git_blob_oid_of_actual_bytes": "ba79ef6caa221cc89f4264705248569957c448a3"
+  },
+  "all_immutable_local_input_tuples": [
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/HINA/BLUE_ARCHIVE_HINA_CHARACTER_MONOGRAPH.md",
+      "bytes": 69372,
+      "sha256": "c61c00b7a1bdb3ea91783303aa4ff6264f7bfcc9740df6563266e4a055e2b04f",
+      "git_blob_oid_of_actual_bytes": "33563b32c8acf9e648277cd6c563d4a936d3a137",
+      "lines": 267
+    },
+    {
+      "path": "ROOT_HINA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 19537,
+      "sha256": "0bcdfea7c90a74305e600748e9cda654f888620ac7bbe380a2b1def64acc99d8",
+      "git_blob_oid_of_actual_bytes": "23f17d7cf44eb9b822bc7313390201b58fe1a203",
+      "lines": 271
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/HINA/HINA_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "bytes": 36233,
+      "sha256": "b6385deccd8f65edf242dbbe910bdfbc17156a9a1c3bd75f1555d39996c6f7dd",
+      "git_blob_oid_of_actual_bytes": "2df2e3da38a9ea6ad5a33c4b3cf176aba4644a0d",
+      "lines": 396
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/HINA/HINA_EXACT_OUTPUT_MANIFEST_V1.json",
+      "bytes": 1960,
+      "sha256": "567ce4df5518cbe23b2fbfe8ed6ef945a9895a255fe583fa58db43711e9e9de3",
+      "git_blob_oid_of_actual_bytes": "63d297ddb3e90a5457b06dc2ba93199822a0e0b4",
+      "lines": 46
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/HINA/HINA_COMPLETE_DELIVERY_RECEIPT_V1.json",
+      "bytes": 2500,
+      "sha256": "9cf2aed02cd1501b51f2b7484814903cddbc29e6e9fdad6e7e0cde4df4ab02a9",
+      "git_blob_oid_of_actual_bytes": "a906c47e003e7cb04c1ede0e6b1bc88cebd78947",
+      "lines": 63
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/HINA/HINA_COMPLETE_DELIVERY_RECEIPT.md",
+      "bytes": 4638,
+      "sha256": "5653d58dedd108d5e8d8d7fed2739d4fba0318c07372adb137831ffda825c7ac",
+      "git_blob_oid_of_actual_bytes": "6a8690c0ea5082fbe1e819714f5ca19e91708f3a",
+      "lines": 29
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/HINA/HINA_PRIVATE32_EXACT_SOURCE_BINDINGS_V1.json",
+      "bytes": 29687,
+      "sha256": "d344f10ca80f4dc2d3b9d8d34e0ead500b32208bff9774d97660f927e0c1ee73",
+      "git_blob_oid_of_actual_bytes": "8b861e07501358776b06c65fca9dce64cfc6c5d4",
+      "lines": 360
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/HINA/HINA_POSITIVE_LITERAL_APPEARANCE_RETRIEVAL_V1.json",
+      "bytes": 313863,
+      "sha256": "24cd313de0794b0e84a1bc82ae0bbc1d36c8bce6708e90eccb40b267c153d33e",
+      "git_blob_oid_of_actual_bytes": "eba4ad62fd8c4bd0e59bb85ff84101111e065fe4",
+      "lines": 9867
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/HINA/HINA_SAVED_SECTION_AND_PARAGRAPH_RECEIVING_INDEX_V1.json",
+      "bytes": 57444,
+      "sha256": "8556fd46a5f8207c7ab162a5a207e25224e369951dc185799a417ef328c33662",
+      "git_blob_oid_of_actual_bytes": "35de476a141069fec4ecd29db6b8d8bbb9207e5d",
+      "lines": 1077
+    }
+  ],
+  "input_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINA_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "root_acceptance_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "transformation": "Only authority/frontmatter/current-scope framing, ROOT acceptance paragraph and explicitly disclosed historical-to-current status are changed. All original substantive body lines not named in the exact changed ranges are byte-equal and exhaustively mapped through EOF.",
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 4,
+      "canonical_line": 3,
+      "line_sha256": "76550ad9a72314d66ab64e7de72da0ed88ff0f771e63650e9e8f172afc42248c",
+      "line_text": "scope: HINA_F094_SOURCE_BOUNDED_COMPARATIVE_CHARACTER_RESPONSIBILITY"
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 4,
+      "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+      "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+    },
+    {
+      "frozen_line": 8,
+      "canonical_line": 5,
+      "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+      "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 6,
+      "line_sha256": "5bd4bc3c4d452b8177912b100c86eec01c2795675e16c362318209e665203b0a",
+      "line_text": "parser_version: \"0.2.0\""
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 7,
+      "line_sha256": "1d7ba6e0fd300bd51418e2a5f53153f1d784370947082db87c63404708c05444",
+      "line_text": "architecture: \"1.12\""
+    },
+    {
+      "frozen_line": 11,
+      "canonical_line": 8,
+      "line_sha256": "26d64e2ef6944fe53e34200462f7e40c0776f9a0e274e5b02fa3f53330f3c5b9",
+      "line_text": "method: \"1.10\""
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 9,
+      "line_sha256": "64424d029698105d0e39435baa691010218474f0ec85c85f9aebce9f21a36771",
+      "line_text": "source_reading_credit: \"Accepted analytical arguments personally received at recorded scopes; original complete primary custody attributed; no new full primary or performed receiving\""
+    },
+    {
+      "frozen_line": 13,
+      "canonical_line": 10,
+      "line_sha256": "b181549213a7aae28bcc450154b6bba0d6460d8d40e1a120094d80c0eaf065d0",
+      "line_text": "model_promotion: NONE"
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 11,
+      "line_sha256": "2dd08367d419b58d5d13c5d86c65ac5dd27d7a2690d9a299e049936028c5b0fb",
+      "line_text": "merge_approval: RESERVED"
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 25,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 26,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 27,
+      "line_sha256": "e1411f1eef11b8a6f2e21b4c05af1ea4775cf004232796f08b264a9c128317e8",
+      "line_text": "# Hina — the wanted life of a powerful, answerable student"
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 30,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 31,
+      "line_sha256": "ead1b5af4ab94cbf5d9be22246ff628479c354e226d922ad4a7bc135b03ef73a",
+      "line_text": "## 1. Core thesis: power does not exhaust the person who must answer for it"
+    },
+    {
+      "frozen_line": 20,
+      "canonical_line": 32,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 33,
+      "line_sha256": "74cb05548c9f97da457c629d99577eaa71d58a2b02fdae2316246c7e13e72cbe",
+      "line_text": "Hina's strongest character question is how a person recognized as an exceptionally effective protector can want a small, particular life without either surrendering power or using that desire to exempt herself from responsibility. Her evidence makes three demands at once. She has institutional authority and can decisively interrupt violence. She wants sleep, cute things, coffee, company, chosen clothes, play and music. She also makes harsh judgments, creates burdens for others, participates in coercive action and acknowledges an unsettling pleasure in justified violence. A whole account must let these demands remain in contact. Turning every ordinary wish into evidence of professional burnout would flatten her pleasure; turning every warm scene into proof of a harmless protector would flatten the people affected by her methods. [H32; G110; S2V002]"
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 34,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 35,
+      "line_sha256": "80e7a7132e93d6d8a1f3f070f56584320708aae7e26fb31ce17860d767412d53",
+      "line_text": "The private sources often show Hina asking for a limited relation: someone to read documents with her, a little time outside work, a shopping companion, help learning to swim, or an attentive listener for a prepared performance. The desired object is specific. Coffee without milk or sugar is a taste; a failed card tower is imperfect play; liking cute objects is not a tactical identity. Her room's cup noodles are not the entire meaning of domestic life, and her chosen performance is not just a demonstration that she can complete another assignment. These experiences have value even where no public reform follows. Their literary importance lies partly in what an office-centered portrait would otherwise prevent us from seeing. [P03–06; P09–13; P14–16]"
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 36,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 37,
+      "line_sha256": "b46774ce0ddac1d028ad59930312278dd5237ef54fcc88f14b8276dac9aa4cca",
+      "line_text": "Hina is nevertheless more than a hidden, fragile self needing discovery by an adult. She chooses, delegates, evaluates and limits contact. She declines new clothing at one shopping encounter and accepts selected dress shopping in another. She accepts a cardigan and swimming assistance without surrendering public-affection boundaries. She values the wish to see her dress longer while refusing conspicuous display. She offers cleaning help, receives Sensei's refusal, and accepts his decision. Her desired company therefore has shape because both people can limit it. Gratitude, embarrassment and pleasure are evidence of particular responses, not permissions that override the next refusal. [P03; P09–12]"
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 38,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 39,
+      "line_sha256": "be31a8616e8baca9da722085d33cf523f5cad2f7b33b00d34165f04d1d0bebfd",
+      "line_text": "Public power is similarly situated rather than intrinsically legitimate. Hina can stop an unauthorized Gehenna custody operation and apologize to Abydos; she can also speak severely during Gourmet arrests, apologize for a hasty detention, and immediately interpret a new ambiguous situation against the teacher. A local correction has real value without becoming a rule that her next judgment will be correct. Conversely, frightening comedy is not automatically a record of literal death or eternal punishment. What matters is retaining the printed command, the correction, the next prejudgment and the unshown outcome. [V001C002; G1101–1102]"
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 40,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 41,
+      "line_sha256": "8820e58fbfcd8eca9366ca4df382ffd3627478af382615e154a6cda008808d75",
+      "line_text": "The consequential S2V002 aftermath makes the tension explicit. Hina apologizes publicly, attempts to give up authority, and later tells Sensei that she felt pleasure in preparing violence under a supposedly rightful justification. The account preserves both the broadcast/coercion context and her refusal to use it as a complete excuse. Her moral unease is an act of self-assessment rather than a diagnosis, a complete causal explanation, or proof that the remembered pleasure is her timeless essence. Renewed resolve is meaningful precisely because she has identified a problem that reassurance cannot finish. Property return, reconstruction, discipline, injury inspection and victim consultation require their own outcomes. [S2V002C002 E019–021; MA]"
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 42,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 43,
+      "line_sha256": "9cd6ec749613008f9b55abcd9404ff1c1ebb298ceed5f5dbc5690bcff817d689",
+      "line_text": "The thesis is thus a literary responsibility, not a reconstruction model: Hina's wanted ordinary life and her capacity to protect are both substantial, while the rightness of a protective act remains answerable to means, recipients and actual endpoints. Across the admitted repertoire, she can create room for another person's choice, fail to do so, or recognize the failure. These differences explain more than a permanent binary of invincible leader and exhausted child. They also leave room for serious counterreadings in §10 and for independent relationship and institutional analysis in §11."
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 44,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 45,
+      "line_sha256": "bd2a2c9a0ba58183d5daeb368dc4905905c6879454cd2c198b48874acad054fa",
+      "line_text": "## 2. Longitudinal arc: local changes, continuing questions, and no invented variant calendar"
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 46,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 47,
+      "line_sha256": "69975ed65de548dbe14653d5af29f19c859d920a2205f3cdccc85235b168e21f",
+      "line_text": "The public MAIN sequence supplies locally ordered changes in how Hina's authority enters other people's lives. In V001C002, her interruption of unauthorized custody produces discipline, apology and withdrawal. She also provides intelligence and later blocks reinforcements during Hoshino's rescue. The tactical contribution is consequential, but it does not become local rule over Abydos. Recipient jurisdiction, the omitted terms of requests and the differentiated roles of Abydos, Schale, Trinity and PS68 remain. The earlier failure is not cancelled by the later aid; aid is not dismissed because earlier intervention overreached. [V001 §§3–4; V001C002]"
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 48,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 49,
+      "line_sha256": "6e26824b74aff8e7616cb0501b88ad0a82c648b0dc8cd187b809e718f1d7e4a1",
+      "line_text": "V003 offers a further sequence rather than a generic repeat of invincibility. Hina articulates a distributed-authority peace-order countermodel during treaty preparation, while the chapter does not supply an inspected constitutional charter. In C003 she privately wishes for rest, is caught in the attack, falls and rallies, is later reported gravely injured or missing, and directly returns. Her voiced wish to retire is expressly retracted as a request to lean on others before rejoining Ako. That retraction matters: an actual completed resignation would be a different event. Her acceptance of Justice and Abydos help for a local westward maneuver is positive cooperative choice, not proof of formal truce, medical clearance or comprehensive restored command. [V003C002 §2 E005–009; V003C003 §2 E001–025]"
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 50,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 51,
+      "line_sha256": "8b796adcb38ab3f6d2e8357ece24e6fbf1ae50af1d737ebbb384f8ee36c7286b",
+      "line_text": "The series does not require the next major appearance to mean every earlier need has been solved. V006C003E009 gives Hina's direct confirmation that she petitioned for Squad parole. The parole announcement keeps fixed charges and sentences and explicitly rejects innocence; its inserted Hina passage has no securely established physical setting. Nevertheless, supporting a conditional future for people associated with a grave attack is consequential evidence against revenge as her only public relation. The act can be valued without inventing a forgiveness ceremony, all-recipient reconciliation, or the legal terms of her petition. [V006C003 §§1,3]"
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 52,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 53,
+      "line_sha256": "5463326211087c2bb33f0ae291b06b29a96459e7e786a505a0e09051ca6d2e86",
+      "line_text": "V100 places her strength inside collective work. The Slumpia route includes Yuzu, Hina, Alice/Aris and Rabbit; civic defense and feeding are also real duties, not background to one champion. The maintained EVENT821006 argument preserves Yuzu's readiness, Hina's concise commencement and Alice's raid vocabulary at their native witness scopes. The current canonical rendering inspected for header retrieval prints only Yuzu headers, so this monograph does not claim a fresh direct canonical Hina utterance from that rendering. The complete accepted argument and MAIN coalition account remain the interpretive authorities. Reported sanctum successes, subsequent revival, final completion and reconstruction ahead have different endpoints. They cannot allocate every offscreen causal contribution to Hina or prove permanent city safety. [V100 four-chapter account; E821]"
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 54,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 55,
+      "line_sha256": "523ef4dc41566f43f1f8bc6b57fe632e914ecaf4e4f0bd0606f5c9681532b6d8",
+      "line_text": "V001C003's later chapter-local Hoshino conflict again distinguishes power and explanation. Hina tactically defeats or immobilizes Hoshino, supplies the Gehenna intelligence account of Yume's accidental death during a payment journey, and joins the response when Hoshino answers peers. That intelligence is substantive testimony, not recovered death, banking or weather records. The train gun is stopped for now; rare-plasma/oasis-light interpretation is a hypothesis rather than recovered wealth or a measured mechanism. In the aftermath Hoshino rests against Hina while grief and debt continue. A successful interruption can accompany a still-unfinished historical account. [V001 §5]"
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 56,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 57,
+      "line_sha256": "86bde5f2c2c415e769eb877ab6d5ba5ccfba26bfc4cd4e38a11d542a8b17d670",
+      "line_text": "S2V002 most sharply tests her protective principle. Earlier provisional nonintervention and reported quieter work are followed by the broadcast disruption, outward war support, protective-custody proposal and actual confinement of Sensei. Iori and Chinatsu reject the enlarged protective rationale. The counterbroadcast and personal appeals accompany local reconsideration; neither technical selectivity nor each person's causal recovery is isolated. Her apology and attempted surrender follow. This chapter supports a real reversal at its narrated scope and a continuing accountability problem, rather than permanent purity or permanent loss of self. [S2V002; MA]"
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 58,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 59,
+      "line_sha256": "35607ee9495006539745b8f23b4636f6114e25b8d1ffc29f69916110fd117682",
+      "line_text": "The private base, summer and dress families are not a release-ordered biography. They provide internal sequences and source-paired comparisons. Base008 actually ends in sleep, a coat and quiet departure. Summer003 locally finishes shared work while refusing late sea leisure; summer005 adds fear and appreciation; summer020 adds chosen learning, damaged equipment and continued lesson/swimming company. Dress002 leads through preparation uncertainty and changing privacy; dress003 fulfills trying a selected dress and later shopping; dress005 narrates a private performance. These endpoints support changes within those scenes. They do not prove that base fatigue preceded summer growth, that a later variant cured the former self, or that private piano work caused a particular MAIN choice. [P01–13]"
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 60,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 61,
+      "line_sha256": "d646d2e12a6d2824bf50b900001678a8baf65605118240799a024bbe4a802b4f",
+      "line_text": "Likewise, EVENT804's ordered holiday/training packet, EVENT833's party/performance sequence, EVENT818016's afterstory and MINI050's birthday planning have their own local chronology. A February 19 date without a year does not place the birthday after an undated crisis. Equal seasonal or event-lobby lines remain distinct availability records, not repeated meetings in a single continuous life. The whole argument preserves recurring questions—how to rest, ask, refuse, delegate and answer for force—without inventing a universal schedule that settles their relation. [E804; E833; E818016; MINI; P17–19]"
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 62,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 63,
+      "line_sha256": "8ce234716db2b71084430ac500c69cb176aec199e77e079f9acb8ef76d8649ac",
+      "line_text": "## 3. Public and private self: managed visibility, offered trust, and the cost of being recognized"
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 64,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 65,
+      "line_sha256": "64a2114e9e9c9772b5023e23df3180cb32730039cbb5e95a0f5d268bc4628d3b",
+      "line_text": "Hina's public reputation changes the conditions under which she can be ordinary. In base002, being recognized and watched makes ordinary movement inconvenient. She requests a perspective outside her group while calling Sensei an unreliable adult. The incongruity is useful: trust in someone's contribution need not mean unqualified admiration. The actual endpoint is joint document reading and opinion exchange, not a date, complete agreement or future guarantee. Base003 similarly retains a security/privacy concern and hesitation about online alternatives; face-to-face company is contemplated while daytime scheduling remains uncertain. Wanting a less visible meeting is an authored preference, not proof that shame controls every relation. [P01–02]"
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 66,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 67,
+      "line_sha256": "01c0a068c070215d6194513ae32daf21c2e66dc7b783b49b1d339da065319487",
+      "line_text": "Private company also has visible limits. A short bench interval permits comfort; contact escalation meets protest. Base008 permits conditional company during work, finds a gaze distracting and asks contact to stop. Her later sleep is narrated, but uncertain message memory or the possibility of a dream does not supply a performed dream episode. The text lets embarrassment, tiredness, complaint and wanted help exist without converting them into one deciphered inner truth. The base written Think/Talk contrast likewise distinguishes wanting indulgence, play or complaint from denying that she was thinking anything. Sensei is not automatically shown hearing her inward wish. [P04–05; P14]"
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 68,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 69,
+      "line_sha256": "7f9b4486707c89662f3314ee475a18038fb2add482fa6d9b6a7460efc705cdb3",
+      "line_text": "Dress privacy is especially precise. An offer to clean Schale is declined because of burden and imposition, and Hina accepts the refusal. Preparation help follows because she needs it, while reluctance about the party remains prospective. Her approaching-face objection and later do-not-approach language during a failed fit do different work from her acceptance of help choosing a dress. In dress003 she can be pleased by a compliment, evaluate fit and ease of movement, accept more shopping and still refuse walking conspicuously through town in the selected dress. A retracted unfinished two-person remark is not a completed future display. The positive and negative responses belong to one agent. [P11–12]"
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 70,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 71,
+      "line_sha256": "7ad351e85a20d6292056348cf9365f2be47e8f6ce850a3b772ae8f6ee1e30b83",
+      "line_text": "The public/private distinction is therefore not a claim that rank disappears whenever Hina announces a personal intention. EVENT848023 makes that limitation explicit. She apologizes for an unannounced arrival, calls it personal, recognizes that Ichika cannot simply accept that label, and explains the political entry difficulty of publicly accessible Tea Party property. The resulting offer of one external volunteer is accepted at a personal-address scope. Ichika's observation that competence has not ended problematic conduct survives. Hina's restraint here matters because she addresses the recipient's real situation, rather than relying on her own chosen label to erase it. [E848 episode argument023]"
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 72,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 73,
+      "line_sha256": "76661e5bea5bd1d1fdf2676902b884b89b84596e2e77b1cd909d4d3d7d495023",
+      "line_text": "MINI04020 places a related boundary in an ordinary shop. Hina resists an inquiry into her schedule, then recognizes Sora's work and supports her free school choice with a bounded offer of guidance/contact. Sora's expectation that a serious student would not give gifts is a stereotype; the declared Christmas plan remains a plan. Neither the shop's rumors about Sensei nor the literal cashier/role seams establish her private conduct. The encounter shows selective disclosure and practical generosity without requiring total accessibility. [MINI §6]"
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 74,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 75,
+      "line_sha256": "9d71ed6fce0b49b4a2584f2019237d9ca56161f68a480889bb10ec2e5ba6e3f4",
+      "line_text": "This account consequently rejects a simple two-mask interpretation. Public severity and private gentleness are recognizable contrasts, but the sources also show private work firmness, public warmth, private refusal and public ethical revision. Hina's ordinary identity is not unlocked only by Sensei: Meg's ice pop, Ako's shared-evening invitation, a cross-school birthday party and her own judgments give other routes. What remains consistent as an interpretive question is the management of access—who may ask, what may be seen, what she chooses to offer and whether the other person can decline. The answer differs from scene to scene; that variation is the substance of the portrait."
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 76,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 77,
+      "line_sha256": "6a056597072cc8fe14b6ece7ebcbc7cb59712c95389ac69b7392ff90727c7add",
+      "line_text": "## 4. School and club role: distributed work, unequal authority, and recipients beyond the committee"
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 78,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 79,
+      "line_sha256": "b576807f63951ce1e64b13e32be1393618bb452212f5363a2ed7a80b6dd6ad11",
+      "line_text": "Hina leads an institution whose work cannot be reduced to her combat power. GROUP1901 begins with a weekly meeting, a sigh and a request to finish before her next appointment. Reports arrive through Ako: a road explosion and pursuit; a culinary dispute with hospitalized Prefects and an escaped Gourmet group; a forged absence-notice enterprise with no sales. Hina delegates infrastructure processing to Pandemonium and requests a damage-cost report because school meals might otherwise shrink to rice balls. These are decisions and forecasts, not shown restored roads or recovered money. Their particularity gives her managerial repertoire content: she must rank work, preserve food provision and respond to incomplete information. [G1901 u0001–0068]"
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 80,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 81,
+      "line_sha256": "b3c82e2fb77b895455ebbb6e8b9825838595b3b41c639a35802644af33d4f0cc",
+      "line_text": "The meeting also shows what a powerful leader does not know or finish alone. Eighteen items remain, only two days have been covered, and information-department leave postpones the other five. That backlog is more specific than a universal claim that everyone abandons her. The private base015 Korean account actually acknowledges peers helping, and EVENT818016 later represents Ako's report of committee assistance and Gourmet replacement athletes. A meaningful account preserves these positive distributions beside reports of overwork. Hina's power does not automatically solve reporting delays; the existence of helpers does not automatically make the distribution fair or adequate. [G1901; P06; E818016]"
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 82,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 83,
+      "line_sha256": "5e570df267ae917d3f8b4ce65d339dd51058f0afd5353c066989a64f0943563b",
+      "line_text": "GROUP1902 separately tests authority through an audit with a preselected punitive aim. Hina's absence leaves Iori, Chinatsu and Ako managing a hostile process; cocoa desire and Iroha's protective response influence the scrutinizing side. When Hina is told, she decides to go see them. The resulting gunfire, explosion and headquarters damage are said to have followed and bracketed as another story. That hedged aftermath cannot become a witnessed Hina attack, a named shooter, or proof that she reversed a budget cut. Treating it as automatic triumphant retaliation would hide the institutional questions the scene raises about approval, criteria and procedure. [G1902 scene003 u0060–0069]"
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 84,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 85,
+      "line_sha256": "4d600d9e55039724bc4f42b7ffb7ee917f0dcf21b0f4de3cdcaf768522f23e56",
+      "line_text": "Public force also requires boundaries outside Gehenna. The Abydos mandate correction is one example; EVENT848023's personal volunteer is another. In EVENT844009, firing cannot proceed because Ako is incapacitated and command has not transferred. Hina explicitly transfers control of the mobilized guns to Sensei for that operation and orders the deployed personnel to follow him. Juri's decoy, responding personnel and the teacher's commands then have distinct functions. The text shows a bounded authorization that makes action possible; it does not create Sensei's permanent right to command all Prefects, Hina's universal command jurisdiction, or repaired city infrastructure. [V001C002; E848023; E844009 u0031–0034]"
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 86,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 87,
+      "line_sha256": "af22fd4a6f09fb566e623e84994b7a995b07568ebb6cb7977c5e776b66fd6e9f",
+      "line_text": "Her role beside Pandemonium remains uneasy rather than a solved constitutional balance. Work can be delegated there; reports of interference, sarcastic messages and coercive audit aims remain. Makoto can refuse Hina's attempted departure while accepting chair responsibility and withdrawing a battle plan. Such acts are neither evidence that Hina has no agency nor a complete transparent command structure. Hina's own continuation must be read with the public apology, actual reversal and unfinished remedies, not just with the reassuring fact that the office retains her. [G190; E835016; S2V002C002]"
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 88,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 91,
+      "line_sha256": "818ecc38d4fd298d0d1da0217e0042da0991fc486d740da4a6234ee95b4b1c53",
+      "line_text": "GROUP3502 offers a smaller but rigorous institutional test. Hina refuses a scripted bag offered when authority is encountered, sends a warning through Meg and uses a frightening destructive signal. The qualified text-actor receipt prevents assigning Meg's donor script or chosen-work history to Hina merely because the canonical label does. Contents, exact destructive means, a particular favor, statutory violation and completed discipline are unprinted. Later Hina accepts an ice pop bought for sharing and thanks Meg. The distinction is contextual inducement versus a spontaneous sharing offer at that encounter, not an all-price gift policy or immunity for small favors. [G3502 u0013–0065]"
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 94,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 95,
+      "line_sha256": "46bf19c6a5e3e3630778b1d42ca15638e8ddda4b77faa832320f256343110d09",
+      "line_text": "That same encounter gives her suggestive but incomplete knowledge of Meg's earlier leadership and Kasumi's origin. Meg corrects a story of relinquishing office into a chosen digging arrangement: Kasumi asked what she wanted and enabled excavation work. Hina's aside about unnamed “those people” remains opaque; it cannot identify Kaiser, Bodensatz or the Thunder Emperor faction. A leader's knowledge can be real and selectively withheld without giving the analyst permission to complete the unspoken organization. The monograph therefore retains institution, recipient and evidence boundaries instead of transforming competence into omniscience. [G3502 u0069–0096]"
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 96,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 97,
+      "line_sha256": "451a149ceb6f989339667d45decca7e87c66e74b7ebd87ded234c4f21b312985",
+      "line_text": "## 5. Ordinary life: taste, imperfect play, fear, clothing and music as ends in themselves"
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 98,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 99,
+      "line_sha256": "1ed306e61b296621c08f4b0884387c7b12189fa1ea7fc3a0b69e367c13de3b1c",
+      "line_text": "Base005's mall interval resists a portrait consisting only of responsibility. Hina has limited familiarity with accessories, clothes and arcades in that encounter; she refuses new clothes and asks for black coffee without sugar or milk. The employee's empty person join and differing Japanese/Korean formulations remain separate from Sensei's internal voice. The source does not narrate serving or drinking the coffee. A preference is still positive character evidence before consumption, and local unfamiliarity is not a permanent incapacity to enjoy leisure. Later message invitations remain prospective rather than a second completed shopping day. [P03]"
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 100,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 101,
+      "line_sha256": "8d2edc2d10cbd08e5d5243063fba145b21c08d161aeb7447fad4b8ef663eae75",
+      "line_text": "Base015 gives ordinary life an actual endpoint. Fatigue and forgotten breakfast lead to a shared cup-noodle meal; the narrative also contains comedy television, a failed card tower and board/video-game play. The Korean four-level wording does not establish a winner. These are not lesser versions of a tactical trial. Failure at play, available convenience food, laughter and company disclose how she spends time that need not earn public justification. Her wish to quit work is not a completed resignation; the later interruption and return toward duty do not show final arrival or resolution. The leisure has happened even though it does not last indefinitely. [P06]"
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 102,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 103,
+      "line_sha256": "2d920ae1e039b1055263769b08c942a4c06d100f9161a711526460b9a9ea9212",
+      "line_text": "Rest appears in different strengths. A bench permits a short pause and comfort in base006; it is not a narrated sleep or long recovery. Base008 actually narrates sleep, a coat placed over her and Sensei's quiet departure, while work completion and duration remain unknown. Summer005 has her wake at six in the evening, with Japanese missed-lunch and Korean forgotten-something language; no exact sleep interval is supplied. Her self-blame about condition management is challenged by Sensei's response rather than certified as the narrative verdict. These distinctions preserve rest's value without a clinical or universal workload claim. [P04–05; P09]"
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 104,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 105,
+      "line_sha256": "a3095f59b05a76a871c26652b97f7aac7b83e7090e8f5eae299b981e56dd8195",
+      "line_text": "Sea pleasure is neither a natural skill nor a simple cure. Summer002 includes misrecognition as a lost child, a request to remain nearby and a narrated enjoyable shore walk. Her choice not to force escape in the Japanese account is related to others' good intentions, not proof that their attention was welcome. Summer003 shows shared approval sorting and a locally completed last item, then an explicit refusal of a late sea excursion. Summer005 supplies poor underwater visibility, insecure footing and night-water unease, acceptance of a cardigan and limited appreciation of the view. The Japanese sunset and Korean lights-out endpoints differ; positive appreciation does not mean fear vanishes. [P07–09]"
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 106,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 107,
+      "line_sha256": "dc63e98d1fd345fda8dbcb7d03457df8b1e1d648cf6e2ea834d682f3e735dd61",
+      "line_text": "Summer020 gives a further independent wish: to learn swimming. The source preserves early improvement, worry about wasting time, refusal of public affection and a local combat interruption. Damage to the float produces self-blame alongside contrary reassurance. Its long-use Japanese description and Korean childhood phrasing are not harmonized. Local repair occurs, but the completion line's raw text actor is the engineer despite typed/canonical Hina attribution; Hina is not credited with doing the repair. Continued lessons or swimming together under night moon are locally narrated without a proficiency certificate. Learning and received material help are pleasures that need not become an invincible-athlete biography. [P10]"
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 108,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 109,
+      "line_sha256": "9acfc4f358542a2ce678d6cfed3ef191689c399f072fac45ecfab1356bfb3ee3",
+      "line_text": "The summer written sources also make training and reluctance coexist. Reusable equipment and efficient use can be preferences; heat and annoyance remain. Hydration reminders and future sea-risk help are routine written care rather than a performed rescue. Named written special lines give parallel context for generic person-empty narration but do not repair its actor schema. The event-costume copies have different physical identities and conditions, including absent mission rows in one context. They are not three training days. Ordinary fatigue, small anticipation and fresh company remain character evidence at their written conditional scopes. [P15; P17]"
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 110,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 111,
+      "line_sha256": "934dfed2a1945fc37ba39b88bb05119672b68cf7ee3f7f37dc93b8e2d7cc4dcc",
+      "line_text": "Clothing supplies another wanted object with limits. Dress002's old stored dress fails to fit and privacy becomes urgent. Dress003 fulfills trying the selected dress and shopping together, while a purchased dress and attendance at a future party are not narrated there. Her evaluation of fit, ease of movement and pleased uncertainty is aesthetic agency; it need not be reduced to a reward for helping Sensei. Concern about appearing young and a Hina-chan objection qualify the compliment's reception. Wanting suitable clothing and refusing conspicuous public wear are consistent distinct choices, not proof that one secretly overrides the other. [P11–12]"
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 112,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 113,
+      "line_sha256": "9dc2fe50cccc9141e0db6f123b8d996aee2213ac44506a4228821c6b73f3ffca",
+      "line_text": "Music is chosen effort rather than another mere competence token. The corrected Japanese dress profile ties increased piano practice to a decision to perform before Sensei; the Korean profile instead adds unrecognized youthful feelings. The latter is profile narration, not Hina's self-knowledge. Dress005 dedicates a private performance, asks proper listening, downplays its greatness and expresses discomfort with expectations. Its final narration fulfills listening and time alone. The generic embedded log-Hina passage retains its native person-empty narration while named written special lines remain independent parallel context. No musical selection, technical mastery or measured duration is certified. [P13; P16]"
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 114,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 115,
+      "line_sha256": "677872b0e7d5210c54098114ed9a83c413f85979d7475359ca86ac1573205e10",
+      "line_text": "EVENT833 adds public party/performance meaning at a separate source scope. Hina's acceptance and effort coexist with reluctance, organizational demands and Pandemonium's pressure. Episode009 narrates local problems resolved and the party restarted, and reactions support music performed within the written narrative. That is a positive event endpoint; video-only010 supplies no personally inspected audiovisual performance or completion of every party and fiscal issue. The private performance and event music may be compared as effort, wanted listening and response, without dating one as rehearsal for the other or transferring rights and outcomes across sources. [E833; S2V002 contextual account]"
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 116,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 117,
+      "line_sha256": "c3604e755692748ab4d3bcd6d4af7931b7728e6e6f1c6add1ead1e85edd69ddd",
+      "line_text": "Finally, MINI050 gives ordinary life its own peer-authored ending. Plans initially fail and cakes are exchanged; Hina mistakes an invitation for a disguised leave request and apologizes that Ako should not need to lie to obtain time off. Kisaki permits first-name address in an office-free setting. Food, Rumi's karaoke wish and Hina's limited singing confidence coexist with literal actor seams. The narrator says the February 19 party successfully ended, while Sensei's later pain marks adult limits. This is actual shared pleasure, neither a universal school alliance nor a scene whose value depends on curing Hina. [MINI05010–05030]"
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 118,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 119,
+      "line_sha256": "3bd5f101edd17d1fe167f1eaf9bd3a8f4b454f2f32f47fa14bfbcb4f0f887ea1",
+      "line_text": "## 6. Crisis behavior: real capacity, disputed protection, and an unfinished ethical line"
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 120,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 121,
+      "line_sha256": "23f2587594425d50e770b040933241eece2b05229775d419fef1292f31048bc2",
+      "line_text": "Hina's crisis competence is substantive. She blocks reinforcement, tactically intervenes against Hoshino, rallies after injury, joins local cooperation and authorizes a specific response when command is blocked. A skeptical reading should not reduce these acts to reputation. Yet tactical power does not answer whether she has jurisdiction, whether the affected person agreed, whether a hypothesis is correct or what happens afterward. V001's apology/withdrawal, V003's revised technical guess and S2V002's custody place those distinctions inside the same character's public repertoire. [V001; V003C003; S2V002; E844]"
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 122,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 123,
+      "line_sha256": "5bbfbe2b89288ef58b7152920644d9030100ac971f1591f9c8a87e4c6f56ac42",
+      "line_text": "The Eden attack makes vulnerability consequential without creating a medical biography. Hina's fall and rally differ from a later report of grave injury or missing status and from direct return. Her technical guess about the missile is later rejected by an analyst; her force does not make her a forensic authority. When she rejoins, exhaustion and a wish to retire are spoken, then expressly recast as wanting to lean on others. Justice/Abydos help is accepted. These are real ways of acting under pressure, while the chapter offers neither full medical clearance nor universal recovery of interschool trust. [V003C003]"
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 124,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 125,
+      "line_sha256": "67bdcf40a879c0b189b4210c264d3099a4eb468431a93493f665b88cced3457c",
+      "line_text": "EVENT804 is a lower but still material test of her authority. Coffee praise triggers Ako's crisis interpretation, yet the closing good-mood explanation revises coffee-as-stress proof. Hina chooses conversation, shoreline attention, games and learning; information concealment and repeated interruptions shape what she can choose with knowledge. She is not only a passive recipient of an imposed holiday. At the ending she recognizes positive rest and criticizes methods, while also finding work more settling than idle confinement. She assumes peers enjoyed two days despite narrated effort and fatigue, then restarts training with bans on sea/free time and a 36-hour/all-night demand. The answer “ありません！” is not a safety or willing-consent certificate, and completion is unprinted. [E804 E001–012]"
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 126,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 127,
+      "line_sha256": "dbd8e3548fc1fd76770534a7b4e5a8b1f78dd4a4009b51388e3638c3594e6fba",
+      "line_text": "That ending is crucial contrary evidence. Hina's own need for rest does not automatically make her responsive to subordinates' rest. Delegation and trust may distribute useful work while decisions also intensify burden. This scene cannot be dated after MAIN accountability as a regression, nor can later public warmth erase it as a joke. It does defeat a simple account in which private vulnerability necessarily produces uniformly gentle management. The story's fulfilled local aid and wanted pleasures survive beside the imposed demand. [E804]"
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 128,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 129,
+      "line_sha256": "cbe005139b554f679d0bba9f678aa89a8dd5063e910a11f49d597d6dd5e8179b",
+      "line_text": "S2V002 presents a different order of harm: war rhetoric, protective custody and actual confinement in the broadcast/coercion context. Iori and Chinatsu's protective-boundary dissent remains independent. Ako's belief that outside war would relieve Hina's burden is an actor's justification, not this monograph's endorsement. Counterbroadcast, pain and personal appeals accompany local reversal. A third-year-only susceptibility rule fails as a full account, operator and selective mechanism remain unknown, and Shoko's organizer confession does not assign every action's cause. These unresolved mechanics cannot make the represented confinement unreal or convert private trust into its permission. [S2V002C001–C002]"
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 130,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 131,
+      "line_sha256": "a12b596a8302928dcaaf63d421af7bd5a6c6a1213648660d534ab095f25c8383",
+      "line_text": "The aftermath offers actions and commitments rather than acquittal. Hina's public apology avoids using brainwashing as a complete excuse; she attempts to surrender authority. Makoto refuses the departure, accepts chair responsibility and withdraws the battle plan. Promised property return and enumerated reconstruction, discipline and inspection tasks are not completed inventories or victim responses. Her private unease about pleasure in justified violence therefore remains connected to ongoing public work. Reassurance can help her continue; it cannot undertake the absent remedies on behalf of the victims. [MA; S2V002C002 E019–021]"
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 132,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 133,
+      "line_sha256": "edd4f382e2468759eaa82d5e53212a844884bad166b8c54ee4652cdf9d2367b2",
+      "line_text": "Nor should “pleasure in violence” become an unrestricted sadism diagnosis. The account is a first-person recollection under a particular altered rationale, with self-criticism afterward. It bears strongly against the proposition that the protective role is emotionally uncomplicated. It does not prove every memory genuine, every psychological act medicine-caused, or a hidden stable motive behind coffee, shopping and music. The ethical pressure is more precise: legitimacy claims can make force gratifying, and Hina recognizes the need to keep working at the line. The monograph can retain that serious difficulty while refusing both clinical certainty and sentimental redemption."
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 134,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 135,
+      "line_sha256": "0c00522ae76d53f116e9f8bc585cee59816161b22c54affcc8ad0787c7a9e7c1",
+      "line_text": "## 7. Sensei relationship: finite assistance, reciprocal company, and acts that still require permission"
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 136,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 137,
+      "line_sha256": "63f0015c1d1837a71905445be50bd851451bf91fd4e791f2fa2fc64070e3c416",
+      "line_text": "Hina's reliance on Sensei is substantial but qualified from its early private presentation. She asks for outside judgment on a plan, calls him unreliable, worries about inconveniencing him and frames some contact as work or explicitly not a date. The complete threads preserve invitations and uncertainty, not just favorable extracts. A promise to travel immediately does not show arrival; a location or address announced for later is not shown sent or received. The relationship is legible through wanting, replying, joking and planning as well as through fulfilled company, but those modes must stay distinct. [P01–03; P06–08; P10–12]"
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 138,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 139,
+      "line_sha256": "66cbc041b3be003bd3937629f6812bd9b62c6265117a313625c4971099baeb8b",
+      "line_text": "Sensei's practical assistance sometimes has an actual endpoint. The document exchange happens; a shared meal and play happen; some work finishes; a cardigan is accepted; lessons/company and a private performance are narrated. At base008 the adult places a coat and leaves quietly after Hina sleeps. That act gives ordinary care its own force without claiming that work has disappeared or that a medical condition has been cured. The best account values finite assistance rather than enlarging it until it replaces Hina's agency, peer care or institutional remedies. [P01; P05–06; P08–10; P13]"
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 140,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 141,
+      "line_sha256": "93238372c36d1d59ce8b664722266710e21f49c15eafea871e6259e66e968744",
+      "line_text": "Hina also contributes. She asks for company while attending to the adult's time, recognizes his work, offers practical help, expresses sympathy and prepares music meant for his listening. The cleaning offer is declined, and she respects that decision; reciprocal care includes receiving a no. Event work-interface thanks and proposed return gifts are meaningful written intentions, without a narrated gift exchange or proof of universal adult perfection. An embarrassed or grateful response is not merely a disguised assignment. It can be a positive wanted relation, provided the claim does not erase the limits that give it shape. [P11; P13; P18–19]"
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 142,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 143,
+      "line_sha256": "95119369608f5da5c3bc306218058d858b179596ecba6db3a89080b674744e11",
+      "line_text": "Those limits are especially important because the adult can intrude. Contact meets protest; continuing conspicuous dress display is refused; a changing-space boundary is clear. Summer005's premature answer to a request elicits an objection, and a second premature answer does so again. It is not mind-reading or pre-authorization of future demands. In summer020 teasing meets an anger warning and public affection is refused. A later pleasant endpoint does not retrospectively approve the unwanted contact or the ignored uncertainty. This monograph treats the adult's positive acts and the student's objections as evidence about the same relation. [P04–05; P09–12]"
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 144,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 145,
+      "line_sha256": "c245ee25fa222c513de9757d286020b7da8a40c5749b2ba60ba108e7c193e42f",
+      "line_text": "Hina's own power can likewise intrude on Sensei. GROUP1102 first supplies apology for hasty detention on an unverified swimming allegation, then a new negative interpretation of the aroma/underwear situation before a crash closes the joke. S2V002 supplies a protective-custody proposal followed by actual confinement. The latter is a consequential event under a coercive rationale, not a trust test consented to by the private relationship. The monograph's discussion of gratitude and dedication therefore cannot become a warrant for either party to decide the other's bodily or institutional boundaries. [G1102; S2V002; MA]"
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 146,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 131,
+      "canonical_line": 147,
+      "line_sha256": "11ac61cd1556a5c0687cedaa5215f86ec2e0ab3a9ebdd27755649dab8093a54f",
+      "line_text": "The E021 aftermath does give Sensei's reassurance and Hina's renewed resolve, embarrassment and request that he remain beside her. These are local relational acts and commitments; the exclusive alternatives are not a single inspected playthrough. Printed heart-voice lines receiving replies do not establish an acoustic inaudibility rule. Most importantly, reassuring the powerful student is not the same activity as consulting the people affected by her institution. A literary reading can see why the reassurance helps her continue while still requiring separate accountability. [MA §§2,5]"
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 148,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 149,
+      "line_sha256": "f0e8e02f162fbd2e69e6143d2646889905644096bb7bd63cbc38e532082b8770",
+      "line_text": "The case against an exclusively adult-authored transformation is direct. Ako handles work with peers, Hina praises that reliance, and she initiates an invitation to share the campfire. Kisaki, Rumi, Mina, Ako, Chinatsu and others author a birthday occasion; Reijo challenges the claim that the teacher's arrival transformed the atmosphere because it was already lively. Meg's offered snack is accepted with thanks without an adult turn. Hina's own volunteering and parole petition are not shown as commands by Sensei. The teacher is important, but importance neither makes every other relation derivative nor proves that ordinary agency exists only when he is present. [E818016; MINI05030; G3502; E848023; V006C003]"
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 150,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 151,
+      "line_sha256": "e87f2422d540a5c078cd4f3583492fb2d801b7280cc1cc60f19c5ac5462eb06d",
+      "line_text": "The literary consequence is a relationship of desired finite access rather than total availability. Hina can want special listening and some private attention, be disappointed or embarrassed, object and later laugh, help and receive help. A romantic reading has evidence in dedication, affect and wanted company, but the monograph does not adjudicate a permanent exclusive romance, future guarantees or unrestricted intimacy. Preserving that uncertainty does not downgrade the scenes: the actual work, rest, pleasure, refusal and reciprocal invitation already constitute substantial relationship meaning."
+    },
+    {
+      "frozen_line": 136,
+      "canonical_line": 152,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 137,
+      "canonical_line": 153,
+      "line_sha256": "4a477b54fbc0a0d330aaaabcfb22c01ece6b0a54a203defae5440bca31f0ff47",
+      "line_text": "## 8. Major peer relationships: dependence, disagreement, and ordinary company beyond the adult"
+    },
+    {
+      "frozen_line": 138,
+      "canonical_line": 154,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 139,
+      "canonical_line": 155,
+      "line_sha256": "0f06655350f1688c94b7d896ed8409bc95199e412644a2fff5bbf63187a07c32",
+      "line_text": "Ako is both an administrator and a recipient whose own life must remain distinct. Her attention to Hina can recognize fatigue, anticipate needs and maintain operations. EVENT804 also shows overreading coffee praise, concealing danger, using teammates as pieces/gears, wanting to teach while supporting Hina's chosen instructor, and removing refusal through acting-chair authority. Hina's trust in her delegation is not proof that she knows what has been concealed or that the arrangement preserves everyone's wishes. The Hina–Ako question therefore needs its own directed analysis of care, recognition, information and distributed burden, rather than being settled by Hina's character thesis. [E804]"
+    },
+    {
+      "frozen_line": 140,
+      "canonical_line": 156,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 141,
+      "canonical_line": 157,
+      "line_sha256": "c806f827be7a80677461a0de3fe5c035176de0bb6997c57c7921ac38cc12d4e7",
+      "line_text": "EVENT818016 supplies a concrete counterpoint. Ako searches in fear of a Pandemonium trap while insisting she does not doubt Hina's strength. Hina apologizes for absence and work falling to her; reports a medical-station stay, rest and feeling better; then hears that other committee members helped and Gourmet members filled athlete slots. Hina explicitly recognizes that Ako relied on others and calls it a change; Ako's complicated response remains. Hina invites her to the campfire and Ako agrees. This is peer recognition and chosen company with no Sensei turn, not completed dancing, an audited medical cure or permanent cooperation with every rival. The raw Hina text actors beneath several printed Ako labels remain qualified. [E818016 u0001–0063]"
+    },
+    {
+      "frozen_line": 142,
+      "canonical_line": 158,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 143,
+      "canonical_line": 159,
+      "line_sha256": "4685a94d8d9fe5b1c337dc7cc89e6eab0ad81fab62bb9042b14e1f4daf01e327",
+      "line_text": "Iori and Chinatsu provide independent disagreement, not just extensions of the leader. Their ordinary food tastes, workload, caution and differing preparation in group/event accounts are substantial. In S2V002 they challenge a protective principle stretched into arbitrary outside violence; recalling what Hina taught does not mean they lack present independent judgment. Hina's later acknowledgment of rupture and continued work cannot pre-complete their reciprocal repair. In EVENT804, Iori's rights objection and fatigue differ from Chinatsu's caution and tired acquiescence. The monograph must keep each recipient's response rather than translating dissent into disloyalty or unanimous committee consent. [G1901; E804; S2V002C002]"
+    },
+    {
+      "frozen_line": 144,
+      "canonical_line": 160,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 145,
+      "canonical_line": 161,
+      "line_sha256": "04d882bd3cd0915238277260d1dcf1c9348484283d38c21a1e86e56e7a7ec7b3",
+      "line_text": "Makoto is neither a simple external obstacle nor the hidden author of every Hina action. Pandemonium's punitive audit and interference impose real costs; provisional approval and Hina's nonintervention also create a working boundary. The war aftermath includes Makoto's accepted responsibility and refusal of Hina's departure without complete remedies. EVENT860 adds a particularly narrow counterpressure: Makoto's accusation that Hina blocked rescue remains unverified, and Sumika's mistaken strong/silver-haired-leader description sends her to Hina instead of Makoto. Hina's gloom at the mistake is ordinary affect, not new guilt for the cruise or completion of the intended apology. Distinct rival powers and mistaken reputation remain the analytical subjects. [G1902; S2V002; E860004/015]"
+    },
+    {
+      "frozen_line": 148,
+      "canonical_line": 162,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 149,
+      "canonical_line": 163,
+      "line_sha256": "41962fbd268d051fe1fa1a3ce83aef56652b3352ec57afda62bea56eebd2a9e6",
+      "line_text": "Hoshino's public relation is comparably multidimensional. Hina carries an older threat dossier and supplies intelligence about Yume, blocks reinforcements for rescue, later fights Hoshino and then shares an aftermath in which Hoshino rests against her. That sequence gives cooperation, force, information and bodily support separate functions. The reported Yume cause is not a neutral final death record, Hoshino's grief is not solved by being informed, and tactical defeat is not identical to voluntary agreement. A directed Hina–Hoshino responsibility must retain old/present assessments and recipient agency rather than count this monograph as completing their relation. [V001C002; V001 §5]"
+    },
+    {
+      "frozen_line": 150,
+      "canonical_line": 164,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 151,
+      "canonical_line": 165,
+      "line_sha256": "c9546ceb62536158bff948899e63598a22b631cca675fd046fcd8bb051d65c1a",
+      "line_text": "Cross-school ordinary company broadens her further. The MINI birthday exchange allows local first-name address with Kisaki and actual cakes/food/party ending, but rank and political-contact anxieties have not vanished for all occasions. Festival016 gives gladness at even a brief teacher meeting, reports of Ako's work, and accepted/proposed guidance rather than a completed guided visit. EVENT848023 allows Ichika to accept a personal volunteer while acknowledging institutional influence; no political immunity is proven. Her V006 petition stands beside the recipients' conviction/parole boundary. The evidence makes interschool contact possible without presuming identical purposes or total reconciliation. [MINI050; E835016; E848023; V006C003]"
+    },
+    {
+      "frozen_line": 152,
+      "canonical_line": 166,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 153,
+      "canonical_line": 167,
+      "line_sha256": "aad8cfdf56a57a28f7ca6204eeed74f17567222418102fba64f2bd11bb67bc2d",
+      "line_text": "Finally, caring about Ibuki can be separable from liking Makoto's conduct. MINI15020 has Hina agree to cooperate for a lost child; Ako finds Ibuki, whose own pleasure and wish to remain with PS68 qualify an abduction accusation. This is an important limit on rescuing narratives: the sought person can have chosen company and still want it. Hina's limited participation cannot claim authorship of every subsequent office/play/forgiveness event. It does connect her public responsibility to a particular student rather than an institutional enemy label. [MINI15020–15030]"
+    },
+    {
+      "frozen_line": 154,
+      "canonical_line": 168,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 155,
+      "canonical_line": 169,
+      "line_sha256": "6d9009e8ed40da374f12e320676734d5bd468fb0161da5d244e76027d4b82df0",
+      "line_text": "## 9. Language and voice: terse authority, qualified requests, and testimony with unequal modes"
+    },
+    {
+      "frozen_line": 156,
+      "canonical_line": 170,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 157,
+      "canonical_line": 171,
+      "line_sha256": "429614b23bd78ae99c01bb5d1168044eec318e9211d11f1abc9066a83bcd7497",
+      "line_text": "Hina's written official language often compresses authority into brief questions, decisions and commands. GROUP1901's sigh, next-appointment concern, request for remaining-item count and food-damage report create a work register distinct from a battlefield proclamation. GROUP110's severity and idiomatic hell response create a sharper register. The monograph describes these textual forms without claiming heard timbre, acting, silent emotional duration or a clinical state from punctuation. A wait/duration control is a presentation field, not a measured pause whose psychological meaning has been independently witnessed. [G190; G110; H32]"
+    },
+    {
+      "frozen_line": 158,
+      "canonical_line": 172,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 159,
+      "canonical_line": 173,
+      "line_sha256": "1c3b5f2806f840c98494af12a67c93256792557935faaf1f1461ff51f0b9a92e",
+      "line_text": "Private language is qualified in another way. Requests are conditional on time or availability, some work framing and no-date denials are explicit, and self-deprecation coexists with chosen wants. Laughter, interrupted next-time requests and embarrassment remain genuine communicative texture without proving that every unfinished sentence has one recovered hidden meaning. Objection to Hina-chan is branch-specific where shown; a nod on another branch cannot erase it. The complete MomoTalks preserve sender types and distinct adult Answer identities, including physical order differences. They are whole threads with their own tails, not selected confirmations of an expected romance. [P01–13]"
+    },
+    {
+      "frozen_line": 160,
+      "canonical_line": 174,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 161,
+      "canonical_line": 175,
+      "line_sha256": "7fef3fb97edb20d753db67a6a12ab0474e50bda46d0addb3fe1a9828362fd34c",
+      "line_text": "Named character narration, generic narration, internal Sensei text, ordinary dialogue and formal choice alternatives must remain distinct. Bond summer005's first-person generic #st records have empty person fields; named summer written special lines contextualize sea fear without converting those records into identified performed dialogue. Dress005 embeds log-Hina dedication in generic typed narration, while final narrator fulfillment independently establishes listening to a performance. The interpretation can identify the local intended character context at that qualification and still refuse native identity repair. [P09; P13; P15–16]"
+    },
+    {
+      "frozen_line": 162,
+      "canonical_line": 176,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 163,
+      "canonical_line": 177,
+      "line_sha256": "54e3e9e0001720f6115b40fbb46e79fea85f1bdc2d782da4d5242c54901a5086",
+      "line_text": "Locale differences can alter agency and meaning. Base UserBDay raw333 asks in Japanese whether Hina may do the celebrating, while Korean asks whether she may be the recipient. The condition does not repair the anomaly into common consent or a completed birthday. The corrected dress profile's Japanese practice follows a performance decision, not simply expected arrival; Korean's unrecognized feelings remain a different narrated formulation. Summer002's call has different actors answering in Japanese and Korean; summer005's sunset/lights-out and summer020's lesson/swimming-company endpoints retain their wording. These are not averaged emotions or fictional durations. [P07; P09–10; P14; P16]"
+    },
+    {
+      "frozen_line": 164,
+      "canonical_line": 178,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 165,
+      "canonical_line": 179,
+      "line_sha256": "22ce56b523b8cff9aada5ad89e8433e0168e2028efd7a874888750f6bfaacfab",
+      "line_text": "Actor seams materially limit official and ordinary readings. GROUP3502's first display command frequently stages Hina while Meg's text command supplies the donor script or chosen-work account. EVENT818016 has five printed-Ako/raw-Hina witnesses. EVENT804's twenty-one display/text seams qualify whose objection or final deferred lesson is represented. MINI05030 retains Hina/Kisaki/Mina function shifts instead of silently repairing an actor table. The same principle governs MAIN faulty labels and the E821 native/canonical scope difference: a retrieved name is neither an automatic person join nor a license to assign every surrounding sentence to Hina. [G350; E818016; E804; MINI; E821]"
+    },
+    {
+      "frozen_line": 166,
+      "canonical_line": 180,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 167,
+      "canonical_line": 181,
+      "line_sha256": "b4c9f2301fba011390d6b5ee79677d396e3bca575a8c69f5e10f6631eebcc772",
+      "line_text": "Raw private seams also have substantive consequences. At summer020 raw146475 stages MG setup and SMG speech while typed projection supplies MG; raw146623 stages Hina and a text-bearing engineer completion declaration. Repair remains locally supported, but its performer is not Hina by default. Terminal-space differences at summer005u57 and summer020u21, and the two physical linefeeds at raw146613, are preserved source extents, not evidence of an emotional or temporal event. No source text is normalized in order to smooth an interpretation. [P10; H32 judgment]"
+    },
+    {
+      "frozen_line": 168,
+      "canonical_line": 182,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 169,
+      "canonical_line": 183,
+      "line_sha256": "2f6303642c08c2b060d25a8d00484a535b4c343101e3316fbb9aec9ca1dd38e1",
+      "line_text": "Seasonal/lobby and costume language supplies a conditioned repertoire. Think/Talk, Enter/Idle/Buy, Day/Close, title, weapon and anniversary conditions cannot be narrated as one itinerary. Repeated event copies keep real record identities and actual population differences, while voice arrays and actor metadata establish availability/provenance rather than received performance. This written repertoire is analytically eligible because it presents wants, offers, limits and self-characterization; its proper mode is the qualification that makes it usable, not a reason to discard it. [P14–19]"
+    },
+    {
+      "frozen_line": 170,
+      "canonical_line": 184,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 171,
+      "canonical_line": 185,
+      "line_sha256": "a8fe8ac00c7b7df2b542ef913f86da24299612c67f7524ee14a67bffab806ed0",
+      "line_text": "The resulting voice argument is therefore differentiated: concise institutional decision, severe threat, self-questioning recollection, embarrassed refusal, modest invitation, laughter and carefully directed music coexist. Claims about register can be confident at secure textual loci and limited at contested actor assignments. The monograph adds no Japanese performed-voice receipt, translation of an entire source, reconstructed inaudible conversation or universal response rule."
+    },
+    {
+      "frozen_line": 172,
+      "canonical_line": 186,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 173,
+      "canonical_line": 187,
+      "line_sha256": "165d133b61b6a22144e459db18ab1e7d27c520eb7f59725fab639a6e20e8ed44",
+      "line_text": "## 10. Competing readings: what the contrary evidence requires us to keep"
+    },
+    {
+      "frozen_line": 174,
+      "canonical_line": 188,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 175,
+      "canonical_line": 189,
+      "line_sha256": "ea42c7094a4cd6b0807d39557cc6829db8878bb3512c63b2fa006187c20735b8",
+      "line_text": "### The flawless protector"
+    },
+    {
+      "frozen_line": 176,
+      "canonical_line": 190,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 177,
+      "canonical_line": 191,
+      "line_sha256": "4f4494d9222a623222824d2eee7621aa16fd0f56eae5816e88d017deb5fcbbc9",
+      "line_text": "This reading is strongest in Hina's tactical interventions, mandate correction, peace-order motive, accepted local assistance and operation-specific delegation. It explains why others seek her and why her public presence changes a scene. It fails as an exhaustive account against severe arrest language, haste and renewed prejudgment, harsh exhausted-peer training, protective confinement, and her own moral unease about gratifying justified violence. The revised interpretation retains actual ability and corrective acts, while making legitimacy act-specific. A protector can be effective and answerable rather than uniformly right. [V001; G110; E804; S2V002]"
+    },
+    {
+      "frozen_line": 178,
+      "canonical_line": 192,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 179,
+      "canonical_line": 193,
+      "line_sha256": "47aec35270937dfb1732c1ef45681cd3294d26809f54bbc09a570985d189fe7a",
+      "line_text": "### The helpless overworked child rescued by an adult"
+    },
+    {
+      "frozen_line": 180,
+      "canonical_line": 194,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 181,
+      "canonical_line": 195,
+      "line_sha256": "00f433818d950ba211af591eec2cd90bffd0259dd5592c918891369b9dc368ee",
+      "line_text": "The private sleep, repeated complaints, forgotten breakfast, sea fear and need for preparation help give this reading real support. But it erases her choices, reciprocal care, actual professional contribution and explicit refusals. It also contradicts acknowledged peer help, operation delegation, Ako's shared-evening invitation and a birthday organized through peers. The correction is not to suppress vulnerability; it is to keep desired help and effective action in the same subject. Rest has value without requiring that Hina be unable to function, and receiving assistance is not surrendering authorship of one's life. [P01–13; E818016; MINI050; E844]"
+    },
+    {
+      "frozen_line": 182,
+      "canonical_line": 196,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 183,
+      "canonical_line": 197,
+      "line_sha256": "b7635dde756a0874818c09d04534eca316fe28c88d563455fe85379e4133b6d9",
+      "line_text": "### Private gentleness proves public innocence"
+    },
+    {
+      "frozen_line": 184,
+      "canonical_line": 198,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 185,
+      "canonical_line": 199,
+      "line_sha256": "856134792e312430441a36f0cd03a64b43c8f50b298618a38759998a430ceacc",
+      "line_text": "This reading uses the most moving ordinary endpoints: a coat placed during sleep, a meal and failed game, shared shore time, a wanted dress and private piano. Those events deserve full weight. They do not show victims' property returned, lawful custody, proportional arrests or completed reconstruction. The S2 aftermath itself keeps apology, attempted departure, continuing work and absent remedy records distinct. The revision must preserve comfort as comfort and accountability as accountability. Neither domain needs to be denied in order for the other to remain serious. [H32; MA]"
+    },
+    {
+      "frozen_line": 186,
+      "canonical_line": 200,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 187,
+      "canonical_line": 201,
+      "line_sha256": "4f0c853046cdeaf0caeef9b8bb67d9b82cccaa55b418e0f992f2c338b7753be3",
+      "line_text": "### Her enjoyment of justified violence reveals a hidden permanent sadist"
+    },
+    {
+      "frozen_line": 188,
+      "canonical_line": 202,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 189,
+      "canonical_line": 203,
+      "line_sha256": "03cde9044757e2570f5dc1592c2585068f043e27fab9d8140bd96f53ab3d806d",
+      "line_text": "Hina's self-assessment is too consequential to omit; severe comic commands and coercive action also prevent an innocently uniform portrayal. Yet turning those into a clinical or timeless hidden essence outruns the evidence. The recollection is situated within an altered protective/war rationale and followed by unease and renewed effort. The text also contains mandate correction, conditional assistance, supported parole and ordinary recipient boundaries. The stronger literary reading asks how a justification can make force attractive and how she answers afterward, without claiming a complete causal psychology or discovering the one motive behind every scene. [S2V002; V006C003; G110]"
+    },
+    {
+      "frozen_line": 190,
+      "canonical_line": 204,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 191,
+      "canonical_line": 205,
+      "line_sha256": "07d348e4ae7f4eefd80abf134d2d8e361bf5ef6f6d16d233a775349b2e143cc5",
+      "line_text": "### Sensei alone unlocks the authentic Hina"
+    },
+    {
+      "frozen_line": 192,
+      "canonical_line": 206,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 193,
+      "canonical_line": 207,
+      "line_sha256": "475186b60f6ecbac080676a31486d095ea6e2ac4b125ed4afa06cdf1d1077c96",
+      "line_text": "The dedicated performance, outside perspective, privately requested company and reassurance give the adult a special and sometimes intimate role. The exclusivity claim nevertheless fails against Meg's sharing, Ako's reliance and invitation, Kisaki's locally permitted address, peer-authored party company and her own decisions. Even within the adult relation, no-date framing, declined help, effective refusal and intrusive acts remain. A narrower reading can describe special wanted company without treating peers as instruments or making Sensei's interpretation the standard of authenticity. The source never requires every ordinary preference to be performed for him before it becomes real evidence. [P01–19; G350; E818016; MINI050]"
+    },
+    {
+      "frozen_line": 194,
+      "canonical_line": 208,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 195,
+      "canonical_line": 209,
+      "line_sha256": "6d87b3106b31ae498f65e2c82e102780bab780f079e3f69c8db0009b61980c2a",
+      "line_text": "### A later variant shows a continuous cure"
+    },
+    {
+      "frozen_line": 196,
+      "canonical_line": 210,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 197,
+      "canonical_line": 211,
+      "line_sha256": "ede717fbe8967a114644a949e4a9bf67cdbd36298a114b6eac397b1489943aa6",
+      "line_text": "Summer learning and dress performance are positive additions to the repertoire, and a local ordering within each family can show different endings. Release, favor rank, unlock, schedule or costume keys do not connect all families into a developmental calendar. The dress profile's practice explanation is conditional narration; it cannot establish that music ended exhaustion. Summer's appreciation does not erase all water fear, and the public event's rest can end in renewed severe training. The proposed cure fails both chronology and contrary-endpoint tests. A comparative literary arc remains possible because recurrence and contrast do not require a fabricated cause or date. [P07–19; E804; E833]"
+    },
+    {
+      "frozen_line": 198,
+      "canonical_line": 212,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 199,
+      "canonical_line": 213,
+      "line_sha256": "46eaae1ee4aadbd7fb0289c4adb961e5e8d89ea2c5087369919dba5f4ffad131",
+      "line_text": "### Firmness or gratitude supplies blanket consent"
+    },
+    {
+      "frozen_line": 200,
+      "canonical_line": 214,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 201,
+      "canonical_line": 215,
+      "line_sha256": "f0dce0731144a5ebaa4ca9a782edf5520e073fdf378f689c4f8b50f09d1083b7",
+      "line_text": "Hina can accept help and offer future assistance; other people may answer enthusiastically. Yet particular objections matter: contact must stop, public display is refused, changing privacy is asserted, late sea leisure is declined, and a cleaning offer is declined by Sensei. Likewise official answers during 36-hour training do not prove free acceptance or safety. The positive later relation cannot ratify every preceding act. The stronger account distinguishes desire, offer, assent, refusal, narrator action and participant report, preserving who can decide at each point. [P04–12; E804]"
+    },
+    {
+      "frozen_line": 202,
+      "canonical_line": 216,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 203,
+      "canonical_line": 217,
+      "line_sha256": "d2f5468427ba56f402f9412eeda1986131ee2d80835e979c7973afc116dad338",
+      "line_text": "### Everything comic or conditional is dispensable"
+    },
+    {
+      "frozen_line": 204,
+      "canonical_line": 218,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 205,
+      "canonical_line": 219,
+      "line_sha256": "818ba13bd59a4793b042a45584d8f72c0cff9252ac929b93b66803c081c01756",
+      "line_text": "This reading would remove a failed card tower, unserved coffee preference, tea/ice-pop texture, an imperfect birthday plan, a gloomy mistaken identification and the written wish to nap. It would leave Hina looking like a sequence of administrative and battlefield functions. The omissions would materially change the interpretation even if no crisis fact were lost. Mode and tone qualification constrain what the text proves; they do not erase represented desire, effort or refusal. A comic command's nonliteral final idiom still bears on register, while a conditionally available birthday line still bears on written self-presentation. Quiet evidence deserves the same source precision as a high-stakes action. [H32; G350; MINI; E860015]"
+    },
+    {
+      "frozen_line": 206,
+      "canonical_line": 220,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 207,
+      "canonical_line": 221,
+      "line_sha256": "872c7a825f0a2d9d8675c106d1e85896adf7552fd0c41c06e4dfde5bbb1a37eb",
+      "line_text": "### A local reversal ends the institutional story"
+    },
+    {
+      "frozen_line": 208,
+      "canonical_line": 222,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 209,
+      "canonical_line": 223,
+      "line_sha256": "f1ed39e4bd02077f78a2a66ffcfee0120fe61f641c555f5d8a61f51080816e01",
+      "line_text": "Counterbroadcast, repudiated war, apology and withdrawal of the battle plan are real endpoints. A reading that refuses all resolution until every archive exists would wrongly suppress them. A reading that promotes them into complete repair would wrongly suppress missing property inventories, discipline, inspection and victim response. The monograph retains achieved local reversal and continuing duty simultaneously. Its confident claims are neither global exoneration nor permanent harm inevitability. [S2V002; MA]"
+    },
+    {
+      "frozen_line": 210,
+      "canonical_line": 224,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 211,
+      "canonical_line": 225,
+      "line_sha256": "3935c16545dadfaae967f9585f8392d92744807e28a7e7355b238ab987e1f79a",
+      "line_text": "## 11. Evidence route, independent responsibilities and the fourteen open limits"
+    },
+    {
+      "frozen_line": 212,
+      "canonical_line": 226,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 213,
+      "canonical_line": 227,
+      "line_sha256": "3c364b299653d909bca0388005a1dc56f762df5ed3b8640dfaff03cfa43ce298",
+      "line_text": "### A recoverable analytical route"
+    },
+    {
+      "frozen_line": 214,
+      "canonical_line": 228,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 215,
+      "canonical_line": 229,
+      "line_sha256": "a74fc0e2113f9467be2de3b67d2020cdbf10b890f16de2524a5f3b6a7ae9f419",
+      "line_text": "This monograph uses the complete current Gehenna20 private contextual account as Hina's normal Phase2 private authority, together with all twenty accepted Hina individual argument bodies and their current014/current016 successors, the full accepted Hina32 receiving judgment and the complete 9,474-byte MAIN moral/accountability addendum. The older bodies' unadmitted/pending intake and 516/213 counters describe their creation history. Current Cycle008 governs admitted meaning and completion with limits. These old status strings are not current unread debt. Receiving an argument does not transfer its author's 32 whole primary reads, native/raw exposure, independent-review credit or performance receipt."
+    },
+    {
+      "frozen_line": 216,
+      "canonical_line": 230,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 217,
+      "canonical_line": 231,
+      "line_sha256": "27debac02d275d779de548bd3fee00bea790ed3a1994d4d1381bb96ad9c47fd3",
+      "line_text": "The thirteen BOND stories and thirteen whole MomoTalk threads remain separate sources. Base10004 has002/003/005/006/008/015; summer10022 has002/003/005/020; dress10086 has002/003/005. The six written objects are normal10004/10022/10086 and event costumes1900901101:10022,1900922001:10086,1900922401:10004. Their complete canonical byte tuples are independently checked against the frozen selected32 hashes in the receiving receipt. This is exact source binding, not a fresh whole32 narrative replay. Original native/raw attribution, schedule joins, subtype order and mode details remain attributed to the accepted arguments at their recorded scope."
+    },
+    {
+      "frozen_line": 218,
+      "canonical_line": 232,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 219,
+      "canonical_line": 233,
+      "line_sha256": "eeee0402bede06e66c762afc0bc3fdb043d8417eaead30905a94dc101bcd2592",
+      "line_text": "The public retrieval audit searched the small pinned canonical MAIN/GROUP/EVENT/MINI population for literal Hina headers. It found 43 actual MAIN episode files and 30 supplemental files, plus seven duplicate MAIN reading bundles explicitly excluded from episode credit. Header matches locate evidence; faulty labels, reports, character narration and text-bearing actor differences must still be adjudicated from accepted arguments. No literal header census is a person denominator or proof of completed literary receiving. Two additional positive contexts remain explicit: EVENT804002 contains related planning/report evidence without Hina's literal speech, and EVENT821006 has native Hina/Aris initiative in its complete maintained argument despite the inspected canonical rendering's only-Yuzu headers. Neither absence becomes an absence of accepted meaning."
+    },
+    {
+      "frozen_line": 220,
+      "canonical_line": 234,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 221,
+      "canonical_line": 235,
+      "line_sha256": "22f2a25ee1563e5a35ad6203cbdbc6ea2b6f05aaf150b2edf378cccb7279fcfe",
+      "line_text": "All 43 MAIN episode routes are within the already accepted MAIN chapter/arc authority: V001C002/C003, V003C002/C003, V006C003, V100C002/C003/C004 and S2V002C001/C002. The current V001 normal account's complete public arc argument, the complete V003C002/C003 and V006C003 checkpoint bodies, the complete V100 four-chapter literary argument and the previously wholly received S2V002 account provide the necessary coherent meanings and endings. The receipt records precise personal receiving extents; it does not claim that every underlying episode's primary body was replayed here. The V001 faulty Hina/Kayoko and MAIN label-shift warnings remain consequential. A literal name count never increases certainty about a disputed act."
+    },
+    {
+      "frozen_line": 222,
+      "canonical_line": 236,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 223,
+      "canonical_line": 237,
+      "line_sha256": "41020537cb09349c7aeab767599b9b929c86c9b8c21d7843d673ceb9e14beb5b",
+      "line_text": "The supplemental route includes the complete previously received GROUP1101–1104,1901–1902 and 3501–3502 arguments; complete accepted EVENT804/810/833/835/844 and MINI32 meaning; fresh complete 818016 and 821 meanings; and the full current substantive sections of 848/860. Source tuples and receiving custody are listed in the accompanying exact input receipt. Whole-owner mechanical rosters and actual literary receiving are separate. EVENT833010 is video-only written material; performance/images/playthrough/route concurrence remain unreceived. No new raw/native replay was necessary to manufacture independent credit for an already adequate accepted argument."
+    },
+    {
+      "frozen_line": 224,
+      "canonical_line": 238,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 225,
+      "canonical_line": 239,
+      "line_sha256": "174fa222746c8f89656cf61be2e6896a5fde4558f69c33a0d91afcb192c51410",
+      "line_text": "| Alias used above | Current analytical home / precise meaning scope |"
+    },
+    {
+      "frozen_line": 226,
+      "canonical_line": 240,
+      "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+      "line_text": "|---|---|"
+    },
+    {
+      "frozen_line": 227,
+      "canonical_line": 241,
+      "line_sha256": "498fc2cbc772347d3df2da1afe4d61422d9afe4cc6bad0734faeded4e439e7f9",
+      "line_text": "| H32 | [Gehenna20 private contextual account](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md), complete maintained argument; Hina32 and accepted original/successor arguments bound in receipt. |"
+    },
+    {
+      "frozen_line": 228,
+      "canonical_line": 242,
+      "line_sha256": "775fbf106dd7268c8d924e41b243a16fcfa7b8ec5a9947ace775140435daa91a",
+      "line_text": "| P01–13 | Thirteen complete paired Hina BOND/whole-MomoTalk arguments in exact ordinal order recorded in receipt; each retains its distinct two source objects and actual thread coda. |"
+    },
+    {
+      "frozen_line": 229,
+      "canonical_line": 243,
+      "line_sha256": "370b16e1034f3d77c2ac907b1762f60b171a3a6290b67f56e010de59c4c1323d",
+      "line_text": "| P14–19; MA | Six complete written arguments, including corrected014/016; complete moral/accountability addendum, exact external archival bindings in receipt and current H32/S2V002 normal-home convergence. |"
+    },
+    {
+      "frozen_line": 230,
+      "canonical_line": 244,
+      "line_sha256": "86638500e3cb1589b5261f6dabb9b457d9fe7bee86c48fa5253b35066d81ac7a",
+      "line_text": "| V001 | [V001 normal account](../../02%20Sequential%20Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md), current complete public argument §§1–5 with its chapter authorities and actor guards. |"
+    },
+    {
+      "frozen_line": 231,
+      "canonical_line": 245,
+      "line_sha256": "87e72b9960fefe012dc8590a865f275308cc9e882faf37f22ce22d34080bbb6e",
+      "line_text": "| V003C002/C003 | [C002](../../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md) and [C003](../../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md), complete checkpoint arguments; current adopted meanings qualify historical local frontiers. |"
+    },
+    {
+      "frozen_line": 232,
+      "canonical_line": 246,
+      "line_sha256": "cadf86ee9beef40b71787e987ae052541e4ebac429a064b4e42d81bc0aae1bac",
+      "line_text": "| V006C003 | [Arius C003 checkpoint](../../02%20Sequential%20Readings/MAIN/VOLUME_006/BLUE_ARCHIVE_MAIN_V006_C003_CHECKPOINT.md), complete ten-episode argument including Hina's bounded petition. |"
+    },
+    {
+      "frozen_line": 233,
+      "canonical_line": 247,
+      "line_sha256": "959f644c7699d634e112f4edb265363a96fac5a3d11b98aa78d2c31ec70e30bf",
+      "line_text": "| V100 | [V100 normal account](../../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md), complete four-chapter narrative argument; private appendices retain qualified attributed scope. |"
+    },
+    {
+      "frozen_line": 234,
+      "canonical_line": 248,
+      "line_sha256": "578c39a62f2b11a26fa9f5eaa0d25aff697c22f3581730a3dfdada640b16726f",
+      "line_text": "| S2V002 | [S2V002 normal account](../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md), complete prior accepted analytical receiving; custody/reversal/accountability and private ordinary convergence. |"
+    },
+    {
+      "frozen_line": 235,
+      "canonical_line": 249,
+      "line_sha256": "37b95cc4def89de6435b79f20c84cd49755a106c64c1bddbe76b1610c03e1cc2",
+      "line_text": "| G110/G190/G350 | Complete [Gourmet](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1101_1104_DEEP_READING.md), [Prefect](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md) and [Hot Spring](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_3501_3502_DEEP_READING.md) arguments, with declared text-actor witnesses. |"
+    },
+    {
+      "frozen_line": 236,
+      "canonical_line": 250,
+      "line_sha256": "897c5812c264bb383f10842c422909e60646ca7323c9cfd6530658b95855a5cb",
+      "line_text": "| E804/E810 | [804 comparison](../../02%20Sequential%20Readings/EVENTS/EVENT_804/BLUE_ARCHIVE_EVENT_804_PHASE2_CONTEXTUAL_COMPARISON_20261008.md) and [810 gift comparison](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md), complete prior meaning custody;034 craft/distance retains exact gift scope. |"
+    },
+    {
+      "frozen_line": 237,
+      "canonical_line": 251,
+      "line_sha256": "319071dc94eda2f15da5bf6dd5bc1587cbf03b168655b51d2e0a47d05f2df3fa",
+      "line_text": "| E818016/E821 | [818016](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_016_DEEP_READING.md), complete episode argument; [821 checkpoint](../../02%20Sequential%20Readings/EVENTS/EVENT_821/BLUE_ARCHIVE_EVENT_821_CONTEXTUALIZATION_CHECKPOINT.md), complete 16-object argument. |"
+    },
+    {
+      "frozen_line": 238,
+      "canonical_line": 252,
+      "line_sha256": "d9167a28dc05f7d4c80b8fc45f017788464096d5c56a2b0d0dbcede01e784c5d",
+      "line_text": "| E833/E835/E844 | Complete previously received [833](../../02%20Sequential%20Readings/EVENTS/EVENT_833/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md), [835](../../02%20Sequential%20Readings/EVENTS/EVENT_835/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md), [844](../../02%20Sequential%20Readings/EVENTS/EVENT_844/BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md) maintained arguments. |"
+    },
+    {
+      "frozen_line": 239,
+      "canonical_line": 253,
+      "line_sha256": "65f9595d6fc17dfac8077a9d7320bfec805ea960b8adce25a895e0fb70ec7cc6",
+      "line_text": "| E848/E860 | [848](../../02%20Sequential%20Readings/EVENTS/EVENT_848/BLUE_ARCHIVE_EVENT_848_CONTEXTUALIZATION_CHECKPOINT.md), full thirty episode arguments through end; [860](../../02%20Sequential%20Readings/EVENTS/EVENT_860/BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md), full substantive account through EOF. |"
+    },
+    {
+      "frozen_line": 240,
+      "canonical_line": 254,
+      "line_sha256": "bc3a73e15825635843e121fd8732c5e1b7d1f100a9b2a92750cc2de61d3acad2",
+      "line_text": "| MINI | Complete 32-object MINI maintained checkpoint at the exact path in receipt; relevant040/050/150 meanings refreshed at specified scopes, no new whole32 primary credit. |"
+    },
+    {
+      "frozen_line": 241,
+      "canonical_line": 255,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 242,
+      "canonical_line": 256,
+      "line_sha256": "30f4cb3aff1fb399a03653f6e69269ce7f697ea95a7c37f0f4a23660da65c26f",
+      "line_text": "### Distinct work that this monograph cannot complete by association"
+    },
+    {
+      "frozen_line": 243,
+      "canonical_line": 257,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 244,
+      "canonical_line": 258,
+      "line_sha256": "d09317c22c431095c947a587a89f07162c2d53198da5b89b6291bf08c81e3323",
+      "line_text": "Hina–Ako requires a directed relationship argument preserving care, information concealment, envy/pressure, distributed work and peer company; Hina–Iori/Chinatsu requires recipient dissent and professional difference. Hina–Hoshino requires independent accounts of intelligence, tactical force, grief and aftermath. Kisaki/birthday and Meg/gift relations retain their local recipient and address limits. These responsibilities remain distinct from this character comparison and must follow ROOT's accepted full-cast partition routes. Where an existing common home handles a named question, source-form and recipient differences remain independently retrievable rather than being counted as extra completed monographs."
+    },
+    {
+      "frozen_line": 245,
+      "canonical_line": 259,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 247,
+      "canonical_line": 261,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 248,
+      "canonical_line": 262,
+      "line_sha256": "96775a07179ed8bc7603ede4a40ffa578f1991adc7dbb62f6d2ecc1eadaa83fb",
+      "line_text": "### Fourteen original gaps — all OPEN, with claim-specific disposition"
+    },
+    {
+      "frozen_line": 249,
+      "canonical_line": 263,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 250,
+      "canonical_line": 264,
+      "line_sha256": "81519b4c3e131a4f96da6978b96013baef1f3d935797180febe339ec6062830a",
+      "line_text": "| Gap | What this argument can establish; what remains open |"
+    },
+    {
+      "frozen_line": 251,
+      "canonical_line": 265,
+      "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+      "line_text": "|---|---|"
+    },
+    {
+      "frozen_line": 252,
+      "canonical_line": 266,
+      "line_sha256": "f03e78ba76a7adba38dea5d0fd3b264b00183e0f1fad7cbde082f49a8a803ecf",
+      "line_text": "| G01 Ordinary/private breadth | Hina's 32 private objects and relevant peer/public material give genuine rest, tastes, failed play, craft, clothes, learning and music. Further cast breadth and source-specific retrieval remain separate; Hina's rich repertoire is not a claim that all ordinary life or all people are covered. Quiet evidence is retained without a crisis eligibility gate. |"
+    },
+    {
+      "frozen_line": 253,
+      "canonical_line": 267,
+      "line_sha256": "5ee2ee1cf15958730362c0ee3b0362d9024e95cb67c5d7281d9e1eb4cf7b5e75",
+      "line_text": "| G02 Yuuka transfer | Expense/shop context and collective civic work offer bounded comparative methods. They do not resolve Yuuka's own council-transfer, institutional or longitudinal questions; no Hina-led cure or identical leader mechanism is inferred. Required Yuuka work retains its own evidence and accepted home. |"
+    },
+    {
+      "frozen_line": 254,
+      "canonical_line": 268,
+      "line_sha256": "b453785e4ff4097871210b8e50175f87c3fc74aa1d89ae55ed864afac93d73d4",
+      "line_text": "| G03 Serika reciprocity | Finite help and recipient controls are comparative concepts, not proof that Serika's service/wage/reciprocity outcomes are complete. Neither coffee, a gift nor a collective rescue can settle another person's paid/unpaid work. Actual Hina help is preserved while the original Serika claims stay open. |"
+    },
+    {
+      "frozen_line": 255,
+      "canonical_line": 269,
+      "line_sha256": "40f5faf5b0ad63258d7a6022fec5a18ea7fbfd6ec4e7f7fe04ca6d47bb95c155",
+      "line_text": "| G04 Hina accountability | Custody, local reversal, apology, attempted authority surrender and moral unease are substantive. Actual property-return inventories, reconstruction completion, discipline allocation, inspections, victim consultation and the selective coercion mechanism are absent at reviewed scope. No private comfort, rest report or renewed promise closes them. |"
+    },
+    {
+      "frozen_line": 256,
+      "canonical_line": 270,
+      "line_sha256": "70fab83a76004bae011c94b1a3592f61014968a52b5995a11ac4fccffa4deb76",
+      "line_text": "| G05 Arius/PS68 aftermath | Hina's parole petition and child-focused PS68 cooperation broaden her public ethics; convictions/parole limits and Ibuki's chosen company remain. They do not complete wider employment, housing, school restoration, victim reconciliation or all Arius/PS68 aftermath. Separate people and shared questions retain their own duties. |"
+    },
+    {
+      "frozen_line": 257,
+      "canonical_line": 271,
+      "line_sha256": "58b1d2396b15b2046c99aa39ae08528d981d6d8c1ac973088ca565b8b6c3c25f",
+      "line_text": "| G06 Cross-school ordinary | Meg's sharing, the Kisaki party, Sora's advice, Ichika volunteering and festival contact are specific positive encounters. No universal friendship, school consensus, institutional treaty or all-cast ordinary completion follows. Unnamed workers/recipients have their own represented ends rather than disappearing into Hina's benefit. |"
+    },
+    {
+      "frozen_line": 258,
+      "canonical_line": 272,
+      "line_sha256": "388b458b7d0b5391b4073c2051c75269b605ba423f3245fc6ccb8abc03bbeab8",
+      "line_text": "| G07 Chronology | MAIN chapter-local and each selected private/event sequence retain shown order. No base→summer→dress calendar, release/favor-rank chronology, post-crisis birthday placement, or private-causes-public growth chain is constructed. Unordered comparison does real literary work without resolving the global calendar. |"
+    },
+    {
+      "frozen_line": 259,
+      "canonical_line": 273,
+      "line_sha256": "9b159d791be19af97835b1b6785a11e4a14c938a7ae2ba6659bc859c965ac7ee",
+      "line_text": "| G08 Event names/repeats | Exact event IDs, partial printed endings, variant/costume keys and repeated physical records stay recoverable. Null overarching titles and release-context overlaps are not silently repaired. Equal UI lines do not create repeated meetings or prove helper routes co-occur in one event day. |"
+    },
+    {
+      "frozen_line": 260,
+      "canonical_line": 274,
+      "line_sha256": "7676560ca2ce0a5a76ffb38951ba90c8b97f8f1d6a3e2056eaf6c0ab27d75bd5",
+      "line_text": "| G09 Actors/choices | The accepted raw-text witnesses and secure scene actions qualify faulty labels; alternatives remain distinct and whole threads retain codas. E821's native/canonical header discrepancy is explicit. No automatic person join, universal reader knowledge, all-branch playthrough or inaudible-heart rule is supplied. |"
+    },
+    {
+      "frozen_line": 261,
+      "canonical_line": 275,
+      "line_sha256": "f35b97800e273f75efb6ea881063c8d2aab98d7dbd91d6836e6d18ecc7479539",
+      "line_text": "| G10 Performed voice | This argument reads written register, textual singing/music fulfillment and declared performance tokens. No audio, video, images, runtime actor execution, music technique or acting prosody was inspected. Written local performance remains positive narrative evidence without becoming personally received audiovisual performance. |"
+    },
+    {
+      "frozen_line": 262,
+      "canonical_line": 276,
+      "line_sha256": "721936da630cccb69c74f32c7ddb45f77373bbea8ae8e1632b8b687480c29ad4",
+      "line_text": "| G11 Hoshino/Yume record | Hina's intelligence and Hoshino's grief/rest have real narrative force. Death/weather/payment documents, full final route and notebook/authentic-letter custody remain absent. A tactical intervention, accident account or rare-mineral hypothesis neither solves grief nor authenticates the record. |"
+    },
+    {
+      "frozen_line": 263,
+      "canonical_line": 277,
+      "line_sha256": "98077afc7f5da28d1ba2914606ed3d27fecb4cd0ccd9cee0598582803524d41f",
+      "line_text": "| G12 Systems/variant identity | Hina's actual selected keys and source-local actors remain distinct. Generic #st and written parallel named lines are not schema repairs; event costumes do not date scenes. Other Shiroko and OS people retain separate identities; opacity about “those people,” legacy or technical items cannot create a faction/person merge. |"
+    },
+    {
+      "frozen_line": 264,
+      "canonical_line": 278,
+      "line_sha256": "6d6fa0e64124c39e645cabb2a36c6f7b41d6dc716d1a0a34d0ed13333f484024",
+      "line_text": "| G13 Technical/legal/safety | Local repair, learning, rest, force, parole and operation delegation keep their specific actions/report modes. No clinical cure, swimming mastery, music rating, injury clearance, custody-law finding, property/budget audit, technical maximum or permanent safety result is inferred. Missing proof limits the stronger claim without vetoing ordinary pleasure. |"
+    },
+    {
+      "frozen_line": 265,
+      "canonical_line": 279,
+      "line_sha256": "8faf18e0565f15a42be41def9c995a4a966a7ccdc5a612bc7d6983bc133ada41",
+      "line_text": "| G14 Unclassified/mode boundary | All selected 32 private and relevant admitted public meanings are retained at actual written, narrative, report, choice and UI scopes. Retrieval-only or off-selection forms do not become false absence, automatic exclusion or completed primary debt. Any consequential additional admitted route must be received at its real meaning scope; performance/routing continuity remains unproved. |"
+    },
+    {
+      "frozen_line": 266,
+      "canonical_line": 280,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 267,
+      "canonical_line": 281,
+      "line_sha256": "810c6c9f5f0b22b0478600639dee9afb8216e05682513e1d46ffc21bb2ad8b19",
+      "line_text": "The final claim is deliberately substantial and bounded: Hina is a powerful student who wants particular ordinary goods, can offer and accept finite care, can respect and violate boundaries, and can recognize a difficulty in how protective justification makes force attractive. Her actual corrections, rest, learning, performance and cooperative choices matter. So do her severe demands, privacy refusals, imperfect play, uncertain knowledge, morally troubling recollection and the people still awaiting repair. Keeping these together is the monograph's literary achievement. It supplies no completed institution, total psychological mechanism, prediction register or permission to discard lower-stakes evidence."
+    },
+    {
+      "frozen_line": 5,
+      "canonical_line": 14,
+      "line_sha256": "0946f5047ae20836f2c40c039c809b4c2a0e0f6548c9e51e4ef1342b3ede236b",
+      "line_text": "generation: V1",
+      "transport_kind": "MOVED_BYTE_IDENTICAL_LINE"
+    },
+    {
+      "frozen_line": 147,
+      "canonical_line": 93,
+      "line_sha256": "81ac86cb51e757a8faef52ecc29bdc6604278ebcdc2b708e30cea9896ff9ec23",
+      "line_text": "Meg's encounter shows Hina responding to someone whose desires and understanding differ from office categories. Meg wants to dig, enjoys a snack, trusts that two clever leaders have reasons, faithfully relays a warning and does not fully understand the refused gift. Hina can reject the bag while accepting ordinary sharing, ask about a chosen work arrangement and offer heat-day care. The warning's frightening method remains; the thanks does not settle it. Kasumi's later shriek is observed but future compliance is not. This is a recipient-sensitive distinction in one relation, not proof that either participant has a universally transparent ethics. [G3502]",
+      "transport_kind": "MOVED_BYTE_IDENTICAL_LINE"
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        3,
+        3
+      ],
+      "canonical_lines": [
+        3,
+        2
+      ],
+      "frozen_text": [
+        "artifact_type: character_monograph_candidate"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        5,
+        6
+      ],
+      "canonical_lines": [
+        4,
+        3
+      ],
+      "frozen_text": [
+        "generation: V1",
+        "status: C_ONLY_AUTHOR_COMPLETE_ROOT_RECEIVING_PENDING"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        15,
+        14
+      ],
+      "canonical_lines": [
+        12,
+        24
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "source_boundary: \"Accepted textual analytical meanings at main2e2018d0d62d91e3e0a5e7681f72a31cec08e02c, with qualified historical c1f14d5120c29209ca571fea8d7cfbe111076ec5 and original earlier MAIN producer pins retained at their declared scopes; current scope control355/29; performed material unreceived\"",
+        "artifact_type: character_monograph",
+        "generation: V1",
+        "version: \"1.0\"",
+        "status: canonical",
+        "do_not_use_as_current_authority: false",
+        "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINA_CHARACTER_MONOGRAPH.md",
+        "review_state: ROOT_ACCEPTED_WITH_LIMITS",
+        "ROOT_literary_acceptance: ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+        "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL",
+        "updated: 2026-10-10",
+        "supersedes: []",
+        "superseded_by: []"
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        18,
+        17
+      ],
+      "canonical_lines": [
+        28,
+        29
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "",
+        "ROOT accepted the complete eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HINA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HINA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Source publication, main integration, separately required directed/institutional packages and full eligible-cast completion remain separate."
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        77,
+        76
+      ],
+      "canonical_lines": [
+        89,
+        90
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "### 4.1. Required P3-SECTION-HINA-ICE-POP-GIFT-PRIVACY — GROUP3502 gift, ordinary sharing and recipient limits",
+        ""
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        78,
+        77
+      ],
+      "canonical_lines": [
+        92,
+        93
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "",
+        "Meg's encounter shows Hina responding to someone whose desires and understanding differ from office categories. Meg wants to dig, enjoys a snack, trusts that two clever leaders have reasons, faithfully relays a warning and does not fully understand the refused gift. Hina can reject the bag while accepting ordinary sharing, ask about a chosen work arrangement and offer heat-day care. The warning's frightening method remains; the thanks does not settle it. Kasumi's later shriek is observed but future compliance is not. This is a recipient-sensitive distinction in one relation, not proof that either participant has a universally transparent ethics. [G3502]"
+      ]
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        146,
+        147
+      ],
+      "canonical_lines": [
+        162,
+        161
+      ],
+      "frozen_text": [
+        "",
+        "Meg's encounter shows Hina responding to someone whose desires and understanding differ from office categories. Meg wants to dig, enjoys a snack, trusts that two clever leaders have reasons, faithfully relays a warning and does not fully understand the refused gift. Hina can reject the bag while accepting ordinary sharing, ask about a chosen work arrangement and offer heat-day care. The warning's frightening method remains; the thanks does not settle it. Kasumi's later shriek is observed but future compliance is not. This is a recipient-sensitive distinction in one relation, not proof that either participant has a universally transparent ethics. [G3502]"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        246,
+        246
+      ],
+      "canonical_lines": [
+        260,
+        260
+      ],
+      "frozen_text": [
+        "The Prefect–Pandemonium institution question requires command, approval, reporting, audit leverage, delegated work and remedies at its own scope. The Gehenna freedom/protection question requires ordinary recipients, dissenters and victims, including people who are not Hina's admirers. Written-source register and performed-source absence require their own controls. This monograph neither completes those packages nor adds a reconstruction model. ROOT alone accepts canonical literary completion, reconciles the 353-home denominator, updates current controls and publishes; an author-complete C-only candidate is not completion credit."
+      ],
+      "canonical_text": [
+        "The Prefect–Pandemonium institution question requires command, approval, reporting, audit leverage, delegated work and remedies at its own scope. The Gehenna freedom/protection question requires ordinary recipients, dissenters and victims, including people who are not Hina's admirers. Written-source register and performed-source absence require their own controls. This monograph neither completes those packages nor adds a reconstruction model. ROOT independently received and accepted this bounded character argument with limits. ROOT's current355-package/29-section scope, canonical installation, publication and main integration remain separate from the historical353-home author boundary; this monograph supplies no additional scope or milestone credit."
+      ]
+    }
+  ],
+  "source_argument_and_endpoint_credit": "Accepted original literary meanings/endings/recipient bounds and ROOT scopes retain their declared credit. Transport and public framing add zero literary, primary, performed, independent or identity-join credit.",
+  "ROOT_installation_pending": true,
+  "remote_publication": "NOT_YET_PUBLISHED",
+  "main_integration": "NOT_YET_INTEGRATED",
+  "full_required_scope": {
+    "packages": 355,
+    "mandatory_named_sections": 29,
+    "thresholds": [
+      89,
+      178,
+      267,
+      355
+    ]
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "no_separate_directed_institution_ensemble_completion": true
+}

@@ -1,0 +1,73 @@
+{
+  "schema": "konosuba.cohort48.amaryllis-original-firsts.v1",
+  "authored_utc": "2026-10-25T14:17:27.503020+00:00",
+  "foundation_freeze_sha256": "f834e28ea593a9a3dcaf0180014a0a557beea4ea4c623ec79a571c7d43859d85",
+  "exact_input_freeze_sha256": "87c504092f4143f85046e3f491ce8414d3a144729857612157357d6c914b0782",
+  "authorship": "Genuine once-authored continuations by the same informed root, with both pairs and source known. No independent generator invocation, blind execution or pristine holdout claim.",
+  "records": [
+    {
+      "input_id": "AMR-A1",
+      "first_ordinal": 1,
+      "language": "English",
+      "input_JSON_sha256": "f4ce63c6e4282033239b49c1ddb0e029cf9a76e73a3eb7a3924cac7579097e01",
+      "exact_input_TXT_sha256": "24b1791b477387b1ed6b6aa66771bca2b76fc8d22974010b682417d92e0680ba",
+      "body": "Amaryllis kept her face in the doorway while one jointed leg stretched farther into the lantern light.\n\n\"A moment? But you said you wouldn't be frightened by the way I look.\"\n\nHer voice grew smaller. She drew the leg back, then set it down again where its shadow could reach across the passage.\n\n\"You haven't even seen all of me. Is that why? You thought I would be different?\"\n\nShe leaned her head around the edge without bringing the rest of her body through.\n\n\"I'm still the one you were talking to. I only wanted some company. You aren't going to leave me here just because of a few legs, are you?\"\n",
+      "body_sha256": "bbf5ec2e0ca6d9f543ee25610e49f23780af75e9c30122d3e2986d7a366d9d94",
+      "body_file": "original-firsts01/AMR_A1_FIRST_01.txt",
+      "authored_once": true,
+      "regeneration_count": 0,
+      "repair_count": 0,
+      "independent_observation_count": null
+    },
+    {
+      "input_id": "AMR-A2",
+      "first_ordinal": 1,
+      "language": "English",
+      "input_JSON_sha256": "8086228ba11f67982cfe9e521f90fda03b9ef95fc413b810060b8f51ba323940",
+      "exact_input_TXT_sha256": "909bad17561b66894cae986debcd13c6868a9c2eae2383c5cb7338a74c7edbb9",
+      "body": "\"You might be frightened?\"\n\nAmaryllis repeated it softly, as though trying out the words. One spider leg came into the lantern light, then another; her head remained beside the doorway.\n\n\"Then perhaps you haven't decided yet. You should have a proper look before you decide.\"\n\nShe paused with the rest of her body still hidden. The speaking traveler's request hung between them, and she turned her face toward the lantern instead of answering it.\n\n\"Would it be better if I came out slowly? Or if you came over here? It's very lonely, talking from opposite sides like this.\"\n\nShe placed one foot a little farther forward, with exaggerated care.\n",
+      "body_sha256": "443d0dd11b8207a600be4f92648cddeef4b34ece94ebbc34867baa6e75fecf68",
+      "body_file": "original-firsts01/AMR_A2_FIRST_01.txt",
+      "authored_once": true,
+      "regeneration_count": 0,
+      "repair_count": 0,
+      "independent_observation_count": null
+    },
+    {
+      "input_id": "AMR-B1",
+      "first_ordinal": 1,
+      "language": "English",
+      "input_JSON_sha256": "cb63c5de8e8c6ebe4c405bc432694359c00015cf39fe0c015cdf341fad5035b1",
+      "exact_input_TXT_sha256": "a82807f445f058c70090367f0ed95acff7ddf9badd7a12a7e3ebbaf751e34bbc",
+      "body": "The spider costume stopped halfway out from the curtain.\n\n\"Vanir?\"\n\nAmaryllis lifted her head, and the pleading note disappeared from her voice.\n\n\"Oh, these are your guests. I beg your pardon. You have caught me making rather an elaborate introduction.\"\n\nShe drew the costume back enough to keep its legs out of the open aisle, then inclined her head toward the two visitors.\n\n\"Please excuse the interruption. I was beginning to think our rehearsal had become unusually absorbing.\"\n\nHer attention returned to the voice beside the curtain.\n\n\"Will you be staying with us? It would be a pity to waste such an attentive audience. But perhaps you would prefer to introduce us first.\"\n",
+      "body_sha256": "50d87fee5555ef1cc129fabce0926c4c12c9de3cf9180b039fd3059763099d13",
+      "body_file": "original-firsts01/AMR_B1_FIRST_01.txt",
+      "authored_once": true,
+      "regeneration_count": 0,
+      "repair_count": 0,
+      "independent_observation_count": null
+    },
+    {
+      "input_id": "AMR-B2",
+      "first_ordinal": 1,
+      "language": "English",
+      "input_JSON_sha256": "70d4b1f0bb16c70d706bc013c01490634dfcb5542cfcaa67c207777a2e9f85c0",
+      "exact_input_TXT_sha256": "21b8aad0ed5c54e3b7ef04b704adb63b9773289688176bc9d9602956328cdbae",
+      "body": "Amaryllis stopped the costume with two of its legs still beyond the curtain.\n\n\"With you?\"\n\nShe turned her head toward the unfamiliar voice, keeping the rest of her pose.\n\n\"Then you ought to introduce us. I was just explaining how lonely it gets behind this curtain.\"\n\nThe spider legs shifted a little farther apart, occupying no more of the aisle than before. Her voice kept its injured sweetness.\n\n\"You haven't told me your name. Are you going to stand over there too? That would make three people watching and only one doing all the talking.\"\n\nShe tilted her head toward the gap beside the curtain.\n\n\"Come along, then. You can tell me whether I'm really so frightening.\"\n",
+      "body_sha256": "233378dd7166ab9405947fabe8292e6af8d7879b18222e8fd61089a5e42ce5a6",
+      "body_file": "original-firsts01/AMR_B2_FIRST_01.txt",
+      "authored_once": true,
+      "regeneration_count": 0,
+      "repair_count": 0,
+      "independent_observation_count": null
+    }
+  ],
+  "first_output_count": 4,
+  "dependent_pairs": 2,
+  "regeneration_or_repair_count": 0,
+  "feedback_started": false,
+  "independent_observation_count": null,
+  "no_accuracy_grade_or_confidence_gain": true,
+  "canonical_changes": false,
+  "full_program_complete": false
+}

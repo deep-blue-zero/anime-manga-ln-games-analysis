@@ -1,0 +1,199 @@
+{
+  "schema": "konosuba.cohort31.exact-scenario-inputs.v1",
+  "subject": "Gilbert",
+  "stem": "GILBERT",
+  "created_utc": "2026-10-24T06:52:41.828248+00:00",
+  "foundation_seal_sha256": "efffd85b8193015dfff55c22138d0b70c155fc2775d95a0a19d1ecdde2792c04",
+  "foundation_model_sha256": "7844f396bd5930a76b4ba4b39c7b350cb2da7572e08a46921c77fb805b2fcbb4",
+  "same_informed_root_author": true,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "independent_judge": false,
+  "pristine_holdout": false,
+  "synthetic_pairs": 3,
+  "cases": [
+    {
+      "case_id": "GI-H01-A",
+      "pair_id": "GI-H01",
+      "variant": "A",
+      "target_rules": [
+        "GI-R01"
+      ],
+      "purpose": "Religious salience versus ordinary irritation while useful help and its small cost remain the same.",
+      "exact_prompt": "Use the frozen Gilbert model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by Gilbert. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: At the shared inn,a shelf support has broken during a joint repair. A familiar party colleague asks Gilbert to hold the temporary brace for ten minutes; he can do that,has ten free minutes and would give up his own comfortable chair while helping. No one has acted yet and no repair outcome is given. The colleague adds one remark. The remark is that Aqua followers are useless at practical work.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "98c61dedb2f95c91f3fff396b03d9ecaa8c68c361c02506d5f1d1ec537d8ce13",
+      "fixed_common_facts": "At the shared inn,a shelf support has broken during a joint repair. A familiar party colleague asks Gilbert to hold the temporary brace for ten minutes; he can do that,has ten free minutes and would give up his own comfortable chair while helping. No one has acted yet and no repair outcome is given. The colleague adds one remark.",
+      "variant_fact": "The remark is that Aqua followers are useless at practical work.",
+      "paired_design_limit": "Explicit religious cue can itself produce generic priming. Helpful action alone cannot identify sect loyalty,care or team optimization; no independent accuracy.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "GI-H01-B",
+      "pair_id": "GI-H01",
+      "variant": "B",
+      "target_rules": [
+        "GI-R01"
+      ],
+      "purpose": "Religious salience versus ordinary irritation while useful help and its small cost remain the same.",
+      "exact_prompt": "Use the frozen Gilbert model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by Gilbert. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: At the shared inn,a shelf support has broken during a joint repair. A familiar party colleague asks Gilbert to hold the temporary brace for ten minutes; he can do that,has ten free minutes and would give up his own comfortable chair while helping. No one has acted yet and no repair outcome is given. The colleague adds one remark. The remark is that the delivery schedule has been inconvenient.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "0784d9fb864fabbd9bc70edd4176fae3f94083b9381fad88ef62c4d574bfa1d5",
+      "fixed_common_facts": "At the shared inn,a shelf support has broken during a joint repair. A familiar party colleague asks Gilbert to hold the temporary brace for ten minutes; he can do that,has ten free minutes and would give up his own comfortable chair while helping. No one has acted yet and no repair outcome is given. The colleague adds one remark.",
+      "variant_fact": "The remark is that the delivery schedule has been inconvenient.",
+      "paired_design_limit": "Explicit religious cue can itself produce generic priming. Helpful action alone cannot identify sect loyalty,care or team optimization; no independent accuracy.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "GI-H02-A",
+      "pair_id": "GI-H02",
+      "variant": "A",
+      "target_rules": [
+        "GI-R02"
+      ],
+      "purpose": "Credibility debt and inspectable evidence versus an unsupported but true declaration.",
+      "exact_prompt": "Use the frozen Gilbert model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by Gilbert. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: Gilbert correctly knows tomorrow's guild meeting begins at three. Otohime remembers one prior exaggerated report from Gilbert and now asks why he should believe the time. Gilbert has no lie-detection ability in this imagined scene. No listener response after his next statement is supplied. A genuine printed notice showing three is on the table within Gilbert's reach.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "1ebef173d8805faeb96f2b231d0839c7346aa30443cc36d41e1aefc4903b00a8",
+      "fixed_common_facts": "Gilbert correctly knows tomorrow's guild meeting begins at three. Otohime remembers one prior exaggerated report from Gilbert and now asks why he should believe the time. Gilbert has no lie-detection ability in this imagined scene. No listener response after his next statement is supplied.",
+      "variant_fact": "A genuine printed notice showing three is on the table within Gilbert's reach.",
+      "paired_design_limit": "Evidence availability is an explicit generic cue; truth is stipulated and reception must remain unprovided. It cannot establish habitual truthfulness or repaired trust.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "GI-H02-B",
+      "pair_id": "GI-H02",
+      "variant": "B",
+      "target_rules": [
+        "GI-R02"
+      ],
+      "purpose": "Credibility debt and inspectable evidence versus an unsupported but true declaration.",
+      "exact_prompt": "Use the frozen Gilbert model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by Gilbert. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: Gilbert correctly knows tomorrow's guild meeting begins at three. Otohime remembers one prior exaggerated report from Gilbert and now asks why he should believe the time. Gilbert has no lie-detection ability in this imagined scene. No listener response after his next statement is supplied. There is no notice,record or other independent corroboration available to Gilbert now.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "46504299063c20d25edb8462b961e3f5f3bda3d87205195315816e69e979eab4",
+      "fixed_common_facts": "Gilbert correctly knows tomorrow's guild meeting begins at three. Otohime remembers one prior exaggerated report from Gilbert and now asks why he should believe the time. Gilbert has no lie-detection ability in this imagined scene. No listener response after his next statement is supplied.",
+      "variant_fact": "There is no notice,record or other independent corroboration available to Gilbert now.",
+      "paired_design_limit": "Evidence availability is an explicit generic cue; truth is stipulated and reception must remain unprovided. It cannot establish habitual truthfulness or repaired trust.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "GI-H03-A",
+      "pair_id": "GI-H03",
+      "variant": "A",
+      "target_rules": [
+        "GI-R03"
+      ],
+      "purpose": "Professional displacement versus acknowledged complementary contribution,without allowing a fabricated repeat success.",
+      "exact_prompt": "Use the frozen Gilbert model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by Gilbert. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: During a routine guild errand,Temiren has just used her own one-use scroll to remove a harmless magical stain after Gilbert's attempt failed. The removal is already complete; his ordinary protective help is still needed on the separate return walk. The group is together and one person comments. Gilbert has no unused tool to repeat the stain removal. The comment is that the party apparently does not need a priest for this work.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "a9afbc7da3ae560864b3a9298e02948b6c50c60445b64d8358eccc6ecb4577ca",
+      "fixed_common_facts": "During a routine guild errand,Temiren has just used her own one-use scroll to remove a harmless magical stain after Gilbert's attempt failed. The removal is already complete; his ordinary protective help is still needed on the separate return walk. The group is together and one person comments. Gilbert has no unused tool to repeat the stain removal.",
+      "variant_fact": "The comment is that the party apparently does not need a priest for this work.",
+      "paired_design_limit": "Public criticism and praise cue ordinary responses; one contrast does not distinguish class comedy,pride and generic embarrassment.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "GI-H03-B",
+      "pair_id": "GI-H03",
+      "variant": "B",
+      "target_rules": [
+        "GI-R03"
+      ],
+      "purpose": "Professional displacement versus acknowledged complementary contribution,without allowing a fabricated repeat success.",
+      "exact_prompt": "Use the frozen Gilbert model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by Gilbert. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: During a routine guild errand,Temiren has just used her own one-use scroll to remove a harmless magical stain after Gilbert's attempt failed. The removal is already complete; his ordinary protective help is still needed on the separate return walk. The group is together and one person comments. Gilbert has no unused tool to repeat the stain removal. The comment credits Temiren's scroll and Gilbert's earlier protective work separately.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "e9f27cb8c616d20ff890a1e0b9f3ad400c6cc1cf72f7c72742f615b2a717f96b",
+      "fixed_common_facts": "During a routine guild errand,Temiren has just used her own one-use scroll to remove a harmless magical stain after Gilbert's attempt failed. The removal is already complete; his ordinary protective help is still needed on the separate return walk. The group is together and one person comments. Gilbert has no unused tool to repeat the stain removal.",
+      "variant_fact": "The comment credits Temiren's scroll and Gilbert's earlier protective work separately.",
+      "paired_design_limit": "Public criticism and praise cue ordinary responses; one contrast does not distinguish class comedy,pride and generic embarrassment.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    }
+  ],
+  "new_source_or_independent_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "full_program_complete": false
+}

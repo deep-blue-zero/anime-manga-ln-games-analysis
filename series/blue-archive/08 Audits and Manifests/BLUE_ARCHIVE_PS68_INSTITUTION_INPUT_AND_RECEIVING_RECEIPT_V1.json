@@ -1,0 +1,1024 @@
+{
+  "schema": "BLUE_ARCHIVE_PS68_INSTITUTION_INPUT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_COMPLETE_CANONICAL_INSTALLATION_PENDING",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PS68_COMMAND_FINANCE_INSTITUTION_SYNTHESIS.md",
+  "current_scope": "355required/29mandatory non-denominator duties/25distinctparents/384homes unchanged",
+  "dated_source_beforeimage": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+  "dated_source_tree": "e6b570d622c4a56f6b98c29c9eb78e2e90025618",
+  "accepted_first_milestone_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "fixed_preparation_snapshot": {
+    "accepted_package_sequence": [
+      126,
+      128
+    ],
+    "new_packages": 3,
+    "after_complete_ROOT_install": 128,
+    "characters": 96,
+    "directed_relationships": 16,
+    "ensembles": 5,
+    "institutions": 11,
+    "named_duties_after_complete_ROOT_install": 13,
+    "published_before_successor": 125,
+    "merged_main": 89,
+    "next_milestone": 178,
+    "later129plus": "EXCLUDED_FROM_FIXED_PROPOSAL",
+    "automatic_chain_required_before_assembly": "ROOT_ACCEPTED_EXACT_5933_SOURCE125_HOUSEKEEPING_FINAL_PASS",
+    "new_named_duty_completions_from_prior_ROOT_acceptance": 3,
+    "mechanical_transport_credit": 0
+  },
+  "current_source125_complete_chain": {
+    "original_exact_tuple": {
+      "path": "ROOT_5933_SOURCE125_PUBLICATION_CHAIN_ACCEPTANCE_V1.json",
+      "bytes": 6067,
+      "sha256": "b5a025b1958cfa8a08e0e629fb717fa8b6798cff77628b55ce5ec2516a392285",
+      "git_blob_oid_of_actual_bytes": "40e3bcdbdccd017bbc2760b4a6394f9d1f8de5fc",
+      "immutable_transport_path": "immutable_originals/ROOT_5933_SOURCE125_PUBLICATION_CHAIN_ACCEPTANCE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "blue-archive/root-5933125-complete-publication-chain-acceptance/v1",
+      "decision": "ACCEPT_EXACT_SOURCE_HOUSEKEEPING_FINAL_COMPLETE_AUTOMATIC_CHAIN",
+      "checked_UTC": "2026-10-11T01:58:48.077877+00:00",
+      "source": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+      "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source_tree": "e6b570d622c4a56f6b98c29c9eb78e2e90025618",
+      "source_parent": [
+        "c6908f2dba6f3b379bb84679fdd01175ac5894da"
+      ],
+      "original_capture": {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_5933_SOURCE125_COMPLETE_AUTOMATIC_CHAIN_V1/EXACT_COMPLETE_CHAIN_CAPTURE_AND_EXECUTED_WITNESSES_V1.json",
+        "bytes": 34450,
+        "sha256": "6b95193c1198831daf874d47595b7ec51ce60f85bedadd49e1c7ef8dead49218",
+        "git_blob_sha1": "dd331b3b4987a3f4a7c21dbcce35c229a6a843e8"
+      },
+      "runs_and_actual_execution": [
+        {
+          "role": "SOURCE",
+          "run": {
+            "id": 38102191860,
+            "name": "Repository audit",
+            "event": "push",
+            "head_sha": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38102191860",
+            "created_at": "2026-10-11T01:32:42Z",
+            "updated_at": "2026-10-11T01:47:43Z"
+          },
+          "complete_log": {
+            "path": "SOURCE_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 359172,
+            "lines": 2272,
+            "sha256": "18ec5a000a17e67b7e8a30cd4d125105a083b281f44d9f0f5b177edc05a84873",
+            "git_blob_oid_of_actual_bytes": "a3aa4d3cd5ec102332d8675433fb6f82c46ae464"
+          },
+          "actual_archive_outcome": "success",
+          "actual_archive_SHA": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+          "actual_execution": {
+            "commit": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+            "outcome": "success",
+            "requested_profile": "shadow",
+            "executed_profile": "full",
+            "selection_enabled": false,
+            "discovered_tests": 292,
+            "tests_run": 292,
+            "errors": 0,
+            "failures": 0,
+            "expected_failures": 0,
+            "unexpected_successes": 0,
+            "skipped": 0
+          }
+        },
+        {
+          "role": "HOUSEKEEPING",
+          "run": {
+            "id": 38103024197,
+            "name": "Global index housekeeping",
+            "event": "workflow_run",
+            "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38103024197",
+            "created_at": "2026-10-11T01:47:45Z",
+            "updated_at": "2026-10-11T01:48:05Z"
+          },
+          "complete_log": {
+            "path": "HOUSEKEEPING_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 44358,
+            "lines": 267,
+            "sha256": "9aab774b9d1e452463ee7aba2f91de8ffd15747c41aa1e6c53a65e6c885a41ed",
+            "git_blob_oid_of_actual_bytes": "fcd993f48bad8d54a98be762d444dab15a5b431b"
+          },
+          "actual_noop_and_dispatch_witnesses": [
+            {
+              "line": 265,
+              "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T01:48:03.3420005Z PASS: dispatched the full audit for 5933ee5e3859049509357c06e739ef91e0e7c98c"
+            },
+            {
+              "line": 266,
+              "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T01:48:03.3421274Z PASS: unchanged routing and branch boundaries verified; final audit dispatched"
+            }
+          ]
+        },
+        {
+          "role": "FINAL_FULL_AUDIT",
+          "run": {
+            "id": 38103041900,
+            "name": "Repository audit",
+            "event": "repository_dispatch",
+            "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38103041900",
+            "created_at": "2026-10-11T01:48:04Z",
+            "updated_at": "2026-10-11T01:55:53Z"
+          },
+          "complete_log": {
+            "path": "FINAL_FULL_AUDIT_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 358656,
+            "lines": 2267,
+            "sha256": "5952f303becb464fec3fdd9b13984acddbf301022717e62b3dfadfc0bfa4f0a0",
+            "git_blob_oid_of_actual_bytes": "86e7805cbef04bcb9b120a6159e22ab08069e0d7"
+          },
+          "actual_archive_outcome": "success",
+          "actual_archive_SHA": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+          "actual_execution": {
+            "commit": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+            "outcome": "success",
+            "requested_profile": "shadow",
+            "executed_profile": "full",
+            "selection_enabled": false,
+            "discovered_tests": 292,
+            "tests_run": 292,
+            "errors": 0,
+            "failures": 0,
+            "expected_failures": 0,
+            "unexpected_successes": 0,
+            "skipped": 0
+          }
+        }
+      ],
+      "exact_final_status": {
+        "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/5933ee5e3859049509357c06e739ef91e0e7c98c",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "id": 56070978939,
+        "node_id": "SC_kwDOUJ9ads8AAAANDhc9ew",
+        "state": "success",
+        "description": "Exact commit passed the repository audit",
+        "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38103041900",
+        "context": "Repository integration audit",
+        "created_at": "2026-10-11T01:55:51Z",
+        "updated_at": "2026-10-11T01:55:51Z"
+      },
+      "ROOT_actual_execution_summary_receiving": "4af798",
+      "whole_log_human_reading_claim": false,
+      "progress": "Published125/merged89; ROOTaccepted128 remains separate. Nextmerge178/full355cast target unchanged; zero new literary acceptance or milestone.",
+      "source_or_repository_mutations": 0,
+      "all14_original_gaps": "OPEN_UNCHANGED",
+      "UNBOUND9_and_unpublished39": "UNREAD_UNHASHED_UNCHANGED"
+    }
+  },
+  "original_exact_tuple": {
+    "path": "PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_ACTUAL_SOURCE_RECEIVING_GRADES_V1.json",
+    "bytes": 52226,
+    "sha256": "779ff0d24df00762e14b4f9293a18588d48956df7fb81cc7dff0185d03bfd36c",
+    "git_blob_oid_of_actual_bytes": "602d86c9c4a1e1c44bac47bc5a85fb9d753b1451",
+    "immutable_transport_path": "immutable_originals/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_ACTUAL_SOURCE_RECEIVING_GRADES_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "PS68_ACTUAL_RECEIVING_GRADES_V1",
+    "status": "AUTHOR_RECEIVING_WITH_LIMITS_ROOT_REVIEW_PENDING",
+    "body": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/BLUE_ARCHIVE_PS68_COMMAND_FINANCE_INSTITUTION_SYNTHESIS.md",
+      "bytes": 43579,
+      "sha256": "41db704792300fe5baee8695513b59d050269c31169fe457ce141ed04de59423",
+      "git_blob_sha1": "0b7a53d9e02afaeb8294a5abdf6c81957ad9ebc7"
+    },
+    "source": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+    "rows": [
+      {
+        "source_id": "PS02",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "current_copy_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/EXACT_INPUTS/PS02__BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 37075,
+          "sha256": "d7bdc25e91b1a9671bce5c9a1852e735015d672c2fb8a038c65d75587078f1e9",
+          "git_blob_sha1": "8b67cc9f6273a83cdda5d76fda3346ff5ee5c9e5"
+        },
+        "fixed_input_receipt": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_EXACT_INPUT_BINDINGS_V1.json",
+          "bytes": 112987,
+          "sha256": "d986eb424802f5a2b418fffd8aea87c4ca2a7968e8c0c013bb7bbc5ea64514f9",
+          "git_blob_sha1": "1a2ca2ad10119a0698f57717bf5f181267de0895"
+        },
+        "literal_prior_fields_pointer": "/inputs/0/prior_and_future_scope_literal",
+        "positive_question": "Aru leadership, wanted competence and fallible hospitality",
+        "original_future_meaning_duty": "Keep her private pride, anxiety, taste, care and refusal alongside the institution’s commands and costs; a single biography cannot own the whole group or certify every contract.",
+        "class": "accepted private contextual argument; underlying BOND/whole-MomoTalk/written modes stay distinct",
+        "actor_mode": "Printed speaker/choice/narration/inward/reported and unknown assignments remain distinct; no silent raw actor repair.",
+        "read_order": "No independent first/second exposure or chronology by variant, release, receipt order or comparative placement.",
+        "actual_current_grade": "ADEQUATE_PRIOR_COMPLETE_OWN_MAINTAINED_PRIVATE_ARGUMENT_REUSE",
+        "actual_new_receiving": [],
+        "operative_scope_qualification": "Earlier own whole221 as frozen Gehenna declaration; fresh current MAIN231 connected private comparative meaning. No fresh221/private-primary/whole-thread claim.",
+        "new_primary_native_raw_AV_claim": false,
+        "prior_other_author_scope": "The literal planned other-author navigation stays attributed at the input pointer; it is not this author’s receiving."
+      },
+      {
+        "source_id": "PS05",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/HARUKA/BLUE_ARCHIVE_HARUKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "current_copy_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/EXACT_INPUTS/PS05__BLUE_ARCHIVE_HARUKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 44061,
+          "sha256": "8fa72b3edc389927d54e085369b39adcaa25946141869bdad8164490ca567d5b",
+          "git_blob_sha1": "a54f86d6079a857e0b23c72b3679598978f9522f"
+        },
+        "fixed_input_receipt": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_EXACT_INPUT_BINDINGS_V1.json",
+          "bytes": 112987,
+          "sha256": "d986eb424802f5a2b418fffd8aea87c4ca2a7968e8c0c013bb7bbc5ea64514f9",
+          "git_blob_sha1": "1a2ca2ad10119a0698f57717bf5f181267de0895"
+        },
+        "literal_prior_fields_pointer": "/inputs/1/prior_and_future_scope_literal",
+        "positive_question": "Haruka gardening, gratitude and non-infinite repayment",
+        "original_future_meaning_duty": "Retain wanted company, gardening predating rescue, actual recognized help and the distinction between gratitude and endless sacrificial labor. Full Aru→Haruka/Mutsuki→Haruka directed acceptance remains separate.",
+        "class": "accepted private contextual argument; underlying BOND/whole-MomoTalk/written modes stay distinct",
+        "actor_mode": "Printed speaker/choice/narration/inward/reported and unknown assignments remain distinct; no silent raw actor repair.",
+        "read_order": "No independent first/second exposure or chronology by variant, release, receipt order or comparative placement.",
+        "actual_current_grade": "ADEQUATE_PRIOR_COMPLETE_OWN_MAINTAINED_PRIVATE_ARGUMENT_REUSE",
+        "actual_new_receiving": [],
+        "operative_scope_qualification": "Earlier own whole244 as frozen Gehenna declaration; fresh MAIN237 gardens/museum/refusals. No fresh244/private-primary or psychological cure.",
+        "new_primary_native_raw_AV_claim": false,
+        "prior_other_author_scope": "The literal planned other-author navigation stays attributed at the input pointer; it is not this author’s receiving."
+      },
+      {
+        "source_id": "PS04",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KAYOKO/BLUE_ARCHIVE_KAYOKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "current_copy_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/EXACT_INPUTS/PS04__BLUE_ARCHIVE_KAYOKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 39932,
+          "sha256": "aebc27804ef2f1117b870b7503ee0895164a04d0103e92b99bb9ed21628a3915",
+          "git_blob_sha1": "0be95446fe08f99cbe8948ca2091954f7aa0c9a0"
+        },
+        "fixed_input_receipt": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_EXACT_INPUT_BINDINGS_V1.json",
+          "bytes": 112987,
+          "sha256": "d986eb424802f5a2b418fffd8aea87c4ca2a7968e8c0c013bb7bbc5ea64514f9",
+          "git_blob_sha1": "1a2ca2ad10119a0698f57717bf5f181267de0895"
+        },
+        "literal_prior_fields_pointer": "/inputs/2/prior_and_future_scope_literal",
+        "positive_question": "Kayoko practical caution and chosen company",
+        "original_future_meaning_duty": "Test situated competence against ineffective restraint; quiet cleaning, jazz, reciprocal treating and recipient-specific privacy remain intrinsic rather than clues proving hidden institutional mastery.",
+        "class": "accepted private contextual argument; underlying BOND/whole-MomoTalk/written modes stay distinct",
+        "actor_mode": "Printed speaker/choice/narration/inward/reported and unknown assignments remain distinct; no silent raw actor repair.",
+        "read_order": "No independent first/second exposure or chronology by variant, release, receipt order or comparative placement.",
+        "actual_current_grade": "ADEQUATE_PRIOR_COMPLETE_OWN_MAINTAINED_PRIVATE_ARGUMENT_REUSE",
+        "actual_new_receiving": [],
+        "operative_scope_qualification": "Earlier own whole236 and prior Kayoko dc5ab8/49ab08/f08039; fresh MAIN235 preserves quiet/treat/privacy. No fresh whole236 or direct/private source credit.",
+        "new_primary_native_raw_AV_claim": false,
+        "prior_other_author_scope": "The literal planned other-author navigation stays attributed at the input pointer; it is not this author’s receiving."
+      },
+      {
+        "source_id": "PS03",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/MUTSUKI/BLUE_ARCHIVE_MUTSUKI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "current_copy_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/EXACT_INPUTS/PS03__BLUE_ARCHIVE_MUTSUKI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 39012,
+          "sha256": "185fd6b380dae208c62aac88889ba32063fe43504f31f258c076ec2c7a476046",
+          "git_blob_sha1": "55d4a79455ec2b91c0c406fe1141325bbb1f44cc"
+        },
+        "fixed_input_receipt": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_EXACT_INPUT_BINDINGS_V1.json",
+          "bytes": 112987,
+          "sha256": "d986eb424802f5a2b418fffd8aea87c4ca2a7968e8c0c013bb7bbc5ea64514f9",
+          "git_blob_sha1": "1a2ca2ad10119a0698f57717bf5f181267de0895"
+        },
+        "literal_prior_fields_pointer": "/inputs/3/prior_and_future_scope_literal",
+        "positive_question": "Mutsuki play, differentiated company and limits on harm",
+        "original_future_meaning_duty": "Preserve her own preferences, teasing and particular recipient limits; group membership is neither uniform agreement nor consent for every task.",
+        "class": "accepted private contextual argument; underlying BOND/whole-MomoTalk/written modes stay distinct",
+        "actor_mode": "Printed speaker/choice/narration/inward/reported and unknown assignments remain distinct; no silent raw actor repair.",
+        "read_order": "No independent first/second exposure or chronology by variant, release, receipt order or comparative placement.",
+        "actual_current_grade": "ADEQUATE_PRIOR_COMPLETE_OWN_MAINTAINED_PRIVATE_ARGUMENT_REUSE",
+        "actual_new_receiving": [],
+        "operative_scope_qualification": "Earlier own whole215 as frozen Gehenna declaration; fresh current MAIN233 connected comparison including privately unexecuted funding refusal. No institutional shared knowledge or variant calendar.",
+        "new_primary_native_raw_AV_claim": false,
+        "prior_other_author_scope": "The literal planned other-author navigation stays attributed at the input pointer; it is not this author’s receiving."
+      },
+      {
+        "source_id": "PSNAV02",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "current_copy_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/EXACT_INPUTS/PSNAV02__BLUE_ARCHIVE_EVENT_809_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+          "bytes": 20216,
+          "sha256": "04a41b534c4102c215832cce876737f0d3ff3907088cd0a7194b8ffdeb523c04",
+          "git_blob_sha1": "799f5b2f5e2bba1a6af6d2a4e5547d9652da5a91"
+        },
+        "fixed_input_receipt": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_EXACT_INPUT_BINDINGS_V1.json",
+          "bytes": 112987,
+          "sha256": "d986eb424802f5a2b418fffd8aea87c4ca2a7968e8c0c013bb7bbc5ea64514f9",
+          "git_blob_sha1": "1a2ca2ad10119a0698f57717bf5f181267de0895"
+        },
+        "literal_prior_fields_pointer": "/inputs/4/prior_and_future_scope_literal",
+        "positive_question": "Event809 complete current comparison versus limited expanded checkpoint",
+        "original_future_meaning_duty": "Retain the complete125-line maintained public/ordinary argument as a potential institutional/belonging test; the1635-line expanded checkpoint was only a narrow header/name/seam refresh in the cited character custody. Do not upgrade that refresh to whole-owner receiving or infer own action from appearance.",
+        "class": "Maintained public/peer analytical normal argument, distinct from underlying primary and performed evidence.",
+        "actor_mode": "Preserve literal actor/choice/report/thought and recipient boundaries; presence does not entail own action or transferred knowledge.",
+        "read_order": "No shared MAIN/event/GROUP/private chronology is inferred from release, costume, route number or another author’s reading order.",
+        "actual_current_grade": "FRESH_WHOLE_CURRENT_MAINTAINED_ARGUMENT",
+        "actual_new_receiving": [
+          {
+            "lines": [
+              1,
+              125
+            ],
+            "chunk_id": "41622f"
+          }
+        ],
+        "operative_scope_qualification": "Complete125 current comparison; no whole1635 historical expanded checkpoint or primary claim.",
+        "new_primary_native_raw_AV_claim": false,
+        "prior_other_author_scope": "The literal planned other-author navigation stays attributed at the input pointer; it is not this author’s receiving."
+      },
+      {
+        "source_id": "PSNAV05",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "current_copy_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/EXACT_INPUTS/PSNAV05__BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+          "bytes": 46462,
+          "sha256": "b5a86050b0f78e343e39499b7b1766b474a9ec106a0215279caff72589fe9353",
+          "git_blob_sha1": "13b90d6ccfe8df728be0e963cfb8c62c0116f2c2"
+        },
+        "fixed_input_receipt": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_EXACT_INPUT_BINDINGS_V1.json",
+          "bytes": 112987,
+          "sha256": "d986eb424802f5a2b418fffd8aea87c4ca2a7968e8c0c013bb7bbc5ea64514f9",
+          "git_blob_sha1": "1a2ca2ad10119a0698f57717bf5f181267de0895"
+        },
+        "literal_prior_fields_pointer": "/inputs/5/prior_and_future_scope_literal",
+        "positive_question": "Gift-event810 independent wants and recipients",
+        "original_future_meaning_duty": "Retain complete316-line maintained comparison for ordinary wishes, chosen reciprocity and uncompleted gifts. Specific consequential endpoints may require their complete small current analytical owner after allocation; no gift route may be invented or excluded because quiet.",
+        "class": "Maintained public/peer analytical normal argument, distinct from underlying primary and performed evidence.",
+        "actor_mode": "Preserve literal actor/choice/report/thought and recipient boundaries; presence does not entail own action or transferred knowledge.",
+        "read_order": "No shared MAIN/event/GROUP/private chronology is inferred from release, costume, route number or another author’s reading order.",
+        "actual_current_grade": "FRESH_COMPLETE_SUBSTANTIVE_COMPARISON_BOUNDED_PHYSICAL_SCOPE",
+        "actual_new_receiving": [
+          {
+            "lines": [
+              123,
+              140
+            ],
+            "chunk_id": "01f217"
+          },
+          {
+            "lines": [
+              241,
+              280
+            ],
+            "chunk_id": "0fd7c2"
+          },
+          {
+            "lines": [
+              281,
+              316
+            ],
+            "chunk_id": "78eddf"
+          }
+        ],
+        "operative_scope_qualification": "Full substantive account241–316 including exact011/037/038/063 PS68 gift meanings; current override123–140. Not whole316/routes or103 source-facing bodies/102 primaries.",
+        "new_primary_native_raw_AV_claim": false,
+        "prior_other_author_scope": "The literal planned other-author navigation stays attributed at the input pointer; it is not this author’s receiving."
+      },
+      {
+        "source_id": "PSNAV06",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_821/BLUE_ARCHIVE_EVENT_821_CONTEXTUALIZATION_CHECKPOINT.md",
+        "current_copy_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/EXACT_INPUTS/PSNAV06__BLUE_ARCHIVE_EVENT_821_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 28870,
+          "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+          "git_blob_sha1": "59a74816f84bbcc362ffc3684016ad713b930372"
+        },
+        "fixed_input_receipt": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_EXACT_INPUT_BINDINGS_V1.json",
+          "bytes": 112987,
+          "sha256": "d986eb424802f5a2b418fffd8aea87c4ca2a7968e8c0c013bb7bbc5ea64514f9",
+          "git_blob_sha1": "1a2ca2ad10119a0698f57717bf5f181267de0895"
+        },
+        "literal_prior_fields_pointer": "/inputs/6/prior_and_future_scope_literal",
+        "positive_question": "Event821 public company and finite ending",
+        "original_future_meaning_duty": "Use the prior complete157-line comparison at its actual scope, retaining member-specific ordinary participation, unequal knowledge and contrary results. Resolve any specific institutional consequence from adequate current meaning rather than generic co-presence.",
+        "class": "Maintained public/peer analytical normal argument, distinct from underlying primary and performed evidence.",
+        "actor_mode": "Preserve literal actor/choice/report/thought and recipient boundaries; presence does not entail own action or transferred knowledge.",
+        "read_order": "No shared MAIN/event/GROUP/private chronology is inferred from release, costume, route number or another author’s reading order.",
+        "actual_current_grade": "FRESH_COMPLETE_SUBSTANTIVE_COMPARISON_BOUNDED_PHYSICAL_SCOPE",
+        "actual_new_receiving": [
+          {
+            "lines": [
+              37,
+              68
+            ],
+            "chunk_id": "3867d2"
+          },
+          {
+            "lines": [
+              69,
+              157
+            ],
+            "chunk_id": "62fdf6"
+          }
+        ],
+        "operative_scope_qualification": "Complete16 connected meanings and ending plus current override/routes; not whole157 physical prefix or16 primary objects.",
+        "new_primary_native_raw_AV_claim": false,
+        "prior_other_author_scope": "The literal planned other-author navigation stays attributed at the input pointer; it is not this author’s receiving."
+      },
+      {
+        "source_id": "PSNAV09",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_823/BLUE_ARCHIVE_EVENT_823_CONTEXTUALIZATION_CHECKPOINT.md",
+        "current_copy_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/EXACT_INPUTS/PSNAV09__BLUE_ARCHIVE_EVENT_823_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 26188,
+          "sha256": "636d9c6f2bf50b657d2ab4414b336435ea997dc664584a9869c4d46c3de86217",
+          "git_blob_sha1": "c96006a5c99cee07b16f6ce4dc3647de86ac8a66"
+        },
+        "fixed_input_receipt": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_EXACT_INPUT_BINDINGS_V1.json",
+          "bytes": 112987,
+          "sha256": "d986eb424802f5a2b418fffd8aea87c4ca2a7968e8c0c013bb7bbc5ea64514f9",
+          "git_blob_sha1": "1a2ca2ad10119a0698f57717bf5f181267de0895"
+        },
+        "literal_prior_fields_pointer": "/inputs/7/prior_and_future_scope_literal",
+        "positive_question": "Kayoko’s distinct Event823 public/ordinary route",
+        "original_future_meaning_duty": "Retain complete135-line prior accepted event argument as a positive retrieval route, including recipient-specific ordinary ends. Receive adequate current meaning where consequential; neither whole character-author custody nor mere presence is this institution author’s independent receiving.",
+        "class": "Maintained public/peer analytical normal argument, distinct from underlying primary and performed evidence.",
+        "actor_mode": "Preserve literal actor/choice/report/thought and recipient boundaries; presence does not entail own action or transferred knowledge.",
+        "read_order": "No shared MAIN/event/GROUP/private chronology is inferred from release, costume, route number or another author’s reading order.",
+        "actual_current_grade": "FRESH_COMPLETE_SUBSTANTIVE_COMPARISON_BOUNDED_PHYSICAL_SCOPE",
+        "actual_new_receiving": [
+          {
+            "lines": [
+              27,
+              48
+            ],
+            "chunk_id": "72f2a0"
+          },
+          {
+            "lines": [
+              49,
+              135
+            ],
+            "chunk_id": "0177cb"
+          }
+        ],
+        "operative_scope_qualification": "Complete six connected meanings/end/qualifications plus current override/routes; no whole135 physical prefix or exhaustive evacuation roster.",
+        "new_primary_native_raw_AV_claim": false,
+        "prior_other_author_scope": "The literal planned other-author navigation stays attributed at the input pointer; it is not this author’s receiving."
+      },
+      {
+        "source_id": "PSNAV04",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+        "current_copy_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/EXACT_INPUTS/PSNAV04__BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 53866,
+          "sha256": "ab779ae688f8ced967127a810180613f39b5fc23fd15976bcd2ee3cd0b863ab0",
+          "git_blob_sha1": "44f05d6979aa11562bb7d548664ae24aefe53a8f"
+        },
+        "fixed_input_receipt": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_EXACT_INPUT_BINDINGS_V1.json",
+          "bytes": 112987,
+          "sha256": "d986eb424802f5a2b418fffd8aea87c4ca2a7968e8c0c013bb7bbc5ea64514f9",
+          "git_blob_sha1": "1a2ca2ad10119a0698f57717bf5f181267de0895"
+        },
+        "literal_prior_fields_pointer": "/inputs/8/prior_and_future_scope_literal",
+        "positive_question": "Gift-event834 independent wants and recipients",
+        "original_future_meaning_duty": "Retain complete268-line prior accepted argument as a positive quiet-public retrieval route. Determine actual member-specific gift, response, refusal and ending from adequate current meaning; no guessed episode number, consumption or common chronology.",
+        "class": "Maintained public/peer analytical normal argument, distinct from underlying primary and performed evidence.",
+        "actor_mode": "Preserve literal actor/choice/report/thought and recipient boundaries; presence does not entail own action or transferred knowledge.",
+        "read_order": "No shared MAIN/event/GROUP/private chronology is inferred from release, costume, route number or another author’s reading order.",
+        "actual_current_grade": "FRESH_COMPLETE_CONSEQUENTIAL_SEQUENCE_BOUNDED_PHYSICAL_SCOPE",
+        "actual_new_receiving": [
+          {
+            "lines": [
+              59,
+              112
+            ],
+            "chunk_id": "ea31d7"
+          },
+          {
+            "lines": [
+              113,
+              195
+            ],
+            "chunk_id": "5a886e"
+          }
+        ],
+        "operative_scope_qualification": "Current override/routes and complete001–015 work sequence/end; selected094–106 also displayed. No whole268 physical or full38 fresh receiving claim.",
+        "new_primary_native_raw_AV_claim": false,
+        "prior_other_author_scope": "The literal planned other-author navigation stays attributed at the input pointer; it is not this author’s receiving."
+      },
+      {
+        "source_id": "PSE837",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_837/BLUE_ARCHIVE_EVENT_837_CONTEXTUALIZATION_CHECKPOINT.md",
+        "current_copy_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/EXACT_INPUTS/PSE837__BLUE_ARCHIVE_EVENT_837_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 33244,
+          "sha256": "fd5b39e92a8d9c890b4d59ecbacd6f9daf21676bbc4afe89a6c2069f208f32a1",
+          "git_blob_sha1": "233cf823ae17600049b6aa2732063eac67d5feff"
+        },
+        "fixed_input_receipt": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_EXACT_INPUT_BINDINGS_V1.json",
+          "bytes": 112987,
+          "sha256": "d986eb424802f5a2b418fffd8aea87c4ca2a7968e8c0c013bb7bbc5ea64514f9",
+          "git_blob_sha1": "1a2ca2ad10119a0698f57717bf5f181267de0895"
+        },
+        "literal_prior_fields_pointer": "/inputs/9/prior_and_future_scope_literal",
+        "positive_question": "Already established positive PS68 public-event comparison from the frozen Gehenna lane; preserve consequential command/resource/recipient and ordinary-member meanings at actual selected scope.",
+        "original_future_meaning_duty": "Use adequate prior complete accepted analytical meaning truthfully. After allocation, check exact current normal authority and recover a complete consequential endpoint only where a claim exceeds that meaning; no occurrence, school membership or family list alone proves an action. Resolve source-local clients/helpers and adverse ends without guessing new dates.",
+        "class": "Accepted public event contextual argument; underlying event and private comparison remain distinct.",
+        "actor_mode": "Producer field absent; operative written report/dialogue/choice/mode and actor seams remain qualified by the actual current argument.",
+        "read_order": "Producer field absent; operative no FIRST/SECOND or release/variant/global-calendar inference.",
+        "actual_current_grade": "PRIOR_COMPLETE_OWN_NORMAL_ARGUMENT_WITH_COMPLETE_SUBSTANTIVE_CURRENT_REFRESH",
+        "actual_new_receiving": [
+          {
+            "lines": [
+              75,
+              154
+            ],
+            "chunk_id": "1e5d3f"
+          }
+        ],
+        "operative_scope_qualification": "Earlier own whole154; fresh entire current substantive meaning75–154. Comparative recipient test only; no PS68 attendance inferred.",
+        "new_primary_native_raw_AV_claim": false,
+        "prior_other_author_scope": "The literal planned other-author navigation stays attributed at the input pointer; it is not this author’s receiving."
+      },
+      {
+        "source_id": "PSE846",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_846/BLUE_ARCHIVE_EVENT_846_CONTEXTUALIZATION_CHECKPOINT.md",
+        "current_copy_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/EXACT_INPUTS/PSE846__BLUE_ARCHIVE_EVENT_846_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 30830,
+          "sha256": "a07b22b4c67ea06b234544a3d37df611ac007764a290eda707a2350f0a773e67",
+          "git_blob_sha1": "1bf381fd4e2b70e0bd71836859a777610b6fb637"
+        },
+        "fixed_input_receipt": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_EXACT_INPUT_BINDINGS_V1.json",
+          "bytes": 112987,
+          "sha256": "d986eb424802f5a2b418fffd8aea87c4ca2a7968e8c0c013bb7bbc5ea64514f9",
+          "git_blob_sha1": "1a2ca2ad10119a0698f57717bf5f181267de0895"
+        },
+        "literal_prior_fields_pointer": "/inputs/10/prior_and_future_scope_literal",
+        "positive_question": "Already established positive PS68 public-event comparison from the frozen Gehenna lane; preserve consequential command/resource/recipient and ordinary-member meanings at actual selected scope.",
+        "original_future_meaning_duty": "Use adequate prior complete accepted analytical meaning truthfully. After allocation, check exact current normal authority and recover a complete consequential endpoint only where a claim exceeds that meaning; no occurrence, school membership or family list alone proves an action. Resolve source-local clients/helpers and adverse ends without guessing new dates.",
+        "class": "Accepted public event contextual argument; underlying event and private comparison remain distinct.",
+        "actor_mode": "Producer field absent; operative written report/dialogue/choice/mode and actor seams remain qualified by the actual current argument.",
+        "read_order": "Producer field absent; operative no FIRST/SECOND or release/variant/global-calendar inference.",
+        "actual_current_grade": "PRIOR_COMPLETE_OWN_NORMAL_ARGUMENT_WITH_COMPLETE_SUBSTANTIVE_CURRENT_REFRESH",
+        "actual_new_receiving": [
+          {
+            "lines": [
+              63,
+              144
+            ],
+            "chunk_id": "7675af"
+          }
+        ],
+        "operative_scope_qualification": "Earlier own whole144; fresh entire substantive meaning63–144. Comparative delivery/restitution test only; no PS68 appearance.",
+        "new_primary_native_raw_AV_claim": false,
+        "prior_other_author_scope": "The literal planned other-author navigation stays attributed at the input pointer; it is not this author’s receiving."
+      },
+      {
+        "source_id": "PSE856",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_856/BLUE_ARCHIVE_EVENT_856_CONTEXTUALIZATION_CHECKPOINT.md",
+        "current_copy_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/EXACT_INPUTS/PSE856__BLUE_ARCHIVE_EVENT_856_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 39030,
+          "sha256": "5b6357e6048dcccbea2b1de56d19ad34b461ead8581903b4f1f12e233c62c9bf",
+          "git_blob_sha1": "6f11eb7847ab307f2001f2ce783c52db9df3e968"
+        },
+        "fixed_input_receipt": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_EXACT_INPUT_BINDINGS_V1.json",
+          "bytes": 112987,
+          "sha256": "d986eb424802f5a2b418fffd8aea87c4ca2a7968e8c0c013bb7bbc5ea64514f9",
+          "git_blob_sha1": "1a2ca2ad10119a0698f57717bf5f181267de0895"
+        },
+        "literal_prior_fields_pointer": "/inputs/11/prior_and_future_scope_literal",
+        "positive_question": "Already established positive PS68 public-event comparison from the frozen Gehenna lane; preserve consequential command/resource/recipient and ordinary-member meanings at actual selected scope.",
+        "original_future_meaning_duty": "Use adequate prior complete accepted analytical meaning truthfully. After allocation, check exact current normal authority and recover a complete consequential endpoint only where a claim exceeds that meaning; no occurrence, school membership or family list alone proves an action. Resolve source-local clients/helpers and adverse ends without guessing new dates.",
+        "class": "Accepted public event contextual argument; underlying event and private comparison remain distinct.",
+        "actor_mode": "Producer field absent; operative written report/dialogue/choice/mode and actor seams remain qualified by the actual current argument.",
+        "read_order": "Producer field absent; operative no FIRST/SECOND or release/variant/global-calendar inference.",
+        "actual_current_grade": "PRIOR_COMPLETE_OWN_NORMAL_ARGUMENT_WITH_COMPLETE_SUBSTANTIVE_CURRENT_REFRESH",
+        "actual_new_receiving": [
+          {
+            "lines": [
+              67,
+              133
+            ],
+            "chunk_id": "bb65ec"
+          },
+          {
+            "lines": [
+              134,
+              200
+            ],
+            "chunk_id": "011d67"
+          }
+        ],
+        "operative_scope_qualification": "Earlier own whole200; fresh entire substantive meaning67–200. Comparative discretion/food/processing only; no PS68 appearance.",
+        "new_primary_native_raw_AV_claim": false,
+        "prior_other_author_scope": "The literal planned other-author navigation stays attributed at the input pointer; it is not this author’s receiving."
+      },
+      {
+        "source_id": "PSNAV01",
+        "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+        "current_copy_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/EXACT_INPUTS/PSNAV01__BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+          "bytes": 25362,
+          "sha256": "5272f38efcec91af3817c895c191a01d2d1c1d9c04dca5da3c304685cb593843",
+          "git_blob_sha1": "17e378db57541ef25cb16e08f9a4db4e4111bc51"
+        },
+        "fixed_input_receipt": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_EXACT_INPUT_BINDINGS_V1.json",
+          "bytes": 112987,
+          "sha256": "d986eb424802f5a2b418fffd8aea87c4ca2a7968e8c0c013bb7bbc5ea64514f9",
+          "git_blob_sha1": "1a2ca2ad10119a0698f57717bf5f181267de0895"
+        },
+        "literal_prior_fields_pointer": "/inputs/12/prior_and_future_scope_literal",
+        "positive_question": "PS68 peer-public contrast in GROUP1901–1902",
+        "original_future_meaning_duty": "Retain the prior complete154-line accepted peer argument as a distinct source-local public test. Current roles, recipient limits and endpoints must be read from actual adequate meaning, not an organizational affiliation inferred from a group title.",
+        "class": "Maintained public/peer analytical normal argument, distinct from underlying primary and performed evidence.",
+        "actor_mode": "Preserve literal actor/choice/report/thought and recipient boundaries; presence does not entail own action or transferred knowledge.",
+        "read_order": "No shared MAIN/event/GROUP/private chronology is inferred from release, costume, route number or another author’s reading order.",
+        "actual_current_grade": "PRIOR_COMPLETE_OWN_NORMAL_ARGUMENT_WITH_CONSEQUENTIAL_CURRENT_REFRESH",
+        "actual_new_receiving": [
+          {
+            "lines": [
+              1,
+              36
+            ],
+            "chunk_id": "3d0dbe"
+          },
+          {
+            "lines": [
+              49,
+              87
+            ],
+            "chunk_id": "0df144"
+          },
+          {
+            "lines": [
+              88,
+              99
+            ],
+            "chunk_id": "3d3bf0"
+          }
+        ],
+        "operative_scope_qualification": "Earlier own whole154 literal declaration; fresh mode/report qualification and entire PS68 failed-business report. Not every PS68 member physically at meeting.",
+        "new_primary_native_raw_AV_claim": false,
+        "prior_other_author_scope": "The literal planned other-author navigation stays attributed at the input pointer; it is not this author’s receiving."
+      },
+      {
+        "source_id": "PS07",
+        "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2201_DEEP_READING.md",
+        "current_copy_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/EXACT_INPUTS/PS07__BLUE_ARCHIVE_GROUP_2201_DEEP_READING.md",
+          "bytes": 20604,
+          "sha256": "54bfc7a4c14e258acdfe36e28b5be1b845ad3347a2748f2bf3a0f95da5d69e43",
+          "git_blob_sha1": "07fa89af78ca48473df3f8daaf72052003b93aaa"
+        },
+        "fixed_input_receipt": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_EXACT_INPUT_BINDINGS_V1.json",
+          "bytes": 112987,
+          "sha256": "d986eb424802f5a2b418fffd8aea87c4ca2a7968e8c0c013bb7bbc5ea64514f9",
+          "git_blob_sha1": "1a2ca2ad10119a0698f57717bf5f181267de0895"
+        },
+        "literal_prior_fields_pointer": "/inputs/13/prior_and_future_scope_literal",
+        "positive_question": "GROUP2201 explicit command, rejected membership sale and actual retaliation",
+        "original_future_meaning_duty": "Mandatory contrary endpoint: distinguish reported resources, rejected offer, deliberate command/compliance, reluctant caution and unknown harm or legal result. A correct suspicion does not establish justified punishment.",
+        "class": "accepted public/peer analytical argument; GROUP, MINI and MAIN remain labelled",
+        "actor_mode": "Printed speaker/choice/narration/inward/reported and unknown assignments remain distinct; no silent raw actor repair.",
+        "read_order": "No independent first/second exposure or chronology by variant, release, receipt order or comparative placement.",
+        "actual_current_grade": "PRIOR_COMPLETE_OWN_NORMAL_ARGUMENT_WITH_CONSEQUENTIAL_CURRENT_REFRESH",
+        "actual_new_receiving": [
+          {
+            "lines": [
+              55,
+              112
+            ],
+            "chunk_id": "72933b"
+          }
+        ],
+        "operative_scope_qualification": "Earlier own whole137 maintained argument as exact frozen plan declaration; fresh complete scene argument and actor/mode controls55–112. No new primary.",
+        "new_primary_native_raw_AV_claim": false,
+        "prior_other_author_scope": "The literal planned other-author navigation stays attributed at the input pointer; it is not this author’s receiving."
+      },
+      {
+        "source_id": "PSMAIN",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "current_copy_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/EXACT_INPUTS/PSMAIN__BLUE_ARCHIVE_MAIN_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 64540,
+          "sha256": "9745010e16ef2e7bc09b11eab784f9bf5771fe0a7e6ef48bfb3af763be7f156e",
+          "git_blob_sha1": "edf78e92072c46e72147e27c2f2c6b98ae3c521a"
+        },
+        "fixed_input_receipt": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_EXACT_INPUT_BINDINGS_V1.json",
+          "bytes": 112987,
+          "sha256": "d986eb424802f5a2b418fffd8aea87c4ca2a7968e8c0c013bb7bbc5ea64514f9",
+          "git_blob_sha1": "1a2ca2ad10119a0698f57717bf5f181267de0895"
+        },
+        "literal_prior_fields_pointer": "/inputs/14/prior_and_future_scope_literal",
+        "positive_question": "Original duty explicitly distinguishes MAIN post hoc ratification from GROUP2201 deliberately commanded retaliation.",
+        "original_future_meaning_duty": "After positive allocation, receive the complete current maintained MAIN V001 normal comparison and any necessary complete consequential normal endpoint. Establish actual command/knowledge/ratification, affected recipients and ending from the argument; do not guess chapter/episode locators or infer intent from co-presence.",
+        "class": "Maintained MAIN contextual argument; not primary replay or performed delivery.",
+        "actor_mode": "Producer field absent; operative written report/dialogue/choice/mode and actor seams remain qualified by the actual current argument.",
+        "read_order": "Producer field absent; operative no FIRST/SECOND or release/variant/global-calendar inference.",
+        "actual_current_grade": "FRESH_WHOLE_CURRENT_MAINTAINED_ARGUMENT",
+        "actual_new_receiving": [
+          {
+            "lines": [
+              1,
+              100
+            ],
+            "chunk_id": "c54ffc"
+          },
+          {
+            "lines": [
+              101,
+              205
+            ],
+            "chunk_id": "cfd600"
+          },
+          {
+            "lines": [
+              206,
+              265
+            ],
+            "chunk_id": "014f7c"
+          },
+          {
+            "lines": [
+              266,
+              285
+            ],
+            "chunk_id": "62fea3"
+          },
+          {
+            "lines": [
+              286,
+              349
+            ],
+            "chunk_id": "cecf9e"
+          }
+        ],
+        "operative_scope_qualification": "Complete349 physical lines. Earlier composite cf0cc2 was clipped; its missing portion is not credited; actual current two repairs govern.",
+        "new_primary_native_raw_AV_claim": false,
+        "prior_other_author_scope": "The literal planned other-author navigation stays attributed at the input pointer; it is not this author’s receiving."
+      },
+      {
+        "source_id": "PSNAV07",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E009_DEEP_READING.md",
+        "current_copy_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/EXACT_INPUTS/PSNAV07__BLUE_ARCHIVE_MAIN_V100_C003_E009_DEEP_READING.md",
+          "bytes": 6482,
+          "sha256": "d7001f494be7b1585b6bef91a6d5e5c84df1dff11465662263e5c406249371cd",
+          "git_blob_sha1": "d38896b7f4c2f4930942802901706054aa8e9947"
+        },
+        "fixed_input_receipt": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_EXACT_INPUT_BINDINGS_V1.json",
+          "bytes": 112987,
+          "sha256": "d986eb424802f5a2b418fffd8aea87c4ca2a7968e8c0c013bb7bbc5ea64514f9",
+          "git_blob_sha1": "1a2ca2ad10119a0698f57717bf5f181267de0895"
+        },
+        "literal_prior_fields_pointer": "/inputs/15/prior_and_future_scope_literal",
+        "positive_question": "Mutsuki and Haruka’s actual shared Final endpoint",
+        "original_future_meaning_duty": "After allocation receive the complete current39-line accepted normal argument if needed. Distinct persons and directions remain distinct even when the same owner supports both; no duplicate source credit or completed Haruka directed home follows.",
+        "class": "Maintained public/peer analytical normal argument, distinct from underlying primary and performed evidence.",
+        "actor_mode": "Preserve literal actor/choice/report/thought and recipient boundaries; presence does not entail own action or transferred knowledge.",
+        "read_order": "No shared MAIN/event/GROUP/private chronology is inferred from release, costume, route number or another author’s reading order.",
+        "actual_current_grade": "FRESH_WHOLE_CURRENT_SMALL_NORMAL_ARGUMENT",
+        "actual_new_receiving": [
+          {
+            "lines": [
+              1,
+              39
+            ],
+            "chunk_id": "4d5103"
+          }
+        ],
+        "operative_scope_qualification": "Complete sendoff/readiness; ramen-after-return remains requested, not narrated meal.",
+        "new_primary_native_raw_AV_claim": false,
+        "prior_other_author_scope": "The literal planned other-author navigation stays attributed at the input pointer; it is not this author’s receiving."
+      },
+      {
+        "source_id": "PSNAV03",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E002_DEEP_READING.md",
+        "current_copy_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/EXACT_INPUTS/PSNAV03__BLUE_ARCHIVE_MAIN_V100_C004_E002_DEEP_READING.md",
+          "bytes": 5605,
+          "sha256": "59978e87fce22d33108f7044976f295fe7ae9e7dc628d9677c3dcb8cea3175dd",
+          "git_blob_sha1": "2a690d2e73c09e1aaf2e60bbfcc62ae2da064615"
+        },
+        "fixed_input_receipt": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_EXACT_INPUT_BINDINGS_V1.json",
+          "bytes": 112987,
+          "sha256": "d986eb424802f5a2b418fffd8aea87c4ca2a7968e8c0c013bb7bbc5ea64514f9",
+          "git_blob_sha1": "1a2ca2ad10119a0698f57717bf5f181267de0895"
+        },
+        "literal_prior_fields_pointer": "/inputs/16/prior_and_future_scope_literal",
+        "positive_question": "Aru’s actual Final public endpoint",
+        "original_future_meaning_duty": "After allocation receive the complete current38-line accepted normal argument if not already adequately personally received; keep the actual actor, knowledge, response and finite ending rather than inferring institutional absolution or a resolved resource outcome.",
+        "class": "Maintained public/peer analytical normal argument, distinct from underlying primary and performed evidence.",
+        "actor_mode": "Preserve literal actor/choice/report/thought and recipient boundaries; presence does not entail own action or transferred knowledge.",
+        "read_order": "No shared MAIN/event/GROUP/private chronology is inferred from release, costume, route number or another author’s reading order.",
+        "actual_current_grade": "FRESH_WHOLE_CURRENT_SMALL_NORMAL_ARGUMENT",
+        "actual_new_receiving": [
+          {
+            "lines": [
+              1,
+              38
+            ],
+            "chunk_id": "62b5bc"
+          }
+        ],
+        "operative_scope_qualification": "Complete ground-response/temporary-hold argument; no completed defense inferred.",
+        "new_primary_native_raw_AV_claim": false,
+        "prior_other_author_scope": "The literal planned other-author navigation stays attributed at the input pointer; it is not this author’s receiving."
+      },
+      {
+        "source_id": "PSNAV08",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E004_DEEP_READING.md",
+        "current_copy_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/EXACT_INPUTS/PSNAV08__BLUE_ARCHIVE_MAIN_V100_C004_E004_DEEP_READING.md",
+          "bytes": 4196,
+          "sha256": "2c10837e9f8d228ccbc5dd10e2c5d872a25b700dd540d966769f49d6602b1238",
+          "git_blob_sha1": "db77f3d5f86901a23dba1c1b534fe62e47c865fa"
+        },
+        "fixed_input_receipt": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_EXACT_INPUT_BINDINGS_V1.json",
+          "bytes": 112987,
+          "sha256": "d986eb424802f5a2b418fffd8aea87c4ca2a7968e8c0c013bb7bbc5ea64514f9",
+          "git_blob_sha1": "1a2ca2ad10119a0698f57717bf5f181267de0895"
+        },
+        "literal_prior_fields_pointer": "/inputs/17/prior_and_future_scope_literal",
+        "positive_question": "Kayoko’s actual Final public endpoint",
+        "original_future_meaning_duty": "After allocation receive the complete current34-line accepted normal argument if needed. Retain source-local actor/response/unfinished result; do not transfer Kayoko’s unpublished thoughts, private competence or another person’s knowledge into a public command claim.",
+        "class": "Maintained public/peer analytical normal argument, distinct from underlying primary and performed evidence.",
+        "actor_mode": "Preserve literal actor/choice/report/thought and recipient boundaries; presence does not entail own action or transferred knowledge.",
+        "read_order": "No shared MAIN/event/GROUP/private chronology is inferred from release, costume, route number or another author’s reading order.",
+        "actual_current_grade": "FRESH_WHOLE_CURRENT_SMALL_NORMAL_ARGUMENT",
+        "actual_new_receiving": [
+          {
+            "lines": [
+              1,
+              34
+            ],
+            "chunk_id": "8c7ebd"
+          }
+        ],
+        "operative_scope_qualification": "Complete local terminal-cut success; no total Ark rescue.",
+        "new_primary_native_raw_AV_claim": false,
+        "prior_other_author_scope": "The literal planned other-author navigation stays attributed at the input pointer; it is not this author’s receiving."
+      },
+      {
+        "source_id": "PS08",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "current_copy_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/EXACT_INPUTS/PS08__BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 93829,
+          "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+          "git_blob_sha1": "512a08b30bfa91dee27087fd743809dc8aa30b98"
+        },
+        "fixed_input_receipt": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_EXACT_INPUT_BINDINGS_V1.json",
+          "bytes": 112987,
+          "sha256": "d986eb424802f5a2b418fffd8aea87c4ca2a7968e8c0c013bb7bbc5ea64514f9",
+          "git_blob_sha1": "1a2ca2ad10119a0698f57717bf5f181267de0895"
+        },
+        "literal_prior_fields_pointer": "/inputs/18/prior_and_future_scope_literal",
+        "positive_question": "Complete MINI130 belonging, protective surrender/rescue and finite dinner; MINI150 office/report/privacy contrast",
+        "original_future_meaning_duty": "Require the complete MINI130 connected analytical meaning and ending, retaining injury/restitution unknowns, enough repayment, wanted company and actual meal. MINI150 supplies only source-local rent/registration/desk/address/taste reports and choices, not a corporate certificate or the Kayoko–Ako home’s proxy completion.",
+        "class": "accepted public/peer analytical argument; GROUP, MINI and MAIN remain labelled",
+        "actor_mode": "Printed speaker/choice/narration/inward/reported and unknown assignments remain distinct; no silent raw actor repair.",
+        "read_order": "No independent first/second exposure or chronology by variant, release, receipt order or comparative placement.",
+        "actual_current_grade": "PRIOR_COMPLETE_OWN_NORMAL_ARGUMENT_WITH_COMPLETE_CONNECTED_CURRENT_REFRESH",
+        "actual_new_receiving": [
+          {
+            "lines": [
+              205,
+              243
+            ],
+            "chunk_id": "4ac581"
+          }
+        ],
+        "operative_scope_qualification": "Earlier own whole344 via Yuuka/Gehenna, prior Kayoko d32980§12–14; fresh205–243 includes completeMINI130/150 meanings and ending. Not fresh whole344 or32 primary.",
+        "new_primary_native_raw_AV_claim": false,
+        "prior_other_author_scope": "The literal planned other-author navigation stays attributed at the input pointer; it is not this author’s receiving."
+      }
+    ],
+    "source_count": 19,
+    "prior_metadata_inverse": "Every original planned field reconstructs by resolving the stated JSON pointer in the exact immutable input receipt. No historical field rewritten.",
+    "scope_boundary": "Written maintained literary arguments only; no protected H, primary/raw/native/AV, UNBOUND9, unpublished39, R/Git/provider writes.",
+    "models_admissions_identity_denominator_package_acceptance": 0
+  },
+  "historical_payload_qualification": "Every dated pending/local/source114/7a/source120/source125-chain-pending/count/custody and relative-navigation field preserves creation-time meaning. Full original C bytes and literal/body inverses survive. Current ROOT acceptance is separately bound; mechanical transport supplies no new author, source, independent, primary/native/raw/QA/AV, model or scope credit. Original hashes bind originals rather than their public derivatives.",
+  "original_relative_navigation_boundary": "Historical payload hrefs retain their original document coordinates; explicit canonical body translations and public attachment descriptors supply current navigation. Historical relative literals are not fresh live-source reading.",
+  "assembler_receiving_credit": {
+    "new_primary_native_raw_QA_AV_model_identity": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "complete_author_attachment_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PS68_INSTITUTION_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 749139,
+      "sha256": "b8d2a73793f1edca82543bfa715753037667fa3062ffc227db83a8ab91b6a39d",
+      "git_blob_oid_of_actual_bytes": "11947750e07851c2befb3bee2ffe8f2f248f0379",
+      "attachment_names": [
+        "PS68_BODY_INITIAL_PRE_LINK_NORMALIZATION_V0.md",
+        "PS68_INSTITUTION_AUTHOR_COMPLETE_RECEIVING_AND_SELF_REVIEW_V1.json",
+        "PS68_INSTITUTION_CLAIM_TO_SOURCE_AND_SAVED_PARAGRAPH_REGISTER_V1.json",
+        "PS68_INSTITUTION_EXACT_INPUT_BINDINGS_V1.json",
+        "PS68_INSTITUTION_EXACT_SOURCE_WARRANT_SPANS_V1.json",
+        "PS68_INSTITUTION_FINAL_PRESEAL_FINITE_VERIFICATION_V1.json",
+        "PS68_INSTITUTION_FULL_SAVED_BODY_LINE_INVERSE_V1.json",
+        "PS68_INSTITUTION_INITIAL_FINITE_SELF_VERIFICATION_V1.json"
+      ]
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PS68_INSTITUTION_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "bytes": 41542,
+      "sha256": "c5abd395b7e23266a4f0b22a0e56627b910bd4a49ef960628250cc8a06a92ee7",
+      "git_blob_oid_of_actual_bytes": "b7cd4579c2fdcf7b40d216252660df21e6aae2cc",
+      "attachment_names": [
+        "PS68_INSTITUTION_ROOT_RECEIVING_GUIDE_V1.md",
+        "PS68_PRESEAL_REFERENCE_NORMALIZATION_FULL_INVERSE_V1.json",
+        "MANDATORY_COMPLETE_AUTHOR_MANIFEST"
+      ]
+    }
+  ],
+  "complete_frozen_manifest": {
+    "schema": "PS68_INSTITUTION_FINAL_AUTHOR_FREEZE_V1",
+    "status": "IMMUTABLE_AUTHOR_DELIVERY_ROOT_REVIEW_PENDING",
+    "created_UTC": "2026-10-11T00:54:28.921474+00:00",
+    "manifest": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_DELIVERY_MANIFEST_V1.json",
+      "bytes": 30534,
+      "sha256": "5a627312a3fa5d6c19d485fce019e7c4d155cdd42421b337f6e412a1458c3191",
+      "git_blob_sha1": "760243b47de235db93fbe1616ee4406932d1ede9"
+    },
+    "body": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/BLUE_ARCHIVE_PS68_COMMAND_FINANCE_INSTITUTION_SYNTHESIS.md",
+      "bytes": 43579,
+      "sha256": "41db704792300fe5baee8695513b59d050269c31169fe457ce141ed04de59423",
+      "git_blob_sha1": "0b7a53d9e02afaeb8294a5abdf6c81957ad9ebc7"
+    },
+    "owned_files_manifest_bound": 43,
+    "dependencies": 25,
+    "file_tuple_digest_sha256": "2269ccec4f65df0b9e7f3178f6ab9db156a61ee752afee9f54dd83bc8c2647df",
+    "actual_author_record_read": "a3478a",
+    "actual_guide_read": "617515",
+    "actual_finite_proof_read": "63397d",
+    "saved_body_receiving": [
+      "43b76a",
+      "c92424",
+      "56f46f"
+    ],
+    "source_grade_receiving": [
+      "b0e60b",
+      "0584b5",
+      "dbbb4e",
+      "b0b470",
+      "43c316"
+    ],
+    "claim_association_receiving": [
+      "92b0cf",
+      "5163b1",
+      "79dfcd"
+    ],
+    "ROOT_acceptance": "PENDING",
+    "new_source_model_scope_denominator_ordinal_or_completion_credit": 0,
+    "invariant": "No author-delivery file may be changed after this seal; any concrete repair requires a separately bound successor."
+  },
+  "original_frozen_manifest_exact_tuple": {
+    "path": "PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_FINAL_FREEZE_V1.json",
+    "bytes": 1758,
+    "sha256": "b2f086c52098d2f12cea932d4f1cfd5038ee0f3230c45b369b11785b3d8e94f8",
+    "git_blob_oid_of_actual_bytes": "ad93dc7214c4d63eba8ad09f5ddd3e746ca041f0",
+    "immutable_transport_path": "immutable_originals/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/PS68_INSTITUTION_FINAL_FREEZE_V1.json"
+  },
+  "original_body_exact_tuple": {
+    "path": "PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/BLUE_ARCHIVE_PS68_COMMAND_FINANCE_INSTITUTION_SYNTHESIS.md",
+    "bytes": 43579,
+    "sha256": "41db704792300fe5baee8695513b59d050269c31169fe457ce141ed04de59423",
+    "git_blob_oid_of_actual_bytes": "0b7a53d9e02afaeb8294a5abdf6c81957ad9ebc7",
+    "immutable_transport_path": "immutable_originals/PS68_INSTITUTION_AND_BELONGING_SYNTHESIS/BLUE_ARCHIVE_PS68_COMMAND_FINANCE_INSTITUTION_SYNTHESIS.md"
+  },
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PS68_COMMAND_FINANCE_INSTITUTION_SYNTHESIS.md",
+    "bytes": 46544,
+    "sha256": "def0590d78ff8ab62519b7710e4abe95064f3569445bdb49a7ecbb4f4e852a80",
+    "git_blob_oid_of_actual_bytes": "01552450d982694fa73b5538217baee0bc0d3bce"
+  },
+  "canonical_link_translations": [],
+  "mandatory_operative_qualification": "All242 literary lines and the independently substantial belonging section retain all four wishes, objections, unequal costs and wanted company alongside command, contracts, resources and public responsibility. The exact43-file author manifest and25 explicit dependencies remain preserved, including complete body/claim/source/receiving inverses. Nineteen normal-source grades and54 claims/80 spans retain actual own receiving versus attributed prior custody; no fresh whole-source or primary credit arises from tuple transport. Belonging is a non-denominator substantial section within one institution parent. Haruka/Aru/Mutsuki directions, Kayoko–Ako and individual portraits remain separately required."
+}

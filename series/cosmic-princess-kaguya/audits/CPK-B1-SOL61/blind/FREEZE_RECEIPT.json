@@ -1,0 +1,12 @@
+{
+  "frozen_at_utc": "2026-11-12T05:11:59.269628+00:00",
+  "manifest_bytes": 1772,
+  "manifest_sha256": "19b5c74de3ad47317d2de11f50f798fa6d25965cc79426835b7980ca54bd184a",
+  "content_tree_sha256": "a60c3890bb150fa15a32347a579c084eddf03654436985ca1509c16bd452cff0",
+  "response": {
+    "path": "audits/CPK_F01_BLIND_OBSERVATIONS.md",
+    "bytes": 39179,
+    "sha256": "859ab1a0b5c6004fdafaff44d5c2d8bbe1c98517c5dea3f6b1079b09b90cbebe"
+  },
+  "git_commit": null
+}

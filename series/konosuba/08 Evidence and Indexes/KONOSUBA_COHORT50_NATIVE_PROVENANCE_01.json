@@ -1,0 +1,454 @@
+{
+  "schema": "konosuba.cohort50.native-provenance.v1",
+  "authored_utc": "2026-10-25T18:10:51.744169+00:00",
+  "source_authority": "User-selected local copies of the fixed admitted corpus. No source media or raw extracted primary text is published.",
+  "primary_language": "Japanese",
+  "inspection_lanes": [
+    "TEXT",
+    "STILL_IMAGE"
+  ],
+  "text_capability": "VERIFIED_BY_ACTUAL_COMPLETE_BOUNDED_DELIVERIES",
+  "image_capability": "VERIFIED_BY_ACTUAL_ORIGINAL_DETAIL_FOUR_TEXT_IMAGE_INSPECTION",
+  "source_bindings": [
+    {
+      "source_id": "CONTEXP-01",
+      "bytes": 18609246,
+      "sha256": "60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 30,
+      "zip_crc": "PASS",
+      "semantic_inspection": "NOT_PERFORMED_BY_THIS_CHECK",
+      "fresh_OPF_sha256": "7f86008bc3d9abe39c5da9924c7f8d0608b86985c19b43ce412fa56ee9b5b38f",
+      "filename": "Konosuba - Spin-off - Continued Explosions - Volume 01.epub"
+    },
+    {
+      "source_id": "MAIN-08",
+      "bytes": 2964798,
+      "sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "opf": "content.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 26,
+      "zip_crc": "PASS",
+      "semantic_inspection": "NOT_PERFORMED_BY_THIS_CHECK",
+      "fresh_OPF_sha256": "6f9d657d375cabfeb72f84b6ad58df4afec75169ce44f847b352ba7bfcf176cc",
+      "filename": "Konosuba - Main Series - Volume 08.epub"
+    },
+    {
+      "source_id": "EXP-01",
+      "bytes": 19168549,
+      "sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 53,
+      "zip_crc": "PASS",
+      "semantic_inspection": "NOT_PERFORMED_BY_THIS_CHECK",
+      "fresh_OPF_sha256": "2ced4b33bbfbce91e8a83c5a4cabf819168ed6fe645d5f089b50a27aafc7d954",
+      "filename": "Konosuba - Spin-off - Explosions - Volume 01.epub"
+    },
+    {
+      "source_id": "EXP-02",
+      "bytes": 13672536,
+      "sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 57,
+      "zip_crc": "PASS",
+      "semantic_inspection": "NOT_PERFORMED_BY_THIS_CHECK",
+      "fresh_OPF_sha256": "8b9c2234be2b37e1cae09b1b272f3326274fc3352268634677b2b9b341e6ae32",
+      "filename": "Konosuba - Spin-off - Explosions - Volume 02.epub"
+    },
+    {
+      "source_id": "MAIN-11",
+      "bytes": 6177663,
+      "sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 24,
+      "zip_crc": "PASS",
+      "semantic_inspection": "NOT_PERFORMED_BY_THIS_CHECK",
+      "fresh_OPF_sha256": "69d48ebec4d1989e6aaf34d304d7bd5d8c162f3223faad041adb67cf104ed64d",
+      "filename": "Konosuba - Main Series - Volume 11.epub"
+    },
+    {
+      "source_id": "MAIN-14",
+      "bytes": 2839172,
+      "sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "opf": "OEBPS/content.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 26,
+      "zip_crc": "PASS",
+      "semantic_inspection": "NOT_PERFORMED_BY_THIS_CHECK",
+      "fresh_OPF_sha256": "7b5f993097093ad771fa7aefc4f6bb3185b52c4c722d0f4632635c2a26d34e37",
+      "filename": "Konosuba - Main Series - Volume 14.epub"
+    },
+    {
+      "source_id": "MAIN-17",
+      "bytes": 2197695,
+      "sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+      "opf": "content.opf",
+      "fresh_OPF_sha256": "bcb1fa6a6479b790f3edea18a9d00ed3fff6fcf4c16bfc2d6e9cb9dc02ad4d7c",
+      "known_source": true,
+      "filename": "Konosuba - Main Series - Volume 17.epub"
+    }
+  ],
+  "actual_text_units": [
+    {
+      "source_id": "CONTEXP-01",
+      "component_id": "CONTEXP-01-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "fddde7e2b79954035eb31215c302cf1e38c851ef5156117f530fc308557d7984",
+      "current_ranges": [
+        [
+          210,
+          345
+        ]
+      ],
+      "paragraph_slots": 497,
+      "planned_unique_P": 136,
+      "planned_ruby": 121,
+      "complete_paragraph_ruby_member": false
+    },
+    {
+      "source_id": "MAIN-08",
+      "component_id": "MAIN-08-U014",
+      "member": "text/part0012.html",
+      "member_sha256": "85f37b44972ef42c48be09c971b6a7534911e8f3820e33e0544a642b7312166c",
+      "current_ranges": [
+        [
+          340,
+          480
+        ]
+      ],
+      "paragraph_slots": 673,
+      "planned_unique_P": 141,
+      "planned_ruby": 124,
+      "complete_paragraph_ruby_member": false
+    },
+    {
+      "source_id": "EXP-01",
+      "component_id": "EXP-01-U018",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+      "current_ranges": [
+        [
+          1,
+          25
+        ],
+        [
+          225,
+          325
+        ]
+      ],
+      "paragraph_slots": 614,
+      "planned_unique_P": 126,
+      "planned_ruby": 124,
+      "complete_paragraph_ruby_member": false
+    },
+    {
+      "source_id": "EXP-01",
+      "component_id": "EXP-01-U023",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+      "current_ranges": [
+        [
+          1,
+          58
+        ]
+      ],
+      "paragraph_slots": 703,
+      "planned_unique_P": 58,
+      "planned_ruby": 41,
+      "complete_paragraph_ruby_member": false
+    },
+    {
+      "source_id": "EXP-01",
+      "component_id": "EXP-01-U034",
+      "member": "item/xhtml/p-024.xhtml",
+      "member_sha256": "3f41c401eed63de1de9dcb486461831e3caa77dccf0eafdb7451107600d984fd",
+      "current_ranges": [
+        [
+          85,
+          120
+        ]
+      ],
+      "paragraph_slots": 179,
+      "planned_unique_P": 36,
+      "planned_ruby": 23,
+      "complete_paragraph_ruby_member": false
+    },
+    {
+      "source_id": "EXP-01",
+      "component_id": "EXP-01-U037",
+      "member": "item/xhtml/p-027.xhtml",
+      "member_sha256": "60647d2820d49b2b7ac5570c5013f18e6ab080aaa434672a2ab59421a58532da",
+      "current_ranges": [
+        [
+          85,
+          180
+        ]
+      ],
+      "paragraph_slots": 427,
+      "planned_unique_P": 96,
+      "planned_ruby": 74,
+      "complete_paragraph_ruby_member": false
+    },
+    {
+      "source_id": "EXP-02",
+      "component_id": "EXP-02-U023",
+      "member": "item/xhtml/p-014.xhtml",
+      "member_sha256": "7815e5bd9b505481befbb570e409ce2180d48afe638c2c7b2fcc813235c8b014",
+      "current_ranges": [
+        [
+          380,
+          490
+        ]
+      ],
+      "paragraph_slots": 702,
+      "planned_unique_P": 111,
+      "planned_ruby": 61,
+      "complete_paragraph_ruby_member": false
+    },
+    {
+      "source_id": "EXP-02",
+      "component_id": "EXP-02-U029",
+      "member": "item/xhtml/p-020.xhtml",
+      "member_sha256": "417d1d458cc45fa61582ea36ccfdbfb506bb5e6afc9a16983089d3538035def5",
+      "current_ranges": [
+        [
+          1,
+          373
+        ]
+      ],
+      "paragraph_slots": 373,
+      "planned_unique_P": 373,
+      "planned_ruby": 277,
+      "complete_paragraph_ruby_member": true
+    },
+    {
+      "source_id": "EXP-02",
+      "component_id": "EXP-02-U038",
+      "member": "item/xhtml/p-029.xhtml",
+      "member_sha256": "0913fc720e19e3e0acf3c75c76bc06d2b2bacfc48a83c43361e5496dc47aabb2",
+      "current_ranges": [
+        [
+          40,
+          120
+        ]
+      ],
+      "paragraph_slots": 534,
+      "planned_unique_P": 81,
+      "planned_ruby": 55,
+      "complete_paragraph_ruby_member": false
+    },
+    {
+      "source_id": "MAIN-11",
+      "component_id": "MAIN-11-U012",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "402519269fae35532674fbb60f7fdb8b42df28e725a4b27c30639aafcfdd971f",
+      "current_ranges": [
+        [
+          130,
+          260
+        ]
+      ],
+      "paragraph_slots": 633,
+      "planned_unique_P": 131,
+      "planned_ruby": 130,
+      "complete_paragraph_ruby_member": false
+    },
+    {
+      "source_id": "MAIN-14",
+      "component_id": "MAIN-14-U012",
+      "member": "OEBPS/Text/part0010.xhtml",
+      "member_sha256": "10ed143a5cf74a48533cc4d858b92143cdc2464a197dff54189122b7ebc6119c",
+      "current_ranges": [
+        [
+          315,
+          418
+        ]
+      ],
+      "paragraph_slots": 418,
+      "planned_unique_P": 104,
+      "planned_ruby": 74,
+      "complete_paragraph_ruby_member": false
+    },
+    {
+      "source_id": "MAIN-17",
+      "component_id": "MAIN-17-U012",
+      "member": "text/part0010.html",
+      "member_sha256": "beb44a5a379c32617f442231d29760eafd4897fc2e1b29ee6847390d1cb73118",
+      "current_ranges": [
+        [
+          28,
+          66
+        ],
+        [
+          111,
+          246
+        ],
+        [
+          251,
+          453
+        ]
+      ],
+      "planned_unique_current_P": 378,
+      "planned_ruby": 364
+    },
+    {
+      "source_id": "MAIN-17",
+      "component_id": "MAIN-17-U013",
+      "member": "text/part0011.html",
+      "member_sha256": "bc9d7f4f238f0c0d8512bb29dc071d3f24ddcf7bb0c6e9cf7891ea66ad8e310e",
+      "current_ranges": [
+        [
+          115,
+          220
+        ],
+        [
+          430,
+          455
+        ],
+        [
+          510,
+          522
+        ]
+      ],
+      "planned_unique_current_P": 145,
+      "planned_ruby": 131
+    },
+    {
+      "source_id": "MAIN-17",
+      "component_id": "MAIN-17-U014",
+      "member": "text/part0012.html",
+      "member_sha256": "43b8bcea92d4723fb7ea62d3d84cb6e2e862c0ac9c3c596c088d455a741e6b84",
+      "current_ranges": [
+        [
+          660,
+          670
+        ],
+        [
+          705,
+          783
+        ]
+      ],
+      "planned_unique_current_P": 90,
+      "planned_ruby": 59
+    },
+    {
+      "source_id": "MAIN-17",
+      "component_id": "MAIN-17-U016",
+      "member": "text/part0014.html",
+      "member_sha256": "0e6c75df4820ebbb68b8b42bb6e6348d17c9d41e2558c13c752f67b942bbe846",
+      "current_ranges": [
+        [
+          8,
+          27
+        ]
+      ],
+      "planned_unique_current_P": 20,
+      "planned_ruby": 49
+    }
+  ],
+  "actual_images": [
+    {
+      "bytes": 288114,
+      "sha256": "3cb93ad7330c2fc82451bbb251d412c9e5c8a58ab64dc69c6a21e6ec5ba204f5",
+      "source_id": "EXP-02",
+      "component_id": "EXP-02-U024",
+      "spine_member": "item/xhtml/p-015.xhtml",
+      "spine_member_sha256": "08d02866ebe84855c684b01b91981344cb3066d1cac09738dcf04018a24294fb",
+      "native_image_member": "item/image/img-txt005.jpg",
+      "native_image_sha256": "3cb93ad7330c2fc82451bbb251d412c9e5c8a58ab64dc69c6a21e6ec5ba204f5",
+      "byte_identical_source_copy": true
+    },
+    {
+      "bytes": 326621,
+      "sha256": "8460a8bf0b9b14fdb680cb5d3b59b6cd2d39348097f362822b063ee58b0b50e7",
+      "source_id": "EXP-02",
+      "component_id": "EXP-02-U025",
+      "spine_member": "item/xhtml/p-016.xhtml",
+      "spine_member_sha256": "eea83ace8bacc1abf7dba779c4073a8f3389325bf325ca5ccc3254ca3b34d790",
+      "native_image_member": "item/image/img-txt006.jpg",
+      "native_image_sha256": "8460a8bf0b9b14fdb680cb5d3b59b6cd2d39348097f362822b063ee58b0b50e7",
+      "byte_identical_source_copy": true
+    },
+    {
+      "bytes": 350732,
+      "sha256": "e79a4ab3e5d33a1e90383c7b56ee96326cd8a33ef16a4c5bf2e87669c9950660",
+      "source_id": "EXP-02",
+      "component_id": "EXP-02-U026",
+      "spine_member": "item/xhtml/p-017.xhtml",
+      "spine_member_sha256": "4ca510fc40d258ac6ef212a0b277f35ec92d1e6bfceb0d0fb994aea88b0f4826",
+      "native_image_member": "item/image/img-txt007.jpg",
+      "native_image_sha256": "e79a4ab3e5d33a1e90383c7b56ee96326cd8a33ef16a4c5bf2e87669c9950660",
+      "byte_identical_source_copy": true
+    },
+    {
+      "bytes": 325596,
+      "sha256": "42cf2dda9cd0ae6e34ad20ac80abe3beb448da775aefe6f0d1718afff3d8c1f9",
+      "source_id": "EXP-02",
+      "component_id": "EXP-02-U027",
+      "spine_member": "item/xhtml/p-018.xhtml",
+      "spine_member_sha256": "ebdb6d42c2300cec495afddab1f536b691f054d0542610fcaf8a2c073c0edfd6",
+      "native_image_member": "item/image/img-txt008.jpg",
+      "native_image_sha256": "42cf2dda9cd0ae6e34ad20ac80abe3beb448da775aefe6f0d1718afff3d8c1f9",
+      "byte_identical_source_copy": true
+    }
+  ],
+  "actual_receiving": {
+    "unique_current_structural_P": 2026,
+    "ruby_occurrences": 1707,
+    "text_members": 15,
+    "known_EPUBs": 7,
+    "complete_current_paragraph_ruby_members": [
+      "EXP-02-U029"
+    ],
+    "image_objects_viewed": 4,
+    "image_classification": "Four consecutive fictional Cecily-focalized interludeII printed-text images; decorative portrait/layout is not an additional performed scene.",
+    "native_deliveries": 48,
+    "whole_edition_credit": 0,
+    "new_source_admission": 0,
+    "new_global_first_credit": 0,
+    "new_independent_witness_credit": 0,
+    "independent_observation_count": null
+  },
+  "private_receipt_pins": [
+    {
+      "file": "COHORT50_NATIVE1393P_AND4_IMAGES_COMPLETE_RECEIVING_01.json",
+      "bytes": 8697,
+      "sha256": "68519f8a2884dea233606069ba3756b0aef447f007266302cb6a913bf76339f3"
+    },
+    {
+      "file": "COHORT50_MAIN17_SUPPORTING633P_COMPLETE_RECEIVING_01.json",
+      "bytes": 4738,
+      "sha256": "d52aa29042f3e1a7654432ac725468acbbe557b62d37c59022fd25e4b7f9b25a"
+    }
+  ],
+  "known_context_handoff": {
+    "C49_complete_MAIN17_receiving_sha256": "dfd45f8464706068e8b2fa3be64ed96a0378623154c0a5de68ba6622b66be7b1",
+    "C49_related_receiving_sha256": "0515e52e65b9a96020484012d5daea9d84028e5c61fd05903371a3ff703f30bd",
+    "prior_full_narrative_and_paratext_exposure_retained": true,
+    "current633P_is_declared_reinspection_subset": true
+  },
+  "scope_limits": [
+    "Paragraph slots include blanks and other actors. These are not 2026independent observations or a complete illustration/residual/edition pass.",
+    "Source reading, role identification, semantic acceptance, repository author publication and protected integration are separate responsibilities.",
+    "Current text images are actual semantic views; technical spine classification/extraction alone supplied no reading credit.",
+    "No current source is a pristine holdout, and no prior image/native/report exposure is reset.",
+    "Primary source copies, paths and raw text stay private."
+  ],
+  "full_program_complete": false
+}

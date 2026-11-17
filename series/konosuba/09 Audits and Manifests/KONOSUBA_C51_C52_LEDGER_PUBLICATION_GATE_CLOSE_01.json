@@ -1,0 +1,73 @@
+{
+  "schema": "konosuba.c51-c52.ledger-author-publication-gate.v1",
+  "closed_utc": "2026-10-26T03:09:34.964409+00:00",
+  "source": "e9e89cd6e9773be2eb87a693f1d9bdb7c9013efb",
+  "tree": "cf588be6cffa30eb2e1d4846e0fd87032e0c5082",
+  "author_publication_gate": "CLOSED",
+  "protected_main_integration": "SEPARATELY_OWNED_NOT_ASSERTED",
+  "source_audit": {
+    "run": 40261732113,
+    "job": 121375363674,
+    "reporter_job": 121377205254,
+    "full_tests": 479,
+    "all_discovered_test_IDs_verified": true,
+    "all5_non_success_categories_zero": true,
+    "latest_exact_source_status": {
+      "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/e9e89cd6e9773be2eb87a693f1d9bdb7c9013efb",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "id": 57228969364,
+      "node_id": "SC_kwDOUJ9ads8AAAANUxzFlA",
+      "state": "success",
+      "description": "Exact commit passed the repository audit",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40261732113",
+      "context": "Repository integration audit",
+      "created_at": "2026-10-26T03:05:51Z",
+      "updated_at": "2026-10-26T03:05:51Z",
+      "creator": {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      }
+    },
+    "verification_sha256": "cf6424266e151c68efc5340c96a5ebfecb6ae11bbe3674757d84a019177dfcbf"
+  },
+  "exact_publication": {
+    "remote_paths": 10370,
+    "changed_streams": 23,
+    "all_paths_modes_types_blob_IDs_equal": true,
+    "all_changed_bytes_equal": true,
+    "readback_reload_sha256": "b0b7684a3b01f4a8582482d4955a56dbe5ed59582755331b965756307fdfd64f"
+  },
+  "fresh_authority_reload": {
+    "project_bodies": 1762,
+    "preserved_model_bodies": 71,
+    "preserved_scratch_files": 80,
+    "all_current_file_bindings": 10450
+  },
+  "preservation": {
+    "checks_actually_executed_before_commit": 246,
+    "all_previous242_assertions_replayed_in_genuine_worktree": true,
+    "receipt_sha256": "ef4736d5edba7b26a30dc5c2c0baf45a3564335458ae25fcfd8b8e9684265d36",
+    "postcommit_scope": "All resulting current bodies reloaded and verified exact; no second test execution is claimed."
+  },
+  "scope": "C51/C52 ten-ledger appendices, bounded Dust event qualification, and prior C52 status closure at this exact source. No new edition,model,rule,case,first response,independent observation,accuracy,grade or confidence gain.",
+  "housekeeping": "Current owner-revised publication policy certifies a source push directly when routing is already materialized. This exact source has a successful isolated exact-head status; no separate housekeeping or repository_dispatch execution is invented.",
+  "not_certifies_own_containing_commit": true,
+  "full_program_complete": false
+}

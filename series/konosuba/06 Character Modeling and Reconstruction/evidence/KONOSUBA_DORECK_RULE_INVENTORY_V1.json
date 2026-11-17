@@ -1,0 +1,76 @@
+{
+  "schema": "konosuba.character-rule-inventory.v1",
+  "recorded_utc": "2026-10-24T20:22:17.999901+00:00",
+  "generation": "DORECK_EXPANDED_V1",
+  "subject": "Doreck / ドレック",
+  "existing_census_row": 81,
+  "scope_assessment_sha256": "921b0b6521cde33935452422a5607be9446e19af6db408432b0bb3275e8463a1",
+  "source_review_receiving_sha256": "e2bb659b22a5a87f96b309a12ed1ab94ce8375d45d56e3ed6b15b2456f2b694a",
+  "model_draft_file": "DORECK_MODEL_DRAFT_01.md",
+  "model_draft_sha256": "86c9139a26a886ef3cfb34cf9fabc2008acf67a9e870961521d017d43adf4160",
+  "monograph_draft_file": "DORECK_MONOGRAPH_DRAFT_01.md",
+  "monograph_draft_sha256": "efc3a4314d2407ba553a58cf3b73bcc850aa30e2aadfdb2e0fc9cf752a1da088",
+  "rules": [
+    {
+      "rule_id": "DOR-R01",
+      "proposition": "During the acknowledged initial proxy phase, if his own presence is severely constrained and the perceived alternatives are proxy-mediated access to Rionor or exclusion, expect willingness to accept or negotiate the proxy route rather than rejecting it solely because it produces jealousy. His stated reward includes painful jealousy mixed with excitement. In the post-failure private-epilogue phase, carry forward his explicit request for development of his own strength and appeal; the initial surrogate preference is not an invariant policy.",
+      "support": [
+        "DUST-CONT U013P223-231 states the marriage wish, whole-existence price and rejection of Dust health-first assumption. P259-286 gives the jealousy account, explicit preference for a substitute over loss to another, mixed reward and mutual arrangement. P288 affirms acceptance. U016P30-34 keeps the marriage wish while changing the requested means to his own development and an actual handshake."
+      ],
+      "contrary": [
+        "The first account is possessive and does not supply the bride consent. The ending changes means; an always-proxy rule would fail that actual request. His health constraints, excitement and opportunity set are intertwined, so neither simple pain-seeking nor abstract romantic loyalty is isolated."
+      ],
+      "rivals": [
+        "Possessiveness, erotic humiliation reward, dependence, gratitude and hope under bodily constraint can explain overlapping choices. A general desire for any attention is weaker than his specified attachment but is not experimentally excluded."
+      ],
+      "applies_when": [
+        "State the narrative phase, what access he values, whether his own feasible presence is really unavailable, what the proxy would do, what he knows of the recipient wishes, and whether he anticipates the mixed emotional reward. Hold those facts before interpreting a choice. A new agreement cannot be assumed to have accomplished its aim."
+      ],
+      "do_not_assume": [
+        "No clinical diagnosis, universal masochism, true public-groom competence, consent from Rionor, immunity from culpability, completed marriage or cure, inherited office, refunded old price or unstated new price. Do not translate Gaibil performance into Doreck own observed bodily actions."
+      ],
+      "confidence": "Moderate local warrant for the explicitly acknowledged initial tradeoff and stated later change of means. Low confidence about unfamiliar recipients, alternative health options and transfer outside this relationship. This is a provisional hypothesis, not independently validated reliability.",
+      "falsifier": "Repeated refusal of the specified initial proxy route solely to avoid jealousy, while the same valued access, unavailable self-route, anticipated mixed reward and other constraints are held fixed, would weaken the initial branch. Repeated post-ending insistence on proxy possession despite an equally feasible own-development route and unchanged stated new aim would weaken the phase-update branch. New recipient knowledge or a different cost must be recorded rather than inferred after the choice."
+    },
+    {
+      "rule_id": "DOR-R02",
+      "proposition": "When Doreck recognizes an immediate threat to Gaibil, the particular companion he calls a friend, expect an attempt to preserve that companion through available intervention, appeal or care even when the threatened performance served the original marriage-and-jealousy project. His physical limits constrain the means; concern does not imply a successful rescue or a universal willingness to sacrifice everything.",
+      "support": [
+        "DUST-CONT U014P536-542 shows Doreck arriving with Rionor support, objecting to death for emotional reward and explicitly calling Gaibil a valued friend. P557-558 shows another attempt to stop him, ending in a stumble. U016P14 reports the successful plea for royal lenience; P21-26 gives thanks and actual concern for the recovering Gaibil."
+      ],
+      "contrary": [
+        "He willingly helped the earlier deceptive arrangement, disclosed the sensory link only late and forbade killing without establishing a general no-harm policy. Care for Gaibil coexists with possessiveness toward Rionor and pleasure in the former arrangement. The lenience hearing is his report, not directly witnessed."
+      ],
+      "rivals": [
+        "Friendship, gratitude, dependence, preservation of a valued emotional source and guilt may all contribute. The source does not isolate a selfless motive or the maximum cost he would accept."
+      ],
+      "applies_when": [
+        "Bind his recognition of the specific danger, the continuing relationship, what intervention is possible, its understood cost and his current bodily capacity. A future general stranger is not automatically the same relation; a narrated hope is not a performed successful action."
+      ],
+      "do_not_assume": [
+        "No completed cure, perfect courage, universal altruism, a right to control Gaibil or Rionor, automatic royal agreement, proven brainwashing, no harm to others or guaranteed nonlethal outcome."
+      ],
+      "confidence": "Moderate local warrant for particular-companion intervention and reciprocal care across the battle and private ending. Low confidence about cost thresholds, strangers and portable causal mechanism. No independent trial or confidence gain is implied.",
+      "falsifier": "Repeated deliberate abandonment of the known companion under an equally recognized immediate danger, with a feasible comparably costly intervention and no new competing constraint, would weaken this proposition. An impossible physical intervention or a different relationship would not test the same branch; those differences must be specified before the response."
+    }
+  ],
+  "rule_count": 2,
+  "source_known": true,
+  "same_informed_root_authors_and_assesses_all_stages": true,
+  "all_contrasts_visible": true,
+  "exact_inputs_or_firsts_serialized": false,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false,
+  "prior_scope_assessment_sha256": "c9b3ae030ebe95ae00f6a6afc42a77b91273e52f7ade9431090000376f09403a",
+  "prior_native_provenance_sha256": "722da0e5364cfe29549428b6364578cd0a6ce1600a6146a76de2f664557e9927",
+  "current_precision_qualifications_sha256": "8986e3b0718959ea9724ac0d3593796c317fb5b88a4c0f908bad42111ba91ea6",
+  "prior_rule_inventory": {
+    "file": "DORECK_RULE_INVENTORY_DRAFT_01.json",
+    "bytes": 6948,
+    "sha256": "1170ee21dc423de87a2eeafb19ccdc993c574add39d89a1dd9542c287ef88a0c"
+  },
+  "model_rules_unchanged_from_prior_inventory": true
+}

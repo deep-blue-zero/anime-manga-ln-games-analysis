@@ -2,14 +2,18 @@
 title: "Gakuen Idolmaster V2 Continuity and Story-State Map"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "reader-oriented continuity reconstruction"
-version: "2.1"
+version: "2.2"
 phase: "1 - Continuity and Story-State Reconstruction"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 created: "2026-08-13"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15 targeted additions (STRENGTHEN): route-scoped N.I.A. conventions beside the P2 rules, two SL1.0 lesson variants that presuppose a P3-C run producing Sena, and a P2[RINAMI] witness for the provisional P2 to P3 order; route topology and all other content unchanged"
 status: "canonical Phase 1 artifact; institutional-level clarification 2026-08-15"
 ---
 
 # GKM CONTINUITY AND STORY-STATE MAP
+
+> **Revision record — v2.2, 2026-11-15 (source-to-analysis audit corrections).** STRENGTHEN only: §3.2 records route-scoped N.I.A. conventions beside the unchanged `C0 @ P2` rules (GKM-SAA-034); §3.3 and §8 item 7 record two SL1.0 lesson variants that presuppose a P3-C run producing Sena, while the Sena Series 3 Produce Story stays absent from SL1.0 (GKM-SAA-116); §3.4 adds a route-internal witness for the P2 → P3 order, which stays provisional (GKM-SAA-292). The route topology, the C0–C4 model and all other sections are unchanged.
 
 ## 0. Phase 1 finding
 
@@ -200,6 +204,16 @@ The shared exposition establishes:
 
 These are `C0 @ P2` rules.
 
+### Route-scoped N.I.A. conventions (GKM-SAA-034) — 2026-11-15
+
+Several Dear routes add conventions that the P2-common exposition does not state. They are host-route statements and do not alter the `C0 @ P2` rules above.
+
+- In D-SENA, Sena calls her own entry a breach of an unwritten understanding (暗黙の了解) that could be called a rule violation (`adv_dear_jsna_011` L12–L26). The headmaster authorises it (`adv_dear_jsna_012` L4–L12) and predicts criticism and rule adjustments, because N.I.A. must remain a tournament for new idols (L79–L93). In P2[SENA], Sena competes without this framing, so the convention is absent there.
+- In D-UME the Producer says that N.I.A. is a tournament for new idols in which neither the Prima Stella nor class 3 appears (`adv_dear_hume_012` L75). The class-3 exclusion rests on this single Producer expectation.
+- In D-TEMARI, Asari explains that class 3 of each idol-course year gathers students with special circumstances: active idols, idols of agencies other than 100 Pro, and scouted special students, with Rinha the one special student not active as an idol (`adv_dear_ttmr_011` L5–L34). The link between Rinha's transfer and her N.I.A. entry is the Producer's reading of 961 Pro's intent (L114–L118).
+
+Use these as `C1 @ host D-route` facts. The class-3 structure itself is recorded in the institutional ledger.
+
 ### Provisional route order
 
 ```text
@@ -309,6 +323,8 @@ Individual Series 3 result fragments exist for:
 
 Kotone, Sena, and Tsubame lack individual `pstory_003` folders in this frozen snapshot. Their absence is recorded as corpus incompleteness, not converted into an in-world exclusion.
 
+**P3-C[SENA] presupposed in SL1.0 lesson variants (GKM-SAA-116) — 2026-11-15.** Two shared Produce-event lesson variants presuppose a P3-C run in which the Producer produces Sena. In `adv_pevent_003_cmmn_school_1-006-02` Asari addresses the Producer as Sena's 担当プロデューサー (L5, L13); in `adv_pevent_003_cmmn_school_3-005-02` she asks him about the time after Sena defends a fourth consecutive H.I.F. title (L5, L13, L22–L25). The P3-C world state is unchanged, and Sena's Series 3 Produce Story is still absent from Source Lock 1.0; the variants are C3 lesson pools, not a P3-C[SENA] biography. Counter-note: Sena also names a fourth straight title as her aim outside the Sena route (support `story_0104` part 01 L21), so the 4連覇 goal itself belongs to P3-C. SL1.1 now supplies P3-SENA selection and final material (see the Source Lock 1.1 section below).
+
 ---
 
 ## 3.4 Strength of the Produce ordering
@@ -325,6 +341,8 @@ The intended macro-spine is therefore retained as:
 > **Series 1 → N.I.A. → reformed winter H.I.F.**
 
 but with the bridge into Series 3 explicitly route-scoped.
+
+**Supporting witness for P2 → P3 (GKM-SAA-292) — 2026-11-15.** In the P2[RINAMI] mid-route failure, the Producer tells Rinami that a third-year has no time to be downcast and that a chance to enter H.I.F. still remains (`adv_pstory_002_hrnm_after-audition-mid-failure-01` L33, L37). Within that route, H.I.F. therefore lies ahead after the N.I.A. setback. The line does not say which H.I.F. it means, and it could refer to the summer H.I.F. of the Dear-route pattern, so the P2 → P3 bridge stays provisional.
 
 ---
 
@@ -521,7 +539,7 @@ These do not block Phase 2 or Phase 3, but must remain explicit:
 4. The exact narrative bridge from N.I.A. to each Series 3 champion state is not present in shared exposition.
 5. Unit Story's summer champion succession cannot be merged into the common or Saki-specific Series 3 branches without an explicit intermediate source.
 6. Dear Idol, communications, events, and support stories require local anchors during their dedicated passes; Phase 1 establishes defaults, not invented dates.
-7. Source Lock 1.0's absent Series 3 individual folders for Kotone, Sena, and Tsubame may reflect incomplete live-service coverage.
+7. Source Lock 1.0's absent Series 3 individual folders for Kotone, Sena, and Tsubame may reflect incomplete live-service coverage. (2026-11-15, GKM-SAA-116: two SL1.0 lesson variants already presuppose a P3-C run producing Sena; see the §3.3 note.)
 
 ---
 
@@ -565,3 +583,12 @@ This is an institutional identity rule, not a chronology bridge. It does not mer
 ### External taxonomy
 
 Official paratext confirms the formal `プロデューサー科` label. Credited creator commentary specifies the protagonist's placement as the Producer Course of `初星学園専門大学` and explains that this was selected to create physical proximity without collapsing the Producer's professional/psychological distance. Those claims remain source-labeled S2/S3 in the external register and must not be used to erase S1 ambiguity elsewhere.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+Revision 86 extends the winter structure with character-specific P3 selection and final outcomes and C1 late Dear continuations for Kotone, Sena and Tsubame. Apply the [revision 86 continuity rows](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_CONTINUITY_AND_STORY_STATE_LEDGER.md#source-lock-11--transcript-refresh-2026-11-12) and the [branch ledger](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_BRANCH_DIVERGENCE_LEDGER.md#source-lock-11--transcript-refresh-2026-11-12). The results named in D-KOTONE, D-SENA, D-TSUBAME and their C3 Produce failures retain their separate placement. Event 028 supplies a summer-to-winter seasonal anchor and a specific exam decision. Events 027 and 030 are joined by their campaign order. The five Kanae horizontal parts give a C1 internal sequence with China's winning state compatible with D-CHINA.
+
+## Source Lock 1.2 — transcript refresh, 2026-11-15
+
+Revision 88 gives a C1 bridge from Kanae's horizontal chapters into Dear 001–010. China's winning title is an entering fact. Dear 001 resolves the winter consultation and the separate transfer exam. Dear 009 records the later advancement pass, with the imagined shared stage and pass explicitly bounded as the dream in Dear 007. Kanae's P1 school scenes and true ending support post-title involvement by the same Producer. Keep the [dated continuity](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_CONTINUITY_AND_STORY_STATE_LEDGER.md#source-lock-12--transcript-refresh-2026-11-15) and [branch](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_BRANCH_DIVERGENCE_LEDGER.md#source-lock-12--transcript-refresh-2026-11-15) rows at their stated C1/C2/C3 scopes. The [Kanae reading](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/14_HIWATARI_KANAE/GKM_HIWATARI_KANAE_SOURCE_LOCK_12_READING.md) distinguishes the household and school roles, the provisional arrangement and the concurrent partnership. Exact P1 outcome dispatch, the predecessor China Produce route, and absolute dating of support scenes are open.

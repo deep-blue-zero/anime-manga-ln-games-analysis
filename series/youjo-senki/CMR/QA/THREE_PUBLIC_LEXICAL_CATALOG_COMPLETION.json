@@ -1,0 +1,99 @@
+{
+  "schema": "youjo-senki/public-lexical-navigation-completion/v1",
+  "created_utc": "2026-10-13T20:29:41.212852+00:00",
+  "qualification": "Post-original-QA index-only source navigation completion; no new model behavior or blind accuracy",
+  "records": [
+    {
+      "actor": "MARY_SUE",
+      "claim_index_route": "series/youjo-senki/CMR/Models/MARY_SUE_MODEL_CLAIM_INDEX.jsonl",
+      "original_index_sha256": "d06a1b7679ebe3ad17dc8f86890dec49f61dc91eae1531cc3a2b61f3d346c9f3",
+      "current_index_sha256": "a01909bea159890a6a2b7a5ac53d7186bf5f5b94beb69c253dbb1c2e5ebf7c5e",
+      "added_field_names": [
+        "written_voice_control_ids",
+        "written_voice_controls_catalog_ref",
+        "written_voice_occurrence_catalog"
+      ],
+      "occurrence_ids": [
+        "YS-MARY_SUE-VOICE-CONTROL-001",
+        "YS-MARY_SUE-VOICE-CONTROL-002",
+        "YS-MARY_SUE-VOICE-CONTROL-003",
+        "YS-MARY_SUE-VOICE-CONTROL-004",
+        "YS-MARY_SUE-VOICE-CONTROL-005",
+        "YS-MARY_SUE-VOICE-CONTROL-006",
+        "YS-MARY_SUE-VOICE-CONTROL-007",
+        "YS-MARY_SUE-VOICE-CONTROL-008",
+        "YS-MARY_SUE-VOICE-CONTROL-009",
+        "YS-MARY_SUE-VOICE-CONTROL-010",
+        "YS-MARY_SUE-VOICE-CONTROL-011",
+        "YS-MARY_SUE-VOICE-CONTROL-012",
+        "YS-MARY_SUE-VOICE-CONTROL-013",
+        "YS-MARY_SUE-VOICE-CONTROL-014"
+      ],
+      "owned_occurrence_count": 14,
+      "inverse_exact_original_bytes": true,
+      "original_model_and_claim_hashes_unchanged": true,
+      "original_QA_and_predictions_unchanged": true,
+      "validation": "All 38 literal forms and complete deterministic locator tuples checked against locked CMR0 corpus. Ownership and mode inherited from complete original author and independent contextual QA; token matching alone does not establish ownership."
+    },
+    {
+      "actor": "DRAKE",
+      "claim_index_route": "series/youjo-senki/CMR/Models/DRAKE_MODEL_CLAIM_INDEX.jsonl",
+      "original_index_sha256": "4ea20d50c971a61a717ccc60b1822aaca680b6e50ae68f57d9b9b72b2ff723c8",
+      "current_index_sha256": "f5f23a7f0809fd1b05b6136b22ff098ca6329efdd35bff25ae6ce284e3533c43",
+      "added_field_names": [
+        "written_voice_control_ids",
+        "written_voice_controls_catalog_ref",
+        "written_voice_occurrence_catalog"
+      ],
+      "occurrence_ids": [
+        "YS-DRAKE-VOICE-CONTROL-001",
+        "YS-DRAKE-VOICE-CONTROL-002",
+        "YS-DRAKE-VOICE-CONTROL-003",
+        "YS-DRAKE-VOICE-CONTROL-004",
+        "YS-DRAKE-VOICE-CONTROL-005",
+        "YS-DRAKE-VOICE-CONTROL-006",
+        "YS-DRAKE-VOICE-CONTROL-007",
+        "YS-DRAKE-VOICE-CONTROL-008",
+        "YS-DRAKE-VOICE-CONTROL-009",
+        "YS-DRAKE-VOICE-CONTROL-010",
+        "YS-DRAKE-VOICE-CONTROL-011",
+        "YS-DRAKE-VOICE-CONTROL-012",
+        "YS-DRAKE-VOICE-CONTROL-013",
+        "YS-DRAKE-VOICE-CONTROL-014",
+        "YS-DRAKE-VOICE-CONTROL-015",
+        "YS-DRAKE-VOICE-CONTROL-016",
+        "YS-DRAKE-VOICE-CONTROL-017"
+      ],
+      "owned_occurrence_count": 17,
+      "inverse_exact_original_bytes": true,
+      "original_model_and_claim_hashes_unchanged": true,
+      "original_QA_and_predictions_unchanged": true,
+      "validation": "All 38 literal forms and complete deterministic locator tuples checked against locked CMR0 corpus. Ownership and mode inherited from complete original author and independent contextual QA; token matching alone does not establish ownership."
+    },
+    {
+      "actor": "LORIA",
+      "claim_index_route": "series/youjo-senki/CMR/Models/LORIA_MODEL_CLAIM_INDEX.jsonl",
+      "original_index_sha256": "465da62a19a07da4825890f77d7e98dedea2c71075ba572b1fcbde4f3f34ab98",
+      "current_index_sha256": "0ad7851573cc62cbaa06c2e698b347f4a0c8dc171d98a88ff941eae74c7a9a5d",
+      "added_field_names": [
+        "written_voice_control_ids",
+        "written_voice_controls_catalog_ref",
+        "written_voice_occurrence_catalog"
+      ],
+      "occurrence_ids": [
+        "YS-LORIA-VOICE-CONTROL-001",
+        "YS-LORIA-VOICE-CONTROL-002",
+        "YS-LORIA-VOICE-CONTROL-003",
+        "YS-LORIA-VOICE-CONTROL-004",
+        "YS-LORIA-VOICE-CONTROL-005",
+        "YS-LORIA-VOICE-CONTROL-006",
+        "YS-LORIA-VOICE-CONTROL-007"
+      ],
+      "owned_occurrence_count": 7,
+      "inverse_exact_original_bytes": true,
+      "original_model_and_claim_hashes_unchanged": true,
+      "original_QA_and_predictions_unchanged": true,
+      "validation": "All 38 literal forms and complete deterministic locator tuples checked against locked CMR0 corpus. Ownership and mode inherited from complete original author and independent contextual QA; token matching alone does not establish ownership."
+    }
+  ]
+}

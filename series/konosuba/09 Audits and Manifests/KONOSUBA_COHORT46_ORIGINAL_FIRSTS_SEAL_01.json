@@ -1,0 +1,74 @@
+{
+  "schema": "konosuba.cohort46.source-safe-original-first-seal.v1",
+  "private_complete_seal_sha256": "7b61591a2316231aa8154b2840d7dabe3d35c24251c763b3434db26c012ee9a6",
+  "sealed_utc": "2026-10-25T09:32:46.423242+00:00",
+  "exact_inputs": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_EXACT_INPUT_FREEZE_01.json",
+    "sha256": "b01c73a606aaaf3df316bc9f9f945abc70965b22dac9f51dc254c33f1ac8233a"
+  },
+  "pins": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/DARK_STALKER_EXPANDED_V1_EVIDENCE/originals/DST-A1.txt",
+      "bytes": 893,
+      "sha256": "53b12f720c3bd7fd8adcfa5824eb6e630a25b42d88e41c9a369e3ea7e86a1178"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/DARK_STALKER_EXPANDED_V1_EVIDENCE/originals/DST-A2.txt",
+      "bytes": 785,
+      "sha256": "a4fa23e5f14f5b1a14ae55b4aa4222d5fbbb6d170df79ff9a4b2591d4e8632ff"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/DARK_STALKER_EXPANDED_V1_EVIDENCE/originals/DST-B1.txt",
+      "bytes": 822,
+      "sha256": "8700851c759ade7066af994e99825ea6b85c0d33af4b74588560abc11f5d28f8"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/DARK_STALKER_EXPANDED_V1_EVIDENCE/originals/DST-B2.txt",
+      "bytes": 822,
+      "sha256": "b7c58e61fdba6978ab7f3ee72078dbd8aef89f86da54dded4a9f3c9d07272eec"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/ANGIE_EXPANDED_V1_EVIDENCE/originals/ANG-A1.txt",
+      "bytes": 860,
+      "sha256": "fa9dbd7eb48b7a0ec19a8cf992e2e51ded88d17a1e01f33d5a18004eda63d4d0"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/ANGIE_EXPANDED_V1_EVIDENCE/originals/ANG-A2.txt",
+      "bytes": 843,
+      "sha256": "ef105d4724d9582b66bda6c339593d4f9d1a57a780331e6743b800da4df2d7e7"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/ANGIE_EXPANDED_V1_EVIDENCE/originals/ANG-B1.txt",
+      "bytes": 737,
+      "sha256": "c1d026def5632b68b7a7f53ce5ed5a85d6467b75073f5d90aeb43d40109eb9b6"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/ANGIE_EXPANDED_V1_EVIDENCE/originals/ANG-B2.txt",
+      "bytes": 763,
+      "sha256": "49ca1276d999daeea43f3bde67b9bfcfc595e9c892f66946993730adf94d9fcb"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/DARK_STALKER_EXPANDED_V1_EVIDENCE/DARK_STALKER_FIRST_OUTPUTS_01.json",
+      "bytes": 8661,
+      "sha256": "e02033af766206180b5679f690605975b16167732a4cadf9c3541af685bf86dc"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/ANGIE_EXPANDED_V1_EVIDENCE/ANGIE_FIRST_OUTPUTS_01.json",
+      "bytes": 8521,
+      "sha256": "a920e75bcdcb81fcb35a6c7ee40fc4edf07b68590e8e23624629e203cfe2beee"
+    }
+  ],
+  "raw_firsts": 8,
+  "subject_bundles": 2,
+  "first_ordinal": 1,
+  "direct_root_originals": true,
+  "programmatic_response_template_assembly": false,
+  "feedback_before_seal": false,
+  "regeneration": false,
+  "post_feedback_repair": false,
+  "frozen_bundle_witness_labels_are_historical_and_canonical_raw_paths_are_declared_above": true,
+  "source_known_same_informed_root": true,
+  "independent_observation_count": null,
+  "no_accuracy_grade_or_confidence_gain": true,
+  "not_final_battery": true
+}

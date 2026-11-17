@@ -12,12 +12,17 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-24'
+version: "1.1"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15: REVISE of the §4 'physically present' paraphrase (HSCA-008) and of the §15 provenance and speaker detail (HSCA-130), STRENGTHEN of §23 (HSCA-139), and a dated STRENGTHEN status note under §33.4 recording the owner's core-integration policy (GKM-SAA-108)."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM SUPPORT SERIES 03 PART 076–102 DEEP READING
+
+> **Revision record — v1.1, 2026-11-15 (source-to-analysis audit corrections).** Each change is a dated note; the earlier wording stays in place above it. (1) REVISE, HSCA-008: §4 corrects “remains physically present” to continuity of admiration (`adv_csprt-3-0078_03` L136–L151) and links the scene to the Mao core's admired-prince loss. (2) REVISE, HSCA-130: §15 anchors Saki's earlier disappointment and the `限界を超えるお手本` vow to Event 005 main-04 (L360–L404; Events 001–005 reading §7.7) and records that Sena, not Saki, quotes the vow back (`adv_csprt-3-0089_03` L125–L140). (3) STRENGTHEN, HSCA-139: §23 adds Ume's confirmation that Saki's “everyone's big sister” stance is a current worry of hers (`adv_csprt-3-0097_03` L92). (4) STRENGTHEN, GKM-SAA-108: a dated owner-policy note under §33.4 records that durable support-story deltas now enter the character cores and that the revision-86 routing has been completed; the original exit statement is kept.
 
 ## 0. Scope, method, and principal finding
 
@@ -177,6 +182,8 @@ Part 1 converts physical hierarchy into learned technique. Ume dominates an arm-
 Part 2 finds Ume in the library because she has concluded that defeating Saki requires more than physical training; she needs to study idol expression and posing. Mao praises the decision, then reveals a private embarrassment of her own: she still loves a children's fantasy-novel series. Ume rejects the premise that such affection is uncool. Her own model is uncomplicated: saying openly that she loves Saki does not diminish her, so saying one loves a book should not diminish Mao.
 
 Part 3 deepens Mao's sibling relation to the juniors. Ume is surprised that Mao is an only child because Mao behaves so much like an older sister. Mao then distinguishes Ume's situation from her own aspirational history. Mao has continued to “play the prince” partly because of an admired person she wanted to resemble; she envies Ume because Ume's admired person remains physically present, continuously available as loved one, rival, and goal.
+
+**Wording correction (HSCA-008; REVISE, 2026-11-15).** The line does not say “physically present”. Mao says she is a little envious that, for Ume, the admired person `ずっと憧れで、目標であり続けてくれる`: keeps on being someone to admire and a goal (`adv_csprt-3-0078_03` L136–L151). The implied contrast is continuity of admiration, not presence: Mao's own admired person did not remain one. Read the sentence above as “Ume's admired person continues to be an admired goal”. This connects the scene to the Mao core's account of the musical-theatre prince Mao idolized and later avoided because the transformation felt like a betrayal (core §0 and the childhood section). The support scene is evidence outside Mao's route that the loss is still emotionally live, `今も王子様を演じ続けてる` (L140), voiced to a junior and then covered by a change of subject (L160–L164). The state is undated. The competing reading, that the admired person is simply absent or retired, would make the envy about distance rather than disillusion; on either reading the text locates the contrast in continuity of admiration.
 
 ### Claim transitions
 
@@ -360,6 +367,8 @@ Part 2 gives Saki concrete evidence. Sena insists that Ume use a cart rather tha
 
 Part 3 differentiates Sena's roles. Saki is not ready to validate Sena's producer ability on one observation, but she can call her a good student-council president. She also says this is the Sena she **had expected**. Both understand the implied contrast: Sena previously disappointed Saki in some aspect of the `一番星` relationship. Sena does not apologize, and Saki does not demand it; Saki instead invokes an earlier challenge to demonstrate how to exceed limits. Sena thanks her and the senior/junior relation reopens as competitive expectation.
 
+**Provenance (HSCA-130; REVISE, 2026-11-15).** The referent is explicit, not vague. Saki's `わたしが期待<em=>していた</em>十王星南` and Sena's admission that she once disappointed her (`adv_csprt-3-0089_03` L57–L85) point back to Event 005 main-04. There Saki called the present Sena a disappointment against her earlier example (`がっかり`, `event_005` main-04 L360, L367), vowed to show her `お手本` (L389) and to break the wall Sena said could not be passed (L404); see the Events 001–005 reading §7.7. In the support scene it is Sena who quotes that vow back, `限界を超えるお手本を` (`_03` L125–L132), and Saki who confirms she remembers it (L140). Read “some aspect of the `一番星` relationship” as the Event 005 main-04 disappointment, and “Saki instead invokes an earlier challenge” as Sena recalling Saki's Event 005 vow, which Saki affirms. The support story closes an arc established in a shared, invariant event reading.
+
 ### Claim transitions
 
 - **Saki ↔ Sena — REVISE/STRENGTHEN:** disappointment in one role does not erase respect in another. Saki can recover admiration through observed practice without returning to uncomplicated hero worship.
@@ -487,7 +496,7 @@ A newspaper-club student recognizes her. Rinha asks that her attendance not beco
 
 Part 2 places Temari, Misuzu, and Rinha together inside the school. Rinha notes the attention this attracts; Misuzu correctly explains that the three being together again is itself unusual. Misuzu then tells Rinha that they should make the **dissolution live** successful. Temari answers in her usual severe register. Rinha responds in kind. The old trio can therefore collaborate on a deliberately terminal performance without pretending the old unit state is being restored.
 
-Part 3 gives Rinha a separate relation with Ume. She comes to support Ume and Saki, teases Ume about Saki's “everyone's big sister” stage rhetoric, and then admits she has a continuing worry she wants Ume's song to blow away. Ume accepts this as an idol's job.
+Part 3 gives Rinha a separate relation with Ume. She comes to support Ume and Saki, teases Ume about Saki's “everyone's big sister” stage rhetoric, and then admits she has a continuing worry she wants Ume's song to blow away. (Added 2026-11-15, HSCA-139: Ume confirms that the tease lands on a current worry of her own, `最近のあたしの悩みをピンポイントでついてくるぅ～～！` (`adv_csprt-3-0097_03` L59, L92). Ume's sister-category jealousy therefore reaches Saki's public, fan-facing “everyone's sister” persona, and Ume describes it as present-tense.) Ume accepts this as an idol's job.
 
 ### Claim transitions
 
@@ -790,6 +799,8 @@ The architecture-defined exit condition is satisfied under Source Lock 1.0:
 - Phase-6 relationship/ensemble priorities materially sharpened.
 
 Phase 5 can therefore move from **IN PROGRESS** to **COMPLETE**.
+
+> **2026-11-15 (owner policy, source-to-analysis audit GKM-SAA-108):** durable support-story deltas are now integrated into the character cores; revision-86 routing completed for the Misuzu, Temari, Kotone/Sena, China and Sumika families; see each core's 'Phase-4/5 integration pointers' section. When this checkpoint was written, the “deltas integrated” item had been met through the cumulative ledgers and the relationship syntheses; the Phase-3 cores themselves did not yet cite the support pass. The exit statement above is kept as written.
 
 ---
 

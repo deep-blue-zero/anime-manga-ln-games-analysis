@@ -2,12 +2,12 @@
 title: Manga / Anime Episode Bundle Specification
 artifact_id: MANGA_ANIME_EPISODE_BUNDLE_SPECIFICATION
 artifact_type: audiovisual_source_object_specification
-version: 1.3
+version: 1.4
 status: canonical
 generation: V1
 scope: corpus-wide anime episode conversion and analytical source-object semantics
 created: 2026-08-27
-last_updated: 2026-09-13
+last_updated: 2026-10-24
 transport_constraints_verified: 2026-08-27
 transport_constraints_are_provider_snapshot: true
 maintainer: ChatGPT + user
@@ -565,6 +565,10 @@ An evidence requirement is not proof that the current session can inspect the re
 
 A text/audio stage may be transferred to an environment with the required visual/temporal capabilities under the [analytical handoff contract](MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md). Preserve actual inspection provenance, affected claims, and unresolved required evidence obligations. The existing video-escalation states remain evidence-need states; a handoff does not automatically resolve them or change this specification's source semantics.
 
+## Inspection lanes
+
+The episode bundle is the source object of the `BUNDLE_MEDIATED` inspection lane defined in the [medium and inspection-lane routing policy](MANGA_ANIME_MEDIUM_AND_INSPECTION_LANE_ROUTING_POLICY.md). A `CONTINUOUS_AV` session inspects the source episode or a continuous derivative, but it still cites observations against the bundle's timeline, cue IDs, and frame filenames, so that findings from both lanes share one coordinate system. The bundle-to-continuous relay follows the [audiovisual reconciliation protocol](MANGA_ANIME_AUDIOVISUAL_RECONCILIATION_PROTOCOL.md). Where a bundle's layers use different timelines (for example, frames that exclude a streaming pre-roll and complete audio that keeps it), the bundle metadata's offsets are part of that coordinate system and must be carried into any continuous review.
+
 ---
 
 # 10. Source inventory terminology
@@ -653,6 +657,11 @@ Neither this specification nor an episode bundle determines literary authority b
 ---
 
 # Changelog
+
+## v1.4 — 2026-10-24 — Inspection lanes
+
+- Identifies the bundle as the `BUNDLE_MEDIATED` lane's source object and the shared citation coordinate system for continuous audiovisual review, including multi-timeline offsets.
+- Routes the bundle-to-continuous relay to the audiovisual reconciliation protocol. Bundle semantics, escalation states, and the 2026-08-27 transport snapshot are unchanged.
 
 ## v1.3 — 2026-09-13 — Execution capability and handoff routing
 

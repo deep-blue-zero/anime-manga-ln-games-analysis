@@ -1,0 +1,70 @@
+{
+  "schema": "KONOSUBA_CLAIRE_HYPOTHETICAL_SCENARIO_INPUTS_V1",
+  "prepared_utc_before_first_bodies": "2026-10-20T07:57:17.370433+00:00",
+  "source_boundary": "6958c3726a1dc3f9fb505915508af32a2f7e7bae",
+  "model_sha256": "386b2e7c5df610e83bbf9fec58a8c9485132d6f28b8abb65a3658142de6b08d1",
+  "author": "Same continuing informed root AI; all source outcomes already known; author sees all variants and reader-only truths.",
+  "separate_runtime_or_judge": false,
+  "pretraining_and_design_contamination_not_excluded": true,
+  "output_mode": "One first body per case, without retroactive repair. Root authors the responses after these files are persisted and bound.",
+  "constraints": [
+    "No source accuracy or confidence gain.",
+    "No invented acquired knowledge or completed future event.",
+    "Rivals, generic fit, over-optimization and failed differences remain reportable.",
+    "English exercise only; no native-human Japanese or acoustic adequacy."
+  ],
+  "cases": [
+    {
+      "id": "CL-H01A",
+      "pair": "CL-H01",
+      "kind": "SINGLE_VISIBLE_APPEAL_CHANGE",
+      "character_visible_context": "This is a hypothetical royal-court scene, not a new canonical event. Claire and Rain know the following. Iris wants a one-hour visit to the palace map room with three visiting pupils and an approved adult tutor. The route and room have already been checked; Rain is available to remain throughout. Claire has an overlapping official meeting and may delegate this particular guard task to Rain. There is no new security warning. Claire has just said she would rather Iris spend the afternoon with her after the meeting. Iris now gives the final appeal below. Generate Claire's first action and first utterance in English, at most120 words. Preserve her competing aims and possible mistake; do not narrate a completed outing, a later adviser reply or new facts.\nIris says: You have always wanted me to become someone who can represent our house. Please trust what you have taught me for this one hour.",
+      "varied_field": "Iris appeal: protective identity versus threatened loss of favorable regard",
+      "checks": [
+        "R02",
+        "R01",
+        "R05"
+      ],
+      "source_validation": false
+    },
+    {
+      "id": "CL-H01B",
+      "pair": "CL-H01",
+      "kind": "SINGLE_VISIBLE_APPEAL_CHANGE",
+      "character_visible_context": "This is a hypothetical royal-court scene, not a new canonical event. Claire and Rain know the following. Iris wants a one-hour visit to the palace map room with three visiting pupils and an approved adult tutor. The route and room have already been checked; Rain is available to remain throughout. Claire has an overlapping official meeting and may delegate this particular guard task to Rain. There is no new security warning. Claire has just said she would rather Iris spend the afternoon with her after the meeting. Iris now gives the final appeal below. Generate Claire's first action and first utterance in English, at most120 words. Preserve her competing aims and possible mistake; do not narrate a completed outing, a later adviser reply or new facts.\nIris says: If you will not even listen to this request, I will start to think you do not care whether I am happy with you.",
+      "varied_field": "Iris appeal only; task, costs and duty unchanged",
+      "checks": [
+        "R02",
+        "R01",
+        "R05"
+      ],
+      "source_validation": false
+    },
+    {
+      "id": "CL-H02A",
+      "pair": "CL-H02",
+      "kind": "READER_ONLY_TRUTH_CHANGE_IDENTICAL_CHARACTER_INFORMATION",
+      "character_visible_context": "This is a hypothetical royal-court scene. Claire knows that a visiting adult copyist has a valid invitation to work on a public map in the outer study. Rain has checked the papers; no irregularity or threat has been reported. Iris may watch the work at the public table with Claire present. The visitor has requested no private access, money, object transfer or delay of a duty. Generate only Claire's first action and first utterance in English, at most100 words. Use only these facts and the bound model; do not add evidence, complete the visit or infer a concealed intent.",
+      "reader_only_truth": "The copyist secretly intends to steal a map later. Claire has no cue to this fact.",
+      "checks": [
+        "R05",
+        "information boundary"
+      ],
+      "source_validation": false
+    },
+    {
+      "id": "CL-H02B",
+      "pair": "CL-H02",
+      "kind": "READER_ONLY_TRUTH_CHANGE_IDENTICAL_CHARACTER_INFORMATION",
+      "character_visible_context": "This is a hypothetical royal-court scene. Claire knows that a visiting adult copyist has a valid invitation to work on a public map in the outer study. Rain has checked the papers; no irregularity or threat has been reported. Iris may watch the work at the public table with Claire present. The visitor has requested no private access, money, object transfer or delay of a duty. Generate only Claire's first action and first utterance in English, at most100 words. Use only these facts and the bound model; do not add evidence, complete the visit or infer a concealed intent.",
+      "reader_only_truth": "The copyist has no illicit intention. Claire has no cue distinguishing this variant.",
+      "checks": [
+        "R05",
+        "information boundary"
+      ],
+      "source_validation": false
+    }
+  ],
+  "planned_first_bodies": 4,
+  "source_validation_or_independence_credit": 0
+}

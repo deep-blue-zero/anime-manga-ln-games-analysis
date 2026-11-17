@@ -66,3 +66,17 @@ Since import, [EVENT_0079](PJSK_EVENT_0079_DEEP_READING.md) supplies a complete 
 - [EVENT_0163 — Turning Pain into Drive](PJSK_EVENT_0163_DEEP_READING.md): complete 24-story World Link envelope; a shared possible-world split converges through four-person song, followed by actual return, renewed collective commitment and observed Street-tree change. The alternate losses are not current biography and the shard's origin remains conjectural.
 
 - [EVENT_0169 — Aim higher and higher!](PJSK_EVENT_0169_DEEP_READING.md): complete 24-story envelope; the quartet witnesses Ken and Taiga's world-scale performance, defines a shared audience-facing goal and declares a conditional RUSH BEATS route to Lasting ECHO Fes. Kohane's particular street receipt and Embers' reported RADder history remain bounded; no tournament or festival result is achieved.
+
+- [EVENT_0175 — Competitive fire！](PJSK_EVENT_0175_DEEP_READING.md): complete 25-story envelope; VBS and illys form a bounded reciprocal rival relation after hearing each other and receiving a chosen disclosure. Existing human/group scopes remain high I2; tournament entry and outcomes, family repair and future conversations remain open.
+
+- [EVENT_0187 — Overcome one's limits](PJSK_EVENT_0187_DEEP_READING.md): complete 24-story envelope; Akito combines available languages and collaborators to reach a specific audience; a pre-contract offer and explicit return reflection preserve the difference between a starting line and completed professional entry.
+
+- [EVENT_0193 — GO ALL OUT](PJSK_EVENT_0193_DEEP_READING.md): complete 25-story envelope; Professional preparation becomes actual overseas work; trusted disclosure creates equal rivalry, while expressive success, competitive defeat and the need for shared rest coexist.
+
+- [EVENT_0201 — Show 'em what's up！](PJSK_EVENT_0201_DEEP_READING.md): complete 23-story envelope; Requested rival help lets An connect learned English with remembered sound and lead a first-stage win; ordinary initiative and mistakes keep the acquired method bounded.
+
+- [EVENT_0204 — Stay solid, No fold](PJSK_EVENT_0204_DEEP_READING.md): complete 25-story envelope; Actual qualification opens industry access; Kohane’s supported curiosity and stated self-direction meet generous material provision, unsettling appraisal and a private adverse judgment she does not hear.
+
+- [EVENT_0216 — After the Fire](PJSK_EVENT_0216_DEEP_READING.md): complete 22-story envelope; Early partnership, shared hospitality and musical reciprocity acquire new stakes when warehouse damage prompts an unresolved accusation; trust remains differentiated and the keyring does not establish a culprit.
+
+- [EVENT_0221 — Vivid BAD SQUAD Memories](PJSK_EVENT_0221_DEEP_READING.md): complete 20-story envelope; A narrated retrospective connects formation to the warehouse accusation; current states and original context survive compression, with no new resolution.

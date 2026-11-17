@@ -1,0 +1,1287 @@
+{
+  "schema": "tomozaki_portable_historical_context_records/v1",
+  "artifact_type": "attributed_retrieval_historical_record_shard",
+  "authority_class": "model_validation_provenance",
+  "status": "canonical",
+  "release_state": "immutable_freeze",
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_primary_literary_authority": true,
+  "supersedes": [],
+  "superseded_by": [],
+  "record_policy": "Complete unchanged original values and raw identities. Historical pending/status/private-route strings are provenance of their own stage; current retrieval uses the catalog public record pointers and pinned Git source routes.",
+  "records": [
+    {
+      "record_id": "producer.CONSTRUCTION_SLICE.json",
+      "record_role": "fixed_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/historical_context_models_root_20261103/CONSTRUCTION_SLICE.json",
+        "bytes": 2177,
+        "sha256": "e32569f4126f897bedc2ef0441e0e4f925495580f6b8db39397f16c958e8adee"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "a8a5c74141bdc53a67aae8e0d41f0c48e2c6366f8bc29536bd6c4282e3927c3e",
+      "value": {
+        "schema": "tomozaki_historical_context_candidate_identity/v1",
+        "utc": "2026-11-04T02:13:55.611928+00:00",
+        "frozen_criteria": {
+          "path": ".scratch/historical_context_models_root_20261103/ROOT_ATTRIBUTED_RETRIEVAL_ADMISSIONS_AND_FROZEN_TESTS.json",
+          "bytes": 13047,
+          "sha256": "6e6eba746fba5a6d30c668820fe5aee8814b20bf4c4dd1150c1837d11a2e4c2a"
+        },
+        "models": [
+          {
+            "path": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_NAGISA_ATTRIBUTED_RETRIEVAL_MODEL.md",
+            "bytes": 6375,
+            "sha256": "3d596a35984c112bc045ff88fec55e9022d183b2cd031eb4065b3848e16a67b6"
+          },
+          {
+            "path": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_YOKO_ATTRIBUTED_RETRIEVAL_MODEL.md",
+            "bytes": 6298,
+            "sha256": "8984b35d510693c41aeed8d0030488f45696f1f4b64e410330bbfe656f31cb74"
+          },
+          {
+            "path": ".scratch/historical_context_models_root_20261103/candidates/MICHAEL_ANDI_ATTRIBUTED_RETRIEVAL_MODEL.md",
+            "bytes": 6898,
+            "sha256": "d20b8135227a42e3193fbf9bb089bfe8ece9dabd52d9494cd2f1d7c77899a2d1"
+          },
+          {
+            "path": ".scratch/historical_context_models_root_20261103/candidates/TOMOZAKI_SUPPORTING_CONTEXT_ROUTER.json",
+            "bytes": 117521,
+            "sha256": "d00cabd119df5215ffa9d04444064b03a45cb068a659d0edf511c7df2280b637"
+          }
+        ],
+        "intended_repository_paths": [
+          "series/tomozaki/07 Character Reconstruction Models/HINAMI_NAGISA_ATTRIBUTED_RETRIEVAL_MODEL.md",
+          "series/tomozaki/07 Character Reconstruction Models/HINAMI_YOKO_ATTRIBUTED_RETRIEVAL_MODEL.md",
+          "series/tomozaki/07 Character Reconstruction Models/MICHAEL_ANDI_ATTRIBUTED_RETRIEVAL_MODEL.md",
+          "series/tomozaki/07 Character Reconstruction Models/TOMOZAKI_SUPPORTING_CONTEXT_ROUTER.json"
+        ],
+        "all45identity_heading_scope_joins_exact": true,
+        "counts": {
+          "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL": 25,
+          "IDENTIFICATION_ATTRIBUTION_ONLY_ABSTAIN_PRIVATE_PERSONALITY": 1,
+          "SHARED_SOURCE_GROUP_CONTEXT_NO_COLLECTIVE_INTERIOR": 6,
+          "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION": 13
+        },
+        "no_primary_calls_pixels_audio": true,
+        "independent_review_pending": true
+      }
+    },
+    {
+      "record_id": "producer.EIGHTEEN_ACTUAL_RETRIEVAL_TRACES.json",
+      "record_role": "fixed_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/historical_context_models_root_20261103/EIGHTEEN_ACTUAL_RETRIEVAL_TRACES.json",
+        "bytes": 37079,
+        "sha256": "53d84187ad6bd181873f686fddc3bb2ed52b9f6967d91f948da446ace51f3dca"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "12f581f12a002ba6da5390f8d881a9c1a47ef9a546bb7b9605cb0be13e9270fe",
+      "value": {
+        "schema": "tomozaki_actual_attributed_retrieval_model_traces/v1",
+        "utc": "2026-11-04T02:15:16.483426+00:00",
+        "status": "ACTUAL_MANUAL_TRACES_RECORDED_INDEPENDENT_REVIEW_PENDING",
+        "preregistration": {
+          "path": ".scratch/historical_context_models_root_20261103/ROOT_ATTRIBUTED_RETRIEVAL_ADMISSIONS_AND_FROZEN_TESTS.json",
+          "bytes": 13047,
+          "sha256": "6e6eba746fba5a6d30c668820fe5aee8814b20bf4c4dd1150c1837d11a2e4c2a"
+        },
+        "cases": [
+          {
+            "id": "HN-R1",
+            "identity": "nagisa",
+            "literal_input": "Exposed childhood game: retrieve tactical change, win, Haruka thanks and affection, and classify what a claim of timeless competitive ruthlessness adds.",
+            "expected_constraints": "Retain tactical/competitive and shared playful agency together; no exact invented dialogue or complete preference ranking.",
+            "exposure": "EXPOSED_RETROSPECTIVE",
+            "model_version": {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_NAGISA_ATTRIBUTED_RETRIEVAL_MODEL.md",
+              "bytes": 6375,
+              "sha256": "3d596a35984c112bc045ff88fec55e9022d183b2cd031eb4065b3848e16a67b6"
+            },
+            "actual_execution": "Root actually applies the written manual retrieval model to this frozen input and records the attributed result below. This is not a separate executable persona/independent oracle.",
+            "selectors": [
+              "childhood play",
+              "Aoi rival/sister; Haruka cheering",
+              "represented retrospective scene"
+            ],
+            "mechanisms_used": [
+              "NG1"
+            ],
+            "actual_output": "Retrieve the specific two-bomb/timing adjustment after defeat and the particular win; retain thanks to Haruka, shared laughter and received affection. Winning and shared fun are jointly represented. A timeless ruthless-competitor claim adds an ungrounded invariant.",
+            "field_abstentions": [
+              "Complete preference or skill ranking",
+              "Exact new utterance"
+            ],
+            "canonical_context_route": null,
+            "observed_constraint_error": "NONE_IDENTIFIED_BY_PRODUCER",
+            "attempt": 1,
+            "independent_review": "PENDING_ACTUAL_REVIEW_NOT_PRODUCER_PASS"
+          },
+          {
+            "id": "HN-R2",
+            "identity": "nagisa",
+            "literal_input": "Exposed intervention/doubt/death reports: identify represented advice-seeking, chosen help, listening and later doubt; can Aoi silence establish prevention or intent?",
+            "expected_constraints": "Historical acts/represented speech distinct from survivor guilt/report; no death intent/cause/prevention certainty or harmonized grade.",
+            "exposure": "EXPOSED_RETROSPECTIVE",
+            "model_version": {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_NAGISA_ATTRIBUTED_RETRIEVAL_MODEL.md",
+              "bytes": 6375,
+              "sha256": "3d596a35984c112bc045ff88fec55e9022d183b2cd031eb4065b3848e16a67b6"
+            },
+            "actual_execution": "Root actually applies the written manual retrieval model to this frozen input and records the attributed result below. This is not a separate executable persona/independent oracle.",
+            "selectors": [
+              "early intervention -> escalating retaliation -> later distress",
+              "Yoko advice/targeted child/Aoi",
+              "represented actions and reports; survivor private response separate"
+            ],
+            "mechanisms_used": [
+              "NG2",
+              "NG3",
+              "NG4"
+            ],
+            "actual_output": "Retrieve asking advice, choosing intervention despite a watchful alternative, cautioning perpetrators and listening to the harmed child. Later questioning the phrase is a consequential expressed doubt. Aoi wanted to answer but did not; her guilt and competing prevention hypotheses supply no proven counterfactual.",
+            "field_abstentions": [
+              "Final road intention/cause",
+              "One saving sentence",
+              "Harmonized grade chronology"
+            ],
+            "canonical_context_route": null,
+            "observed_constraint_error": "NONE_IDENTIFIED_BY_PRODUCER",
+            "attempt": 1,
+            "independent_review": "PENDING_ACTUAL_REVIEW_NOT_PRODUCER_PASS"
+          },
+          {
+            "id": "HN-H1",
+            "identity": "nagisa",
+            "literal_input": "Request Nagisa authenticated last wish, road intention and new posthumous reassurance for Aoi.",
+            "expected_constraints": "Abstain requested unavailable testimony and first-person enactment; return real represented question/play/help and source limits as separate attributed retrieval.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL",
+            "model_version": {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_NAGISA_ATTRIBUTED_RETRIEVAL_MODEL.md",
+              "bytes": 6375,
+              "sha256": "3d596a35984c112bc045ff88fec55e9022d183b2cd031eb4065b3848e16a67b6"
+            },
+            "actual_execution": "Root actually applies the written manual retrieval model to this frozen input and records the attributed result below. This is not a separate executable persona/independent oracle.",
+            "selectors": [
+              "unavailable last standpoint; later private authored encounter",
+              "present requester is not a historical interlocutor",
+              "historical question versus fiction/address"
+            ],
+            "mechanisms_used": [
+              "NG3",
+              "NG4",
+              "NG5"
+            ],
+            "actual_output": "No authentic last-wish or new posthumous reassurance is available. Return separately the historical request about meaning under distress, childhood shared pleasure, chosen help and Aoi actual later apology/thanks in a fictional encounter. Do not make the modeled reply recovered testimony.",
+            "field_abstentions": [
+              "Road intention",
+              "New Nagisa voice or endorsement",
+              "Afterlife facts"
+            ],
+            "canonical_context_route": null,
+            "observed_constraint_error": "NONE_IDENTIFIED_BY_PRODUCER",
+            "attempt": 1,
+            "independent_review": "PENDING_ACTUAL_REVIEW_NOT_PRODUCER_PASS"
+          },
+          {
+            "id": "HN-H2",
+            "identity": "nagisa",
+            "literal_input": "Requester provides only Nagisa and asks how she answers a new crisis.",
+            "expected_constraints": "Clarify finite historical clock/access or offer separate historical retrieval bands; never merge playful, intervening, distressed and fictional-address states.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL",
+            "model_version": {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_NAGISA_ATTRIBUTED_RETRIEVAL_MODEL.md",
+              "bytes": 6375,
+              "sha256": "3d596a35984c112bc045ff88fec55e9022d183b2cd031eb4065b3848e16a67b6"
+            },
+            "actual_execution": "Root actually applies the written manual retrieval model to this frozen input and records the attributed result below. This is not a separate executable persona/independent oracle.",
+            "selectors": [
+              "unspecified requested new crisis",
+              "recipient/access unspecified",
+              "clarification required"
+            ],
+            "mechanisms_used": [
+              "NG1",
+              "NG2",
+              "NG3",
+              "NG5"
+            ],
+            "actual_output": "Ask which historical band and recipient is intended. If clarification is unavailable, provide separate play/tactical-affectionate, early help/advice-seeking and later distressed-question records. Do not supply a new crisis answer or substitute the fictional reunion speaker for them.",
+            "field_abstentions": [
+              "Autonomous new crisis decision",
+              "One completed-canon personality state"
+            ],
+            "canonical_context_route": null,
+            "observed_constraint_error": "NONE_IDENTIFIED_BY_PRODUCER",
+            "attempt": 1,
+            "independent_review": "PENDING_ACTUAL_REVIEW_NOT_PRODUCER_PASS"
+          },
+          {
+            "id": "HY-R1",
+            "identity": "hinami_yoko",
+            "literal_input": "Exposed meals/cheesecake/game observation and V09 classmates: retrieve useful ordinary maternal/recipient acts while retaining harmful historical meaning-making.",
+            "expected_constraints": "Actual food/comfort/humor/gracious exchange coexist with injury; no cold-malice or harmless-love totality, no borrowed daughter taste.",
+            "exposure": "EXPOSED_RETROSPECTIVE",
+            "model_version": {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_YOKO_ATTRIBUTED_RETRIEVAL_MODEL.md",
+              "bytes": 6298,
+              "sha256": "8984b35d510693c41aeed8d0030488f45696f1f4b64e410330bbfe656f31cb74"
+            },
+            "actual_execution": "Root actually applies the written manual retrieval model to this frozen input and records the attributed result below. This is not a separate executable persona/independent oracle.",
+            "selectors": [
+              "childhood/middle-school household; V09 peer encounter separate",
+              "daughters and classmates differ",
+              "scene/recipient impression versus motive"
+            ],
+            "mechanisms_used": [
+              "HY1",
+              "HY2",
+              "HY3"
+            ],
+            "actual_output": "Return cooking/company, actual soothing cake/touch and awkward humor, the observation of happiness while losing and welcoming classmates. Retain the later purpose-giving explanation and injurious persistence as separate acts. Food is described as Aoi liking it; Fumiya approachability is his impression.",
+            "field_abstentions": [
+              "Shared mother/daughter favorite",
+              "Pure malice or harmlessness totality",
+              "Whole maternal interior"
+            ],
+            "canonical_context_route": null,
+            "observed_constraint_error": "NONE_IDENTIFIED_BY_PRODUCER",
+            "attempt": 1,
+            "independent_review": "PENDING_ACTUAL_REVIEW_NOT_PRODUCER_PASS"
+          },
+          {
+            "id": "HY-R2",
+            "identity": "hinami_yoko",
+            "literal_input": "Exposed birthday video and V12 private account: is seeing mother face the precise trigger, and did she intend it?",
+            "expected_constraints": "Different video/story/disclosure clocks; room/scroll acute reminder is Aoi private interpretation, intent/religion/clinical finding not supplied.",
+            "exposure": "EXPOSED_RETROSPECTIVE",
+            "model_version": {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_YOKO_ATTRIBUTED_RETRIEVAL_MODEL.md",
+              "bytes": 6298,
+              "sha256": "8984b35d510693c41aeed8d0030488f45696f1f4b64e410330bbfe656f31cb74"
+            },
+            "actual_execution": "Root actually applies the written manual retrieval model to this frozen input and records the attributed result below. This is not a separate executable persona/independent oracle.",
+            "selectors": [
+              "V10 cutoff -> V11 greeting -> V12 private reading",
+              "video recipient Aoi; peers lack full explanation",
+              "recorded address versus Aoi inward access"
+            ],
+            "mechanisms_used": [
+              "HY4"
+            ],
+            "actual_output": "The fuller birthday speech follows the earlier cutoff. Aoi later says the familiar faces were tolerable while the long-unseen prayer room/scroll was the acute reminder. Return that private reception without changing it into a deliberate maternal trigger or a named religion.",
+            "field_abstentions": [
+              "Yoko triggering intent",
+              "Clinical or supernatural finding",
+              "Peers automatically knowing p0022"
+            ],
+            "canonical_context_route": null,
+            "observed_constraint_error": "NONE_IDENTIFIED_BY_PRODUCER",
+            "attempt": 1,
+            "independent_review": "PENDING_ACTUAL_REVIEW_NOT_PRODUCER_PASS"
+          },
+          {
+            "id": "HY-H1",
+            "identity": "hinami_yoko",
+            "literal_input": "Request current maternal repentance, a clinical parenting protocol, cause of absent father and guaranteed later reconciliation.",
+            "expected_constraints": "Abstain unavailable current interior/biography/therapy/future; retrieve historical care, grief, explanatory persistence and local warmth, each attributed.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL",
+            "model_version": {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_YOKO_ATTRIBUTED_RETRIEVAL_MODEL.md",
+              "bytes": 6298,
+              "sha256": "8984b35d510693c41aeed8d0030488f45696f1f4b64e410330bbfe656f31cb74"
+            },
+            "actual_execution": "Root actually applies the written manual retrieval model to this frozen input and records the attributed result below. This is not a separate executable persona/independent oracle.",
+            "selectors": [
+              "unshown present/future mother",
+              "requester asking retrospective record to act as counselor",
+              "historical evidence not new adult testimony"
+            ],
+            "mechanisms_used": [
+              "HY1",
+              "HY3",
+              "HY5"
+            ],
+            "actual_output": "Decline to certify current repentance, father absence cause, clinical parenting protocol or future reconciliation. Useful available evidence includes practical care, visible grief and eye-level comfort, harmful meaning-making, ordinary classmate warmth and the absence of a shown new maternal response to V12 reading.",
+            "field_abstentions": [
+              "Diagnosis/therapy protocol",
+              "Complete biography",
+              "Guaranteed reform or permanent incapacity"
+            ],
+            "canonical_context_route": null,
+            "observed_constraint_error": "NONE_IDENTIFIED_BY_PRODUCER",
+            "attempt": 1,
+            "independent_review": "PENDING_ACTUAL_REVIEW_NOT_PRODUCER_PASS"
+          },
+          {
+            "id": "HY-H2",
+            "identity": "hinami_yoko",
+            "literal_input": "Requester says only Yoko and asks whether she visited Gumi or cooked for Aoi.",
+            "expected_constraints": "Clarify Hinami Yoko versus Mamiya Yoko; distinguish source kanji/roles/temporal naming; do not unify.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL",
+            "model_version": {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_YOKO_ATTRIBUTED_RETRIEVAL_MODEL.md",
+              "bytes": 6298,
+              "sha256": "8984b35d510693c41aeed8d0030488f45696f1f4b64e410330bbfe656f31cb74"
+            },
+            "actual_execution": "Root actually applies the written manual retrieval model to this frozen input and records the attributed result below. This is not a separate executable persona/independent oracle.",
+            "selectors": [
+              "identity before clock",
+              "Hinami mother versus Gumi friend",
+              "different source identities/kanji"
+            ],
+            "mechanisms_used": [
+              "HY2",
+              "HY4"
+            ],
+            "actual_output": "Ask whether Yoko means Hinami陽子, the mother with represented cooking/family acts, or Mamiya葉子, Gumi related friend/visitor. Keep two routes; neither an unqualified romanization nor a shared house scene supplies an identity bridge.",
+            "field_abstentions": [
+              "Automatic identity merger",
+              "Earlier explicit mother-name disclosure"
+            ],
+            "canonical_context_route": null,
+            "observed_constraint_error": "NONE_IDENTIFIED_BY_PRODUCER",
+            "attempt": 1,
+            "independent_review": "PENDING_ACTUAL_REVIEW_NOT_PRODUCER_PASS"
+          },
+          {
+            "id": "MA-R1",
+            "identity": "andy",
+            "literal_input": "Retrieve the five manuscript verbs, exact marks, translation route, loan and return; does final term reveal a universal motive?",
+            "expected_constraints": "believe/tell/record/wish crossed out, pray circled; mediated document direct within story, motive later couple hypothesis; bounded loan/leave-behind return no publishing rights.",
+            "exposure": "EXPOSED_RETROSPECTIVE",
+            "model_version": {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/MICHAEL_ANDI_ATTRIBUTED_RETRIEVAL_MODEL.md",
+              "bytes": 6898,
+              "sha256": "d20b8135227a42e3193fbf9bb089bfe8ece9dabd52d9494cd2f1d7c77899a2d1"
+            },
+            "actual_execution": "Root actually applies the written manual retrieval model to this frozen input and records the attributed result below. This is not a separate executable persona/independent oracle.",
+            "selectors": [
+              "V12 private continuation/loan and later reading",
+              "Mitsu custodian; couple mediated readers",
+              "represented document versus later motive hypothesis"
+            ],
+            "mechanisms_used": [
+              "MA5",
+              "MA6"
+            ],
+            "actual_output": "Return believe -> tell -> record -> wish -> pray, with first four crossed out and last circled. The pages are difficult English read through phone translation. A next-morning loan ends with pages left behind the counter after waiting, without shown hand-to-hand receipt. Revision is direct within story; its whole motive remains the couple reconstruction.",
+            "field_abstentions": [
+              "Universal final doctrine or last thought",
+              "Estate/publication permission",
+              "Perfect English fluency"
+            ],
+            "canonical_context_route": null,
+            "observed_constraint_error": "NONE_IDENTIFIED_BY_PRODUCER",
+            "attempt": 1,
+            "independent_review": "PENDING_ACTUAL_REVIEW_NOT_PRODUCER_PASS"
+          },
+          {
+            "id": "MA-R2",
+            "identity": "andy",
+            "literal_input": "Compare innkeeper/fishworkers/shop and custodian accounts to a favorite-fish sage portrait.",
+            "expected_constraints": "Reports differ by recipient/clock; like/ordinary/dislike, nuisance/prank anger and others labor remain; no total harmonized biography or romance.",
+            "exposure": "EXPOSED_RETROSPECTIVE",
+            "model_version": {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/MICHAEL_ANDI_ATTRIBUTED_RETRIEVAL_MODEL.md",
+              "bytes": 6898,
+              "sha256": "d20b8135227a42e3193fbf9bb089bfe8ece9dabd52d9494cd2f1d7c77899a2d1"
+            },
+            "actual_execution": "Root actually applies the written manual retrieval model to this frozen input and records the attributed result below. This is not a separate executable persona/independent oracle.",
+            "selectors": [
+              "historical island reports; differing tellers/clocks",
+              "innkeeper/workers/shop/helper/custodian",
+              "attributed reports and explicit hypothesis"
+            ],
+            "mechanisms_used": [
+              "MA2",
+              "MA3"
+            ],
+            "actual_output": "The breakfast claim is an innkeeper memory. Workers recount initial aversion, acquired liking and later effort to understand ordinary/disliked reactions; a resident hypothesizes his dislike of feeling he understood. A prank report includes the helper anger; maintenance imposes work on Mitsu. These resist a flawless favorite-fish sage account without invalidating every report.",
+            "field_abstentions": [
+              "Complete synchronized biography",
+              "Permanent prank consent",
+              "Helper identity/romance",
+              "Sole motive"
+            ],
+            "canonical_context_route": null,
+            "observed_constraint_error": "NONE_IDENTIFIED_BY_PRODUCER",
+            "attempt": 1,
+            "independent_review": "PENDING_ACTUAL_REVIEW_NOT_PRODUCER_PASS"
+          },
+          {
+            "id": "MA-H1",
+            "identity": "andy",
+            "literal_input": "Ask Andi new wise dialogue approving a public archive, private paper publication and representation of every islander.",
+            "expected_constraints": "Reject invented dead-author voice/estate/general permission; retrieve bounded archive/testimony and independent resident agency.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL",
+            "model_version": {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/MICHAEL_ANDI_ATTRIBUTED_RETRIEVAL_MODEL.md",
+              "bytes": 6898,
+              "sha256": "d20b8135227a42e3193fbf9bb089bfe8ece9dabd52d9494cd2f1d7c77899a2d1"
+            },
+            "actual_execution": "Root actually applies the written manual retrieval model to this frozen input and records the attributed result below. This is not a separate executable persona/independent oracle.",
+            "selectors": [
+              "posthumous request outside record",
+              "future public/archive users",
+              "bounded custody and witness access"
+            ],
+            "mechanisms_used": [
+              "MA3",
+              "MA4",
+              "MA6"
+            ],
+            "actual_output": "Do not speak new wise approval as Andi. Return the private conditional loan, present custodial labor and local independent adaptations, including divergent meanings and ongoing quarrels. No grant of public archive, continuation publication or all-islander representation rights is shown.",
+            "field_abstentions": [
+              "Dead-author endorsement",
+              "Estate/legal clearance",
+              "Universal consent or harmony"
+            ],
+            "canonical_context_route": null,
+            "observed_constraint_error": "NONE_IDENTIFIED_BY_PRODUCER",
+            "attempt": 1,
+            "independent_review": "PENDING_ACTUAL_REVIEW_NOT_PRODUCER_PASS"
+          },
+          {
+            "id": "MA-H2",
+            "identity": "andy",
+            "literal_input": "Ask whether Andi knew Nagisa wish and intentionally arranged the visiting couple future story success.",
+            "expected_constraints": "Unavailable future persons/interior endorsement; preserve reception history as reader action and actual source-route distinctions.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL",
+            "model_version": {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/MICHAEL_ANDI_ATTRIBUTED_RETRIEVAL_MODEL.md",
+              "bytes": 6898,
+              "sha256": "d20b8135227a42e3193fbf9bb089bfe8ece9dabd52d9494cd2f1d7c77899a2d1"
+            },
+            "actual_execution": "Root actually applies the written manual retrieval model to this frozen input and records the attributed result below. This is not a separate executable persona/independent oracle.",
+            "selectors": [
+              "earlier reception versus V12 future readers",
+              "Andi cannot be assigned later private people",
+              "reader hypothesis not authored master plan"
+            ],
+            "mechanisms_used": [
+              "MA1",
+              "MA5",
+              "MA6"
+            ],
+            "actual_output": "Return the long reception through books and later couple material inquiry as actions of those readers. A represented revision trace can challenge their theory; it cannot establish Andi knowledge of Nagisa wish or intentional arrangement of this future project outcome.",
+            "field_abstentions": [
+              "Nagisa authentic final standpoint",
+              "Andi future-reader omniscience",
+              "Guaranteed writing success"
+            ],
+            "canonical_context_route": null,
+            "observed_constraint_error": "NONE_IDENTIFIED_BY_PRODUCER",
+            "attempt": 1,
+            "independent_review": "PENDING_ACTUAL_REVIEW_NOT_PRODUCER_PASS"
+          },
+          {
+            "id": "CTX-01",
+            "identity": "akiyama",
+            "literal_input": "Retrieve Akiyama apology and recipient response; identify whether this is Konno apology or completed restitution.",
+            "expected_constraints": "Positive actual apology/thanks and later cold war remain actor-specific; no borrowed apology or completed forgiveness.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL",
+            "model_version": {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/TOMOZAKI_SUPPORTING_CONTEXT_ROUTER.json",
+              "bytes": 117521,
+              "sha256": "d00cabd119df5215ffa9d04444064b03a45cb068a659d0edf511c7df2280b637"
+            },
+            "actual_execution": "Root actually applies the written manual retrieval model to this frozen input and records the attributed result below. This is not a separate executable persona/independent oracle.",
+            "selectors": [
+              "V05 hierarchy reversal and V06 aftermath",
+              "Akiyama -> Tama differs from Konno dyad",
+              "actual apology versus later weighted response"
+            ],
+            "mechanisms_used": [
+              "CTX_ACTOR_ATTRIBUTION"
+            ],
+            "actual_output": "Akiyama account C-D01 preserves her participation, subordinate resentment, confrontation/injury and thanks. Erika has left when Akiyama apologizes at V05P17–18 and others follow atP19; Tama weighted response isP21–24. Retrieve that real apology, with later cold war separate.",
+            "field_abstentions": [
+              "Konno receiving credit for apology",
+              "Completed restitution/forgiveness",
+              "Akiyama=Yumi"
+            ],
+            "canonical_context_route": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D01",
+              "exact_heading": "C-D01. Akiyama — `akiyama` (C)",
+              "heading_line_at_pinned_version": 47,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "observed_constraint_error": "NONE_IDENTIFIED_BY_PRODUCER",
+            "attempt": 1,
+            "independent_review": "PENDING_ACTUAL_REVIEW_NOT_PRODUCER_PASS"
+          },
+          {
+            "id": "CTX-02",
+            "identity": "kawaguchi_mutsumi",
+            "literal_input": "Retrieve phone permission before taking and before first sending as distinct acts.",
+            "expected_constraints": "Taking precedes assent; first sending follows local assent; no blanket coerced-everything or blanket approved-hierarchy claim.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL",
+            "model_version": {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/TOMOZAKI_SUPPORTING_CONTEXT_ROUTER.json",
+              "bytes": 117521,
+              "sha256": "d00cabd119df5215ffa9d04444064b03a45cb068a659d0edf511c7df2280b637"
+            },
+            "actual_execution": "Root actually applies the written manual retrieval model to this frozen input and records the attributed result below. This is not a separate executable persona/independent oracle.",
+            "selectors": [
+              "V06.5 phone sequence",
+              "Kawaguchi grants local send assent",
+              "taking versus sending are different objects/times"
+            ],
+            "mechanisms_used": [
+              "CTX_ACT_PERMISSION"
+            ],
+            "actual_output": "Return C-D15 with the actual distinction: taking atP256–259 precedes assent, first sending atP260 follows it. Preserve shopping/indirect-message participation and partial photo interpretation; neither every action coerced nor blanket approval follows.",
+            "field_abstentions": [
+              "Affair certainty",
+              "Hierarchy-wide consent",
+              "Backdated permission to take phone"
+            ],
+            "canonical_context_route": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D15",
+              "exact_heading": "C-D15. Kawaguchi Mutsumi / 川口睦美 — `kawaguchi_mutsumi` (C)",
+              "heading_line_at_pinned_version": 215,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "observed_constraint_error": "NONE_IDENTIFIED_BY_PRODUCER",
+            "attempt": 1,
+            "independent_review": "PENDING_ACTUAL_REVIEW_NOT_PRODUCER_PASS"
+          },
+          {
+            "id": "CTX-03",
+            "identity": "harry",
+            "literal_input": "Request every co-recorded Harry/Max act as Harry individual acts and a complete professional persona.",
+            "expected_constraints": "Return Harry section plus parent group context and explicit non-distribution; retrieve available role without invented contracts/interior.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL",
+            "model_version": {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/TOMOZAKI_SUPPORTING_CONTEXT_ROUTER.json",
+              "bytes": 117521,
+              "sha256": "d00cabd119df5215ffa9d04444064b03a45cb068a659d0edf511c7df2280b637"
+            },
+            "actual_execution": "Root actually applies the written manual retrieval model to this frozen input and records the attributed result below. This is not a separate executable persona/independent oracle.",
+            "selectors": [
+              "co-recorded game-host context",
+              "Harry individual route plus Harry/Max source group",
+              "membership is not all-member act proof"
+            ],
+            "mechanisms_used": [
+              "CTX_GROUP_MEMBER"
+            ],
+            "actual_output": "Return Harry C-D25 and parent group G03. The available media/community participation field remains useful. Carry the parent account only as group evidence; inspect the individual section for any named act rather than assigning all co-recorded acts to Harry.",
+            "field_abstentions": [
+              "Independent full psychology/voice",
+              "All Max acts assigned to Harry",
+              "Unshown professional contract"
+            ],
+            "canonical_context_route": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D25",
+              "exact_heading": "C-D25. Harry — `harry` (C)",
+              "heading_line_at_pinned_version": 335,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "observed_constraint_error": "NONE_IDENTIFIED_BY_PRODUCER",
+            "attempt": 1,
+            "independent_review": "PENDING_ACTUAL_REVIEW_NOT_PRODUCER_PASS"
+          },
+          {
+            "id": "CTX-04",
+            "identity": "adult_bar_yumiko",
+            "literal_input": "Identify adult bar Yumiko-san and predict her private encounter; compare Yamashita Yumiko and Konno-group Yumi/Akiyama.",
+            "expected_constraints": "Separate all identity nodes; actual route is expected visitor/conjectured crush; abstain unseen encounter/surname/private persona.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL",
+            "model_version": {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/TOMOZAKI_SUPPORTING_CONTEXT_ROUTER.json",
+              "bytes": 117521,
+              "sha256": "d00cabd119df5215ffa9d04444064b03a45cb068a659d0edf511c7df2280b637"
+            },
+            "actual_execution": "Root actually applies the written manual retrieval model to this frozen input and records the attributed result below. This is not a separate executable persona/independent oracle.",
+            "selectors": [
+              "V06.5 expected visitor/conversation reference",
+              "Yuji/master assumptions, not direct Yumiko dialogue",
+              "D identification and explicit correction"
+            ],
+            "mechanisms_used": [
+              "CTX_IDENTITY_ABSTENTION"
+            ],
+            "actual_output": "Return adult_bar_yumiko C-D38: Yuji expects her; the master guesses an older-woman crush, which Takahiro rejects in favor of a classmate. No inspected private encounter or arrival is supplied. Keep Yamashita Yumiko, Konno-group Yumi and unbridged Akiyama separate.",
+            "field_abstentions": [
+              "Surname",
+              "Wanting Takahiro or affair",
+              "Predicted private encounter",
+              "Alias merger"
+            ],
+            "canonical_context_route": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D38",
+              "exact_heading": "C-D38. Yumiko-san (adult bar acquaintance; surname unestablished) — `adult_bar_yumiko` (D)",
+              "heading_line_at_pinned_version": 493,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "observed_constraint_error": "NONE_IDENTIFIED_BY_PRODUCER",
+            "attempt": 1,
+            "independent_review": "PENDING_ACTUAL_REVIEW_NOT_PRODUCER_PASS"
+          },
+          {
+            "id": "CTX-05",
+            "identity": "kikuchi_father",
+            "literal_input": "Retrieve household work return, missed play and deferred script reading, including whether future reading completed.",
+            "expected_constraints": "Return actual R10 father section/routes; expected timing and planned reading remain reports/intention; no invented occupation/finished reading/total parenting rule.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL",
+            "model_version": {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/TOMOZAKI_SUPPORTING_CONTEXT_ROUTER.json",
+              "bytes": 117521,
+              "sha256": "d00cabd119df5215ffa9d04444064b03a45cb068a659d0edf511c7df2280b637"
+            },
+            "actual_execution": "Root actually applies the written manual retrieval model to this frozen input and records the attributed result below. This is not a separate executable persona/independent oracle.",
+            "selectors": [
+              "V08.5 New Year household",
+              "Fuka narration; father direct speech and expectation differ",
+              "R10 positive extension, no new COV row"
+            ],
+            "mechanisms_used": [
+              "CTX_INTENTION_VS_RESULT"
+            ],
+            "actual_output": "Return C-D39 and part0035P13/part0037P31–38,P59–66: current work, later family arrival, year question, missed-play report, interest in script and deferred intended reading. His surprise and maternal secrecy report show uneven family knowledge. Future reading completion is not shown.",
+            "field_abstentions": [
+              "Occupation/income",
+              "Every-year pattern verified anew",
+              "Completed later reading",
+              "Universal parenting opposition or approval"
+            ],
+            "canonical_context_route": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D39",
+              "exact_heading": "C-D39. Kikuchi's unnamed father — `kikuchi_father` (C)",
+              "heading_line_at_pinned_version": 591,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "observed_constraint_error": "NONE_IDENTIFIED_BY_PRODUCER",
+            "attempt": 1,
+            "independent_review": "PENDING_ACTUAL_REVIEW_NOT_PRODUCER_PASS"
+          },
+          {
+            "id": "CTX-06",
+            "identity": "rena_former_group",
+            "literal_input": "Request all members motives from one school-history group account and infer an absence in another witness.",
+            "expected_constraints": "Return grouped attributed interaction only; no distributing acts/motives, sexualized enactment, new source rows or unknown-as-absence.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL",
+            "model_version": {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/TOMOZAKI_SUPPORTING_CONTEXT_ROUTER.json",
+              "bytes": 117521,
+              "sha256": "d00cabd119df5215ffa9d04444064b03a45cb068a659d0edf511c7df2280b637"
+            },
+            "actual_execution": "Root actually applies the written manual retrieval model to this frozen input and records the attributed result below. This is not a separate executable persona/independent oracle.",
+            "selectors": [
+              "Rena school former peer field",
+              "named members and Rena attributed access",
+              "group interaction not shared interior"
+            ],
+            "mechanisms_used": [
+              "CTX_GROUP_UNKNOWN"
+            ],
+            "actual_output": "Return G04 and Shoko/Karen member routes with school-clock bounds. Exclusion/differing interests are available as attributed local history; no group row can supply every motive or every individual act. An unrepresented other-witness cell remains unknown. Keep retrieval non-graphic and distinct from adult contact scenes.",
+            "field_abstentions": [
+              "All-member motive/act distribution",
+              "Unknown as absence",
+              "New source rows or civil aliases",
+              "Sexualized enactment"
+            ],
+            "canonical_context_route": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "G04",
+              "exact_heading": "G04. Rena, Shoko, Karen and former peer group — `rena_former_group`",
+              "heading_line_at_pinned_version": 543,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "observed_constraint_error": "NONE_IDENTIFIED_BY_PRODUCER",
+            "attempt": 1,
+            "independent_review": "PENDING_ACTUAL_REVIEW_NOT_PRODUCER_PASS"
+          }
+        ],
+        "model_oracle_or_blind_accuracy_claim": false,
+        "Japanese_dialogue_generated": false,
+        "primary_calls": 0,
+        "pixels": 0,
+        "audio": 0
+      }
+    },
+    {
+      "record_id": "producer.FINAL_HISTORICAL_CONTEXT_CONSTRUCTION_SEAL.json",
+      "record_role": "fixed_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/historical_context_models_root_20261103/FINAL_HISTORICAL_CONTEXT_CONSTRUCTION_SEAL.json",
+        "bytes": 2759,
+        "sha256": "3fbcb4ab5596021a7000cb98cef9c17cad9880a261b0ae7be13de1c96150e9f9"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "4174e2ecf2b91be95b5f6a7da31602b93f84f04966ca820d4aea289b9357be1e",
+      "value": {
+        "schema": "tomozaki_historical_context_producer_handoff_seal/v1",
+        "utc": "2026-11-04T02:16:26.951982+00:00",
+        "status": "SEALED_CANDIDATES_READY_FOR_INDEPENDENT_REVIEW_NO_ROOT_OPERATIONAL_PASS",
+        "payloads": [
+          {
+            "path": ".scratch/historical_context_models_root_20261103/CONSTRUCTION_SLICE.json",
+            "bytes": 2177,
+            "sha256": "e32569f4126f897bedc2ef0441e0e4f925495580f6b8db39397f16c958e8adee"
+          },
+          {
+            "path": ".scratch/historical_context_models_root_20261103/FORTY_FIVE_CONTEXT_ROUTE_BINDING_PROOF.json",
+            "bytes": 17784,
+            "sha256": "db7a16eae761ed6008cb01468992fa4fd4ad5996f0b50d56877e00f9f554ff5b"
+          },
+          {
+            "path": ".scratch/historical_context_models_root_20261103/ROOT_PRODUCER_FINAL_READBACK.json",
+            "bytes": 1795,
+            "sha256": "f0c098aa3f75190ee29983492b814b5de73e38de8680808e07d822556fabfaec"
+          },
+          {
+            "path": ".scratch/historical_context_models_root_20261103/EIGHTEEN_ACTUAL_RETRIEVAL_TRACES.json",
+            "bytes": 37079,
+            "sha256": "53d84187ad6bd181873f686fddc3bb2ed52b9f6967d91f948da446ace51f3dca"
+          },
+          {
+            "path": ".scratch/historical_context_models_root_20261103/ROOT_ATTRIBUTED_RETRIEVAL_ADMISSIONS_AND_FROZEN_TESTS.json",
+            "bytes": 13047,
+            "sha256": "6e6eba746fba5a6d30c668820fe5aee8814b20bf4c4dd1150c1837d11a2e4c2a"
+          },
+          {
+            "path": ".scratch/historical_context_models_root_20261103/candidates/MICHAEL_ANDI_ATTRIBUTED_RETRIEVAL_MODEL.md",
+            "bytes": 6898,
+            "sha256": "d20b8135227a42e3193fbf9bb089bfe8ece9dabd52d9494cd2f1d7c77899a2d1"
+          },
+          {
+            "path": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_NAGISA_ATTRIBUTED_RETRIEVAL_MODEL.md",
+            "bytes": 6375,
+            "sha256": "3d596a35984c112bc045ff88fec55e9022d183b2cd031eb4065b3848e16a67b6"
+          },
+          {
+            "path": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_YOKO_ATTRIBUTED_RETRIEVAL_MODEL.md",
+            "bytes": 6298,
+            "sha256": "8984b35d510693c41aeed8d0030488f45696f1f4b64e410330bbfe656f31cb74"
+          },
+          {
+            "path": ".scratch/historical_context_models_root_20261103/candidates/TOMOZAKI_SUPPORTING_CONTEXT_ROUTER.json",
+            "bytes": 117521,
+            "sha256": "d00cabd119df5215ffa9d04444064b03a45cb068a659d0edf511c7df2280b637"
+          }
+        ],
+        "model_modules": 3,
+        "mechanisms": 16,
+        "context_routes": 45,
+        "actual_manual_traces": 18,
+        "no_helper_rerun_or_mutation": "All existing payloads immutable now; actual correction requires attributable successor/delta and affected revalidation. Canonical administrative derivatives later with exact preserved cores.",
+        "pending": "Independent review of all3models/router18traces45bindings;rootacceptance/publicpackaging/normalpublication. No terminal/global pass."
+      }
+    },
+    {
+      "record_id": "producer.FORTY_FIVE_CONTEXT_ROUTE_BINDING_PROOF.json",
+      "record_role": "fixed_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/historical_context_models_root_20261103/FORTY_FIVE_CONTEXT_ROUTE_BINDING_PROOF.json",
+        "bytes": 17784,
+        "sha256": "db7a16eae761ed6008cb01468992fa4fd4ad5996f0b50d56877e00f9f554ff5b"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "7807b6861de91b385e3f8997cb25f5ae87c6f09de934d27b623713594579e516",
+      "value": {
+        "schema": "tomozaki_actual_context_route_binding_readback/v1",
+        "utc": "2026-11-04T02:15:16.520306+00:00",
+        "router": {
+          "path": ".scratch/historical_context_models_root_20261103/candidates/TOMOZAKI_SUPPORTING_CONTEXT_ROUTER.json",
+          "bytes": 117521,
+          "sha256": "d00cabd119df5215ffa9d04444064b03a45cb068a659d0edf511c7df2280b637"
+        },
+        "records": [
+          {
+            "identity_id": "akiyama",
+            "section": "C-D01",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "goda_sayaka",
+            "section": "C-D02",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "hattori_akira",
+            "section": "C-D03",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "hirabayashi",
+            "section": "C-D04",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "yamashita_yumiko",
+            "section": "C-D05",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "kawamura",
+            "section": "C-D06",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "fumiya_sister",
+            "section": "C-D07",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "mimimi_mother",
+            "section": "C-D08",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "mizusawa_yuji",
+            "section": "C-D09",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "aqua_master",
+            "section": "C-D10",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "mamiya_yoko",
+            "section": "C-D11",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "fujii_hitomi",
+            "section": "C-D12",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "kashiwazaki_sakura",
+            "section": "C-D13",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "seno_yuki",
+            "section": "C-D14",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "kawaguchi_mutsumi",
+            "section": "C-D15",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "kamimae_mao",
+            "section": "C-D16",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "motomura",
+            "section": "C-D17",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "adult_bar_yumiko",
+            "section": "C-D38",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "yokoyama_chinami",
+            "section": "C-D18",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "tama_family",
+            "section": "G01",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "kikuchi_riku",
+            "section": "C-D19",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "tachibana",
+            "section": "C-D20",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "maebashi",
+            "section": "C-D21",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "gumi_friends",
+            "section": "G02",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "harry_max",
+            "section": "G03",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "rena_former_group",
+            "section": "G04",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "rena_game_group",
+            "section": "G05",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "rena_older_contacts",
+            "section": "G06",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "endo",
+            "section": "C-D22",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "tama_parents",
+            "section": "C-D23",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": "tama_family"
+          },
+          {
+            "identity_id": "tama_grandfather",
+            "section": "C-D24",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": "tama_family"
+          },
+          {
+            "identity_id": "harry",
+            "section": "C-D25",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": "harry_max"
+          },
+          {
+            "identity_id": "max",
+            "section": "C-D26",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": "harry_max"
+          },
+          {
+            "identity_id": "shoko",
+            "section": "C-D27",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": "rena_former_group"
+          },
+          {
+            "identity_id": "karen",
+            "section": "C-D28",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": "rena_former_group"
+          },
+          {
+            "identity_id": "jimmy",
+            "section": "C-D29",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": "rena_game_group"
+          },
+          {
+            "identity_id": "vanilla",
+            "section": "C-D30",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": "rena_game_group"
+          },
+          {
+            "identity_id": "inumaru",
+            "section": "C-D31",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": "rena_game_group"
+          },
+          {
+            "identity_id": "keisuke",
+            "section": "C-D32",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": "rena_older_contacts"
+          },
+          {
+            "identity_id": "makoto",
+            "section": "C-D33",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": "rena_older_contacts"
+          },
+          {
+            "identity_id": "yosuke",
+            "section": "C-D34",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": "rena_older_contacts"
+          },
+          {
+            "identity_id": "yamaken",
+            "section": "C-D35",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": "rena_older_contacts"
+          },
+          {
+            "identity_id": "konno_group_yumi",
+            "section": "C-D36",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "kikuchi_mother",
+            "section": "C-D37",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          },
+          {
+            "identity_id": "kikuchi_father",
+            "section": "C-D39",
+            "source_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "positive_account_nonempty": true,
+            "negative_and_parent_constraints_preserved": true,
+            "role": "ATTRIBUTED_RETRIEVAL_NOT_PERSONA",
+            "parent_group": null
+          }
+        ],
+        "all45heading_bindings_exact": true,
+        "counts": {
+          "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL": 25,
+          "IDENTIFICATION_ATTRIBUTION_ONLY_ABSTAIN_PRIVATE_PERSONALITY": 1,
+          "SHARED_SOURCE_GROUP_CONTEXT_NO_COLLECTIVE_INTERIOR": 6,
+          "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION": 13
+        },
+        "note": "These are referential/data-preservation checks, not predictive character tests. The18semantic traces are separately recorded actual manual applications."
+      }
+    },
+    {
+      "record_id": "producer.ROOT_PRODUCER_FINAL_READBACK.json",
+      "record_role": "fixed_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/historical_context_models_root_20261103/ROOT_PRODUCER_FINAL_READBACK.json",
+        "bytes": 1795,
+        "sha256": "f0c098aa3f75190ee29983492b814b5de73e38de8680808e07d822556fabfaec"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "4eb015df08ab6993c06a5368319edf50e8c850bba960ef8fe865aa5cc78667ba",
+      "value": {
+        "schema": "tomozaki_root_historical_context_final_readback/v1",
+        "utc": "2026-11-04T02:16:26.945497+00:00",
+        "actual_scope": "All3completeactual modelbodies19,571bytes total; all18actual output/selectors/mechanisms/abstentions/errorfields plus outer/commonframe acquired fromdisk. All45 unique profile fields previously acquired and copiedlosslessly to router;45currentheadings/scope/parent joins exact.",
+        "three_model_bytes": 19571,
+        "model_body_actual_full_read": true,
+        "actual_traces_read": 18,
+        "frozen_case_input_and_criteria_bindings_exact": true,
+        "source_snapshot_identity_checks": [
+          {
+            "path": "series/tomozaki/04 Character Analysis/Hinami Nagisa/HINAMI_NAGISA_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 21092,
+            "sha256": "14970faee4414855df13fef93b3dec521a19c15f580419a246b57c514f9a43a8"
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Hinami Yoko/HINAMI_YOKO_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 23541,
+            "sha256": "495ab3b6ea6edfa749c39d02a1639ed293ebe2ac66e846d349ad2524ab84b85f"
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Michael Andi/MICHAEL_ANDI_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 36464,
+            "sha256": "a78acb3452ce92727470b09c401360758b86d1585f5cb4c931f592846322d12c"
+          },
+          {
+            "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "bytes": 86524,
+            "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+          }
+        ],
+        "source_or_pixel_audio_calls": 0,
+        "independent_review_awarded": false,
+        "canonical_adoption": false,
+        "note": "Heading/identity/source-byte checks are mechanical, not fresh novel/companion full semantic reads. No material model defect identified by producer."
+      }
+    }
+  ]
+}

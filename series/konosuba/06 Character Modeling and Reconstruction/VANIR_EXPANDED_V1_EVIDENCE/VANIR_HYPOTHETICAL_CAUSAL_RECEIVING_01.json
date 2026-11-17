@@ -1,0 +1,60 @@
+{
+  "schema": "KONOSUBA_VANIR_HYPOTHETICAL_CAUSAL_RECEIVING_V1",
+  "reviewer": "Same informed author; no delegated or independent review.",
+  "pairs": [
+    {
+      "id": "VN-H01",
+      "finding": "The missing-record response requests evidence; the supplied-record response diagnoses only the explicit blank field. This checks bounded accounting but the cause is given directly by the input.",
+      "limits": "No foresight mechanism, novel causal discovery, payment approval or uncertainty calibration was empirically tested.",
+      "confidence_transition": "NONE"
+    },
+    {
+      "id": "VN-H02",
+      "finding": "Chosen company and a conditional fallback generate different next steps without an invented appointment.",
+      "limits": "These are source-like, heavily cued contrasts. Friend value and provider dependence remain confounded; irreversible tradeoffs and a numeric loss threshold stay underidentified.",
+      "confidence_transition": "NONE"
+    },
+    {
+      "id": "VN-H03",
+      "finding": "The exact owned promise changes the constructed appraisal from negotiation to initiating bounded help.",
+      "limits": "It does not isolate contract pride, attachment or reputation, test final-life risk, or demonstrate universal magical enforcement. A completely unfamiliar commitment may behave differently.",
+      "confidence_transition": "NONE"
+    },
+    {
+      "id": "VN-H04",
+      "finding": "Own autonomy receives a direct refusal; host consent is postponed while he begins a programme, showing presumptive pressure. The narrative correctly leaves host assent and possession unperformed.",
+      "limits": "The response is one admissible biased continuation, not evidence that he always chooses it. Clarify in the prose that a character may falsely call an arrangement settled while the analyst must not record agreement.",
+      "confidence_transition": "NONE"
+    },
+    {
+      "id": "VN-H05",
+      "finding": "The Aqua exchange contains a jab that delays obtaining information; the Maxwell exchange uses repeated formal introduction. Neither invents the number or counterpart compliance.",
+      "limits": "Addressee changes bundle relationship, category and history. English functional voice is not a Japanese phrasing, audio or isolated-effect test.",
+      "confidence_transition": "NONE"
+    },
+    {
+      "id": "VN-H06",
+      "finding": "Explicitly enforceable shifts change allocation and evoke repricing language. The no-penalty response chooses no repeat without manufacturing forgiveness.",
+      "limits": "The weak-cost response's restraint is underidentified and must not become a general respect-for-objection rule. Prompt restrictions and known-source analogy make any favorable performance weak evidence.",
+      "confidence_transition": "NONE"
+    }
+  ],
+  "outputs_unchanged": true,
+  "score": null,
+  "independent_validation_credit": 0,
+  "source_validation_credit": 0,
+  "confidence_increase": false,
+  "prose_revision": "Clarify actor declaration versus narrator agreement, mark hypothetical underidentification and preserve all eight rules and confidence states; no new source fact or exception added.",
+  "remaining_open": [
+    "Irreversible friend/project/owned-duty ranking",
+    "Exact sight range, cost and choice to use it",
+    "Comparative attachment versus provider dependence",
+    "Threshold for restraining versus prolonging humiliation",
+    "Final-life risk and universal contractual enforcement",
+    "All unprovided counterpart replies and offstage outcomes"
+  ],
+  "reviewed_utc": "2026-10-19T22:19:18.805925+00:00",
+  "draft01_sha256": "7e425047ece719be726cb4c89714b972e530cda98bb443061832c313b663262c",
+  "draft02_sha256": "b1822cd319e7e90eeac31f5e3b11905d687f7733b9828d2c40d258f7584e2762",
+  "first_outputs_sha256": "848861631d3d970550e551628f1dcf77069b951842d5885b00eef7454a27c267"
+}

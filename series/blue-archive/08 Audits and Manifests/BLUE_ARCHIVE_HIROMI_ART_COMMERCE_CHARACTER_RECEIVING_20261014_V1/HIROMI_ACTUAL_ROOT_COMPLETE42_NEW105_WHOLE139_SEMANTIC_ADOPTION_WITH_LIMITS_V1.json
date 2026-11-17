@@ -1,0 +1,1051 @@
+{
+  "schema": "ROOT_HIROMI_CURRENT167_LITERAL42_SOURCE1_NEW105_EXACT8_ACTUAL_SEMANTIC_ADOPTION_V1",
+  "ROOT": "/root",
+  "signature": "SIGNED_BY_ROOT_AFTER_ACTUAL_COMPLETE_PERSONAL_SOURCE_BODY_PURPOSE_JOIN_QA_RECEIVING_AND_EXECUTED_RAW_PRESERVATION",
+  "decision": "ACCEPT_CURRENT_HIROMI_COMPLETE167_LITERAL42_NEW105_SOURCE1_EXACT8_EXISTING_CHARACTER_HOME_WITH_LIMITS_FOR_METADATA_ONLY_PUBLIC_COMPOSITION",
+  "existing_home": "P3-CHAR-HIROMI-ART-COMMERCE-SOURCE-SCOPED",
+  "required_CSV_physical_line": 335,
+  "required_index_zero_based_row": 333,
+  "mandatory_named_duty": null,
+  "exact_author_manifest": {
+    "private_witness_id": "HIROMI_COMPLETE_CURRENT167_LITERAL42_SOURCE1_NEW105_EXACT8_FINAL_AUTHOR_MANIFEST_V2",
+    "bytes": 28421,
+    "sha256": "66b8c43b1cbf9d36ad78ded0d826203b5bd355ce7deb0efc56a25bce50cd315b",
+    "git_blob_oid_of_actual_bytes": "6bdd35281abd48d144b68c0de3dd84eface2862c",
+    "actual_receiving": "Exact full operative author metadata and final8/closure in ee03d6/87cde1/426083/1def8e; reader manifest independently received01fa29; guard fixed full28421 raw inverse/current pins4428 executed640913."
+  },
+  "exact8_adopted_meaning_before_public_metadata_composition": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "bytes": 37729,
+      "sha256": "b7d396dd8993c8fb8ff1386bf22d250d7303386c18993d456570628064cfe14c",
+      "git_blob_oid_of_actual_bytes": "d534074256b548080789723b0f04ac2c29353732"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_CURRENT105_NEW_PURPOSE_JUDGMENTS_HP000_HP035_V1.json",
+      "bytes": 390693,
+      "sha256": "22886fc4ce4c91ea43c074d6bdabb124832ca64eb8e1506b6e3e2337777f2dd1",
+      "git_blob_oid_of_actual_bytes": "8fb24c101ac5e63edd920452c0c125117eb9bacf"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_CURRENT105_NEW_PURPOSE_JUDGMENTS_HP036_HP070_V1.json",
+      "bytes": 526443,
+      "sha256": "5b58a98f0fbbbdcde12638f38df6afc46d19bdd194da4fc04c61749808bfd0ae",
+      "git_blob_oid_of_actual_bytes": "87d9bd2c403882ee437dcd4719886ec0e42a4a20"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_CURRENT105_NEW_PURPOSE_JUDGMENTS_HP071_HP104_V1.json",
+      "bytes": 686375,
+      "sha256": "d9c61cd71ee9cd3b6e7d3fee43a6de72eca5ca7b96821f3b15ac47651e9b4b76",
+      "git_blob_oid_of_actual_bytes": "afe58962be010137e25053618e3525742ef9dcc5"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_CURRENT1_SOURCE_INPUT_AND_GRADE_RECEIVING_V1.json",
+      "bytes": 25239,
+      "sha256": "e0d73226c6fd567bd00e78eaf50f285d2bbe26b717fe044afd9aec2535261ef2",
+      "git_blob_oid_of_actual_bytes": "0203f285e20cb07d11c042578c571fd7c4aa20cd"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "bytes": 191861,
+      "sha256": "333994b63e344cdc2a3fc5df3f54210d74f31902815e74499c4f262d9c7060d6",
+      "git_blob_oid_of_actual_bytes": "a8d3364d739aa615189d5eebfaa97c7745e86af9"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_CURRENT_LITERAL42_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 415087,
+      "sha256": "f4787c690739cd509fb677eba7ce0576f9ea017f1cf73be8bd37360e6565fae1",
+      "git_blob_oid_of_actual_bytes": "d79ff6e271063a282cac882e8494bd96bcfaf2f8"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIROMI_ART_COMMERCE_CHARACTER_RECEIVING_20261014_V1/HIROMI_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 7597,
+      "sha256": "2988dd238dc7cda9cf9732409fbc88eceada85970d48dbee77d5db3ffc1dbfaf",
+      "git_blob_oid_of_actual_bytes": "f2bd3adc468d9e7dbdb50a4b9e7366367d3b2c39"
+    }
+  ],
+  "actual_ROOT_complete_receiving_journals": [
+    {
+      "witness_id": "ROOT_HIROMI_CURRENT167_COMPLETE_BODY_ONLY_ACTUAL_PERSONAL_RECEIVING_JOURNAL_20261014_V1.json",
+      "bytes": 66259,
+      "sha256": "6bc5a32a8cf3d33d5e0499841a7eadc06752870783097be77d0d78048e2432e5",
+      "git_blob_oid_of_actual_bytes": "2f08bd8b5ec865b4359cd4a0499cd79b1e998894"
+    },
+    {
+      "witness_id": "ROOT_HIROMI_CURRENT37_SOURCE_INPUT_COMPLETE105_NEW_PURPOSES_ACTUAL_PERSONAL_RECEIVING_ONLY_JOURNAL_20261014_V2.json",
+      "bytes": 407691,
+      "sha256": "9d7e61954eb0d9f2f2e0b72078bdd51d9a6cd5345b1e4aee79f04ffe8590d49c",
+      "git_blob_oid_of_actual_bytes": "080c7f6606afe9e1606791b64ed940a59ef59705"
+    },
+    {
+      "witness_id": "ROOT_HIROMI_CURRENT42_COMPLETE_LITERAL_SOURCE_QUESTION_PURPOSE_JOINS_ACTUAL_PERSONAL_RECEIVING_ONLY_JOURNAL_20261014_V1.json",
+      "bytes": 143072,
+      "sha256": "386ccc00a5f43b6612c04d5c28a54cc44b4e3e08522012f18ba9ffcfa0d0ddce",
+      "git_blob_oid_of_actual_bytes": "cc761891ef0eec654c56668856898f0baec5a4b7"
+    },
+    {
+      "witness_id": "ROOT_HIROMI_CHARACTER16_RIVAL8_END16_GAP14_CONTROL85_ACTUAL_PERSONAL_RECEIVING_ONLY_JOURNAL_20261014_V1.json",
+      "bytes": 173946,
+      "sha256": "b44c89233b01445b19b735deccb3cb3743fa401238d64febef0260331b2ff7b2",
+      "git_blob_oid_of_actual_bytes": "3998c8c3ffd57fdbb6f80c8cb0752d344387f195"
+    }
+  ],
+  "actual_ROOT_whole_body167_pages": [
+    {
+      "actual_tool_chunk_id": "741921",
+      "page": 0
+    },
+    {
+      "actual_tool_chunk_id": "9eb2c9",
+      "page": 32
+    },
+    {
+      "actual_tool_chunk_id": "6408af",
+      "page": 64
+    },
+    {
+      "actual_tool_chunk_id": "f85613",
+      "page": 96
+    },
+    {
+      "actual_tool_chunk_id": "6a2d76",
+      "page": 128
+    },
+    {
+      "actual_tool_chunk_id": "2527ff",
+      "page": 160
+    }
+  ],
+  "actual_ROOT_maintained139_source": {
+    "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_850/BLUE_ARCHIVE_EVENT_850_CONTEXTUALIZATION_CHECKPOINT.md",
+    "bytes": 28418,
+    "sha256": "a5ea335dfd318422d128e6f5f8a6e0a5a041a88331bbf3839cb9c18a217edc9c",
+    "git_blob_oid_of_actual_bytes": "e213a371a863d781a16bb0fbcebcf888a83fff83",
+    "actual_whole_receiving": [
+      "867fe7 L1–75",
+      "ea9594 L76–128",
+      "f823d5 L129–139 EOF"
+    ],
+    "reuse_scope": "Actual ROOT complete maintained written139 argument from Art remains exact and adequate for current Hiromi interpretation. Producer12 primary/native/raw/AV and contributors original26whole79selected stay attributed; no new primary or105normal consumption."
+  },
+  "actual_complete_new105_and_QA": {
+    "owners": "O000–104",
+    "new_fields": 525,
+    "actual_pages": [
+      {
+        "actual_tool_chunk_id": "b8e1dc",
+        "range": [
+          0,
+          8
+        ]
+      },
+      {
+        "actual_tool_chunk_id": "780bed",
+        "range": [
+          8,
+          16
+        ]
+      },
+      {
+        "actual_tool_chunk_id": "d3ccf5",
+        "range": [
+          16,
+          24
+        ]
+      },
+      {
+        "actual_tool_chunk_id": "948784",
+        "range": [
+          24,
+          32
+        ]
+      },
+      {
+        "actual_tool_chunk_id": "6e476b",
+        "range": [
+          32,
+          40
+        ]
+      },
+      {
+        "actual_tool_chunk_id": "d4002d",
+        "range": [
+          40,
+          48
+        ]
+      },
+      {
+        "actual_tool_chunk_id": "81278a",
+        "range": [
+          48,
+          56
+        ]
+      },
+      {
+        "actual_tool_chunk_id": "55710e",
+        "range": [
+          56,
+          64
+        ]
+      },
+      {
+        "actual_tool_chunk_id": "198732",
+        "range": [
+          64,
+          72
+        ]
+      },
+      {
+        "actual_tool_chunk_id": "82dd0a",
+        "range": [
+          72,
+          80
+        ]
+      },
+      {
+        "actual_tool_chunk_id": "ce130b",
+        "range": [
+          80,
+          88
+        ]
+      },
+      {
+        "actual_tool_chunk_id": "366536",
+        "range": [
+          88,
+          96
+        ]
+      },
+      {
+        "actual_tool_chunk_id": "d3755d",
+        "range": [
+          96,
+          104
+        ]
+      },
+      {
+        "actual_tool_chunk_id": "689c3a",
+        "range": [
+          104,
+          105
+        ]
+      }
+    ],
+    "QA_scope": "All actual new five fields and adequate current QA own reasons personally received. Current fullQA294193 binds earlier body-only69017 at its complete167/body and SELECTED maintained-source grade. No original frozen105 redisplay/fresh primary credit."
+  },
+  "ROOT_own105_finite_purpose_judgments": [
+    {
+      "owner_id": "O000",
+      "ROOT_own_finite_reason": "The comparison keeps actual aroma/taste and friendship goods alongside an unperformed meal or repair. Hiromi's real ease thus remains valuable while knowledgeable trust restoration stays unestablished."
+    },
+    {
+      "owner_id": "O001",
+      "ROOT_own_finite_reason": "Asuna's reported delegated opening/earnings and Neru's wanted jacket show finite service ends; Neru's refusal bounds permanent work. This bears on deputy-role limits without attributing their career decisions to Hiromi."
+    },
+    {
+      "owner_id": "O002",
+      "ROOT_own_finite_reason": "Home, telescope and pudding preserve material comfort under belonging; coercive tickling and restored command do not certify free office choice or Hiromi's relieved workload."
+    },
+    {
+      "owner_id": "O003",
+      "ROOT_own_finite_reason": "Making and pizza retain pleasure while Neru's unconsented gun alteration requires her own information and response. Clever preparations affecting Hiromi therefore cannot be certified harmless from successful output alone."
+    },
+    {
+      "owner_id": "O004",
+      "ROOT_own_finite_reason": "A correction and fairness objection respond to a known false-data harm, with rumor/standing still unresolved. Hiromi's undisclosed involvement problem requires her own actual disclosure and response, not borrowed Yuuka repair."
+    },
+    {
+      "owner_id": "O005",
+      "ROOT_own_finite_reason": "Passed inspection and Izumi's enjoyment are scoped positive endpoints; Iori's later adverse response does not prove a chemical cause. Neither this inspection nor Miyo's safety wish is an actual examination of Hiromi."
+    },
+    {
+      "owner_id": "O006",
+      "ROOT_own_finite_reason": "Visits and food are actual care goods while shooting and a prepared or threatened injection do not demonstrate consent or treatment. Hiromi's written fatigue supports relief, not clinical diagnosis or cure."
+    },
+    {
+      "owner_id": "O007",
+      "ROOT_own_finite_reason": "Tsurugi's welcome, Hasumi's aroma pleasure and later rejection have distinct recipients. Hiromi's own ease remains affirmative without authorizing later obstruction or representing every peer's assent."
+    },
+    {
+      "owner_id": "O008",
+      "ROOT_own_finite_reason": "Cocoa and work burdens have concrete recipients; planned deductions are not executed payment. Hiromi's crowded duties supply context, with compensation and chosen workload still unreceived."
+    },
+    {
+      "owner_id": "O009",
+      "ROOT_own_finite_reason": "Kazusa's holiday and Airi's conversation retain ordinary goods alongside true danger/rescue and spoiled rest. This supports Hiromi's respite without denying relevant vigilance or authorizing every override."
+    },
+    {
+      "owner_id": "O010",
+      "ROOT_own_finite_reason": "Nonomi's picnic and Ayane's assigned cleaning keep company and labor distinct; the omitted combat leaves the reply uninformed. Hiromi's trusting warning transfer similarly does not establish knowledgeable complicity or wages."
+    },
+    {
+      "owner_id": "O011",
+      "ROOT_own_finite_reason": "Lived Haruka belonging and Mutsuki amusement need not await formal recognition. A pitch or vow does not certify status or lasting reform of Hiromi's office."
+    },
+    {
+      "owner_id": "O012",
+      "ROOT_own_finite_reason": "Pina's rest/food/cards and Umika's accepted willow idea retain finite alternatives; acceptance and refused budget are not implemented resources or sustained Hiromi workload relief."
+    },
+    {
+      "owner_id": "O013",
+      "ROOT_own_finite_reason": "Kaede's film wish, Tsubaki sleep and Mimori curry distinguish wanted ends from imagined or untested reception. Hiromi's literary familiarity does not establish a specific genre, manuscript or performance."
+    },
+    {
+      "owner_id": "O014",
+      "ROOT_own_finite_reason": "Companionship and cat care coexist with limited explanation and declined invitation. Exclusion is not retroactively informed consent; Hiromi still needs her own actual disclosure and answer."
+    },
+    {
+      "owner_id": "O015",
+      "ROOT_own_finite_reason": "Yuzu's wins/apology and distance from fame show that recognized competence and wanted exposure differ. Pressure or an unverified bug cannot fill Hiromi's unknown private self-portrait."
+    },
+    {
+      "owner_id": "O016",
+      "ROOT_own_finite_reason": "Rumi's meals/privacy and Shun's quiet tea remain positive goods while rumor and misunderstanding leave audience beliefs unresolved. Hiromi's unprinted disclosure or trust repair cannot be completed by an explanatory object elsewhere."
+    },
+    {
+      "owner_id": "O017",
+      "ROOT_own_finite_reason": "Fubuki's rest/donuts, Kirino's advancement and emergency response have distinct aims; unauthorized deployment and shop damage do not settle mandate or restitution. Hiromi's deputy task and wanted respite thus stay situated."
+    },
+    {
+      "owner_id": "O018",
+      "ROOT_own_finite_reason": "Mel's embedded fiction and Minori's hardship letter are different modes; ashes do not identify a burner. Hiromi's belief, Miyo's inward apology and theatrical statements likewise require separate actors and epistemic statuses."
+    },
+    {
+      "owner_id": "O019",
+      "ROOT_own_finite_reason": "Water, towels and other practical welcome retain recipient value before formal recognition or performed stunts. Hiromi's ease has substantive meaning before its warning becomes operationally useful."
+    },
+    {
+      "owner_id": "O020",
+      "ROOT_own_finite_reason": "Ration preferences and reluctant allocation keep wants within provisioning. Refused expired cans, explosive disposal and smell do not establish a clinical cause; Hiromi's workload and fatigue remain written local evidence."
+    },
+    {
+      "owner_id": "O021",
+      "ROOT_own_finite_reason": "Noa's curiosity and shared making coexist with hedged technical outcome and withheld uncertain information. This tests Hiromi's knowledge without assigning another council's assessment standard or completed disclosure to her."
+    },
+    {
+      "owner_id": "O022",
+      "ROOT_own_finite_reason": "Chise's preparations and Kaho's rest/thanks preserve care alongside limits on following and misread rebellion. Miyo noticing Hiromi's voice is not automatically surveillance or permission for later interference."
+    },
+    {
+      "owner_id": "O023",
+      "ROOT_own_finite_reason": "Rei's wanted home run, food and practice supply meaningful learning while refusal and restraint objections limit continuation. Hiromi's useful professional participation similarly does not certify lifelong career assent."
+    },
+    {
+      "owner_id": "O024",
+      "ROOT_own_finite_reason": "Kisaki's solitary exercise/rest and limited request preserve personal choices without making office a complete biography. This keeps Hiromi's deputy role apart from her literary confidence; it also retains the correct Kisaki actor rather than inherited Shun wording."
+    },
+    {
+      "owner_id": "O025",
+      "ROOT_own_finite_reason": "Meg's rest, Kasumi's snow memory, Hina's ice pop and chosen digging remain scoped goods and decisions under the source qualifier. Refusal and bath relief cannot demonstrate universal agreement, public opening or sustained relief of Hiromi's work."
+    },
+    {
+      "owner_id": "O026",
+      "ROOT_own_finite_reason": "Nagisa's reported fatigue, tea, park/company and unreplenished energy distinguish real temporary company from completed recovery. Hiromi's own relaxation is positive without clinical cure, taken leave or lasting redistributed duties."
+    },
+    {
+      "owner_id": "O027",
+      "ROOT_own_finite_reason": "Craft, time, tea, pictures and Rio's gratitude belong to distinct gift recipients. Hidden additions and false pretexts prevent a collection of positive gifts from supplying all-guard informed consent or Hiromi's allegiance."
+    },
+    {
+      "owner_id": "O028",
+      "ROOT_own_finite_reason": "Handwork, food, letters and chosen waiting retain ordinary worth; the ignored EVENT Kei request is not retroactively permitted by a later allowance. Identity continuity and Hiromi's own answer require independent evidence."
+    },
+    {
+      "owner_id": "O029",
+      "ROOT_own_finite_reason": "Izuna's ninja dream and food/fireworks/view coexist with exploitation. Chosen rescue and inquiry do not establish formal membership or enduring autonomy, so Hiromi's current office is not a lifelong chosen vocation."
+    },
+    {
+      "owner_id": "O030",
+      "ROOT_own_finite_reason": "Home, pudding, literature and wanted wages/leave remain substantive aims; restored command and postponed promises do not enact benefits. Hiromi's duty remains distinct from actual relieved workload or chosen leave."
+    },
+    {
+      "owner_id": "O031",
+      "ROOT_own_finite_reason": "Sea, sand, food and company preserve local respite while driving fatigue and cleanup/opponent costs remain. Another group's holiday cannot provide Hiromi's own rest or erase an exhausted provider."
+    },
+    {
+      "owner_id": "O032",
+      "ROOT_own_finite_reason": "Hina's coffee, waves, games and wanted swimming have independent worth without clinical stress or performed training. This provides an ordinary-duty comparator for Hiromi rather than an essence or recovery claim."
+    },
+    {
+      "owner_id": "O033",
+      "ROOT_own_finite_reason": "Shun's chosen antidote and qualified forgiveness are actual recipient decisions alongside earlier deception/restraint and unresolved privacy/mechanism. They cannot furnish Hiromi's unprinted heard apology or forgiveness."
+    },
+    {
+      "owner_id": "O034",
+      "ROOT_own_finite_reason": "C&C curry, jacket/privacy and play remain ordinary goods; captive pleas, Koyuki's refusal and the adult's unexecuted rescue proposal require distinct actors and endpoints. Hiromi's information act does not become informed assent or completed rescue."
+    },
+    {
+      "owner_id": "O035",
+      "ROOT_own_finite_reason": "Miku's prepared introduction/body joy and wanted audience precede completed concert reception or authorized data use. Written Hiromi voice descriptions do not establish acting, acoustics or a full performed register."
+    },
+    {
+      "owner_id": "O036",
+      "ROOT_own_finite_reason": "Nodoka's home/livelihood, Shigure's company and guest tastes retain value despite overwork and refused help. A late concession does not prevent the blast or rebuild a home; Hiromi's temporary ease similarly does not enact material relief."
+    },
+    {
+      "owner_id": "O037",
+      "ROOT_own_finite_reason": "Haruka's effort, Kayoko's album, Mutsuki's toys and Aru's recovery motive have distinct owners. An empty safe, refused holiday and conditional ramen prevent financial or all-recipient repair from being inferred."
+    },
+    {
+      "owner_id": "O038",
+      "ROOT_own_finite_reason": "Ui's anti-mess preference, Hiyori sacrifice, Mari's display wish and Atsuko's viewing remain particular. Adult-to-Ayumu coffee and returned chocolate preserve the correct direction and narrow59334 role; display, feeding and Hiromi assent need their own endpoints."
+    },
+    {
+      "owner_id": "O039",
+      "ROOT_own_finite_reason": "Sena's rest question, Chihiro's walk/maintenance and Fubuki's art/bonus preserve civic and ordinary goods. Restart, subdual and chocolate do not verify all credentials, durable containment or a drug mechanism, so Hiromi's local duty remains finite."
+    },
+    {
+      "owner_id": "O040",
+      "ROOT_own_finite_reason": "Ui's concrete repair attempt and cake labor can compare caring intention with Miyo's attention; neither accepted care nor intent establishes Hiromi's informed response, liking or restored trust."
+    },
+    {
+      "owner_id": "O041",
+      "ROOT_own_finite_reason": "Michiru's recognition, friends' dissent and Ibuki's trust remain distinct benefits; shared help cannot transfer knowledge of Niya's plan to everyone or make Hiromi's confidence informed."
+    },
+    {
+      "owner_id": "O042",
+      "ROOT_own_finite_reason": "Serika's noncash prize and wanted fishing preserve small desired goods; the received report leaves fishing achievement unestablished and records rod damage, which bounds comparison without globally denying relief."
+    },
+    {
+      "owner_id": "O043",
+      "ROOT_own_finite_reason": "Making and a feast establish particular cooperation while Serika's objection and unsettled accounts survive; useful Hiromi guard work cannot by itself supply a warrant or fulfilled relief."
+    },
+    {
+      "owner_id": "O044",
+      "ROOT_own_finite_reason": "Kazusa's self-name and consultation relief do not license every tease; Hiromi's mistaken belief likewise identifies a particular episode, not a fixed gullible or loyal identity."
+    },
+    {
+      "owner_id": "O045",
+      "ROOT_own_finite_reason": "Kazusa's specific cessation request can contrast with Hiromi's missing opportunity to answer concealment; no unprinted demand or completed remedy may be supplied."
+    },
+    {
+      "owner_id": "O046",
+      "ROOT_own_finite_reason": "An escape climb and safety check are concrete competence and care, not a violent essence; Hiromi's particular information act supports neither universal incapacity nor flawless judgment."
+    },
+    {
+      "owner_id": "O047",
+      "ROOT_own_finite_reason": "Clear requests and voluntary relations make respect intelligible locally; the deputy title still needs actual mandate evidence before jurisdiction or harmless enforcement can be asserted."
+    },
+    {
+      "owner_id": "O048",
+      "ROOT_own_finite_reason": "Reisa's bravery and hesitant correction response coexist with attack complaints and unresolved actor detail; this supports situated Hiromi participation without a blanket professional or justice verdict."
+    },
+    {
+      "owner_id": "O049",
+      "ROOT_own_finite_reason": "Airi's affirmation and Natsu's making discussion retain friendship value despite unequal knowledge; missing disclosure prevents full Hiromi reputation repair, not all affection."
+    },
+    {
+      "owner_id": "O050",
+      "ROOT_own_finite_reason": "Kazusa's appreciation and chosen work coexist with wanted privacy; Hiromi's participation does not exhaust her self-concept, and shame cannot supply a diagnosis or dissemination permission."
+    },
+    {
+      "owner_id": "O051",
+      "ROOT_own_finite_reason": "Kind effort can still impose an inaccurate gang role when Kazusa asks for truth; Miyo's view therefore cannot replace Hiromi's own unreceived judgment or excuse concealment wholesale."
+    },
+    {
+      "owner_id": "O052",
+      "ROOT_own_finite_reason": "Explanation and Yoshimi's hearing make a response possible while Kazusa's consent objection survives; an inward apology remains distinct from Hiromi hearing and accepting a remedy."
+    },
+    {
+      "owner_id": "O053",
+      "ROOT_own_finite_reason": "Reisa's stop-promise has value but renewed challenge prevents a sustained cessation inference; Hiromi has no printed forgiveness or performed duty change merely by analogy."
+    },
+    {
+      "owner_id": "O054",
+      "ROOT_own_finite_reason": "Concern, a returned letter and mixed reunion feelings preserve care alongside wanted distance; they cannot confer clinical clearance, romance or a license for pursuit."
+    },
+    {
+      "owner_id": "O055",
+      "ROOT_own_finite_reason": "Kazusa's late inquiry retains agency within an arranged encounter; similarly a mediator's question does not disclose Hiromi's full preference or establish changed desire."
+    },
+    {
+      "owner_id": "O056",
+      "ROOT_own_finite_reason": "Kazusa's disputed friendship label and Yoshimi's useful-help demand separate practical aid from affiliation; Hiromi's literary peerhood cannot be transferred to every operational actor or enlarged into police authority."
+    },
+    {
+      "owner_id": "O057",
+      "ROOT_own_finite_reason": "Reisa's withheld identity preserves privacy amid exhaustion and unwanted naming; this comparison supplies neither a diagnosis for Hiromi's fatigue nor proof she performed the same refusal."
+    },
+    {
+      "owner_id": "O058",
+      "ROOT_own_finite_reason": "A returned letter is achieved care while a meal is only offered; neither a bench nor an offer proves delivered nourishment, arrest, clinical recovery or full restoration of Hiromi."
+    },
+    {
+      "owner_id": "O059",
+      "ROOT_own_finite_reason": "Kazusa's reported help and cake company retain value beside failures; a fallible listener cannot be granted knowledge of all concealment or a complete recovery verdict."
+    },
+    {
+      "owner_id": "O060",
+      "ROOT_own_finite_reason": "Parfait and routine supply continuity even where rumor and challenge recur; Hiromi's continued company cannot settle unprinted knowledge or repaired trust."
+    },
+    {
+      "owner_id": "O061",
+      "ROOT_own_finite_reason": "Noa's tea and Yuuka's preferred rest are distinct wants; opening a recreation facility does not erase unwanted clothing or denied rest, and cannot establish Hiromi's chosen remedy."
+    },
+    {
+      "owner_id": "O062",
+      "ROOT_own_finite_reason": "Hasumi's mixed worst-and-fun judgment and valued craft remain recipient-specific alongside Chihiro's nonenjoyment and Hibiki's wanted ending; no collective happiness score can erase Hiromi's fatigue."
+    },
+    {
+      "owner_id": "O063",
+      "ROOT_own_finite_reason": "Tea, party and explanation offer constructive alternatives while Mine's force and blocked explanation remain harmful; Hiromi's obstruction still requires its own warrant and affected response."
+    },
+    {
+      "owner_id": "O064",
+      "ROOT_own_finite_reason": "Recognition and chosen kitchen aims can give Fuuka and Juri's labor meaning without retroactively licensing kidnapping or commandeering; Hiromi's work still lacks compensation and workload settlement."
+    },
+    {
+      "owner_id": "O065",
+      "ROOT_own_finite_reason": "Thanks, food, play and cooperation are real individual goods while destruction reports leave causation and rebuilding open; event success cannot automatically close Hiromi's guard burden."
+    },
+    {
+      "owner_id": "O066",
+      "ROOT_own_finite_reason": "Renewed contact and ordinary cycling or company are finite positives; restraint and deferred listening prevent an authenticated whole-person continuity or Minato identity bridge into Hiromi."
+    },
+    {
+      "owner_id": "O067",
+      "ROOT_own_finite_reason": "Concrete scarf, home and food provision can matter without validating self-blame cosmology or a complete safety roster; Hiromi's tired-day ease likewise needs no total theory or clinical cure."
+    },
+    {
+      "owner_id": "O068",
+      "ROOT_own_finite_reason": "Ayumu's request and Aoi's reported approval support initiative, but available budget and announced coverage do not establish disbursement or performed handoff, so no borrowed relief resolves Hiromi's duties."
+    },
+    {
+      "owner_id": "O069",
+      "ROOT_own_finite_reason": "Toki's reported standing and Neru's praise preserve affiliation while guest knowledge remains separate; O087/E843's exclusion refusal cannot be reassigned to E825 or make Hiromi informed."
+    },
+    {
+      "owner_id": "O070",
+      "ROOT_own_finite_reason": "Rumi's cooking, Saya's refusal and Mina's film each retain an owner alongside Kokona's fatigue and concealed trap; an office-wide caring verdict cannot settle Hiromi's burdens or disclosure."
+    },
+    {
+      "owner_id": "O071",
+      "ROOT_own_finite_reason": "Delivered food and barbecue are achieved goods, yet Saki's proximity and bed-sharing refusal persists under pressure; Hiromi's local ease cannot transfer universal bodily agreement or durable service repair."
+    },
+    {
+      "owner_id": "O072",
+      "ROOT_own_finite_reason": "Ui's calm historical interest and Hanako's sea pleasure are distinct from Hinata and Koharu's answers; reburial and map duties cannot supply lost writing or unrestricted access to Hiromi's books."
+    },
+    {
+      "owner_id": "O073",
+      "ROOT_own_finite_reason": "Mel's freely completed manuscript and reconciliation preserve authorship and ordinary resources while appropriation and outsourcing are refused; useful Hiromi information does not promise unlimited future labor."
+    },
+    {
+      "owner_id": "O074",
+      "ROOT_own_finite_reason": "Hasumi's rest request and Ichika's reassurance offer local support, yet Kasumi's refused affiliation and constrained accompaniment survive; friendly ease does not enact Hiromi's exit or restored trust."
+    },
+    {
+      "owner_id": "O075",
+      "ROOT_own_finite_reason": "Saten's meeting memory and the single departure remain finite positives; Sensei's rest cannot become Eimi's, unrepaired guns remain unrepaired, and useful Hiromi work can coexist with fatigue."
+    },
+    {
+      "owner_id": "O076",
+      "ROOT_own_finite_reason": "Reading, cocoa and sunrise are achieved pleasures, and later continuation has an off-ramp; Chihiro's undisclosed compulsory camp cannot gain retroactive informed consent or redefine Hiromi's permission."
+    },
+    {
+      "owner_id": "O077",
+      "ROOT_own_finite_reason": "Hina's written piano performance and Ibuki's ordinary play matter at written-source grade; no heard audio or hypnosis mechanism follows, just as Hiromi's represented voice is not received actor performance."
+    },
+    {
+      "owner_id": "O078",
+      "ROOT_own_finite_reason": "Livelihoods and particular gift answers can be valued without certifying every contract or gift's knowledgeable assent; Hiromi's present role does not establish universally willing guard service."
+    },
+    {
+      "owner_id": "O079",
+      "ROOT_own_finite_reason": "Umika's chosen hosting after an off-ramp supplies real responsibility while timing criticism, risk knowledge and cleanup remain bounded; none determines Hiromi's missing long-term terms."
+    },
+    {
+      "owner_id": "O080",
+      "ROOT_own_finite_reason": "Airi is wanted before achievement and values music and practice; faulty semla explanation and misheard speech cannot calibrate talent or make Hiromi's friendship worth conditional on all-work competence."
+    },
+    {
+      "owner_id": "O081",
+      "ROOT_own_finite_reason": "Kanna's wish to serve, child protection and thanks retain force while imposed trials and algorithmic harm still need remedy; no general ethical acquittal follows for Hiromi's enforcement."
+    },
+    {
+      "owner_id": "O082",
+      "ROOT_own_finite_reason": "Arius food, music and reunion pleasure coexist with local unpaid wages, secret protection and Misaki's discomfort; Azusa's attendance remains unproved and enjoyment cannot pay Hiromi's labor costs."
+    },
+    {
+      "owner_id": "O083",
+      "ROOT_own_finite_reason": "A reported numerical defeat and broad defense are positive while the fine actor seam remains unresolved; invitation cannot mean unanimous assent or repaired Hiromi aftermath."
+    },
+    {
+      "owner_id": "O084",
+      "ROOT_own_finite_reason": "Unwanted office and refused cure or headship terms preserve agency amid medical harm; a begun festival cannot authenticate cure or establish Hiromi's freely chosen career."
+    },
+    {
+      "owner_id": "O085",
+      "ROOT_own_finite_reason": "Mari's chosen then ended idol work preserves creative value and an ending; a disposal request is not completed deletion and a private gift is not upload permission, so Hiromi retains information-control limits."
+    },
+    {
+      "owner_id": "O086",
+      "ROOT_own_finite_reason": "Pajamas, games, sleep and greetings remain achieved relational goods alongside confinement and continued filing; care does not prove Hiromi welcomed all duty or pressure."
+    },
+    {
+      "owner_id": "O087",
+      "ROOT_own_finite_reason": "Karin's information demand and Neru's E843 refusal survive useful cooperation; Seia's worth and C&C company do not settle every member's informed terms or substitute for Hiromi's absent choice."
+    },
+    {
+      "owner_id": "O088",
+      "ROOT_own_finite_reason": "Fuuka's rare day-off aim, Juri's chosen substitute work and pancakes preserve rest and practice; manager pressure and painful objected treatment still leave safety, pay and cure unresolved for comparison with Hiromi."
+    },
+    {
+      "owner_id": "O089",
+      "ROOT_own_finite_reason": "Rei's achieved grand slam and refused professional contract distinguish competence from vocation; neither overridden rest nor an uninspected wrist supports all-benefit training or Hiromi's future career."
+    },
+    {
+      "owner_id": "O090",
+      "ROOT_own_finite_reason": "Aoba's refused maneuver, intact cargo and signatures show specific competence alongside an unwanted visit; offered medicine or dinner cannot count as delivered care or completed Hiromi autonomy."
+    },
+    {
+      "owner_id": "O091",
+      "ROOT_own_finite_reason": "Chosen contest participation coexists with fear-driven swimming and bodily interference; later agency cannot erase earlier pressure or supply Hiromi's unshown informed reconsideration."
+    },
+    {
+      "owner_id": "O092",
+      "ROOT_own_finite_reason": "Mika's play and Kasumi's quiet reading have separate intrinsic value while covert work and environmental costs remain; another group's retreat cannot establish all Hiromi rest or structural repair."
+    },
+    {
+      "owner_id": "O093",
+      "ROOT_own_finite_reason": "Eri's confidence and Rena's chosen bell matter before art succeeds; future museum, wish mechanism and finished guard work remain unproved, so public success cannot replace Hiromi's afterstate."
+    },
+    {
+      "owner_id": "O094",
+      "ROOT_own_finite_reason": "Direct E850 supports Hiromi-Miyo familiarity, relaxation and warning-sharing at maintained139 grade; the mistaken belief and inward apology leave her knowledge and repair open, and Miyo's novels and Ritsu's interests stay their own."
+    },
+    {
+      "owner_id": "O095",
+      "ROOT_own_finite_reason": "Suzumi's actual JTF entry and exit preserve choice, but Love's feigned defeat and Ui's lost sleep bound success; Hiromi's unknown exit and lasting-rest terms cannot be filled by comparison."
+    },
+    {
+      "owner_id": "O096",
+      "ROOT_own_finite_reason": "Takane's criticism, Mel's making and Mashiro's tastes preserve real reception while false biography and withdrawn readers bound circulation; literary familiarity cannot invent Hiromi's genre repertoire or open-access stance."
+    },
+    {
+      "owner_id": "O097",
+      "ROOT_own_finite_reason": "Tsukuyo's today's-model choice, ninja self-name and return define a situated role alongside forced fitting and withheld information; one event cannot establish a permanent Hiromi vocation or informed filming."
+    },
+    {
+      "owner_id": "O098",
+      "ROOT_own_finite_reason": "Kei's chosen name and Alice's refusal of erasure preserve agency, with Toki's hobbies and Eimi's peace also intrinsic; co-design does not prove pilot assent, health or a metaphysical identity bridge."
+    },
+    {
+      "owner_id": "O099",
+      "ROOT_own_finite_reason": "Konoka's meal, named inquiry and Himari's admitted uncertainty demonstrate limited help; one planted rumor and unconsulted contact cannot make Miyo omniscient about Hiromi's knowledge."
+    },
+    {
+      "owner_id": "O100",
+      "ROOT_own_finite_reason": "Iced tea, revised pace and Kokona's refusal then allowed walk preserve specific choices; collapse and late medicine remain, so office leisure cannot prove Hiromi's resolved health or freely agreed duties."
+    },
+    {
+      "owner_id": "O101",
+      "ROOT_own_finite_reason": "Iroha's rescue and refused image retention can matter while Sumika's attack and unfinished apology persist; no heard apology, informed assent or restored Hiromi trust follows by analogy."
+    },
+    {
+      "owner_id": "O102",
+      "ROOT_own_finite_reason": "Minato's cooking and finite debt-related goods retain value while cancellation is merely offered and work exceptions are refused; MAIN/E861 identities remain distinct and Hiromi's burden is not discharged."
+    },
+    {
+      "owner_id": "O103",
+      "ROOT_own_finite_reason": "Anna's fuel-use failure fear belongs to Anna and Elina's projection to Elina; the comparison appropriately keeps Miyo's inward apology and no-injury thought distinct from Hiromi's belief and any shared motive."
+    },
+    {
+      "owner_id": "O104",
+      "ROOT_own_finite_reason": "Sora's wage motive and routine shop work, alongside welcomed ordinary gifts and food, have value before spectacular service; a motive is not achieved payroll, and pending promises or coerced unpaid labor cannot certify all Hiromi care."
+    }
+  ],
+  "ROOT_own42_literal_source_question_purpose_join_judgments": [
+    {
+      "claim_id": "HC001",
+      "ROOT_own_finite_join_judgment": "HI01 L92–103 supports the conjunction of tired duty, ease and consequential information; no comparative citation is needed to fabricate knowing collaboration, discovery or restored trust."
+    },
+    {
+      "claim_id": "HC002",
+      "ROOT_own_finite_join_judgment": "The existing architectural home does not supply adoption; HC002's body-first pending105 wording remains dated history now qualified by actual new105 receiving rather than silently recounted as current."
+    },
+    {
+      "claim_id": "HC003",
+      "ROOT_own_finite_join_judgment": "HP094 at direct maintained139 grade joins the actual deputy-and-peer encounter; the false noninvolvement premise bounds informed assent without negating her relaxation."
+    },
+    {
+      "claim_id": "HC004",
+      "ROOT_own_finite_join_judgment": "Actual traps and smoke constrain her duty but Miyo's inward apology remains Miyo's; an empty comparison list correctly leaves this direct core inference local."
+    },
+    {
+      "claim_id": "HC005",
+      "ROOT_own_finite_join_judgment": "The ordered role/work comparisons illuminate present responsibility versus chosen vocation; none supplies Hiromi's appointment process, lifelong ambition or jurisdiction."
+    },
+    {
+      "claim_id": "HC006",
+      "ROOT_own_finite_join_judgment": "The actual noticing/question/answer sequence gives Hiromi agency and conversational value; no genre list or abandonment goal is needed to make that participation substantial."
+    },
+    {
+      "claim_id": "HC007",
+      "ROOT_own_finite_join_judgment": "The care and relief comparisons support a nearby wanted-relief inference at encounter scope while rescue dependence, romance and clinical interpretation remain outside evidence."
+    },
+    {
+      "claim_id": "HC008",
+      "ROOT_own_finite_join_judgment": "The informed-choice comparisons make absent disclosure analytically consequential without inventing a voiced Hiromi demand, accepted remedy or later choice."
+    },
+    {
+      "claim_id": "HC009",
+      "ROOT_own_finite_join_judgment": "Distinct fatigue and worker-rest comparisons leave current burden real; no measured sleep deficit, burnout diagnosis or performed leave can be inferred."
+    },
+    {
+      "claim_id": "HC010",
+      "ROOT_own_finite_join_judgment": "HP005 compares unresolved cost with the direct core obstruction; it cannot supply shame, known betrayal, injury or an examination from Miyo's private thought."
+    },
+    {
+      "claim_id": "HC011",
+      "ROOT_own_finite_join_judgment": "Competence/identity comparisons keep deputy status situated; Hiromi's mistaken local belief cannot become a stable gullibility essence or complete self-portrait."
+    },
+    {
+      "claim_id": "HC012",
+      "ROOT_own_finite_join_judgment": "The ordered projection/perception comparisons retain who thinks what; Miyo's noticing and concern are not Hiromi's awareness or an institutional verdict."
+    },
+    {
+      "claim_id": "HC013",
+      "ROOT_own_finite_join_judgment": "Situated-role comparisons illuminate the literary and professional modes without creating a household scene, complete day off or common smuggling ethic."
+    },
+    {
+      "claim_id": "HC014",
+      "ROOT_own_finite_join_judgment": "Privacy and disclosure comparisons preserve the missing information; Miyo's report of a confidentiality breach does not prove Hiromi knew participation was illicit."
+    },
+    {
+      "claim_id": "HC015",
+      "ROOT_own_finite_join_judgment": "The competence and useful-work comparisons accompany HI01 knowledge and warning sharing; institutional workload cannot be assigned wholesale as personal failure."
+    },
+    {
+      "claim_id": "HC016",
+      "ROOT_own_finite_join_judgment": "HP048's situated competence comparison leaves adversarial traps causal in the core; no permanent incapacity or all-obstruction fatigue cause follows."
+    },
+    {
+      "claim_id": "HC017",
+      "ROOT_own_finite_join_judgment": "Authority and property comparisons are comparative only; Hiromi's guard position cannot inherit another theatrical guard's doctrine or warrant."
+    },
+    {
+      "claim_id": "HC018",
+      "ROOT_own_finite_join_judgment": "Attentiveness and repair comparisons retain both kindness and concealment; neither informed Hiromi assent nor bodily safety is supplied by wanted care."
+    },
+    {
+      "claim_id": "HC019",
+      "ROOT_own_finite_join_judgment": "The varied quiet-goods comparisons protect literature's intrinsic value; they do not establish specific Hiromi authors, genres, manuscripts or daily routine."
+    },
+    {
+      "claim_id": "HC020",
+      "ROOT_own_finite_join_judgment": "Direct surrounding comic events do not establish Hiromi laughing or enjoying them; no comparative link is correctly used to transfer café pleasure to her."
+    },
+    {
+      "claim_id": "HC021",
+      "ROOT_own_finite_join_judgment": "The role and affiliation comparisons keep deputy work and literary confidence distinct; they cannot create club membership or recruitment history."
+    },
+    {
+      "claim_id": "HC022",
+      "ROOT_own_finite_join_judgment": "Exit and afterstate comparisons leave public success separate from her unprinted workload, promotion, departure and continuing personal terms."
+    },
+    {
+      "claim_id": "HC023",
+      "ROOT_own_finite_join_judgment": "HI01's adult actions elsewhere remain contextual; no direct Hiromi–adult relationship or universal claim of absence is supplied by an empty comparison list."
+    },
+    {
+      "claim_id": "HC024",
+      "ROOT_own_finite_join_judgment": "The wager belongs to the received public context; it does not establish Hiromi's knowledge, endorsement, or analogical restoration of trust."
+    },
+    {
+      "claim_id": "HC025",
+      "ROOT_own_finite_join_judgment": "Peer and information-boundary comparisons reinforce Miyo as the developed relation with unequal knowledge; no romance or origin biography is invented."
+    },
+    {
+      "claim_id": "HC026",
+      "ROOT_own_finite_join_judgment": "Role/affiliation comparisons do not make Fuyu or Ritsu interchangeable literary confidants, and the theatrical guard remains a separate represented actor."
+    },
+    {
+      "claim_id": "HC027",
+      "ROOT_own_finite_join_judgment": "Written-expression comparisons bind the subdued voice to noticing and questioning; no heard timbre, voice-actor delivery or clinical assessment is claimed."
+    },
+    {
+      "claim_id": "HC028",
+      "ROOT_own_finite_join_judgment": "Register and projection comparisons retain source-local Japanese and speaker-tag limits; they cannot repair identity or assign stable pronouns and voice."
+    },
+    {
+      "claim_id": "HC029",
+      "ROOT_own_finite_join_judgment": "Change and trust comparisons keep altered circumstances meaningful while learning, forgiveness and allegiance changes remain unprinted."
+    },
+    {
+      "claim_id": "HC030",
+      "ROOT_own_finite_join_judgment": "HP066's continuity comparison does not date the café or bind MAIN/private calendars; the local morning/operation/exhibition order is the finite chronology."
+    },
+    {
+      "claim_id": "HC031",
+      "ROOT_own_finite_join_judgment": "Situated-help comparisons counter a purely passive-victim reading with actual agency while mistaken information and obstruction continue to count."
+    },
+    {
+      "claim_id": "HC032",
+      "ROOT_own_finite_join_judgment": "Care and afterstate comparisons challenge total safety and completed repair without substituting hatred or a betrayal revelation."
+    },
+    {
+      "claim_id": "HC033",
+      "ROOT_own_finite_join_judgment": "Source/performance comparisons preserve one maintained account versus its producer's underlying receipts; reuse cannot upgrade ROOT to twelve primary admissions."
+    },
+    {
+      "claim_id": "HC034",
+      "ROOT_own_finite_join_judgment": "HP013 is comparative context, not attendance proof; HC034's body-first pending wording remains a dated stage separately qualified by actually completed current purposes."
+    },
+    {
+      "claim_id": "HC035",
+      "ROOT_own_finite_join_judgment": "The obstacle rival is tested by direct person-valued literary ease; she is operationally consequential and also affected, rather than only a barrier."
+    },
+    {
+      "claim_id": "HC036",
+      "ROOT_own_finite_join_judgment": "HP046 illustrates specific skill without a stable trait verdict; local mistaken knowledge and workload do not constitute a complete incompetence audit."
+    },
+    {
+      "claim_id": "HC037",
+      "ROOT_own_finite_join_judgment": "HP010/034 illuminate consequential disclosure without proving knowing illicit assent or a universal confidentiality waiver."
+    },
+    {
+      "claim_id": "HC038",
+      "ROOT_own_finite_join_judgment": "HP014/052 distinguish positive affection from heard apology and implemented remedy; the rival can retain kindness without erasing the trust contradiction."
+    },
+    {
+      "claim_id": "HC039",
+      "ROOT_own_finite_join_judgment": "Fatigue comparisons preserve burden but lack health and causal examinations; adverse action still matters and no burnout or injury diagnosis follows."
+    },
+    {
+      "claim_id": "HC040",
+      "ROOT_own_finite_join_judgment": "Mandate and property comparisons cannot import another actor's force or school rule into Hiromi's actual institutional responsibility."
+    },
+    {
+      "claim_id": "HC041",
+      "ROOT_own_finite_join_judgment": "Public success and broad defense comparisons remain other-party outcomes; no Hiromi consent, relieved duty or restored confidence is established."
+    },
+    {
+      "claim_id": "HC042",
+      "ROOT_own_finite_join_judgment": "Direct work, confidence and restricted knowledge support a substantial scoped monograph while sparse private breadth and register evidence keep whole-person reconstruction unready."
+    }
+  ],
+  "actual_remaining_receiving": {
+    "source_input37": [
+      "6f4d94",
+      "ee8e44"
+    ],
+    "concerns16": [
+      "0de8cf",
+      "d22ece"
+    ],
+    "rivals8": [
+      "480725"
+    ],
+    "ends16": [
+      "670416",
+      "7b9c20"
+    ],
+    "gaps14": [
+      "c05bb8",
+      "49b4c2"
+    ],
+    "controls85": [
+      "ee03d6",
+      "3ab779",
+      "87cde1",
+      "426083",
+      "1def8e"
+    ],
+    "current_join_common_and_templates": "076605 complete current metadata/source-HQ/purpose-ID templates; full42 variable joins and actual prior/current reasons received, cursor12 aggregate clipping recovered separately in full before credit."
+  },
+  "adequate_distinct_QA": {
+    "reviewer": "/root/m008_composition_review",
+    "author": "/root/minato_105_derivative",
+    "body_only": {
+      "private_witness_id": "INDEPENDENT_HIROMI_CURRENT167_FULL42_BODY_ONLY_CHARACTER16_RIVAL8_END16_GAP14_AND_SELECTED_SOURCE_LITERARY_QA_V1",
+      "bytes": 69017,
+      "sha256": "41fe5459ff24ea282ce4ce1646dd156e8e7b91eb74fbba8a1cfc63d93c5e3266",
+      "git_blob_oid_of_actual_bytes": "0a1954d73e8618fdbb837d851dcbc64565b72501",
+      "grade": "Complete167 body/42 substantial paragraphs/16 concerns/8 rivals/16 endpoints/14OPEN, actual SELECTED maintained source context."
+    },
+    "current_components": {
+      "private_witness_id": "INDEPENDENT_HIROMI_CURRENT167_LITERAL42_ALL105_NEW_FIVEFIELD_SOURCE1_EXACT8_COMPLETE_MANUAL_COMPONENT_REVIEW_V1",
+      "bytes": 294193,
+      "sha256": "bff249eb4f5cd3df080c94b6d433d6034dae5aedefc8cf2782a07238b8fdbe7c",
+      "git_blob_oid_of_actual_bytes": "67d5a6dee27aa1f021fbae2a1a446de17b43ff15",
+      "actual_scope": "Adequate complete current105 new five-field/source10/literal42 joins and full preservation at attributed grades; zero findings. Existing2466 machine predicates plus826 typed bindings are separate documentary evidence and not rerun as literary credit."
+    },
+    "role_disclosures": "Reviewer authored none of Hiromi's body/source/new105. Prior Library LP094, Veritas and Culinary35 roles remain disclosed background. Author's own source/report extents and complete final525 receiving remain separate. ROOT relies on actual reasons and receiving, not an unqualified independence label."
+  },
+  "actual_ROOT_executed_raw_preservation": {
+    "private_witness_id": "ROOT_ACTUAL_HIROMI_CURRENT167_EXECUTED_PINNED_RAW_SCHEMA_GUARD_COMPLETE_RESULT_V1",
+    "bytes": 33032,
+    "sha256": "97a6b5ed8750036e1001fb477689ad5a63da78372a19a1752b98f0c7f1315cca",
+    "git_blob_oid_of_actual_bytes": "82884157ee29e4719c5838a17f8d5b22891931fb",
+    "actual_tool": "640913",
+    "predicates": 4428,
+    "findings": 0,
+    "scope": "Full11 original common105 raw envelopes, entire3 M008V2 carriers, source8 custody locators, original body7 and manifest5 raw inverse/forward, complete167/42/HQ10/HP105/525 actual graph and QA/index mirrors. Root personal receiving42 joined to actual guard output8e7370. Machine evidence alone grants no source/literary/model credit.",
+    "full_original_closures": [
+      {
+        "original_evidence_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_000_009_V2.json",
+        "owner_count": 10,
+        "original": {
+          "bytes": 58865,
+          "sha256": "2e923d2763c8073d0d61d54acb78ce99d5bbe4edef0eb84efca38cd0783bab5d",
+          "git_blob_oid_of_actual_bytes": "914909a538f54ac969e280fe5f60c55e96dd2906"
+        },
+        "full_raw_current_frozen_row_recovery": "PASS"
+      },
+      {
+        "original_evidence_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_010_019_V2.json",
+        "owner_count": 10,
+        "original": {
+          "bytes": 53604,
+          "sha256": "9ffdf06d3991c7677bf1377a4e599dbd61136029c80220cb2b9540bca56d0735",
+          "git_blob_oid_of_actual_bytes": "bd835b21400054707d5113ec6c23e6a0cd26bf18"
+        },
+        "full_raw_current_frozen_row_recovery": "PASS"
+      },
+      {
+        "original_evidence_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_020_029_V2.json",
+        "owner_count": 10,
+        "original": {
+          "bytes": 55023,
+          "sha256": "7421defc4b0f32b5a3f603763d76cd744ba09a9bf40cd7a4e629d2efc2467bba",
+          "git_blob_oid_of_actual_bytes": "ed66acda47094a411487ea10f8ec3b41091f55cc"
+        },
+        "full_raw_current_frozen_row_recovery": "PASS"
+      },
+      {
+        "original_evidence_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_030_039_V2.json",
+        "owner_count": 10,
+        "original": {
+          "bytes": 70082,
+          "sha256": "26b6f1b31df148c44134c599510f60cec5e58203bb9f60b2f964e56916cf8e5f",
+          "git_blob_oid_of_actual_bytes": "5cc40b03dd38e6eaf935699be4765b68aa7820c4"
+        },
+        "full_raw_current_frozen_row_recovery": "PASS"
+      },
+      {
+        "original_evidence_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_040_049_V2.json",
+        "owner_count": 10,
+        "original": {
+          "bytes": 85986,
+          "sha256": "83870b947a0f25a459b4b0d8fec33a552bc0fe74b92e0ba62572fbe44e1e3d36",
+          "git_blob_oid_of_actual_bytes": "79380b8b1b6dfb4757064663f8f14135b12bbc07"
+        },
+        "full_raw_current_frozen_row_recovery": "PASS"
+      },
+      {
+        "original_evidence_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_050_059_V2.json",
+        "owner_count": 10,
+        "original": {
+          "bytes": 96346,
+          "sha256": "ade26f1d99ddfe1835a7a39a718816dd283c385945e0100893058c9835be945a",
+          "git_blob_oid_of_actual_bytes": "fdcc1cb8850106660091c1560b7ea88c9a8d00aa"
+        },
+        "full_raw_current_frozen_row_recovery": "PASS"
+      },
+      {
+        "original_evidence_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_060_069_V2.json",
+        "owner_count": 10,
+        "original": {
+          "bytes": 110226,
+          "sha256": "342d9319537817e2ebca80032572b88e24c889655d1d1b921df242164fd490c5",
+          "git_blob_oid_of_actual_bytes": "1e7a194861dd50acaa4668e51dd026337db8468b"
+        },
+        "full_raw_current_frozen_row_recovery": "PASS"
+      },
+      {
+        "original_evidence_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_070_079_V2.json",
+        "owner_count": 10,
+        "original": {
+          "bytes": 131988,
+          "sha256": "776d61eb17eb70111047e21a6cc38ebd0b58fdf3c93510de16786ca12a95e640",
+          "git_blob_oid_of_actual_bytes": "6bb3ba99a453c0b537273fd3aaa7915edfa8b46b"
+        },
+        "full_raw_current_frozen_row_recovery": "PASS"
+      },
+      {
+        "original_evidence_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_080_089_V2.json",
+        "owner_count": 10,
+        "original": {
+          "bytes": 140190,
+          "sha256": "322e14ed4c07435f2ec419786f9551c47e55d99fceafff1a5ae81504e1311947",
+          "git_blob_oid_of_actual_bytes": "e43d962d95815f01556bb04b91f580c870235eda"
+        },
+        "full_raw_current_frozen_row_recovery": "PASS"
+      },
+      {
+        "original_evidence_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_090_099_V2.json",
+        "owner_count": 10,
+        "original": {
+          "bytes": 152450,
+          "sha256": "3408232ce6a8f0624ab792e92c01ca818aab2f5d4f682cc92ecc6e4596686309",
+          "git_blob_oid_of_actual_bytes": "cad8c10fc131ccbaacce780a5101c99c77d8b5ec"
+        },
+        "full_raw_current_frozen_row_recovery": "PASS"
+      },
+      {
+        "original_evidence_id": "ROOT_ODYSSEIA105_EXACT_PRIOR_MEANING_RECEIVING_INPUT_100_104_V2.json",
+        "owner_count": 5,
+        "original": {
+          "bytes": 83739,
+          "sha256": "81364d28d5da8a26c88fb390645099415f5b6db8723f9475a3ff6df5d783d387",
+          "git_blob_oid_of_actual_bytes": "5b1be5e3ef3bdc9e5174f0953893704b1968641d"
+        },
+        "full_raw_current_frozen_row_recovery": "PASS"
+      },
+      {
+        "original_evidence_id": "M008_CURRENT105_NEW_PURPOSE_JUDGMENTS_CP000_CP035_V1.json",
+        "record_count": 36,
+        "original": {
+          "bytes": 405832,
+          "sha256": "c5554f1ad3d152529beeeab079fcb5a6a9e7ba26a6ef0f8fd2545af4c5c68bc3",
+          "git_blob_oid_of_actual_bytes": "1b227069e0ef843ad100b4c716aacca4ca4b72b6"
+        },
+        "whole_original_wrapper_residual_order_recovery": "PASS"
+      },
+      {
+        "original_evidence_id": "M008_CURRENT105_NEW_PURPOSE_JUDGMENTS_CP036_CP070_V1.json",
+        "record_count": 35,
+        "original": {
+          "bytes": 549668,
+          "sha256": "2d3d97e0e0a8f5b6d5216bb2c6724c37eb73080df7567d58e74bb8e5da18dec1",
+          "git_blob_oid_of_actual_bytes": "597f6da9880d36cca4d1138e472d43de5bc7cc17"
+        },
+        "whole_original_wrapper_residual_order_recovery": "PASS"
+      },
+      {
+        "original_evidence_id": "M008_CURRENT105_NEW_PURPOSE_JUDGMENTS_CP071_CP104_V1.json",
+        "record_count": 34,
+        "original": {
+          "bytes": 707877,
+          "sha256": "370075d93bee086430bd29702eca9725fc3a9d09962f19fb2c2c7f01d2ccf9ba",
+          "git_blob_oid_of_actual_bytes": "8d824facccff446e3712ab9a2ece904dff8a042e"
+        },
+        "whole_original_wrapper_residual_order_recovery": "PASS"
+      }
+    ]
+  },
+  "ROOT_main_argument_judgment": "Hiromi has both tired guard responsibility and intrinsically valued literary companionship before warning-sharing serves another operation. Her mistaken noninvolvement premise and subsequent obstruction make restricted knowledge and duty materially consequential without proving knowing complicity, fixed gullibility or a secret criminal wish. Miyo's inward apology and safety thought remain Miyo's, not heard reassurance, Hiromi's response or an inspected safety/repair endpoint. The argument substantially addresses meaningful unknown goals, private behavior, register, Teacher relation and later development instead of fabricating them.",
+  "ROOT_rival_and_endpoint_judgment": "All eight rivals retain their actual warrants and limits: operational obstacle, incompetence, complicity, safe/repaired affection, clinical fatigue, total institutional doctrine, public art as acquittal and sparse-evidence exclusion. All sixteen endpoints preserve actual roles/acts/pleasures and distinguish plans, reported policies, inward thought, represented voice, other recipients and unreceived afterstates. All fourteen original gap identities remain OPEN.",
+  "ROOT_operative_precision_judgment": "Miyo wanted novels/refusal of Teacher reading remain distinct from Ritsu's materials/sculpture/favorite author. Hiromi's local belief, Miyo's inward states and other traders' café scene stay separate. O042 wanted fishing/unestablished achievement is report-limited, O069/E825 affiliation separate from O087/E843 refusal, O071 bodily refusals remain beside food/party, O103 Anna fear versus Elina projection retained, O104 Sora's wage motive is not achieved payroll. Narrow61767 six-owner and59334 oldGSC16 coffee dependencies do not rewrite all sources.",
+  "dated_snapshot_qualification": "Retain body-first pending-new105 and author/source/index/register/transport pendingQA/ROOT creation fields literally as dated preparation states. Actual later complete body/component QA and this ROOT decision qualify those scopes only. Current public adoption/lineage metadata must be separately composed and reviewed; no stale pending field is silently treated as current or overwritten as historical evidence.",
+  "authorized_next_step": "Metadata-only current public composition of this exact8 argument, with explicit current ROOT/control qualification and exact raw recovery. Exact QA delivery-scalar opacity needs separately reviewed pointer inventory and ROOT approval. No literary/source/frozen payload revision or R/shared/Git/provider write is authorized by this semantic record alone.",
+  "future_gates": "ROOT whole receiving/adoption of actual public metadata bytes, adequate distinct current composition QA, exact shared-control seven-file successor on fresh branch/main beforeimages, installer safety/privateC9 contract, final exact allowlist freeze, actual install/preflight/commit/push/rawremote readback and fresh head-specific complete audit remain separate.",
+  "current_canonical_credit": 0,
+  "published_source_required": 147,
+  "published_source_named": 17,
+  "main_required": 133,
+  "main_named": 13,
+  "fixed_architecture": {
+    "required": 355,
+    "named": 29,
+    "parents": 25,
+    "homes": 384,
+    "navigation": 788
+  },
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "next178": "UNREACHED;31 remaining before this unpublished Hiromi candidate",
+  "merge_approval": "RESERVED",
+  "protection": "All39 unpublished R bodies and private9 UNBOUND payloads excluded. No storage registration, primary/native/AV/private-family/global identity admission or model maturity."
+}

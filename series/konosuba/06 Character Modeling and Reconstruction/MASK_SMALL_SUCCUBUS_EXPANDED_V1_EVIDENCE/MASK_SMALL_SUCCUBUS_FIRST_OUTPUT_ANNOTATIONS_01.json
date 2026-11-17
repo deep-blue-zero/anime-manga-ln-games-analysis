@@ -1,0 +1,219 @@
+{
+  "schema": "konosuba.cohort32.source-informed-first-output-annotations.v1",
+  "recorded_utc": "2026-10-24T09:12:55.634624+00:00",
+  "subject": "Unnamed small MAIN02/MASK dream-service worker; qualified event bridge; Lolisa name join open",
+  "generation": "MASK_SMALL_SUCCUBUS_EXPANDED_V1",
+  "foundation_seal_sha256": "2bc2d69962028c6157fb0f70c98fce42c84c7ddb6bc20d80f34971984df4877d",
+  "exact_input_sha256": "d33b0ea93185303b50e1a4a6b3c758ee893202c3c71c6760ef3236fec7b60fcd",
+  "original_body_freeze_sha256": "d86bec9d1ede4964804113c1e902dac58d8ed446f58a92fd76f3e46741a32699",
+  "first_outputs": {
+    "file": "MASK_SMALL_SUCCUBUS_FIRST_OUTPUTS_01.json",
+    "bytes": 15180,
+    "sha256": "57c5fb5f190e494eab46ae4d1e90bea683503d3a04450aaa158abd53084f2d96"
+  },
+  "same_informed_root_authors_and_assesses_every_stage": true,
+  "source_and_all_contrasts_visible": true,
+  "external_model_or_independent_judge": false,
+  "annotations": [
+    {
+      "case_id": "MSS-H01-A",
+      "pair_id": "MSS-H01",
+      "target_rules": [
+        "MSS-R01"
+      ],
+      "original_body_sha256": "8a6fc61df56268361e380129ae22adf62fc99bfd29c4e81ac8fa92d5855bcd85",
+      "word_count": 104,
+      "word_budget_satisfied": true,
+      "word_budget_is_not_behavioral_success": true,
+      "observed": "Believes the supplied sincere-intent explanation, eagerly praises Vanir and presses a hesitant Nera. No consent, physical contact, trick or listener response is completed.",
+      "model_relation": "Consistent with narrow admired-person advocacy and its possible boundary failure; the pressure remains adverse rather than being optimized into exemplary facilitation.",
+      "preserved_limits": [
+        "Benign-intent and admiration cues already supply much of the response.",
+        "The narration explicitly explains added pressure; this may be author analysis rather than natural enacted characterization."
+      ],
+      "rivals": [
+        "generic enthusiastic fan",
+        "explicit invitation cue",
+        "social audience"
+      ],
+      "unknowns": "How she would respond to a refusal, whether she notices the pressure, and whether a less cued situation produces the same tendency remain unobserved.",
+      "body_or_foundation_repaired": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "MSS-H01-B",
+      "pair_id": "MSS-H01",
+      "target_rules": [
+        "MSS-R01"
+      ],
+      "original_body_sha256": "37b6bce4d6eb382f230cd09443430f1506668060134bc648f44cffa308996605",
+      "word_count": 105,
+      "word_budget_satisfied": true,
+      "word_budget_is_not_behavioral_success": true,
+      "observed": "Turns criticism toward Vanir while retaining the wish for him to teach impressively. No change of his intention, Nera understanding or rescinded invitation is claimed as an outcome.",
+      "model_relation": "The criticism branch is represented, but a plainly cruel admission makes generic moral objection easy. The same author knew both variants.",
+      "preserved_limits": [
+        "UNPROVIDED_OTHER_MIND_ASSUMPTION_IN_SPEECH: She thinks you are offering to help her goes beyond the supplied fact that Nera does not know the humiliating plan. It may be the worker mistaken inference, but is not certified Nera belief.",
+        "The closing list of things she does not announce sounds like contract-following commentary and weakens natural voice."
+      ],
+      "rivals": [
+        "generic objection to explicit cruelty",
+        "prompt demand to retain uncertainty",
+        "source echo of both fans condemnation"
+      ],
+      "unknowns": "No repeated evidence shows how readily private criticism becomes public confrontation under costs or unequal authority.",
+      "body_or_foundation_repaired": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "MSS-H02-A",
+      "pair_id": "MSS-H02",
+      "target_rules": [
+        "MSS-R02"
+      ],
+      "original_body_sha256": "45f4c37db3b7795429297e8b27f6b3ad248d900b5a6500c94afe8028267934fa",
+      "word_count": 106,
+      "word_budget_satisfied": true,
+      "word_budget_is_not_behavioral_success": true,
+      "observed": "Maintains qualified confidence, invokes the human/devil contrast and takes a tentative forward step. Neither a cast nor a successful interception is supplied.",
+      "model_relation": "Source-compatible self-reliance under the stipulated ordinary-human belief; it is not proof of actual risk competence.",
+      "preserved_limits": [
+        "UNPROVIDED_DEMAND_PRESUPPOSITION: because a human tells us to implies an instruction to run that was not supplied. It may be rhetorical overstatement, but no such actual prior demand is established.",
+        "The narrator says her cost estimate is smaller than reality. That is reader-level comparison, not evidence she received full-erasure knowledge; the distinction is especially vulnerable to leakage.",
+        "Species/pride wording strongly echoes the source and given earlier challenge."
+      ],
+      "rivals": [
+        "stated pride challenge",
+        "generic defense of an admired person",
+        "explicit low-power belief"
+      ],
+      "unknowns": "No attack, result, capacity calibration or precise remaining-life budget has been observed.",
+      "body_or_foundation_repaired": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "MSS-H02-B",
+      "pair_id": "MSS-H02",
+      "target_rules": [
+        "MSS-R02"
+      ],
+      "original_body_sha256": "9132628cee6230a62ae2ee043224ee7dc023dc618426c8b74bd3b8aa4687a402",
+      "word_count": 106,
+      "word_budget_satisfied": true,
+      "word_budget_is_not_behavioral_success": true,
+      "observed": "After believed Aqua identification, asks Vanir for help and offers to draw attention, then hesitates. No shield, actual delay, escape or life loss is established.",
+      "model_relation": "Represents changed reliance together with reciprocal initiative while preserving fear. The appraisal explicitly lacks full-erasure knowledge.",
+      "preserved_limits": [
+        "The explicit overwhelming-power cue can produce ordinary fear without identifying the proposed mechanism.",
+        "Help-seeking and protective offer are compressed into a particularly orderly short response; source-like coexistence does not establish their stable causal weights.",
+        "The denial of erasure knowledge and no-shield ending are explanatory methodology, not validated worker voice."
+      ],
+      "rivals": [
+        "generic fear and loyalty",
+        "explicit identity cue",
+        "author awareness of both paired outputs"
+      ],
+      "unknowns": "Whether she would actually move, how Vanir would respond, and whether any intervention works remain open.",
+      "body_or_foundation_repaired": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "MSS-H03-A",
+      "pair_id": "MSS-H03",
+      "target_rules": [
+        "MSS-R03"
+      ],
+      "original_body_sha256": "1d632c3f2f1e7448a238a31753c2d8e4159769bd78d72cd02933944b209d9737",
+      "word_count": 102,
+      "word_budget_satisfied": true,
+      "word_budget_is_not_behavioral_success": true,
+      "observed": "Apologizes, keeps Taro unnamed, frames the incident as her mistaken visit and turns toward the available exit. No steward reply or repair occurs.",
+      "model_relation": "Compatible with a customer-protecting cover attempt, but the explicit privacy message and self-blame cue supply ordinary etiquette. A lethal source proposal does not by itself establish this everyday transfer.",
+      "preserved_limits": [
+        "The cover creates a misleading impression without an unambiguously literal false factual assertion. It does not independently demonstrate the full false-cover branch of R03.",
+        "Nobody here needs to acknowledge me echoes the source customer-recognition issue and may be source rehearsal.",
+        "The closing phrase leaves the steward response unprovided is overt methodological commentary."
+      ],
+      "rivals": [
+        "customer explicit privacy preference",
+        "ordinary embarrassment",
+        "generic accountable service worker"
+      ],
+      "unknowns": "No prior confidentiality promise, habitual policy, freely chosen cost or actual customer reaction is available.",
+      "body_or_foundation_repaired": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "MSS-H03-B",
+      "pair_id": "MSS-H03",
+      "target_rules": [
+        "MSS-R03"
+      ],
+      "original_body_sha256": "ea4fb978da07c630d7ecc38b0e73a36dd7a4f292bae48323b7e5b52757ac8c74",
+      "word_count": 107,
+      "word_budget_satisfied": true,
+      "word_budget_is_not_behavioral_success": true,
+      "observed": "Uses the supplied permission to name Taro, keeps responsibility on herself and pauses with the program rather than claiming a completed delivery.",
+      "model_relation": "A permission-sensitive disclosure is a plausible boundary response. R03 expressly underconstrains it; this answer cannot resolve that uncertainty after the fact.",
+      "preserved_limits": [
+        "UNPROVIDED_ACCOUNTABILITY_ASSURANCE: not his instructions may imply knowledge about prior routing instructions beyond the supplied own-failure account. Keep it as an unsupported assurance in speech, not a newly established backstory.",
+        "The response may be more measured and conscientious than the sparsely observed source worker.",
+        "Explicit permission and task responsibility strongly cue generic service behavior."
+      ],
+      "rivals": [
+        "ordinary permission compliance",
+        "shame management",
+        "prompt discipline"
+      ],
+      "unknowns": "The rule does not yet predict ordinary disclosure thresholds or the customer/steward response with known reliability.",
+      "body_or_foundation_repaired": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    }
+  ],
+  "pair_assessments": [
+    {
+      "pair_id": "MSS-H01",
+      "description": "Advocacy/pressure changes to criticism under an explicit harmful-deception reveal. Strong moral cueing, generic fandom and other-mind assumption prevent unique-mechanism or independent-success inference."
+    },
+    {
+      "pair_id": "MSS-H02",
+      "description": "Ordinary-human confidence changes to fear/help plus a tentative protective offer after credible deity identification. Narrator risk remains private. The unprovided run-demand presupposition, strong power cue and no enacted defense remain material."
+    },
+    {
+      "pair_id": "MSS-H03",
+      "description": "Nondisclosure/implicit cover changes to permission-sensitive naming, with self-blame in both. Explicit preferences cue etiquette; no literal false-cover demonstration or reliable ordinary practice follows, and prior-instruction assurance is unsupported."
+    }
+  ],
+  "cross_case_limit": "All six are source-informed English methodological renderings by one author who sees both contrasts. Explanatory narration and no-outcome clauses can flatten voice; apparent coherence may be prompt compliance. Stipulated adult/nonsexual scenes do not add biography. Six80–140word bodies are format compliance only.",
+  "remaining_conditions": [
+    "uncued intervention and refusal",
+    "ordinary-work repetitions and actual cost",
+    "full observed interaction and outcomes",
+    "Japanese voice with independent human assessment",
+    "solitary life and unfamiliar institutions",
+    "qualified MAIN02/MASK join subject to later correction",
+    "completed final nine-category battery"
+  ],
+  "model_disposition": "Retain the frozen three-rule model as a narrow provisional hypothesis set, with R03 especially weak. No model repair, rule strengthening, confidence gain or mature-model promotion from these cases.",
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "new_source_or_independent_credit": 0,
+  "final_nine_category_battery_complete": false,
+  "global_census_closed": false,
+  "full_program_complete": false
+}

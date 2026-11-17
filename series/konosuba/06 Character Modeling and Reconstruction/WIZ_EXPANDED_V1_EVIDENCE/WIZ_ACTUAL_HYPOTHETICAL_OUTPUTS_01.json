@@ -1,0 +1,63 @@
+{
+  "schema": "KONOSUBA_WIZ_ACTUAL_HYPOTHETICAL_OUTPUTS_V1",
+  "composed_utc": "2026-10-19T22:58:15.315828+00:00",
+  "fixed_input_sha256": "236055f54ce4c4330c8dfab0783c722f07a36b1534506f48bec20a034698c32b",
+  "prose_seal_sha256": "96ecda63141f1d628f073e2d4c6add051aefaa3dd85b5220a7379b72e8243510",
+  "execution": "Eight actual written first responses by the same informed author after the prose/input seals. No independent model, reviewer, participant or source event. English functional rendering, not audio or canonical wording.",
+  "outputs": [
+    {
+      "id": "WZ-H01A",
+      "action": "Wiz lets the ordinary greeting stop and keeps her place instead of agreeing to turn away.",
+      "utterance": "That caretaker was not part of your battle. We agreed that people outside it would be left alone, didn't we? I cannot greet you as though that condition still holds. Tell me what happened, and whether anyone else is in danger.",
+      "boundary": "She opposes the requested indifference and invokes the stated condition. The killing remains an admission in this scene; no independent investigation, arrest, additional victim, spell result or colleague compliance is invented."
+    },
+    {
+      "id": "WZ-H01B",
+      "action": "She remains attentive but does not move to attack the colleague on the supplied account.",
+      "utterance": "I am sorry that a life was lost. But a battle between those fighting it is different from killing someone who had no part in it. I won't pretend our condition says otherwise. Is there anyone left who needs help?",
+      "boundary": "She distinguishes the role condition while expressing concern. No hidden civilian victim, universal approval of the battle, verified history, offered treatment or recipient answer is supplied."
+    },
+    {
+      "id": "WZ-H02A",
+      "action": "Wiz examines the demonstrated cup and begins sketching a stock display around it.",
+      "utterance": "It really keeps the drink warm? People working outside would be so glad of that. If we put it where they can see the demonstration... how many could you supply?",
+      "boundary": "Her attention centers on a real function and imagined benefit while demand, budget and alternatives remain unexamined. No order, stock delivery, payment, loss or happy customer is established."
+    },
+    {
+      "id": "WZ-H02B",
+      "action": "She pauses the stock list and places the ledger beside the demonstration.",
+      "utterance": "It is useful, but this money is already needed to keep the shop open. I shouldn't promise a large order before knowing who will buy it. Could we discuss one sample first? I need its actual price before deciding.",
+      "boundary": "This is a locally corrected proposal under an explicit attended constraint. A sample's availability, price, order or sale remains unanswered; no general cure of future stock judgment is demonstrated."
+    },
+    {
+      "id": "WZ-H03A",
+      "action": "She sets the sponsor's offer down without accepting it.",
+      "utterance": "Ten years? I want this shop to be a place where we work together, and where people can come back to see us. That payment would not give me those years here. I'm sorry, but I can't agree to that.",
+      "boundary": "Her own refusal is complete. Vanir's later plans, any companion's return, sponsor reaction or romantic meaning remain unknown."
+    },
+    {
+      "id": "WZ-H03B",
+      "action": "She considers the afternoon's schedule instead of treating the offer as a permanent parting.",
+      "utterance": "One afternoon, and I may return afterward? If that is the whole arrangement, I can take the break while Vanir covers it. Please put the return time in the terms so there is no misunderstanding.",
+      "boundary": "She accepts a bounded proposal on the stated terms and requests precision. Actual payment, departure, sponsor acceptance of the written time, visitor arrival and a universal willingness to leave are not established."
+    },
+    {
+      "id": "WZ-H04A",
+      "action": "Wiz starts toward the available withdrawal route and offers to ask the nearby donor before any later attempt.",
+      "utterance": "I don't have enough mana for that cast now. Please come back with me for the moment. We can ask for help, but I cannot count someone else's mana before they have agreed and supplied it.",
+      "boundary": "Her own withdrawal and request plan respect the stated limit. No companion follows automatically, donor agrees, transfer occurs, new spell appears or sluice freezes."
+    },
+    {
+      "id": "WZ-H04B",
+      "action": "Using the one supplied cast, she directs the familiar freezing spell at only the specified sluice segment.",
+      "utterance": "That is enough for this section. Cursed Crystal Prison. Please keep the work within the frozen part; I have not been given another cast, and freezing it does not mean all the poison is gone.",
+      "boundary": "The narrow stipulated effect is the attempted/performed task under the supplied capacity. No wider decontamination, extra mana, vitality draw, safe public reopening or companion response is established."
+    }
+  ],
+  "outputs_count": 8,
+  "pairs": 4,
+  "source_validation_credit": 0,
+  "independent_validation_credit": 0,
+  "score": null,
+  "confidence_increase": false
+}

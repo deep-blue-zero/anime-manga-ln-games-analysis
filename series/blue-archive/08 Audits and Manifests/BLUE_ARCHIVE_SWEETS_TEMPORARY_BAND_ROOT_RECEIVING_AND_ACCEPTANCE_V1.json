@@ -1,0 +1,201 @@
+{
+  "schema": "BLUE_ARCHIVE_SWEETS_TEMPORARY_BAND_ROOT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_PERSISTENCE_PENDING_COMPLETE_ROOT_INSTALLATION",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SWEETS_TEMPORARY_BAND_ENSEMBLE_SYNTHESIS.md",
+  "current_scope": "355 required packages;29 non-denominator mandatory substantial named duties across25 distinct parent packages; literal kinds18 SECTION/9 DIRECTED_RELATIONSHIP/2 ENSEMBLE",
+  "dated_source_beforeimage_witness": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+  "dated_source_tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+  "accepted_merged_main_witness": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "commit_custody_qualification": "7546 source and b76 squash main have the same e9 tree; distinct commit and audit custody is preserved. This preparer performed no fetch, local reconciliation, merge or new remote observation.",
+  "fixed_preparation_snapshot": {
+    "packages": [
+      90,
+      101
+    ],
+    "new_packages": 12,
+    "after_complete_ROOT_install": 101,
+    "characters": 89,
+    "directed_relationships": 6,
+    "ensembles": 3,
+    "institutions": 3,
+    "named_duties_after_complete_ROOT_install": 3,
+    "previous_merged_packages": 89,
+    "next_milestone": 178,
+    "later_live_acceptances_excluded": true
+  },
+  "current_first_milestone_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json",
+      "bytes": 2282,
+      "sha256": "e7214986d7cd89063f5b0608d63100957736a33e48baeb102afdc13145a79ea6",
+      "git_blob_oid_of_actual_bytes": "67d72a22c7acf47b817879110809fdb0095968f3",
+      "immutable_transport_path": "immutable_originals/ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1",
+      "checked_UTC": "2026-10-10T19:49:13.689695+00:00",
+      "status": "COMPLETE_MERGED_AND_EXACT_POSTMERGE_MAIN_FULL_AUDIT_ACCEPTED",
+      "goal25_complete": true,
+      "merged_PR": 147,
+      "merged_UTC": "2026-10-10T19:34:27Z",
+      "merged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+      "tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+      "linear_parent": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+      "merged_packages": 89,
+      "required_packages": 355,
+      "required_named_duties": 29,
+      "distinct_named_parent_packages": 25,
+      "milestones": [
+        89,
+        178,
+        267,
+        355
+      ],
+      "next_milestone": 178,
+      "ROOT_reviewed_total_at_this_receipt": 102,
+      "full_goal_status": "ACTIVE_INCOMPLETE",
+      "postmerge_receipt": {
+        "path": "ROOT_FIRST_MILESTONE_POSTMERGE_MAIN_b76_VERIFICATION_V1/EXACT_POSTMERGE_MAIN_VERIFICATION_V1.json",
+        "bytes": 6847,
+        "sha256": "787c947409268e2e633a2278790fb71241e822ea98b5e0608839d393e9dfe598",
+        "git_blob": "2c4964e2df70188d2181796a95d9990c72ca98af"
+      },
+      "postmerge_run": 38080340801,
+      "actual_audit_commit": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "tests": 292,
+      "skipped": 0,
+      "archive_outcome": "success",
+      "profile": "full",
+      "source_housekeeping_final_chain": "PREVIOUSLY_ROOT_ACCEPTED_EXACT7546; NOOP HOUSEKEEPING; FULL_FINAL_AUDIT",
+      "ROOT_actual_receiving": "8aac40 entire140-line saved postmerge receipt; actual selected AUDIT_COMMIT, detached checkout, full snapshot PASS, both completed jobs and isolated exact-success status; separately received actual292-tests/OK log range233–250. Exact complete saved log and every actual selected witness independently checked here. Dated PENDING in frozen producer receipt is superseded for current milestone status by this receiving decision.",
+      "all14_original_gaps": "OPEN",
+      "new_literary_primary_AV_model_or_identity_credit": 0,
+      "untracked39": "UNCHANGED_NO_CONTENT_READ_OR_HASH",
+      "unbound9": "UNREAD_UNHASHED",
+      "R_Git_provider_mutations": false,
+      "remaining_work": "Full remaining eligible-cast Phase3 packages, all29 substantial named duties, subsequent exact adoption/publication and required178/267/355 merges remain required."
+    }
+  },
+  "historical_payload_qualification": "Original pending/local/counter/source-capture/receiving fields retain creation-time meaning. The separate complete ROOT acceptance controls current literary judgment; the accepted milestone control supersedes only earlier first-milestone pending states. No author physical source receiving is inferred retrospectively.",
+  "original_exact_tuple": {
+    "path": "ROOT_SWEETS_BAND_PACKAGE90_ACCEPTANCE_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 5469,
+    "sha256": "8197ecb4c9df1c4751147f54565769352f2b0b8f964b7d23a7bbb5d56d73f66d",
+    "git_blob_oid_of_actual_bytes": "f9e960673d476e2b2959790f2e75b2f7bd503f60",
+    "immutable_transport_path": "immutable_originals/ROOT_SWEETS_BAND_PACKAGE90_ACCEPTANCE_AND_EXACT_VERIFICATION_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_SWEETS_BAND_PACKAGE90_ACCEPTANCE_AND_EXACT_VERIFICATION_V1",
+    "checked_at": "2026-10-10T17:35:38.895776+00:00",
+    "status": "PASS_COMPLETE_CORRECTED_ENSEMBLE_BOUNDARY_WITH_LIMITS",
+    "candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_TEMPORARY_BAND_V2_CORRECTED/BLUE_ARCHIVE_SWEETS_TEMPORARY_BAND_ENSEMBLE_SYNTHESIS.md",
+      "bytes": 45900,
+      "lines": 182,
+      "sha256": "81209781c4418688a051303f3f9c4d282358bc83f596f2f8f9db7567f68c8789"
+    },
+    "canonical_target": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SWEETS_TEMPORARY_BAND_ENSEMBLE_SYNTHESIS.md",
+    "existing_home": "P3-ENSEMBLE-SWEETS-TEMPORARY-BAND-AGENCY",
+    "mandatory_operative_body": "Corrected182-line V2; only declared L111 clause and three canonical link-only translations",
+    "exact_R_inputs": 5,
+    "historical_C_inputs": 8,
+    "prior_frozen_preserved": 41,
+    "paragraph_joins": 71,
+    "endpoints": 61,
+    "whole_rivals": 12,
+    "sections": 11,
+    "link_only_translations": 3,
+    "inverse_body_source_and_claim": "PASS_EXACT",
+    "all14_original_gaps": "OPEN",
+    "ROOT_actual_receiving": {
+      "original_whole_meaning": "ROOT_BAND_V1_COMPLETE_RECEIVING_AND_NARROW_REQUIRED_CORRECTION_V1.json whole59d14b records actual whole182/61endpoints/12rivals/allscopes and controls.",
+      "complete_operative_changed_paragraph": "4b3c54 actual L111; 2d921e complete194-line erratum with both paragraphs, TB046 and TBE44 before/after.",
+      "all_new_control_fields": "44b895 all new source fields and original-five binding;284022 all nonrepeated author fields/all5 outputs;da0279 whole40-line saved. Every unaffected source/claim/body field independently inverse-exact to already received V1.",
+      "source_check": "7aedb9 complete A:L211–251, including exact228; earlier personally adequate four-character and belonging87 analytical custody reused, no new primary/native/performed observations."
+    },
+    "transport_base_qualification": {
+      "schema": "BLUE_ARCHIVE_ROOT_BAND_V2_TRANSPORT_BASE_QUALIFICATION_V1",
+      "checked_at": "2026-10-10T17:18:12.310371+00:00",
+      "status": "PASS_EXACT_TRANSPORT_QUALIFICATION",
+      "qualifies": "ROOT_SWEETS_BAND_CORRECTED_V2_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "correction": "The three exact source copies do exist in the V2 bound_source_inputs directory. The earlier ROOT assertion that the derivative deliberately does not duplicate source folders is withdrawn. Its actual verification against the immutable V1 copies remains valid; both bases have independently verified identical bytes.",
+      "actual_three_copies": [
+        {
+          "source_id": "A01",
+          "relative_path": "bound_source_inputs/A01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+          "byte_count": 52261,
+          "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+          "exact_original_V1_equality": true
+        },
+        {
+          "source_id": "P",
+          "relative_path": "bound_source_inputs/P_BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "byte_count": 91424,
+          "sha256": "10fd498526cc67fe49e5567fdcb856392a0fe0fadd212557647efb2db8e73faa",
+          "exact_original_V1_equality": true
+        },
+        {
+          "source_id": "A",
+          "relative_path": "bound_source_inputs/A_BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+          "byte_count": 53227,
+          "sha256": "221e1398809a988693956548309259d18da8014cdbf69bcd8aac86b49cf30550",
+          "exact_original_V1_equality": true
+        }
+      ],
+      "canonical_requirement": "Apply the same three exact canonical link-only translations; preserve all literary wording except the already received narrow L111 audience correction.",
+      "new_primary_or_meaningful_reading_credit_from_copies": 0,
+      "acceptance_and_count": "PENDING_AFTER_MOMIJI89",
+      "R_Git_provider_writes": false
+    },
+    "scope": "355 required packages plus29 mandatory sections unchanged; existing allocated ENSEMBLE only.",
+    "first_quarter": "EXCLUDED_FROM_FIXED74_TO89_CANONICAL_TRANCHE",
+    "package_acceptance_and_count": "ROOT_ACCEPTED90_AFTER_ACTUAL89",
+    "canonical_persistence": "PENDING",
+    "new_primary_native_raw_QA_AV_model_independence_credit": 0,
+    "nine_unbound_large": "UNOPENED_UNREAD_UNHASHED",
+    "R_Git_provider_writes": false,
+    "decision": "ACCEPT_COMPLETE_ENSEMBLE_BOUNDARY_WITH_LIMITS",
+    "progress": {
+      "previous_ROOTaccepted_packages": 89,
+      "total_ROOTaccepted_packages": 90,
+      "character_packages": 84,
+      "directed_relationship_packages": 4,
+      "ensemble_packages": 2,
+      "published_remote_packages": 73,
+      "published_source_commit": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+      "canonical_band_persistence": "PENDING_NEXT_EXACT_CANONICAL_ADOPTION",
+      "goal_25_percent_complete": false
+    },
+    "sequence_predecessor": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_MOMIJI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "sha256": "4264400fc11fca1e55ee7c8fecd941014427303f625e2e81c42e85349494cdcd"
+    },
+    "ROOT_sequence_close_receiving": "c65e4d whole prior corrected finite receipt and overriding actual-copy qualification; same complete body/source/endpoint/rival/OPEN review retained, all finite gates freshly rerun"
+  },
+  "public_reference_translation": "Every original field survives exact reference translation. Original tuples bind original bytes, not derivative bytes; full immutable C transports and literal inverses are retained.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "model_credit": 0,
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SWEETS_TEMPORARY_BAND_ENSEMBLE_SYNTHESIS.md",
+    "bytes": 48281,
+    "sha256": "c41ea3a6e2b4ae4481fc0717d5ff2a764263bbbd7900fcaf6fe5f046c7f6ed1d",
+    "git_blob_oid_of_actual_bytes": "ca40450eb5e73062d227f4b07858d6cc9764f88a"
+  },
+  "authority_framing_changes": [
+    {
+      "kind": "CURRENT_ROOT_AUTHORITY_FRAMING_ONLY",
+      "before": "complete bounded literary candidate; independent ROOT receiving and canonical adoption pending.",
+      "after": "frozen complete bounded literary argument; ROOT independently accepted WITH LIMITS; canonical persistence begins only through complete ROOT installation.",
+      "occurrences": 1
+    }
+  ],
+  "mandatory_operative_qualification": "Corrected182-line V2; only declared L111 clause and three canonical link-only translations"
+}

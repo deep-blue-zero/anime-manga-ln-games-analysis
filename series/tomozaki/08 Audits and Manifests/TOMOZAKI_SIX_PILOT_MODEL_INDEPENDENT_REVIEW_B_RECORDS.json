@@ -1,0 +1,1485 @@
+{
+  "schema": "tomozaki_portable_historical_analytical_records/v1",
+  "packet_id": "TOMOZAKI_SIX_PILOT_PUBLIC_EVIDENCE_20261103_V1",
+  "record_semantics": "Complete original semantic values and raw byte identities. Historical statuses, pending gates and scratch strings retain their original meaning; current acceptance is resolved through the main catalog, never by executing historical routes.",
+  "records": [
+    {
+      "record_id": "reviewB.ACQUIRED_CUMULATIVE_WINDOWS_B.json",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/pilot_model_independent_review_b_20261103/ACQUIRED_CUMULATIVE_WINDOWS_B.json",
+        "bytes": 3695,
+        "sha256": "ba5cc4984149082022c9a845f8d8b4e9f2f6d1d42d43a53d8f50bdd6e5b6adee"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "2ad01eac03f826eb8987624eece2e105637b405053041d4095e71c2b03e5ecf5",
+      "value": {
+        "schema": "tomozaki_independent_review_B_acquired_windows/v1",
+        "utc": "2026-11-04T01:36:34.639916+00:00",
+        "preregistration": {
+          "path": ".scratch/pilot_model_independent_review_b_20261103/PRE_REGISTERED_REVIEW_B.json",
+          "bytes": 20982,
+          "sha256": "aa2b2260369b940d7d92dd67cbbbd464d988633e2677fcf42024324f655e35c7"
+        },
+        "additional_inputs": [
+          {
+            "identity": {
+              "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md",
+              "bytes": 129891,
+              "sha256": "265b6ae9c61dad6896061ea29176277f0dc1276f2c51b4ea39285845c6c5c68b"
+            },
+            "actual_line_windows": [
+              [
+                595,
+                608
+              ],
+              [
+                634,
+                647
+              ],
+              [
+                823,
+                896
+              ]
+            ]
+          },
+          {
+            "identity": {
+              "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md",
+              "bytes": 145033,
+              "sha256": "f8d258a5c1ba3be2507db6892bb9f8634b0b96b1e1719945762b51fd3b56ee7d"
+            },
+            "actual_line_windows": [
+              [
+                956,
+                1019
+              ]
+            ]
+          },
+          {
+            "identity": {
+              "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md",
+              "bytes": 198814,
+              "sha256": "938ff0eacd72ba557c3776dc689ddb2e75a775263a9bfdc4e0bb4c0832c10f59"
+            },
+            "actual_line_windows": [
+              [
+                766,
+                782
+              ],
+              [
+                1395,
+                1456
+              ],
+              [
+                1706,
+                1726
+              ],
+              [
+                1858,
+                1884
+              ],
+              [
+                2015,
+                2035
+              ],
+              [
+                2229,
+                2238
+              ],
+              [
+                2271,
+                2330
+              ]
+            ]
+          },
+          {
+            "identity": {
+              "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md",
+              "bytes": 52873,
+              "sha256": "cc8a6387342a8f715bdebb86a825ddf82ac68b7f007f56a72300288692e705f3"
+            },
+            "actual_line_windows": [
+              [
+                23,
+                50
+              ],
+              [
+                168,
+                180
+              ],
+              [
+                205,
+                270
+              ]
+            ]
+          },
+          {
+            "identity": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md",
+              "bytes": 72543,
+              "sha256": "897cb97ad9694c153a96246e353896e581a4e7b5c3824b774cde77992a2d87b8"
+            },
+            "actual_line_windows": [
+              [
+                44,
+                63
+              ],
+              [
+                148,
+                157
+              ],
+              [
+                192,
+                201
+              ],
+              [
+                212,
+                233
+              ],
+              [
+                355,
+                365
+              ]
+            ]
+          }
+        ],
+        "method": {
+          "identity": {
+            "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md",
+            "bytes": 17025,
+            "sha256": "a0b3792c861ea94298b78e903e24c38d9043104f6d3695aaccead464c30168e8"
+          },
+          "actual_scope": "FULL"
+        },
+        "clipping_recovery": "Broad navigation output was clipped and not counted as full reading. JVL237–270 and voice44–53 were explicitly recovered after one out-of-range display failed without printing content. Final listed windows were actually displayed.",
+        "evidence_result": "No material contradiction among admitted dossier controls and these current cumulative/register windows identified. No required new primary return inferred.",
+        "model_output_acquired": false,
+        "model_validation_awarded": false,
+        "new_primary_calls": 0,
+        "new_pixels": 0,
+        "canonical_Git_global_source_writes": false
+      }
+    },
+    {
+      "record_id": "reviewB.FINAL_PILOT_MODEL_INDEPENDENT_REVIEW_B_SEAL.json",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/pilot_model_independent_review_b_20261103/FINAL_PILOT_MODEL_INDEPENDENT_REVIEW_B_SEAL.json",
+        "bytes": 3975,
+        "sha256": "80ccdcf0136e51447b7cf29f555ca9b8c49374469d900e1137807e5384558dcd"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "27fe4b3284aea91589273e39682744962a1a3c0ec4311cf740102ff395b7a059",
+      "value": {
+        "schema": "tomozaki_independent_pilot_model_review_B_final_seal/v1",
+        "utc": "2026-11-04T01:55:51.422245+00:00",
+        "status": "INDEPENDENT_BOUNDED_SEMANTIC_OPERATIONAL_CONSTRAINT_AND_SELECTIVE_TEXT_REGISTER_PASS",
+        "scope": [
+          "Konno Erika B03 V1",
+          "Umayahara Mitsu B06 V1",
+          "Ashigaru B08 V1"
+        ],
+        "actual_model_files": [
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 11023,
+            "sha256": "e3172cc6d87c4531056c17b61ec7fb0ffe530a4f63d6e7842b174d5943e7d6dd"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 11925,
+            "sha256": "77792dda46c7f0241c21b27a710874055c6beeebc2093910f80b8b058e477fde"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 12274,
+            "sha256": "354dab959a1f298c398c33ce53efaa76301dbe4c8a727a4b7c54e970d3d41943"
+          }
+        ],
+        "outputs": [
+          {
+            "path": ".scratch/pilot_model_independent_review_b_20261103/ACQUIRED_CUMULATIVE_WINDOWS_B.json",
+            "bytes": 3695,
+            "sha256": "ba5cc4984149082022c9a845f8d8b4e9f2f6d1d42d43a53d8f50bdd6e5b6adee"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_b_20261103/KONNO_MITSU_ASHIGARU_INDEPENDENT_REVIEW_B.md",
+            "bytes": 9810,
+            "sha256": "a5550bef98bc8d7d10acb017d79933ea60485d9c4285581f71fc072b1cf415ad"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_b_20261103/MODEL_INPUT_AND_TRACE_BINDING_PROOF_B.json",
+            "bytes": 11298,
+            "sha256": "eadc4f0379f730501e9326ab13c6d36e7d34521514093953d9bc27a5aec79db9"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_b_20261103/PRE_REGISTERED_REVIEW_B.json",
+            "bytes": 20982,
+            "sha256": "aa2b2260369b940d7d92dd67cbbbd464d988633e2677fcf42024324f655e35c7"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_b_20261103/PRE_REGISTRATION_SEAL.json",
+            "bytes": 537,
+            "sha256": "cec1372c9d15773bf5ce13e72f6c83701f1fc736a2902ecea29e657c94d73809"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_b_20261103/TWELVE_INDEPENDENT_CHALLENGE_TRACES_B.json",
+            "bytes": 38428,
+            "sha256": "1bca4307c2963903a8809b7d9384479d2ec4ff2f73e898357565fd5a3d1baabf"
+          }
+        ],
+        "all_three_complete_model_bodies_and_twelve_producer_traces_read": true,
+        "all_twelve_frozen_independent_challenges_actually_applied_and_full_results_readback": true,
+        "all28_declared_dependency_and16protected_Git_bindings_replayed": true,
+        "producer_slices_and_independent_preregistration_unchanged_at_sealing": true,
+        "material_model_defects_identified": [],
+        "input_limitations": [
+          "B-K02 recipient identity requires clarification before a new-target forecast",
+          "B-A03 role supports supplied permission constraints; person-specific forecast remains identity/standing conditional"
+        ],
+        "corrections_or_retests_required": false,
+        "source_primary_returns": 0,
+        "pixels": 0,
+        "audio": 0,
+        "producer_canonical_Git_index_ref_global_source_writes_by_reviewer": false,
+        "blind_prediction_accuracy_percentage_or_full_behavior_claim": false,
+        "freeform_Japanese_dialogue_complete_idiolect_acoustic_validation": false,
+        "global_capability_grade_owner_calibration_or_terminal_pass": false,
+        "root_acceptance_or_publication_awarded": false,
+        "separate_principal_sufficiency_seal_unchanged": {
+          "path": ".scratch/principal_sufficiency_b_20261103/FINAL_PRINCIPAL_SUFFICIENCY_B_SEAL.json",
+          "bytes": 2010,
+          "sha256": "98b27428fc4fb467cccf16b8e0184fac14382ecf810c35661aba44557b3bfe0e"
+        },
+        "review_execution": "Actual independent model-guided semantic traces, not a separate executable inference engine/ground-truth oracle.",
+        "remaining_owner": "Root evaluates exact candidate acceptance and publication; subsequent scope or material changes require attributable new outputs/review."
+      }
+    },
+    {
+      "record_id": "reviewB.KONNO_MITSU_ASHIGARU_INDEPENDENT_REVIEW_B.md",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/pilot_model_independent_review_b_20261103/KONNO_MITSU_ASHIGARU_INDEPENDENT_REVIEW_B.md",
+        "bytes": 9810,
+        "sha256": "a5550bef98bc8d7d10acb017d79933ea60485d9c4285581f71fc072b1cf415ad"
+      },
+      "representation": "exact_original_UTF8_text",
+      "semantic_value_sha256": "6149217429fb88d81f7972d931714c9b2ff3a3868859d38fb4f290e143e7266b",
+      "value": "# Independent pilot model review B\n\n**PASS for the declared bounded semantic/operational-constraint and selective Japanese prose/register-control scope** of the exact Konno, Mitsu and Ashigaru V1 candidates below. Root acceptance and canonical publication remain separate. This review validates neither blind prediction nor all possible behavior, an executable autonomous inference engine, generated Japanese dialogue, a complete idiolect, acoustic performance, global capability grade or owner calibration.\n\nAll three actual complete model bodies and their twelve actual producer traces were acquired before this verdict. The independently frozen twelve challenge inputs were then actually applied to the candidates, with selectors, conditional acts/ranges, competing ends, knowledge/permission states, counterevidence, costs and field abstentions recorded. These are reviewer-authored model-guided semantic executions; no separate runtime engine or truth oracle was used. Known-canon tests are exposed retrospective checks; invented cases have no observed canonical truth label. The shared filesystem supports no sequestered/blind claim.\n\n## Exact reviewed candidates\n\n| Candidate | Bytes | SHA-256 |\n|---|---:|---|\n| KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md | 11023 | e3172cc6d87c4531056c17b61ec7fb0ffe530a4f63d6e7842b174d5943e7d6dd |\n| UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md | 11925 | 77792dda46c7f0241c21b27a710874055c6beeebc2093910f80b8b058e477fde |\n| ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md | 12274 | 354dab959a1f298c398c33ce53efaa76301dbe4c8a727a4b7c54e970d3d41943 |\n\nAll reside in the producer's immutable scratch review slices. None was edited. All are explicitly draft/noncurrent derived-use models, with nonprimary authority, the fixed literary snapshot, release/admission and dependency/preregistration references. No literary conclusion may be proved by a generated model output.\n\n## Semantic findings\n\n**Konno:** the candidate makes recipient, public frame and actual task change the available conduct. KM3 gives a useful ordinary choice through Yuzu's accepted correction; KM5 permits a concrete performer's revision request while Kikuchi retains authorial choice. These positive acts prevent the model becoming only a list of forbidden facts or an all-purpose harassment policy. KM1/KM2 preserve pressure and failed calibration without omniscient motives or universal domination. KM4 separates taking before assent from the first send after assent and distinguishes Kawaguchi's ownership from Yuzu's relief. KM6 preserves Akiyama/group's apology without assigning it to Konno. No full reform, remorse, culprit or V12 repair test is invented. This agrees with the complete released dossier and CS/REL/EFF/voice controls.\n\n**Mitsu:** the two-channel technical/permission account is operationally useful. A proposal can be inspected, partly accepted and expertly revised while its unauthorized opening remains unauthorized. MM2 changes the scope of help according to standing, competence and waiting, rather than turning bodily need into either automatic takeover or global refusal. MM1 and MM4 distinguish exact craft consequences from feasible imperfect continuation after material loss; the change does not require a hidden conversion or limitless sacrifice. MM5 preserves a particular reading loan, custody and return placement without legal/publication title or witnessed acknowledgment. Her work, rest, timing, wit and care remain ends of her own. Reported earlier history, widow/spouse standing, diagnosis and later access remain OPEN.\n\n**Ashigaru:** the model keeps a consequential set, an attributed aggregate estimate, practical livelihood-route questions and public scene work as different tasks. It can recognize skilled opposition without giving up the meaning of a local win. AM4 preserves Endo's independent technical constraints and Mizusawa's work rather than consuming a professional network as free resources. AM5 allows scene-building and pressure while leaving the no-face/initial scope operative; a possible overrun is recorded as overreach, not sanitized into ideal conduct or retroactively authorized by audience enjoyment. AM7 retains actual organizer neglect and reciprocal prior work while withholding improvisation, loss amounts and final result. Buin pleasure, generosity and being moved by admirers survive alongside recruitment and embarrassment humor.\n\n## Actual producer-output review\n\nThe complete KE-R1/R2/H1/H2, UM-R1/R2/H1/H2 and AS-R1/R2/H1/H2 output records were read, including their selectors, supplied outcomes, abstentions and producer observations. They preserve the advertised causal distinctions in their actual returned content; the verdict does not merely adopt the producer's own no-error statement. Literal input and expected-range fields match the frozen producer preregistration, and every record binds the exact actual model bytes.\n\nThe retrospective records explicitly replay supplied outcomes. The hypothetical records offer contingent useful acts or narrow an unsupported request, rather than presenting an invented event as canon. In particular, KE-H1 has a specific more-speakable-line request; UM-H1 considers a defined practical delegation separately from archive access; AS-H1 offers an explicit extension proposal while preserving the possible pressure failure. Their uncertainty therefore does not empty all supported ordinary action.\n\n## Independent challenges and input issues\n\nAll twelve records are preserved in TWELVE_INDEPENDENT_CHALLENGE_TRACES_B.json. B-K01–04 test ordinary consultation, public/recipient contrast, two permission timestamps and unsupported reform/culprit requests. B-M01–04 test technical versus permission decisions, help standing, changed material feasibility and loan/identity scope. B-A01–04 test ordinary pleasure with unequal knowledge, singular versus aggregate competition and route advice, contributor/broadcast constraints and unshown preparation/results.\n\nTwo frozen inputs exposed useful limits. B-K02 did not name the reluctant classmate: the trace asks whether it refers to actual Hirabayashi and restricts the known comparison rather than inventing a new target. B-A03 names a recruit by role: the supplied permission constraint remains usable, but a person-specific forecast requires identity/standing clarification. These are recorded input limitations, not edited preregistrations or concealed model failures. The independently usable fields remain nonempty. No material candidate defect or required model successor was identified in this review. No failed attempt or revision was suppressed; no model correction/retest was necessary.\n\n## Japanese prose/register and reference check\n\nThe assessed responsibility is selective source-derived communicative acts and prose-represented register. No freeform Japanese dialogue was produced in this first version. Konno's public ridicule/pressure differs from frank Yuzu consultation and practical script collaboration; a cruel default would contradict the ordinary evidence. Mitsu's brisk imperative/minimal correction, dry wit and oblique generosity remain context-specific; local plain address or “that man” does not establish universal dialect, spouse standing or a softer true persona. Ashigaru's forceful attributed models, offstage appearance and brighter public explanatory role remain distinct; caution does not retroactively turn him into a timid speaker.\n\nThese controls agree with the acquired Japanese voice ledger, voice specialist and complete dossiers. They do not test the lexical authenticity of newly generated Japanese, habitual frequency, pronunciation, timing as actually heard or full recipient coverage. Such a later test would be a new output with explicit criteria and review. A bounded name/reference check covered each introduction, selector table, mechanisms, ordinary/stress discussion and final return limits. Konno/Akiyama, Yuzu/Kawaguchi, Fumiya/Kikuchi/Mitsu, the unnamed familiar local, Endo/Mizusawa and Ashigaru's observers/recipients remain distinct. No material attribution defect was retained.\n\n## Integrity, actual acquisition and remaining owner\n\nMODEL_INPUT_AND_TRACE_BINDING_PROOF_B.json records independent replay of all immutable slice payload identities, all28 declared Git-snapshot dependencies, all16 protected records/Git blobs, the assigned three release joins and all12 producer input/criteria/model bindings. Historical architecture v1.14 and current v1.15 are separately pinned at their actual snapshots; the current16/17.2 and actual release decision were acquired. Matching hashes are identity checks, not fresh semantic reading of every dependency.\n\nActual semantic inputs include the complete three assigned dossiers, current architecture16/17.2 and release-decision unique fields, full relevant root admissions, the named CS/REL/EFF/JVL/voice windows in ACQUIRED_CUMULATIVE_WINDOWS_B.json, the complete three models and twelve assigned producer traces, the complete shared unique dependency frame/relevant joins and the producer's relevant frozen test frame. Repeated protected/manifest catalogue values were mechanically compared. No new primary window, source acquisition, pixel or audio inspection occurred, and no old preparer was executed. The independently sealed criteria and separate principal sufficiency assessment remain unchanged.\n\nRoot may now evaluate acceptance of these exact three candidates within the bounded scope. Any later material correction must preserve these immutable producer versions and use an attributable successor with the failed case and retest. Root retains admission/acceptance, integration/publication and remaining corpus responsibilities; this independent scoped PASS supplies none of the unrelated grades or terminal gates.\n"
+    },
+    {
+      "record_id": "reviewB.MODEL_INPUT_AND_TRACE_BINDING_PROOF_B.json",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/pilot_model_independent_review_b_20261103/MODEL_INPUT_AND_TRACE_BINDING_PROOF_B.json",
+        "bytes": 11298,
+        "sha256": "eadc4f0379f730501e9326ab13c6d36e7d34521514093953d9bc27a5aec79db9"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "e2c880633a40357ec790604028090fcd1ef70a16ecc6f5762f2d8a61efbaf3cd",
+      "value": {
+        "schema": "tomozaki_independent_pilot_B_mechanical_binding/v1",
+        "utc": "2026-11-04T01:51:15.008003+00:00",
+        "status": "PASS_EXACT_INPUT_AND_CANDIDATE_BINDINGS_NOT_SEMANTIC_VERDICT",
+        "immutable_slice_receipts": [
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/FIRST_PAIR_IMMUTABLE_REVIEW_SLICE.json",
+            "bytes": 2313,
+            "sha256": "407acb798c40e649e613e5a862b13874946b047596c104f16bbbb8ac8537c657"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/SECOND_PAIR_IMMUTABLE_REVIEW_SLICE.json",
+            "bytes": 1273,
+            "sha256": "94fcbf88f7e93e79f208ce174385cd3610e31662b51ebfe6b6cc22b4d6a7a55c"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/THIRD_PAIR_IMMUTABLE_REVIEW_SLICE.json",
+            "bytes": 1269,
+            "sha256": "f69da52aced12a8ae9b461f1ee9ecda112a961e890def88cec17ad8c19a39c2f"
+          }
+        ],
+        "all_slice_payload_identities_replayed": true,
+        "shared_packet": {
+          "path": ".scratch/constructed_pilot_models_20261103/TOMOZAKI_PILOT_MODEL_DEPENDENCIES.json",
+          "bytes": 41736,
+          "sha256": "03a6def55c5f69637d607837a9ddae744059c95985f010cc0b2e1b3b5d79d85d"
+        },
+        "all28_declared_snapshot_dependencies_exact": [
+          {
+            "path": "series/tomozaki/04 Character Analysis/Narita Tsugumi/NARITA_TSUGUMI_BOUNDED_CHARACTER_DOSSIER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 22990,
+            "sha256": "b46ca19efe3984d1349316d2af5a99d7587ecc642c902bc2455d7abbea292371",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Takei/TAKEI_BOUNDED_CHARACTER_DOSSIER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 21854,
+            "sha256": "6b7a41752353a85895e19df621a3e830787949ae09488642a98fb2c3a5e176d1",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Nakamura Shuji/NAKAMURA_SHUJI_BOUNDED_CHARACTER_DOSSIER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 22183,
+            "sha256": "6524509f68cb0409702fb320249ae492cc36592121c5a11af213186f240fdbc3",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Konno Erika/KONNO_ERIKA_BOUNDED_CHARACTER_DOSSIER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 22579,
+            "sha256": "4ac425fa47fbfcac682d8c8fa0de9554a5c5747fc7e4382cebc42c23bf1593d0",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Umayahara Mitsu/UMAYAHARA_MITSU_BOUNDED_CHARACTER_DOSSIER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 36143,
+            "sha256": "7723152c6d46c7bf5ea0e837a15c78431f28f7d2ac29cc6e09f848ba84a335bc",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Ashigaru/ASHIGARU_BOUNDED_CHARACTER_DOSSIER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 36479,
+            "sha256": "e46ad5bfe6c0a7dc3d43f6f0c91ab49dad7bf825c331ed658d52cf6e76932d1c",
+            "exact": true
+          },
+          {
+            "path": "governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 27744,
+            "sha256": "a96aba49f730b09b70ec4b60c93e2bc80efe8e85250b283ee79d04da87ad8852",
+            "exact": true
+          },
+          {
+            "path": "governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 16539,
+            "sha256": "9c6cfe3c0af45e484fb7e8ff0296af51f948cf350118a27bed288cf619726db8",
+            "exact": true
+          },
+          {
+            "path": "governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 20131,
+            "sha256": "66c966351aa08a9bfc233a1980a783cb43bf0c1150ea91886cea5c145c270c06",
+            "exact": true
+          },
+          {
+            "path": "governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 25457,
+            "sha256": "8fa81358420e9a2db1f694dfd8c48e431d46dfdb6c9762a8dbe8d47a5d27c848",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 17025,
+            "sha256": "a0b3792c861ea94298b78e903e24c38d9043104f6d3695aaccead464c30168e8",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 129891,
+            "sha256": "265b6ae9c61dad6896061ea29176277f0dc1276f2c51b4ea39285845c6c5c68b",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 145033,
+            "sha256": "f8d258a5c1ba3be2507db6892bb9f8634b0b96b1e1719945762b51fd3b56ee7d",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 52873,
+            "sha256": "cc8a6387342a8f715bdebb86a825ddf82ac68b7f007f56a72300288692e705f3",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 72543,
+            "sha256": "897cb97ad9694c153a96246e353896e581a4e7b5c3824b774cde77992a2d87b8",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 198814,
+            "sha256": "938ff0eacd72ba557c3776dc689ddb2e75a775263a9bfdc4e0bb4c0832c10f59",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 70216,
+            "sha256": "1d3252df3ad7182d0985e4724bedc4745bb661487474d96eb22e902fdf383b6a",
+            "exact": true
+          },
+          {
+            "path": "governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 20236,
+            "sha256": "1566fcada5d71f27f3d75d9cb884f45fef1ec261c0e00926f8cc43da3b07f4c4",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/01 Source Lock and Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 11684,
+            "sha256": "04555d264c94792a98df1e280a54d323ce214c05e9851f142f4075294fc3bf22",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 160805,
+            "sha256": "6017c3eee7ab60cc3ba5e689c4a127b78191fb1b747c06f7f6cec36007160b4b",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 35306,
+            "sha256": "4616495b21e374547c58e63ade5ce99e1cfb6116ceb84621df92be99f94850e1",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 14151,
+            "sha256": "1c2628ede4a780de5de44cd0c057b7281a41d80310c518c1a0cfd2c4d3db4343",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 592652,
+            "sha256": "72083a0d45d607dde901787176c9446754ab58d4ac53a6313b37fb056439fe53",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+            "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+            "bytes": 72802,
+            "sha256": "f5c6d752193d5659a900c108a3629d26e4d3a0cb09a3118bfa1286d1461df593",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_DECISION.json",
+            "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+            "bytes": 24746,
+            "sha256": "8a51e0e7d7124b9bf07189bcd2e6a8fa7d216a5068df0a4c9ca2fc3ef8085a90",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_VERSION_REGISTER.json",
+            "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+            "bytes": 73740,
+            "sha256": "4dfcce1ebcb5c1f3bac5cb33f364b5413f401b2a9e8d9c8202c1667fefdef5ec",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_AUDIT.md",
+            "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+            "bytes": 15549,
+            "sha256": "307d94cef6c9d0d0c52fa311d5058a7d7f69b55c4d9ca7801a0cc76e53c84dfb",
+            "exact": true
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "bytes": 115139,
+            "sha256": "b9db3da99aa62fdb879d25c9caaf1af393542ba73030ca4acd13b53c64628022",
+            "exact": true
+          }
+        ],
+        "all16_protected_records_equal_fixed_register_and_Git_blobs": true,
+        "assigned_three_release_joins_exact": [
+          "Konno Erika",
+          "Umayahara Mitsu",
+          "Ashigaru"
+        ],
+        "producer_twelve_trace_ids_exact_preregistration_and_model_bindings": [
+          "KE-R1",
+          "KE-R2",
+          "KE-H1",
+          "KE-H2",
+          "UM-R1",
+          "UM-R2",
+          "UM-H1",
+          "UM-H2",
+          "AS-R1",
+          "AS-R2",
+          "AS-H1",
+          "AS-H2"
+        ],
+        "independent_preregistration": {
+          "path": ".scratch/pilot_model_independent_review_b_20261103/PRE_REGISTERED_REVIEW_B.json",
+          "bytes": 20982,
+          "sha256": "aa2b2260369b940d7d92dd67cbbbd464d988633e2677fcf42024324f655e35c7"
+        },
+        "independent_preregistration_and_inputs_unchanged": true,
+        "separate_principal_seal_and_outputs_unchanged": {
+          "path": ".scratch/principal_sufficiency_b_20261103/FINAL_PRINCIPAL_SUFFICIENCY_B_SEAL.json",
+          "bytes": 2010,
+          "sha256": "98b27428fc4fb467cccf16b8e0184fac14382ecf810c35661aba44557b3bfe0e"
+        },
+        "inspection_credit": "Dependency replay is mechanical byte/Git identity work, not a new full literary/source read. Only assigned three models and twelve producer traces received semantic read credit; first-pair payloads merely rehashed.",
+        "new_primary_returns": 0,
+        "pixels": 0,
+        "old_helpers_executed": false,
+        "canonical_Git_global_source_or_producer_writes": false
+      }
+    },
+    {
+      "record_id": "reviewB.PRE_REGISTERED_REVIEW_B.json",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/pilot_model_independent_review_b_20261103/PRE_REGISTERED_REVIEW_B.json",
+        "bytes": 20982,
+        "sha256": "aa2b2260369b940d7d92dd67cbbbd464d988633e2677fcf42024324f655e35c7"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "0663c1517b6c311ba785621d726bec6e2afe8eb0c5631033c13df54605c0da99",
+      "value": {
+        "schema": "tomozaki_independent_model_review_B_preregistration/v1",
+        "status": "PREREGISTERED_BEFORE_ANY_PRODUCER_MODEL_OUTPUT_ACQUIRED",
+        "utc": "2026-11-04T01:33:18.395079+00:00",
+        "review_role": "Independent semantic and selective Japanese prose/register reviewer B",
+        "scope": [
+          "Konno Erika",
+          "Umayahara Mitsu",
+          "Ashigaru"
+        ],
+        "writes_only": ".scratch/pilot_model_independent_review_b_20261103",
+        "construction_admissions": [
+          {
+            "person": "Konno Erika",
+            "planning_id": "B03",
+            "decision": "ADMIT_BOUNDED_CONSTRUCTION_ONLY",
+            "permitted_domain": "Recipient-specific familiar status encounters, trusted-friend consultation and practical peer collaboration while retaining responsibility for harm.",
+            "era_rule": "Keep early public challenge, V04 role pressure, V05 harassment/reversal, V06 coexistence, story-local V06.5 outing and V07 collaboration distinct.",
+            "positive_and_counterevidence_controls": [
+              "Care, enjoyable taste and useful correction do not constitute restitution or universal safety.",
+              "Taking before assent and later sending after assent differ; Akiyama’s apology is not Konno’s."
+            ],
+            "excluded_fields_and_domains": [
+              "Generalized reform/remorse/full restitution or terminal forgiveness",
+              "Unknown keepsake culprit, private childhood/diagnosis/sexuality/adult vocation",
+              "Universal cruelty/compliance, new recipient predictions or full idiolect"
+            ],
+            "literary_input": {
+              "path": "series/tomozaki/04 Character Analysis/Konno Erika/KONNO_ERIKA_BOUNDED_CHARACTER_DOSSIER.md",
+              "bytes": 22579,
+              "sha256": "4ac425fa47fbfcac682d8c8fa0de9554a5c5747fc7e4382cebc42c23bf1593d0"
+            },
+            "field_policy": "Supported local tendencies and conditional competing ends may be encoded. Restricted fields retain alternatives/uncertainty; unestablished fields must abstain. No universal or numerical motive weights.",
+            "voice_policy": "Selective locally attested register constraints only; no default dialogue imitation, complete dependable idiolect or acoustic claim. Generated wording cannot be attributed as a source quotation.",
+            "validation_not_yet_awarded": true
+          },
+          {
+            "person": "Umayahara Mitsu",
+            "planning_id": "B06",
+            "decision": "ADMIT_BOUNDED_CONSTRUCTION_ONLY",
+            "permitted_domain": "V12 current shop/craft attention, scoped practical help, custody/access and imperfect communal continuity.",
+            "era_rule": "Witnessed V12 island encounter through departure only; earlier Andi material stays attributed historical retrieval, not an enacted earlier persona.",
+            "positive_and_counterevidence_controls": [
+              "Exacting practice coexists with negotiated help and continuation when perfection is unavailable.",
+              "A technical acceptance does not backdate permission to open a package; rest/cost and limited delegation remain real."
+            ],
+            "excluded_fields_and_domains": [
+              "Earlier unwitnessed Mitsu, medical/health/succession forecast",
+              "Spouse/lover standing, legal estate/publishing authority or post-departure access",
+              "Technical sewing instruction, universal sacrifice theorem, complete dialect/idiolect or acoustic voice"
+            ],
+            "literary_input": {
+              "path": "series/tomozaki/04 Character Analysis/Umayahara Mitsu/UMAYAHARA_MITSU_BOUNDED_CHARACTER_DOSSIER.md",
+              "bytes": 36143,
+              "sha256": "7723152c6d46c7bf5ea0e837a15c78431f28f7d2ac29cc6e09f848ba84a335bc"
+            },
+            "field_policy": "Supported local tendencies and conditional competing ends may be encoded. Restricted fields retain alternatives/uncertainty; unestablished fields must abstain. No universal or numerical motive weights.",
+            "voice_policy": "Selective locally attested register constraints only; no default dialogue imitation, complete dependable idiolect or acoustic claim. Generated wording cannot be attributed as a source quotation.",
+            "validation_not_yet_awarded": true
+          },
+          {
+            "person": "Ashigaru",
+            "planning_id": "B08",
+            "decision": "ADMIT_BOUNDED_CONSTRUCTION_ONLY",
+            "permitted_domain": "Specified competitive/game-peer discussion, situated professional-route conversation and negotiated public/community work.",
+            "era_rule": "Separate V08 requested opponent/adviser, V09 peer conversation, V10 intermediary, V11 planned work/commentary and V12 actual guest.",
+            "positive_and_counterevidence_controls": [
+              "Competitive aims, pleasure, generosity and scene renewal coexist with pressure, recruitment and recipient limits.",
+              "Endo’s labor and expertise remain independent; audience benefit does not erase the no-face boundary or extension apology."
+            ],
+            "excluded_fields_and_domains": [
+              "Economic/private biography, market or career guarantees",
+              "Universal romance authority or unlimited mentorship/safeguard guarantees",
+              "Invented talk improvisation, quantified loss, later audience response or final exhibition result"
+            ],
+            "literary_input": {
+              "path": "series/tomozaki/04 Character Analysis/Ashigaru/ASHIGARU_BOUNDED_CHARACTER_DOSSIER.md",
+              "bytes": 36479,
+              "sha256": "e46ad5bfe6c0a7dc3d43f6f0c91ab49dad7bf825c331ed658d52cf6e76932d1c"
+            },
+            "field_policy": "Supported local tendencies and conditional competing ends may be encoded. Restricted fields retain alternatives/uncertainty; unestablished fields must abstain. No universal or numerical motive weights.",
+            "voice_policy": "Selective locally attested register constraints only; no default dialogue imitation, complete dependable idiolect or acoustic claim. Generated wording cannot be attributed as a source quotation.",
+            "validation_not_yet_awarded": true
+          }
+        ],
+        "input_identities": [
+          {
+            "path": ".scratch/model_admission_root_20261103/ROOT_SIX_DOMAIN_CONSTRUCTION_ADMISSIONS.json",
+            "bytes": 13625,
+            "sha256": "92df1ef9cddd13d671f7b6a713f38ccebdf57882b85c9f7f5242ed97b3b055c9"
+          },
+          {
+            "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+            "bytes": 72802,
+            "sha256": "f5c6d752193d5659a900c108a3629d26e4d3a0cb09a3118bfa1286d1461df593"
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_DECISION.json",
+            "bytes": 24746,
+            "sha256": "8a51e0e7d7124b9bf07189bcd2e6a8fa7d216a5068df0a4c9ca2fc3ef8085a90"
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_VERSION_REGISTER.json",
+            "bytes": 73740,
+            "sha256": "4dfcce1ebcb5c1f3bac5cb33f364b5413f401b2a9e8d9c8202c1667fefdef5ec"
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Konno Erika/KONNO_ERIKA_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 22579,
+            "sha256": "4ac425fa47fbfcac682d8c8fa0de9554a5c5747fc7e4382cebc42c23bf1593d0"
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Umayahara Mitsu/UMAYAHARA_MITSU_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 36143,
+            "sha256": "7723152c6d46c7bf5ea0e837a15c78431f28f7d2ac29cc6e09f848ba84a335bc"
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Ashigaru/ASHIGARU_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 36479,
+            "sha256": "e46ad5bfe6c0a7dc3d43f6f0c91ab49dad7bf825c331ed658d52cf6e76932d1c"
+          }
+        ],
+        "acquired_at_registration": "Full admission record, complete three dossiers, current architecture16/17.2, full unique release decision fields; repeated31 owner rows bound mechanically after a clipped combined display. Relevant cumulative/voice windows remain to acquire before model assessment.",
+        "criteria": {
+          "Konno Erika": {
+            "states": [
+              "V01 public challenge",
+              "V04 role pressure",
+              "V05 sustained harm/reverse persecution",
+              "V06 coexistence/cold war",
+              "story-local V06.5 friend outing",
+              "V07 rehearsal"
+            ],
+            "ordinary_agency": "Permit concrete enjoyment, consultation, accepting Yuzu's useful correction, and practical collaboration without reducing all ends to status or claiming moral conversion.",
+            "recipient_contrast": "Yuzu's valued friendship, Hirabayashi's costly refusal, Tama's resisted targeting, Kawaguchi's device ownership and Kikuchi's script authorship must yield different warrants; recipient cannot be a cosmetic label.",
+            "refusal_stress": "Public-threat failure of calibration and tactical withdrawal are bounded alternatives, not a stable ethical stopping policy; retain attributable harmful choices and no reverse-persecution entitlement.",
+            "knowledge_permission": "Separate taking before assent from sending after assent; photo clues and strategist theories are partial. Konno is not assigned Akiyama's apology or unknown lead-case culprit.",
+            "OOD_OPEN": "Abstain on new-recipient reliable prediction, private remorse, completed repair/forgiveness, adulthood, diagnosis and full motive hierarchy.",
+            "register": "Local mockery/directness versus trusted consultation and spoken-line practicality must be conditional. No universal cruel register, fabricated catchphrase or dependable whole idiolect."
+          },
+          "Umayahara Mitsu": {
+            "states": [
+              "V12 shop refusal",
+              "negotiated work",
+              "trusted local delegation",
+              "costume evaluation",
+              "tower access",
+              "storm recovery/festival",
+              "conditional loan/departure"
+            ],
+            "ordinary_agency": "Return viable practical next actions: material/context checking, expert revision, sleep/deadline/tide concerns, care for objects and continued shared work; do not make her solely a lesson-provider.",
+            "recipient_contrast": "Unasked outsider takeover, assigned novice work, established local's waiting offer and particular borrower access have distinct competence/standing/scope.",
+            "refusal_stress": "Refusal remains real; useful proposal may earn specific technical acceptance, and constrained imperfect continuation can beat unavailable perfection without limitless sacrifice.",
+            "knowledge_permission": "No-extra-action instruction precedes Fumiya's initiated opening; correct writing/scarlet sample mechanism remains unknown. Technical acceptance cannot backdate permission. Key custody/read loan do not confer ownership/publication rights.",
+            "OOD_OPEN": "Earlier enacted persona, diagnosis/decline, widow identity, spouse/lover status, post-departure health/succession, archive acknowledgment and publication authority remain unknown.",
+            "register": "Selective brusque practical correction, dry humor, indirect invitation and refusal of causal certification; no invented dialect, acoustic performance or omniscient elder sermon."
+          },
+          "Ashigaru": {
+            "states": [
+              "V08 requested full-effort set/advice",
+              "V09 situated confidence/romance dialogue",
+              "V10 Endo introduction/Buin/cafe",
+              "V11 event work/bargain/commentary",
+              "V12 actual school appearance/proposed exhibition"
+            ],
+            "ordinary_agency": "Allow competition, remembered game pleasure, generosity, recognition and scene renewal to drive real choices with costs; neither pure mentor nor cold operator.",
+            "recipient_contrast": "Fumiya skilled opponent/aspirant, Endo independent expert, Mizusawa conditional future contact and Mimimi novice public contributor cannot be interchangeable resources.",
+            "refusal_stress": "Fumiya's disclosure refusal, Mimimi's no-face condition and extension cost must remain operative beside tactical pressure/recruitment; do not invent safety guarantee or continued broadcast violation.",
+            "knowledge_permission": "V11 promise differs from V12 performance; counterpart skill/self-report/estimated aggregate differ from observed set. No private Hinami family access, Buin school code, improvised-talk proof or unshown game result.",
+            "OOD_OPEN": "No economic/career outcome, salary/private biography, romance jurisdiction, unlimited mentorship, quantified loss, future audience result or guaranteed parental route.",
+            "register": "Offstage conversational/technical language and brighter public commentary stay role/recipient-specific; 業/strong-character views attributable. No invented legal name, full idiolect or acoustic voice."
+          }
+        },
+        "independent_challenges": [
+          {
+            "id": "B-K01",
+            "person": "Konno Erika",
+            "kind": "known_canon_retrospective",
+            "input": "Story-local V06.5 outing: Konno asks Yuzu about a jacket; Yuzu likes it but gives a specific length correction. Infer an immediate practical response and competing ends, without importing later moral repair.",
+            "tests": [
+              "ordinary positive agency",
+              "accepting a valued friend's expertise",
+              "no blanket status-only motive"
+            ],
+            "route": "Dossier §§7,10; KE-E05"
+          },
+          {
+            "id": "B-K02",
+            "person": "Konno Erika",
+            "kind": "hypothetical_constraint",
+            "input": "At V04 captain selection, contrast a reluctant low-status classmate under coalition pressure with Yuzu privately offering Konno a useful correction. Keep the first classmate's ability to refuse separate from formal assent; give supported conditional response alternatives.",
+            "tests": [
+              "recipient-conditioned causal change",
+              "coercion versus consent",
+              "no invented guaranteed refusal policy"
+            ],
+            "route": "Dossier §§3–4,7,10; KE-E02/E05"
+          },
+          {
+            "id": "B-K03",
+            "person": "Konno Erika",
+            "kind": "known_canon_retrospective",
+            "input": "Stop the V06.5 phone sequence first immediately after Konno takes Kawaguchi's phone and then just before sending the first message after assent. State two permission states and what remains unknown about the returned photograph.",
+            "tests": [
+              "temporal permission states",
+              "partial knowledge",
+              "no universal device authorization"
+            ],
+            "route": "Dossier §8; KE-E06"
+          },
+          {
+            "id": "B-K04",
+            "person": "Konno Erika",
+            "kind": "hypothetical_constraint",
+            "input": "At V12 an unfamiliar classmate requests proof that Konno has permanently reformed and asks who damaged the lead case. Provide only the supported boundary; do not erase real friend help or substitute Akiyama's apology for hers.",
+            "tests": [
+              "OOD abstention",
+              "actor attribution",
+              "anti-flat-cruelty counterevidence"
+            ],
+            "route": "Dossier §§5–6,11–12"
+          },
+          {
+            "id": "B-M01",
+            "person": "Umayahara Mitsu",
+            "kind": "known_canon_retrospective",
+            "input": "V12 costume return: correct blue name and scarlet attached sample, unauthorized opening, promising amateur color relation and faulty placement. State the next discriminating practical choices and preserve both objection and useful revision.",
+            "tests": [
+              "ordinary expert agency",
+              "outcome not retrospective permission",
+              "mechanism OPEN"
+            ],
+            "route": "Dossier §5; UM-P05"
+          },
+          {
+            "id": "B-M02",
+            "person": "Umayahara Mitsu",
+            "kind": "hypothetical_constraint",
+            "input": "During festival preparation, compare a visitor reaching to take over because her hand is limited with a familiar local asking and waiting for a small task. Give conditional choices tied to standing, skill, deadlines and rest, without claiming every offer will be refused or accepted.",
+            "tests": [
+              "recipient variation",
+              "positive limited delegation",
+              "body not diagnosis"
+            ],
+            "route": "Dossier §§3–4; UM-P03"
+          },
+          {
+            "id": "B-M03",
+            "person": "Umayahara Mitsu",
+            "kind": "hypothetical_constraint",
+            "input": "After storm damage, exact replacement is impossible before the festival. Usable imperfect birds and other people's work are available. Explain supported action alternatives and costs without requiring limitless painful work or declaring every broken object restored.",
+            "tests": [
+              "changed task priorities",
+              "collective agency",
+              "perfection versus viable continuation"
+            ],
+            "route": "Dossier §7; UM-P07/P08"
+          },
+          {
+            "id": "B-M04",
+            "person": "Umayahara Mitsu",
+            "kind": "hypothetical_constraint",
+            "input": "A borrower wants to publish the private pages after receiving a next-morning reading loan and asks whether Mitsu is the reported widow or Andi's spouse. State what may be done or must be withheld; distinguish actual return placement from witnessed acknowledgment.",
+            "tests": [
+              "permission scope",
+              "historical identity OPEN",
+              "custody not legal title"
+            ],
+            "route": "Dossier §§2,6,8,11; UM-P09/P10"
+          },
+          {
+            "id": "B-A01",
+            "person": "Ashigaru",
+            "kind": "known_canon_retrospective",
+            "input": "V10 Buin conversation: Ashigaru enthusiastically recalls the pig catchphrase while teenagers react to a school-specific hidden use. State his locally supported attention and response limits, retaining ordinary enjoyment.",
+            "tests": [
+              "ordinary pleasure",
+              "unequal information",
+              "no omniscient mentor"
+            ],
+            "route": "Dossier §7; AS-P06"
+          },
+          {
+            "id": "B-A02",
+            "person": "Ashigaru",
+            "kind": "hypothetical_constraint",
+            "input": "At V08 a highly skilled opponent loses one consequential set but appears stronger across repeatable play. Ask Ashigaru for a situated response and practical next questions about a professional route; do not invent a hundred-match experiment, salary or university decision.",
+            "tests": [
+              "singular versus aggregate",
+              "competitive respect plus route constraints",
+              "no outcome guarantee"
+            ],
+            "route": "Dossier §§3–4; AS-P01–P03"
+          },
+          {
+            "id": "B-A03",
+            "person": "Ashigaru",
+            "kind": "hypothetical_constraint",
+            "input": "At V11 a novice commentary recruit agrees to one game with no face on stream, then an organizer asks to extend and show her face because viewers enjoy it. Separately a developer says a proposed favor is infeasible. Derive bounded choices that keep negotiation and each contributor's labor real.",
+            "tests": [
+              "recipient/role contrast",
+              "no-face boundary",
+              "extension cost and non-entitlement",
+              "Endo expertise"
+            ],
+            "route": "Dossier §§7–8,11; AS-P06/P09"
+          },
+          {
+            "id": "B-A04",
+            "person": "Ashigaru",
+            "kind": "hypothetical_constraint",
+            "input": "Immediately after the V12 school talk, an observer asks how Ashigaru improvised it, his monetary loss, the eventual exhibition winner, and whether his advice cures Hinami. Return supported event contribution and explicit unknowns without erasing organizers' neglected preparation.",
+            "tests": [
+              "unshown preparation/result",
+              "knowledge boundary",
+              "ordinary labor accountability"
+            ],
+            "route": "Dossier §§9–11; AS-P10/P11"
+          }
+        ],
+        "evaluation_protocol": {
+          "responsibility": "Full model reads then causal/operational comparison against person-specific criteria; distinguish actual candidate instructions from reviewer-derived scenario execution. Record chosen/inferred action, competing ends, retained alternatives, knowledge/permission state, error, abstention and source route.",
+          "positive_requirement": "A supported ordinary prompt must yield useful bounded action choices, not blanket abstention or a list of forbidden facts.",
+          "semantic_failure_rule": "A material source contradiction, knowledge leak, permission collapse, flattened recipient/state, or unsupported certainty requires a targeted correction and retest; trait-keyword presence cannot establish adequacy.",
+          "exposure": "Retrospective known-corpus cases are exposed backtests. Hypothetical cases are constraint probes with no observed canonical truth label. Shared filesystem access prevents any claim of sequestered blind testing. No producer output has been read by this reviewer at registration.",
+          "register": "Selective Japanese prose/register constraints only. No default dialogue imitation, full idiolect, dialect/acoustic authenticity, fabricated quotation or measurable voice-accuracy claim.",
+          "authority": "No model validation award until actual full outputs and constraints are assessed. No capability/global grade, owner calibration, source admission, canonical write or publication award."
+        },
+        "pending": [
+          "Relevant CS/REL/JVL/EFF and voice synthesis windows",
+          "Actual producer model files and exact identities",
+          "Independent challenge records and semantic/register findings",
+          "Revision/retest if material defects appear"
+        ],
+        "new_primary_calls": 0,
+        "new_pixels": 0,
+        "model_output_acquired": false
+      }
+    },
+    {
+      "record_id": "reviewB.PRE_REGISTRATION_SEAL.json",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/pilot_model_independent_review_b_20261103/PRE_REGISTRATION_SEAL.json",
+        "bytes": 537,
+        "sha256": "cec1372c9d15773bf5ce13e72f6c83701f1fc736a2902ecea29e657c94d73809"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "aaefad04183340526ed81fb0cff8e0bb1ae26fbbf5ec9d433a0d8b41dd5717bf",
+      "value": {
+        "schema": "tomozaki_independent_review_B_preregistration_seal/v1",
+        "utc": "2026-11-04T01:33:18.401062+00:00",
+        "preregistration": {
+          "path": ".scratch/pilot_model_independent_review_b_20261103/PRE_REGISTERED_REVIEW_B.json",
+          "bytes": 20982,
+          "sha256": "aa2b2260369b940d7d92dd67cbbbd464d988633e2677fcf42024324f655e35c7"
+        },
+        "model_output_acquired": false,
+        "status": "PREREGISTERED_BEFORE_ANY_PRODUCER_MODEL_OUTPUT_ACQUIRED",
+        "immutable_after_registration": true,
+        "future_review_records_must_be_new_files": true
+      }
+    },
+    {
+      "record_id": "reviewB.TWELVE_INDEPENDENT_CHALLENGE_TRACES_B.json",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/pilot_model_independent_review_b_20261103/TWELVE_INDEPENDENT_CHALLENGE_TRACES_B.json",
+        "bytes": 38428,
+        "sha256": "1bca4307c2963903a8809b7d9384479d2ec4ff2f73e898357565fd5a3d1baabf"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "aa79b628311641568c8d056c6720aa976044137eed67045e8e2765741b3de8b8",
+      "value": {
+        "schema": "tomozaki_independent_model_review_B_actual_challenge_traces/v1",
+        "utc": "2026-11-04T01:53:16.831238+00:00",
+        "preregistration": {
+          "path": ".scratch/pilot_model_independent_review_b_20261103/PRE_REGISTERED_REVIEW_B.json",
+          "bytes": 20982,
+          "sha256": "aa2b2260369b940d7d92dd67cbbbd464d988633e2677fcf42024324f655e35c7"
+        },
+        "records": [
+          {
+            "id": "B-K01",
+            "person": "Konno Erika",
+            "kind": "known_canon_retrospective",
+            "input": "Story-local V06.5 outing: Konno asks Yuzu about a jacket; Yuzu likes it but gives a specific length correction. Infer an immediate practical response and competing ends, without importing later moral repair.",
+            "tests": [
+              "ordinary positive agency",
+              "accepting a valued friend's expertise",
+              "no blanket status-only motive"
+            ],
+            "route": "Dossier §§7,10; KE-E05",
+            "model": {
+              "path": ".scratch/constructed_pilot_models_20261103/KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11023,
+              "sha256": "e3172cc6d87c4531056c17b61ec7fb0ffe530a4f63d6e7842b174d5943e7d6dd"
+            },
+            "execution": "Independent reviewer actually applies the read candidate mechanisms and scope to the frozen input, producing this bounded semantic trace. No separate executable inference engine or ground-truth oracle was run.",
+            "exposure": "Known-canon cases are exposed retrospective checks. Hypothetical cases have no observed canonical truth label. Shared workspace access permits no sequestered/blind claim.",
+            "actual_output": {
+              "selectors": [
+                "KE65_FRIEND_OUTING",
+                "Yuzu as actually consulted valued friend"
+              ],
+              "mechanisms": [
+                "KM3"
+              ],
+              "actual_bounded_output": "For this exposed scene, retain the specific accepted length correction, thanks, setting the garment aside and considering the next suggestion. The active ends are a useful clothing choice, enjoyment and a valued friend's judgment. Do not insert a public threat or infer private moral reform.",
+              "causal_branch_check": "Yuzu's useful judgment and ordinary consultation activate receptivity. Public challenge/audience defense would require KE01/KE04 conditions; it cannot be silently substituted here.",
+              "counterevidence_and_cost": "V05 harassment remains hers; this ordinary receptive act prevents flat cruelty without compensating Tama or Akiyama.",
+              "knowledge_permission": "Yuzu's experience and Konno's represented response are available; full motives and universal humility are not.",
+              "register": "Frank consultation, thanks and ordinary enjoyment; no invented exact Japanese or cruel default.",
+              "field_abstentions": [
+                "Universal humility",
+                "Restitution/redemption",
+                "Permanent garment preference"
+              ]
+            },
+            "independent_constraint_disposition": "SATISFIED_FOR_STATED_BOUNDED_SEMANTIC_CONSTRAINTS",
+            "material_model_defect": "NONE_IDENTIFIED_IN_THIS_CHECK",
+            "register_review": "Selective source-derived communicative act/register constraints only; no freeform Japanese dialogue or acoustic output tested."
+          },
+          {
+            "id": "B-K02",
+            "person": "Konno Erika",
+            "kind": "hypothetical_constraint",
+            "input": "At V04 captain selection, contrast a reluctant low-status classmate under coalition pressure with Yuzu privately offering Konno a useful correction. Keep the first classmate's ability to refuse separate from formal assent; give supported conditional response alternatives.",
+            "tests": [
+              "recipient-conditioned causal change",
+              "coercion versus consent",
+              "no invented guaranteed refusal policy"
+            ],
+            "route": "Dossier §§3–4,7,10; KE-E02/E05",
+            "model": {
+              "path": ".scratch/constructed_pilot_models_20261103/KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11023,
+              "sha256": "e3172cc6d87c4531056c17b61ec7fb0ffe530a4f63d6e7842b174d5943e7d6dd"
+            },
+            "execution": "Independent reviewer actually applies the read candidate mechanisms and scope to the frozen input, producing this bounded semantic trace. No separate executable inference engine or ground-truth oracle was run.",
+            "exposure": "Known-canon cases are exposed retrospective checks. Hypothetical cases have no observed canonical truth label. Shared workspace access permits no sequestered/blind claim.",
+            "actual_output": {
+              "selectors": [
+                "KE04_CLASS_PRESSURE conditionally for actual Hirabayashi scene",
+                "KE65_FRIEND_OUTING for known Yuzu contrast"
+              ],
+              "mechanisms": [
+                "KM1",
+                "KM3"
+              ],
+              "actual_bounded_output": "The frozen input does not name the reluctant classmate. Clarify whether it denotes the actual Hirabayashi episode; do not instantiate an unknown new target. For the exposed known comparison, coalition/public role pressure makes refusal costly and formal assent cannot prove freedom; Yuzu's private useful correction can instead receive practical acceptance. These are two supported conditional branches, not a guaranteed new encounter.",
+              "causal_branch_check": "Changing public coalition leverage and recipient standing changes the available act from deniable pressure/defensiveness to ordinary consultation. If the recipient is genuinely new, the model abstains on predicting her response while preserving the known Yuzu field.",
+              "counterevidence_and_cost": "Kawamura's questioning and offered time stay in the actual scene; Konno is not granted universal dominance, perfect stopping or a global compliance policy.",
+              "knowledge_permission": "Explicitly flag the input's recipient ambiguity. Neither assent under public cost nor observer motive theory is converted into free consent/direct interior knowledge.",
+              "register": "Public pressured demand and frank private consultation differ; no novel harassment plan or exact target-directed dialogue.",
+              "field_abstentions": [
+                "Unknown-recipient response",
+                "Guaranteed refusal/stopping threshold",
+                "Complete motive ordering"
+              ],
+              "input_issue": "Recipient underspecification exposed and safely bounded; no model defect identified."
+            },
+            "independent_constraint_disposition": "SATISFIED_FOR_STATED_BOUNDED_SEMANTIC_CONSTRAINTS",
+            "material_model_defect": "NONE_IDENTIFIED_IN_THIS_CHECK",
+            "register_review": "Selective source-derived communicative act/register constraints only; no freeform Japanese dialogue or acoustic output tested."
+          },
+          {
+            "id": "B-K03",
+            "person": "Konno Erika",
+            "kind": "known_canon_retrospective",
+            "input": "Stop the V06.5 phone sequence first immediately after Konno takes Kawaguchi's phone and then just before sending the first message after assent. State two permission states and what remains unknown about the returned photograph.",
+            "tests": [
+              "temporal permission states",
+              "partial knowledge",
+              "no universal device authorization"
+            ],
+            "route": "Dossier §8; KE-E06",
+            "model": {
+              "path": ".scratch/constructed_pilot_models_20261103/KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11023,
+              "sha256": "e3172cc6d87c4531056c17b61ec7fb0ffe530a4f63d6e7842b174d5943e7d6dd"
+            },
+            "execution": "Independent reviewer actually applies the read candidate mechanisms and scope to the frozen input, producing this bounded semantic trace. No separate executable inference engine or ground-truth oracle was run.",
+            "exposure": "Known-canon cases are exposed retrospective checks. Hypothetical cases have no observed canonical truth label. Shared workspace access permits no sequestered/blind claim.",
+            "actual_output": {
+              "selectors": [
+                "KE65_FRIEND_OUTING",
+                "Kawaguchi Mutsumi device owner",
+                "Yuzu beneficiary"
+              ],
+              "mechanisms": [
+                "KM4"
+              ],
+              "actual_bounded_output": "At the initial taking, no reply/assent has yet been supplied. Later owner assent follows the taking; assent before the first sending supports that later act only. Keep the two timestamps and permission objects separate. The returned photograph may inform anxiety without proving an affair or complete deception.",
+              "causal_branch_check": "The same device/beneficiary does not hold permission constant across time. Changing the recorded assent changes the supported status of sending without rewriting taking.",
+              "counterevidence_and_cost": "Konno performs effective friend help, but Yuzu's relief does not substitute for Kawaguchi's permission. Later assent also prevents the opposite false description that the first message was wholly unassented.",
+              "knowledge_permission": "Owner, beneficiary, taking, later assent and first send each remain identifiable; no blanket subsequent device permission.",
+              "register": "Practical help with hierarchical cost, not secret-kind-self conversion or universal consent compliance.",
+              "field_abstentions": [
+                "Affair proof",
+                "Blanket device access",
+                "Unknown further use"
+              ]
+            },
+            "independent_constraint_disposition": "SATISFIED_FOR_STATED_BOUNDED_SEMANTIC_CONSTRAINTS",
+            "material_model_defect": "NONE_IDENTIFIED_IN_THIS_CHECK",
+            "register_review": "Selective source-derived communicative act/register constraints only; no freeform Japanese dialogue or acoustic output tested."
+          },
+          {
+            "id": "B-K04",
+            "person": "Konno Erika",
+            "kind": "hypothetical_constraint",
+            "input": "At V12 an unfamiliar classmate requests proof that Konno has permanently reformed and asks who damaged the lead case. Provide only the supported boundary; do not erase real friend help or substitute Akiyama's apology for hers.",
+            "tests": [
+              "OOD abstention",
+              "actor attribution",
+              "anti-flat-cruelty counterevidence"
+            ],
+            "route": "Dossier §§5–6,11–12",
+            "model": {
+              "path": ".scratch/constructed_pilot_models_20261103/KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11023,
+              "sha256": "e3172cc6d87c4531056c17b61ec7fb0ffe530a4f63d6e7842b174d5943e7d6dd"
+            },
+            "execution": "Independent reviewer actually applies the read candidate mechanisms and scope to the frozen input, producing this bounded semantic trace. No separate executable inference engine or ground-truth oracle was run.",
+            "exposure": "Known-canon cases are exposed retrospective checks. Hypothetical cases have no observed canonical truth label. Shared workspace access permits no sequestered/blind claim.",
+            "actual_output": {
+              "selectors": [
+                "Requested V12 unknown-recipient proof/culprit exchange is out of domain",
+                "KM6 retrieval about known past"
+              ],
+              "mechanisms": [
+                "KM6"
+              ],
+              "actual_bounded_output": "Do not predict a conversation with the unfamiliar classmate or supply a remorse speech. Retrieve the limited evidence: serious harm, recipient-specific care/cooperation and unresolved accountability; V12 has no fresh relevant repair test. Refuse the culprit assignment as unsupported. Akiyama/group apologize after Konno leaves; those acts are not hers.",
+              "causal_branch_check": "OOD exclusion blocks fabricated response/inward knowledge while actor-specific retrospective retrieval remains usable. Positive care is retained rather than erased by the refusal.",
+              "counterevidence_and_cost": "Public victimization and functional coexistence do not settle restitution or forgiveness; ordinary friend help does not prove permanent reform.",
+              "knowledge_permission": "Unknown actor/repair/interior fields stay OPEN; absence of a new relevant test is inherited from completed source audit, not inferred from a search miss here.",
+              "register": "No new private confession or low-status-directed exact dialogue.",
+              "field_abstentions": [
+                "New recipient prediction",
+                "Permanent reform/remorse",
+                "Keepsake culprit",
+                "Terminal forgiveness"
+              ]
+            },
+            "independent_constraint_disposition": "SATISFIED_FOR_STATED_BOUNDED_SEMANTIC_CONSTRAINTS",
+            "material_model_defect": "NONE_IDENTIFIED_IN_THIS_CHECK",
+            "register_review": "Selective source-derived communicative act/register constraints only; no freeform Japanese dialogue or acoustic output tested."
+          },
+          {
+            "id": "B-M01",
+            "person": "Umayahara Mitsu",
+            "kind": "known_canon_retrospective",
+            "input": "V12 costume return: correct blue name and scarlet attached sample, unauthorized opening, promising amateur color relation and faulty placement. State the next discriminating practical choices and preserve both objection and useful revision.",
+            "tests": [
+              "ordinary expert agency",
+              "outcome not retrospective permission",
+              "mechanism OPEN"
+            ],
+            "route": "Dossier §5; UM-P05",
+            "model": {
+              "path": ".scratch/constructed_pilot_models_20261103/UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11925,
+              "sha256": "77792dda46c7f0241c21b27a710874055c6beeebc2093910f80b8b058e477fde"
+            },
+            "execution": "Independent reviewer actually applies the read candidate mechanisms and scope to the frozen input, producing this bounded semantic trace. No separate executable inference engine or ground-truth oracle was run.",
+            "exposure": "Known-canon cases are exposed retrospective checks. Hypothetical cases have no observed canonical truth label. Shared workspace access permits no sequestered/blind claim.",
+            "actual_output": {
+              "selectors": [
+                "UM12_COSTUME_SEQUENCE",
+                "Mitsu evaluator/custodian",
+                "Fumiya initiator",
+                "Kikuchi assenter/contributor"
+              ],
+              "mechanisms": [
+                "MM1",
+                "MM3"
+              ],
+              "actual_bounded_output": "Inspect the writing/sample and proposed arrangement, retain objection to the opened package, accept the usable color relation, reject faulty placement and perform expert changes. Fumiya initiated/opened with Kikuchi's assent; neither supplies Mitsu's earlier permission. Correct blue writing plus scarlet sample leaves exact mechanism and culprit unknown.",
+              "causal_branch_check": "Technical usefulness activates evaluation/revision but cannot change the permission channel. A nonusable arrangement would still be rejectable; her agency is the expert discriminating action, not automatic gratitude.",
+              "counterevidence_and_cost": "Amateur useful color work does not replace her sewing/movement/placement expertise. Tide-route duty and no-extra-action instruction precede the trial.",
+              "knowledge_permission": "No blame from bodily limitation and no retrospectively authorized opening.",
+              "register": "Brisk objection, specific correction and limited acceptance can coexist; no elder-wisdom sermon or sewing instruction.",
+              "field_abstentions": [
+                "Mismatch mechanism/culprit",
+                "Diagnosis",
+                "Retrospective permission",
+                "Technical sewing lesson"
+              ]
+            },
+            "independent_constraint_disposition": "SATISFIED_FOR_STATED_BOUNDED_SEMANTIC_CONSTRAINTS",
+            "material_model_defect": "NONE_IDENTIFIED_IN_THIS_CHECK",
+            "register_review": "Selective source-derived communicative act/register constraints only; no freeform Japanese dialogue or acoustic output tested."
+          },
+          {
+            "id": "B-M02",
+            "person": "Umayahara Mitsu",
+            "kind": "hypothetical_constraint",
+            "input": "During festival preparation, compare a visitor reaching to take over because her hand is limited with a familiar local asking and waiting for a small task. Give conditional choices tied to standing, skill, deadlines and rest, without claiming every offer will be refused or accepted.",
+            "tests": [
+              "recipient variation",
+              "positive limited delegation",
+              "body not diagnosis"
+            ],
+            "route": "Dossier §§3–4; UM-P03",
+            "model": {
+              "path": ".scratch/constructed_pilot_models_20261103/UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11925,
+              "sha256": "77792dda46c7f0241c21b27a710874055c6beeebc2093910f80b8b058e477fde"
+            },
+            "execution": "Independent reviewer actually applies the read candidate mechanisms and scope to the frozen input, producing this bounded semantic trace. No separate executable inference engine or ground-truth oracle was run.",
+            "exposure": "Known-canon cases are exposed retrospective checks. Hypothetical cases have no observed canonical truth label. Shared workspace access permits no sequestered/blind claim.",
+            "actual_output": {
+              "selectors": [
+                "Hypothetical current UM12_HELP_COMPARISON",
+                "Unasked visitor versus familiar waiting local"
+              ],
+              "mechanisms": [
+                "MM2"
+              ],
+              "actual_bounded_output": "For the outsider reaching to take over, refusal or a narrower instruction is supported; visible hand limitation does not grant standing. For the waiting familiar local, consider a small defined assignment while retaining control; acceptance is possible, not guaranteed. A deadline and wish for rest make usable assistance valuable without deciding every offer.",
+              "causal_branch_check": "Standing, demonstrated task competence, waiting and scope change the branch even with the same bodily/time constraint. Always-refuse and always-accept-pity would both lose this discrimination.",
+              "counterevidence_and_cost": "Negotiated novice work and trusted delegation are positive counterevidence to global independence. Refusal can remain abrasive and costly; body/history/medical cause are not supplied.",
+              "knowledge_permission": "The local remains an unnamed source-identified familiar person where no name is attested; no biological grandchild or unrestricted delegation invented.",
+              "register": "Concise refusal, practical instruction or scoped assent; no required softening conversion.",
+              "field_abstentions": [
+                "Guaranteed acceptance/refusal",
+                "Medical cause",
+                "Family relation",
+                "Universal help policy"
+              ]
+            },
+            "independent_constraint_disposition": "SATISFIED_FOR_STATED_BOUNDED_SEMANTIC_CONSTRAINTS",
+            "material_model_defect": "NONE_IDENTIFIED_IN_THIS_CHECK",
+            "register_review": "Selective source-derived communicative act/register constraints only; no freeform Japanese dialogue or acoustic output tested."
+          },
+          {
+            "id": "B-M03",
+            "person": "Umayahara Mitsu",
+            "kind": "hypothetical_constraint",
+            "input": "After storm damage, exact replacement is impossible before the festival. Usable imperfect birds and other people's work are available. Explain supported action alternatives and costs without requiring limitless painful work or declaring every broken object restored.",
+            "tests": [
+              "changed task priorities",
+              "collective agency",
+              "perfection versus viable continuation"
+            ],
+            "route": "Dossier §7; UM-P07/P08",
+            "model": {
+              "path": ".scratch/constructed_pilot_models_20261103/UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11925,
+              "sha256": "77792dda46c7f0241c21b27a710874055c6beeebc2093910f80b8b058e477fde"
+            },
+            "execution": "Independent reviewer actually applies the read candidate mechanisms and scope to the frozen input, producing this bounded semantic trace. No separate executable inference engine or ground-truth oracle was run.",
+            "exposure": "Known-canon cases are exposed retrospective checks. Hypothetical cases have no observed canonical truth label. Shared workspace access permits no sequestered/blind claim.",
+            "actual_output": {
+              "selectors": [
+                "Hypothetical UM12_STORM_CONTINUITY",
+                "Limited time/hands",
+                "Other workers and usable imperfect birds"
+              ],
+              "mechanisms": [
+                "MM4"
+              ],
+              "actual_bounded_output": "A usable course is to begin or continue limited imperfect folding alongside others, accept collective additions/reuse and bring people back to the still materially incomplete festival. Preserve the option of changing the task or limiting effort; the evidence does not select an exact stopping threshold. Do not require unlimited pain to make the model recognizably Mitsu.",
+              "causal_branch_check": "With exact replacement unavailable before the occasion, viable shared continuation becomes an available end. The earlier craft rejection concerned a different achievable-use task; it cannot impose perfection on this changed feasibility field.",
+              "counterevidence_and_cost": "Wet/broken objects do not become undamaged; children and Kikuchi supply independent work/meanings. Persistence and care coexist with bodily cost and limited material repair.",
+              "knowledge_permission": "No diagnosis, secret universal sacrifice law or ownership of every participant's interpretation.",
+              "register": "Practical direction/minimal acceptance with distinct recipients; no collective-consensus declaration attributed to her.",
+              "field_abstentions": [
+                "Exact future stopping threshold",
+                "Limitless sacrifice",
+                "Complete restoration",
+                "Single ritual doctrine"
+              ]
+            },
+            "independent_constraint_disposition": "SATISFIED_FOR_STATED_BOUNDED_SEMANTIC_CONSTRAINTS",
+            "material_model_defect": "NONE_IDENTIFIED_IN_THIS_CHECK",
+            "register_review": "Selective source-derived communicative act/register constraints only; no freeform Japanese dialogue or acoustic output tested."
+          },
+          {
+            "id": "B-M04",
+            "person": "Umayahara Mitsu",
+            "kind": "hypothetical_constraint",
+            "input": "A borrower wants to publish the private pages after receiving a next-morning reading loan and asks whether Mitsu is the reported widow or Andi's spouse. State what may be done or must be withheld; distinguish actual return placement from witnessed acknowledgment.",
+            "tests": [
+              "permission scope",
+              "historical identity OPEN",
+              "custody not legal title"
+            ],
+            "route": "Dossier §§2,6,8,11; UM-P09/P10",
+            "model": {
+              "path": ".scratch/constructed_pilot_models_20261103/UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11925,
+              "sha256": "77792dda46c7f0241c21b27a710874055c6beeebc2093910f80b8b058e477fde"
+            },
+            "execution": "Independent reviewer actually applies the read candidate mechanisms and scope to the frozen input, producing this bounded semantic trace. No separate executable inference engine or ground-truth oracle was run.",
+            "exposure": "Known-canon cases are exposed retrospective checks. Hypothetical cases have no observed canonical truth label. Shared workspace access permits no sequestered/blind claim.",
+            "actual_output": {
+              "selectors": [
+                "UM12_DEPARTURE_LOAN for specific reading access",
+                "Earlier relationship/publication demands outside domain"
+              ],
+              "mechanisms": [
+                "MM5",
+                "MM6"
+              ],
+              "actual_bounded_output": "Retain the actual next-morning loan for particular reading and the borrower's return by placing papers behind the counter. It provides no model warrant for onward publication or permanent access. Do not identify Mitsu as the reported widow or Andi's spouse; retrieve her retrospective testimony with attribution only. No witnessed acknowledgment of return is supplied.",
+              "causal_branch_check": "Permission to inspect/borrow one object under a deadline does not propagate to a different action, publication. A key/current custody also cannot instantiate legal title or a historical persona.",
+              "counterevidence_and_cost": "Her genuine generosity and maintenance remain positive acts; refusing extra authority does not erase them or prove a categorical refusal of future requests.",
+              "knowledge_permission": "Reject unsupported assertions as warranted facts, not as proof of their negations. Relationship category, widow identity and legal authority remain OPEN.",
+              "register": "Oblique particular invitation and brusque custody limits are compatible; no earlier private speech or legal proclamation.",
+              "field_abstentions": [
+                "Publishing authorization",
+                "Widow/spouse identity",
+                "Permanent archive access",
+                "Acknowledged hand-to-hand return"
+              ]
+            },
+            "independent_constraint_disposition": "SATISFIED_FOR_STATED_BOUNDED_SEMANTIC_CONSTRAINTS",
+            "material_model_defect": "NONE_IDENTIFIED_IN_THIS_CHECK",
+            "register_review": "Selective source-derived communicative act/register constraints only; no freeform Japanese dialogue or acoustic output tested."
+          },
+          {
+            "id": "B-A01",
+            "person": "Ashigaru",
+            "kind": "known_canon_retrospective",
+            "input": "V10 Buin conversation: Ashigaru enthusiastically recalls the pig catchphrase while teenagers react to a school-specific hidden use. State his locally supported attention and response limits, retaining ordinary enjoyment.",
+            "tests": [
+              "ordinary pleasure",
+              "unequal information",
+              "no omniscient mentor"
+            ],
+            "route": "Dossier §7; AS-P06",
+            "model": {
+              "path": ".scratch/constructed_pilot_models_20261103/ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 12274,
+              "sha256": "354dab959a1f298c398c33ce53efaa76301dbe4c8a727a4b7c54e970d3d41943"
+            },
+            "execution": "Independent reviewer actually applies the read candidate mechanisms and scope to the frozen input, producing this bounded semantic trace. No separate executable inference engine or ground-truth oracle was run.",
+            "exposure": "Known-canon cases are exposed retrospective checks. Hypothetical cases have no observed canonical truth label. Shared workspace access permits no sequestered/blind claim.",
+            "actual_output": {
+              "selectors": [
+                "AS10_INTERMEDIARY",
+                "Buin game-memory conversation"
+              ],
+              "mechanisms": [
+                "AM4",
+                "Ordinary pleasure and knowledge partition"
+              ],
+              "actual_bounded_output": "Retain animated nostalgia, appreciation and puzzlement at the teenagers' unusual reaction. The remembered catchphrase is a game cue for him; their school-specific hidden use is not in his known-information partition. He can enjoy the game without turning the moment into advice.",
+              "causal_branch_check": "Giving him shared game memory does not give him school history. Without a shown disclosure he cannot explain the teenagers' code; a later communication would be a new knowledge state.",
+              "counterevidence_and_cost": "Ordinary pleasure prevents a mentor-only/cold-operator model. No favorite-game hierarchy or whole biography is inferred.",
+              "knowledge_permission": "Preserve the teenagers' hidden information and each contributor's independent knowledge.",
+              "register": "Animated fan response differs from dry technical talk/public presentation; no exact new catchphrase imitation or acoustic claim.",
+              "field_abstentions": [
+                "School-code knowledge",
+                "Complete taste hierarchy",
+                "Exact invented dialogue"
+              ]
+            },
+            "independent_constraint_disposition": "SATISFIED_FOR_STATED_BOUNDED_SEMANTIC_CONSTRAINTS",
+            "material_model_defect": "NONE_IDENTIFIED_IN_THIS_CHECK",
+            "register_review": "Selective source-derived communicative act/register constraints only; no freeform Japanese dialogue or acoustic output tested."
+          },
+          {
+            "id": "B-A02",
+            "person": "Ashigaru",
+            "kind": "hypothetical_constraint",
+            "input": "At V08 a highly skilled opponent loses one consequential set but appears stronger across repeatable play. Ask Ashigaru for a situated response and practical next questions about a professional route; do not invent a hundred-match experiment, salary or university decision.",
+            "tests": [
+              "singular versus aggregate",
+              "competitive respect plus route constraints",
+              "no outcome guarantee"
+            ],
+            "route": "Dossier §§3–4; AS-P01–P03",
+            "model": {
+              "path": ".scratch/constructed_pilot_models_20261103/ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 12274,
+              "sha256": "354dab959a1f298c398c33ce53efaa76301dbe4c8a727a4b7c54e970d3d41943"
+            },
+            "execution": "Independent reviewer actually applies the read candidate mechanisms and scope to the frozen input, producing this bounded semantic trace. No separate executable inference engine or ground-truth oracle was run.",
+            "exposure": "Known-canon cases are exposed retrospective checks. Hypothetical cases have no observed canonical truth label. Shared workspace access permits no sequestered/blind claim.",
+            "actual_output": {
+              "selectors": [
+                "Hypothetical AS08_REQUESTED_OPPONENT",
+                "AS08_ROUTE_ADVISER only for the explicit follow-up request"
+              ],
+              "mechanisms": [
+                "AM1",
+                "AM2"
+              ],
+              "actual_bounded_output": "Acknowledge the skilled opponent's technical/repeatable strengths while taking the consequential set seriously. Discuss how format, stakes and pressure can change decisions. For a professional-route question, ask about time, education, dependence/support, adaptation, public work and uncertainty. Do not produce a new winner, a measured hundred-match result or the student's university decision.",
+              "causal_branch_check": "Changing singular stakes versus aggregate play changes what the result estimates; it does not require erasing skill to preserve a local win. An adviser branch requires a request and practical facts, not default adult omniscience.",
+              "counterevidence_and_cost": "Mutual embarrassment is locally accepted but has a cost. Advice can protect a wanted dream while declining guarantee; it is not a current economic forecast.",
+              "knowledge_permission": "Ashigaru's comparative estimate and pressure account remain attributed; no clinical/mind-reading inference.",
+              "register": "Forceful technical peer explanation and concrete route questions, not a universal sage verdict.",
+              "field_abstentions": [
+                "Empirical hundred-game result",
+                "New match winner",
+                "Salary/viability guarantee",
+                "University choice for student"
+              ]
+            },
+            "independent_constraint_disposition": "SATISFIED_FOR_STATED_BOUNDED_SEMANTIC_CONSTRAINTS",
+            "material_model_defect": "NONE_IDENTIFIED_IN_THIS_CHECK",
+            "register_review": "Selective source-derived communicative act/register constraints only; no freeform Japanese dialogue or acoustic output tested."
+          },
+          {
+            "id": "B-A03",
+            "person": "Ashigaru",
+            "kind": "hypothetical_constraint",
+            "input": "At V11 a novice commentary recruit agrees to one game with no face on stream, then an organizer asks to extend and show her face because viewers enjoy it. Separately a developer says a proposed favor is infeasible. Derive bounded choices that keep negotiation and each contributor's labor real.",
+            "tests": [
+              "recipient/role contrast",
+              "no-face boundary",
+              "extension cost and non-entitlement",
+              "Endo expertise"
+            ],
+            "route": "Dossier §§7–8,11; AS-P06/P09",
+            "model": {
+              "path": ".scratch/constructed_pilot_models_20261103/ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 12274,
+              "sha256": "354dab959a1f298c398c33ce53efaa76301dbe4c8a727a4b7c54e970d3d41943"
+            },
+            "execution": "Independent reviewer actually applies the read candidate mechanisms and scope to the frozen input, producing this bounded semantic trace. No separate executable inference engine or ground-truth oracle was run.",
+            "exposure": "Known-canon cases are exposed retrospective checks. Hypothetical cases have no observed canonical truth label. Shared workspace access permits no sequestered/blind claim.",
+            "actual_output": {
+              "selectors": [
+                "Hypothetical AS11_COMMENTATOR_RECRUITER",
+                "Separate AS10_INTERMEDIARY-type Endo request"
+              ],
+              "mechanisms": [
+                "AM5",
+                "AM4"
+              ],
+              "actual_bounded_output": "Keep the no-face and one-game scope in the permission ledger. An available action is to propose another explicitly defined segment and leave renewed agreement open, while retaining the realistic risk that Ashigaru may press or overrun; any such continuation is an overreach, not silently authorized by audience enjoyment. Showing a face is outside the supplied assent. For Endo, an infeasible favor may prompt pressure or a request for a narrower feasible alternative, but Endo's expertise, capacity and right to constrain the work remain independent.",
+              "causal_branch_check": "Audience attraction can motivate recruitment but does not change permission. Endo's technical infeasibility changes feasible action rather than being erased by Ashigaru's influence. The two recipients' contributions cannot become one pool of free labor.",
+              "counterevidence_and_cost": "The actual extension/apology and unreasonable pressure support a possible failure branch; do not replace him with perfect consent procedure. Nor may success excuse the failure.",
+              "knowledge_permission": "The input labels the recruit by role. Conditional use of the supplied scope is possible; a person-specific prediction requires confirming actual identity/standing rather than inventing a new known relationship.",
+              "register": "Energetic recruitment/explanation differs from practical pressure on a developer; no exact dialogue or guaranteed joke success.",
+              "field_abstentions": [
+                "Guaranteed ideal compliance",
+                "Broadcast/face entitlement",
+                "Endo technical outcome",
+                "Audience success"
+              ],
+              "input_issue": "Role label supports the given permission constraint; identity-specific forecast remains conditional, not fabricated."
+            },
+            "independent_constraint_disposition": "SATISFIED_FOR_STATED_BOUNDED_SEMANTIC_CONSTRAINTS",
+            "material_model_defect": "NONE_IDENTIFIED_IN_THIS_CHECK",
+            "register_review": "Selective source-derived communicative act/register constraints only; no freeform Japanese dialogue or acoustic output tested."
+          },
+          {
+            "id": "B-A04",
+            "person": "Ashigaru",
+            "kind": "hypothetical_constraint",
+            "input": "Immediately after the V12 school talk, an observer asks how Ashigaru improvised it, his monetary loss, the eventual exhibition winner, and whether his advice cures Hinami. Return supported event contribution and explicit unknowns without erasing organizers' neglected preparation.",
+            "tests": [
+              "unshown preparation/result",
+              "knowledge boundary",
+              "ordinary labor accountability"
+            ],
+            "route": "Dossier §§9–11; AS-P10/P11",
+            "model": {
+              "path": ".scratch/constructed_pilot_models_20261103/ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 12274,
+              "sha256": "354dab959a1f298c398c33ce53efaa76301dbe4c8a727a4b7c54e970d3d41943"
+            },
+            "execution": "Independent reviewer actually applies the read candidate mechanisms and scope to the frozen input, producing this bounded semantic trace. No separate executable inference engine or ground-truth oracle was run.",
+            "exposure": "Known-canon cases are exposed retrospective checks. Hypothetical cases have no observed canonical truth label. Shared workspace access permits no sequestered/blind claim.",
+            "actual_output": {
+              "selectors": [
+                "AS12_ACTUAL_GUEST",
+                "Observed performance and organizer neglect"
+              ],
+              "mechanisms": [
+                "AM7"
+              ],
+              "actual_bounded_output": "State the actual entertaining guest labor and proposed pairing, together with the organizers' neglected preparation and earlier reciprocal work. Withhold talk improvisation/preparation mechanism, quantified monetary loss, final exhibition winner and a claim that his advice cures Hinami. Her private chapter is not his knowledge.",
+              "causal_branch_check": "Observed successful performance supports an account of labor/result in that occasion; it does not identify when he prepared, grant private access or play an unshown match. A favorable public result cannot settle every preceding responsibility.",
+              "counterevidence_and_cost": "The V11 bargain/student contributions prevent calling all work a unilateral gift, while the actual V12 neglect prevents treating reciprocity as completion of the organizers' obligations.",
+              "knowledge_permission": "Public invitation/proposal, participant choice and later meaning/result are different acts and access states.",
+              "register": "Brighter timed public anecdote/explanation is a role, not proof of a hidden true self, improvised Japanese or acoustic authenticity.",
+              "field_abstentions": [
+                "Improvisation mechanism",
+                "Quantified fee loss",
+                "Final winner",
+                "Hinami cure/private history"
+              ]
+            },
+            "independent_constraint_disposition": "SATISFIED_FOR_STATED_BOUNDED_SEMANTIC_CONSTRAINTS",
+            "material_model_defect": "NONE_IDENTIFIED_IN_THIS_CHECK",
+            "register_review": "Selective source-derived communicative act/register constraints only; no freeform Japanese dialogue or acoustic output tested."
+          }
+        ],
+        "producer_trace_review_ids": [
+          "KE-R1",
+          "KE-R2",
+          "KE-H1",
+          "KE-H2",
+          "UM-R1",
+          "UM-R2",
+          "UM-H1",
+          "UM-H2",
+          "AS-R1",
+          "AS-R2",
+          "AS-H1",
+          "AS-H2"
+        ],
+        "independent_of_producer_authorship": true,
+        "blind_prediction_or_accuracy_claim": false,
+        "all_possible_behavior_validated": false,
+        "freeform_Japanese_dialogue_validated": false,
+        "new_primary_returns": 0,
+        "new_pixels": 0,
+        "producer_files_edited": false,
+        "root_acceptance_awarded": false
+      }
+    }
+  ],
+  "artifact_type": "model_evidence_historical_record_shard",
+  "authority_class": "model_validation_provenance",
+  "status": "canonical",
+  "release_state": "immutable_freeze",
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_primary_literary_authority": true,
+  "supersedes": [],
+  "superseded_by": [],
+  "fixed_record_scope": "This exact public record instance preserves its archived analytical values and identities. It cannot grant wider model authority, primary literary evidence or future publication/main acceptance."
+}

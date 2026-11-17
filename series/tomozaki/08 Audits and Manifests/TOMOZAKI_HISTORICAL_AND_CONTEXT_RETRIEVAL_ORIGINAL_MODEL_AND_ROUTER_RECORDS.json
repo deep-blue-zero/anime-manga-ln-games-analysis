@@ -1,0 +1,2503 @@
+{
+  "schema": "tomozaki_portable_historical_context_records/v1",
+  "artifact_type": "attributed_retrieval_historical_record_shard",
+  "authority_class": "model_validation_provenance",
+  "status": "canonical",
+  "release_state": "immutable_freeze",
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_primary_literary_authority": true,
+  "supersedes": [],
+  "superseded_by": [],
+  "record_policy": "Complete unchanged original values and raw identities. Historical pending/status/private-route strings are provenance of their own stage; current retrieval uses the catalog public record pointers and pinned Git source routes.",
+  "records": [
+    {
+      "record_id": "producer.HINAMI_NAGISA_ATTRIBUTED_RETRIEVAL_MODEL.md",
+      "record_role": "fixed_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_NAGISA_ATTRIBUTED_RETRIEVAL_MODEL.md",
+        "bytes": 6375,
+        "sha256": "3d596a35984c112bc045ff88fec55e9022d183b2cd031eb4065b3848e16a67b6"
+      },
+      "representation": "exact_original_UTF8_text",
+      "semantic_value_sha256": "8e2fc162e28da64acd117a9264af645509011182232ed94dd0e3154057f7934c",
+      "value": "---\nartifact_type: character_reconstruction_model\nauthority_class: derived_use_model\ndo_not_use_as_primary_literary_authority: true\nstatus: draft_noncurrent\nrelease_state: draft_noncurrent\nrepository_authority: false\ndo_not_use_as_current_authority: true\nmodel_kind: attributed_retrieval_constraint_model\nliterary_basis_commit: b498a20457e4debeb70895fca8ebd37717e91017\nrelease_id: TOMOZAKI_JP_LN_V12_EDITION_1_20261103\nversion: 1\n---\n\n# Hinami Nagisa — attributed historical retrieval model\n\nThe admitted responsibility is to preserve the historical child as a person while respecting the unavailable last standpoint. [The complete dossier](../04%20Character%20Analysis/Hinami%20Nagisa/HINAMI_NAGISA_BOUNDED_CHARACTER_DOSSIER.md) owns HN-E01–10 and its exact witness/member/all-P routes. Its21,092-byte Edition1 instance has SHA25614970faee4414855df13fef93b3dec521a19c15f580419a246b57c514f9a43a8. Earlier source receipts/images are inherited; no new primary/pixel/audio inspection occurred.\n\n## Finite record and mechanisms\n\n**NG1 — competitive play is shared pleasure.** In the represented childhood game she loses, wants another attempt, changes the timing/two-bomb tactic and wins a particular exchange. She thanks Haruka's cheering and approaches Aoi with affection, which Aoi receives despite losing. Retrieve tactical adjustment, score desire and company together. Do not transform the win into universal superiority, ruthlessness, exact new taunts or a complete game/favorite hierarchy. HN-E01 / dossier§2.\n\n**NG2 — other-directed help is chosen under advice.** In the early intervention band she objects to a particular child's mistreatment, asks Yoko what she can do and proposes cautioning the others. Yoko's praise, support and caution are not one command; Nagisa acts despite the watch-without-intervening alternative. Later reports distinguish confronting perpetrators from listening to the harmed child. Retrieve both agency and incomplete efficacy. Do not infer all school/adult responses or reduce her acts to maternal obedience or purity. HN-E03/04 / §§3–4.\n\n**NG3 — reassurance, exhaustion and doubt have different dates.** Her stated correctness reason and reassurance coexist with increasing strain. The later question asks whether the game phrase can address her actual condition and whether doing right had meaning. Retrieve an actual change/question rather than unwavering certainty. Doubt does not prove rejection of help, love, every principle or a selected death. Aoi's unsaid reassuring response is reader access to Aoi, not a conversation Nagisa heard. HN-E04/05 / §4.\n\n**NG4 — a survivor's causal branches remain branches.** V10 Aoi reports a traffic collision and nested driver account, then explicitly considers incompatible fatigue/accident and deliberate-act possibilities. V11 hospital grief supplies no final road interior; V12 repeats the uncertainty. Retrieve attributed reports and the unresolved alternatives. Refuse cause, intent, preventability, responsibility assigned to one sentence/person and an invented medical or legal finding. V10 sixth-grade versus V11 fourth-grade history remains unreconciled; do not manufacture a birthday or corrected edition. HN-E06–08 / §5.\n\n**NG5 — an authored address cannot authenticate its subject.** V12's private reading and semantic-ruby/imagined reunion affect Aoi. Her apology, thanks and admiration are real address acts in that reading; the modeled sister's reply is not recovered last words. Keep represented historical doubt alongside the affirming fictional speaker. Retrieve what changed for Aoi while withholding a new Nagisa endorsement, afterlife answer or final wish. HN-E09/10 / §§6–7.\n\n## Directional standing and usable requests\n\nAoi as play rival/affectionate sister differs from Aoi addressed in distress; Haruka's cheering differs from the targeted classmate's needs, the perpetrators' conduct and Yoko's advice. Later writers/readers are recipients of surviving representation, not interlocutors receiving a new answer. A useful ordinary request can recover strategy, delight and thanks; an ethical comparison can recover advice-seeking/help and later doubt. A request to simulate new crisis decisions needs separate domain justification and is outside this retrieval admission.\n\n## Negative and out-of-domain fields\n\nNo authenticated first-person/posthumous reply, road intention, final words, suicide/accident certainty, diagnosis, guaranteed prevention, full institutional history, harmonized age/date, entire preference profile or right to make her moral proof for survivors. Unknown is an affirmative source limit, not evidence that no life or action existed. The supported record retains independent positive acts without completing her unavailable final mind.\n\n## Operation and review boundary\n\nThis is a manual, attributed retrieval-and-constraint model. Select exact identity, story-local episode, disclosure clock, recipient and available evidence layer before answering. Its useful output is an evidence-bearing account with separate field abstentions. It does not supply a new first-person voice, an executable persona or an authenticated new interior. When a selector is missing, request it or return separately labeled historical alternatives. A requester adding an assumption does not make it a source fact.\n\nReturn (1) selected finite band/access, (2) attributed available acts/words/materials, (3) route and evidence kind, (4) competing interpretations and costs, (5) what cannot be answered. A present question about an unshown future can still receive relevant historical evidence; it cannot receive a fabricated outcome. Keep DIRECT represented document/act, REPORT, focalized INTERIOR, INFERENCE/HYPOTHESIS, FICTION/ADDRESS and OPEN distinct. The source and current literary owners veto this derived artifact. Do not feed its output back as literary evidence.\n\nOnly local communicative acts already supported by the record are retrievable. No new Japanese dialogue, complete idiolect, acoustic fidelity, blinded prediction, statistical accuracy, clinical/legal authority, global capability grade or owner calibration is awarded. Eighteen frozen exposed/hypothetical retrieval cases and45 route checks require actual independent review before root acceptance/publication. These candidate bytes have not received that acceptance.\n"
+    },
+    {
+      "record_id": "producer.HINAMI_YOKO_ATTRIBUTED_RETRIEVAL_MODEL.md",
+      "record_role": "fixed_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_YOKO_ATTRIBUTED_RETRIEVAL_MODEL.md",
+        "bytes": 6298,
+        "sha256": "8984b35d510693c41aeed8d0030488f45696f1f4b64e410330bbfe656f31cb74"
+      },
+      "representation": "exact_original_UTF8_text",
+      "semantic_value_sha256": "0e9ac363cc10a608346de9008b9339c5b49b19db9b100e94aca5b3dfde6d9732",
+      "value": "---\nartifact_type: character_reconstruction_model\nauthority_class: derived_use_model\ndo_not_use_as_primary_literary_authority: true\nstatus: draft_noncurrent\nrelease_state: draft_noncurrent\nrepository_authority: false\ndo_not_use_as_current_authority: true\nmodel_kind: attributed_retrieval_constraint_model\nliterary_basis_commit: b498a20457e4debeb70895fca8ebd37717e91017\nrelease_id: TOMOZAKI_JP_LN_V12_EDITION_1_20261103\nversion: 1\n---\n\n# Hinami Yoko — attributed historical and contact retrieval model\n\n[The complete dossier](../04%20Character%20Analysis/Hinami%20Yoko/HINAMI_YOKO_BOUNDED_CHARACTER_DOSSIER.md) owns HY-E01–10 and exact source routes. Its23,541-byte Edition1 instance has SHA256495ab3b6ea6edfa749c39d02a1639ed293ebe2ac66e846d349ad2524ab84b85f. Hinami陽子 is distinct from Mamiya葉子. Earlier domestic mother references gain this name retrospectively; the model must not invent an earlier explicit name disclosure.\n\n## Finite record and mechanisms\n\n**HY1 — practical comfort has actual receivers.** Childhood touch, homemade food, shared gift cake and awkward bodily humor are represented acts experienced as comfort. Middle-school cooking of Aoi's liked cheese-filled hamburger steak includes technique/company, while the later game observation notices enjoyment despite defeat. Retrieve the particular benefit and ordinary work without claiming universal clumsiness, identical mother/daughter tastes or that every maternal remark is a formula. The subsequent purpose assigned to a quarrel is a separate causal claim, not established by successful comfort. §§2/8, HY-E01–03.\n\n**HY2 — social warmth varies with recipient.** In V09 she welcomes classmates, thanks them, prompts Haruka's introduction and teases Aoi's wish to end the encounter. Fumiya's approachable/non-artificial impression is his judgment. Retrieve observed company and role variation, not complete maternal interior or knowledge of Aoi's unsaid thoughts. Friendly surface need not become deceit once history is known. §3, HY-E04.\n\n**HY3 — affection and harmful explanatory persistence coexist.** At Nagisa's initial inquiry she praises the impulse, promises support and offers watchfulness/caution; after retaliation she trembles and repeats growth/trial reassurance. Aoi's criticism of absent concrete change is strong focalized evidence, not a census of every adult contact. At the hospital grief, eye-level care and touch coexist with a death-as-world-chosen-meaning explanation that Aoi cannot bear. Protective intention, coping and encouragement remain possible interpretations, not established sole motive or harmlessness. §§4–5, HY-E05/06.\n\n**HY4 — heard words and private reminders use separate clocks.** The V10 video cutoff, fuller V11 greeting and V12 Aoi inward explanation are distinct disclosure events. The acute reminder is the long-unseen prayer room/scroll; Aoi says faces were familiar. Retrieve recorded address and private reception separately. Do not claim deliberate triggering, identify a faith/organization, diagnose, transfer p0022 to peers or assign knowledge of the unsaid dinner question. §§1/6, HY-E08/09.\n\n**HY5 — another person's rereading is not a current maternal answer.** Haruka's received relief, Aoi's private resistance and later changed address are different receptions. V12 birth-thanks in the authored encounter can support a new affirmative use of love without certifying the earlier purpose-of-harm framework. No shown new Yoko apology, manuscript reading, room discussion or durable family repair follows. Neither permanent inability to change nor completed reform is supported. §§7–8, HY-E07/10.\n\n## Directional standing and usable requests\n\nRetrieve childhood daughter comfort, Nagisa advice, grieving surviving children, middle-school household company, classmates and birthday recipient as distinct settings. A request about ordinary practical care can receive food/company/humor and recipient limits. A request about historical injury can preserve love and rigidity together without treating her daughters as interchangeable judges of the whole mother. Current grief counseling or parenting enactment is outside this attributed-retrieval admission.\n\n## Negative and out-of-domain fields\n\nNo named religion, supernatural property, clinical diagnosis, malicious governing intention, precise biography or reason for father absence; no single-person death cause/prevention finding, complete institutional history, entire household policy, omniscience about unsaid thought, guaranteed reconciliation or unshown current remorse. Her private interior and future response remain unestablished; evidence of actual work, grief and company remains retrievable.\n\n## Operation and review boundary\n\nThis is a manual, attributed retrieval-and-constraint model. Select exact identity, story-local episode, disclosure clock, recipient and available evidence layer before answering. Its useful output is an evidence-bearing account with separate field abstentions. It does not supply a new first-person voice, an executable persona or an authenticated new interior. When a selector is missing, request it or return separately labeled historical alternatives. A requester adding an assumption does not make it a source fact.\n\nReturn (1) selected finite band/access, (2) attributed available acts/words/materials, (3) route and evidence kind, (4) competing interpretations and costs, (5) what cannot be answered. A present question about an unshown future can still receive relevant historical evidence; it cannot receive a fabricated outcome. Keep DIRECT represented document/act, REPORT, focalized INTERIOR, INFERENCE/HYPOTHESIS, FICTION/ADDRESS and OPEN distinct. The source and current literary owners veto this derived artifact. Do not feed its output back as literary evidence.\n\nOnly local communicative acts already supported by the record are retrievable. No new Japanese dialogue, complete idiolect, acoustic fidelity, blinded prediction, statistical accuracy, clinical/legal authority, global capability grade or owner calibration is awarded. Eighteen frozen exposed/hypothetical retrieval cases and45 route checks require actual independent review before root acceptance/publication. These candidate bytes have not received that acceptance.\n"
+    },
+    {
+      "record_id": "producer.MICHAEL_ANDI_ATTRIBUTED_RETRIEVAL_MODEL.md",
+      "record_role": "fixed_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/historical_context_models_root_20261103/candidates/MICHAEL_ANDI_ATTRIBUTED_RETRIEVAL_MODEL.md",
+        "bytes": 6898,
+        "sha256": "d20b8135227a42e3193fbf9bb089bfe8ece9dabd52d9494cd2f1d7c77899a2d1"
+      },
+      "representation": "exact_original_UTF8_text",
+      "semantic_value_sha256": "834910563cbe6d039e4987b81760be0db5ec168a2615b7f2c18a07b65a2e8ac1",
+      "value": "---\nartifact_type: character_reconstruction_model\nauthority_class: derived_use_model\ndo_not_use_as_primary_literary_authority: true\nstatus: draft_noncurrent\nrelease_state: draft_noncurrent\nrepository_authority: false\ndo_not_use_as_current_authority: true\nmodel_kind: attributed_retrieval_constraint_model\nliterary_basis_commit: b498a20457e4debeb70895fca8ebd37717e91017\nrelease_id: TOMOZAKI_JP_LN_V12_EDITION_1_20261103\nversion: 1\n---\n\n# Michael Andi — attributed document, testimony and reception retrieval model\n\n[The complete dossier](../04%20Character%20Analysis/Michael%20Andi/MICHAEL_ANDI_BOUNDED_CHARACTER_DOSSIER.md) owns MA-E01–09 / MA-P01–09 and exact source locators. Its36,464-byte Edition1 instance has SHA256a78acb3452ce92727470b09c401360758b86d1585f5cb4c931f592846322d12c. Andi/Andy are retrieval variants ofマイケル・アンディ, not proof of legal name, nationality or a newly living narrator.\n\n## Finite record and mechanisms\n\n**MA1 — reception belongs to readers.** Earlier books, Kikuchi's animated retelling/diary/craft and Fumiya's false-premise reset/actual reading supply consequential reception history. They do not show Andi knowing those later private lives or arranging their relationship. V12 changes Kikuchi's received author image; it is not a present development in the dead man. Select earlier reception, historical island reports, V12 inquiry/loan or unshown future before retrieving. §§2–3, MA-P01/09.\n\n**MA2 — ordinary reports retain conflicting tastes and costs.** The innkeeper's breakfast fish ritual and workers' initially-dislike, later-like, ordinary/seared and recovered-dislike accounts have tellers and potentially different clocks. Preserve aversion as well as pleasure; a local's dislike-of-understanding interpretation is explicitly hypothesis. Prank/laughter and helper anger are reported social fallibility, not guaranteed harmless charm/romance; drunken observation-record speech has the liquor seller's admitted uncertainty. Retrieve acts/reporting and inconvenience rather than one flawless sage or sole motive. §§4/9, MA-P02–04.\n\n**MA3 — material differences depend on other people's labor.** Visible telescope, cloth arrays/tags and revision traces differ from recalled instructions, sea comparisons and Fumiya's imagined repeated trips. Mitsu offers distinctions, disputes simplification, cleans and maintains access; neither reported intimacy nor analogy establishes wife/lover standing. Retrieve directly represented array, attributed craft exchange and costs separately. No exhaustive itinerary, exact trip count or guaranteed finished manuscript. §§5/9, MA-P05.\n\n**MA4 — shared occasion permits independent appropriation.** Mitsu rejects the one-myth-unified-island theory. Prior folding/prayer practices, selected story nights, later adaptations and present prayer/photographs/child play can coexist with conflict, damaged objects and ordinary labor. Retrieve a bounded common occasion with plural meanings; do not give every resident the same belief or all causation to one author. Her report of liking herself in a stubborn/bad-mouthed portrayal is her reception, not proven prior permission or a general representation license. §6, MA-P05/06.\n\n**MA5 — documentary marks can defeat a hypothesis without proving an interior.** The represented private continuation is read through difficult English and phone translation. Preserve the exact sequence: believe→tell→record→wish are crossed out; pray is circled. These marks establish revision/selection on those pages. Reasons for each deletion, a universal final doctrine or last thought remain unestablished. The couple's later interpretation of a remaining wish/prayer is theirs; even record's deletion cannot become complete motive access. §§7–8, MA-P07/08.\n\n**MA6 — custody and bounded use do not create general authority.** Mitsu loans the pages with next-morning return; visitors leave them behind the counter after waiting, with no shown hand-to-hand receipt. Retrieve actual limited access, mediated reading and return action. No estate/editorial/circulation/publication rights or subject fictionalization consent follows. Andi's surviving document differs from Nagisa's unavailable final standpoint; neither grants an authentic new endorsement. §§10–12, MA-P07/08.\n\n## Directional standing and usable requests\n\nThe innkeeper, fish workers, shop/translation-helper reports, liquor seller, Mitsu, historical listeners and later readers have different access and interests. Return the teller and evidence kind with each claim. Work, sensory pursuit, jokes and stubborn persistence can be useful positive retrieval without fixing a motive hierarchy. Compare later readers' hypotheses against material counterevidence; do not resolve gaps by taking up the dead author's voice.\n\n## Negative and out-of-domain fields\n\nNo new wise dialogue, authenticated interior, legal/civil biography, complete dates/publication chronology, identified unnamed woman/romance, full estate authority, total community harmony, universal observation mandate or general prayer permission. The final term on a private document is not a testament authorizing future uses or certifying Nagisa's wish. Availability to later people is conditional and actively maintained by others.\n\n## Operation and review boundary\n\nThis is a manual, attributed retrieval-and-constraint model. Select exact identity, story-local episode, disclosure clock, recipient and available evidence layer before answering. Its useful output is an evidence-bearing account with separate field abstentions. It does not supply a new first-person voice, an executable persona or an authenticated new interior. When a selector is missing, request it or return separately labeled historical alternatives. A requester adding an assumption does not make it a source fact.\n\nReturn (1) selected finite band/access, (2) attributed available acts/words/materials, (3) route and evidence kind, (4) competing interpretations and costs, (5) what cannot be answered. A present question about an unshown future can still receive relevant historical evidence; it cannot receive a fabricated outcome. Keep DIRECT represented document/act, REPORT, focalized INTERIOR, INFERENCE/HYPOTHESIS, FICTION/ADDRESS and OPEN distinct. The source and current literary owners veto this derived artifact. Do not feed its output back as literary evidence.\n\nOnly local communicative acts already supported by the record are retrievable. No new Japanese dialogue, complete idiolect, acoustic fidelity, blinded prediction, statistical accuracy, clinical/legal authority, global capability grade or owner calibration is awarded. Eighteen frozen exposed/hypothetical retrieval cases and45 route checks require actual independent review before root acceptance/publication. These candidate bytes have not received that acceptance.\n"
+    },
+    {
+      "record_id": "producer.TOMOZAKI_SUPPORTING_CONTEXT_ROUTER.json",
+      "record_role": "fixed_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/historical_context_models_root_20261103/candidates/TOMOZAKI_SUPPORTING_CONTEXT_ROUTER.json",
+        "bytes": 117521,
+        "sha256": "d00cabd119df5215ffa9d04444064b03a45cb068a659d0edf511c7df2280b637"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "d4d861c47100c9ed2f9dd72c1c8a6e0c4a7a7586c11358eec8ba9a4e3ffd5d8e",
+      "value": {
+        "schema": "tomozaki_supporting_context_retrieval_model/v1",
+        "artifact_type": "character_reconstruction_model",
+        "authority_class": "derived_use_model",
+        "do_not_use_as_primary_literary_authority": true,
+        "status": "draft_noncurrent",
+        "release_state": "draft_noncurrent",
+        "repository_authority": false,
+        "do_not_use_as_current_authority": true,
+        "model_kind": "attributed_context_retrieval_router",
+        "literary_basis": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "source_boundary": "MainV01–V12 plus story-localV06.5/V08.5; V07SpecialEdition distinction retained.14witnesses.",
+        "inputs": [
+          {
+            "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "bytes": 86524,
+            "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_CHARACTER_SCOPE_REVIEW_DATA.json",
+            "bytes": 242269,
+            "sha256": "1acd20b824dd76d5fe7d36a35a37ecf5c498aa2568c3f81a26a63817a1e0da20"
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_CHARACTER_EVIDENCE_COVERAGE_MATRIX.json",
+            "bytes": 768421,
+            "sha256": "39d2f81031a5d4068ca9a50e96496ba75327863e4dbad2650ce525b139d74918"
+          }
+        ],
+        "operation_contract": "Resolve exact source identity/clock/access; return source-grounded available acts or identification and specific abstentions. Group evidence cannot be distributed; self/report/hypothesis layers stay attributed. This JSON is a manual route/card specification, not a separately executed agent or a new character census.",
+        "counts": {
+          "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL": 25,
+          "IDENTIFICATION_ATTRIBUTION_ONLY_ABSTAIN_PRIVATE_PERSONALITY": 1,
+          "SHARED_SOURCE_GROUP_CONTEXT_NO_COLLECTIVE_INTERIOR": 6,
+          "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION": 13
+        },
+        "routes": [
+          {
+            "identity_id": "akiyama",
+            "display_name": "Akiyama",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D01",
+              "exact_heading": "C-D01. Akiyama — `akiyama` (C)",
+              "heading_line_at_pinned_version": 47,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "akiyama",
+              "display_name": "Akiyama",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "A compact named state/accountability section must preserve subordinate participation, resentment, confrontation, injury, thanks, actual apology and later cold-war behavior as distinct acts and dyads.",
+              "negative_constraints": [
+                "V05 apology P17–19 is actual evidence; do not replace it with a broad no-apology claim.",
+                "Tama's weighted acknowledgment is not blanket forgiveness or completed trust/institutional repair.",
+                "The Akiyama↔Konno-group Yumi given-name link is UNVERIFIED; keep separate identity nodes."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E047",
+                "COV-E055",
+                "COV-E063",
+                "COV-E069",
+                "COV-E075",
+                "COV-M046",
+                "COV-M047",
+                "COV-M048",
+                "COV-M049",
+                "COV-M050"
+              ],
+              "direct_row_ids": [
+                "COV-E047",
+                "COV-E055",
+                "COV-E063",
+                "COV-E069",
+                "COV-E075",
+                "COV-M046",
+                "COV-M047",
+                "COV-M048",
+                "COV-M049",
+                "COV-M050"
+              ],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "goda_sayaka",
+            "display_name": "Goda Sayaka / 郷田沙也加",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D02",
+              "exact_heading": "C-D02. Goda Sayaka / 郷田沙也加 — `goda_sayaka` (C)",
+              "heading_line_at_pinned_version": 59,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "goda_sayaka",
+              "display_name": "Goda Sayaka / 郷田沙也加",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Own design/cover aesthetics, playful listening, reciprocal reading and graduation exchange are indispensable to Kikuchi's selected sociability before Fumiya. Accepted Kikuchi §8.4 and CS §8.6 already carry this responsibility.",
+              "negative_constraints": [
+                "V06.5 part0018 P45 ruby supplies sa-ya-ka: current name Sayaka; frozen historical Saya is preserved.",
+                "C is parent's disposition; no independent monograph needed to preserve agency.",
+                "No inferred full career, private biography or universal silent-Kikuchi baseline."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E083"
+              ],
+              "direct_row_ids": [
+                "COV-E083"
+              ],
+              "destination_reference_ids": [
+                "DEST-031",
+                "DEST-032",
+                "DEST-010"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "hattori_akira",
+            "display_name": "Hattori Akira / 服部彰",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D03",
+              "exact_heading": "C-D03. Hattori Akira / 服部彰 — `hattori_akira` (C)",
+              "heading_line_at_pinned_version": 71,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "hattori_akira",
+              "display_name": "Hattori Akira / 服部彰",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Historical courtship, refused intimacy request, breakup and partial recognition belong to Hinami's recipient and formation account, with retrospective access limits.",
+              "negative_constraints": [
+                "No full sexual history, complete origin or universal partner rule.",
+                "This worker imports accepted R04/REL routes and early receipt; no new full primary-scene reread certified."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E084"
+              ],
+              "direct_row_ids": [
+                "COV-E084"
+              ],
+              "destination_reference_ids": [
+                "DEST-033",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "hirabayashi",
+            "display_name": "Hirabayashi / called Miyuki",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D04",
+              "exact_heading": "C-D04. Hirabayashi / called Miyuki — `hirabayashi` (C)",
+              "heading_line_at_pinned_version": 83,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "hirabayashi",
+              "display_name": "Hirabayashi / called Miyuki",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Pressure-mediated captain assent, Kawamura's opt-out, natural Takei smile, practical testimony and a constrained blocked-desk decision show a recipient with actions rather than global silence.",
+              "negative_constraints": [
+                "Given name is spoken Miyuki; kanji is not established in the inspected route.",
+                "No complete private inaction, helplessness, diagnosis or consent to abuse."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E085"
+              ],
+              "direct_row_ids": [
+                "COV-E085"
+              ],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "yamashita_yumiko",
+            "display_name": "Yamashita Yumiko / 山下由美子",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D05",
+              "exact_heading": "C-D05. Yamashita Yumiko / 山下由美子 — `yamashita_yumiko` (C)",
+              "heading_line_at_pinned_version": 95,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "yamashita_yumiko",
+              "display_name": "Yamashita Yumiko / 山下由美子",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "A younger sports witness/confidante has prior access to Mimimi, self-reported basketball limits and an effort account. Her claim of best knowledge is testimony, not omniscience.",
+              "negative_constraints": [
+                "Distinct from adult bar Yumiko-san and Konno-group Yumi.",
+                "No complete teammate or household perspective or invented given-name alias."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E086"
+              ],
+              "direct_row_ids": [
+                "COV-E086"
+              ],
+              "destination_reference_ids": [
+                "DEST-019",
+                "DEST-023"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "kawamura",
+            "display_name": "Kawamura (teacher)",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D06",
+              "exact_heading": "C-D06. Kawamura (teacher) — `kawamura` (C)",
+              "heading_line_at_pinned_version": 107,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "kawamura",
+              "display_name": "Kawamura (teacher)",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "An actual opt-out in the pressure scene is institutional action; preserve it against no-adult-action generalization while testing adequacy separately.",
+              "negative_constraints": [
+                "An opt-out does not establish adequate institutional safeguarding or full private teacher motive."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E087"
+              ],
+              "direct_row_ids": [
+                "COV-E087"
+              ],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "fumiya_sister",
+            "display_name": "Tomozaki Fumiya's unnamed sister",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D07",
+              "exact_heading": "C-D07. Tomozaki Fumiya's unnamed sister — `fumiya_sister` (C)",
+              "heading_line_at_pinned_version": 119,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "fumiya_sister",
+              "display_name": "Tomozaki Fumiya's unnamed sister",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Grooming feedback and a disengagement cue belong to bounded family/ordinary-recipient evidence, already useful in accepted Fumiya.",
+              "negative_constraints": [
+                "Preserve source anonymity.",
+                "No invented name, complete household model or all-scene disposition."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E088",
+                "COV-E089"
+              ],
+              "direct_row_ids": [
+                "COV-E088",
+                "COV-E089"
+              ],
+              "destination_reference_ids": [
+                "DEST-033",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "mimimi_mother",
+            "display_name": "Mimimi's unnamed mother",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D08",
+              "exact_heading": "C-D08. Mimimi's unnamed mother — `mimimi_mother` (C)",
+              "heading_line_at_pinned_version": 131,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "mimimi_mother",
+              "display_name": "Mimimi's unnamed mother",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Domestic care and criticism of over-endurance make an actual family recipient, not only a biographical explanation.",
+              "negative_constraints": [
+                "Preserve anonymity.",
+                "No divorce-total-cause theory or full household census."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E090"
+              ],
+              "direct_row_ids": [
+                "COV-E090"
+              ],
+              "destination_reference_ids": [
+                "DEST-033",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "mizusawa_yuji",
+            "display_name": "Mizusawa Yuji / 裕二",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D09",
+              "exact_heading": "C-D09. Mizusawa Yuji / 裕二 — `mizusawa_yuji` (C)",
+              "heading_line_at_pinned_version": 143,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "mizusawa_yuji",
+              "display_name": "Mizusawa Yuji / 裕二",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Salon/bar-deputy work, occasional paid help, timed teasing and fist-bump exchange give Takahiro a work/family relationship beyond the core school cast.",
+              "negative_constraints": [
+                "Yuji is the older brother; do not turn bounded work actions into full biography or settled Takahiro vocation."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E091"
+              ],
+              "direct_row_ids": [
+                "COV-E091"
+              ],
+              "destination_reference_ids": [
+                "DEST-034",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "aqua_master",
+            "display_name": "Bar aqua master (unnamed)",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D10",
+              "exact_heading": "C-D10. Bar aqua master (unnamed) — `aqua_master` (C)",
+              "heading_line_at_pinned_version": 155,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "aqua_master",
+              "display_name": "Bar aqua master (unnamed)",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Recipient of the waiting-policy account and contributor of a gendered romance/depth model; his social theory belongs to him.",
+              "negative_constraints": [
+                "Preserve source anonymity.",
+                "Do not promote the master's gendered model into analytical law or a universal Mizusawa trajectory."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E092"
+              ],
+              "direct_row_ids": [
+                "COV-E092"
+              ],
+              "destination_reference_ids": [
+                "DEST-034",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "mamiya_yoko",
+            "display_name": "Mamiya Yoko / 間宮葉子",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D11",
+              "exact_heading": "C-D11. Mamiya Yoko / 間宮葉子 — `mamiya_yoko` (C)",
+              "heading_line_at_pinned_version": 167,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "mamiya_yoko",
+              "display_name": "Mamiya Yoko / 間宮葉子",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Named friend and nervous visitor/shopping recipient in Gumi's ordinary peer field; the local relationship is recoverable without an invented inner life.",
+              "negative_constraints": [
+                "Distinct from Hinami Yoko, with source kanji 葉子 retained.",
+                "D for independent psychology; C local representation."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E093",
+                "COV-M090"
+              ],
+              "direct_row_ids": [
+                "COV-E093"
+              ],
+              "destination_reference_ids": [
+                "DEST-019",
+                "DEST-023"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "fujii_hitomi",
+            "display_name": "Fujii Hitomi / 藤井瞳",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D12",
+              "exact_heading": "C-D12. Fujii Hitomi / 藤井瞳 — `fujii_hitomi` (C)",
+              "heading_line_at_pinned_version": 179,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "fujii_hitomi",
+              "display_name": "Fujii Hitomi / 藤井瞳",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Named ordinary friend/recipient alongside Mamiya Yoko gives Gumi an inhabited peer field.",
+              "negative_constraints": [
+                "No individual comprehensive psychology from a group visit.",
+                "Shared row M090 remains grouped; it does not license interchangeable acts."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E094",
+                "COV-M090"
+              ],
+              "direct_row_ids": [
+                "COV-E094"
+              ],
+              "destination_reference_ids": [
+                "DEST-019",
+                "DEST-023"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "kashiwazaki_sakura",
+            "display_name": "Kashiwazaki Sakura / 柏崎さくら",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D13",
+              "exact_heading": "C-D13. Kashiwazaki Sakura / 柏崎さくら — `kashiwazaki_sakura` (C)",
+              "heading_line_at_pinned_version": 191,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "kashiwazaki_sakura",
+              "display_name": "Kashiwazaki Sakura / 柏崎さくら",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Ordinary leisure/food/menu participation in Tama/Mimimi's friend field deserves a named recipient record.",
+              "negative_constraints": [
+                "C local interaction; D independent inner life.",
+                "Do not turn a food/diet joke into diagnosis, fixed habit frequency or full taste profile."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E095"
+              ],
+              "direct_row_ids": [
+                "COV-E095"
+              ],
+              "destination_reference_ids": [
+                "DEST-019",
+                "DEST-023"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "seno_yuki",
+            "display_name": "Seno Yuki / 瀬野由紀",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D14",
+              "exact_heading": "C-D14. Seno Yuki / 瀬野由紀 — `seno_yuki` (C)",
+              "heading_line_at_pinned_version": 203,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "seno_yuki",
+              "display_name": "Seno Yuki / 瀬野由紀",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Named ordinary companion preserves recipient and leisure variation beyond the principal plot.",
+              "negative_constraints": [
+                "C local interaction; D independent comprehensive psychology.",
+                "No unsupported diet, fixed trait or name merger."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E096"
+              ],
+              "direct_row_ids": [
+                "COV-E096"
+              ],
+              "destination_reference_ids": [
+                "DEST-019",
+                "DEST-023"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "kawaguchi_mutsumi",
+            "display_name": "Kawaguchi Mutsumi / 川口睦美",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D15",
+              "exact_heading": "C-D15. Kawaguchi Mutsumi / 川口睦美 — `kawaguchi_mutsumi` (C)",
+              "heading_line_at_pinned_version": 215,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "kawaguchi_mutsumi",
+              "display_name": "Kawaguchi Mutsumi / 川口睦美",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Shopping and indirect-message participation have an act-specific permission sequence: Konno takes her phone before assent and obtains assent before first sending.",
+              "negative_constraints": [
+                "Phone-taking P256–259 and first sending P260 have different consent states.",
+                "Partial photo signs do not prove affair; local assent is not blanket hierarchy approval."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E097"
+              ],
+              "direct_row_ids": [
+                "COV-E097"
+              ],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "kamimae_mao",
+            "display_name": "Kamimae Mao / 神前真央",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D16",
+              "exact_heading": "C-D16. Kamimae Mao / 神前真央 — `kamimae_mao` (C)",
+              "heading_line_at_pinned_version": 227,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "kamimae_mao",
+              "display_name": "Kamimae Mao / 神前真央",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Ordinary shopping/photos and limited-knowledge reassurance/investigation distinguish this recipient from generic followers.",
+              "negative_constraints": [
+                "No full biography, omniscient affair finding, fixed taste frequency or blanket message consent."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E098"
+              ],
+              "direct_row_ids": [
+                "COV-E098"
+              ],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "motomura",
+            "display_name": "Motomura (Japanese-language teacher)",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D17",
+              "exact_heading": "C-D17. Motomura (Japanese-language teacher) — `motomura` (C)",
+              "heading_line_at_pinned_version": 239,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "motomura",
+              "display_name": "Motomura (Japanese-language teacher)",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Brief named institutional help belongs to the graduation/education scene.",
+              "negative_constraints": [
+                "C institutional/identity responsibility; D independent psychology.",
+                "No richer motive model from identification alone."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E099"
+              ],
+              "direct_row_ids": [
+                "COV-E099"
+              ],
+              "destination_reference_ids": [
+                "DEST-031",
+                "DEST-032"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "adult_bar_yumiko",
+            "display_name": "Yumiko-san (adult bar acquaintance; surname unestablished)",
+            "identity_kind": "individual",
+            "literary_responsibility": "D",
+            "operation": "IDENTIFICATION_ATTRIBUTION_ONLY_ABSTAIN_PRIVATE_PERSONALITY",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D38",
+              "exact_heading": "C-D38. Yumiko-san (adult bar acquaintance; surname unestablished) — `adult_bar_yumiko` (D)",
+              "heading_line_at_pinned_version": 493,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "adult_bar_yumiko",
+              "display_name": "Yumiko-san (adult bar acquaintance; surname unestablished)",
+              "identity_kind": "individual",
+              "accepted_responsibility": "D",
+              "substantive_account": "The route supplies an offstage expected visitor and conjectured crush. Preserve identification and attribution while abstaining from a private personality or encounter account.",
+              "negative_constraints": [
+                "Not Yamashita Yumiko and not Konno-group Yumi.",
+                "No actual private encounter inspected; no surname, romance certainty or independent psychology."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E100"
+              ],
+              "direct_row_ids": [
+                "COV-E100"
+              ],
+              "destination_reference_ids": [
+                "DEST-019",
+                "DEST-023"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "yokoyama_chinami",
+            "display_name": "Yokoyama Chinami / 横山ちなみ",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D18",
+              "exact_heading": "C-D18. Yokoyama Chinami / 横山ちなみ — `yokoyama_chinami` (C)",
+              "heading_line_at_pinned_version": 251,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "yokoyama_chinami",
+              "display_name": "Yokoyama Chinami / 横山ちなみ",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Vice-captain's effort, shame, inability to console, gratitude and reliance perspective give the team a bounded named witness.",
+              "negative_constraints": [
+                "Narrative probably-all extension is not direct testimony from every teammate.",
+                "No total team indifference or complete personal biography."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-M085"
+              ],
+              "direct_row_ids": [
+                "COV-M085"
+              ],
+              "destination_reference_ids": [
+                "DEST-033",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "tama_family",
+            "display_name": "Tama's unnamed parents and grandfather",
+            "identity_kind": "source_group",
+            "literary_responsibility": "C",
+            "operation": "SHARED_SOURCE_GROUP_CONTEXT_NO_COLLECTIVE_INTERIOR",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "G01",
+              "exact_heading": "G01. Tama's unnamed parents and grandfather — `tama_family`",
+              "heading_line_at_pinned_version": 507,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "tama_family",
+              "display_name": "Tama's unnamed parents and grandfather",
+              "identity_kind": "source_group",
+              "accepted_responsibility": "C",
+              "substantive_account": "Hospitality, teaching, quality control and attributed childhood/refusal accounts give the craft/family setting actual agents.",
+              "negative_constraints": [
+                "Combined row is retained as a family group; do not distribute every action to each member.",
+                "Preserve anonymity; no total parenting style or forced succession."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-M086"
+              ],
+              "direct_row_ids": [
+                "COV-M086"
+              ],
+              "destination_reference_ids": [
+                "DEST-034",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "kikuchi_riku",
+            "display_name": "Kikuchi Riku / 陸",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D19",
+              "exact_heading": "C-D19. Kikuchi Riku / 陸 — `kikuchi_riku` (C)",
+              "heading_line_at_pinned_version": 263,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "kikuchi_riku",
+              "display_name": "Kikuchi Riku / 陸",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Four-years-younger brother teases at home; Kikuchi reports an active school role and infers mode variation.",
+              "negative_constraints": [
+                "Sister's school report/inference is not direct observation or a complete biography."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-M087"
+              ],
+              "direct_row_ids": [
+                "COV-M087"
+              ],
+              "destination_reference_ids": [
+                "DEST-033",
+                "DEST-019",
+                "DEST-003",
+                "DEST-026"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "tachibana",
+            "display_name": "Tachibana",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D20",
+              "exact_heading": "C-D20. Tachibana — `tachibana` (C)",
+              "heading_line_at_pinned_version": 275,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "tachibana",
+              "display_name": "Tachibana",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Middle-school witness/interview connector and independent rehearsal coordination supply different responsibilities.",
+              "negative_constraints": [
+                "Fallible testimony; no authority over Kikuchi's authorship or forced inference past the interview stop."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-M088"
+              ],
+              "direct_row_ids": [
+                "COV-M088"
+              ],
+              "destination_reference_ids": [
+                "DEST-019",
+                "DEST-023"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "maebashi",
+            "display_name": "Maebashi",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D21",
+              "exact_heading": "C-D21. Maebashi — `maebashi` (C)",
+              "heading_line_at_pinned_version": 287,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "maebashi",
+              "display_name": "Maebashi",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Elementary-school household/sister-number recollection has a distinct access horizon from Tachibana's later-school account.",
+              "negative_constraints": [
+                "No solved sister fate, death cause or discarded ethical interview stop."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-M089"
+              ],
+              "direct_row_ids": [
+                "COV-M089"
+              ],
+              "destination_reference_ids": [
+                "DEST-033",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "gumi_friends",
+            "display_name": "Hitomi and Yoko, Gumi's friends",
+            "identity_kind": "source_group",
+            "literary_responsibility": "C",
+            "operation": "SHARED_SOURCE_GROUP_CONTEXT_NO_COLLECTIVE_INTERIOR",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "G02",
+              "exact_heading": "G02. Hitomi and Yoko, Gumi's friends — `gumi_friends`",
+              "heading_line_at_pinned_version": 519,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "gumi_friends",
+              "display_name": "Hitomi and Yoko, Gumi's friends",
+              "identity_kind": "source_group",
+              "accepted_responsibility": "C",
+              "substantive_account": "Keep the V07 co-recorded introduction as one source row while connecting its named recipients to Fujii Hitomi and Mamiya Yoko.",
+              "negative_constraints": [
+                "Group evidence is not two fabricated independent source rows.",
+                "Mamiya 葉子 is not Hinami Yoko."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-M090"
+              ],
+              "direct_row_ids": [
+                "COV-M090"
+              ],
+              "destination_reference_ids": [
+                "DEST-019",
+                "DEST-023"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "harry_max",
+            "display_name": "Harry and Max",
+            "identity_kind": "source_group",
+            "literary_responsibility": "C",
+            "operation": "SHARED_SOURCE_GROUP_CONTEXT_NO_COLLECTIVE_INTERIOR",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "G03",
+              "exact_heading": "G03. Harry and Max — `harry_max`",
+              "heading_line_at_pinned_version": 531,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "harry_max",
+              "display_name": "Harry and Max",
+              "identity_kind": "source_group",
+              "accepted_responsibility": "C",
+              "substantive_account": "Game hosts/participants supply a media/community and participation field, without comprehensive individual studies.",
+              "negative_constraints": [
+                "C network; D independent psychological reconstruction.",
+                "Do not attribute each co-recorded act to both hosts or infer professional contracts."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-M091"
+              ],
+              "direct_row_ids": [
+                "COV-M091"
+              ],
+              "destination_reference_ids": [
+                "DEST-034",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "rena_former_group",
+            "display_name": "Rena, Shoko, Karen and former peer group",
+            "identity_kind": "source_group",
+            "literary_responsibility": "C",
+            "operation": "SHARED_SOURCE_GROUP_CONTEXT_NO_COLLECTIVE_INTERIOR",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "G04",
+              "exact_heading": "G04. Rena, Shoko, Karen and former peer group — `rena_former_group`",
+              "heading_line_at_pinned_version": 543,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "rena_former_group",
+              "display_name": "Rena, Shoko, Karen and former peer group",
+              "identity_kind": "source_group",
+              "accepted_responsibility": "C",
+              "substantive_account": "Group exclusion and differing interests are represented within Rena's history; local acts remain attributable, not generic rejection by everyone.",
+              "negative_constraints": [
+                "Shoko romanization routes to 翔子.",
+                "Group membership does not create independent biography or interchangeable motives."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-M092"
+              ],
+              "direct_row_ids": [
+                "COV-M092"
+              ],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "rena_game_group",
+            "display_name": "Jimmy, Vanilla, Inumaru and game gathering",
+            "identity_kind": "source_group",
+            "literary_responsibility": "C",
+            "operation": "SHARED_SOURCE_GROUP_CONTEXT_NO_COLLECTIVE_INTERIOR",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "G05",
+              "exact_heading": "G05. Jimmy, Vanilla, Inumaru and game gathering — `rena_game_group`",
+              "heading_line_at_pinned_version": 555,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "rena_game_group",
+              "display_name": "Jimmy, Vanilla, Inumaru and game gathering",
+              "identity_kind": "source_group",
+              "accepted_responsibility": "C",
+              "substantive_account": "Different partner/rival acts, voiced attached status and visibility-seeking form a bounded interaction system.",
+              "negative_constraints": [
+                "C interaction system; D complete individual studies.",
+                "Not interchangeable consent witnesses; do not infer cross-scene alias equivalence."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-M093"
+              ],
+              "direct_row_ids": [
+                "COV-M093"
+              ],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "rena_older_contacts",
+            "display_name": "Rena, Keisuke, Makoto, Yosuke and Yamaken",
+            "identity_kind": "source_group",
+            "literary_responsibility": "C",
+            "operation": "SHARED_SOURCE_GROUP_CONTEXT_NO_COLLECTIVE_INTERIOR",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "G06",
+              "exact_heading": "G06. Rena, Keisuke, Makoto, Yosuke and Yamaken — `rena_older_contacts`",
+              "heading_line_at_pinned_version": 567,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "rena_older_contacts",
+              "display_name": "Rena, Keisuke, Makoto, Yosuke and Yamaken",
+              "identity_kind": "source_group",
+              "accepted_responsibility": "C",
+              "substantive_account": "Older contacts become an alternate social field after school withdrawal; preserve local recipient acts with Rena's access and story clock.",
+              "negative_constraints": [
+                "C network; D complete individual inner lives.",
+                "No blanket motives, all-person equivalence or unproved alias merger."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [],
+              "direct_row_ids": [
+                "COV-M094"
+              ],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "endo",
+            "display_name": "Endo",
+            "identity_kind": "individual",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D22",
+              "exact_heading": "C-D22. Endo — `endo` (C)",
+              "heading_line_at_pinned_version": 299,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "endo",
+              "display_name": "Endo",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "A named professional section must preserve independent app/programming work, notes, infeasibility refusal, simpler proposal, compensation and livelihood limits, plus scoped discount/barter.",
+              "negative_constraints": [
+                "Root selects explicit C professional responsibility from late B-small-or-C proposal.",
+                "Age is Fumiya estimate; subcontract work Ashigaru report.",
+                "Six-month term includes renewal discussion at V10 part0017 P47; do not call all renewal absent. Early-exit, quality and disclosure rules remain unshown."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-L022"
+              ],
+              "direct_row_ids": [
+                "COV-L022"
+              ],
+              "destination_reference_ids": [
+                "DEST-034",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "tama_parents",
+            "display_name": "Tama's unnamed parents",
+            "identity_kind": "group_member",
+            "literary_responsibility": "C",
+            "operation": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D23",
+              "exact_heading": "C-D23. Tama's unnamed parents — `tama_parents` (C)",
+              "heading_line_at_pinned_version": 311,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "tama_parents",
+              "display_name": "Tama's unnamed parents",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "tama_family",
+              "parent_group_account_not_individual_evidence": "Hospitality, teaching, quality control and attributed childhood/refusal accounts give the craft/family setting actual agents.",
+              "parent_group_negative_constraints": [
+                "Combined row is retained as a family group; do not distribute every action to each member.",
+                "Preserve anonymity; no total parenting style or forced succession."
+              ],
+              "row_ids": [
+                "COV-M086"
+              ],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-034",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "tama_grandfather",
+            "display_name": "Tama's unnamed grandfather",
+            "identity_kind": "group_member",
+            "literary_responsibility": "C",
+            "operation": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D24",
+              "exact_heading": "C-D24. Tama's unnamed grandfather — `tama_grandfather` (C)",
+              "heading_line_at_pinned_version": 323,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "tama_grandfather",
+              "display_name": "Tama's unnamed grandfather",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "tama_family",
+              "parent_group_account_not_individual_evidence": "Hospitality, teaching, quality control and attributed childhood/refusal accounts give the craft/family setting actual agents.",
+              "parent_group_negative_constraints": [
+                "Combined row is retained as a family group; do not distribute every action to each member.",
+                "Preserve anonymity; no total parenting style or forced succession."
+              ],
+              "row_ids": [
+                "COV-M086"
+              ],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-034",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "harry",
+            "display_name": "Harry",
+            "identity_kind": "group_member",
+            "literary_responsibility": "C",
+            "operation": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D25",
+              "exact_heading": "C-D25. Harry — `harry` (C)",
+              "heading_line_at_pinned_version": 335,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "harry",
+              "display_name": "Harry",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "harry_max",
+              "parent_group_account_not_individual_evidence": "Game hosts/participants supply a media/community and participation field, without comprehensive individual studies.",
+              "parent_group_negative_constraints": [
+                "C network; D independent psychological reconstruction.",
+                "Do not attribute each co-recorded act to both hosts or infer professional contracts."
+              ],
+              "row_ids": [
+                "COV-M091"
+              ],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-034",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "max",
+            "display_name": "Max",
+            "identity_kind": "group_member",
+            "literary_responsibility": "C",
+            "operation": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D26",
+              "exact_heading": "C-D26. Max — `max` (C)",
+              "heading_line_at_pinned_version": 347,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "max",
+              "display_name": "Max",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "harry_max",
+              "parent_group_account_not_individual_evidence": "Game hosts/participants supply a media/community and participation field, without comprehensive individual studies.",
+              "parent_group_negative_constraints": [
+                "C network; D independent psychological reconstruction.",
+                "Do not attribute each co-recorded act to both hosts or infer professional contracts."
+              ],
+              "row_ids": [
+                "COV-M091"
+              ],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-034",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "shoko",
+            "display_name": "Shoko / 翔子",
+            "identity_kind": "group_member",
+            "literary_responsibility": "C",
+            "operation": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D27",
+              "exact_heading": "C-D27. Shoko / 翔子 — `shoko` (C)",
+              "heading_line_at_pinned_version": 359,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "shoko",
+              "display_name": "Shoko / 翔子",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "rena_former_group",
+              "parent_group_account_not_individual_evidence": "Group exclusion and differing interests are represented within Rena's history; local acts remain attributable, not generic rejection by everyone.",
+              "parent_group_negative_constraints": [
+                "Shoko romanization routes to 翔子.",
+                "Group membership does not create independent biography or interchangeable motives."
+              ],
+              "row_ids": [
+                "COV-M092"
+              ],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "karen",
+            "display_name": "Karen",
+            "identity_kind": "group_member",
+            "literary_responsibility": "C",
+            "operation": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D28",
+              "exact_heading": "C-D28. Karen — `karen` (C)",
+              "heading_line_at_pinned_version": 371,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "karen",
+              "display_name": "Karen",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "rena_former_group",
+              "parent_group_account_not_individual_evidence": "Group exclusion and differing interests are represented within Rena's history; local acts remain attributable, not generic rejection by everyone.",
+              "parent_group_negative_constraints": [
+                "Shoko romanization routes to 翔子.",
+                "Group membership does not create independent biography or interchangeable motives."
+              ],
+              "row_ids": [
+                "COV-M092"
+              ],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "jimmy",
+            "display_name": "Jimmy",
+            "identity_kind": "group_member",
+            "literary_responsibility": "C",
+            "operation": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D29",
+              "exact_heading": "C-D29. Jimmy — `jimmy` (C)",
+              "heading_line_at_pinned_version": 383,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "jimmy",
+              "display_name": "Jimmy",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "rena_game_group",
+              "parent_group_account_not_individual_evidence": "Different partner/rival acts, voiced attached status and visibility-seeking form a bounded interaction system.",
+              "parent_group_negative_constraints": [
+                "C interaction system; D complete individual studies.",
+                "Not interchangeable consent witnesses; do not infer cross-scene alias equivalence."
+              ],
+              "row_ids": [
+                "COV-M093"
+              ],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "vanilla",
+            "display_name": "Vanilla",
+            "identity_kind": "group_member",
+            "literary_responsibility": "C",
+            "operation": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D30",
+              "exact_heading": "C-D30. Vanilla — `vanilla` (C)",
+              "heading_line_at_pinned_version": 395,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "vanilla",
+              "display_name": "Vanilla",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "rena_game_group",
+              "parent_group_account_not_individual_evidence": "Different partner/rival acts, voiced attached status and visibility-seeking form a bounded interaction system.",
+              "parent_group_negative_constraints": [
+                "C interaction system; D complete individual studies.",
+                "Not interchangeable consent witnesses; do not infer cross-scene alias equivalence."
+              ],
+              "row_ids": [
+                "COV-M093"
+              ],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "inumaru",
+            "display_name": "Inumaru",
+            "identity_kind": "group_member",
+            "literary_responsibility": "C",
+            "operation": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D31",
+              "exact_heading": "C-D31. Inumaru — `inumaru` (C)",
+              "heading_line_at_pinned_version": 407,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "inumaru",
+              "display_name": "Inumaru",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "rena_game_group",
+              "parent_group_account_not_individual_evidence": "Different partner/rival acts, voiced attached status and visibility-seeking form a bounded interaction system.",
+              "parent_group_negative_constraints": [
+                "C interaction system; D complete individual studies.",
+                "Not interchangeable consent witnesses; do not infer cross-scene alias equivalence."
+              ],
+              "row_ids": [
+                "COV-M093"
+              ],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "keisuke",
+            "display_name": "Keisuke",
+            "identity_kind": "group_member",
+            "literary_responsibility": "C",
+            "operation": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D32",
+              "exact_heading": "C-D32. Keisuke — `keisuke` (C)",
+              "heading_line_at_pinned_version": 419,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "keisuke",
+              "display_name": "Keisuke",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "rena_older_contacts",
+              "parent_group_account_not_individual_evidence": "Older contacts become an alternate social field after school withdrawal; preserve local recipient acts with Rena's access and story clock.",
+              "parent_group_negative_constraints": [
+                "C network; D complete individual inner lives.",
+                "No blanket motives, all-person equivalence or unproved alias merger."
+              ],
+              "row_ids": [],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "makoto",
+            "display_name": "Makoto",
+            "identity_kind": "group_member",
+            "literary_responsibility": "C",
+            "operation": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D33",
+              "exact_heading": "C-D33. Makoto — `makoto` (C)",
+              "heading_line_at_pinned_version": 431,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "makoto",
+              "display_name": "Makoto",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "rena_older_contacts",
+              "parent_group_account_not_individual_evidence": "Older contacts become an alternate social field after school withdrawal; preserve local recipient acts with Rena's access and story clock.",
+              "parent_group_negative_constraints": [
+                "C network; D complete individual inner lives.",
+                "No blanket motives, all-person equivalence or unproved alias merger."
+              ],
+              "row_ids": [],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "yosuke",
+            "display_name": "Yosuke",
+            "identity_kind": "group_member",
+            "literary_responsibility": "C",
+            "operation": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D34",
+              "exact_heading": "C-D34. Yosuke — `yosuke` (C)",
+              "heading_line_at_pinned_version": 443,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "yosuke",
+              "display_name": "Yosuke",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "rena_older_contacts",
+              "parent_group_account_not_individual_evidence": "Older contacts become an alternate social field after school withdrawal; preserve local recipient acts with Rena's access and story clock.",
+              "parent_group_negative_constraints": [
+                "C network; D complete individual inner lives.",
+                "No blanket motives, all-person equivalence or unproved alias merger."
+              ],
+              "row_ids": [],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "yamaken",
+            "display_name": "Yamaken",
+            "identity_kind": "group_member",
+            "literary_responsibility": "C",
+            "operation": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D35",
+              "exact_heading": "C-D35. Yamaken — `yamaken` (C)",
+              "heading_line_at_pinned_version": 455,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "yamaken",
+              "display_name": "Yamaken",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "rena_older_contacts",
+              "parent_group_account_not_individual_evidence": "Older contacts become an alternate social field after school withdrawal; preserve local recipient acts with Rena's access and story clock.",
+              "parent_group_negative_constraints": [
+                "C network; D complete individual inner lives.",
+                "No blanket motives, all-person equivalence or unproved alias merger."
+              ],
+              "row_ids": [],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "konno_group_yumi",
+            "display_name": "Yumi (Konno-group given name; surname link unverified)",
+            "identity_kind": "context_identity",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D36",
+              "exact_heading": "C-D36. Yumi (Konno-group given name; surname link unverified) — `konno_group_yumi` (C)",
+              "heading_line_at_pinned_version": 467,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "konno_group_yumi",
+              "display_name": "Yumi (Konno-group given name; surname link unverified)",
+              "identity_kind": "context_identity",
+              "accepted_responsibility": "C",
+              "substantive_account": "A named group-role reference in early findings requires separate retrieval until an exact source identity bridge is verified.",
+              "negative_constraints": [
+                "Do not equate with Akiyama from familiarity.",
+                "Not Yamashita Yumiko or adult bar Yumiko-san.",
+                "No invented dedicated matrix row or independent psychology."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-019",
+                "DEST-023"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "kikuchi_mother",
+            "display_name": "Kikuchi's unnamed mother",
+            "identity_kind": "context_identity",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D37",
+              "exact_heading": "C-D37. Kikuchi's unnamed mother — `kikuchi_mother` (C)",
+              "heading_line_at_pinned_version": 479,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "kikuchi_mother",
+              "display_name": "Kikuchi's unnamed mother",
+              "identity_kind": "context_identity",
+              "accepted_responsibility": "C",
+              "substantive_account": "Middle findings describe household action alongside Riku; preserve a bounded family responsibility without inventing an additional audited source row.",
+              "negative_constraints": [
+                "Preserve source anonymity.",
+                "No complete parenting model, independent psyche or fabricated member-specific evidence."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-033",
+                "DEST-019",
+                "DEST-003",
+                "DEST-026"
+              ],
+              "explicit_R10_qualification": [
+                {
+                  "identity_id": "kikuchi_mother",
+                  "section": "C-D37",
+                  "disposition": "STRENGTHEN actual maternal speech/serving context and uneven household information; preserve original p0033 reported-disclosure boundary",
+                  "source_routes": [
+                    "V08.5 text/part0033.html P12–30",
+                    "V08.5 text/part0035.html P6–13",
+                    "V08.5 text/part0037.html P31–38/P59–66"
+                  ],
+                  "new_original_row": false
+                }
+              ],
+              "source_routes": []
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          },
+          {
+            "identity_id": "kikuchi_father",
+            "display_name": "Kikuchi's unnamed father",
+            "identity_kind": "context_identity",
+            "literary_responsibility": "C",
+            "operation": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "canonical_evidence": {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "section": "C-D39",
+              "exact_heading": "C-D39. Kikuchi's unnamed father — `kikuchi_father` (C)",
+              "heading_line_at_pinned_version": 591,
+              "version": {
+                "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+                "bytes": 86524,
+                "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+              }
+            },
+            "available_account_and_constraints": {
+              "identity_id": "kikuchi_father",
+              "display_name": "Kikuchi's unnamed father",
+              "identity_kind": "context_identity",
+              "accepted_responsibility": "C",
+              "substantive_account": "R10 father addendum: work return, missed-play question, deferred script reading and family secrecy context.",
+              "negative_constraints": [
+                "No invented source-anonymous name or occupation/income.",
+                "Fuka’s expected annual timing is not newly verified every-year conduct.",
+                "Script reading is intended and deferred, not completed or guaranteed.",
+                "Surprised questions do not establish total opposition, complete knowledge, a diagnosis or a universal parenting policy."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [],
+              "direct_row_ids": [],
+              "destination_reference_ids": [],
+              "explicit_R10_qualification": [],
+              "source_routes": [
+                "V08.5 text/part0035.html P13",
+                "V08.5 text/part0037.html P31–38/P59–66"
+              ]
+            },
+            "request_order": [
+              "resolve exact identity",
+              "select finite era/recipient/access",
+              "retrieve this exact section; where co-recorded also retrieve parent group with non-distribution",
+              "return actual attributed evidence separately from unknown fields"
+            ],
+            "output_scope": "source-bound retrieval card; no independent persona or new autonomous behavior",
+            "independent_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "later_exception": "Separate evidence-backed domain admission may be proposed; present C/D classification is not a universal ban."
+          }
+        ],
+        "identity_ambiguity_policy": "Yoko/Yumi/Yumiko and unqualified roles require clarification; no automatic identity mergers. Source-anonymous roles remain anonymous.",
+        "common_negative_constraints": [
+          "No invented source row/claim/actor/transcript or full inner life.",
+          "No new erotic/sexualized persona enactment; school and adult Rena contexts distinct, retrieval non-graphic.",
+          "Unknown/unrepresented witness pairs are not absence. Original250rows/47nodes/62assembly and current63scope remain distinct.",
+          "No complete voice, predictive accuracy, global grade or terminal closure.",
+          "No new publication/consent rights inferred from benefit, custody, group membership or later result."
+        ],
+        "review_state": "PENDING_INDEPENDENT_REVIEW_AND_ROOT_ACCEPTANCE"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1172 @@
+{
+  "schema": "tomozaki_R10_complete_convergence_evidence/v1",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "intended_canonical_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_R10_CONVERGENCE_EVIDENCE_AND_REVIEW_MANIFEST.json",
+  "scope": "Complete original cross-specialist and character adversarial arguments, source/read/debt/conditions/registers, independent component reviews, exact current propagation and canonical/live rebind evidence. Root separately owns aggregate convergence decision and human audit.",
+  "source_boundary": "All fourteen admitted Japanese witnesses V01–V12 with separately routed V06.5/V08.5 and V07 Special Edition layers. No new source admitted.",
+  "gate_separation": {
+    "cross_specialist_component": "PASS per actual independent root review; original audit remains historical.",
+    "eight_canonical_specialist_rebind": "PASS per actual independent root acceptance.",
+    "character_four_conditions": "LOCAL_COMPONENT_PASS per attributable qualification closure; final producer seal BOUND",
+    "aggregate_R10": "NOT_PASSED_BY_THIS_EVIDENCE_PREPARATION",
+    "R11_drafting": "ONLY_AFTER_ROOT_AGGREGATE_R10_OPENS; no revised synthesis supplied here.",
+    "release_models_publication_main_terminal": "SEPARATE_PENDING"
+  },
+  "embedding_contract": {
+    "complete_material_records": "Full arguments and human audit/handoff/debt/diff texts plus complete pertinent parsed source/read/condition/review/register/preservation/currentness/rebind records are retained, not reduced to a count table.",
+    "historical_stage": "Original draft, conditional, pending, source-OPEN and authority labels describe their exact dated generations. Later acceptance and closure are separate attributable records, never silent rewrites.",
+    "raw_vs_parsed": "Raw original byte counts/SHA256 identify the actual original encoding/newlines. Parsed-original and projected-value hashes use strict UTF-8 sorted compact JSON. No claim equates these three identities.",
+    "excluded_content": "No helper source code, primary prose dumps, EPUB, media, full literary beforeimages or duplicate184specialist records. Helpers and separately canonical literary/evidence artifacts are identities only.",
+    "actual_packaging_read_scope": "Complete character120line audit,1165line source/read/debt receipt,61line family proposal,full findings/handoff, final3824Bcharacter review,6443Bfinal source/read/debt,4488Bclosure and all pertinent root component/currentness acceptance frames freshly acquired. Own original467line audit/full case and earlier specialist reads reused at their actual scopes. Other full records are mechanically loaded/hashed and retained, not all claimed as fresh semantic rereads.",
+    "new_primary_calls": 0,
+    "new_pixels": 0
+  },
+  "source_accounting_warning": "Preserve actor/packet/window scopes; author5calls154P, character reviewer6calls190P and root personal source receipts are overlapping evidence, not additive independent corpus coverage. Metadata identity/count/bounds replay is not primary prose reading. No fresh14bookcensus or exhaustive appearance/absence claim.",
+  "helper_identities_only": [
+    {
+      "path": ".scratch/convergence_specialist_audit_governance/author_collision_register.py",
+      "bytes": 30074,
+      "sha256": "a25650b9eefcf60b03c19def6f90b7b933b52481fc97916e4c5dcca319013b46"
+    },
+    {
+      "path": ".scratch/convergence_specialist_audit_governance/read_audit.py",
+      "bytes": 585,
+      "sha256": "32a616145abac20781a1b1b631a7e0f872b979bb70b48da9ab399ea2ad3d3776"
+    },
+    {
+      "path": ".scratch/convergence_specialist_audit_governance/read_input.py",
+      "bytes": 843,
+      "sha256": "07493eccd7c328e819fa32106c72259e63cccceefb68008245cd9dd664ce69e5"
+    },
+    {
+      "path": ".scratch/convergence_specialist_audit_governance/render_audit.py",
+      "bytes": 10598,
+      "sha256": "e4bc02c16e8da9dd7eb224fc9f25320fcd42911c3364c13aae7bb5ebbf0d08f5"
+    },
+    {
+      "path": ".scratch/convergence_specialist_audit_governance/replay_sources.py",
+      "bytes": 4332,
+      "sha256": "eb2eb05d18ae482a64afd28222e991d6f038079f900780e80250f4c44eca520a"
+    },
+    {
+      "path": ".scratch/convergence_specialist_audit_governance/review_new_content.py",
+      "bytes": 996,
+      "sha256": "300a284a7cb21b7c207df74a5e61c737f00f7bb8f8689f8f551ee704e797f601"
+    },
+    {
+      "path": ".scratch/convergence_specialist_audit_governance/seal_manifest.py",
+      "bytes": 4892,
+      "sha256": "cef2d5c303a6053f6bd82d91ce8dc28995ee2179f2dde7cb373be7fc100a48b1"
+    },
+    {
+      "path": ".scratch/convergence_specialist_audit_governance/seal_receipts.py",
+      "bytes": 9221,
+      "sha256": "d80a8d7de517b3dd7ba43be1e7059ca945640e549e6cb220b37abd928cdac6e2"
+    },
+    {
+      "path": ".scratch/convergence_specialist_audit_governance/source_reader.py",
+      "bytes": 4996,
+      "sha256": "63feb2d8cb0cdcaa81c76fb18d5de966a6297f1e5a8ae7a78b20e894d7a9ca5a"
+    },
+    {
+      "path": ".scratch/convergence_character_audit_early/audit_reader.py",
+      "bytes": 4900,
+      "sha256": "2cab487eaac1e09d839535d11b8691de43380c6eac7ed7ee7aed7c6347f0910f"
+    },
+    {
+      "path": ".scratch/convergence_character_audit_early/audit_replay.py",
+      "bytes": 5869,
+      "sha256": "ed7c374dd519192e13902ea88d14424991b562d261d1f1250a1ac4a80a85e15e"
+    },
+    {
+      "path": ".scratch/convergence_character_audit_early/build_targeted_derivatives.py",
+      "bytes": 17868,
+      "sha256": "1627de1d6ad8a7e077e7e581f5c7acf289995ad6e46cab048dd60f3cb60d2954"
+    },
+    {
+      "path": ".scratch/convergence_character_audit_early/verify_derivatives.py",
+      "bytes": 5306,
+      "sha256": "cdd803682b2c653553736871337d22901883ef6938d8db4c0f8bd0ea4f50dedd"
+    },
+    {
+      "path": ".scratch/convergence_character_audit_early/current_propagation/build_current_propagation.py",
+      "bytes": 20039,
+      "sha256": "156dde04fc82a0720ba21af0e947ef43e40b645b6f84b386d9e354dfce115935"
+    },
+    {
+      "path": ".scratch/convergence_character_audit_early/current_propagation/propagation_reader.py",
+      "bytes": 4900,
+      "sha256": "2cab487eaac1e09d839535d11b8691de43380c6eac7ed7ee7aed7c6347f0910f"
+    },
+    {
+      "path": ".scratch/convergence_character_audit_early/current_propagation/verify_current_propagation.py",
+      "bytes": 5385,
+      "sha256": "70fa686a8e78d8b6495ce5d26bafee49210407b15dfec4822d3b74e94f32421f"
+    },
+    {
+      "path": ".scratch/convergence_specialist_audit_governance/canonical_rebind/replay_canonical_rebind.py",
+      "bytes": 16937,
+      "sha256": "268c46cb399bdb7027224820a568d04ce7b1bd11361cdafaf9acd3ea7d10c469"
+    },
+    {
+      "path": ".scratch/convergence_character_audit_early/live_rebind/rebind_reader.py",
+      "bytes": 4900,
+      "sha256": "2cab487eaac1e09d839535d11b8691de43380c6eac7ed7ee7aed7c6347f0910f"
+    },
+    {
+      "path": ".scratch/convergence_character_audit_early/live_rebind/verify_live_rebind.py",
+      "bytes": 11496,
+      "sha256": "3f3d4f499a3d50a8471d7b3fc175c640f455a3e1af15d163f374c84a6bdba3c0"
+    },
+    {
+      "path": ".scratch/convergence_character_audit_early/live_rebind/verify_manifest_rebind.py",
+      "bytes": 6512,
+      "sha256": "dca8baf2117fb1a894a1099410ee6d6e30ef9fcb9be48deaef3bed438b492ec9"
+    },
+    {
+      "path": ".scratch/convergence_integration_preparation_governance/build_evidence_packet.py",
+      "bytes": 16599,
+      "sha256": "f84e077a67ee05c641c179a0e0352db9b5a29e94c0e17c690b7c9c334800f84e"
+    }
+  ],
+  "external_canonical_evidence_references": [
+    {
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_AND_REVIEW_MANIFEST.json",
+      "identity": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_AND_REVIEW_MANIFEST.json",
+        "bytes": 161755,
+        "sha256": "f1793a9ee849e887afc8eb6c064df0a4d4fca937c924e8c8fd96d37af170223f"
+      },
+      "scope": "Verified current byte identity; existing complete evidence remains in this canonical artifact, not duplicated into this packet. Historical intake and gate statements inside retain their acceptance-time scopes."
+    },
+    {
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_SHARD_VALIDATION.json",
+      "identity": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_SHARD_VALIDATION.json",
+        "bytes": 41620,
+        "sha256": "5946afb87396d32331864627653872f05be0942497c55c9fbc55716dbee16535"
+      },
+      "scope": "Verified current byte identity; existing complete evidence remains in this canonical artifact, not duplicated into this packet. Historical intake and gate statements inside retain their acceptance-time scopes."
+    },
+    {
+      "relative_path": "TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json",
+      "identity": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json",
+        "bytes": 589904,
+        "sha256": "a7655e57778982845808a8ddc69c1a89e560ecec5c63b56e55e5965ae0278bba"
+      },
+      "scope": "Verified current byte identity; existing complete evidence remains in this canonical artifact, not duplicated into this packet. Historical intake and gate statements inside retain their acceptance-time scopes."
+    },
+    {
+      "relative_path": "TOMOZAKI_PRIMARY_RELATIONSHIP_EVIDENCE_AND_REVIEW_MANIFEST.json",
+      "identity": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRIMARY_RELATIONSHIP_EVIDENCE_AND_REVIEW_MANIFEST.json",
+        "bytes": 281705,
+        "sha256": "33789d4aead03448055f833d6806bae1b2c9ea2153cdb7381042761f9417e9a4"
+      },
+      "scope": "Verified current byte identity; existing complete evidence remains in this canonical artifact, not duplicated into this packet. Historical intake and gate statements inside retain their acceptance-time scopes."
+    },
+    {
+      "relative_path": "TOMOZAKI_V12_CHARACTER_PATH_AND_VALIDATION_MANIFEST.json",
+      "identity": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_CHARACTER_PATH_AND_VALIDATION_MANIFEST.json",
+        "bytes": 22925,
+        "sha256": "5c74066263368ef2ec4ed782163f5ed0d1608d5c2c23074d422868f9a5b4b11a"
+      },
+      "scope": "Verified current byte identity; existing complete evidence remains in this canonical artifact, not duplicated into this packet. Historical intake and gate statements inside retain their acceptance-time scopes."
+    },
+    {
+      "relative_path": "TOMOZAKI_SUPPORTING_AND_RELATIONSHIP_PATH_AND_VALIDATION_MANIFEST.json",
+      "identity": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_AND_RELATIONSHIP_PATH_AND_VALIDATION_MANIFEST.json",
+        "bytes": 172374,
+        "sha256": "b35ac02bccb6582eb9053a1938505086401a71b81548b9a170c744e1b9a82247"
+      },
+      "scope": "Verified current byte identity; existing complete evidence remains in this canonical artifact, not duplicated into this packet. Historical intake and gate statements inside retain their acceptance-time scopes."
+    },
+    {
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "identity": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+        "bytes": 679781,
+        "sha256": "b56c9ecbc9fb523e8888d122c18a122493c3194d9bf2e4f2f41d8f66745d241a"
+      },
+      "scope": "Existing specialist evidence shard, referenced by exact live identity only; its records are not duplicated."
+    },
+    {
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "identity": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+        "bytes": 640342,
+        "sha256": "853d35072e8d4abda31233a06144807d2b88d7cf7b6a6690d4c28bd296fd7a1e"
+      },
+      "scope": "Existing specialist evidence shard, referenced by exact live identity only; its records are not duplicated."
+    },
+    {
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "identity": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+        "bytes": 672885,
+        "sha256": "cbe174016393d61c9004517bb3a75a5b49a38ac643e684cff0a0f8e9bc466325"
+      },
+      "scope": "Existing specialist evidence shard, referenced by exact live identity only; its records are not duplicated."
+    },
+    {
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "identity": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+        "bytes": 316639,
+        "sha256": "584fefd46fb3521a013971ca0021185e6999130c5c9c5a048fdaad8318046ff6"
+      },
+      "scope": "Existing specialist evidence shard, referenced by exact live identity only; its records are not duplicated."
+    }
+  ],
+  "current_installed_literary_and_control_identities": [
+    {
+      "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+      "bytes": 63230,
+      "sha256": "ac071e28474bf28abb3116e6d748683643f6e6f1b9f8d39dc2cc7ec850eefbf2"
+    },
+    {
+      "path": "series/tomozaki/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "bytes": 60703,
+      "sha256": "c5ab791ee90fc547db468ac3c372c9c61afda6233d233d13cd63d5d4d9da1d67"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md",
+      "bytes": 43597,
+      "sha256": "836f95f83f0cea8fc1059236c1a2470aaec760cad3e51d4f182c84451ae7ee14"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/README.md",
+      "bytes": 8806,
+      "sha256": "0be4654b10e0ad2751b3e4262bf2a6f37acdb2009e8abded84303778a5a09632"
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/README.md",
+      "bytes": 4548,
+      "sha256": "eb459b801ac4bd2b6c240177545c26591fe50c62077f3f8d9a0d533707ceb222"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_FULL_CORPUS_CHARACTER_COVERAGE_AND_SCOPE_AUDIT.md",
+      "bytes": 25557,
+      "sha256": "f1f52b4123f7fb0c1526237c958e121c2abe9320d8a2374b71168e65e580556a"
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+      "bytes": 86524,
+      "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_CHARACTER_EVIDENCE_COVERAGE_MATRIX.json",
+      "bytes": 768421,
+      "sha256": "39d2f81031a5d4068ca9a50e96496ba75327863e4dbad2650ce525b139d74918"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_CHARACTER_SCOPE_REVIEW_DATA.json",
+      "bytes": 242269,
+      "sha256": "1acd20b824dd76d5fe7d36a35a37ecf5c498aa2568c3f81a26a63817a1e0da20"
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md",
+      "bytes": 129891,
+      "sha256": "265b6ae9c61dad6896061ea29176277f0dc1276f2c51b4ea39285845c6c5c68b"
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md",
+      "bytes": 159022,
+      "sha256": "840137353f0a5858f4f3e96ad37762ad876c0508ec32b23b825d6045527263cd"
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_ENSEMBLE_AND_PEER_NETWORK_SYNTHESIS.md",
+      "bytes": 111959,
+      "sha256": "93e03734e1cee01edc1ad0e9c3e8adbd42a26b418b64cb84854614e4a1608453"
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_GAME_FORM_AND_SELF_AUTHORSHIP_SYNTHESIS.md",
+      "bytes": 45974,
+      "sha256": "a0f03a010b470ff5750250a8b4d2fb01d3e9b859baf19278f1cb637dd0f0d890"
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_EFFORT_MASTERY_AND_GOAL_OWNERSHIP_SYNTHESIS.md",
+      "bytes": 47863,
+      "sha256": "d98c0cd02b8511bc9e334eb847199423a562960f636f54174aa83a17bdfd064d"
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_SYNTHESIS.md",
+      "bytes": 90379,
+      "sha256": "c7872d6714aee5a1f4cac79e37ab82fc97237ed0f5123a823af7b093c100260e"
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_CONTROL_CAUSALITY_AND_MEANING_SYNTHESIS.md",
+      "bytes": 46375,
+      "sha256": "788a8ae1f3575b731860f715697e454598196ce29507177b0135a93beccd5a11"
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_ROMANCE_CARE_DISCLOSURE_AND_INTERVENTION_SYNTHESIS.md",
+      "bytes": 55531,
+      "sha256": "62e3e2caf99ba0710c0c31f5080cf88dfb04d75bd9e8348f2ff2b5771825c1c3"
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_AUTHORSHIP_FICTION_OBSERVATION_AND_PERSONHOOD_SYNTHESIS.md",
+      "bytes": 52180,
+      "sha256": "607e1ebe1c4ae780ade9429cb9b5a17ab55a904805ddaa3aacc52fc1015144ff"
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md",
+      "bytes": 72543,
+      "sha256": "897cb97ad9694c153a96246e353896e581a4e7b5c3824b774cde77992a2d87b8"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json",
+      "bytes": 589904,
+      "sha256": "a7655e57778982845808a8ddc69c1a89e560ecec5c63b56e55e5965ae0278bba"
+    }
+  ],
+  "portable_prefix_projection": {
+    "tokens": {
+      "@REPOSITORY_ROOT@": "Verified Tomozaki checkout root",
+      "@SOURCE_LOCK_ROOT@": "Verified locked Japanese EPUB directory",
+      "@RUNTIME_PYTHON_EXECUTABLE@": "The verified local Python executable used by an original administrative replay command. This runtime locator is not source evidence, a required installed executable path or a newly executed command."
+    },
+    "scope": "Declared verified checkout/source-root prefix projection plus the one explicitly authorized runtime-executable prefix projection. No arbitrary paths, command arguments, source semantics or nonstring evidence values are transformed.",
+    "changed_string_field_count": 2,
+    "observed_verified_prefix_variant_count": 2,
+    "raw_hashes_unchanged": true,
+    "private_full_projection_proof": "_PRIVATE_PREFIX_PROJECTION_PROOF.json, scratch only; never canonical evidence."
+  },
+  "publication": "Installed current evidence packet in authored worktree; exact staged/commit validation, publication and main integration remain separate.",
+  "record_storage": {
+    "logical_field": "records",
+    "record_count": 71,
+    "record_array_canonical_json_sha256": "b380cc760c7da10d4a869e530fece0e66f4b8c5335e4e677cc566bc9758fdbbf",
+    "logical_top_level_key_order": [
+      "schema",
+      "status",
+      "supersedes",
+      "superseded_by",
+      "repository_authority",
+      "do_not_use_as_current_authority",
+      "intended_canonical_path",
+      "scope",
+      "source_boundary",
+      "gate_separation",
+      "embedding_contract",
+      "source_accounting_warning",
+      "records",
+      "helper_identities_only",
+      "external_canonical_evidence_references",
+      "current_installed_literary_and_control_identities",
+      "portable_prefix_projection",
+      "publication",
+      "release_state",
+      "root_adoption",
+      "post_acceptance_publication_projection"
+    ],
+    "logical_packet_utf8_bytes": 1613869,
+    "logical_packet_utf8_sha256": "3fd00b8a37591a331d6febd9da4c7c6e0265d86d6b4a2d36053affe759d4123c",
+    "physical_shard_count": 3,
+    "strict_public_object_ceiling_bytes_exclusive": 700000,
+    "target_shard_ceiling_bytes_exclusive": 650000,
+    "reconstruction": "Verify current exact shard identities/ordinals/array hashes; concatenate71records and verify catalogue pointers/global array hash. Rebuild logical_top_level_key_order with records from concatenation and other keys from current router; serialize ensure_ascii=False indent2 strictUTF8/noBOM/one terminalLF. This reconstructs the current tokenized packet only. Earlier unredacted raw roundtrip results retain historical scope under post_acceptance_publication_projection.",
+    "historical_scratch_links": "source_record .scratch paths and helper identities identify original generations; portable complete values are embedded. They are not new live dependencies. External canonical evidence joins use verified same-directory relative filenames."
+  },
+  "record_shards": [
+    {
+      "shard_id": "R10-SHARD-001",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "bytes": 629850,
+      "sha256": "fd4338c77cfc5fc40ecd23448ef32458a064295f49079c7194c97c33e56c9349",
+      "first_global_record_ordinal_1based": 1,
+      "last_global_record_ordinal_1based": 21,
+      "record_count": 21,
+      "record_array_canonical_json_sha256": "600d5f18dcd4499b845d8c6daed886b2567dc945d9f1a4241f6182f157e27030"
+    },
+    {
+      "shard_id": "R10-SHARD-002",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "bytes": 488873,
+      "sha256": "f4f0941660530f4819479873b02654a7bfa43a49944a6f33493a73bb6c930654",
+      "first_global_record_ordinal_1based": 22,
+      "last_global_record_ordinal_1based": 54,
+      "record_count": 33,
+      "record_array_canonical_json_sha256": "fd30e9ccdc8e11838908b5d116b58f1793fa6ac01c737c6573f8b0b8c568346e"
+    },
+    {
+      "shard_id": "R10-SHARD-003",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_003.json",
+      "bytes": 471174,
+      "sha256": "006035c1009f012f22e671d89e21ef8a184c411666a5051edc680b4b713424db",
+      "first_global_record_ordinal_1based": 55,
+      "last_global_record_ordinal_1based": 71,
+      "record_count": 17,
+      "record_array_canonical_json_sha256": "e31332e2db2080c5db5935062dcc363b4902e1151f45454cea2eca8e4e322bb2"
+    }
+  ],
+  "record_catalogue": [
+    {
+      "record_id": "R10R-0001",
+      "packet": "R10_CROSS_SPECIALIST_ORIGINAL",
+      "source_path": ".scratch/convergence_specialist_audit_governance/CROSS_SPECIALIST_CLAIM_AND_LOCATOR_AUDIT.md",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/0",
+      "raw_original_bytes_sha256": "3896c44031d8bfb8e81bf9fb6807dc02faa8b5c8d8fde1dc35640edbb1d29791",
+      "projected_value_canonical_json_sha256": "0a723bc67d7488b45fddb48cc767fcbbd376f10a8568713fff72aa3a8e0b803e"
+    },
+    {
+      "record_id": "R10R-0002",
+      "packet": "R10_CROSS_SPECIALIST_ORIGINAL",
+      "source_path": ".scratch/convergence_specialist_audit_governance/HANDOFF.md",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/1",
+      "raw_original_bytes_sha256": "616bc0a2e7bf9ff4a4b10e3d6df4706a7d04e0fd833453dbaf6f97fca0fd0c7e",
+      "projected_value_canonical_json_sha256": "8deeb0aa4eaa40220b3219905e045951fd3df8a88c24cd35475d052f4bf2e809"
+    },
+    {
+      "record_id": "R10R-0003",
+      "packet": "R10_CROSS_SPECIALIST_ORIGINAL",
+      "source_path": ".scratch/convergence_specialist_audit_governance/DEBTS_AND_ABSTENTIONS.md",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/2",
+      "raw_original_bytes_sha256": "7e47bda277a125109ab52ff3163021036d809bac3a2d8ba95c38f3f70414b9db",
+      "projected_value_canonical_json_sha256": "efcebb0c12b57e5188ca7959fdd68126a5508c6a470d11024ead65344ff856e5"
+    },
+    {
+      "record_id": "R10R-0004",
+      "packet": "R10_CROSS_SPECIALIST_ORIGINAL",
+      "source_path": ".scratch/convergence_specialist_audit_governance/source_and_actual_read_receipt.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/3",
+      "raw_original_bytes_sha256": "758ffb1c607d5e5e9952840293745606e85d1696fa5b30b56173bb21744d7777",
+      "projected_value_canonical_json_sha256": "ab663265eb20643742f4aa77869a2e1ab0d8cc7cc66863d395b6a0e8787af5d4"
+    },
+    {
+      "record_id": "R10R-0005",
+      "packet": "R10_CROSS_SPECIALIST_ORIGINAL",
+      "source_path": ".scratch/convergence_specialist_audit_governance/input_manifest.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/4",
+      "raw_original_bytes_sha256": "bb683ec0b5212aff7cf659f3f0dd9e428d0f84ed16e29a888ec4dc52a5437df4",
+      "projected_value_canonical_json_sha256": "0b94f4883e5b6727f14367eb7c30af40b978976562775241b24d9149d728a97e"
+    },
+    {
+      "record_id": "R10R-0006",
+      "packet": "R10_CROSS_SPECIALIST_ORIGINAL",
+      "source_path": ".scratch/convergence_specialist_audit_governance/exact_shared_claim_route_register.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/5",
+      "raw_original_bytes_sha256": "d759a40cc0d948f9dfcc12efb8fa98a028e0ba950cdc777fc4b91e21f0d28032",
+      "projected_value_canonical_json_sha256": "c0b022a7b0ab7ebb2943d9fef7b8962fe8a96674899e0e7bc310a5009e143f3d"
+    },
+    {
+      "record_id": "R10R-0007",
+      "packet": "R10_CROSS_SPECIALIST_ORIGINAL",
+      "source_path": ".scratch/convergence_specialist_audit_governance/collision_register.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/6",
+      "raw_original_bytes_sha256": "eb2086bf6f3ae7f1c691e5723146aa40ae1c764c1e34917e2c47b3892c799aaa",
+      "projected_value_canonical_json_sha256": "e3f899e791495b6272214e4c27de35b6748ba5e8fb9c3a2f49c7c05555ab0608"
+    },
+    {
+      "record_id": "R10R-0008",
+      "packet": "R10_CROSS_SPECIALIST_ORIGINAL",
+      "source_path": ".scratch/convergence_specialist_audit_governance/material_source_metadata_replay.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/7",
+      "raw_original_bytes_sha256": "dd60154d64bb2577fd7de9a07239116f1f0a26d25edff54c3549b626b4151151",
+      "projected_value_canonical_json_sha256": "f6835d038944e5041c8da1d068b980cc5a1e6d729a3aafd4f98b0b2c7f50a29f"
+    },
+    {
+      "record_id": "R10R-0009",
+      "packet": "R10_CROSS_SPECIALIST_ORIGINAL",
+      "source_path": ".scratch/convergence_specialist_audit_governance/stable_owner_reference_replay.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/8",
+      "raw_original_bytes_sha256": "d28117d7760900d93c148daedad01d0fdd2089f41e136d04d9af694c84a0c891",
+      "projected_value_canonical_json_sha256": "b7413c92cb65c633d472a84f29e134be1b2b177c2346bb66788336ae7b859079"
+    },
+    {
+      "record_id": "R10R-0010",
+      "packet": "R10_CROSS_SPECIALIST_ORIGINAL",
+      "source_path": ".scratch/convergence_specialist_audit_governance/author_validation_receipt.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/9",
+      "raw_original_bytes_sha256": "57db2ab2ffd07fa9e5d4504895c8c08f62dc4c51e92e3fa35d69aa5238dbf93b",
+      "projected_value_canonical_json_sha256": "7a73c343e7510d94f3855c7ec57bee452a2d8fe4e83e01ab7abe2e68ff8177ac"
+    },
+    {
+      "record_id": "R10R-0011",
+      "packet": "R10_CROSS_SPECIALIST_ORIGINAL",
+      "source_path": ".scratch/convergence_specialist_audit_governance/readback_fix_plan.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/10",
+      "raw_original_bytes_sha256": "c6858184a7f3fc357dbfb220bbe1523b9f97d7d9bf1d7b2df03e4c9ce6aa64dc",
+      "projected_value_canonical_json_sha256": "d174fcfebf585c81e052e2b641a762cf05fd60bad1ed5013e0883e0cb25b2056"
+    },
+    {
+      "record_id": "R10R-0012",
+      "packet": "R10_CROSS_SPECIALIST_ORIGINAL",
+      "source_path": ".scratch/convergence_specialist_audit_governance/author_readback_fixes.diff",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/11",
+      "raw_original_bytes_sha256": "c1e638b487812b84d67ae42e72332d44f45ddbdd7c86050aa9077eaab3f4f7a4",
+      "projected_value_canonical_json_sha256": "8471bd8655c05572a8b24ebbe11bbe86b5a5fa0705f56ee496217dac2ffaef25"
+    },
+    {
+      "record_id": "R10R-0013",
+      "packet": "R10_CROSS_SPECIALIST_ORIGINAL",
+      "source_path": ".scratch/convergence_specialist_audit_governance/handoff_manifest.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/12",
+      "raw_original_bytes_sha256": "8d0df652127eb1fd8f1154d331431542b08ef56d8e211abca7d78c2b0ca0d0b9",
+      "projected_value_canonical_json_sha256": "48966748b404117572d51377f5623d52b47d0bb68e4827c2d13b6941e45772f3"
+    },
+    {
+      "record_id": "R10R-0014",
+      "packet": "R10_CHARACTER_ORIGINAL",
+      "source_path": ".scratch/convergence_character_audit_early/CHARACTER_LEDGER_AND_SECONDARY_OMISSION_ADVERSARIAL_AUDIT.md",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/13",
+      "raw_original_bytes_sha256": "093169bd13102be62fb0447cdf492eda9ef908ef1c79a5d649d0aa803b183719",
+      "projected_value_canonical_json_sha256": "28dfe6b10eae464d805dd11f70c86bc57ca0c4f7bc873103052baeb72530d201"
+    },
+    {
+      "record_id": "R10R-0015",
+      "packet": "R10_CHARACTER_ORIGINAL",
+      "source_path": ".scratch/convergence_character_audit_early/KIKUCHI_FAMILY_TARGETED_ADDENDUM_PROPOSAL.md",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/14",
+      "raw_original_bytes_sha256": "50c4b7c9cef11be6472feb22c905c570c7af3f7c47d41ad74c942b85db7fca5e",
+      "projected_value_canonical_json_sha256": "875d8c459ec756fbf42e1ae4142c649e655d607f5b4021d6cc922b7ec9864c96"
+    },
+    {
+      "record_id": "R10R-0016",
+      "packet": "R10_CHARACTER_ORIGINAL",
+      "source_path": ".scratch/convergence_character_audit_early/HANDOFF.md",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/15",
+      "raw_original_bytes_sha256": "0c1677b535a4e73380d536b612a2ac961ef2decd419223751d28d4579300ea33",
+      "projected_value_canonical_json_sha256": "acf0d85c4f85380bb309da2eb36f4346d29e4343522dbda01f8256618d661d44"
+    },
+    {
+      "record_id": "R10R-0017",
+      "packet": "R10_CHARACTER_ORIGINAL",
+      "source_path": ".scratch/convergence_character_audit_early/READ_SOURCE_AND_DEBT_RECEIPT.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/16",
+      "raw_original_bytes_sha256": "4ba87089fc595a84ab75af590fa5c9e68aa05f4f83aa56de0ac545571067c1ff",
+      "projected_value_canonical_json_sha256": "306c1302c838ab3db5acbd2985a59771b04e136f584253f04f733fe211571da8"
+    },
+    {
+      "record_id": "R10R-0018",
+      "packet": "R10_CHARACTER_ORIGINAL",
+      "source_path": ".scratch/convergence_character_audit_early/ADVERSARIAL_FINDINGS.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/17",
+      "raw_original_bytes_sha256": "b815fba03b27c1ef967828f9bb7ae151d562cbd3ec4d024bb626071eb33ae1a4",
+      "projected_value_canonical_json_sha256": "27630693c03647c8820168a51d58be6d250ba1f9ece4d65079a1550fe7c896c3"
+    },
+    {
+      "record_id": "R10R-0019",
+      "packet": "R10_CHARACTER_ORIGINAL",
+      "source_path": ".scratch/convergence_character_audit_early/AUTHOR_FINAL_READBACK_VERIFICATION.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/18",
+      "raw_original_bytes_sha256": "faefa7ec60c929d478e0611e9196fb834f48120caf07f7221fa6196d224e52af",
+      "projected_value_canonical_json_sha256": "8f3d493da8fe0ae452734d785c19cb24bc5ead751efad4dc0a28ebdd7cdcf431"
+    },
+    {
+      "record_id": "R10R-0020",
+      "packet": "R10_CHARACTER_ORIGINAL",
+      "source_path": ".scratch/convergence_character_audit_early/FINAL_PAYLOAD_SEAL.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/19",
+      "raw_original_bytes_sha256": "039e0c6c44797d6291439dc36529245a04c539db235b0f4d5715cf297df58691",
+      "projected_value_canonical_json_sha256": "308275dfa384e37115dc0f21da6c8f6ff1bcf8869135e0bd252412c8cc27621e"
+    },
+    {
+      "record_id": "R10R-0021",
+      "packet": "R10_CHARACTER_ORIGINAL",
+      "source_path": ".scratch/convergence_character_audit_early/independent_character_scope_replay.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/20",
+      "raw_original_bytes_sha256": "5ab4732796658649497ca7895944056b999b2c41e9b45f08f4aa106b2f01716c",
+      "projected_value_canonical_json_sha256": "ac7f707696f3db3af218d88739b0704ce171d8c7c0f160147f74aee454750499"
+    },
+    {
+      "record_id": "R10R-0022",
+      "packet": "R10_CHARACTER_ORIGINAL",
+      "source_path": ".scratch/convergence_character_audit_early/scope_profile_semantic_projection.jsonl",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/0",
+      "raw_original_bytes_sha256": "dbe4a3ffc3c5564d34a29b987408cdfb2a2e2d135f64929e1306abe0e8082a31",
+      "projected_value_canonical_json_sha256": "1f94af6f25e4c38e559c46ef7a85877daec917b5475c7319c8d279f903cad4d3"
+    },
+    {
+      "record_id": "R10R-0023",
+      "packet": "R10_CHARACTER_ORIGINAL",
+      "source_path": ".scratch/convergence_character_audit_early/TARGETED_DERIVATIVE_PRESERVATION_PROOF.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/1",
+      "raw_original_bytes_sha256": "a87f0411bf0414cf5967d846e6fc840068b8f3128bf29a9ef221bb92514e3dbf",
+      "projected_value_canonical_json_sha256": "4adb5a3e4df74e50aa1812dff9498153068f91a32ea4c371850e706bf6e2abda"
+    },
+    {
+      "record_id": "R10R-0024",
+      "packet": "R10_CHARACTER_ORIGINAL",
+      "source_path": ".scratch/convergence_character_audit_early/r10_addendum_unique_fields_readback.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/2",
+      "raw_original_bytes_sha256": "fff875607d86c2e4670bae046c4d2f4ab2ab4372d949a14b0a3ddca8432a15e2",
+      "projected_value_canonical_json_sha256": "dcbb337940b12c128735d62263dc05b87c76c3dd0a8a216f652d425f44a2843a"
+    },
+    {
+      "record_id": "R10R-0025",
+      "packet": "R10_CHARACTER_ORIGINAL",
+      "source_path": ".scratch/convergence_character_audit_early/Mizusawa_prior_actual_to_current.diff",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/3",
+      "raw_original_bytes_sha256": "7e4db3320d50b238595f562a64843191d899663ebb22964c02b76974d87ad443",
+      "projected_value_canonical_json_sha256": "e52d845ceb26f02a267eeebaffe9694deb3b7a4cd0a7eff7850fb684631cbc9a"
+    },
+    {
+      "record_id": "R10R-0026",
+      "packet": "R10_CHARACTER_ORIGINAL",
+      "source_path": ".scratch/convergence_character_audit_early/Yuzu_prior_actual_to_current.diff",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/4",
+      "raw_original_bytes_sha256": "1605a4347d63116d94093be568d0139d1635593f70f37d339692db0768818d7d",
+      "projected_value_canonical_json_sha256": "f4b53817d9e38d941a0cc9de49368c9def266016e9edbc39c9a563ab8a8c6b60"
+    },
+    {
+      "record_id": "R10R-0027",
+      "packet": "R10_CHARACTER_ORIGINAL",
+      "source_path": ".scratch/convergence_character_audit_early/derivatives/TARGETED_DERIVATIVE_MANIFEST.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/5",
+      "raw_original_bytes_sha256": "af4918235179fed905c8664e561a7068905acbf446a7bd70bc37981ab99fb6e7",
+      "projected_value_canonical_json_sha256": "619dc83657e6d1881c53130c4801d153dfdaf8e981167ca06f1f82db51dd6eec"
+    },
+    {
+      "record_id": "R10R-0028",
+      "packet": "R10_CHARACTER_ORIGINAL_DERIVATION",
+      "source_path": ".scratch/convergence_character_audit_early/derivatives/CHARACTER_STATE_TWO_ROW_PRECISION_CANDIDATE.diff",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/6",
+      "raw_original_bytes_sha256": "fd8545e1e2a23df970b89fa7e235766c3c5204a37ce98684aacc2667e050f6a1",
+      "projected_value_canonical_json_sha256": "415cfec54ba529f18b736d5cc7e368e1bee5023cdc5dbe71a1ed2c0b400f24fb"
+    },
+    {
+      "record_id": "R10R-0029",
+      "packet": "R10_CHARACTER_ORIGINAL_DERIVATION",
+      "source_path": ".scratch/convergence_character_audit_early/derivatives/CLAIM_INDEX_R10_ATTRIBUTABLE_APPEND_CANDIDATE.diff",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/7",
+      "raw_original_bytes_sha256": "1722665de58c1a2627e296f702526cbb8be11f78acf40f11d1c4dfbd8ae9000d",
+      "projected_value_canonical_json_sha256": "57995b95879e209f7f9aa06390d5ac6ffeba58b2a607481c49b1e0c08dd16231"
+    },
+    {
+      "record_id": "R10R-0030",
+      "packet": "R10_CHARACTER_ORIGINAL_DERIVATION",
+      "source_path": ".scratch/convergence_character_audit_early/derivatives/COVERAGE_MATRIX_R10_APPEND_ONLY_CANDIDATE.diff",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/8",
+      "raw_original_bytes_sha256": "07785725de0b28c0b0f9d6bece8578a625f9eecf0908838b18aa33f4f3bcc3e9",
+      "projected_value_canonical_json_sha256": "db3cfc3f834f65a386d60d8d3d1c3a11b26e2fe4604f5bc7276e7b9125dae355"
+    },
+    {
+      "record_id": "R10R-0031",
+      "packet": "R10_CHARACTER_ORIGINAL_DERIVATION",
+      "source_path": ".scratch/convergence_character_audit_early/derivatives/SCOPE_REVIEW_DATA_R10_APPEND_ONLY_CANDIDATE.diff",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/9",
+      "raw_original_bytes_sha256": "2c493613f55b826760f638b773c16f3951653bbb1aade0309e3b128023c083df",
+      "projected_value_canonical_json_sha256": "e525a2473b5b25e282c7df648bdb8e3611a60ef16a82140b5ce603d02c87f06b"
+    },
+    {
+      "record_id": "R10R-0032",
+      "packet": "R10_CHARACTER_ORIGINAL_DERIVATION",
+      "source_path": ".scratch/convergence_character_audit_early/derivatives/SUPPORTING_COMPANION_R10_TARGETED_CANDIDATE.diff",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/10",
+      "raw_original_bytes_sha256": "cc89b85978cb9b631f3dec28856f8e597eb05645de812126e6529ff488b1eda7",
+      "projected_value_canonical_json_sha256": "03b2f2bee77a1e55b070e1a2df3d50f33e38c3ecad1c65ae458eafee7c96012a"
+    },
+    {
+      "record_id": "R10R-0033",
+      "packet": "R10_CHARACTER_PROPAGATION",
+      "source_path": ".scratch/convergence_character_audit_early/current_propagation/HANDOFF.md",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/11",
+      "raw_original_bytes_sha256": "9681142a9f7e5290901fab07976768be6ff331491948f096f8716d6ee502df6c",
+      "projected_value_canonical_json_sha256": "6330721d04723d4c35bce0ea019aa38daa93f39c37fb750af9acd99e05e09d32"
+    },
+    {
+      "record_id": "R10R-0034",
+      "packet": "R10_CHARACTER_PROPAGATION",
+      "source_path": ".scratch/convergence_character_audit_early/current_propagation/READ_SOURCE_AND_DEBT_RECEIPT.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/12",
+      "raw_original_bytes_sha256": "56d3efedea7493b8ad09f0a26dc64271b4bdf501a7d3e5370947c811c05f6183",
+      "projected_value_canonical_json_sha256": "0cbf9af6faa6852cf5542af973f7df52d93ef4206f49a042d6a6356c0dd837d9"
+    },
+    {
+      "record_id": "R10R-0035",
+      "packet": "R10_CHARACTER_PROPAGATION",
+      "source_path": ".scratch/convergence_character_audit_early/current_propagation/AUTHOR_FINAL_READBACK_VERIFICATION.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/13",
+      "raw_original_bytes_sha256": "fad3637957537396a4ea1905cd5bfa4e91e88150b56b49b2b16156e43a8b6876",
+      "projected_value_canonical_json_sha256": "de4d6a4d84f31385e0d56d043381f81176869d2bdaf60ac0d6a27ef9c0b2d957"
+    },
+    {
+      "record_id": "R10R-0036",
+      "packet": "R10_CHARACTER_PROPAGATION",
+      "source_path": ".scratch/convergence_character_audit_early/current_propagation/FINAL_PROPAGATION_SEAL.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/14",
+      "raw_original_bytes_sha256": "e0720902a3ca921ef9aec5f582d1488d5ae5c914eb51b9e8c2abe8100704660e",
+      "projected_value_canonical_json_sha256": "8ccc9dd66d921351aec051153ea370b3eae7b8a4f9301384a36d3c10caa9ed03"
+    },
+    {
+      "record_id": "R10R-0037",
+      "packet": "R10_CHARACTER_PROPAGATION",
+      "source_path": ".scratch/convergence_character_audit_early/current_propagation/CURRENT_PROPAGATION_PLAN.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/15",
+      "raw_original_bytes_sha256": "fbb0c4a7b15155885e856e0b5dd2d4eca9136d8553d3d95436b4764f484fcb9b",
+      "projected_value_canonical_json_sha256": "b6af2ae48ea098678c5877feda0ecec21d6d32e476754d32e6cf4b84d8c10292"
+    },
+    {
+      "record_id": "R10R-0038",
+      "packet": "R10_CHARACTER_PROPAGATION",
+      "source_path": ".scratch/convergence_character_audit_early/current_propagation/CURRENT_PROPAGATION_PRESERVATION_PROOF.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/16",
+      "raw_original_bytes_sha256": "a22f810ac88eaa7f2eba6b207464391364f387a2b3c520f6495132c6d7eaca66",
+      "projected_value_canonical_json_sha256": "a8ee4f01d4be3850bb1b5680ffeb4e856efb4b4da677281c6f1a20858b473b1d"
+    },
+    {
+      "record_id": "R10R-0039",
+      "packet": "R10_CHARACTER_PROPAGATION",
+      "source_path": ".scratch/convergence_character_audit_early/current_propagation/ALL_CURRENT_PROPAGATION.diff",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/17",
+      "raw_original_bytes_sha256": "ca246b6ddd9c25c323ec7680c6fcad5c17441ebb9397770bbea45228a044b4cd",
+      "projected_value_canonical_json_sha256": "fec24bb3c14fff0034dd118fecb366e5a0887372b5fecc459aa0d763f65e5156"
+    },
+    {
+      "record_id": "R10R-0040",
+      "packet": "R10_ROOT_COMPONENT_AND_IMPLEMENTATION",
+      "source_path": ".scratch/convergence_root_review/R10_CROSS_SPECIALIST_COMPONENT_INDEPENDENT_ROOT_REVIEW.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/18",
+      "raw_original_bytes_sha256": "2a87264bc21dec2602f0463933131d04c21786c3e740fbc1023e264e07f17d1b",
+      "projected_value_canonical_json_sha256": "04bbbc1c69574d5256f7716a20270dcd4f89414db723a90cbab3cdf629d487dd"
+    },
+    {
+      "record_id": "R10R-0041",
+      "packet": "R10_ROOT_COMPONENT_AND_IMPLEMENTATION",
+      "source_path": ".scratch/convergence_root_review/cross_specialist_component_root_source_snapshot.jsonl",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/19",
+      "raw_original_bytes_sha256": "d1e454273037bb0bbc2270fe9f6dda546d06c12927d7ea7b4ee834b494a15abf",
+      "projected_value_canonical_json_sha256": "860fdd1b6ed3544ba5be3e7f0ad0e7bd3ff6cdd0d032942b8b53874712ee266d"
+    },
+    {
+      "record_id": "R10R-0042",
+      "packet": "R10_ROOT_COMPONENT_AND_IMPLEMENTATION",
+      "source_path": ".scratch/convergence_root_review/R10_FIVE_CHARACTER_DERIVATIVES_ROOT_REVIEW.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/20",
+      "raw_original_bytes_sha256": "7ecc83f29e7c8d72ac1d99e0b1db9be4af3179f301c697b96817d80733f18b02",
+      "projected_value_canonical_json_sha256": "d8f2de41ef6d560e7374d06e13ba72a91adbd579aa937729cd3a572134c73807"
+    },
+    {
+      "record_id": "R10R-0043",
+      "packet": "R10_ROOT_COMPONENT_AND_IMPLEMENTATION",
+      "source_path": ".scratch/convergence_root_review/R10_SIX_CURRENT_PROPAGATION_ROOT_REVIEW.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/21",
+      "raw_original_bytes_sha256": "1c0d0ac9238ba6bbeea39e4410c489af5bd66ce3306c1cfaff4c5963c4a064fc",
+      "projected_value_canonical_json_sha256": "d8dca6027ba2128aeaa8873477934f40309570d9869890eeee316f4e8fe88604"
+    },
+    {
+      "record_id": "R10R-0044",
+      "packet": "R10_ROOT_COMPONENT_AND_IMPLEMENTATION",
+      "source_path": ".scratch/convergence_root_review/CHARACTER_CURRENTNESS_PLAN.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/22",
+      "raw_original_bytes_sha256": "87cb49ed6a7db96f330e3f7cfe09f56cd17e735cfc33e17f63814739a1522088",
+      "projected_value_canonical_json_sha256": "819d4a5e2c41c2e650dacb165b0bd2f157724f8e3e7be0558e27d504d2167adf"
+    },
+    {
+      "record_id": "R10R-0045",
+      "packet": "R10_ROOT_COMPONENT_AND_IMPLEMENTATION",
+      "source_path": ".scratch/convergence_root_review/ELEVEN_FILE_CHARACTER_INSTALL_PLAN.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/23",
+      "raw_original_bytes_sha256": "53e9f22630138e584dfc0751cc7e2562b27e992e2029b8676c41180b86bd7834",
+      "projected_value_canonical_json_sha256": "81296eaa9954e4e9b05e76dd9daad99a77467f2035f984754edb452d0cf1691c"
+    },
+    {
+      "record_id": "R10R-0046",
+      "packet": "R10_ROOT_COMPONENT_AND_IMPLEMENTATION",
+      "source_path": ".scratch/convergence_root_review/ELEVEN_FILE_CHARACTER_INSTALL_RECEIPT.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/24",
+      "raw_original_bytes_sha256": "b5c334a133ab106b1515151e213353702f5d3a42aa93c59454989f7a0aba3d02",
+      "projected_value_canonical_json_sha256": "2bf3a29de44fb62ab3c49c3398c82aa70249757453c98048a8bc0e13c1d3d15d"
+    },
+    {
+      "record_id": "R10R-0047",
+      "packet": "R10_ROOT_COMPONENT_AND_IMPLEMENTATION",
+      "source_path": ".scratch/convergence_root_review/PRE_R11_INPUT_PREPARATION_ROOT_REVIEW.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/25",
+      "raw_original_bytes_sha256": "a29f838bcd3e37f5eced34b87357a1d21ba95813db733b2580985a27c2c4aaad",
+      "projected_value_canonical_json_sha256": "ac3767739c0b335f8cefd0c699299fff46832653b57ded1c537605a41d6b8927"
+    },
+    {
+      "record_id": "R10R-0048",
+      "packet": "R10_ROOT_CURRENTNESS_DERIVATION",
+      "source_path": ".scratch/convergence_root_review/character_candidates/CHARACTER_STATE_TWO_ROW_PRECISION_CANDIDATE.md.root_currentness.diff",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/26",
+      "raw_original_bytes_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "projected_value_canonical_json_sha256": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+    },
+    {
+      "record_id": "R10R-0049",
+      "packet": "R10_ROOT_CURRENTNESS_DERIVATION",
+      "source_path": ".scratch/convergence_root_review/character_candidates/CLAIM_INDEX_R10_ATTRIBUTABLE_APPEND_CANDIDATE.md.root_currentness.diff",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/27",
+      "raw_original_bytes_sha256": "e5517f8d6fb5996224edc025b867077e2433fb6097146fbb48c75066239b5311",
+      "projected_value_canonical_json_sha256": "58de47184ab36dcf90f886a7e140b3db537667081c5d09b288d65fa3d17865e8"
+    },
+    {
+      "record_id": "R10R-0050",
+      "packet": "R10_ROOT_CURRENTNESS_DERIVATION",
+      "source_path": ".scratch/convergence_root_review/character_candidates/COVERAGE_MATRIX_R10_APPEND_ONLY_CANDIDATE.json.root_currentness.diff",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/28",
+      "raw_original_bytes_sha256": "f352095cddd78c6e1f0868a92d3230fbff7127caf72e276a93b3678f5263e7da",
+      "projected_value_canonical_json_sha256": "6574c4e4610da9b7e53119cfb8711a88c057ec98b337cff6eb4569af0fe09a40"
+    },
+    {
+      "record_id": "R10R-0051",
+      "packet": "R10_ROOT_CURRENTNESS_DERIVATION",
+      "source_path": ".scratch/convergence_root_review/character_candidates/SCOPE_REVIEW_DATA_R10_APPEND_ONLY_CANDIDATE.json.root_currentness.diff",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/29",
+      "raw_original_bytes_sha256": "fed3aa7c5f5e6a9f5940363f51976418b2af993db94909264b6d6b152ebb6b8f",
+      "projected_value_canonical_json_sha256": "1617c6940d300b161e72a308e1c569d145f213143bd39a2138af794461026add"
+    },
+    {
+      "record_id": "R10R-0052",
+      "packet": "R10_ROOT_CURRENTNESS_DERIVATION",
+      "source_path": ".scratch/convergence_root_review/character_candidates/SUPPORTING_COMPANION_R10_TARGETED_CANDIDATE.md.root_currentness.diff",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/30",
+      "raw_original_bytes_sha256": "dfa2f39cb88dc6ab50cf224beb68e48a88ca7e6834c94a24f96bc5ce599b8d1c",
+      "projected_value_canonical_json_sha256": "e64f7c6c02c1eaf5d8e0e952e18898d1ab1e5c8e85031143140e84963e061521"
+    },
+    {
+      "record_id": "R10R-0053",
+      "packet": "R10_CANONICAL_SPECIALIST_REBIND",
+      "source_path": ".scratch/convergence_specialist_audit_governance/canonical_rebind/CANONICAL_REBIND.md",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/31",
+      "raw_original_bytes_sha256": "21303d8c31fb9b1488a1bd15bcb799dbe609a1bfce2322dbd7e112dddf0aba40",
+      "projected_value_canonical_json_sha256": "c49f73f148d327ff9a42e618f2f5db9cca1f0381a83b4824bc976cf8f4e6f527"
+    },
+    {
+      "record_id": "R10R-0054",
+      "packet": "R10_CANONICAL_SPECIALIST_REBIND",
+      "source_path": ".scratch/convergence_specialist_audit_governance/canonical_rebind/canonical_body_rebind.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/32",
+      "raw_original_bytes_sha256": "b055899d94a9354c4075af30a961b4156873dbebad1b8772a19b731990c23103",
+      "projected_value_canonical_json_sha256": "011234852fd3ea7e8faecaafe89684ee233140429949071730cdec8de57db45c"
+    },
+    {
+      "record_id": "R10R-0055",
+      "packet": "R10_CANONICAL_SPECIALIST_REBIND",
+      "source_path": ".scratch/convergence_specialist_audit_governance/canonical_rebind/canonical_row_projection.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/0",
+      "raw_original_bytes_sha256": "4fa094a9d137ffd1608bd08a1f789ae6ed7be633056a309edd9eeb43651b009d",
+      "projected_value_canonical_json_sha256": "9337b91992ba0562c388f5a8f7cb887bf4ab478910f0b34e2dd786f0d62f26d5"
+    },
+    {
+      "record_id": "R10R-0056",
+      "packet": "R10_CANONICAL_SPECIALIST_REBIND",
+      "source_path": ".scratch/convergence_specialist_audit_governance/canonical_rebind/canonical_case_reference_projection.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/1",
+      "raw_original_bytes_sha256": "3a1c932c899f04c8536d707cfcc443da5262ddbc6c23c8f99743b8a0a905aa88",
+      "projected_value_canonical_json_sha256": "7315dcc29ead8fc9596028fadb47d83e6bf49cab657f22747a65f11cad628f69"
+    },
+    {
+      "record_id": "R10R-0057",
+      "packet": "R10_CANONICAL_SPECIALIST_REBIND",
+      "source_path": ".scratch/convergence_specialist_audit_governance/canonical_rebind/preservation_replay.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/2",
+      "raw_original_bytes_sha256": "e5a51ad046aee6ebc498cbda8bc4ccbc6c7b050551bc853d895e918e7dcb005d",
+      "projected_value_canonical_json_sha256": "b2f752c566ff09cb8a63ad61c4c5e06188c63913f83ba64951af4a39f275264b"
+    },
+    {
+      "record_id": "R10R-0058",
+      "packet": "R10_CANONICAL_SPECIALIST_REBIND",
+      "source_path": ".scratch/convergence_specialist_audit_governance/canonical_rebind/provenance_qualification.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/3",
+      "raw_original_bytes_sha256": "f7719783ab0d3e6db75c8a8c34035b9ffc2ed6a083eaecc227219586a21f46dc",
+      "projected_value_canonical_json_sha256": "beae0b0b62ca8f55c16b8e4d2907b086f76dee69b17ee70468cd6735048afcc0"
+    },
+    {
+      "record_id": "R10R-0059",
+      "packet": "R10_CANONICAL_SPECIALIST_REBIND",
+      "source_path": ".scratch/convergence_specialist_audit_governance/canonical_rebind/rebind_receipt.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/4",
+      "raw_original_bytes_sha256": "b7498c1932a2dffdc5ab30768d874b61b54c3f1deabc68a2a1b07113a58da963",
+      "projected_value_canonical_json_sha256": "66be4b26d5334627ec81d25e86cb4fb9f3200e615db4accc9142c034c04e9f05"
+    },
+    {
+      "record_id": "R10R-0060",
+      "packet": "R10_CANONICAL_SPECIALIST_REBIND",
+      "source_path": ".scratch/convergence_specialist_audit_governance/canonical_rebind/handoff_manifest.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/5",
+      "raw_original_bytes_sha256": "a13507b1e60882b8ea31c2380b1e9929b5b77f6410a762fa929bbf2072832a61",
+      "projected_value_canonical_json_sha256": "aa72d21509fc3485584d897774f50b2bdf986bb6c58128142634e04ed7d1e22a"
+    },
+    {
+      "record_id": "R10R-0061",
+      "packet": "R10_ROOT_CANONICAL_REBIND_ACCEPTANCE",
+      "source_path": ".scratch/convergence_root_review/R10_EIGHT_CANONICAL_REBIND_ROOT_ACCEPTANCE.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/6",
+      "raw_original_bytes_sha256": "c8f65060958923f1ccc2fb49b513247ab345589fc965a4c6c45f61f4f6992614",
+      "projected_value_canonical_json_sha256": "e805caa2e4eb7de1a0e9044f3ca8a730c0357d3c2ab97892d3abb1b9fedaa8db"
+    },
+    {
+      "record_id": "R10R-0062",
+      "packet": "R10_ROOT_SUPPORTING_MANIFEST_CURRENTNESS",
+      "source_path": ".scratch/convergence_root_review/SUPPORTING_MANIFEST_CURRENTNESS_PLAN.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/7",
+      "raw_original_bytes_sha256": "0703463b1da38f71328066e67b1dabb5fc08c1320cfc96a9343fc0e46a42468b",
+      "projected_value_canonical_json_sha256": "5d73200de672a3e53cf1660da3f770b4d10008fefacea9e9e9a3a60bd0d561b8"
+    },
+    {
+      "record_id": "R10R-0063",
+      "packet": "R10_ROOT_SUPPORTING_MANIFEST_CURRENTNESS",
+      "source_path": ".scratch/convergence_root_review/SUPPORTING_MANIFEST_R10_CURRENTNESS.diff",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/8",
+      "raw_original_bytes_sha256": "b51e3ab9cd3da9008cb824ce691853260b5c08c3541374adc2f5a45efda17d9f",
+      "projected_value_canonical_json_sha256": "9e936e923261c0d803768b4d75ff72e7d38a9327b57fe380bb15857eeac47be2"
+    },
+    {
+      "record_id": "R10R-0064",
+      "packet": "R10_ROOT_FINAL_CHARACTER_COMPONENT_ACCEPTANCE",
+      "source_path": ".scratch/convergence_root_review/R10_FINAL_CHARACTER_COMPONENT_ROOT_ACCEPTANCE.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/9",
+      "raw_original_bytes_sha256": "a52aaa55d0d93aabeeb2f63a53a05c5d56f9e0fd418dda1d720e2f806660839a",
+      "projected_value_canonical_json_sha256": "3f62998b3209c971ec9a6fb9384ebbc45c2772ad202eba80f2a498244e40c0e0"
+    },
+    {
+      "record_id": "R10R-0065",
+      "packet": "R10_CHARACTER_LIVE_REBIND",
+      "source_path": ".scratch/convergence_character_audit_early/live_rebind/AUTHOR_FINAL_READBACK_VERIFICATION.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/10",
+      "raw_original_bytes_sha256": "ed3fda1b8a41404ec6a282ac5d79455f4cdb98a63f810b72c878494b0e50781e",
+      "projected_value_canonical_json_sha256": "5bbe5f4180e50e2ff9d6862d74e38ac202fcdea81decc0a38ec198bff21813db"
+    },
+    {
+      "record_id": "R10R-0066",
+      "packet": "R10_CHARACTER_LIVE_REBIND",
+      "source_path": ".scratch/convergence_character_audit_early/live_rebind/CURRENT_MANIFEST_QUALIFICATION_CLOSED.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/11",
+      "raw_original_bytes_sha256": "c96522a836c7e95119946aec9b999ce1e0174cccd6935dcd8bf5645904b683e5",
+      "projected_value_canonical_json_sha256": "1c1b1a6a5bf0e98c1830576fbcfd62355b71b6cb93603a328d041add4d0485dc"
+    },
+    {
+      "record_id": "R10R-0067",
+      "packet": "R10_CHARACTER_LIVE_REBIND",
+      "source_path": ".scratch/convergence_character_audit_early/live_rebind/ELEVEN_TARGET_LIVE_REBIND.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/12",
+      "raw_original_bytes_sha256": "1770108e02c469058f522a497f74b3d531177ee4510cd18f693ba1bc6b5a36da",
+      "projected_value_canonical_json_sha256": "8133acdcc6906b095a40e08377ce6cba664dc8224015f9c43289d4964c180e3c"
+    },
+    {
+      "record_id": "R10R-0068",
+      "packet": "R10_CHARACTER_LIVE_REBIND",
+      "source_path": ".scratch/convergence_character_audit_early/live_rebind/FINAL_LOCAL_CHARACTER_COMPONENT_REVIEW.md",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/13",
+      "raw_original_bytes_sha256": "4d8d70e54fe873937d46c8c278d63e4135aef80817656904441c814f63f25752",
+      "projected_value_canonical_json_sha256": "50f1c0631505e3995b1c4c2b4184825519c8e6da0854d04f33618916c1eaa7a4"
+    },
+    {
+      "record_id": "R10R-0069",
+      "packet": "R10_CHARACTER_LIVE_REBIND",
+      "source_path": ".scratch/convergence_character_audit_early/live_rebind/FINAL_READ_SOURCE_AND_DEBT_RECEIPT.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/14",
+      "raw_original_bytes_sha256": "6fac4160cac574c7378d557a2b473b01081adadfff6b81a71e116dbabaa503cc",
+      "projected_value_canonical_json_sha256": "d7bf37478a6332c5946b4e040b864f38b96355c9980082626c448aae3470c5dc"
+    },
+    {
+      "record_id": "R10R-0070",
+      "packet": "R10_CHARACTER_LIVE_REBIND",
+      "source_path": ".scratch/convergence_character_audit_early/live_rebind/FINAL_REBIND_SEAL.json",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/15",
+      "raw_original_bytes_sha256": "77fd81fa0d8ae6d29abacfea966722f6ca12c64844a47694007512343a71f750",
+      "projected_value_canonical_json_sha256": "5b12e039bc1880c30df1b729b1875692ec532cf9b0d7dc6d2b2a1c32cb80dc3e"
+    },
+    {
+      "record_id": "R10R-0071",
+      "packet": "R10_CHARACTER_LIVE_REBIND",
+      "source_path": ".scratch/convergence_character_audit_early/live_rebind/INDEPENDENT_LIVE_REBIND_REVIEW.md",
+      "relative_path": "TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/16",
+      "raw_original_bytes_sha256": "fce5061e596cbb5aa400ba2ce1461903ee6f7ccddbec0ef821d6bef43bdbb855",
+      "projected_value_canonical_json_sha256": "7c71e849584901a846c76dadab79bd3437da7480677b72024410d94df7412e48"
+    }
+  ],
+  "release_state": "mutable_active",
+  "root_adoption": {
+    "root_packet_review_identity": {
+      "path": ".scratch/convergence_root_review/R10_EVIDENCE_PACKET_ROOT_REVIEW.json",
+      "bytes": 1932,
+      "sha256": "8e536d696616188dbd4d4ed4519a2dad3c29155d5eff94ec4026901d3daeab3c"
+    },
+    "complete_root_packet_review": {
+      "schema": "tomozaki_R10_evidence_packet_root_independent_review/v1",
+      "status": "PASS_COMPLETE_PORTABLE_RECORD_PACKET_AND_STORAGE",
+      "producer_seal": {
+        "path": ".scratch/convergence_integration_preparation_governance/handoff_manifest.json",
+        "bytes": 5098,
+        "sha256": "1b3cc2762bf15011d2dc9f2bcfd73e4e901f8120a184131cc86159ea101fef92"
+      },
+      "public_router": {
+        "path": ".scratch/convergence_integration_preparation_governance/TOMOZAKI_R10_CONVERGENCE_EVIDENCE_AND_REVIEW_MANIFEST.json",
+        "bytes": 59803,
+        "sha256": "3262dfeaea40b0b3fbfef7196755fb12876da56352c3d0fa41c546c0a2baa1fa"
+      },
+      "complete_material_records": 71,
+      "all_raw_parsed_projected_values_and_catalogue_joins_exact": true,
+      "lossless_logical_packet_bytes": 1605032,
+      "lossless_logical_packet_sha256": "a6a734d05f7f7be0c41634e12c5dedc19bb4db8b1aaa7824e55646e053127def",
+      "one_verified_prefix_string_projection_only": true,
+      "sealed_owned_output_assertions_replayed": 101,
+      "all20preparation_time_current_bindings_exact": true,
+      "external184specialist_records_exact_reconstruction_without_duplication": true,
+      "all_four_public_files_below700000": true,
+      "actual_root_read": "Completefinal4683Bhumanhandoff,3797Bsource/read/debt,5098Bmanifest; allnewrouter scope/gate/embedding/source/projection/storage/publicationsemantics, shard genericframe, complete1900Bbuilder/1951Bpublicreconstructionreceipts and580Bprivateprojectionproof. Earlier full2arguments/source/conditions/correction/rebindmaterial acquired atdeclaredactualscopes. Complete71recordvalues andallrepeatedidentity/registerarrays nowindependentlyreplayed, notnewliterary/source reading.",
+      "new_primary_calls": 0,
+      "new_pixels": 0,
+      "aggregate_R10_R11_release_models_publication_terminal": "NOT_PASSED_BY_PACKAGING",
+      "currentness_derivation": "PREPARE_EXACT_AUTHORITY_WRAPPERS_ONLY; originallogicalidentity/changedoutervalues preserved; all71recordvalues exact."
+    },
+    "source_draft_router": {
+      "path": ".scratch/convergence_integration_preparation_governance/TOMOZAKI_R10_CONVERGENCE_EVIDENCE_AND_REVIEW_MANIFEST.json",
+      "bytes": 59803,
+      "sha256": "3262dfeaea40b0b3fbfef7196755fb12876da56352c3d0fa41c546c0a2baa1fa"
+    },
+    "original_draft_logical_identity": {
+      "bytes": 1605032,
+      "sha256": "a6a734d05f7f7be0c41634e12c5dedc19bb4db8b1aaa7824e55646e053127def"
+    },
+    "original_draft_logical_key_order": [
+      "schema",
+      "status",
+      "supersedes",
+      "superseded_by",
+      "repository_authority",
+      "do_not_use_as_current_authority",
+      "intended_canonical_path",
+      "scope",
+      "source_boundary",
+      "gate_separation",
+      "embedding_contract",
+      "source_accounting_warning",
+      "records",
+      "helper_identities_only",
+      "external_canonical_evidence_references",
+      "current_installed_literary_and_control_identities",
+      "portable_prefix_projection",
+      "publication"
+    ],
+    "original_changed_outer_values": {
+      "status": "draft_noncurrent",
+      "repository_authority": false,
+      "do_not_use_as_current_authority": true,
+      "publication": "Scratch candidate only. Canonical installation, exact-path validation, publication/main integration and formal terminal governance remain root/authorized owner responsibilities."
+    },
+    "original_draft_shards": [
+      {
+        "path": ".scratch/convergence_integration_preparation_governance/TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json",
+        "bytes": 629672,
+        "sha256": "7e1b312ad8822bdbc967d5301a8c422e0303696b56be004a51f3cf93dc4dd1df"
+      },
+      {
+        "path": ".scratch/convergence_integration_preparation_governance/TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_002.json",
+        "bytes": 488695,
+        "sha256": "178c1849af918ef98c93206681df2973f8c0cc14ce6ace959e3575af386e7df4"
+      },
+      {
+        "path": ".scratch/convergence_integration_preparation_governance/TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_003.json",
+        "bytes": 469819,
+        "sha256": "74e766a70efc6ee662ce91ee5349479baabbbc98b82636a4ca4d6c50197caf05"
+      }
+    ],
+    "authority_limit": "This packet binds evidence/currentness only. TOMOZAKI_ADVERSARIAL_AND_CROSS_SPECIALIST_CONVERGENCE_AUDIT.md owns the aggregateR10decision and R11drafting gate. Local/historicalpending fields inside earlier records retain their originalstage.",
+    "preparation_time_identity_semantics": "All20installedobject andexternalmanifest identities above describe the R10intake. Later reviewed gate/synthesis metadata changes do not rewrite them as false live dependencies."
+  },
+  "post_acceptance_publication_projection": {
+    "schema": "R10_narrow_publication_safe_projection/v1",
+    "original_public_router": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_R10_CONVERGENCE_EVIDENCE_AND_REVIEW_MANIFEST.json",
+      "bytes": 64825,
+      "sha256": "c56853a8ea3f3651b613ffc750355f4a5c420e71dfe2c121baad7b2badef0c7d"
+    },
+    "original_public_shard003": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_003.json",
+      "bytes": 469997,
+      "sha256": "fa63142547d2d26af58885d24d8435dd7bc6cbc7cc544f69e55564845e60c1a1"
+    },
+    "original_portable_prefix_projection": {
+      "tokens": {
+        "@REPOSITORY_ROOT@": "Verified Tomozaki checkout root",
+        "@SOURCE_LOCK_ROOT@": "Verified locked Japanese EPUB directory"
+      },
+      "scope": "Every embedded string value and dictionary key; only exact observed verified root prefixes replaced. All suffixes, semantics,IDs,nonstringvalues and source counts unchanged.",
+      "changed_string_field_count": 1,
+      "observed_verified_prefix_variant_count": 1,
+      "raw_hashes_unchanged": true,
+      "private_full_projection_proof": "_PRIVATE_PREFIX_PROJECTION_PROOF.json, scratch only; never canonical evidence."
+    },
+    "changed_material_record": "R10R-0060 /standalone_read_only_replay runtime executable prefix only; new projected hash and catalogue/shard array joins govern the tokenized current value. Raw original source identity and parsed-original hash remain unchanged.",
+    "material_counts": "71 original material records, IDs, order and source/read/inspection counts unchanged. Seventy record values are exact; one administrative runtime locator is explicitly projected.",
+    "historical_roundtrip_scope": "Earlier root_adoption/embedded receipts verified the unprojected original packet at their dated stages. The current public tokenized packet does not reproduce the original unredacted raw logical bytes without the excluded private mapping. Preserve old logical identities and proof results as history, not a claim of current public inverse reconstruction.",
+    "current_reconstruction_scope": "record_storage reconstruction now certifies only this current tokenized logical packet from public router/shards.",
+    "new_primary_calls": 0,
+    "new_pixels": 0,
+    "literary_or_source_claim_changes": false
+  }
+}

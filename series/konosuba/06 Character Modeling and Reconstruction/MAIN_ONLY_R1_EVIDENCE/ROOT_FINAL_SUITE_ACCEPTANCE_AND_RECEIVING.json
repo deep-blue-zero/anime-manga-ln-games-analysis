@@ -1,0 +1,158 @@
+{
+  "schema": "konosuba/main-only-reconstruction-suite-acceptance/v1",
+  "actual_accepted_utc": "2026-10-17T15:04:33.118647+00:00",
+  "status": "ACCEPTED_BOUNDED_MAIN_ONLY_DERIVATION_AND_SIMULATION_SUITE_FOR_UNCHANGED_BASELINE_VALIDATION",
+  "root_actual_full_receiving": "All six causal arguments and explicit receiving successors, all90 unique input/response content/JP with proven duplicate reuse, complete851-line factored bindings, allremainingevaluator-bankfields, complete initial45matrix/all39register/720criterionvectors/unique rationales and full sharedoverlay; whole substantive review reports actually read. Not a new full17source read or raw1.25MB duplicate byte prose reading.",
+  "review_reports_actually_fully_read": [
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/INITIAL_FULL90_EXTERNAL_RECEIVING_REPORT.md",
+      "bytes": 19593,
+      "sha256": "9fdb8d683161073ebcbd5c6f6a62dd4bc5553bab618a9143bc1e7c7013b87951"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/post-shared-qa-receiving-v1/POST_SHARED_QA_COMPARISON_AND_CURRENT_FINDINGS.md",
+      "bytes": 10338,
+      "sha256": "a5ccbf93b419d7e5b5326a8c605754ec4dc2dfcf8efc2c9b5a2e89ce5f3e5522"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/diagnostic-d1-v2-receiving/BOUNDED_DIAGNOSTIC_D1_V2_RECEIVING.md",
+      "bytes": 4403,
+      "sha256": "babdd2f2a94267a0fe8e127f4ec0dc79cfc6926affe28aeb3ebb69f1608dbef7"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/v17-independent/diagnostic-response-repairs-bounded-receiving-v2/V2_BOUNDED_DIAGNOSTIC_RECEIVING_CLOSURE.md",
+      "bytes": 3685,
+      "sha256": "a38b6748647bbd829fe331df60a6b9f65f0905430641186e5c37ad3a0c73dea9"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/v17-independent/suite-audit-draft-full-receiving-v1/FULL_SUITE_AUDIT_AND_REPRODUCTION_DRAFT_RECEIVING_REPORT.md",
+      "bytes": 9446,
+      "sha256": "d493920578bde18f6944ed8941d0298fd3b41e5ce155e8936829bf74cef6254e"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/v17-independent/suite-audit-final-bounded-receiving-v2/V2_NEW_SECTION9_AND_EIGHT_OP_BOUNDED_RECEIVING_CLOSURE.md",
+      "bytes": 6644,
+      "sha256": "a501fd0684bd8537dfa65464086821be475cb13e0daf2a889e22b705ba1c389e"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/v17-producer/public-model-adoption-metadata-receiving-v1/FULL_SIX_ADOPTION_WRAPPERS_AUTHORITY_AND_CORE_RECOVERY_RECEIVING_REPORT.md",
+      "bytes": 5840,
+      "sha256": "9b81a489bc72ff62a125af04e671503323db499ea134ffc65daa96c6396942b3"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/v17-producer/public-suite-reassembly-mechanical-receiving-v1/MECHANICAL_PUBLIC_SUITE_REPRESENTATION_RECEIVING_REPORT.md",
+      "bytes": 6802,
+      "sha256": "eba44730e13cbb8166861ee96f246d5c0c5b78912e381e285c3af41c597c0941"
+    }
+  ],
+  "models": [
+    {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/public-main-only-suite-candidate-v1/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 61516,
+      "sha256": "6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4",
+      "public_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+      "tested_core": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+        "bytes": 60135,
+        "sha256": "81566cbad8825d288595502af20897fd80dfb0d3583a524c77947615a5bf31ec"
+      },
+      "model_key": "K"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/public-main-only-suite-candidate-v1/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+      "bytes": 51278,
+      "sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1",
+      "public_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+      "tested_core": {
+        "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-receiving-models-v2/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+        "bytes": 49900,
+        "sha256": "8ed8d78a9c9b538a88c4331214b74920715a32883408742bdf690534a000859e"
+      },
+      "model_key": "T"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/public-main-only-suite-candidate-v1/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+      "bytes": 64491,
+      "sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430",
+      "public_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+      "tested_core": {
+        "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+        "bytes": 63022,
+        "sha256": "f85d902572a6d1f5094a3892c693d7d456dde5b90b688d706840693a63499187"
+      },
+      "model_key": "A"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/public-main-only-suite-candidate-v1/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 60891,
+      "sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f",
+      "public_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+      "tested_core": {
+        "path": "/workspace/scratch/konosuba/v17-producer/reconstruction-models-main-only-r1-receiving-v3/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+        "bytes": 59422,
+        "sha256": "618a867bfadb361305de4a4b8587a86f348eae1985042bbef11389fd9ab67080"
+      },
+      "model_key": "M"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/public-main-only-suite-candidate-v1/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+      "bytes": 62581,
+      "sha256": "e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9",
+      "public_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+      "tested_core": {
+        "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-source-precision-proposal-v4/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+        "bytes": 61217,
+        "sha256": "dc70739ab5613e70b6387421f324330735a0b79d1944100a3fd613f1cd2a310f"
+      },
+      "model_key": "D"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/public-main-only-suite-candidate-v1/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+      "bytes": 67885,
+      "sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e",
+      "public_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+      "tested_core": {
+        "path": "/workspace/scratch/konosuba/v17-independent/main-only-reconstruction-receiving-v2/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+        "bytes": 66517,
+        "sha256": "13c288a0278f87af60ee0b1c01d04ed6336977e9f34d36e9f163a9e6399b0271"
+      },
+      "model_key": "E"
+    }
+  ],
+  "audit_accepted_identity": {
+    "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/public-main-only-suite-candidate-v1/KONOSUBA_RECONSTRUCTION_SUITE_AUDIT.md",
+    "bytes": 22872,
+    "sha256": "45f4b598f4aaa18bf74667133e8efcd747f2a93ca94337001b8bdc35c7379d33"
+  },
+  "source_phase": "MAIN_PRINCIPAL_ONLY",
+  "no_holdout_expanded_bonus_afterword_or_source_image_opened_in_this_stage": true,
+  "exact_contract_types": {
+    "BEHAVIORAL_COMMITMENT": 38,
+    "COGNITIVE_VALUATION_COMMITMENT": 1,
+    "CONSISTENCY_CONSTRAINT": 4
+  },
+  "simulations": {
+    "settings": 45,
+    "first_mode_responses": 90,
+    "rubric_records": 720,
+    "full_initial_commitments": 5,
+    "without_full_initial_conjunction": 34,
+    "not_independent_trials": true,
+    "served_runtime_sampling_settings": "UNKNOWN_AS_DECLARED"
+  },
+  "adverse": "F04-PARTY R1-E02 locally adverse with prospectively recorded salience inference and broader self-credit/competition rival; one paired setting, not confident falsification/retirement. Preserve all earlier Gen01-05 failures.",
+  "diagnostics": "11 received localized field changes across10 first IDs, no new execution/model/binding/score; exact originals/inverses remain.",
+  "acceptance_limits": [
+    "Completes main-only derivation and required varied simulation audit as readiness baseline, not full-corpus analytical completion.",
+    "No VERY_HIGH or broad external validation;34 commitments lack a full initial battery conjunction.",
+    "Both initial assessment and postshared six-record overlay govern current findings.",
+    "Cases are informed assistant-authored, shared-source and not independent stochastic API trials; pretraining blindness unclaimed."
+  ],
+  "next_required_operations": [
+    "Record actual reproducible main-only freeze after this acceptance.",
+    "Exact stable-branch publication/readback/sourceaudit/housekeeping/finalactual-headsuccess.",
+    "Reload verified published authority and prepare/apply unchanged-baseline four-book tests before relevant narrative exposure."
+  ],
+  "publication_gate_at_acceptance": "PENDING",
+  "whole_project_complete": false
+}
