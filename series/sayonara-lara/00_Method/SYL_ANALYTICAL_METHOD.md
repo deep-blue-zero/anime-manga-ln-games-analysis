@@ -112,12 +112,14 @@ Each `SYL_EPnn_DEEP_READING.md` should make the following recoverable without ri
 
 - source edition/language, knowledge boundary, and actual inspection coverage;
 - participant, blinded assignment and horizon, inspected cue/frame/interval, material finding or rival, reviewer challenge, principal disposition, and linked claim or channel debt under the [standing configuration](SYL_SYNTHESIS_ARCHITECTURE.md#independent-episode-and-channel-readings);
-- concise, accurate summary and scene map;
+- a **Current-unit story synopsis** near the front, after the witness, coverage and entering context, followed by the located scene map;
 - a sustained episode-level argument with close readings;
 - character and relationship changes, including continuity and contradiction;
 - distinctive comedy, formal, Japanese-language, and performance findings;
 - strongest counterreading and unresolved causal/linguistic questions;
 - claim/ledger deltas, freeze, next operation, and evidence debts.
+
+For each newly authorized narrative episode, finalize the synopsis after the applicable prospective captures are frozen and keep it from readers still at an earlier scene. Tell the episode’s story in accessible prose, from the opening situation and participants’ stakes through consequential actions, decisions, disclosures and their aftermath at the ending. Anchor decisive events to an episode scene and inspected cue, frame or interval. Distinguish what happens on screen from a memory, dream or character’s account. Where sampled images or captions leave a movement, speaker or outcome uncertain, keep that uncertainty in the synopsis. Apply [initiation §5.3](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#53-sequential-reading-contract) within the authorized episode and inspection lanes.
 
 Use explicit stable anchors for major scenes/claims. A serious episode normally warrants several developed arguments, not a plot synopsis decorated with thematic nouns. There is no automatic word-count certificate of completion.
 
