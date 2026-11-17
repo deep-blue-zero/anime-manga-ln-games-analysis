@@ -1,0 +1,197 @@
+{
+  "schema": "konosuba.cohort27.original-first-receiving-annotations.v1",
+  "recorded_utc": "2026-10-24T00:46:37.287806+00:00",
+  "status": "SOURCE_INFORMED_DIAGNOSTIC_RECEIVING_WITH_RETAINED_DEFECTS",
+  "foundation_seal_sha256": "74cfe2693eb3886705e1479be2bc6ed8aef70601e185fb444a5fcc029c1e6ecf",
+  "exact_input_freeze_sha256": "d997a22963a71ebc18e351044e768efbf04b8a669261b7ac8ab5d021b36eac0e",
+  "body_freeze_sha256": "54ade8bf1521419d21b6d4ebfb05bee3c3d3f37635f9b65543052acfb1a58830",
+  "first_outputs_sha256": "f934a7f9aeeccfd28cde1041a8f53131e19baca8b879e5d2a6593638d60ca1e9",
+  "original_first_pins": [
+    {
+      "case_id": "SE-H01-A",
+      "body_file": "COHORT27_FIRST_BODY_SE-H01-A_01.txt",
+      "body_sha256": "2ea181e282446daf6fea37bdbd6f7fbcc5f9eed119464a39a7dbdab5a07952c4",
+      "receipt_file": "COHORT27_FIRST_BODY_SE-H01-A_01_RECEIPT.json",
+      "receipt_sha256": "f267acb1d65ad0f7c984dacb3019e417af39dc1bccd0bae5132520982e96c79e",
+      "bytes": 661,
+      "words_whitespace": 113,
+      "actual_complete_first_delivery_tool_chunk": "9fe786"
+    },
+    {
+      "case_id": "SE-H01-B",
+      "body_file": "COHORT27_FIRST_BODY_SE-H01-B_01.txt",
+      "body_sha256": "f37e614daad7c286bd995c41c6731614e24707a58a5a74911acae7c50028ee28",
+      "receipt_file": "COHORT27_FIRST_BODY_SE-H01-B_01_RECEIPT.json",
+      "receipt_sha256": "67b76d2f5036537677e9235330432615f00a8d6d83d9f3e688f5aa898489d0ff",
+      "bytes": 678,
+      "words_whitespace": 114,
+      "actual_complete_first_delivery_tool_chunk": "9fe786"
+    },
+    {
+      "case_id": "SE-H02-A",
+      "body_file": "COHORT27_FIRST_BODY_SE-H02-A_01.txt",
+      "body_sha256": "213cab61f21b28704e2d07d59e886571b62c2af11dcdf7d9d358eec7d1b3e2a0",
+      "receipt_file": "COHORT27_FIRST_BODY_SE-H02-A_01_RECEIPT.json",
+      "receipt_sha256": "f171866cd13a392ae123e004405507921c8b73c4e52477eccc92acf112900e13",
+      "bytes": 710,
+      "words_whitespace": 117,
+      "actual_complete_first_delivery_tool_chunk": "9fe786"
+    },
+    {
+      "case_id": "SE-H02-B",
+      "body_file": "COHORT27_FIRST_BODY_SE-H02-B_01.txt",
+      "body_sha256": "3bea2925fa369071900abb41dbf058257ed66de4f5bf63d5a1f7c4f6fa378a0f",
+      "receipt_file": "COHORT27_FIRST_BODY_SE-H02-B_01_RECEIPT.json",
+      "receipt_sha256": "4d685e6a1e64cb481e9a0d6fff10f2ac4e6d574c145e4783a3795b8d6dc15aa3",
+      "bytes": 709,
+      "words_whitespace": 116,
+      "actual_complete_first_delivery_tool_chunk": "9fe786"
+    },
+    {
+      "case_id": "SE-H03-A",
+      "body_file": "COHORT27_FIRST_BODY_SE-H03-A_01.txt",
+      "body_sha256": "ea0759263e8e028a9aa72b26f6ca28b57dbe5a9dea36d492bf3b4371e076a2d4",
+      "receipt_file": "COHORT27_FIRST_BODY_SE-H03-A_01_RECEIPT.json",
+      "receipt_sha256": "25f9641f960811ec97fa912131ed7e15c84d42f8f588677848d2bfcd6f681056",
+      "bytes": 703,
+      "words_whitespace": 115,
+      "actual_complete_first_delivery_tool_chunk": "9fe786"
+    },
+    {
+      "case_id": "SE-H03-B",
+      "body_file": "COHORT27_FIRST_BODY_SE-H03-B_01.txt",
+      "body_sha256": "7024f75c47170fd9e47709daeba33e099219182c3b3f4a17f9db42bbc3e995d6",
+      "receipt_file": "COHORT27_FIRST_BODY_SE-H03-B_01_RECEIPT.json",
+      "receipt_sha256": "f2af9414c6ce3a7b345f09efe324598549526f439c5823cd6c780afa60ab6f31",
+      "bytes": 710,
+      "words_whitespace": 117,
+      "actual_complete_first_delivery_tool_chunk": "9fe786"
+    }
+  ],
+  "case_annotations": [
+    {
+      "case_id": "SE-H01-A",
+      "observed_first_action_and_speech": "Uses acknowledged map value to request an introduction without narrating cooperation.",
+      "conditional_expression": "A value-sensitive reciprocity bid under SE-R01 in a nonmagical analogue.",
+      "retained_defects_and_limits": [
+        "Modest smile is generated local affect,not a stable preference or new source observation.",
+        "The very cautious consent explanation is more a narrator safeguard than a demonstrated distinctive voice;overly generic courteous broker remains a rival.",
+        "No gratitude-magic,actual control or willingness after refusal tested."
+      ]
+    },
+    {
+      "case_id": "SE-H01-B",
+      "observed_first_action_and_speech": "Drops the failed favor as leverage and asks what would make the introduction worthwhile.",
+      "conditional_expression": "Absent recognized benefit changes the bid under SE-R01.",
+      "retained_defects_and_limits": [
+        "Frank admission that she has not helped may be too polished/honest compared with the source public persona;not established reform.",
+        "The explicit value cue strongly drives a generic transactional answer. No later accepted benefit or cooperation."
+      ]
+    },
+    {
+      "case_id": "SE-H02-A",
+      "observed_first_action_and_speech": "Suspends animation and tries negotiating a change with the unwilling follower;keeps manual work open.",
+      "conditional_expression": "Finite allocation affects plan under SE-R03.",
+      "retained_defects_and_limits": [
+        "The follower prior refusal remains;another question is not successful release or a discovered new solution.",
+        "Anything done generalizes the obstruction beyond the one stated crew plan;retain as generated grievance rather than a factual universal.",
+        "Manual work is an option,not completed labor or a demonstrated preference."
+      ]
+    },
+    {
+      "case_id": "SE-H02-B",
+      "observed_first_action_and_speech": "Attempts one puppet spell using spare capacity while retaining the difficult follower.",
+      "conditional_expression": "Available margin permits a different attempt under SE-R03.",
+      "retained_defects_and_limits": [
+        "She is tired supplies an unprovided temporary state as a causal explanation. Original remains unchanged.",
+        "A cost she has chosen to carry may overstate unilateral agency where release mechanics/cooperation are constrained.",
+        "No successful animation or infinite crew is narrated;capacity cue is strong and nearest-scene similarity substantial."
+      ]
+    },
+    {
+      "case_id": "SE-H03-A",
+      "observed_first_action_and_speech": "Addresses the credible third party,limits the offered category and seeks confirmed release terms.",
+      "conditional_expression": "Credible exit permits a narrow trade under SE-R04 without total disclosure.",
+      "retained_defects_and_limits": [
+        "Protected facts and actual route details are not invented,but no information transfer or release is completed.",
+        "Ordinary hostage negotiation and an unusually explicit credibility cue are strong rivals;not a demonstrated loyalty or truth test."
+      ]
+    },
+    {
+      "case_id": "SE-H03-B",
+      "observed_first_action_and_speech": "Asks the third party to demonstrate control of bindings before trading information.",
+      "conditional_expression": "Uncertain exit credibility changes bargaining threshold under SE-R04.",
+      "retained_defects_and_limits": [
+        "Need for evidence is plausible but generically rational;the response may be more measured than the source distressed register.",
+        "No hidden authority,automatic full compliance,sincere affiliation or escape is inferred."
+      ]
+    }
+  ],
+  "pair_comparisons": [
+    {
+      "pair": "SE-H01",
+      "rule": "SE-R01",
+      "comparison": "Reciprocity bid after useful help versus asking about another valued opening.",
+      "receiving": "Narrow source-informed consistency expression only,with retained defects,strong cueing and generic rivals. No binary source-prediction result or independent test.",
+      "not_tested": "Literal control,faith interaction,cooperation or sincerity;changed embodiment is explicit."
+    },
+    {
+      "pair": "SE-H02",
+      "rule": "SE-R03",
+      "comparison": "Suspended animation/negotiation versus one spell attempt with spare margin.",
+      "receiving": "Narrow source-informed consistency expression only,with retained defects,strong cueing and generic rivals. No binary source-prediction result or independent test.",
+      "not_tested": "Exact capacity,successful work crew,unilateral release or independently identified resource mechanism."
+    },
+    {
+      "pair": "SE-H03",
+      "rule": "SE-R04",
+      "comparison": "Limited trade preparation versus a request for credible authority before disclosure.",
+      "receiving": "Narrow source-informed consistency expression only,with retained defects,strong cueing and generic rivals. No binary source-prediction result or independent test.",
+      "not_tested": "Truth of intelligence,completed release,new faith,full confession or long-term loyalty."
+    }
+  ],
+  "word_budget": {
+    "English_words": [
+      80,
+      140
+    ],
+    "actual_counts": [
+      113,
+      114,
+      117,
+      116,
+      115,
+      117
+    ],
+    "all_within_budget": true,
+    "not_a_fidelity_score": true
+  },
+  "method_limits": [
+    "Same informed root is source reader,model author,prompt designer,responder and assessor;not independent.",
+    "All sources,opposing contrasts and preceding responses were visible.",
+    "Strong cueing,generic planning/negotiation and near-scene resemblance remain live rivals.",
+    "No feedback repair or regeneration;unsupported embellishments and audit-language leakage retained.",
+    "Typed-capacity compliance is not counted as a separate behavioral success.",
+    "Initial three pairs do not complete all nine final-battery categories;no mature final promotion."
+  ],
+  "operating_modes": {
+    "modes_present": [
+      "contemporary-transfer: explicitly a nonmagical adult human analogue",
+      "canonical-comic,with work and refusal retained",
+      "canonical-serious,nonsexual captivity"
+    ],
+    "no_full_mode_or_nine_category_coverage_claim": true,
+    "unprobed_conditions": [
+      "SE-R02 no dedicated isolated pair"
+    ]
+  },
+  "new_actual_source_observations": 0,
+  "new_independent_source_validation_credit": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "designated_evaluator_output_authored": false,
+  "full_program_complete": false
+}

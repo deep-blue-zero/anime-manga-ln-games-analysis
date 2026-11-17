@@ -1,0 +1,2525 @@
+{
+  "schema": "BLUE_ARCHIVE_JUSTICE_INSTITUTION_OPERATIVE_CLAIMS_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_PERSISTENCE_PENDING_COMPLETE_ROOT_INSTALLATION",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_JUSTICE_TASK_FORCE_INSTITUTIONAL_SYNTHESIS.md",
+  "current_scope": "355 required packages;29 non-denominator mandatory substantial named duties across25 distinct parent packages; literal kinds18 SECTION/9 DIRECTED_RELATIONSHIP/2 ENSEMBLE",
+  "dated_source_beforeimage_witness": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+  "dated_source_tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+  "accepted_merged_main_witness": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "commit_custody_qualification": "7546 source and b76 squash main have the same e9 tree; distinct commit and audit custody is preserved. This preparer performed no fetch, local reconciliation, merge or new remote observation.",
+  "fixed_preparation_snapshot": {
+    "packages": [
+      90,
+      101
+    ],
+    "new_packages": 12,
+    "after_complete_ROOT_install": 101,
+    "characters": 89,
+    "directed_relationships": 6,
+    "ensembles": 3,
+    "institutions": 3,
+    "named_duties_after_complete_ROOT_install": 3,
+    "previous_merged_packages": 89,
+    "next_milestone": 178,
+    "later_live_acceptances_excluded": true
+  },
+  "current_first_milestone_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json",
+      "bytes": 2282,
+      "sha256": "e7214986d7cd89063f5b0608d63100957736a33e48baeb102afdc13145a79ea6",
+      "git_blob_oid_of_actual_bytes": "67d72a22c7acf47b817879110809fdb0095968f3",
+      "immutable_transport_path": "immutable_originals/ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1",
+      "checked_UTC": "2026-10-10T19:49:13.689695+00:00",
+      "status": "COMPLETE_MERGED_AND_EXACT_POSTMERGE_MAIN_FULL_AUDIT_ACCEPTED",
+      "goal25_complete": true,
+      "merged_PR": 147,
+      "merged_UTC": "2026-10-10T19:34:27Z",
+      "merged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+      "tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+      "linear_parent": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+      "merged_packages": 89,
+      "required_packages": 355,
+      "required_named_duties": 29,
+      "distinct_named_parent_packages": 25,
+      "milestones": [
+        89,
+        178,
+        267,
+        355
+      ],
+      "next_milestone": 178,
+      "ROOT_reviewed_total_at_this_receipt": 102,
+      "full_goal_status": "ACTIVE_INCOMPLETE",
+      "postmerge_receipt": {
+        "path": "ROOT_FIRST_MILESTONE_POSTMERGE_MAIN_b76_VERIFICATION_V1/EXACT_POSTMERGE_MAIN_VERIFICATION_V1.json",
+        "bytes": 6847,
+        "sha256": "787c947409268e2e633a2278790fb71241e822ea98b5e0608839d393e9dfe598",
+        "git_blob": "2c4964e2df70188d2181796a95d9990c72ca98af"
+      },
+      "postmerge_run": 38080340801,
+      "actual_audit_commit": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "tests": 292,
+      "skipped": 0,
+      "archive_outcome": "success",
+      "profile": "full",
+      "source_housekeeping_final_chain": "PREVIOUSLY_ROOT_ACCEPTED_EXACT7546; NOOP HOUSEKEEPING; FULL_FINAL_AUDIT",
+      "ROOT_actual_receiving": "8aac40 entire140-line saved postmerge receipt; actual selected AUDIT_COMMIT, detached checkout, full snapshot PASS, both completed jobs and isolated exact-success status; separately received actual292-tests/OK log range233–250. Exact complete saved log and every actual selected witness independently checked here. Dated PENDING in frozen producer receipt is superseded for current milestone status by this receiving decision.",
+      "all14_original_gaps": "OPEN",
+      "new_literary_primary_AV_model_or_identity_credit": 0,
+      "untracked39": "UNCHANGED_NO_CONTENT_READ_OR_HASH",
+      "unbound9": "UNREAD_UNHASHED",
+      "R_Git_provider_mutations": false,
+      "remaining_work": "Full remaining eligible-cast Phase3 packages, all29 substantial named duties, subsequent exact adoption/publication and required178/267/355 merges remain required."
+    }
+  },
+  "historical_payload_qualification": "Original pending/local/counter/source-capture/receiving fields retain creation-time meaning. The separate complete ROOT acceptance controls current literary judgment; the accepted milestone control supersedes only earlier first-milestone pending states. No author physical source receiving is inferred retrospectively.",
+  "original_exact_tuple": {
+    "path": "JUSTICE_INSTITUTION_SYNTHESIS/JUSTICE_INSTITUTION_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+    "bytes": 138362,
+    "sha256": "11687b02aa4795decedd25736c1f7f6668b0b0676aa106da36f46f83a9aed5fa",
+    "git_blob_oid_of_actual_bytes": "0e000f2d1cdd71bd9feaacfabeaf7a8721387c37",
+    "immutable_transport_path": "immutable_originals/JUSTICE_INSTITUTION_SYNTHESIS/JUSTICE_INSTITUTION_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "BLUE_ARCHIVE_PHASE3_JUSTICE_INSTITUTION_SAVED_CLAIM_ENDPOINT_V1",
+    "status": "AUTHOR_VERIFIED_ROOT_RECEIVING_PENDING",
+    "required_home": "P3-INST-JUSTICE-WORK-LEISURE-ANSWERABILITY",
+    "body_binding": {
+      "path": "BLUE_ARCHIVE_JUSTICE_TASK_FORCE_INSTITUTIONAL_SYNTHESIS.md",
+      "byte_count": 43223,
+      "line_count": 156,
+      "sha256": "6cbd48e0e96bff47cbf309de022ab1ce1598454c3fca7a8e1d9b3f201cb2734d",
+      "actual_byte_blob_oid": "989499536aab70d7fb30494fb11492cf66e83e6b"
+    },
+    "eleven_substantive_sections": [
+      "## 1. Core thesis: a chosen school life requires more than protective intention",
+      "## 2. Longitudinal comparison: changing situations without a manufactured reform ladder",
+      "## 3. Public image and private life: justice is an assertion that people can test",
+      "## 4. Governance in practice: records, assignments, limits and divided authority",
+      "## 5. Ordinary life: leisure is a purpose, and its forms need not match",
+      "## 6. Crisis and force: achieved protection does not settle its cost",
+      "## 7. Sensei: support and intervention within reciprocal responsibility",
+      "## 8. Peers and recipients: whose answer changes the institutional account?",
+      "## 9. Institutional language, voice and the limits of representation",
+      "## 10. Competing readings: substantial alternatives and their limits",
+      "## 11. Evidence route, scope and open questions"
+    ],
+    "saved_paragraphs": [
+      {
+        "claim_id": "JI001",
+        "saved_line": 15,
+        "saved_paragraph": "This is the institution argument for the existing required home **P3-INST-JUSTICE-WORK-LEISURE-ANSWERABILITY**. It asks how protection, labor and chosen school life are allocated, and whose experience can correct the institution's account of itself. Hasumi, Tsurugi, Mashiro, Ichika and Koharu occupy different positions in that inquiry. Local unnamed members, protected students, opponents, caregivers, club hosts and former member Suzumi retain their own consequential perspectives. Membership, rank, a report, an inward response and a hearing chair's disposition are different kinds of evidence. The school is not interchangeable with its committee, and the committee is not a collective person.",
+        "paragraph_sha256": "6cab835ed9e43a5a15bc1d4bcab0a67ba32c9998dba153888ca23a9989b6f5d8",
+        "section": "opening",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI002",
+        "saved_line": 17,
+        "saved_paragraph": "The architecture's institutional responsibility is to distinguish school mythology from actual governance. Here that means testing the vocabulary of justice, love, peace, competence and proper student life against assignments, access decisions, care, refusal, force and achieved endings. An institution's humane purpose can be real while its methods or distributions of burden remain unequal. This packet's literary completion is proposed at a bounded argument scope; ROOT receiving and adoption remain pending. The accepted 355-package/29-section scope and the fixed first-quarter tranche are unchanged. [C01:L357–368; C05; C06]",
+        "paragraph_sha256": "6b8acdf2cae82d57bb37736cf6ac3b484ae90c2b1c77b198a3916d0816f19ca8",
+        "section": "opening",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "C01",
+            "locator": "Physical analytical-owner L357–368",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "C05",
+            "locator": "Exact existing home row/object; not full-census completion"
+          },
+          {
+            "source_id": "C06",
+            "locator": "Exact existing home row/object; not full-census completion"
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI003",
+        "saved_line": 21,
+        "saved_paragraph": "The Justice Task Force repeatedly makes room for student life through practical arrangements: a notebook remembers members' interests, a party permits novices to enjoy tea without passing an etiquette test, a guard offers relief, and a deputy distinguishes an assigned errand from optional care. These practices make ordinary happiness a purpose of the organization rather than an indulgence earned by victory. Yet protection does not guarantee that the people protected experience safety, that colleagues receive rest equally, or that an institution hears explanations before acting. Its strongest local endings combine a concrete benefit with a still-visible limit: rescue with hospitalized recipients, party hospitality with earlier intimidation, recognized effort with failed work, and permission to return with continuing public hostility. [P1:L306/L324–335; E19:L91–104; E30:L98/L116; G1:L90–116; F04:L30/L42–44]",
+        "paragraph_sha256": "b5b2260a60d5e2d0225f9a87069ed69966539ea8ee63e44ee260b92b1465bb9b",
+        "section": "1. Core thesis: a chosen school life requires more than protective intention",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L306",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L324–335",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L91–104",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E30",
+            "locator": "Physical analytical-owner L98",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E30",
+            "locator": "Physical analytical-owner L116",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "G1",
+            "locator": "Physical analytical-owner L90–116",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "F04",
+            "locator": "Physical analytical-owner L30",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "F04",
+            "locator": "Physical analytical-owner L42–44",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI004",
+        "saved_line": 23,
+        "saved_paragraph": "The central institutional problem is therefore **answerability across unequal positions**. Who decides that a task is complete? Who can say that an invitation is burdensome, a shift is easier, a bodily limit has been crossed, a leisure plan failed, or the person offering care needs help? Hasumi's generosity, Tsurugi's willingness to guard, Mashiro's pursuit of justice and Ichika's moderation each provide answers, but none can speak for every recipient. Their internal differences are resources for correction as well as sources of friction. Calling them all dedicated protectors would preserve their intentions while losing the mechanism by which an institution can become less overbearing. Calling them all instruments of coercion would lose actual rescue, reciprocal help and the pleasures they choose. [E19:L91–112; P2:L259–279; P3:L462–485]",
+        "paragraph_sha256": "6416d3966e064d1e1e9fe3ac840a38835355950ecbe869498811e45af5df7eb1",
+        "section": "1. Core thesis: a chosen school life requires more than protective intention",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L91–112",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P2",
+            "locator": "Physical analytical-owner L259–279",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P3",
+            "locator": "Physical analytical-owner L462–485",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI005",
+        "saved_line": 25,
+        "saved_paragraph": "This argument does not require a hidden uniform code of conduct or a completed constitutional history. It follows the decisions actually represented: assignments and exceptions, anticipated sanctions and enacted results, message relays and interruptions, reported injuries and narrated local recovery. Those differences allow criticism without replacing the fictional record with an imagined administrative system. They also prevent incomplete formal outcomes from erasing completed modest ones. Watching until sunset, making a castle, enjoying cake and accepting a colleague's company are real outcomes even when restitution, lasting reform or a global calendar remains unresolved. [M1:L69–75; M2:L76–84; M3:L68–76; E03:L100–111; E19:L102–104; P2:L279/L297–317]",
+        "paragraph_sha256": "707983abcbd9106f53939b07e7f8f4ff31484d60b1d13c419341d3dc8fb6e8e7",
+        "section": "1. Core thesis: a chosen school life requires more than protective intention",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "M1",
+            "locator": "Physical analytical-owner L69–75",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M2",
+            "locator": "Physical analytical-owner L76–84",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M3",
+            "locator": "Physical analytical-owner L68–76",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E03",
+            "locator": "Physical analytical-owner L100–111",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L102–104",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P2",
+            "locator": "Physical analytical-owner L279",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P2",
+            "locator": "Physical analytical-owner L297–317",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI006",
+        "saved_line": 29,
+        "saved_paragraph": "The Eden chapters show the committee inside several different authority relationships. Koharu's grade-based access and return bar is represented, while her claim to a secret Hasumi assignment is uncorroborated. Hasumi's private talk is not recovered by fragments overheard elsewhere. Nagisa's confessed suspect/expulsion design is a Tea Party construction, and Mika's claimed Justice stand-down belongs to her insider account; neither licenses inventing an inspected committee order book. The relayed Hasumi encouragement and apology at the final examination matter, and the simultaneous official pass is narrator-certified. A formal Justice reinstatement does not follow from that score or relay alone. Academic achievement, organizational access and repair of a disciplinary relationship remain distinct. [M1:L34/L46/L63/L74; M2:L50–58/L72/L80–83]",
+        "paragraph_sha256": "4ebb1cf535a69ebdc92237acc25dd041cc246c306a92382c54911ff42c87b8cd",
+        "section": "2. Longitudinal comparison: changing situations without a manufactured reform ladder",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "M1",
+            "locator": "Physical analytical-owner L34",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M1",
+            "locator": "Physical analytical-owner L46",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M1",
+            "locator": "Physical analytical-owner L63",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M1",
+            "locator": "Physical analytical-owner L74",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M2",
+            "locator": "Physical analytical-owner L50–58",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M2",
+            "locator": "Physical analytical-owner L72",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M2",
+            "locator": "Physical analytical-owner L80–83",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI007",
+        "saved_line": 31,
+        "saved_paragraph": "In the attack sequence, Tsurugi and Hinata de-escalate a Justice–Prefect clash, and Hasumi/Tsurugi hold an evacuation rear guard. Later injury reports and responsive appearances prevent a portrait of effortless force or permanent absence. Koharu protects Mika without a formal Justice return; Hina later accepts Justice and Abydos help for a local maneuver. These are substantive acts by students and organizations, not merely illustrations of a teacher's ideals. They also remain smaller than restored command, a ratified treaty or a permanent cross-school alliance. The coalition is practical coordination under disputed authority. Its usefulness is directly compatible with continuing uncertainty about legal instruments, clinical outcomes and blame. [M3:L38–54/L63/L68]",
+        "paragraph_sha256": "773bda5b19d0fed14970996c255b0a8a2b32a3287a7a4dda158089722c5ca450",
+        "section": "2. Longitudinal comparison: changing situations without a manufactured reform ladder",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "M3",
+            "locator": "Physical analytical-owner L38–54",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M3",
+            "locator": "Physical analytical-owner L63",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M3",
+            "locator": "Physical analytical-owner L68",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI008",
+        "saved_line": 33,
+        "saved_paragraph": "The next Eden ending supplies another real institutional act: Justice finds and secures Sensei/Mika through Seia's guidance and Azusa's route knowledge, alongside contributions from Nagisa, Sisterhood, Rescue Knights, Hanako/Ui and Koharu. Assigning that result solely to Justice would be as misleading as assigning it solely to the adult. The chapter leaves Mika's hearing ahead at its own frontier. The later Final hearing then supplies an actual disposition: Tea Party powers and privileges are removed, Patar representation temporarily remains pending a successor, confinement ends and academic return is permitted. These states must not be collapsed into either full restoration or total loss of every authority. Ichika's gate work afterward encounters hostility and a local fight whose final enforcement result is unprinted. A disposition exists; its implementation and social repair are different questions. [M4:L56–71; F04:L28–44]",
+        "paragraph_sha256": "84fd5468689005e7fd189517f244a6f148a1a7d029ae9b0e5303ace3b04c7eba",
+        "section": "2. Longitudinal comparison: changing situations without a manufactured reform ladder",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "M4",
+            "locator": "Physical analytical-owner L56–71",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "F04",
+            "locator": "Physical analytical-owner L28–44",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI009",
+        "saved_line": 35,
+        "saved_paragraph": "The supplemental settings broaden this comparison rather than fill every administrative gap. A compulsory club exchange, a beach assignment, a sports festival, a Christmas party, a train errand and a divided amusement park expose different ways of combining work and leisure. Some have explicit local callbacks; none creates a single chronological progression from damaged institution to corrected institution. EVENT848's helper encounters also cannot be concatenated into one simultaneous completed deployment. The defensible longitudinal claim is a repertoire: the institution can impose, accommodate, recognize, fail and help in particular arrangements. Its members can change an appraisal locally without proving a universal reform. [G1:L68/L96–116; E03:L100–119; E18:L219–227; E19:L122; E48:L1671/L1683–1687; E51:L167]",
+        "paragraph_sha256": "c1614c64ee98392c55da40aaf71931d82b989c0650ceb6b4b16843cb50af9000",
+        "section": "2. Longitudinal comparison: changing situations without a manufactured reform ladder",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "G1",
+            "locator": "Physical analytical-owner L68",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "G1",
+            "locator": "Physical analytical-owner L96–116",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E03",
+            "locator": "Physical analytical-owner L100–119",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E18",
+            "locator": "Physical analytical-owner L219–227",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L122",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E48",
+            "locator": "Physical analytical-owner L1671",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E48",
+            "locator": "Physical analytical-owner L1683–1687",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E51",
+            "locator": "Physical analytical-owner L167",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI010",
+        "saved_line": 39,
+        "saved_paragraph": "Hasumi's written claim that Justice is full of love and peace and Tsurugi's presentation as a strategic weapon belong to an institutional image, not a neutral audit. The private repertoire challenges both flat descriptions. Hasumi wants milk tea, sweets, attractive clothes, sunset company and a summer devoted to play; Tsurugi keeps a tidy room, treasures film objects, checks whether an invitation is real and enjoys unconventional beach play. Their wishes are already present. They are not rewards bestowed when a public crisis proves their humanity, and no costume sequence has to discover them in a fixed order. The same sources retain reckless conduct, hostile rhetoric, recipient fear and work burden. Private tenderness supplies another view of the students; it does not cancel public consequences. [P1:L280–286/L294–306/L350–363/L369–388]",
+        "paragraph_sha256": "90df7c3287cf004023ba3e275cca86178c18e886c6072fee0ec00e53230d3af7",
+        "section": "3. Public image and private life: justice is an assertion that people can test",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L280–286",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L294–306",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L350–363",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L369–388",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI011",
+        "saved_line": 41,
+        "saved_paragraph": "Mashiro's quietness likewise coexists with deliberately initiated philosophy reading, proverb interest, failed humor, sewing needs, cute clothing, cooling food and shared city watching. She can articulate a purpose-limited touching objection, yet refuse another participant's request for a pause. Ichika's affability is reported as effort, not uncomplicated innate ease; she can triage effectively and finish work while doubting her worth, seek a confidant without rejecting every peer, and enjoy a new activity without choosing it as a vocation. An institution that treats these presentations as complete roles would mistake quietness for obedience, facility for compelled service, or relaxed speech for insufficient care. The source's internal contrasts make those mistakes visible. [P2:L168–170/L235–279/L323–335; P3:L462–497]",
+        "paragraph_sha256": "19ec0c7016daeed292fa5e02daa55998c3285bc97ce876ba0929fde34dca7d71",
+        "section": "3. Public image and private life: justice is an assertion that people can test",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "P2",
+            "locator": "Physical analytical-owner L168–170",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P2",
+            "locator": "Physical analytical-owner L235–279",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P2",
+            "locator": "Physical analytical-owner L323–335",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P3",
+            "locator": "Physical analytical-owner L462–497",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI012",
+        "saved_line": 43,
+        "saved_paragraph": "GROUP1802 provides a particularly exact test of institutional categories. Hasumi appreciates a tea's aroma and is praised for brewing, then rejects it after a guest qualifies its Gehenna provenance; burning is proposed, not enacted. The category overrides previously enjoyed experience and frightens the hosts. In the same packet Tsurugi reports being welcomed while Sweets peers have reader-accessible fear, Kazusa doubts the extreme interpretation and Airi considers making contact. Her happiness need not be deceptive, but it cannot certify their comfort. Mashiro's question about how the guests felt creates a recipient-side check that the committee's own favorable report lacks. Internal reflection is valuable precisely because a benevolent institutional self-image is insufficient evidence. [G1:L102–116]",
+        "paragraph_sha256": "68c04efbe612c976d35f26b64694bf3e5f4621d536d91f7c037d0dbef96f744c",
+        "section": "3. Public image and private life: justice is an assertion that people can test",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "G1",
+            "locator": "Physical analytical-owner L102–116",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI013",
+        "saved_line": 47,
+        "saved_paragraph": "Hasumi's notebook is a concrete governance object with two purposes. Contacts and strengths support assignment; interests, anniversaries and allergies recognize a life beyond assignment. She explicitly places club membership and student enjoyment before work, while admitting personal-information care is necessary and herself losing the notebook. Its return is achieved; comprehensive privacy protection is not. That contradiction is more revealing than either praise for perfect administration or dismissal of recordkeeping as pure surveillance. The notebook can support attentiveness and create obligations about who sees intimate information. The adult's accidental-viewing/apology alternative supplies no general right to inspect every entry, and the unusually matching entry is not securely identified. [P1:L305–306]",
+        "paragraph_sha256": "29482645e6a8891c20fb0fc1e860040c8fef2bef1333ab2900882c55cc471bdc",
+        "section": "4. Governance in practice: records, assignments, limits and divided authority",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L305–306",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI014",
+        "saved_line": 49,
+        "saved_paragraph": "Scheduling makes the distribution of cost visible. The summer roster has different members' names, but Hasumi's own name recurs throughout. She intends their free time as a gift and refuses alteration because someone else would bear the load. This is neither proof that everyone works continuously nor evidence that the institution has solved rest through one self-sacrificing deputy. A practical arrangement gives others time while making her enjoyment hard to realize. EVENT803 likewise ends with her acknowledging a wish list born from her own fatigue while the leave remains unfulfilled. EVENT818 supplies a different possibility: Tsurugi declines monopoly and attention, Mashiro wants the invisible worker recognized, and Hasumi takes the anchor, enjoys the experience and finishes sixth. Participation and ranking are different outcomes. [P1:L324–335; E03:L108; E18:L219–221]",
+        "paragraph_sha256": "4c7382c70bd578edca71dba36d74d63e129427143ad175265a8cc7f7ab18a9b0",
+        "section": "4. Governance in practice: records, assignments, limits and divided authority",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L324–335",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E03",
+            "locator": "Physical analytical-owner L108",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E18",
+            "locator": "Physical analytical-owner L219–221",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI015",
+        "saved_line": 51,
+        "saved_paragraph": "These practices operate within divided authority rather than making the committee sovereign over Trinity. Nagisa can send a compulsory exchange instruction, but her image of therapeutic contact does not demonstrate what that instruction achieves. Tea Party disciplinary constructions, Sisterhood intervention, Rescue Knights care, district jurisdiction and committee field work appear at distinct scopes. In EVENT812013, Mashiro applies a participant-list restriction to would-be attendees, says security personnel may not go beyond specified points, admits limited knowledge and offers a relay. In EVENT851 she repeatedly lacks fire permission and later explicitly receives it after the target crosses into Trinity. Neither a list nor permission supplies an inspected general charter; both are actual limits represented within work. The institution's capacity includes being unable to authorize every useful-looking action. [G1:L96; M2:L52–54; L13:L37–45; E51:L117/L123–139/L163]",
+        "paragraph_sha256": "091df588488c56e58312d1bd126d7a4fb5e79a2f46a70d7976ad684c327f0330",
+        "section": "4. Governance in practice: records, assignments, limits and divided authority",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "G1",
+            "locator": "Physical analytical-owner L96",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M2",
+            "locator": "Physical analytical-owner L52–54",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "L13",
+            "locator": "Physical analytical-owner L37–45",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E51",
+            "locator": "Physical analytical-owner L117",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E51",
+            "locator": "Physical analytical-owner L123–139",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E51",
+            "locator": "Physical analytical-owner L163",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI016",
+        "saved_line": 53,
+        "saved_paragraph": "The limits are also experienced differently by members and former members. Koharu's exclusion from room access and uncertain formal return cannot be inferred away by bravery. Suzumi's autobiographical account describes actual brief Justice membership, then departure because meals, silences and attention were frightening; she denies rumors of fighting or hatred. Her later statement about being unable to become Justice must be read with that earlier membership, not transformed into a failed admission. This is one reported experience, not proof every member finds the club oppressive or a diagnosis. It nevertheless matters institutionally: an organization can protect people outside it while its everyday conditions remain difficult for someone who joined. [M1:L46/L63/L74; M2:L72; M3:L34/L46; E51:L127/L139/L163]",
+        "paragraph_sha256": "78090d81223094142039246212a074ab1c745be3bc57940f01f987a50b536ae0",
+        "section": "4. Governance in practice: records, assignments, limits and divided authority",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "M1",
+            "locator": "Physical analytical-owner L46",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M1",
+            "locator": "Physical analytical-owner L63",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M1",
+            "locator": "Physical analytical-owner L74",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M2",
+            "locator": "Physical analytical-owner L72",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M3",
+            "locator": "Physical analytical-owner L34",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M3",
+            "locator": "Physical analytical-owner L46",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E51",
+            "locator": "Physical analytical-owner L127",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E51",
+            "locator": "Physical analytical-owner L139",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E51",
+            "locator": "Physical analytical-owner L163",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI017",
+        "saved_line": 57,
+        "saved_paragraph": "The Christmas tea party articulates an unusually direct ordinary ethic. Hasumi tells nervous members that knowledge may enrich enjoyment but is not a prerequisite; scones, cake and tea are recognition of the year's effort, and they may enjoy them in their own way. The milk-first debate is interest, not an entrance examination or certified chemistry. Tsurugi does not dislike the refreshments but worries her presence makes others tense. She offers Mashiro a shift because outside is easier for her; Mashiro accepts temporary relief, having said that guarding others' pleasure feels party-like to her. An unnamed member also invites Mashiro to enjoy the party. These are different wanted arrangements, not proof that guards lack private life or that sitting indoors is the one authentic form of rest. [E19:L91–92/L112]",
+        "paragraph_sha256": "c04c03bb6502119627927777a34b17715bf0ff375af9322503c143ca69097f1b",
+        "section": "5. Ordinary life: leisure is a purpose, and its forms need not match",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L91–92",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L112",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI018",
+        "saved_line": 59,
+        "saved_paragraph": "Other endings preserve the difference between facilitating enjoyment and sharing it. Hasumi's brief sunset interval actually lasts until dark; Tsurugi's hoped-for joint film remains future even after real organizing; Mashiro's city watching actually lasts until sunset without needing an operation; Ichika's park afternoon is enjoyed although advice about finding enthusiasm is not understood. EVENT803 gives Tsurugi a wanted craft relationship whose reception is uncertain and Mashiro/Azusa a reciprocal revision followed by a collaborative start, not a finished indestructible castle. Small completed pleasures and unfinished relational requests deserve separate entries in the account. Calling them all friendship would discard their direction and degree of uptake. [P1:L297/L351; P2:L279; P3:L475; E03:L102/L109]",
+        "paragraph_sha256": "54a496770c27b1d98b676e04e9ef8f2c3aa0a9ff32cdbbab11f72af8a6834e39",
+        "section": "5. Ordinary life: leisure is a purpose, and its forms need not match",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L297",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L351",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P2",
+            "locator": "Physical analytical-owner L279",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P3",
+            "locator": "Physical analytical-owner L475",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E03",
+            "locator": "Physical analytical-owner L102",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E03",
+            "locator": "Physical analytical-owner L109",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI019",
+        "saved_line": 61,
+        "saved_paragraph": "Nor does a pleasant setting ensure the intended recipient's rest. Mashiro's cooling preparations and slow enjoyment of a popsicle are genuine, but the winning-stick prize produces strenuous exercise and no swim for the adult. Hasumi's overfilled schedule and restrictive preparation coexist with actual beach play, dizziness, a served meal and fireworks; neither a clinical diagnosis nor durable management follows. Ichika appreciates a useful night conversation yet says the wanted walk was lost to an interview. These endings oppose the assumption that any well-meant leisure intervention counts as leisure for its recipient. The institution's ordinary purpose requires attending to what each person wanted, not merely recording that an activity or helpful conversation occurred. [P2:L303–309; P1:L324–335; P3:L484–485]",
+        "paragraph_sha256": "28433dc7fb63c9a2bbff7cc98448e0d920a2c88b2b02a82ebb7c224fe84c24e7",
+        "section": "5. Ordinary life: leisure is a purpose, and its forms need not match",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "P2",
+            "locator": "Physical analytical-owner L303–309",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L324–335",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P3",
+            "locator": "Physical analytical-owner L484–485",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI020",
+        "saved_line": 63,
+        "saved_paragraph": "Theatre gives a public form to chosen making and its costs. Tsurugi knows the script through reading and preparation, enjoys watching practice and initially declines because she expects to frighten people. A reported injury creates the opening; encouragement follows, and she explicitly agrees to try. Strong initial performance is followed by lost composure at Sensei's cheering; Wild Hunt viewers interpret it as expressionism and applause spreads. The play is narrated successful, then she faints at the curtain call, with recovery unprinted. Ichika's prince-role participation remains an attributed parent report in the private owner, rather than a fact independently established by the current016 summary. Creative interest is not invented by the emergency or exhausted by successful substitution. Support can enable a wanted attempt and precipitate difficulty; audience approval does not prove the method was intended or every participant unburdened. The proposed filming also remains a permission question, not completed publicity. [E41:L957–965; P3:L524]",
+        "paragraph_sha256": "7900568bd468d09cc45d21f94445c1796a5a5803bc68f67eaf29fe057afad252",
+        "section": "5. Ordinary life: leisure is a purpose, and its forms need not match",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "E41",
+            "locator": "Physical analytical-owner L957–965",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P3",
+            "locator": "Physical analytical-owner L524",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI021",
+        "saved_line": 65,
+        "saved_paragraph": "Gift and warehouse routines extend that ordinary value into work. Mashiro's shared tidying, provision knowledge, sampled chocolate reaction and qualified personal offer combine practical usefulness with wanted expression; her claim about unbooked goods is not inspected disposal authority. Tsurugi's arranged meeting and valued dropped chocolate matter although the intended words remain incomplete and the adult's inward thanks are not certified heard. Hasumi asks whether advance lemon receipt would burden the adult and actually enjoys joint bottling; separate consumption by that recipient is unprinted. The committee does not have to choose between utility and affect. It does have to preserve the difference between an offer, receipt, taste, audible recognition and fulfilled future reciprocity. [M06:L37–45/L68–74; T70:L37–43/L67–71; P1:L313–314]",
+        "paragraph_sha256": "d45a843258505c9de45ddc470feb7d9d79589f60eb968ab05db896f18b03060f",
+        "section": "5. Ordinary life: leisure is a purpose, and its forms need not match",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "M06",
+            "locator": "Physical analytical-owner L37–45",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M06",
+            "locator": "Physical analytical-owner L68–74",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "T70",
+            "locator": "Physical analytical-owner L37–43",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "T70",
+            "locator": "Physical analytical-owner L67–71",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L313–314",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI022",
+        "saved_line": 69,
+        "saved_paragraph": "GROUP1801's rescue has a represented explosion and Tsurugi's entrance, followed by ward reports of hospitalized students and severely affected attackers. The unnamed hostage's warning to the kidnappers gives the protected person's apprehension a place before the result. Mashiro's further tasks include collapsed-building rescue help, compensation processing and ammunition reporting; Hasumi is tired and concerned for Tsurugi. Those obligations are not a complete compensation or proportionality audit, but they prevent force from appearing costless just because the mission succeeds. Mashiro's impossibility-of-zero-harm argument names a real difficulty without establishing that any particular degree of force was necessary. Caregivers' tentative health accounts remain reports, with actor seams and exaggerated imagery qualified. [G1:L90–96]",
+        "paragraph_sha256": "01924a3d470499fa0d9569eb25597c2c20b6f043b787551d367e11313020087e",
+        "section": "6. Crisis and force: achieved protection does not settle its cost",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "G1",
+            "locator": "Physical analytical-owner L90–96",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI023",
+        "saved_line": 71,
+        "saved_paragraph": "Christmas tests the converse error: refusing to listen to alleged wrongdoers would be a failure, but listening does not warrant acting on their incomplete story. The delinquents explicitly plan manipulation while genuinely distressed. Mine admits Justice recovered the chicken but treats recovery as wrongful taking, blocks explanation and attacks colleagues under rescue language. Hasumi's intimidation in securing a venue and political escalation warning are genuine contrary details; they do not make Mine's inference adequate. Tsurugi and Mashiro voluntarily defend rare rest, the juniors make actual choices and later provide treatment, the opponents escape, and Hasumi rejects Mine's life-for-life performance of responsibility. The actual party follows apology and reported recovery, while Tsurugi/Hasumi doubt lasting reform. The ending is proportional local reconciliation, not an arrest, full restitution or a vindication of every previous method. [E19:L85–108/L112–118]",
+        "paragraph_sha256": "90f410660a4cf3d574dba55ad35721f930bcd362919568d26f94f7a3f1c10902",
+        "section": "6. Crisis and force: achieved protection does not settle its cost",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L85–108",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L112–118",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI024",
+        "saved_line": 73,
+        "saved_paragraph": "The train account prevents institutional failures from being assigned only to outsiders. Hasumi sets a finite bag duty and optional teacher-rest support. Ichika repeatedly encounters blocked explanations, condescending affiliation claims and bag leverage; Iori's investigation qualification coexists with threats. Ichika also explicitly reports shooting and apologizes, with targets, trajectories and medical consequences unprinted. Task failure is admitted. Nagisa's later acknowledgment and willingness to accept breakage relieve anticipated punishment without performing restoration or certifying authenticity. Respecting Ichika's effort is compatible with taking her reported force seriously. A humane response need not declare the staff member flawless, and a failure need not justify destroying her ordinary life. [E30:L98–118/L124]",
+        "paragraph_sha256": "081e1c6e160f0c5cb641ef9e785dcee1be490725538a4040dbd7b30a108b870b",
+        "section": "6. Crisis and force: achieved protection does not settle its cost",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "E30",
+            "locator": "Physical analytical-owner L98–118",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E30",
+            "locator": "Physical analytical-owner L124",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI025",
+        "saved_line": 75,
+        "saved_paragraph": "Institutional restraint can itself be a positive act, without guaranteeing a clean final use of force. At the park Mashiro declines shooting while permission and jurisdiction are unresolved; later explicit permission permits an action amid performance framing, children's enjoyment, Mirai's resistance and immediate eye cries. A patrol-complete declaration is not a trial or recovery record. At the ceremony gate, Ichika forbids firing even skyward before calling members to stop a fight; the final enforcement outcome is not printed. These limits are neither evidence that nothing happens nor a certificate of lawful, harmless force. They distinguish an actual rule-constrained decision from the still-needed accounting of what affected people experienced. [E51:L123–145/L153–163; F04:L42–48]",
+        "paragraph_sha256": "4d53ec2e4b421e9fc6a73c9b0257a2dc3d104f74344ffd55692af1eae66409ab",
+        "section": "6. Crisis and force: achieved protection does not settle its cost",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "E51",
+            "locator": "Physical analytical-owner L123–145",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E51",
+            "locator": "Physical analytical-owner L153–163",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "F04",
+            "locator": "Physical analytical-owner L42–48",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI026",
+        "saved_line": 77,
+        "saved_paragraph": "A report-driven response can also end short of an encounter. In GROUP2201, Aru recognizes a suspicious pitch and orders retaliation; Hasumi and Mashiro arrive after a report of an illegal briefing and find nobody. The firm's members avoid contact and depart. The committee's attendance is represented, but a completed investigation, arrest, trial, financial recovery, measured destruction or JTF–PS68 confrontation is not. Calling the briefing illegal states the received reason for attendance, not an adjudication. This thin institutional endpoint matters alongside fuller rescues: the organization can act on a report without the record demonstrating what it learns or remedies. Neither PS68's detection of deception nor Justice's arrival grants a retrospective blanket authority to punish. [G2:L71–87/L109–111]",
+        "paragraph_sha256": "ada20bbabf0620a0150415483478b01e7bb2a736709785b9a8e432da60b7dbec",
+        "section": "6. Crisis and force: achieved protection does not settle its cost",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "G2",
+            "locator": "Physical analytical-owner L71–87",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "G2",
+            "locator": "Physical analytical-owner L109–111",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI027",
+        "saved_line": 81,
+        "saved_paragraph": "The institution is already capable of peer action while the adult is absent, incapacitated or peripheral. GROUP1801–1802 includes no Sensei participation; Christmas accommodations originate among members; Koharu protects Mika and the Eden coalition has separate student and caregiver contributions; Justice later finds the injured adult. Sensei's support belongs within those relationships. Refusal of Nagisa's suspect hunt, accompaniment, limits on unsafe training and effort recognition are consequential, but they do not establish a teacher's authority to pardon every act, guarantee every rescue or define what students should want. The teacher can be a recipient of care as well as an intervener. [G1:L84; E19:L91–95; M1:L52/L59/L79; M3:L38–54; M4:L56–71; P2:L297–299]",
+        "paragraph_sha256": "f879ea2b3030397324e9f1a44425cc414cf4eec3313a36cf0add30b41f32335b",
+        "section": "7. Sensei: support and intervention within reciprocal responsibility",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "G1",
+            "locator": "Physical analytical-owner L84",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L91–95",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M1",
+            "locator": "Physical analytical-owner L52",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M1",
+            "locator": "Physical analytical-owner L59",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M1",
+            "locator": "Physical analytical-owner L79",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M3",
+            "locator": "Physical analytical-owner L38–54",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M4",
+            "locator": "Physical analytical-owner L56–71",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P2",
+            "locator": "Physical analytical-owner L297–299",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI028",
+        "saved_line": 83,
+        "saved_paragraph": "The private comparisons expose a necessary adult-side answerability. Comfort follows Mashiro's neck-touch objection, but an accepted repair is not printed. Tsurugi's pursuit ends in train impact and an apology to a station employee, with compensation and service repair unclosed. Hasumi's beach interruption includes an adult apology for possible pressure and her refusal to blame; neither erases the interruption. Ichika's thanks for a consultation coexist with loss of the requested ordinary walk. Adult helpfulness must survive these recipient corrections rather than treating every grateful reply as consent to the whole process. The warmth is real, and the specific disappointments are real. [P2:L259–267; P1:L339–341/L331–332; P3:L484–485]",
+        "paragraph_sha256": "6d5571c34ae4e793498d9230e34354c42f60ed550636c26efb640227e2ea69f7",
+        "section": "7. Sensei: support and intervention within reciprocal responsibility",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "P2",
+            "locator": "Physical analytical-owner L259–267",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L339–341",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L331–332",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P3",
+            "locator": "Physical analytical-owner L484–485",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI029",
+        "saved_line": 85,
+        "saved_paragraph": "Ichika's request for reciprocal small help supplies an alternative to a permanently one-way teacher institution. She wants to be called for disputes or shopping choices within her competence, while represented teacher alternatives do not become a blanket enforceable agreement. Hasumi's train exception similarly makes care finite rather than unlimited staff obligation. At Christmas the teacher's options can seek Justice's side or question unwanted pursuit; they do not prevent escalation in time. The later affirmation protects the act of listening without endorsing premature force. Reciprocity here is concrete and fallible: shared labor, relief, boundary, apology and an accepted invitation, not a prediction that adult presence always makes the institution safe. [P3:L470–471; E30:L98; E19:L87–104/L132]",
+        "paragraph_sha256": "2246f4705301755d3392762fcf6e81291c83ec30eba31a904592a493a791bc8f",
+        "section": "7. Sensei: support and intervention within reciprocal responsibility",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "P3",
+            "locator": "Physical analytical-owner L470–471",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E30",
+            "locator": "Physical analytical-owner L98",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L87–104",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L132",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI030",
+        "saved_line": 89,
+        "saved_paragraph": "The committee's internal differences can interrupt monopoly over a definition of service. Tsurugi chooses easier guard work, Mashiro wants the worker behind an event recognized, Ichika prioritizes urgent backup rather than intruding into every dispute, and an unnamed junior agrees after Ichika admits her limit and apologizes for drawing on leave. These are material choices, not a general staffing solution. In EVENT848026, Mashiro's worry about invisible contribution also contains concern for Ichika's solitary patrol; the senior accepts the help rather than reducing it to tactical necessity. Peer company can be a legitimate reason for work, while no completed patrol or actual rest follows from these short encounters alone. [E19:L92; E18:L221; P3:L462–463; E48:L1587–1595/L1659–1667]",
+        "paragraph_sha256": "d05438b43579ca9e83d431b4cfa880e31c83202742bb8a7babb7685a4f758843",
+        "section": "8. Peers and recipients: whose answer changes the institutional account?",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L92",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E18",
+            "locator": "Physical analytical-owner L221",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P3",
+            "locator": "Physical analytical-owner L462–463",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E48",
+            "locator": "Physical analytical-owner L1587–1595",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E48",
+            "locator": "Physical analytical-owner L1659–1667",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI031",
+        "saved_line": 91,
+        "saved_paragraph": "Koharu and Suzumi show why belonging cannot be inferred from useful action or current affiliation alone. Koharu's score, bravery and participation in rescues do not supply the unprinted formal return order; her later club statements retain local administrative uncertainty. Suzumi's former membership and departure show a personal limit on the collective routine, and her self-named vigilance does not confer committee office. Mashiro can support her and observe a jurisdiction restriction without making them the same organization. Their different relation to the institution remains part of its social environment. Neither departure nor remedial assignment disqualifies the person's desire for company, learning, safety or chosen contribution. [M2:L58/L72; M3:L34/L46/L54; E51:L117/L127/L139/L163]",
+        "paragraph_sha256": "61717fec70abcf461636e41ca680f9c696a4f920f6932712016e0d84050e39d7",
+        "section": "8. Peers and recipients: whose answer changes the institutional account?",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "M2",
+            "locator": "Physical analytical-owner L58",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M2",
+            "locator": "Physical analytical-owner L72",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M3",
+            "locator": "Physical analytical-owner L34",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M3",
+            "locator": "Physical analytical-owner L46",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M3",
+            "locator": "Physical analytical-owner L54",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E51",
+            "locator": "Physical analytical-owner L117",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E51",
+            "locator": "Physical analytical-owner L127",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E51",
+            "locator": "Physical analytical-owner L139",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E51",
+            "locator": "Physical analytical-owner L163",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI032",
+        "saved_line": 93,
+        "saved_paragraph": "External recipients also prevent a closed account of good intentions. Literature hosts are interested while Mashiro is uncomfortable; tea hosts are frightened after praise; Sweets peers vary between fear, doubt and proposed contact while Tsurugi enjoys the visit. At the resort, Hifumi's labor and fatigue do not disappear into other members' good memories, and opponents retain extraction requests, food objections and a wish to face tomorrow. Christmas includes manipulated caregivers who actually treat colleagues, delinquents who escape and donor/party gratitude that genuinely occurs. A recipient is not only a harmed party, and an opponent is not only a threat. Preserving those identities at the local role level makes the institutional comparison larger than a ledger of named members' successes. [G1:L102–116; E03:L104–111/L119; E19:L81–104]",
+        "paragraph_sha256": "97a65269282ce7dd2916925918cf50410ac97b754b9cba1f49051640cdddfdb5",
+        "section": "8. Peers and recipients: whose answer changes the institutional account?",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "G1",
+            "locator": "Physical analytical-owner L102–116",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E03",
+            "locator": "Physical analytical-owner L104–111",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E03",
+            "locator": "Physical analytical-owner L119",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L81–104",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI033",
+        "saved_line": 95,
+        "saved_paragraph": "Official disposition and practical mediation create further recipient differences. The Final hearing chair prints sanctions and permitted return; demonstrators demand reversal; Azusa objects to collective hostility; Airi is pushed amid a Sweets confrontation; Ichika orders restraint and calls support. None of those voices cancels the others, and the hearing chair is an anonymous procedural role rather than an invented official biography. EVENT836's detained friends receive Ichika's promise of an upward explanation and forecast indulgence, not a final pardon or restitution. Formal sanction, a proposed mitigating account, personal forgiveness, peer affirmation and safe public space are separate forms of answerability. An institutional synthesis must state which one has actually occurred. [F04:L30/L42–50; E36:L174–188]",
+        "paragraph_sha256": "3081f5b88c19196d9fbe2645ad19c982a49d6c56837f9c929024023c720726e9",
+        "section": "8. Peers and recipients: whose answer changes the institutional account?",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "F04",
+            "locator": "Physical analytical-owner L30",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "F04",
+            "locator": "Physical analytical-owner L42–50",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E36",
+            "locator": "Physical analytical-owner L174–188",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI034",
+        "saved_line": 99,
+        "saved_paragraph": "Words of authority often carry an argument rather than certify it. Justice can name Mashiro's chosen guarding, her wanted all-person rescue, a sales slogan she mistakes for a rule, or an institution whose actions are contested. Rescue can name donation and treatment or Mine's coercive correction. EVENT819 distinguishes admitted recovery of an object, 回収, from the stronger accusation of taking, 奪う; conflating them would decide the misunderstanding before the explanation. Hasumi's love-and-peace statement and a protester's witch label likewise belong to speakers. The correct question is what each word organizes or authorizes in the represented encounter, and whether another participant can challenge it. [P2:L245–247/L285/L333; E19:L118; P1:L370; F04:L42/L48]",
+        "paragraph_sha256": "c3d34bed78814bfb2cc775bd703df17da8c442ee88d23c19d6a3cafe89380aae",
+        "section": "9. Institutional language, voice and the limits of representation",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "P2",
+            "locator": "Physical analytical-owner L245–247",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P2",
+            "locator": "Physical analytical-owner L285",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P2",
+            "locator": "Physical analytical-owner L333",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L118",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L370",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "F04",
+            "locator": "Physical analytical-owner L42",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "F04",
+            "locator": "Physical analytical-owner L48",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI035",
+        "saved_line": 101,
+        "saved_paragraph": "Administrative register has local effects: room-entry conditions, a participant list, permitted positions, no-fire decisions, a disposal claim, a message relay and a hearing disposition. These are different from an inspected charter, procurement ledger, legal instrument or selected runtime. GROUP1801's video does not put Nagisa physically in the ward; EVENT830's JP/KR divergences do not have one guaranteed common explanation; EVENT818's actor seams prevent Yuuka/Noa statements from becoming Hasumi's knowledge. The institution can be interpreted through secure surrounding action while uncertain fine attribution remains uncertain. Numerical episode identifiers and physical checkpoint lines are distinguished throughout this packet; E19:L118 is a checkpoint line, not a nonexistent episode118. [G1:L66/L70–86; L13:L37–45; M06:L37/L68–72; F04:L30/L48; E30:L98–118; E18:L275–285]",
+        "paragraph_sha256": "1714da1c87b09dadcc54a6b3aebbed5d9ae9bce1ded2eaec207ab303ebe067f8",
+        "section": "9. Institutional language, voice and the limits of representation",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "G1",
+            "locator": "Physical analytical-owner L66",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "G1",
+            "locator": "Physical analytical-owner L70–86",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "L13",
+            "locator": "Physical analytical-owner L37–45",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M06",
+            "locator": "Physical analytical-owner L37",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M06",
+            "locator": "Physical analytical-owner L68–72",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "F04",
+            "locator": "Physical analytical-owner L30",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "F04",
+            "locator": "Physical analytical-owner L48",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E30",
+            "locator": "Physical analytical-owner L98–118",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E18",
+            "locator": "Physical analytical-owner L275–285",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI036",
+        "saved_line": 103,
+        "saved_paragraph": "Written introductions, conditional lobby scripts, MomoTalk retrospect and narrative action also have unequal scope. Hasumi's protection pledge is not universal protection; an empty costume Profile is not a missing person; repeated event contexts are not extra completed incidents; Tsurugi's inward chocolate pickup/thanks does not establish a heard response. All of this is textual voice and staging, without acoustic, visual or performed inspection. Some inward-labeled text receives a reply, so no blanket inaudibility rule is imposed either. Keeping both limits permits a mature reading of difficult communication without inventing telepathy, clinical diagnoses or an unprinted confession. [P1:L369–399; P2:L321–341; P3:L497–503/L528–530; T70:L67–71; E19:L120]",
+        "paragraph_sha256": "17677afb20c0f10ee897848744a2f38422861ab17d1662913f8d603ae8e8dfd5",
+        "section": "9. Institutional language, voice and the limits of representation",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L369–399",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P2",
+            "locator": "Physical analytical-owner L321–341",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P3",
+            "locator": "Physical analytical-owner L497–503",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P3",
+            "locator": "Physical analytical-owner L528–530",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "T70",
+            "locator": "Physical analytical-owner L67–71",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L120",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI037",
+        "saved_line": 107,
+        "saved_paragraph": "**A benevolent family.** The notebook, welcoming party, invitations, guard relief, encouragement, rescue and proportionate response to failed work strongly support affection and care. The reading fails if family language establishes unlimited access, universal comfort or a right to decide another's leisure. The same repertoire contains private-information risk, compulsory exchange, intimidating venue negotiations, disregard of a pause, prejudice and a lost walk. Its stronger form is that care creates responsibilities to people with distinct preferences; it does not exempt the institution from them. [P1:L306; E19:L91–112; E30:L116; G1:L96–116; P2:L263–267; P3:L484–485]",
+        "paragraph_sha256": "34a9f3b5ff698cbf131435958f6e507ef46cad9cefb4aae79c3f94bf8cf141fc",
+        "section": "10. Competing readings: substantial alternatives and their limits",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L306",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L91–112",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E30",
+            "locator": "Physical analytical-owner L116",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "G1",
+            "locator": "Physical analytical-owner L96–116",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P2",
+            "locator": "Physical analytical-owner L263–267",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P3",
+            "locator": "Physical analytical-owner L484–485",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI038",
+        "saved_line": 109,
+        "saved_paragraph": "**An armed instrument of school power.** Gatekeeping, grade barriers, hostile rhetoric, coercive operations and administrative costs give this interpretation substantial evidence. It fails as a complete account because members independently want and negotiate books, food, craft, city watching, rest, modest conversation and alternate livelihoods. Tsurugi declines monopoly; Ichika admits a limit; juniors make actual choices; local protection is materially useful. A committee can serve a political order while containing purposes that exceed that order. The evidence supports examining their conflict, not treating every personal choice as camouflage for command. [M1:L46; G1:L90–96; P1:L306/L351–363; P2:L243–279; P3:L462–485; E18:L221; E48:L1659]",
+        "paragraph_sha256": "2e36921f032f7048dce78ec3655f54c7e978f5ef6c78583943d57640c0c2066b",
+        "section": "10. Competing readings: substantial alternatives and their limits",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "M1",
+            "locator": "Physical analytical-owner L46",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "G1",
+            "locator": "Physical analytical-owner L90–96",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L306",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L351–363",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P2",
+            "locator": "Physical analytical-owner L243–279",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P3",
+            "locator": "Physical analytical-owner L462–485",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E18",
+            "locator": "Physical analytical-owner L221",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E48",
+            "locator": "Physical analytical-owner L1659",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI039",
+        "saved_line": 111,
+        "saved_paragraph": "**Specialists whose costs are unavoidable.** Difficult rescue, compensation tasks and the impossibility of zero damage make the practical case serious. Yet those details do not provide an alternatives audit or settle the amount of harm. The hostage's apprehension, reported trauma, outsider fear, venue intimidation, blocked explanation and uncompleted repair remain material. Actual no-fire decisions and purpose-limited care show that limits are possible within work; they do not prove every later use is legitimate. Expertise can explain a contribution without authorizing its consequences in advance. [G1:L90–96; E19:L92–108; L13:L37–45; E51:L123–139]",
+        "paragraph_sha256": "c912327e0882a2862bc14660572647e9c168e825831f7a9d83553c9d698ee350",
+        "section": "10. Competing readings: substantial alternatives and their limits",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "G1",
+            "locator": "Physical analytical-owner L90–96",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L92–108",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "L13",
+            "locator": "Physical analytical-owner L37–45",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E51",
+            "locator": "Physical analytical-owner L123–139",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI040",
+        "saved_line": 113,
+        "saved_paragraph": "**Leisure as rehabilitation.** Nagisa explicitly proposes loving contact to change the committee, and several arrangements encourage unfamiliar experiences. The club exchange nevertheless has plural results and unresolved rescue harm; forced contact is not freely chosen rest. Films, skies, sweets, sewing, cooling taste, craft and wanted quiet company matter before they deliver a corrective lesson. Their intrinsic value is also why an imposed ideal holiday can fail: Hasumi has no leave, Ichika loses her walk, and the adult's swim becomes training. A literary account should not require ordinary pleasure to demonstrate therapeutic success before retaining it. [G1:L96–116; P1:L294–306/L351–363; P2:L279–317; E03:L108; P3:L485]",
+        "paragraph_sha256": "438229b2c8e234914d92acf14ed7ffb795fefe12d92324844f57c05cc0f301b1",
+        "section": "10. Competing readings: substantial alternatives and their limits",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "G1",
+            "locator": "Physical analytical-owner L96–116",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L294–306",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L351–363",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P2",
+            "locator": "Physical analytical-owner L279–317",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E03",
+            "locator": "Physical analytical-owner L108",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P3",
+            "locator": "Physical analytical-owner L485",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI041",
+        "saved_line": 115,
+        "saved_paragraph": "**Uniform institutional prejudice.** Hasumi's Gehenna-origin rejection and broad condemnation, Mashiro's reported former evil/justice scheme and Ichika's occasion-specific Hot Spring exception make prejudice impossible to omit. They do not establish one identical rule in every member or encounter. Technical peer revision, cross-school care, practical coalitions, Kasumi's helpful knowledge, constrained fire decisions and different recipient appraisals supply contrary evidence. Cooperation is not blanket reconciliation; hostility is not a total inability to cooperate. The institution's question concerns where categories override experience and where action can proceed without settled affection. [G1:L108; P2:L245; E48:L1170–1178; E03:L109; M3:L50/L68; E18:L225–227; E30:L104–124; E51:L123–139]",
+        "paragraph_sha256": "51db2ed1fd2c69f17cf513ede5b2ee5cb8a23b1f1295b4bf6035c85910b6df46",
+        "section": "10. Competing readings: substantial alternatives and their limits",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "G1",
+            "locator": "Physical analytical-owner L108",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P2",
+            "locator": "Physical analytical-owner L245",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E48",
+            "locator": "Physical analytical-owner L1170–1178",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E03",
+            "locator": "Physical analytical-owner L109",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M3",
+            "locator": "Physical analytical-owner L50",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M3",
+            "locator": "Physical analytical-owner L68",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E18",
+            "locator": "Physical analytical-owner L225–227",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E30",
+            "locator": "Physical analytical-owner L104–124",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E51",
+            "locator": "Physical analytical-owner L123–139",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI042",
+        "saved_line": 117,
+        "saved_paragraph": "**A corrected institution after apology.** Apologies, treatment/recovery reports, actual party company, Nagisa's acceptance of breakage and the hearing's differentiated disposition are meaningful completed endpoints. The interpretation fails when these become permanent Mine reform, executed artifact restoration, full restitution, restored housing, settled succession or quiet public acceptance. Christmas itself voices doubts; the train ends with conditional restoration; the hearing is followed by hostile protest and an unfinished fight. Repair has domains and degrees. Acknowledging what is achieved is compatible with stating exactly what remains owed or unknown. [E19:L102–104/L108; E30:L116–118; F04:L30/L42–44]",
+        "paragraph_sha256": "e62d221f134b4372afaec71656635fe12fa6d21b81cc500793f2f47425e90350",
+        "section": "10. Competing readings: substantial alternatives and their limits",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L102–104",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L108",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E30",
+            "locator": "Physical analytical-owner L116–118",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "F04",
+            "locator": "Physical analytical-owner L30",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "F04",
+            "locator": "Physical analytical-owner L42–44",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI043",
+        "saved_line": 119,
+        "saved_paragraph": "**A teacher-created humane order.** Adult refusal, encouragement, recovery boundaries, reassurance and accompaniment can improve particular situations. But no adult is present in the group exchange; members accommodate one another; students and caregivers sustain the Eden response; Justice rescues the adult. Private interventions also impose costs and sometimes miss the person's wanted answer. The teacher is an important participant subject to correction and capable of receiving help. Independent peer agency is part of the institution's actual operation, not a supplement that can be removed once Sensei's ethic has been stated. [G1:L84; E19:L91–95; M3:L38–54; M4:L56–71; P1:L341; P2:L259–267; P3:L485]",
+        "paragraph_sha256": "8736a0569a6fb73cfbb79f11b73ee140892ec57199772488212efa186da4708c",
+        "section": "10. Competing readings: substantial alternatives and their limits",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "G1",
+            "locator": "Physical analytical-owner L84",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L91–95",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M3",
+            "locator": "Physical analytical-owner L38–54",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M4",
+            "locator": "Physical analytical-owner L56–71",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P1",
+            "locator": "Physical analytical-owner L341",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P2",
+            "locator": "Physical analytical-owner L259–267",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P3",
+            "locator": "Physical analytical-owner L485",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI044",
+        "saved_line": 121,
+        "saved_paragraph": "**Failure proves personal unfitness.** Mashiro's practice costs, Tsurugi's frightening reception and incomplete expression, Ichika's shooting/task failure, Hasumi's overwork and Koharu's exclusion can be assembled into an incapacity story. It cannot contain the actual pass, de-escalation, rear guard, rescue, triage, chosen help, completed modest pleasure or proportionate acknowledgment. Conversely these achievements do not certify infallible staff or universal safe performance. A useful institution argument compares task success, participant cost, wanted life and official disposition as separate axes rather than grading each student into total fitness or failure. [M2:L58/L72; M3:L38–54; M4:L56–68; P3:L462–485; E30:L112–116; T70:L39–43; E19:L91–104]",
+        "paragraph_sha256": "939f6ec6052e61f803b317074e025eceb56c9c3fef5de53f75d91d7ad66154eb",
+        "section": "10. Competing readings: substantial alternatives and their limits",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [
+          {
+            "source_id": "M2",
+            "locator": "Physical analytical-owner L58",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M2",
+            "locator": "Physical analytical-owner L72",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M3",
+            "locator": "Physical analytical-owner L38–54",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "M4",
+            "locator": "Physical analytical-owner L56–68",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "P3",
+            "locator": "Physical analytical-owner L462–485",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E30",
+            "locator": "Physical analytical-owner L112–116",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "T70",
+            "locator": "Physical analytical-owner L39–43",
+            "primary_locator_not_reconstructed": true
+          },
+          {
+            "source_id": "E19",
+            "locator": "Physical analytical-owner L91–104",
+            "primary_locator_not_reconstructed": true
+          }
+        ],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI045",
+        "saved_line": 125,
+        "saved_paragraph": "The accompanying [source and author-scope receipt](JUSTICE_INSTITUTION_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json) binds every finite small normal owner and the historical732 required-home beforeimages. The [claim and endpoint register](JUSTICE_INSTITUTION_CLAIM_AND_ENDPOINT_REGISTER_V1.json) joins saved paragraphs to actual source scopes and distinguishes beneficial endings, adverse endings, reports, alternatives and unprinted tails. Personally adequate earlier analytical receiving is reused at its declared extent; this packet's fresh bounded comparisons are recorded separately. Current Cycle008 contextual admission governs historical producer-pending banners. No original primary, raw/native, performed, independent-review or model credit is acquired from binding or copying an analytical file.",
+        "paragraph_sha256": "936b27e56f4f01023803d45bf5eeb4a81eac8cdff1691851d70a1f226bd25c1e",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI046",
+        "saved_line": 129,
+        "saved_paragraph": "| M1–M4, F04 | Eden governance, committee actions, coalition and later Final hearing/gate | Chapter-local frontier differs from later disposition; no charter, global calendar or full implementation. |",
+        "paragraph_sha256": "00175593a08480db4eda0c53a8108ae128f8f0046dab2963a553167e3f4e48f7",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "SOURCE_ROUTE_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI047",
+        "saved_line": 130,
+        "saved_paragraph": "| P1–P3 | Complete declared Hasumi/Tsurugi, Mashiro and Ichika private/written meanings | Whole-message codas and written modes retained; no private-to-public transfer of another person's knowledge. |",
+        "paragraph_sha256": "1eabba916c0544ace3c26c102aa7bfd1c3040f25732061a5cf4b668bafafe213",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "SOURCE_ROUTE_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI048",
+        "saved_line": 131,
+        "saved_paragraph": "| G1, G2 | Rescue/compulsory exchange and report-driven briefing response | Tea belongs to1802; no completed JTF–PS68 encounter or legal adjudication. |",
+        "paragraph_sha256": "5969e034e6d367d49f5174b34020f075122865a8e8ae5b93f935e59893abc2c0",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "SOURCE_ROUTE_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI049",
+        "saved_line": 132,
+        "saved_paragraph": "| E03, E18, E19 | Beach work/rest, festival participation, Christmas care and accountability | Distinct actors and wishes; leave, causal audits, restitution and lasting reform remain bounded. |",
+        "paragraph_sha256": "62a77995bcaf440788ce6435ae9a702eab17e262f5c846051863206271121f32",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "SOURCE_ROUTE_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI050",
+        "saved_line": 133,
+        "saved_paragraph": "| E30, E48 | Finite errand, failure, recognition and independently scoped holiday help | JP/KR seams, recap and separate helper routes; no completed restoration/all-person deployment. |",
+        "paragraph_sha256": "856ea56f9fcdf02ef96dbb274409b5427a81a457955db9d8a4f888c9f0932da9",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "SOURCE_ROUTE_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI051",
+        "saved_line": 134,
+        "saved_paragraph": "| E36, E51, L13 | Custody/mitigation proposal, jurisdiction/fire restraint and restricted relay | Proposed indulgence is not pardon; permission is not full legality; offered relay is postponed. |",
+        "paragraph_sha256": "3898c71fc4450e6ce9d9f3ecfe6bedcd3f9937e04af7b87c0297edc93fc46986",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "SOURCE_ROUTE_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI052",
+        "saved_line": 135,
+        "saved_paragraph": "| E41, T70, M06 | Chosen theatre, imperfect expression and practical/personal gift routine | Audience interpretation, faint, incomplete words, sampled taste and qualified gift distinct from further uptake. |",
+        "paragraph_sha256": "f7d77a0a2e1732263e58f5e1bb2fdf0aedda0dbca5c50e76b42def88ec571881",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "SOURCE_ROUTE_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI053",
+        "saved_line": 137,
+        "saved_paragraph": "All fourteen **original** gaps remain OPEN. They limit the claims below rather than disqualifying the ordinary evidence already received.",
+        "paragraph_sha256": "38a24cfdadc14c4bb666bd31522fb2e0e65431d9f2f456784277a23f2df1f21d",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI054",
+        "saved_line": 141,
+        "saved_paragraph": "| G01 — Ordinary and private breadth | OPEN | This finite repertoire is substantial; it does not exhaust every member, released ordinary context or later wanted life. |",
+        "paragraph_sha256": "5128ad5aa95fea7ba29df72693acab79b0c5a2ca7a6e9edd617d50e10aadf5c0",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "GAP_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI055",
+        "saved_line": 142,
+        "saved_paragraph": "| G02 — Yuuka council/club decision transfer | OPEN | Festival cooperation/actor seams do not complete Yuuka's independent council transfer or borrow her claims as Hasumi's. |",
+        "paragraph_sha256": "4be8783e690bc05b3ea3405fc76d01d2c9276680dba351364b8d392c2357218f",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "GAP_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI056",
+        "saved_line": 143,
+        "saved_paragraph": "| G03 — Serika service, peer and reciprocity range | OPEN | No Serika service or independent reciprocal range is completed by Justice comparisons. |",
+        "paragraph_sha256": "7fabb206c807c94ac83b01d07a219f757176e46436c0a8cd611f880cb629c41d",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "GAP_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI057",
+        "saved_line": 144,
+        "saved_paragraph": "| G04 — Hina crisis causality, accountability and ordinary contrast | OPEN | Tactical cooperation and mentioned authority do not close Hina's causal/accountability record or clinical state. |",
+        "paragraph_sha256": "adfe019837feaa7978f3edcc08793e8b998d39ceab969bf78d498131fee44efb",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "GAP_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI058",
+        "saved_line": 145,
+        "saved_paragraph": "| G05 — Arius and PS68 ordinary/aftermath transfer | OPEN | Rescue coalition and a report-driven response do not complete protected livelihood, lawful pursuit, PS68 finances or encounter outcomes. |",
+        "paragraph_sha256": "8937de83576f77f560165e63e81480ed442d405e0eac300a6842f42053bee0c6",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "GAP_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI059",
+        "saved_line": 146,
+        "saved_paragraph": "| G06 — Cross-school ordinary repertoire | OPEN | Particular apprehension, revision, cooperation and gifts do not establish uniform comfort or permanent reconciliation. |",
+        "paragraph_sha256": "361c4a867800a8281a8792e1794122e80cab7818b37fda0204a79edb9d3bd16c",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "GAP_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI060",
+        "saved_line": 147,
+        "saved_paragraph": "| G07 — Story-world chronology | OPEN | Local tomorrow/next-day, retrospective and chapter sequences remain; release order, variants and helper routes yield no master reform calendar. |",
+        "paragraph_sha256": "f8982e24b2c4b7085196d65cc9ffcbb6cfd585fee8984ca2591f6b4defcb038e",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "GAP_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI061",
+        "saved_line": 148,
+        "saved_paragraph": "| G08 — Event naming and repeat contexts | OPEN | Printed titles, disambiguated gifts, blank profiles and repeated contexts do not create new plot incidents or silently repair missing metadata. |",
+        "paragraph_sha256": "01c7584925f21ad5f1c0f3015bb62d8291ed50e474bd24361765ea7ceac7783c",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "GAP_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI062",
+        "saved_line": 149,
+        "saved_paragraph": "| G09 — Written speaker/choice attribution | OPEN | Source actor seams, anonymous roles, reports, inward replies and alternative continuations remain qualified; no invented common speaker or selected runtime. |",
+        "paragraph_sha256": "6635deff2e85fbac77b47edebd308605bf430fc1f287d20426f8128e4ecabc48",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "GAP_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI063",
+        "saved_line": 150,
+        "saved_paragraph": "| G10 — Performed voice | OPEN | No sounded laugh, acted consent, camera, music, play audio or video was inspected; textual performance descriptions stay textual. |",
+        "paragraph_sha256": "4a5c30cb8a6848e218121d3be8df219abbb6934d499b390b53e5971a6a5d8d90",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "GAP_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI064",
+        "saved_line": 151,
+        "saved_paragraph": "| G11 — Hoshino's Yume record and office states | OPEN | A coalition with Abydos supplies no resolution of Hoshino/Yume records or independent office history. |",
+        "paragraph_sha256": "a1f0f4db0b06ea77d83a7d80d5b9307009578591541735bac736e687fd7e33fb",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "GAP_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI065",
+        "saved_line": 152,
+        "saved_paragraph": "| G12 — Counterpart, system and variant identity | OPEN | Named members, local anonymous juniors/chair/guests/opponents, collective actions and source modes are not merged into one person census or multiplied homes. |",
+        "paragraph_sha256": "848c0eacea64f824b24adf00aa42ed51fb65d1ca822478cdd0184e115c6cfc48",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "GAP_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI066",
+        "saved_line": 153,
+        "saved_paragraph": "| G13 — Office, contract, safety and technical outcomes | OPEN | Access rules, permission, sanctions and actual local recovery differ from charters, lawful jurisdiction, complete treatment, proportionality, restored objects and restitution. |",
+        "paragraph_sha256": "da86df109a90e8c6aa44bc93524f272303df636dabb96af21fd9c1b050362317",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "GAP_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI067",
+        "saved_line": 154,
+        "saved_paragraph": "| G14 — Unclassified/mode continuity | OPEN | Written pledges, conditional UI text, inward receipt, imagined collar, forecasts and omitted action do not automatically become enacted/performed outcomes. |",
+        "paragraph_sha256": "4cac4fb510a5ed7d1a52d2eb3df0c9c845f25e01e4b322e7a6a7109e5027525b",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "GAP_ROW",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      },
+      {
+        "claim_id": "JI068",
+        "saved_line": 156,
+        "saved_paragraph": "The strongest concluding claim is finite: Justice can support chosen student life through differentiated work, useful protection, actual hospitality, negotiation and recognition. It becomes answerable when other people can preserve their own account of the same encounter—fear alongside welcome, fatigue alongside success, refusal alongside an offer, failure alongside effort, and a sanction alongside permitted return. The record gives real examples of that plurality and real cases where it is suppressed or left unfinished. Keeping them together sustains the institution's ordinary purposes while identifying what its image cannot settle on its own.",
+        "paragraph_sha256": "d68ad64cfb206608dd3fbc3966dd38273bf83b117546707d4b245dde14ee6e95",
+        "section": "11. Evidence route, scope and open questions",
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "exact_source_joins": [],
+        "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+      }
+    ],
+    "complete_meaningful_endpoint_comparisons": [
+      {
+        "endpoint_id": "JIE01",
+        "question": "Koharu access/examination",
+        "source_locator": "M1:L46/L63/L74; M2:L58/L72",
+        "positive_achieved_or_stated_scope": "Hasumi states grade bar; official joint pass and relayed encouragement/apology are real.",
+        "contrary_and_unfinished_tail": "Secret-spy assignment remains Koharu claim; formal Justice return/repair not certified by pass.",
+        "independent_actor_or_recipient_sides": [
+          "Koharu",
+          "Hasumi",
+          "local Justice messenger",
+          "remedial students"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE02",
+        "question": "Evacuation and responsive injured colleagues",
+        "source_locator": "M3:L38–54/L63",
+        "positive_achieved_or_stated_scope": "Tsurugi/Hinata de-escalation, Hasumi/Tsurugi rear guard, responsive appearances and local cooperation.",
+        "contrary_and_unfinished_tail": "No universal recovery, restored command, signed instrument or exclusive rescuer.",
+        "independent_actor_or_recipient_sides": [
+          "Tsurugi",
+          "Hasumi",
+          "Hinata",
+          "Hina",
+          "Abydos coalition"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE03",
+        "question": "Eden rescue coalition",
+        "source_locator": "M4:L56–71",
+        "positive_achieved_or_stated_scope": "Justice finds/secures Sensei and Mika through Seia/Azusa leads amid differentiated help.",
+        "contrary_and_unfinished_tail": "Hearing still future at this chapter frontier, no complete treatment/map restoration.",
+        "independent_actor_or_recipient_sides": [
+          "Justice collective",
+          "Seia",
+          "Azusa",
+          "Nagisa",
+          "Koharu",
+          "Sisterhood",
+          "Rescue Knights"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE04",
+        "question": "Actual Final hearing",
+        "source_locator": "F04:L28–32/L48",
+        "positive_achieved_or_stated_scope": "Three-session disposition removes Tea Party powers/privileges, retains Patar until successor, ends confinement, permits study.",
+        "contrary_and_unfinished_tail": "No inspected vote/code, successor, attendance, housing or full requested-restraint implementation.",
+        "independent_actor_or_recipient_sides": [
+          "Mika",
+          "anonymous hearing chair",
+          "Patar constituents"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE05",
+        "question": "Gate protest restraint",
+        "source_locator": "F04:L42–44",
+        "positive_achieved_or_stated_scope": "Ichika prohibits shooting even skyward, calls members; Azusa objects to collective hostility; Airi pushed and peers confront.",
+        "contrary_and_unfinished_tail": "No final injury, arrest, sanction or resolved public acceptance.",
+        "independent_actor_or_recipient_sides": [
+          "Ichika",
+          "local Justice members",
+          "demonstrators",
+          "Azusa",
+          "Airi",
+          "Sweets peers"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE06",
+        "question": "Notebook returned",
+        "source_locator": "P1:L305–306",
+        "positive_achieved_or_stated_scope": "Returned notebook and declared student-life purpose alongside assignment data.",
+        "contrary_and_unfinished_tail": "Lost personal information; accidental-viewing alternative no general reading license; entry subject unprinted.",
+        "independent_actor_or_recipient_sides": [
+          "Hasumi",
+          "committee members",
+          "Sensei"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE07",
+        "question": "Hasumi sunset",
+        "source_locator": "P1:L296–297",
+        "positive_achieved_or_stated_scope": "Actual shared watching until dark and teacher return.",
+        "contrary_and_unfinished_tail": "No necessity for mission/therapy; solitude and company both wanted.",
+        "independent_actor_or_recipient_sides": [
+          "Hasumi",
+          "Sensei"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE08",
+        "question": "Unequal summer roster",
+        "source_locator": "P1:L324–335",
+        "positive_achieved_or_stated_scope": "Named distribution with Hasumi repeated; her colleagues free time intended, later actual play/meal/fireworks.",
+        "contrary_and_unfinished_tail": "No all-member continuous work; no ideal body, completed volleyball or durable self-management.",
+        "independent_actor_or_recipient_sides": [
+          "Hasumi",
+          "differently assigned members",
+          "Sensei"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE09",
+        "question": "Tsurugi film invitation",
+        "source_locator": "P1:L350–351",
+        "positive_achieved_or_stated_scope": "Treasured films, explicit recipient preference check and actual joint organizing.",
+        "contrary_and_unfinished_tail": "Future joint viewing unperformed; fright/laughter not hostile act.",
+        "independent_actor_or_recipient_sides": [
+          "Tsurugi",
+          "Sensei"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE10",
+        "question": "Tsurugi photo learning",
+        "source_locator": "P1:L343–344",
+        "positive_achieved_or_stated_scope": "Failed ID-task coaching yet actual enjoyed outing and thanks.",
+        "contrary_and_unfinished_tail": "No accepted ID image or perfect technical transfer.",
+        "independent_actor_or_recipient_sides": [
+          "Tsurugi",
+          "Sensei",
+          "reported Trinity teacher"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE11",
+        "question": "Tsurugi beach play",
+        "source_locator": "P1:L355–363",
+        "positive_achieved_or_stated_scope": "Failed first accompaniment, risky ball game, chosen unconventional frisbee and fatigue/rest, local enjoyment reappraisal.",
+        "contrary_and_unfinished_tail": "No tourist return, universal safe method or permanent social cure.",
+        "independent_actor_or_recipient_sides": [
+          "Tsurugi",
+          "Sensei",
+          "local tourists"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE12",
+        "question": "Hasumi and Mashiro giving",
+        "source_locator": "P1:L313–314; M06:L37–45/L68–74",
+        "positive_achieved_or_stated_scope": "Joint bottling and tidying, sampled taste, personally wanted qualified offers.",
+        "contrary_and_unfinished_tail": "No certified ledger/disposal/nutrition, whole-gift acceptance, adult lemon eating or future operation.",
+        "independent_actor_or_recipient_sides": [
+          "Hasumi",
+          "Mashiro",
+          "Sensei"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE13",
+        "question": "Tsurugi imperfect gift",
+        "source_locator": "T70:L37–43/L67–71",
+        "positive_achieved_or_stated_scope": "Arranged meeting, attempted delivery and dropped chocolate inward pickup/thanks.",
+        "contrary_and_unfinished_tail": "Incomplete ki phrase; no reconstructed kiss/confession, heard thanks or taste.",
+        "independent_actor_or_recipient_sides": [
+          "Tsurugi",
+          "Sensei"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE14",
+        "question": "Mashiro own touching boundary",
+        "source_locator": "P2:L257–267",
+        "positive_achieved_or_stated_scope": "Invited observation but explicit neck objection, comfort; other episode exhausts adult and complete-message tail worries.",
+        "contrary_and_unfinished_tail": "Comfort not accepted repair; adult pause refused, no later health/apology/protocol completed.",
+        "independent_actor_or_recipient_sides": [
+          "Mashiro",
+          "Sensei"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE15",
+        "question": "Mashiro city and sea viewing",
+        "source_locator": "P2:L275–279/L313–317",
+        "positive_achieved_or_stated_scope": "Chosen shared viewing until sunset, descent in base; beautiful sea company.",
+        "contrary_and_unfinished_tail": "No city intelligence finding, complete patrol/rescue or narrated full food consumption.",
+        "independent_actor_or_recipient_sides": [
+          "Mashiro",
+          "Sensei",
+          "observed workers/students"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE16",
+        "question": "Mashiro cooling and recovery",
+        "source_locator": "P2:L293–309",
+        "positive_achieved_or_stated_scope": "Narrated clinic/collapse and local recovery; later genuine popsicle pleasure.",
+        "contrary_and_unfinished_tail": "Provisional diagnosis not chart; separate prize ending causes exercise/no swimming.",
+        "independent_actor_or_recipient_sides": [
+          "Mashiro",
+          "Sensei"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE17",
+        "question": "Ichika moderation",
+        "source_locator": "P3:L461–463",
+        "positive_achieved_or_stated_scope": "Urgent backup, completed adult errand, later own work and escort.",
+        "contrary_and_unfinished_tail": "Not blanket abandonment nor full security audit; competence need not be self-confidence.",
+        "independent_actor_or_recipient_sides": [
+          "Ichika",
+          "Sensei",
+          "other Justice backup",
+          "local disputants"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE18",
+        "question": "Ichika wanted life",
+        "source_locator": "P3:L465–485",
+        "positive_achieved_or_stated_scope": "Guitar afternoon enjoyed then put away; chosen resale/recipient pleasure; surf skill and trophy loss, declined career; joyful park.",
+        "contrary_and_unfinished_tail": "No permanent passion/cure; gratitude for interview coexists with lost wanted walk.",
+        "independent_actor_or_recipient_sides": [
+          "Ichika",
+          "Sensei",
+          "buyers",
+          "surf coach"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE19",
+        "question": "GROUP1801 rescue cost",
+        "source_locator": "G1:L88–96",
+        "positive_achieved_or_stated_scope": "Rescue followed by hospital reports, building-help/compensation/ammunition work.",
+        "contrary_and_unfinished_tail": "No complete restitution, clinical diagnosis, casualty map or proportionality audit.",
+        "independent_actor_or_recipient_sides": [
+          "unnamed hostage",
+          "local rescued students",
+          "gang actors",
+          "caregivers",
+          "Tsurugi",
+          "Mashiro",
+          "Hasumi"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE20",
+        "question": "Compulsory club exchange",
+        "source_locator": "G1:L96–116",
+        "positive_achieved_or_stated_scope": "Video commands no-exception contact; literature peers curious, tea praise before rejection; Tsurugi happy.",
+        "contrary_and_unfinished_tail": "No free rest, universal discomfort/comfort, actual tea burning or solved rescue harms.",
+        "independent_actor_or_recipient_sides": [
+          "Nagisa by video",
+          "Justice trio",
+          "literature/tea hosts",
+          "Airi",
+          "Yoshimi",
+          "Kazusa"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE21",
+        "question": "Beach assignment and unfulfilled leave",
+        "source_locator": "E03:L100–111/L117–119",
+        "positive_achieved_or_stated_scope": "Craft, reciprocal technical appraisal, care request, partial cleanup/return and local improved energy report.",
+        "contrary_and_unfinished_tail": "Hasumi wanted leave unfulfilled, Hifumi tired; requested extraction not clinical completion, harmful sport retained.",
+        "independent_actor_or_recipient_sides": [
+          "Hasumi",
+          "Tsurugi",
+          "Mashiro",
+          "Azusa",
+          "Hifumi",
+          "opponents",
+          "proprietor"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE22",
+        "question": "Festival participation",
+        "source_locator": "E18:L219–227",
+        "positive_achieved_or_stated_scope": "Tsukuyo intervention with other skills; Tsurugi declines monopoly; Mashiro wants invisible labor recognized; Hasumi enjoys sixth finish.",
+        "contrary_and_unfinished_tail": "No sole Hasumi command or universal pleasure/reconciliation; raw actor limits retained.",
+        "independent_actor_or_recipient_sides": [
+          "Hasumi",
+          "Tsurugi",
+          "Mashiro",
+          "Tsukuyo",
+          "Chise",
+          "other coordinating peers"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE23",
+        "question": "Christmas accommodation",
+        "source_locator": "E19:L91–95",
+        "positive_achieved_or_stated_scope": "Novices may enjoy tea, Tsurugi freely offers shift, Mashiro accepts relief and voluntarily defends senior.",
+        "contrary_and_unfinished_tail": "Knowledge not prerequisite; easier outside is not dislike of pleasure; no universal removal of unease.",
+        "independent_actor_or_recipient_sides": [
+          "Hasumi",
+          "Tsurugi",
+          "Mashiro",
+          "local members",
+          "Mine"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE24",
+        "question": "Christmas misunderstanding and repair",
+        "source_locator": "E19:L85–108/L112–118",
+        "positive_achieved_or_stated_scope": "Blocked explanations, injuries and intimidation contrary; disclosed manipulation, treatment/recovery reports, apology, rejected life-for-life demand, actual party.",
+        "contrary_and_unfinished_tail": "Opponents escape; no arrest/full restitution or durable Mine reform; choices and useful expertise remain.",
+        "independent_actor_or_recipient_sides": [
+          "Mine",
+          "Hasumi",
+          "Tsurugi",
+          "Mashiro",
+          "Hanae",
+          "Serina",
+          "delinquents",
+          "party members"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE25",
+        "question": "Train duty and failure",
+        "source_locator": "E30:L98–118/L124",
+        "positive_achieved_or_stated_scope": "Finite bag duty and optional support; explicit shooting report/apology, failed work, local Nagisa proportionate acknowledgment.",
+        "contrary_and_unfinished_tail": "No target/trajectory/medical audit, restoration/authenticity certification, future meeting or final confinement.",
+        "independent_actor_or_recipient_sides": [
+          "Hasumi",
+          "Ichika",
+          "Kasumi",
+          "Iori",
+          "Nagisa",
+          "Sensei",
+          "local train staff"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE26",
+        "question": "Report-driven late response",
+        "source_locator": "G2:L71–87/L109–111",
+        "positive_achieved_or_stated_scope": "Aru rejects pitch then orders retaliation; Hasumi/Mashiro arrive to empty briefing after report; team withdraws.",
+        "contrary_and_unfinished_tail": "No JTF–PS68 encounter, arrest/trial, measured destruction or audited finance restitution.",
+        "independent_actor_or_recipient_sides": [
+          "Hasumi",
+          "Mashiro",
+          "PS68",
+          "local briefing host/attendees"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE27",
+        "question": "Limited institutional relay",
+        "source_locator": "L13:L37–45/L66–72",
+        "positive_achieved_or_stated_scope": "Participant-list refusal, guard-position restriction, acknowledged limited knowledge, care for crying Hinata and relay offer.",
+        "contrary_and_unfinished_tail": "Alarm postpones relay, no completed confession/admission or secure named masked attacker.",
+        "independent_actor_or_recipient_sides": [
+          "Mashiro",
+          "Hinata",
+          "local masked roles",
+          "local memberA/B",
+          "collective"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE28",
+        "question": "Park authority and recipient cost",
+        "source_locator": "E51:L117–145/L153–163",
+        "positive_achieved_or_stated_scope": "Reconnaissance/restraint request, repeated no-fire, later explicit permission, local protection and performance enjoyment.",
+        "contrary_and_unfinished_tail": "No generic jurisdiction charter, trial/refund/full recovery; eye cries and audience ignorance of enforcement retained.",
+        "independent_actor_or_recipient_sides": [
+          "Hasumi",
+          "Mashiro",
+          "Suzumi",
+          "Reisa",
+          "Shimiko",
+          "Love",
+          "Mirai",
+          "children"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE29",
+        "question": "Former membership and self-named service",
+        "source_locator": "E51:L127/L139/L163",
+        "positive_achieved_or_stated_scope": "Suzumi reports actual brief membership and leaving, denies fight/hatred; later renewed vigilance intent.",
+        "contrary_and_unfinished_tail": "No failed admission/diagnosis, committee appointment or all-member hostility.",
+        "independent_actor_or_recipient_sides": [
+          "Suzumi",
+          "Mashiro",
+          "Reisa",
+          "Sensei"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE30",
+        "question": "Holiday requested help",
+        "source_locator": "E48:L1581–1595/L1651–1667",
+        "positive_achieved_or_stated_scope": "Mashiro asks about loneliness; Ichika accepts; unnamed junior eagerly assents after acknowledged limit/apology for leave.",
+        "contrary_and_unfinished_tail": "No completed rest/patrol/all staffing; helper routes not one simultaneous deployment.",
+        "independent_actor_or_recipient_sides": [
+          "Ichika",
+          "Mashiro",
+          "unnamed Justice junior"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE31",
+        "question": "Detention and proposed mitigation",
+        "source_locator": "E36:L174–188",
+        "positive_achieved_or_stated_scope": "Reported custody, actual detention scene, Ichika promise upward, Airi local affirmation and later retrospective action account.",
+        "contrary_and_unfinished_tail": "Likely indulgence not final pardon/restitution; coerced confidentiality disclosure and actor blanks remain.",
+        "independent_actor_or_recipient_sides": [
+          "Ichika",
+          "local Justice",
+          "Airi",
+          "Kazusa",
+          "Natsu",
+          "Yoshimi",
+          "Sensei",
+          "Tsumugi"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      },
+      {
+        "endpoint_id": "JIE32",
+        "question": "Theatre making and cost",
+        "source_locator": "E41:L957–965; P3:L524",
+        "positive_achieved_or_stated_scope": "Chosen preparation, initial refusal then explicit agreement, successful play and curtain-call faint.",
+        "contrary_and_unfinished_tail": "Recovery/filming consent/upload unprinted; viewer expressionism not intended method; prince-role claim attributed parent scope.",
+        "independent_actor_or_recipient_sides": [
+          "Tsurugi",
+          "Ichika attributed",
+          "Tsukuyo",
+          "Justice peers",
+          "Sensei",
+          "Wild Hunt audience"
+        ],
+        "institutional_inference": "Compare allocation, limits and consequences without extending source mode or closing absent outcomes."
+      }
+    ],
+    "complete_competing_readings": [
+      {
+        "rival_id": "JIR01",
+        "saved_line": 107,
+        "entire_argument": "**A benevolent family.** The notebook, welcoming party, invitations, guard relief, encouragement, rescue and proportionate response to failed work strongly support affection and care. The reading fails if family language establishes unlimited access, universal comfort or a right to decide another's leisure. The same repertoire contains private-information risk, compulsory exchange, intimidating venue negotiations, disregard of a pause, prejudice and a lost walk. Its stronger form is that care creates responsibilities to people with distinct preferences; it does not exempt the institution from them. [P1:L306; E19:L91–112; E30:L116; G1:L96–116; P2:L263–267; P3:L484–485]",
+        "positive_and_contrary_both_retained": true
+      },
+      {
+        "rival_id": "JIR02",
+        "saved_line": 109,
+        "entire_argument": "**An armed instrument of school power.** Gatekeeping, grade barriers, hostile rhetoric, coercive operations and administrative costs give this interpretation substantial evidence. It fails as a complete account because members independently want and negotiate books, food, craft, city watching, rest, modest conversation and alternate livelihoods. Tsurugi declines monopoly; Ichika admits a limit; juniors make actual choices; local protection is materially useful. A committee can serve a political order while containing purposes that exceed that order. The evidence supports examining their conflict, not treating every personal choice as camouflage for command. [M1:L46; G1:L90–96; P1:L306/L351–363; P2:L243–279; P3:L462–485; E18:L221; E48:L1659]",
+        "positive_and_contrary_both_retained": true
+      },
+      {
+        "rival_id": "JIR03",
+        "saved_line": 111,
+        "entire_argument": "**Specialists whose costs are unavoidable.** Difficult rescue, compensation tasks and the impossibility of zero damage make the practical case serious. Yet those details do not provide an alternatives audit or settle the amount of harm. The hostage's apprehension, reported trauma, outsider fear, venue intimidation, blocked explanation and uncompleted repair remain material. Actual no-fire decisions and purpose-limited care show that limits are possible within work; they do not prove every later use is legitimate. Expertise can explain a contribution without authorizing its consequences in advance. [G1:L90–96; E19:L92–108; L13:L37–45; E51:L123–139]",
+        "positive_and_contrary_both_retained": true
+      },
+      {
+        "rival_id": "JIR04",
+        "saved_line": 113,
+        "entire_argument": "**Leisure as rehabilitation.** Nagisa explicitly proposes loving contact to change the committee, and several arrangements encourage unfamiliar experiences. The club exchange nevertheless has plural results and unresolved rescue harm; forced contact is not freely chosen rest. Films, skies, sweets, sewing, cooling taste, craft and wanted quiet company matter before they deliver a corrective lesson. Their intrinsic value is also why an imposed ideal holiday can fail: Hasumi has no leave, Ichika loses her walk, and the adult's swim becomes training. A literary account should not require ordinary pleasure to demonstrate therapeutic success before retaining it. [G1:L96–116; P1:L294–306/L351–363; P2:L279–317; E03:L108; P3:L485]",
+        "positive_and_contrary_both_retained": true
+      },
+      {
+        "rival_id": "JIR05",
+        "saved_line": 115,
+        "entire_argument": "**Uniform institutional prejudice.** Hasumi's Gehenna-origin rejection and broad condemnation, Mashiro's reported former evil/justice scheme and Ichika's occasion-specific Hot Spring exception make prejudice impossible to omit. They do not establish one identical rule in every member or encounter. Technical peer revision, cross-school care, practical coalitions, Kasumi's helpful knowledge, constrained fire decisions and different recipient appraisals supply contrary evidence. Cooperation is not blanket reconciliation; hostility is not a total inability to cooperate. The institution's question concerns where categories override experience and where action can proceed without settled affection. [G1:L108; P2:L245; E48:L1170–1178; E03:L109; M3:L50/L68; E18:L225–227; E30:L104–124; E51:L123–139]",
+        "positive_and_contrary_both_retained": true
+      },
+      {
+        "rival_id": "JIR06",
+        "saved_line": 117,
+        "entire_argument": "**A corrected institution after apology.** Apologies, treatment/recovery reports, actual party company, Nagisa's acceptance of breakage and the hearing's differentiated disposition are meaningful completed endpoints. The interpretation fails when these become permanent Mine reform, executed artifact restoration, full restitution, restored housing, settled succession or quiet public acceptance. Christmas itself voices doubts; the train ends with conditional restoration; the hearing is followed by hostile protest and an unfinished fight. Repair has domains and degrees. Acknowledging what is achieved is compatible with stating exactly what remains owed or unknown. [E19:L102–104/L108; E30:L116–118; F04:L30/L42–44]",
+        "positive_and_contrary_both_retained": true
+      },
+      {
+        "rival_id": "JIR07",
+        "saved_line": 119,
+        "entire_argument": "**A teacher-created humane order.** Adult refusal, encouragement, recovery boundaries, reassurance and accompaniment can improve particular situations. But no adult is present in the group exchange; members accommodate one another; students and caregivers sustain the Eden response; Justice rescues the adult. Private interventions also impose costs and sometimes miss the person's wanted answer. The teacher is an important participant subject to correction and capable of receiving help. Independent peer agency is part of the institution's actual operation, not a supplement that can be removed once Sensei's ethic has been stated. [G1:L84; E19:L91–95; M3:L38–54; M4:L56–71; P1:L341; P2:L259–267; P3:L485]",
+        "positive_and_contrary_both_retained": true
+      },
+      {
+        "rival_id": "JIR08",
+        "saved_line": 121,
+        "entire_argument": "**Failure proves personal unfitness.** Mashiro's practice costs, Tsurugi's frightening reception and incomplete expression, Ichika's shooting/task failure, Hasumi's overwork and Koharu's exclusion can be assembled into an incapacity story. It cannot contain the actual pass, de-escalation, rear guard, rescue, triage, chosen help, completed modest pleasure or proportionate acknowledgment. Conversely these achievements do not certify infallible staff or universal safe performance. A useful institution argument compares task success, participant cost, wanted life and official disposition as separate axes rather than grading each student into total fitness or failure. [M2:L58/L72; M3:L38–54; M4:L56–68; P3:L462–485; E30:L112–116; T70:L39–43; E19:L91–104]",
+        "positive_and_contrary_both_retained": true
+      }
+    ],
+    "fourteen_original_gap_effects": [
+      {
+        "gap_id": "G01",
+        "original_literal_name": "Ordinary and private breadth",
+        "state": "OPEN",
+        "actual_claim_effect": "This finite repertoire is substantial; it does not exhaust every member, released ordinary context or later wanted life."
+      },
+      {
+        "gap_id": "G02",
+        "original_literal_name": "Yuuka council/club decision transfer",
+        "state": "OPEN",
+        "actual_claim_effect": "Festival cooperation/actor seams do not complete Yuuka's independent council transfer or borrow her claims as Hasumi's."
+      },
+      {
+        "gap_id": "G03",
+        "original_literal_name": "Serika service, peer and reciprocity range",
+        "state": "OPEN",
+        "actual_claim_effect": "No Serika service or independent reciprocal range is completed by Justice comparisons."
+      },
+      {
+        "gap_id": "G04",
+        "original_literal_name": "Hina crisis causality, accountability and ordinary contrast",
+        "state": "OPEN",
+        "actual_claim_effect": "Tactical cooperation and mentioned authority do not close Hina's causal/accountability record or clinical state."
+      },
+      {
+        "gap_id": "G05",
+        "original_literal_name": "Arius and PS68 ordinary/aftermath transfer",
+        "state": "OPEN",
+        "actual_claim_effect": "Rescue coalition and a report-driven response do not complete protected livelihood, lawful pursuit, PS68 finances or encounter outcomes."
+      },
+      {
+        "gap_id": "G06",
+        "original_literal_name": "Cross-school ordinary repertoire",
+        "state": "OPEN",
+        "actual_claim_effect": "Particular apprehension, revision, cooperation and gifts do not establish uniform comfort or permanent reconciliation."
+      },
+      {
+        "gap_id": "G07",
+        "original_literal_name": "Story-world chronology",
+        "state": "OPEN",
+        "actual_claim_effect": "Local tomorrow/next-day, retrospective and chapter sequences remain; release order, variants and helper routes yield no master reform calendar."
+      },
+      {
+        "gap_id": "G08",
+        "original_literal_name": "Event naming and repeat contexts",
+        "state": "OPEN",
+        "actual_claim_effect": "Printed titles, disambiguated gifts, blank profiles and repeated contexts do not create new plot incidents or silently repair missing metadata."
+      },
+      {
+        "gap_id": "G09",
+        "original_literal_name": "Written speaker/choice attribution",
+        "state": "OPEN",
+        "actual_claim_effect": "Source actor seams, anonymous roles, reports, inward replies and alternative continuations remain qualified; no invented common speaker or selected runtime."
+      },
+      {
+        "gap_id": "G10",
+        "original_literal_name": "Performed voice",
+        "state": "OPEN",
+        "actual_claim_effect": "No sounded laugh, acted consent, camera, music, play audio or video was inspected; textual performance descriptions stay textual."
+      },
+      {
+        "gap_id": "G11",
+        "original_literal_name": "Hoshino's Yume record and office states",
+        "state": "OPEN",
+        "actual_claim_effect": "A coalition with Abydos supplies no resolution of Hoshino/Yume records or independent office history."
+      },
+      {
+        "gap_id": "G12",
+        "original_literal_name": "Counterpart, system and variant identity",
+        "state": "OPEN",
+        "actual_claim_effect": "Named members, local anonymous juniors/chair/guests/opponents, collective actions and source modes are not merged into one person census or multiplied homes."
+      },
+      {
+        "gap_id": "G13",
+        "original_literal_name": "Office, contract, safety and technical outcomes",
+        "state": "OPEN",
+        "actual_claim_effect": "Access rules, permission, sanctions and actual local recovery differ from charters, lawful jurisdiction, complete treatment, proportionality, restored objects and restitution."
+      },
+      {
+        "gap_id": "G14",
+        "original_literal_name": "Unclassified/mode continuity",
+        "state": "OPEN",
+        "actual_claim_effect": "Written pledges, conditional UI text, inward receipt, imagined collar, forecasts and omitted action do not automatically become enacted/performed outcomes."
+      }
+    ],
+    "counts_are_not_literary_completeness": true,
+    "source_mode_scope": "Source physicalL references route accepted analytical arguments, not newly recreated primary anchors. Endpoints contain real contrary tails; no named/role/ensemble merging.",
+    "ROOT_acceptance": "PENDING"
+  },
+  "public_reference_translation": "Every original field survives exact reference translation. Original tuples bind original bytes, not derivative bytes; full immutable C transports and literal inverses are retained.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "model_credit": 0,
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "mandatory_ROOTaccepted_metadata_correction": {
+    "JSON_pointer": "/saved_paragraphs/47/projection_kind",
+    "original_value": "GAP_ROW",
+    "operative_value": "SOURCE_ROUTE_ROW",
+    "complete_original_row": {
+      "claim_id": "JI048",
+      "saved_line": 131,
+      "saved_paragraph": "| G1, G2 | Rescue/compulsory exchange and report-driven briefing response | Tea belongs to1802; no completed JTF–PS68 encounter or legal adjudication. |",
+      "paragraph_sha256": "5969e034e6d367d49f5174b34020f075122865a8e8ae5b93f935e59893abc2c0",
+      "section": "11. Evidence route, scope and open questions",
+      "projection_kind": "GAP_ROW",
+      "exact_source_joins": [],
+      "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+    },
+    "complete_operative_row": {
+      "claim_id": "JI048",
+      "saved_line": 131,
+      "saved_paragraph": "| G1, G2 | Rescue/compulsory exchange and report-driven briefing response | Tea belongs to1802; no completed JTF–PS68 encounter or legal adjudication. |",
+      "paragraph_sha256": "5969e034e6d367d49f5174b34020f075122865a8e8ae5b93f935e59893abc2c0",
+      "section": "11. Evidence route, scope and open questions",
+      "projection_kind": "SOURCE_ROUTE_ROW",
+      "exact_source_joins": [],
+      "semantic_credit": "AUTHOR_ARGUMENT_ONLY_ROOT_PENDING"
+    },
+    "all14_actual_gap_rows_unchanged": true,
+    "all_other_original_fields_unchanged": true
+  },
+  "saved_coordinate_boundary": "Original saved body coordinates bind frozen author paragraphs; canonical inverse supplies every current-line association."
+}

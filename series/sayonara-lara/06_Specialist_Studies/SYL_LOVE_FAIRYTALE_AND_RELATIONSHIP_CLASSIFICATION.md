@@ -4,7 +4,7 @@ artifact_id: SYL_LOVE_FAIRYTALE_AND_RELATIONSHIP_CLASSIFICATION
 artifact_type: specialist_study
 series: Sayonara Lara
 generation: V1_JP_AUDITED
-version: "1.0"
+version: "1.1"
 status: active_provisional
 supersedes: []
 superseded_by: []
@@ -16,6 +16,23 @@ canonical_home: series/sayonara-lara/06_Specialist_Studies/SYL_LOVE_FAIRYTALE_AN
 ---
 
 # Love is not one magical unit
+
+## The fairy-tale solution becomes a disputed question
+
+The early bargain links legs, voice, the prince's recognition and a possible light that might save the sea. The prince's rejection makes that chain catastrophic; E11 later shows the family has used Lara's foam and Rowan's donation to reopen the tale rather than allow its first ending. A “new prince” script remains available in E03 and is reactivated by Luca's resemblance in E07, but ordinary contingencies progressively erode its apparent necessity: Lara wants to *know* humans, work can be rewarding without producing a suitor, Luca is an imperfect artist rather than the earlier man returned, and a relationship with him cannot skip his own consent or her hidden mortality. E09 grants the story an actual lover request, not merely a decoy romance, yet the light does not obediently appear when that category is named (E01 S03–S13; E05 S01–S07; E07 S05–S15; E09 S12–S13; `SYL-C0001`, `C0024`, `C0033`, `C0044`).
+
+Several English glosses of “love” are insufficient without speech situation. E01 Grace distinguishes `本当の愛` from `恋心`; E04 Himeka and Ouji distinguish `好き`, `恋愛感情`, friendship and family-like importance; E09 Lara explicitly says `恋人になりたい` to Luca, a category proposal he reciprocates while limiting physical pace. E12 Mari asks if they were born `誰かを愛するために`; Lara names `愛する人`'s light and then says she does not need `本当の愛` while wanting Mari's world. These words are not mutually cancelling. The last refusal has an object: a compelled, certified answer with a death clock attached. It need not mean “love is irrelevant,” nor does the word `愛` settle the social or sexual form of every attachment (`SYL-L0004`, `L0023`–`L0029`, `L0071`, `L0086`–`L0087`).
+
+| Relation or account | Positively established | Inference that overreaches |
+|---|---|---|
+| Rigmor/Rowan | Mutual marriage/attachment, offspring and a historically productive light (E11 S05). | Every princess must reproduce the same pair-form or give a victim. |
+| Grace/Rigmor; Grace/Lara | Twin dream and final care; Grace's costly revival of Lara (`SYL-C0053`–`C0055`). | Rescue makes Grace's imposed human-romance script consensual. |
+| Rowan/Lara; Lisa/Lara | Real familial love, sacrifice/medicine and persistent duty (`SYL-C0029`, `C0038`). | Loving kin cannot instrumentalize or fear her change. |
+| Lisa/Kōta | Long mutual “finding,” continued chosen presence and Kōta's objection to forced sacrifice (`SYL-C0028`, `SYL-R0056`). | A settled romantic category or a direct human-mermaid counterexample to Lisa's verbal prohibition; Kōta's original body is different. |
+| Lara/Luca | E07 person-specific avowal after admitted novelty; E09 reciprocal wish to be lovers; E12 actual dating and breakup (`SYL-C0034`, `C0044`, `SYL-R0057`). | Instant physical consent, true-love cure, “false” attachment or Lara's exclusive lifelong orientation. |
+| Lara/Mari | Explicit E04 friendship, cumulative reciprocal care, E12 person-directed world/sharing language and Mari's loneliness (`SYL-C0020`, `C0059`–`C0062`). | An explicitly formed couple; conversely a bond too ordinary to matter because the name “friend” was once used. |
+
+The romantic reading of Lara/Mari has positive narrative evidence: the dyad structures the series' most consequential approach, death/revival and future-life language. It is not a mere fantasy inferred from gender. Its disconfirmers are also meaningful: no equivalent `恋人` proposal or reciprocal declaration is made between these girls; Mari's E09 `大事な……` remains unfinished; their E12 practical distance is contested. The friendship-centered reading has an explicit label and an actual ethic of accompaniment, but becomes reductive if it treats person-directed love as merely a lesser category. “Unresolved” must therefore name *which* variable is open—romantic attraction, mutual designation, couple practice—not erase the known attachment, burden or speech (`SYL-L0069`, `L0086`–`L0089`, `SYL-R0054`–`R0058`).
 
 The series credits Hans Christian Andersen and places a mermaid-princess sacrifice at the beginning rather than the end (E01 S15; `SYL-F0007`). This establishes an adaptation relation and a dramatized fairy-tale prehistory; it does **not** authorize detailed claims about a particular translated Andersen text not independently inspected. The repeated question is what the resurrected Lara can want after the failed prince-centered exchange. Her human curiosity precedes the prince (`SYL-C0001`), and E12's “what did you really want?” is answered by a world in which she wants to continue living, not the acquisition of a single person.
 

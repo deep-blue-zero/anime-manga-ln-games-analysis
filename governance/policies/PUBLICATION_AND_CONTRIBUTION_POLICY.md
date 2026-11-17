@@ -4,15 +4,23 @@
 
 `deep-blue-zero` is the sole upstream human writer and contributor. No other collaborator, invitation, team, external pull-request merge, imported patch, or cherry-picked external commit is permitted. Unexpected upstream write authority or a non-owner commit is a severity-1 stop condition.
 
-The public may read, link to, and independently fork the repository. Platform visibility and forking capability do not grant a content license. An independent fork has no authority over upstream. Depending on GitHub settings, outsiders may be able to open issues, discussions, or pull-request proposals; none are accepted for merge, cherry-pick, or patch import. Feedback can inform later owner work, but any upstream result must be independently authored and committed by `deep-blue-zero` without copying an external patch.
+The public may read, link to, and independently fork the repository. Platform visibility and forking capability do not grant a content license. An independent fork has no authority over upstream. Outsiders may be able to open issues, discussions or pull-request proposals; none are accepted for merge, cherry-pick or patch import. Feedback can inform later owner work, but any upstream result must be independently authored and committed by `deep-blue-zero`.
+
+The repository's agents are owner-operated automation, not additional contributors: they commit under approved owner identities, and candidate code never receives write credentials.
 
 ## Provider controls
 
-The repository completed its G3 public-visibility activation. The exact activation, post-activation provider-state, and independent-audit evidence hashes are recorded in `../repository-controls/public-activation-bindings.json`; that historical verification must not be represented as a live provider reread.
+The `main` ruleset must stay active with no bypass actors, block deletion and force-pushes, and require a strict, up-to-date `Repository integration audit` from GitHub Actions. It does not require linear history; pull requests integrate as merge commits. The activation-tag ruleset must keep blocking deletion and force-pushes on `refs/tags/activation/**`. The merge gate rechecks the `main` ruleset in code before each merge; the exact ruleset and app identifiers live in `tools/nightly_integration.py`. This policy grants no authority to change provider settings.
 
-GitHub must enforce `main` protection for administrators, require linear history, and prohibit force pushes and deletion. An active ruleset must prohibit deletion and non-fast-forward updates for `refs/tags/activation/**`. Before every later public push or activation-tag operation, provider controls and access surfaces must be reread. If they are absent or cannot be verified, the state is `UNVERIFIED` and the operation stops.
+The bulk-merge workflow's apply runs confirm that there is no other collaborator, pending invitation or write-enabled deploy key, and halt otherwise. The CI agent's runs can't read those lists from its cloud environment. So the owner confirms owner-only access, installed GitHub Apps and Actions permissions whenever changing repository settings, and before merging a pull request by hand. The G3 public-visibility activation evidence is archived in `../archive/migration/public-activation-bindings.json`; it is historical, not a live provider reading.
 
-No non-owner collaborator or team may receive write authority. `.github/workflows/repository-audit.yml` validates with `contents: read` only. Its separate fixed reporter has `statuses: write` only, does not check out or execute repository code, and publishes only `Repository integration audit` on the exact audited SHA. It reports success for a complete passing audit, pending for authored content awaiting routing, and failure/error for unsuccessful validation. `.github/workflows/global-index-housekeeping.yml` is the sole repository-content write exception: it runs from the trusted default-branch definition after an owner push audit, has `contents: write` only, and may append one ordinary non-forced commit to the same stable series/study branch containing only the five paths in `global-index-automation-policy.json`. It cannot write analytical content, delete registry entries, push `main`, manage branches/tags, or write issues, pull requests, releases, or artifacts. Every other workflow or automation capability requires a separately reviewed owner amendment.
+Three workflows are approved:
+
+- `.github/workflows/repository-audit.yml` validates with `contents: read`; its separate reporter has only `statuses: write` and reports the exact audited commit.
+- `.github/workflows/global-index-housekeeping.yml` may append one ordinary commit, containing only the five routing outputs in `AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`, to a series or study branch.
+- `.github/workflows/nightly-integration.yml` is the owner-dispatched bulk merge under `NIGHTLY_ANALYTICAL_INTEGRATION.md`.
+
+Any other automation capability needs a separately reviewed owner amendment.
 
 ## Publication safety
 

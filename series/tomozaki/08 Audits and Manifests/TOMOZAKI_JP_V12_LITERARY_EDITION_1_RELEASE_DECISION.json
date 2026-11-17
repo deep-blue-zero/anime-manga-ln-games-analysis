@@ -1,0 +1,302 @@
+{
+  "schema": "tomozaki_intentional_literary_edition_release_decision/v1",
+  "series": "TOMOZAKI",
+  "artifact_type": "literary_edition_release_decision",
+  "status": "canonical",
+  "release_state": "immutable_freeze",
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "supersedes": [],
+  "superseded_by": [],
+  "release_id": "TOMOZAKI_JP_LN_V12_EDITION_1_20261103",
+  "decision_date": "2026-11-03",
+  "decision_owner": "root analysis author under the continuous owner-authorized V12/full-corpus campaign",
+  "decision": "INTENTIONALLY_RELEASE_EDITION_1",
+  "explicit_selection": "I select the exact31 literary versions in the fixed register at the actual verified integrated snapshot. I adopt the fixed audit/register and per-owner policies below. This choice is separate from stabilization, main integration, source completion, model admission and formal terminal governance.",
+  "validated_literary_snapshot": {
+    "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+    "repository_tree_sha1": "28e0527108fb4a2538bf0a8375288563616b2212",
+    "Tomozaki_subtree_sha1": "06ecfb770c0f18f73b3408d437f613db0b0390ea",
+    "scope": "Actual existing main snapshot; not a future commit of this register or its receipt."
+  },
+  "source_boundary": "Fourteen admitted Japanese witnesses: mainV01–V12 and separately routedV06.5/V08.5, V07 SpecialEdition art distinction; no newly admitted later work.",
+  "version_count": 31,
+  "fixed_version_register": {
+    "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_VERSION_REGISTER.json",
+    "bytes": 73740,
+    "sha256": "4dfcce1ebcb5c1f3bac5cb33f364b5413f401b2a9e8d9c8202c1667fefdef5ec"
+  },
+  "fixed_release_audit": {
+    "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_AUDIT.md",
+    "bytes": 15549,
+    "sha256": "307d94cef6c9d0d0c52fa311d5058a7d7f69b55c4d9ca7801a0cc76e53c84dfb"
+  },
+  "integration": {
+    "pr_number": 302,
+    "merged": true,
+    "merged_at": "2026-10-24T14:45:59Z",
+    "merged_by": "deep-blue-zero",
+    "audited_pr_head": "d7e35b989b4fca282ab3b28e2983f09a5f7e0129",
+    "main_merge_commit": "45ca1c897467ab67c2a2c443ef75ad1979cd5997",
+    "merge_tree_equals_audited_head": true,
+    "merge_and_pr_head_tree": "8b56d1a9771b9af517d091f659e691fceece28f1",
+    "source_head_audit": {
+      "state": "success",
+      "status_id": 57166969212,
+      "run_id": 40103646440,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40103646440"
+    },
+    "main_merge_audit": {
+      "state": "success",
+      "status_id": 57167112337,
+      "run_id": 40103962738,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40103962738"
+    },
+    "latest_verified_main": "b498a20457e4debeb70895fca8ebd37717e91017",
+    "latest_main_audit": {
+      "state": "success",
+      "status_id": 58002758349,
+      "run_id": 41749395196,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/41749395196"
+    },
+    "final_integrated_source_housekeeping": {
+      "run_id": 40103950555,
+      "job_id": 120901637781,
+      "conclusion": "success",
+      "branch": "series/tomozaki",
+      "source_sha": "d7e35b989b4fca282ab3b28e2983f09a5f7e0129",
+      "actual_terminal_result": "PASS: routing outputs are current; the source audit already reported this exact head",
+      "generated_child": false
+    }
+  },
+  "source_and_literary_preservation": {
+    "literary_versions": 31,
+    "protected_states": 16,
+    "original_project_paths": 67,
+    "Tomozaki_subtree_sha1": "06ecfb770c0f18f73b3408d437f613db0b0390ea",
+    "source_transaction_unchanged": true,
+    "new_primary_calls": 0,
+    "new_pixels": 0,
+    "new_source_admission": false
+  },
+  "active_owner_policies": {
+    "released_literary_instance": "The exact path@b498a20457e4debeb70895fca8ebd37717e91017 instance is immutable. A later byte change is a different reviewed version/erratum/successor and must never claim this same released identity.",
+    "current_literary_working_owner": "Root explicitly selects retention of mutable_active working authority for all31 current working paths. Later targeted reviewed corrections/newversions preserve the released Git identity, identify changed responsibility and update current routing/claim history. This does not authorize in-place editing of an already byteimmutable/hashlocked/archival/NONE_FROZEN instance.",
+    "protected_source_entering_admission": "These16 already protected instances remain byteexact. No inplace edits; use a separately authorized erratum, wrapper or successor under their source/freeze rules. A version increment or preserved Git object is not an exemption.",
+    "cumulative_owner": "Pin this exact dependency version; maintain the working cumulative owner only under its existing schema/history rules. This register does not blanket-freeze cumulative owners.",
+    "claim_revision_owner": "Pin this exact version; retain append/history and any frozen-prefix/embedded-record protections. Later append must not masquerade as these unchanged released bytes.",
+    "source_lock_owner": "Pin the exact source-lock dependency. Future source/admission changes require their separate governing authorization and transaction; this register admits no source.",
+    "architecture_owner": "Pin the exact STABILIZED architecture dependency. Working architecture retains its declared mutable lifecycle; no architectural FROZEN or terminal status follows from the literary edition.",
+    "current_map_owner": "Pin the exact current-map dependency. The map remains targeted mutable current routing; later routing updates do not rewrite this historical edition snapshot.",
+    "evidence_review_inventory_owner": "Pin exact evidence/review/inventory/router versions. Preserve complete fixed embedded records and any separately immutable instances. Corrections follow the owning lifecycle through attributable reviewed versions/errata/successors; no automatic blanket freeze.",
+    "register_after_adoption": "Only after explicit root adoption this public register becomes canonical/immutable_freeze. Preserve its exact fixed identities and claimed scope; corrections use an attributable separately authorized erratum/successor, never silent alteration."
+  },
+  "working_literary_owner_decisions": [
+    {
+      "path": "series/tomozaki/04 Character Analysis/Tomozaki Fumiya/TOMOZAKI_FUMIYA_CHARACTER_MONOGRAPH.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Hinami Aoi/HINAMI_AOI_CHARACTER_MONOGRAPH.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Kikuchi Fuka/KIKUCHI_FUKA_CHARACTER_MONOGRAPH.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Nanami Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Natsubayashi Hanabi/NATSUBAYASHI_HANABI_CHARACTER_MONOGRAPH.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Izumi Yuzu/IZUMI_YUZU_CHARACTER_MONOGRAPH.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Konno Erika/KONNO_ERIKA_BOUNDED_CHARACTER_DOSSIER.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Nakamura Shuji/NAKAMURA_SHUJI_BOUNDED_CHARACTER_DOSSIER.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Narita Tsugumi/NARITA_TSUGUMI_BOUNDED_CHARACTER_DOSSIER.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Takei/TAKEI_BOUNDED_CHARACTER_DOSSIER.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Hinami Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Hinami Nagisa/HINAMI_NAGISA_BOUNDED_CHARACTER_DOSSIER.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Hinami Yoko/HINAMI_YOKO_BOUNDED_CHARACTER_DOSSIER.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Umayahara Mitsu/UMAYAHARA_MITSU_BOUNDED_CHARACTER_DOSSIER.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Michael Andi/MICHAEL_ANDI_BOUNDED_CHARACTER_DOSSIER.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Ashigaru/ASHIGARU_BOUNDED_CHARACTER_DOSSIER.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_HINAMI_RELATIONSHIP_SYNTHESIS.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_KIKUCHI_RELATIONSHIP_SYNTHESIS.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_MIMIMI_RELATIONSHIP_SYNTHESIS.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_ENSEMBLE_AND_PEER_NETWORK_SYNTHESIS.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_GAME_FORM_AND_SELF_AUTHORSHIP_SYNTHESIS.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_EFFORT_MASTERY_AND_GOAL_OWNERSHIP_SYNTHESIS.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_SYNTHESIS.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_CONTROL_CAUSALITY_AND_MEANING_SYNTHESIS.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_ROMANCE_CARE_DISCLOSURE_AND_INTERVENTION_SYNTHESIS.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_AUTHORSHIP_FICTION_OBSERVATION_AND_PERSONHOOD_SYNTHESIS.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    },
+    {
+      "path": "series/tomozaki/05 Full-Series Synthesis/TOMOZAKI_FULL_SERIES_SYNTHESIS.md",
+      "released_instance_policy": "IMMUTABLE_PATH_AT_VALIDATED_SNAPSHOT",
+      "current_working_path_policy": "mutable_active",
+      "required_correction_route": "Targeted separately identified reviewed version/erratum/successor; preserve this edition and current claim/revision/routing. No in-place editing of separately byteimmutable/hashlocked/archival/NONE_FROZEN instance."
+    }
+  ],
+  "current_control_owner_decisions": {
+    "R12_findings_and_manifest": "Mutable local findings/history/currentrouting wrappers. Preserve complete accepted evidence values and historical creation-stage findings; fixed edition audit/register/decision own immutable release-instance responsibility.",
+    "architecture": "Remain STABILIZED/mutable_active. No intentional architecture FROZEN decision.",
+    "map_and_READMEs_and_execution_inventory": "Targeted mutable current routing under existing owner rules; edition-basis hashes remain historical snapshots.",
+    "six_cumulative_owners_and_CRI": "Pin edition-basis versions; existing schema/claim/history/append protections continue; no metadata-only new claim.",
+    "source_lock": "Only documented separately authorized source-admission operation may alter admission state; no new source admitted.",
+    "protected_readings_entering_admission_and_historical_audits": "Preserve preexisting immutable/frozen protections; use only authorized separate errata/wrappers/successors.",
+    "other_evidence_packets": "Dependency pinning does not blanketfreeze current owner, and no complete fixed embedded record may be silently rewritten."
+  },
+  "remaining_gates": {
+    "literary_prerequisite_for_local_model_work": "SATISFIED_BY_THIS_EXPLICIT_RELEASE",
+    "individual_model_sufficiency": "NOT_AWARDED; eachperson/era/domain independently assessed before behavior is authored",
+    "model_construction_and_validation": "NOT_AWARDED; distinct derived_use_model/nonprimary outputs and independent semantic/Japanese-register tests required",
+    "new_release_record_transaction_publication": "Its future containing head/CI/main integration is not asserted in this fixed decision; ordinary exact-path authorpreflight, normal push, openPR and exact-head audit remain required. No circular future-selfreceipt condition is added to the alreadyverified literarysnapshot.",
+    "global_capability_and_owner_calibration": "UNCHANGED CALIBRATION/null owneracceptance; no evaluator grade or REVIEWED status",
+    "formal_terminal_governance": "NOT_EXECUTED; requires its separatelyauthorized owner-merged transaction"
+  },
+  "immutable_record_policy": "This decision, fixed audit and fixed register are byteimmutable after adoption. Containing Git commit externally binds the decision; decision hashes register/audit without recursive selfhash. Later correction must name prior identities and use separate authorized erratum/successor.",
+  "no_waiver_or_global_control_change": true,
+  "authority_limit": "Releases this exactliteraryedition only, retains explicitworkingowner policies, and enables separate authorized model-sufficiency work. No automatic roster/persona/modelPASS, freshprimaryreading, discoveryrestoration or terminalseal."
+}

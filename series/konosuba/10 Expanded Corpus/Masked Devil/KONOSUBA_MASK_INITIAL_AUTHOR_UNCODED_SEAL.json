@@ -1,0 +1,289 @@
+{
+  "schema": "KONOSUBA_WHOLE_LOCAL_TEXT_EPUB_ACTUAL_UNCODED_READING_SEAL_V1",
+  "source_id": "MASK",
+  "sealed_utc": "2026-10-18T21:05:47.312234+00:00",
+  "native_filename": "Konosuba - Spin-off - Consulting the Masked Devil.epub",
+  "native_bytes": 2895671,
+  "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+  "fresh_native_ZIP_CRC": "PASS",
+  "actual_complete_textual_units": 29,
+  "actual_paragraph_slots": 2970,
+  "actual_unique_native_images_viewed": 26,
+  "unit_interval_verification": [
+    {
+      "component_id": "MASK-U001",
+      "native_member": "titlepage.xhtml",
+      "sha256": "283270ce0c25af8bedd8d1c91d4e2601d31479c7f449dfe9e7d94c55a6aa30d6",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U002",
+      "native_member": "text/part0000.html",
+      "sha256": "3f451f673f2ba1bc727b7ee2d89890e48804eea416412702d81642dc6f80b806",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U003",
+      "native_member": "text/part0001.html",
+      "sha256": "fda9c8db63df3fc20f205be650d0558cb249a655341014659e01590e0e6000c8",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U004",
+      "native_member": "text/part0002.html",
+      "sha256": "64415e2dcae2a09bd83a65383c6c11b86b79a9a44b845548c5d59e14d7b2f37a",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U005",
+      "native_member": "text/part0003.html",
+      "sha256": "e56b571a983fca05edee30f7785cde024783aab58efb9a0a99952e98877a4cdf",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U006",
+      "native_member": "text/part0004.html",
+      "sha256": "3ef325f38a2e943bd80e4eec883e79a776e3e2f739773b5542a64aef5a44ff9a",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U007",
+      "native_member": "text/part0005.html",
+      "sha256": "b0b936758cab235df4ccc9f6c85597f590cf9ffe18586db6b1092d14257889ba",
+      "paragraph_slots_actually_received": 6,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U008",
+      "native_member": "text/part0006.html",
+      "sha256": "3402d6d8cdff9a7bbc119859c31690afec1e601dc7ef255100d89ebce8401541",
+      "paragraph_slots_actually_received": 7,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U009",
+      "native_member": "text/part0007.html",
+      "sha256": "15910e7143b0026370af78bb6b24b759509e3c6a237bd3d9a4708180c2461c91",
+      "paragraph_slots_actually_received": 13,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U010",
+      "native_member": "text/part0008.html",
+      "sha256": "8664edba3a3d51241f877b2c9c4d57f4d31a3821c8ca5316362fd9fb512efe9e",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U011",
+      "native_member": "text/part0009.html",
+      "sha256": "891af7555bad39fd0fb25a1cd215a3f81452bf910ca6734f9b2bcc646f42a409",
+      "paragraph_slots_actually_received": 45,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U012",
+      "native_member": "text/part0010.html",
+      "sha256": "ac37b95e1950926d48622d472eb3a9e56226a0b2adb7a2820bcdcb85ce1e3e60",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U013",
+      "native_member": "text/part0011.html",
+      "sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+      "paragraph_slots_actually_received": 481,
+      "intervals": 3,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U014",
+      "native_member": "text/part0012.html",
+      "sha256": "15fc05b21ac5fbd0af6103e2a34ccb6fb19ba084e124333314bd2a9788c11802",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U015",
+      "native_member": "text/part0013.html",
+      "sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+      "paragraph_slots_actually_received": 518,
+      "intervals": 4,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U016",
+      "native_member": "text/part0014.html",
+      "sha256": "938977ddd63b5c82eb4a45fbaf2966d2eaf6e08fbf818a3b90ce62ca15283e94",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U017",
+      "native_member": "text/part0015.html",
+      "sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+      "paragraph_slots_actually_received": 587,
+      "intervals": 4,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U018",
+      "native_member": "text/part0016.html",
+      "sha256": "f0002a989c60da762b9712b7a440ff85138843162b3bd069f14061ab5f918098",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U019",
+      "native_member": "text/part0017.html",
+      "sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+      "paragraph_slots_actually_received": 648,
+      "intervals": 5,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U020",
+      "native_member": "text/part0018.html",
+      "sha256": "5202794893be09ea28743639d841ce5c7529865757ee891f65dbb2406575cef0",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U021",
+      "native_member": "text/part0019.html",
+      "sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+      "paragraph_slots_actually_received": 556,
+      "intervals": 4,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U022",
+      "native_member": "text/part0020.html",
+      "sha256": "d5a33aaaaaeb0c0ba4c4510683d4b6ab93b648ed27c108e46129ba457d824854",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U023",
+      "native_member": "text/part0021.html",
+      "sha256": "702642bc0b1e8be4d3b45b538e83124f046fedeeab4cd43d771bbe29d323efd6",
+      "paragraph_slots_actually_received": 27,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U024",
+      "native_member": "text/part0022.html",
+      "sha256": "f7087987ee80772e78ef8dc7d3fd805843335b808aad9e048302f9c83635fc8e",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U025",
+      "native_member": "text/part0023.html",
+      "sha256": "aabc6f8df0a90e594865a11f621748e3cb4c7d84d2a791256c29528a2233c4d6",
+      "paragraph_slots_actually_received": 57,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U026",
+      "native_member": "text/part0024.html",
+      "sha256": "0cd60f79d243329e1b7a2c1728dbbcf30330b3696834cf32020715550a154d31",
+      "paragraph_slots_actually_received": 4,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U027",
+      "native_member": "text/part0025.html",
+      "sha256": "adf6ddd59f08d6f6349e9c748b6a1b89e57aba5f90c76d09909b30fbf7eabc2d",
+      "paragraph_slots_actually_received": 5,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U028",
+      "native_member": "text/part0026.html",
+      "sha256": "1da0c749f08062cb847228fe68a03127d257e6040a15a80cce4a01f9be3114c2",
+      "paragraph_slots_actually_received": 16,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "MASK-U029",
+      "native_member": "text/part0027.html",
+      "sha256": "137189fdde250eced00c89868e9ff4a0ec515a7ebe0c14090b6f2598f12ca9bd",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    }
+  ],
+  "immutable_uncoded_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 30337,
+      "sha256": "43aa5463a4d2b510fab84599429c8a2ad62241547e163cedf655fcde63541021"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 148331,
+      "sha256": "1868f31e7a864ef448e5e7ad58b5c2fb7f2e67ae674432459a82fb08caae62c5"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 139716,
+      "sha256": "48f43867190b25a4e692b4ece60c73293332cbb9dda39a205b7c842a6dc0c078"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 17747,
+      "sha256": "cd779b2ab313043c40d8059dde96fbfa8b585ef29a7844c3f698e17c746ec896"
+    },
+    {
+      "file": "UNCODED_IMAGE_SCOPE_CORRECTIONS.jsonl",
+      "bytes": 561,
+      "sha256": "99cb1001f4b8aa771551958d19a1fc18db305d2e4fffe61b6ea1e1539908a84c"
+    }
+  ],
+  "all_source_first_formal_outcomes_still_unassigned": true,
+  "reader": "Continuing informed root AI; same author and receiver, no independent review, pristine blindness, native-human or audio claim.",
+  "scope": "All supplied textual bodies, ruby readings displayed inline, native nonparagraph residuals, front/end/navigation, electronic bonus, author and contributor paratext, and every image received actual separate reading/view records. Exact layout inspection of textual XHTML is not a separate print-page facsimile claim. Structural extraction alone received no reading credit.",
+  "corrections_to_resolve_in_separate_current_derivatives": [
+    "Re-viewed full native color profile after whole text received. Printed Iris cover occupation is チリメンドンヤ (with ン), matching U015P88/P161; earlier loose uncoded note チリメンドヤ omitted ン. Preserve that original identification error, use corrected native form in current register. Iris(?) profile is explicit cover identity, not true merchant family."
+  ],
+  "remaining": "Formal L/H and voice coding, natural-order question assessment, seventeen-responsibility report, component dispositions, ledger decisions, acceptance, and full publication gate; no whole-program completion claim.",
+  "pre_seal_actual_image_scope_corrections_preserving_originals": [
+    {
+      "image_id": "MASK-IMG021",
+      "recorded_after_actual_model_view_utc": "2026-10-18T21:05:46.806097+00:00",
+      "formal_outcomes_assigned": false,
+      "original_preserved": true,
+      "current_scope": "Re-viewed full native color profile after whole text received. Printed Iris cover occupation is チリメンドンヤ (with ン), matching U015P88/P161; earlier loose uncoded note チリメンドヤ omitted ン. Preserve that original identification error, use corrected native form in current register. Iris(?) profile is explicit cover identity, not true merchant family."
+    }
+  ]
+}

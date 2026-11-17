@@ -2,16 +2,23 @@
 title: "Gakuen Idolmaster Multi-Document Synthesis Architecture V2"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "production architecture and phase plan"
-version: "2.4"
-status: "canonical working architecture"
-last_updated: "2026-08-17"
-revision_note: "adds mandatory Phase-6 distributed-character reconstruction for Kaya Rinha, with cross-character provenance, observer triangulation, and explicit dossier promotion rules; preserves the 13-character playable-core architecture"
+version: "2.5"
+artifact_type: synthesis_architecture
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+last_updated: "2026-11-15"
+revised: "2026-11-15"
+revision_note: "v2.5 (2026-11-15): adds §18.1, the owner's living-character-core policy (event, support and later material is integrated into core bodies as dated, attributed additions; source-to-analysis audit GKM-SAA-104/108). v2.4 (2026-08-17): adds mandatory Phase-6 distributed-character reconstruction for Kaya Rinha, with cross-character provenance, observer triangulation, and explicit dossier promotion rules; preserves the 13-character playable-core architecture"
 governing_method: "GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 created: "2026-08-13"
 ---
 
 # GAKUEN IDOLMASTER MULTI-DOCUMENT SYNTHESIS ARCHITECTURE V2
+
+> **Revision record — v2.5, 2026-11-15.** Adds §18.1, the owner's living-character-core policy: event, support and later evidence enters core bodies as dated, attributed additions, and each core keeps a Phase-4/5 integration-pointer index (source-to-analysis audit GKM-SAA-104 and GKM-SAA-108). No other section changes.
 
 ## 0. Purpose
 
@@ -1132,6 +1139,19 @@ Every new source block should record whether it:
 - **RESOLVES** prior ambiguity.
 
 This delta vocabulary allows later reconstruction of how the interpretation developed.
+
+## 18.1 Living character cores (owner policy, 2026-11-15)
+
+Gakuen Idolmaster is a running live-service game, so each character remains a work in progress: story, identity and relationships keep being built.
+The owner directed (source-to-analysis audit GKM-SAA-104 and GKM-SAA-108, 2026-11-15) that the Phase-3 character cores follow that development instead of
+freezing at their Phase-3 boundary.
+
+- Evidence from numbered events, support stories, communications, Unit Story chapters and later Dear chapters enters the **body** of the relevant core, in the section
+  it bears on. Each entry is a dated, attributed addition that carries its transition label (STRENGTHEN, REVISE, PRESERVE or OPEN; a §18 delta label may be added), A1 locators and counterevidence. It is not a replacement of the existing argument. Where the evidence
+  changes a claim, the change goes through the claim-revision route and the legacy-claim ledger.
+- Each core keeps a "Phase-4/5 integration pointers" index that records where each event and support item sits.
+- The event and support readings remain the canonical homes of their own source units. Integration into a core adds to their routing; it does not supersede them.
+- Every future source-lock refresh integrates its new material into the affected cores, alongside the refresh's own reading and ledger rows.
 
 ---
 

@@ -1,0 +1,1615 @@
+{
+  "schema": "M008_CURRENT20_INPUT_SOURCE_GRADE_AND_BODY_ONLY_RECEIVING_V1",
+  "normal_count": 20,
+  "core_main_count": 19,
+  "additional_comparison_count": 1,
+  "records": [
+    {
+      "alias": "MN01",
+      "source_binding": {
+        "alias": "MN01",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E001_DEEP_READING.md",
+        "bytes": 5569,
+        "sha256": "a4fb6f0650abe2e36684ae830810055c2c0d40e34c175527c937ff76c2218fb9",
+        "git_blob_oid_of_actual_bytes": "2cfa3f3fb22427358b1bb2c95958613d73473a92",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_new_claimant_specific_question": "How does the claimant move from a received investigation offer to a wider command, and what is actually authorized?",
+      "own_new_claimant_connected_positive_and_contrary_result": "The observed rope ball and ambiguous S.O.S. initiate a finite inquiry. She offers investigation, Sensei accepts, and she separately orders recall through a channel; the invitation supplies no all-fleet or office mandate, and sender, alarm and transmission remain unverified.",
+      "prospective_current_body_claim_relations": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/4"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/10"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/11"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/19"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/33"
+        }
+      ],
+      "own_previous_adequate_source_receiving_record_NOT_rewritten": {
+        "alias": "MN01",
+        "source_binding": {
+          "alias": "MN01",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E001_DEEP_READING.md",
+          "bytes": 5569,
+          "sha256": "a4fb6f0650abe2e36684ae830810055c2c0d40e34c175527c937ff76c2218fb9",
+          "git_blob_oid_of_actual_bytes": "2cfa3f3fb22427358b1bb2c95958613d73473a92",
+          "physical_lines": 35,
+          "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+        },
+        "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_ranges": [
+          [
+            1,
+            35
+          ]
+        ],
+        "tool_receipts": [
+          "bf491a"
+        ],
+        "new_target_question": "Why does the first alarm not authorize a complete care diagnosis?",
+        "connected_positive_and_contrary_result": "The observed rope ball initiates an investigation, while origin, sender and active emergency remain inferred. The claimant's all-fleet recall exceeds Sensei's narrower investigation request; no transmission/compliance endpoint in MN01.",
+        "finite_limit": "MN01 is an authority/knowledge precondition, not a Sammy preference account.",
+        "role": "MAIN_CORE",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "current_M008_grade": "ADEQUATE_PREVIOUS_OWN_COMPLETE_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_RECEIVING_REUSED; NO_UNDERLYING_PRIMARY_REPLAY",
+      "current_consequential_claimant_revisit": {
+        "grade": "COMPLETE_ALREADY_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY; TARGETED_CLAIMANT_ARGUMENT_RECEIVING",
+        "actual_ranges": [
+          [
+            1,
+            35
+          ]
+        ],
+        "actual_own_receiving_tool": "0a10f6",
+        "metadata_readback_tool": "bbea28",
+        "purpose": "Necessary connected actor/role/wish/endpoint attribution for this claimant draft; no future/source-primary/whole105 credit."
+      },
+      "current_source_mode_limit": "Written analytical meaning only. Historical producer/native/raw claims are attributed to their authors, not transferred. Old intake/census/pending statements remain dated history; current admission/audit qualifiers govern.",
+      "chronology_and_identity_limit": "MAIN local order and own source-relative comparisons; no private-family, officer, dream or variant identity join or invented common calendar.",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN02",
+      "source_binding": {
+        "alias": "MN02",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E002_DEEP_READING.md",
+        "bytes": 6723,
+        "sha256": "f2e35aa937604025b840b70900014f7c47199a74f507bb4527accddd662673c3",
+        "git_blob_oid_of_actual_bytes": "8c62783a20370f043b6220a70b9645b2c164c8bc",
+        "physical_lines": 38,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_new_claimant_specific_question": "What does actual flagship compliance, public recognition and the claimant's corrected visit account establish about her practical role?",
+      "own_new_claimant_connected_positive_and_contrary_result": "Mai and Chronos recognize a presidential role socially; the claimant protects confidential concerns and offers an interview, accepts tour company as a desk-work break, corrects first visit to second, and thanks Minato for complying with an unreasonable request when Olympos arrives. These are actual bounded responses, not completed press disclosure, all-fleet return or authenticated office/history.",
+      "prospective_current_body_claim_relations": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/5"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/10"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/11"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/14"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/24"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/32"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/34"
+        }
+      ],
+      "own_previous_adequate_source_receiving_record_NOT_rewritten": {
+        "alias": "MN02",
+        "source_binding": {
+          "alias": "MN02",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E002_DEEP_READING.md",
+          "bytes": 6723,
+          "sha256": "f2e35aa937604025b840b70900014f7c47199a74f507bb4527accddd662673c3",
+          "git_blob_oid_of_actual_bytes": "8c62783a20370f043b6220a70b9645b2c164c8bc",
+          "physical_lines": 38,
+          "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+        },
+        "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_ranges": [
+          [
+            1,
+            38
+          ]
+        ],
+        "tool_receipts": [
+          "bf491a"
+        ],
+        "new_target_question": "How can distinct leaders enter a shared care scene without speaker-tag merger?",
+        "connected_positive_and_contrary_result": "Olympos docking, Minato's self-name and Ami's deputy introduction are represented amid Ami-tag displacement. One flagship and thanked compliance establish local command/reception, without all-fleet return or authenticated offices.",
+        "finite_limit": "Names and functions do not let Ami inherit Minato's choices or either actor inherit a claimant's identity.",
+        "role": "MAIN_CORE",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "current_M008_grade": "ADEQUATE_PREVIOUS_OWN_COMPLETE_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_RECEIVING_REUSED; NO_UNDERLYING_PRIMARY_REPLAY",
+      "current_consequential_claimant_revisit": {
+        "grade": "COMPLETE_ALREADY_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY; TARGETED_CLAIMANT_ARGUMENT_RECEIVING",
+        "actual_ranges": [
+          [
+            1,
+            38
+          ]
+        ],
+        "actual_own_receiving_tool": "8ce99c",
+        "metadata_readback_tool": "bbea28",
+        "purpose": "Necessary connected actor/role/wish/endpoint attribution for this claimant draft; no future/source-primary/whole105 credit."
+      },
+      "current_source_mode_limit": "Written analytical meaning only. Historical producer/native/raw claims are attributed to their authors, not transferred. Old intake/census/pending statements remain dated history; current admission/audit qualifiers govern.",
+      "chronology_and_identity_limit": "MAIN local order and own source-relative comparisons; no private-family, officer, dream or variant identity join or invented common calendar.",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN03",
+      "source_binding": {
+        "alias": "MN03",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E003_DEEP_READING.md",
+        "bytes": 7575,
+        "sha256": "409cc63812d2a901de0d7ded891b40bc8dda1df81bfc7aa87a3b3020b01dffb2",
+        "git_blob_oid_of_actual_bytes": "ee5db2ac32a5d864614dc43c23b5620520165efb",
+        "physical_lines": 40,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_new_claimant_specific_question": "How do business priority, relenting to a tour, nutritional inquiry and a disputed service wager reveal both claimant agency and recipient limits?",
+      "own_new_claimant_connected_positive_and_contrary_result": "She initially prefers prompt business, agrees to the tour when Sensei wants it, asks about nutritional balance and later judges the performed tour worthwhile despite the time error. Mitsuki proposes a service-rating wager without shown claimant acceptance or executed contract; dinner is only offered here, later eaten in MN04. Her appraisal cannot certify every guest's consultation, care or satisfaction.",
+      "prospective_current_body_claim_relations": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/6"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/15"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/19"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/25"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/29"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/32"
+        }
+      ],
+      "own_previous_adequate_source_receiving_record_NOT_rewritten": {
+        "alias": "MN03",
+        "source_binding": {
+          "alias": "MN03",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E003_DEEP_READING.md",
+          "bytes": 7575,
+          "sha256": "409cc63812d2a901de0d7ded891b40bc8dda1df81bfc7aa87a3b3020b01dffb2",
+          "git_blob_oid_of_actual_bytes": "ee5db2ac32a5d864614dc43c23b5620520165efb",
+          "physical_lines": 40,
+          "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+        },
+        "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_ranges": [
+          [
+            1,
+            40
+          ]
+        ],
+        "tool_receipts": [
+          "bf491a"
+        ],
+        "new_target_question": "What already exists between Ami, Sammy and Minato before urgent illness?",
+        "connected_positive_and_contrary_result": "Ami limits food while speaking affectionately, Sammy sniffs guests and moves away, Ami goes to retrieve him. Minato insists on personally receiving guests and later apologizes for the long tour; ordinary making, attention and welcoming have value alongside timing costs.",
+        "finite_limit": "Movement and affectionate handling are actual represented relations; universal recipient pleasure, cat intention and tested safety are not supplied.",
+        "role": "MAIN_CORE",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "current_M008_grade": "ADEQUATE_PREVIOUS_OWN_COMPLETE_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_RECEIVING_REUSED; NO_UNDERLYING_PRIMARY_REPLAY",
+      "current_consequential_claimant_revisit": {
+        "grade": "COMPLETE_ALREADY_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY; TARGETED_CLAIMANT_ARGUMENT_RECEIVING",
+        "actual_ranges": [
+          [
+            1,
+            40
+          ]
+        ],
+        "actual_own_receiving_tool": "8ce99c",
+        "metadata_readback_tool": "bbea28",
+        "purpose": "Necessary connected actor/role/wish/endpoint attribution for this claimant draft; no future/source-primary/whole105 credit."
+      },
+      "current_source_mode_limit": "Written analytical meaning only. Historical producer/native/raw claims are attributed to their authors, not transferred. Old intake/census/pending statements remain dated history; current admission/audit qualifiers govern.",
+      "chronology_and_identity_limit": "MAIN local order and own source-relative comparisons; no private-family, officer, dream or variant identity join or invented common calendar.",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN04",
+      "source_binding": {
+        "alias": "MN04",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E004_DEEP_READING.md",
+        "bytes": 5941,
+        "sha256": "206063c0cf27047603b2d9a64b3adbd814ff4c5ed4d40c167342002182ff2dd3",
+        "git_blob_oid_of_actual_bytes": "98013d091c7fb81a18ea6036b500814d51548805",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_new_claimant_specific_question": "What ordinary pleasure and fallible evidence do the claimant's curry, clean clothing and distress-ball exchange supply?",
+      "own_new_claimant_connected_positive_and_contrary_result": "She eats and praises curry; clean clothing receives an ordinary concentration explanation rather than proven superhuman ability. Minato's confidential room stages limited access, not a whole private baseline. Maker/loss/toy testimony counters the apparent alarm reading, while later nickname explanation retains its source grade and exact inscription route remains unresolved.",
+      "prospective_current_body_claim_relations": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/12"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/16"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/19"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/22"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/41"
+        }
+      ],
+      "own_previous_adequate_source_receiving_record_NOT_rewritten": {
+        "alias": "MN04",
+        "source_binding": {
+          "alias": "MN04",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E004_DEEP_READING.md",
+          "bytes": 5941,
+          "sha256": "206063c0cf27047603b2d9a64b3adbd814ff4c5ed4d40c167342002182ff2dd3",
+          "git_blob_oid_of_actual_bytes": "98013d091c7fb81a18ea6036b500814d51548805",
+          "physical_lines": 35,
+          "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+        },
+        "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_ranges": [
+          [
+            1,
+            35
+          ]
+        ],
+        "tool_receipts": [
+          "bf491a"
+        ],
+        "new_target_question": "How does a toy become relational evidence rather than merely a false alarm solution?",
+        "connected_positive_and_contrary_result": "Minato identifies making and losing Sammy's ball; Sammy interrupts and Ami calls him. The toy provides an ordinary familiar object against the distress reading. The meal is eaten and taboo explanations are Minato's fallible safety history, not an operational manual.",
+        "finite_limit": "Maker testimony supports care and provenance explanation without an inspected loss route or authority to prescribe real rescue.",
+        "role": "MAIN_CORE",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "current_M008_grade": "ADEQUATE_PREVIOUS_OWN_COMPLETE_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_RECEIVING_REUSED; NO_UNDERLYING_PRIMARY_REPLAY",
+      "current_consequential_claimant_revisit": {
+        "grade": "COMPLETE_ALREADY_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY; TARGETED_CLAIMANT_ARGUMENT_RECEIVING",
+        "actual_ranges": [
+          [
+            1,
+            35
+          ]
+        ],
+        "actual_own_receiving_tool": "8ce99c",
+        "metadata_readback_tool": "bbea28",
+        "purpose": "Necessary connected actor/role/wish/endpoint attribution for this claimant draft; no future/source-primary/whole105 credit."
+      },
+      "current_source_mode_limit": "Written analytical meaning only. Historical producer/native/raw claims are attributed to their authors, not transferred. Old intake/census/pending statements remain dated history; current admission/audit qualifiers govern.",
+      "chronology_and_identity_limit": "MAIN local order and own source-relative comparisons; no private-family, officer, dream or variant identity join or invented common calendar.",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN05",
+      "source_binding": {
+        "alias": "MN05",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E005_DEEP_READING.md",
+        "bytes": 6013,
+        "sha256": "ddf48a954b61ec4af0774692fd518ec31da33fd47747e5bfcd292357bf2ee3c6",
+        "git_blob_oid_of_actual_bytes": "bafbb30ae414142d820337f9941d8b30f1c0fa65",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_new_claimant_specific_question": "What prior Minato/Ami deliberation must not become the claimant's originated transfer plan?",
+      "own_new_claimant_connected_positive_and_contrary_result": "Minato's shore-care proposal precedes recall, Ami reports different students' concerns, and health/fast-boat information is relayed without charts or transfer. This is consequential background to the claimant's later intervention, not her attendance, authorship of all deliberation, animal consent or a tested comparative care plan.",
+      "prospective_current_body_claim_relations": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/7"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/12"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/20"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/22"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/31"
+        }
+      ],
+      "own_previous_adequate_source_receiving_record_NOT_rewritten": {
+        "alias": "MN05",
+        "source_binding": {
+          "alias": "MN05",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E005_DEEP_READING.md",
+          "bytes": 6013,
+          "sha256": "ddf48a954b61ec4af0774692fd518ec31da33fd47747e5bfcd292357bf2ee3c6",
+          "git_blob_oid_of_actual_bytes": "bafbb30ae414142d820337f9941d8b30f1c0fa65",
+          "physical_lines": 35,
+          "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+        },
+        "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_ranges": [
+          [
+            1,
+            35
+          ]
+        ],
+        "tool_receipts": [
+          "93f03e"
+        ],
+        "new_target_question": "Whose interests make ship/shore care difficult?",
+        "connected_positive_and_contrary_result": "Minato proposes shore care before the recall; Ami reports split students concerned with health, familiarity, fear and custom. Age/medical concerns and a possible fast boat are relayed, not chart/transfer. The one-week inquiry defers action while admitting limited understanding.",
+        "finite_limit": "Neither faction has a verified comparative veterinary plan; consultation and a deliberation window are distinct from treatment.",
+        "role": "MAIN_CORE",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "current_M008_grade": "ADEQUATE_PREVIOUS_OWN_COMPLETE_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_RECEIVING_REUSED; NO_UNDERLYING_PRIMARY_REPLAY",
+      "current_consequential_claimant_revisit": null,
+      "current_source_mode_limit": "Written analytical meaning only. Historical producer/native/raw claims are attributed to their authors, not transferred. Old intake/census/pending statements remain dated history; current admission/audit qualifiers govern.",
+      "chronology_and_identity_limit": "MAIN local order and own source-relative comparisons; no private-family, officer, dream or variant identity join or invented common calendar.",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN06",
+      "source_binding": {
+        "alias": "MN06",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E006_DEEP_READING.md",
+        "bytes": 4898,
+        "sha256": "d93ae4904902d6142bf970c13d16873f9a98f4e1e71ccc2a69038e2d27ae4098",
+        "git_blob_oid_of_actual_bytes": "dd6f5713c857d1e79761543b41a2398cb91f3848",
+        "physical_lines": 32,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_new_claimant_specific_question": "How does practical accident context prevent either blaming the claimant for all harm or vindicating her later intervention as clinically necessary?",
+      "own_new_claimant_connected_positive_and_contrary_result": "A cough coincides with a squall without demonstrated causation; Sumika's deck fall is prevented and Sensei develops back symptoms. This is a material work and safety context before the removal speech, not evidence that the claimant caused the squall or obtained an authenticated hygiene/medical mandate.",
+      "prospective_current_body_claim_relations": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/12"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/20"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/23"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/31"
+        }
+      ],
+      "own_previous_adequate_source_receiving_record_NOT_rewritten": {
+        "alias": "MN06",
+        "source_binding": {
+          "alias": "MN06",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E006_DEEP_READING.md",
+          "bytes": 4898,
+          "sha256": "d93ae4904902d6142bf970c13d16873f9a98f4e1e71ccc2a69038e2d27ae4098",
+          "git_blob_oid_of_actual_bytes": "dd6f5713c857d1e79761543b41a2398cb91f3848",
+          "physical_lines": 32,
+          "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+        },
+        "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_ranges": [
+          [
+            1,
+            32
+          ]
+        ],
+        "tool_receipts": [
+          "93f03e"
+        ],
+        "new_target_question": "When does concern expose others to costs?",
+        "connected_positive_and_contrary_result": "Sammy's cough coincides with a squall, without demonstrated causation. On a wet deck Sumika falls toward the sea, Sensei prevents her fall and develops back symptoms. Practical work conditions, animal curiosity and human action coexist with superstition.",
+        "finite_limit": "Actual acute symptoms and rescue do not supply sole causal fault, a clinically assessed cat or finished recovery.",
+        "role": "MAIN_CORE",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "current_M008_grade": "ADEQUATE_PREVIOUS_OWN_COMPLETE_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_RECEIVING_REUSED; NO_UNDERLYING_PRIMARY_REPLAY",
+      "current_consequential_claimant_revisit": null,
+      "current_source_mode_limit": "Written analytical meaning only. Historical producer/native/raw claims are attributed to their authors, not transferred. Old intake/census/pending statements remain dated history; current admission/audit qualifiers govern.",
+      "chronology_and_identity_limit": "MAIN local order and own source-relative comparisons; no private-family, officer, dream or variant identity join or invented common calendar.",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN07",
+      "source_binding": {
+        "alias": "MN07",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E007_DEEP_READING.md",
+        "bytes": 5445,
+        "sha256": "2537453c9b5bc16ab4b275813c0eaf4a6900996e92fb7e53c9ce005bb470ec2f",
+        "git_blob_oid_of_actual_bytes": "5e4a3767348c335693e33d88c06be38b81614fc5",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_new_claimant_specific_question": "What do physician opposition and Sumika's distinct apology/care acts require of the claimant's supposed complete welfare account?",
+      "own_new_claimant_connected_positive_and_contrary_result": "Sanae diagnoses Sensei and stops Sumika's shaking of Sammy with clinical warnings; she criticizes projected animal will and wants another decision-maker. Sumika's injury apology and report-fear remain distinct from the claimant's chosen-blame account. Professional warning strengthens urgency without prescribing a tested shore preference, complete chart or claimant office warrant.",
+      "prospective_current_body_claim_relations": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/12"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/20"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/22"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/31"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/32"
+        }
+      ],
+      "own_previous_adequate_source_receiving_record_NOT_rewritten": {
+        "alias": "MN07",
+        "source_binding": {
+          "alias": "MN07",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E007_DEEP_READING.md",
+          "bytes": 5445,
+          "sha256": "2537453c9b5bc16ab4b275813c0eaf4a6900996e92fb7e53c9ce005bb470ec2f",
+          "git_blob_oid_of_actual_bytes": "5e4a3767348c335693e33d88c06be38b81614fc5",
+          "physical_lines": 35,
+          "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+        },
+        "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_ranges": [
+          [
+            1,
+            35
+          ]
+        ],
+        "tool_receipts": [
+          "93f03e"
+        ],
+        "new_target_question": "Can a caregiver stop harm while lacking authority to decide the whole life?",
+        "connected_positive_and_contrary_result": "Sanae diagnoses Sensei's sprain and stops Sumika shaking/blaming Sammy, citing hypertension/dizziness. She recognizes ship-environment risk and asks that Sammy's will matter, yet criticizes factions' projections and wants someone else to decide.",
+        "finite_limit": "Professional warning is stronger than secondhand relay; it still gives no tested residence preference, complete chart or simple shore prescription.",
+        "role": "MAIN_CORE",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "current_M008_grade": "ADEQUATE_PREVIOUS_OWN_COMPLETE_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_RECEIVING_REUSED; NO_UNDERLYING_PRIMARY_REPLAY",
+      "current_consequential_claimant_revisit": null,
+      "current_source_mode_limit": "Written analytical meaning only. Historical producer/native/raw claims are attributed to their authors, not transferred. Old intake/census/pending statements remain dated history; current admission/audit qualifiers govern.",
+      "chronology_and_identity_limit": "MAIN local order and own source-relative comparisons; no private-family, officer, dream or variant identity join or invented common calendar.",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN08",
+      "source_binding": {
+        "alias": "MN08",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E008_DEEP_READING.md",
+        "bytes": 5427,
+        "sha256": "7757b826c87ce34013d0567621adb8a90ab09c87229b9ed9e2ba8d2ae03fa77e",
+        "git_blob_oid_of_actual_bytes": "12bf7d2d94cb381ca0d5706efa8ca01cc64f5e88",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_new_claimant_specific_question": "What does the claimant's outside removal speech actually do, and where do liability, authority and welfare diverge?",
+      "own_new_claimant_connected_positive_and_contrary_result": "She invokes claimed GSC capacity and hygiene, proposes outside removal and offers to absorb resentment. Minato, after rejecting scapegoating and naming Sammy a friend, assents verbally; no authenticated office, inspected hygiene ground, physical handover or specified continuing care plan follows. Displaced tags do not transfer Minato's inward thought or assent to her.",
+      "prospective_current_body_claim_relations": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/7"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/12"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/13"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/20"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/22"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/28"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/36"
+        }
+      ],
+      "own_previous_adequate_source_receiving_record_NOT_rewritten": {
+        "alias": "MN08",
+        "source_binding": {
+          "alias": "MN08",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E008_DEEP_READING.md",
+          "bytes": 5427,
+          "sha256": "7757b826c87ce34013d0567621adb8a90ab09c87229b9ed9e2ba8d2ae03fa77e",
+          "git_blob_oid_of_actual_bytes": "12bf7d2d94cb381ca0d5706efa8ca01cc64f5e88",
+          "physical_lines": 35,
+          "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+        },
+        "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_ranges": [
+          [
+            1,
+            35
+          ]
+        ],
+        "tool_receipts": [
+          "93f03e"
+        ],
+        "new_target_question": "What changes when Minato delegates blame rather than establishes care terms?",
+        "connected_positive_and_contrary_result": "Minato rejects scapegoating and names Sammy a friend, but assents verbally to the claimant's outside hygiene-removal proposal. The claimant offers to absorb resentment without an inspected hygiene finding, authenticated capacity or destination-care plan.",
+        "finite_limit": "Affection and rational-duty language do not decide clinical optimum; assent is not handover.",
+        "role": "MAIN_CORE",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "current_M008_grade": "ADEQUATE_PREVIOUS_OWN_COMPLETE_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_RECEIVING_REUSED; NO_UNDERLYING_PRIMARY_REPLAY",
+      "current_consequential_claimant_revisit": {
+        "grade": "COMPLETE_ALREADY_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY; TARGETED_CLAIMANT_ARGUMENT_RECEIVING",
+        "actual_ranges": [
+          [
+            1,
+            35
+          ]
+        ],
+        "actual_own_receiving_tool": "0a10f6",
+        "metadata_readback_tool": "bbea28",
+        "purpose": "Necessary connected actor/role/wish/endpoint attribution for this claimant draft; no future/source-primary/whole105 credit."
+      },
+      "current_source_mode_limit": "Written analytical meaning only. Historical producer/native/raw claims are attributed to their authors, not transferred. Old intake/census/pending statements remain dated history; current admission/audit qualifiers govern.",
+      "chronology_and_identity_limit": "MAIN local order and own source-relative comparisons; no private-family, officer, dream or variant identity join or invented common calendar.",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN09",
+      "source_binding": {
+        "alias": "MN09",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E009_DEEP_READING.md",
+        "bytes": 6296,
+        "sha256": "621761a34ca30ee73472c3d1b8dec45b0b64a3a48eb16a14e108b42b62889bfd",
+        "git_blob_oid_of_actual_bytes": "dd21df9e3375d84a85535512fc77920ae25ce2dd",
+        "physical_lines": 37,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_new_claimant_specific_question": "What positive ordinary wish and strategic limits coexist in the claimant's chosen-blame explanation and promise exchange?",
+      "own_new_claimant_connected_positive_and_contrary_result": "Gifts, rethinking and cold looks preserve different students' responses. She proposes a station walk, explains choosing blame to spare a trusted teacher, and hopes anger prompts taboo-questioning without proved original plan or achieved reform. Her inability to imagine ordinary student life and requested/accepted support promise reveal a real wanted future, still unspecified and unfulfilled.",
+      "prospective_current_body_claim_relations": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/7"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/13"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/17"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/21"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/26"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/30"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/35"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/42"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/43"
+        }
+      ],
+      "own_previous_adequate_source_receiving_record_NOT_rewritten": {
+        "alias": "MN09",
+        "source_binding": {
+          "alias": "MN09",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E009_DEEP_READING.md",
+          "bytes": 6296,
+          "sha256": "621761a34ca30ee73472c3d1b8dec45b0b64a3a48eb16a14e108b42b62889bfd",
+          "git_blob_oid_of_actual_bytes": "dd21df9e3375d84a85535512fc77920ae25ce2dd",
+          "physical_lines": 37,
+          "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+        },
+        "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_ranges": [
+          [
+            1,
+            37
+          ]
+        ],
+        "tool_receipts": [
+          "a229da"
+        ],
+        "new_target_question": "How can gifts and public compliance express different relations?",
+        "connected_positive_and_contrary_result": "Students hear a removal decision, grieve/hope/resent and prepare gifts. They reconsider excess balls/food against Sammy's familiar toy and illness; not all gifts are rejected. The claimant's chosen blame and hoped educational effect are self-report.",
+        "finite_limit": "Care's material imagination and self-correction are positive; neither no-defiance snapshot nor gift volume certifies unanimous consent or successful care.",
+        "role": "MAIN_CORE",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "current_M008_grade": "ADEQUATE_PREVIOUS_OWN_COMPLETE_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_RECEIVING_REUSED; NO_UNDERLYING_PRIMARY_REPLAY",
+      "current_consequential_claimant_revisit": {
+        "grade": "COMPLETE_ALREADY_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY; TARGETED_CLAIMANT_ARGUMENT_RECEIVING",
+        "actual_ranges": [
+          [
+            1,
+            37
+          ]
+        ],
+        "actual_own_receiving_tool": "8ce99c",
+        "metadata_readback_tool": "bbea28",
+        "purpose": "Necessary connected actor/role/wish/endpoint attribution for this claimant draft; no future/source-primary/whole105 credit."
+      },
+      "current_source_mode_limit": "Written analytical meaning only. Historical producer/native/raw claims are attributed to their authors, not transferred. Old intake/census/pending statements remain dated history; current admission/audit qualifiers govern.",
+      "chronology_and_identity_limit": "MAIN local order and own source-relative comparisons; no private-family, officer, dream or variant identity join or invented common calendar.",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN10",
+      "source_binding": {
+        "alias": "MN10",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E010_DEEP_READING.md",
+        "bytes": 6081,
+        "sha256": "1f145e56e2502648be73ece0ffc7df04c04919ace3122f0f1a1bbea5ac333675",
+        "git_blob_oid_of_actual_bytes": "5355335a4c0517a600509ffa41fa43116790abfe",
+        "physical_lines": 37,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_new_claimant_specific_question": "What visible and paperwork evidence limits the claimant's account that her authority resolved the removal?",
+      "own_new_claimant_connected_positive_and_contrary_result": "Readiness and document exchanges have no completed handover here. Students actually conceal Sammy, qualifying earlier no-defiance; his familiar movement and the claimant's enjoyment interpretation remain distinct from animal informed choice. Minato pursues, falls and receives Ami's ladder assistance; the claimant does not inherit these actions or their recipient motives.",
+      "prospective_current_body_claim_relations": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/21"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/22"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/29"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/30"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/31"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/36"
+        }
+      ],
+      "own_previous_adequate_source_receiving_record_NOT_rewritten": {
+        "alias": "MN10",
+        "source_binding": {
+          "alias": "MN10",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E010_DEEP_READING.md",
+          "bytes": 6081,
+          "sha256": "1f145e56e2502648be73ece0ffc7df04c04919ace3122f0f1a1bbea5ac333675",
+          "git_blob_oid_of_actual_bytes": "5355335a4c0517a600509ffa41fa43116790abfe",
+          "physical_lines": 37,
+          "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+        },
+        "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_ranges": [
+          [
+            1,
+            37
+          ]
+        ],
+        "tool_receipts": [
+          "a229da"
+        ],
+        "new_target_question": "How do Sammy's initiatives differ from the humans' interpretations of them?",
+        "connected_positive_and_contrary_result": "Sammy leaves his cushion, traverses familiar ships and is hidden by students wanting more time. Minato directs pursuit despite Ami's sea-fall warning, falls, receives Ami's ladder help; Sammy approaches and Minato reads concern.",
+        "finite_limit": "Visible initiative, familiar competence and human warmth matter without informed transfer refusal, a clinical safety clearance or cat motive certainty.",
+        "role": "MAIN_CORE",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "current_M008_grade": "ADEQUATE_PREVIOUS_OWN_COMPLETE_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_RECEIVING_REUSED; NO_UNDERLYING_PRIMARY_REPLAY",
+      "current_consequential_claimant_revisit": {
+        "grade": "COMPLETE_ALREADY_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY; TARGETED_CLAIMANT_ARGUMENT_RECEIVING",
+        "actual_ranges": [
+          [
+            1,
+            37
+          ]
+        ],
+        "actual_own_receiving_tool": "8ce99c",
+        "metadata_readback_tool": "bbea28",
+        "purpose": "Necessary connected actor/role/wish/endpoint attribution for this claimant draft; no future/source-primary/whole105 credit."
+      },
+      "current_source_mode_limit": "Written analytical meaning only. Historical producer/native/raw claims are attributed to their authors, not transferred. Old intake/census/pending statements remain dated history; current admission/audit qualifiers govern.",
+      "chronology_and_identity_limit": "MAIN local order and own source-relative comparisons; no private-family, officer, dream or variant identity join or invented common calendar.",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN11",
+      "source_binding": {
+        "alias": "MN11",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E011_DEEP_READING.md",
+        "bytes": 5448,
+        "sha256": "90d84759c3e2d89c1c268d35bb9ebace287fad98ca1643f1214a7bfb7e0a1083",
+        "git_blob_oid_of_actual_bytes": "bdcacdb065ae5a4c1d01d03ae04fb8b090df7fa7",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_new_claimant_specific_question": "How does the claimant answer Minato's cancellation request while preserving unsigned, clinical and ordinary endpoints?",
+      "own_new_claimant_connected_positive_and_contrary_result": "Minato originates the cancellation request with the transfer signature pending; the claimant agrees. She says she lost standing and asks Sensei for ice cream, with no purchase or consumption before Sanae's urgent call. Assent is a consequential reversal without formal rescission, a clinical plan, universal consent, cure or claimant-originated strategy withdrawal.",
+      "prospective_current_body_claim_relations": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/8"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/18"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/23"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/28"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/30"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/45"
+        }
+      ],
+      "own_previous_adequate_source_receiving_record_NOT_rewritten": {
+        "alias": "MN11",
+        "source_binding": {
+          "alias": "MN11",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E011_DEEP_READING.md",
+          "bytes": 5448,
+          "sha256": "90d84759c3e2d89c1c268d35bb9ebace287fad98ca1643f1214a7bfb7e0a1083",
+          "git_blob_oid_of_actual_bytes": "bdcacdb065ae5a4c1d01d03ae04fb8b090df7fa7",
+          "physical_lines": 35,
+          "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+        },
+        "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_ranges": [
+          [
+            1,
+            35
+          ]
+        ],
+        "tool_receipts": [
+          "a229da"
+        ],
+        "new_target_question": "Who withdraws the plan, and what remains unresolved after repair?",
+        "connected_positive_and_contrary_result": "The transfer form is still unsigned. Minato asks cancellation after acknowledging fear and friendship; the claimant agrees. Ami's remaining bad-luck concern and Minato's experiential living-with answer persist. Sanae's urgent night call interrupts Sensei's closure thought.",
+        "finite_limit": "Minato authors the cancellation request; verbal agreement is not legal rescission, a care plan or proof no one was hurt.",
+        "role": "MAIN_CORE",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "current_M008_grade": "ADEQUATE_PREVIOUS_OWN_COMPLETE_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_RECEIVING_REUSED; NO_UNDERLYING_PRIMARY_REPLAY",
+      "current_consequential_claimant_revisit": {
+        "grade": "COMPLETE_ALREADY_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY; TARGETED_CLAIMANT_ARGUMENT_RECEIVING",
+        "actual_ranges": [
+          [
+            1,
+            35
+          ]
+        ],
+        "actual_own_receiving_tool": "0a10f6",
+        "metadata_readback_tool": "bbea28",
+        "purpose": "Necessary connected actor/role/wish/endpoint attribution for this claimant draft; no future/source-primary/whole105 credit."
+      },
+      "current_source_mode_limit": "Written analytical meaning only. Historical producer/native/raw claims are attributed to their authors, not transferred. Old intake/census/pending statements remain dated history; current admission/audit qualifiers govern.",
+      "chronology_and_identity_limit": "MAIN local order and own source-relative comparisons; no private-family, officer, dream or variant identity join or invented common calendar.",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN12",
+      "source_binding": {
+        "alias": "MN12",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E012_DEEP_READING.md",
+        "bytes": 5095,
+        "sha256": "b9775698ccc1c6aceac919e318dbf62c32816a0aff2ed4d7d400e35c0f1c8d34",
+        "git_blob_oid_of_actual_bytes": "cd117c068e7f52b3377f3f4608e11b2af57ce703",
+        "physical_lines": 34,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_new_claimant_specific_question": "What does actual clinical urgency exclude from a claimant cancellation or guilt theory?",
+      "own_new_claimant_connected_positive_and_contrary_result": "Sanae supplies vitals, prognosis and hypotheses, expressly rejects Minato's single-cause guilt, and Minato later proposes a familiar final voyage with an opt-out. These are distinct clinical and institutional acts; neither remaining aboard nor cancellation establishes cause, veterinary optimum, claimant care authorization or her attendance in later leadership.",
+      "prospective_current_body_claim_relations": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/20"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/23"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/28"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/31"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/45"
+        }
+      ],
+      "own_previous_adequate_source_receiving_record_NOT_rewritten": {
+        "alias": "MN12",
+        "source_binding": {
+          "alias": "MN12",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E012_DEEP_READING.md",
+          "bytes": 5095,
+          "sha256": "b9775698ccc1c6aceac919e318dbf62c32816a0aff2ed4d7d400e35c0f1c8d34",
+          "git_blob_oid_of_actual_bytes": "cd117c068e7f52b3377f3f4608e11b2af57ce703",
+          "physical_lines": 34,
+          "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+        },
+        "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_ranges": [
+          [
+            1,
+            34
+          ]
+        ],
+        "tool_receipts": [
+          "4d1b6e"
+        ],
+        "new_target_question": "How does critical time redistribute responsibility without settling clinical cause?",
+        "connected_positive_and_contrary_result": "Sanae gives vitals/prognosis and renal/cardiac hypotheses, explicitly rejecting Minato's single-cause guilt. Ami invokes prior cats dying ashore, Sumika protests cruelty and Minato asks Sensei to let Odysseia choose. The broadcast offers a final familiar voyage plus penalty-free opt-out, with objections deferred.",
+        "finite_limit": "Urgent medical knowledge, local leadership, dissent and familiar-place memory remain distinct; prognosis does not prove voyage benefit or transfer counterfactual.",
+        "role": "MAIN_CORE",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "current_M008_grade": "ADEQUATE_PREVIOUS_OWN_COMPLETE_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_RECEIVING_REUSED; NO_UNDERLYING_PRIMARY_REPLAY",
+      "current_consequential_claimant_revisit": null,
+      "current_source_mode_limit": "Written analytical meaning only. Historical producer/native/raw claims are attributed to their authors, not transferred. Old intake/census/pending statements remain dated history; current admission/audit qualifiers govern.",
+      "chronology_and_identity_limit": "MAIN local order and own source-relative comparisons; no private-family, officer, dream or variant identity join or invented common calendar.",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN13",
+      "source_binding": {
+        "alias": "MN13",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E013_DEEP_READING.md",
+        "bytes": 5320,
+        "sha256": "61d3c148bde4013254aeb1c7b7e9343e2956e8df2a7d6ede7cc23bd0d56646fc",
+        "git_blob_oid_of_actual_bytes": "ce9a3e94b55acdfd3827f7d5f77487f54029376a",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_new_claimant_specific_question": "What does the narrated final voyage allow us to retain without making it the claimant's solved welfare outcome?",
+      "own_new_claimant_connected_positive_and_contrary_result": "Olympos sails; joining and requested permissions differ across clubs. Sammy's represented animal viewpoint, familiar company, contented expression and ending life are stronger than only human projection, yet not informed itinerary consent, complete guest consultation, fleet manifest or a veterinary counterfactual. The claimant is not made the author of that narration or choice.",
+      "prospective_current_body_claim_relations": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/20"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/23"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/30"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/31"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/45"
+        }
+      ],
+      "own_previous_adequate_source_receiving_record_NOT_rewritten": {
+        "alias": "MN13",
+        "source_binding": {
+          "alias": "MN13",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E013_DEEP_READING.md",
+          "bytes": 5320,
+          "sha256": "61d3c148bde4013254aeb1c7b7e9343e2956e8df2a7d6ede7cc23bd0d56646fc",
+          "git_blob_oid_of_actual_bytes": "ce9a3e94b55acdfd3827f7d5f77487f54029376a",
+          "physical_lines": 35,
+          "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+        },
+        "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_ranges": [
+          [
+            1,
+            35
+          ]
+        ],
+        "tool_receipts": [
+          "4d1b6e"
+        ],
+        "new_target_question": "What is actually achieved by the last voyage?",
+        "connected_positive_and_contrary_result": "Olympos sails; Golden Elysium joins before permission, Trident asks and receives it, other clubs send requests. Sammy is narrated seeing fellow sailors, surrounded by friends, with contented expression and life-ending voyage.",
+        "finite_limit": "The animal-perspective narration is stronger than human motive attribution but not informed itinerary consent, guest approval, a full-fleet manifest or veterinary optimum.",
+        "role": "MAIN_CORE",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "current_M008_grade": "ADEQUATE_PREVIOUS_OWN_COMPLETE_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_RECEIVING_REUSED; NO_UNDERLYING_PRIMARY_REPLAY",
+      "current_consequential_claimant_revisit": null,
+      "current_source_mode_limit": "Written analytical meaning only. Historical producer/native/raw claims are attributed to their authors, not transferred. Old intake/census/pending statements remain dated history; current admission/audit qualifiers govern.",
+      "chronology_and_identity_limit": "MAIN local order and own source-relative comparisons; no private-family, officer, dream or variant identity join or invented common calendar.",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN14",
+      "source_binding": {
+        "alias": "MN14",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E014_DEEP_READING.md",
+        "bytes": 5764,
+        "sha256": "9c9a0b7c6c7e0f910278c32a54ebbc01743244e2a93f9ff40820a04fec1b39c6",
+        "git_blob_oid_of_actual_bytes": "cf5e0e26d2c47723315c06351ac81df3b6577c1c",
+        "physical_lines": 35,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_new_claimant_specific_question": "What do the claimant's returned conversation, search report and unanswered real-captain assertion complete, and what remains unresolved?",
+      "own_new_claimant_connected_positive_and_contrary_result": "Minato's outward appraisal of herself, Ami and Odysseia is not the claimant's report or their whole inward recovery. Across the platform the claimant says she sought Sensei at Schale, learned whereabouts, wanted views exchanged and apologizes for asking; she praises Minato then asserts Minato is not the real captain. The train interrupts explanation; informant, surveillance route, alternate captain and claimant office are not authenticated.",
+      "prospective_current_body_claim_relations": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/9"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/27"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/29"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/33"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/37"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/43"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/44"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/45"
+        }
+      ],
+      "own_previous_adequate_source_receiving_record_NOT_rewritten": {
+        "alias": "MN14",
+        "source_binding": {
+          "alias": "MN14",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E014_DEEP_READING.md",
+          "bytes": 5764,
+          "sha256": "9c9a0b7c6c7e0f910278c32a54ebbc01743244e2a93f9ff40820a04fec1b39c6",
+          "git_blob_oid_of_actual_bytes": "cf5e0e26d2c47723315c06351ac81df3b6577c1c",
+          "physical_lines": 35,
+          "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+        },
+        "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_ranges": [
+          [
+            1,
+            35
+          ]
+        ],
+        "tool_receipts": [
+          "a229da"
+        ],
+        "new_target_question": "How do survivors continue care after Sammy cannot answer?",
+        "connected_positive_and_contrary_result": "Half a month later Sumika changes bubble-making cleaning and a member reaches for tuna; Minato keeps the cushion and speaks of surface wellness, a best farewell and hoped future ties. Sumika retains right-foot care while admitting incomplete accident knowledge.",
+        "finite_limit": "Habit/material grief are meaningful continuing bonds, not an afterlife message, universal satisfaction, cure of grief or demonstrated permanent reform.",
+        "role": "MAIN_CORE",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "current_M008_grade": "ADEQUATE_PREVIOUS_OWN_COMPLETE_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_RECEIVING_REUSED; NO_UNDERLYING_PRIMARY_REPLAY",
+      "current_consequential_claimant_revisit": {
+        "grade": "COMPLETE_ALREADY_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY; TARGETED_CLAIMANT_ARGUMENT_RECEIVING",
+        "actual_ranges": [
+          [
+            1,
+            35
+          ]
+        ],
+        "actual_own_receiving_tool": "0a10f6",
+        "metadata_readback_tool": "bbea28",
+        "purpose": "Necessary connected actor/role/wish/endpoint attribution for this claimant draft; no future/source-primary/whole105 credit."
+      },
+      "current_source_mode_limit": "Written analytical meaning only. Historical producer/native/raw claims are attributed to their authors, not transferred. Old intake/census/pending statements remain dated history; current admission/audit qualifiers govern.",
+      "chronology_and_identity_limit": "MAIN local order and own source-relative comparisons; no private-family, officer, dream or variant identity join or invented common calendar.",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN15",
+      "source_binding": {
+        "alias": "MN15",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md",
+        "bytes": 11521,
+        "sha256": "9a5b3c6916fc210deaa56d9f47f8991fb997e9d4df4b3ff115122bfac7449738",
+        "git_blob_oid_of_actual_bytes": "c02222a483d24e1275c1d0ed4b83cc326efcb49d",
+        "physical_lines": 58,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_new_claimant_specific_question": "How does the chapter checkpoint preserve the claimant's longitudinal arc without adding clinical or identity proof?",
+      "own_new_claimant_connected_positive_and_contrary_result": "The admitted synthesis joins toy-to-welfare shift, proposal, decision, paperwork, unsigned cancellation, medical crisis, voyage and grief at distinct modes. It supports the local claimant arc while retaining unresolved office, clinical, legal and fleet warrants; its old intake/backfill/census statements are dated history rather than current home exclusions.",
+      "prospective_current_body_claim_relations": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/1"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/2"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/12"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/22"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/23"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/37"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/40"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/45"
+        }
+      ],
+      "own_previous_adequate_source_receiving_record_NOT_rewritten": {
+        "alias": "MN15",
+        "source_binding": {
+          "alias": "MN15",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md",
+          "bytes": 11521,
+          "sha256": "9a5b3c6916fc210deaa56d9f47f8991fb997e9d4df4b3ff115122bfac7449738",
+          "git_blob_oid_of_actual_bytes": "c02222a483d24e1275c1d0ed4b83cc326efcb49d",
+          "physical_lines": 58,
+          "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+        },
+        "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_ranges": [
+          [
+            1,
+            58
+          ]
+        ],
+        "tool_receipts": [
+          "a229da"
+        ],
+        "new_target_question": "How does the whole connected chapter qualify each apparent resolution?",
+        "connected_positive_and_contrary_result": "The checkpoint retains toy→welfare shift, proposal→decision→paperwork→unsigned cancellation, medical crisis, real voyage, narrated death and grief. It separates testimony/clinical hypothesis/narration and leaves office/clinical/legal/fleet claims unresolved.",
+        "finite_limit": "Its dated census/backfill/intake states are historical, not the new home's current status; no clinical counterfactual is added by synthesis.",
+        "role": "MAIN_CORE",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "current_M008_grade": "ADEQUATE_PREVIOUS_OWN_COMPLETE_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_RECEIVING_REUSED; NO_UNDERLYING_PRIMARY_REPLAY",
+      "current_consequential_claimant_revisit": null,
+      "current_source_mode_limit": "Written analytical meaning only. Historical producer/native/raw claims are attributed to their authors, not transferred. Old intake/census/pending statements remain dated history; current admission/audit qualifiers govern.",
+      "chronology_and_identity_limit": "MAIN local order and own source-relative comparisons; no private-family, officer, dream or variant identity join or invented common calendar.",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN16",
+      "source_binding": {
+        "alias": "MN16",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 19594,
+        "sha256": "f6438d5cccc1582c1a86b1e68be27a9321ef3f8bdb4ce21862fffbaad4fc3df9",
+        "git_blob_oid_of_actual_bytes": "3c5bdbe922e2ecb13e74c415affe1fa6a4392cf1",
+        "physical_lines": 677,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_new_claimant_specific_question": "Which admitted contextual distinctions govern claimant comparisons without joining separate private families or updating old status from analogy?",
+      "own_new_claimant_connected_positive_and_contrary_result": "Current Cycle008 WITH LIMITS and current audit qualifiers supersede historical producer-pending states. MAIN loss, EVENT861 work/debt and separately typed private company remain distinct. Positive tastes, messages, refusals and finite endpoints can compare with wanted claimant company without making any private family her biography or replaying underlying sources.",
+      "prospective_current_body_claim_relations": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/3"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/33"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/38"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/39"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/40"
+        }
+      ],
+      "own_previous_adequate_source_receiving_record_NOT_rewritten": {
+        "alias": "MN16",
+        "source_binding": {
+          "alias": "MN16",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 19594,
+          "sha256": "f6438d5cccc1582c1a86b1e68be27a9321ef3f8bdb4ce21862fffbaad4fc3df9",
+          "git_blob_oid_of_actual_bytes": "3c5bdbe922e2ecb13e74c415affe1fa6a4392cf1",
+          "physical_lines": 677,
+          "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+        },
+        "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_ranges": [
+          [
+            1,
+            677
+          ]
+        ],
+        "tool_receipts": [
+          "4d1b6e",
+          "e160c6"
+        ],
+        "new_target_question": "What comparative care duties are already admitted for this arc?",
+        "connected_positive_and_contrary_result": "Current Cycle008 adopts required supplements WITH_LIMITS while preserving older pending producer statements. The account separates MAIN loss, EVENT861 work/rescue/debt and typed diver private company, with positive tastes/messages and recipient objections.",
+        "finite_limit": "This home reuses admitted written arguments, not new whole underlying primary or an inter-story cause; other characters' private pools do not become Minato/Ami biographies.",
+        "role": "MAIN_CORE",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "current_M008_grade": "ADEQUATE_PREVIOUS_OWN_COMPLETE_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_RECEIVING_REUSED; NO_UNDERLYING_PRIMARY_REPLAY",
+      "current_consequential_claimant_revisit": null,
+      "current_source_mode_limit": "Written analytical meaning only. Historical producer/native/raw claims are attributed to their authors, not transferred. Old intake/census/pending statements remain dated history; current admission/audit qualifiers govern.",
+      "chronology_and_identity_limit": "MAIN local order and own source-relative comparisons; no private-family, officer, dream or variant identity join or invented common calendar.",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN17",
+      "source_binding": {
+        "alias": "MN17",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_861/BLUE_ARCHIVE_EVENT_861_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 50993,
+        "sha256": "6f64262858301f3100f5edbf8b65c6463e117ad15ac607e6e537d1aa467bc553",
+        "git_blob_oid_of_actual_bytes": "cdd0f12e2ac27de5538ee7dc1293368df71878a4",
+        "physical_lines": 285,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_new_claimant_specific_question": "How does EVENT861's office hospitality and ordinary company compare with the claimant's desk-work respite without a shared grief chronology?",
+      "own_new_claimant_connected_positive_and_contrary_result": "Curry, tea and ice cream, Ami's work-return/refusal, reported office debt, diver wants, imposed embrace versus hand alternative and rescue retain separate actors and endpoints. These are finite comparative controls for authority, care and ordinary wants, not the claimant's direct attendance, MAIN Sammy grief cause or completed release from her presidential role.",
+      "prospective_current_body_claim_relations": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/11"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/14"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/16"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/26"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/38"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/42"
+        }
+      ],
+      "own_previous_adequate_source_receiving_record_NOT_rewritten": {
+        "alias": "MN17",
+        "source_binding": {
+          "alias": "MN17",
+          "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_861/BLUE_ARCHIVE_EVENT_861_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 50993,
+          "sha256": "6f64262858301f3100f5edbf8b65c6463e117ad15ac607e6e537d1aa467bc553",
+          "git_blob_oid_of_actual_bytes": "cdd0f12e2ac27de5538ee7dc1293368df71878a4",
+          "physical_lines": 285,
+          "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+        },
+        "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_ranges": [
+          [
+            1,
+            285
+          ]
+        ],
+        "tool_receipts": [
+          "4c0445",
+          "a8e08b",
+          "54890f"
+        ],
+        "new_target_question": "How can office responsibility coexist with recipient freedom and pleasure?",
+        "connected_positive_and_contrary_result": "EVENT861 preserves curry/tea/ice-cream pleasure, Ami's return-to-work/refusal, captain/deputy debt constraints, diver stated wants, imposed embrace alongside an adult hand alternative, rescue and continuing work/debt.",
+        "finite_limit": "Only comparative care/authority controls: no chronology against Sammy, no grief causality transferred from event office and no consent inferred for animals.",
+        "role": "SOURCE_LOCAL_COMPARATIVE_CONTROL",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "current_M008_grade": "ADEQUATE_PREVIOUS_OWN_COMPLETE_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_RECEIVING_REUSED; NO_UNDERLYING_PRIMARY_REPLAY",
+      "current_consequential_claimant_revisit": null,
+      "current_source_mode_limit": "Written analytical meaning only. Historical producer/native/raw claims are attributed to their authors, not transferred. Old intake/census/pending statements remain dated history; current admission/audit qualifiers govern.",
+      "chronology_and_identity_limit": "MAIN local order and own source-relative comparisons; no private-family, officer, dream or variant identity join or invented common calendar.",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN18",
+      "source_binding": {
+        "alias": "MN18",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KOTONE/BLUE_ARCHIVE_KOTONE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "bytes": 24480,
+        "sha256": "f4644f7ca1a203f0f34f4664e7c270d93558b7425727560f47a8eeb1617cc944",
+        "git_blob_oid_of_actual_bytes": "a5b576913194450904ee29406c438c81249b3618",
+        "physical_lines": 582,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_new_claimant_specific_question": "What do Kotone's expressed boundaries and later reported friend response require of a claimant relation inferred from silence or usefulness?",
+      "own_new_claimant_connected_positive_and_contrary_result": "Actual poke/glasses/return, unwanted public judgment, ignored distance request and difficult float stay distinct; an unseen friend's later reported answer qualifies silence-as-rejection without naming the friend. The comparison protects recipient-specific response channels without joining Kotone to the claimant or converting absence of answer into a solved motive.",
+      "prospective_current_body_claim_relations": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/20"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/27"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/30"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/33"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/44"
+        }
+      ],
+      "own_previous_adequate_source_receiving_record_NOT_rewritten": {
+        "alias": "MN18",
+        "source_binding": {
+          "alias": "MN18",
+          "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KOTONE/BLUE_ARCHIVE_KOTONE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "bytes": 24480,
+          "sha256": "f4644f7ca1a203f0f34f4664e7c270d93558b7425727560f47a8eeb1617cc944",
+          "git_blob_oid_of_actual_bytes": "a5b576913194450904ee29406c438c81249b3618",
+          "physical_lines": 582,
+          "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+        },
+        "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_ranges": [
+          [
+            1,
+            582
+          ]
+        ],
+        "tool_receipts": [
+          "93dee3"
+        ],
+        "new_target_question": "Does familiar expertise guarantee a companion experiences comfort?",
+        "connected_positive_and_contrary_result": "Kotone's actual poke/glasses/return, unwanted public judgment, ignored adult distance request and difficult float remain distinct. An unseen friend's later reported answer qualifies silence-as-rejection without naming that friend.",
+        "finite_limit": "Human spoken requests/refusals and response channels are a useful contrary frame; no Kotone private alias or same consent evidence for Sammy.",
+        "role": "SOURCE_LOCAL_COMPARATIVE_CONTROL",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "current_M008_grade": "ADEQUATE_PREVIOUS_OWN_COMPLETE_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_RECEIVING_REUSED; NO_UNDERLYING_PRIMARY_REPLAY",
+      "current_consequential_claimant_revisit": null,
+      "current_source_mode_limit": "Written analytical meaning only. Historical producer/native/raw claims are attributed to their authors, not transferred. Old intake/census/pending statements remain dated history; current admission/audit qualifiers govern.",
+      "chronology_and_identity_limit": "MAIN local order and own source-relative comparisons; no private-family, officer, dream or variant identity join or invented common calendar.",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "MN19",
+      "source_binding": {
+        "alias": "MN19",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KOKORO/BLUE_ARCHIVE_KOKORO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "bytes": 42654,
+        "sha256": "dba39b01fa27e17f64d7cb0d2fbdd85b2f98cefd1c12feeb6056b0d0a12c77a4",
+        "git_blob_oid_of_actual_bytes": "650ad2faef3c42ae17ee4e264e315b2716096b6e",
+        "physical_lines": 253,
+        "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+      },
+      "own_new_claimant_specific_question": "What does Kokoro's safety apology, singing pleasure and conditional future help show about claimant competence and promised ordinary life?",
+      "own_new_claimant_connected_positive_and_contrary_result": "An apology for overreach, genuine singing and actual shared soup coexist with concealed appraisal, false alarm, chamber care and temporary avoidance before a future request. Local recovery does not prove Sammy's counterfactual; safety knowledge does not make every judgment correct, and a requested claimant future is not yet fulfilled or a joined private identity.",
+      "prospective_current_body_claim_relations": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/3"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/12"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/20"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/26"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/33"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/42"
+        }
+      ],
+      "own_previous_adequate_source_receiving_record_NOT_rewritten": {
+        "alias": "MN19",
+        "source_binding": {
+          "alias": "MN19",
+          "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KOKORO/BLUE_ARCHIVE_KOKORO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "bytes": 42654,
+          "sha256": "dba39b01fa27e17f64d7cb0d2fbdd85b2f98cefd1c12feeb6056b0d0a12c77a4",
+          "git_blob_oid_of_actual_bytes": "650ad2faef3c42ae17ee4e264e315b2716096b6e",
+          "physical_lines": 253,
+          "grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY"
+        },
+        "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_ranges": [
+          [
+            1,
+            253
+          ]
+        ],
+        "tool_receipts": [
+          "616504",
+          "02575c"
+        ],
+        "new_target_question": "Can a clinician-like helper both impose and receive wanted care?",
+        "connected_positive_and_contrary_result": "Kokoro apologizes for safety overreach, enjoys singing despite concealed appraisal, shares actual soup and needs chamber care after a false alarm; the whole thread later asks conditional future help after temporary avoidance.",
+        "finite_limit": "Local narrated chamber recovery cannot prove Sammy would recover; safety knowledge does not guarantee judgment, and genuine pleasure does not erase companion burden.",
+        "role": "SOURCE_LOCAL_COMPARATIVE_CONTROL",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "current_M008_grade": "ADEQUATE_PREVIOUS_OWN_COMPLETE_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_RECEIVING_REUSED; NO_UNDERLYING_PRIMARY_REPLAY",
+      "current_consequential_claimant_revisit": null,
+      "current_source_mode_limit": "Written analytical meaning only. Historical producer/native/raw claims are attributed to their authors, not transferred. Old intake/census/pending statements remain dated history; current admission/audit qualifiers govern.",
+      "chronology_and_identity_limit": "MAIN local order and own source-relative comparisons; no private-family, officer, dream or variant identity join or invented common calendar.",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    },
+    {
+      "alias": "EVENT860",
+      "source_binding": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_860/BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 51286,
+        "sha256": "ab1737179cd375e8edcee8f372c92c155ca5b8f9bfb077d73af06f5ec4de6320",
+        "physical_lines": 273
+      },
+      "own_new_claimant_specific_question": "How do Sumika's hobby wish, attack-order/apology contradiction and misrouted errand qualify the claimant's distinct chosen-blame narrative?",
+      "own_new_claimant_connected_positive_and_contrary_result": "The connected admitted source gives an attack order in008, crew-blaming apology in011 and a wished biotope/insect-collecting opportunity tied to errand015. Wrong-recipient routing reaches Hina without completed intended apology or collecting. This preserves ordinary motivation and accountability as separate comparisons; it does not supply claimant attendance, hidden original plan or chronology against MAIN.",
+      "prospective_current_body_claim_relations": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/7"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/13"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/20"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/32"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT_LITERAL54_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+          "pointer": "/all_complete_saved_paragraph_claims/38"
+        }
+      ],
+      "own_previous_adequate_source_receiving_record_NOT_rewritten": {
+        "alias": "CARE20_EVENT860",
+        "source_binding": {
+          "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_860/BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 51286,
+          "sha256": "ab1737179cd375e8edcee8f372c92c155ca5b8f9bfb077d73af06f5ec4de6320",
+          "physical_lines": 273
+        },
+        "own_actual_grade": "COMPLETE_MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_ranges": [
+          [
+            1,
+            273
+          ]
+        ],
+        "tool_receipts": [
+          "0b0e82 source1-99 visible despite clipped schema inventory",
+          "af9f55 100-195",
+          "4b8955 196-273; tail repaired5f5be0 265-273"
+        ],
+        "new_target_question": "How should Sumika's duty, hobby and inconsistent apology be compared?",
+        "connected_positive_and_contrary_result": "EVENT860:015 ties a reported apology errand to wished biotope/insect collecting, then wrong-name routing produces Hina encounter without completed intended apology or narrated collecting. 008 actual attack order contradicts 011 crew-blaming apology.",
+        "finite_limit": "These source-local ordinary and accountability contrasts deepen Sumika's distinct care agency; no chronological conversion or clinical judgment of Sammy follows.",
+        "role": "SUMIKA_CONNECTED_HOBBY_APOLOGY_AND_RESPONSIBILITY_CONTRAST",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "current_M008_grade": "ADEQUATE_PREVIOUS_OWN_COMPLETE_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_RECEIVING_REUSED; NO_UNDERLYING_PRIMARY_REPLAY",
+      "current_consequential_claimant_revisit": null,
+      "current_source_mode_limit": "Written analytical meaning only. Historical producer/native/raw claims are attributed to their authors, not transferred. Old intake/census/pending statements remain dated history; current admission/audit qualifiers govern.",
+      "chronology_and_identity_limit": "MAIN local order and own source-relative comparisons; no private-family, officer, dream or variant identity join or invented common calendar.",
+      "fresh_underlying_primary_native_raw_AV_credit": 0
+    }
+  ],
+  "complete_original_common105_source_qualifier_layer_NOT_rewritten": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 61767,
+    "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+    "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f",
+    "scope": "Published source130b9 current GSC six-purpose successor layer; source-consistency audit qualifiers and original purpose/source payloads remain operative at their actual disclosed grades. This Minato derivative does not alter their records, inverse proofs or actor decisions."
+  },
+  "original_common105_source_qualifier_scope": "Original source629 audit, PR152 frozen fields and later current effective qualifications remain operative at their disclosed snapshots; original source payloads are retained as dated owner history.",
+  "body_only_independent_QA_witnesses": [
+    {
+      "private_custody_witness_id": "M008_BODY_ONLY_INDEPENDENT_QA_01",
+      "bytes": 53206,
+      "sha256": "9156f0da78f6d6281516ace38150b088f38c3092e2020c078969fc47c8709fda",
+      "git_blob_oid_of_actual_bytes": "b23e0c62e128693b31c30bdaa4a9960ab325bdca",
+      "role": "Different-author complete original181 body literary receiving or current one-row exact inverse readback; no105/register/full-package acceptance."
+    },
+    {
+      "private_custody_witness_id": "M008_BODY_ONLY_INDEPENDENT_QA_02",
+      "bytes": 4802,
+      "sha256": "a389b890605a088cd91f14545aeb2663e7d3c2d11edf7de10e9a3ecc292d1a4e",
+      "git_blob_oid_of_actual_bytes": "ef9ebd4c8783e6f4a185809314f1109aab14cb4f",
+      "role": "Different-author complete original181 body literary receiving or current one-row exact inverse readback; no105/register/full-package acceptance."
+    }
+  ],
+  "T03_actor_precision_current_qualification": {
+    "original181_body": "Dated V1; former actor row superseded only at currentV2T03",
+    "current181_body": {
+      "bytes": 41264,
+      "sha256": "5d592f26f2a39a9cb8ba3504efee2e3f2c8e408e1af553522aed7c2bc4553b7e",
+      "git_blob_oid_of_actual_bytes": "f7b2572aa3a1f5ba4f81cb7e22015ac80f1ea2b7"
+    },
+    "supported_actor": "Claimant thanks Minato for complying with the unreasonable request",
+    "full_exact_body_inverse_operation": {
+      "line": 143,
+      "endpoint": "T03",
+      "before": "| T03 | Recall ordered; Olympos docks and Minato thanks her. | Transmission/receipt and each ship's compliance; authenticated office. |",
+      "after": "| T03 | Recall ordered; Olympos docks and the claimant thanks Minato for complying with her unreasonable request. | Transmission/receipt and each ship's compliance; authenticated office. |",
+      "inverse": {
+        "before": "| T03 | Recall ordered; Olympos docks and the claimant thanks Minato for complying with her unreasonable request. | Transmission/receipt and each ship's compliance; authenticated office. |",
+        "after": "| T03 | Recall ordered; Olympos docks and Minato thanks her. | Transmission/receipt and each ship's compliance; authenticated office. |"
+      }
+    },
+    "new_source_receiving_credit": 0
+  },
+  "current_body_basis_qualification": "Body lines3/5 retain author-stage and source3495/localc600/maincb99 preparation-basis text literally. Later current receiving/acceptance belongs in explicit wrappers; these lines do not certify future publication or green status.",
+  "body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "bytes": 41264,
+    "sha256": "5d592f26f2a39a9cb8ba3504efee2e3f2c8e408e1af553522aed7c2bc4553b7e",
+    "git_blob_oid_of_actual_bytes": "f7b2572aa3a1f5ba4f81cb7e22015ac80f1ea2b7"
+  },
+  "105_purpose_index": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+    "pointer": ""
+  },
+  "existing_home": "P3-CHAR-M008",
+  "typed_target": "Council-president claimant; no identity join",
+  "author": "/root/receive_middle_remaining",
+  "stage": "AUTHOR_COMPLETE_FINITE_DRAFT_WITH_LIMITS; CURRENT_COMPLETE_COMPONENT_AND105_DIFFERENT_AUTHOR_QA_AND_ROOT_ADOPTION_INSTALL_PUBLICATION_PENDING",
+  "fixed_actual_receiving_basis": {
+    "source": "3495ee6b4712c7ca4de25a75054d83863cccbf3f",
+    "local": "c600754976b6c53278d6136045d098904962d7af",
+    "local_tree": "6fb07be4a326e9c1dbe5a8e740ec4eb6333301b3",
+    "main": "cb99d141317d51f9c47ee098c7a07982c07c3a20",
+    "role": "FIXED_ACTUAL_RECEIVING_BASIS_SNAPSHOT; NOT_FUTURE_PUBLICATION_HEAD_OR_CURRENT_GREEN"
+  },
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "new_credits": {
+    "primary_native_raw_AV": 0,
+    "new_source_admission": 0,
+    "fresh_common105_normal_passes": 0,
+    "identity_or_registry_generated_model_named_required_scope": 0,
+    "canonical_package_completion_from_author_preparation": 0
+  },
+  "current_ROOT_package_adoption": "PENDING"
+}

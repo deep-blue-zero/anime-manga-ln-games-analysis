@@ -1,0 +1,107 @@
+{
+  "schema": "harmony-current-model-selection/v1",
+  "selected_utc": "2026-10-19T04:43:55.537627+00:00",
+  "note": "Five originals remain exact v1.0; five source-corrected successors have publication-only v1.2 metadata. Their semantic body is byte-identical to the tested v1.1 payload archived separately. No v1.2 CLI rerun is claimed. Original source failures and all historical freezes remain.",
+  "models": [
+    {
+      "subject": "cian",
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_CIAN_RECONSTRUCTION_MODEL.md",
+      "selected_sha256": "b9e596964a6603b20b819527436ee61794a6148c58b3b2a5aeb7cd2d8abdabd9",
+      "tested_sha256": "b9e596964a6603b20b819527436ee61794a6148c58b3b2a5aeb7cd2d8abdabd9",
+      "body_sha256": "54734a726feb8ea9245dd654754c717b5690b154e495327967193bffc2f1f83d",
+      "tested_body_sha256": "54734a726feb8ea9245dd654754c717b5690b154e495327967193bffc2f1f83d",
+      "metadata_only_successor": false,
+      "acceptance": "EXTERNAL_INDEPENDENT_REVIEW_SCOPED_NOT_PERSON_GENERAL_VALIDATION"
+    },
+    {
+      "subject": "etienne",
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_ETIENNE_RECONSTRUCTION_MODEL.md",
+      "selected_sha256": "87fb32063efb9dec9d9d8dbd41f5dff2e7de47de9c86215b8fb0974763a404c6",
+      "tested_sha256": "217a33172486912e831850fa7ffc453e7da16dc23bb3ecf9f7b16d93daf433dd",
+      "body_sha256": "7672a62babf38983da1c19ffeeeb184e0222575b5c0c40b269c158e17d4a1d9e",
+      "tested_body_sha256": "7672a62babf38983da1c19ffeeeb184e0222575b5c0c40b269c158e17d4a1d9e",
+      "metadata_only_successor": true,
+      "acceptance": "EXTERNAL_INDEPENDENT_REVIEW_SCOPED_NOT_PERSON_GENERAL_VALIDATION"
+    },
+    {
+      "subject": "keita",
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_KEITA_RECONSTRUCTION_MODEL.md",
+      "selected_sha256": "b06784e90e947eca4266446db97a549329c7a1e94ab81b7eb3eb00ed9ef9e86a",
+      "tested_sha256": "1440d21b5b8cab9a0f1c8d9432b446fef667426ed794bac2214f6b13fa1ca631",
+      "body_sha256": "f40bbbd363c703b389d81c4e4a8d262a7e332d5cb4f06019eccf8e1b79417a84",
+      "tested_body_sha256": "f40bbbd363c703b389d81c4e4a8d262a7e332d5cb4f06019eccf8e1b79417a84",
+      "metadata_only_successor": true,
+      "acceptance": "EXTERNAL_INDEPENDENT_REVIEW_SCOPED_NOT_PERSON_GENERAL_VALIDATION"
+    },
+    {
+      "subject": "miach",
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_MIACH_RECONSTRUCTION_MODEL.md",
+      "selected_sha256": "58a29ec258e42d6ce899da23e13c190619db6fa6e13c7d8bbea2b9e2dbfc0fae",
+      "tested_sha256": "58a29ec258e42d6ce899da23e13c190619db6fa6e13c7d8bbea2b9e2dbfc0fae",
+      "body_sha256": "1f2e6255638464021a273b7bd9d2a465badc7498745af0d15db4c75ab079873c",
+      "tested_body_sha256": "1f2e6255638464021a273b7bd9d2a465badc7498745af0d15db4c75ab079873c",
+      "metadata_only_successor": false,
+      "acceptance": "EXTERNAL_INDEPENDENT_REVIEW_SCOPED_NOT_PERSON_GENERAL_VALIDATION"
+    },
+    {
+      "subject": "nuaza",
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_NUAZA_RECONSTRUCTION_MODEL.md",
+      "selected_sha256": "485b6d0ad5689898731c76254ce538f80a1f2bdbdcc2b1930eb76593453146e6",
+      "tested_sha256": "1b7af88f6d073770e40f2bc35f35d8152d5da96e9e046a49ab412a0d9915dae2",
+      "body_sha256": "b88ead6187976974face9179e9d9a3a2ef28c145393b96e3d6b05680413eae02",
+      "tested_body_sha256": "b88ead6187976974face9179e9d9a3a2ef28c145393b96e3d6b05680413eae02",
+      "metadata_only_successor": true,
+      "acceptance": "EXTERNAL_INDEPENDENT_REVIEW_SCOPED_NOT_PERSON_GENERAL_VALIDATION"
+    },
+    {
+      "subject": "oscar",
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_OSCAR_RECONSTRUCTION_MODEL.md",
+      "selected_sha256": "8e48564e5dbd6d28e268281afee0a5aa034d45e7c417d4f6006557210637b790",
+      "tested_sha256": "8e48564e5dbd6d28e268281afee0a5aa034d45e7c417d4f6006557210637b790",
+      "body_sha256": "ee2be5aa3dc4d20574b6d6a5e9070a470a61814b4dde3952b3ab77ebfa006382",
+      "tested_body_sha256": "ee2be5aa3dc4d20574b6d6a5e9070a470a61814b4dde3952b3ab77ebfa006382",
+      "metadata_only_successor": false,
+      "acceptance": "EXTERNAL_INDEPENDENT_REVIEW_SCOPED_NOT_PERSON_GENERAL_VALIDATION"
+    },
+    {
+      "subject": "reiko",
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_REIKO_RECONSTRUCTION_MODEL.md",
+      "selected_sha256": "c063a9e8452e2b67d6a284c6c6034e5c5c6719f5eeece8853ec8643f8e95409a",
+      "tested_sha256": "4c90167084e39754ec22e8efd6e5d26be813e335c807e8b704bb3d3c194c40b0",
+      "body_sha256": "f141428f24f07563f9067ea912f140b934a7733e11530a5f3d8308ee6c09e528",
+      "tested_body_sha256": "f141428f24f07563f9067ea912f140b934a7733e11530a5f3d8308ee6c09e528",
+      "metadata_only_successor": true,
+      "acceptance": "EXTERNAL_INDEPENDENT_REVIEW_SCOPED_NOT_PERSON_GENERAL_VALIDATION"
+    },
+    {
+      "subject": "tuan",
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_TUAN_RECONSTRUCTION_MODEL.md",
+      "selected_sha256": "b1998d0bf5e3a6a88c48efa8d8682b0976da405fbb3abb5137b71c7adcce88b0",
+      "tested_sha256": "b1998d0bf5e3a6a88c48efa8d8682b0976da405fbb3abb5137b71c7adcce88b0",
+      "body_sha256": "0d9142486061f7745830c4802fc356cfde0c84c6129ea460e54b12001bfcfc7a",
+      "tested_body_sha256": "0d9142486061f7745830c4802fc356cfde0c84c6129ea460e54b12001bfcfc7a",
+      "metadata_only_successor": false,
+      "acceptance": "EXTERNAL_INDEPENDENT_REVIEW_SCOPED_NOT_PERSON_GENERAL_VALIDATION"
+    },
+    {
+      "subject": "uwe",
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_UWE_RECONSTRUCTION_MODEL.md",
+      "selected_sha256": "b6e5589682482758c0b6dbf4f3df3508fff958c909b23aff1a29c63d5c5fd97e",
+      "tested_sha256": "8d3c55e6fe775aa3d4f5cf0321501e1853d232290e67fa324bc083a6be4b95f5",
+      "body_sha256": "666bdef5084cb74fa49a927e1bf17ca486f486a44a8efb211932e05456055455",
+      "tested_body_sha256": "666bdef5084cb74fa49a927e1bf17ca486f486a44a8efb211932e05456055455",
+      "metadata_only_successor": true,
+      "acceptance": "EXTERNAL_INDEPENDENT_REVIEW_SCOPED_NOT_PERSON_GENERAL_VALIDATION"
+    },
+    {
+      "subject": "vashilov",
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_VASHILOV_RECONSTRUCTION_MODEL.md",
+      "selected_sha256": "050d4c455d4c31dc6dddc26f6a80d63c770524ed2f8f185db196790e35806816",
+      "tested_sha256": "050d4c455d4c31dc6dddc26f6a80d63c770524ed2f8f185db196790e35806816",
+      "body_sha256": "7389b29b29a31e40730f1e2c1a4c42eab97b8ea69199274a667228ebc6589ce3",
+      "tested_body_sha256": "7389b29b29a31e40730f1e2c1a4c42eab97b8ea69199274a667228ebc6589ce3",
+      "metadata_only_successor": false,
+      "acceptance": "EXTERNAL_INDEPENDENT_REVIEW_SCOPED_NOT_PERSON_GENERAL_VALIDATION"
+    }
+  ]
+}

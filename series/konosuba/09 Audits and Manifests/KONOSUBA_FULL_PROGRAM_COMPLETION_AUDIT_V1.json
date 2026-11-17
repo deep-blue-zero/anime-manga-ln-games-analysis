@@ -1,0 +1,195 @@
+{
+  "schema": "konosuba.full-program.completion-responsibility-audit.v1",
+  "prepared_utc": "2026-10-26T07:27:42.956174+00:00",
+  "context_source": "9b3cc94f7575ccbc96c493b7c68ae79dd2556dbf",
+  "new_author_artifacts": [
+    {
+      "path": "series/konosuba/07 Full-Series Synthesis/KONOSUBA_FULL_SERIES_SYNTHESIS.md",
+      "bytes": 30621,
+      "sha256": "bf89f9c4614d91e0905d32a9178284f1aedaf08e32b8cb14ac2fd8b337bf47ee"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_FULL_PROGRAM_COMPONENT_DISPOSITION_AUDIT_V1.md",
+      "bytes": 11674,
+      "sha256": "22fce5db7fc3f9dd4fc6143561382354de13bbd1607a49962fd6acc7cc79d5f2"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_POST_VALIDATION_MODEL_EVIDENCE_MATRIX_V1.md",
+      "bytes": 11704,
+      "sha256": "1d9dac4b20a5ff0a1aec13eccd7200b9dcac71d854ea446e44b10a360dee3419"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_POST_VALIDATION_CLAIM_REVISION_LEDGER_V1.md",
+      "bytes": 6774,
+      "sha256": "38f57a87d9738c61e775108cbaef59726dd940da7e60544f437452f42e157c7e"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_POST_VALIDATION_CROSS_MODEL_CONSISTENCY_AUDIT_V1.md",
+      "bytes": 9999,
+      "sha256": "5607f29ed44799ac8a64711e0cbdb4696e2c327e3cc6c412c2f3bd7133ff9429"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_FULL_PROGRAM_COMPONENT_DISPOSITION_AUDIT_V1.json",
+      "bytes": 242631,
+      "sha256": "923334bd32a3de3ec1375a10fa624f831521b45145c1141297557d23a2ece993"
+    }
+  ],
+  "author_semantic_reviews": {
+    "full_series_sha256": "1e594b0e4653571c675be3839e925bc03d141df8644d61cb282f8eb43f877e97",
+    "companions_sha256": "eda7cb2f9a3147ff2eca0f4d8510cb096a3c6ec4933ceabd652d5117f6a97177",
+    "complete_companion_qualification_actual_receiving": "7c63dd"
+  },
+  "responsibilities": [
+    {
+      "id": "FIXED41_IDENTITY",
+      "status": "RETAINED_PREVIOUSLY_RECONCILED",
+      "evidence": "Source lock/admission/coverage and local identity recovery; no fresh binary identity credit here."
+    },
+    {
+      "id": "MAIN17_DERIVATION",
+      "status": "ACCEPTED_RETAINED",
+      "evidence": "Seventeen principal readings/checkpoints and original prospective histories."
+    },
+    {
+      "id": "MAIN_ONLY_FREEZE",
+      "status": "EXACT_BASELINE_RETAINED",
+      "evidence": "Original six R1 bodies and immutable suite records; not revised by new source exposure."
+    },
+    {
+      "id": "DESIGNATED_SOURCE_LOCAL_VALIDATION",
+      "status": "FOUR_ORIGINAL_ASSESSMENTS_RETAINED",
+      "evidence": "Four exact score files,all failures and qualifications; distinct from central capability grading."
+    },
+    {
+      "id": "SUPPLIED_COMPONENT_PROGRAMS",
+      "status": "CLOSED_AT_DECLARED_SCOPES",
+      "evidence": "41 register/receiving joins,40 gates;17 main-excluded/19 supplemental/5 mixed; no global narrative denominator."
+    },
+    {
+      "id": "SECONDARY_EVIDENCE_PROPORTIONAL_AUDIT",
+      "status": "COMPLETED_AT_RECORDED_SCOPES",
+      "evidence": "65 scoped secondary entries/231 profile passages/69 monograph-only/836 nonfinal access records; no quota or final unique-person count."
+    },
+    {
+      "id": "TEN_LONGITUDINAL_LEDGERS",
+      "status": "CONSOLIDATED_RETAINED",
+      "evidence": "C51/C52 consolidation and earlier source-specific uptake; diagnostic output is not new literary observation."
+    },
+    {
+      "id": "EXPANDED_SPECIALISTS_AND_EXTENDED",
+      "status": "PUBLISHED_AUTHOR_GATES_CLOSED",
+      "evidence": "Seven expanded papers,f659/D199;combined extended synthesis at9b3 with its own479 audit."
+    },
+    {
+      "id": "POST_VALIDATION_SIX_AND_ACTUAL_BATTERY",
+      "status": "PUBLISHED_PROVISIONAL_WITH_RETAINED_DEFECT",
+      "evidence": "Six exact cores,45 settings,90 complete firsts before feedback,typed A04 failure and dependent internal consistency only."
+    },
+    {
+      "id": "FULL_SERIES_ARGUMENT",
+      "status": "SEMANTICALLY_ACCEPTED_NEW_ARTIFACT",
+      "evidence": "Full5-page actual readback,qualified source/diagnostic distinctions,named Chomusuke and12 verified links."
+    },
+    {
+      "id": "CURRENT_MATRIX_CLAIMS_CONSISTENCY",
+      "status": "SEMANTICALLY_ACCEPTED_NEW_ARTIFACTS",
+      "evidence": "27 contracts,18 claim records,13 cross-model intersections;unexecuted joint guards remain explicit."
+    },
+    {
+      "id": "CURRENT_COMPONENT_DISPOSITIONS",
+      "status": "SEMANTICALLY_ACCEPTED_DECLARED_SCOPE",
+      "evidence": "Complete41-row source-owner/gate projection plus source-plane/exception review;not a new native pass."
+    },
+    {
+      "id": "LOCATOR_RESPONSIBILITY",
+      "status": "CURRENT_OWNERS_RETAINED_AND_NEW_DIAGNOSTICS_JOINED",
+      "evidence": "Original native locator and source-specific indexes remain exact;new matrix/core/evidence packet locates generated outputs without native-ID fabrication."
+    },
+    {
+      "id": "AUTHOR_PUBLICATION",
+      "status": "EXACT_CONTAINING_SOURCE_GATE_REQUIRED",
+      "evidence": "This package must receive exact index preflight,normal push,remote/body readback and actual full source audit."
+    },
+    {
+      "id": "DESIGNATED_DISCOVERY_CURATION",
+      "status": "NOT_CERTIFIED_BY_AUTHOR_PACKAGE",
+      "evidence": "Actual global canonical-subject/alias/artifact reconciliation belongs to designated owner/generator."
+    },
+    {
+      "id": "DESIGNATED_CAPABILITY_EVALUATION",
+      "status": "UNASSESSED_OBSERVATION_AT_SOURCE9B3",
+      "evidence": "Official file has0matching KonoSuba rows;actual23-item enrolled work queue is BACKFILL_UNASSESSED. Later source must be checked afresh."
+    },
+    {
+      "id": "PROTECTED_MAIN_INTEGRATION",
+      "status": "NOT_CERTIFIED_BY_AUTHOR_PACKAGE",
+      "evidence": "Only CI agent/owner merges under AGENTS and its exact-source merge gate."
+    },
+    {
+      "id": "FINAL_RELEASE",
+      "status": "NOT_PERFORMED",
+      "evidence": "No final freeze,stable-readme rename,independent grade or full-program-complete claim."
+    }
+  ],
+  "original_score_files_unchanged": [
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/YORI01_ACCEPTED_ADJUDICATIONS.json",
+      "bytes": 87574,
+      "sha256": "7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/MASK_ACCEPTED_ADJUDICATIONS.json",
+      "bytes": 210188,
+      "sha256": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_ACCEPTED_ADJUDICATIONS.json",
+      "bytes": 229826,
+      "sha256": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_ACCEPTED_ADJUDICATIONS.json",
+      "bytes": 276665,
+      "sha256": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+    }
+  ],
+  "model_accounting": {
+    "earlier_bodies_preserved": 71,
+    "new_successor_versions": 6,
+    "total_bodies": 77,
+    "scoped_secondary_entries": 65,
+    "new_secondary_subjects_from_six_versions": 0
+  },
+  "other_treatment_counts": {
+    "profile_passages": 231,
+    "monograph_only_studies": 69,
+    "nonfinal_access_records": 836
+  },
+  "source_program_counts": {
+    "fixed_objects": 41,
+    "main_excluded": 17,
+    "supplemental": 19,
+    "mixed": 5,
+    "component_registers": 41,
+    "unique_containing_gates": 40
+  },
+  "census": {
+    "all19_historical_plane_differences_retained": true,
+    "all_independent_observation_nulls_retained": true,
+    "certified_unique_person_denominator": null
+  },
+  "global_completion_percentage": null,
+  "diagnostics": {
+    "settings": 45,
+    "firsts": 90,
+    "fully_prebound_opening_views": 49,
+    "distinct_directional_contracts": 18,
+    "independent_accuracy": null,
+    "typed_failure": "SD1-QA-D01 retained",
+    "model_maturity": "ACTIVE_PROVISIONAL"
+  },
+  "evaluation_handoff_sha256": "1a6ef8ad7e88c61db0f3b73777f3364d47f32f9097b1c7888d703279620207ae",
+  "publication_semantics": "Semantic acceptance is distinct from containing publication. Exact Git source/status and the author closeout receipt govern publication;prepared context_source is not claimed to be the future containing commit.",
+  "full_program_complete": false,
+  "final_release": false
+}

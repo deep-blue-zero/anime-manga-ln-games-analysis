@@ -1,0 +1,177 @@
+{
+  "schema": "konosuba.cohort50.publication-gate-close.v1",
+  "closed_utc": "2026-10-25T19:06:00.134576+00:00",
+  "status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+  "source": "83fbc004c3bcd1478a25c5f4ee676fcff8dd63dd",
+  "tree": "4a5c73a0c880a32a5e09af7f491c813f194d7c6d",
+  "parent": "85dc3c2f8a142ddb7c83c568440d8981c918fa17",
+  "prior_remote_source": "85dc3c2f8a142ddb7c83c568440d8981c918fa17",
+  "author_preflight": {
+    "paths": 10332,
+    "exact_index_tree": "4a5c73a0c880a32a5e09af7f491c813f194d7c6d",
+    "verified_receipt_sha256": "7f8d8cfc3f37eaa9f65f65db3775e1eab3bd429d410fb0d99953fb96871d88f5",
+    "execution_receipt_sha256": "2df056a6eb9bf6d5f326b4b383139a5878d9413cd21f02148b5d22204edf0834"
+  },
+  "ordinary_push_receipt_sha256": "9a2a47d0330ab90e1886e788333b976dd8a3b613a9be05c8e2399f07833c6a42",
+  "remote_readback": {
+    "repository_files": 10332,
+    "project_files": 1738,
+    "authored_streams": 31,
+    "reconciled_owner_streams": 0,
+    "changed_streams": 31,
+    "all_byte_exact": true,
+    "receipt_sha256": "59ecb695323fdba91f8dd3a422b893bfefee830f2740e6d9a91a13305eb43969"
+  },
+  "actual_source_audit": {
+    "run": 40223499214,
+    "paths": 10332,
+    "full_discovered_tests": 479,
+    "every_discovered_ID_compared": true,
+    "all5_non_success_zero": true,
+    "latest_trusted_status": {
+      "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/83fbc004c3bcd1478a25c5f4ee676fcff8dd63dd",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "id": 57213248574,
+      "node_id": "SC_kwDOUJ9ads8AAAANUizkPg",
+      "state": "success",
+      "description": "Exact commit passed the repository audit",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40223499214",
+      "context": "Repository integration audit",
+      "created_at": "2026-10-25T19:02:06Z",
+      "updated_at": "2026-10-25T19:02:06Z",
+      "creator": {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      }
+    },
+    "verification_sha256": "2193ba60ab1383d2f502904eddce2af240b2a1b0deb7db3c1cfb0f5319eace01"
+  },
+  "fresh_authority_reload": {
+    "file": "COHORT50_PUBLISHED_AUTHORITY_RELOAD_01.json",
+    "bytes": 575193,
+    "sha256": "d1fa56dc3a7edbc009f61a8610258962724f8ef4b2f6da10ab25b7742dc22a56"
+  },
+  "analytical_artifacts": {
+    "new_monographs": 0,
+    "new_reconstruction_models": 0,
+    "new_rules": 0,
+    "bounded_profile_passages": 18,
+    "profile_covered_access_rows": 19,
+    "individually_audited_records": 55,
+    "new_access_records": 31,
+    "changed_existing_records": 24,
+    "unchanged_entering_records": 708,
+    "earlier_eight_core_fields_preserved_records": 11,
+    "new_original_firsts": 0,
+    "current_model_artifacts": 71,
+    "current_source_scoped_secondary_model_entries": 65,
+    "current_bounded_profile_passages": 213,
+    "current_monograph_only_source_studies": 64,
+    "nonfinal_source_access_records": 763,
+    "unique_person_denominator": null
+  },
+  "received_complete_analytical_bindings": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md",
+      "bytes": 21688,
+      "sha256": "350e4a67e937b62c7791e0d0b5f5c4612aeaa00086ba9f99b0e7825ffd3646c2",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md",
+      "bytes": 14404,
+      "sha256": "3627fd2261e50a04b33880d59053f9ce08e46d8e8fd1fbffabf4862392ab71d6",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT50_NATIVE_PROVENANCE_01.json",
+      "bytes": 14573,
+      "sha256": "cb3a4535f2f7e38ac5bdb65e7f78f53ca7ac2cebdedd891fce38e7ddf01f3783",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT50_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json",
+      "bytes": 135412,
+      "sha256": "29c33b40d52b01ad90191bf3df5f0af0087fb3d7b15d1fc630fe257686568ef6",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT50_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+      "bytes": 7482,
+      "sha256": "0fe2e350874f30b9210dd23ac80b428d332bf8ddebdad22930dab9919c28d9a7",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT50_TYPED_SOURCE_ACCESS_ROUTES_01.json",
+      "bytes": 56741,
+      "sha256": "6b4f2f6946a90c35e6786d5bad6324168e96aad65094b66e6adcd499fea5a347",
+      "verbatim_frozen_body": true
+    }
+  ],
+  "received_source_safe_foundation_receipt": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT50_FOUNDATION_FREEZE_01.json",
+    "sha256": "a62214442ac34ac23ea965d580cb5a53afdd4a984d0c4ef7ac59d514818376b5"
+  },
+  "current_source_qualifications": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT50_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+    "sha256": "0fe2e350874f30b9210dd23ac80b428d332bf8ddebdad22930dab9919c28d9a7"
+  },
+  "source_scope": {
+    "structural_P": 2026,
+    "ruby_occurrences": 1707,
+    "known_EPUBs": 7,
+    "text_members": 15,
+    "complete_current_text_members": [
+      "EXP-02-U029"
+    ],
+    "actual_text_images": 4
+  },
+  "preservation": {
+    "all71_entering_models_originals_predictions_scores_adverse_blanks_notes_exact": true,
+    "all6_complete_private_and_public_foundations_exact": true,
+    "all19_historical_plane_differences_exact": true,
+    "all24_current_operations31_access_additions_and708_untouched_rows_verified": true,
+    "all11_earlier_eight_core_field_sets_exact": true,
+    "all80_scratch_exact": true,
+    "all220_preservation_entries_pass": true,
+    "WORK138_and_WORK139_histories_exact": true,
+    "all110_current_owner_bindings_and12_unchanged_controls_exact": true,
+    "all210_prior_entries_replayed_at_coherent_exact_before_authority_and_current1738_bodies_separately_verified": true
+  },
+  "current_author_PR": {
+    "number": 336,
+    "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/336",
+    "state": "open",
+    "merged": false,
+    "head": "83fbc004c3bcd1478a25c5f4ee676fcff8dd63dd",
+    "metadata_receipt": {
+      "file": "C50_CURRENT_AUTHOR_PR_01.json",
+      "bytes": 3299,
+      "sha256": "612139a686b5571c735a17053eb7e7b720d57b232c3264215b0fa0512f1d0f48"
+    }
+  },
+  "observed_main_at_close": "ad0d79c7f64ec48d9ddb9ad2e77b029b7c0a8b3e",
+  "protected_integration_certified_by_this_record": false,
+  "source_known_same_informed_root": true,
+  "independent_accuracy_grade_or_confidence_gain": false,
+  "global_completion_percentage": null,
+  "full_program_complete": false,
+  "next_required": "Receive the complete gate and review/apply closing progress, then continue full corpus identity/reference/image reconciliation and final individual dispositions. Seven specialist expansions, extended/full-series syntheses, six distinct StageD principal/party/transfer successors, final nine-category battery, designated registry/index curation and evaluation, protected integration, component release and final-entry work remain due."
+}

@@ -5,7 +5,10 @@ scope: HAYAMA_HAYATO_V01-V14.5
 character: HAYAMA_HAYATO
 generation: V2
 status: canonical
+supersedes: []
+superseded_by: []
 phase: 8.5
+suite_audit: OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md
 canonical_name: OREGAIRU_V2_CHAR_HAYAMA_RECONSTRUCTION_MODEL.md
 source_boundary: "Japanese-primary mainline Volumes 1-14 plus canonical .5 material through V14.5; direct Hayama evidence begins V01; derived V2 corpus through Document 14; targeted register/behavior verification plus systematic everyday-life/preferences primary-source pass; excludes Shin, Ketsu, adaptations, alternate-route Yui novels, and anthology material"
 authority_class: derived_use_model

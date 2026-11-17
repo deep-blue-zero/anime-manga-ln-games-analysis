@@ -1,0 +1,77 @@
+{
+  "schema": "konosuba.character-rule-inventory.v1",
+  "recorded_utc": "2026-10-24T20:31:48.493821+00:00",
+  "generation": "GAIBIL_EXPANDED_V1",
+  "subject": "Gaibil / ガイビル",
+  "existing_census_row": 82,
+  "scope_assessment_sha256": "921b0b6521cde33935452422a5607be9446e19af6db408432b0bb3275e8463a1",
+  "source_review_receiving_sha256": "e2bb659b22a5a87f96b309a12ed1ab94ce8375d45d56e3ed6b15b2456f2b694a",
+  "model_draft_file": "GAIBIL_MODEL_DRAFT_01.md",
+  "model_draft_sha256": "d8bc8665c2966dc200a0fce9c5bf7511fc4de269ab19366a9e45b57b8732777e",
+  "monograph_draft_file": "GAIBIL_MONOGRAPH_DRAFT_02.md",
+  "monograph_draft_sha256": "96a5382dc728e0b11b24b97df153c448b367d87e62fa362b30593bfa4f85f9fa",
+  "rules": [
+    {
+      "rule_id": "GAI-R01",
+      "proposition": "When a credible available performance can intensify the jealousy he values within the scene constraints, expect Gaibil to invest in or revise that performance rather than pursue an unrelated reward. Losing the original marriage staging need not end his effort if a new audience and target supply jealousy he recognizes as valuable. The source permits costly persistence and, in the extreme final confrontation, stated acceptance of death; it does not establish a general rule to choose maximum danger.",
+      "support": [
+        "DUST-CONT U013P266,309-328 establishes the specified emotional appetite through Doreck report and Gaibil own confirmation. P332-343 gives the proposed competent proxy/domestic staging. U014P356-397 moves from failed contract and lost meal to a newly noticed crowd reward and embellished Line-hero framing. P464 and524-531 give his stated persistence and willingness to die in the final performance."
+      ],
+      "contrary": [
+        "He initially intended a shorter battle, is surprised by the missing ring trigger and exposure, and fails the marriage wish. He acts under stated contract limits and attends to a patient. An omniscient planner or indiscriminate risk maximizer would conflict with the received sequence."
+      ],
+      "rivals": [
+        "Generic theatrical pride, domination, appetite, preserving a client, improvisational opportunism and professional identity can overlap. Envy reward is explicit but the source does not experimentally isolate its weight against danger or other duties."
+      ],
+      "applies_when": [
+        "Specify the jealousy source and why Gaibil expects it, who can observe the scene, the actual available staging methods, contract state and restrictions, recognized danger, and any live client-care demand. Do not label a reward high quality only because he selected it. Unavailable options cannot support a ranking."
+      ],
+      "do_not_assume": [
+        "No omniscience, perfect impersonation, true brainwashing, completed public office or marriage, consent from the bride, global harmlessness, immunity to holy attacks, dragon species from appearance, guaranteed lethal intent from theatrical words or harmlessness from theatrical purpose. Dangerous actual attacks and hostage leverage remain."
+      ],
+      "confidence": "Moderate local warrant for explicitly stated jealousy-directed staging and observed adaptation. Low confidence about exact reward/danger thresholds and unfamiliar forms of emotion or audience. Source-known narrative fit is not independent accuracy.",
+      "falsifier": "Repeated preference for a supplied unrelated reward over a feasible jealousy-producing performance he credibly values, with contract, risk, audience, effort and care obligations held fixed beforehand, would weaken the reward proposition. Repeated abandonment solely because the first staging failed despite an equally credible available replacement would weaken the adaptation branch. New costs or forbidden acts cannot be invented afterward to protect the rule."
+    },
+    {
+      "rule_id": "GAI-R02",
+      "proposition": "With this particular patient-client and an acknowledged professional obligation, expect concrete attention to medicine, food or rest and, after the failed wish, an effort to continue or renew the task rather than automatically discard Doreck. These actions can serve client preservation, attachment and devil professional pride together. They do not imply general kindness, noncoercion or that all other interests always yield.",
+      "support": [
+        "DUST-CONT U013P312-314 shows medicine and sleep questions. U014P539-542 shows concern about Doreck leaving bed, eating and medicine while Gaibil is himself injured. U016P23-25 reverses the care roles; P30 explicitly makes failed wish a matter of devil standing and P32-34 forms a new agreement beginning with health management/light exercise. Public blame-takingP544-552 and Doreck thanksU016P21-26 support a protective interpretation but do not uniquely isolate it from performance reward."
+      ],
+      "contrary": [
+        "He describes humans instrumentally, imprisons investigators, threatens Rionor with amplified shock and stages dangerous combat. His own final account insists on hero/envy design. Care for one client therefore cannot be generalized into a no-human-harm policy or a wholly selfless motive."
+      ],
+      "rivals": [
+        "Maintaining a preferred emotional source, contractual reputation, particular friendship, gratitude and reluctance to admit failure can explain care and renewal. Their relative weights and durability after a changed reward are unresolved."
+      ],
+      "applies_when": [
+        "Bind the existing client relation, a known concrete health need, an available practical response, current contract/failure state, actual competing costs and what each participant knows. A renewal offer is an offer/handshake, not completed recovery. A reported royal mercy remains a report."
+      ],
+      "do_not_assume": [
+        "No universal caregiver role, harmless contracts, complete consent, successful cure, completed exercise program, restored old price, unstated new price, all plans fulfilled or that blame-taking establishes actual magical brainwashing."
+      ],
+      "confidence": "Moderate local warrant for repeated patient-directed concern and the explicit professional-pride renewal. Low confidence about the causal mixture, strangers, changed clients and situations where preserving reward conflicts with care. No grade or confidence increase is assigned.",
+      "falsifier": "Repeated refusal of feasible modest care for this known client under the same recognized need and professional context, with no newly specified conflict, would weaken the attention branch. Straight abandonment after an acknowledged failed wish when the same relationship and renewal opportunity remain would weaken the renewal branch. If reward preservation, friendship and reputation change together, that case cannot by itself isolate which motive failed."
+    }
+  ],
+  "rule_count": 2,
+  "source_known": true,
+  "same_informed_root_authors_and_assesses_all_stages": true,
+  "all_contrasts_visible": true,
+  "exact_inputs_or_firsts_serialized": false,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false,
+  "prior_scope_assessment_sha256": "c9b3ae030ebe95ae00f6a6afc42a77b91273e52f7ade9431090000376f09403a",
+  "prior_native_provenance_sha256": "722da0e5364cfe29549428b6364578cd0a6ce1600a6146a76de2f664557e9927",
+  "current_precision_qualifications_sha256": "8986e3b0718959ea9724ac0d3593796c317fb5b88a4c0f908bad42111ba91ea6",
+  "prior_rule_inventory": {
+    "file": "GAIBIL_RULE_INVENTORY_DRAFT_02.json",
+    "bytes": 7776,
+    "sha256": "22bfaed7b7d580c183ae2671ef203ba714642744b995be736dad0b8438dbf140"
+  },
+  "model_rules_unchanged_from_prior_inventory": true,
+  "pre_freeze_correction": "Monograph reference updated after removal of an unbound role count;all rule fields and model body unchanged."
+}

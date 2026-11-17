@@ -1,0 +1,64 @@
+{
+  "schema": "konosuba.exact-hypothetical-inputs.v1",
+  "recorded_utc": "2026-10-20T15:59:08.741694+00:00",
+  "subject": "Wolbach",
+  "model_pre_case_freeze_sha256": "1729e5dee90829b7fdaf48705bad4a2bcf071b228f16524fd6d2150b1f93bb65",
+  "model_sha256": "d1df7c6476a2e2426ac3d0c99caa69a343d5d7418946141c4c533bc1cb122d53",
+  "rule_inventory_sha256": "cd10da5ccc83d5b07b834cdfc9bf286c52b157177fe8aaaec8db37c7ecdde266",
+  "source_outcomes_already_known": true,
+  "same_informed_model_case_output_assessment_author": true,
+  "common_instruction": "Use the frozen Wolbach model for a contemporary human analogue. All participants are adults. There is no magic or hidden information. Write her next brief spoken response and one action beat in English. Do not explain the rules,complete the whole task,or add a private backstory. Preserve her own choices and limitations.",
+  "cases": [
+    {
+      "case_id": "WOLBACH-H01A",
+      "family": "H01",
+      "target_rules": [
+        "W-R01",
+        "W-R02"
+      ],
+      "scene": "At 19:35,Wolbach is leaving a community workshop. She wants to catch a 19:50 bus to a hot-spring visit she has been looking forward to. Adult acquaintance Kazuma,with whom she has shared friendly conversations,asks: \"Could you help me get this crate into the storage alcove?\" The crate weighs 22 kilograms,has a handle at each end,and must go twenty metres along a clear level path to an open alcove. Carrying it together would take about two minutes. Kazuma can lift one end. An adult porter stands five metres away,is available,and can be asked to lift the other. Wolbach has no other competing task and knows all these facts.",
+      "right_arm_condition": "Her right arm is currently in a rigid brace after a sprain; she cannot lift or carry weight with that arm.",
+      "exact_prompt": "Use the frozen Wolbach model for a contemporary human analogue. All participants are adults. There is no magic or hidden information. Write her next brief spoken response and one action beat in English. Do not explain the rules,complete the whole task,or add a private backstory. Preserve her own choices and limitations.\n\nAt 19:35,Wolbach is leaving a community workshop. She wants to catch a 19:50 bus to a hot-spring visit she has been looking forward to. Adult acquaintance Kazuma,with whom she has shared friendly conversations,asks: \"Could you help me get this crate into the storage alcove?\" The crate weighs 22 kilograms,has a handle at each end,and must go twenty metres along a clear level path to an open alcove. Carrying it together would take about two minutes. Kazuma can lift one end. An adult porter stands five metres away,is available,and can be asked to lift the other. Wolbach has no other competing task and knows all these facts.\n\nHer right arm is currently in a rigid brace after a sprain; she cannot lift or carry weight with that arm."
+    },
+    {
+      "case_id": "WOLBACH-H01B",
+      "family": "H01",
+      "target_rules": [
+        "W-R01",
+        "W-R02"
+      ],
+      "scene": "At 19:35,Wolbach is leaving a community workshop. She wants to catch a 19:50 bus to a hot-spring visit she has been looking forward to. Adult acquaintance Kazuma,with whom she has shared friendly conversations,asks: \"Could you help me get this crate into the storage alcove?\" The crate weighs 22 kilograms,has a handle at each end,and must go twenty metres along a clear level path to an open alcove. Carrying it together would take about two minutes. Kazuma can lift one end. An adult porter stands five metres away,is available,and can be asked to lift the other. Wolbach has no other competing task and knows all these facts.",
+      "right_arm_condition": "Her right arm has fully recovered from an old sprain; she can lift and carry normally without pain.",
+      "exact_prompt": "Use the frozen Wolbach model for a contemporary human analogue. All participants are adults. There is no magic or hidden information. Write her next brief spoken response and one action beat in English. Do not explain the rules,complete the whole task,or add a private backstory. Preserve her own choices and limitations.\n\nAt 19:35,Wolbach is leaving a community workshop. She wants to catch a 19:50 bus to a hot-spring visit she has been looking forward to. Adult acquaintance Kazuma,with whom she has shared friendly conversations,asks: \"Could you help me get this crate into the storage alcove?\" The crate weighs 22 kilograms,has a handle at each end,and must go twenty metres along a clear level path to an open alcove. Carrying it together would take about two minutes. Kazuma can lift one end. An adult porter stands five metres away,is available,and can be asked to lift the other. Wolbach has no other competing task and knows all these facts.\n\nHer right arm has fully recovered from an old sprain; she can lift and carry normally without pain."
+    },
+    {
+      "case_id": "WOLBACH-H02A",
+      "family": "H02",
+      "target_rules": [
+        "W-R01"
+      ],
+      "scene": "Wolbach leads a voluntary campaign to keep a neighborhood reading room open. She is now in that room with adult acquaintance Kazuma. He helped her carry blankets last winter; she remembers that help and has continued to speak warmly with him. A stack of folded chairs stands beside them. He asks: \"Will you help me set these chairs out for the meeting? It will take about half an hour.\" She has that time free and is physically able to help. He has truthfully explained the meeting agenda,and she understands its purpose. There are no threats,emergencies,legal restrictions or hidden obligations.",
+      "meeting_purpose": "The meeting is a public board-game evening whose proceeds will fund the reading room and help keep it open.",
+      "exact_prompt": "Use the frozen Wolbach model for a contemporary human analogue. All participants are adults. There is no magic or hidden information. Write her next brief spoken response and one action beat in English. Do not explain the rules,complete the whole task,or add a private backstory. Preserve her own choices and limitations.\n\nWolbach leads a voluntary campaign to keep a neighborhood reading room open. She is now in that room with adult acquaintance Kazuma. He helped her carry blankets last winter; she remembers that help and has continued to speak warmly with him. A stack of folded chairs stands beside them. He asks: \"Will you help me set these chairs out for the meeting? It will take about half an hour.\" She has that time free and is physically able to help. He has truthfully explained the meeting agenda,and she understands its purpose. There are no threats,emergencies,legal restrictions or hidden obligations.\n\nThe meeting is a public board-game evening whose proceeds will fund the reading room and help keep it open."
+    },
+    {
+      "case_id": "WOLBACH-H02B",
+      "family": "H02",
+      "target_rules": [
+        "W-R01"
+      ],
+      "scene": "Wolbach leads a voluntary campaign to keep a neighborhood reading room open. She is now in that room with adult acquaintance Kazuma. He helped her carry blankets last winter; she remembers that help and has continued to speak warmly with him. A stack of folded chairs stands beside them. He asks: \"Will you help me set these chairs out for the meeting? It will take about half an hour.\" She has that time free and is physically able to help. He has truthfully explained the meeting agenda,and she understands its purpose. There are no threats,emergencies,legal restrictions or hidden obligations.",
+      "meeting_purpose": "The meeting is a presentation advocating closure of the reading room and conversion of the same space into a private members-only lounge.",
+      "exact_prompt": "Use the frozen Wolbach model for a contemporary human analogue. All participants are adults. There is no magic or hidden information. Write her next brief spoken response and one action beat in English. Do not explain the rules,complete the whole task,or add a private backstory. Preserve her own choices and limitations.\n\nWolbach leads a voluntary campaign to keep a neighborhood reading room open. She is now in that room with adult acquaintance Kazuma. He helped her carry blankets last winter; she remembers that help and has continued to speak warmly with him. A stack of folded chairs stands beside them. He asks: \"Will you help me set these chairs out for the meeting? It will take about half an hour.\" She has that time free and is physically able to help. He has truthfully explained the meeting agenda,and she understands its purpose. There are no threats,emergencies,legal restrictions or hidden obligations.\n\nThe meeting is a presentation advocating closure of the reading room and conversion of the same space into a private members-only lounge."
+    }
+  ],
+  "design_limits": [
+    "H01 changes current arm availability; prior-versus-current injury wording is part of that condition. It tests a plainly stated resource,with strong generic physical-constraint rivals. Both branches may seek the same completed crate delivery by different means.",
+    "H02 changes the truthful meeting purpose and its conflict with her explicit campaign. The reading-room versus private-lounge framing carries strong ordinary incentive/value cues; relationship and task cost stay fixed. It does not isolate every component of allegiance or canonical warfare.",
+    "Design anticipated possible porter use versus direct help and possible goal-sensitive cooperation/refusal. The informed author has considered likely response directions before exact-input freeze; no independent or unanticipated generation claim.",
+    "W-R03 and W-R04 are largely unprobed. No destructive half-recovery,battle sacrifice,recognition denial,Japanese voice or hidden canon-motive test is supplied."
+  ],
+  "new_source_validation_credit": 0,
+  "independent_trial_count": null,
+  "accuracy_or_confidence_gain": false
+}

@@ -107,6 +107,41 @@ class SnapshotIOTests(unittest.TestCase):
             core.GitSnapshot.from_index(self.root)
             self.assertEqual(run.call_count, 3)
 
+    def test_caller_owned_blob_cache_serves_verified_bytes_across_commits(self) -> None:
+        for i in range(3):
+            self.stage(f"file-{i}.md", f"content {i}\n".encode())
+        first = self.commit()
+        changed = self.stage("file-1.md", b"changed\n")
+        second = self.commit()
+        cache: dict[str, bytes] = {}
+
+        def batches(run: mock.MagicMock) -> list[bytes]:
+            return [c.kwargs["input_bytes"] for c in run.call_args_list if c.args[1:] == ("cat-file", "--batch")]
+
+        with mock.patch.object(core, "run_git", wraps=core.run_git) as run:
+            one = core.GitSnapshot.from_commit(self.root, first, blob_cache=cache)
+        self.assertEqual([len(b.splitlines()) for b in batches(run)], [3])
+        self.assertEqual(len(cache), 3)
+        for oid, data in cache.items():
+            self.assertEqual(hashlib.sha1(b"blob " + str(len(data)).encode() + b"\0" + data).hexdigest(), oid)
+        # The second commit reads only the blob the cache has not verified yet.
+        with mock.patch.object(core, "run_git", wraps=core.run_git) as run:
+            two = core.GitSnapshot.from_commit(self.root, second, blob_cache=cache)
+        self.assertEqual(batches(run), [f"{changed}\n".encode()])
+        self.assertEqual(two.entries["file-1.md"].data, b"changed\n")
+        self.assertEqual(two.entries["file-0.md"], one.entries["file-0.md"])
+        # A commit the cache fully covers needs no batch read at all, and
+        # yields exactly the entries a fresh acquisition yields.
+        with mock.patch.object(core, "run_git", wraps=core.run_git) as run:
+            again = core.GitSnapshot.from_commit(self.root, first, blob_cache=cache)
+        self.assertEqual(batches(run), [])
+        self.assertEqual(again.entries, one.entries)
+        self.assertEqual(again.entries, core.GitSnapshot.from_commit(self.root, first).entries)
+        # Without a caller-owned cache, every acquisition still reads from Git.
+        with mock.patch.object(core, "run_git", wraps=core.run_git) as run:
+            core.GitSnapshot.from_commit(self.root, first)
+        self.assertEqual([len(b.splitlines()) for b in batches(run)], [3])
+
     def test_index_change_during_acquisition_is_rejected(self) -> None:
         self.stage("file", b"before")
         original = core.read_blob_objects
@@ -117,6 +152,82 @@ class SnapshotIOTests(unittest.TestCase):
         with mock.patch.object(core, "read_blob_objects", side_effect=read_then_change):
             with self.assertRaisesRegex(core.DomainError, "index changed"):
                 core.GitSnapshot.from_index(self.root)
+
+    def test_selected_history_matches_full_snapshot_without_reading_other_blobs(self) -> None:
+        for path, data, mode in (
+            ("sealed [one].md", b"original\n", "100644"),
+            ("sealed o.md", b"not selected\n", "100644"),
+            ("directory/child.md", b"not selected either\n", "100644"),
+            ("executable", b"original\n", "100755"),
+            ("link", b"sealed [one].md", "120000"),
+            ("pointer", b"version https://git-lfs.github.com/spec/v1\n", "100644"),
+        ):
+            self.stage(path, data, mode)
+        commit = self.commit()
+        self.git("update-index", "--add", "--cacheinfo", f"160000,{commit},submodule")
+        commit = self.commit()
+        full = core.GitSnapshot.from_commit(self.root, commit)
+        wanted = {"sealed [one].md", "executable", "link", "pointer", "submodule", "missing", "directory"}
+        self.stage("sealed [one].md", b"staged replacement\n")
+        before = core.GIT_METRICS["blob_requests"]
+        selected = core.GitSnapshot.from_commit(self.root, commit, paths=wanted)
+        self.assertEqual(selected.entries, {p: e for p, e in full.entries.items() if p in wanted})
+        self.assertEqual(core.GIT_METRICS["blob_requests"] - before, 4)
+        self.assertTrue(selected.get("sealed [one].md").qualifies_as_evidence)
+        for path in ("executable", "link", "pointer", "submodule"):
+            self.assertFalse(selected.get(path).qualifies_as_evidence, path)
+
+    def test_selected_history_still_requires_a_real_commit_even_for_empty_paths(self) -> None:
+        blob = self.stage("file", b"original")
+        for bad in (blob, "0" * 40, "main"):
+            with self.subTest(bad=bad), self.assertRaises(core.DomainError):
+                core.GitSnapshot.from_commit(self.root, bad, paths=[])
+        self.assertEqual(core.GitSnapshot.from_commit(self.root, self.commit(), paths=[]).entries, {})
+
+    def test_selected_history_does_not_cache_success_after_object_loss(self) -> None:
+        blob = self.stage("file", b"original")
+        commit = self.commit()
+        core.GitSnapshot.from_commit(self.root, commit, paths=["file"])
+        # A real available promisor must not silently restore missing history.
+        self.git("update-ref", "refs/heads/history", commit)
+        source = self.root / "promisor.git"
+        self.git("clone", "--quiet", "--bare", "--no-hardlinks", str(self.root), str(source))
+        self.git("-C", str(source), "config", "uploadpack.allowFilter", "true")
+        self.git("-C", str(source), "config", "uploadpack.allowAnySHA1InWant", "true")
+        self.git("remote", "add", "origin", str(source))
+        self.git("config", "remote.origin.promisor", "true")
+        self.git("config", "remote.origin.partialclonefilter", "blob:none")
+        missing_object = self.root / ".git" / "objects" / blob[:2] / blob[2:]
+        # Git marks loose objects read-only on Windows. Make this disposable
+        # fixture deletable before exercising the same missing-history check.
+        missing_object.chmod(0o600)
+        missing_object.unlink()
+        self.assertFalse(missing_object.exists())
+        with self.assertRaises(core.DomainError):
+            core.GitSnapshot.from_commit(self.root, commit, paths=["file"])
+        self.assertEqual(self.git("-C", str(source), "cat-file", "-p", blob), b"original")
+
+    def test_git_without_no_lazy_fetch_reads_full_clones_and_refuses_promisors(self) -> None:
+        self.stage("file", b"original")
+        commit = self.commit()
+        with mock.patch.object(core, "git_supports_no_lazy_fetch", return_value=False), \
+                mock.patch.object(core.subprocess, "check_output", wraps=core.subprocess.check_output) as run:
+            self.assertEqual(core.GitSnapshot.from_commit(self.root, commit, paths=["file"]).get("file").data, b"original")
+            self.assertTrue(run.call_args_list)
+            self.assertFalse(any("--no-lazy-fetch" in call.args[0] for call in run.call_args_list))
+            self.git("config", "remote.origin.promisor", "true")
+            with self.assertRaises(core.DomainError):
+                core.GitSnapshot.from_commit(self.root, commit, paths=["file"])
+
+    def test_selected_history_ignores_commit_replacement_refs(self) -> None:
+        self.stage("file", b"original")
+        original = self.commit()
+        self.stage("file", b"substituted")
+        replacement = self.commit()
+        self.git("replace", original, replacement)
+        self.assertEqual(self.git("show", original + ":file"), b"substituted")
+        immutable = core.GitSnapshot.from_commit(self.root, original, paths=["file"])
+        self.assertEqual(immutable.get("file").data, b"original")
 
     def test_unmerged_index_is_rejected_before_blob_acquisition(self) -> None:
         oid = self.stage("file", b"base")

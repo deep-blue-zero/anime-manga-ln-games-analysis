@@ -1,0 +1,943 @@
+{
+  "schema": "konosuba.cohort25.native-provenance.v1",
+  "status": "SOURCE_KNOWN_SEMANTIC_FOUNDATIONS_PREPARATION_PUBLICATION_PENDING",
+  "prepared_utc": "2026-10-21T04:55:14.242306+00:00",
+  "governing_published_source": "bb4de2bd0c6dfad9d4134f73ac9312339d02cb08",
+  "published_authority_reload_sha256": "9c8f064d0e4d6c7acb20d72b40103aacf4d27a81277b1ca383591424d52c30ed",
+  "publication_scope": "Sylvia Tier2 monograph and three compact Tier1 profiles for chief,Moguninnin and newly noticed MASK courier. No new model,input,first body or synthetic trial.",
+  "sources": [
+    {
+      "native_filename": "Konosuba - Main Series - Volume 13.epub",
+      "native_bytes": 2779947,
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "current_register_pins": [
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V13_EXCLUDED_COMPONENT_REGISTER.json",
+          "bytes": 119061,
+          "sha256": "753d6d0540181f4bc766f4ac36211b46227ae8c9f30dd17faa6eb043c186ee8f"
+        }
+      ]
+    },
+    {
+      "native_filename": "Konosuba - Main Series - Volume 14.epub",
+      "native_bytes": 2839172,
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "current_register_pins": [
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V14_EXCLUDED_COMPONENT_REGISTER.json",
+          "bytes": 120520,
+          "sha256": "67dd17b1d29f61183d6cc6dfbeed68335be3cfdfc58189dcae65a9346fc3285f"
+        }
+      ]
+    },
+    {
+      "native_filename": "Konosuba - Main Series - Volume 05.epub",
+      "native_bytes": 14376279,
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "current_register_pins": [
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V05_EXCLUDED_COMPONENT_REGISTER.json",
+          "bytes": 140315,
+          "sha256": "a8d47cffa2b1a1de2099b9dfbfe8aab328e903a986a173d039b981581468462d"
+        }
+      ]
+    },
+    {
+      "native_filename": "Konosuba - Main Series - Volume 17.epub",
+      "native_bytes": 2197695,
+      "native_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+      "current_register_pins": [
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V17_EXCLUDED_COMPONENT_REGISTER.json",
+          "bytes": 104096,
+          "sha256": "f073b2670e602f0673dbd0fd8dc2125cc4eeca6e5e95fa883ee8d476f69131ff"
+        }
+      ]
+    },
+    {
+      "native_filename": "Konosuba Extra - Dust - Volume 05.epub",
+      "native_bytes": 6713820,
+      "native_sha256": "bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc",
+      "current_register_pins": [
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V05_COMPONENT_REGISTER.json",
+          "bytes": 213426,
+          "sha256": "359f6cd0409f2d15ee32a07e0e141cf291ebf6319a55a9db1f549247d054de9d"
+        }
+      ]
+    },
+    {
+      "native_filename": "Konosuba - Main Series - Volume 03.epub",
+      "native_bytes": 3497582,
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+      "current_register_pins": [
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V03_EXCLUDED_COMPONENT_REGISTER.json",
+          "bytes": 106624,
+          "sha256": "8230a7b293c2817e3fedec2727d1657675353abc5692d335036cae6c447ba04b"
+        }
+      ]
+    },
+    {
+      "native_filename": "Konosuba - Spin-off - Explosions - Volume 01.epub",
+      "native_bytes": 19168549,
+      "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "current_register_pins": [
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V01_COMPONENT_REGISTER.json",
+          "bytes": 332067,
+          "sha256": "28bbfa4f4a7914cf1e4318230a810855f97eb13f071e99237a09e086ae2ea2be"
+        }
+      ]
+    },
+    {
+      "native_filename": "Konosuba - Main Series - Volume 15.epub",
+      "native_bytes": 2513225,
+      "native_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+      "current_register_pins": [
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_COMPONENT_REGISTER.json",
+          "bytes": 117631,
+          "sha256": "8d550c03bd34d188dbbcf28567a7dd5d2cb3d9a74a67223c9ddbed6bb6ab2594"
+        }
+      ]
+    },
+    {
+      "native_filename": "Konosuba - Spin-off - Consulting the Masked Devil.epub",
+      "native_bytes": 2895671,
+      "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+      "current_register_pins": [
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_COMPONENT_REGISTER.json",
+          "bytes": 254296,
+          "sha256": "c7338384c21411ac221ab3f5ad1681c2aebe2408bf87e9d26fac6fa2a6be9349"
+        }
+      ]
+    }
+  ],
+  "actual_known_native_receiving_sha256": "1683fc38b87e180f2985234614d149dea0e00fa7538dfdd5fb52e53db54a68e1",
+  "actual_complete_windows": 35,
+  "unique_known_BASE_context_slots": 2122,
+  "text_members": 19,
+  "native_text_objects": 9,
+  "all_saved_private_delivery_hashes_verified": true,
+  "actual_received_windows": [
+    {
+      "file": "C25_MAIN05_C3_050_100_FIRST_DELIVERY_01.txt",
+      "bytes": 6204,
+      "sha256": "fe7cc115e872152a59c6652309160cee5c9f2ada29024f3319e141795591fa44",
+      "actual_complete_delivery_chunk": "5e614b",
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-011.xhtml",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "member_sha256": "52e7eede0b901ef0e86aade6d2650a2f9c98371d1d586a263818cc4754a8da79",
+      "BASE_range": [
+        50,
+        100
+      ],
+      "BASE_slots": 51,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN14_C1_001_075_FIRST_DELIVERY_01.txt",
+      "bytes": 10582,
+      "sha256": "6a9e4915f23bcb8388ae831cb24cb577ccd0942f825582896686d8b29a069bb2",
+      "actual_complete_delivery_chunk": "53d152",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0010.xhtml",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "member_sha256": "10ed143a5cf74a48533cc4d858b92143cdc2464a197dff54189122b7ebc6119c",
+      "BASE_range": [
+        1,
+        75
+      ],
+      "BASE_slots": 75,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN14_C4_045_085_FIRST_DELIVERY_01.txt",
+      "bytes": 4619,
+      "sha256": "6e1e4f26ef73741ae732f3905d3ef22b9abbc58bfe2bc838f3d53c31cdb350ff",
+      "actual_complete_delivery_chunk": "e5ca8b",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319",
+      "BASE_range": [
+        45,
+        85
+      ],
+      "BASE_slots": 41,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN14_C1_380_418_FIRST_DELIVERY_01.txt",
+      "bytes": 4776,
+      "sha256": "b7a5164c80389cfc463a69fff29be5426786dd8933c0a360392d57782b2c0d4c",
+      "actual_complete_delivery_chunk": "2b8558",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0010.xhtml",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "member_sha256": "10ed143a5cf74a48533cc4d858b92143cdc2464a197dff54189122b7ebc6119c",
+      "BASE_range": [
+        380,
+        418
+      ],
+      "BASE_slots": 39,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN14_C2_001_085_FIRST_DELIVERY_01.txt",
+      "bytes": 8719,
+      "sha256": "b1ae439b04fd55e53fe92c7ded2ba64ea8ff96e4de94022a1a8a38b311601c4a",
+      "actual_complete_delivery_chunk": "dab00e",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "member_sha256": "17f21fce2f092f99ce3a4804e8f6e9a4090ceb54132d3f3cf96676222cf835d4",
+      "BASE_range": [
+        1,
+        85
+      ],
+      "BASE_slots": 85,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN14_C2_420_475_FIRST_DELIVERY_01.txt",
+      "bytes": 6734,
+      "sha256": "505d3441b42bc90a88db570511bf9c6f52e930f00423e19a862183dfb98a3db0",
+      "actual_complete_delivery_chunk": "493c72",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "member_sha256": "17f21fce2f092f99ce3a4804e8f6e9a4090ceb54132d3f3cf96676222cf835d4",
+      "BASE_range": [
+        420,
+        475
+      ],
+      "BASE_slots": 56,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN14_I13_001_085_FIRST_DELIVERY_01.txt",
+      "bytes": 10159,
+      "sha256": "41d324209ae247e25129bb888b7daceab6b686f78faeaaa1da068c536f3b189c",
+      "actual_complete_delivery_chunk": "2cdce9",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0013.xhtml",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "member_sha256": "a8071cb8fc1d0a95331b2f144583e9a237cd2b7a166e92dd566ced148a1eeaf2",
+      "BASE_range": [
+        1,
+        85
+      ],
+      "BASE_slots": 85,
+      "member_BASE_complete_this_window": true
+    },
+    {
+      "file": "C25_MAIN14_C3_280_350_FIRST_DELIVERY_01.txt",
+      "bytes": 9262,
+      "sha256": "d92c87be697708292e9c8658548289f5fdf186e0544cb83d85da44f8af784338",
+      "actual_complete_delivery_chunk": "c7e275",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0012.xhtml",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "member_sha256": "aa8db56f63b180d4740d7bd38d974c0490b2fd79211fc42e433d23131e19d23b",
+      "BASE_range": [
+        280,
+        350
+      ],
+      "BASE_slots": 71,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN14_C4_001_044_FIRST_DELIVERY_01.txt",
+      "bytes": 4452,
+      "sha256": "8983f4dc03e0860e38aeb0c8cbf0afef62fafe96decaab9fddb743671036578c",
+      "actual_complete_delivery_chunk": "92ac3e",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319",
+      "BASE_range": [
+        1,
+        44
+      ],
+      "BASE_slots": 44,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_EXP01_U037_295_380_FIRST_DELIVERY_01.txt",
+      "bytes": 11744,
+      "sha256": "516f7782dfd4306515e353656a4f27d9bf9c89a8874ca0b48cda9bd93e7d992b",
+      "actual_complete_delivery_chunk": "09b47d",
+      "source": "EXP-01",
+      "member": "item/xhtml/p-027.xhtml",
+      "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "member_sha256": "60647d2820d49b2b7ac5570c5013f18e6ab080aaa434672a2ab59421a58532da",
+      "BASE_range": [
+        295,
+        380
+      ],
+      "BASE_slots": 86,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN05_C5_115_165_FIRST_DELIVERY_01.txt",
+      "bytes": 6614,
+      "sha256": "45fc53600c5c6a54fc25a9ec5ce85bec44ac8727d971a1d9bf1e03729749245b",
+      "actual_complete_delivery_chunk": "4304c4",
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-018.xhtml",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "member_sha256": "5c7d2e5b201ebf54c3616a567bfb8b03f99f80a8bb20a0bb8a61c5b8088bca64",
+      "BASE_range": [
+        115,
+        165
+      ],
+      "BASE_slots": 51,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN05_C4_175_265_FIRST_DELIVERY_01.txt",
+      "bytes": 12095,
+      "sha256": "63658526cc7b8a0dd4be1a1acb4b26ce96a6fe036377085fc8c8da82405aadc8",
+      "actual_complete_delivery_chunk": "a1a9d4",
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-014.xhtml",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "member_sha256": "62a0d3c64b2c9c6b5213017d5bf2c080ac4e85d11199319f8c02836099b7f3b3",
+      "BASE_range": [
+        175,
+        265
+      ],
+      "BASE_slots": 91,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN05_C4_475_550_FIRST_DELIVERY_01.txt",
+      "bytes": 9076,
+      "sha256": "131ad0ed8c80a05b9c25fec658d54a7df7bfe5536fc254b3d39145e79c4a5f13",
+      "actual_complete_delivery_chunk": "bf2b17",
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-014.xhtml",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "member_sha256": "62a0d3c64b2c9c6b5213017d5bf2c080ac4e85d11199319f8c02836099b7f3b3",
+      "BASE_range": [
+        475,
+        550
+      ],
+      "BASE_slots": 76,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN05_C4_551_630_FIRST_DELIVERY_01.txt",
+      "bytes": 11513,
+      "sha256": "28d30e442ea9d78c7038a4296c4d09b1fbee72631c74c660f73f2f98a69663cf",
+      "actual_complete_delivery_chunk": "a78cbd",
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-014.xhtml",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "member_sha256": "62a0d3c64b2c9c6b5213017d5bf2c080ac4e85d11199319f8c02836099b7f3b3",
+      "BASE_range": [
+        551,
+        630
+      ],
+      "BASE_slots": 80,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN05_C4CONT_001_042_FIRST_DELIVERY_01.txt",
+      "bytes": 3962,
+      "sha256": "610c4c98939c20cebbda79fab79839deb45fb49ff4e0d0de0587ef43f544aff5",
+      "actual_complete_delivery_chunk": "bbbe2a",
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-017.xhtml",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "member_sha256": "327b976851ac310608e21501ccb8bf3455fe8c031cc3960ee4b9430393a6ef06",
+      "BASE_range": [
+        1,
+        42
+      ],
+      "BASE_slots": 42,
+      "member_BASE_complete_this_window": true
+    },
+    {
+      "file": "C25_MAIN05_C5_001_114_FIRST_DELIVERY_01.txt",
+      "bytes": 12682,
+      "sha256": "05b3a85bd70f4eff08c8fc3dc33e0c07f8eddc39ffbac0ece5089a0d1ef4c594",
+      "actual_complete_delivery_chunk": "24de79",
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-018.xhtml",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "member_sha256": "5c7d2e5b201ebf54c3616a567bfb8b03f99f80a8bb20a0bb8a61c5b8088bca64",
+      "BASE_range": [
+        1,
+        114
+      ],
+      "BASE_slots": 114,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN14_C4_320_390_FIRST_DELIVERY_01.txt",
+      "bytes": 7772,
+      "sha256": "eb2bb9341122ab12d5e3a24e41c2e9d3459b2b2d7ed674bc897de5adb4afcbdd",
+      "actual_complete_delivery_chunk": "73113f",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319",
+      "BASE_range": [
+        320,
+        390
+      ],
+      "BASE_slots": 71,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN05_C5_166_270_FIRST_DELIVERY_01.txt",
+      "bytes": 12024,
+      "sha256": "060cdc0b9e25479a1c4e37cde78c5480ca55565d93ee8ec32c10a74f45917bf9",
+      "actual_complete_delivery_chunk": "441a55",
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-018.xhtml",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "member_sha256": "5c7d2e5b201ebf54c3616a567bfb8b03f99f80a8bb20a0bb8a61c5b8088bca64",
+      "BASE_range": [
+        166,
+        270
+      ],
+      "BASE_slots": 105,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN14_C4_391_465_FIRST_DELIVERY_01.txt",
+      "bytes": 8879,
+      "sha256": "fec93fb75762daebcf9d421aca0f829e15f2ab84b73f644813998d627867d2dd",
+      "actual_complete_delivery_chunk": "61afef",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319",
+      "BASE_range": [
+        391,
+        465
+      ],
+      "BASE_slots": 75,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN14_C4_466_520_FIRST_DELIVERY_01.txt",
+      "bytes": 7684,
+      "sha256": "6027cb525028140181335a56ba8472968186f8aed727a00339a7d8e7104c28c7",
+      "actual_complete_delivery_chunk": "f15205",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319",
+      "BASE_range": [
+        466,
+        520
+      ],
+      "BASE_slots": 55,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN14_C4_290_319_FIRST_DELIVERY_01.txt",
+      "bytes": 3061,
+      "sha256": "85024a18e951d14b99a752e35c0a0ab099356a10ba7bb458d806ca47c2fc966d",
+      "actual_complete_delivery_chunk": "71871d",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319",
+      "BASE_range": [
+        290,
+        319
+      ],
+      "BASE_slots": 30,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN05_C5_390_455_FIRST_DELIVERY_01.txt",
+      "bytes": 7197,
+      "sha256": "05952ad125c5052543fce913ccaf7ac8e53d00b452f16c89538244a238c78cf7",
+      "actual_complete_delivery_chunk": "28c403",
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-018.xhtml",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "member_sha256": "5c7d2e5b201ebf54c3616a567bfb8b03f99f80a8bb20a0bb8a61c5b8088bca64",
+      "BASE_range": [
+        390,
+        455
+      ],
+      "BASE_slots": 66,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN05_C5_456_520_FIRST_DELIVERY_01.txt",
+      "bytes": 7116,
+      "sha256": "32d8bb42c9aecb4b0afa5dd454ce2b7d458017285ae225e02fa3cfe399369e6a",
+      "actual_complete_delivery_chunk": "77cc52",
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-018.xhtml",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "member_sha256": "5c7d2e5b201ebf54c3616a567bfb8b03f99f80a8bb20a0bb8a61c5b8088bca64",
+      "BASE_range": [
+        456,
+        520
+      ],
+      "BASE_slots": 65,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN05_C5_521_610_FIRST_DELIVERY_01.txt",
+      "bytes": 10282,
+      "sha256": "f24941cafb4de041deb267096c6ceeacbc20299d0e72b17d729d3760559ef9b0",
+      "actual_complete_delivery_chunk": "e9d2f1",
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-018.xhtml",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "member_sha256": "5c7d2e5b201ebf54c3616a567bfb8b03f99f80a8bb20a0bb8a61c5b8088bca64",
+      "BASE_range": [
+        521,
+        610
+      ],
+      "BASE_slots": 90,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN05_C5_611_710_FIRST_DELIVERY_01.txt",
+      "bytes": 10029,
+      "sha256": "398c1c44c017d44977709c6cbb10008b7fc1c7e8be464074b940b99f601acce7",
+      "actual_complete_delivery_chunk": "eacdde",
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-018.xhtml",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "member_sha256": "5c7d2e5b201ebf54c3616a567bfb8b03f99f80a8bb20a0bb8a61c5b8088bca64",
+      "BASE_range": [
+        611,
+        710
+      ],
+      "BASE_slots": 100,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN14_C4_640_681_FIRST_DELIVERY_01.txt",
+      "bytes": 5359,
+      "sha256": "308ead7d0ffb46bd6d7f56a0618d784a760f398c18f6a00577be59ce2ade6fd4",
+      "actual_complete_delivery_chunk": "be98f4",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319",
+      "BASE_range": [
+        640,
+        681
+      ],
+      "BASE_slots": 42,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN14_F_001_040_FIRST_DELIVERY_01.txt",
+      "bytes": 4531,
+      "sha256": "ff3c159229a7c115bcf1fcfb6e66ac0bd041a69a08c4adbd013c3703af1b81b3",
+      "actual_complete_delivery_chunk": "df84f3",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0015.xhtml",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "member_sha256": "4712c5ed58591907fcc73823ac98f75d8a5536d53c8305ebc4ba3b09d75bc5dc",
+      "BASE_range": [
+        1,
+        40
+      ],
+      "BASE_slots": 40,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN03_P007_225_260_FIRST_DELIVERY_01.txt",
+      "bytes": 5916,
+      "sha256": "4e190ded7a1ea19d0d5b09a76f85f7107680cce591fb2f19cc1497e2c6fa5098",
+      "actual_complete_delivery_chunk": "bf2bc2",
+      "source": "MAIN-03",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+      "member_sha256": "e95a01a476aba149445390b976c0387177a0528c4b0e167bfa466efa7fd1592d",
+      "BASE_range": [
+        225,
+        260
+      ],
+      "BASE_slots": 36,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN13_C1_130_158_FIRST_DELIVERY_01.txt",
+      "bytes": 4740,
+      "sha256": "9d4ddba292dc5449f43573b24bdf6652c30845063e311e8eb39d823db5f12575",
+      "actual_complete_delivery_chunk": "4325b5",
+      "source": "MAIN-13",
+      "member": "text/part0010.html",
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "member_sha256": "31b9d68d2e16635d2c30f3959c888924c8b1e5f5114b7985c32cd6feb30bd2b9",
+      "BASE_range": [
+        130,
+        158
+      ],
+      "BASE_slots": 29,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MASK_U021_505_540_FIRST_DELIVERY_01.txt",
+      "bytes": 4953,
+      "sha256": "89479b4266cd8322897164ba8ee73bb5670ed1d1400cc7ef253b208654d48f84",
+      "actual_complete_delivery_chunk": "aca102",
+      "source": "MASK",
+      "member": "text/part0019.html",
+      "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+      "member_sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+      "BASE_range": [
+        505,
+        540
+      ],
+      "BASE_slots": 36,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_DUST05_U010_225_255_FIRST_DELIVERY_01.txt",
+      "bytes": 4184,
+      "sha256": "e7a8e0cc2b03f5bf4254e32db6988c8e2bc816ac90dae774564b50baa1996f62",
+      "actual_complete_delivery_chunk": "c76b73",
+      "source": "DUST-05",
+      "member": "item/xhtml/p-002.xhtml",
+      "native_sha256": "bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc",
+      "member_sha256": "58e011cc5bf1cfa62c029c94524c948c18b5681d293d9d9880ce14e79962b5f3",
+      "BASE_range": [
+        225,
+        255
+      ],
+      "BASE_slots": 31,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN15_P0013_455_510_FIRST_DELIVERY_01.txt",
+      "bytes": 7469,
+      "sha256": "d2b61a9fab35438a31e2c319270402e7d98a2ac5e648706f48fcab00d124a9a0",
+      "actual_complete_delivery_chunk": "2fabd2",
+      "source": "MAIN-15",
+      "member": "OEBPS/Text/part0013.xhtml",
+      "native_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+      "member_sha256": "4afb3b30d1e3b61fcc63dd4f9b75ccdc86dc588a360466eb826f33e4a020f3bd",
+      "BASE_range": [
+        455,
+        510
+      ],
+      "BASE_slots": 56,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN17_P0011_130_170_FIRST_DELIVERY_01.txt",
+      "bytes": 5256,
+      "sha256": "9236c737cdf7d2178e023b6ce807c0dee64e3d0caf2491b60a53e2444b5a30c7",
+      "actual_complete_delivery_chunk": "9cd0aa",
+      "source": "MAIN-17",
+      "member": "text/part0011.html",
+      "native_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+      "member_sha256": "bc9d7f4f238f0c0d8512bb29dc071d3f24ddcf7bb0c6e9cf7891ea66ad8e310e",
+      "BASE_range": [
+        130,
+        170
+      ],
+      "BASE_slots": 41,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_MAIN15_P0012_025_065_FIRST_DELIVERY_01.txt",
+      "bytes": 4604,
+      "sha256": "866d212f3dd2988a9c62fd51b40d5c60995e2973bf76ce30745d4858be63ef39",
+      "actual_complete_delivery_chunk": "ed3578",
+      "source": "MAIN-15",
+      "member": "OEBPS/Text/part0012.xhtml",
+      "native_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+      "member_sha256": "4c35da64df6cd332693ab880b1a3721e5604915104fe55062eff0aaa0f5d6b2c",
+      "BASE_range": [
+        25,
+        65
+      ],
+      "BASE_slots": 41,
+      "member_BASE_complete_this_window": false
+    },
+    {
+      "file": "C25_EXP01_U043_505_530_FIRST_DELIVERY_01.txt",
+      "bytes": 2780,
+      "sha256": "b7281078d7039ef9cdd42cec93821bf770696de27033ca2012ea6fe9fc57bafd",
+      "actual_complete_delivery_chunk": "251571",
+      "source": "EXP-01",
+      "member": "item/xhtml/p-033.xhtml",
+      "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "member_sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+      "BASE_range": [
+        505,
+        530
+      ],
+      "BASE_slots": 26,
+      "member_BASE_complete_this_window": false
+    }
+  ],
+  "member_union": [
+    {
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-011.xhtml",
+      "unique_BASE_slots": 51
+    },
+    {
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0010.xhtml",
+      "unique_BASE_slots": 114
+    },
+    {
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "unique_BASE_slots": 358
+    },
+    {
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "unique_BASE_slots": 141
+    },
+    {
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0013.xhtml",
+      "unique_BASE_slots": 85
+    },
+    {
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0012.xhtml",
+      "unique_BASE_slots": 71
+    },
+    {
+      "source": "EXP-01",
+      "member": "item/xhtml/p-027.xhtml",
+      "unique_BASE_slots": 86
+    },
+    {
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-018.xhtml",
+      "unique_BASE_slots": 591
+    },
+    {
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-014.xhtml",
+      "unique_BASE_slots": 247
+    },
+    {
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-017.xhtml",
+      "unique_BASE_slots": 42
+    },
+    {
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0015.xhtml",
+      "unique_BASE_slots": 40
+    },
+    {
+      "source": "MAIN-03",
+      "member": "item/xhtml/p-007.xhtml",
+      "unique_BASE_slots": 36
+    },
+    {
+      "source": "MAIN-13",
+      "member": "text/part0010.html",
+      "unique_BASE_slots": 29
+    },
+    {
+      "source": "MASK",
+      "member": "text/part0019.html",
+      "unique_BASE_slots": 36
+    },
+    {
+      "source": "DUST-05",
+      "member": "item/xhtml/p-002.xhtml",
+      "unique_BASE_slots": 31
+    },
+    {
+      "source": "MAIN-15",
+      "member": "OEBPS/Text/part0013.xhtml",
+      "unique_BASE_slots": 56
+    },
+    {
+      "source": "MAIN-17",
+      "member": "text/part0011.html",
+      "unique_BASE_slots": 41
+    },
+    {
+      "source": "MAIN-15",
+      "member": "OEBPS/Text/part0012.xhtml",
+      "unique_BASE_slots": 41
+    },
+    {
+      "source": "EXP-01",
+      "member": "item/xhtml/p-033.xhtml",
+      "unique_BASE_slots": 26
+    }
+  ],
+  "source_access_and_actor_qualifications": [
+    "MAIN05C3P71 explicitly binds the present chief and Yunyun father. P72 owns the stylized letter account; P75-78 daughter challenge and paternal letter convention/base-tourism explanation are distinct. P79-82 is Kazuma request/daughter assent and father aghast reaction,not an actual punch. P84 acknowledges a magic-resistant incoming general without a quantitative capability proof.",
+    "MAIN14C1P18-46 is Yunyun/party reports of trials,unpopular responsibility and advanced-magic eligibility,not chief directly administering a witnessed test. C2P436-440 are villagers proposals to consult chief/collective hunt and reported alternate succession condition,not actual chief cancellation/replacement. Tool descriptions anticipated direct instructions too broadly; actual received text governs.",
+    "MAIN14C3P287-303 gives Megumin survival-test/secret-danger account and caring versus jealous motives. C3P326-333 self-defense-group arrests are Bukkorori and others,not chief orders. C1P380-418 is Aigis/Nerimaki lodging/payment conduct,no direct chief appearance. No source-actor reassignment.",
+    "MAIN14I13 complete85-slot BASE member is Yunyun own viewpoint. Childhood praise/assumed destiny and revised goal belong to her experience,not father inner motive. Aigis free preference competes with assigned mission; proposed teleport cheat is refused. Yunyun attempts Inferno but armor prevents magic/skills; no successful fire cast. Her dagger is treasured first friend-shopping memento and she hesitates to use it. This qualifies earlier Yunyun/blacksmith findings; no independent validation trial.",
+    "MAIN14C4P6-20 narrates return/exhaustion and next-chief qualification celebration,not present-office transfer. P54 daughter expressly says next chief and father seems lonely (daughter attribution). P61 explicitly identifies father as current chief; P62-75 real offended speech,LightningStrike launch/reflection and punch followed by painful crouch are distinct from Aigis sexualized provocation and claims. Targeted material deflection/physical failure does not prove universal chief incapacity/global armor immunity or daughter consent to the insinuation.",
+    "MAIN05C5P118-148 shows burning-village evacuation and chief sober abandonment/rebuilding statement P132-133. No human losses at that narrated point is bounded narrator statement,not all harm erased. Kazuma self-exculpatory unlock account and assumption Sylvia unable to operate weapon remain his. Megumin historical restoration/chief decoding-limit report do not prove current chief caused ancestral storage. Chief prioritizing survival is material contrary to a display-only stereotype.",
+    "EXP01U037P311/331-332/370 supplies Megumin/Yunyun succession/identity discourse,not chief own appearance or omniscient immutable constitutional rule. Yunyun wants travel/experience before succession; animal capture/second bout/food discourse belong to peers. Do not turn every chief compound/prestige mention into his personal action.",
+    "MAIN05C4P189/192 are subordinates warning/circumvention proposals,not Sylvia own plan. P203-237 she steps forward apparently shielding troops,misreads Darkness misses as deliberate concealment,uses missing Arcanretia communications to support Kazuma boast,inquires leader name,joins a sword/name to Mitsurugi identity,and requests then actually initiates retreat. Pursuers reject Kazuma conditional amnesty. No proof she personally knows every reported defeat.",
+    "MAIN05C4P480-550: wounded return and claimed subordinate diversion; guard remains on supposed magic sword. A momentary apology under Kazuma anger does not become stable submission; she recovers and threatens. Direct catch of weapon/ordinary sword quality and skill plus Megumin naming remark corrects her identity inference. She says she likes Kazuma self-preserving alias motive,then forcibly binds/takes him as a hostage. Positive attraction/grievance behavior does not grant free permission or remove threat.",
+    "MAIN05C4P571-585: actual SacredExorcism reaches Sylvia,damages her dress and elicits pain; pure-demon denial and manufactured demon-hide clothing are her statements. She is not immune and no fatal hit is claimed. She briefly releases and changes the binding position,then renews restraint; Kazuma breathing-accommodation inference is attributed. GrowChimera/director title and repeated self-modification are self-introduction,not an independently watched complete development career.",
+    "MAIN05C4P600-630 and p017P1-42: she refuses substitute hostage,suggests recruitment and mild restraint toward Darkness while still holding Kazuma. His opportunistic abuse of companions is his act,not her ethical endorsement of every detail. Chimera bodily self-description is retained neutrally; do not impose a human identity label,diagnosis or causal explanation for villainy. Kazuma revulsion,earring-cultural association and narrative stereotypes are his perspective,not established empirical cultural facts. Voice/innuendo/register and captivity can be analyzed without graphic reproduction.",
+    "MAIN05C5P10-55: offers release in return for earlier leniency,then uses newly noticed code-reading access to renew control. Prepared barrier device fails because the lock is not magical. She registers failure/information gap and recruits access through pressure; Kazuma opens before the threatened method is carried out. Her need for light/limited full-dark vision is own report. He pushes her into hangar; later bodily assimilation supplies an alternative to ordinary weapon operation. Kazuma/group assumption she cannot operate the weapon does not establish her inability to incorporate it.",
+    "MAIN05C5P118-270: real burning/evacuation; Sylvia slow new body improves later P250-252,so not a fixed mobility ceiling. Direct failed village magic does not prove immunity to every spell. Sadistic retaliation/extermination speech and generic tactical adaptation are distinct; Soketto/Bukkorori stage apparent last stand,then actual Teleport defeats it. Those two are not proved lovers. Her subsequent refusal to hear another performed speech is a local adjustment,not no capacity to learn.",
+    "MAIN05C5P390-520: Yunyun own card shows no Teleport; apparent vulnerability and rock position draw approach,but hidden allies provide actual escape. Own skill/readiness/access are distinct from party access. Sylvia recognizes hidden help too late and asks to wait. P413/456/469 identify Yunyun as chief daughter; they are not present chief own action. Teacher credit P472 is unnamed native voice,not automatic chief attribution.",
+    "MAIN05C5P521-710: gun fails repeatedly before charge; holy casts absorption is real and cause/threshold is Kazuma later inference. Sylvia prioritizes apparent counterweapon despite other distractions; threats encompass clan and associates. Her response to Megumin warning is conditioned by earlier staged bluffs. Real chanting/villager flight changes threat appraisal; she braces,then real Explosion is absorbed by gun rather than directly hitting her. Hostile rough speech after relief is register shift,not proof gender/identity causes cruelty. Kazuma aims,Komekko pulls trigger P686. Sylvia raises tail shield but is penetrated; death explicit P703. No anime-only resurrection/combined-generals finale imported. Village later restoration does not undo threat/coercion/property harm.",
+    "MAIN14C4P320-484: mechanical body/mobility and visible damage closing are observed; automatic-repair functionality and Japanese creator/protective-purpose are Kazuma inferences. It bypasses his attempted concealment,pauses an attack at Crimson clothing then uses other physical attacks,so the object shield is not universal safety. Small withdrawal after vomit is observed; acid explanation is narrator speculation. It states cheat-harem-type Japanese target classification and waits for Crimson subject separation before explosion. Classification can be mistaken; it does not prove Kazuma has cheat or maker motive.",
+    "Moguninnin P455-484: repeated Steal yields both Megumin clothing and a component; machine remains mobile but limps,so not guaranteed single theft shutdown. It states exceptional magic detection,project-success judgement and proposed final transmission to Noise headquarters. No received reply/successfully delivered message/complete architecture or living creator proved. Megumin actual Explosion is launched and narrator marks destruction; C4P678 kill-card displayed claim and FinalP20-22 guild recognition are separate institutional traces of same event,not independent new battle observations.",
+    "MAIN14C4P649 daughter reports announcing new goal/return choice to father and village. No father answer,consultation agreement,retirement or office handover is shown. Earlier direct current-chief identification P61 and next-chief daughter qualification remain current boundaries.",
+    "MAIN03P007P232-250 explicitly binds Yunyun future-chief identity/daughter report and resistance to family-only status. These are Yunyun/Megumin statements,not chief imposing succession or disownment. MAIN13C1P130-147 institutional letter summons applicants and daughter gives advanced-magic plus Teleport eligibility; author not personally identified as father. Early hereditary expectation and later open trial/institutional evidence remain attributed,not a silently harmonized immutable constitution.",
+    "MASKU021P505-540 is Vanir perspective with oni courier reports about a separate earlier castle invasion. Sylvia resisted ordinary magic but was incapacitated after contact/drain as courier reports; no direct witnessed full fight in this window and no global magic immunity. This is an earlier encounter,not resurrection after MAIN05 death or main-party battle repetition. The courier personally panics,answers operational questions,offers to go first and actually walks ahead P526-527; name and other-oni joins remain unknown. This is a newly noticed bounded role with an individual profile decision due. Beldia plea is heard and magic heard,not a full viewed performance.",
+    "DUST05U010P225-255 gives Yunyun own two-person trial/need-for-front-line request in Dust narration and his refusal while wealthy. No actual chief appearance,father command or marriage invitation; Yunyun expressly denies Dust framing and asserts choice. Other-narrator context is not an independent duplicate of a chief decision.",
+    "MAIN15P0013P464-510 contains village mobilization letter,first-team Yunyun/reserve Megumin listing and her destruction of the letter. No named chief author,actual father reprimand or watched consequence. Next-chief title persists. Yunyun duties versus wish to protect Axel and reported urgency remain distinct; Megumin excuse proposals are proposals,not proof excuses delivered/accepted.",
+    "MAIN17P0011P130-170 still explicitly calls Yunyun next chief. Kazuma hears Inferno/reactions from outside door and infers manatite use from dialogue; not an unobstructed full battle view. No current father on-scene or shown retirement/transfer.",
+    "MAIN15P0012P44-49 is a later Kazuma diary report that Serena earlier attempted to puppet the same previously defeated Moguninnin,failed complete control due to strength,and left it rampaging. It adds an attributed external-interference rival to a factory-original programmed-target-only account. No actual watched original control procedure,source code,universal immunity to puppetry or return from destruction. Kazuma retaliatory blow and reflected injury are diary actions/claims; do not use cruelty as independent verification of the report.",
+    "EXP01U043P516-525 refers to unconscious chief daughter at earlier incident and teacher questioning/scolding/graduation. No current chief own response or automatic identity of the generic adults/teacher as her father.",
+    "Proportional working direction after these windows: Sylvia dense multiphase encounter plus attributed earlier defeat supports substantive Tier2 interpretation; distinctive Tier3 generator remains unearned because generic strategic villain,self-serving reciprocity,affect and tactical rivals are strong and unseparated. Chief has direct letter/reception,crisis-retreat and provoked family response,but much wider material concerns daughter/institution rather than his agency; a consolidated Tier1 profile can currently carry the supported responsibility without pretending a broad monograph/model. Moguninnin has a rich bounded functional encounter but inner goals/original architecture/interference remain underidentified; consolidate Tier1 functional profile,not a human personality or quota model. The MASK courier can earn a compact Tier1 role profile from actual operational reporting/escort choices; no dedicated monograph or trait generalization. Final scope/name checks remain due before freezing artifacts."
+  ],
+  "metadata_retrieval_sha256": "83493af0fdb4e8dce65a7392e1da1c6d76c9ed5e283dfc7551a45c79f17e2f7c",
+  "metadata_only_retrieval_objects": 41,
+  "retrieval_is_neither_appearance_absence_identity_nor_reading_credit": true,
+  "reviewed_interpretation_pins": [
+    {
+      "private_file": "SYLVIA_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_SYLVIA_CHARACTER_MONOGRAPH.md",
+      "bytes": 13731,
+      "sha256": "51a0757089d1cec10e9a735063ae6fb9418f286ef130a340e392b988a73886bd"
+    },
+    {
+      "private_file": "CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX_DRAFT_01.md",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md",
+      "bytes": 13947,
+      "sha256": "82b6314b4587017e3501003169eebadc39be3e4be25fabc57dcb7f9103322138"
+    }
+  ],
+  "compact_profile_fragment": {
+    "private_file": "COHORT25_COMPACT_PROFILES_COVERAGE_APPEND_DRAFT_01.md",
+    "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_COVERAGE_AUDIT.md",
+    "bytes": 8510,
+    "sha256": "e98db5aac8736c67c934b9afaa3a2f81df57134123d0b0fcc1c0a30e20fbfcf2"
+  },
+  "current_published_owning_control_pins": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 10152,
+      "sha256": "7d3733bbddcb9e2d93d137260593cb115b393f6034e1a66c3dce968295b76e74"
+    },
+    {
+      "path": "governance/AUTHORITY_STATE.yaml",
+      "bytes": 4099,
+      "sha256": "3e0cd0e8a16f42ca72141f749761e02970b164c9023e88fac7465867a8668146"
+    },
+    {
+      "path": "governance/AUTHORITY_SCOPE.json",
+      "bytes": 3696,
+      "sha256": "008b7b2adf114c1f39dd86fae064344457dab5b9e45486623fc9237fb6ed0916"
+    },
+    {
+      "path": "governance/CHATGPT_AUTHORITY_AND_ROUTING.md",
+      "bytes": 35566,
+      "sha256": "bd5449fc0297bdc72582757bf5421d9fceb1e5d4eb8ecf0db09dbc99b4849322"
+    },
+    {
+      "path": "governance/policies/CHANGE_INTEGRATION_CHECKLIST.md",
+      "bytes": 33751,
+      "sha256": "45ba48dd89c19576c454c1795b143111ec7f61e9ead441eb29f0657fd670edde"
+    },
+    {
+      "path": "governance/policies/BRANCH_LIFECYCLE.md",
+      "bytes": 6957,
+      "sha256": "1772d585710171bd94d5e3aacfe4ae6a6777f7812ce63308e855c9dc26e9623d"
+    },
+    {
+      "path": "governance/policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md",
+      "bytes": 10235,
+      "sha256": "d7739ec75e10b6754b116936aa3a30699d360079d2ad52c69fdb0d721e10cb6d"
+    },
+    {
+      "path": "governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md",
+      "bytes": 31488,
+      "sha256": "0649539ee9a74255d864eee8bc0aef8809aae7aa52e0ab6282f34c6885e3e87a"
+    },
+    {
+      "path": "governance/policies/REPOSITORY_CONTROLS.md",
+      "bytes": 12761,
+      "sha256": "cd60aa8c19edf3dc9590929ba49ef4ec24c67fd548e888a7e445dadc3286eb13"
+    },
+    {
+      "path": "governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md",
+      "bytes": 7408,
+      "sha256": "2ae79abdb32a2f6e37256e961af3802e4fc8b74a64fc9b8eb5b42f299d357fe8"
+    },
+    {
+      "path": "governance/repository-controls/change-obligations.json",
+      "bytes": 2788,
+      "sha256": "7f59db4d799825eab4d81cffc7dc36275f883281647569a3b522a588c5834722"
+    },
+    {
+      "path": "series/registry.json",
+      "bytes": 36137,
+      "sha256": "93e9c9e8ef3f35745c818530d7f48f159f3897fba74bec69719ba7714d2b0da4"
+    }
+  ],
+  "additional_published_policy_pins": [
+    {
+      "path": "governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md",
+      "bytes": 62162,
+      "sha256": "76a00657ae970854275fc7511990839655dd9c50d478097f3fa7404b016787cc",
+      "complete_policy_diff_actual_chunk": "1b0d30",
+      "application": "Optional completed-run proof route adds no admission or closure here. This retrospective cohort preserves reading bytes and existing operational metadata."
+    },
+    {
+      "path": ".github/workflows/repository-audit.yml",
+      "bytes": 9532,
+      "sha256": "faf5bbbaf126c6321ab28a20bea86ac936001aab6a856e0ef3b6cc099add114b"
+    },
+    {
+      "path": "characters/README.md",
+      "bytes": 15674,
+      "sha256": "c50a8b0cde3b968e407b6a5f5bca6fb9d531c08f74f142a813cd2b69c9da0851"
+    },
+    {
+      "path": "governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md",
+      "bytes": 11916,
+      "sha256": "9717136b01ccf17949d433f5ec8079146c0fbd7da9c79ec227ffb1d36fb51a93"
+    },
+    {
+      "path": "governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md",
+      "bytes": 21524,
+      "sha256": "df8c98d0c8916e9d4e111abd7c5a608961b8025245bbe306c1b0f25fbfba4205"
+    }
+  ],
+  "current33_model_pin_basis_sha256": "9c8f064d0e4d6c7acb20d72b40103aacf4d27a81277b1ca383591424d52c30ed",
+  "all35_delivery_windows_are_known_retrospective_not_independent_trials": true,
+  "complete_BASE_members_here": [
+    "MAIN05 item/xhtml/p-017.xhtml",
+    "MAIN14 OEBPS/Text/part0013.xhtml"
+  ],
+  "actual_new_image_views": 0,
+  "new_whole_source_ruby_residual_image_set_admission_or_independent_validation_credit": 0,
+  "new_model_rules": 0,
+  "new_inputs": 0,
+  "new_first_bodies": 0,
+  "new_pairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "unrelated_scratch80_and_earlier_cores_firsts_scores_missingness_preservation_required": true,
+  "global_character_registry_and_evaluation_outputs_not_authored": true,
+  "full_program_complete": false
+}

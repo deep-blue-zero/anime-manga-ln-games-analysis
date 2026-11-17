@@ -1,0 +1,202 @@
+{
+  "schema": "HIMARI_CURRENT_EXACT8_ORIGINAL_CUSTODY_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1",
+  "author": "/root/publishing_shared7_review",
+  "role": "HIMARI_BODY_AND_NEW105_AUTHOR_NOT_INDEPENDENT_COMPONENT_REVIEWER",
+  "exact_current_first7": [
+    {
+      "C_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIMARI_BOUNDED_CHARACTER_MONOGRAPH.md",
+      "bytes": 42423,
+      "sha256": "a0c731f6fcb41aeec41ffba74b42ca37fce6cc9921d360d1bab2d759b64a297e",
+      "git_blob_oid_of_actual_bytes": "6a449a5f5fba99307b72197ae0d89daec03e9173"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIMARI_BOUNDED_RECEIVING_20261015_V1/HIMARI_ALL105_NEW_PURPOSES_HIP000_HIP035_V1.json",
+      "bytes": 426813,
+      "sha256": "08d8e2e9b930eab6f40941757626dfce86b2f3e0285c79e3775689fb6be6e7e1",
+      "git_blob_oid_of_actual_bytes": "b733f077f0a6628922598461386d525407798c4f"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIMARI_BOUNDED_RECEIVING_20261015_V1/HIMARI_ALL105_NEW_PURPOSES_HIP036_HIP070_V1.json",
+      "bytes": 554649,
+      "sha256": "6011dead288cf6ec67600644d236dc9abb05b29df022eb0f48ef70334075462a",
+      "git_blob_oid_of_actual_bytes": "5a5212f35f1211204da56d065d3276aca562eff4"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIMARI_BOUNDED_RECEIVING_20261015_V1/HIMARI_ALL105_NEW_PURPOSES_HIP071_HIP104_V1.json",
+      "bytes": 750174,
+      "sha256": "d28b1f0b06e43b65760b0a0fd3a0400b30de47561980b112b2cc791d0a817623",
+      "git_blob_oid_of_actual_bytes": "9059185b4ce754fa7814f163348a7bf71f6519e6"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIMARI_BOUNDED_RECEIVING_20261015_V1/HIMARI_SOURCE16_COMPLETE12_QUESTIONS_CURRENT_QUALIFIERS_AND_ACTUAL_GRADE_RECEIVING_V1.json",
+      "bytes": 44319,
+      "sha256": "a229b3882e4b79a1946f49c3c3ca4c6bbd9832d69c362f14d0cc7130de60ff51",
+      "git_blob_oid_of_actual_bytes": "b55253f535aa3f7c693e4bfdca57bd37b65dfff6"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIMARI_BOUNDED_RECEIVING_20261015_V1/HIMARI_CURRENT243_COMPLETE_LITERAL65_SOURCE_QUESTION_PURPOSE_RIVAL_END_GAP_REGISTER_V1.json",
+      "bytes": 968031,
+      "sha256": "22dea76904938d155e86741b2ea5778e02b42e10650edac9fcec548f391007dd",
+      "git_blob_oid_of_actual_bytes": "3ad746de4e79abd8a1186eadd4457a258ff55be6"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIMARI_BOUNDED_RECEIVING_20261015_V1/HIMARI_ALL105_NEW_PURPOSE_EXACT_PART_AND_BODY_RELATION_INDEX_V1.json",
+      "bytes": 308708,
+      "sha256": "709e4d78ed2812d0cac08bcd8db46126408319ed57960847fbeb3db1f32da364",
+      "git_blob_oid_of_actual_bytes": "3d4312914f28543b7a867e1888ebf28aafbe125f"
+    }
+  ],
+  "exact8_self_tuple_rule": "External author entry binds this transport eighth; transport contains no self hash.",
+  "complete_original20_raw_input_custody_manifest": {
+    "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_69acf23e1b28809e13fc8456b30aa1a7c40141f62076f99d73b57f1a86fe3659",
+    "bytes": 18068,
+    "sha256": "e9354b5251dde7847b30877f6e3bcca906dc7939c34a6f6e0b980909dcbff179",
+    "git_blob_oid_of_actual_bytes": "91856c5b79eeec382b65125001ea922d45063a48"
+  },
+  "current14_original_whole_raw_recovery_proofs": [
+    {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_a34239798e2613a7a44f02d8d1da67783f051825c3a8d33e157433c02f619c25",
+      "bytes": 15297,
+      "sha256": "766aeed8da6357fd4b620f43305f813b913d3cfe6736d5e3d9f94108bde41219",
+      "git_blob_oid_of_actual_bytes": "8f475043fcbd069aae8c437b2b36bfb5ec44eaed"
+    },
+    {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_a7fb6f254f7ac7abd41d409f3faa0acc3266de937f63de002a234c5fbf85c2cc",
+      "bytes": 15317,
+      "sha256": "f29a25b6a00a49b396a4ab8c98197fe42a87f509e10aa12143a9327f8909b098",
+      "git_blob_oid_of_actual_bytes": "b44b06f223cbe6dc0b0be5ac0913b1f2cc21d826"
+    },
+    {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_6d1fcf71072dd24a3994d993b636bb07c04141b83f57f122747598f0f4536905",
+      "bytes": 15317,
+      "sha256": "f1c21f8d95879dd22b77eb4bd715f25d333ecce3c71ca66499b68d5654cd91c3",
+      "git_blob_oid_of_actual_bytes": "f906d3f6134eb9e1dcebc7fbef979dc2e214b62b"
+    },
+    {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_3284155ca8047ae4ba05c55b83151c4d5203c5878d531667bd8bc5ae2896e25b",
+      "bytes": 15309,
+      "sha256": "e3f914b7e30689eda24aa6568f1a55e77bb2617b0e34ea3674ddc4d0e4921f78",
+      "git_blob_oid_of_actual_bytes": "cfb993fd45f5a6e0cb56f720f757a84eea7e628c"
+    },
+    {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_67d922a3941e4a22f9f191259ff0c5134a09c417c5b3c70a755d4f0ed6c44eb9",
+      "bytes": 15305,
+      "sha256": "e416c2b3576a053fd6bc6d4ac67c2fca8d195234bbf0c475a4e1880af43759a1",
+      "git_blob_oid_of_actual_bytes": "5e800a36824b10a3b4d14441e75773a26f1f337a"
+    },
+    {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_beaf0c4dced617d77e8bea5f0aee8bffbb3ec7c9e40fc885f442aa8d12aa73c6",
+      "bytes": 15317,
+      "sha256": "2d9b001ad6f973bf87adae6e23958153911b1d6ac47f5cd512159d701f654149",
+      "git_blob_oid_of_actual_bytes": "8e0d86ca72b8d39ddd68eb4fce8f2dcb6680fb79"
+    },
+    {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_52fffb56b3fc8f89a243249fc459a48fbb52a8ac5cd9581fd728e44c4d0e00dc",
+      "bytes": 15319,
+      "sha256": "ae53e276cee27b7e221a6b624b8b18ed5ff03b153ebbf19f28c2981f61f4faa6",
+      "git_blob_oid_of_actual_bytes": "bfa619ceb96316ac11631c4eafaa26db66e3a304"
+    },
+    {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_880d964e2e58cd6784a5aa94ba432cf1e6dab8889e0cd99dca9459a5ecb8be61",
+      "bytes": 15301,
+      "sha256": "145137e8b60d16c8af51adea6771c13219a2caa587ac67f33dbb460e2f2d91b9",
+      "git_blob_oid_of_actual_bytes": "22e3023964b7f3dd4d7aeefc62e98a93a0583aa3"
+    },
+    {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_6a3a29e62060c33f750a4a73c7af281bb5fe9efe2eedaaf520646fdcc9998b11",
+      "bytes": 15317,
+      "sha256": "9b8373d597dbf425b9ae0309bd0967b7c51c7ff1f24f57fe51aafc5d0656e909",
+      "git_blob_oid_of_actual_bytes": "c376c5b8cc6a24c78b3b4e7017ff390099048881"
+    },
+    {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_4c1e58b34e3e42263ae47f111ef9fe6637d37f9b30325bc1943bf48e4d290380",
+      "bytes": 15319,
+      "sha256": "1608a8dc074aa52f4afb8c08b7536ece9e5ad244e08e04d89e0f393cbbbd36d8",
+      "git_blob_oid_of_actual_bytes": "130fcd313a2c3dff7fcef37b22a7c9ec6c13ab49"
+    },
+    {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_4b3b3c1dde016618641e7fb97110628e6774f0a39cda0ec8acaabfa6aed66a1c",
+      "bytes": 9036,
+      "sha256": "59d1d45bccaa56dd72b802e2c8a9d0a5f6736d9640f4ba503f98044651df10b5",
+      "git_blob_oid_of_actual_bytes": "8a43ff570ef47c0bce58cdf6a0102027335ec028"
+    },
+    {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_b6c66d642ae82ca5319ff0b410afb26a3c3419ab5cdf8dc77819b7c1702e8df7",
+      "bytes": 234846,
+      "sha256": "2f086ef340fd7032d2f06e998438537459c427609421b26fb0d9f76ce3087ea7",
+      "git_blob_oid_of_actual_bytes": "a4e6cfa2af7513759f403cd34ec7e67b21c1f130"
+    },
+    {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_cbf8431875c78d2c0f2f9734b9a896d1cced57314b2be04373cbb4059befcea0",
+      "bytes": 238794,
+      "sha256": "8de1b7d7bd0d45d0e0c180279d6783df60c2b8a9d9421bf8eefa4c0e0a311a71",
+      "git_blob_oid_of_actual_bytes": "ae3044149be697ad482046c0d86f53c6e01289f5"
+    },
+    {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_631b2a2563f3732b19d8fda5316a233d6d231fdbee720b6e5e60efecf1b16a21",
+      "bytes": 239375,
+      "sha256": "4e2b5cba78ddb1e853dea3530c97921f7fec0d9190038a63256d153c32151c67",
+      "git_blob_oid_of_actual_bytes": "d756513900025269397f122b93a4ea61fe215acc"
+    }
+  ],
+  "actual_body_QA_and_ROOT_body_only_permission": {
+    "HIMARI_COMPLETE_REVIEWED_BODY_SOURCE_MAP_V3.json": {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_d9021de0a48cf68991411a1a3e23257c7df8fdda550a8323360f264482e22936",
+      "bytes": 201198,
+      "sha256": "c02fecff22b49b22f85b78fdc76ae518d453f890933edd37d583bcd24cececb4",
+      "git_blob_oid_of_actual_bytes": "b53582e2a6266941cfa2053da019c5dada3847c1"
+    },
+    "ROOT_HIMARI_BODY_ONLY_ACTUAL_NEW105_PERMISSION_V1.json": {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_2204b0ca0d2120e054ed0768475270f9926eac7879618181a67c7eeb1be31736",
+      "bytes": 7989,
+      "sha256": "3556d4764980638c823c61307449cfc11ac7925ed6f7ba7ce0ae791571c06576",
+      "git_blob_oid_of_actual_bytes": "d26c01d3a2d2cdf3a1397da8fc460f16087db9e9"
+    },
+    "HIMARI_DISTINCT_BODY_ONLY_QA_ORIGINAL_FULL_MANUAL_V1.json": {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_4b68457922f81574d3aba63375fb11e76e179033c49da9937188287081041264",
+      "bytes": 247883,
+      "sha256": "ec21c21a77c13cdb131201a0806077e48aea941a2789dd65ea077cf6acdebe34",
+      "git_blob_oid_of_actual_bytes": "f245b5eb53ec7c80f04f7764b2b7833816a136f3"
+    }
+  },
+  "body_geometry": "243 physical lines/65 full literal paragraphs, unchangedV3 raw41255/07233d...; no public metadata composition.",
+  "original_custody_boundary": "Original11 whole wrappers and M0083 complete carriers recovered through their full original residual envelopes/key order/serializer; Minato3 outer metadata remains references, no extra outer promise or consumption.",
+  "current_qualifiers": "Narrow61767 onlyO025/071/073/075/079/087;59334 oldGSC16 coffee directions only; new094 reading access not authorship,087 agreement not fulfilled week,096 supplied food before bargaining/contract exists/final ratio unprinted,103 correct actor motives. Historical originals and grades remain literal.",
+  "author_saved_value_receiving": "PENDING_FULL_CURRENT105_525_AND65_JOIN_AND_UNIQUE_CONTROL_RECEIVING; immutable closure follows actual readback, not inferred from generation.",
+  "component_distinct_QA_ROOT_current8_byte_literary_adoption_publication": "PENDING_SEPARATE_ACTUAL_RECEIVING",
+  "fixed_home": {
+    "required_id": "P3-CHAR-HIMARI-CH0159",
+    "required_zero": 43,
+    "required_ordinal": 44,
+    "required_CSV_physical": 45,
+    "partition_pointer": "/homes/43",
+    "candidate_id": "P3-F052",
+    "responsibility_zero": 51,
+    "responsibility_CSV_physical": 53,
+    "family_key": "CH0159",
+    "literal_person_key": "BA_PERSON_CH0159",
+    "variants": [
+      "20020",
+      "20054"
+    ],
+    "display_name": "明星ヒマリ",
+    "selected_scope": {
+      "BOND": 8,
+      "wholeMM": 8,
+      "written": 4,
+      "total": 20
+    },
+    "inside_named_duty": null
+  },
+  "no_inside_named_or_separate_REL350_completion": true,
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "new_primary_native_raw_AV_normal105_identity_admission_count_runtime_merge_credit": 0,
+  "R_Git_provider_shared_protected39_private9_read_hash_or_write": 0,
+  "current_public_metadata_preparation_qualification_20261015": {
+    "scope": "Original first7 reviewed-author tuples, original243 body geometry text, author saved-value pending text and original custody/QA/ROOT snapshots remain dated creation/review basis. Current first7 typed routes here bind composed afterimages; this qualifier grants no composed-byte adoption, installation, count or runtime.",
+    "current_physical_lines": 251,
+    "current_literal_paragraphs": 65,
+    "preparation_date": "2026-10-15"
+  }
+}

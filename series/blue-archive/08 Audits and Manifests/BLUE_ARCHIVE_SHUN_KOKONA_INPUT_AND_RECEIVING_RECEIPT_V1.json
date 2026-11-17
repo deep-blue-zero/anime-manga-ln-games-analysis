@@ -1,0 +1,3138 @@
+{
+  "schema": "BLUE_ARCHIVE_SHUN_KOKONA_INPUT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_PERSISTENCE_PENDING_COMPLETE_ROOT_INSTALLATION",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHUN_KOKONA_RELATIONSHIP_SYNTHESIS.md",
+  "current_scope": "355required/29 mandatory non-denominator duties/25distinctparents/384homes unchanged",
+  "dated_current_source_beforeimage_witness": "afb38a20d3714cb0ed7d22013cd7dfc86ad3226b",
+  "dated_current_source_tree": "8564fbd3afb822096dec0984b5be597f39bddc9b",
+  "accepted_first_milestone_main_witness": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "fixed_preparation_snapshot": {
+    "accepted_package_sequence": [
+      109,
+      114
+    ],
+    "new_packages": 6,
+    "after_complete_ROOT_install": 114,
+    "characters": 94,
+    "directed_relationships": 10,
+    "ensembles": 4,
+    "institutions": 6,
+    "named_duties_after_complete_ROOT_install": 10,
+    "published_before_successor": 108,
+    "merged_main": 89,
+    "next_milestone": 178,
+    "later115plus": "EXCLUDED_FROM_FIXED_CANONICAL_PROPOSAL",
+    "automatic_chain_at_capture": "PENDING_SOURCE_RUN38088131512; no current-head final audit claimed by assembler"
+  },
+  "current_source108_normal_push_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIXED102_TO108_INSTALLATION_AND_STAGING_V1/NORMAL_PUSH_EXACT_REMOTE_READBACK_V1.json",
+      "bytes": 4922,
+      "sha256": "a55fc9943ff45172f26549ed152eec6fe580598bb9a2e1aaca15cc8a880df6f6",
+      "git_blob_oid_of_actual_bytes": "db0d144911893dd58b5f9a6e81454e2130274f35",
+      "immutable_transport_path": "immutable_originals/ROOT_FIXED102_TO108_INSTALLATION_AND_STAGING_V1/NORMAL_PUSH_EXACT_REMOTE_READBACK_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_SOURCE108_NORMAL_PUSH_REMOTE_READBACK_V1",
+      "status": "PASS_NORMAL_PUSH_EXACT_REMOTE_SOURCE_TREE_PARENT_AND36_PATHS",
+      "checked_UTC": "2026-10-10T21:38:15.536917+00:00",
+      "remote_refs": {
+        "series/blue-archive": "afb38a20d3714cb0ed7d22013cd7dfc86ad3226b",
+        "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128"
+      },
+      "source_tree": "8564fbd3afb822096dec0984b5be597f39bddc9b",
+      "source_parents": [
+        "bf5ded30464ab39f78f71e79ecc7494654c25faa"
+      ],
+      "changed_paths": [
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOKONA_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_REIJO_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAYA_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SHANHAIJING_GENRYUMON_INSTITUTION_SYNTHESIS.md",
+        "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VALKYRIE_INSTITUTIONAL_SYNTHESIS.md",
+        "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHANHAIJING_RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_MANDATORY_NAMED_SECTION_INDEX_V3.csv",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_PACKAGE_ACCEPTANCE_INDEX.csv",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SCOPE_AUDIT_METADATA.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md"
+      ],
+      "tracked_and_index_clean": true,
+      "untracked39_stats_preserved": true,
+      "untracked_and_UNBOUND_contents": "UNREAD_UNHASHED",
+      "ROOTaccepted_packages": 113,
+      "published_packages": 108,
+      "merged_packages": 89,
+      "next_merge_milestone": 178,
+      "automatic_chain": "PENDING_SOURCE_RUN38088131512",
+      "new_analytical_credit": 0,
+      "full_goal_status": "ACTIVE_INCOMPLETE"
+    }
+  },
+  "current_first_milestone_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json",
+      "bytes": 2282,
+      "sha256": "e7214986d7cd89063f5b0608d63100957736a33e48baeb102afdc13145a79ea6",
+      "git_blob_oid_of_actual_bytes": "67d72a22c7acf47b817879110809fdb0095968f3",
+      "immutable_transport_path": "immutable_originals/ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1",
+      "checked_UTC": "2026-10-10T19:49:13.689695+00:00",
+      "status": "COMPLETE_MERGED_AND_EXACT_POSTMERGE_MAIN_FULL_AUDIT_ACCEPTED",
+      "goal25_complete": true,
+      "merged_PR": 147,
+      "merged_UTC": "2026-10-10T19:34:27Z",
+      "merged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+      "tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+      "linear_parent": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+      "merged_packages": 89,
+      "required_packages": 355,
+      "required_named_duties": 29,
+      "distinct_named_parent_packages": 25,
+      "milestones": [
+        89,
+        178,
+        267,
+        355
+      ],
+      "next_milestone": 178,
+      "ROOT_reviewed_total_at_this_receipt": 102,
+      "full_goal_status": "ACTIVE_INCOMPLETE",
+      "postmerge_receipt": {
+        "path": "ROOT_FIRST_MILESTONE_POSTMERGE_MAIN_b76_VERIFICATION_V1/EXACT_POSTMERGE_MAIN_VERIFICATION_V1.json",
+        "bytes": 6847,
+        "sha256": "787c947409268e2e633a2278790fb71241e822ea98b5e0608839d393e9dfe598",
+        "git_blob": "2c4964e2df70188d2181796a95d9990c72ca98af"
+      },
+      "postmerge_run": 38080340801,
+      "actual_audit_commit": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "tests": 292,
+      "skipped": 0,
+      "archive_outcome": "success",
+      "profile": "full",
+      "source_housekeeping_final_chain": "PREVIOUSLY_ROOT_ACCEPTED_EXACT7546; NOOP HOUSEKEEPING; FULL_FINAL_AUDIT",
+      "ROOT_actual_receiving": "8aac40 entire140-line saved postmerge receipt; actual selected AUDIT_COMMIT, detached checkout, full snapshot PASS, both completed jobs and isolated exact-success status; separately received actual292-tests/OK log range233–250. Exact complete saved log and every actual selected witness independently checked here. Dated PENDING in frozen producer receipt is superseded for current milestone status by this receiving decision.",
+      "all14_original_gaps": "OPEN",
+      "new_literary_primary_AV_model_or_identity_credit": 0,
+      "untracked39": "UNCHANGED_NO_CONTENT_READ_OR_HASH",
+      "unbound9": "UNREAD_UNHASHED",
+      "R_Git_provider_mutations": false,
+      "remaining_work": "Full remaining eligible-cast Phase3 packages, all29 substantial named duties, subsequent exact adoption/publication and required178/267/355 merges remain required."
+    }
+  },
+  "historical_payload_qualification": "All original pending/local/bf5/source101/source113/count/custody/receiving fields retain creation-time meanings. Exact complete operative ROOT acceptance governs literary judgment; current source108afb and merged89 are separately bound. Later115+ acceptance is outside this fixed snapshot. No retroactive author/provider/source or independent-reading credit.",
+  "original_exact_tuple": {
+    "path": "SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/SHUN_KOKONA_DIRECTED_SYNTHESIS_RECEIVING_RECEIPT_V1.json",
+    "bytes": 191990,
+    "sha256": "d7c02818ee0bcef58150b7d20a9980fbf5c4378a1364fb2c4099d2b7575d0964",
+    "git_blob_oid_of_actual_bytes": "ffab09ae0e95693ab4c87195d6cea70441df7f68",
+    "immutable_transport_path": "immutable_originals/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/SHUN_KOKONA_DIRECTED_SYNTHESIS_RECEIVING_RECEIPT_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "BLUE_ARCHIVE_SHUN_KOKONA_DIRECTED_SYNTHESIS_AUTHOR_RECEIVING_V1",
+    "created_UTC": "2026-10-10T21:09:42.276588+00:00",
+    "status": "AUTHOR_COMPLETE_WITH_LIMITS_PENDING_ROOT_INDEPENDENT_RECEIVING",
+    "candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_SHUN_KOKONA_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 27597,
+      "lines": 144,
+      "sha256": "509402345175025a5a7a09a094f587f5bb27fd379584c5ec16f8910a915f1607"
+    },
+    "existing_home": "P3-REL-SHUN-KOKONA",
+    "kind": "DIRECTED_RELATIONSHIP",
+    "source_responsibility": "HYS::significant_responsibilities::13",
+    "mandatory_named_duties": [],
+    "allocation": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/BOUND_ROOT_AUTHOR_ALLOCATION_V1.json",
+      "bytes": 4827,
+      "lines": 60,
+      "sha256": "5d8026aa74a4417dbac82f7ff215f705611ec225603c4f4e6ae91b8acfb0bf6a"
+    },
+    "execution": "DEEP_SYNTHESIS local adequate-source access under ROOT allocated fullcastgoal. No new model/reasoning/cloudtask/paidAPI or R/Git/provider/global mutations.",
+    "authority_quartet": "Current Cycle008 admission / actually complete or scoped adequate analytical arguments / prior author/source exposures UNKNOWN independence / no performedvoice.",
+    "governance": "Architecture1.12§7.2 positivelyexisting narrativelysignificantrelationship; eleven organizingdimensions notnewarchitecturemandate. Method1.10 and exactstable14 gapnames applied; prior adequate controlmeaning reused/ad9c0f7.2/7.3andgapdefinitions freshpeer scope, samebytes bound.",
+    "actual_source_scopes": [
+      {
+        "source_id": "A01",
+        "bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A01_BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "bytes": 82988,
+          "lines": 560,
+          "sha256": "785146763dabcffa26ebd55d9e87b0d55bb3dc8d5bc2b173b548b461b6b49ba0"
+        },
+        "original_analytical_tuple": {
+          "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "bytes": 82988,
+          "lines": 560,
+          "sha256": "785146763dabcffa26ebd55d9e87b0d55bb3dc8d5bc2b173b548b461b6b49ba0",
+          "actual_prior_adequate_scope_navigation_only": "Current142–144,Shun279–287/Kokona289–293 personally received; other peer comparison ranges qualified separately. Not freshwhole560."
+        },
+        "actual_complete_or_bounded_author_receiving": "Fresh939637 current142–144/Shun279–287/Kokona289–293; prior adequate regional/private comparisons retained. Not whole560.",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "source_id": "A02",
+        "bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A02_BLUE_ARCHIVE_KOKONA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 13807,
+          "lines": 109,
+          "sha256": "4b112267b233de002b0d8fd862cab9d31d8b94a85bb75585d21b837412c72fe8"
+        },
+        "original_analytical_tuple": {
+          "path": "series/blue-archive/02 Sequential Readings/BOND/KOKONA/BLUE_ARCHIVE_KOKONA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 13807,
+          "lines": 109,
+          "sha256": "4b112267b233de002b0d8fd862cab9d31d8b94a85bb75585d21b837412c72fe8",
+          "actual_prior_adequate_scope_navigation_only": "Whole109 personally received at priorKokona declaredscope;9individualanalyticalowners/fourwholeMM received; nooriginalsourcecredit."
+        },
+        "actual_complete_or_bounded_author_receiving": "Fresh96efa6 whole109 through EOF; prior own complete nine individual argument owners/fourwholeMM at Kokona receipt actual scopes. Historical wrappers qualified by Cycle008.",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "source_id": "A03",
+        "bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A03_BLUE_ARCHIVE_SHUN_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 17034,
+          "lines": 125,
+          "sha256": "4a02ae145c0e7aaabe324861782a5fadd5dbcb46f5cf87fcf04e8d0d5bf2e0cf"
+        },
+        "original_analytical_tuple": {
+          "path": "series/blue-archive/02 Sequential Readings/BOND/SHUN/BLUE_ARCHIVE_SHUN_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 17034,
+          "lines": 125,
+          "sha256": "4a02ae145c0e7aaabe324861782a5fadd5dbcb46f5cf87fcf04e8d0d5bf2e0cf",
+          "actual_prior_adequate_scope_navigation_only": "Whole125 personally received03d692;21pair/writtenownersrepresent36; currentsharedsupersedesoldstatus; separate10144mandatorycharactersection notrelproxy."
+        },
+        "actual_complete_or_bounded_author_receiving": "Prior own whole12503d692; fresh96efa6 69–106 and7140a6 107–125; all21 pair/written argument owners representing36 received under Shun V1, not new primary. EffectiveV7/source corrections currentA01 govern.",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "source_id": "A04",
+        "bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A04_BLUE_ARCHIVE_EVENT_805_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+          "bytes": 17785,
+          "lines": 121,
+          "sha256": "cc1bcd269132e5b744f5bdf1da94327ae9fd299045b7151bc38553c8c8baa05f"
+        },
+        "original_analytical_tuple": {
+          "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_805/BLUE_ARCHIVE_EVENT_805_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+          "bytes": 17785,
+          "lines": 121,
+          "sha256": "cc1bcd269132e5b744f5bdf1da94327ae9fd299045b7151bc38553c8c8baa05f",
+          "actual_prior_adequate_scope_navigation_only": "Ownpriorwhole121andfreshcd3f7062–108, sistersprivacy/disclosure/refusal/listening/actualreturn/qualifiedforgiveness andunprintedrepair."
+        },
+        "actual_complete_or_bounded_author_receiving": "Prior own whole121; fresh8e86a1 coherent62–108 including complete nine progression meanings and source/identity/repair limits.",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "source_id": "A05",
+        "bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A05_BLUE_ARCHIVE_GROUP_2601_2602_DEEP_READING.md",
+          "bytes": 20799,
+          "lines": 133,
+          "sha256": "316a2761199732a5c0055ba67f610cc0ac2192da4d29c5b46cf1c5cd279b56fb"
+        },
+        "original_analytical_tuple": {
+          "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2601_2602_DEEP_READING.md",
+          "bytes": 20799,
+          "lines": 133,
+          "sha256": "316a2761199732a5c0055ba67f610cc0ac2192da4d29c5b46cf1c5cd279b56fb",
+          "actual_prior_adequate_scope_navigation_only": "Ownpriorwhole133 plusfresh1fef8362–91 bagprivacy/scare/fabrication/relay/sourceinterruption/persistentmisunderstanding/unprintededucation."
+        },
+        "actual_complete_or_bounded_author_receiving": "Prior own whole133; fresh93963762–91 whole confidential-delivery/rumor/privacy/source-stop/persistent-cost argument.",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "source_id": "A06",
+        "bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A06_BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 32334,
+          "lines": 177,
+          "sha256": "287c1549225c6c17cb398c686b87f23cc7c062a8e7dabfa4c0bcd67f9ff5361b"
+        },
+        "original_analytical_tuple": {
+          "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_826/BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 32334,
+          "lines": 177,
+          "sha256": "287c1549225c6c17cb398c686b87f23cc7c062a8e7dabfa4c0bcd67f9ff5361b",
+          "actual_prior_adequate_scope_navigation_only": "Ownpriorwhole177 andfresh4b5271113–123/145–159 unconsultedtrap/futureapologies/actualbanquet/supervisiontransfer/protest."
+        },
+        "actual_complete_or_bounded_author_receiving": "Prior own whole177; fresh Mina–Reijo peer59efed75–125/bd8fa6126–177 complete substantive. Actual banquet/futureapology/mode meanings preserved.",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "source_id": "A07",
+        "bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A07_BLUE_ARCHIVE_EVENT_839_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 27920,
+          "lines": 158,
+          "sha256": "f4966f3e986af6f41f1690f9530f0c9940cb04ffc900915d21bdd0e18c6d8da0"
+        },
+        "original_analytical_tuple": {
+          "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_839/BLUE_ARCHIVE_EVENT_839_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 27920,
+          "lines": 158,
+          "sha256": "f4966f3e986af6f41f1690f9530f0c9940cb04ffc900915d21bdd0e18c6d8da0",
+          "actual_prior_adequate_scope_navigation_only": "Ownpriorwhole158 plusfresh1fef8395–108 teachingintervention/sisterpride/actualvisitorend."
+        },
+        "actual_complete_or_bounded_author_receiving": "Prior own whole158; fresh93963795–108 visiting/food/theatre/instruction meanings with actualmustachereturn.",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "source_id": "A08",
+        "bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A08_BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 30602,
+          "lines": 149,
+          "sha256": "a1fb6c0af2aa8b2e293208bbe0ecdb7638aece543487fcf838f790ffbbd8dc97"
+        },
+        "original_analytical_tuple": {
+          "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_840/BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 30602,
+          "lines": 149,
+          "sha256": "a1fb6c0af2aa8b2e293208bbe0ecdb7638aece543487fcf838f790ffbbd8dc97",
+          "actual_prior_adequate_scope_navigation_only": "Ownpriorwhole149 andfresh18c47380–134/45bcc1135–149 actualdisguisedouting/tastes/name/headpatrefusal, scopedidentity."
+        },
+        "actual_complete_or_bounded_author_receiving": "Prior own whole149 and Shun precision rereception18c47380–134/45bcc1135–149; reused complete private-outing/identity/recipient context only, no Kokona attendance inferred.",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "source_id": "A09",
+        "bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A09_BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 38768,
+          "lines": 167,
+          "sha256": "05ff9e56135ff5d1535d4bb2196a93f09fef0ca99fb7503f15f9ddd3fd54fa86"
+        },
+        "original_analytical_tuple": {
+          "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_859/BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 38768,
+          "lines": 167,
+          "sha256": "05ff9e56135ff5d1535d4bb2196a93f09fef0ca99fb7503f15f9ddd3fd54fa86",
+          "actual_prior_adequate_scope_navigation_only": "Ownpriorwhole167 andfresh45bcc191–113/18c473114–159, protectiveinfiltrationrefusal/covercost/fear/vocation/time/permission/actualthreepersonwalkandfireworks/unfinishedretrieval."
+        },
+        "actual_complete_or_bounded_author_receiving": "Prior own whole167; fresh8e86a191–115/3f6a42117–167; line116blank. Two directions, protective refusal/cover, educationalfear, permission/walk/fireworks/return and extensive actor/endpoints personally received.",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "source_id": "A10",
+        "bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A10_BLUE_ARCHIVE_MAIN_V100_C002_E007_DEEP_READING.md",
+          "bytes": 3387,
+          "lines": 32,
+          "sha256": "adb61ebf9b84e3ca80b63ff45134ffed027b060b0a8fe252bc723a00bb453c1b"
+        },
+        "original_analytical_tuple": {
+          "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E007_DEEP_READING.md",
+          "bytes": 3387,
+          "lines": 32,
+          "sha256": "adb61ebf9b84e3ca80b63ff45134ffed027b060b0a8fe252bc723a00bb453c1b",
+          "actual_prior_adequate_scope_navigation_only": "Whole32 personallyreceivedpriorandKokona463a8a; distinctaccepteddefense/evacuationdutiesnotcompletedalloutcome."
+        },
+        "actual_complete_or_bounded_author_receiving": "Prior whole32 and fresh20eeca whole32 corrective scope; exactShun orders/Kokona acceptance only, no completeevacuation.",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "source_id": "A11",
+        "bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A11_BLUE_ARCHIVE_EVENT_810_EPISODE_071_80000071_DEEP_READING.md",
+          "bytes": 7781,
+          "lines": 73,
+          "sha256": "118b5385e84ece503bf397085c4496127184f7e98dcf6721d8459118194279f0"
+        },
+        "original_analytical_tuple": {
+          "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_071_80000071_DEEP_READING.md",
+          "bytes": 7781,
+          "lines": 73,
+          "sha256": "118b5385e84ece503bf397085c4496127184f7e98dcf6721d8459118194279f0",
+          "actual_prior_adequate_scope_navigation_only": "Whole73Kokona463a8a delayed-alonegiftboundary/unknownmaker/inwardthanks; notactualsistergift."
+        },
+        "actual_complete_or_bounded_author_receiving": "Prior own whole73463a8a; fresh7140a640–66 delayed/alonegift/refusal/futureconsumption limits; no inferredsistergift.",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "source_id": "A12",
+        "bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A12_BLUE_ARCHIVE_EVENT_810_EPISODE_029_80000029_DEEP_READING.md",
+          "bytes": 7982,
+          "lines": 68,
+          "sha256": "df6d841e98851751fc64e73575aabfc88922000ceca518bfe2cda3130bc322d6"
+        },
+        "original_analytical_tuple": {
+          "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_029_80000029_DEEP_READING.md",
+          "bytes": 7982,
+          "lines": 68,
+          "sha256": "df6d841e98851751fc64e73575aabfc88922000ceca518bfe2cda3130bc322d6",
+          "actual_prior_adequate_scope_navigation_only": "Whole68Shuncd3f70 taste/unrecognizedingredient/permission/restreturn; notautomaticrelationevent."
+        },
+        "actual_complete_or_bounded_author_receiving": "Prior own whole68cd3f70; fresh7140a644–64 actualrestreturn and conditionalgift/actor/localelimits; no inferredsistergift.",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      }
+    ],
+    "bound_controls": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "bytes": 52261,
+        "lines": 851,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C02_BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+        "bytes": 53414,
+        "lines": 840,
+        "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C03_BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md",
+        "bytes": 52723,
+        "lines": 275,
+        "sha256": "6a0ca0819b1cdf44d878308f5a06a68f6e44bffb7d374ee1c15a3a75a393d89e"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C04_BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+        "bytes": 79178,
+        "lines": 354,
+        "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C05_BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "bytes": 461112,
+        "lines": 6514,
+        "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C06_BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+        "bytes": 101490,
+        "lines": 356,
+        "sha256": "58a0e1a40b90df7cacd2be367ff70861d6a0f1428c210a5397c30d0529a7b2d6"
+      }
+    ],
+    "private_responsibilities_ShUN36": [
+      {
+        "analytical_line": 404,
+        "story_id": "BA:bond:10011:002",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/BOND/SHUN/VARIANT_10011_EPISODE_002.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 405,
+        "story_id": "BA:bond:10011:003",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/BOND/SHUN/VARIANT_10011_EPISODE_003.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 406,
+        "story_id": "BA:bond:10011:005",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/BOND/SHUN/VARIANT_10011_EPISODE_005.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 407,
+        "story_id": "BA:bond:10011:006",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/BOND/SHUN/VARIANT_10011_EPISODE_006.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 408,
+        "story_id": "BA:bond:10011:008",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/BOND/SHUN/VARIANT_10011_EPISODE_008.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 409,
+        "story_id": "BA:bond:10011:009",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/BOND/SHUN/VARIANT_10011_EPISODE_009.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 410,
+        "story_id": "BA:bond:10025:002",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/BOND/SHUN/VARIANT_10025_EPISODE_002.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 411,
+        "story_id": "BA:bond:10025:003",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/BOND/SHUN/VARIANT_10025_EPISODE_003.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 412,
+        "story_id": "BA:bond:10025:005",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/BOND/SHUN/VARIANT_10025_EPISODE_005.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 413,
+        "story_id": "BA:bond:10025:006",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/BOND/SHUN/VARIANT_10025_EPISODE_006.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 414,
+        "story_id": "BA:bond:10025:020",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/BOND/SHUN/VARIANT_10025_EPISODE_020.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 431,
+        "story_id": "BA:bond:10143:002",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/BOND/SHUN/VARIANT_10143_EPISODE_002.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 432,
+        "story_id": "BA:bond:10143:003",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/BOND/SHUN/VARIANT_10143_EPISODE_003.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 433,
+        "story_id": "BA:bond:10143:005",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/BOND/SHUN/VARIANT_10143_EPISODE_005.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 434,
+        "story_id": "BA:bond:10143:006",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/BOND/SHUN/VARIANT_10143_EPISODE_006.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 443,
+        "story_id": "BA:character_data:10011:profile_and_dialog",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/CHARACTER_DATA/SHUN/VARIANT_10011.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 444,
+        "story_id": "BA:character_data:10025:profile_and_dialog",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/CHARACTER_DATA/SHUN/VARIANT_10025.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 449,
+        "story_id": "BA:character_data:10143:profile_and_dialog",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/CHARACTER_DATA/SHUN/VARIANT_10143.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 452,
+        "story_id": "BA:character_data:event_costume:1900901301:character:10025",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/CHARACTER_DATA/CONTEXTUAL/BA_character_data_event_costume_1900901301_character_10025.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 457,
+        "story_id": "BA:character_data:event_costume:1900956001:character:10143",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/CHARACTER_DATA/CONTEXTUAL/BA_character_data_event_costume_1900956001_character_10143.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 458,
+        "story_id": "BA:character_data:event_costume:1900956101:character:10143",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/CHARACTER_DATA/CONTEXTUAL/BA_character_data_event_costume_1900956101_character_10143.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 461,
+        "story_id": "BA:momotalk:10011:thread:100110010",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/MOMOTALK/SHUN/THREAD_100110010.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 462,
+        "story_id": "BA:momotalk:10011:thread:100110070",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/MOMOTALK/SHUN/THREAD_100110070.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 463,
+        "story_id": "BA:momotalk:10011:thread:100110180",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/MOMOTALK/SHUN/THREAD_100110180.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 464,
+        "story_id": "BA:momotalk:10011:thread:100110220",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/MOMOTALK/SHUN/THREAD_100110220.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 465,
+        "story_id": "BA:momotalk:10011:thread:100110290",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/MOMOTALK/SHUN/THREAD_100110290.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 466,
+        "story_id": "BA:momotalk:10011:thread:100110380",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/MOMOTALK/SHUN/THREAD_100110380.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 467,
+        "story_id": "BA:momotalk:10025:thread:100250010",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/MOMOTALK/SHUN/THREAD_100250010.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 468,
+        "story_id": "BA:momotalk:10025:thread:100250090",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/MOMOTALK/SHUN/THREAD_100250090.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 469,
+        "story_id": "BA:momotalk:10025:thread:100250130",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/MOMOTALK/SHUN/THREAD_100250130.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 470,
+        "story_id": "BA:momotalk:10025:thread:100250200",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/MOMOTALK/SHUN/THREAD_100250200.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 471,
+        "story_id": "BA:momotalk:10025:thread:100250290",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/MOMOTALK/SHUN/THREAD_100250290.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 488,
+        "story_id": "BA:momotalk:10143:thread:101430010",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/MOMOTALK/SHUN/THREAD_101430010.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 489,
+        "story_id": "BA:momotalk:10143:thread:101430060",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/MOMOTALK/SHUN/THREAD_101430060.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 490,
+        "story_id": "BA:momotalk:10143:thread:101430110",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/MOMOTALK/SHUN/THREAD_101430110.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      },
+      {
+        "analytical_line": 491,
+        "story_id": "BA:momotalk:10143:thread:101430230",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/MOMOTALK/SHUN/THREAD_101430230.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008current142–144 and actualSHUNcoverage govern datedUNADMITTEDrow. No originalproducer/primary reading transferred."
+      }
+    ],
+    "private_responsibilities_KOKONA9": [
+      {
+        "analytical_line": 415,
+        "story_id": "BA:bond:10050:002",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/BOND/CH0137/VARIANT_10050_EPISODE_002.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008 shared142–144/currentCH0137 coverage govern old wrapper; original source producer credit is not transferred."
+      },
+      {
+        "analytical_line": 416,
+        "story_id": "BA:bond:10050:003",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/BOND/CH0137/VARIANT_10050_EPISODE_003.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008 shared142–144/currentCH0137 coverage govern old wrapper; original source producer credit is not transferred."
+      },
+      {
+        "analytical_line": 417,
+        "story_id": "BA:bond:10050:005",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/BOND/CH0137/VARIANT_10050_EPISODE_005.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008 shared142–144/currentCH0137 coverage govern old wrapper; original source producer credit is not transferred."
+      },
+      {
+        "analytical_line": 418,
+        "story_id": "BA:bond:10050:006",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/BOND/CH0137/VARIANT_10050_EPISODE_006.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008 shared142–144/currentCH0137 coverage govern old wrapper; original source producer credit is not transferred."
+      },
+      {
+        "analytical_line": 445,
+        "story_id": "BA:character_data:10050:profile_and_dialog",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/CHARACTER_DATA/CH0137/VARIANT_10050.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008 shared142–144/currentCH0137 coverage govern old wrapper; original source producer credit is not transferred."
+      },
+      {
+        "analytical_line": 472,
+        "story_id": "BA:momotalk:10050:thread:100500010",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/MOMOTALK/CH0137/THREAD_100500010.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008 shared142–144/currentCH0137 coverage govern old wrapper; original source producer credit is not transferred."
+      },
+      {
+        "analytical_line": 473,
+        "story_id": "BA:momotalk:10050:thread:100500060",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/MOMOTALK/CH0137/THREAD_100500060.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008 shared142–144/currentCH0137 coverage govern old wrapper; original source producer credit is not transferred."
+      },
+      {
+        "analytical_line": 474,
+        "story_id": "BA:momotalk:10050:thread:100500150",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/MOMOTALK/CH0137/THREAD_100500150.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008 shared142–144/currentCH0137 coverage govern old wrapper; original source producer credit is not transferred."
+      },
+      {
+        "analytical_line": 475,
+        "story_id": "BA:momotalk:10050:thread:100500260",
+        "canonical_route_inherited_not_opened": "02_CANONICAL_STORIES/MOMOTALK/CH0137/THREAD_100500260.md",
+        "historical_row_status": "Reuse; UNADMITTED",
+        "current_status_boundary": "Cycle008 shared142–144/currentCH0137 coverage govern old wrapper; original source producer credit is not transferred."
+      }
+    ],
+    "wholeMM_linkages": [
+      {
+        "BOND_story_id": "BA:bond:10011:002",
+        "whole_MomoTalk_story_id": "BA:momotalk:10011:thread:100110010",
+        "complete_analytical_owner": "series/blue-archive/02 Sequential Readings/BOND/SHUN/BLUE_ARCHIVE_SHUN_VARIANT_10011_EPISODE_002_DEEP_READING.md",
+        "actual_complete_receiving": "f5ed7f whole86 EOF",
+        "thread_message_boundary": "Complete joint argument and whole-thread control table throughEOF; threadID distinct from messageID/FavorSchedule trigger; alternate replies and afterwords retained, no originalMM source credit."
+      },
+      {
+        "BOND_story_id": "BA:bond:10011:003",
+        "whole_MomoTalk_story_id": "BA:momotalk:10011:thread:100110070",
+        "complete_analytical_owner": "series/blue-archive/02 Sequential Readings/BOND/SHUN/BLUE_ARCHIVE_SHUN_VARIANT_10011_EPISODE_003_DEEP_READING.md",
+        "actual_complete_receiving": "f5ed7f whole96 EOF",
+        "thread_message_boundary": "Complete joint argument and whole-thread control table throughEOF; threadID distinct from messageID/FavorSchedule trigger; alternate replies and afterwords retained, no originalMM source credit."
+      },
+      {
+        "BOND_story_id": "BA:bond:10011:005",
+        "whole_MomoTalk_story_id": "BA:momotalk:10011:thread:100110180",
+        "complete_analytical_owner": "series/blue-archive/02 Sequential Readings/BOND/SHUN/BLUE_ARCHIVE_SHUN_VARIANT_10011_EPISODE_005_DEEP_READING.md",
+        "actual_complete_receiving": "a7e960 whole EOF",
+        "thread_message_boundary": "Complete joint argument and whole-thread control table throughEOF; threadID distinct from messageID/FavorSchedule trigger; alternate replies and afterwords retained, no originalMM source credit."
+      },
+      {
+        "BOND_story_id": "BA:bond:10011:006",
+        "whole_MomoTalk_story_id": "BA:momotalk:10011:thread:100110220",
+        "complete_analytical_owner": "series/blue-archive/02 Sequential Readings/BOND/SHUN/BLUE_ARCHIVE_SHUN_VARIANT_10011_EPISODE_006_DEEP_READING.md",
+        "actual_complete_receiving": "a7e960 whole EOF",
+        "thread_message_boundary": "Complete joint argument and whole-thread control table throughEOF; threadID distinct from messageID/FavorSchedule trigger; alternate replies and afterwords retained, no originalMM source credit."
+      },
+      {
+        "BOND_story_id": "BA:bond:10011:008",
+        "whole_MomoTalk_story_id": "BA:momotalk:10011:thread:100110290",
+        "complete_analytical_owner": "series/blue-archive/02 Sequential Readings/BOND/SHUN/BLUE_ARCHIVE_SHUN_VARIANT_10011_EPISODE_008_DEEP_READING.md",
+        "actual_complete_receiving": "359310 whole EOF",
+        "thread_message_boundary": "Complete joint argument and whole-thread control table throughEOF; threadID distinct from messageID/FavorSchedule trigger; alternate replies and afterwords retained, no originalMM source credit."
+      },
+      {
+        "BOND_story_id": "BA:bond:10011:009",
+        "whole_MomoTalk_story_id": "BA:momotalk:10011:thread:100110380",
+        "complete_analytical_owner": "series/blue-archive/02 Sequential Readings/BOND/SHUN/BLUE_ARCHIVE_SHUN_VARIANT_10011_EPISODE_009_DEEP_READING.md",
+        "actual_complete_receiving": "359310 whole EOF",
+        "thread_message_boundary": "Complete joint argument and whole-thread control table throughEOF; threadID distinct from messageID/FavorSchedule trigger; alternate replies and afterwords retained, no originalMM source credit."
+      },
+      {
+        "BOND_story_id": "BA:bond:10025:002",
+        "whole_MomoTalk_story_id": "BA:momotalk:10025:thread:100250010",
+        "complete_analytical_owner": "series/blue-archive/02 Sequential Readings/BOND/SHUN/BLUE_ARCHIVE_SHUN_VARIANT_10025_EPISODE_002_DEEP_READING.md",
+        "actual_complete_receiving": "5838e7 whole EOF",
+        "thread_message_boundary": "Complete joint argument and whole-thread control table throughEOF; threadID distinct from messageID/FavorSchedule trigger; alternate replies and afterwords retained, no originalMM source credit."
+      },
+      {
+        "BOND_story_id": "BA:bond:10025:003",
+        "whole_MomoTalk_story_id": "BA:momotalk:10025:thread:100250090",
+        "complete_analytical_owner": "series/blue-archive/02 Sequential Readings/BOND/SHUN/BLUE_ARCHIVE_SHUN_VARIANT_10025_EPISODE_003_DEEP_READING.md",
+        "actual_complete_receiving": "5838e7 whole EOF",
+        "thread_message_boundary": "Complete joint argument and whole-thread control table throughEOF; threadID distinct from messageID/FavorSchedule trigger; alternate replies and afterwords retained, no originalMM source credit."
+      },
+      {
+        "BOND_story_id": "BA:bond:10025:005",
+        "whole_MomoTalk_story_id": "BA:momotalk:10025:thread:100250130",
+        "complete_analytical_owner": "series/blue-archive/02 Sequential Readings/BOND/SHUN/BLUE_ARCHIVE_SHUN_VARIANT_10025_EPISODE_005_DEEP_READING.md",
+        "actual_complete_receiving": "35496f whole EOF",
+        "thread_message_boundary": "Complete joint argument and whole-thread control table throughEOF; threadID distinct from messageID/FavorSchedule trigger; alternate replies and afterwords retained, no originalMM source credit."
+      },
+      {
+        "BOND_story_id": "BA:bond:10025:006",
+        "whole_MomoTalk_story_id": "BA:momotalk:10025:thread:100250200",
+        "complete_analytical_owner": "series/blue-archive/02 Sequential Readings/BOND/SHUN/BLUE_ARCHIVE_SHUN_VARIANT_10025_EPISODE_006_DEEP_READING.md",
+        "actual_complete_receiving": "35496f whole EOF",
+        "thread_message_boundary": "Complete joint argument and whole-thread control table throughEOF; threadID distinct from messageID/FavorSchedule trigger; alternate replies and afterwords retained, no originalMM source credit."
+      },
+      {
+        "BOND_story_id": "BA:bond:10025:020",
+        "whole_MomoTalk_story_id": "BA:momotalk:10025:thread:100250290",
+        "complete_analytical_owner": "series/blue-archive/02 Sequential Readings/BOND/SHUN/BLUE_ARCHIVE_SHUN_VARIANT_10025_EPISODE_020_DEEP_READING.md",
+        "actual_complete_receiving": "5a17cb whole EOF",
+        "thread_message_boundary": "Complete joint argument and whole-thread control table throughEOF; threadID distinct from messageID/FavorSchedule trigger; alternate replies and afterwords retained, no originalMM source credit."
+      },
+      {
+        "BOND_story_id": "BA:bond:10143:002",
+        "whole_MomoTalk_story_id": "BA:momotalk:10143:thread:101430010",
+        "complete_analytical_owner": "series/blue-archive/02 Sequential Readings/BOND/SHUN/BLUE_ARCHIVE_SHUN_VARIANT_10143_EPISODE_002_DEEP_READING.md",
+        "actual_complete_receiving": "2377f0 whole EOF",
+        "thread_message_boundary": "Complete joint argument and whole-thread control table throughEOF; threadID distinct from messageID/FavorSchedule trigger; alternate replies and afterwords retained, no originalMM source credit."
+      },
+      {
+        "BOND_story_id": "BA:bond:10143:003",
+        "whole_MomoTalk_story_id": "BA:momotalk:10143:thread:101430060",
+        "complete_analytical_owner": "series/blue-archive/02 Sequential Readings/BOND/SHUN/BLUE_ARCHIVE_SHUN_VARIANT_10143_EPISODE_003_DEEP_READING.md",
+        "actual_complete_receiving": "2377f0 whole EOF",
+        "thread_message_boundary": "Complete joint argument and whole-thread control table throughEOF; threadID distinct from messageID/FavorSchedule trigger; alternate replies and afterwords retained, no originalMM source credit."
+      },
+      {
+        "BOND_story_id": "BA:bond:10143:005",
+        "whole_MomoTalk_story_id": "BA:momotalk:10143:thread:101430110",
+        "complete_analytical_owner": "series/blue-archive/02 Sequential Readings/BOND/SHUN/BLUE_ARCHIVE_SHUN_VARIANT_10143_EPISODE_005_DEEP_READING.md",
+        "actual_complete_receiving": "1f7830 whole EOF",
+        "thread_message_boundary": "Complete joint argument and whole-thread control table throughEOF; threadID distinct from messageID/FavorSchedule trigger; alternate replies and afterwords retained, no originalMM source credit."
+      },
+      {
+        "BOND_story_id": "BA:bond:10143:006",
+        "whole_MomoTalk_story_id": "BA:momotalk:10143:thread:101430230",
+        "complete_analytical_owner": "series/blue-archive/02 Sequential Readings/BOND/SHUN/BLUE_ARCHIVE_SHUN_VARIANT_10143_EPISODE_006_DEEP_READING.md",
+        "actual_complete_receiving": "1f7830 whole EOF",
+        "thread_message_boundary": "Complete joint argument and whole-thread control table throughEOF; threadID distinct from messageID/FavorSchedule trigger; alternate replies and afterwords retained, no originalMM source credit."
+      },
+      {
+        "BOND_story_id": "BA:bond:10050:002",
+        "whole_MomoTalk_story_id": "BA:momotalk:10050:thread:100500010",
+        "complete_analytical_owner": "series/blue-archive/02 Sequential Readings/BOND/KOKONA/BLUE_ARCHIVE_KOKONA_MOMOTALK_100500010_DEEP_READING.md",
+        "actual_receiving": "9a8ddb whole argument/table through EOF",
+        "thread_message_boundary": "Nine messages010–090; visiting invitation and schedule100502."
+      },
+      {
+        "BOND_story_id": "BA:bond:10050:003",
+        "whole_MomoTalk_story_id": "BA:momotalk:10050:thread:100500060",
+        "complete_analytical_owner": "series/blue-archive/02 Sequential Readings/BOND/KOKONA/BLUE_ARCHIVE_KOKONA_MOMOTALK_100500060_DEEP_READING.md",
+        "actual_receiving": "9a8ddb whole argument/table through EOF",
+        "thread_message_boundary": "Eleven messages100–200, nine preface plus two post-bond;190 explicit100503 gate,200 zero direct preconditions continuation."
+      },
+      {
+        "BOND_story_id": "BA:bond:10050:005",
+        "whole_MomoTalk_story_id": "BA:momotalk:10050:thread:100500150",
+        "complete_analytical_owner": "series/blue-archive/02 Sequential Readings/BOND/KOKONA/BLUE_ARCHIVE_KOKONA_MOMOTALK_100500150_DEEP_READING.md",
+        "actual_receiving": "9a8ddb whole argument/table through EOF",
+        "thread_message_boundary": "Sixteen messages210–360; Japanese no-force line240, wished additives/refusal and trigger100505; no consumed drink."
+      },
+      {
+        "BOND_story_id": "BA:bond:10050:006",
+        "whole_MomoTalk_story_id": "BA:momotalk:10050:thread:100500260",
+        "complete_analytical_owner": "series/blue-archive/02 Sequential Readings/BOND/KOKONA/BLUE_ARCHIVE_KOKONA_MOMOTALK_100500260_DEEP_READING.md",
+        "actual_receiving": "9a8ddb whole argument/table through EOF",
+        "thread_message_boundary": "Eleven messages370–470; alternative replies, reluctance/trust and100506 trigger; assent does not erase later withdrawal."
+      }
+    ],
+    "private_count_boundary": "45unique acceptedadequate private meanings reused (19B/19wholeMM/7W); not45neworiginalprimary. Separate10144 character duty and gifts are different modes/owners.",
+    "character_dependencies": {
+      "Shun_V1": {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/SHUN_FROZEN_OUTPUT_MANIFEST.json",
+        "bytes": 4772,
+        "lines": 69,
+        "sha256": "57ec8eacb0bb2ec5f52d13edc5f400f541beeb4f4a2c04ced708c502fa60696d"
+      },
+      "Shun_operative_V2": {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_CORRECTED_SUCCESSOR_V2/SHUN_CORRECTED_SUCCESSOR_FROZEN_OUTPUT_MANIFEST_V2.json",
+        "bytes": 4046,
+        "lines": 66,
+        "sha256": "5dd6fe52d5b6ab0fc7715e1c9145c5cae0fe73e8e43d344cd5a48ad4655c50ac"
+      },
+      "Kokona": {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/KOKONA_FROZEN_OUTPUT_MANIFEST.json",
+        "bytes": 4621,
+        "lines": 64,
+        "sha256": "b40711a4101a4b5faa7e2d16cf6dcd61a53fabac709a2e71b1bafe66d259893a"
+      },
+      "scope": "prior actual private/bodyreceiving retained; no proxy relation/institution credit. ROOT reports Shun110accepted/currentKokona108; no authorcount."
+    },
+    "direction_review": {
+      "Shun_to_Kokona": "Pride/uncertainty/actualintervention/protectiverefusal coexistwithdisclosure/threat/cover/labortransfer; requestforincludedcompany expresslyanswered.",
+      "Kokona_to_Shun": "Wantednearness/vocation/profession/tastes/fear/concern/fictionandrelay/qualifiedforgiveness/exception retainindependentagency, no globalobedienceorresentment."
+    },
+    "finite_endpoint_review": [
+      {
+        "id": "SK-E01",
+        "source": "A05L65–89",
+        "question": "Confidential delivery/rumor",
+        "actual": "Bag delivered; Kokona fabricates unseencontents; Shun stops source; misunderstanding persists. No inspecteddevice or statedspecialeducationmethod."
+      },
+      {
+        "id": "SK-E02",
+        "source": "A04L71–92",
+        "question": "Return/forgiveness",
+        "actual": "Disclosed private worry/hurt; opposed coercion; listening/chosenreturn/restoration/apology/qualifiedforgiveness; no staffing/trust/medicalrepair."
+      },
+      {
+        "id": "SK-E03",
+        "source": "A06L113–117/145–149",
+        "question": "Trap and banquet",
+        "actual": "SecretKokonause/capture; apologiesKokonaShunfuture; realbanquet/worktransfer/protest; no actualfutureicecream."
+      },
+      {
+        "id": "SK-E04",
+        "source": "A07L104",
+        "question": "Visitor instruction",
+        "actual": "Shun admonition stops pulling andmustachereturned; statedpride; no durableallrespect."
+      },
+      {
+        "id": "SK-E05",
+        "source": "A09L111–113",
+        "question": "Protective refusal/cover",
+        "actual": "Kokonarefusesinfiltration/adultschangeplan; unconsultedcover and demandedconsultation/compensation remain; recognitionnotblanketconsent."
+      },
+      {
+        "id": "SK-E06",
+        "source": "A09L131–144",
+        "question": "Chosen company/return",
+        "actual": "Pain/apologeticbegging/revengeescape; Kokonarecalledfear/wantedproximity; expressinclusionexception/actualwalkswingfireworks; faileddelegation/unfinishedretrieval."
+      },
+      {
+        "id": "SK-E07",
+        "source": "A10L20",
+        "question": "Final division",
+        "actual": "ShunissuesdefenseandKokonaevacuationorders/Kokonaaccepts onlyherassignedevacuation; no completedevacuation or Shunreceivingorder."
+      },
+      {
+        "id": "SK-E08",
+        "source": "A11L41–45/A12L44–45",
+        "question": "Distinct gift comparisons",
+        "actual": "Kokonaadultdelayedalone-useboundary withconsumptionfuture; Shunagreedtransfer/actualnapreturn; neitherasistergift ormedicalaudit."
+      }
+    ],
+    "seven_serious_rivals": [
+      {
+        "saved_line": 107,
+        "complete_saved_text": "**1. Elder competence makes obedience the natural solution.** Teaching, actual839 intervention and Kokona's accepted Final order support experienced situated leadership. Yet she refuses danger, demands consultation, protests work asymmetry and grants a defined exception. These answers are meaningful, not ingratitude. Leadership cannot establish unlimited authority over privacy or time. The warranted relation retains useful coordinated work beside contested access and younger choice. [839005;FinalC002E007;826013;859006–007/013.]",
+        "sha256": "f0e475c7d0291fafa5821a047d9a15fa461f202061831af139226561ffce1247"
+      },
+      {
+        "saved_line": 109,
+        "complete_saved_text": "**2. Kokona is only afraid or resentful.** Threatened education, recalled anger, disclosure and busier life provide adverse evidence. Wanted proximity, concern, qualified forgiveness and permitted company resist total fear. Affection and fear can coexist without either becoming false or the whole motive. Shun's fear of being disliked is not Kokona's direct judgment. This reading succeeds where fear is printed and fails as a complete relation theory. [10011E005;G2602;805004/008;859013.]",
+        "sha256": "9542025154c69c7181693b6bb5748a47ffb16f68818c6f8fc1217ec1710081bb"
+      },
+      {
+        "saved_line": 111,
+        "complete_saved_text": "**3. Shared teaching fulfills wanted closeness.** Kokona chose instruction partly for nearness; both do meaningful work. Her explicit account that they are busier contradicts automatic fulfillment.826's supervision and859's return show continuing labor. Agreed walking realizes company at one endpoint, not institutionally guaranteed daily time. A vocation can retain intrinsic value while failing to satisfy every reason for choosing it. [859013u0027–0053/014;826013.]",
+        "sha256": "4bd623608df9a99818787f807c2e511513e545e7e2adba1f0b4305e292f3a017"
+      },
+      {
+        "saved_line": 113,
+        "complete_saved_text": "**4. Changed form reveals Shun's purely selfish true self.** Escape, excuses, disclosure and relief supply real grounds. Retained knowledge, chosen return, continued adult care wishes, protection of Kokona's refusal and actual teaching resist total selfishness. Beneficial motives cannot erase harm either. Form exposes a need and a method problem, without a hidden-personality diagnosis or medicine mechanism. Rest and sweets matter before their usefulness for resumed care. [805002–009;859006–009; A04L71–104.]",
+        "sha256": "de11129f96fa2ffd6681f6120120ba30abbdc0a449bcd5a329a81ebeaada9ceb"
+      },
+      {
+        "saved_line": 115,
+        "complete_saved_text": "**5. Apology and holiday settle trust.** Restoration, apology/qualified forgiveness, banquet and agreed walking are achieved positive ends. Persistent rumor, future trap apologies, deceptive cover, work protest, fear and unfinished retrieval oppose durable trust. Those tails do not make pleasure an empty gesture; they locate its scope. Repair is particular and partial rather than universally absent or finished. [G2602;805008–009;826010/013;859007/013–014.]",
+        "sha256": "ad5a1ffe06c86e77d6b1754e77d67d0ca38ceff74db2fbc29804155518047bd2"
+      },
+      {
+        "saved_line": 117,
+        "complete_saved_text": "**6. Sensei alone reconciles them.** Listening, rejected exposure, company and helpful arrangements give this a premise. Opposed805 methods, GROUP guesses, cover and teasing limit it. Shun chooses return; Kokona grants inclusion; children state needs; Rumi/Saya/merchants act. Neither solitary adult authorship nor an adult who only harms explains the ends and costs. Actual helpful contributions remain separate from universal competence. [805007–009;G2601–2602;859006–014.]",
+        "sha256": "41846c325ce96da906f8444766f11eadcd28d0946ea99f83451b01524db77a1e"
+      },
+      {
+        "saved_line": 119,
+        "complete_saved_text": "**7. Ordinary scenes must prove educational or crisis success.** Duties and pressure contextualize company, but tea, beauty, coffee curiosity, sweets, picture books, naming and play are already literary facts or wishes. Some disappoint or remain future, others are enjoyed. They need neither rescue payoff nor invented fulfillment. Excluding them would reduce the sisters to work hierarchy and lose Kokona's explicit wanted nearness. Their analytical limits are source force, recipient and outcome, not stakes. [A01L281–293; A02L50–54; A03L105–111;859013.]",
+        "sha256": "8d5cc0fe2f8cf32b68cf7bba2b46a2a72a50ffe6f4bbac5d7f3e838134159e8e"
+      }
+    ],
+    "all14_original_gap_effects": [
+      {
+        "saved_line": 127,
+        "complete_saved_text": "| G01 Ordinary and private breadth | Time, tea, skincare, tastes, play, fear, recognition and wished care are intrinsic. Distinct private meanings do not supply every shared encounter or universal psychology. | OPEN |",
+        "sha256": "4a7d744abc40e1b3c150057d77d1c7393595d7c8cc5129ff4a436a4fb8222424"
+      },
+      {
+        "saved_line": 128,
+        "complete_saved_text": "| G02 Yuuka council/club decision transfer | Negotiated duty/time allow comparison; no Yuuka state-transfer decision or institution is completed. | OPEN |",
+        "sha256": "f7d37df0547812a1db7ad37c6b4de5d1c4d7c5eecffac45430b8bffe429523c9"
+      },
+      {
+        "saved_line": 129,
+        "complete_saved_text": "| G03 Serika service, peer and reciprocity range | Work, gifts, company and asymmetric care give contrast, not Serika's separate recipient evidence. | OPEN |",
+        "sha256": "db35f0e3396602342b5e0ae5d3adce66f1ad2ba336336141c7d114608c33a0ad"
+      },
+      {
+        "saved_line": 130,
+        "complete_saved_text": "| G04 Hina crisis causality, accountability and ordinary contrast | Final coordination and discipline stay local; Hina causality/redress and ordinary range remain separate. | OPEN |",
+        "sha256": "392d99065ed1786367c9a82c9593e676d5c379e6dda8cac894906c7e4b6691db"
+      },
+      {
+        "saved_line": 131,
+        "complete_saved_text": "| G05 Arius and PS68 ordinary/aftermath transfer | Pleasure and partial repair here do not date or complete Arius/PS68 aftermath/restitution. | OPEN |",
+        "sha256": "b790a7076082321a8607cd621b954e015f94db0ff23239ca2bc719e236d1e6b8"
+      },
+      {
+        "saved_line": 132,
+        "complete_saved_text": "| G06 Cross-school ordinary repertoire | Visitors, merchants and children's wants broaden local life; local roles do not establish all-school norms or cast coverage. | OPEN |",
+        "sha256": "7fcc3636b954514e772bdfcf6e8a323b886cc89b55295f65f2d25e10161c4109"
+      },
+      {
+        "saved_line": 133,
+        "complete_saved_text": "| G07 Story-world chronology | Event-local return, rumor and promised-to-permitted outing sequences are supported. Private release/Favor/variant order does not establish inter-event/MAIN dates. | OPEN |",
+        "sha256": "dc77c959c66be3fa0b2e5d292bb7d9c42b1bf07e5c802ec6d6b9c1ce1f520c4e"
+      },
+      {
+        "saved_line": 134,
+        "complete_saved_text": "| G08 Event naming and repeat contexts | Exact805/826/839/840/859/G260/810 functions remain; rerun/edition/UI title wording cannot multiply enacted sister encounters. | OPEN |",
+        "sha256": "98d304eae1f2371fe8cb62ed4a171c8ef5b6a560706a179c502300dbf84cda05"
+      },
+      {
+        "saved_line": 135,
+        "complete_saved_text": "| G09 Written speaker/choice attribution | Reports, alternatives, inward/timed forms, blank variants and seams retain force; no silent exact-turn rekeying or cumulative reply history. | OPEN |",
+        "sha256": "874119076ce7c1d243f64a2d8f8ce682020518edb5f57442474e395df06b1b54"
+      },
+      {
+        "saved_line": 136,
+        "complete_saved_text": "| G10 Performed voice | Written professional/sibling address and refusal are evidence; acting, pitch, audio, pixels and runtime branch delivery remain unreceived. | OPEN |",
+        "sha256": "93437d7692134e9163cf0d21d06fd473cac46cdc05041b87f9d7e4760d0aed66"
+      },
+      {
+        "saved_line": 137,
+        "complete_saved_text": "| G11 Hoshino's Yume record and office states | Sister-duty comparison supplies no direct Hoshino–Yume provenance, office state or grief resolution. | OPEN |",
+        "sha256": "baff0fd26a00bf46cca5e39b74d2f8be1929dffef857eeae984bc6680af138f5"
+      },
+      {
+        "saved_line": 138,
+        "complete_saved_text": "| G12 Counterpart, system and variant identity | Literal SHUN/CH0137 and local Shuerin bridges keep distinct conditions; no universal age/body/person chain, new alias or variant parent is authenticated. | OPEN |",
+        "sha256": "224ee1f529a5b4c926b43493a326f0469af4c1bd58748c5798b13eb87baddbd8"
+      },
+      {
+        "saved_line": 139,
+        "complete_saved_text": "| G13 Office, contract, safety and technical outcomes | Order acceptance, care, return/apology and walks differ from evacuation completion, learning/safety proof, staffing/trust repair, medical efficacy or fulfilled compensation. | OPEN |",
+        "sha256": "1fc0a78e7d17dbf277b649e5bfe91db5f24d28ef307a32f932e8d53c435b34d7"
+      },
+      {
+        "saved_line": 140,
+        "complete_saved_text": "| G14 Unclassified/mode continuity | Only admitted adequate modes are used; UI address and local forms do not admit unclassified scenes or unseen continuity. | OPEN |",
+        "sha256": "9ddd73abd087fed67889b71a78d710d054843ff76a0b3864616a54525d565555"
+      }
+    ],
+    "actual_complete_saved_body_receiving": "6f374f1–72/351f3173–144EOF, no clipping/no laterbodychange.",
+    "saved_nonempty_line_projection": [
+      {
+        "saved_line": 1,
+        "complete_saved_text": "---",
+        "sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b"
+      },
+      {
+        "saved_line": 2,
+        "complete_saved_text": "series: BLUE_ARCHIVE",
+        "sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a"
+      },
+      {
+        "saved_line": 3,
+        "complete_saved_text": "artifact_type: directed_relationship_synthesis_candidate",
+        "sha256": "0161982664b8580e6b78234ffaa6eba1a79364b236ac5884754e22255bc174c0"
+      },
+      {
+        "saved_line": 4,
+        "complete_saved_text": "status: C_ONLY_COMPLETE_ARGUMENT_PENDING_INDEPENDENT_ROOT_RECEIVING",
+        "sha256": "0e06a880845f101fa8e199d01a6c8d48123469ecacbcdcb218c2213d672af2ac"
+      },
+      {
+        "saved_line": 5,
+        "complete_saved_text": "execution: DEEP_SYNTHESIS",
+        "sha256": "dee2548b3f1da2e2a629753a757394a47eb599c5ac933d1b2bad1f0e53e68d64"
+      },
+      {
+        "saved_line": 6,
+        "complete_saved_text": "required_home: P3-REL-SHUN-KOKONA",
+        "sha256": "efd5b5b1913115ab17169abb934177081818f0edeeb16701316db543b9ba202e"
+      },
+      {
+        "saved_line": 7,
+        "complete_saved_text": "source_responsibility: HYS::significant_responsibilities::13",
+        "sha256": "e8f47c9624dcc71c9a37a5b229e5dd466fa33c4ff5ee6b4633b1346ab8205452"
+      },
+      {
+        "saved_line": 8,
+        "complete_saved_text": "mandatory_named_duties: NONE",
+        "sha256": "143f273758cb96fb9729749400df88aba7a606e798cd5d0c1899aa2e904adc51"
+      },
+      {
+        "saved_line": 9,
+        "complete_saved_text": "literal_people: \"春原シュン/BA_PERSON_SHUN/SHUN10011,10025,10143; 春原ココナ/BA_PERSON_CH0137/CH0137/10050\"",
+        "sha256": "8921652dad95c9279f0883f3ed049bd92807ac0389db4be2f36a437c1e39f451"
+      },
+      {
+        "saved_line": 10,
+        "complete_saved_text": "identity_boundary: \"Local Shuerin bridges retain event/profile/actor scopes; separate10144 is Shun's character duty, not another relationship parent.\"",
+        "sha256": "a1ac7cf850a40deabf3fbedf643a1440725239a26b83364dc028c59edc0b7f20"
+      },
+      {
+        "saved_line": 11,
+        "complete_saved_text": "architecture: \"1.12 §7.2; eleven substantive organizing dimensions, not an invented eleven-section architecture mandate\"",
+        "sha256": "775d750f4c16148d825484999593ddf5d345d13d17d598ad4302f223ca7a96cc"
+      },
+      {
+        "saved_line": 12,
+        "complete_saved_text": "method: \"1.10\"",
+        "sha256": "26d64e2ef6944fe53e34200462f7e40c0776f9a0e274e5b02fa3f53330f3c5b9"
+      },
+      {
+        "saved_line": 13,
+        "complete_saved_text": "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "sha256": "0cd10f2d8302fe78220dfeeca8b84b759bca10d442c7a24138ef59571b85a785"
+      },
+      {
+        "saved_line": 14,
+        "complete_saved_text": "literary_source_custody: 7546a2331b3f2ca83798d54f9a2b8120c780adae",
+        "sha256": "5542e73a20544ee40edf510b810dc2d9829323e83d520e13909643ec35fcd739"
+      },
+      {
+        "saved_line": 15,
+        "complete_saved_text": "current_source_navigation: bf5ded30464ab39f78f71e79ecc7494654c25faa",
+        "sha256": "91123e317b65a389f376fe71e734ab28df8d86505c8bf392e47d0cb58df980e6"
+      },
+      {
+        "saved_line": 16,
+        "complete_saved_text": "ROOT_reported_merged_main: b76b4373e6d0526bc78ce00bb673dba9e536c128",
+        "sha256": "b2c60b7146e3e81ab43291039d200b78154c725e2edf77bcc089f3ce119c22de"
+      },
+      {
+        "saved_line": 17,
+        "complete_saved_text": "publication_boundary: \"ROOT reports completed b76 first milestone and later bf5 source/house/final292-zero-skipped chain743572c2; no author provider/audit credit.\"",
+        "sha256": "f38acced78ddded7d9ddff21d8f1f44b45cd0de855388af9bd324fdd507e4422"
+      },
+      {
+        "saved_line": 18,
+        "complete_saved_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8",
+        "sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf"
+      },
+      {
+        "saved_line": 19,
+        "complete_saved_text": "source_generation: BA_REFRESH_20260928T032248159554Z",
+        "sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9"
+      },
+      {
+        "saved_line": 20,
+        "complete_saved_text": "parser: \"0.2.0\"",
+        "sha256": "7f883d04131c2ceb93c813788d8346734ce228b11188765b294eb7669400a5a9"
+      },
+      {
+        "saved_line": 21,
+        "complete_saved_text": "game_version: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1",
+        "sha256": "94489301a0c3d2991e8ecfcabd0b0d0e5bfdf5ea65c0afe9e081f4238fcafc1e"
+      },
+      {
+        "saved_line": 22,
+        "complete_saved_text": "authority_quartet: \"Current Cycle008 admission; actual adequate complete/scoped analytical meanings; exposed prior order and UNKNOWN independent exposure; performed voice unreceived.\"",
+        "sha256": "1b9c962ab393b8102e4902874ad654bc696365f2784b434bcb20e02038ca2046"
+      },
+      {
+        "saved_line": 23,
+        "complete_saved_text": "---",
+        "sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b"
+      },
+      {
+        "saved_line": 25,
+        "complete_saved_text": "# Shun–Kokona — wanted closeness cannot be supplied by assigning more care",
+        "sha256": "990483f515a9d924ea1a09996cc7a53c3cc45a2d01310d5bb9aa6f5c8bf1b0e8"
+      },
+      {
+        "saved_line": 27,
+        "complete_saved_text": "## 1. Core thesis: sisterly attachment and professional recognition have different costs",
+        "sha256": "c9c0dd3b5b18cdc255ab2ef5b5aa145e3d4f851d1d72f7c85e97c6507221cd76"
+      },
+      {
+        "saved_line": 29,
+        "complete_saved_text": "Kokona names an unusually precise contradiction: she became an instructor partly to be near a once more available sister, but now both are busier. Teaching can be chosen, affectionate and worthwhile while failing to provide the company that helped motivate it. Shun's care is real, as are her fatigue, private pleasures and student wishes. Neither sister is adequately described as the other's dependent or labor resource. Their best positive ends arise when someone listens, asks or permits a particular arrangement; their contrary cases arise when authority, assumed understanding or a protective intention replaces consultation. [BA:event:859:013:u0027–0053; A09L135–138; A01L279–293.]",
+        "sha256": "797d9f00f080659c37542b6454d17b322803ea08dafef5be430f0431ea10b9aa"
+      },
+      {
+        "saved_line": 31,
+        "complete_saved_text": "The two directions remain distinct. Shun expresses pride, fears being disliked, supports Kokona's refusal of dangerous work and requests inclusion in her outing. She also exposes a private worry, threatens unspecified education, shares a misleading cover and transfers supervision. Kokona wants professional recognition, family proximity, tastes, privacy and chosen company; she gives reported advice, fabricates unseen contents under secrecy pressure, fears anger and grants a specific exception. Her answers prove neither global obedience nor absence of affection. Actual return, banquet and agreed walking matter alongside persistent rumor, future apologies and unfinished child retrieval. [10011E005; G2601–2602;805004/008–009;826013;859006–007/013–014.]",
+        "sha256": "8025b7f6bcbbeef464f1b1055386d5c4628659a81e1283c106856dd388a4a4bc"
+      },
+      {
+        "saved_line": 33,
+        "complete_saved_text": "The relation is a negotiated but incomplete one between two students who teach. Becoming colleagues does not automatically secure equal standing or time together. Kokona's ability to refuse and grant exceptions is decisive; Shun's right to want care is equally substantive. An enjoyable later encounter shows another arrangement is possible without certifying every earlier method or the institution's future. This directed home is separate from Meihua's labor/time institution, the three named children's duty, Shun10144's written section and individual character monographs.",
+        "sha256": "ecc17f6d0f8ec6be1257de47ec1129b7272d43699c958470c452d62575a1108f"
+      },
+      {
+        "saved_line": 35,
+        "complete_saved_text": "## 2. Local development: return and chosen inclusion do not produce a universal maturity ladder",
+        "sha256": "f8b83c0d7e1ad7e87af115c339fe9ab0f2b9982e3b3b5872f621fd8628ba1876"
+      },
+      {
+        "saved_line": 37,
+        "complete_saved_text": "The private pools supply situated premises, not a whole sister biography. Shun10011E005 reports Kokona's food/age advice and worries about intention and possible dislike; she wants younger understanding and student attention before returning to work. The encounter differs from its later health-related message afterword. Kokona's wholeMomo100500060 includes an absent-Shun hypothesis while seeking company; that does not establish an independently witnessed period of abandonment. Neither pool dates every mutual conversation against the public events or variants. [A01L281/291; A02L50–52/75; Shun10011E005/wholeMM100110180.]",
+        "sha256": "052c0d86a07eb71cf14e6bbeb9e2c36f593e2d9deb2f1b60de29834678b9e3c9"
+      },
+      {
+        "saved_line": 39,
+        "complete_saved_text": "805 supplies stronger local ends. Missed rum-raisin ice cream, fatigue and changed form lead to a disguise that frees Shun while retaining professional knowledge. Kokona's nonrecognition brings relief and hurt. Shun reveals her height/food worries and later concedes excess; park comfort does not make disclosure harmless. Failed coercive recovery gives way to listening to children and Kokona, chosen return, represented restoration, actual apology and qualified forgiveness. These are more than promises; staffing, damage compensation, medical safety and lasting trust remain unprinted. Restored Shun still asks for indulgence, defeating the idea that duty eliminates her need to receive care. [805002–004/007–009; A04L71–92.]",
+        "sha256": "9e6e713499a62bd5b18c8aecc9a8695cc74cc902979db72e016cf01ef6f6fed4"
+      },
+      {
+        "saved_line": 41,
+        "complete_saved_text": "GROUP260 stops a rumor source while misunderstanding persists.826 completes a banquet but retains future trap-related apologies and a childcare protest.859 advances a deferred company wish through Kokona's expressly permitted inclusion of Shun, actual walking and hand-held swinging, before returning to failed delegation and uncompleted retrieval. These separately grounded local sequences cannot become inevitable reconciliation stages through release order or costumes. [G2602u0058–0059;826010u0043–0044/013u0018–0022;859007u0059–0074/013u0044–0053/014u0009–0030.]",
+        "sha256": "0f96265c082bccb0d0f237a24351530d6f7ea08443a9e7d8ede997af88f245e5"
+      },
+      {
+        "saved_line": 43,
+        "complete_saved_text": "## 3. Shun → Kokona: recognition and protection coexist with assumed access",
+        "sha256": "e56fd49e7bae1ce5d3be4f1417fd9089e379fd23117fa2a6c08cec19d951b29f"
+      },
+      {
+        "saved_line": 45,
+        "complete_saved_text": "Shun's pride is supported as her statement, not a declaration of Kokona's thoughts. In839 her admonition stops the children's mustache-pulling and the mustache is returned; her account of advancement and pride stands beside Kokona's address struggle and embarrassment. Effective elder intervention does not demonstrate durable respect for the younger instructor. Private10011E005's uncertainty likewise prevents Shun's professional confidence from becoming complete interpersonal knowledge. [839005u0037–0110; A07L104;10011E005.]",
+        "sha256": "1e6af380460b9be907d303b7db746ea2775f9fc2b8ce5fcd1c28b932879fed46"
+      },
+      {
+        "saved_line": 47,
+        "complete_saved_text": "Protection is precise in859: Rumi proposes Kokona undercover, Kokona dislikes pretending allegiance, and Shun as family/guardian with Sensei opposes exposing her to danger. The plan changes; refusal works. Yet the disguised plan leaves Kokona unconsulted. She notices the absence, receives a cover story and demands consultation plus ice cream. Calling her instructor reassures her without paying that informational debt. Supporting refusal and withholding a plan are different methods, both present here. [859006u0144–0154/007u0019–0043; A09L111–113.]",
+        "sha256": "67e8ea325b8de7c6efc14505c96581bf4bfa31a402dc20b63ca2ad594704b050"
+      },
+      {
+        "saved_line": 49,
+        "complete_saved_text": "805's disclosure makes private worries available to others; G2602's threat enforces a legitimate secrecy grievance without printing the education's method;826 shifts supervision to Kokona, whose objection remains. These are not interchangeable harms. The unspecified GROUP threat cannot be rewritten as859's enacted punishment of other recipients. Shun's fatigue and beauty wishes explain an interest in time and reputation without authorizing every disclosure or labor transfer. [805004u0043–0062;G2602u0046–0059;826013u0018–0022.]",
+        "sha256": "a66fc6031248e3bab485104b65175887bf43504fb8646468c8623a5291a00826"
+      },
+      {
+        "saved_line": 51,
+        "complete_saved_text": "Shun later asks to join Kokona's promised night company; Kokona allows a special exception. The three walk with her between them. Request and answer give this inclusion a different shape from imposed work or secret planning. Shun's student right to a secret and her own company wish remain personal, not an exclusive entitlement to the adult's or her sister's time. [859009u0076–0081/0106–0141;013u0044–0053.]",
+        "sha256": "554eaea4a134dc2648626696dff1935f88c5c83de9fa6b99510e03e86b8ca493"
+      },
+      {
+        "saved_line": 53,
+        "complete_saved_text": "## 4. Kokona → Shun: proximity, fear, refusal and forgiveness are separate answers",
+        "sha256": "8a300c0dc6c855a593f91e3a25ebb5740b23f675b0605082be8bdc07768e4eda"
+      },
+      {
+        "saved_line": 55,
+        "complete_saved_text": "Teaching cannot consume Kokona's reasons for choosing it. Her859 account names wanted nearness and disappointment that both are busier. Holiday company with sister and Sensei has independent value. Professional recognition matters too: being a lady or instructor is not interchangeable with little-sister address and cannot compel adult tastes. Coffee distress, walking pleasure, picture books and food preferences show exploration and answers to others without needing an emergency to establish significance. [859013u0027–0041;10050E002/003; A02L50–54.]",
+        "sha256": "97f1156b43a529dc54298d7ff534d5a3dd813547e43fae4ea56f5f51b6cd46ea"
+      },
+      {
+        "saved_line": 57,
+        "complete_saved_text": "Concern coexists with fear and fallibility. Shun's interpretation of food advice is mediated testimony, not a full direct Kokona–Shun conversation or proof of hostility. G2601 gives a direct contrary act: Kokona accepts confidentiality, has not inspected the bag, fabricates a frightening description and imposes further secrecy. Rumi's admitted scare and Sensei's alternative guesses contribute, but Kokona's repetition remains her own. Fear of Shun's threatened education is printed; neither fear nor good intention makes the fabricated object true. [10011E005;G2601s1u0023–0048/s2choice005/s3u0013–0034;G2602u0042–0057.]",
+        "sha256": "0058a4965181abeecf0af8c0810a528a58f85152017436d86efff3bc1dfe9515"
+      },
+      {
+        "saved_line": 59,
+        "complete_saved_text": "In805 her hurt and distress contribute to Shun's later listening and return. Qualified forgiveness is a positive response, not total resentment or total trust.859 lets her welcome お姉ちゃん in one play context while objecting to teasing and seeking company on her terms. Granting an exception does not make prior objections unserious. Recalled fear of Shun's anger persists into a pleasurable holiday. [805008u0047–0081;859007u0050–0074/013u0027–0053.]",
+        "sha256": "f9a2471966d975fb8f3fa74a44d5d002f2cf13643aecdc92e3d53fbccecac733"
+      },
+      {
+        "saved_line": 61,
+        "complete_saved_text": "The source distinguishes her two-person wish, its deferral, the later night-date context, Shun's request and a special exception before actual walking and swinging. That generous answer is still a scoped choice. It cannot be carried backward as consent to the trap, cover, disclosure or supervision change, and does not supply universal adult availability. [859007u0059–0074/013u0044–0053; A09L113/138.]",
+        "sha256": "b60ac8be478c59ae9f30a0284d2d34180a796077ace36d70827a5e288da74e70"
+      },
+      {
+        "saved_line": 63,
+        "complete_saved_text": "## 5. Professional relation: shared vocation does not settle authority or time",
+        "sha256": "5c743f8fe4c0d4394190ed1239faed84a86ff6a53e545cf6286922e24588b664"
+      },
+      {
+        "saved_line": 65,
+        "complete_saved_text": "The Garden joins family and work, each with distinct witnesses. Shun performs fruit preparation and puppet teaching; Kokona has grading, address corrections and a chosen instructor role.826 supplies completed grading, fatigue and fear of rebuke for overly difficult questions: her expectation, not a printed rebuke in that scene.839 gives actual intervention;859 records Shun's fallible theory of growing autonomy, fear of transmitting mistakes and chosen care. Teaching theory or a successful lesson is not a learning assessment. [10011E002/003;826008u0002–0012;839005;859009u0027–0071.]",
+        "sha256": "a088c6286159623c7bd83dfb1f2cf157c4628f8e1c2cb0a38d78e02ab7d500a0"
+      },
+      {
+        "saved_line": 67,
+        "complete_saved_text": "826 makes labor transfer clear: both oversee conduct and thanks/teeth routines, then Shun's adult business leaves Kokona supervision. Kokona protests and threatens future ice-cream consumption, not actual eating. The banquet is good and real while its unequal work remains.859's holiday also depends on wider management imposed on Kanae despite objection; later collapse and disorder prevent claiming solved staffing or equal rest for all. Sister time cannot be extracted from other recipients' costs as if they disappear. [826013u0018–0022;859003u0162–0183/014u0009–0030; A06L145; A09L93/144.]",
+        "sha256": "0e6a80ca955e0de2947828b9fa3318d7e874dbcfa8a65d11c5378cae3a33cd76"
+      },
+      {
+        "saved_line": 69,
+        "complete_saved_text": "FinalC002E007 supplies finite coordination: Shun issues Plum Blossom defense and tells Kokona to guide civilian evacuation; Kokona accepts. Shun is issuing, not receiving a defense order; acceptance is not completed evacuation. This source establishes neither daily equality nor permanent command consent. Crisis adds responsibility without making ordinary leisure valuable only as preparation for it. The distinct Meihua institution and three-child duty remain required work. [BA:main:V100:C002:E007:s1u1–5; A10L20; corrected Shun V2.]",
+        "sha256": "7e0e956d025d2879da68a7a5c377740a6559dde393d2d242b76a035aba72031a"
+      },
+      {
+        "saved_line": 71,
+        "complete_saved_text": "## 6. Ordinary wants: private sources broaden each sister without inventing pair scenes",
+        "sha256": "cf51d2de7500c7a4b84672106e4aab2a646c41f4b29ca964fe5939e79b424820"
+      },
+      {
+        "saved_line": 73,
+        "complete_saved_text": "Shun's tea, sweets, clothes, skincare, hairpin, play and wanted reciprocal attention are positive ends. Kokona's walking, picture books, Garden curiosity, sweetness, recognition and birthday/candy wishes have equal standing. Their private pools retain different tastes and refusals: Kokona's coffee test causes distress; Shun's small-body parfait expectation fails, actual strawberry exchange follows, and the tent excludes adult entry despite invitation. These scenes contextualize what each may want from company or autonomy. They do not turn a mentioned or reported sister into an attending speaker. [A01L281–293; A02L50–54/67; A03L105–111;10025E002/006.]",
+        "sha256": "23848325965bd428e4d74f56692ba491a778f521c5327b78b297015e4c9d31d7"
+      },
+      {
+        "saved_line": 75,
+        "complete_saved_text": "The gift encounters deliberately differ.810071 Kokona insists the adult eat later and alone at Schale and returns to insist on the promise; no later consumption or feedback is printed.810029 Shun likes a rum-raisin-like aroma without knowing the alcohol ingredient, agrees to remainder transfer and actually takes a short Schale nap before return. Narrated scent is not measured intoxication or medical treatment. These are different dyads and ends, not sister-to-sister gifts. Giving and receipt can require a boundary or rest without becoming less significant than public work. [810071s1u0023–0032;029s1u0012–0025; A11L41–45; A12L44–45.]",
+        "sha256": "41509e1ee4362e2fc854e75151332db254eb6ad76fb3b055df99fd006b9db3f5"
+      },
+      {
+        "saved_line": 77,
+        "complete_saved_text": "859 fulfills more than a useful break: wanted mature recognition, shared river play, Shun's enjoyed compliment, requested night company, actual swinging and welcomed fireworks have their own recipients and endpoints. Later failure does not cancel their achievement. Promised ice cream, tomorrow's rafting/cave/boat and future company are not thereby fulfilled. Genuine shared joy can coexist with unfinished obligations. [859004–005/007/009/013–014; A09L96–104/113/124/136–144.]",
+        "sha256": "a9ecce1d8bb8f74ca1c5ee29726b351fb907d076dcd453bac89b7b46f477579a"
+      },
+      {
+        "saved_line": 79,
+        "complete_saved_text": "## 7. Crisis and repair: successful listening differs from successful coercion",
+        "sha256": "bf3a111b8cc255262c1fc3645fc3a40f3eeeaabd356ab1eecfeb2fe92eb93cd3"
+      },
+      {
+        "saved_line": 81,
+        "complete_saved_text": "805 tests both sisters as recipients and agents. Shun refuses unknown food using the adult's own boundary, evades devices, objects to throwing and opposes deceptive restraint. Saya's uncertain claims and helper reports are not clinical verification. Eventual beneficial return cannot change those methods into listened consent. Children's wishes and Kokona's needs contribute to another approach; Shun chooses return after listening. Represented restoration, actual apology and qualified forgiveness therefore coexist with a serious contrary account of the preceding recovery method. [805007u0015–0019/0039–0086;008u0047–0081; A04L76–92.]",
+        "sha256": "da3fc5cfdc388d16e88c19c76f32fb2839cfe2ad891472c347036c36b87b2a44"
+      },
+      {
+        "saved_line": 83,
+        "complete_saved_text": "826 gives a collective repair debt neither sister created alone. The adult-proposed trap and Rumi/Reijo's admitted secret use of Kokona lead to effective capture, while apologies to Kokona and Shun remain future. Banquet attendance is not receipt of that apology, and Kokona's work there is not informed agreement to the trap. Proper attribution prevents assigning every surrounding trust violation to Shun or calling public success complete repair of the sisters' claims. [826009u0002/010u0043–0044/013; A06L117/145–149.]",
+        "sha256": "97dd55cad33aaf9ebe4851eebd9e5c942ce04050f6e5db7cb387fdd35ac83aed"
+      },
+      {
+        "saved_line": 85,
+        "complete_saved_text": "859 has strong positive and adverse child-protection evidence. Kokona refuses infiltration and the adults change plans. Later the gang rejects her rebuke; Shun physically disciplines them, pain/crying/apologetic begging follow, and Suiko promises revenge before escape and further threat. Kokona recalls fear of Shun's anger. Compliance is not reliable reform or proof every caring method respects boundaries. Her happy later walk remains valuable without demonstrating that the children changed, she is no longer afraid or delegated work is solved. [859006u0144–0154/012u0038–0085/013u0001–0053/014; A09L111/131–144.]",
+        "sha256": "c710e711aa5f1e5025f5d75aabea8e12c6652ed0b428fee7194d1b4cfdf261c4"
+      },
+      {
+        "saved_line": 87,
+        "complete_saved_text": "Repair consequently has different achieved levels: rumor-source interruption without repaired reception; restoration and qualified forgiveness without staffing/trust completion; banquet without trap apologies; changed infiltration plan with consultation debt; permitted company without permanent time equality. This preserves goods rather than treating incompleteness as failure to achieve anything. It also keeps wished or announced work unfinished.",
+        "sha256": "0adf42a68cb5734973f29a2dc73af69c36cd79f76131b612c9945e62a41a053f"
+      },
+      {
+        "saved_line": 89,
+        "complete_saved_text": "## 8. Sensei and other recipients: mediation helps and can participate in the cost",
+        "sha256": "dc56ce33aedca412e06e11e208a43f368062026c69efd7db5beb0dcbb8a3835b"
+      },
+      {
+        "saved_line": 91,
+        "complete_saved_text": "Sensei is not an external flawless solution. Listening helps805's return after his participation in opposed recovery methods. G260 supplies alternative gun/beauty guesses, Shun's explanation and disclosure of an imperfectly known source; he is neither an omniscient original accuser nor irrelevant.859 has him honor Kokona's refusal with Shun, supply the cover and continue teasing after address objections. Later welcomed company can coexist with evaluation of those earlier acts. Neither total adult competence nor total harm fits the relation. [A04L88–104; A05L73–89; A09L111–113/136–138.]",
+        "sha256": "da5258d6b3005c638c996a325e88bdb620d9db5487fe93f9a9ad1602d14b2faf"
+      },
+      {
+        "saved_line": 93,
+        "complete_saved_text": "Rumi, Saya, merchants, children and coworkers retain independent directions. Customer secrecy is defended through Rumi's admitted scare; meals and wanted cooking are her own. Saya's appetite, uncertain remedy claims, interventions and wishes are not merely sister-plot machinery. Merchants choose defense and enjoy appreciation. Kanae protests imposed duty and collapses on return. Each answer narrows what the sisters or adult can claim as complete benefit. [G2601;805;826;859003/006–014.]",
+        "sha256": "4e41f3ded71b492cde481f3778df960bd7513cfca1b9e83950c34dd5472bfe5d"
+      },
+      {
+        "saved_line": 95,
+        "complete_saved_text": "Children are not one agreeing collective.805's ordinary requests, damage and actual apologies differ from Suiko/Nagomi/Youko's tastes, limited kindness, violent leverage, painful punishment and retaliation. Garden children leaving despite instructions produce an unfinished retrieval task. Their source-local roles do not grant universal permission or create global registered people. Meihua's separate three-child duty owns the full institutional question; these responses remain necessary contrary evidence here. [805001/008–009;859006–014; existing partition.]",
+        "sha256": "16f91ffbab94f0f1227718b192ecbed35bf0889479db2c7b2f18b5baf222fdbe"
+      },
+      {
+        "saved_line": 97,
+        "complete_saved_text": "## 9. Written address, actor and form: negotiated names are not performed voice",
+        "sha256": "27ef3fda5dfef6bbb95be26e1aae50930818503904c63809df7451982a1dc35a"
+      },
+      {
+        "saved_line": 99,
+        "complete_saved_text": "シュン姉さん, ココナちゃん, ココナ教官, レディー and お姉ちゃん do different work. Kokona's instructor/lady demands and play-context exceptions negotiate treatment. Shun's student right to a secret prevents office from consuming private identity. A wanted word can be an actual local answer without durable respect:10050E002 and859's resumed teasing retain regression. Written politeness and diminutives do not establish pitch, acting, audibility or acoustic consistency. [A02L50/60–69; A04L100; A09L96/113/124/136–160.]",
+        "sha256": "9f4e7fba23e860691526aecd61254624bae6dc9b6bd8f6e514e0cbf202e63158"
+      },
+      {
+        "saved_line": 101,
+        "complete_saved_text": "Reported advice, inner hypotheses, message alternatives and written wishes retain their forces. Shun's interpretation of advice is not Kokona's entire direct conversation; an absent-Shun hypothesis is not a witnessed absence. Whole threads preserve prefaces, continuations and tails. Generic children, guides, staff, collectives and PA channels stay local. Whole-object joins cannot repair blank unit variants or turn actorless timed text into heard voice. Adult alternatives do not become cumulative answers in one enacted history. [A01L281–293; A02L56–75; A03L93–123.]",
+        "sha256": "d6eb627bd977a6f9536fe2b9219577edca0b227d0725938f1554e190b05b377c"
+      },
+      {
+        "saved_line": 103,
+        "complete_saved_text": "805's change, cover, briefing and restoration support a bounded association of Shuerin presentation with Shun.859 supplies her explanation, with elixir safety/reversal marked hearsay. These bridges do not authenticate every body/person/variant chain, biological age or medical efficacy. Separate10144 is already a substantial Shun-character duty, not a new sister scene or second parent here.840's disguised outing contextualizes Shun's own taste without supplying Kokona attendance or an interchangeable transformation date. [A04L96–100; A08 qualified complete context; A09L120/149; corrected Shun§9.2.]",
+        "sha256": "44c32eed54dd8b60ad4d8bbf733aaed043521e73959609e209b6baa2a91c32df"
+      },
+      {
+        "saved_line": 105,
+        "complete_saved_text": "## 10. Seven serious rival readings",
+        "sha256": "5e9b3b9b7abc7215f880c8cb46b64dd2eeebf7ef0e76ca88a12f5b76ee1e5e0c"
+      },
+      {
+        "saved_line": 107,
+        "complete_saved_text": "**1. Elder competence makes obedience the natural solution.** Teaching, actual839 intervention and Kokona's accepted Final order support experienced situated leadership. Yet she refuses danger, demands consultation, protests work asymmetry and grants a defined exception. These answers are meaningful, not ingratitude. Leadership cannot establish unlimited authority over privacy or time. The warranted relation retains useful coordinated work beside contested access and younger choice. [839005;FinalC002E007;826013;859006–007/013.]",
+        "sha256": "f0e475c7d0291fafa5821a047d9a15fa461f202061831af139226561ffce1247"
+      },
+      {
+        "saved_line": 109,
+        "complete_saved_text": "**2. Kokona is only afraid or resentful.** Threatened education, recalled anger, disclosure and busier life provide adverse evidence. Wanted proximity, concern, qualified forgiveness and permitted company resist total fear. Affection and fear can coexist without either becoming false or the whole motive. Shun's fear of being disliked is not Kokona's direct judgment. This reading succeeds where fear is printed and fails as a complete relation theory. [10011E005;G2602;805004/008;859013.]",
+        "sha256": "9542025154c69c7181693b6bb5748a47ffb16f68818c6f8fc1217ec1710081bb"
+      },
+      {
+        "saved_line": 111,
+        "complete_saved_text": "**3. Shared teaching fulfills wanted closeness.** Kokona chose instruction partly for nearness; both do meaningful work. Her explicit account that they are busier contradicts automatic fulfillment.826's supervision and859's return show continuing labor. Agreed walking realizes company at one endpoint, not institutionally guaranteed daily time. A vocation can retain intrinsic value while failing to satisfy every reason for choosing it. [859013u0027–0053/014;826013.]",
+        "sha256": "4bd623608df9a99818787f807c2e511513e545e7e2adba1f0b4305e292f3a017"
+      },
+      {
+        "saved_line": 113,
+        "complete_saved_text": "**4. Changed form reveals Shun's purely selfish true self.** Escape, excuses, disclosure and relief supply real grounds. Retained knowledge, chosen return, continued adult care wishes, protection of Kokona's refusal and actual teaching resist total selfishness. Beneficial motives cannot erase harm either. Form exposes a need and a method problem, without a hidden-personality diagnosis or medicine mechanism. Rest and sweets matter before their usefulness for resumed care. [805002–009;859006–009; A04L71–104.]",
+        "sha256": "de11129f96fa2ffd6681f6120120ba30abbdc0a449bcd5a329a81ebeaada9ceb"
+      },
+      {
+        "saved_line": 115,
+        "complete_saved_text": "**5. Apology and holiday settle trust.** Restoration, apology/qualified forgiveness, banquet and agreed walking are achieved positive ends. Persistent rumor, future trap apologies, deceptive cover, work protest, fear and unfinished retrieval oppose durable trust. Those tails do not make pleasure an empty gesture; they locate its scope. Repair is particular and partial rather than universally absent or finished. [G2602;805008–009;826010/013;859007/013–014.]",
+        "sha256": "ad5a1ffe06c86e77d6b1754e77d67d0ca38ceff74db2fbc29804155518047bd2"
+      },
+      {
+        "saved_line": 117,
+        "complete_saved_text": "**6. Sensei alone reconciles them.** Listening, rejected exposure, company and helpful arrangements give this a premise. Opposed805 methods, GROUP guesses, cover and teasing limit it. Shun chooses return; Kokona grants inclusion; children state needs; Rumi/Saya/merchants act. Neither solitary adult authorship nor an adult who only harms explains the ends and costs. Actual helpful contributions remain separate from universal competence. [805007–009;G2601–2602;859006–014.]",
+        "sha256": "41846c325ce96da906f8444766f11eadcd28d0946ea99f83451b01524db77a1e"
+      },
+      {
+        "saved_line": 119,
+        "complete_saved_text": "**7. Ordinary scenes must prove educational or crisis success.** Duties and pressure contextualize company, but tea, beauty, coffee curiosity, sweets, picture books, naming and play are already literary facts or wishes. Some disappoint or remain future, others are enjoyed. They need neither rescue payoff nor invented fulfillment. Excluding them would reduce the sisters to work hierarchy and lose Kokona's explicit wanted nearness. Their analytical limits are source force, recipient and outcome, not stakes. [A01L281–293; A02L50–54; A03L105–111;859013.]",
+        "sha256": "8d5cc0fe2f8cf32b68cf7bba2b46a2a72a50ffe6f4bbac5d7f3e838134159e8e"
+      },
+      {
+        "saved_line": 121,
+        "complete_saved_text": "## 11. Source route, original open gaps and completion boundary",
+        "sha256": "30aa41318c632d2766c256b6ef4c34685ea1b0f9eef11e368c158353b3c21fef"
+      },
+      {
+        "saved_line": 123,
+        "complete_saved_text": "A01's current Cycle008 adoption governs historical noncurrent/UNADMITTED wrappers. Adequate private authority represents36 Shun and9 Kokona responsibilities, with15+4 whole-message carriers and6+1 written pools: previously personally received analytical meanings, not45 new primary readings. Twelve bound normal routes and frozen character dependencies preserve actual scopes. Fresh consequential reception is separate from prior complete public/group/checkpoint custody. No MAIN arc is replayed, unbound index read or helper rerun. A01 is scoped, not freshly whole560; copying is not prose reception.",
+        "sha256": "ea2154564742684f2be74b24e975952ad8cf6291f7293ad66ea4db08bed08f94"
+      },
+      {
+        "saved_line": 125,
+        "complete_saved_text": "| Stable original gap | Relationship contribution and remaining warrant | Disposition |",
+        "sha256": "ae7e0bacc066da9e1987b292cdfee693618ef4e56a9ad9203e1fc66db6bbcd40"
+      },
+      {
+        "saved_line": 126,
+        "complete_saved_text": "| --- | --- | --- |",
+        "sha256": "b8ec48555607bc6202126c5db642f11cf898151fb6f2aa19d2e28aea19d7e532"
+      },
+      {
+        "saved_line": 127,
+        "complete_saved_text": "| G01 Ordinary and private breadth | Time, tea, skincare, tastes, play, fear, recognition and wished care are intrinsic. Distinct private meanings do not supply every shared encounter or universal psychology. | OPEN |",
+        "sha256": "4a7d744abc40e1b3c150057d77d1c7393595d7c8cc5129ff4a436a4fb8222424"
+      },
+      {
+        "saved_line": 128,
+        "complete_saved_text": "| G02 Yuuka council/club decision transfer | Negotiated duty/time allow comparison; no Yuuka state-transfer decision or institution is completed. | OPEN |",
+        "sha256": "f7d37df0547812a1db7ad37c6b4de5d1c4d7c5eecffac45430b8bffe429523c9"
+      },
+      {
+        "saved_line": 129,
+        "complete_saved_text": "| G03 Serika service, peer and reciprocity range | Work, gifts, company and asymmetric care give contrast, not Serika's separate recipient evidence. | OPEN |",
+        "sha256": "db35f0e3396602342b5e0ae5d3adce66f1ad2ba336336141c7d114608c33a0ad"
+      },
+      {
+        "saved_line": 130,
+        "complete_saved_text": "| G04 Hina crisis causality, accountability and ordinary contrast | Final coordination and discipline stay local; Hina causality/redress and ordinary range remain separate. | OPEN |",
+        "sha256": "392d99065ed1786367c9a82c9593e676d5c379e6dda8cac894906c7e4b6691db"
+      },
+      {
+        "saved_line": 131,
+        "complete_saved_text": "| G05 Arius and PS68 ordinary/aftermath transfer | Pleasure and partial repair here do not date or complete Arius/PS68 aftermath/restitution. | OPEN |",
+        "sha256": "b790a7076082321a8607cd621b954e015f94db0ff23239ca2bc719e236d1e6b8"
+      },
+      {
+        "saved_line": 132,
+        "complete_saved_text": "| G06 Cross-school ordinary repertoire | Visitors, merchants and children's wants broaden local life; local roles do not establish all-school norms or cast coverage. | OPEN |",
+        "sha256": "7fcc3636b954514e772bdfcf6e8a323b886cc89b55295f65f2d25e10161c4109"
+      },
+      {
+        "saved_line": 133,
+        "complete_saved_text": "| G07 Story-world chronology | Event-local return, rumor and promised-to-permitted outing sequences are supported. Private release/Favor/variant order does not establish inter-event/MAIN dates. | OPEN |",
+        "sha256": "dc77c959c66be3fa0b2e5d292bb7d9c42b1bf07e5c802ec6d6b9c1ce1f520c4e"
+      },
+      {
+        "saved_line": 134,
+        "complete_saved_text": "| G08 Event naming and repeat contexts | Exact805/826/839/840/859/G260/810 functions remain; rerun/edition/UI title wording cannot multiply enacted sister encounters. | OPEN |",
+        "sha256": "98d304eae1f2371fe8cb62ed4a171c8ef5b6a560706a179c502300dbf84cda05"
+      },
+      {
+        "saved_line": 135,
+        "complete_saved_text": "| G09 Written speaker/choice attribution | Reports, alternatives, inward/timed forms, blank variants and seams retain force; no silent exact-turn rekeying or cumulative reply history. | OPEN |",
+        "sha256": "874119076ce7c1d243f64a2d8f8ce682020518edb5f57442474e395df06b1b54"
+      },
+      {
+        "saved_line": 136,
+        "complete_saved_text": "| G10 Performed voice | Written professional/sibling address and refusal are evidence; acting, pitch, audio, pixels and runtime branch delivery remain unreceived. | OPEN |",
+        "sha256": "93437d7692134e9163cf0d21d06fd473cac46cdc05041b87f9d7e4760d0aed66"
+      },
+      {
+        "saved_line": 137,
+        "complete_saved_text": "| G11 Hoshino's Yume record and office states | Sister-duty comparison supplies no direct Hoshino–Yume provenance, office state or grief resolution. | OPEN |",
+        "sha256": "baff0fd26a00bf46cca5e39b74d2f8be1929dffef857eeae984bc6680af138f5"
+      },
+      {
+        "saved_line": 138,
+        "complete_saved_text": "| G12 Counterpart, system and variant identity | Literal SHUN/CH0137 and local Shuerin bridges keep distinct conditions; no universal age/body/person chain, new alias or variant parent is authenticated. | OPEN |",
+        "sha256": "224ee1f529a5b4c926b43493a326f0469af4c1bd58748c5798b13eb87baddbd8"
+      },
+      {
+        "saved_line": 139,
+        "complete_saved_text": "| G13 Office, contract, safety and technical outcomes | Order acceptance, care, return/apology and walks differ from evacuation completion, learning/safety proof, staffing/trust repair, medical efficacy or fulfilled compensation. | OPEN |",
+        "sha256": "1fc0a78e7d17dbf277b649e5bfe91db5f24d28ef307a32f932e8d53c435b34d7"
+      },
+      {
+        "saved_line": 140,
+        "complete_saved_text": "| G14 Unclassified/mode continuity | Only admitted adequate modes are used; UI address and local forms do not admit unclassified scenes or unseen continuity. | OPEN |",
+        "sha256": "9ddd73abd087fed67889b71a78d710d054843ff76a0b3864616a54525d565555"
+      },
+      {
+        "saved_line": 142,
+        "complete_saved_text": "No consequential ambiguity requires new primary recovery for these bounded claims. Final agency is corrected, and normal arguments resolve return, privacy, consultation and local ends. Durable trust, all-person consent, completed education, medicine safety, universal identity, later gifts, repaired staffing or a dated sister biography need their own missing warrants. Those limits permit complete literary argument without closing the sources' unfinished actions.",
+        "sha256": "523ee4e67af210efcabdae6bb74d76308cdb80d6368cada0302ea1bdb1577c11"
+      },
+      {
+        "saved_line": 144,
+        "complete_saved_text": "This is a substantial directed synthesis under one existing home, not copied character summaries, eligibility, model or selfacceptance. Both directions, seven tested rivals and fourteen claim-specific original OPEN effects are present. FullPhase3 remains355 packages/29 mandatory named duties/25 distinct parents, with separate institutions, children,10144, Sensei and registers required. ROOT owns independent receiving, adoption, repository persistence and counts; no new primary/native/raw/QA/AV/model/identity, publication, merge or milestone credit follows.",
+        "sha256": "c5c8a76a01f535ec2051fcf7e7762f9ce379ea0ea7279af27da64a9fbdfba285"
+      }
+    ],
+    "metadata_probe": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/SHUN_KOKONA_FROZEN_ALLOCATION_METADATA_PROBE_V1.json",
+      "bytes": 5186,
+      "lines": 96,
+      "sha256": "7c898aa5e713449dfc12fdbb9b0b3151a86bc3351b6b6d20ed56aab6e2ad6710"
+    },
+    "preserved_prior_frozen_payloads": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/BLUE_ARCHIVE_AYANE_CHARACTER_MONOGRAPH.md",
+        "bytes": 41706,
+        "lines": 251,
+        "sha256": "f7e00400711726fd5c820e4eb6a4648518fa20b088573da23bc2e617ed236bed"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/AYANE_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 69720,
+        "lines": 1450,
+        "sha256": "931a4a2738e9cd004f92393862b0ce8de53285948636e74aa6ed17cf7a8e5dd2"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/AYANE_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 9258,
+        "lines": 50,
+        "sha256": "4b4a4516bb33d1921e7120e1926c1c4ee9404c205b7c7ff9847182dee82d7003"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/AYANE_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 4229,
+        "lines": 67,
+        "sha256": "56d7db955f22bedad6dfe33acbb2b94b7075733396666ef6b1ae614c9b6445b4"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/BLUE_ARCHIVE_NONOMI_CHARACTER_MONOGRAPH.md",
+        "bytes": 43519,
+        "lines": 247,
+        "sha256": "bb97bead89b4e8b62fb801b2027b0ea699c92d09124103f548c51263a3f724a0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/NONOMI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 68234,
+        "lines": 1481,
+        "sha256": "fe513b5573023d621fb2a09cfbdbb853b2af7a0b8cab2d0108683aacb4b76536"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/NONOMI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 11242,
+        "lines": 59,
+        "sha256": "80ec11f1ebbdca381646404d55d1caf82ebac660a4760d7b060e43053c5cf18d"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/NONOMI_EXACT_PAIR_METADATA.json",
+        "bytes": 3991,
+        "lines": 90,
+        "sha256": "e58bf6f675da3c73296048de4c041981f9ebb84135898bcee9a8f97cc7c8d3ab"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/NONOMI_MM_PAIR_METADATA_PROBE.json",
+        "bytes": 1889,
+        "lines": 59,
+        "sha256": "3a8b6b507aedc82747612dd8562b858ff6a81374d9bd3f5935755ebb04bb356a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/BLUE_ARCHIVE_SERIKA_CHARACTER_MONOGRAPH.md",
+        "bytes": 51876,
+        "lines": 252,
+        "sha256": "59fe918d81000805b7211b579851c9a5d7db72f72ed55b29365bddfc15c4f185"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/SERIKA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 96649,
+        "lines": 1946,
+        "sha256": "a80bb92d777a5d7128b529f5dfae0eae7bba32abb162fb2c36d8e66c7b5718e5"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/SERIKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 10643,
+        "lines": 57,
+        "sha256": "f0c12f2dcce30dd6fbf44aaf8170990f21ae677187fb904f39d6396f3665701f"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/SERIKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 11949,
+        "lines": 167,
+        "sha256": "da77d7f2d3e103360742871182d1191184a85f4b947db44ec8e9921e981e1366"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/BLUE_ARCHIVE_HOSHINO_CHARACTER_MONOGRAPH.md",
+        "bytes": 52404,
+        "lines": 233,
+        "sha256": "391f67d25db0cfddce6930260dfe95d61de45511efaffd26fcfd045830fc194b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/HOSHINO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 115571,
+        "lines": 2502,
+        "sha256": "2748d7af6885e11994c38c5b848ed468b2b7cef020e3acc95437b9b50e342591"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/HOSHINO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 21721,
+        "lines": 82,
+        "sha256": "5524957bc8a988d2de6c3465c7690be555c04d2f47f14b2548849b3f467215be"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/HOSHINO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 2958,
+        "lines": 47,
+        "sha256": "7c6dcda486d9431cd037a9691763fcb5cdfbda0c6afe7ac2da6b971db99adf1b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/BLUE_ARCHIVE_SHIROKO_CHARACTER_MONOGRAPH.md",
+        "bytes": 48619,
+        "lines": 229,
+        "sha256": "4aed715309bdb3bb7581bd3ab77dbbfa6d853dbca10d0232bb46bfab659ced20"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SHIROKO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 139725,
+        "lines": 3099,
+        "sha256": "f5666436a1dbcf029c503c7138847bb2feadbe80c8382d51725621d02f9a7460"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SHIROKO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 17252,
+        "lines": 71,
+        "sha256": "8fe7fcb0683da5dc3ed2ee4aff05516e1b043d9f6a5995d28ab2eb4b5b6871f3"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SHIROKO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 5292,
+        "lines": 71,
+        "sha256": "22966ac882234f6a08d5f00f93f3735dbbb620c8dbe258f3e7b8b09a76c3b6ff"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/BLUE_ARCHIVE_SUBARU_CHARACTER_MONOGRAPH.md",
+        "bytes": 48646,
+        "lines": 234,
+        "sha256": "dd22db82ab67a6a39447a3a63ac58faad6d85ce211c3dd6cd47917891ad38b66"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SUBARU_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 47359,
+        "lines": 968,
+        "sha256": "b07db236e7932073836935763e6ccd94fbc2da4ab27b64ac4c96de09f861c8de"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SUBARU_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 9027,
+        "lines": 48,
+        "sha256": "7d578160976ed40aded7ba45a20e21bacc733b954e4c251303a3e612f25ff135"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SUBARU_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 2952,
+        "lines": 47,
+        "sha256": "3a28f8e35c69199394ac83a5cafd27faba50f853cf55c66e48ca09da879e1902"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/BLUE_ARCHIVE_ATSUKO_CHARACTER_MONOGRAPH.md",
+        "bytes": 52227,
+        "lines": 212,
+        "sha256": "cd713fbacf902b8930f6040de6ddb38175103397297dbcf5f68c74bddc11bad4"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/ATSUKO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 83614,
+        "lines": 1883,
+        "sha256": "4fe98d4df3f4f1a12677cdd6717d9f4ae4bb9678aa3e52ef1fd973962ca5e1be"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/ATSUKO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 8811,
+        "lines": 49,
+        "sha256": "f1d405fce4780261195bfbc91c8f083f5e536bf568e15cca02caa50f6ae1494b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/ATSUKO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3788,
+        "lines": 59,
+        "sha256": "0546d1f34b5d78fb15af3d0da196c4e0ca44e5467367d779765c52236fd20627"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/BLUE_ARCHIVE_HIYORI_CHARACTER_MONOGRAPH.md",
+        "bytes": 45124,
+        "lines": 222,
+        "sha256": "3ddebff28643eb6060c4afc5a3e61128aa8435cf013732583355d006a17a5d6a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/HIYORI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 85037,
+        "lines": 1895,
+        "sha256": "8e0e35e2ec7a7e555631cc592a6255b39a0d18e953d154d14ca17cd123c27b4c"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/HIYORI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 6933,
+        "lines": 42,
+        "sha256": "a93d6e5790692bb525dcbf3aad1149721cb830575bafbb829f49c48586f4d9fb"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/HIYORI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 4752,
+        "lines": 71,
+        "sha256": "59361761048f38c5c15d370b9a1a1f062fa549de3ddb8f2ba878aa2fdad9eaea"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/BLUE_ARCHIVE_MISAKI_CHARACTER_MONOGRAPH.md",
+        "bytes": 43400,
+        "lines": 208,
+        "sha256": "1b6745eab6d26b7d9c1682ec8e91c30439953b0f2c8d04d501796b5e1d11db1a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/MISAKI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 86048,
+        "lines": 1835,
+        "sha256": "09737f96b7c9854593f679b36df4955da55843da0e384a6e3fd82b1ee3bda248"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/MISAKI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 6701,
+        "lines": 42,
+        "sha256": "817613ed438a8c39c46e24431601a3291c8d3eb8356d9c112dfb9508445d5e06"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/MISAKI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 5710,
+        "lines": 83,
+        "sha256": "6ad087406f3e4c80b657e89acec978da22c50d579f894a5d09a8b74dd1fc732a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/BLUE_ARCHIVE_SAORI_CHARACTER_MONOGRAPH.md",
+        "bytes": 47772,
+        "lines": 216,
+        "sha256": "0b16efbad9f94c9478823ba02c4cab60ef36367a5ce2be9d3002900afeb9df65"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/SAORI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 88019,
+        "lines": 1899,
+        "sha256": "5117b604e16e65f94dc730eca16dca3a5c9cc5c631ea3a1e93770928f91501af"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/SAORI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 7485,
+        "lines": 44,
+        "sha256": "c23510cb951146e1287588b4e8cacc995055699074724b75b8c7323a78dfc827"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/SAORI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3828,
+        "lines": 59,
+        "sha256": "18d0acadc34bde20cf3d0904486329010b8acaa224ae78d3c89bee2835ae86dd"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/BLUE_ARCHIVE_ARU_CHARACTER_MONOGRAPH.md",
+        "bytes": 44503,
+        "lines": 187,
+        "sha256": "3554ef6992f49274f2a61a96e20de5cf0602defc8a7ac532e74cefc3f9db56a1"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/ARU_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 88146,
+        "lines": 1754,
+        "sha256": "a5846b7e002de5d99d096fb76354d0337f2f4df3fd5f16112220b74a7a174ff2"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/ARU_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 8128,
+        "lines": 49,
+        "sha256": "0cfa7786830ed1579829c4529bc2335ba1088719f3eeb1fa8fae0285a89e037f"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/ARU_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 2965,
+        "lines": 47,
+        "sha256": "c8919cbf916fcb621c1b44fbd01ad14a03de566274b175f26f353ad5be60bdc2"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/BLUE_ARCHIVE_HARUKA_CHARACTER_MONOGRAPH.md",
+        "bytes": 43114,
+        "lines": 181,
+        "sha256": "f306d79a8a33e536ccefb8aaa0acff2dbd250d6d7b886ed0d11a78ea7ef2766a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/HARUKA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 98755,
+        "lines": 1927,
+        "sha256": "54c51e81808c59e637d77f0475c5a4c9adf1969e91c33a0783e5098df873f102"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/HARUKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 8252,
+        "lines": 52,
+        "sha256": "928f82646bc696cff2286cb6b729025f87811ee64cf02ac78e96cdeec8305d44"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/HARUKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3645,
+        "lines": 49,
+        "sha256": "d677cbf4faa1c9aa12f2ec977f4a4d44e1ed2999839d33a0c400db2762e31358"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/BLUE_ARCHIVE_KAYOKO_CHARACTER_MONOGRAPH.md",
+        "bytes": 43395,
+        "lines": 181,
+        "sha256": "da38462b3841ed6e02d1ec2458749bc7e839ae0baa86822dd516c1042e0c6113"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/KAYOKO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 94382,
+        "lines": 1855,
+        "sha256": "6071a231bdcc29cd23b7911f8e61bb59d90f9c6435cf882bc90b0463f1f6fcb0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/KAYOKO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 8268,
+        "lines": 53,
+        "sha256": "313cfa5855a4526e806a92505d333155ba134816320c1ca38a596d6b29222778"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/KAYOKO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3551,
+        "lines": 49,
+        "sha256": "dcf1fae8e59fe3355a745fc2ad92b16fe087e86a281e73591b81786bd0de6819"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/BLUE_ARCHIVE_MUTSUKI_CHARACTER_MONOGRAPH.md",
+        "bytes": 43040,
+        "lines": 197,
+        "sha256": "017a6b4219469fcc9eb42ecd96b7a2d3eda3cd6167267bf59d1782eda7cf6ef2"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/MUTSUKI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 87955,
+        "lines": 1756,
+        "sha256": "0865cf7ace827c75df8bc72c0d0eaa02c362d18c2b00ff6066421f024134bea1"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/MUTSUKI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 7508,
+        "lines": 48,
+        "sha256": "6731483aad2e06f705562708c37fe40e8e9deaaade1c9355cea4f070e1aedcab"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/MUTSUKI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 2994,
+        "lines": 47,
+        "sha256": "d72696fe648eec466e512644bd8fb192610e152c5619c4f64a5c18acf814cd2f"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/BLUE_ARCHIVE_FUUKA_CHARACTER_MONOGRAPH.md",
+        "bytes": 50489,
+        "lines": 203,
+        "sha256": "3d0cf8fc082ecbd03056032a92a39776ac822442b3f5e68ef4c635614008e7c7"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/FUUKA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 102610,
+        "lines": 2062,
+        "sha256": "c7e57f398dcaaadcf8a19a8dedd3c0592383ec54e65cb2fafa0d26981064d6ed"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/FUUKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 13006,
+        "lines": 63,
+        "sha256": "7619e16e69c1989dc43ae4529501e0da560c05a5e9b8eba02e903fd10941b6bb"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/FUUKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3592,
+        "lines": 49,
+        "sha256": "d9abb34f42ac0e8a19d48f744580a38328b51cde1e7c9feeab806cc76ce80aaf"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/BLUE_ARCHIVE_JURI_CHARACTER_MONOGRAPH.md",
+        "bytes": 43653,
+        "lines": 202,
+        "sha256": "039b43abb7e85dbaa9f3bd8b94020eb18bdee128938c594a55da332b23760d00"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/JURI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 110355,
+        "lines": 2152,
+        "sha256": "3c9352b1c7947b08a4a02e7c43a30981435464b9c074d90c5312443dac8c67da"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/JURI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 11269,
+        "lines": 58,
+        "sha256": "3bce21a5ec37526ab6436a09b3774b32a5e240cd49ceba76991f0263b39531f9"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/JURI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3587,
+        "lines": 49,
+        "sha256": "d0ab82704a54b5e1ff67a7f746b946b690f9027b269bfc00cf298163a4eedbf0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/BLUE_ARCHIVE_AKARI_CHARACTER_MONOGRAPH.md",
+        "bytes": 34594,
+        "lines": 178,
+        "sha256": "f88dfb7fe2f93eb7780d8c7094cdfc893a95c8f87f08f28b762dd05c17c3f5ec"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/AKARI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 130216,
+        "lines": 2545,
+        "sha256": "9210d7f096c0988d28b779b30588d2f3845cc6abb4a201e50aae47664eda9d52"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/AKARI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 11147,
+        "lines": 59,
+        "sha256": "cd8abb581c668210d26ddc1fb59a4747e62aa443ff11439ba153fc8ac27ffb71"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/AKARI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3561,
+        "lines": 49,
+        "sha256": "1417183c3ca25dfb9bfb6e1baf643ebb2f77f3008af53d2a5b18efa1b8ad900e"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/BLUE_ARCHIVE_HARUNA_CHARACTER_MONOGRAPH.md",
+        "bytes": 43359,
+        "lines": 205,
+        "sha256": "37cfee0f88ca2f73b33c9bd24d3f2a862ac6b1f90e399d3317b50f4b222ca0de"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/HARUNA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 138114,
+        "lines": 2605,
+        "sha256": "f5ba5d16a01afb2523f76f184b6146eebd15094779fa10e0bae11625d8aab358"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/HARUNA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 14332,
+        "lines": 68,
+        "sha256": "51aee0cda1694ac4376260028d2b9035b8185c4636c4ecdf525ada339c31b545"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/HARUNA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3620,
+        "lines": 49,
+        "sha256": "1896f8ada00f1739f43f91b0dd8bd9041443eb24912808a2c5574c4ceef158b1"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/BLUE_ARCHIVE_IZUMI_CHARACTER_MONOGRAPH.md",
+        "bytes": 37279,
+        "lines": 184,
+        "sha256": "e0f97fa48b11240afae2f44799b18a7765b67001c07742f24ee97b1f68772e2d"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/IZUMI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 169532,
+        "lines": 3272,
+        "sha256": "609b1213af43978e5868fac18b684b61920421a48f50386f7619c8e629055562"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/IZUMI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 13952,
+        "lines": 70,
+        "sha256": "f9c4a32728664895aaf7d5181a5fd2fd4331c94b4779c43f801f8e7f0c705832"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/IZUMI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3599,
+        "lines": 49,
+        "sha256": "77c4178c7c2cd6fbea65c9e2fd535c7bea6450457edf811cfab46cd3cd301c5c"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/BLUE_ARCHIVE_JUNKO_CHARACTER_MONOGRAPH.md",
+        "bytes": 35485,
+        "lines": 183,
+        "sha256": "9796e564fac086756d7d197184a93fbc915b1235df7eb671de29ce5ae082aca3"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/JUNKO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 142198,
+        "lines": 2739,
+        "sha256": "bdd71ba03a9edcf758f274d9c453e689fada823d5bc262ac0c476ee776dce638"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/JUNKO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 11470,
+        "lines": 59,
+        "sha256": "f944e0f2348c1ea2a35cd26dbef1d64239a7894d746750d1034fb2faa6b4f6da"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/JUNKO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3588,
+        "lines": 49,
+        "sha256": "5cf0b5e7f6c6b9814aa08166e500bda1c938853ddf28320904c42c2ad5e47bea"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/BLUE_ARCHIVE_KASUMI_CHARACTER_MONOGRAPH.md",
+        "bytes": 35162,
+        "lines": 157,
+        "sha256": "e8b4c36930bc32387ca6d09c8e5408c29a3e52b869cbcf68fa0c2c6523025882"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 110683,
+        "lines": 2010,
+        "sha256": "2f862f2edd4a993a64c81bfd6afcefc8b2f10216245d755c04fd34b8680ad463"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 14689,
+        "lines": 71,
+        "sha256": "8ba0b439cca23512a63705fbdf2eb46bc85e883db0b72e408a77d54ab6cfadf0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3619,
+        "lines": 49,
+        "sha256": "7c8fae4fbb4327ee15ef2d89d5cd2d1a35e8bba00f9d6db4c08cab2134aef088"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/BLUE_ARCHIVE_MEG_CHARACTER_MONOGRAPH.md",
+        "bytes": 35861,
+        "lines": 149,
+        "sha256": "584648200ff9047b545b952e9f0a926b0f8c97c234225fac9875936113c58398"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/MEG_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 102630,
+        "lines": 1910,
+        "sha256": "0f481ee4cb599e85f602abc394798269911e1f4e094a582831db5587a7ccc049"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/MEG_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 14517,
+        "lines": 79,
+        "sha256": "1dfefb2c3d3711493b3029d7336b6a328e67edb91c86e6b32f82deb4d2a797bb"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/MEG_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3593,
+        "lines": 49,
+        "sha256": "dad3fa55f3e2714851b55390ff5a03ba62dad8feb898a15e67893b76911a2c83"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/BLUE_ARCHIVE_MAKOTO_CHARACTER_MONOGRAPH.md",
+        "bytes": 35952,
+        "lines": 151,
+        "sha256": "cfb8431e2c7675045428a84129330f12f9f08d06be71468a639c238d7c3f762f"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/MAKOTO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 118680,
+        "lines": 2171,
+        "sha256": "fe3d76613e8f648f7c824b818888743968983b2b40c482ae9bd2735c72b71538"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/MAKOTO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 13058,
+        "lines": 77,
+        "sha256": "15cf745bf3bc68737174c2e179efe0f33384e4aa8dce032eb90516b49a35ac13"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/MAKOTO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3612,
+        "lines": 49,
+        "sha256": "46a8888c846e039ec38b67dd7ef6df6f1c8e0236ac62ff73c5bf7ccc3a5ac035"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/BLUE_ARCHIVE_IBUKI_CHARACTER_MONOGRAPH.md",
+        "bytes": 37111,
+        "lines": 147,
+        "sha256": "a32b180359ed1ba07758b3eebd2457ade3381a05c3552fe49541df8f8cd0f0dd"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/IBUKI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 114725,
+        "lines": 2100,
+        "sha256": "0510592fb1135f0bd13adc3636d74261219a1808945ed976ad10628a639dd106"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/IBUKI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 12040,
+        "lines": 75,
+        "sha256": "ee3837fd077245ae795bbf242daf8e5cb7fc3dde469db9ecd8b2ff123edb1703"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/IBUKI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3615,
+        "lines": 49,
+        "sha256": "7b5e048fe34ef93b3183da63cc09d705dc534d82d3d859e75ff49572b57803cb"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/BLUE_ARCHIVE_SATSUKI_CHARACTER_MONOGRAPH.md",
+        "bytes": 32750,
+        "lines": 147,
+        "sha256": "9e65760d16299cd5d3fe5513950b4e04733d8ba87dedd0debe188267a4e14a6b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/SATSUKI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 115340,
+        "lines": 2115,
+        "sha256": "934fd265928c0b5e1bcc889649e9c55cb8c9297364e4285ba0d6a2ef79c02a80"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/SATSUKI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 10350,
+        "lines": 69,
+        "sha256": "5a0bdb43408e562b215ab4a1a1b7936d6ce5d949fb0afe335740ab76461842fa"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/SATSUKI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3579,
+        "lines": 49,
+        "sha256": "731ed2bb06d66b66dfcdd176d79c5f0fa97541d0a31a077042d8b4cc776c1827"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/BLUE_ARCHIVE_IROHA_CHARACTER_MONOGRAPH.md",
+        "bytes": 35273,
+        "lines": 153,
+        "sha256": "1d057c903ba1803b4490f598527d6d56c6e8ec1bc280fbe854bc28a41ac03f51"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/IROHA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 139058,
+        "lines": 2400,
+        "sha256": "ab08b598b15a7965197dc19941b24e731c3caa8ded0a9346f9a8736f3b2736de"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/IROHA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 15791,
+        "lines": 88,
+        "sha256": "57db1901a0fb39af5a20a417dcfacc8c6dcaf2fe58d7fdbb1415571868cb8d0e"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/IROHA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3879,
+        "lines": 53,
+        "sha256": "db423cf59a999ed1338ecaf5c82f7d9fa642e4aee4ce0d4a4a358a0768616450"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/BLUE_ARCHIVE_CHIAKI_CHARACTER_MONOGRAPH.md",
+        "bytes": 33342,
+        "lines": 149,
+        "sha256": "00aea04d68702ad9a7664c1a051c18a5482e781caed9b901bf5b037dd0afb4a2"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/CHIAKI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 122245,
+        "lines": 2215,
+        "sha256": "7bf7c6c99275ecd9066fd7579315b4ed07eacacbe94e45ff0916fcb4bbf12c94"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/CHIAKI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 11655,
+        "lines": 71,
+        "sha256": "f1984ae603b3d8ac1e758545d99f336e3c59846a8faa6f1169940f71d6637e90"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/CHIAKI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3920,
+        "lines": 53,
+        "sha256": "4c8fb3d26ad1d7f0a31c8b69ae7c4b850a747270f45f57d519dd4e02e8da3c54"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/BLUE_ARCHIVE_KIRARA_CHARACTER_MONOGRAPH.md",
+        "bytes": 35982,
+        "lines": 154,
+        "sha256": "c5f96e4315e8e8a4372031dd2693d4d0ffa550d6558581e319ff8f39165e6582"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/KIRARA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 110370,
+        "lines": 2068,
+        "sha256": "40b13fd64ae528f9768e4ed7b91727e8ecf1e9430acffb4a395fefeecdf81df4"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/KIRARA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 9525,
+        "lines": 57,
+        "sha256": "1b5e6e3226dbd18001a7202e4d9efe15f749c1254184969c959af669b9c8caa3"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/KIRARA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3849,
+        "lines": 53,
+        "sha256": "3a14b4f7b8f1a71d16f459e86fc942aac890e4836853e523f5224818a78e01d6"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/BLUE_ARCHIVE_ERIKA_CHARACTER_MONOGRAPH.md",
+        "bytes": 34825,
+        "lines": 154,
+        "sha256": "182186871cedb312a072934e571cb39eb3fa5950007f6f6ad5dcf9d2ddcf42eb"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/ERIKA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 115560,
+        "lines": 2124,
+        "sha256": "d7fada0e8694d006778f43ca9396881895281a41cbd001e2cf313c97f6aa662d"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/ERIKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 9607,
+        "lines": 57,
+        "sha256": "ccdddb047ba54833d6cc4796b0910780f64bd895266adaee8e7f755bc0e7157c"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/ERIKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3780,
+        "lines": 53,
+        "sha256": "edb07a96b0701c9eef9e6bb34474fd188477d64309525678c53af2b4f9cbdcb0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/BLUE_ARCHIVE_SERINA_CHARACTER_MONOGRAPH.md",
+        "bytes": 45880,
+        "lines": 193,
+        "sha256": "cc402f3485d17fce38314f6ec053a6334153cfeec6fe2e09c9c891cdea5294da"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/SERINA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 132273,
+        "lines": 2718,
+        "sha256": "d7e807681da4b7a012c3c933dd726c02d71f815b2bcd43f0c001d1982c27f99e"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/SERINA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 7920,
+        "lines": 49,
+        "sha256": "6fffef687149d00ed6aa6f2aa8278c3809c89c6bc903ebae47ec031f600ef16b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/SERINA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 5683,
+        "lines": 105,
+        "sha256": "8fdc997c82a5f27ca7f2db4a3fe087b8101238eddab25b105ec6410e2010d3c8"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/BLUE_ARCHIVE_HANAE_CHARACTER_MONOGRAPH.md",
+        "bytes": 39639,
+        "lines": 188,
+        "sha256": "49fb247cd69b90f65be0d2443f0f1d1a967ed93034a200c8238a6f8e1e1c37ee"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/HANAE_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 137860,
+        "lines": 2819,
+        "sha256": "d2dfc217b9dd7fa2d27c2f758d947fff081bc15feb3efc7797e5b29bf1948980"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/HANAE_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 8832,
+        "lines": 51,
+        "sha256": "c5ea98035f193c68a23afc5998a031abec324ad46cf50f0381b56cccafe80815"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/HANAE_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 5675,
+        "lines": 105,
+        "sha256": "08f3e529faec96cbe6a6ff1cabbb5525290e646ec2e5cd37316eef44cdae5f2b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/BLUE_ARCHIVE_MINE_CHARACTER_MONOGRAPH.md",
+        "bytes": 42904,
+        "lines": 199,
+        "sha256": "75208d17e134ec6129e514b848b9a0d413da2f24935d65480cc41f1ea18f5ae8"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/MINE_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 140056,
+        "lines": 2843,
+        "sha256": "8ea8c91a4566efcdb5729021110dee31495a7259e1e7a363c5c2f04b5297dffc"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/MINE_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 9782,
+        "lines": 55,
+        "sha256": "4391ab73caf048722525e1a8985d0db28d4c0161169ac3a39ce3e0c936c64932"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/MINE_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 5671,
+        "lines": 105,
+        "sha256": "f5676cbc65b92f828161e7755c671927ebd09b1f8674998a053867d4df59ae92"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SISTERHOOD_MONOGRAPHS/BLUE_ARCHIVE_MARI_CHARACTER_MONOGRAPH.md",
+        "bytes": 42287,
+        "lines": 172,
+        "sha256": "e471bdba456f2ed878cb4019a01f0095bc92a81cff501c9944812a7023d9540c"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SISTERHOOD_MONOGRAPHS/MARI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 110783,
+        "lines": 2258,
+        "sha256": "14571c5ba2cbc9d0ad52d5e12d39b9147ee8c060978cc3a66724fe0cb1cb5835"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SISTERHOOD_MONOGRAPHS/MARI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 7248,
+        "lines": 41,
+        "sha256": "cf80995017b17db0c974ff577e35569f13b707e3caa39527a659f1996c47fcd0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SISTERHOOD_MONOGRAPHS/MARI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 6222,
+        "lines": 111,
+        "sha256": "69361df3fdb0101c64b689cf684a3ee960ba09a27fcf2be33dd0f4861c547788"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SISTERHOOD_MONOGRAPHS/BLUE_ARCHIVE_SAKURAKO_CHARACTER_MONOGRAPH.md",
+        "bytes": 44177,
+        "lines": 180,
+        "sha256": "51349f5f9db77b8a6c078ff583e6478d248c29c7d7f04ccf61e1782579ee34ca"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SISTERHOOD_MONOGRAPHS/SAKURAKO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 106064,
+        "lines": 2143,
+        "sha256": "c746a1e518484acd24264827e95b432f8d1673c6c82519cc6ab0d04bcdea1c9f"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SISTERHOOD_MONOGRAPHS/SAKURAKO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 8133,
+        "lines": 39,
+        "sha256": "67b278d94ebd7cd6b4fd3069f1434d8c142991c71a2a3d101c806cd2c7ccb5d8"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SISTERHOOD_MONOGRAPHS/SAKURAKO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 6611,
+        "lines": 117,
+        "sha256": "0663b5a9e55632f8c812fa190a57e76f68b47a9dbd8fb814cdd7bd882b24c28d"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_SHIZUKO_CHARACTER_MONOGRAPH.md",
+        "bytes": 43021,
+        "lines": 156,
+        "sha256": "42110c5c9e3e4880046e5a6de85fdf6d8146b783c8af8cb815ef64813701ffe9"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/SHIZUKO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 110703,
+        "lines": 2232,
+        "sha256": "6211993066c7aef641b0faec7180fafe0cc908b7e98960a7060bc35e809937b0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/SHIZUKO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 7106,
+        "lines": 37,
+        "sha256": "d7b06f49f7148845f7b6738c00a73ebe1256a53ecd435a24c9d6d61f1c40aced"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/SHIZUKO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 6638,
+        "lines": 117,
+        "sha256": "496b21bb0bfb572caf0f1dde6a030b50c3ebedf62e26cfef69435a3be21c0dc2"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_FINA_CHARACTER_MONOGRAPH.md",
+        "bytes": 38668,
+        "lines": 157,
+        "sha256": "481c169bfbf6b12c51f3305c1a63720304e384ce0bcd0959ee6f0bcafd1c3154"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/FINA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 108422,
+        "lines": 2209,
+        "sha256": "1c10e94c8095a5d796011f706f781dfbd658797b00b133e39a6465a18d1d8bc9"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/FINA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 6007,
+        "lines": 29,
+        "sha256": "a0df914f1660b2134fc9ed367e26ee75c7f8e71f011060cdf4d9a23d274f2c05"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/FINA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 6458,
+        "lines": 117,
+        "sha256": "0e43c33d4860a0af4a0719d9c8633a233f0aae811e3cdbeac419b0af7585dc28"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md",
+        "bytes": 39767,
+        "lines": 169,
+        "sha256": "f58f3688785308ad8157262285ab46590233ef75aaac8a0e853c8152564d3465"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/UMIKA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 114688,
+        "lines": 2325,
+        "sha256": "4e78ceb616fc39e2217b91dbcf11840f9c4386e1680b2185391227286a1e48e8"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/UMIKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 6863,
+        "lines": 39,
+        "sha256": "79fb1c4b2979d100db85c897f08b849a4463d926c7b0da8cfef30ad37754b33e"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/UMIKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 6499,
+        "lines": 117,
+        "sha256": "83331a59d3f7639783ec14b61b5aaaee2b2c96c8e3bd0c169fad07bd338bf305"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH.md",
+        "bytes": 46415,
+        "lines": 171,
+        "sha256": "69e1307fb4f2176aa95777c4bc1975c7fa2662da91560787beac930225c5d1dc"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 128760,
+        "lines": 2599,
+        "sha256": "d1b6589db2fd8e3089d19989086aad8ad4e234284ae0f1f87678d59824ffffc2"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 7509,
+        "lines": 39,
+        "sha256": "419babe034ed9ba5602809e6d86fd0bd0779f1d622e6e13e283e3f922e73a9d1"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 6552,
+        "lines": 117,
+        "sha256": "5097ffe45ddffe108cf98e8bc81197f7c9652ac64db29b4a3b28a4d6602a2721"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_SHIGURE_CHARACTER_MONOGRAPH.md",
+        "bytes": 47054,
+        "lines": 179,
+        "sha256": "feceae4d7ac256157fda2f97d927f26cd6686e6a3acaa69eee36ecf34bc4e8d8"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/SHIGURE_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 134757,
+        "lines": 2722,
+        "sha256": "9f33461a60eb2bdc17a947873dbfb600e3c1078349e0e9bffbda92c784421d9a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/SHIGURE_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 7852,
+        "lines": 39,
+        "sha256": "05ce81b2dcc6111b198843c4d3071ea49f5bc1f59dec2bea72488d4e265037c5"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/SHIGURE_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 6525,
+        "lines": 117,
+        "sha256": "34ebfdbbf4f05f3621ff79d94ad71203d3cf651d5ce2408157c94b7407123568"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_MEL_CHARACTER_MONOGRAPH.md",
+        "bytes": 42624,
+        "lines": 161,
+        "sha256": "6fe9cd61922f31d3ae2bb595dba6dd403ca57e98169b8ea67aa7a5b8618e5d5b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/MEL_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 112813,
+        "lines": 2255,
+        "sha256": "9b7b67cedbee762d29f11add827aa4fa31ef06679ecdc13860255f9ebbf6d39a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/MEL_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 7613,
+        "lines": 37,
+        "sha256": "1ab8a74b92eb3f1785e37d2864278b2f069c9faaa57ef43c61c2eb65a662c2db"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/MEL_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 6460,
+        "lines": 117,
+        "sha256": "7019fff8c39731bd941de7850600a945e1320bfa93230c34701fbdb2e51b6734"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_MOMIJI_CHARACTER_MONOGRAPH.md",
+        "bytes": 39210,
+        "lines": 161,
+        "sha256": "721310746653bb6c5c5faf91fa8dda615187c5d4c1d4eaefb2946755eb988c9b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/MOMIJI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 114229,
+        "lines": 2294,
+        "sha256": "5e6043fec10babd8e65f73aea851a645db6d6b0259f80cd48e1495e9070f0336"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/MOMIJI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 7481,
+        "lines": 37,
+        "sha256": "1446003879a856365fe8f6a03a5e8a8e02a3e68f431b5fc08198245d4f24c3b7"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/MOMIJI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 6785,
+        "lines": 118,
+        "sha256": "4a2d4e178070aa3611bd147fd6494f27f55305c963960500783b749503ea3762"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MEL_MOMIJI_DIRECTED_SYNTHESIS/BLUE_ARCHIVE_MEL_MOMIJI_RELATIONSHIP_SYNTHESIS.md",
+        "bytes": 32714,
+        "lines": 153,
+        "sha256": "c54047511f242e3ea13f1bcbbd0556b05eb8047ac4c28db036146cebbb7e083e"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MEL_MOMIJI_DIRECTED_SYNTHESIS/MEL_MOMIJI_RELATIONSHIP_RECEIVING_RECEIPT.json",
+        "bytes": 118154,
+        "lines": 2299,
+        "sha256": "e44de97a7289ff39cb46fddd08f849eebeb51c3dc959dcdba32dfab12d4fcf6b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MEL_MOMIJI_DIRECTED_SYNTHESIS/MEL_MOMIJI_RELATIONSHIP_RECEIVING_RECEIPT.md",
+        "bytes": 7082,
+        "lines": 33,
+        "sha256": "8ade887bb782526575861bc28794f0fc5bff77466d54997a96ec367cbcaef720"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MEL_MOMIJI_DIRECTED_SYNTHESIS/MEL_MOMIJI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 10068,
+        "lines": 155,
+        "sha256": "15ef4d04f8978383af6d1ccd7f6c6bfc4d5835db3be461c780683d9d86d7f7e1"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_SECRETARIAT_MONOGRAPHS/BLUE_ARCHIVE_CHERINO_CHARACTER_MONOGRAPH.md",
+        "bytes": 36985,
+        "lines": 176,
+        "sha256": "f4c4f38775db0fa4809882cb64e1065890c5adad5de7964c400799306356aa1f"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_SECRETARIAT_MONOGRAPHS/CHERINO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 122907,
+        "lines": 2417,
+        "sha256": "7f25844ded0a556fc4b017685bbefe981734611310ef741f534ea75c08980a74"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_SECRETARIAT_MONOGRAPHS/CHERINO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 7460,
+        "lines": 35,
+        "sha256": "2c6e97df4c8d39c148c09aa37d6d99c0cf51c8bd9ceae5524e62627685604f38"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_SECRETARIAT_MONOGRAPHS/CHERINO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 8388,
+        "lines": 144,
+        "sha256": "bb205aa4ac25459a376561f3d56706e5f7a0dca397e9962deb3bcef2fa0524ce"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_SECRETARIAT_MONOGRAPHS/BLUE_ARCHIVE_TOMOE_CHARACTER_MONOGRAPH.md",
+        "bytes": 41966,
+        "lines": 191,
+        "sha256": "248799e13221aeaf11cb7c976d3b25dd94c6b2246f60e2eefa263baa782a6f7e"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_SECRETARIAT_MONOGRAPHS/TOMOE_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 139515,
+        "lines": 2740,
+        "sha256": "f1f3f0d92e17586a97dcb7bada3267f04c66ea25f790a733323055db42f0855a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_SECRETARIAT_MONOGRAPHS/TOMOE_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 7828,
+        "lines": 37,
+        "sha256": "78c5d90a2599c99e952c07abf67fd1e4c95ecaa3ee95fc8436db4701b57d14ff"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_SECRETARIAT_MONOGRAPHS/TOMOE_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 8501,
+        "lines": 145,
+        "sha256": "e64e353ae0a52bb0d45e0b57e3ce7126e1edc8607ed2c4a8d4708d3ce8162846"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_SECRETARIAT_MONOGRAPHS/BLUE_ARCHIVE_MARINA_CHARACTER_MONOGRAPH.md",
+        "bytes": 44401,
+        "lines": 189,
+        "sha256": "88fac4f6e65638f65b3d4f7104a9c9494931d71258e2e46d466c44193fbf7237"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_SECRETARIAT_MONOGRAPHS/MARINA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 139762,
+        "lines": 2697,
+        "sha256": "208ca509a55814501182896df60c9abd849b1e5d277e260d80548e0862dd8a36"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_SECRETARIAT_MONOGRAPHS/MARINA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 7523,
+        "lines": 33,
+        "sha256": "5e703bd3e310f469af7ce2145856395f3bf65fb3821ffb6fb0fb3af91f8a525d"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_SECRETARIAT_MONOGRAPHS/MARINA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 9998,
+        "lines": 157,
+        "sha256": "5e8a78df60dfa6a1dd288dc44f8ba4c0a2c42ed470238acb5531712f732615fe"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_KISAKI_CHARACTER_MONOGRAPH.md",
+        "bytes": 46543,
+        "lines": 171,
+        "sha256": "646b36e265135e21c44eed1aa289da136651af48b42a1b84c6c7631e9b57ea67"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/KISAKI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 138514,
+        "lines": 2611,
+        "sha256": "e2d8d7489a70338fb0817825a7447f687dca4a2758caa933dbc0fabb84028eb7"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/KISAKI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 9816,
+        "lines": 43,
+        "sha256": "36c099562ae268c1c878cfae591579c8336c26b92baad53d0db8b2bcec99b5b2"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/KISAKI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 11653,
+        "lines": 172,
+        "sha256": "c3e1a42c923427ef73f27e506718aa6c80ada2e10414a4ae7a9d20ed84b89cf4"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_RUMI_CHARACTER_MONOGRAPH.md",
+        "bytes": 39466,
+        "lines": 171,
+        "sha256": "45c9332f6c5ca87be0fcee724ec1d4ee04394dc42c25822fb57e558f1bc2f6d0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/RUMI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 168936,
+        "lines": 2524,
+        "sha256": "43c8abd8f62873c51ac7da8f5cc78f7174fd5eeb3e28c52c41d14f36ddf4ba1e"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/RUMI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 5690,
+        "lines": 25,
+        "sha256": "6441aa4771f0d006c44e5eb912a45cfe6dec7588fd1159b296d258dbe9920b25"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/RUMI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 10487,
+        "lines": 155,
+        "sha256": "6e3eeedc322d5710e9bb6fa45e33b92fdea52e4baca98f92d60e278defe9e09d"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_REIJO_CHARACTER_MONOGRAPH.md",
+        "bytes": 37725,
+        "lines": 176,
+        "sha256": "97d8d5f4ade516513c5794125cc280eef09ff033cc4daa4fee46e25f8e7241fc"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/REIJO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 189272,
+        "lines": 2940,
+        "sha256": "756c1e2e70bdb0ba20b1354d9ed92bb28f56a5339af416915200318065f483b1"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/REIJO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 6395,
+        "lines": 29,
+        "sha256": "0b4f725b8118ebfcf676e24949fb1f2700217067788fa5719bdc1c0d43971aa4"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/REIJO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 11368,
+        "lines": 173,
+        "sha256": "c41bc26a7fd3bb54a28b9f8260cbd6b71e54580c37e99ecfade9436bdb19e441"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/BLUE_ARCHIVE_SAYA_CHARACTER_MONOGRAPH.md",
+        "bytes": 42117,
+        "lines": 169,
+        "sha256": "2b944e050734238072fd12839a7bf90e17da6b2977eeb6506ba121b317a03e41"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/SAYA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 253779,
+        "lines": 3741,
+        "sha256": "6b94cdbe065ca6ff4a1f16a46b1685e4bcae09171d0c7ebdeaa7185474a75092"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/SAYA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 8543,
+        "lines": 35,
+        "sha256": "fe4d4e6feefbbef1c9b2e92a5206b9c22d46de10980e88cbbf8f050895fd7f93"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/SAYA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 23699,
+        "lines": 392,
+        "sha256": "1b32e99e1e3c982c65881d11fc338c373deca1d45ac401a9bcc9dcb793fe1db7"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+        "bytes": 39304,
+        "lines": 174,
+        "sha256": "67bce3f4829dd1dd22d75e32b3320d4feb2d551e068fb75e38c8e600ba343da4"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/MINA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 190597,
+        "lines": 2842,
+        "sha256": "38266c2d2c58e2486e1b53ae3cc3affe76b451780070c5c3c3b44a455ad4b17d"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/MINA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 6614,
+        "lines": 29,
+        "sha256": "a8fdb854e81a28655e1aed8c0f54457b9d6be3ed2aea48e978a13c0142b1839a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/MINA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 9938,
+        "lines": 149,
+        "sha256": "8341aa61c2cbd364394e4d515969c61b2bdc6635c6969f175becc244bf328f6e"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/BLUE_ARCHIVE_KOKONA_CHARACTER_MONOGRAPH.md",
+        "bytes": 32764,
+        "lines": 173,
+        "sha256": "0a41901057359257af55ae92b38a0dc4a0add6ab38e8be93db63ad21ef5db91a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/KOKONA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 218029,
+        "lines": 3553,
+        "sha256": "096872e5301dc3d0c30fbf01c95fe0b83c32d66d67749e66baf31fd7ddb3a03a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/KOKONA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 5391,
+        "lines": 33,
+        "sha256": "cd93c3a68284a7b8547d0c79e938a7a2846cea7e48784e1bbffeb25e614f15a7"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/KOKONA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 8487,
+        "lines": 132,
+        "sha256": "ad6597bd98eb4f01e697faaa4844ce31c73b74f2e7c08fe104d9bddfe8dc4504"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_V1.md",
+        "bytes": 5470,
+        "lines": 23,
+        "sha256": "9972869dcbf8f7f3de540bb5244a073191bd93737c7bf8cfcfc1a6744ac4c89f"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_RECEIPT_V1.json",
+        "bytes": 7939,
+        "lines": 128,
+        "sha256": "d7a01e901837c9562781f53cb862961d5d7d2d850832e1912559af58d0884af5"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/CHIAKI_ORIGINAL_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+        "bytes": 7337,
+        "lines": 24,
+        "sha256": "e282fe6c692dd626985075503d9f86f36df401a3392c4d4caea98ad1f5c129f2"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/CHIAKI_ORIGINAL_STABLE_GAP_ALIGNMENT_SUPPLEMENT_RECEIPT_V1.json",
+        "bytes": 7028,
+        "lines": 155,
+        "sha256": "76fe391c719decbbbfb3b3209f044d8f153a7fb04b3c20c9cd72181230e626c4"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/SHIZUKO_MAIN_005_002_003_ORDINARY_RECIPIENT_SUPPLEMENT.md",
+        "bytes": 3278,
+        "lines": 13,
+        "sha256": "f186a4e851e537de170c26363b70a63c22faebcd81d56b3ffafdf3ae13e6e1fa"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/SHIZUKO_MAIN_005_002_003_SUPPLEMENT_RECEIPT.json",
+        "bytes": 7034,
+        "lines": 104,
+        "sha256": "b9a45d27d2eaff57645dbb6d97cea3c0fc5071c89a30930928f6b52602518cf9"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/UMIKA_BOND003_ACTUAL_PAYMENT_RETURN_ERRATUM_V1.md",
+        "bytes": 2004,
+        "lines": 19,
+        "sha256": "9b1a938e44aac2c5ad0d246c8cc2ad44ab17a30ffe0d2893ea60c6deabfe88d4"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/UMIKA_BOND003_ACTUAL_PAYMENT_RETURN_ERRATUM_RECEIPT_V1.json",
+        "bytes": 5033,
+        "lines": 66,
+        "sha256": "22f9b05aa305658b5a1a59b697aadc6aca8b6546a51a90bb2af5f98138dfa918"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_COMPLETE_MINI_GIFT_SUPPLEMENT_V1/NODOKA_MINI_GIFT_IMMUTABLE_SUPPLEMENT_V1.md",
+        "bytes": 7599,
+        "lines": 30,
+        "sha256": "b2881b170c9c86f9a3cd57a0107845e059625fcfea1c1d04b1b822cb90ff5316"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_COMPLETE_MINI_GIFT_SUPPLEMENT_V1/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH_SUPPLEMENTED_CANDIDATE_V1.md",
+        "bytes": 53369,
+        "lines": 187,
+        "sha256": "391dfa9481b7509d92f222b5c743b31d893637a306f1ecf9894047ab4d16b9f3"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_COMPLETE_MINI_GIFT_SUPPLEMENT_V1/NODOKA_MINI_GIFT_SUPPLEMENT_RECEIPT_V1.json",
+        "bytes": 26772,
+        "lines": 255,
+        "sha256": "c319551732dcedfaf92866083c408818155a705d48a4cbbef981cf3cd84b782c"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_COMPLETE_MINI_GIFT_SUPPLEMENT_V1/NODOKA_MINI_GIFT_SUPPLEMENT_FROZEN_MANIFEST_V1.json",
+        "bytes": 2354,
+        "lines": 37,
+        "sha256": "911faa12656a21b09066460ff94c814b45581c16a73c3dea8a068e6cddc96a38"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/NODOKA_FROZEN_OUTPUT_MANIFEST.json",
+        "bytes": 2926,
+        "lines": 52,
+        "sha256": "fc3b41bb567ed2e1d58a16b9165ad0995d28f727b50e483bef70639df29839b8"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/SHIGURE_FROZEN_OUTPUT_MANIFEST.json",
+        "bytes": 2653,
+        "lines": 60,
+        "sha256": "f7daed7c304692bffbc14faf9250d32605287204fabceb05b342c7e731186ad5"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/MEL_FROZEN_OUTPUT_MANIFEST.json",
+        "bytes": 2568,
+        "lines": 52,
+        "sha256": "918da7aa882a165c7ae8a1ff3eed9d2d9a1fe4587ea7beff8659a5801bceafc7"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_CHARACTER_MONOGRAPHS/MOMIJI_FROZEN_OUTPUT_MANIFEST.json",
+        "bytes": 2698,
+        "lines": 53,
+        "sha256": "c1b5216ae26af61c72b9eb97a7a124f9877981cdcdf04c553839d6367b6adf04"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MEL_MOMIJI_DIRECTED_SYNTHESIS/MEL_MOMIJI_FROZEN_OUTPUT_MANIFEST.json",
+        "bytes": 3491,
+        "lines": 57,
+        "sha256": "33576c5b92b7c88b2e14c7a0257f15178ac0c809ccc17da5fb1a0813f3aeb873"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_SECRETARIAT_MONOGRAPHS/CHERINO_FROZEN_OUTPUT_MANIFEST.json",
+        "bytes": 3464,
+        "lines": 56,
+        "sha256": "6fa07920dc66003e73563995ae2c16dd22303f5f4224c3461c9ac7af5ea901ca"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_SECRETARIAT_MONOGRAPHS/TOMOE_FROZEN_OUTPUT_MANIFEST.json",
+        "bytes": 3621,
+        "lines": 56,
+        "sha256": "f7b66ed77303ef34942d470a3e36caabc3b355a90b385b89bf1aaf55e6b26000"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_SECRETARIAT_MONOGRAPHS/MARINA_FROZEN_OUTPUT_MANIFEST.json",
+        "bytes": 3680,
+        "lines": 56,
+        "sha256": "a4ced5f3c1a5f199a8ebb7b943f15f2d9af5fe7d1922f508e0af386a648db551"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/KISAKI_FROZEN_OUTPUT_MANIFEST.json",
+        "bytes": 4301,
+        "lines": 60,
+        "sha256": "573efaf6b7ef9ef646fb4175d09ee0757f9ed87d7e065a99fd546580ac92cda8"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/RUMI_FROZEN_OUTPUT_MANIFEST.json",
+        "bytes": 4125,
+        "lines": 60,
+        "sha256": "b56a8290bb609c3c2d0719e4f99107edcea0a53b2d4180db2435e74082151304"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/REIJO_FROZEN_OUTPUT_MANIFEST.json",
+        "bytes": 4537,
+        "lines": 60,
+        "sha256": "979b9989b80fbac1d7046213902ca3a5e9ce28d63a0c4a920c5d206db25e07f1"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/SAYA_FROZEN_OUTPUT_MANIFEST.json",
+        "bytes": 5226,
+        "lines": 63,
+        "sha256": "c266fb0e8ee37376d37d6c915b86f83d289d6e09d0d38ce8d8c8b9ac71506078"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/MINA_FROZEN_OUTPUT_MANIFEST.json",
+        "bytes": 5018,
+        "lines": 64,
+        "sha256": "636c3b0120633b1c717c467011fa0f16f336566d03243275a69220ff9ee210f4"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/KOKONA_FROZEN_OUTPUT_MANIFEST.json",
+        "bytes": 4621,
+        "lines": 64,
+        "sha256": "b40711a4101a4b5faa7e2d16cf6dcd61a53fabac709a2e71b1bafe66d259893a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/SAYA_EXISTING_HOME_METADATA_PROPOSAL_V1.json",
+        "bytes": 6578,
+        "lines": 96,
+        "sha256": "ed6a16943259d81d4bc920da21c24f01364a74e399598755c42b8613d6581aa3"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/SHANHAIJING_NEXT_THREE_ALLOCATION_PROPOSAL_V1.json",
+        "bytes": 22108,
+        "lines": 361,
+        "sha256": "e45ac25d0004181fad8c29e53bc6789646c7184e7c09dba1c0286554bf6dabf0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/BLUE_ARCHIVE_SHUN_CHARACTER_MONOGRAPH.md",
+        "bytes": 49917,
+        "lines": 197,
+        "sha256": "60f8dae3592e351bea861205b5da9fb6e6b2c6cfb9f91fa1254767b81bf65d74"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/SHUN_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 313587,
+        "lines": 4936,
+        "sha256": "e04f717ec7275eab7886ef7490866b270f2ec9a95fe89487a921dd6290ce7af1"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/SHUN_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 5787,
+        "lines": 31,
+        "sha256": "67e19f7895287edb1e22b58970738d3a94516f37dfca30775c089c21c27b2f50"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/SHUN_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 9935,
+        "lines": 155,
+        "sha256": "47b92919b4ba885ee9474818b903c7fb8931f830ee79dac770f1a29bf5984281"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/SHUN_FROZEN_OUTPUT_MANIFEST.json",
+        "bytes": 4772,
+        "lines": 69,
+        "sha256": "57ec8eacb0bb2ec5f52d13edc5f400f541beeb4f4a2c04ced708c502fa60696d"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_CORRECTED_SUCCESSOR_V2/BLUE_ARCHIVE_SHUN_CHARACTER_MONOGRAPH_CORRECTED_SUCCESSOR_V2.md",
+        "bytes": 50176,
+        "lines": 197,
+        "sha256": "937c0bcd9e8a462d5c394d6cb3a9691a9e3f1bc7454d7054856393f93aecb239"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_CORRECTED_SUCCESSOR_V2/BOUND_FINAL_V100_C002_E007_NORMAL_ARGUMENT.md",
+        "bytes": 3387,
+        "lines": 32,
+        "sha256": "adb61ebf9b84e3ca80b63ff45134ffed027b060b0a8fe252bc723a00bb453c1b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_CORRECTED_SUCCESSOR_V2/BOUND_ROOT_SHUN_V1_REQUIRED_CORRECTION_RECEIPT.json",
+        "bytes": 3265,
+        "lines": 50,
+        "sha256": "49d6a1be78f7218603a6b05de71935781becd47e906dc10209bbb9cfd7de5f23"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_CORRECTED_SUCCESSOR_V2/SHUN_CORRECTED_SUCCESSOR_FROZEN_OUTPUT_MANIFEST_V2.json",
+        "bytes": 4046,
+        "lines": 66,
+        "sha256": "5dd6fe52d5b6ab0fc7715e1c9145c5cae0fe73e8e43d344cd5a48ad4655c50ac"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_CORRECTED_SUCCESSOR_V2/SHUN_CORRECTED_SUCCESSOR_RECEIVING_RECEIPT_V2.md",
+        "bytes": 2077,
+        "lines": 17,
+        "sha256": "689493335141bf2d4d86a07d9a3e18b31203617ba461c6ec9510561d004c600a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_CORRECTED_SUCCESSOR_V2/SHUN_PRECISE_CORRECTION_DELTA_AND_SOURCE_SCOPE_V2.json",
+        "bytes": 81429,
+        "lines": 769,
+        "sha256": "3ceaeb008154ab9aec58b7044907e4206934c8c4b2358644c8075fa603fc0943"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_PEER_CRITICAL_REVIEW_V1/MINA_REIJO_INDEPENDENT_CRITICAL_RECEIVING_RECEIPT_V1.json",
+        "bytes": 20386,
+        "lines": 432,
+        "sha256": "77033da7bd00fa48b55d7388a686f1acf99540d4bb414a743ea9225b4123651f"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_PEER_CRITICAL_REVIEW_V1/MINA_REIJO_INDEPENDENT_CRITICAL_REVIEW_V1.md",
+        "bytes": 9827,
+        "lines": 47,
+        "sha256": "46d08bc6b020782ef66bcad441a8a76695c2af75fd322cbe5851c1e6b4055736"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_PEER_CRITICAL_REVIEW_V1/MINA_REIJO_INDEPENDENT_PEER_REVIEW_FREEZE_V1.json",
+        "bytes": 2288,
+        "lines": 30,
+        "sha256": "c08e9b39935c12a1c9b4afe1cfebc01bedb0fa85502b5583a557669641cefcc7"
+      }
+    ],
+    "preserved_count": 247,
+    "mandatory_new_primary_for_actual_bounded_claims": [],
+    "stronger_claim_debt": "Unprintedtrust/staffing/evacuation/clinical/learning/safety/compensation/cure/globalchronology/identity andstrongerdisputedturnattribution remainclaim-specific. Existing14OPEN; no stakesfilter.",
+    "all_unbound_or_preserved_source_work": "NineUNBOUND/preserved_phase2_work UNREAD_UNHASHED; no helper/raw/native/sourceadmissionreplay.",
+    "scope": "355packages29named25parents384homes unchanged; no selfcount, sourcecredit, namedsection or milestone.",
+    "structured_receiving_boundary": "Meaningfulnewfields requireauthorreadbackbeforefreeze; serialization/projection/hash doesnot createwholeJSON prose orindependentROOTreceiving."
+  },
+  "public_reference_translation": "All fields survive exact reference translation with full literal inverses and immutable C originals. Original tuples bind original bytes, not this derivative. Complete attachment parts are explicit finite public fields, not omitted content.",
+  "assembler_receiving_credit": {
+    "new_primary_native_raw_QA_AV_model_identity": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "model_credit": 0,
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "complete_author_attachment_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHUN_KOKONA_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 16272,
+      "sha256": "e325d6169c4c028ae04e0b33a6bdf49bbb87bf9e7b21341787cf0327c14a0cf6",
+      "git_blob_oid_of_actual_bytes": "ab6c4905d52a568083b2ef6d5c8b1ac41710d25b",
+      "attachment_names": [
+        "BOUND_ROOT_AUTHOR_ALLOCATION_V1.json",
+        "SHUN_KOKONA_DIRECTED_SYNTHESIS_RECEIVING_RECEIPT_V1.md",
+        "SHUN_KOKONA_FROZEN_ALLOCATION_METADATA_PROBE_V1.json"
+      ]
+    }
+  ],
+  "complete_frozen_manifest": {
+    "schema": "BLUE_ARCHIVE_SHUN_KOKONA_COMPLETE_AUTHOR_READBACK_AND_FREEZE_V1",
+    "frozen_UTC": "2026-10-10T21:11:34.700227+00:00",
+    "status": "AUTHOR_COMPLETE_FROZEN_WITH_LIMITS_ROOT_INDEPENDENT_RECEIVING_PENDING",
+    "required_home": "P3-REL-SHUN-KOKONA",
+    "source_responsibility": "HYS::significant_responsibilities::13",
+    "mandatory_named_duties": [],
+    "outputs": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_SHUN_KOKONA_RELATIONSHIP_SYNTHESIS.md",
+        "bytes": 27597,
+        "lines": 144,
+        "sha256": "509402345175025a5a7a09a094f587f5bb27fd379584c5ec16f8910a915f1607"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/SHUN_KOKONA_DIRECTED_SYNTHESIS_RECEIVING_RECEIPT_V1.json",
+        "bytes": 191990,
+        "lines": 2873,
+        "sha256": "d7c02818ee0bcef58150b7d20a9980fbf5c4378a1364fb2c4099d2b7575d0964"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/SHUN_KOKONA_DIRECTED_SYNTHESIS_RECEIVING_RECEIPT_V1.md",
+        "bytes": 3329,
+        "lines": 25,
+        "sha256": "304e86b05b4de3aedcfcb6f37f2054301e6429262a4eab636802d2b776b2a78b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/SHUN_KOKONA_FROZEN_ALLOCATION_METADATA_PROBE_V1.json",
+        "bytes": 5186,
+        "lines": 96,
+        "sha256": "7c898aa5e713449dfc12fdbb9b0b3151a86bc3351b6b6d20ed56aab6e2ad6710"
+      }
+    ],
+    "actual_whole_saved_body_receiving": "6f374f1–72/351f3173–144EOF, no clipping or later changes.",
+    "actual_readable_and_receipt_meanings": "a2fec8 whole25 readable, all12actual analytical scopes, execution/governance/directions/eightendpointcases/debt/credit; f52f25 all45ID/currentboundaries and full96probe literal displayed; its clipped MM metadata fully repaired5895eb all19 joined owner/range/boundary projections. Sevenrivals/fourteengaps wholebody received. Not all2873 serializedJSON lines read.",
+    "exact_verification": {
+      "absolute_dictionary_unique_pairs": 281,
+      "absolute_dictionary_occurrences": 291,
+      "four_output_union_pairs": 283,
+      "bound_normal_source_copies": 12,
+      "bound_controls": 6,
+      "current_original_R_source_equalities": 12,
+      "prior_frozen_payloads": 247,
+      "private_unique_duties": 45,
+      "wholeMM_unique_threads": 19,
+      "saved_nonempty_line_joins": 91,
+      "rival_exact_joins": 7,
+      "gap_exact_joins": 14,
+      "endpoint_cases": 8,
+      "UTF8_LF_noBOM": true,
+      "PASS": true
+    },
+    "count_universes": "Dictionary pairs traverse only receipt/probe serialized path-byte-SHA bindings once, not recursive reopening of inherited manifests. Four-output union additionally includes all four delivery files. Seal does not include itself. No original-source reading or literary count inferred.",
+    "history": "Original ShunV1/V2, Kokona and priorpeer review preserve declared actual source exposures; Final correct agency and ROOT chain qualification operative.",
+    "source_governance": "CurrentCycle008 qualifies oldwrappers; adequate analytical45 not45newprimary; local/private/public order retained.",
+    "all14_original_gaps": "OPEN",
+    "mandatory_primary_for_actual_bounded_claims": [],
+    "preservation": "All247 selected priorfrozen originalC files exact;12originalR sourcebytes equalboundcopies;18boundC source/controlcopies exact. No nineUNBOUND/preserved_phase2_work read/hash/helperreplay.",
+    "execution": "C-onlyDEEP_SYNTHESIS,noR/Git/provider/global/source-admission writes;no primary/native/raw/QA/AV/model/identity/selfacceptance/count/milestone.",
+    "pending_readable_future_field": "ReadableL25 was saved before finalseal; this freeze now records completed authorreceiving and exactpreservation, not ROOT acceptance.",
+    "scope": "355packages29named25parents384homes unchanged; institution/threechildren/10144/Sensei/register independent duties remain."
+  },
+  "original_frozen_manifest_exact_tuple": {
+    "path": "SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/SHUN_KOKONA_DIRECTED_SYNTHESIS_FROZEN_OUTPUT_MANIFEST_V1.json",
+    "bytes": 4285,
+    "sha256": "2d9c2ffe8c2bf9b967bb39a3827ed3d7155701a6baa639ab5c277848ab0efe4c",
+    "git_blob_oid_of_actual_bytes": "523ff0899555d56042ef9c230f75469ad7aba980",
+    "immutable_transport_path": "immutable_originals/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/SHUN_KOKONA_DIRECTED_SYNTHESIS_FROZEN_OUTPUT_MANIFEST_V1.json"
+  },
+  "original_body_exact_tuple": {
+    "path": "SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_SHUN_KOKONA_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 27597,
+    "sha256": "509402345175025a5a7a09a094f587f5bb27fd379584c5ec16f8910a915f1607",
+    "git_blob_oid_of_actual_bytes": "7dd9c013cf7ff0a30a8f4c858f33d8785fe1774a",
+    "immutable_transport_path": "immutable_originals/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_SHUN_KOKONA_RELATIONSHIP_SYNTHESIS.md"
+  },
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHUN_KOKONA_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 30286,
+    "sha256": "699a3d50f7260d1ff89531935abe156cdc51a967e046695e1e79b7ae0eb28284",
+    "git_blob_oid_of_actual_bytes": "adbb97434351496b4bba3f6e8de35549726fc5a6"
+  },
+  "canonical_link_translations": [],
+  "mandatory_operative_qualification": "Both actual directions and45 adequate private duties/19 wholeMM/7 written mode conditions retain recipient refusal, costs and achieved ordinary company. Individual gifts do not manufacture sister-to-sister encounters. Correct Final order/acceptance remains bounded;10144, Meihua and three-child duties are independently governed rather than discharged again here."
+}

@@ -1,0 +1,608 @@
+[
+  {
+    "component_id": "TRPG-ADV-S004",
+    "spine_position": 4,
+    "printed_page": "002",
+    "witnesses": [
+      {
+        "speaker_addressee": "Aqua/Darkness→reader",
+        "context": "Explanatory class introduction and condition-change warning",
+        "short_exact_anchor_if_recorded": null,
+        "limit": "Teaching balloons, not natural dated voice scene or complete class-rule audit."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S005",
+    "spine_position": 5,
+    "printed_page": "003",
+    "witnesses": [
+      {
+        "speaker_addressee": "Kazuma→reader/companions; Megumin→Kazuma",
+        "context": "Indirect criticism and demanded identification",
+        "short_exact_anchor_if_recorded": "誰かさんたち",
+        "basic_gloss": "certain people / you-know-who, plural indirect reference",
+        "limit": "Only short fragment recorded; staged teaching exchange, not a natural model before/after pair."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S006",
+    "spine_position": 6,
+    "printed_page": "004",
+    "witnesses": [
+      {
+        "speaker_addressee": "Kazuma↔Aqua; Vanir→Kazuma/reader",
+        "context": "Question, blunt dismissal, overinference and grand corrective promotion",
+        "short_exact_anchor_if_recorded": null,
+        "limit": "Teaching/referencelayer; no actual mainstate change or new naturalJ01 experiment."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S011",
+    "spine_position": 11,
+    "printed_page": "009 (divider)",
+    "witnesses": [
+      {
+        "speaker_addressee": "Megumin/Wiz/visually Yunyun→reader",
+        "context": "Sequel introduction, friends reassembly and earnest friendship appreciation",
+        "short_exact_anchor_if_recorded": "友情っていいですよね",
+        "basic_gloss": "Friendship is nice, isn't it?",
+        "limit": "Unlabelled visual attribution and teaching plane; no natural before/after voice test."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S018",
+    "spine_position": 18,
+    "printed_page": "016",
+    "witnesses": [
+      {
+        "speaker_addressee": "Gilbert→table/companions; GM/Mikami/Aifujiremarks separatelytableplane",
+        "context": "Usefulskills, praiseoffaith, LieDetectionand trustAquaonlyreassurance",
+        "short_exact_anchor_if_recorded": "アクア様さえ信仰していれば",
+        "basic_gloss": "as long as [you] worship LadyAqua",
+        "limit": "Shortcontiguousfragment of Gilbert's answer, not a mainAqua spokenline, a naturalJ01pair or a demonstrated universal power."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S022",
+    "spine_position": 22,
+    "printed_page": "020",
+    "witnesses": [
+      {
+        "speaker_addressee": "Chio→companions/table; Nagatsuki→Chio/table",
+        "context": "Healthgratitudejustifiespoison+Cure, challengedasself-createdproblem",
+        "short_exact_anchor_if_recorded": "マッチポンプ",
+        "basic_gloss": "creatingaproblemthenprovidingitsremedy/self-createdcrisisservice",
+        "limit": "Nagatsukitablecomment, nottheGM'sproofanactualharmalreadyoccurred."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S026",
+    "spine_position": 26,
+    "printed_page": "024",
+    "witnesses": [
+      {
+        "speaker_addressee": "21→table/companions; Chio→table",
+        "context": "Namednumber/racereveal and stagednewdataquestion",
+        "short_exact_anchor_if_recorded": null,
+        "limit": "ConstructedPCandtablepromotion, notanindependentmain-characteract."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S032",
+    "spine_position": 32,
+    "printed_page": "030",
+    "witnesses": [
+      {
+        "speaker_addressee": "21 to bar/party",
+        "context": "First-person reference explicitly discussed by GM.",
+        "short_exact_anchor_if_recorded": "この身",
+        "basic_gloss": "this body / I",
+        "limit": "Character first-person style in edited replay, not an identity mistake or general linguistic rule."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S034",
+    "spine_position": 34,
+    "printed_page": "032",
+    "witnesses": [
+      {
+        "speaker_addressee": "Chio to party/21",
+        "context": "Treats undead status through her health fixation.",
+        "short_exact_anchor_if_recorded": "健康ではない者は死ぬべきだ！",
+        "basic_gloss": "Those who are not healthy should die!",
+        "limit": "A local performed imperative with explicit harmful content; not a benevolent medical principle."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S035",
+    "spine_position": 35,
+    "printed_page": "033",
+    "witnesses": [
+      {
+        "speaker_addressee": "21 to Gilbert under bar pressure",
+        "context": "Conversion claim and cheer after GM describes the master's nod instruction.",
+        "short_exact_anchor_if_recorded": "ア、アクア様、ばんざーい！",
+        "basic_gloss": "L-long live Lady Aqua!",
+        "limit": "Stammer and immediate pressure qualify apparent enthusiasm."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S039",
+    "spine_position": 39,
+    "printed_page": "037",
+    "witnesses": [
+      {
+        "speaker_addressee": "Oto to 21/party",
+        "context": "Rejects a pious altar suggestion during home design.",
+        "short_exact_anchor_if_recorded": "黙ってろ！",
+        "basic_gloss": "Shut up!",
+        "limit": "Local rude interruption; subsequent future-deferral rationale matters, not an unqualified stable politeness claim."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S043",
+    "spine_position": 43,
+    "printed_page": "041",
+    "witnesses": [
+      {
+        "speaker_addressee": "GM describing Gilbert's motivation",
+        "context": "Corrects an unfavorable characterization midutterance.",
+        "short_exact_anchor_if_recorded": "闇……いえ、熱い思い",
+        "basic_gloss": "darkness ... no, passionate feelings",
+        "limit": "Local audible-in-text repair; no claim about recorded sound."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S045",
+    "spine_position": 45,
+    "printed_page": "043",
+    "witnesses": [
+      {
+        "speaker_addressee": "Chio and Oto to GM/party",
+        "context": "Returned frog calls the encounter good fortune.",
+        "short_exact_anchor_if_recorded": "ゲーコーとギョーコー",
+        "basic_gloss": "frog croak / good fortune sound echo",
+        "limit": "Exact Oto sound contrast after Chio mentions croak and gyoko; sound-based local wordplay rather than generic fantasy abstraction."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S047",
+    "spine_position": 47,
+    "printed_page": "045",
+    "witnesses": [
+      {
+        "speaker_addressee": "Temiren to 21/party",
+        "context": "Name-announcement skill used on an ally for initiative control.",
+        "short_exact_anchor_if_recorded": "我が名はてみれん！",
+        "basic_gloss": "My name is Temiren!",
+        "limit": "Performance with stated game effect and reply, not a new main-cast speech witness."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S053",
+    "spine_position": 53,
+    "printed_page": "051",
+    "witnesses": [
+      {
+        "speaker_addressee": "21 to party",
+        "context": "They present killing the defeated frog as completion of Axis membership.",
+        "short_exact_anchor_if_recorded": "踏み絵",
+        "basic_gloss": "loyalty test / test of allegiance",
+        "limit": "Contextual historical allusion used by the coerced participant, not proof of literal historical reenactment."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S077",
+    "spine_position": 77,
+    "printed_page": "075",
+    "witnesses": [
+      {
+        "speaker_addressee": "Gilbert to skeptical party",
+        "context": "Truth about Wally after a successful information check.",
+        "short_exact_anchor_if_recorded": "私は本当のことを言っているのに",
+        "basic_gloss": "Even though I am telling the truth",
+        "limit": "Local credibility problem; no guarantee his every other claim is truthful."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S086",
+    "spine_position": 86,
+    "printed_page": "084",
+    "witnesses": [
+      {
+        "speaker_addressee": "Oto to 21 privately",
+        "context": "Explains compulsive preparation and shared truck-death regret.",
+        "short_exact_anchor_if_recorded": "俺はベストを尽くさないのが嫌なんだ。",
+        "basic_gloss": "I hate failing to do my best.",
+        "limit": "Character self-report elicited in a newly staged scene, not an independent unseen psychological measurement."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S092",
+    "spine_position": 92,
+    "printed_page": "090",
+    "witnesses": [
+      {
+        "speaker_addressee": "21 to Goran",
+        "context": "Rejects the destruction plan after swallowing the jewels.",
+        "short_exact_anchor_if_recorded": "人肌のぬくもり",
+        "basic_gloss": "human warmth",
+        "limit": "Performed value claim by this PC with local party context, not evidence every artificial being shares it."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S100",
+    "spine_position": 100,
+    "printed_page": "098",
+    "witnesses": [
+      {
+        "speaker_addressee": "21 to Goran/party",
+        "context": "Declares accepted town identity before facility healing.",
+        "short_exact_anchor_if_recorded": "この素晴らしい拠点に安住を！",
+        "basic_gloss": "A secure home in this wonderful base!",
+        "limit": "Title-callback declaration tied to this party's base, not a new principal-novel utterance."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S108",
+    "spine_position": 108,
+    "printed_page": "106",
+    "witnesses": [
+      {
+        "speaker_addressee": "21 to companions",
+        "context": "Welcomed after mediating and defending the base.",
+        "short_exact_anchor_if_recorded": "トライヘッドドラゴンの弔いもしてやりたい",
+        "basic_gloss": "I would also like to hold a memorial for the Trihead Dragon.",
+        "limit": "Stated compassionate intention; completed funeral is not narrated."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S109",
+    "spine_position": 109,
+    "printed_page": "107 (sequence inferred; divider unnumbered)",
+    "witnesses": [
+      {
+        "speaker_addressee": "Kazuma-depicted instructional figure to reader",
+        "context": "Adventurer strengthening feature announcement after advanced-class and monster-PC features.",
+        "short_exact_anchor_if_recorded": "……はず",
+        "basic_gloss": "... should be / I think",
+        "limit": "Brief certainty-withholding ending in an instructional balloon; attribution rests on depicted character, not a printed speaker tag."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S117",
+    "spine_position": 117,
+    "printed_page": "115 (sequence inferred; sample art unnumbered)",
+    "witnesses": [
+      {
+        "speaker_addressee": "unnamed male-styled sample knight to companions/enemy",
+        "context": "Illustrated archetype promise.",
+        "short_exact_anchor_if_recorded": "オレを抜かない限り",
+        "basic_gloss": "unless you get past me",
+        "limit": "Rough masculine sample voice with protective boast; no proper-name identity or performed outcome."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S119",
+    "spine_position": 119,
+    "printed_page": "117 (sequence inferred; sample art unnumbered)",
+    "witnesses": [
+      {
+        "speaker_addressee": "unnamed illustrated mage to target",
+        "context": "Sample ability invocation rather than continuous scene.",
+        "short_exact_anchor_if_recorded": "喰らえ！",
+        "basic_gloss": "Take this!",
+        "limit": "Short attack imperative adjoining Inferno; not a named principal's utterance."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S121",
+    "spine_position": 121,
+    "printed_page": "119 (sequence inferred; sample art unnumbered)",
+    "witnesses": [
+      {
+        "speaker_addressee": "unnamed sample priest to hearer",
+        "context": "Archetype slogan.",
+        "short_exact_anchor_if_recorded": "魔王倒すべし！",
+        "basic_gloss": "The Demon King must be defeated!",
+        "limit": "Compressed be-shi exhortation; no specific deity affiliation or principal-character attribution."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S123",
+    "spine_position": 123,
+    "printed_page": "121 (sequence inferred; sample art unnumbered)",
+    "witnesses": [
+      {
+        "speaker_addressee": "unnamed assassin sample to unspecified hearer",
+        "context": "Archetype complaint alongside dangerous-world survival flavor.",
+        "short_exact_anchor_if_recorded": "ちょーヤバいんですけど",
+        "basic_gloss": "This is seriously bad, you know.",
+        "limit": "Casual intensifier with polite clause ending, expressed as sample voice rather than a principal alias."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S237",
+    "spine_position": 237,
+    "printed_page": "unnumbered world-section divider (between234 and236)",
+    "witnesses": [
+      {
+        "speaker_addressee": "Top grape-ornament figure, name unprinted; addresses reader/other divider figures",
+        "context": "World-section introduction anticipation",
+        "short_exact_anchor_if_recorded": "ついに私たちが紹介されますわ",
+        "basic_gloss": "At last we are being introduced.",
+        "limit": "Stylized instructional dialogue, not an independently performed novel scene; upper-role feminine sentence ending."
+      },
+      {
+        "speaker_addressee": "Bottom star-clip child, name unprinted; reader/adventurer",
+        "context": "After grand-adventure invitation",
+        "short_exact_anchor_if_recorded": "ごはんおごって",
+        "basic_gloss": "Treat me to a meal.",
+        "limit": "Short childlike request, attribution unconfirmed on this page."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S248",
+    "spine_position": 248,
+    "printed_page": 246,
+    "witnesses": [
+      {
+        "speaker_addressee": "Vanir sample quote; profile reader",
+        "context": "Profile laughter paired with grandiose demonic self-positioning",
+        "short_exact_anchor_if_recorded": "フハハハハ！",
+        "basic_gloss": "Fwahahaha!",
+        "limit": "Editorial sample, no actual conversational turn or audio."
+      },
+      {
+        "speaker_addressee": "Yunyun sample quote; implied introduction audience",
+        "context": "Hesitant Crimson-style name announcement",
+        "short_exact_anchor_if_recorded": "わ、我が名はゆんゆん……",
+        "basic_gloss": "M-my name is Yunyun...",
+        "limit": "Stammer and ellipsis interact with grandiose 我が名; profile separately says usual first私, not contradiction repaired."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S249",
+    "spine_position": 249,
+    "printed_page": 247,
+    "witnesses": [
+      {
+        "speaker_addressee": "Komekko profile sample; introduction audience",
+        "context": "Grandiose Crimson introduction",
+        "short_exact_anchor_if_recorded": "紅魔族随一の魔性の妹！",
+        "basic_gloss": "The Crimson Demons' foremost beguiling little sister!",
+        "limit": "Playful self-title, no claim of actual magical/sexual power."
+      },
+      {
+        "speaker_addressee": "Soketto profile sample; fortune client",
+        "context": "Reassurance despite future-seeing ability",
+        "short_exact_anchor_if_recorded": "未来は変えられるものよ",
+        "basic_gloss": "The future can be changed.",
+        "limit": "Attributed profile line, not pre-registered forecast."
+      },
+      {
+        "speaker_addressee": "Eris profile sample; introduction audience",
+        "context": "Polite self-introduction",
+        "short_exact_anchor_if_recorded": "名はエリスと申します",
+        "basic_gloss": "My name is Eris.",
+        "limit": "Humble申します; no audio or full real scene."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S250",
+    "spine_position": 250,
+    "printed_page": 248,
+    "witnesses": [
+      {
+        "speaker_addressee": "Chris profile sample; introduction audience",
+        "context": "Casual thief self-introduction",
+        "short_exact_anchor_if_recorded": "あたしはクリス",
+        "basic_gloss": "I'm Chris.",
+        "limit": "Casualあたし compared to formal royal lines, no identity revelation."
+      },
+      {
+        "speaker_addressee": "Iris profile sample; introduction audience",
+        "context": "Formal royal self-introduction",
+        "short_exact_anchor_if_recorded": "第一王女、アイリスと申します",
+        "basic_gloss": "I am Iris, the first princess.",
+        "limit": "Pronounreadingwatakushi supplied in source, quoted fragment omitsfullkingdom."
+      },
+      {
+        "speaker_addressee": "Claire profile sample; introduction audience",
+        "context": "Lineage/eldest-daughter self-identification",
+        "short_exact_anchor_if_recorded": "シンフォニア家の長女クレア",
+        "basic_gloss": "Claire, eldest daughter of the Sinforia family.",
+        "limit": "Editorial sample, no invented flustered speech inferred from art."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S251",
+    "spine_position": 251,
+    "printed_page": 249,
+    "witnesses": [
+      {
+        "speaker_addressee": "Zesta profile sample; unprinted interlocutor",
+        "context": "Question isolates broad promise",
+        "short_exact_anchor_if_recorded": "今、何でもと言いましたか？",
+        "basic_gloss": "Did you just say anything?",
+        "limit": "Profile sample, missing preceding conversational promise, do not invent actual demand."
+      },
+      {
+        "speaker_addressee": "Cecily profile sample; introduction audience",
+        "context": "Institutional branch-head self-introduction",
+        "short_exact_anchor_if_recorded": "セシリーと申します",
+        "basic_gloss": "My name is Cecily.",
+        "limit": "Humblepoliteform contrasts profile's harassment/desire traits but not full performedconversa tion."
+      },
+      {
+        "speaker_addressee": "Mitsurugi profile sample; implied rival/audience",
+        "context": "Heroic declaration",
+        "short_exact_anchor_if_recorded": "魔王を倒すのはこのボクだ",
+        "basic_gloss": "I am the one who will defeat the Demon King.",
+        "limit": "Emphaticこのボク/selfclaim, not completed victory or preregistered forecast."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S253",
+    "spine_position": 253,
+    "printed_page": "unnumbered GM divider (between250 and252)",
+    "witnesses": [
+      {
+        "speaker_addressee": "Aqua; Eris/Chris/reader",
+        "context": "Appropriates GM section from god analogy",
+        "short_exact_anchor_if_recorded": "GMは神！",
+        "basic_gloss": "The GM is a god!",
+        "limit": "Staged divider claim followed by personal ownership, not operational authority."
+      },
+      {
+        "speaker_addressee": "Eris; Aqua/reader",
+        "context": "Understated objection to repetition",
+        "short_exact_anchor_if_recorded": "前回と同じネタを使うのは……",
+        "basic_gloss": "Using the same joke as last time...",
+        "limit": "Elliptical disapproval; explicitly meta."
+      },
+      {
+        "speaker_addressee": "Chris; Aqua/reader",
+        "context": "Clarifies intended audience",
+        "short_exact_anchor_if_recorded": "GMのための章だからね",
+        "basic_gloss": "It's a chapter for the GM.",
+        "limit": "Casual reminder, no external instruction to assistant."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S278",
+    "spine_position": 278,
+    "printed_page": 276,
+    "witnesses": [
+      {
+        "speaker_addressee": "Authored cabbage skill title, not an actually spoken vegetable line",
+        "context": "Heroic departure skill in a bestiary entry",
+        "short_exact_anchor_if_recorded": "俺に任せて先に行け",
+        "basic_gloss": "Leave this to me and go on ahead.",
+        "limit": "Rule title supplies the stylized voice; no independently performed dialogue."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S284",
+    "spine_position": 284,
+    "printed_page": 282,
+    "witnesses": [
+      {
+        "speaker_addressee": "Narrated description of an artificial dragon's sound",
+        "context": "A nearly perfect dragon imitation has a catlike verbal tell",
+        "short_exact_anchor_if_recorded": "にゃー",
+        "basic_gloss": "Meow.",
+        "limit": "Printed sound in a bestiary description, not an actual replay utterance."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S297",
+    "spine_position": 297,
+    "printed_page": 295,
+    "witnesses": [
+      {
+        "speaker_addressee": "Megumin to a reader",
+        "context": "Staged scenario-spoiler warning",
+        "short_exact_anchor_if_recorded": "撃ち込みます！",
+        "basic_gloss": "I'll blast it at you!",
+        "limit": "Threat in an editorial divider; no explosion actually performed."
+      },
+      {
+        "speaker_addressee": "Darkness to editorial company/reader",
+        "context": "She notices no earlier lines",
+        "short_exact_anchor_if_recorded": "あ、あの",
+        "basic_gloss": "Um, excuse me...",
+        "limit": "Printed stammer and embarrassed pose, not acoustic performance."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S300",
+    "spine_position": 300,
+    "printed_page": 298,
+    "witnesses": [
+      {
+        "speaker_addressee": "Metal Mōrā to targets",
+        "context": "Prescribed opening attack",
+        "short_exact_anchor_if_recorded": "攻撃開始",
+        "basic_gloss": "Commencing attack.",
+        "limit": "Scenario specifies Japanese; it does not create an actual acoustic witness."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S305",
+    "spine_position": 305,
+    "printed_page": 303,
+    "witnesses": [
+      {
+        "speaker_addressee": "Unnamed female NPC wizard quoting Bōren to PCs",
+        "context": "She recounts a rejected marriage proposal and continued confinement",
+        "short_exact_anchor_if_recorded": "時間はある",
+        "basic_gloss": "There's time.",
+        "limit": "Reported NPC line inside a hypothetical scenario; not a principal-character voice witness."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S307",
+    "spine_position": 307,
+    "printed_page": 305,
+    "witnesses": [
+      {
+        "speaker_addressee": "Bōren to hypothetical PCs",
+        "context": "Control device attacked",
+        "short_exact_anchor_if_recorded": "正々堂々",
+        "basic_gloss": "Fair and square.",
+        "limit": "Authored conditional reaction, not actual play or novel dialogue."
+      }
+    ]
+  },
+  {
+    "component_id": "TRPG-ADV-S310",
+    "spine_position": 310,
+    "printed_page": 308,
+    "witnesses": [
+      {
+        "speaker_addressee": "Rescued unnamed NPC party to PCs",
+        "context": "During tank combat, from hiding",
+        "short_exact_anchor_if_recorded": "ここから応援してるから！",
+        "basic_gloss": "We're cheering you on from here!",
+        "limit": "Prescribed scenario dialogue, not an independent encounter witness."
+      }
+    ]
+  }
+]

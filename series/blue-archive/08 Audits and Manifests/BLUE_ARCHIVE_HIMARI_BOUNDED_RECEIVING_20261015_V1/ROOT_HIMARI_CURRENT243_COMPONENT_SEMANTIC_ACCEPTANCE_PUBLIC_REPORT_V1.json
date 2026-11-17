@@ -1,0 +1,244 @@
+{
+  "schema": "HIMARI_ACTUAL_ROOT_COMPONENT_SEMANTIC_ACCEPTANCE_DATED_PUBLIC_REPORT_V1",
+  "reporting_preparer": "/root/m008_composition_review",
+  "original_ROOT_witness_id": "ROOT_HIMARI_CURRENT243_EXACT8_COMPONENT_SEMANTIC_ACCEPTANCE_20261015_V1",
+  "actual_original_ROOT_receipt_tuple": {
+    "bytes": 13446,
+    "sha256": "0df4f26c368f30ee14ae4273dff7124a1299ea21363ebdc33ddeb5d159abd139",
+    "git_blob_oid_of_actual_bytes": "5b30ca972ac4a06dfaba285c4fe80349328f89e7"
+  },
+  "preparation_scope": {
+    "at_composition_2026_10_15": "This is C-only metadata preparation. Original semantic/reviewer decisions are dated at original243 body/current8 scope, not a claim that the composer newly received the whole832944 manual or underlying sources.",
+    "actual_accepted_semantic_scope": "Actual ROOT13446 accepted exact8 WITH LIMITS for metadata composition after all105/65/14 unique peer reasons and prior body525/65/42 receiving; the complete original peer report is carried literally except declared whole location values.",
+    "future_gates_at_preparation": "Distinct current-byte QA, ROOT composed-byte acceptance, shared metadata, exact freeze/install/preflight, live provider controls, normal publication/readback and new exact-head CI remain separately owned by actual dated ROOT receipts. No future completion is granted here.",
+    "source_grade_roles": "Author and original peer13WHOLE1542+3SELECTED122 maintained scopes remain attributed separately; ROOT own normal254/O03whole108 and recorded selected scopes remain its own. No primary20/native/raw/AV/fresh normal105 grade transfer.",
+    "historical_original_map_scope": "Original201198 source-map source_book pointers and original243 reconstruction/QA/ROOT tuples remain dated original bases. Current source1 grade joins and newly measured public-body geometry are separately operative.",
+    "fixed_scope": "Existing home43/F052/CH0159/20020/20054 only. No named duty, REL350 completion, identity join, model, source admission or count. All14 original gaps OPEN; models0. Actual published152/355 and named19/29 at f93 are historical current-at-composition facts, not increased by this candidate. PR173 pending human approval remains separate."
+  },
+  "complete_original_ROOT_semantic_acceptance_payload": {
+    "schema": "ROOT_HIMARI_CURRENT243_COMPLETE8_SOURCE_PURPOSE_LITERARY_ADOPTION_WITH_LIMITS_FOR_PUBLIC_COMPOSITION_ONLY_V1",
+    "ROOT": "ROOT",
+    "UTC": "2026-10-15T04:06:32.270758+00:00",
+    "decision": "ACCEPT_CURRENT_EXACT8_WITH_LIMITS_FOR_PUBLIC_METADATA_COMPOSITION_ONLY",
+    "current_handoff": {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_d8f5fb6ff95b85eb0e501330c33a52e6c887f6b7605f47d1959bec7fce2fc473",
+      "bytes": 17374,
+      "sha256": "d0f76cec4e0118ca2674cac33c9c4c3c72f178aebef563bdff9dc8c41f86d9e7",
+      "git_blob_oid_of_actual_bytes": "5070e9189d417ce63e60b37271cbc6d41d13d611"
+    },
+    "current8": [
+      {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_a0b2145de1120b8ce532de97249a99a60fc62ed6166e37728270c87c6f479033",
+        "bytes": 41255,
+        "sha256": "07233d34609f388d00757b4cf041d1eedb5512ddbb549e8c02db233311f741f1",
+        "git_blob_oid_of_actual_bytes": "ffa17b6de999d0cc084f98c86bf91be27bdb2e43"
+      },
+      {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_009069851919ca437b0bc68aa82b43171864d36e183e78fd4a6b0e133545b5dd",
+        "bytes": 426972,
+        "sha256": "14d1f36531e797b166e065c05b607a048e689e9abbc80446576c019dc5ee2d2d",
+        "git_blob_oid_of_actual_bytes": "6cc0637fb821fb9271b321670fc083c65a9e408b"
+      },
+      {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_839605a6bfc5d6724546ec8e917964ae0b9a7883add036506f2208168938e0ad",
+        "bytes": 554808,
+        "sha256": "9c2ba28e8db64480e4ef75f91e97d63da6df324e5498ccf1c6922f051326d9f7",
+        "git_blob_oid_of_actual_bytes": "d3be7c80d7f26eadfab23d98c09ecd1811e9fd41"
+      },
+      {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_e6f0971e5dc6fa5247b98478cc87355ea6ccded4b51a8468d752eabf1ffcf3e9",
+        "bytes": 750333,
+        "sha256": "8b45613b84ee78c37b6f3f4505a0f3cbefc6a6535e8efe5b6de86de6cd4fee62",
+        "git_blob_oid_of_actual_bytes": "c577fb250909c8b3138d8fab546c6edb3d85723f"
+      },
+      {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_5866da8d5a051164bd9a50d6208736ee0b22d165fe365777874c19cf1b7540cd",
+        "bytes": 49344,
+        "sha256": "22d6b0bc5853821a30a631ef29e6fa63fae3e47695528a414e8e0f0efe761439",
+        "git_blob_oid_of_actual_bytes": "460bf0a7333e9830526b044e38a6a20a427a35e7"
+      },
+      {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_2abcd5e68073502cf07c5e62cd10a92dcd448c04595a97c0443a6b88c2eebf8e",
+        "bytes": 1026437,
+        "sha256": "28a9f91b93959d674e03ee804a6c8a25322020f1c642036baea3d9e25b8fa6f9",
+        "git_blob_oid_of_actual_bytes": "a934da1a42df2e993116734c7c991df718390488"
+      },
+      {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_90f68a63dc6dccddf8afaa1ccbb3e397a622b7236f6483d10fe2dfa60f9c1acc",
+        "bytes": 333163,
+        "sha256": "8f5a34cf04a972ea6941fc84a853015aa048ed8d421f4f6c86e11d9a32cd13a9",
+        "git_blob_oid_of_actual_bytes": "4334b53937937fb44f609af1f8d0cab950704d83"
+      },
+      {
+        "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_54e06cd1f337bd15a0ca91d4c1a20c2f16302d44afe3d1f2c655047bfe4bb1a6",
+        "bytes": 15228,
+        "sha256": "b5f7ee65a46a359c13fe9649cd589af8d61221ad2a5c0db94d50870ab75b7535",
+        "git_blob_oid_of_actual_bytes": "ced839e55c42a9cbf364bb3442e3b2bdcd0d41d0"
+      }
+    ],
+    "distinct_full_QA": {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_2069d825a6ec58115f2b15746d26b36c85f815667156def02eadddb4deb89b9a",
+      "bytes": 832944,
+      "sha256": "d2b1075bf1b85a525aecff4ca56eca8dd47b1c9a3c47d914ddb62edb1758b6f3",
+      "git_blob_oid_of_actual_bytes": "00ea7af013be33ed92b97cd60cd19a0f4ae20c54"
+    },
+    "distinct_actual_mechanics": {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_7f879e691c27f7a9db5727ab2b0b021e1abce7b1d3d6919eec0f5fcd968712f6",
+      "bytes": 494490,
+      "sha256": "8b9d2b8c5ab45365f1d0fcf3d3878d32720e7d9a7efc0a099f01224456c15fd0",
+      "git_blob_oid_of_actual_bytes": "7471f0d900cb3660e89d58954d5f66e381686da8"
+    },
+    "distinct_full_QA_receiving_manifest": {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_82f39c2def62e6c8df3e298604842788069e7386c75c8e9c4a98c2f3afa7385e",
+      "bytes": 9619,
+      "sha256": "91c083bf88b54282b8922777d62bfbd3ecd3d77329a39072657443780fd5c29e",
+      "git_blob_oid_of_actual_bytes": "1920110fd545e8f9baa90bf9f8dad6e491a7b82c"
+    },
+    "ROOT_complete_unique_reason_receiving": [
+      "6636c8",
+      "040887",
+      "b34b53",
+      "d3972b",
+      "b0980b",
+      "13ac42"
+    ],
+    "ROOT_prior_complete525_65_42_receiving": {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_27b699f2470e86713b7cc0eee4599b5ed56b91961557182324102f2de94276fa",
+      "bytes": 5552,
+      "sha256": "f72550aaf3d14a8348e48152074bb2a5b46c2f0c71cc044196d8eebebd2fba81",
+      "git_blob_oid_of_actual_bytes": "806984b430363e6d50c37a9901a66385317a4121"
+    },
+    "ROOT_actual_full_raw_preservation": {
+      "C_path": "HIMARI_PRIVATE_LOCATION_SHA256_8fed960f69f2f7baa0ef3c08a7c78ef980d1a9e255b454160478dae6f627f498",
+      "bytes": 9858,
+      "sha256": "38a93212cce4b6b8fee47ce216802cf12e29f8d7d68895bdd1e12ff856088c7e",
+      "git_blob_oid_of_actual_bytes": "83eb0230f251a1545b3c0846e4c4b92bd4373f3a"
+    },
+    "actual_selected_values_fidelity": {
+      "total_units": 195,
+      "complete_purpose_own_reasons": 105,
+      "complete_newjoin_own_reasons": 65,
+      "complete_control_own_reasons": 14,
+      "all_values_literal_equal_to_whole_manual": true,
+      "all525_and65_literal_values_equal_to_actual_current8": true
+    },
+    "ROOT_own_complete_reasons": [
+      {
+        "scope": "Complete finite responsibility",
+        "own_reason": "I accept the exact current8 for existing home43/F052/P3-CHAR-HIMARI-CH0159 WITH LIMITS, permitting public metadata composition only. This is a literary/source-purpose decision at the disclosed maintained/report grades, not a model or a completed canonical installation."
+      },
+      {
+        "scope": "Own actual meaning receiving",
+        "own_reason": "I previously received the complete65 body and its adequate body review, then actually received all525 new values, all65 current joins/647 associations, all42 source1/transport members and complete unique author closure. Those named actual receipts establish my assessed meaning scope; byte pins alone do not."
+      },
+      {
+        "scope": "Independent complete reasons received",
+        "own_reason": "I received the full six195-unit pages at6636c8/040887/b34b53/d3972b/b0980b/13ac42: all105 newpurpose reasons,65 newjoin reasons and14 control reasons plus full unique metadata. Every selected reason/disposition equals the corresponding whole manual value. I do not claim a whole832944 human print."
+      },
+      {
+        "scope": "Source-specific new functions",
+        "own_reason": "The new functions test particular tasks and recipients: wanted company and music; useful but sometimes adverse care; covert testing; circulated reputation defense; fallible programs; mobility and exploration; and distributed public contribution. They retain ordinary wants rather than requiring exceptional utility or reducing every interaction to a safety success/failure."
+      },
+      {
+        "scope": "Current precision retained",
+        "own_reason": "HIP087 is agreement/unpacking rather than a fulfilled week;088 separates Juri service and Fuuka rest;094 concerns requested reading access;096 preserves supplied food before bargaining, an executed contract and unprinted ratio, and unperformed future collection. HIP103 uses the saved Anna/Elina actor distinction. Those current claims do not rewrite their frozen originals."
+      },
+      {
+        "scope": "Causal and actor limits",
+        "own_reason": "HIP098/P036 retains inward purpose to buy time, Eimi hardware and Rio cracking as separate actions. Actual help is not a uniquely measured successful window or final victory. Public encrypted data, roughly2KB file and unknown-voice/source seams do not resolve ontology, resurrection, clinical recovery or identity."
+      },
+      {
+        "scope": "Finite and plural reception",
+        "own_reason": "Completed music, small tasks, shared flavor, a safe local ride and requested presence are real finite goods. They do not erase displaced requests, painful stretches, lost time, adverse screens or unprinted safeguards. A criticism or refusal likewise does not erase an earlier positive act."
+      },
+      {
+        "scope": "Adequate source grades remain personal",
+        "own_reason": "Author and independent peer13WHOLE1542/3SELECTED122 maintained-source scopes are attributed separately. Root personally received normal254 and O03whole108, current body/values/reasons at recorded scopes and separate selected contextual evidence; this decision does not borrow another agent primary/native/raw/AV or fresh normal105 credit."
+      },
+      {
+        "scope": "Current and original graph roles",
+        "own_reason": "The source_book pointers belong to the immutable201198 map. Operative full source grade references target current source16 or separate documentary controls; the647 newpurpose connections resolve their actual current parts. P001 needs no arbitrary comparison. Original26WHOLE/79SELECTED report scopes stay attributed and untransferred."
+      },
+      {
+        "scope": "Actual full preservation",
+        "own_reason": "My actual9858 fidelity at68d4d9 executes all20 declared raw-copy pins, all14 original envelope raw inverses/current forwards,525 values,65 geometry,42 control members and647 joins. The peer independently performed its separate494490 check. These establish fidelity alongside assessed meanings; they do not create semantic coverage from CI or a counter."
+      },
+      {
+        "scope": "Narrow original controls",
+        "own_reason": "61767 is limited to its six owners,59334 remains its original GSC16 coffee-direction scope, and the quoted original Minato phrase remains historical rather than current Himari identity. Documentary PRECISION/ROOTOLD are controls, not17th/18th core story sources. Producer one actual check and incoming14check count remain distinct."
+      },
+      {
+        "scope": "Bounded framework and next execution",
+        "own_reason": "No named duty, new home, identity join or separate directed Himari-Eimi REL350 completion is granted. All14 original gaps remain OPEN and models0. Actual source count152/355, named19/29 atf93 is unchanged; public12 composition, distinct current byteQA, new Root byte decision, shared metadata, install/push/live exact-head audits and reserved merges remain separate future operations. RequiredPR173 approval remains pending."
+      }
+    ],
+    "actual_published_required_count": 152,
+    "required_total": 355,
+    "actual_named": 19,
+    "named_total": 29,
+    "new_count_credit": 0,
+    "PR173": "PENDING_HUMAN_APPROVAL_UNMERGED",
+    "PR158_main_merge": "RESERVED",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "R_Git_provider_shared_protected39_private9_payload_reads_hashes_or_writes": 0,
+    "ROOT_human_whole832944_manual_claim": false,
+    "public_current_metadata_byte_acceptance_install_commit_push_new_runtime": "NOT_EXECUTED"
+  },
+  "current_composed_first8_for_navigation_not_ROOT_byte_adoption": [
+    {
+      "C_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIMARI_BOUNDED_CHARACTER_MONOGRAPH.md",
+      "bytes": 42423,
+      "sha256": "a0c731f6fcb41aeec41ffba74b42ca37fce6cc9921d360d1bab2d759b64a297e",
+      "git_blob_oid_of_actual_bytes": "6a449a5f5fba99307b72197ae0d89daec03e9173"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIMARI_BOUNDED_RECEIVING_20261015_V1/HIMARI_ALL105_NEW_PURPOSES_HIP000_HIP035_V1.json",
+      "bytes": 426813,
+      "sha256": "08d8e2e9b930eab6f40941757626dfce86b2f3e0285c79e3775689fb6be6e7e1",
+      "git_blob_oid_of_actual_bytes": "b733f077f0a6628922598461386d525407798c4f"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIMARI_BOUNDED_RECEIVING_20261015_V1/HIMARI_ALL105_NEW_PURPOSES_HIP036_HIP070_V1.json",
+      "bytes": 554649,
+      "sha256": "6011dead288cf6ec67600644d236dc9abb05b29df022eb0f48ef70334075462a",
+      "git_blob_oid_of_actual_bytes": "5a5212f35f1211204da56d065d3276aca562eff4"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIMARI_BOUNDED_RECEIVING_20261015_V1/HIMARI_ALL105_NEW_PURPOSES_HIP071_HIP104_V1.json",
+      "bytes": 750174,
+      "sha256": "d28b1f0b06e43b65760b0a0fd3a0400b30de47561980b112b2cc791d0a817623",
+      "git_blob_oid_of_actual_bytes": "9059185b4ce754fa7814f163348a7bf71f6519e6"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIMARI_BOUNDED_RECEIVING_20261015_V1/HIMARI_SOURCE16_COMPLETE12_QUESTIONS_CURRENT_QUALIFIERS_AND_ACTUAL_GRADE_RECEIVING_V1.json",
+      "bytes": 44319,
+      "sha256": "a229b3882e4b79a1946f49c3c3ca4c6bbd9832d69c362f14d0cc7130de60ff51",
+      "git_blob_oid_of_actual_bytes": "b55253f535aa3f7c693e4bfdca57bd37b65dfff6"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIMARI_BOUNDED_RECEIVING_20261015_V1/HIMARI_CURRENT243_COMPLETE_LITERAL65_SOURCE_QUESTION_PURPOSE_RIVAL_END_GAP_REGISTER_V1.json",
+      "bytes": 968031,
+      "sha256": "22dea76904938d155e86741b2ea5778e02b42e10650edac9fcec548f391007dd",
+      "git_blob_oid_of_actual_bytes": "3ad746de4e79abd8a1186eadd4457a258ff55be6"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIMARI_BOUNDED_RECEIVING_20261015_V1/HIMARI_ALL105_NEW_PURPOSE_EXACT_PART_AND_BODY_RELATION_INDEX_V1.json",
+      "bytes": 308708,
+      "sha256": "709e4d78ed2812d0cac08bcd8db46126408319ed57960847fbeb3db1f32da364",
+      "git_blob_oid_of_actual_bytes": "3d4312914f28543b7a867e1888ebf28aafbe125f"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIMARI_BOUNDED_RECEIVING_20261015_V1/HIMARI_CURRENT_EXACT8_ORIGINAL_CUSTODY_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 11354,
+      "sha256": "37b0feb74d7794898f3b0cb0551000a4878a880f845d1f02643a38229daa94bc",
+      "git_blob_oid_of_actual_bytes": "642cc21eabbf6a1da2999be895d4ab180f567e39"
+    }
+  ],
+  "original_distinct_QA_reporting_component": {
+    "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIMARI_BOUNDED_RECEIVING_20261015_V1/HIMARI_PRIOR_COMPLETED_COMPONENT_REVIEW_TRUTHFUL_PUBLIC_INPUT_REPORT_V1.json",
+    "bytes": 818648,
+    "sha256": "d1d72ceee0d61a6de3b14682a86d769e09aff3458aca819f916eeb98bdc57e7a",
+    "git_blob_oid_of_actual_bytes": "aab6aba2d44aa0306cce1edb1e1d116afc93f77f"
+  }
+}

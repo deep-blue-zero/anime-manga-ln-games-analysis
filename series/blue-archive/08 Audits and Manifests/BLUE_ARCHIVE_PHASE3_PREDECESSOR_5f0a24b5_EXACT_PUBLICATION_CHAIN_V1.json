@@ -1,0 +1,97 @@
+{
+  "schema": "BLUE_ARCHIVE_QUALIFIED_PREDECESSOR_EXACT_PUBLICATION_CHAIN_V1",
+  "status": "ROOT_EXACT_PREDECESSOR_CHAIN_PASS",
+  "source_commit": "5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+  "source_tree": "d9480b682b3eabe70980ef23f987250f7969063e",
+  "original_exact_tuple": {
+    "path": "EXACT_PUBLICATION_CHAIN_5f0a24b5.json",
+    "bytes": 5741,
+    "sha256": "82717e132563aae7dd275e1b5edea466bb8f340192aacefa19ceda400465939c",
+    "git_blob_oid_of_actual_bytes": "9fa47b0d26b345009d73b9cb19ac0661e4490860",
+    "lines": 82,
+    "immutable_transport_path": "immutable_originals/EXACT_PUBLICATION_CHAIN_5f0a24b5.json"
+  },
+  "complete_original_ROOT_publication_chain": {
+    "checked_at": "2026-10-10T13:23:32.033137+00:00",
+    "result": "PASS",
+    "source_commit": "5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+    "source_tree": "d9480b682b3eabe70980ef23f987250f7969063e",
+    "current_main": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+    "housekeeping": "NO_OP_NO_GENERATED_CHILD",
+    "chain": {
+      "source": {
+        "id": 38053904034,
+        "name": "Repository audit",
+        "event": "push",
+        "head_sha": "5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+        "status": "completed",
+        "conclusion": "success",
+        "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38053904034",
+        "created_at": "2026-10-10T12:58:00Z",
+        "updated_at": "2026-10-10T13:12:29Z",
+        "log_sha256": "f241d95955e5aab4e25654343ad8682843cb3c388a505b2d084316f9e295e015",
+        "exact_evidence_lines": [
+          "Read-only integrity and publication audit\tCheck out the exact public commit\t2026-10-10T12:58:03.8707347Z   AUDIT_COMMIT: 5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+          "Read-only integrity and publication audit\tInstall hash-locked validation dependencies\t2026-10-10T12:58:11.4344465Z   AUDIT_COMMIT: 5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+          "Read-only integrity and publication audit\tValidate authored content or the exact integration commit\t2026-10-10T12:58:14.3250969Z   AUDIT_COMMIT: 5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+          "Read-only integrity and publication audit\tValidate authored content or the exact integration commit\t2026-10-10T13:00:20.6774622Z PASS: phase=current snapshot=5f0a24b56557f308e9cef31c7d1c2d58406ef49a paths=6867",
+          "Read-only integrity and publication audit\tSummarize audit execution\t2026-10-10T13:12:20.9496163Z   AUDIT_COMMIT: 5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+          "Report the result on the audited commit\tPublish only the exact audit status\t2026-10-10T13:12:26.8510460Z   AUDIT_COMMIT: 5f0a24b56557f308e9cef31c7d1c2d58406ef49a"
+        ]
+      },
+      "housekeeping": {
+        "id": 38054837040,
+        "name": "Global index housekeeping",
+        "event": "workflow_run",
+        "head_sha": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "status": "completed",
+        "conclusion": "success",
+        "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38054837040",
+        "created_at": "2026-10-10T13:12:31Z",
+        "updated_at": "2026-10-10T13:12:48Z",
+        "log_sha256": "9971076e610739fba284890b608742610967db270ac5ae5b5573b9366068d7c4",
+        "exact_evidence_lines": [
+          "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-10T13:12:44.4721328Z ^[[36;1m  echo \"PASS: unchanged routing and branch boundaries verified; final audit dispatched\"^[[0m",
+          "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-10T13:12:45.8735449Z PASS: unchanged routing and branch boundaries verified; final audit dispatched"
+        ]
+      },
+      "final_full_audit": {
+        "id": 38054853579,
+        "name": "Repository audit",
+        "event": "repository_dispatch",
+        "head_sha": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "status": "completed",
+        "conclusion": "success",
+        "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38054853579",
+        "created_at": "2026-10-10T13:12:47Z",
+        "updated_at": "2026-10-10T13:20:10Z",
+        "log_sha256": "59c9eef450069a63ccbada064e5939fec5b1e7bc670c871baf09bbe504da8fff",
+        "exact_evidence_lines": [
+          "Read-only integrity and publication audit\tCheck out the exact public commit\t2026-10-10T13:12:51.4883780Z   AUDIT_COMMIT: 5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+          "Read-only integrity and publication audit\tInstall hash-locked validation dependencies\t2026-10-10T13:12:59.3639709Z   AUDIT_COMMIT: 5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+          "Read-only integrity and publication audit\tValidate authored content or the exact integration commit\t2026-10-10T13:13:00.8365921Z   AUDIT_COMMIT: 5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+          "Read-only integrity and publication audit\tValidate authored content or the exact integration commit\t2026-10-10T13:14:03.6494879Z PASS: phase=current snapshot=5f0a24b56557f308e9cef31c7d1c2d58406ef49a paths=6867",
+          "Read-only integrity and publication audit\tSummarize audit execution\t2026-10-10T13:19:59.8433579Z   AUDIT_COMMIT: 5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+          "Report the result on the audited commit\tPublish only the exact audit status\t2026-10-10T13:20:06.1646707Z   AUDIT_COMMIT: 5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+          "Report the result on the audited commit\tPublish only the exact audit status\t2026-10-10T13:20:06.8489279Z Reported success for exact audited commit 5f0a24b56557f308e9cef31c7d1c2d58406ef49a"
+        ]
+      }
+    },
+    "exact_status": {
+      "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "id": 56050547583,
+      "node_id": "SC_kwDOUJ9ads8AAAANDN97fw",
+      "state": "success",
+      "description": "Exact commit passed the repository audit",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38054853579",
+      "context": "Repository integration audit",
+      "created_at": "2026-10-10T13:20:06Z",
+      "updated_at": "2026-10-10T13:20:06Z"
+    },
+    "remote_source_equals_audited_commit": true,
+    "quarter_reached": false,
+    "merge_performed": false
+  },
+  "qualification": "This proves the prior54-package source snapshot, not adoption or publication of the unsealed successor. ROOT must verify unchanged exact base and complete successor review before installation. No additional literary/source credit."
+}

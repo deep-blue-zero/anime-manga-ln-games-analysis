@@ -1,0 +1,1111 @@
+{
+  "schema": "INDEPENDENT_LIBRARY_COMPLETE_CURRENT221_BODY105_NEW_TARGET_PURPOSES_LITERAL52_AND_EXACT8_FINAL_MANUAL_QA_V1",
+  "reviewer": "/root/m008_composition_review",
+  "different_author": "I authored none of the Library body, purposes, sources, register, transport or component preservation proofs.",
+  "verdict": "PASS_COMPLETE_CURRENT_BODY_NEW105_PURPOSE_AND_EXACT8_COMPONENT_QA_WITH_LIMITS;ROOT_CURRENT_SEMANTIC_ADOPTION_FINAL_COMPOSITION_INSTALLATION_AND_PUBLICATION_SEPARATE",
+  "findings": [],
+  "current_manifest": {
+    "bytes": 9359,
+    "sha256": "f186d826138c265ac5aae0daf73e17d1565f3664ec41d16ce3a1dd788fdcf00f",
+    "git_blob_oid_of_actual_bytes": "5b22e6d3569ab21bb38bd8556f4c14b3d9a55f51",
+    "retained_private_witness_id": "private-witness:LIBRARY_EXISTING_HOME_COMPLETE_LITERAL52_PURPOSE105_EXACT8_AUTHOR_COMPONENT_MANIFEST_V2.json"
+  },
+  "current_body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_AND_READER_SERVICE_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 42014,
+    "sha256": "48587c4ce60f0c215f47d6a9753c2252bff0c52ffc9e89f6d37e71da21d1b9c7",
+    "git_blob_oid_of_actual_bytes": "bc5ad7d907391fec1da2b2452f3b269caae56373",
+    "physical_lines": 221
+  },
+  "existing_required_home": "P3-INST-LIBRARY-ACCESS-OBJECT-CARE-READER-SERVICE",
+  "existing_named_section": "P3-REL-UI-SHIMIKO-READING-CRAFT-REST",
+  "own_complete_personal_receiving": {
+    "body221_actual_ranges": [
+      {
+        "range": [
+          1,
+          111
+        ],
+        "actual": "c54996"
+      },
+      {
+        "range": [
+          112,
+          221
+        ],
+        "actual": "c7de62"
+      }
+    ],
+    "all105_new_questions_positive_counter_finite_trigger_and_preserved_source_semantics": [
+      {
+        "range": [
+          0,
+          7
+        ],
+        "actual": "6f5467"
+      },
+      {
+        "range": [
+          8,
+          23
+        ],
+        "actual": "244765"
+      },
+      {
+        "range": [
+          24,
+          35
+        ],
+        "actual": "d85210"
+      },
+      {
+        "range": [
+          36,
+          37
+        ],
+        "actual": "2b40c9",
+        "scope": "Only036/037 complete before alternate source-record schema failure at038; no complete038–041 credit"
+      },
+      {
+        "range": [
+          38,
+          47
+        ],
+        "actual": "80fb13",
+        "scope": "Full repaired range after shape-aware originalreport extraction"
+      },
+      {
+        "range": [
+          48,
+          63
+        ],
+        "actual": "b2c0dc"
+      },
+      {
+        "range": [
+          64,
+          75
+        ],
+        "actual": "0c93a8"
+      },
+      {
+        "range": [
+          76,
+          91
+        ],
+        "actual": "2061bb"
+      },
+      {
+        "range": [
+          92,
+          104
+        ],
+        "actual": "c5d325"
+      }
+    ],
+    "all52_manual_source_join_explanations": [
+      {
+        "claims": [
+          "LIB001",
+          "LIB026"
+        ],
+        "actual": "679c5b"
+      },
+      {
+        "claims": [
+          "LIB027",
+          "LIB052"
+        ],
+        "actual": "5edf72"
+      }
+    ],
+    "complete_six_current61767_source_qualifier_meanings": "Actual f115c1 complete; clipped e67569 is excluded from complete receiving credit.",
+    "adequate_grade": "Personally received all105 preserved written source-report positive/counter/finite/limit/trigger arguments and all new Library purpose meanings, with11 declared source/input mode boundaries. This is not full underlying105 maintained normals or primary/native/raw/AV replay.",
+    "existing_middle_body_QA": {
+      "bytes": 153036,
+      "sha256": "98843bc04a29b29c113953cc0190d0223e80227f1582f7a4fe80d413a7b7c22a",
+      "role": "ATTRIBUTED_DIFFERENT_AUTHOR_BODY_ONLY_QA;not my own bodyreading or all105componentQA"
+    },
+    "prior_receiving_progress_immutable": {
+      "evidence_id": "INDEPENDENT_LIBRARY_CURRENT_V2_COMPLETE_PERSONAL221_105_AND52_JOIN_RECEIVING_PROGRESS_V1.json",
+      "bytes": 6068,
+      "sha256": "0ee05161f7c8246b58fb42725a6349dd1fc3bcc86867cfaa005b05b61ac0b959",
+      "git_blob_oid_of_actual_bytes": "ef795d20ee01e3dd51ad654cff6c519225d23dba",
+      "role": "Dated personal receiving complete/mechanics pending checkpoint; the current executed proof closes its own pending mechanics."
+    }
+  },
+  "own_manual_literary_conclusions": [
+    {
+      "object": "Institutional question and thesis",
+      "reason": "The library is answerable through differentiated practices: finding and lending, interpreting old words, controlling access, referral, chosen making, comfortable reading and dispute. Actual usefulness and pleasure coexist with coercive means, recipient refusal, privacy and material or worker cost. The body avoids substituting a universal benign or violent essence for these practices."
+    },
+    {
+      "object": "Fifteen substantial institution dimensions",
+      "reason": "The prose connects formal appointment and local approval, knowledge and shelf practices, resources, service norms, different roles, belonging, dissent, enforcement, memory and local response. Each named dimension has an actual claim and finite argument. They are substantive explanations, not labels or counts used as proof."
+    },
+    {
+      "object": "Twelve substantial directed Ui-Shimiko dimensions",
+      "reason": "Ui quiet, access and proximity interests and Shimiko reading, making and circulation interests remain distinct. First-contact uncertainty, referral and reported objection are not invented shared history. The substantial directed section occupies the existing named duty and adds no required standalone relationship package."
+    },
+    {
+      "object": "Ordinary reading, company, craft and rest",
+      "reason": "Actually found books, comfortable rest, making and shared company deserve analytical weight without a crisis outcome. Wanted rare objects and requested quiet remain meaningful even when not delivered. Craft pleasure does not make stock permission known or turn Ui lost rest into mutual delight; an unexecuted knock-out thought stays unperformed."
+    },
+    {
+      "object": "Recipient and actor precision",
+      "reason": "Shimiko/adult chocolate, work, sleep and blanket care are not assigned to Ui. Ui preserving access and later work differ from Shimiko referral; the referrer does not acquire the performed restoration. Library affinity does not establish every person attendance, agreement or continuing emotion."
+    },
+    {
+      "object": "EVENT852 formal procedure and reception",
+      "reason": "Nagisa commissioning and temporary appointment occur; the intentional-attack inference is challenged. Nagisa encouragement is misheard by Mashiro. Stopped confrontation, accusation, crying, rebuke and actual local approval remain distinct from exchange proposals or permanent reconciliation. The text does not invent a new battle, treat historical hospital references as a fresh event, or complete a charter, treaty or liability settlement."
+    },
+    {
+      "object": "All105 new target purposes",
+      "reason": "I read every new question, affirmative and contrary meaning, finite use and stronger trigger against the preserved source-report argument. They are new comparative questions for Library access/object care/reader service, not transfers of Minato/M008 target acceptance. No absence of a Library name, low stakes, sparse MINI evidence or model status is used to discard positive, negative, ordinary or incomplete experience."
+    },
+    {
+      "object": "Source modes and grade limits",
+      "reason": "The original26 whole and79 selected contributor grades remain attributed. Direct speech, inward thought, reports, choices, narration, metaphors, written repetition and actor or chronology uncertainty remain bounded. Current six-purpose61767 qualifications actively govern relevant preserved old values; the current actor split in LP103 is Anna fear/warmth versus Elina projection."
+    },
+    {
+      "object": "Eight serious rivals and16 finite ends",
+      "reason": "The rival paragraphs expose competing benign-service, coercive-control, ownership, equal-authority and productivity readings without allowing one to erase recipient experiences. Endpoints distinguish actual returned access, loan, local approval, making or rest from unrestricted power, completed repair and permanent settlement. All14 explicit gaps remain OPEN and models stay0."
+    },
+    {
+      "object": "Literal52 body/source joins",
+      "reason": "I personally read the complete body and all52 manual inferential join explanations. Each received paragraph has a recoverable full literal, exact physical line and adequate controlled source ranges;334 checked joins resolve through17 deduplicated segments. The join evidence is maintained analytical argument with attributed stable locators, not fresh primary performance ownership."
+    },
+    {
+      "object": "Frozen original payloads and component graph",
+      "reason": "All105 complete source-report/binding/qualifier five-field objects are exact. Rebinding them into the three complete original extraction carriers recovers each original whole byte payload. The61767 qualifier object and14 private beforeimages are preserved. All8 current public pins and1,274 internal dependency references resolve; seven transport component pins are current. The body full three-line V1 inverse recovers its original."
+    },
+    {
+      "object": "Current author-stage snapshots and gates",
+      "reason": "The package author snapshots mention source2aa/mainf1f as attributed receiving history; current ROOT source24ff and mainbf7 require their separate current composition boundary. No Library candidate receives old source runtime green, package142 acceptance, publication or main integration from this QA. ROOT alone supplies current adoption and final installation/publication controls."
+    }
+  ],
+  "all105_own_independent_target_dispositions": [
+    {
+      "library_purpose_id": "LP000",
+      "owner_id": "O000",
+      "own_independent_actual_receiving": "6f5467",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP001",
+      "owner_id": "O001",
+      "own_independent_actual_receiving": "6f5467",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP002",
+      "owner_id": "O002",
+      "own_independent_actual_receiving": "6f5467",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP003",
+      "owner_id": "O003",
+      "own_independent_actual_receiving": "6f5467",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP004",
+      "owner_id": "O004",
+      "own_independent_actual_receiving": "6f5467",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP005",
+      "owner_id": "O005",
+      "own_independent_actual_receiving": "6f5467",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP006",
+      "owner_id": "O006",
+      "own_independent_actual_receiving": "6f5467",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP007",
+      "owner_id": "O007",
+      "own_independent_actual_receiving": "6f5467",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP008",
+      "owner_id": "O008",
+      "own_independent_actual_receiving": "244765",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP009",
+      "owner_id": "O009",
+      "own_independent_actual_receiving": "244765",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP010",
+      "owner_id": "O010",
+      "own_independent_actual_receiving": "244765",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP011",
+      "owner_id": "O011",
+      "own_independent_actual_receiving": "244765",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP012",
+      "owner_id": "O012",
+      "own_independent_actual_receiving": "244765",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP013",
+      "owner_id": "O013",
+      "own_independent_actual_receiving": "244765",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP014",
+      "owner_id": "O014",
+      "own_independent_actual_receiving": "244765",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP015",
+      "owner_id": "O015",
+      "own_independent_actual_receiving": "244765",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP016",
+      "owner_id": "O016",
+      "own_independent_actual_receiving": "244765",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP017",
+      "owner_id": "O017",
+      "own_independent_actual_receiving": "244765",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP018",
+      "owner_id": "O018",
+      "own_independent_actual_receiving": "244765",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP019",
+      "owner_id": "O019",
+      "own_independent_actual_receiving": "244765",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP020",
+      "owner_id": "O020",
+      "own_independent_actual_receiving": "244765",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP021",
+      "owner_id": "O021",
+      "own_independent_actual_receiving": "244765",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP022",
+      "owner_id": "O022",
+      "own_independent_actual_receiving": "244765",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP023",
+      "owner_id": "O023",
+      "own_independent_actual_receiving": "244765",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP024",
+      "owner_id": "O024",
+      "own_independent_actual_receiving": "d85210",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP025",
+      "owner_id": "O025",
+      "own_independent_actual_receiving": "d85210",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": "Current O025 qualifier removes unsupported chosen-reading specificity. Digging, work/rest, baths and snacks still have value; other grounded Kasumi reading is separate.",
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP026",
+      "owner_id": "O026",
+      "own_independent_actual_receiving": "d85210",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP027",
+      "owner_id": "O027",
+      "own_independent_actual_receiving": "d85210",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP028",
+      "owner_id": "O028",
+      "own_independent_actual_receiving": "d85210",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP029",
+      "owner_id": "O029",
+      "own_independent_actual_receiving": "d85210",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP030",
+      "owner_id": "O030",
+      "own_independent_actual_receiving": "d85210",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP031",
+      "owner_id": "O031",
+      "own_independent_actual_receiving": "d85210",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP032",
+      "owner_id": "O032",
+      "own_independent_actual_receiving": "d85210",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP033",
+      "owner_id": "O033",
+      "own_independent_actual_receiving": "d85210",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP034",
+      "owner_id": "O034",
+      "own_independent_actual_receiving": "d85210",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP035",
+      "owner_id": "O035",
+      "own_independent_actual_receiving": "d85210",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP036",
+      "owner_id": "O036",
+      "own_independent_actual_receiving": "2b40c9",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP037",
+      "owner_id": "O037",
+      "own_independent_actual_receiving": "2b40c9",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP038",
+      "owner_id": "O038",
+      "own_independent_actual_receiving": "80fb13",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP039",
+      "owner_id": "O039",
+      "own_independent_actual_receiving": "80fb13",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP040",
+      "owner_id": "O040",
+      "own_independent_actual_receiving": "80fb13",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP041",
+      "owner_id": "O041",
+      "own_independent_actual_receiving": "80fb13",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP042",
+      "owner_id": "O042",
+      "own_independent_actual_receiving": "80fb13",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": "Fishing remains a wanted experience. Its comparative value does not manufacture completed fishing pleasure or retroactively satisfy requested rest.",
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP043",
+      "owner_id": "O043",
+      "own_independent_actual_receiving": "80fb13",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP044",
+      "owner_id": "O044",
+      "own_independent_actual_receiving": "80fb13",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP045",
+      "owner_id": "O045",
+      "own_independent_actual_receiving": "80fb13",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP046",
+      "owner_id": "O046",
+      "own_independent_actual_receiving": "80fb13",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP047",
+      "owner_id": "O047",
+      "own_independent_actual_receiving": "80fb13",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP048",
+      "owner_id": "O048",
+      "own_independent_actual_receiving": "b2c0dc",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP049",
+      "owner_id": "O049",
+      "own_independent_actual_receiving": "b2c0dc",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP050",
+      "owner_id": "O050",
+      "own_independent_actual_receiving": "b2c0dc",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP051",
+      "owner_id": "O051",
+      "own_independent_actual_receiving": "b2c0dc",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP052",
+      "owner_id": "O052",
+      "own_independent_actual_receiving": "b2c0dc",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP053",
+      "owner_id": "O053",
+      "own_independent_actual_receiving": "b2c0dc",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP054",
+      "owner_id": "O054",
+      "own_independent_actual_receiving": "b2c0dc",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP055",
+      "owner_id": "O055",
+      "own_independent_actual_receiving": "b2c0dc",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP056",
+      "owner_id": "O056",
+      "own_independent_actual_receiving": "b2c0dc",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP057",
+      "owner_id": "O057",
+      "own_independent_actual_receiving": "b2c0dc",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP058",
+      "owner_id": "O058",
+      "own_independent_actual_receiving": "b2c0dc",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP059",
+      "owner_id": "O059",
+      "own_independent_actual_receiving": "b2c0dc",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP060",
+      "owner_id": "O060",
+      "own_independent_actual_receiving": "b2c0dc",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP061",
+      "owner_id": "O061",
+      "own_independent_actual_receiving": "b2c0dc",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP062",
+      "owner_id": "O062",
+      "own_independent_actual_receiving": "b2c0dc",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP063",
+      "owner_id": "O063",
+      "own_independent_actual_receiving": "b2c0dc",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP064",
+      "owner_id": "O064",
+      "own_independent_actual_receiving": "0c93a8",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP065",
+      "owner_id": "O065",
+      "own_independent_actual_receiving": "0c93a8",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP066",
+      "owner_id": "O066",
+      "own_independent_actual_receiving": "0c93a8",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP067",
+      "owner_id": "O067",
+      "own_independent_actual_receiving": "0c93a8",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP068",
+      "owner_id": "O068",
+      "own_independent_actual_receiving": "0c93a8",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP069",
+      "owner_id": "O069",
+      "own_independent_actual_receiving": "0c93a8",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": "E825 received praise and apology stay distinct from the E843 refusals in LP087; local reception does not certify every later demand.",
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP070",
+      "owner_id": "O070",
+      "own_independent_actual_receiving": "0c93a8",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP071",
+      "owner_id": "O071",
+      "own_independent_actual_receiving": "0c93a8",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": "The operative source frame is RABBIT, coastguards and coastal village, rather than copied police/resort framing. Institutional comparison keeps those participants and conditions.",
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP072",
+      "owner_id": "O072",
+      "own_independent_actual_receiving": "0c93a8",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP073",
+      "owner_id": "O073",
+      "own_independent_actual_receiving": "0c93a8",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": "Refused appropriation remains the precise positive/contrary object; a copied ratio-specific claim is not restored.",
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP074",
+      "owner_id": "O074",
+      "own_independent_actual_receiving": "0c93a8",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP075",
+      "owner_id": "O075",
+      "own_independent_actual_receiving": "0c93a8",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": "Engineering and visitor wants remain source-local, not a festival frame. The interrupted opening rest belongs to Sensei, not Eimi.",
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP076",
+      "owner_id": "O076",
+      "own_independent_actual_receiving": "2061bb",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP077",
+      "owner_id": "O077",
+      "own_independent_actual_receiving": "2061bb",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP078",
+      "owner_id": "O078",
+      "own_independent_actual_receiving": "2061bb",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP079",
+      "owner_id": "O079",
+      "own_independent_actual_receiving": "2061bb",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": "Hyakkiyako trip and festival hosting remain distinct from copied river/Ninja framing; the corrected source purpose supports only the stated comparative use.",
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP080",
+      "owner_id": "O080",
+      "own_independent_actual_receiving": "2061bb",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP081",
+      "owner_id": "O081",
+      "own_independent_actual_receiving": "2061bb",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP082",
+      "owner_id": "O082",
+      "own_independent_actual_receiving": "2061bb",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP083",
+      "owner_id": "O083",
+      "own_independent_actual_receiving": "2061bb",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": "Fine L126 defeated-party identity is deferred. Broad source outcomes remain usable, and the Library purpose adds no invented loser or stronger identity result.",
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP084",
+      "owner_id": "O084",
+      "own_independent_actual_receiving": "2061bb",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP085",
+      "owner_id": "O085",
+      "own_independent_actual_receiving": "2061bb",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP086",
+      "owner_id": "O086",
+      "own_independent_actual_receiving": "2061bb",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP087",
+      "owner_id": "O087",
+      "own_independent_actual_receiving": "2061bb",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": "Seia/Rio self-proof and C&C accompaniment stay separate. Neru refusal, Karin information and the one-week agreement retain their particular bounds.",
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP088",
+      "owner_id": "O088",
+      "own_independent_actual_receiving": "2061bb",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP089",
+      "owner_id": "O089",
+      "own_independent_actual_receiving": "2061bb",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP090",
+      "owner_id": "O090",
+      "own_independent_actual_receiving": "2061bb",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP091",
+      "owner_id": "O091",
+      "own_independent_actual_receiving": "2061bb",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP092",
+      "owner_id": "O092",
+      "own_independent_actual_receiving": "c5d325",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP093",
+      "owner_id": "O093",
+      "own_independent_actual_receiving": "c5d325",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP094",
+      "owner_id": "O094",
+      "own_independent_actual_receiving": "c5d325",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP095",
+      "owner_id": "O095",
+      "own_independent_actual_receiving": "c5d325",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": "Author whole EVENT851 maintained argument receiving is attributed. Its local purposes and current comparative use do not give this reviewer new whole underlying17-body or native source credit.",
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP096",
+      "owner_id": "O096",
+      "own_independent_actual_receiving": "c5d325",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": "Author whole EVENT852 maintained argument receiving is attributed. Appointment, allegation, actual local approval and prospective exchange remain differentiated; this reviewer does not claim new whole underlying10-body credit.",
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP097",
+      "owner_id": "O097",
+      "own_independent_actual_receiving": "c5d325",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP098",
+      "owner_id": "O098",
+      "own_independent_actual_receiving": "c5d325",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP099",
+      "owner_id": "O099",
+      "own_independent_actual_receiving": "c5d325",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP100",
+      "owner_id": "O100",
+      "own_independent_actual_receiving": "c5d325",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP101",
+      "owner_id": "O101",
+      "own_independent_actual_receiving": "c5d325",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP102",
+      "owner_id": "O102",
+      "own_independent_actual_receiving": "c5d325",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP103",
+      "owner_id": "O103",
+      "own_independent_actual_receiving": "c5d325",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": "Anna fuel-use choice, failure fear and warmth are distinct from Elina motivational projection. The current Library question preserves this actor correction without a new source pass.",
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    },
+    {
+      "library_purpose_id": "LP104",
+      "owner_id": "O104",
+      "own_independent_actual_receiving": "c5d325",
+      "own_independent_disposition": "PASS_WITH_LIMITS_NEW_LIBRARY_PURPOSE_AND_SOURCE_REPORT_MEANING",
+      "particular_manual_precision": null,
+      "limits": "Only the stated comparative Library purpose and finite endpoint; original source grade, mode, participant and stronger trigger remain controlling. No direct Library attendance or identity is inferred from another source."
+    }
+  ],
+  "own_mechanical_execution": {
+    "actual": "c4738b",
+    "checks": 2072,
+    "findings": 0,
+    "public_current_files": 8,
+    "complete_frozen_original_field_objects": 105,
+    "complete_original_carrier_byte_rebounds": 3,
+    "private_whole_beforeimages": 14,
+    "deduplicated_source_segments": 17,
+    "literal_claims": 52,
+    "source_range_joins": 334,
+    "internal_public_aliases": 1274,
+    "full_body_V1_inverse": true,
+    "full_private_mechanical_report": {
+      "evidence_id": "INDEPENDENT_LIBRARY_CURRENT_EXACT8_LITERAL52_FULL105_FROZEN_FIELD_AND_DEDUP_SOURCE_SEGMENT_RECOVERY_EXECUTED_QA_V1.json",
+      "bytes": 935021,
+      "sha256": "d965f4514367160ac4bfb3a7d7fb7680cd58db665bcb236aaedac8bb99a524f2",
+      "git_blob_oid_of_actual_bytes": "15cec8b78e047a6c140bd61d2f179bdaa22fa9b3"
+    },
+    "complete_check_parts": [
+      {
+        "evidence_id": "INDEPENDENT_LIBRARY_CURRENT_EXACT8_EXECUTED_CHECKS_00000_00399_V1.json",
+        "bytes": 44530,
+        "sha256": "1dbcdb57dd572399b4f73bec038f44e9ae86b8630e047dff1252b3287825a41b",
+        "git_blob_oid_of_actual_bytes": "e141a6c018062af4d5e0deeecde8882dbdd7616d"
+      },
+      {
+        "evidence_id": "INDEPENDENT_LIBRARY_CURRENT_EXACT8_EXECUTED_CHECKS_00400_00799_V1.json",
+        "bytes": 40918,
+        "sha256": "eff658872d7bfcebe771e988e25a5edea546c3f7d6c1b9be6cf5086891d669ad",
+        "git_blob_oid_of_actual_bytes": "a3db2b83d2cbc9feaf1f3939a49f7d4ad9b5ee57"
+      },
+      {
+        "evidence_id": "INDEPENDENT_LIBRARY_CURRENT_EXACT8_EXECUTED_CHECKS_00800_01199_V1.json",
+        "bytes": 38796,
+        "sha256": "a165ac2e8e4093d82e593f3538f27fb8ffc5d611680d4341394a0e6301215275",
+        "git_blob_oid_of_actual_bytes": "954bd590af775dd849db61878a20c06622e4b5ce"
+      },
+      {
+        "evidence_id": "INDEPENDENT_LIBRARY_CURRENT_EXACT8_EXECUTED_CHECKS_01200_01599_V1.json",
+        "bytes": 38803,
+        "sha256": "ecefdd60b1ea70411b0f35745868646a521b84f11fe4c1af67493e0ecf43ebae",
+        "git_blob_oid_of_actual_bytes": "69f7f9974e25ba0a76c02ce193a39c2e8209cb83"
+      },
+      {
+        "evidence_id": "INDEPENDENT_LIBRARY_CURRENT_EXACT8_EXECUTED_CHECKS_01600_01999_V1.json",
+        "bytes": 39775,
+        "sha256": "631d727a5c7b49927969a6f94b8380b3f4407a84846f4055347c949700e79227",
+        "git_blob_oid_of_actual_bytes": "860833b195e31630397a0225d6a978e215030b97"
+      },
+      {
+        "evidence_id": "INDEPENDENT_LIBRARY_CURRENT_EXACT8_EXECUTED_CHECKS_02000_02071_V1.json",
+        "bytes": 22021,
+        "sha256": "2bb8ff2740f4988efed32625f713c42686de351f70ac79e7ad9e4352261cfc65",
+        "git_blob_oid_of_actual_bytes": "c15a2b7aa2a73c053f606695154f5e84ff6faa73"
+      }
+    ],
+    "actual_all2072_checkpart_final_readback": "Verified all6 exact saved part bytes and all2072 true outcomes in this save; not a new literary/source pass.",
+    "corrected_helper_predicates": "Initial range scalar comparison assumed a terminalLF; actual segment contract joins physical lines without terminalLF. Initial grade comparison omitted a retained explanatory role. Both were corrected before the saved pass. A size guard prevented an oversized combined proof write; all executed checks were saved in six bounded private parts."
+  },
+  "scope_and_adoption": {
+    "eligible_home": "One existing institutional home with its existing substantial named directed section; no additional required relationship package or new source scope.",
+    "fixed_controls": {
+      "required_packages": 355,
+      "mandatory_named": 29,
+      "parents": 25,
+      "homes": 384,
+      "navigation": 788,
+      "milestones": [
+        89,
+        178,
+        267,
+        355
+      ],
+      "all14": "OPEN",
+      "models": 0
+    },
+    "current_ROOT_adoption_final_composition_installation_publication": "SEPARATE_REQUIRED;NOT_CLAIMED_BY_THIS_REVIEW",
+    "source_package142_named_primary_native_raw_AV_identity_model_runtime_MAIN_credit": 0,
+    "merge_approval": "RESERVED",
+    "R_Git_provider_shared_metadata_protected_unbound_access_or_mutations": false
+  }
+}

@@ -2,7 +2,7 @@
 title: "Gakuen Idolmaster V2 — Tsukimura Temari Complete Audiovisual Baseline"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "integrated music, MV, voice-acting, and audiovisual character analysis"
-version: "2.0"
+version: "2.1"
 phase: "3 — Character-Core Readings / Audiovisual Baseline"
 character: "Tsukimura Temari / 月村手毬"
 character_code: "ttmr"
@@ -10,11 +10,15 @@ source_lock: "GAKUMAS V2 Source Lock 1.0 + Temari AV registry 2026-08-15"
 governing_method: "GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.1"
 governing_character_reading: "GKM_CORE_02_TSUKIMURA_TEMARI.md"
 created: "2026-08-15"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15 correction: REVISE of the Dear 035 address attribution in §5.9 and §7.1 from the A1 text; no audiovisual material was re-inspected."
 status: "canonical completed Phase-3 Temari audiovisual baseline"
 evidence_boundary: "direct inspection of supplied audio/video, exact Japanese dialogue sources, rendered staging, keyframe/contact-sheet evidence, and conservative full-mix/scene signal metrics; no isolated vocal stems"
 ---
 
 # TSUKIMURA TEMARI — COMPLETE AUDIOVISUAL BASELINE
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** §5.9: the Dear 035 request is for an honorific-free send-off, answered with `月村`; the move to `手毬` is the Producer's, in Dear 037 (REVISE; GKM-SAA-006). §7.1 carries the same correction in its agency list. The correction rests on the A1 script; no AV observation changes. The earlier wording is quoted in place.
 
 ## 0. Executive finding
 
@@ -430,7 +434,9 @@ Dear 035 allows comedy, embarrassment, rivalry, pleading softness, and determina
 
 > `呼び捨てで、送り出してください`
 
-turns given-name address into a chosen pre-performance ritual. Intimacy is requested, not merely extracted through breakdown.
+turns honorific-free address into a chosen pre-performance ritual. Intimacy is requested, not merely extracted through breakdown.
+
+**Audit correction (2026-11-15, GKM-SAA-006) — REVISE.** v2.0 read: "turns given-name address into a chosen pre-performance ritual". In A1 Temari asks to be sent off, just this once, not as `月村さん` but `呼び捨て` (`adv_dear_ttmr_035` L632–L643), and the Producer's single option is `月村` with a plain imperative (L647–L650). The given name comes later and from him: after the victory he says he chose the wrong words at the send-off and, through a single option, says `手毬` before proposing ramen ahead of the meeting she has called (`adv_dear_ttmr_037` L396–L432). The request remains Temari's agency; the given-name escalation belongs to the Producer's side of the reciprocity in §7.1. Her silent line and `はいっ` (L441–L450) are optional delivery targets; the attribution itself is settled by the text.
 
 Dear 036 moves into `T-V5`: composed titleholder exchange, public gratitude, acknowledgment of lineage, and then continued attack. Temari does not receive Prima Stella as a protected possession. She treats it as another launch platform.
 
@@ -507,7 +513,7 @@ She does not merely receive interpretation. She:
 
 - asks how she appears;
 - evaluates whether the image is accurate;
-- requests intimate naming;
+- requests honorific-free naming, to which he later adds the given name on his own initiative (corrected 2026-11-15, GKM-SAA-006; v2.0 read "requests intimate naming"; see §5.9);
 - uses his conceptual language and makes it public;
 - notices his tears;
 - returns care;

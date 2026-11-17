@@ -1,0 +1,204 @@
+{
+  "scope": "Recovered Claude per-volume ledger history; original terms retained separately from mutable forecast adjudication",
+  "transitions": [
+    {
+      "from": "260f389440ec06785b01aba33a845cd8df749212",
+      "to": "24d803419c50bb6084740668d3c1973618fd5b2c",
+      "file": "series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md",
+      "old_rows": 10,
+      "new_rows": 19,
+      "missing": [],
+      "changed_rows": [],
+      "changed_forecast_terms": []
+    },
+    {
+      "from": "260f389440ec06785b01aba33a845cd8df749212",
+      "to": "24d803419c50bb6084740668d3c1973618fd5b2c",
+      "file": "series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md",
+      "old_rows": 11,
+      "new_rows": 26,
+      "missing": [],
+      "changed_rows": [
+        "PG-PR-0001",
+        "PG-PR-0002",
+        "PG-PR-0003"
+      ],
+      "changed_forecast_terms": []
+    },
+    {
+      "from": "260f389440ec06785b01aba33a845cd8df749212",
+      "to": "24d803419c50bb6084740668d3c1973618fd5b2c",
+      "file": "series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_INFORMATION_AND_REPUTATION_LEDGER.md",
+      "old_rows": 46,
+      "new_rows": 78,
+      "missing": [],
+      "changed_rows": [],
+      "changed_forecast_terms": []
+    },
+    {
+      "from": "260f389440ec06785b01aba33a845cd8df749212",
+      "to": "24d803419c50bb6084740668d3c1973618fd5b2c",
+      "file": "series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_RELATIONSHIP_AND_COMMITMENT_LEDGER.md",
+      "old_rows": 23,
+      "new_rows": 38,
+      "missing": [],
+      "changed_rows": [],
+      "changed_forecast_terms": []
+    },
+    {
+      "from": "24d803419c50bb6084740668d3c1973618fd5b2c",
+      "to": "a29002559e48d58eac9bcf1fc4a366dfa3d4e2b9",
+      "file": "series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md",
+      "old_rows": 19,
+      "new_rows": 28,
+      "missing": [],
+      "changed_rows": [],
+      "changed_forecast_terms": []
+    },
+    {
+      "from": "24d803419c50bb6084740668d3c1973618fd5b2c",
+      "to": "a29002559e48d58eac9bcf1fc4a366dfa3d4e2b9",
+      "file": "series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md",
+      "old_rows": 26,
+      "new_rows": 43,
+      "missing": [],
+      "changed_rows": [
+        "PG-PR-0001",
+        "PG-PR-0004",
+        "PG-PR-0005"
+      ],
+      "changed_forecast_terms": []
+    },
+    {
+      "from": "24d803419c50bb6084740668d3c1973618fd5b2c",
+      "to": "a29002559e48d58eac9bcf1fc4a366dfa3d4e2b9",
+      "file": "series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_INFORMATION_AND_REPUTATION_LEDGER.md",
+      "old_rows": 78,
+      "new_rows": 110,
+      "missing": [],
+      "changed_rows": [],
+      "changed_forecast_terms": []
+    },
+    {
+      "from": "24d803419c50bb6084740668d3c1973618fd5b2c",
+      "to": "a29002559e48d58eac9bcf1fc4a366dfa3d4e2b9",
+      "file": "series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_RELATIONSHIP_AND_COMMITMENT_LEDGER.md",
+      "old_rows": 38,
+      "new_rows": 54,
+      "missing": [],
+      "changed_rows": [],
+      "changed_forecast_terms": []
+    },
+    {
+      "from": "a29002559e48d58eac9bcf1fc4a366dfa3d4e2b9",
+      "to": "e3dd23875c2b99e6f2e93e749c8d8b95653c10e9",
+      "file": "series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md",
+      "old_rows": 28,
+      "new_rows": 39,
+      "missing": [],
+      "changed_rows": [],
+      "changed_forecast_terms": []
+    },
+    {
+      "from": "a29002559e48d58eac9bcf1fc4a366dfa3d4e2b9",
+      "to": "e3dd23875c2b99e6f2e93e749c8d8b95653c10e9",
+      "file": "series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md",
+      "old_rows": 43,
+      "new_rows": 63,
+      "missing": [],
+      "changed_rows": [
+        "PG-PR-0001",
+        "PG-PR-0006",
+        "PG-PR-0007"
+      ],
+      "changed_forecast_terms": []
+    },
+    {
+      "from": "a29002559e48d58eac9bcf1fc4a366dfa3d4e2b9",
+      "to": "e3dd23875c2b99e6f2e93e749c8d8b95653c10e9",
+      "file": "series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_INFORMATION_AND_REPUTATION_LEDGER.md",
+      "old_rows": 110,
+      "new_rows": 152,
+      "missing": [],
+      "changed_rows": [],
+      "changed_forecast_terms": []
+    },
+    {
+      "from": "a29002559e48d58eac9bcf1fc4a366dfa3d4e2b9",
+      "to": "e3dd23875c2b99e6f2e93e749c8d8b95653c10e9",
+      "file": "series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_RELATIONSHIP_AND_COMMITMENT_LEDGER.md",
+      "old_rows": 54,
+      "new_rows": 74,
+      "missing": [],
+      "changed_rows": [],
+      "changed_forecast_terms": []
+    },
+    {
+      "from": "e3dd23875c2b99e6f2e93e749c8d8b95653c10e9",
+      "to": "8d40f11ab7e21d4f6898401c580991d601c57ee2",
+      "file": "series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md",
+      "old_rows": 39,
+      "new_rows": 39,
+      "missing": [],
+      "changed_rows": [],
+      "changed_forecast_terms": []
+    },
+    {
+      "from": "e3dd23875c2b99e6f2e93e749c8d8b95653c10e9",
+      "to": "8d40f11ab7e21d4f6898401c580991d601c57ee2",
+      "file": "series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md",
+      "old_rows": 63,
+      "new_rows": 63,
+      "missing": [],
+      "changed_rows": [],
+      "changed_forecast_terms": []
+    },
+    {
+      "from": "e3dd23875c2b99e6f2e93e749c8d8b95653c10e9",
+      "to": "8d40f11ab7e21d4f6898401c580991d601c57ee2",
+      "file": "series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_INFORMATION_AND_REPUTATION_LEDGER.md",
+      "old_rows": 152,
+      "new_rows": 152,
+      "missing": [],
+      "changed_rows": [],
+      "changed_forecast_terms": []
+    },
+    {
+      "from": "e3dd23875c2b99e6f2e93e749c8d8b95653c10e9",
+      "to": "8d40f11ab7e21d4f6898401c580991d601c57ee2",
+      "file": "series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_RELATIONSHIP_AND_COMMITMENT_LEDGER.md",
+      "old_rows": 74,
+      "new_rows": 74,
+      "missing": [],
+      "changed_rows": [],
+      "changed_forecast_terms": []
+    }
+  ],
+  "freeze_digests": [
+    {
+      "volume": "V01",
+      "closure_commit": "260f389440ec06785b01aba33a845cd8df749212",
+      "sha256": "106f7517186588d50e7a2c3b18523dd4a39b3ceefe780c3fa208eb6d061f58fb",
+      "unchanged_at_stop": true
+    },
+    {
+      "volume": "V02",
+      "closure_commit": "24d803419c50bb6084740668d3c1973618fd5b2c",
+      "sha256": "00c0d8e87ded5332a3d43fe8ab0d7434c44bb0dee3126c2c9636220adfbbc3a4",
+      "unchanged_at_stop": true
+    },
+    {
+      "volume": "V03",
+      "closure_commit": "a29002559e48d58eac9bcf1fc4a366dfa3d4e2b9",
+      "sha256": "d7e02ce421abedea31130e9b49429f860f37878f49ce043c6e9a4894372aa11a",
+      "unchanged_at_stop": true
+    },
+    {
+      "volume": "V04",
+      "closure_commit": "e3dd23875c2b99e6f2e93e749c8d8b95653c10e9",
+      "sha256": "d6b63a87e304491807cf8db9b901b5902cd12bc498100064fcb12f4022079c37",
+      "unchanged_at_stop": true
+    }
+  ],
+  "result": "PASS_IMMUTABLE_ROWS_AND_FORECAST_TERMS"
+}

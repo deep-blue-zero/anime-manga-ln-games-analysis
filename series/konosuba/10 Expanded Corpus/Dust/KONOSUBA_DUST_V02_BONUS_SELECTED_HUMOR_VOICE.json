@@ -1,0 +1,409 @@
+{
+  "created_utc": "2026-10-18T00:04:16.479476+00:00",
+  "bonus_member": "item/xhtml/p-010.xhtml",
+  "bonus_title": "仲間の秘密",
+  "actual_complete_read_p": 67,
+  "source_class": "POST_PRINCIPAL_ELECTRONIC_BONUS_FICTION",
+  "selected_humor": [
+    {
+      "id": "DUST02-BH01",
+      "range": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p_start": 3,
+        "p_end": 8
+      },
+      "anchor": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p": 6,
+        "exact_short_anchor": "微塵も興味ない"
+      },
+      "L": "L2",
+      "H": "H1",
+      "rationale": "Dust’s offered romantic-secret frame is rejected; Leen names another subject.",
+      "speaker_source_plane_and_limit": "Leen→Dust; direct speech. Rejection of this topic does not prove no possible affection.",
+      "culture_flag": "Local fantasy dream-service institution matters for the alibi; no Japanese-only joke assumed merely from Japanese source.",
+      "not_part_of_principal61_or_a_census": true
+    },
+    {
+      "id": "DUST02-BH02",
+      "range": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p_start": 10,
+        "p_end": 20
+      },
+      "anchor": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p": 17,
+        "exact_short_anchor": "禁酒日も必要"
+      },
+      "L": "L0",
+      "H": "H1",
+      "rationale": "Health-language alibi conceals purchased dream leisure; narrator explicitly calls it a lie20.",
+      "speaker_source_plane_and_limit": "Dust→Leen. No actual newly adopted health motive or generalized medical advice.",
+      "culture_flag": "Local fantasy dream-service institution matters for the alibi; no Japanese-only joke assumed merely from Japanese source.",
+      "not_part_of_principal61_or_a_census": true
+    },
+    {
+      "id": "DUST02-BH03",
+      "range": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p_start": 21,
+        "p_end": 30
+      },
+      "anchor": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p": 26,
+        "exact_short_anchor": "許さねえぞ"
+      },
+      "L": "L0",
+      "H": "H2",
+      "rationale": "Jealous response to possible heterosexual success loses force once the partner is reported male.",
+      "speaker_source_plane_and_limit": "Dust→Leen; a spoken amplified protest, not completed violence or an orientation finding.",
+      "culture_flag": "Local fantasy dream-service institution matters for the alibi; no Japanese-only joke assumed merely from Japanese source.",
+      "not_part_of_principal61_or_a_census": true
+    },
+    {
+      "id": "DUST02-BH04",
+      "range": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p_start": 30,
+        "p_end": 34
+      },
+      "anchor": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p": 31,
+        "exact_short_anchor": "どの口が"
+      },
+      "L": "L2",
+      "H": "H1",
+      "rationale": "A privacy principle is defeated by a concrete hypocrisy reminder; Dust reverses to protective surveillance rhetoric.",
+      "speaker_source_plane_and_limit": "Leen→Dust. Prior photograph episode is only referenced, not freshly read/replayed.",
+      "culture_flag": "Local fantasy dream-service institution matters for the alibi; no Japanese-only joke assumed merely from Japanese source.",
+      "not_part_of_principal61_or_a_census": true
+    },
+    {
+      "id": "DUST02-BH05",
+      "range": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p_start": 37,
+        "p_end": 58
+      },
+      "anchor": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p": 58,
+        "exact_short_anchor": "ダチのカズマ"
+      },
+      "L": "L0",
+      "H": "H1",
+      "rationale": "A concealed meeting resolves through voice plus content into familiar leadership company.",
+      "speaker_source_plane_and_limit": "Dust narration. Recognition50–51 is initially uncertain, later stronger57–58.",
+      "culture_flag": "Local fantasy dream-service institution matters for the alibi; no Japanese-only joke assumed merely from Japanese source.",
+      "not_part_of_principal61_or_a_census": true
+    },
+    {
+      "id": "DUST02-BH06",
+      "range": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p_start": 52,
+        "p_end": 54
+      },
+      "anchor": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p": 53,
+        "exact_short_anchor": "能力面は問題が無い"
+      },
+      "L": "L0",
+      "H": "H1",
+      "rationale": "Hearing praise first rewards the eavesdroppers before the grievance reversal.",
+      "speaker_source_plane_and_limit": "Taylor→Kazuma; his practical appraisal, not an independently measured rank. Leen’s pleasure cause54 is hedged.",
+      "culture_flag": "Local fantasy dream-service institution matters for the alibi; no Japanese-only joke assumed merely from Japanese source.",
+      "not_part_of_principal61_or_a_census": true
+    },
+    {
+      "id": "DUST02-BH07",
+      "range": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p_start": 55,
+        "p_end": 66
+      },
+      "anchor": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p": 65,
+        "exact_short_anchor": "俺への不満が多くねえか"
+      },
+      "L": "L1",
+      "H": "H1",
+      "rationale": "The listener discovers that he is a main subject of the private complaints, timing a face-saving question after unexpected self-implication.",
+      "speaker_source_plane_and_limit": "Dust→Leen. The exact full grievance list is not reproduced or independently proven in the source.",
+      "culture_flag": "Local fantasy dream-service institution matters for the alibi; no Japanese-only joke assumed merely from Japanese source.",
+      "not_part_of_principal61_or_a_census": true
+    },
+    {
+      "id": "DUST02-BH08",
+      "range": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p_start": 63,
+        "p_end": 67
+      },
+      "anchor": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p": 67,
+        "exact_short_anchor": "帰ろうぜ"
+      },
+      "L": "L0",
+      "H": "H1",
+      "rationale": "A mystery supposedly about others’ danger ends in a proposed retreat from hearing criticism of oneself; actual departure is not narrated.",
+      "speaker_source_plane_and_limit": "Dust’s unquoted closing first-person line, with Leen as contextually inferred addressee; no performed exit, confession to the two leaders or resolved conflict is narrated.",
+      "culture_flag": "Local fantasy dream-service institution matters for the alibi; no Japanese-only joke assumed merely from Japanese source.",
+      "not_part_of_principal61_or_a_census": true
+    }
+  ],
+  "selected_voice": [
+    {
+      "id": "DUST02-BV01",
+      "source": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p": 5,
+        "exact_short_anchor": "好きな女のタイプ"
+      },
+      "speaker": "Dust",
+      "addressee": "Leen",
+      "literal_gloss": "The type of woman I like.",
+      "pragmatic_function": "Proposes a flattering romantic-secret topic that she rejects.",
+      "eligibility": "Source-located retrospective bonus illustration; not a J01/effect test or prospective trial.",
+      "limits": "Immediate corrective6, no autonomous access to her broader feelings.",
+      "no_acoustic_claim": true
+    },
+    {
+      "id": "DUST02-BV02",
+      "source": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p": 17,
+        "exact_short_anchor": "禁酒日も必要"
+      },
+      "speaker": "Dust",
+      "addressee": "Leen",
+      "literal_gloss": "An alcohol-free day is needed.",
+      "pragmatic_function": "Plausible health explanation masks the known dream-service expense.",
+      "eligibility": "Source-located retrospective bonus illustration; not a J01/effect test or prospective trial.",
+      "limits": "Narrator explicitly acknowledges lying20; not a belief-error diagnosis.",
+      "no_acoustic_claim": true
+    },
+    {
+      "id": "DUST02-BV03",
+      "source": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p": 30,
+        "exact_short_anchor": "仲間のプライバシー"
+      },
+      "speaker": "Dust",
+      "addressee": "Leen",
+      "literal_gloss": "A companion’s privacy.",
+      "pragmatic_function": "Invokes noninterference when scrutiny could expose his own secret.",
+      "eligibility": "Source-located retrospective bonus illustration; not a J01/effect test or prospective trial.",
+      "limits": "Contradicting case31 precedes his reversal32; no stable principle inferred from isolated wording.",
+      "no_acoustic_claim": true
+    },
+    {
+      "id": "DUST02-BV04",
+      "source": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p": 31,
+        "exact_short_anchor": "どの口が"
+      },
+      "speaker": "Leen",
+      "addressee": "Dust",
+      "literal_gloss": "With which mouth? / What right have you?",
+      "pragmatic_function": "Idiomatic face challenge attaches a concrete double standard to his maxim.",
+      "eligibility": "Source-located retrospective bonus illustration; not a J01/effect test or prospective trial.",
+      "limits": "Actual source uses私 earlier in this turn; no acoustic/identity change inferred.",
+      "no_acoustic_claim": true
+    },
+    {
+      "id": "DUST02-BV05",
+      "source": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p": 32,
+        "exact_short_anchor": "やっぱ、仲間って大切"
+      },
+      "speaker": "Dust",
+      "addressee": "Leen",
+      "literal_gloss": "Companions really are important.",
+      "pragmatic_function": "Abruptly replaces privacy with protective concern to cover the exposed inconsistency.",
+      "eligibility": "Source-located retrospective bonus illustration; not a J01/effect test or prospective trial.",
+      "limits": "Not proof that no real concern can ever coexist with evasion.",
+      "no_acoustic_claim": true
+    },
+    {
+      "id": "DUST02-BV06",
+      "source": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p": 53,
+        "exact_short_anchor": "能力面は問題が無い"
+      },
+      "speaker": "Taylor",
+      "addressee": "Kazuma",
+      "literal_gloss": "There is no problem in their abilities.",
+      "pragmatic_function": "Evaluates Keith and Dust as workable, then values Leen’s reliability.",
+      "eligibility": "Source-located retrospective bonus illustration; not a J01/effect test or prospective trial.",
+      "limits": "Speaker judgment in actual leadership talk; no universal tactical competence theorem.",
+      "no_acoustic_claim": true
+    },
+    {
+      "id": "DUST02-BV07",
+      "source": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p": 55,
+        "exact_short_anchor": "人の言う事なんて聞きゃしねえ"
+      },
+      "speaker": "Kazuma",
+      "addressee": "Taylor",
+      "literal_gloss": "They do not listen to what anyone says.",
+      "pragmatic_function": "Familiar contracted complaint expresses frustration with his own party.",
+      "eligibility": "Source-located retrospective bonus illustration; not a J01/effect test or prospective trial.",
+      "limits": "Generalized complaint is not literal universal refusal by every member; no newR1score.",
+      "no_acoustic_claim": true
+    },
+    {
+      "id": "DUST02-BV08",
+      "source": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p": 65,
+        "exact_short_anchor": "俺への不満が多くねえか"
+      },
+      "speaker": "Dust",
+      "addressee": "Leen",
+      "literal_gloss": "Aren’t there a lot of complaints about me?",
+      "pragmatic_function": "A question marks self-implication and invites a softer reading.",
+      "eligibility": "Source-located retrospective bonus illustration; not a J01/effect test or prospective trial.",
+      "limits": "She does not supply that repair66. No evidence the leaders hear his low conversation.",
+      "no_acoustic_claim": true
+    },
+    {
+      "id": "DUST02-BV09",
+      "source": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p": 66,
+        "exact_short_anchor": "言ってる事に間違いはない"
+      },
+      "speaker": "Leen",
+      "addressee": "Dust",
+      "literal_gloss": "There is nothing wrong in what they say.",
+      "pragmatic_function": "Rejects his attempted discount and infers a reason for keeping grievances private.",
+      "eligibility": "Source-located retrospective bonus illustration; not a J01/effect test or prospective trial.",
+      "limits": "The secrecy-purpose explanation is her inference, not the leaders’ explicit admission.",
+      "no_acoustic_claim": true
+    }
+  ],
+  "population_denominator": null,
+  "selection_after_own_uncoded_component_seal": true,
+  "not_merged_into_principal_61_35_or_seven_local_outcomes": true,
+  "no_holdout_R1_or_Gen06_score": true,
+  "root_separate_selected_humor": {
+    "created_utc": "2026-10-17T23:37:32.760104+00:00",
+    "status": "PRIVATE_ROOT_PURPOSIVE_POST_UNCODED_SEAL_CODING",
+    "source_first_seal_sha256": "7219648ffa46f1be45a3c8316d943d9bbb231fea988bc0aea90dc714a5989598",
+    "records": [
+      {
+        "id": "D02-B-H01",
+        "source": "BONUS-01P3–20",
+        "speaker_addressee": "Leen→Dust; Dust→Leen; Dust privately narrates",
+        "short_anchor": "禁酒日",
+        "L": "L0 causal cover/L1 phrasing",
+        "H": "H1 dialogue and knowingly false pretext; H2 light face-saving amplification, no gag-contingency warrant asserted",
+        "mechanism": "Dust protects secret male-only shop by inventing health motivation for changed drinking. Observed narrowed gaze and narrator inference of disbelief remain distinct.",
+        "eligibility": "Purposive single dependent exchange; no J02 or source-wide denominator",
+        "confidence": "HIGH text/action; MODERATE Leen belief attribution"
+      },
+      {
+        "id": "D02-B-H02",
+        "source": "BONUS-01P25–32",
+        "speaker_addressee": "Dust→Leen; Leen→Dust",
+        "short_anchor": "どの口が",
+        "L": "L0 selective-privacy reversal/L2 idiomatic reproach and stance",
+        "H": "H1 expressed principle and immediate reversal; H2 emphatic moral rhetoric, no H3/H4 automatically",
+        "mechanism": "A supposed female partner prompts jealous sanction; male identity prompts privacy defense. Leen cites his contrary intrusion; Dust immediately recasts surveillance as comrade protection. Principle use follows situational incentives, but a single joke does not prove he never respects privacy.",
+        "eligibility": "Same episode, dependent turns, selected qualitative case",
+        "confidence": "HIGH chronology; MODERATE generalized mechanism"
+      },
+      {
+        "id": "D02-B-H03",
+        "source": "BONUS-01P37–59",
+        "speaker_addressee": "Taylor↔Kazuma; Dust/Leen overhear and exchange low-volume speech",
+        "short_anchor": "能力面は問題が無い",
+        "L": "L0 information reclassification/L1 measured plain versus contracted rough phrasing",
+        "H": "H1 heard leader assessment; no autonomous competence trial or exotic-world H4 warrant",
+        "mechanism": "Identity resolves from uncertain voice to voice+content. Taylor’s favorable skill judgment and Kazuma complaint are actual utterances, not neutral narrator certification. Unexpected meeting supplies a mundane peer relation.",
+        "eligibility": "One meeting, not independent successful trials by each description",
+        "confidence": "HIGH utterance; LOW/MODERATE absolute skill or hidden cause"
+      },
+      {
+        "id": "D02-B-H04",
+        "source": "BONUS-01P63–67",
+        "speaker_addressee": "Dust→Leen; Leen→Dust; narrative presentation of leaders",
+        "short_anchor": "俺への不満が多くねえか",
+        "L": "L0 surveillance turns against listener/L1 accumulated repetition/L2 familiar corrective rebuke",
+        "H": "H1 complaint/response and narrator endorsement; H2 comic piling-up; no H3 from source-access caution",
+        "mechanism": "Dust approves Kazuma’s grievances while resenting being Taylor’s target. Leen says the criticisms are accurate and infers discreet meeting protects teammates. No detailed grievances against each principal are supplied, and proposed retreat does not narrate its completion.",
+        "eligibility": "Dependent payoff of same scene, selected qualitative only",
+        "confidence": "HIGH order; MODERATE inferred protective intention"
+      }
+    ],
+    "complete_J02_census": false,
+    "new_holdout_score": false,
+    "independent_coder_claim": false
+  },
+  "root_separate_selected_voice": {
+    "created_utc": "2026-10-17T23:37:32.760104+00:00",
+    "status": "PRIVATE_ROOT_PURPOSIVE_POST_UNCODED_SEAL_ANALYSIS",
+    "records": [
+      {
+        "id": "D02-B-V01",
+        "source": "BONUS-01P30–33",
+        "speaker": "Dust",
+        "addressee": "Leen",
+        "short_anchor": "仲間って大切だよな",
+        "literal": "Comrades matter.",
+        "pragmatic": "A newly emphatic protection claim repairs exposure of selective privacy principles; delivery is represented as loud in narration, not acoustically heard. Speech level familiar/male colloquial; moral diction is situational, not a universal sincere value announcement.",
+        "L": "L0 mechanism/L2 stance shift",
+        "uncertainty": "Protective motive and reputational cover can coexist; current case alone does not settle enduring hierarchy."
+      },
+      {
+        "id": "D02-B-V02",
+        "source": "BONUS-01P31",
+        "speaker": "Leen",
+        "addressee": "Dust",
+        "short_anchor": "どの口がそんな事を言うの",
+        "literal": "With what mouth do you say that?",
+        "pragmatic": "Idiomatic accountability challenge invoking his own inconsistent conduct, not a literal question about anatomy; intimate corrective script backed by a named earlier event claim.",
+        "L": "L2 pragmatic idiom",
+        "uncertainty": "Prior intrusion is her report here, not a newly witnessed scene."
+      },
+      {
+        "id": "D02-B-V03",
+        "source": "BONUS-01P53–56",
+        "speaker": "Taylor then Kazuma",
+        "addressee": "Each other at private table",
+        "short_anchor": "人の言う事なんて聞きゃしねえ",
+        "literal": "They will not listen to what someone says.",
+        "pragmatic": "Kazuma’s familiar contracted negative/reproach follows Taylor’s relatively measured domain assessment. Complaints seek peer recognition in a privately selected audience; they do not establish each offstage individual’s behavior in a new independent occasion.",
+        "L": "L1 contraction/L2 register and stance",
+        "uncertainty": "Quoted complaint’s quantification and possible exaggeration remain Kazuma’s, not independently tested universal truth."
+      },
+      {
+        "id": "D02-B-V04",
+        "source": "BONUS-01P65–67",
+        "speaker": "Dust, then Leen; closing first-person presentation",
+        "addressee": "Leen, then Dust; closing addressee inferred as companion",
+        "short_anchor": "言ってる事に間違いはないわよ",
+        "literal": "What he says is not wrong.",
+        "pragmatic": "Leen’s flat corrective response rejects Dust’s complaint and shifts to an explanation of discretion. Final帰ろうぜ is a proposal/closing first-person line; do not invent a detailed performed exit.",
+        "L": "L2 relationship-conditioned corrective script",
+        "uncertainty": "Leen’s account of meeting motive is an inference, not Taylor/Kazuma’s explicit confession."
+      }
+    ],
+    "no_acoustic_or_catchphrase_model_claim": true
+  },
+  "current_receiving_utc": "2026-10-18T01:34:31.692041+00:00",
+  "dependent_selection_warning": "Producer8H/9V and root4H/4V describe the same67-P story, not independent trials, disjoint populations or an agreement denominator."
+}

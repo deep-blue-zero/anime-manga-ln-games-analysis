@@ -1,0 +1,394 @@
+{
+  "artifact_id": "PEACH_GIRL_G6_CORPUS_CHECK",
+  "recorded_utc": "2026-10-20T20:43:34.386539+00:00",
+  "input_commit": "6561432ff25c223bf8e4a24058affb1b0abf655b",
+  "scope": "COMPLETE_G5_PROJECT_BEFORE_G6_DOCUMENTS_NO_SELF_REFERENTIAL_FINAL_HASH",
+  "files_checked": 53,
+  "markdown_frontmatters": 44,
+  "local_links_checked": 242,
+  "full_EV_references_checked": 910,
+  "evidence_rows": 705,
+  "freezes_unchanged": [
+    "PG-FR-V01",
+    "PG-FR-V02",
+    "PG-FR-V03",
+    "PG-FR-V04",
+    "PG-FR-V05",
+    "PG-FR-V06",
+    "PG-FR-V07",
+    "PG-FR-V08",
+    "PG-FR-V09",
+    "PG-FR-V10",
+    "PG-FR-V11",
+    "PG-FR-V12",
+    "PG-FR-V13",
+    "PG-FR-V14",
+    "PG-FR-V15",
+    "PG-FR-V16",
+    "PG-FR-V17",
+    "PG-FR-V18"
+  ],
+  "active_claims_match_terminal_freeze": 28,
+  "v18_full_ledger_bodies_preserved": true,
+  "source_integrity": "FRESH18_CRC_OPF_RTL_SPINE_ALL_IMAGE_HASHES_PASS",
+  "private_media_paths_credentials": "NO_MEDIA_OR_PRIVATE_FILESYSTEM_PATHS_FOUND",
+  "push_guard": "nothing",
+  "changes_outside_project_since_prerequisite": [],
+  "G4_frozen_rule_receipt_hashes": "PASS",
+  "semantic_source_recheck": "14 actualsourceimages; separateG6 directcheck journal",
+  "issues": [],
+  "records": [
+    {
+      "path": "series/peach-girl/.repository/series-registry.json",
+      "bytes": 807,
+      "sha256": "fab0e7429fa74b39bbaf259066a6f1a4bbd8b3be368a1bc21848ac787b8b626e"
+    },
+    {
+      "path": "series/peach-girl/00 Frameworks and Methods/PEACH_GIRL_ANALYTICAL_METHOD.md",
+      "bytes": 15554,
+      "sha256": "1458cc14f9b4285cb41ac34759eb512650a77761eab500a1e302bbb44951ce15"
+    },
+    {
+      "path": "series/peach-girl/00 Frameworks and Methods/PEACH_GIRL_SOURCE_AND_SCOPE_MAP.md",
+      "bytes": 27060,
+      "sha256": "955963a0aace2b46a9c8f68c73e422801644ccd99d2435a13da84e2266bbf2ec"
+    },
+    {
+      "path": "series/peach-girl/00 Frameworks and Methods/PEACH_GIRL_SYNTHESIS_ARCHITECTURE.md",
+      "bytes": 24576,
+      "sha256": "0fa028ee6b1f7849040d2eb06c649ed1f0303c90880adc2bf4f30597cc0cffd8"
+    },
+    {
+      "path": "series/peach-girl/02 Sequential Readings/PEACH_GIRL_V01_DEEP_READING.md",
+      "bytes": 56269,
+      "sha256": "106f7517186588d50e7a2c3b18523dd4a39b3ceefe780c3fa208eb6d061f58fb"
+    },
+    {
+      "path": "series/peach-girl/02 Sequential Readings/PEACH_GIRL_V02_DEEP_READING.md",
+      "bytes": 39701,
+      "sha256": "00c0d8e87ded5332a3d43fe8ab0d7434c44bb0dee3126c2c9636220adfbbc3a4"
+    },
+    {
+      "path": "series/peach-girl/02 Sequential Readings/PEACH_GIRL_V03_DEEP_READING.md",
+      "bytes": 40256,
+      "sha256": "d7e02ce421abedea31130e9b49429f860f37878f49ce043c6e9a4894372aa11a"
+    },
+    {
+      "path": "series/peach-girl/02 Sequential Readings/PEACH_GIRL_V04_DEEP_READING.md",
+      "bytes": 52786,
+      "sha256": "d6b63a87e304491807cf8db9b901b5902cd12bc498100064fcb12f4022079c37"
+    },
+    {
+      "path": "series/peach-girl/02 Sequential Readings/PEACH_GIRL_V05_DEEP_READING.md",
+      "bytes": 49052,
+      "sha256": "126e5d41ea3a05f65fde5b5ac064494cd441efbf852b40b349965398ee9e8b8d"
+    },
+    {
+      "path": "series/peach-girl/02 Sequential Readings/PEACH_GIRL_V06_DEEP_READING.md",
+      "bytes": 48784,
+      "sha256": "9b11bb95175412d134acb969ac4bc7755a6dbfa6f1cea6e5c46e210cc5700447"
+    },
+    {
+      "path": "series/peach-girl/02 Sequential Readings/PEACH_GIRL_V07_DEEP_READING.md",
+      "bytes": 49543,
+      "sha256": "dd3ae5bec545f186d03c468c940e0e4fa2287ebb4926d57acc21fd8b29da6edc"
+    },
+    {
+      "path": "series/peach-girl/02 Sequential Readings/PEACH_GIRL_V08_DEEP_READING.md",
+      "bytes": 54050,
+      "sha256": "d5755252c3ce2ae8c80142c22117fd30dd9f85ceef2549675c70b2594c559c35"
+    },
+    {
+      "path": "series/peach-girl/02 Sequential Readings/PEACH_GIRL_V09_DEEP_READING.md",
+      "bytes": 44795,
+      "sha256": "d4956ee358c9761a44229fa5cf8d6abc2617e34a151992c44e05c788a3bbf0fd"
+    },
+    {
+      "path": "series/peach-girl/02 Sequential Readings/PEACH_GIRL_V10_DEEP_READING.md",
+      "bytes": 40925,
+      "sha256": "f440ca7e14904387543139116c83acd56d5cf65b8b88d190f3211c9b8d7e73d6"
+    },
+    {
+      "path": "series/peach-girl/02 Sequential Readings/PEACH_GIRL_V11_DEEP_READING.md",
+      "bytes": 39155,
+      "sha256": "0c53e72bea28bafed89b2c61c9d5ca51773fbbaba6482c7de1bfa9b37987a649"
+    },
+    {
+      "path": "series/peach-girl/02 Sequential Readings/PEACH_GIRL_V12_DEEP_READING.md",
+      "bytes": 44057,
+      "sha256": "186a62999d46c43c980686d62998a4449fbe87a17ad610060eca7d16bdb61c59"
+    },
+    {
+      "path": "series/peach-girl/02 Sequential Readings/PEACH_GIRL_V13_DEEP_READING.md",
+      "bytes": 37868,
+      "sha256": "3308060a0919900913cbdde4c5583f94227f489b55203fe35c9ac9f0f7be4094"
+    },
+    {
+      "path": "series/peach-girl/02 Sequential Readings/PEACH_GIRL_V14_DEEP_READING.md",
+      "bytes": 34743,
+      "sha256": "c697bacacb56781ec8810833ca6adaab84888abaa04f7efac5d2f4548ab70598"
+    },
+    {
+      "path": "series/peach-girl/02 Sequential Readings/PEACH_GIRL_V15_DEEP_READING.md",
+      "bytes": 33445,
+      "sha256": "bf2bd47b63cfd165da311643b753913d35d2781431a2a5f506f9f56af34a8d2b"
+    },
+    {
+      "path": "series/peach-girl/02 Sequential Readings/PEACH_GIRL_V16_DEEP_READING.md",
+      "bytes": 35549,
+      "sha256": "ce72aaaffd3780162d88692f7cbd93a6b279e9a5c31790eb5e05b95d4ae4ea77"
+    },
+    {
+      "path": "series/peach-girl/02 Sequential Readings/PEACH_GIRL_V17_DEEP_READING.md",
+      "bytes": 36843,
+      "sha256": "30c0b926160840e493c20238414e79c8301c48ea4d321af50de2e2f29c474e21"
+    },
+    {
+      "path": "series/peach-girl/02 Sequential Readings/PEACH_GIRL_V18_DEEP_READING.md",
+      "bytes": 33396,
+      "sha256": "a63e7d3eb54ceea1c35d593d5e0c04d92fd608c6e25ca6106e5a6a71119ef59c"
+    },
+    {
+      "path": "series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md",
+      "bytes": 123467,
+      "sha256": "4f40283d1c512f864441b73d1333c06accce49c39f1db3b86fc6ccac609522d1"
+    },
+    {
+      "path": "series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md",
+      "bytes": 179167,
+      "sha256": "f38b5a11927b50d0f12dd798ad5a58eebeb0845b8bf6806cc38e9d168d8dc051"
+    },
+    {
+      "path": "series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_INFORMATION_AND_REPUTATION_LEDGER.md",
+      "bytes": 189002,
+      "sha256": "86e56aa2bdfa271e538abb183a3f08ba56cced32517e6941c174a8faec178d76"
+    },
+    {
+      "path": "series/peach-girl/03 Longitudinal Ledgers/PEACH_GIRL_RELATIONSHIP_AND_COMMITMENT_LEDGER.md",
+      "bytes": 134666,
+      "sha256": "9074b764a5e2cc9507ffe224c19b0b8bf2c1705de3caa31aa0df5a1a78cb8c63"
+    },
+    {
+      "path": "series/peach-girl/04 Character and Relationship Analysis/PEACH_GIRL_DIRECTIONAL_RELATIONSHIPS.md",
+      "bytes": 9283,
+      "sha256": "298edde27d91b36c94df020e7a0dd1b738e9e4329c3cb2016d348067e9074635"
+    },
+    {
+      "path": "series/peach-girl/04 Character and Relationship Analysis/PEACH_GIRL_KAIRI_MONOGRAPH.md",
+      "bytes": 12287,
+      "sha256": "6791727a03fbdce87dd8c35653d42be26b405c4b50d48e1b76027af2aa9eaed8"
+    },
+    {
+      "path": "series/peach-girl/04 Character and Relationship Analysis/PEACH_GIRL_MOMO_MONOGRAPH.md",
+      "bytes": 12139,
+      "sha256": "dabbe5157a3ca310267aecf1bf6196b630346059e747260d25a2021b12d83d53"
+    },
+    {
+      "path": "series/peach-girl/04 Character and Relationship Analysis/PEACH_GIRL_RECONSTRUCTION_ASSESSMENT_AND_TESTS.md",
+      "bytes": 11463,
+      "sha256": "b99790bf9603b6c356d87201064c3c1fbdffbaf81c8ac05d16df9af81fcad54e"
+    },
+    {
+      "path": "series/peach-girl/04 Character and Relationship Analysis/PEACH_GIRL_RECONSTRUCTION_CASES_V1.json",
+      "bytes": 7829,
+      "sha256": "3e47eed75d2ba2f733a464e1b0aacba68c81dd4834afdd4c835cba4ebfd68014"
+    },
+    {
+      "path": "series/peach-girl/04 Character and Relationship Analysis/PEACH_GIRL_RECONSTRUCTION_RESULTS_V1.json",
+      "bytes": 6620,
+      "sha256": "5261774097d51c39cd53e442f3949b87c2a8ea2046ab381c52d6b2f8034becc8"
+    },
+    {
+      "path": "series/peach-girl/04 Character and Relationship Analysis/PEACH_GIRL_RECONSTRUCTION_RULES_V1.json",
+      "bytes": 5648,
+      "sha256": "cba94fb7b62b3499140bbfe22fde12e719517f52b828031247327341ac688419"
+    },
+    {
+      "path": "series/peach-girl/04 Character and Relationship Analysis/PEACH_GIRL_RECONSTRUCTION_RUNNER.py",
+      "bytes": 1984,
+      "sha256": "dcbf0cabff4422c55199ffb9c67df3a96a1a282d4af084b1c527491b04670aaf"
+    },
+    {
+      "path": "series/peach-girl/04 Character and Relationship Analysis/PEACH_GIRL_SAE_MONOGRAPH.md",
+      "bytes": 11393,
+      "sha256": "a266598087f52e42245df16e97636a110b3da6d16795f3afb26ee5bad5f5d9bd"
+    },
+    {
+      "path": "series/peach-girl/04 Character and Relationship Analysis/PEACH_GIRL_SUPPORTING_ENSEMBLE.md",
+      "bytes": 9120,
+      "sha256": "3816f491a25d4b7dc3880633f451328f08143aa0b7c45f95888308208435bc78"
+    },
+    {
+      "path": "series/peach-girl/04 Character and Relationship Analysis/PEACH_GIRL_TOJI_MONOGRAPH.md",
+      "bytes": 11329,
+      "sha256": "a66f6f8648a0a04d33a07a789045f80ca919f9613f38f229e497d155e608d2e2"
+    },
+    {
+      "path": "series/peach-girl/05 Synthesis/PEACH_GIRL_AGENCY_BOUNDARIES_AND_REPAIR.md",
+      "bytes": 8877,
+      "sha256": "6a0c4f7dcb04144f1f1bb7d4fdee4ac1f70fe3d68e4e3985e53cab36dfcc93ac"
+    },
+    {
+      "path": "series/peach-girl/05 Synthesis/PEACH_GIRL_FULL_ORIGINAL_SERIES_SYNTHESIS.md",
+      "bytes": 16466,
+      "sha256": "832cff5fda6dcf0f7ee48b00bfa49d7393c9efe6b4571aae9551a04362ba2fd5"
+    },
+    {
+      "path": "series/peach-girl/05 Synthesis/PEACH_GIRL_INFORMATION_AND_REPUTATION_SYNTHESIS.md",
+      "bytes": 8915,
+      "sha256": "459518e9b3b86b15bb33e7720e064eb3a359ed54b3b51122418261e81a21bacc"
+    },
+    {
+      "path": "series/peach-girl/05 Synthesis/PEACH_GIRL_MANGA_FORM_AND_JAPANESE_EXPRESSION.md",
+      "bytes": 9225,
+      "sha256": "cf3988f2f4a5c83a303e656a0d1eb3091aae5e99689250f88d3d2b02ae92e368"
+    },
+    {
+      "path": "series/peach-girl/07 Audits and Handoffs/PEACH_GIRL_BOOTSTRAP_RECEIPT.md",
+      "bytes": 16250,
+      "sha256": "7001fad148204e2fe07a7fd60f055f6cd0abb4b8b8abe20624a869a90d35f042"
+    },
+    {
+      "path": "series/peach-girl/07 Audits and Handoffs/PEACH_GIRL_CODEX_INHERITED_CHAIN_CHECK_20261019.json",
+      "bytes": 7159,
+      "sha256": "96c651c3b1bd166fb5be00a1d58f825193ee86716d6641819ea6cdf5faea841d"
+    },
+    {
+      "path": "series/peach-girl/07 Audits and Handoffs/PEACH_GIRL_CODEX_RECOVERY_RECEIPT_20261019.md",
+      "bytes": 11147,
+      "sha256": "dcde1179e181f413bc6f016f4d4936ad169c59baf03bd32af09e345a8e0fae50"
+    },
+    {
+      "path": "series/peach-girl/07 Audits and Handoffs/PEACH_GIRL_CODEX_SOURCE_VERIFICATION_20261019.json",
+      "bytes": 9733,
+      "sha256": "7d6a1b6224f91963e16f9769011ec847ab9ed519f0777e51e71ea7108b6684e0"
+    },
+    {
+      "path": "series/peach-girl/07 Audits and Handoffs/PEACH_GIRL_CODEX_V01_V04_SOURCE_AUDIT_20261019.md",
+      "bytes": 28690,
+      "sha256": "28dd57d5d0597fac0f2d08a556f661d6c0d303f370b8afc6b6df694f9e977c2c"
+    },
+    {
+      "path": "series/peach-girl/07 Audits and Handoffs/PEACH_GIRL_EXECUTION_AUTHORIZATION_AND_INITIATION_RECORD.md",
+      "bytes": 16075,
+      "sha256": "334ec33731bb56b30072d865b4b70773aca365ce15351f1a57dc5cf8edf7767d"
+    },
+    {
+      "path": "series/peach-girl/07 Audits and Handoffs/PEACH_GIRL_G1_G2_LONGITUDINAL_RECONCILIATION.md",
+      "bytes": 16690,
+      "sha256": "4777849f18d00fc38f5262b14be5bcc6080dc8fb02b87542d55808040dfcd55f"
+    },
+    {
+      "path": "series/peach-girl/07 Audits and Handoffs/PEACH_GIRL_G1_G2_VERIFICATION.json",
+      "bytes": 35703,
+      "sha256": "0a8770cff0004ffa9298fb921339bcdcc19e2158e90408a8cabf751928282690"
+    },
+    {
+      "path": "series/peach-girl/07 Audits and Handoffs/PEACH_GIRL_G3_DEPENDENCY_AND_COUNTERREADING_AUDIT.md",
+      "bytes": 4557,
+      "sha256": "1063846bec338c7b628f69252ac5b569053daf57216ee46ef55bccf24727b856"
+    },
+    {
+      "path": "series/peach-girl/07 Audits and Handoffs/PEACH_GIRL_G4_EXECUTION_RECEIPT.json",
+      "bytes": 1403,
+      "sha256": "4aecb52e83716e9eb6f16e41a075c411532415309ee585794cd7f7827ee4496a"
+    },
+    {
+      "path": "series/peach-girl/07 Audits and Handoffs/PEACH_GIRL_G5_CONVERGENCE_AND_ROLE_GAP_DECISION.md",
+      "bytes": 3359,
+      "sha256": "dbd72f738fbf5a3f8c6014411b3f4dfe37da5ec669eff0fb4ea4b700fbe685d9"
+    },
+    {
+      "path": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "bytes": 30853,
+      "sha256": "96968b5b4b165446d84bccb4fa57882d8ac67327866c95de50f2f44a2b8bcc62"
+    }
+  ],
+  "external_dependencies": [
+    {
+      "file": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "target": "../../AGENTS.md",
+      "inside_project": false
+    },
+    {
+      "file": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "target": "../../governance/AUTHORITY_STATE.yaml",
+      "inside_project": false
+    },
+    {
+      "file": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "target": "../../governance/AUTHORITY_SCOPE.json",
+      "inside_project": false
+    },
+    {
+      "file": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "target": "../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md",
+      "inside_project": false
+    },
+    {
+      "file": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "target": "../../governance/repository-controls/project-initiation-gate.json",
+      "inside_project": false
+    },
+    {
+      "file": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "target": "../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md",
+      "inside_project": false
+    },
+    {
+      "file": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "target": "../../governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md",
+      "inside_project": false
+    },
+    {
+      "file": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "target": "../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md",
+      "inside_project": false
+    },
+    {
+      "file": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "target": "../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md",
+      "inside_project": false
+    },
+    {
+      "file": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "target": "../../governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md",
+      "inside_project": false
+    },
+    {
+      "file": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "target": "../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md",
+      "inside_project": false
+    },
+    {
+      "file": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "target": "../../governance/policies/BRANCH_LIFECYCLE.md",
+      "inside_project": false
+    },
+    {
+      "file": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "target": "../../governance/policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md",
+      "inside_project": false
+    },
+    {
+      "file": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "target": "../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md",
+      "inside_project": false
+    },
+    {
+      "file": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "target": "../../governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md",
+      "inside_project": false
+    },
+    {
+      "file": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "target": "../../governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md",
+      "inside_project": false
+    },
+    {
+      "file": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "target": "../../governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md",
+      "inside_project": false
+    }
+  ]
+}

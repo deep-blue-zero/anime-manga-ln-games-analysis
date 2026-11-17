@@ -1,0 +1,14 @@
+{
+  "series_id": "peach-girl",
+  "stable_slug": "peach-girl",
+  "canonical_title": "Peach Girl / ピーチガール",
+  "media": ["MANGA"],
+  "repository_path": "series/peach-girl/",
+  "canonical_entrypoint": "series/peach-girl/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_UNREVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_PEACH_GIRL_BOOTSTRAP_20261016",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Original Japanese manga analysis of character development, directional relationships, information and reputation, and manga form; architecture supports longitudinal synthesis and time-bounded character reconstruction. Primary and derived evidence remain in Drive."
+}

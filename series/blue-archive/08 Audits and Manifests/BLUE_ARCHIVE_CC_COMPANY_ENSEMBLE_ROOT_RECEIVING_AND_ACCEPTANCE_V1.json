@@ -1,0 +1,194 @@
+{
+  "schema": "BLUE_ARCHIVE_CC_COMPANY_ENSEMBLE_ROOT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_PERSISTENCE_PENDING_COMPLETE_ROOT_INSTALLATION",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_CC_DIFFERENTIATED_COMPANY_ENSEMBLE_SYNTHESIS.md",
+  "current_scope": "355 required packages;29 non-denominator mandatory substantial named duties across25 distinct parent packages; literal kinds18 SECTION/9 DIRECTED_RELATIONSHIP/2 ENSEMBLE",
+  "dated_source_beforeimage_witness": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+  "dated_source_tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+  "accepted_merged_main_witness": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "commit_custody_qualification": "7546 source and b76 squash main have the same e9 tree; distinct commit and audit custody is preserved. This preparer performed no fetch, local reconciliation, merge or new remote observation.",
+  "fixed_preparation_snapshot": {
+    "packages": [
+      90,
+      101
+    ],
+    "new_packages": 12,
+    "after_complete_ROOT_install": 101,
+    "characters": 89,
+    "directed_relationships": 6,
+    "ensembles": 3,
+    "institutions": 3,
+    "named_duties_after_complete_ROOT_install": 3,
+    "previous_merged_packages": 89,
+    "next_milestone": 178,
+    "later_live_acceptances_excluded": true
+  },
+  "current_first_milestone_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json",
+      "bytes": 2282,
+      "sha256": "e7214986d7cd89063f5b0608d63100957736a33e48baeb102afdc13145a79ea6",
+      "git_blob_oid_of_actual_bytes": "67d72a22c7acf47b817879110809fdb0095968f3",
+      "immutable_transport_path": "immutable_originals/ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1",
+      "checked_UTC": "2026-10-10T19:49:13.689695+00:00",
+      "status": "COMPLETE_MERGED_AND_EXACT_POSTMERGE_MAIN_FULL_AUDIT_ACCEPTED",
+      "goal25_complete": true,
+      "merged_PR": 147,
+      "merged_UTC": "2026-10-10T19:34:27Z",
+      "merged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+      "tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+      "linear_parent": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+      "merged_packages": 89,
+      "required_packages": 355,
+      "required_named_duties": 29,
+      "distinct_named_parent_packages": 25,
+      "milestones": [
+        89,
+        178,
+        267,
+        355
+      ],
+      "next_milestone": 178,
+      "ROOT_reviewed_total_at_this_receipt": 102,
+      "full_goal_status": "ACTIVE_INCOMPLETE",
+      "postmerge_receipt": {
+        "path": "ROOT_FIRST_MILESTONE_POSTMERGE_MAIN_b76_VERIFICATION_V1/EXACT_POSTMERGE_MAIN_VERIFICATION_V1.json",
+        "bytes": 6847,
+        "sha256": "787c947409268e2e633a2278790fb71241e822ea98b5e0608839d393e9dfe598",
+        "git_blob": "2c4964e2df70188d2181796a95d9990c72ca98af"
+      },
+      "postmerge_run": 38080340801,
+      "actual_audit_commit": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "tests": 292,
+      "skipped": 0,
+      "archive_outcome": "success",
+      "profile": "full",
+      "source_housekeeping_final_chain": "PREVIOUSLY_ROOT_ACCEPTED_EXACT7546; NOOP HOUSEKEEPING; FULL_FINAL_AUDIT",
+      "ROOT_actual_receiving": "8aac40 entire140-line saved postmerge receipt; actual selected AUDIT_COMMIT, detached checkout, full snapshot PASS, both completed jobs and isolated exact-success status; separately received actual292-tests/OK log range233–250. Exact complete saved log and every actual selected witness independently checked here. Dated PENDING in frozen producer receipt is superseded for current milestone status by this receiving decision.",
+      "all14_original_gaps": "OPEN",
+      "new_literary_primary_AV_model_or_identity_credit": 0,
+      "untracked39": "UNCHANGED_NO_CONTENT_READ_OR_HASH",
+      "unbound9": "UNREAD_UNHASHED",
+      "R_Git_provider_mutations": false,
+      "remaining_work": "Full remaining eligible-cast Phase3 packages, all29 substantial named duties, subsequent exact adoption/publication and required178/267/355 merges remain required."
+    }
+  },
+  "historical_payload_qualification": "Original pending/local/counter/source-capture/receiving fields retain creation-time meaning. The separate complete ROOT acceptance controls current literary judgment; the accepted milestone control supersedes only earlier first-milestone pending states. No author physical source receiving is inferred retrospectively.",
+  "original_exact_tuple": {
+    "path": "ROOT_CC_ENSEMBLE_CORRECTED_V2_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 5980,
+    "sha256": "1ec6916e21757a710ed903c743136c2bcc31114f979777957377b5f47cd3a9c9",
+    "git_blob_oid_of_actual_bytes": "470ade7497ae71345551c461549e150a08e16185",
+    "immutable_transport_path": "immutable_originals/ROOT_CC_ENSEMBLE_CORRECTED_V2_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_CC_ENSEMBLE_CORRECTED_V2_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "checked_UTC": "2026-10-10T19:30:13.416535+00:00",
+    "status": "PASS_COMPLETE_CORRECTED_EXISTING_ENSEMBLE_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_EXISTING_ENSEMBLE_BOUNDARY_WITH_LIMITS",
+    "existing_home": "P3-ENSEMBLE-CC-DIFFERENTIATED-COMPANY-CONTESTED-BELONGING",
+    "candidate": {
+      "absolute_path": "immutable-local-author-witness/PHASE3_START_20261009/CNC_COMPANY_ENSEMBLE_COMPENSATION_CORRECTED_V2/BLUE_ARCHIVE_CC_DIFFERENTIATED_COMPANY_ENSEMBLE_SYNTHESIS.md",
+      "path": "BLUE_ARCHIVE_CC_DIFFERENTIATED_COMPANY_ENSEMBLE_SYNTHESIS.md",
+      "byte_count": 37032,
+      "line_count": 150,
+      "sha256": "0a3feb655de90f173e5f041f9dd9e5fefd8035611a5231cfd08fc90840ad6ab8",
+      "actual_byte_blob_oid": "0da81d35da52d214a22a3ce19267b1f681cb92eb"
+    },
+    "mandatory_operative_derivative": "Corrected150-line V2 with exact offer-versus-unprinted-paymentL119, its source/claim/saved/erratum/seal. Preserve allfiveV1 and112earlier witnesses. Later canonical route and current-source framing require separate exact adoption.",
+    "finite_bindings": {
+      "31_original_sources_and_Ccopies": 31,
+      "current_unchanged_analytical_secondary": 24,
+      "snapshot_only_Ccontrols": 7,
+      "main_equal": 24,
+      "main_architecture_unequal": 1,
+      "main_absent": 6,
+      "historical_Cinputs": 15,
+      "originalV1_preserved": 5,
+      "earlier_preserved": 112,
+      "changed_body_lines": [
+        119
+      ],
+      "body_source_claim_full_byte_inverses": true,
+      "saved_paragraphs": 67,
+      "literal_joins": 204,
+      "complete_endpoints": 34,
+      "rivals": 9,
+      "dimensions": 11,
+      "OPEN_gaps": 14,
+      "relative_links": 2,
+      "named_duties": 0
+    },
+    "ROOT_actual_receiving": {
+      "whole_original150_body": "b880d61–50/a0c6b551–100/a1134f101–150EOF allunclipped",
+      "whole_operative150": "Whole original plus all149unchanged inverse and completeactualcorrected1192f3aa0; no whole derivative credit before inverse verification",
+      "all_source_scopes": "fb2ea70–9/e39b0510–20/88622f21–30 all31 complete current-custody scopes;310a4f controls;05dd09 exact selected home fields and complete current metadata custody qualification",
+      "historical_duplicate_partition_argument": "Prior adequate complete MillenniumV2§4–5 retained as duplicate history. No fresh whole6514 control or new scope from the duplicate.",
+      "all_saved_meanings": "Whole150 plus decc8b all67 exact duplicates and unique nonduplicate meaning_scope;bf0c7b eleven dimensions/fourteencomplete gap effects",
+      "all34_endpoint_extra_fields": "23088e0–11/d2fd6512–23/520d5a24–33; latter clipped CCEE29–30, repairedcomplete5f1dbc28–29",
+      "all9_rivals": "Wholebody plus c7d6b9 all9 extrafields and correctedCCER07 exactsourcejoins",
+      "whole_saved_receipt_erratum_and_seal": "8bcce7 whole69;3d7c4c whole216; b8b399 whole161;fe4dd7 alloriginalseal meaningfulcustody/finite/semanticcontrols",
+      "fresh_compensation_source": "e98a09 completeE43L81–100including entireofferE008L86; no primary/performedcredit",
+      "adequate_source_reuse": "Private/public/secondary normal meanings remain admitted at adequate previously received extents. Source copies, literary endpoints and character§8 comparisons add no independent witness or fresh whole-primary receiving."
+    },
+    "semantic_grounds": [
+      "Differentiated practical reception makes wanted company possible: welcoming, refusing, correcting, interrupting, comforting and helping have different actors and ends. No one shared interior is inferred.",
+      "Allfive members retain their own wanted food, tea, leisure, toys, jacket, pond, conversation, laundry, sunrise, ordinary work, rest, uncertain hobbies, gifts and hoped-for room. Quiet and unfinished desires have intrinsic value.",
+      "Plural coalition authorship, rescue, injury response, ordinary Alice return, disputed party presence, apology and later practical support coexist with unsettled forgiveness, command, clinical, financial and work outcomes.",
+      "Akane initiative and Neru jacket refusal/limited hair permission, Asuna welcome versus Neru objection, Karin privacy and Toki wanted resemblance are recipient-specific. Character portraits and directed relationship obligations remain separate.",
+      "Actual source offered compensation is no completed payment. Successful collective results neither erase adverse methods and recipient costs nor certify unseen repairs.",
+      "E821 coalition/source qualification, Neru mustache approval, Tsurugi laughter, UNKNOWN greeting, written alternatives, local actor seams, reports and UI conditions retain their precise authority.",
+      "Nine substantial rivals, all eleven dimensions and fourteen complete original OPEN gap questions preserve positive and contrary evidence without a stakes or popularity filter."
+    ],
+    "scope": "355required/29named/25distinctparents unchanged",
+    "all14_original_gaps": "OPEN",
+    "progress": {
+      "previous_ROOTaccepted_packages": 100,
+      "new_ensemble_package": 1,
+      "total_ROOTaccepted_packages": 101,
+      "character_packages": 89,
+      "directed_relationship_packages": 6,
+      "ensemble_packages": 3,
+      "institution_packages": 3,
+      "ROOTaccepted_named_duties": 3,
+      "published_remote_packages": 89,
+      "published_source_commit": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+      "canonical_persistence": "PENDING_NEXT_EXACT_ADOPTION",
+      "goal_25_percent_milestone_complete": false
+    },
+    "new_primary_native_raw_performed_model_independence_credit": 0,
+    "UNBOUND9": "UNOPENED_UNREAD_UNHASHED",
+    "R_Git_provider_writes": false,
+    "dated_saved_pending_field": "V2 saved receipt field records prefreeze timing; operative author seal and actual completed ROOT review are separate records. Frozen bytes are preserved.",
+    "main_integration": "PENDING_CORRECTED_SOURCE_CHAIN_AUTHORIZED_MERGE_EXACT_POSTMERGE_AUDIT"
+  },
+  "public_reference_translation": "Every original field survives exact reference translation. Original tuples bind original bytes, not derivative bytes; full immutable C transports and literal inverses are retained.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "model_credit": 0,
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_CC_DIFFERENTIATED_COMPANY_ENSEMBLE_SYNTHESIS.md",
+    "bytes": 39459,
+    "sha256": "e6d8c102defa65eea34f9d2bb8582928b4bb3f02963a62e1deb9034598bfd9f9",
+    "git_blob_oid_of_actual_bytes": "87e063dcb90c6741cb2b4c11f771022cd14e1b95"
+  },
+  "authority_framing_changes": [
+    {
+      "kind": "CURRENT_ROOT_AUTHORITY_FRAMING_ONLY",
+      "before": "This is a full author synthesis pending independent ROOT receiving and adjudication. It adds no accepted completion, admission, model, primary, performed or independent witness credit.",
+      "after": "This is a full bounded author synthesis independently accepted by ROOT WITH LIMITS. Canonical persistence begins only through complete ROOT installation; its mechanical transport adds no admission, model, primary, performed or independent witness credit.",
+      "occurrences": 1
+    }
+  ],
+  "mandatory_operative_qualification": "Corrected150-line V2 with exact offer-versus-unprinted-paymentL119, its source/claim/saved/erratum/seal. Preserve allfiveV1 and112earlier witnesses. Later canonical route and current-source framing require separate exact adoption."
+}

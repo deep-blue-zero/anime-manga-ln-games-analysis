@@ -1,0 +1,50 @@
+{
+  "schema": "KONOSUBA_ZESTA_ACTUAL_FIRST_OUTPUTS_V1",
+  "recorded_utc": "2026-10-20T10:09:35.604847+00:00",
+  "model_sha256": "f7c966bf93a3c788a697f9b2da55f01b6b221d52ca9a95d63df45401632de0a0",
+  "scenario_inputs_sha256": "f0d65ca170258e603580ae24b2ff8abe459fd6974c1a05c2f6a5ee4e8b3558c6",
+  "prebody_contract_sha256": "9d35522e72b1fb8857117a60cfe4e92c20fd0f2c8b4cd44a2ab565cef30f0a17",
+  "generation": "Eight total bodies across two subjects were authored once by the same informed root after both contracts; this file contains four. Tool serialization is not an independent generative runtime.",
+  "source_known_hypothetical_only": true,
+  "actual_outputs": [
+    {
+      "id": "ZESTA-H01A",
+      "reply": "Aqua-sama is at the gate? Then the cards may wait. Show me exactly where, Rota. We cannot leave her struggling with a miserable little wheel!",
+      "immediate_action": "Zesta gives up the planned card game and heads for the church exit.",
+      "first_body": "Aqua-sama is at the gate? Then the cards may wait. Show me exactly where, Rota. We cannot leave her struggling with a miserable little wheel!\n\nZesta gives up the planned card game and heads for the church exit.",
+      "first_body_sha256": "10625aebc3dfbfd8711bfd44b8a152d19b38a6d6838051ae200be3926609f713",
+      "generated_once_by_same_informed_root_author": true,
+      "replaced_or_regenerated": false
+    },
+    {
+      "id": "ZESTA-H01B",
+      "reply": "A passerby, you say? Hm. Well, if it is Aqua-sama, a wheel is a paltry thing to leave her with. Come, tell me what he said as we go. The game will still be there.",
+      "immediate_action": "Zesta heads for the exit without waiting for independent confirmation.",
+      "first_body": "A passerby, you say? Hm. Well, if it is Aqua-sama, a wheel is a paltry thing to leave her with. Come, tell me what he said as we go. The game will still be there.\n\nZesta heads for the exit without waiting for independent confirmation.",
+      "first_body_sha256": "22f4d2661609332f29e9658f8a06a419e372f6ff74a4241651cfff95a5f7d956",
+      "generated_once_by_same_informed_root_author": true,
+      "replaced_or_regenerated": false
+    },
+    {
+      "id": "ZESTA-H02A",
+      "reply": "Of course, of course! A fine beginning to a fine conversation. Hold that arm here. First we shall see to the unpleasant part, and then I can tell you how pleasantly an Axis believer may live.",
+      "immediate_action": "Zesta casts Heal over Oren's forearm, and the supplied local effect closes the wound.",
+      "first_body": "Of course, of course! A fine beginning to a fine conversation. Hold that arm here. First we shall see to the unpleasant part, and then I can tell you how pleasantly an Axis believer may live.\n\nZesta casts Heal over Oren's forearm, and the supplied local effect closes the wound.",
+      "first_body_sha256": "25f80dc0e8519062612ef653dbb77a6bb32b21dbcb9649ee4936f995caaa420e",
+      "generated_once_by_same_informed_root_author": true,
+      "replaced_or_regenerated": false
+    },
+    {
+      "id": "ZESTA-H02B",
+      "reply": "Well now, there is no need to decide such things while you are in pain. Let us repair the arm first. You may find me much more persuasive when you are comfortable.",
+      "immediate_action": "Zesta casts Heal over Oren's forearm, and the supplied local effect closes the wound.",
+      "first_body": "Well now, there is no need to decide such things while you are in pain. Let us repair the arm first. You may find me much more persuasive when you are comfortable.\n\nZesta casts Heal over Oren's forearm, and the supplied local effect closes the wound.",
+      "first_body_sha256": "e7762dec12817bcddb6856bb0ca96fdbaf1d922f89987b9c2fee3b91b6d65ad2",
+      "generated_once_by_same_informed_root_author": true,
+      "replaced_or_regenerated": false
+    }
+  ],
+  "actual_first_bodies": 4,
+  "regeneration_count": 0,
+  "source_independent_Japanese_or_confidence_credit": 0
+}

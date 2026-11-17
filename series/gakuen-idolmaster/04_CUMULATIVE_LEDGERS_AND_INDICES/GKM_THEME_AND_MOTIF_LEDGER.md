@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Theme and Motif Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.2"
+version: "2.3"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-17 — Arimura Mao integrated audiovisual baseline"
+last_updated: "2026-11-15 — source-to-analysis audit corrections"
 status: "active; cumulative through Phase 3 Arimura Mao integrated AV completion"
 ---
 
@@ -704,3 +704,40 @@ Downstream reconstruction heuristic:
 > **character prior + current state + domain competence + recipient model + relationship history + access permission + network position + institutional affordance + internalized others**
 
 This is a guardrail against flattening, not a numerical scoring formula.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+| theme ID | candidate_theme | source_id | support_or_counterevidence | characters/institution | story_state | legacy_origin | confidence | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| THEM-R86-WORK | Pay, recognition and return of affection | GKM-R86-01, 08 | Kotone explains money after debt repayment and Temari calls praise compensation | Kotone, Temari | D-KOTONE, M-TEMARI 021 | work/recognition | high for claims | shared economic wording can carry different motivations |
+| THEM-R86-HEIGHT | Distance in success and reciprocal assistance | GKM-R86-04, 05 | Kanae perceives separation after China's win, Rinami experiences and then receives a route onto the stage | China/Kanae, Rinami/Tsubame | Kanae 000, E028 | distributed care | high for observations | Misuzu's analogy is her own statement |
+| THEM-R86-STAGE | Competitive affection and audience orientation | GKM-R86-01–03, 06 | Sena revises assessment, Tsubame retains rivalry, Saki/Ume choose a work truce | competition and professional pedagogy | named D/P/E states | rivalry systems | high within tracks | crowd behavior imagined in D-KOTONE 035 has a different status from 036 fan address |
+
+## Source Lock 1.2 — transcript refresh, 2026-11-15
+
+| theme ID | candidate theme | evidence | support or counterevidence | characters | state | related ledger | confidence | scope |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| THEM-R88-RUN | Running without being asked | GKM-R86-04, GKM-R88-01 | Exact echoed wording and errands connect a run freely undertaken for China to Kanae’s run for her own assessment. H02 L822–867 and D008 L627–683. | Kanae, China, Producer | C1 within Kanae arc | KANAE-R88-C02 | high | `初めて` describes the beneficiary of the run. |
+| THEM-R88-CENTER | A center mark for another performer's show becomes a point of departure | GKM-R88-01 | D004 L373 versus D009 L208 and L217–219. D005–007 also imagine lives that contextualize the later scripted performance. | Kanae | C1 with separately marked imagination | KANAE-R88-C04 | high for loci, T-B for link | staging and metaphor from A1 |
+| THEM-R88-RETURN | Returning care and the missed-stage promise | GKM-R86-04, GKM-R88-01, GKM-R88-04, GKM-R88-05 | H02 and D009 give the missed-live dialogue to opposite speakers. The gifted ornament, rice ball and dry run of household chores give reciprocity different costs. | China, Kanae | C1 Dear; C4 support parallels | KANAE-R88-C03 | high for actions | distinct occasions and levels of help |
+| THEM-R88-ARMOR | Costume, discipline and freedom to be seen | GKM-R88-01, GKM-R88-04 | `近侍` remains a source of pride. Kanae names the maid clothing as armor and the solo costume as easing tension. She has a say in costume exploration. | Kanae, China, Producer | C1 locally | KANAE-R88-C06 | high for stated experience | live reception pending |
+
+## Source-to-analysis audit corrections — 2026-11-15
+
+Source authority: the owner-authorized change plan of the source-to-analysis audit of 2026-11-15, as landed by the content editors in the homes named in the related-home column. Rows above are not edited; a row below that revises or narrows an earlier entry names it. Each row records what the home now says, with its A1 locators.
+
+| theme ID | candidate theme | evidence | support or counterevidence | characters | state | related home and audit ID | confidence | scope |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| — (extends TH-SAKI-03) | `勝ち逃げ` reframed as an unfinished contest | `adv_dear_hski_036` L500–L516; `adv_dear_hski_037` L349, L375 | Saki's first true win is announced, and former athletes tell her their contest was not over | Saki | C1 @ D-SAKI 036–037 | CORE-Saki §3.2.14, §4.3; GKM-SAA-038 | high | D-SAKI-scoped |
+| — (revises Temari row "present-tense self-love") | Temari's present-tense self-love is mediated and conditional | `adv_dear_ttmr_027` L419; `adv_unit_01-04_20` L662–L671; `adv_pstory_001_ttmr_before-audition-mid-normal-01` L76 | mediated by others' belief; effort-conditioned in U1 before the verdict (inner line); a rank-independent anchor in one P1 branch; counterevidence `adv_dear_ttmr_022` L219–L280 and the P2 failure | Temari | C1 by source; the P1 anchor is C3 | CORE-Temari §5.2, §5.4, §17.4, H-TEMARI-03; GKM-SAA-046 (with HSCA-001 residual 4) | high | unconditionality stays open |
+| — (extends Phase-4 §10.1 example on Rinha's instruction) | inherited instruction outlives the relationship's present form | `adv_dear_ttmr_024` L399; `adv_dear_ttmr_030` L349–L372 | Dear witnesses of Temari reproducing Rinha's teaching beyond E016 | Temari, Rinha | C1 @ D-TEMARI | CORE-Temari §3.2.9, §4.1; GKM-SAA-180 | high | Temari-side evidence; Rinha's motive is not inferred |
+| — (qualifies Kotone AV row "manufactured confidence") | manufactured confidence has Kotone locators and is not merely prosthetic | `adv_dear_fktn_007` L206–L207; `adv_cidol-fktn-3-006_02` L66; `adv_dear_fktn_015` L225 | the Producer's daily-praise policy (D007), rehearsal (D026), Kotone's recognition (C-006_02), her named requests (C-016_01, C-019_03), Sena's "ritual" (D015) and the calculation she admits (D037) | Kotone, Producer, Sena | C1 @ D-KOTONE; C2 communications | CORE-Kotone §3.2.4; GKM-SAA-190 | high | the dependency caution stands |
+| — (narrows Phase-4 "accidental authenticity / public exposure") | consent to a format does not cover every disclosure it carries | `adv_dear_kllj_031` L306–L464 | in D-LILJA 031 disclosures go out on a stream left running; consent covers the stream format, not every disclosure; the framing is comic and no consequence is shown | Lilja, Sumika | C1 @ D-LILJA 031 | CORE-Lilja §11; RS-I §4.7; GKM-SAA-202 | high | narrows the claim that the stream was consented |
+| — (updates Hiro "hobby / dream" and "purity / impurity") | the top-idol dream is held early and deferred under a self-imposed test | `adv_dear_shro_021` L211–L246; `adv_dear_shro_029` L377; `adv_dear_shro_036` L369–L448 | Hiro holds the dream from Dear 021 but defers it under a self-imposed `資格` test until Prima Stella; she defines `不純` comparatively (Ume a true idol; Hiro only reached out; most reasons not to lose) | Hiro | C1 @ D-HIRO | CORE-Hiro §17, §20; GKM-SAA-066 | high | HIRO-C27's first clean declaration is preserved |
+| — (updates Hiro "body") | the text itself shows danger-promotion | `adv_cidol-shro-3-012_03` L231–L291 | the Producer designs fans' anxiety about Hiro's fragility into her image, as Hiro reports verbatim; the aestheticisation risk is not Sena's alone | Hiro, Producer, Sena | C2 communication | CORE-Hiro §12, §21.1(b); GKM-SAA-067 | high textually | HIRO-C19 stays OPEN; AV calibration separate |
+| — (new Rinami row) | the promise and `一番星` motif carries the career–relationship fusion | `adv_dear_hrnm_017` L154–L175; `023` L517; `027` L179; `035` L447; `036` L518; P3 `final-normal-02` L16–L17 | a reciprocal promise (Dear 017) is broken (023), restated in the Producer's notebook (027), renewed (028) and becomes a shared view (035–037); the ruby `プリマステラ` / `いちばんぼし` carries the fusion | Rinami, Producer | C1 @ D-RINAMI; P3 occurrences C3 | CORE-Rinami §8, §11, §24, §29; GKM-SAA-071 | high | romance conclusion OPEN; P3 occurrences branch-scoped |
+| — (qualifies Sumika "gyaru brightness" and the friction-reduction rows) | friction reduction has a cost side | `adv_dear_ssmk_025` L67–L93, L392–L432; `adv_event_020_main-03` L186–L211 | Sumika's sociability also works as habitual attunement to others (the Dear 025 diagnosis; Temari's observation) that feeds over-fitting to expectation (Dear 024–026); the gyaru style, by her own account, was acquired after ballet and became natural | Sumika | C1 @ D-SUMIKA; E020 | CORE-Sumika §3, §12; E013–020 §9.4; RS-I §4.13; GKM-SAA-078 | high | genuine but not original; not a false self |
+| — (qualifies Misuzu "night sky" and the celestial motif) | the moon is not Temari's alone at the D-MISUZU endpoint | `adv_dear_hmsz_037` L56–L76; `adv_dear_hmsz_002` L238–L245 | Misuzu's endpoint moon wish reuses the supported-moon image she gave Temari | Misuzu, Temari | C1 @ D-MISUZU | CORE-Misuzu §18, §26, C33; GKM-SAA-088 | high | meaning OPEN |
+| THEM-R88-VIEW | same height, same view | `adv_dear_hkne_000-05-horizontal` L255–L346; `adv_dear_hkne_002` L223; `005` L572; `007` L443; `010` L369; P1 `ending-true-01` L209 | Misuzu's image of height and view (H05 L255–L265) becomes Kanae's resolve (H05 L346), her declaration back to Misuzu (D002), a night fantasy (D005), the reason under her wish (D007) and the closing dream (D010), with a P1 parallel (C3) | Kanae, Misuzu | C1 in the Kanae arc; P1 C3 | KANAE "Admission" (D002) and D010 paragraphs; GKM-SAA-099 | high for loci | links T-B |
+| THEM-R88-SHADOW | shadow and light | `adv_dear_hkne_000-01-horizontal` L143; `000-03` L665; `adv_dear_hkne_002` L277; `004` L503; `005` L607; `006` L290; `adv_cidol-hkne-3-000_03` L146–L151; `009` L130–L135 | the Producer's narration calls Kanae China's `影` (H01); `陰より支え` (H03); `日本の影` (D002); D004; `あなたは影です` (D005); Nadeshiko (D006); sun and `木漏れ日` (communication 03); below the stage, then `主役` (D009) | Kanae, China, Producer, Nadeshiko | C1 in the Kanae arc; C1 within the communication | KANAE D002 and D010 paragraphs; GKM-SAA-099 | high for loci | not all self-chosen: H01 L143 and D006 L290 are others' words |

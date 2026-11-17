@@ -1,0 +1,460 @@
+{
+ "schema": "SUMIRE_CURRENT_AUTHOR_EXACT8_ORIGINAL_CUSTODY_CONDITIONAL_TRANSPORT_V1",
+ "author": "/root/m008_composition_review",
+ "current_role": "AUTHOR_COMPLETE_COMPONENT_PREPARATION_PENDING_ACTUAL_AUTHOR_RECEIVING_CLOSURE_THEN_DISTINCT_QA_AND_ROOT",
+ "exact_current_first7": [
+  {
+   "C_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SUMIRE_CHARACTER_MONOGRAPH.md",
+   "bytes": 25661,
+   "sha256": "602dd505b980ba18b4ca651e898d60abf6c4d3e8c9830e121415dec430d44681",
+   "git_blob_oid_of_actual_bytes": "3a263325f6032874de501036982e55f87ad4e658"
+  },
+  {
+   "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_ALL105_GENUINE_NEW_PURPOSES_SMP000_SMP035_V1.json",
+   "bytes": 413399,
+   "sha256": "595e5ba946291d22fe3b3ff86cee8edbc33eda3abe124bba653d6905025ef6cb",
+   "git_blob_oid_of_actual_bytes": "adf089ae4e89f38a1d8867b4efd07a30148d40df"
+  },
+  {
+   "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_ALL105_GENUINE_NEW_PURPOSES_SMP036_SMP070_V1.json",
+   "bytes": 534525,
+   "sha256": "f6a02cc0d6d2955cac9fea8b68511b94f9967f3eea6b394eef476b0b3b88b389",
+   "git_blob_oid_of_actual_bytes": "4e0710862bbeebb5e5b17a8bdc6139be4a1ae01c"
+  },
+  {
+   "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_ALL105_GENUINE_NEW_PURPOSES_SMP071_SMP104_V1.json",
+   "bytes": 694460,
+   "sha256": "7009fdd5e1db482c33703e85975d2fc864566859d890debce03f0b0ae9765c95",
+   "git_blob_oid_of_actual_bytes": "f4e945971a92a6876031eb300b9e188c1526d71f"
+  },
+  {
+   "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_SOURCE4_COMPLETE12_ANSWERS_NEW105_QUESTIONS_GRADES_AND_CURRENT_COMMON_QUALIFICATIONS_V1.json",
+   "bytes": 46774,
+   "sha256": "866aab751189cf94cdb6fdf5bb144b74ed5ab681e14a75dffdf3e342037fce94",
+   "git_blob_oid_of_actual_bytes": "ec4cd8587461187d5efee2f4921364b38fc4b796"
+  },
+  {
+   "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_CURRENT_COMPLETE_LITERAL52_SOURCE_QUESTION_NEW105_RIVAL_END_GAP_REGISTER_V1.json",
+   "bytes": 890921,
+   "sha256": "a7ee8650a7dfc5e2af748500a7280bbd9f3d1ada59eed57f60a2d8299581b866",
+   "git_blob_oid_of_actual_bytes": "706522043ec1a268df861f260c5409af8e5c72bd"
+  },
+  {
+   "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_ALL105_GENUINE_NEW_PURPOSE_EXACT_PART_BODY_RELATION_INDEX_V1.json",
+   "bytes": 596983,
+   "sha256": "6a66043871873d4ec0504ab019b3022d5420eb2ee86c4d3d1e2ec2202c393065",
+   "git_blob_oid_of_actual_bytes": "bfd28b2c0d3604b1f74ff8bf65b4c81ba67b1818"
+  }
+ ],
+ "complete_original20_custody_manifest": {
+  "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+  "bytes": 42646,
+  "sha256": "09a6b03f4004bf71742b0fe649d25a1bec268c6f2ee746839b40ccbfda2b864e",
+  "git_blob_oid_of_actual_bytes": "cd88e519b11532e30611904457cbec637a6cb1b2"
+ },
+ "all14_current_full_original_raw_recovery_proofs": [
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 9527,
+   "sha256": "c897f8fd520cf92271fe314789ed622375d7353cb9fd3ec6384f610eac44991c",
+   "git_blob_oid_of_actual_bytes": "3becbbf6cc5c391d5c07cda5e04800812e63a049"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 9537,
+   "sha256": "f18ed6c8b60cffab6d85cadb1eb0cfb652fd2bc8bc12cd3f87933a6e4b811779",
+   "git_blob_oid_of_actual_bytes": "b60519465ac3dd5fccdf547458790020eec839cd"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 9537,
+   "sha256": "fa94c75b6a82f1174295bec8e5190932b57303d7a03ecee46a5a760d9071c3e5",
+   "git_blob_oid_of_actual_bytes": "c0ff81f99ec4ccf976e5d5bd37854a2c6e3b59e5"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 9629,
+   "sha256": "faee5bffbde863de95d3a3228969678a6aad3c275a645522d940b47ecaf4ad62",
+   "git_blob_oid_of_actual_bytes": "36b977367df1aa4e7cee96fcfe90f48ba81e344b"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 9771,
+   "sha256": "e453f86792d395eb07a2f31ebd6c2f6f1d307381ceaa129c8aee55f24b1ff523",
+   "git_blob_oid_of_actual_bytes": "293ec4eda1a3d6157e15f836d3fbdd04cb7c0a57"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 9777,
+   "sha256": "b4a1390f607b739cede753b8e011b269378cb8f8b3b4e9c9e48ca89ac6426f2d",
+   "git_blob_oid_of_actual_bytes": "ec174bbe672e4df1710a68a6d77d416207b91dfc"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 9781,
+   "sha256": "37f45d1625133c00f249daf83d66a23bf95a2bf39db502215b134403300e267e",
+   "git_blob_oid_of_actual_bytes": "4078d1faec526569281cd12bee568e3c60da90f8"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 9772,
+   "sha256": "b2f4fa0ba8dac865ba802f90df8f6baae998c04964042bd7eef6f0cfeda2a419",
+   "git_blob_oid_of_actual_bytes": "b00e6983f0959c51ad45b61362855393dbe8b753"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 9780,
+   "sha256": "ef4fb88acc7114875de4c20d1b91de48f37a7064089165f38d8fa993a1c00c16",
+   "git_blob_oid_of_actual_bytes": "0805e2ffa9f282843c9ed2f10ae4e445480e2682"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 9781,
+   "sha256": "905a5663f16b86a4d8059183e12a051c04f4e4c621b541c70e2c1c8fd7bf6993",
+   "git_blob_oid_of_actual_bytes": "55ab138c3ce24b864dd03ad27caa89ac99cc11fe"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 6696,
+   "sha256": "5b02eb913a2d95ef3252f8e6006c689bf6db4dfd9b93149e51efc2d3c3738a07",
+   "git_blob_oid_of_actual_bytes": "bae6061771fadccee28e875000964036188a3d52"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 202176,
+   "sha256": "f12ba81076a573e4384a008cce829a9cdb25ab3eafd0f42f51ce6c751edcb41b",
+   "git_blob_oid_of_actual_bytes": "875c0d1555c17352c6b324bc3bda7f28e050298e"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 208206,
+   "sha256": "7ba0013cf9e152eec15f787feba407889674b9c575b1e9e7c87b0a297ecbca18",
+   "git_blob_oid_of_actual_bytes": "16286fe0e4f9b1c398015b5c4dade6b789504631"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 209339,
+   "sha256": "c3ebd2aadf3376228cc5f84eaae6c7c0e4808d7ea4f11fff725510d2e665ea4a",
+   "git_blob_oid_of_actual_bytes": "ec2be85fbdcb33c516387b3b785ae68e424fef8f"
+  }
+ ],
+ "original_adopted_body_and_map": {
+  "body": {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 24824,
+   "sha256": "dfe08bd58e978531d3677639567a6d5441041646a5de22fe0cdd3277a2bb8ffe",
+   "git_blob_oid_of_actual_bytes": "0d3e5453789f2b262a8fa27ad9b7c179314cce22"
+  },
+  "map": {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 145258,
+   "sha256": "670d6bd0813e9bc45cdf2ede4a6aa36032fab8a7547cea8864e2ce80b37063cf",
+   "git_blob_oid_of_actual_bytes": "364670cdb7c1f7754da2f68eefa3bd1d25cd2541"
+  },
+  "map_fullraw_copy": {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 145258,
+   "sha256": "670d6bd0813e9bc45cdf2ede4a6aa36032fab8a7547cea8864e2ce80b37063cf",
+   "git_blob_oid_of_actual_bytes": "364670cdb7c1f7754da2f68eefa3bd1d25cd2541"
+  }
+ },
+ "actual_original_source_book": {
+  "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+  "bytes": 19966,
+  "sha256": "abbe26b4b769ef19c3ba9ed89749ddad696d81719c01dabaec3ed3318e701c9a",
+  "git_blob_oid_of_actual_bytes": "23ac1e5a68dca8245e0ae8cd8e977668ad266daa"
+ },
+ "actual_source4_scope": "OWN_SUMIRE4_WHOLE_MAINTAINED950_AND_NEW_TARGET_JUDGMENT;ORIGINAL_COMMON105_REPORT_SCOPES_ATTRIBUTED_NOT_FRESH_NORMAL_PRIMARY_NATIVE_RAW_AV",
+ "dated_body_only_QA": {
+  "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+  "bytes": 149536,
+  "sha256": "0430d580ed8247939ea6562788d9c05791b3f15d6148bdd88e49c0c4e3dcfeff",
+  "git_blob_oid_of_actual_bytes": "0685dd2273d8d54d4d4bd40ba16e660de02a01c3"
+ },
+ "dated_body_only_ROOT_adoption": {
+  "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+  "bytes": 111474,
+  "sha256": "e4f0a604202e1115766279502939fdcf1189eefac791294f6c7e9833b3888bdf",
+  "git_blob_oid_of_actual_bytes": "862c125714773d63d8c0bb41caf2f6953d21b0c8"
+ },
+ "accepted_new105_readiness": {
+  "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+  "bytes": 5202,
+  "sha256": "b4b8c4d66bafb2da471e8cf9eaf1a57ed990b2cdc06c56dfc7beb27e494a0382",
+  "git_blob_oid_of_actual_bytes": "c57cb02664c2b0754948870098886411f1ae3136"
+ },
+ "actual_author_feedback_before_values": {
+  "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+  "bytes": 18137,
+  "sha256": "411a52e3546bb93f2edc5e638bffea61b9e169ab3fd3affafe41a96c489832d6",
+  "git_blob_oid_of_actual_bytes": "2051422db2568b74390c840164559a2dca95eb88"
+ },
+ "current_common_actor_mode_contract_qualifications": {
+  "all_records": "Current Sumire target fields are new; frozen common and former target payloads remain historical literal records. No source actor/choice/voice, school, chronology or attendance transfers through a comparative join.",
+  "O023": "Sumire grants Rei’s requested break and shares spectating. Rei values stadium food and offers to treat Sumire; Sumire permits one hot dog. No purchase or meal consumed by Sumire is shown. Original G330/footer and prepared correction retain their dated publication roles.",
+  "O024": "Current Kisaki/Kokona source qualification governs; do not substitute the earlier Shun/Kokona actor shorthand.",
+  "O025": "Current Meg/Kasumi/Hina actual chosen work, remembered bathing and particular gift directions govern; no old verdict or reciprocal gift completion is imported.",
+  "O083": "The finer defeated-party claim at reduced L126 remains DEFERRED. Do not reverse the broader finite outcome or promote the fine question.",
+  "O087": "Rio actually agrees to stay one week and unpacks after the no-force clause; an entire fulfilled week, completed legal or technical accountability, cure or permanent return is not established.",
+  "O088": "Juri’s chosen service is around Fuuka’s wanted day off; do not move recipient, intention, completed rest or clinical endpoints between them.",
+  "O094": "Teacher requests READING access to Miyo’s wanted romance novels and she refuses that request. Retained writing-refusal shorthand is dated; no authorship, owned-manuscript sharing refusal or stronger absence is asserted.",
+  "O096": "Food is supplied before later bill/printing bargaining; the 9:1 proposal is rejected, an actual contract follows, and its final ratio/full terms are unprinted. Future collection is incomplete. No intentional withholding, clinical starvation or final 9:1 contract is established.",
+  "O098": "Himari inwardly aims to buy time; Eimi’s hardware report and Rio’s cracking are separate acts. No achieved time window or final victory follows from that intention.",
+  "O103": "Anna admits fuel use from renewed public-failure fear; Elina admits importing her own response to provocation. Keep those motivations distinct.",
+  "O104": "Sora’s wage motive is not payroll proof; MINI producer30primary+2reuse remains attribution, not this author’s fresh all46 or normal105 receiving."
+ },
+ "immutable_batch_records": [
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 13519,
+   "sha256": "2852e52f98fed3a67dd00e5161ae853d786319adad215fe10d01f1e38dc42f58",
+   "git_blob_oid_of_actual_bytes": "0eacf7f332c59199e7b3db38d7fbe5923c76e186"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 15021,
+   "sha256": "cc3cf7b23b8a7d08d88d94d7ddab4906e319ddf438c9073ce5925863f3fa5051",
+   "git_blob_oid_of_actual_bytes": "4a51ad428e4404cf2bde77449ed272319dde7086"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 15599,
+   "sha256": "c3d95de0d5bf9507260e47b5fcb24275b5dd99c5bc609c267720e9c435f991dc",
+   "git_blob_oid_of_actual_bytes": "482c1097adc57c0f0733225d871befd1de15b72c"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 12482,
+   "sha256": "855f6d6bb350bfd7e18750da2a053c25ac02edd5fb14e78fd8bce82baed80dfb",
+   "git_blob_oid_of_actual_bytes": "17d7b510282fca7e29b2c188540a7c1b22d46396"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 12656,
+   "sha256": "52be894b53380f53c19b841b9c789085929e79cda94ab6551eff567c9baa8cb2",
+   "git_blob_oid_of_actual_bytes": "4dc74a3a666851bedcd18ce720ccfd4e1be0c96b"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 14731,
+   "sha256": "43cd3097c58840c4450bdd1107617e98aae40a0b3c5331c821e51bbd81bf867a",
+   "git_blob_oid_of_actual_bytes": "94fc94c900934e06c5cdd6e099262f08d377e21b"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 15274,
+   "sha256": "1b0dd65fd15a626b8288f90675ba1165b36f6c21fb4692c68b3fb94a69bc50ca",
+   "git_blob_oid_of_actual_bytes": "7f0a3a432e97294bb368e2806e70e15ae28eeb91"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 15696,
+   "sha256": "feea159ea9f62dc8d00dc0c8b331f631d028abee3e2f947b2270b2062d300d13",
+   "git_blob_oid_of_actual_bytes": "79fac14b51a8fd4776dc6400f163b1cb1c2ba66b"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 15492,
+   "sha256": "83dd2ead77d6678e170170b56ac2e4eae5d780a3fd7d2a5f70ff3f2e943a76c7",
+   "git_blob_oid_of_actual_bytes": "a531a5451d031201efa1786a4be5e2c000163eba"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 17577,
+   "sha256": "24fdedbcf1d01d713971945ca464494d8f8dbb3baebb4bfec44afde3acc3c7a6",
+   "git_blob_oid_of_actual_bytes": "71bf8a8f413aeb74d5621df42c4838ae3127f540"
+  },
+  {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 20380,
+   "sha256": "d9c902ce88209f559caea81fc87ac4f610849df17ddd19d2ee8ee4236f423f2f",
+   "git_blob_oid_of_actual_bytes": "bb765ff1720799b6e386ae9a68cbc7a737f62d4c"
+  }
+ ],
+ "target_metadata_edge_qualification": "O104 P003 source-provenance edge added at author assembly from its exact authored counter; no new target field, body or source meaning was introduced.",
+ "current_geometry": {
+  "body_lines": 145,
+  "literal_paragraphs": 52,
+  "new_purposes": 105,
+  "new_fields": 525,
+  "reciprocal_body_purpose_edges": 505
+ },
+ "existing_scope": {
+  "required_home_zero": 56,
+  "onebased_home": 57,
+  "CSV_row": 58,
+  "required_id": "P3-CHAR-SUMIRE",
+  "source_family": "P3-F138",
+  "person_key": "BA_PERSON_SUMIRE",
+  "variants": [
+   "10012",
+   "20044"
+  ],
+  "costume": "1900936201",
+  "named_duty": null,
+  "extra_REL": "NOT_COMPLETED"
+ },
+ "all14_original_gaps": "OPEN",
+ "models": 0,
+ "preparation_time_future_gates": "These are author-prepared C bytes. Distinct component QA, ROOT private8 adoption, any public composition/byte QA/adoption, installation, source admission, count, runtime, push and merge are separate. No future event is represented as executed.",
+ "selfpin_rule": "Current first7 only; this transport is pinned externally by the final author manifest, never by itself.",
+ "current_V2_finite_author_successor_qualification_20261103": {
+  "author": "/root/current_preflight_requirements",
+  "role": "Finite repair author, not original525 author, independent reviewer or ROOT adopter",
+  "current_source_use_qualification": {
+   "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_CHARACTER_RECEIVING_20261103_V1/SUMIRE_SOURCE4_COMPLETE12_ANSWERS_NEW105_QUESTIONS_GRADES_AND_CURRENT_COMMON_QUALIFICATIONS_V1.json",
+   "bytes": 46774,
+   "sha256": "866aab751189cf94cdb6fdf5bb144b74ed5ab681e14a75dffdf3e342037fce94",
+   "git_blob_oid_of_actual_bytes": "ec4cd8587461187d5efee2f4921364b38fc4b796",
+   "pointer": "/current_common_actor_mode_contract_qualifications/SS04_KEI_CORR_20261016_03_L255"
+  },
+  "menu_delta": "Only SMP013 positive field and its actualcurrent indexmirror change useful menu to completed personalised menu; other524values/body145/52/map/sourceaccount4bytes unchanged",
+  "original_review": {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 48888,
+   "sha256": "614aa9d046196e79f1920c8e3176321684a2adb3160762ae4d931a7f8a7961fd",
+   "git_blob_oid_of_actual_bytes": "c280df741ee979e11e17e522ec187026d03aa15d"
+  },
+  "original_review_disposition": "COMPLETE_WITH_FINDINGS retained whole; this author does not change it to PASS",
+  "history": "Old8,raw14,raw20,author closure and all prior review decisions remain frozen. Current binding successors supersede only declared live edges; raw-inverse recipes preserve the complete beforeimages.",
+  "next": "Original distinctreviewer finiteQA, then ROOT actual receiving/adoption; no public12/count/install/publication/runtime/merge credit"
+ },
+ "current_V3_SMP015_finite_author_successor_qualification_20261103": {
+  "author": "/root/recover_yuzu_saved_review",
+  "role": "Different finite author of one endpoint and actual mirror; not original525 author, distinct QA or ROOT adopter",
+  "date": "2026-11-03",
+  "exact_field": "/records/15/own_new_Sumire_finite_endpoint_and_body_role",
+  "actual_mirror": "/all105_complete_current_records/15/all_five_complete_current_target_values/own_new_Sumire_finite_endpoint_and_body_role",
+  "before": "Yuzu wins locally and receives apology while publicity preference and future manners remain unsettled. Compare that with Sumire’s bounded agreements and repeated pupil objections, without claiming Sumire attended G250.",
+  "after": "Yuzu wins locally and obtains an apology to Momoi while publicity preference and future manners remain unsettled. Compare that with Sumire’s bounded agreements and repeated pupil objections, without claiming Sumire attended G250.",
+  "source": {
+   "C_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2501_2502_DEEP_READING.md",
+   "bytes": 22203,
+   "sha256": "11d758d98de1a967cd93e86a789a778e9dc04bfab520be0d558d127da6b7ad37",
+   "git_blob_oid_of_actual_bytes": "94c2927af342ed823a661f79999c6f6268edb95a",
+   "physical_intervals_inclusive": [
+    [
+     89,
+     96
+    ],
+    [
+     121,
+     127
+    ]
+   ],
+   "own_grade": "SELECTED_MAINTAINED_ANALYTICAL_15_PHYSICAL_LINES_NOT_WHOLE144_OR_NEW_PRIMARY"
+  },
+  "reason": "Yuzu obtains the spoken apology; Momoi is its named recipient. This changes no standing publicity preference or future manners outcome, and transfers no G250 attendance to Sumire.",
+  "prior_V2_menu_and_Kei03_qualification": "Preserved whole with dates; no reopening or removal of their current qualified use.",
+  "ROOT_V2_receiving_with_finding": {
+   "C_path": "[PRIVATE_DELIVERY_LOCATION_WITHHELD;FULL_ORIGINAL_IN_C_ONLY_RAW_INVERSE]",
+   "bytes": 189802,
+   "sha256": "9e433f613045db06ea56bcb6182fadf7fcf337a5cd4aae2832755e84ad409e4f",
+   "git_blob_oid_of_actual_bytes": "bac4990400ed80d060c00a2b4a88ea8e45675fed"
+  },
+  "ROOT_hold_clearance_attributed_message": "ROOT reported complete105/525 personal receiving and no other supported material finding; expressly permitted finalfreeze after exact field/mirror/currentgraph/rawhistory checks. This is not ROOT acceptance of V3.",
+  "all_other524_target_values": "LITERAL_NOOP",
+  "body145_literal52": "EXACT_RAW_NOOP",
+  "source4_accounts_and_12_answers": "EXACT_CURRENT_COMPONENT_NOOP",
+  "preservation": "Whole prior V2 packet, original full-review18/WITH_FINDINGS, finiteV2QA and ROOT V2 WITH_FINDING remain dated; no retroactive rebind of their bytes.",
+  "remaining": "DISTINCT_FINITE_V3_QA_AND_ROOT_PRIVATE8_ADOPTION_PENDING;NO_R_INSTALLATION_PUBLICATION_COUNT_MODEL_OR_MERGE_CREDIT"
+ },
+ "current_public_metadata_preparation_qualification_20261103": {
+  "metadata_prepared": "2026-11-03",
+  "composer": "/root/recover_yuzu_saved_review",
+  "role": "Public metadata composition of actual ROOT-adopted privateV3; distinct publicbyteQA and ROOT publicadoption pending",
+  "original_authors_and_reviewers": "Original body/new525 author and full236 reviewer remain attributed inside complete retained reports; finiteV2/V3 reviewers, finite author and ROOT have separate courses. Composer adds no literary or source reading credit.",
+  "current_semantic_limits": "All52 literary paragraphs and525 target values exact; SMP013 completed personalised menu, SMP015 obtained apology to Momoi and unchanged SS04Kei03 source-use qualification remain operative. Canonical Kei record50345 remains distinct from C-only55781 route proposal; no global installation implied.",
+  "dated_status_rule": "Original NOT_STARTED/body-only/source/pending/withfindings fields retain dated creation scopes. Actual ROOT19100 accepts private8 only. Current public interpretation and header authority are supplied separately without rewriting old judgments.",
+  "source_grade": "Original author/fullreviewer maintained4WHOLE950 attributed; finite composer own selectedG25015 from its earlier assigned task is not a new composition source course. No primary/native/raw/AV/normal105/source admission.",
+  "identity": "Existing P3-CHAR-SUMIRE/home56/F138/BA_PERSON_SUMIRE variants10012/20044 costume1900936201; no alias/identity/named/extraREL completion.",
+  "gaps_models_count": "All14 original gaps OPEN; model0 and published152/355 named19/29 remain unchanged. No install/runtime/publication/merge credit."
+ },
+ "current_composition_raw14_recovery_data": [
+  {
+   "private_composition_data_id": "SUMIRE_PUBLIC12_ORIGINAL14_00",
+   "bytes": 17499,
+   "sha256": "dec20f564e15f405d9ebb22a4653caf3dd2cc8522441ad619a6b7ab06a6ec136",
+   "git_blob_oid_of_actual_bytes": "7773a0d7abb7a6a351bf537f940066abcaf54a40"
+  },
+  {
+   "private_composition_data_id": "SUMIRE_PUBLIC12_ORIGINAL14_01",
+   "bytes": 17519,
+   "sha256": "edc1401db18610f65c86dd3ded1d5dc6c94a026f2648241139f3a0d0dac958f5",
+   "git_blob_oid_of_actual_bytes": "363cbadd7159e819da825b969253947a1c9d0eda"
+  },
+  {
+   "private_composition_data_id": "SUMIRE_PUBLIC12_ORIGINAL14_02",
+   "bytes": 17519,
+   "sha256": "25f3ece076e5ea77457ca8e1eb516e67fcb4d8356b297ea7cd869bd6cf0408ec",
+   "git_blob_oid_of_actual_bytes": "f885b1005932ff09f9cc9bcad792fb9fe3d8944f"
+  },
+  {
+   "private_composition_data_id": "SUMIRE_PUBLIC12_ORIGINAL14_03",
+   "bytes": 17607,
+   "sha256": "3ad3e4fa8e32b856d998b6eac653c4ecdbc99aa5cfc63e138e18809e9a24f903",
+   "git_blob_oid_of_actual_bytes": "3911677c5fc46cf45385546ae6df11d872c66953"
+  },
+  {
+   "private_composition_data_id": "SUMIRE_PUBLIC12_ORIGINAL14_04",
+   "bytes": 17747,
+   "sha256": "94a4c4398009742f8920676a78590fe296dfbac278ef3b047a669f0720c9c256",
+   "git_blob_oid_of_actual_bytes": "c734d853f911dfb2131c3c392f19e03bdf74907f"
+  },
+  {
+   "private_composition_data_id": "SUMIRE_PUBLIC12_ORIGINAL14_05",
+   "bytes": 17759,
+   "sha256": "b2dea875ed461c69385816f0ea8b82d6a2d9fa31c3baa0d9884551d12edf07c4",
+   "git_blob_oid_of_actual_bytes": "98d2341617a04bdf339787c80a3f43dc0f37f9e8"
+  },
+  {
+   "private_composition_data_id": "SUMIRE_PUBLIC12_ORIGINAL14_06",
+   "bytes": 17764,
+   "sha256": "7e915a05a1e41b51f4c5421a473d25b6b705730ab89a4c38f2dd67f0f8e475c8",
+   "git_blob_oid_of_actual_bytes": "d5b7a556333eb35082b73c5f1aa1cb3a59c6e6d8"
+  },
+  {
+   "private_composition_data_id": "SUMIRE_PUBLIC12_ORIGINAL14_07",
+   "bytes": 17746,
+   "sha256": "a05fc2b507a0b27f75770592fe092c5fc377646c4d7754dc2eb04f1fda7c8fb6",
+   "git_blob_oid_of_actual_bytes": "d0ac63f45c3b3721d34a5c2e558d50242a97da24"
+  },
+  {
+   "private_composition_data_id": "SUMIRE_PUBLIC12_ORIGINAL14_08",
+   "bytes": 17762,
+   "sha256": "0e1577babdb264f3e1077a5f5dc6566bf9182861b6c5472f1558042ee33d2ad2",
+   "git_blob_oid_of_actual_bytes": "23e7873e4e5c27c4e55a7d9fd0882b8442a2286b"
+  },
+  {
+   "private_composition_data_id": "SUMIRE_PUBLIC12_ORIGINAL14_09",
+   "bytes": 17764,
+   "sha256": "fb740d7d40a969d909e4ff4aa4427cd82e8a33cd6c4e9e37e12ca9c904194d05",
+   "git_blob_oid_of_actual_bytes": "1226687dad6e06af60ea939b498c7e16987a1b37"
+  },
+  {
+   "private_composition_data_id": "SUMIRE_PUBLIC12_ORIGINAL14_10",
+   "bytes": 11003,
+   "sha256": "536cb92fd0534697191d8b45e547e98122044e566e1a3f3c5c33593f3b328c19",
+   "git_blob_oid_of_actual_bytes": "41042dc8759123c1de14b39437f1f75ac079df5b"
+  },
+  {
+   "private_composition_data_id": "SUMIRE_PUBLIC12_ORIGINAL14_11",
+   "bytes": 262143,
+   "sha256": "b7dcafe6735d2afb1f7fecb077c325e75a23e2c6a75a6de200904807d47c3e17",
+   "git_blob_oid_of_actual_bytes": "d580daf46b8b20f5deb9b398f719976c027686d1"
+  },
+  {
+   "private_composition_data_id": "SUMIRE_PUBLIC12_ORIGINAL14_12",
+   "bytes": 266620,
+   "sha256": "7f0e7fc370f0f81de3f6cd2f2172498832448a1a6c77f035d92dae5e03e8e5fd",
+   "git_blob_oid_of_actual_bytes": "7aa6c886c85787a23b75fd7a6cf2264878c69582"
+  },
+  {
+   "private_composition_data_id": "SUMIRE_PUBLIC12_ORIGINAL14_13",
+   "bytes": 266164,
+   "sha256": "609b242fc93a10405018ec6bb6a99d5e7d996c8be1cf9a5ff8c4d950c86b900a",
+   "git_blob_oid_of_actual_bytes": "41d3a4015826ad8d81c78e48b97cfbec86af1d0d"
+  }
+ ],
+ "current_original_raw_recovery_rule": "The earlier14 tuples are dated privateV3 proofs. Current measured public315 selectors recover complete private8 first through exact inverse data, then regenerate original14 bytes; full20 originals remain exact in C custody. No new source credit."
+}

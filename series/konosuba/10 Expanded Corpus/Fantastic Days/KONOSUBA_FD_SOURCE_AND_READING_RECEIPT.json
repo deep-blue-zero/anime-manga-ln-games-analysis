@@ -1,0 +1,104 @@
+{
+  "schema": "KONOSUBA_FD_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+  "source_id": "FD",
+  "accepted_utc": "2026-10-18T22:53:49.333509+00:00",
+  "native_filename": "Konosuba - Spin-off - Fantastic Days.epub",
+  "native_bytes": 5358777,
+  "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+  "OPF_member": "item/standard.opf",
+  "OPF_sha256": "67de7ff19da5491fbb241b5899ead202382ddc09e9a2fc2bc5ec42a8d403d750",
+  "language": [
+    "ja"
+  ],
+  "colophon": "この素晴らしい世界に祝福を！ ファンタスティックデイズ. Electronic2022-03-01/ver001 and underlyingprintfirstedition2022-03-01;copyrightHirukuma/Mishima/Akatsuki2022andSumzap,with2019filmcommitteecreditasprovenance. 原作暁なつめ;著昼熊;illustration三嶋くろね;cooperationSumzap;design百足屋ユウコ＋松浦リョウスケ（ムシカゴグラフィクス）;KADOKAWA/青柳昌行.",
+  "admission_sha256": "7dde511db60e6f8db5d1b20a8dbe6acda7c9deb8a3384d5d3b2bba53475dafef",
+  "admission_utc": "2026-10-18T21:55:38.486618+00:00",
+  "preceding_full_gate_source": "e3289990f823c0fe9027d7c940b1456590361094",
+  "preceding_gate_sha256": "afebe8ac1dd0444050cd5c1d50d08f1ec446f4cad1168b9aa422905798756852",
+  "preceding_fresh_reload_sha256": "cb5879500329bb64d45bd829830fe46810729c01c6a62300f1a905a9432e0ec3",
+  "complete_uncoded_seal_sha256": "e5ba652026607222b569ff504ce7c5b62a8972ce7bbfa1afe91fff61ce725be5",
+  "complete_uncoded_seal_utc": "2026-10-18T22:35:15.015450+00:00",
+  "actual_reading": {
+    "all_textual_components": 25,
+    "all_native_P_slots": 3707,
+    "principal_P_slots": 3645,
+    "other_P_slots": 62,
+    "separate_bonus_narrative": false,
+    "bonus_P_slots": 0,
+    "nonfiction_P_slots": 62,
+    "individually_identified_bonus_narrative_groups": [],
+    "individually_identified_narrative_image_groups": [],
+    "individually_identified_embedded_narrative_groups": [
+      {
+        "id": "FD-LIA-QUOTED-PRIOR-LIFE-AND-AMNESIA-ACCOUNT",
+        "native_units": [
+          "FD-U017"
+        ],
+        "start_P": 68,
+        "end_P": 126,
+        "scope": "Quoted autobiographical account toK/Aq within continuousKfirst-person narration, notanindependentnarratorswitch."
+      }
+    ],
+    "individually_identified_image_only_nonfiction_prose_groups": [
+      {
+        "id": "FD-SEVEN-PROFILES",
+        "component_id": "FD-U003",
+        "image_id": "FD-IMG007",
+        "scope": "Completevisuallyreadprofiles;noextraenactedscene;コン次郎correctedbeforeseal."
+      },
+      {
+        "id": "FD-WRAPAROUND-CREATOR-BIOS-AND-SYNOPSIS",
+        "component_id": "FD-U021",
+        "image_id": "FD-IMG004",
+        "scope": "Fullflapbios/creatorroles/design/backsynopsisreadasnonfiction, notextrabonusfiction."
+      }
+    ],
+    "integral_image_only_prose_pages": 0,
+    "all_native_images_actually_viewed": 15,
+    "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+    "all_native_local_and_archive_text_image_hash_joins_reverified": 40,
+    "fresh_native_ZIP_CRC": "PASS",
+    "image_individual_scopes_control": true
+  },
+  "source_first_sealed_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 23449,
+      "sha256": "7dde511db60e6f8db5d1b20a8dbe6acda7c9deb8a3384d5d3b2bba53475dafef"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 150789,
+      "sha256": "2f874635c4d5f4944d67d508282ea6dcb485dc0b8dd308992c16e1a03c6f1c1a"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 184126,
+      "sha256": "280ac3f260f78a39e6b6d7b9286cecd3eeca9ae0a5bef7d2085a51afcf239f6a"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 12169,
+      "sha256": "61341f1b4985805f4759cc6522c7bdf14144c9bddd3fc3a9c7c101d82383d093"
+    },
+    {
+      "file": "UNCODED_IMAGE_SCOPE_CORRECTIONS.jsonl",
+      "bytes": 1063,
+      "sha256": "d2d66a759d78828e03c34b4ffadfabf8ea4f19caaeaf7e891902c5fffb3bc127"
+    }
+  ],
+  "formal_coverage": {
+    "full_responsibilities": 17,
+    "selected_premises_not_census": 92,
+    "native_verified_short_form_context_witnesses": 177,
+    "local_unchanged_question_assessments": 31,
+    "append_only_decisions_across_ten_ledgers": 27,
+    "current_precision_qualifications": 77
+  },
+  "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+  "no_independent_second_full_pass_native_human_audio_claim": true,
+  "source_first_originals_remain_exact": true,
+  "original_four_scores_and_14_future_fields_unchanged": true,
+  "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING",
+  "midread_precision_context": "All177originalshortformsexactnativejoins, individualcurrentwarrants; pre-sealprofiletranscriptioncorrectionpreservesoriginal. Actualrefusals, flawedwork, received/unreceivedcue, priorguard, resource/fees, nativeanomaliesandlaterqualifiedresultseachretainexplicitlimits."
+}

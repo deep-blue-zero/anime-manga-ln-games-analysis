@@ -4,13 +4,13 @@ artifact_id: RAG_UMI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V021; direct Umi evidence inspected through V021."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V033; direct Umi evidence inspected through V033."
 ---
 
 # Umi evidence ledger
@@ -27,8 +27,8 @@ surname: null
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V021
-last_direct_conduct_volume: V021
+inspected_through_volume: V033
+last_direct_conduct_volume: V033
 local_readiness: UNMODELED
 ~~~
 
@@ -50,6 +50,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-UMI-E008 | UMI-S003 | RAG-E-V021-002 through RAG-E-V021-005 | Guest allocation, producer introduction, and network recognition | Supplies Chizuru one guest invitation, introduces Kazuya as crowdfunding producer, praises the completed work, and posts their photograph. | Extends professional and social recognition to the previously external producer. | The acts may be collegial, strategic, personal, or mixed and do not guarantee later work. | none; model withheld |
 | RAG-UMI-E009 | UMI-S003 | RAG-E-V021-006 | Romantic-information probe and direct contact | Asks Kazuya how to interpret Chizuru's earlier phrase, agrees it probably implies liking, and exchanges LINE. | Uses Kazuya as an interpretation source while opening a reciprocal communication route. | Their interpretation is not Chizuru's settled answer, and friendship is not yet demonstrated. | none; model withheld |
 | RAG-UMI-E010 | UMI-S003 | RAG-E-V021-007 | Private follow-up request; withheld content | Asks Chizuru to speak privately after Kazuya raises the qualified phrase. | Creates a direct consequence to the prior romantic question. | The conversation is omitted, so no proposition, response, or outcome may be supplied. | none; formal limit only |
+| RAG-UMI-E011 | UMI-S004 | RAG-E-V032-012, RAG-E-V033-005, RAG-E-V033-006 | Cafe identity and family-altar visit | Identified as the pale-haired cafe companion, then comes to Sayuri's house, recognizes Kazuya, and offers incense at her altar. | Personal and acting-colleague access now intersects family bereavement. | The cafe's full conversation and his complete motive are not shown. | none; model withheld |
+| RAG-UMI-E012 | UMI-S004 | RAG-E-V033-007, RAG-E-V033-008 | Renewed romantic proposal | Tells Chizuru he likes her, mentions an earlier declaration, says an immediate answer is not required, and stops her attempted reply because he does not want to hear it yet. | Direct interest and his choice to postpone an answer replace the earlier inference-only gap. | Her intended reply is unknown; his delay does not establish a couple or a later result. | none; model withheld |
 
 ## State-change summary
 
@@ -57,20 +59,21 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - UMI-S002 — high-reach colleague and relational questioner: offers a play route, discloses a breakup, invites dinner, asks about Kazuya, and promotes the campaign.
 - POST-UMI — later consequence: Chizuru remembers her qualified answer, but no new Umi action or response is observed through V020.
 - UMI-S003 — producer-network linker and repeated relational questioner: hosts Chizuru's guest, publicly recognizes and contacts Kazuya, tests their reading of Chizuru's qualified phrase, and seeks a private follow-up whose content is withheld.
+- UMI-S004 — bereavement visitor and direct suitor: appears as the V032 cafe companion, offers incense for Sayuri, states his love to Chizuru, and chooses not to hear her answer yet.
 
 ## Written-speech and ordinary-conduct notes
 
 - Umi can combine professional access with direct personal questions and an invitation.
 - He follows the conversation with a useful public promotional act.
-- Acting-school relation, audience reach, recent breakup, two party or performance invitations, campaign promotion, and relationship probing remain the substantial domains shown.
+- Acting-school relation, audience reach, recent breakup, party or performance invitations, campaign promotion, Sayuri-altar respect, and explicit romantic pursuit are the substantial domains shown.
 
 ## Gaps and negative evidence
 
 - Surname, broader history, independent routine, creator or acting-work quality, family, friendships, and long-term motive remain unknown.
 - The evidence does not establish whether campaign support is collegial, romantic, strategic, or mixed.
-- V021 shows Umi seek Kazuya's interpretation and a private Chizuru follow-up, but the private exchange and any final response remain unobserved.
+- V021's private exchange remains omitted; V033 establishes a later renewed confession and Umi's postponement of an answer without reconstructing the omitted transcript.
 - Kazuya's initial surveillance and jealousy are evidence about Kazuya's appraisal, not Umi's conduct.
-- Repeated conduct remains concentrated in one acting-colleague and romantic-probe domain and is insufficient for a behavioral model.
+- His range has widened to family-bereavement contact, but independent ordinary routine and behavior after an unambiguous final answer remain insufficient for a behavioral model.
 
 ## Update rule
 

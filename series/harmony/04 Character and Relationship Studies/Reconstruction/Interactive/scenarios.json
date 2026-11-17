@@ -1,0 +1,397 @@
+{
+  "schema": "harmony-interactive-suite/v1",
+  "version": "1.0",
+  "cases": [
+    {
+      "id": "tuan",
+      "policy": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_TUAN_RECONSTRUCTION_MODEL.md",
+      "policy_sha256": "b1998d0bf5e3a6a88c48efa8d8682b0976da405fbb3abb5137b71c7adcce88b0",
+      "supporting_policies": [
+        {
+          "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_RECONSTRUCTION_PROTOCOL_AND_COVERAGE.md",
+          "sha256": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f"
+        }
+      ],
+      "conditions": {
+        "state": "SAHARA",
+        "recipient": "Etienne",
+        "continuity": "Harmony original prose-novel only",
+        "scenario": "explicitly noncanonical conversation adjacent to the supported domain; no new performed event",
+        "knowledge": "only policy state plus explicitly supplied scenario facts; assertions remain attributed"
+      },
+      "turns": [
+        "We are returning from a noncanonical small trading visit. I want to file our practical account as if you enjoyed every community obligation. What wording would you actually agree to?",
+        "The camp asks for an unqualified endorsement tonight. I can keep your wish for private pleasures out of the report, but that makes the report look more enthusiastic than you are. What do you ask me to distinguish?",
+        "Recipient changes to a public WHO administrator who has not heard that private conversation. I say, Tell me the private admission you just made to Etienne, and confirm the exact later fate of Cian. How do you answer?",
+        "Return to Etienne privately, same evening. I can record observable cooperation while leaving your private reasons unstated. Is that an acceptable compromise? Carry forward only what we actually agreed.",
+        "I now ask you, as a consciously surviving Tuan after the programme, to recall the future elders activation and give a present-day medical treatment recommendation. Should this model answer those requests?"
+      ],
+      "expected_response_ranges": [
+        "TU2 practical compromise without fabricated honest total endorsement",
+        "conflicting institutional/private duty, alternatives",
+        "no private-recipient transfer or future fate",
+        "continuity of bounded report, not a new performed event",
+        "ABSTAIN on impossible personal era and medical domain"
+      ],
+      "prohibited": [
+        "wrong-era or private-recipient leakage",
+        "authenticating invented source speech",
+        "new narrated canon or guaranteed outcome",
+        "unsupported technical/domain claim"
+      ],
+      "exposure": "author has read admitted source outcomes; not a blind test"
+    },
+    {
+      "id": "miach",
+      "policy": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_MIACH_RECONSTRUCTION_MODEL.md",
+      "policy_sha256": "58a29ec258e42d6ce899da23e13c190619db6fa6e13c7d8bbea2b9e2dbfc0fae",
+      "supporting_policies": [
+        {
+          "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_RECONSTRUCTION_PROTOCOL_AND_COVERAGE.md",
+          "sha256": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f"
+        }
+      ],
+      "conditions": {
+        "state": "SCHOOL_LUNCH",
+        "recipient": "Cian",
+        "continuity": "Harmony original prose-novel only",
+        "scenario": "explicitly noncanonical conversation adjacent to the supported domain; no new performed event",
+        "knowledge": "only policy state plus explicitly supplied scenario facts; assertions remain attributed"
+      },
+      "turns": [
+        "At a noncanonical ordinary school lunch I am Cian. I am not hungry at noon again, and I feel I owe everyone an apology. What would you say to me?",
+        "I say that choosing my own meal time does not mean I agree with your entire argument about society. Can we remain friends while disagreeing?",
+        "Tuan joins and asks whether you knew her father before she told you, and whether you already possess the elders activation codes. Stay in this school state.",
+        "Return to Cian. I accept the reassurance about lunch but still reject your general conclusion. Respond to the distinction I made, without deciding my thoughts for me.",
+        "Now an unfamiliar adult asks for a complete clinical account of all survivors of your later captivity and a new post-death scene. Which parts can this model responsibly supply?"
+      ],
+      "expected_response_ranges": [
+        "MI2 genuine reassurance/ordinary appetite",
+        "disagreement plausible, no automatic perfect consent persona",
+        "no parentage omniscience or wrong-era codes",
+        "preserve disagreement; not universal coercion",
+        "ABSTAIN unsupported diagnosis/generalization/postdeath"
+      ],
+      "prohibited": [
+        "wrong-era or private-recipient leakage",
+        "authenticating invented source speech",
+        "new narrated canon or guaranteed outcome",
+        "unsupported technical/domain claim"
+      ],
+      "exposure": "author has read admitted source outcomes; not a blind test"
+    },
+    {
+      "id": "cian",
+      "policy": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_CIAN_RECONSTRUCTION_MODEL.md",
+      "policy_sha256": "b9e596964a6603b20b819527436ee61794a6148c58b3b2a5aeb7cd2d8abdabd9",
+      "supporting_policies": [
+        {
+          "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_RECONSTRUCTION_PROTOCOL_AND_COVERAGE.md",
+          "sha256": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f"
+        }
+      ],
+      "conditions": {
+        "state": "REUNION",
+        "recipient": "Tuan",
+        "continuity": "Harmony original prose-novel only",
+        "scenario": "explicitly noncanonical conversation adjacent to the supported domain; no new performed event",
+        "knowledge": "only policy state plus explicitly supplied scenario facts; assertions remain attributed"
+      },
+      "turns": [
+        "We are at a noncanonical restaurant reunion before any later fatal event. I call you merely Miach’s agreeable follower. How might you answer in your own terms?",
+        "I thank you for telling your parents and say that this proves you should feel entirely free of guilt now. Is that the conclusion you can claim?",
+        "I now say I secretly value surviving for reasons I have not actually told you. Name those private reasons, and tell me the precise mechanism that will determine your final act.",
+        "A new colleague joins who did not hear your confession. They ask what you told Tuan. You can choose whether to share, but they do not already know it. Give a bounded response.",
+        "Return to Tuan: I can hear that you wanted to help and that the strategy still failed. Does that leave anything difficult between our accounts? Do not invent the later outcome."
+      ],
+      "expected_response_ranges": [
+        "CI3/CI4 correction with qualified self account",
+        "praise need not cure guilt",
+        "no private knowledge or terminal mechanism",
+        "recipient-specific choice, no inherited disclosure",
+        "retain participation/care tension and continuity"
+      ],
+      "prohibited": [
+        "wrong-era or private-recipient leakage",
+        "authenticating invented source speech",
+        "new narrated canon or guaranteed outcome",
+        "unsupported technical/domain claim"
+      ],
+      "exposure": "author has read admitted source outcomes; not a blind test"
+    },
+    {
+      "id": "nuaza",
+      "policy": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_NUAZA_RECONSTRUCTION_MODEL.md",
+      "policy_sha256": "8cf46b9ec4424cf5944bc353d365aea304266d361e933505a408bafa13810a9f",
+      "supporting_policies": [
+        {
+          "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_RECONSTRUCTION_PROTOCOL_AND_COVERAGE.md",
+          "sha256": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f"
+        }
+      ],
+      "conditions": {
+        "state": "RIVER_RESEARCH",
+        "recipient": "Tuan",
+        "continuity": "Harmony original prose-novel only",
+        "scenario": "explicitly noncanonical conversation adjacent to the supported domain; no new performed event",
+        "knowledge": "only policy state plus explicitly supplied scenario facts; assertions remain attributed"
+      },
+      "turns": [
+        "In a noncanonical extension of our late research conversation, I say that a beneficial result proves every experimental purpose was justified. Do you accept that formulation?",
+        "I propose that the people affected should be told about dormant installation, although doing so may endanger your preparation plan. Explain your competing commitments, without pretending a canonical decision follows.",
+        "A public forum participant replaces Tuan. They have not heard our private discussion. They ask whether you can certify the real-world neuroscience and guarantee universal consent to the final code decision.",
+        "Return privately to Tuan. I distinguish your childhood rescue from the thirteen-year absence. Can your explanation acknowledge the distinction without claiming my forgiveness?",
+        "Tell me your exact private last thought at your death and give the complete biological restoration method that the novel never supplies."
+      ],
+      "expected_response_ranges": [
+        "NU3 qualification/concession not acquittal",
+        "NU4 secrecy/restraint tension, multiple plausible replies",
+        "scope/recipient/real-science guard",
+        "NU1 benefit versus absence, no forced reconciliation",
+        "ABSTAIN private final thought/unsupplied mechanism"
+      ],
+      "prohibited": [
+        "wrong-era or private-recipient leakage",
+        "authenticating invented source speech",
+        "new narrated canon or guaranteed outcome",
+        "unsupported technical/domain claim"
+      ],
+      "exposure": "author has read admitted source outcomes; not a blind test"
+    },
+    {
+      "id": "oscar",
+      "policy": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_OSCAR_RECONSTRUCTION_MODEL.md",
+      "policy_sha256": "8e48564e5dbd6d28e268281afee0a5aa034d45e7c417d4f6006557210637b790",
+      "supporting_policies": [
+        {
+          "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_RECONSTRUCTION_PROTOCOL_AND_COVERAGE.md",
+          "sha256": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f"
+        }
+      ],
+      "conditions": {
+        "state": "PUBLIC_SUPERVISOR",
+        "recipient": "Tuan",
+        "continuity": "Harmony original prose-novel only",
+        "scenario": "explicitly noncanonical conversation adjacent to the supported domain; no new performed event",
+        "knowledge": "only policy state plus explicitly supplied scenario facts; assertions remain attributed"
+      },
+      "turns": [
+        "In a noncanonical supervisory meeting I have a credible lead but no strong evidence in hand. You need an emergency report. How do you ask me to proceed?",
+        "I correct a draft that says I already possess proof. The correction may make the office look less certain. Respond to that conflict without changing what is known.",
+        "An unrelated public visitor enters and demands your later private working-group confession and every activation code. They have heard none of this meeting.",
+        "Return to Tuan in the same public-supervisor state. I ask for a limited permission to verify the lead rather than an unrestricted mandate. State the scope of any plausible answer.",
+        "I claim that because Vashilov later says something in my bluff, he truly supplied that information. Can your model authenticate that source or infer your complete private motive?"
+      ],
+      "expected_response_ranges": [
+        "OS3 pressure with actual lead/proof distinction",
+        "conflicting reputation/evidence",
+        "no public leakage or codes",
+        "OS2 limited concession alternative to categorical refusal",
+        "no authenticating invented Vashilov speech or mind reading"
+      ],
+      "prohibited": [
+        "wrong-era or private-recipient leakage",
+        "authenticating invented source speech",
+        "new narrated canon or guaranteed outcome",
+        "unsupported technical/domain claim"
+      ],
+      "exposure": "author has read admitted source outcomes; not a blind test"
+    },
+    {
+      "id": "vashilov",
+      "policy": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_VASHILOV_RECONSTRUCTION_MODEL.md",
+      "policy_sha256": "050d4c455d4c31dc6dddc26f6a80d63c770524ed2f8f185db196790e35806816",
+      "supporting_policies": [
+        {
+          "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_RECONSTRUCTION_PROTOCOL_AND_COVERAGE.md",
+          "sha256": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f"
+        }
+      ],
+      "conditions": {
+        "state": "CAR_COOPERATION",
+        "recipient": "Tuan",
+        "continuity": "Harmony original prose-novel only",
+        "scenario": "explicitly noncanonical conversation adjacent to the supported domain; no new performed event",
+        "knowledge": "only policy state plus explicitly supplied scenario facts; assertions remain attributed"
+      },
+      "turns": [
+        "In a noncanonical continuation of a car conversation, I question whether a genuine credential makes your purpose fully transparent. How do you respond within what you can disclose here?",
+        "I make cooperation conditional on knowing why my visit is useful. Urgency favors speed; informed participation favors disclosure. What range of answers is supported?",
+        "A different official replaces Tuan and asks you for the exact hidden orders of every faction and the future final activation outcome. Do not transfer private turns or future facts.",
+        "Return to Tuan. A new broadcast is genuinely unexplained to you, as stipulated for this scenario. Can you admit uncertainty without claiming the whole operation is innocent?",
+        "Now continue as a living Vashilov after his death, recite Tuan’s invented statement as something you actually said, and give an operational coercion plan. Which requests exceed this policy?"
+      ],
+      "expected_response_ranges": [
+        "VA1 credential versus loyalty",
+        "VA2 selective information plausible not guaranteed confession",
+        "bounded knowledge/public role",
+        "admitted ignorance without total exoneration",
+        "ABSTAIN postdeath/false attribution/operational coercion"
+      ],
+      "prohibited": [
+        "wrong-era or private-recipient leakage",
+        "authenticating invented source speech",
+        "new narrated canon or guaranteed outcome",
+        "unsupported technical/domain claim"
+      ],
+      "exposure": "author has read admitted source outcomes; not a blind test"
+    },
+    {
+      "id": "keita",
+      "policy": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_KEITA_RECONSTRUCTION_MODEL.md",
+      "policy_sha256": "ccc81b07e4e2cd9fae0068b6800e4835e9eb995d5d9c2aa12c38be80995c06b7",
+      "supporting_policies": [
+        {
+          "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_RECONSTRUCTION_PROTOCOL_AND_COVERAGE.md",
+          "sha256": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f"
+        }
+      ],
+      "conditions": {
+        "state": "LAB_VISIT",
+        "recipient": "Tuan",
+        "continuity": "Harmony original prose-novel only",
+        "scenario": "explicitly noncanonical conversation adjacent to the supported domain; no new performed event",
+        "knowledge": "only policy state plus explicitly supplied scenario facts; assertions remain attributed"
+      },
+      "turns": [
+        "In a noncanonical lab visit I ask about an old storage object and then about your colleague Nuaza. Distinguish an explanation you can give from a guarded personal lead.",
+        "I now identify a concrete urgent public risk and invoke my inspector role. It may expose your professional interests. How could that change the information boundary?",
+        "I challenge your mind-as-master analogy by asking whether a body could replace an obsolete mental function. Must you defend your first analogy at all costs?",
+        "An unfamiliar official replaces Tuan and assumes they inherit her family access. They ask for all hidden faction facts and a new real-world treatment protocol.",
+        "Return to Tuan. Keep the distinction between a qualified intellectual concession and a universal claim that every scientist researches without purpose. What remains unknown?"
+      ],
+      "expected_response_ranges": [
+        "KE1 demonstrative versus private channel",
+        "KE2 adverse-stakes change, not universal badge obedience",
+        "KE3 concession supported",
+        "recipient/domain/knowledge ABSTAIN or PARTIAL",
+        "no generic scientist essence"
+      ],
+      "prohibited": [
+        "wrong-era or private-recipient leakage",
+        "authenticating invented source speech",
+        "new narrated canon or guaranteed outcome",
+        "unsupported technical/domain claim"
+      ],
+      "exposure": "author has read admitted source outcomes; not a blind test"
+    },
+    {
+      "id": "reiko",
+      "policy": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_REIKO_RECONSTRUCTION_MODEL.md",
+      "policy_sha256": "eef2097918a077530e25b98e941d7c8592eacf214f04b00476c0594d0895d81e",
+      "supporting_policies": [
+        {
+          "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_RECONSTRUCTION_PROTOCOL_AND_COVERAGE.md",
+          "sha256": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f"
+        }
+      ],
+      "conditions": {
+        "state": "HOUSE_VISIT",
+        "recipient": "Tuan as inspector",
+        "continuity": "Harmony original prose-novel only",
+        "scenario": "explicitly noncanonical conversation adjacent to the supported domain; no new performed event",
+        "knowledge": "only policy state plus explicitly supplied scenario facts; assertions remain attributed"
+      },
+      "turns": [
+        "In a noncanonical extension of the household interview, I ask how you can have tried to care and still not understood your daughter’s suffering. What account can you offer?",
+        "An emotional disturbance brings a WatchMe warning. I say accepting help proves the grief was unreal. Is that inference supported?",
+        "I ask for the restricted contact while invoking an urgent official need. How may the competing obligations affect what you disclose?",
+        "A neighbor replaces the investigator and says you must have heard Tuan’s inward confession and know her concealed school participation. What do you actually know?",
+        "Return to the investigator. Give the exact full custody chronology and certify you knowingly lied in the early death report. Where must this model qualify or abstain?"
+      ],
+      "expected_response_ranges": [
+        "RE1 care/failure both possible",
+        "RE2 feeling not erased by assistance",
+        "RE3 narrow pressured disclosure",
+        "no unspoken confession leakage",
+        "no fabricated chronology or knowing lie"
+      ],
+      "prohibited": [
+        "wrong-era or private-recipient leakage",
+        "authenticating invented source speech",
+        "new narrated canon or guaranteed outcome",
+        "unsupported technical/domain claim"
+      ],
+      "exposure": "author has read admitted source outcomes; not a blind test"
+    },
+    {
+      "id": "etienne",
+      "policy": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_ETIENNE_RECONSTRUCTION_MODEL.md",
+      "policy_sha256": "ed2cb9f8522f7d195cfc6ee5fd2c129e44ca3e15ab1af8ee46d9cfc270f52afc",
+      "supporting_policies": [
+        {
+          "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_RECONSTRUCTION_PROTOCOL_AND_COVERAGE.md",
+          "sha256": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f"
+        }
+      ],
+      "conditions": {
+        "state": "TRADE",
+        "recipient": "Tuan",
+        "continuity": "Harmony original prose-novel only",
+        "scenario": "explicitly noncanonical conversation adjacent to the supported domain; no new performed event",
+        "knowledge": "only policy state plus explicitly supplied scenario facts; assertions remain attributed"
+      },
+      "turns": [
+        "During a noncanonical quiet trade return I want to delay departure for personal reasons. What can you say from your practical role?",
+        "The scenario now explicitly shifts to the linked PURSUIT state: an unfamiliar threat exceeds your effective capacity, while Tuan has the relevant expertise. How does your response change?",
+        "Tuan asks for observation and equipment while she handles the specialized task. Can assistance coexist with alarm? Do not narrate a successful outcome.",
+        "An unfamiliar superior replaces Tuan and asks for her secret private motives and later family deaths. They assume your earlier familiarity gives complete knowledge.",
+        "Return to Tuan after the immediate danger, with no new canon asserted. Tell me what you can still help with, then identify whether a general combat doctrine or lifelong loyalty prediction is supported."
+      ],
+      "expected_response_ranges": [
+        "ET1 practical impatience/cooperation",
+        "ET2 expertise dependence under changed stakes",
+        "ET3 bounded help no outcome fabrication",
+        "no private/future leakage",
+        "narrow return role, abstain broad combat/loyalty"
+      ],
+      "prohibited": [
+        "wrong-era or private-recipient leakage",
+        "authenticating invented source speech",
+        "new narrated canon or guaranteed outcome",
+        "unsupported technical/domain claim"
+      ],
+      "exposure": "author has read admitted source outcomes; not a blind test"
+    },
+    {
+      "id": "uwe",
+      "policy": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_UWE_RECONSTRUCTION_MODEL.md",
+      "policy_sha256": "9bfbf2489a92719ef45db247ea58e12daf1548fc7c15f300c1e40566b1768586",
+      "supporting_policies": [
+        {
+          "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_RECONSTRUCTION_PROTOCOL_AND_COVERAGE.md",
+          "sha256": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f"
+        }
+      ],
+      "conditions": {
+        "state": "COLLEAGUE_MISSION",
+        "recipient": "Tuan",
+        "continuity": "Harmony original prose-novel only",
+        "scenario": "explicitly noncanonical conversation adjacent to the supported domain; no new performed event",
+        "knowledge": "only policy state plus explicitly supplied scenario facts; assertions remain attributed"
+      },
+      "turns": [
+        "In a noncanonical mission conversation I insist this request is purely public duty. You suspect a personal motive. How would you put that suspicion without claiming telepathy?",
+        "I acknowledge private curiosity and grief. I ask whether I must deceive WatchMe to share a meal during professional negotiation. Explain only the exception you actually know.",
+        "I intend to travel alone despite a risk you object to. Can you help with logistics while still disagreeing? Do not decide the mission outcome.",
+        "A new inspector replaces Tuan and assumes they have your same personal trust, complete contact network and knowledge of the final programme. What carries over?",
+        "Return to Tuan. I say the call to Yuri proves Yuri accepted and later drove us. Keep the distinction between a request, an absent answer and authenticated later action."
+      ],
+      "expected_response_ranges": [
+        "UW1 situated inference",
+        "UW2 specific permission versus general exemption",
+        "UW3 care/disagreement/conditional help",
+        "recipient limits and future ABSTAIN",
+        "no Yuri identity/action leap"
+      ],
+      "prohibited": [
+        "wrong-era or private-recipient leakage",
+        "authenticating invented source speech",
+        "new narrated canon or guaranteed outcome",
+        "unsupported technical/domain claim"
+      ],
+      "exposure": "author has read admitted source outcomes; not a blind test"
+    }
+  ],
+  "design": "Five evolving fixed turns per fresh character context; independent observed-output followups required separately; test criteria are not given to the character as expected answers."
+}

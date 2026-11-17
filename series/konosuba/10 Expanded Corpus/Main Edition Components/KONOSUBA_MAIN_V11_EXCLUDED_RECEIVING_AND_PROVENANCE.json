@@ -1,0 +1,588 @@
+{
+  "schema": "KONOSUBA_MAIN_EXCLUDED_BOUNDED_SAME_ROOT_RECEIVING_V1",
+  "source_id": "MAIN-11",
+  "accepted_utc": "2026-10-19T16:06:43.392524+00:00",
+  "status": "ACCEPTED_AT_STATED_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "actual_source_scope": {
+    "schema": "KONOSUBA_MAIN_EXCLUDED_ACTUAL_NEW_READING_WITH_RETAINED_PRINCIPAL_RECEIPT_V1",
+    "source_id": "MAIN-11",
+    "accepted_utc": "2026-10-19T16:06:43.392524+00:00",
+    "native_filename": "Konosuba - Main Series - Volume 11.epub",
+    "native_bytes": 6177663,
+    "native_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+    "OPF_member": "item/standard.opf",
+    "OPF_sha256": "69d48ebec4d1989e6aaf34d304d7bd5d8c162f3223faad041adb67cf104ed64d",
+    "language": [
+      "ja"
+    ],
+    "colophon_and_bibliographic_difference": "Electronic issue2017-05-01; print-basis first issue2017-05-01; copyright2017. Edition statements agree. Bonus states several days after returning Iris amid castle celebrations, without a unique calendar day or an exact identity with the prologue's particular party.",
+    "admission_sha256": "50749a3fcd57bc2a0f1e97d6eebc6b4c537c613c3d02798a0caeceae207d08d2",
+    "preceding_full_gate_source": "64e350b3d074dc84decf180fc1a369b421de9c4e",
+    "preceding_fresh_reload_sha256": "50faadab00d33a110b7d45841ee9af77c0892f03f1e9e89f3dcb8bb516ef84f0",
+    "excluded_uncoded_seal_sha256": "62479e41acf4038815902ef62d512525d4fb51e2d44c7b949b917622f76e4e0d",
+    "excluded_uncoded_seal_utc": "2026-10-19T15:44:20.005551+00:00",
+    "actual_new_reading": {
+      "text_resources": 18,
+      "P_slots": 130,
+      "native_images": 28,
+      "ruby_and_nonparagraph_residual_received": true,
+      "bonus_P": 53,
+      "nonbonus_text_slots_P": 77,
+      "author_afterword_P": 30,
+      "other_wrapper_credit_slots_P": 47
+    },
+    "retained_principal_authority": {
+      "members": 7,
+      "P_slots": 2865,
+      "new_principal_reading_credit": 0,
+      "exact_native_and_prior_acceptance_control_joins": true
+    },
+    "fresh_native_CRC": "PASS",
+    "all_native_text_image_hashes_reverified": true,
+    "original_uncoded_pins": [
+      {
+        "file": "NATIVE_ADMISSION.json",
+        "bytes": 38092,
+        "sha256": "50749a3fcd57bc2a0f1e97d6eebc6b4c537c613c3d02798a0caeceae207d08d2"
+      },
+      {
+        "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+        "bytes": 184963,
+        "sha256": "27686de7c0f887287c21284bba385ec663c8feff5ea64d37b2704f9f3ed14c33"
+      },
+      {
+        "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+        "bytes": 19006,
+        "sha256": "0f7ba3e3d69328406a16e8570726ff5f4b551093770ae960b1c01c81a94b28b3"
+      },
+      {
+        "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+        "bytes": 22432,
+        "sha256": "d97019a12da60cf64c2898d41b4ebb68be86f7ee16d099772cac3aed20d850e1"
+      }
+    ],
+    "public_preparation_view_is_redacted": true,
+    "formal_counts": [
+      20,
+      27,
+      31,
+      12,
+      38
+    ],
+    "party_comparisons": 8,
+    "typed_constraints_not_behavioral_scores": 4,
+    "Iris_SI_C01_no_opportunity_comparisons": 7,
+    "Yunyun_SY_C01_no_opportunity_comparisons": 7,
+    "original_SI_SY_null_fields_preserved": 28,
+    "historical_Yunyun_cohort_gate_preserved": {
+      "actual_source_commit": "906a29b4c986de8035b2511ed19dbf3e7c3e0676",
+      "canonical_gate_sha256": "02bf090e2f30b8f01abb66a7fd4de5c4ce8a8ca219e7b4e25d703392a831af43",
+      "historical_gate_not_current_intervening_cohort": true
+    },
+    "preceding_main_component_gate": {
+      "source_id": "MAIN-10",
+      "actual_source_commit": "64e350b3d074dc84decf180fc1a369b421de9c4e",
+      "gate_sha256": "c8b3db043052e2f200a252afa305013ffc008b1d74b83fe9839bde793836c741",
+      "reload_sha256": "50faadab00d33a110b7d45841ee9af77c0892f03f1e9e89f3dcb8bb516ef84f0",
+      "schema": "KONOSUBA_MAIN10EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE_V1"
+    },
+    "historical_Iris_cohort_gate_preserved": {
+      "actual_source_commit": "bc9b67dc37212868b16e8b6eed1a39f07b258dd0",
+      "historical_gate_not_current_intervening_cohort": true
+    },
+    "continuing_informed_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD,YORI-01,YORI-02,YORI-03,YORI-04. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim. Separately completed main excluded-component programs: MAIN-01,MAIN-02,MAIN-03,MAIN-04,MAIN-05,MAIN-06,MAIN-07,MAIN-08,MAIN-09,MAIN-10. These include their actual new bonuses/paratext/images, with original principal authority retained and zero new principal-pass credit. No pristine blindness is claimed. Iris and Yunyun scoped Tier3 cohorts are published/fullgateclosed. Existing SI-C01/SY-C01 each carry seven optional rules/14 original nulls unchanged before this excluded exposure. Completed MAIN10 excluded new17resources127P/28images include60Pbonus/20Pafterword/47otherP;955bounded retained MAIN10P received with zero new principal credit. Complete accepted MASK report and2862 unique actual native base-textP additionally received acrossU011/U013/U015/U017/U019/U021/U023, seven complete base-text unit unions, no new whole MASK pass, images/ruby rereading credit or independent test. Working census10 has60 qualified audit rows, not a final population denominator.",
+    "no_new_blind_independent_audio_or_full_principal_reread_claim": true,
+    "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING"
+  },
+  "semantic_name_reference_review": "Same continuing informed root authored/received17reportsections,20selectedwholecomicpremises,27exactshortwrittenfragments,39unchangedprincipal-partycomparisons,4typeddiagnostics,14separateIris-YunyunNT,12ten-ledgerdecisions and38currentqualifications against18newresources130P/28nativeimages plus1119boundedretainedbase-textP. New53Pcastle-bonus distinguishes actual acquired Klipreading from Aqua's unprovedskill, mediatedprivatevoices and selfreportedpriorretaliation from directpublicwrongoutputs, dangerousdecodeddealings from externallegalproof, actualreportproposal/agreement from unperformednotification, vowbreach/irritation from other'sprivatemotives, courtcourtesy from explicitpriorrefusal, Japanese input/output/unfinishedparse from literalpreferences, actualstop from continuingreportedunwantedgifts.1narrowE03proposal support/5partial/1adjacent/32NT retainmissingconditions. Exact3Japaneseform-dependentmisreadingpairs arelocalL3, notperfecthomophones orwhole-seriespercentage. Retainedimage019guesscorrectedtoAq/K,20toFunifura-Dodonko,21toAqgift; genuineKmissingmemory/restoration, childagency/lettersecrets,Lunaleverage,LucyactualGodBlow/selfdeparture,Reginainferredfollowers,forestcreaturethreatbargain,Kactualreach-stop,unnamedsuccubigifts/childtalentinference,postquestchildpraise/Yreportedmessage/motherTeleport/farewellfoodwish remainseparate. NoWiz-catscene,alternateidentity,pregnancyconfirmation,unlimitedresources,completedreport,independentreview,blindscore,oldfieldorconfidenceupdate. Nativeoriginaluncodedbytes/all8models/both14nullsets andfrozencontrols exact.",
+  "narrow_retained_principal_native_backjoins": {
+    "schema": "KONOSUBA_MAIN11_ACCEPTED_PRINCIPAL_NATIVE_IMAGE_BACKJOINS_V1",
+    "recorded_utc": "2026-10-19T15:50:09.821440+00:00",
+    "source": "MAIN-11",
+    "native_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+    "windows": [
+      {
+        "component_id": "MAIN-11-U011",
+        "member": "item/xhtml/p-002.xhtml",
+        "member_sha256": "a7b676790b915ebc17f574f8f488608527e2a1ed931b77a2d9279b073ac2e374",
+        "actual_untruncated_windows_P": [
+          [
+            1,
+            38
+          ]
+        ]
+      },
+      {
+        "component_id": "MAIN-11-U012",
+        "member": "item/xhtml/p-003.xhtml",
+        "member_sha256": "402519269fae35532674fbb60f7fdb8b42df28e725a4b27c30639aafcfdd971f",
+        "actual_untruncated_windows_P": [
+          [
+            70,
+            140
+          ]
+        ]
+      },
+      {
+        "component_id": "MAIN-11-U013",
+        "member": "item/xhtml/p-004.xhtml",
+        "member_sha256": "3c906a437c23241ca003a012cedc1461282eb8a9e4c4bf5781231f02b4984760",
+        "actual_untruncated_windows_P": [
+          [
+            175,
+            225
+          ],
+          [
+            295,
+            420
+          ],
+          [
+            421,
+            534
+          ]
+        ]
+      },
+      {
+        "component_id": "MAIN-11-U014",
+        "member": "item/xhtml/p-005.xhtml",
+        "member_sha256": "6d37867cc78380b4980018711fc5e494540d6d2d774f85274b606108ae2b7c6d",
+        "actual_untruncated_windows_P": [
+          [
+            65,
+            105
+          ],
+          [
+            185,
+            275
+          ],
+          [
+            280,
+            365
+          ],
+          [
+            427,
+            450
+          ],
+          [
+            451,
+            549
+          ],
+          [
+            550,
+            579
+          ]
+        ]
+      },
+      {
+        "component_id": "MAIN-11-U015",
+        "member": "item/xhtml/p-006.xhtml",
+        "member_sha256": "ea07ae3ecd06688a9df16a05d8bc98ff53a644ab013cc30d79bb67a727f4da9b",
+        "actual_untruncated_windows_P": [
+          [
+            395,
+            440
+          ]
+        ]
+      },
+      {
+        "component_id": "MAIN-11-U016",
+        "member": "item/xhtml/p-007.xhtml",
+        "member_sha256": "6fc357c0d2a2e296781b478ab7edf4772d6abaa0db3e52da650136ca6b4bdeee",
+        "actual_untruncated_windows_P": [
+          [
+            1,
+            125
+          ],
+          [
+            325,
+            358
+          ]
+        ]
+      },
+      {
+        "component_id": "MAIN-11-U017",
+        "member": "item/xhtml/p-008.xhtml",
+        "member_sha256": "411be22a287cad0c8c0c0a1539b2115736cefdb3913fbcc172779045a3f76d25",
+        "actual_untruncated_windows_P": [
+          [
+            1,
+            143
+          ]
+        ]
+      }
+    ],
+    "actual_unique_retained_P_rechecked": 1119,
+    "new_principal_pass_credit": 0,
+    "new_excluded_event_or_independent_test_credit": 0,
+    "scope": "Actual bounded retained base-text native recheck; all original principal acceptance and uncoded seals stay exact. Not an additional whole-book/ruby/audio/independent reread.",
+    "current_precision_findings": [
+      "C1Irisdirectownappraisal: requestsothersstay74, titleembarrassment81, wantedfood94, independentprotectionreason104 andnegativeKbehaviorjudgment122/131/138. Kfuture-marriage/protectivepossessionfantasy111-113 is his projection; not Irisadultconsent or an observedfuture. RetainedimagesnotnewSIchoice.",
+      "C2IMG018VanirII: actualexpensivegoodsbargain197/accept198, distractionplan212/actualoffscreenfight298-333, radishsubstitute329; no newmanifestationlife loss from threateneddisappearance321. Mphysicalpull295, ownembrace336/347; KprivateactualreasonVanirdirection348, not assertedromanticselection; explicitMcontinuationrefusal364 distinctfromKreadingherexpression365-366.",
+      "C2IMG005colorcaptionsmapMreport357,Aqdeitydemandinraster, Dprotest374; actualhairpulling375 andDunwillingcombat388 persist. Aqclaims DalliedbutDdidnotassent; Dbystandercollateral393/399 notlegitimatefree resource. ActualKloses391-398 afteractualAqbuff395; basiccapacitynotgenericincompetence.",
+      "CURRENT CORRECTION to original uncoded IMG019 Wiz/cat guess: native rereview plus C2P391-405 places Aqua in pajamas restraining Kazuma; foreground darkshapeisKazumahead/hair, not Chomusuke. Wizisnotpresentinthisscene, onlymentioned197. Originaluncodedbytesretained; do not construct a Wiz/cat/DrainTouch witness from this mistaken identification.",
+      "C2Kmemory genuinelymissinguntilAqactualstrongHeal498/restoredmemory520; innocenceclaim404 reflectsmissinginfo, not then-provenknowinglie. Laterrestoration509-526knowledge/accountabilitychanges, dropsownhonorificterm511 anddeflectsintoquest530; actualapology534. Policeactualoccupancydetermination433/entry436 not universalreallawguidance. MaidplayactualAqdisclosespreexistinghotwater485, inkpurifies492; no needinferallfailedteas.",
+      "CURRENT ATTRIBUTION resolves IMG020 figures as Funifura/Dodonko: nativeC3P78-85 exactselfcorrectionsandpaired-treatmentcomplaint; Krecognition82, namedroles94/96. No Yunyun/Cecily stand-ins from appearance. TheyactuallybringKomekkounderownreportedescortpurpose95; directhomeexplosionreport104 notindependentlywitnessedattack/parentfate.",
+      "CURRENT ATTRIBUTION resolves IMG021 provider as Aqua: C3P233-235 actuallyoffers ownpudding, M/Djoin237, childactualthanks240/treasuredgift241. Cecilyabsentfromthishouseholdscene. Childpoverty/appetiteexplanation229/230doesnotgranttotalmotives ordiagnosis. Mpromisedbasin-sizedpudding238/301 notshownperformedhere.",
+      "C3childmisreadsno-eat-petslimit199, actualsourceBukkorori209forlearnedwords andmotherdiaryinstruction213reportedbychild, notverifiedfullhomeevents. Mownletterpurposeexplained281/294, choosesconfess294, supportersinterrupt314-321 afterhearingfavorableportrayals. ActualMwithdrawsfalse-impressionplan358, peerschooselatercooperation361-365, no unanimouspaidassent350-352.",
+      "IMG022Dhandholdschild331/asksownreputation332, Aqalsoleansforpraise338. Lunaactuallynamed441/usesicecream/listeningoffer431, childassents432 andsympathizes435; Lunaadvancesquest438/442 overadultalarm439, notchildvolunteersforcollectivecombat. Colorpromiseisfuturecommitmentnotperformedquest.",
+      "IMG023AqflashjoinsactualGodBlow559/560, not unshownnewpurificationspell. Lucyreportedhistory452-459 andownretaliatorycreed533/affect542; Mactualreassurance545/550 aboutreleasedRegina, newfollowersonlyinferred512/545. Lucyrelief553 andactualvoluntarydeparture572-579 differfromAqclaimsolepurification/kill. Aqinterruptsreconciliation565forlosing-statusconcern; faithrivalrynotuniversalpeaceaxiom530.",
+      "IMG024AnrakuPrincess self-identifieswholeforestbody404, owncareclaims401/407reported; actualKherbicidethreat/loophole412 andcreaturepressureoffer414-428underthreat. Kactualreach-start431thenstops, no completedtouch. Coercedbargainingnotunboundedsexualconsent; creaturevoice/careclaimnotinfallibleinnocenceproof.",
+      "IMG025namedonlyaslocalshop-succubi46/51, notautomaticallyLolisaorMASKleader. Foodgifts/childtalentinference55/57 differfromverifiedmagicalmindcontrol. Actualadultdeparture65-68fearsAq, retoldKpreviousanger62-63nativejoinsMASKknownsequence; no duplicateindependentcase.",
+      "IMG026isactualchildpraiseafterquest355, notfarewell. ChildowncontraryMappraisal97/103, seeksnewjob109/115/118, Moverridessimplefoodjob120. Actualgriffon+manticoreExplosion328-330/aftermath336, alreadyacceptedprincipal. Repeatedpraisechoosesadults anddrivesstatus/exposure withoutnewbonusmodeltrial.",
+      "EpYarrival23/transmittedvillageexpulsion27 reportedM, notdirectnewYchoice. Mstatesownrelationshipwish71 thenleavesnormally80; no completedsex/broaderpermission. Childdiaryunderstandsachievementincompletely94/96yetreportseavesdrop98; Yuiyuifertilitypressure110 not daughterassent. ActualYuiyuiTeleport116/117andchildfarewellfoodwish106; nextyounggirlMamacall141 isnotverifiedDmotherhood.",
+      "IMG007sistersbyfire/bookiscompleteactualviewbutnoexactuniqueprosebooksceneidentifiedinboundedwindows; decorativefantasyscriptnotdecoded ormade a new trial. IllustratorATOGAKIdrawing/epithetandNEXT12pregnancyteaserseparatefromcanonicalchoices. No new book/diagramdecoding/newskills/child manipulation effect is claimed."
+    ]
+  },
+  "additional_current_claim_revision_verified_before_append": null,
+  "original_uncoded_corrections_are_attributable_current_qualifications": true,
+  "component_role_detail_completion": {
+    "source_id": "MAIN-11",
+    "complete_at_initial_authoring": true,
+    "configuration_sha256": "c6b2c3f11747f5156c3babd6c6d89b680f93a9fda34fe3abe1bc0f9340f2e35e",
+    "configuration_input_sha256": "5a38216d32fd4a26a6cdbc03644da2a672f9c105c92ffab4378e28e1db50d73b",
+    "no_separate_prose_bonus": false
+  },
+  "current_qualifications": [
+    {
+      "id": "M11EX-Q01",
+      "topic": "Actual new scope",
+      "current_qualification": "18 previously excluded textual resources130P and all28 native images were actually received and uncoded-sealed before formal assignment. Bonus53P, author afterword30P, other47 structural/wrapper slots; navigation nonparagraph residual is separately received. Empty slots, paragraphs, illustrations and utterances are different denominators.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q02",
+      "topic": "Exact supplied edition",
+      "current_qualification": "Native6177663B/SHA256 ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46; OPF item/standard.opf SHA25669d48ebec4d1989e6aaf34d304d7bd5d8c162f3223faad041adb67cf104ed64d. Issue/printbasis both2017-05-01, copyright2017. Historical imprint contact/site is not live external validation.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q03",
+      "topic": "Retained principal scope",
+      "current_qualification": "Seven accepted principal bodies2865P remain exact with zero new principal-pass credit. Current1119 unique bounded native base-textP across allseven members support precision only; no second complete book/ruby/image/independent source pass is invented.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q04",
+      "topic": "Bonus chronology",
+      "current_qualification": "U0214-5 explicitly places the bonus days after Iris's return amid repeated castle banquets celebrating her dragon-slayer achievement. It belongs to this castle slice; no exact calendar day or identity with the prologue's particular party is imposed.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q05",
+      "topic": "Skill chronology and availability",
+      "current_qualification": "Kazuma already possesses lip-reading9, acquired at an unspecified time. Actual use does not date acquisition, grant earlier Kazuma this skill, prove perfect decoding, or establish that Aqua owns the same learned skill.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q06",
+      "topic": "Mediated private speech",
+      "current_qualification": "The food noble, conspirators, count and Darkness's court speech are accessed through Kazuma's first-person lip-reading/voicing. His text is not independent audio or direct access to others' private motives. Public Aqua outputs are a separate actual speech layer.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q07",
+      "topic": "Reported prior pressure",
+      "current_qualification": "13-14 are Kazuma's retrospective account of misread attraction, insult and pressure for a drink/roughly ten compliments. Retain the self-reported coercive excess without inventing a familiar play script, physical imprisonment, exact target wording or independent corroboration.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q08",
+      "topic": "Separate named and unnamed nobles",
+      "current_qualification": "The hungry older noble10, two political interlocutors20 and familiar countビフランツ35/38/49 are not one actor. The count's normalized spelling remains tentative; an exact native-name census lead is earned, not a full model or assumed identity with another noble. Later gift senders53 remain unnamed.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q09",
+      "topic": "Political information limits",
+      "current_qualification": "20 represents an admission of secret dealings with Elroad's compromised minister and intent to destroy evidence. It does not show the trade's complete contents, legal adjudication, executed evidence destruction, discovery by guards or a resolved new conspiracy.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q10",
+      "topic": "Proposal versus performed report",
+      "current_qualification": "Aqua24 proposes telling Iris, Darkness or officials; Kazuma25 agrees. No notification, recipient receipt/acceptance, evidence preservation, protection measure or political resolution is shown. Her initial disavowal24 is distancing speech rather than actual not hearing20.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q11",
+      "topic": "Narrow E03 branch",
+      "current_qualification": "The concrete report proposal is a dependency-directed communication after newly acquired dangerous information, so the narrow E03 action branch has local source-known support. Full reporting/recovery and safety remain unperformed. One post-seal comparison is not a new blind trial or multiple successes for successive turns.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q12",
+      "topic": "Restraint vow and changed attraction",
+      "current_qualification": "Kazuma vows not to use the dangerous skill28 but reuses it32 after an internally represented irritation at Darkness being courted31. Jealousy is a plausible interpretation; neither a definitive diagnosis nor Darkness's reciprocal romantic preference is supplied.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q13",
+      "topic": "Courtly reciprocity",
+      "current_qualification": "Darkness's formal compliment38 is represented court politeness toward a familiar count. It coexists with explicit family marriage refusal49. Courtesy, florid monster/flower metaphors and noble title do not establish desire, accepted engagement or unbounded humiliation consent.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q14",
+      "topic": "Prior refusal and addressee knowledge",
+      "current_qualification": "49 says the Dustiness family had already properly declined the proposal. The count's actual receipt of that refusal and precise prior response history are not shown. Reassertion is real in the represented exchange; a knowingly repeated violation with all E06 conditions is not automatically proven.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q15",
+      "topic": "Gendered imitation",
+      "current_qualification": "Kazuma35/38 voices the decoded court exchange; Aqua39 objects to the current feminine register and he40 admits embarrassment. This is a written pragmatic episode, not access to the original acoustic delivery, objective voice quality or a general gendered-personality law.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q16",
+      "topic": "Aqua's public attempt",
+      "current_qualification": "41 asks Kazuma to check after her whole attempt;43 supplies audience expectation from her tricks,44 his tentative hope. No learned lip-reading skill, independently fitted competence, correct full interpretation or formal practice protocol is established. Errors do not establish universal incompetence.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q17",
+      "topic": "Japanese form dependence",
+      "current_qualification": "45-50 supplies explicit input/output pairs: ところで/ところ天; ビフランツ伯/透けパンツ好き; きちんと/キッチンと. These are represented lip-reading substitutions/segmentation, not a claim of perfect homophony. The last output is unfinished. Local L3 effects cannot become a series-wide Japanese-dependence percentage.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q18",
+      "topic": "Audience and rumor chain",
+      "current_qualification": "43's expectation and48's recognition of the Dustiness name do not prove that all spectators understand the true refusal or assent to harmful gossip. The path from public error to later strange gifts is partly narrator-linked; exact relayers and senders are unshown.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q19",
+      "topic": "Actual stop with residual harm",
+      "current_qualification": "Kazuma directly stops Aqua51 for Darkness's reputation. Foregoing this moment of entertainment does not independently establish every meaningful-cost condition of K03. The later complaint53 prevents a claim of complete prevention or a universal stop-when-harm rule.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q20",
+      "topic": "Darkness's later complaint",
+      "current_qualification": "53 is a narrator report that Darkness sought advice about strange gifts and unwanted harassment. It is not her acceptance of the implied preference, identification of the gift senders, on-page delivery sequence or a completed remedy.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q21",
+      "topic": "Retained Iris agency",
+      "current_qualification": "C1P74/81/94/104/122/131/138 gives Iris's own company/food/protection preferences and criticism of Kazuma. K111-113 projects future marriage/keeping rivals away; this is his fantasy, not Iris's adult consent or an achieved future. Already accepted images/dialogue supply no new SI case.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q22",
+      "topic": "Color reconciliation panel",
+      "current_qualification": "IMG005 joins C2P357's mediated Aqua absence report and374-375's actual Darkness hair-pulling protest. Aqua's ally claim does not supply Darkness's combat assent388; actual collateral drain/restraint393/399 remains. Megumin's embrace and explicit continuation refusal364 are act-specific.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q23",
+      "topic": "Vanir II and distraction",
+      "current_qualification": "IMG018 belongs to C2P184-225/295-333: actual high-priced stock bargain197-198, distraction plan212, heard combat and radish substitution329. Threatened demise321 is not a proven lost life or a new independent Vanir persona. Retail future purchase350 is distinct from payment already performed.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q24",
+      "topic": "Attributable IMG019 correction",
+      "current_qualification": "Original uncoded IMG019 notes guessed Wiz/cat. Current native-image rereview and C2P391-405 resolve Aqua in pajamas restraining Kazuma; foreground is his head/hair, not Chomusuke. Wiz is not present in this scene. Preserve original bytes and this correction; no Wiz/DrainTouch/cat witness is constructed from the mistake.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q25",
+      "topic": "Memory and accountability",
+      "current_qualification": "C2P404's innocence account precedes actual memory restoration after Aqua's strong Heal498/520. Genuine missing memory must not be called a then-proven knowing lie. Later deflection525-530 and apology534 have different knowledge. Tea-play disclosure485 says plain hot water from the start, distinct from actual ink purification492.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q26",
+      "topic": "Visiting girls identified",
+      "current_qualification": "IMG020 joins C3P78-85/94-96: Funifura and Dodonko directly correct their names and object to being treated as an indistinct pair. They are not image substitutes for Yunyun/Cecily. Their escort purpose95 and Komekko's home-explosion report104 remain attributed, not independently witnessed attack or parent death.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q27",
+      "topic": "Pudding provider identified",
+      "current_qualification": "IMG021 is Aqua's actual voluntary offering of her own pudding C3P233-235; Darkness/Megumin join237 and child thanks240-241. Cecily is absent. A finite own gift is distinct from universal generosity, a fulfilled next-day basin-sized pudding promise238/301 or blanket child assent.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q28",
+      "topic": "Child appraisal, diary and letters",
+      "current_qualification": "C3P199/207-214/261/280-321 and finalP97-120 show Komekko's literal food/pet misunderstandings, learned phrases/source reports, incomplete diary understanding and own contrary judgment/request. Megumin explains the parental-reassurance letter motive and chooses confession294; favorable family praise then changes others' stance. The child is not simply a prop, omniscient exposer or verified supernatural controller.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q29",
+      "topic": "Luna and third-party work",
+      "current_qualification": "Native C3P431-444 names Luna441 and shows a finite ice-cream/listening bargain, child sympathy and adults pressured into an unwanted quest. Komekko agrees to listen, not to consent for all adventurers or personally enter combat. Luna's work contribution and leverage coexist; the color promise is not completed performance.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q30",
+      "topic": "Lucy, Regina and Aqua's actual act",
+      "current_qualification": "IMG023 joins C3P451-579: Lucy's past is partly reported, her retaliation creed533/pleas542 are her own speech; Megumin reassures545/550 that Regina was freed, with new followers only conjectured512/545. Actual GodBlow559/560 interrupts emerging peace for Aqua's status concern565. Lucy later rises/leaves572-579; no unshown purification spell, sole Aqua cure or verified elimination of Regina is supplied.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q31",
+      "topic": "Anraku Princess and threat",
+      "current_qualification": "IMG024 joins C4P395-440: the creature identifies the whole forest as her body404 and claims caregiving401/407; Kazuma uses herbicide threat/worded promise loophole412. Her bodily offer414-428 is bargaining under threat. K starts reaching431 then stops; no completed contact or blanket consent is inferred. Self-serving care claims do not independently settle innocence.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q32",
+      "topic": "Succubi and duplicate history",
+      "current_qualification": "IMG025 joins finalP43-68: local shop succubi offer sweets, infer unusual child talent55 and leave amid fear of Aqua65-68. No proper Lolisa/MASK-leader identity is supplied; talent inference is not verified magical control. K's recalled prior anger62-63 joins known MASK events and is not an independent second case.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q33",
+      "topic": "Praise, departure and maternity limits",
+      "current_qualification": "IMG026 is actual Komekko praise after the successful quest finalP355, not a farewell. EpYunyun message23/27 is reported by Megumin, mother Yuiyui actually casts Teleport116 and child asks for frog meat next visit106. Child diary94 incompletely understands achievements; next girl's Mama call141 is not verified Darkness motherhood.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q34",
+      "topic": "Unlocated exact book scene",
+      "current_qualification": "IMG007 is fully viewed domestic sisters/book/fire composition, but no unique exact prose book scene is identified in the bounded joins. Fantasy script is not decoded or converted into a new spell/lesson/decision, and no extra independent event or source-local forecast is assigned.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q35",
+      "topic": "Illustrator coda",
+      "current_qualification": "IMG027 ATOGAKI, Mishima2017 and the playful 魔性の妹 caption are creator staging. Child drawing, demonic-looking doodle and sister reaction do not establish a canonical spell, manipulation power or new child decision.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q36",
+      "topic": "Future promotional script",
+      "current_qualification": "IMG028 explicitly advertises NEXT12/COMING SOON. Staged pregnancy implication, pleas to listen and denial do not establish pregnancy, maternity, childbirth or new MAIN11 behavior. EpMama call is a separate cliffhanger with its own uncertainty.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q37",
+      "topic": "Selection and evidence types",
+      "current_qualification": "20whole-premise H/L selections and27exact short written fragments are purposeful post-seal choices; overlap, author address, raster staging and mediated language are declared. H3 is not used as uncertainty; H4 is not assigned merely because magic exists. No frequency denominator, audio, native-human judgment, independent review or heldout accuracy is claimed.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    },
+    {
+      "id": "M11EX-Q38",
+      "topic": "Historical controls and continuation",
+      "current_qualification": "All8 entering model pins and both SI-C01/SY-C01 original14null sets remain exact; original MG/R1/SEC01/Dust scopes/outcomes, current66/historical72, four scores and original Dust14blanks are untouched. Main11 comparisons are informed local uptake. MAIN12-17 exclusions, complete secondary census/earned artifacts, expanded synthesis/versioned models, curation/integration/release remain required.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T16:06:22.794787+00:00"
+    }
+  ],
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 301773,
+      "sha256": "25ced01e8980fa81d83cf3a4651b70ccf8a573dbf1d038ba67e5afa7b65011e4"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 221761,
+      "sha256": "6d84a12d0fdd26b82f728bdf9dc8707da84bd6aa008346292810208bd2d7d20b"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 792134,
+      "sha256": "a848beb583411c35b671561fe879c6abbbaf6dff2e2d390d264d9233b177eb41"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 603049,
+      "sha256": "bb57f4c786e2aadfff61847eb2732e1d78ade6a619b996daa4b2223d8a161953"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 199469,
+      "sha256": "fa79f62008196dcb3a58bbd3181732e2c48da9cdc6a20b8ba39adf1974a3434a"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 192211,
+      "sha256": "263f01df496333e6ffee4908bbd8f55c7a9b013777e9b65c75b966314e7a6ae8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 216570,
+      "sha256": "a5f47657c785821815831a046583b3142c9d24310fb515dceebfbe7f970b1d93"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 180440,
+      "sha256": "45ae81998027454cff1fa9c56a9c798a28112fb0ddd4a8bec9e8e444a5d38e3a"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 271086,
+      "sha256": "2234d01b076c851195ebd824d75f09ed7c3e21baeb5e0d675777fce10b37bc3a"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 135212,
+      "sha256": "66fcd38270954bc400ebde7104cb43256d1db4d47c6e4870b4637ceda03157b1"
+    }
+  ],
+  "frozen_proof": {
+    "current66_verified": 66,
+    "historical72_at_3b92_verified": 72,
+    "four_score_sha256": {
+      "YORI01": "7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026",
+      "MASK": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967",
+      "DUST06": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e",
+      "DUST07": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+    },
+    "original14blank_file_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+    "R1_or_old_secondary_forecasts_changed": false,
+    "Iris_SI_C01_original14null_fields_exact": true,
+    "Yunyun_SY_C01_original14null_fields_exact": true,
+    "entering_principal_party_transfer_six_and_Iris_Yunyun_eight_model_pins_exact": true
+  },
+  "supplemental19_and_mixed5_gate_states_unchanged": true,
+  "main_excluded_component_programs": {
+    "this_source_analytically_accepted_containing_publication_pending": "MAIN-11",
+    "next_separate_source": "MAIN-12",
+    "accepted_principal_bodies_retained": true
+  },
+  "global_narrative_component_completion_percentage": null,
+  "next_boundary": "Exact publication/all-tree and changed-stream readback, full source audit, completed housekeeping, final actual-source audit/status and fresh published-authority reload before MAIN12 excluded admission. Ordinarily reconcile then-current main before another push. Remaining main components, complete secondary census/earned monographs/models/profiles, expanded synthesis/versioned principal-party-transfer revisions, curator integration and release continue."
+}

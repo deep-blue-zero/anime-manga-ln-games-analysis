@@ -1,0 +1,302 @@
+{
+  "schema": "konosuba.cohort42.native-provenance.v1",
+  "status": "ACTUALLY_RECEIVED_SOURCE_KNOWN_SCOPED_NONFINAL",
+  "recorded_utc": "2026-10-25T00:19:29.833109+00:00",
+  "source_bindings": [
+    {
+      "source_id": "DUST-01",
+      "bytes": 19450953,
+      "sha256": "b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 24,
+      "zip_crc": "PASS",
+      "OPF_sha256": "925c4556a403e6676e95b57a9ca4df88838e1c6739a38ef6149dd626b4085ab0"
+    },
+    {
+      "source_id": "DUST-02",
+      "bytes": 18886514,
+      "sha256": "4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 22,
+      "zip_crc": "PASS",
+      "OPF_sha256": "4c0f802b3540260bec7d32f73b5937450293a5c0ebcc266abe9fd9f9550fc13f"
+    },
+    {
+      "source_id": "DUST-03",
+      "bytes": 18686443,
+      "sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 24,
+      "zip_crc": "PASS",
+      "OPF_sha256": "63953e65924b62b1ad99ca0bacb94c640c74ad107da7f840c51a3aac5df6a18a"
+    },
+    {
+      "source_id": "DUST-05",
+      "bytes": 6713820,
+      "sha256": "bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 18,
+      "zip_crc": "PASS",
+      "OPF_sha256": "0cac809dc983b3f483d24c802f96e208cd9c4795effc492847443a48e08db04d"
+    },
+    {
+      "source_id": "DUST-06",
+      "bytes": 4582670,
+      "sha256": "d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 19,
+      "zip_crc": "PASS",
+      "OPF_sha256": "2dd35c6b24ff25be2b616fa4f5ad2bd2546b82a42381a960a7b00f0b90147bba"
+    }
+  ],
+  "units": [
+    {
+      "source_id": "DUST-01",
+      "component_id": "DUST01U015",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "fb0ce659939f2e6e4bc0b3848ded417ae3beafa949eb9dc0ef81d3113e5e8e85",
+      "paragraph_slots": 583,
+      "ruby": 563,
+      "actual_ranges": [
+        [
+          1,
+          583
+        ]
+      ],
+      "actual_unique_P": 583,
+      "complete_paragraph_projection": true
+    },
+    {
+      "source_id": "DUST-01",
+      "component_id": "DUST01U017",
+      "member": "item/xhtml/p-009.xhtml",
+      "member_sha256": "84be1ec954a42fd9ec7e2bfff0bf1d06101659f844c63014c16bcd5d19b5deb7",
+      "paragraph_slots": 801,
+      "ruby": 867,
+      "actual_ranges": [
+        [
+          1,
+          801
+        ]
+      ],
+      "actual_unique_P": 801,
+      "complete_paragraph_projection": true
+    },
+    {
+      "source_id": "DUST-01",
+      "component_id": "DUST01U018",
+      "member": "item/xhtml/p-010.xhtml",
+      "member_sha256": "b1ef3f26170e06516a63df036dc8bbbe3c47e1fa7ca085c14d8608f9e8e5260e",
+      "paragraph_slots": 79,
+      "ruby": 70,
+      "actual_ranges": [
+        [
+          1,
+          79
+        ]
+      ],
+      "actual_unique_P": 79,
+      "complete_paragraph_projection": true
+    },
+    {
+      "source_id": "DUST-01",
+      "component_id": "DUST01U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "e39c43625ecfc0c72ff49a805a1baf90c5c3df53677a7c66f321528b4348bb49",
+      "paragraph_slots": 411,
+      "ruby": 429,
+      "actual_ranges": [
+        [
+          1,
+          411
+        ]
+      ],
+      "actual_unique_P": 411,
+      "complete_paragraph_projection": true
+    },
+    {
+      "source_id": "DUST-02",
+      "component_id": "DUST02U015",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "389566bf26a458387cf1ed061d5281a71848946948a2a55f69f258f9fcb5eca2",
+      "paragraph_slots": 555,
+      "ruby": 225,
+      "actual_ranges": [
+        [
+          295,
+          555
+        ]
+      ],
+      "actual_unique_P": 261,
+      "complete_paragraph_projection": false
+    },
+    {
+      "source_id": "DUST-02",
+      "component_id": "DUST02U016",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "76cf0ab4cc98c9394868a130ff5ae11ecfce1fefe95fe3cd378b03277af733c2",
+      "paragraph_slots": 68,
+      "ruby": 65,
+      "actual_ranges": [
+        [
+          1,
+          68
+        ]
+      ],
+      "actual_unique_P": 68,
+      "complete_paragraph_projection": true
+    },
+    {
+      "source_id": "DUST-03",
+      "component_id": "DUST03U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "paragraph_slots": 813,
+      "ruby": 156,
+      "actual_ranges": [
+        [
+          580,
+          750
+        ]
+      ],
+      "actual_unique_P": 171,
+      "complete_paragraph_projection": false
+    },
+    {
+      "source_id": "DUST-05",
+      "component_id": "DUST05U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "2596ed757bd3504ff02786ad487d930c85f0d9b1073afb3d2dade10ae51cce78",
+      "paragraph_slots": 1344,
+      "ruby": 251,
+      "actual_ranges": [
+        [
+          270,
+          470
+        ],
+        [
+          860,
+          915
+        ],
+        [
+          1310,
+          1344
+        ]
+      ],
+      "actual_unique_P": 292,
+      "complete_paragraph_projection": false
+    },
+    {
+      "source_id": "DUST-06",
+      "component_id": "DUST06U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "c5c70671020fd39427857d6572b3037e53506fc7e4e1dc29dbdb2d5d57f5b716",
+      "paragraph_slots": 1033,
+      "ruby": 189,
+      "actual_ranges": [
+        [
+          280,
+          405
+        ],
+        [
+          940,
+          1033
+        ]
+      ],
+      "actual_unique_P": 220,
+      "complete_paragraph_projection": false
+    },
+    {
+      "source_id": "DUST-01",
+      "component_id": "DUST01U014",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "da16890f4a720b7568f3bf5f492b92befc2af6b313fce6fb090223601527ed8d",
+      "paragraph_slots": 575,
+      "ruby": 611,
+      "actual_ranges": [
+        [
+          1,
+          575
+        ]
+      ],
+      "actual_unique_P": 575,
+      "complete_paragraph_projection": true
+    }
+  ],
+  "actual_current_unique_P": 3461,
+  "actual_current_inline_ruby_occurrences": 3426,
+  "actual_current_members": 10,
+  "actual_current_local_EPUBs": 5,
+  "actual_prepared_display_pages_received": 50,
+  "complete_paragraph_projection_members": 6,
+  "bounded_members": 4,
+  "images": 0,
+  "nonparagraph_residual_credit": 0,
+  "whole_edition_credit": 0,
+  "comparative_prior_received_return": {
+    "MAIN02": "item/xhtml/p-007.xhtml P375-509",
+    "MASK": "text/part0017.html P387-510",
+    "P": 259,
+    "members": 2,
+    "objects": 2,
+    "new_global_primary_reading_credit": 0,
+    "new_core_P_credit": 0
+  },
+  "private_receipt_hashes": {
+    "primary": "94a2ec45827e2b2200439d48b3d1a6c484b92777d1078d4ae8ad08462e87486c",
+    "adaptive": "d9d653474520bf5999666a73ad99133c5865002d709e0c8fd745679e92ce638c",
+    "identity_context": "057668696e47df45c4c728edb7c595cc2eff1d25b89dd757c47b6d350b104a28",
+    "specific_event": "80b897b9511d5987cabe94ddd49ae3e861b21ef31ab37b8dc1b81e7e4c52c5cb"
+  },
+  "scope": "Paragraph/ruby projection is not whole-edition, image or nonparagraph coverage. Counts include blanks, other actors, reports and previously known material; not subject appearances or independent observations.",
+  "technical_retrieval": "Eight-Dust-object302literal leads were technical routing only. Chief synonym and ordinary face-peering leads demonstrate that keyword labels are not identity or semantic proof.",
+  "qualifications": [
+    "Original partial007_009wording retained with governing precision qualification: no elapsed week at U015P550-576; later U017P38two-week report separately received.",
+    "Adaptive P979Line-sama is the butler; no old-couple return. P1337peering concerns Leen/Feit, not a second bath watcher.",
+    "All31primary and19adaptive pages actually received; lost/truncated preparation outputs confer no reception credit.",
+    "Prior MAIN02/MASK comparison returns already received material; no new global unique-reading or independent support."
+  ],
+  "source_known_same_informed_author": true,
+  "independent_trials": 0,
+  "new_models": 0,
+  "new_rules": 0,
+  "new_inputs": 0,
+  "new_first_bodies": 0,
+  "absolute_private_paths_in_public": 0,
+  "full_program_complete": false,
+  "comparative_prior_received_source_bindings": [
+    {
+      "source_id": "MAIN-02",
+      "native_filename": "Konosuba - Main Series - Volume 02.epub",
+      "bytes": 6872479,
+      "sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "b07a518d8afa21e8e24d692b1fa1b6dd30e4124ff89c74f30b4b057496c8ec3e",
+      "fresh_CRC_and_member_check": "PASS"
+    },
+    {
+      "source_id": "MASK",
+      "native_filename": "Konosuba - Spin-off - Consulting the Masked Devil.epub",
+      "bytes": 2895671,
+      "sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+      "member": "text/part0017.html",
+      "member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+      "fresh_CRC_and_member_check": "PASS"
+    }
+  ]
+}

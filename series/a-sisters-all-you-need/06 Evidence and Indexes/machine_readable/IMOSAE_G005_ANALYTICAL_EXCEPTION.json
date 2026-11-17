@@ -1,0 +1,43 @@
+{
+  "schema": "IMOSAE/analytical-source-exceptions/v1",
+  "generation": "V1",
+  "source_boundary": "IMOSAE-JP-LN-RAW-1.0 and immutable IMOSAE-JP-LN-NORM-1.0",
+  "gaiji_id": "IMOSAE-G005",
+  "match_asset_sha256": "553f0fe232d962939fce54a6313b04c16471ef5b253ca08cfdaa65d57cb348b5",
+  "semantic_override": "scold / 叱る; original glyph and ruby govern",
+  "frozen_replacement_retained": "吐",
+  "do_not_apply_to_ordinary_unicode": "吐",
+  "raw_normalized_and_gaiji_map_mutated": false,
+  "occurrence_count": 2,
+  "occurrences": [
+    {
+      "volume": "V01",
+      "locator": "V01|chapter:メインテーマ|spine:027|xhtml:OEBPS/Text/p-0027.xhtml.xhtml|p:0007|fp:d3407c9304cc",
+      "source_block_xpath": "/html/body/div/p[9]",
+      "gaiji_id": "IMOSAE-G005",
+      "asset_member": "OEBPS/Images/embed0018.jpg",
+      "asset_sha256": "553f0fe232d962939fce54a6313b04c16471ef5b253ca08cfdaa65d57cb348b5",
+      "frozen_replacement": "吐",
+      "original_ruby": [
+        "しか"
+      ],
+      "native_block_and_asset_resolution": "PASS",
+      "analytical_reading": "scold; original mouth-plus-seven glyph, ruby しか; not ordinary Unicode 吐"
+    },
+    {
+      "volume": "V14",
+      "locator": "V14|chapter:青い小鳥たち|spine:042|xhtml:text/part0041.html|p:0166|fp:f825ffa55e0b",
+      "source_block_xpath": "/html/body/div/p[170]",
+      "gaiji_id": "IMOSAE-G005",
+      "asset_member": "images/00027.jpeg",
+      "asset_sha256": "553f0fe232d962939fce54a6313b04c16471ef5b253ca08cfdaa65d57cb348b5",
+      "frozen_replacement": "吐",
+      "original_ruby": [
+        "しか"
+      ],
+      "native_block_and_asset_resolution": "PASS",
+      "analytical_reading": "scold; original mouth-plus-seven glyph, ruby しか; not ordinary Unicode 吐"
+    }
+  ],
+  "authority_note": "Interpretive exception, not a new normalization release or narrative-prose extract"
+}

@@ -1,0 +1,809 @@
+{
+  "schema": "harmony-independent-additional-runtime-integrity/v1",
+  "reviewer": "/root/harmony_synthesis",
+  "run_names_present": [
+    "adaptive-first-six-001",
+    "adaptive-first-four-001",
+    "adaptive-final-ten-001",
+    "successors-001",
+    "keita-successor-001",
+    "keita-successor-coreknowledge-001"
+  ],
+  "observed_turns": 46,
+  "new_successor_sessions": {
+    "successors-001/etienne": "01a15272-369c-7d13-9a3b-af96785d4293",
+    "successors-001/nuaza": "01a15270-b31e-77d3-8c94-e2628cab2ee6",
+    "successors-001/reiko": "01a15270-b327-73a0-bf45-bd6ca82bde5f",
+    "successors-001/uwe": "01a15272-543c-7b83-b4df-3e7a4c8404f8",
+    "keita-successor-001/keita": "01a15273-c313-7c61-be2c-e48b27cbf80e"
+  },
+  "new_successor_session_count": 5,
+  "adaptive_turn_count": 20,
+  "records": [
+    {
+      "run": "adaptive-first-six-001",
+      "case": "cian",
+      "turn": 6,
+      "session_id": "01a15268-5162-7612-b28d-716a306f3b8a",
+      "conversation_sha256": "0da3ff860a72e61367ea6de6f56d8cb082e3f49cb8862b49c6e95bff678f22c4",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "adaptive-first-six-001",
+      "case": "miach",
+      "turn": 6,
+      "session_id": "01a15268-516a-7c20-ae61-79c29272e492",
+      "conversation_sha256": "f02a755b8e5accce57d7bf4b981e7df750bf43fca35200c1841e654a0e1cdcda",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "adaptive-first-six-001",
+      "case": "nuaza",
+      "turn": 6,
+      "session_id": "01a15269-df02-7063-97c8-877736c2b428",
+      "conversation_sha256": "2520da95ceaeaac5b68760dbb8338bb09d6cbf933a368d70c0f1f6dbfada5330",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "adaptive-first-six-001",
+      "case": "oscar",
+      "turn": 6,
+      "session_id": "01a1526a-1f4e-7b23-add5-31a8f9d1153e",
+      "conversation_sha256": "87b49df6603ea325a7dba6141512f0bf51f8cb9819307d5ec30d568c496a6d5a",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "adaptive-first-six-001",
+      "case": "tuan",
+      "turn": 6,
+      "session_id": "01a15268-5167-7023-9085-7240339a5201",
+      "conversation_sha256": "9e9039686a9ab2af74acd0da76cf0fa614d5026e6feb697ab4ec055432ddffff",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "adaptive-first-six-001",
+      "case": "vashilov",
+      "turn": 6,
+      "session_id": "01a1526a-b5c2-7d53-be62-4fe913ea1e52",
+      "conversation_sha256": "dc5373230bb401cb5bbe072827a2f86380c6324260c99ca174d2deab2d09ac7e",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "adaptive-first-four-001",
+      "case": "etienne",
+      "turn": 6,
+      "session_id": "01a1526c-3232-7722-bbc6-3cbc721c1a56",
+      "conversation_sha256": "f663dbf870dfe05561d9385560ae54c9d8abfefde2f256c5bd1517f4da5a0f94",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "adaptive-first-four-001",
+      "case": "keita",
+      "turn": 6,
+      "session_id": "01a1526b-a3de-7c21-93e9-f1abb3e15ce0",
+      "conversation_sha256": "af8db94b7299021e3863546b280c3c3795d7eefb631e6698dbd5541226c1044b",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "adaptive-first-four-001",
+      "case": "reiko",
+      "turn": 6,
+      "session_id": "01a1526b-cac2-75a0-8e81-c7fbf59856c9",
+      "conversation_sha256": "95e3480d137cb7351403a11f4eb1f4ad23d20bf7dc81ffccba9939f053d48cd8",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "adaptive-first-four-001",
+      "case": "uwe",
+      "turn": 6,
+      "session_id": "01a1526d-43df-77b2-9518-1e168fce09fb",
+      "conversation_sha256": "ee53a2ec165ca4927612846957474bb5759f61fa4f8dc7ceb9bc62002a09ccab",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "cian",
+      "turn": 7,
+      "session_id": "01a15268-5162-7612-b28d-716a306f3b8a",
+      "conversation_sha256": "8a19a405c7262041ee504a3eb728ba38a47ba9b5a6888d4c1a52c957b52633e1",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "etienne",
+      "turn": 7,
+      "session_id": "01a1526c-3232-7722-bbc6-3cbc721c1a56",
+      "conversation_sha256": "8f9daa62b01c09d8cfff527bcc37d30d98f12390caafaa3ffcd2e0dbe8d9de60",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "keita",
+      "turn": 7,
+      "session_id": "01a1526b-a3de-7c21-93e9-f1abb3e15ce0",
+      "conversation_sha256": "57a8fe863eef0e9638683b1d7c0fc44a3a9c286a8c2c907dc859b95bfb0f376c",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "miach",
+      "turn": 7,
+      "session_id": "01a15268-516a-7c20-ae61-79c29272e492",
+      "conversation_sha256": "43d5530dade49931713c62e9656f26482e6f4fbbe6173b87c8163fa1c3e8e209",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "nuaza",
+      "turn": 7,
+      "session_id": "01a15269-df02-7063-97c8-877736c2b428",
+      "conversation_sha256": "9cd50f66c18f368addcf577d4dc2ebb4317220b9bae4d2c73b742ad07104ad97",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "oscar",
+      "turn": 7,
+      "session_id": "01a1526a-1f4e-7b23-add5-31a8f9d1153e",
+      "conversation_sha256": "05feeeb0a8a7efc8c61244a5df85c4520b36295dbc4e97f4588a5ef63d6e93a1",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "reiko",
+      "turn": 7,
+      "session_id": "01a1526b-cac2-75a0-8e81-c7fbf59856c9",
+      "conversation_sha256": "ad28905af2ce2061a84e61325f33a0a9d7fd9fb35e53f37ded7ec889068f176c",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "tuan",
+      "turn": 7,
+      "session_id": "01a15268-5167-7023-9085-7240339a5201",
+      "conversation_sha256": "70808d0ed0df9e881588d6b059a176f7a176e3923f59d4516962d552920f709c",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "uwe",
+      "turn": 7,
+      "session_id": "01a1526d-43df-77b2-9518-1e168fce09fb",
+      "conversation_sha256": "b97672385426be640fcd8bad0eee7494b8bfa42c6f8015adcde39741e00c593c",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "vashilov",
+      "turn": 7,
+      "session_id": "01a1526a-b5c2-7d53-be62-4fe913ea1e52",
+      "conversation_sha256": "510ee18ba1dd847cf5a2f5635a00c807066061e5f64a70c260d8d988be40d4b2",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "successors-001",
+      "case": "etienne",
+      "turn": 1,
+      "session_id": "01a15272-369c-7d13-9a3b-af96785d4293",
+      "conversation_sha256": "54697bf2a8a673fe32314c0b0788fd22d86a79d0e7005df38aaf9d69205302a5",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "successors-001",
+      "case": "etienne",
+      "turn": 2,
+      "session_id": "01a15272-369c-7d13-9a3b-af96785d4293",
+      "conversation_sha256": "54697bf2a8a673fe32314c0b0788fd22d86a79d0e7005df38aaf9d69205302a5",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "successors-001",
+      "case": "etienne",
+      "turn": 3,
+      "session_id": "01a15272-369c-7d13-9a3b-af96785d4293",
+      "conversation_sha256": "54697bf2a8a673fe32314c0b0788fd22d86a79d0e7005df38aaf9d69205302a5",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "successors-001",
+      "case": "etienne",
+      "turn": 4,
+      "session_id": "01a15272-369c-7d13-9a3b-af96785d4293",
+      "conversation_sha256": "54697bf2a8a673fe32314c0b0788fd22d86a79d0e7005df38aaf9d69205302a5",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "successors-001",
+      "case": "etienne",
+      "turn": 5,
+      "session_id": "01a15272-369c-7d13-9a3b-af96785d4293",
+      "conversation_sha256": "54697bf2a8a673fe32314c0b0788fd22d86a79d0e7005df38aaf9d69205302a5",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "successors-001",
+      "case": "nuaza",
+      "turn": 1,
+      "session_id": "01a15270-b31e-77d3-8c94-e2628cab2ee6",
+      "conversation_sha256": "ff3e8e55c9f18c0f23283a7756a7b3084efa002951df0d0bf13a68da7763fc04",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "successors-001",
+      "case": "nuaza",
+      "turn": 2,
+      "session_id": "01a15270-b31e-77d3-8c94-e2628cab2ee6",
+      "conversation_sha256": "ff3e8e55c9f18c0f23283a7756a7b3084efa002951df0d0bf13a68da7763fc04",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "successors-001",
+      "case": "nuaza",
+      "turn": 3,
+      "session_id": "01a15270-b31e-77d3-8c94-e2628cab2ee6",
+      "conversation_sha256": "ff3e8e55c9f18c0f23283a7756a7b3084efa002951df0d0bf13a68da7763fc04",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "successors-001",
+      "case": "nuaza",
+      "turn": 4,
+      "session_id": "01a15270-b31e-77d3-8c94-e2628cab2ee6",
+      "conversation_sha256": "ff3e8e55c9f18c0f23283a7756a7b3084efa002951df0d0bf13a68da7763fc04",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "successors-001",
+      "case": "nuaza",
+      "turn": 5,
+      "session_id": "01a15270-b31e-77d3-8c94-e2628cab2ee6",
+      "conversation_sha256": "ff3e8e55c9f18c0f23283a7756a7b3084efa002951df0d0bf13a68da7763fc04",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "successors-001",
+      "case": "reiko",
+      "turn": 1,
+      "session_id": "01a15270-b327-73a0-bf45-bd6ca82bde5f",
+      "conversation_sha256": "42d82f99e79278676dc17ffcc04237cf9c203e6f2556348ac9335e08dc075cc5",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "successors-001",
+      "case": "reiko",
+      "turn": 2,
+      "session_id": "01a15270-b327-73a0-bf45-bd6ca82bde5f",
+      "conversation_sha256": "42d82f99e79278676dc17ffcc04237cf9c203e6f2556348ac9335e08dc075cc5",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "successors-001",
+      "case": "reiko",
+      "turn": 3,
+      "session_id": "01a15270-b327-73a0-bf45-bd6ca82bde5f",
+      "conversation_sha256": "42d82f99e79278676dc17ffcc04237cf9c203e6f2556348ac9335e08dc075cc5",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "successors-001",
+      "case": "reiko",
+      "turn": 4,
+      "session_id": "01a15270-b327-73a0-bf45-bd6ca82bde5f",
+      "conversation_sha256": "42d82f99e79278676dc17ffcc04237cf9c203e6f2556348ac9335e08dc075cc5",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "successors-001",
+      "case": "reiko",
+      "turn": 5,
+      "session_id": "01a15270-b327-73a0-bf45-bd6ca82bde5f",
+      "conversation_sha256": "42d82f99e79278676dc17ffcc04237cf9c203e6f2556348ac9335e08dc075cc5",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "successors-001",
+      "case": "uwe",
+      "turn": 1,
+      "session_id": "01a15272-543c-7b83-b4df-3e7a4c8404f8",
+      "conversation_sha256": "375bb4429097bbb8f715868cd780cc0462c3f35871abc064fc11fb57989d9aef",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "successors-001",
+      "case": "uwe",
+      "turn": 2,
+      "session_id": "01a15272-543c-7b83-b4df-3e7a4c8404f8",
+      "conversation_sha256": "375bb4429097bbb8f715868cd780cc0462c3f35871abc064fc11fb57989d9aef",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "successors-001",
+      "case": "uwe",
+      "turn": 3,
+      "session_id": "01a15272-543c-7b83-b4df-3e7a4c8404f8",
+      "conversation_sha256": "375bb4429097bbb8f715868cd780cc0462c3f35871abc064fc11fb57989d9aef",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "successors-001",
+      "case": "uwe",
+      "turn": 4,
+      "session_id": "01a15272-543c-7b83-b4df-3e7a4c8404f8",
+      "conversation_sha256": "375bb4429097bbb8f715868cd780cc0462c3f35871abc064fc11fb57989d9aef",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "successors-001",
+      "case": "uwe",
+      "turn": 5,
+      "session_id": "01a15272-543c-7b83-b4df-3e7a4c8404f8",
+      "conversation_sha256": "375bb4429097bbb8f715868cd780cc0462c3f35871abc064fc11fb57989d9aef",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "keita-successor-001",
+      "case": "keita",
+      "turn": 1,
+      "session_id": "01a15273-c313-7c61-be2c-e48b27cbf80e",
+      "conversation_sha256": "c58da60df095957250e680682d8bd6cf77dc0ca55c1618e8a0885bde7e2cf625",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "keita-successor-001",
+      "case": "keita",
+      "turn": 2,
+      "session_id": "01a15273-c313-7c61-be2c-e48b27cbf80e",
+      "conversation_sha256": "c58da60df095957250e680682d8bd6cf77dc0ca55c1618e8a0885bde7e2cf625",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "keita-successor-001",
+      "case": "keita",
+      "turn": 3,
+      "session_id": "01a15273-c313-7c61-be2c-e48b27cbf80e",
+      "conversation_sha256": "c58da60df095957250e680682d8bd6cf77dc0ca55c1618e8a0885bde7e2cf625",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "keita-successor-001",
+      "case": "keita",
+      "turn": 4,
+      "session_id": "01a15273-c313-7c61-be2c-e48b27cbf80e",
+      "conversation_sha256": "c58da60df095957250e680682d8bd6cf77dc0ca55c1618e8a0885bde7e2cf625",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "keita-successor-001",
+      "case": "keita",
+      "turn": 5,
+      "session_id": "01a15273-c313-7c61-be2c-e48b27cbf80e",
+      "conversation_sha256": "c58da60df095957250e680682d8bd6cf77dc0ca55c1618e8a0885bde7e2cf625",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    },
+    {
+      "run": "keita-successor-coreknowledge-001",
+      "case": "keita",
+      "turn": 6,
+      "session_id": "01a15273-c313-7c61-be2c-e48b27cbf80e",
+      "conversation_sha256": "15468224f6b43907d7e9d1c1b0e1bd9a739081c1dbd9c0db517774716d29bfb0",
+      "recorded_hashes_match": {
+        "input_sha256": true,
+        "events_sha256": true,
+        "stderr_sha256": true
+      },
+      "event_session_matches": true,
+      "responses_match_event_messages": true,
+      "turn_completed": true,
+      "unexpected_event_count": 0,
+      "valid": true
+    }
+  ],
+  "problems": [],
+  "runtime_integrity": "PASS_OBSERVED_FILES",
+  "semantic_acceptance": "NOT_IMPLIED"
+}

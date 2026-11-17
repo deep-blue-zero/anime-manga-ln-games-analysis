@@ -1,0 +1,196 @@
+{
+  "schema": "konosuba.cohort29.original-first-annotations.v1",
+  "subject": "Zereschilt",
+  "recorded_utc": "2026-10-24T03:54:48.266256+00:00",
+  "source_known": true,
+  "original_output_file": "ZERESCHILT_FIRST_OUTPUTS_01.json",
+  "original_output_sha256": "abda73e8540bdad640758071437406e8f4c85c5fbcf4534c922a7e1188623ee5",
+  "cases": [
+    {
+      "case_id": "ZS-H01-A",
+      "original_first_body_sha256": "740f60033c7c0f6bb848857bdf58b938e842af7a35a9f69b44411b52b4673575",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Retold wounded pride as exchange is hypothetical,not a verified feeding equivalence.",
+        "No visitor disclosure or nail transfer occurs."
+      ],
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "ZS-H01-B",
+      "original_first_body_sha256": "398d8e3416766a51f47c71a70c8004a3df8f9ea17fa3403a49012aa784686bd5",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Conditional payment and control terms are proposed,not accepted or fulfilled.",
+        "Resource utility is supplied directly; weak model specificity."
+      ],
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "ZS-H02-A",
+      "original_first_body_sha256": "7fdad6c7f6c39ffe12a0602f5f84feabd847bdb7fcac777c44ac3176305298e9",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Physical blocking follows stipulated ability; no victory proven.",
+        "Useful hands dialogue adds no new technique or quantified combat claim."
+      ],
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "ZS-H02-B",
+      "original_first_body_sha256": "d4963259c71b29b43be88e69110d712dc656b10e583116d1daacf4aa6c8f90a1",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Alarm/withdrawal do not establish safe escape or incoming help.",
+        "No phantom revival invoked; absent Vanir remains a practical constraint."
+      ],
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "ZS-H03-A",
+      "original_first_body_sha256": "5462a81d5697db4b317baa86c3dd53df3fc6aa919adf3b342cee54d3d49b3617",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "PREMATURE_ACCEPTANCE before errand specified.",
+        "UNSUPPORTED_TASK_NARROWING: asks what must be carried although errand type unspecified.",
+        "UNPROVIDED_VISIBILITY: looking at offered room assumes it is visible."
+      ],
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "ZS-H03-B",
+      "original_first_body_sha256": "90961c16fe80b3837ae987698c8c2f81331c948e48e80d65ed6b5099a328dd1d",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Task clarification is stronger than in A,an uncontrolled response difference.",
+        "Retained complaint need not imply no eventual agreement or permanent grudge."
+      ],
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "ZS-H04-A",
+      "original_first_body_sha256": "90842380d5363d7f77bf33f93c65a3e1cae7ba532bc63ecb5c3139e918c1d177",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Accepts only a bounded afternoon and asks duration; no explicit reply received.",
+        "Natural courtesy can fit many employees; no unique trait validation."
+      ],
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "ZS-H04-B",
+      "original_first_body_sha256": "7b9b7d7d52c28a32fb13e3a338b5d56d781a08bd96a44e401f9a9d27eeabd7df",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Adds morning-long anticipation not specified; incidental hypothetical detail,not a source fact.",
+        "Asks another attendant to be approached; no agreement or final staffing supplied."
+      ],
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "ZS-H01",
+      "primary_rule": "ZS-R01",
+      "case_ids": [
+        "ZS-H01-A",
+        "ZS-H01-B"
+      ],
+      "actual_local_observation": "Secure version asks for an account of wounded pride rather than coins; insecure version offers a limited clipping on payment/size terms.",
+      "qualitative_assessment": "Resource-sensitive bargaining contrast visible; actual exchange remains unperformed.",
+      "contrary_rival_and_design_limits": "Generic utility and bargaining explain the difference. Retold humiliation is an authored proposal,not an established equivalent of directly tasted feeling. No new feeding rule,exact emotional price or job is verified.",
+      "all_contrasts_visible": true,
+      "independent_validation": false,
+      "model_specific_causal_effect_established": false
+    },
+    {
+      "pair_id": "ZS-H02",
+      "primary_rule": "ZS-R02",
+      "case_ids": [
+        "ZS-H02-A",
+        "ZS-H02-B"
+      ],
+      "actual_local_observation": "Ordinary looter elicits holding the doorway and warning; annihilating holy power elicits alarm and rear withdrawal.",
+      "qualitative_assessment": "Threat-specific actions fit supplied capacities but do not isolate Zereschilt-specific regulation.",
+      "contrary_rival_and_design_limits": "The capability difference makes generic tactical caution overwhelmingly predictive. No actual interception,escape safety,helper response,revival or threshold accuracy is shown.",
+      "all_contrasts_visible": true,
+      "independent_validation": false,
+      "model_specific_causal_effect_established": false
+    },
+    {
+      "pair_id": "ZS-H03",
+      "primary_rule": "ZS-R03",
+      "case_ids": [
+        "ZS-H03-A",
+        "ZS-H03-B"
+      ],
+      "actual_local_observation": "Apology version explicitly accepts and acknowledges hurt; no-apology version discusses terms while retaining grievance and withholding an unspecified promise.",
+      "qualitative_assessment": "Acceptance/repair language differs,but the pair does not isolate durable forgiveness,employment choice or a new relationship rule.",
+      "contrary_rival_and_design_limits": "A accepts before identifying the errand; B treats missing task detail as a reason not to promise. That asymmetry is authored,not caused uniquely by apology. A also assumes carrying and room visibility without supplied details. Practical need can explain both approaches.",
+      "all_contrasts_visible": true,
+      "independent_validation": false,
+      "model_specific_causal_effect_established": false
+    },
+    {
+      "pair_id": "ZS-H04",
+      "primary_rule": "ZS-R04",
+      "case_ids": [
+        "ZS-H04-A",
+        "ZS-H04-B"
+      ],
+      "actual_local_observation": "Asked volunteer offers counter work and seeks a future outing; imposed replacement protests revoked promise and asks that another attendant be approached.",
+      "qualitative_assessment": "Autonomy/expectation difference visible; contribution and final staffing unresolved.",
+      "contrary_rival_and_design_limits": "Requester,prior promise and consent change together,so causal contrast is confounded. Generic fairness and ordinary workplace preference suffice. No substitute has agreed,no full refusal/disloyalty or completed outing is shown.",
+      "all_contrasts_visible": true,
+      "independent_validation": false,
+      "model_specific_causal_effect_established": false
+    }
+  ],
+  "shared_limitations": [
+    "Same informed root wrote models,exact inputs,expectations,opposing firsts and annotations; no independent judge or external model call.",
+    "Strong cueing,generic rivals,stated capacities and several underspecified/confounded contrasts preclude causal model-specific validation.",
+    "More natural scene dialogue still includes methodological self-description and English translated archetypes; no Japanese voice,audio,L3 or complete final battery tested.",
+    "All added hypothetical dialogue/action remains an authored possible scene,not source fact or a forecast grade.",
+    "All defects and all16 originals retained without feedback repair or regeneration."
+  ],
+  "completed_final_nine_category_battery": false,
+  "aggregate_accuracy_score": null,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "full_program_complete": false
+}
