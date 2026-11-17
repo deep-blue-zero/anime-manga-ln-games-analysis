@@ -863,6 +863,7 @@ Each `YURUCAMP_VXX_DEEP_READING.md` should use approximately this structure:
 22. Primary-source locator ledger
 23. Cumulative-state updates
 24. Open questions carried forward
+25. [Participation and reconciliation](YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md#independent-reading-of-ordinary-practice) with each assignment and horizon, actual pages, diagnostic observations, reviewer challenges, principal dispositions and links to affected cumulative records
 
 Not every section must be equally long.
 
