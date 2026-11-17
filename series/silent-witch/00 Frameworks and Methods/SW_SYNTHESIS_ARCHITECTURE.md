@@ -5,7 +5,7 @@ artifact_type: synthesis_corpus_architecture
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.28"
+version: "1.29"
 last_updated: "2026-11-17"
 status: canonical
 scope: "INITIAL architecture from reconnaissance through bounded LN synthesis and reconstruction; first closed-volume review and the V04 supplemental-admission review recorded"
@@ -138,7 +138,7 @@ Resolve each interpretive role from the sequential-reading class in section 9. E
 
 ## 7. Character, relationship, and specialist responsibilities
 
-Substantial character work must eventually explain time-indexed motivations, appraisal, public/private presentation, ordinary behavior, speech, relationship conditioning, contradictions, choices and literary function. A dedicated home is earned by explanatory complexity and independent retrieval across eligible units, not cast prominence. A relationship synthesis is earned when reciprocal asymmetries, shared history, information/obligation, and repair require an argument beyond incidental character sections. Ensemble work should preserve autonomous goals.
+Substantial character work must eventually explain time-indexed motivations, appraisal, public/private presentation, ordinary behavior, speech, relationship conditioning, contradictions, choices and literary function. By a future authorized specialist-readiness review, assess each person for whom the admitted evidence supports a differentiated portrait. Contrasts across recipients, ordinary interactions and evidence against a generic trait can establish that case within one concentrated sequence. Look in the full readings as well as the master ledger. Use the generation’s mutable master ledger character/readiness section to record identity, boundary, decision, rationale and largest gaps, next review trigger, and the path when a portrait exists. A qualified person has a pending monograph until it meets the [self-containment and source-fidelity standard](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard). Carry outstanding portraits into synthesis readiness and release review, and reassess when material new evidence arrives. Reconstruction readiness remains a separate judgment. A relationship synthesis is earned when reciprocal asymmetries, shared history, information/obligation, and repair require an argument beyond incidental character sections. Ensemble work should preserve autonomous goals.
 
 A **thin** character or relationship record means inspected, adequately retained evidence supports only a bounded interpretation in the named domain and state. It does not mean substantial evidence was discarded because the subject seemed secondary. A subject without a monograph can require substantial preservation in readings and cumulative state. Record whether apparent thinness is a source limit, capture/routing gap or unresolved conflict; retrieve or escalate before using it as a readiness judgment. Deferral decisions name the evidence basis, local route and reconsideration trigger and remain revisitable when recovered or newly admitted evidence changes the basis. No monograph is required for every supporting character, and the historical V1 target choices remain intact.
 
@@ -388,3 +388,7 @@ Owner-requested methodology amendment after completed V1: explicit preservation 
 ### Amendment record — 1.28, 2026-11-17
 
 Added section 6.1 to assign source-reading participation and reconciliation for a future authorized unit. Lifecycle remains STABILIZED. The completed V1 and independent G2 records retain their original execution histories.
+
+### Amendment record — 1.29, 2026-11-17
+
+Specified future individual portrait qualification and acceptance in section 7. The existing master ledger remains the decision home within the authorized generation. Historical targets and assessments remain at their recorded boundaries.

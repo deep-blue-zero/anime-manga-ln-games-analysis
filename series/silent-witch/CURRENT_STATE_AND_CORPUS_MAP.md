@@ -5,7 +5,7 @@ artifact_type: corpus_map
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.29"
+version: "1.30"
 last_updated: "2026-11-17"
 status: canonical
 scope: "Single canonical first-read surface; accepted foundation, V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes closed; continuous sequential run authorized 2026-10-14 through every supplied Japanese LN work and the architecture’s synthesis products"
@@ -99,7 +99,7 @@ This is the single current entrypoint for **Silent Witch: Secrets of the Silent 
 
 ## Prospective LN reading configuration — 2026-11-17
 
-For a separately authorized future substantive Japanese LN reading, [architecture section 6.1](00%20Frameworks%20and%20Methods/SW_SYNTHESIS_ARCHITECTURE.md#61-standing-configuration-for-a-future-substantive-ln-reading) assigns the principal, source-facing specialist and independent reviewer. [Volume template section 11](00%20Frameworks%20and%20Methods/SW_VOLUME_READING_TEMPLATE.md#11-closure-receipt) records how their findings enter the reading and its cumulative homes. The completed V1 run ends at ANOTHER-LOWER. V1 remains the current analytical baseline, and G2 and the comparison retain their frozen noncurrent status.
+For a separately authorized future substantive Japanese LN reading, [architecture section 6.1](00%20Frameworks%20and%20Methods/SW_SYNTHESIS_ARCHITECTURE.md#61-standing-configuration-for-a-future-substantive-ln-reading) assigns the principal, source-facing specialist and independent reviewer. [Volume template section 11](00%20Frameworks%20and%20Methods/SW_VOLUME_READING_TEMPLATE.md#11-closure-receipt) records how their findings enter the reading and its cumulative homes. For future person-level synthesis, [architecture section 7](00%20Frameworks%20and%20Methods/SW_SYNTHESIS_ARCHITECTURE.md#7-character-relationship-and-specialist-responsibilities) routes qualification decisions and outstanding portraits through the generation’s existing master ledger. The completed V1 run ends at ANOTHER-LOWER. V1 remains the current analytical baseline, and G2 and the comparison retain their frozen noncurrent status.
 
 ## Prospective framework amendment — 2026-10-18
 
