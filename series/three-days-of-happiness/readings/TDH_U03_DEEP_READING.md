@@ -132,7 +132,7 @@ Wanting to answer back, he argues that by sparing him hurt and disappointment sh
 
 **Miyagi (ミヤギ; the female clerk).** Named at P0050, in katakana like Kusunoki and Himeno.
 
-- **Appearance.** About nineteen or twenty by Kusunoki's estimate (P0046). In casual clothes: a cotton blouse, a saxe-blue dungaree skirt, shoulder-length black hair with an inward curl. She wears glasses for recognition, then puts them away neatly (P0041, P0045, P0049). A large bandage covers a deep wound on her right knee (P0045). She arrives with a carry case (P0039).
+- **Appearance.** About nineteen or twenty by Kusunoki's estimate (P0046). In casual clothes: a cotton blouse, a saxe-blue dungaree skirt, shoulder-length black hair with an inward curl. She wears glasses for recognition, then puts them away neatly (P0041, P0045, P0049). A large bandage on her right knee covers what seems, by its look, to be a deep wound (「相当深い傷らしく」, P0045). She arrives with a carry case (P0039).
 - **As watcher.** She sits with knees hugged in a corner, watches and writes in a notebook (P0059–P0063). She follows five steps behind (P0074). She tells him to treat her as absent (P0062).
 - **Speech and conduct.** Always polite. She answers a question with a question (P0116). She delivers devastating information matter-of-factly and claims good intentions (P0101, P0118, P0122). She apologizes readily, on a conditional, when challenged, yet warns him off appeals to rights (P0124). She grants non-interference this time on the other items (P0126).
 - **Through his eyes.** Exasperated, melancholy (hedged), expressionless, machine-like, weary, faintly sad (hedged). All are his readings.
@@ -215,8 +215,8 @@ Depicted time: the first day after the sale. Morning (the dream, the doorbell), 
 | F-U01-g (cover woman belongs to the present) | **Open**: compatible features only. The strongest shared feature is shoulder-length black hair. The text gives no blouse color, Miyagi's skirt is saxe blue against a darker cover skirt, and her notebook is not described. Nothing identifies them. The principal's declared inability to separate watcher-identity forecasts from prior exposure caps this |
 | F-U01-C5 (affection unnamed early) | **REFUTED from U03**: affection now named (好意, P0025–P0027; written 想い, P0093) |
 | F-U02-C2 (the female clerk reappears; his P0146 judgment revised) | **CONFIRMED in part**: she reappears as Miyagi; the judgment is not yet revised, though P0128 flags his limited reading |
-| F-U02-C3 (Himeno figures in what he attempts) and F-U02-g (Himeno sought) | **CONFIRMED in part**: listed, then discouraged |
-| F-U02-C5 (a change in self-conception credited to the appraisal) | **CONFIRMED in part**: relief from hope credited to the verdict (P0034); no changed self-conception yet |
+| F-U02-C3 (Himeno figures in what he attempts) and F-U02-g (Himeno sought) | **PARTLY ENGAGED**: listed, then discouraged; no pursuit or attempt yet |
+| F-U02-C5 (a change in self-conception credited to the appraisal) | **Pending**: relief from hope credited to the verdict (P0034); no changed self-conception yet |
 | F-U02-e, F-U02-f, F-U02-C1, F-U02-C4, F-U01-C4 | Pending |
 | F-U03-a (he concretely plans the three months) | **CONFIRMED**: the list, drafted in the evening (P0082–P0093) |
 | F-U03-b (urgency meets poverty of means and imagination; an early misfire) | **CONFIRMED in part**: the day lost (P0072); the diner chosen for lack of imagination (P0079) |

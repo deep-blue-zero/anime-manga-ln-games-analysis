@@ -312,7 +312,7 @@ When he looks up, a crowd has gathered: more people knew him than he had imagine
 - **F-U01-g** ("The young woman on the cover, absent from the otherwise identical frontispiece, is a figure in the narrator's present rather than in his childhood"): **OPEN**. A paratext question, not decidable from the body text; see the completion audit.
 - **F-U01-C4** ("Ch. 10 centers on a text addressed to an only childhood friend, most economically Himeno to the narrator"): **CONFIRMED in U10** (Himeno's letter headed 「私の、たった一人の幼馴染へ」, Ch10 P0174–P0200); recorded here.
 - **F-U02-f, F-U02-C4** ("Reason for the short remaining-life assessment disclosed and consequential"; C4: "Reason for the short pre-sale remaining life disclosed"): **NOT ANSWERED**. The cause of death at about fifty is never given. Miyagi's Ch05 accident (Ch05 P0056), which Ch14 adopts as fate (Ch14 P0174), maims rather than kills.
-- **F-U03-C3** ("His 'machine-like' verdict on Miyagi is revised"): **NOT MET as worded**. No explicit revision; the counterevidence is overwhelming.
+- **F-U03-C3** ("His 'machine-like' verdict on Miyagi is revised"): **CONFIRMED in part**, as adjudicated at U08 (the origin of her coldness revised, not its existence; 機械 never retracted); closed. The later counterevidence is overwhelming, but no explicit revision follows.
 - **F-U04-C5** ("Drinking recurs, with at least one more episode of excess"): **NOT MET** beyond U06's partial.
 - **F-U05-C2** ("The distance rule becomes operative in an outing"): **NOT MET**; the rule was a lie by her testimony (Ch12 P0193).
 - **F-U05-C5** (Himeno's forecast suicide in light of "can never happen" raised): **NOT MET**.
