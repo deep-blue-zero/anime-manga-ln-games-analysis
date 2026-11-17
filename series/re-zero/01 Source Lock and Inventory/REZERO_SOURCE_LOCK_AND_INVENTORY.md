@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.58
+generation: V0.59
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 
 V25 remains the last integrated numbered source through PR #498, with 777 narrative claims. E046 survives displacement and ends on an unnamed plain with awake Rem and physical Louis. The working derivation retains 45 Subaru deaths and 46 reached segments. SOURCE_COUNT_TENSION remains open for the seventeenth reunion, fifteen additional deaths, twenty-two post-loss deaths and total forty.
 
-Arc 6 full publication and integration is CLOSED. CI merged the exact final source bd78aaa984f47306f2da733c035de53e45431514 at b0d1294fa93ff1aa0b2df0e03de16db3a7d45106. Later native verification at 2026-11-17T05:51:45.064184+00:00 confirmed the same project tree on verified main 1659818b852648bdfa7718154049877130c981eb. [PR #501](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/501)
+Subaru’s V01–V25 full publication and integration gate is CLOSED. CI integrated 4d38b35183959bdcc5cf312d27b47f1565aa4562 at bbaa97ab25f876643cd1afc1f24ccab3d375f460. Exact main 3b79017dae5f077f802db05b3f406d00ba838c25 retained Re:Zero tree 83df9960cff2fca2f760c662e8513166cd7ee73d. [PR #622](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/622) Arc 6 was previously integrated through PR #501.
 
-V25 is the last fully consumed original. The latest derived operation uses targeted original reinspection and independently checked Japanese passages through V25. See actual coverage in the [Subaru review](../08%20Audits%20and%20Manifests/REZERO_NATSUKI_SUBARU_V01_V25_FIDELITY_REVIEW.md). Japanese V01–V43 admission, the bounded V41 exception and dated V44/V45 acquisition gaps retain their source-inventory routes.
+V25 is the last fully consumed original. The Ram operation reopens selected already admitted passages. Its direct Japanese coverage, illustrated position and independent participation are recorded in the [Ram review](../08%20Audits%20and%20Manifests/REZERO_RAM_V01_V25_FIDELITY_REVIEW.md). V01–V43 admission, the V41 exception and the V44/V45 acquisition boundary remain governed here.
 
 The eight whole V19–V26 prospective bodies retain their literal form. V26 remains unopened with 60 questions and 10 forecasts sealed at 2026-11-07T14:56:58.822051Z. Its 24,594 UTF-8 bytes have SHA-256 93182f2f64194318c47afdb236abbb193eeac552a05fdc0619bd37d52b827bc1.
 
@@ -1347,4 +1347,18 @@ The Arc06 checkpoint implements the earned five-volume consolidation. The seven 
 Close ARC_06_FULL_PUBLICATION_INTEGRATION_GATE. Then execute SUBARU_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, RAM_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, JULIUS_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW, each with its own complete publication/integration gate before the next. Open sealed V26 afterward. Continue after every raised PR through admitted V43 and the mandatory terminal architecture, state, role-gap and acquisition review. CI owns merges.
 
 [Exact contributing originals and bounded evidence](../02%20Sequential%20Readings/REZERO_ARC_06_CHECKPOINT.md#0-boundary-sources-and-actual-evidence).
+``````````
+
+### Ram V01–V25 transaction — exact entering fragments
+
+#### Entering fragment 1
+
+``````````markdown
+Arc 6 full publication and integration is CLOSED. CI merged the exact final source bd78aaa984f47306f2da733c035de53e45431514 at b0d1294fa93ff1aa0b2df0e03de16db3a7d45106. Later native verification at 2026-11-17T05:51:45.064184+00:00 confirmed the same project tree on verified main 1659818b852648bdfa7718154049877130c981eb. [PR #501](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/501)
+``````````
+
+#### Entering fragment 2
+
+``````````markdown
+V25 is the last fully consumed original. The latest derived operation uses targeted original reinspection and independently checked Japanese passages through V25. See actual coverage in the [Subaru review](../08%20Audits%20and%20Manifests/REZERO_NATSUKI_SUBARU_V01_V25_FIDELITY_REVIEW.md). Japanese V01–V43 admission, the bounded V41 exception and dated V44/V45 acquisition gaps retain their source-inventory routes.
 ``````````
