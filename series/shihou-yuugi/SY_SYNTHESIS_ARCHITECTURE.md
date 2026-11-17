@@ -4,7 +4,7 @@ series: shihou-yuugi
 artifact_id: SY_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: SY-G1
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_scope: "INITIAL work-qualified anthology architecture and derived-use contract"
 source_boundary: "One Japanese four-story anthology EPUB, metadata verified; all story narratives unadmitted and uninspected"
@@ -73,13 +73,21 @@ The witness's narrative, covers, story title pages, notes, jokes and other extra
 
 Story-local findings remain locally scoped even when collection synthesis later cites them. A comparison requires evidence on both sides, a stated common axis and significant differences/counterexamples; a list of repeated objects is not yet an argument.
 
+### Standing team for one authorized story
+
+Before opening the mapped story, the principal assigns its work key, exact permitted image span and disclosure boundary. Verify that each reader can retrieve and inspect the assigned original Japanese pages at legible scale. The principal follows the entire admitted story in order, including silent pages, and owns its reading, exit freeze and synchronized work-local state. Each participant records actual exposure. Keep other stories and later same-title works outside the assignment and freeze prospective judgments before a revealing page or spread.
+
+A specialist in a separate context inspects selected full pages and facing-page arrangements before receiving the principal’s interpretation. Trace how the sequence attributes a reaction or withholds an identity. Use the balloon, thought, caption or drawn expression and its work-qualified L1 locator where Japanese attribution or a character’s alternatives change the reading. A distinct reviewer directly inspects decisive pages and counterexamples, preferably before seeing the draft. Check whether the page turn was actually visible, the claimed speaker or recipient is supported, and an inferred motive or movement exceeds the depicted evidence. Give ordinary interactions and supporting figures the same chance to challenge the argument.
+
+In the story reading’s closure record the principal retains each assignment, inspected span, material located finding, alternative, critical challenge, and the reason for adopting, qualifying, rejecting or leaving the finding open. Preserve unresolved evidence and any resulting work-local state or claim revision under its established ID. The principal reconciles and writes the shared ledgers. Select the source roles’ reasoning independently from section 9’s substantive-reading class. A one-shot’s label alone cannot justify fewer roles. Only an unusually bounded case can combine specialist and review in a separate context, with a recorded reason and actual source checks for both duties under [topology section 4.1](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading). Where legible evidence or independent participation is unavailable, record the blocker at the entrypoint and hold acceptance and boundary advance.
+
 ## 5. Full prose and earned specialist work
 
 Each story reading explains how actions, knowledge, relationships, language and form produce the story's effects. The collection synthesis then asks which comparisons illuminate those local arguments and which erase relevant differences. It may reject an initially attractive unifying thesis.
 
-A separate monograph or relationship study is earned by a distinct question requiring sustained evidence beyond the story reading. A short story may warrant a bounded character case without supporting a broad behavioral model. Do not multiply small casts into empty dossiers. A specialist on a formal or thematic dimension becomes necessary when the role-gap review shows the collection account cannot responsibly absorb its independent argument.
+By character/specialist readiness, assess every work-local person for whom the admitted pages supply a differentiated portrait, even within one concentrated sequence. The story evidence ledger records work-qualified identity, assessment boundary, decision, reasons and gaps, next review trigger and actual monograph path when available. Complete qualified portraits under [initiation section 5.5.1](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard), including separate self-containment and source-fidelity review. Reassess material changes and identify outstanding portraits at collection readiness and release. A relationship study is earned by a distinct directed question requiring sustained evidence. A short story may warrant a bounded character case without supporting a broad behavioral model. Do not multiply small casts into empty dossiers. A specialist on a formal or thematic dimension becomes necessary when the role-gap review shows the collection account cannot responsibly absorb its independent argument.
 
-If no independent specialists are needed, identify the substantive sections in accepted story readings or integrated synthesis that carry those responsibilities. No file-count quota applies. The duty is analytical completeness, not a directory shape.
+If no independent retrospective studies are needed, identify the substantive sections in accepted story readings or integrated synthesis that carry those responsibilities. No file-count quota applies. The duty is analytical completeness, not a directory shape.
 
 Major arguments must retain inferential warrants, representative precise evidence, significant counterexamples, alternatives, temporal distinctions and limits. Use names once source-established, not archetypes as habitual substitutes. No universal word cap governs mature prose. A collection of abstracts, a neat matrix or a high row count cannot substitute for causal interpretation.
 
@@ -133,6 +141,7 @@ Current method/architecture, entry and current indexes are mutable by targeted e
 |---|---|---|
 | 1.0 | 2026-11-07 | INITIAL four-work anthology foundation; no narrative findings or run approval |
 | 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the method for future story readings; work-local cast and ending scope, full analytical duties and CLOSED authorization boundary retained |
+| 1.2 | 2026-11-17 | Added independent story reading and review, reconciliation in the story closeout, and work-local portrait qualification. |
 
 ## 9. Execution and handoff
 

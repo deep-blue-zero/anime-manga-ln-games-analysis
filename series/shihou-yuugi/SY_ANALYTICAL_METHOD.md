@@ -4,7 +4,7 @@ series: shihou-yuugi
 artifact_id: SY_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: SY-G1
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_scope: "INITIAL story-local manga procedure; no narrative findings"
 source_boundary: "One Japanese four-story anthology EPUB, metadata verified; all story narratives unadmitted and uninspected"
@@ -66,6 +66,8 @@ Claims use stable work-qualified IDs and full reading anchors. Preserve material
 A future `readings/SY_<WORKKEY>_DEEP_READING.md` has `artifact_type: deep_reading` only under an authorized run. It includes witness/admission/coverage; exposure and entering state; governing and rival theses; full movement-level causal prose; story-local people and directed relationships; ordinary and Japanese expression evidence; page form; counterreadings; revisions/questions; exact ledger-update manifest; exit uncertainty and completion decision.
 
 The reading must be substantial enough to preserve explanatory mechanisms and ambiguity. A plot summary, motif list or completed ledger is not a substitute. No universal word ceiling applies. Update work/source coverage, story-local evidence and claims atomically; a justified no-change statement belongs in the reading rather than filler rows.
+
+Record the principal, independent page reader and reviewer, work-specific exposure and inspection, and each material finding, rival, L1 route and disposition in the existing story closeout under the [standing configuration](SY_SYNTHESIS_ARCHITECTURE.md#standing-team-for-one-authorized-story). Preserve unresolved issues, affected claims and the owner of any remaining required evidence.
 
 Before acceptance use handoff §15.6: sample opening, substantial middle, conclusion and material relationships for identifiable people, correct agency/attribution, purposeful roles and preserved concealment. Record findings as justified role, source anonymity, knowledge-boundary need or defects requiring correction. Passing syntax checks does not prove analytical fidelity.
 
