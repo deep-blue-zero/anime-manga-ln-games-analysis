@@ -567,7 +567,7 @@ Recorded assessments of subjects in the `re-zero` namespace of the [Character Re
 
 #### Assessment `re-zero-ram-ln-v01-v15-model-20261029-01`
 
-- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Recorded status: `STALE` — historical record; not current readiness
 - Entity: `re-zero:ram`
 - Scope: continuity `re-zero-main-light-novels`
 - Source boundary: Two curated reviewed items on re-zero:ram@light-novel at basis\_commit, both read in full: \#character-model, the canonical generation V1.0 Ram V01-V15 source-bounded model of the already-consumed original-Japanese main light novels, which declares thirty-nine bounded reread windows \(128,450 characters\) rather than fifteen whole rereads, keeps represented childhood separately attributed and preserves an open seven-year/nine-year chronology tension; and \#estate-story-checkpoint, the frozen V02-V03 estate-story synthesis, whose section 5 treats Ram's and Rem's history, divergence and differentiated loyalty. The curated \#master-longitudinal-ledger was not read and is not cited. The project's current-state entrypoint was read for method, gate and horizon only. The frozen volume readings, the five specialist ledgers, the source lock, the reconstruction protocol, the separate Ram fidelity review and the Japanese EPUBs are not curated evidence here and nothing is borrowed from them; V16 and later, IF, web-novel, supplement and adaptation material is excluded.
@@ -575,7 +575,7 @@ Recorded assessments of subjects in the `re-zero` namespace of the [Character Re
 - Basis commit: `057a9b65f94da293f9eda5a5cefd11568839a094`
 - Evidence set: `CHARACTER_EVIDENCE_SET_V1` `3f3ba9a8c5c20e01ef2a3c7a2625ab2f5abae24d13aeff50fd4a64220ec3ac35`
 - Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
-- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Overall tier: historical `C` — specialist-supported interpretation without unconstrained simulation support
 - Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
   - `DIALOGUE` condition: A phase, event, knowledge state, remembered history, recipient, role and stress/resource state are selected under section 2; without a selection the living V15 party default applies, and a dead or unconscious selection yields no dialogue.
   - `DIALOGUE` condition: Output reproduces the recipient- and act-conditioned strategies of section 9 in paraphrase; exact Japanese is cited only from a located passage and any new wording is labeled NONCANONICAL\_PROBE.
@@ -616,6 +616,7 @@ Recorded assessments of subjects in the `re-zero` namespace of the [Character Re
 - Evidence at basis commit:
   - [`re-zero:ram@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/057a9b65f94da293f9eda5a5cefd11568839a094/series/re-zero/05%20Character%20Analysis/REZERO_RAM_V01_V15_CHARACTER_MODEL.md)
   - [`re-zero:ram@light-novel#estate-story-checkpoint`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/057a9b65f94da293f9eda5a5cefd11568839a094/series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
+- Stale reason: reconstruction\_status.py currentness at main 086219b8dbe1864193b68e567191e36bad7b2afb reports EFFECTIVELY\_STALE with reasons EVIDENCE\_MEMBERSHIP\_CHANGED and SUBJECT\_COVERAGE\_CHANGED. Discovery PR \#626 \(commit 7169f618\) added reviewed evidence re-zero:ram@light-novel\#v01-v25-character-model \(05 Character Analysis/REZERO\_RAM\_V01\_V25\_CHARACTER\_MODEL.md, canonical generation V1.0\) and its V01-V25 coverage entry to the row after PR \#625 merged that successor model. The cited \#character-model and \#estate-story-checkpoint items are unchanged, but this assessment no longer covers the subject's reviewed evidence set or coverage. A reassessment at a newer basis is required before any assessment of this subject applies.
 
 ### Subject `re-zero:reala-thompson@light-novel`
 
