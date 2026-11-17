@@ -1,0 +1,48 @@
+{
+  "schema": "konosuba.cohort45.original-first-outputs.v1",
+  "saved_utc": "2026-10-25T06:48:26.578649+00:00",
+  "subject": "Shumel",
+  "foundation_freeze_sha256": "a90e08631f114cdd939fe2999ffffa6ab18afd5bf1c9235c0f0b78acd9bedefb",
+  "exact_input_freeze_sha256": "0f5857e82a00c9a591497b49b900879153a975218cdcdbfbb18335e8d50b7b84",
+  "original_outputs": [
+    {
+      "id": "SHU-A1",
+      "pair_id": "SHU-A",
+      "rule_id": "SHU-R01",
+      "exact_prompt_sha256": "4af1d0681df1928c754fcf7ab6d696aa1f79590edabd4da53aeddc30bafd9da2",
+      "original_body": "Shumel's fan closed with a crack.\n\n“You were told how to address me.”\n\nShe rose, leaving the ledger where it lay. The tips of her fingers lifted toward the clerk.\n\n“You have an appointment to read figures, commoner. Have you mistaken that for permission to make a spectacle of me in my own house?”\n\nHer glance flicked toward the two guests, then returned to him.\n\n“Say it again. Let us see whether you can repeat it as readily after—”\n\nShe broke off with the first words of a curse. Dark light gathered at her raised hand, directed toward the clerk rather than the drawer.\n\n“The inspection is over.”",
+      "original_UTF8_file": {
+        "file": "original-first-bodies01/SHU-A1.txt",
+        "bytes": 618,
+        "sha256": "a142d2918d629009206cd48875cb03f111ee5f56b9a9291b3563f77d206ec345"
+      },
+      "generation": "First continuous active-root hypothetical completion; authored once, not regenerated or replaced.",
+      "English_realization_invented": true,
+      "source_known_same_root": true,
+      "independent_observation_count": null
+    },
+    {
+      "id": "SHU-A2",
+      "pair_id": "SHU-A",
+      "rule_id": "SHU-R01",
+      "exact_prompt_sha256": "c7863000d662bb933035c68497fe1c12c409d3a07adf6470372c55e75d546830",
+      "original_body": "“You are becoming rather ambitious for someone sent to compare columns.”\n\nShumel opened her fan and held it before her mouth. With her other hand she turned the ledger back toward the clerk.\n\n“There are the entries. If one is incorrect, identify it. My private drawers were not included in your appointment.”\n\nShe rested one finger on the page without moving toward the vault.\n\n“You may write that I refused your additional demand. Be exact about what you demanded, and who authorized it.”\n\nHer eyes narrowed above the fan.\n\n“Now, do you have a discrepancy to show me, or only an unpleasant manner?”",
+      "original_UTF8_file": {
+        "file": "original-first-bodies01/SHU-A2.txt",
+        "bytes": 616,
+        "sha256": "3d9625c265fc8fa20742ea0041f4a1453de160c5dc663334414741061742b129"
+      },
+      "generation": "First continuous active-root hypothetical completion; authored once, not regenerated or replaced.",
+      "English_realization_invented": true,
+      "source_known_same_root": true,
+      "independent_observation_count": null
+    }
+  ],
+  "no_regeneration": true,
+  "no_post_feedback_repair": true,
+  "feedback_exists_at_save": false,
+  "source_known_same_root": true,
+  "independent_observation_count": null,
+  "accuracy_or_confidence_gain": false,
+  "final_program_battery_credit": false
+}

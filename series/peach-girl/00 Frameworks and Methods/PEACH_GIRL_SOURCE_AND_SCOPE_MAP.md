@@ -5,14 +5,14 @@ artifact_type: source_scope_map
 series: "Peach Girl / ピーチガール"
 series_id: peach-girl
 generation: PEACH_GIRL_BOOTSTRAP_V1
-version: "0.1"
+version: "0.5"
 status: active_provisional
 scope: "Sanitized witness identities, preliminary provenance, structural reconnaissance and admission gaps"
-source_boundary: "Original Japanese 新装版 V01–V18 candidate inventory; V01 packaging inspected; no narrative admission"
+source_boundary: "Original Japanese 新装版 V01–V18 completed;freshG6 hashes/CRC/OPF/RTL/allimagechecks PASS;composite inherited-audited/newdirect provenance"
 canonical_home: series/peach-girl/00 Frameworks and Methods/PEACH_GIRL_SOURCE_AND_SCOPE_MAP.md
 created: "2026-10-16"
 observed_at_utc: "2026-10-16"
-review_status: OWNER_BOOTSTRAP_AUDIT_PENDING
+review_status: SECOND_PASS_SOURCE_INTEGRITY_VERIFIED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -61,23 +61,23 @@ Source keys are `PG-JP-NE-VNN-W01`; this is an edition-specific inventory identi
 | Source key | Drive object ID | Bytes | Manifest SHA-256 | Reported spine images | Current verification |
 | --- | --- | ---: | --- | ---: | --- |
 | PG-JP-NE-V01-W01 | `1oEdegOleO9oHdqVViFJQ6Vk_5wW0kvRk` | 98471638 | `25fff75c79fa8475afe35b817418ea76c27092f80343a83729a3ef65819d78ea` | 187 | BYTES_AND_PACKAGE_VERIFIED |
-| PG-JP-NE-V02-W01 | `1-3q4yqfW-qI-9ovcdlyNaYUcEu-SyBFx` | 101616697 | `c79174f8791e8bbc41cde944344d258369ac4bc7f23d39972a2dccf2b40e73f0` | 175 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V03-W01 | `1ij9gbkFoklZTB4_ZAu3zr7etZIWOeH2d` | 99813938 | `9086a57ecdd13f9d601fc7558787f14f7c13356d52de716c15962f5536838cdf` | 183 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V04-W01 | `1AgAnqAR7Va8GqfU5bVtexSaUh-r6zUsn` | 86369890 | `84899238f7fbc0858ccabad7a5bdddfbdfba860ab75b143d268aa39c4a1bba43` | 179 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V05-W01 | `16SZN77M12VyU2SyomngwkLnZAylL71s7` | 88975596 | `66205a1bfc3903f356fa0df36cdfb2707106fc7e7e423fee81d45b17555f12ad` | 181 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V06-W01 | `1dWf0AjMEdgcHqzEdSMXPdCAk2YcPqTiC` | 88959368 | `b7a84c4ac1445af67666f552cb30f49c7b362e21abda404dc51a8fa577a154eb` | 175 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V07-W01 | `1ycdZzPU3RUlOxTKNXWbzfsPIMjxxMLqH` | 94777974 | `afe975190a1d5a7a8b606de1cb83ad4d10206bb7acdea2fe4412f34e021c7724` | 183 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V08-W01 | `12Jl-GFVzm-yYMPToFzJWzJKFWTw8C_gj` | 80842608 | `20103e40f320257760a0d3014e02f2e2162ca44e0e081bf2e006ebde452ccf5e` | 177 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V09-W01 | `1Iybn-Z9lvQbjyegripSC3vPg7xhVCFq5` | 84679968 | `6131b243dc9b586567b2b899aad0cfdc2c70724e3e21c8e4d2cc614bb7fbae7e` | 175 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V10-W01 | `1-4WKChuDhom5dm8sVOSUGx49H9CAiUQC` | 87791228 | `ef55cdbd83dd604b833ff7c8f26e6d778609f022f9ab6dd7d48125a7b3ee4d88` | 179 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V11-W01 | `1CeTLy9KX3wiB-ZfmSHjCYTZRepyFbdC1` | 86855316 | `95f066f1958c95c41a4aff74ca504760111ec363ec59c6d2c9f4480bb2b86d8c` | 175 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V12-W01 | `1dUdyqIwbcY5WmJF_I8q5EXDvICcelpC-` | 98616828 | `0309a8bc68b0db42555a00444d3140e2b9c133483e8a367d33ef6b5b30506238` | 177 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V13-W01 | `1be4xH4q5qiC_ZMuDZyl18ah-exZU_fLj` | 84591252 | `78878d47d8d0e4d900ab35825cfa8a843fdc6e34187c99e8bbfc4e9bc55405e9` | 171 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V14-W01 | `1xFJti84nqmuCtuNys-JFWHPrs_Ne5ZFy` | 91533584 | `36952289f8ea23fb71ec0ce777e057057ada4835baab14294f28ca9603259c16` | 175 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V15-W01 | `1B0sO1qGJyWMRePYraosMGHBQqXotm_-p` | 93922336 | `24b4f17f77fad3e125786cdbde460bc37f72c085dd5d2b1d6c4ea6a44fab4714` | 175 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V16-W01 | `1dnLe89Lk3GE745l5szeviRlOitE28y4l` | 85468879 | `0160eb9af93379a42e1fe7da7c2419c7358163ccb683cbe5a09fed598383ee3d` | 171 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V17-W01 | `1qtNqAKN9Q6b7i56R1O_qA4Tj6GpliMMn` | 94041107 | `5213feb9f62724cfe80cc8139aa407e6a4c0349a1b163cebc96d42aa09a36bc1` | 173 | METADATA_RECONCILED_ONLY |
-| PG-JP-NE-V18-W01 | `1j_jgkUFoTOVEc3-nL-84ipGDkXlDDN9F` | 99357571 | `00222d219ee6b844207ac825a194397057c51ba51b2471d762e8c87f8b0af720` | 187 | METADATA_RECONCILED_ONLY |
+| PG-JP-NE-V02-W01 | `1-3q4yqfW-qI-9ovcdlyNaYUcEu-SyBFx` | 101616697 | `c79174f8791e8bbc41cde944344d258369ac4bc7f23d39972a2dccf2b40e73f0` | 175 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V03-W01 | `1ij9gbkFoklZTB4_ZAu3zr7etZIWOeH2d` | 99813938 | `9086a57ecdd13f9d601fc7558787f14f7c13356d52de716c15962f5536838cdf` | 183 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V04-W01 | `1AgAnqAR7Va8GqfU5bVtexSaUh-r6zUsn` | 86369890 | `84899238f7fbc0858ccabad7a5bdddfbdfba860ab75b143d268aa39c4a1bba43` | 179 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V05-W01 | `16SZN77M12VyU2SyomngwkLnZAylL71s7` | 88975596 | `66205a1bfc3903f356fa0df36cdfb2707106fc7e7e423fee81d45b17555f12ad` | 181 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V06-W01 | `1dWf0AjMEdgcHqzEdSMXPdCAk2YcPqTiC` | 88959368 | `b7a84c4ac1445af67666f552cb30f49c7b362e21abda404dc51a8fa577a154eb` | 175 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V07-W01 | `1ycdZzPU3RUlOxTKNXWbzfsPIMjxxMLqH` | 94777974 | `afe975190a1d5a7a8b606de1cb83ad4d10206bb7acdea2fe4412f34e021c7724` | 183 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V08-W01 | `12Jl-GFVzm-yYMPToFzJWzJKFWTw8C_gj` | 80842608 | `20103e40f320257760a0d3014e02f2e2162ca44e0e081bf2e006ebde452ccf5e` | 177 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V09-W01 | `1Iybn-Z9lvQbjyegripSC3vPg7xhVCFq5` | 84679968 | `6131b243dc9b586567b2b899aad0cfdc2c70724e3e21c8e4d2cc614bb7fbae7e` | 175 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V10-W01 | `1-4WKChuDhom5dm8sVOSUGx49H9CAiUQC` | 87791228 | `ef55cdbd83dd604b833ff7c8f26e6d778609f022f9ab6dd7d48125a7b3ee4d88` | 179 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V11-W01 | `1CeTLy9KX3wiB-ZfmSHjCYTZRepyFbdC1` | 86855316 | `95f066f1958c95c41a4aff74ca504760111ec363ec59c6d2c9f4480bb2b86d8c` | 175 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V12-W01 | `1dUdyqIwbcY5WmJF_I8q5EXDvICcelpC-` | 98616828 | `0309a8bc68b0db42555a00444d3140e2b9c133483e8a367d33ef6b5b30506238` | 177 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V13-W01 | `1be4xH4q5qiC_ZMuDZyl18ah-exZU_fLj` | 84591252 | `78878d47d8d0e4d900ab35825cfa8a843fdc6e34187c99e8bbfc4e9bc55405e9` | 171 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V14-W01 | `1xFJti84nqmuCtuNys-JFWHPrs_Ne5ZFy` | 91533584 | `36952289f8ea23fb71ec0ce777e057057ada4835baab14294f28ca9603259c16` | 175 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V15-W01 | `1B0sO1qGJyWMRePYraosMGHBQqXotm_-p` | 93922336 | `24b4f17f77fad3e125786cdbde460bc37f72c085dd5d2b1d6c4ea6a44fab4714` | 175 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V16-W01 | `1dnLe89Lk3GE745l5szeviRlOitE28y4l` | 85468879 | `0160eb9af93379a42e1fe7da7c2419c7358163ccb683cbe5a09fed598383ee3d` | 171 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V17-W01 | `1qtNqAKN9Q6b7i56R1O_qA4Tj6GpliMMn` | 94041107 | `5213feb9f62724cfe80cc8139aa407e6a4c0349a1b163cebc96d42aa09a36bc1` | 173 | BYTES_AND_PACKAGE_VERIFIED |
+| PG-JP-NE-V18-W01 | `1j_jgkUFoTOVEc3-nL-84ipGDkXlDDN9F` | 99357571 | `00222d219ee6b844207ac825a194397057c51ba51b2471d762e8c87f8b0af720` | 187 | BYTES_AND_PACKAGE_VERIFIED |
 
 Every witness has `narrative_admission: NOT_ADMITTED`, `narrative_inspection: NOT_STARTED`, `sequential_completion: NOT_STARTED`. There are no missing numbered volumes in the observed V01–V18 metadata set. That is not a claim that every chapter/page/component is intact, legible, correctly identified or already available to a future execution. No PDF, CBZ, separate booklet, sequel or adaptation file was observed in this folder. Embedded supplements remain unverified, not absent.
 
@@ -101,4 +101,55 @@ Required before the first narrative transaction: approve the proposed original-m
 
 Related manga, adaptations, novelizations, creator/editorial supplements and reception need separate provenance, continuity, spoiler/disclosure placement and owner admission. Prefer assessing later supplements after the original-mainline freeze unless a bounded earlier admission is explicitly approved. Do not backdate their information. No acquisition of missing franchise material or Drive reorganization is authorized by this map.
 
-Revision history: 0.1 — metadata/provenance reconciliation plus V01 byte/container probe; zero narrative inspection, 2026-10-16 UTC.
+## Full witness acquisition and package verification (execution run, 2026-10-16)
+
+Under the owner's execution authorization (see the [initiation record](../07%20Audits%20and%20Handoffs/PEACH_GIRL_EXECUTION_AUTHORIZATION_AND_INITIATION_RECORD.md)), all 18 EPUBs were retrieved read-only from their Drive objects above. The connector's 10 MB download ceiling was bypassed through owner-enabled temporary link-sharing over HTTPS; no Drive object was modified. Results, per witness: byte length and SHA-256 equal the table above; ZIP CRC check clean; OPF title `ピーチガール　新装版（N）` with matching N, creator 上田美和, publisher 講談社, language ja; `rtl`, `pre-paginated`, `landscape` spreads; spine counts equal the reported counts; each spine wrapper references exactly one present image. The verification column is updated to `BYTES_AND_PACKAGE_VERIFIED` on that basis. The two provenance manifests' SHA-256 values match those recorded above; `CALIBRE_IMPORT.md` (3,240 bytes) has SHA-256 `eff1f1317365f18bd72a8e416716171a6f74a88e1290939d664a1b048fcc42f0`.
+
+Every package's navigation holds only 表紙 (twice, → `p-cover`) and 本編 (→ `p-000`), so navigation supplies no chapter segmentation. Wrapper names `p-NNN` are packaging identifiers, not verified printed pages. `iNNNN` counts spine occurrences from `p-cover` = `i0001`. Chapter labels/boundaries, printed pagination and components are established by inspection at each volume's admission and recorded in its reading's source receipt.
+
+Deterministic locator maps (`PG-JP-NE-VNN-W01.locmap.json`, generator `locmap.py` v1) record occurrence, wrapper, `idref`, viewBox and image member with byte length and SHA-256 for every occurrence. They are **locally staged, pending authorized promotion to the Drive evidence plane**; this run is prohibited from Drive writes and does not claim publication. Map checksums are recorded in the run's source manifest. Admission states per witness advance only through each volume's sequential transaction: `BYTES_VERIFIED → PACKAGE_VERIFIED` is now true for all 18. `ADMITTED → INSPECTED → CLOSED` is recorded in each reading and in the entrypoint's high-water mark, not by editing this table at each unit.
+
+Revision history: 0.1 — metadata/provenance reconciliation plus V01 byte/container probe; zero narrative inspection, 2026-10-16 UTC. 0.2 — all 18 witnesses byte/package-verified; locator maps staged locally; zero narrative inspection, 2026-10-16 UTC.
+
+## Recipient clarification (2026-10-19; no historical receipt rewritten)
+
+Earlier bootstrap paragraphs describing all witnesses as unadmitted/uninspected are historical stage statements. Current admission/closure belongs to the entrypoint and per-volume readings, as the execution appendix above provides: recovered Claude V01–V04 have historical closed transactions; the recipient source audit directly sampled 177 images, not four whole volumes. At that pre-V05 audit boundary, V05–V18 narrative inspection was unstarted in this recovery. All 18 owner-local witnesses independently reverified against exact bytes, ZIP/OPF/spine and every image checksum; see the [recovery source verification](../07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_SOURCE_VERIFICATION_20261019.json) and [bounded source audit](../07%20Audits%20and%20Handoffs/PEACH_GIRL_CODEX_V01_V04_SOURCE_AUDIT_20261019.md). Local acquisition was read-only; no fresh Drive metadata or remote checksums are claimed. Complete maps remain local, pending separately authorized evidence-plane promotion. Structural checks do not confer narrative coverage.
+
+V05 closure update, 2026-10-19 owner date: all 181 V05 spine images newly inspected directly in order; 163 mainline images and 18 classified front/interstitial/back images, no skipped occurrence. See V05 reading/PG-FR-V05 for exact component ranges and source receipt. V06–V18 remain narratively unopened by this recipient. Source integrity and local-only evidence-plane limits above remain unchanged; high-water is controlled by the committed entrypoint.
+
+V06 closure update,2026-10-19 owner date: all175 spine images newly inspected directly in order,159 mainline and16 classified front/interstitial/back occurrences, no gap; exact ranges in V06/PG-FR-V06. V07–V18 narratively unopened by this recipient; previous V05-stage unopened statement remains historical. High-water advances only with coherent committed entrypoint; no evidence-plane promotion or source publication.
+
+V07 closure update,2026-10-20 owner date: all183 spine images newly inspected directly in order,166 mainline and17 classified front/interstitial/back occurrences, no gap. Mainline7–91,93–133,135–174; front1–6, white/logo92 and white/circles134, back175–183. Mixed recap7, border/logo49/91/135 and actual scene133 retained. Exact receipt PG-FR-V07; future-looking series promotions seen only as disclosed paratext, not narrative proof. V08–V18 mainline unopened by this recipient. Prior stage statements historical, no source publication/evidence-plane promotion.
+
+V08 closure update,2026-10-20 owner date: all177 spine images directly inspected in order,159 mainline and18 classified front/interstitial/back occurrences, no gap. Mainline7–46,48–86,88–128,130–168; front1–6, posed47 and white/logo87/129, back169–177. Mixedrecap7/colorcall88, symbolic narrative34/actualtree122 and continuing/closing kiss130/168 retained. No Sae observer130 established. Exact receipt PG-FR-V08; publisher future collages disclosed only as paratext, not narrative proof. V09–V18 mainline unopened by this recipient; earlier stage statements historical. No source publication/evidence-plane promotion.
+
+V09 closure update,2026-10-20 owner date:175/175 original Japanese spine images directly inspected in order,160 mainline. Front1–4, main5–44/47–87/88–127/128–166, posed interstitial45–46, back167–175; mixed47/87/127 retained. Four inferred blocks, no formal chapter numbering verified; edition9 colophon2017-03-31, staff2000.11.6 and serialization2000July–Oct distinct story calendar. PG-FR-V09 owns exact narrative exit;169 future collage classified exposure, no later mainline authority. V10–V18 mainline unopened at this frontier, prior stage statements historical. No source/derivative image publication or evidence-plane write.
+
+V10 closure update,2026-10-20 owner date:179/179 original Japanese spine images directly inspected in order,163 mainline. Front1–3; main4–42/45–87/89–130/132–170; posed43–44/88/131; back171–179. Mixed4/132 retained, four inferred blocks/no formal chapters verified. Printed154/156/158 visible; serialization2000Nov–2001Mar/staff2001-03-08 distinct edition10 colophon2017-03-31 and story time. PG-FR-V10 exact exit;172–173 future series collage classified exposure, not later mainline admission. V11–V18 mainline unopened at this frontier; older stage statements historical. No source/derivative image publication or evidence-plane write.
+
+V11 closure update,2026-10-20 owner date:175/175 original Japanese spine images directly inspected in order,159 mainline. Front1–4; main5–44/46–86/88–127/128–165; posed45/87; back166–175. Mixed5/128 and actual decorative embrace31 retained, four inferred blocks/no formal chapter numbers. Printed102/153/serialization2001Apr–Jul notation163 and staff2001-07-05 distinct from edition11 colophon2017-03-31/story date. PG-FR-V11 exit165, future-series collage168–169 disclosed exposure, not later mainline admission. V12–V18 mainline unopened at this frontier; earlier statements historical. No source/images/private paths or evidence-plane writes.
+
+V12 closure update,2026-10-20 owner date:177/177 Japanese spine images directly viewed legibly in order,162 mainline. Front1–4; main5–44/46–85/87–128/129–168; posed45/86; back169–177. Mixed5, full-color actual coda85 and repeated actual dialogue129 retained. Four inferred blocks/no formal chapter labels; printed foliation and serialized2001Aug/Oct/Dec caption168/staff2001-11-07 distinct from edition12 colophon2017-03-31/story time. PG-FR-V12 exit168; future-series promotion171 disclosed exposure, not V13 admission. V13–V18 mainline unopened at this frontier. No source/image/private-path or evidence-plane write.
+
+V13 closure update,2026-10-20 owner date:171/171 Japanese spine images directly viewed legibly in order,157 mainline. Front1–3; main4–82/84–122/124–162; posed83/123; back163–171. Three physical spans, no invented formal chapter headings. Mixed4/large actual reflections retained. Staff2002-04-05 and edition13 colophon2017-03-31 distinct from story time. PG-FR-V13 exit162; promotion164–165 disclosed exposure not V14 mainline admission. V14–V18 mainline unopened at this frontier. No source/image/private path or evidence-plane write.
+
+V14 closure update,2026-10-20 owner date:175/175 Japanese spine images directly viewed legibly in order,159 mainline. Front1–4; main5–44/46–84/86–124/126–166; posed45/85/125; back167–175. Four physical spans, no invented formal chapter headings. Actual color126/large reflections retained. Staff2002-07-30 and edition14 colophon2017-03-31 distinct from story time. PG-FR-V14 exit166; promotion168–169 exposure not V15 mainline admission. V15–V18 mainline unopened. No source/image/private path or evidence-plane write.
+
+V15 closure update,2026-10-20 owner date:175/175 Japanese spine images directly viewed legibly in order,161 mainline. Front1–3; main4–42/44–82/83–123/125–166; posed43/124; back167–175. Actual scene-title83/color reprise123 retained; four physical spans/no invented headings. Staff2002-11-11 and edition colophon2017-03-31 distinct from story log8/30. PG-FR-V15 exit166; promotion169 exposure not V16 admission. V16–V18 mainline unopened. No source/image/private-path or evidence-plane write.
+
+V16 closure update,2026-10-20 owner date:171/171 Japanese spine images directly viewed legibly in order,157 mainline. Front1–3/posed43,83/back163–171 excluded; main4–42/44–82/84–122/123–162. Actual title-scene44/84/123 retained; four physical spans/no invented chapter headings. Staff163 date2002.4.29 as printed, digital colophon171 date2017-03-31; publication not story chronology. PG-FR-V16 exit162; V17–V18 mainline unopened. No source/image/private-path/evidence-plane publication.
+
+V17 closure update,2026-10-20 owner date:173/173 Japanese spine images actually viewed legibly/in order;158main4–42/44–84/86–124/126–164. Excluded15:front1–3/posed43,85,125/back165–173.44 color reprise/83–84 actual/86and126 title-scenes retained. Four physical spans/no invented chapters. Publication163 Bessatsu Friend2003June–September/staff165 date2003.9.1/edition173 date2017-03-31 not story calendar. Bounded V10_33–34 Morika identity recheck/no new M name receipt. PG-FR-V17 exit164; V18 mainline unopened. No source/image/private-path/evidence-plane publication.
+
+V18 closure update2026-10-20:187/187 Japanese spine images directlyviewed/172main5–44/46–85/86–125/127–178. Front1–4/posed45,126/back179–187excluded15;43–44/46/85/125/127actual retained. Fourphysicalspans/noinventedchaptertitles. Publication176 BessatsuFriend2003Oct–Dec/2004Jan/staff179date2003.12.23/edition187date2017-03-31 notstorycalendar. Exactwitness99,357,571bytes/SHA00222d219ee6b844207ac825a194397057c51ba51b2471d762e8c87f8b0af720. PG-FR-V18 exit178explicitoriginalseriesEND. BoundedV15_149–156 andV18_116–117 recheckcorrects priorsexnightinference; historicalfreezeunchanged. Terminalruncompleted/noV19admission; G1/G2nextafterbackup. No source/image/privatepath publication.
+
+G6 source closure2026-10-20: fresh18witness/all3198imagehash checks PASS, [source verification](../07%20Audits%20and%20Handoffs/PEACH_GIRL_G6_SOURCE_VERIFICATION.json). ActualnewCodexfullV05–V18=2474images; inheritedV01–V04documentedfull724images with177distinctrecipientauditsamples. G1/G2inventorybinds18reading/freezes/commits. No sourcebyte/imagepromotion or newfranchisesource. Narrativecompleted/NONE nextcandidate; source-maprevision0.4.
+
+
+## Independent second-pass source/classification qualification — 2026-10-24
+
+All18 exact witness identities above remain unchanged and have been freshly matched by filename, length, SHA-256 and ZIP CRC in the second pass. Actual attributed visual inspection totals3198/3198 originals, with zero mandatory unread/access gaps; the [sanitized source-first receipts](../07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_SOURCE_RECEIPTS_20261023.json) bind the complete per-volume record and distinct readers. The original composite run and dated closure notices above remain historical; this new inspection does not amend original source-admission frontiers or PG-FR bytes.
+
+Two historical component locators require current qualification. In V07, i0091 is blank/logo and i0092 contains mixed phone dialogue; correct mainline spans are i0007–i0090, i0092–i0133, i0135–i0174 (166 occurrences), with narrative-bearing color reprise i0003 counted separately in the second-pass narrative-inclusive167. All183 occurrences were visually inspected. In V11, mixed page-logo content is at i0127, not i0128; both are narrative-bearing, so175 inspected/159 narrative-inclusive/16 other and the inferred block boundary remain unchanged. These qualifications are owned by F0006 and the minor V11 locator section of the [canonical reconciliation](../07%20Audits%20and%20Handoffs/PEACH_GIRL_SECOND_PASS_RECONCILIATION_AND_SUPPLEMENTS_20261024.md). No full image map or source media is added to Git.
+
+The receipt's2921 narrative-inclusive/277 other total includes explicitly classified mixed content, reprises and the opening narrative-adjacent prologue; it is not a silent replacement of the historical narrower mainline classifications. Classification disagreement does not indicate an unread page. Edition/witness identity, original run completed/V18/NONE and franchise exclusions remain unchanged. Revision0.5 records this separately attributed source/classification qualification; it supplies no literary gate or operational-model acceptance.

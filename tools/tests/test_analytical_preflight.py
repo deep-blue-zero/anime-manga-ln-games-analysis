@@ -14,21 +14,35 @@ TOOLS = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(TOOLS))
 from analytical_preflight import ROUTING_OUTPUTS, routing_preflight
 from character_index_core import (
-    RECONSTRUCTION_POLICY_PATH, AuthorityGraph, DomainError, GitSnapshot, SnapshotEntry,
+    LEGACY_RECONSTRUCTION_REGISTRY_PATH, RECONSTRUCTION_INDEX_PAGE_PREFIX, RECONSTRUCTION_INDEX_PATH,
+    RECONSTRUCTION_POLICY_PATH, RECONSTRUCTION_REGISTRY_PREFIX, AuthorityGraph, DomainError,
+    GitSnapshot, SnapshotEntry, is_reconstruction_output, load_reconstruction_policy,
 )
-from generate_character_index import render
+from generate_character_index import render_outputs
 from update_repository_indexes import expected_outputs
 from validate_repository import (
-    RECONSTRUCTION_OUTPUTS, _policy_from_snapshot, _reconstruction_delta_paths,
-    _reconstruction_integration_base, _reconstruction_target_commit, validate_bytes,
+    _policy_from_snapshot, _reconstruction_delta_paths,
+    _reconstruction_integration_base, _reconstruction_target_commit,
+    reconstruction_output_isolation_errors, validate_bytes,
     validate_generated_index, validate_generated_repository_indexes, validate_paths,
-    validate_reconstruction_domain, validate_registered_root_topology, validate_series_registry,
+    validate_registered_root_topology, validate_series_registry,
 )
 
 SOURCE_SHA = "a" * 40
 ENTRYPOINT = "series/example/CURRENT.md"
 DESCRIPTOR = "series/example/.repository/series-registry.json"
-OUTPUT_ISOLATION_ERROR = "reconstruction production outputs must change alone"
+# The synthetic evaluator outputs this fixture models: one subject partition,
+# the root index and the subject's namespace page.
+RECONSTRUCTION_OUTPUTS = frozenset({
+    "characters/reconstruction_capabilities/example/alice@anime.jsonl",
+    RECONSTRUCTION_INDEX_PATH, "characters/reconstruction_index/example.md",
+})
+
+
+def reconstruction_outputs(*snapshots: GitSnapshot) -> set[str]:
+    """Every reconstruction output path present in any of the snapshots, in either layout."""
+
+    return {path for snapshot in snapshots for path in snapshot.entries if is_reconstruction_output(path)}
 
 
 def entry(path: str, data: bytes) -> SnapshotEntry:
@@ -36,8 +50,7 @@ def entry(path: str, data: bytes) -> SnapshotEntry:
 
 
 def fixture(*, new_root: bool = True) -> GitSnapshot:
-    state_path = "governance/AUTHORITY_STATE.yaml"
-    entries = {state_path: entry(state_path, b"state: GIT_ACTIVE_ACCEPTED\n")}
+    entries = {}
     for namespace, schema in (
         ("series", "anime-manga-ln-games-analysis/series-registry/v2"),
         ("studies", "anime-manga-ln-games-analysis/study-registry/v1"),
@@ -57,9 +70,10 @@ def fixture(*, new_root: bool = True) -> GitSnapshot:
     base = GitSnapshot(TOOLS.parent, SOURCE_SHA, entries)
     for path, data in expected_outputs(base).items():
         entries[path] = entry(path, data)
-    entries["characters/registry.jsonl"] = entry("characters/registry.jsonl", b"")
+    # An empty partitioned registry has no partition files.
     entries["CHARACTER_ANALYSIS_INDEX.md"] = entry(
-        "CHARACTER_ANALYSIS_INDEX.md", render([], AuthorityGraph(base)).encode(),
+        "CHARACTER_ANALYSIS_INDEX.md",
+        render_outputs([], AuthorityGraph(base))["CHARACTER_ANALYSIS_INDEX.md"].encode(),
     )
     if new_root:
         entries[ENTRYPOINT] = entry(ENTRYPOINT, (
@@ -104,7 +118,7 @@ def fixture_baseline(
         source.get(RECONSTRUCTION_POLICY_PATH) == published.get(RECONSTRUCTION_POLICY_PATH)
     ):
         entries = dict(projected.entries)
-        for path in RECONSTRUCTION_OUTPUTS:
+        for path in reconstruction_outputs(projected, published):
             restored = published.get(path)
             if restored is None:
                 entries.pop(path, None)
@@ -112,7 +126,7 @@ def fixture_baseline(
                 entries[path] = restored
         projected = GitSnapshot(projected.root, projected.identity, entries)
     changed = sorted(
-        path for path in ROUTING_OUTPUTS | RECONSTRUCTION_OUTPUTS
+        path for path in ROUTING_OUTPUTS | reconstruction_outputs(projected, source)
         if projected.get(path) != source.get(path)
     )
     return projected, changed
@@ -145,7 +159,9 @@ def published_reconstruction(root: Path) -> GitSnapshot:
     """Read the reconstruction policy and outputs at the validator's integration base."""
 
     return GitSnapshot.from_commit(
-        root, reconstruction_base(root), paths=RECONSTRUCTION_OUTPUTS | {RECONSTRUCTION_POLICY_PATH},
+        root, reconstruction_base(root),
+        paths={LEGACY_RECONSTRUCTION_REGISTRY_PATH, RECONSTRUCTION_INDEX_PATH, RECONSTRUCTION_POLICY_PATH},
+        prefixes={RECONSTRUCTION_REGISTRY_PREFIX, RECONSTRUCTION_INDEX_PAGE_PREFIX},
     )
 
 
@@ -245,6 +261,12 @@ class AnalyticalPreflightTests(unittest.TestCase):
         for path in before.keys() - ROUTING_OUTPUTS - RECONSTRUCTION_OUTPUTS:
             self.assertEqual(projected.entries[path], before[path], path)
         self.assertEqual(fixture_baseline(projected, published)[1], [])
+        # A page the branch added under the generated-page prefix is restored too.
+        extra = "characters/reconstruction_index/other.md"
+        source.entries[extra] = entry(extra, b"unpublished page\n")
+        projected, changed = fixture_baseline(source, published)
+        self.assertIn(extra, changed)
+        self.assertNotIn(extra, projected.entries)
 
     def test_fixture_baseline_keeps_outputs_when_the_candidate_amends_policy(self) -> None:
         # A reviewed policy amendment may change the outputs beside other paths.
@@ -280,8 +302,13 @@ class AnalyticalPreflightTests(unittest.TestCase):
             env=environment, capture_output=True, check=True,
         )
 
-    def stage_cli_fixture(self, root: Path, environment: dict[str, str], candidate: GitSnapshot) -> None:
-        """Make the clone's index exactly `candidate`, normalize its baseline, then add the synthetic root."""
+    def stage_cli_fixture(self, root: Path, environment: dict[str, str], candidate: GitSnapshot,
+                          *, pin_main: bool = False) -> None:
+        """Make the clone's index exactly `candidate`, normalize its baseline, then add the synthetic root.
+
+        With `pin_main`, the normalized candidate becomes the clone's main, so
+        the staged delta models a series branch carrying only the synthetic root.
+        """
 
         cloned = GitSnapshot.from_index(root)
         candidate_paths = sorted(
@@ -302,8 +329,9 @@ class AnalyticalPreflightTests(unittest.TestCase):
                 ["git", "-C", str(root), "add", "--", *candidate_paths],
                 env=environment, capture_output=True, check=True,
             )
-        self.assertEqual(GitSnapshot.from_index(root).entries, candidate.entries)
-        baseline, changed = fixture_baseline(GitSnapshot.from_index(root), published_reconstruction(root))
+        staged = GitSnapshot.from_index(root)
+        self.assertEqual(staged.entries, candidate.entries)
+        baseline, changed = fixture_baseline(staged, published_reconstruction(root))
         for path in changed:
             entry = baseline.get(path)
             if entry is None:
@@ -313,6 +341,20 @@ class AnalyticalPreflightTests(unittest.TestCase):
         if changed:
             subprocess.run(
                 ["git", "-C", str(root), "add", "--", *changed],
+                env=environment, capture_output=True, check=True,
+            )
+        if pin_main:
+            identity = dict(
+                environment,
+                GIT_AUTHOR_NAME="deep-blue-zero", GIT_AUTHOR_EMAIL="50891441+peipw@users.noreply.github.com",
+                GIT_COMMITTER_NAME="deep-blue-zero", GIT_COMMITTER_EMAIL="50891441+peipw@users.noreply.github.com",
+            )
+            subprocess.run(
+                ["git", "-C", str(root), "commit", "-q", "--allow-empty", "--no-verify", "-m", "fixture main"],
+                env=identity, capture_output=True, check=True,
+            )
+            subprocess.run(
+                ["git", "-C", str(root), "update-ref", "refs/remotes/origin/main", "HEAD"],
                 env=environment, capture_output=True, check=True,
             )
         source = fixture()
@@ -330,9 +372,9 @@ class AnalyticalPreflightTests(unittest.TestCase):
         self.assertLessEqual({ENTRYPOINT, DESCRIPTOR}, changed)
         self.assertEqual(changed & RECONSTRUCTION_OUTPUTS, set())
         # Only the isolation rule is this fixture's concern: the modelled
-        # published policy need not satisfy an amended gate under test.
-        errors, _notices = validate_reconstruction_domain(root, GitSnapshot.from_index(root), "index", None)
-        self.assertEqual([error for error in errors if OUTPUT_ISOLATION_ERROR in error], [])
+        # published policy need not satisfy an amended gate under test. Apply
+        # the validator's rule to the validator's delta, not the whole domain.
+        self.assertEqual(reconstruction_output_isolation_errors(changed), [])
 
     def test_cli_fixture_does_not_mix_unpublished_reconstruction_outputs(self) -> None:
         base_value = os.environ.get("MANGA_ANIME_TEST_TMP")
@@ -366,10 +408,13 @@ class AnalyticalPreflightTests(unittest.TestCase):
             changed = _reconstruction_delta_paths(root, "index", reconstruction_base(root), None)
             self.assertLessEqual({RECONSTRUCTION_POLICY_PATH, ENTRYPOINT, DESCRIPTOR}, changed)
             staged = GitSnapshot.from_index(root)
-            for path in RECONSTRUCTION_OUTPUTS:
+            for path in reconstruction_outputs(amended, staged):
                 self.assertEqual(staged.get(path), amended.get(path), path)
-            errors, _notices = validate_reconstruction_domain(root, staged, "index", None)
-            self.assertEqual(errors, [])
+            # The amended policy still loads and the validator's rule exempts
+            # this delta. The audit's own validation evaluates the same registry
+            # on the same checkout; repeating that evaluation here adds nothing.
+            self.assertEqual(load_reconstruction_policy(staged)[1], [])
+            self.assertEqual(reconstruction_output_isolation_errors(changed), [])
             # Restaged in the same clone, the evaluator model built from this
             # checkout still isolates its outputs.
             self.stage_cli_fixture(root, environment, evaluator_candidate(amended, published_reconstruction(root)))
@@ -385,7 +430,7 @@ class AnalyticalPreflightTests(unittest.TestCase):
             # A local full gate runs before commit: overlay its exact staged
             # candidate so nested CLIs do not accidentally test the old HEAD.
             self.clone_checkout(root, environment)
-            self.stage_cli_fixture(root, environment, GitSnapshot.from_index(TOOLS.parent))
+            self.stage_cli_fixture(root, environment, GitSnapshot.from_index(TOOLS.parent), pin_main=True)
             command = [
                 sys.executable, str(root / "tools/validate_repository.py"),
                 "--phase", "current", "--snapshot", "index", "--repo", str(root),

@@ -10,6 +10,10 @@ supersedes: []
 superseded_by: []
 ---
 
+**C51 current source qualification:** [the art/reference evidence index](../../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md) governs the later source and identity audit. Earlier dated pending notes and original annotations below retain their historical boundary. No old H/L labels, forecasts or scores are replaced.
+The C51 owner monograph and appended water profiles add proportional individual treatment. The Medusa owner’s final fate remains unshown. The supplier performs Create Water; the woman requests, thanks and explains, while **Aqua** makes donation and curse demands. The original eight current fanbook qualifications remain unchanged, including ticket authenticity versus fabricated deadline, the unperformed Leen proposal and Kazuma kicking Aqua.
+
+
 Accepted 2026-10-18T00:05:03.198219+00:00 from the complete 121-page source-first inspection, all three fiction bodies and both navigation documents, with root's bounded source receiving. The [register](KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json), [receiving](KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_REVIEW.md) and [provenance](KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_AND_PROVENANCE.json) distinguish actual reading, analysis, acceptance and the still-pending containing publication gate. This is expanded evidence, outside the frozen main-only derivation and four-book scorecards.
 
 **Current precision governing the preserved original report below:** the service ticket is genuine, but Kazuma fabricates its same-day expiry label; Vanir's Leen-facing ticket experiment is proposed after Dust's party arrives, with no executed choice/outcome. The [attributable overlay](KONOSUBA_MEMORIAL_FANBOOK_RECEIVING_PRECISION_OVERLAY.md) governs FM-H07 (reported clothing capacity, no new performed-behavior H), FM-V15 (L2 current recommendation/L1 rival, original unsupported L3 preserved), and the timing claims in FM-H14/FM-V11. All24 original selected humor and 23 selected voice records remain unchanged and outside every old census, J02, model and holdout denominator. FM-V05 is a reported Aqua self-quotation inside an editorial dress caption, not a fully staged new Aqua/Kazuma turn; its proverb-specific L3 is defensible with cultural/pragmatic alternatives. S060 Aqua's rank recollection is explicitly hedged before Darkness's correction, not a confident global-ignorance assertion. H3 requires local gag contingency; neither reference status nor uncertainty supplies it. H4 requires comic license, not mere magic.
@@ -167,3 +171,24 @@ The complete inspection supports a whole-edition **reading/viewing scope**, not 
 The companion inventory has 121 ordered page rows joined to native wrapper/image hashes and 21 grouped component dispositions. The acknowledgements include the actual full-page reading statement, source-plane note, uncertainties and after-read UTC for each page. Navigation and technical-resource scope are separately recorded. The initial admission/extraction proof remains unchanged with its pre-view status; the later completion receipt establishes actual reading rather than rewriting that historical proof.
 
 All native images, wrapper extracts and any local provenance paths remain private. This analytical report contains no source images, full prose transcriptions, long extracts or private acquisition paths. Short Japanese forms are used only where the linguistic distinction is material. Canonical files, Git/index, original R1/freeze bytes, source admissions and peer materials were not modified. The initial uncoded seal binds this report, inventory, actual coverage receipt and immutable page acknowledgements before any selected H/L assignment or shared interpretive receiving.
+
+
+## C51 Water supplier and restaurant woman
+
+These two profiles use the complete reprinted *アクアの水商売*, printed108–109, FAN-MEM-S110–S111. The explicit Animate purchase-bonus reprint and Akatsuki byline establish its source role. They do not identify an original distribution date, a precise main-volume day or another independently observed version of the same encounter.
+
+### C51 Water supplier bounded profile
+
+Kazuma sees a middle-aged man in mage clothing respond to a restaurant woman’s water request108/lower tier. The man’s friendly reply includes an offer to show his power, followed by an actual Create Water call and water supplied to the jar. His mild self-display coexists with useful service; it does not negate the help or establish a universal wish for admiration. Exact age, level, current formal class and capacity limits remain unknown.
+
+The woman explains that he abandoned adventuring, retained elementary magic and now supplies drinking water as a hobby109/upper tier. That is her account of his history and motive. Her recurring “water god” nickname and thanks support local recognition, while the displayed exchange supplies one actual instance of useful magic. They are not a roster of independent daily trials, proof of actual divinity or a complete account of his charitable intentions. A former career does not entail lost skill.
+
+Aqua subsequently demands payment and religious donations from him. The man and Aqua begin a roadside money discussion, but no payment, accepted religious obligation or completed curse is shown. A Tier1 profile preserves the observed skill, friendly pride and reported ordinary activity without inventing a broad altruism rule, a personal name or an unlimited water supply.
+
+### C51 Restaurant woman bounded profile
+
+The woman requests water politely, thanks the supplier and uses the familiar honorific “water god”108/lower tier. Asked who he is, she explains his reported former career and hobby, while admitting that she does not know his personal name109/upper tier. Recognition of a useful recurring role and ignorance of the person’s name coexist. The nickname is not an explicit theological judgment that he is a deity.
+
+Her gratitude, practical request and explanation are her own contributions. The later demands for donations belong to Aqua; they are not this woman’s response to a religious dispute. Nor does the source establish that she owns the restaurant, belongs to a particular family or shares an identity with the restaurant daughter in MASK. Similar work supplies no personal join or proof of global disjointness.
+
+Tier1 here means a short, situation-bound profile of her participation and knowledge. The exchange does not support a general psychology, a complete religious position, hospitality outside this setting or a reconstruction generator. Her useful testimony remains attributed rather than becoming direct access to the supplier’s private motives.

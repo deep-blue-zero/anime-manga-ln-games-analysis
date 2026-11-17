@@ -1280,3 +1280,207 @@ MAIN16 onward argument continues after an explicit return request/Yunyun interve
 [cohort23 individual index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) preserves Yuiyui's actual response to the alarm and reported help-seeking without calling it a watched solo rescue or repair of earlier pressure. Failed spells and her own later exhaustion constrain omnipotence; switching means after failure does not establish an ethical veto. Explicit objections, heard restraint and later particular willingness retain their order and subjects.
 
 Pucchin's warnings, grouping instructions, reported cull and effective attack supply real protective conduct. His admitted preference for cool timing also remains; effectiveness and no-injury retrospective appraisal do not certify process safety. Reported reserve odds are not a watched contingency cast, and private sabotage/failure hopes remain Megumin's inference. Concrete support for a practical pupil need is real but narrow and still mocking. Neither a useful result nor later care proves a universal priority, safe deployment, lasting correction or unique need for Kazuma.
+
+
+## Cohort24 — Crimson village work and staff, source-known scope
+
+Chekera alarm and actual freezes interrupt the ceremonial craft encounter, but a revised test still fails and advice remains unverified. Farm near-exhaustion is own report alongside real finite work and paid harvest. These show local urgency/resource management, not a universal ethical veto or competence floor. Diner customers stop attempted casting; Megumin subsequent harmful retaliation remains narrated, with no owner authorization or completed Explosion. A resolved potion misunderstanding is no performed abuse or arson (CC02-CC03,PO02,DI03,FA01-FA03).
+
+Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md). The shared known-source union is 1,149 BASE slots/7 text members/4 text objects, including context, blanks, other actors and rejected joins; no fresh whole-source, ruby, residual, image-set, admission or independent validation credit. Earlier models, scores, firsts and prospective missingness remain unchanged. Canonical receiving is complete for this candidate only; exact containing publication/full program remain pending.
+
+
+## Cohort25 — chief, Sylvia, trial machine and castle courier
+
+Comedic framing preserves forced restraint,credible threats,burning property,actual failed defenses and dangerous injury. Partial consideration toward a captive or companion does not cancel coercion or group extermination threats. Proposed capture for experiments is a threat/proposal,not a completed experiment. A successful final countermeasure,subsequent rebuilding or an institutional kill-card does not morally repair earlier harm. No graphic recapitulation or body-based explanation of villainy is needed.
+
+Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+The enclosed Eris reports heat, and the attempted cooling fails. Protection can therefore create another hazard; an effective defense is not universal safety. Pressure to undress and later suggestive misrepresentation remain unwanted, and no actual undressing is supplied. Yunyun rejects cheating proposals rather than performing them. A useful rescue, overnight protection, later gift or polite address shift does not repair earlier intrusion or coercion (AG26-13–18,22–28,33).
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Beldia actually kills three men and Aqua actually revives them; recovery is not absence of lethal harm. Hans’s poisoning and admitted manager consumption remain serious despite tactical comedy. Serena’s Death kills Kazuma; revival does not excuse it. Her crimes do not eliminate her own objections to unwanted contact or the Axis threats. Threatened sexual violence is not a shown completed rape, and forced conversion is not voluntary repentance. Police pressure and false accusations are attributed to the relevant actor rather than canceling one another. Useful combat, apology, payment, release and celebration are not automatically completed repair (BE27-03–05; HA27-03–08; SE27-03–09, 13; AO27; LO27; DU27).
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+Darkness's self-sacrificial marriage and earlier fantasies do not provide free consent to Alderp. Morning registration is Aqua's report; interrupted ceremony is not certain absence of every legal marriage. Maxwell's preservation promise serves continued torment, not care. Ragcraft's disguise is not Megumin's sexual conduct. K's heard scream does not establish completed assault by the young noble. Aulip's threatened execution/magic differs from watched injury; retainer owns the monetary offer. Actual death/revival in Ignis's operation remains harm despite narrative discount. Comic and serious transfer preserve these planes.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Barton takes a frightened personal risk and objects to harm to Darkness while retaining selective species concern and earlier dangerous judgment. Offered restitution is not paid restitution. Zereschilt's body pain, actual first dagger injury, reactive attack, finite destruction/restoration and forced concessions remain consequential despite costume comedy. Sylphina is still internally ill during the lively pre-remedy greeting; later reported remedy recovery matters. Adult actions in her presence are not her consent.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+Lia actually dies intercepting lightning aimed at Megumin and Aqua actually resurrects her (FD-U016 P350-379); repeated text P390 is not another cast. Barrier exhaustion and limited range remain real. Unwanted contact, coercive recruitment, public destruction and mostly soldier injuries retain costs; the stated absence of resident injuries is not universal harmlessness. Cielo and Erika's care does not erase their explicit override of Lia's refusal. Authorized final-plan assent and contained casting do not prove every exit or permanent death, and donation intent does not authorize shared funds.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Real fictional damage, cost-bearing Core Death Return, coercive recruitment, substituted contact and harmful health doctrine remain consequential inside comic replay. Final house Cover 82 survives without return; Froger defeat is not permanent-death certification and Goran charcoal/dust disappearance is not an independently certified eternal fate. Hanako is actually returned; Momoko fate remains unknown. Heroic/merciful jokes and planned town destruction are not actual acts. A serious transfer retains agency, limits and incomplete repair without importing magic or real-world therapy claims.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+Possession, imposed exposure, threatened erasure, intimidation and costly dependence remain serious inside comic sequences. Rosary limited restraint request is not blanket permission; later useful care does not erase prior violation. The small worker remaining-life offer is not informed acceptance of the full erasure described privately by Vanir. No worker life loss or completed sacrifice is reported. Transfer preserves received knowledge, protest, feasible help and real consequences while using only the destination setting powers.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Actual fear, coercion, property loss, unwanted labor appeals and interrupted companionship remain inside the comedy. Two clothing thefts complete and a third is stopped; no full exposure or justified punishment is inferred. Karen's profit rationale does not authorize violating her agency, and her fear does not acquit the business. The evidence handoff is not a legal verdict. The new threat probes use weaker nonsexual property/face stakes, which cannot be treated as equivalent validation of severe source danger.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 34 individual receiving — 2026-10-24T12:23:53.695527+00:00
+
+Aqua actually punches a fading Lucy; the ghost’s sharp reply does not erase that harm or make it the sole release cause. The Princess experiences threat and actual poisoning; deception does not establish harmlessness, justify every act against her or prove every visitor was killed. Distress and post-poisoning spite constrain a stable-policy account. Zesta’s later sexual-crime proposal remains an unperformed threat with no divine permission inferred. Diagnostic trimming uses milder nonsexual stakes and supplies correspondingly weaker transfer evidence.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+Keith’s and Dust’s taunts are attributed sexual/religious harassment, not verified measures of bodies,faith or moral worth. Reported retaliation, an attempted blow,the actual face punch and Dust’s reported beating remain distinct acts. An improvised undead/dignity justification is not an Eris command or established permission.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+The seller’s reported heroic-recognition and caretaker framing has a real resource consequence: Aqua says she paid all available money. Exploitation is a serious interpretation without verified private knowledge or an invented uniform merchant psychology. Threats to eat or punish and future military instructions do not become completed harm,animal agreement or battlefield action.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+Duke military warning precedes Wiz protective escalation. MAIN15attributes receipt but says Axel was already targeted;Duke is not sole cause. Surrender,renewed ritual,purification and later survival appeal are separate changes. Plant burning is attempted and stopped;food appraisal causes fear without eating. Merchant payment is real,and requesting refund does not fix Megumin paralysis or supply seller acceptance.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort38 Perie and selected Dust06 roles — 2026-10-24T17:10:38.125614+00:00
+
+Perie reported live-capture order precedes her own proposal to kill princess and witnesses. Later immediate retaliation against Dust coexists with intended later attack on Rionor;Dust stays because of that future threat. Actual spear placement and collision yield severe aftermath without an independent final-death check. DUST07wing comparison recalls Perie rather than returning her. The guild force and exposure attempt remain real within comedy;later drinking or enemy status does not retroactively authorize either.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort39 Rouzeri,store owner and helmeted noble — 2026-10-24T19:06:19.622893+00:00
+
+Actual threatened civilian killing,hostile force and dangerous breath/scales persist through humor. Rouzeri defeat lacks a checked final fate. Owner life acknowledgment and store attachment coexist;gift permits use/disposal despite no-return warning. D7officer asks evacuation/reinforcement time without a completed individualized result;ogre bidding outcome is not a witnessed payment or full troop-death check. Noble source violations are retained alongside later useful aid.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort40 Doreck, Gaibil, Bridol king and head butler — 2026-10-24T21:08:27.831290+00:00
+
+Killing prohibition is a contract claim,not demonstrated absence of harm. Gaibil hostage leverage and attacks,Rionor max shock and Dust two-day blackout,confinement and forced training retain seriousness. Father death is reported;missing investigator fate stays unknown. Dragon safe descent is actual care under unconscious riders. King reported lenience and cooling-off travel do not establish completed cure,marriage or permanent exile.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort41 — documentary makers, plants and encounter partners — 2026-10-24T22:38:34.409784+00:00
+
+Coercion of the scientist does not excuse funding concealment,destructive satisfaction or technical danger. His apparent people-escape report is not a complete casualty census. Lake guards wasting,Yunyun forced unconsciousness,plant killing and uncertain prior victim wishes remain. Roadside guide hazard and actual protective hesitation coexist;lethal stroke is not directly depicted. A shouted herbicide request at Primo property is not completed eradication.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+Retain paid kidnapping plan, forced exposure/sexual coercion, feigned hostage with no-touch protest, actual battle and uncertain dream onset. No depicted exact off-page act, physical Leen assault from dream or confirmed contractor death is invented. Seven shocked men later bound do not thereby have medically proved harmless outcomes. Promised dreams, officer threats and old-couple payments/return remain unperformed in current windows.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+Crow’s predatory intentions remain harmful even though Aqua later coerces him. His vegetarian pledge is not fulfilled reform before purification. Pickles’s private wishes and legacy counsel retain invasive implications; Eibram explicitly declines to demand a blow. Rakuresu actually strikes the table after a selective account and separately reports striking an unwanted approacher. Reported bereavement, urgent injury help and actual survival requests must not disappear into the doubles joke.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+The dryad’s human-fertilizer threat and pressure after refusal remain adverse; a usable bargain does not establish harmlessness. The follower’s abduction and actual hostage threats survive the comic reversal, while final Explosion impact and fate are unshown. The mother’s removal of protesting Aqua remains coercive without an invented journey. Fairy wing-broth admission and flight are treated critically without graphic elaboration. Park-men predatory statements are not excused by the narrator’s early reassurance, but no completed offense or diagnosis is invented.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort45 — Yorimichi 3 individuals and supporting roles — 2026-10-25T07:34:24.234913+00:00
+
+Shumel's articulated grievance does not make her attempted dangerous attack harmlessU014370–383; no completed killing is shown. The last-life owner is explicitly a woman/succubusU016330/337/359, distinct from MAIN16 vampire126. Her revised offers332–335 are unperformed; Vanir's responsibility/kin intervention343–350 stops Wiz, followed by actual hospitality359–360. Darkness's chosen participation in a collar sequenceU014575–594 does not authorize later humiliating photographs over objections623–629. Warm belongingU020828–882 does not complete unsigned contracts, apologies, debt repair or proposed outings.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+Angie fear and costly town-protection decisionU018591-604 are meaningful despite ridicule and later collapse; subsequent protection does not erase the preceding bill exploitation or withheld warning. At the coatl battle, Darkness agrees to a paid one-wing requestU020367 before Kazuma forcibly extends it377-390; an extra5000offer is not a witnessed payment. The mask-binding woman is a contributor387-400 whose aid does not authorize every coercive act. Dust being revived477 is not zero actual death. The child Anna and youthful-looking unnamed worker retain nonsexual treatment, with the latter exact age unproved.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+Kazuma's death to the Winter Shogun MAIN02U014213-224 is an actual cost, without a witnessed defeat of the attacker. Castle removal MAIN11U012 is coercive: Kazuma resists, guards restrain him, Claire forces the potion630 and awareness fades631 despite Iris's intervention617. Heidel's earlier service412 does not assign him the restraint or potion. MAIN17 barrier failure155 and users blown away158 preserve material harm without an invented death or escape roster. Aqua's report that the remembered girl had a fracture MAIN01U01341 is neither independent medical testimony nor certified lifesaving by Kazuma.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+Amaryllis stops on Vanir voice320 and changes register321 before his explicit companion disclosure324; apology/explanation follows325. Rank,familiarity,surprise,etiquette and affiliation remain intertwined. The vampire abandons ceremonial intimidation for courtesy and surrender under overwhelming pressure; personal attachment survives in his relief when the offered ring is declined. Stella updates blame and stops with the injured party member while afraid. These local changes do not establish a single universal threshold,altruistic rescue law or generic obedience policy.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+Mammon stops further humiliation334 but retains hostages and armed coercion;earlier hesitation and public rebuke prevent a single-cause moral rule. Pain corrects a friend’s catastrophic strike and requests restraint467 without abandoning hostility493. The king’s rejection of a draw443 changes after visible Explosion446–451;his fear/resource appraisal does not establish general generosity. Claims of fair-duel obligation are contested by his actual return attempts and qualification of the challenger22. All are local changes with competing mechanisms,not new generative rules.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+The butcher changes sanction after Iris intervention while retaining a warning. Eris pair alarm/comfort under feigned distress limits their antagonism without proving permanent repentance. The apple helper's assistance does not negate her later refusal. Hall guards' inhibitions coexist with coercion and armed response; protectors shield the apparent daughter while fleeing bombardment. Situation, information, reputation, role and self-preservation remain competing explanations. No isolated generative switch or universal moral exception is inferred.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C51/C52 — coercion, danger and the limits of comic resolution
+
+**Source class/phase:** admitted artbook/fanbook components and TRPG tutorial/scenario fiction, received retrospectively. [C51](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md) and [C52](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md) own the locators and qualifications. Authored danger can be analyzed without pretending that a real player session occurred.
+
+The fanbook dungeon owner's learning and selective recoil do not make her predatory enterprise harmless. Conversely, participation in the enterprise does not invalidate her later frightened request for escape. The final alarm and magical buildup are shown; the prose story supplies no completed blast, death, rescue or safe retirement. The separate fan-facing comic's blast belongs to that comic and cannot fill this prose ending. No casualty roster is inferred from repeated defender labels or the comic's compression. (FAN-MEM S097–099, printed95–97; C51's separate comic disposition.)
+
+The Core guide explicitly gives the newcomer a dangerous arrival and an interrupted assault intention. Aqua's staged apology changes the newcomer's response, without undoing the unsafe transfer or demonstrating material restitution. The newcomer can forgive this incident without earning a general forgiveness rule. Darkness's interest in the reported beating and the newcomer's polite navigation do not establish permission for another beating. (CORE S252–260.)
+
+In Advanced, Boren confines people after refused recruitment or marriage proposals. The captives' refusal and practical conditions remain meaningful even though the script uses comic villain conventions. His order not to kill the captive party is a selective constraint inside continuing coercion, not evidence of consent or comprehensive mercy. The successful branch does not show a later marriage, forgiveness or reconciliation. The tank's scripted destruction of a town remains source background; its post-device targeting is a functional state transition rather than an ethical punishment of Boren. (ADV S298–310.)
+
+The GM instruction to disclose Forced Defeat in advance is a preparation obligation, not evidence that actual players agreed during this analysis. Optional lifepaths, wishes and role assignments likewise do not supply completed injuries, deaths or private consent. Okina's warnings and future hospitality can coexist with the danger of forgotten traps; compensation and useful help do not remove that danger. The dead pit goblin and the later felled/shrieking goblin have different outcome evidence, with the latter's permanent fate unresolved. (CORE S303–312; ADV S299–302.)
+
+The governing distinction remains information, means, chosen action and consequence. A gag, apology, survival branch, conditional reward or later useful act cannot by itself retroactively authorize an earlier imposition. This appendix adds no new threshold to rescue an adverse historical case and changes no frozen seriousness judgment or validation score.

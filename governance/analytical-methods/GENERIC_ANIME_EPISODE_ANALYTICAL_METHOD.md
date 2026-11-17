@@ -3,13 +3,14 @@ title: Generic Source-Bounded Anime Episode Analytical Method
 artifact_id: GENERIC_ANIME_EPISODE_ANALYTICAL_METHOD
 artifact_type: generic_episode_analytical_method_reference
 artifact_role: reusable_corpus_level_analytical_reference_method
-version: "1.0"
+version: "1.1"
 status: canonical
 scope: source-bounded anime episode analysis and new-project method bootstrap
 authority_scope: this_reusable_reference_only
 adoption: opt_in
 project_local_authority: false
 created: 2026-10-06
+last_updated: 2026-10-24
 maintainer: ChatGPT + user
 source_boundary: "Methodological reference only; no series findings or primary-source evidence"
 do_not_use_as_current_authority: false
@@ -32,6 +33,8 @@ This artifact is a reusable, corpus-level analytical reference for source-bounde
 4. The new project still requires its own synthesis/corpus architecture, with both governing artifacts exposed through its canonical entrypoint before sequential analysis is unlocked under live repository governance.
 5. Mature existing projects remain governed by their current methods and architectures unless an explicit migration is separately authorized; this reference does not authorize changes to existing readings or locks.
 6. Optional analytical modules are activated only when the source earns them.
+
+Under the [medium and inspection-lane routing policy](../source-policies/MANGA_ANIME_MEDIUM_AND_INSPECTION_LANE_ROUTING_POLICY.md), this method is the anime reference for the `BUNDLE_MEDIATED` lane: an analyst reading text and sampled frames, with analysis audio. Its sibling, the [generic continuous-AV method](GENERIC_CONTINUOUS_AUDIOVISUAL_ANALYTICAL_METHOD.md), covers analysts that inspect synchronized video and audio natively, and the [audiovisual reconciliation protocol](../source-policies/MANGA_ANIME_AUDIOVISUAL_RECONCILIATION_PROTOCOL.md) governs how a reading made under this method is tested by continuous review.
 
 The framework standardizes epistemic discipline and analytical responsibilities rather than identical project structures. The episode-output structure below describes those responsibilities when the method is adopted; it does not mandate identical section names, generic ledgers, folders, or a new project. Claim records may use an appropriate existing home or remain within a bounded reading, as the project architecture requires. Blind-analysis and benchmark restrictions govern the analyst's evidence context; they do not bypass project-initiation or publication controls.
 
@@ -919,3 +922,13 @@ These references establish integration boundaries; this method does not duplicat
 - [Execution topology and capability-routing policy](../source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md): actual inspection capabilities, evidence-channel limitations, and stage ownership.
 - [Reasoning and model-routing policy](../source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md): analytical workload classification and current model routing.
 - [Change-integration checklist](../policies/CHANGE_INTEGRATION_CHECKLIST.md): authorized paths, complete-diff review, validation, publication, and exact-head integration verification.
+- [Medium and inspection-lane routing policy](../source-policies/MANGA_ANIME_MEDIUM_AND_INSPECTION_LANE_ROUTING_POLICY.md): inspection lanes, lane claim permissions, and series adoption of continuous audiovisual analysis.
+- [Generic continuous-AV method](GENERIC_CONTINUOUS_AUDIOVISUAL_ANALYTICAL_METHOD.md) and [audiovisual reconciliation protocol](../source-policies/MANGA_ANIME_AUDIOVISUAL_RECONCILIATION_PROTOCOL.md): continuous inspection and the relay that tests a reading made under this method.
+
+---
+
+# Changelog
+
+## v1.1 — 2026-10-24 — Inspection lanes
+
+- Identifies this method as the anime reference for the `BUNDLE_MEDIATED` inspection lane and links its continuous-AV sibling and the reconciliation protocol. The method's analytical content is unchanged.

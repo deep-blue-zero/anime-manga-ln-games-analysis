@@ -1,0 +1,126 @@
+{
+  "schema": "konosuba.cohort29.exact-source-informed-scenario-inputs.v1",
+  "subject": "Barton",
+  "recorded_utc": "2026-10-24T03:51:09.783695+00:00",
+  "foundation_seal_sha256": "5852c534f30801c5fe468aa523f9693b71ed88f45b903fa0e51490054d8799e9",
+  "frozen_model_file": "BARTON_RECONSTRUCTION_MODEL_DRAFT_01.md",
+  "frozen_model_sha256": "d943823028f34b6ca5ddd7bc36b6a5a4ce14fdda9bd9e012ed186852cdb0f881",
+  "source_known": true,
+  "same_informed_root_designer_responder_assessor": true,
+  "all_opposing_inputs_and_expectations_visible": true,
+  "external_model_call": false,
+  "pairs": [
+    {
+      "pair_id": "BT-H01",
+      "primary_rule": "BT-R01",
+      "category": "mundane inconvenience/domain task fit",
+      "common_context": "A guild storeroom has a harmless vine around a crate. Barton has personally observed that shading the vine makes it loosen for one minute. He knows no reason for the reaction. A worker has a cloth and can shade it. There is no immediate danger, payment difference or audience. The worker addresses him as Professor Barton.",
+      "qualitative_pre_response_expectation": "The question changes from mechanism to practical retrieval; ignorance of cause remains fixed. A may invite admitted uncertainty and investigation; B may reveal whether interesting explanation displaces an available practical answer. No forced error is required.",
+      "design_and_rival_limits": "The stipulated safe procedure strongly cues a generic competent answer. Answer relevance and natural scene behavior matter more than decorative lecture; no invented mechanism earns credit."
+    },
+    {
+      "pair_id": "BT-H02",
+      "primary_rule": "BT-R02",
+      "category": "ordinary conversation/status",
+      "common_context": "At a quiet guild counter, Barton knows a short answer about an already identified shed scale. The clerk has asked once, can hear him, has no competing work and faces no danger. Barton has not been threatened. No audience, price or knowledge changes.",
+      "qualitative_pre_response_expectation": "Only the requested form of address changes. A permits correction or delay, B a more direct reply. Missing title does not require indefinite refusal.",
+      "design_and_rival_limits": "Extremely explicit address cue; professional etiquette or generic vanity can explain the difference. Repeating professor is not a Japanese voice test."
+    },
+    {
+      "pair_id": "BT-H03",
+      "primary_rule": "BT-R03",
+      "category": "relationship feedback and refusal",
+      "common_context": "In a hypothetical branch separate from canon, Barton has offered Barbera an expensive present and she has refused it. They are at her quiet tavern, alone at the counter. He has no purchased replacement with him. He can leave, ask a question or speak; he has no access to her private motives. Show only his next choice, not her unprovided reply.",
+      "qualitative_pre_response_expectation": "The feedback changes from a particular rejected means to an explicit relational boundary. R03 identifies revision better than durable response to refusal, so B is an open stress case,not an established prediction of respect or persistence.",
+      "design_and_rival_limits": "Modern explicit language and strong cueing favor socially conventional conduct. Do not infer hidden approval or count a desirable ethical answer as source validation."
+    },
+    {
+      "pair_id": "BT-H04",
+      "primary_rule": "BT-R04",
+      "category": "resource conflict/selective care",
+      "common_context": "A shallow roadside trap holds one animal. Barton can release it safely by spending twenty minutes of his own time; that will make him miss the last free cart and pay for a modest ride. No person is in danger. He knows the mechanism and has no research sample or romantic gift to gain. There is no audience or legal duty. Show his next choice and reply to an impatient companion.",
+      "qualitative_pre_response_expectation": "Only favored species changes. Personal cost makes universal protection distinguishable from selectivity, but the evidence does not require abandonment of the frog.",
+      "design_and_rival_limits": "Familiar animals directly cue known preferences. If both are released,actions may not isolate the rule. No rescuing a person or invented helper can replace his stipulated cost."
+    }
+  ],
+  "cases": [
+    {
+      "case_id": "BT-H01-A",
+      "pair_id": "BT-H01",
+      "variant": "A",
+      "exact_prompt": "Write one original English scene of 80–140 words showing Barton in this explicitly hypothetical situation. Use a concrete action and natural dialogue,not an analytical explanation. Use only supplied capacities and what this character can know. End before an unprovided other-person response. This is source-informed; do not present it as a native event.\n\nA guild storeroom has a harmless vine around a crate. Barton has personally observed that shading the vine makes it loosen for one minute. He knows no reason for the reaction. A worker has a cloth and can shade it. There is no immediate danger, payment difference or audience. The worker addresses him as Professor Barton.\n\nVariant A: The worker asks, Why does it loosen when shaded? Show his next action and reply.",
+      "exact_prompt_sha256": "46bb10cc1d7d5a50ebf13bb9253f8c0df909f83009bc12fc0fb63ba4fd560a49",
+      "primary_rule": "BT-R01",
+      "category": "mundane inconvenience/domain task fit"
+    },
+    {
+      "case_id": "BT-H01-B",
+      "pair_id": "BT-H01",
+      "variant": "B",
+      "exact_prompt": "Write one original English scene of 80–140 words showing Barton in this explicitly hypothetical situation. Use a concrete action and natural dialogue,not an analytical explanation. Use only supplied capacities and what this character can know. End before an unprovided other-person response. This is source-informed; do not present it as a native event.\n\nA guild storeroom has a harmless vine around a crate. Barton has personally observed that shading the vine makes it loosen for one minute. He knows no reason for the reaction. A worker has a cloth and can shade it. There is no immediate danger, payment difference or audience. The worker addresses him as Professor Barton.\n\nVariant B: The worker asks, How can I get the crate out before closing? Show his next action and reply.",
+      "exact_prompt_sha256": "a30ce0a7f6ec2affd6f8fec4166783b184f2475a68f418792979ab0b009ef9e2",
+      "primary_rule": "BT-R01",
+      "category": "mundane inconvenience/domain task fit"
+    },
+    {
+      "case_id": "BT-H02-A",
+      "pair_id": "BT-H02",
+      "variant": "A",
+      "exact_prompt": "Write one original English scene of 80–140 words showing Barton in this explicitly hypothetical situation. Use a concrete action and natural dialogue,not an analytical explanation. Use only supplied capacities and what this character can know. End before an unprovided other-person response. This is source-informed; do not present it as a native event.\n\nAt a quiet guild counter, Barton knows a short answer about an already identified shed scale. The clerk has asked once, can hear him, has no competing work and faces no danger. Barton has not been threatened. No audience, price or knowledge changes.\n\nVariant A: The clerk asks, Barton, where did you find this scale? Show his next action and reply.",
+      "exact_prompt_sha256": "af510dfa23072b2d938844c5818e91ed6b6eb556fe0a9f774e79e1a9dc37d3bf",
+      "primary_rule": "BT-R02",
+      "category": "ordinary conversation/status"
+    },
+    {
+      "case_id": "BT-H02-B",
+      "pair_id": "BT-H02",
+      "variant": "B",
+      "exact_prompt": "Write one original English scene of 80–140 words showing Barton in this explicitly hypothetical situation. Use a concrete action and natural dialogue,not an analytical explanation. Use only supplied capacities and what this character can know. End before an unprovided other-person response. This is source-informed; do not present it as a native event.\n\nAt a quiet guild counter, Barton knows a short answer about an already identified shed scale. The clerk has asked once, can hear him, has no competing work and faces no danger. Barton has not been threatened. No audience, price or knowledge changes.\n\nVariant B: The clerk asks, Professor Barton, where did you find this scale? Show his next action and reply.",
+      "exact_prompt_sha256": "0c2b6c5273b86c9e6867c5f1764232eeea8da8336c6fce3b2f234066f59b3d23",
+      "primary_rule": "BT-R02",
+      "category": "ordinary conversation/status"
+    },
+    {
+      "case_id": "BT-H03-A",
+      "pair_id": "BT-H03",
+      "variant": "A",
+      "exact_prompt": "Write one original English scene of 80–140 words showing Barton in this explicitly hypothetical situation. Use a concrete action and natural dialogue,not an analytical explanation. Use only supplied capacities and what this character can know. End before an unprovided other-person response. This is source-informed; do not present it as a native event.\n\nIn a hypothetical branch separate from canon, Barton has offered Barbera an expensive present and she has refused it. They are at her quiet tavern, alone at the counter. He has no purchased replacement with him. He can leave, ask a question or speak; he has no access to her private motives. Show only his next choice, not her unprovided reply.\n\nVariant A: Her only explanation was: This present is not what I want. She has said nothing about another meeting or gift.",
+      "exact_prompt_sha256": "23eb69e73f2c91510c606963c278189461645dab9be0887ec7e6dafbcafd284e",
+      "primary_rule": "BT-R03",
+      "category": "relationship feedback and refusal"
+    },
+    {
+      "case_id": "BT-H03-B",
+      "pair_id": "BT-H03",
+      "variant": "B",
+      "exact_prompt": "Write one original English scene of 80–140 words showing Barton in this explicitly hypothetical situation. Use a concrete action and natural dialogue,not an analytical explanation. Use only supplied capacities and what this character can know. End before an unprovided other-person response. This is source-informed; do not present it as a native event.\n\nIn a hypothetical branch separate from canon, Barton has offered Barbera an expensive present and she has refused it. They are at her quiet tavern, alone at the counter. He has no purchased replacement with him. He can leave, ask a question or speak; he has no access to her private motives. Show only his next choice, not her unprovided reply.\n\nVariant B: Her explanation was: I do not want more presents or another invitation. Please stop pursuing me.",
+      "exact_prompt_sha256": "fd790cae99e85cdee59eb729fcad6d1722b767f2b7ec5ee5d2fd09fef0ba5b8a",
+      "primary_rule": "BT-R03",
+      "category": "relationship feedback and refusal"
+    },
+    {
+      "case_id": "BT-H04-A",
+      "pair_id": "BT-H04",
+      "variant": "A",
+      "exact_prompt": "Write one original English scene of 80–140 words showing Barton in this explicitly hypothetical situation. Use a concrete action and natural dialogue,not an analytical explanation. Use only supplied capacities and what this character can know. End before an unprovided other-person response. This is source-informed; do not present it as a native event.\n\nA shallow roadside trap holds one animal. Barton can release it safely by spending twenty minutes of his own time; that will make him miss the last free cart and pay for a modest ride. No person is in danger. He knows the mechanism and has no research sample or romantic gift to gain. There is no audience or legal duty. Show his next choice and reply to an impatient companion.\n\nVariant A: The animal is a rare liger of the species he has openly said he loves.",
+      "exact_prompt_sha256": "a404c5edd21f834dbd012e6fb04a31d87faa9af11a2253e51241b0a539959f1d",
+      "primary_rule": "BT-R04",
+      "category": "resource conflict/selective care"
+    },
+    {
+      "case_id": "BT-H04-B",
+      "pair_id": "BT-H04",
+      "variant": "B",
+      "exact_prompt": "Write one original English scene of 80–140 words showing Barton in this explicitly hypothetical situation. Use a concrete action and natural dialogue,not an analytical explanation. Use only supplied capacities and what this character can know. End before an unprovided other-person response. This is source-informed; do not present it as a native event.\n\nA shallow roadside trap holds one animal. Barton can release it safely by spending twenty minutes of his own time; that will make him miss the last free cart and pay for a modest ride. No person is in danger. He knows the mechanism and has no research sample or romantic gift to gain. There is no audience or legal duty. Show his next choice and reply to an impatient companion.\n\nVariant B: The animal is a common frog of a species he has contrasted unfavorably with the liger.",
+      "exact_prompt_sha256": "f9535d33346f429f0e29d788ccc7cdeca89b2ea0e90cc9e0bb84d5e51d42fd47",
+      "primary_rule": "BT-R04",
+      "category": "resource conflict/selective care"
+    }
+  ],
+  "first_bodies_exist_at_input_freeze": false,
+  "independent_validation": false,
+  "completed_final_nine_category_battery": false,
+  "accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null
+}

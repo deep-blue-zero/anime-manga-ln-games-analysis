@@ -12,12 +12,17 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-24'
+version: "1.1"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15: REVISE (wording only) of every masculine pronoun for Mao with a pronoun method note (GKM-SAA-013/031); REVISE of the story_0045 cohort label (GKM-SAA-160) and the §9 speaker attribution (HSCA-097); DOWNGRADE of the §17 Temari referent and transition (GKM-SAA-159); STRENGTHEN of §0/§11 (HSCA-129), §14 (HSCA-109, inference) and §25 (GKM-SAA-206, inference)."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM SUPPORT SERIES 03 PART 026–050 DEEP READING
+
+> **Revision record — v1.1, 2026-11-15 (source-to-analysis audit corrections).** (1) REVISE, wording only, GKM-SAA-013 / GKM-SAA-031: all six masculine pronouns for Mao, on five lines in §10, §16, §20 and §22, now read she/her, or name Mao or the other participant where a pronoun would be ambiguous; a pronoun method note is added to §0. (2) REVISE, GKM-SAA-160: `story_0045` is a Class 1-2 ensemble, not a second-year one (`adv_csprt-3-0045_02` L52, L115; `adv_csprt-3-0015_02` L75, L83, L154); the §1.1 row and the §21 heading are relabelled. Earlier wording: “second-year ensemble” and “the second-year layer”. (3) REVISE, HSCA-097: a dated note in §9 attributes `なにもかも元通りになったわけじゃない` to Temari (`adv_csprt-3-0033_01` L114) and records that Misuzu's alternative method is left unexplained; the earlier paragraph is kept. (4) DOWNGRADE, GKM-SAA-159: the §17 referent becomes “probably Temari; unnamed in the source”, and the Misuzu transition drops the estrangement framing; the earlier transition wording is kept in the line. (5) STRENGTHEN, HSCA-129: Saki's ambivalence in `story_0035` is added to §11, and the §0 bullet is qualified. (6) STRENGTHEN, HSCA-109 (inference): the unvoiced `副会長` of `story_0038` is identified as very probably Tsubame in §14. (7) STRENGTHEN, GKM-SAA-206 (inference): §25 links `adv_csprt-3-0049_02` L33 to the Event 001 misattribution thread, with counterevidence stated.
 
 ## 0. Scope, method, and principal finding
 
@@ -28,6 +33,8 @@ The source boundary is the complete `support_series_3_part_026-050.dialogue.txt`
 As throughout Phase 5, support-story numbering is not converted into a global chronology. Three parts grouped under a story ID are related evidence surfaces, not automatically consecutive moments. Stronger placement is used only when school year, season, institutional role, remembered history, explicit relationship state, or another internal anchor supports it.
 
 The A2 dialogue extraction is the reading surface. A1 raw-script paths remain wording authority. The text does not license claims about uninspected card art, facial animation, camera emphasis, costume rendering, or vocal nuance. Performance-sensitive distinctions are routed to the audiovisual queue.
+
+**Pronoun convention for Mao (GKM-SAA-013 / GKM-SAA-031, 2026-11-15).** Mao's ボク and prince register are not grounds for masculine English pronouns; pronouns follow the character, not the persona (see MAO-C14). Mao describes herself as a girl (`adv_dear_amao_003` L81; `adv_cidol-amao-3-015_02` L147). This reading therefore uses she/her for Mao, and names Mao where a pronoun could be confused with another person in the scene. Quoted Japanese is unchanged.
 
 ### Principal tranche thesis — continuity without stasis
 
@@ -41,7 +48,7 @@ The tranche repeats this structure at multiple scales:
 
 - Sumika and Lilja carry a childhood bond from Sweden/Hokkaido-linked memories into Japanese school life, but their relation changes from Sumika giving courage to reciprocal domestic and professional support.
 - Temari and Misuzu reconcile without restoring SyngUp. Misuzu explicitly abandons the old aspiration to become Temari's “wings,” while retaining a commitment to help Temari shine by a different route.
-- Saki and Ume preserve the sister/rivalry system while Ume develops friendships and professional worlds that no longer orbit Saki alone.
+- Saki and Ume preserve the sister/rivalry system while Ume develops friendships and professional worlds that no longer orbit Saki alone, while still deliberately organizing her own routine around Saki (`story_0035`; HSCA-129, 2026-11-15).
 - Ume, China, and Hiro move from repeatedly asking whether they are friends to treating friendship as a stable fact that can survive busier careers and future physical distance.
 - Rinami passes to China a festival viewing place once given to her by an older student-council member, turning remembered kindness into a future obligation of care.
 - Mao teaches Lilja a dorm cooking tradition passed down by previous residents; the dorm becomes an institution with inherited memory rather than merely housing.
@@ -96,7 +103,7 @@ This gives Phase 6 and Phase 8 a strong bridge: relationship analysis and instit
 | `story_0042` | 3 | 60 | Sumika, Lilja — shared past, study reciprocity, origin of joint idol aspiration |
 | `story_0043` | 3 | 60 | Saki, Sumika — running, arcade play, competition, leisure as recoverable skill |
 | `story_0044` | 3 | 60 | first-year ensemble, Mao — `Campus mode!!`, school identity, expertise recognition |
-| `story_0045` | 3 | 60 | second-year ensemble, Rinami — `Campus mode!!`, intergenerational teaching, encouragement |
+| `story_0045` | 3 | 60 | Class 1-2 ensemble, Rinami — `Campus mode!!`, intergenerational teaching, encouragement |
 | `story_0046` | 3 | 59 | Sena, Tsubame, Mao, Rinami — `Campus mode!!`, generation standard, baton transmission |
 | `story_0047` | 3 | 60 | Ume, Rinami, Saki, Mao — Valentine design, sibling love, personalized recipient modeling |
 | `story_0048` | 3 | 60 | China, Sena — public popularity burden, special access, reciprocal Valentine care |
@@ -282,6 +289,8 @@ Part 1 is a critical Phase-6 relationship checkpoint. Temari and Misuzu are livi
 
 Misuzu supplies the decisive revision: they have reconciled, but **not everything has returned to how it was**. She will not ask Temari to sing together again. She no longer intends to become Temari's “wings.” Instead, she intends to help Temari shine by her own method.
 
+**Speaker correction (HSCA-097; REVISE, 2026-11-15).** The non-restoration line is Temari's, not Misuzu's: `だけど、なにもかも元通りになったわけじゃない` is spoken by Temari (`adv_csprt-3-0033_01` L114). Misuzu is the one who affirms that they have reconciled (`しましたよ`, L109), concedes Temari's point (`そうですね`, L124), and only then renounces singing together and becoming Temari's wings (L124, L130) in favour of making Temari shine her own way (L137). The scene's asymmetry therefore runs the other way from the paragraph above: Misuzu claims the reconciliation, and Temari withholds the full label and names the difference. Misuzu's alternative method is also left explicitly unexplained. Temari says she does not understand it, and Misuzu answers `わからなくてもいいんです` (L147, L157). That opacity bears on the §4 Phase-6 caution about the boundary problems in Misuzu's care. The paragraph above is kept as the earlier formulation; read “Misuzu supplies the decisive revision” as superseded by this note.
+
 This is continuity without restoration in explicit dialogue.
 
 Part 2 revisits Temari's first live after the rupture. Temari invited Misuzu believing she could communicate everything through song. Misuzu was furious precisely because the performance looked like Temari destroying herself. The fight became the first time they fully shouted their feelings at each other. Both conclude that genuine conflict was necessary for reconciliation.
@@ -303,7 +312,7 @@ Part 3 shows the repaired everyday system. Temari calls for Misuzu when weight r
 
 The first part is almost entirely mundane and therefore highly valuable for behavioral reconstruction. Mao and Rinami do laundry together, discuss sleep, room fragrance, and recent purchases, and compliment one another's qualities after the other has walked away. Rinami likes Mao's tendency to look after dorm residents; Mao likes Rinami's ability to state another person's good qualities directly.
 
-Part 2 shows Rinami decompressing after student-council work. She talks at length about the eccentric younger members and the logistical difficulty of school events alongside idol schedules, then apologizes for monopolizing the conversation. Mao tells her that seeing Rinami enjoy herself is enjoyable for him and asks her to continue.
+Part 2 shows Rinami decompressing after student-council work. She talks at length about the eccentric younger members and the logistical difficulty of school events alongside idol schedules, then apologizes for monopolizing the conversation. Mao tells Rinami that seeing her enjoy herself is enjoyable for Mao too and asks her to continue.
 
 Part 3 turns shared waiting time into schoolwork. Mao is making an eco-bag with a cat embroidery. Rinami finds it cute, asks to match it, and Mao offers to teach her.
 
@@ -329,11 +338,14 @@ Part 2 shows a rest day governed by Saki's normal discipline. Ume arrives to spe
 
 Part 3 explains why Ume's life resembles Saki's so strongly. She explicitly copies Saki's “best possible day”—study, sleep, stretching, performance review—because Saki is both model and opponent. Saki accepts that this makes Ume a formidable rival.
 
+**Saki's side (HSCA-129; STRENGTHEN, 2026-11-15).** The scene also records Saki's own ambivalence. When Ume says she will think about her future only after beating Saki, Saki calls it `最高に嬉しくて――……悩ましい回答` (`adv_csprt-3-0035_02` L141–L156): pleased to be the target, troubled that the target is Ume's whole horizon. In part 3 Saki asks whether this kind of rest day is really what Ume wants, given that she has made friends in her class (`_03` L39–L52). Ume declines the nudge: she copies Saki's routine deliberately and will not stop even if told to (L79–L90). In this support state, then, Ume organizes her holidays around Saki by choice, and Saki is the one who worries about it.
+
 ### Claim transitions
 
 - **Saki — STRENGTHEN:** accumulated expertise originally developed around Ume is becoming generalizable care competence.
 - **Ume — STRENGTHEN:** imitation of Saki is conscious strategy, not lack of individuality.
 - **Ume — OPEN:** the self beyond the goal of defeating Saki remains genuinely underdeveloped in this scene.
+- **Saki — STRENGTHEN (HSCA-129):** Saki is pleased and troubled at once that defeating her is Ume's whole future, and she nudges Ume toward class friends; Ume declines.
 - **Saki ↔ Ume — STRENGTHEN:** rivalry is not merely a contest outcome; it organizes routines, education, recovery, media sharing, and future imagination.
 
 ---
@@ -382,7 +394,9 @@ The wish that school life “last forever” is not literal stasis. The promise 
 
 # 14. `story_0038` — Sena and Rinami: role-model performance and a safe place to loosen it
 
-Sena is nervous before addressing new students. The vice president mocks the claim because Sena performs under pressure constantly. Sena distinguishes the two situations: as Prima Stella and student-council president, she must appear as the incoming students' target and ideal. The pressure is not stage fright but **representational responsibility**.
+Sena is nervous before addressing new students. The vice president mocks the claim because Sena performs under pressure constantly.
+
+**Identifying the vice president (HSCA-109; STRENGTHEN, inference).** In this part the speaker is labelled only `副会長` and is unvoiced (`adv_csprt-3-0038_01` L63, L71, L102). The figure is very probably Tsubame. In `story_0046` Mao addresses Tsubame as `副会長`, and Tsubame answers in the same `貴様` register (`adv_csprt-3-0046_01` L19, L41); `story_0015` assigns the vice-presidency to Tsubame at the council's formation (see the Series 3 parts 001–025 reading §17). The identification is inference; this scene does not name her. On that reading, the line that it is not only the new students who are watching Sena (L102) is a Sena–Tsubame witness/rival datum and belongs in the Sena ↔ Tsubame evidence routing as well as the side-character ecology. Sena distinguishes the two situations: as Prima Stella and student-council president, she must appear as the incoming students' target and ideal. The pressure is not stage fright but **representational responsibility**.
 
 After the speech, Sena scans the new cohort and claims she can already see who is developing. She tells Rinami that Rinami herself is one of Sena's rivals. Rinami is startled; Sena privately believes Rinami possesses latent potential that has not yet found its catalyst.
 
@@ -425,7 +439,7 @@ Mao teaches Lilja how the dorm's bonfire sweet potatoes are prepared, explaining
 
 The second part reverses the cultural direction. Lilja buys a microwave sweet-potato cooker, then explains Swedish Hasselback potatoes and offers to make them for Mao. Mao is delighted.
 
-Part 3 adds a quieter emotional note. While cleaning autumn leaves, Lilja observes differences between Japanese red foliage and the trees of her home. Mao tells her that he respects the strength it took to come alone to a distant country and pursue her dream, then returns to prince-coded care by sending the “princess” inside before she gets sick.
+Part 3 adds a quieter emotional note. While cleaning autumn leaves, Lilja observes differences between Japanese red foliage and the trees of her home. Mao says she respects the strength it took Lilja to come alone to a distant country and pursue her dream, then returns to prince-coded care by sending the “princess” inside before she gets sick.
 
 ### Claim transitions
 
@@ -447,11 +461,13 @@ At the stalls, Sena offers warm drinks. Ume and Misuzu decide they do not want o
 
 Part 3 is the strongest element. Ume says she wishes Saki could see the lights. Misuzu says she wishes she could see them with “that child,” transparently maintaining Temari in her mental world without naming her. Sena then thinks of sending a photo to Kotone.
 
+**Downgrade (GKM-SAA-159; DOWNGRADE, 2026-11-15).** The referent of `あの子` is unnamed in the source (`adv_csprt-3-0041_03` L141). It is probably Temari, since Temari is the most frequent subject of Misuzu's absent-person references, but “transparently” overstates the case. The scene also carries no estrangement marker: it is set at winter illumination, after the autumn moon-viewing reconciliation of `story_0033` (`adv_csprt-3-0033_01` L83–L109), and Misuzu simply goes to take a photograph for the person (`adv_csprt-3-0041_03` L176). Read the sentence above as “probably Temari; unnamed in the source”. This aligns §17 with the Series 3 parts 051–075 reading §20 and the parts 076–102 reading §9, which keep parallel unnamed Misuzu referents OPEN.
+
 ### Claim transitions
 
 - **Sena ↔ Ume ↔ Misuzu — STRENGTHEN:** council life supports reciprocal small gifts and leisure after work, not only production hierarchy.
 - **Ume → Saki / Misuzu → Temari / Sena → Kotone — STRENGTHEN:** attachment figures remain mentally present during pleasurable experiences even when absent.
-- **Misuzu — STRENGTHEN:** estrangement does not eliminate spontaneous desire to share beauty with Temari.
+- **Misuzu — DOWNGRADED 2026-11-15 (GKM-SAA-159):** Misuzu spontaneously wants to share beauty with an unnamed absent person, probably Temari. Earlier wording: “STRENGTHEN: estrangement does not eliminate spontaneous desire to share beauty with Temari.”
 
 ### Modeling rule
 
@@ -503,7 +519,7 @@ This parallels Sumika's role with Temari but by a different route. Temari needs 
 
 The first-year group struggles with `Campus mode!!`. Temari frames the song in severe institutional terms: it represents Hatsuboshi itself, invites comparison with earlier generations, and therefore requires readiness for harsh judgment. Kotone finds the rhetoric exaggerated, while Saki converts it into motivation.
 
-The second part gives Mao's perspective. Lilja feels the lyrics describe her own effort. Mao says that this is because the song belongs to everyone training at Hatsuboshi. He also reveals that across three years he has **never yet had the opportunity to perform it**, despite continuing to practice. The important lesson to the juniors is not entitlement but preparedness: the chance may come only rarely, and they should be ready when it does.
+The second part gives Mao's perspective. Lilja feels the lyrics describe her own effort. Mao says that this is because the song belongs to everyone training at Hatsuboshi. She also reveals that across three years she has **never yet had the opportunity to perform it**, despite continuing to practice. The important lesson to the juniors is not entitlement but preparedness: the chance may come only rarely, and they should be ready when it does.
 
 Part 3 returns to Temari as the most technically advanced first-year. Saki and Kotone study her movements because she is the fastest reference available. Temari is privately delighted that they are taking the song seriously and offers to stand onstage together if they reach her level. Kotone declines the stage proposal; Saki accepts but immediately claims center, provoking another argument.
 
@@ -511,12 +527,12 @@ Part 3 returns to Temari as the most technically advanced first-year. Saki and K
 
 - **`Campus mode!!` — PROMOTE:** the song functions as institutional identity, comparative generational standard, and scarce performance opportunity.
 - **Temari — STRENGTHEN:** expert recognition from peers is emotionally meaningful even when she performs indifference.
-- **Mao — STRENGTHEN:** long preparation without opportunity is part of his professionalism; lack of prior performance does not imply lack of attachment.
+- **Mao — STRENGTHEN:** long preparation without opportunity is part of her professionalism; lack of prior performance does not imply lack of attachment.
 - **First-year ensemble — STRENGTHEN:** shared repertoire creates cooperation without eliminating rivalry or differentiated goals.
 
 ---
 
-# 21. `story_0045` — `Campus mode!!`: the second-year layer turns learning into future teaching
+# 21. `story_0045` — `Campus mode!!`: the Class 1-2 layer turns learning into future teaching
 
 Ume, China, Hiro, and Misuzu discuss the difficulty of the song. Misuzu has an advantage because she practiced it in middle school; Ume converts the distance into a contest; Hiro enjoys the hopelessness.
 
@@ -541,7 +557,7 @@ Mao and Rinami ask Sena and Tsubame to teach them. Tsubame initially challenges 
 
 Part 2 gives the Sena/Tsubame theory of the song. Tsubame rejects the premise that complete mastery exists and calls `Campus mode!!` Hatsuboshi itself. When Prima Stella performs it, the performance represents the quality of that generation. Sena is pleased that Tsubame shares the same institutional seriousness. Their agreement immediately becomes rivalry over who will be Prima Stella when the song is performed.
 
-Part 3 shows Mao and Rinami practicing critique because juniors will eventually need instruction. They admit they are inexperienced at correcting another person's individual style. Mao recalls the senior whose performance originally made him want to sing the song; Rinami says they received a baton and now must hand it onward.
+Part 3 shows Mao and Rinami practicing critique because juniors will eventually need instruction. They admit they are inexperienced at correcting another person's individual style. Mao recalls the senior whose performance originally made her want to sing the song; Rinami says they received a baton and now must hand it onward.
 
 ### Claim transitions
 
@@ -596,6 +612,8 @@ Part 3 adds reciprocity. Sena made chocolates for student-council members and gi
 Temari needs skating practice for work and assumes that Lilja's northern-European background makes her a suitable teacher. The assumption is only partly accurate—Lilja says she is not especially good compared with peers back home—but she is competent enough to help.
 
 Temari is openly terrified. She asks Lilja not to move away, refuses to stand alone, and imagines insulting judgments that Lilja never expressed. Lilja responds with reassurance and very gradual progression.
+
+**Link to the Event 001 misattribution thread (GKM-SAA-206; STRENGTHEN, inference).** The imagined judgment has a specific shape: Temari voices `いつまで怯えてるんだよ、雑魚がって？`, and Lilja protests that she never said any such thing (`adv_csprt-3-0049_02` L33, L40). The same pattern appears in Event 001. There Sumika's dub put a harsh line in Lilja's mouth (`event_001` main-02 L341–L382), Temari later recalls it in a harsher form ending `雑魚が` (main-05 L95), and Lilja denies it (L102; see the Events 001–005 reading §6.7). On this reading, Temari's image of Lilja as a potential harsh judge, first authored by Sumika's dub, persists into ordinary life, and Lilja keeps disavowing it. The support story gives no explicit callback to Event 001, and the shared word could be coincidental, so the link is an inference.
 
 Once Temari can stand, her pride returns immediately. She downplays the achievement, then becomes frightened again when asked to glide. She agrees only if Lilja holds her hand. As confidence rises, Temari begins to enjoy skating and becomes much more fluent.
 

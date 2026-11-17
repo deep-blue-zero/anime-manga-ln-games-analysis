@@ -1,7 +1,7 @@
 {
   "schema": "konosuba.cohort23.receiving-and-provenance.v1",
   "recorded_utc": "2026-10-21T01:25:18.918639+00:00",
-  "status": "SEMANTIC_RECEIVING_COMPLETE_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
   "scope": "Three12dimension monographs,two3rule provisional models,49retrieval rows,bounded native provenance and12same-root original English firsts/six pairs/adverse assessments; Hyoizaburoo monograph-only.",
   "prior_published_authority": {
     "source": "9b191f37ae735b24786a52a52f46d10e82609771",
@@ -496,5 +496,20 @@
   "historical_integrity_requirement": "66immutable/72historical,four scores,Dust14blanks/SI-SY28nulls,prior31models/firsts/reports/indices/monographs and80scratch preserved. No six StageDsuccessors authored.",
   "publication_gate_required": "Complete exact candidate/diff/link/preservation review,exact-index author preflight,fresh heads/normal owner push/exact remote tree/changed streams,source-HK-final terminal reports/reporter/status,fresh reload and PR254 refresh.",
   "designated_ownership": "No protected merge,executor activation,new source admission or designated global curator/evaluator output authorship.",
-  "full_program_complete": false
+  "full_program_complete": false,
+  "publication_pending_at_authorship_history": "SEMANTIC_RECEIVING_COMPLETE_EXACT_CONTAINING_PUBLICATION_PENDING",
+  "publication_gate_close": {
+    "source": "d7eb6ef45283a473c97f019f9db4400647cfce5a",
+    "tree": "acb2a7424a8b3585e4aa9b179c3e0295aa4f991e",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CRIMSON_PARENTS_TEACHER_COHORT23_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "7550c09535157a53ed74728f64029347c26e78577eac0ea1d823d7530734b21f",
+    "source_run": 39528315830,
+    "housekeeping_run": 39528885954,
+    "final_run": 39528923925,
+    "full_tests_each": 385,
+    "published_project_paths": 1233,
+    "current_models": 33,
+    "no_independent_accuracy_or_confidence_gain": true
+  },
+  "published_authority_reload_sha256": "db96991473750dd0f041516b2687783a75855386b15b8c19021884199c8a4791"
 }

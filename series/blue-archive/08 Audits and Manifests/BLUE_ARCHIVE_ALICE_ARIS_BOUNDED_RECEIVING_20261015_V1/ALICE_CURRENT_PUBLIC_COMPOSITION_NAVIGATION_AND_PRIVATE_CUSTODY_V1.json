@@ -1,0 +1,585 @@
+{
+ "schema": "ALICE_CURRENT_PUBLIC12_NAVIGATION_CUSTODY_AND_EXPLICIT_AUTHORITY_ID_BINDINGS_V1",
+ "artifact_type": "composition_navigation_and_custody",
+ "status": "active_provisional",
+ "canonical_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ALICE_ARIS_BOUNDED_RECEIVING_20261015_V1/ALICE_CURRENT_PUBLIC_COMPOSITION_NAVIGATION_AND_PRIVATE_CUSTODY_V1.json",
+ "current_first10": [
+  {
+   "role": "BODY",
+   "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ALICE_ARIS_BOUNDED_CHARACTER_MONOGRAPH.md",
+   "bytes": 54142,
+   "sha256": "0da002c72fad5bca4b320ef6f8c3e028319e1267c456024af1b2dec11b057eb6",
+   "git_blob_oid_of_actual_bytes": "f9468640930f58387946fbc48779bb8d729bf388"
+  },
+  {
+   "role": "PURPOSE000_035",
+   "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ALICE_ARIS_BOUNDED_RECEIVING_20261015_V1/ALICE_ALL105_NEW_PURPOSES_ALP000_ALP035_V1.json",
+   "bytes": 377496,
+   "sha256": "8b598ab619ace89eb4e7c4ae9eca072aeeac35031c1eecb186e429e2f779dd8d",
+   "git_blob_oid_of_actual_bytes": "0bd22c26b2d7ea31f27790225d19057ae6d8e369"
+  },
+  {
+   "role": "PURPOSE036_070",
+   "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ALICE_ARIS_BOUNDED_RECEIVING_20261015_V1/ALICE_ALL105_NEW_PURPOSES_ALP036_ALP070_V2.json",
+   "bytes": 500643,
+   "sha256": "0246dc7989b69105fd81f79ee98bdd47b97c9eaeda3f9ded4413220b35bedf01",
+   "git_blob_oid_of_actual_bytes": "dc4c5a69411da302b6e231d69ee3babf39556291"
+  },
+  {
+   "role": "PURPOSE071_104",
+   "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ALICE_ARIS_BOUNDED_RECEIVING_20261015_V1/ALICE_ALL105_NEW_PURPOSES_ALP071_ALP104_V4.json",
+   "bytes": 669169,
+   "sha256": "6923ac68406d78d959c8df969e1f573a0a4b1179889c4c3694e4c06aae5e1da3",
+   "git_blob_oid_of_actual_bytes": "5520418b0749b4203abfe28bdb221871fd8c4fdc"
+  },
+  {
+   "role": "SOURCE1",
+   "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ALICE_ARIS_BOUNDED_RECEIVING_20261015_V1/ALICE_SOURCE8_COMPLETE12_QUESTIONS_CURRENT_QUALIFIERS_AND_ACTUAL_GRADE_RECEIVING_V1.json",
+   "bytes": 58714,
+   "sha256": "6b28a4cf163e19e169c6126596288bc26467b33cb9d576d08437f1c2a3589080",
+   "git_blob_oid_of_actual_bytes": "61b5b8aa45c1f7ccad097a56f8b0ba7c20e3c29b"
+  },
+  {
+   "role": "REGISTER",
+   "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ALICE_ARIS_BOUNDED_RECEIVING_20261015_V1/ALICE_CURRENT275_COMPLETE_LITERAL75_SOURCE_QUESTION_PURPOSE_RIVAL_END_GAP_REGISTER_V4.json",
+   "bytes": 932663,
+   "sha256": "069ac3e9847b0f6c58d80a8e116f0890084e0ca02e019f1ffccb2ee239ed5924",
+   "git_blob_oid_of_actual_bytes": "73b0ce7673bf352159e8dc94fca620ef9d8e5834"
+  },
+  {
+   "role": "INDEX",
+   "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ALICE_ARIS_BOUNDED_RECEIVING_20261015_V1/ALICE_ALL105_NEW_PURPOSE_EXACT_PART_AND_BODY_RELATION_INDEX_V4.json",
+   "bytes": 358011,
+   "sha256": "b2d4a83f2e01c147530565a727107b9cc1d66a1254d7d19c3998841e51b185b8",
+   "git_blob_oid_of_actual_bytes": "75ab4a9a9bfd689e944ace31167f6cb42add413b"
+  },
+  {
+   "role": "TRANSPORT",
+   "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ALICE_ARIS_BOUNDED_RECEIVING_20261015_V1/ALICE_CURRENT_V4_EXACT8_ORIGINAL_CUSTODY_AND_ONE_ALP096_ENDPOINT_PRECISION_TRANSPORT_RECEIPT_V1.json",
+   "bytes": 21967,
+   "sha256": "a664a21833c5ffa4c381a116c77a1fe28b857697b806e3e28c58b73ca52a873c",
+   "git_blob_oid_of_actual_bytes": "ed32d09233b0595a8e60834dc62b867bf365fd25"
+  },
+  {
+   "role": "INPUT_PRIOR_REVIEW_REPORT",
+   "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ALICE_ARIS_BOUNDED_RECEIVING_20261015_V1/ALICE_COMPLETE_PRIOR_COMPONENT_REVIEW_REPORT_AND_CURRENT_COMPOSITION_INPUT_V1.json",
+   "bytes": 637579,
+   "sha256": "eda14b402243dc8f40099703474543bac3855ed09fcceed1f3ae4fa694de6557",
+   "git_blob_oid_of_actual_bytes": "ea783e2479ed8db0062a680137bcb5bf54353270"
+  },
+  {
+   "role": "ROOT_SEMANTIC_ADOPTION_DERIVATIVE",
+   "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ALICE_ARIS_BOUNDED_RECEIVING_20261015_V1/ALICE_ROOT_CURRENT275_EXACT8_SIGNED_SEMANTIC_ADOPTION_WITH_LIMITS_PUBLIC_DERIVATIVE_V1.json",
+   "bytes": 12737,
+   "sha256": "da4ed8aa79f683879065e6ae6f63948f2f802a59e7c63f38a623395de596c663",
+   "git_blob_oid_of_actual_bytes": "6e6bd17e39f54ef174dde7308158b071a05c9500"
+  }
+ ],
+ "no_selfpin": "NAV names only first10. CONTROL names first11. The external manifest alone binds CONTROL/current12.",
+ "header_authority_map": [
+  {
+   "header_witness_id": "ROOT_ALICE_CURRENT275_EXACT8_SEMANTIC_ADOPTION_20261015_V1",
+   "role": "ACTUAL_ROOT_SEMANTIC_ADOPTION_OF_PRIVATE_CURRENT8_ONLY;NOT_CURRENT_PUBLIC_BYTE_ADOPTION",
+   "original_private_authority": {
+    "bytes": 14671,
+    "sha256": "7760fec73ca653a596a241b921cf62362efc8e4a98f213001b9418d339101c50",
+    "git_blob_oid_of_actual_bytes": "a9cd263fcd080d05f676a15ad493d67486108f39"
+   },
+   "original_private_witness_id": "ALICE_PRIVATE_WITNESS_BC30CFA3D1A1083114CE9CD3",
+   "current_public_derivative": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ALICE_ARIS_BOUNDED_RECEIVING_20261015_V1/ALICE_ROOT_CURRENT275_EXACT8_SIGNED_SEMANTIC_ADOPTION_WITH_LIMITS_PUBLIC_DERIVATIVE_V1.json",
+    "bytes": 12737,
+    "sha256": "da4ed8aa79f683879065e6ae6f63948f2f802a59e7c63f38a623395de596c663",
+    "git_blob_oid_of_actual_bytes": "6e6bd17e39f54ef174dde7308158b071a05c9500"
+   }
+  },
+  {
+   "header_witness_id": "ALICE_CURRENT275_COMPLETE_PRIOR_COMPONENT_REVIEW_REPORT_20261015_V1",
+   "role": "NEW_TRUTHFUL_REPORT_OF_COMPLETE_PRIOR200_REASON_REVIEW_AND_FINITE_V4_QUALIFICATION;NOT_NEW_REVIEW",
+   "original_full_QA": {
+    "bytes": 696046,
+    "sha256": "719e378e6684e4aad3df744c7b34d7b54eff4122bf8c4cb2741732fb43fdbdad",
+    "git_blob_oid_of_actual_bytes": "290574f1386365d0390238364f2e57310f11d2e5"
+   },
+   "original_full_QA_private_witness_id": "ALICE_PRIVATE_WITNESS_2174A3F922606384C1D55EE3",
+   "current_finite_V4_QA": {
+    "bytes": 11079,
+    "sha256": "e2a951922944c3a1e41c24138e7d4c5dde029a9e243560e905562a51d54615ab",
+    "git_blob_oid_of_actual_bytes": "009b11f05b3f76cf042a62cf23501a39cffe3c68"
+   },
+   "current_finite_V4_QA_private_witness_id": "ALICE_PRIVATE_WITNESS_E1977B768CF62A7BC066783A",
+   "current_public_report": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ALICE_ARIS_BOUNDED_RECEIVING_20261015_V1/ALICE_COMPLETE_PRIOR_COMPONENT_REVIEW_REPORT_AND_CURRENT_COMPOSITION_INPUT_V1.json",
+    "bytes": 637579,
+    "sha256": "eda14b402243dc8f40099703474543bac3855ed09fcceed1f3ae4fa694de6557",
+    "git_blob_oid_of_actual_bytes": "ea783e2479ed8db0062a680137bcb5bf54353270"
+   }
+  }
+ ],
+ "private_witness_declarations": [
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_AA1181B11A01187FD2E4F555",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 26925,
+     "sha256": "0c66b3db028ac9330ceee3cfd730b3969f5879f19bb459dce6ce73cd9077ec6d",
+     "git_blob_oid_of_actual_bytes": "9f210324ba71ed86e21f112b0956f2c371c5f43a"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_0BBC565E76EA4B7FFB7AB7BE",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 61767,
+     "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+     "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_9975911694FC45429A2ACE55",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 61767,
+     "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+     "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_E9C2E434DFED2BC4F26A3191",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 59334,
+     "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+     "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_2EB56C291F466682EC1FAED2",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 59334,
+     "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+     "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_44B69C5DE729FD31BD2905B7",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 77442,
+     "sha256": "a5a4cc2703324d5da20af10caa2e8b770c83847c9411870775bff83ca40dfd71",
+     "git_blob_oid_of_actual_bytes": "1b147be2057aa7668d1a5ca1f87a85edb4cda5fd"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_0E41BCBD5067665F87AA5F1C",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 77442,
+     "sha256": "a5a4cc2703324d5da20af10caa2e8b770c83847c9411870775bff83ca40dfd71",
+     "git_blob_oid_of_actual_bytes": "1b147be2057aa7668d1a5ca1f87a85edb4cda5fd"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_299E936DE65D9D92017CA0B1",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 12172,
+     "sha256": "a645c7ee7cd27d8a85cb20afe49afa7e1056cd4886352aefecfddc04cee6a427",
+     "git_blob_oid_of_actual_bytes": "5055840af2436593b401ff95965dfa3751a5cadb"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_7AEC7CFD8117B16B67E61EEB",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 12172,
+     "sha256": "a645c7ee7cd27d8a85cb20afe49afa7e1056cd4886352aefecfddc04cee6a427",
+     "git_blob_oid_of_actual_bytes": "5055840af2436593b401ff95965dfa3751a5cadb"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_2E8EB4AD57CFC389C721337E",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 268456,
+     "sha256": "dbf8b9c141c5f9c5dcf5d8585219c81f1e0b70478f38284504487084bcc7126c",
+     "git_blob_oid_of_actual_bytes": "2524ca7466a6cb185bb746c547b5c71235ed895b"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_8D7B994E332CE35BDE979CC5",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 268456,
+     "sha256": "dbf8b9c141c5f9c5dcf5d8585219c81f1e0b70478f38284504487084bcc7126c",
+     "git_blob_oid_of_actual_bytes": "2524ca7466a6cb185bb746c547b5c71235ed895b"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_258332E5D25F9C8C405B5CA3",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 18772,
+     "sha256": "25e62596b5a5c3b2b22d9cd074299a3df7d6f10eebccd4c9dee0d032d371e000",
+     "git_blob_oid_of_actual_bytes": "09b8bd8b30e83aa822e36a03a9ec045c54745e08"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_206BED806D8F15402B0D2FB7",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 37091,
+     "sha256": "39259a20a2149346707c5319047af686238308a7f3ddb451ddfb34891fc2b651",
+     "git_blob_oid_of_actual_bytes": "2ec8bbe2f846a25897075f10e5fdea166dd48167"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_C7944A42A67818429DDB7077",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 15594,
+     "sha256": "c2a5b7d7cae80a18f3d64ec158f9b2d2adc04caacf4943c8d39ec660143271a4",
+     "git_blob_oid_of_actual_bytes": "c3db6988d02c7211ecfcaa009bb3478b12b70ac8"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_EC55BFF414161B787EE7EDA7",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 335694,
+     "sha256": "a143e8f9be23392700b3d1e412ca2abc3663d5ba41eb15815a56513677a89215",
+     "git_blob_oid_of_actual_bytes": "c99be9617f912fb89fbfde9de98306dd24f747c3"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_FB1D4F9C6892A53D0531962F",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 6774,
+     "sha256": "d7022d3386ceffe6290ae30be19408de4cb9721391dd5a623239df6a8990a4d2",
+     "git_blob_oid_of_actual_bytes": "5324a3b906c51d3853e6f97f1abeb5550f98260c"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_C55D13C36024A6E9C52EDC18",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 9375,
+     "sha256": "55b538a103a2c92c72afb40e3997aaf52b3d2fa77547e7f3cb41de367c915e44",
+     "git_blob_oid_of_actual_bytes": "6143801c6f51e005389f450c6cafa39047451c5a"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_59EC74E94FB2E037F6620FAA",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 53027,
+     "sha256": "2790f9d64f130ab0019eb6999cf4ab0d678bd5c35fa6da1cfa5bcf065333e333",
+     "git_blob_oid_of_actual_bytes": "9d169c1cd40b73517a7264a43f1ebc8ec4d5e7bf"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_92EFF8237E57E1F69981DAF4",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 409735,
+     "sha256": "3800242f091c6f559938c63fb9904d023e601c7851abbb42cb22ea59c7a50370",
+     "git_blob_oid_of_actual_bytes": "c494ac8a86f4ae55791eaabb5ef8c4c21c7896b9"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_EE29FD5B2A6EB501AF4752A5",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 536959,
+     "sha256": "6c82c438bf33af1315456ca9be06b7644bba7bc3af2df10a87666cf03dc2ce58",
+     "git_blob_oid_of_actual_bytes": "9072057f77ec5fca37fec88797facdff772be3fe"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_A8E1A0BB800FC5703FE60176",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 736852,
+     "sha256": "0e1853653e4bb53f32f13f70d498d2a9a6057ad785a011a1e815fece33fd3dcf",
+     "git_blob_oid_of_actual_bytes": "2797c2f711b1bf23f02c9682531dcd7c4750c0b6"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_AAFBC7CF0F6DBFB59CC9A3FB",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 67196,
+     "sha256": "6cc1e007425c8bd04c80b5b8153d60bef5131c8de874ea150afee0477d51129d",
+     "git_blob_oid_of_actual_bytes": "8f1821b6333872e2a216218575e0765f75b8c30c"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_40CE71771C5BF09668B87D96",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 938597,
+     "sha256": "b3a2cccc6a771b285007b76b340ab3a6895e204fa860fb9c3e51e60462219e87",
+     "git_blob_oid_of_actual_bytes": "612abebfc52b0c3e9d7cb4354ce022a88b8ea718"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_C1116865E4FA81FDBCF942A1",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 373306,
+     "sha256": "e331fc5900b0f9000877fa3c8ef689b72d12c136c38a76291fcdf2a138207cfb",
+     "git_blob_oid_of_actual_bytes": "185f80927eab27646d64dd918e7b0a8fe6d17204"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_E3FF2109E55C5F48BD436185",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 14938,
+     "sha256": "351a7c0162920339c86681734db5cbdb6596e5c3ab9ee0c6f055fbbd7d4cf087",
+     "git_blob_oid_of_actual_bytes": "2517c70fd7a10ca2acbb20fde916317b52649f2b"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_FE42D31EC90D0C2583CA59F5",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 49250,
+     "sha256": "36151f520ae1ecf1dee38186fa2b3f0265cb06a730b34b98dc777ee4d653ed2d",
+     "git_blob_oid_of_actual_bytes": "da8b62119cbfc840fde122ae3b44501cac2648ae"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_6A73B93EAC061F202FAC89A6",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 9661,
+     "sha256": "5350a83064988cfce8a803941115c027552cb2dae83ab4b8a1797e07cdc36221",
+     "git_blob_oid_of_actual_bytes": "43b346e1d942bb9bd989cc00b5c9c25e4a0bd8fc"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_FB006CD596C99BDBA0AD68EC",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 737117,
+     "sha256": "d5d15e058498cb747ee244dce0e38d0fa11eb1f1fe90dda0dc119b4a4f159b09",
+     "git_blob_oid_of_actual_bytes": "244c360efb9b5dbba1bc04448308273db428433b"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_D1F70E33D09817157F3DF52F",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 944766,
+     "sha256": "0dd54cb77e0b7979903562ba13640940d4fc868983d3591c3ee41cfbde9a1d95",
+     "git_blob_oid_of_actual_bytes": "ccd907a73ac4406318e6308f9641aaf478bbf5b7"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_FCA2FF4970EC96112D0D5639",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 374656,
+     "sha256": "4d463939e0e0c94a2b6407fda6070ee18a9cae987108365ca7ef80f547a3261a",
+     "git_blob_oid_of_actual_bytes": "463499fe75596bb91723d31ec5984aeb0e3f0421"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_B990D0990E87F69D524D1736",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 24800,
+     "sha256": "53cd067887e714db7d807fac5c4bbd2314dede237cd7519f7aba0ae02fd740a1",
+     "git_blob_oid_of_actual_bytes": "f706fa75b2c62f4304bcac329935d35d285e8071"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_07CA730F5C208F0A83C74817",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 9661,
+     "sha256": "5350a83064988cfce8a803941115c027552cb2dae83ab4b8a1797e07cdc36221",
+     "git_blob_oid_of_actual_bytes": "43b346e1d942bb9bd989cc00b5c9c25e4a0bd8fc"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_E1977B768CF62A7BC066783A",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 11079,
+     "sha256": "e2a951922944c3a1e41c24138e7d4c5dde029a9e243560e905562a51d54615ab",
+     "git_blob_oid_of_actual_bytes": "009b11f05b3f76cf042a62cf23501a39cffe3c68"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_4E8514E00F5AB6937C024A32",
+   "location_role": "PRIVATE_OR_HISTORICAL_LOCATION;NOT_PUBLIC_CURRENT_COMPONENT_OR_NEW_EVIDENCE",
+   "binding_status": "DECLARATION_ONLY_UNLESS_AN_EXACT_RECORDED_TUPLE_IS_LISTED",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 15915,
+     "sha256": "a150a8b365c30c5ddc74743cd703d09704bad921ad93da48f8709dea8e86fe52",
+     "git_blob_oid_of_actual_bytes": "ab879d159ad80ec96bf563ed6f13310268b69216"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_BC30CFA3D1A1083114CE9CD3",
+   "location_role": "EXACT_PRIVATE_ORIGINAL_AUTHORITY_OR_BODY",
+   "binding_status": "ACTUAL_FULL_RAW_ORIGINAL_COPIED_PRIVATELY",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 14671,
+     "sha256": "7760fec73ca653a596a241b921cf62362efc8e4a98f213001b9418d339101c50",
+     "git_blob_oid_of_actual_bytes": "a9cd263fcd080d05f676a15ad493d67486108f39"
+    }
+   ]
+  },
+  {
+   "private_witness_id": "ALICE_PRIVATE_WITNESS_2174A3F922606384C1D55EE3",
+   "location_role": "EXACT_PRIVATE_ORIGINAL_AUTHORITY_OR_BODY",
+   "binding_status": "ACTUAL_FULL_RAW_ORIGINAL_COPIED_PRIVATELY",
+   "recorded_tuple_declarations": [
+    {
+     "bytes": 696046,
+     "sha256": "719e378e6684e4aad3df744c7b34d7b54eff4122bf8c4cb2741732fb43fdbdad",
+     "git_blob_oid_of_actual_bytes": "290574f1386365d0390238364f2e57310f11d2e5"
+    }
+   ]
+  }
+ ],
+ "source_grade_roles": {
+  "author": "4WHOLE4SELECTED maintained1484 at original scope",
+  "independent_component_and_body_reviewer": "Own4WHOLE4SELECTED maintained1484, with separately disclosed selectedE852; no source transfer from author",
+  "ROOT": "8SELECTED maintained1053 plus separate selected20E852 comparison-context lines; no new whole source credit",
+  "composer": "Metadata/raw preservation only; no new literary/source receiving"
+ },
+ "original14_raw_custody": "All11 complete original common105 envelopes and3M008 carriers remain private frozen originals. The copied original20 custody manifest and its exact20 declared inputs/proofs preserve the original14 scope; no additional Minato3 outer-body promise is invented.",
+ "normalization_contract": "Only entire primitive absolute delivery values are replaced by exact approved current component aliases, explicitly declared maintained source counterparts, or opaque private witness IDs. No keys, mixed prose, semantic string, decision, grade, tuple-history or source-line expression is shortened.",
+ "historical_scopes": "Original275 private body/header, original body-map, source capture0003, author V1/V2/V3/V4 stages, prior696046 QA and11079 finite qualification, ROOT private8 current tuples and source20 qualifiers remain dated original roles. Current286 metadata reconstruction and exact first10 graph are separately operative C composition fields.",
+ "fixed_scope": [
+  355,
+  29,
+  25,
+  384,
+  788
+ ],
+ "existing_home_zero": 40,
+ "required_package_id": "P3-CHAR-ALICE-ARIS-BOUNDED",
+ "new_named_or_REL": 0,
+ "current_published_packages_at_preparation": 152,
+ "prospective_Alice153": "NOT_COUNTED_OR_INSTALLED",
+ "all14_original_gaps": "OPEN",
+ "models": 0,
+ "pending": "DIFFERENT_AUTHOR_CURRENT_BYTE_QA;ROOT_CURRENT_BYTE_ADOPTION;INSTALLATION;PREFLIGHT;LIVE_CONTROLS;PUSH;REMOTE_READBACK;NEW_HEAD_CI;RESERVED_MERGE",
+ "PR173": "PENDING_USER_APPROVAL_UNMERGED;NOT_PROJECTED_AS_CURRENT_REPAIR",
+ "preparation_time_status_scope": {
+  "schema": "ALICE_PUBLIC_METADATA_PREPARATION_TIME_STATUS_SCOPE_V1",
+  "prepared_date": "2026-10-15",
+  "complete_current_qualification": "All newly authored composition/preparation/future-gate statements describe the preparation-time snapshot. Subsequent actual composed-byte acceptance, installation, persistence, publication, provider verification and runtime are established only by separately dated ROOT operational receipts. This qualification neither asserts those future executions nor treats old preparation-pending wording as a permanent present-state prohibition.",
+  "governed_fields": "The body public_composition_state, this INPUT reporting envelope, new transport composition framing, NAV/CONTROL pending and future-gate fields, and the public ROOT derivative's added composition framing; original embedded QA and ROOT decisions/reasons/snapshots remain exact dated authorities at their original scopes.",
+  "no_automatic_credit": "No source/literary/primary/model/count/install/publication/runtime or merge credit follows."
+ }
+}

@@ -21,9 +21,10 @@ TOOLS = REPOSITORY / "tools"
 sys.path.insert(0, str(TOOLS))
 
 from character_index_core import (  # noqa: E402
+    LEGACY_RECONSTRUCTION_REGISTRY_PATH,
     RECONSTRUCTION_INDEX_PATH,
     RECONSTRUCTION_POLICY_PATH,
-    RECONSTRUCTION_REGISTRY_PATH,
+    RECONSTRUCTION_REGISTRY_LAYOUT,
     RECONSTRUCTION_SCHEMA_PATH,
     AssessmentCurrentness,
     AuthorityGraph,
@@ -34,8 +35,13 @@ from character_index_core import (  # noqa: E402
     decode_reconstruction_registry,
     evaluate_reconstruction_assessments,
     evidence_set_digest,
+    is_discovery_output,
+    is_reconstruction_output,
     load_reconstruction_policy,
     parse_evidence_ref,
+    read_discovery_registry,
+    read_reconstruction_registry,
+    reconstruction_partition_path,
     reconstruction_registry_changes,
     resolve_evidence_entries,
     schema_errors,
@@ -44,27 +50,35 @@ from character_index_core import (  # noqa: E402
 )
 from generate_reconstruction_index import (  # noqa: E402
     load_and_render,
-    render as render_reconstruction_index,
+    render_outputs as render_reconstruction_outputs,
 )
 from prepare_commit import active_rules, missing_required_output_paths  # noqa: E402
+from reconstruction_registry import normalize as normalize_reconstruction_registry  # noqa: E402
 from reconstruction_status import (  # noqa: E402
+    _discovery_at,
+    analysis_frontier,
     deferred_evidence_changes,
     main as reconstruction_status_main,
+    subject_mention_pattern,
     work_queue,
 )
 from validate_repository import (  # noqa: E402
-    DISCOVERY_OUTPUTS,
-    RECONSTRUCTION_OUTPUTS,
     discovery_branch_candidate,
     discovery_confinement_errors,
+    reconstruction_output_isolation_errors,
     validate_audit_workflow,
     validate_discovery_branch_confinement,
+    validate_markdown_links,
     validate_reconstruction_domain,
+    validate_routing_branch_scope,
 )
 
 
 SUBJECT = "example:alice@anime"
 ENTITY = "example:alice"
+SUBJECT_PARTITION = "characters/reconstruction_capabilities/example/alice@anime.jsonl"
+NAMESPACE_PAGE = "characters/reconstruction_index/example.md"
+RECONSTRUCTION_OUTPUTS = frozenset({SUBJECT_PARTITION, RECONSTRUCTION_INDEX_PATH, NAMESPACE_PAGE})
 EVIDENCE_ID = "profile"
 EVIDENCE_REF = f"{SUBJECT}#{EVIDENCE_ID}"
 EVIDENCE_PATH = "series/example/ALICE.md"
@@ -523,6 +537,20 @@ class GitRepositoryFixture(unittest.TestCase):
         self._git("commit", "--quiet", "-m", message)
         return self._git_output("rev-parse", "HEAD")
 
+    def _migrate_registry(self) -> str:
+        """Commit the fixture's move from the retired single file to its partition."""
+
+        legacy = self.repository / "characters" / "registry.jsonl"
+        partition = self.repository / "characters" / "registry" / "example.jsonl"
+        partition.parent.mkdir(parents=True, exist_ok=True)
+        partition.write_bytes(legacy.read_bytes())
+        legacy.unlink()
+        return self._commit(
+            "partition the discovery registry",
+            "characters/registry.jsonl",
+            "characters/registry/example.jsonl",
+        )
+
 
 @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
 class GitBoundCapabilityTests(GitRepositoryFixture):
@@ -909,6 +937,25 @@ class EffectiveCurrentnessTests(GitRepositoryFixture):
         self.assertEqual(result.currentness[0].effective_state, "CURRENT_REVIEWED")
         self.assertEqual(result.currentness[0].reasons, ())
 
+    def test_partition_migration_keeps_single_file_basis_assessments_current(self) -> None:
+        migrated = self._migrate_registry()
+        current = read_discovery_registry(GitSnapshot.from_commit(self.repository, migrated))
+        self.assertEqual(current.records, [self.record])
+        result = self._evaluate(assessment(self.commit, self.digest), migrated, current.records)
+        self.assertEqual(result.errors, [])
+        self.assertEqual(result.currentness[0].effective_state, "CURRENT_REVIEWED")
+        self.assertEqual(result.currentness[0].reasons, ())
+        # A basis commit in the partitioned layout binds the same evidence set.
+        rebased = self._evaluate(assessment(migrated, self.digest), migrated)
+        self.assertEqual(rebased.errors, [])
+        self.assertEqual(rebased.currentness[0].effective_state, "CURRENT_REVIEWED")
+
+    def test_checkpoint_reads_follow_the_registry_layout_of_each_commit(self) -> None:
+        migrated = self._migrate_registry()
+        for commit in (self.commit, migrated):
+            with self.subTest(commit=commit):
+                self.assertEqual(_discovery_at(self.repository, commit), {SUBJECT: self.record})
+
     def test_candidate_is_current_but_visibly_provisional(self) -> None:
         result = self._evaluate(candidate(self.commit, self.digest), self.commit)
         self.assertEqual(result.errors, [])
@@ -1023,6 +1070,19 @@ class EffectiveCurrentnessTests(GitRepositoryFixture):
         )
         self.assertTrue(any("not an ancestor" in error for error in result.errors), result.errors)
 
+    def test_declared_evidence_digest_must_match_the_basis_evidence(self) -> None:
+        self.assertEqual(
+            evaluate_reconstruction_assessments([candidate(self.commit, self.digest)], self.repository).errors, [],
+        )
+        other = "0" * 64
+        self.assertNotEqual(other, self.digest)
+        result = evaluate_reconstruction_assessments([candidate(self.commit, other)], self.repository)
+        self.assertTrue(
+            any(f"evidence_set_sha256 mismatch; declared={other}, derived={self.digest}" in error
+                for error in result.errors),
+            result.errors,
+        )
+
 
 class RegistryContractTests(unittest.TestCase):
     def _record(self, assessment_id: str, status: str = "CANDIDATE") -> dict[str, object]:
@@ -1110,8 +1170,16 @@ class RegistryContractTests(unittest.TestCase):
             "schema": "anime-manga-ln-games-analysis/reconstruction-capability-policy/v1",
             "publication_phase": "CALIBRATION",
             "calibration_acceptance_record": None,
+            "registry_layout": RECONSTRUCTION_REGISTRY_LAYOUT,
         }
         self.assertEqual(load_reconstruction_policy(snapshot(base)), ("CALIBRATION", []))
+        # The gate names the storage layout the tooling reads; the retired
+        # single file and an unknown layout are rejected.
+        for layout in ("SINGLE_FILE", None):
+            with self.subTest(layout=layout):
+                self.assertTrue(load_reconstruction_policy(snapshot(dict(base, registry_layout=layout)))[1])
+        legacy_fields = {key: value for key, value in base.items() if key != "registry_layout"}
+        self.assertTrue(load_reconstruction_policy(snapshot(legacy_fields))[1])
         routine = dict(base, publication_phase="ROUTINE")
         self.assertTrue(load_reconstruction_policy(snapshot(routine))[1])
         record = "governance/reports/RECONSTRUCTION_CALIBRATION_ACCEPTANCE.md"
@@ -1133,23 +1201,43 @@ class RegistryContractTests(unittest.TestCase):
         second["assessment_status"] = "STALE"
         second["stale_reason"] = "Evidence changed."
         entry = golden_entry()
-        rendered = render_reconstruction_index([second, first], {0: [entry], 1: [entry]})
-        self.assertEqual(rendered, render_reconstruction_index([first, second], {0: [entry], 1: [entry]}))
-        self.assertIn("**provisional; not human-reviewed**", rendered)
-        self.assertIn("provisional `B`", rendered)
-        self.assertIn("historical `B`", rendered)
-        self.assertLess(rendered.index("alice-v1"), rendered.index("alice-v0"))
+        outputs = render_reconstruction_outputs([second, first], {0: [entry], 1: [entry]})
+        self.assertEqual(outputs, render_reconstruction_outputs([first, second], {0: [entry], 1: [entry]}))
+        self.assertEqual(sorted(outputs), [RECONSTRUCTION_INDEX_PATH, NAMESPACE_PAGE])
+        root, page = outputs[RECONSTRUCTION_INDEX_PATH], outputs[NAMESPACE_PAGE]
+        # The root lists every assessment once and links into the namespace page.
+        self.assertIn("| [`example`](reconstruction_index/example.md) | 1 | 2 |", root)
+        self.assertIn("[`alice-v1`](reconstruction_index/example.md#alice-v1)", root)
+        self.assertIn("`CANDIDATE` 1; `STALE` 1", root)
+        self.assertNotIn("Known limits", root)
+        self.assertIn('<a id="alice-v1"></a>', page)
+        self.assertIn(f"[`{SUBJECT_PARTITION}`](../reconstruction_capabilities/example/alice@anime.jsonl)", page)
+        self.assertIn("**provisional; not human-reviewed**", page)
+        self.assertIn("provisional `B`", page)
+        self.assertIn("historical `B`", page)
+        for rendered in (root, page):
+            self.assertLess(rendered.index("alice-v1"), rendered.index("alice-v0"))
+            self.assertNotIn("](series/missing.md)", rendered)
+            self.assertTrue(rendered.endswith("\n") and "\r" not in rendered)
         self.assertIn(
             "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/"
             + "a" * 40
             + "/series/example/ALICE.md",
-            rendered,
+            page,
         )
-        self.assertNotIn("](series/missing.md)", rendered)
-        self.assertTrue(rendered.endswith("\n") and "\r" not in rendered)
-        empty = render_reconstruction_index([], {})
-        self.assertIn("No reconstruction capability assessments have been published", empty)
-        self.assertNotIn("Recorded totals", empty)
+        tree = {path: SnapshotEntry(path, "100644", text.encode("utf-8")) for path, text in outputs.items()}
+        for path in (
+            SUBJECT_PARTITION,
+            "CHARACTER_ANALYSIS_INDEX.md",
+            "characters/RECONSTRUCTION_CAPABILITY_SPEC.md",
+            "governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md",
+        ):
+            tree[path] = SnapshotEntry(path, "100644", b"")
+        self.assertEqual(validate_markdown_links(GitSnapshot(Path("."), "TEST", tree)), [])
+        empty = render_reconstruction_outputs([], {})
+        self.assertEqual(list(empty), [RECONSTRUCTION_INDEX_PATH])
+        self.assertIn("No reconstruction capability assessments have been published", empty[RECONSTRUCTION_INDEX_PATH])
+        self.assertNotIn("Recorded totals", empty[RECONSTRUCTION_INDEX_PATH])
 
 
 class WorkDiscoveryTests(unittest.TestCase):
@@ -1235,10 +1323,164 @@ class WorkDiscoveryTests(unittest.TestCase):
             [("example:carol@anime", "REASSESSMENT_NEEDED")],
         )
 
+    def test_frontier_queues_a_current_subject_last_without_changing_its_state(self) -> None:
+        bob, carol = "example:bob@anime", "example:carol@anime"
+        current = candidate("a" * 40, GOLDEN_EVIDENCE_SET_SHA256)
+        stale = candidate("a" * 40, GOLDEN_EVIDENCE_SET_SHA256, "bob-v1")
+        stale["analysis_subject_id"] = bob
+        currentness = {
+            0: AssessmentCurrentness("alice-anime-v1", SUBJECT, "CANDIDATE", "CURRENT_PROVISIONAL", ()),
+            1: AssessmentCurrentness("bob-v1", bob, "CANDIDATE", "EFFECTIVELY_STALE", ("EVIDENCE_BYTES_CHANGED",)),
+        }
+        claim = {
+            "assessment_id": "alice-anime-v1",
+            "base": "BASIS",
+            "base_commit": "a" * 40,
+            "paths": [{"mention_growth": 12, "repository_path": "series/example/LATER.md"}],
+        }
+        discovery = [self._discovery(item) for item in (SUBJECT, bob, carol)]
+        queue = self._queue(
+            [current, stale], currentness, discovery,
+            frontier={SUBJECT: [claim], bob: [dict(claim, assessment_id="bob-v1")]},
+        )
+        self.assertEqual(
+            [(item["analysis_subject_id"], item["kind"], item["tier"]) for item in queue["items"]],
+            [
+                (bob, "EFFECTIVELY_STALE_ASSESSMENT", 1),
+                (carol, "BACKFILL_UNASSESSED", 4),
+                (SUBJECT, "ANALYSIS_FRONTIER_ADVANCED", 6),
+            ],
+        )
+        self.assertEqual(queue["items"][2]["reasons"], ["SUBJECT_ANALYSIS_GREW_SINCE_BASIS"])
+        self.assertEqual(queue["items"][2]["frontier"], [claim])
+        self.assertNotIn("frontier", queue["items"][0])
+        self.assertEqual(
+            queue["subject_state_counts"],
+            {"EFFECTIVELY_STALE": 1, "ELIGIBLE_UNASSESSED": 1, "PENDING_PROVISIONAL": 1},
+        )
+
+
+class MentionPatternTests(unittest.TestCase):
+    def test_names_match_by_distinctive_parts_and_unspaced_scripts(self) -> None:
+        record = discovery_record()
+        japanese = "\u30f4\u30a3\u30eb\u30d8\u30eb\u30e0"
+        record["preferred_name"] = "Wilhelm van Astrea"
+        record["entity_aliases"] = [
+            {"value": japanese, "language": "ja", "kind": "ORIGINAL_SCRIPT", "ambiguous": False, "note": None},
+            {"value": "Sword Devil", "language": "en", "kind": "ALTERNATIVE", "ambiguous": True, "note": None},
+        ]
+        pattern = subject_mention_pattern(record)
+        assert pattern is not None
+        text = f"Wilhelm van Astrea; Wilhelm; Astrea; van; Wilhelms; {japanese}\u306f; Sword Devil"
+        self.assertEqual(
+            [match.group(0) for match in pattern.finditer(text)],
+            ["Wilhelm van Astrea", "Wilhelm", "Astrea", japanese],
+        )
+
+
+class AnalysisFrontierTests(GitRepositoryFixture):
+    """Later analysis about an assessed subject is found without staling its claim."""
+
+    def _write(self, path: str, data: bytes) -> None:
+        target = self.repository / Path(path)
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_bytes(data)
+
+    def _frontier(self, item: dict[str, object], **kwargs: object) -> dict[str, list[dict[str, object]]]:
+        snapshot = GitSnapshot.from_commit(self.repository, self._git_output("rev-parse", "HEAD"))
+        evaluation = evaluate_reconstruction_assessments(
+            [item], self.repository, comparison=snapshot, comparison_records=[self.record]
+        )
+        self.assertEqual(evaluation.errors, [])
+        self.assertEqual(evaluation.currentness[0].effective_state, "CURRENT_PROVISIONAL")
+        return analysis_frontier(
+            self.repository, snapshot, AuthorityGraph(snapshot), [item], [self.record], evaluation, **kwargs
+        )
+
+    def test_later_analysis_about_the_subject_is_reported_while_the_claim_stays_current(self) -> None:
+        reading = "series/example/LATER.md"
+        self._write(reading, authority_artifact(b"# Later volume\n" + b"Alice decides.\n" * 12))
+        self._commit("later reading", reading)
+        self.assertEqual(
+            self._frontier(candidate(self.commit, self.digest)),
+            {
+                SUBJECT: [
+                    {
+                        "assessment_id": "alice-anime-v1",
+                        "base": "BASIS",
+                        "base_commit": self.commit,
+                        "paths": [{"mention_growth": 12, "repository_path": reading}],
+                    }
+                ]
+            },
+        )
+
+    def test_only_mention_growth_in_current_analysis_under_the_subject_root_counts(self) -> None:
+        ledger = "series/example/LEDGER.md"
+        self._write(ledger, authority_artifact(b"# Ledger\n" + b"Alice acts.\n" * 12))
+        item = candidate(self._commit("ledger at basis", ledger), self.digest)
+        self._write(ledger, authority_artifact(b"# Ledger\n" + b"Alice acts.\n" * 12 + b"Bob acts.\n" * 12))
+        noise = {
+            "series/example/DRAFT.md": (
+                b"---\nstatus: draft_noncurrent\nsupersedes: []\nsuperseded_by: []\n"
+                b"do_not_use_as_current_authority: true\n---\n" + b"Alice.\n" * 12
+            ),
+            "series/example/LEGACY.md": b"# No authority header\n" + b"Alice.\n" * 12,
+            "series/other/ALICE.md": authority_artifact(b"Alice.\n" * 12),
+            "series/example/BRIEF.md": authority_artifact(b"Alice.\n" * 9),
+        }
+        for path, data in noise.items():
+            self._write(path, data)
+        self._commit("growth that is not about the subject", ledger, *noise)
+        self.assertEqual(self._frontier(item), {})
+        self._write(ledger, authority_artifact(b"# Ledger\n" + b"Alice acts.\n" * 22 + b"Bob acts.\n" * 12))
+        self._commit("ledger grows around the subject", ledger)
+        self.assertEqual(
+            self._frontier(item)[SUBJECT][0]["paths"], [{"mention_growth": 10, "repository_path": ledger}]
+        )
+        self.assertEqual(self._frontier(item, min_mentions=11), {})
+
+    def test_a_moved_reading_is_compared_with_its_departed_version(self) -> None:
+        reading, renamed, moved = "series/example/LATER.md", "series/example/V2.md", "series/example/volumes/LATER.md"
+        body = b"# Later\n" + b"Alice decides.\n" * 12
+        self._write(reading, authority_artifact(body))
+        item = candidate(self._commit("reading at basis", reading), self.digest)
+        (self.repository / reading).unlink()
+        self._write(renamed, authority_artifact(body))
+        self._commit("rename the reading unchanged", reading, renamed)
+        self.assertEqual(self._frontier(item), {})
+        (self.repository / renamed).unlink()
+        self._write(moved, authority_artifact(body + b"Alice waits.\n" * 3))
+        self._commit("move it back under its name with a small edit", renamed, moved)
+        self.assertEqual(self._frontier(item), {})
+        self._write(moved, authority_artifact(body + b"Alice waits.\n" * 13))
+        self._commit("the moved reading grows", moved)
+        self.assertEqual(
+            self._frontier(item)[SUBJECT][0]["paths"], [{"mention_growth": 13, "repository_path": moved}]
+        )
+
+    def test_a_deferred_frontier_returns_only_after_growth_since_the_checkpoint(self) -> None:
+        reading = "series/example/LATER.md"
+        self._write(reading, authority_artifact(b"# Later\n" + b"Alice decides.\n" * 12))
+        checkpoint = self._commit("later reading", reading)
+        item = candidate(self.commit, self.digest)
+        self.assertEqual(self._frontier(item, since=checkpoint, deferred=[SUBJECT]), {})
+        self._write(reading, authority_artifact(b"# Later\n" + b"Alice decides.\n" * 24))
+        head = self._commit("reading continues", reading)
+        (claim,) = self._frontier(item, since=checkpoint, deferred=[SUBJECT])[SUBJECT]
+        self.assertEqual((claim["base"], claim["base_commit"]), ("CHECKPOINT", checkpoint))
+        self.assertEqual(claim["paths"], [{"mention_growth": 12, "repository_path": reading}])
+        # A checkpoint older than the basis never widens the comparison.
+        self.assertEqual(self._frontier(candidate(head, self.digest), since=self.commit, deferred=[SUBJECT]), {})
+
 
 @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
 class ProductionRepositoryFixture(GitRepositoryFixture):
-    """A disposable history with activated, empty production surfaces."""
+    """A disposable history with activated production surfaces and no record yet.
+
+    The partitioned registry has no file until the first record is published;
+    until then a current snapshot reports the registry as absent.
+    """
 
     def setUp(self) -> None:
         super().setUp()
@@ -1252,7 +1494,6 @@ class ProductionRepositoryFixture(GitRepositoryFixture):
             "activate production surfaces",
             RECONSTRUCTION_SCHEMA_PATH,
             RECONSTRUCTION_POLICY_PATH,
-            RECONSTRUCTION_REGISTRY_PATH,
             RECONSTRUCTION_INDEX_PATH,
         )
         self._advance_main()
@@ -1276,6 +1517,7 @@ class ProductionRepositoryFixture(GitRepositoryFixture):
                     "schema": "anime-manga-ln-games-analysis/reconstruction-capability-policy/v1",
                     "publication_phase": phase,
                     "calibration_acceptance_record": record,
+                    "registry_layout": RECONSTRUCTION_REGISTRY_LAYOUT,
                 },
                 indent=2,
             )
@@ -1285,24 +1527,34 @@ class ProductionRepositoryFixture(GitRepositoryFixture):
         )
 
     def _publish(self, records: list[dict[str, object]], *, render: bool = True) -> None:
-        registry = self.repository / Path(RECONSTRUCTION_REGISTRY_PATH)
-        registry.parent.mkdir(parents=True, exist_ok=True)
-        registry.write_bytes(
-            b"".join(
-                json.dumps(item, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode("utf-8")
-                + b"\n"
-                for item in records
-            )
-        )
+        """Write the registry as partitions and, by default, its generated outputs."""
+
+        partitions = self.repository / "characters" / "reconstruction_capabilities"
+        if partitions.is_dir():
+            shutil.rmtree(partitions)
+        for item in records:
+            target = self.repository / Path(reconstruction_partition_path(str(item["analysis_subject_id"])))
+            target.parent.mkdir(parents=True, exist_ok=True)
+            with target.open("ab") as handle:
+                handle.write(
+                    json.dumps(item, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode("utf-8")
+                    + b"\n"
+                )
+        normalize_reconstruction_registry(self.repository)
         if render:
             evaluation = evaluate_reconstruction_assessments(records, self.repository)
             self.assertEqual(evaluation.errors, [])
-            (self.repository / Path(RECONSTRUCTION_INDEX_PATH)).write_bytes(
-                render_reconstruction_index(records, evaluation.basis_entries).encode("utf-8")
-            )
+            pages = self.repository / "characters" / "reconstruction_index"
+            if pages.is_dir():
+                shutil.rmtree(pages)
+            for path, text in render_reconstruction_outputs(records, evaluation.basis_entries).items():
+                target = self.repository / Path(path)
+                target.parent.mkdir(parents=True, exist_ok=True)
+                target.write_bytes(text.encode("utf-8"))
 
     def _commit_outputs(self, message: str) -> str:
-        return self._commit(message, RECONSTRUCTION_REGISTRY_PATH, RECONSTRUCTION_INDEX_PATH)
+        self._git("add", "--all", "--", "characters/reconstruction_capabilities", "characters/reconstruction_index")
+        return self._commit(message, RECONSTRUCTION_INDEX_PATH)
 
     def _validate(self) -> tuple[list[str], list[str]]:
         head = self._git_output("rev-parse", "HEAD")
@@ -1320,17 +1572,50 @@ class ProductionRepositoryFixture(GitRepositoryFixture):
 class ProductionRepositoryTests(ProductionRepositoryFixture):
     """The repository validator's production contract on a disposable history."""
 
-    def test_empty_bootstrap_state_validates(self) -> None:
+    def test_absent_registry_is_a_missing_input_not_an_empty_registry(self) -> None:
+        errors, notices = self._validate()
+        self.assertEqual(notices, [])
+        self.assertEqual([error for error in errors if "registry is absent" in error], errors)
+        self.assertTrue(errors)
+
+    def test_first_published_record_creates_the_partition_and_validates(self) -> None:
+        self._git("switch", "--quiet", "-c", "character-reconstruction")
+        self._publish([candidate(self.commit, self.digest)])
+        self._commit_outputs("publish candidate")
         self.assertEqual(self._validate(), ([], []))
+        head = self._git_output("rev-parse", "HEAD")
+        registry = read_reconstruction_registry(GitSnapshot.from_commit(self.repository, head))
+        self.assertEqual([row.path for row in registry.rows], [SUBJECT_PARTITION])
+        self.assertEqual(registry.layout_errors, ())
+
+    def test_retired_single_file_is_rejected_in_a_current_snapshot(self) -> None:
+        self._git("switch", "--quiet", "-c", "character-reconstruction")
+        record = candidate(self.commit, self.digest)
+        legacy = self.repository / Path(LEGACY_RECONSTRUCTION_REGISTRY_PATH)
+        legacy.write_bytes(json.dumps(record, sort_keys=True, separators=(",", ":")).encode() + b"\n")
+        self._commit("single-file registry", LEGACY_RECONSTRUCTION_REGISTRY_PATH)
+        errors, _ = self._validate()
+        self.assertTrue(any("is retired" in error for error in errors), errors)
 
     def test_production_surfaces_are_required_and_index_drift_fails(self) -> None:
+        self._publish([candidate(self.commit, self.digest)])
+        self._commit_outputs("integrated candidate")
+        self._advance_main()
         self._git("rm", "--quiet", "--", RECONSTRUCTION_INDEX_PATH)
         self._git("commit", "--quiet", "-m", "remove index")
         errors, _ = self._validate()
         self.assertTrue(any("index is missing" in error for error in errors), errors)
         self._git("revert", "--no-edit", "HEAD")
+        self._git("rm", "--quiet", "--", NAMESPACE_PAGE)
+        self._git("commit", "--quiet", "-m", "remove page")
+        errors, _ = self._validate()
+        self.assertTrue(any(f"output is missing: {NAMESPACE_PAGE}" in error for error in errors), errors)
+        self._git("revert", "--no-edit", "HEAD")
         self._git("switch", "--quiet", "-c", "character-reconstruction")
-        self._publish([candidate(self.commit, self.digest)], render=False)
+        stale = copy.deepcopy(candidate(self.commit, self.digest))
+        stale["assessment_status"] = "STALE"
+        stale["stale_reason"] = "Recorded without regenerating the index."
+        self._publish([stale], render=False)
         self._commit_outputs("registry without regenerated index")
         errors, _ = self._validate()
         self.assertTrue(any("is out of date" in error for error in errors), errors)
@@ -1356,7 +1641,10 @@ class ProductionRepositoryTests(ProductionRepositoryFixture):
         self._publish([unassessed(self.commit)])
         self._commit_outputs("placeholder")
         errors, _ = self._validate()
-        self.assertTrue(any("UNASSESSED" in error for error in errors), errors)
+        self.assertTrue(
+            any("the production registry does not admit UNASSESSED placeholders" in error for error in errors),
+            errors,
+        )
 
     def test_delayed_evaluator_maintenance_does_not_block_series_publication(self) -> None:
         self._publish([candidate(self.commit, self.digest)])
@@ -1421,7 +1709,7 @@ class ProductionRepositoryTests(ProductionRepositoryFixture):
     def test_reconstruction_generation_never_writes_discovery_outputs(self) -> None:
         discovery = (self.repository / "characters/registry.jsonl").read_bytes()
         self._publish([candidate(self.commit, self.digest)], render=False)
-        self._git("add", "--", RECONSTRUCTION_REGISTRY_PATH)
+        self._git("add", "--", SUBJECT_PARTITION)
         subprocess.run(
             [
                 sys.executable,
@@ -1438,6 +1726,7 @@ class ProductionRepositoryTests(ProductionRepositoryFixture):
         self.assertEqual((self.repository / "characters/registry.jsonl").read_bytes(), discovery)
         self.assertFalse((self.repository / "CHARACTER_ANALYSIS_INDEX.md").exists())
         self.assertIn(b"alice-anime-v1", (self.repository / Path(RECONSTRUCTION_INDEX_PATH)).read_bytes())
+        self.assertIn(b"alice-anime-v1", (self.repository / Path(NAMESPACE_PAGE)).read_bytes())
 
 
 class IntegrationControlTests(unittest.TestCase):
@@ -1445,24 +1734,27 @@ class IntegrationControlTests(unittest.TestCase):
         obligations = json.loads(
             (REPOSITORY / "governance/repository-controls/change-obligations.json").read_text(encoding="utf-8")
         )
-        rules = active_rules(obligations, {RECONSTRUCTION_REGISTRY_PATH}, set(), set())
+        rules = active_rules(obligations, {SUBJECT_PARTITION}, set(), set())
         self.assertEqual([rule["id"] for rule in rules], ["character-reconstruction"])
-        self.assertEqual(
-            missing_required_output_paths(rules, {RECONSTRUCTION_REGISTRY_PATH}),
-            [RECONSTRUCTION_INDEX_PATH],
+        self.assertEqual(missing_required_output_paths(rules, {SUBJECT_PARTITION}), [RECONSTRUCTION_INDEX_PATH])
+        discovery_rules = active_rules(
+            obligations, {"characters/registry/example.jsonl"}, set(), set()
         )
-        discovery_rules = active_rules(obligations, {"characters/registry.jsonl"}, set(), set())
         self.assertEqual([rule["id"] for rule in discovery_rules], ["character-discovery"])
+        self.assertEqual(
+            missing_required_output_paths(discovery_rules, {"characters/registry/example.jsonl"}),
+            ["CHARACTER_ANALYSIS_INDEX.md"],
+        )
 
     def test_audit_recognizes_reconstruction_branch_without_housekeeping_pending(self) -> None:
         path = ".github/workflows/repository-audit.yml"
         source = (REPOSITORY / path).read_bytes()
         line = b"      - character-reconstruction\n"
         self.assertIn(line, source)
-        self.assertIn(
-            b"startsWith(github.ref_name, 'series/') || startsWith(github.ref_name, 'studies/')",
-            source,
-        )
+        # The reporter publishes the validator's state for every branch; only stale
+        # routing on an analysis branch is pending, so this branch never waits on housekeeping.
+        self.assertNotIn(b"ANALYTICAL_SOURCE", source)
+        self.assertIn(b"state = integration\n", source)
         changed = source.replace(line, b"", 1)
         snapshot = GitSnapshot(REPOSITORY, "IN_MEMORY", {path: SnapshotEntry(path, "100644", changed)})
         failures = validate_audit_workflow(snapshot, {"allowed_workflows": [path]})
@@ -1472,23 +1764,44 @@ class IntegrationControlTests(unittest.TestCase):
         )
 
     def test_reconstruction_outputs_stay_outside_discovery_and_housekeeping(self) -> None:
-        self.assertTrue(RECONSTRUCTION_OUTPUTS.isdisjoint({"characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md"}))
+        outputs = RECONSTRUCTION_OUTPUTS | {LEGACY_RECONSTRUCTION_REGISTRY_PATH}
+        self.assertFalse(any(is_discovery_output(path) for path in outputs))
+        self.assertTrue(all(is_reconstruction_output(path) for path in outputs))
+        for path in ("characters/registry/example.jsonl", "characters/index/example.md", "characters/README.md"):
+            self.assertFalse(is_reconstruction_output(path), path)
         housekeeping = (REPOSITORY / ".github/workflows/global-index-housekeeping.yml").read_text(encoding="utf-8")
-        for path in RECONSTRUCTION_OUTPUTS:
+        for path in outputs:
             self.assertNotIn(path, housekeeping)
             with self.assertRaises(DomainError):
                 validate_evidence_path(path)
+
+    def test_evaluator_outputs_change_alone_unless_the_policy_changes_with_them(self) -> None:
+        outputs = set(RECONSTRUCTION_OUTPUTS)
+        other = "series/example/CURRENT.md"
+        for alone in (set(), {other}, outputs, {other, RECONSTRUCTION_POLICY_PATH}):
+            self.assertEqual(reconstruction_output_isolation_errors(alone), [], alone)
+        for output in sorted(outputs):
+            self.assertEqual(
+                reconstruction_output_isolation_errors({output, other}),
+                [f"reconstruction production outputs must change alone; other changed paths: {[other]}"],
+                output,
+            )
+        # A reviewed policy amendment may carry regenerated outputs beside other paths.
+        self.assertEqual(
+            reconstruction_output_isolation_errors(outputs | {other, RECONSTRUCTION_POLICY_PATH}), [],
+        )
 
     def test_live_production_registry_and_index_follow_the_activation_contract(self) -> None:
         snapshot = GitSnapshot.from_index(REPOSITORY)
         phase, policy_errors = load_reconstruction_policy(snapshot)
         self.assertEqual(policy_errors, [])
         rendered = load_and_render(snapshot, REPOSITORY)
-        self.assertEqual(snapshot.get(RECONSTRUCTION_INDEX_PATH).data, rendered.encode("utf-8"))  # type: ignore[union-attr]
-        registry = decode_reconstruction_registry(
-            snapshot.get(RECONSTRUCTION_REGISTRY_PATH).data, RECONSTRUCTION_REGISTRY_PATH  # type: ignore[union-attr]
-        )
-        statuses = {record["assessment_status"] for _line, record in registry}
+        for path, text in rendered.items():
+            self.assertEqual(snapshot.get(path).data, text.encode("utf-8"), path)  # type: ignore[union-attr]
+        registry = read_reconstruction_registry(snapshot)
+        self.assertEqual(registry.layout_errors, ())
+        self.assertTrue(registry.rows)
+        statuses = {record["assessment_status"] for record in registry.records}
         self.assertNotIn("UNASSESSED", statuses)
         if phase != "ROUTINE":
             self.assertNotIn("REVIEWED", statuses)
@@ -1532,7 +1845,16 @@ class ReadinessCertificationTests(ProductionRepositoryFixture):
         self._advance_main()
         return reviewed
 
+    def test_absent_registry_is_a_missing_input(self) -> None:
+        with self.assertRaisesRegex(DomainError, "lacks the production registry"):
+            self._currentness()
+
     def test_empty_selection_never_certifies_readiness(self) -> None:
+        # The activation bootstrap commit held an empty single-file registry; it
+        # is still read in the old layout and has no assessment to select.
+        legacy = self.repository / Path(LEGACY_RECONSTRUCTION_REGISTRY_PATH)
+        legacy.write_bytes(b"")
+        self._commit("historical empty bootstrap registry", LEGACY_RECONSTRUCTION_REGISTRY_PATH)
         code, output, _ = self._currentness()
         self.assertEqual(code, 0)
         self.assertEqual(output["assessments"], [])  # type: ignore[index]
@@ -1564,17 +1886,54 @@ class ReadinessCertificationTests(ProductionRepositoryFixture):
         self.assertIn("--deferred requires --since", stderr)
 
     def test_deferred_subject_returns_after_evidence_bytes_change(self) -> None:
-        checkpoint = self._git_output("rev-parse", "HEAD")
-        self._revise_evidence_on_main()
+        # Enroll a second subject whose assessment is deferred; Alice's candidate
+        # keeps the registry present and stays current throughout.
+        bob_subject, bob_evidence = "example:bob@anime", "series/example/BOB.md"
+        bob = discovery_record(bob_subject, evidence_path=bob_evidence, curation_status="INCLUDED")
+        bob["character_entity_id"], bob["preferred_name"] = "example:bob", "Bob"
+        (self.repository / Path(bob_evidence)).write_bytes(authority_artifact(b"# Bob\n"))
+        self._write_registry([self.record, bob])
+        self._commit("enroll Bob", bob_evidence, "characters/registry.jsonl")
+        self._publish([candidate(self.commit, self.digest)])
+        self._commit_outputs("candidate")
+        self._advance_main()
+        checkpoint = self.main
+        (self.repository / Path(bob_evidence)).write_bytes(authority_artifact(b"# Bob revised\n"))
+        self._commit("series analysis revises Bob's evidence", bob_evidence)
+        self._advance_main()
         code, output, _ = run_status(
             "work-queue", "--repo", str(self.repository), "--commit", self.main,
-            "--since", checkpoint, "--deferred", SUBJECT,
+            "--since", checkpoint, "--deferred", bob_subject,
         )
         self.assertEqual(code, 0)
         self.assertEqual(
             [(item["analysis_subject_id"], item["kind"], item["reasons"]) for item in output["items"]],  # type: ignore[index]
-            [(SUBJECT, "DEFERRED_EVIDENCE_CHANGED", ["EVIDENCE_BYTES_CHANGED_SINCE_CHECKPOINT"])],
+            [(bob_subject, "DEFERRED_EVIDENCE_CHANGED", ["EVIDENCE_BYTES_CHANGED_SINCE_CHECKPOINT"])],
         )
+
+    def test_work_queue_reports_the_frontier_while_the_candidate_stays_current(self) -> None:
+        self._publish([candidate(self.commit, self.digest)])
+        self._commit_outputs("candidate")
+        reading = "series/example/ALICE_LATER_READING.md"
+        (self.repository / Path(reading)).write_bytes(authority_artifact(b"# Later\n" + b"Alice decides.\n" * 12))
+        self._commit("later reading", reading)
+        self._advance_main()
+        code, output, _ = run_status("work-queue", "--repo", str(self.repository), "--commit", self.main)
+        self.assertEqual(code, 0)
+        (item,) = output["items"]  # type: ignore[index]
+        self.assertEqual(
+            (item["analysis_subject_id"], item["kind"], item["reasons"]),
+            (SUBJECT, "ANALYSIS_FRONTIER_ADVANCED", ["SUBJECT_ANALYSIS_GREW_SINCE_BASIS"]),
+        )
+        self.assertEqual(item["frontier"][0]["paths"], [{"mention_growth": 12, "repository_path": reading}])
+        self.assertEqual(output["subject_state_counts"], {"PENDING_PROVISIONAL": 1})  # type: ignore[index]
+        code, output, _ = run_status("currentness", "--repo", str(self.repository), "--commit", self.main)
+        self.assertEqual(output["assessments"][0]["effective_state"], "CURRENT_PROVISIONAL")  # type: ignore[index]
+        code, _output, stderr = run_status(
+            "work-queue", "--repo", str(self.repository), "--commit", self.main, "--frontier-min-mentions", "0"
+        )
+        self.assertEqual(code, 2)
+        self.assertIn("--frontier-min-mentions must be at least 1", stderr)
 
 
 @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
@@ -1632,7 +1991,7 @@ class DeferredEvidenceChangeTests(GitRepositoryFixture):
 
 
 class DiscoveryBranchConfinementTests(GitRepositoryFixture):
-    """The curation branch carries only the two discovery outputs."""
+    """The curation branch carries only discovery outputs."""
 
     def setUp(self) -> None:
         super().setUp()
@@ -1656,6 +2015,32 @@ class DiscoveryBranchConfinementTests(GitRepositoryFixture):
         self._edit_discovery()
         self._commit("curate", "characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md")
         self.assertEqual(self._confinement(), [])
+
+    def test_partitioned_curation_delta_and_the_migration_pass(self) -> None:
+        self._migrate_registry()
+        self.assertEqual(self._confinement(), [])
+        edited = copy.deepcopy(self.record)
+        edited["notes"] = "A curation revision."
+        (self.repository / "characters/registry/example.jsonl").write_text(
+            json.dumps(edited, ensure_ascii=False, sort_keys=True, separators=(",", ":")) + "\n",
+            encoding="utf-8",
+            newline="\n",
+        )
+        page = self.repository / "characters/index/example.md"
+        page.parent.mkdir(parents=True)
+        page.write_bytes(b"# Example\n")
+        (self.repository / "CHARACTER_ANALYSIS_INDEX.md").write_bytes(b"# Index\n\nRevised.\n")
+        self._commit(
+            "curate",
+            "characters/registry/example.jsonl",
+            "characters/index/example.md",
+            "CHARACTER_ANALYSIS_INDEX.md",
+        )
+        self.assertEqual(self._confinement(), [])
+        (self.repository / "characters/README.md").write_bytes(b"# Not a discovery output\n")
+        self._commit("outside the outputs", "characters/README.md")
+        failures = self._confinement()
+        self.assertTrue(any("characters/README.md" in item for item in failures), failures)
 
     def test_any_other_path_on_the_curation_branch_fails(self) -> None:
         self._edit_discovery()
@@ -1741,9 +2126,10 @@ class DiscoveryBranchConfinementTests(GitRepositoryFixture):
                 self.assertIn(
                     "repository-audit workflow missing required contract: " + fragment.decode(), failures
                 )
-        housekeeping = (REPOSITORY / ".github/workflows/global-index-housekeeping.yml").read_text(encoding="utf-8")
-        for output in DISCOVERY_OUTPUTS:
-            self.assertIn(f'"{output}"', housekeeping)
+        # An analysis branch may still carry a coordinated curation repair.
+        self._edit_discovery()
+        head = self._commit("coordinated repair", "characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md")
+        self.assertEqual(validate_routing_branch_scope(self.repository, "commit", head, "series/example"), [])
 
 
 if __name__ == "__main__":

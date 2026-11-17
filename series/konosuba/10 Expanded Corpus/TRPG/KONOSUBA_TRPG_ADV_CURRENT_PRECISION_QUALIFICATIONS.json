@@ -44,5 +44,18 @@
       "source": "S149/147; S220/218; S276/274; S279/277; S287/285; S309/307",
       "current": "Retain Wire Action maximum/prerequisite discrepancy, below9 versus9orbelow wording, Combat Golem45(3D) hit, Wyvern breath summary/body values, Poison Needle success-trigger wording and Bōren attack summary/type mismatch without silent repair or exhaustive mechanics certification."
     }
-  ]
+  ],
+  "cohort52_current_source_qualification_route": {
+    "authored_utc": "2026-10-25T23:11:09.495270+00:00",
+    "current_owner": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+    "qualification_ids": [
+      "C52-Q04",
+      "C52-Q05",
+      "C52-Q06",
+      "C52-Q07"
+    ],
+    "scope": "Attributable additions to preserved historical source-first notes and current qualifications. No rewriting of frozen C31 index, H/L coding, model, first response or score.",
+    "actual_complete_native_return": 82,
+    "source_known_same_AI_lineage": true
+  }
 }

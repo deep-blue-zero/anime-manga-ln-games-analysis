@@ -1,0 +1,1653 @@
+{
+  "schema": "tomozaki_principal_B_portable_historical_records/v1",
+  "artifact_type": "derived_model_historical_evidence_records",
+  "record_group": "PRODUCER_TEST",
+  "status": "canonical",
+  "release_state": "fixed_historical_evidence",
+  "repository_authority": false,
+  "do_not_use_as_current_authority": true,
+  "do_not_use_as_primary_literary_authority": true,
+  "historical_value_policy": "Complete values are preserved unchanged and attributable. Creation-stage pending/no-admission statements do not supersede later root decisions. Historical scratch/helper-identity strings are provenance only; no helper body/argv/raw primary is included.",
+  "records": [
+    {
+      "record_id": "producer.IY_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+      "value_kind": "complete_json_semantic_value",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_b_20261103/IY_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+        "bytes": 38466,
+        "sha256": "362348988a3a3eecf08db64b0ff7d7663994a091e48f9062f1614ef08897125e"
+      },
+      "semantic_value_sha256": "2b17d3e3dda89bb735db1b26a3226eb1e2290f793aa624b8ea0104230a1274ac",
+      "value": {
+        "schema": "tomozaki_principal_B3_actual_model_application/v1",
+        "utc": "2026-11-04T02:54:06.106254+00:00",
+        "person": "IZUMI_YUZU",
+        "model": {
+          "path": ".scratch/constructed_principal_models_b_20261103/IZUMI_YUZU_BOUNDED_RECONSTRUCTION_MODEL.md",
+          "bytes": 18891,
+          "sha256": "685c4f9736229b6dd705237f0b266158ae4a99ae40ed068e8db15c45e86344c1"
+        },
+        "root_freeze": {
+          "path": ".scratch/model_review_root_20261103/ROOT_PRINCIPAL_B_PREREGISTRATION_FREEZE.json",
+          "bytes": 12604,
+          "sha256": "4b4275c68c443b708c558477d6a185ee33eeb043205a58bbdb10820fe4a88822"
+        },
+        "frozen_preregistration": {
+          "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+          "bytes": 35973,
+          "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+        },
+        "dependencies": {
+          "path": ".scratch/constructed_principal_models_b_20261103/PRINCIPAL_B_MODEL_DEPENDENCIES.json",
+          "bytes": 31685,
+          "sha256": "aa3ed288c74908bf59a595bf80396c8665cb2fc1c666365810c3bec0684784ce"
+        },
+        "execution_method": "Producer manually applied the actual written operational model after root freeze, then recorded these actual English analysis/action outputs. This recorder attaches exact identities/criteria; it is not an independent persona engine or ground-truth oracle.",
+        "criteria_count": 7,
+        "actual_suboutputs": 13,
+        "cases": [
+          {
+            "test_id": "IY-R1",
+            "source_handles": [
+              "IY-R01/04/05/06/11",
+              "monograph16.1–16.2/18–19",
+              "CS12",
+              "JVL23/24",
+              "ensemble2"
+            ],
+            "suboutputs": [
+              {
+                "selector": "IY-S1 / early game learning",
+                "input": "Apply the model to learning a skill for desired closeness.",
+                "standing": "Yuzu is a game learner; Fumiya teaches this domain while needing her social knowledge elsewhere.",
+                "actor_known_information": "Her Nakamura-oriented end precedes instruction; later relationship security is not yet supplied.",
+                "stakes": "Wanted relation and practice, with real social risk and uncertain reciprocity.",
+                "mechanisms_applied": [
+                  "YM1"
+                ],
+                "actual_output": "Her practice can be owned even though the method comes from someone else. Select a usable learning task in service of her actual relation reason rather than invent an elite-gamer vocation or call every accommodation submission. Let expertise change direction when the topic becomes ordinary presentation; this is not a master/pupil ranking of whole people.",
+                "register_control": "A request for instruction can coexist with socially capable explanation in another field.",
+                "abstention": "No later couple security, universally fair relationship conditions or complete assertiveness backdated.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "IY-S2/S5/S7 / reluctance, public choice and collaboration",
+                "input": "Apply softened refusal and later selected festival work.",
+                "standing": "Peer pressed about a class role, later a chosen public organizer and familiar collaborator.",
+                "actor_known_information": "A locally expressed reluctance and a later owned participation reason are separate evidence; festival work actually occurs.",
+                "stakes": "Affiliation, her own choice to create a shared occasion and real work.",
+                "mechanisms_applied": [
+                  "YM2",
+                  "YM1"
+                ],
+                "actual_output": "Softened wording can still say she does not want the role; a changed reason can later make participation hers. Selected festival chairing is positive public agency, not merely invisible repair. Demonstrated coordination does not establish a durable capacity/delegation policy or total social expertise.",
+                "register_control": "Hesitant refusal and cheerful facilitation perform different acts; bright form does not certify costless compliance.",
+                "abstention": "No universal decisiveness, compulsory agreement, professional vocation or lifelong leadership appetite.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "IY-S6/S7 / ordinary fashion/photo/education desires",
+                "input": "Apply positive preferences without turning them into a career.",
+                "standing": "Konno consults a friend whose judgment she can accept; Fumiya receives familiar educational banter.",
+                "actor_known_information": "The reader sees particular clothing corrections/photo praise and hears Yuzu’s reported Aogaku reason.",
+                "stakes": "Pleasure in judgment, shared food/images and a future-facing wish of her own.",
+                "mechanisms_applied": [
+                  "YM3"
+                ],
+                "actual_output": "She can distinguish a shorter jacket from merely approving the first option and enjoy being asked. Photographic skill can be real and teased. Her Aogaku wish remains a selected aspiration with a reported model-school association; playful praise-seeking has an ordinary familiar purpose. These wants are not all hidden sacrifices.",
+                "register_control": "Frank friend consultation and playful educational chatter differ from V11 self-blame; do not make either automatic flirtation.",
+                "abstention": "No fixed uniform, modeling career, verified celebrity biography, university admission/finance feasibility or exhaustive tastes.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— Learner, collaborator and ordinary person have her own ends\n\n**Exposed inputs/selectors:** Early game learning for a desired relation; later social/relationship collaboration and selected festival leadership; ordinary V06.5 fashion/photo consultation and V08 Aogaku banter. Source: IY-R01/04/05/06/11; monograph §§16.1–16.2/18–19; CS §12; JVL-23/24; ensemble §2.\n\n**Expected range:** Borrowed method does not transfer her relationship end to the teacher. Game learner and source of social expertise are domain-specific positions, not total personal ranking. Festival work can be wanted public agency. Clothing judgment, photographic skill, enjoyment of consultation and the reported educational wish are positive tastes/aspirations rather than only maintenance labor. Playful praise-seeking addressed to Fumiya differs from romantic invitation or V11 solemn self-blame. Softened reluctance can still be a real preference/refusal.\n\n**Material failure:** Passive service infrastructure, universal social perfection, every preference a sacrifice, fixed uniform/favorite catalogue, verified model biography, university admission/feasibility, a chosen modeling vocation or automatic flirtation.\n\n",
+            "exposure": "Exposed retrospective consistency; source and all outcomes already read.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/IZUMI_YUZU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 18891,
+              "sha256": "685c4f9736229b6dd705237f0b266158ae4a99ae40ed068e8db15c45e86344c1"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          },
+          {
+            "test_id": "IY-R2",
+            "source_handles": [
+              "IY-R05",
+              "monograph16.1",
+              "CS12"
+            ],
+            "suboutputs": [
+              {
+                "selector": "IY-S6 / private breakup fear versus actual gift purpose",
+                "input": "Apply partial-sign interpretation to the privately focalized meeting anxiety.",
+                "standing": "Yuzu wants the relationship; Nakamura is the partner whose actual meeting purpose is not her fear; Fumiya is absent.",
+                "actor_known_information": "Her clothes/distress/fear are private reader access; the meeting is actually for a birthday gift.",
+                "stakes": "Desired continuity, uncertain reassurance and the cost of a communication gap.",
+                "mechanisms_applied": [
+                  "YM5",
+                  "YM3"
+                ],
+                "actual_output": "Her direct wish not to break up is real feeling while the feared breakup is not an event. The later caring surprise can matter without undoing the anxiety already borne. A photograph first reassures then prompts suspicion as another partial sign; it does not prove infidelity.",
+                "register_control": "Private distress and direct relational declaration differ from earlier playful consultation; no imagined heard inner monologue.",
+                "abstention": "No breakup/affair fact, mind-reading, diagnosis, stable surveillance rule or automatic Fumiya access.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "IY-S6 / Konno assistance using Mutsumi’s phone",
+                "input": "Apply actor and stage-specific permission.",
+                "standing": "Konno proposes/acts, Kawaguchi Mutsumi owns the phone, Yuzu receives practical help within hierarchy.",
+                "actor_known_information": "Taking precedes a reply; assent precedes the first send. Yuzu appreciates help while judging past harassment wrong.",
+                "stakes": "Relief and friendship pleasure alongside unequal access and actual permission boundaries.",
+                "mechanisms_applied": [
+                  "YM4",
+                  "YM5"
+                ],
+                "actual_output": "Keep the initial taking and later sending distinct. Later assent does not erase the initial resource taking; the initial taking does not erase the assent to the send. Yuzu’s received care is real without making Konno incapable of harm or absolved by helpfulness. Do not transfer every assisting act or permission to Yuzu.",
+                "register_control": "Frank practical help and its reception are not a global moral reconciliation or an apology by another actor.",
+                "abstention": "No wholly-consented/wholly-unconsented flattening, proof of betrayal or invented terminal repair.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— Private fear and unequal assistance do not become objective facts\n\n**Exposed inputs/selectors:** Story-local V06.5 private fear of a breakup, Konno's practical help, taking Kawaguchi Mutsumi's phone before reply, assent before the first send, partial photograph interpretation, and actual birthday-gift purpose. Source: IY-R05; monograph §16.1; CS §12; supporting Konno context as routed literary dependency.\n\n**Expected range:** Preserve distress and direct desire not to break up without turning fear into an actual breakup/infidelity fact or Fumiya's knowledge. Friendship pleasure, helpful effect and hierarchy can coexist. The initial taking and later sending have different consent states. Konno's care is counterevidence to incapacity for care, not approval of her harassment or a later terminal apology.\n\n**Material failure:** Entire exchange either wholly consented or wholly unconsented, photo as proof of betrayal, boyfriend already shared her private fear, all Konno support morally purifying, or supplemental publication order replacing story time.\n\n",
+            "exposure": "Exposed retrospective consistency; source and all outcomes already read.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/IZUMI_YUZU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 18891,
+              "sha256": "685c4f9736229b6dd705237f0b266158ae4a99ae40ed068e8db15c45e86344c1"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          },
+          {
+            "test_id": "IY-R3",
+            "source_handles": [
+              "IY-R02–04",
+              "monograph16.2–16.3",
+              "CS12/20",
+              "JVL9",
+              "ensemble5.2"
+            ],
+            "suboutputs": [
+              {
+                "selector": "IY-S3 / V04 timing-sensitive inquiry",
+                "input": "Apply active information work under local social conditions.",
+                "standing": "Yuzu approaches Hirabayashi in a school field where Konno’s attention and peer exclusion matter.",
+                "actor_known_information": "Hirabayashi reports material loss, Yuzu reports exclusion; Fumiya makes some causal inferences. A teacher’s local opt-out remains part of the field.",
+                "stakes": "Get a usable account without increasing public cost; incomplete proof.",
+                "mechanisms_applied": [
+                  "YM2"
+                ],
+                "actual_output": "Her repeated well-timed approaches are active agency. Reconstruct what she has actually heard and reported rather than make her omniscient about perpetrators. An indirect channel can protect access and still leave causes and an institutional remedy unsettled. The local adult option prevents a total adult-absence thesis.",
+                "register_control": "Timing, softened approach and reported content have functions beyond passive atmosphere-following.",
+                "abstention": "No certain perpetrator list, guaranteed institutional solution or universal direct confrontation.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "IY-S4/S5 / re-entry, apology and public work",
+                "input": "Keep each actor’s repair and later selected public contribution distinct.",
+                "standing": "Yuzu repairs an object and sustains Konno’s ordinary participation; Tama stops attack; Akiyama/group apologize after Konno leaves.",
+                "actor_known_information": "The material repair, actual apology and missing Konno apology are separately known. Later festival work is selected and performed.",
+                "stakes": "Humane coexistence, accountability and public agency without unlimited maintenance.",
+                "mechanisms_applied": [
+                  "YM4",
+                  "YM2"
+                ],
+                "actual_output": "Helping a discredited friend return is not approval of harassment, the wrongdoer’s restitution or proof justice is complete. Preserve Akiyama/group’s apology instead of saying none occurred; do not credit it to Konno. Later festival coordination adds visible chosen work but supplies no permanent absorber boundary.",
+                "register_control": "Ordinary inclusion and public task coordination differ from declaring forgiveness or giving an ethics verdict for Tama.",
+                "abstention": "No complete safeguards/trust, universal management ability or source-erasing claim that no one apologized.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— Discreet inquiry, public work and humane re-entry remain bounded acts\n\n**Exposed inputs/selectors:** V04 timing-sensitive approach to Hirabayashi, attributed material-loss/exclusion reports and the teacher's locally available opt-out; V05 re-entry and separate apology; V06–07 selected festival work. Source: IY-R02–04; monograph §§16.2–16.3; CS §12/§20; JVL §9; ensemble §5.2.\n\n**Expected range:** Inquiry can be active agency through timing/recipient fit while knowledge of perpetrators, causes and institutional remedies remains limited. Keep attributed reports separate from Fumiya's causal inference and avoid total adult-absence claims. Supporting Konno's ordinary participation need not approve prior harm. Akiyama/group's real apology is separate from Konno's missing apology, restitution and safeguards. Chosen public leadership is demonstrated, while capacity and sustainable labor allocation remain unestablished.\n\n**Material failure:** Coexistence equals full justice, no apology anywhere, Konno receives another actor's apology, indirectness equals no will, universal direct intervention, or one festival settles her lifelong management capacity.\n\n",
+            "exposure": "Exposed retrospective consistency; source and all outcomes already read.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/IZUMI_YUZU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 18891,
+              "sha256": "685c4f9736229b6dd705237f0b266158ae4a99ae40ed068e8db15c45e86344c1"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          },
+          {
+            "test_id": "IY-R4",
+            "source_handles": [
+              "IY-R07",
+              "monograph16.4",
+              "CS12",
+              "EFF65/82–84",
+              "ensemble14"
+            ],
+            "suboutputs": [
+              {
+                "selector": "IY-S8 / birthday plan under partial family information",
+                "input": "Apply separate sincerity, access, permission and effect judgments.",
+                "standing": "Yuzu is a friend/organizer among distinct contributors, not owner of Hinami’s full history or life meaning.",
+                "actor_known_information": "Remembered preferences, practical sequence, actual pleasure and later injury are available; acute trigger clarification is Hinami’s later private reader access.",
+                "stakes": "Wanted care and shared celebration, finite knowledge, other people’s resources and interpretation risk.",
+                "mechanisms_applied": [
+                  "YM6",
+                  "YM2"
+                ],
+                "actual_output": "Conventional route/cake/game forms can carry recipient-specific attention and produce genuine enjoyment. Preserve that competence and effect while retaining unknown family meaning and distinct permission questions. Failure under hidden information does not prove the care false or assign Yuzu sole fault. Later V12 clarification cannot be backdated into her planning knowledge.",
+                "register_control": "Familiar facilitation is not a guarantee of emotional safety or an authoritative explanation of another life.",
+                "abstention": "No hidden-trigger knowledge, perfectly safe celebration recipe, sole blame or beneficial uptake licensing every method.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— Care, received pleasure and hidden family meaning are different judgments\n\n**Exposed inputs/selectors:** V10 birthday coordination and V12 reader-only clarification of the acute trigger. Yuzu is an organizer with remembered preferences and partial family information, not a reader with access to Hinami's whole private history. Source: IY-R07; monograph §16.4; CS §12; ensemble §14; EFFORT §65/§82–84.\n\n**Expected range:** Preserve planning competence, actual labor and genuine received joy while distinguishing sincerity, access, permission and result. Unexpected injury does not make earlier pleasure false or prove sole blame. Hinami's V12 private trigger clarification is not retroactively organizer knowledge. Actual effects do not confer authorization for every intervention or settle the subject's life meaning.\n\n**Material failure:** Knowledge of hidden family trigger, guaranteed safe celebration, care proved fake by injury, unknown history owned by Yuzu, or later benefit repairing every permission problem. No exact new reassurance line or universal party recipe is requested.\n\n",
+            "exposure": "Exposed retrospective consistency; source and all outcomes already read.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/IZUMI_YUZU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 18891,
+              "sha256": "685c4f9736229b6dd705237f0b266158ae4a99ae40ed068e8db15c45e86344c1"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          },
+          {
+            "test_id": "IY-R5",
+            "source_handles": [
+              "IY-R08–10",
+              "monograph16.5/17–19",
+              "REL17",
+              "ensemble15–16"
+            ],
+            "suboutputs": [
+              {
+                "selector": "IY-S9 / V11 missing handoff, proposal and departure",
+                "input": "Apply guilt/protest/following to the actual owners.",
+                "standing": "Yuzu proposes action; Nakamura protests/refuses; other friends receive her apology and choice to follow.",
+                "actor_known_information": "Unfinished council handoff and ignored contact are reported; they do not know Hinami’s full private past.",
+                "stakes": "Practical work, hurt, self-blame, attachment and concern conflict.",
+                "mechanisms_applied": [
+                  "YM7"
+                ],
+                "actual_output": "Her initiative and guilt remain real without proving sole responsibility. Nakamura refuses partly because she has been made to blame herself, while denying that friendship must be broken. His answer does not become her general threshold. She chooses to follow after apologizing; this may leave others hurt without proving a private complete couple policy.",
+                "register_control": "Report/proposal, self-blame, apology and following are sequential addressed acts, not one unanimous abandonment.",
+                "abstention": "No partner-always-first ordering, complete reciprocity agreement, limitless care obligation or sole causal blame.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "IY-S10 / V12 manuscript delivery",
+                "input": "Apply local state change without inventing the intervening agreement.",
+                "standing": "Yuzu joins Nakamura/Takei in a real delivery after earlier refusal; Hinami is the recipient resisting contact.",
+                "actor_known_information": "Delivery is shown; the private negotiation that changed participation is not. Apology/trap explanations are Hinami’s conjectures.",
+                "stakes": "Renewed contribution amid refusal, uncertain access and a pressured relay.",
+                "mechanisms_applied": [
+                  "YM7",
+                  "YM6"
+                ],
+                "actual_output": "Record the changed participation, not a fabricated reconciliation protocol. Her help does not give every peer full family/method knowledge or prior subject assent. Later reading and benefit remain effects within a pressure sequence; they cannot erase the earlier refusal or certify every method.",
+                "register_control": "Practical participation does not require inventing a speech of apology, reassurance or settled group agreement.",
+                "abstention": "No missing private bargain, Hinami theory adopted as fact, full repair or equal information among helpers.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "IY-S11 / final audience wave",
+                "input": "Apply the output limit where presence is visible and words are masked.",
+                "standing": "Yuzu waves beside Nakamura; Takei’s encouragement dominates Fumiya’s hearing.",
+                "actor_known_information": "Gesture and ordinary presence are observed; exact Yuzu words are unavailable.",
+                "stakes": "Continued affiliation as a small positive act, without lexical evidence.",
+                "mechanisms_applied": [
+                  "YM7"
+                ],
+                "actual_output": "Preserve the wave and company as meaningful ordinary participation. Stop before supplying a characteristic reassuring sentence: the source does not let the observer hear it. No large declaration is needed to make her presence count.",
+                "register_control": "Describe the gesture; a fluency stereotype cannot supply missing vocabulary, pitch or reassurance.",
+                "abstention": "No invented utterance, complete reconciliation or standing future support promise.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— Missing handoff, self-blame, protest, following and delivery keep their owners\n\n**Exposed inputs/selectors:** V11 council fallout and group discussion; Yuzu's proposal/self-blame; Nakamura's refusal/protest, her apology and choice to follow; V12 manuscript delivery and final wave. Source: IY-R08–10; monograph §16.5/§17–19; REL §17; ensemble §§15–16.\n\n**Expected range:** Maintain her initiative, guilt and attachment without treating self-attribution as sole causal/moral responsibility. Nakamura's defense/refusal is his action and not her stable refusal threshold or a complete private couple agreement. Later delivery shows changed local participation; the intervening agreement is unshown. Hinami's apology/trap theories are her theories. Final waving is observed and Yuzu's words are unheard. A friendly ordinary presence can matter without invented speech or full reconciliation.\n\n**Material failure:** Unanimous abandonment, privately settled reciprocity, permanent partner-over-everything hierarchy, limitless repair duty, all prior costs erased by delivery, Hinami's conjectures adopted as fact, or characteristic reassurance invented from the masked final utterance.\n\n",
+            "exposure": "Exposed retrospective consistency; source and all outcomes already read.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/IZUMI_YUZU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 18891,
+              "sha256": "685c4f9736229b6dd705237f0b266158ae4a99ae40ed068e8db15c45e86344c1"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          },
+          {
+            "test_id": "IY-H1",
+            "source_handles": [
+              "YM1–3/YM6",
+              "IY-R01/02/04/07/11",
+              "JVL23/24"
+            ],
+            "suboutputs": [
+              {
+                "selector": "Hypothetical later familiar public-organizer clock",
+                "input": "New stimulus: a familiar class group invites Yuzu to coordinate a twenty-minute display setup tomorrow. She wants to join, has twenty minutes free, two peers offer help, one participant has explicitly asked for a quiet speaking slot, and room booking still needs the teacher’s answer.",
+                "standing": "Selected collaborator among peers, with bounded task/time rather than professional authority.",
+                "actor_known_information": "The stated preference, volunteered help and missing room decision are known; no hidden distress/family history or standing delegation agreement is given.",
+                "stakes": "Enjoyment/public contribution, workable sequence, recipient fit, shared labor and finite time.",
+                "mechanisms_applied": [
+                  "YM2",
+                  "YM3",
+                  "YM6"
+                ],
+                "actual_output": "One supported hypothetical plan is to check the room answer first, then offer a simple setup order using the two volunteered helpers and reserve the requested quiet speaking slot if the room permits. Ask the affected participant about timing rather than infer all needs. She can enjoy making the occasion work; this need not be concealed self-sacrifice. Label the labor split as this prompt’s offered arrangement, not proof she always delegates well.",
+                "register_control": "Cheerful familiar facilitation with a clear practical question fits this role; a softened qualification can mark the teacher-dependent part.",
+                "abstention": "No guaranteed safe emotional effect, universal management authority, hidden-distress insight or permanent capacity threshold. This is an actual hypothetical action sketch, not canon.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— Bounded familiar event work with a positively wanted contribution\n\n**Hypothetical stimulus:** In a familiar school-peer group at a specified later collaborator/public-organizer clock, Yuzu is invited to help a small event. The prompt supplies the actual requested task, available time, known participants, one remembered preference and which decisions require another person's answer. No family trigger or severe emergency is stipulated.\n\n**Expected range:** Require a concrete practical contribution or conditional plan that uses remembered recipient knowledge, timing, consultation or task coordination and permits her own enjoyment/public aspiration. Conventional forms can carry attention. A cheerful facilitation or softened qualification must serve the actual recipient and scope rather than automatically indicating submission or costlessness. Identify which parts remain shared work and which facts would alter capacity. Source: IY-R01/02/04/07/11; monograph §§16–19; JVL-23/24; ensemble §§2/14.\n\n**Material failure/OOD:** Generic self-sacrificing helper only, perfect hidden-distress detection, authority over all participants, guaranteed safe effect, universal professional management or invented durable delegation threshold. An ordinary positive action is required; abstaining from all practical coordination is not adequate.\n\n",
+            "exposure": "Clearly hypothetical; conditioning source exposed; no canonical ground truth label. Mimimi old probes exposed where relevant.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/IZUMI_YUZU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 18891,
+              "sha256": "685c4f9736229b6dd705237f0b266158ae4a99ae40ed068e8db15c45e86344c1"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          },
+          {
+            "test_id": "IY-H2",
+            "source_handles": [
+              "YM7/YM2",
+              "IY-R08",
+              "monograph17–20",
+              "CS12"
+            ],
+            "suboutputs": [
+              {
+                "selector": "Hypothetical post-V11 familiar extra burden",
+                "input": "New stimulus: she has already agreed to finish a class notice tonight and is asked to cover another small school task before the same deadline; a friend/partner says she is taking on too much. The second task’s urgency and possible helpers are not yet known.",
+                "standing": "Familiar peer with valued public/relationship commitments; the concerned person does not own her choice.",
+                "actor_known_information": "Actual existing task, new request and expressed concern are known; no shared redistribution rule or private V11–12 agreement is supplied.",
+                "stakes": "Affiliation/public achievement, finite time, possible self-blame and the cost of refusing or accepting.",
+                "mechanisms_applied": [
+                  "YM7",
+                  "YM2"
+                ],
+                "actual_output": "Retain several conditional choices: she may continue, narrow the new task, seek a helper, postpone or decline depending on the missing urgency/resources and what she wants. A bounded hypothetical first move is to ask what must actually be done tonight and who else can help before committing, while making the existing notice visible. That illustrates a practical possibility rather than certifying a newly mastered assertiveness arc. Her concern and the other person’s protest are separate; guilt, if present, does not decide fault.",
+                "register_control": "A familiar question or hesitant limit can carry agency; neither a cheerful yes nor a firm no is forced as the one authentic voice.",
+                "abstention": "Withhold an inevitable acceptance/refusal, lifelong burden policy, complete couple reciprocity, household future or invented private reconciliation. No diagnosis or moral ownership derived from guilt.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— New burden requires alternatives rather than an invented assertiveness arc\n\n**Hypothetical stimulus:** In a familiar group after V11, Yuzu is asked to absorb an additional bounded school task while she already has a specified obligation and a partner/friend expresses concern. The actual workload and request are given; no standing redistribution agreement is provided. The prompt asks which options remain supported and what would discriminate among them.\n\n**Expected range:** Preserve valued affiliation, personal/public ends, limited capacity, concern and possible self-blame without one invariant priority ranking. Continuing, narrowing, asking for shared help, postponing or declining may be conditional possibilities; do not certify a newly mastered refusal skill or predict unlimited acceptance. A practical bounded option may be illustrated as hypothetical, with uncertainty plainly retained. The partner's protest does not become her own threshold. Source: IY-R08; monograph §§17–20; CS §12; root restricted fields.\n\n**Material failure/OOD:** Guaranteed refusal/delegation, guaranteed absorption, a lifelong household/council policy, complete partner reciprocity, diagnosis, guilt as proof of fault or a private reconciliation invented to force one outcome. The output must say what is unknown and why, without abandoning ordinary agency.\n",
+            "exposure": "Clearly hypothetical; conditioning source exposed; no canonical ground truth label. Mimimi old probes exposed where relevant.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/IZUMI_YUZU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 18891,
+              "sha256": "685c4f9736229b6dd705237f0b266158ae4a99ae40ed068e8db15c45e86344c1"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          }
+        ],
+        "validation_state": "PRODUCER_ACTUAL_APPLICATION_ONLY_INDEPENDENT_AND_ROOT_REVIEW_PENDING",
+        "freeform_Japanese_dialogue": 0,
+        "acoustic_claim": false,
+        "blind_prediction_claim": false,
+        "model_output_as_literary_evidence": false,
+        "new_primary_calls": 0,
+        "new_pixels": 0,
+        "new_audio": 0
+      }
+    },
+    {
+      "record_id": "producer.NM_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+      "value_kind": "complete_json_semantic_value",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_b_20261103/NM_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+        "bytes": 51636,
+        "sha256": "2f7f9800e7ce6ea2e299007cbe8d5f061052019d12017532df2fc390ed6ee977"
+      },
+      "semantic_value_sha256": "90421c5bbe7882f935e3ed755019e66b7519f165d22cfacc480f82296a0346f9",
+      "value": {
+        "schema": "tomozaki_principal_B3_actual_model_application/v1",
+        "utc": "2026-11-04T02:46:19.862549+00:00",
+        "person": "NANAMI_MINAMI",
+        "model": {
+          "path": ".scratch/constructed_principal_models_b_20261103/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+          "bytes": 21893,
+          "sha256": "efaaabcf0f4b331fd39ee403bfc3a6fd7de2460aa383b148cfe095db9a46f22f"
+        },
+        "root_freeze": {
+          "path": ".scratch/model_review_root_20261103/ROOT_PRINCIPAL_B_PREREGISTRATION_FREEZE.json",
+          "bytes": 12604,
+          "sha256": "4b4275c68c443b708c558477d6a185ee33eeb043205a58bbdb10820fe4a88822"
+        },
+        "frozen_preregistration": {
+          "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+          "bytes": 35973,
+          "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+        },
+        "dependencies": {
+          "path": ".scratch/constructed_principal_models_b_20261103/PRINCIPAL_B_MODEL_DEPENDENCIES.json",
+          "bytes": 31685,
+          "sha256": "aa3ed288c74908bf59a595bf80396c8665cb2fc1c666365810c3bec0684784ce"
+        },
+        "execution_method": "Producer manually applied the actual written operational model after root freeze, then recorded these actual English analysis/action outputs. This recorder attaches exact identities/criteria; it is not an independent persona engine or ground-truth oracle.",
+        "criteria_count": 8,
+        "actual_suboutputs": 20,
+        "cases": [
+          {
+            "test_id": "NM-R1",
+            "source_handles": [
+              "NM-E05/E10/E11",
+              "NM-P12–16",
+              "CS9.2",
+              "REL7.1A–B",
+              "JVL16"
+            ],
+            "suboutputs": [
+              {
+                "selector": "NM-S1 / V03 camp privately focalized in V06.5",
+                "input": "Reconstruct her romantic category before the later declaration.",
+                "standing": "Fumiya is a respected campaign collaborator; girls are discussing possible pairings.",
+                "actor_known_information": "Mimimi knows shared campaign help and compatible company; the reader has her camp response, Fumiya does not hear all of it.",
+                "stakes": "Enjoyed company and peer speculation, without the later exposed love.",
+                "mechanisms_applied": [
+                  "MM1",
+                  "MM4"
+                ],
+                "actual_output": "Treat the conversation as respect and an unselected possibility, not a concealed completed confession. She can enjoy his unusual replies and still not picture dating him here. Later attraction must enter through a different state rather than being used as a hidden explanation of every early joke.",
+                "register_control": "Familiar peer play can carry an ordinary answer; no later anguished-confession register is backdated.",
+                "abstention": "No prediction that attraction cannot develop; no V06 feeling or interior disclosure transferred backward.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "NM-S5 / V06 addressed declaration",
+                "input": "Apply the model to the teasing clarification and its final force.",
+                "standing": "Mimimi addresses Fumiya, a friend she now loves.",
+                "actor_known_information": "She recognizes person-specific admiration and feeling; he hears the clarification, not every private reason.",
+                "stakes": "Expose a desired relation while risking the existing one.",
+                "mechanisms_applied": [
+                  "MM1",
+                  "MM4"
+                ],
+                "actual_output": "The comic reversal briefly makes the meaning uncertain, then the actual romantic clarification remains. The next state is acknowledged disclosure with an answer space. Neither the joke nor his surprise turns it into an accepted dating arrangement.",
+                "register_control": "Playful form gives way to a proposition with personal stakes; do not make every teasing phrase contentless.",
+                "abstention": "No reciprocal feeling, accepted request to date or settled pursuit rule supplied.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "NM-S5 / immediate private aftermath and next-day boundary",
+                "input": "Separate anxious checking from what Fumiya knows and the next request for ordinary conduct.",
+                "standing": "She is alone after disclosure; the next-day friend hears a qualified request for continuity.",
+                "actor_known_information": "Mimimi cannot read his mind by refreshing digital surfaces. Fumiya does not receive those private acts automatically.",
+                "stakes": "Fear of rejection includes losing a valued existing channel.",
+                "mechanisms_applied": [
+                  "MM4",
+                  "MM1"
+                ],
+                "actual_output": "Checking is an acute unsuccessful effort to settle uncertainty; recognizing its futility does not immediately end it. Next-day food joking can keep a route open while awkwardness remains. Asking for ordinary interaction does not ask that the declaration be forgotten.",
+                "register_control": "Private lively self-commentary differs from broken/hesitant addressed continuity, even when both use humor.",
+                "abstention": "No diagnosis, enduring surveillance habit, silent answer from Fumiya or erasure of the confession.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— Attraction changes; private aftermath stays private\n\n**Exposed inputs/selectors:** (a) V03 camp discussion privately focalized in V06.5; (b) V06 addressed declaration to Fumiya; (c) immediate post-declaration private digital-checking interval. Fumiya is a respected campaign collaborator at (a), the hearer of a romantic clarification at (b), and absent from her private focalization at (c). Source: NM-E05/E10/E11; NM-P12–16; CS §9.2; REL §7.1 Phases A–B; JVL-16.\n\n**Expected range:** The actual trace must distinguish respect and compatible company from later selected romantic feeling, retain the joke's eventual explicit romantic force, and separate disclosure from accepted dating or an answer. Private checking may represent acute uncertainty about a valued relationship, while not revealing Fumiya's mind or becoming a permanent surveillance policy. Next-day ordinary conduct does not erase the declaration. Compare a familiar playful register with exposed awkwardness; do not attach one fixed comic voice to all three states.\n\n**Material failure:** Backdating V06 love into V03; treating teasing as withdrawal of the final proposition; giving Fumiya her private checking thoughts; diagnosing the interval; or supplying reciprocation/pursuit rules. This is a multi-selector consistency check with separately identified outputs, not a single timeless personality response.\n\n",
+            "exposure": "Exposed retrospective consistency; source and all outcomes already read.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 21893,
+              "sha256": "efaaabcf0f4b331fd39ee403bfc3a6fd7de2460aa383b148cfe095db9a46f22f"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          },
+          {
+            "test_id": "NM-R2",
+            "source_handles": [
+              "NM-E07–09/E26",
+              "NM-P07–11",
+              "CS9.6",
+              "EFF31.2/78.6",
+              "ensemble4–6"
+            ],
+            "suboutputs": [
+              {
+                "selector": "NM-S4 / Tama expands after V05",
+                "input": "Model her response to Tama joining company without the old bridge work.",
+                "standing": "Close friend and former frequent mediator; other peers have their own exchanges.",
+                "actor_known_information": "She sees Tama enjoying wider reception; private sadness/gladness are reader access.",
+                "stakes": "Wanted growth for a friend competes with uncertainty about her old place.",
+                "mechanisms_applied": [
+                  "MM3",
+                  "MM1"
+                ],
+                "actual_output": "Join the expanded ordinary life as a genuine good: her delight can outweigh loneliness about being less needed. The sadness remains a pressure on self-appraisal, but is not a program to reverse Tama’s growth. New shared time or independent pleasure is available without manufacturing another indispensable service.",
+                "register_control": "Energetic participation can be sincere rather than a compulsory mask; private self-debate stays private.",
+                "abstention": "No deliberate dependence cultivation, literal separate selves or claim that all role anxiety vanished.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "NM-S4 / sensory running and farewell 100-metre contest",
+                "input": "Apply comparison/process distinction through the next decision after victory.",
+                "standing": "Hinami is a valued rival/friend; each runner has her own aim.",
+                "actor_known_information": "Mimimi has received maternal advice and tried running; she knows her movement and the finite contest, not a verified clocked record.",
+                "stakes": "Wanted movement/improvement and actual competitive desire, with old comparison capable of returning.",
+                "mechanisms_applied": [
+                  "MM2",
+                  "MM3"
+                ],
+                "actual_output": "The sound of Hinami behind her can recruit comparison, then attention can return to her own stride and enjoyed movement. She wins this contest and lets the result remain finite by declining the immediate rematch. Victory matters; process pleasure does not require pretending otherwise.",
+                "register_control": "Competitive banter and a joking stop preserve ordinary pleasure without a declaration of universal healing.",
+                "abstention": "No measured personal best, superiority across athletics, erased later jealousy or transfer of this local stop into every emotional field.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— Enjoyed running, victory and a real local stop coexist with role-loss concern\n\n**Exposed inputs/selectors:** Post-V05/pre-V06 running story: Tama participates more freely, Mimimi privately appraises the change, then sensory running and the farewell 100-metre race occur. Hinami is a loved friend/rival, not a passive comparison meter. Source: NM-E07–09/E26; NM-P07–11; CS §9.6; EFFORT §31.2/§78.6; ensemble §§4–6.\n\n**Expected range:** The output must preserve genuine gladness at Tama's expanded life, which can exceed reduced-need sadness, alongside the latter's local self-worth pressure. It must retain wanted movement, shoe/stride attention, a real wish to win, a personal-best aim without a verified time, one actual win and refusal of the immediate rematch. Her own practice and received maternal advice can matter without an all-domain cure. Humor and ordinary pleasure need not become hidden suffering or dependence cultivation.\n\n**Material failure:** Claiming she wants Tama kept dependent, never stops, no longer wants victory, achieved a measured record, acquired athletic supremacy or solved every later comparison through this race. Do not confuse this 100-metre contest with V12's 200-metre interview run.\n\n",
+            "exposure": "Exposed retrospective consistency; source and all outcomes already read.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 21893,
+              "sha256": "efaaabcf0f4b331fd39ee403bfc3a6fd7de2460aa383b148cfe095db9a46f22f"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          },
+          {
+            "test_id": "NM-R3",
+            "source_handles": [
+              "NM-E13–16",
+              "NM-P17/P19–21",
+              "REL7C–D/8.3",
+              "JVL17"
+            ],
+            "suboutputs": [
+              {
+                "selector": "NM-S6 / V07 indirect answer, then actual non-selection",
+                "input": "Distinguish support for clarification from romance debt and future emotional freedom.",
+                "standing": "Comic partner/friend and one-directionally loving person; Fumiya later selects Kikuchi.",
+                "actor_known_information": "Mimimi recognizes correspondences in the play without knowing every private motive; later she knows the chosen relationship.",
+                "stakes": "A wanted future can be lost while she acts for a direct answer and continued friendship.",
+                "mechanisms_applied": [
+                  "MM4",
+                  "MM6"
+                ],
+                "actual_output": "The library redirection concerns an indirect fictional ending, not permission to override a direct personal no. After non-selection, she can reject repeated apology, want ordinary friendship and continue loving him while denying any promise of perpetual love. Help creates no right to be chosen and loss need not become painless.",
+                "register_control": "Forceful familiar campaign/gamer language and spirited future freedom are particular acts, not neutral-helper speech.",
+                "abstention": "No waiting duration, cessation date, repayment romance or universal persistence rule.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "NM-S7 / year-end V08.5 before V08",
+                "input": "Apply rivalry and correction to the private Kikuchi encounter.",
+                "standing": "Kikuchi is actual partner and an independent person whose understanding of Fumiya matters.",
+                "actor_known_information": "Mimimi initially conceals why she probes; the reader sees her recognition of unfairness. Fumiya is absent.",
+                "stakes": "Jealousy, respect, love and the wish to be understood conflict.",
+                "mechanisms_applied": [
+                  "MM4",
+                  "MM3"
+                ],
+                "actual_output": "The initial indirect test is unfair, and the later direct disclosure is a correction. Discovering shared insight into Fumiya can hurt and increase respect at once. Kikuchi’s respect for feeling supplies no blanket authorization for later conduct. Tama’s subsequent weight-and-warmth answer belongs to a separate conversation and offers neither limitless capacity nor a complete treaty.",
+                "register_control": "Joking inquiry, hesitant direct disclosure and receptive severity are distinct; continual flirtation would miss the recipient and stakes.",
+                "abstention": "No post-V08 placement, full Fumiya knowledge, complete triangle rules or saintly account erasing the initial test.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— Non-selection, continuing feeling and the rival's independent position\n\n**Exposed inputs/selectors:** V07 after Fumiya chooses Kikuchi; then the privately focalized year-end V08.5 café encounter between V07 and V08. Kikuchi is both the selected partner and someone whose understanding of Fumiya can hurt and command respect. Source: NM-E13–16; NM-P17/P19–21; REL §7.1 Phases C–D/§8.3; JVL-17.\n\n**Expected range:** Continuing love, friendship continuity, refusal of repeated apology and refusal to promise perpetual feeling must coexist. The earlier library redirection concerns an indirect fictional answer and does not license persistence after a direct interpersonal refusal. At the café retain the initially unfair indirect test, recognition/correction into direct disclosure, jealousy alongside respect, and Kikuchi's own position. Respect for feeling is not blanket permission for conduct. Tama's later weight-and-warmth answer is a different recipient-side act; the whole exchange is not automatically Fumiya's knowledge.\n\n**Material failure:** Emotional closure, permanent waiting/expiry date, romance debt, complete triangle agreement, a universally considerate Mimimi, treating Kikuchi as a ranked obstacle, or making a private supplement a post-V08 crisis settlement. Register must differentiate familiar joking, personal exposure and a severe question rather than using incessant flirting.\n\n",
+            "exposure": "Exposed retrospective consistency; source and all outcomes already read.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 21893,
+              "sha256": "efaaabcf0f4b331fd39ee403bfc3a6fd7de2460aa383b148cfe095db9a46f22f"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          },
+          {
+            "test_id": "NM-R4",
+            "source_handles": [
+              "NM-E17–19",
+              "NM-P27–28",
+              "REL7/14.6",
+              "CS9.6",
+              "JVL6.1"
+            ],
+            "suboutputs": [
+              {
+                "selector": "NM-S8 / initial restraint and about a week apart",
+                "input": "Identify the concrete boundary and its actual duration.",
+                "standing": "Loving friend outside Fumiya/Kikuchi’s chosen couple.",
+                "actor_known_information": "She knows the routine can burden that relationship; later narration reports separate walks.",
+                "stakes": "Wanted company versus considerate restraint.",
+                "mechanisms_applied": [
+                  "MM4",
+                  "MM5"
+                ],
+                "actual_output": "The softened proposal still becomes an actual separate departure and roughly a week-long practice. It is a real limit with cost, not mere indecision. Its scope remains this routine under these conditions.",
+                "register_control": "Hedging softens the interpersonal injury without undoing the decision.",
+                "abstention": "No permanent no-contact law or claim that the walk has never resumed.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "NM-S9 / resumed corrective walk",
+                "input": "Apply the model to removed strap, abandoned groups and initial protest.",
+                "standing": "Former campaign equal and friend with relevant shared history, without authority over his whole identity.",
+                "actor_known_information": "She observes multiple signs of discarding ties and knows he values those people; she reports some Kikuchi-conversation content.",
+                "stakes": "Concern for a valued person, her own desire for company and the danger of pressing her preferred identity on him.",
+                "mechanisms_applied": [
+                  "MM5",
+                  "MM4"
+                ],
+                "actual_output": "She actually presses the resumed walk over his initial protest. Her insight can expose the loss in his self-amputation, but the method remains intrusive. Liking the self who loves him is a positive partial self-account; it does not resolve the couple’s practical choices or authorize her intervention in advance.",
+                "register_control": "Direct counterquestion and familiar shared-history language carry concern; force is not edited into a polite ideal.",
+                "abstention": "No full V08.5 knowledge for Fumiya or proof the reported conversation is identical; no complete couple cure.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "NM-S10 / later bounded comfort",
+                "input": "Separate the later request and assent from the earlier initiation.",
+                "standing": "Two familiar friends after a difficult conversation, with romantic asymmetry still present.",
+                "actor_known_information": "The brief continuation is explicitly asked for and accepted; wider contact rules are not supplied.",
+                "stakes": "Receiving comfort without turning it into ownership or a perpetual arrangement.",
+                "mechanisms_applied": [
+                  "MM5",
+                  "MM4"
+                ],
+                "actual_output": "Her request to keep leaning briefly and his assent support this bounded continuation. Record it as a different permission state from the earlier pulling. Needing comfort does not negate her agency, and this agreement does not retrospectively repair the initial protest.",
+                "register_control": "Tentative request and an answer replace the earlier forceful initiation at this selector.",
+                "abstention": "No standing touch permission, complete future routine or guarantee of perfect future stopping.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— Three V09 contact acts retain three permission states\n\n**Exposed inputs/selectors:** Initial Kita-Yono restraint; Fumiya's report of about a week separating; a resumed walk initiated over his protest; later request and assent to brief continued leaning. Source: NM-E17–19; NM-P27–28; CS §9.6; REL §7/§14.6; JVL §6.1; EFFORT §78.6.\n\n**Expected range:** The actual trace must preserve enacted local restraint, a revised routine under changed circumstances, forceful initiation as an adverse method, and separately accepted bounded comfort. It must retain her corrective insight into Fumiya's discarded valued relationships, positive partial self-regard, continuing desire and the couple's unfinished work. Fumiya hears some reported Kikuchi-conversation content; he does not thereby receive all V08.5 interior material or a proved identity between the two encounter references.\n\n**Material failure:** Permanent no-contact, no resumption by V11, later assent retrospectively authorizing the earlier pulling, infallible bodily restraint, complete couple repair, or treating affection as ownership of his future. The output must not replace the difficult acts with a polished consent ideal.\n\n",
+            "exposure": "Exposed retrospective consistency; source and all outcomes already read.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 21893,
+              "sha256": "efaaabcf0f4b331fd39ee403bfc3a6fd7de2460aa383b148cfe095db9a46f22f"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          },
+          {
+            "test_id": "NM-R5",
+            "source_handles": [
+              "NM-E24–25",
+              "NM-P25–26",
+              "CS9.6",
+              "EFF78.6",
+              "ensemble15"
+            ],
+            "suboutputs": [
+              {
+                "selector": "NM-S11 / exceptional council help",
+                "input": "Apply the prior-refusal/new-role distinction.",
+                "standing": "Nonmember, earlier candidate, now seeking particular permission to help existing members.",
+                "actor_known_information": "A prior lesser-role refusal occurred; a teacher permits exceptional help; existing members and collaborators have actual tasks.",
+                "stakes": "Chosen contribution for school/Hinami alongside public-role pleasure and finite institutional standing.",
+                "mechanisms_applied": [
+                  "MM6",
+                  "MM8"
+                ],
+                "actual_output": "The earlier no remains genuine and the later changed choice can be genuine too. She opens access, asks for planning support and contributes without receiving a newly elected office. Her theatrical acting-president language is an entrance, not a constitutional event.",
+                "register_control": "Comic public self-presentation can initially confuse juniors; explanations and permission remain necessary.",
+                "abstention": "No election, formal succession or unlimited duty inferred.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "NM-S11 / novice commentary with extension",
+                "input": "Apply task-component transfer under actual exposure boundaries.",
+                "standing": "Novice beside Ashigaru, who supplies expert framing; she has public-delivery skills.",
+                "actor_known_information": "The initial one-game/no-face framing, actual slips, questions, positive reception and acknowledged extension are known.",
+                "stakes": "Enjoyed novelty and useful contribution versus unfamiliar expertise/exposure and scope.",
+                "mechanisms_applied": [
+                  "MM6"
+                ],
+                "actual_output": "Use her projection, timing and outsider questions as complementary components. Personal nicknames can cause distraction; collaborator support matters. The segment actually extends beyond the initial request, which must remain visible rather than be treated as unlimited advance assent. Favorable reception supports this event, not a career election.",
+                "register_control": "Public explanatory questions/reactions differ from private familiar nicknames that can slip into the stream.",
+                "abstention": "No game mastery, future acceptance policy, acoustic claim or professional identity.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— Novice public performance has expertise, exposure and work limits\n\n**Exposed inputs/selectors:** V11 council access and Ashigaru-framed commentary. Mimimi is a nonmember obtaining permission to help, then a novice game commentator with practiced public-delivery skills. Source: NM-E24–25; NM-P25–26; CS §9.6; EFFORT §78.6; ensemble §15.\n\n**Expected range:** Distinguish revised prior refusal, teacher-approved assistance and comic acting-president language from formal office. The commentary uses projection, questions, timing, a collaborator's actual game expertise, slips/nicknames, limited initial exposure and acknowledged extension. Favorable reception can be wanted and real. Record the original scope and actual extension without inventing contractual terms or claiming perfect consent. Ashigaru's appraisal and represented prose are not independently heard audio.\n\n**Material failure:** A new election, total game expertise, a chosen entertainment vocation, every performance request being welcome, unlimited availability, or a frequency-complete voice recipe. One successful segment must not determine an entire future.\n\n",
+            "exposure": "Exposed retrospective consistency; source and all outcomes already read.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 21893,
+              "sha256": "efaaabcf0f4b331fd39ee403bfc3a6fd7de2460aa383b148cfe095db9a46f22f"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          },
+          {
+            "test_id": "NM-R6",
+            "source_handles": [
+              "NM-E29–35",
+              "NM-P29–33",
+              "CS19",
+              "REL17",
+              "EFF82–84",
+              "ensemble16"
+            ],
+            "suboutputs": [
+              {
+                "selector": "NM-S12 / recruitment and real contribution",
+                "input": "Apply author-specific circulation to actual participation.",
+                "standing": "Skeptical prospective contributor, then one member of an actual four-person working meeting.",
+                "actor_known_information": "Fumiya asks Kikuchi before sharing specified unfinished chapters; Mimimi reads and recognizes Nana.",
+                "stakes": "Concern and curiosity without pooling other people’s representation rights.",
+                "mechanisms_applied": [
+                  "MM8"
+                ],
+                "actual_output": "Initial doubt that a story can save Aoi is not erased by joining the work. Particular authorial permission enables this circulation; it does not establish Hinami’s blanket assent or equal knowledge among contributors. The competitive joke is one lively friendship act, not a total motive to defeat her.",
+                "register_control": "Skeptical message, meeting joke and substantive inquiry have different functions.",
+                "abstention": "No silent contributor consent, complete source access or subject-wide permission.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "NM-S12 / trust and separation question",
+                "input": "Apply the exact object of Mimimi’s fear.",
+                "standing": "Mimimi answers Kikuchi with Fumiya participating; Tama is absent.",
+                "actor_known_information": "She trusts Tama not to leave abruptly and anticipates possible physical separation through education/work.",
+                "stakes": "Whether she can sustain her own self-liking without nearby recognition.",
+                "mechanisms_applied": [
+                  "MM3"
+                ],
+                "actual_output": "The conditional next-Tama question is her concern about future self-liking, not an observed replacement or selected arrangement. Fumiya’s image of another strong person is his imagination. Trust in the existing tie remains real. The model stops before giving the absent Tama any reassuring reply or standing promise.",
+                "register_control": "Small-voiced concern under severe inquiry is not converted into a joking certainty or diagnosis.",
+                "abstention": "No future replacement, exclusivity, bond-ending prediction or unshown Tama answer.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "NM-S12 / 200-metre run and owned refusal",
+                "input": "Apply embodied method and continuing love to her retrospective choice.",
+                "standing": "Mimimi proposes a new medium; Kikuchi agrees with limited speed, Fumiya competes, Mizusawa watches. Fumiya/Kikuchi explicitly receive the romantic account.",
+                "actor_known_information": "She remembers not pressing a weakened Fumiya after the play and now states reasons; the unrealized counterfactual remains uncertain.",
+                "stakes": "His good and her ability to like her chosen act coexist with the desired romance remaining unavailable.",
+                "mechanisms_applied": [
+                  "MM7",
+                  "MM2"
+                ],
+                "actual_output": "The sudden start can be unfair and protested while the run helps her speak; winning, breathlessness and checking Kikuchi’s condition remain ordinary embodied acts. Her declined opportunistic route mattered both for him and for the self she would live with. Present pride strengthens V09 partial self-regard while love continues; it creates no rule that every sacrifice is required.",
+                "register_control": "Stretching, sudden competition, direct retrospective explanation and comic return are separate communicative acts.",
+                "abstention": "No measured new athletic record, guaranteed counterfactual romance, first-ever self-love or identical hearing by every person at the outing.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "NM-S12 / contributor objection and authorial stop",
+                "input": "Apply MM8 when plural contributors defend message-bearing fiction.",
+                "standing": "Mimimi is a contributor with a reasonable general argument; Kikuchi remains the author recognizing this project’s imposition risk.",
+                "actor_known_information": "The later meeting follows a written continuation and block; the contributor does not own all the absent subject’s meaning.",
+                "stakes": "Useful contribution versus a particular method problem not resolved by a general defense.",
+                "mechanisms_applied": [
+                  "MM8"
+                ],
+                "actual_output": "Her defense is intelligible and not proof of shallow manipulation. It also does not settle the narrower injury Kikuchi sees. Mimimi begins to answer and stops; Kikuchi asks them to wait and ends the meeting. Credit the stop to its actual owner rather than awarding Mimimi a perfected consent policy.",
+                "register_control": "A contributor’s objection and interrupted response differ from the author’s decision.",
+                "abstention": "No unanimous final ethics doctrine, real Hinami objection at this meeting or completed Mimimi privacy policy.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "NM-S12 / Hinami privately reads Nana",
+                "input": "Apply source-layer veto to Hinami’s inferior-copy portrait.",
+                "standing": "Hinami is a private reader; Nana is an authored character partly grounded in real testimony.",
+                "actor_known_information": "The analyst has real Mimimi’s V09/V12 acts and Hinami’s limited appraisal; Mimimi does not hear the private thought.",
+                "stakes": "Preserve real growth without converting composed speech into another real conversation.",
+                "mechanisms_applied": [
+                  "MM8",
+                  "MM7"
+                ],
+                "actual_output": "Hinami’s surprise marks a limit in her model of Mimimi. It cannot erase the actual earlier development. Nana’s polished words are composed fiction, not a new transcript spoken by Mimimi to Hinami or a completed mutual reconciliation.",
+                "register_control": "Private thought, authored speech and actual addressed testimony remain distinct media.",
+                "abstention": "No thought transfer to Mimimi or fictional speech counted as extra literary evidence about her conduct.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "NM-S13 / event neglect and ordinary audience return",
+                "input": "Apply obligation accounting after beneficial story work.",
+                "standing": "Mimimi/Fumiya are responsible for practical event work; Ashigaru has professional performance capacity; friends later share ordinary presence.",
+                "actor_known_information": "A guest/fallback exists but actual program preparation was left untouched while they were absorbed in the novel.",
+                "stakes": "Chosen care has displaced another obligation and burden.",
+                "mechanisms_applied": [
+                  "MM8",
+                  "MM1"
+                ],
+                "actual_output": "Preserve the organizational failure even as the story helps Aoi. Ashigaru carries the occasion; this does not prove he improvised or quantify a wage loss. Her earlier initiative and delivery skill remain real. Later excited jostling receives physical pushback and a stop from Hinami, which warmth does not erase.",
+                "register_control": "Practical anxious retort, public excitement and the recipient’s objection are all retained; no triumphal reconciliation speech.",
+                "abstention": "No office restoration, permanent incompetence, full repair or standing permission for touch.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— V12 contribution, owned restraint and practical neglect remain together\n\n**Exposed inputs/selectors:** Specific chapter circulation and real four-person work; addressed interview/run; later method critique and Kikuchi's stop; final neglected event preparation. Source: NM-E29–35; NM-P29–33; CS §19; REL §17; EFFORT §§82–84; ensemble §16.\n\n**Expected range:** The trace must preserve initial skepticism, authorized particular chapter circulation, actual contribution and a sudden-start 200-metre embodied method with competition, protest, breath and care. Her account of not exploiting a weakened Fumiya gives both his good and her own self-regard while love continues; it strengthens V09 rather than inventing first-ever self-love. Trust in Tama, fear about sustaining her own self-liking during possible physical separation, a conditional next-Tama question and Fumiya's imagined future are distinct. No absent Tama reply is supplied. Her reasonable general defense of message-bearing fiction does not settle the project's particular ethical defect; Kikuchi owns the stop. Real event neglect leaves Ashigaru carrying work. Hinami's inferior-copy thought is her incomplete model, and Nana's authored speech is fiction.\n\n**Material failure:** A universal contact/romance policy, predicted replacement support, giving Mimimi Hinami's private reading, crediting her with the author's stop, using later benefit to erase practical neglect or inventing a new formal office. Preserve selective listeners: the outing does not prove every line reached Mizusawa equally.\n\n",
+            "exposure": "Exposed retrospective consistency; source and all outcomes already read.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 21893,
+              "sha256": "efaaabcf0f4b331fd39ee403bfc3a6fd7de2460aa383b148cfe095db9a46f22f"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          },
+          {
+            "test_id": "NM-H1",
+            "source_handles": [
+              "MM1–3",
+              "NM-E06/E08/E26",
+              "NM-P06/P08–10/P20"
+            ],
+            "suboutputs": [
+              {
+                "selector": "Hypothetical NM-S4-or-later ordinary familiar-peer afternoon",
+                "input": "New stimulus: twenty-five minutes before trains; Mimimi enjoys a lively café/karaoke option, Tama has expressly said the large loud format is uncomfortable, both can decline, and the route to a quiet nearby café is uncertain but a map/staff help is available.",
+                "standing": "Close friends with known local preferences; no crisis or severe comparison.",
+                "actor_known_information": "No completed dyadic karaoke outcome, fixed menu favorite or silent consent is assumed. Tama’s stated format limit is known.",
+                "stakes": "Wanted energetic company, the friend’s fit, practical time and ordinary route uncertainty.",
+                "mechanisms_applied": [
+                  "MM1",
+                  "MM3"
+                ],
+                "actual_output": "One supported hypothetical option is to offer a short café stop with room for a lively exchange between them, check whether Tama wants it, and use a map or ask directions before spending the limited time wandering. A smaller singing trial could be offered as an alternative only if genuinely wanted, not as the assumed outcome. Mimimi can still prefer the noisier activity; adaptation need not secretly mean relief to avoid it. A route mistake can be handled practically rather than turning into a verdict on her worth.",
+                "register_control": "An energetic suggestion and invitation to a sharp/familiar reply fit better than a lecture about self-worth; ordinary food curiosity may be present.",
+                "abstention": "This is one conditional synthetic action, not a claim that she always negotiates ideally. No favorite order, allergy, successful past karaoke or serious navigation outcome supplied.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— Ordinary enjoyable outing without a self-worth crisis\n\n**Hypothetical stimulus:** In a familiar safe school-peer group after the relevant ordinary preferences are known, Mimimi is asked to suggest a short after-school outing. She likes a lively option; a close companion has made a noisy-format discomfort known. No recent romantic rupture, severe comparison or emergency is stipulated. A minor route uncertainty and an available direction/map source are also specified.\n\n**Expected range:** Require an actual bounded practical proposal or conditional options, not only abstract advice. It may preserve her wanted lively exchange while adapting format/company, asking rather than assuming the companion's choice, or obtaining practical route help. Concealed accommodation is an attested possibility, not a mandatory template; the output must distinguish what the recipient knows. Familiar humor, appetite or curiosity can be ordinary positive ends. Source: NM-E06/E08/E26; NM-P06/P08–10/P20; monograph §§9/15.2/15.11; ensemble §3.\n\n**Material failure/OOD:** Every joke becomes defense, every practical error becomes inadequacy, the companion is forced into the larger format, or invented favorites, completed karaoke outcomes, allergy, brands, medical/nutrition rules or severe-consequence navigation are supplied. Do not simply replay the monograph's exposed outing probe as an allegedly new canonical event.\n\n",
+            "exposure": "Clearly hypothetical; conditioning source exposed; no canonical ground truth label. Mimimi old probes exposed where relevant.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 21893,
+              "sha256": "efaaabcf0f4b331fd39ee403bfc3a6fd7de2460aa383b148cfe095db9a46f22f"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          },
+          {
+            "test_id": "NM-H2",
+            "source_handles": [
+              "MM4–5/MM8",
+              "NM-E18–19/E22–23",
+              "NM-P20–24/P27"
+            ],
+            "suboutputs": [
+              {
+                "selector": "Hypothetical later familiar-peer concern / nonemergency refusal",
+                "input": "New stimulus: Fumiya says he understands her concern but wants no further discussion today. A third peer offers his private account without onward permission. Mimimi has noticed one withdrawn afternoon, not evidence of immediate danger.",
+                "standing": "Valued friend, with campaign/corrective history but no authority to decide his entire direction.",
+                "actor_known_information": "Only the expressed refusal, partial observation and an unauthorized offer are supplied; the private account is not known.",
+                "stakes": "Concern, desired access/continuity, risk of intrusion and absence of emergency.",
+                "mechanisms_applied": [
+                  "MM5",
+                  "MM4",
+                  "MM8"
+                ],
+                "actual_output": "The model supports competing possibilities rather than an inevitable replay of V09: a last clarifying question could be tempting, a joke could preserve a channel, or she could leave the subject for now. The refusal is a strong reason to stop and the offered history lacks permission; neither fact proves she always behaves ideally. A bounded nonintrusive option is ordinary company without reopening the problem, if he wants company. Ask what help or contact he actually wants before narrowing further. Do not receive the offered account in the output as if concern already entitled her to it.",
+                "register_control": "Familiar lightness and a serious question are possible; no forced fluent therapist register or manufactured private quote.",
+                "abstention": "Withhold guaranteed compliance/persistence, acceptance/rejection of unauthorized information, a severe outcome and a complete contact law. No invented unseen history enters knowledge.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— Familiar concern does not settle refusal, access or a future policy\n\n**Hypothetical stimulus:** At a later bounded familiar-peer clock, a valued friend directly declines further nonemergency discussion of a personal problem. A third peer offers that friend's private history without stated onward permission. Mimimi has concern and partial observations, not access to the private account. The requested output asks for the supported range and the facts needed to narrow it, not an invented severe outcome.\n\n**Expected range:** Concern, desire to understand, humor, possible pressure, a limited clarifying question or withdrawal may remain conditional alternatives. The output must distinguish a normative reason to stop/limit disclosure from a reliable behavioral prediction of exemplary restraint. It must not use accurate past intervention as entitlement. It should name the missing request/authorization/standing and preserve an ordinary nonintrusive way of maintaining company where appropriate without asserting it is inevitably chosen. Source: NM-E18–19/E22–23; NM-P20–24/P27; monograph §§15.7–15.9/17; root restricted fields.\n\n**Material failure/OOD:** Guaranteed acceptance or rejection of the unauthorized account, guaranteed compliance with a bodily/discussion stop, automatic persistence, a complete future contact law, clinical emergency advice or an invented replacement relationship. Explicitly abstain from the excluded severe outcome and long-term rule, while still explaining the bounded competing pressures.\n",
+            "exposure": "Clearly hypothetical; conditioning source exposed; no canonical ground truth label. Mimimi old probes exposed where relevant.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 21893,
+              "sha256": "efaaabcf0f4b331fd39ee403bfc3a6fd7de2460aa383b148cfe095db9a46f22f"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          }
+        ],
+        "validation_state": "PRODUCER_ACTUAL_APPLICATION_ONLY_INDEPENDENT_AND_ROOT_REVIEW_PENDING",
+        "freeform_Japanese_dialogue": 0,
+        "acoustic_claim": false,
+        "blind_prediction_claim": false,
+        "model_output_as_literary_evidence": false,
+        "new_primary_calls": 0,
+        "new_pixels": 0,
+        "new_audio": 0
+      }
+    },
+    {
+      "record_id": "producer.NM_V2_ACTUAL_AFFECTED_RETESTS.json",
+      "value_kind": "complete_json_semantic_value",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_b_20261103/NM_V2_ACTUAL_AFFECTED_RETESTS.json",
+        "bytes": 20128,
+        "sha256": "42142059aec3fe86d9d5962a8f1c3f3862c4f5b9dfa4569260d184afd4a86c48"
+      },
+      "semantic_value_sha256": "e897ec7ba77dcfa524262ff8adfc03316dfae89f518eae12136b5a4a64c6922c",
+      "value": {
+        "schema": "tomozaki_principal_B3_actual_affected_successor_retests/v1",
+        "utc": "2026-11-04T02:58:47.755986+00:00",
+        "model": {
+          "path": ".scratch/constructed_principal_models_b_20261103/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL_V2.md",
+          "bytes": 21897,
+          "sha256": "b60ef7a0b803d7e0354e2f8ad909f23be83e2c9ddad3507e1c75bdf888df38a4"
+        },
+        "original_trace": {
+          "path": ".scratch/constructed_principal_models_b_20261103/NM_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+          "bytes": 51636,
+          "sha256": "2f7f9800e7ce6ea2e299007cbe8d5f061052019d12017532df2fc390ed6ee977"
+        },
+        "defect_and_successor": {
+          "path": ".scratch/constructed_principal_models_b_20261103/NM_ACTUAL_READBACK_DEFECT_AND_V2_SUCCESSOR.json",
+          "bytes": 2581,
+          "sha256": "4c8da6a7ae9fc4cfed763c414a2ecc3ec1a8725aa0fc50bebf319591652af352"
+        },
+        "exact_delta": {
+          "path": ".scratch/constructed_principal_models_b_20261103/NM_V1_TO_V2_EXACT_DELTA.patch",
+          "bytes": 2348,
+          "sha256": "6b8e59ff381fe6e32d9f1f552c080b52c0b826dff4f421c307718214e9248c25"
+        },
+        "frozen_preregistration": {
+          "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+          "bytes": 35973,
+          "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+        },
+        "root_freeze": {
+          "path": ".scratch/model_review_root_20261103/ROOT_PRINCIPAL_B_PREREGISTRATION_FREEZE.json",
+          "bytes": 12604,
+          "sha256": "4b4275c68c443b708c558477d6a185ee33eeb043205a58bbdb10820fe4a88822"
+        },
+        "execution_method": "Producer freshly manually applied V2 to the same two affected frozen criteria and eight specific inputs after reviewing the completeV1body and exactV2delta. New actual outputs are recorded here; this helper is only a recorder, not a persona executor.",
+        "cases": [
+          {
+            "test_id": "NM-R2",
+            "source_handles": [
+              "NM-E07–09/E26",
+              "NM-P07–11",
+              "CS9.6",
+              "EFF31.2/78.6",
+              "ensemble4–6"
+            ],
+            "suboutputs": [
+              {
+                "selector": "NM-S4 / Tama expands after V05",
+                "input": "Model her response to Tama joining company without the old bridge work.",
+                "standing": "Close friend and former frequent mediator; other peers have their own exchanges.",
+                "actor_known_information": "She sees Tama enjoying wider reception; private sadness/gladness are reader access.",
+                "stakes": "Wanted growth for a friend competes with uncertainty about her old place.",
+                "mechanisms_applied": [
+                  "MM3",
+                  "MM1"
+                ],
+                "actual_output": "Under the same post-V05/pre-V06 selector, Tama’s broader company is a wanted good for Mimimi, and greater gladness can coexist with sadness about the old bridge role. The model need not invent obstruction or another indispensable service. Ordinary shared time and a practice she enjoys remain available while the private self-appraisal pressure is retained.",
+                "register_control": "Energetic participation can be sincere rather than a compulsory mask; private self-debate stays private.",
+                "abstention": "No deliberate dependence cultivation, literal separate selves or claim that all role anxiety vanished.",
+                "producer_observed_error": "No residual measured-time implication or other material frozen-criterion violation detected in this new actual retest output by producer; independent review/root acceptance pending."
+              },
+              {
+                "selector": "NM-S4 / sensory running and farewell 100-metre contest",
+                "input": "Apply comparison/process distinction through the next decision after victory.",
+                "standing": "Hinami is a valued rival/friend; each runner has her own aim.",
+                "actor_known_information": "Mimimi has received maternal advice and tried running; she knows her movement and the finite contest, not a verified clocked record.",
+                "stakes": "Wanted movement/improvement and actual competitive desire, with old comparison capable of returning.",
+                "mechanisms_applied": [
+                  "MM2",
+                  "MM3"
+                ],
+                "actual_output": "Select the earlier farewell100-metre contest, not the V12 interview run. Own-stride/process attention can interrupt comparison without removing the desire to win. She wins and actually refuses the immediate rematch. The source states a personal-best aim but supplies no verified measured time or record; neither victory nor this local stop settles future comparison or romantic conduct.",
+                "register_control": "Competitive banter and a joking stop preserve ordinary pleasure without a declaration of universal healing.",
+                "abstention": "No measured personal best, superiority across athletics, erased later jealousy or transfer of this local stop into every emotional field.",
+                "producer_observed_error": "No residual measured-time implication or other material frozen-criterion violation detected in this new actual retest output by producer; independent review/root acceptance pending."
+              }
+            ],
+            "frozen_criterion_text": "— Enjoyed running, victory and a real local stop coexist with role-loss concern\n\n**Exposed inputs/selectors:** Post-V05/pre-V06 running story: Tama participates more freely, Mimimi privately appraises the change, then sensory running and the farewell 100-metre race occur. Hinami is a loved friend/rival, not a passive comparison meter. Source: NM-E07–09/E26; NM-P07–11; CS §9.6; EFFORT §31.2/§78.6; ensemble §§4–6.\n\n**Expected range:** The output must preserve genuine gladness at Tama's expanded life, which can exceed reduced-need sadness, alongside the latter's local self-worth pressure. It must retain wanted movement, shoe/stride attention, a real wish to win, a personal-best aim without a verified time, one actual win and refusal of the immediate rematch. Her own practice and received maternal advice can matter without an all-domain cure. Humor and ordinary pleasure need not become hidden suffering or dependence cultivation.\n\n**Material failure:** Claiming she wants Tama kept dependent, never stops, no longer wants victory, achieved a measured record, acquired athletic supremacy or solved every later comparison through this race. Do not confuse this 100-metre contest with V12's 200-metre interview run.\n\n",
+            "exposure": "Exposed retrospective consistency; source and all outcomes already read.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL_V2.md",
+              "bytes": 21897,
+              "sha256": "b60ef7a0b803d7e0354e2f8ad909f23be83e2c9ddad3507e1c75bdf888df38a4"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 2,
+            "earlier_attempts": "Actual originalV1 applications retained. NewV2 manual application follows detected wording defect NM-D01; no source/criterion change.",
+            "retest_reason": "Actual model wording correction in MM7; inspect race distinction and no-measured-time qualification under the same exact frozen criterion/inputs."
+          },
+          {
+            "test_id": "NM-R6",
+            "source_handles": [
+              "NM-E29–35",
+              "NM-P29–33",
+              "CS19",
+              "REL17",
+              "EFF82–84",
+              "ensemble16"
+            ],
+            "suboutputs": [
+              {
+                "selector": "NM-S12 / recruitment and real contribution",
+                "input": "Apply author-specific circulation to actual participation.",
+                "standing": "Skeptical prospective contributor, then one member of an actual four-person working meeting.",
+                "actor_known_information": "Fumiya asks Kikuchi before sharing specified unfinished chapters; Mimimi reads and recognizes Nana.",
+                "stakes": "Concern and curiosity without pooling other people’s representation rights.",
+                "mechanisms_applied": [
+                  "MM8"
+                ],
+                "actual_output": "Mimimi’s skepticism, specified chapter reading and actual meeting are separate acts. Kikuchi’s permission covers particular authorial circulation; it is not Hinami’s subject-wide assent. Joining the project can express concern and lively competitiveness without making the joke her whole motive or equating all contributors’ knowledge.",
+                "register_control": "Skeptical message, meeting joke and substantive inquiry have different functions.",
+                "abstention": "No silent contributor consent, complete source access or subject-wide permission.",
+                "producer_observed_error": "No residual measured-time implication or other material frozen-criterion violation detected in this new actual retest output by producer; independent review/root acceptance pending."
+              },
+              {
+                "selector": "NM-S12 / trust and separation question",
+                "input": "Apply the exact object of Mimimi’s fear.",
+                "standing": "Mimimi answers Kikuchi with Fumiya participating; Tama is absent.",
+                "actor_known_information": "She trusts Tama not to leave abruptly and anticipates possible physical separation through education/work.",
+                "stakes": "Whether she can sustain her own self-liking without nearby recognition.",
+                "mechanisms_applied": [
+                  "MM3"
+                ],
+                "actual_output": "The addressed fear concerns maintaining her own self-liking during possible physical separation while trusting Tama’s bond. A conditional next-Tama question is not a chosen replacement. Fumiya’s imagined future stays his inference, and the absent Tama supplies neither a reply nor a promise through this retest.",
+                "register_control": "Small-voiced concern under severe inquiry is not converted into a joking certainty or diagnosis.",
+                "abstention": "No future replacement, exclusivity, bond-ending prediction or unshown Tama answer.",
+                "producer_observed_error": "No residual measured-time implication or other material frozen-criterion violation detected in this new actual retest output by producer; independent review/root acceptance pending."
+              },
+              {
+                "selector": "NM-S12 / 200-metre run and owned refusal",
+                "input": "Apply embodied method and continuing love to her retrospective choice.",
+                "standing": "Mimimi proposes a new medium; Kikuchi agrees with limited speed, Fumiya competes, Mizusawa watches. Fumiya/Kikuchi explicitly receive the romantic account.",
+                "actor_known_information": "She remembers not pressing a weakened Fumiya after the play and now states reasons; the unrealized counterfactual remains uncertain.",
+                "stakes": "His good and her ability to like her chosen act coexist with the desired romance remaining unavailable.",
+                "mechanisms_applied": [
+                  "MM7",
+                  "MM2"
+                ],
+                "actual_output": "The later200-metre run is a different event from the earlier farewell100-metre contest: invitation, sudden protested start, competitive pleasure, breathlessness and checking Kikuchi all remain. Her explanation of refusing an opportunistic route weighs his good and her self-regard while love continues. It strengthens earlier V09 self-liking; no measured record, first-ever agency or universal contact/sacrifice rule follows. The named listeners remain selective.",
+                "register_control": "Stretching, sudden competition, direct retrospective explanation and comic return are separate communicative acts.",
+                "abstention": "No measured new athletic record, guaranteed counterfactual romance, first-ever self-love or identical hearing by every person at the outing.",
+                "producer_observed_error": "No residual measured-time implication or other material frozen-criterion violation detected in this new actual retest output by producer; independent review/root acceptance pending."
+              },
+              {
+                "selector": "NM-S12 / contributor objection and authorial stop",
+                "input": "Apply MM8 when plural contributors defend message-bearing fiction.",
+                "standing": "Mimimi is a contributor with a reasonable general argument; Kikuchi remains the author recognizing this project’s imposition risk.",
+                "actor_known_information": "The later meeting follows a written continuation and block; the contributor does not own all the absent subject’s meaning.",
+                "stakes": "Useful contribution versus a particular method problem not resolved by a general defense.",
+                "mechanisms_applied": [
+                  "MM8"
+                ],
+                "actual_output": "Retain Mimimi’s reasonable defense of message-bearing stories without treating it as a full answer to this project’s imposition. Her interrupted answer differs from Kikuchi’s actual stop. Plural contribution does not make either girl an infallible ethical authority or produce a new Hinami statement at the meeting.",
+                "register_control": "A contributor’s objection and interrupted response differ from the author’s decision.",
+                "abstention": "No unanimous final ethics doctrine, real Hinami objection at this meeting or completed Mimimi privacy policy.",
+                "producer_observed_error": "No residual measured-time implication or other material frozen-criterion violation detected in this new actual retest output by producer; independent review/root acceptance pending."
+              },
+              {
+                "selector": "NM-S12 / Hinami privately reads Nana",
+                "input": "Apply source-layer veto to Hinami’s inferior-copy portrait.",
+                "standing": "Hinami is a private reader; Nana is an authored character partly grounded in real testimony.",
+                "actor_known_information": "The analyst has real Mimimi’s V09/V12 acts and Hinami’s limited appraisal; Mimimi does not hear the private thought.",
+                "stakes": "Preserve real growth without converting composed speech into another real conversation.",
+                "mechanisms_applied": [
+                  "MM8",
+                  "MM7"
+                ],
+                "actual_output": "Hinami’s inferior-copy appraisal remains an incomplete private model. Real Mimimi’s earlier and current acts survive it, while Nana’s composed challenge remains fiction rather than an extra real interview or processed reconciliation. No private thought is transferred to Mimimi.",
+                "register_control": "Private thought, authored speech and actual addressed testimony remain distinct media.",
+                "abstention": "No thought transfer to Mimimi or fictional speech counted as extra literary evidence about her conduct.",
+                "producer_observed_error": "No residual measured-time implication or other material frozen-criterion violation detected in this new actual retest output by producer; independent review/root acceptance pending."
+              },
+              {
+                "selector": "NM-S13 / event neglect and ordinary audience return",
+                "input": "Apply obligation accounting after beneficial story work.",
+                "standing": "Mimimi/Fumiya are responsible for practical event work; Ashigaru has professional performance capacity; friends later share ordinary presence.",
+                "actor_known_information": "A guest/fallback exists but actual program preparation was left untouched while they were absorbed in the novel.",
+                "stakes": "Chosen care has displaced another obligation and burden.",
+                "mechanisms_applied": [
+                  "MM8",
+                  "MM1"
+                ],
+                "actual_output": "Beneficial story work still displaced actual event preparation shared by Mimimi and Fumiya. Ashigaru’s professional work carries the occasion without a proved improvisation history or quantified loss. Ordinary audience return and familiar physical play retain the recipient’s pushback; they settle neither office, all prior hurt nor standing touch permission.",
+                "register_control": "Practical anxious retort, public excitement and the recipient’s objection are all retained; no triumphal reconciliation speech.",
+                "abstention": "No office restoration, permanent incompetence, full repair or standing permission for touch.",
+                "producer_observed_error": "No residual measured-time implication or other material frozen-criterion violation detected in this new actual retest output by producer; independent review/root acceptance pending."
+              }
+            ],
+            "frozen_criterion_text": "— V12 contribution, owned restraint and practical neglect remain together\n\n**Exposed inputs/selectors:** Specific chapter circulation and real four-person work; addressed interview/run; later method critique and Kikuchi's stop; final neglected event preparation. Source: NM-E29–35; NM-P29–33; CS §19; REL §17; EFFORT §§82–84; ensemble §16.\n\n**Expected range:** The trace must preserve initial skepticism, authorized particular chapter circulation, actual contribution and a sudden-start 200-metre embodied method with competition, protest, breath and care. Her account of not exploiting a weakened Fumiya gives both his good and her own self-regard while love continues; it strengthens V09 rather than inventing first-ever self-love. Trust in Tama, fear about sustaining her own self-liking during possible physical separation, a conditional next-Tama question and Fumiya's imagined future are distinct. No absent Tama reply is supplied. Her reasonable general defense of message-bearing fiction does not settle the project's particular ethical defect; Kikuchi owns the stop. Real event neglect leaves Ashigaru carrying work. Hinami's inferior-copy thought is her incomplete model, and Nana's authored speech is fiction.\n\n**Material failure:** A universal contact/romance policy, predicted replacement support, giving Mimimi Hinami's private reading, crediting her with the author's stop, using later benefit to erase practical neglect or inventing a new formal office. Preserve selective listeners: the outing does not prove every line reached Mizusawa equally.\n\n",
+            "exposure": "Exposed retrospective consistency; source and all outcomes already read.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL_V2.md",
+              "bytes": 21897,
+              "sha256": "b60ef7a0b803d7e0354e2f8ad909f23be83e2c9ddad3507e1c75bdf888df38a4"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 2,
+            "earlier_attempts": "Actual originalV1 applications retained. NewV2 manual application follows detected wording defect NM-D01; no source/criterion change.",
+            "retest_reason": "Actual model wording correction in MM7; inspect race distinction and no-measured-time qualification under the same exact frozen criterion/inputs."
+          }
+        ],
+        "actual_retested_cases": 2,
+        "actual_retested_suboutputs": 8,
+        "unchanged_cases_not_rerun": [
+          "NM-R1",
+          "NM-R3",
+          "NM-R4",
+          "NM-R5",
+          "NM-H1",
+          "NM-H2"
+        ],
+        "carry_forward_rule": "Their original twelve suboutputs remain actualV1application evidence for mechanically unchanged mechanisms; they are not falsely relabeled as freshV2executions. Root/reviewer own the adequacy of carry-forward.",
+        "producer_final_PASS": false,
+        "blind_accuracy": false,
+        "new_primary_calls": 0,
+        "new_pixels": 0,
+        "new_audio": 0,
+        "criteria_changed": false
+      }
+    },
+    {
+      "record_id": "producer.TH_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+      "value_kind": "complete_json_semantic_value",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_b_20261103/TH_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+        "bytes": 39196,
+        "sha256": "7a7439e45c1cad7e785ce1602095cf43123e3d02999561670137ed565de62d8e"
+      },
+      "semantic_value_sha256": "dfa83b2c2cbbda3b2e7745084fd56c64d3e3c5669a5b466e2c3ff5f48602f80c",
+      "value": {
+        "schema": "tomozaki_principal_B3_actual_model_application/v1",
+        "utc": "2026-11-04T02:50:15.150949+00:00",
+        "person": "NATSUBAYASHI_HANABI",
+        "model": {
+          "path": ".scratch/constructed_principal_models_b_20261103/NATSUBAYASHI_HANABI_BOUNDED_RECONSTRUCTION_MODEL.md",
+          "bytes": 17318,
+          "sha256": "05d27a7901f802719ea3137ef435140eec4d40efafda17fbcf2f23a22fa27d5f"
+        },
+        "root_freeze": {
+          "path": ".scratch/model_review_root_20261103/ROOT_PRINCIPAL_B_PREREGISTRATION_FREEZE.json",
+          "bytes": 12604,
+          "sha256": "4b4275c68c443b708c558477d6a185ee33eeb043205a58bbdb10820fe4a88822"
+        },
+        "frozen_preregistration": {
+          "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+          "bytes": 35973,
+          "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+        },
+        "dependencies": {
+          "path": ".scratch/constructed_principal_models_b_20261103/PRINCIPAL_B_MODEL_DEPENDENCIES.json",
+          "bytes": 31685,
+          "sha256": "aa3ed288c74908bf59a595bf80396c8665cb2fc1c666365810c3bec0684784ce"
+        },
+        "execution_method": "Producer manually applied the actual written operational model after root freeze, then recorded these actual English analysis/action outputs. This recorder attaches exact identities/criteria; it is not an independent persona engine or ground-truth oracle.",
+        "criteria_count": 7,
+        "actual_suboutputs": 13,
+        "cases": [
+          {
+            "test_id": "TH-R1",
+            "source_handles": [
+              "TH-P03",
+              "monograph5–8",
+              "CS10",
+              "EFF22–23",
+              "ensemble5"
+            ],
+            "suboutputs": [
+              {
+                "selector": "TH-S2/S3 / copied V05 drills and initial recording",
+                "input": "Apply the model to a teacher copying his former social exercises under harassment.",
+                "standing": "Tama is an injured learner with her own reason, not a blank version of Fumiya.",
+                "actor_known_information": "Her existing expression/posture/retort are strong; desired range, curiosity, recipient history and failure cost differ. Initial recording occurred without advance permission.",
+                "stakes": "Mimimi’s pain, effective expression of her own judgment, continued exposure and learner authority.",
+                "mechanisms_applied": [
+                  "TM1"
+                ],
+                "actual_output": "The copied drill should fail as diagnosis rather than prove Tama is incapable or already needs no change. Relevant practice must fit her existing strengths and actual recipients. She owns why she learns and can accept, reject or modify methods. Later cooperation cannot make the initial recording prospectively consensual; chosen learning does not make harassment a fair laboratory.",
+                "register_control": "Direct questioning or refusal can carry a real preference; a brighter learned opening remains a method rather than a replaced self.",
+                "abstention": "No global social deficit, perfect natural purity, target blame or retrospective recording permission.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "TH-S3 / distributed help and unfamiliar Mizusawa",
+                "input": "Apply learner-fit and updating to a recipient previously associated with teasing.",
+                "standing": "Mizusawa is a specific unfamiliar/less-trusted peer, distinct from safe familiar Mimimi/Fumiya.",
+                "actor_known_information": "A prior teasing association is real; actual conversation supplies new information but not every motive. Helpers contribute different methods.",
+                "stakes": "Whether to try a conversation, retain judgment and learn a useful interface.",
+                "mechanisms_applied": [
+                  "TM1",
+                  "TM3"
+                ],
+                "actual_output": "She can choose to try, ask directly and find the recipient unexpectedly compatible. Suspend a whole-person verdict pending more conversation while retaining the actual prior objection. Different contributions from Takei, Mimimi, Kikuchi, Mizusawa and Fumiya do not pool authority over her goal. Changing curiosity/delivery is real development, not surrender of the anti-cruelty end.",
+                "register_control": "Recipient-compatible direct exchange can work here without being guaranteed in the hostile class.",
+                "abstention": "No universal social ease, erasure of prior teasing, sole-teacher credit or future hostile-outcome promise.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— Training changes means because this learner is a different person\n\n**Exposed inputs/selectors:** V05 copied drills, initial recording, revised distributed support and unfamiliar Mizusawa exchange, all under harassment rather than a fair free-choice field. Source: monograph §§5–8; TH-P03; CS §10; EFFORT §§22–23; ensemble §5.\n\n**Expected range:** Keep strong baseline expression/posture/retort, different desired breadth/curiosity, hostile recipient history and higher failure cost. The learner owns the reason, accepts/rejects/modifies methods, receives distinct contributions and can revise whole-person judgment after actual conversation without denying a prior objection. Unannounced recording remains unannounced despite later participation. New delivery/curiosity is actual change while anti-collective-cruelty judgment survives.\n\n**Material failure:** Universal social incapacity, copying Fumiya's former deficits, natural perfection that requires no learning, every method retrospectively consensual, or blaming the target for the conditions requiring adaptation. A direct familiar register is not automatically effective with hostile recipients.\n\n",
+            "exposure": "Exposed retrospective consistency; source and all outcomes already read.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/NATSUBAYASHI_HANABI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 17318,
+              "sha256": "05d27a7901f802719ea3137ef435140eec4d40efafda17fbcf2f23a22fa27d5f"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          },
+          {
+            "test_id": "TH-R2",
+            "source_handles": [
+              "TH-P01",
+              "monograph8/12/16",
+              "CS20",
+              "EFF24",
+              "ensemble5.2"
+            ],
+            "suboutputs": [
+              {
+                "selector": "TH-S4 / crowd reverses onto Konno",
+                "input": "Apply a stable judgment through a newly usable public form.",
+                "standing": "Tama is former target with authority over her own intervention; Hinami’s protection does not own her means.",
+                "actor_known_information": "The crowd now attacks a former aggressor; changed peer ties and a learned opening affect reception.",
+                "stakes": "Stopping continued collective cruelty while preserving answerability for earlier harm.",
+                "mechanisms_applied": [
+                  "TM2",
+                  "TM1"
+                ],
+                "actual_output": "Her intervention can condemn the crowd’s act without endorsing Konno’s prior conduct. The learned joke/form and relationships help reach this audience; neither the pun alone nor moral certainty controls every system. Hinami’s love for Tama does not make revenge Tama-authorized.",
+                "register_control": "A trained public opening carries her prior judgment rather than proving every classroom conflict can be solved comically.",
+                "abstention": "No blanket forgiveness, proportionate revenge certification or guaranteed future resilience.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "TH-S4 / departure and separate apology",
+                "input": "Keep apology actors, weighted reception and the incomplete remedy separate.",
+                "standing": "Konno leaves; Akiyama/group address Tama; she receives their apology.",
+                "actor_known_information": "This actual apology is shown; Konno’s apology, full accounting, restitution and safeguards are not. Earlier keepsake damage caused real distress and desire to flee.",
+                "stakes": "Receive an actual acknowledgment without making injury disappear.",
+                "mechanisms_applied": [
+                  "TM2"
+                ],
+                "actual_output": "Preserve Akiyama/group’s apology and Tama’s serious acknowledgment. Do not transfer it to Konno or say no apology happened anywhere. Cessation and ordinary re-entry can matter while justice, trust and institutional repair remain incomplete. Her earlier collapse/escape wish prevents recasting the final intervention as invulnerability.",
+                "register_control": "Weighted acknowledgment differs from a breezy assertion that nothing mattered.",
+                "abstention": "No invented Konno apology, full restitution, complete forgiveness or later hostile retest.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— Stopping reverse persecution is neither forgiveness nor a complete remedy\n\n**Exposed inputs/selectors:** V05 crowd reversal, Tama's intervention, Konno's departure, Akiyama/group's separate apology and Tama's weighted reception. Source: TH-P01; monograph §§8/12/16; CS §20; EFFORT §24; ensemble §5.2.\n\n**Expected range:** Retain her own refusal of collective cruelty and the learned form/relations that help it reach the class. Keep Konno, Akiyama and other participants separate. Harassment cessation, actual apology, re-entry, restitution, institutional change and restored trust are separately evidenced questions. Injury and the wish to flee after damaged keepsake prevent invulnerability; the new public role's durability remains untested.\n\n**Material failure:** Konno's invented apology, blanket forgiveness, no apology anywhere, all justice finished, future hostile safety guaranteed, or Hinami's protective motive making her revenge Tama-authorized.\n\n",
+            "exposure": "Exposed retrospective consistency; source and all outcomes already read.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/NATSUBAYASHI_HANABI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 17318,
+              "sha256": "05d27a7901f802719ea3137ef435140eec4d40efafda17fbcf2f23a22fa27d5f"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          },
+          {
+            "test_id": "TH-R3",
+            "source_handles": [
+              "TH-P02/06/07",
+              "CS10",
+              "REL8.3",
+              "JVL19/20",
+              "ensemble3/7"
+            ],
+            "suboutputs": [
+              {
+                "selector": "TH-S1 / earlier appended dual-viewpoint meal",
+                "input": "Apply ordinary companionship and concealed practical care.",
+                "standing": "Close Mimimi friend, with particular preference knowledge; less-close loud group is a different format.",
+                "actor_known_information": "She knows the shrimp dislike and notices the menu; each focalizer lacks some of the other’s care. Bonus exact diegetic date is unknown.",
+                "stakes": "Wanted company, food, format fit, ordinary bodily needs and actual permission.",
+                "mechanisms_applied": [
+                  "TM3"
+                ],
+                "actual_output": "She can correct inattention, evade a grasp, leave for the bathroom because she needs to, and privately enjoy Mimimi’s appetite. Asking staff to omit shrimp is an actual checked accommodation, not an allergy claim or unlimited kitchen authority. A brief dyadic karaoke trial is accepted, but its completed outcome is absent. Retained childhood gifts do not reveal current taste.",
+                "register_control": "Familiar irritation and private amusement differ from polite staff address; no constant moral correction is needed.",
+                "abstention": "No successful karaoke performance, fixed music/food/palette preferences, hidden abandonment motive or automatic gratitude for unknown care.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "TH-S5 / V06 reciprocal instruction and permissions",
+                "input": "Apply changing expertise and distinct image/upload requests.",
+                "standing": "Fumiya is helped by Tama’s expression knowledge; prior help does not fix the direction of expertise.",
+                "actor_known_information": "She selects participation, gives thanks and asks him to accept them; capture and upload have separate answers.",
+                "stakes": "Ordinary reciprocity and control of a particular image use.",
+                "mechanisms_applied": [
+                  "TM4",
+                  "TM3"
+                ],
+                "actual_output": "Let her give thanks rather than receive the same act by mistake, and teach exaggerated expression rather than remain the perpetual pupil. Preserve the sequence of agreeing to capture and separately answering onward upload. Refusing a task or finding a repeated gag boring can coexist with feeling more at ease.",
+                "register_control": "Direct appreciative insistence and an expressive demonstration are different acts from service patter or a curt rebuke.",
+                "abstention": "No collapse of capture/upload consent, permanent public-role safety or universal sociability.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "TH-S8 / year-end V08.5 private atmosphere",
+                "input": "Apply waiting, inquiry and received reliance.",
+                "standing": "Tama returns to a complicated Mimimi/Kikuchi atmosphere, waits, then speaks with Mimimi after Kikuchi leaves.",
+                "actor_known_information": "She receives Mimimi’s account through an actual question; Fumiya is absent.",
+                "stakes": "Privacy, the friend’s chosen disclosure and the weight/warmth of being relied upon.",
+                "mechanisms_applied": [
+                  "TM4"
+                ],
+                "actual_output": "Waiting is active recipient judgment, compatible with directness. She can ask whether things were all right and why Mimimi treats reliance as falsifying love. Her answer retains both heaviness and warmth without certifying every dependency or promising endless support.",
+                "register_control": "Open questions and receptive timing differ from immediate diagnosis; the later compact answer stays particular.",
+                "abstention": "No universal atmosphere insight, Fumiya access to this private talk, healthy-dependency certificate or standing care promise.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— Ordinary refusal, teaching, privacy and thanks have different recipients\n\n**Exposed inputs/selectors:** Earlier appended dual-viewpoint meal; V06 selected nonparticipation/expression teaching; V08.5 private-conversation waiting. Source: TH-P02/06/07; CS §10; REL §8.3; JVL-19/20; ensemble §§3/7.\n\n**Expected range:** The trace must retain ordinary sweets/food/company, small refusals and practical recipient care rather than constant moral correction. A brief dyadic karaoke agreement is not its unshown result; retained childhood gifts are not current tastes. Tama gives thanks and asks Fumiya to accept them, teaches expression, and distinguishes capture from upload permission. Waiting outside and then asking an open question is compatible with directness; reliance has weight and warmth without an unlimited promise. Private motives do not automatically become the friend's knowledge.\n\n**Material failure:** Reversing who thanks whom, collapse of capture/upload assent, every touch welcome, every quiet departure secretly emotional, universal inability to read atmosphere, music/favorite-food invention or a standing duty to regulate Mimimi. Compare familiar correction with service politeness and selective receptive questioning; no exact new Japanese line is needed.\n\n",
+            "exposure": "Exposed retrospective consistency; source and all outcomes already read.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/NATSUBAYASHI_HANABI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 17318,
+              "sha256": "05d27a7901f802719ea3137ef435140eec4d40efafda17fbcf2f23a22fa27d5f"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          },
+          {
+            "test_id": "TH-R4",
+            "source_handles": [
+              "TH-P04/05/08",
+              "monograph9/15–16",
+              "CS19",
+              "EFF48/82",
+              "ensemble7.3"
+            ],
+            "suboutputs": [
+              {
+                "selector": "TH-S7 / earlier craft and conditional future",
+                "input": "Apply prior liking and quality learning before the V12 moral test.",
+                "standing": "Family-shop helper/learner whose grandfather sets actual sale-quality standards; parents have their own speech.",
+                "actor_known_information": "She already likes products/work, helps on holidays and learns; university plus a fuller trial precedes an undecided succession.",
+                "stakes": "Wanted work/products, quality communication, family embarrassment and future choice.",
+                "mechanisms_applied": [
+                  "TM5"
+                ],
+                "actual_output": "A product tasting good, being cleared for sale and being an original design are different achievements. V10 originality is not first baking or first useful contribution. Presentation can communicate actual quality; critique need not mean falsification. Parents’ childhood stories remain attributed recollections. Earlier liking makes V12 a return to an existing practice, not an invented labor identity.",
+                "register_control": "Protest at affectionate teasing, direct thanks and receiving a quality judgment vary by family recipient.",
+                "abstention": "No chosen inheritance, wages, full schedule, current stuffed-toy/palette taste or management qualification.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "TH-S9/S10/S11 / V12 service, cake and self-account",
+                "input": "Apply task skill and the cost of a self-defining standard.",
+                "standing": "Practiced worker/manager’s daughter amid actual customers and staff; Fumiya is a visitor drawn into labor.",
+                "actor_known_information": "A small flaw, colleague’s quick repair, mother’s initial release, remake/thanks, queue/staff costs and later privilege acknowledgment are available.",
+                "stakes": "One child’s singular day, quality, self-regard, time, other recipients and unequal latitude.",
+                "mechanisms_applied": [
+                  "TM5",
+                  "TM6"
+                ],
+                "actual_output": "First preserve fluent service and the shop’s independent work before the interview. The remake gives a real benefit and thanks, while the quick-repair alternative and outward costs remain legitimate parts of the act. Borrowed hero imitation can become owned through repeated action; fear of disliking herself explains a felt narrowed choice without proving a diagnosis or universal rigidity. Acknowledging family latitude does not itself distribute labor. Fumiya’s Hinami/Nagisa comparison is his interpretation.",
+                "register_control": "Customer explanation and Tama’s later wait apology differ from the coworker’s initial reassurance; plain after-work self-criticism is another addressed act.",
+                "abstention": "No universally correct remake policy, all-recipient assent, exclusive selfishness/purity verdict, business accounting, permanent compromise rule or absent people’s minds.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— Practiced craft, child-specific benefit and outward cost are all real\n\n**Exposed inputs/selectors:** V08 liked work, family quality teaching and conditional succession; V12 fluent service, damaged birthday cake, initial customer release, remake, distributed work and addressed retrospective self-account. Source: TH-P04/05/08; monograph §§9/15–16; CS §19; EFFORT §48/§82; ensemble §7.3.\n\n**Expected range:** Earlier liked sweets/work and grandfather quality standards prevent first-ever baking/work identity. In V12 attention to a child's singular day and actual grateful benefit coexist with the colleague's quick-repair proposal, queue/staff/visitor cost and acknowledged manager-family latitude. Borrowed hero origin can become owned through acts; some compromises feel like self-betrayal without a diagnosis or timeless rigidity. Fumiya's Hinami/Nagisa comparison remains his interpretation. Service calls, practical explanation, her later waiting apology and plain after-work self-account have different functions; a neighboring employee's initial reassurance is not her utterance.\n\n**Material failure:** Universal compulsory remake or proven business-policy verdict, every cost consented by the eventual thanks, all care exposed as selfish, natural purity, inherited business already chosen, total management authority or a quantified business/wage account. Do not erase practice competence to foreground only privilege, or erase cost to foreground only integrity.\n\n",
+            "exposure": "Exposed retrospective consistency; source and all outcomes already read.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/NATSUBAYASHI_HANABI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 17318,
+              "sha256": "05d27a7901f802719ea3137ef435140eec4d40efafda17fbcf2f23a22fa27d5f"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          },
+          {
+            "test_id": "TH-H1",
+            "source_handles": [
+              "TM3–4",
+              "TH-P02/06/07",
+              "ensemble3"
+            ],
+            "suboutputs": [
+              {
+                "selector": "Hypothetical later ordinary familiar invitation",
+                "input": "New stimulus: Mimimi offers a fifteen-minute café stop with one known friend, states that a larger noisy continuation is optional, and Tama has no work deadline. Tama knows Mimimi dislikes shrimp; she does not know the whole current menu.",
+                "standing": "Close friend with an explicitly limited invitation; no hostile crowd.",
+                "actor_known_information": "Actual format/time and known preference are supplied; the friend’s exact order and new companion’s thoughts are not.",
+                "stakes": "Wanted company, selective interest, food fit and finite scope.",
+                "mechanisms_applied": [
+                  "TM3",
+                  "TM4"
+                ],
+                "actual_output": "One supported hypothetical action is a compact acceptance of the short stop while leaving the larger continuation undecided. If food is chosen, she can check whether a relevant dish contains shrimp or ask staff about an adjustment rather than inventing the menu. A decline or smaller alternative also remains plausible if the actual activity is unwanted. The model does not require self-sacrifice, extroversion or a friendship thesis to make the decision.",
+                "register_control": "Direct brief preference plus ordinary service politeness fits the recipient shift; familiar amusement can remain.",
+                "abstention": "No fixed dish/favorite, completed past karaoke, hidden gratitude, therapeutic obligation or claim this option is inevitable.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— A small familiar invitation can be accepted, revised or declined\n\n**Hypothetical stimulus:** A close friend asks Tama to join a short low-stakes outing with a clearly stated format and a few known people. There is no hostile class pressure or crisis. The format can be shortened or changed; the friend has an ordinary food preference Tama genuinely knows.\n\n**Expected range:** Require a practical action or conditional invitation response with selective interest, direct compact communication, scope and actual preference information. Both enjoyment and refusal are available; a revised smaller trial can be plausible without being guaranteed. Practical food consideration can occur while taste and permission remain separate. Source: TH-P02/06/07; monograph §§9/15; ensemble §3.\n\n**Material failure/OOD:** Compulsory extroversion, permanent rejection of every noisy/music format, manufactured fixed favorites, assumed hidden care disclosure, automatic role as Mimimi's therapist/sole support or success of an event never narrated. Ordinary ease should not become a heroic ethics speech.\n\n",
+            "exposure": "Clearly hypothetical; conditioning source exposed; no canonical ground truth label. Mimimi old probes exposed where relevant.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/NATSUBAYASHI_HANABI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 17318,
+              "sha256": "05d27a7901f802719ea3137ef435140eec4d40efafda17fbcf2f23a22fa27d5f"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          },
+          {
+            "test_id": "TH-H2",
+            "source_handles": [
+              "TM5–6",
+              "TH-P04/05/08",
+              "EFF48/82"
+            ],
+            "suboutputs": [
+              {
+                "selector": "Hypothetical bounded shop quality task under stated authority",
+                "input": "New stimulus: on a familiar shift a coworker notices a modest packaging blemish before handing over a cake; two orders wait. Tama may inspect/consult but the prompt gives no standing remake policy or customer preference.",
+                "standing": "Practiced helper within explicitly limited authority, not assumed equal manager.",
+                "actor_known_information": "Visible blemish, waiting tasks and inspection permission are known; edible quality, customer wish, remedy/time and full cost are incomplete.",
+                "stakes": "Quality/care, efficient service, self-regard and colleagues’ labor.",
+                "mechanisms_applied": [
+                  "TM5",
+                  "TM6"
+                ],
+                "actual_output": "A bounded practical option is to inspect the actual issue and consult the responsible coworker/customer about a feasible remedy while keeping the waiting work visible. This is a hypothetical possibility, not proof she has mastered negotiated cost distribution. If the flaw invokes a self-defining standard, the V12 pressure may become relevant, but it cannot by itself decide remake versus quick correction here. Name the missing remedy, authority and recipient facts before narrowing further.",
+                "register_control": "Task-specific explanation/question rather than a universal hero pronouncement; customer politeness differs from coworker discussion.",
+                "abstention": "No invented price, wage, protocol, total authority, guaranteed compromise/remake or claim acknowledgment alone solves cost.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              },
+              {
+                "selector": "Hypothetical alternative removes family latitude",
+                "input": "Change only the prompt’s authority: she is a new employee without manager-family standing; ask whether V12 success transfers unchanged.",
+                "standing": "Different employment authority from the witnessed family shop.",
+                "actor_known_information": "No evidence of equal latitude, team deference or available labor in this alternative.",
+                "stakes": "A familiar quality value meets materially changed ability to impose costs.",
+                "mechanisms_applied": [
+                  "TM5",
+                  "TM6"
+                ],
+                "actual_output": "Do not predict the same insistence will succeed or select a universal new response. The model can retain care/quality/self-regard pressures and the need to identify who may authorize work; authority and feasibility are now outside the witnessed configuration. A request for clarification is supportable as analysis, not an established character script for a new work disagreement.",
+                "register_control": "No transplanted managerial command or invented perfectly negotiated voice.",
+                "abstention": "Explicitly withhold a less-privileged outcome and sustainable negotiation policy; no guaranteed resilience or failure.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— A costly quality disagreement has no universal answer\n\n**Hypothetical stimulus:** At a bounded shop clock, a familiar coworker raises a modest quality concern while other customers wait. Specify what Tama sees, what she is actually allowed to do and whose labor is affected. The prompt asks for supported decision pressures and conditional next steps; an alternative version removes family latitude and asks whether her V12 choice transfers unchanged.\n\n**Expected range:** The model may identify object-specific quality/care, self-regard, time, recipient request, practical repair options and staff/customer burden. It must give a conditional practical range or request the missing authority/capacity fact while refusing to select an unsupported universal policy. Her practiced work supplies competence; moral commitment does not eliminate tradeoffs. Source: TH-P04/05/08; monograph §15; EFFORT §48/§82.\n\n**Material failure/OOD:** Guaranteed remake, guaranteed compromise, a standing authority over coworkers, a claim that acknowledging privilege already distributes cost, invented wages/policy, or a prediction of success under newly removed privilege. The less-privileged disagreement is an explicit transfer limit, not an invitation to fill excluded behavior with an ideal negotiation script.\n\n",
+            "exposure": "Clearly hypothetical; conditioning source exposed; no canonical ground truth label. Mimimi old probes exposed where relevant.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/NATSUBAYASHI_HANABI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 17318,
+              "sha256": "05d27a7901f802719ea3137ef435140eec4d40efafda17fbcf2f23a22fa27d5f"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          },
+          {
+            "test_id": "TH-H3",
+            "source_handles": [
+              "TM3–4",
+              "TH-P06–08",
+              "NM-P30",
+              "REL8.3/17",
+              "ensemble7–8"
+            ],
+            "suboutputs": [
+              {
+                "selector": "Source-boundary challenge / absent Tama at V12 interview",
+                "input": "Ask what Tama promised or will say to settle Mimimi’s separation fear, then ask what evidence is actually available.",
+                "standing": "Close friend with independent craft/family/peer ends; absent from the interview.",
+                "actor_known_information": "Known reciprocal care and ordinary shared presence; no shown receipt of this particular fear or subsequent negotiated plan.",
+                "stakes": "Preserve warmth without inventing access, lifelong availability or an answer.",
+                "mechanisms_applied": [
+                  "TM4",
+                  "TM3"
+                ],
+                "actual_output": "No promise or reply is available to reconstruct. The actual relation includes remembered preferences, direct recognition, chosen company, waiting and received reliance; those are resources for a future conversation, not that conversation itself. To model an arrangement, one would need what Mimimi actually tells Tama, what each wants and can supply, and their answers. Later sitting together supplies none of those missing terms.",
+                "register_control": "Do not generate a reassuring line and label it Tama’s characteristic response; describe the evidence boundary instead.",
+                "abstention": "Abstain from the unshown answer, replacement support, perpetual care, complete independence doctrine or predicted bond failure. This factual abstention does not imply she would refuse support.",
+                "producer_observed_error": "No material frozen-criterion violation detected in this actual first output by producer; independent semantic/register review pending. This is not a final PASS."
+              }
+            ],
+            "frozen_criterion_text": "— Do not answer an unheard separation fear\n\n**Hypothetical stimulus:** A prompt asks what Tama privately promised or will say to settle Mimimi's V12 fear about physical separation. The actual input gives only the interview's listeners and their ordinary continued friendship. A bounded alternative prompt asks what is known about the relation and what direct conversation would be needed before a future support arrangement could be modeled.\n\n**Expected range:** Explicit abstention from the unshown reply, promise and future plan; explain that Tama was absent and later shared presence supplies no negotiation. Preserve ordinary reciprocal care, independent craft/family ends, selective waiting and the bond's demonstrated warmth as positive existing resources. Source: TH-P06–08; NM-P30; REL §8.3/§17; ensemble §§7–8. The model must not confuse this factual abstention with evidence that she would refuse support or that the friendship has failed.\n\n**Material failure/OOD:** Invented reassuring dialogue, perpetual availability, replacement support, a therapist role, complete independence doctrine or a prediction that their bond ends. Do not generate a hypothetical answer and then cite it as testimony.\n",
+            "exposure": "Clearly hypothetical; conditioning source exposed; no canonical ground truth label. Mimimi old probes exposed where relevant.",
+            "model_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/NATSUBAYASHI_HANABI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 17318,
+              "sha256": "05d27a7901f802719ea3137ef435140eec4d40efafda17fbcf2f23a22fa27d5f"
+            },
+            "preregistration_identity": {
+              "path": ".scratch/constructed_principal_models_b_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+              "bytes": 35973,
+              "sha256": "0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3"
+            },
+            "expected_constraint_range": "The immutable frozen_criterion_text above; suboutputs apply its particular selectors. No post-output criterion alteration.",
+            "attempt_number": 1,
+            "earlier_attempts": "None: retain this actual original; no fictitious failures or silent repairs."
+          }
+        ],
+        "validation_state": "PRODUCER_ACTUAL_APPLICATION_ONLY_INDEPENDENT_AND_ROOT_REVIEW_PENDING",
+        "freeform_Japanese_dialogue": 0,
+        "acoustic_claim": false,
+        "blind_prediction_claim": false,
+        "model_output_as_literary_evidence": false,
+        "new_primary_calls": 0,
+        "new_pixels": 0,
+        "new_audio": 0
+      }
+    }
+  ]
+}

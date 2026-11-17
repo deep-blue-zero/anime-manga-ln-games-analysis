@@ -1,3 +1,22 @@
+---
+series: "KONOSUBA"
+artifact_type: "character_monograph"
+character: "Wolbach"
+scope: "WOLBACH_CURRENT_AUTHORITY_20261026"
+status: "active_provisional"
+source_boundary: "Shared C17 3093 known BASE slots/20members/7objects plus8actually inspected EXP03 integral prose images with visible ruby. Source-known text/reports/retellings remain typed; no independent observations or new whole-source/Japanese adequacy credit."
+authority_review_basis_commit: "c5a176928f08aac6a445af355e57a8b3f6d7cc58"
+authority_review_record: "series/konosuba/09 Audits and Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.json"
+authority_preserved_original_argument_sha256: "8c2e40a54e0f1ec29b1d96164f8adf93fa687815a2f86cd9ef68ac0fd2c73bba"
+authority_current_argument_sha256: "8c2e40a54e0f1ec29b1d96164f8adf93fa687815a2f86cd9ef68ac0fd2c73bba"
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
+> Authority adoption notice: This administrative current-public derivative retains the complete previously published argument below without changing any analytical byte. Its original SHA-256 is `8c2e40a54e0f1ec29b1d96164f8adf93fa687815a2f86cd9ef68ac0fd2c73bba`.
+> The original private foundation and every original tested model, rule, input, first response, defect, score and null remain at their recorded boundaries. Historical authorship-time or publication-pending statements below remain attributable history. Current provisional use is governed by the paired [authority adoption review](../09%20Audits%20and%20Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.md) and [record](../09%20Audits%20and%20Manifests/KONOSUBA_REMAINING_MONOGRAPH_AUTHORITY_ADOPTION_01.json). This adoption adds no source admission, whole-source/ruby/image reading, new model or test, capability grade, maturity, independent validation or confidence gain.
+
 # Wolbach: considerate acquaintance, divided power and committed opponent
 
 ## 1. Identity and narrative position

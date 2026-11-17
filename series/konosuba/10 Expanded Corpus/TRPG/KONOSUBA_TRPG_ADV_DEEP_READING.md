@@ -8,6 +8,10 @@ supersedes: []
 superseded_by: []
 ---
 
+**C52 current source qualification:** [the reference/guide/scenario evidence index](../../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md) governs the later bounded return and [eight current precision findings](../../09%20Audits%20and%20Manifests/KONOSUBA_COHORT52_SOURCE_PRECISION_QUALIFICATIONS_01.json). Historical component notes, original coding, forecasts and replay outputs below remain preserved. Sample constructions, narrated guide participants, named reference summaries and unperformed scenario actors retain separate access.
+The appended eight profiles cover four optional advanced samples and four separately labeled captive women. Boren and the autonomous tank have separate monographs. The selected scenario section is nativeS297–311/printed295–309, with its body beginningS298/printed296. The opening confinement is in a prison. Later equipment recovery refers back to the captive party; it supplies no additional confirmed party. No played adventure or fresh all331-page reading is claimed.
+
+
 # TRPG Advanced — a shared home does not settle what care costs
 
 ## 1. Source authority, actual reading and exposure
@@ -153,3 +157,64 @@ The [reading receipt](KONOSUBA_TRPG_ADV_SOURCE_AND_READING_RECEIPT.json), [uncod
 Confidence is high in the stated actual reading, exact source identity, specific source-plane distinctions and clearly printed narrative events; it is lower for soft comic eligibility, broad trait transfer and untested causal generalization. All numerical/index inspection limits, source-text discrepancies, prompted self-reports, GM improvisations, optional alternatives, profile contexts, rumor and unperformed branches remain explicit. Forty-six recorded fragments are not forty-six independent pronunciation judgments.
 
 At authorship this whole supplied edition is substantively accepted at its stated scopes, with canonical containing publication and full exact-source gate still required. Five mixed programs are thereby analytically accepted; four are already published/full-gate closed. Supplemental whole-edition book accounting remains two of nineteen. The global eligible narrative-component denominator is unresolved and its completion percentage remains null. Main-edition excluded components, seventeen supplemental whole editions, Stage D synthesis and attributable revised models, qualified secondary/index work and final audit/release remain open. Close the Advanced publication/readback/source-audit/housekeeping/final-audit/status/reload sequence before separately admitting Dust03. This is a completed source unit within the continuing full program.
+
+
+## C52 — advanced samples and the captive adventurer party
+
+The four illustrated samples are optional character constructions. Their sheets specify level5 builds while leaving personal identities and life-path selections blank. The four captive women instead have separate speaker labels within an unperformed scenario. Shared situations and class names do not establish an identity between these groups, the principals, replay PCs or the Yorimichi Assassin. All eight profiles are scoped Tier1; no new model, rule or first output is authored.
+
+<a id="c52-advanced-knight-sample"></a>
+### The iron-wall holy knight sample
+
+**鉄壁の聖騎士** describes a reincarnated adventurer who has advanced from Warrior to Crusader over an unspecified period. Protecting allies and attacking remain central; broader cover produces reported respect and the iron-wall epithet within the template (Advanced S004, S117). The staged **オレ** boast says opponents must get past the knight, not necessarily kill him. It neither proves absolute immunity nor records a completed rescue.
+
+The reincarnated Crusader-low sheet is level5/100XP with blank name, age, gender, appearance, life-path and cheat fields (S116). The art and class progression do not identify Darkness, Otohime, Mitsurugi or a particular Core sample. Protective orientation is stated, while a refusal threshold, ordinary interests and independent success remain unprovided.
+
+<a id="c52-advanced-mage-sample"></a>
+### The Crimson great-mage sample
+
+**真紅の大魔術師** interprets outsiders' puzzlement at favored styles as a defect in their taste. The same vignette describes learned village magic as useful in practice and explicitly says current power is insufficient to defeat the Demon King (Advanced S004, S119). Ethnocentric appraisal, partial competence and an improvement goal coexist. Neither universal aesthetic truth nor completed victory follows from the narrator's second-person presentation.
+
+The staged invocation is Inferno. The level5 Crimson Demon Archwizard-low sheet includes several spells, including Fireball and Inferno, with personal and life-path blanks (S118). This is not Megumin's Explosion-only history, a new Temiren scene or a played cast. Claimed destiny does not isolate a cross-context preference mechanism, and the source supplies no private relationship or ordinary-life comparison beyond this brief trajectory.
+
+<a id="c52-advanced-priest-sample"></a>
+### The noble great-priest sample
+
+**気高き大神官** opposes monster cruelty and the Demon King, advances in priesthood and seeks companions because stronger allied attacks and broader healing make opposing evil more effective (Advanced S005, S121). The possible divine recognition is hedged by **のか**; no named god or directly witnessed intervention is supplied. Practical efficiency need not negate the stated moral aim or constitute a punchline by itself.
+
+The local Archpriest-low sheet is level5/100XP and leaves personal, life-path and cheat fields blank (S120). A holy seal and healing table establish build data, not a performed rescue, Gilbert identity or universal benevolence. The slogan's compressed exhortation is written sample voice. Responses to competing obligations, actual costs and moral error remain unknown, limiting treatment to this profile.
+
+<a id="c52-advanced-assassin-sample"></a>
+### The deadly Assassin sample
+
+**必殺の暗殺者** retains fear alongside lethal skill. After safe life in Japan and a sudden death, the sample meets an unnamed beautiful goddess, chooses reincarnation, finds monsters and traps frightening, survives and advances to Assassin. Danger sensing and vital-point attacks are described as means of continued survival (Advanced S005, S123). The text does not identify an earlier death cause, named victim roster or moral justification for every killing.
+
+The staged **ちょー** complaint with a polite clause ending contrasts with the ominous title without erasing competence. It does not declare age, gender or a principal identity. The level5 reincarnated Assassin-low sheet retains personal/life-path/cheat blanks (S122). This is not the Yorimichi class-named retired woman, Chris, Kazuma or Number21 by occupation. No played murder, stable risk threshold or tested voice model is supplied.
+
+<a id="c52-captive-warrior"></a>
+### The captive party's Warrior
+
+The Warrior asks the arriving PCs who they are (Advanced S305). The authorial explanation identifies a female adventurer party confined after refusing Boren's proposals; her question preserves an information boundary rather than instant trust in every visitor. Equipment recovery can enable cooperation, and the group's later diversion and cheering are conditional supplied actions (S305–306, S310).
+
+No name, exact age, birthplace or private motive beyond this situation is given. The brief direct address is distinct from the Wizard's reported quotation. Extra status limits game resolution here, not her right to refuse or her capacity for meaningful choices. Her class does not identify a sample knight or Darkness. This bounded role needs no invented romance, rescue debt or permanent allegiance.
+
+<a id="c52-captive-wizard"></a>
+### The captive party's Wizard
+
+The Wizard reports that Boren captured them, proposed marriage and responded to refusal by saying there was time (Advanced S305). The scenario independently states the party's confinement and rejected proposals. Her account is an attributed report inside a supplied adventure; Boren's quoted line is neither her own commitment nor an actual replay utterance.
+
+She provides relevant history while the party considers cooperation. The text gives no performed spell, exact skill level or private wish for a relationship with any rescuer. Recovery and diversion branches remain conditional. Class and refusal do not identify Megumin, Yunyun, Temiren or the great-mage sample. The profile retains her role as a reporting participant, without making captivity or another person's desire her whole identity.
+
+<a id="c52-captive-thief"></a>
+### The captive party's Thief
+
+The Thief notes the golems as an obstacle (Advanced S305). This concise assessment contributes to the group's practical problem alongside the Wizard's history and Priest's offer. The source does not show a personal trap disarm, failure to escape earlier or a reason she remained beyond the stated confiscation and confinement.
+
+If equipment is recovered, the party can cooperate in diversion; its Extra classification does not establish incompetence or inertness (S305–306). Her casual written phrasing is one source-bound turn, without a full personal register or named identity. She is not Chris or a sample thief by class. No gratitude, cheer or shared plan implies assent to Boren's proposals or consent to other unspecified risks.
+
+<a id="c52-captive-priest"></a>
+### The captive party's Priest
+
+The Priest says the party can be useful in a diversion if it has equipment (Advanced S305). Her conditional offer acknowledges resources and selects a form of contribution available outside direct round combat. It does not borrow consent from the Warrior, establish a performed heal or name a deity. Authorial group cooperation remains a condition, not a new played result.
+
+The guards are ordered not to kill the party, permitting the supplied diversion to occupy them through the climax (S306). That external constraint does not make captivity benevolent or turn the Priest into a willing bride. Her personal history, ordinary interests and long-term relationship with the PCs are unknown. Neither costume nor profession identifies Aqua, Gilbert or the noble-priest sample. A brief but distinct offer earns this profile without a portable generator.

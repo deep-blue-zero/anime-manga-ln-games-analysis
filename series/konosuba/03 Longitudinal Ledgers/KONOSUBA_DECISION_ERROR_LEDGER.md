@@ -1940,3 +1940,207 @@ DUST01's supposed village girl is a production visible to the reader. Mitsurugi 
 [cohort23 individual index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) YY05-YY13 preserves Yuiyui's local misreading/apology alongside continued arrangements and later repeated restraint after Megumin's explicit objection. Her smiling accidental-sleep explanation conflicts with the heard AnkleSnare/Sleep sequence. Kazuma's own permission rationalizations are not law or the recipients' assent. Later constrained choice, kindness or shared warmth cannot rewrite the earlier objection. Hyoizaburoo's own thanks/apology, gift response and continuing Komekko boundary prevent a universal food-purchase rule; reported remittance limits do not show a new expenditure.
 
 PC02/PC05-PC14 retains Pucchin's corrected attendance omission and a later ignored complaint, actual academic merit alongside theatrical points, and noticed cat-behavior contradictions alongside permission for an interesting story. No literal-belief diagnosis is forced. Megumin's scapegoating/sabotage readings remain her inferences; a real seal problem can coexist with disputed teacher explanation. Pucchin explicitly admits waiting for cool timing after an effective rescue; a good result cannot establish good timing. Need-based support remains concrete help with mockery, not proof of a private care motive. The originals of all twelve diagnostic bodies retain unsupported history/staging and generic rivals; source-colored coherence is not automatically fidelity.
+
+
+## Cohort24 — Crimson village work and staff, source-known scope
+
+The first red sample changes Chekera graduate-level expectation and prompts a smaller/no-deliberate-infusion trial, which still needs freezing. Appraisal correction does not erase the second risky result. Apparent customer prosperity is his appraisal before Megumin requests a Kazuma loan. Potion interview negotiation and diner rush-hour reprioritization support compact task decisions, not broad generative rules; later dismissal/pay settlement and clinical outcomes remain mediated/missing (CC02-CC06,PO01-PO02,DI01-DI04).
+
+Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md). The shared known-source union is 1,149 BASE slots/7 text members/4 text objects, including context, blanks, other actors and rejected joins; no fresh whole-source, ruby, residual, image-set, admission or independent validation credit. Earlier models, scores, firsts and prospective missingness remain unchanged. Canonical receiving is complete for this candidate only; exact containing publication/full program remain pending.
+
+
+## Cohort25 — chief, Sylvia, trial machine and castle courier
+
+Sylvia uses communication failure and apparent weapon/name evidence,then revises a mistaken identity after new performance evidence. Repeated village feints also contribute to underestimating a real threat; learning is not uniformly corrective. Trusting a disarmed captive exposes her to confinement. Chief letter convention imposes an information cost; crisis retreat supplies contrary evidence to pure spectacle. Machine target classification is not proof actual cheat ability,and MAIN15 diary-reported interference competes with a factory-original-only explanation.
+
+Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+Aigis responds to changing leverage yet accepts a contest lure, becomes distracted, misreads identities and admits a false undressing pretext after factual correction. Its initial failure to leave the Eris enclosure scene cannot independently prove loyalty: Kazuma conjectures that Eris resists inside. A declared mission does not automatically outweigh bodily cost or preferred service. Conditional tactics do not imply general planning success, and an imagined first mage synergy fails at actual deployment (AG26-06–18,22–25).
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Beldia updates martial appraisal but loses disrupted preparations and later head control. Hans misreads an apparent voyeur as inattentive and appeals to a noninterference agreement whose civilian exception defeats his protection; the source does not prove he never knew that exception. His successful fragment also surprises him. Serena mistakes Kazuma’s religious assumptions, overconcentrates resources and fails to elicit a valued debt from Dust. Lolierina asks useful follow-ups and corrects judgments while relying too heavily on suspect reputation, alibi gaps and a limited truth-device result. The commander recognizes unexpected strength but still faces ambition and an unfamiliar partner attack. None of these choices is rewritten as secretly optimal (BE27-01–09; HA27-01, 03–06; SE27-05–07, 15; LO27-03–07; DU27-01–03).
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+AL28-09: Alderp treats a knock as delivered Darkness despite Maxwell saying nothing has been done, then releases the contract. RG28-08: Zesta's quiet bluff admission is outside Ragcraft's hearing; the inferred exposure is mistaken. BA28-02: Balter's wager interpretation conflicts with K's actual fear; false pregnancy is not true. EP28: prosecutor's device-fault assumption conflicts with the watchman's check. IG28 includes false pregnancy belief, parental distraction and surprise. Maxwell's apparent mutual-love interpretation preserves the recipient's nonconsent. Exercise MX-H02-B misreads strike as kill; IG-H02-B invents an undisputed portion. Originals remain unrepaired.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Barton admits unknown mechanisms, gives empowering ice advice and makes a calming display that fails. Later sunshine does not verify the toad theory. Zereschilt repeatedly misreads Darkness's failed attacks and pleasure; affect detection does not establish correct causal explanation. Barton firsts omit the underprovided scale location; ZS-H03-A accepts before errand details and assumes carrying/room visibility. All original defects remain unrepaired rather than becoming native claims.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+Lia accepts a false Konjiro claim and treats abduction as her responsibility, while also asking useful procedural questions. Cielo's deliberate attack and participation despite Lia's no are distinct from a contact-triggered blow. Erika misreads a restraint crowd as fans, yet resists flattery after exposed harm. Charlie's leak and selective disclosure coexist with correct warnings; Daniel's possession claims and ignored glove warning remain his errors. LI-H02-A adds a current-pause explanation; CI-H02-B assumes male spectators; CI-H03-B supplies an unverified protective reason; ER-H02-B overstates absence of urgent timing; all original firsts remain unrepaired.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Core/Advanced replays retain Gilbert embellished executive report and damaged credibility, Chiho proposed illness-for-gratitude and avoidable risk, Otohime incomplete shared-danger planning and resource dependence, Temiren wishful appraisal alongside criticism, and 21 early pressured assent alongside later refusal. Goran confession is scenario-required, not a successful lie-detection roll. Original diagnostics retain N21-H01-A familiar-person overgeneralization, N21-H02-A earlier-answer presupposition andN21-H03-B unprovided injury type; OT-H03-A echoes a detailed source motive. No first is repaired into success.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+Brad dismisses rank through a prank-based inference and continues to gaze despite Rosary objection. Rosary categorical hostility coexists with practical correction. The leader conceals a celebrity-access aim and corrects her Wiz category error. The small worker pressure on Luna is adverse, her courage is elicited by Vanir pride framing, and her finite-life estimate lacks the narrator full-erasure information. Six original diagnostics retain H01-B other-mind assumption, H02-A unprovided run-demand presupposition and H03-B prior-instruction assurance; no original body or foundation is repaired.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Karen's explanation of Darkness's repeated dress is corrected by the maternal attachment account. Her confidence in guards has a concrete barrier failure; Megumin's dropped-stone explanation remains conjecture. Darkness is cut off at U021P213, so Karen's knowledge of Kazuma's death before mockery is not established. Six original firsts retain an unprovided exhibition-ownership implication, an unprovided speaker for profitability information and an ambiguous fee-collector role. Those actual defects remain without body repair or a clean success claim.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 34 individual receiving — 2026-10-24T12:23:53.695527+00:00
+
+Kazuma’s inference that device silence proves the Princess harmless exceeds a false-utterance detector’s scope. His narrow not-cutting promise differs from her inferred safety. Audience departure and hostile confrontation covary, so no isolated audience cause is identified. Lucy’s historical gift/rejection account does not establish a former marriage or desire for renewed romance. Original diagnostics retain archive-role ambiguity, added registration imagery, sorrow-mask and map-position assumptions, a finitude implication, unprovided past speech and afternoon.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+Eris rejects both of Kazuma’s named identity guesses. That rejection does not erase the reported actors or give access to their private minds. DUST05’s closely corresponding Darkness grievance supports an event link; it does not explicitly name its speaker as Selis. The current P904 religious justification is declared ad hoc, not established church law.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+Aqua’s dragon expectations,interpreted clucks and military forecasts remain her appraisals. Kazuma’s imprinting,fraud and memory explanations remain his. Darkness’s claim that his hidden letter is an egg advertisement is contradicted when he opens Iris’s royal letter. It does not become another marketer occurrence.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+Quoted military-job challenge differs from Kazuma paraphrase and Wiz inserted household interpretation. Duke later reads Kazuma as strategist from acquired information and misunderstood apparent support. Plant rude reply is real within narration;Kazuma innate-evil conclusion and burning attempt have different warrants. Proposed Shiro name is untagged/uncompleted. Reported merchant roles retain unresolved joins.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort38 Perie and selected Dust06 roles — 2026-10-24T17:10:38.125614+00:00
+
+Perie first infers negotiating pressure will protect the army,then accepts Dust deliberately false low-hostage-value account and proposes killing princess and witnesses despite the reported live-capture order. Her claim that superior personnel selection caused the problem meets her later admission of taking the mission by force. Reported superior praise and executive candidacy are not an observed promotion. The gate guard mistaken identity and narrator explanation do not establish universal stupidity or hidden plot knowledge.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort39 Rouzeri,store owner and helmeted noble — 2026-10-24T19:06:19.622893+00:00
+
+Rouzeri refuses a particular exit while wanting to flee;no universal cowardice or bravery follows. Her own army-life reason is not the different ogre salary complaint. Owner misorder and disguise misreading oppose infallibility. Noble jealous interpretations and Dust truth-inverter theory do not establish reciprocity or engineering fact. Current unknown joins stay open;gate wine explanation overturns Dust fatal-wound inference without certifying physiology or zero casualties.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort40 Doreck, Gaibil, Bridol king and head butler — 2026-10-24T21:08:27.831290+00:00
+
+Private willing contract qualifies public brainwashing account. Leen wedding bride and real Rionor dungeon visitor are separated after Dust mistaken expectation;diet note is not a clinical diagnosis. Butler false gag interpretation conflicts with Dust protest and does not certify infallible translation. Driver hearing explanation is reported;Dust dementia guess is not diagnosis. GAI-A1/B1/B2contextual qualifications remain without repair.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort41 — documentary makers, plants and encounter partners — 2026-10-24T22:38:34.409784+00:00
+
+Guild living-hijacker account differs from discovered skeleton and read journal. MAIN05positive scientist recognition is stronger than Dust02similarity. Two plant visits are one local episode;repeated first-human claim is directly contradicted by second use. Kazuma unoffered provisioning is not failed rehabilitation. Dust premature orb-destruction hypothesis is superseded by a functioning miniature machine. Source-known diagnostic B2residual-two-hours issue remains unchanged.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+Specific failed-Kazuma-client/priest-fear conjunction supports qualified Lolisa join, with unshown different failure retained as rival. Chief own lake advocacy drives adventurers away; final apology is collective. Temporary warrior first-person section has an unmarked dream onset, so no independent physical Leen assault/drugging is inferred. Week begins today inDUST01U015550, only two days pass576; later complete two-week custody report is later knowledge.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+Megumi’s emotion coexists with later source checking and a near-apology interrupted by Ozuma. Ozuma accepts an improvised ecological explanation and transfers real capability into excessive moral credibility, yet still notices immediate danger. Eibram changes an exorcism task while retaining a limit on a demanded blow. The veteran shifts from contents-only stakes to retaining the wallet and recipient-specific retaliation. Crow updates about identity while defending rank, then repeatedly withdraws under danger.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+The dryad’s living-dependent objection, wanted water and naturally expired-plant settlement support a conditional exchange constraint, while death threats and pressure resist an idealized fairness account. The dinner host checks immediate cat danger yet later admits wing-broth extraction and flees a rights confrontation; take-home permission belongs to another unjoined woman. The follower’s bag leverage is lost after provocation and Steal, with final fate unshown. Park-men harmful statements contradict a blanket harmless reading; the social lesson’s fake withdrawal is contradicted by the actual blast.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort45 — Yorimichi 3 individuals and supporting roles — 2026-10-25T07:34:24.234913+00:00
+
+Vice interprets Darkness's assault as confirmation of Tia's storyU01860 despite having the wrong addressee; later correction and exposed stories308–309 qualify that apparent evidence. Crank admits monster trade while disputing attributed purposeU014296 and explicitly defends maid harassment300. Actual contraband307 does not retroactively prove every allegation; no collar311. Shumel's actual lightning375 gives Darkness public-casting/injury leverage383. Kazuma's threatened retaliation precedes Megumin disbelieving a true frog warningU012154–176. These are situated evidence/choice failures, not global intelligence diagnoses.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+Dark Stalker invested romance attention coexists with practical correction from Assassin; a genre-shaped reading is not knowledge of the watched people private intentionsU014/U018. Kazuma initially withholds his age and threat information from AngieU018242-244/500, then uses her incomplete information for revenge; her errors cannot be credited to universal incompetence. Kazuma wallet theftU020228 is followed by return230 and does not confirm polite transparent negotiation. Aqua reading a reported pub ban as affectionMAIN16U01322-24 is not proprietor consent. Related census routes now distinguish comparisons/context/exclusions from possible identity or membership overlap.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+Kazuma's initial chest-mimic classification MAIN02U015236 is corrected by Aqua's dungeon-mimic identification237 and floor/wall response241. The bottle response does not prove a performed human disguise or complete diet. Kazuma's city-avoidance explanation U014691 and scent inference U015104-105 remain hypotheses. Heidel wrongly guesses the complaint MAIN11U012203-204 and hesitates208-209 before a prompt213; competent anticipation is fallible. Kazuma's online-guild retelling312-325 supplies handles and causal interpretation without offline identity verification.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+Stella corrects her first impulse to blame Gain180 after seeing his wound181,then warns the stranger204; she later misreads Vanir divine objection235 as religious humility238. Accuracy varies within one actor. Vanir wild/untrained guess217 does not resolve pet ownership. Kazuma recognition of standing male shop regulars122 adds an interpretation to civic affection113,not proof that every speaker lies. Luna actually checks cards109. Fabricated chimera biography283/286 is explicitly disavowed328; Kazuma abandonment inference287-288 does not instantiate real parents or an experimenter. The motorcycle memory317 does not establish romance or senior gender.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+Mammon notices the false Nos’s register but misclassifies it123;his correct corpse recognition yields a wrong human-killer inference93. Aqua purifies the tea203,so server punishment217 is not proof of servant sabotage. Initial hesitation306 precedes Mitsurugi’s rebuke321,posture recovery325 and restraint334;face,cruelty inhibition and tactical sufficiency remain rivals. The king correctly diagnoses delay38–40 yet misidentifies the charm80 and revises his Explosion/class expectation295/453. Competence and error vary within actors; no uniform stupidity or omniscience.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+The butcher retracts his police threat locally; the festival child combines skepticism, allowance limits and distress. The target-game operator's appeal to police brings enforcement on his own stall. The pub manager's nodding does not rescind dismissal; Megumin hot-oden account is interrupted before a completed act. Megumin's library-classmate accusation is denied, and she admits her own intervention motives. The intervening policeman initially follows a misleading account but also asks the fleeing pair to stay. No error is made into a universal incompetence trait.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C51/C52 — false claims, mistaken appraisals and failures of control
+
+**Source class/phase:** retrospective uptake of admitted artbook/fanbook fiction and TRPG guide/optional/scenario material. The [C51](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md) and [C52](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md) indexes distinguish direct action, reports, tutorial appraisals and unplayed branches.
+
+The Medusa owner's false level claim is deliberate presentation, whereas expecting uniformly weak invaders in a novice town is an environmental appraisal defeated by the represented visitors. Her surprise at the toilet question is a local planning omission. Her objections to Kazuma's cruel proposals are value disagreements; they are not automatically reasoning failures. Taking notes demonstrates uptake without proving every proposed defense was installed. Finally, deciding to stay before the warning and requesting rescue after it need no inconsistency diagnosis: relevant information changes. (FAN-MEM S097–099, printed95–97.)
+
+The Core newcomer corrects the inference that Megumin's eyepatch seals power after Kazuma and Megumin explain it is decoration. The newcomer also retracts a simple good-person appraisal when Kazuma presents the500-Eris guide offer, yet continues receiving useful guidance. A revised appraisal is not proof that the offer was paid or all earlier help fraudulent. Aqua's unsafe transfer, the interrupted intention to hit her and later grievance release are separate events. Forgiveness cannot retroactively make the starting location safe. (CORE S252–257.)
+
+Okina's forgotten trap positions qualify otherwise useful local expertise. They do not establish dementia or wholesale incompetence. His proposal to add more traps after the goblin report extends a protective practice that also endangers access; the script does not establish a completed installation or identify its dominant motive. His reported failed tourism offer supplies a demand/schedule mismatch, not a counted sample of actual customers. (CORE S303–305/S312.)
+
+Boren understands that immediate agreement under capture may be insincere and nonetheless confines the PCs regardless of their answer. The four women's refusal is likewise known within the supplied account. These are coercive choices, not missing awareness of a preference. His fair-fight appeal while protecting the device asks opponents to retain his advantage. The later control failure is a different claim: after device destruction, the autonomous tank treats external lifeforms as enemies and can strike surviving Boren despite his order. It is a conditional loss of command, not an observed universal inability to reason or a new played result. (ADV S299–301/S305–310.)
+
+Several relevant errors belong to analysts rather than fictional subjects. Greed's 子爵 means viscount; the thief's native title is 探求の盗賊; 牢屋 is jail; Core/Advanced native and printed page numbers must not be mixed. The C51/C52 precision records correct current use while retaining original source-first annotations. 胸を高鳴らせる supports heightened feeling, with excitement and tension retained as contextual alternatives. It does not justify diagnosing the sample thief from a derivative label. No historical prediction or adverse model result is repaired by these corrections.

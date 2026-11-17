@@ -1,0 +1,93 @@
+{
+  "schema": "tomozaki_principal_A_model_administrative_derivations/v1",
+  "artifact_type": "model_administrative_derivation_record_shard",
+  "authority_class": "model_validation_provenance",
+  "status": "canonical",
+  "release_state": "immutable_freeze",
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_primary_literary_authority": true,
+  "supersedes": [],
+  "superseded_by": [],
+  "derivations": [
+    {
+      "person": "Tomozaki Fumiya",
+      "original": {
+        "path": ".scratch/constructed_principal_models_a_20261103/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 19304,
+        "sha256": "d2e66a7a9ce2b99c68e5a0d9fb07adb32905414b9403a6a50c76a655dda18f34"
+      },
+      "render": {
+        "path": "series/tomozaki/07 Character Reconstruction Models/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 20712,
+        "sha256": "835a7db1344b431e1ff69b0ad8005181d655a1b1a2e13953b7cea4ad585d4d9c"
+      },
+      "derivation": "Administrative frontmatter and current acceptance/provenance wrapper only. Every byte after the original closing YAML delimiter is preserved as the final suffix.",
+      "core_bytes": 18238,
+      "core_sha256": "cb423a6a33fd9ecdf58d124ac5959471a6a130ad513759d6434d75224af439fa",
+      "original_core_byte_offset": 1066,
+      "render_core_byte_offset": 2474,
+      "root_acceptance_public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "original_full_text_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      }
+    },
+    {
+      "person": "Hinami Aoi",
+      "original": {
+        "path": ".scratch/constructed_principal_models_a_20261103/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL_V2.md",
+        "bytes": 19545,
+        "sha256": "32c94045ec73bf1598452500090b3d8e40640f2deda84e89d7e23dd9ec723e0f"
+      },
+      "render": {
+        "path": "series/tomozaki/07 Character Reconstruction Models/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 20953,
+        "sha256": "5f314d0100b006df7724814de3c48a43945517efa7e9f10899ff0da045b33913"
+      },
+      "derivation": "Administrative frontmatter and current acceptance/provenance wrapper only. Every byte after the original closing YAML delimiter is preserved as the final suffix.",
+      "core_bytes": 18492,
+      "core_sha256": "2016a1842d662d897534a52f55afcbfc19967d286e5cf361090d9958121492a3",
+      "original_core_byte_offset": 1053,
+      "render_core_byte_offset": 2461,
+      "root_acceptance_public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      },
+      "original_full_text_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      }
+    },
+    {
+      "person": "Kikuchi Fuka",
+      "original": {
+        "path": ".scratch/constructed_principal_models_a_20261103/KIKUCHI_FUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 20541,
+        "sha256": "7686f9e82b1aaa493184a5ce8700127e0961f5167737ef479946bf028b73b310"
+      },
+      "render": {
+        "path": "series/tomozaki/07 Character Reconstruction Models/KIKUCHI_FUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 21949,
+        "sha256": "495fce70468107d49702e12efa6e6d96c9574ca409723c629e1fe482faf91bca"
+      },
+      "derivation": "Administrative frontmatter and current acceptance/provenance wrapper only. Every byte after the original closing YAML delimiter is preserved as the final suffix.",
+      "core_bytes": 19480,
+      "core_sha256": "2d1c651d45615eb4279801e4bc615a0fc9afb9b38257a707b099b9ec204f3c08",
+      "original_core_byte_offset": 1061,
+      "render_core_byte_offset": 2469,
+      "root_acceptance_public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      },
+      "original_full_text_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      }
+    }
+  ],
+  "no_self_or_future_commit_hash": true
+}

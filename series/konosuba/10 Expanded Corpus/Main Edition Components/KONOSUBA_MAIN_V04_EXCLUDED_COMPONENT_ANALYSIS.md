@@ -8,6 +8,10 @@ supersedes: []
 superseded_by: []
 ---
 
+**C51 current source qualification:** [the art/reference evidence index](../../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md) governs the later source and identity audit. Earlier dated pending notes and original annotations below retain their historical boundary. No old H/L labels, forecasts or scores are replaced.
+[C51-ARTM04-Q01–Q05](KONOSUBA_MAIN_V04_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json) qualify the historical color notes. The printed depth is **1000 floors** within Megumin supposition, superseding only the100-floor numerical part of M04EX-Q16. The actual frame, nested wishes, explicit refusal and unfinished alternative remain separate; no conversion, performed Explosion or completed body act is added. The masked ニヤッ inset is Vanir; the initial unballooned line is contextually, not explicitly, attributed.
+
+
 # Main 04 excluded components — component dispositions
 
 All24newresources144P/31images actually received;9acceptedprincipal members3135P retainedexact/newprincipalcredit0. One67Pbonus,26Pcreatorafterword and51otherwrapper/credit/navigation slots; one embedded welcome composition and one two-page imagined sequence identified. Staged frontmatter/profile/promotion separate. These slot counts are not a narrative denominator.

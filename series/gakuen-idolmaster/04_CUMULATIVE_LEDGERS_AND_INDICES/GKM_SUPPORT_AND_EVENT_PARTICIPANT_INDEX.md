@@ -2,9 +2,10 @@
 title: "Gakuen Idolmaster V2 - Support and Event Participant Index"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.0"
+version: "2.1"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
+last_updated: "2026-11-15 — source-to-analysis audit corrections"
 status: "seeded; cumulative"
 ---
 
@@ -369,3 +370,77 @@ Participant names are scene-presence indexes; references/incidental figures are 
 Participant names are scene-presence indexes; references/incidental figures are labeled in the participants field.
 
 **Phase-5 support participant/source coverage is COMPLETE: 498/498 scripts / 9,777/9,777 messages.**
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+| source_story_id | source_family | speakers / principal participants | mentioned characters | relationship pairs_or_groups | continuity_class | themes | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| E027 | numbered event | Temari, Misuzu, Sena, studio staff | Saki as pace comparison, Sena's childhood friend | trio, Temari–Misuzu | C1 local / C2 globally | advertising, sponsorship, childhood and professional practice | 5 objects and 278 messages. See GKM-R86-05. |
+| E028 | numbered event | Rinami, Tsubame, Sena, Mao, first-year students, President Juo, families and visitors | owl, Shuka, former unit leader | senior cohort, incoming council | C1 local with exam and H.I.F. anchors | selection, work, succession, vocational risk | 5 objects and 329 messages. See GKM-R86-05. |
+| E030 | numbered event | Lilja, Saki, Ume, Sena, Sumika and staff | Sumika in later discussion, unidentified imagined addressee resolved as Saki's remembered role | Lilja–Hanamis, sibling rivalry | C1 local / C2 globally | creative direction, cooperation and performance adaptation | 5 objects and 342 messages. See GKM-R86-06. |
+
+The 16 newly read support families, including direct speakers, reported figures and internal ordering, are indexed by family in the [revision 86 support reading](../03_SOURCE_FACING_READINGS/03_SUPPORT_CARD_READINGS/GKM_SUPPORT_REVISION_86_DEEP_READING.md#source-family-readings). Its 42 A1 objects and 841 messages supplement the 498-object Phase 5 register. For per-part paths and checksums use the [source delta](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv).
+
+## Source Lock 1.2 — transcript refresh, 2026-11-15
+
+| source_story_id | source family | speakers or principal participants | mentioned characters | relationship | continuity | themes | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1-0013 | support | Kuramoto China, Hiwatari Kanae | — | China ↔ Kanae | C4 | parallel runs and preparation for school | 2 files / 40 messages. `_01` L29–143, `_02` L69–161. GKM-R88-05 |
+| 2-0084 | support | Kuramoto China, Hiwatari Kanae | — | China ↔ Kanae | C4 | gratitude, fallible service, understanding fans | 2 files / 40 messages. `_01` L8–46 and L188–216, `_02` L73–144. GKM-R88-05 |
+| 3-0115 | support | Kuramoto China, Hiwatari Kanae, Hataya Misuzu in part 03 | Hiro is a stated example in part 01 | China ↔ Kanae; both ↔ Misuzu | C4 | supplies, eating, being served and knowing what to choose | 3 files / 59 messages. `_01` L7–21 and L100–128, `_02` L74–172, `_03` L15–47. GKM-R88-05 |
+| hkne P1 school | Produce event | Kanae, Producer, Asari, homeroom / Japanese / English teachers | China, Kuramoto and Juo families in scoped scenes | Kanae ↔ Producer ↔ Asari | C2 module / C3 outcomes | transfer, trust, professional knowledge, dual production | 11 files / 233 messages. `001–011` and exact A1 in GKM-R88-03. |
+| hkne P1 activity | Produce event | Kanae and Producer; optional remembered or passing figures as scripted | recurrent China references, separately named peers in individual branches | Kanae ↔ Producer, frequently mediated by China | C2 module / C3 choices and conditions | leisure, long habits of work, access and anticipation | 22 files / 497 messages including split 017/018. GKM-R88-03. |
+
+## Source-to-analysis audit corrections — 2026-11-15
+
+These rows apply the schema's `mentioned_characters` field to support rows where an absent figure carries the scene (GKM-SAA-276), and mirror corrected event and support readings. A row that names an earlier row governs it; earlier rows stay as issued. Locators resolve in the [locator ledger](GKM_PRIMARY_SOURCE_LOCATOR_LEDGER.md#source-to-analysis-audit-corrections--2026-11-15).
+
+### Mentioned or referenced figures, named or unnamed (Source Lock 1.0 support)
+
+| key | mentioned/referenced figure | named? | status | locator | notes |
+| --- | --- | --- | --- | --- | --- |
+| S3-0011 | Misuzu's important estranged friend in class 1-1 (probably Temari) and in class 1-3 (probably Kaya Rinha) | unnamed | inference; the Rinha identification carries the HSCA-119 dissent | `LOC-SAA-276A` | GKM-SAA-158, GKM-SAA-276 (S03a §13) |
+| S3-0033 | Misuzu's remaining person to reconcile with (possibly Rinha) | unnamed | OPEN | `LOC-SAA-276B` | GKM-SAA-158, GKM-SAA-276 |
+| S3-0041 | Saki (Ume wishes she could show her the illumination); `あの子` (Misuzu, probably Temari); Kotone (Sena thinks of sending her a photo) | Saki and Kotone named; `あの子` unnamed | Saki and Kotone remote addressees; `あの子` inference | `LOC-SAA-276C` | GKM-SAA-159 (DOWNGRADE in S03b §17), GKM-SAA-276 |
+| S3-0069 | the friend with whom Misuzu shares festival food, not promised this year | unnamed | referent unassigned | `LOC-SAA-276D` | GKM-SAA-276 |
+| S2-0042 | Kotone: her only voiced lines (part 01 L89, L95) belong to Sena's imagined chocolate-Kotone scene | named | imagined, not scene presence; revises her listing as a participant in the S2-0042 row | `LOC-SAA-276E` | HSCA-147, folded into GKM-SAA-276 |
+
+### Row corrections and annotations
+
+| row | earlier entry | correction | locator | audit ID |
+| --- | --- | --- | --- | --- |
+| Event 002 | "unnamed friend likely Temari but inference-labeled" | Temari: strongly supported by cross-event evidence (E005, E008, E010, E014, E023); unnamed in E002 | `adv_event_002_main-05.txt` L85–L101 | GKM-SAA-106 |
+| Event 029 | "branch-gated novelty" | continuity-gated: no player-choice divergence (E029-01 choice groups are empty) | `adv_event_029_main-01.txt` L97–L110 | GKM-SAA-273 |
+| S3-0045 | participants listed without a cohort label | a Class 1-2 ensemble (Ume, China, Hiro, Misuzu) with Rinami, not a second-year group | `adv_csprt-3-0045_02.txt` L52, L115 | GKM-SAA-160 |
+| S3-0038 | "vice president" | the unvoiced vice president is identifiable as Tsubame (inference) | `adv_csprt-3-0038_01.txt` L63; `adv_csprt-3-0046_01.txt` L19, L41 | HSCA-109 |
+| S2-0033; S3-0036 | participants listed without role | Sumika photographs or films ahead of the subject's consent (Mao; Temari), with later acceptance (delta, V4) | `adv_csprt-2-0033_01.txt` L93–L129; `adv_csprt-3-0036_01.txt` L132–L139; `adv_csprt-3-0036_03.txt` L91–L150 | GKM-SAA-108 |
+
+### Revision-86 support families routed to the cores (Source Lock 1.1)
+
+The [revision 86 support reading](../03_SOURCE_FACING_READINGS/03_SUPPORT_CARD_READINGS/GKM_SUPPORT_REVISION_86_DEEP_READING.md#source-family-readings) remains the participant index for these families; its rows for 2-0082 and 3-0112 include Saki. These rows record the routing completed on this date (GKM-SAA-108, owner decision 1 as amended).
+
+| source_story_id | speakers or principal participants | mentioned characters | routed to | locator |
+| --- | --- | --- | --- | --- |
+| 2-0055, 2-0057 | Misuzu and partners as indexed in the R86 reading | — | CORE-Misuzu (MISUZU-R86-C01, C02); CORE-Sena (2-0057) | `adv_csprt-2-0055_01.txt` L93–L121; `adv_csprt-2-0057_02.txt` L115–L158 |
+| 2-0078 | Mao, Temari | Rinha invoked, no utterance | CORE-Temari §9.4 (TMR-R86-C05) | `adv_csprt-2-0078_01.txt` L155 |
+| 2-0082 | Saki (as indexed in the R86 reading) | — | CORE-Saki §9.3 | `adv_csprt-2-0082_01.txt` L55 |
+| 3-0106 | Rinami, Temari | unnamed `仲間` in Temari's self-account | CORE-Temari §3.4.3 (TMR-R86-C03) | `LOC-SAA-275A` |
+| 3-0111 | Saki, Lilja, Sumika | — | CORE-Sumika (craft collaborator in makeup and photography; Lilja's public use prospective) | `adv_csprt-3-0111_02.txt` L72–L148; `_03` L116–L166 |
+| 3-0112 | Saki, Temari | Misuzu, Kotone | CORE-Temari §12.1, §5.1 (TMR-R86-C04); CORE-Saki §3.4.6 | `LOC-SAA-108T2` |
+| 3-0113 | Kotone, Sena | — | CORE-Kotone §2.4; CORE-Sena | `LOC-SAA-108K` |
+| 3-0114 | Misuzu (report) | Temari, absent | CORE-Temari §7.2 (TMR-R86-C06) | `adv_csprt-3-0114_03.txt` L35–L48 |
+| 3-0122 | China, Kanae | Kuramoto household | CORE-China §19 | `adv_csprt-3-0122_01.txt`–`_03.txt` |
+
+### Host-track Dear appearances of Temari
+
+| source_story_id | source family | appearance | continuity | locator |
+| --- | --- | --- | --- | --- |
+| D-MISUZU 017, 028, 033 | Dear (host track) | Temari participates in Misuzu's route, including temporary production | C1 @ D-MISUZU | `adv_dear_hmsz_028.txt` L39–L110 |
+| D-CHINA 031 | Dear (host track) | Temari participates | C1 @ D-CHINA | `adv_dear_kcna_031.txt` L505–L616 |
+| D-MAO 030 | Dear (host track) | Temari participates | C1 @ D-MAO | `adv_dear_amao_030.txt` |
+| D-SUMIKA 025 | Dear (host track) | Temari participates | C1 @ D-SUMIKA | `adv_dear_ssmk_025.txt` L416–L432 |
+| D-TSUBAME 033 (SL1.1) | Dear (host track) | Temari and Misuzu have skipped the winter H.I.F. for the dissolution live (delta, verifier fix V1) | C1 @ D-TSUBAME | `adv_dear_atbm_033.txt` L66–L196 |
+| D-SENA 034 (SL1.1) | Dear (host track) | Temari regrets missing the H.I.F. (delta, verifier fix V1) | C1 @ D-SENA | `adv_dear_jsna_034.txt` L79–L493 (L457) |
+
+These rows record host-track states only (GKM-SAA-048); they do not merge tracks.

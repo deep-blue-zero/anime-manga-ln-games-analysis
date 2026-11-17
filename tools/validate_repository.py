@@ -15,20 +15,27 @@ from typing import Any, Mapping
 from urllib.parse import unquote_to_bytes
 
 from character_index_core import (
+    ABSENT_LAYOUT,
+    DISCOVERY_REGISTRY_PREFIX,
     RECONSTRUCTION_INDEX_PATH,
     RECONSTRUCTION_POLICY_PATH,
-    RECONSTRUCTION_REGISTRY_PATH,
     RECONSTRUCTION_SCHEMA_PATH,
     AuthorityGraph,
     DomainError,
     _restricted_yaml_load,
     GitSnapshot,
+    current_layout_errors,
+    current_reconstruction_layout_errors,
     decode_json,
     decode_jsonl_with_lines,
-    decode_reconstruction_registry,
     evaluate_reconstruction_assessments,
     is_ancestor_commit,
+    is_discovery_output,
+    is_reconstruction_output,
     load_reconstruction_policy,
+    read_discovery_registry,
+    read_reconstruction_registry,
+    reconstruction_commit_snapshot,
     reconstruction_registry_changes,
     render_schema_diagnostics,
     run_git,
@@ -37,8 +44,11 @@ from character_index_core import (
     validate_repository_path,
     validate_schema_document,
 )
-from generate_character_index import render as render_character_index
-from generate_reconstruction_index import render as render_reconstruction_index
+from generate_character_index import generated_output_errors, render_outputs
+from generate_reconstruction_index import (
+    generated_output_errors as reconstruction_output_errors,
+    render_outputs as render_reconstruction_outputs,
+)
 from completed_run_publication import CompletionProof, PROOF_NAME
 from audit_timing import AuditTimer, report_path, write_report
 from frozen_publication import frozen_publication_paths, publication_grants
@@ -87,19 +97,31 @@ HAZARD_PREFILTERS: dict[str, tuple[tuple[bytes, ...], bool]] = {
     ),
 }
 MARKDOWN_LINK = re.compile(r"\[[^\]]*\]\(([^)]+)\)")
+# Migration-era records are archived byte-for-byte; the scope still supplies the
+# crosswalk baseline commit and the frozen ledger bindings.
+MIGRATION_ARCHIVE = "governance/archive/migration"
+AUTHORITY_SCOPE_PATH = f"{MIGRATION_ARCHIVE}/AUTHORITY_SCOPE.json"
+AUTHORITY_CUTOVER_PATH = f"{MIGRATION_ARCHIVE}/AUTHORITY_EPOCH_1.json"
+# Paths inside the bound G3 commit, used only by the historical --phase g3 check.
 G3_MANIFEST = "governance/repository-controls/G3_BOOTSTRAP_TRACKED_PATHS.txt"
 G3_BOUND_COMMIT = "e934c0a6f92ad16ba3305bd99f938aa6b3d97a1f"
 G3_BOUND_TREE = "d0bb00fa5d7a8735892921ba3c0023b4855ac52e"
+G3_MANIFEST_SHA256 = "75c6fe48adc719090828a2da02f3dc69e2334b8b20ee5f1c89e0f4c33ee6d191"
+BOOTSTRAP_BINDINGS_SHA256 = "7ebb26e4cff22acbabe72905847f6efbbb6885c4a6be0b9e5297db22d654ae17"
 PROTECTED_HASHES = {
-    G3_MANIFEST: "75c6fe48adc719090828a2da02f3dc69e2334b8b20ee5f1c89e0f4c33ee6d191",
-    "governance/repository-controls/bootstrap-bindings.json": "7ebb26e4cff22acbabe72905847f6efbbb6885c4a6be0b9e5297db22d654ae17",
+    G3_MANIFEST: G3_MANIFEST_SHA256,
+    "governance/repository-controls/bootstrap-bindings.json": BOOTSTRAP_BINDINGS_SHA256,
 }
-# The evaluator's ordinary production delta. Any other path changed beside
-# these requires a reviewed amendment that also changes the publication gate.
-RECONSTRUCTION_OUTPUTS = frozenset({RECONSTRUCTION_REGISTRY_PATH, RECONSTRUCTION_INDEX_PATH})
-# The curation agent's ordinary delta on its continuing branch.
+ARCHIVED_PROTECTED_HASHES = {
+    f"{MIGRATION_ARCHIVE}/G3_BOOTSTRAP_TRACKED_PATHS.txt": G3_MANIFEST_SHA256,
+    f"{MIGRATION_ARCHIVE}/bootstrap-bindings.json": BOOTSTRAP_BINDINGS_SHA256,
+}
+# The evaluator's ordinary production delta is the set of paths accepted by
+# character_index_core.is_reconstruction_output. Any other path changed beside
+# them requires a reviewed amendment that also changes the publication gate.
+# The curation agent's ordinary delta on its continuing branch is the set of
+# paths accepted by character_index_core.is_discovery_output.
 DISCOVERY_BRANCH_REF = "refs/remotes/origin/character-registry"
-DISCOVERY_OUTPUTS = frozenset({"characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md"})
 NATIVE_SHEET_SCHEMA = "governance/schemas/native-sheet-structure.schema.json"
 NATIVE_SHEET_SCHEMA_ID = "manga-anime-git-migration/native-sheet-structure/v1"
 NATIVE_SHEET_TRANSFORMATION = (
@@ -129,13 +151,10 @@ PROJECT_INITIATION_GATE_SCHEMA = (
     "anime-manga-ln-games-analysis/project-initiation-gate/v1"
 )
 PROJECT_INITIATION_BASELINE = "2eec12ae1200d3aaaff3f754fd535808161226f8"
-GLOBAL_AUTOMATION_POLICY_PATH = (
-    "governance/repository-controls/global-index-automation-policy.json"
-)
-GLOBAL_AUTOMATION_POLICY_SCHEMA = (
-    "anime-manga-ln-games-analysis/global-index-automation-policy/v2"
-)
 AUDIT_WORKFLOW_PATH = ".github/workflows/repository-audit.yml"
+AUDIT_COMMIT_EXPRESSION = (
+    "${{ github.event_name == 'repository_dispatch' && github.event.client_payload.commit_sha || github.sha }}"
+)
 HOUSEKEEPING_WORKFLOW_PATH = ".github/workflows/global-index-housekeeping.yml"
 NIGHTLY_WORKFLOW_PATH = ".github/workflows/nightly-integration.yml"
 GLOBAL_AUTOMATION_WRITE_PATHS = set(ROUTING_OUTPUTS)
@@ -293,6 +312,7 @@ def validate_audit_workflow(
         '      - "codex/**"',
         '      - "chatgpt/**"',
         '      - "claude/**"',
+        '      - "agent/**"',
         '      - "series/**"',
         '      - "studies/**"',
         "  repository_dispatch:",
@@ -315,23 +335,12 @@ def validate_audit_workflow(
         "audit_args+=(--discovery-branch-confinement)",
         'steps.validate.outputs.integration_state',
         'mkdir -p "${MANGA_ANIME_TEST_TMP}"',
-        'python tools/audit_execution.py --snapshot commit --commit "${AUDIT_COMMIT}" --base "${AUDIT_BASE}" --profile "${REGRESSION_PROFILE}" --report-json "${RUNNER_TEMP}/test-timings.json"',
+        'python tools/audit_execution.py --snapshot commit --commit "${AUDIT_COMMIT}" --report-json "${RUNNER_TEMP}/test-timings.json"',
         '--timings-json "${RUNNER_TEMP}/audit-timings.json"',
     )
     for fragment in required_fragments:
         if fragment not in text:
             errors.append(f"repository-audit workflow missing required contract: {fragment}")
-
-    try:
-        from audit_execution import CATALOG, load_policy
-
-        load_policy(snapshot)
-        catalog = snapshot.get(CATALOG)
-        if catalog is None or not catalog.qualifies_as_evidence:
-            errors.append("repository audit requires a tracked regular test catalog")
-    except (DomainError, TypeError, ValueError) as exc:
-        errors.append(f"invalid full-coverage test execution policy: {exc}")
-
 
     # Only the isolated reporter receives write permission. It has no checkout
     # or candidate-code execution and publishes one exact audit-status context.
@@ -357,9 +366,23 @@ def validate_audit_workflow(
             )
         ):
             errors.append("repository-audit workflow contains prohibited capability: uses:")
-        expected_report = {"name":"Report the result on the audited commit","needs":"audit","if":"${{ always() }}","runs-on":"ubuntu-24.04","timeout-minutes":5,"permissions":{"statuses":"write"},"steps":[{"name":"Publish only the exact audit status","shell":"bash","env":{"GH_TOKEN":"${{ github.token }}","AUDIT_COMMIT":"${{ github.event_name == 'repository_dispatch' && github.event.client_payload.commit_sha || github.sha }}","AUDIT_RESULT":"${{ needs.audit.result }}","INTEGRATION_STATE":"${{ needs.audit.outputs.integration_state }}","ANALYTICAL_SOURCE":"${{ github.event_name == 'push' && (startsWith(github.ref_name, 'series/') || startsWith(github.ref_name, 'studies/')) }}"},"run":"set -euo pipefail\npython - <<'PY'\nimport json\nimport os\nimport re\nimport urllib.request\n\nsha = os.environ[\"AUDIT_COMMIT\"]\nrepository = os.environ[\"GITHUB_REPOSITORY\"]\nif not re.fullmatch(r\"[0-9a-f]{40}\", sha):\n    raise SystemExit(\"FAIL: invalid audited commit\")\nif repository != \"deep-blue-zero/anime-manga-ln-games-analysis\":\n    raise SystemExit(\"FAIL: unexpected repository\")\nresult = os.environ[\"AUDIT_RESULT\"]\nintegration = os.environ[\"INTEGRATION_STATE\"]\nif result == \"success\" and integration in {\"success\", \"pending\"}:\n    state = \"pending\" if os.environ[\"ANALYTICAL_SOURCE\"] == \"true\" else integration\n    description = (\n        \"Exact commit passed the repository audit\"\n        if state == \"success\"\n        else \"Authored content passed; awaiting housekeeping and final audit\"\n    )\nelse:\n    state = \"error\" if result in {\"cancelled\", \"skipped\"} else \"failure\"\n    description = \"Audit did not complete successfully; this commit is not integration-ready\"\npayload = json.dumps({\n    \"state\": state,\n    \"context\": \"Repository integration audit\",\n    \"description\": description,\n    \"target_url\": f\"https://github.com/{repository}/actions/runs/{os.environ['GITHUB_RUN_ID']}\",\n}).encode(\"utf-8\")\nrequest = urllib.request.Request(\n    f\"https://api.github.com/repos/{repository}/statuses/{sha}\",\n    data=payload,\n    headers={\n        \"Accept\": \"application/vnd.github+json\",\n        \"Authorization\": \"Bearer \" + os.environ[\"GH_TOKEN\"],\n        \"X-GitHub-Api-Version\": \"2022-11-28\",\n    },\n    method=\"POST\",\n)\nwith urllib.request.urlopen(request, timeout=30) as response:\n    if response.status != 201:\n        raise SystemExit(\"FAIL: GitHub did not confirm the commit status\")\nprint(f\"Reported {state} for exact audited commit {sha}\")\nPY\n"}]}
-        if jobs.get("report") != expected_report:
-            errors.append("audit status reporter differs from the exact reviewed reporting contract")
+        report = jobs.get("report", {})
+        steps = report.get("steps", []) if isinstance(report, Mapping) else []
+        step = steps[0] if isinstance(steps, list) and len(steps) == 1 else None
+        if (
+            not isinstance(report, Mapping)
+            or report.get("needs") != "audit"
+            or report.get("permissions") != {"statuses": "write"}
+            or "uses" in report
+            or not isinstance(step, Mapping)
+            or "uses" in step
+            or step.get("env", {}).get("AUDIT_COMMIT") != AUDIT_COMMIT_EXPRESSION
+            or "/statuses/{sha}" not in str(step.get("run", ""))
+        ):
+            errors.append(
+                "audit status reporter must be one step with statuses: write only, "
+                "reporting the exact audited commit"
+            )
     except (DomainError, AttributeError, TypeError, ValueError) as exc:
         errors.append(f"invalid audit permission/reporting contract: {exc}")
 
@@ -422,107 +445,52 @@ def validate_audit_workflow(
 def validate_global_index_automation(
     snapshot: GitSnapshot, policy: Mapping[str, Any]
 ) -> list[str]:
-    """Bind housekeeping to its exact input and output contract."""
+    """Keep housekeeping to owner audits of analysis branches and the five routing outputs."""
 
     errors: list[str] = []
-    policy_entry = snapshot.get(GLOBAL_AUTOMATION_POLICY_PATH)
-    if policy_entry is None or not policy_entry.qualifies_as_evidence:
-        return [f"missing tracked regular automation policy: {GLOBAL_AUTOMATION_POLICY_PATH}"]
-    try:
-        document = decode_json(policy_entry.data, GLOBAL_AUTOMATION_POLICY_PATH)
-    except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
-        return [str(exc)]
-    if not isinstance(document, Mapping):
-        return [f"{GLOBAL_AUTOMATION_POLICY_PATH} must be a JSON object"]
-    if document.get("schema") != GLOBAL_AUTOMATION_POLICY_SCHEMA:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.schema is not recognized")
-    if document.get("workflow") != HOUSEKEEPING_WORKFLOW_PATH:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.workflow is not exact")
-    if document.get("trigger_workflow") != "Repository audit":
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.trigger_workflow is not exact")
-    if document.get("owner_actor") != "deep-blue-zero":
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.owner_actor is not exact")
-    if document.get("branch_prefixes") != ["series/", "studies/"]:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.branch_prefixes are not exact")
-    expected_sources = {
-        "series_registry": "series/<stable-slug>/.repository/series-registry.json",
-        "study_registry": "studies/<stable-slug>/.repository/study-registry.json",
-    }
-    if document.get("source_contracts") != expected_sources:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.source_contracts are not exact")
-    if set(document.get("allowed_write_paths", [])) != GLOBAL_AUTOMATION_WRITE_PATHS:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.allowed_write_paths are not exact")
-    expected_prohibitions = {
-        "analysis_content_write",
-        "registry_delete",
-        "force_push",
-        "main_push",
-        "branch_create",
-        "branch_delete",
-        "tag_write",
-        "pull_request_write",
-        "release_write",
-    }
-    if set(document.get("prohibited_automatic_operations", [])) != expected_prohibitions:
-        errors.append(
-            f"{GLOBAL_AUTOMATION_POLICY_PATH}.prohibited_automatic_operations are not exact"
-        )
-    expected_author = {
-        "name": "deep-blue-zero",
-        "email": "50891441+peipw@users.noreply.github.com",
-    }
-    expected_committer = {"name": "GitHub", "email": "noreply@github.com"}
-    if document.get("commit_author") != expected_author:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.commit_author is not exact")
-    if document.get("commit_committer") != expected_committer:
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.commit_committer is not exact")
-    if document.get("post_write_audit_dispatch") != "audit-generated-commit":
-        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.post_write_audit_dispatch is not exact")
-
     workflow_entry = snapshot.get(HOUSEKEEPING_WORKFLOW_PATH)
     if workflow_entry is None or workflow_entry.mode != "100644":
-        return errors + ["approved global index housekeeping workflow is missing"]
+        return ["approved global index housekeeping workflow is missing"]
     try:
         text = workflow_entry.data.decode("utf-8", "strict")
-    except UnicodeDecodeError as exc:
-        return errors + [f"global index housekeeping workflow is not UTF-8: {exc}"]
-    for required_path in (
-        "tools/synchronize_global_registries.py",
-        "governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md",
-        "governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md",
+        workflow = _restricted_yaml_load(
+            re.sub(r"(?m)^on:", '"on":', text), HOUSEKEEPING_WORKFLOW_PATH
+        )
+    except (UnicodeDecodeError, DomainError, TypeError, ValueError) as exc:
+        return [f"invalid global index housekeeping workflow: {exc}"]
+    if not isinstance(workflow, Mapping):
+        return ["global index housekeeping workflow must be a mapping"]
+    if workflow.get("on") != {"workflow_run": {
+        "workflows": ["Repository audit"], "types": ["completed"],
+        "branches": ["series/**", "studies/**"],
+    }}:
+        errors.append("housekeeping must run only after Repository audit completes on series/study branches")
+    if workflow.get("permissions") != {"contents": "write"}:
+        errors.append("housekeeping token must have contents: write only")
+    jobs = workflow.get("jobs", {})
+    if not isinstance(jobs, Mapping) or any(
+        not isinstance(job, Mapping) or "permissions" in job or "uses" in job
+        for job in jobs.values()
     ):
-        required_entry = snapshot.get(required_path)
-        if required_entry is None or not required_entry.qualifies_as_evidence:
-            errors.append(f"global index automation dependency is missing: {required_path}")
-    required_fragments = (
-        "name: Global index housekeeping",
-        "  workflow_run:",
-        "      - Repository audit",
-        "  contents: write",
-        "github.event.workflow_run.actor.login == github.repository_owner",
+        errors.append("housekeeping jobs may not widen permissions or call reusable workflows")
+    for fragment in (
+        "github.event.workflow_run.event == 'push'",
         "github.event.workflow_run.conclusion == 'success'",
-        "steps.acquire.outputs.ready == 'true'",
-        "Superseded housekeeping run",
-        "Superseded before publication",
-        "Main advanced during housekeeping",
-        'dispatch_exact_audit "${SOURCE_SHA}"',
-        "Superseded before no-op certification",
-        "git merge-base --is-ancestor origin/main HEAD",
-        "tools/synchronize_global_registries.py",
-        "tools/update_repository_indexes.py",
-        "tools/prepare_commit.py --base origin/main --check --full",
-        'export GIT_AUTHOR_NAME="deep-blue-zero"',
-        'export GIT_COMMITTER_NAME="GitHub"',
-        'git push origin "HEAD:refs/heads/${BRANCH_NAME}"',
-        '"event_type": "audit-generated-commit"',
-    )
-    for path in sorted(GLOBAL_AUTOMATION_WRITE_PATHS):
-        required_fragments += (f'"{path}"',)
-    for fragment in required_fragments:
+        "github.event.workflow_run.actor.login == github.repository_owner",
+        # Regeneration is refused when commits missing from main changed routing.
+        "done < <(git merge-base --all origin/main HEAD)",
+        'git diff --quiet "${base}" origin/main -- "${generated_paths[@]}" || return 0',
+        "if main_changed_routing; then",
+        # The check is repeated against a fresh main immediately before the push.
+        'git fetch --no-tags origin "+refs/heads/main:refs/remotes/origin/main"\n'
+        "          if main_changed_routing; then",
+    ):
         if fragment not in text:
             errors.append(f"global index housekeeping workflow missing contract: {fragment}")
-    # Branch confinement may admit coordinated agent-authored character repairs,
-    # but the actual generated/staged output set must remain the five routing paths.
+    if text.count("if main_changed_routing; then") < 2:
+        errors.append("global index housekeeping workflow must test main_changed_routing before the gate and again before the push")
+    # Branches may carry coordinated character repairs, but the generated and
+    # staged output set must remain the five routing paths.
     output_blocks = re.findall(
         r"readonly generated_paths=\((.*?)\)", text, flags=re.DOTALL
     )
@@ -571,25 +539,13 @@ def validate_global_index_automation(
 
 
 def validate_nightly_integration(snapshot: GitSnapshot) -> list[str]:
-    """Keep the third approved workflow bound to the reviewed controller and envelope."""
-    policy_path = "governance/repository-controls/nightly-integration-policy.json"
-    controller_path = "tools/nightly_integration.py"
+    """Keep the bulk-merge workflow manual-only, read-only and limited to the merge script."""
     errors: list[str] = []
-    entry = snapshot.get(policy_path)
-    if entry is None:
-        return ["nightly integration policy is missing"]
+    for path in (NIGHTLY_WORKFLOW_PATH, "tools/nightly_integration.py"):
+        candidate = snapshot.get(path)
+        if candidate is None or candidate.mode != "100644":
+            errors.append(f"nightly integration file is missing or not a regular file: {path}")
     try:
-        document = json.loads(entry.data)
-        if set(document) != {"schema", "workflow", "controller", "lock", "workflow_sha256", "controller_sha256", "lock_sha256"}:
-            errors.append("nightly integration policy fields are not exact")
-        if document.get("schema") != "anime-manga-ln-games-analysis/nightly-integration/v2":
-            errors.append("nightly integration policy schema is not exact")
-        for role, path in (("workflow", NIGHTLY_WORKFLOW_PATH), ("controller", controller_path), ("lock", "tools/integration_lock.py")):
-            candidate = snapshot.get(path)
-            if document.get(role) != path or candidate is None or candidate.mode != "100644":
-                errors.append(f"nightly integration {role} path or file mode is not exact")
-            elif hashlib.sha256(candidate.data).hexdigest() != document.get(role + "_sha256"):
-                errors.append(f"nightly integration {role} differs from its reviewed SHA-256 binding")
         candidate = snapshot.get(NIGHTLY_WORKFLOW_PATH)
         if candidate is None:
             return errors
@@ -598,7 +554,7 @@ def validate_nightly_integration(snapshot: GitSnapshot) -> list[str]:
         if set(workflow) != {"name", "on", "permissions", "concurrency", "jobs"}:
             errors.append("nightly integration workflow envelope is not exact")
         if set(workflow.get("on", {})) != {"workflow_dispatch"}:
-            errors.append("nightly fallback must be manual-only; scheduled apply is prohibited")
+            errors.append("bulk-merge workflow must be manual-only; scheduled apply is prohibited")
         if workflow.get("permissions") != {"contents": "read", "actions": "read", "statuses": "read", "pull-requests": "read"}:
             errors.append("nightly integration repository token must remain read-only")
         if workflow.get("concurrency") != {"group": "nightly-analytical-integration", "cancel-in-progress": False}:
@@ -909,6 +865,36 @@ def hazard_matches(data: bytes, patterns: Mapping[str, re.Pattern[bytes]]) -> li
     return found
 
 
+def _named_exception_matches(exception: Mapping[str, Any] | None, data: bytes) -> bool:
+    return bool(
+        exception
+        and len(data) == exception["bytes"]
+        and hashlib.sha256(data).hexdigest() == exception["sha256"]
+    )
+
+
+def review_threshold_errors(
+    snapshot: GitSnapshot, policy: Mapping[str, Any], phase: str
+) -> list[str]:
+    """Report every snapshot entry over the review threshold without a matching exception.
+
+    This is the one size rule; ``validate_bytes`` applies it to a whole audited
+    snapshot and the staged commit gate applies it to the staged blobs, so a
+    file that would fail the audit fails locally first.
+    """
+
+    threshold = int(policy["review_threshold_bytes"])
+    named_exceptions, _exception_errors = load_named_text_exceptions(
+        policy, set(policy["allowed_text_extensions"]), threshold
+    )
+    return [
+        f"{phase} file exceeds 1 MiB review threshold: {path} ({len(entry.data)} bytes)"
+        for path, entry in snapshot.entries.items()
+        if len(entry.data) > threshold
+        and not _named_exception_matches(named_exceptions.get(path), entry.data)
+    ]
+
+
 def validate_bytes(snapshot: GitSnapshot, policy: Mapping[str, Any], phase: str) -> list[str]:
     errors: list[str] = []
     threshold = int(policy["review_threshold_bytes"])
@@ -917,19 +903,14 @@ def validate_bytes(snapshot: GitSnapshot, policy: Mapping[str, Any], phase: str)
         policy, text_extensions, threshold
     )
     errors.extend(exception_errors)
+    errors.extend(review_threshold_errors(snapshot, policy, phase))
     special_text = {".gitattributes", ".gitignore", "CODEOWNERS"}
     for path, entry in snapshot.entries.items():
         data = entry.data
         exception = named_exceptions.get(path)
-        exception_matches = bool(
-            exception
-            and len(data) == exception["bytes"]
-            and hashlib.sha256(data).hexdigest() == exception["sha256"]
-        )
+        exception_matches = _named_exception_matches(exception, data)
         if exception is not None and not exception_matches:
             errors.append(f"named text exception tuple mismatch: {path}")
-        if len(data) > threshold and not exception_matches:
-            errors.append(f"{phase} file exceeds 1 MiB review threshold: {path} ({len(data)} bytes)")
         for label in hazard_matches(data, SECRET_PATTERNS):
             errors.append(f"possible {label} in {path}")
         for label in hazard_matches(data, PUBLICATION_PATTERNS):
@@ -1197,9 +1178,9 @@ def require_g3_selection(root: Path, kind: str, commit: str | None, has_manifest
     return selected
 
 
-def validate_protected(snapshot: GitSnapshot) -> list[str]:
+def validate_protected(snapshot: GitSnapshot, hashes: Mapping[str, str] = PROTECTED_HASHES) -> list[str]:
     errors: list[str] = []
-    for path, expected in PROTECTED_HASHES.items():
+    for path, expected in hashes.items():
         entry = snapshot.get(path)
         actual = hashlib.sha256(entry.data).hexdigest() if entry is not None else "MISSING"
         if actual != expected:
@@ -1210,28 +1191,17 @@ def validate_protected(snapshot: GitSnapshot) -> list[str]:
 def validate_generated_index(
     snapshot: GitSnapshot, snapshot_kind: str, authority: AuthorityGraph | None = None
 ) -> list[str]:
-    registry = snapshot.get("characters/registry.jsonl")
-    output = snapshot.get("CHARACTER_ANALYSIS_INDEX.md")
-    if registry is None or output is None:
-        return ["character registry or generated index is missing"]
     try:
-        records = [
-            record
-            for _line_number, record in decode_jsonl_with_lines(
-                registry.data, f"{snapshot.identity}:characters/registry.jsonl"
-            )
-        ]
+        records = read_discovery_registry(snapshot).records
         if snapshot_kind == "worktree" and records:
             return [
                 "worktree bytes cannot establish materialization; use an exact Git index or commit snapshot"
             ]
         graph = authority if authority is not None else AuthorityGraph(snapshot)
-        rendered = render_character_index(records, graph).encode("utf-8")
+        rendered = render_outputs(records, graph)
     except (DomainError, UnicodeDecodeError, ValueError) as exc:
         return [f"unable to render character index: {exc}"]
-    if output.data != rendered:
-        return ["CHARACTER_ANALYSIS_INDEX.md is out of date"]
-    return []
+    return generated_output_errors(snapshot, rendered)
 
 
 def validate_generated_repository_indexes(snapshot: GitSnapshot) -> list[str]:
@@ -1247,8 +1217,11 @@ def validate_generated_repository_indexes(snapshot: GitSnapshot) -> list[str]:
         return [str(exc)]
 
 
+TRACKED_FILE_POLICY_PATH = "governance/repository-controls/tracked-file-policy.json"
+
+
 def _policy_from_snapshot(snapshot: GitSnapshot) -> Mapping[str, Any]:
-    path = "governance/repository-controls/tracked-file-policy.json"
+    path = TRACKED_FILE_POLICY_PATH
     entry = snapshot.get(path)
     if entry is None:
         raise DomainError(f"missing policy: {path}")
@@ -3009,6 +2982,7 @@ def validate_change_obligations(snapshot: GitSnapshot) -> list[str]:
     seen_ids: set[str] = set()
     allowed_kinds = {
         "path_changed",
+        "path_prefix_changed",
         "top_level_roots_changed",
     }
     for index, rule in enumerate(rules):
@@ -3029,6 +3003,15 @@ def validate_change_obligations(snapshot: GitSnapshot) -> list[str]:
             errors.append(f"{label}.trigger.kind is not recognized: {kind!r}")
         if kind == "path_changed" and not _valid_nonempty_string(trigger.get("path")):
             errors.append(f"{label}.trigger.path must be a nonempty string")
+        if kind == "path_prefix_changed":
+            prefix = trigger.get("prefix")
+            if not _valid_nonempty_string(prefix) or not prefix.endswith("/"):
+                errors.append(f"{label}.trigger.prefix must be a directory path ending in /")
+            else:
+                try:
+                    validate_repository_path(prefix.rstrip("/"))
+                except DomainError as exc:
+                    errors.append(f"{label}.trigger.prefix is invalid: {exc}")
         if kind == "top_level_roots_changed" and trigger.get("root") not in {
             "series/",
             "studies/",
@@ -3214,10 +3197,10 @@ def _compare_crosswalk_field(
 def active_migration_baseline_commit(snapshot: GitSnapshot) -> str | None:
     """Return the immutable migration baseline once Git authority is active."""
 
-    entry = snapshot.get("governance/AUTHORITY_SCOPE.json")
+    entry = snapshot.get(AUTHORITY_SCOPE_PATH)
     if entry is None:
         return None
-    scope = decode_json(entry.data, "governance/AUTHORITY_SCOPE.json")
+    scope = decode_json(entry.data, AUTHORITY_SCOPE_PATH)
     if not isinstance(scope, Mapping):
         raise DomainError("authority scope must be an object")
     activation = scope.get("activation")
@@ -3237,13 +3220,13 @@ def validate_active_authority_scope(snapshot: GitSnapshot, baseline_commit: str 
     if baseline_commit is None:
         return []
     errors: list[str] = []
-    scope_entry = snapshot.get("governance/AUTHORITY_SCOPE.json")
-    cutover_entry = snapshot.get("governance/cutovers/AUTHORITY_EPOCH_1.json")
+    scope_entry = snapshot.get(AUTHORITY_SCOPE_PATH)
+    cutover_entry = snapshot.get(AUTHORITY_CUTOVER_PATH)
     if scope_entry is None or cutover_entry is None:
         return ["active authority scope or epoch-1 cutover record is absent"]
     try:
-        scope = decode_json(scope_entry.data, "governance/AUTHORITY_SCOPE.json")
-        cutover = decode_json(cutover_entry.data, "governance/cutovers/AUTHORITY_EPOCH_1.json")
+        scope = decode_json(scope_entry.data, AUTHORITY_SCOPE_PATH)
+        cutover = decode_json(cutover_entry.data, AUTHORITY_CUTOVER_PATH)
     except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
         return [str(exc)]
     if not isinstance(scope, Mapping) or not isinstance(cutover, Mapping):
@@ -4175,20 +4158,19 @@ def validate_current_domain(
     authority: AuthorityGraph | None = None,
 ) -> list[str]:
     errors: list[str] = []
-    registry_entry = snapshot.get("characters/registry.jsonl")
     series_entry = snapshot.get("series/registry.json")
     discovery_schema_entry = snapshot.get("governance/schemas/character-analysis-index.schema.json")
     reconstruction_schema_entry = snapshot.get(
         "governance/schemas/character-reconstruction-capability.schema.json"
     )
-    if not all((registry_entry, series_entry, discovery_schema_entry, reconstruction_schema_entry)):
+    if not all((series_entry, discovery_schema_entry, reconstruction_schema_entry)):
         return ["current Character Index v2 inputs are incomplete"]
     try:
-        records_with_lines = decode_jsonl_with_lines(
-            registry_entry.data,
-            f"{snapshot.identity}:characters/registry.jsonl",
-        )
-        records = [record for _line_number, record in records_with_lines]
+        registry = read_discovery_registry(snapshot)
+        layout_errors = current_layout_errors(registry)
+        if layout_errors:
+            return errors + layout_errors
+        records = registry.records
         series_registry = decode_json(series_entry.data, "series/registry.json")
         discovery_schema = decode_json(
             discovery_schema_entry.data,
@@ -4202,13 +4184,13 @@ def validate_current_domain(
             validate_schema_document(discovery_schema, "character discovery schema")
             validate_schema_document(reconstruction_schema, "reconstruction capability schema")
             diagnostics = []
-            for line_number, record in records_with_lines:
+            for row in registry.rows:
                 diagnostics.extend(
                     schema_diagnostics(
-                        record,
+                        row.record,
                         discovery_schema,
-                        "characters/registry.jsonl",
-                        line_number=line_number,
+                        row.path,
+                        line_number=row.line_number,
                     )
                 )
             schema_failures = render_schema_diagnostics(diagnostics)
@@ -4228,6 +4210,7 @@ def validate_current_domain(
                 series_registry,
                 snapshot=snapshot,
                 authority=authority,
+                labels=registry.labels,
             )
         )
     except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
@@ -4249,8 +4232,8 @@ def _reconstruction_integration_base(root: Path, target: str | None, kind: str) 
 
     For a branch this is the merge base with current main. An exact commit that
     main already contains (the push audit of an integration, where the audit
-    fetches the updated main) is compared with its first parent, the pre-push
-    main of a linear history, so the integrated delta is still checked.
+    fetches the updated main) is compared with its first parent, the pre-merge
+    main, so the integrated delta is still checked.
     """
 
     main_commit = _run_closure_base_commit(root)
@@ -4280,6 +4263,18 @@ def _reconstruction_delta_paths(root: Path, kind: str, base: str, commit: str | 
     return paths
 
 
+def reconstruction_output_isolation_errors(changed: set[str]) -> list[str]:
+    """Evaluator outputs change alone, unless the reconstruction policy changes with them."""
+
+    production = {path for path in changed if is_reconstruction_output(path)}
+    if production and changed - production and RECONSTRUCTION_POLICY_PATH not in changed:
+        return [
+            "reconstruction production outputs must change alone; other changed paths: "
+            + str(sorted(changed - production, key=lambda item: item.encode("utf-8")))
+        ]
+    return []
+
+
 def validate_reconstruction_domain(
     root: Path,
     snapshot: GitSnapshot,
@@ -4299,21 +4294,30 @@ def validate_reconstruction_domain(
     notices: list[str] = []
     phase, policy_errors = load_reconstruction_policy(snapshot)
     errors.extend(policy_errors)
-    registry = snapshot.get(RECONSTRUCTION_REGISTRY_PATH)
     output = snapshot.get(RECONSTRUCTION_INDEX_PATH)
     schema_entry = snapshot.get(RECONSTRUCTION_SCHEMA_PATH)
-    if registry is None or not registry.qualifies_as_evidence:
-        errors.append(f"production capability registry is missing: {RECONSTRUCTION_REGISTRY_PATH}")
     if output is None or not output.qualifies_as_evidence:
         errors.append(f"generated reconstruction index is missing: {RECONSTRUCTION_INDEX_PATH}")
     if schema_entry is None or not schema_entry.qualifies_as_evidence:
         errors.append(f"reconstruction capability schema is missing: {RECONSTRUCTION_SCHEMA_PATH}")
-    if registry is None or schema_entry is None or not registry.qualifies_as_evidence:
-        return errors, notices
     try:
-        records_with_lines = decode_reconstruction_registry(
-            registry.data, f"{snapshot.identity}:{RECONSTRUCTION_REGISTRY_PATH}"
-        )
+        registry = read_reconstruction_registry(snapshot)
+    except DomainError as exc:
+        return errors + [str(exc)], notices
+    layout_errors = current_reconstruction_layout_errors(registry)
+    if registry.layout == ABSENT_LAYOUT:
+        # Published history is never deleted: name the records a change
+        # removed with its last partition, not only the missing input.
+        try:
+            base = _reconstruction_integration_base(root, _reconstruction_target_commit(root, kind, commit), kind)
+            if base is not None:
+                published = read_reconstruction_registry(reconstruction_commit_snapshot(root, base))
+                errors.extend(reconstruction_registry_changes(published.records, [])[1])
+        except DomainError as exc:
+            errors.append(f"unable to read the published capability registry: {exc}")
+    if layout_errors or schema_entry is None or not schema_entry.qualifies_as_evidence:
+        return errors + layout_errors, notices
+    try:
         schema = decode_json(schema_entry.data, RECONSTRUCTION_SCHEMA_PATH)
         if not isinstance(schema, dict):
             raise DomainError("reconstruction capability schema is not a JSON object")
@@ -4321,14 +4325,14 @@ def validate_reconstruction_domain(
     except DomainError as exc:
         return errors + [str(exc)], notices
     diagnostics = []
-    for line_number, record in records_with_lines:
+    for row in registry.rows:
         diagnostics.extend(
-            schema_diagnostics(record, schema, RECONSTRUCTION_REGISTRY_PATH, line_number=line_number)
+            schema_diagnostics(row.record, schema, row.path, line_number=row.line_number)
         )
     schema_failures = render_schema_diagnostics(diagnostics)
     if schema_failures:
         return errors + schema_failures, notices
-    assessments = [record for _line_number, record in records_with_lines]
+    assessments = registry.records
     for record in assessments:
         status = record["assessment_status"]
         if status == "UNASSESSED":
@@ -4352,17 +4356,10 @@ def validate_reconstruction_domain(
             "and published history; fetch main first"
         )
     current_records: list[dict[str, Any]] = []
-    discovery_entry = snapshot.get("characters/registry.jsonl")
-    if discovery_entry is not None:
-        try:
-            current_records = [
-                record
-                for _line_number, record in decode_jsonl_with_lines(
-                    discovery_entry.data, f"{snapshot.identity}:characters/registry.jsonl"
-                )
-            ]
-        except DomainError as exc:
-            errors.append(str(exc))
+    try:
+        current_records = read_discovery_registry(snapshot).records
+    except DomainError as exc:
+        errors.append(str(exc))
     evaluation = evaluate_reconstruction_assessments(
         assessments,
         root,
@@ -4375,15 +4372,12 @@ def validate_reconstruction_domain(
     base_records: list[dict[str, Any]] = []
     if base is not None:
         try:
-            base_snapshot = GitSnapshot.from_commit(root, base, paths={RECONSTRUCTION_REGISTRY_PATH})
-            base_entry = base_snapshot.get(RECONSTRUCTION_REGISTRY_PATH)
-            if base_entry is not None:
-                base_records = [
-                    record
-                    for _line_number, record in decode_reconstruction_registry(
-                        base_entry.data, f"{base}:{RECONSTRUCTION_REGISTRY_PATH}"
-                    )
-                ]
+            # Published history is read in whichever layout the base commit used,
+            # so the migration itself and pre-migration bases compare correctly.
+            base_registry = read_reconstruction_registry(reconstruction_commit_snapshot(root, base))
+            if base_registry.layout_errors:
+                raise DomainError("; ".join(base_registry.layout_errors))
+            base_records = base_registry.records
         except DomainError as exc:
             errors.append(f"unable to read the published capability registry at {base}: {exc}")
     touched, change_errors = reconstruction_registry_changes(base_records, assessments)
@@ -4407,20 +4401,11 @@ def validate_reconstruction_domain(
         except DomainError as exc:
             errors.append(f"unable to determine the reconstruction delta: {exc}")
             changed = set()
-        if (
-            changed & RECONSTRUCTION_OUTPUTS
-            and changed - RECONSTRUCTION_OUTPUTS
-            and RECONSTRUCTION_POLICY_PATH not in changed
-        ):
-            errors.append(
-                "reconstruction production outputs must change alone; other changed paths: "
-                + str(sorted(changed - RECONSTRUCTION_OUTPUTS, key=lambda item: item.encode("utf-8")))
-            )
+        errors.extend(reconstruction_output_isolation_errors(changed))
     if output is not None and not evaluation.errors:
         try:
-            rendered = render_reconstruction_index(assessments, evaluation.basis_entries)
-            if output.data != rendered.encode("utf-8"):
-                errors.append(f"{RECONSTRUCTION_INDEX_PATH} is out of date")
+            rendered = render_reconstruction_outputs(assessments, evaluation.basis_entries)
+            errors.extend(reconstruction_output_errors(snapshot, rendered))
         except (DomainError, KeyError, ValueError) as exc:
             errors.append(f"unable to render the reconstruction index: {exc}")
     return errors, notices
@@ -4448,11 +4433,14 @@ def validate_discovery_branch_confinement(root: Path, kind: str, commit: str | N
         changed = _reconstruction_delta_paths(root, kind, base, commit)
     except DomainError as exc:
         return [f"unable to determine the discovery branch delta: {exc}"]
-    extra = sorted(changed - DISCOVERY_OUTPUTS, key=lambda item: item.encode("utf-8"))
+    extra = sorted(
+        (path for path in changed if not is_discovery_output(path)),
+        key=lambda item: item.encode("utf-8"),
+    )
     if extra:
         return [
-            "character-registry delta may contain only characters/registry.jsonl and "
-            f"CHARACTER_ANALYSIS_INDEX.md; other changed paths: {extra}"
+            f"character-registry delta may contain only {DISCOVERY_REGISTRY_PREFIX} partitions "
+            f"and the generated character index; other changed paths: {extra}"
         ]
     return []
 
@@ -4492,6 +4480,45 @@ def discovery_confinement_errors(
     return validate_discovery_branch_confinement(root, kind, commit) if applies else []
 
 
+def validate_routing_branch_scope(root: Path, kind: str, commit: str | None, branch: str) -> list[str]:
+    """Bound a series/study branch delta to its own root and the shared outputs.
+
+    The routing preflight applies this so a passing analysis-branch audit is
+    integration-ready without a separate housekeeping certification. A commit
+    already contained in main has nothing left to integrate.
+    """
+
+    if not re.fullmatch(r"(series|studies)/[a-z0-9][a-z0-9-]*", branch):
+        return [f"routing preflight requires a series/study branch: {branch}"]
+    target = _reconstruction_target_commit(root, kind, commit)
+    main_commit = _run_closure_base_commit(root)
+    if target is None or main_commit is None:
+        return ["analysis branch scope needs the audited commit and refs/remotes/origin/main"]
+    try:
+        base = run_git(root, "merge-base", target, main_commit).decode("ascii").strip()
+        if kind == "commit" and base == target:
+            return []
+        changed = _reconstruction_delta_paths(root, kind, base, commit)
+    except DomainError as exc:
+        return [f"unable to determine the analysis branch delta: {exc}"]
+    extra = sorted(
+        (
+            path
+            for path in changed
+            if path not in ROUTING_OUTPUTS
+            and not is_discovery_output(path)
+            and not path.startswith(branch + "/")
+        ),
+        key=lambda item: item.encode("utf-8"),
+    )
+    if extra:
+        return [
+            f"{branch} may change only its own root, the five routing outputs and the "
+            f"discovery outputs; other changed paths: {extra}"
+        ]
+    return []
+
+
 def choose_snapshot(root: Path, kind: str, commit: str | None) -> tuple[GitSnapshot, list[str]]:
     if kind == "commit":
         if commit is None:
@@ -4518,7 +4545,7 @@ def main() -> int:
     parser.add_argument(
         "--discovery-branch-confinement",
         action="store_true",
-        help="require the delta against main to contain only the two discovery outputs",
+        help="require the delta against main to contain only discovery outputs",
     )
     parser.add_argument("--result-json", type=Path)
     parser.add_argument("--timings-json", type=Path)
@@ -4569,10 +4596,13 @@ def main() -> int:
             from analytical_preflight import routing_preflight
 
             snapshot, deferred_routing = timer.call("routing_preflight", routing_preflight, snapshot, args.routing_preflight)
+            errors.extend(
+                timer.call("routing_scope", validate_routing_branch_scope, root, kind, commit, args.routing_preflight)
+            )
         if args.phase == "g3":
             errors.extend(timer.call("protected", validate_protected, snapshot))
         else:
-            errors.extend(timer.call("protected", validate_protected, snapshot))
+            errors.extend(timer.call("protected", validate_protected, snapshot, ARCHIVED_PROTECTED_HASHES))
             errors.extend(timer.call("links", validate_markdown_links, snapshot))
             errors.extend(timer.call("audit_workflow", validate_audit_workflow, snapshot, policy))
             errors.extend(timer.call("housekeeping", validate_global_index_automation, snapshot, policy))

@@ -365,3 +365,217 @@ The [individual index](KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) owns 
 Hyoizaburoo's craft costs and device properties are largely daughter/analogy/editorial reports; Wiz's favorable novel report is not an observed sale or the fanbook's exact skilled wording. Pucchin's principal aspiration is not promotion, exposed plated props do not prove giant-metal strength, Arue kills an immobilized target, admitted delay is not safe timing and a pupil's privacy/care reading is not private access. A real seal problem does not settle every weather/blame account. Heard CreateWater leaves caster unnamed. The CONTEXP01 pudding name hit is excluded as teacher evidence.
 
 The twelve frozen English firsts retain shared card/tea/intervention endpoints, source-colored unscaled grades, possible overtidy restraint, unprovided supper/afternoon/prior-project/physical-audience context, unmeasured timing/latency and PU-H03-A's invented earlier pupil failure. Same-author source-known assessment supplies no independent grade or confidence gain. All original bodies, foundations and inputs stay exact; prior C20 medicine/C21 bandaging errata and original reports/cores remain separately preserved. Fourteen new census slots retain unresolved identity and direct/report distinctions; no retrospective population closure.
+
+
+## Cohort24 — Crimson village work and staff, source-known scope
+
+C24-CR01 qualifies the earlier cohort23 potion-row wording "distinct from clothing shop, diner and teacher": it preserves different role occurrences, not a proved partition of all unnamed people. Earlier frozen C23 artifacts and row-field history remain unchanged; current potion identity/profile explicitly leaves cross-role joins unproved. C24-CR02 expands previously pending outcomes with source-known returns: cafe own forest-information statement, reported school preparation, diner restraint/retaliation/dismissal, farm own work/payment and MAIN05 Chekera sale/clothesline context. Wife/child count, armor-client Darkness join, cash/repayment, owner-spoken firing, trial safety and future rehire remain unproved. Rejected Arcanretia/MAIN14 cafe hits earn no village-proprietor appearance or admission.
+
+Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md). The shared known-source union is 1,149 BASE slots/7 text members/4 text objects, including context, blanks, other actors and rejected joins; no fresh whole-source, ruby, residual, image-set, admission or independent validation credit. Earlier models, scores, firsts and prospective missingness remain unchanged. Canonical receiving is complete for this candidate only; exact containing publication/full program remain pending.
+
+
+## Cohort25 — chief, Sylvia, trial machine and castle courier
+
+C25-CR01 distinguishes current chief from next-chief daughter and separates collective letter authorship from a personal father act. C25-CR02 adds attributed Serena interference as a rival to a factory-original-only machine explanation,without altering earlier observations. C25-CR03 distinguishes reported earlier Sylvia defeat,current composite states,actual absorbed Explosion and separate aim/trigger/energy actors. C25-CR04 notes MAIN14I13P70 later reports a treasured first friend-shopping dagger; it does not retroactively turn the earlier blacksmith scene into a watched payment or change frozen C24 text. C25-CR05 avoids treating先生方 as proof all pursuers teach or different adult roles as a proved people partition. Current-table publication-label corrections use already closed exact gates and change no frozen semantic core. Earlier historical pending labels retain authorship chronology.
+
+Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+C26-CR01 qualifies the old Aigis drinking shorthand as Kazuma statement plus nonconsumption, not a watched failed attempt. C26-CR02 keeps heat cause as Kazuma inference and the failed cooling as actual, without inventing a heating power. C26-CR03 assigns lake freezing/fishing to another actor in Aigis report and keeps the first flower-question attribution tentative; the younger resemblance remark and elder gift remain separate. C26-CR04 distinguishes actual wearing, reported custody/allocation and later Iris preparation, with no inferred attraction, victory or consent process. C26-CR05 records the accepted MAIN17 C3 member identity despite one retained C4 transport filename. C26-CR06 preserves all six hypothetical firsts, notes their unsupported details and blame displacement, and corrects receiving wording from stops waiting to stops while waiting; no body or frozen model is repaired. Earlier blacksmith-shopping memory still does not retroactively prove watched payment.
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+C27-CR01 distinguishes Beldia’s P67 question about Aqua’s apparent beginner status from her concern about nonpurging magic; his P70 investigation explanation is his own claim, not only later report. C27-CR02 separates early projected household conduct, reported peeping and near-death vision from new live encounters. C27-CR03 preserves actual Hans freeze counters, admitted manager consumption and postblackout cleanup report. C27-CR04 qualifies Serena’s corpse display through later puppet admission without erasing the actual failed Aqua cast. C27-CR05 separates cash repayment at P607 from the earlier debt concession, and keeps royal transfer prospective. C27-CR06 preserves distinct officers and the later Dullahan, with no precise new breach command or permanent-purification claim. C27-CR07 preserves all eighteen originals, including unsupported states and audit-language leakage; no first, model or frozen prediction is repaired.
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+CR-C28-AU01: historical row 27 assigned the sexual-financial offer directly to Aulip. MASK U015 P258–263 assigns that speech to the retainer. Aulip's own kick P288, execution threat P289 and later evasion/magic orders remain adverse. Prior row fields are retained in prior_cohort28_current_fields; the historical source paragraph is not silently rewritten. CR-C28-IG01: named father is Dustiness duke Ignis, not a prince; MAIN06 C2 P437 and YORI04 U020 P10–18 secure the family join. CR-C28-IDENTITY: Norris's later apparent instruction is K's imitation; wedding guard/Hagen remain unjoined; Elroad dealer/manager and prosecutor/watchman remain separate. The elderly acquaintance's long-standing friendship/royal status is unestablished. No original forecast or score is repaired.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+CR-C29-SY01 REVISE: earlier row33 compressed cure/picnic/school requests. MAIN13C1P27 reports remedy recovery and school attendance; P28/34–35 supplies her request to thank and actual thanks. No voiced school request is established. CR-C29-ID01 STRENGTHEN: existing Yori rows98/99 gain エイブラム/ピクルス names from YORI01U012; their broader tiers remain pending. CR-C29-ZS01 REVISE: current count/name/title variants, explicit life-sharing limits and observed shop defense qualify earlier shorthand; no uniform title or universal helplessness. CR-C29-BR01 OPEN: Barbera reply and ring acceptance remain unheard. Prior row fields, firsts and scores are preserved.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+CR-C30-CI01 QUALIFY: Cielo's healing is offered at FD-U012 P163 and credited by Megumin P388-390; apology loci P404/P422 do not show a separate cast, patient or dose. CR-C30-LI01 QUALIFY: the mountain interception is fatal and Aqua resurrects Lia; finite keyboard defense is a different later ability. CR-C30-REL01 RETAIN: private history, rejected contact/invitations, friends' refusal overrides and later local assent remain distinct. CR-C30-TR01 QUALIFY: Charlie's bodily precaution and correct glove warnings differ from Daniel's prior cost learning and later ignored warning. Original source records, frozen firsts, scores and earlier model bodies remain exact. Ponta/Konjiro identity, broad troll mechanisms and global population remain open.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+CR-C31-NAME01 QUALIFY:both books printスズキ・チホ/チホ; Chio derivative error. CR-C31-ID02 QUALIFY:ADV speaking toad is Froger former subordinate, not Froger;冬旗本 is not冬将軍;ザムザー andボ・クジョウ spellings control. CR-C31-RANK03 QUALIFY:千本槍=ThousandSpears, notTenSpears; Core lower researcher/joking GM rank coexist; executive embellishment unverified. CR-C31-EVENT04 QUALIFY:dragon animation precedes 21 swallowing; 21 individual bedding unspecified; will reunion visibly coauthored; corpse not original agency. CR-C31-RULE05 QUALIFY:statue is facility data, not Heal/miracle; magicdamage not necessarily magicattack; Cover defense/doubling scoped. Original source readings, models, firsts, scores, blanks and nulls remain unchanged; these are attributable current qualifications, not rewritten history.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+CR-C32-ID01 QUALIFY: MAIN02/MASK work/mansion/barrier event bridge extends 132; DUST Lolisa personal-name join remains open. CR-C32-OWNER02 QUALIFY: leader, small worker, older fan and receptionist distinct/unresolved; pair voices joint and group acts not every individual. CR-C32-KNOW03 QUALIFY: P529 erasure and P434 age private narration; no received full-risk warning or exact age. CR-C32-WIZ04 QUALIFY: P47/P49 class locators, catalyst interrupted before activation, coerced Rosary-body speech Vanir, P347 untagged, loan untransferred, reunion identities unprovided. CR-C32-HOUSE05 QUALIFY: アンダイン bridge supported; acquisition/denial/loss reports retain owners and Aigis exit retains agency; failed first armor removal does not prove no other loot. CR-C32-WORK06 QUALIFY: fee request/wallet not literal separate payment receipt; visitor service not performed before capture. Earlier frozen sources, models, firsts, scores and blanks remain unchanged.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+CR-C33-ID01 QUALIFY: Donnelly head is self-introduced; MASK Karen stays unjoined without a certified disjoint-person split. CR-C33-KNOW02 QUALIFY: P213 interrupted explanation does not establish Karen knew Kazuma death before mockery. CR-C33-COST03 RETAIN: representative apology and actual one-kill payment defeat an absolute no-obligation account; volunteered rescue is not a fabricated unpaid wage. CR-C33-ITEM04 QUALIFY: own profit claim, Megumin's technical identification, Kazuma business inference and shelf-accident conjecture remain separate. CR-C33-AGENCY05 RETAIN: two thefts, stopped third, real fear, no full exposure or legal verdict. CR-C33-NAME06 QUALIFY: アーシェア complete native; novice occupations/untagged reactions bounded; Crane note not consent or heard speech. CR-C33-FIRST07 RETAIN: ownership, information-speaker and fee-role output defects stay uncorrected; no independent reliability gain.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 34 individual receiving — 2026-10-24T12:23:53.695527+00:00
+
+CR-C34-LY01 QUALIFY: credited benefactor obligation, accepted release reassurance and gratitude precede Aqua’s punch; retaliation accompanies leaving. CR-C34-LY02 WITHDRAW: private unfinished-romance wording; gift/rejection testimony establishes no former couple or wish for renewed contact. CR-C34-FTP03 QUALIFY: detector silence is not moral innocence; audience and confrontation are confounded; rooted dependence, failed offers and poisoning limit optimality. CR-C34-ID04 RETAIN: forest, earlier girl and garden individuals remain distinct; remaining roots are not eradication or demonstrated regrowth. CR-C34-REG05 QUALIFY: divine agency/counts remain attributed, coda escape hearsay, later recap not a new event. CR-C34-COUNT06 QUALIFY: prior personal notice, accepted engagement, conspiracy and gift-sender joins unproved; Aqua’s errors remain hers. CR-C34-ROUTE07 UPDATE: two old aggregates point to six already published exact child profiles. CR-C34-FIRST08 RETAIN: all ten originals and their knowledge/precision defects, with no repaired-body or independent success claim.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+CR-C35-MAR01 QUALIFY: two accounts of one named Keith episode,not two assaults or independent eyewitness confirmation; no current Maris speech or group-membership claim. CR-C35-SEL02 QUALIFY: MAIN07 Eris affiliation does not explicitly supply individual priest class; DUST05 event correspondence leaves speaker identity inferred. CR-C35-TURN03 RETAIN: P895 correction earns individual compact treatment while other turns remain unassigned. CR-C35-LAW04 QUALIFY: P904 doctrine is ad hoc,not established divine law. CR-C35-ELDER05 RETAIN: patronage attempt is not acceptance or another-elder join. CR-C35-ROUTE06 RETAIN: row 171 fields/support stay exact; no identity or unique-person split is certified.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+CR-C36-ACT01 RETAIN: observed animal action is separate from human dragon/training projections. CR-C36-TIME02 QUALIFY: early mana and later reported conversion have different temporal scope. CR-C36-FOOD03 CORRECT: sugar water is for Wiz; MAIN10 bonus sleep belongs explicitly to Aqua. CR-C36-LETTER04 CORRECT: opened Iris letter is not an egg ad. CR-C36-ID05 QUALIFY: seller roles are unjoined,not certified different people; creator chicken remains inferred. CR-C36-ART06 RETAIN: contextual Aqua/Anna/sleeping-bird image and editorial chick profile do not depict a new hatch.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+CR-C37-JOB01 CORRECT:original military challenge is not marriage proposal. CR-C37-EVENT02 QUALIFY:DUST05Dust/Darkness retellings dependent;Small approach distinct. CR-C37-ID03 RETAIN:garden individual notforestPrincess;Shiro untagged proposal andtwo literal collisions notaliases. CR-C37-REACH04 CORRECT:reach is towardAqua. CR-C37-TIME05 QUALIFY:MAIN17later narrator death report andMAIN15preexistingAxel target retained. CR-C37-TEST06 RETAIN:DK-A1 unbound shelving wording,all4originals exact;body compliance notcausal isolation.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort38 Perie and selected Dust06 roles — 2026-10-24T17:10:38.125614+00:00
+
+CR-C38-AFFECT01 QUALIFY:redness and anger do not establish dress embarrassment;later discouragement is Dust narration. CR-C38-MODAL02 RETAIN:jacket cause,Cure,superior order/praise and mission transfer retain attribution. CR-C38-ORDER03 CORRECT:reported live-capture order is violated by proposed killing,not merciful release. CR-C38-CAPACITY04 QUALIFY:accurate aerial retreats resist blanket mindlessness. CR-C38-TIME05 RETAIN:DUST07comparison is retrospective,not a return or new Perie event. CR-C38-CONSENT06 RETAIN:paralysis/exposure attempt and forced alcohol do not gain consent from fashion preference or later participation. CR-C38-TIER07 OPEN:substantial monograph earned;differentiated generative policy not presently isolated.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort39 Rouzeri,store owner and helmeted noble — 2026-10-24T19:06:19.622893+00:00
+
+CR-C39-SPEAKER01 CORRECT:ogre salary remark is not Rouzeri reason. CR-C39-STATUS02 QUALIFY:Vanir former executive versus Wiz current compact;no direct former Rouzeri supervision verified. CR-C39-ROLE03 CORRECT:recurring general store,not weapon-only shop. CR-C39-FAULT04 QUALIFY:tip fallsP832,neglect DustP834,repair reported. CR-C39-LOAN05 RETAIN:Dust proposes one-day helmet loan;D7P184explicit horse loan. CR-C39-PAY06 QUALIFY:covert reports commissioned,actual payment unshown. CR-C39-TEST07 RETAIN:DGO-B1/HNO-A2defects and all12firsts unchanged;body compliance is not cause isolation.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort40 Doreck, Gaibil, Bridol king and head butler — 2026-10-24T21:08:27.831290+00:00
+
+CR-C40-IDENTITY01 CORRECT:real Doreck versus Gaibil groom;Rionor visitor versus Leen bride. CR-C40-WILL02 QUALIFY:private willing contract conflicts with public brainwashing. CR-C40-HARM03 RETAIN:no-killing rhetoric does not erase coercion/shock/danger. CR-C40-KING04 RETAIN:king offers Feit;Dust refuses. CR-C40-BUTLER05 QUALIFY:positiveDust05–06–continuation recurrence,other butlers unjoined. CR-C40-MAID06 QUALIFY:former-thief mapping unknown;P552pay turn pair-level. CR-C40-TEST07 RETAIN:12originals andGAI-A1/B1/B2qualifications unchanged;body compliance distinct from causal isolation.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort41 — documentary makers, plants and encounter partners — 2026-10-24T22:38:34.409784+00:00
+
+C41retains earlier histories while current source receiving qualifies unnamed routes. Row133joins MAIN02/05byexplicit recognition;Dust02inventor andMoguninnin master remain unresolved. Lake versus earlier roadside plant positively distinguished;no plant-species merge. Initial row142tentative route withdrawn as unrelated existing priest. Corrected coverage link andpre-disposition timing qualification31precede model/input freeze. No old score,null,original body,model or uncoded source observation is rewritten;later diagnostic ambiguities remain external findings.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+C42qualified Lolisa17/132specific-client failure bridge and contextual Luna-disguise judgment supersede earlier unresolved routing phrases only through current supplement/census fields; all old model support/first bodies remain exact. Chief masked-group continuity positive but weapon/turn mapping unresolved. Precision correction makes lake apology collective, chief persuasion failure his own, MAIN02escape reported, andstaff group narrower. Original drafts/partial expired-calendar wording retained with governing corrections; no uncoded-note repair.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+C43 positively joins old unnamed deputy100 to Lolierina231 at exact YORI01U014P63 while chief91 and unrelated230 stay separate. C29 client/father full-name precision is preserved. Crow/cub and Marybell/Mary are distinct; female devil/Arnes and unnamed clerk/Luna remain unjoined. Corrective drafts preserve Rakuresu’s table strike, attribute impostor suspicion to visitors and repair only the coverage link/destination before exact inputs. Original drafts and seals remain attributable. Four new diagnostic originals retain their binding and transfer issues without model or body repair.
+
+[Current evidence index](KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+C44 qualifies prior dinner-host pooling without rewriting the original deep-reading body orQ49: the host, male food supplier and take-home woman are separate local assignments. Old row120’s two-men label becomes THREE usingU024P225/266 while exact prior fields remain. The dryad stays distinct from Princess/Tranquility; follower/Hoost/Arnes, neighbor/Sutton, cafe daughter/MASK daughter and poultry seller/butcher remain unjoined. A source correction attributes Chomusuke feeding/hand removal to Kazuma18 rather than Darkness16; final Explosion targets the follower without separately shown impact or fate. An unaccepted recruiter offer is not a delivered rejection.
+
+[Current evidence index](KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort45 — Yorimichi 3 individuals and supporting roles — 2026-10-25T07:34:24.234913+00:00
+
+C45-CR01 corrects recovered Shumel father/son shorthand to the native woman and preserves unverified genealogyU014359/373–374. C45-CR02 preserves Melvirei interest431 plus Aqua prompt432 before departure433. C45-CR03 separates the female succubus ownerU016337/359 from MAIN16 vampire126, with actual hospitality and unperformed concessions. C45-CR04 uses Vice male heir/嫡男 without unnecessary birth order, Tia nativeドルトリン, correct female pronouns and no unsupported privately coordinated deception. C45-CR05 supplements generic devil caution with specific Hoost/Rex event correspondence from EXP03; alternate leader remains unnamed/probable. Complete original drafts and all pre-freeze corrections remain preserved. No frozen model, input, first or score is repaired.
+
+[Current evidence index](KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+C46 current addenda retain all47 historical YORI04 qualifications and frozen histories. The first C46 addendum narrows the elided escort-casting assertion, old census115 masculine wording, professional/worker identity and Anna action boundaries. Three later post-freeze qualifications have precedence for their exact assertions: PFQ01 weather-diviner/army-locust wording, PFQ02 pension-price comparison without itemized payment, PFQ03 Kazuma as Aqua Heal recipientU018624, with Angie blown away613 and no separate treatment. All47 core pins remain unchanged; old wording is visible history. Typed relation corrections prevent parents, generic species/roles and explicitly excluded Anna manifestations from becoming alias candidates. None supplies independent performance credit.
+
+[Current evidence index](KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+C47 preserves preparation history while explicitly correcting MAIN06U020 to the Aldarp-focalized fictional interlude, confirmed against the actual TOC, rather than author paratext. Nine frozen source qualifications retain the Winter sequence, unnamed sprite, beloved access, angel promise, Jatice report/fantasy/plan channels, remembered girl report and Heidel's unperformed proposals. The supporting mimic profile narrows active-deception wording to apparent lure and material response before its own seal; the26already frozen core bodies remain unchanged after feedback. Current C46 post-freeze qualifications for pension-price comparison, weather-diviner/army-locust wording and Kazuma as Heal recipient remain fully effective.
+
+[Current evidence index](KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+C48 preserves source and draft history while narrowing actual advice to Vanir as speaker,MASKpet recurrence to possible identity,and dragon breath88 to Vanir warning. The motorcycle wording does not certify the senior driving arrangement; the clothes giver is not automatically a known neighbor. Person-to-person civic-speaker possibilities use possible-identity edges,distinct from group membership. MAIN11U018 is an author afterword discussing another work,not canonical KonoSuba vampire evidence. Amaryllis invented biography is disavowed,her stop/register/apology sequence is ordered,and the owner ring remains untransferred. All25core bodies remain unchanged after feedback; four supporting bodies have separate pre-freeze precision review. Current C46post-freeze qualifications remain fully effective.
+
+[Current evidence index](KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+C49 explicitly supplies the king’s self-name 八坂恭一/やさかきょういち367 while preserving the withheld origin and war motive385/472. Earlier interrupted-name wording is dated history,not current authority over the actual utterance. The masked gatekeeper still has no received name. Mammon’s YORI04conjunction becomes a high-confidence historical join with tentative naming/hearsay retained. Main16daughter forecast belongs to Megumin312. No prior core,input,original,score or published source record is silently rewritten;new interpretations and sixteen precision qualifications carry corrections.
+
+[Current evidence index](KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+C50 retains the medicine erratum, Mary proposal/performance distinction and source-local operator identity. New precision keeps the pub hot-oden account interrupted, only one performed server blow, changing interceptor membership, subordinate lightning, inferred skeleton finishing and tentative daughter identification. No established identity join is not a proved exclusion: Eris men/clergy, apple roles and Kamonegi routes remain appropriately unjoined. Earlier sealed analyses, source receipts, models and firsts remain exact. Current audit, typed routes and twenty qualifications carry these bounded refinements.
+
+[Current evidence index](KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C51 — attributable art/reference corrections — 2026-10-25T20:53:24.750950+00:00
+
+- **REVISE C51-ARTM04-Q01:** masked ニヤッ inset belongs to Vanir; Wiz separately smiles.
+- **DOWNGRADE C51-ARTM04-Q02:** introductory unballooned line has a contextual Vanir reading without explicit speaker marking.
+- **REVISE C51-ARTM04-Q03:** printed１０００階 means1000 floors inside Megumin supposition; supersede only M04EX-Q16 numerical part.
+- **STRENGTHEN C51-ARTM04-Q04/Q05:** actual visual recomposition and typed wish roles establish dependence without complete-image byte identity or new real events.
+- **REVISE C51-ARTREF-Q06:** 子爵 is viscount, superseding preserved “son-noble” notes and their copies.
+
+[Full qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT51_SOURCE_PRECISION_QUALIFICATIONS_01.json) identify existing Main04 owner and native locators. Historical notes, original coding and performance histories remain exact. Current71 model bodies/65 scoped secondary model entries remain unchanged. Candidate216 profile passages/65 monograph-only studies/795 nonfinal access records count treatments. Six existing rows receive only additive source supplements;757 others and19 historical canonical/private differences remain exact. All independent counts stay null. The original forecasts, firsts, adverse outcomes, scores, blanks and nulls remain unchanged. Exact containing publication is pending; full-program work continues.
+
+
+## C52 — eight attributable reference/scenario qualifications — 2026-10-25T23:11:09.495270+00:00
+
+- **C52-Q01 / REVISE_ANNOTATION_LABEL:** Native thief title is 探求の盗賊. The preserved S110 source-first annotation 探索 is a derivative error, not another native name. (CORE S006/S110–111). Original component record, source bytes, codes and earlier labels remain historical.
+- **C52-Q02 / QUALIFY_INTERPRETATION:** 胸を高鳴らせる supports heightened feeling with excitement plausible in context; pleasure of solitude is an interpretation, with tension a retained rival. Task solitude is not antisocial identity. (CORE S111). No source-error assertion about every old interpretation, no formal L/H recoding or psychological trial.
+- **C52-Q03 / REVISE_NATIVE_LOCATOR:** The complete supplied Core scenario occupies native S300–313. Older C31 index wording S298–311 mixes printed and native numbering. (CORE S300–313 / printed298–311). Frozen C31 index body and publication history stay exact; current erratum/index supplies the attributable correction.
+- **C52-Q04 / REVISE_NATIVE_LOCATOR:** Advanced selected scenario section includes divider nativeS297/printed295, with scenario body S298/printed296 through S311/printed309. Older C31 S295–309 wording mixes planes. (ADV S297–311 / printed295–309). Frozen C31 index/history retained; no actual performed scenario or new admission credited.
+- **C52-Q05 / REVISE_ANNOTATION_TRANSLATION:** 牢屋 denotes prison/jail. Cowshed in the preserved initial S298 annotation is a derivative mistranslation; no livestock enclosure or additional animal subplot follows. (ADV S298/S300–303). Original before-record remains exact; current text distinguishes actual native words and old English note.
+- **C52-Q06 / QUALIFY_EDITORIAL_SELF_CLAIM:** Darkness tentatively complains of no lines in the editorial divider. That is staged self-claim, not objective whole-book absence: she already warns about advanced-class conditions at S004. (ADV S004/S297). No correction to the native balloon itself, no new real neglect episode or consent inference.
+- **C52-Q07 / STRENGTHEN_SEQUENTIAL_REFERENT:** Initially apparent other-party equipment is followed by the captive party explicit equipment-recovery condition in the same supply store. Retain this contextual owner correspondence, without claiming every unallocated remainder has an exclusive known owner. (ADV S304–305). R39 is a nonperson provenance route to R16–19, not an additional confirmed adventurer party or corpse roster.
+- **C52-Q08 / PRECISIFY_OPTIONAL_CARD_CONDITIONS:** Divine armor grants physical defense CLx3 and magical defense CL; do not generalize the same bonus to both. Fate Advance afterplay death threshold includes Blessing equal to negative Luck (以下). (CORE S202/S204). Optional unplayed reference capacities only; no exhaustive mathematical/balance validation or new actual death.
+
+[Current full findings](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT52_SOURCE_PRECISION_QUALIFICATIONS_01.json). Candidate totals are71 unchanged model bodies/65scoped secondary model entries,231bounded-profile passages,69monograph-only studies and836nonfinal source-access records. These are different treatment counts, not unique people or final tiers. Twelve named-reference rows preserve all8core fields; aggregate38 archives its prior8fields and preserves all C31 history. The other782entering rows and all19canonical/private differences remain exact. Every independent count stays null; original models, forecasts, first responses, adverse outcomes, scores, blanks and nulls remain unchanged. Containing C52 author publication is pending; the full program continues.

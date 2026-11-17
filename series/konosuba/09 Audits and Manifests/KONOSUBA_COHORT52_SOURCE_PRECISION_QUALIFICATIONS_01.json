@@ -1,0 +1,71 @@
+{
+  "schema": "konosuba.cohort52.source-precision.v1",
+  "authored_utc": "2026-10-25T23:11:09.495270+00:00",
+  "status": "CURRENT_SOURCE_QUALIFICATIONS_CONTAINING_PUBLICATION_PENDING",
+  "findings": [
+    {
+      "id": "C52-Q01",
+      "kind": "REVISE_ANNOTATION_LABEL",
+      "source": "CORE S006/S110–111",
+      "finding": "Native thief title is 探求の盗賊. The preserved S110 source-first annotation 探索 is a derivative error, not another native name.",
+      "preserve": "Original component record, source bytes, codes and earlier labels remain historical."
+    },
+    {
+      "id": "C52-Q02",
+      "kind": "QUALIFY_INTERPRETATION",
+      "source": "CORE S111",
+      "finding": "胸を高鳴らせる supports heightened feeling with excitement plausible in context; pleasure of solitude is an interpretation, with tension a retained rival. Task solitude is not antisocial identity.",
+      "preserve": "No source-error assertion about every old interpretation, no formal L/H recoding or psychological trial."
+    },
+    {
+      "id": "C52-Q03",
+      "kind": "REVISE_NATIVE_LOCATOR",
+      "source": "CORE S300–313 / printed298–311",
+      "finding": "The complete supplied Core scenario occupies native S300–313. Older C31 index wording S298–311 mixes printed and native numbering.",
+      "preserve": "Frozen C31 index body and publication history stay exact; current erratum/index supplies the attributable correction."
+    },
+    {
+      "id": "C52-Q04",
+      "kind": "REVISE_NATIVE_LOCATOR",
+      "source": "ADV S297–311 / printed295–309",
+      "finding": "Advanced selected scenario section includes divider nativeS297/printed295, with scenario body S298/printed296 through S311/printed309. Older C31 S295–309 wording mixes planes.",
+      "preserve": "Frozen C31 index/history retained; no actual performed scenario or new admission credited."
+    },
+    {
+      "id": "C52-Q05",
+      "kind": "REVISE_ANNOTATION_TRANSLATION",
+      "source": "ADV S298/S300–303",
+      "finding": "牢屋 denotes prison/jail. Cowshed in the preserved initial S298 annotation is a derivative mistranslation; no livestock enclosure or additional animal subplot follows.",
+      "preserve": "Original before-record remains exact; current text distinguishes actual native words and old English note."
+    },
+    {
+      "id": "C52-Q06",
+      "kind": "QUALIFY_EDITORIAL_SELF_CLAIM",
+      "source": "ADV S004/S297",
+      "finding": "Darkness tentatively complains of no lines in the editorial divider. That is staged self-claim, not objective whole-book absence: she already warns about advanced-class conditions at S004.",
+      "preserve": "No correction to the native balloon itself, no new real neglect episode or consent inference."
+    },
+    {
+      "id": "C52-Q07",
+      "kind": "STRENGTHEN_SEQUENTIAL_REFERENT",
+      "source": "ADV S304–305",
+      "finding": "Initially apparent other-party equipment is followed by the captive party explicit equipment-recovery condition in the same supply store. Retain this contextual owner correspondence, without claiming every unallocated remainder has an exclusive known owner.",
+      "preserve": "R39 is a nonperson provenance route to R16–19, not an additional confirmed adventurer party or corpse roster."
+    },
+    {
+      "id": "C52-Q08",
+      "kind": "PRECISIFY_OPTIONAL_CARD_CONDITIONS",
+      "source": "CORE S202/S204",
+      "finding": "Divine armor grants physical defense CLx3 and magical defense CL; do not generalize the same bonus to both. Fate Advance afterplay death threshold includes Blessing equal to negative Luck (以下).",
+      "preserve": "Optional unplayed reference capacities only; no exhaustive mathematical/balance validation or new actual death."
+    }
+  ],
+  "original_component_notes_and_codes_preserved": true,
+  "frozen_C31_index_body_preserved": true,
+  "existing_current_qualification_owners": [
+    "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_CURRENT_QUALIFICATIONS.json",
+    "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_CURRENT_PRECISION_QUALIFICATIONS.json"
+  ],
+  "new_formal_L_H_outcomes": 0,
+  "new_models_rules_inputs_firsts_or_scores": 0
+}

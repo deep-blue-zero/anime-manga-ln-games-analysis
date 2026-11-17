@@ -1,0 +1,316 @@
+{
+  "schema": "konosuba.cohort30.exact-source-author-publication-gate.v1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "closed_utc": "2026-10-24T05:55:37.503690+00:00",
+  "gate_scope": "Author publication tranche under current CHANGE_INTEGRATION_CHECKLIST: ordinary continuing-source push,ready PR and full passing exact-head repository audit. Protected-main integration/post-integration checks remain separately owned.",
+  "actual_source_commit": "681d9d058caabc38a26c56496c255677e2a2d616",
+  "tree": "36f40e0ce1b96d153a9b9386e66c748a44fbfa47",
+  "source_parent": "f6297f384640a97edf0bbd31853699e6f632edea",
+  "publication_main": "6a3afaaf1bb61e0993db379ab4074c46e9ea98dd",
+  "main_observed_at_close": "6a3afaaf1bb61e0993db379ab4074c46e9ea98dd",
+  "pull_request": {
+    "number": 298,
+    "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/298",
+    "state": "open",
+    "merged": false,
+    "head": "681d9d058caabc38a26c56496c255677e2a2d616",
+    "ready": true,
+    "labels": []
+  },
+  "author_preflight": {
+    "file": "COHORT30_AUTHOR_PREFLIGHT_VERIFIED_01.json",
+    "sha256": "2b61a4577ed867b279b4a59741fcd41595a8cd0be69deda0b6640b638198ad30",
+    "paths": 9663,
+    "project_paths": 1345
+  },
+  "remote_readback": {
+    "file": "COHORT30_REMOTE_READBACK_VERIFIED_01.json",
+    "sha256": "eb0c952c0c1e08b6d2e334187d36286db468c3da192c269b1efe46bcf175d245",
+    "all9663_files_and42_changed_streams_exact": true
+  },
+  "source_audit": {
+    "file": "C30_SOURCE_AUDIT_VERIFIED_01.json",
+    "sha256": "fd57ff88d8ad562ce1bdb8aadb66a748cd5fb91c39b34f02893a79757e69c4d5",
+    "run": 40067718104,
+    "job": 120794360830,
+    "reporter_job": 120795454869,
+    "actual_source": "681d9d058caabc38a26c56496c255677e2a2d616",
+    "full_discovered_tests": 459,
+    "all_five_non_success_categories_zero": true,
+    "latest_trusted_status": {
+      "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/681d9d058caabc38a26c56496c255677e2a2d616",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "id": 57153058398,
+      "node_id": "SC_kwDOUJ9ads8AAAANTpZ2Xg",
+      "state": "success",
+      "description": "Exact commit passed the repository audit",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40067718104",
+      "context": "Repository integration audit",
+      "created_at": "2026-10-24T05:54:35Z",
+      "updated_at": "2026-10-24T05:54:35Z",
+      "creator": {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      }
+    }
+  },
+  "housekeeping": {
+    "status": "NOT_REQUIRED_WHEN_ROUTING_ALREADY_MATERIALIZED_UNDER_CURRENT_POLICY",
+    "run": null,
+    "execution_credit": false
+  },
+  "post_integration_main_audit": {
+    "status": "NOT_CERTIFIED_BY_THIS_AUTHOR_TRANCHE_GATE",
+    "run": null,
+    "execution_credit": false
+  },
+  "author_publication_tranche_complete": true,
+  "overall_git_integration_transaction_closed": false,
+  "authority_reload": {
+    "file": "COHORT30_POST_GATE_PUBLISHED_AUTHORITY_RELOAD.json",
+    "bytes": 333576,
+    "sha256": "400925bf58abc758b7444ddb90693fed8ee08c3f2f371cce7598ad458f452c34"
+  },
+  "current46_models_exact": true,
+  "new_scope": {
+    "schema": "konosuba.cohort30.evidence-proportionate-scope-assessment.v1",
+    "recorded_utc": "2026-10-24T05:06:08.024958+00:00",
+    "published_source": "f6297f384640a97edf0bbd31853699e6f632edea",
+    "source_receiving_sha256": "10d301584d11a8d8c80835ede947008e5aa062437655ddc45f741a2a9b131189",
+    "native_provenance_sha256": "933e188a475e31ee2fec4af2df0d64bf2024f99c7b8091eeed696e7c98969344",
+    "bounded_name_check_sha256": "85aba2f4706e88e37d0da66d508a67924ba38b92965a55267f7433940e7907b5",
+    "new_discovery_records_sha256": "a570a5518aa522ecff4f554b76a660ca76f876472437a4589a472458cbacd6c1",
+    "subjects": [
+      {
+        "row": 34,
+        "character": "Lia",
+        "tier": 3,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate four-rule provisional model",
+          "planned four dependent pairs/eight original firsts after foundation/input freeze"
+        ],
+        "reason": "Chosen vocation versus attributed duty,particular belonging,selective attachment and repeated typed competence/error across ordinary life,work,relationships and crises."
+      },
+      {
+        "row": 35,
+        "character": "Cielo",
+        "tier": 3,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate four-rule provisional model",
+          "planned four dependent pairs/eight original firsts after foundation/input freeze"
+        ],
+        "reason": "Concrete contact conditions,performance-value growth,particular care/dissent,deliberate harshness and typed strength/healing/social presentation are differentiated across contexts."
+      },
+      {
+        "row": 36,
+        "character": "Erika",
+        "tier": 3,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate four-rule provisional model",
+          "planned four dependent pairs/eight original firsts after foundation/input freeze"
+        ],
+        "reason": "Recognition responds differently to praise and exposed betrayal;ambition,uneven checking,particular-trio care and audience-driven cost supply countercases."
+      },
+      {
+        "row": 71,
+        "character": "Charlie",
+        "tier": 2,
+        "artifacts": [
+          "twelve-dimension monograph"
+        ],
+        "reason": "Dense own coercion,attachment,subordinate service,injury precaution,correct warning and failure support monograph; broader ordinary situations and mechanisms remain confounded."
+      },
+      {
+        "row": 72,
+        "character": "Daniel",
+        "tier": 2,
+        "artifacts": [
+          "twelve-dimension monograph"
+        ],
+        "reason": "Dense coercive pursuit,tactics,work/recognition goal,learning/attention failures,selective distress and retreat support monograph; broader cooperative/ordinary mechanisms underidentified."
+      },
+      {
+        "character": "Carriage driver at the cabbage rescue (FD)",
+        "row": 270,
+        "tier": 1,
+        "artifacts": [
+          "compact profile in existing coverage audit"
+        ],
+        "reason": "Reports sending dancers ahead; actual cargo hesitation and physical removal before cart destruction; Aqua healing. Own cargo ownership, prior passenger release independently seen, free assent, later liability allocation and broader identity unknown."
+      },
+      {
+        "character": "Axel blacksmith lending workspace (FD)",
+        "row": 271,
+        "tier": 1,
+        "artifacts": [
+          "compact profile in existing coverage audit"
+        ],
+        "reason": "Allows actual workspace use; asks about invention purpose/demand and compares Axis merchandise. No established fee,production authorship,purchase,market judgment outcome or durable innovation policy."
+      },
+      {
+        "character": "Woman accompanying child at merchandise sales (FD)",
+        "row": 272,
+        "tier": 1,
+        "artifacts": [
+          "compact profile in existing coverage audit"
+        ],
+        "reason": "Praises Lia and states time/budget constraint; restrains child; later enrollment ruse qualifies earlier appearances. Actual poverty,sincerity,her role in child ruse and completed conversion unproved."
+      },
+      {
+        "character": "Child offering Axis enrollment form (FD)",
+        "row": 273,
+        "tier": 1,
+        "artifacts": [
+          "compact profile in existing coverage audit"
+        ],
+        "reason": "Praises Erika,asks ticket difference,invokes fairness and offers form as signature paper; K stops. Fan sincerity and poverty uncertain; no performed conversion or broad child-development model."
+      },
+      {
+        "character": "Elderly Axel theater manager (FD)",
+        "row": 274,
+        "tier": 1,
+        "artifacts": [
+          "compact profile in existing coverage audit"
+        ],
+        "reason": "Reports prior show viewing,offers stage,receives actual three assents,promises later formal contract. Signed contract,wages,ownership scope and long-term patronage unshown."
+      },
+      {
+        "character": "Axel qualifier host (FD)",
+        "row": 275,
+        "tier": 1,
+        "artifacts": [
+          "compact profile in existing coverage audit"
+        ],
+        "reason": "Explains stages,calls units/questions,enforces timed answer,uses macho label and receives objections. Exact speaker continuity/identity beyond event and global fairness unknown; no formal rename from variant."
+      },
+      {
+        "character": "Axel qualifier judges (FD, unresolved actor group)",
+        "row": 276,
+        "tier": 0,
+        "artifacts": [
+          "source-bound unresolved occurrence index"
+        ],
+        "reason": "Ask questions,misread setting,respond to water art and select trio. Count,individual assignments and joins unresolved; selection not divinity proof."
+      },
+      {
+        "character": "Royal attendant reporting Daniel bounty (FD)",
+        "row": 277,
+        "tier": 1,
+        "artifacts": [
+          "compact profile in existing coverage audit"
+        ],
+        "reason": "Thanks party,reports inquiry,states bounty and asks aid while full cause concealed. Investigation details,name,independent knowledge of truth and performed payment in scene unproved."
+      },
+      {
+        "character": "Capital finals host (FD)",
+        "row": 278,
+        "tier": 0,
+        "artifacts": [
+          "source-bound unresolved occurrence index"
+        ],
+        "reason": "Announces Axel Hearts with conspicuous costume and gesture. Only bounded announcing occurrence; personality and wider identity unknown."
+      },
+      {
+        "character": "Guild emergency announcer (FD)",
+        "row": 279,
+        "tier": 0,
+        "artifacts": [
+          "source-bound unresolved occurrence index"
+        ],
+        "reason": "Broadcasts enemy/weapon warning and calls adventurers to gate. Name,individual biography and wider joins unprovided."
+      },
+      {
+        "character": "Costume-thief trolls (FD, unresolved troop)",
+        "row": 280,
+        "tier": 0,
+        "artifacts": [
+          "source-bound unresolved occurrence index"
+        ],
+        "reason": "Carry stolen costumes,one shoulder hit,drop garments,flee; one invokes Daniel. No automatic named-antagonist or other troop join; outcomes per individual unknown."
+      },
+      {
+        "character": "Young man reporting theater attack (FD)",
+        "row": 281,
+        "tier": 0,
+        "artifacts": [
+          "source-bound unresolved occurrence index"
+        ],
+        "reason": "Urgent alert prompts response to Charlie theater attack. No name,biography,full attack observation or later messenger identity."
+      }
+    ],
+    "planned_existing_changed_rows": [
+      34,
+      35,
+      36,
+      71,
+      72
+    ],
+    "planned_untouched_entering_rows": 265,
+    "planned_new_rows": [
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280,
+      281
+    ],
+    "planned_nonfinal_records": 282,
+    "planned_models_if_received": 46,
+    "planned_scoped_secondary_model_subjects": 40,
+    "planned_bounded_profiles": 59,
+    "planned_monograph_only_subjects": 22,
+    "new_monographs": 5,
+    "new_models": 3,
+    "new_rules": 12,
+    "new_compact_profiles": 7,
+    "new_Tier0_records": 5,
+    "planned_firsts": 24,
+    "planned_dependent_pairs": 12,
+    "exact_inputs_or_firsts_serialized": false,
+    "source_known": true,
+    "whole_source_or_independent_credit": 0,
+    "same_informed_root_authors_and_assesses_every_stage": true,
+    "all_contrasts_visible": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "new_role_records_not_unique_people": true,
+    "global_census_closed": false,
+    "global_completion_percentage": null,
+    "full_program_complete": false
+  },
+  "source_known_same_root_diagnostics": true,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false
+}

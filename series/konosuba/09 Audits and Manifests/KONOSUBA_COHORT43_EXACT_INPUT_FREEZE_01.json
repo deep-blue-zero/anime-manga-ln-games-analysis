@@ -1,0 +1,20 @@
+{
+  "schema": "konosuba.cohort43.source-safe-exact-input-freeze.v1",
+  "private_complete_freeze_sha256": "7f11f203d9232c3e9b05594192e5e3eaa7813b58c46e6db95b9ab35e8c5931b1",
+  "frozen_utc": "2026-10-25T02:25:26.217933+00:00",
+  "foundation_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_FOUNDATION_FREEZE_01.json",
+  "foundation_sha256": "6f01605e6a51354be8065b217660ee30adb9536a3c0f5d80142aa24a14bd8165",
+  "private_foundation_freeze_sha256": "f3f2154077ebcbc5109eea4142a7393f3cf09a8b13ed06d346e1b2b8c5210102",
+  "exact_input_path": "series/konosuba/06 Character Modeling and Reconstruction/OZUMA_EXPANDED_V1_EVIDENCE/OZUMA_SCENARIO_INPUTS_01.json",
+  "exact_input_sha256": "97d42b1bbbfcc5e618353598f0289428f8dd249a8d2ce0098c766c47365cb473",
+  "scenario_ids": [
+    "OZU-A1",
+    "OZU-A2",
+    "OZU-B1",
+    "OZU-B2"
+  ],
+  "received_before_firsts": true,
+  "original_firsts_present_at_freeze": false,
+  "source_known_same_informed_root": true,
+  "no_independent_or_final_battery_claim": true
+}

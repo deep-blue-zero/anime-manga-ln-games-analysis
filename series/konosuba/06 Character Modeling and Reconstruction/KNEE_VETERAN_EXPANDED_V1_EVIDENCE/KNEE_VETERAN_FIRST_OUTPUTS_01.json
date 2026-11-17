@@ -1,0 +1,80 @@
+{
+  "schema": "konosuba.cohort45.original-first-outputs.v1",
+  "saved_utc": "2026-10-25T06:48:26.581664+00:00",
+  "subject": "Knee-injured veteran",
+  "foundation_freeze_sha256": "a90e08631f114cdd939fe2999ffffa6ab18afd5bf1c9235c0f0b78acd9bedefb",
+  "exact_input_freeze_sha256": "0f5857e82a00c9a591497b49b900879153a975218cdcdbfbb18335e8d50b7b84",
+  "original_outputs": [
+    {
+      "id": "KIV-B1",
+      "pair_id": "KIV-B",
+      "rule_id": "KIV-R01",
+      "exact_prompt_sha256": "5f386470de884c5bc07bc78e3f1e56802a911f8cfc3475d0568645cc300b0465",
+      "original_body": "The veteran drew his bad leg a little closer to his chair.\n\n“No, thank you.”\n\nHe watched the traveler's hands.\n\n“You know about the knee. I heard you. That doesn't mean I know anything about you.”\n\nHis hand came up between them, palm outward.\n\n“And I'm not promising worship to get you to leave it alone. I said no. Find somebody who wants a sermon.”",
+      "original_UTF8_file": {
+        "file": "original-first-bodies01/KIV-B1.txt",
+        "bytes": 363,
+        "sha256": "24a37455c3744b2f57c1f51e1c0cc40ce9322f555838b6f3247f2fa027aaf514"
+      },
+      "generation": "First continuous active-root hypothetical completion; authored once, not regenerated or replaced.",
+      "English_realization_invented": true,
+      "source_known_same_root": true,
+      "independent_observation_count": null
+    },
+    {
+      "id": "KIV-B2",
+      "pair_id": "KIV-B",
+      "rule_id": "KIV-R01",
+      "exact_prompt_sha256": "9122c77453e6586351b8bec4ff9c9437cd79b1237719d96c7dd68af5157b55f5",
+      "original_body": "“No obligation?”\n\nThe veteran looked down at his knee, then back at the traveler.\n\n“I'd like it mended. Of course I would. But you've come over knowing about an old wound, and I don't even know your name.”\n\nHe kept his leg beneath the chair.\n\n“Tell me how you learned that, first. And what are you actually proposing to do?”\n\nHe rubbed the edge of his knee with his thumb.\n\n“I'm listening. That isn't permission to start.”",
+      "original_UTF8_file": {
+        "file": "original-first-bodies01/KIV-B2.txt",
+        "bytes": 439,
+        "sha256": "952d89b645e40272a4f335e3b7f6107cabf19dc93ada5260e948843094da8bc9"
+      },
+      "generation": "First continuous active-root hypothetical completion; authored once, not regenerated or replaced.",
+      "English_realization_invented": true,
+      "source_known_same_root": true,
+      "independent_observation_count": null
+    },
+    {
+      "id": "KIV-C1",
+      "pair_id": "KIV-C",
+      "rule_id": "KIV-R02",
+      "exact_prompt_sha256": "10938e2b199dfe65744ebe3f65fe0bb9a02acb41ee34eba745794103aa4272cf",
+      "original_body": "“Forty minutes?”\n\nThe veteran bent his knee again. He let out a short laugh that caught in his throat.\n\n“Yes. Yes, I'll walk with you. I want to find out what this leg can do.”\n\nHe wiped his face with the heel of his hand and reached for his coins.\n\n“But a walk isn't much of a return for this. Here—three. Get yourselves something decent to eat afterward.”\n\nHe held them out rather than putting them into the novice's belongings.\n\n“I've an appointment in an hour. We'll have to be back for that.” He turned toward the healer. “And next time, ask a fellow before you do something to him.”",
+      "original_UTF8_file": {
+        "file": "original-first-bodies01/KIV-C1.txt",
+        "bytes": 611,
+        "sha256": "17701a7f190c0ea626ab49956f5e71de3b8d24219872eaf6c52d17312bec17ac"
+      },
+      "generation": "First continuous active-root hypothetical completion; authored once, not regenerated or replaced.",
+      "English_realization_invented": true,
+      "source_known_same_root": true,
+      "independent_observation_count": null
+    },
+    {
+      "id": "KIV-C2",
+      "pair_id": "KIV-C",
+      "rule_id": "KIV-R02",
+      "exact_prompt_sha256": "c33dc7e5c1030d0b911709ccb66c2d1be612ad3773930d79195db89c3c25db52",
+      "original_body": "The veteran took another careful step and shook his head, smiling wetly.\n\n“You could have asked me before casting. But—look at it. It bends.”\n\nHe faced the novice.\n\n“I'll come. Forty minutes will give me a proper try of it.”\n\nHis hand went to his purse, paused, and fell away.\n\n“I'd pay your way as well, if I could. Those coins have to keep a roof over me and feed me tonight.”\n\nHe straightened, testing his weight on the restored leg.\n\n“While we walk, show me how you watch the road. I can at least teach you something. Then back here before my appointment.”",
+      "original_UTF8_file": {
+        "file": "original-first-bodies01/KIV-C2.txt",
+        "bytes": 579,
+        "sha256": "afe4172b8346fcdff60ecdbff2731cedb292bcd03160261bf7713848659607f6"
+      },
+      "generation": "First continuous active-root hypothetical completion; authored once, not regenerated or replaced.",
+      "English_realization_invented": true,
+      "source_known_same_root": true,
+      "independent_observation_count": null
+    }
+  ],
+  "no_regeneration": true,
+  "no_post_feedback_repair": true,
+  "feedback_exists_at_save": false,
+  "source_known_same_root": true,
+  "independent_observation_count": null,
+  "accuracy_or_confidence_gain": false,
+  "final_program_battery_credit": false
+}

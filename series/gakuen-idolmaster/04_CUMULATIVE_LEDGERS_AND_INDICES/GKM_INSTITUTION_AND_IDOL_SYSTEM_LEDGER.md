@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Institution and Idol-System Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.5"
+version: "2.6"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-24 - Phase 6 side-character synthesis institutional routing integrated"
+last_updated: "2026-11-15 — source-to-analysis audit corrections"
 status: "active; cumulative through Phase 6 side-character synthesis"
 ---
 
@@ -603,3 +603,52 @@ This is a synthesis-only institutional update; it introduces no new Source Lock 
 Phase-8 institutional synthesis should therefore evaluate systems through the people who administer and contest them, not only through stated rules.
 
 **Next Phase-6 operation:** `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`.
+
+## Historical source corrections — 2026-11-12
+
+| State | Evidence | Institutional consequence and limit |
+| --- | --- | --- |
+| C1 @ D-UME | Saki reports President Juo's scouting and 100 Pro's willingness to support self-production. She intends family management and declines a dedicated Producer (`LOC-HSCA-002E`). Ume later names 100 Pro her first preference (`LOC-HSCA-003A`). | Agency-supported self-production is possible for Saki in this track. Ume has a preference; the compensation comparator is branch-gated and does not establish a hiring rule. |
+| C1 @ U1 | Sena leads and produces Begrazia, plans to leave idol work, then reverses herself after the unit result. Ume reminds her that graduates cannot enter school events (`LOC-HSCA-004A`, `004D`). | Unit member, producer and student eligibility have separate conditions. Sena does not disclose a plan that resolves the future roster. |
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+| system ID | English label | Japanese | scope | explicit rule/fact | primary evidence | continuity role |
+| --- | --- | --- | --- | --- | --- | --- |
+| SYS-R86-100P-INTAKE | 100 Pro intake | 本所属 / 仮所属 | E028 | Rinami describes September and January full-affiliation opportunities and continued lessons under provisional affiliation. Tsubame separately reports direct scouting can occur at the festival. | E028/01 M004–008, /04 M027–030 | The relationship between direct scouting and the exam stays open. |
+| SYS-R86-EXTERNAL | Six Major Auditions | 六大オーディション / 完全制覇 | D-KOTONE, D-SENA | Asari distinguishes external tests from Hatsuboshi's title. Winning all six is `完全制覇` read `グランドスラム`, for which Asari says fans confer a special title. | D-KOTONE 029 M074–078 and D-SENA 029 L240–251 | Count wins separately by route. Neither five aggregate school wins nor one Triple Crown equals a Grand Slam. |
+| SYS-R86-DUAL | Active performer and producer | プロデューサー兼トップアイドル | D-SENA | President Juo expressly accepts Sena's dual role after her external results. | D-SENA 028 L428–530 and 033 L010–023 | Before winter outcome, individual institutional concession. |
+| SYS-R86-WINTER | Winter H.I.F. evaluation | 選抜試験 / ガラクタロード | P3-SENA explanatory fragments | Asari describes tightened three-test selection, unified solo/unit entrance and the final's prescribed/free rounds and combined judgment. | `adv_pstory_003_jsna_world-explanation-selection.txt` L007–111, `world-explanation-final.txt` L007–100 | Described P3 procedure. Keep individual result states scoped. |
+| SYS-R86-COUNCIL | Student council handover | 次期生徒会長 | E028, Kanae 000, M-CHINA 018, D-TSUBAME | Sena and Tsubame discuss China receiving work, China wins an election and explicitly distinguishes president-elect from incumbent, and Tsubame arranges rehearsal access. | GKM-R86-03, 04, 05, 08 | Stages of handover and separate witnesses. |
+| SYS-R86-PRODUCTION | Student and sponsor co-production | 大型タイアップ / コンセプト | E027→E030 | Sponsor requests student perspective. Sena includes a nonmember, then delegates concept and recruitment to Lilja. | E027/01 M007–020 and /04 M039–050, E030/01 M014–034 | Specific campaign. |
+| SYS-R86-ASARI | Producer Course mentorship | 先生 / 卒業 | support 3-0099 | Asari states teaching purpose and continued responsibility until graduation. Producer reports past 100 Pro employment. | 3-0099_01 L019–087 and _03 L019–030 | Prior professional name remains unverified. |
+
+## Source Lock 1.2 — transcript refresh, 2026-11-15
+
+| system ID | English label | Japanese | scope | explicit rule or statement | principal evidence | continuity use |
+| --- | --- | --- | --- | --- | --- | --- |
+| SYS-R88-TRANSFER | Idol Department transfer | アイドル科への転入・転入試験 | Kanae Dear 001 and P1 school | Producer says anyone may attempt and passing is rare, for those who show potential for progress. Kanae must pass herself, then enters third term. | `adv_dear_hkne_001.txt` L322–329, L496–501, L572–583; `school_004` L7–17 | distinguish family sponsorship from examination and the later advancement test |
+| SYS-R88-ADVANCE | Year-end advancement | 学年末考査・進級 | Kanae Dear 002–009 | Practical benchmark in `初`; Producer says failure to reach it means repeating the year. Headmaster allows scheduling change on request. Kanae reports a pass. | 002 L345–370, 008 L558–568, 009 L311–322 | does not pick a P1 result branch |
+| SYS-R88-DUAL | Simultaneous production | 同時プロデュース | Kanae Dear 010, separate P1 school_010 | Producer reports China's consent and cites Sena. Asari flags the workload. Kanae asks to divide supporter tasks, including fan newsletter work. | 010 L16–31 and L212–235; `school_010` L8–25 and L74–90 | actual dual assignment in these scenes; no general policy or realized synergy inferred |
+| SYS-R88-CARE | Hiwatari service and training | 近侍・従者 | Kanae Dear and Produce | China describes family service as a path chosen freely. Kanae chose a training school and says she willingly performs the tasks. | 001 L344–350 and L508–547; `activity_014` L33–109 | voluntary attachment is compatible with inherited expectations and disciplined labor |
+
+## Source-to-analysis audit corrections — 2026-11-15
+
+These rows mirror the corrected [side-character synthesis](../06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES.md), cores and readings. A row that names an earlier row governs it; the earlier row stays as issued. Claim transitions are in the [claim-revision ledger](GKM_LEGACY_CLAIM_REVISION_LEDGER.md#source-to-analysis-audit-claim-revisions--2026-11-15).
+
+| system ID | English label | Japanese | scope | explicit rule or statement | principal evidence | continuity use |
+| --- | --- | --- | --- | --- | --- | --- |
+| `INST-NIA` (annotation) | N.I.A. as gateway | 出場権を獲得するための登竜門 | D-RINAMI | N.I.A. is described as the gateway to H.I.F. entry | `adv_dear_hrnm_011.txt` L15 | annotates the base `INST-NIA` rule (GKM-SAA-225) |
+| `INST-NIA` (origin) | N.I.A. planning | — | D-SENA; D-MAO | the headmaster says N.I.A. was co-planned (not co-founded) by Kuroi and his son, outside his own control; that the son is `十王社長` is an inference; in D-MAO Gekka names 961 Pro as organiser. *Delta (verifier fix V5):* the headmaster says only `わしら4人` (L49); the Producer lists `十王社長` among the four (L51), and the headmaster does not correct him (L52) | `adv_dear_jsna_012.txt` L15–L19, L49–L52; `adv_dear_amao_018.txt` L250, L284 | route-scoped attributions, not one institutional history (GKM-SAA-033) |
+| `INST-NIA` (convention) | top-idol abstention | 暗黙の了解 | D routes | top idols abstain from N.I.A. by tacit understanding, breached in D-SENA and absent in P2[SENA]; class-3 exclusion is one Producer's expectation | `adv_dear_jsna_011.txt` L18–L26; `adv_dear_hume_012.txt` L75 | an unwritten convention, not a rule (GKM-SAA-034) |
+| `INST-CLASS3` | class 3 of each idol-course year | 3組 | D-TEMARI | each idol-course year's class 3 gathers students with special circumstances: active idols, idols of agencies other than 100 Pro, scouted special students; Rinha is the one non-active special student | `adv_dear_ttmr_011.txt` L5–L34 | C1 @ D-TEMARI (GKM-SAA-034) |
+| `INST-100PRO-NETWORK` (update) | 100 Pro identity | 100プロ (じゅうおうプロ) | cross-route | 100 Pro is read `じゅうおうプロ`; its president `十王龍正` is Sena's father and the headmaster's son; `ガラクタロード` is called 100 Pro's signature song | `adv_dear_atbm_003.txt` L196; `adv_dear_ttmr_011.txt` L22; `adv_cidol-kllj-3-018_03.txt` L45 | the earlier "exact role is not specified" holds for contracts, judging and H.I.F. authority (GKM-SAA-033; NPC entity merge) |
+| `INST-961` / `INST-GOKUGETSU` | 961 Pro and 極月学園 | 961プロ / 極月学園 | D routes | funding or founding of Gokugetsu by 961 is attributed and varies by track; 961 does not employ producers (the Producer's line, C3); Hatsuboshi teaches a course on 961-style production (D-CHINA); Kuroi is `理事長` of Gokugetsu and recruits for 961 Pro | `adv_dear_atbm_012.txt` L125; `adv_dear_amao_013.txt` L180; `adv_dear_hume_016.txt` L38; `adv_dear_kcna_010-01.txt` L83, L112 | external-institution rows; "961" was absent from this ledger before this date (GKM-SAA-035) |
+| Kotone institutional/labor update (revision) | formal support before Producer intervention | 奨学金 / 支援金 | D-KOTONE; U1 | producer assignment eases scholarship and support-fund conditions; refinancing combines academy systems and an expert; P-course grades depend on the idol's success | `adv_dear_fktn_003.txt` L102–L104; `011` L182–L187; `001` L102–L103 | partly answers the Phase 3 Kotone open question "what scholarships/formal support were institutionally available before Producer intervention?" (GKM-SAA-191) |
+| Hiro deltas: crisis as production technology (revision) | stakes in the H.I.F. crisis | — | D-HIRO | the stakes the Producer sets are career and dream/hobby stakes; the relationship stake is Hiro's inference, tacitly accepted; Dear 037 proposes the method only this time | `adv_dear_shro_028.txt` L204–L248; `037` L194–L209 | replaces "credible reputational/relationship stakes"; normative status stays OPEN (GKM-SAA-017) |
+| Hiro deltas: measurable ability vs charisma (revision) | conventional skill and `神格` | 神格 | D-HIRO | low conventional skill rests on the Producer's fitness data and 0% odds; `神格` is coined by fans and the Producer before Sena converges; Sena's 4→400 is a comic personal `特技`, not an institutional verdict | `adv_dear_shro_021.txt` L263–L364; `022` L257–L409; `023` L412–L463 | replaces "Sena low current rating plus `スター性/カリスマ/オーラ/神格`" (GKM-SAA-018) |
+| `SYS-SUMIKA-04` (revision) | developmental distance control | — | D-SUMIKA | the Producer's authority works through controlled distance and through stage-managed crises (withheld live notice, re-armed expectation, conceded sudden live, pre-arranged Lilja); counterevidence: he denies foresight and gives a consent assurance | `adv_dear_ssmk_009.txt` L25–L41; `024` L104; `026` L121–L126; `027` L37–L138, L263; `031` L523 | extends the CIDOL 012-only basis (GKM-SAA-077) |
+| Senior escort program (annotation) | concurrent installments | — | E018 | program installments can run concurrently, not strictly in series | `adv_event_018_main-01.txt` L186–L209 | annotates Events 013–020 §13.1 (GKM-SAA-269) |
+| `INST-PLURAL-MERIT` / `LOC-INST-020` (scope) | lesson variant | 技術が高いアイドルはいますが | P3-C[SENA] lesson variant | `LOC-INST-020` is a lesson variant for Sena's Producer (`school_1-006-02` L13); the SL1.0 `-02` variants presuppose a P3-C[SENA] run | `adv_pevent_003_cmmn_school_1-006-02.txt` L5, L13, L54–L64 | the plural-merit doctrine keeps its other evidence; this locator is scoped (GKM-SAA-116) |
+| staging-level curriculum (pointer) | lesson and rest staging | — | P3 lessons; Tsubame rest step | AV-C staging items are routed to the Carbon queue; no institutional rule is promoted before observation | `produce_lesson` star objects; `adv_pstep_001_cmmn_before-rest-01-atbm` L1 | deferred (GKM-SAA-289) |

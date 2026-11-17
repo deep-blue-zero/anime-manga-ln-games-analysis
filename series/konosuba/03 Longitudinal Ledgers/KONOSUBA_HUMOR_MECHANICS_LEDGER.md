@@ -1966,3 +1966,205 @@ Shared harem framing does not assign each companion a voice or private motive. T
 [cohort23 individual index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) separates Yuiyui's smiling minimization from actual unwanted restraint and heard objections. The comic household sequence does not supply consent, an accomplished intimate outcome, harmlessness or retrospective repair. Hyoizaburoo's intimidating-to-welcoming shifts are bounded by genuine gratitude, material concerns and a particular refusal concerning Komekko. Repeated craft defects are largely daughter/editorial reports, not a new watched catastrophe every time they are mentioned.
 
 Pucchin's low practical/high theatrical points, plated-wood revelation, theatrical entrance and delayed rescue make display preference visible while real teaching and actual magic remain. Fantasy mechanics are not automatically nonliteral H4. Pupil cheers, Megumin's diagnosis and teacher self-presentation are distinct planes. Classification remains local across H1 literal/H2 amplified/H3 gag/H4 nonliteral and separate from uncertainty; no blanket person classification resolves it. Successful intervention, later practical aid or a warm graduation reading cannot erase delay, discipline or appropriation. The twelve English diagnostics are informed examples, not source events or new comedy-class evidence.
+
+
+## Cohort24 — Crimson village work and staff, source-known scope
+
+Leading shop without a competitor, a long-awaited audience for introductions, theatrical work spells and a rifle used as clothesline juxtapose performance with ordinary material purposes. The jokes retain real cloth hazard intervention, performed agricultural effects, active crop resistance and customer harm. Near shop collapse is a counterfactual warning; no Explosion is cast in the diner. Menu deity/dragon labels are rhetoric, not literal sacred food; fantasy participation is not automatically H4 (CC01-CC08,CA01,DI03,FA01-FA03).
+
+Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md). The shared known-source union is 1,149 BASE slots/7 text members/4 text objects, including context, blanks, other actors and rejected joins; no fresh whole-source, ruby, residual, image-set, admission or independent validation credit. Earlier models, scores, firsts and prospective missingness remain unchanged. Canonical receiving is complete for this candidate only; exact containing publication/full program remain pending.
+
+
+## Cohort25 — chief, Sylvia, trial machine and castle courier
+
+False identity,performed introductions,interrupted speeches,teleport feints and an interrupted finishing line organize these scenes. Their being staged jokes does not make the actual pursuit,restraint,injury or burning nonliteral. A performed deception within the fantasy world is not automatically H4; rhetorical amplification and uncertainty remain separate from whether an action occurs. Later village rebuilding does not erase destruction or extermination threats. No global humor-code reassignment is made.
+
+Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+Interrupted access phrases, exaggerated self-worth, paired spectators, disguise recognition and a game-like efficacy line organize comic scenes. Neither fantasy embodiment nor uncertainty is automatically H3/H4. Real restraint, hot metal, failed cooling, recipient objections and continued harassment remain attributable within the comedy. One harmless punch or invitation to strike does not establish enjoyment of all painful injury. No global humor-code reassignment is made (AG26-08,12–18,22,25,28).
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Detached-head reversals, an infiltrator trapped by her own obligations, an investigation reversed by explosive mushrooms and an ambitious undead denying desire produce different local comic mechanisms. Actual killing, poisoning, unwanted exposure, physical coercion and the invasion remain consequential. A near-death image, a dream about Serena, a projected past and diary erotic fiction retain their planes; none is a fresh live biography. H3 means local gag contingency, not uncertainty; fantasy embodiment alone is not H4. Useful defense and later revival do not supply consent or erase earlier harm. No global humor-code reassignment is made (BE27-04–07, 13; SE27-06, 13, 16; LO27-01–07; DU27-01–03).
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+Status reversals include an overrun host, a bought wedding disrupted by actual payment, a cheap devil revealed as a separate powerful agent, a spy absorbed by work, and a father distracted by pride. Their mechanics require actor-specific information. The guard's final warning relies on K's counterfeit voice; the rumor is not Darkness's performed conduct. Marines's refusal of a rematch remains real. The manager's distress contradicts K's claim that only rulers suffer. No joke erases coercion, broken arms, servant injury, cracked windows or the trampled/revived adventurer.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Barton's ill-timed lessons and honorific gates depend on task mismatch and status, not universal ignorance. His actual fear and contribution survive the joke. Zereschilt's exterior/status reversals permit both harmful spectacle and coercive victimization; threatening the opening is not a fair test. Sylphina's Mama misunderstanding is sustained by adults despite the cousin correction; her laughter or apology does not endorse their adult meanings. Barbera's distant scene ends without a heard reply.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+FD's cool singer/filthy room, shy Archpriest/physical force and confident Ranger/missed check operate through typed mismatches. They do not erase unwanted contact, privacy objections, injuries or resource costs. Charlie's fan fixation can defeat secrecy and produce hurt; his bodily precaution prevents a universal painless-masochism reading. Daniel's pomp and powerful weapon coexist with small ambitions, actual destruction and self-injury. A comic defeat does not establish permanent enemy deaths, while a reunion does not backdate assent.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Edited replay comedy uses prince/low-rank and priest/scroll-role mismatches, health-based harmful gratitude, frightened but effective protection, desired attention with disappointment, and small undead as a bounded practical questioner. Froger kingship is a misheard wish and park language is openly coauthored; Goran secrecy clashes with forced confession. Comedy does not erase pain, coercion, cost, uncertainty or defeated plans. Plans, jokes and GM additions are not independently observed repetitions.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+The treasure competition, kicked-away catalyst and bilateral barrier expose mismatched aims or mechanisms while preserving fear and cost. The leader gift-modesty formula is taken literally by a threatening superior; skin has different value to giver, admirer and Wiz. The small worker idealized romantic advocacy becomes participation in criticism after a cruel reveal. Vendor misunderstandings and contractual reversals retain actual coercion, opportunism and material claims rather than erasing them as jokes.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Useful flattery changes into a class/wealth comparison; authority is invoked before its local means work; a spoken threat reverses at a hand gesture. These are actual fictional choices, not automatic nonliteral exemptions. The inn woman's actual snack loss coexists with response-seeking labor solicitation. Crane's written payment framing does not establish consent. Beat and Clarice's welcome is real, as is Yunyun's wanted opportunity and Megumin's role in its loss. Comic timing does not erase ownership, fear or consequence.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 34 individual receiving — 2026-10-24T12:23:53.695527+00:00
+
+Lucy’s sharp farewell after being punched preserves dignity while the actual departure continues. It does not turn retaliatory faith into uniform pacifism or grant a new curse. The forest chapter’s detector loopholes, failed offers and returning-witness accusations are actual acts with stakes, while poisoned insults constrain purely optimal bargaining. In the bonus, Kazuma’s embarrassed voicing and Aqua’s comic misreadings belong to their performances, rather than proving Darkness’s preferences or Biflantz’s intentions.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+Repeated grievances, Dust’s defensive distinctions, frightening smiles and the failed church inquiry form the comic sequence. Reported and present violence retain their consequences. Fourfold displayed shouting is not an audited count of people, and the comedy supplies neither a uniform clerical personality nor proof that Dust’s memory denial is true.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+Dragon grandeur is repeatedly set against chick/rooster behavior,staged training display and domestic disturbance. The table strike locally startles Zel before a peck; that cause is not a universal theological hostility rule. Interpreted escape/refusal clucks remain a human performance,not verified translated bird dialogue.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+The courtship/work confusion depends on referent and access rather than fabricated original love. Aqua successful-looking seduction is paid drink/trivia/hostility rapport. Actual lich upgrade immediately worsens Duke matchup. Plant innocence-like response and food-threat fear are literal within the fantasy scene;comedy supplies no reset,eaten plant or harmlessness exemption.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort38 Perie and selected Dust06 roles — 2026-10-24T17:10:38.125614+00:00
+
+Fashion criticism draws anger and later narrated discouragement;redness alone does not establish embarrassment about the dress. Mission monologues are repeatedly interrupted,including actual paralysis and forced drinking. Later participation does not authorize the earlier coercion. Perie blame of her superior is punctured by her own reported assignment takeover. Comedy supplies no consent,completed sexual act,harmlessness exemption or automatic reset after the severe combat outcome.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort39 Rouzeri,store owner and helmeted noble — 2026-10-24T19:06:19.622893+00:00
+
+Military-manager complaints,age protest,stock/lunch disputes and object-associated delight depend on actual stakes and information. Rouzeri civilian threat and coercive recruitment remain harmful. Noble held hand/continued approach after withdrawal remain actual violations;comic framing supplies no assent. Dream-revealed infiltrator episode is not an actual assault on Leen. Gear packing is not completed return,and battle fall is not a checked permanent death.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort40 Doreck, Gaibil, Bridol king and head butler — 2026-10-24T21:08:27.831290+00:00
+
+Envy performance, king child-exchange offer, maid weapon escalation and butler work-relief comedy preserve actual pressure and refusals. King offers Feit and added money;Dust refuses. Forced handling, confinement, bound uninformed princess, Rionor ring shock and dangerous battle remain harms despite comic or romantic framing. Later private agreement and royal lenience do not retrospectively establish consent.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort41 — documentary makers, plants and encounter partners — 2026-10-24T22:38:34.409784+00:00
+
+Scientist plausible accounts become unwanted obligations;dog/snake design and non-electromagnetic railgun naming preserve real technical limits. Roadside plant repeats an emotional farewell before a fluent appetite reveal;lake bargaining secures fruit before failed intercession. These comic structures do not erase coercive work,destructive satisfaction,guard wasting,Yunyun actual unconsciousness or killing. No new H/L frequency denominator or automatic paratext/fantasy code is assigned.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+Abduction discussion becoming preference debate, demanding a feared binding and useful reward-supported rescue are different reversals. They do not erase intended coercion or Dust sexual threats/imposed exposure. Vanir plus two linked shells perform apparent three-police rescue; they are not three new human officers. The girl receipt/address reversal and bath watcher explanation have actual outcomes, unlike unperformed promises.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+The visiting quartet’s parallels do not make them aliases or transfer the principals’ psychology. Rank reversal, excessive heroic credibility, the veteran’s rule inconsistency and the diary/adoption interruption are distinct comic mechanisms. Their comedy does not erase threats, invasive requests, coerced contact, purification or unresolved parentage. No new H/L census or selected-sample denominator is claimed.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+Japan’s apparent operator/game misunderstandings do not create imaginary people. Bounty logic turns tiger beauty into hunting interest; it does not establish actual pelt harm in the episode. The storm’s anticipated clothing gust is prepared but canceled, not a completed mass-exposure event. The dinner food reveal turns immediate hospitality into a dispute over fairy treatment, with household claims, other suppliers and mediated whispers kept distinct. Comedy does not erase coercion, predatory statements, hostage danger or unresolved custody. No new H/L census or denominator is inferred.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort45 — Yorimichi 3 individuals and supporting roles — 2026-10-25T07:34:24.234913+00:00
+
+The noble denunciation reverses its apparent moral evidence: wrong identity, false harassment/childhood accounts and threatened status shape the actual weddingU01839–336. The pupil enjoys dubious history as fiction but imitates performanceU018316–318, so good grades and adult objection coexist. Melvirei's usefulness creates party-role competitionU018395–427 without proving a decoded strategic inner monologue. Every time route brings Aqua for particular interactional reasonsU020136/465/652; alternative prosperity actually works714–724 before familiar-person preference matters. Repetition is not a proved destiny mechanism or independent test series.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+The observer thinks she is hidden while the party already knowsU0163-14. The purported summoning ritual fails384-399 before the previously booked worker arrives401-408; later arrival does not prove supernatural summoning success. Angie broad class/senior script misreads this party while her actual field contribution remains real. The Satanists desired recipients differ from the devil imagined taskU016489-556. Embedded revenge/theater talesU01425-103 are narrated fiction references, not ordinary new inhabitants. A warm final ghost-story wishU020511-540 does not complete future safety, public gratitude or all causal repair.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+The transfer choice reverses Aqua's administrative position MAIN01U013130-147; the angel's promised later reward does not perform Kazuma's wealthy-return fantasy149-150. Heidel corrects Sebastian misnaming MAIN06U013348 and later practical assent can support Kazuma's self-serving guest interpretation MAIN11U012184-191. The joke does not erase Darkness's objection or create accepted entry from the later rejected anonymous-cake report214. The lip-read crew panic MAIN17U011124-129 is mediated by Kazuma, whose provocative rendering134-139 differs from raw wording.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+The dungeon rescue is also a successful sale227/239,while Stella mistakes a devil for a humble divine rescuer234-249. The boss owner offers tea486 and later contemplates tomatoes rather than staging a duel. Intimidating summoned bodies453 give way to workload/clothing complaints456-459 and Kazuma loss of fear460. Amaryllis frightening performance changes into courteous conversation321-328; the fabricated biography remains a lie with actual frightened listeners,not harmless consent supplied by comic framing. Humor does not complete retirement,pet recovery,teleport negotiations or every character private motive.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+Gatekeeper interruption,regeneration and failed attrition combine actual capacity with refused ceremonial turns. Kazuma embellishes one lip-read insult134–135,while142 contains genuine derision. Pain’s friendly-fire scene includes actual Logia death and his own distress;comic framing does not remove harm. Mammon’s public fear denial follows anxious information gathering;his later corpse does not isolate its killer. The king’s elevated identity yields to managerial grievance and uncertain bargaining;withheld explanation is deliberate retaliation388. Ending logistics and Eris’s epilogue misapprehension are corrected by living Teleport,not another death.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+The shooting operator's police appeal reverses onto his stall; the butcher's alleged leading-question trap follows Cecily volunteering the rumor. Pub-manager clipped dismissal frames an interrupted explanation. Tea-service repetition punishes an apparently innocent worker, so comic repetition does not multiply performed blows. Voice imitation changes the interceptors' apparent count-in; Decoy redirects their real attack. Embedded lord fiction, creator modal sketches and approaching sounds retain different access from performed main-setting actions. Comic presentation does not settle identity, consent or casualty outcomes.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C51/C52 — expectation correction, enterprise comedy and scripted reversals
+
+**Source class/phase:** retrospective consolidation of already admitted artbook/fanbook components and TRPG guide/reference/scenario material. The [C51](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md) and [C52](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md) indexes own the observations; no selected register is replaced or enlarged by a fabricated census.
+
+The Medusa story makes the expected novice dungeon into a business whose environment defeats its assumptions. The owner's defensive self-presentation, genuine note-taking, surprise about toilets and selective recoil let learner and harmful enterprise coexist. Kazuma's apparently useful instruction becomes alarming through its methods, while the teacher–pupil relation becomes an urgent rescue demand after the warning. The final prose threat remains uncompleted. A separate comic blast cannot serve as its punchline outcome. (FAN-MEM S096–099.)
+
+The Core newcomer repeatedly updates game/heroic expectations against ordinary circumstances: Megumin's eyepatch is decoration, friendly help comes with a written500-Eris offer, the composed knight reacts avidly to a beating account, and shared lunch does not include being treated. The newcomer supplies tact and selective appraisal rather than serving only as an inert reader surrogate. The interrupted punch and later forgiveness have different states; neither supplies a completed beating. These mechanisms can be described without assigning a fresh H/L code. (CORE S252–262.)
+
+Okina combines specialist knowledge with forgotten trap placements and a reported tourism plan defeated by its early schedule. His proposed extra traps repeat the tension between protecting the resource and safe access. The later breakfast offer does not cancel deductions for tasting. Boren's fair-fight appeal protects a device sustaining his own advantage; his command claim reverses when control loss permits the tank to strike him. The machine's target processing explains the supplied action without a personal sense of irony or revenge. All player outcomes remain branches. (CORE S303–305/S312; ADV S300–310.)
+
+Recomposed Main04/Cheers images remain one represented asset/event lineage; wishes, card roles and reference images are not additional performed episodes. Source eligibility and uncertainty are separate from H codes: H3 requires behavior contingent on the local gag, and H4 does not follow merely from a static imagined scene or fantasy setting. Existing Blessing H3 records and their later warrant qualifications remain intact. Whole-premise portability and Japanese-form dependence also remain separate: an ordinary idiom's literal mistranslation does not by itself earn L3. Existing L/H codes, selected sample boundaries and J02 denominator limitations are preserved; this appendix introduces no new frequency result or code reassignment.

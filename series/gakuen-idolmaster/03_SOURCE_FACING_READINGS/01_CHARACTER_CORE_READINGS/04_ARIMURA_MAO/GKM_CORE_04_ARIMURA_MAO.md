@@ -18,9 +18,14 @@ source_lock: 00d150a069a3ffa723a1ff264752ba242024caad
 source_lock_generated: 2026-08-02 22:21:04+00:00
 continuity_policy: track_scoped_non_additive
 av_status: requested_not_integrated
+version: "2.1"
+revised: "2026-11-15"
+revision_note: "v2.1 applies the source-to-analysis audit 2026-11-15 (STRENGTHEN / REVISE / OPEN / PRESERVE; no claim rejected): adds §2.3a, §8.4a, §8.6, §12.5, §14.5, dated event and support integrations and the Phase-4/5 integration pointer section, and revises §2.2 wording, §2.8, §2.9, §8.5, §9.1, the §9.3 heading and §12.4, with earlier wording kept in place"
 ---
 
 # GKM CORE 04 — ARIMURA MAO / 有村麻央
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** This version applies findings of the source-to-analysis audit of 2026-11-15 (`GKM-SAA-nnn`) and residual historical-audit findings (`HSCA-nnn`). Earlier text is kept; each change is marked in place with its date and audit ID, and changed wording is quoted in the change note. GKM-SAA-001 (P1, in its reviewer-qualified form) adds §8.4a and revises §2.8 and §8.5; HSCA-011's abandonment-by-adults ground is merged into §8.4a. GKM-SAA-012 corrects the §2.9 anchor and sequence. GKM-SAA-055 revises §2.2 wording and adds §2.3a and a §13.3 note. GKM-SAA-056 and GKM-SAA-192 extend §2.3, §3.1 and §9.3. GKM-SAA-057 revises §12.4; GKM-SAA-193 adds §12.5. GKM-SAA-058 and GKM-SAA-076 revise §9.1 and extend §2.6, §9.3, §9.7 and §19. HSCA-010 qualifies §2.4; HSCA-013 corrects the §9.3 heading. GKM-SAA-194 records the romance-coded evidence base as OPEN in §8.6. GKM-SAA-196 and HSCA-102 add §14.5. Under the owner's integration decision, numbered-event and support-story evidence (GKM-SAA-104, GKM-SAA-108) enters §2.8, §4.4, §6.1, §6.3, §6.4 and §9 as dated passages, indexed in the Phase-4/5 integration pointer section before §19. Transitions: STRENGTHEN, REVISE, OPEN and PRESERVE; no claim is rejected. Locators: `L` is a physical line of the raw A1 script under `transcripts_raw/`; D-MAO chapters are cited as "Dear nnn", other objects by original name. A1 was re-read for every cited locator; no audiovisual evidence was used. The companion evidence matrix records the claim dispositions.
 
 ## 0. Executive thesis
 
@@ -139,6 +144,8 @@ This pass does **not** settle:
 - the complete numbered-event account of Mao's seniority and institutional legacy;
 - whether every romantic beat in the Producer route establishes a singular canonical romantic status.
 
+**2026-11-15 note (GKM-SAA-104, GKM-SAA-108, GKM-SAA-194).** The support-card and numbered-event items above are no longer wholly outside this core: dated passages now integrate the event and support evidence that bears on Mao, indexed in the Phase-4/5 integration pointer section before §19. The romantic-status item stays OPEN; §8.6 records its textual evidence base without adjudicating it.
+
 This is a source-facing core, not the Phase-7 definitive monograph.
 
 ---
@@ -161,7 +168,7 @@ Dear 003 names the rupture directly:
 >
 > `体は変わっても、心は変わらない。`
 
-The second statement is Mao's attempted defense against the first. Her body changes in ways the old casting system no longer reads as compatible with her prince/boy niche. She also does not achieve the height she associates with the role. She is no longer selected for the same work and eventually leaves the child-actor path.
+The second statement is Mao's attempted defense against the first. Her body changes in ways the old casting system no longer reads as compatible with her prince/boy niche. She also does not achieve the height she associates with the role. She stops receiving child-actor work and is dismissed from her troupe (`劇団もお払い箱になっちゃいました`, Dear 003 L92; `役者をお払い箱になったボクは`, `adv_cidol-amao-3-007_01` L96). *(2026-11-15, GKM-SAA-055: REVISE wording. The earlier text read "She is no longer selected for the same work and eventually leaves the child-actor path." In both tracks Mao reports that she was let go, not that she left.)*
 
 This should not be flattened into “Mao dislikes being a girl.” The text supports a more bounded proposition:
 
@@ -189,6 +196,24 @@ She drinks black coffee despite disliking bitterness because it seems cool. She 
 
 This is why the prince functions for a period as both aspiration and `呪縛`.
 
+**2026-11-15 addition (GKM-SAA-056, GKM-SAA-192): STRENGTHEN — the avoided star and the mechanism of avoidance.** The communication track names the admired revue star as 龍月真希: the Producer gives the name, and Mao's inner speech confirms that she is the person who first drew Mao to the revue world (`adv_cidol-amao-3-015_01` L122–L123). The two Mao-owned versions are not additive. In D-MAO the star is unnamed; she has retired from the revue to become an actress, and Mao says she was disappointed and deliberately avoided the star's films and dramas, then watches one with the Producer and finds the star still cool (Dear 010 L267–L291, L320–L333). In C-MAO 015 Mao has watched all of the star's films `あれから` but hesitates to watch her on stage with troupe Planetarium (015_01 L114, L155–L160). The marked `あれから` may point back to a viewing like Dear 010's, but that cross-track sequence is inference. P1 `after-step-2-normal-02` mentions an unnamed admired stage actress who has retired (L107–L114); identity with 龍月真希 is probable, not stated.
+
+C-MAO 015 also supplies the inner mechanism that this section previously stated only as avoidance. In a dream staged as a nightmare, the child tells her mother `わたしも王子様になるっ！` (015_01 L13); the later, ボク-speaking Mao renounces plush toys, toys and the sweets she loved, and ends with `王子様を辞めてしまった、／あの人も――` / `――もう、イラナイ。` (L31–L37). Awake, Mao tells the Producer that she resented the star, who left the revue just as Mao's own work collapsed, while knowing the feeling was selfish (`恨みましたよ。ボクに夢を見せたのは、／あなたなのにって。`, 015_02 L179–L206). She ends by claiming even the painful years as her own (`――ボクのものだから`, 015_03 L104–L109). Counterevidence: D-MAO frames the feeling as disappointment, not resentment, and resolves it within Dear 010 (`ボクの憧れは、ずっと、／憧れであり続けていてくれた`, L333). A support story keeps the wound open in an ordinary scene: Mao tells Ume that she still plays the prince to be as cool as someone she once admired, and envies a person whose admired figure remains an aspiration (`adv_csprt-3-0078_03` L136–L151). The cidol 015 dream and the support scene are C2/C4 evidence and are not placed in the D-MAO calendar.
+
+## 2.3a Hatsuboshi years 1–2: substitute vocation and stalled ambition (2026-11-15, GKM-SAA-055)
+
+STRENGTHEN. §2.3 and §2.4 move directly from defensive princehood to the Producer's intervention. The intervening story state, assembled from several tracks and kept track-labelled, is:
+
+- **Enrolment as substitute vocation (C-MAO 007).** After the troupe let her go, Mao gave up the revue-prince dream but not her longing for the stage, and entered Hatsuboshi `すがるような気持ちで`, feeling she owed an apology to students who seriously wanted to become idols. Watching the seniors sing `Campus mode!!` at the first welcome party dispelled that feeling and made her believe she could become a prince again (`adv_cidol-amao-3-007_01` L96–L157; see §13.3).
+- **Declared first-year ambition.** In a support story the newly enrolled Mao tells Rinami she will become Prima Stella at Hatsuboshi (`adv_csprt-3-0051_03` L99); in E013 she introduces herself as someone with no idol experience who will nevertheless become a top star (`adv_event_013_main-01` L286). Both are C2/C4 relative to D-MAO.
+- **Stalled results.** In D-MAO she entered the previous N.I.A. with poor results (Dear 011 L18). In E021 she did not reach the main stage of the H.I.F. held in her second year, with a year still left (`本選にすら上がれなかったボク`, `adv_event_021_main-04` L199). In a support story she has had no chance to perform `Campus mode!!` in three years (`adv_csprt-3-0044_02` L70).
+- **Self-description.** She speaks of three years `くすぶっていた` (Dear 010 L39) and calls herself `3年生の落ちこぼれ` (`adv_cidol-amao-3-015_03` L235).
+- **Withdrawal from idol work.** Asari tells the Producer that Mao does almost no idol work and declines every scout offer (Dear 002 L225–L230). Mao is refusing offers here, not being refused; this fits §8.1's account of her distrust of adults who would overwrite her dream.
+- **Near-abandonment before the Producer.** Mao's inner speech in Dear 001 says she had almost given up (`諦めかけていたけど`, L260). Unconditional P1 ending text repeats the near-abandonment (`ending-normal-04` L69–L73; `ending-true-01` L87); only P1 `after-audition-final-failure-01` branch 1 adds that she would also have left the academy (L51–L53).
+- **Third-party and later testimony.** The dance trainer's inner speech records three years of effort since first year (Dear 021 L108–L124). In a 100Pro scene without the Producer, Sena tells President Juo (Ryuusei Juo) that Mao had ability from three years of effort and acting experience but seemed to suffer in being an idol (Dear 024 L147–L172). In Source Lock 1.1 D-TSUBAME 031 Mao herself says that, soon after entering, she recognized the gap, looked away from Sena and Tsubame as `特別`, and never stood on the stage where they competed (`adv_dear_atbm_031` L213–L225; C1 within D-TSUBAME).
+
+C-MAO 015 reclaims exactly these years as necessary to her shine (`ボクの初星での3年間も、／ボクが輝くための大切な時間だった`, `adv_cidol-amao-3-015_03` L72–L81). Counterevidence and limits: most of this is Mao's retrospective self-report, and the cross-track items are C2/C4 and do not form one D-MAO calendar. The core already recorded pre-Producer self-hatred (§2.6) and the `Campus mode!!` origin (§13.3); this subsection supplies the missing story state between them.
+
 ## 2.4 Producer intervention: separate ethical coolness from visual category
 
 The Producer chooses Mao after seeing her give her umbrella to a junior and run through the rain. Before any contract, he has already read the “prince” in conduct rather than appearance.
@@ -201,6 +226,8 @@ That reading becomes the conceptual lever of Dear 003–004:
 - but denying obvious cuteness makes the idol's self-presentation rigid and legible as strain.
 
 The provocative instruction to “become very cute first” should therefore not be read as a destination. It is exposure therapy against a category she has made synonymous with loss.
+
+**2026-11-15 qualification (HSCA-010): REVISE.** Dear 020 adds Mao's own account of where this conduct came from. She says her helping began as something she did in order to play the ideal prince, so it was for herself and not noble (`もともと、理想の王子様を／演じるためにやっていたことだから`, Dear 020 L75–L79). The Producer answers that, whatever the first motive, it has become her nature (L87–L90), and Mao concludes that the Mao who plays the prince is also the real Mao (L107). The Producer's Dear 003–004 reading therefore stands as his reading, but the claim that her conduct "was already cool before any stage pose made it so" (§0) carries this qualification: in D-MAO the conduct he admired was itself partly prince-performance in origin, and the route treats that origin as compatible with its later authenticity (compare §6.2).
 
 ## 2.5 P1 / STEP1: from opposition to combinability
 
@@ -235,6 +262,8 @@ The associated `Fluorite` communication deepens the point. The concept of `流�
 > `ボクと、みんなとの関係の中で、ボクらしさが生まれる`
 
 This is the core reason the mature Mao cannot be described by an authenticity-versus-performance binary.
+
+**2026-11-15 addition (GKM-SAA-058): STRENGTHEN.** Mao does not reach the `Fluorite` reframing alone. Rinami suggests that being carried along is not so bad and that the earnest Mao might let herself drift for once (`麻央は根が真面目だから、たまには／流されてみるのもいいんじゃないかな。`, `adv_cidol-amao-3-000_02` L144–L147); Mao's reinterpretation of `流れる` and her admission that she was rushing to make the song her own follow directly (L167–L178). Rinami acts as catalyst here, as she does in Dear 015, where Rinami reads Mao's expression as a wish to avenge Rinami's defeat and reminds her that an idol sings for the fans, and Mao agrees (Dear 015 L78–L99), and in E003 (§9.7). C-MAO is modular, and the scene is not dated against D-MAO.
 
 ## 2.7 N.I.A.: performance becomes mobile rather than fixed
 
@@ -279,11 +308,31 @@ She acknowledges that this may not be the wisest choice:
 
 The route therefore turns “Mao-ness” into a decision about production relations as well as image.
 
+**2026-11-15 revision (GKM-SAA-001, with GKM-SAA-057): REVISE — the 100Pro arc is two-sided.** The account above records Mao's decisive choice in Dear 025 but not how the rupture arose or who acted first. Dear 022–026 gives the sequence:
+
+1. The Producer tells Mao that his removal as her Producer is the condition of 100Pro affiliation, and describes his replacement as an experienced graduate Producer, `申し分のない` for her professional work (Dear 022 L360–L414).
+2. Mao invokes the promise (`約束したじゃないですか。`, L374–L377), insults him in Kansai (`ボケナスのドアホーーーーーっ！`, `アホンダラーーーーーっ！`, L439–L496) and leaves. The Producer's attempt to stop an idol using such language in public goes unheeded (L474).
+3. In Dear 023 Mao recalls the promise (`……そうだよね。約束したんだ。`, L489–L493) and sets off to confront 100Pro alone (`殴り込みにね`, L574). In Dear 024 she asks President Juo directly whether joining would mean losing her Producer (L255–L269).
+4. Meanwhile the Producer, asked by Asari what he wants, defers: `決めるのは、麻央さんです。／プロデューサーとして――` (Dear 024 L19–L22). Asari answers that the other first duty of a Producer is to dream the idol's dream and entrust his own dream to it (`アイドルの夢に、／きみ自身の夢を託すこと。`, L83–L90). The Producer then tells Asari that he promised to make Mao a cute, cool, invincible prince (L114–L120).
+5. In Dear 026, after accepting that `ボケナス` was deserved (L47), the Producer admits `あの時、俺は彼に即答するべきだった。` (L74–L75), and Mao answers that she will give up nothing, the Producer included (L95–L115).
+
+Observation: Mao acts before the Producer does, and the Producer was willing to step aside for her career. Inference: the arc tests the production relation from both sides; it is not only Mao's refusal of Ryuusei. Counterevidence and limits: the Producer's deference is brief and ends once Asari speaks; the rupture spans Dear 022–026 and is repaired; he remains the schedule and opportunity authority; his inner state is known only from his own Dear 026 admission. His Dear 026 deadpan (L47) allows a lighter, comic reading of the outburst; whether the performed scene plays as comic or serious is an optional audiovisual calibration and does not change the textual sequence. The promise itself is analysed in §8.4a, and the Kansai register of the outburst in §12.4.
+
+**2026-11-15 addition (GKM-SAA-104): STRENGTHEN — a numbered-event variant of the professional transition.** In E028 (Source Lock 1.1 numbered event, not dated against D-MAO), at the third-years' last school festival, Mao tells Rinami that she will of course sit the September `100プロ所属審査`, without knowing whether she will win full affiliation: `本所属になれるかは、わからないけど、／……食らい付いてみせる。` (`adv_event_028_main-02` L148–L160). This is a different route into professional work from D-MAO's scouting-and-replacement conflict: an examination Mao chooses to sit, with no Producer-replacement condition stated. It corroborates §11.2's point that Mao wants professional work; it does not date, extend or replace the D-MAO sequence.
+
 ## 2.9 Summer loss: visible recommitment does not equal emotional recovery
 
-Dear 027 is a crucial counterexample to simplistic resilience. Mao can frame the loss publicly as a step and still break down privately:
+Dear 027 is a crucial counterexample to simplistic resilience. Mao frames the loss as a step and still breaks down later in the chapter. *(2026-11-15, GKM-SAA-012: REVISE anchor and sequence; the conclusion is PRESERVED. The earlier text read "Mao can frame the loss publicly as a step and still break down privately:" and quoted L16, `負けたあああああああああっ！`, as that private breakdown.)* The A1 sequence is:
 
-> `負けたあああああああああっ！`
+1. an immediate, unguarded cry in the waiting room with the Producer, as soon as the headmaster announces Sena's win (`負けたあああああああああっ！`, L10–L16);
+2. composed forward framing to the Producer (`ボクたちが最後に勝つための、／大切なステップだから。`, L52–L57);
+3. composure at the dorm party (L336, L430–L434);
+4. grief in inner speech, framed around the Producer: she had wanted to tell him that they could go pro together now (`今すぐキミとプロになれるって、／言いたかったんだ……`, L501–L516, isInner);
+5. full collapse in the shared space after the party, when Rinami praises her stage (L528–L598). Mao has called Rinami her `戦友` earlier in the route (Dear 017 L165).
+
+Between steps 2 and 3, a white fade opens a 100Pro-exterior scene with Ryuusei Juo (L61–L117) in which Mao declares that they will win the winter H.I.F. (L79–L86). The dialogue places this scene before the summer H.I.F.: Ryuusei says he looks forward to it (L61), and the Producer says Sena cannot be beaten there (L99–L100). It is therefore a flashback inserted after the result, not a step in the post-result sequence, and Ryuusei is not present at L16.
+
+The breakdown therefore happens in front of Rinami, not alone, and the grief is tied to the professional future Mao wants with the Producer (§8.4a).
 
 This is methodologically important across Gakumas:
 
@@ -318,6 +367,8 @@ The problem is that Mao eventually turns one successful role-form into an ontolo
 > if I am not legible as that prince, I am no longer the person who could become what I admired.
 
 That is why body change becomes catastrophic.
+
+*(2026-11-15, GKM-SAA-056: STRENGTHEN.)* C-MAO 015 gives the child's declaration in her own words, `ママ、あの王子様、／すっごく、カッコよかった……！` and `わたしも王子様になるっ！` (`adv_cidol-amao-3-015_01` L9–L13), inside a dream staged as a nightmare in which the later Mao then renounces what she loved (§2.3 addition). The communication is modular (C2) and the dream is not literal memory, but its first lines match the D-MAO origin account (Dear 003).
 
 ## 3.2 Performance becomes harmful when it becomes compulsory ontology
 
@@ -426,6 +477,8 @@ The Producer repeatedly has to distinguish capacity from unlimited capacity:
 
 This creates a small but important parallel with her old prince psychology: **competence itself can become another image she feels compelled to maintain.**
 
+**2026-11-15 addition (GKM-SAA-104): STRENGTHEN / REVISE — final-chance identity foreclosure (E022).** E022 (numbered event, C2 relative to D-MAO; third year, before the summer H.I.F.) shows this risk at its most acute. The dance trainer tells Mao to stop for the day; she says she will continue a little longer and keeps training (`adv_event_022_main-01` L36–L77). Her inner speech calls the summer H.I.F. the last chance given to her as a third-year (L20) and turns the result into a verdict on her whole worth: `アイドルになれなかったら、／ボクにはもう……なにもないんだ` (L88–L92, isInner). Kotone finds her feverish and takes over her care (L172–L266); Mao later apologizes for ignoring the trainer's warning and failing, as a third-year who should be a model, to manage her health (`adv_event_022_main-03` L345–L353). Inference: the risk is not only endurance mistaken for wisdom. Under final-chance pressure Mao can treat idolhood as the only structure through which any valuable self remains. Limits: the foreclosure is a state within one event; the event reading itself asks the monograph to distinguish it from a stable tendency in all contexts (E021+ reading §3.1 and §17). The relative order of E013, E017 and E022 stays bounded OPEN (GKM-SAA-157).
+
 ---
 
 # 5. Talent and craft: Mao is not merely an image character
@@ -485,6 +538,8 @@ The Produce Events reinforce that she does not primarily instrumentalize these a
 
 This is strong counterevidence to a cynical reading of “prince” as branding.
 
+**2026-11-15 addition (GKM-SAA-104): STRENGTHEN — conduct toward a stranger (E022).** Kotone's memory of her entrance day gives independent event evidence. A senior she does not know, in an ill-fitting, prince-style outfit, insists on helping her search for her lost wallet until dusk and explains `ボクは王子様、だからね。` — she does not want a new student's first day to become a bad memory (`adv_event_022_main-02` L197–L352). The wallet is eventually returned through the office, not found by the search (L372). The scene is Kotone's memory inside a numbered event (C2 relative to D-MAO). It corroborates, from a junior's position, the conduct the Producer saw in the umbrella scene (§2.4): there is no audience and no promotional gain.
+
 ## 6.2 Yet helping also helps Mao like herself
 
 Mao is unusually self-aware about a secondary motive:
@@ -500,6 +555,8 @@ Mao explicitly says she is not as naturally effortless at care as Rinami. She ma
 This makes dorm leadership a form of repayment rather than proof of innate maternal perfection.
 
 The U1 intervention during Saki and Temari's escalating food fight is representative. Mao enters as authority, listens to Kotone's judgment that the conflict is important, temporarily permits it, and sets herself as the escalation backstop. That is small evidence of **bounded authority rather than immediate command**.
+
+**2026-11-15 addition (GKM-SAA-104): STRENGTHEN.** In E028 (Source Lock 1.1) Mao is coaching first-years in theatre and says that, as a third-year, she wants to leave something to her juniors (`3年生として、後輩たちに、／なにか残していければと思って。`, `adv_event_028_main-02` L124–L137); Kotone separately reports that Mao is teaching her theatre and comedy (`adv_event_028_main-01` L272). Seniority again takes the form of transmissible craft (compare §5.2 and E011 in §9.7).
 
 ## 6.4 Protector identity can suppress Mao's own needs
 
@@ -523,6 +580,8 @@ Examples include:
 - needing explicit permission to rest or receive care.
 
 Mature princehood therefore requires not only broader self-expression but **permission to occupy the protected position as well as the protector position**.
+
+**2026-11-15 addition (GKM-SAA-104): STRENGTHEN — the protected position (E022).** E022 partly answers §19's question of how often Mao receives care. Feverish, Mao refuses help so as not to burden anyone (`adv_event_022_main-01` L236) until Kotone overrides her (L248) and nurses her with the competence of an eldest sibling (L312–L333). Half-asleep, Mao calls for her mother and says she wants to become an idol (`adv_event_022_main-02` L66–L70), and asks for Akashi-yaki as her mother makes it when she is ill (`adv_event_022_main-03` L188–L221). Afterward Mao apologizes for burdening the dorm; Kotone answers that nobody thought it a burden and that the dorm students love her, and Lilja and Ume offer help (main-03 L345–L455). On the recovery outing Kotone calls Mao the `年上の友達` she has never had, and Mao is pleased rather than restoring hierarchy (`adv_event_022_main-04` L525–L567). The event shows Mao occupying the protected position and the dorm caring for its leader. It does not show her seeking that position unprompted.
 
 ---
 
@@ -630,6 +689,22 @@ By N.I.A. and the professional conflict, “Producer” and “fan” become del
 
 Ryuusei's objection is institutionally intelligible: professional work may need someone more experienced. Mao's response is not a proof that experience is irrelevant. It is a claim that production is partly **shared struggle and shared dream**, not just optimization.
 
+## 8.4a The promise as relational contract (2026-11-15, GKM-SAA-001)
+
+STRENGTHEN. The sections above describe the Mao–Producer relation as reading, authorship and fandom, but they do not name the device the route itself uses to bind it: the `約束`.
+
+**Origin and renewal (D-MAO, C1).** In Dear 004 Mao asks whether she can come to like her present self, and the only available reply is the Producer's vow, `――なれます／俺があなたを、好きにならせます` (Dear 004 L100–L102). In the same chapter he names the goal `可愛いとカッコイイを兼ね備えた、` / `無敵の王子様系アイドル`, and Mao takes it up as her own aim (L153–L181). In Dear 020 the Producer recalls the first-day promise to make her like herself and extends it; Mao seals it with `――じゃあ、約束ですよ。` and asks him to make her like herself even more (Dear 020 L230–L290).
+
+**Invocation.** When the Producer presents his removal as the condition of 100Pro affiliation, Mao invokes the promise in her own restatement: `約束したじゃないですか。／ボクを――` / `可愛くて、カッコイイ、／無敵の王子様にしてくれるって！` (Dear 022 L374–L377). She restates it through the Dear 004 goal rather than the Dear 020 wording, and the Producer repeats her version to Asari (Dear 024 L114–L120). Mao then acts on the promise before he does (§2.8). His Dear 026 admission and the joint declaration of Dear 027 close the rupture: the Producer declares that he will make her a top idol and become a top Producer with her, and each answers `約束` (Dear 027 L712–L733; the Producer's two declarations are single-option choices). The shared endpoint is not new (§8.5); Dear 027 is its anchor.
+
+**Branch-bounded outside D-MAO (C3).** Mao invokes the promise against the Producer's self-blame or withdrawal only in some result branches: P1 `after-audition-mid-failure-01` branch 1 (L52–L59; branch 2 shows his self-blame with no invocation, L75–L103) and P3 `selection-failure-01` (`ボクと一緒に、／トッププロデューサーになるって。`, L29–L35). Other P1 and P3 states recall the promise without invoking it: P1 `after-audition-final-failure-01` branch 1 (L58–L60), P1 `ending-normal-04` (`トップスター`, L78–L83) and P3 `final-failure-01` (L21, L35). The P3 `トッププロデューサー` line is a cross-track echo of Dear 027, not a sequel to it.
+
+**Content drift.** Across tracks the promise's content moves from `好きにならせる` (Dear 004, Dear 020) through `無敵の王子様` (Dear 022, Dear 024) and `無敵のアイドル` / `トップスター` (P1) to `トップアイドル` and `トッププロデューサー` (Dear 027; P3). Inference: the contract turns from a vow about Mao's relation to herself into a shared professional goal.
+
+**Why it binds (HSCA-011).** Mao grounds her need for this Producer in the experience of adults leaving: when she could no longer play the prince, `大人達はみんな離れていってしまった` (Dear 025 L347–L361). The P1 true ending repeats that the other adults did not see her (`ending-true-01` L99).
+
+**Limits.** The Dear 004 and Dear 027 Producer lines are single-option player choices, canonical within D-MAO. Asari's lesson (Dear 024 L83–L90) is spoken to the Producer without Mao present. Promises may recur as a Producer device across the cast; this subsection claims only the Mao-specific content and its invocation against the Producer's own withdrawal. The episode strengthens both readings in §8.5.
+
 ## 8.5 Coauthorship can empower and enclose
 
 The late pair achieve a strong form of coauthorship. They imagine becoming world-best top star and world-best Producer together.
@@ -640,6 +715,18 @@ That intimacy has two possible readings that must remain simultaneously availabl
 - **enclosing:** the person who first made her feel correctly seen becomes difficult to imagine being without, potentially concentrating emotional and professional authority in one relationship.
 
 The text currently favors the enabling interpretation but does not eliminate the second.
+
+**2026-11-15 revision (GKM-SAA-001): REVISE the evidential basis; the shared endpoint is PRESERVED.** Dear 022–025 strengthens the evidence on both sides of this balance; it does not simply narrow the enclosing reading. For the enabling reading: the Producer was willing to step aside (Dear 022 L414; Dear 024 L19–L22), an institutional voice prescribed co-dreaming (Dear 024 L83–L90), and Mao acted before he did and refused his reading of her best interest (Dear 023 L574; Dear 024 L255–L269), which answers the evidence matrix's falsification target 3. For the enclosing reading: Mao's stated need for this one Producer deepens (`ボクには、／プロデューサーが必要なんです。`, Dear 025 L361, where `プロデューサー` carries the ruby `あの人`), and she grounds it in her abandonment by earlier adults (§8.4a). The world-best top-star and Producer image above is anchored at Dear 027 L712–L733. The balance stated above is unchanged; its evidential basis is now two-sided.
+
+## 8.6 Romance-coded evidence — recorded, bounded, OPEN (2026-11-15, GKM-SAA-194)
+
+OPEN. Under the corpus policy for romance-coded material, this subsection records the textual evidence base with track labels and counterevidence and does not adjudicate a romantic status. It is kept separate from §8.4a and §8.5.
+
+- **Mao as initiator (C-MAO 015, C2).** In the rain Mao asks whether the Producer has fallen for her again (`どうです？　惚れなおしましたか？`), calls him `いけず` when he will not say, and vows to make him fall for her further (`adv_cidol-amao-3-015_03` L284–L303). In the same communication the Producer calls his first sight of her, giving her umbrella to a junior, `ひと目惚れ` while explaining why he scouted a third-year (L227–L238); the word reads as professional as well as personal. C-MAO 009 has her request to borrow his pocket (`adv_cidol-amao-3-009_03` L534).
+- **D-MAO (C1).** Mao dresses up for a film outing and later asks to hold his hand (Dear 010 L106–L130, L221). She breaks off a remark about his praising other idols (Dear 014 L98). `ボクのこと、もっともっと、／好きにならせてください。` (Dear 020 L290) and `キミも、全部諦めない。` (Dear 026 L104–L115) can each be read as idol self-acceptance and professional partnership or as personal attachment. Shion calls Mao's talk `惚気話` (Dear 023 L508), an outside reading. In Dear 037 Mao's inner speech says she will come for him one day (`いつか、キミを迎えに行く、／その日まで。`, L302–L308, isInner).
+- **Counterevidence.** In the song communication Mao and Rinami replace generic love acting with their shared longing for idolhood (§9.1, §13.4). The Producer deflects (`……言いませんよ。`, `adv_cidol-amao-3-015_03` L290).
+
+Whether these beats establish a romance is OPEN and is not asserted here (§1.4). Their performed valence is an optional audiovisual question for the Carbon observation queue.
 
 ---
 
@@ -661,6 +748,17 @@ The flashback in the `SUGAR FLAVOR` communication is especially diagnostic. Earl
 
 Their love-song solution is also revealing: instead of fabricating romance, they sing the intensity of three years spent longing for idolhood. Performance can translate real affect rather than copy a generic category.
 
+**2026-11-15 revision (GKM-SAA-076): REVISE scope; the bilateral origin is OPEN.** The `SUGAR FLAVOR` origin is narrated by two non-additive C4 communications with opposite initiators. In the Mao version, a year earlier Rinami proposed a duo and Mao refused because she wanted to be seen as the cool prince, feared that beside the taller Rinami she would look like a younger brother (`お姉さんと弟みたく、見えるかも。`), and wanted the spotlight alone (`adv_cidol-amao-3-017_02` L8–L109); in the present Mao proposes Rinami herself (`017_01` L176–L198). In the Rinami version, Rinami asks the Producer to let her choose and chooses Mao (`adv_cidol-hrnm-3-018_01` L180–L192), recalling that Mao had once refused until she had results as an idol (L209–L213); Mao refuses again before Rinami persuades her (`adv_cidol-hrnm-3-018_02` L11–L94). "Later she asks Rinami" above, and "Rinami is chosen" in §13.4, therefore hold for the Mao version only. The invariant is an earlier Rinami proposal that Mao refused, followed by an eventual mutual choice. Which origin scene is canonical is OPEN; the performance evidence for the duet is unaffected.
+
+**2026-11-15 addition (GKM-SAA-058): STRENGTHEN — Rinami's side of the long witness.** Other tracks support the claim that Rinami is Mao's longest peer witness. Each perspective stays in its own track:
+
+- in a first-year support story Mao, frustrated that she is not the cool self she should be and wishing she were taller, hears Rinami say `有村さんは、カッコいいよ。` and accepts an invitation to train together (`adv_csprt-2-0075_02` L132–L165; C4);
+- in another first-year support story Mao helps her classmate Rinami carry her luggage into the dorm (`adv_csprt-3-0051_01` L54–L170; C4);
+- in the Mao version of the duo origin, Rinami tells the first-year Mao that she has always been Rinami's wonderful prince (`adv_cidol-amao-3-017_02` L80);
+- in D-RINAMI 030 Rinami says that Mao being beside her is why she did not quit idolhood in second year, and recalls their first-year promise to catch up with Sena (`adv_dear_hrnm_030` L277–L356; C1 within D-RINAMI);
+- in C-RINAMI 018 Mao finds Rinami at her lowest after a failed lesson and comforts her (`adv_cidol-hrnm-3-018_02` L109–L160);
+- Rinami acts as Mao's catalyst in the `Fluorite` communication (§2.6), in Dear 015 (L78–L99) and in E003 (§9.7).
+
 ## 9.2 Kotone — junior, rival, student, inheritor
 
 Kotone reveals Mao's changing seniority.
@@ -669,11 +767,15 @@ Mao initially tends to see first-years through care. Kotone explicitly reminds h
 
 Later Mao teaches Kotone `Campus mode!!`, but the teaching also teaches Mao. The communication then imagines Kotone inheriting the costume/song after Mao graduates. Succession is not replication; Mao hopes Kotone will make a new `Campus mode!!` that contains the seniors' inherited feelings plus her own.
 
-## 9.3 Sena — summit, rival, and institutional senior
+## 9.3 Sena — summit, rival, and same-year classmate
+
+*(2026-11-15, HSCA-013: REVISE heading. The earlier heading read "Sena — summit, rival, and institutional senior". Sena is Mao's classmate in the same year: `同級生のはずの星南` (`adv_dear_hrnm_030` L344) and `クラスメイトの星南` (`adv_cidol-amao-3-018_01` L225). Her seniority over Mao is institutional, as Prima Stella and council president, not a matter of school year.)*
 
 Sena is the standard Mao is late to meet fully. The relationship eventually becomes reciprocal enough for Mao to promise to take Sena down from the tower.
 
 Mao's winter victory should not be read as simple replacement. Dear 032–036 frame the top-idol role as institutional inheritance: one generation's work creates the conditions for another's challenge.
+
+**2026-11-15 addition (GKM-SAA-056, GKM-SAA-058, GKM-SAA-104): STRENGTHEN — why Mao was late to meet Sena.** Event and later communication evidence gives the lateness a mechanism. In E013 Mao recalls that, after Sena became Prima Stella, Sena asked whether the prince would come after her, and Mao could not answer, which she still regrets (`adv_event_013_main-04` L388–L514). In E017 Mao's inner speech says that she had stopped feeling entitled to chase Sena, and that she had looked away because Sena seemed to resemble the star Mao once admired (`キミはどこか、憧れた／あの人に似ている気がして――`, `adv_event_017_main-04` L433–L472, isInner). In E022 her inner speech admits that she had made excuses not to watch Sena's third-year lives (`adv_event_022_main-05` L277–L289, isInner); she then tells Kotone that she lacked the courage to watch alone, and resolves to look directly at Sena and at herself (L429–L460). In Source Lock 1.1 C-MAO 018 she says she had overlapped the idol Sena with `あの人` and can now face her (`adv_cidol-amao-3-018_01` L225–L261). Inference: Mao avoided Sena partly because Sena re-embodied the lost idol of §2.3. Counterevidence: the same E017 passage also gives the skill gap as a reason (L439–L444). The relative order of E013, E017 and E022 is bounded OPEN (GKM-SAA-157), so the later rivalry is not narrated as a fixed, delayed answer to E013. Sena's side, within D-MAO: in a 100Pro scene without the Producer, Sena tells President Juo (Ryuusei Juo) that Mao seemed to suffer in being an idol, that meeting the Producer changed her, and that Sena herself could not reach out to Mao well (Dear 024 L147–L236). In Source Lock 1.1 D-SENA 031 Mao tells Sena and Tsubame that they never once pitied her while she was marking time (`adv_dear_jsna_031` L286; Mao and Rinami address both, and both answer, L316–L337; C1 within D-SENA).
 
 ## 9.4 Shion — resentment as a failed self-relation
 
@@ -692,6 +794,13 @@ Her Osaka homecoming material reveals that shame kept her from showing them stag
 ## 9.7 Tsubame and other seniors/juniors
 
 Mao's teasing conflict/history with Tsubame, observations of her peers, and broad dorm responsibility suggest that “prince” operates inside an ensemble, not only a Producer romance. Full support-card and event passes are still required before making Mao the cast's definitive refuge or ethical center.
+
+**2026-11-15 addition (GKM-SAA-058, GKM-SAA-104): STRENGTHEN; the "refuge" claim stays OPEN.** The support-card and event passes are now integrated (Phase-4/5 integration pointer section). Track by track they show:
+
+- **Tsubame.** A rival-friend since first year: in C-MAO 017 Mao refuses to form a unit with Tsubame, recalling a first-year quarrel for which Rinami scolded them both (`adv_cidol-amao-3-017_01` L133–L161). In E021 Mao, who did not reach the main stage, tells the second-placed Tsubame that her stage was truly wonderful and that she herself will not give up (`adv_event_021_main-04` L199–L255). In Source Lock 1.1 D-TSUBAME 031 Mao admits that she looked away from Tsubame and Sena as special, and Tsubame thanks her for three years of mutual growth and calls her a rival (`adv_dear_atbm_031` L213–L285; C1 within D-TSUBAME).
+- **Juniors.** In Dear 012 Mao retracts her own `キミはまだ1年生なんだから` when Lilja says she wants to become an idol (L325–L355), a self-correction without rivalry, before Kotone's reminder that they are rivals (L651–L741; §9.2). In E022 Kotone calls her an older friend (§6.4). In E011 Mao accepts the client's princess role as professional duty and coaches Temari's acting; Temari then says she wants to see Mao in the male role, because of Mao's feeling for theatre and her knowledge of such roles (`adv_event_011_main-04` L53–L105, L121–L423). In E003 Mao lectures Sumika about spending the summer working (`adv_event_003_main-02`), then tells Rinami that how Sumika spends school life is Sumika's own choice and that she said too much (`adv_event_003_main-03` L74–L108), and apologizes once she learns why Sumika is working (L510; Sumika apologizes in turn, L549). Earlier in main-03 Rinami notices Mao's nerves and reminds her that the summer live is a festival to enjoy with the audience, and Mao admits that her haste for results had made her forget it (L113–L236).
+
+These items promote Mao's ensemble role and narrow MAO-C18: her senior overreach is corrected through rivalry, through learning another person's circumstances and through her own self-correction. They do not establish Mao as the cast's definitive refuge or ethical center; that legacy claim remains OPEN (§21).
 
 ---
 
@@ -795,6 +904,29 @@ The Osaka communication shows Mao playfully using Kansai speech and then demandi
 
 This material gives the polished prince a regional/childhood texture that should not be erased by a generic archetype summary.
 
+**2026-11-15 revision (GKM-SAA-057): REVISE — Kansai as Mao's emotional home register.** The Osaka communication is not the only Kansai source, and the register carries more than regional texture. A1 shows it in five functions:
+
+- **home and locality:** Mao relays her mother's invitation to a meal whenever the Producer comes to `兵庫` (Dear 022 L339); Osaka is her `地元` (Dear 032 L183) and, in C-MAO 013, `ボクの庭` (`adv_cidol-amao-3-013_01` L17, L63); a peer knows she is from the Kansai side (`あ、関西のほうだもんね……`, Rinami in `adv_event_003_main-02` L377);
+- **slips under embarrassment:** `そ、そんなに泣いてへんし……！` when a shopkeeper recalls the crying child actor (`adv_cidol-amao-3-013_02` L202–L210), and `……いけず。` when the Producer will not say he has fallen for her again (`adv_cidol-amao-3-015_03` L290–L291);
+- **tsukkomi:** `……って、なんでやねん！` in one Dear 033 branch (choice 3, L281);
+- **maximal distress, aimed at the Producer:** the Dear 022 outburst, which moves from `ばかああああああああああああっ！` (L439) into Kansai insults (`ボケナスのドアホーーーーーっ！`, `アホンダラーーーーーっ！`, L453–L496; §2.8);
+- **childhood and family:** her mother's Akashi-yaki (Dear 022 L344; `adv_event_022_main-03` L188–L221) and the Kansai-local commercial jingle she sings while feverish (L256–L273).
+
+Mao's default register is standard Japanese, and the Osaka communication itself frames the dialect as a joke (`なんで急に関西弁やねーんって。`, `adv_cidol-amao-3-013_01` L30–L34). Whether Kansai is Mao's native dialect or an acquired register is not stated and stays OPEN. The companion dialogue and voice-acting close reading (§10) has been corrected to match.
+
+## 12.5 Address and register map (2026-11-15, GKM-SAA-193)
+
+STRENGTHEN. A sweep of Mao's lines gives a register map that §12.1–§12.3 did not record:
+
+1. **Address to the Producer.** In D-MAO Mao calls the Producer `あなた` while wary or angry (Dear 001 L135, L246, L265; Dear 004 L13) and `キミ` from Dear 006 (L241, L337). Afterward she uses `あなた` to opponents and outside adults such as Gekka and President Juo (Dear 019 L41; Dear 024 L299). The shift is internal to D-MAO.
+2. **Mixed register.** Intimate `キミ` combines with です/ます toward the Producer (for example `キミがボクのこと、考えてくれたのは、／わかっていたんですけど。`, Dear 026 L45).
+3. **Prince peer register.** `～かい`, `～さ` and `～たまえ` toward juniors and peers (`探し物かい？`, `クールダウンしてるだけさ`, `先輩を頼ってくれたまえ`; `adv_event_022_main-02` L197, `main-01` L196, `main-02` L250).
+4. **Role-reversal play.** Mao asks the Producer to call her senior (`{user}くん。／先輩と呼んでくれたまえ？`, `adv_cidol-amao-3-009_02` L123; compare Dear 033 L71).
+5. **Face-work self-correction.** `お母さ……母` and `お母さ……／両親` (Dear 022 L319; `adv_cidol-amao-3-013_03` L22).
+6. **The referent of `あの人`.** It names the revue star (`adv_cidol-amao-3-015_01` L35, L123; `adv_cidol-amao-3-018_01` L244) and, in Dear 025, the Producer, through the ruby `あの人` on `プロデューサー` (L361).
+
+Open: whether the dream-child's `わたし` (`adv_cidol-amao-3-015_01` L13) marks a stage before ボク.
+
 ---
 
 # 13. Song and communication layer — textual findings only
@@ -829,6 +961,8 @@ Textual function:
 - inheritance from seniors;
 - future handoff to Kotone and unknown future entrants;
 - Mao as someone who can become an object of aspiration rather than only a pursuer of one.
+
+*(2026-11-15, GKM-SAA-055: STRENGTHEN.)* C-MAO 007 places this image at the first welcome party, after Mao had entered Hatsuboshi `すがるような気持ちで` and with guilt toward serious idol aspirants (`adv_cidol-amao-3-007_01` L106–L157). In a support story she has never yet had the chance to perform the song in three years and keeps practising for it (`adv_csprt-3-0044_02` L70–L94). See §2.3a.
 
 ## 13.4 `SUGAR FLAVOR`
 
@@ -907,6 +1041,19 @@ This produces a useful ethical distinction:
 Mao is neither an academic genius nor incompetent. She has careless mistakes, worries about tests, struggles with history, studies with Rinami/Producer, and can become anxious about results. Her theatre knowledge is specialized and deep.
 
 This ordinary unevenness helps prevent the prince/senior image from becoming total competence fantasy.
+
+## 14.5 Further ordinary-life evidence (2026-11-15, GKM-SAA-196; HSCA-102; GKM-SAA-104)
+
+STRENGTHEN. These items are mostly self-report, gathered across tracks and used at the level of invariant traits:
+
+- **Only-child childhood.** Work kept her away from primary school, she made few friends and often played alone, and she wished for an older or younger sister (`adv_cidol-amao-3-009_02` L192–L201; Dear 031 L287–L304; `adv_event_022_main-01` L337–L344; `adv_csprt-3-0078_03` L115).
+- **Hidden tastes.** In E022 Mao admits that she likes sweets but hides it because it does not fit the cool prince image her fans expect (`adv_event_022_main-05` L42–L74); Kotone answers that a cool prince who likes sweets is fine and that fans might like her more for it (L93–L97). Support stories add a secret liking for melon bread and for books written for primary-school children (`adv_csprt-3-0072_03` L148; `adv_csprt-3-0078_02` L129–L133). Feverish in E022, she asks for the night-light to be left on (`adv_event_022_main-01` L399).
+- **Height.** Nursing her, Kotone notices a height-stretching device in Mao's room and decides not to have seen it (`adv_event_022_main-01` L292–L300, Kotone's inner speech); compare §4.1.
+- **A borrowed professional ethic.** Mao cites the motto of the revue troupe she admired, `砂漠に咲く、／一輪の薔薇のようであれ。` (P1 `after-audition-mid-normal-03` L50–L57).
+- **Nerves and wavering.** She was nervous before going on stage even as a child actor (P2 `after-audition-a-normal-03` L31–L33), and calls herself someone who is always wavering (`ボクは迷ってばかりだから、`, `adv_csprt-3-0040_03` L124).
+- **Comparison.** After a P1 audition she admits that an examinee beside her was very cute and danced well, and that she felt beaten (P1 `after-audition-final-normal-02` L97–L101).
+
+The theme ledger already records the hidden-tastes pattern; these items extend §14.1's claim that Mao policed pleasure by its fit with the prince image. They are cross-track and do not form one biography.
 
 ---
 
@@ -1041,6 +1188,45 @@ The following are strong enough to carry forward:
 
 ---
 
+## Phase-4/5 integration pointers — 2026-11-15 (source-to-analysis audit)
+
+This index lists the numbered-event, support-story and other-route evidence integrated into this core on 2026-11-15 (GKM-SAA-104, GKM-SAA-108, with the Batch 2 Mao findings GKM-SAA-056, GKM-SAA-058 and GKM-SAA-076). The core's argument is not rewritten; each item enters as a dated passage in the section named in the last column. Track labels: E = numbered event (C2 relative to D-MAO unless stated); S = support story (C4); D-x and C-x = another idol's Dear route or communications (C1 or C2 within that track). No row merges a host-track state into the D-MAO calendar. Revision-86 support routing for Mao (support 2-0078) was already executed in the Source Lock 1.1 supplement at the end of this core.
+
+| event or support object | A1 locator | what it adds | owning reading section | CSL row | integrated at |
+| --- | --- | --- | --- | --- | --- |
+| E003, summer school | `adv_event_003_main-03` L74–L236, L510–L549 | overreach toward Sumika, self-correction and apology; Rinami redirects Mao from results to the festival | E001–005 reading §5 | Phase 4 — Events 001–005, Mao row | §2.6, §9.1, §9.7 |
+| E011, Hinamatsuri work | `adv_event_011_main-04` L53–L105, L121–L423 | princess role accepted as duty; Mao coaches Temari; Temari asks to see Mao in the male role | E006–012 reading §7 | Phase 4 — Events 006–012, Mao row | §9.7 |
+| E013, third-year quartet | `adv_event_013_main-01` L286; `main-04` L388–L514 | entry vow to become a top star; Sena's unanswered question | E013–020 reading §2 | Phase 4 — Events 013–020, Mao row | §2.3a, §9.3 |
+| E017, idol daily life | `adv_event_017_main-04` L433–L472 | inner speech: Sena resembles the admired star; Mao looked away | E013–020 reading §6 | Phase 4 — Events 013–020, Mao row | §9.3 |
+| E021, H.I.F. aftermath | `adv_event_021_main-04` L199–L255 | Mao missed the second-year main stage and comforts Tsubame | E021+ reading §2 | none for Mao (RSL Mao ↔ Tsubame) | §2.3a, §9.7 |
+| E022, illness and care | `adv_event_022_main-01` L20–L92, L172–L399; `main-02` L66–L70, L197–L372; `main-03` L188–L273, L345–L455; `main-04` L525–L567; `main-05` L42–L97, L277–L289, L429–L460 | final-chance identity foreclosure; entrance-day wallet search; received care; "older friend"; hidden sweets; facing Sena; only child, height device, night-light; Kansai-local jingle | E021+ reading §3 | Phase 4 — Events 021+, Mao row | §4.4, §6.1, §6.4, §9.3, §12.4, §14.5 |
+| E028, school festival (SL1.1) | `adv_event_028_main-02` L124–L160; `main-01` L272 | September 100 Pro affiliation exam; coaching first-years in theatre | E027/028/030 reading, E028 | none for Mao (row needed) | §2.8, §6.3 |
+| S 2-0075 | `adv_csprt-2-0075_02` L132–L165 | first-year height frustration; Rinami affirms Mao | S02c §24 | Phase 5 — Support Series 2 Part 051–074, Mao row | §9.1 |
+| S 3-0044 | `adv_csprt-3-0044_02` L70–L94 | no `Campus mode!!` performance in three years | S03b §20 | Phase 5 — Support Series 3 Part 026–050, Mao row | §2.3a, §13.3 |
+| S 3-0051 | `adv_csprt-3-0051_01` L54–L170; `_03` L99 | first-year meeting with Rinami; declared Prima Stella aim | S03c §2 | Phase 5 — Support Series 3 Part 051–075, Mao row | §2.3a, §9.1 |
+| S 3-0078 | `adv_csprt-3-0078_02` L129–L133; `_03` L115, L136–L151 | only child; secret reading; the admired-star wound persists | S03d §4 | Phase 5 closure — Support Series 3 Part 076–102, Mao row | §2.3, §14.5 |
+| S 3-0040, S 3-0072 | `adv_csprt-3-0040_03` L124; `adv_csprt-3-0072_03` L148 | self-description as wavering; secret melon bread | S03b §16; S03c §23 | Phase 5 — Support Series 3 Part 026–050 and 051–075, Mao rows | §14.5 |
+| D-TSUBAME 031 (SL1.1) | `adv_dear_atbm_031` L213–L285 | Mao looked away from Sena and Tsubame; Tsubame names her a rival | Tsubame winter H.I.F. source refresh | Source Lock 1.1 refresh (Tsubame row) | §2.3a, §9.7 |
+| D-RINAMI 030; C-RINAMI 018 | `adv_dear_hrnm_030` L277–L356; `adv_cidol-hrnm-3-018_01` L180–L213; `018_02` L11–L160 | Mao as the reason Rinami stayed; Rinami's version of the duo origin; comfort at Rinami's lowest | CORE-Rinami | none for Mao (RSL Mao ↔ Rinami) | §9.1, §9.3 |
+| D-SENA 031 (SL1.1) | `adv_dear_jsna_031` L286 | Mao tells Sena and Tsubame that they never pitied her while she marked time | Sena transcript refresh 2026-11-12 | none for Mao | §9.3 |
+
+**Support-card and event targets of §19 after Phase 4–5 (GKM-SAA-108).**
+
+| §19 target | status | evidence | core section |
+| --- | --- | --- | --- |
+| How often does Mao receive care rather than provide it? | partly answered | E022 (Kotone and the dorm); S 2-0078 (Temari; Source Lock 1.1 supplement); S 2-0075 (Rinami) | §6.4; §9.1 |
+| Do juniors ever refuse her help, and how does she respond? | partly answered | E022: Kotone first declines her help on entrance day (`adv_event_022_main-02` L226) and later overrides Mao's refusal of care; E003: Sumika pushes back and Mao self-corrects | §6.1, §6.4, §9.7 |
+| Does dorm leadership reveal failures, resentment or burnout? | partly answered | E022 overtraining and apology for failing as a model third-year; no resentment found | §4.4 |
+| How do Tsubame and other third-years describe Mao outside her own route? | partly answered | E021; D-TSUBAME 031; Dear 024 (Sena); D-SENA 031; D-RINAMI 030 | §9.1, §9.3, §9.7 |
+| Does Rinami see the prince as continuous across three years? | partly answered | S 2-0075 (first year); `adv_cidol-amao-3-017_02` L80; D-RINAMI 030 | §9.1 |
+| Do support cards preserve cute/cool integration without Producer mediation? | partly answered | E022 (Kotone on the sweets-loving prince); CSL Phase 5 Mao rows | §14.5 |
+| Feminine-coded presentation without professional purpose? | OPEN | E022's dress-up is Kotone's initiative and Mao is reluctant (`adv_event_022_main-04` L239–L340) | — |
+| Prince presentation despite negative market incentives? | OPEN | — | — |
+| How much of her social popularity predates idol success? | partly answered, weakly | E022: the dorm's affection for its leader is independent of her stage results (`みんな、麻央先輩のこと、／大好きなんですよ。`, `adv_event_022_main-03` L455) | §6.4 |
+| Does her family describe the rupture differently from Mao? | partly answered, indirectly | Mao reports that her mother long worried about her after she stopped acting (Dear 022 L323–L329); a shopkeeper recalls the crying child actor (`adv_cidol-amao-3-013_02` L202–L209) | §12.4 (shopkeeper only) |
+
+---
+
 # 19. Relationship and later-corpus questions
 
 ## Support-card / event targets
@@ -1055,6 +1241,8 @@ The following are strong enough to carry forward:
 - Are there sources where she prefers prince presentation despite negative market incentives?
 - How much of her social popularity predates successful idol performance?
 - Does her family describe the puberty/career rupture differently from Mao?
+
+*(2026-11-15, GKM-SAA-058, GKM-SAA-108.)* Phase 4–5 evidence now answers several of these targets in part; two remain OPEN. The status of each, with its evidence and core section, is in the second table of the Phase-4/5 integration pointer section above.
 
 ## Institutional targets
 
@@ -1147,3 +1335,38 @@ That is why the best Phase-3 sentence remains:
 > **Mao learns not to stop performing the prince, but to stop using the prince to disappear.**
 
 And the final direction of movement is not toward a stable label but toward `0番` with the capacity to keep revising what standing there can mean.
+
+
+## Source Lock 1.1 supplement — 2026-11-12
+
+The claims below use revision 86 A1. The earlier sections document the Source Lock 1.0 reading. The companion [evidence matrix](GKM_CORE_04_ARIMURA_MAO_EVIDENCE_MATRIX.md#source-lock-11-supplement--2026-11-12) records the claim dispositions. The [source delta](../../../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv) resolves original filenames to archive paths and hashes. L indicates a physical A1 line. M indicates the ordinal of an A1 message command.
+
+### Succession changes the title and preserves a personal star
+
+After Mao's H.I.F. win, the 100 Pro interview introduces her as the new titleholder and promotes Sena. Mao describes learning from juniors. Sena recognizes those juniors in Mao's performance. Afterward Mao calls Sena her enduring star. They joke that they are the morning and evening stars and a `ダブル` Prima Stella. `adv_cidol-amao-3-018_01.txt` L135–261 and `adv_cidol-amao-3-018_02.txt` L25–67, L154–291. [Communication reading](../GKM_COMMU_REVISION_86_DEEP_READING.md).
+
+Mao can receive the official distinction and continue learning from her predecessor. The Venus analogy gives a name to overlapping personal and public sources of authority. The dialogue establishes one official title transfer. The double title is joking. Its surrounding remarks give evidence of respect and reception in this scene.
+
+**Scope.** C1 within Mao 018 after Mao's H.I.F. win, compatible with the Mao-winning Dear state.
+
+**Claim disposition.** `MAO-R86-C01` — ADD to `MAO-C23`.
+
+### The Producer exercises professional leverage on Mao's behalf
+
+The 100 Pro president offers prepared papers and seeks to capitalize on publicity around Mao's win. The Producer asks to review the papers because they concern Mao's life. The president allows until the next day. Later Mao voices excitement alongside anxiety and commits to the prince she wants to become. `adv_cidol-amao-3-018_03.txt` L85–140, L149–210. [Communication reading](../GKM_COMMU_REVISION_86_DEEP_READING.md).
+
+The scene makes contract review a distinct form of care during Mao's move toward professional work. Mao expresses her goal in her own terms after the offered business arrangement and the Producer's promise. The president's possible test is the Producer's conjecture. The scene shows an offer and deferral. Mao's signature and later terms remain open.
+
+**Scope.** C1 after the Mao-winning result. The single-option `トップアイドルにする` precedes the final exchange.
+
+**Claim disposition.** `MAO-R86-C02` — ADD to `MAO-C27`.
+
+### Temari names the courage in Mao's conduct
+
+Mao privately admits being afraid during the dorm test of courage. Temari feels Mao's hand tremble and asks about the fear. Mao admits it, Temari calls her cool for going first anyway, and the two sing the commercial jingle Temari proposes. `adv_csprt-2-0078_01.txt` L112–155 and `adv_csprt-2-0078_02.txt` L79–182. [Support-card reading](../../03_SUPPORT_CARD_READINGS/GKM_SUPPORT_REVISION_86_DEEP_READING.md).
+
+Temari helps articulate and sustain a prince role that can include a visible limitation. The companion Mao is trying to reassure becomes an active participant in the reassurance. Mao asks Temari to keep the fear private. The acknowledgement supports this pair's exchange, with public use of vulnerability still open.
+
+**Scope.** C1 within the test of courage, C4 relative to the main tracks.
+
+**Claim disposition.** `MAO-R86-C03` — STRENGTHEN `MAO-C08` and `MAO-C09`.

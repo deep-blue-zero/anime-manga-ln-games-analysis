@@ -1,0 +1,107 @@
+{
+  "schema": "konosuba.cohort46.source-safe-supporting-freeze.v1",
+  "private_complete_freeze_sha256": "cb8f4d207c7859074f5bce8ac1a5d9fc3094230b2e09727ad851f0a19d43c6e6",
+  "frozen_utc": "2026-10-25T10:16:09.621067+00:00",
+  "pins": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI04_IDENTITY_AND_SUPPORTING_CAST_COHORT46_SUPPLEMENT.md",
+      "bytes": 23369,
+      "sha256": "2f2a7ee7be88b6ae3e8120edb19d1a6994a7e474d0b358145616150999099ef4"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+      "bytes": 4222,
+      "sha256": "1b270b19d8b119d6ebb785ac4a66112a2665b1abf7dc85e546f9ba80488d0c0f"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md",
+      "bytes": 16931,
+      "sha256": "8fc85c30b543045e85c47e8638397f640ba1124fc696bc10eff12671e9c6ed3a",
+      "entire_received_original_sha256": "2659a2444bbc000733b0e3adf7ada6385e7a7481b2d08850e5f5b2a03e4eb263",
+      "canonical_serialization_only": true
+    }
+  ],
+  "profiles": 17,
+  "new_source_access_records": 68,
+  "complete_original_review_pages": 18,
+  "complete_typed_relation_correction_pages": 4,
+  "accepted_route_sha256": "973048628da0fa2b1690ec973726fd9bd4d30e0658e15b3d4739526eeca74ede",
+  "typed_relation_contract": "related_existing_rows preserves the prior retrieval references in order. Disjoint typed fields distinguish possible identity/occurrence overlap, possible membership overlap, a proposed-role filler, comparisons, known context and explicit exclusions. Comparisons/context/exclusions must never become alias candidates; possible edges are not positive joins.",
+  "all47_core_pins_exact": true,
+  "source_assertions_not_silently_repaired": true,
+  "independent_or_grade_gain": 0,
+  "full_program_complete": false,
+  "canonical_index_link_serialization": {
+    "kind": "CANONICAL_MARKDOWN_LINK_DESTINATION_SERIALIZATION",
+    "authored_utc": "2026-10-25T10:36:05.092414+00:00",
+    "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md",
+    "entire_received_original_sha256": "2659a2444bbc000733b0e3adf7ada6385e7a7481b2d08850e5f5b2a03e4eb263",
+    "canonical_serialized_sha256": "8fc85c30b543045e85c47e8638397f640ba1124fc696bc10eff12671e9c6ed3a",
+    "transformation": "Replace only twelve angle-enclosed relative Markdown destinations with percent-encoded destinations. Link labels, decoded destinations, prose, claims, tables, source scope and diagnostics are unchanged. The private frozen supporting index is retained exactly.",
+    "complete_reversible_destination_operations": [
+      {
+        "before": "](<../09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json>)",
+        "after": "](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json)",
+        "decoded_destination": "../09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json"
+      },
+      {
+        "before": "](<../10 Expanded Corpus/Yorimichi/KONOSUBA_YORI04_COHORT46_CURRENT_PRECISION_QUALIFICATIONS.json>)",
+        "after": "](../10%20Expanded%20Corpus/Yorimichi/KONOSUBA_YORI04_COHORT46_CURRENT_PRECISION_QUALIFICATIONS.json)",
+        "decoded_destination": "../10 Expanded Corpus/Yorimichi/KONOSUBA_YORI04_COHORT46_CURRENT_PRECISION_QUALIFICATIONS.json"
+      },
+      {
+        "before": "](<../05 Specialist Synthesis/KONOSUBA_DARK_STALKER_CHARACTER_MONOGRAPH.md>)",
+        "after": "](../05%20Specialist%20Synthesis/KONOSUBA_DARK_STALKER_CHARACTER_MONOGRAPH.md)",
+        "decoded_destination": "../05 Specialist Synthesis/KONOSUBA_DARK_STALKER_CHARACTER_MONOGRAPH.md"
+      },
+      {
+        "before": "](<../06 Character Modeling and Reconstruction/KONOSUBA_DARK_STALKER_RECONSTRUCTION_MODEL.md>)",
+        "after": "](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_DARK_STALKER_RECONSTRUCTION_MODEL.md)",
+        "decoded_destination": "../06 Character Modeling and Reconstruction/KONOSUBA_DARK_STALKER_RECONSTRUCTION_MODEL.md"
+      },
+      {
+        "before": "](<../05 Specialist Synthesis/KONOSUBA_ASSASSIN_CHARACTER_MONOGRAPH.md>)",
+        "after": "](../05%20Specialist%20Synthesis/KONOSUBA_ASSASSIN_CHARACTER_MONOGRAPH.md)",
+        "decoded_destination": "../05 Specialist Synthesis/KONOSUBA_ASSASSIN_CHARACTER_MONOGRAPH.md"
+      },
+      {
+        "before": "](<../05 Specialist Synthesis/KONOSUBA_ANGIE_CHARACTER_MONOGRAPH.md>)",
+        "after": "](../05%20Specialist%20Synthesis/KONOSUBA_ANGIE_CHARACTER_MONOGRAPH.md)",
+        "decoded_destination": "../05 Specialist Synthesis/KONOSUBA_ANGIE_CHARACTER_MONOGRAPH.md"
+      },
+      {
+        "before": "](<../06 Character Modeling and Reconstruction/KONOSUBA_ANGIE_RECONSTRUCTION_MODEL.md>)",
+        "after": "](../06%20Character%20Modeling%20and%20Reconstruction/KONOSUBA_ANGIE_RECONSTRUCTION_MODEL.md)",
+        "decoded_destination": "../06 Character Modeling and Reconstruction/KONOSUBA_ANGIE_RECONSTRUCTION_MODEL.md"
+      },
+      {
+        "before": "](<../05 Specialist Synthesis/KONOSUBA_ANNA_CHARACTER_MONOGRAPH.md>)",
+        "after": "](../05%20Specialist%20Synthesis/KONOSUBA_ANNA_CHARACTER_MONOGRAPH.md)",
+        "decoded_destination": "../05 Specialist Synthesis/KONOSUBA_ANNA_CHARACTER_MONOGRAPH.md"
+      },
+      {
+        "before": "](<../05 Specialist Synthesis/KONOSUBA_YORIMICHI04_SUCCUBUS_WORKER_CHARACTER_MONOGRAPH.md>)",
+        "after": "](../05%20Specialist%20Synthesis/KONOSUBA_YORIMICHI04_SUCCUBUS_WORKER_CHARACTER_MONOGRAPH.md)",
+        "decoded_destination": "../05 Specialist Synthesis/KONOSUBA_YORIMICHI04_SUCCUBUS_WORKER_CHARACTER_MONOGRAPH.md"
+      },
+      {
+        "before": "](<../05 Specialist Synthesis/KONOSUBA_YORIMICHI04_IDENTITY_AND_SUPPORTING_CAST_COHORT46_SUPPLEMENT.md>)",
+        "after": "](../05%20Specialist%20Synthesis/KONOSUBA_YORIMICHI04_IDENTITY_AND_SUPPORTING_CAST_COHORT46_SUPPLEMENT.md)",
+        "decoded_destination": "../05 Specialist Synthesis/KONOSUBA_YORIMICHI04_IDENTITY_AND_SUPPORTING_CAST_COHORT46_SUPPLEMENT.md"
+      },
+      {
+        "before": "](<../06 Character Modeling and Reconstruction/DARK_STALKER_EXPANDED_V1_EVIDENCE/DARK_STALKER_DIAGNOSTIC_ASSESSMENT_01.md>)",
+        "after": "](../06%20Character%20Modeling%20and%20Reconstruction/DARK_STALKER_EXPANDED_V1_EVIDENCE/DARK_STALKER_DIAGNOSTIC_ASSESSMENT_01.md)",
+        "decoded_destination": "../06 Character Modeling and Reconstruction/DARK_STALKER_EXPANDED_V1_EVIDENCE/DARK_STALKER_DIAGNOSTIC_ASSESSMENT_01.md"
+      },
+      {
+        "before": "](<../06 Character Modeling and Reconstruction/ANGIE_EXPANDED_V1_EVIDENCE/ANGIE_DIAGNOSTIC_ASSESSMENT_01.md>)",
+        "after": "](../06%20Character%20Modeling%20and%20Reconstruction/ANGIE_EXPANDED_V1_EVIDENCE/ANGIE_DIAGNOSTIC_ASSESSMENT_01.md)",
+        "decoded_destination": "../06 Character Modeling and Reconstruction/ANGIE_EXPANDED_V1_EVIDENCE/ANGIE_DIAGNOSTIC_ASSESSMENT_01.md"
+      }
+    ],
+    "all47_private_core_pins_unchanged": true,
+    "no_model_rule_input_first_or_diagnostic_repair": true,
+    "independent_or_grade_gain": 0
+  }
+}

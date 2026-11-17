@@ -31,7 +31,7 @@ This artifact has three layers: source-facing speech analysis; selective compari
 
 The profile does **not** claim `machine_voice_profiled` under the full machine-voice protocol. Pitch distributions, pause segmentation, text-normalized rate, reliability-controlled spectral measures, state-conditioned normalization, and cluster stability analysis are not supplied by this pass. A source table labeled acoustic observations 'complete' is complete for its own basic schema, not automatically for the later broader protocol.
 
-Human listening remains an optional terminal enrichment phase. Its absence does not invalidate the textual speech model. It does mean that words such as girlish, deep, wistful, flirtatious, or commanding cannot be presented as this analyst's verified observations of the recording.
+Human listening was not performed during this pre-AV machine-reaggregation pass; its absence here does not invalidate the textual speech model, and words such as girlish, deep, wistful, flirtatious, or commanding are not inferred from the machine aggregates below. Subsequent stratified four-dub human listening over `29` moments (`116` renders: `27/786` accepted solo lines plus `1` rejected `who=1626` line and `1` compound `who=1633` unison line, leaving `759/786` accepted solo lines machine-measured only) is recorded in its canonical specialist home, [WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md](WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md).
 
 ## 2. Her speech is not one ceremonial register
 
@@ -86,7 +86,7 @@ At `Main_Rinascita_2_12_743_15`, English emphasizes never having had the patienc
 
 ### 5.6 A line that needs witness-level reconciliation
 
-At `Main_Linaxita_2_4_140_2`, the supplied Chinese and Japanese contrast the present gentle expression with the earlier fight, whereas the English wording points toward gentleness during the fight. This appears to reverse the temporal comparison in the materialized witnesses. The dossier does not use that English sentence to infer a distinctive emotional event during combat. A later runtime subtitle/clip check should adjudicate the discrepancy before it supports a facial-expression or relationship-timing claim. (E20.)
+At `Main_Linaxita_2_4_140_2`, the supplied Chinese and Japanese contrast the present gentle expression with the earlier fight, whereas the English wording points toward gentleness during the fight. This reverses the temporal comparison in the materialized witnesses. Subsequent Chapter II runtime AV inspection (`SCN-0102` `TRN-SEG005-1036` at `09:25:03.000`) and four-dub listening (`CART-EXTRA-02` in [WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md](WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md)) confirm clean close-mic gentle teasing across all four dubs while verifying that English speaks the reversed temporal comparison (`"as gentle as you did during our fight"`) verbatim; relationship-timing claims therefore follow `zh-Hans` (`C41`, `E20`).
 
 ### 5.7 Cooking and agency
 
@@ -109,8 +109,8 @@ In the restored-meal scene, the Chinese explicitly offers to borrow the kitchen 
 | Unique retained PCM/FLAC objects | 2,937 |
 | Redundant associations relative to global unique objects | 215 |
 | Retained FLAC bytes reported by source audit | 752,876,117 |
-| Existing selected listening calibration moments | 23 |
-| Structured human annotations in the supplied audit | 0 |
+| Existing selected listening calibration moments | 23 (later listened + extended to 29 moments / 116 renders in companion performance profile; 27/786 solo + 1 `who=1626` + 1 `who=1633`) |
+| Structured human annotations in the supplied pre-AV audit | 0 (759/786 accepted solo lines remain machine-measured only) |
 
 All 786 direct lines have a four-language render association in the declared scope. This does not solve the three excluded identity uncertainties or establish perfect recall of all unmarked speakers. The denominator is the accepted, resolved corpus, not the whole game.
 
@@ -174,7 +174,7 @@ The existing 23-moment calibration cohort should be inspected before commissioni
 
 The useful test is within-dub separation across matched states, followed by between-dub comparison. Perceived age, formality, warmth, spontaneity, and command must be recorded separately rather than collapsed into one maturity score. Seriousness must be tested in Cartethyia form and warmth in Fleurdelys form. A result restricted to promotional editing should remain promotional and language-specific.
 
-No human-performance addendum is instantiated as completed. These hypotheses are preserved so later review can test them rather than losing the owner's observation or silently treating it as canon.
+At the pre-AV rebuild boundary, no human-performance addendum was instantiated here so these hypotheses would neither be lost nor silently treated as canon. Their subsequent empirical test over the stratified `29`-moment / `116`-render four-dub cohort—supporting `H-JP-01` and `H-EN-01` with mandatory counterexamples while falsifying the earlier `ko` midpoint conjecture—is recorded in [WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md](WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md); `759/786` accepted solo lines remain unreviewed by ear.
 
 ## 12. Speech-model constraints
 

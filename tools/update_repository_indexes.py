@@ -14,14 +14,15 @@ from character_index_core import (
     GitSnapshot,
     SnapshotEntry,
     atomic_write_text,
-    _restricted_yaml_load,
     decode_json,
     read_blob_objects,
     run_git,
 )
 
 
-AUTHORITY_STATE = "governance/AUTHORITY_STATE.yaml"
+# Migration completed under accepted authority epoch 1. A later authority change
+# is recorded by its own owner-approved change, which updates this label with it.
+AUTHORITY_STATUS = "GIT_ACTIVE_ACCEPTED"
 SERIES_REGISTRY = "series/registry.json"
 STUDY_REGISTRY = "studies/registry.json"
 CHANGE_OBLIGATIONS = "governance/repository-controls/change-obligations.json"
@@ -54,7 +55,6 @@ CORPUS_STUDY_MARKERS = (
     "<!-- END GENERATED CORPUS STUDY CATALOG -->",
 )
 CONTENT_PATHS = {
-    AUTHORITY_STATE,
     SERIES_REGISTRY,
     STUDY_REGISTRY,
     SERIES_README,
@@ -320,12 +320,6 @@ def _replace_generated_block(
 
 
 def expected_outputs(snapshot: GitSnapshot) -> dict[str, bytes]:
-    authority = snapshot.get(AUTHORITY_STATE)
-    if authority is None or not authority.qualifies_as_evidence:
-        raise DomainError("catalog generation requires the selected live authority state")
-    state = _restricted_yaml_load(authority.data.decode("utf-8", "strict"), AUTHORITY_STATE)
-    if not isinstance(state, Mapping) or not isinstance(state.get("state"), str) or not state["state"].strip():
-        raise DomainError("catalog generation requires a nonempty authority state")
     series_rows = _root_rows(
         _registry_rows(snapshot, SERIES_REGISTRY, "series", SERIES_SCHEMA), "series/"
     )
@@ -333,7 +327,7 @@ def expected_outputs(snapshot: GitSnapshot) -> dict[str, bytes]:
         _registry_rows(snapshot, STUDY_REGISTRY, "studies", STUDY_SCHEMA), "studies/"
     )
     registry = decode_json(snapshot.entries[SERIES_REGISTRY].data, SERIES_REGISTRY)
-    registry["status"] = state["state"]
+    registry["status"] = AUTHORITY_STATUS
     required_documents = (SERIES_README, STUDIES_README, CORPUS_INDEX)
     missing = [path for path in required_documents if snapshot.get(path) is None]
     if missing:

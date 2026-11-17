@@ -1,0 +1,453 @@
+{
+  "generation": "RS-AV-R2-GEMINI-CARBON",
+  "status": "draft_noncurrent",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": true,
+  "manifest_id": "RS-AV-R2-GEMINI-CARBON-IMMUTABLE-FREEZE-MANIFEST",
+  "checkpoint_id": "CP16_IMMUTABLE_FREEZE",
+  "timestamp_utc": "2026-11-13T18:06:49.175378+00:00",
+  "execution_identity": "RS-AV-R2-GEMINI-CARBON",
+  "model": "Gemini 4 Carbon (High reasoning)",
+  "project": "series/revue-starlight",
+  "authority_status": {
+    "status": "draft_noncurrent",
+    "do_not_use_as_current_authority": true,
+    "existing_corpus_exposure_at_freeze": false,
+    "ova_narrative_exposure": true,
+    "movie_narrative_exposure": true,
+    "re_live_mobile_game_exposure": false,
+    "external_paratext_exposure": false
+  },
+  "inspection_capabilities_and_limits": {
+    "native_video_ingestion": "FFmpeg H.264/AAC MP4 overlapping segments via read_file; verified 1.000 fps visual sampling (t = k + 0.46s) + 100% continuous synchronized Japanese audio perception",
+    "high_density_visual_pass2": "Unburned 1920x1080 PNG frame pulls, 4-12 fps contact sheets around edit/combat boundaries, cropdetect aspect-ratio verification",
+    "high_fidelity_audio_pass2": "Primary 48 kHz lossless stereo FLAC (TV/OVA, pinned via -map 0:v:0 -map 0:a:0 to exclude S01E01/05/10 cast commentary) + upstream 635 kbps 6-channel 5.1 AAC stem telemetry (Movie 0:a:1, 7,222 1s bins) + 0.5s stereo RMS curves",
+    "missing_or_blocked_channels": [
+      "OVA01-OVA03 carry 0% Japanese subtitle tracks (resolved via pure Japanese FLAC listening + 1080p signage; uncertain rapid syllables marked [聴取不確定])",
+      "Revue Starlight -Re LIVE- mobile game, stage plays, manga, and [SPOILERS] extra fun fact notes.txt excluded by assignment governance",
+      "Editorial note: frozen CP01 TV01 YAML line 15 had SHA-256 transcription typo (f4dc5d4b...); true S01E01.mkv digest is a6a97c09... (preserved without retroactive edit to CP01)"
+    ]
+  },
+  "total_inspected_units": 16,
+  "total_inspected_duration_seconds": 25842.313,
+  "source_units": [
+    {
+      "unit": "TV01",
+      "path": "urn:rs-av-r2:primary-media:Shoujo Kageki Revue Starlight - S01E01.mkv",
+      "bytes": 1167641893,
+      "duration_s": 1446.784,
+      "sha256": "a6a97c09edc8e69c1d283822afff560a50609775893e3e429e7d310c01852250",
+      "aux_ass_sha256": "06c35606770414ff4e4bde6225c6d853ba5f27c8eed992d0208cb6f9e78a8e4e"
+    },
+    {
+      "unit": "TV02",
+      "path": "urn:rs-av-r2:primary-media:Shoujo Kageki Revue Starlight - S01E02.mkv",
+      "bytes": 1073255013,
+      "duration_s": 1445.615,
+      "sha256": "899a91f16b01ffcd00f91ded0cb5e27cd9254c0225afa3920270820a6ad36eda",
+      "aux_ass_sha256": "9fdd1039588b5ef6675482ee7711a992e14e7951c8b46759ab33b73e2f82a1fb"
+    },
+    {
+      "unit": "TV03",
+      "path": "urn:rs-av-r2:primary-media:Shoujo Kageki Revue Starlight - S01E03.mkv",
+      "bytes": 995626610,
+      "duration_s": 1445.78,
+      "sha256": "f8ebfcb4a48f3ca32ce2e303e77c58c8a4eea3e066aca985e1274736faf20aa1",
+      "aux_ass_sha256": "236353e6bc06bca90ef4c9e2eb2271c4816ddaaff3c48f48f9386b1aab511396"
+    },
+    {
+      "unit": "TV04",
+      "path": "urn:rs-av-r2:primary-media:Shoujo Kageki Revue Starlight - S01E04.mkv",
+      "bytes": 1026276103,
+      "duration_s": 1445.655,
+      "sha256": "b2d2bcf99d7111e3436d49df21383e330402366d35522122b4335c6e9be97d9d",
+      "aux_ass_sha256": "2e5b611a95e14a6e6cd98ae5e8bbed614beebf21b4378956904d2e0ecbe8d263"
+    },
+    {
+      "unit": "TV05",
+      "path": "urn:rs-av-r2:primary-media:Shoujo Kageki Revue Starlight - S01E05.mkv",
+      "bytes": 884638742,
+      "duration_s": 1446.784,
+      "sha256": "7168a34c9920d88fc019354999167b9685cdc106e1cb7ecaa723e07703a994c1",
+      "aux_ass_sha256": "740e3e1c08b95b9a56c6a2ee7be9acdacdbc8144c467006145b89f946b23eb35"
+    },
+    {
+      "unit": "TV06",
+      "path": "urn:rs-av-r2:primary-media:Shoujo Kageki Revue Starlight - S01E06.mkv",
+      "bytes": 910448052,
+      "duration_s": 1445.78,
+      "sha256": "84abc1e3e49868adbbd6adb77f5a6bfc63fa681f055a11eaf0434517ea30679d",
+      "aux_ass_sha256": "f13bdbd8c8e2de51e09b45a70ce65b6e55738a0ea06c35f422f77d771264da38"
+    },
+    {
+      "unit": "TV07",
+      "path": "urn:rs-av-r2:primary-media:Shoujo Kageki Revue Starlight - S01E07.mkv",
+      "bytes": 780050926,
+      "duration_s": 1445.63,
+      "sha256": "6bf41ce89db359ef18a6bc88ad0799363e96565bf7a92dd9ac584cc4620c6e46",
+      "aux_ass_sha256": "67903a213ff2e89095031f0ece062517f7b51ded9363b3da51234cf0e200e9b8"
+    },
+    {
+      "unit": "TV08",
+      "path": "urn:rs-av-r2:primary-media:Shoujo Kageki Revue Starlight - S01E08.mkv",
+      "bytes": 920070911,
+      "duration_s": 1445.67,
+      "sha256": "a8dce7414bd1e09d1e56f2f25f088c739e2fce48b0fefc7bab5cdd7496245ce3",
+      "aux_ass_sha256": "8ec6c7a6b907748cc609d6d4c86206b57070f6ab29a3a2066d4aa9ce92409187"
+    },
+    {
+      "unit": "TV09",
+      "path": "urn:rs-av-r2:primary-media:Shoujo Kageki Revue Starlight - S01E09.mkv",
+      "bytes": 994274149,
+      "duration_s": 1447.11,
+      "sha256": "ff53750e4d26305afabd06af8c752166d4289cf7d32c7d48abc2989a417bc375",
+      "aux_ass_sha256": "5c2962acaa09211abd614525ee76b285bd0d3652cffd055c7853ee51ad1f2008"
+    },
+    {
+      "unit": "TV10",
+      "path": "urn:rs-av-r2:primary-media:Shoujo Kageki Revue Starlight - S01E10.mkv",
+      "bytes": 1028296171,
+      "duration_s": 1447.4,
+      "sha256": "78d4c66f73ccb1d51dd24a2058bf42d8005dab8d207ba634b5b65e66ecd0c8b4",
+      "aux_ass_sha256": "631304ff21efeec341b4627fab3854372836029c98fdeff0db8106a4daf487fe"
+    },
+    {
+      "unit": "TV11",
+      "path": "urn:rs-av-r2:primary-media:Shoujo Kageki Revue Starlight - S01E11.mkv",
+      "bytes": 914083229,
+      "duration_s": 1445.78,
+      "sha256": "7b279ba1efb60a9d63cf43f88940a1e0c31d49cf77f6d4076af72bc002d996df",
+      "aux_ass_sha256": "9c394734966462d16f5a4a9b39b8e5eef3ae23c659ded7980e3589c46e5b8ec3"
+    },
+    {
+      "unit": "TV12",
+      "path": "urn:rs-av-r2:primary-media:Shoujo Kageki Revue Starlight - S01E12.mkv",
+      "bytes": 895844595,
+      "duration_s": 1430.805,
+      "sha256": "887501ca140a02c40da82faebd09ee9795d2de9e9dfb0864af8da1ef23261b85",
+      "aux_ass_sha256": "6e25d70372949508d19462bbff44f349d783b2fd237596396cf9e1770f8f810b"
+    },
+    {
+      "unit": "OVA01",
+      "path": "urn:rs-av-r2:primary-media:ep01.analysis-softsub.mkv",
+      "bytes": 150123066,
+      "duration_s": 419.42,
+      "sha256": "14bcfd93131d1cfeea41b52c3370ca877e48cfbe69e4fae8434f1e7d48d8c6c1",
+      "aux_ass_sha256": null
+    },
+    {
+      "unit": "OVA02",
+      "path": "urn:rs-av-r2:primary-media:ep02.analysis-softsub.mkv",
+      "bytes": 191076179,
+      "duration_s": 428.43,
+      "sha256": "04b35dd4b04f6932eece9d5292d2973612c7157989268ed92feb2162f8c6e1bc",
+      "aux_ass_sha256": null
+    },
+    {
+      "unit": "OVA03",
+      "path": "urn:rs-av-r2:primary-media:ep03.analysis-softsub.mkv",
+      "bytes": 237179855,
+      "duration_s": 433.435,
+      "sha256": "c2152663a82472b0a618c5ca09f7e826b82706d5a07647253c221603ff70a38f",
+      "aux_ass_sha256": null
+    },
+    {
+      "unit": "MOVIE",
+      "path": "urn:rs-av-r2:primary-media:[Veggie_Sub]_Shoujo☆Kageki_Revue_Starlight_Movie.analysis-softsub.mkv",
+      "bytes": 1479553837,
+      "duration_s": 7222.235,
+      "sha256": "dd3c3858effe78bfdc4f67b588ec23f274460a33fc3968c8c83a745e71a41099",
+      "upstream_51_mkv_sha256": "8674bf5ec2192fe0ff77e7b8d9644231da6e9444964a09cdda17d9182492685a",
+      "aux_ass_sha256": "5992b2b769783b558886e024cf119769af7403d668ac85483bb4a2f555341783"
+    }
+  ],
+  "claim_ids": [
+    "RS-AV-R2-GEMINI-CARBON-CLM-0001",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0002",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0003",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0004",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0005",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0006",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0007",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0008",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0009",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0010",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0011",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0012",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0013",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0014",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0015",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0016",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0017",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0018",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0019",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0020",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0021",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0022",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0023",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0024",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0025",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0026",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0027",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0028",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0029",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0030",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0031",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0032",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0033",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0034",
+    "RS-AV-R2-GEMINI-CARBON-CLM-0035"
+  ],
+  "retrospective_revision_ids": [
+    "[REV-MOV-01]",
+    "[REV-MOV-02]",
+    "[REV-MOV-03]",
+    "[REV-MOV-04]",
+    "[REV-OVA01-01]",
+    "[REV-OVA02-01]",
+    "[REV-OVA03-01]",
+    "[REV-TV02-01]",
+    "[REV-TV02-02]",
+    "[REV-TV03-01]",
+    "[REV-TV03-02]",
+    "[REV-TV04-01]",
+    "[REV-TV04-02]",
+    "[REV-TV05-01]",
+    "[REV-TV05-02]",
+    "[REV-TV06-01]",
+    "[REV-TV06-02]",
+    "[REV-TV07-01]",
+    "[REV-TV07-02]",
+    "[REV-TV08-01]",
+    "[REV-TV08-02]",
+    "[REV-TV09-01]",
+    "[REV-TV09-02]",
+    "[REV-TV10-01]",
+    "[REV-TV10-02]",
+    "[REV-TV10-03]",
+    "[REV-TV11-01]",
+    "[REV-TV11-02]",
+    "[REV-TV11-03]",
+    "[REV-TV12-01]",
+    "[REV-TV12-02]",
+    "[REV-TV12-03]"
+  ],
+  "open_question_ids": [
+    "[OPEN-MOV-01]",
+    "[OPEN-OVA03-01]",
+    "[OPEN-TV01-01]",
+    "[OPEN-TV01-02]",
+    "[OPEN-TV01-03]",
+    "[OPEN-TV01-04]",
+    "[OPEN-TV01-05]",
+    "[OPEN-TV03-01]",
+    "[OPEN-TV04-01]",
+    "[OPEN-TV05-01]",
+    "[OPEN-TV05-02]",
+    "[OPEN-TV06-02]",
+    "[OPEN-TV06-03]",
+    "[OPEN-TV07-01]",
+    "[OPEN-TV07-02]",
+    "[OPEN-TV07-03]",
+    "[OPEN-TV08-01]",
+    "[OPEN-TV08-02]",
+    "[OPEN-TV09-01]",
+    "[OPEN-TV09-02]",
+    "[OPEN-TV10-01]",
+    "[OPEN-TV11-01]",
+    "[OPEN-TV12-01]"
+  ],
+  "frozen_artifacts": {
+    "00_inventory/RS_AV_R2_SOURCE_AND_EXECUTION_INVENTORY.md": {
+      "size_bytes": 20820,
+      "sha256": "b5b8ddc6af1cb1c8423395b6db2e6f544ada9e3abda37aa60525d3aa3af86970"
+    },
+    "00_inventory/RS_AV_R2_SOURCE_INVENTORY_DATA.json": {
+      "size_bytes": 215733,
+      "sha256": "91bb3ec5e639e7c1354ba6b554d9f14e96210f95f2e783197fb26c7d2b635912"
+    },
+    "01_tv_episodes/RS_AV_R2_TV01_DEEP_READING.md": {
+      "size_bytes": 54820,
+      "sha256": "4943af4a7becb1fe55c6b742ba32b90a99d1aebd236f47d7b0d47d547c56e36e"
+    },
+    "01_tv_episodes/RS_AV_R2_TV02_DEEP_READING.md": {
+      "size_bytes": 54126,
+      "sha256": "a1257bd046996dab464c92b539c94b366a1c98a45a3f0c7ba9d57d161164ca16"
+    },
+    "01_tv_episodes/RS_AV_R2_TV03_DEEP_READING.md": {
+      "size_bytes": 49099,
+      "sha256": "9f1a1a1d6b29a34ddec3dca324745fde7f1d8857f380935c642137517f6dc609"
+    },
+    "01_tv_episodes/RS_AV_R2_TV04_DEEP_READING.md": {
+      "size_bytes": 50388,
+      "sha256": "9d13564d0d6882c749ab15e84f6f0e5c3175a283862c21bebfc38f6152118172"
+    },
+    "01_tv_episodes/RS_AV_R2_TV05_DEEP_READING.md": {
+      "size_bytes": 47808,
+      "sha256": "34bc306cebf40d1bcf02792d029d4f17bf5ddc91116d88aa91f6db22cb61756a"
+    },
+    "01_tv_episodes/RS_AV_R2_TV06_DEEP_READING.md": {
+      "size_bytes": 46281,
+      "sha256": "047c93d3f89d7506684850f4532953445ba5c1d1a734efc6e4827ac020bb1342"
+    },
+    "01_tv_episodes/RS_AV_R2_TV07_DEEP_READING.md": {
+      "size_bytes": 47353,
+      "sha256": "2a8859fd02563e3c30d7b12bcf5c46680175ec023c72bcd62ab67bb6e2b6f1b1"
+    },
+    "01_tv_episodes/RS_AV_R2_TV08_DEEP_READING.md": {
+      "size_bytes": 43079,
+      "sha256": "0d196add269696623b16b286ae57cfb67d95d174f391009da3a29acfc2bd13f3"
+    },
+    "01_tv_episodes/RS_AV_R2_TV09_DEEP_READING.md": {
+      "size_bytes": 45810,
+      "sha256": "20bc0218c7c940b0437edde33bd43d249a399c0c6941789b0b1eeafe340b8b17"
+    },
+    "01_tv_episodes/RS_AV_R2_TV10_DEEP_READING.md": {
+      "size_bytes": 57087,
+      "sha256": "e6e009368d3c86727bae409b46e366f2ac07bbdca947ad52747a4d34d55e8327"
+    },
+    "01_tv_episodes/RS_AV_R2_TV11_DEEP_READING.md": {
+      "size_bytes": 48058,
+      "sha256": "f21ed8730f7634601024b4fb10bf73f8b01c72e43a568159b69396a0f5c458cd"
+    },
+    "01_tv_episodes/RS_AV_R2_TV12_DEEP_READING.md": {
+      "size_bytes": 54936,
+      "sha256": "105c26cb9a535bc721e9598a78ff02a65acf18974549a7e348e5252626d0a75d"
+    },
+    "02_tv_synthesis/RS_AV_R2_TV_ONLY_SYNTHESIS.md": {
+      "size_bytes": 67048,
+      "sha256": "a4262c89390e089fefbf62592c06802b5ee40e8321afb4cfe0d2bad5bf159f1d"
+    },
+    "03_ovas/RS_AV_R2_OVA01_READING.md": {
+      "size_bytes": 19781,
+      "sha256": "83f2646714c79d38d5b348a57a109a1c117d6dc1eba6b9a8e477a10ac1e9b6a3"
+    },
+    "03_ovas/RS_AV_R2_OVA02_READING.md": {
+      "size_bytes": 17160,
+      "sha256": "26eaa34a6a2329eb3bb7ab286b0ea6e7b30ada34b22c34e76e98c3f95ef00ab7"
+    },
+    "03_ovas/RS_AV_R2_OVA03_READING.md": {
+      "size_bytes": 17478,
+      "sha256": "67669d88d9373f4d95bbec723cbb003e3646b2e69fb9e13253741bc23821f5a2"
+    },
+    "03_ovas/RS_AV_R2_OVA_TO_TV_SUPPLEMENT.md": {
+      "size_bytes": 8971,
+      "sha256": "51d60de9d1d321911fb8183c77b032d9f6093bd4601b2400b08a322943606898"
+    },
+    "04_movie/RS_AV_R2_MOVIE_MONOGRAPH.md": {
+      "size_bytes": 74948,
+      "sha256": "2e36cc38ea487b035406cad200e49e3d36e90fa0269546a15c3a356d73f24506"
+    },
+    "05_full_synthesis/RS_AV_R2_FULL_ANIMATED_CORPUS_SYNTHESIS.md": {
+      "size_bytes": 54918,
+      "sha256": "5fb0fcc201f186a3184d87b31518203d26b761a8f3095d4ceec4a35542aaa3c9"
+    },
+    "06_ledgers/RS_AV_R2_CHARACTER_STATES_AND_KNOWLEDGE_LEDGER.md": {
+      "size_bytes": 73394,
+      "sha256": "2d90ebabd148022cd968370349f4d77bb36ed48c4942ca0fbb51e5bc6ebe1b1a"
+    },
+    "06_ledgers/RS_AV_R2_DIRECTED_RELATIONSHIPS_LEDGER.md": {
+      "size_bytes": 49931,
+      "sha256": "4e6420ed95d7de4e72e697b4320e4b96358b370d1ba44471e61b5f18d539131a"
+    },
+    "06_ledgers/RS_AV_R2_JAPANESE_SPEECH_AND_VOCAL_LEDGER.md": {
+      "size_bytes": 57808,
+      "sha256": "77d6c872d5af4d68b8c26189b1e33f229ee18d0c698b6828d6870e8ab445ae21"
+    },
+    "06_ledgers/RS_AV_R2_MAJOR_CLAIM_AND_REVISION_REGISTER.md": {
+      "size_bytes": 106857,
+      "sha256": "f038dbf5bbb3f020a6fff324ced0418f20f1898e122f5a2067babf024cd6db53"
+    },
+    "06_ledgers/RS_AV_R2_MUSICAL_DRAMATURGY_LEDGER.md": {
+      "size_bytes": 48544,
+      "sha256": "7c1b5cf24d413d0b60ae9acced1fb81c39e0f10a808610045a008ef8fd96fabc"
+    },
+    "06_ledgers/RS_AV_R2_VISUAL_AND_THEATRICAL_FORM_LEDGER.md": {
+      "size_bytes": 50476,
+      "sha256": "ad2984c7f6a4a1ace89d16761dcc72578bd782a8ed94295c57402aa8d170680e"
+    }
+  },
+  "git_commit_chain_through_cp15": [
+    {
+      "commit": "5ef61997ec88c7e5e256640158414d63f51be363",
+      "date": "2026-11-12 20:45:07 -0500",
+      "subject": "CP00: Technical source & execution inventory, multimodal calibration, and initialized ledgers"
+    },
+    {
+      "commit": "d0365cb46c4e4e0fb530b374d6afb1eeba4838b6",
+      "date": "2026-11-12 21:04:30 -0500",
+      "subject": "CP01: Freeze TV01 independent reading, cumulative ledgers, and checkpoint manifest"
+    },
+    {
+      "commit": "054e51ad817233e6926aeff69fc260ad6cab32ef",
+      "date": "2026-11-12 21:26:53 -0500",
+      "subject": "CP02: Freeze TV02 independent reading, cumulative ledgers, and checkpoint manifest"
+    },
+    {
+      "commit": "bb4a0bc3c811a316feade9100f39dd838229cd6e",
+      "date": "2026-11-12 21:53:03 -0500",
+      "subject": "CP03: Freeze TV03 independent reading, cumulative ledgers, and checkpoint manifest"
+    },
+    {
+      "commit": "4ad2fdf2f11cd44164bffdde47894c5ff4353f96",
+      "date": "2026-11-12 22:21:56 -0500",
+      "subject": "CP04: Freeze TV04 independent reading, cumulative ledgers, and checkpoint manifest"
+    },
+    {
+      "commit": "633f952311349f49d6212fcdf54ca33ed9ccf6cc",
+      "date": "2026-11-12 22:44:13 -0500",
+      "subject": "CP05: Freeze TV05 independent reading, cumulative ledgers, and checkpoint manifest"
+    },
+    {
+      "commit": "2edbaedcd6c6e205c0a4c4edbd42addbfdab0dac",
+      "date": "2026-11-12 23:01:57 -0500",
+      "subject": "CP06: Freeze TV06 independent reading, cumulative ledgers, and checkpoint manifest"
+    },
+    {
+      "commit": "a22db1a9dfde814c1a7774c5c2060900a08ee4c5",
+      "date": "2026-11-12 23:19:54 -0500",
+      "subject": "CP07: Freeze TV07 independent reading, cumulative ledgers, and checkpoint manifest"
+    },
+    {
+      "commit": "53a29a79312d7d5648a5d7c4cc07572ac5a26103",
+      "date": "2026-11-12 23:40:21 -0500",
+      "subject": "CP08: Freeze TV08 independent reading, cumulative ledgers, and checkpoint manifest"
+    },
+    {
+      "commit": "43deb0e1beb8ea17f3562406e2ee352f911c8438",
+      "date": "2026-11-13 00:03:42 -0500",
+      "subject": "CP09: Freeze TV09 independent reading, cumulative ledgers, and checkpoint manifest"
+    },
+    {
+      "commit": "8a4a3fa48818ab27bcfa8df98591f056788d8312",
+      "date": "2026-11-13 00:27:14 -0500",
+      "subject": "CP10: Freeze TV10 independent reading, cumulative ledgers, and checkpoint manifest"
+    },
+    {
+      "commit": "bc67aab046a294770235783b41c98c57611b929a",
+      "date": "2026-11-13 00:52:45 -0500",
+      "subject": "CP11: Freeze TV11 independent reading, cumulative ledgers, and checkpoint manifest"
+    },
+    {
+      "commit": "409ad975cf821cb716b2c0e3df0ce1bd3a895d4b",
+      "date": "2026-11-13 01:16:11 -0500",
+      "subject": "CP12: Freeze TV12 independent reading, cumulative ledgers, and checkpoint manifest"
+    },
+    {
+      "commit": "c0e0559c72ab13f7ce87b3d381d4b4fcf1150e91",
+      "date": "2026-11-13 11:30:50 -0500",
+      "subject": "CP13_TV_SYNTHESIS_FREEZE: Freeze TV_SYNTHESIS independent reading, cumulative ledgers, and checkpoint manifest"
+    },
+    {
+      "commit": "849d4b0c2b253324854d0a8558660d072d8be605",
+      "date": "2026-11-13 11:52:31 -0500",
+      "subject": "CP14_OVA_FREEZE: Freeze OVA01_OVA03 independent reading, cumulative ledgers, and checkpoint manifest"
+    },
+    {
+      "commit": "279a3737e1cded918616908e3da28e2edd86a44a",
+      "date": "2026-11-13 12:57:47 -0500",
+      "subject": "CP15_MOVIE_FREEZE: Freeze 2021 Sequel Film monograph and update 6 cumulative ledgers to MOVIE horizon (existing_corpus_exposure=false)"
+    }
+  ]
+}

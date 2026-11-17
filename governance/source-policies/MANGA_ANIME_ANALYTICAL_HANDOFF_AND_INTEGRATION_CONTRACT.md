@@ -2,11 +2,11 @@
 title: Manga / Anime Analytical Handoff and Integration Contract
 artifact_id: MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT
 artifact_type: analytical_handoff_integration_contract
-version: "1.1"
+version: "1.3"
 status: canonical
 scope: cross-session analytical transfer, evidence-state preservation, receipt, integration acceptance, and the named-subject and referential-clarity standard for analytical prose
 created: 2026-09-13
-last_updated: 2026-10-14
+last_updated: 2026-11-15
 maintainer: ChatGPT + user
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -26,9 +26,11 @@ The reusable [stage handoff template](templates/MANGA_ANIME_ANALYTICAL_STAGE_HAN
 
 ## 1. When a handoff is required
 
-Use this contract when responsibility moves to a different session/environment and the receiving operation could otherwise lose scope, source provenance, analytical substance, unresolved evidence needs, or concurrency state. Important examples are architecture-to-local integration, local-to-cloud synthesis, cloud-to-local AV completion, and interrupted long-run recovery.
+Use this contract when responsibility moves to a different session/environment and the receiving operation could otherwise lose scope, source provenance, analytical substance, unresolved evidence needs, or concurrency state. Important examples are architecture-to-local integration, local-to-cloud synthesis, cloud-to-local AV completion, and interrupted long-run recovery. The [audiovisual reconciliation protocol](MANGA_ANIME_AUDIOVISUAL_RECONCILIATION_PROTOCOL.md) specializes this contract for the relay between bundle-mediated reading and continuous audiovisual review.
 
 A trivial internal action need not create a new artifact. For substantial transfers, use one operational packet with one start-here surface. This packet does not become another current series entrypoint.
+
+Specialist and reviewer contributions inside one source-unit transaction ([topology Section 4.1](MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading)) are preserved in that unit's transaction record under topology Section 4.1.5. They need a packet under this contract only when a responsibility, rather than a contribution, changes hands, or when substantial work would otherwise be lost.
 
 ## 2. Identity, scope, and authority
 
@@ -165,6 +167,8 @@ A full raw-source reread is not universally required. Verify the sources needed 
 
 For AV integration, verify the actual inspection route and whether new findings change interpretation. For mature synthesis, check that it makes an argument rather than restates headings. For reconstruction, check its behavior/state constraints and prediction responsibilities separately from literary prose.
 
+For a substantive sequential source reading, acceptance also establishes the criteria of topology Section 4.1.6. A multi-agent review receipt is evidence of process, not of correctness.
+
 Passing a repository validator is necessary where required, but it is not a literary-quality certificate.
 
 ## 12. Publication receipt and promotion
@@ -227,7 +231,7 @@ Use a role label when it carries analytical work the name alone would not: a rep
 
 ### 15.5 Frozen and historical artifacts
 
-Reference repairs in frozen or historical analytical material remain subject to existing edit authority, the archive policy, and the [frozen-release protections in routing section 8.4](../CHATGPT_AUTHORITY_AND_ROUTING.md#84-frozen-release-administrative-maintenance). This section grants no new edit authority. Do not edit artifacts declared byte-immutable, hash-locked or archival-locked, or assigned `NONE_FROZEN`; keep those artifacts unchanged and direct the repair to an already authorized separate erratum, wrapper or successor, as applicable. Incrementing a version does not waive any authority restriction or lock.
+Reference repairs in frozen or historical analytical material remain subject to existing edit authority, the archive policy, and the [frozen-release protections in routing section 8.2](../AGENT_ROUTING.md#84-frozen-release-administrative-maintenance). This section grants no new edit authority. Do not edit artifacts declared byte-immutable, hash-locked or archival-locked, or assigned `NONE_FROZEN`; keep those artifacts unchanged and direct the repair to an already authorized separate erratum, wrapper or successor, as applicable. Incrementing a version does not waive any authority restriction or lock.
 
 Where existing authority and protections permit the edit, a repair that only restores names or resolves ambiguity, leaving attribution, focalization, historical knowledge, claims, observations, locators and arguments unchanged, may be applied as a recorded editorial repair: increment the artifact's version and keep a record of what changed and why. A change that alters attribution, focalization, knowledge state or claim meaning is a substantive correction and uses the archive policy's revision vocabulary and a visible erratum; it is never folded silently into an editorial pass.
 
@@ -243,6 +247,14 @@ Before semantic acceptance, authority promotion, or integration of substantial a
 A mechanical scanner may list candidate labels for review. It must not certify correctness by frequency counts, and it must not perform automatic substitution. The check requires human-readable semantic judgment.
 
 ## Changelog
+
+### v1.3 - 2026-11-15 - Multi-agent source reading
+
+Section 1 keeps intra-unit specialist and reviewer contributions in the unit's transaction record under topology Section 4.1 rather than requiring a packet for each, and Section 11 adds that section's acceptance criteria for substantive source readings. Transfer, receipt and publication requirements are unchanged.
+
+### v1.2 - 2026-10-24 - Audiovisual reconciliation link
+
+Points the bundle-mediated to continuous-AV relay to the audiovisual reconciliation protocol, which specializes this contract. No requirement here changes.
 
 ### v1.1 - 2026-10-14 - Named subjects and referential clarity
 

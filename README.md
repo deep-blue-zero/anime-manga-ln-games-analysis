@@ -56,7 +56,7 @@ This repository is the **analytical corpus**, not the primary-source media archi
 
 Depending on the project and source policy, governed evidence outside Git may include manga or light-novel source files, full-resolution video and audio, game-extraction corpora, large image or frame collections, transcripts, alignments, and other deterministic derivatives unsuitable for the public repository. A processed artifact can still be evidence when it selects, transforms, joins, or routes source material without asserting what that material means.
 
-The boundary is therefore evidence versus interpretation, not simply raw versus processed. Consult [Git authority and change routing](governance/CHATGPT_AUTHORITY_AND_ROUTING.md), [authority scope](governance/AUTHORITY_SCOPE.json), and [artifact eligibility](governance/policies/ARTIFACT_ELIGIBILITY.md) for the controlling details. Public-safe references to externally retained artifacts live under [`provenance/`](provenance/).
+The boundary is therefore evidence versus interpretation, not simply raw versus processed. Consult [agent routing](governance/AGENT_ROUTING.md) and [artifact eligibility](governance/policies/ARTIFACT_ELIGIBILITY.md) for the controlling details. Public-safe references to externally retained artifacts live under [`provenance/`](provenance/).
 
 ## Analytical execution
 
@@ -83,16 +83,15 @@ See [Repository structure](governance/REPOSITORY_STRUCTURE.md) for the authorita
 Reader navigation begins with the corpus index and project entrypoints above. Repository-changing sessions should instead bootstrap from:
 
 1. [`AGENTS.md`](AGENTS.md)
-2. [`governance/AUTHORITY_STATE.yaml`](governance/AUTHORITY_STATE.yaml) and [`governance/AUTHORITY_SCOPE.json`](governance/AUTHORITY_SCOPE.json)
-3. [Git authority and change routing](governance/CHATGPT_AUTHORITY_AND_ROUTING.md)
-4. the applicable project registry and canonical entrypoint
-5. the [change-integration checklist](governance/policies/CHANGE_INTEGRATION_CHECKLIST.md) before staging or committing
+2. [agent routing](governance/AGENT_ROUTING.md)
+3. the applicable project registry and canonical entrypoint
+4. the [change-integration checklist](governance/policies/CHANGE_INTEGRATION_CHECKLIST.md) before staging or committing
 
 The live governance documents control when they differ from conversation memory, copied instructions, filename similarity, or historical migration records.
 
 ## Repository status
 
-Git is the epoch-1 primary analytical authority for the exact scope declared in [authority scope](governance/AUTHORITY_SCOPE.json), subject to the narrower Drive-native and external-evidence roles recorded there. The live [authority state](governance/AUTHORITY_STATE.yaml) records that the owner accepted the epoch on 2026-10-15, after its 14-day stabilization period; that record, rather than this summary, controls the current status.
+`main` is the analytical authority, subject to the narrower Drive-native and external-evidence roles described in [agent routing](governance/AGENT_ROUTING.md). The owner accepted the Drive-to-Git migration (authority epoch 1) on 2026-10-15, after its 14-day stabilization period; its records are archived in [`governance/archive/migration/`](governance/archive/migration/AUTHORITY_EPOCH_1_ACTIVATION_RECORD.md).
 
 The repository originated from a sealed Drive-to-Git migration covering 2,939 representations of 2,924 unique source artifacts across 37 series roots and two study roots. Those are historical cutover figures, not the current corpus size. Governed Git-native work and later imports have expanded the live corpus; use the [corpus index](governance/MANGA_ANIME_CORPUS_INDEX.md) and machine-readable [series](series/registry.json) and [study](studies/registry.json) registries for current coverage.
 

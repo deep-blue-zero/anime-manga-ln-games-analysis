@@ -2,7 +2,7 @@
 series: TOMOZAKI
 artifact_type: longitudinal_ledger
 scope: EFFORT_COMPETITION_GOAL_OWNERSHIP_COMPARATIVE_SELF_WORTH
-generation: V1.6
+generation: V1.7
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -11,6 +11,8 @@ do_not_use_as_current_authority: false
 ---
 
 # Tomozaki — effort, competition, and goal-ownership ledger
+
+Latest analytical state: **V12** in sections 79-84. Sections 1-78 preserve their dated historical boundaries and R01-R05 qualifications; their earlier current-state labels do not override the V12 matrix and all 29 hypothesis dispositions.
 
 ## 1. Responsibility
 
@@ -2198,3 +2200,131 @@ The [Mimimi review](../08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATI
 - **H16/H17 — capacity does not dictate future ownership.** V11 `item/xhtml/p-0028.xhtml` P1–94 distinguishes earlier refusal, newly chosen help and institutional permission. `p-0030.xhtml` P1–170 distinguishes novice participation, collaborator expertise, a bounded initial request and an acknowledged extension. Neither demonstrates formal succession, unlimited availability or a chosen career.
 
 The chronological effort spine, Fumiya §31.5, Hinami §78.4 and Kikuchi §78.5 remain historical and analytical dependencies. These qualifications are current cross-owner evidence, not retrospective changes to frozen hypotheses.
+
+
+## 79. V12 transaction: scope, reading route and historical preservation
+
+This V1.7 amendment updates the effort responsibility through the admitted Japanese V12 witness, SHA-256 4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c. The source-facing [V12 reading](../02%20Sequential%20Readings/TOMOZAKI_V12_DEEP_READING.md), especially §§3-5 and §§6-9, owns the complete source-order argument, inherited adjudications, new claim register and endpoint. The [prospective entering snapshot](../08%20Audits%20and%20Manifests/TOMOZAKI_V12_PROSPECTIVE_ENTERING_SNAPSHOT.md) preserves the incoming V11/R01-R05 state. Its imported hypotheses and the chronological sections 1-78 above remain historical evidence rather than current claims that nothing subsequently happened.
+
+All 29 EFFORT-H identities remain stable. Section 83 supplies their latest disposition; §82 supplies the V12 regime matrix. Neither the new source nor this update promotes the monographs, specialist convergence, full-series synthesis or reconstruction gates. The six-owner source transaction and repository validation remain independently required.
+
+V12 paragraph routes below use exact ZIP members and count every p element, including empty and image-only paragraphs. Non-paragraph headings/ruby, all 42 spine members and 26 image occurrences, the afterword/colophon, eleven publisher supplements and non-spine navigation were inspected. The eleven advertising pages are excluded from narrative progression. Source facts, actor self-theories, reader interpretations and analyst value judgments retain separate force.
+
+## 80. V12: an owned rescue end does not settle the author's end
+
+### 80.1 Collective execution exposes a predetermined answer
+
+The V11 co-proposal becomes a four-person practice: Tomozaki, Kikuchi, Mimimi and Mizusawa meet in the second sewing room, while Hinami remains absent (item/xhtml/p-0011.xhtml P511-543). Mimimi and Mizusawa actively contribute rather than simply becoming names on an analyst's imagined team. Mimimi's account of chosen conduct and Mizusawa's roleplay alter Kikuchi's material.
+
+Kikuchi initially uses those accounts to support a conclusion already chosen: Alcia should become a self-luminous star. Her own simulated Alcia accuses Chris of hearing only the echo of the desired answer. Kikuchi acknowledges that criticism as applying to her interviewing and authorship (item/xhtml/p-0013.xhtml P384-488). The actual Hinami has not voiced this objection to the draft. It is a writer's internal resistance model that nevertheless makes the writer and Tomozaki reconsider their practice.
+
+| Layer | V12 state at the block | Effort implication |
+|---|---|---|
+| Tomozaki wants Hinami to value herself | directly owned | does not by itself supply Kikuchi's writing reason or Hinami's permission |
+| Kikuchi wants to write the characters | directly owned | desire remains separate from justification for representing another person's pain |
+| peers volunteer their accounts | actual assent and cooperation | does not authorize every onward use or confer Hinami's consent |
+| a self-luminous-star conclusion | initially author-supplied | testimony selected only to confirm it is a method defect, not a shortage of effort |
+| story completion | blocked despite concentrated work | more time at the manuscript cannot replace revising the question |
+
+Kikuchi then asks whether she has value or a connection to the world without writing. Tomozaki's general reassurance does not reach her, and she names the borrowed character of his supplied reason (item/xhtml/p-0013.xhtml P492-549). The issue is therefore not lack of devotion to their shared project. It is the relation between the writer's own reason, an outcome she wishes for, and the subject's irreducible life.
+
+### 80.2 Experience and observation are corrections, not sufficient answers
+
+Kikuchi chooses a solo trip to Nagi Island and initially declines Tomozaki's company because she expects to borrow his reason again (item/xhtml/p-0013.xhtml P563-591). Her actual trip produces continued isolation and block rather than automatic renewal. After hearing that cost, Tomozaki says he wants to meet her; he waits for a reply and she accepts (item/xhtml/p-0014.xhtml P158-206). Her earlier refusal and later agreement are distinct permission states.
+
+Mitsu Umayahara's cloth sorting supplies unusually concrete deliberate practice. Kikuchi initially misclassifies the colors, repeatedly changes lighting and comparison, and improves. When a mismatched physical sample produces the wrong costume color, Kikuchi and Tomozaki make reversible proposals through color contrast and movement tests; Mitsu corrects placement and completes the sewing (item/xhtml/p-0016.xhtml P422-497/P649-857). The original mistake remains, expertise remains distributed, and successful color choice does not make untrained placement sufficient. The narrator offers alternative sample-mismatch mechanisms; exact personal fault is not established.
+
+Kikuchi's later attention to damaged birds does not declare the storm beneficial. She observes particular damage, acknowledges brokenness and waits while children supply their own meanings. Damaged birds become usable in the festival alongside new ones without becoming materially undamaged (item/xhtml/p-0016.xhtml P1242-1308; item/xhtml/p-0018.xhtml P1-39). The case strengthens recipient-sensitive facilitation, while the subjects' own activity matters to the result.
+
+### 80.3 The writer accepts answerability after observation
+
+Observation itself does not remove choice. Kikuchi cannot observe Nagisa's last thoughts, and omitting the fictional reunion would still be her authored decision. She recognizes that collecting other people's accounts had also let her avoid asking herself what she wanted to offer (item/xhtml/p-0021.xhtml P95-160).
+
+The unpublished Andy manuscript's revisions lead the couple to interpret prayer as the small personal wish remaining after exhaustive observation. That interpretation is not a recovered universal authorial law. Kikuchi explicitly adopts it as her own practice and later says she wants to write something people can believe with when they cannot believe alone (item/xhtml/p-0021.xhtml P239-391/P418-433; item/xhtml/p-0026.xhtml P121-163). Her own reason is now stated, and the completed story has actually reached Hinami.
+
+Kikuchi simultaneously says that Hinami's tears do not make the story correct and do not establish whether the fictional Nagisa's words were the real girl's feelings (item/xhtml/p-0026.xhtml P114-119). Completion, owned motive, subject benefit, historical truth, ethical authorization and publication remain separate variables. This is a material revision of the V11 borrowed-reason state, with the consent and career limits preserved.
+
+## 81. V12: reasons can be received without replacing grief or doubt
+
+### 81.1 Hinami's new interior account does not become everyone's knowledge
+
+V12 changes focalization to Hinami's first person. She describes the brief warmth of the birthday, the video room/scroll as the specific returning image, her self-hate, and the fear that renewed contact would restart correctness-driven effort (item/xhtml/p-0022.xhtml P42-110/P124-135). Her direct account strengthens the distinction between retained capacity and the reason to deploy it. It does not retrospectively turn every V11 inward passage into speech Tomozaki heard.
+
+Hinami also recalls the mathematical test result as an experience of personal agency under an inherited system that discounted free action (item/xhtml/p-0022.xhtml P6-10). Her effort is therefore neither empty output nor an intrinsically malicious proof project. Results once supplied genuine hope, while the single category of correctness later flattened distinct lived achievements.
+
+The novel prompts Hinami to distinguish remembered colors of study, track, games and public performance instead of counting all as interchangeable first places (item/xhtml/p-0022.xhtml P728-742). That revaluation occurs in her narration; it is new primary evidence for her uptake. It does not prove every event was good, every previous method legitimate or every relationship correctly understood.
+
+### 81.2 Nagisa's unknowability survives an emotionally consequential story
+
+Hinami explicitly retains accident, intentional road entry, physical dizziness and despair as possible explanations, with no way to decide even after more than five years (item/xhtml/p-0022.xhtml P504-514). Her immersive encounter with the fictional Nagisa permits her own apology, love and thanks to emerge. It does not disclose the dead girl's actual intention or certify Hinami's causal responsibility.
+
+The story's ellipse is a literary model for faith and doubt, connection and unresolved absence. Mathematical facts do not establish a psychological law that every person requires the same two supports or that Hinami will remain stable. Tomozaki's subsequent account is an offered reason and expression of confidence, not clinical or longitudinal proof.
+
+### 81.3 Actual limited re-entry follows; the unshown interval stays unshown
+
+Hinami tells Tomozaki she currently likes herself a little; he explicitly allows that the feeling might be temporary (item/xhtml/p-0026.xhtml P15-23). He performs a conventional offer to replace Nagisa, then retracts it himself and names the jointly made story as the available support beside her doubt (P30-102). This sequence must not be truncated into an accepted person-surrogate promise.
+
+Days later Hinami attends the school gym event in uniform, sits among friends and accepts the exhibition amid peer encouragement. She says she has stopped clinging to correctness and changes from Boxman to Found for their shared story (item/xhtml/p-0026.xhtml P212-267). These are actual contact, school-event and exhibition-acceptance changes. They do not demonstrate regular attendance, restored student-council authority, resumed coaching, a complete affirmative future end or permanent recovery. The exhibition match itself and its winner are not narrated.
+
+Tomozaki's own expressive professional aim also develops. Kikuchi asks what he wants to show; he chooses a recognizable shared rivalry for the planned exhibition rather than only the strongest current character matchup and wants his life story to convey enjoyment to valued people and supporters (item/xhtml/p-0026.xhtml P167-173/P239-284). Jack is now his main, but this episode supplies no new comparative win, contract, follower result, income or career exit condition.
+
+## 82. V12 effort regimes and ordinary cost
+
+| Actor | Goal and ownership | Practice, comparison and result | Stopping, cost and residual limit |
+|---|---|---|---|
+| Tomozaki | wants to support Hinami, remain Kikuchi's partner and develop professional play; accepts others' independent contributions | group interviews, travel, received care, skilled gentle approach and acceptance of a story-bearing exhibition; more than restored unique superiority | knowingly uses own-will rhetoric to secure Kikuchi's acceptance (p-0011 P97-98); novel displaces council work (p-0026 P181); no exhaustive privacy/allocation/exit rule |
+| Hinami | new slight self-liking and chosen public participation; no fully stated life plan | receives a story, retains doubt, accepts the exhibition, selects Found and relaxes her correctness claim | duration limited; death intent remains unknown; no council/tutorial reinstatement or general stopping rule |
+| Kikuchi | independently adopts a writing reason after borrowed reason, observation and personal prayer | draft revision, solo travel, cloth practice, children's self-narration, completed renamed story | exhaustion and renewed block persist through intermediate gains; owns final choice without claiming truth or subject permission; contract/release unshown |
+| Mimimi | continuing love, chosen restraint and self-regard through conduct she can endorse | names next-Tama dependence risk, declines past opportunism, runs with peers, cooperates in writing and return | no terminal romance/private-contact policy; council work neglected with Tomozaki; no career selected |
+| Mizusawa | own vulnerability and friendship become more directly inhabited | admits some initial access-to-Aoi instrumentality; receives Tomozaki's best-friend statement, thanks him, contributes roleplay | skill/deliberation can support genuine connection; V03 refusal remains, no renewed romantic answer or pursuit exit |
+| Tama | practiced craft and hero-model ethic are directly owned through action | skilled shop work, insists damaged birthday cake be redone; describes her own distortion and inability to dismiss the cost | queues/staff bear consequences; she acknowledges owner's-daughter latitude; no shop succession or universally correct hero rule |
+| Haruka | reads and actively relays the story, then seeks help after Aoi leaves | emotionally invested reading, invitation to Aoi and DM to Tomozaki | not all author/subject information demonstrably shared; no new model-independence or current council outcome |
+| Yuzu, Nakamura and Takei | actual delivery and public peer presence | three deliver paper; Takei's voice crosses the closed room, later public encouragement | Aoi's speculation about apology or Tomozaki's plan is not their direct motive report; Yuzu absorber rule and Nakamura burden-sharing remain untested |
+| Mitsu and island community | craft, continuity and shared festival, with divergent meanings | elder expertise and selective delegated help, costly damaged-bird folding, practical incomplete repair, local adaptation of story | hand limitation and failed samples remain real; no perfect communal reconciliation or source for main-cast career claims |
+| Rena, Konno and Akiyama | NO NEW RELEVANT TEST | publisher/afterword mentions are not actual contact/accountability events | preserve existing boundaries and OPENs; no compliance, apology or restitution inferred |
+
+For p-0011/p-0026 and other short forms in this matrix, the exact member prefix is item/xhtml/ and suffix .xhtml. These rows are situation-specific, not permanent work-ethic types.
+
+## 83. Current EFFORT-H01-H29 crosswalk after V12
+
+| Stable identity | V12 disposition and surviving scope | Exact source route / current retrieval |
+|---|---|---|
+| EFFORT-H01 | STRENGTHEN. Similar intensity now includes blocked writing, craft discipline, painful care, peer contribution and public participation and character selection with different reasons/costs. | item/xhtml/p-0013.xhtml P492-549; p-0014.xhtml P30-144; p-0016.xhtml P1191-1308; CRI-EFF-001 |
+| EFFORT-H02 | STRENGTHEN. Ask what effort serves and whether testimony is allowed to change its end; concentrated work can preserve a mistaken question. | item/xhtml/p-0013.xhtml P414-488; p-0021.xhtml P120-160; CRI-TOM-003/CRI-KIK-002 |
+| EFFORT-H03 | REVISE current / preserve formation. Direct Aoi interior strengthens earlier proof/self-hate account; own small revaluation and participation occur without resolving all motives or a broader future end. | item/xhtml/p-0022.xhtml P6-40/P728-812; p-0026.xhtml P15-23/P212-267; CRI-HIN-002/006 |
+| EFFORT-H04 | STRENGTHEN mechanism, revise completeness. Mimimi fears needing a next Tama for self-liking during physical separation, trusts the existing tie, and has a self-owned alternative; Aoi's later stale model is not narrator evidence that Mimimi never developed. | item/xhtml/p-0013.xhtml P59-79/P103-169; p-0022.xhtml P294-347; CRI-MIM-001/003 |
+| EFFORT-H05 | REVISE sufficiency / preserve value. Tama's specialness helped; Mimimi now says that alone would leave dependence and locates self-regard in chosen conduct. No permanent dyadic cure claimed. | item/xhtml/p-0013.xhtml P34-79/P143-154; CRI-MIM-002 |
+| EFFORT-H06 | STRENGTHEN. Borrowed techniques and collaborative material can become owned; the writer now distinguishes a supplied rescue reason from her later declared writing reason. | item/xhtml/p-0011.xhtml P455-488; p-0021.xhtml P429-433; p-0026.xhtml P159-163; CRI-TOM-002/CRI-KIK-002 |
+| EFFORT-H07 | STRENGTHEN adjacent friendship / preserve countercase. Mizusawa's uncomfortable admission becomes connection; neither pain nor Aoi's tears proves value by itself. | item/xhtml/p-0011.xhtml P417-507; p-0026.xhtml P117-119; CRI-MIZ-001 |
+| EFFORT-H08 | REVISE current scope. Found mirror choice foregrounds shared story/pleasure; competition can carry recognition without settling total worth or providing final winner. | item/xhtml/p-0026.xhtml P239-284; CRI-EFF-002 |
+| EFFORT-H09 | STRENGTHEN. Model cooperation and later chosen reading do not confer earlier permission; Aoi initially refuses and experiences invasion. | item/xhtml/p-0013.xhtml P414-488; p-0022.xhtml P157/P219-284; CRI-REL-004/005 |
+| EFFORT-H10 | STRENGTHEN. Tama's craft and Kikuchi's acquired color perception communicate chosen values; actual material/recipient constraints alter method. | item/xhtml/p-0014.xhtml P30-144; p-0016.xhtml P422-497/P711-857; CRI-TAM-001 |
+| EFFORT-H11 | STRENGTHEN. Wanting to meet Kikuchi changes Tomozaki's travel goal; her own prayer changes writing; current public participation exceeds pure proof. | item/xhtml/p-0014.xhtml P194-206; p-0021.xhtml P429-433; p-0026.xhtml P239-284 |
+| EFFORT-H12 | STRENGTHEN / LIMIT. Better observation requires revisable questions; even exhaustive-looking data do not reveal Nagisa's last intent or eliminate author choice. | item/xhtml/p-0013.xhtml P414-488; p-0016.xhtml P422-497; p-0021.xhtml P23-35/P130-160 |
+| EFFORT-H13 | STRENGTHEN. Learned social forms support actual friendship and embodied craft practice expands perception; neither skill origin nor generic experience guarantees sincere/accurate uptake. | item/xhtml/p-0011.xhtml P455-488; p-0016.xhtml P422-497/P1078-1153 |
+| EFFORT-H14 | PRESERVE limit / new local choice. Boxman remains available, but Hinami chooses Found for their shared story in the planned exhibition; the purpose of the 31 replay frames remains unknown. | item/xhtml/p-0011.xhtml P11-25; p-0026.xhtml P239-258; CRI-EFF-002 |
+| EFFORT-H15 | STRENGTHEN differentiation. Voluntary solo travel and concentrated writing still lack a sufficient owned reason; Kikuchi later explicitly chooses writing after recognizing observation cannot avoid decision. | item/xhtml/p-0013.xhtml P536-591; p-0021.xhtml P130-160/P418-433 |
+| EFFORT-H16 | REVISE proposal to execution. Four-person project, material relay and recipient uptake now occur; distinct peer roles are actual, not presumed equal knowledge. | item/xhtml/p-0011.xhtml P511-543; p-0013.xhtml P173-277; p-0022.xhtml P124-226; CRI-REL-005 |
+| EFFORT-H17 | STRENGTHEN. Received care, exhaustion, changed travel permission and neglected council preparation show capacity/ownership are not settled by devotion. | item/xhtml/p-0011.xhtml P70-108; p-0014.xhtml P158-206; p-0026.xhtml P177-184 |
+| EFFORT-H18 | PRESERVE / qualify attribution. Distress can block or intensify action; Kikuchi's calf-deep movement is actual but suicidal intention is not given. Aoi's initial information refusal has directly narrated fear. | item/xhtml/p-0021.xhtml P40-61; p-0022.xhtml P124-135; no diagnosis |
+| EFFORT-H19 | STRENGTHEN. Volunteers, writer, intended subject and incidental reader have different goals, information and refusal states. Shared rescue vocabulary is not equal ownership. | item/xhtml/p-0011.xhtml P233-281/P511-543; p-0022.xhtml P124-226 |
+| EFFORT-H20 | PRESERVE / revise current uptake. Correctness once flattened distinct accomplishments; Aoi now notices their difference. No new Rena test. | item/xhtml/p-0022.xhtml P728-742; CRI-HIN-004; Rena OPEN |
+| EFFORT-H21 | STRENGTHEN revisability / retain fragility. Tomozaki receives care, accepts method correction and develops a shared expressive aim without regaining a narrated unbeatable credential. | item/xhtml/p-0011.xhtml P70-108; p-0013.xhtml P414-488; p-0026.xhtml P239-284 |
+| EFFORT-H22 | STRENGTHEN local permissions / OPEN rules. Solo refusal, changed agreement, author draft-sharing assent and received affection are separate choices; no permanent waiver. | item/xhtml/p-0011.xhtml P250-281; p-0013.xhtml P583-591; p-0014.xhtml P194-206; p-0016.xhtml P156-191 |
+| EFFORT-H23 | STRENGTHEN ethical limit / REVISE owned reason. Finished story reaches Aoi and Kikuchi names her reason while denying truth/rightness follows from tears; prior consent and publication still unshown. | item/xhtml/p-0026.xhtml P106-163; CRI-KIK-002/CRI-REL-004 |
+| EFFORT-H24 | STRENGTHEN. Conventional romance, modeled approachable speech, roleplay and written fiction carry situated feeling; forms remain capable of selective pressure. | item/xhtml/p-0011.xhtml P97-98/P455-488; p-0016.xhtml P156-191; p-0022.xhtml P230-284 |
+| EFFORT-H25 | STRENGTHEN unknowability / REVISE desired response. Aoi explicitly still cannot know; in fiction-mediated response her own apology/love emerges instead of a recovered cause. | item/xhtml/p-0022.xhtml P510-514/P850-932; p-0026.xhtml P117; CRI-EPI-002 |
+| EFFORT-H26 | STRENGTHEN. Actual benefit and new return coexist with subject distress and missing prior consent; favorable uptake does not erase method or certify fiction. | item/xhtml/p-0022.xhtml P230-284; p-0026.xhtml P15-23/P117-119/P212-239 |
+| EFFORT-H27 | REVISE comparative model. Observation and irreducible personal prayer offer a third situated practice without proving all retrospective meaning benign or all control futile. | item/xhtml/p-0021.xhtml P239-391/P429-433; p-0026.xhtml P117-163; interpretive scope |
+| EFFORT-H28 | REVISE support medium. A story can supply an external reminder beside doubt; person-surrogate offer is explicitly withdrawn, and performance is no enforceable debt to admirers. | item/xhtml/p-0026.xhtml P30-102/P239-284; CRI-FORM-001/CRI-REL-004 |
+| EFFORT-H29 | REVISE execution / preserve consent limit. Distributed accounts revise the writer's model and reach Aoi; refusal, uptake, rightness and continued participation remain separate. | item/xhtml/p-0013.xhtml P414-488; p-0022.xhtml P124-284; p-0026.xhtml P117-119; CRI-REL-005 |
+
+All abbreviated p-NNNN.xhtml routes in this table resolve within item/xhtml/. The exact witness and paragraph convention are fixed in §79. The [claim index](TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md) owns the all 40 inherited, all 14 prospective and all 15 stable open-family crosswalks; this table preserves every EFFORT identity rather than inventing new hypotheses merely because the source is final.
+
+## 84. V12 boundary, counterevidence and handoff
+
+V12 completes the local narrative intervention and shows limited re-entry. It leaves Nagisa's intent and prevention unknowable, the school-year conflict unresolved, Yoko's practice unnamed, full couple/third-party governance incomplete, Mimimi's terminal romantic rule open, Mizusawa's renewed reply/exit unshown, Yuzu's capacity boundary untested, Tama's career and hostile-persona constraint open, Rena's broad stop untested, and Konno/Akiyama accountability unresolved. The 31-frame pause gains no determinate intentional explanation. None of those lines can be closed from the word final.
+
+The afterword calls this a thematic final volume while mentioning a possible further book with no promised date. Graduation, later careers, Kikuchi's dream, Mizusawa's feelings and pro-Tomozaki struggles are described as unwritten topics (item/xhtml/p-0029.xhtml P9-19). They supply paratextual scope, not events that this ledger may anticipate.
+
+V1.7 (2026-10-22) appends §§79-84 and advances the latest-state retrieval pointer. Sections 1-78, the original 29 identities and all R01-R05 qualifications remain recoverable byte-for-byte. A bounded name-and-reference check covered this introduction, the author/subject discussion, the actor matrix, every EFFORT row and the exit boundary. Named actors remain identifiable; fiction/actual, thinker/recipient and reader/actor states remain explicit. No material attribution defect was retained. This source transaction does not itself pass downstream literary or reconstruction gates.

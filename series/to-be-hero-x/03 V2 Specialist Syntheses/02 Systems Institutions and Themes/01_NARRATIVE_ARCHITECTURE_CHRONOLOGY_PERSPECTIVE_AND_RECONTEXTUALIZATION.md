@@ -102,7 +102,8 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
-last_updated: 2026-08-17
+last_updated: 2026-10-25
+revision: AV-2026-10-25
 ---
 
 # Narrative Architecture, Chronology, Perspective, and Recontextualization
@@ -119,6 +120,10 @@ Its governing rule is that two orders remain simultaneously authoritative:
 2. **Diegetic causal order** governs the best current reconstruction of when events occurred and how causes accumulated.
 
 A chronological rearrangement can be useful for causal study. It cannot replace the season's broadcast form without destroying part of the argument. The delayed disclosures, repeated events, changing focal positions, credits structures, and final causal montage are not packaging around the story. They are how the story makes viewers experience the same epistemic conditions that govern hero society.
+
+**Post-freeze revision (2026-10-25; `REVISE` tournament ordinal):** The latest present-line tournament is the **twenty-first**, correcting this synthesis's earlier twentieth-tournament references. The E04 native WEB countdown at `00:24:28.000` explicitly names `第21届` / `21ST HEROES TOURNAMENT`; E20's suspended twentieth tournament belongs to an earlier historical layer. The [E01–E04 handoff audit](../../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E01-E04_GEMINI_AV_HANDOFF_AUDIT.md) and current chronology ledger carry the evidence route. This ordinal correction does not supply an exact Union-year date, change the argument about tournament commensuration, or alter any frozen episode reading or original completion checkpoint.
+
+**Post-freeze revision (2026-10-25; `REVISE` E15 naming and later provenance):** A-Sheng is already named in E15's opening mission account. The native WEB frame at `00:01:33.000` reads `阿生是我完成的第175项任务` (A-Sheng was Ghostblade's 175th completed assignment). The [E15–E16 handoff audit](../../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E15-E16_GEMINI_AV_HANDOFF_AUDIT.md) records that witness. The sentence below therefore replaces “anonymous mission target” with the distinction between an early named target and his later, fuller family biography; E17 does not disclose his name for the first time.
 
 The governing thesis is:
 
@@ -141,7 +146,7 @@ The recurring sequence is:
 -> `causal revision`
 -> `material consequences that cannot be undone by better knowledge`.
 
-Original Nice appears first as a perfect hero whose unexplained collapse initiates Lin's substitution. Only near the end does the season disclose Smile's importance, Shang De's Fear engineering, Liang's role, the A-Hu incident, and the short pre-E01 chain leading into the suicide. A-Sheng appears first as Ghostblade's anonymous mission target and only later as father, retired hero, caregiver, and center of a chosen family. A-Hu appears publicly as a singular local savior even though Xinya, the neighborhood, X, FOCUS, inherited Trust knowledge, and A-Hu himself all contribute.
+Original Nice appears first as a perfect hero whose unexplained collapse initiates Lin's substitution. Only near the end does the season disclose Smile's importance, Shang De's Fear engineering, Liang's role, the A-Hu incident, and the short pre-E01 chain leading into the suicide. A-Sheng is named in Ghostblade's E15 mission account before the E17 return supplies his fuller family biography as father, retired hero, caregiver, and center of a chosen family. A-Hu appears publicly as a singular local savior even though Xinya, the neighborhood, X, FOCUS, inherited Trust knowledge, and A-Hu himself all contribute.
 
 These are not three versions of the same twist. They are three demonstrations that **classification tends to arrive before provenance because institutions need usable categories faster than persons can be fully known**.
 
@@ -643,7 +648,7 @@ Other protected unknowns include:
 - the exact year of the eighteenth ranking tournament;
 - the exact Union-year placement of E01-E07;
 - the interval between E23's Nice collapse and E01's suicide;
-- the exact date of the twentieth tournament;
+- the exact date of the twenty-first tournament;
 - some E20 credits fragments;
 - the night-before-to-tournament discontinuity;
 - the later chronology of the E24 coda.
@@ -873,7 +878,7 @@ This is a model of counter-history that increases answerability without claiming
 
 ## 38. The tournament as narrative technology
 
-The twentieth tournament is not merely the next event after the causal revelations. It is the narrative machine into which the season deposits its heterogeneous histories.
+The twenty-first tournament is not merely the next event after the causal revelations. It is the narrative machine into which the season deposits its heterogeneous histories.
 
 The participants arrive from different arcs, institutions, species categories, visual regimes, and temporal depths. The tournament makes them comparable through rank and contest.
 
@@ -1028,7 +1033,7 @@ This is especially clear in repeated events. The Glimmer crisis, A-Sheng's death
 | What do credits establish? | classified credits audit | automatic epilogue assumption |
 | What does a private memory establish? | source-bounded testimony and corroboration | private equals omniscient truth |
 | What does an official history establish? | institutional fact plus public-narrative audit | official equals neutral |
-| What is the latest secure Season-1 point? | twentieth tournament opening | E24 coda images |
+| What is the latest secure Season-1 point? | twenty-first tournament opening | E24 coda images |
 
 This matrix is also a retrieval protocol. It prevents the largest or latest document from automatically overriding the narrowest relevant evidence layer.
 

@@ -1132,3 +1132,281 @@ The candidate adds one model to the preserved thirty, yielding thirty-one bodies
 | Pucchin / ぷっちん | Twelve-dimension monograph, three-rule provisional Tier3 model, six informed firsts/three pairs; PC01-PC15 | Theatrical evaluation, effective but admitted delayed intervention and practical support with mockery; academic merit, real knowledge/correction and generic rivals retained. |
 
 The [individual index](KONOSUBA_CRIMSON_PARENTS_TEACHER_EVIDENCE_INDEX.md) locates each actor and access plane. Two new models yield33bodies/27scoped secondary model subjects;21bounded profiles remain and eight monograph-only subjects include Hyoizaburoo. The207nonfinal records include14new candidate/role/roster/mediated slots, not14proved people. Twelve English firsts retain adverse findings, shared endpoints and unprobed mechanisms without accuracy, Japanese adequacy, grade or confidence gain. Global curator/evaluator outputs retain designated ownership. Seven expanded specialists, extended/full-series synthesis, six distinct StageD successors and integration/release/final entry remain active.
+
+
+## Cohort24 — Crimson village work and staff, source-known scope
+
+Chekera scopedTier2 has a dedicated monograph; infirmary teacher,cafe proprietor,blacksmith/armor artisan,potion proprietor,diner proprietor and farm earth caster/harvest supervisor have six compact Tier1 profiles in the existing coverage audit. No model is added to 33 entering bodies/27scoped secondary model subjects. Candidate totals 27 bounded profiles/nine monograph-only subjects and 219 nonfinal records are distinct scope measures. Ten new incidental Tier0 dispositions and one deferred Arcanretia manager review are not eleven proved unique people or denied future potential. Own choices, reports, generic rivals and missing outcomes remain asymmetric.
+
+Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md). The shared known-source union is 1,149 BASE slots/7 text members/4 text objects, including context, blanks, other actors and rejected joins; no fresh whole-source, ruby, residual, image-set, admission or independent validation credit. Earlier models, scores, firsts and prospective missingness remain unchanged. Canonical receiving is complete for this candidate only; exact containing publication/full program remain pending.
+
+
+## Cohort25 — chief, Sylvia, trial machine and castle courier
+
+Sylvia earns one Tier2 monograph; chief,Moguninnin and the new MASK courier have three compact Tier1 profiles in the existing audit. All33models/27scoped secondary model subjects are unchanged. Candidate totals are30bounded profiles,10monograph-only subjects and223nonfinal records. Three new Tier0 group/reported-role records and one courier-role profile do not prove four distinct new people. Generic strategic,family,architectural and duty rivals remain; no forced Tier3 parity or sole-evaluator readiness judgement is added.
+
+Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+Aigis earns a scoped Tier3 monograph and separate three-rule provisional model. AG-R01 concerns conditional service; AG-R02 concerns control-sensitive tactics and attention costs; AG-R03 concerns performed affiliation and selective reciprocity. Each has eight fields, contrary evidence, rivals and a falsifier. Three nearby people receive Tier1 compact profiles; five lower-density roles/groups/reports receive Tier0 indexing. Candidate totals are 34 models, 28 scoped secondary model subjects, 33 bounded profiles, ten monograph-only subjects and 231 nonfinal records. All 33 entering models remain exact. Eight new records are not eight proved unique people, and model maturity/global readiness remain open.
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Beldia, Hans and Serena earn scoped Tier 3 monographs and distinct provisional generators with 3/3/4 eight-field candidates. Aloerina, Lolierina and the distinct DUST07 commander receive Tier 2 monographs because their dense contexts support individual interpretation while wider mechanisms remain underidentified. Sedol, Hains and Garil receive separate Tier 1 profiles in the maintained coverage audit. Candidate totals are 37 models, 31 scoped secondary model subjects, 36 bounded profiles, 13 monograph-only subjects and 236 nonfinal records. Four entering rows change, 227 others remain exact, and five new source-bound records do not establish a final global person denominator. No author capability grade or mature final model promotion follows.
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+Alderp, Maxwell, Ragcraft and Ignis receive distinct scoped Tier 3 monographs and separate provisional three-rule generators. Aulip, Balter, Hagen, unnamed Dustiness wedding guard, Elroad prosecutor and Elroad casino manager receive twelve-dimension Tier 2 monographs without models. Ten Tier 1 profiles and fifteen Tier 0 indexes remain in the coverage audit. Candidate totals: 41 models/35 scoped secondary model subjects, 46 profiles, 19 monograph-only subjects, 264 nonfinal records. Seven entering rows change; 229 others exact; 28 new records include role/group/report entries, not 28 proved new people. First-response limitations and open final batteries prevent any mature capability claim.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Barton and Zereschilt have separate Tier 3 monographs and provisional four-rule models. Sylphina has a Tier 2 monograph without a model; Barbera and five occupational roles have compact Tier 1 profiles, and castle gatekeepers/guide retain a Tier 0 group index. Candidate totals are 43 models, 37 scoped secondary model subjects, 52 compact profiles, 20 monograph-only subjects and 270 nonfinal records. Six old rows change, 258 other old rows stay exact; six new scope records do not prove six globally unique people. Independent maturity and final batteries remain open.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+Lia, Cielo and Erika have distinct Tier3 monographs and provisional four-rule models; Charlie and Daniel have Tier2 monographs without models. Seven occupational/social encounters have compact Tier1 profiles and five unresolved roles/groups retain Tier0 indexes. Candidate totals are 46 models, 40 scoped secondary model subjects, 59 compact profiles, 22 monograph-only subjects and 282 nonfinal records. Five entering rows change and 265 others remain exact; twelve new scope records are not twelve globally unique people. Source-known consistency exercises do not establish independent reliability or final maturity.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+Gilbert, Suzuki Chiho, Otohime, Temiren and 21 have separate Tier 3 monographs and provisional 3/2/3/2/3 rule models. Froger/Goran have Tier 2 monographs without models. Seven Tier 1 profiles and four Tier 0 occurrence records preserve role/group/state uncertainty. Candidate totals:51 models, 45 scoped secondary model subjects, 66 profiles, 24 monograph-only subjects and 295 nonfinal records. Existing rows 37/38/163–167 change; 275 other histories stay exact in each plane. Thirteen new records are not thirteen disjoint people, and aggregate 37 adds no sixth PC/model.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+Brad, Rosary and the unnamed MASK leader have separate Tier 2 monographs without invented models. The unnamed small MAIN02/MASK worker has a monograph and provisional three-rule Tier 3 reconstruction at existing 132 through a qualified event bridge. Lolisa 17 receives a route only, with frozen individual support unchanged. Eight compact profiles and fifteen Tier 0 dispositions retain unresolved roles/groups. Candidate totals 52 models, 46 scoped secondary model subjects, 74 profiles, 27 monograph-only subjects and 315 nonfinal records; eight entering rows change, 287 others exact per plane, 20 new source-bound records are not 20 disjoint people.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Karen Donnelly receives a twelve-dimension monograph and asymmetric three-rule provisional model. Beat, Clarice, クレイン and the unnamed inn woman receive four individual compact profiles; five sparse new name/role records remain Tier0. Existing reported MASK Karen receives only a Donnelly scope route with C32 tier/support unchanged. Candidate totals: 53 models, 47 scoped secondary model subjects, 78 profiles, 27 monograph-only subjects and 320 nonfinal records. Six entering rows change, 309 others remain exact per plane; five new records include groups/reports, not five certified disjoint people.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 34 individual receiving — 2026-10-24T12:23:53.695527+00:00
+
+Lucy and the individual forest Princess receive separate twelve-dimension monographs and provisional two-rule models; Biflantz and Regina receive two compact profiles. Nine new sparse report/role/group records remain Tier 0. Aggregate parents 54/55 synchronize active routes to six already published EXP03 child profiles without new child credit; garden 76 receives only a distinct-plant route. Candidate totals: 55 models, 49 scoped secondary model subjects, 80 profiles, 27 monograph-only subjects and 329 nonfinal records. Seven entering rows change and 313 others remain exact per plane; records are not a disjoint-person denominator.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+Three compact profiles cover Maris,Selis and the unnamed P895 correction speaker. One new Tier 1 role record and two Tier 0 sparse role/report/group records append; the prior CONTEXP01 priest receives a route only. Candidate totals: 55 models,49 scoped secondary model subjects,83 compact profiles,27 monograph-only subjects and 332 nonfinal records. Three entering rows change,326 remain exact per plane,and nineteen older plane differences remain distinct. These are not certified disjoint people.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+Two compact profiles cover Zel59 and the original unnamed egg seller149. One Tier0 reported marketing-sender role appends at332,without a unique-person count. Candidate totals:55models/49scoped secondary model subjects/85compact profiles/27monograph-only/333nonfinal records. Two entering rows change,330 remain exact per plane; nineteen historical plane differences remain separate. No monograph or reconstruction is added.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+Duke75 earns one monograph/model withDK-R01;garden76 and seller77 earn2compact profiles. Nine sparse role records333-341 are not9certified people. Candidate totals:56models/50scoped secondary model subjects/87compact profiles/27monograph-only/342nonfinal records. Three entering rows change,330others exact per plane,and19historical cross-plane differences remain. Prior garden forest-route support remains exact.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort38 Perie and selected Dust06 roles — 2026-10-24T17:10:38.125614+00:00
+
+Perie74 earns a dedicated twelve-dimension Tier2 monograph without a new model. Two Tier1 profiles342/343 and four Tier0 role records344-347 yield candidate56models/50scoped secondary model subjects/89compact profiles/28monograph-only/348nonfinal records. Six records are not six certified disjoint people. Only existing row74 changes;341others and19historical cross-plane differences remain exact. Previous Duke model/firsts and garden/seller dispositions stay unchanged.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort39 Rouzeri,store owner and helmeted noble — 2026-10-24T19:06:19.622893+00:00
+
+Rouzeri79,recurring general-store owner80 and helmeted noble88 earn3individual monographs/one-rule provisional models. Four compact profiles348-351 and five sparse records352-356 yield59models/53scoped secondary model subjects/93compact/28monograph-only/357nonfinal records. Three entering rows change,345others and19historical plane differences remain exact. Records are not a certified disjoint-person denominator;prior56models unchanged.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort40 Doreck, Gaibil, Bridol king and head butler — 2026-10-24T21:08:27.831290+00:00
+
+Doreck81/Gaibil82/head butler84earn3provisional models/5rules;king83earns monograph without model. Four monographs,7compact profiles and19sparse records yield62models/56scoped secondary model subjects/100compact/29monograph-only/383nonfinal records. Four entering rows change,353others/19historical plane differences/59oldermodels exact. Twenty-six routes are not26certified unique new people;prior guard343profile stays exact.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort41 — documentary makers, plants and encounter partners — 2026-10-24T22:38:34.409784+00:00
+
+Row133MAIN02/05scientist earns a monograph and two-rule provisional reconstruction,with explicit contextual identity recognition and documentary/generic rivals. Rows89/90/145earn substantial monographs without forced models;92/146andfour new roles earn six compact profiles. Eight sparse/access records andtwo unfinished substantive routes remain distinct. Four originals/two dependent pairs carry retained binding ambiguities and no independent accuracy. Candidate totals63models57scoped106compact32monograph-only397nonfinal routes.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+Rows395/396receive substantial monographs with mechanism/attribution rivals rather than forced models. Seven new compact profiles and15T0routes append; seven entering rows11/17/80/88/132/395/396change,390remain exact per plane. Model artifacts63/source-scoped secondary entries57unchanged;113compact34monograph-only419nonfinal routes. Qualified identity join can retain two historical model artifacts for one provisional individual without independent duplication.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+Ozuma93 adds one two-rule provisional model; six other new monographs remain monograph-only. Four bounded profiles and 37 source/access records preserve individual versus group/report distinctions. Candidate totals: 64 model artifacts / 58 source-scoped secondary model entries / 117 compact profiles / 40 monograph-only routes / 456 nonfinal records. Existing63 models and every old rule/first/score remain exact. The old deputy100 joins existing231 without increasing study counts. Same-root hypothetical compatibility is separate from empirical model support.
+
+[Current evidence index](KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C43 exact-source author gate closed — 2026-10-25T02:58:12.478636+00:00
+
+C43 exact-source author publication is closed. The one new Ozuma two-rule provisional model remains source-concentrated with four unchanged English originals/two dependent contrasts and retained binding/transfer issues. Current64 models/58 source-scoped secondary entries/117 compact/40 monograph-only/456 nonfinal records do not measure unique people or independent accuracy. Technical479-test/127-check success is separate from semantic maturity, designated capability evaluation and final StageD/battery obligations.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+Six new monographs add the dryad’s one-rule provisional model and five monograph-only routes. Twenty-one bounded profiles and56 nonfinal source/access records produce candidate65 model artifacts/59 source-scoped secondary model entries/138 profiles/45 monograph-only routes/512 records. These are not unique people or independent observations. Chomusuke’s frozen study stays exact; all64 entering models and all earlier outputs/scores remain. The dryad’s two English originals expose constraint use but leave generic and source-echo rivals unresolved. Full program validation remains due.
+
+[Current evidence index](KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C44 exact-source author gate closed — 2026-10-25T04:46:17.194654+00:00
+
+C44 exact-source author publication is closed. The one-rule dryad model remains source-concentrated,with two unchanged English originals/one dependent contrast and unresolved generic/source-echo rivals.65 models/59 scoped secondary entries/138 profiles/45 monograph-only/512 nonfinal records do not measure unique people or independent accuracy. Technical479-test/135-check success is separate from semantic maturity,designated evaluation and final StageD/nine-category obligations.
+
+
+## Cohort45 — Yorimichi 3 individuals and supporting roles — 2026-10-25T07:34:24.234913+00:00
+
+C45 adds two source-concentrated active_provisional generators: Shumel one rule and the knee-injured veteran two asymmetric rules. Eight other substantial studies receive no forced model. Candidate totals67model artifacts/61source-scoped secondary model entries do not establish distinct people, global readiness or mature accuracy. Six English originals/three dependent pairs retain unprobed costly impact, tidy procedural/consent language, arbitrary gift amounts and generic rivals. All65 entering models, original forecasts, adverse histories and scores remain exact. Current owner capability records are received from accepted main8acdff2b, not authored or regraded here.
+
+[Current evidence index](KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C45 exact-source author gate closed — 2026-10-25T08:08:46.363921+00:00
+
+C45 exact-source author publication is closed. Shumel one-rule and knee-veteran two-rule generators remain narrow/provisional; six unchanged English originals/three dependent pairs retain source-cue/generic,spell-preparation,neutral-offer,arbitrary-amount and unprobed-teaching limits.67model artifacts/61source-scoped secondary entries/160profile passages/53monograph-only studies/572nonfinal records do not measure unique people or independent accuracy. Technical479-test/149-entry success is separate from semantic maturity,designated evaluation and final StageD/nine-category obligations.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+C46 adds Dark Stalker and Angie as two source-concentrated provisional models with two eight-field rules each. Assassin, Anna and the familiar YORI04 worker receive substantial monographs without forced generators. Candidate totals69model artifacts/63source-scoped secondary entries,177retained bounded-profile passages,56monograph-only studies and640nonfinal source/access records are not certified distinct people, mature capability or independent observations. Current post-freeze qualifications must accompany BOTH new model routes: meal price is not an itemized transaction, and U018624 Heals Kazuma rather than Angie. Every67entering model, first, score, adverse result, blank and null remains exact. Eight English originals/four dependent pairs add no final StageD credit.
+
+[Current evidence index](KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## C46 exact-source author gate closed — 2026-10-25T10:53:47.660549+00:00
+
+C46 exact-source author publication is closed. Dark Stalker and Angie retain two restricted provisional rules each;Assassin,Anna and the familiar worker have monographs without forced generators. Eight unchanged English originals/four dependent pairs keep source-cue/generic,saw-detail,private-intention,tidy-negotiation and unbound-payment limits. Three current source qualifications govern both model routes without altering47private core pins.69model artifacts/63source-scoped secondary entries/177profile passages/56monograph-only studies/640nonfinal records do not measure distinct people or independent accuracy. Technical479-test/159-entry closure remains separate from semantic maturity,designated evaluation and final StageD/nine-category obligations.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+C47 adds one restricted unvalidated Heidel model with HEI-R01/02, both eight-field rules. Keele and the transfer angel receive substantial monographs without forced generators; beloved, Winter and Jatice receive bounded profiles. Four supporting encounter profiles and fifty narrower routes complete the new source/access packet. Candidate70model artifacts/64source-scoped secondary entries,184retained bounded-profile passages,58monograph-only studies and694nonfinal records are not distinct people or mature performance. All69entering models, earlier originals, scores, adverse findings, blanks and nulls remain exact. Four new English originals/two dependent pairs have adverse voice findings and no independent generic run, grade, confidence gain or final battery credit.
+
+[Current evidence index](KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C47 author gate closed; restricted Heidel scope retained — 2026-10-25T13:21:09.215309+00:00
+
+Current70model artifacts/64source-scoped secondary entries,184retained profile passages,58monograph-only studies and694nonfinal records remain evidence-scope counts. C47sourcefcc404eb passed full479audit40196405542 and fresh1681-body/70-model reload with176preservation checks. Heidel stays restricted/unvalidated; four English originals/two dependent pairs retain adverse voice and generic-role rivals. No model,rule,input,first,score or confidence gain is repaired or certified. The [exact author gate](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT47_PUBLICATION_GATE_CLOSE_01.json) is separate from protected integration and the still-due final battery. Closing progress bytes await the next coherent publication.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+C48 adds one restricted provisional Amaryllis model with AMR-R01/02,two eight-field rules. Stella and the unnamed vampire receive substantial monographs without forced generators; Gil,Gain and the sister have bounded profiles,Stesky a report-only entry. Six further supporting encounter profiles accompany38typed source/access routes. Candidate71model artifacts/65source-scoped secondary entries,193bounded-profile passages,60monograph-only studies and732nonfinal records are not unique people or mature performance. All70entering models,old originals,scores,adverse findings,blanks and nulls stay exact. Four new English originals/two dependent pairs retain adverse information/voice findings and no independent generic run,grade,confidence gain or final-battery credit.
+
+[Current evidence index](KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C48 author gate closed; restricted Amaryllis scope retained — 2026-10-25T15:34:12.683921+00:00
+
+Current 71 model artifacts/65 source-scoped secondary entries, 193 profile passages, 60 monograph-only studies and 732 nonfinal records are evidence-scope counts. Source 8c09e83d passed its own full 479-test audit 40206751488, all 60 remote changed streams, the 1,718-file/71-model authority reload and fresh 14-EPUB/20-member correspondence. All 194 preservation checks passed. Forty-five status routes close without changing substantive source interpretations; 687 other rows and 19 historical differences remain exact. Protected integration and full-program completion remain separate. These closing bytes await the next coherent publication. Amaryllis remains restricted/provisional. Four English originals/two dependent pairs retain B2’s invented prior speech, both B prior vocal-state additions, coy A pacing and generic/prompt rivals. No model, rule, input, first or score is repaired, and no confidence gain is certified. The [author gate](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT48_PUBLICATION_GATE_CLOSE_01.json) is separate from protected integration and the still-due final battery.
+
+
+## Cohort49 — final castle defenders and source-qualified command — 2026-10-25T16:49:44.123736+00:00
+
+C49 adds four monograph-only studies—Pain,Mammon,the unnamed masked gatekeeper and the Demon King—and two bounded profiles for Logia and the daughter. No new generative model,rule,input or diagnostic first is justified. Candidate71models/65source-scoped secondary model entries remain unchanged;195bounded-profile passages/64monograph-only studies/732nonfinal records are source treatments,not unique people or mature capability. Six existing rows change,726others and19historical plane differences stay exact. All old models and frozen performance history retain authority;full-corpus curation and final tests remain separate.
+
+[Current evidence index](KONOSUBA_COHORT49_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C49 author gate closed; no forced reconstruction — 2026-10-25T17:16:57.547309+00:00
+
+Current 71 model artifacts/65 source-scoped secondary entries, 195 profile passages, 64 monograph-only studies and 732 nonfinal records are evidence-scope counts. Source 85dc3c2f passed its own full 479-test audit 40214600785, all 33 remote changed streams, the 1,729-file/71-model authority reload and fresh three-EPUB/nine-member correspondence. All 207 preservation checks passed. Six status routes close without changing substantive source interpretations; 726 other rows and nineteen historical differences remain exact. Protected integration and full-program completion remain separate. These closing bytes await the next coherent publication. Four new monographs and two bounded profiles retain their different evidential responsibilities; no additional model, rule, input or first is supplied. All previous generated originals and scores retain adverse findings and uncertainty. The [author gate](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT49_PUBLICATION_GATE_CLOSE_01.json) is separate from protected integration and the final battery.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+C50 adds18 bounded profile passages covering19 access rows, because the two Eris records share one pair profile. It receives24 retained targets and31 new access routes;708 other entering records and19 historical plane differences stay exact. Proposed totals are71 models,65 scoped secondary model entries,213 profile passages,64 monograph-only studies and763 nonfinal access records. These count artifacts and source treatments rather than unique people or mature capability. Eleven already adequate incidental cases retain all eight entering core fields and receive additive C50 qualifications. No new model or grade is claimed.
+
+[Current evidence index](KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C50 author gate closed; proportional profiles — 2026-10-25T19:06:26.463565+00:00
+
+Current71 models/65scoped secondary entries/213profile passages/64monograph-only studies/763nonfinal records are treatment counts. Source 83fbc004 passed exact10332-file index preflight, complete remote tree/all31changed streams, its own full479-test audit 40223499214 and latest trusted status 57213248574, followed by a fresh1738-file/71-model reload and7local EPUB/CRC/OPF/15text-member/4image correspondence. All220preservation checks passed.55 publication routes close,44 updating publication-only core status fields and11 preserving all eight earlier core fields;708 other records and19 historical plane differences remain exact. These closing bytes await their next containing publication. Protected integration and full-program completion remain separate. Eighteen compact profile passages cover19access rows and preserve55individual dispositions. No model, rule, input or diagnostic first is added. All earlier generated originals, adverse findings, blanks and scores remain exact. [Author gate](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT50_PUBLICATION_GATE_CLOSE_01.json).
+
+
+## C51 — proportional art/reference treatments — 2026-10-25T20:53:24.750950+00:00
+
+C51 adds one source-bound Medusa dungeon-owner monograph, three compact profiles and28 incidental typed routes. The32 new records retain nested wishes, game tokens, reports, unmapped group phases and uninstantiated roles as different access types. Greed is the viscount; Megumin supposes1000 floors within an illustrated wish. Original annotations remain preserved under attributable corrections. The supplier and restaurant woman have separate voices and actions; Aqua makes the donation demands. No final Medusa fate, actual tower blast, executed Leen experiment, personal identity join or new rule is invented.
+
+Current71 model bodies/65 scoped secondary model entries remain unchanged. Candidate216 profile passages/65 monograph-only studies/795 nonfinal access records count treatments. Six existing rows receive only additive source supplements;757 others and19 historical canonical/private differences remain exact. All independent counts stay null. The original forecasts, firsts, adverse outcomes, scores, blanks and nulls remain unchanged. Exact containing publication is pending; full-program work continues.
+
+[Current evidence index](KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md). No new generative model, rule, scenario input or original diagnostic output is justified by these treatments.
+
+
+## C51 author gate closed; no new model — 2026-10-25T21:26:59.113220+00:00
+
+Current71 model bodies/65 scoped secondary entries/216 profile passages/65 monograph-only studies/795 nonfinal access records are treatment counts. Source87f93dab passed exact10341-file author preflight, complete remote tree/all27 changed streams, its own full479-test audit40234232453 and latest trusted status57217494556. A fresh1747-file/71-model authority reload and4local EPUB/OPF/CRC/46image correspondence passed all229 preservation checks. Thirty-eight publication routes close: six existing records retain all eight core fields, and32 new routes receive publication-status changes. The other757 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. Protected integration and full-program completion remain separate.
+
+The Medusa owner remains Tier2 monograph-only; Greed,water supplier and restaurant woman remain separate Tier1 profiles. Nested wishes,tokens,uninstantiated roles and group phases preserve their typed access. No original response,model,rule,input,adverse result,score,blank or null is revised. [Author gate](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT51_PUBLICATION_GATE_CLOSE_01.json). Final specialist/synthesis/StageD/battery/curation/release work remains due.
+
+
+## C52 — proportional TRPG individual treatments — 2026-10-25T23:11:09.495270+00:00
+
+C52 adds four substantial monographs for the guide newcomer, Okina, Boren and the autonomous tank; fifteen bounded profiles cover nine optional samples, two guide counterparts and four captive women. Twenty-two incidental routes preserve source-local groups, optional branches, casualties, reference roles and nonperson equipment provenance. All41 complete twelve-dimension dispositions retain source boundaries, agency, counterevidence and unresolved identity. Eight attributable precision findings correct derivative labels/translations/locators or qualify interpretation, editorial claims and sequential ownership without rewriting original notes.
+
+Candidate totals are71 unchanged model bodies/65scoped secondary model entries,231bounded-profile passages,69monograph-only studies and836nonfinal source-access records. These are different treatment counts, not unique people or final tiers. Twelve named-reference rows preserve all8core fields; aggregate38 archives its prior8fields and preserves all C31 history. The other782entering rows and all19canonical/private differences remain exact. Every independent count stays null; original models, forecasts, first responses, adverse outcomes, scores, blanks and nulls remain unchanged. Containing C52 author publication is pending; the full program continues.
+
+[Current evidence index](KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md). Dense single contexts can earn monographs, while no falsifiable portable generator is earned here. Optional samples, game mechanics and source-known returns are not diagnostic firsts.
+
+
+## C52 author gate closed; no new model — 2026-10-26T00:48:51.037378+00:00
+
+Current71 model bodies/65 scoped secondary entries/231 profile passages/69 monograph-only studies/836 nonfinal access records are treatment counts. Source67d4c529 passed exact10365-file author preflight, complete remote tree/all49 branch-delta streams (29 authored KonoSuba and20 inherited accepted-main paths), its own full479-test audit40247993774 and latest trusted status57223140124. A fresh1760-file/71-model authority reload and2local TRPG EPUB/OPF/CRC/82selected-image correspondence passed all239 preservation checks. Fifty-four publication routes close: twelve existing reference supplements retain all eight core fields, aggregate38 preserves its source meaning and earlier archived core fields, and41 new routes receive publication-status changes. The other782 records and19 historical plane differences remain exact. These closing bytes await their next containing publication. PR338 was merged by the separate integration owner as d96b4603; that commit and its own audit retain their boundary. The broader audit and full program continue.
+
+Four monographs treat the guide newcomer,Okina,Boren and autonomous tank. Fifteen bounded profiles retain optional sample,guide counterpart and captive-individual scopes;22 incidental routes retain typed access. All nine frozen foundations and both profile appendices remain exact. The frozen C31 index is preserved under attributable precision findings. No original response,model,rule,input,adverse result,score,blank or null is revised. [Author gate](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json).
+
+
+## Expanded specialist literary plane V1
+
+The main-only matrix and every earlier validation/source plane remain exact historical prefixes. Seven attributable expanded topical versions now integrate admitted source-known evidence while keeping their main-only baselines whole. These rows route literary conclusions; they do not replace six R1 models,create StageD outputs or change any forecast/outcome.
+
+| Responsibility | Expanded owner | Distinction carried forward | Validation boundary |
+| --- | --- | --- | --- |
+| Kazuma | [Expanded literary V1](../05%20Specialist%20Synthesis/KONOSUBA_KAZUMA_EXPANDED_CHARACTER_MONOGRAPH_V1.md) | civil-surface failure, mixed-motive loan, known limits and selective accountability | No new model,first or score |
+| Aqua | [Expanded literary V1](../05%20Specialist%20Synthesis/KONOSUBA_AQUA_EXPANDED_CHARACTER_MONOGRAPH_V1.md) | useful service, task understanding, particular care and chosen harm | No new model,first or score |
+| Megumin | [Expanded literary V1](../05%20Specialist%20Synthesis/KONOSUBA_MEGUMIN_EXPANDED_CHARACTER_MONOGRAPH_V1.md) | pre-discovery build reconsideration, known pet risk, provider agency and bounded responsibility | No new model,first or score |
+| Darkness | [Expanded literary V1](../05%20Specialist%20Synthesis/KONOSUBA_DARKNESS_EXPANDED_CHARACTER_MONOGRAPH_V1.md) | specific consent, actual civic work, prevented truth and protective overconfidence | No new model,first or score |
+| Party | [Expanded literary V1](../05%20Specialist%20Synthesis/KONOSUBA_EXPANDED_PARTY_ENSEMBLE_SYNTHESIS_V1.md) | distinct goals, event joins, unwanted quiet and unfinished provider recovery/settlement | No new model,first or score |
+| Humor | [Expanded literary V1](../05%20Specialist%20Synthesis/KONOSUBA_EXPANDED_HUMOR_SYSTEM_SYNTHESIS_V1.md) | successful means, misfitted benefits, changing authority and source-format limits | No new model,first or score |
+| Japanese language | [Expanded literary V1](../05%20Specialist%20Synthesis/KONOSUBA_EXPANDED_JAPANESE_LANGUAGE_AND_COMEDY_SYNTHESIS_V1.md) | speaker/channel ownership, written stance, form dependence and original coding boundaries | No new model,first or score |
+
+[Scope and preservation](../09%20Audits%20and%20Manifests/KONOSUBA_EXPANDED_SPECIALIST_SYNTHESIS_SCOPE_AUDIT_01.json). All71 model bodies and existing secondary-audit counts remain unchanged. Known-source interpretation confers no independent accuracy,grade or confidence gain. Six distinct StageD successors and the final nine-category battery remain due; this containing publication is pending.

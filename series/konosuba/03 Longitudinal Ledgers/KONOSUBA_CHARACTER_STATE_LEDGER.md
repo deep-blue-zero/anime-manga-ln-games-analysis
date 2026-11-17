@@ -1810,3 +1810,224 @@ The compact current interpretation preserves an explicit favored-person commitme
 Hyoizaburoo earns a separate twelve-dimension Tier2 monograph, with no model or synthetic cases. Direct gratitude, intimidation, food/wealth shifts, pride and his Komekko boundary coexist with largely reported craft costs and outside valuation. Choice of design, control, private budget and motive are underidentified; no matched-parent quota supplies a generator. Pucchin earns a twelve-dimension monograph and three-rule provisional model: theatrical evaluation, effective intervention with admitted dramatic delay, and concrete support after practical need is explained. Actual academic merit, practical knowledge, local correction and finite precautions prevent an all-fool account; effectiveness does not certify the delay as safe.
 
 The separate [Yuiyui](../05%20Specialist%20Synthesis/KONOSUBA_YUIYUI_CHARACTER_MONOGRAPH.md), [Hyoizaburoo](../05%20Specialist%20Synthesis/KONOSUBA_HYOIZABUROO_CHARACTER_MONOGRAPH.md) and [Pucchin](../05%20Specialist%20Synthesis/KONOSUBA_PUCCHIN_CHARACTER_MONOGRAPH.md) monographs own their actor-specific scope. Three current census rows39/40/44 change; fourteen new source-bound candidate/role/roster/letter records are not fourteen proved unique people or newly earned profiles. All other190 entering rows retain their histories. Tier assignments are scoped and revisable, not global completion or capability grades.
+
+
+## Cohort24 — Crimson village work and staff, source-known scope
+
+Chekera moves from ceremonial confidence to two actual hazard interventions and revised appraisal, then later warm outsider welcome/sales. These are contextual states, not a global calm mentor/fool label. Six compact staff/work profiles retain their own roles and missing private states; no shared anonymous-person identity is assumed. The farm earth caster is also the later harvest supervisor/payer, while wind/weather casts belong to two other figures (CC01-CC08,ST01-FA03).
+
+Exact locators and access: [cohort24 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_TRADES_STAFF_EVIDENCE_INDEX.md). The shared known-source union is 1,149 BASE slots/7 text members/4 text objects, including context, blanks, other actors and rejected joins; no fresh whole-source, ruby, residual, image-set, admission or independent validation credit. Earlier models, scores, firsts and prospective missingness remain unchanged. Canonical receiving is complete for this candidate only; exact containing publication/full program remain pending.
+
+
+## Cohort25 — chief, Sylvia, trial machine and castle courier
+
+Sylvia remains one subject across changing composite states. Guarded retreat,corrected identification,captive leverage,new embodiment and retaliatory pursuit are contextual transitions rather than a global coward/strategist/seducer label. The chief's stylized letter,serious retreat and provoked family outburst differ; much office material concerns Yunyun rather than his own action. Moguninnin's target,wait,damage and report states are bounded functional evidence. The courier's fear coexists with actual leading (SV25-01–SV25-14,CH25-01–CH25-08,MN25-01–MN25-08,ON25-01).
+
+Exact locators and access: [cohort25 index](../08%20Evidence%20and%20Indexes/KONOSUBA_CRIMSON_CHIEF_SYLVIA_MOGUNINNIN_EVIDENCE_INDEX.md). This source-known scope adds no new whole-source,ruby,residual,image-set,admission or independent validation credit. Earlier models,first bodies,scores and prospective missingness remain unchanged. Canonical receiving/publication is pending for this candidate; the full KonoSuba program continues.
+
+
+## Cohort26 — Aigis, the contest announcer and flower-giving sisters
+
+Aigis shifts among refusal, alarm, bargaining, escape, absorbed spectatorship, deference, actual protection and renewed provocation. Who can hear it, bodily constraint, expected damage, available spectacle and the believed identity of a counterpart change the local state. Unrecognized Chris and recognized Eris are different information states of one counterpart. The contest host changes from expansive appraisal to hesitant courtesy and unsuccessful crowd control. The sisters share one encounter but retain separate possession and action attributions (AG26-01–35).
+
+Locators and source planes: [Aigis cohort26 index](../08%20Evidence%20and%20Indexes/KONOSUBA_AIGIS_EVIDENCE_INDEX.md). The source-known scope adds no blind-source accuracy, independent confidence gain or evaluator grade. Exact containing publication is pending at authorship.
+
+
+## Cohort 27 — generals, police officers and a distinct commander
+
+Beldia shifts from repeated-grievance challenge to town-directed violence, technical reassessment and dependent bargaining; his own investigation explanation is distinct from verified prophecy. Hans moves from cover to direct poisoning, abandons a low-value chase and spends body material under counterattack. Serena changes public/private framing, concentrates finite control, works under costs, misreads faith and bargains under later captivity. Aloerina and Lolierina are distinct officials with different cases; the latter changes judgment after new evidence without resolving indirect causation through a truth device. The DUST07 commander combines revenge with promotion ambition and a temporary rapport before renewed lethal conflict. The three revived men retain distinct reported histories without every anonymous apology being assigned (BE27, HA27, SE27, AO27, LO27, DU27, RM27).
+
+Locators and source planes: [cohort 27 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BELDIA_HANS_SERENA_COHORT27_EVIDENCE_INDEX.md). All sources are known; no blind accuracy, independent grade or confidence gain. Exact containing publication is pending at authorship.
+
+
+## Cohort 28 source-bound receiving — 2026-10-24T02:34:13.712112+00:00
+
+Alderp moves from public rank-backed pressure through private blame to fear and bargaining after lost control; sincerity of remorse is unproved (AL28). Maxwell moves from pressured service to released selective refusal and harmful collection, with no complete memory diagnosis (MX28). Ragcraft's public office, disclosure and revenge are distinct states; Levi can overrule him (RG28). Ignis's illness, recovery, parental distraction, accountability and bodily work require changing capacity states (IG28). Balter's changed attraction, Hagen's tact/insults and the unnamed guard's chosen refusal retain separate agency.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ALDERP_MAXWELL_RAGCRAFT_COHORT28_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains open.
+
+
+## Cohort 29 bounded receiving — 2026-10-24T04:01:04.559905+00:00
+
+Barton changes aims from clearing weather for a date to acquiring a gift, preserving a favored creature and helping recover a necklace. Irritation, uncertainty, gratitude and frightened decoy work are different states (BT29). Zereschilt moves from castle control to finite-life danger, refuge and shop contribution; neither fear nor effective defense defines every situation (ZS29). Sylphina's anxiety, play, revised expectation, attachment and shy thanks retain her own agency (SY29).
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_BARTON_BARBERA_ZERESCHILT_COHORT29_EVIDENCE_INDEX.md). Exact containing publication is pending; full program remains active.
+
+
+## Cohort 30 bounded receiving — 2026-10-24T05:35:03.079134+00:00
+
+Lia's pre-memory competence, restored-history withdrawal, duty conflict, finite barrier and chosen return are separate states. Eating and errands continue during withdrawal; no diagnosis follows. Cielo's performance enjoyment coexists with remaining contact difficulty. Erika's confidence coexists with anxiety, shame, self-correction and care. Charlie's distress, bodily precaution and correct warning differ from Daniel's selective grief, retreat and ignored warning. The five separate monographs preserve their own agency in the selective FD continuity.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_FANTASTIC_DAYS_COHORT30_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 31 bounded receiving — 2026-10-24T07:16:33.598838+00:00
+
+TRPG replay construction, PC acts, player metacomment, GM adjudication and reported history remain distinct. Gilbert useful support/status/credibility conflict; Chiho health doctrine and unresolved relational reassurance; Otohime fear, actual costs and partial repair; Temiren recognition and typed competence; 21 pressure before later own belonging each receive separate monograph/model. Froger/Goran receive monographs without models. These states are not added principal-novel events or natural-player psychology.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_TRPG_REPLAY_COHORT31_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 32 individual receiving — 2026-10-24T09:20:49.568045+00:00
+
+Brad and Rosary change appraisal across the repeated dungeon contest without becoming fixed greedy fighter or fanatical priest types. Their actual contributions, errors, embarrassment and unequal bodily agency remain. The MASK leader and second worker have separate arcs: patronage negotiation and reciprocal warning versus idealized advocacy, revised danger and a qualified MAIN02 work-failure bridge. No group utterance or private narrator knowledge supplies an extra individual state.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MASK_CLIENTS_COHORT32_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program remains active.
+
+
+## Cohort 33 individual receiving — 2026-10-24T10:43:54.974512+00:00
+
+Karen varies between useful-hire courtesy, comparative rivalry, commercial defense, representative apology, actual payment and reversible fear/defiance. The broad contrast supports a monograph and three unequal provisional hypotheses, not a uniform greedy-noble or helpless-victim personality. Beat and Clarice have differentiated welcoming/reassurance acts before a shared retreat; Crane has an attributed written payment rationale, and the inn woman a meaningful loss/reputation/work appeal. Sparse named adventurers and role groups remain indexes.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_CONTEXP_CAST_COHORT33_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 34 individual receiving — 2026-10-24T12:23:53.695527+00:00
+
+Lucy’s accepted release information loosens an explicitly credited benefactor obligation before Aqua’s punch. Gratitude and a retaliatory winning exit coexist with departure. The particular forest Princess shifts public/private presentation and revises rejected offers under danger; real fear, unsuccessful persuasion and poisoned spite constrain the two-rule account. Biflantz has a mediated courtship interaction, and Regina a reported-deity profile. Six EXP03 child profiles already published remain exact; two aggregate parent labels are synchronized without duplicate credit.
+
+[Individual evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN11_CAST_COHORT34_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 35 bounded reported-cast receiving — 2026-10-24T13:11:58.197962+00:00
+
+Maris and Selis earn separate compact profiles for consequential reported responses, with Kazuma’s retrospective access retained. The unnamed DUST05 P895 speaker earns a third bounded profile for a directly heard attribution correction and request for further recall. Other current church acts remain unassigned where turn/body mapping is unresolved.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN07_REPORTED_CAST_COHORT35_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort 36 animal agency and reported sale — 2026-10-24T14:05:41.973035+00:00
+
+Zel’s own resistance,approach,quiet holding,pecks,sleeping proximity and crowing are retained as animal actions. The transition from early high-mana chick to observed grown bird with reported mana-to-level dosing is time-sensitive. The original seller separately earns a compact profile for Aqua-reported persuasion; later mail senders remain unresolved roles.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ZEL_COHORT36_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort37 Main13 cast and qualified neighboring agents — 2026-10-24T15:26:24.755654+00:00
+
+Duke earns a monograph and one provisional status/affiliation rule:the weak/interfering person,credited Vanir connection and retained military challenge change treatment. The distinct DUST05 Small encounter adds an explicit restraint rationale. Garden individual and magic seller receive compact profiles with their own responses/terms;no caretaker projection or ordinary sales role is padded into another model.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_MAIN13_CAST_COHORT37_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort38 Perie and selected Dust06 roles — 2026-10-24T17:10:38.125614+00:00
+
+Perie earns a twelve-dimension monograph from her own dress preference,criticism responses,changing mission understanding,assignment responsibility and actual fighting. The guild waitress and mansion gate guard earn bounded profiles. Four reported or unresolved roles append as indexes. One existing row changes;341 others remain exact in each plane. No new behavioral model is earned by the evidence presently available.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_PERIE_COHORT38_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort39 Rouzeri,store owner and helmeted noble — 2026-10-24T19:06:19.622893+00:00
+
+Rouzeri79,general-store owner80 and helmeted noble88 each earn a twelve-dimension monograph and one provisional rule. Goals,information,actual choices,relationships and adverse evidence govern scope. Four compact supporting profiles348-351 and five sparse role/report records352-356 append. Three entering rows change,345others exact per plane;19historical differences remain. No model is inherited by role,species,gender or anonymity.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_ROUZERI_STORE_NOBLE_COHORT39_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort40 Doreck, Gaibil, Bridol king and head butler — 2026-10-24T21:08:27.831290+00:00
+
+Doreck81,Gaibil82 and recurring Bridol head butler84 earn individual twelve-dimension monographs and3provisional models/5rules. King83earns a substantial monograph without a model. Seven compact profiles at357,358,361–365and19sparse overlapping routes at359,360,366–382append;four entering rows change,353others exact per plane. Distinct real,performed and mistaken identities retain their knowledge times.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CONT_CAST_COHORT40_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort41 — documentary makers, plants and encounter partners — 2026-10-24T22:38:34.409784+00:00
+
+Six entering rows89/90/92/133/145/146receive proportional treatment:four monographs,one two-rule provisional scientist model and two existing-row compact profiles. Four additional new compact records,eight sparse/access records and two unfinished substantive criminal-trio routes append. Candidate totals63models/57scoped secondary model subjects/106compact/32monograph-only/397nonfinal records are not a population denominator. Names and individual routes remain source-bound.
+
+[Evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LAKE_DIARY_DINNER_COHORT41_EVIDENCE_INDEX.md). Exact containing publication is pending;the full program continues.
+
+
+## Cohort42 — criminal trio and supporting roles — 2026-10-25T00:36:03.269045+00:00
+
+Two substantial monographs treat the criminal chief and unresolved subordinate route; seven compact profiles and fifteen sparse/report/group/dream routes append. Qualified specific Kazuma-failure bridge links Lolisa17/132provisionally; Luna disguise is strongly contextual. Current totals63model artifacts/57source-scoped secondary entries/113compact/34monograph-only routes/419nonfinal census records are not unique people. No new model, rule, input or first body.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md). Exact containing publication remains pending;the full program continues.
+
+
+## Cohort43 — Yorimichi 1 visitors and supporting cast — 2026-10-25T02:36:22.720524+00:00
+
+Seven individual monographs cover Ozuma, Megumi, Rakuresu, Crow, Eibram, Pickles and the wallet-wager veteran. Only Ozuma earns a narrow two-rule provisional model. Akyua, the recruiter and two anonymous pairs receive four bounded profiles. Thirty-five sparse source/access routes and two bounded pair routes append, yielding 456 nonfinal records, not 456 people. Old deputy100 positively joins existing Lolierina231 with no new study credit; unrelated230 is unchanged.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI01_VISITORS_COHORT43_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort44 — Yorimichi 2 cast and supporting roles — 2026-10-25T04:08:32.596571+00:00
+
+Six monographs cover the particular forest dryad, noble dinner host, white-tiger mother, Siegwald, unnamed Wolbach follower and storm great spirit. Only the dryad receives one provisional rule. Twenty-one bounded profiles and56 new source/access routes retain individuals, groups, reports and overlapping occurrences. Chomusuke21 receives a source supplement without another study; Anna118 stays unchanged pending adequate later treatment. Candidate512 records are not512 people.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI02_CAST_COHORT44_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort45 — Yorimichi 3 individuals and supporting roles — 2026-10-25T07:34:24.234913+00:00
+
+YORI03U020 has three explicitly temporary routes and current returns. Only Kazuma carries the later experience; the knee veteran's refusal513–517 and branch3 repayment654–679 are differently informed counterparts, not a serially converted common mind. Shumel's public sarcasm, explicit name prohibition, real attack and later loss of controlU014358–414 are changing states in one dense encounter. Vice's certainty, correction, duel loss and dead-eyed weddingU01839–336 remain separate phases; neither wedding nor apology establishes a stable happy/reformed disposition. All entering65 model bodies remain exact.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI03_CAST_COHORT45_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort46 — Yorimichi 4 individuals and source roles — 2026-10-25T10:26:04.006105+00:00
+
+Dark Stalker retirement, recovered arm, romance absorption, actual rivalry injuries and concrete unpaid-watch assent are changing states, not a permanently serene moral guide. Assassin separately leaves, corrects, feeds and withholds assent until the later concrete proposalYORI04U014156-555. Angie moves from senior performance and class prejudice to demonstrated mineral competence, frightened protective resolve, coerced work and a later card/name updateU018/U020. A blow sending Angie awayU018613 is actual; Aqua Heals Kazuma624. No Angie treatment or general post-blast recovery is separately narrated.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_YORIMICHI04_CAST_COHORT46_EVIDENCE_INDEX.md); [current post-freeze qualifications](../09%20Audits%20and%20Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json). Exact containing publication is pending; the full program continues.
+
+
+## Cohort47 — Keele, early royal roles and supporting encounters — 2026-10-25T12:57:39.814894+00:00
+
+Keele moves from remembered costly protection and long waiting to an actual request for purification and disappearance MAIN02U015315-341. His doubt328 does not vanish inside the proud retrospective romance. The woman's remains306 are present; Aqua reports peace321, without a witnessed reunion. The Winter Shogun's sheathing205 precedes changed apology cues209-211 and the strike213-219; Eris's report234 is disappearance rather than a shown defeat. Heidel repeats an earlier service encounter across MAIN06 openings, then works around Kazuma's prolonged MAIN11 stay; a copied narrative opening is not a second independent visit.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT47_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## Cohort48 — MAIN16 dungeon cast and source-qualified supporting encounters — 2026-10-25T15:05:58.178067+00:00
+
+C48 gives Stella,Amaryllis and the unnamed MAIN16dungeon vampire individual monographs; only Amaryllis earns a restricted provisional model,AMR-R01/02. Gil,Gain and Stella younger sister have separate bounded profiles; Stesky remains a report-only reference with no identified own behavior. Six supporting profiles and32narrower access routes distinguish actual,reported,remembered,fabricated and proposed cases. These treatments follow evidence density and contrary cases without a quota,anonymity/species ceiling or forced generator.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+## Cohort49 Logia bounded profile
+
+Logia, ロギア, is the named ogre in the castle defense with Pain and Nos. He earns a **scoped Tier 1 profile** through his own tactical order and the ensuing information asymmetry, rather than through appearance frequency. He orders a change of opponents in response to Pain's aversion to Aqua, assigns the apparent swordsman to himself and Pain, and directs Nos toward the other opponent. Pain then asserts his own preference for taking the swordsman, while Nos offers protection. Those are three agents' contributions, not a single shared motive. (MAIN17U011403–405/450–452.)
+
+Flash deprives Logia and Nos of sight while Pain retains another perceptual channel. Kazuma impersonates Pain and induces Nos to strike Logia. The strike is not Logia's mistake in trusting an audible order that he is never shown accepting, nor Nos's deliberate betrayal. Pain's distress and explanation follow; Logia supplies no comparable subsequent deliberation. His corpse at U011578 and Mammon's later inspection at U01293 establish a real death. The presentation's comedy does not establish a harmless knockout, recovery or resurrection.
+
+His direct rough, plain order at U011403 uses immediate ally address and explicit role allocation. It supports a local command style, without enough turns for a broad voice grammar or an assumption that every group's line belongs to him. The order shows cooperation and threat allocation; it does not prove a general leadership hierarchy, selfless sacrifice, universal hatred of humans or low intelligence. Equipment, species and the effects of Flash likewise do not identify every ordinary preference or combat skill.
+
+The represented evidence is one connected encounter in Kazuma's narration, with a later in-world reconstruction by Mammon. Pain's later grief is evidence about Pain's response, not independent access to Logia's private mind. Family, leisure, money, long-term relationships, responses to correction and unfamiliar choices remain unknown. No genuine prospective forecast, independent observation count or reconstruction model is supplied. His brief but consequential agency earns this profile; a standalone monograph would exceed the available diversity. The [cohort49 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md) owns receiving and the twelve-dimension audit.
+
+## Cohort49 Demon King's daughter bounded profile
+
+The unnamed daughter earns a **scoped Tier 1 profile** from the military role attributed to her, a briefly and tentatively identified retreat, and separately marked creator exposition. Her importance as a final commander is not itself evidence of an articulated psychology. No personal name, exact age, direct speech or own focalization is supplied by these passages.
+
+Iris's letter predicts that she will command the planned attack and reports a reputation for leading armies, alongside a past burning of the Crimson Demon village. These are the letter's military claims, not a newly watched campaign. Megumin subsequently predicts that Iris could defeat her; the speaker is explicitly tagged, and the prediction is not an observed duel. (MAIN16U010286–300/310–312.) MAIN17's overheard command and Eris's capital account add reports about the campaign and its opponents. The projected Iris challenge at U013380–384 remains prospective within that account, rather than a complete directly narrated battle.
+
+Yunyun questions whether the returning figure is the daughter at MAIN17U014705. Kazuma then questions whether the tearful figure fleeing under other monsters' protection is she at725. Megumin's bombardment and the troops' flight are actual present action; the two identifications retain their interrogative form. The creator afterword explicitly describes the daughter being battered by the princess and scattered by Explosion at U01622, providing attributed corroboration of that sequence. Its account of the capital confrontation13–16 is author exposition with modal elements, not another independent narrative witness or a fully shown duel.
+
+The father's claim that she made his embroidered handkerchief at U014103 adds a reported personal act and an object he values. It does not reveal her own intention, a performed crafting scene, her age, a reciprocal relationship history or innocence in the campaign. Being shielded by other monsters similarly does not prove how she normally treats them. His anticipated triumphant return at398 is his unperformed expectation, not her victory.
+
+The source supports a dangerous military role in report, a vulnerable retreating participant in a partly uncertain visual identification, and the father's attributed attachment. It does not supply exact strength, a complete reason for the war, an independently observed succession, later revenge, death or resurrection. Daily post-ending attacks on the castle in Eris's epilogue narration, U01531–32, do not establish a further daughter death. No generator, voice grammar or prospective-validation score can be inferred from relatives' speech and other people's descriptions. This compact profile retains those meaningful distinctions without inventing an interior life. The [cohort49 evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md) owns scope and open identity questions.
+
+
+## Cohort50 — incidental roles and supporting castle actors — 2026-10-25T18:26:58.080611+00:00
+
+Eighteen compact profiles now treat the butcher, festival officer/operator/child, campaigner/farmer, Eris pair, pub manager, unseen worker, hall guards/server/interceptors, retainers/skeleton/protectors, intervening officer, apple helper and library classmate. The Eris pair has one shared passage because its persistent A/B line map is absent. Existing family, principal, roster, Mary and letter/parent incidental homes remain adequate. New group/member/report/sound/embedded-fiction/creator routes are access records, not additional people by simple addition. All55 dispositions have separate twelve-dimension audits; no reconstruction model or generated first is earned.
+
+[Current evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT50_EVIDENCE_INDEX.md). Exact containing publication is pending; the full program continues.
+
+
+## C51/C52 — supporting-character states across art-reference fiction and TRPG material
+
+**Source class and phase:** retrospective consolidation of already admitted artbook/fanbook components (C51) and Core/Advanced guide, optional samples and supplied scenarios (C52). This appendix carries their current findings into the maintained ledger. It admits no new edition or performed adventure. The [C51 index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT51_ART_REFERENCE_EVIDENCE_INDEX.md) and [C52 index](../08%20Evidence%20and%20Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md) own the individual routes and source-precision qualifications.
+
+| Subject and locator | State or choice actually supported by that source | Limit on the character account |
+| --- | --- | --- |
+| Greed, ART-BLESSING S142–144/S147–148, printed136–138/141–142 | The viscount changes his treatment of Darkness when her position becomes salient and responds to the compensation problem. | 子爵 is viscount; an employee's reported skill and an expiring coupon do not demonstrate completed restitution or a universal response to every noble. |
+| Unnamed Medusa owner, FAN-MEM S097–099, printed95–97 | She conceals her level, accepts advice, takes notes, objects to selected methods, chooses to stay, then requests escape as new danger becomes apparent. | The later appeal does not erase the earlier choice. The final warning and magical buildup leave rescue, survival and career change unshown. Her enterprise and the defenders' agency remain distinct. |
+| Water supplier and restaurant woman, FAN-MEM S110–111, printed108–109 | He actually fills the jar; she requests and thanks him and reports his career circumstances. | Her report is attributed information. Aqua makes the donation/curse demands. Occupation and a water-god nickname establish neither a restaurant-family identity join nor literal deity. |
+| Core guide newcomer, CORE S252–262 | Anger and an intended blow are interrupted by collapse; the newcomer later lets the grievance go, revises impressions and accepts a novice partnership. | Narrated キミ is a fictional subject with supplied appraisals, not the human reader. No completed blow, payment of Kazuma's guide fee, romance or later successful quest is shown. |
+| Okina, CORE S300–305/S312–313 | Resource protection, practical instruction, back trouble, forgotten trap placements and offered hospitality coexist in the supplied scenario. | Experience is not infallibility; appearance is not an exact age. Proposed traps and breakfast remain future/conditional actions. |
+| Boren and four captive women, ADV S298–310 | Boren's labor and tactical priorities coexist with confinement after refused proposals. Each captive retains her own question, report, obstacle assessment or conditional help. | Executive ambition is not achieved army leadership. A no-kill order does not convert captivity into consent; no later marriage or reconciliation is supplied. |
+| Metal Mōrā, ADV S298–311 | One autonomous tank persists through controlled use, device loss, emergency ejection and external-enemy classification. | Functional announcements support target processing, not revenge, remorse or a human moral personality. It is not joined to the Destroyer. |
+
+Nine optional sample personas remain source-local choices, with blank personal/life-path fields left blank. Their classes and visual resemblances do not make them principal aliases. Nested Main04 wishes, card roles, unselected origin tables and reference populations do not instantiate additional completed biographies. No new model or independent observation is earned by this uptake; the existing substantial Dust, Komekko and Hoost homes remain current rather than being duplicated here.
