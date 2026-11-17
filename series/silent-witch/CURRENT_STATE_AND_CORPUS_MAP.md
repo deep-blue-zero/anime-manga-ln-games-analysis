@@ -5,8 +5,8 @@ artifact_type: corpus_map
 series: "Silent Witch: Secrets of the Silent Witch"
 series_id: silent-witch
 generation: V1
-version: "1.28"
-last_updated: "2026-10-20"
+version: "1.29"
+last_updated: "2026-11-17"
 status: canonical
 scope: "Single canonical first-read surface; accepted foundation, V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes closed; continuous sequential run authorized 2026-10-14 through every supplied Japanese LN work and the architecture’s synthesis products"
 source_boundary: "Japanese LN V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes read in full and closed; every supplied work read; no web or adaptation witness analyzed."
@@ -96,6 +96,10 @@ This is the single current entrypoint for **Silent Witch: Secrets of the Silent 
 *Historical gate/progress narrative retained from earlier stages; the front matter and completed continuous-run record below own the reached boundary. It grants no new operation.*
 
 **SEQUENTIAL_ANALYSIS_LOCK = OPEN, for Japanese LN V01 only, by the owner’s 2026-10-13 resume instruction.** The earlier owner-directed hold is preserved as history in the [gate report](08%20Audits%20and%20Manifests/SW_V01_READINESS_GATE_REPORT.md). Japanese LN V01 is byte-locked; its original local locator package was recovered and reverified before the gate opened. Narrative high-water mark at gate opening was PRE_V01. **Committed high-water mark now: V12.** The [V01 deep reading](02%20Sequential%20Readings/SW_V01_DEEP_READING.md) covers the whole volume and freezes its exit state as `SW-FR-V01-EXIT`; the [master ledger](03%20Longitudinal%20Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md) carries the reconciled cumulative state. That single operation is complete. **On 2026-10-14 the owner authorized a continuous sequential run**: “Proceed with V02 and sequential deep readings until all works are read, and all artifacts per the synthesis architecture are completed.” The [run record](#continuous-run-authorized-2026-10-14) below states how that instruction is resolved into a terminal boundary. Web witnesses and adaptations remain outside it. No character model or literary synthesis exists yet.
+
+## Prospective LN reading configuration — 2026-11-17
+
+For a separately authorized future substantive Japanese LN reading, [architecture section 6.1](00%20Frameworks%20and%20Methods/SW_SYNTHESIS_ARCHITECTURE.md#61-standing-configuration-for-a-future-substantive-ln-reading) assigns the principal, source-facing specialist and independent reviewer. [Volume template section 11](00%20Frameworks%20and%20Methods/SW_VOLUME_READING_TEMPLATE.md#11-closure-receipt) records how their findings enter the reading and its cumulative homes. The completed V1 run ends at ANOTHER-LOWER. V1 remains the current analytical baseline, and G2 and the comparison retain their frozen noncurrent status.
 
 ## Prospective framework amendment — 2026-10-18
 
