@@ -2,7 +2,7 @@
 title: "Sayonara Lara: Full-Series Analytical Method"
 artifact_id: "SYL_ANALYTICAL_METHOD"
 artifact_type: analytical_method
-version: "1.1-adopted"
+version: "1.2-adopted"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -22,7 +22,7 @@ adopted_on: "2026-09-20 America/New_York"
 
 Build a source-grounded literary and audiovisual account of the television series, with independently useful character and relationship analyses and a reliable basis for comparison within the project. The planned narrative boundary is Episodes 01-12, to be confirmed against the supplied source inventory. Specials, promotional voice dramas, later releases, adaptations, and other continuities are not silently admitted.
 
-This is a proposed series-specific method. Upon receipt, Codex must reconcile it with live governance, adopt it through the repository's ordinary acceptance process, and record the adopted version in `CURRENT_STATE_AND_CORPUS_MAP.md`. The packet's `draft_noncurrent` status is intentional; shipping this file does not open the sequential-analysis gate. The relevant requirements are [G01-G09, G12-G14] in the package source notes.
+This method was adopted under the repository acceptance process. The canonical entrypoint records its operational scope and the episode boundary. The original design packet and its governance sources [G01-G09, G12-G14] remain documented in the package source notes.
 
 The central questions concern alienation, desire, love, companionship, self-authorship, comedy, embodiment, and the ending. They are research questions, not predetermined conclusions. A final interpretation may preserve, substantially revise, or reject the earlier conversational thesis.
 
@@ -111,6 +111,7 @@ Write the episode reading; synchronize applicable cumulative homes; register loc
 Each `SYL_EPnn_DEEP_READING.md` should make the following recoverable without rigidly repeating a paragraph template:
 
 - source edition/language, knowledge boundary, and actual inspection coverage;
+- participant, blinded assignment and horizon, inspected cue/frame/interval, material finding or rival, reviewer challenge, principal disposition, and linked claim or channel debt under the [standing configuration](SYL_SYNTHESIS_ARCHITECTURE.md#independent-episode-and-channel-readings);
 - concise, accurate summary and scene map;
 - a sustained episode-level argument with close readings;
 - character and relationship changes, including continuity and contradiction;

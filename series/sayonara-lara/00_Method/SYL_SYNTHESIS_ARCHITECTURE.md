@@ -2,7 +2,7 @@
 title: "Sayonara Lara: Synthesis and Corpus Architecture"
 artifact_id: "SYL_SYNTHESIS_ARCHITECTURE"
 artifact_type: synthesis_architecture
-version: "1.1-adopted"
+version: "1.2-adopted"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -251,6 +251,18 @@ Prefer a bounded hybrid arrangement: this Chat supplies the foundation proposal;
 Use `BOUNDED_STANDARD` for source indexing, `SUBSTANTIVE_ANALYSIS` for normal episodes, `DEEP_SYNTHESIS` for major monographs/specialists, and `PREMIUM_QUALITY_FIRST` only when difficult or propagation-sensitive adjudication justifies it. Resolve actual model access at execution time; brand names do not certify capabilities.
 
 The handoff prompt defines a conditional bounded run through Episode 12 after bootstrap, source delivery, and gate satisfaction. If the sources are not present, complete initialization as far as warranted and stop with a precise next operation. Do not create a watch, schedule, or silently acquire episodes.
+
+### Independent episode and channel readings
+
+The principal owns one reading at the authorized episode and channel boundary. Give a separate reader the same Japanese cue sequence and admitted frames for an independent account of who speaks, who can see a gesture and which change of viewpoint supports the interpretation. For an authorized performance or motion question, give a specialist the exact playable passage after verifying actual hearing or continuous-video inspection. Record timestamp, channel and limitation. Acoustic measurements, stills and captions each support only what that route can establish.
+
+A distinct critical reviewer reopens the decisive passage in the available channels, tests the strongest alternative and checks that a small response or supporting person's conduct survives compression. Disclose earlier exposure, withhold later episodes, forecasts and the principal's draft until the specialist has returned located findings. Use a fresh prospective reader where later knowledge would determine the answer. Previously exposed readers can contribute explicitly retrospective or channel-bounded checks.
+
+Keep attributable findings and dissent in the episode reading, or in the execution/inspection record for a separately scoped channel pass. Link material evidence to the claim, performance or language ID and any outstanding debt. The principal records what is adopted, qualified, rejected or unresolved and why, then reconciles the existing homes. Acceptance requires usable coverage, independent work and a review at the claimed channel. A missing sensory route holds that claim or records a scoped debt. The existing reasoning classes apply to the work each participant actually performs. Reserve publication for the authorized integrator.
+
+At the next authorized character-readiness assessment, use the character state/readiness ledger to record each assessed person's evidence boundary, qualification decision and reasons, outstanding evidence, next review trigger and individual monograph route. Include supporting subjects with differentiated conduct in a concentrated passage. Carry qualifying subjects to a self-contained portrait, with an independent portrait-only reading followed by a separate diagnostic source check at the credited channel. Existing E12 products retain their accepted scope.
+
+[Source-reading configurations](../../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading) · [Individual monograph acceptance](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard)
 
 ## 11. Mutation, preservation, and global ownership
 
