@@ -2,9 +2,9 @@
 title: "To Be Hero X V2 — Multi-Document Synthesis Architecture"
 project: "To Be Hero X V2"
 artifact_type: "synthesis_architecture"
-version: "1.5"
+version: "1.6"
 created: "2026-08-13"
-last_updated: "2026-10-25"
+last_updated: "2026-11-17"
 status: "governing"
 architecture_lifecycle: "STABILIZED"
 current_entrypoint: "TBHX_CURRENT_STATE_AND_CORPUS_MAP.md"
@@ -758,6 +758,18 @@ Stages name roles and inspection lanes, not providers; the owner's current provi
 | Architecture amendments | analysis author | `TEXT` | `PREMIUM_QUALITY_FIRST` |
 | Repository integration | integration owner | not applicable | checklist |
 
+#### Standing team for a future episode reading
+
+Before a separately authorized episode reading or reread, the principal verifies the admitted edition, broadcast frontier, source clock and the lanes each participant can actually inspect. The principal covers the complete episode under the method, freezes the prospective account before later revelations, and owns the single integrated reading and its ledger changes. The current Phase 5 work uses the synthesis, reconstruction and targeted AV routes above.
+
+Give an independent specialist the same episode frontier and prior accepted state in a fresh context, without the principal’s draft. Have that reader reconstruct a consequential public account against its private or missing perspective. Use the Mandarin address or wording, pictured action, and each participant’s knowledge at the time to test the distinction. Retain behavior that complicates the hero image, including a supporting character’s ordinary response or refusal when it changes the reading. Where a performance shift, repeated cut or change of animation mode carries the claim, assign that channel to a specialist with verified access. The displayed Chinese text, source audio, indexed still and continuous sequence each support different observations under §10.7. Reported playback from a handoff retains its §10.4 evidence state.
+
+A separate critical reviewer directly inspects the decisive cues, frames or intervals. Where practicable, the reviewer forms an initial view before seeing either account. Test whether a claimed Trust/Fear effect was shown or publicly asserted, whether a later perspective leaked into a forecast, and whether compression lost an alternative, relationship detail or counterexample. Record prior exposure and any spoiler incident per participant. Affected claims lose prospective or independent credit within the exposed scope.
+
+Use [topology §4.1](../../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading) for independence, acceptance and exceptions. The principal, specialist and reviewer each start at `SUBSTANTIVE_ANALYSIS` for episode reading. Escalate dense perspective or causal disputes to `DEEP_SYNTHESIS` in the affected role. A combined specialist/reviewer in one independent context is available only for an unusually bounded unit, with the reason and adequate source coverage recorded for that transaction. Missing independent access holds acceptance and the high-water mark pending. An inaccessible claim channel stays open or is referred to a capable lane.
+
+At method Pass 9 the principal preserves the material observations and the reviewer’s challenges with their episode locators. For each disagreement give the evidence and reason for adopting, qualifying, rejecting or leaving the finding open. Route revised claims through §7 and targeted AV debts through the existing evidence ledger. Verify required coverage, prospective freezes, retained findings and cumulative changes against the episode record before acceptance. Repository publication remains with its designated owner.
+
 ### 10.9 Mutable and frozen artifacts
 
 - **Frozen:** E01–E24 prospective episode bodies; phase, closure and integration checkpoints and their checksum files.
@@ -814,6 +826,8 @@ The current map's retrieval route remains authoritative. Version 1.5 adds:
 4. whether external audiovisual evidence is accepted → the targeted AV ledger and the relevant evidence audit, read through §10.4.
 
 ### 10.13 Revision history
+
+- **v1.6 — 2026-11-17.** Section 10.8 records the standing team, evidence lanes and reconciliation for future authorized substantive episode readings.
 
 - **v1.5 — 2026-10-25.** Document 20 confirmed as character modeling; the Phase-6 artifact renamed to unnumbered `TBHX_COMPARATIVE_REFERENCE_MATRICES_AND_OPEN_QUESTIONS.md`; homes declared for Documents 21–22; the numbering table corrected; the Phase-9 second map replaced by the single-entrypoint rule and an optional subordinate reader guide; the reconstruction method adopted for Document 20; dependency graph, evidence and authority states, completion gates, responsibility matrix, source topology, lane ownership, mutable/frozen rules, contradiction routing and role-gap audit added; legacy revision labels crosswalked.
 - **v1.0–v1.4 — 2026-08-13 to 2026-08-18.** Original phase plan and its Drive-era amendments. By v1.4, which entered Git unchanged in the 2026-09-01 migration, the mandatory Document 20 had been added to Phase 5 without retiring the Phase-6 use of the number 20 — the defect v1.5 repairs. Earlier text is recoverable from Git and Drive provenance.
