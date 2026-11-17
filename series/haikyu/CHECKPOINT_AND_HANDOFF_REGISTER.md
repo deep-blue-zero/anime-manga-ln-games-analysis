@@ -2,7 +2,7 @@
 title: "Haikyu!! — Checkpoint and Handoff Register"
 artifact_id: HQ_CHECKPOINT_REGISTER
 artifact_type: checkpoint_handoff_register
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: HQ-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no narrative findings"
 source_boundary: "Metadata only: Japanese colour-edition main V01–45 plus separate 10th Chronicle and Final Guidebook; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-17
 ---
 
 # Checkpoint and handoff register
@@ -30,6 +30,8 @@ No reading run, checkpoint, admitted frontier or release exists. This register p
 | Gate review `HQ-GR-nnnn` | H0–H12; actual input boundary and reviewed evidence; reviewer/independence; defects; pass/hold/bounded acceptance; next permitted action |
 
 ## Closeout and anti-compression review
+
+`HQ-TX` carries the [independent reading receipt](HQ_SYNTHESIS_ARCHITECTURE.md#independent-source-reading). Record each person's assignment, independent context, actual exposure, inspected material and precise locators. Preserve the material observations, rival explanations, counterexamples, challenges and remaining debts, with the principal's grounds for adopting, qualifying, rejecting or leaving each finding open. Link the full argument and any affected claim revisions. Record observed settings only when known.
 
 Accept a future full reading and synchronized registers atomically. Verify actual page coverage, central retrieval, action-time inference, ordinary controls, language/form arguments, serious rivals and the bounded name/reference check. Missing pages or unresolved required modality stay explicit debts.
 

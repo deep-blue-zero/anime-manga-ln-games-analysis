@@ -2,7 +2,7 @@
 title: "Haikyu!! — Analytical Method"
 artifact_id: HQ_ANALYTICAL_METHOD
 artifact_type: analytical_method
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: HQ-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no narrative findings"
 source_boundary: "Metadata only: Japanese colour-edition main V01–45 plus separate 10th Chronicle and Final Guidebook; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-13
+last_updated: 2026-11-17
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -88,6 +88,8 @@ Every volume's governing thesis has a serious rival and a disconfirmation condit
 Conflicts may be edition differences, page-order errors, perspective, ignorance, commentary unreliability, formal stylization, chronology or genuine inconsistency. Keep them distinct and unresolved when needed. Smooth series prose is not a reason to harmonize evidence.
 
 ## 9. Future reading acceptance and full depth
+
+Use the [independent source-reading team](HQ_SYNTHESIS_ARCHITECTURE.md#independent-source-reading) for every future authorized unit. Close `HQ-TX` with the participant evidence and principal's reconciliation before advancing the accepted frontier.
 
 An accepted volume reading contains: exact receipt/coverage; entering state and frozen expectations; a developed thesis/rival; movement-by-movement causal and page analysis; subject changes and directed relations; group/institutional evidence if earned; Japanese register and graphic form; colour and recurrence with counterexamples; claim transitions; synchronized ledger manifest; exit freeze; limitations and completion decision.
 
