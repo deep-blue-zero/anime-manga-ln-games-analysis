@@ -2,10 +2,11 @@
 title: Manga / Anime Long-Series Hybrid Execution Protocol
 artifact_id: MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL
 artifact_type: long_series_hybrid_execution_protocol
-version: "1.0"
+version: "1.2"
 status: canonical
 scope: preferred phase lifecycle for substantial longitudinal series and bounded live-service corpora
 created: 2026-09-13
+last_updated: 2026-11-15
 maintainer: ChatGPT + user
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -50,7 +51,7 @@ This describes execution ownership, not a requirement for one particular session
 |---|---|---|
 | Architecture authorship | Fresh cloud Pro; local also permitted | Complete method/architecture proposal with explicit responsibilities and source limits |
 | Architecture integration | Local Work/Codex | Current eligible foundation, required infrastructure, and truthful initiation state |
-| Sequential accumulation | Local Work/Codex | Each authorized unit transaction closed; ledgers and high-water mark synchronized |
+| Sequential accumulation | Local Work/Codex | Each authorized unit transaction closed, including the multi-agent participation of topology Section 4.1; ledgers and high-water mark synchronized |
 | Synthesis readiness | Local Work/Codex | Scoped, versioned, retrievable evidence state and named targets |
 | Retrospective synthesis | Fresh cloud Pro | Substantial evidence-grounded outputs, counterreadings, limitations, and return receipt |
 | Evidence completion and convergence | Local Work/Codex by default | Required channel debts and cross-document contradictions resolved or explicitly bounded; any reopened synthesis and affected dependencies reviewed before acceptance |
@@ -83,6 +84,8 @@ A cloud proposal, created directories, a generated outline, or the availability 
 The local sequential owner handles primary sources, extraction/inspection routes, source locks, ordered readings, and the longitudinal infrastructure specified by the architecture. It owns ordinary Git operations for this run subject to live controls.
 
 Each source unit must close as a complete transaction: reading, applicable ledger and claim updates, locators, prospective entering/exiting state, current-state advancement, and the required persistence/verification. Do not queue ten readings and postpone every ledger update to the end merely to reach the cloud phase sooner.
+
+The sequential owner is the accountable principal and integrator of each unit, not its only analyst. Every substantive reading uses the multi-agent workflow of [topology Section 4.1](MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading). Its specialists and reviewer may be local subagents or separately initialized sessions in any already authorized environment, within the authorized source and access boundary, and their contributions are reconciled and recorded when the unit closes, not deferred to a later batch or to the synthesis phase.
 
 Follow `single_operation` or explicitly authorized `continuous_sequential`. The terminal boundary, committed high-water mark, next candidate, and interrupted work must remain distinct. A run across many units must not admit later evidence into earlier prospective freezes.
 
@@ -122,7 +125,7 @@ A generated evidence summary can orient the analyst but cannot be the sole suppo
 
 Cloud Pro is tasked with substantial analytical authorship, not merely formatting local findings. Its deliverable can be a complete monograph or synthesis within the assigned evidence scope.
 
-For a major character, the architecture should normally make development/state transitions, motive and self-report, relationship conditioning, language/performance where supported, contradictions/counterevidence, thematic function, and limitations recoverable. The actual work determines which dimensions matter; do not force every character through an identical psychological template.
+For a major character, the architecture should normally make development/state transitions, motive and self-report, relationship conditioning, language/performance where supported, contradictions/counterevidence, thematic function, and limitations recoverable. The actual work determines which dimensions matter; do not force every character through an identical psychological template. An individual character monograph meets the [self-contained character monograph standard](MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard) (initiation Section 5.5.1), whose responsibilities are coverage duties, not a template.
 
 A specialist must make an argument appropriate to its role. A continuous synthesis must reconcile specialist findings into a coherent account rather than concatenate abstracts. A reconstruction model remains distinct from literary interpretation and must meet its own behavioral constraints and validation responsibilities.
 
@@ -168,7 +171,7 @@ Novel later evidence does not invalidate useful earlier analysis automatically. 
 
 ## 12. Adoption for existing projects
 
-Introduce the topology at the next appropriate boundary without restarting completed readings. An active project can hand a closed tranche to cloud synthesis while preserving its existing root, ledger design, naming, and historical interpretations.
+Introduce the topology at the next appropriate boundary without restarting completed readings. An active project adopts the multi-agent reading workflow of topology Section 4.1 at its next substantive source reading, under that section's applicability rule. An active project can hand a closed tranche to cloud synthesis while preserving its existing root, ledger design, naming, and historical interpretations.
 
 A thin existing monograph can undergo an authorized deepening pass against mature evidence without rerunning the sequential phase. Architecture gaps require explicit repair under the initiation policy, not cosmetic scaffolding. This protocol does not itself authorize a material restart.
 
@@ -189,6 +192,14 @@ Evaluate the topology by evidence-grounded analytical depth, preserved prospecti
 The default may be changed for a task when another adequate route is better. Record the reason; do not convert a situational exception into a claim that cloud or local is categorically superior.
 
 ## Changelog
+
+### v1.2 - 2026-11-15 - Multi-agent source reading
+
+Sections 2, 5 and 12 route sequential accumulation to the multi-agent source-reading requirement of topology Section 4.1: the sequential owner is each unit's principal and integrator, specialist and review contributions close with the unit, and active projects adopt the workflow at their next reading. Phase lifecycle and ownership preferences are otherwise unchanged.
+
+### v1.1 - 2026-11-14 - Self-contained monograph pointer
+
+Section 8 points individual character monographs to the self-contained character monograph standard (initiation Section 5.5.1). Phase lifecycle, ownership and depth rules are otherwise unchanged.
 
 ### Proposal revision 2 - 2026-09-13
 

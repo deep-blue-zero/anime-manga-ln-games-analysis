@@ -1,0 +1,220 @@
+{
+  "schema": "KONOSUBA_MAIN04_EXCLUDED_CURRENT_PRECISION_V1",
+  "source_id": "MAIN-04",
+  "findings": [
+    {
+      "id": "M04EX-Q01",
+      "current_precision": "Nine accepted principal members3135P retain exact original authority, joins and reading history; zero new principal reading credit.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q02",
+      "current_precision": "All24newresources144P/31images actually received: one67Pbonus,26Pcreatorafterword,51otherwrapper/credit/navigation slots. Resource/P/image totals are not a global narrative denominator.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q03",
+      "current_precision": "Bonus cemetery event is K-focalized. Relation to a precise main chapter/day is unbound; future skills or relationship permissions are not back-projected.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q04",
+      "current_precision": "Aqua already accepted the guild/association staff job. Wiz is forcibly brought6, then independently offers to help15; later scoped assent does not authorize the start or every later action.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q05",
+      "current_precision": "Aqua's attribution of lich pride10 is contradicted by Wiz's own hurt-preference correction11. Recipient preference is not inferred from a defender's kind label.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q06",
+      "current_precision": "Actual zombie makeup23 and frightening appearance are manual achievement, not actual zombie conversion or proof Wiz is a living human.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q07",
+      "current_precision": "K's elderly heart-failure possibility24 is hypothetical; no actual participant medical injury/death occurs.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q08",
+      "current_precision": "Aqua's distraction/hide plan27 and Wiz's acceptance28 precede action; actual arriving actors are fellow hired workers30, not the public participants initially assumed.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q09",
+      "current_precision": "K's identity correction39 is interrupted; later real explanation56 exists. Do not erase either intervention or claim the group receives and accepts it.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q10",
+      "current_precision": "Workers' references to speech and rare zombie58-60 preserve their mistaken belief, not a source-certified classification of Wiz.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q11",
+      "current_precision": "Human-safe Turn Undead62 is their proposed discriminator. Wiz is a lich, explicitly protests55, and never supplies consent/trust to purification here.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q12",
+      "current_precision": "Aqua's weak-power promise63 is a stated intention with hesitation. No spell-release sentence is shown before cut; running65 and reward66 do not certify a performed safe spell, actual purification, death or harmless reset.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q13",
+      "current_precision": "Aqua's bonus66 is an actual anomalous narrated reward; its exact awarding reason and prior incentive motive remain unbound.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q14",
+      "current_precision": "Frontmatter005-011 uses staged/compressed cases, wishes and explicit imagination commentary. Do not treat every drawn line as an independent enacted mainline event.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q15",
+      "current_precision": "Eris-doll luck/profit are vendor/Wiz expectations, not measured outcomes. Prior doll manufacture is distinct from a hobby or a new exploded deity effigy.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q16",
+      "current_precision": "M's100-floor church/dungeon and incineration promise are imagined/staged; no new actual Explosion trial. D's explicit Eris refusal remains, with later method unfinished and no completed conversion/body act.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q17",
+      "current_precision": "Aqua's admiring crowd and K/Yunyun bath wishes remain represented desires; no real public service-burden test or extra intimate encounter.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q18",
+      "current_precision": "IMG012 M14 is an edition-profile declaration alongside Yunyun13/D18/K16/Wiz20/Sena20/unknownAquaEris. Preserve earlier M13 profiles and source dates rather than silently overwriting them or inventing a birthday event.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q19",
+      "current_precision": "IMG015 original uncoded snack/identity impression is corrected additively: retained U016P101-105 explicitly Aqua/D inflating failed rubber prototypes as balloons. Not Yunyun/food or a performed sexual act.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q20",
+      "current_precision": "IMG016 creature is explicitly dragon U016P341, not a bird; Wiz pets Chomusuke343. No full new creature ontology or automatic magic from art.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q21",
+      "current_precision": "IMG018-019 form one two-page counterfactual imagined Wiz encounter. U019P402-406 and U022P1-2 bind missed timing and return. No actual shared bath, completed washing or new permission.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q22",
+      "current_precision": "IMG020 original uncoded Wiz label is corrected: actual woman is unnamed red-haired/short-haired/yellow-eyed in U022P62-64, distinct from imagined Wiz. Her half-self report/leave request cannot enter Wiz voice/biography.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q23",
+      "current_precision": "IMG017 Aqua-styled welcome composition does not assign every untagged recruitment line to her: U017P34 says arrival, U019P9 remains an unassigned street welcome.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q24",
+      "current_precision": "IMG022 man is explicitly Hans U024P244-265 and earlier U022P91; keep Wiz's unintentional-recognition claim271 distinct from K speculation273. No complete new enemy model from one portrait.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q25",
+      "current_precision": "NEXT5 request/reactions/village clarification is promotional elliptical framing; no actual pregnancy, child, sexual act, adult consent or newly performed future trip.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q26",
+      "current_precision": "Creator afterword plans/reports and weapon/read joke remain paratext, not character behavior, actual audience response or a fresh completed publication/cast. Colophon electronic+printbasis2014-05-01.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q27",
+      "current_precision": "All31principal+8party comparisons are informed qualitative uses of unchanged contracts, fourtyped constraints separate. Selected12H/32V overlap, are postseal and do not form a census, accuracy denominator or independent replication.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "M04EX-Q28",
+      "current_precision": "Originaluncoded notes, frozen66current/72historical, fouraccepted scores,14Dustblanks and secondary I01/I02 lineage/SEC01 target scopes remain intact; full41program and secondary census/substantive artifacts remain active.",
+      "authored_after_seal_utc": "2026-10-19T08:32:41.486204+00:00"
+    },
+    {
+      "id": "C51-ARTM04-Q01",
+      "affected": [
+        "MAIN-04-IMG005 original source_first_notes",
+        "ART-CHEERS-S030 comparison"
+      ],
+      "before": "Wiz smiles with ニヤ",
+      "current": "The separate masked close-up carrying the ニヤッ effect depicts Vanir. Wiz is also shown smiling in the group image; her visible smile and Vanir smirk inset are separate observations.",
+      "basis": "Both actual native views show the mask/star inset beside the printed effect.",
+      "original_annotation_retained": true,
+      "authored_after_seal_utc": "2026-10-25T20:53:24.750950+00:00",
+      "current_precision": "The separate masked close-up carrying the ニヤッ effect depicts Vanir. Wiz is also shown smiling in the group image; her visible smile and Vanir smirk inset are separate observations."
+    },
+    {
+      "id": "C51-ARTM04-Q02",
+      "affected": [
+        "MAIN-04-IMG005 initial looking-at-plans remark",
+        "ART-CHEERS-S030 speaker assignment",
+        "ART-CHEERS-S033 bounded introductory attribution"
+      ],
+      "before": "The main-image note names Kazuma while the artbook note names Vanir.",
+      "current": "The introductory looking-at-plans text is unballooned and lacks an explicit speaker tag or pointing tail. Vanir is the contextually supported observing voice across the sequence, including the later self-description and commentary. Keep the initial line qualified rather than treating its proximity to Kazuma as explicit attribution, or converting the Vanir reading into a tagged quotation.",
+      "basis": "The actual native setup, repeated Vanir commentary and closing frame were all viewed; narrative inference is separated from explicit speaker marking.",
+      "original_annotations_retained": true,
+      "authored_after_seal_utc": "2026-10-25T20:53:24.750950+00:00",
+      "current_precision": "The introductory looking-at-plans text is unballooned and lacks an explicit speaker tag or pointing tail. Vanir is the contextually supported observing voice across the sequence, including the later self-description and commentary. Keep the initial line qualified rather than treating its proximity to Kazuma as explicit attribution, or converting the Vanir reading into a tagged quotation."
+    },
+    {
+      "id": "C51-ARTM04-Q03",
+      "affected": [
+        "ART-CHEERS-S031 current_observation underchurch100floors",
+        "MAIN-04-IMG007 reading_scope_and_limit established100-floor dungeon"
+      ],
+      "before": "100 floors",
+      "current": "The printed depth is １０００階, one thousand floors. It occurs in Megumin imagined case and is itself supposition; it establishes no surveyed or actually visited dungeon, monster encounter or performed Explosion.",
+      "basis": "The same printed numeral and hypothetical phrasing are legible in both native versions.",
+      "original_annotations_retained": true,
+      "authored_after_seal_utc": "2026-10-25T20:53:24.750950+00:00",
+      "current_precision": "The printed depth is １０００階, one thousand floors. It occurs in Megumin imagined case and is itself supposition; it establishes no surveyed or actually visited dungeon, monster encounter or performed Explosion.",
+      "supersedes_numeric_part_only_of": [
+        "M04EX-Q16"
+      ],
+      "preserved_other_Q16_limits": "Imagined setting, no performed Explosion, explicit Eris refusal, unfinished alternative and no completed conversion/body act."
+    },
+    {
+      "id": "C51-ARTM04-Q04",
+      "affected": [
+        "ART-CHEERS-S032",
+        "ART-CHEERS-S033",
+        "MAIN-04-IMG010",
+        "MAIN-04-IMG011",
+        "ART-CHEERS-ILLUSTRATED-V04-01 duplicate_route"
+      ],
+      "current": "The four artbook pages visually recompose the same seven-image color sequence. One wide Main04 image is split across artbook pages026–027. Whole-resource hashes differ, so visual correspondence is established without whole-image byte identity. The represented wishes retain the explicit imagination frame and Vanir claim that they will not come true. His closing claim is not an independently observed later outcome.",
+      "basis": "All eleven complete native images were viewed and compared; no cross-set complete-image hash matches.",
+      "no_new_repeated_event_or_independent_credit": true,
+      "authored_after_seal_utc": "2026-10-25T20:53:24.750950+00:00",
+      "current_precision": "The four artbook pages visually recompose the same seven-image color sequence. One wide Main04 image is split across artbook pages026–027. Whole-resource hashes differ, so visual correspondence is established without whole-image byte identity. The represented wishes retain the explicit imagination frame and Vanir claim that they will not come true. His closing claim is not an independently observed later outcome."
+    },
+    {
+      "id": "C51-ARTM04-Q05",
+      "affected": [
+        "MAIN-04-IMG006 vendor",
+        "MAIN-04-IMG007 町人A",
+        "MAIN-04-IMG008 off-panel recruiting/coercing voice",
+        "MAIN-04-IMG009 admirers",
+        "MAIN-04-IMG011 frame and imagined company"
+      ],
+      "current": "These source-local roles and represented reactions require typed access. The labeled townsperson has a Kazuma-like depiction but no explicit Kazuma name tag. The vendor offer, shop-benefit hope, claimed dungeon, imposed demand and crowd requests are not automatically actual main-prose transactions or additional unique people. Framing dialogue remains observable speech in the illustrated source; it is distinct from the nested unaccomplished cases and from separately attended main prose.",
+      "basis": "Actual image labels, speaker visibility, request/response boundaries and the complete framing sequence.",
+      "no_forced_identity_join_or_person_increment": true,
+      "authored_after_seal_utc": "2026-10-25T20:53:24.750950+00:00",
+      "current_precision": "These source-local roles and represented reactions require typed access. The labeled townsperson has a Kazuma-like depiction but no explicit Kazuma name tag. The vendor offer, shop-benefit hope, claimed dungeon, imposed demand and crowd requests are not automatically actual main-prose transactions or additional unique people. Framing dialogue remains observable speech in the illustrated source; it is distinct from the nested unaccomplished cases and from separately attended main prose."
+    }
+  ]
+}

@@ -1,0 +1,1768 @@
+{
+  "schema": "BLUE_ARCHIVE_KIRARA_ERIKA_RELATIONSHIP_PUBLIC_SAVED_LINE_TRANSPORT_V1",
+  "status": "EXACT_REVERSIBLE_CANONICAL_PREPARATION_ROOT_INSTALLATION_PENDING",
+  "full_saved_body_line_inverse": {
+    "original_exact_tuple": {
+      "path": "GEHENNA_DIRECTED_RELATIONSHIPS/KIRARA_ERIKA/BLUE_ARCHIVE_KIRARA_ERIKA_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 42437,
+      "sha256": "5b1cfecbbbbc950e38dda7b044bdcae84afc4e067bf35df4ee89335566f57f1d",
+      "git_blob_oid_of_actual_bytes": "a193e5667e34bac9dd63052c506d316a565dd72c",
+      "lines": 189,
+      "immutable_transport_path": "immutable_originals/GEHENNA_DIRECTED_RELATIONSHIPS/KIRARA_ERIKA/BLUE_ARCHIVE_KIRARA_ERIKA_RELATIONSHIP_SYNTHESIS.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_KIRARA_ERIKA_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 46059,
+      "sha256": "f3c7965f88407a70bffb124269f72479a7d126585c881f7cad73acb75b073e36",
+      "git_blob_oid_of_actual_bytes": "9adda2f1bd77735718daea7dbba160b681ac6ada",
+      "lines": 201
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 3,
+        "canonical_line": 3,
+        "line_sha256": "003bab63e90a4253e81450e8d5d21014c699563308d11bc55a90c03f086fc248",
+        "line_text": "artifact_type: directed_relationship_synthesis"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "2a90c008a57c1d6bc328fda050d6a3cb970ebe76fc985b4002cb3694bbfe0a5e",
+        "line_text": "required_home: P3-REL-KIRARA-ERIKA-EXPLORATION-BROADCAST"
+      },
+      {
+        "frozen_line": 6,
+        "canonical_line": 6,
+        "line_sha256": "0f104a435021e3920ea2a1703aa94df08ad22d701aa0451ea3108fdf3c6818a2",
+        "line_text": "analytical_source_capture: 5f0a24b56557f308e9cef31c7d1c2d58406ef49a"
+      },
+      {
+        "frozen_line": 7,
+        "canonical_line": 7,
+        "line_sha256": "6ffbab0ece8efbfaf881a9836f56f3140f1db3a1aee9c9ab59f141b6d099f363",
+        "line_text": "primary_pin: electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 8,
+        "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "72d2b02fcbbdf53165fe0a6f291a831a6beeefc0ad8ea904ed4471772c9b3fe9",
+        "line_text": "scope_authority: REQUIRED_HOME_PARTITION_V3_355_PACKAGES_29_NAMED_SECTIONS"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "bd7fbc1067074e50e884be9a237decbadefe9475162652029eca2f044da8a79b",
+        "line_text": "private_public_global_chronology: UNKNOWN"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "3ccc08ebbd82782415dd33da03be271ed36726b784bf54a16a328c5157553290",
+        "line_text": "stable_original_gaps: ALL14_OPEN"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "222cd96dbbec853ed2dea9724f3182d37209f3cc98ba6d22ff759dcba379f706",
+        "line_text": "new_primary_native_raw_AV_or_model_credit: 0"
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 21,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 22,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 23,
+        "line_sha256": "69196bff43571690d4d48888ac21d17ae5d1e9c1af38a59ce1fae8bccb9b0bef",
+        "line_text": "# Kirara–Erika: shared exploration and the right to leave a place open"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 26,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 27,
+        "line_sha256": "5e185d374cf8ad6cccea5c38b046dd9336b6228ad64ff3a5cb370ff5ec496a6d",
+        "line_text": "## 1. Core thesis — a shared activity need not become a claim on another person"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 28,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 29,
+        "line_sha256": "992866f11ecb8aed48460033acf58558b100c740ce1e22433f378edef27ca260",
+        "line_text": "Kirara and Erika make enjoyable activity together: trying clubs, accepting an unfamiliar broadcast, making friends on a trip and helping resist a coercive school program. Their relation matters before any of those actions is useful to a crisis. Conversation, sweets, songs, clothes, scenery and the wish to discover another place are things they want. The shared activity becomes analytically distinctive when its participants negotiate its form and its limits. Kirara wants a club despite enjoying their existing company; Erika questions whether a new form is necessary but participates in the agreed one. Kirara encourages a song; Erika distinguishes the requested recording from a request for her own voice before giving particular assent. Both enjoy broadcasting and decline permanent replacement because an absent student's return should remain possible. The relation sustains shared attention without establishing unlimited access to the friend, the audience or someone else's place. [MINI]"
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 30,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 31,
+        "line_sha256": "6fad65c99fbc2ecdc5de4a24e461a8c39cac1584c80a08a60afd46820b8734e1",
+        "line_text": "That is a bounded literary thesis, not a declaration that the pair always respects boundaries. Their broadcast frightens listeners by misreading a chain letter. Encouraging a distressed listener to stream can support expression but can also turn frustration into entertainment. During the Hyakkiyako trip they breach curfew; Kirara's particular assent to the fiction that the fire was planned is false even while their subsequent help and pleasure are real. Erika's wish for advance information about fireworks becomes part of a difficult context in which Umika makes her own dangerous decision. These adverse cases belong within the relationship's public life. Friendship gives reasons to join and help; it does not guarantee truthful judgment, safe entertainment or complete repair. [MINI] [E835]"
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 32,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 33,
+        "line_sha256": "8d243096a88ab66a324b1697729f3cd843c0e2a1a59cc89c57211ac351920995",
+        "line_text": "The direction from Kirara to Erika often appears as invitation, enthusiasm and endorsement. The reverse direction includes a contrary judgment about club variety, a distinction between karaoke and public broadcasting, specific technical planning and reciprocal enjoyment. These are recurrent forms within the received repertoire, not fixed psychological types. Kirara also studies, remembers effort and protects a notebook; Erika also initiates outings, chooses tastes and leads another person to a private view. Neither is merely an energetic instigator or a cautious attendant. Their private relations with Sensei contextualize the people who participate in the pair, without proving that they have disclosed those experiences or needs to one another. [K-CMP] [ER-CMP]"
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 34,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 35,
+        "line_sha256": "438b743dc6e1c53efcab7d5269b1697e147c07087e7ac7009f60795be5227394",
+        "line_text": "This package owns the directed question of how these two choose and limit shared exploration and public attention. The exact required home derives from the frozen Gehenna responsibility “Kirara↔Erika exploration/broadcast/other-student-place ensemble,” accepted into the V3 partition as a directed relationship. The character monographs, club and institutional questions, anonymous recipients and Sensei responsibilities remain distinct. A complete relationship argument here does not complete those other packages, resolve the original fourteen gaps or establish a reconstruction mechanism. [SCOPE] [GEHENNA-RESP]"
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 36,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 27,
+        "canonical_line": 37,
+        "line_sha256": "12f1c5593dff1716108bea2312bf2e80a436505dce6b2895676ae374e6d9fdf9",
+        "line_text": "## 2. Longitudinal arc — local sequences and a repertoire without an invented calendar"
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 38,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 39,
+        "line_sha256": "4a27b983745c12f3a16c7ef1ff9ff8a44fca2ce32c098e694304a4bfc0ad580f",
+        "line_text": "The club mini sequence supplies the clearest small development. A wish becomes speakable amid ordinary media enthusiasm, food curiosity, attempted contact and familiar company. The accepted account retains interrupted pleasure, a failed pursuit and a completed escort with thanks; it does not convert every plan into an outing successfully accomplished. The represented trials then expose several possible forms of belonging. Political access, play, cooking and emergency care offer different experiences rather than one uniform test. After enjoying those experiences, Kirara chooses none of the existing clubs. Erika replies that their homegoing already yields varied activity. They reach an agreed Shiny Sparkle Club name and declare its first activity. This is an actual local speech act and agreement; formal registration, wider membership and bubble tea purchase or consumption are unprinted. [MINI] [MINI020]"
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 40,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "fd955993de7ccd4e7f09c75de4c7d4680dd3ced8cbc08045eb06abb5939ac188",
+        "line_text": "The broadcast sequence has its own invitation, execution and ending. Iroha wants to escape an unwanted assignment; the pair voluntarily accepts an unfamiliar opportunity. An actual program follows. They encounter frightened listeners, requests that require judgment, cable noise that is corrected, a song that cannot be played with the available equipment, and an invitation to stay in the role. The closing refusal to become permanent replacements changes what the successful program means. Pleasure and competence have been demonstrated within the episode, but those goods do not make displacement necessary. The absent host may return, and the hosts recognize that losing a place can hurt. That concern does not prove the host returns or receives their message. [MINI]"
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "4c7031b2c35bfc9c123df4d0392c49eddd00d26d33701d6006d89e2914da15d0",
+        "line_text": "MAIN supplies a positively located retrospective bridge rather than a date imposed from a variant. In C2 E015 Iroha thinks of the pair because of their past school-broadcast experience. Both choose to help because they have friends at other schools and oppose an attack on them. Erika proposes a direct transmitter route; Kirara endorses her skill. In E018 they appear with Satsuki during the represented counterbroadcast, which is credited as a group achievement. Thus past broadcast experience is explicitly invoked in this MAIN invitation. The technical plan is proposed in E015 and the later collective operation has an actual local effect; the sources do not supply a complete separate demonstration of Erika's bypass or isolate the pair as the cause of recovery. [M015] [M018]"
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "8f2d1eed418cc5eb4f5393db50bc13bb249920ccb791fcf6e04e72c8befecd3d",
+        "line_text": "The trip also has a secure internal sequence: pleasurable visiting, a photograph and contact offer, a later indication that the exchange is done, a host's growing anxiety, danger and collective aid, then an explicitly safely ended visit with enjoyment affirmed. An offer of contact is not the same endpoint as the later exchange report, and a future invitation after the trip is not another completed trip. The characters' private study, food, consultation and roof episodes supply their own local connections, including Kirara's examination sequence and Erika's full message tails. No evidence here dates the whole private repertoire relative to the club mini, broadcast, trip or crisis. Release order, costume editions and numerical episode order outside a shown sequence cannot supply that calendar. [E835] [K04] [ER05]"
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "6a8c083d96aff6ef4416605489963ff00a6e3ae55468bca822e29febda12ed85",
+        "line_text": "Development therefore has two warranted senses. Within each shown sequence, decisions change what happens next. Across the repertoire, the relationship becomes interpretable through repeated kinds of shared attention and refusal. The first permits local causal statements; the second permits comparison without pretending to a continuous history of maturation. It would distort the evidence to call the broadcast refusal a proven cure for earlier boundary problems, or the trip's false fire explanation a demonstrated regression after it. Their temporal relation is not established here."
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "b5604b5a03e54af06f7b9d06005aae4978545cc3546dd018cdf004e424bb774d",
+        "line_text": "## 3. Public and private selves — friendship includes what the friend has not been shown to know"
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "386f0b7340d15cf3ddf4ba672aea3fcc5f1c84eee30e03fe1001b526f34c6601",
+        "line_text": "The public pair can look effortlessly sociable. Erika's profile specifically places companionship with Kirara beside window shopping and catalogue collecting; Kirara's ordinary written repertoire welcomes conversation, fashion and company. Those documentary descriptors help identify a shared range of interests, but they do not make every invitation equally easy for either person. The club trial already contains disagreement over whether their present life lacks variety. Their companionship can continue while its members interpret it differently. A relationship made of agreement alone would omit the judgment through which its form is chosen. [K06] [ER06] [MINI020]"
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "49a216b99df82c256a3b2a9d820d3eb425fca6fa8dfd627213c5377495c3e6c1",
+        "line_text": "Erika's private consultation is consequential precisely because it leaves her friends blameless. She likes singing, shopping and company, yet sometimes cannot respond as usual and wants time alone. She struggles to formulate the problem, chooses to consult Sensei, reports relief and continues pleasant conversation. The adult's explanations and personality categories remain situated speech or inward conjecture, not a diagnosis. The message tail considers telling her friends and worries about her image; it shows no completed peer disclosure. It is unwarranted to say Kirara knowingly denies that need, or that Erika successfully negotiates it with Kirara. Their directed relation must retain the possibility of a difference not yet communicated on the page. [ER04]"
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "355ff5942a7117f58c32251a1a12d34fe51dd372f625fc43da0b48f626b3286e",
+        "line_text": "Kirara's academic and notebook episodes likewise prevent enthusiasm from exhausting her private self. Failure and a mistaken study range are reported; shared study, a negotiated break and return to study are represented; passing later appears as testimony rather than an audited grade. Her notebook is actually recovered and its dense formulas retain the significance of work and time spent together. A snatch and embarrassed departure leave the possible portrait's subject unknown. The complete chat retracts a forget formulation differently in Japanese and Korean, without proving compliance or erased memory. These are her own privacy and effort questions, not evidence that Erika has read the notebook or shares its contents. [K02] [K03] [K04] [K05]"
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "a6e7b27a56a6f344a1943b0380722310bab121466583fee3c6385dd94a10c470",
+        "line_text": "The anonymous broadcast listener who wants solitude without rejecting friends produces a meaningful comparison with Erika's consultation. The hosts recommend truthful preference negotiation. That advice puts an ordinary friendship boundary into public language, and the listener's concern remains legitimate rather than trivial. It does not identify the letter writer as Erika, prove Erika composed the advice from that particular consultation, or show that she subsequently tells Kirara. The comparison is about what friendship can require: company sometimes needs articulation of a wish to be alone. Similar language does not create an identity join, a callback or an enacted repair. [MINI] [ER04]"
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "60eb1d48b06e306d2ae3bba178310f8dba447976912e315d5885b0df0f379382",
+        "line_text": "Their relational knowledge is thus incomplete in a positive sense as well as a limiting one. Publicly sharing an activity does not require disclosure of every possession, bodily embarrassment, consultation or memory. Erika refuses money, keeps a bandage shop private and withholds other leopard-pattern possessions. Kirara's notebook retains an unresolved private remainder. Those choices do not establish distrust between the two; neither do warmth and gratitude erase them. An adequate pair argument preserves the individuals' right to a relation whose entire content has not become public evidence. [ER01] [ER03] [ER06] [K05]"
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "c783239df4c9ec06652a809a38d1e51f9f537a08a6adaf20b7ac2dfaa3a89be0",
+        "line_text": "## 4. School and club role — chosen form beside institutions that want useful attention"
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "947b0ca8b8ccc7eaea35852b36684495494b31ebe5014c25363bf96120fe53f3",
+        "line_text": "The club trials distinguish trying a place from accepting its claims. Makoto's self-advertised authority and executive prospect do not produce loyalty or appointment. Kirara's failure to recognize the promoted role and refusal of the prospect remain part of the scene. Iroha's paperwork and cleanup are reported burdens; actual play with Ibuki offers another kind of local company. Enjoyment in a political room does not turn the visitors into political adherents. The relation can be curious about a place without accepting its office, hierarchy or future conquest. [MINI020]"
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "bdd3cf90b43b1c279ca7992855c44d44fc985f64c88090cd9cd243686f248e43",
+        "line_text": "The cooking and medical visits similarly preserve recipients and workers. Erika has ingredient experience; Kirara does not cook. Juri offers instruction, but the moving omelette interrupts it, and retreat is not mastery. Fuuka's missing truck and workload do not become resolved because the visitors have had an interesting experience. With Sena, patients object to being held and want to return to a fight; Erika denies that their calming was a designed strategy. The anesthesia-complete statement and shot/collapse staging do not prove injection, consent or cure. A local contact exception is agreed after a request, but transmission and future company remain unprinted. The pair's pleasure must be interpreted beside other people's unresolved labor and objections. [MINI020]"
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "749177b863f0c1e195ff45a5be410b7574ba3828f2648f5d55588f92a9324156",
+        "line_text": "Choosing their own club form is neither empty whim nor proof of formal jurisdiction. Kirara has a reason for wanting a named form; Erika's homegoing comparison is a genuine alternative. They do not need an analyst to decide which account of variety is objectively correct before the agreement matters. The printed Club “None,” GachaClub labels and joined Character fields preserve different documentary declarations. The mini's naming act establishes their local agreement, while registry status, legal power and wider membership remain unknown. The directed relation supplies the negotiation that a label alone cannot. [MINI020] [K06] [ER06]"
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "24fb5efddbe70fd54ee54ac0b899df6d65bf78b8d5e99ffd80457423a2b7d040",
+        "line_text": "Broadcasting introduces a sharper difference between chosen work and institutional use. Iroha's reluctance and the pair's enthusiasm concern the same assignment but express different wants. Makoto sees announcements as a route to claiming disclosure of budget cuts and preserving prestige; those intentions do not establish an informed budget process. Successful attention later encourages another self-promotional ambition. The pair can enjoy useful work without thereby validating its sponsor's governance. At the ending, declining material thanks and permanent replacement preserves their own reason for volunteering and the absent student's possible return. No recorded benefit purchases an unlimited right to their future labor. [MINI]"
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "92c726a44358888644c5754d1dba4a5ab1aa95310e4afbe479faf9f01e46ad88",
+        "line_text": "The institution's requests therefore supply context, not the relation's sole meaning. The two students make a chosen activity within arrangements they did not design. They can endorse, refuse or modify a particular role. Their agreement with each other matters when those arrangements try to turn public visibility into prestige or replacement. This argument does not complete the separate club, labor-governance or broadcasting institution homes; it identifies the pair's acts and reciprocal conditions within them."
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "15648dd83f0f00c71cd214e167f44cb8c312d21edc5142a34f2d7ed7dca2d2a5",
+        "line_text": "## 5. Ordinary life — enjoyment and accommodation are ends, including when plans fail"
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "888d0ce8c28d0c98f7fef8df7319054412c20aac9cb0b4028c85838c52956e78",
+        "line_text": "The relation has enough ordinary density to warrant independent retrieval. Club curiosity and bubble tea plans, actual play, the broadcast's enjoyment, a song negotiated for this occasion, amusing statues, wanted social-media attention, visiting scenery and clay craft all broaden what the pair does together. Not every item succeeds. A pursued truck can escape, a proposed purchase can remain unshown and a wanted bag or souvenir can remain unfinished. Failure does not make the preference analytically disposable. It changes the particular meaning of company: an experience can be enjoyed without being completed exactly as planned. [MINI] [MINI020] [E833] [E835]"
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "2632b85a0d018a14ee125fcd159e962504cd14d3d34b3258d0e0d377c86b73ba",
+        "line_text": "Neither person has a universally shared taste. Kirara's crepe outing preserves ingredient pleasure, fatigue, apology and continuing company; the proposed matching shirts are not a completed purchase. Erika's leopard preference is explicit even while she says her likes are difficult to name. Her late dinner has a fulfilled quiet endpoint, but tomato sharing is hesitant and deferred, with Korean liking tomato not printed in Japanese. These examples occur with Sensei, not as demonstrated Kirara–Erika scenes. Their function here is to prevent a pair label from implying uniform appetite, taste or willingness. Shared exploration brings distinct people into an activity; it does not make their every preference identical. [K04] [ER01] [ER02]"
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "0ca6af1db3c036e8a6c73905c84fd0564f7b8e15b936e8663b0d84f483320382",
+        "line_text": "The trip gives a direct instance of ordinary reciprocity beyond the pair. A scenery photograph is actually taken; contact is offered and Erika checks Kirara's closeness without the scene declaring it excessive. A later object treats the exchange as done. Umika's happiness and friendship response belong to her, and Kaede and Fina bring their own company. This is more than two sociable visitors projecting pleasure onto an inert host. It is still not perpetual consent, permanent access or proof that Umika has no anxiety. Later worries are genuine contrary evidence, not facts to be removed because the early response was happy. [E835]"
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "7a658ecfa33e0e86757dfe55a2a3cc7fec4eb6abbfb3eb19c276d9c01f9accfb",
+        "line_text": "Kirara's desired clay bag matters even without a completed fired object. Craft can be a reason to join and stay; it need not become a test of institutional productivity. The moving craft incident, hidden or uncertain actors and a water-related claim retain their own source limits. The pair divides responses within that situation without proving every intervention technically understood or every cost repaired. Their sincere later appreciation of seeing, making and eating gives the host an actual positive answer. It does not oblige Umika to judge her preparations sufficient by the visitors' measure. [E835]"
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "c981e0f5808a8cbe23323776970d8150fd19cfaa193dc756a219d2432abf0903",
+        "line_text": "Accommodation also requires particular assent. During broadcasting, Kirara encourages Erika to sing when the requested song cannot be played. The respondent distinguishes karaoke from a school program and notes that the listener did not ask for her own voice. Limited assent follows. That negotiation is valuable because it interrupts the assumption that familiarity licenses performance on demand. Explicit Erika announcement and song cues support the written represented role; mixed labels constrain the detailed preceding assignment, and no acoustic performance was received here. Enjoyment and reluctance can coexist in the same completed activity. [MINI]"
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "b7c14f2b71d0b931c91004299e448ea67d18d4169c53496b755d57253c78251f",
+        "line_text": "The ensuing refusal to stay permanently is an ordinary ethical end as well as a labor boundary. They do not reject the day's pleasure or deny that it helped. They refuse to make successful substitution the reason another student loses a place. Contact permission from Iroha follows, but actual transmission, after-work company and the original host's return remain open. The relation's positive achievement is the decision as represented, with its reason preserved; its limit is that the desired future for every recipient is not yet shown. [MINI]"
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "1428f656339d8033597e75030b74a8d8514dffc006e921ac372c262445ed8c1b",
+        "line_text": "## 6. Crisis behavior — shared reasons to help and a distributed effect"
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "de21449b7588b36af1bebe39e5e3ac9ba2c31568071cab98d8eea2b315530223",
+        "line_text": "MAIN E015 gives both students an independent reason to join the resistance: they dislike an attack on schools where they have friends. Iroha names them friends and remembers their broadcast experience, but the invitation is not an order that explains away their choice. Kirara knows of Iroha's Pandemonium departure without a printed information route. Erika thinks she can bypass a remotely controlled power path and reach the transmitter directly; Kirara endorses her skill. Their directions are distinguishable: a proposal with remembered equipment knowledge, an endorsement and readiness to assist. Technical competence is situated in testimony and planning, not measured by a credential or a completed circuit demonstration. [M015]"
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "894abd5d7e34f90f82710c2b901fd2015c6195b440834857e0694476a19621fd",
+        "line_text": "Urgency qualifies their participation. A chemical-shell warning accelerates the plan; Erika is startled and Kirara accepts despite fear. The episode does not demonstrate the delay that other helpers might obtain, identify every outside contact or certify weapon manufacture. The pair's choice matters even under incomplete information. Calling them either fearless or simply coerced would remove the represented difference between apprehension and assent. Their friends at other schools are a stated reason, while every particular intended beneficiary and causal effect remains unprinted. [M015]"
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "161f62e2d51ee6bc55d5884aa5574958580758b4fe5c2e248b2f298bc2947460",
+        "line_text": "E018 subsequently represents a counterbroadcast, acute distress, group arrival and local recovery. Satsuki calls it a group achievement. A Kirara-tagged technical turn has a Satsuki-like register, so detailed engineering authorship cannot be fixed on that label alone. The scene provides no measured frequency, isolated bypass test or full exposure census. Iroha's appeal, Makoto's resistance, the continuing interference and multiple speakers' recovery remain part of the distributed narrative. The pair contributes to an effective collective action without becoming the exclusive antidote or certifying campuswide clinical restoration. [M018]"
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "4d5b6d4598cc0b7bbf0307d52100f9a20a64b455c62b0b436f3a172b5019fa60",
+        "line_text": "The trip's emergency preserves a less idealized kind of cooperation. Curfew is breached; the adult remains behind while visitors move on. Erika's advance-information comment is not the accident's sole cause: Umika makes an intervention within her own worries and standards. Kirara's assent that the fire was all planned is specifically false, while the fire itself is acknowledged and practical help follows. Do not transfer that assent automatically to Erika, and do not let real help erase it. The ceremony's resumption and shared satisfaction are actual local good endings; no complete injury audit, damages settlement or safety certificate is printed. [E835]"
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "89e2188169a6c5d2d8034af151b91b10e1af57e67ed49933f17ec19b99d53669",
+        "line_text": "These crises do not reveal an essence concealed by leisure. They expose a problem already present in public sharing: attention can enable coordination and pleasure, and it can simplify danger or obscure another person's burden. The relation has resources for helping—shared willingness, familiarity and complementary contributions—but it also has situated mistakes. Its ordinary repertoire makes those stakes intelligible; the crisis does not supply the only reason ordinary life deserved analysis."
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "6be2686e3cc6cec766a2ad8bd1f9e11c77020937dd62b95c3fd8f141fd402703",
+        "line_text": "## 7. Sensei mediation — two distinct relations and no adult monopoly on their friendship"
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "a90493aa14863d0bbb8e854e1a97112917e227c3ffcc08e0aa52c5056bc38d6c",
+        "line_text": "Sensei is consequential in each private repertoire. Kirara asks for study help, completes sessions and later reports passing; her notebook retains effort and remembered time. Erika chooses consultation, refuses money, offers local bandage care and leads Sensei to a private view. These are independent relations, with their own acts and recipients. They do not prove the adult created the pair, organized every shared activity or supplied the hidden motive for their friendship. The club and broadcast negotiations have peer content that remains legible without reducing it to adult approval. [K02] [K05] [ER01] [ER03] [ER04] [ER05]"
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "cb19b42ea5f009e42667455e461a6ed34d292bbf8250a2c6c5795d7f7eebf0a1",
+        "line_text": "Each private relation also shows limits on mediation. Kirara's hand permission is local; proximity and an unnamed lick do not establish a kiss or general consent. Erika objects to “use me” wording despite understanding the intention, and the adult apologizes within the local consultation. A withheld shop location remains withheld after care. The roof's invitation and shared walk do not grant ownership or unlimited access. These differences make it unsafe to treat encouragement, gratitude or soothing speech as a universal method transferable to the pair. [K02] [K04] [ER03] [ER04] [ER05]"
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "626d5c76b7b57a37b6fe6134fd1476f5fe353e7c18abf11b55203bfc95853175",
+        "line_text": "The correspondence between Erika's solitude concern and the broadcast letter is interpretive, not proof of adult-authored advice or completed peer disclosure. A person can acquire language for a need and still hesitate to share it with friends. The anonymous listener can receive a recommendation without acting on it. Sensei's conjecture about friends' intentions cannot substitute for Kirara's actual response in a scene that has not been shown. Keeping those missing responses visible protects both Erika's need and Kirara's agency. [ER04] [MINI]"
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "5fb8aee807506443e39037670b0aa384f8428f6df0d07fc04ddfe9ec154a1bdf",
+        "line_text": "In the MAIN invitation Sensei is absent and still confined according to the direct custody record. Their choice to help is therefore not represented as waiting for a present adult's instruction. Later adult participation belongs within the collective operation, not as ownership of their technical contribution. On the trip Sensei's presence and remaining behind also do not determine every host or visitor act. This is a relationship whose peer choices can be mediated by an adult at particular points while retaining independent reasons and unfinished responsibilities. [M015] [M018] [E835]"
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "00ba675c4cb362a10f058fcb57b3bcc96fc70bd747530f672b9776d6b103e036",
+        "line_text": "## 8. Other people and directed reciprocity — the audience and host can answer differently"
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "964fd7386430dd0693e268d87a13e1a1a8655810dad0593245ff5e271d8fb9a0",
+        "line_text": "The central directions remain reciprocal but unevenly specified. Kirara invites exploration and encourages a public song; Erika supplies a contrary comparison and a performance boundary. Erika proposes the transmitter bypass; Kirara endorses the capacity and joins despite fear. Both agree to a named local club and both refuse permanent replacement. No origin of the friendship, complete division of labor or private rupture is supplied. The lack of a shown rupture does not erase friction: disagreement over form and limits is meaningful without a dramatic break."
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "c696723f44e885ab99ca9d8e4f921ead803ba4f746cfcf75fbda71553e001dcb",
+        "line_text": "Iroha offers a role she dislikes, and the pair experiences it as pleasure. Later they decline the offered permanent position and material reward, then ask for contact. That sequence lets giver and recipients want different things without making one want false. Iroha's permission to share contact is actual, yet subsequent transmission and interaction remain unknown. Makoto's prestige and budget-disclosure motives are a further direction toward them, not their own stated rationale. The pair's work can meet an institutional desire while retaining a voluntary end and a refusal of continuing service. [MINI]"
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "6ff175654fc8583d4dc967e3e1ab6b0e02187aea6d19d50e00bbcfce64f64867",
+        "line_text": "Anonymous listeners have differentiated interests. Some welcome a program other than Pandemonium hymns; some are frightened by the chain letter; one wants solitude; another describes misfortune. None becomes a single satisfied public. The truthful-negotiation recommendation respects the solitude question at the level of advice, while the streaming recommendation permits a serious rival reading about commodification. Successful broadcast narration cannot certify each listener's benefit, acceptance or future conduct. The listener who requests a song has asked for that song, not necessarily Erika's voice; her distinction preserves an audience request and a performer's agency at once. [MINI]"
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "6b41a2d3cf09cf62b03312f5ea36fdcbf0713e078132748f64d7c42ee8472d0f",
+        "line_text": "The absent host is especially important because no present response is supplied. The pair declines to displace that person partly on a conditional future: the student might return. This is not proof of the host's wish, nor a completed restoration. It is a decision to avoid foreclosing a possible claim. The ethical force lies in that restraint, with message delivery and return still open. A relationship analysis that ends at applause would miss the person's place precisely because the person is absent. [MINI]"
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "65cec5eee3205cf549b34b5c933106e59a0b11164875c73148ab4b7b8c9b50af",
+        "line_text": "Umika supplies an actual happy answer, a later anxious perspective and her own standard of a successful visit. The pair's gratitude is sincere; it does not settle her standards. Her intervention after Erika's comment retains her agency, and Kirara's false planned-fire explanation remains particular. Fina and Kaede have independent participation; Fuuka, Juri, Sena and anonymous patients retain work or objections in the trial visits. Those people are not props whose consent follows from the visitors' enjoyment. Source-local anonymous roles remain local, and a repeated label or similar problem does not identify them across stories. [E835] [MINI020]"
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "5429c8adb6bd136eb7f4cf65da231fa1fab72ca02e089ff368cfcdcfe119ea81",
+        "line_text": "Reciprocity here is therefore not a ledger of equal favors. It is the extent to which invitations, responses, objections and separate ends are represented. Their care can be received differently by another person; their pleasure can remain valid while another outcome fails. That form of reciprocity supports a substantial directed package without making the pair exemplary guardians of every recipient or completing the wider ensemble and institution arguments."
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "e7ac876343e088fd3a04b4e4728c1329f424367a146aa531f9cf9d3f74b39f3a",
+        "line_text": "## 9. Language, voice and motifs — sparkling attention with literal channel limits"
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "22650def27e32e578b121e64643d0bc383d1ede574fd5f2cbddaf4ae549e755e",
+        "line_text": "The literary range of “sparkle” belongs to attraction, novelty and a chosen name, alongside public speech and attention to an audience. It does not establish a formal organization or a personality law. Variation between club display fields and profile “None” remains documentary evidence. The contrast between karaoke and a broadcast makes audience and occasion explicit; the same ability or pleasure is not automatically appropriate in every setting. The absent host's possible hurt adds a language of place to the desire for variety. These motifs converge in the directed question without being presumed verified callbacks. [K06] [ER06] [MINI]"
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "749f362c4f0a36f88f7356cc4bd17371419defb777134d8e3d2d422598d5b85b",
+        "line_text": "Actual modes constrain attribution. MINI02020 retains typed/native seams involving Kirara and Erika, among others, and the agreed club declaration includes an actor discrepancy followed by Erika's acknowledgment. The broadcast's mixed labels around u137–147 constrain precise song-negotiation assignment; explicit Erika announcement and song cues at u148–150 support the local written role. MAIN E018's technical turn similarly cannot settle engineering authorship merely because it carries Kirara's tag. No raw actor repair or new native inspection was performed for this package. [MINI020] [MINI] [M018]"
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "05a6b8393e0a3526c019da07443e3c6bb6a8f134c1fae070dd5865d7488e18e3",
+        "line_text": "Private material is no easier to flatten. Kirara's first farewell has a typed/native seam; the notebook retains nineteen specific seams, and the pedicure episode has generic person-empty narration that later written Talk does not repair. Erika's bandage scene includes named character narration; her consultation has joined internal clauses, and the roof has generic timed logs with empty person fields despite an Erika log attribute. The narrated shared viewing and walk are different positive endpoints from those logs' written private context. Formal possibilities and inward records do not all become communicated replies. [K01] [K03] [K05] [ER03] [ER04] [ER05]"
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "bd800ce1160cc2b5401615c8ebd2dc2d763c7fc7b76ab5757203f666c05121f8",
+        "line_text": "Whole message tails preserve afterthought, refusal and future reciprocity beyond interior schedule witnesses. Kirara's notebook chat does not yield a common erasure order: Japanese retracts the formulation with never-mind wording, Korean explicitly says not to truly forget. Erika's roof preserves Japanese departure after the sun passes the horizon and Korean growing dusk; later unsettled or uncertain peace formulations differ. JP/KR differences in food, hand requests and care claims similarly remain source-specific. They cannot be fused into stronger evidence of consent, cure or an exact shared emotional mechanism. [K05] [ER05] [K02] [ER03]"
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "bfff5a6c94263688d7ed794d006064aa2023f27090c8037fe902dcac3d7211b5",
+        "line_text": "The song is represented in written cues, not heard here. Voice IDs, controller duration, condition fields, birthday lines, alternative answer groups and repeated event editions give their actual source meanings but no acoustic grade or new performed encounter. Kirara's 23+23+8 event-written rows and Erika's three eleven-row editions retain identities without multiplying trips. Their conditional future enjoyment and help offers remain useful characterization. Linguistic care means preserving those limits, not dismissing quiet or mediated evidence because it is not an inspected performance. [K07] [ER07]"
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "035b39fa46f9b766544a4e139be554fc345ca6f6c92f934db38e26cf088939bf",
+        "line_text": "## 10. Competing readings — alternatives that change the conclusion"
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "1ccc09144350549f38049c47166e21d085b514aacee2f314c150eab58c29e132",
+        "line_text": "**A frictionless sociable pair.** Profiles, enjoyable trials, successful broadcasting and travel pleasure make this reading plausible. It rightly preserves friendship as a positive end. It fails if disagreement over club form, specific song reluctance, the right to solitude, frightened listeners and the false planned-fire assent disappear. The preferred reading keeps real shared pleasure but denies universal harmony or uniform recipient benefit."
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "deb44cd5a9ef2bb5bf14a9833480d96dee4e8aae85ae584763162c1b2ed0f44f",
+        "line_text": "**Kirara initiates and Erika merely moderates.** Several scenes invite this division: club enthusiasm, encouragement to sing and a contrary homegoing comparison. Yet Erika chooses the quiet roof, expresses her own taste, initiates consultation and proposes the bypass. Kirara studies, safeguards memory and accepts help with locally negotiated limits. The division describes some directions, not permanent roles or a one-way dependence. Their technical and ordinary contributions change with the situation."
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "e97c8589952ceb6a4c12951a734e7dfce16e7b1d1511c5a311ba7fe4d0e7d3ce",
+        "line_text": "**Public help is sincere selfless service.** The pair volunteers and declines material reward; its refusal to displace the host is strong support. The reading becomes too broad if enjoying the activity is removed, if Makoto's prestige gains validate governance, or if every listener's problem is solved. Their own pleasure and public benefit need not compete, but neither guarantees the other. The streaming advice and chain-letter error retain ethically adverse possibilities."
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "b771dd428953071d471c4cedc0f17492dceb3a85461f5783011cc665ad56bd1a",
+        "line_text": "**Performance and exploration are covert pressure on Erika.** Kirara's singing encouragement and Erika's private solitude concern warrant examining pressure. The source does not show Kirara knowing that consultation, refusing a request for solitude or overriding a clear final refusal to sing. Particular assent follows the public distinction. Thus coercion is a serious question at a specific invitation, not an established diagnosis of the whole friendship. The desired missing evidence is actual peer disclosure and response, not a presumption that private need has already been violated."
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "617719da9635d203bab5ba73000d1338c915eaa768fc239f3d56c8fa3091f321",
+        "line_text": "**The trip's gratitude conceals irresponsible visitors.** Breached curfew, danger simplified as a planned attraction and uninspected costs support this account. It correctly rejects a gratitude-based acquittal. But the actual photograph, accepted friendship, sincere visitor pleasure, collective aid and safely ended trip are not erased by those failures. The relation participates in both help and misdescription. Umika's agency and unsettled standards prevent either an exclusively exploitative or exclusively reassuring account."
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "bb26bceb054f2600ada142568335135dd6ca32502722ad3346be9c113eaba2cd",
+        "line_text": "**Broadcast competence completes a political maturation arc.** MAIN's explicit invocation of past experience and later counterbroadcast provide a genuine transfer. They warrant a located public use of the repertoire. They do not date all private events, measure stable technical capacity, explain every recovery or complete institutional repair. Nor do they make sweets, solitary time or failed plans preliminary material whose value arrives only when useful to resistance. The preferred synthesis is a repertoire of situated directions, with local development and open chronology, rather than a completed model of maturity."
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "25c1a452b8fda9303d8461d7bb34ae811fceaa5ddb0704a680a1560caea4509a",
+        "line_text": "## 11. Evidence route and the fourteen original open questions"
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "841cf4d2a0b0a0be4b97f9e6137892b3ead63bb06e0247471bb3e82cf6eb0773",
+        "line_text": "The receiving basis is substantial and finite: both ROOT-accepted character arguments, all eight effective private arguments and the complete comparison for each person, current G20 connected argument, lines420–602, complete MAIN C2 E015/E018, complete relevant MINI32 club/broadcast meanings, the complete MINI02020 argument and personally complete prior E833/E835 accounts. Exact byte/hash/content-blob tuples, actual output identifiers and paragraph-to-argument joins are in the separate receiving and claim registers. Copying a receipt is not reading its referenced sources. The two producer JSON receipts were queried at selected fields; they were not personally received whole. ScopeV3 was queried for the exact existing home, not claimed as a new whole semantic review."
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "cd5423650cd2575bfccc4251519e214d57ed71f26d1c397045b5db49d3bb061e",
+        "line_text": "The original fourteen series questions remain **OPEN**. Local contributions are stated alongside the warrant still missing; none is relabeled as a different question, closed through analogy or hidden by a more convenient local limit."
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "8c36e8885e5587625704923843a5816d7a996e49cb8282382b4ea3068bc7b50f",
+        "line_text": "| Original ID and stable name | Status | Contribution and remaining claim-specific warrant |"
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+        "line_text": "|---|---|---|"
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "a80c4459882124f644797ad65e6a2fb13be5c8bba0282da0ff65d92efb53fc93",
+        "line_text": "| G01 Ordinary and private breadth | OPEN | Complete chosen activities, private effort, tastes, solitude and refusal contextualize this pair. They do not complete every other required ordinary/private repertoire or justify a universal personality law. |"
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "e8ddee849f7738d50098e746331b82912b5ef7a3585ab3df336bbb6e84c8c48d",
+        "line_text": "| G02 Yuuka council/club decision transfer | OPEN | Naming a chosen local club and refusing replacement offer a comparison of role and preference. They supply no Yuuka council decision, actual transfer or recipient outcome in her separate evidence. |"
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "8ed1409fc793117823d806b7ceeac9169217e7824c217b6fcfd33ee4ab9509ce",
+        "line_text": "| G03 Serika service, peer and reciprocity range | OPEN | Voluntary work, enjoyment and material-reward refusal deepen the service comparison. They do not establish Serika's motivations, constraints or repayment and cannot close her specific service question. |"
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "91b8f5e2b401c7161ce83c6bd22626d4e1adee2d7a7a2b19b069b6524ef991dd",
+        "line_text": "| G04 Hina crisis causality, accountability and ordinary contrast | OPEN | Main's collective counterbroadcast is located and limited; Hina's recovery does not isolate the pair's engineering or complete Hina's accountability, restitution and ordinary contrast. |"
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "34981ff19e82948eb81075f458d6240327f2fd74392b2988fbe0ef56f28a3d73",
+        "line_text": "| G05 Arius and PS68 ordinary/aftermath transfer | OPEN | Friendship as a reason to resist and the host/place question remain available comparisons. No Arius/PS68 person's aftermath, reconciliation or ordinary continuity is established by this pair. |"
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "a78716bde93ff8c130269979619305e81bdbf4f713b7c985da8bc9771c49c141",
+        "line_text": "| G06 Cross-school ordinary repertoire | OPEN | Actual visitor pleasure, accepted friendship and distinct host standards broaden the repertoire. Further required peers and their choices remain separate, and lasting contact or universal cross-school acceptance is unshown. |"
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "7dc8ae29ff0270138cf2bfabcfc8fde214ffe3498aa5a4d128964a826a2e4a00",
+        "line_text": "| G07 Story-world chronology | OPEN | Club and broadcast sequences, trip order and MAIN's explicit past-experience invocation are retained. No whole private/public calendar, release-order timeline or proven post-crisis reform/regression follows. |"
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "b68cb4a356c2d71f9fbdb57622004c8c9d8fc674b6d85162455706ccc50b1050",
+        "line_text": "| G08 Event naming and repeat contexts | OPEN | Event835/10835/900835 written editions remain separately identified and do not multiply trips. Broader naming/repeat-context authority and unproved edition continuity stay open. |"
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "f2c038713babb3413312fb01dc7983c71955b7fd01fc04cd7296e8327427d807",
+        "line_text": "| G09 Written speaker/choice attribution | OPEN | Literal private actor seams, generic and inward modes, mixed broadcast labels and Main's technical drift constrain claims. No general repair or proof of all printed alternatives' delivery is supplied. |"
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 168,
+        "line_sha256": "5409b83c47b6b3f7beb74158e7e4920bb7a318dbbf4662179e529e23a5e52911",
+        "line_text": "| G10 Performed voice | OPEN | Explicit written song cues are received as text. No acoustic quality, heard delivery, duration or performance inspection is claimed. |"
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 169,
+        "line_sha256": "b979ad02ee6c7e9a08105cc69f79570261449d0b9eeff01536061c536f69700f",
+        "line_text": "| G11 Hoshino's Yume record and office states | OPEN | Neither this friendship nor the missing host's place supplies Hoshino/Yume's record, memory fidelity or office-state transitions. That original question remains independently required. |"
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 170,
+        "line_sha256": "bf6fb0219351a326af3b640bf49ebea151f451b2193b550720b0764a5b498d8b",
+        "line_text": "| G12 Counterpart, system and variant identity | OPEN | Kirara10093 and Erika20058/CH0076 remain distinct positive identities; written costume joins and anonymous roles are bounded. No counterpart, system-person or repeated anonymous-label overjoin follows. |"
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 171,
+        "line_sha256": "7b1a2ea724aaf8cc3a52655bbcaae7234abbb5135898a8bdb028fa516b08b41b",
+        "line_text": "| G13 Office, contract, safety and technical outcomes | OPEN | Local club naming, voluntary role refusal, proposed bypass, represented collective recovery and resumed ceremony remain distinct. Formal registration, total signal mechanism, informed budget procedure, clinical recovery and complete costs/repair are unproved. |"
+      },
+      {
+        "frozen_line": 162,
+        "canonical_line": 172,
+        "line_sha256": "99be638c9432a22690e9e418694fe10900eb81e8ee7e3b0b63ec8f76fdd6a3af",
+        "line_text": "| G14 Unclassified/mode continuity | OPEN | Conditional UI, whole messages, written cues, narration and public scenes retain modes and actual scopes. Similar content or edition labels do not automatically complete unclassified routes or bridge every medium into one enacted history. |"
+      },
+      {
+        "frozen_line": 163,
+        "canonical_line": 173,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 165,
+        "canonical_line": 175,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          5,
+          5
+        ],
+        "canonical_lines": [
+          5,
+          5
+        ],
+        "frozen_text": [
+          "status: C_ONLY_COMPLETE_CANDIDATE_PENDING_ROOT_RECEIVING"
+        ],
+        "canonical_text": [
+          "historical_author_status: C_ONLY_COMPLETE_CANDIDATE_PENDING_ROOT_RECEIVING"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          13,
+          12
+        ],
+        "canonical_lines": [
+          13,
+          20
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_KIRARA_ERIKA_RELATIONSHIP_SYNTHESIS.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KIRARA_ERIKA_RELATIONSHIP_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: cf2fba61c9e8448acdd2677f06d5258c051a6ba4"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          16,
+          15
+        ],
+        "canonical_lines": [
+          24,
+          25
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current receiving and publication boundary.** ROOT independently accepted this complete bounded directed relationship argument WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KIRARA_ERIKA_RELATIONSHIP_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual author/ROOT source scopes and historical controls. The [saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KIRARA_ERIKA_RELATIONSHIP_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves every frozen original line and exact byte tuple with a complete inverse. Earlier author pending, local-candidate and next-work wording remains creation-time provenance where retained. The predecessor63-package source at `cf2fba61c9e8448acdd2677f06d5258c051a6ba4` has a successful exact audit chain; this successor supplies persistence only after complete ROOT installation. Publication and main integration remain separate. This fixed ten-package64–73 batch has eight character and two directed arguments; it reaches73 packages (70 character,3 directed) only after that installation. Later live ROOT reviews are outside this snapshot. Scope355/29 and18 section-home allocations, the existing1 named-section completion, all14 original OPEN gaps and model0 remain unchanged; no quarter is reached. Reference translations are navigation/provenance transformations and add no primary, performance, independent literary or scope credit."
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          143,
+          143
+        ],
+        "canonical_lines": [
+          153,
+          153
+        ],
+        "frozen_text": [
+          "Earlier private and public producers' UNADMITTED, pending review, old next-episode and old census wording are preserved creation-time states. Current G20's Cycle008 override accepts the complete contextual meaning with limits and governs the assigned supplemental classes. The character ROOT receipts independently accept their complete boundaries with limits; they do not accept this directed package in advance. The historical source capture is 5f0a24b5, and mutable ROOT publication progress is separate. No primary, native, raw, schema, QA, historical independence, audiovisual or model credit is added. The source pin and generation identify provenance; they do not date the characters' lives."
+        ],
+        "canonical_text": [
+          "Earlier private and public producers' UNADMITTED, pending review, old next-episode and old census wording are preserved creation-time states. Current G20's Cycle008 override accepts the complete contextual meaning with limits and governs the assigned supplemental classes. The character ROOT receipts independently accept their complete boundaries with limits and remain distinct from the later independent ROOT receipt accepting this directed argument WITH LIMITS. The historical source capture is 5f0a24b5, and mutable ROOT publication progress is separate. No primary, native, raw, schema, QA, historical independence, audiovisual or model credit is added. The source pin and generation identify provenance; they do not date the characters' lives."
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          164,
+          164
+        ],
+        "canonical_lines": [
+          174,
+          174
+        ],
+        "frozen_text": [
+          "What is established is a relation whose shared pleasure is substantial, whose contributions can be public, and whose limits include both freely chosen restraint and particular failures. The decision to leave another student's place open belongs with the desire to try new places. The evidence also leaves private disclosure, advice uptake, future company, complete technical effect and public repair unfinished. ROOT must independently receive this whole candidate and its exact provenance before any canonical adoption or package completion is recorded."
+        ],
+        "canonical_text": [
+          "What is established is a relation whose shared pleasure is substantial, whose contributions can be public, and whose limits include both freely chosen restraint and particular failures. The decision to leave another student's place open belongs with the desire to try new places. The evidence also leaves private disclosure, advice uptake, future company, complete technical effect and public repair unfinished. ROOT has independently received and accepted this whole bounded directed argument and its exact provenance WITH LIMITS; canonical persistence begins only with complete ROOT installation."
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          166,
+          189
+        ],
+        "canonical_lines": [
+          176,
+          201
+        ],
+        "frozen_text": [
+          "[MINI]: inputs/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+          "[MINI020]: inputs/BA_ARGUMENT_MINI_70002020_KIRARA_ERIKA_DEEP_READING_V1.md",
+          "[K01]: inputs/BA_ARGUMENT_BOND_10093_E002_KIRARA_PRIVATE.md",
+          "[K02]: inputs/BA_ARGUMENT_BOND_10093_E003_KIRARA_PRIVATE.md",
+          "[K03]: inputs/BA_ARGUMENT_BOND_10093_E005_KIRARA_PRIVATE.md",
+          "[K04]: inputs/BA_ARGUMENT_BOND_10093_E006_KIRARA_PRIVATE.md",
+          "[K05]: inputs/BA_ARGUMENT_BOND_10093_E015_KIRARA_PRIVATE.md",
+          "[K06]: inputs/BA_ARGUMENT_CHARACTER_DATA_10093_KIRARA_PRIVATE.md",
+          "[K07]: inputs/BA_ARGUMENT_CHARACTER_DATA_EVENT_COSTUME_1900924201_KIRARA_PRIVATE.md",
+          "[K-CMP]: inputs/BA_KIRARA_PRIVATE012_CURRENT008_MAIN_S2_V002_G09_CONTEXTUAL_COMPARISON_V1.md",
+          "[ER01]: inputs/BLUE_ARCHIVE_ERIKA_BOND_20058_002_WHOLE_MM_DEEP_READING.md",
+          "[ER02]: inputs/BLUE_ARCHIVE_ERIKA_BOND_20058_003_WHOLE_MM_DEEP_READING.md",
+          "[ER03]: inputs/BLUE_ARCHIVE_ERIKA_BOND_20058_005_WHOLE_MM_DEEP_READING.md",
+          "[ER04]: inputs/BLUE_ARCHIVE_ERIKA_BOND_20058_006_WHOLE_MM_DEEP_READING.md",
+          "[ER05]: inputs/BLUE_ARCHIVE_ERIKA_BOND_20058_008_WHOLE_MM_DEEP_READING.md",
+          "[ER06]: inputs/BLUE_ARCHIVE_ERIKA_20058_PROFILE_AND_NORMAL_WRITTEN_DEEP_READING.md",
+          "[ER07]: inputs/BLUE_ARCHIVE_ERIKA_EVENT_COSTUME_1900954301_WRITTEN_DEEP_READING.md",
+          "[ER-CMP]: inputs/BLUE_ARCHIVE_ERIKA_PRIVATE012_CURRENT008_MAIN_S2_V002_G09_CONTEXTUAL_COMPARISON.md",
+          "[E833]: inputs/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+          "[E835]: inputs/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+          "[M015]: inputs/BLUE_ARCHIVE_MAIN_S2_V002_C002_E015_DEEP_READING.md",
+          "[M018]: inputs/BLUE_ARCHIVE_MAIN_S2_V002_C002_E018_DEEP_READING.md",
+          "[SCOPE]: inputs/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+          "[GEHENNA-RESP]: inputs/GEHENNA_PS68_PUBLIC_ROLE_ALLOCATIONS.json"
+        ],
+        "canonical_text": [
+          "[MINI]: ../../02%20Sequential%20Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+          "[MINI020]: ../../02%20Sequential%20Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+          "[K01]: ../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "[K02]: ../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "[K03]: ../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "[K04]: ../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "[K05]: ../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "[K06]: ../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "[K07]: ../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "[K-CMP]: ../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "[ER01]: ../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "[ER02]: ../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "[ER03]: ../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "[ER04]: ../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "[ER05]: ../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "[ER06]: ../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "[ER07]: ../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "[ER-CMP]: ../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "[E833]: ../../02%20Sequential%20Readings/EVENTS/EVENT_833/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+          "[E835]: ../../02%20Sequential%20Readings/EVENTS/EVENT_835/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+          "[M015]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E015_DEEP_READING.md",
+          "[M018]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E018_DEEP_READING.md",
+          "[SCOPE]: ../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+          "[GEHENNA-RESP]: ../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+          "",
+          "**Reference navigation qualification.** C-only analytical-copy links are translated to governed maintained owners or current scope navigation. The complete receiving record preserves each named original argument tuple, its exact source-class and actual reading scope, and the explicit old/new reference map. A link to a maintained comparative owner does not assert that every original individual producer paragraph is printed there, that an allocated role is literary completion, or that a historical author body has become the current derivative."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "reference_navigation_translations": [
+    {
+      "original_body_reference": "inputs/BA_ARGUMENT_BOND_10093_E002_KIRARA_PRIVATE.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "original_input_tuple": {
+        "reference": "K01",
+        "source_class": "ACCEPTED_EFFECTIVE_PRIVATE_ARGUMENT",
+        "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/kirara_private_family_source_scope_20261004_v1/current_source_bounded_arguments_20261004_v1/BA_ARGUMENT_BOND_10093_E002_KIRARA_PRIVATE.md",
+        "copy": "inputs/BA_ARGUMENT_BOND_10093_E002_KIRARA_PRIVATE.md",
+        "bytes": 3938,
+        "sha256": "f70ba832cbed0b8e176ddf0007f9516c30a015dcff96c22630998db16158ab6a",
+        "git_blob_oid_of_actual_bytes": "c9111796f5389e2df4ecf786957856017d869244",
+        "lines": 37,
+        "actual_receiving": "PERSONALLY_COMPLETE_ANALYTICAL_ARGUMENT_OR_ROOT_RECEIPT_THROUGH_EOF",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "107a2e:1–37EOF",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Navigation to the current maintained accepted private contextual owner. The cited original individual argument remains separately exact-bound and attributed in the complete companion receipt; this link does not claim its full literal text is reprinted in that maintained owner.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BA_ARGUMENT_BOND_10093_E003_KIRARA_PRIVATE.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "original_input_tuple": {
+        "reference": "K02",
+        "source_class": "ACCEPTED_EFFECTIVE_PRIVATE_ARGUMENT",
+        "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/kirara_private_family_source_scope_20261004_v1/current_source_bounded_arguments_20261004_v1/BA_ARGUMENT_BOND_10093_E003_KIRARA_PRIVATE.md",
+        "copy": "inputs/BA_ARGUMENT_BOND_10093_E003_KIRARA_PRIVATE.md",
+        "bytes": 3787,
+        "sha256": "15f6e2d4735c8b84927a1e3a6693984d136659994578ff550fc33661b5696e91",
+        "git_blob_oid_of_actual_bytes": "bd7a8940d61b0f6546c54e5bdbd69d038ae959b9",
+        "lines": 37,
+        "actual_receiving": "PERSONALLY_COMPLETE_ANALYTICAL_ARGUMENT_OR_ROOT_RECEIPT_THROUGH_EOF",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "107a2e:1–37EOF",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Navigation to the current maintained accepted private contextual owner. The cited original individual argument remains separately exact-bound and attributed in the complete companion receipt; this link does not claim its full literal text is reprinted in that maintained owner.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BA_ARGUMENT_BOND_10093_E005_KIRARA_PRIVATE.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "original_input_tuple": {
+        "reference": "K03",
+        "source_class": "ACCEPTED_EFFECTIVE_PRIVATE_ARGUMENT",
+        "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/kirara_private_family_source_scope_20261004_v1/current_source_bounded_arguments_20261004_v1/BA_ARGUMENT_BOND_10093_E005_KIRARA_PRIVATE.md",
+        "copy": "inputs/BA_ARGUMENT_BOND_10093_E005_KIRARA_PRIVATE.md",
+        "bytes": 3743,
+        "sha256": "807827821bc910fe98c00f82ccfdf46fcb16ab77fb652f9308e43b8e9e3396b0",
+        "git_blob_oid_of_actual_bytes": "f5b21b0fc1a4facd4cc1e63ca1d3a725e5a2aa02",
+        "lines": 37,
+        "actual_receiving": "PERSONALLY_COMPLETE_ANALYTICAL_ARGUMENT_OR_ROOT_RECEIPT_THROUGH_EOF",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "107a2e:1–37EOF",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Navigation to the current maintained accepted private contextual owner. The cited original individual argument remains separately exact-bound and attributed in the complete companion receipt; this link does not claim its full literal text is reprinted in that maintained owner.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BA_ARGUMENT_BOND_10093_E006_KIRARA_PRIVATE.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "original_input_tuple": {
+        "reference": "K04",
+        "source_class": "ACCEPTED_EFFECTIVE_PRIVATE_ARGUMENT",
+        "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/kirara_private_family_source_scope_20261004_v1/current_source_bounded_arguments_20261004_v1/BA_ARGUMENT_BOND_10093_E006_KIRARA_PRIVATE.md",
+        "copy": "inputs/BA_ARGUMENT_BOND_10093_E006_KIRARA_PRIVATE.md",
+        "bytes": 3715,
+        "sha256": "23820a092bf346e89332bf416000fd691eccfebefa1bdf981bd4766a387574d2",
+        "git_blob_oid_of_actual_bytes": "a81905373ec4179413dae9b302fbefe90ad352e2",
+        "lines": 37,
+        "actual_receiving": "PERSONALLY_COMPLETE_ANALYTICAL_ARGUMENT_OR_ROOT_RECEIPT_THROUGH_EOF",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "107a2e:1–37EOF",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Navigation to the current maintained accepted private contextual owner. The cited original individual argument remains separately exact-bound and attributed in the complete companion receipt; this link does not claim its full literal text is reprinted in that maintained owner.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BA_ARGUMENT_BOND_10093_E015_KIRARA_PRIVATE.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "original_input_tuple": {
+        "reference": "K05",
+        "source_class": "ACCEPTED_EFFECTIVE_PRIVATE_ARGUMENT",
+        "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/kirara_private_family_source_scope_20261004_v1/distinct_only_six_new_notebook_actor_extent_literals_successor_v2/immutable_complete_successors/BA_ARGUMENT_BOND_10093_E015_KIRARA_PRIVATE.md",
+        "copy": "inputs/BA_ARGUMENT_BOND_10093_E015_KIRARA_PRIVATE.md",
+        "bytes": 4308,
+        "sha256": "f77cfa1a1fda2bfdffca1bc8060d6c158f72fa3f8b89e15d3f41cbba29720a63",
+        "git_blob_oid_of_actual_bytes": "223120248bbe4f528c8bc7c0c5cdc3edbeb73dc3",
+        "lines": 37,
+        "actual_receiving": "PERSONALLY_COMPLETE_ANALYTICAL_ARGUMENT_OR_ROOT_RECEIPT_THROUGH_EOF",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "50bd79:1–37EOF",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Navigation to the current maintained accepted private contextual owner. The cited original individual argument remains separately exact-bound and attributed in the complete companion receipt; this link does not claim its full literal text is reprinted in that maintained owner.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BA_ARGUMENT_CHARACTER_DATA_10093_KIRARA_PRIVATE.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "original_input_tuple": {
+        "reference": "K06",
+        "source_class": "ACCEPTED_EFFECTIVE_PRIVATE_ARGUMENT",
+        "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/kirara_private_family_source_scope_20261004_v1/current_source_bounded_arguments_20261004_v1/BA_ARGUMENT_CHARACTER_DATA_10093_KIRARA_PRIVATE.md",
+        "copy": "inputs/BA_ARGUMENT_CHARACTER_DATA_10093_KIRARA_PRIVATE.md",
+        "bytes": 3755,
+        "sha256": "f116033ce8f840390a62af7482b5cdc402ebf716184de9f3cc52d66f09cce3b7",
+        "git_blob_oid_of_actual_bytes": "12b74e40e414fe05ae46e760112ad68cda5d305f",
+        "lines": 37,
+        "actual_receiving": "PERSONALLY_COMPLETE_ANALYTICAL_ARGUMENT_OR_ROOT_RECEIPT_THROUGH_EOF",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "50bd79:1–37EOF",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Navigation to the current maintained accepted private contextual owner. The cited original individual argument remains separately exact-bound and attributed in the complete companion receipt; this link does not claim its full literal text is reprinted in that maintained owner.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BA_ARGUMENT_CHARACTER_DATA_EVENT_COSTUME_1900924201_KIRARA_PRIVATE.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "original_input_tuple": {
+        "reference": "K07",
+        "source_class": "ACCEPTED_EFFECTIVE_PRIVATE_ARGUMENT",
+        "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/kirara_private_family_source_scope_20261004_v1/current_source_bounded_arguments_20261004_v1/BA_ARGUMENT_CHARACTER_DATA_EVENT_COSTUME_1900924201_KIRARA_PRIVATE.md",
+        "copy": "inputs/BA_ARGUMENT_CHARACTER_DATA_EVENT_COSTUME_1900924201_KIRARA_PRIVATE.md",
+        "bytes": 3134,
+        "sha256": "bee834e36a863f2a0ba000c802fdabbe29667dbd6530ffac4314664e74ea8b48",
+        "git_blob_oid_of_actual_bytes": "9d312aee4e529b348c88e17c4ffe8570ea031df0",
+        "lines": 37,
+        "actual_receiving": "PERSONALLY_COMPLETE_ANALYTICAL_ARGUMENT_OR_ROOT_RECEIPT_THROUGH_EOF",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "50bd79:1–37EOF",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Navigation to the current maintained accepted private contextual owner. The cited original individual argument remains separately exact-bound and attributed in the complete companion receipt; this link does not claim its full literal text is reprinted in that maintained owner.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BA_KIRARA_PRIVATE012_CURRENT008_MAIN_S2_V002_G09_CONTEXTUAL_COMPARISON_V1.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "original_input_tuple": {
+        "reference": "K-CMP",
+        "source_class": "ACCEPTED_PRIVATE_COMPARISON",
+        "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/kirara_private_family_source_scope_20261004_v1/distinct_only_six_new_notebook_actor_extent_literals_successor_v2/immutable_complete_successors/BA_KIRARA_PRIVATE012_CURRENT008_MAIN_S2_V002_G09_CONTEXTUAL_COMPARISON_V1.md",
+        "copy": "inputs/BA_KIRARA_PRIVATE012_CURRENT008_MAIN_S2_V002_G09_CONTEXTUAL_COMPARISON_V1.md",
+        "bytes": 11288,
+        "sha256": "25a195a16e403338f88edab0f73991aacffe735b79d497dae85ef869f1f44eb3",
+        "git_blob_oid_of_actual_bytes": "f1c26ba8a50e8fe5df5315813bb72f0d874e2e87",
+        "lines": 77,
+        "actual_receiving": "PERSONALLY_COMPLETE_ANALYTICAL_ARGUMENT_OR_ROOT_RECEIPT_THROUGH_EOF",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "dd284d:1–77EOF",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Navigation to the current maintained accepted private contextual owner. The cited original individual argument remains separately exact-bound and attributed in the complete companion receipt; this link does not claim its full literal text is reprinted in that maintained owner.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+      "original_input_tuple": {
+        "reference": "MINI32",
+        "source_class": "ACCEPTED_PUBLIC_ARGUMENT",
+        "source_path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "copy": "inputs/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 93829,
+        "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+        "git_blob_oid_of_actual_bytes": "512a08b30bfa91dee27087fd743809dc8aa30b98",
+        "lines": 344,
+        "actual_receiving": "QUALIFIED_PRIOR_COMPLETE_PERSONAL_ARGUMENT_REUSE_WITH_FRESH_RELEVANT_MEANING",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "Prior own Gehenna census complete344-line accepted argument; fresh f3fe75 full§3L96–104 and§12L204–212. No fresh whole344, primary or literal roster receiving.",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Exact maintained repository analytical owner; original source tuple remains its historical capture.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BLUE_ARCHIVE_MAIN_S2_V002_C002_E015_DEEP_READING.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E015_DEEP_READING.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E015_DEEP_READING.md",
+      "original_input_tuple": {
+        "reference": "M2C2E015",
+        "source_class": "ACCEPTED_PUBLIC_ARGUMENT",
+        "source_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E015_DEEP_READING.md",
+        "copy": "inputs/BLUE_ARCHIVE_MAIN_S2_V002_C002_E015_DEEP_READING.md",
+        "bytes": 5222,
+        "sha256": "982ab1a9083ef593cdc3e9517e4a32ed4e8a175c0e4b3899aa8956fd78574740",
+        "git_blob_oid_of_actual_bytes": "73cbe1ddacc3d18eaaafa3e7b5b12d6473659317",
+        "lines": 34,
+        "actual_receiving": "PERSONALLY_COMPLETE_ANALYTICAL_ARGUMENT_OR_ROOT_RECEIPT_THROUGH_EOF",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "38d8dc:1–34EOF",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Exact maintained repository analytical owner; original source tuple remains its historical capture.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BLUE_ARCHIVE_MAIN_S2_V002_C002_E018_DEEP_READING.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E018_DEEP_READING.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E018_DEEP_READING.md",
+      "original_input_tuple": {
+        "reference": "M2C2E018",
+        "source_class": "ACCEPTED_PUBLIC_ARGUMENT",
+        "source_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E018_DEEP_READING.md",
+        "copy": "inputs/BLUE_ARCHIVE_MAIN_S2_V002_C002_E018_DEEP_READING.md",
+        "bytes": 9189,
+        "sha256": "b44db980586ea8a5dfc6b562bda71cfbb00aa5fb3ea91b4a2e3ade0617fa6a03",
+        "git_blob_oid_of_actual_bytes": "d7902f1ebd40e3e188674a35484b14650127b1cb",
+        "lines": 42,
+        "actual_receiving": "PERSONALLY_COMPLETE_ANALYTICAL_ARGUMENT_OR_ROOT_RECEIPT_THROUGH_EOF",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "38d8dc:1–42EOF",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Exact maintained repository analytical owner; original source tuple remains its historical capture.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BLUE_ARCHIVE_ERIKA_BOND_20058_002_WHOLE_MM_DEEP_READING.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "original_input_tuple": {
+        "reference": "ER01",
+        "source_class": "ACCEPTED_EFFECTIVE_PRIVATE_ARGUMENT",
+        "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/erika_private_family_source_scope_20261004_v1/current_arguments_20261004_v1/BLUE_ARCHIVE_ERIKA_BOND_20058_002_WHOLE_MM_DEEP_READING.md",
+        "copy": "inputs/BLUE_ARCHIVE_ERIKA_BOND_20058_002_WHOLE_MM_DEEP_READING.md",
+        "bytes": 4092,
+        "sha256": "8c118f1edb8026dda150e7a33ad2d818092875acd46ca55ba782fd4b7f83ce72",
+        "git_blob_oid_of_actual_bytes": "024ad9d67dbd3c1347e998a49fb63419d0f865d8",
+        "lines": 41,
+        "actual_receiving": "PERSONALLY_COMPLETE_ANALYTICAL_ARGUMENT_OR_ROOT_RECEIPT_THROUGH_EOF",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "dd284d:1–41EOF",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Navigation to the current maintained accepted private contextual owner. The cited original individual argument remains separately exact-bound and attributed in the complete companion receipt; this link does not claim its full literal text is reprinted in that maintained owner.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BLUE_ARCHIVE_ERIKA_BOND_20058_003_WHOLE_MM_DEEP_READING.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "original_input_tuple": {
+        "reference": "ER02",
+        "source_class": "ACCEPTED_EFFECTIVE_PRIVATE_ARGUMENT",
+        "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/erika_private_family_source_scope_20261004_v1/current_arguments_20261004_v1/BLUE_ARCHIVE_ERIKA_BOND_20058_003_WHOLE_MM_DEEP_READING.md",
+        "copy": "inputs/BLUE_ARCHIVE_ERIKA_BOND_20058_003_WHOLE_MM_DEEP_READING.md",
+        "bytes": 3721,
+        "sha256": "5e20b926efde92133d2a4e61b43323899ddbd43a2418d91867ab71fb71631ff2",
+        "git_blob_oid_of_actual_bytes": "1240d8398f1c7f1358ad0729417e14fc1c3a52fa",
+        "lines": 41,
+        "actual_receiving": "PERSONALLY_COMPLETE_ANALYTICAL_ARGUMENT_OR_ROOT_RECEIPT_THROUGH_EOF",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "dd284d:1–41EOF",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Navigation to the current maintained accepted private contextual owner. The cited original individual argument remains separately exact-bound and attributed in the complete companion receipt; this link does not claim its full literal text is reprinted in that maintained owner.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BLUE_ARCHIVE_ERIKA_BOND_20058_005_WHOLE_MM_DEEP_READING.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "original_input_tuple": {
+        "reference": "ER03",
+        "source_class": "ACCEPTED_EFFECTIVE_PRIVATE_ARGUMENT",
+        "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/erika_private_family_source_scope_20261004_v1/current_arguments_20261004_v1/distinct_only_author_readback_003_speaker_label_clarity_successor_v2/BLUE_ARCHIVE_ERIKA_BOND_20058_005_WHOLE_MM_DEEP_READING.md",
+        "copy": "inputs/BLUE_ARCHIVE_ERIKA_BOND_20058_005_WHOLE_MM_DEEP_READING.md",
+        "bytes": 3938,
+        "sha256": "845fc1aa4c1b08030b42d1eca5732f0bc623d0cb8187c353fee10d0b153111f9",
+        "git_blob_oid_of_actual_bytes": "d8756e0cd0d40bb6d5ae158228184a9ca8469526",
+        "lines": 45,
+        "actual_receiving": "PERSONALLY_COMPLETE_ANALYTICAL_ARGUMENT_OR_ROOT_RECEIPT_THROUGH_EOF",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "16dba3:1–45EOF",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Navigation to the current maintained accepted private contextual owner. The cited original individual argument remains separately exact-bound and attributed in the complete companion receipt; this link does not claim its full literal text is reprinted in that maintained owner.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BLUE_ARCHIVE_ERIKA_BOND_20058_006_WHOLE_MM_DEEP_READING.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "original_input_tuple": {
+        "reference": "ER04",
+        "source_class": "ACCEPTED_EFFECTIVE_PRIVATE_ARGUMENT",
+        "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/erika_private_family_source_scope_20261004_v1/current_arguments_20261004_v1/BLUE_ARCHIVE_ERIKA_BOND_20058_006_WHOLE_MM_DEEP_READING.md",
+        "copy": "inputs/BLUE_ARCHIVE_ERIKA_BOND_20058_006_WHOLE_MM_DEEP_READING.md",
+        "bytes": 3901,
+        "sha256": "699e403983096e403a92bf8d32836e13ae6cab3f44f9c76ecc7beda68fa3af80",
+        "git_blob_oid_of_actual_bytes": "6113c84bcd59d832b8e26fc8c1545009937edd0e",
+        "lines": 43,
+        "actual_receiving": "PERSONALLY_COMPLETE_ANALYTICAL_ARGUMENT_OR_ROOT_RECEIPT_THROUGH_EOF",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "16dba3:1–43EOF",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Navigation to the current maintained accepted private contextual owner. The cited original individual argument remains separately exact-bound and attributed in the complete companion receipt; this link does not claim its full literal text is reprinted in that maintained owner.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BLUE_ARCHIVE_ERIKA_BOND_20058_008_WHOLE_MM_DEEP_READING.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "original_input_tuple": {
+        "reference": "ER05",
+        "source_class": "ACCEPTED_EFFECTIVE_PRIVATE_ARGUMENT",
+        "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/erika_private_family_source_scope_20261004_v1/current_arguments_20261004_v1/distinct_only_current005_dusk_endpoint_clause_successor_v3/BLUE_ARCHIVE_ERIKA_BOND_20058_008_WHOLE_MM_DEEP_READING.md",
+        "copy": "inputs/BLUE_ARCHIVE_ERIKA_BOND_20058_008_WHOLE_MM_DEEP_READING.md",
+        "bytes": 4039,
+        "sha256": "fab0488f7e72810308937457bc97ff53d9b347ce0feca59bc8d13d0626ae8370",
+        "git_blob_oid_of_actual_bytes": "3c4c0cddddaca4eca7279041d85bb5a88d5a926a",
+        "lines": 45,
+        "actual_receiving": "PERSONALLY_COMPLETE_ANALYTICAL_ARGUMENT_OR_ROOT_RECEIPT_THROUGH_EOF",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "16dba3:1–45EOF",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Navigation to the current maintained accepted private contextual owner. The cited original individual argument remains separately exact-bound and attributed in the complete companion receipt; this link does not claim its full literal text is reprinted in that maintained owner.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BLUE_ARCHIVE_ERIKA_20058_PROFILE_AND_NORMAL_WRITTEN_DEEP_READING.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "original_input_tuple": {
+        "reference": "ER06",
+        "source_class": "ACCEPTED_EFFECTIVE_PRIVATE_ARGUMENT",
+        "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/erika_private_family_source_scope_20261004_v1/current_arguments_20261004_v1/BLUE_ARCHIVE_ERIKA_20058_PROFILE_AND_NORMAL_WRITTEN_DEEP_READING.md",
+        "copy": "inputs/BLUE_ARCHIVE_ERIKA_20058_PROFILE_AND_NORMAL_WRITTEN_DEEP_READING.md",
+        "bytes": 4323,
+        "sha256": "884283b0e5d2289554a7e274ab17f9bca3841f624b1b48fed3be466d5e99bed2",
+        "git_blob_oid_of_actual_bytes": "9a8d18b04952aeff06bc704142e0ba819a8d9122",
+        "lines": 43,
+        "actual_receiving": "PERSONALLY_COMPLETE_ANALYTICAL_ARGUMENT_OR_ROOT_RECEIPT_THROUGH_EOF",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "16dba3:1–43EOF",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Navigation to the current maintained accepted private contextual owner. The cited original individual argument remains separately exact-bound and attributed in the complete companion receipt; this link does not claim its full literal text is reprinted in that maintained owner.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BLUE_ARCHIVE_ERIKA_EVENT_COSTUME_1900954301_WRITTEN_DEEP_READING.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "original_input_tuple": {
+        "reference": "ER07",
+        "source_class": "ACCEPTED_EFFECTIVE_PRIVATE_ARGUMENT",
+        "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/erika_private_family_source_scope_20261004_v1/current_arguments_20261004_v1/BLUE_ARCHIVE_ERIKA_EVENT_COSTUME_1900954301_WRITTEN_DEEP_READING.md",
+        "copy": "inputs/BLUE_ARCHIVE_ERIKA_EVENT_COSTUME_1900954301_WRITTEN_DEEP_READING.md",
+        "bytes": 2643,
+        "sha256": "4770ed174adc4d5184830d640dc38612906b011f2f1b163c6082de208747d3fe",
+        "git_blob_oid_of_actual_bytes": "787fef5ef72a71fb398b7d4a5642f907a4c8830d",
+        "lines": 35,
+        "actual_receiving": "PERSONALLY_COMPLETE_ANALYTICAL_ARGUMENT_OR_ROOT_RECEIPT_THROUGH_EOF",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "86cb58:1–35EOF",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Navigation to the current maintained accepted private contextual owner. The cited original individual argument remains separately exact-bound and attributed in the complete companion receipt; this link does not claim its full literal text is reprinted in that maintained owner.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BLUE_ARCHIVE_ERIKA_PRIVATE012_CURRENT008_MAIN_S2_V002_G09_CONTEXTUAL_COMPARISON.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "original_input_tuple": {
+        "reference": "ER-CMP",
+        "source_class": "ACCEPTED_PRIVATE_COMPARISON",
+        "source_path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/erika_private_family_source_scope_20261004_v1/distinct_new_private012_current008_MAIN_G09_contextual_comparison_20261004_v1/distinct_only_comparator_rooftop_dusk_gloss_successor_v2/BLUE_ARCHIVE_ERIKA_PRIVATE012_CURRENT008_MAIN_S2_V002_G09_CONTEXTUAL_COMPARISON.md",
+        "copy": "inputs/BLUE_ARCHIVE_ERIKA_PRIVATE012_CURRENT008_MAIN_S2_V002_G09_CONTEXTUAL_COMPARISON.md",
+        "bytes": 11163,
+        "sha256": "ea1ece35497368022e7665a692a48acf12b5248a49cb304087bc6afe5994751e",
+        "git_blob_oid_of_actual_bytes": "dbb842ee9386200c996b27a1cbacfa6e175776f9",
+        "lines": 80,
+        "actual_receiving": "PERSONALLY_COMPLETE_ANALYTICAL_ARGUMENT_OR_ROOT_RECEIPT_THROUGH_EOF",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "86cb58:1–80EOF",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Navigation to the current maintained accepted private contextual owner. The cited original individual argument remains separately exact-bound and attributed in the complete companion receipt; this link does not claim its full literal text is reprinted in that maintained owner.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/EVENTS/EVENT_833/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_833/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+      "original_input_tuple": {
+        "reference": "E833",
+        "source_class": "QUALIFIED_PRIOR_PERSONAL_REUSE",
+        "source_path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_DIRECTED_RELATIONSHIPS/MEG_KASUMI/inputs/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+        "copy": "inputs/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 38643,
+        "sha256": "caddd6c0c1ec580c91a7115d65c1619ebfb8f5fae399222d999043be479ed349",
+        "git_blob_oid_of_actual_bytes": "1f22aa11f3d42f4e4c18cd2009781abe3e0e818b",
+        "lines": 184,
+        "actual_receiving": "QUALIFIED_PRIOR_COMPLETE_PERSONAL_ARGUMENT_REUSE",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "Own Meg–Kasumi receiving1c3873:1–100;32723d:101–184EOF. Fresh bc00f3 only positive selected metadata/text scan; no new whole narrative credit. Relevant item006L110 retained.",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Qualified copy of the exact admitted repository owner; historical tuple retained.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/EVENTS/EVENT_835/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_835/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+      "original_input_tuple": {
+        "reference": "E835",
+        "source_class": "QUALIFIED_PRIOR_PERSONAL_REUSE",
+        "source_path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_DIRECTED_RELATIONSHIPS/MEG_KASUMI/inputs/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+        "copy": "inputs/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 28709,
+        "sha256": "23a5cb25f1b504b5e4dee8bf920f939e5e9faa8822f1c35d6d5932f6f720651b",
+        "git_blob_oid_of_actual_bytes": "68db40033aca83ee8ecfa3b1d7e60c329fb0b1a6",
+        "lines": 149,
+        "actual_receiving": "QUALIFIED_PRIOR_COMPLETE_PERSONAL_ARGUMENT_REUSE",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "Own Meg–Kasumi receiving356c5c:1–80;744aca:81–149EOF. Fresh bc00f3 selected scan clipped, not a whole display; consequential middle107–119 recovered0cea3d. Full prior argument credit retained, not primary.",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Qualified copy of the exact admitted repository owner; historical tuple retained.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+      "occurrences": 1,
+      "canonical_reference": "../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+      "canonical_repository_navigation": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+      "original_input_tuple": {
+        "reference": "SCOPE",
+        "source_class": "GOVERNING_CONTROL",
+        "source_path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_DIRECTED_RELATIONSHIPS/MEG_KASUMI/inputs/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "copy": "inputs/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "bytes": 461112,
+        "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+        "git_blob_oid_of_actual_bytes": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1",
+        "lines": 6514,
+        "actual_receiving": "EXACT_HOME_FIELDS_ONLY_NOT_NEW_WHOLE_SCOPE_SEMANTIC_RECEIVING",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "29c66e/9e6b83 exactP3-REL-KIRARA-ERIKA-EXPLORATION-BROADCAST kind/source_responsibility/literary_rationale/adoption/counts fields. Historical V3 supplied byte binding is exact; present progress not claimed immutable.",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Exact accepted355/29 allocation authority, no literary completion from navigation.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/BA_ARGUMENT_MINI_70002020_KIRARA_ERIKA_DEEP_READING_V1.md",
+      "occurrences": 1,
+      "canonical_reference": "../../02%20Sequential%20Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+      "canonical_repository_navigation": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+      "original_input_tuple": {
+        "reference": "MINI020",
+        "source_class": "ACCEPTED_PUBLIC_MINI_ARGUMENT",
+        "source_path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BA_ARGUMENT_MINI_70002020_KIRARA_ERIKA_DEEP_READING_V1.md",
+        "copy": "inputs/BA_ARGUMENT_MINI_70002020_KIRARA_ERIKA_DEEP_READING_V1.md",
+        "bytes": 9369,
+        "sha256": "1bcf1fe0aa3d6b7484d3103f45bb2e75b229c5dddff6b200beb6c11af30f4448",
+        "git_blob_oid_of_actual_bytes": "2f09f6f1ac013f697c62a66ce5ab775bced65b7b",
+        "lines": 65,
+        "actual_receiving": "PERSONALLY_COMPLETE_ANALYTICAL_ARGUMENT_OR_ROOT_RECEIPT_THROUGH_EOF",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "9c6ee8:1–65EOF",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Current complete maintained MINI owner navigation; original separately bound complete small argument and its author/ROOT scope remain in the companion receipt.",
+      "new_receiving_credit": 0
+    },
+    {
+      "original_body_reference": "inputs/GEHENNA_PS68_PUBLIC_ROLE_ALLOCATIONS.json",
+      "occurrences": 1,
+      "canonical_reference": "../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+      "canonical_repository_navigation": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+      "original_input_tuple": {
+        "reference": "GEHENNA-RESP",
+        "source_class": "FROZEN_CENSUS_REQUIRED_RESPONSIBILITY",
+        "source_path": "immutable-local-author-witness/PHASE3_START_20261009/CENSUS_GEHENNA/GEHENNA_PS68_PUBLIC_ROLE_ALLOCATIONS.json",
+        "copy": "inputs/GEHENNA_PS68_PUBLIC_ROLE_ALLOCATIONS.json",
+        "bytes": 736928,
+        "sha256": "c862e31c9d1cf2b3d8fd10d6f3b62f4884000dde3828e58904e7309662e0dea1",
+        "git_blob_oid_of_actual_bytes": "5ae222ae31e4ef399a276fd2aded12cb546174b2",
+        "lines": 16425,
+        "actual_receiving": "COMPLETE_TWELVE_DECLARATIONS_ONLY_NOT_FRESH_WHOLE_ROLE_REGISTER",
+        "new_primary_credit": 0,
+        "actual_receiving_outputs": "f4a620 all twelve significant_relationship_and_institution_responsibilities declarations. Exactitem9 is zero-based index8, not index9. Earliera0d307 failed schema lookup did not read a nonexistent responsibility; its copy was preserved and subsequently qualified.",
+        "copying_does_not_transfer_source_credit": true
+      },
+      "meaning_and_custody_qualification": "Public current allocated home navigation; the frozen role declaration and exact literal source tuple remain in the full companion payload, not asserted as a new source reading.",
+      "new_receiving_credit": 0
+    }
+  ],
+  "original_full_author_and_root_transports": [
+    {
+      "path": "GEHENNA_DIRECTED_RELATIONSHIPS/KIRARA_ERIKA/BLUE_ARCHIVE_KIRARA_ERIKA_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 42437,
+      "sha256": "5b1cfecbbbbc950e38dda7b044bdcae84afc4e067bf35df4ee89335566f57f1d",
+      "git_blob_oid_of_actual_bytes": "a193e5667e34bac9dd63052c506d316a565dd72c",
+      "lines": 189,
+      "immutable_transport_path": "immutable_originals/GEHENNA_DIRECTED_RELATIONSHIPS/KIRARA_ERIKA/BLUE_ARCHIVE_KIRARA_ERIKA_RELATIONSHIP_SYNTHESIS.md"
+    },
+    {
+      "path": "GEHENNA_DIRECTED_RELATIONSHIPS/KIRARA_ERIKA/KIRARA_ERIKA_RELATIONSHIP_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "bytes": 38503,
+      "sha256": "c9e17303e0eea751fe4819ccf2fabc56043743ec5ee2d28d56184ac228615187",
+      "git_blob_oid_of_actual_bytes": "1ce82fc77cdc9069d27c936939d627a5a77b62dd",
+      "lines": 578,
+      "immutable_transport_path": "immutable_originals/GEHENNA_DIRECTED_RELATIONSHIPS/KIRARA_ERIKA/KIRARA_ERIKA_RELATIONSHIP_INPUT_AND_RECEIVING_RECEIPT_V1.json"
+    },
+    {
+      "path": "GEHENNA_DIRECTED_RELATIONSHIPS/KIRARA_ERIKA/KIRARA_ERIKA_RELATIONSHIP_DELIVERY_FREEZE_V1.json",
+      "bytes": 13494,
+      "sha256": "980bd79e1600e5e4e8706adad6423f07fcaf7ce96d4651e8143fde8d598bc2a6",
+      "git_blob_oid_of_actual_bytes": "58f3092ee51aa6acb1f1623f1c004d1b6aa96665",
+      "lines": 295,
+      "immutable_transport_path": "immutable_originals/GEHENNA_DIRECTED_RELATIONSHIPS/KIRARA_ERIKA/KIRARA_ERIKA_RELATIONSHIP_DELIVERY_FREEZE_V1.json"
+    },
+    {
+      "path": "ROOT_KIRARA_ERIKA_RELATIONSHIP_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 6311,
+      "sha256": "60068c1f6052adcd601de2379122bb2c7aa8adcbb5982525a10615ee413f4889",
+      "git_blob_oid_of_actual_bytes": "30275877d1ddf2775b94b4ddb50c7d7a23cdf453",
+      "lines": 90,
+      "immutable_transport_path": "immutable_originals/ROOT_KIRARA_ERIKA_RELATIONSHIP_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "GEHENNA_DIRECTED_RELATIONSHIPS/KIRARA_ERIKA/KIRARA_ERIKA_RELATIONSHIP_CLAIM_AND_END_REGISTER_V1.json",
+      "bytes": 392156,
+      "sha256": "44087f72ee4eb9af258f086f951d23bf04366901555ff501137240aa5f96ecd6",
+      "git_blob_oid_of_actual_bytes": "617efca013d2032dbc6d3ab3155b1c8c66318e2e",
+      "lines": 4520,
+      "immutable_transport_path": "immutable_originals/GEHENNA_DIRECTED_RELATIONSHIPS/KIRARA_ERIKA/KIRARA_ERIKA_RELATIONSHIP_CLAIM_AND_END_REGISTER_V1.json"
+    },
+    {
+      "path": "GEHENNA_DIRECTED_RELATIONSHIPS/KIRARA_ERIKA/KIRARA_ERIKA_RELATIONSHIP_SAVED_OUTPUT_READBACK_V1.json",
+      "bytes": 60300,
+      "sha256": "9a4c8730193b5a691308aa7cc79805bee7ace8053465971a5cfd61de147ded59",
+      "git_blob_oid_of_actual_bytes": "4f4608535b2bc814606091f9b8709f6020f28698",
+      "lines": 621,
+      "immutable_transport_path": "immutable_originals/GEHENNA_DIRECTED_RELATIONSHIPS/KIRARA_ERIKA/KIRARA_ERIKA_RELATIONSHIP_SAVED_OUTPUT_READBACK_V1.json"
+    },
+    {
+      "path": "GEHENNA_DIRECTED_RELATIONSHIPS/KIRARA_ERIKA/KIRARA_ERIKA_RELATIONSHIP_RECEIVING_RECEIPT_V1.md",
+      "bytes": 4555,
+      "sha256": "ae1899d787c8790c754a078776a864dc3198bdd86757b8c11511489f2e248ad9",
+      "git_blob_oid_of_actual_bytes": "e77c1f33355cbd2efa30186bfa6f9bcb0439102f",
+      "lines": 29,
+      "immutable_transport_path": "immutable_originals/GEHENNA_DIRECTED_RELATIONSHIPS/KIRARA_ERIKA/KIRARA_ERIKA_RELATIONSHIP_RECEIVING_RECEIPT_V1.md"
+    },
+    {
+      "path": "GEHENNA_DIRECTED_RELATIONSHIPS/KIRARA_ERIKA/KIRARA_ERIKA_RELATIONSHIP_FINITE_SELFREVIEW_V1.json",
+      "bytes": 11301,
+      "sha256": "cb979ba896a8191de08ea4e18ea119f519caafe36397a994bb879ab77206e2b3",
+      "git_blob_oid_of_actual_bytes": "e45fd2850fa1eb34f86c45f73b21dc350afc73fe",
+      "lines": 293,
+      "immutable_transport_path": "immutable_originals/GEHENNA_DIRECTED_RELATIONSHIPS/KIRARA_ERIKA/KIRARA_ERIKA_RELATIONSHIP_FINITE_SELFREVIEW_V1.json"
+    },
+    {
+      "path": "GEHENNA_DIRECTED_RELATIONSHIPS/KIRARA_ERIKA/WORKING_INPUT_TUPLES_V1.json",
+      "bytes": 32631,
+      "sha256": "b29b61fd4885bf406c923e074b8f96f6ddad7b1a9e62c87c7e571ffecc930c42",
+      "git_blob_oid_of_actual_bytes": "699dfaaad6429d250d619cb18d98d56d99c4e1de",
+      "lines": 520,
+      "immutable_transport_path": "immutable_originals/GEHENNA_DIRECTED_RELATIONSHIPS/KIRARA_ERIKA/WORKING_INPUT_TUPLES_V1.json"
+    },
+    {
+      "path": "GEHENNA_DIRECTED_RELATIONSHIPS/KIRARA_ERIKA/EXACT_EXISTING_HOME_PROJECTION_V1.json",
+      "bytes": 511,
+      "sha256": "f227779bccc57c25937fd80724e8a56236718d4bbafc365360794ce7045fc993",
+      "git_blob_oid_of_actual_bytes": "8f2ec0c29ab64a237821806b7b284cde967c2ca0",
+      "lines": 14,
+      "immutable_transport_path": "immutable_originals/GEHENNA_DIRECTED_RELATIONSHIPS/KIRARA_ERIKA/EXACT_EXISTING_HOME_PROJECTION_V1.json"
+    }
+  ],
+  "substantive_literary_change": 0,
+  "new_primary_performance_independent_model_or_count_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

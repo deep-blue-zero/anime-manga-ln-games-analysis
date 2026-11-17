@@ -1,0 +1,357 @@
+{
+  "schema": "WILDHUNT_CURRENT252_PUBLIC15_ROOT_SEMANTIC_AUTHORITY_CONDITIONAL_METADATA_COMPOSITION_CONTROL_V1",
+  "composer": "/root/m008_composition_review",
+  "current_semantic_authority": "Actual signed ROOT semantic acceptance91776 of unchanged original247/53/source185/new105/525/15+ONE12/8rivals/16ends/14OPEN, and adequate distinct original full component QA278866. Authority header IDs resolve through the exact bindings below.",
+  "literal_body_header_authority_ID_exact_bindings": [
+    {
+      "literal_body_header_witness_id": "ROOT_WILDHUNT_CURRENT247_SIGNED_SEMANTIC_ADOPTION_20261014_V1",
+      "authority_role": "Actual ROOT semantic acceptance of original247/53/exact8/source185/new105/ONE12 WITH_LIMITS; not current252-byte adoption.",
+      "original_authority_tuple": {
+        "bytes": 91776,
+        "sha256": "a381b2aa04eefa311e77c0c6691808f7b38bd8a950c333891a6355f1cc1325b2",
+        "git_blob_oid_of_actual_bytes": "76eeb397a0ea7891597d54574bae67328ba5a59a"
+      },
+      "current_public_delivery_only_derivative": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/ROOT_WILDHUNT_CURRENT247_COMPLETE53_SOURCE185_LITERAL_JOINS_NEW105_ONE12_SIGNED_SEMANTIC_ADOPTION_20261014_V1.json",
+        "bytes": 90085,
+        "sha256": "c17fb81ed9306fd69c81973aac7b72162d4d4eae1a00d3a576af9bf3705fddc4",
+        "git_blob_oid_of_actual_bytes": "6640b128b5c334c1abae6f78a3fbfc0c5d980fb5"
+      },
+      "exact_approved_value_operations": 9
+    },
+    {
+      "literal_body_header_witness_id": "WILDHUNT_CURRENT247_COMPLETE_COMPONENT_QA_278866_20261014_V1",
+      "authority_role": "Actual adequate distinct full component reviewer Minato received original247/53/new105/source1/exact8; no current252 metadata-review credit.",
+      "original_authority_tuple": {
+        "bytes": 278866,
+        "sha256": "cedfb4959f5bed5a67c83781a84f65ee3519c119d7f12fb90a19be17534efe52",
+        "git_blob_oid_of_actual_bytes": "0ea8a065286eb168eeb96a7b71555c66ca601394"
+      },
+      "current_public_delivery_only_derivative": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/INDEPENDENT_WILDHUNT_CURRENT247_COMPLETE53_ALL105_SOURCE1_EXACT8_FULL_MANUAL_LITERAL_COMPONENT_AND_PRESERVATION_QA_V1.json",
+        "bytes": 277416,
+        "sha256": "18b626bd0a1df96a2168adf08651814186ad4a5577284ad1ddf2ed9225ef2cec",
+        "git_blob_oid_of_actual_bytes": "adc88e847704deddddae6450e34a9f17f855dceb"
+      },
+      "exact_approved_value_operations": 11
+    }
+  ],
+  "complete_current14_public_components_before_this_CONTROL": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_AND_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md",
+      "role": "METADATA_PROMOTED_BODY_CURRENT252_UNCHANGED53_ARGUMENTS",
+      "bytes": 45508,
+      "sha256": "c60796230fc5ace5117be4619cf917c467c79dce2cf55df0d4baf41e7845f233",
+      "git_blob_oid_of_actual_bytes": "41d0ca1f75ec8f1bf08c9f27716273e5e2bc668a"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+      "role": "AUTHOR_COMPONENT_CURRENT_TYPED_METADATA_ONLY",
+      "bytes": 406465,
+      "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+      "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+      "role": "AUTHOR_COMPONENT_CURRENT_TYPED_METADATA_ONLY",
+      "bytes": 541960,
+      "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+      "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+      "role": "AUTHOR_COMPONENT_CURRENT_TYPED_METADATA_ONLY",
+      "bytes": 701989,
+      "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+      "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT1_SOURCE_INPUT_AND_GRADE_RECEIVING_V1.json",
+      "role": "AUTHOR_COMPONENT_CURRENT_TYPED_METADATA_ONLY",
+      "bytes": 40302,
+      "sha256": "57dadd1c73615cd94e6d8bf8994bbf71fc809dc5ff1937c9230e2a1855cb301b",
+      "git_blob_oid_of_actual_bytes": "b9e3b88a98b0aabc2bd707c72270dd22a7ff603f"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "role": "AUTHOR_COMPONENT_CURRENT_TYPED_METADATA_ONLY",
+      "bytes": 195379,
+      "sha256": "c9e07395f8289eae0f2b8c0f82e7985f47c766a0c1c01ed43582e2c48ee13167",
+      "git_blob_oid_of_actual_bytes": "78153a8de4b1ab62f56f41904cd7b7e8e969f30f"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT_LITERAL53_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "role": "AUTHOR_COMPONENT_CURRENT_TYPED_METADATA_ONLY",
+      "bytes": 505507,
+      "sha256": "882e7bff5502e308ce35bcdd6486fe1f6ec4cbb6a6ec32be93bbd373db58e202",
+      "git_blob_oid_of_actual_bytes": "8c077fcea08cbca9cd75c506988114ad3c938fa7"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "role": "AUTHOR_COMPONENT_CURRENT_TYPED_METADATA_ONLY",
+      "bytes": 6546,
+      "sha256": "97de4e77876dee7fad6def7f8c4fff935cafc1e851d659df148eadaaa7cf9493",
+      "git_blob_oid_of_actual_bytes": "9a618a0977a35b941a24dee18795251c5e701622"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/INDEPENDENT_WILDHUNT_CURRENT247_COMPLETE53_ALL105_SOURCE1_EXACT8_FULL_MANUAL_LITERAL_COMPONENT_AND_PRESERVATION_QA_V1.json",
+      "role": "APPROVED_VALUE_ONLY_DERIVATIVE_OF_DATED_current_full_component_QA",
+      "bytes": 277416,
+      "sha256": "18b626bd0a1df96a2168adf08651814186ad4a5577284ad1ddf2ed9225ef2cec",
+      "git_blob_oid_of_actual_bytes": "adc88e847704deddddae6450e34a9f17f855dceb"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/INDEPENDENT_WILDHUNT_CURRENT_EXACT8_FULL105_LITERAL53_ORIGINAL11_RAW3_SOURCE27_AND_FULL_TRANSPORT_RECOVERY_MECHANICAL_QA_V1.json",
+      "role": "APPROVED_VALUE_ONLY_DERIVATIVE_OF_DATED_current_full_component_QA_bounded_mechanics",
+      "bytes": 55284,
+      "sha256": "ac2ea4b45ba57bcac472963cd7fcb773cd3da954d42302a2aaf128dae3f63312",
+      "git_blob_oid_of_actual_bytes": "620db1a12e81179f7da8fbd3df81c66eace529ae"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/INDEPENDENT_WILDHUNT_CURRENT247_COMPLETE53_BODY_FIRST_INSTITUTION15_RECIPIENT12_RIVAL8_END16_GAP14_FULL_SOURCE_LITERARY_QA_V1.json",
+      "role": "APPROVED_VALUE_ONLY_DERIVATIVE_OF_DATED_prior_body_only_QA",
+      "bytes": 619411,
+      "sha256": "1d3e811ba2cecbb47846fc8c5e59a3da943a4fb79af45a130bb602b020f6ded1",
+      "git_blob_oid_of_actual_bytes": "c6ae985bbbec696348a7a5f30251bb2cabe9ad16"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/INDEPENDENT_WILDHUNT_CURRENT247_LITERAL53_SOURCE185_FULL_V1_RAW_INVERSE_AND_FINITE_BINDING_MECHANICAL_RECEIPT_V1.json",
+      "role": "APPROVED_VALUE_ONLY_DERIVATIVE_OF_DATED_prior_body_only_QA_bounded_mechanics",
+      "bytes": 50894,
+      "sha256": "716c82e931a20f814be57327528d8a7ddca280c664143a5d01c4bdd84e3c43da",
+      "git_blob_oid_of_actual_bytes": "d4f2ef677cca7ed3555962d4fdef8cac18422c48"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/ROOT_WILDHUNT_CURRENT247_COMPLETE53_SOURCE185_LITERAL_JOINS_NEW105_ONE12_SIGNED_SEMANTIC_ADOPTION_20261014_V1.json",
+      "role": "EXACT_NINE_DELIVERY_VALUE_AND_ONE_FINAL_LF_FORMAT_DERIVATIVE_OF_ACTUAL_SIGNED_ROOT_SEMANTIC_ADOPTION",
+      "bytes": 90085,
+      "sha256": "c17fb81ed9306fd69c81973aac7b72162d4d4eae1a00d3a576af9bf3705fddc4",
+      "git_blob_oid_of_actual_bytes": "6640b128b5c334c1abae6f78a3fbfc0c5d980fb5"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT_PUBLIC15_ORIGINAL_REVIEW_ROLE_AND_PRIVATE_WITNESS_CUSTODY_V1.json",
+      "role": "CURRENT_OPAQUE_CUSTODY_AND_ORIGINAL_REVIEW_ROLE_BINDINGS",
+      "bytes": 204306,
+      "sha256": "f19e8b34656ca7583991b8533ffe442b78e8242b9f7e6fd520c15a73cb6b30bb",
+      "git_blob_oid_of_actual_bytes": "3a93fdad5cc10ada05e3b6a8793f25e454d8361f"
+    }
+  ],
+  "current_custody": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT_PUBLIC15_ORIGINAL_REVIEW_ROLE_AND_PRIVATE_WITNESS_CUSTODY_V1.json",
+    "bytes": 204306,
+    "sha256": "f19e8b34656ca7583991b8533ffe442b78e8242b9f7e6fd520c15a73cb6b30bb",
+    "git_blob_oid_of_actual_bytes": "3a93fdad5cc10ada05e3b6a8793f25e454d8361f"
+  },
+  "metadata_body_promotion": {
+    "original247_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_AND_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 45111,
+      "sha256": "354717125b4029e3ed56b88f6bf2612b0314cc1c1664fdab9932ff0225409353",
+      "git_blob_oid_of_actual_bytes": "6fd7de738553a59647d61b42c781d6340f5e9fa4"
+    },
+    "current252_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_AND_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 45508,
+      "sha256": "c60796230fc5ace5117be4619cf917c467c79dce2cf55df0d4baf41e7845f233",
+      "git_blob_oid_of_actual_bytes": "41d0ca1f75ec8f1bf08c9f27716273e5e2bc668a"
+    },
+    "status": "active_provisional",
+    "review_state": "ROOT_ACCEPTED_WITH_LIMITS_INDEPENDENT_COMPONENT_REVIEW_COMPLETE",
+    "do_not_use_as_current_authority": false,
+    "exact_changed_existing_header_fields": [
+      "status",
+      "review_state",
+      "do_not_use_as_current_authority"
+    ],
+    "exact_five_added_header_lines": [
+      "supersedes: []\n",
+      "superseded_by: []\n",
+      "canonical_home: \"series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_AND_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md\"\n",
+      "ROOT_semantic_acceptance_witness_id: ROOT_WILDHUNT_CURRENT247_SIGNED_SEMANTIC_ADOPTION_20261014_V1\n",
+      "independent_component_QA_witness_id: WILDHUNT_CURRENT247_COMPLETE_COMPONENT_QA_278866_20261014_V1\n"
+    ],
+    "current53_arguments": 53,
+    "all83_claim_end_gap_line_positions_shift": 5,
+    "all53_UTF8_offsets_add_measured_delta": 397,
+    "source185_physical_refs_shift": 0
+  },
+  "operative_current_body_reconstruction": {
+    "register": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT_LITERAL53_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 505507,
+      "sha256": "882e7bff5502e308ce35bcdd6486fe1f6ec4cbb6a6ec32be93bbd373db58e202",
+      "git_blob_oid_of_actual_bytes": "8c077fcea08cbca9cd75c506988114ad3c938fa7"
+    },
+    "JSON_pointer": "/current252_metadata_only_body_reconstruction_and_original247_history_V1/operative_current_reconstruction",
+    "physical_lines": 252,
+    "exact_full_raw_reconstruction_proved_by_composer": true
+  },
+  "dated_original_body_reconstruction": {
+    "JSON_pointer": "/body_complete_reconstruction",
+    "original_complete247_line_layout_method_and_tuple": "Entire old247 reconstruction object retained literally as original author/QA/ROOT semantic-review history; current252 reconstruction above is operative."
+  },
+  "dated_creation_history_qualification": {
+    "body_generation": "PRIVATE_DRAFT_V1 remains a literal original generation tag; current accepted metadata authority is carried by status/review_state/do_not flags and exact header witness bindings, not a fabricated old creation-stage acceptance.",
+    "body_source_basis": "Original c4/treec415 fixed receiving snapshot remains literal dated source custody, no live-head/runtime certification.",
+    "body_private_creation_tail": "Original final paragraph says new105/transport not yet authored and later review/ROOT gates pending. It is preserved verbatim as original body-creation history; actual original105/component/semantic reception subsequently completed at the exact QA and signed ROOT authorities. It grants no automatic current metadata-byte or install/publication/runtime acceptance.",
+    "all_original_component_pending_fields": "All original author-stage pending/scopes remain literal dated preparation facts. Actual current semantic/component completion is qualified by bound original QA/ROOT; current252 composed-byte QA and ROOT byte acceptance are still separate pending gates.",
+    "original_QA_and_ROOT_current8_tuple_fields": "All original review-basis tuples remain literal and historically exact, including signed ROOT original_current8. Current metadata graph is in the current first14 list and operative252 register, without retrospective relabelling of old reviewers.",
+    "source_input_old_initial_receipt_and_105_report_grades": "Entire original source receipt, 27 question/results, own author whole185 maintained grade, ROOT whole185 maintained grade, prior26whole79selected attributed common105 purposes, narrow61767/59334 roles and actor/report modes retain exact original scope. No native/primary/raw/AV/whole105 normal admission is promoted."
+  },
+  "current_composer_raw_preservation": "Full original8/fourQA/signedROOT raw beforeimages and sparse inverse/forward recovered exactly; all53 complete literal paragraphs and525 new scalar meanings/full original105 objects remain literal. Only approved196 QA+9 ROOT entire delivery values and declared metadata/body locator/pin propagation change.",
+  "source_count_named_model_and_architecture_bounds": {
+    "ROOT_reported_published_before_install": 148,
+    "ROOT_reported_named_before_install": 17,
+    "ROOT_reported_main_published": 133,
+    "ROOT_reported_main_named": 13,
+    "conditional_after_actual_Wildhunt_install_only": 149,
+    "conditional_named_after_actual_install_only": 18,
+    "fixed_required_rows": 355,
+    "fixed_named_rows": 29,
+    "parents": 25,
+    "homes": 384,
+    "navigation_entries": 788,
+    "OPEN_gaps": 14,
+    "models": 0,
+    "next178": "UNREACHED",
+    "merge_approval": "RESERVED"
+  },
+  "current_conditional_gates": {
+    "distinct_current252_exact15_metadata_composition_QA": "PENDING",
+    "ROOT_complete_current15_composed_byte_acceptance": "PENDING",
+    "shared7_documentary_successor_and_distinct_QA": "ROOT_OWNED_SEPARATE",
+    "final_CONTROL_qualification_and_final22_freeze": "PENDING_SEPARATE",
+    "guarded_R_install_index_preflight_and_live_controls": "PENDING_ROOT_ONLY",
+    "normal_commit_push_remote_full_readback": "PENDING_ROOT_ONLY",
+    "new_exact_head_SOURCE_HK_FINAL_runtime": "PENDING_NEW_HEAD_NO_PREDECESSOR_TRANSFER"
+  },
+  "predecessor_runtime_scope": "ROOT-reported BF full predecessor chain closure c4885c and PR158148/17 readback0be257 are predecessor-only facts; no current252-byte/runtime or canonical149/18 credit follows from C composition.",
+  "current_creation_scope": "This CONTROL is an author/composer documentary stage. Its own later distinct deltaQA/ROOT byte acceptance/freeze/install/publication/runtime remain pending; no self-pin is embedded.",
+  "R_Git_provider_shared_metadata_or_external_chat_mutations": 0,
+  "current_V3_public_ROOT_one_final_LF_and_dated9_value_scope_qualification": {
+    "schema": "WILDHUNT_PUBLIC_ROOT_ONE_FINAL_LF_ONLY_FORMAT_AND_ORIGINAL9_VALUE_SCOPE_QUALIFICATION_V3",
+    "original_signed_semantic_authority_immutable": {
+      "bytes": 91776,
+      "sha256": "a381b2aa04eefa311e77c0c6691808f7b38bd8a950c333891a6355f1cc1325b2",
+      "git_blob_oid_of_actual_bytes": "76eeb397a0ea7891597d54574bae67328ba5a59a"
+    },
+    "historical_nine_value_only_public_ROOT_derivative": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/ROOT_WILDHUNT_CURRENT247_COMPLETE53_SOURCE185_LITERAL_JOINS_NEW105_ONE12_SIGNED_SEMANTIC_ADOPTION_20261014_V1.json",
+      "bytes": 90086,
+      "sha256": "1fec602bd0b3890b35a4e64a566ae863f579feb07b3d17e0f30bdba00755175b",
+      "git_blob_oid_of_actual_bytes": "91b7f17d69505c7d45a8c6bd43131bcc408e4dab"
+    },
+    "current_nine_value_plus_one_final_LF_format_public_ROOT_derivative": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/ROOT_WILDHUNT_CURRENT247_COMPLETE53_SOURCE185_LITERAL_JOINS_NEW105_ONE12_SIGNED_SEMANTIC_ADOPTION_20261014_V1.json",
+      "bytes": 90085,
+      "sha256": "c17fb81ed9306fd69c81973aac7b72162d4d4eae1a00d3a576af9bf3705fddc4",
+      "git_blob_oid_of_actual_bytes": "6640b128b5c334c1abae6f78a3fbfc0c5d980fb5"
+    },
+    "approved_primitive_delivery_value_operation_count": 9,
+    "separate_final_LF_format_operation_count": 1,
+    "format_exact_before_after": "The inherited public90086 ended twoLF; delete only its final byte0a to produce90085 with one finalLF. All JSON values, every key/member order and all other bytes remain exactly90086 basis.",
+    "raw_recovery_chain": "Append byte0a to restore original9-value-only90086, then execute its preserved nine-value sparse inverse to restore full original signed91776. The original91776 and V2/90086 remain immutable history.",
+    "dated_prior_role_qualification": "All prior nine-value-only role labels, composer preservation statements, original91776 semantic scope and old derivative90086/proof tuples are dated precursor scope. The current90085 comprises nine delivery values PLUS one finalLF format operation, never only nine raw changes.",
+    "current252_body_all53_all525_source185_allQA196": "Whole byte NOOP from V2. No literary/source or original QA payload/grade/decision is modified.",
+    "writer_and_finding_role": "ROOT discovered and explicitly authorized correction of its own inherited extra finalLF; this is formatting provenance, not a new finding in the original Toki/Wildhunt literary QA.",
+    "current_gates": "Focused independent current format/alias QA, ROOT composed-byte adoption/finalfreeze, actual guarded installation/preflight/publication/newhead runtime remain pending separately; no canonical count/14918 credit."
+  },
+  "ROOT_actual_current15_byte_receiving_and_final_CONTROL_documentary_qualification_V1": {
+    "schema": "ROOT_WILDHUNT_ACTUAL_CURRENT15_BYTE_RECEIVING_FINAL_CONTROL_DOCUMENTARY_QUALIFICATION_V1",
+    "ROOT": "/root",
+    "original_semantic_scope": "Original247/53/source185/new105/525/15institution+ONE12recipient/eight rivals/16ends/14OPEN was actually accepted WITH_LIMITS by original ROOT91776; current252 literary paragraphs and all525 meanings remain unchanged.",
+    "actual_preappend_composed_byte_receiving": {
+      "witness_id": "ROOT_WILDHUNT_CURRENT252_EXACT15_V4_COMPOSED_BYTE_ADOPTION_BEFORE_FINAL_CONTROL_QUALIFICATION_20261014_V1",
+      "bytes": 17321,
+      "sha256": "f829cdc7abffd0404522f3f8383b2f8728070f8f8a2a4d7850ae766a14a730cc",
+      "git_blob_oid_of_actual_bytes": "0bb2885241bbc13d6fde95bb6273504bf0c83526",
+      "decision": "ACCEPT_EXACT_CURRENT15_V4_MANIFEST_COMPOSED_BYTES_WITH_LIMITS_FOR_FINAL_CONTROL_QUALIFICATION_ONLY",
+      "scope": "Exact V4 manifest plus15 public composition bytes BEFORE this appended qualifier; this witness does not certify this newly appended CONTROL."
+    },
+    "actual_current_metadata_preservation_QA": {
+      "witness_id": "INDEPENDENT_WILDHUNT_CURRENT252_EXACT15_COMPLETE_OWN_MANUAL_POSITIVE_METADATA_PRESERVATION_AND_SCOPE_QA_V1",
+      "bytes": 13967,
+      "sha256": "f183176647c56a65687fe68bf46e5a972cdba4511f4a3b901365495a7ba6adf2",
+      "git_blob_oid_of_actual_bytes": "b38008180208e64daa58d9a625506820beb81d7d",
+      "role": "Independent V2 current15 metadata-preservation review:18 complete own reasons and actual8006 combined predicates, no single-finalLF certification."
+    },
+    "actual_current_format_and_manifest_repair_QA": {
+      "witness_id": "INDEPENDENT_WILDHUNT_CURRENT_V4_MANIFEST_EXACT15_COMPLETE_OWN_MANUAL_FOCUSED_FORMAT_ALIAS_RECOVERY_POSITIVE_QA_V1",
+      "bytes": 8651,
+      "sha256": "55e659b0e33aca370ad35b6902c4ebdbd9daa07255a32eecbb197e00be9bfb3d",
+      "git_blob_oid_of_actual_bytes": "d9b889aa9eb0f94a97311d104aea14504d95f050",
+      "role": "Independent10 complete own reasons, actual260 zero-failure V4 repair predicates; prior211 V3 payload passes bind identical bytes, original212/1 finding remains dated. All15 singleLF/pins/header/current13/current14 bindings verified. No new semantic/source credit."
+    },
+    "preappend_CONTROL_exact_recovery_basis": {
+      "bytes": 19994,
+      "sha256": "595e17e4ceef0613bda4d3517e47b2f7de43b69a295431362e2bcb0921525138",
+      "git_blob_oid_of_actual_bytes": "7c28ab1fbd0d532c360290418536e7060a3ec203",
+      "inverse": "Delete only this appended whole member and its introducing comma to restore exact original19994; all existing values, keys/order and raw bytes stay literal."
+    },
+    "dated_pending_field_qualification": "All earlier pending/current-gate statements record their author/composer creation stage, including the prior V3 format qualifier. Original semantic/component receiving and the cited preappend current15 byte review are now actual at their separately bound scopes. This final appended qualifier remains subject to distinct suffix review and final ROOT exact15/22 freeze; no earlier witness is retrospectively relabelled as certifying these new bytes.",
+    "actual_role_separation": "Original author Middle, original full component reviewer Minato, metadata composer M008, independent metadata/format reviewer publisher and ROOT personal semantic/byte receiver retain distinct actual roles. QA196 whole-value operations and ROOT9 whole-value operations retain their approved finite scopes; currentROOT adds one separate finalLF format operation.",
+    "fixed_bounds": {
+      "required": 355,
+      "named": 29,
+      "parents": 25,
+      "homes": 384,
+      "navigation": 788,
+      "published_before_actual_install": [
+        148,
+        17
+      ],
+      "main": [
+        133,
+        13
+      ],
+      "conditional_after_actual_install_only": [
+        149,
+        18
+      ],
+      "all14_original_gaps": "OPEN",
+      "models": 0,
+      "next178": "UNREACHED",
+      "merge_approval": "RESERVED"
+    },
+    "later_actual_gates": "Distinct final suffix/currentmanifest review, final ROOT current15 adoption, targetedshared7 review/adoption, final22 freeze, guarded R installation, index preflight, live provider/head checks, ordinary commit/push/full remote readback and the new exacthead SOURCE/housekeeping/FINAL chain remain separate. No selfpin, canonical count or newhead runtime credit is embedded in this author-stage suffix."
+  },
+  "current_V6_lineage_empty_array_schema_repair_and_prior_byte_scope_qualification": {
+    "schema": "WILDHUNT_EXACT_TWO_LINEAGE_ARRAY_SCHEMA_AND_TYPED_CURRENT_BODY_REPAIR_V6",
+    "authority": "ROOT expressly authorized this finite repair after actual staged22 index preflight98db8c failed: supersedes must be an array of strings. No further preflight failures are assumed or certified.",
+    "exact_current_lineage_fields": {
+      "supersedes": [],
+      "superseded_by": []
+    },
+    "before_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_AND_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 45512,
+      "sha256": "8481aea8581ad86cb5ee284049e2e1bae47e3578dac1045442ba15666860dbbe",
+      "git_blob_oid_of_actual_bytes": "583ad96493b924686700bd71f243a5a7d888e8e9"
+    },
+    "current_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_AND_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 45508,
+      "sha256": "c60796230fc5ace5117be4619cf917c467c79dce2cf55df0d4baf41e7845f233",
+      "git_blob_oid_of_actual_bytes": "41d0ca1f75ec8f1bf08c9f27716273e5e2bc668a"
+    },
+    "body_delta": "Only physical header L15 supersedes:null and L16 superseded_by:null become empty arrays. Both mean no declared lineage; current body remains252 lines/53 full arguments, four UTF8 bytes shorter.",
+    "metadata_offset_delta": {
+      "old247_to_previous252": 401,
+      "old247_to_current252": 397,
+      "all53_current_UTF8_offsets_change": -4,
+      "physical_line_change": 0,
+      "source185_physical_reference_change": 0
+    },
+    "literal_preservation": "All53 arguments, all525 new target-specific scalar meanings, full original105 envelopes and three carriers, source185/question27/15+ONE12/8rivals/16ends/14OPEN/models0, approved QA196 and public signedROOT9+oneLF payload are unchanged. Original247 reconstruction, old review payloads, decisions, source grades and frozen tuple bases remain literal dated history.",
+    "prior_acceptance_scope": "All retained V4/V5 metadata/format/control reviews, ROOT17321 precursor byte acceptance and ROOT18257 final acceptance/freeze are dated prior45512 lineage-null composition scopes. They do not certify this new45508 lineage-array metadata repair or its new dependent bytes. The ROOT semantic91776 authority and original247 literary scope are unchanged.",
+    "actual_installation_role": "ROOT reports the prior22 installed/staged with local149/18 and preserved protected39. This C successor performs no R/Git/provider/staging operation and claims no new count or runtime. ROOT must guardedly replace only changed paths after distinct focused QA and actual repair freeze.",
+    "current_repair_gates": {
+      "distinct_focused_lineage_array_and_alias_QA": "PENDING",
+      "ROOT_current_repair_byte_receiving_acceptance_and_freeze": "PENDING",
+      "guarded_installed_changed_path_replacement": "PENDING_ROOT_ONLY",
+      "new_index_preflight_and_live_controls": "PENDING_ROOT_ONLY",
+      "commit_push_remote_readback_new_exact_head_CHAIN": "PENDING_ROOT_ONLY",
+      "merge_approval": "RESERVED"
+    }
+  }
+}

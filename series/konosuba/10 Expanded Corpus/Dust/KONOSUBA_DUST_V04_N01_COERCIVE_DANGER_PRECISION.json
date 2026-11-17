@@ -1,0 +1,106 @@
+{
+  "schema": "KONOSUBA_DUST04_ATTRIBUTABLE_N01_COERCIVE_SCOPE_PRECISION_V1",
+  "source_id": "DUST-04",
+  "status": "CURRENT_NARROW_CLAIM_CORRECTION_CONTAINING_DUST05_PUBLICATION_PENDING",
+  "created_utc": "2026-10-18T08:13:02.489477+00:00",
+  "authority_scope": "Supersedes only the bodily-danger narrowing and resulting partial qualification of DUST01-N01 in the Dust04 assessment/report and corresponding ledger discussion. Other Dust04 observations, source seal and publication gate remain at their declared scopes.",
+  "supersedes_claim_routes": [
+    "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V04_EXPLORATORY_LOCAL_ASSESSMENTS.json record DUST01-N01",
+    "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V04_DEEP_READING.md sections10/14",
+    "DUST04-CS01 and DUST04-SO02 and DUST04-PV01 qualification only"
+  ],
+  "original_published_source": "a3451baadc55920d79d82c702e9cfc6d6eb817c0",
+  "original_assessment_file_sha256": "62e64ddac027c91593440f4de4901e339d6ad30456a3155076ef4e3bf8d9a987",
+  "original_published_record_exact": {
+    "id": "DUST01-N01",
+    "entering_hypothesis_exact": {
+      "id": "DUST01-N01",
+      "character_or_system": "Dust",
+      "trigger_context": "A particular companion faces a credible, understood near-term coercive danger; a valued leisure opportunity competes and some concrete protective action is available.",
+      "predicted_appraisal": "The specific person’s danger should outweigh treating the situation as somebody else’s affair.",
+      "predicted_behavior_or_decision_tendency": "Seek usable information/help or intervene; ordinary joking may continue, but it should not replace the needed protective action.",
+      "relationship_stakes_state_modifiers_and_missingness": "Track urgency, credibility, means and rival risks as appraised before choice. A nonurgent wish to repair friendship is a separate condition, not this trigger.",
+      "qualitative_confidence": "MODERATE",
+      "principal_evidence_basis": [
+        "C02P395–406",
+        "C04P434–435",
+        "FinalP203–215 contrary boundary",
+        "FinalP241–380",
+        "FinalP599/672"
+      ],
+      "what_would_count_as_disconfirmation": "A fully depicted case where he understands the credible danger and feasible means but knowingly chooses the dispensable pleasure without a protective action is contrary. Do not add a later goal-completion or pure-motive exemption.",
+      "future_outcome": "",
+      "adjudication": "",
+      "future_source_access": "CLOSED until exact separate root admission after preceding volume gate"
+    },
+    "local_source": "DUST-04 whole supplied edition after complete uncoded seal",
+    "local_category": "MIXED_PROTECTION_WITH_ADVERSE_LEISURE_AND_COERCION",
+    "model_transition": "Retain conditional protective capacity and the prior direct-contrary limit; reject an unqualified serious-danger override.",
+    "strongest_source_evidence": "U013:P0405–0420: he actually saves Small and accepts a serious wound, then uses supplied means. U014:P0060–0138: he understands the Axis handover threat, refuses betraying Kazuma, proposes an alternative and wagers the gift sword.",
+    "counterevidence_and_trigger_comparability": "U012:P0661–0689: he anticipates an unreasonable demand, bets Small before hearing full terms, ignores her explicit no and prioritizes more gambling before persuading her of a business benefit. This is sharply adverse to treating her danger/autonomy as overriding leisure.",
+    "conjuncts_rivals_and_limits": "The unilateral wager provides strong adverse evidence, while exact comparability to understood imminent bodily danger is limited by the proposer's stated drinking-only terms and Dust's minimization; do not invent a fully articulated threat. The golem rescue has no established competing leisure at that instant, and the final rescue also risks a precious gift rather than testing an identical leisure choice. Later benign reporting, eventual victory and Revi's late release-regardless claim are not ex ante exemptions.",
+    "current_local_disposition": "Qualitative mixed local disposition. Dust03's clear rescue-obstruction contrary case remains intact; neither this success nor mixed motives deletes it.",
+    "formal_assignment_after_seal_utc": "2026-10-18T07:18:46.226355+00:00",
+    "original_outcome_and_adjudication_unchanged": true
+  },
+  "unchanged_entering_question_exact": {
+    "id": "DUST01-N01",
+    "character_or_system": "Dust",
+    "trigger_context": "A particular companion faces a credible, understood near-term coercive danger; a valued leisure opportunity competes and some concrete protective action is available.",
+    "predicted_appraisal": "The specific person’s danger should outweigh treating the situation as somebody else’s affair.",
+    "predicted_behavior_or_decision_tendency": "Seek usable information/help or intervene; ordinary joking may continue, but it should not replace the needed protective action.",
+    "relationship_stakes_state_modifiers_and_missingness": "Track urgency, credibility, means and rival risks as appraised before choice. A nonurgent wish to repair friendship is a separate condition, not this trigger.",
+    "qualitative_confidence": "MODERATE",
+    "principal_evidence_basis": [
+      "C02P395–406",
+      "C04P434–435",
+      "FinalP203–215 contrary boundary",
+      "FinalP241–380",
+      "FinalP599/672"
+    ],
+    "what_would_count_as_disconfirmation": "A fully depicted case where he understands the credible danger and feasible means but knowingly chooses the dispensable pleasure without a protective action is contrary. Do not add a later goal-completion or pure-motive exemption.",
+    "future_outcome": "",
+    "adjudication": "",
+    "future_source_access": "CLOSED until exact separate root admission after preceding volume gate"
+  },
+  "current_record": {
+    "id": "DUST01-N01",
+    "entering_hypothesis_exact": {
+      "id": "DUST01-N01",
+      "character_or_system": "Dust",
+      "trigger_context": "A particular companion faces a credible, understood near-term coercive danger; a valued leisure opportunity competes and some concrete protective action is available.",
+      "predicted_appraisal": "The specific person’s danger should outweigh treating the situation as somebody else’s affair.",
+      "predicted_behavior_or_decision_tendency": "Seek usable information/help or intervene; ordinary joking may continue, but it should not replace the needed protective action.",
+      "relationship_stakes_state_modifiers_and_missingness": "Track urgency, credibility, means and rival risks as appraised before choice. A nonurgent wish to repair friendship is a separate condition, not this trigger.",
+      "qualitative_confidence": "MODERATE",
+      "principal_evidence_basis": [
+        "C02P395–406",
+        "C04P434–435",
+        "FinalP203–215 contrary boundary",
+        "FinalP241–380",
+        "FinalP599/672"
+      ],
+      "what_would_count_as_disconfirmation": "A fully depicted case where he understands the credible danger and feasible means but knowingly chooses the dispensable pleasure without a protective action is contrary. Do not add a later goal-completion or pure-motive exemption.",
+      "future_outcome": "",
+      "adjudication": "",
+      "future_source_access": "CLOSED until exact separate root admission after preceding volume gate"
+    },
+    "local_source": "DUST-04 whole supplied edition after complete uncoded seal",
+    "local_category": "DIRECT_CONTRARY_COERCIVE_LEISURE_CHOICE_WITH_CONDITIONAL_PROTECTION_RETAINED",
+    "model_transition": "Retain particular protective capacity, while counting the unilateral leisure wager as direct contrary coercive-choice evidence. No bodily-injury requirement belongs to the entering contract.",
+    "strongest_source_evidence": "DUST-04-U012:P0661–0686: Dust anticipates an unreasonable demand, agrees to pledge his particular companion for more chips before terms/assent, hears her explicit no and the proposer's request to discuss consent, then coaches arrogance and presses her to accept. Refusing or stopping the wager was an available protective act.",
+    "counterevidence_and_trigger_comparability": "U013:P0405–0441 and U014:P0060–0138 still show actual protective action and risk. The golem instant lacks an established leisure competitor; the final rescue risks the cherished sword. These support conditional capacity without cancelling the earlier contrary choice. The opponent's caution, Small's later business-motivated agreement and the benign next-day account limit claims of a completed forced handover, not the earlier choice.",
+    "conjuncts_rivals_and_limits": "The original trigger requires credible understood near-term coercive danger, not separately specified bodily injury. A particular traveling companion's refused attention and explicit nonconsent are known before Dust presses onward for continued gambling. This finding does not invent legal enforceability, a physical assault, completed sexual harm or a death threat. Later consent, a benign result and Revi's later release claim cannot be backdated. Pure motive is not required for the protective counterexamples either.",
+    "current_local_disposition": "Correct the unauthorized bodily-danger narrowing and give the nonconsensual leisure wager its direct adverse weight. Keep Dust03's independent direct-contrary rescue obstruction and all current protective counterevidence visible. No numeric score, freeze retirement or new cohort.",
+    "formal_assignment_after_seal_utc": "2026-10-18T08:13:02.489477+00:00",
+    "original_outcome_and_adjudication_unchanged": true
+  },
+  "why_correction_is_required": "The previous comparison introduced imminent bodily danger as a threshold. The unchanged question says coercive danger. Drinking-only proposed terms and no later physical injury do not remove a known companion's explicit refusal or excuse the unilateral gambling choice.",
+  "actual_native_recheck": "Same root re-received DUST-04-U012:P0661–0689 from member SHA2566901da0f15cce8040bd8298d4b9e913305bc7e6fe6a04a2c0aaa280515f3aff8. No new full independent reading is claimed.",
+  "exposure_at_detection": "Correction detected while Dust05 actual uncoded reading was through U011:P1344, using only the already accepted Dust04 scene and unchanged original contract. This is attributable later precision, not a blind re-adjudication or Dust05 formal outcome.",
+  "original_Dust04_notes_reports_registers_and_assessment_bytes_unchanged": true,
+  "original14future_fields_still_blank": true,
+  "four_scores_and_frozen_current66_unchanged": true,
+  "Dust05_prebody_seal_unchanged": true,
+  "no_Dust05_formal_outcome_assigned": true
+}

@@ -1,0 +1,1479 @@
+{
+  "schema": "BLUE_ARCHIVE_SAYA_RECIPIENTS_COMPLETE_AUTHOR_ATTACHMENTS_PART_V1",
+  "status": "COMPLETE_HISTORICAL_FIELDS_OPERATIVE_ROOT_QUALIFICATION_IN_PARENT",
+  "complete_author_attachments": [
+    {
+      "name": "unsealed_beforeimages_shun_actor_precision/SAYA_RECIPIENTS_RELATIONSHIP_SOURCE_AND_CUSTODY_RECEIPT_V1.json",
+      "original_exact_tuple": {
+        "path": "SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/unsealed_beforeimages_shun_actor_precision/SAYA_RECIPIENTS_RELATIONSHIP_SOURCE_AND_CUSTODY_RECEIPT_V1.json",
+        "bytes": 74388,
+        "sha256": "41c5464ef6cd87f51cd0965444e8b89f43656bdf84873248c5b838414ac2cd66",
+        "git_blob_oid_of_actual_bytes": "04caa2f8133260d6934f94cc145b532411eec3c0",
+        "immutable_transport_path": "immutable_originals/SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/unsealed_beforeimages_shun_actor_precision/SAYA_RECIPIENTS_RELATIONSHIP_SOURCE_AND_CUSTODY_RECEIPT_V1.json"
+      },
+      "complete_original_payload": {
+        "schema": "blue-archive/saya-recipient-directed-source-and-custody/v1",
+        "status": "AUTHOR_RECEIVED_SCOPED_NORMAL_MEANINGS_ROOT_LITERARY_REVIEW_PENDING",
+        "required_home": "P3-REL-SAYA-RECIPIENTS-CARE-TECHNICAL-LIMITS",
+        "kind": "DIRECTED_RELATIONSHIP",
+        "responsibility_id": "HYS::significant_responsibilities::14",
+        "mandatory_named_duties": [],
+        "published_source_snapshot": "bf5ded30464ab39f78f71e79ecc7494654c25faa",
+        "main_comparand": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+        "captured_local_HEAD": "bf5ded30464ab39f78f71e79ecc7494654c25faa",
+        "author_body": {
+          "byte_count": 46664,
+          "line_count": 156,
+          "sha256": "8ecc0b64932ef62aa812fdc026bcf2467ea047ee412357eaad40f21c5a44acab",
+          "actual_byte_blob_oid": "77daa4683042465de65110fcd6dc3744286cb260",
+          "relative_to_P": "SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS.md"
+        },
+        "initial_small_bindings": {
+          "byte_count": 44730,
+          "line_count": 742,
+          "sha256": "4709ba781def922e811b1849b3c083201926fff2ffd7f30902cba63925c52da8",
+          "actual_byte_blob_oid": "f775087e8586fe9cfebd5523f6c9e43136942a57",
+          "relative_to_P": "SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/SAYA_RECIPIENTS_INITIALLY_BOUND_NORMAL_INPUTS_AND_MATERIAL_READING_DEBT_V1.json"
+        },
+        "positive_ROOT_allocation": {
+          "byte_count": 7272,
+          "line_count": 64,
+          "sha256": "0a8708efa2d2769b2b8953faa555c18cc21e2511a35320255a33c1f1d29e7513",
+          "actual_byte_blob_oid": "476badc4ba828f8e2a52c7a23cd899a126f20a71",
+          "relative_to_P": "ROOT_SAYA_RECIPIENTS_EXISTING_DIRECTED_RELATIONSHIP_AUTHOR_ALLOCATION_V1.json",
+          "scope": "Operational scope authorization personally whole8a44ea1–64; not literary testimony or completion"
+        },
+        "frozen_metadata_plan": {
+          "byte_count": 84815,
+          "line_count": 1308,
+          "sha256": "72d03919bce90cdfc1e37fee0a98a0b8ee50b552f00be439857488d15b77fc3b",
+          "actual_byte_blob_oid": "56e0cb6abefadf709097fffdf69cd1fbac689fa2",
+          "relative_to_P": "SAYA_RECIPIENTS_RELATIONSHIP_EXISTING_HOME_AND_FINITE_SOURCE_PLAN_V1/SAYA_RECIPIENTS_EXISTING_HOME_AND_FINITE_SOURCE_PLAN_PROPOSAL_V1.json",
+          "scope": "Metadata and future plan; null prior own custody is not inherited sibling reading"
+        },
+        "normal_inputs": [
+          {
+            "byte_count": 82988,
+            "line_count": 560,
+            "sha256": "785146763dabcffa26ebd55d9e87b0d55bb3dc8d5bc2b173b548b461b6b49ba0",
+            "actual_byte_blob_oid": "c9a04680387eaa1fffac1d9b098d531ae5d75a26",
+            "source_id": "N01",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+            "published_base_blob_oid": "c9a04680387eaa1fffac1d9b098d531ae5d75a26",
+            "main_comparand": {
+              "blob_oid": "c9a04680387eaa1fffac1d9b098d531ae5d75a26",
+              "sha256": "785146763dabcffa26ebd55d9e87b0d55bb3dc8d5bc2b173b548b461b6b49ba0",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N01_BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Reuse complete relevant current private Saya303–339 and consequential peer/current-admission142–302/341–397 at existing custody; receive the actual25 responsibility rows only if needed to reconcile a distinct missing consequential recipient scope. Historical UNADMITTED/proposal words are qualified by current Cycle008.",
+            "this_lane_prior_actual_custody": {
+              "actual_custody": "ADEQUATE_PRIOR_COMPLETE_RELEVANT_NORMAL_MEANINGS_WITH_FRESH_RELEVANT_REFRESH",
+              "personally_received_adequate_normal_physical_extents": [
+                [
+                  142,
+                  302
+                ],
+                [
+                  303,
+                  339
+                ],
+                [
+                  341,
+                  397
+                ]
+              ],
+              "actual_receiving_evidence": [
+                "Prior complete current Genryumon custody at declared exact tuples",
+                "c2ea63 fresh279–302"
+              ],
+              "source_mode_and_authority_limit": "No new whole55private originals; Shun late10144 identity remains separate; current shared adoption governs historical checkpoints"
+            },
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Current accepted private and peer account: permits private meanings under Cycle008 without inheriting historical producer proposal/UNADMITTED status.",
+            "actual_author_literary_custody": {
+              "prior_ranges": [
+                [
+                  142,
+                  302
+                ],
+                [
+                  303,
+                  339
+                ],
+                [
+                  341,
+                  397
+                ]
+              ],
+              "fresh_ranges": [
+                [
+                  142,
+                  144
+                ],
+                [
+                  303,
+                  339
+                ]
+              ],
+              "actual_receiving": [
+                "Prior personally adequate complete current Genryumon/Meihua meanings at exact same tuple",
+                "846073 fresh current142–144 and complete Saya303–339"
+              ],
+              "limit": "Relevant complete private/contextual meanings only; no fresh whole560 carrier or55 raw private objects.",
+              "status": "ADEQUATE_COMPLETE_RELEVANT_ACCEPTED_NORMAL_MEANINGS_AT_ACTUAL_EXTENTS"
+            }
+          },
+          {
+            "byte_count": 6439,
+            "line_count": 52,
+            "sha256": "73825e36a6b3db5c75b8a8cbcb5d9052180e7a1bd29e61c3a31bd9b1f27f36d4",
+            "actual_byte_blob_oid": "d3e2fb83b1c32bf64d49d1a000fb5dcd681672e9",
+            "source_id": "N02",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/SAYA_COMPLETE_PRIVATE_WRITTEN_EXTERNAL_CHECKPOINT.md",
+            "published_base_blob_oid": "d3e2fb83b1c32bf64d49d1a000fb5dcd681672e9",
+            "main_comparand": {
+              "blob_oid": "d3e2fb83b1c32bf64d49d1a000fb5dcd681672e9",
+              "sha256": "73825e36a6b3db5c75b8a8cbcb5d9052180e7a1bd29e61c3a31bd9b1f27f36d4",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N02_SAYA_COMPLETE_PRIVATE_WRITTEN_EXTERNAL_CHECKPOINT.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Receive the complete normal checkpoint or paired BOND/whole-MomoTalk argument, printed alternatives and coda, to distinguish each recipient's initiative, permission, objection, uptake and unfinished appointment from Saya's claim. Do not make all branches one history.",
+            "this_lane_prior_actual_custody": null,
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Complete private checkpoint and eleven paired-argument/written route bounds.",
+            "actual_author_literary_custody": {
+              "prior_null_own_custody_honored": true,
+              "fresh_ranges": [
+                [
+                  1,
+                  52
+                ]
+              ],
+              "actual_receiving": [
+                "cb6e2f whole1–52EOF"
+              ],
+              "status": "COMPLETE_PERSONALLY_RECEIVED_ACCEPTED_ANALYTICAL_ARGUMENT_THROUGH_EOF",
+              "limit": "No new original producer primary/native/raw QA/AV/source admission credit; complete argument is not independent primary witness."
+            }
+          },
+          {
+            "byte_count": 3572,
+            "line_count": 94,
+            "sha256": "1d89dca9f221b0e30124a07a668ae45654f6d526c08db3acfb17bfb1d9835add",
+            "actual_byte_blob_oid": "d9d94b33ed011e94f038250a7ab8a647517d42cc",
+            "source_id": "N03",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20002_E002_DEEP_READING.md",
+            "published_base_blob_oid": "d9d94b33ed011e94f038250a7ab8a647517d42cc",
+            "main_comparand": {
+              "blob_oid": "d9d94b33ed011e94f038250a7ab8a647517d42cc",
+              "sha256": "1d89dca9f221b0e30124a07a668ae45654f6d526c08db3acfb17bfb1d9835add",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N03_BLUE_ARCHIVE_SAYA_BOND_20002_E002_DEEP_READING.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Receive the complete normal checkpoint or paired BOND/whole-MomoTalk argument, printed alternatives and coda, to distinguish each recipient's initiative, permission, objection, uptake and unfinished appointment from Saya's claim. Do not make all branches one history.",
+            "this_lane_prior_actual_custody": null,
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Club refusal, selected replies, shining-body success criterion, refused sample and continuing afterstate.",
+            "actual_author_literary_custody": {
+              "prior_null_own_custody_honored": true,
+              "fresh_ranges": [
+                [
+                  1,
+                  94
+                ]
+              ],
+              "actual_receiving": [
+                "cb6e2f whole1–94EOF"
+              ],
+              "status": "COMPLETE_PERSONALLY_RECEIVED_ACCEPTED_ANALYTICAL_ARGUMENT_THROUGH_EOF",
+              "limit": "No new original producer primary/native/raw QA/AV/source admission credit; complete argument is not independent primary witness."
+            }
+          },
+          {
+            "byte_count": 3721,
+            "line_count": 96,
+            "sha256": "ea1e669585b9f4bcdb180e303dd65ce635e9f62f54aa7a6f932a6bab174466a5",
+            "actual_byte_blob_oid": "bcae3effcaa589aaf9787e1d95d77dbca5ba2fc1",
+            "source_id": "N04",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20002_E003_DEEP_READING.md",
+            "published_base_blob_oid": "bcae3effcaa589aaf9787e1d95d77dbca5ba2fc1",
+            "main_comparand": {
+              "blob_oid": "bcae3effcaa589aaf9787e1d95d77dbca5ba2fc1",
+              "sha256": "ea1e669585b9f4bcdb180e303dd65ce635e9f62f54aa7a6f932a6bab174466a5",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N04_BLUE_ARCHIVE_SAYA_BOND_20002_E003_DEEP_READING.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Receive the complete normal checkpoint or paired BOND/whole-MomoTalk argument, printed alternatives and coda, to distinguish each recipient's initiative, permission, objection, uptake and unfinished appointment from Saya's claim. Do not make all branches one history.",
+            "this_lane_prior_actual_custody": null,
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Nezusuke family/dosing/fear/nonreply, mistaken fur, apology, proposed razor, refused sample and noodle promise.",
+            "actual_author_literary_custody": {
+              "prior_null_own_custody_honored": true,
+              "fresh_ranges": [
+                [
+                  1,
+                  96
+                ]
+              ],
+              "actual_receiving": [
+                "cb6e2f whole1–96EOF"
+              ],
+              "status": "COMPLETE_PERSONALLY_RECEIVED_ACCEPTED_ANALYTICAL_ARGUMENT_THROUGH_EOF",
+              "limit": "No new original producer primary/native/raw QA/AV/source admission credit; complete argument is not independent primary witness."
+            }
+          },
+          {
+            "byte_count": 5045,
+            "line_count": 189,
+            "sha256": "044d5be58b37a1df7796d774f2bd5611d3df109c5d2042a2f07aee3e8620945a",
+            "actual_byte_blob_oid": "3a3744d6bcc004dcf548d218dec6b7b02a634b2b",
+            "source_id": "N05",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20002_E005_DEEP_READING.md",
+            "published_base_blob_oid": "3a3744d6bcc004dcf548d218dec6b7b02a634b2b",
+            "main_comparand": {
+              "blob_oid": "3a3744d6bcc004dcf548d218dec6b7b02a634b2b",
+              "sha256": "044d5be58b37a1df7796d774f2bd5611d3df109c5d2042a2f07aee3e8620945a",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N05_BLUE_ARCHIVE_SAYA_BOND_20002_E005_DEEP_READING.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Receive the complete normal checkpoint or paired BOND/whole-MomoTalk argument, printed alternatives and coda, to distinguish each recipient's initiative, permission, objection, uptake and unfinished appointment from Saya's claim. Do not make all branches one history.",
+            "this_lane_prior_actual_custody": null,
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Ramen apology/taste/company and independent Helmet hunger/weakness, remembered/forgotten recipients and unprinted recovery.",
+            "actual_author_literary_custody": {
+              "prior_null_own_custody_honored": true,
+              "fresh_ranges": [
+                [
+                  1,
+                  189
+                ]
+              ],
+              "actual_receiving": [
+                "ed47c3 whole1–189EOF"
+              ],
+              "status": "COMPLETE_PERSONALLY_RECEIVED_ACCEPTED_ANALYTICAL_ARGUMENT_THROUGH_EOF",
+              "limit": "No new original producer primary/native/raw QA/AV/source admission credit; complete argument is not independent primary witness."
+            }
+          },
+          {
+            "byte_count": 3750,
+            "line_count": 108,
+            "sha256": "4437437bb4161f35dd918cf862a0678c1dea7ca265ab11c8c963ca2c91922816",
+            "actual_byte_blob_oid": "3777145728a2a136c9c7de258cc4e888fbbdf1c0",
+            "source_id": "N06",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20002_E006_DEEP_READING.md",
+            "published_base_blob_oid": "3777145728a2a136c9c7de258cc4e888fbbdf1c0",
+            "main_comparand": {
+              "blob_oid": "3777145728a2a136c9c7de258cc4e888fbbdf1c0",
+              "sha256": "4437437bb4161f35dd918cf862a0678c1dea7ca265ab11c8c963ca2c91922816",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N06_BLUE_ARCHIVE_SAYA_BOND_20002_E006_DEEP_READING.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Receive the complete normal checkpoint or paired BOND/whole-MomoTalk argument, printed alternatives and coda, to distinguish each recipient's initiative, permission, objection, uptake and unfinished appointment from Saya's claim. Do not make all branches one history.",
+            "this_lane_prior_actual_custody": null,
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Two-player play, warmth, model-cheese distraction, actual loss and unaccomplished rematch.",
+            "actual_author_literary_custody": {
+              "prior_null_own_custody_honored": true,
+              "fresh_ranges": [
+                [
+                  1,
+                  108
+                ]
+              ],
+              "actual_receiving": [
+                "ed47c3 whole1–108EOF"
+              ],
+              "status": "COMPLETE_PERSONALLY_RECEIVED_ACCEPTED_ANALYTICAL_ARGUMENT_THROUGH_EOF",
+              "limit": "No new original producer primary/native/raw QA/AV/source admission credit; complete argument is not independent primary witness."
+            }
+          },
+          {
+            "byte_count": 4451,
+            "line_count": 112,
+            "sha256": "456cc3dc1acdc6232696dc06542a5a8846bed8ae88a436f0f6f64b5689017af0",
+            "actual_byte_blob_oid": "7926e1eef3c7e1f045fb32ecf766294977a277e4",
+            "source_id": "N07",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20002_E008_DEEP_READING.md",
+            "published_base_blob_oid": "7926e1eef3c7e1f045fb32ecf766294977a277e4",
+            "main_comparand": {
+              "blob_oid": "7926e1eef3c7e1f045fb32ecf766294977a277e4",
+              "sha256": "456cc3dc1acdc6232696dc06542a5a8846bed8ae88a436f0f6f64b5689017af0",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N07_BLUE_ARCHIVE_SAYA_BOND_20002_E008_DEEP_READING.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Receive the complete normal checkpoint or paired BOND/whole-MomoTalk argument, printed alternatives and coda, to distinguish each recipient's initiative, permission, objection, uptake and unfinished appointment from Saya's claim. Do not make all branches one history.",
+            "this_lane_prior_actual_custody": null,
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Claimed attraction/potion, pressure/uncertain mechanism, biting, aftereffect, dream report and choice/narration limits.",
+            "actual_author_literary_custody": {
+              "prior_null_own_custody_honored": true,
+              "fresh_ranges": [
+                [
+                  1,
+                  112
+                ]
+              ],
+              "actual_receiving": [
+                "ed47c3 whole1–112EOF"
+              ],
+              "status": "COMPLETE_PERSONALLY_RECEIVED_ACCEPTED_ANALYTICAL_ARGUMENT_THROUGH_EOF",
+              "limit": "No new original producer primary/native/raw QA/AV/source admission credit; complete argument is not independent primary witness."
+            }
+          },
+          {
+            "byte_count": 6254,
+            "line_count": 162,
+            "sha256": "67bea95818ee6d87970b720f94aa05c146a87dbbd8f8c922cdf20ec636880361",
+            "actual_byte_blob_oid": "ab4ef4aad0ec9b120d70f9d5ac7a2f049cc11c7e",
+            "source_id": "N08",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20002_E009_DEEP_READING.md",
+            "published_base_blob_oid": "ab4ef4aad0ec9b120d70f9d5ac7a2f049cc11c7e",
+            "main_comparand": {
+              "blob_oid": "ab4ef4aad0ec9b120d70f9d5ac7a2f049cc11c7e",
+              "sha256": "67bea95818ee6d87970b720f94aa05c146a87dbbd8f8c922cdf20ec636880361",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N08_BLUE_ARCHIVE_SAYA_BOND_20002_E009_DEEP_READING.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Receive the complete normal checkpoint or paired BOND/whole-MomoTalk argument, printed alternatives and coda, to distinguish each recipient's initiative, permission, objection, uptake and unfinished appointment from Saya's claim. Do not make all branches one history.",
+            "this_lane_prior_actual_custody": null,
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Searching/thanks, competing absence hypotheses, returned seeds, limited apology and renewed restraint.",
+            "actual_author_literary_custody": {
+              "prior_null_own_custody_honored": true,
+              "fresh_ranges": [
+                [
+                  1,
+                  162
+                ]
+              ],
+              "actual_receiving": [
+                "9f2ffe whole1–162EOF"
+              ],
+              "status": "COMPLETE_PERSONALLY_RECEIVED_ACCEPTED_ANALYTICAL_ARGUMENT_THROUGH_EOF",
+              "limit": "No new original producer primary/native/raw QA/AV/source admission credit; complete argument is not independent primary witness."
+            }
+          },
+          {
+            "byte_count": 5244,
+            "line_count": 140,
+            "sha256": "b697898709f9201db7bda4a95e251c1c624e1e270ab6058df5524ab821e6e2cc",
+            "actual_byte_blob_oid": "7314fa8d167f1b0c925d4a9f42c48091ea49d1d5",
+            "source_id": "N09",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20006_E002_DEEP_READING.md",
+            "published_base_blob_oid": "7314fa8d167f1b0c925d4a9f42c48091ea49d1d5",
+            "main_comparand": {
+              "blob_oid": "7314fa8d167f1b0c925d4a9f42c48091ea49d1d5",
+              "sha256": "b697898709f9201db7bda4a95e251c1c624e1e270ab6058df5524ab821e6e2cc",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N09_BLUE_ARCHIVE_SAYA_BOND_20006_E002_DEEP_READING.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Receive the complete normal checkpoint or paired BOND/whole-MomoTalk argument, printed alternatives and coda, to distinguish each recipient's initiative, permission, objection, uptake and unfinished appointment from Saya's claim. Do not make all branches one history.",
+            "this_lane_prior_actual_custody": null,
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Exploration/menu/board invitation, failed instruction, actual attempted response and bruised afterstate, locale seam.",
+            "actual_author_literary_custody": {
+              "prior_null_own_custody_honored": true,
+              "fresh_ranges": [
+                [
+                  1,
+                  140
+                ]
+              ],
+              "actual_receiving": [
+                "9f2ffe whole1–140EOF"
+              ],
+              "status": "COMPLETE_PERSONALLY_RECEIVED_ACCEPTED_ANALYTICAL_ARGUMENT_THROUGH_EOF",
+              "limit": "No new original producer primary/native/raw QA/AV/source admission credit; complete argument is not independent primary witness."
+            }
+          },
+          {
+            "byte_count": 6902,
+            "line_count": 179,
+            "sha256": "649591e9e96178ed5868751330cf6df4d461fa8adc443a0f8f9575c019cc80d4",
+            "actual_byte_blob_oid": "c2a760aa2b233a8c4563546592dc9eb3b6a8d848",
+            "source_id": "N10",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20006_E003_DEEP_READING.md",
+            "published_base_blob_oid": "c2a760aa2b233a8c4563546592dc9eb3b6a8d848",
+            "main_comparand": {
+              "blob_oid": "c2a760aa2b233a8c4563546592dc9eb3b6a8d848",
+              "sha256": "649591e9e96178ed5868751330cf6df4d461fa8adc443a0f8f9575c019cc80d4",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N10_BLUE_ARCHIVE_SAYA_BOND_20006_E003_DEEP_READING.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Receive the complete normal checkpoint or paired BOND/whole-MomoTalk argument, printed alternatives and coda, to distinguish each recipient's initiative, permission, objection, uptake and unfinished appointment from Saya's claim. Do not make all branches one history.",
+            "this_lane_prior_actual_custody": null,
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Wanted cake/company, followed concern, peer avoidance, admitted deceptive pills versus force denial, not exhaustive loneliness.",
+            "actual_author_literary_custody": {
+              "prior_null_own_custody_honored": true,
+              "fresh_ranges": [
+                [
+                  1,
+                  179
+                ]
+              ],
+              "actual_receiving": [
+                "9f2ffe whole1–179EOF"
+              ],
+              "status": "COMPLETE_PERSONALLY_RECEIVED_ACCEPTED_ANALYTICAL_ARGUMENT_THROUGH_EOF",
+              "limit": "No new original producer primary/native/raw QA/AV/source admission credit; complete argument is not independent primary witness."
+            }
+          },
+          {
+            "byte_count": 8387,
+            "line_count": 212,
+            "sha256": "8f1a03b90edf585ea9fa9e53e7feeb63b4717db9946f9a883a1b4f31725e7e01",
+            "actual_byte_blob_oid": "44fa98f2ff6ee6be1d2da534e67e7ccff3e0fd8f",
+            "source_id": "N11",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20006_E005_DEEP_READING.md",
+            "published_base_blob_oid": "44fa98f2ff6ee6be1d2da534e67e7ccff3e0fd8f",
+            "main_comparand": {
+              "blob_oid": "44fa98f2ff6ee6be1d2da534e67e7ccff3e0fd8f",
+              "sha256": "8f1a03b90edf585ea9fa9e53e7feeb63b4717db9946f9a883a1b4f31725e7e01",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N11_BLUE_ARCHIVE_SAYA_BOND_20006_E005_DEEP_READING.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Receive the complete normal checkpoint or paired BOND/whole-MomoTalk argument, printed alternatives and coda, to distinguish each recipient's initiative, permission, objection, uptake and unfinished appointment from Saya's claim. Do not make all branches one history.",
+            "this_lane_prior_actual_custody": null,
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Cake gratitude, imposed itinerary, professional hospitality, failed improvement, visitor/cough/taste and local painful coda.",
+            "actual_author_literary_custody": {
+              "prior_null_own_custody_honored": true,
+              "fresh_ranges": [
+                [
+                  1,
+                  212
+                ]
+              ],
+              "actual_receiving": [
+                "197906 whole1–212EOF"
+              ],
+              "status": "COMPLETE_PERSONALLY_RECEIVED_ACCEPTED_ANALYTICAL_ARGUMENT_THROUGH_EOF",
+              "limit": "No new original producer primary/native/raw QA/AV/source admission credit; complete argument is not independent primary witness."
+            }
+          },
+          {
+            "byte_count": 6933,
+            "line_count": 176,
+            "sha256": "d5d394c3affba7ca34581ce5b7268f606178f4f13a351d5d6f3ea2b6905d5a2f",
+            "actual_byte_blob_oid": "59ecdda785ecab94ac39871ef6459f1e4625d768",
+            "source_id": "N12",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20006_E006_DEEP_READING.md",
+            "published_base_blob_oid": "59ecdda785ecab94ac39871ef6459f1e4625d768",
+            "main_comparand": {
+              "blob_oid": "59ecdda785ecab94ac39871ef6459f1e4625d768",
+              "sha256": "d5d394c3affba7ca34581ce5b7268f606178f4f13a351d5d6f3ea2b6905d5a2f",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N12_BLUE_ARCHIVE_SAYA_BOND_20006_E006_DEEP_READING.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Receive the complete normal checkpoint or paired BOND/whole-MomoTalk argument, printed alternatives and coda, to distinguish each recipient's initiative, permission, objection, uptake and unfinished appointment from Saya's claim. Do not make all branches one history.",
+            "this_lane_prior_actual_custody": null,
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Sauce demand, shared tea, independent employee, disliked spice and actually ended local craze with unverified scale.",
+            "actual_author_literary_custody": {
+              "prior_null_own_custody_honored": true,
+              "fresh_ranges": [
+                [
+                  1,
+                  176
+                ]
+              ],
+              "actual_receiving": [
+                "197906 whole1–176EOF"
+              ],
+              "status": "COMPLETE_PERSONALLY_RECEIVED_ACCEPTED_ANALYTICAL_ARGUMENT_THROUGH_EOF",
+              "limit": "No new original producer primary/native/raw QA/AV/source admission credit; complete argument is not independent primary witness."
+            }
+          },
+          {
+            "byte_count": 6497,
+            "line_count": 170,
+            "sha256": "3aafe23f0f40a56b0be92de07a132eea0bc31c43b2b836e88aabaca1f86051bd",
+            "actual_byte_blob_oid": "ff6632938463fa6a6044305bae23cb607e749e37",
+            "source_id": "N13",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20006_E020_DEEP_READING.md",
+            "published_base_blob_oid": "ff6632938463fa6a6044305bae23cb607e749e37",
+            "main_comparand": {
+              "blob_oid": "ff6632938463fa6a6044305bae23cb607e749e37",
+              "sha256": "3aafe23f0f40a56b0be92de07a132eea0bc31c43b2b836e88aabaca1f86051bd",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N13_BLUE_ARCHIVE_SAYA_BOND_20006_E020_DEEP_READING.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Receive the complete normal checkpoint or paired BOND/whole-MomoTalk argument, printed alternatives and coda, to distinguish each recipient's initiative, permission, objection, uptake and unfinished appointment from Saya's claim. Do not make all branches one history.",
+            "this_lane_prior_actual_custody": null,
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Fragrance wanted pleasure/recognition, shared work and vulnerability, actual no-injury local finish, qualified crowd report.",
+            "actual_author_literary_custody": {
+              "prior_null_own_custody_honored": true,
+              "fresh_ranges": [
+                [
+                  1,
+                  170
+                ]
+              ],
+              "actual_receiving": [
+                "197906 whole1–170EOF"
+              ],
+              "status": "COMPLETE_PERSONALLY_RECEIVED_ACCEPTED_ANALYTICAL_ARGUMENT_THROUGH_EOF",
+              "limit": "No new original producer primary/native/raw QA/AV/source admission credit; complete argument is not independent primary witness."
+            }
+          },
+          {
+            "byte_count": 3754,
+            "line_count": 108,
+            "sha256": "38d39dd79eb92362ef68683560bf8ebe8d37b3fdc3bad4d092c8965e6f633932",
+            "actual_byte_blob_oid": "96d87909938ba3a949c430a79a6d13d710497a25",
+            "source_id": "N14",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/CHARACTER_DATA/SAYA/BLUE_ARCHIVE_SAYA_BA_CHARACTER_DATA_20002_PROFILE_AND_DIALOG_WRITTEN_READING.md",
+            "published_base_blob_oid": "96d87909938ba3a949c430a79a6d13d710497a25",
+            "main_comparand": {
+              "blob_oid": "96d87909938ba3a949c430a79a6d13d710497a25",
+              "sha256": "38d39dd79eb92362ef68683560bf8ebe8d37b3fdc3bad4d092c8965e6f633932",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N14_BLUE_ARCHIVE_SAYA_BA_CHARACTER_DATA_20002_PROFILE_AND_DIALOG_WRITTEN_READING.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Receive the complete written profile/dialog/costume normal meaning at its conditional UI and seasonal mode. Use ordinary wanted inquiry, rest, food and company intrinsically; do not convert these utterances into performed voice or an enacted event.",
+            "this_lane_prior_actual_custody": null,
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Written family/taste/birthday/material requests/profile and unmade-immortality/source ontology limits.",
+            "actual_author_literary_custody": {
+              "prior_null_own_custody_honored": true,
+              "fresh_ranges": [
+                [
+                  1,
+                  108
+                ]
+              ],
+              "actual_receiving": [
+                "eda662 whole1–108EOF"
+              ],
+              "status": "COMPLETE_PERSONALLY_RECEIVED_ACCEPTED_ANALYTICAL_ARGUMENT_THROUGH_EOF",
+              "limit": "No new original producer primary/native/raw QA/AV/source admission credit; complete argument is not independent primary witness."
+            }
+          },
+          {
+            "byte_count": 4008,
+            "line_count": 119,
+            "sha256": "4ade562df32bc47108435cb0ee30a3b1fb07b20d52dd7b92bf9595c8dac8412b",
+            "actual_byte_blob_oid": "1742c7bbf434fe1d57d69311bd1b86b92b1647d8",
+            "source_id": "N15",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/CHARACTER_DATA/SAYA/BLUE_ARCHIVE_SAYA_BA_CHARACTER_DATA_20006_PROFILE_AND_DIALOG_WRITTEN_READING.md",
+            "published_base_blob_oid": "1742c7bbf434fe1d57d69311bd1b86b92b1647d8",
+            "main_comparand": {
+              "blob_oid": "1742c7bbf434fe1d57d69311bd1b86b92b1647d8",
+              "sha256": "4ade562df32bc47108435cb0ee30a3b1fb07b20d52dd7b92bf9595c8dac8412b",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N15_BLUE_ARCHIVE_SAYA_BA_CHARACTER_DATA_20006_PROFILE_AND_DIALOG_WRITTEN_READING.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Receive the complete written profile/dialog/costume normal meaning at its conditional UI and seasonal mode. Use ordinary wanted inquiry, rest, food and company intrinsically; do not convert these utterances into performed voice or an enacted event.",
+            "this_lane_prior_actual_custody": null,
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Written leisure/clothes/food/company and speculative technical lines; not performed activity or fixed variant transition.",
+            "actual_author_literary_custody": {
+              "prior_null_own_custody_honored": true,
+              "fresh_ranges": [
+                [
+                  1,
+                  119
+                ]
+              ],
+              "actual_receiving": [
+                "eda662 whole1–119EOF"
+              ],
+              "status": "COMPLETE_PERSONALLY_RECEIVED_ACCEPTED_ANALYTICAL_ARGUMENT_THROUGH_EOF",
+              "limit": "No new original producer primary/native/raw QA/AV/source admission credit; complete argument is not independent primary witness."
+            }
+          },
+          {
+            "byte_count": 3551,
+            "line_count": 90,
+            "sha256": "03f0b35ed2a5d5461fb412887ea543acba62b2302f77cc37d2ebeff7f140495f",
+            "actual_byte_blob_oid": "2555332a371688103ea11375a57ef1d029196ec8",
+            "source_id": "N16",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/CHARACTER_DATA/SAYA/BLUE_ARCHIVE_SAYA_BA_CHARACTER_DATA_EVENT_COSTUME_1900901401_CHARACTER_20006_WRITTEN_READING.md",
+            "published_base_blob_oid": "2555332a371688103ea11375a57ef1d029196ec8",
+            "main_comparand": {
+              "blob_oid": "2555332a371688103ea11375a57ef1d029196ec8",
+              "sha256": "03f0b35ed2a5d5461fb412887ea543acba62b2302f77cc37d2ebeff7f140495f",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N16_BLUE_ARCHIVE_SAYA_BA_CHARACTER_DATA_EVENT_COSTUME_1900901401_CHARACTER_20006_WRITTEN_READING.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Receive the complete written profile/dialog/costume normal meaning at its conditional UI and seasonal mode. Use ordinary wanted inquiry, rest, food and company intrinsically; do not convert these utterances into performed voice or an enacted event.",
+            "this_lane_prior_actual_custody": null,
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Courteous written host/material role, conditional availability and ambiguous object; no completed transaction/event join.",
+            "actual_author_literary_custody": {
+              "prior_null_own_custody_honored": true,
+              "fresh_ranges": [
+                [
+                  1,
+                  90
+                ]
+              ],
+              "actual_receiving": [
+                "eda662 whole1–90EOF"
+              ],
+              "status": "COMPLETE_PERSONALLY_RECEIVED_ACCEPTED_ANALYTICAL_ARGUMENT_THROUGH_EOF",
+              "limit": "No new original producer primary/native/raw QA/AV/source admission credit; complete argument is not independent primary witness."
+            }
+          },
+          {
+            "byte_count": 17785,
+            "line_count": 121,
+            "sha256": "cc1bcd269132e5b744f5bdf1da94327ae9fd299045b7151bc38553c8c8baa05f",
+            "actual_byte_blob_oid": "ce7f643a3008fd60c61fecf92e27258a975ba7b2",
+            "source_id": "N17",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_805/BLUE_ARCHIVE_EVENT_805_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "published_base_blob_oid": "ce7f643a3008fd60c61fecf92e27258a975ba7b2",
+            "main_comparand": {
+              "blob_oid": "ce7f643a3008fd60c61fecf92e27258a975ba7b2",
+              "sha256": "cc1bcd269132e5b744f5bdf1da94327ae9fd299045b7151bc38553c8c8baa05f",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N17_BLUE_ARCHIVE_EVENT_805_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Compare transformation/restoration, objection, actual restraint/detention and lecture, Saya's apology, Shun's chosen return and Kokona's recipient position; preserve forgiveness qualification and unprinted technical validation.",
+            "this_lane_prior_actual_custody": {
+              "actual_custody": "PERSONALLY_COMPLETE_CURRENT_NORMAL_ARGUMENT",
+              "personally_received_adequate_normal_physical_extents": [
+                [
+                  1,
+                  121
+                ]
+              ],
+              "actual_receiving_evidence": [
+                "d7698e fresh1–121EOF"
+              ],
+              "source_mode_and_authority_limit": "Whole normal argument only, not nine fresh canonical/raw/primary sources"
+            },
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Shun independent refusal/later antidote request, restraint/lecture, actual returned appearance and retained pleasures/unfinished labor.",
+            "actual_author_literary_custody": {
+              "prior_ranges": [
+                [
+                  1,
+                  121
+                ]
+              ],
+              "fresh_ranges": [
+                [
+                  54,
+                  121
+                ]
+              ],
+              "actual_receiving": [
+                "d7698e prior whole1–121EOF",
+                "b40695 complete54–121EOF"
+              ],
+              "limit": "Whole accepted comparison personally received; no fresh original-primary/native/performed credit.",
+              "status": "ADEQUATE_COMPLETE_RELEVANT_ACCEPTED_NORMAL_MEANINGS_AT_ACTUAL_EXTENTS"
+            }
+          },
+          {
+            "byte_count": 32334,
+            "line_count": 177,
+            "sha256": "287c1549225c6c17cb398c686b87f23cc7c062a8e7dabfa4c0bcd67f9ff5361b",
+            "actual_byte_blob_oid": "59694ca045d8c38d8772d95929e9ee55f2fb0f63",
+            "source_id": "N18",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_826/BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+            "published_base_blob_oid": "59694ca045d8c38d8772d95929e9ee55f2fb0f63",
+            "main_comparand": {
+              "blob_oid": "59694ca045d8c38d8772d95929e9ee55f2fb0f63",
+              "sha256": "287c1549225c6c17cb398c686b87f23cc7c062a8e7dabfa4c0bcd67f9ff5361b",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N18_BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Retain recipient-specific refusals, food acceptance, impossible inquiry, unheard project, independent intervention and Kai-related testimony. Check every consequential end against the actual whole accepted meaning; promised expense/payment is not execution.",
+            "this_lane_prior_actual_custody": {
+              "actual_custody": "ADEQUATE_PRIOR_COMPLETE_SUBSTANTIVE_NORMAL_ARGUMENT",
+              "personally_received_adequate_normal_physical_extents": [
+                [
+                  29,
+                  47
+                ],
+                [
+                  75,
+                  177
+                ]
+              ],
+              "actual_receiving_evidence": [
+                "Prior complete13meanings in Genryumon scope receipt",
+                "88548f fresh75–117",
+                "0ef1f3 fresh118–177EOF; together88548f75–117 whole substantive75–177 refreshed"
+              ],
+              "source_mode_and_authority_limit": "No fresh whole13canonical sources/raw; endpoint apology/payment unprinted"
+            },
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Food assent versus coalition terms, technical limits, inward research/secrecy, independent arrival and Kai capture/unfinished rewards.",
+            "actual_author_literary_custody": {
+              "prior_ranges": [
+                [
+                  29,
+                  47
+                ],
+                [
+                  75,
+                  177
+                ]
+              ],
+              "fresh_lines": [
+                91,
+                95,
+                97,
+                99,
+                101,
+                131,
+                133,
+                141,
+                143,
+                145,
+                147,
+                149,
+                151,
+                153,
+                155,
+                157,
+                159,
+                161,
+                163,
+                165,
+                167,
+                169,
+                171,
+                173,
+                175,
+                177
+              ],
+              "actual_receiving": [
+                "Prior complete substantive75–177 plus current29–47",
+                "88548f75–117 and0ef1f3118–177 prior fresh receiver",
+                "b40695 full listed consequential paragraphs"
+              ],
+              "limit": "Adequate full current literary meanings; fresh selected paragraphs are not a new whole177 physical read or raw replay.",
+              "status": "ADEQUATE_COMPLETE_RELEVANT_ACCEPTED_NORMAL_MEANINGS_AT_ACTUAL_EXTENTS"
+            }
+          },
+          {
+            "byte_count": 27920,
+            "line_count": 158,
+            "sha256": "f4966f3e986af6f41f1690f9530f0c9940cb04ffc900915d21bdd0e18c6d8da0",
+            "actual_byte_blob_oid": "743ae69336f3ef32aaa75871876dbefdc6f6ff98",
+            "source_id": "N19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_839/BLUE_ARCHIVE_EVENT_839_CONTEXTUALIZATION_CHECKPOINT.md",
+            "published_base_blob_oid": "743ae69336f3ef32aaa75871876dbefdc6f6ff98",
+            "main_comparand": {
+              "blob_oid": "743ae69336f3ef32aaa75871876dbefdc6f6ff98",
+              "sha256": "f4966f3e986af6f41f1690f9530f0c9940cb04ffc900915d21bdd0e18c6d8da0",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N19_BLUE_ARCHIVE_EVENT_839_CONTEXTUALIZATION_CHECKPOINT.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Retain actual medication and uncertain benefit, substitution report, proposed later dose and inquiry, Marina's request/refused rest, future convalescence and preview-only tail. Do not infer completed recovery or general consent.",
+            "this_lane_prior_actual_custody": {
+              "actual_custody": "ADEQUATE_PRIOR_COMPLETE_SUBSTANTIVE_NORMAL_ARGUMENT_AVAILABLE_NOT_USED_AS_A_GARDEN_APPEARANCE",
+              "personally_received_adequate_normal_physical_extents": [
+                [
+                  29,
+                  47
+                ],
+                [
+                  70,
+                  158
+                ]
+              ],
+              "actual_receiving_evidence": [
+                "Prior complete15normalmeanings in Genryumon scope receipt"
+              ],
+              "source_mode_and_authority_limit": "No inferred institution action from school label; no fresh whole body replay"
+            },
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Kisaki uncertain care benefit, actual rest request/refusal/promise, suspected substitution and preview bounds.",
+            "actual_author_literary_custody": {
+              "prior_ranges": [
+                [
+                  29,
+                  47
+                ],
+                [
+                  70,
+                  158
+                ]
+              ],
+              "fresh_lines": [
+                82,
+                112,
+                116,
+                118,
+                120,
+                128,
+                132,
+                134,
+                136,
+                140,
+                148,
+                150,
+                152,
+                154,
+                156,
+                158
+              ],
+              "actual_receiving": [
+                "Prior complete substantive70–158/current29–47 personally received",
+                "c9f8c7 full listed consequential paragraphs"
+              ],
+              "limit": "Actual116 Saya→Kisaki; no direct Saya→Marina medicine/rest claim. Preview015 stays preview, no new original replay.",
+              "status": "ADEQUATE_COMPLETE_RELEVANT_ACCEPTED_NORMAL_MEANINGS_AT_ACTUAL_EXTENTS"
+            }
+          },
+          {
+            "byte_count": 30602,
+            "line_count": 149,
+            "sha256": "a1fb6c0af2aa8b2e293208bbe0ecdb7638aece543487fcf838f790ffbbd8dc97",
+            "actual_byte_blob_oid": "54bbf27e8b011bba415d4bbfb0a61499bf2ada92",
+            "source_id": "N20",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_840/BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+            "published_base_blob_oid": "54bbf27e8b011bba415d4bbfb0a61499bf2ada92",
+            "main_comparand": {
+              "blob_oid": "54bbf27e8b011bba415d4bbfb0a61499bf2ada92",
+              "sha256": "a1fb6c0af2aa8b2e293208bbe0ecdb7638aece543487fcf838f790ffbbd8dc97",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N20_BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Compare requested remedy and actual release with Kai's coercive method and case reduction, Saya's technical proximity plus explicit method refusal, teacher trouble admission, capture and actual festival end; avoid certification of either technique.",
+            "this_lane_prior_actual_custody": {
+              "actual_custody": "ADEQUATE_PRIOR_COMPLETE_SUBSTANTIVE_NORMAL_ARGUMENT",
+              "personally_received_adequate_normal_physical_extents": [
+                [
+                  29,
+                  47
+                ],
+                [
+                  65,
+                  149
+                ]
+              ],
+              "actual_receiving_evidence": [
+                "Prior complete17normalmeanings in Genryumon scope receipt",
+                "988db5 fresh90–125"
+              ],
+              "source_mode_and_authority_limit": "No whole17newprimary or technical/clinical success credit"
+            },
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Kai cases/coercive antidote terms, Kisaki refusal, actual Saya release and explicit requested-remedy contrast with incomplete recovery.",
+            "actual_author_literary_custody": {
+              "prior_ranges": [
+                [
+                  29,
+                  47
+                ],
+                [
+                  65,
+                  149
+                ]
+              ],
+              "fresh_ranges": [
+                [
+                  121,
+                  149
+                ]
+              ],
+              "fresh_lines": [
+                86,
+                88,
+                100,
+                102,
+                104,
+                106,
+                111,
+                114,
+                116
+              ],
+              "actual_receiving": [
+                "Prior complete substantive65–149/current29–47 personally received",
+                "988db5 prior90–125",
+                "c9f8c7 complete listed paragraphs and121–149EOF"
+              ],
+              "limit": "Complete current literary meanings at scoped custody, not fresh whole149 annex/header or original corpus.",
+              "status": "ADEQUATE_COMPLETE_RELEVANT_ACCEPTED_NORMAL_MEANINGS_AT_ACTUAL_EXTENTS"
+            }
+          },
+          {
+            "byte_count": 38768,
+            "line_count": 167,
+            "sha256": "05ff9e56135ff5d1535d4bb2196a93f09fef0ca99fb7503f15f9ddd3fd54fa86",
+            "actual_byte_blob_oid": "99b6b100bbe3f523338af7c70c22b6c59b11bfb9",
+            "source_id": "N21",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_859/BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md",
+            "published_base_blob_oid": "99b6b100bbe3f523338af7c70c22b6c59b11bfb9",
+            "main_comparand": {
+              "blob_oid": "99b6b100bbe3f523338af7c70c22b6c59b11bfb9",
+              "sha256": "05ff9e56135ff5d1535d4bb2196a93f09fef0ca99fb7503f15f9ddd3fd54fa86",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N21_BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Receive complete relevant Saya/Kisaki/peer recipient meanings and endings: late medication differs from never medicated; call/reprimand differs from future checkup, adherence or cure; Shun reversal remains attributed report.",
+            "this_lane_prior_actual_custody": {
+              "actual_custody": "PERSONALLY_COMPLETE_SUBSTANTIVE_NORMAL_ARGUMENT_WITH_FRESH_INSTITUTION_PRECISION_REFRESH",
+              "personally_received_adequate_normal_physical_extents": [
+                [
+                  29,
+                  47
+                ],
+                [
+                  65,
+                  167
+                ]
+              ],
+              "actual_receiving_evidence": [
+                "Prior complete14meanings/current source controls",
+                "0923d7 fresh65–119",
+                "a5a43a fresh120–167EOF"
+              ],
+              "source_mode_and_authority_limit": "No fresh whole14canonical credit; individual child claims use disclosed necessary bounded observations"
+            },
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Reported reversal, Kisaki late medicine/energy/company, unprinted next doctor/adherence/illness cure.",
+            "actual_author_literary_custody": {
+              "prior_ranges": [
+                [
+                  29,
+                  47
+                ],
+                [
+                  65,
+                  167
+                ]
+              ],
+              "fresh_lines": [
+                120,
+                131,
+                133,
+                142,
+                144,
+                147,
+                149,
+                151,
+                153,
+                155,
+                157,
+                159,
+                161,
+                163,
+                165,
+                167
+              ],
+              "actual_receiving": [
+                "0923d7/a5a43a prior complete substantive65–167/current29–47",
+                "846073 full listed consequential paragraphs"
+              ],
+              "limit": "Report qualifiers retained; late medicine is not never-taken medicine; no fresh whole167 original credit.",
+              "status": "ADEQUATE_COMPLETE_RELEVANT_ACCEPTED_NORMAL_MEANINGS_AT_ACTUAL_EXTENTS"
+            }
+          },
+          {
+            "byte_count": 20799,
+            "line_count": 133,
+            "sha256": "316a2761199732a5c0055ba67f610cc0ac2192da4d29c5b46cf1c5cd279b56fb",
+            "actual_byte_blob_oid": "f419295b45330ccfc5022601d129bff061507fc1",
+            "source_id": "N22",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2601_2602_DEEP_READING.md",
+            "published_base_blob_oid": "f419295b45330ccfc5022601d129bff061507fc1",
+            "main_comparand": {
+              "blob_oid": "f419295b45330ccfc5022601d129bff061507fc1",
+              "sha256": "316a2761199732a5c0055ba67f610cc0ac2192da4d29c5b46cf1c5cd279b56fb",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N22_BLUE_ARCHIVE_GROUP_2601_2602_DEEP_READING.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Contextual counterpart comparison only. No anonymous participant is joined to Saya or Nezusuke and this owner alone establishes no direct Saya attendance.",
+            "this_lane_prior_actual_custody": {
+              "actual_custody": "PERSONALLY_COMPLETE_SUBSTANTIVE_NORMAL_ARGUMENT",
+              "personally_received_adequate_normal_physical_extents": [
+                [
+                  39,
+                  133
+                ]
+              ],
+              "actual_receiving_evidence": [
+                "Prior complete two meanings",
+                "769f55 fresh39–133EOF"
+              ],
+              "source_mode_and_authority_limit": "Not a fresh whole source pair/raw/actor proof receipt; local children unjoined"
+            },
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Contextual institutional capacity comparison only.",
+            "actual_author_literary_custody": {
+              "prior_ranges": [
+                [
+                  39,
+                  133
+                ]
+              ],
+              "fresh_ranges": [],
+              "actual_receiving": [
+                "769f55 personally complete substantive39–133"
+              ],
+              "limit": "Institutional context only; no direct Saya appearance, care, or new MAIN absence claim.",
+              "status": "ADEQUATE_COMPLETE_RELEVANT_ACCEPTED_NORMAL_MEANINGS_AT_ACTUAL_EXTENTS"
+            }
+          },
+          {
+            "byte_count": 31969,
+            "line_count": 188,
+            "sha256": "ff1752082d3d7c96246c8c169967045cb4e20204c07ea4019eced928aaed906e",
+            "actual_byte_blob_oid": "6c498e138ba8daa74bfa4cc3614a10fa2cdd6fe7",
+            "source_id": "N23",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md",
+            "published_base_blob_oid": "6c498e138ba8daa74bfa4cc3614a10fa2cdd6fe7",
+            "main_comparand": {
+              "blob_oid": "6c498e138ba8daa74bfa4cc3614a10fa2cdd6fe7",
+              "sha256": "ff1752082d3d7c96246c8c169967045cb4e20204c07ea4019eced928aaed906e",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N23_BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Use complete relevant teacher/child recipient and ending meanings; height-related Saya request/efficacy here remains Kokona's rumor testimony, not direct Saya speech, attendance or independently observed power.",
+            "this_lane_prior_actual_custody": {
+              "actual_custody": "ADEQUATE_PRIOR_COMPLETE_SUBSTANTIVE_NORMAL_ARGUMENT_WITH_FRESH_CHILD_ENDPOINT_REFRESH",
+              "personally_received_adequate_normal_physical_extents": [
+                [
+                  39,
+                  188
+                ]
+              ],
+              "actual_receiving_evidence": [
+                "Prior complete three meanings",
+                "a3e148 fresh89–119"
+              ],
+              "source_mode_and_authority_limit": "No all3primary/native/performed credit; specialist/choice/child seams retained"
+            },
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Children/rest/allowed activity and height-request rumor versus actual Saya action.",
+            "actual_author_literary_custody": {
+              "prior_ranges": [
+                [
+                  39,
+                  188
+                ]
+              ],
+              "fresh_ranges": [
+                [
+                  89,
+                  119
+                ]
+              ],
+              "actual_receiving": [
+                "Personally complete substantive39–188",
+                "a3e148 prior89–119 refresh",
+                "846073 complete89–119 refresh"
+              ],
+              "limit": "Saya height claim is Kokona-carried rumor; no direct attendance, actual request, or efficacy inferred.",
+              "status": "ADEQUATE_COMPLETE_RELEVANT_ACCEPTED_NORMAL_MEANINGS_AT_ACTUAL_EXTENTS"
+            }
+          },
+          {
+            "byte_count": 3387,
+            "line_count": 32,
+            "sha256": "adb61ebf9b84e3ca80b63ff45134ffed027b060b0a8fe252bc723a00bb453c1b",
+            "actual_byte_blob_oid": "881ca30c257e77d4b9eaa9808f0a6c896d29e24d",
+            "source_id": "N24",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E007_DEEP_READING.md",
+            "published_base_blob_oid": "881ca30c257e77d4b9eaa9808f0a6c896d29e24d",
+            "main_comparand": {
+              "blob_oid": "881ca30c257e77d4b9eaa9808f0a6c896d29e24d",
+              "sha256": "adb61ebf9b84e3ca80b63ff45134ffed027b060b0a8fe252bc723a00bb453c1b",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N24_BLUE_ARCHIVE_MAIN_V100_C002_E007_DEEP_READING.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Previously received local MAIN context may supply institutional peer/end limits only if consequential. Do not manufacture a direct Saya identity/attendance from generic shopkeeper, student or executive roles. No MAIN-wide absence conclusion follows.",
+            "this_lane_prior_actual_custody": {
+              "actual_custody": "PERSONALLY_COMPLETE_SMALL_MAIN_NORMAL_ARGUMENT",
+              "personally_received_adequate_normal_physical_extents": [
+                [
+                  1,
+                  32
+                ]
+              ],
+              "actual_receiving_evidence": [
+                "Prior complete32-line current meaning",
+                "d1072b fresh1–32EOF"
+              ],
+              "source_mode_and_authority_limit": "Shun defense/evacuation order and Kokona acceptance, no completed evacuation; old progress/sidebar controls remain dated, not current census"
+            },
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Bounded Final institutional context only, not a proxy Saya witness.",
+            "actual_author_literary_custody": {
+              "prior_ranges": [
+                [
+                  1,
+                  32
+                ]
+              ],
+              "fresh_ranges": [],
+              "actual_receiving": [
+                "d1072b personally whole1–32EOF"
+              ],
+              "limit": "Source-local Shanhaijing Final context only, no Saya attendance, generic actor joins, or institution-wide MAIN census.",
+              "status": "ADEQUATE_COMPLETE_RELEVANT_ACCEPTED_NORMAL_MEANINGS_AT_ACTUAL_EXTENTS"
+            }
+          },
+          {
+            "byte_count": 8079,
+            "line_count": 68,
+            "sha256": "1ce9975f54ff799e49635a73e12789339b95ce87636bb890ad9fe90527392b3f",
+            "actual_byte_blob_oid": "5371ae7f46584a7d3a5302c9842850697e63107b",
+            "source_id": "N25",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_028_80000028_DEEP_READING.md",
+            "published_base_blob_oid": "5371ae7f46584a7d3a5302c9842850697e63107b",
+            "main_comparand": {
+              "blob_oid": "5371ae7f46584a7d3a5302c9842850697e63107b",
+              "sha256": "1ce9975f54ff799e49635a73e12789339b95ce87636bb890ad9fe90527392b3f",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N25_BLUE_ARCHIVE_EVENT_810_EPISODE_028_80000028_DEEP_READING.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Receive the complete individual gift argument, all options and final examination proposal: intended gift/experiment, drink choice, side-effect disclosure after objection, product failure/apology/dislike and awkward remainder. Preserve unperformed examination.",
+            "this_lane_prior_actual_custody": null,
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Whole failed chocolate gift, late bodily-effect disclosure, actual drink/objection and unperformed examination, carrier mismatch.",
+            "actual_author_literary_custody": {
+              "prior_null_own_custody_honored": true,
+              "fresh_ranges": [
+                [
+                  1,
+                  68
+                ]
+              ],
+              "actual_receiving": [
+                "e072d7 whole1–68EOF"
+              ],
+              "status": "COMPLETE_PERSONALLY_RECEIVED_ACCEPTED_ANALYTICAL_ARGUMENT_THROUGH_EOF",
+              "limit": "No new original producer primary/native/raw QA/AV/source admission credit; complete argument is not independent primary witness."
+            }
+          },
+          {
+            "byte_count": 46462,
+            "line_count": 316,
+            "sha256": "b5a86050b0f78e343e39499b7b1766b474a9ec106a0215279caff72589fe9353",
+            "actual_byte_blob_oid": "13b90d6ccfe8df728be0e963cfb8c62c0116f2c2",
+            "source_id": "N26",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "published_base_blob_oid": "13b90d6ccfe8df728be0e963cfb8c62c0116f2c2",
+            "main_comparand": {
+              "blob_oid": "13b90d6ccfe8df728be0e963cfb8c62c0116f2c2",
+              "sha256": "b5a86050b0f78e343e39499b7b1766b474a9ec106a0215279caff72589fe9353",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N26_BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Read only actual current admission/override and relevant Saya gift judgement, qualified by the whole individual68-line argument. Old database-table witness and current class canonical SHA are different kinds; no inferred equivalence or whole316 meaning credit.",
+            "this_lane_prior_actual_custody": {
+              "actual_custody": "METADATA_AND_ADMISSION_NAVIGATION_ONLY",
+              "personally_received_adequate_normal_physical_extents": [],
+              "actual_receiving_evidence": [
+                "Exact small bound comparison metadata and current admission route"
+              ],
+              "source_mode_and_authority_limit": "No personally complete316line or all101gift literary receiving claimed"
+            },
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Operative current admission/gift override and exact recipient/choice distinctions.",
+            "actual_author_literary_custody": {
+              "prior_ranges": [],
+              "fresh_ranges": [
+                [
+                  110,
+                  143
+                ],
+                [
+                  278,
+                  296
+                ]
+              ],
+              "actual_receiving": [
+                "e072d7 complete physical110–143 and278–296"
+              ],
+              "limit": "Actual current override/current gift meanings only, not a whole316 argument or all93 gift primary credit.",
+              "status": "ADEQUATE_COMPLETE_RELEVANT_ACCEPTED_NORMAL_MEANINGS_AT_ACTUAL_EXTENTS"
+            }
+          },
+          {
+            "byte_count": 93829,
+            "line_count": 344,
+            "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+            "actual_byte_blob_oid": "512a08b30bfa91dee27087fd743809dc8aa30b98",
+            "source_id": "N27",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+            "published_base_blob_oid": "512a08b30bfa91dee27087fd743809dc8aa30b98",
+            "main_comparand": {
+              "blob_oid": "512a08b30bfa91dee27087fd743809dc8aa30b98",
+              "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+              "same_bytes": true
+            },
+            "C_bound_copy": "bound_source_inputs/N27_BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+            "actual_custody_at_binding": "TRANSPORT_AND_METADATA_ONLY_NOT_NEW_LITERARY_RECEIVING",
+            "planned_question": "Receive complete §7 birthday sequence at154–164 including actual end. Distributed phone/Chinatsu mediation, cake exchange, party and teacher's later pain differ from proposed karaoke and universal food consumption/protocol claims.",
+            "this_lane_prior_actual_custody": null,
+            "bound_transport_credit": "ZERO_NEW_ORIGINAL_PRIMARY_RAW_NATIVE_QA_AV_MODEL_IDENTITY_INDEPENDENCE",
+            "literary_purpose": "Complete birthday sequence: telephone route, independent planners/objections, agreed karaoke/completed party, uninspected songs/pain.",
+            "actual_author_literary_custody": {
+              "prior_ranges": [],
+              "fresh_ranges": [
+                [
+                  154,
+                  164
+                ]
+              ],
+              "actual_receiving": [
+                "e072d7 complete §7 physical154–164",
+                "73412d consequential156/158/160/162/164 precision refresh"
+              ],
+              "limit": "Complete birthday section for05010/020/030, not whole344 MINI32, all32primary, or inspected performed song.",
+              "status": "ADEQUATE_COMPLETE_RELEVANT_ACCEPTED_NORMAL_MEANINGS_AT_ACTUAL_EXTENTS"
+            }
+          }
+        ],
+        "historical_metadata_controls": [
+          {
+            "byte_count": 52261,
+            "line_count": 851,
+            "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+            "actual_byte_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+            "source_id": "C01",
+            "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+            "source_published_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+            "C_bound_copy": "bound_source_inputs/C01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+            "actual_custody": "HISTORICAL_BF5_APPLICABLE_CONTROL_OR_SELECTED_SCOPE_ONLY; CURRENT_METADATA_MAY_ADVANCE"
+          },
+          {
+            "byte_count": 79178,
+            "line_count": 354,
+            "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+            "actual_byte_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+            "source_id": "C03",
+            "repository_relative_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+            "source_published_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+            "C_bound_copy": "bound_source_inputs/C03_BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+            "actual_custody": "HISTORICAL_BF5_APPLICABLE_CONTROL_OR_SELECTED_SCOPE_ONLY; CURRENT_METADATA_MAY_ADVANCE"
+          },
+          {
+            "byte_count": 19463,
+            "line_count": 113,
+            "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+            "actual_byte_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+            "source_id": "C04",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+            "source_published_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+            "C_bound_copy": "bound_source_inputs/C04_BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+            "actual_custody": "HISTORICAL_BF5_APPLICABLE_CONTROL_OR_SELECTED_SCOPE_ONLY; CURRENT_METADATA_MAY_ADVANCE"
+          },
+          {
+            "byte_count": 101490,
+            "line_count": 356,
+            "sha256": "58a0e1a40b90df7cacd2be367ff70861d6a0f1428c210a5397c30d0529a7b2d6",
+            "actual_byte_blob_oid": "3724558641d26d195f896f26843a911f1690da16",
+            "source_id": "C05",
+            "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+            "source_published_blob_oid": "3724558641d26d195f896f26843a911f1690da16",
+            "C_bound_copy": "bound_source_inputs/C05_BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+            "actual_custody": "HISTORICAL_BF5_APPLICABLE_CONTROL_OR_SELECTED_SCOPE_ONLY; CURRENT_METADATA_MAY_ADVANCE"
+          },
+          {
+            "byte_count": 461112,
+            "line_count": 6514,
+            "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+            "actual_byte_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1",
+            "source_id": "C06",
+            "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+            "source_published_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1",
+            "C_bound_copy": "bound_source_inputs/C06_BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+            "actual_custody": "HISTORICAL_BF5_APPLICABLE_CONTROL_OR_SELECTED_SCOPE_ONLY; CURRENT_METADATA_MAY_ADVANCE"
+          },
+          {
+            "byte_count": 10470,
+            "line_count": 30,
+            "sha256": "8c09de883e7ab0de7b420a03bba82c131662c38ecddf8f65676171b6366064cb",
+            "actual_byte_blob_oid": "47803525ec606833e669df46ab67b4a91e7d7a85",
+            "source_id": "C07",
+            "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_MANDATORY_NAMED_SECTION_INDEX_V3.csv",
+            "source_published_blob_oid": "47803525ec606833e669df46ab67b4a91e7d7a85",
+            "C_bound_copy": "bound_source_inputs/C07_BLUE_ARCHIVE_PHASE3_MANDATORY_NAMED_SECTION_INDEX_V3.csv",
+            "actual_custody": "HISTORICAL_BF5_APPLICABLE_CONTROL_OR_SELECTED_SCOPE_ONLY; CURRENT_METADATA_MAY_ADVANCE"
+          }
+        ],
+        "current_admission_authority": "Cycle008 owns selected3940 supplemental admission. No older producer proposal/pending text converts current accepted meanings into globally unread sources.",
+        "private_actual_new_receiving": "N02–N16 all whole arguments personally received through EOF after their initial null custody; N25 whole68/N27 whole§7/N26 actual bounded override received before claims. This is analytical receiving, not new source admission or original replay.",
+        "directed_questions_and_actual_bounds": [
+          {
+            "question": "Saya→Sensei: compare invited participation, reply choices, undisclosed use, side-effect disclosure after objection, failed gift/apology and unperformed examination; keep Sensei's independently answering position.",
+            "substantial_body": [
+              "SR024",
+              "SR029",
+              "SR030",
+              "SR031",
+              "SR041",
+              "SR046",
+              "SR048"
+            ],
+            "bounds": "Sensei responses are alternatives where marked; later drinking is not earlier informed assent; examination remains proposed."
+          },
+          {
+            "question": "Saya→Nezusuke and Nezusuke→Saya: distinguish care/control, dosing/restraint, fur/gold mistakes, asserted usefulness and actual recipient response; motive access and ontology remain limited.",
+            "substantial_body": [
+              "SR006",
+              "SR007",
+              "SR020",
+              "SR032",
+              "SR047"
+            ],
+            "bounds": "Experimental dosing and nonreply/fear retained; source-local nonhuman representation and translated sounds do not yield new person ontology, species, or full motive access."
+          },
+          {
+            "question": "Saya→Shun/Kokona: differentiate wished restoration, forced proposal, actual restraint/lecture, chosen later return, apology/qualified forgiveness and height-request rumor testimony.",
+            "substantial_body": [
+              "SR017",
+              "SR025",
+              "SR036",
+              "SR049"
+            ],
+            "bounds": "Saya→Shun actual intervention/request distinction. Kokona height claim remains rumor, no witnessed Saya attendance; Shun–Kokona and10144 distinct."
+          },
+          {
+            "question": "Saya→Kisaki/Rumi/Marina and cross-school mediators: differentiate each request/refusal, actual medication/intervention/meal/rest, late treatment, promised next care and unprinted adherence/recovery; no collective assent.",
+            "substantial_body": [
+              "SR008",
+              "SR009",
+              "SR015",
+              "SR026",
+              "SR027",
+              "SR028",
+              "SR034",
+              "SR035"
+            ],
+            "bounds": "Operate the precise N19 correction: Saya requests rest from Kisaki, not Marina. Local food assent, terms refusal, late medication and telephone connection differ; no all-participant assent/adherence/cure."
+          },
+          {
+            "question": "Saya↔Kai directed comparison: technical proximity and rejected means require full actual contrasting access/coercion/outcomes. Do not make Kai's substantial public comparison her character monograph or private numeric eligibility.",
+            "substantial_body": [
+              "SR016",
+              "SR027",
+              "SR037",
+              "SR050"
+            ],
+            "bounds": "Kai comparison owns these full consequential public meanings only; no Kai character/private completion or safe Saya certification."
+          },
+          {
+            "question": "Recipient correction and accountability: compare actual local objection/apology/release or result with claims, promises and incomplete aftermath; no happy ending erases imposed use.",
+            "substantial_body": [
+              "SR001",
+              "SR004",
+              "SR006",
+              "SR019",
+              "SR022",
+              "SR023",
+              "SR042",
+              "SR054"
+            ],
+            "bounds": "Achieved local objection/work/release/party differentiated from promises, technical assertions, delayed illness/repair and all unprinted accountability."
+          }
+        ],
+        "operative_source_plan_precision_qualifications": [
+          {
+            "qualification_id": "SQ01",
+            "preserved_original": "Frozen plan N19 wording includes Marina rest/request context; original bytes unchanged.",
+            "operative_meaning": "Actual current N19L116 Saya asks Kisaki to rest; Kisaki refuses while current visitors remain and promises later convalescence. No direct Saya→Marina medicine/rest claim from this passage.",
+            "actual_receiving": "c9f8c7 current complete116; ROOT acknowledged operative actor distinction; no originalplan edit or count.",
+            "body_witness": [
+              "SR026",
+              "SR035",
+              "SR053"
+            ],
+            "source_id": "N19",
+            "physical_lines": [
+              116
+            ]
+          },
+          {
+            "qualification_id": "SQ02",
+            "preserved_original": "Historical planning shorthand about no performed karaoke remains bounded; source was freshly received at actual§7 before claims.",
+            "operative_meaning": "N27L162 prints eventual agreement and successfully ended party. An actual song/performed singing has not been inspected; this does not deny the completed party or agreed activity.",
+            "actual_receiving": "e072d7 whole154–164/73412d full162",
+            "body_witness": [
+              "SR009",
+              "SR039",
+              "SR053"
+            ],
+            "source_id": "N27",
+            "physical_lines": [
+              158,
+              162,
+              164
+            ]
+          }
+        ],
+        "overlap_controls": [
+          "Saya character is a distinct frozen/ROOT accepted portrait, reused only as secondary navigation/revision context, not independent source or this relationship completion.",
+          "Shun–Kokona belongs to sibling author; Mina–Reijo belongs to ROOT. Meihua/three-child, Genryumon, Rumi named directions and Reijo–Kaguya remain separate duties.",
+          "Kai character/source-scoped eligibility and nonhuman ontology remain uncollapsed; a significant comparison does not multiply person/home counts.",
+          "No automatic standalone package per pair, co-occurrence, route count, institution label or ordinary stakes. This one exact355 home owns its full directed responsibility."
+        ],
+        "sibling_nonoverlap": [
+          {
+            "lane": "phase3_toki_monograph",
+            "reply": "No active/frozen Saya-recipient parent authorship; Saya character frozen separately; active Shun correction then Shun–Kokona directed home."
+          },
+          {
+            "lane": "phase3_main_reconciliation_review",
+            "reply": "No active/frozen Saya-recipient relationship authorship; fixed102–108 canonical transport includes Saya character without proxy relationship completion."
+          }
+        ],
+        "scope_preserved": {
+          "required_packages": 355,
+          "mandatory_named_duties": 29,
+          "distinct_named_parents": 25,
+          "home_objects": 384,
+          "this_home_required_count": 1,
+          "this_home_named_count": 0,
+          "scope_change": false
+        },
+        "credit_and_execution": {
+          "new_original_primary": 0,
+          "new_raw_native_QA": 0,
+          "new_performed": 0,
+          "new_source_admission": 0,
+          "new_model": 0,
+          "new_identity_or_subject": 0,
+          "new_independence": 0,
+          "self_ROOT_acceptance": false,
+          "canonical_or_package_count_claim": false,
+          "R_Git_provider_registry_writes": false,
+          "nine_UNBOUND_large_content_or_hash": false
+        },
+        "public_candidate_path_limit": "All paths in public-candidate receipts are relative to P, repository, or this packet. Explicit source files were stat-guarded below1MiB. ROOT public transport must translate links while preserving all author originals."
+      },
+      "historical_scope": "Complete immutable historical fields and coordinates; current acceptance and operative qualification govern."
+    }
+  ],
+  "no_new_literary_or_source_credit": 0
+}

@@ -1,0 +1,101 @@
+{
+  "schema": "konosuba.cohort51.exact-source-author-publication-gate.v1",
+  "status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+  "closed_utc": "2026-10-25T21:24:05.780215+00:00",
+  "gate_scope": "Reviewed artbook/fanbook author increment. Protected integration and the full corpus/program are separate responsibilities.",
+  "source": "87f93dab7b985d6b09acd94e9c33d34370a47c2f",
+  "tree": "759b0b7a9452a5f15ef80090d0c3eec4f9a4ac1c",
+  "parent": "6b35401cd14589c12bf332be8f8cb9df302fac4f",
+  "current_main_observed": "6b35401cd14589c12bf332be8f8cb9df302fac4f",
+  "pull_request": {
+    "number": 338,
+    "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/338",
+    "title": "Expand KonoSuba artbook and fanbook character studies",
+    "state": "open",
+    "merged": false,
+    "head": "87f93dab7b985d6b09acd94e9c33d34370a47c2f"
+  },
+  "author_preflight": {
+    "files": 10341,
+    "project_files": 1747,
+    "changed_paths": 27,
+    "sha256": "4ce1262e6d1c0911d13ed588cbf7f4025e7f40f221de1eb355f7e57b1353b67e"
+  },
+  "ordinary_push": {
+    "sha256": "6b4e0a3307949e8576c1b61a818fc75d8b7639f5fb23144db8977933d0b07b51",
+    "approved_authors_and_committers_verified": true,
+    "forced": false
+  },
+  "remote_readback": {
+    "files": 10341,
+    "project_files": 1747,
+    "all27_changed_streams_exact": true,
+    "sha256": "82c5d383b7c869273c459146d92289fe7bae97956f394f7690d3a9047238f597"
+  },
+  "actual_source_audit": {
+    "run": 40234232453,
+    "job": 121292244303,
+    "reporter_job": 121293986341,
+    "full_discovered_tests": 479,
+    "all5_non_success_zero": true,
+    "all_discovered_test_IDs_compared": true,
+    "latest_trusted_status": {
+      "id": 57217494556,
+      "context": "Repository integration audit",
+      "state": "success",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40234232453",
+      "updated_at": "2026-10-25T21:17:48Z"
+    },
+    "sha256": "8a74104a39e58b5c4b049a0d02915f31e9a3c6bb94f8f279e0bcb3a0baf9eee7"
+  },
+  "fresh_published_authority_reload": {
+    "sha256": "fdf21da8ef85a9ee3b8242091dd40ba6e0aff79f06543c0e5acfe0aa6ccad4b6",
+    "files": 1747,
+    "models": 71,
+    "preservation_checks": 229,
+    "fresh_full_EPUBs": 4,
+    "OPF_CRC_and46_native_image_bytes_exact": true
+  },
+  "earlier_accepted_main6b_own_full479_audit": {
+    "run": 40229312412,
+    "source": "6b35401cd14589c12bf332be8f8cb9df302fac4f",
+    "sha256": "21f119fc28242bdabc960e7548251677e62bd6ed9802a66c6f685fe4f0c6dc4c"
+  },
+  "received_increment": {
+    "new_source_access_records": 32,
+    "tier0": 28,
+    "bounded_profiles": 3,
+    "monograph_only": 1,
+    "new_models": 0,
+    "new_rules": 0,
+    "new_inputs": 0,
+    "new_original_firsts": 0,
+    "selected_art_reference_images": 46,
+    "prior_selected_branding_blank_representatives": 16,
+    "total_selected_unique_views": 62,
+    "complete_census_neighbor_records": 24
+  },
+  "current_totals": {
+    "models": 71,
+    "scoped_secondary_model_entries": 65,
+    "bounded_profile_passages": 216,
+    "monograph_only_source_studies": 65,
+    "nonfinal_source_access_records": 795
+  },
+  "six_additive_existing_source_supplements_and_all8_core_fields_preserved": true,
+  "other757_entering_rows_unchanged": true,
+  "historical19_plane_differences_exact": true,
+  "all_independent_counts_null": true,
+  "original_forecasts_models_responses_adverse_findings_scores_blanks_nulls_preserved": true,
+  "source_known_same_AI_lineage": true,
+  "independent_accuracy_or_grade_or_confidence_gain": 0,
+  "housekeeping": "No separate run is invented where routing was already materialized.",
+  "author_publication_tranche_complete": true,
+  "protected_integration_not_certified": true,
+  "broader_full_corpus_identity_audit_complete": false,
+  "final_census": false,
+  "final_tiers": false,
+  "unique_person_denominator": null,
+  "global_completion_percentage": null,
+  "full_program_complete": false
+}

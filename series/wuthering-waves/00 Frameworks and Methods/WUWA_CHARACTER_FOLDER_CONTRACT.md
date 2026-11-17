@@ -19,6 +19,25 @@ The contract standardizes **analytical responsibilities**, not an identical mand
 
 No empty monograph, model, or ledger may be created merely to instantiate a filename.
 
+## Artifact-class topology and first-read routing
+
+Keep genuine character-local routing/control surfaces at the character root. For an owner-adopted/current packet, `WUWA_<CHARACTER>_CURRENT_STATE.md` is the primary current entrypoint; retain its root `ANALYSIS_PACKET_README` when it independently owns the packet manifest, provenance, or navigation. For a `draft_noncurrent` packet without a current router, its root packet README is the bounded entrypoint. Do not invent a current router or generic character README for symmetry.
+
+Populate only the classes warranted by existing work:
+
+| Character-local class | Analytical responsibility |
+|---|---|
+| `01 Evidence and Source-Facing/` | Source-facing deep dives, specialist profiles, evidence/falsification and claim/counterevidence ledgers, relationship/state evidence, ordinary-life analysis, and non-AV evidence identities |
+| `02 Reconstruction/` | Compiled reconstructive profiles, character models, decision policies, and bounded unfamiliar-situation models |
+| `03 Audiovisual and Voice/` | Visual-design profiles/manifests, speech/performance work, machine-audio interpretation and cohorts, AV retrieval plans/joins, and modality-specific reproduction tooling |
+| `04 Validation and Readiness/` | Fidelity and stress tests, source/identity/chronology or comparability audits, claim revisions, prior-generation reconciliation, integrity/readiness records, and packet-wide validators |
+| `05 Integrated Synthesis/` | Genuinely integrated character monographs or independently justified synthesis |
+| `90 Legacy and Superseded/` | Existing materially distinct retired analysis; preserve its established identity and noncurrent veto |
+
+Classify by actual responsibility, front matter, contents, and dependency role rather than filename alone. A source-facing discussion of performance or a character's own counterfactual judgment is not automatically a modality analysis or a compiled counterfactual model. An audio audit belongs in validation when certification is its principal responsibility. Directory location never establishes or promotes authority.
+
+Do not create empty classes or placeholder artifacts. A minimal packet with only one or two populated classes remains valid. Deeper subdivision is permitted when a large class materially benefits from it: Sigrika's `03 Audiovisual and Voice/` separates `Profiles and Plans/`, `Machine Evidence and Manifests/`, and `Tooling and Reproduction/`; smaller packets need not copy that layer. Keep historical delivery/import member paths and checksums as transaction evidence, and use explicit current-path routing instead of falsifying their original locations.
+
 ## Packet authority and generation contract
 
 Substantial owner-accepted character syntheses and profiles are current `active_provisional` authority within their declared text/audio scope. An incomplete audiovisual pass limits AV-dependent claims; it does not make the whole packet noncurrent. Generate the complete quartet:
@@ -150,7 +169,8 @@ A legitimate minimal package may be:
 
 ```text
 <Character>/
-└── WUWA_<CHARACTER>_CHARACTER_MONOGRAPH.md
+└── 05 Integrated Synthesis/
+    └── WUWA_<CHARACTER>_CHARACTER_MONOGRAPH.md
 ```
 
 A reconstruction-oriented package may contain every role above. Split only when the independent document will be maintained as a canonical topical home.

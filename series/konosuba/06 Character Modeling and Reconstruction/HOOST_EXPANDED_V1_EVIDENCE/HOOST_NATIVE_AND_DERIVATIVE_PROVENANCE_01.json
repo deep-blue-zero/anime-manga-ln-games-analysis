@@ -1,0 +1,390 @@
+{
+  "schema": "KONOSUBA_HOOST_NATIVE_AND_DERIVATIVE_PROVENANCE_V1",
+  "recorded_utc": "2026-10-20T04:04:34.775515+00:00",
+  "baseline_published_source": "673227da7aebc30b698cdef2ac065f643a862f57",
+  "sources": [
+    {
+      "source_id": "EXP-01",
+      "native_bytes": 19168549,
+      "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "canonical_component_register": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V01_COMPONENT_REGISTER.json",
+      "canonical_component_register_sha256": "28bbfa4f4a7914cf1e4318230a810855f97eb13f071e99237a09e086ae2ea2be",
+      "verification": "EXP01 exact prior native/image receiving reused; EXP03 current native identity/ZIP CRC/raw member-to-BASE arrays PASS. No new admission."
+    },
+    {
+      "source_id": "EXP-03",
+      "native_bytes": 15716486,
+      "native_sha256": "22ee64b90d10075eec3769137e07bd59ee1815e22eb14f552326e9f4a06ffd87",
+      "canonical_component_register": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V03_COMPONENT_REGISTER.json",
+      "canonical_component_register_sha256": "27a4589a38bfb63773448a7579e4236bf8f868636afa89bfded94bc9f3aad4e6",
+      "verification": "EXP01 exact prior native/image receiving reused; EXP03 current native identity/ZIP CRC/raw member-to-BASE arrays PASS. No new admission."
+    }
+  ],
+  "reused_EXP01_prior_actual_visual_receiving": [
+    {
+      "original_current_receiving_record_sha256": "17fe1f0ec20855c319e372c5766cb76b8795451c1932d6f9857b460b2cc4891a",
+      "group": "EXP01-INTERLUDE-I",
+      "title": "解けないパズルと邪神の封印",
+      "actual_images_viewed_at_original_resolution": [
+        "EXP-01-IMG026",
+        "EXP-01-IMG027",
+        "EXP-01-IMG028"
+      ],
+      "native_image_pins": [
+        {
+          "image_id": "EXP-01-IMG026",
+          "member": "item/image/img-txt001.jpg",
+          "sha256": "d2b2e5a4f313695ae5c8dd72c22c8644cf909eb54a790a378e1336922055495a"
+        },
+        {
+          "image_id": "EXP-01-IMG027",
+          "member": "item/image/img-txt002.jpg",
+          "sha256": "a7ce68929b767a8ea7ee3ab464660fc810d070f96ddc38c20bf423959751be8f"
+        },
+        {
+          "image_id": "EXP-01-IMG028",
+          "member": "item/image/img-txt003.jpg",
+          "sha256": "52d8b02e354aba1cfc9b3b530910f56ef5ed6536ba481dc4ee38e3a4f2ec2375"
+        }
+      ],
+      "source_plane": "Komekko first-person integral image prose; decorative background and physical writing remain separate."
+    },
+    {
+      "original_current_receiving_record_sha256": "357792422e8c30cdef1218ec6316a4311c60186aa5d18aab6246c02f047d8ab5",
+      "group": "EXP01-INTERLUDE-II",
+      "title": "こめっこさんとホースト様",
+      "actual_images_viewed_at_original_resolution": [
+        "EXP-01-IMG029",
+        "EXP-01-IMG030",
+        "EXP-01-IMG031"
+      ],
+      "native_image_pins": [
+        {
+          "image_id": "EXP-01-IMG029",
+          "member": "item/image/img-txt004.jpg",
+          "sha256": "7c08b4ed39ab5265853394482a628b6c449a40683a88c2414bbbca8edda438e1"
+        },
+        {
+          "image_id": "EXP-01-IMG030",
+          "member": "item/image/img-txt005.jpg",
+          "sha256": "2551e07e640d087beabcecf57913dd009f6747b27c1e5e8dd45543fc83811b52"
+        },
+        {
+          "image_id": "EXP-01-IMG031",
+          "member": "item/image/img-txt006.jpg",
+          "sha256": "41ed02765e744aa5aa7cc2211650719c9526ec1017a88d37f060ef403ab36600"
+        }
+      ],
+      "source_plane": "Komekko first-person integral image prose; reported background and actual current choices remain separate. No physical handwriting act is inferred."
+    },
+    {
+      "original_current_receiving_record_sha256": "c725b241a774642fbf0406ad7da2a85f65128dedf75e8462e9f8d1f2c82c51c0",
+      "group": "EXP01-INTERLUDE-III",
+      "title": "紅魔族随一の魔性の妹",
+      "actual_images_viewed_at_original_resolution": [
+        "EXP-01-IMG032",
+        "EXP-01-IMG033",
+        "EXP-01-IMG034",
+        "EXP-01-IMG035"
+      ],
+      "native_image_pins": [
+        {
+          "image_id": "EXP-01-IMG032",
+          "member": "item/image/img-txt007.jpg",
+          "sha256": "6f5c1865aa4913769b0e490f4ce3fe4a615a9e74e7bae571122ea91799a5a031"
+        },
+        {
+          "image_id": "EXP-01-IMG033",
+          "member": "item/image/img-txt008.jpg",
+          "sha256": "5531444956a97b76e44e972cb598674cbb6a14400bd707131530c78fb450ac3f"
+        },
+        {
+          "image_id": "EXP-01-IMG034",
+          "member": "item/image/img-txt009.jpg",
+          "sha256": "a255bd82eab9d4786002bc4f2be24ffef92e615298911ca2c3d05c5bf2f83d19"
+        },
+        {
+          "image_id": "EXP-01-IMG035",
+          "member": "item/image/img-txt010.jpg",
+          "sha256": "9e39591571389d13f268ab841c5bf01582ae60c5f2cb27e012fe1eaa71bb48fb"
+        }
+      ],
+      "source_plane": "Komekko first-person integral image prose. Decorative Megumin background is not a separate performed event or viewpoint; no physical writing act is inferred."
+    },
+    {
+      "original_current_receiving_record_sha256": "d6bcd705d656270f9934e15baa9596a760fa269d13ee3ca49c18ba85183fe36f",
+      "group": "EXP01-INTERLUDE-IV",
+      "title": "この里の少女に親子丼を",
+      "actual_images_viewed_at_original_resolution": [
+        "EXP-01-IMG036",
+        "EXP-01-IMG037",
+        "EXP-01-IMG038",
+        "EXP-01-IMG039"
+      ],
+      "native_image_pins": [
+        {
+          "image_id": "EXP-01-IMG036",
+          "member": "item/image/img-txt011.jpg",
+          "sha256": "bdb0919296142d348ee530d17a70ad9fe203f910c7a33f79f7fd313532c8556f"
+        },
+        {
+          "image_id": "EXP-01-IMG037",
+          "member": "item/image/img-txt012.jpg",
+          "sha256": "521d5127232125040bd97003c39d87be492f630f2b488015d5f625822a8b7fd9"
+        },
+        {
+          "image_id": "EXP-01-IMG038",
+          "member": "item/image/img-txt013.jpg",
+          "sha256": "67a85ba56e7d9bc21e79f8cfc768736d30d85f8cdce0fc017b3b847063d3e68d"
+        },
+        {
+          "image_id": "EXP-01-IMG039",
+          "member": "item/image/img-txt014.jpg",
+          "sha256": "030d1f77ea73bca2a1f85cf587274f229417660e841809f3f6ad08810f1e356c"
+        }
+      ],
+      "source_plane": "Komekko first-person integral image prose; own actual conduct, Hoost exposition and unshown outcomes distinguished."
+    },
+    {
+      "original_current_receiving_record_sha256": "2e2184766d31da87abb6d5aa6ecb135756aa677a273bea53916cae323e9ba3a4",
+      "group": "EXP01-INTERLUDE-FINAL",
+      "title": "上位悪魔と悪魔的少女",
+      "actual_images_viewed_at_original_resolution": [
+        "EXP-01-IMG040",
+        "EXP-01-IMG041",
+        "EXP-01-IMG042",
+        "EXP-01-IMG043"
+      ],
+      "native_image_pins": [
+        {
+          "image_id": "EXP-01-IMG040",
+          "member": "item/image/img-txt015.jpg",
+          "sha256": "6dfa8b193d671232b09e95a3e982ac37ca06ce7094fc4f166062a8437eaa3e58"
+        },
+        {
+          "image_id": "EXP-01-IMG041",
+          "member": "item/image/img-txt016.jpg",
+          "sha256": "0d2881e9948b3eb25d494c40fec438d33b77300872409fc11be41e90e8aa2750"
+        },
+        {
+          "image_id": "EXP-01-IMG042",
+          "member": "item/image/img-txt017.jpg",
+          "sha256": "921bbc4050ea891214872c4ca2a5eff5810e19e163d2ec318dc1ebfa3ef7d121"
+        },
+        {
+          "image_id": "EXP-01-IMG043",
+          "member": "item/image/img-txt018.jpg",
+          "sha256": "38aa9689ed8d0e346ac57a5069e03f571cab7ffd94bc4ff5605bff6af9ea2ffd"
+        }
+      ],
+      "source_plane": "Komekko first-person integral image prose; current witnessed actions, child report of adult claims, Hoost inference and future boasts remain different knowledge planes."
+    }
+  ],
+  "EXP01_reuse_scope": "All18 integral prose pages were actually viewed/read in the preceding Komekko cohort, then interpreted here for Hoost. No fresh independent pixel pass, physical diary-writing act or Megumin witness. Decorative/production/promotion planes remain separate.",
+  "actually_received_EXP03_BASE_intervals": [
+    {
+      "component_id": "EXP-03-U020",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_sha256": "84648b40c0e160d4b2aa4d8547f02a237f903c19554f3b740cc2b585959f2cb8",
+      "start_P": 430,
+      "end_P": 611,
+      "slots": 182,
+      "nonempty": 159,
+      "actual_untruncated_BASE_text_display_received": true
+    },
+    {
+      "component_id": "EXP-03-U026",
+      "member": "item/xhtml/p-017.xhtml",
+      "member_sha256": "5cb6df62f026bb773df21ee652bb6b86b9e12e88522ea408ec5d504cf0b69fd1",
+      "start_P": 400,
+      "end_P": 627,
+      "slots": 228,
+      "nonempty": 213,
+      "actual_untruncated_BASE_text_display_received": true
+    },
+    {
+      "component_id": "EXP-03-U032",
+      "member": "item/xhtml/p-023.xhtml",
+      "member_sha256": "7464b2929ae2aa0c7b79028dd29f76038f1df0bc6b3b0330f14c5649c230fdaf",
+      "start_P": 1,
+      "end_P": 97,
+      "slots": 97,
+      "nonempty": 89,
+      "actual_untruncated_BASE_text_display_received": true
+    },
+    {
+      "component_id": "EXP-03-U034",
+      "member": "item/xhtml/p-025.xhtml",
+      "member_sha256": "f67e8f5027c5bbd24e77d3495c3ea33c451f84d45da9bae18364347087b02c4b",
+      "start_P": 1,
+      "end_P": 170,
+      "slots": 170,
+      "nonempty": 156,
+      "actual_untruncated_BASE_text_display_received": true
+    },
+    {
+      "component_id": "EXP-03-U034",
+      "member": "item/xhtml/p-025.xhtml",
+      "member_sha256": "f67e8f5027c5bbd24e77d3495c3ea33c451f84d45da9bae18364347087b02c4b",
+      "start_P": 171,
+      "end_P": 340,
+      "slots": 170,
+      "nonempty": 160,
+      "actual_untruncated_BASE_text_display_received": true
+    },
+    {
+      "component_id": "EXP-03-U034",
+      "member": "item/xhtml/p-025.xhtml",
+      "member_sha256": "f67e8f5027c5bbd24e77d3495c3ea33c451f84d45da9bae18364347087b02c4b",
+      "start_P": 341,
+      "end_P": 561,
+      "slots": 221,
+      "nonempty": 206,
+      "actual_untruncated_BASE_text_display_received": true
+    },
+    {
+      "component_id": "EXP-03-U045",
+      "member": "item/xhtml/p-036.xhtml",
+      "member_sha256": "8ff72e2f28ea55435374a3f80975af85e14ddf9d76d5565800d9d5f76a35a3ea",
+      "start_P": 1,
+      "end_P": 104,
+      "slots": 104,
+      "nonempty": 94,
+      "actual_untruncated_BASE_text_display_received": true
+    }
+  ],
+  "own_current_semantic_findings": [
+    {
+      "id": "HH-N01",
+      "locators": [
+        "EXP-03-U020:P0430-0516"
+      ],
+      "observed": "Girls blast approaching rabbits at close range, are knocked unconscious and wake to an unknown voice. Hoost questions them, seeks a huge black beast, tentatively recognizes similarity to another face, performs a Crimson-style greeting and mentions future service to a child. They flee; he does not pursue.",
+      "limits": "Megumin guesses that the voice protected them; protection is not witnessed. No attempted attack by Hoost in this encounter, completed future service or recognition of the sister relationship."
+    },
+    {
+      "id": "HH-N02",
+      "locators": [
+        "EXP-03-U020:P0547-0564"
+      ],
+      "observed": "Yunyun reports no initial attack and a possible friendly devil. Guild clerk hypothesizes beginner-killer/pet. Megumin treats a later efficacy challenge as reason to return.",
+      "limits": "Clerk hypothesis is not correct target identity; friendliness is local conduct, not universal benevolence. Megumin and Yunyun are separate actors."
+    },
+    {
+      "id": "HH-N03",
+      "locators": [
+        "EXP-03-U026:P0446-0577"
+      ],
+      "observed": "Rex crew intentionally captures a beginner-killer as putative leverage. Hoost arrives angry, calls it Wolbach, knocks the three fighters down before they draw weapons, and calls for the beast to wake. He then identifies ordinary prey, says it looked like Wolbach at distance and that her scent led him there, and investigates the girls by close scent. Megumin recalls cat contact that morning.",
+      "limits": "Both initial misrecognition and subsequent correction actually occur. Existing EXP03 report161 is supported; no erratum for merely mentioning the mistake. Megumin cannot identify the exact knockdown technique. Recent-cat scent supports the local link, not flawless identity detection."
+    },
+    {
+      "id": "HH-N04",
+      "locators": [
+        "EXP-03-U026:P0579-0598"
+      ],
+      "observed": "Hoost recognizes the forest girls, connects village seal/Crimson affiliation and remembers a child when hearing Chomusuke. He shakes off conflict, says he would rather not fight Crimson Demons because the child might bite, then conditions non-harm to girls/city on delivery. He claims absolute contract rules and that the sword-bearer is wanted among devils; self-identifies Wolbach subordinate.",
+      "limits": "Particular child-memory affects stated reluctance, not a completed universal safe-conduct. City non-harm is conditional coercion, and he already struck the crew. Contract doctrine and wanted status are attributed claims, not independently enforced law."
+    },
+    {
+      "id": "HH-N05",
+      "locators": [
+        "EXP-03-U026:P0602-0627",
+        "EXP-03-U032:P0001-0046"
+      ],
+      "observed": "Girls bring unconscious fighters home, discuss the threat and disagree about pet surrender. No exchange deadline was agreed. Megumin chooses combat, not handing over Chomusuke.",
+      "limits": "Reported injury severity remains tension: U032P3 says not serious; Cecily later treats severely limited patients and Megumin later calls them badly hurt. No clinical repair or new Hoost promise invented."
+    },
+    {
+      "id": "HH-N06",
+      "locators": [
+        "EXP-03-U034:P0001-0283"
+      ],
+      "observed": "Megumin obtains funds after Cecily prank, fails to recruit protection, delegates purchases, ties cat to scent toy, then arranges cat care. Yunyun recruits Rex crew, exposes concealment/charging flaw and imposes Sleep before departing. Cecily describes her healing and actually blesses Megumin.",
+      "limits": "Toy preparation is shown; Hoost taking that lure is not directly shown at battle entry. Earlier party offers and care do not make all actors consent to later collateral. Source differentiates actual funds from prior stone prank."
+    },
+    {
+      "id": "HH-N07",
+      "locators": [
+        "EXP-03-U034:P0287-0358"
+      ],
+      "observed": "Hoost is wounded/weakened; mana-backed Lightning hurts him. He reluctantly spends magic on Inferno, cancelled by Yunyun scroll, then chooses forceful closing. Flash leaves him effective and blinds hidden Megumin; fighters fall.",
+      "limits": "His present resource complaint and switch are observed speech/actions. Earlier wing-loss cause and innate virtual-body mechanism remain attributed narrative/actor accounts. This Flash outcome is not absolute immunity to all altered spells."
+    },
+    {
+      "id": "HH-N08",
+      "locators": [
+        "EXP-03-U034:P0359-0424"
+      ],
+      "observed": "Hoost taunts but looks wary, tries to stop potion use, is delayed by Rex throwing his sword, hits Rex, then is immobilized by enhanced Paralysis despite his ordinary-immunity boast. He becomes talkative, proposes a one-day mutual retreat, invokes injured companions and promise doctrine, grows impatient at silence, discovers Yunyun also cannot move and laughs/renews the offer.",
+      "limits": "Real local adverse immunity case retained. Yunyun says she could accept, while crew urges finishing; no completed mutual withdrawal or later breach is supplied. Taunting and caution coexist; confidence is not pure recklessness."
+    },
+    {
+      "id": "HH-N09",
+      "locators": [
+        "EXP-03-U034:P0426-0498"
+      ],
+      "observed": "Megumin appears from concealment, surprises Hoost and charges while teasing immobile friend. Hoost urges calm, enjoys their exchange as narrated, recognizes threatening mana and Arnes claim, then describes prior crusader/thief injuries and exorcism when trying to attack city. He predicts losing a life, contract release and possible future child service, curses the city, and is defeated by Explosion. Others need stretchers.",
+      "limits": "No actual rebirth, later summoning or forced-release verification. Prior city attack and retaliation motive are Hoost report, not Megumin eyewitness. Narrator qualifies face/affect inferences; claimed full-strength survival is counterfactual. Megumin does not have Komekko relationship knowledge or a known bonded-opponent target."
+    },
+    {
+      "id": "HH-N10",
+      "locators": [
+        "EXP-03-U034:P0509-0561",
+        "EXP-03-U045:P0001-0104"
+      ],
+      "observed": "Megumin gives reward to Rex crew, later remaining advance to departing Yunyun and suffers failed easy-recruitment income forecast. Rex offers a real party slot; she declines capital move for liking Axel. Epilogue refers to Hoost defeat as known past event.",
+      "limits": "U045 is PRINCIPAL_EPILOGUE, not afterword, as actual metadata and complete text show. No new Hoost behavior, defeat replication or production-page event. Creator commentary retains own plane elsewhere."
+    }
+  ],
+  "source_report_returns": [
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md",
+      "bytes": 66567,
+      "sha256": "0dd1f5123c50ea410625f1f2656c26f6190d8a792f5788b337cfb941402fcd33",
+      "access": "Existing actually received admitted analysis at its stated source plane; present byte binding adds no independent/whole-source reading."
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V01_COMPONENT_ANALYSIS.md",
+      "bytes": 27252,
+      "sha256": "126e8a851685760eca8ee51733bb2677f4e5b118eb2a798bbc93347f33cf6bfd",
+      "access": "Existing actually received admitted analysis at its stated source plane; present byte binding adds no independent/whole-source reading."
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V03_DEEP_READING.md",
+      "bytes": 95947,
+      "sha256": "6bbb421413e45ab1f9129ee7617e2b68e1005bc3ced95e947e58fa85106338bb",
+      "access": "Existing actually received admitted analysis at its stated source plane; present byte binding adds no independent/whole-source reading."
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V03_COMPONENT_ANALYSIS.md",
+      "bytes": 29874,
+      "sha256": "7a4128351892c0c19cfc4976b8eaa899d0e03137c9f87067bc7c2b413470ec3d",
+      "access": "Existing actually received admitted analysis at its stated source plane; present byte binding adds no independent/whole-source reading."
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_KOMEKKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 22167,
+      "sha256": "926667fda86e7d1ff46d0e8b18a68128d9e4463ee8c8c46494927922177c398f",
+      "access": "Existing actually received admitted analysis at its stated source plane; present byte binding adds no independent/whole-source reading."
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md",
+      "bytes": 16662,
+      "sha256": "96cafceee55fb94776202466377a70a7eb3615f2f1e7aa7fe0b7e792e0437d19",
+      "access": "Existing actually received admitted analysis at its stated source plane; present byte binding adds no independent/whole-source reading."
+    }
+  ],
+  "counts": {
+    "reused_prior_actual_EXP01_image_pages": 18,
+    "reused_interlude_groups": 5,
+    "prepared_EXP03_members": 5,
+    "prepared_EXP03_slots_not_reading": 2000,
+    "actually_received_EXP03_unique_BASE_slots": 1172,
+    "actually_received_EXP03_nonempty_BASE_slots": 1077,
+    "actually_received_EXP03_members": 5,
+    "new_whole_book_ruby_image_or_independent_test_credit": 0
+  },
+  "public_transformation": "Native/register/member hashes, received intervals, own analysis and admitted analytical returns only. Omit local absolute paths, native source arrays/transcriptions/artwork and private acquisition/recovery files.",
+  "precision": "U026P533/546initialmisrecognition andP555/563correction both occur; original EXP03report161 preserved. U045 is principal epilogue, not afterword. No retelling/credit/promotion duplicates an episode."
+}

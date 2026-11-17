@@ -1,0 +1,1482 @@
+{
+  "schema": "KONOSUBA_DUSTCONT_SELECTED_WHOLE_PREMISE_REGISTER_V1",
+  "created_utc": "2026-10-18T12:33:51.152475+00:00",
+  "source_id": "DUST-CONT",
+  "H_protocol": "H1 actual literal events; H2 amplified disposition with transfer-intensity caution; H3 requires actual behavior too dependent on a local punchline to generalize, H4 actual nonliteral behavioral license. Staging, metaphors, world magic, genre expectations, sexual misreadings and unknown causes do not by themselves establish H3/H4.",
+  "L_protocol": "L0 portable propositions; L1 material wording/rhythm; L2 register/pragmatic force; L3 central Japanese form requiring reconstruction/annotation. No automatic L3 for idiom/script/names. No forced category quota.",
+  "selected_record_count": 73,
+  "counts_describe_selected_records_only": {
+    "L": {
+      "L2": 53,
+      "L0": 8,
+      "L1": 12
+    },
+    "H": {
+      "H1": 72,
+      "H2": 1
+    }
+  },
+  "no_population_denominator_or_accuracy_score": true,
+  "records": [
+    {
+      "id": "DUSTCONT-WHOLE-H001",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U010",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "native_member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+        "start_P": 3,
+        "end_P": 30
+      },
+      "whole_selected_premise": "Formal longing and care in a letter turn into a compulsory invitation that the recipient tries to destroy.",
+      "primary_L": "L2",
+      "L_rationale": "Formal opening, abrupt casual command and categorical no-veto have different recipient-directed force.",
+      "primary_H": "H1",
+      "H_rationale": "Dust actually resists and friends physically prevent tearing; invitation is not acceptance.",
+      "eligibility_and_limits": "Possible disrespect offense is Taylor appraisal, not a verified automatic punishment.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H002",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U010",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "native_member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+        "start_P": 31,
+        "end_P": 67
+      },
+      "whole_selected_premise": "An absolute refusal assumes the wedding must be elsewhere, then the printed venue is the forbidden homeland.",
+      "primary_L": "L0",
+      "L_rationale": "Refusal, exile assumption and actual venue correction are portable.",
+      "primary_H": "H1",
+      "H_rationale": "His information changes while the wish to avoid old-role exposure remains.",
+      "eligibility_and_limits": "Princess arranging entry is initially his inference; actual admission comes later.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H003",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U010",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "native_member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+        "start_P": 68,
+        "end_P": 107
+      },
+      "whole_selected_premise": "Dedicated child grooming and shared cleanup invite a family joke the proposed mother refuses.",
+      "primary_L": "L2",
+      "L_rationale": "Mother address seeks playful alignment but receives explicit role rejection.",
+      "primary_H": "H1",
+      "H_rationale": "Dust and Leen actually care for child; Dust infers embarrassment from redness.",
+      "eligibility_and_limits": "Nonsexual care and denied role do not create marriage, standing permission or a parental identity decree.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H004",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U010",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "native_member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+        "start_P": 109,
+        "end_P": 134
+      },
+      "whole_selected_premise": "An old private declaration becomes public spy gossip, and the target confirms it while trying to stop the reenactment.",
+      "primary_L": "L2",
+      "L_rationale": "Recipient/audience change turns a tender private phrase into an embarrassing public performance.",
+      "primary_H": "H1",
+      "H_rationale": "Actual surrounding and grabbed-arm escape follow the accidental confirmation.",
+      "eligibility_and_limits": "Unknown DarkStalker is reported; no root witnessed spying or complete audience census.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H005",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U010",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "native_member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+        "start_P": 138,
+        "end_P": 183
+      },
+      "whole_selected_premise": "Making the misunderstanding true is interrupted outside the familiar shop, where the same gossip is already known.",
+      "primary_L": "L2",
+      "L_rationale": "The indirect relationship proposal is unfinished; a shop boundary and serious room offer have distinct force.",
+      "primary_H": "H1",
+      "H_rationale": "Small now explicitly named ロリーサ interrupts and proposes travel as an escape.",
+      "eligibility_and_limits": "No completed room use, mutual dating agreement or actual wedding of the pair; non-graphic account.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H006",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U010",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "native_member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+        "start_P": 187,
+        "end_P": 209
+      },
+      "whole_selected_premise": "A wanted companion trip still loses against the feared destination, until an actual provider inquiry is proposed.",
+      "primary_L": "L0",
+      "L_rationale": "Competing preferences, private risk and chosen consultation are portable.",
+      "primary_H": "H1",
+      "H_rationale": "Leen offers accompaniment for her own reasons; Dust distinguishes dislike of destination from dislike of her.",
+      "eligibility_and_limits": "Oracle ability/trust judgments belong to actors; no new perfect-accuracy experiment.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H007",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U010",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "native_member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+        "start_P": 213,
+        "end_P": 239
+      },
+      "whole_selected_premise": "The supposedly incidental child receives royal service, trades her own hair and makes the adults consultation-free.",
+      "primary_L": "L2",
+      "L_rationale": "A specific hair-for-food proposal receives an explicit yes; paid consideration changes the next offer.",
+      "primary_H": "H1",
+      "H_rationale": "Child actually hands over hair, while Wiz admits zero sales and supplies her expensive snacks.",
+      "eligibility_and_limits": "This owned current trade does not authorize earlier Dust payments with child materials; humiliation and ownership costs remain.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H008",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U010",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "native_member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+        "start_P": 241,
+        "end_P": 272
+      },
+      "whole_selected_premise": "A vague oracle question reveals the exact personal trouble and jealousy, but the extra disaster detail costs a fee he refuses.",
+      "primary_L": "L2",
+      "L_rationale": "Vagueness, repeated distancing, extra-price boundary and servile request have specific audiences.",
+      "primary_H": "H1",
+      "H_rationale": "Dust actually declines a price and learns a female gossip source whose location Vanir cannot readily supply.",
+      "eligibility_and_limits": "Accuracy asserted by narrator is not a new census; future disaster is not identified or performed here.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H009",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U010",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "native_member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+        "start_P": 276,
+        "end_P": 299
+      },
+      "whole_selected_premise": "Travel is decided before funding is remembered, and a request for easy pursuit money becomes an impossible bounty.",
+      "primary_L": "L0",
+      "L_rationale": "Late budget check, empty wallet and rejected danger are portable.",
+      "primary_H": "H2",
+      "H_rationale": "Dust boasts of cashlessness then eagerly seeks a shortcut until the named risk defeats it.",
+      "eligibility_and_limits": "No actual bounty chase, new debt payment or harm from binding travel terms is shown.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H010",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U010",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "native_member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+        "start_P": 302,
+        "end_P": 340
+      },
+      "whole_selected_premise": "A celebrated hero wants a listener, loses one by overplaying reluctance, then loses the crowd through a reported break in heroic ceremony.",
+      "primary_L": "L2",
+      "L_rationale": "Grand reluctant offer repairs into pleading; a supposedly kind frank rebuke has actual hostile uptake.",
+      "primary_H": "H1",
+      "H_rationale": "Yun reports the opening attack and is emotionally hurt by actual public criticism.",
+      "eligibility_and_limits": "Remote main battle remains reported, genre expectations are actual audience attitudes rather than H3/H4 license; no diagnosis.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H011",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U010",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "native_member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+        "start_P": 344,
+        "end_P": 380
+      },
+      "whole_selected_premise": "An escort plan solves travel cost, but volunteered helpers receive grand permission instead of gratitude.",
+      "primary_L": "L2",
+      "L_rationale": "The benefactor role is reversed by I-permit-you uptake and an explicit demand for thanks.",
+      "primary_H": "H1",
+      "H_rationale": "Keith suggests the escort, men choose to join and the job is actually found next day.",
+      "eligibility_and_limits": "Dust does not invent or own every contribution; later comfort for Yun is only planned.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H012",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U010",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "native_member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+        "start_P": 381,
+        "end_P": 404
+      },
+      "whole_selected_premise": "Aging debt is answered by a lifelong-tab boast, while a carefully corrected name is immediately misheard again.",
+      "primary_L": "L1",
+      "L_rationale": "Segmented テイラー contrasts with タイラー and ボイラー; tab metaphor receives a materially literal financial reply.",
+      "primary_H": "H1",
+      "H_rationale": "The elderly client and Taylor conduct the real negotiation.",
+      "eligibility_and_limits": "Written name play is not an acoustic test or clinical diagnosis, and no actual route mistake occurs.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H013",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U010",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "native_member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+        "start_P": 407,
+        "end_P": 440
+      },
+      "whole_selected_premise": "A passenger gains a friendly seat and a stronger comeback, then Dusts safe-journey wager makes everyone expect trouble.",
+      "primary_L": "L2",
+      "L_rationale": "Leen owns the invitation and Small returns an actual objection/threat rather than passive politeness.",
+      "primary_H": "H1",
+      "H_rationale": "Dust admits causing some earlier trouble but dismisses it, and the group treats his luck as a bad forecast.",
+      "eligibility_and_limits": "No curse caused by the wager or verified citywide stat ranking; body/service innuendo kept non-graphic.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H014",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U010",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "native_member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+        "start_P": 444,
+        "end_P": 489
+      },
+      "whole_selected_premise": "A paying passenger objects to being bait, chooses after manipulated pride, and discovers the promised rescue has a next time.",
+      "primary_L": "L2",
+      "L_rationale": "Reassurance challenge, pride appeal and next-time repair mark incomplete task scope.",
+      "primary_H": "H1",
+      "H_rationale": "Dust actually spears/rescues her immediately but grazes hair and repeats the use.",
+      "eligibility_and_limits": "Initial choice is not unbounded agreement; actual exhaustion and risk remain, without injury-threshold or later-success exemption.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H015",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U010",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "native_member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+        "start_P": 493,
+        "end_P": 499
+      },
+      "whole_selected_premise": "Recovered food feeds the child while the actual carriage owners objection is ignored.",
+      "primary_L": "L0",
+      "L_rationale": "Useful meat, explicit complaint and refusal to heed it are portable.",
+      "primary_H": "H1",
+      "H_rationale": "More than ten toads are summarized, meat is processed/fed and remaining bodies burned privately.",
+      "eligibility_and_limits": "Keiths migration explanation is conjecture, not proof of Megumin sole ecological causation. Provider boundary is not erased by utility.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H016",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U010",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "native_member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+        "start_P": 500,
+        "end_P": 542
+      },
+      "whole_selected_premise": "Grumbling about old duty gives way to an admitted smile and sincere enjoyment of the new life.",
+      "primary_L": "L1",
+      "L_rationale": "Hesitation and the explicit happy-looking correction materially qualify the initial denial.",
+      "primary_H": "H1",
+      "H_rationale": "Dust recognizes mixed nostalgia while family whereabouts remain unknown.",
+      "eligibility_and_limits": "Parents resilience is his inference; recalled royal permission for force is not recipient consent or moral legitimacy.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H017",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U010",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "native_member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+        "start_P": 546,
+        "end_P": 573
+      },
+      "whole_selected_premise": "The returned expert explains the wall but learns its symbolic meaning from the very princess he hoped to avoid.",
+      "primary_L": "L2",
+      "L_rationale": "An ordinary local explanation becomes a personal welcome-home address after the hood reveal.",
+      "primary_H": "H1",
+      "H_rationale": "Actual arrival and recognition surprise the whole group.",
+      "eligibility_and_limits": "No gate clearance, wedding outcome or total public identity exposure from this reveal alone.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H018",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "37ec58602b864bf68c6237a939e8699c8ca1d1f002711b4cf6206d2b8e09b4ea",
+        "start_P": 6,
+        "end_P": 28
+      },
+      "whole_selected_premise": "Old courtesy is rehearsal to preserve royal face while a mud-pack insult is reserved for the princess.",
+      "primary_L": "L1",
+      "L_rationale": "Face/mud wording develops the insult from the face-saving idiom; self-name performed anger is explicit.",
+      "primary_H": "H1",
+      "H_rationale": "Dust uses role-conditioned politeness without surrendering teasing.",
+      "eligibility_and_limits": "No actual hug follows her offer; figurative mud is not behavioral nonliteral license or automatic L3.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H019",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "37ec58602b864bf68c6237a939e8699c8ca1d1f002711b4cf6206d2b8e09b4ea",
+        "start_P": 30,
+        "end_P": 60
+      },
+      "whole_selected_premise": "A selective true account opens the gate, and a model nations rule-following is credited to the princess as a negative example.",
+      "primary_L": "L2",
+      "L_rationale": "Repeated not-lying marks omission, and bad-example address reverses the speakers self-congratulation.",
+      "primary_H": "H1",
+      "H_rationale": "Actual entry succeeds, then princess actually shakes Dusts collar after the reported public maxim.",
+      "eligibility_and_limits": "Past resident saying is reported, not a population census or consent to physical force.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H020",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "37ec58602b864bf68c6237a939e8699c8ca1d1f002711b4cf6206d2b8e09b4ea",
+        "start_P": 65,
+        "end_P": 113
+      },
+      "whole_selected_premise": "The staff sell independence from power while threatening to break their employer, as townspeople place bets.",
+      "primary_L": "L2",
+      "L_rationale": "Rank command, firing threat, retirement reply and efficiency reassurance have concrete opposing interests.",
+      "primary_H": "H1",
+      "H_rationale": "Actual weapons/threats and public amusement precede pursuit; the men hesitate to join.",
+      "eligibility_and_limits": "No printed fracture/healing here; custom, authority and crowd pleasure do not remove coercive danger.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H021",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "37ec58602b864bf68c6237a939e8699c8ca1d1f002711b4cf6206d2b8e09b4ea",
+        "start_P": 115,
+        "end_P": 147
+      },
+      "whole_selected_premise": "Permission for Leen to speak casually is appropriated by the butler, who calls the lookalike the true princess.",
+      "primary_L": "L2",
+      "L_rationale": "Recipient-specific register license and true/original/family-origin labels are the point.",
+      "primary_H": "H1",
+      "H_rationale": "Leen asks the title stop; actual princess protests and her victim performance receives a shared rebuke.",
+      "eligibility_and_limits": "Knowing role satire is not identity equality or proof rank vanished; Leens dialogue proposal was real.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H022",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "37ec58602b864bf68c6237a939e8699c8ca1d1f002711b4cf6206d2b8e09b4ea",
+        "start_P": 148,
+        "end_P": 183
+      },
+      "whole_selected_premise": "Identity blackmail is interrupted by capture, and gagged objections are falsely translated as consent and a bonus.",
+      "primary_L": "L2",
+      "L_rationale": "The attributed consent contradicts the protest Dust actually understands; legal permission is a different claim.",
+      "primary_H": "H1",
+      "H_rationale": "Maids bind/gag/carry the princess, Leen questions treatment and Dust dismisses the concern.",
+      "eligibility_and_limits": "No consent from inability to speak clearly, no bodily-injury threshold or authority exemption. Later hanging is not yet observed in this interval.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H023",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "37ec58602b864bf68c6237a939e8699c8ca1d1f002711b4cf6206d2b8e09b4ea",
+        "start_P": 184,
+        "end_P": 215
+      },
+      "whole_selected_premise": "The man who checks extra guest permission repeatedly assures himself that he has no regret, probably.",
+      "primary_L": "L1",
+      "L_rationale": "The retreat into たぶん limits the repeated firm no-regret claim.",
+      "primary_H": "H1",
+      "H_rationale": "Guest scope is actually checked while old exile and agency are reconsidered.",
+      "eligibility_and_limits": "Current mixed self-report is not proof every earlier choice was free or every prior satisfaction false.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H024",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "37ec58602b864bf68c6237a939e8699c8ca1d1f002711b4cf6206d2b8e09b4ea",
+        "start_P": 231,
+        "end_P": 258
+      },
+      "whole_selected_premise": "Parenting blame meets a wild-animal-trainer defense, and money cannot buy the child exchange.",
+      "primary_L": "L2",
+      "L_rationale": "Private king/butler intimacy permits blame refusal, while repeated formal refusal protects a specific bond.",
+      "primary_H": "H1",
+      "H_rationale": "Dust twice refuses despite attractive money; child receives actual snacks.",
+      "eligibility_and_limits": "Animal/affection metaphors are not literal taxonomy, and royal offer does not establish ownership of a person.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H025",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "37ec58602b864bf68c6237a939e8699c8ca1d1f002711b4cf6206d2b8e09b4ea",
+        "start_P": 263,
+        "end_P": 299
+      },
+      "whole_selected_premise": "A real apology returns the old name, but owning the choice still cannot produce a fluent no-regret answer.",
+      "primary_L": "L2",
+      "L_rationale": "Private old-name address, 私-to-俺 repair and broken assent preserve role/history.",
+      "primary_H": "H1",
+      "H_rationale": "King apologizes, Dust acknowledges pressure and choice, then actually asks who the groom is.",
+      "eligibility_and_limits": "New domestic groom corrects the earlier foreign-match expectation; future chancellor role is not actual appointment.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H026",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "37ec58602b864bf68c6237a939e8699c8ca1d1f002711b4cf6206d2b8e09b4ea",
+        "start_P": 300,
+        "end_P": 328
+      },
+      "whole_selected_premise": "The rejected visit becomes actual forced transport, and the helper binds the boss together with the intended victim.",
+      "primary_L": "L2",
+      "L_rationale": "Blunt sacrifice-for-our-ease demand and conditional face-exposure warning force compliance.",
+      "primary_H": "H1",
+      "H_rationale": "Dust is pushed, held, bound and stops struggling to protect identity.",
+      "eligibility_and_limits": "Continued walking is compelled, not agreement; spectators sexual misreading stays non-graphic and does not become an encounter.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H027",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "37ec58602b864bf68c6237a939e8699c8ca1d1f002711b4cf6206d2b8e09b4ea",
+        "start_P": 329,
+        "end_P": 379
+      },
+      "whole_selected_premise": "A bound boss still enforces manners, a suspended princess feigns sleep, and existing sweets defeat her rescue inducement.",
+      "primary_L": "L1",
+      "L_rationale": "Tied-companions/fashion phrasing and the already-got-sweets response reverse the expected rescue.",
+      "primary_H": "H1",
+      "H_rationale": "Hanging is actually reported and seen now; Dust intends departure, escapes his own loosened binding and child declines the offer.",
+      "eligibility_and_limits": "Comfortable appearance, nostalgia and later choice do not erase restraint; deliberate royal bribery is explicitly doubted by Dust.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H028",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "37ec58602b864bf68c6237a939e8699c8ca1d1f002711b4cf6206d2b8e09b4ea",
+        "start_P": 381,
+        "end_P": 447
+      },
+      "whole_selected_premise": "Romantic staging fails because the child is still eating, then the groom admires the old knight despite his deliberate rough denial.",
+      "primary_L": "L2",
+      "L_rationale": "Former-boyfriend label is rejected and known identity-cover is explicitly acknowledged by the new recipient.",
+      "primary_H": "H1",
+      "H_rationale": "Doreck knows the history, permits informality and accepts the requested Dust name.",
+      "eligibility_and_limits": "Groom admiration is not complete truth about motive; no hug/intimacy or universally restored identity follows.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H029",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "37ec58602b864bf68c6237a939e8699c8ca1d1f002711b4cf6206d2b8e09b4ea",
+        "start_P": 451,
+        "end_P": 496
+      },
+      "whole_selected_premise": "The quiet outing buys a picture book about an idealized history whose free-use permission its subject never gave.",
+      "primary_L": "L2",
+      "L_rationale": "Reported copyright-free license asserts another persons permission; Dust explicitly contests that authority.",
+      "primary_H": "H1",
+      "H_rationale": "He gives child the wanted walk and actually purchases the book despite intending none.",
+      "eligibility_and_limits": "In-world publishing and skim reports are unequal to actual history; imagined arson is not performed, no real-world legal advice.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H030",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "37ec58602b864bf68c6237a939e8699c8ca1d1f002711b4cf6206d2b8e09b4ea",
+        "start_P": 500,
+        "end_P": 550
+      },
+      "whole_selected_premise": "A protective outing rejects a sign-up trap but learns an unwelcome royal alliance, then a costly cookie offer is kindly declined.",
+      "primary_L": "L2",
+      "L_rationale": "Identity/signature solicitation is recognized before uptake; accepting the thought preserves a declined material offer.",
+      "primary_H": "H1",
+      "H_rationale": "Dust actually intervenes against inappropriate child approach and later leaves with her; child offers despite appetite.",
+      "eligibility_and_limits": "Non-graphic boundary violation only. Axis conversion is still Cecily report here; cookie is not transferred to Dust.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H031",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "native_member_sha256": "f3907a1788c4e2b1b5b74f1d7277e4cbb135af6de3e45fcf1f475878b938b764",
+        "start_P": 7,
+        "end_P": 46
+      },
+      "whole_selected_premise": "Comfort in luxury comes from unwanted work experience, and a wedding-success bet means long odds rather than pure romantic closure.",
+      "primary_L": "L2",
+      "L_rationale": "Audience infers benevolent blessing, then the bettor explicitly states a different payoff appraisal.",
+      "primary_H": "H1",
+      "H_rationale": "Party shares reputation reports; Dust admits suspicion of an overly perfect stranger.",
+      "eligibility_and_limits": "No actual bet placed or universal absence of affection; ordinary reputation is not proof of villainy.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H032",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "native_member_sha256": "f3907a1788c4e2b1b5b74f1d7277e4cbb135af6de3e45fcf1f475878b938b764",
+        "start_P": 51,
+        "end_P": 71
+      },
+      "whole_selected_premise": "A strange smell hidden by snacks requires two wrong provider guesses before the masked benefactor is named.",
+      "primary_L": "L1",
+      "L_rationale": "The childs concrete magic-shop-mask label disambiguates the scent comparison.",
+      "primary_H": "H1",
+      "H_rationale": "Dust asks perfume/king alternatives, and the group reaches a possible-devil inference.",
+      "eligibility_and_limits": "Sensory report is evidence, not complete possession/replacement/contract proof or infallible species diagnosis.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H033",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "native_member_sha256": "f3907a1788c4e2b1b5b74f1d7277e4cbb135af6de3e45fcf1f475878b938b764",
+        "start_P": 75,
+        "end_P": 128
+      },
+      "whole_selected_premise": "A missing-investigator lead is dismissed after her motive looks bad, while another companion insists on hearing all reports.",
+      "primary_L": "L2",
+      "L_rationale": "Next cuts off an unverified explanation; wait-for-all explicitly resists premature judgment.",
+      "primary_H": "H1",
+      "H_rationale": "Actual three-day inquiry, large food invoice and qualified provider report have different warrants.",
+      "eligibility_and_limits": "No verified jail/death for the missing woman, no bill payment or completed double-charge; source/night contacts remain mediated.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H034",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "native_member_sha256": "f3907a1788c4e2b1b5b74f1d7277e4cbb135af6de3e45fcf1f475878b938b764",
+        "start_P": 129,
+        "end_P": 190
+      },
+      "whole_selected_premise": "The old specialist has no friends to call, and the direct visit becomes an imagined extortion he has not performed.",
+      "primary_L": "L2",
+      "L_rationale": "Solemn apology embarrasses and I-have-done-nothing rejects a projected recipient narrative.",
+      "primary_H": "H1",
+      "H_rationale": "Dust gathers castle information, names competing devil mechanisms and considers actual access.",
+      "eligibility_and_limits": "Coworkers/admiring junior/rival are not declared nonexistent; past friendship reflection is bounded, imaginary crime is not actual.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H035",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "native_member_sha256": "f3907a1788c4e2b1b5b74f1d7277e4cbb135af6de3e45fcf1f475878b938b764",
+        "start_P": 191,
+        "end_P": 210
+      },
+      "whole_selected_premise": "A performer rejects false equivalence with the polite princess, then a specific dress compliment changes her uptake.",
+      "primary_L": "L2",
+      "L_rationale": "Competence objection and embarrassed qualified dress acceptance differ from unbounded assent.",
+      "primary_H": "H1",
+      "H_rationale": "Dust coordinates praise and Small supplies the effective wording.",
+      "eligibility_and_limits": "Leens later own reasons matter; this moment does not authorize all training or erase the earlier objection.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H036",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "native_member_sha256": "f3907a1788c4e2b1b5b74f1d7277e4cbb135af6de3e45fcf1f475878b938b764",
+        "start_P": 214,
+        "end_P": 268
+      },
+      "whole_selected_premise": "Wild-princess training uses the bound original as its model, whose bribe complaint is dismissed despite an audible admission.",
+      "primary_L": "L2",
+      "L_rationale": "Classified nonanswer withholds reasons; no-evidence-left and credibility question expose selective trust.",
+      "primary_H": "H1",
+      "H_rationale": "Chair tips, restraint continues, maid admits a cue and princess likes the tragic role.",
+      "eligibility_and_limits": "Enjoyment of a role is not permission to be restrained or kept uninformed; suggested replacement coup is not performed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H037",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "native_member_sha256": "f3907a1788c4e2b1b5b74f1d7277e4cbb135af6de3e45fcf1f475878b938b764",
+        "start_P": 269,
+        "end_P": 307
+      },
+      "whole_selected_premise": "The unasked helper likes her costume but objects to the assignment, while Dust suppresses an insult to preserve cooperation.",
+      "primary_L": "L2",
+      "L_rationale": "Without-my-agreement explicitly names the missing permission, distinct from clothing preference.",
+      "primary_H": "H1",
+      "H_rationale": "Maid physically takes Small for training; Dust leaves Leens appeal and admits insufficient evidence about motives.",
+      "eligibility_and_limits": "Professional usefulness is not owned access; later enthusiasm cannot retroactively authorize the initial decision. Non-graphic clothing account.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H038",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "native_member_sha256": "f3907a1788c4e2b1b5b74f1d7277e4cbb135af6de3e45fcf1f475878b938b764",
+        "start_P": 311,
+        "end_P": 380
+      },
+      "whole_selected_premise": "The feared information provider lures the child with food; protection attempts and a refused powder bribe fail to prevent consumption.",
+      "primary_L": "L2",
+      "L_rationale": "Keep-distance, do-not-enter and report-discomfort instructions are actual protective acts.",
+      "primary_H": "H1",
+      "H_rationale": "Child resists exit for food; Dust follows, refuses the bribe and learns consumption already happened.",
+      "eligibility_and_limits": "Inappropriate child conduct remains non-graphic. Fictional ban/health claims are reported, no current law or medical advice; medicine purchase unshown.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H039",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "native_member_sha256": "f3907a1788c4e2b1b5b74f1d7277e4cbb135af6de3e45fcf1f475878b938b764",
+        "start_P": 381,
+        "end_P": 432
+      },
+      "whole_selected_premise": "The informant has no reason for being disliked except forced forms and vandalism, then accepts a plan under unheard qualifiers.",
+      "primary_L": "L2",
+      "L_rationale": "Nothing-to-do-with-us denial conflicts with admitted actions; future permission promise is quietly qualified.",
+      "primary_H": "H1",
+      "H_rationale": "Cecily supplies actual first-person pond account and chooses the new entertaining task.",
+      "eligibility_and_limits": "No princess permission yet verified or unlimited immunity; circumstantial evidence is not full devil proof and reported water is not real medicine.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H040",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "native_member_sha256": "f3907a1788c4e2b1b5b74f1d7277e4cbb135af6de3e45fcf1f475878b938b764",
+        "start_P": 436,
+        "end_P": 510
+      },
+      "whole_selected_premise": "The substitute privately chooses not to abandon the task and learns that friendliness can be the easiest part of the wild role.",
+      "primary_L": "L2",
+      "L_rationale": "Leens independent internal reasons and actual welcoming casual address establish role-specific agency.",
+      "primary_H": "H1",
+      "H_rationale": "Small now positively accepts mapping/interviews, guards fear the alleged princess and Doreck receives them.",
+      "eligibility_and_limits": "Reader-only reasons are not Dusts heard knowledge, and present choice does not repair earlier force or finish the search.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H041",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "716e1c469c9bf0161907524ab941d57cee45313caea4580d725d62e66d5b9d49",
+        "start_P": 3,
+        "end_P": 45
+      },
+      "whole_selected_premise": "A successful diversion is acknowledged as cruel, and the scout corrects the claim that authorized work is ordinary burglary.",
+      "primary_L": "L2",
+      "L_rationale": "First-offense objection and customer-permission clarification reject Dusts generalized reassurance.",
+      "primary_H": "H1",
+      "H_rationale": "Actual guards complain, Small supplies route/rope and both enter secretly.",
+      "eligibility_and_limits": "No actual royal pardon or blanket legal/ethical license from their protective aim; historical crime is not newly established by skill.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H042",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "716e1c469c9bf0161907524ab941d57cee45313caea4580d725d62e66d5b9d49",
+        "start_P": 47,
+        "end_P": 78
+      },
+      "whole_selected_premise": "A prepared map earns praise, then the same helper stops the wine opening and misreads the protective pull into hiding.",
+      "primary_L": "L2",
+      "L_rationale": "Professional praise and actual stop-drinking boundary have independent causal roles.",
+      "primary_H": "H1",
+      "H_rationale": "Small opened the route earlier; Dust changes the immediate drink act, hides and hushes her.",
+      "eligibility_and_limits": "Planned later theft is unperformed; adult misreading stays non-graphic with no sexual encounter or permission from enthusiasm.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H043",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "716e1c469c9bf0161907524ab941d57cee45313caea4580d725d62e66d5b9d49",
+        "start_P": 79,
+        "end_P": 129
+      },
+      "whole_selected_premise": "The guard dislikes serving a restricted diet, and a cookie memory turns the helper-read notice into a replacement deduction.",
+      "primary_L": "L1",
+      "L_rationale": "Named food restrictions and earlier eaten cookie are materially specific pieces in the narrated inference.",
+      "primary_H": "H1",
+      "H_rationale": "Small reads in the dark, guards name ガイビル and Dust asks about the actual contact source.",
+      "eligibility_and_limits": "Before the next room this is a strong deduction, not an independently tested recipe/medical finding or already observed prisoner.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H044",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "716e1c469c9bf0161907524ab941d57cee45313caea4580d725d62e66d5b9d49",
+        "start_P": 133,
+        "end_P": 158
+      },
+      "whole_selected_premise": "Cheap flattery receives an explicit veto; a valued handkerchief then changes the negotiation.",
+      "primary_L": "L2",
+      "L_rationale": "Do-not-assume-praise-buys-anything directly protects owned access before a distinct offered term.",
+      "primary_H": "H1",
+      "H_rationale": "Dust actually hands over the claimed Vanir-wrapped-sweets item and grants scent use.",
+      "eligibility_and_limits": "No current counterfeit manufacturing is stated, unlike the earlier token; local anything rhetoric does not grant permanent unlimited service.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H045",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "716e1c469c9bf0161907524ab941d57cee45313caea4580d725d62e66d5b9d49",
+        "start_P": 162,
+        "end_P": 203
+      },
+      "whole_selected_premise": "Professional conversation draws both guards away while the hidden planner can hear only part of it.",
+      "primary_L": "L2",
+      "L_rationale": "Service invitation and shared-attention challenge exploit actual guard interests.",
+      "primary_H": "H1",
+      "H_rationale": "Small executes the lure; Dust waits, peeks and enters the protected room.",
+      "eligibility_and_limits": "No unseen sexual act or complete hearing from the vase; immediate success is not safe total recovery.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H046",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "716e1c469c9bf0161907524ab941d57cee45313caea4580d725d62e66d5b9d49",
+        "start_P": 208,
+        "end_P": 242
+      },
+      "whole_selected_premise": "The real man confirms the proxy but chose marriage over health, defeating the investigators preferred rescue script.",
+      "primary_L": "L0",
+      "L_rationale": "Actual identity answers and different chosen wish are portable facts.",
+      "primary_H": "H1",
+      "H_rationale": "Dust asks want/price and hears Dorecks willing contract, not an unwilling hidden replacement victim.",
+      "eligibility_and_limits": "Illness/hallucination insults are Dust appraisals, not clinical diagnosis; past princess feats are Dorecks report.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H047",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "716e1c469c9bf0161907524ab941d57cee45313caea4580d725d62e66d5b9d49",
+        "start_P": 243,
+        "end_P": 268
+      },
+      "whole_selected_premise": "A dangerous forced childhood outing is remembered as the beginning of love, while the listener cannot abandon his serious old role.",
+      "primary_L": "L1",
+      "L_rationale": "Love-is-blind and not-my-character frame competing interpretations of actual reported distress.",
+      "primary_H": "H1",
+      "H_rationale": "Doreck recalls coercive taking and bedside doctors; Dust recognizes risk and listens for useful facts.",
+      "eligibility_and_limits": "Romantic retrospective meaning does not supply original consent or erase bodily danger; role metacomment alone does not warrant H3.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H048",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "716e1c469c9bf0161907524ab941d57cee45313caea4580d725d62e66d5b9d49",
+        "start_P": 269,
+        "end_P": 299
+      },
+      "whole_selected_premise": "The proxy relationship is willingly accepted, and a new shared-senses fact exposes the whole interrogation.",
+      "primary_L": "L2",
+      "L_rationale": "Direct how-does-it-feel inquiry and a belated technical disclosure have unequal prior access.",
+      "primary_H": "H1",
+      "H_rationale": "Dust gives water/back care, then approaches to seize proof and is actually surrounded with Small captured.",
+      "eligibility_and_limits": "Adult emotional/intimacy plans remain non-graphic and unperformed; unknown sensory link is not an earlier available cue.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H049",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "716e1c469c9bf0161907524ab941d57cee45313caea4580d725d62e66d5b9d49",
+        "start_P": 306,
+        "end_P": 351
+      },
+      "whole_selected_premise": "A devil checks the patients medicine and proposes perfect governance, but the excluded bride remains the protective stake.",
+      "primary_L": "L2",
+      "L_rationale": "Rough own voice, patient-care question, direct post-contract inquiry and flattering insult distinguish audiences.",
+      "primary_H": "H1",
+      "H_rationale": "Mutual care and explicit no-killing term coexist with captivity and uninformed spouse substitution.",
+      "eligibility_and_limits": "Possible national benefit does not authorize the bride deception; future intimacy is unperformed and no moral innocence follows from gentle care.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H050",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "716e1c469c9bf0161907524ab941d57cee45313caea4580d725d62e66d5b9d49",
+        "start_P": 355,
+        "end_P": 395
+      },
+      "whole_selected_premise": "The experienced prisoner requests comforts and expects rescue; the next arrival is the informant complaining about the promised immunity.",
+      "primary_L": "L2",
+      "L_rationale": "House-like prison uptake and story-is-different protest expose unequal expectations.",
+      "primary_H": "H1",
+      "H_rationale": "Actual confinement, clothes for cold and new Cecily capture coexist with calm.",
+      "eligibility_and_limits": "Food initially only requested, later supplied; comfort does not make detention consensual or rescue guaranteed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H051",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "716e1c469c9bf0161907524ab941d57cee45313caea4580d725d62e66d5b9d49",
+        "start_P": 396,
+        "end_P": 450
+      },
+      "whole_selected_premise": "Actual harassment is first doubted then admitted, and the offended devil discloses himself while rejecting an impostor excuse.",
+      "primary_L": "L2",
+      "L_rationale": "Not-an-imagined-grievance repair and explicit devil admission establish local updates.",
+      "primary_H": "H1",
+      "H_rationale": "Small is frightened, Dust accepts the problem and Cecily newly learns the identity.",
+      "eligibility_and_limits": "Non-graphic child-directed/provider harassment only. Contract-faithfulness and conditional no-harm claims do not erase coercion.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H052",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "716e1c469c9bf0161907524ab941d57cee45313caea4580d725d62e66d5b9d49",
+        "start_P": 455,
+        "end_P": 480
+      },
+      "whole_selected_premise": "Two comfortable nights fail to produce rescue, and the allegedly released preacher was only moved out of earshot.",
+      "primary_L": "L1",
+      "L_rationale": "Release-versus-isolation is explicitly corrected; the calm front is distinguished from internal worry.",
+      "primary_H": "H1",
+      "H_rationale": "Actual snacks/cards/books and failed reassurance remain alongside real concern.",
+      "eligibility_and_limits": "No sexual act occurred; self-reported worry is not a pure-motive exemption for delay, and no clinical diagnosis follows from harangue.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H053",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "716e1c469c9bf0161907524ab941d57cee45313caea4580d725d62e66d5b9d49",
+        "start_P": 481,
+        "end_P": 531
+      },
+      "whole_selected_premise": "The sick-prisoner ruse misses the resident doctor and reinforced guards, then the hostage idea is called before it happens.",
+      "primary_L": "L0",
+      "L_rationale": "Plan, known household resource, actual rapid response and anticipated intention are portable.",
+      "primary_H": "H1",
+      "H_rationale": "Dust and Small actually try the ruse, but lack weapons and face five guards.",
+      "eligibility_and_limits": "Hostage taking is unperformed; delayed rescue/hostage explanation is still a hypothesis here, not already known to him.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H054",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "native_member_sha256": "e501fd6780da8af25aa09626c43fc190422ba7cad90ff85e464e0fd0162a6be2",
+        "start_P": 3,
+        "end_P": 54
+      },
+      "whole_selected_premise": "The apparent substitute is the real princess, whose negotiated visit improved the cell and displaced the substitute with magic.",
+      "primary_L": "L2",
+      "L_rationale": "Dusts confident Leen address is explicitly corrected; until-wedding permission has a limited scope.",
+      "primary_H": "H1",
+      "H_rationale": "Real princess chooses the visit, misleads king and reports magically stopping Leens proposed arrival.",
+      "eligibility_and_limits": "Her care does not give Leen retrospective consent to sleeping magic; no completed sexual scene or fully informed king approval.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H055",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "native_member_sha256": "e501fd6780da8af25aa09626c43fc190422ba7cad90ff85e464e0fd0162a6be2",
+        "start_P": 59,
+        "end_P": 108
+      },
+      "whole_selected_premise": "A careful question about the shock conditions is followed by a test forced on the resisting questioner.",
+      "primary_L": "L2",
+      "L_rationale": "What-triggers-it asks a usable term; repeated stop/help appeals refute the play framing.",
+      "primary_H": "H1",
+      "H_rationale": "Princess holds Dust, Small refuses help as play, actual shock hurts/paralyzes both and Dust later ignores the pain qualification.",
+      "eligibility_and_limits": "No injury-threshold/comedy/later-success license, no medical benefit claim or guarantee that higher output is safe.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H056",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "native_member_sha256": "e501fd6780da8af25aa09626c43fc190422ba7cad90ff85e464e0fd0162a6be2",
+        "start_P": 109,
+        "end_P": 140
+      },
+      "whole_selected_premise": "Jealousy interrupts the tactical talk, and the princess confirms her religion herself.",
+      "primary_L": "L2",
+      "L_rationale": "An earnest do-you-not question defeats easy banter; actual now-Axis declaration differs from earlier report.",
+      "primary_H": "H1",
+      "H_rationale": "Dust redirects to purpose/contract and Small reacts with actual fear.",
+      "eligibility_and_limits": "No completed declaration of no old attachment; future perfect governance or travel are still intentions.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H057",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "native_member_sha256": "e501fd6780da8af25aa09626c43fc190422ba7cad90ff85e464e0fd0162a6be2",
+        "start_P": 144,
+        "end_P": 187
+      },
+      "whole_selected_premise": "Morning release reveals the letter that stopped the missing rescue, then friends rebuke enjoyment of another failed match.",
+      "primary_L": "L2",
+      "L_rationale": "Actual apology and narrower successful release are distinct from full repair; audience rejects the pleasure framing.",
+      "primary_H": "H1",
+      "H_rationale": "Dust receives the letter and actually shares findings/plans with willing party.",
+      "eligibility_and_limits": "Prior failure of rescue belief is not evidence allies deliberately abandoned him; lifetime celibacy is a forecast, not fact.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H058",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "native_member_sha256": "e501fd6780da8af25aa09626c43fc190422ba7cad90ff85e464e0fd0162a6be2",
+        "start_P": 191,
+        "end_P": 245
+      },
+      "whole_selected_premise": "Disguise lets the old celebrity sit unnoticed until sincere beauty admiration breaks through his professed closure.",
+      "primary_L": "L1",
+      "L_rationale": "Explicit remaining-attachment admission and unqualified short agreement limit earlier distancing.",
+      "primary_H": "H1",
+      "H_rationale": "Borrowed ring/glasses conceal him and he genuinely compliments the apparent bride.",
+      "eligibility_and_limits": "Bride is later revealed as Leen; do not create another actual princess confession or claim the earlier sincere congratulations were false.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H059",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "native_member_sha256": "e501fd6780da8af25aa09626c43fc190422ba7cad90ff85e464e0fd0162a6be2",
+        "start_P": 249,
+        "end_P": 291
+      },
+      "whole_selected_premise": "The wrong priest is swiftly removed, then an apology skips straight to devil exposure without the expected shock.",
+      "primary_L": "L2",
+      "L_rationale": "Misfit ritual voice and abrupt apology-then-accusation are actual pragmatic surprises.",
+      "primary_H": "H1",
+      "H_rationale": "Cecily is unplanned, the bride advances three planned steps and Gaibil notices no activation.",
+      "eligibility_and_limits": "This bride is Leen, not the jail princess. Dust misses the available no-shock cue; no root claim every interruption was planned.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H060",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "native_member_sha256": "e501fd6780da8af25aa09626c43fc190422ba7cad90ff85e464e0fd0162a6be2",
+        "start_P": 292,
+        "end_P": 337
+      },
+      "whole_selected_premise": "Proof of the disguise becomes a collapsing church, and emergency carrying finally reveals the bride is Leen.",
+      "primary_L": "L0",
+      "L_rationale": "Actual spit effect, unexpected expansion, evacuation and corrected identity are portable.",
+      "primary_H": "H1",
+      "H_rationale": "Taylor orders retreat and Dust slows to carry the lagging woman, with initial protest and later support grip.",
+      "eligibility_and_limits": "No harmless total plan, no safe casualty census or retroactive permission from later enjoyment; current recognition does not fix prior inference.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H061",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "native_member_sha256": "e501fd6780da8af25aa09626c43fc190422ba7cad90ff85e464e0fd0162a6be2",
+        "start_P": 340,
+        "end_P": 395
+      },
+      "whole_selected_premise": "Public recognition misidentifies the protected woman, and an enemy turns the revived legend into a food supply.",
+      "primary_L": "L2",
+      "L_rationale": "Public old-name declaration and embellished loyal-knight performance create a recipient reaction different from Dusts aim.",
+      "primary_H": "H1",
+      "H_rationale": "Ring loss exposes Dust; fan-club and jealous comments feed Gaibil and are followed by deliberate enemy amplification.",
+      "eligibility_and_limits": "Not voluntary admiration-only identity advertising or proof all public stories true; child species not publicly confirmed until actual transformation later.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H062",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "native_member_sha256": "e501fd6780da8af25aa09626c43fc190422ba7cad90ff85e464e0fd0162a6be2",
+        "start_P": 398,
+        "end_P": 444
+      },
+      "whole_selected_premise": "Escape would protect Leen but endanger the shock-bound princess, so Leen asks for both and supplies a real chosen hand.",
+      "primary_L": "L2",
+      "L_rationale": "Specific protect-both request, reciprocal princess/knight address and offered-hand uptake condition cooperation.",
+      "primary_H": "H1",
+      "H_rationale": "Dust changes the choice, child says yes/transforms publicly, Leen boards and men actually provide weapons.",
+      "eligibility_and_limits": "No full competing-leisure trial merely from flight choice; serious protection changes vow permission. Staff source borrowed-or-stolen remains unknown.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H063",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "native_member_sha256": "e501fd6780da8af25aa09626c43fc190422ba7cad90ff85e464e0fd0162a6be2",
+        "start_P": 446,
+        "end_P": 479
+      },
+      "whole_selected_premise": "Raw attacks fail and a request to stop is refused, so spell power is exchanged for an actual visual screen.",
+      "primary_L": "L2",
+      "L_rationale": "Power-does-not-matter reallocates a helpers contribution and receives her positive yes.",
+      "primary_H": "H1",
+      "H_rationale": "Speed beats movement but not armor; real hostage threat prevents an easy exit.",
+      "eligibility_and_limits": "No universal weakness from ineffective attack or complete informed detail from trust-based assent; enemy staged language still accompanies real danger.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H064",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "native_member_sha256": "e501fd6780da8af25aa09626c43fc190422ba7cad90ff85e464e0fd0162a6be2",
+        "start_P": 480,
+        "end_P": 517
+      },
+      "whole_selected_premise": "A cart creates the opening for a practiced joint fire-spear, then a snagged shaft accidentally supplies the heroic pose.",
+      "primary_L": "L1",
+      "L_rationale": "The narrator explicitly corrects the spectators intentional-heroism interpretation to being thrown off.",
+      "primary_H": "H1",
+      "H_rationale": "Leen screen, child turn/fire, Axis materials and Dust timing/skill produce actual injury and smaller form.",
+      "eligibility_and_limits": "Not Dust solo ownership, no permanent kill or causal mastery of the accident; source fiction is not real-world fire/medical guidance.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H065",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "native_member_sha256": "e501fd6780da8af25aa09626c43fc190422ba7cad90ff85e464e0fd0162a6be2",
+        "start_P": 518,
+        "end_P": 552
+      },
+      "whole_selected_premise": "A death-seeking final pose is interrupted by the friend whose care it hides, and a public brainwash story reduces his blame.",
+      "primary_L": "L2",
+      "L_rationale": "Private patient care and public villain performance have different recipients and implications.",
+      "primary_H": "H1",
+      "H_rationale": "Doreck asks the devil to live and Gaibil checks his welfare before claiming mind control loudly.",
+      "eligibility_and_limits": "Public claim contrasts prior willing contract; no independent actual brainwashing proof or final sentence from crowd opinion.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H066",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "native_member_sha256": "e501fd6780da8af25aa09626c43fc190422ba7cad90ff85e464e0fd0162a6be2",
+        "start_P": 554,
+        "end_P": 573
+      },
+      "whole_selected_premise": "The fighter cannot guarantee a nonlethal stop, and the princess interrupts the charge with the very coercive shock device.",
+      "primary_L": "L0",
+      "L_rationale": "Actual capacity limit, unexpected intervention and collateral incapacitation are portable.",
+      "primary_H": "H1",
+      "H_rationale": "Princess tackles/cancels, shock strikes both and Dust blacks out from nearby effects.",
+      "eligibility_and_limits": "No completed mass killing, solo final Dust solution, harmless test or immediate observed enemy death.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H067",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U015",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "27d8dcffde244b6b30ce7853bc82783329a3fdc7ea72090bc65b97728ceb44fd",
+        "start_P": 6,
+        "end_P": 24
+      },
+      "whole_selected_premise": "Two days of unconsciousness become a national hero story and merchandise the subject never wanted.",
+      "primary_L": "L2",
+      "L_rationale": "It-became-the-account marks institutional narration, while the mock interview exploits unwanted celebrity.",
+      "primary_H": "H1",
+      "H_rationale": "Dust later sees merchandise; Doreck reportedly gets a light penalty under a public manipulation account.",
+      "eligibility_and_limits": "Do not accept the official version as independent truth of mind control, or infer royalties/consent from commerce. King exhaustion is actual report.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H068",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U015",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "27d8dcffde244b6b30ce7853bc82783329a3fdc7ea72090bc65b97728ceb44fd",
+        "start_P": 26,
+        "end_P": 44
+      },
+      "whole_selected_premise": "The happy returning exile is the princess herself, but her actual instruction was to cool her head and learn outside.",
+      "primary_L": "L2",
+      "L_rationale": "Bare-name permission/repair and same-exile label have different scope from the original royal wording.",
+      "primary_H": "H1",
+      "H_rationale": "Rionor actually joins the trip and competes for space, while Dust interprets possible parental respite.",
+      "eligibility_and_limits": "No identical formal exile decree, adventurer registration or Axis-priest appointment is shown.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H069",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U015",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "27d8dcffde244b6b30ce7853bc82783329a3fdc7ea72090bc65b97728ceb44fd",
+        "start_P": 46,
+        "end_P": 73
+      },
+      "whole_selected_premise": "The desired two-woman attention produces anxiety, and an observer retracts his envy after looking at the actual scene.",
+      "primary_L": "L2",
+      "L_rationale": "Only-for-a-while limits the lifelong celibacy prediction, and no-right-answer names recipient pressure.",
+      "primary_H": "H1",
+      "H_rationale": "Both women choose arm contact, Dust is uncomfortable and child adds nonsexual partner attachment.",
+      "eligibility_and_limits": "No mouth kiss, marriage or settled triangle; adult service comment non-graphic and child is not an adult romantic rival.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H070",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U016",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "native_member_sha256": "887d168e69e87b05dc7e4d8ac6818717d8082fefab0867a80faaec9a70847a98",
+        "start_P": 3,
+        "end_P": 19
+      },
+      "whole_selected_premise": "The supposedly defeated devil wakes in the patients room without bonds, spared partly by comparison with the princess.",
+      "primary_L": "L2",
+      "L_rationale": "Reported royal judgment separates pragmatic lenience from the devils own admission of destructive intent.",
+      "primary_H": "H1",
+      "H_rationale": "Gaibil is alive/bandaged, Doreck reports his plea and future service instruction.",
+      "eligibility_and_limits": "Attributed no-human-harm defense does not erase actual earlier captivity, shock and church damage; Dust is absent.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H071",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U016",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "native_member_sha256": "887d168e69e87b05dc7e4d8ac6818717d8082fefab0867a80faaec9a70847a98",
+        "start_P": 21,
+        "end_P": 34
+      },
+      "whole_selected_premise": "The perfect villain boast is broken by coughing, and comfortable envy leads to a new wish for personal merit.",
+      "primary_L": "L2",
+      "L_rationale": "All-as-planned denial answers explicit gratitude, then the new own-appeal wish changes the means sought.",
+      "primary_H": "H1",
+      "H_rationale": "Actual friendship, reversed patient care and a new handshake replace proxy marriage with a growth request.",
+      "eligibility_and_limits": "No complete cure, guaranteed marriage, printed new price/refund or proof every earlier action was planned; private epilogue not Dust knowledge.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H072",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U017",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "ebc268ad283203a3781ac15d42dc2fdd415f3c443553217f063d841a1572bf30",
+        "start_P": 3,
+        "end_P": 19
+      },
+      "whole_selected_premise": "A supposedly finished seven-volume story returns under more, with a discarded setting and deliberately stronger new character traits.",
+      "primary_L": "L1",
+      "L_rationale": "Supposed-to-have-ended and the self-interrupted preference comment are material creator wording.",
+      "primary_H": "H1",
+      "H_rationale": "Author explains production choices and two recognizable influences.",
+      "eligibility_and_limits": "Creator plane, no narrative volume8 or canon visit to the abandoned candidate; cough is rhetorical rather than medical evidence.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "DUSTCONT-WHOLE-H073",
+      "source_id": "DUST-CONT",
+      "boundary": {
+        "component_id": "DUST-CONT-U017",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "ebc268ad283203a3781ac15d42dc2fdd415f3c443553217f063d841a1572bf30",
+        "start_P": 26,
+        "end_P": 32
+      },
+      "whole_selected_premise": "Thanks for physically picking up the book repairs into purchasing because the audience may be electronic.",
+      "primary_L": "L2",
+      "L_rationale": "The metapragmatic repair accommodates actual medium and recipient access.",
+      "primary_H": "H1",
+      "H_rationale": "Author closes with credited roles and a changed thanks formula.",
+      "eligibility_and_limits": "No root acquisition certification, native-human voice test, anime viewing or independent character trial.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T12:33:51.152475+00:00",
+      "not_an_independent_prediction_trial": true
+    }
+  ]
+}

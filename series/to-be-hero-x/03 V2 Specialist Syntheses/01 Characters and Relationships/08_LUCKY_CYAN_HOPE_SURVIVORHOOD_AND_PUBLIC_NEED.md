@@ -7,7 +7,7 @@ generation: V2
 phase: 3
 specialist_number: 8
 status: canonical
-source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; targeted AV through TBHX-AV-E11-001; later Qīng evidence through E21
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; targeted AV through TBHX-AV-E11-001; later Qīng evidence through E21; post-freeze paired-source E09/E24 coin-donor audit TBHX-AV-E09-001 within its still-frame and text limits
 canonical_home: 03 V2 Specialist Syntheses/01 Characters and Relationships
 primary_claim_keys:
 - P2-CR-CH04
@@ -68,7 +68,8 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
-last_updated: 2026-08-17
+last_updated: 2026-10-25
+revision: AV-2026-10-25-E09-001
 ---
 
 # Lucky Cyan: Hope, Survivorhood, and Public Need
@@ -423,6 +424,10 @@ A person may know what she wants and still lack the infrastructure to enact it.
 Qīng's busking is therefore both artistic and economic.
 
 The guitar is not merely a symbol of authenticity. It is an instrument through which relationship becomes livelihood.
+
+**Current revision (`TBHX-AV-E09-001`, 2026-10-25): the first nighttime coin.** Native E09 frames (WEB 11:44–12:09) show a gold coin landing near young Qīng as she plays at night. She calls `谢谢` after a dark-suited man who raises a hand without turning around, then holds the coin and resolves `在此之前 / 我要先学会自食其力`. E24's retrospective montage re-stages this encounter from the giver's side and identifies him as X in his civilian presentation. The identification is retrospective: E09 withholds his face, and nothing shows Qīng learning who he was.
+
+The consequence for this specialist is bounded but real. One of the first coins of Qīng's post-escape self-support arrived as an anonymous, unclaimed gift — no petition, no blessing requested, no luck service, no claim on her future; a passerby left a coin while she played and walked on. That is the inverse of the Sacred Maiden economy in §4, where gifts and hopes travel toward Qīng as demands on her continued availability. Its adjacency to `自食其力` is shown by the source; any claim that the coin prompted her resolve is inference. The relation is directed and asymmetrical: X gave and left, and Qīng thanked a stranger. For X the coin later became a remembered, and mistaken, beginning (Specialist 15 §39); for Qīng, as far as the source shows, it was an ordinary coin of livelihood. No luck mechanism, reverse-luck loop or causal link between her abilities and his follows. The later daytime tipper (WEB 13:24–13:33) is a different, unidentified giver.
 
 ---
 
@@ -1252,6 +1257,7 @@ Rejected. Shared provenance deepens the relation but does not establish romantic
 | `SP08-09` | Queen's recognition of Qīng through song rather than luck is a strong de-totalizing relation. | E12 F-DLG/INT | High | Full intervention AV pending. |
 | `SP08-10` | Later Lucky Cyan heroism distributes care inside cooperative systems rather than requiring her to embody hope alone. | E19-E20 F-DLG/F-VIS/INT | High broad / Medium-High exact mechanics | Exact healing/shielding mechanics open. |
 | `SP08-11` | Visibility is simultaneously capture risk and protection against erasure. | E09-E21 cross-case | High | Effect varies by context. |
+| `SP08-12` | One of the first coins of Qīng's post-escape self-support is an anonymous, unclaimed gift from X in civilian presentation, identified retrospectively by E24 (`TBHX-AV-E09-001`); it stands outside the petition economy of the Sacred Maiden role. | E09 F-VIS/F-DLG + E24 F-VIS/F-DLG/REV + INT | High identity / Medium-High interpretation | Qīng's knowledge of the giver, X's motive and any coin mechanism remain open. |
 
 ---
 
@@ -1269,6 +1275,7 @@ Rejected. Shared provenance deepens the relation but does not establish romantic
 ### E09
 
 - escape and `自食其力` material independence — `TBHX_V2_E09_DEEP_READING.md`, escape/survival movement;
+- the nighttime coin and its retrospective donor — `TBHX_V2_E09-E24_COIN_DONOR_PAIRED_SOURCE_AUDIT.md` (`TBHX-AV-E09-001`), E09 WEB 11:44–12:09 with E24 WEB 20:02–20:25;
 - busking/public expansion — street-performance sections;
 - DOS recruitment and resource-dependent consent — institution sections;
 - Lucky Cyan name/image formation — hero-identity sections;
@@ -1329,6 +1336,7 @@ The following remain open and must not be resolved by specialist synthesis alone
 - the identity of the E16 closing phone partner unless independently source-secured elsewhere;
 - the exact limits of Lucky Cyan's healing, protection, purification, charm technology, and green field/object;
 - whether Qīng can permanently preserve an ordinary/fallible private sphere at her current hero visibility;
+- whether Qīng ever learns that the E09 nighttime coin came from X, and whether that gift bears on any later relation between them;
 - future relations among Qīng, Queen, Little Johnny, Big Johnny, Liu Zhen, DOS, and the orphanage.
 
 ---

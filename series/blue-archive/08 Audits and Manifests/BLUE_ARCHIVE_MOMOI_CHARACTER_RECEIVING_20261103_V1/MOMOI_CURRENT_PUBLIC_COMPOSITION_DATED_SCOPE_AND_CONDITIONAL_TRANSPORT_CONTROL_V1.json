@@ -1,0 +1,282 @@
+{
+  "schema": "MOMOI_CURRENT_PUBLIC12_DATED_COMPOSITION_SCOPE_AND_CONDITIONAL_TRANSPORT_CONTROL_V1",
+  "artifact_id": "MOMOI_CURRENT_PUBLIC_CONTROL_20261103_V1",
+  "metadata_prepared": "2026-11-03",
+  "current_role": "C-only public metadata proposal under actual privateV4 adoption WITH LIMITS; publicQA/ROOT composed-byte adoption remain required",
+  "exact_current_first11_nonself_components": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MOMOI_CHARACTER_MONOGRAPH.md",
+      "bytes": 29862,
+      "sha256": "c680cdf19b1816700e00fb25952499803e5e4cea66f3746bf7828607eb5cb99c",
+      "git_blob_oid_of_actual_bytes": "89931eaf7c2d1b123abba4e2f9b4ede1e7f46515"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ALL105_NEW_PURPOSES_MOP000_MOP035_V1.json",
+      "bytes": 502620,
+      "sha256": "9e51d97b2aeb02ad33fa0d53ce2af8f850367107d96944b83abec0e7894508e8",
+      "git_blob_oid_of_actual_bytes": "127f8e9da4bd6bb11400b110878787a246d5d2df"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ALL105_NEW_PURPOSES_MOP036_MOP070_V1.json",
+      "bytes": 627239,
+      "sha256": "2ac8355598066b779e0acf31af63d0258a2f1cf1d6aaae9002bd54e78dc3df41",
+      "git_blob_oid_of_actual_bytes": "4ff18b32c52cf6522a14f5219db525b4ab0df214"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ALL105_NEW_PURPOSES_MOP071_MOP104_V1.json",
+      "bytes": 812110,
+      "sha256": "3180ca6a65ffe25adb25049e35a7b71bbacb83894d39badd0ee90d96793439f9",
+      "git_blob_oid_of_actual_bytes": "8d9eb3bbd934d31669c77729709c811ed0dc7098"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_SOURCE6_COMPLETE12_QUESTIONS_GRADE_AND_CURRENT_QUALIFIERS_V1.json",
+      "bytes": 33277,
+      "sha256": "b5402ebdd5b954e25f0029200241d356a699fcc0f7094c2a7886a3f356da021f",
+      "git_blob_oid_of_actual_bytes": "94244448a435d50adf83800ac5be6f22d855528a"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_CURRENT_COMPLETE_LITERAL60_SOURCE_QUESTION_PURPOSE_RIVAL_END_GAP_REGISTER_V1.json",
+      "bytes": 493639,
+      "sha256": "276fea235a05ddc1221e8fdfd189074caa7bec151401d639d2aeed62a380c573",
+      "git_blob_oid_of_actual_bytes": "2e1d19a160452bd0940920e73564301a23733250"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ALL105_NEW_PURPOSE_EXACT_PART_BODY_RELATION_INDEX_V1.json",
+      "bytes": 330053,
+      "sha256": "1448b1d663460f2be8a34707d92fd7adff2bb17a53d32d65e9c931383e841bbb",
+      "git_blob_oid_of_actual_bytes": "071c8c1448b400efb6d03764feef6fa3cd9e3178"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_CURRENT_EXACT8_ORIGINAL_CUSTODY_AND_CURRENT_GRAPH_TRANSPORT_V1.json",
+      "bytes": 17334,
+      "sha256": "703460d458a9e2404aeb61814d0f3b903143128b52bbf7886060b34fffe84424",
+      "git_blob_oid_of_actual_bytes": "b41cfdbaef59feada8476fa9e178e6571099a71f"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_PRIOR_DISTINCT_COMPLETE_COMPONENT_REVIEW_TRUTHFUL_INPUT_REPORT_V1.json",
+      "bytes": 775807,
+      "sha256": "1db155db31d9e8a33940b9d9101ccee00fec8bf61331db4d6e633560af8fc3cb",
+      "git_blob_oid_of_actual_bytes": "1a3d017779e1f699132149f4e0ecb4b0b7838e3a"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ACTUAL_ROOT_PRIVATE_V4_SEMANTIC_ADOPTION_PUBLIC_REPORT_V1.json",
+      "bytes": 36865,
+      "sha256": "359706d9b5fc78be90ff6425ba822d3b13bda0d7941331d0d4aeca1bc2cad997",
+      "git_blob_oid_of_actual_bytes": "e40582cd1df42d17174391c5e3f9cade143eab97"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_CURRENT_PUBLIC_CUSTODY_NAVIGATION_AND_HEADER_AUTHORITIES_V1.json",
+      "bytes": 28040,
+      "sha256": "43fac2e7446e8211cc2ba7ea70e5be120396c332835d050fa8bc62d6861a0005",
+      "git_blob_oid_of_actual_bytes": "cdf0c6a5516bfc272013ae8685d3536e9c3ab434"
+    }
+  ],
+  "current_header_authority_map": [
+    {
+      "header_witness_id": "ROOT_MOMOI_PRIVATE_V4_SEMANTIC_ADOPTION_20261015_V1",
+      "original_tuple": {
+        "bytes": 438078,
+        "sha256": "7561297d17a969ac28e1d28325aaabda4aa380d02fbf4aa2675c03fe39f7ed11",
+        "git_blob_oid_of_actual_bytes": "59bc72ea7b3dc0288c0a72eb7e1a17e5f14ec5de"
+      },
+      "current_public_report": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ACTUAL_ROOT_PRIVATE_V4_SEMANTIC_ADOPTION_PUBLIC_REPORT_V1.json",
+        "bytes": 36865,
+        "sha256": "359706d9b5fc78be90ff6425ba822d3b13bda0d7941331d0d4aeca1bc2cad997",
+        "git_blob_oid_of_actual_bytes": "e40582cd1df42d17174391c5e3f9cade143eab97"
+      },
+      "role": "Prior actual private8 acceptance only, not this public12 byte acceptance"
+    },
+    {
+      "header_witness_id": "MOMOI_PRIOR_DISTINCT_COMPONENT_REVIEW_WITH_V4_CROWN_QUALIFICATION_V1",
+      "original_V3_tuple": {
+        "bytes": 745745,
+        "sha256": "3689bc74197dcfca6f29b0eea64e1f1e155184ae6216f50b9fa9fcb40116e66b",
+        "git_blob_oid_of_actual_bytes": "c6cf19be1110ca82a43ab1c6969eec83e974c11c"
+      },
+      "finite_V4_tuple": {
+        "bytes": 34577,
+        "sha256": "97ca74c575717e0e626a23fdcdd82a7980fb642daf5fff43e76645c5bd9caab1",
+        "git_blob_oid_of_actual_bytes": "b97502c9814f7912e0a4eac02cfb9c2e58957ece"
+      },
+      "current_public_report": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_PRIOR_DISTINCT_COMPLETE_COMPONENT_REVIEW_TRUTHFUL_INPUT_REPORT_V1.json",
+        "bytes": 775807,
+        "sha256": "1db155db31d9e8a33940b9d9101ccee00fec8bf61331db4d6e633560af8fc3cb",
+        "git_blob_oid_of_actual_bytes": "1a3d017779e1f699132149f4e0ecb4b0b7838e3a"
+      },
+      "role": "Complete prior V3 WITH_FINDINGS plus exact finite V4 current resolution, reported by a new composer; no new independent public-byte QA"
+    }
+  ],
+  "complete_current_composition_qualifications": {
+    "metadata_prepared": "2026-11-03",
+    "role": "C-only metadata proposal, using actually adopted privateV4; distinct public-byte QA and ROOT composed-byte adoption remain separate actual gates.",
+    "people_and_roles": "Original body/new105 author /root/publishing_shared7_review; original component and finite V4 reviewer /root/next_cast_source_preparation; this new reporter/composer /root/current_preflight_requirements; actual ROOT private8 adoption is separately attributed. No fresh independent literary review, source inspection or cryptographic ROOT signature is claimed.",
+    "source_grades": "Author3WHOLE715+3SELECTED503=1218; component peer6WHOLE1641; ROOT original body5WHOLE1189+FinalSELECTED150 and later selected162 separately. Frozen common105 original26WHOLE79SELECTED remains attributed. Metadata composition adds no primary/native/raw/AV/normal105 receiving.",
+    "historical_states": "Original BODYV2 header, new105NOT_AUTHORED and pending source/transport/review fields are complete dated creation history. OriginalV3 QA WITH_FINDINGS is not relabeled; currentfiniteV4 resolves the exact8 crown clauses and reuses the unchanged scope. PrivateROOT acceptance governs private8 only, not this public-byte proposal.",
+    "eight_crown_precision": "MOP102 was the direct custody error; the other seven actor/holder/collective precisions do not prove eight separate ownership acts. Collective recovery and Yuzu continued hold coexist with Momoi local win, reassurance, friendship, cleaning and play; her participation is not erased.",
+    "finite_actors": "Momoi gives the console TO Midori; probably-first remains tentative. Midori observes missing chip damage; Alice offers the bug hypothesis; Yuzu volunteers the later match and owns the unwanted celebrity afterstate. Alice invites Toki; club refusal and Toki later friend-choice remain distinct. Neru report, handover, payment and new game are separate endpoints.",
+    "ordinary_value": "Play, stories, sweets, drink, softness, naps, console memories, craft, service and chosen company retain intrinsic value independent of crisis payoff or finished product. Actual discomfort, refusal and unfinished work remain contrary evidence.",
+    "identity_and_scope": "One existing P3-CHAR-MOMOI/home54/F121, BA_PERSON_MOMOI variants13011/10094, no mandatory inside named duty, extraREL, identity join or registry repair.",
+    "ROOT_private_projection": "Only mechanical /checks array may be omitted from public ROOT report with exact ordered count/hash, private whole receipt and original member order; all12 ROOT warrants and every other member survive. The separate1202071 proof is only an existing metadata-bound opaque private witness, never read or copied here.",
+    "live_current_state": "Reported baseline152/355 and19/29 remains unchanged; next178. Currentmain/owner instructions govern publication and merges. Original October merge-reserved strings remain dated history. This preparation performs no R/shared/Git/provider operation.",
+    "gaps_models_credit": "All14 original gaps remainOPEN/models0; no new count, source admission, named/extraREL, identity, install/publication/runtime or merge credit."
+  },
+  "current_body_metadata": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MOMOI_CHARACTER_MONOGRAPH.md",
+    "bytes": 29862,
+    "sha256": "c680cdf19b1816700e00fb25952499803e5e4cea66f3746bf7828607eb5cb99c",
+    "git_blob_oid_of_actual_bytes": "89931eaf7c2d1b123abba4e2f9b4ede1e7f46515",
+    "physical_lines": 173,
+    "literal_paragraphs": 60,
+    "original156_tuple": {
+      "bytes": 28571,
+      "sha256": "22b2c44b6c90b63f8389866d01aa95a31a8dd7fa8c5b1ac0a9e4e95201c6d597",
+      "git_blob_oid_of_actual_bytes": "d8f6fdbd97a0b1349c75b62c452186ad56e4e72c"
+    },
+    "line_delta": 17,
+    "UTF8_byte_delta": 1291,
+    "all60_substantive_changes": 0
+  },
+  "original_register_geometry_role": "Original156 full_body_reconstruction remains complete dated history. The separately added current public reconstruction and measured60 offsets govern public use. Source6 physical locators and all525 meanings are unchanged.",
+  "actual_prior_ROOT_semantic_authority": {
+    "private_witness_id": "MOMOI_ACTUAL_ROOT_PRIVATE_V4_438078",
+    "tuple": {
+      "bytes": 438078,
+      "sha256": "7561297d17a969ac28e1d28325aaabda4aa380d02fbf4aa2675c03fe39f7ed11",
+      "git_blob_oid_of_actual_bytes": "59bc72ea7b3dc0288c0a72eb7e1a17e5f14ec5de"
+    }
+  },
+  "actual_prior_completed_component_QA": {
+    "original_V3_WITH_FINDINGS": {
+      "bytes": 745745,
+      "sha256": "3689bc74197dcfca6f29b0eea64e1f1e155184ae6216f50b9fa9fcb40116e66b",
+      "git_blob_oid_of_actual_bytes": "c6cf19be1110ca82a43ab1c6969eec83e974c11c"
+    },
+    "finite_V4_resolution": {
+      "bytes": 34577,
+      "sha256": "97ca74c575717e0e626a23fdcdd82a7980fb642daf5fff43e76645c5bd9caab1",
+      "git_blob_oid_of_actual_bytes": "b97502c9814f7912e0a4eac02cfb9c2e58957ece"
+    }
+  },
+  "current_public_byte_QA_ROOT_install_publication_runtime_at_preparation": "PENDING_SEPARATE_ACTUAL_RECEIPTS_NO_AUTOMATIC_FUTURE_CREDIT",
+  "reported_published_baseline_at_preparation": {
+    "required_packages": 152,
+    "required_total": 355,
+    "named": 19,
+    "named_total": 29,
+    "role": "Prior ROOT adoption snapshot only; this composer performs no live Git/provider query and no Momoi increment"
+  },
+  "selfpin_rule": "CONTROL binds first11; external allowlist pins all12",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "new_credit": 0,
+  "current_private_historical_body_codec_derivative_20261104_V1": {
+    "scope": "FIVE_PRIVATE_HISTORICAL_BODY_CODECS_ONLY_FINITE_PUBLIC_DERIVATIVE_20261104",
+    "stage": "C_ONLY_PROPOSED_CURRENT_BYTES_AWAITING_DIFFERENT_QA_AND_ACTUAL_ROOT_BYTE_ACCEPTANCE",
+    "removed_historical_body_field": "/full_body_reconstruction/complete156_raw_UTF8_base64",
+    "retained_historical_body_tuple": {
+      "bytes": 28571,
+      "sha256": "22b2c44b6c90b63f8389866d01aa95a31a8dd7fa8c5b1ac0a9e4e95201c6d597",
+      "git_blob_oid_of_actual_bytes": "d8f6fdbd97a0b1349c75b62c452186ad56e4e72c"
+    },
+    "current_body_codec_and_readable_layouts": "UNCHANGED_BYTE_FOR_BYTE;not this remedy's subject",
+    "private_byte_custody": "Original frozen C bodies and full raw inverses remain unchanged and private. Prior standalone recovery claims describe their dated original packages; this public derivative does not carry the removed historical body bytes.",
+    "preserved_intellectual_scope": "Every unique original/current literary literal, comparative/reviewer/Root judgment,53-case qualification obligation and source/recipient/mode boundary survives. Old finding/HOLD stages remain dated; no new source course or semantic acceptance.",
+    "authority": "Owner-approved finite class/representation commission only; earlier semantic/publicC decisions remain dated to their original bytes, not automatic new byte certificates."
+  },
+  "current_eligible_metadata_preparation_20261104_V1": {
+    "schema": "CURRENT_ELIGIBLE_METADATA_PROPOSAL_WITH_DATED_PUBLIC_FORM_AUTHORITY_V1",
+    "prepared": "2026-11-04",
+    "status_choice": "canonical",
+    "status_scope": "Existing evidence-supported provisional scope stays for Alice/Himari/Rei, canonical for the other earlier four. Only Arona/Yuzu/Plana draft/veto surfaces are promoted. Proposed C bytes are not current main authority merely by label.",
+    "current_stage": "CURRENT_ELIGIBLE_METADATA_PROPOSED_20261104;PRIOR_PUBLIC_C_FORM_ROOT_ACCEPTED_WITH_LIMITS;FINAL_DERIVATIVE_QA_AND_ROOT_BYTE_ACCEPTANCE_REQUIRED_BEFORE_INSTALLATION",
+    "composer": "/root/current_preflight_requirements",
+    "role_disclosure": "Metadata derivative composer; prior Momoi/Sumire author/composition and finite class-review roles disclosed. Not independent QA, Root personal byte acceptance, owner exact-byte signature or new source reviewer.",
+    "commission": {
+      "id": "ROOT_TEN_ACCEPTED_PUBLIC_PACKAGE_CANONICAL_METADATA_DERIVATIVE_COMMISSION_V1",
+      "bytes": 9702,
+      "sha256": "a7e382a1fc2b6945c69e5b6eb6b4d4db41e3a65ae13d89dc1ab52a504e6bd32e",
+      "meaning": "Owner-authorized analytical goal plus Root finite composition commission; no owner personal exact-byte review, merge or final derivative acceptance."
+    },
+    "prior_public_form_actual_Root_authority": {
+      "receipt_id": "ROOT_ACTUAL_MOMOI_PUBLIC173_LITERAL60_UNCHANGED525_COMPLETE_RAW_AND_DISTINCT_BYTE_QA_ACCEPTANCE_WITH_LIMITS_20261103_V1",
+      "original_filename": "ROOT_ACTUAL_MOMOI_PUBLIC173_LITERAL60_UNCHANGED525_COMPLETE_RAW_AND_DISTINCT_BYTE_QA_ACCEPTANCE_WITH_LIMITS_20261103_V1.json",
+      "bytes": 33570,
+      "sha256": "a1c2aed72141813a0ed9dc322dd52a84ab4fd3140180f1fe7eaa60f1f95fdad9",
+      "role": "ACTUAL_PRIOR_PUBLIC_C_FORM_ROOT_ACCEPTANCE_WITH_LIMITS;DATED_TO_ITS_EXACT_FORM",
+      "original_reason_pointer": "/Root_own8_acceptance_warrants",
+      "complete_unique_Root_public_form_judgments": [
+        {
+          "topic": "Authority and roles",
+          "reason": "The current CONTROL and NAV accurately distinguish prior privateV4 ROOT adoption, original V3 WITH_FINDINGS, finite V4 crown resolution, later composer, independent public-byte reviewer and this new ROOT byte acceptance. Dated pending creation fields do not override these dated authorities."
+        },
+        {
+          "topic": "Positive ordinary value",
+          "reason": "Play, snacks, story craft, softness, naps, gift memory and particular company remain substantive goods throughout the unchanged60 paragraphs and525 values. The metadata transformation removes none for low dramatic stakes; fatigue, discomfort, refused participation and unfinished products remain contrary evidence."
+        },
+        {
+          "topic": "Eight crown precisions",
+          "reason": "The current actor account preserves Momoi’s local win, reassurance, friendship, cleaning and play alongside collective recovery and Yuzu’s continuing crown hold. MOP102 was the direct custody error; the other seven precisions do not establish eight independent ownership acts."
+        },
+        {
+          "topic": "Named actors in context",
+          "reason": "Current introduction/middle/end and major relations retain Midori’s separate gift/reception, Alice’s bug hypothesis and Toki invitation, Yuzu’s later voluntary play and unwanted acclaim, and named Akira at the first described rescue. P040’s brief thief-warning job description leads immediately into P041’s named actor and does not warrant mechanically importing Midori’s distinct first-use edit."
+        },
+        {
+          "topic": "Recipients and endpoints",
+          "reason": "Actual cleaning, bought food/drink and enjoyed company coexist with pressured attendance, dangerous withheld work, soreness and unfinished writing. Neither warmth nor costume supplies general consent, clinical success, payment, lawful transfer, a completed new game or reformed thief."
+        },
+        {
+          "topic": "Exact compositional acceptance",
+          "reason": "The public body adds dated frontmatter/navigation only: +1130 bytes and17 lines, with all60 paragraph literals and all525 purpose values unchanged. Exact inverse/forward recovery preserves complete private8, original14/20, old full review payloads and ROOT semantic members. Only mechanical checks are omitted from the public ROOT report with exact digest and full private inverse."
+        },
+        {
+          "topic": "Source and model limits",
+          "reason": "This byte acceptance reuses prior actual target/common105 source courses at their separate attributed grades. Static checks and documentary custody add no primary/native/raw/AV/normal105 reading. All14 gaps remain OPEN, models0 and identity/named/extraREL duties unchanged."
+        },
+        {
+          "topic": "Lifecycle limits",
+          "reason": "Accept exact public12 privately WITH_LIMITS as reviewable publication candidates. No R installation, Git/provider operation, runtime validation, push, merge or package-count credit occurs here. Published baseline152/355 and19/29 remains unchanged; tooling repair is delegated to Claude Code under the latest user instruction."
+        }
+      ]
+    },
+    "dated_changed_outer_technical_values": {
+      "BODY#/YAML/review_state": "review_state: PRIVATE_V4_SEMANTICS_ADOPTED_WITH_LIMITS_PUBLIC_BYTE_ACCEPTANCE_SEPARATE",
+      "BODY#/YAML/public_composition_role": "public_composition_role: C_ONLY_PROPOSAL_ACTUAL_ROOT_COMPOSED_BYTE_ADOPTION_INSTALL_AND_PUBLICATION_SEPARATE",
+      "MOMOI_CURRENT_PUBLIC_COMPOSITION_DATED_SCOPE_AND_CONDITIONAL_TRANSPORT_CONTROL_V1.json#/current_body_metadata/UTF8_byte_delta": 1130
+    },
+    "dated_other_producer_or_zero_preparation_values": [
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_CURRENT_EXACT8_ORIGINAL_CUSTODY_AND_CURRENT_GRAPH_TRANSPORT_V1.json",
+        "pointer": "/new_primary_native_raw_AV_normal105_admission_identity_count_model_runtime_merge_credit",
+        "exact_preparation_value": 0,
+        "role": "DATED_PREPROMOTION_PRODUCER_STATE;NOT_LIVE_INSTALLED_COUNT_OR_OVERRIDE_OF_CURRENT_CONTROL"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_CURRENT_PUBLIC_COMPOSITION_DATED_SCOPE_AND_CONDITIONAL_TRANSPORT_CONTROL_V1.json",
+        "pointer": "/new_credit",
+        "exact_preparation_value": 0,
+        "role": "DATED_PREPROMOTION_PRODUCER_STATE;NOT_LIVE_INSTALLED_COUNT_OR_OVERRIDE_OF_CURRENT_CONTROL"
+      }
+    ],
+    "current_body_authority": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MOMOI_CHARACTER_MONOGRAPH.md",
+      "geometry_owner": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_CURRENT_COMPLETE_LITERAL60_SOURCE_QUESTION_PURPOSE_RIVAL_END_GAP_REGISTER_V1.json",
+      "geometry_pointer": "/current_eligible_body_geometry_20261104_V1",
+      "prior_safe_codec_layout_scope": "Exact PREPROMOTION witnesses are retained; their values do not reconstruct the revised header. Current measured tuple/geometry is operative."
+    },
+    "live_count_and_publication_authority": "This C proposal awards no installation/publication/count/runtime/source/model/named/REL/identity credit. Original 0/null/false/pending producer values are dated preparation, not live counters. Actual installed counts and published SHA belong to the required-package CSV and dated PR/operational receipts after normal Root-owned final-byte acceptance, reconciliation and gates.",
+    "dated_nested_history": "Every original author/QA/Root/source/readiness judgment, reviewed tuple, hold and source grade keeps its dated actual scope. Older operational interpretations are history, not new current gates. No unreferenced blanket GitHub Apps-installation check is imposed for an ordinary author push.",
+    "literary_source_scope": "All post-YAML body bytes, comparative five-field meanings, full unique judgments/qualifications, actors/recipients and source intervals/grades stay exact. Ordinary play, comfort, wanted company and small ends remain intrinsic. No new source/common105/identity/named/REL/institution/model or gap credit.",
+    "private_public_scope": "No local private paths, helper/raw-beforeimage transport or removed opaque old body codec is added. Frozen producers/private full inverses remain unchanged. This is directly interpretable authority/provenance, not a private recovery bundle.",
+    "remaining": "Different bounded metadata QA and actual Root final promotion/byte adoption precede Root-only installation/shared writes/gates/publication. No future SHA/check/push/main integration/count is predeclared.",
+    "current84_class_base_actual_Root_authority": {
+      "id": "ROOT_ACTUAL_CURRENT84_FIVE_PRIVATE_CODEC_ONLY_DERIVATIVE_COMPLETE_NEW_MEANING_DISTINCT_QA_OWN4414_FULL_BYTE_AST_ADOPTION_WITH_LIMITS_20261104_V1",
+      "bytes": 8236,
+      "sha256": "41f4d77dd2a3d70190737d2de5a976f4b682a81c397cf2003793df3b8ee2837a",
+      "decision": "ADOPT_EXACT_CLASS_SAFE_CURRENT84_SELECTION29_NEW55_UNCHANGED_WITH_LIMITS;CANONICAL_METADATA_PROMOTION_STILL_SEPARATE",
+      "scope": "Exact29new+55unchanged current84 accepted after different class QA; frozen pending tags are dated, and this later metadata derivative is not yet adopted."
+    }
+  }
+}

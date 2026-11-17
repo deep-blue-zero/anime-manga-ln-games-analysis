@@ -1,0 +1,47 @@
+---
+title: "Shiboyugi — Shion’s assigned agent"
+artifact_id: SBY_SHION_AGENT_MONOGRAPH
+artifact_type: character_monograph
+series: shiboyugi
+subject_id: SBY-P047
+version: "1.0"
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_generation: SBY-INITIAL
+authority_scope: "Standalone literary portrait of the Japanese novel continuity through V10"
+source_boundary: "The admitted Japanese main narratives and original visual layers of SBY-JP-V01-W01 through SBY-JP-V10-W01"
+canonical_home: series/shiboyugi/characters/SHIBOYUGI_SHION_AGENT_MONOGRAPH.md
+created: 2026-11-15
+last_updated: 2026-11-15
+recommended_reasoning_class: DEEP_SYNTHESIS
+---
+
+# Shion's assigned agent
+
+The person who made independent ordinary life possible for fourteen-year-old Shion tells her to find her own way out of an armed pursuit. Later the same person shows up, makes Shion's consent to play consequential and carries her out. The difference follows a line the agent states and enforces between retirement and participation. The manner also changes with the audience. There is pointed familiarity with Shion, exact formality before an opposing group, and a refusal in the car to present the relation as one that extends to friendship. V04 S19 P0417–0440/P0498–0546/P0577–0592.
+
+## Support with a limit
+
+This agent is identified by the current assignment, not a civil or game name. Keito asks directly in the alley whether this is Shion's agent and receives confirmation. Shion is the source for the past. The agent has provided extensive ordinary-life support, which Shion credits with letting her live independently at fourteen without attending school or entering an institution. The exact arrangements, their authorization, the time the two first met, and the agent's earlier career are unknown. The fact that the help came through the role does not make it immaterial or incidental to the person receiving it. This agent is distinct from Yūki's agent, whose own access to people and willingness to intervene are shown elsewhere in the series. V04 S19 P0417–0440/P0517–0527/P0577–0592. [When an invitation makes someone protectable](../readings/SHIBOYUGI_V04_DEEP_READING.md#sby-v04-e008--when-an-invitation-makes-someone-protectable).
+
+After Garbage Prison, Shion told the agent she was retiring. She calls while being followed, asks for a vehicle to lose the people behind her and offers the continuing game-related origin of the danger as a reason to help. The agent answers with a slow counter-question and refuses directly. Shion has stopped being a player in the sense at stake in the conversation, so the agent calls it Shion's own problem. That is the position the agent gives and the action the agent takes at that point. It does not prove every formal status change was finalized or that an agent lacks the physical ability to aid an inactive person. The agent is sore at seeing valuable work abandoned, in the agent's own telling. Shion concedes the history of aid, but hears dry performance in the talk of loss and hoped-for congratulations. Neither has to be lying about every part of that exchange for them to disagree about what loyalty should have required. V04 S19 P0417–0440. [Retirement and the actual request for help](../readings/SHIBOYUGI_V04_DEEP_READING.md#sby-v04-e008--when-an-invitation-makes-someone-protectable).
+
+## What changes when the agent comes
+
+The agent leaves the possibility of contact open if Shion decides she wants to continue. Shion does not arrange the subsequent rescue by trusting that promise. She is surprised by the agent's call when badly hurt and has to recognize that the voice is also physically nearby. The agent presents a last chance and delivers the Halloween Night invitation. The agent then states to the hostile group that Shion has just assented verbally. Shion's entry into that game confirms that the shift in position was real. The agent chooses a moment when it is possible to bring Shion back within assigned duties. How the agent learned where to come, when the decision to come was made, and whether there was any further agreement remain unshown. V04 S19 P0498–0546/P0577–0592, S21 P0003–0038. [The actual intervention](../readings/SHIBOYUGI_V04_DEEP_READING.md#sby-v04-e008--when-an-invitation-makes-someone-protectable).
+
+Keito is prepared to characterize the pursuit as a personal quarrel, leaving the operator no business intervening. The agent states that the client has enrolled and invokes a concrete duty to see that the person gets to the venue safely. The agent displays a credible readiness to act against threats in the room that has now opened. Keito independently understands the protection and the cost of resisting it and backs down. The encounter gives a public claim of authority, recognition by an opponent and successful removal. It cannot establish how responsibility would be administered for all retired people, protection in any setting after enrollment or how the organization would review a disputed claim. Physical delivery entails further work. The agent assists Shion, carries her with difficulty, puts her in the car and drives off. Shion is too badly hurt to do that for herself. The agent's practical commitment has been tested even though the agent's emotional commitment has not been granted. V04 S19 P0514–0546/P0577–0585. [The new status and the people confronting it](../readings/SHIBOYUGI_V04_DEEP_READING.md#sby-v04-e008--when-an-invitation-makes-someone-protectable).
+
+In both private exchanges the agent cites substantial extra compensation when a client crosses thirty and compares the salary unfavorably to what players earn. Shion has twenty-nine clears when she needs rescue and thinks that number has benefited her. The agent's repeated claim is evidence of a stated occupational incentive and a comparison the agent actually thinks worth using. No independent pay schedule or payment is shown. The agent could be candid, using the claim as the acceptable reason for an intervention, or both. Shion first asserts that she knew help would come. The text gives her statement as knowingly untrue, and the agent replies 「嘘つくな」. Shion now genuinely asks why. Later she proposes that they eat grilled meat together if she lives, and offers to pay. The agent says the earlier prospect of buying that meal was a joke and calls Shion too repellent to eat with. That positively establishes a rejection of ordinary reciprocal company on the shown terms. It leaves the exact balance of duty, financial ambition, pride in work, or concern in the earlier acts unsettled. V04 S19 P0434–0440/P0577–0592.
+
+## Register and a conditional portrait
+
+「へえ。大変ですねえ」 acknowledges an emergency with an exaggerated ease that offers little comfort. 「いやですけど」 still wears a polite ending when the underlying help is firmly refused. The shorter 「やだ」 drops even that distance as Shion presses. 「はろー」 and a teasing reference to how much Shion had wanted the agent near contrast with 「最後のチャンスです」 when the invitation becomes real. To the opposing group the agent uses an almost ceremonial wording, stating 「私の職務範囲内です」 of removing an immediate danger, and then shifts to an ordinary challenge. The first greeting implies familiarity that Keito expressly rejects. The long, apparent courtesy works as a display of who decides what can happen. In the car the agent moves from the role language of salary and the client to 「てめえ」 and 「おぞましい」. These are directed choices of address, not a mere abstract claim that the agent is rude. The prose gives stylized pronunciation and described warmth or coldness in particular settings, without furnishing a performed voice or private interior. V04 S19 P0418–0440/P0500–0510/P0519–0543/P0577–0592.
+
+If an inactive client calls seeking costly help and offers only the old association and origin of a dispute as grounds, this agent is likely to press the boundary and refuse in deliberately pointed language. When actual renewed participation lets the same person claim assigned protection, the agent can make an exception available, speak precisely to opponents and do the difficult bodily work of carrying it through. The unusually immediate danger and approaching thirty-clear threshold belong to this case. With no similar incentive, an institutional rejection of an invitation or a genuinely unrelated third party in danger, the portrayal should stay agnostic about whether the agent would intervene. The past assistance suggests some breadth beyond single-job transport, while rejection of the offered meal tests and limits one ordinary avenue of friendship. It does not disclose food preferences in general, other private habits, family life, romance or intimacy. There is no confirmed postgame relationship with Shion or sampled ordinary exchange with another client. A securely attributed second assignment or an independently shown choice without the milestone at stake would test what carries over. V04 S19 P0417–0440/P0498–0546/P0577–0592.
+
+## Source routes
+
+V04 E008 gives refusal, expressed status, the opposing group's account and the private rescue and rejection of company. The course and ending of Shion's play are separate evidence from the agent's decision at entry. P047 indexes the individual assignment, R058 gives the client acting toward the agent and R059 preserves the agent's different actions and account. [V04 reading](../readings/SHIBOYUGI_V04_DEEP_READING.md), [state and evidence ledger](../SHIBOYUGI_STATE_AND_EVIDENCE_LEDGER.md).

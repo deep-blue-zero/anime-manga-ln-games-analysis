@@ -17,7 +17,7 @@ do_not_use_as_current_authority: false
 
 The nine-document pre-audiovisual V0.1 reconstruction packet is now imported on `series/wuthering-waves` with **active_provisional** status. Audiovisual analysis and human voice-performance review remain pending.
 
-Read [the packet entrypoint](WUWA_LYNAE_ANALYSIS_PACKET_README.md), [the character deep dive](WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md), and the evidence/falsification matrix before the specialist profiles. The packet supplies reconstruction, relationship/state, ordinary-life, speech/machine-voice, AV nomination, and fidelity/stress-test documents; it does not establish a completed integrated AV monograph or compiled JSON model.
+Read [the packet entrypoint](WUWA_LYNAE_ANALYSIS_PACKET_README.md), [the character deep dive](01%20Evidence%20and%20Source-Facing/WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md), and the evidence/falsification matrix before the specialist profiles. The packet supplies reconstruction, relationship/state, ordinary-life, speech/machine-voice, AV nomination, and fidelity/stress-test documents; it does not establish a completed integrated AV monograph or compiled JSON model.
 
 The [import record](../../08%20Audits%20and%20Manifests/WUWA_PRE_AV_CHARACTER_PACKET_IMPORT.md) explains retained draft metadata and records hashes. The earlier import preserved the supplied bytes. The owner now adopts all nine documents as current `active_provisional` authority within their stated text/audio scope; the complete quartet, updated authority metadata, and publication notes are recorded in the [adoption record](../../08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md). Pending AV and incomplete audio profiling retain their stated claim-level limits.
 
@@ -43,7 +43,7 @@ Current package reports:
 
 ## Bounded static visual layer
 
-The [V0.2 visual-design profile](CHARACTER_VISUAL_DESIGN_PROFILE.md) directly inspects Lynae's role-linked head icon, formation art, and activity portrait. Its JSON companion separates direct observation from design–narrative interpretation, and the reference manifest preserves official-client asset/package/container/hash provenance. This resolves a narrow static-appearance gap, not the inaugural test's runtime/scene AV, animation, rear-view, alternate-form, or human-performance requirements.
+The [V0.2 visual-design profile](03%20Audiovisual%20and%20Voice/CHARACTER_VISUAL_DESIGN_PROFILE.md) directly inspects Lynae's role-linked head icon, formation art, and activity portrait. Its JSON companion separates direct observation from design–narrative interpretation, and the reference manifest preserves official-client asset/package/container/hash provenance. This resolves a narrow static-appearance gap, not the inaugural test's runtime/scene AV, animation, rear-view, alternate-form, or human-performance requirements.
 
 ## Inaugural-test rules
 

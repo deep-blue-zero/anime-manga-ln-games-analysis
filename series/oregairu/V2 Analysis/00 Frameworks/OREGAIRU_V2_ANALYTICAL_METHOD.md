@@ -1,8 +1,12 @@
 ---
 title: "Oregairu V2 Analytical Method"
 project: "Yahari Ore no Seishun Love Comedy wa Machigatteiru. / Oregairu"
-version: "2.0"
-status: "governing protocol"
+version: "2.1"
+status: canonical
+artifact_type: analytical_method
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
 language_priority: "Japanese original"
 artifact_prefix: "OREGAIRU_V2_"
 ---
@@ -596,6 +600,8 @@ These remain outside the main V2 governing corpus at first.
 - *Ketsu* should be treated as alternate-continuity comparative material.
 
 Neither should rewrite what the fourteen-volume mainline and canonical bonus material establish.
+
+For the owner-authorized 2026 completion and release, **Shin is explicitly excluded**; the possible future annex above is historical planning only. 結 remains outside mainline authority, and newly acquired supplementary or paratextual material requires separate source classification and admission. The present expansion uses already admitted evidence and does not restart sequential reading.
 
 ---
 

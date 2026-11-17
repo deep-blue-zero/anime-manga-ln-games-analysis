@@ -2,14 +2,18 @@
 title: "Gakuen Idolmaster V2 Unit Story Placement and Continuity Tracks"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "unit-story continuity audit"
-version: "2.0"
+version: "2.1"
 phase: "1 - Continuity and Story-State Reconstruction"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 created: "2026-08-13"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15 targeted additions (STRENGTHEN): Saki's voiced credo frames U1 retrospectively (§2.1, §2.4), and the Worst Three label and trio dispersal are track-labelled for U1 (§2.3); placement verdict and all other content unchanged"
 status: "canonical Phase 1 artifact"
 ---
 
 # GKM UNIT STORY PLACEMENT AND CONTINUITY TRACKS
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** STRENGTHEN: §2.1 and §2.4 record that U1 opens and closes with Saki's credo, carried by her voice assets, so the track is framed retrospectively by Saki (GKM-SAA-283, GKM-SAA-177). §2.3 records that in U1 the Worst Three label is China's and the trio disperses (GKM-SAA-280, with GKM-SAA-127/136); the further claim that China and Hiro model their rivalry on the Hanami sisters was not found in the cited U1 lines and is not added. The placement verdict and all other sections are unchanged.
 
 ## 0. Conclusion
 
@@ -44,6 +48,8 @@ The part numbers are continuous within each episode and the dialogue repeatedly 
 Opening source:
 
 `adv_unit_01-01_01.txt`
+
+Before the Producer's scenes, the part opens with the school credo beginning 「アイドル」 それは　わたし達の永遠の憧れ, as unattributed narration carried by Saki's voice assets (`sud_vo_adv_unit_01-01_01_hski-001` to `-009`, L128–L155) and followed by the Producer's note that the new-student representative's address has ended (L158). The tutorial opening reuses the same assets (`transcripts_raw/11_tutorial/first/cmmn-00.txt` L112–L139), and Ume's Dear 001 presents the credo under Saki's name (`adv_dear_hume_001` L106–L116). U1 therefore begins in Saki's voice and is framed retrospectively by her; the closing Prima Stella speech repeats the credo (§2.4). The voice identification rests on script asset IDs; audible confirmation is routed to the existing Carbon queue (GKM-SAA-283, GKM-SAA-177; 2026-11-15).
 
 The Producer attends the entrance ceremony, meets Ume, and learns that she wants to defeat someone. The following parts identify Saki as Ume's sister/rival and establish the Producer's plan to assemble Saki, Temari, and Kotone.
 
@@ -97,6 +103,8 @@ Episode 3 introduces or consolidates:
 
 This episode turns the initial unit into a two-unit competitive system. It is not merely a cameo collection; it establishes the rival structure that drives Episode 4.
 
+**Worst Three in U1 (GKM-SAA-280, with GKM-SAA-127 and GKM-SAA-136) — 2026-11-15.** In U1 the label comes from China, who calls the three the school's worst three (`adv_unit_01-03_02` L338). The trio then disperses: when China proposes that the three form a unit, Hiro declines, because being held back is fun for her but holding others back is not (`adv_unit_01-03_03` L361–L422), and Ume resolves to find the strongest partner she can (L441–L494), which leads to her seeking Sena's production. The self-authored Worst Three identity, which Hiro names in Event 002 (`adv_event_002_main-01` L300–L302), is therefore event-track material rather than U1 history.
+
 Classification:
 
 - Re;IRIS/Begrazia history: `C1 @ U1`;
@@ -122,6 +130,7 @@ Important anchors:
 - `adv_unit_01-04_20.txt`: Re;IRIS wins the unit division;
 - `adv_unit_01-04_24.txt`: the unit victory is followed by selection of one Re;IRIS member and the solo winner for the final Prima Stella stage;
 - `adv_unit_01-04_25.txt`: Saki is announced as `夏のプリマステラ`.
+- `adv_unit_01-04_25.txt` L245–L304: Saki's Prima Stella speech, under her name and voice assets (`sud_vo_adv_unit_01-04_25_hski-*`), repeats the credo that opened U1 (§2.1), closing the retrospective frame (GKM-SAA-283; 2026-11-15).
 
 Classification:
 

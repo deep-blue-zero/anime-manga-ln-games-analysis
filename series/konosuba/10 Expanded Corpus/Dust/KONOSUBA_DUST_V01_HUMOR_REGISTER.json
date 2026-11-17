@@ -1,0 +1,1337 @@
+{
+  "schema": "DUST01_SOURCE_FIRST_PURPOSIVE_HUMOR_RECORDS_V1",
+  "created_utc": "2026-10-17T22:13:10.218009+00:00",
+  "selection_boundary": "Selected explanatory examples from a complete principal read; not an exhaustive premise census. Windows may overlap or carry connective context.",
+  "sample_records": 53,
+  "population_eligible_premise_denominator": "UNKNOWN_NOT_ENUMERATED",
+  "J02_or_new_out_of_sample_score": "NONE; do not compute portable percentages or treat source P slots as joke trials.",
+  "axes": "L0–L3 concern translation sensitivity; H1–H4 concern literalness/amplification/gag contingency/nonliteral license. Magic, biased narration and a dream frame do not by themselves imply H4.",
+  "formal_H4_scene_count": "NOT_ESTABLISHED; one object-merging metaphor is nonliteral at subclause level, not evidence all events are license.",
+  "records": [
+    {
+      "id": "D01-H01",
+      "selected_window": {
+        "unit": "Pro",
+        "member": "item/xhtml/p-002.xhtml",
+        "p_start": 3,
+        "p_end": 12,
+        "private_complete_window_sha256": "5a83f1bdc9a4dcc614d371188fa2d62eea59ca265720ea657b84c25105a4322a"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-002.xhtml",
+        "p": 10,
+        "Japanese_short": "夜を共に過ごした仲",
+        "speaker_or_narrator": "Dust",
+        "addressee_or_narratee": "Kazuma",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Senior advice becomes an insinuation of intimacy: a shared prison night is literally true but pragmatically misleading. Kazuma narrows the relation and names the jail.",
+      "L_translation_sensitivity_proposal": "L2",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Competing relationship definitions matter; no sexual relationship is established.",
+      "culture_nested_form_note": "Intimacy/register, not a Japanese homophone.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H02",
+      "selected_window": {
+        "unit": "Pro",
+        "member": "item/xhtml/p-002.xhtml",
+        "p_start": 15,
+        "p_end": 25,
+        "private_complete_window_sha256": "60e108c6c756b4769fd16fc5ea45a32d7e9041d6088a8c9587fb24225f963233"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-002.xhtml",
+        "p": 20,
+        "Japanese_short": "脳内設定",
+        "speaker_or_narrator": "Kazuma",
+        "addressee_or_narratee": "Aqua and nearby listeners",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Aqua offers eyewitness corroboration and divine identity; Kazuma supplies the delusion gloss which Dust adopts as fact. Reader knowledge reverses the ranking of who understands the situation.",
+      "L_translation_sensitivity_proposal": "L1",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Dust’s goddess disbelief is focalized error; no fresh proof from his narration that her identity is false.",
+      "culture_nested_form_note": "Genre/RPG character-setting vocabulary.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H03",
+      "selected_window": {
+        "unit": "Pro",
+        "member": "item/xhtml/p-002.xhtml",
+        "p_start": 27,
+        "p_end": 38,
+        "private_complete_window_sha256": "4d7d32c583c60de1e42afc2e73e15a3386466ed95427b83a584b2f1b18a60c1e"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-002.xhtml",
+        "p": 28,
+        "Japanese_short": "職務怠慢",
+        "speaker_or_narrator": "Dust",
+        "addressee_or_narratee": "Aqua; Chris and others nearby",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Dust’s plausible divine-duty argument elicits Chris’s cough and Kazuma’s taunt. His confident social explanation misses identities available to the inherited main-series reader.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H2",
+      "source_plane_and_uncertainty": "Chris’s private cough cause is inferred, and Dust’s framing differs from the reader’s; no acoustic claim.",
+      "culture_nested_form_note": "Dramatic irony needs inherited main knowledge, not Japanese morphology.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H04",
+      "selected_window": {
+        "unit": "Pro",
+        "member": "item/xhtml/p-002.xhtml",
+        "p_start": 39,
+        "p_end": 42,
+        "private_complete_window_sha256": "02e08f4366207a42b35e32efb84658516609651fdd0a69bb5f1f5ff41aea2be0"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-002.xhtml",
+        "p": 42,
+        "Japanese_short": "カズマの支払いで",
+        "speaker_or_narrator": "Dust narrator",
+        "addressee_or_narratee": "reader",
+        "layer": "narration"
+      },
+      "whole_premise_description_and_mechanism": "The novice-supervision pose resolves into making the supposed junior pay for the speaker’s meal.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "A local expense choice supports opportunism, not every possible friendship action.",
+      "culture_nested_form_note": "None required.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H05",
+      "selected_window": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 26,
+        "p_end": 43,
+        "private_complete_window_sha256": "5d6f98d9fc8bb7a7fda324b8231e78565e8703269396140b8817e2579a8a65a6"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-003.xhtml",
+        "p": 38,
+        "Japanese_short": "負け惜しみだろう",
+        "speaker_or_narrator": "Dust narrator",
+        "addressee_or_narratee": "reader",
+        "layer": "narration"
+      },
+      "whole_premise_description_and_mechanism": "Class and beauty envy make Kazuma’s delighted acceptance look like face-saving. The apparent victor adopts a commitment whose information he has not checked.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "His assumption is explicit; the exchanged party’s costs arrive later.",
+      "culture_nested_form_note": "RPG class rank contributes context without determining cooperation.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H06",
+      "selected_window": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 65,
+        "p_end": 75,
+        "private_complete_window_sha256": "f4a252759778f27e420cb37b7a2cb9a12604b06c997fa01d19d0b77609b1b729"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-003.xhtml",
+        "p": 67,
+        "Japanese_short": "決して",
+        "speaker_or_narrator": "Megumin",
+        "addressee_or_narratee": "Dust",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "The three deny prior rejection with increasingly revealing specifics, then Dust accepts the flattering account. The denial form carries self-exposure and timing.",
+      "L_translation_sensitivity_proposal": "L1",
+      "H_literalness_amplification_proposal": "H2",
+      "source_plane_and_uncertainty": "Specific speech is direct; the entire enrollment history is not independently audited here.",
+      "culture_nested_form_note": "Repeated denial/correction sequence.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H07",
+      "selected_window": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 77,
+        "p_end": 109,
+        "private_complete_window_sha256": "43d3463cad84e7e3d430b04d182b23fbc98374b1a5054a1602d84f791d5b3b8a"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-003.xhtml",
+        "p": 109,
+        "Japanese_short": "気持ちが昂った時",
+        "speaker_or_narrator": "Megumin",
+        "addressee_or_narratee": "Dust",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "A skill inventory and praise trigger an unnecessary impressive cast that spends the caster’s resources. Extraordinary power is compatible with bad timing.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Physical magic is literal in-world; the precise explosion spectacle is not a real-world simulation constant.",
+      "culture_nested_form_note": "Fantasy resource rules must be supplied; Japanese form is secondary.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H08",
+      "selected_window": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 119,
+        "p_end": 148,
+        "private_complete_window_sha256": "f7d92cf9d5de112381e7f4fcd7ac24e87149a423a971ddb1ccde4c8f87621330"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-003.xhtml",
+        "p": 133,
+        "Japanese_short": "攻撃は当たらない",
+        "speaker_or_narrator": "Megumin",
+        "addressee_or_narratee": "Dust",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "The apparently ideal defender survives attacks but cannot hit, while the observer’s equipment assumptions fail. Monster recoil magnifies the status inversion.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H2",
+      "source_plane_and_uncertainty": "Actual misses/endurance are stronger evidence than Dust’s hedged claim that the beast feels fear.",
+      "culture_nested_form_note": "Sexual fantasy is not a depicted assault.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H09",
+      "selected_window": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 149,
+        "p_end": 157,
+        "private_complete_window_sha256": "722dc1a937d1570d8d30b2fd2aeae0ae312f5e2b406e30ddaa5743cb7f1e5955"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-003.xhtml",
+        "p": 157,
+        "Japanese_short": "カズマさーんっ",
+        "speaker_or_narrator": "Aqua",
+        "addressee_or_narratee": "appealed-to absent Kazuma; Dust and others present",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "An avoidable counterattack intended to win praise/drinks ends in a bite and a named plea for rescue. The boast-to-plea rhythm intensifies an otherwise portable reversal.",
+      "L_translation_sensitivity_proposal": "L1",
+      "H_literalness_amplification_proposal": "H2",
+      "source_plane_and_uncertainty": "The source depicts slipping and biting; it does not establish a successful God Blow or an injury diagnosis.",
+      "culture_nested_form_note": "Written elongation, not recorded pitch or loudness.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H10",
+      "selected_window": {
+        "unit": "C01",
+        "member": "item/xhtml/p-003.xhtml",
+        "p_start": 158,
+        "p_end": 176,
+        "private_complete_window_sha256": "8aae6424d3b88dc6398a3dce92c74d435cbc8b7683bfe9fd8b18cce54c407ac7"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-003.xhtml",
+        "p": 163,
+        "Japanese_short": "杖ならノーカン",
+        "speaker_or_narrator": "Dust",
+        "addressee_or_narratee": "himself/nearby scene; audibility not guaranteed",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Dust angles witnesses away, treats the staff as an exception and rescues the group; the hidden competence ends in willingness to beg for his own party back.",
+      "L_translation_sensitivity_proposal": "L1",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Repulsion is summarized. The staff exception’s entire past rule is still unknown.",
+      "culture_nested_form_note": "Loanword no-count compresses an unstated personal rule.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H11",
+      "selected_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 6,
+        "p_end": 28,
+        "private_complete_window_sha256": "835b910f766245e87c240222b190b54c847e38519db81ce6c7de54f08326df07"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 27,
+        "Japanese_short": "人の道を説いて",
+        "speaker_or_narrator": "Dust",
+        "addressee_or_narratee": "Leen",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Self-appointed patrol and moral teacher are corrected by debt history, extortion and Leen’s intervention.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Shopkeeper’s warning is reported speech; Dust himself admits cheating later in the same scene.",
+      "culture_nested_form_note": "None required.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H12",
+      "selected_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 29,
+        "p_end": 37,
+        "private_complete_window_sha256": "4e748b4096eefd0b7105c6821437634b7e12d67b839f10680b15abdd11b38ec6"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 33,
+        "Japanese_short": "これは塩だ、塩",
+        "speaker_or_narrator": "Dust",
+        "addressee_or_narratee": "Leen",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Salt left by the merchant is mistaken for dandruff; Dust’s emphatic correction cannot supply the missing causal context.",
+      "L_translation_sensitivity_proposal": "L1",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "The sight gag is portable; it does not prove habitual poor washing.",
+      "culture_nested_form_note": "No homophony between salt and dandruff is needed.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H13",
+      "selected_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 48,
+        "p_end": 55,
+        "private_complete_window_sha256": "329cb1e78872ac3c5a8c16592933e6d91046496e0467285007db4b61e2d9b457"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 55,
+        "Japanese_short": "別荘みたい",
+        "speaker_or_narrator": "Dust narrator",
+        "addressee_or_narratee": "reader",
+        "layer": "narration"
+      },
+      "whole_premise_description_and_mechanism": "An arrest warning is converted into cheap accommodation with meals, so an institution’s presumed deterrent becomes a valued resource.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H2",
+      "source_plane_and_uncertainty": "Exact comfort is comic amplification; later lost access shows detention is not costless.",
+      "culture_nested_form_note": "None required.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H14",
+      "selected_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 60,
+        "p_end": 75,
+        "private_complete_window_sha256": "c502a53fea714e4d5c5c39f393b773ecefb1619d77e3eeb508b147d8960e1893"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 66,
+        "Japanese_short": "都合の悪いことは忘れる",
+        "speaker_or_narrator": "Dust narrator",
+        "addressee_or_narratee": "reader",
+        "layer": "narration"
+      },
+      "whole_premise_description_and_mechanism": "Dust remembers the humiliating defeat privately while presenting nonmemory and denigrating the admired rival. His paid attention from bar staff exposes the boast.",
+      "L_translation_sensitivity_proposal": "L1",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Not a general memory deficit; Leen’s rival praise is a concrete relational cue.",
+      "culture_nested_form_note": "Face-saving denial and the public/private split.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H15",
+      "selected_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 150,
+        "p_end": 158,
+        "private_complete_window_sha256": "8b62809778e69505e60abd224fc86aebf6774d45674a561292f7db33dac7106e"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 154,
+        "Japanese_short": "ゴミだ、ダストだ",
+        "speaker_or_narrator": "shopkeeper",
+        "addressee_or_narratee": "Dust",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "The shopkeeper turns the protagonist’s name into a refuse label while rejecting his claim to customer privilege.",
+      "L_translation_sensitivity_proposal": "UNCERTAIN_L1_L3",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "An English-target translation can retain dust/name overlap unusually well; this is not automatically nonportable Japanese wordplay.",
+      "culture_nested_form_note": "Translingual lexical/name overlap; retain label uncertainty rather than force L3.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H16",
+      "selected_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 210,
+        "p_end": 217,
+        "private_complete_window_sha256": "740d57454eb4227df41439de5c74bc16c32b714899cb0bf0b7bba91af0a11478"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 215,
+        "Japanese_short": "体に優しい素材",
+        "speaker_or_narrator": "Axis priest",
+        "addressee_or_narratee": "Dust and shopkeeper",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "A conversion form disguised as a receipt is rejected as not even toilet paper; the priest answers its material suitability rather than the objection.",
+      "L_translation_sensitivity_proposal": "L1",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "No actual signature/conversion occurs; the shopkeeper becomes corrective participant.",
+      "culture_nested_form_note": "Pragmatic misalignment survives a literal translation with timing loss.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H17",
+      "selected_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 280,
+        "p_end": 309,
+        "private_complete_window_sha256": "dad9be042ee774ba6e0f0ab32f9f84423f983327e349a265fedb25fc65754709"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 288,
+        "Japanese_short": "払うのか",
+        "speaker_or_narrator": "Dust",
+        "addressee_or_narratee": "Mitsurugi",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "An outrageous opening anchor is accepted immediately, disarming the exploiter’s bargaining script because the object has exceptional value to its owner.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Actual payment is observed; Mitsurugi’s emotional link is stated, not a general willingness to pay any sum.",
+      "culture_nested_form_note": "None required.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H18",
+      "selected_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 328,
+        "p_end": 351,
+        "private_complete_window_sha256": "ba33ca8a67cb55363d4ce34a557a9460ee43f7593426fb94d19c44965e326ead"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 339,
+        "Japanese_short": "ないわよ",
+        "speaker_or_narrator": "Axis priest",
+        "addressee_or_narratee": "Dust",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "The priest returns to buy without money, offers a date, then is redirected by a lie about Mitsurugi’s desire for her.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "No date or marriage occurs; Dust knowingly exports the problem.",
+      "culture_nested_form_note": "Sex/food/dependency motives, not a language-specific trick.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H19",
+      "selected_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 359,
+        "p_end": 447,
+        "private_complete_window_sha256": "e5a914e0c153c2f3f6d8c2d31e0f4f175f1ed97cb25949ca81f877933562cfff"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 424,
+        "Japanese_short": "離さねえぞ",
+        "speaker_or_narrator": "Dust",
+        "addressee_or_narratee": "himself amid flood",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Scarcity speculation becomes a cart burden during a rescue alarm, then a flood destroys almost all stock. His grip on capital outlasts practical escape judgment.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H2",
+      "source_plane_and_uncertainty": "A flood is observed, Aqua’s casting is not directly seen by this narrator here. One intact tomato survives.",
+      "culture_nested_form_note": "Fantasy vegetables/transport are contextual rules.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H20",
+      "selected_window": {
+        "unit": "C02",
+        "member": "item/xhtml/p-004.xhtml",
+        "p_start": 449,
+        "p_end": 465,
+        "private_complete_window_sha256": "8e8c058a4f9a6e7da1e85dcd6e3aa50d554502e5e47f117cc6d8ca5818091e16"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-004.xhtml",
+        "p": 465,
+        "Japanese_short": "五百万の笑顔",
+        "speaker_or_narrator": "Dust narrator",
+        "addressee_or_narratee": "reader",
+        "layer": "narration"
+      },
+      "whole_premise_description_and_mechanism": "The last saleable tomato is given to Leen, recasting catastrophic financial loss as a valued particular smile.",
+      "L_translation_sensitivity_proposal": "L1",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Soft/tender boundary candidate, not an unqualified comic premise. Five million is his retrospective total-cost framing, not that single tomato’s verified market price.",
+      "culture_nested_form_note": "Metaphoric valuation; no declared romance.",
+      "eligibility": "SOFT_TENDER_OR_MENACE_BOUNDARY_RETAINED",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H21",
+      "selected_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 70,
+        "p_end": 105,
+        "private_complete_window_sha256": "abe18083f38d8772698d4e7176e9313dc180ce8d60e7e96bd7c881c81dadab9e"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 89,
+        "Japanese_short": "お嬢ちゃんだよ",
+        "speaker_or_narrator": "little girl",
+        "addressee_or_narratee": "Dust",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Luna’s threat and the child’s corrections puncture Dust’s adult authority; he rejects uncle while she rejects brat, and unwanted address recurs.",
+      "L_translation_sensitivity_proposal": "L2",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Father’s distress is child report; do not treat it as a witnessed assault or diagnosis.",
+      "culture_nested_form_note": "Age/status address distinctions are material.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H22",
+      "selected_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 191,
+        "p_end": 203,
+        "private_complete_window_sha256": "abf57fd092aadad73db627d454908d70e6a42440e5cbdd278763593f353001e1"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 197,
+        "Japanese_short": "童貞の幻想",
+        "speaker_or_narrator": "small succubus",
+        "addressee_or_narratee": "Dust",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Dust interprets his consoling headpat as seduction; the recipient explicitly rejects the universalized technique.",
+      "L_translation_sensitivity_proposal": "L1",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "The affectionate effect is his inference, not established before her rebuttal.",
+      "culture_nested_form_note": "A social-script counterexample, not a fixed rule about all women.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H23",
+      "selected_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 270,
+        "p_end": 299,
+        "private_complete_window_sha256": "9082baf03483b16f28eabe7b49d5e06c83a94dec4c22735740b23b062a7fcfc7"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 273,
+        "Japanese_short": "ダストさん",
+        "speaker_or_narrator": "small succubus",
+        "addressee_or_narratee": "Mitsurugi, Dust present",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Denying prior acquaintance while naming the conspirator exposes the scheme, then the planner scapegoats his helper and is betrayed by his own drunken boasting.",
+      "L_translation_sensitivity_proposal": "L1",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Actual manipulations and invasive touch remain actions; the demon label is his excuse, not moral absolution.",
+      "culture_nested_form_note": "Interactional contradiction, not a particular pronoun test.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H24",
+      "selected_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 320,
+        "p_end": 356,
+        "private_complete_window_sha256": "359688cd90bed52f25f8069291382450ad839cca525134fb4d90ab5f34deb453"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 342,
+        "Japanese_short": "掃除手伝って",
+        "speaker_or_narrator": "Dust",
+        "addressee_or_narratee": "small succubus",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "A shop-access veto converts a physical threat into an offer to help clean. Feigned contrition and professional praise then rebuild cooperation.",
+      "L_translation_sensitivity_proposal": "L2",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "The source explicitly calls the apology acting; compliance is goal-conditioned, not verified remorse.",
+      "culture_nested_form_note": "Role/entitlement reversal in speech action.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H25",
+      "selected_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 373,
+        "p_end": 390,
+        "private_complete_window_sha256": "667e1d2cce7f68f40fbf9dcc1a1c3599d4bdfec48ed68457fed1a4d764ed0db2"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 387,
+        "Japanese_short": "犯罪者になる時",
+        "speaker_or_narrator": "Dust",
+        "addressee_or_narratee": "small succubus",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "An intended revenge dream fails before delivery; the proposed solidarity of being criminals together meets unequal risks and an immediate refusal.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Dream was not cast on Mitsurugi. Her threatened disposal and his shame are distinct.",
+      "culture_nested_form_note": "None required.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H26",
+      "selected_window": {
+        "unit": "C03",
+        "member": "item/xhtml/p-005.xhtml",
+        "p_start": 399,
+        "p_end": 411,
+        "private_complete_window_sha256": "339cbba94c226e6167df6020b2963a1c1a55294583cc7a89f9f9f05e07e7bb84"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-005.xhtml",
+        "p": 405,
+        "Japanese_short": "イケメンのお兄ちゃん",
+        "speaker_or_narrator": "little girl",
+        "addressee_or_narratee": "Dust",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "A denied side task has nevertheless produced the recovered present; the child’s new flattering address exposes concealed care.",
+      "L_translation_sensitivity_proposal": "L2",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Soft sincerity boundary. His exact retrieval motive is contested by his denial and her companion’s inference; no promise was actually made.",
+      "culture_nested_form_note": "Address change carries the relational payoff.",
+      "eligibility": "SOFT_TENDER_OR_MENACE_BOUNDARY_RETAINED",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H27",
+      "selected_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 77,
+        "p_end": 106,
+        "private_complete_window_sha256": "4e1811c2ea0f93fa397592e075bf2663133155a5022b608fd5c183ab2c4ecaef"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 84,
+        "Japanese_short": "私達、友達よね",
+        "speaker_or_narrator": "Yunyun quoting peers",
+        "addressee_or_narratee": "Dust",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Friendship scripts reveal exploitation and isolate Yunyun; even Dust responds with a conditional offer, then uses the same need to recruit her.",
+      "L_translation_sensitivity_proposal": "L2",
+      "H_literalness_amplification_proposal": "H2",
+      "source_plane_and_uncertainty": "Her past gifts are report; Dust’s future meal offer is not actual payment.",
+      "culture_nested_form_note": "Friendship obligation/pragmatics, not an honorific personality diagnosis.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H28",
+      "selected_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 119,
+        "p_end": 155,
+        "private_complete_window_sha256": "372917f0cc2cfdb5e83e44de2cf7d7ac7c32324eecdfedaacb1d9251a8a6f3d7"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 144,
+        "Japanese_short": "大人しくして",
+        "speaker_or_narrator": "Chris",
+        "addressee_or_narratee": "Darkness",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Binding one’s own defender creates an effective opening while also restraining an ally actively seeking punishment. Tactical success and distorted personal reward coexist.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H2",
+      "source_plane_and_uncertainty": "First entry into Bind is initially hedged at distance; the later aimed binding is direct.",
+      "culture_nested_form_note": "Magic literal in-world; no automatic H4.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H29",
+      "selected_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 178,
+        "p_end": 201,
+        "private_complete_window_sha256": "c471331d532abc0a0b6a33d1dcc8a9c6c9a28b77246536779339b549c30c6841"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 192,
+        "Japanese_short": "遊んで暮らす方",
+        "speaker_or_narrator": "Dust",
+        "addressee_or_narratee": "Yunyun",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Dust denies fitting an exploitative ideal partner, then his immediate quiz answers reproduce its criteria.",
+      "L_translation_sensitivity_proposal": "L1",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "General all-people-would-answer claims are his projection; no questionnaire population is sampled.",
+      "culture_nested_form_note": "Question truncation and rapid self-exposure.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H30",
+      "selected_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 224,
+        "p_end": 245,
+        "private_complete_window_sha256": "2fc38b26e32bbf572bdbb32972919b2bc3752ecd6a6f2c840a179546ed150c48"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 235,
+        "Japanese_short": "自分の欲を満たす",
+        "speaker_or_narrator": "Dust",
+        "addressee_or_narratee": "Yunyun and Vanir",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "A public doctrine of freedom turns dereliction into principle; a devil applauds the rhetoric and briefly unsettles the human speaker.",
+      "L_translation_sensitivity_proposal": "L2",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Past harm implied by memories does not authenticate every philosophical defense.",
+      "culture_nested_form_note": "Audience/register and moral role inversion.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H31",
+      "selected_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 260,
+        "p_end": 275,
+        "private_complete_window_sha256": "a340463e5b4a689b98016bee738a77bf40667bbfa8932a57c17f0be9f2a8482e"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 260,
+        "Japanese_short": "君とモツを食べたい",
+        "speaker_or_narrator": "Dust narrator quoting title",
+        "addressee_or_narratee": "reader",
+        "layer": "narration"
+      },
+      "whole_premise_description_and_mechanism": "Parodied romance titles and kabe-don are treated as a field manual; the same physical gesture is recast as extortion, romance and a particular person’s desired punishment.",
+      "L_translation_sensitivity_proposal": "MIXED_L2_L3",
+      "H_literalness_amplification_proposal": "H3",
+      "source_plane_and_uncertainty": "Purposive culture/form-heavy example. Title transformations need reconstruction, while the misuse-of-fiction mechanism remains portable.",
+      "culture_nested_form_note": "Intertextual Japanese titles and imported romance scripts; do not equate culture with morphology.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H32",
+      "selected_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 298,
+        "p_end": 305,
+        "private_complete_window_sha256": "3bbdc0959ab7c3ae3be0b859141af82ca44d8c6ba2fbb74877f2b771c460a9cf"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 305,
+        "Japanese_short": "お帰りください",
+        "speaker_or_narrator": "waitress",
+        "addressee_or_narratee": "Dust, Vanir and Yunyun",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "The planned romance seminar ignores the café’s actual order/cost relationship; the staff’s polite-form dismissal closes the session.",
+      "L_translation_sensitivity_proposal": "L2",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Yunyun tries to order; the others deny willingness/resources. Not all three are equally culpable.",
+      "culture_nested_form_note": "Service register encodes exclusion rather than hospitality.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H33",
+      "selected_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 318,
+        "p_end": 349,
+        "private_complete_window_sha256": "7e18cce1afa148181095660805988cd6593f3742036c9d5f929438b41330b928"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 327,
+        "Japanese_short": "万引き犯やクレーマー",
+        "speaker_or_narrator": "shopkeeper",
+        "addressee_or_narratee": "Dust",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Stolen lunch becomes a martial contest, with commercial self-defense elevated into combat expertise. The outsider refuses to let an adventurer’s level settle property rights.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H2",
+      "source_plane_and_uncertainty": "Former-adventurer identity is Dust’s guess, not a confirmed biography.",
+      "culture_nested_form_note": "H2 physical amplification; the property conflict is literal.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H34",
+      "selected_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 414,
+        "p_end": 458,
+        "private_complete_window_sha256": "d2020ff4e795e8ec3b946df051914b0426bbe57fcf4547d90b2a55c20e5e0260"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 449,
+        "Japanese_short": "興味がないので",
+        "speaker_or_narrator": "kidnapper",
+        "addressee_or_narratee": "Darkness",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "A captive’s escalating coercion fantasy bewilders actual abductors whose preferred target is different, temporarily reversing who advances and retreats.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H2",
+      "source_plane_and_uncertainty": "No actual stripping/photo/parade is shown. Sexual preference does not make kidnapping consensual or safe.",
+      "culture_nested_form_note": "Moral incongruity and failed role script.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H35",
+      "selected_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 500,
+        "p_end": 510,
+        "private_complete_window_sha256": "1eac6473c086f5c3ea3f8df620fa548d7633873108b04b7912e22c639724930a"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 506,
+        "Japanese_short": "キノセイジャナイカナ",
+        "speaker_or_narrator": "Dust",
+        "addressee_or_narratee": "kidnappers",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Borrowing Kazuma’s public identity fails because the supposed captive has already named Dust. His clipped script-marked denial cannot remove the observation.",
+      "L_translation_sensitivity_proposal": "L1",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "A recoverable attention/working-context error, not evidence of universal stupidity.",
+      "culture_nested_form_note": "Katakana marks stilted delivery on the page; no acoustic assertion.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H36",
+      "selected_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 512,
+        "p_end": 539,
+        "private_complete_window_sha256": "638224fe1bd1690bb7f99aa6971ae14f6a71908c34f1510b3344c5cc8832de70"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 530,
+        "Japanese_short": "これはバニルさん",
+        "speaker_or_narrator": "Yunyun",
+        "addressee_or_narratee": "Dust",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Police authority routs the kidnappers, then three officers collapse into one disguised devil and linked shells. The operational provider differs from Dust’s first assumption.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Supernatural implementation is literal in-world and mechanically nonportable; no real police arrival.",
+      "culture_nested_form_note": "Institutional authority is used as a performance.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H37",
+      "selected_window": {
+        "unit": "C04",
+        "member": "item/xhtml/p-006.xhtml",
+        "p_start": 544,
+        "p_end": 575,
+        "private_complete_window_sha256": "9c64e3641bbb2fd3660dc49ba4fd999ec9b4011d2f29c49fad5a4615000259cc"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-006.xhtml",
+        "p": 544,
+        "Japanese_short": "付き合ってもらえませんか",
+        "speaker_or_narrator": "Yunyun",
+        "addressee_or_narratee": "Darkness on Dust’s behalf",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "A helper confesses for a man whose exploitative goal has faded; he is rejected without asking, then insults create a new chase.",
+      "L_translation_sensitivity_proposal": "L1",
+      "H_literalness_amplification_proposal": "H2",
+      "source_plane_and_uncertainty": "No voluntary confession or accepted relationship; no murder is shown after threats.",
+      "culture_nested_form_note": "Misread goals, public face and written escalation.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H38",
+      "selected_window": {
+        "unit": "C05",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 167,
+        "p_end": 191,
+        "private_complete_window_sha256": "74891ce5125b2da04b8509c84b4b6558ade3c8f75fe91299b1bc144ffaca9585"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 181,
+        "Japanese_short": "受けなのでしょうか",
+        "speaker_or_narrator": "Sena",
+        "addressee_or_narratee": "nearby officer/partly herself",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "A false gay-community explanation recruits Sena’s flattering self-explanation and shipping interest. Quoted remarks give readers clues the narrator says he does not hear fully.",
+      "L_translation_sensitivity_proposal": "L2",
+      "H_literalness_amplification_proposal": "H2",
+      "source_plane_and_uncertainty": "No population truth, actual Kazuma orientation or objective causal marriage statistic follows.",
+      "culture_nested_form_note": "Boys-love role vocabulary, social stigma and pragmatic self-denial are contextual.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H39",
+      "selected_window": {
+        "unit": "C05",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 235,
+        "p_end": 303,
+        "private_complete_window_sha256": "3471a244bb8235d60c453fd339af0a9cc3411fdc88a7b7c0e8aaf1fc76c87e4d"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 263,
+        "Japanese_short": "迫真の演技",
+        "speaker_or_narrator": "Dust narrator",
+        "addressee_or_narratee": "reader",
+        "layer": "narration"
+      },
+      "whole_premise_description_and_mechanism": "The detector’s silence supports a convenient counter-device theory, although the helmet wearer can simply be stating his real desires. Dust resists the better explanation.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "I01P20 later calls the necklace counterfeit; no operational inversion has been independently established. Unwanted touching must remain a boundary violation.",
+      "culture_nested_form_note": "Mistaken evidentiary inference rather than language dependence.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H40",
+      "selected_window": {
+        "unit": "C05",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 307,
+        "p_end": 338,
+        "private_complete_window_sha256": "b5413677e492482e2ee488ed26784ab4c4826a74ccda5f8f94ec3fb95f80f40e"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 319,
+        "Japanese_short": "誠意を見せる",
+        "speaker_or_narrator": "Dust",
+        "addressee_or_narratee": "Sena",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "After strategic self-restraint he waits for the detector to leave, then uses deniable compensation talk and fabricated job losses to extract unpaid work.",
+      "L_translation_sensitivity_proposal": "L2",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Lower legal liability is his claim, not verified law. The presumed mutually happy solution imposes costs.",
+      "culture_nested_form_note": "Indirect coercion and mock customer authority are central.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H41",
+      "selected_window": {
+        "unit": "C05",
+        "member": "item/xhtml/p-007.xhtml",
+        "p_start": 521,
+        "p_end": 569,
+        "private_complete_window_sha256": "6a2c4c011b756925dc8a475b7277fe2b54b10b752be8f84355b77853a4b99f88"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-007.xhtml",
+        "p": 568,
+        "Japanese_short": "無効ですね",
+        "speaker_or_narrator": "small succubus",
+        "addressee_or_narratee": "Dust",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "The shop is saved, but his earlier creditor admission brings detention and makes a today-starting free week unusable. The promise can be literally honored yet practically empty.",
+      "L_translation_sensitivity_proposal": "L1",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "No delivered dream reward is shown; exact institutional/provider constraints survive the apparent triumph.",
+      "culture_nested_form_note": "Contract scope/phase, not magic itself, carries the payoff.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H42",
+      "selected_window": {
+        "unit": "I01",
+        "member": "item/xhtml/p-008.xhtml",
+        "p_start": 20,
+        "p_end": 49,
+        "private_complete_window_sha256": "2a58544c78622530c6b99a9d6356087301f4f8ba3ac5afdc3f9461567d5105e6"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-008.xhtml",
+        "p": 47,
+        "Japanese_short": "ダストさんと一つに",
+        "speaker_or_narrator": "helmet admirer narrator",
+        "addressee_or_narratee": "himself/reader",
+        "layer": "narration"
+      },
+      "whole_premise_description_and_mechanism": "The alternate viewpoint turns suspicious breathing and a helmet into a private object devotion, while a supposedly powerful necklace is a cheap fake in this speaker’s assessment.",
+      "L_translation_sensitivity_proposal": "L1",
+      "H_literalness_amplification_proposal": "H2",
+      "source_plane_and_uncertainty": "Literal purchase/wearing differs from figurative merging; sexual orientation is not itself a moral defect. Surveillance/consent are separate issues.",
+      "culture_nested_form_note": "Hyperbolic intimacy metaphor is a local nonliteral layer, not all events H4.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H43",
+      "selected_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-009.xhtml",
+        "p_start": 58,
+        "p_end": 78,
+        "private_complete_window_sha256": "16deaf6478292ae75ca9726b6690f269dee1ffe90791999e38604fca8ed8157f"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-009.xhtml",
+        "p": 65,
+        "Japanese_short": "消音機能の音が大きい",
+        "speaker_or_narrator": "Vanir",
+        "addressee_or_narratee": "Dust and Yunyun",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Convenience goods preserve their names while defeating their functions: noisy silence, uncontrolled water, lightning that only falls beneath its holder.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Descriptions are initially reported specifications; later use tests some defects. Fantasy mechanisms are in-world literal.",
+      "culture_nested_form_note": "Contradiction survives translation.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H44",
+      "selected_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-009.xhtml",
+        "p_start": 113,
+        "p_end": 127,
+        "private_complete_window_sha256": "ccf1b7d6c98308a064aebd7b1e865ba2957da7e0ff3e168e8d48cffc3cf2fea7"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-009.xhtml",
+        "p": 127,
+        "Japanese_short": "俺も一口乗った",
+        "speaker_or_narrator": "Dust",
+        "addressee_or_narratee": "guild patrons",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Outrage at wagers on his absence immediately becomes regret that he could not join the bet.",
+      "L_translation_sensitivity_proposal": "L1",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "A local goal switch, not a conclusion that he literally lacks all injury at exclusion.",
+      "culture_nested_form_note": "Fast correction/reversal of complaint.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H45",
+      "selected_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-009.xhtml",
+        "p_start": 203,
+        "p_end": 215,
+        "private_complete_window_sha256": "bc3e528e1389fe3ea364c34130d47dea5ee7b306526289f00b2f7898c3d986ad"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-009.xhtml",
+        "p": 208,
+        "Japanese_short": "誰が忙しいなんて",
+        "speaker_or_narrator": "Dust",
+        "addressee_or_narratee": "small succubus",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "A friends-first resolution collapses on a concrete pampering offer while he appraises them as safe; genuine affiliation and immediate appetite compete.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Later credible danger changes this appraisal. Do not preserve a universal override by ignoring this first adverse choice.",
+      "culture_nested_form_note": "None required.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H46",
+      "selected_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-009.xhtml",
+        "p_start": 241,
+        "p_end": 298,
+        "private_complete_window_sha256": "adc254007f237c8e1d75788c80d705205b80fecaaf1f8d1b2e4317b5f135104c"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-009.xhtml",
+        "p": 290,
+        "Japanese_short": "平和的解決",
+        "speaker_or_narrator": "Dust narrator",
+        "addressee_or_narratee": "reader",
+        "layer": "narration"
+      },
+      "whole_premise_description_and_mechanism": "A protective rescue becomes looting and coercive humiliation, narrated as peaceful negotiation; his own euphemism is morally counterweighted by events.",
+      "L_translation_sensitivity_proposal": "L2",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Some intervening abuse is elliptical; do not invent exact completed sexual acts. Gentle kidnapping language likewise supplies no consent.",
+      "culture_nested_form_note": "Self-exonerating pragmatic relabeling.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H47",
+      "selected_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-009.xhtml",
+        "p_start": 443,
+        "p_end": 468,
+        "private_complete_window_sha256": "0678b514a72814163f2042fb42372cc25a613e6d747bf24daa0940bd99772d32"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-009.xhtml",
+        "p": 443,
+        "Japanese_short": "ロリサキュバスを狙って",
+        "speaker_or_narrator": "Dust narrator",
+        "addressee_or_narratee": "reader",
+        "layer": "narration"
+      },
+      "whole_premise_description_and_mechanism": "The admirer’s gaze is explained as heterosexual competition for the third person, letting Dust offer the wrong matchmaking help.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "His rival interpretation is wrong in light of the private viewpoint, not proof that all his social inference fails.",
+      "culture_nested_form_note": "Reader/character knowledge gap.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H48",
+      "selected_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-009.xhtml",
+        "p_start": 494,
+        "p_end": 566,
+        "private_complete_window_sha256": "487f6f8888cbbaa748fc314dd065f37b475c2e11d8b2f15b6d7fbd628370e821"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-009.xhtml",
+        "p": 559,
+        "Japanese_short": "ロリ強盗だっ",
+        "speaker_or_narrator": "criminal",
+        "addressee_or_narratee": "Dust",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "A trafficking cover unexpectedly receives elaborate hospitality; their protective code then lets Dust escape with the purported target after cutting bows.",
+      "L_translation_sensitivity_proposal": "L1",
+      "H_literalness_amplification_proposal": "H2",
+      "source_plane_and_uncertainty": "No-touch hospitality coexists with abduction and trafficking. Tactical adaptation does not turn the group benign.",
+      "culture_nested_form_note": "Niche genre label/cultural script, not inherently L3 grammar.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H49",
+      "selected_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-009.xhtml",
+        "p_start": 613,
+        "p_end": 648,
+        "private_complete_window_sha256": "85c194f1d3664a354adc658e9cf30987e2a37939b1b12eab310621d08f87bd6d"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-009.xhtml",
+        "p": 626,
+        "Japanese_short": "あんよが上手",
+        "speaker_or_narrator": "Dust",
+        "addressee_or_narratee": "pursuers",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Infant-directed mockery exploits men’s desire to idealize young girls but refusal to be infantilized, drawing them into the prepared wet terrain and trap.",
+      "L_translation_sensitivity_proposal": "L2",
+      "H_literalness_amplification_proposal": "H1_H2",
+      "source_plane_and_uncertainty": "Tactics and genuine amusement coexist619; electrical result is stronger than expected643.",
+      "culture_nested_form_note": "Baby-talk register is a nested material form inside a portable ambush.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H50",
+      "selected_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-009.xhtml",
+        "p_start": 676,
+        "p_end": 741,
+        "private_complete_window_sha256": "ff057ad85cfb2b72eb4824a0144c326b8f2c102d2be7a8d3842af2fdf19014a8"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-009.xhtml",
+        "p": 735,
+        "Japanese_short": "眠りながら絶叫",
+        "speaker_or_narrator": "Dust narrator",
+        "addressee_or_narratee": "reader",
+        "layer": "narration"
+      },
+      "whole_premise_description_and_mechanism": "An apparent predator’s control is displaced by an induced orc nightmare. The earlier failed revenge device now works, but as actual psychological coercion, not a real orc attack.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Soft boundary between menace/retaliation and comedy. Apparent Leen stripping/drugging within the revealed dream is not independently verified physical harm.",
+      "culture_nested_form_note": "Nested narrative plane must remain explicit.",
+      "eligibility": "SOFT_TENDER_OR_MENACE_BOUNDARY_RETAINED",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H51",
+      "selected_window": {
+        "unit": "Final",
+        "member": "item/xhtml/p-009.xhtml",
+        "p_start": 781,
+        "p_end": 801,
+        "private_complete_window_sha256": "1f1ead6d6edca71d3f97f751cbde83a3901f41328e2d545a138ba178179b13de"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-009.xhtml",
+        "p": 784,
+        "Japanese_short": "槍を使わせてもらいます",
+        "speaker_or_narrator": "Dust’s represented inward address",
+        "addressee_or_narratee": "remembered absent person",
+        "layer": "represented_inner_address"
+      },
+      "whole_premise_description_and_mechanism": "The serious spear invocation and duel reframe hidden capacity without erasing the ordinary nuisance. The form differs from his habitual spoken roughness.",
+      "L_translation_sensitivity_proposal": "NOT_CODED_SERIOUS",
+      "H_literalness_amplification_proposal": "H1_H2",
+      "source_plane_and_uncertainty": "Deliberately retained serious comparison, outside the selected comic denominator. No exact old vow, identity or death is established.",
+      "culture_nested_form_note": "Polite inward address is not acoustic performance or a formal J01 trial.",
+      "eligibility": "SERIOUS_COMPARISON_NOT_COMIC_UNIT",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H52",
+      "selected_window": {
+        "unit": "Epi",
+        "member": "item/xhtml/p-010.xhtml",
+        "p_start": 33,
+        "p_end": 66,
+        "private_complete_window_sha256": "149fbdca8eb270633a1faf90f6ff32dcb99cc1f492818a1912ab7c8c20173208"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p": 54,
+        "Japanese_short": "一つだけなら無料",
+        "speaker_or_narrator": "Vanir",
+        "addressee_or_narratee": "Dust and companions",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Companions share compensation after rescue, but the forgotten one-free-item condition transfers the money to Vanir. Operational victory still leaves debt and joint work.",
+      "L_translation_sensitivity_proposal": "L0",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "The fee amount and fair price are not independently calculated; actual taking is narrated.",
+      "culture_nested_form_note": "Contract retrieval/callback, not a new frozen score.",
+      "eligibility": "PURPOSIVELY_SELECTED_COMIC_EXAMPLE",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    },
+    {
+      "id": "D01-H53",
+      "selected_window": {
+        "unit": "Epi",
+        "member": "item/xhtml/p-010.xhtml",
+        "p_start": 72,
+        "p_end": 79,
+        "private_complete_window_sha256": "a0b60f313fba4ee224c277b9b00812e2360688737705858db773cd7eb219538d"
+      },
+      "anchor": {
+        "member": "item/xhtml/p-010.xhtml",
+        "p": 76,
+        "Japanese_short": "さーて、どうでしょう",
+        "speaker_or_narrator": "Leen",
+        "addressee_or_narratee": "Dust",
+        "layer": "spoken_dialogue"
+      },
+      "whole_premise_description_and_mechanism": "Private praise raises the possibility that Leen saw the hidden night performance, then her nonanswer preserves unequal knowledge and a teasing relationship.",
+      "L_translation_sensitivity_proposal": "L2",
+      "H_literalness_amplification_proposal": "H1",
+      "source_plane_and_uncertainty": "Soft/tender comparison; actual witness status, love and mutual commitment remain open.",
+      "culture_nested_form_note": "Relational withholding rather than a necessary specific particle.",
+      "eligibility": "SOFT_TENDER_OR_MENACE_BOUNDARY_RETAINED",
+      "initial_stageC_assignment_not_paired": "Single continuing producer; no fixed independent union or second assignment."
+    }
+  ]
+}

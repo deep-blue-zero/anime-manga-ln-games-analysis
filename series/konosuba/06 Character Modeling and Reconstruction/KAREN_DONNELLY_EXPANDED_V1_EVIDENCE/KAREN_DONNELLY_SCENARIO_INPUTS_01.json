@@ -1,0 +1,136 @@
+{
+  "schema": "konosuba.character-reconstruction.scenario-inputs.v1",
+  "generation": "KAREN_DONNELLY_EXPANDED_V1",
+  "recorded_utc": "2026-10-24T10:29:55.243533+00:00",
+  "foundation_seal_sha256": "acc4e8feb8c2401662e646c38d7b92472f9359c71802bd2ebb1fb13d34635cbd",
+  "model_file": "KAREN_DONNELLY_MODEL_DRAFT_01.md",
+  "model_sha256": "13e6ee711061b56e081b79d48513a3c10dac9392040c87d3b56fd45abc284a93",
+  "inventory_sha256": "6111466c4a4e8ed9407f4daf0c1dd4aa8379ce8f53cffe2d8d9873fe37c6b599",
+  "case_order": [
+    "KD-H01-A",
+    "KD-H01-B",
+    "KD-H02-A",
+    "KD-H02-B",
+    "KD-H03-A",
+    "KD-H03-B"
+  ],
+  "cases": [
+    {
+      "case_id": "KD-H01-A",
+      "rule_id": "KD-R01",
+      "pair_id": "KD-H01",
+      "condition": "Useful specialist, no active standing comparison",
+      "exact_prompt": "This is a new source-world hypothetical, not an event from an EPUB. All participants are explicitly adults. Karen heads the Donnelly commercial house and needs a printer's skilled work for a trade exhibition tomorrow. Mira, an adult printer whose demonstrated skill Karen values, has offered the only available slot at an affordable agreed price. The slot remains available in both conditions; Mira has not threatened to withdraw it. Karen can accept, bargain, answer the comment or leave. No romance, bodily threat, new magic or secret agenda is supplied. Karen hears the following closing remark directly.\n\nMira says: 'I can finish your exhibition cards tonight. Please confirm the wording and the agreed payment.'\n\nWrite only Karen's next observable action and dialogue in English, in 80–140 words. This length is a format constraint, not an evidence threshold. Do not narrate another person's subsequent choice, complete an unperformed threat, invent a legal result or supply private knowledge. Do not explain the model or add an evaluation.",
+      "pre_first_directional_expectation": "Formal solicitation, practical acknowledgement or a limited concession can coexist with confidence; there is no supplied status challenge.",
+      "pre_first_limitation": "A practical courteous transaction is compatible with ordinary business etiquette and does not uniquely identify Karen.",
+      "source_known": true,
+      "same_root": true,
+      "all_other_conditions_visible": true,
+      "participant_age_scope": "All hypothetical participants explicitly adults; no source-age inference.",
+      "expected_output_words": [
+        80,
+        140
+      ]
+    },
+    {
+      "case_id": "KD-H01-B",
+      "rule_id": "KD-R01",
+      "pair_id": "KD-H01",
+      "condition": "Useful specialist also activates an established status rivalry",
+      "exact_prompt": "This is a new source-world hypothetical, not an event from an EPUB. All participants are explicitly adults. Karen heads the Donnelly commercial house and needs a printer's skilled work for a trade exhibition tomorrow. Mira, an adult printer whose demonstrated skill Karen values, has offered the only available slot at an affordable agreed price. The slot remains available in both conditions; Mira has not threatened to withdraw it. Karen can accept, bargain, answer the comment or leave. No romance, bodily threat, new magic or secret agenda is supplied. Karen hears the following closing remark directly.\n\nMira is also a familiar social rival. She says: 'I can finish your exhibition cards tonight. Your newly bought prestige will finally look almost as respectable as my family's old name.'\n\nWrite only Karen's next observable action and dialogue in English, in 80–140 words. This length is a format constraint, not an evidence threshold. Do not narrate another person's subsequent choice, complete an unperformed threat, invent a legal result or supply private knowledge. Do not explain the model or add an evaluation.",
+      "pre_first_directional_expectation": "The received standing comparison can recruit a comparative retort or face defense while useful service is still wanted; total abandonment of the contract is not required.",
+      "pre_first_limitation": "The conditions add both established rivalry and a comparative utterance; they do not isolate one word, prove a unique cause or require infinite profit sacrifice.",
+      "source_known": true,
+      "same_root": true,
+      "all_other_conditions_visible": true,
+      "participant_age_scope": "All hypothetical participants explicitly adults; no source-age inference.",
+      "expected_output_words": [
+        80,
+        140
+      ]
+    },
+    {
+      "case_id": "KD-H02-A",
+      "rule_id": "KD-R02",
+      "pair_id": "KD-H02",
+      "condition": "Replacement expense remains external",
+      "exact_prompt": "This is a fictional modern transfer, not a source event or financial advice. All participants are adults. Adult Karen runs Donnelly Trade House. She endorses a batch sale of novelty display clocks after being shown a large expected margin. She knows that some clocks will need replacement and that the sale remains profitable under either condition. A clerk directly objects that the replacements waste buyers' time and asks whether the batch should be cancelled. Both conditions have the same defect frequency, sales revenue and buyer inconvenience. Karen has received the actual replacement-cost allocation stated below. No law, previous consent, exact arithmetic, safety injury or unseen customer reaction is supplied.\n\nThe allocation states that buyers must pay the modest replacement charge themselves; Donnelly bears none of that expense.\n\nWrite only Karen's next observable action and dialogue in English, in 80–140 words. This length is a format constraint, not an evidence threshold. Do not narrate another person's subsequent choice, complete an unperformed threat, invent a legal result or supply private knowledge. Do not explain the model or add an evaluation.",
+      "pre_first_directional_expectation": "Look for a commercial-return or exchange-centered defense that does not erase the received inconvenience; no proof of actual consent may be invented.",
+      "pre_first_limitation": "Profit seeking and generic business rationalization are strong rivals. The source does not guarantee every possible product decision.",
+      "source_known": true,
+      "same_root": true,
+      "all_other_conditions_visible": true,
+      "participant_age_scope": "All hypothetical participants explicitly adults; no source-age inference.",
+      "expected_output_words": [
+        80,
+        140
+      ]
+    },
+    {
+      "case_id": "KD-H02-B",
+      "rule_id": "KD-R02",
+      "pair_id": "KD-H02",
+      "condition": "Replacement expense becomes a known Donnelly cost",
+      "exact_prompt": "This is a fictional modern transfer, not a source event or financial advice. All participants are adults. Adult Karen runs Donnelly Trade House. She endorses a batch sale of novelty display clocks after being shown a large expected margin. She knows that some clocks will need replacement and that the sale remains profitable under either condition. A clerk directly objects that the replacements waste buyers' time and asks whether the batch should be cancelled. Both conditions have the same defect frequency, sales revenue and buyer inconvenience. Karen has received the actual replacement-cost allocation stated below. No law, previous consent, exact arithmetic, safety injury or unseen customer reaction is supplied.\n\nThe allocation states that Donnelly must pay the modest replacement charge; buyers bear none of that expense.\n\nWrite only Karen's next observable action and dialogue in English, in 80–140 words. This length is a format constraint, not an evidence threshold. Do not narrate another person's subsequent choice, complete an unperformed threat, invent a legal result or supply private knowledge. Do not explain the model or add an evaluation.",
+      "pre_first_directional_expectation": "Her own cost must be represented rather than defended as somebody else expense. She may bargain, mitigate or still approve; the frozen model does not fix a cancellation threshold.",
+      "pre_first_limitation": "This is an asymmetric boundary probe: no prebound demand for cancellation or complete moral reform. If both endorse, compare the supplied cost reasoning rather than invent a missed prediction.",
+      "source_known": true,
+      "same_root": true,
+      "all_other_conditions_visible": true,
+      "participant_age_scope": "All hypothetical participants explicitly adults; no source-age inference.",
+      "expected_output_words": [
+        80,
+        140
+      ]
+    },
+    {
+      "case_id": "KD-H03-A",
+      "rule_id": "KD-R03",
+      "pair_id": "KD-H03",
+      "condition": "Threatened contents known to be harmless water",
+      "exact_prompt": "This is a new source-world hypothetical with explicitly adult participants. At a small exhibition desk Karen is asserting a disputed display fee against adult Leon. No one has established which side owes the fee. Leon demands that she withdraw it and holds an open bottle just above the ceremonial sash she is wearing. He has not poured it. Karen has seen the bottle label and believes the stated contents. Her guards are five minutes away and no other immediate assistance, magic, combat skill or hidden exit is supplied. The room is quiet and two adult visitors can see the desk. Neither condition establishes that Leon's threat is justified.\n\nThe bottle contains plain water. Karen knows a small spill would dry without staining or damaging the sash.\n\nWrite only Karen's next observable action and dialogue in English, in 80–140 words. This length is a format constraint, not an evidence threshold. Do not narrate another person's subsequent choice, complete an unperformed threat, invent a legal result or supply private knowledge. Do not explain the model or add an evaluation.",
+      "pre_first_directional_expectation": "A claim to authority, resistance or practical avoidance may continue when the claimed consequence is slight. Do not assume water has no inconvenience at all.",
+      "pre_first_limitation": "Nonsexual mild property/face risk is a weak transfer. Generic composure or annoyance fits many people.",
+      "source_known": true,
+      "same_root": true,
+      "all_other_conditions_visible": true,
+      "participant_age_scope": "All hypothetical participants explicitly adults; no source-age inference.",
+      "expected_output_words": [
+        80,
+        140
+      ]
+    },
+    {
+      "case_id": "KD-H03-B",
+      "rule_id": "KD-R03",
+      "pair_id": "KD-H03",
+      "condition": "Threatened contents known to cause immediate visible damage",
+      "exact_prompt": "This is a new source-world hypothetical with explicitly adult participants. At a small exhibition desk Karen is asserting a disputed display fee against adult Leon. No one has established which side owes the fee. Leon demands that she withdraw it and holds an open bottle just above the ceremonial sash she is wearing. He has not poured it. Karen has seen the bottle label and believes the stated contents. Her guards are five minutes away and no other immediate assistance, magic, combat skill or hidden exit is supplied. The room is quiet and two adult visitors can see the desk. Neither condition establishes that Leon's threat is justified.\n\nThe bottle contains permanent blue dye. Karen knows a small spill would visibly ruin the sash before any guard could arrive.\n\nWrite only Karen's next observable action and dialogue in English, in 80–140 words. This length is a format constraint, not an evidence threshold. Do not narrate another person's subsequent choice, complete an unperformed threat, invent a legal result or supply private knowledge. Do not explain the model or add an evaluation.",
+      "pre_first_directional_expectation": "A believed immediate personal face/property loss can interrupt defiance through alarm, withdrawal or a tactical concession. No lasting remorse or guaranteed rescuer is supplied.",
+      "pre_first_limitation": "This tests a weaker nonsexual analogue, not equivalent evidence for the source danger threshold. Threat timing/access, ordinary fear and prompt cueing remain confounded.",
+      "source_known": true,
+      "same_root": true,
+      "all_other_conditions_visible": true,
+      "participant_age_scope": "All hypothetical participants explicitly adults; no source-age inference.",
+      "expected_output_words": [
+        80,
+        140
+      ]
+    }
+  ],
+  "cases_count": 6,
+  "paired_contrasts": 3,
+  "source_known": true,
+  "same_informed_root_authors_inputs_firsts_and_assessments": true,
+  "all_contrasts_visible": true,
+  "possible_pretraining": true,
+  "external_model_call": false,
+  "independent_trial_count": 0,
+  "first_responses_not_yet_serialized": true,
+  "first_response_procedure": "After actual complete exact-input review and a separate freeze, author each first body once in the continuing root; write atomically with exclusive creation and receipt; no templated responses, feedback repair or regeneration.",
+  "final_nine_category_battery_complete": false,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "full_program_complete": false
+}

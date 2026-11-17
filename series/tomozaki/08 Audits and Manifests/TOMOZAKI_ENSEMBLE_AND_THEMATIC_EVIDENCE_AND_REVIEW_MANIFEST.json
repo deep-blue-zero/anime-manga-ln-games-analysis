@@ -1,0 +1,3266 @@
+{
+  "schema": "tomozaki_ensemble_and_thematic_embedded_evidence/v1",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "prepared_utc": "2026-10-23T09:33:43.256777+00:00",
+  "intended_canonical_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_AND_REVIEW_MANIFEST.json",
+  "scope": "R08 ensemble/coequal Mimimi–Tama and all seven R09 separate local roles; portable evidence package and bounded administrative preservation review only.",
+  "source_boundary": "All fourteen admitted Japanese witnesses through V12, separately routed V06.5/V08.5 and V07 Special Edition layers. No new source admitted.",
+  "local_roles": [
+    {
+      "role": "R08",
+      "local_literary_decision": "PASS_AT_ROOT_ACCEPTED_SCOPE",
+      "accepted_literary_generation": {
+        "path": ".scratch/ensemble_peer_network/TOMOZAKI_ENSEMBLE_AND_PEER_NETWORK_SYNTHESIS_CANDIDATE.md",
+        "bytes": 111327,
+        "sha256": "cd38ad6c2ff0c68050d2315994098dd4ebeb5abcfd919c8983c9f1f14e59c364"
+      },
+      "root_acceptance": {
+        "path": ".scratch/ensemble_root_review/R08_INDEPENDENT_ROOT_REVIEW.json",
+        "bytes": 10045,
+        "sha256": "f452156abf507e7bc52e154b0434bf5c12dd6476108093204f2a6b8ed493b1b8"
+      },
+      "canonical_target": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_ENSEMBLE_AND_PEER_NETWORK_SYNTHESIS.md",
+      "prepared_canonical_render": {
+        "path": ".scratch/specialist_promotion_tranche/canonical_candidates/TOMOZAKI_ENSEMBLE_AND_PEER_NETWORK_SYNTHESIS.md",
+        "bytes": 111959,
+        "sha256": "93e03734e1cee01edc1ad0e9c3e8adbd42a26b418b64cb84854614e4a1608453"
+      },
+      "administrative_diff": {
+        "path": ".scratch/specialist_promotion_tranche/R08_administrative_promotion.diff",
+        "bytes": 12651,
+        "sha256": "0373471655a083df252b3b7b6f07d35f083fe0870f36f4d32237731dc303f342"
+      },
+      "installation_state_at_packaging": "PREPARED_NOT_INSTALLED",
+      "packet": "R08"
+    },
+    {
+      "role": "R09_1",
+      "local_literary_decision": "PASS_AT_ROOT_ACCEPTED_SCOPE",
+      "accepted_literary_generation": {
+        "path": ".scratch/themes_form_authorship_root_review/TOMOZAKI_GAME_FORM_AND_SELF_AUTHORSHIP_SYNTHESIS_ROOT_RECONCILED_CANDIDATE.md",
+        "bytes": 45331,
+        "sha256": "9b0252d1c451f77ac13227281544dcb968d5a1df928628aa127da529f375b993"
+      },
+      "root_acceptance": {
+        "path": ".scratch/themes_form_authorship_root_review/R09_DOMAIN_1_AND_6_INDEPENDENT_ROOT_REVIEW.json",
+        "bytes": 8125,
+        "sha256": "f53cb03ee53e7112c69395c90b4f581b09783e68ec3118e795ba8b68272ac3b6"
+      },
+      "canonical_target": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_GAME_FORM_AND_SELF_AUTHORSHIP_SYNTHESIS.md",
+      "prepared_canonical_render": {
+        "path": ".scratch/specialist_promotion_tranche/canonical_candidates/TOMOZAKI_GAME_FORM_AND_SELF_AUTHORSHIP_SYNTHESIS.md",
+        "bytes": 45974,
+        "sha256": "a0f03a010b470ff5750250a8b4d2fb01d3e9b859baf19278f1cb637dd0f0d890"
+      },
+      "administrative_diff": {
+        "path": ".scratch/specialist_promotion_tranche/R09_1_administrative_promotion.diff",
+        "bytes": 2312,
+        "sha256": "d02b9c354d212bc5dda81ba4cf12386b95c53047a1c0979c14ae39bbf64883ef"
+      },
+      "installation_state_at_packaging": "PREPARED_NOT_INSTALLED",
+      "packet": "R09_1_AND_6"
+    },
+    {
+      "role": "R09_2",
+      "local_literary_decision": "PASS_AT_ROOT_ACCEPTED_SCOPE",
+      "accepted_literary_generation": {
+        "path": ".scratch/themes_effort_causality_root_review/TOMOZAKI_EFFORT_MASTERY_AND_GOAL_OWNERSHIP_SYNTHESIS_ROOT_RECONCILED_CANDIDATE.md",
+        "bytes": 47167,
+        "sha256": "d6b30170f9e55bfdb47de50d796a90b4f9996bb76763b2aaabdab44b23c64b67"
+      },
+      "root_acceptance": {
+        "path": ".scratch/themes_effort_causality_root_review/R09_DOMAIN_2_AND_4_INDEPENDENT_ROOT_REVIEW.json",
+        "bytes": 7258,
+        "sha256": "5ce900cbc6e643e066a466c00c6c94aedc93aa63a967bea4a38531c901695742"
+      },
+      "canonical_target": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_EFFORT_MASTERY_AND_GOAL_OWNERSHIP_SYNTHESIS.md",
+      "prepared_canonical_render": {
+        "path": ".scratch/specialist_promotion_tranche/canonical_candidates/TOMOZAKI_EFFORT_MASTERY_AND_GOAL_OWNERSHIP_SYNTHESIS.md",
+        "bytes": 47863,
+        "sha256": "d98c0cd02b8511bc9e334eb847199423a562960f636f54174aa83a17bdfd064d"
+      },
+      "administrative_diff": {
+        "path": ".scratch/specialist_promotion_tranche/R09_2_administrative_promotion.diff",
+        "bytes": 3268,
+        "sha256": "6e42d9ca77e93a2d285aa5324167d3f7b43fe3ef92698a4e8fcb4f83741d1b4a"
+      },
+      "installation_state_at_packaging": "PREPARED_NOT_INSTALLED",
+      "packet": "R09_2_AND_4"
+    },
+    {
+      "role": "R09_3",
+      "local_literary_decision": "PASS_AT_ROOT_ACCEPTED_SCOPE",
+      "accepted_literary_generation": {
+        "path": ".scratch/theme_social_systems_root_review/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_SYNTHESIS_ROOT_RECONCILED_CANDIDATE.md",
+        "bytes": 89645,
+        "sha256": "2c18d357fd768e036513c62c9e0bfdc50d321177828c90e9ee8afbc98fb71632"
+      },
+      "root_acceptance": {
+        "path": ".scratch/theme_social_systems_root_review/R09_DOMAIN_3_INDEPENDENT_ROOT_REVIEW.json",
+        "bytes": 7399,
+        "sha256": "878e2adf77fbd0f4c9cbf0306d7596141096491662410be177d1bb17755457ff"
+      },
+      "canonical_target": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_SYNTHESIS.md",
+      "prepared_canonical_render": {
+        "path": ".scratch/specialist_promotion_tranche/canonical_candidates/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_SYNTHESIS.md",
+        "bytes": 90379,
+        "sha256": "c7872d6714aee5a1f4cac79e37ab82fc97237ed0f5123a823af7b093c100260e"
+      },
+      "administrative_diff": {
+        "path": ".scratch/specialist_promotion_tranche/R09_3_administrative_promotion.diff",
+        "bytes": 8020,
+        "sha256": "126223c0a99fa3fd94da15c74c87ec8724fcaecb73cfc045a33798abb5c4bce3"
+      },
+      "installation_state_at_packaging": "PREPARED_NOT_INSTALLED",
+      "packet": "R09_3"
+    },
+    {
+      "role": "R09_4",
+      "local_literary_decision": "PASS_AT_ROOT_ACCEPTED_SCOPE",
+      "accepted_literary_generation": {
+        "path": ".scratch/themes_effort_causality_root_review/TOMOZAKI_CONTROL_CAUSALITY_AND_MEANING_SYNTHESIS_ROOT_RECONCILED_CANDIDATE.md",
+        "bytes": 45682,
+        "sha256": "6c39c24de3c0f4be96c92253d6f9902857e7bdabfc177190dbe97bbec64a6bd4"
+      },
+      "root_acceptance": {
+        "path": ".scratch/themes_effort_causality_root_review/R09_DOMAIN_2_AND_4_INDEPENDENT_ROOT_REVIEW.json",
+        "bytes": 7258,
+        "sha256": "5ce900cbc6e643e066a466c00c6c94aedc93aa63a967bea4a38531c901695742"
+      },
+      "canonical_target": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_CONTROL_CAUSALITY_AND_MEANING_SYNTHESIS.md",
+      "prepared_canonical_render": {
+        "path": ".scratch/specialist_promotion_tranche/canonical_candidates/TOMOZAKI_CONTROL_CAUSALITY_AND_MEANING_SYNTHESIS.md",
+        "bytes": 46375,
+        "sha256": "788a8ae1f3575b731860f715697e454598196ce29507177b0135a93beccd5a11"
+      },
+      "administrative_diff": {
+        "path": ".scratch/specialist_promotion_tranche/R09_4_administrative_promotion.diff",
+        "bytes": 3476,
+        "sha256": "85797e622dd62d8f6b9034f9a060d5b17e5bc82a7b0d658b06188d8c42c5bc6a"
+      },
+      "installation_state_at_packaging": "PREPARED_NOT_INSTALLED",
+      "packet": "R09_2_AND_4"
+    },
+    {
+      "role": "R09_5",
+      "local_literary_decision": "PASS_AT_ROOT_ACCEPTED_SCOPE",
+      "accepted_literary_generation": {
+        "path": ".scratch/theme_romance_care_root_review/TOMOZAKI_ROMANCE_CARE_DISCLOSURE_AND_INTERVENTION_SYNTHESIS_ROOT_RECONCILED_CANDIDATE.md",
+        "bytes": 54882,
+        "sha256": "fe21560ffd8148922e53cf596b136ebfa17d6eb6f1e0bdbc25dd54a437ed8f30"
+      },
+      "root_acceptance": {
+        "path": ".scratch/theme_romance_care_root_review/R09_DOMAIN_5_ROOT_ACCEPTANCE_OF_INDEPENDENT_REVIEW.json",
+        "bytes": 4434,
+        "sha256": "23cbe0907865f806a6662ce09d270ee68d9c9c931a27ea73c851a9d87a5b90b6"
+      },
+      "canonical_target": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_ROMANCE_CARE_DISCLOSURE_AND_INTERVENTION_SYNTHESIS.md",
+      "prepared_canonical_render": {
+        "path": ".scratch/specialist_promotion_tranche/canonical_candidates/TOMOZAKI_ROMANCE_CARE_DISCLOSURE_AND_INTERVENTION_SYNTHESIS.md",
+        "bytes": 55531,
+        "sha256": "62e3e2caf99ba0710c0c31f5080cf88dfb04d75bd9e8348f2ff2b5771825c1c3"
+      },
+      "administrative_diff": {
+        "path": ".scratch/specialist_promotion_tranche/R09_5_administrative_promotion.diff",
+        "bytes": 3853,
+        "sha256": "c3a78b45c9f71313aa16260255669046f89f16aac2b6e4b7fb1bc5ca4d1a69db"
+      },
+      "installation_state_at_packaging": "PREPARED_NOT_INSTALLED",
+      "packet": "R09_5"
+    },
+    {
+      "role": "R09_6",
+      "local_literary_decision": "PASS_AT_ROOT_ACCEPTED_SCOPE",
+      "accepted_literary_generation": {
+        "path": ".scratch/themes_form_authorship_root_review/TOMOZAKI_AUTHORSHIP_FICTION_OBSERVATION_AND_PERSONHOOD_SYNTHESIS_ROOT_RECONCILED_CANDIDATE.md",
+        "bytes": 51537,
+        "sha256": "0924f779b9ff7b62a0e2ffb6539e15f2bac055c306440e7ccc46443f02a45bcc"
+      },
+      "root_acceptance": {
+        "path": ".scratch/themes_form_authorship_root_review/R09_DOMAIN_1_AND_6_INDEPENDENT_ROOT_REVIEW.json",
+        "bytes": 8125,
+        "sha256": "f53cb03ee53e7112c69395c90b4f581b09783e68ec3118e795ba8b68272ac3b6"
+      },
+      "canonical_target": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_AUTHORSHIP_FICTION_OBSERVATION_AND_PERSONHOOD_SYNTHESIS.md",
+      "prepared_canonical_render": {
+        "path": ".scratch/specialist_promotion_tranche/canonical_candidates/TOMOZAKI_AUTHORSHIP_FICTION_OBSERVATION_AND_PERSONHOOD_SYNTHESIS.md",
+        "bytes": 52180,
+        "sha256": "607e1ebe1c4ae780ade9429cb9b5a17ab55a904805ddaa3aacc52fc1015144ff"
+      },
+      "administrative_diff": {
+        "path": ".scratch/specialist_promotion_tranche/R09_6_administrative_promotion.diff",
+        "bytes": 2273,
+        "sha256": "954f610470d952f84e44a150568c6260d8591eab3d636be59fab4be41b4be0d4"
+      },
+      "installation_state_at_packaging": "PREPARED_NOT_INSTALLED",
+      "packet": "R09_1_AND_6"
+    },
+    {
+      "role": "R09_7",
+      "local_literary_decision": "PASS_AT_ROOT_ACCEPTED_SCOPE",
+      "accepted_literary_generation": {
+        "path": ".scratch/theme_japanese_voice_root_review/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS_ROOT_RECONCILED_CANDIDATE.md",
+        "bytes": 71684,
+        "sha256": "fc2d4c6d4b3375768aae7999e268b6993798d1be4738f9a0e6bcdca0eb6d75d6"
+      },
+      "root_acceptance": {
+        "path": ".scratch/theme_japanese_voice_root_review/R09_DOMAIN_7_INDEPENDENT_ROOT_REVIEW.json",
+        "bytes": 8858,
+        "sha256": "c77fd0fc54bc6387f36f03f507336d6ef5cbbcddae84a33d0f6851a370a305b2"
+      },
+      "canonical_target": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md",
+      "prepared_canonical_render": {
+        "path": ".scratch/specialist_promotion_tranche/canonical_candidates/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md",
+        "bytes": 72543,
+        "sha256": "897cb97ad9694c153a96246e353896e581a4e7b5c3824b774cde77992a2d87b8"
+      },
+      "administrative_diff": {
+        "path": ".scratch/specialist_promotion_tranche/R09_7_administrative_promotion.diff",
+        "bytes": 6296,
+        "sha256": "38548e506c9e80e19584615c04812a6f939958f4d54af16ddefe1d9d8fb3e2eb"
+      },
+      "installation_state_at_packaging": "PREPARED_NOT_INSTALLED",
+      "packet": "R09_7"
+    }
+  ],
+  "prepared_current_control_propagation": {
+    "plan": {
+      "path": ".scratch/specialist_promotion_tranche/control_propagation_plan_final.json",
+      "bytes": 5378,
+      "sha256": "83d457e523ca07bfb486f898ce139ad045b36b536a88fd0c64782577ab20f6f0"
+    },
+    "objects": [
+      {
+        "role": "architecture",
+        "canonical_path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+        "before": {
+          "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+          "bytes": 58236,
+          "sha256": "0fb45b545e7e8981e16463179c20d355edeb075ba440a0d837730d22ee86c80b"
+        },
+        "prepared": {
+          "path": ".scratch/specialist_promotion_tranche/control_candidates/architecture_currentness_reconciled.md",
+          "bytes": 61289,
+          "sha256": "3f18549f7b4f2c423d08caa3209090670cac82c585d275d3b9b0c616bdad5f8e"
+        },
+        "previous_prepared": {
+          "path": ".scratch/specialist_promotion_tranche/control_candidates/architecture.md",
+          "bytes": 61244,
+          "sha256": "0cd9fde3ae532e56d377da21201afc6e0589cfd344bbf1ffc582cc3a5f6d9dd1"
+        }
+      },
+      {
+        "role": "map",
+        "canonical_path": "series/tomozaki/CURRENT_STATE_AND_CORPUS_MAP.md",
+        "before": {
+          "path": "series/tomozaki/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "bytes": 59528,
+          "sha256": "3f400f9803caaeac3fb88e820115186a2d47a8606d47ab3b2f9a59afc2de662a"
+        },
+        "prepared": {
+          "path": ".scratch/specialist_promotion_tranche/control_candidates/map_currentness_reconciled.md",
+          "bytes": 60122,
+          "sha256": "216840e055d87683fdbfd5d562b7f9f54c477b3211b9e93262184e63e35ad4f7"
+        },
+        "previous_prepared": {
+          "path": ".scratch/specialist_promotion_tranche/control_candidates/map.md",
+          "bytes": 60029,
+          "sha256": "5b0734ee51af13dec53b9a7d8d1815d21a8e381a90e98792ef4543508bc9757b"
+        }
+      },
+      {
+        "role": "inventory",
+        "canonical_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md",
+        "before": {
+          "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md",
+          "bytes": 39782,
+          "sha256": "f775033e2dd51fe0ea70cb355065c886e8ee7d58049b0c5eed78ba9cf4205dbf"
+        },
+        "prepared": {
+          "path": ".scratch/specialist_promotion_tranche/control_candidates/inventory_final.md",
+          "bytes": 41541,
+          "sha256": "abeb2f8297ecccfbf56419bc84bbe8a44befe2cbe6abf8c92bc4ed06718d6c06"
+        },
+        "previous_prepared": {
+          "path": ".scratch/specialist_promotion_tranche/control_candidates/inventory.md",
+          "bytes": 41256,
+          "sha256": "4ed3504576cf9f161cadf336ebdb04a05283da1222451810a48ae89ed9358805"
+        },
+        "previous_v2_prepared": {
+          "path": ".scratch/specialist_promotion_tranche/control_candidates/inventory_currentness_reconciled.md",
+          "bytes": 41311,
+          "sha256": "20fd46676afc69e45cb4d8e195ad7f96b633ce8ea58bf1ff370f8bfd346c896f"
+        }
+      },
+      {
+        "role": "router",
+        "canonical_path": "series/tomozaki/06 Specialist Synthesis/README.md",
+        "before": {
+          "path": "series/tomozaki/06 Specialist Synthesis/README.md",
+          "bytes": 3331,
+          "sha256": "1ef6ef71628bd2d6691e31c880934e0e6a33730e085372302dab05baf5371a23"
+        },
+        "prepared": {
+          "path": ".scratch/specialist_promotion_tranche/control_candidates/router.md",
+          "bytes": 4091,
+          "sha256": "14a52612c2366b9543a8909c578346f2f36a1e87102b01bca513b9b560460ec5"
+        }
+      }
+    ],
+    "version": "1.11",
+    "lifecycle": "EVOLVING",
+    "state": "PREPARED_NOT_APPLIED",
+    "historical_input_control_versions": "1.9/1.10 authoring and acceptance identities are retained as dated records, not false live dependencies."
+  },
+  "gate_separation": {
+    "local_R08_and_seven_R09": "PASS separately as bound by root acceptance records",
+    "bounded_administrative_review": "PASS_ROOT_INDEPENDENTLY_VERIFIED_EXACT_PACKAGE",
+    "canonical_installation_currentness": "INSTALLED_WORKTREE_REPOSITORY_PUBLICATION_PENDING",
+    "R10_execution": "ACTIVE_ACCEPTANCE_PENDING",
+    "R10_cross_specialist_convergence": "NOT_PASSED_BY_THIS_PACKET",
+    "R11_full_series_synthesis": "CLOSED_UNTIL_R10_PASS_SYNTHESIS_LAST",
+    "literary_release": "PENDING",
+    "distinct_justified_models": "PENDING_AFTER_LITERARY_RELEASE",
+    "repository_preflight_exact_head_publication_main_integration": "SEPARATE_PENDING",
+    "terminal_governance": "SEPARATE_OWNER_TRANSACTION"
+  },
+  "source_accounting_by_packet_and_actor": [
+    {
+      "packet": "R08",
+      "actor": "producer governance_audit",
+      "source_log": ".scratch/ensemble_peer_network/primary_inspection_log.jsonl",
+      "calls": 9,
+      "intervals": 10,
+      "paragraph_occurrences": 800,
+      "distinct_paragraph_triples_within_this_log": 800,
+      "members": 7,
+      "pixels": 0,
+      "meaning": "Historical actual inspection at the source receipt scope; no summation across actors or shared packets, no new packaging primary reading."
+    },
+    {
+      "packet": "R08",
+      "actor": "independent root",
+      "source_log": ".scratch/ensemble_root_review/primary_inspection_log.jsonl",
+      "calls": 6,
+      "intervals": 6,
+      "paragraph_occurrences": 519,
+      "distinct_paragraph_triples_within_this_log": 519,
+      "members": 5,
+      "pixels": 0,
+      "meaning": "Historical actual inspection at the source receipt scope; no summation across actors or shared packets, no new packaging primary reading."
+    },
+    {
+      "packet": "R09_1_AND_6",
+      "actor": "producer coverage_middle",
+      "source_log": ".scratch/themes_form_authorship/primary_inspection_log.jsonl",
+      "calls": 10,
+      "intervals": 10,
+      "paragraph_occurrences": 670,
+      "distinct_paragraph_triples_within_this_log": 670,
+      "members": 9,
+      "pixels": 0,
+      "meaning": "Historical actual inspection at the source receipt scope; no summation across actors or shared packets, no new packaging primary reading."
+    },
+    {
+      "packet": "R09_1_AND_6",
+      "actor": "independent coverage_early",
+      "source_log": ".scratch/themes_form_authorship/independent_review_early/independent_inspection_log.jsonl",
+      "calls": 8,
+      "intervals": 8,
+      "paragraph_occurrences": 448,
+      "distinct_paragraph_triples_within_this_log": 448,
+      "members": 6,
+      "pixels": 0,
+      "meaning": "Historical actual inspection at the source receipt scope; no summation across actors or shared packets, no new packaging primary reading."
+    },
+    {
+      "packet": "R09_1_AND_6",
+      "actor": "root acceptance reviewer",
+      "source_log": ".scratch/themes_form_authorship_root_review/primary_inspection_log.jsonl",
+      "calls": 3,
+      "intervals": 3,
+      "paragraph_occurrences": 105,
+      "distinct_paragraph_triples_within_this_log": 105,
+      "members": 3,
+      "pixels": 0,
+      "meaning": "Historical actual inspection at the source receipt scope; no summation across actors or shared packets, no new packaging primary reading."
+    },
+    {
+      "packet": "R09_2_AND_4",
+      "actor": "producer coverage_early",
+      "source_log": ".scratch/themes_effort_causality/independent_inspection_log.jsonl",
+      "calls": 16,
+      "intervals": 19,
+      "paragraph_occurrences": 1130,
+      "distinct_paragraph_triples_within_this_log": 1129,
+      "members": 9,
+      "pixels": 0,
+      "meaning": "Historical actual inspection at the source receipt scope; no summation across actors or shared packets, no new packaging primary reading."
+    },
+    {
+      "packet": "R09_2_AND_4",
+      "actor": "independent coverage_middle",
+      "source_log": ".scratch/themes_effort_causality/independent_review_middle/independent_primary_inspection_log.jsonl",
+      "calls": 3,
+      "intervals": 5,
+      "paragraph_occurrences": 236,
+      "distinct_paragraph_triples_within_this_log": 236,
+      "members": 3,
+      "pixels": 0,
+      "meaning": "Historical actual inspection at the source receipt scope; no summation across actors or shared packets, no new packaging primary reading."
+    },
+    {
+      "packet": "R09_2_AND_4",
+      "actor": "root acceptance reviewer",
+      "source_log": ".scratch/themes_effort_causality_root_review/primary_inspection_log.jsonl",
+      "calls": 3,
+      "intervals": 5,
+      "paragraph_occurrences": 196,
+      "distinct_paragraph_triples_within_this_log": 196,
+      "members": 3,
+      "pixels": 0,
+      "meaning": "Historical actual inspection at the source receipt scope; no summation across actors or shared packets, no new packaging primary reading."
+    },
+    {
+      "packet": "R09_3",
+      "actor": "producer governance_audit",
+      "source_log": ".scratch/theme_social_systems/primary_inspection_log.jsonl",
+      "calls": 11,
+      "intervals": 11,
+      "paragraph_occurrences": 465,
+      "distinct_paragraph_triples_within_this_log": 465,
+      "members": 8,
+      "pixels": 0,
+      "meaning": "Historical actual inspection at the source receipt scope; no summation across actors or shared packets, no new packaging primary reading."
+    },
+    {
+      "packet": "R09_3",
+      "actor": "independent coverage_early",
+      "source_log": ".scratch/theme_social_systems/independent_review_early/independent_inspection_log.jsonl",
+      "calls": 9,
+      "intervals": 10,
+      "paragraph_occurrences": 500,
+      "distinct_paragraph_triples_within_this_log": 500,
+      "members": 8,
+      "pixels": 0,
+      "meaning": "Historical actual inspection at the source receipt scope; no summation across actors or shared packets, no new packaging primary reading."
+    },
+    {
+      "packet": "R09_3",
+      "actor": "root acceptance reviewer",
+      "source_log": ".scratch/theme_social_systems_root_review/primary_inspection_log.jsonl",
+      "calls": 4,
+      "intervals": 4,
+      "paragraph_occurrences": 257,
+      "distinct_paragraph_triples_within_this_log": 257,
+      "members": 4,
+      "pixels": 0,
+      "meaning": "Historical actual inspection at the source receipt scope; no summation across actors or shared packets, no new packaging primary reading."
+    },
+    {
+      "packet": "R09_5",
+      "actor": "producer root",
+      "source_log": ".scratch/theme_romance_care/primary_inspection_log.jsonl",
+      "calls": 4,
+      "intervals": 5,
+      "paragraph_occurrences": 447,
+      "distinct_paragraph_triples_within_this_log": 447,
+      "members": 3,
+      "pixels": 0,
+      "meaning": "Historical actual inspection at the source receipt scope; no summation across actors or shared packets, no new packaging primary reading."
+    },
+    {
+      "packet": "R09_5",
+      "actor": "independent coverage_middle",
+      "source_log": ".scratch/theme_romance_care/independent_review_middle/independent_primary_inspection_log.jsonl",
+      "calls": 3,
+      "intervals": 3,
+      "paragraph_occurrences": 366,
+      "distinct_paragraph_triples_within_this_log": 366,
+      "members": 3,
+      "pixels": 0,
+      "meaning": "Historical actual inspection at the source receipt scope; no summation across actors or shared packets, no new packaging primary reading."
+    },
+    {
+      "packet": "R09_7",
+      "actor": "producer governance_audit",
+      "source_log": ".scratch/theme_japanese_voice/primary_inspection_log.jsonl",
+      "calls": 37,
+      "intervals": 45,
+      "paragraph_occurrences": 1309,
+      "distinct_paragraph_triples_within_this_log": 1309,
+      "members": 22,
+      "pixels": 0,
+      "meaning": "Historical actual inspection at the source receipt scope; no summation across actors or shared packets, no new packaging primary reading."
+    },
+    {
+      "packet": "R09_7",
+      "actor": "independent coverage_middle",
+      "source_log": ".scratch/theme_japanese_voice/independent_review_middle/independent_primary_inspection_log.jsonl",
+      "calls": 6,
+      "intervals": 12,
+      "paragraph_occurrences": 420,
+      "distinct_paragraph_triples_within_this_log": 420,
+      "members": 6,
+      "pixels": 0,
+      "meaning": "Historical actual inspection at the source receipt scope; no summation across actors or shared packets, no new packaging primary reading."
+    },
+    {
+      "packet": "R09_7",
+      "actor": "root acceptance reviewer",
+      "source_log": ".scratch/theme_japanese_voice_root_review/primary_inspection_log.jsonl",
+      "calls": 5,
+      "intervals": 7,
+      "paragraph_occurrences": 246,
+      "distinct_paragraph_triples_within_this_log": 246,
+      "members": 5,
+      "pixels": 0,
+      "meaning": "Historical actual inspection at the source receipt scope; no summation across actors or shared packets, no new packaging primary reading."
+    }
+  ],
+  "source_accounting_warning": "Rows are intentionally not summed. Joint domain1/6 and2/4 packets are counted once per actor. Overlap, inherited scopes and repeated receipt references are not independent corroboration. RC root incorporation is not counted as a fresh independent source review of its own authored argument.",
+  "embedding_contract": {
+    "complete_records": "Complete relevant parsed producer, independent and root acceptance/read/source/debt/condition/rebind/register/derivation-diff records and full human review/handoff/debt texts are embedded below.",
+    "historical_records": "Embedded values describe their own dated generation. A draft/pending field in an old receipt is not the current local decision. Original raw byte identities remain distinct from parsed/projected values.",
+    "not_embedded_as_content": "Helper source code, primary prose dumps, EPUBs, media, full literary beforeimages and working notes. Helper identities and original seals remain; accepted/current literary files are separate hashed payloads.",
+    "actual_new_packaging_read_scope": "Complete270-line administrative plan; all eight complete administrative diffs365lines; complete final control plan120lines and final control diff214lines; six unique root acceptance records, with outer display truncation recovered explicitly. No new semantic reacceptance of packager-authored literature. Other embedded records loaded/hashed and retained complete, not falsely declared new full semantic rereads.",
+    "new_primary_calls": 0,
+    "new_pixels": 0
+  },
+  "helper_identities_only": [
+    {
+      "path": ".scratch/ensemble_peer_network/read_candidate.py",
+      "bytes": 730,
+      "sha256": "8938704892edd12df90d06345b8ff9fb84d510f030045f09d542bf081e28344a"
+    },
+    {
+      "path": ".scratch/ensemble_peer_network/read_input.py",
+      "bytes": 1138,
+      "sha256": "5d37fda9e19c480e1c2dbf3fbb4cd75c49d485d1c568e3b93fffdff3a37adcfe"
+    },
+    {
+      "path": ".scratch/ensemble_peer_network/seal_handoff.py",
+      "bytes": 11887,
+      "sha256": "6bccf7554b12f0292275bf3117e812d424c53cef6f9256dd6ae1cdc2cdd6019d"
+    },
+    {
+      "path": ".scratch/ensemble_peer_network/source_reader.py",
+      "bytes": 4996,
+      "sha256": "63feb2d8cb0cdcaa81c76fb18d5de966a6297f1e5a8ae7a78b20e894d7a9ca5a"
+    },
+    {
+      "path": ".scratch/ensemble_root_review/source_reader.py",
+      "bytes": 4996,
+      "sha256": "63feb2d8cb0cdcaa81c76fb18d5de966a6297f1e5a8ae7a78b20e894d7a9ca5a"
+    },
+    {
+      "path": ".scratch/ensemble_root_review/verify_and_accept.py",
+      "bytes": 6696,
+      "sha256": "ee2bafd472fad2b51c4fb678d39b24aab9f1ef0ed44673d370bfb064e7a1f328"
+    },
+    {
+      "path": ".scratch/themes_form_authorship/artifact_reader.py",
+      "bytes": 1746,
+      "sha256": "4ddbdc86d1dc2a34ff88f4a8292e619748269026d6be2ee7e6b4a631716f6b77"
+    },
+    {
+      "path": ".scratch/themes_form_authorship/audit_input_lineages.py",
+      "bytes": 3072,
+      "sha256": "fb0248b521030a70c518c2c608b77390e44d0a7070c77507edf573ccfcbfd6d8"
+    },
+    {
+      "path": ".scratch/themes_form_authorship/audit_primary_reuse.py",
+      "bytes": 2345,
+      "sha256": "a54a474ca0a305fdecc8955887073372a65301fb41c09cc7fb7136b1ed6eb83f"
+    },
+    {
+      "path": ".scratch/themes_form_authorship/bind_draft_readback.py",
+      "bytes": 4782,
+      "sha256": "2084ecd763f5a561c0f1d49faab89348f25bfff3f1fb3a79f01d26a19853da34"
+    },
+    {
+      "path": ".scratch/themes_form_authorship/independent_review_early/build_review_receipt.py",
+      "bytes": 7655,
+      "sha256": "2e554d5c083f53d4d4e72a3bea269cefa791de28a7ac33f6e4c7221eb15341d9"
+    },
+    {
+      "path": ".scratch/themes_form_authorship/independent_review_early/rebind/check_six_condition_rebind.py",
+      "bytes": 5063,
+      "sha256": "895c8ecb0e9fcbcbf4dd311eb9414c9def603f453a98319dec8390ede2235e61"
+    },
+    {
+      "path": ".scratch/themes_form_authorship/independent_review_early/rebind/rebind_reader.py",
+      "bytes": 4900,
+      "sha256": "2cab487eaac1e09d839535d11b8691de43380c6eac7ed7ee7aed7c6347f0910f"
+    },
+    {
+      "path": ".scratch/themes_form_authorship/independent_review_early/review_reader.py",
+      "bytes": 4900,
+      "sha256": "2cab487eaac1e09d839535d11b8691de43380c6eac7ed7ee7aed7c6347f0910f"
+    },
+    {
+      "path": ".scratch/themes_form_authorship/independent_review_early/seal_review.py",
+      "bytes": 1130,
+      "sha256": "523cb0ae6f03b49598679e0929e8817053dac6980ced4ec1931f89b53baf438d"
+    },
+    {
+      "path": ".scratch/themes_form_authorship/independent_review_early/verify_payload_independently.py",
+      "bytes": 4814,
+      "sha256": "f4582c005c5435e94d63dce5a0ee96c099865253506d3163e34693fcb2242054"
+    },
+    {
+      "path": ".scratch/themes_form_authorship/seal_themes.py",
+      "bytes": 12374,
+      "sha256": "95a66e559ed1eedc0be2f94a421c314b69948e3e39b8e565bfceede8fa305aa6"
+    },
+    {
+      "path": ".scratch/themes_form_authorship/source_reader.py",
+      "bytes": 2945,
+      "sha256": "f71a79e7e92c1fe6558c194b738e322ff483557a24e3f2a977f10a11d1dcf371"
+    },
+    {
+      "path": ".scratch/themes_form_authorship/verify_routes.py",
+      "bytes": 7028,
+      "sha256": "366cc17e11aab43989120cad78cd44d7e057c10f398b66bbb7bf7cf65189b4c8"
+    },
+    {
+      "path": ".scratch/themes_form_authorship_root_review/reconcile_six_routes.py",
+      "bytes": 5528,
+      "sha256": "e5d312825034864aa83a8426f6f4622d4d842ecd6ab03f044fe7a62c4bf7ae6f"
+    },
+    {
+      "path": ".scratch/themes_form_authorship_root_review/seal_root_acceptance.py",
+      "bytes": 6965,
+      "sha256": "b5e2410ec4ff214b5d26285054f5770a8037481a04bdaec249d79d8787e92ccf"
+    },
+    {
+      "path": ".scratch/themes_form_authorship_root_review/source_reader.py",
+      "bytes": 4996,
+      "sha256": "63feb2d8cb0cdcaa81c76fb18d5de966a6297f1e5a8ae7a78b20e894d7a9ca5a"
+    },
+    {
+      "path": ".scratch/themes_effort_causality/build_receipts.py",
+      "bytes": 18219,
+      "sha256": "9bfe583b5edd46469eaeeef2ef1d5e3d1712eb450522f88423d79928805cd913"
+    },
+    {
+      "path": ".scratch/themes_effort_causality/independent_review_middle/build_precise_corrections.py",
+      "bytes": 5242,
+      "sha256": "980c9232fc822a8054774285bcdc782d2bda728836675ad70137561e3a4244d4"
+    },
+    {
+      "path": ".scratch/themes_effort_causality/independent_review_middle/rebind/read_rebind.py",
+      "bytes": 703,
+      "sha256": "f327fcdd453b62228597670505c09710b1552c1af2f04bf28187f9c230cc26f6"
+    },
+    {
+      "path": ".scratch/themes_effort_causality/independent_review_middle/rebind/verify_exact_reconciliation.py",
+      "bytes": 6120,
+      "sha256": "3b8be95b96413e08d0d1e9737f36e1f64f06e30008eec48d02d0836b82ed9ce5"
+    },
+    {
+      "path": ".scratch/themes_effort_causality/independent_review_middle/review_reader.py",
+      "bytes": 680,
+      "sha256": "c0ffd4a834b1d364588e33116d6fa8bd592ac3d5466ff8f66487ca7c0718cde6"
+    },
+    {
+      "path": ".scratch/themes_effort_causality/independent_review_middle/review_source_reader.py",
+      "bytes": 2105,
+      "sha256": "3429006cc55455a7d764c7ec4f4aacc1c181dbe645c3c3ea1fe48e307431efb2"
+    },
+    {
+      "path": ".scratch/themes_effort_causality/independent_review_middle/seal_independent_review.py",
+      "bytes": 4806,
+      "sha256": "c74087d1f391acc72e5940fea61f8d86cd528edd9063d0a80db9f6703639ea2c"
+    },
+    {
+      "path": ".scratch/themes_effort_causality/independent_review_middle/verify_independent_review.py",
+      "bytes": 6308,
+      "sha256": "94dbb4e39c32e02431240a78f6e3816547f77f6625280904531d8d383e54e768"
+    },
+    {
+      "path": ".scratch/themes_effort_causality/seal_payload.py",
+      "bytes": 3426,
+      "sha256": "e18ea72210314776ab49a004c1bd337a72bc554cf7cd3f765e8bd049c1b8235c"
+    },
+    {
+      "path": ".scratch/themes_effort_causality/theme_reader.py",
+      "bytes": 4900,
+      "sha256": "2cab487eaac1e09d839535d11b8691de43380c6eac7ed7ee7aed7c6347f0910f"
+    },
+    {
+      "path": ".scratch/themes_effort_causality_root_review/reconcile_four_conditions.py",
+      "bytes": 3851,
+      "sha256": "18c9b082ca0fd9cc19a58d17b25eb18ac13fb72e244841c66751b098943b35f0"
+    },
+    {
+      "path": ".scratch/themes_effort_causality_root_review/replay_producer_metadata.py",
+      "bytes": 3491,
+      "sha256": "c86f321f8bb89cf9dba9ac4f48157341a93d37223b518e29a4b32b89b95bfcbc"
+    },
+    {
+      "path": ".scratch/themes_effort_causality_root_review/seal_root_acceptance.py",
+      "bytes": 5792,
+      "sha256": "80b61cf78c8a1c9d71cad8fe3d260c2f1d6450fa20af72adc780b93745499dff"
+    },
+    {
+      "path": ".scratch/themes_effort_causality_root_review/source_reader.py",
+      "bytes": 4996,
+      "sha256": "63feb2d8cb0cdcaa81c76fb18d5de966a6297f1e5a8ae7a78b20e894d7a9ca5a"
+    },
+    {
+      "path": ".scratch/theme_social_systems/independent_review_early/build_receipt.py",
+      "bytes": 9300,
+      "sha256": "314d847bd17eed2b15a3d0176b9c11f01c8cf59d9ab4f48127fd02541b4dc9c3"
+    },
+    {
+      "path": ".scratch/theme_social_systems/independent_review_early/independent_replay.py",
+      "bytes": 4091,
+      "sha256": "32e1103477976927bb92c38fcc5980a1d705c6b1a985dbb4fee208e36dd7883c"
+    },
+    {
+      "path": ".scratch/theme_social_systems/independent_review_early/review_reader.py",
+      "bytes": 4900,
+      "sha256": "2cab487eaac1e09d839535d11b8691de43380c6eac7ed7ee7aed7c6347f0910f"
+    },
+    {
+      "path": ".scratch/theme_social_systems/read_candidate.py",
+      "bytes": 714,
+      "sha256": "c1b63beb451ced9e9bbdf0026e9f762f0788f4e9a4cf4213a7c8a653201595dd"
+    },
+    {
+      "path": ".scratch/theme_social_systems/read_input.py",
+      "bytes": 914,
+      "sha256": "62aeb7043153876dd080180d7e190dc64e45030da6231c5836b59ce521411fc1"
+    },
+    {
+      "path": ".scratch/theme_social_systems/seal_handoff.py",
+      "bytes": 9745,
+      "sha256": "d67b8e9a46657b6beaca3f2b4d1a096c4bd56b8334ea8e65d4df90106b5bc7ff"
+    },
+    {
+      "path": ".scratch/theme_social_systems/source_reader.py",
+      "bytes": 4996,
+      "sha256": "63feb2d8cb0cdcaa81c76fb18d5de966a6297f1e5a8ae7a78b20e894d7a9ca5a"
+    },
+    {
+      "path": ".scratch/theme_social_systems_root_review/reconcile_quartet.py",
+      "bytes": 2423,
+      "sha256": "0edb788aae86ee809693a8bd6517e10bde2ac7898c9db574e53d65429293bc1a"
+    },
+    {
+      "path": ".scratch/theme_social_systems_root_review/replay_metadata.py",
+      "bytes": 3966,
+      "sha256": "297f46e6e75932c3d10ddacacacca2efe88aa7bc17dd4b53ad61f5c9b38a9f64"
+    },
+    {
+      "path": ".scratch/theme_social_systems_root_review/seal_root_acceptance.py",
+      "bytes": 5830,
+      "sha256": "4d34222e03115116dd54c39606f6ab5d423479856e1e07fce583758e1618743d"
+    },
+    {
+      "path": ".scratch/theme_social_systems_root_review/source_reader.py",
+      "bytes": 4996,
+      "sha256": "63feb2d8cb0cdcaa81c76fb18d5de966a6297f1e5a8ae7a78b20e894d7a9ca5a"
+    },
+    {
+      "path": ".scratch/theme_romance_care/artifact_reader.py",
+      "bytes": 696,
+      "sha256": "2af698cc356228ca612f14610adc26e8afd34812083e4ef3789067089b6b5417"
+    },
+    {
+      "path": ".scratch/theme_romance_care/author_readback_precisions.py",
+      "bytes": 10801,
+      "sha256": "a5567c5abaf29fee5364090fb1fd65c56d4f240030fef87550eae6f43fd2116e"
+    },
+    {
+      "path": ".scratch/theme_romance_care/independent_review_middle/build_review_receipt.py",
+      "bytes": 5804,
+      "sha256": "76a0195346f060ffc4317f04b916a4ca11bf2c0d3dab0ab87f9af4b75d10e52d"
+    },
+    {
+      "path": ".scratch/theme_romance_care/independent_review_middle/rebind/read_rebind.py",
+      "bytes": 703,
+      "sha256": "f327fcdd453b62228597670505c09710b1552c1af2f04bf28187f9c230cc26f6"
+    },
+    {
+      "path": ".scratch/theme_romance_care/independent_review_middle/rebind/verify_exact_reconciliation.py",
+      "bytes": 4916,
+      "sha256": "45e7c26d3db6058ebc2c9d733f21d41d03ab02eaa48be00dee6dc05f125389e9"
+    },
+    {
+      "path": ".scratch/theme_romance_care/independent_review_middle/review_reader.py",
+      "bytes": 680,
+      "sha256": "c0ffd4a834b1d364588e33116d6fa8bd592ac3d5466ff8f66487ca7c0718cde6"
+    },
+    {
+      "path": ".scratch/theme_romance_care/independent_review_middle/review_source_reader.py",
+      "bytes": 2105,
+      "sha256": "3429006cc55455a7d764c7ec4f4aacc1c181dbe645c3c3ea1fe48e307431efb2"
+    },
+    {
+      "path": ".scratch/theme_romance_care/independent_review_middle/verify_review_bindings.py",
+      "bytes": 5645,
+      "sha256": "8d812b32ce9bdf59d6d99a249755619b55f3eabe9fcd30e48a541694927dc79e"
+    },
+    {
+      "path": ".scratch/theme_romance_care/seal_handoff.py",
+      "bytes": 6558,
+      "sha256": "fbb9acebe1af73f2229043eea4301525861723629197f924fea47487f80c4aff"
+    },
+    {
+      "path": ".scratch/theme_romance_care/source_reader.py",
+      "bytes": 4996,
+      "sha256": "63feb2d8cb0cdcaa81c76fb18d5de966a6297f1e5a8ae7a78b20e894d7a9ca5a"
+    },
+    {
+      "path": ".scratch/theme_romance_care_root_review/reconcile_continuation.py",
+      "bytes": 3026,
+      "sha256": "5b56c97abcdc383e390e61c5e954e7bbbffff02e148b67a01c1e705c6391d5e0"
+    },
+    {
+      "path": ".scratch/theme_romance_care_root_review/seal_root_acceptance.py",
+      "bytes": 5007,
+      "sha256": "4064a64e4bf6478866c9d5caed147c38bb9ad8d80a9e086bcd73c135bdf7a4de"
+    },
+    {
+      "path": ".scratch/theme_japanese_voice/independent_review_middle/build_review_receipt.py",
+      "bytes": 6862,
+      "sha256": "800f4bffb66a842f452700ffd340cbe4c2fc0b992dc784d5a58e5d5246d4af42"
+    },
+    {
+      "path": ".scratch/theme_japanese_voice/independent_review_middle/rebind/read_rebind.py",
+      "bytes": 744,
+      "sha256": "1421c5369e697ae4ab3fce32de43ecffe9468d8b97ead4ca265303398cffb9f2"
+    },
+    {
+      "path": ".scratch/theme_japanese_voice/independent_review_middle/rebind/verify_exact_reconciliation.py",
+      "bytes": 4548,
+      "sha256": "11876057a99111dff36a8a46abcc05439e43c985242f30cc7ebb52485e61bcef"
+    },
+    {
+      "path": ".scratch/theme_japanese_voice/independent_review_middle/review_reader.py",
+      "bytes": 718,
+      "sha256": "56d0dc7aedd76a62e1a2b344a8b95bfcbb8fcfcb279e8739189f3adf69b5569d"
+    },
+    {
+      "path": ".scratch/theme_japanese_voice/independent_review_middle/review_source_reader.py",
+      "bytes": 2157,
+      "sha256": "b7c7123c94243dfdd97360b2c0b943a80828b9d9a9fff0999f291f6990fe480c"
+    },
+    {
+      "path": ".scratch/theme_japanese_voice/independent_review_middle/verify_review_bindings.py",
+      "bytes": 6227,
+      "sha256": "3aef3d80f4bc92a9592e890567c95ee690498e8f85fb650bcb07026483b5a100"
+    },
+    {
+      "path": ".scratch/theme_japanese_voice/read_candidate.py",
+      "bytes": 735,
+      "sha256": "a3c2c5c846e20cbc3aa0b4d333d3b17d177feb91ecd01f7d2e826d067d924ae1"
+    },
+    {
+      "path": ".scratch/theme_japanese_voice/read_input.py",
+      "bytes": 914,
+      "sha256": "62aeb7043153876dd080180d7e190dc64e45030da6231c5836b59ce521411fc1"
+    },
+    {
+      "path": ".scratch/theme_japanese_voice/seal_handoff.py",
+      "bytes": 12215,
+      "sha256": "4fe71a2988b559fc86342d1d0d348e9bed683df8e199683d66d2d380f253ef80"
+    },
+    {
+      "path": ".scratch/theme_japanese_voice/seal_manifest.py",
+      "bytes": 6300,
+      "sha256": "412cd86c5ee6dbd6fe4e8e037ac33a15f0e89b0eaa70d4e3e3f69866299589b5"
+    },
+    {
+      "path": ".scratch/theme_japanese_voice/source_reader.py",
+      "bytes": 4996,
+      "sha256": "63feb2d8cb0cdcaa81c76fb18d5de966a6297f1e5a8ae7a78b20e894d7a9ca5a"
+    },
+    {
+      "path": ".scratch/theme_japanese_voice_root_review/reconcile_quartet.py",
+      "bytes": 2310,
+      "sha256": "b0a8651618d0d9ebe0eab1f5457e7c71f7226d6cd11469933a706b122848c6d4"
+    },
+    {
+      "path": ".scratch/theme_japanese_voice_root_review/replay_metadata.py",
+      "bytes": 3785,
+      "sha256": "90a5fd6c0499c31de3e99be82ed92673b7518cc1daa2d6adbec779fb89a19933"
+    },
+    {
+      "path": ".scratch/theme_japanese_voice_root_review/seal_root_acceptance.py",
+      "bytes": 6255,
+      "sha256": "a9bdfecaa7cfcb546e30dd159362485affa9ae0c3b320ab9afe142b36be9c49d"
+    },
+    {
+      "path": ".scratch/theme_japanese_voice_root_review/source_reader.py",
+      "bytes": 4996,
+      "sha256": "63feb2d8cb0cdcaa81c76fb18d5de966a6297f1e5a8ae7a78b20e894d7a9ca5a"
+    }
+  ],
+  "body_and_working_note_identities_only": [
+    {
+      "path": ".scratch/ensemble_peer_network/candidate_before_final_author_readback_fixes.md",
+      "bytes": 110497,
+      "sha256": "ce9f41239875a5d7fddbaa01ee23930c23525366f9ee992617fee66a8076052b",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/ensemble_peer_network/candidate_before_final_grammar_fix.md",
+      "bytes": 111351,
+      "sha256": "468cc96bec093dfa8100a1fad5ac3deb984b899cb92d9b9aa452716ae4590659",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/ensemble_peer_network/candidate_before_root_activity_precision.md",
+      "bytes": 111312,
+      "sha256": "167ef41df30710aa5aa980a926392807fd19e626dd17f0107a002ab79c59aed4",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/ensemble_peer_network/RESUME.md",
+      "bytes": 6232,
+      "sha256": "8f5da3d841915579e5ac8e5845094f13e741530ab5f54738fa1230a30033c797",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/ensemble_peer_network/TOMOZAKI_ENSEMBLE_AND_PEER_NETWORK_SYNTHESIS_CANDIDATE.md",
+      "bytes": 111327,
+      "sha256": "cd38ad6c2ff0c68050d2315994098dd4ebeb5abcfd919c8983c9f1f14e59c364",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/themes_form_authorship/TOMOZAKI_AUTHORSHIP_FICTION_OBSERVATION_AND_PERSONHOOD_SYNTHESIS_CANDIDATE.md",
+      "bytes": 51532,
+      "sha256": "e7972b17b8d52035752df7d20eabe6d484e7ecf03db7956de5953fe081d0a87c",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/themes_form_authorship/TOMOZAKI_GAME_FORM_AND_SELF_AUTHORSHIP_SYNTHESIS_CANDIDATE.md",
+      "bytes": 45341,
+      "sha256": "f5d94cfc7ea41fe98d2112f21b2a11aa3d26a8e4b8b24c328e196a37798936b3",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/themes_form_authorship_root_review/TOMOZAKI_AUTHORSHIP_FICTION_OBSERVATION_AND_PERSONHOOD_SYNTHESIS_ROOT_RECONCILED_CANDIDATE.md",
+      "bytes": 51537,
+      "sha256": "0924f779b9ff7b62a0e2ffb6539e15f2bac055c306440e7ccc46443f02a45bcc",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/themes_form_authorship_root_review/TOMOZAKI_GAME_FORM_AND_SELF_AUTHORSHIP_SYNTHESIS_ROOT_RECONCILED_CANDIDATE.md",
+      "bytes": 45331,
+      "sha256": "9b0252d1c451f77ac13227281544dcb968d5a1df928628aa127da529f375b993",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/themes_effort_causality/TOMOZAKI_CONTROL_CAUSALITY_AND_MEANING_SYNTHESIS_CANDIDATE.md",
+      "bytes": 45473,
+      "sha256": "b0e631f74c498c01ad99f97b54b1efe00e5514eee0fca37f41675dab62b4a8e9",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/themes_effort_causality/TOMOZAKI_EFFORT_MASTERY_AND_GOAL_OWNERSHIP_SYNTHESIS_CANDIDATE.md",
+      "bytes": 46969,
+      "sha256": "c74023e7b0bd2f0693d59023aea9df0aaedbc042440643a9cc10242486c575b3",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/themes_effort_causality/WORKING_ARGUMENT_AND_READ_PLAN.md",
+      "bytes": 8680,
+      "sha256": "90a1967c5bc7f7e557a105f1f1ea44f6656ae7427fc81c123aaf7df78dc78688",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/themes_effort_causality_root_review/TOMOZAKI_CONTROL_CAUSALITY_AND_MEANING_SYNTHESIS_ROOT_RECONCILED_CANDIDATE.md",
+      "bytes": 45682,
+      "sha256": "6c39c24de3c0f4be96c92253d6f9902857e7bdabfc177190dbe97bbec64a6bd4",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/themes_effort_causality_root_review/TOMOZAKI_EFFORT_MASTERY_AND_GOAL_OWNERSHIP_SYNTHESIS_ROOT_RECONCILED_CANDIDATE.md",
+      "bytes": 47167,
+      "sha256": "d6b30170f9e55bfdb47de50d796a90b4f9996bb76763b2aaabdab44b23c64b67",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/theme_social_systems/architecture_intake_reconstructed.md",
+      "bytes": 56845,
+      "sha256": "d472a674663b32e15c70b23b0d9e2511945aea5d2e919b8fe93aca207d901964",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/theme_social_systems/candidate_before_author_readback_fixes.md",
+      "bytes": 89129,
+      "sha256": "451b78c67b186b11cfb2a951a21a7dd64a44b171fa5667ee187eab9e98abf0cc",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/theme_social_systems/candidate_before_R08_acceptance_note.md",
+      "bytes": 89486,
+      "sha256": "198637835fef3e2214e4ff0e1d472a15e1e23e965f9aa3824952a1ee36ab0b1f",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/theme_social_systems/RESUME.md",
+      "bytes": 5489,
+      "sha256": "39c135f582d46440d4aff0925efd2e8a8444164687bcb90e9e720e6e81f32d83",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/theme_social_systems/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_SYNTHESIS_CANDIDATE.md",
+      "bytes": 89612,
+      "sha256": "95b261d7aeeaa70fef04f2aee4346a1e689288ec749a4d6fcba5a9d05bc8757b",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/theme_social_systems_root_review/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_SYNTHESIS_ROOT_RECONCILED_CANDIDATE.md",
+      "bytes": 89645,
+      "sha256": "2c18d357fd768e036513c62c9e0bfdc50d321177828c90e9ee8afbc98fb71632",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/theme_romance_care/candidate_before_author_readback_precisions.md",
+      "bytes": 53804,
+      "sha256": "d5060768105f9a547c2c21f2c0d9a9cf28e5ddbff0a3d465c6f169c4de5e1b04",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/theme_romance_care/TOMOZAKI_ROMANCE_CARE_DISCLOSURE_AND_INTERVENTION_SYNTHESIS_CANDIDATE.md",
+      "bytes": 54823,
+      "sha256": "3abbbbf8d396ae98506885c5e1692c804327d6da6f2c88257470f152f1040622",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/theme_romance_care_root_review/TOMOZAKI_ROMANCE_CARE_DISCLOSURE_AND_INTERVENTION_SYNTHESIS_ROOT_RECONCILED_CANDIDATE.md",
+      "bytes": 54882,
+      "sha256": "fe21560ffd8148922e53cf596b136ebfa17d6eb6f1e0bdbc25dd54a437ed8f30",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/theme_japanese_voice/candidate_before_author_readback_fixes.md",
+      "bytes": 70111,
+      "sha256": "e107e2daecce1e5de0e1bad13d02cda618ddebcf8c8f81baae629848a2f72e42",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/theme_japanese_voice/candidate_before_geometry_source_completion.md",
+      "bytes": 70088,
+      "sha256": "e5de87785df3632486bcfbdd0e3fa5261c52005611ab0ee80cc779e7c8beb897",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/theme_japanese_voice/RESUME.md",
+      "bytes": 17109,
+      "sha256": "7973f951b13c8edc5a9693a031f6e35e7442c79c833bbb582eeb08addcd93883",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/theme_japanese_voice/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS_CANDIDATE.md",
+      "bytes": 71651,
+      "sha256": "0b28d894fd2a678205ed33d3f594a8a39d4c1e1409ae383cbfc71908c459a9ad",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    },
+    {
+      "path": ".scratch/theme_japanese_voice_root_review/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS_ROOT_RECONCILED_CANDIDATE.md",
+      "bytes": 71684,
+      "sha256": "fc2d4c6d4b3375768aae7999e268b6993798d1be4738f9a0e6bcdca0eb6d75d6",
+      "reason": "Literary/control body or working notes: identity only; accepted canonical renders are separate payloads. Not a missing source/read/review record."
+    }
+  ],
+  "portable_prefix_projection": {
+    "tokens": {
+      "@REPOSITORY_ROOT@": "Verified H-drive Tomozaki repository checkout root",
+      "@SOURCE_LOCK_ROOT@": "Verified H-drive locked Tomozaki EPUB root"
+    },
+    "scope": "Every embedded string field and dictionary key; exact observed verified prefixes only. Original suffixes, semantics, source IDs/counts and raw record hashes unchanged.",
+    "changed_string_field_count": 117,
+    "observed_prefix_variant_count": 3,
+    "original_hash_semantics": "raw_original_bytes_sha256 hashes the original file bytes before parsing/projection. parsed_original_value_canonical_json_sha256 and projected_value_canonical_json_sha256 hash JSON UTF-8 with sorted keys and compact separators, not the original file encoding.",
+    "private_beforeimage_and_full_projection_proof": "Retained in scratch only; never install these private files as canonical evidence.",
+    "private_beforeimage_identity": {
+      "path": ".scratch/specialist_promotion_tranche/packaging_middle/_PRIVATE_UNPROJECTED_EVIDENCE_PACKET.json",
+      "bytes": 2307155,
+      "sha256": "2c2b8ee0110c36eaf887dfa7e05f4af883d9ba62ad1f6fc93c4b2027015db759"
+    },
+    "private_full_projection_proof_identity": {
+      "path": ".scratch/specialist_promotion_tranche/packaging_middle/_PRIVATE_PREFIX_PROJECTION_PROOF.json",
+      "bytes": 89855,
+      "sha256": "82b9d38ca9906a8b8b9ef97c9858436bc5c40f8ed2cf1956cb1203337e468317"
+    }
+  },
+  "release_state": "mutable_active",
+  "root_integration": {
+    "scope": "Administrative currentness derivative of the complete sealed184record public evidence packet; inherited record values and packagingtime state remain exact.",
+    "source_draft": {
+      "path": ".scratch/specialist_promotion_tranche/packaging_middle/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_AND_REVIEW_MANIFEST.json",
+      "bytes": 2357567,
+      "sha256": "f390d69c623d024a7b1632f35988c693d3bffcee347acb84ddf21e9571450c27"
+    },
+    "root_independent_review_identity": {
+      "path": ".scratch/specialist_promotion_tranche/root_review/ROOT_PACKAGE_INDEPENDENT_REVIEW.json",
+      "bytes": 6138,
+      "sha256": "aaefb51fc800bb480451c5fd6188ac67eb0c67ccee7af40dbe6977d89b9d3401"
+    },
+    "complete_root_independent_review": {
+      "schema": "tomozaki_specialist_package_root_independent_verification/v1",
+      "status": "PASS_PACKAGE_ADMIN_AND_PORTABLE_PROVENANCE",
+      "producer_seal": {
+        "path": ".scratch/specialist_promotion_tranche/packaging_middle/PACKAGE_SEAL.json",
+        "bytes": 5340,
+        "sha256": "0a71131310eea716803874cd329945982bfc252ef6d3c48ad4ae9577cc00c8b5"
+      },
+      "public_manifest": {
+        "path": ".scratch/specialist_promotion_tranche/packaging_middle/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_AND_REVIEW_MANIFEST.json",
+        "bytes": 2357567,
+        "sha256": "f390d69c623d024a7b1632f35988c693d3bffcee347acb84ddf21e9571450c27"
+      },
+      "integration_review": {
+        "path": ".scratch/specialist_promotion_tranche/packaging_middle/TOMOZAKI_ENSEMBLE_AND_THEMATIC_INTEGRATION_REVIEW.md",
+        "bytes": 15884,
+        "sha256": "7d0ad37fd85cb1480dc6f68de9dc1c7b77357ff1c975be9cd4be6a11d5dd7740"
+      },
+      "sealed_files": 18,
+      "complete_records": 184,
+      "sealed_owned_assertions": 189,
+      "helpers_identity_only": 74,
+      "historical_body_identities": 28,
+      "lossless_root_prefix_changes": 117,
+      "verified_root_prefix_variants": 3,
+      "eight_administrative_renders_reversed_to_exact_literary_body": [
+        {
+          "role": "R08",
+          "literary_body_reversible_exact": true,
+          "render": {
+            "path": ".scratch/specialist_promotion_tranche/canonical_candidates/TOMOZAKI_ENSEMBLE_AND_PEER_NETWORK_SYNTHESIS.md",
+            "bytes": 111959,
+            "sha256": "93e03734e1cee01edc1ad0e9c3e8adbd42a26b418b64cb84854614e4a1608453"
+          }
+        },
+        {
+          "role": "R09_1",
+          "literary_body_reversible_exact": true,
+          "render": {
+            "path": ".scratch/specialist_promotion_tranche/canonical_candidates/TOMOZAKI_GAME_FORM_AND_SELF_AUTHORSHIP_SYNTHESIS.md",
+            "bytes": 45974,
+            "sha256": "a0f03a010b470ff5750250a8b4d2fb01d3e9b859baf19278f1cb637dd0f0d890"
+          }
+        },
+        {
+          "role": "R09_2",
+          "literary_body_reversible_exact": true,
+          "render": {
+            "path": ".scratch/specialist_promotion_tranche/canonical_candidates/TOMOZAKI_EFFORT_MASTERY_AND_GOAL_OWNERSHIP_SYNTHESIS.md",
+            "bytes": 47863,
+            "sha256": "d98c0cd02b8511bc9e334eb847199423a562960f636f54174aa83a17bdfd064d"
+          }
+        },
+        {
+          "role": "R09_3",
+          "literary_body_reversible_exact": true,
+          "render": {
+            "path": ".scratch/specialist_promotion_tranche/canonical_candidates/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_SYNTHESIS.md",
+            "bytes": 90379,
+            "sha256": "c7872d6714aee5a1f4cac79e37ab82fc97237ed0f5123a823af7b093c100260e"
+          }
+        },
+        {
+          "role": "R09_4",
+          "literary_body_reversible_exact": true,
+          "render": {
+            "path": ".scratch/specialist_promotion_tranche/canonical_candidates/TOMOZAKI_CONTROL_CAUSALITY_AND_MEANING_SYNTHESIS.md",
+            "bytes": 46375,
+            "sha256": "788a8ae1f3575b731860f715697e454598196ce29507177b0135a93beccd5a11"
+          }
+        },
+        {
+          "role": "R09_5",
+          "literary_body_reversible_exact": true,
+          "render": {
+            "path": ".scratch/specialist_promotion_tranche/canonical_candidates/TOMOZAKI_ROMANCE_CARE_DISCLOSURE_AND_INTERVENTION_SYNTHESIS.md",
+            "bytes": 55531,
+            "sha256": "62e3e2caf99ba0710c0c31f5080cf88dfb04d75bd9e8348f2ff2b5771825c1c3"
+          }
+        },
+        {
+          "role": "R09_6",
+          "literary_body_reversible_exact": true,
+          "render": {
+            "path": ".scratch/specialist_promotion_tranche/canonical_candidates/TOMOZAKI_AUTHORSHIP_FICTION_OBSERVATION_AND_PERSONHOOD_SYNTHESIS.md",
+            "bytes": 52180,
+            "sha256": "607e1ebe1c4ae780ade9429cb9b5a17ab55a904805ddaa3aacc52fc1015144ff"
+          }
+        },
+        {
+          "role": "R09_7",
+          "literary_body_reversible_exact": true,
+          "render": {
+            "path": ".scratch/specialist_promotion_tranche/canonical_candidates/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md",
+            "bytes": 72543,
+            "sha256": "897cb97ad9694c153a96246e353896e581a4e7b5c3824b774cde77992a2d87b8"
+          }
+        }
+      ],
+      "final_four_control_before_and_prepared_identities_exact": true,
+      "all_projected_markdown_links_resolve": 212,
+      "actual_root_read": "Complete109line human integration review, handoff, seal, full6103Broundtrip receipt and8978Bactualread receipt; all new meaningful manifest outer semantics; prior root full8literary arguments, full8administrative diffs, complete final fourcontrol diff plus allprecision deltas. Complete inherited184records mechanically replayed against originals and private losslessprojectionproof, not relabeled new semantic/source reading.",
+      "new_primary_calls": 0,
+      "new_pixels": 0,
+      "canonical_installation": "PENDING_SEPARATE_TRANSACTION",
+      "aggregate_R10_R11_release_models_publication_terminal": "NOT_PASSED_BY_THIS_PACKAGE",
+      "canonical_install_allowlist": [
+        "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_ENSEMBLE_AND_PEER_NETWORK_SYNTHESIS.md",
+        "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_GAME_FORM_AND_SELF_AUTHORSHIP_SYNTHESIS.md",
+        "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_EFFORT_MASTERY_AND_GOAL_OWNERSHIP_SYNTHESIS.md",
+        "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_SYNTHESIS.md",
+        "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_CONTROL_CAUSALITY_AND_MEANING_SYNTHESIS.md",
+        "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_ROMANCE_CARE_DISCLOSURE_AND_INTERVENTION_SYNTHESIS.md",
+        "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_AUTHORSHIP_FICTION_OBSERVATION_AND_PERSONHOOD_SYNTHESIS.md",
+        "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md",
+        "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+        "series/tomozaki/CURRENT_STATE_AND_CORPUS_MAP.md",
+        "series/tomozaki/08 Audits and Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md",
+        "series/tomozaki/06 Specialist Synthesis/README.md",
+        "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_INTEGRATION_REVIEW.md",
+        "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_AND_REVIEW_MANIFEST.json"
+      ]
+    },
+    "installed_specialists": [
+      {
+        "role": "R08",
+        "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_ENSEMBLE_AND_PEER_NETWORK_SYNTHESIS.md",
+        "bytes": 111959,
+        "sha256": "93e03734e1cee01edc1ad0e9c3e8adbd42a26b418b64cb84854614e4a1608453"
+      },
+      {
+        "role": "R09_1",
+        "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_GAME_FORM_AND_SELF_AUTHORSHIP_SYNTHESIS.md",
+        "bytes": 45974,
+        "sha256": "a0f03a010b470ff5750250a8b4d2fb01d3e9b859baf19278f1cb637dd0f0d890"
+      },
+      {
+        "role": "R09_2",
+        "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_EFFORT_MASTERY_AND_GOAL_OWNERSHIP_SYNTHESIS.md",
+        "bytes": 47863,
+        "sha256": "d98c0cd02b8511bc9e334eb847199423a562960f636f54174aa83a17bdfd064d"
+      },
+      {
+        "role": "R09_3",
+        "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_SYNTHESIS.md",
+        "bytes": 90379,
+        "sha256": "c7872d6714aee5a1f4cac79e37ab82fc97237ed0f5123a823af7b093c100260e"
+      },
+      {
+        "role": "R09_4",
+        "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_CONTROL_CAUSALITY_AND_MEANING_SYNTHESIS.md",
+        "bytes": 46375,
+        "sha256": "788a8ae1f3575b731860f715697e454598196ce29507177b0135a93beccd5a11"
+      },
+      {
+        "role": "R09_5",
+        "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_ROMANCE_CARE_DISCLOSURE_AND_INTERVENTION_SYNTHESIS.md",
+        "bytes": 55531,
+        "sha256": "62e3e2caf99ba0710c0c31f5080cf88dfb04d75bd9e8348f2ff2b5771825c1c3"
+      },
+      {
+        "role": "R09_6",
+        "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_AUTHORSHIP_FICTION_OBSERVATION_AND_PERSONHOOD_SYNTHESIS.md",
+        "bytes": 52180,
+        "sha256": "607e1ebe1c4ae780ade9429cb9b5a17ab55a904805ddaa3aacc52fc1015144ff"
+      },
+      {
+        "role": "R09_7",
+        "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md",
+        "bytes": 72543,
+        "sha256": "897cb97ad9694c153a96246e353896e581a4e7b5c3824b774cde77992a2d87b8"
+      }
+    ],
+    "installed_controls": [
+      {
+        "role": "architecture",
+        "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+        "bytes": 61289,
+        "sha256": "3f18549f7b4f2c423d08caa3209090670cac82c585d275d3b9b0c616bdad5f8e"
+      },
+      {
+        "role": "map",
+        "path": "series/tomozaki/CURRENT_STATE_AND_CORPUS_MAP.md",
+        "bytes": 60122,
+        "sha256": "216840e055d87683fdbfd5d562b7f9f54c477b3211b9e93262184e63e35ad4f7"
+      },
+      {
+        "role": "inventory",
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md",
+        "bytes": 41541,
+        "sha256": "abeb2f8297ecccfbf56419bc84bbe8a44befe2cbe6abf8c92bc4ed06718d6c06"
+      },
+      {
+        "role": "router",
+        "path": "series/tomozaki/06 Specialist Synthesis/README.md",
+        "bytes": 4091,
+        "sha256": "14a52612c2366b9543a8909c578346f2f36a1e87102b01bca513b9b560460ec5"
+      }
+    ],
+    "installation_scope": "Eight exact specialist renders, two audit currentness derivatives and four final1.11control derivatives. This tree installation neither passes aggregateR10 nor claims Git publication/mainintegration.",
+    "publication_and_aggregate_gates": "SEPARATE_PENDING"
+  },
+  "record_storage": {
+    "representation_schema": "tomozaki_lossless_embedded_evidence_record_shards/v1",
+    "logical_manifest_schema_retained": "tomozaki_ensemble_and_thematic_embedded_evidence/v1",
+    "logical_field": "records",
+    "record_count": 184,
+    "record_array_canonical_json_sha256": "3a1e761b17df1d1d801172e73b9f6a3c8c26b6c8835246ba5cc9986fd63014d0",
+    "shard_count": 4,
+    "source_whole_manifest": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_AND_REVIEW_MANIFEST.json",
+      "bytes": 2368463,
+      "sha256": "43c6449a602fb559bce238f1a0be98aeec782eef335504103275b82018fbda5b"
+    },
+    "source_whole_manifest_identity_semantics": "Historical complete installed beforeimage; after this proposed replacement the same canonical pathname identifies the smaller routing manifest. The old byte count/hash are not asserted as the live file identity. All old bytes remain exactly reconstructable from the public router and shards.",
+    "source_sealed_public_packet": {
+      "path": ".scratch/specialist_promotion_tranche/packaging_middle/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_AND_REVIEW_MANIFEST.json",
+      "bytes": 2357567,
+      "sha256": "f390d69c623d024a7b1632f35988c693d3bffcee347acb84ddf21e9571450c27"
+    },
+    "original_top_level_key_order": [
+      "schema",
+      "status",
+      "supersedes",
+      "superseded_by",
+      "repository_authority",
+      "do_not_use_as_current_authority",
+      "prepared_utc",
+      "intended_canonical_path",
+      "scope",
+      "source_boundary",
+      "local_roles",
+      "prepared_current_control_propagation",
+      "gate_separation",
+      "source_accounting_by_packet_and_actor",
+      "source_accounting_warning",
+      "embedding_contract",
+      "records",
+      "helper_identities_only",
+      "body_and_working_note_identities_only",
+      "portable_prefix_projection",
+      "release_state",
+      "root_integration"
+    ],
+    "outer_preservation": "Every original top-level field except records is retained exactly as a parsed value, including root_integration, source/read accounting, authority fields, local_roles, projection contract and historical identities. The original records field is stored whole-element and in order in the declared shards. New physical-storage fields add no literary or gate authority.",
+    "embedding_contract_interpretation": "The inherited complete-record/embedding statements describe the logical packet represented by this routing manifest plus all declared shards, rather than a claim that their values remain inline in this smaller physical file.",
+    "deterministic_reconstruction": [
+      "Resolve each record_shards[].relative_path relative to this manifest in the same 08 audit directory; require exact byte size and SHA-256 before parsing.",
+      "Read shards in the record_shards array order. Require their ordinal ranges, counts and canonical record-array hashes; concatenate their records arrays without reordering or dropping duplicate-valued records.",
+      "Require exactly184 unique record_id entries and the global records-array canonical hash. record_catalogue gives exact relative-file/JSON-pointer lookup for every original ID.",
+      "Reconstruct an object in original_top_level_key_order, using the concatenated array for records and the unchanged routing-manifest value for every other original key. Exclude the added record_storage, record_shards, record_catalogue and sharding_validation_record keys.",
+      "Serialize with Python json.dumps(ensure_ascii=False, indent=2), original insertion order, strict UTF-8 without BOM, and one terminal LF. Exact reconstructed bytes must equal source_whole_manifest bytes and SHA-256."
+    ],
+    "canonical_value_hash_profile": "Strict UTF-8 of JSON with ensure_ascii=False, sort_keys=True, separators=(comma,colon), no terminal newline.",
+    "link_contract": "Only relative_path/JSON-pointer pairs and the named same-directory validation receipt are live join routes. Historical source_record/@REPOSITORY_ROOT@/.scratch identities remain historical inputs, not required live canonical dependencies. All eight installed literary and four control identities retain their acceptance-time scopes.",
+    "non_admission_and_non_recertification": "Storage-only derivative of already accepted records; zero new primary calls/pixels, no new literary review, R10/R11/release/model/publication or terminal pass.",
+    "size_rule": {
+      "repository_review_threshold_bytes": 1048576,
+      "target_shard_ceiling_bytes_exclusive": 680000,
+      "reviewed_control_exception_added": false
+    }
+  },
+  "record_shards": [
+    {
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "canonical_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "bytes": 679781,
+      "sha256": "b56c9ecbc9fb523e8888d122c18a122493c3194d9bf2e4f2f41d8f66745d241a",
+      "first_global_record_ordinal_1based": 1,
+      "last_global_record_ordinal_1based": 56,
+      "record_count": 56,
+      "record_array_canonical_json_sha256": "9fbbbd9711306c374939c367c2557c746ce86b0ec69d257dd970f258a2169140"
+    },
+    {
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "canonical_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "bytes": 640342,
+      "sha256": "853d35072e8d4abda31233a06144807d2b88d7cf7b6a6690d4c28bd296fd7a1e",
+      "first_global_record_ordinal_1based": 57,
+      "last_global_record_ordinal_1based": 114,
+      "record_count": 58,
+      "record_array_canonical_json_sha256": "9ab5527758811e7026ec5b2bdf37c1d8b12b74c1e3345219485ff91b8d635d79"
+    },
+    {
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "canonical_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "bytes": 672885,
+      "sha256": "cbe174016393d61c9004517bb3a75a5b49a38ac643e684cff0a0f8e9bc466325",
+      "first_global_record_ordinal_1based": 115,
+      "last_global_record_ordinal_1based": 161,
+      "record_count": 47,
+      "record_array_canonical_json_sha256": "b7e5bdf01e4b729d3b5cde60ce3a76ee0a81d19dddcf2791b3d8c0773f0b2913"
+    },
+    {
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "canonical_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "bytes": 316639,
+      "sha256": "584fefd46fb3521a013971ca0021185e6999130c5c9c5a048fdaad8318046ff6",
+      "first_global_record_ordinal_1based": 162,
+      "last_global_record_ordinal_1based": 184,
+      "record_count": 23,
+      "record_array_canonical_json_sha256": "2f99c2ae25a03a1bc1b04ef3b15ab59480217da856068cb8df95bfe3dd877e14"
+    }
+  ],
+  "record_catalogue": [
+    {
+      "global_record_ordinal_1based": 1,
+      "record_id": "ETR-0001",
+      "packet": "R08",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/0",
+      "raw_original_bytes_sha256": "4c1f5e3dd5ead3c16f7ae034d6d47d88eff73d9d1d07f0e59d131913024ada50",
+      "projected_value_canonical_json_sha256": "7805bc1b8527ed4e3035bcf4c408690bb568a62e382024cb4978aa419f682596"
+    },
+    {
+      "global_record_ordinal_1based": 2,
+      "record_id": "ETR-0002",
+      "packet": "R08",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/1",
+      "raw_original_bytes_sha256": "77740a6e317506cde10a7f7513431a741e29b8c2fa6f093d0eddbace812337ea",
+      "projected_value_canonical_json_sha256": "28ff4b48000dfb6b754dc66c555b2ec5a40096c48f31ba51a435f7a13fc31465"
+    },
+    {
+      "global_record_ordinal_1based": 3,
+      "record_id": "ETR-0003",
+      "packet": "R08",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/2",
+      "raw_original_bytes_sha256": "28fbc765e4e010bbbb7c58bf99cdd5ee33f9c873e33bed6140b478e5d52bc305",
+      "projected_value_canonical_json_sha256": "776cecf83523fddea0984d2b61a5f7777d0f5ab59f69b40b171a6876565a5d7a"
+    },
+    {
+      "global_record_ordinal_1based": 4,
+      "record_id": "ETR-0004",
+      "packet": "R08",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/3",
+      "raw_original_bytes_sha256": "d1f708a1dee47de7e22d17b258d6cd6a1a5f2c5ade08e935359099981ef28f37",
+      "projected_value_canonical_json_sha256": "5442e324958939a87af368e65ec2fddd55124aeec061a71b46f1142ec0cdd6db"
+    },
+    {
+      "global_record_ordinal_1based": 5,
+      "record_id": "ETR-0005",
+      "packet": "R08",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/4",
+      "raw_original_bytes_sha256": "09a4dfce80c73d312c2db2a7274abff4ba78dcc1d3e73a0c52f01d276a2e84d1",
+      "projected_value_canonical_json_sha256": "1b3a117d0f6782a12d3593626c35bd16bdba07da861c6528fed6339e7e33eae0"
+    },
+    {
+      "global_record_ordinal_1based": 6,
+      "record_id": "ETR-0006",
+      "packet": "R08",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/5",
+      "raw_original_bytes_sha256": "6b425a5d7c8311201ac04d54676b2d5100536ccc88077b500114539f95a9a2a8",
+      "projected_value_canonical_json_sha256": "03ce127b613670d0d1097ddcaa21686b9069d5514c12f2c7914f9af2a251bbb3"
+    },
+    {
+      "global_record_ordinal_1based": 7,
+      "record_id": "ETR-0007",
+      "packet": "R08",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/6",
+      "raw_original_bytes_sha256": "319fe0af0445324d9c71dc84a5dd5c1c30b1a32f8296f699ce285d0e7c8ca113",
+      "projected_value_canonical_json_sha256": "0621b2817695693800d5ab3fbb2b3b06c8af452f63012f89db5113c5b6f5de2b"
+    },
+    {
+      "global_record_ordinal_1based": 8,
+      "record_id": "ETR-0008",
+      "packet": "R08",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/7",
+      "raw_original_bytes_sha256": "d3e5ef2720992f136acdc8db10c0d2988bfafcc894668552aa051762e0b15d11",
+      "projected_value_canonical_json_sha256": "d7df6be95c34913d3e4ea8aa37de383c016eee2df8bf79a5a259bcb09a53f751"
+    },
+    {
+      "global_record_ordinal_1based": 9,
+      "record_id": "ETR-0009",
+      "packet": "R08",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/8",
+      "raw_original_bytes_sha256": "bec20dd4a27072619b56be327af0c70952f91d543471869c70ebf73a2055c4e9",
+      "projected_value_canonical_json_sha256": "1503715620ddb4680a9748aa3d61fd60a44946a2c19e97797537a874dc42935f"
+    },
+    {
+      "global_record_ordinal_1based": 10,
+      "record_id": "ETR-0010",
+      "packet": "R08",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/9",
+      "raw_original_bytes_sha256": "383657bab22d975c0d8c729958dc02a3adaea12d1ca203bc9b9d65b1866dad80",
+      "projected_value_canonical_json_sha256": "e568dfc0a37356237bb2fae027185ea757b1b72e242a9f9d00076801ab48ce3b"
+    },
+    {
+      "global_record_ordinal_1based": 11,
+      "record_id": "ETR-0011",
+      "packet": "R08",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/10",
+      "raw_original_bytes_sha256": "3db32c4055e227b4c73cc8e87a6f3eaf197dbc01a09da96e032f58954bb400d2",
+      "projected_value_canonical_json_sha256": "138541c20eea08d8afa117df468606b54e51c5e290c9e1ac595ab3e907a29c35"
+    },
+    {
+      "global_record_ordinal_1based": 12,
+      "record_id": "ETR-0012",
+      "packet": "R08",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/11",
+      "raw_original_bytes_sha256": "6ef3c29210f2e6a0fa80f7e06f7c863beb5dbb6d299c895ec59bbb6b64ba73e3",
+      "projected_value_canonical_json_sha256": "e408d80ee03295b0eff4df31544baa6a6ebb6477840baab9a17a83bf4f4d7fe0"
+    },
+    {
+      "global_record_ordinal_1based": 13,
+      "record_id": "ETR-0013",
+      "packet": "R08",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/12",
+      "raw_original_bytes_sha256": "09d7b6c7faff7166e332494d538303788b6ca6a9bfea4ece3df1cfe4230bb8cb",
+      "projected_value_canonical_json_sha256": "ae1e4bc6475c389683f0407f50397573b8725342397e47dc35701cddfa334038"
+    },
+    {
+      "global_record_ordinal_1based": 14,
+      "record_id": "ETR-0014",
+      "packet": "R08",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/13",
+      "raw_original_bytes_sha256": "4d9e9dbdc02d45b8477e1f69eff1eeeaaba99def41d086c9bcd68f7ec15910cf",
+      "projected_value_canonical_json_sha256": "ad0a8872e2a3c010c1e15e7af004c5d2ebeec46f886ebbadb4c19443fdce2944"
+    },
+    {
+      "global_record_ordinal_1based": 15,
+      "record_id": "ETR-0015",
+      "packet": "R08",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/14",
+      "raw_original_bytes_sha256": "c4947e9689de0979458d594015b5d27c270286982427ea0a76c8aa32b764e9e1",
+      "projected_value_canonical_json_sha256": "84af48697a4fca75f704671463e67971500f25fa2a1e46d337f812766a62ece9"
+    },
+    {
+      "global_record_ordinal_1based": 16,
+      "record_id": "ETR-0016",
+      "packet": "R08",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/15",
+      "raw_original_bytes_sha256": "f452156abf507e7bc52e154b0434bf5c12dd6476108093204f2a6b8ed493b1b8",
+      "projected_value_canonical_json_sha256": "d759ea303749a81b06d2683f56910529ebbf0a9d3b2af7c7fe6cd1c740a0a2df"
+    },
+    {
+      "global_record_ordinal_1based": 17,
+      "record_id": "ETR-0017",
+      "packet": "R08",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/16",
+      "raw_original_bytes_sha256": "aef252754605d187a7c3f0747dba8ac63ef35b5cdc68143ec1983f0b3c5fe97a",
+      "projected_value_canonical_json_sha256": "8d41112de5d24005d33037523a7c19f235a7ff9e9954d5344b83360e2d3cb55f"
+    },
+    {
+      "global_record_ordinal_1based": 18,
+      "record_id": "ETR-0018",
+      "packet": "PROMOTION_ADMINISTRATION_AND_CONTROLS",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/17",
+      "raw_original_bytes_sha256": "0373471655a083df252b3b7b6f07d35f083fe0870f36f4d32237731dc303f342",
+      "projected_value_canonical_json_sha256": "706ae162350a3d2be21a31357e2bdad9dfb9bf7541c92f423ad098f181c53107"
+    },
+    {
+      "global_record_ordinal_1based": 19,
+      "record_id": "ETR-0019",
+      "packet": "PROMOTION_ADMINISTRATION_AND_CONTROLS",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/18",
+      "raw_original_bytes_sha256": "d02b9c354d212bc5dda81ba4cf12386b95c53047a1c0979c14ae39bbf64883ef",
+      "projected_value_canonical_json_sha256": "2a44846c5d09d1431e445d74da7b82dd8c138c84e7fc6810e7e6e50cdc3e84db"
+    },
+    {
+      "global_record_ordinal_1based": 20,
+      "record_id": "ETR-0020",
+      "packet": "PROMOTION_ADMINISTRATION_AND_CONTROLS",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/19",
+      "raw_original_bytes_sha256": "6e42d9ca77e93a2d285aa5324167d3f7b43fe3ef92698a4e8fcb4f83741d1b4a",
+      "projected_value_canonical_json_sha256": "225744124219dbb860a175a294827c4f47e7d04187f7c421ddc4d5ab65260c9b"
+    },
+    {
+      "global_record_ordinal_1based": 21,
+      "record_id": "ETR-0021",
+      "packet": "PROMOTION_ADMINISTRATION_AND_CONTROLS",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/20",
+      "raw_original_bytes_sha256": "126223c0a99fa3fd94da15c74c87ec8724fcaecb73cfc045a33798abb5c4bce3",
+      "projected_value_canonical_json_sha256": "057838c72dd13bf127477e9ed213ae4448159698b23aeee50b3ba16a00864db7"
+    },
+    {
+      "global_record_ordinal_1based": 22,
+      "record_id": "ETR-0022",
+      "packet": "PROMOTION_ADMINISTRATION_AND_CONTROLS",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/21",
+      "raw_original_bytes_sha256": "85797e622dd62d8f6b9034f9a060d5b17e5bc82a7b0d658b06188d8c42c5bc6a",
+      "projected_value_canonical_json_sha256": "db1bf19bb72a86c6542d1f493d886e7c0c341cfe8dbdaca1cc498acb9d678c65"
+    },
+    {
+      "global_record_ordinal_1based": 23,
+      "record_id": "ETR-0023",
+      "packet": "PROMOTION_ADMINISTRATION_AND_CONTROLS",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/22",
+      "raw_original_bytes_sha256": "c3a78b45c9f71313aa16260255669046f89f16aac2b6e4b7fb1bc5ca4d1a69db",
+      "projected_value_canonical_json_sha256": "a60ad42f41fba4a83eace0ce3d375d8b6155e7a34ff0d05d962a8fe3f2f6c997"
+    },
+    {
+      "global_record_ordinal_1based": 24,
+      "record_id": "ETR-0024",
+      "packet": "PROMOTION_ADMINISTRATION_AND_CONTROLS",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/23",
+      "raw_original_bytes_sha256": "954f610470d952f84e44a150568c6260d8591eab3d636be59fab4be41b4be0d4",
+      "projected_value_canonical_json_sha256": "f496583e65198c4892320e2e7f88ada2c72fd1f187648fc0db892ed73baa39c1"
+    },
+    {
+      "global_record_ordinal_1based": 25,
+      "record_id": "ETR-0025",
+      "packet": "PROMOTION_ADMINISTRATION_AND_CONTROLS",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/24",
+      "raw_original_bytes_sha256": "38548e506c9e80e19584615c04812a6f939958f4d54af16ddefe1d9d8fb3e2eb",
+      "projected_value_canonical_json_sha256": "cfa825f44e5e8ceaaa8c78edc0677d39384ac9c8c486f46623be0993ae16b3c6"
+    },
+    {
+      "global_record_ordinal_1based": 26,
+      "record_id": "ETR-0026",
+      "packet": "PROMOTION_ADMINISTRATION_AND_CONTROLS",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/25",
+      "raw_original_bytes_sha256": "8c34103d6196cdac427ce33d558a39664d428a5a0bda1050b1690374ff514c0d",
+      "projected_value_canonical_json_sha256": "fd44c390f4c99c886213b1cf5a1a0ffe37a43c2fa68575e4bc7d23726ba8e4c4"
+    },
+    {
+      "global_record_ordinal_1based": 27,
+      "record_id": "ETR-0027",
+      "packet": "PROMOTION_ADMINISTRATION_AND_CONTROLS",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/26",
+      "raw_original_bytes_sha256": "dc1e0011096bb74fc3ab3320c5153282afe674531a7592e52e26f7c18d4fdb26",
+      "projected_value_canonical_json_sha256": "c0c6e428dfde1d41e62fb9af989401210cc922b8c229c387127876f269cb32cf"
+    },
+    {
+      "global_record_ordinal_1based": 28,
+      "record_id": "ETR-0028",
+      "packet": "PROMOTION_ADMINISTRATION_AND_CONTROLS",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/27",
+      "raw_original_bytes_sha256": "3cd8f5b6ee8176878ebf33034514c63cd2a66151b0c0c7c51534074b180b4e13",
+      "projected_value_canonical_json_sha256": "d8b64bb68adc06eeec288e64a8e5c68f83e5cb23b87a68ab51873ff031795511"
+    },
+    {
+      "global_record_ordinal_1based": 29,
+      "record_id": "ETR-0029",
+      "packet": "PROMOTION_ADMINISTRATION_AND_CONTROLS",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/28",
+      "raw_original_bytes_sha256": "a85c9e6994827e0ad29bb5949b645e461c5b36201374e1f958fbd97fd9f4bd0e",
+      "projected_value_canonical_json_sha256": "a29544112b483f15c9ab0ce75edd81dcd5245e2fed320427376ecd4528937a02"
+    },
+    {
+      "global_record_ordinal_1based": 30,
+      "record_id": "ETR-0030",
+      "packet": "PROMOTION_ADMINISTRATION_AND_CONTROLS",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/29",
+      "raw_original_bytes_sha256": "6e868ae4bf636f23da7b3d43784486f4943bc9b31d46f5d0b42451a39492e2ad",
+      "projected_value_canonical_json_sha256": "fcecc61be206af4362c7c63309fbcdab545df9c68eb7d5e1ced8be47565f2585"
+    },
+    {
+      "global_record_ordinal_1based": 31,
+      "record_id": "ETR-0031",
+      "packet": "PROMOTION_ADMINISTRATION_AND_CONTROLS",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/30",
+      "raw_original_bytes_sha256": "2a198f031243ffdc14a86aa24ad74efda13e8d98550e031830012b6f445baefa",
+      "projected_value_canonical_json_sha256": "df77de1d93126c5d460193e74e063673d6daa57c71965f22595072dce0a9596d"
+    },
+    {
+      "global_record_ordinal_1based": 32,
+      "record_id": "ETR-0032",
+      "packet": "PROMOTION_ADMINISTRATION_AND_CONTROLS",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/31",
+      "raw_original_bytes_sha256": "83d457e523ca07bfb486f898ce139ad045b36b536a88fd0c64782577ab20f6f0",
+      "projected_value_canonical_json_sha256": "f88f0fe202e67d65f1c1e749944229f8c41c28c319e3a69af7bdddd7f24bd0dc"
+    },
+    {
+      "global_record_ordinal_1based": 33,
+      "record_id": "ETR-0033",
+      "packet": "PROMOTION_ADMINISTRATION_AND_CONTROLS",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/32",
+      "raw_original_bytes_sha256": "b573e48915f9012252cf25e9ee0286584f6c34ff80d2feea4d553ee7989f3c16",
+      "projected_value_canonical_json_sha256": "7fecc3eddf5da2245c014b0aa43bdc2197d679796549f370ea97c6760f32f878"
+    },
+    {
+      "global_record_ordinal_1based": 34,
+      "record_id": "ETR-0034",
+      "packet": "PROMOTION_ADMINISTRATION_AND_CONTROLS",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/33",
+      "raw_original_bytes_sha256": "591c2545fee69da52f773d9d0912d84fb072b5fa9bf63af41cfe04c4d9fde60c",
+      "projected_value_canonical_json_sha256": "a24414d22f768963d5231943b1084df521408ad89cb8bacfef2081d6b337bed9"
+    },
+    {
+      "global_record_ordinal_1based": 35,
+      "record_id": "ETR-0035",
+      "packet": "PACKAGING_ADMIN_REVIEW",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/34",
+      "raw_original_bytes_sha256": "4548a518b08ef20f831b20e4870db795b9babe5509ad98d05d05ee7d6243590d",
+      "projected_value_canonical_json_sha256": "b6cc06463d053a2a65f846d28971101d8c2a5558f35fe8d6ad5f476dd9a14cbb"
+    },
+    {
+      "global_record_ordinal_1based": 36,
+      "record_id": "ETR-0036",
+      "packet": "PACKAGING_ADMIN_REVIEW",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/35",
+      "raw_original_bytes_sha256": "524dbf4736682c09a8a726e057cc9cedd2006bcde4a06122ffea09436f157664",
+      "projected_value_canonical_json_sha256": "2d086b98f8a7008d7d887f40b98f7283211b6a9c2cc4ed8332c2ee8b0331e0cc"
+    },
+    {
+      "global_record_ordinal_1based": 37,
+      "record_id": "ETR-0037",
+      "packet": "PACKAGING_ADMIN_REVIEW",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/36",
+      "raw_original_bytes_sha256": "11b4f1f33e84d6c300f7f9c0bd78c111b9d14ceb87579870ad350946fc96fc40",
+      "projected_value_canonical_json_sha256": "8cf77e04f278f6212333e709f3ce104076f3b2a72e679114b8b2b794ae3ee017"
+    },
+    {
+      "global_record_ordinal_1based": 38,
+      "record_id": "ETR-0038",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/37",
+      "raw_original_bytes_sha256": "6cd686eb1802b6e308ed415463c6d00ef3f38985bd8fe02992c369adffb7f344",
+      "projected_value_canonical_json_sha256": "8910555478a7113ea7371509dc3be2ad16733b04f60a29c34068a1f6c15c1c64"
+    },
+    {
+      "global_record_ordinal_1based": 39,
+      "record_id": "ETR-0039",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/38",
+      "raw_original_bytes_sha256": "8574adbb423f84ddf3da6872f209bb40a8abdf8b5ed339aac8623e09efdfb72c",
+      "projected_value_canonical_json_sha256": "99222c8dbe9b34f479c656adfefaadf8091f4747c3cb4345e669251f4bad447a"
+    },
+    {
+      "global_record_ordinal_1based": 40,
+      "record_id": "ETR-0040",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/39",
+      "raw_original_bytes_sha256": "77243a9b45be619ee4bdc80d6a29a9ffe2b2c6b2e9cb017f57969840a41b488f",
+      "projected_value_canonical_json_sha256": "50f8fd0e75c1f9cf06aa86f220ffe73a9c803f5fcc920db625ea34f78ae4b0b1"
+    },
+    {
+      "global_record_ordinal_1based": 41,
+      "record_id": "ETR-0041",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/40",
+      "raw_original_bytes_sha256": "fb9affd66c056495139b5b4c19d02733d7458b0d6aa026ab67b31a6f92adaf0e",
+      "projected_value_canonical_json_sha256": "9980146213dc4c3a3416703da264ba349d9256b7f074dbfd046722c37be1f0aa"
+    },
+    {
+      "global_record_ordinal_1based": 42,
+      "record_id": "ETR-0042",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/41",
+      "raw_original_bytes_sha256": "d0895a22c1dce1d337bc44cab8d29922f90c0b22afe5731a03db16c0a2bdc211",
+      "projected_value_canonical_json_sha256": "f6e1887f3599bf47e30db186a75a1131d7998cbe5acb265325e20eea30732179"
+    },
+    {
+      "global_record_ordinal_1based": 43,
+      "record_id": "ETR-0043",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/42",
+      "raw_original_bytes_sha256": "efcd817dba68b9353b9d70b36eea9539dbd1a889dc619b6998749119ab48e944",
+      "projected_value_canonical_json_sha256": "d85d0b5b6e744ec5eea86df23d340af67d0c363cb65ce14bdc02e78888e43fa8"
+    },
+    {
+      "global_record_ordinal_1based": 44,
+      "record_id": "ETR-0044",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/43",
+      "raw_original_bytes_sha256": "2311f7b0742ebcc3e0e1acad578b5b9b4988d74f08ee5919f1d60a1e1be5c4de",
+      "projected_value_canonical_json_sha256": "42c077a7e1b7d4f951cfb5181e3882d9306aed699761f855b63f30d6361395b4"
+    },
+    {
+      "global_record_ordinal_1based": 45,
+      "record_id": "ETR-0045",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/44",
+      "raw_original_bytes_sha256": "8e23805050ea9d9819a80999c98ea0e46d677ce75c2ec817c628947d24412a94",
+      "projected_value_canonical_json_sha256": "7553ee4e273be92ebd511589a7e88adf1d0aefa789cc0d5b2bd074de44436fe0"
+    },
+    {
+      "global_record_ordinal_1based": 46,
+      "record_id": "ETR-0046",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/45",
+      "raw_original_bytes_sha256": "088e49a3e1646277df33ef24b579dc249e30d2b5ce2bc080f45e8847f19418ed",
+      "projected_value_canonical_json_sha256": "a187fa90f2697015faa6b7808b7a6d8f23fbce0537a683b1c69284310da6d2bd"
+    },
+    {
+      "global_record_ordinal_1based": 47,
+      "record_id": "ETR-0047",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/46",
+      "raw_original_bytes_sha256": "25f78f2a7e64beedacaad55ba0b639a44d0c23cbee6d713092ec8ba0c183aa82",
+      "projected_value_canonical_json_sha256": "a0c78b04aa8c69e48d5db22367a84ea842e682d9a575ee59df4ffe57b6dcb358"
+    },
+    {
+      "global_record_ordinal_1based": 48,
+      "record_id": "ETR-0048",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/47",
+      "raw_original_bytes_sha256": "17554bd3160fb629b9361295bef9978144a2f8f89faa1628b5b8560d29de2dae",
+      "projected_value_canonical_json_sha256": "efb37a8c45a989bdea520e87ea7cbae3b1ac321fde79004e989842154edcfe70"
+    },
+    {
+      "global_record_ordinal_1based": 49,
+      "record_id": "ETR-0049",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/48",
+      "raw_original_bytes_sha256": "791d0144e83599822c23e856d94c6da5289e96418b116837a1054753b880cb2e",
+      "projected_value_canonical_json_sha256": "3e9bd7db04e01ec79b9e31dbed941315f129335c4439c8130e55174bc80f4cce"
+    },
+    {
+      "global_record_ordinal_1based": 50,
+      "record_id": "ETR-0050",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/49",
+      "raw_original_bytes_sha256": "aee983367e21073d505bdab0e7c9b36ca49cf1870c76545ec0fe34008b560c53",
+      "projected_value_canonical_json_sha256": "a3a76f66e922c1ffc928b8d89a17dfa2b965cda58903513887f9da297d424913"
+    },
+    {
+      "global_record_ordinal_1based": 51,
+      "record_id": "ETR-0051",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/50",
+      "raw_original_bytes_sha256": "7880a6dfd33457c9f860693c07a8fce2c4a77b62eea650da6a139fa136de1192",
+      "projected_value_canonical_json_sha256": "509853976f75d554d3be65fa9e371386a3a9563e848ebebf8d55dfcb05a4538d"
+    },
+    {
+      "global_record_ordinal_1based": 52,
+      "record_id": "ETR-0052",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/51",
+      "raw_original_bytes_sha256": "eebbf0558f8fbf7643b4e1917d05fa575b3a8ababe3d4a27f14d7d7253e3dec4",
+      "projected_value_canonical_json_sha256": "cd53d2f7b9b2545149b0e6b35b2026055d6cde2194d358a64dae47ee9cd0259d"
+    },
+    {
+      "global_record_ordinal_1based": 53,
+      "record_id": "ETR-0053",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/52",
+      "raw_original_bytes_sha256": "9bde39c0e83e25934b8d00a7a6fa894079fa1be8c67ebad72ae04d2b84630bd8",
+      "projected_value_canonical_json_sha256": "09edf47ad3166cdef03dd03bb8ac47a996d2e066a47e4b5de0f262c7bac4b012"
+    },
+    {
+      "global_record_ordinal_1based": 54,
+      "record_id": "ETR-0054",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/53",
+      "raw_original_bytes_sha256": "0b346642f1c66ccb99e5cab80eb34b441bf1ebb1cbf55b0b9b0b6a7926685e7d",
+      "projected_value_canonical_json_sha256": "450a2476a90326d398858889cf273b2d404fe7fc1184cd3e0c525cb411bff144"
+    },
+    {
+      "global_record_ordinal_1based": 55,
+      "record_id": "ETR-0055",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/54",
+      "raw_original_bytes_sha256": "f3957c5e8032bb24b71831d596affc5a725defdd58b6f1a9bd9e28dd0a62f6c7",
+      "projected_value_canonical_json_sha256": "e7f8d8243ab4e160d0d1958015fd3e13c20b28156652bdf4cd629ace7aae9d76"
+    },
+    {
+      "global_record_ordinal_1based": 56,
+      "record_id": "ETR-0056",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "json_pointer": "/records/55",
+      "raw_original_bytes_sha256": "3a1be14bf6534e7a7740671efbedea1991fac442617f9c7bb6f95ba7354d5a00",
+      "projected_value_canonical_json_sha256": "c3fb2d8a92c89ebc6284e205062932953578f402e427f8cd00d1bc3fc17be354"
+    },
+    {
+      "global_record_ordinal_1based": 57,
+      "record_id": "ETR-0057",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/0",
+      "raw_original_bytes_sha256": "8a3f18df0f465177a094f876cf6f7e8b3d0665a1bca1340dd3fc162083e60cde",
+      "projected_value_canonical_json_sha256": "6e4c2dc3ce4cdab23ac48f09f57753c6c51f1a625e7c8d709681c00b06a09262"
+    },
+    {
+      "global_record_ordinal_1based": 58,
+      "record_id": "ETR-0058",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/1",
+      "raw_original_bytes_sha256": "b890ca4a5ab9434e25cf18fade736d6fbe4893ad3c7fc15b6fd214cdcc9abd79",
+      "projected_value_canonical_json_sha256": "60706ae3dd7ca74a3cb6d819245e5a3ff275e82cd6d16909f1b7c88d3bfcd3f9"
+    },
+    {
+      "global_record_ordinal_1based": 59,
+      "record_id": "ETR-0059",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/2",
+      "raw_original_bytes_sha256": "c65be8d8a99f95fdb29a9e9fdf77c834dc12e85fda57d5d01119ccc04fa14da1",
+      "projected_value_canonical_json_sha256": "47bb4db775fa3e5b82011bc88b7a19fd73d5c877694687689a9559df6d5f395c"
+    },
+    {
+      "global_record_ordinal_1based": 60,
+      "record_id": "ETR-0060",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/3",
+      "raw_original_bytes_sha256": "c2ffe6bba884ba2508754b6662235a17be2d9398fc8af994d32359e993b14e32",
+      "projected_value_canonical_json_sha256": "a41cb8af7295d2db69fca0bc5b8f2050fbe7ada499cccbf4f31cb58241d49b61"
+    },
+    {
+      "global_record_ordinal_1based": 61,
+      "record_id": "ETR-0061",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/4",
+      "raw_original_bytes_sha256": "78021bd04028eff351fff70f23c48c1b113c7145de4cb9d1fc70cf85c9febdd7",
+      "projected_value_canonical_json_sha256": "dcdcd05b14f8d47c6b86a864b43be87313a1f8f056e5fd3ffd0db4cd05cefba6"
+    },
+    {
+      "global_record_ordinal_1based": 62,
+      "record_id": "ETR-0062",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/5",
+      "raw_original_bytes_sha256": "864f55228a7555b57a2fc4090e3ceb4080669459a84e5c15cf3f2b9c9098bef8",
+      "projected_value_canonical_json_sha256": "d6ba0f16ff0b246073d9e100c83c2ae9f946fec7053b00d315d75bf20458890d"
+    },
+    {
+      "global_record_ordinal_1based": 63,
+      "record_id": "ETR-0063",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/6",
+      "raw_original_bytes_sha256": "c77fd0fc54bc6387f36f03f507336d6ef5cbbcddae84a33d0f6851a370a305b2",
+      "projected_value_canonical_json_sha256": "2ecb0ff1c8d85c1de0b68afaf24d90df44c6b0e339bd6798c63a27cc71133566"
+    },
+    {
+      "global_record_ordinal_1based": 64,
+      "record_id": "ETR-0064",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/7",
+      "raw_original_bytes_sha256": "bd1420fd65ab44f403009000af6cdceffdd7c658376cb06729d9082451cae1b0",
+      "projected_value_canonical_json_sha256": "7d94909a057781cdab935034a0ff157322438f65e5ab6b532e84cd4d2ebc68b1"
+    },
+    {
+      "global_record_ordinal_1based": 65,
+      "record_id": "ETR-0065",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/8",
+      "raw_original_bytes_sha256": "893653bf62648d391e7b46af7c3ca8b35b29063331b3c7a274342bf6c9fc9069",
+      "projected_value_canonical_json_sha256": "e95692209f11dca3c8e3e58583478f6e55e067ca9720768e5deb49147b4543c4"
+    },
+    {
+      "global_record_ordinal_1based": 66,
+      "record_id": "ETR-0066",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/9",
+      "raw_original_bytes_sha256": "a9b416a50272b7ec7cc7b78ca264685ebbe3dd4683add466d6b23995261d4cb7",
+      "projected_value_canonical_json_sha256": "467c9b1e85e459bac427aeab1352eb9c99b8d135a010529714667b4beaac99fc"
+    },
+    {
+      "global_record_ordinal_1based": 67,
+      "record_id": "ETR-0067",
+      "packet": "R09_7",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/10",
+      "raw_original_bytes_sha256": "f7c0219ae7ecb7fd8adc5303eba668794d56d82ce33de3948a1b885ce58eb851",
+      "projected_value_canonical_json_sha256": "4980bf3f0495181a80d583911370ffbf345a219d569b31d3a6e91cb79578488d"
+    },
+    {
+      "global_record_ordinal_1based": 68,
+      "record_id": "ETR-0068",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/11",
+      "raw_original_bytes_sha256": "84a5f6b8e9586b1c314274842b9744eb274a889f47015441e983e91c2f33826a",
+      "projected_value_canonical_json_sha256": "2f39dd71a47aef3bcc836efeea61536bf1e173d2239af1e9d4b7217cda3f69fa"
+    },
+    {
+      "global_record_ordinal_1based": 69,
+      "record_id": "ETR-0069",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/12",
+      "raw_original_bytes_sha256": "3dad11af76117e05fc1b173c26c21ff06adc1bbddf7fc11c877b2a47d087e0b5",
+      "projected_value_canonical_json_sha256": "0cc1bbee1b4ba3501a2d407cf8514a8f2941a0b9872b184dbc6b7ba2df3f3535"
+    },
+    {
+      "global_record_ordinal_1based": 70,
+      "record_id": "ETR-0070",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/13",
+      "raw_original_bytes_sha256": "e942ee80bab776a784241590704269a4334cb0950899c60eb03b066bac93d376",
+      "projected_value_canonical_json_sha256": "0aceded2e38ad053666494963fff208fa065d3fd0d64456ee69833e27ad21fbe"
+    },
+    {
+      "global_record_ordinal_1based": 71,
+      "record_id": "ETR-0071",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/14",
+      "raw_original_bytes_sha256": "7e46e6df6839b6c1e6f2176894ba6954d8ff038f9bab1a6e6424c14aa7488928",
+      "projected_value_canonical_json_sha256": "1aa235a9b1f34c176be1e0c6ea4696d3ed02c0b161156556503f649999442cc1"
+    },
+    {
+      "global_record_ordinal_1based": 72,
+      "record_id": "ETR-0072",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/15",
+      "raw_original_bytes_sha256": "83e6558bfcaa1f4127ef03819e4c947286b837111fc25956e3c4142fea9f01af",
+      "projected_value_canonical_json_sha256": "b576dfc27c3e3e56312e0da3d2b68e9fd5e3e58d0a5d345283238e5c52dff542"
+    },
+    {
+      "global_record_ordinal_1based": 73,
+      "record_id": "ETR-0073",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/16",
+      "raw_original_bytes_sha256": "054a63bb88f70c522109507d9fcd3f6e6ef7008dc16841cccff529b6d9930914",
+      "projected_value_canonical_json_sha256": "afbce2c241301b37f8c0c9fd1bbee87d0c2df3b0808360457148b568bcf5cfba"
+    },
+    {
+      "global_record_ordinal_1based": 74,
+      "record_id": "ETR-0074",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/17",
+      "raw_original_bytes_sha256": "35d2adb334a22fb40b27a43e147a9c56cfa606725b739fed89c1a1ea88a7306d",
+      "projected_value_canonical_json_sha256": "7c5e2b44f9d9e145c402a9d6d1b1e6ace127ab2e4f4cceb029abcb7e06f1952c"
+    },
+    {
+      "global_record_ordinal_1based": 75,
+      "record_id": "ETR-0075",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/18",
+      "raw_original_bytes_sha256": "d4ab5e54cdfbdd59f796033ebfa3b8af7b8acec3658ccaa87a8efa5af54c7464",
+      "projected_value_canonical_json_sha256": "5d7538b4860c9b6e6be0abe4079017617192322753cc61504281994b1504d6cf"
+    },
+    {
+      "global_record_ordinal_1based": 76,
+      "record_id": "ETR-0076",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/19",
+      "raw_original_bytes_sha256": "b05f92ae6c85e7779b0b43040ec78e55ac98b2cbb7e5725665180e8c017cbb35",
+      "projected_value_canonical_json_sha256": "8b9df043097e62bbc7330fbcbc5ded062be5b846969246f7b1ff5e53ce2b8617"
+    },
+    {
+      "global_record_ordinal_1based": 77,
+      "record_id": "ETR-0077",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/20",
+      "raw_original_bytes_sha256": "47a8a2c0991705a0f5d9edf8ddbb348e745995dfcd64fc9b212ae3fa9e03e211",
+      "projected_value_canonical_json_sha256": "6953a3606e58d2f242b103921f00c67a3e7d9b20c9b00c70578ced967ede1830"
+    },
+    {
+      "global_record_ordinal_1based": 78,
+      "record_id": "ETR-0078",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/21",
+      "raw_original_bytes_sha256": "784527b237459f4715ba8ce9acea608e0192ca2879949385b8291ed12f3939fc",
+      "projected_value_canonical_json_sha256": "5e7052bf67a719e6dc69c4e76994d65241688afdfe1ce422c4fb1cb3376593ba"
+    },
+    {
+      "global_record_ordinal_1based": 79,
+      "record_id": "ETR-0079",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/22",
+      "raw_original_bytes_sha256": "4ff0f2b374bf3366a4eda0a310f8955bbbfb4409432dea06c9275091ab9b0e50",
+      "projected_value_canonical_json_sha256": "26b0185ee1c76cb96c5e8b35d6856d26f61ffae2c83ab868e39d4f8dfe425e5b"
+    },
+    {
+      "global_record_ordinal_1based": 80,
+      "record_id": "ETR-0080",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/23",
+      "raw_original_bytes_sha256": "205ca21401ad42096e6cff9c165289b5a017c94858bd106cd5d3516d492efb05",
+      "projected_value_canonical_json_sha256": "9194ef2e7f42cc03ae515753e47c49ef8b53d73bf7cfa7dd9a730d289e79b89c"
+    },
+    {
+      "global_record_ordinal_1based": 81,
+      "record_id": "ETR-0081",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/24",
+      "raw_original_bytes_sha256": "f29cde26f67eb7455440a2e6feb0f45baf5b8f21a4115d75515934f958c0892c",
+      "projected_value_canonical_json_sha256": "b4026bd14f103aec207afde3864a81b7c3783464d23169651827e9a0a3593c2b"
+    },
+    {
+      "global_record_ordinal_1based": 82,
+      "record_id": "ETR-0082",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/25",
+      "raw_original_bytes_sha256": "5e3e0223004cb7383ca1c51637815e5c5ff2e290172727af43651872ee4718ef",
+      "projected_value_canonical_json_sha256": "0b3c2a6feaaf8de57c2c3a2ad98762d9a2367a4c3595707999f703e0e1653ff7"
+    },
+    {
+      "global_record_ordinal_1based": 83,
+      "record_id": "ETR-0083",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/26",
+      "raw_original_bytes_sha256": "303bacc03f538bb31080ca7a4667f5841642005a87f6b7300f68c25bc130a888",
+      "projected_value_canonical_json_sha256": "8fde6a8eb3488335a975c3810013d3d9bddaf8547182393da4eb4f4f2a776428"
+    },
+    {
+      "global_record_ordinal_1based": 84,
+      "record_id": "ETR-0084",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/27",
+      "raw_original_bytes_sha256": "f7c38e098dc2b4e463a4daf9dcae3680a0ea3853b1c73323b32730799f5fed05",
+      "projected_value_canonical_json_sha256": "abae6f74ecfafa04fff3ff90358d525b3b318e5da37e5a5babcf24aa71537fdc"
+    },
+    {
+      "global_record_ordinal_1based": 85,
+      "record_id": "ETR-0085",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/28",
+      "raw_original_bytes_sha256": "6a46509675d03238f00b5cd3450fee3f43f0dd41d73b1d56cc8a98271aa42ebc",
+      "projected_value_canonical_json_sha256": "efdc9ee082755c130e4693838f26e71d97f710b3bfb41c33982d374d16a30ec7"
+    },
+    {
+      "global_record_ordinal_1based": 86,
+      "record_id": "ETR-0086",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/29",
+      "raw_original_bytes_sha256": "cf76d5f5114cbf38145eed584b5922d14fda9cd28ba2a5cd4ccfa22578c64213",
+      "projected_value_canonical_json_sha256": "3c58915fa31279f18d04f5a47627747a90ce69928379b9747d7ffceb7dd2f953"
+    },
+    {
+      "global_record_ordinal_1based": 87,
+      "record_id": "ETR-0087",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/30",
+      "raw_original_bytes_sha256": "333ab7f7440ffda92c703f9a692e418222e89288ba6a128d9505f222cd5ef509",
+      "projected_value_canonical_json_sha256": "dcdf9a6cd5c2c89877d3f3d7d83608d264ded2ca1d79e48be94b257463b24dde"
+    },
+    {
+      "global_record_ordinal_1based": 88,
+      "record_id": "ETR-0088",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/31",
+      "raw_original_bytes_sha256": "c224b568f42a6e80fbbbe43d5b50b3b2578fecfa3fdd67abc2adcfed4dc3239e",
+      "projected_value_canonical_json_sha256": "8d1b72ef22888a73e6a557c6fdaf35bd36f2af30383f544d82c5d5f4116d0873"
+    },
+    {
+      "global_record_ordinal_1based": 89,
+      "record_id": "ETR-0089",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/32",
+      "raw_original_bytes_sha256": "aef252754605d187a7c3f0747dba8ac63ef35b5cdc68143ec1983f0b3c5fe97a",
+      "projected_value_canonical_json_sha256": "8d41112de5d24005d33037523a7c19f235a7ff9e9954d5344b83360e2d3cb55f"
+    },
+    {
+      "global_record_ordinal_1based": 90,
+      "record_id": "ETR-0090",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/33",
+      "raw_original_bytes_sha256": "f452156abf507e7bc52e154b0434bf5c12dd6476108093204f2a6b8ed493b1b8",
+      "projected_value_canonical_json_sha256": "d759ea303749a81b06d2683f56910529ebbf0a9d3b2af7c7fe6cd1c740a0a2df"
+    },
+    {
+      "global_record_ordinal_1based": 91,
+      "record_id": "ETR-0091",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/34",
+      "raw_original_bytes_sha256": "7eca17ddfd52c4d76cc0df9ece82d018ff9b5e2a8cfc270b544aef2e92e7ffa6",
+      "projected_value_canonical_json_sha256": "71e7c7e39b2bdee0405128a26f38263bc1cab810a3354ea469492a62f58238bd"
+    },
+    {
+      "global_record_ordinal_1based": 92,
+      "record_id": "ETR-0092",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/35",
+      "raw_original_bytes_sha256": "1e4f170cc4a57bf6f7efc92ee9ac292a369e8239f19cac83f83b8a59c76ff259",
+      "projected_value_canonical_json_sha256": "dd81075beab86a6cf67a3460404e2e1df0797d5a062a1c12df5d1e096b7cd082"
+    },
+    {
+      "global_record_ordinal_1based": 93,
+      "record_id": "ETR-0093",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/36",
+      "raw_original_bytes_sha256": "638491f00317a49223e79df6199996bb761d2bc2b1059d21f6d04943ef933bba",
+      "projected_value_canonical_json_sha256": "9d9954dcd826a36036bf720f9287dc215d717fdeea0898878847548907d8e607"
+    },
+    {
+      "global_record_ordinal_1based": 94,
+      "record_id": "ETR-0094",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/37",
+      "raw_original_bytes_sha256": "23cbe0907865f806a6662ce09d270ee68d9c9c931a27ea73c851a9d87a5b90b6",
+      "projected_value_canonical_json_sha256": "94bdbc6b015e87fa9d4077b5dd60938a0b44fd934ab4a0e4fdd8b9039cdc8b00"
+    },
+    {
+      "global_record_ordinal_1based": 95,
+      "record_id": "ETR-0095",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/38",
+      "raw_original_bytes_sha256": "9c9d6c676800e92fc09d065cfeaa55bb1f4ae758e781518e18ff5d09011e5961",
+      "projected_value_canonical_json_sha256": "28680a166c19ea2536834eea313a2e0ec38a7bba3a5df22e2c7a7a0bd9ea23ae"
+    },
+    {
+      "global_record_ordinal_1based": 96,
+      "record_id": "ETR-0096",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/39",
+      "raw_original_bytes_sha256": "577cba4261d4433d0a02df5e65fe90d2a86742f6122ccc5ce3f36b00d2d3e8ed",
+      "projected_value_canonical_json_sha256": "cf87a6b89704d666163e289eedaac2b4fcf3f9976a97916359e164c0af5f1b35"
+    },
+    {
+      "global_record_ordinal_1based": 97,
+      "record_id": "ETR-0097",
+      "packet": "R09_5",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/40",
+      "raw_original_bytes_sha256": "2f20d7b4f5abd872a0596cb10b173f881093e4c36b78896de42534eb7d6e140c",
+      "projected_value_canonical_json_sha256": "4ad12327072e1357f85951b3ce3d38bdeb4d2dc82e568beb4135de73a3b31ce3"
+    },
+    {
+      "global_record_ordinal_1based": 98,
+      "record_id": "ETR-0098",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/41",
+      "raw_original_bytes_sha256": "f08e203dd16a9a954cddca54c933d676d480e861113b95e9fa354302fa98178f",
+      "projected_value_canonical_json_sha256": "165bc4b8d46a2973a982afb9546010a389b0752d34aa825fd19a2802e8932673"
+    },
+    {
+      "global_record_ordinal_1based": 99,
+      "record_id": "ETR-0099",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/42",
+      "raw_original_bytes_sha256": "eb7306f25f0aa5ebf16506327923c15f61c4dc91c1ced4514675f6364fdba812",
+      "projected_value_canonical_json_sha256": "5a3241f15ee71a003decb930caf2b0a57348fa73e36b7c58c49559a93db76565"
+    },
+    {
+      "global_record_ordinal_1based": 100,
+      "record_id": "ETR-0100",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/43",
+      "raw_original_bytes_sha256": "257fb08630460aef906b4dcc1a98224fde77cab1dbcabc6b7429572c4e1d37f8",
+      "projected_value_canonical_json_sha256": "5b82e04796cb713f8ff592fe9ba90fad1c90dbc5e3b66e657936ad56af953e62"
+    },
+    {
+      "global_record_ordinal_1based": 101,
+      "record_id": "ETR-0101",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/44",
+      "raw_original_bytes_sha256": "e3bca39f6376c3f31373d8053dea845b43ceb9f9730eae33fcf5cd61bfee9386",
+      "projected_value_canonical_json_sha256": "d52c743e5a490bce6982d6ec711d6a93f4a4f22f5a0bbcfa8e692cb54cee77dc"
+    },
+    {
+      "global_record_ordinal_1based": 102,
+      "record_id": "ETR-0102",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/45",
+      "raw_original_bytes_sha256": "42d8ec0686ea5728a9339c260078a891b3065f17fa00574693d77f54dd35f89e",
+      "projected_value_canonical_json_sha256": "46599200b8a464d7f50c22db45da100e1dee316f870393187a3ebb618a80ab3c"
+    },
+    {
+      "global_record_ordinal_1based": 103,
+      "record_id": "ETR-0103",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/46",
+      "raw_original_bytes_sha256": "1b1320d5ce733073349c1453f167334cc360f2b07ecf209c313b7e7bdb3457f1",
+      "projected_value_canonical_json_sha256": "9223597e3f5e418ebd761074aabc3d314c11e0bff225f0775b488047abcde79f"
+    },
+    {
+      "global_record_ordinal_1based": 104,
+      "record_id": "ETR-0104",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/47",
+      "raw_original_bytes_sha256": "551abd623cb39cc281b19df4c3008a47f698891588e39b9de691fafc16363a33",
+      "projected_value_canonical_json_sha256": "d5ecd80ee7f79aeee62db474b31ddee7aa47a7498e84e375e0021240af0f7e9a"
+    },
+    {
+      "global_record_ordinal_1based": 105,
+      "record_id": "ETR-0105",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/48",
+      "raw_original_bytes_sha256": "fc1ee736e0424dac1c9e45eba546ff19c85f6d34f5db4e46244c3d23f2dfef81",
+      "projected_value_canonical_json_sha256": "54cba50f19bc0f153d3087fa34cc90b6845c240e84c40cdd4936cd12168c0aeb"
+    },
+    {
+      "global_record_ordinal_1based": 106,
+      "record_id": "ETR-0106",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/49",
+      "raw_original_bytes_sha256": "a87822be5333a505736a8ecfc8c8feb675be1b29439207f67a0e5caf69982518",
+      "projected_value_canonical_json_sha256": "13042341e06c49f1d5ebcbe40095bbaedb0b1caa812402f12a4658698bdfd504"
+    },
+    {
+      "global_record_ordinal_1based": 107,
+      "record_id": "ETR-0107",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/50",
+      "raw_original_bytes_sha256": "904c9a9bd4c771f6eb51a89726e9151930c3e7e135ce4f8c6084b6923299ba0a",
+      "projected_value_canonical_json_sha256": "882d226effceb206553d5ab31d46808cffbb08b12d093c95627183172f0b4727"
+    },
+    {
+      "global_record_ordinal_1based": 108,
+      "record_id": "ETR-0108",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/51",
+      "raw_original_bytes_sha256": "493a61e831b6bb4a5966ef4f693141286ef14a5833f0d8f8fc64ee0042746272",
+      "projected_value_canonical_json_sha256": "a932290e608a78e8679b3b06ed12597cf72f18df06121265416ae64259fb0ac6"
+    },
+    {
+      "global_record_ordinal_1based": 109,
+      "record_id": "ETR-0109",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/52",
+      "raw_original_bytes_sha256": "f3889cd6cf32b625b1db92ad8ba6dafb2baa59ff74aba7048881688e8d27ed54",
+      "projected_value_canonical_json_sha256": "a10f86a504645ca194d5a2d24684391f718c55569092d2ef6b42e83e55e73be0"
+    },
+    {
+      "global_record_ordinal_1based": 110,
+      "record_id": "ETR-0110",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/53",
+      "raw_original_bytes_sha256": "0bea20f3fa93a208646bf6818cfd04c7226fc01733cb37766980dd442402d84a",
+      "projected_value_canonical_json_sha256": "90d9df1999e98135c2a595c6dbab9d7c07ce84bb323bcf4331d7958b8082aae6"
+    },
+    {
+      "global_record_ordinal_1based": 111,
+      "record_id": "ETR-0111",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/54",
+      "raw_original_bytes_sha256": "a05e5c154a4c6f69df4355f60139a0857a42b7177dd06985227db8ab19ad65a6",
+      "projected_value_canonical_json_sha256": "21d4bf424f7540ce5a611b8e8f0b012a3f8b359e133953c64e42a8797b30cc51"
+    },
+    {
+      "global_record_ordinal_1based": 112,
+      "record_id": "ETR-0112",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/55",
+      "raw_original_bytes_sha256": "7223ac271f5331ce0a4d2a136e792b5363bfa82c5c855efbccca435d90d17c34",
+      "projected_value_canonical_json_sha256": "5f591ca1a03dfdbe04c8599989d852a3d21e1dbe1b13c1f288268e09c65e4eb6"
+    },
+    {
+      "global_record_ordinal_1based": 113,
+      "record_id": "ETR-0113",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/56",
+      "raw_original_bytes_sha256": "7173bfbf1f1688a9f2403500b1ba2d7832d48aa9dccef55264b579befec0fce3",
+      "projected_value_canonical_json_sha256": "c67e44330c0e1dd6e66f869f55e3d6ca012a17966ab33a5ca8e8fff82e32fd31"
+    },
+    {
+      "global_record_ordinal_1based": 114,
+      "record_id": "ETR-0114",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "json_pointer": "/records/57",
+      "raw_original_bytes_sha256": "cd2f238492272c3d63c80b51cb742f206fff8f5ad9fa584c3e01094135794ea4",
+      "projected_value_canonical_json_sha256": "81e862dd703bdbffbd99b08de3c61aced83d2adda239daf66bdd2314ca91c430"
+    },
+    {
+      "global_record_ordinal_1based": 115,
+      "record_id": "ETR-0115",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/0",
+      "raw_original_bytes_sha256": "cd88ab7ddc03d7f7202f487524aabab50155433fdb39c12b3a0e7d263868339f",
+      "projected_value_canonical_json_sha256": "e0fcc41b77b13bd85b3b9f391892d803e25bb6febd7704bf4ec8332bb9e44057"
+    },
+    {
+      "global_record_ordinal_1based": 116,
+      "record_id": "ETR-0116",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/1",
+      "raw_original_bytes_sha256": "bdfa1b860a6e71e90ac8cf84e1e76f99a82b32997b7cc7ffb069e2c1c45bd7a6",
+      "projected_value_canonical_json_sha256": "3ea8db438d50bd5ae832969574dd36a302d099e292c755c68c64f653e3b30920"
+    },
+    {
+      "global_record_ordinal_1based": 117,
+      "record_id": "ETR-0117",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/2",
+      "raw_original_bytes_sha256": "8dfcaf6f346c481ad187c29f9cab77bd92da05f0f086e7f7ef16be0559a7e613",
+      "projected_value_canonical_json_sha256": "5e36210270f350d4d4102475b17a76399bf4714dbd9a26139810fd01de506a41"
+    },
+    {
+      "global_record_ordinal_1based": 118,
+      "record_id": "ETR-0118",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/3",
+      "raw_original_bytes_sha256": "545d302ad60ff447c8d8ed65f79a54200195f6266fee76cf288ae986987e490f",
+      "projected_value_canonical_json_sha256": "a925336b12a5062955b66ebaccb977c0c364a2bf6786ac575ab5ded3eaa09c12"
+    },
+    {
+      "global_record_ordinal_1based": 119,
+      "record_id": "ETR-0119",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/4",
+      "raw_original_bytes_sha256": "8785f683acc555c61685376bfd38372b3d881ac809e5b237fff07a2f54e94dee",
+      "projected_value_canonical_json_sha256": "909d1b54a46cdd2c0c789ec5eb76f0ef70b9df77dd1920d8264dd217365ae217"
+    },
+    {
+      "global_record_ordinal_1based": 120,
+      "record_id": "ETR-0120",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/5",
+      "raw_original_bytes_sha256": "878e2adf77fbd0f4c9cbf0306d7596141096491662410be177d1bb17755457ff",
+      "projected_value_canonical_json_sha256": "b78da332eb6650e05e4ef1f48f1adb0ee98b6ebfda56c51af81be9a7f095e1bb"
+    },
+    {
+      "global_record_ordinal_1based": 121,
+      "record_id": "ETR-0121",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/6",
+      "raw_original_bytes_sha256": "a56c134ec6f4f914f665648d7aa88cb4fe4bdf68b515c416264e1853001ba903",
+      "projected_value_canonical_json_sha256": "1b1d6bc9de0c06c6783622f5ba5afc050e36b6354d259d91f8f84dadbe089a91"
+    },
+    {
+      "global_record_ordinal_1based": 122,
+      "record_id": "ETR-0122",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/7",
+      "raw_original_bytes_sha256": "384aedd77cfcde9c5170335be74f02615b6c0a1ffcb289b622f4858778a6fe32",
+      "projected_value_canonical_json_sha256": "e6f0d8c0c4e2c99ef25443fc028fb0ef268bc708f800db7139f81e3c54fcfec1"
+    },
+    {
+      "global_record_ordinal_1based": 123,
+      "record_id": "ETR-0123",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/8",
+      "raw_original_bytes_sha256": "95737c1c73ec88584ba201e412acf35860f916d7f67af3e61684d441f87b93e4",
+      "projected_value_canonical_json_sha256": "0d869d508b2de97bfd2c3ba6c96a08bef83efab130435f124cc16c17ba61561e"
+    },
+    {
+      "global_record_ordinal_1based": 124,
+      "record_id": "ETR-0124",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/9",
+      "raw_original_bytes_sha256": "c15b89d4888de97d6abdd589c3e87505e65baef429c08cd2c2f7d21356c2c82a",
+      "projected_value_canonical_json_sha256": "669da70d836c607f8635cdb8f8a91535834481293910170608426760ddaa0cfe"
+    },
+    {
+      "global_record_ordinal_1based": 125,
+      "record_id": "ETR-0125",
+      "packet": "R09_3",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/10",
+      "raw_original_bytes_sha256": "5bc088391776138ceaefa9feac0b249038e475708f0af575dfa67940329f6dd2",
+      "projected_value_canonical_json_sha256": "ac33aadf350421b89fb492e99ba9a5a340c6aee557818a343edff2a1aed48367"
+    },
+    {
+      "global_record_ordinal_1based": 126,
+      "record_id": "ETR-0126",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/11",
+      "raw_original_bytes_sha256": "4072bcbf12e3cb9446d000c364a0dc318adcfc10a0153e425964422defe76e51",
+      "projected_value_canonical_json_sha256": "e179c71d56ff1a58d2afabfac06ae5c8db57efb06c52c334acec6eee4ef35710"
+    },
+    {
+      "global_record_ordinal_1based": 127,
+      "record_id": "ETR-0127",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/12",
+      "raw_original_bytes_sha256": "1e926da3dc29786a5a880fe63a7f4dcd9ebe62f527edc49e905cebde0c259f7c",
+      "projected_value_canonical_json_sha256": "412a9b9ef0f76778f5b88d9907c64e293b6d90fdabcc44dd84ea857b137140d6"
+    },
+    {
+      "global_record_ordinal_1based": 128,
+      "record_id": "ETR-0128",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/13",
+      "raw_original_bytes_sha256": "c9deb17ec094e3ac73b032e78f2d6f07234e2aacd5608e980cddb1841cb3ef39",
+      "projected_value_canonical_json_sha256": "250f650e92a7a922ced30c3ce0a812ccf6243ec766abb9db78054de9fd7aed54"
+    },
+    {
+      "global_record_ordinal_1based": 129,
+      "record_id": "ETR-0129",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/14",
+      "raw_original_bytes_sha256": "2996e00b21800d0cf0d17da9c35cca4ed4b7b7fda7831f793f1ca3c0df340cfa",
+      "projected_value_canonical_json_sha256": "0742f88fbb9a60707e1f431660f27248328bda8abe0e968eb612fa4f656122b1"
+    },
+    {
+      "global_record_ordinal_1based": 130,
+      "record_id": "ETR-0130",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/15",
+      "raw_original_bytes_sha256": "3b435edced56a676c4c35bf9b0f6469d4f366ed8e50637191f49eacdcb6cc382",
+      "projected_value_canonical_json_sha256": "5ed7046d0bb2669f510ac3ac82227b020c3b1f839269a369b7969ae10c7a9785"
+    },
+    {
+      "global_record_ordinal_1based": 131,
+      "record_id": "ETR-0131",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/16",
+      "raw_original_bytes_sha256": "de1c1743e4c0eb6cb523b08f997ec0b5a3366cbc88692a001c50ba7f7dea8f5b",
+      "projected_value_canonical_json_sha256": "be2d401f5b403b134f0aeb69bae027836f05693277806169deee0409244bcff4"
+    },
+    {
+      "global_record_ordinal_1based": 132,
+      "record_id": "ETR-0132",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/17",
+      "raw_original_bytes_sha256": "9a70d7fbf3ee035cb08a8ff1da6b99c814628bc78044cf748266999e7129f0c8",
+      "projected_value_canonical_json_sha256": "95b3d78495dac36084d36b23815e63642c23d9ff8437f983af5ebba08a2cd5e6"
+    },
+    {
+      "global_record_ordinal_1based": 133,
+      "record_id": "ETR-0133",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/18",
+      "raw_original_bytes_sha256": "afca3282326619b2484af0fe6fa02015f6ec11a88025c259a0b99323d496222a",
+      "projected_value_canonical_json_sha256": "719096debee06ff686b1a96b260a8ea1d6eea366fa9a44f08e98fb9b588e0d72"
+    },
+    {
+      "global_record_ordinal_1based": 134,
+      "record_id": "ETR-0134",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/19",
+      "raw_original_bytes_sha256": "27fb97acb8759fec91808babadbbaab844b1ea6cc329092660d0d54f1dd2f0ea",
+      "projected_value_canonical_json_sha256": "c4dae537d1d324b9addcfb4f05fbd2834781711253fe7d1b1a7139b1f5b50e30"
+    },
+    {
+      "global_record_ordinal_1based": 135,
+      "record_id": "ETR-0135",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/20",
+      "raw_original_bytes_sha256": "c5e51763ffaad9d44608211b12f4b8491e84d956fb4e020ca809be4077ce69df",
+      "projected_value_canonical_json_sha256": "1702e43acc2e0b85fd74e45ffa179bc1675ac5d21199f4225a1928a7a56b2578"
+    },
+    {
+      "global_record_ordinal_1based": 136,
+      "record_id": "ETR-0136",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/21",
+      "raw_original_bytes_sha256": "4641029c2ceecd10d33c660108fd97ab005ccd5e22ba65619c7fcdd51fb1ef0e",
+      "projected_value_canonical_json_sha256": "e246fbf7e353ea936b15c91407e960bedad7e33de8a77f8bedd250a4223793a4"
+    },
+    {
+      "global_record_ordinal_1based": 137,
+      "record_id": "ETR-0137",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/22",
+      "raw_original_bytes_sha256": "4f4d0421c3da078503e1c8e3b1897e5a5df909681962c2351f548521c07bc1d2",
+      "projected_value_canonical_json_sha256": "c39aa6100478007bdd6f181367ce0ade07d5671d61ffed63e0f5b0c7492f9307"
+    },
+    {
+      "global_record_ordinal_1based": 138,
+      "record_id": "ETR-0138",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/23",
+      "raw_original_bytes_sha256": "625d7ea916f47fce0cbb471efcca22a00017cf6d63adaa5fa35402275d86133f",
+      "projected_value_canonical_json_sha256": "25743855f9836b560d0229af594eb88d8ff5b80383d102fc8f1eddd01ff7e690"
+    },
+    {
+      "global_record_ordinal_1based": 139,
+      "record_id": "ETR-0139",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/24",
+      "raw_original_bytes_sha256": "6fc0a7b834bb3885664b2ac1dc64845feb1ee5774abcc3c877840914b42dd2a8",
+      "projected_value_canonical_json_sha256": "b1e51a25366659520926e729564c2f73a09e8e2d4e7c549a2d4e81bbec22d74e"
+    },
+    {
+      "global_record_ordinal_1based": 140,
+      "record_id": "ETR-0140",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/25",
+      "raw_original_bytes_sha256": "309dd2ae497bcd6f6cb9e10cd6ee99523b41c855cdccad64cba08605c3003d78",
+      "projected_value_canonical_json_sha256": "bd0cc5fb56fc32ae0d0a0ff5e84f56df7cbfe513d2f0c6d248029a91fd43ef19"
+    },
+    {
+      "global_record_ordinal_1based": 141,
+      "record_id": "ETR-0141",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/26",
+      "raw_original_bytes_sha256": "de5316e393effc53d28086860207ad3c3f2779fc79c814f5fd4811ff62764616",
+      "projected_value_canonical_json_sha256": "0d3c18d55271b4bb29b37865c6a91932080745e16e89294eab8a9279742be184"
+    },
+    {
+      "global_record_ordinal_1based": 142,
+      "record_id": "ETR-0142",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/27",
+      "raw_original_bytes_sha256": "960ef232698a715bc5283799f5bd709207cd311211d76daae7484af0288f2c92",
+      "projected_value_canonical_json_sha256": "aba223e6b91d9778b17d8c69a2df7b0009f7820f689b926fdb0cbffa1f4b7e8f"
+    },
+    {
+      "global_record_ordinal_1based": 143,
+      "record_id": "ETR-0143",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/28",
+      "raw_original_bytes_sha256": "7c7274fa8fb7ba78d17ca4dfaa57ba6687383cca349758fc3ec8931b1ac368b7",
+      "projected_value_canonical_json_sha256": "e946956ee557e33ff98ad830f2ea0d4d35a015d16272fec502cdafb8442fa459"
+    },
+    {
+      "global_record_ordinal_1based": 144,
+      "record_id": "ETR-0144",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/29",
+      "raw_original_bytes_sha256": "64bd1174fe04c95729446565e3c633dc19565e278073e510e75d2b112ea6648d",
+      "projected_value_canonical_json_sha256": "74723601073d6a533c8c43c243d945d93b78b7b1b40c06a3a3ac07ef41595735"
+    },
+    {
+      "global_record_ordinal_1based": 145,
+      "record_id": "ETR-0145",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/30",
+      "raw_original_bytes_sha256": "9b3c5806d6ff0277c7e1fa7f611211b89a57d7c562b16614f6d6433dea53b74a",
+      "projected_value_canonical_json_sha256": "cf9a2e11fd7744ee8cc3b880ec342daa16b5702760f3c194e0219410b2086373"
+    },
+    {
+      "global_record_ordinal_1based": 146,
+      "record_id": "ETR-0146",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/31",
+      "raw_original_bytes_sha256": "38faa575e6cc5836e9e5ec83837f0c7bd2c512ebb9614114c826507a7b894faf",
+      "projected_value_canonical_json_sha256": "d532f965e8cde72e14982651c9e09b433549dfb3027886afb6e5b6618878b5b3"
+    },
+    {
+      "global_record_ordinal_1based": 147,
+      "record_id": "ETR-0147",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/32",
+      "raw_original_bytes_sha256": "78a2287281d706e6444f4ed0437fd0d9c2a9a309605d36ae00759f90a10333f6",
+      "projected_value_canonical_json_sha256": "3549e223b104bc8afc4cea6be4024f51a4bb44498483af1a2aa0941ba8c68ea8"
+    },
+    {
+      "global_record_ordinal_1based": 148,
+      "record_id": "ETR-0148",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/33",
+      "raw_original_bytes_sha256": "155b65fdc2ff8acecaeeee9721bb24a4ea3a4835982f9b3547818f256ae14936",
+      "projected_value_canonical_json_sha256": "2a242fd653286d39b7c272427fac405d7850135e5838e170a0213b53e19d2bd9"
+    },
+    {
+      "global_record_ordinal_1based": 149,
+      "record_id": "ETR-0149",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/34",
+      "raw_original_bytes_sha256": "c4feb170d3333fab0cffecb9a7d4e7241652814ea81e30aa47a79998a6d20586",
+      "projected_value_canonical_json_sha256": "f78ed7f8e3b9fa00d55ea17d968342b37be89c1363953cbff8a97869958f5bb8"
+    },
+    {
+      "global_record_ordinal_1based": 150,
+      "record_id": "ETR-0150",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/35",
+      "raw_original_bytes_sha256": "6d599ce207799a6fb4cfda8628896b5c94938b3f5765208dc839c4aa858bfdd5",
+      "projected_value_canonical_json_sha256": "d3a8da24062851ef553d5948daf9216606cfe8c2adbacf2abf6289ba25987767"
+    },
+    {
+      "global_record_ordinal_1based": 151,
+      "record_id": "ETR-0151",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/36",
+      "raw_original_bytes_sha256": "c80179e0fba75a120549f3b8fcdafedd640a130df5231626c78144735a2e85a7",
+      "projected_value_canonical_json_sha256": "c2f0a38cc913a018fee2361356a755a50b41bdf4689b3af8d182ee98b3dc28df"
+    },
+    {
+      "global_record_ordinal_1based": 152,
+      "record_id": "ETR-0152",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/37",
+      "raw_original_bytes_sha256": "5ce900cbc6e643e066a466c00c6c94aedc93aa63a967bea4a38531c901695742",
+      "projected_value_canonical_json_sha256": "4ac989d56a46d30fdc167b994418150cbad7d2e148c914cc4d774465b51c3067"
+    },
+    {
+      "global_record_ordinal_1based": 153,
+      "record_id": "ETR-0153",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/38",
+      "raw_original_bytes_sha256": "2b9a0ef58b77492904097450d9be25ab55715bfd592ad590e9bc1f8180157761",
+      "projected_value_canonical_json_sha256": "90f9c6659592fe469f2b59d3ec7d515f191ad819c147d9103e8119323a32b968"
+    },
+    {
+      "global_record_ordinal_1based": 154,
+      "record_id": "ETR-0154",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/39",
+      "raw_original_bytes_sha256": "8d2d6746226663ab97c650a70d0004e265b40395adfb3f1fb25d61613ab02af9",
+      "projected_value_canonical_json_sha256": "2d92a123cacd4d895973c39a5e41225d36743178462d096aa1d76ecbed896a84"
+    },
+    {
+      "global_record_ordinal_1based": 155,
+      "record_id": "ETR-0155",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/40",
+      "raw_original_bytes_sha256": "f806dd6ee9679a9213a3e695f43de7ab3faa130f635ae102a8587e09235f48ca",
+      "projected_value_canonical_json_sha256": "779ce2883dbef3c707a243fb53a0235675679d4a1c33560d1ef765304016c0f0"
+    },
+    {
+      "global_record_ordinal_1based": 156,
+      "record_id": "ETR-0156",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/41",
+      "raw_original_bytes_sha256": "a15af20a20debdf4ee91f1b9abe2e3c9dbf8f1d10e68b151611ecd5f825b0a1f",
+      "projected_value_canonical_json_sha256": "195aa1e4dad4903389b4c6279d2b07f0f445145ee4cebbc8ee40d0f112743bea"
+    },
+    {
+      "global_record_ordinal_1based": 157,
+      "record_id": "ETR-0157",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/42",
+      "raw_original_bytes_sha256": "41600a8be36a6f66fb40332c92648f7062c1107bc281f0617a9359df9de1ff05",
+      "projected_value_canonical_json_sha256": "29574912de2f577b7cd85240a401c383dafeb72aa32b8ce1c3292127547acca7"
+    },
+    {
+      "global_record_ordinal_1based": 158,
+      "record_id": "ETR-0158",
+      "packet": "R09_2_AND_4",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/43",
+      "raw_original_bytes_sha256": "ef786ac175a46ca8b85e2e2bf2865254e311378c841b91ab85828aeb22f1d67c",
+      "projected_value_canonical_json_sha256": "0ca7b0115e58a3f49291ad0364550fa01c44fb733308a11ed78ed47c0ba88ad1"
+    },
+    {
+      "global_record_ordinal_1based": 159,
+      "record_id": "ETR-0159",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/44",
+      "raw_original_bytes_sha256": "3eee96bed618bb9ee4be51683750ed490dae5634fecd33639dc4fcf26738e72f",
+      "projected_value_canonical_json_sha256": "c472393016961c0ebf4d3ef79267ed31ecf408c8f78939d3fdb3d23fb2fbc315"
+    },
+    {
+      "global_record_ordinal_1based": 160,
+      "record_id": "ETR-0160",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/45",
+      "raw_original_bytes_sha256": "1e7df9af5bb9eecc9ef4385abff221663ae515edb74f001104fd9ddac0085ed3",
+      "projected_value_canonical_json_sha256": "ea601333e7decf4047c67c3b447828a6459f2fa6761b88c0b239e4b61f515ce3"
+    },
+    {
+      "global_record_ordinal_1based": 161,
+      "record_id": "ETR-0161",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "json_pointer": "/records/46",
+      "raw_original_bytes_sha256": "962f5b47c14ae47b49943dcdc22b861c3c9c34f7ecf9b578f826c27997f34c0a",
+      "projected_value_canonical_json_sha256": "123848cb4e9c6b168bb07fb485283004e179c289c3d7e5d78171ff130acc69e2"
+    },
+    {
+      "global_record_ordinal_1based": 162,
+      "record_id": "ETR-0162",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/0",
+      "raw_original_bytes_sha256": "1ffcc7b8dcf6160f734fc2d6a6e4873c8b2a7820cc0d533c3badf0793ca4757c",
+      "projected_value_canonical_json_sha256": "5d1b145f7ef47c1210ca52238631b88e94b4cbd79c5fe830a0a3e906e68902e6"
+    },
+    {
+      "global_record_ordinal_1based": 163,
+      "record_id": "ETR-0163",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/1",
+      "raw_original_bytes_sha256": "df645ce92e7a2b1a186759976689506be4e5b56bd4a2ba3d60e3ac99b4830467",
+      "projected_value_canonical_json_sha256": "ec5438d6f2cf4a98311588430acee4802cefb48423e5106b5ae6fc12259398a8"
+    },
+    {
+      "global_record_ordinal_1based": 164,
+      "record_id": "ETR-0164",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/2",
+      "raw_original_bytes_sha256": "0fa595ded54ee7f680ab131fbf7d59b4c89ab91de1f9385dd925039b7f1dba46",
+      "projected_value_canonical_json_sha256": "30ee49ac68c24ef8288934a3819991b0119f6d3081e15cd6c189d0448fa030a8"
+    },
+    {
+      "global_record_ordinal_1based": 165,
+      "record_id": "ETR-0165",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/3",
+      "raw_original_bytes_sha256": "ceaecc464e0a1bf3820020e45afe75fac8dbaf59bb06ca442e8f10483dd58438",
+      "projected_value_canonical_json_sha256": "59b80deb7c3413ab7c22f1372430344f5d3ea3f6dff8a6214f343e10776a97e4"
+    },
+    {
+      "global_record_ordinal_1based": 166,
+      "record_id": "ETR-0166",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/4",
+      "raw_original_bytes_sha256": "5bd4d48e0aa9d9fdbcfdfd1129369dd8195d6f2b6fc320e1a4109f1b93c3c45c",
+      "projected_value_canonical_json_sha256": "009f978cb6de595b1c254e5834867331f3aaadf64b2eb9252ad6ae7fc42b6fad"
+    },
+    {
+      "global_record_ordinal_1based": 167,
+      "record_id": "ETR-0167",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/5",
+      "raw_original_bytes_sha256": "412ab3b3d3ad070e0697136ce471fb0ef7e13a46e1db72f0d65faa30a7e7ca71",
+      "projected_value_canonical_json_sha256": "aef3143f2627718fbd18b840f0a6316f68a6fda6e1a3958d078a492789df09ed"
+    },
+    {
+      "global_record_ordinal_1based": 168,
+      "record_id": "ETR-0168",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/6",
+      "raw_original_bytes_sha256": "f0f09b1a359027d9c82d839f3433bcfc40e4449cfd90619924cd3c80be6de96e",
+      "projected_value_canonical_json_sha256": "b93793c3a66d9e96ad483c7aae9af5d160493b3c29cfad357105e1e23ab6fc76"
+    },
+    {
+      "global_record_ordinal_1based": 169,
+      "record_id": "ETR-0169",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/7",
+      "raw_original_bytes_sha256": "03c41beda06827aed1dfde37e2e26ced64e6bd5ee319c4bc3343e2b27e594b4e",
+      "projected_value_canonical_json_sha256": "24d86583f87cf60eb7a239e0eae59d16f5873bebcec505d2a55fa8a99de8e9c1"
+    },
+    {
+      "global_record_ordinal_1based": 170,
+      "record_id": "ETR-0170",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/8",
+      "raw_original_bytes_sha256": "281ad6f8e731d5838d4635997ba464695f056bd1ff44e1540c0cf83043ef66c2",
+      "projected_value_canonical_json_sha256": "155d2dcb9f494e862242eca7d6069b30ad48a4632151ef8ca4913f669ea326a3"
+    },
+    {
+      "global_record_ordinal_1based": 171,
+      "record_id": "ETR-0171",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/9",
+      "raw_original_bytes_sha256": "d4a6feb8d54e3f137fd0e6fb5bd2a5c4aa347af2e04944d6f974f1f77e546870",
+      "projected_value_canonical_json_sha256": "e3539a57294f649cff0029f24d33b3a15a0fbd1edeb6c2748c3bdee54d78dfc1"
+    },
+    {
+      "global_record_ordinal_1based": 172,
+      "record_id": "ETR-0172",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/10",
+      "raw_original_bytes_sha256": "7a7c7cb7e873837f95458ab18a2c4aa45c2623035da4747afd16bfa59cc188bc",
+      "projected_value_canonical_json_sha256": "dd36c6304210bd9523fac6a94cc5f02b28653912c86392e2feb6437d1219c283"
+    },
+    {
+      "global_record_ordinal_1based": 173,
+      "record_id": "ETR-0173",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/11",
+      "raw_original_bytes_sha256": "6da8a27b3d829740b57e0ee2048946cb15f3856339412e0cd9aacda334c97a9b",
+      "projected_value_canonical_json_sha256": "68058ec7e8a9aebdcfcf8f7cf76b978060973f2c08f12151499d5167197337a2"
+    },
+    {
+      "global_record_ordinal_1based": 174,
+      "record_id": "ETR-0174",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/12",
+      "raw_original_bytes_sha256": "a9f72a7d05884c2ddc89a5653c40d6c01fbd4c942c283af1ae5ab1becd1ff842",
+      "projected_value_canonical_json_sha256": "c2b33747c4a47ae8b960dc286d5d808fba6cb681a95e4f39bb0dd6fb8dea188b"
+    },
+    {
+      "global_record_ordinal_1based": 175,
+      "record_id": "ETR-0175",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/13",
+      "raw_original_bytes_sha256": "fc7e8cda67fb63eca4d5af92c00dd6d22f863b55de4c8b29e0d45ec3d32d26e5",
+      "projected_value_canonical_json_sha256": "ffd3af513539893de86a0291669e8545fdc0d86720706db7e21e667854825f2f"
+    },
+    {
+      "global_record_ordinal_1based": 176,
+      "record_id": "ETR-0176",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/14",
+      "raw_original_bytes_sha256": "7654e42bf13cf180bced7600f1bdb5bc2db7e80190608b184a3145e05263348f",
+      "projected_value_canonical_json_sha256": "2bce889b66f8211a964c22c8976b28e5a416a15b52b9bc3ebb9cbae170a2fc71"
+    },
+    {
+      "global_record_ordinal_1based": 177,
+      "record_id": "ETR-0177",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/15",
+      "raw_original_bytes_sha256": "0206f30f61609c82543158144b2b7faf8de5fb0cc40d7bd12d33618e8bdf13a6",
+      "projected_value_canonical_json_sha256": "e08c413089e45302467435bdbb952a2ea02911980c72fe809b5cb0ec5077d43c"
+    },
+    {
+      "global_record_ordinal_1based": 178,
+      "record_id": "ETR-0178",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/16",
+      "raw_original_bytes_sha256": "73193b84a6dceaeb86e0a15b8954b65e2bf1ef5b499371e42ff59e3326e8de2c",
+      "projected_value_canonical_json_sha256": "42605dc7cc789d69ae09b9dcf2895c2d4fadc7409e445ae42b992a64762e22e8"
+    },
+    {
+      "global_record_ordinal_1based": 179,
+      "record_id": "ETR-0179",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/17",
+      "raw_original_bytes_sha256": "ce18adc4c97070b9c7fd4e157a69b6419352a8c10312d1619e6262177dc8bda8",
+      "projected_value_canonical_json_sha256": "d7d6e7e2d7147ef00dfd49ed3f6c4179eed6dd62321a28f9d14aad55fd8b766d"
+    },
+    {
+      "global_record_ordinal_1based": 180,
+      "record_id": "ETR-0180",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/18",
+      "raw_original_bytes_sha256": "f53cb03ee53e7112c69395c90b4f581b09783e68ec3118e795ba8b68272ac3b6",
+      "projected_value_canonical_json_sha256": "77d0671782bb18c4c138f89687105aa16deb62d179c9b0dcadf5029079c7d3d5"
+    },
+    {
+      "global_record_ordinal_1based": 181,
+      "record_id": "ETR-0181",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/19",
+      "raw_original_bytes_sha256": "5bde57cc7eda8d7a37571180c851f2569a41eaee1776e9c40b8aef39be4eed45",
+      "projected_value_canonical_json_sha256": "eb75b16d8ea99e8ea9bb8b3ca024cc805a80bff6ff89fc95bba60f169719160a"
+    },
+    {
+      "global_record_ordinal_1based": 182,
+      "record_id": "ETR-0182",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/20",
+      "raw_original_bytes_sha256": "c22997e9724f7d1ef3a52e6cb2829bda95ae75456c2ba70cf7dfdaa5923ad96b",
+      "projected_value_canonical_json_sha256": "289d8fd2f5d2ee85a8d67f12e75c2c75f6fca885dd5559ce8caede453a60e68d"
+    },
+    {
+      "global_record_ordinal_1based": 183,
+      "record_id": "ETR-0183",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/21",
+      "raw_original_bytes_sha256": "b9e0942534eeaaffb0aa525124986f17d0ba770112f86a093a71c04d05d6b85f",
+      "projected_value_canonical_json_sha256": "bb9d06d8b044e78343b7f25f9c77b45155bd18ef25b7a31d61c72f8be9c4ab48"
+    },
+    {
+      "global_record_ordinal_1based": 184,
+      "record_id": "ETR-0184",
+      "packet": "R09_1_AND_6",
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "json_pointer": "/records/22",
+      "raw_original_bytes_sha256": "3dafbe0ab43f15c642b093bb9075c136f31081968612d7f2aca06c6afeaa921d",
+      "projected_value_canonical_json_sha256": "c534e8764880afe825d6964c9674de2575fc57b6f0730f2cb0a30509049c5943"
+    }
+  ],
+  "sharding_validation_record": {
+    "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_SHARD_VALIDATION.json",
+    "canonical_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_SHARD_VALIDATION.json",
+    "identity_direction": "The validation receipt binds this routing manifest and all shards; the router points by path only to avoid circular hashes.",
+    "scope": "Producer mechanical storage-preservation proof; independent root replay and installation remain separate."
+  }
+}

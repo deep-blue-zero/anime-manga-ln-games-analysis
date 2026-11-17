@@ -11,7 +11,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-last_amended: 2026-08-24
+last_amended: 2026-10-28
 ---
 
 # One Punch Man — V2 Multi-Document Synthesis Architecture
@@ -491,7 +491,7 @@ Used for coherent tranches of uncollected material.
 
 ### `OPM_CURRENT_RELEASE_SYNTHESIS.md`
 
-A compact provisional synthesis of what the uncollected material changes relative to the latest tankobon boundary.
+A compact provisional synthesis of what the uncollected material changes relative to the latest tankobon boundary. Under the owner's 2026-10-28 instruction, this is a living analytical horizon: source-locked web evidence also updates explicitly marked current-release sections in the existing character, relationship, thematic, mystery and readiness homes. Tankobon publication triggers later reconciliation; it is not a prerequisite for those analytical updates.
 
 It should answer:
 
@@ -766,4 +766,10 @@ Use:
 
 `CURRENT_STATE_AND_CORPUS_MAP.md` → `OPM_CHARACTER_MODEL_READINESS_INDEX.md` → owning character state ledger → `OPM_RELATIONSHIP_STATE_LEDGER.md` as needed → relevant volume deep reading/evidence atom → primary source locator → Japanese manga page/panel.
 
-For uncollected material, insert the current-release overlay and web/revision crosswalk before treating the claim as usable.
+For uncollected material, follow the current-release overlay and web/revision crosswalk to the exact source state. Such a claim is usable now under PR; select the collected-only or current-web horizon explicitly rather than treating provisional authority as analytical exclusion.
+
+## Rolling continuation adoption — 2026-10-28
+
+Current official chapters are ingested in coherent tranches, and every meaningful state change propagates into its existing owning document during the same transaction. No duplicate permanent web-only character library is created. A shared document may retain canonical collected history and explicitly bounded PR current state. Frozen readings and prospective checkpoints keep their earlier knowledge.
+
+The local sequential owner handles this bounded 39-page intake and its synchronized ledger updates. A separate cloud synthesis handoff is not required for this limited extension of an existing rolling argument; substantial future monographs may still use the preferred fresh-context topology. This is adoption at the next reading boundary, not a restart of V01-V37.

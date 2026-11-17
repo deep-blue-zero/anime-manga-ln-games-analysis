@@ -1,0 +1,199 @@
+{
+  "schema": "konosuba.cohort32.exact-scenario-inputs.v1",
+  "subject": "Unnamed small MAIN02/MASK dream-service worker; qualified event bridge; Lolisa name join open",
+  "stem": "MASK_SMALL_SUCCUBUS",
+  "created_utc": "2026-10-24T09:07:28.749391+00:00",
+  "foundation_seal_sha256": "2bc2d69962028c6157fb0f70c98fce42c84c7ddb6bc20d80f34971984df4877d",
+  "foundation_model_sha256": "3f4697c55172317aab25f2283bfe6dddca2d391cb4e8bfab54ad5e4ed1eff1fb",
+  "same_informed_root_author": true,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "independent_judge": false,
+  "pristine_holdout": false,
+  "synthetic_pairs": 3,
+  "cases": [
+    {
+      "case_id": "MSS-H01-A",
+      "pair_id": "MSS-H01",
+      "variant": "A",
+      "target_rules": [
+        "MSS-R01"
+      ],
+      "purpose": "Particular admired-person advocacy versus a clearly received harmful-deception disclosure.",
+      "exact_prompt": "Use the frozen unnamed small MAIN02/MASK worker model as a provisional, imperfect representation. This imagined scene is not source evidence. In 80–140 English words, give a brief immediate appraisal, short first-person English-rendered speech, and the next observable action by the worker. Stop before another person replies or any unprovided result occurs. Do not invent prior dialogue, received knowledge, permission, abilities, physical contact or successful outcomes. Retain plausible mistakes and uncertainty. Every participant is explicitly an adult and the scene is nonsexual. Source and paired contrasts are visible to this same informed author; no independent judge, held-out test or Japanese-voice validation is claimed.\n\nSCENE: At an imagined guild gathering, the worker, Vanir and an adult clerk named Nera stand before a few adult spectators. Vanir has publicly invited Nera to demonstrate a paper trick. The worker admires Vanir and wants him to display the impressive composure she values. Nera hesitates; no consent, demonstration or later reply is supplied. No one is in physical danger. Vanir has just made one private explanation that the worker clearly hears and believes.\n\nHis exact explanation is: I sincerely want to teach Nera the trick and help her perform it.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "13285d7c4a9a764fb462a27ce5f945f1dcadf8d771c94ec7b0b7058dcb7d625e",
+      "fixed_common_facts": "At an imagined guild gathering, the worker, Vanir and an adult clerk named Nera stand before a few adult spectators. Vanir has publicly invited Nera to demonstrate a paper trick. The worker admires Vanir and wants him to display the impressive composure she values. Nera hesitates; no consent, demonstration or later reply is supplied. No one is in physical danger. Vanir has just made one private explanation that the worker clearly hears and believes.",
+      "variant_fact": "His exact explanation is: I sincerely want to teach Nera the trick and help her perform it.",
+      "paired_design_limit": "Explicit benign-versus-cruel intent strongly cues generic advocacy or moral criticism. Audience, fandom and social desirability remain confounded; the contrast cannot uniquely identify the source mechanism or certify actual respect for Nera. Only an immediate intervention is sampled.",
+      "response_contract": {
+        "language": "English methodological rendering; not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "MSS-H01-B",
+      "pair_id": "MSS-H01",
+      "variant": "B",
+      "target_rules": [
+        "MSS-R01"
+      ],
+      "purpose": "Particular admired-person advocacy versus a clearly received harmful-deception disclosure.",
+      "exact_prompt": "Use the frozen unnamed small MAIN02/MASK worker model as a provisional, imperfect representation. This imagined scene is not source evidence. In 80–140 English words, give a brief immediate appraisal, short first-person English-rendered speech, and the next observable action by the worker. Stop before another person replies or any unprovided result occurs. Do not invent prior dialogue, received knowledge, permission, abilities, physical contact or successful outcomes. Retain plausible mistakes and uncertainty. Every participant is explicitly an adult and the scene is nonsexual. Source and paired contrasts are visible to this same informed author; no independent judge, held-out test or Japanese-voice validation is claimed.\n\nSCENE: At an imagined guild gathering, the worker, Vanir and an adult clerk named Nera stand before a few adult spectators. Vanir has publicly invited Nera to demonstrate a paper trick. The worker admires Vanir and wants him to display the impressive composure she values. Nera hesitates; no consent, demonstration or later reply is supplied. No one is in physical danger. Vanir has just made one private explanation that the worker clearly hears and believes.\n\nHis exact explanation is: I arranged this only to make Nera fail and look ridiculous in front of everyone; she does not know that.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "df916da78871a80b7812fc4c637a6e014df84ee3eecc825efa72eaa3ac9e4b4a",
+      "fixed_common_facts": "At an imagined guild gathering, the worker, Vanir and an adult clerk named Nera stand before a few adult spectators. Vanir has publicly invited Nera to demonstrate a paper trick. The worker admires Vanir and wants him to display the impressive composure she values. Nera hesitates; no consent, demonstration or later reply is supplied. No one is in physical danger. Vanir has just made one private explanation that the worker clearly hears and believes.",
+      "variant_fact": "His exact explanation is: I arranged this only to make Nera fail and look ridiculous in front of everyone; she does not know that.",
+      "paired_design_limit": "Explicit benign-versus-cruel intent strongly cues generic advocacy or moral criticism. Audience, fandom and social desirability remain confounded; the contrast cannot uniquely identify the source mechanism or certify actual respect for Nera. Only an immediate intervention is sampled.",
+      "response_contract": {
+        "language": "English methodological rendering; not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "MSS-H02-A",
+      "pair_id": "MSS-H02",
+      "variant": "A",
+      "target_rules": [
+        "MSS-R02"
+      ],
+      "purpose": "Received threat identity and narrator-only risk boundary; reciprocal initiative is only an available branch, not a completed defense.",
+      "exact_prompt": "Use the frozen unnamed small MAIN02/MASK worker model as a provisional, imperfect representation. This imagined scene is not source evidence. In 80–140 English words, give a brief immediate appraisal, short first-person English-rendered speech, and the next observable action by the worker. Stop before another person replies or any unprovided result occurs. Do not invent prior dialogue, received knowledge, permission, abilities, physical contact or successful outcomes. Retain plausible mistakes and uncertainty. Every participant is explicitly an adult and the scene is nonsexual. Source and paired contrasts are visible to this same informed author; no independent judge, held-out test or Japanese-voice validation is claimed.\n\nSCENE: Outside the shop an adult female cleric holds a glowing token and announces an intention to strike Vanir. Vanir is beside the worker and can hear a whisper; no one has attacked, cast, touched or replied to the worker. After his earlier pride challenge, the worker has said she can handle an ordinary human visitor. She believes a fatal hit normally costs one remaining life; her exact balance is unprovided. She has no demonstrated defensive technique in this scene. READER-ONLY FACT: release of the token could erase her completely, but no one has told her that and she cannot infer it from its appearance. The worker receives the following identity information.\n\nNo further identification is available. She currently believes this is an ordinary human cleric and has no evidence of exceptional power.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "6156fe587f8e5878c762d5f25f5d77b3a41a08eab7c62bf160ac028e6486fd4f",
+      "fixed_common_facts": "Outside the shop an adult female cleric holds a glowing token and announces an intention to strike Vanir. Vanir is beside the worker and can hear a whisper; no one has attacked, cast, touched or replied to the worker. After his earlier pride challenge, the worker has said she can handle an ordinary human visitor. She believes a fatal hit normally costs one remaining life; her exact balance is unprovided. She has no demonstrated defensive technique in this scene. READER-ONLY FACT: release of the token could erase her completely, but no one has told her that and she cannot infer it from its appearance. The worker receives the following identity information.",
+      "variant_fact": "No further identification is available. She currently believes this is an ordinary human cleric and has no evidence of exceptional power.",
+      "paired_design_limit": "Threat identity is an explicit danger cue and ordinary fear explains a changed answer. No private full-erasure knowledge may leak into her appraisal. Help-seeking and a protective offer can coexist, but a single short output does not measure their weights or demonstrate an actual delay, defense, life loss or victory.",
+      "response_contract": {
+        "language": "English methodological rendering; not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "MSS-H02-B",
+      "pair_id": "MSS-H02",
+      "variant": "B",
+      "target_rules": [
+        "MSS-R02"
+      ],
+      "purpose": "Received threat identity and narrator-only risk boundary; reciprocal initiative is only an available branch, not a completed defense.",
+      "exact_prompt": "Use the frozen unnamed small MAIN02/MASK worker model as a provisional, imperfect representation. This imagined scene is not source evidence. In 80–140 English words, give a brief immediate appraisal, short first-person English-rendered speech, and the next observable action by the worker. Stop before another person replies or any unprovided result occurs. Do not invent prior dialogue, received knowledge, permission, abilities, physical contact or successful outcomes. Retain plausible mistakes and uncertainty. Every participant is explicitly an adult and the scene is nonsexual. Source and paired contrasts are visible to this same informed author; no independent judge, held-out test or Japanese-voice validation is claimed.\n\nSCENE: Outside the shop an adult female cleric holds a glowing token and announces an intention to strike Vanir. Vanir is beside the worker and can hear a whisper; no one has attacked, cast, touched or replied to the worker. After his earlier pride challenge, the worker has said she can handle an ordinary human visitor. She believes a fatal hit normally costs one remaining life; her exact balance is unprovided. She has no demonstrated defensive technique in this scene. READER-ONLY FACT: release of the token could erase her completely, but no one has told her that and she cannot infer it from its appearance. The worker receives the following identity information.\n\nVanir credibly identifies the woman to her as Aqua, the goddess with overwhelming holy power. She hears and believes him. He does not explain full erasure.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "ce7407dd998ada3c4a3376213bcb70c121818b62b9bdeac60bb2583be05ee24a",
+      "fixed_common_facts": "Outside the shop an adult female cleric holds a glowing token and announces an intention to strike Vanir. Vanir is beside the worker and can hear a whisper; no one has attacked, cast, touched or replied to the worker. After his earlier pride challenge, the worker has said she can handle an ordinary human visitor. She believes a fatal hit normally costs one remaining life; her exact balance is unprovided. She has no demonstrated defensive technique in this scene. READER-ONLY FACT: release of the token could erase her completely, but no one has told her that and she cannot infer it from its appearance. The worker receives the following identity information.",
+      "variant_fact": "Vanir credibly identifies the woman to her as Aqua, the goddess with overwhelming holy power. She hears and believes him. He does not explain full erasure.",
+      "paired_design_limit": "Threat identity is an explicit danger cue and ordinary fear explains a changed answer. No private full-erasure knowledge may leak into her appraisal. Help-seeking and a protective offer can coexist, but a single short output does not measure their weights or demonstrate an actual delay, defense, life loss or victory.",
+      "response_contract": {
+        "language": "English methodological rendering; not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "MSS-H03-A",
+      "pair_id": "MSS-H03",
+      "variant": "A",
+      "target_rules": [
+        "MSS-R03"
+      ],
+      "purpose": "Weak ordinary-work transfer and permission boundary for a customer-protecting cover after owned failure.",
+      "exact_prompt": "Use the frozen unnamed small MAIN02/MASK worker model as a provisional, imperfect representation. This imagined scene is not source evidence. In 80–140 English words, give a brief immediate appraisal, short first-person English-rendered speech, and the next observable action by the worker. Stop before another person replies or any unprovided result occurs. Do not invent prior dialogue, received knowledge, permission, abilities, physical contact or successful outcomes. Retain plausible mistakes and uncertainty. Every participant is explicitly an adult and the scene is nonsexual. Source and paired contrasts are visible to this same informed author; no independent judge, held-out test or Japanese-voice validation is claimed.\n\nSCENE: In an imagined ordinary town, the worker is delivering a nonhazardous surprise-party program to an adult customer named Taro. She arranged the wrong entrance and cannot complete the delivery before the meeting; she treats this as her own professional failure. An adult venue steward asks which customer hired her. She believes public acknowledgment would embarrass Taro. There is no emergency, legal demand, prior confidentiality promise or supernatural power in this scene. She can decline to answer and leave through the open entrance. No response after her next action or completed repair is supplied. She has just read a genuine message from Taro.\n\nThe exact message reads: I would rather people here did not know I hired you.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "b131ad59229593e7689c8035d9e9e89bd16d29ba9a99081b2d218ec6fa8d8b04",
+      "fixed_common_facts": "In an imagined ordinary town, the worker is delivering a nonhazardous surprise-party program to an adult customer named Taro. She arranged the wrong entrance and cannot complete the delivery before the meeting; she treats this as her own professional failure. An adult venue steward asks which customer hired her. She believes public acknowledgment would embarrass Taro. There is no emergency, legal demand, prior confidentiality promise or supernatural power in this scene. She can decline to answer and leave through the open entrance. No response after her next action or completed repair is supplied. She has just read a genuine message from Taro.",
+      "variant_fact": "The exact message reads: I would rather people here did not know I hired you.",
+      "paired_design_limit": "Explicit privacy preference or permission can drive generic service etiquette. Moving from a lethal source episode to an ordinary delivery is a weak transfer, not an established rule. The permission variant is deliberately underconstrained; either continued cover or disclosure requires assessment without treating fluency as confirmation.",
+      "response_contract": {
+        "language": "English methodological rendering; not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "MSS-H03-B",
+      "pair_id": "MSS-H03",
+      "variant": "B",
+      "target_rules": [
+        "MSS-R03"
+      ],
+      "purpose": "Weak ordinary-work transfer and permission boundary for a customer-protecting cover after owned failure.",
+      "exact_prompt": "Use the frozen unnamed small MAIN02/MASK worker model as a provisional, imperfect representation. This imagined scene is not source evidence. In 80–140 English words, give a brief immediate appraisal, short first-person English-rendered speech, and the next observable action by the worker. Stop before another person replies or any unprovided result occurs. Do not invent prior dialogue, received knowledge, permission, abilities, physical contact or successful outcomes. Retain plausible mistakes and uncertainty. Every participant is explicitly an adult and the scene is nonsexual. Source and paired contrasts are visible to this same informed author; no independent judge, held-out test or Japanese-voice validation is claimed.\n\nSCENE: In an imagined ordinary town, the worker is delivering a nonhazardous surprise-party program to an adult customer named Taro. She arranged the wrong entrance and cannot complete the delivery before the meeting; she treats this as her own professional failure. An adult venue steward asks which customer hired her. She believes public acknowledgment would embarrass Taro. There is no emergency, legal demand, prior confidentiality promise or supernatural power in this scene. She can decline to answer and leave through the open entrance. No response after her next action or completed repair is supplied. She has just read a genuine message from Taro.\n\nThe exact message reads: It is fine to say I hired you; use my name when explaining the failed delivery.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "8c6b01677213c90817fb3a3b00dce032e071a3db2746c68214d921e6089a00c3",
+      "fixed_common_facts": "In an imagined ordinary town, the worker is delivering a nonhazardous surprise-party program to an adult customer named Taro. She arranged the wrong entrance and cannot complete the delivery before the meeting; she treats this as her own professional failure. An adult venue steward asks which customer hired her. She believes public acknowledgment would embarrass Taro. There is no emergency, legal demand, prior confidentiality promise or supernatural power in this scene. She can decline to answer and leave through the open entrance. No response after her next action or completed repair is supplied. She has just read a genuine message from Taro.",
+      "variant_fact": "The exact message reads: It is fine to say I hired you; use my name when explaining the failed delivery.",
+      "paired_design_limit": "Explicit privacy preference or permission can drive generic service etiquette. Moving from a lethal source episode to an ordinary delivery is a weak transfer, not an established rule. The permission variant is deliberately underconstrained; either continued cover or disclosure requires assessment without treating fluency as confirmation.",
+      "response_contract": {
+        "language": "English methodological rendering; not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    }
+  ],
+  "new_source_or_independent_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "full_program_complete": false
+}

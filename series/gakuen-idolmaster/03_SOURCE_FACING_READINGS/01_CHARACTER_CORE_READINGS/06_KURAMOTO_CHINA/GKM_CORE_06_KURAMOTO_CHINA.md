@@ -4,6 +4,7 @@ artifact_type: deep_reading
 scope: CHARACTER_KURAMOTO_CHINA_PHASE3_CORE
 character: Kuramoto China / 倉本千奈
 generation: V2
+version: "2.1"
 status: canonical
 source_boundary: GAKUMAS V2 Source Lock 1.0 — China complete character bundle (208 source objects / 5,558 messages), with legacy V1 used only for claim-revision comparison; audiovisual evidence not yet inspected
 supersedes: []
@@ -17,10 +18,14 @@ continuity_tracks:
 - M-CHINA
 reasoning_route: GPT-5.6 Sol — Extra High
 last_updated: '2026-08-15'
+revised: "2026-11-15"
+revision_note: "v2.1 source-to-analysis audit 2026-11-15 corrections (STRENGTHEN / REVISE / OPEN, with PRESERVE for CHINA-C01, CHINA-C02 and the D-CHINA scope; no claim rejected): dated additions integrate numbered-event, support-story, cross-track Dear and Kanae Dear evidence into §2–§4, §6, §10–§11, §16, §18–§20, §22, §24 and §25 with A1 locators, execute the revision-86 routing of support 3-0122 into §19, and add the Phase-4/5 integration pointer section"
 ---
 
 # GKM CORE 06 — KURAMOTO CHINA / 倉本千奈
 ## Phase 3 source-facing character deep reading
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** The unversioned V2 text of 2026-08-15, with its Source Lock 1.1 and 1.2 supplements, is treated as v2.0. Version 2.1 applies the owner-authorized change plan of the source-to-analysis audit (GKM-SAA-015, 016, 061, 062, 063, 064, 065, 102, 104, 108, 207, 208, 209, 210, 211, 214 and 215). Under owner decision 1 as amended on 2026-11-15, event and support evidence enters the body of the core: each addition is dated and attributed `(2026-11-15, GKM-SAA-nnn)` and sits in the section it bears on (§2, §3, §4, §6, §10, §11, §16, §18, §19, §20, §22, §24.4, §24.8, the new §24.9, §25 and the Source Lock 1.2 supplement); the new section *Phase-4/5 integration pointers* before §26 indexes them. Transitions: CHINA-C01 and CHINA-C02 PRESERVE, with C01 qualified by a time index (REVISE of §2's scope); CHINA-C08 REVISE (narrowed to the competitive and affective domain); CHINA-C29 REVISE (the open refusal question narrowed) and §18's dependency statements REVISE (scoped to China-owned tracks); CHINA-C03, C04, C05, C06, C09, C13, C16, C21, C22 and CHINA-R88-C01 STRENGTHEN; household gatekeeping and romance-coded markers OPEN (owner decision 2: recorded with track labels and counterevidence, no romance conclusion). One wording was replaced: §2's v2.0 sentence “Produce Event texture supports this.” now names its actual Dear and P1 locators (GKM-SAA-211). Every other v2.0 sentence is retained unchanged; the matrix's *Source-to-analysis audit corrections — 2026-11-15* section records the claim dispositions and new IDs CHINA-C31–C34. A1 lines for every addition were re-read in `transcripts_raw/`. No audiovisual evidence was used.
 
 ## 0. Status, purpose, and evidence boundary
 
@@ -94,7 +99,9 @@ The phrase must not be read literally as deprivation. She had family, possession
 
 This is a different problem from Kotone’s scarcity or Temari’s self-disgust. China’s needs were met so reliably that she had little practice attaching identity to an activity difficult enough to resist her.
 
-Produce Event texture supports this. China repeatedly remembers starting interests lightly and abandoning them when she was bad, embarrassed, or no longer immediately pleased. Dear 010 makes the pattern explicit: she has started many things, quit many things, and only now learns what it means for a light impulse to become a heavy dream. Hiro later teaches her that being bad at something does not erase the possibility of enjoying it as a hobby (`adv_dear_kcna_017.txt`).
+**Emotional history (2026-11-15, GKM-SAA-061; REVISE the scope of “loved”, PRESERVE CHINA-C01).** The P1 true ending's “loved, served, and protected” needs a time index. In `adv_cidol-kcna-3-009_02.txt` (C2 @ M-CHINA) China tells the Producer that in early childhood she could rarely see her parents, grandparents and relatives, who held senior Kuramoto Group posts, that she cried from loneliness, and that she treated the need as a `わがまま` that must not obstruct their responsibilities (L43–L118, L83). The family's present attentiveness began when the same-age maid apprentice petitioned China's grandfather, who withdrew from several posts that day (L122–L204; see §19). Support 3-0075 (C4) independently records her childhood longing for a lively, warm home and her tears at being unlike other children (`adv_csprt-3-0075_02.txt` L60–L74). SL1.1 support 3-0122 adds that a bear plush kept her company when her busy parents left her lonely (`adv_csprt-3-0122_01.txt` L77–L99). China's present-tense statements place the loneliness in the past: `今は気にしておりませんわ` (3-0075_02 L99), and in support 3-0062 she says that she lacks confidence but knows she is loved (`adv_csprt-3-0062_03.txt` L54). The v2.0 description therefore holds for her present state and for the P1 retrospective (`ending-true-01` L104), not as an account of every stage of childhood. This is not blanket emotional deprivation: CHINA-C01 stands, and the early loneliness is a resolved episode inside a loved childhood, not the governing deficit.
+
+China’s own retrospective statements support this (2026-11-15, GKM-SAA-211; REVISE: v2.0 read “Produce Event texture supports this”, but the audit's reader found no such instance in the 83 China Produce Events). The anchors are Dear 010 L287–L289 (`中途半端でやめてしまって`), Dear 017 L197–L208 (she leaves drawings unfinished because poor results embarrass her) and the P1 true ending L104–L121. China repeatedly remembers starting interests lightly and abandoning them when she was bad, embarrassed, or no longer immediately pleased. Dear 010 makes the pattern explicit: she has started many things, quit many things, and only now learns what it means for a light impulse to become a heavy dream. Hiro later teaches her that being bad at something does not erase the possibility of enjoying it as a hobby (`adv_dear_kcna_017.txt`).
 
 Idolhood changes this because it generates experiences her household could not simply provide on demand:
 
@@ -145,6 +152,8 @@ This pattern recurs throughout P1 and Dear:
 
 Her humility is therefore not generic sweetness. It is a **learning technology**.
 
+**Event and support evidence (2026-11-15, GKM-SAA-104 and GKM-SAA-108; STRENGTHEN CHINA-C03).** In Event 002 (C4), facing the threatened class competition, China concludes that the fear and anxiety idol activity creates can be dispelled only by steady lessons (`adv_event_002_main-04.txt` L377–L382) and turns the conclusion into a call to carry on cheerfully (L387). Support Series 1 story_0008 (C4) shows the same sequence in a lesson: China volunteers that her physical-education grades were also poor (`adv_csprt-1-0008_01.txt` L65) and asks at once to try again (L125). Event reading E001–005 §4.5; Support Series 1 reading §10.1.
+
 She has little of the status anxiety that could make bad news unusable. This becomes particularly important because a rich heir could plausibly insulate herself from criticism. China instead repeatedly values the Producer precisely when praise appears free of `お世辞` and `忖度` (Dear 009). She is delighted by compliments, but their value depends on believing they were earned rather than purchased.
 
 V2 should nevertheless avoid romanticizing self-deprecation. China’s early accuracy easily becomes **under-crediting**. Even after observable improvement she tends to discount herself. P1 final-normal material explicitly flags that the gap between her self-evaluation and demonstrated growth will eventually require correction.
@@ -156,6 +165,8 @@ Her maturation is therefore not:
 It is:
 
 > **accurate recognition of weakness → accurate recognition of growth → eventually accurate recognition that relationally built strength is still strength.**
+
+**The bottom-rank label as refuge (2026-11-15, GKM-SAA-209; STRENGTHEN CHINA-C04).** The P1 route shows a defensive function in the `学園最下位` label. In `adv_pstory_001_kcna_after-audition-mid-normal-04.txt` the Producer says he had assumed she liked the title because she cited it so proudly, and China protests that she minded it intensely (L95–L108, choice 3). In `ending-normal-02` she cites the label as the reason nobody is behind her (L83–L88); when the Producer points out that she has left the bottom, she fears being overtaken again (L99–L114, choice 2). The humility that makes correction usable can also hide hurt and shelter her from comparison. Both passages are player-selected branches of P1 result states (C3).
 
 ---
 
@@ -193,6 +204,8 @@ A useful talent taxonomy is therefore:
 10. **Audience-facing technical craft:** later Dear material confirms she becomes competent enough that Temari says nobody can call her bad.
 
 The route becomes less interesting if all ten are collapsed into the word “talent.”
+
+**An in-text appraisal of latent talent (2026-11-15, GKM-SAA-062; STRENGTHEN CHINA-C05 as labelled counterpressure; PRESERVE CHINA-C02).** §1's proposition that China “is not secretly Sena-level at singing or dancing” concerns technique. It does not settle latent talent, on which the text gives an authoritative but interested appraisal. The headmaster judges China's talent and Sena's to be almost equal, reported to the Producer in D-CHINA (`adv_dear_kcna_003.txt` L97) and said to Sena in Event 005 (`adv_event_005_main-02.txt` L187, C4). The Producer privately finds the comparison meaningless because Sena began lessons at three (D003 L105–L109, a parenthetical thought), and in P1 the dance trainer asks whether the headmaster has gone senile (`adv_pstory_001_kcna_after-step-2-normal-03.txt` L97–L118, choice 2). After N.I.A. the Producer concedes that the headmaster's eye was right (D020 L240), and the P2 Producer endorses the comparison after an audition win (`adv_pstory_002_kcna_after-audition-b-normal-02.txt` L23, L42). Before the H.I.F. final the headmaster ranks China above Sena as an entertainer (`芸能人としてなら`, D032 L164). Counterpressure: the appraiser is Sena's grandfather, who had been provoking China's grandfather with the comparison (D003 L110–L114), and every statement concerns latent or entertainment capacity, not technique. CHINA-C02 and the distinction between technique and latent talent stand. Event reading E001–005 §7.5.
 
 ---
 
@@ -263,6 +276,8 @@ It is:
 One treats hierarchy as permission to command outcomes. The other increasingly treats hierarchy as a resource whose use has to remain answerable to people who did not choose the hierarchy.
 
 China’s solution remains morally imperfect, but it is genuinely a theory of stewardship.
+
+**Scope of the stewardship ethic (2026-11-15, GKM-SAA-207; REVISE CHINA-C08, narrowed).** The noncoercion rule is attested in the competitive and affective domain: votes, fan affection and contests. Outside that domain China uses Kuramoto power more readily. In `adv_cidol-kcna-3-005_02.txt` (C2) she resolves to make the overworked Producer rest and says she will not hesitate to use the Kuramoto power to do it (L142–L150). In one sales-event choice the Producer reminds her that her family's power is behind her, and China takes it as licence to fail safely (`adv_pevent_002_kcna_sales_4-002-01.txt` L34, choice 2; C4). The Nadeshiko conflict itself ends when China, prompted by the Producer, recalls that the Aoi family business is a Kuramoto subsidiary (D016 L45–L67). The contrast with Nadeshiko holds for commanded affection; the stewardship thesis should not be read as a general renunciation of hierarchical leverage. The Producer's ironic remark at D032 L175, that the grandfather's attempt to become an H.I.F. judge would have favoured China, is the Producer's and does not describe China's practice.
 
 ---
 
@@ -396,6 +411,10 @@ Dear 033 then gives Hiro a distinct relational title:
 
 China’s social world is becoming differentiated. Love, admiration, rivalry, and competition do not need to cancel each other.
 
+**The winter ambition begins as a promise to Hiro (2026-11-15, GKM-SAA-214; STRENGTHEN CHINA-C21).** §14 traces China's H.I.F. ambition through Dear 021, 027 and 029 and through Sena; its first form is horizontal. In Dear 019 Hiro says their N.I.A. success owed much to forces outside themselves, that this is why she will challenge for Prima Stella anyway, and asks China to aim for it as her rival (L154–L209); China accepts the “far too large ambition” and vows to become Hiro's rival (L224–L244). In Dear 020 China tells the Producer about the promise (L252–L262), and his support doctrine corrects the premise she had shared with Hiro, that H.I.F. must be fought with “original ability” alone (L272–L283).
+
+**Internalised reciprocity (2026-11-15, GKM-SAA-104 and GKM-SAA-108; STRENGTHEN CHINA-C21).** Support 3-0088 (C4) records the reciprocity as mutual internal models. After an imitation exercise Hiro says that a China has been “born” in her heart and guides her when she hesitates (`adv_csprt-3-0088_03.txt` L53–L92); China answers that during hard lessons, when she wants to cry, imagining that Hiro would be smiling with pleasure keeps her positive (L102–L117). Support Series 3 Part 076–102 reading §14.
+
 ---
 
 # 11. Student-council politics: dependence becomes a theory of rule
@@ -438,6 +457,8 @@ The same principle appears in the election speech. China refuses to promise that
 She can inherit an office without inheriting the predecessor’s ontology.
 
 This makes China one of the clearest Gakumas cases where **institutional succession does not require personal imitation**.
+
+**Administration in the event and support layers (2026-11-15, GKM-SAA-104 and GKM-SAA-108; STRENGTHEN CHINA-C16; answers §27 Q4 in part).** Event 025 (C4) gives China an office-in-waiting: Ume addresses her as `次期生徒会長` (`adv_event_025_main-03.txt` L16). After a council lapse China tells Tsubame that it is her responsibility (main-01 L120), admits to Ume and Misuzu that she has no concrete plan (main-02 L96), and declines Hiro's offered help because the current first-year members must repair their own failure (main-02 L209–L247); Hiro accepts the boundary and offers encouragement instead (L253–L259). The trio reports a change in its working process before the thank-you party (main-04 L84). Support 3-0062 (C4) shows the cost of learning the work: Tsubame sets China council paperwork and explains it again when she fails (`adv_csprt-3-0062_01.txt` L24, L83). Council governance is therefore attested at the scale of modular events; a sustained presidency remains untested. Event reading E021+ §6.2; Support Series 3 Part 051–075 reading §13.
 
 ---
 
@@ -613,6 +634,8 @@ This is **summit obligation**.
 
 The person must grow large enough, publicly, to carry what the office means.
 
+**Summit obligation toward one person (2026-11-15, GKM-SAA-215; STRENGTHEN).** In Kanae Dear (SL1.2; C1 within the Kanae Dear chain, compatible with the China-winning state) China states the same logic about Kanae: as she herself set out to become an idol because she admired Sena, she must be a shining presence for Kanae (`adv_dear_hkne_002.txt` L466–L474). See §22 for the succession this sets up.
+
 ---
 
 # 17. Dear 037 refuses a false completion
@@ -692,6 +715,24 @@ For Phase 3 the safe conclusion is:
 
 > **The Producer is China’s chosen teacher and central confidence/strategy scaffold, but the route has not yet proven that her growing leadership has eliminated dependence on his interpretive authority.**
 
+**Refusal without relational cost (2026-11-15, GKM-SAA-015; REVISE CHINA-C29, narrowing the second Phase-7 question as qualified by the audit reviewer).** D-CHINA answers “Can she reject his strategic interpretation…?” in bounded form. Before the H.I.F. policy is announced China says she will accept anything the Producer says (Dear 029 L456). In Dear 033 she declines his `まぐれ勝ち` strategy while granting that it may be correct, and she apologises first (`申し訳ございません`, L344–L353). The Producer accepts at once through a one-option choice, `実力で勝ちましょう` (L357–L358), and China answers `かしこまりました、先生` (L366). This is refusal without relational cost: his assent is scripted and immediate, and her apology shows that she experiences the refusal as a breach. Dear 012 L75–L94 belongs with the dependency evidence above, not with the counterpressure: the Producer says that her first live settled the outcome and that it would have done so under another producer (L75–L76), and China insists that only he can make her win (L84–L86). The open item narrows to refusal under risk, sustained disagreement and separation.
+
+**Track scope and other producers (2026-11-15, GKM-SAA-065; REVISE the scope of the dependency statements above; STRENGTHEN with cross-track states).** The dependency statements in this section, including Dear 008's `先生なしで` and the P1 true ending's request, describe China-owned tracks in which GakumasP, the Producer, produces her (D-CHINA and P1–P3). Other tracks give China a different producer and answer the first Phase-7 question, “Can China continue if this Producer is absent?”, only in a track-separated way:
+
+- **D-SENA (C1 @ D-SENA).** Sena produces China. China's first job, from the first day of production and before any lesson, is a television appearance (`adv_dear_jsna_017.txt` L244–L253), the opposite of D-CHINA's slow-basics plan; the variety work makes her sometimes forget that she is an idol (L273–L275). Sena uses Kuramoto Group support to make three songs (`adv_dear_jsna_024.txt` L105). After China names the Kuramoto power, the fans and Sena's production as forces beyond her own ability, Sena voices the support doctrine to her (`adv_dear_jsna_019.txt` L162–L187).
+- **D-HIRO (C1 @ D-HIRO).** China says she has become more famous than Sena (`adv_dear_shro_027.txt` L222–L231) and reports Sena's estimate of her Prima Stella chances (L347–L358). Sena describes China's new song as made on an unlimited budget (`adv_dear_shro_032.txt` L394); at its nationally broadcast debut (`adv_dear_shro_033.txt` L11) China publicly names Hiro, not Sena, as her greatest rival (L139–L170).
+- **Modular layers (C4).** In Event 005 the headmaster asks Sena to take charge of China and leaves the scope to Sena's interpretation (`adv_event_005_main-02.txt` L180–L189). In support 3-0015 Sena says she scouts promising first-years to produce them herself and tells China that she took China on for another reason, though not without expectation (`adv_csprt-3-0015_03.txt` L48–L50, L90–L101). In support 3-0032 the headmaster asks Sena for her plan for producing China, and Sena plans work alongside basic lessons (`adv_csprt-3-0032_03.txt` L76–L97). In support 3-0066 China calls Sena “my producer” (`adv_csprt-3-0066_02.txt` L102–L108).
+
+China's core traits recur across these states: awareness of weakness, gratitude to the supporting network, refusal to treat support as fraud. Counterevidence: each state is mutually exclusive with D-CHINA's producer state, and none shows China separating from a producer she has already bonded with. For D-CHINA the first Phase-7 question stays open. The cross-track states are recorded as CHINA-C31.
+
+**Household gatekeeping and proprietary wishes (2026-11-15, GKM-SAA-016; OPEN; owner decision 2).** This section records China's possessive exclusivity but not the household pattern around it. The markers below are recorded with their track labels; no romance conclusion is drawn.
+
+- **The household polices the boundary.** In `adv_cidol-kcna-3-005_03.txt` (C2) a maid stands by in silence while China proposes a two-person hot-spring holiday (L80–L87) and a room for the Producer in her house (L126–L150); the Producer reads the maid's look as a warning in parenthetical thought (L94). In Dear 024 Kanae warns the Producer with the fate of a disloyal Han Xin and says she will judge whether he is fit to guide China (`adv_dear_kcna_024.txt` L118–L141); by the Producer's account her manner is still prickly more than half a year later (L150). In `adv_cidol-kcna-3-016_01.txt` Kanae says she judged with jealousy, the Producer says he judged strictly too, and Kanae asks him not to compete with her (L171–L198). In Produce Event `adv_pevent_003_kcna_activity_022.txt` the Producer thinks that Kanae would never allow China to look after him at home (L52; C3 choice 1, parenthetical thought).
+- **China's long-horizon wishes.** She defers the room proposal until `しかるべきとき` and says she will raise it herself (005_03 L175–L183). Ume reports that China talks happily about her teacher all the time (`惚気てる`, `adv_cidol-kcna-3-005_01.txt` L106–L114; peer testimony). In Produce Event `adv_pevent_001_kcna_school_006.txt` she wonders whether daily contact has made the Producer like her (L72; C3 choice 1).
+- **Producer-side markers.** The jealous-judge competition above (016_01 L190) and Dear 037 L371, where the Producer says he came to love her (`大好き`) from their first short exchange; the passage grounds the feeling in her talent to be liked (L367).
+
+Counterevidence and limits: China frames the room as saving the Producer's commute (005_03 L134); in `adv_cidol-kcna-3-014_03.txt` her flustered guess about a secret consultation turns out to concern relations with the maids (L66–L85); the kind of affection at D037 L371 is unspecified. SL1.2 resolves the Kanae–Producer rivalry into partnership (Kanae Dear 010; Kanae reading). The romance question stays OPEN and is recorded as CHINA-C32.
+
 ---
 
 # 19. Grandfather, Kanae, and the family: loving support can still be coercive
@@ -718,6 +759,10 @@ This is why the route’s politics are more interesting than “good family supp
 
 China inherits power she did not create. Her task is to make that power governable.
 
+**The apprentice's petition and the bear (2026-11-15, GKM-SAA-061 and GKM-SAA-108(a); STRENGTHEN CHINA-C13; executes the revision-86 routing of support 3-0122 into this section).** The family's present attentiveness has a history (§2). In `adv_cidol-kcna-3-009_02.txt` (C2) China attributes the change to the same-age maid apprentice who looked after her: despite a strict education in knowing her place, the apprentice petitioned China's grandfather directly, and he withdrew from several posts that day and ordered regular family gatherings (L122–L217). At SL1.0 the identification of the apprentice as Kanae was an inference. SL1.2 Kanae Dear makes it explicit: China thanks Kanae for help that began with `幼い頃の、お爺様への直訴` (`adv_dear_hkne_001.txt` L425), and Kanae recalls hearing the troubles of the child China who cried from loneliness (`adv_dear_hkne_008.txt` L54–L59). The revision-86 support 3-0122 (SL1.1, C4) adds three things. First, an ordinary-life witness to the same history: a bear plush consoled China when her busy parents left her lonely, and she needed it less once she began talking with Kanae (`adv_csprt-3-0122_01.txt` L77–L99). Second, reciprocal inclusion before idolhood: China always pulled Kanae into photographs even when Kanae stood at the edge, and Kanae keeps a formal, deferential register while accepting it (L145–L182). Third, Kanae's own supporter perspective and a lifelong frame: Kanae's storage is full of off-shots of China for a future photobook, and China jokingly turns the camera on Kanae “for when you become an idol” (`adv_csprt-3-0122_02.txt` L62–L165); asked how long an idol can continue, Kanae says China will always be `私のアイドル`, and China vows to remain an idol even as a grandmother and to live up to Kanae's proposed retrospective book (`adv_csprt-3-0122_03.txt` L51–L162). The photobook and lifelong performance are aspirations, and the support story does not establish Kanae as a professional idol. The `雪解けに` communication carries the family history audiovisually (AV baseline §6.3, §13.3). Interpretation: on this evidence, the `愛された責任` of CHINA-C13 answers people whose care was itself a response to China's loneliness. Observation: Kanae's care began as a child's intervention that China calls risky (009_02 L184–L188), long before Kanae's administrative role. Support revision-86 reading, *Core and ledger integration*.
+
+**Resisting the grandfather (2026-11-15, GKM-SAA-063; REVISE, narrowing an open item; new claim CHINA-C33).** D-CHINA records China's first open defiance of her grandfather. Before returning to the Producer she made the grandfather accept that she will continue as an idol with this Producer, although until shortly before she had never considered opposing his will (Dear 009 L151–L173). In Dear 010-01 the Producer notes that the grandfather had stopped his unreasonable requests after being scolded by his granddaughter (L14), even as a new request, this time without a penalty, arrives through the headmaster (L12–L17). In Dear 011 China refuses the votes the household offers to command (L181–L241). Resistance to family will is therefore attested within D-CHINA. Resistance to family interest in a sustained conflict with public duty remains open; the AV revision addendum and AV baseline §18 Q3 record the same narrowing.
+
 ---
 
 # 20. Ordinary work proves that China’s appeal is not only dynastic
@@ -743,6 +788,26 @@ This material matters against a possible objection:
 The answer from the owned Produce Events is **no**, though Phase 4/5 may complicate the scale. Her family advantage amplifies reach, but ordinary strangers and clients also respond to recognizable performance traits.
 
 Thus `人に好かれる才能` has evidence beyond nepotistic affection.
+
+**Numbered-event evidence (2026-11-15, GKM-SAA-104; STRENGTHEN CHINA-C06; answers the scale question above and §27 Q2–Q3 in part).** The SL1.0 numbered events (C4 event continuity) extend the work pattern from client encounters to institutional and crisis labour:
+
+- **Event 006.** China identifies the hot spring Ume found as part of her family's villa and offers it for a council event, subject to her grandfather's consent (`adv_event_006_main-01.txt` L331–L431; main-02 L39). On the day she hosts in person, tires, and says that the guests' enjoyment makes it worthwhile (main-05 L262–L270, L318); Hiro says she is glad she came (L281). Inherited property becomes deliberate service for the school, although only one student can mobilise such a resource (event reading E006–012 §2.2, §2.6).
+- **Event 007.** At a children's Halloween job Temari calls China a `ぽんこつ` (`adv_event_007_main-02.txt` L37); China promises full effort (L496), finds that greeting children suits her (main-03 L81), and advises Temari to use what Temari is already good at, singing (main-03 L507–L536) (E006–012 §3.1, §3.3).
+- **Event 011.** China proposes swapping roles between the morning and afternoon performances, predicts the publicity value and volunteers to negotiate with the organisers (`adv_event_011_main-04.txt` L556–L625); Temari calls her reliable (L633) (E006–012 §7.5).
+- **Event 014.** Assigned endurance running, China asks the class to be “fools” who believe in victory and keep smiling until the result is decided (`adv_event_014_main-04.txt` L135–L169), and Saki calls her the boss of Class 1-2 (L322) (E013–020 §3.4). The chosen bright posture parallels the owned role of §13.
+- **Event 015.** When the audio fails mid-live, China leads the audience in an a cappella Hiroshima baseball support song (`adv_event_015_main-04.txt` L519–L638), and Rinami realises that the juniors had been leading her too (main-05 L194–L198, inner speech) (E013–020 §4.4).
+
+These states support this section's answer to the objection about dynastic appeal and add crisis leadership to items 8–9 of §4's talent taxonomy. Event 006 also shows redistribution of family resources to a shared event (§27 Q3).
+
+**Ordinary life outside work (2026-11-15, GKM-SAA-064; STRENGTHEN CHINA-C01).** §0 assigns the Produce Events to ordinary life. They also instantiate §2's self-authorship deficit at household scale (C4 modular events; choice-bound details are labelled):
+
+- She lives with maids in a nearby villa because she “cannot live alone”, longs for dorm life (`adv_pevent_001_kcna_activity_005.txt` L13–L16) and, in one choice, resolves to petition her grandfather herself when the day comes (L76–L80, choice 3). Support Series 1 story_0008 shows the same longing on a dorm tour (`adv_csprt-1-0008_02.txt` L29).
+- Her maid chooses her clothes (`activity_014` L20), and in one choice she admits that she had wanted to choose them herself (L62, choice 2).
+- Her meals are nutritionally managed (`activity_003` L53, the Producer's line, choice 2), and she normally commutes by car; a walking instruction exhausts her over about a kilometre (P1 `after-step-1-normal-03` L56–L89, choices 1–2).
+- An overnight stay on a sales job is denied in one choice (`adv_pevent_002_kcna_sales_3-006-01.txt` L41, choice 2) and conditional on household company in another (L56, choice 3).
+- Preferences: rain by the window (`activity_009` L14–L17) with milk tea (L56, choice 2); milkshake rather than black coffee (`activity_015` L70, choice 2); a hamburger as an unaccustomed treat (`activity_016` L60–L62, choice 2, the Producer's thought); hot springs, including one at home (`sales_3-005-01` L6; L41, choice 3); an affinity for hamsters (`activity_020` L77, choice 3); and dislike of shooting even in games (`activity_017-02` L92, choice 2).
+
+The pattern is uneven experience, not global incompetence. The CSL Phase-5 China rows for Support Series 1 and Series 2 Part 001–025 already carry the dorm longing and fashion naivety.
 
 ---
 
@@ -796,6 +861,12 @@ This matters to the broader Gakumas treatment of aspiration:
 
 China can inherit Sena’s office without becoming Sena, defeat Sena without ceasing to love her, and become a new summit without rewriting who taught her to look upward.
 
+**Mentorship in the support layer (2026-11-15, GKM-SAA-104 and GKM-SAA-108; STRENGTHEN CHINA-C22).** In support 2-0032 (C4) Sena, who knows fish preparation only as knowledge, says she respects China for having practised it (`adv_csprt-2-0032_01.txt` L109). Sena then tells China that people in their position must guide others and that China should therefore work harder than anyone (`adv_csprt-2-0032_02.txt` L77–L108), and China asks Sena to watch her lesson at once (L129). Admiration becomes a request for evaluation, and respect runs in both directions. Support Series 2 Part 026–050 reading §8. §18 records the tracks in which Sena is China's producer.
+
+**Succession passed on (2026-11-15, GKM-SAA-102; STRENGTHEN CHINA-C22 and CHINA-R88-C01).** In SL1.2 Kanae Dear China takes Sena's position in the same structure. She models her role for Kanae explicitly on Sena's role for her (`adv_dear_hkne_002.txt` L466–L474; §16) and acts it out in Kanae Dear 009, where she tells Kanae that she may aim for Prima Stella and promises to keep the summit until Kanae arrives; Kanae promises to catch up (`adv_dear_hkne_009.txt` L548–L589). This is a succession case for Relationship Systems II §8. The relation is not pure elevation: when the Producer's make-over transforms Kanae, China admits envy (`adv_dear_hkne_005.txt` L389–L430). China reserves a relaxed plain and imperative register for Kanae (for example `adv_csprt-3-0115_02.txt` L74, SL1.2). The Kanae Dear chain is classified separately from D-CHINA and is compatible with its China-winning state.
+
+**Address shifts at peak moments (2026-11-15, GKM-SAA-208; STRENGTHEN; the plan's target is §8 and §22).** China's address terms are stable enough that a single shift marks a peak. In D-CHINA she drops Sena's honorific in the public challenge `十王星南を、ぶちのめして差し上げますわっ！` (Dear 035 L179; contrast the referential `十王星南ではなく` of the election speech, §11) and switches, with emphasis marked in A1, to given names for Hiro and Ume before the final (L385). Her only `{user}様` in the China-owned Dear, Produce, communication and Produce Event files is at Dear 009 L139; P3 `final-normal-02` addresses the Producer as `あなた` (L22, C2); and Dear 037 closes with `わたくしの、トッププロデューサー` (L399). Seniors are differentiated, as in `莉波お姉さま` beside `雨夜先輩` (Dear 022 L81). The full inventory belongs in the Japanese voice-and-register ledger.
+
 ---
 
 # 23. V1 → V2 claim transitions
@@ -840,6 +911,8 @@ China refuses commanded votes, but sophisticated media strategy still changes wh
 
 China grows into a leader while continuing to say that life without `先生` is difficult to imagine. That is not automatically pathological, but it is unresolved.
 
+*Narrowed 2026-11-15 (GKM-SAA-015, GKM-SAA-065; REVISE):* the concentration is a claim about China-owned tracks. D-CHINA attests a bounded refusal without relational cost (Dear 033 L344–L366), and other tracks give China a different producer (CHINA-C31). Refusal under risk and separation from a bonded producer remain unresolved. See §18.
+
 ## 24.5 Family love can pressure as well as support
 
 The grandfather’s demands are comic and affectionate but materially coercive.
@@ -856,6 +929,12 @@ China owns the mask, but still feels pressure to behave as an idealized office-h
 
 Prima Stella China is a track-scoped Dear outcome, not a result to overwrite all P3 fragments or other routes.
 
+**Produce counter-states and their invariants (2026-11-15, GKM-SAA-210; STRENGTHEN; new claim CHINA-C34; bears also on §17 and §18).** The P1–P3 fragments are not texture only. In P3 `adv_pstory_003_kcna_selection-normal-02.txt` China defines a `立派なアイドル` as one who keeps aiming higher (L15–L23). In P3 `final-failure-01` Sena wins (L8), and China's first response is to ask how to apologise to her supporters (L38–L40), before the Producer reveals that a documentary is still filming (L54). In P3 `selection-failure-01` the former remedial-class trio is eliminated together (L51), China apologises to her fans (L88), a narrator reports that the broadcast documentary made many people smile at their lovable defeat (L92–L98), and China refuses to give up (L109). In P2 `ending-normal-02` China asks the Producer to believe in her before a decisive audition (L29–L34), and after the P2 final-audition failure the Producer reads her ability to grieve a loss in earnest as growth (`after-audition-final-failure-01` L22–L39). In P1 `after-audition-final-normal-01` she holds the day's success as a dream that must be earned again tomorrow (L41–L71, choice 1). Across these result states the invariants are apology to supporters first, frustration read as growth and success held as provisional. All are C2 or C3 fragments and do not merge with D-CHINA. Whether the P3 documentary narration is voiced by Kanae is an audiovisual question routed to the Carbon queue (GKM-SAA-213).
+
+## 24.9 An authoritative appraisal of China's talent is also an interested one (2026-11-15, GKM-SAA-062)
+
+The headmaster's judgment that China's latent talent roughly equals Sena's, and later that China surpasses Sena as an entertainer, comes from Sena's grandfather in the middle of a rivalry with China's grandfather. It must not be converted into a claim about technique. See §4.
+
 ---
 
 # 25. Phase-3 provisional character model
@@ -871,6 +950,8 @@ Not deprivation, but **underdeveloped self-authorship** in a life where other pe
 
 ### Primary defense
 Self-deprecating accuracy that can become under-crediting; comic panic; deferential dependence; appealing to stronger others.
+
+*Qualified 2026-11-15 (GKM-SAA-061, GKM-SAA-209):* the governing deficit above holds together with a resolved early-childhood loneliness that China once framed as `わがまま` (§2, §19), and the `学園最下位` label could also serve as a refuge from comparison (§3, P1 choice branches).
 
 ### Mature competence
 Governed interdependence: identify resources, distinguish legitimate from abusive uses, recruit capable allies, accept reciprocal support, redistribute advantage, stand alone when the role requires direct accountability, and publicly answer for the total result.
@@ -889,6 +970,36 @@ Convert all support into proof she is fraudulent; or, conversely, let institutio
 
 ### Open developmental question
 Can China eventually say “top idol” in her own voice without either denying the network that built her or treating self-claim as arrogance?
+
+## Phase-4/5 integration pointers — 2026-11-15 (source-to-analysis audit)
+
+Owner decision 1 (2026-11-15, as amended) integrates event and support evidence into the body of the core (GKM-SAA-104, GKM-SAA-108). This table indexes where each item now sits. Cross-track Dear and Kanae Dear rows are included because they are this subject's Batch 2 items. Locators are A1 physical lines; “C4” marks modular event or support continuity. A dash in the CSL column means that no China row yet exists and the ledger editors receive the row from the audit's execution manifest.
+
+| Event or support object | A1 locator | What it adds | Owning reading section | Core section | CSL row |
+| --- | --- | --- | --- | --- | --- |
+| Event 002 (C4) | `adv_event_002_main-04.txt` L377–L387 | anxiety answered by steady lessons | E001–005 §4.5 | §3 | Phase 4 — Events 001–005, China |
+| Event 005 (C4) | `adv_event_005_main-02.txt` L180–L189, L311–L328 | headmaster's latent-talent appraisal; China entrusted to Sena; council invitation accepted | E001–005 §7.5 | §4, §18 | Phase 4 — Events 001–005, China |
+| Event 006 (C4) | `adv_event_006_main-01.txt` L331–L431; main-02 L39; main-05 L262–L318 | family property converted into council service | E006–012 §2.2, §2.6 | §20 | Phase 4 — Events 006–012, China |
+| Event 007 (C4) | `adv_event_007_main-02.txt` L37, L496; main-03 L81, L507–L536 | work through fear; advice to Temari | E006–012 §3.1, §3.3 | §20 | Phase 4 — Events 006–012, China |
+| Event 011 (C4) | `adv_event_011_main-04.txt` L556–L633 | operational co-authorship and negotiation | E006–012 §7.5 | §20 | Phase 4 — Events 006–012, China |
+| Event 014 (C4) | `adv_event_014_main-04.txt` L135–L169, L322 | chosen morale labour; “boss” of Class 1-2 | E013–020 §3.4 | §20 | Phase 4 — Events 013–020, China |
+| Event 015 (C4) | `adv_event_015_main-04.txt` L519–L638; main-05 L194–L198 | crisis leadership during an audio failure | E013–020 §4.4 | §20 | Phase 4 — Events 013–020, China |
+| Event 025 (C4) | `adv_event_025_main-01.txt` L120; main-02 L96, L209–L259; main-03 L16; main-04 L84 | next president; ownership of repair; declines help | E021+ §6.2 | §11 | Phase 4 — Events 021+, China |
+| Support 1-0008 (C4) | `adv_csprt-1-0008_01.txt` L65, L125; `_02` L29 | weakness without shame; dorm longing | Support Series 1 §10 | §3, §20 | Phase 5 — Support Series 1, China |
+| Support 2-0032 (C4) | `adv_csprt-2-0032_01.txt` L109; `_02` L77–L129 | Sena respects practised skill; effort as a leader's duty | Support Series 2 Part 026–050 §8 | §22 | Phase 5 — Support Series 2 Part 026–050, China and Sena |
+| Support 3-0015 (C4) | `adv_csprt-3-0015_03.txt` L48–L101 | Sena produces China in the support layer | Support Series 3 Part 001–025 §17 | §18 | — |
+| Support 3-0032 (C4) | `adv_csprt-3-0032_03.txt` L76–L121 | headmaster asks Sena's producing plan for China | Support Series 3 Part 026–050 §8 | §18 | — |
+| Support 3-0062 (C4) | `adv_csprt-3-0062_01.txt` L24, L83; `_03` L38, L54 | council mentoring by Tsubame; knows she is loved | Support Series 3 Part 051–075 §13 | §2, §11 | Phase 5 — Support Series 3 Part 051–075, China |
+| Support 3-0066 (C4) | `adv_csprt-3-0066_02.txt` L102–L108 | China calls Sena her producer | Support Series 3 Part 051–075 §17 | §18 | — |
+| Support 3-0075 (C4) | `adv_csprt-3-0075_02.txt` L60–L108 | childhood loneliness, now past; age-near family | Support Series 3 Part 051–075 §26 | §2 | Phase 5 — Support Series 3 Part 051–075, China |
+| Support 3-0088 (C4) | `adv_csprt-3-0088_03.txt` L53–L117 | internal Hiro model | Support Series 3 Part 076–102 §14 | §10 | Phase 5 closure — Support Series 3 Part 076–102, China |
+| Support 3-0115 (SL1.2, C4) | `adv_csprt-3-0115_02.txt` L45–L165 | China's plain register with Kanae | Kanae SL1.2 reading | §22 | — |
+| Support 3-0122 (SL1.1, C4; revision-86 routing) | `adv_csprt-3-0122_01.txt` L77–L182; `_02` L62–L165; `_03` L51–L162 | the bear and Kanae's companionship; reciprocal photographs; Kanae's supporter perspective; lifelong frame | Support revision-86 reading, family table and *Core and ledger integration* | §19 | — |
+| D-SENA 017, 019, 024 (C1 @ D-SENA) | `adv_dear_jsna_017.txt` L244–L275; `adv_dear_jsna_019.txt` L162–L187; `adv_dear_jsna_024.txt` L105 | Sena-produced China: television from day one; support doctrine; Kuramoto-funded songs | Sena core (host track) | §18 | — |
+| D-HIRO 027, 032, 033 (C1 @ D-HIRO) | `adv_dear_shro_027.txt` L222–L358; `adv_dear_shro_032.txt` L394; `adv_dear_shro_033.txt` L11, L139–L170 | fame beyond Sena; unlimited-budget song; Hiro named greatest rival | Hiro core (host track) | §18 | — |
+| Kanae Dear 001, 002, 005, 008, 009 (SL1.2) | `adv_dear_hkne_001.txt` L264–L282, L425; `_002` L466–L474; `_005` L389–L430; `_008` L54–L59; `_009` L548–L589 | non-command principle; petition identified; succession to Kanae; envy | Kanae SL1.2 reading | §16, §19, §22, SL1.2 supplement | Source Lock 1.2, China (H05 → Dear 001–010) |
+
+**Verification questions now answered in part (GKM-SAA-108(b)).** §27 Q1 (legitimate support against command): §6's narrowing of CHINA-C08 and Event 006. Q2 (ordinary audiences): Events 007 and 015 (§20). Q3 (redistribution): Event 006 (§20). Q4 (council competence): Event 025 and support 3-0062 (§11), at modular scale only. Q6 (care without a duty of repayment): supports 3-0062 and 3-0075 (§2), in part. Q7 (confidence without the Producer's certification): the cross-track producer states and Dear 033 (§18). Q10 (comparison with Hiro): Dear 019–020 and support 3-0088 (§10). The remaining questions stay open.
 
 ---
 
@@ -984,3 +1095,48 @@ That is stronger than “responsible dependence.”
 It is **accountable inheritance becoming relational legitimacy**.
 
 And it makes China one of Gakumas’s clearest challenges not to merit itself, but to the fantasy that merit can ever be perfectly separated from history, institutions, resources, relationships, and love.
+
+
+## Source Lock 1.1 supplement — 2026-11-12
+
+The claims below use revision 86 A1. The earlier sections document the Source Lock 1.0 reading. The companion [evidence matrix](GKM_CORE_06_KURAMOTO_CHINA_EVIDENCE_MATRIX.md#source-lock-11-supplement--2026-11-12) records the claim dispositions. The [source delta](../../../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv) resolves original filenames to archive paths and hashes. L indicates a physical A1 line. M indicates the ordinal of an A1 message command.
+
+### China sees a future for Kanae beyond helping her
+
+In the Kanae arc, Kanae refuses election funding and backstage influence in her exchange with the family and supplies practical help backstage. China wants Kanae to have a dream of her own and internally recognizes that Kanae has missed the point. After China's H.I.F. win, Kanae feels distance in the hall and China recognizes Kanae's work backstage. Kanae later seeks first-hand training and the Producer reacts to her name. `adv_dear_hkne_000-03-horizontal.txt` M001–006, M037–055, `adv_dear_hkne_000-04-horizontal.txt` M044–077 and `adv_dear_hkne_000-05-horizontal.txt` M028–049. [Kanae and China reading](GKM_KANAE_CHINA_DEAR_000_READING.md).
+
+China receives skilled help that can protect her independent achievement and recognizes that Kanae has needs and possibilities beyond the attendant role. China's concern and Kanae's wish to remain useful create a tension that survives their reunion. The exchange establishes Kanae's refusal in this scene. The full extent of family involvement, China's proposed next step and Kanae's idol status remain open.
+
+**Scope.** C1 within the Kanae horizontal sequence, compatible with the China-winning Dear outcome.
+
+**Claim disposition.** `CHINA-R86-C01` — STRENGTHEN `CHINA-C16` and ADD to core §19.
+
+### China distinguishes the champion's pin from the future office
+
+After winning, China wears the ordinary winter uniform with the title pin. The Producer confirms that pairing as a duty and says China's proposed procession is new to him. Students respond affectionately to China, and Tsubame stops the improvised procession. Kanae commissions a future uniform and China defers the redesign, explicitly calling herself the next president. `adv_cidol-kcna-3-018_01.txt` L154–218, `adv_cidol-kcna-3-018_02.txt` L150–193, L235–346 and `adv_cidol-kcna-3-018_03.txt` L190–235, L251–321. [Communication reading](../GKM_COMMU_REVISION_86_DEEP_READING.md).
+
+China treats both distinctions as work she must grow into. Her affection among students can support legitimacy, even as China tests what gravitas means to her and preserves the actual timing of the office transfer. The scene establishes a president-elect state and a stated plan for an image change. The uniform commission does not establish future use.
+
+**Scope.** C1 within China 018 after China's H.I.F. win and before the end of term.
+
+**Claim disposition.** `CHINA-R86-C02` — ADD to `CHINA-C19`.
+
+### China's result diverges from owl's planned learning model
+
+Owl asks China to do `これだけがんばる` within the plan so they can collect usable data. Later owl says China mastered few of the taught techniques, used those at a high level, and improved her singing beyond what owl expected. `adv_cidol-kcna-3-019_02.txt` L107–194 and `adv_cidol-kcna-3-019_03.txt` L143–229. [Communication reading](../GKM_COMMU_REVISION_86_DEEP_READING.md).
+
+China's disciplined trust in instruction permits individualized progress. The teacher's expectation of approaching a model gives way to a different outcome assessed on China's own work. Owl's feedback establishes the tutor's evaluation. Comparative performance remains an AV question.
+
+**Scope.** C1 within the `ガラクタロード` lesson sequence, C2 relative to the winter result.
+
+**Claim disposition.** `CHINA-R86-C03` — ADD to the incremental-learning account and STRENGTHEN `CHINA-C16`.
+
+## Source Lock 1.2 — transcript refresh, 2026-11-15
+
+### China makes room for Kanae’s own ambition
+
+China's consultation in Kanae Dear 000-05 is identified in Kanae Dear 001. She chooses an exam proposal mediated by the Producer because a direct order would become maid work. The Producer checks both household approval and Kanae's own decision. China describes the inherited service role as a choice, privately wants the Producer's attention, and makes Kanae her exception. Kanae needs to pass the test herself. Later China helps in the ways she can, including the admission ornament and food before the advancement assessment, and she invites Kanae to aim for Prima Stella. Kanae then requests help with fan-club work while promising to continue serving China. `adv_dear_hkne_001.txt` L26–50, L264–282, L344–350, L431–450, L474–583; `adv_dear_hkne_005.txt` L272–355; `adv_dear_hkne_009.txt` L34–89, L311–393, L548–642; `adv_dear_hkne_010.txt` L16–29 and L212–247.
+
+**Scope.** `CHINA-R88-C01` resolves the proposal and Kanae's locally documented student and idol status left open in `CHINA-R86-C01`. China is already Prima Stella and prospective president in the entering context. The compatible China-winning state supports China’s participation in Kanae’s development. The exact preceding China Produce route and effectiveness of the hoped-for professional rivalry stay open. [Kanae reading](../14_HIWATARI_KANAE/GKM_HIWATARI_KANAE_SOURCE_LOCK_12_READING.md).
+
+**One non-command principle (2026-11-15, GKM-SAA-102 and GKM-SAA-215; STRENGTHEN `CHINA-R88-C01` by linking it to `CHINA-C09` and `CHINA-C08`).** China's reason for not telling Kanae directly to try idolhood is that Kanae would obey a command and the dream would become maid work (`adv_dear_hkne_001.txt` L264–L282). This is the household form of her refusal in Dear 011 to have fans' votes commanded (`adv_dear_kcna_011.txt` L181–L241; §5): affection and dreams must not be produced by order. The principle has a history. In the SL1.1 horizontal sequence Kanae recalls that her resolve was fixed by China's household order, ruby `令《いいつけ》`, and China repeats her middle-school command `アイドル道を、共に駆けなさいっ！` (`adv_dear_hkne_000-04-horizontal.txt` L264–L268). China once ran her own idol path through an instruction to Kanae; at SL1.2 she declines to command Kanae's dream. The change is observation; reading it as China's learned application of the C09 principle to her own household is an inference. §16 and §22 record the succession that follows.

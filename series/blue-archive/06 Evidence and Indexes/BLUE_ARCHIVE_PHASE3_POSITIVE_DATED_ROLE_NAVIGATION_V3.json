@@ -1,0 +1,1994 @@
+{
+ "required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+ "exact_frozen_literal_navigation": {
+  "P3-A507": [
+   {
+    "story_id": "BA:event:80001:132",
+    "literal_header": "エリ",
+    "source_ref": 15,
+    "first_locator": "BA:event:80001:132:scene:001:u:0002",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A507",
+      "P3-F014"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:001",
+    "literal_header": "エリ",
+    "source_ref": 831,
+    "first_locator": "BA:event:849:001:scene:001:u:0001",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A507",
+      "P3-F014"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:003",
+    "literal_header": "エリ",
+    "source_ref": 833,
+    "first_locator": "BA:event:849:003:scene:002:u:0015",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A507",
+      "P3-F014"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:004",
+    "literal_header": "エリ",
+    "source_ref": 834,
+    "first_locator": "BA:event:849:004:scene:002:u:0003",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A507",
+      "P3-F014"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:005",
+    "literal_header": "エリ",
+    "source_ref": 835,
+    "first_locator": "BA:event:849:005:scene:001:u:0004",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A507",
+      "P3-F014"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:006",
+    "literal_header": "エリ",
+    "source_ref": 836,
+    "first_locator": "BA:event:849:006:scene:001:u:0018",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A507",
+      "P3-F014"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:007",
+    "literal_header": "エリ",
+    "source_ref": 837,
+    "first_locator": "BA:event:849:007:scene:001:u:0006",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A507",
+      "P3-F014"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:008",
+    "literal_header": "エリ",
+    "source_ref": 838,
+    "first_locator": "BA:event:849:008:scene:001:u:0012",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A507",
+      "P3-F014"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:009",
+    "literal_header": "エリ",
+    "source_ref": 839,
+    "first_locator": "BA:event:849:009:scene:001:u:0001",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A507",
+      "P3-F014"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:010",
+    "literal_header": "エリ",
+    "source_ref": 840,
+    "first_locator": "BA:event:849:010:scene:001:u:0002",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A507",
+      "P3-F014"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:011",
+    "literal_header": "エリ",
+    "source_ref": 841,
+    "first_locator": "BA:event:849:011:scene:001:u:0002",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A507",
+      "P3-F014"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:012",
+    "literal_header": "エリ",
+    "source_ref": 842,
+    "first_locator": "BA:event:849:012:scene:002:u:0009",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A507",
+      "P3-F014"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:013",
+    "literal_header": "エリ",
+    "source_ref": 843,
+    "first_locator": "BA:event:849:013:scene:001:u:0005",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A507",
+      "P3-F014"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:014",
+    "literal_header": "エリ",
+    "source_ref": 844,
+    "first_locator": "BA:event:849:014:scene:001:u:0010",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A507",
+      "P3-F014"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:006",
+    "literal_header": "エリ",
+    "source_ref": 850,
+    "first_locator": "BA:event:850:006:scene:002:u:0013",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A507",
+      "P3-F014"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:013",
+    "literal_header": "エリ",
+    "source_ref": 938,
+    "first_locator": "BA:event:856:013:scene:001:u:0015",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A507",
+      "P3-F014"
+     ]
+    }
+   }
+  ],
+  "P3-A508": [
+   {
+    "story_id": "BA:event:80001:133",
+    "literal_header": "カノエ",
+    "source_ref": 16,
+    "first_locator": "BA:event:80001:133:scene:001:u:0002",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A508",
+      "P3-F016"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:003",
+    "literal_header": "カノエ",
+    "source_ref": 833,
+    "first_locator": "BA:event:849:003:scene:002:u:0014",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A508",
+      "P3-F016"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:004",
+    "literal_header": "カノエ",
+    "source_ref": 834,
+    "first_locator": "BA:event:849:004:scene:002:u:0009",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A508",
+      "P3-F016"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:005",
+    "literal_header": "カノエ",
+    "source_ref": 835,
+    "first_locator": "BA:event:849:005:scene:001:u:0007",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A508",
+      "P3-F016"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:006",
+    "literal_header": "カノエ",
+    "source_ref": 836,
+    "first_locator": "BA:event:849:006:scene:001:u:0024",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A508",
+      "P3-F016"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:007",
+    "literal_header": "カノエ",
+    "source_ref": 837,
+    "first_locator": "BA:event:849:007:scene:001:u:0010",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A508",
+      "P3-F016"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:008",
+    "literal_header": "カノエ",
+    "source_ref": 838,
+    "first_locator": "BA:event:849:008:scene:001:u:0004",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A508",
+      "P3-F016"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:009",
+    "literal_header": "カノエ",
+    "source_ref": 839,
+    "first_locator": "BA:event:849:009:scene:001:u:0002",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A508",
+      "P3-F016"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:010",
+    "literal_header": "カノエ",
+    "source_ref": 840,
+    "first_locator": "BA:event:849:010:scene:001:u:0005",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A508",
+      "P3-F016"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:011",
+    "literal_header": "カノエ",
+    "source_ref": 841,
+    "first_locator": "BA:event:849:011:scene:001:u:0008",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A508",
+      "P3-F016"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:012",
+    "literal_header": "カノエ",
+    "source_ref": 842,
+    "first_locator": "BA:event:849:012:scene:002:u:0008",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A508",
+      "P3-F016"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:013",
+    "literal_header": "カノエ",
+    "source_ref": 843,
+    "first_locator": "BA:event:849:013:scene:001:u:0003",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A508",
+      "P3-F016"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:014",
+    "literal_header": "カノエ",
+    "source_ref": 844,
+    "first_locator": "BA:event:849:014:scene:001:u:0004",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A508",
+      "P3-F016"
+     ]
+    }
+   }
+  ],
+  "P3-A509": [
+   {
+    "story_id": "BA:event:80001:134",
+    "literal_header": "ミヨ",
+    "source_ref": 17,
+    "first_locator": "BA:event:80001:134:scene:002:u:0002",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A509",
+      "P3-F017"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:849:009",
+    "literal_header": "ミヨ",
+    "source_ref": 839,
+    "first_locator": "BA:event:849:009:scene:001:u:0042",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A509",
+      "P3-F017"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:001",
+    "literal_header": "ミヨ",
+    "source_ref": 845,
+    "first_locator": "BA:event:850:001:scene:001:u:0012",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A509",
+      "P3-F017"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:002",
+    "literal_header": "ミヨ",
+    "source_ref": 846,
+    "first_locator": "BA:event:850:002:scene:003:u:0013",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A509",
+      "P3-F017"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:003",
+    "literal_header": "ミヨ",
+    "source_ref": 847,
+    "first_locator": "BA:event:850:003:scene:001:u:0003",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A509",
+      "P3-F017"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:004",
+    "literal_header": "ミヨ",
+    "source_ref": 848,
+    "first_locator": "BA:event:850:004:scene:002:u:0087",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A509",
+      "P3-F017"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:005",
+    "literal_header": "ミヨ",
+    "source_ref": 849,
+    "first_locator": "BA:event:850:005:scene:001:u:0014",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A509",
+      "P3-F017"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:006",
+    "literal_header": "ミヨ",
+    "source_ref": 850,
+    "first_locator": "BA:event:850:006:scene:001:u:0007",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A509",
+      "P3-F017"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:007",
+    "literal_header": "ミヨ",
+    "source_ref": 851,
+    "first_locator": "BA:event:850:007:scene:001:u:0003",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A509",
+      "P3-F017"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:008",
+    "literal_header": "ミヨ",
+    "source_ref": 852,
+    "first_locator": "BA:event:850:008:scene:003:u:0015",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A509",
+      "P3-F017"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:009",
+    "literal_header": "ミヨ",
+    "source_ref": 853,
+    "first_locator": "BA:event:850:009:scene:001:u:0010",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A509",
+      "P3-F017"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:010",
+    "literal_header": "ミヨ",
+    "source_ref": 854,
+    "first_locator": "BA:event:850:010:scene:001:u:0006",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A509",
+      "P3-F017"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:011",
+    "literal_header": "ミヨ",
+    "source_ref": 855,
+    "first_locator": "BA:event:850:011:scene:003:u:0003",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A509",
+      "P3-F017"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:012",
+    "literal_header": "ミヨ",
+    "source_ref": 856,
+    "first_locator": "BA:event:850:012:scene:001:u:0006",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A509",
+      "P3-F017"
+     ]
+    }
+   }
+  ],
+  "P3-A510": [
+   {
+    "story_id": "BA:event:80001:135",
+    "literal_header": "フユ",
+    "source_ref": 18,
+    "first_locator": "BA:event:80001:135:scene:001:u:0002",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A510",
+      "P3-F018"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:002",
+    "literal_header": "フユ",
+    "source_ref": 846,
+    "first_locator": "BA:event:850:002:scene:003:u:0026",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A510",
+      "P3-F018"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:003",
+    "literal_header": "フユ",
+    "source_ref": 847,
+    "first_locator": "BA:event:850:003:scene:001:u:0007",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A510",
+      "P3-F018"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:004",
+    "literal_header": "フユ",
+    "source_ref": 848,
+    "first_locator": "BA:event:850:004:scene:002:u:0002",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A510",
+      "P3-F018"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:005",
+    "literal_header": "フユ",
+    "source_ref": 849,
+    "first_locator": "BA:event:850:005:scene:001:u:0013",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A510",
+      "P3-F018"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:006",
+    "literal_header": "フユ",
+    "source_ref": 850,
+    "first_locator": "BA:event:850:006:scene:001:u:0006",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A510",
+      "P3-F018"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:007",
+    "literal_header": "フユ",
+    "source_ref": 851,
+    "first_locator": "BA:event:850:007:scene:001:u:0001",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A510",
+      "P3-F018"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:008",
+    "literal_header": "フユ",
+    "source_ref": 852,
+    "first_locator": "BA:event:850:008:scene:003:u:0019",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A510",
+      "P3-F018"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:009",
+    "literal_header": "フユ",
+    "source_ref": 853,
+    "first_locator": "BA:event:850:009:scene:001:u:0002",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A510",
+      "P3-F018"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:010",
+    "literal_header": "フユ",
+    "source_ref": 854,
+    "first_locator": "BA:event:850:010:scene:001:u:0008",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A510",
+      "P3-F018"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:011",
+    "literal_header": "フユ",
+    "source_ref": 855,
+    "first_locator": "BA:event:850:011:scene:003:u:0029",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A510",
+      "P3-F018"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:012",
+    "literal_header": "フユ",
+    "source_ref": 856,
+    "first_locator": "BA:event:850:012:scene:001:u:0004",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A510",
+      "P3-F018"
+     ]
+    }
+   }
+  ],
+  "P3-A511": [
+   {
+    "story_id": "BA:event:80001:136",
+    "literal_header": "リツ",
+    "source_ref": 19,
+    "first_locator": "BA:event:80001:136:scene:001:u:0006",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A511",
+      "P3-F019"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:002",
+    "literal_header": "リツ",
+    "source_ref": 846,
+    "first_locator": "BA:event:850:002:scene:003:u:0072",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A511",
+      "P3-F019"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:003",
+    "literal_header": "リツ",
+    "source_ref": 847,
+    "first_locator": "BA:event:850:003:scene:001:u:0005",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A511",
+      "P3-F019"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:004",
+    "literal_header": "リツ",
+    "source_ref": 848,
+    "first_locator": "BA:event:850:004:scene:002:u:0091",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A511",
+      "P3-F019"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:005",
+    "literal_header": "リツ",
+    "source_ref": 849,
+    "first_locator": "BA:event:850:005:scene:001:u:0002",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A511",
+      "P3-F019"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:006",
+    "literal_header": "リツ",
+    "source_ref": 850,
+    "first_locator": "BA:event:850:006:scene:001:u:0010",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A511",
+      "P3-F019"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:007",
+    "literal_header": "リツ",
+    "source_ref": 851,
+    "first_locator": "BA:event:850:007:scene:001:u:0015",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A511",
+      "P3-F019"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:008",
+    "literal_header": "リツ",
+    "source_ref": 852,
+    "first_locator": "BA:event:850:008:scene:003:u:0017",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A511",
+      "P3-F019"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:010",
+    "literal_header": "リツ",
+    "source_ref": 854,
+    "first_locator": "BA:event:850:010:scene:001:u:0095",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A511",
+      "P3-F019"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:011",
+    "literal_header": "リツ",
+    "source_ref": 855,
+    "first_locator": "BA:event:850:011:scene:003:u:0039",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A511",
+      "P3-F019"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:850:012",
+    "literal_header": "リツ",
+    "source_ref": 856,
+    "first_locator": "BA:event:850:012:scene:001:u:0002",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "ART_COMMERCE",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A511",
+      "P3-F019"
+     ]
+    }
+   }
+  ],
+  "P3-A144": [
+   {
+    "story_id": "BA:event:810:028",
+    "literal_header": "サヤ",
+    "source_ref": 172,
+    "first_locator": "BA:event:810:028:scene:001:u:0003",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "NAMED",
+     "decision": "PENDING_ROOT_INDEPENDENT_PACKAGE_OR_OVERLAP_ADJUDICATION",
+     "candidate_retrieval": [
+      "P3-A144"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:mini:70005020",
+    "literal_header": "サヤ",
+    "source_ref": 1087,
+    "first_locator": "BA:mini:70005020:scene:002:u:0052",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "MINI",
+     "duty": "NAMED",
+     "decision": "PENDING_ROOT_INDEPENDENT_PACKAGE_OR_OVERLAP_ADJUDICATION",
+     "candidate_retrieval": [
+      "P3-A144"
+     ]
+    }
+   }
+  ],
+  "P3-A054": [
+   {
+    "story_id": "BA:event:818:005",
+    "literal_header": "シノン",
+    "source_ref": 345,
+    "first_locator": "BA:event:818:005:scene:001:u:0017",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "FESTIVAL",
+     "duty": "NAMED",
+     "decision": "PENDING_ROOT_INDEPENDENT_PACKAGE_OR_OVERLAP_ADJUDICATION",
+     "candidate_retrieval": [
+      "P3-A054"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:818:009",
+    "literal_header": "シノン",
+    "source_ref": 349,
+    "first_locator": "BA:event:818:009:scene:001:u:0009",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "FESTIVAL",
+     "duty": "NAMED",
+     "decision": "PENDING_ROOT_INDEPENDENT_PACKAGE_OR_OVERLAP_ADJUDICATION",
+     "candidate_retrieval": [
+      "P3-A054"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:846:005",
+    "literal_header": "シノン",
+    "source_ref": 777,
+    "first_locator": "BA:event:846:005:scene:001:u:0081",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_7",
+     "duty": "DUTY_3",
+     "decision": "PENDING_SEMANTIC_REVIEW",
+     "candidate_retrieval": [
+      "P3-A054"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:846:005",
+    "literal_header": "シノン",
+    "source_ref": 777,
+    "first_locator": "BA:event:846:005:scene:001:u:0081",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "RAIL",
+     "duty": "NAMED",
+     "decision": "PENDING_ROOT_INDEPENDENT_PACKAGE_OR_OVERLAP_ADJUDICATION",
+     "candidate_retrieval": [
+      "P3-A054"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:846:006",
+    "literal_header": "シノン",
+    "source_ref": 778,
+    "first_locator": "BA:event:846:006:scene:001:u:0001",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_7",
+     "duty": "DUTY_3",
+     "decision": "PENDING_SEMANTIC_REVIEW",
+     "candidate_retrieval": [
+      "P3-A054"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:846:006",
+    "literal_header": "シノン",
+    "source_ref": 778,
+    "first_locator": "BA:event:846:006:scene:001:u:0001",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "RAIL",
+     "duty": "NAMED",
+     "decision": "PENDING_ROOT_INDEPENDENT_PACKAGE_OR_OVERLAP_ADJUDICATION",
+     "candidate_retrieval": [
+      "P3-A054"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:846:008",
+    "literal_header": "シノン",
+    "source_ref": 780,
+    "first_locator": "BA:event:846:008:scene:001:u:0020",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_7",
+     "duty": "DUTY_3",
+     "decision": "PENDING_SEMANTIC_REVIEW",
+     "candidate_retrieval": [
+      "P3-A054"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:846:008",
+    "literal_header": "シノン",
+    "source_ref": 780,
+    "first_locator": "BA:event:846:008:scene:001:u:0020",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "RAIL",
+     "duty": "NAMED",
+     "decision": "PENDING_ROOT_INDEPENDENT_PACKAGE_OR_OVERLAP_ADJUDICATION",
+     "candidate_retrieval": [
+      "P3-A054"
+     ]
+    }
+   }
+  ],
+  "P3-A177": [
+   {
+    "story_id": "BA:event:837:002",
+    "literal_header": "コノカ",
+    "source_ref": 637,
+    "first_locator": "BA:event:837:002:scene:001:u:0036",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_6",
+     "duty": "DUTY_3",
+     "decision": "PENDING_SEMANTIC_REVIEW",
+     "candidate_retrieval": [
+      "P3-A177"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:837:002",
+    "literal_header": "コノカ",
+    "source_ref": 637,
+    "first_locator": "BA:event:837:002:scene:001:u:0036",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A177",
+      "P3-F013"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:837:014",
+    "literal_header": "コノカ",
+    "source_ref": 649,
+    "first_locator": "BA:event:837:014:scene:001:u:0023",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_6",
+     "duty": "DUTY_3",
+     "decision": "PENDING_SEMANTIC_REVIEW",
+     "candidate_retrieval": [
+      "P3-A177"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:837:014",
+    "literal_header": "コノカ",
+    "source_ref": 649,
+    "first_locator": "BA:event:837:014:scene:001:u:0023",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A177",
+      "P3-F013"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:837:019",
+    "literal_header": "コノカ",
+    "source_ref": 654,
+    "first_locator": "BA:event:837:019:scene:001:u:0003",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_6",
+     "duty": "DUTY_3",
+     "decision": "PENDING_SEMANTIC_REVIEW",
+     "candidate_retrieval": [
+      "P3-A177"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:837:019",
+    "literal_header": "コノカ",
+    "source_ref": 654,
+    "first_locator": "BA:event:837:019:scene:001:u:0003",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A177",
+      "P3-F013"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:001",
+    "literal_header": "コノカ",
+    "source_ref": 926,
+    "first_locator": "BA:event:856:001:scene:001:u:0005",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_8",
+     "duty": "DUTY_3",
+     "decision": "PENDING_SEMANTIC_REVIEW",
+     "candidate_retrieval": [
+      "P3-A177"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:001",
+    "literal_header": "コノカ",
+    "source_ref": 926,
+    "first_locator": "BA:event:856:001:scene:001:u:0005",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A177",
+      "P3-F013"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:002",
+    "literal_header": "コノカ",
+    "source_ref": 927,
+    "first_locator": "BA:event:856:002:scene:001:u:0001",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_8",
+     "duty": "DUTY_3",
+     "decision": "PENDING_SEMANTIC_REVIEW",
+     "candidate_retrieval": [
+      "P3-A177"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:002",
+    "literal_header": "コノカ",
+    "source_ref": 927,
+    "first_locator": "BA:event:856:002:scene:001:u:0001",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A177",
+      "P3-F013"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:003",
+    "literal_header": "コノカ",
+    "source_ref": 928,
+    "first_locator": "BA:event:856:003:scene:001:u:0006",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_8",
+     "duty": "DUTY_3",
+     "decision": "PENDING_SEMANTIC_REVIEW",
+     "candidate_retrieval": [
+      "P3-A177"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:003",
+    "literal_header": "コノカ",
+    "source_ref": 928,
+    "first_locator": "BA:event:856:003:scene:001:u:0006",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A177",
+      "P3-F013"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:004",
+    "literal_header": "コノカ",
+    "source_ref": 929,
+    "first_locator": "BA:event:856:004:scene:001:u:0001",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_8",
+     "duty": "DUTY_3",
+     "decision": "PENDING_SEMANTIC_REVIEW",
+     "candidate_retrieval": [
+      "P3-A177"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:004",
+    "literal_header": "コノカ",
+    "source_ref": 929,
+    "first_locator": "BA:event:856:004:scene:001:u:0001",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A177",
+      "P3-F013"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:005",
+    "literal_header": "コノカ",
+    "source_ref": 930,
+    "first_locator": "BA:event:856:005:scene:001:u:0001",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_8",
+     "duty": "DUTY_3",
+     "decision": "PENDING_SEMANTIC_REVIEW",
+     "candidate_retrieval": [
+      "P3-A177"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:005",
+    "literal_header": "コノカ",
+    "source_ref": 930,
+    "first_locator": "BA:event:856:005:scene:001:u:0001",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A177",
+      "P3-F013"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:006",
+    "literal_header": "コノカ",
+    "source_ref": 931,
+    "first_locator": "BA:event:856:006:scene:001:u:0006",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_8",
+     "duty": "DUTY_3",
+     "decision": "PENDING_SEMANTIC_REVIEW",
+     "candidate_retrieval": [
+      "P3-A177"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:006",
+    "literal_header": "コノカ",
+    "source_ref": 931,
+    "first_locator": "BA:event:856:006:scene:001:u:0006",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A177",
+      "P3-F013"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:007",
+    "literal_header": "コノカ",
+    "source_ref": 932,
+    "first_locator": "BA:event:856:007:scene:001:u:0003",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_8",
+     "duty": "DUTY_3",
+     "decision": "PENDING_SEMANTIC_REVIEW",
+     "candidate_retrieval": [
+      "P3-A177"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:007",
+    "literal_header": "コノカ",
+    "source_ref": 932,
+    "first_locator": "BA:event:856:007:scene:001:u:0003",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A177",
+      "P3-F013"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:008",
+    "literal_header": "コノカ",
+    "source_ref": 933,
+    "first_locator": "BA:event:856:008:scene:001:u:0004",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_8",
+     "duty": "DUTY_3",
+     "decision": "PENDING_SEMANTIC_REVIEW",
+     "candidate_retrieval": [
+      "P3-A177"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:008",
+    "literal_header": "コノカ",
+    "source_ref": 933,
+    "first_locator": "BA:event:856:008:scene:001:u:0004",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A177",
+      "P3-F013"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:009",
+    "literal_header": "コノカ",
+    "source_ref": 934,
+    "first_locator": "BA:event:856:009:scene:001:u:0008",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_8",
+     "duty": "DUTY_3",
+     "decision": "PENDING_SEMANTIC_REVIEW",
+     "candidate_retrieval": [
+      "P3-A177"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:009",
+    "literal_header": "コノカ",
+    "source_ref": 934,
+    "first_locator": "BA:event:856:009:scene:001:u:0008",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A177",
+      "P3-F013"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:010",
+    "literal_header": "コノカ",
+    "source_ref": 935,
+    "first_locator": "BA:event:856:010:scene:001:u:0008",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_8",
+     "duty": "DUTY_3",
+     "decision": "PENDING_SEMANTIC_REVIEW",
+     "candidate_retrieval": [
+      "P3-A177"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:010",
+    "literal_header": "コノカ",
+    "source_ref": 935,
+    "first_locator": "BA:event:856:010:scene:001:u:0008",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A177",
+      "P3-F013"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:011",
+    "literal_header": "コノカ",
+    "source_ref": 936,
+    "first_locator": "BA:event:856:011:scene:001:u:0002",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_8",
+     "duty": "DUTY_3",
+     "decision": "PENDING_SEMANTIC_REVIEW",
+     "candidate_retrieval": [
+      "P3-A177"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:011",
+    "literal_header": "コノカ",
+    "source_ref": 936,
+    "first_locator": "BA:event:856:011:scene:001:u:0002",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A177",
+      "P3-F013"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:012",
+    "literal_header": "コノカ",
+    "source_ref": 937,
+    "first_locator": "BA:event:856:012:scene:001:u:0001",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_8",
+     "duty": "DUTY_3",
+     "decision": "PENDING_SEMANTIC_REVIEW",
+     "candidate_retrieval": [
+      "P3-A177"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:012",
+    "literal_header": "コノカ",
+    "source_ref": 937,
+    "first_locator": "BA:event:856:012:scene:001:u:0001",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A177",
+      "P3-F013"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:013",
+    "literal_header": "コノカ",
+    "source_ref": 938,
+    "first_locator": "BA:event:856:013:scene:001:u:0032",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_8",
+     "duty": "DUTY_3",
+     "decision": "PENDING_SEMANTIC_REVIEW",
+     "candidate_retrieval": [
+      "P3-A177"
+     ]
+    }
+   },
+   {
+    "story_id": "BA:event:856:013",
+    "literal_header": "コノカ",
+    "source_ref": 938,
+    "first_locator": "BA:event:856:013:scene:001:u:0032",
+    "role_proposal": {
+     "lane": "RESIDUAL26",
+     "input_ref": 15,
+     "home": "GIFTS",
+     "duty": "WITHIN",
+     "decision": "ELIGIBLE_INDEPENDENT_SCOPED_CHARACTER_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A177",
+      "P3-F013"
+     ]
+    }
+   }
+  ],
+  "P3-A396": [
+   {
+    "story_id": "BA:group:1901",
+    "literal_header": "温泉部の部員A",
+    "source_ref": 1033,
+    "first_locator": "BA:group:1901:scene:001:u:0013",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_3",
+     "duty": "DUTY_5",
+     "decision": "INCLUDED_IN_NAMED_ENSEMBLE_OR_ROLE_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A396"
+     ]
+    }
+   }
+  ],
+  "P3-A397": [
+   {
+    "story_id": "BA:group:1901",
+    "literal_header": "温泉部の部員B",
+    "source_ref": 1033,
+    "first_locator": "BA:group:1901:scene:001:u:0014",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_3",
+     "duty": "DUTY_5",
+     "decision": "INCLUDED_IN_NAMED_ENSEMBLE_OR_ROLE_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A397"
+     ]
+    }
+   }
+  ],
+  "P3-A398": [
+   {
+    "story_id": "BA:group:1901",
+    "literal_header": "温泉部の部員C",
+    "source_ref": 1033,
+    "first_locator": "BA:group:1901:scene:001:u:0015",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_3",
+     "duty": "DUTY_5",
+     "decision": "INCLUDED_IN_NAMED_ENSEMBLE_OR_ROLE_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A398"
+     ]
+    }
+   }
+  ],
+  "P3-A399": [
+   {
+    "story_id": "BA:group:1901",
+    "literal_header": "風紀委員",
+    "source_ref": 1033,
+    "first_locator": "BA:group:1901:scene:001:u:0033",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_3",
+     "duty": "DUTY_5",
+     "decision": "INCLUDED_IN_NAMED_ENSEMBLE_OR_ROLE_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A399"
+     ]
+    }
+   }
+  ],
+  "P3-A402": [
+   {
+    "story_id": "BA:group:2201",
+    "literal_header": "トリニティの女子生徒A",
+    "source_ref": 1039,
+    "first_locator": "BA:group:2201:scene:001:u:0002",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_5",
+     "duty": "DUTY_5",
+     "decision": "INCLUDED_IN_NAMED_ENSEMBLE_OR_ROLE_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A402"
+     ]
+    }
+   }
+  ],
+  "P3-A403": [
+   {
+    "story_id": "BA:group:2201",
+    "literal_header": "トリニティの女子生徒B",
+    "source_ref": 1039,
+    "first_locator": "BA:group:2201:scene:001:u:0003",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_5",
+     "duty": "DUTY_5",
+     "decision": "INCLUDED_IN_NAMED_ENSEMBLE_OR_ROLE_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A403"
+     ]
+    }
+   }
+  ],
+  "P3-A404": [
+   {
+    "story_id": "BA:group:2201",
+    "literal_header": "司会",
+    "source_ref": 1039,
+    "first_locator": "BA:group:2201:scene:001:u:0045",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_5",
+     "duty": "DUTY_5",
+     "decision": "INCLUDED_IN_NAMED_ENSEMBLE_OR_ROLE_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A404"
+     ]
+    }
+   }
+  ],
+  "P3-A450": [
+   {
+    "story_id": "BA:group:3501",
+    "literal_header": "温泉部の部員A",
+    "source_ref": 1070,
+    "first_locator": "BA:group:3501:scene:001:u:0005",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_4",
+     "duty": "DUTY_5",
+     "decision": "INCLUDED_IN_NAMED_ENSEMBLE_OR_ROLE_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A450"
+     ]
+    }
+   }
+  ],
+  "P3-A451": [
+   {
+    "story_id": "BA:group:3501",
+    "literal_header": "温泉部の部員B",
+    "source_ref": 1070,
+    "first_locator": "BA:group:3501:scene:001:u:0006",
+    "role_proposal": {
+     "lane": "GEHENNA",
+     "input_ref": 8,
+     "home": "HOME_4",
+     "duty": "DUTY_5",
+     "decision": "INCLUDED_IN_NAMED_ENSEMBLE_OR_ROLE_PACKAGE",
+     "candidate_retrieval": [
+      "P3-A451"
+     ]
+    }
+   }
+  ]
+ },
+ "qualification": "117 exact existing source-local role projections recover17 additional dated navigation links; source headers are retrieval only, no identity join, new primary reading or semantic completion."
+}

@@ -47,6 +47,8 @@ do_not_use_as_current_authority: false
 
 Hawks/Tokoyami reciprocity is temporally split: Tokoyami arrives at V27:p179; extraction, accusation and voiced belief belong to V28:p060–077 (p062 portrait excluded). Preserve the mentorship relation while excluding received rescue from a V27 freeze. In the Big Three sequence, V36:p170–171 distinguishes Mirio's spoken apology from internal reconsideration, p173–179 supplies coordination and p181 Tamaki's changed reception of belief; the broad battle interval excludes author matter including p180. V42:p149,p151,p153 adds adult Tamaki's care and correctable social interpretation. Shoto's food question and Toya's apology at V42:p062–064 establish one directed movement, not universal family reconciliation; Ochako/Midoriya's p180–183 approach does not establish marriage or an unshown relationship history.
 
+Bakugo's V33 repair of the Midoriya relation begins with the given-name address `出久` (V33:p071) before `今まで ごめん` (p072). At p159 he corrects himself from `デ…` to `いずく` even when Midoriya says `デク` is fine. The given name recurs at V36:p186, p189 and V40:p192 beside continued `デク` (V42:p141, p156): an effortful, relation-specific choice, not a one-way switch (SR11).
+
 These are current admissibility rules for the preserved cumulative history. Exact hashes, inspection ranges and inherited/new-review distinctions are in the [source-reverification audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md).
 
 
@@ -9373,6 +9375,9 @@ Explicit friend-language and praise deepen the relationship beyond employer/tech
 ## V33 - reciprocal rescue and negotiated reintegration
 - **Midoriya <-> Class 1-A:** peers reject Midoriya's authority to remove them permanently from his risk set; distributed pursuit/relay makes shared agency operational, not rhetorical.
 - **Midoriya <-> Bakugo:** Bakugo names his insecurity and past bullying, says `今まで ごめん`, makes no forgiveness demand, and physically catches Midoriya after collapse. Post-repair register remains abrasive rather than generically softened.
+
+> **Current correction:** the apology is addressed: Bakugo says `出久` at V33:p071 before `今まで ごめん` at p072. At p159 he corrects `デ…` to `いずく` and refuses Midoriya's offer to keep `デク` (SR11).
+
 - **Midoriya <-> Iida:** Iida's receiving hand and `同じ意志で 同じ歩調で` define solidarity as shared direction/pace; `余計なお世話` is turned back on Midoriya's self-exemption.
 - **Midoriya <-> Uraraka:** Uraraka takes public responsibility for bringing him back and argues for his rest/humanity under crowd hostility without promising zero risk.
 - **Midoriya <-> All Might:** both recognize the failed separation; repair proceeds through changed behavior and resumed support rather than a demand for absolution.
@@ -9456,6 +9461,8 @@ Explicit friend-language and praise deepen the relationship beyond employer/tech
 - Shigaraki weaponizes the relationship by treating Bakugo as a means to psychologically damage Midoriya (`V36:p147-167`).
 - Bakugo's own internal comparison has changed: `俺まだ おまえに追いつけるかな 出久` (`V36:p189`) preserves competition while acknowledging Midoriya's lead.
 - This is a major longitudinal transition from rivalry requiring superiority toward rivalry compatible with recognition, distributed help and self-directed growth.
+
+> **Current correction:** V36:p186 adds a spoken `出久`. At p189 the monologue places `出久` before `俺まだ おまえに追いつけるかな`. These continue an address first located at V33:p071, not a shift that begins here (SR11).
 
 ## Bakugo Katsuki <-> All Might
 - `V36:p191-197`: the All Might card and Bakugo's remembered desire for an autograph expose a quiet fan/child relation beneath his public victory identification. The object remains beside him at the catastrophic endpoint.

@@ -1,0 +1,608 @@
+{
+  "schema": "KONOSUBA_FD_WHOLE_SUPPLIED_EDITION_SAME_ROOT_ACCEPTANCE_V1",
+  "source_id": "FD",
+  "status": "ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "accepted_utc": "2026-10-18T22:53:49.333509+00:00",
+  "native_identity": {
+    "native_filename": "Konosuba - Spin-off - Fantastic Days.epub",
+    "native_bytes": 5358777,
+    "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+    "OPF_member": "item/standard.opf",
+    "OPF_sha256": "67de7ff19da5491fbb241b5899ead202382ddc09e9a2fc2bc5ec42a8d403d750"
+  },
+  "actual_source_and_reading_receipt": {
+    "schema": "KONOSUBA_FD_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+    "source_id": "FD",
+    "accepted_utc": "2026-10-18T22:53:49.333509+00:00",
+    "native_filename": "Konosuba - Spin-off - Fantastic Days.epub",
+    "native_bytes": 5358777,
+    "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+    "OPF_member": "item/standard.opf",
+    "OPF_sha256": "67de7ff19da5491fbb241b5899ead202382ddc09e9a2fc2bc5ec42a8d403d750",
+    "language": [
+      "ja"
+    ],
+    "colophon": "この素晴らしい世界に祝福を！ ファンタスティックデイズ. Electronic2022-03-01/ver001 and underlyingprintfirstedition2022-03-01;copyrightHirukuma/Mishima/Akatsuki2022andSumzap,with2019filmcommitteecreditasprovenance. 原作暁なつめ;著昼熊;illustration三嶋くろね;cooperationSumzap;design百足屋ユウコ＋松浦リョウスケ（ムシカゴグラフィクス）;KADOKAWA/青柳昌行.",
+    "admission_sha256": "7dde511db60e6f8db5d1b20a8dbe6acda7c9deb8a3384d5d3b2bba53475dafef",
+    "admission_utc": "2026-10-18T21:55:38.486618+00:00",
+    "preceding_full_gate_source": "e3289990f823c0fe9027d7c940b1456590361094",
+    "preceding_gate_sha256": "afebe8ac1dd0444050cd5c1d50d08f1ec446f4cad1168b9aa422905798756852",
+    "preceding_fresh_reload_sha256": "cb5879500329bb64d45bd829830fe46810729c01c6a62300f1a905a9432e0ec3",
+    "complete_uncoded_seal_sha256": "e5ba652026607222b569ff504ce7c5b62a8972ce7bbfa1afe91fff61ce725be5",
+    "complete_uncoded_seal_utc": "2026-10-18T22:35:15.015450+00:00",
+    "actual_reading": {
+      "all_textual_components": 25,
+      "all_native_P_slots": 3707,
+      "principal_P_slots": 3645,
+      "other_P_slots": 62,
+      "separate_bonus_narrative": false,
+      "bonus_P_slots": 0,
+      "nonfiction_P_slots": 62,
+      "individually_identified_bonus_narrative_groups": [],
+      "individually_identified_narrative_image_groups": [],
+      "individually_identified_embedded_narrative_groups": [
+        {
+          "id": "FD-LIA-QUOTED-PRIOR-LIFE-AND-AMNESIA-ACCOUNT",
+          "native_units": [
+            "FD-U017"
+          ],
+          "start_P": 68,
+          "end_P": 126,
+          "scope": "Quoted autobiographical account toK/Aq within continuousKfirst-person narration, notanindependentnarratorswitch."
+        }
+      ],
+      "individually_identified_image_only_nonfiction_prose_groups": [
+        {
+          "id": "FD-SEVEN-PROFILES",
+          "component_id": "FD-U003",
+          "image_id": "FD-IMG007",
+          "scope": "Completevisuallyreadprofiles;noextraenactedscene;コン次郎correctedbeforeseal."
+        },
+        {
+          "id": "FD-WRAPAROUND-CREATOR-BIOS-AND-SYNOPSIS",
+          "component_id": "FD-U021",
+          "image_id": "FD-IMG004",
+          "scope": "Fullflapbios/creatorroles/design/backsynopsisreadasnonfiction, notextrabonusfiction."
+        }
+      ],
+      "integral_image_only_prose_pages": 0,
+      "all_native_images_actually_viewed": 15,
+      "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+      "all_native_local_and_archive_text_image_hash_joins_reverified": 40,
+      "fresh_native_ZIP_CRC": "PASS",
+      "image_individual_scopes_control": true
+    },
+    "source_first_sealed_pins": [
+      {
+        "file": "NATIVE_ADMISSION.json",
+        "bytes": 23449,
+        "sha256": "7dde511db60e6f8db5d1b20a8dbe6acda7c9deb8a3384d5d3b2bba53475dafef"
+      },
+      {
+        "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+        "bytes": 150789,
+        "sha256": "2f874635c4d5f4944d67d508282ea6dcb485dc0b8dd308992c16e1a03c6f1c1a"
+      },
+      {
+        "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+        "bytes": 184126,
+        "sha256": "280ac3f260f78a39e6b6d7b9286cecd3eeca9ae0a5bef7d2085a51afcf239f6a"
+      },
+      {
+        "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+        "bytes": 12169,
+        "sha256": "61341f1b4985805f4759cc6522c7bdf14144c9bddd3fc3a9c7c101d82383d093"
+      },
+      {
+        "file": "UNCODED_IMAGE_SCOPE_CORRECTIONS.jsonl",
+        "bytes": 1063,
+        "sha256": "d2d66a759d78828e03c34b4ffadfabf8ea4f19caaeaf7e891902c5fffb3bc127"
+      }
+    ],
+    "formal_coverage": {
+      "full_responsibilities": 17,
+      "selected_premises_not_census": 92,
+      "native_verified_short_form_context_witnesses": 177,
+      "local_unchanged_question_assessments": 31,
+      "append_only_decisions_across_ten_ledgers": 27,
+      "current_precision_qualifications": 77
+    },
+    "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+    "no_independent_second_full_pass_native_human_audio_claim": true,
+    "source_first_originals_remain_exact": true,
+    "original_four_scores_and_14_future_fields_unchanged": true,
+    "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING",
+    "midread_precision_context": "All177originalshortformsexactnativejoins, individualcurrentwarrants; pre-sealprofiletranscriptioncorrectionpreservesoriginal. Actualrefusals, flawedwork, received/unreceivedcue, priorguard, resource/fees, nativeanomaliesandlaterqualifiedresultseachretainexplicitlimits."
+  },
+  "current_root_check": "Samecontinuinginformedrootauthored/received17substantiveresponsibilities,92boundedcomicpremises,177native-joinedindividualvoicecontexts,31principal/8partyexact-contractcomparisons,4typedchecks,27qualifiedten-ledgerdecisionsand77precisionfindings;actualall25text/15imagesprecedeformalassignment. Noindependent/nativehuman/audio/pristineblindness/newscoreclaim. OriginalmainR1andfrozencontrolsremainexact.",
+  "current_qualifications": [
+    {
+      "id": "Q01",
+      "qualification": "All25 textual units/3707P and15 images were actually received before coding; principal9bodies3645P, nonfiction62P, no distinct supplied bonus fiction.",
+      "source": "Complete seal;native inventory"
+    },
+    {
+      "id": "Q02",
+      "qualification": "Hirukuma authored this game-Part-One novelization, expressly cutting and expanding its dialogue/story. Sumzap game provenance and Akatsuki original creator are distinct roles.",
+      "source": "U020P0004–0015;U022"
+    },
+    {
+      "id": "Q03",
+      "qualification": "Electronic issue and print first edition both2022-03-01/ver001; additional2019film copyright is provenance, not a reading receipt for the film.",
+      "source": "U022P0005–0011"
+    },
+    {
+      "id": "Q04",
+      "qualification": "All main narration is K, including private motive and retrospective summaries. Quoted Lia personal history does not become anonymous omniscient narration.",
+      "source": "U011–019;U017P0068–0126"
+    },
+    {
+      "id": "Q05",
+      "qualification": "Publication order does not fix a MAINvolume slice. Use only explicit source-local spring/tour/three-day/several-day sequence and shared-history bounds.",
+      "source": "U012P0017–0022;U015P0007;U017P0006"
+    },
+    {
+      "id": "Q06",
+      "qualification": "D initiates driver protection before K follows; K’s possible reward is a real motive rival rather than a denial of actual help.",
+      "source": "U012P0040–0054"
+    },
+    {
+      "id": "Q07",
+      "qualification": "Cart veto precedes cast/destruction. Full friendly retreat is unshown; noble cargo value is learned after destruction and cannot remove the already known constraint.",
+      "source": "U012P0073–0103"
+    },
+    {
+      "id": "Q08",
+      "qualification": "The450million liability, later570million total and then approximate800million total are stated at different times. No exact unshown allocation or payment inferred.",
+      "source": "U012P0103;U013P0592;U018P0065"
+    },
+    {
+      "id": "Q09",
+      "qualification": "Lia’s spear-tournament record is reported; it is not a tournament newly witnessed in this book.",
+      "source": "U012P0187;reported recruitment record"
+    },
+    {
+      "id": "Q10",
+      "qualification": "K’s acquisition of an unsolicited gift is not theft or an intimate act; later actual head strike remains harm.",
+      "source": "U012P0208–0241"
+    },
+    {
+      "id": "Q11",
+      "qualification": "Actual work and care can coexist with the concealed cart connection, false expertise and money motive.",
+      "source": "U012P0247–0264;U013P0153–0155/0189–0190"
+    },
+    {
+      "id": "Q12",
+      "qualification": "Aq’s beauty/goddess claim questioned by Lia is not automatically an explicit divinity denial. The judge’s later setting claim is explicit denial.",
+      "source": "U012P0378–0383;U014P0317–0323"
+    },
+    {
+      "id": "Q13",
+      "qualification": "K owns TrapSense but forgot to use it. M’s no-look request and K’s unwanted look/delayed rescue remain real. Exact release provider/procedure is unshown.",
+      "source": "U012P0334–0366"
+    },
+    {
+      "id": "Q14",
+      "qualification": "The first Cielo punch occurs on impending handshake, before explicit completed contact; the later repeated K touch is actually performed after known warning.",
+      "source": "U012P0393–0404/0475–0480"
+    },
+    {
+      "id": "Q15",
+      "qualification": "K has an explicit feasible no-contact alternative at the repeated-touch event, and later twice actually restrains himself. Neither half cancels the other.",
+      "source": "U012P0475–0480;U014P0261;U018P0078"
+    },
+    {
+      "id": "Q16",
+      "qualification": "Raw-stone profits are actually shared later; do not leave the initial unknown sale permanently unknown after native update, or invent its exact price/time.",
+      "source": "U012P0410–0415/0488"
+    },
+    {
+      "id": "Q17",
+      "qualification": "Erika’s parents goal is initially another’s reported belief, later her own statement. No actual parental motive, location or reunion is verified.",
+      "source": "U012P0462;U014P0427"
+    },
+    {
+      "id": "Q18",
+      "qualification": "Cielo refuses entry before K intrudes; Lia’s later welcome is specific and does not backdate permission.",
+      "source": "U013P0059–0068"
+    },
+    {
+      "id": "Q19",
+      "qualification": "Original image profile transcriptionゴン次郎 was the root reader’s error. Fresh complete view confirmsコン次郎; additive pre-seal correction preserves original.",
+      "source": "IMG007;pre-seal correction"
+    },
+    {
+      "id": "Q20",
+      "qualification": "ポン太さん andコン次郎 are not proven the same plush; the room explicitly contains many. The fox is not the magical reincarnation gift.",
+      "source": "U013P0094–0097;U015P0302–0309;U017P0317–0323"
+    },
+    {
+      "id": "Q21",
+      "qualification": "Magic music includes human melody input and a tool’s arrangement. Only Lia uses it; reincarnation origin and barrier power are learned later.",
+      "source": "U013P0116–0121;U017P0321/0415–0421"
+    },
+    {
+      "id": "Q22",
+      "qualification": "Producer permission is actually asked and granted by all three, while false training and concealed guilt limit what they know.",
+      "source": "U013P0184–0197"
+    },
+    {
+      "id": "Q23",
+      "qualification": "The Crimson display is rehearsed before performance; K infers Yun and Arue are the lightning/Explosion casters rather than directly confirming each voice.",
+      "source": "U013P0256–0267"
+    },
+    {
+      "id": "Q24",
+      "qualification": "D refuses hiding a faith emblem yet actually helps queue/merchandise. K’s later private guard assignment was not received and adopted by her.",
+      "source": "U013P0288–0316/0346"
+    },
+    {
+      "id": "Q25",
+      "qualification": "The child hands an enrollment form and K stops signing. Earlier favor, apparent poverty and fan sincerity are not all verified; no conversion is completed.",
+      "source": "U013P0329–0342"
+    },
+    {
+      "id": "Q26",
+      "qualification": "Fifty gloves correct K’s five-layer guess. Later gloved handshakes work; neither phobia cure nor bare-skin consent follows.",
+      "source": "U013P0352–0356/0412–0428"
+    },
+    {
+      "id": "Q27",
+      "qualification": "K’s upbringing-to-fear causation is his inference, not exclusive objective explanation or a clinical conclusion.",
+      "source": "U013P0380–0385"
+    },
+    {
+      "id": "Q28",
+      "qualification": "A harasser physically rejects K’s attempted intervention and forces refused bare contact before Cielo’s actual defense. Monster identity does not erase refusal.",
+      "source": "U013P0423–0459"
+    },
+    {
+      "id": "Q29",
+      "qualification": "K deliberately pushes uninformed Cielo into contact to provoke a strike, then chooses not to pursue the disabled fleeing troll. No completed kill.",
+      "source": "U013P0469–0482"
+    },
+    {
+      "id": "Q30",
+      "qualification": "Real first-show success and an actual later employment offer coexist with theatre collapse/refunds/unsold stock. Formal contract is only promised.",
+      "source": "U013P0494–0522"
+    },
+    {
+      "id": "Q31",
+      "qualification": "M’s pet excuse is an exit claim, not proof actual pet neglect; apology and staged forgiveness do not establish repaired trust.",
+      "source": "U013P0559–0588"
+    },
+    {
+      "id": "Q32",
+      "qualification": "Outsourced production is real but overdue. Wiz’s sleepless labor and diet hopes remain material costs, not proofs future meals delivered.",
+      "source": "U014P0026–0032;U019P0066–0068"
+    },
+    {
+      "id": "Q33",
+      "qualification": "Daniel is a former army member/executive candidate expelled over idol obsession, not a newly confirmed active executive. Wiz explicitly does not know Charlie.",
+      "source": "U014P0107/0116–0137"
+    },
+    {
+      "id": "Q34",
+      "qualification": "駄女神 retains goddess category. Aq’s actual art follows explicit judge-setting dismissal, but stage success does not logically prove divinity to judges.",
+      "source": "U014P0161/0317–0323"
+    },
+    {
+      "id": "Q35",
+      "qualification": "D’s imagined captive abuse is fantasy, not an actual event. Her own overheating is actual and H2-scoped.",
+      "source": "U015P0014–0017"
+    },
+    {
+      "id": "Q36",
+      "qualification": "Actual extensive theatre cleaning and strategic apology win real forgiveness; K still conceals financial motive, then actually withholds Cielo contact.",
+      "source": "U014P0234–0264"
+    },
+    {
+      "id": "Q37",
+      "qualification": "Aq-created name exposes D’s real name without approval; D protests despite accepted contest participation. NativeP374天使 variant does not prove a formal rename.",
+      "source": "U014P0294–0304/0374"
+    },
+    {
+      "id": "Q38",
+      "qualification": "M’s quiz art defense begins an actual chant but the crowd disarms her before a cast; Erika misreads the crowd as fandom.",
+      "source": "U014P0402–0412"
+    },
+    {
+      "id": "Q39",
+      "qualification": "Old party genuinely rejoices for the qualifying trio after its own defeat; this is not national victory or an artifact of shared winning only.",
+      "source": "U014P0417–0459"
+    },
+    {
+      "id": "Q40",
+      "qualification": "Outside evacuation and lure are narrated BEFORE Explosion, not inferred afterward from survival. Daniel survives it; familiar casting does not guarantee killing.",
+      "source": "U014P0545–0569"
+    },
+    {
+      "id": "Q41",
+      "qualification": "Aq’s attempted GodBlow is interrupted by Bind. Only Lia and Aq are abducted; Cielo and Erika escape the rope. Both captives resist.",
+      "source": "U014P0587–0620"
+    },
+    {
+      "id": "Q42",
+      "qualification": "Three-day bathing does not prove no rescue effort: Chris actually confirms K commissioned finding BOTH captives. Her castle map does not include interior layout.",
+      "source": "U015P0007–0032/0121"
+    },
+    {
+      "id": "Q43",
+      "qualification": "Treasure search was conditionally agreed after rescue; Chris starts before a new reply, K accepts for money, and K’s packed loot is later LOST in the flood.",
+      "source": "U015P0106–0109/0279–0293;U016P0056"
+    },
+    {
+      "id": "Q44",
+      "qualification": "NativeU015P0271 namesErika changing afterLia clothes are handed over. Preserve this name anomaly; do not silently rewrite it as Lia.",
+      "source": "U015P0270–0274"
+    },
+    {
+      "id": "Q45",
+      "qualification": "The plush hostage is false and absent; Daniel admits his voice. Lia’s strong attachment and mistaken receipt are real, not a literally speaking toy.",
+      "source": "U015P0309–0334"
+    },
+    {
+      "id": "Q46",
+      "qualification": "Stay-human leverage is received by Lia, not Cielo. The subsequent indoor shot is K’s admitted hardness gamble, without the earlier evacuation map.",
+      "source": "U015P0363–0385"
+    },
+    {
+      "id": "Q47",
+      "qualification": "Chris’s dance-specific warning is misinterpreted and too late. Aq did not know the ritual, but her actual dance satisfies it and the hammer materializes.",
+      "source": "U015P0412–0471"
+    },
+    {
+      "id": "Q48",
+      "qualification": "Manual condition requires the separate gloves; initial self-injury does not make the completed pair safe or no threat. Location is actually leaked aloud.",
+      "source": "U015P0515–0533"
+    },
+    {
+      "id": "Q49",
+      "qualification": "The water task is explicitly accepted and actually escapes, with near-drowning; D’s report proposal becomes real guild/royal coordination next chapter.",
+      "source": "U015P0540–0560;U016P0006–0025"
+    },
+    {
+      "id": "Q50",
+      "qualification": "Public ritual-origin report and Vanir-information cover are deliberately false; actual mobilization, protection and fee promises remain real acts.",
+      "source": "U016P0021–0050"
+    },
+    {
+      "id": "Q51",
+      "qualification": "Dust’s cut-off travel story does not prove K learns his other identity; nativeP106アクシズの街 is not silently normalized into a preferred place name.",
+      "source": "U016P0106/0116"
+    },
+    {
+      "id": "Q52",
+      "qualification": "Airborne Explosion has prior straight-line/blindspot reasoning. A hit and fall do not kill the recovered trolls; M’s preferred carry is explicitly accepted.",
+      "source": "U016P0149–0172/0199–0201"
+    },
+    {
+      "id": "Q53",
+      "qualification": "Terrain warning is AFTER Mitsurugi’s missed strike. He says safe/advance and later actually returns; no completed death or knowingly ignored prior geology warning.",
+      "source": "U016P0209–0228/0309–0315"
+    },
+    {
+      "id": "Q54",
+      "qualification": "Food restores mana substantially, not necessarily a fully usable same-day second cast. Camp night precedes later summit shot.",
+      "source": "U016P0232–0234/0274–0328"
+    },
+    {
+      "id": "Q55",
+      "qualification": "M ignores an actual live-capture/Explosion stop call and destroys valuable melon; the enemy then obtains gloves. No later containment retroactively repairs that cost.",
+      "source": "U016P0324–0346"
+    },
+    {
+      "id": "Q56",
+      "qualification": "Lia actually protects M and loses breath; Aq actually resurrects her. Attempted enemy self-hammer blow is interrupted, not performed.",
+      "source": "U016P0351–0378"
+    },
+    {
+      "id": "Q57",
+      "qualification": "NativeP390 repeats descriptive text inside K’s quoted question. Do not count a second resurrection from that duplicate; restored memory is confirmed later.",
+      "source": "U016P0387–0403"
+    },
+    {
+      "id": "Q58",
+      "qualification": "Lia explicitly recountsJapanidol/throatillness/trafficdeath/amnesia/naginata and first companions. Her prior Japanese name is withheld, and disclosure is private.",
+      "source": "U017P0068–0126"
+    },
+    {
+      "id": "Q59",
+      "qualification": "Aq’s permission for casual address follows actual divine recognition and is recipient-specific. Her care question and doctrine give real relief despite K’s profit goal.",
+      "source": "U017P0081/0128–0145"
+    },
+    {
+      "id": "Q60",
+      "qualification": "K physically suppresses D’s actual truthful disclosure and secretly drains her resistance; D’s enjoyment elsewhere cannot supply assent.",
+      "source": "U017P0189–0198"
+    },
+    {
+      "id": "Q61",
+      "qualification": "Chris’s producer-business interest is not a wish to become an idol. Actual tracking/arrow/costume recovery precede K’s accepted stop-pursuit cue.",
+      "source": "U017P0241–0277"
+    },
+    {
+      "id": "Q62",
+      "qualification": "Actual city lightning causes property fires; subsequent report distinguishes wounded mainlysoldiers from ordinaryresidents uninjured. Do not invent civilian deaths or no material cost.",
+      "source": "U017P0389–0392;U018P0007–0012"
+    },
+    {
+      "id": "Q63",
+      "qualification": "Keyboard barrier ability is first revealed in actual use; Aq’s belated claim is uncertain, M’s unlimitedExplosion idea unperformed, and Lia actually collapses from likely resource depletion.",
+      "source": "U017P0415–0454"
+    },
+    {
+      "id": "Q64",
+      "qualification": "Cecily’s actual healing plus unannounced conversion demand is not consensual service exchange; K stops coercion and redirects her to real useful care.",
+      "source": "U018P0022–0055"
+    },
+    {
+      "id": "Q65",
+      "qualification": "K’s bounty-based persuasion reverses at1.5billion; true support behavior and the recipient’s own choice do not prove pure autonomy-centered motive.",
+      "source": "U018P0101–0113"
+    },
+    {
+      "id": "Q66",
+      "qualification": "Actual recruitment includes different incentives and received eye signal; M actually conserved the daily cast. Presence alone is not a completed provider task.",
+      "source": "U018P0151–0173/0216"
+    },
+    {
+      "id": "Q67",
+      "qualification": "Lia repeatedly says not tojoin, friends actually ignore it, then later she asks them to rebuild the unit and receives genuine assent. Current repair is attributable and not retroactive.",
+      "source": "U018P0237/0288–0304/0375–0378"
+    },
+    {
+      "id": "Q68",
+      "qualification": "Final barrier range and exhaustion are explicit. A stronger song-supported barrier precedes a raised-risk plan and acceptance; friendlyrecovery/exit for everycaster remains incompletely displayed.",
+      "source": "U018P0277–0284/0304–0320/0353–0358"
+    },
+    {
+      "id": "Q69",
+      "qualification": "Chris steals a photograph; K steals gloves. Charlie actually warns before Daniel ignores him. DoubleExplosion is timed and contained; no explicit permanentdeath count.",
+      "source": "U018P0327–0358"
+    },
+    {
+      "id": "Q70",
+      "qualification": "Final actual contestvictory/bounty/prize update priorhopes. Unauthorizeddonation, secretcash and unpaidfees qualify easy-riches ending; agreementtopay is not everyindividualcashreceipt.",
+      "source": "U019P0003–0070"
+    },
+    {
+      "id": "Q71",
+      "qualification": "M/Dactuallyintervene againstKreproach and hereceivesthestop. M’s finalchantisactuallyrestrainedbeforecast; K’s funnightadmissionisrealparticularcompanyresidue.",
+      "source": "U019P0033–0038/0071–0077"
+    },
+    {
+      "id": "Q72",
+      "qualification": "Selected92premises/177voicecontextsarepurposeful, notpopulationcounts. H2 has intensitylimits; no categoryquota or automatic H3/H4 frommagic, performance or uncertainty.",
+      "source": "Currentregisters"
+    },
+    {
+      "id": "Q73",
+      "qualification": "Hot/hotto catchphrase andクズマ nameblend require formreconstruction; chopstick idiom, gratitude-payment mismatch, character-settings claim and thiefclass distinction are primarily pragmatic.",
+      "source": "Humorregister;voiceindividualwarrants"
+    },
+    {
+      "id": "Q74",
+      "qualification": "MASK’s customer-god formula has a later additiveL2qualification publishedwithFD; originalH086/V127/reportremainexact. Other2MASKL3andallHcodesunchanged.",
+      "source": "SeparateattributableMASKqualification"
+    },
+    {
+      "id": "Q75",
+      "qualification": "All39behavioralcontractsand4typedconstraintsremainexact;31principal/8partycomparisonsareinformed, notnewscores. Kknown-failureandE06contraryobservationsremainvisible.",
+      "source": "Prebodyexactcontracts;localassessments"
+    },
+    {
+      "id": "Q76",
+      "qualification": "Fouroriginalscores/66current/72historicalfrozenpaths/14originalfutureblanksandoriginalPVprefixremainexact;activePVusesitscontinuation.",
+      "source": "Frozencontrols;receiving/stagedproof"
+    },
+    {
+      "id": "Q77",
+      "qualification": "FDgateclosesonlyafterexactpublication/audits/HK/finalactualsource/status/freshreload. Yorimichi01–04,17mainexcludedprograms,syntheses/StageD/secondary/index/finalreleasecontinue;globaldenominatorunresolved.",
+      "source": "Remainingprogram"
+    }
+  ],
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 262492,
+      "sha256": "d8ca573429ae181d03c6faa0843d67ee55ca02b1cf0efbe5a926ce9ec50c333e"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 189992,
+      "sha256": "ef0e0cd45f936629c4eee52a952971fc23c93e515294d626e04758bf73a967b4"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 760228,
+      "sha256": "e12420f759527d56a247faafac19fed8122a6b20ddc262c7be70061c68afa3f8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 571792,
+      "sha256": "d3d158bb99d9698a3fddeba6f1d6f498d792a6a83822cb95b8b0071e651d1009"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 168101,
+      "sha256": "8de40c0619e3305a0383c90b6211411f48ccda43c893c0852c776495c6f0883b"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 161523,
+      "sha256": "4f9bb51e1fff5bea1915f69091d8aff5e705f652aa1ca6da0203e775778f8aef"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 183639,
+      "sha256": "fa87e9a4686270ed03ae3bd6b569f7093b1e52419472ac6fec19795e3a382a34"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 150189,
+      "sha256": "6821496fb7bb8470219a2cf3862550b2adf2eaaa8de68dfae58727a09bc42032"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 238684,
+      "sha256": "2f451e253828b90d94512dbdcda977b5db49023e6e5ea810dd42f19814f9ebfb"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 98141,
+      "sha256": "7697b8c7a4738066f2225c6c365f6773dbe67b3b7b104b5e59016ecfdb0c1f6f"
+    }
+  ],
+  "frozen_proof": {
+    "current66_verified": 66,
+    "historical72_at_3b92_verified": 72,
+    "four_score_sha256": {
+      "YORI01": "7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026",
+      "MASK": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967",
+      "DUST06": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e",
+      "DUST07": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+    },
+    "original14blank_file_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+    "R1_changed": false
+  },
+  "whole_edition_accounting_only": {
+    "supplemental_total": 19,
+    "accepted_including_this_pending_publication": [
+      "DUST-01",
+      "DUST-02",
+      "DUST-03",
+      "DUST-04",
+      "DUST-05",
+      "DUST-06",
+      "DUST-07",
+      "DUST-CONT",
+      "EXP-01",
+      "EXP-02",
+      "EXP-03",
+      "CONTEXP-01",
+      "CONTEXP-02",
+      "MASK",
+      "FD"
+    ],
+    "previously_published_full_gate_closed": [
+      "DUST-01",
+      "DUST-02",
+      "DUST-03",
+      "DUST-04",
+      "DUST-05",
+      "DUST-06",
+      "DUST-07",
+      "DUST-CONT",
+      "EXP-01",
+      "EXP-02",
+      "EXP-03",
+      "CONTEXP-01",
+      "CONTEXP-02",
+      "MASK"
+    ],
+    "mixed_programs_published_at_stated_scopes": 5
+  },
+  "global_narrative_component_completion_percentage": null,
+  "remaining_boundary": "CloseFDexactpublication/remotealltreeandchangedbytes/sourceaudit/HK/finalactualsourceauditandstatus/freshpublishedauthorityreloadbeforeseparateYorimichi01admission. ThenYorimichi01–04,all17mainexcluded-componentprograms,expandedandfullsyntheses,attributableversionedStageD,secondaryreconstructionorlimiteddispositions,indexesandfinalreleasecontinue. Globalnarrativecomponentdenominatorunresolvedandpercentage null."
+}

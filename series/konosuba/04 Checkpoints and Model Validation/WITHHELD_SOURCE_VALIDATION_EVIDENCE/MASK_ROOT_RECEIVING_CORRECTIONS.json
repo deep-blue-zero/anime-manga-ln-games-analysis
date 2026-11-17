@@ -1,0 +1,310 @@
+{
+  "status": "ATTRIBUTABLE_EXTERNAL_CORRECTIONS_ORIGINAL_INITIALS_AND_SEALS_UNCHANGED",
+  "source_id": "MASK",
+  "root_initial_factual_basis_01": {
+    "state": "ROOT_COORDINATED_ATTRIBUTABLE_FACTUAL_CORRECTION_OVERLAY_NOT_ACCEPTANCE",
+    "created_utc": "2026-10-17T17:32:15.005511+00:00",
+    "immutable_initial_sha256": "f292cabc0ee4794437f3022657af90e3e8a99a043b3ad88a2a9653a75f18c449",
+    "operations": [
+      {
+        "target_event_id": "MASK-FAKE-RESCUE",
+        "field": "independently_available_before_response",
+        "old": "Dust and Vanir stage a rescue; target identity only later named Yunyun108. Both become distracted by attraction.",
+        "new": "Dust has organized a staged pick-up/rescue with two ordinary young men. Vanir is the unrelated passerby/observer C01P44-57; the two hired youths become genuinely attracted65, provoking Dust67. Vanir subsequently intervenes with kick77.",
+        "primary_recheck": "C01P44-86 fully redisplayed and actually read after I flagged correction.",
+        "origin": "I receiving message then root actual source recheck",
+        "consequence": "Remove Vanir as prior organizer/participant in sham rescue; any E01 information/incentive analysis applies to Dust and two youths, while Vanir is outside observer/intervenor. No principal K/M/D/A full test created."
+      },
+      {
+        "target_event_id": "MASK-FAKE-RESCUE",
+        "field": "actual_observation",
+        "old": "Dust complains broken script67; actual kick77. Dust account72/75/99 self-serving. Yunyun questions deception101/117. No Megumin participation; red eyes alone do not identify her.",
+        "new": "Dust complains his two recruited youths forgot their roles67 after they become genuinely attracted65; they flee70. Dust then claims hero status72/75 and presses invitation despite refusal76. Vanir, previously observing, actually kicks Dust77. Yunyun is named later108. No Megumin involvement.",
+        "primary_recheck": "C01P44-86",
+        "origin": "I then root full native recheck",
+        "consequence": "Actor/causal attribution corrected, factual initial preserved."
+      },
+      {
+        "target_event_id": "MASK-COOLER",
+        "field": "actual_observation",
+        "old": "Wiz credits Aqua otherworld information561, actual cold air562; mass order arrives after summer. Vanir proposes next-summer storage583, then learns six-month life586. Chapter immediately ends.",
+        "new": "Wiz credits Aqua otherworld information561, actual prototype emits cold air562 and present stock profit is confirmed. The large order is expected to arrive two months later569, after summer571; that arrival has not occurred. Vanir proposes storage for next summer583, then learns six-month life586. Chapter immediately ends.",
+        "primary_recheck": "C03P550-587 was actually fully read in ordered pass;567-571 and583-587 specific already displayed source rejoined.",
+        "origin": "S receiving message confirmed against actual root source reading",
+        "consequence": "No completed future delivery/seasonal sale claimed. Source retains real prospective inventory error and failed storage proposal."
+      },
+      {
+        "target_event_id": "MASK-NEIGHBOR-ASSURANCE",
+        "field": "actual_observation",
+        "old": "Actual reassurance stops current pressure; age-as-baby392 true under demon perspective395 but heard as flattering. Wiz watches399 and later asks relationship410; Vanir explicitly says demons no gender413.",
+        "new": "Vanir arrives378-380, gang leaves381-382 before later offer388. Neighbor says his coming helped384; narrator cannot uniquely identify its cause. He then offers consulting388 while privately expecting fee389, making future reassurance misleading to neighbor391. No completed paid consultation or later protection is established.",
+        "primary_recheck": "C04P369-400 actually read untruncated in ordered pass; exact temporal order381-388 retained in native projection.",
+        "origin": "S receiving message confirmed against actual root source reading",
+        "consequence": "Remove causal claim that later reassurance stopped earlier pressure. This event alone cannot prove a completed reassuring recovery intervention prior to exit."
+      }
+    ],
+    "initial_not_mutated": true,
+    "canonical_not_mutated": true,
+    "other_root_initial_derived_wording_to_correct_on_receiving": [
+      "MASK-FAKE-RESCUE before/interval/rival/actor-set descriptions must consistently use Dust plus two ordinary youths, Vanir observer.",
+      "MASK-COOLER and A01/E03 derived prose must distinguish prospective delivery from actual profit/prototype.",
+      "MASK-NEIGHBOR-ASSURANCE eligibility for E03 recovery must not credit temporally later speech as cause of already-ended confrontation.",
+      "K08 wording must retain C02P3 actual attributed Japanese imperative fragment while separately testing original surface completeness/independent status-pressure purpose."
+    ],
+    "no_substantive_final_adjudication_or_freeze_change": true
+  },
+  "root_initial_factual_scope_basis_02": {
+    "state": "COORDINATED_EXTERNAL_CORRECTION_NOT_FINAL_ADJUDICATION",
+    "utc": "2026-10-17T17:32:57.748581+00:00",
+    "immutable_root_initial_sha256": "f292cabc0ee4794437f3022657af90e3e8a99a043b3ad88a2a9653a75f18c449",
+    "corrections": [
+      {
+        "claim": "E03 debris cleanup in event and K/A/E assessment prose",
+        "old": "Wiz actually carries rubble outside / completed outside disposal",
+        "new": "C02P498 shows Wiz carrying rubble and trying to take it outside (運び出そうとしていた); a real dependency-directed cleanup attempt, not completed disposal.",
+        "origin": "I coordinated source recheck; root had fully read498-518 and rejoined exact formulation.",
+        "impact": "Attempt satisfies finite-action branch without claiming cleanup completion."
+      },
+      {
+        "claim": "K08 source access rationale",
+        "old": "Any wording implying no actual Kazuma Japanese surface exists",
+        "new": "C02P3 attributed 働いて返してこい and C04P573 死ぬほど恨まれるからな are real reported Japanese fragments. Test independent status-pressure purpose/legitimate leverage and adequate pragmatic context separately; no blanket report exclusion or invented omitted civility.",
+        "origin": "I initial K08/core source and root focused C02P1-35/C04P501-600; both receiving readers agree.",
+        "impact": "No automatically forced F or C from missing scope; adverse direct imperative remains recorded."
+      },
+      {
+        "claim": "K05 own-method prerequisite in root/S shorthand",
+        "old": "Requires his own previously failed technique as universal condition",
+        "new": "Literal trigger also allows newly received information contradicting a causal premise. It does not universally require his own original attempted technique. Still-active prior objective and actual receipt/feasible alternative must be independently established; source does not fully show those for Kazuma.",
+        "origin": "I literal-contract receiving correction; root reread full K05 literal earlier.",
+        "impact": "Remove extra ownership prerequisite. NT/P disagreement must turn on actual continuing-goal/receipt evidence, not invented requirement."
+      },
+      {
+        "claim": "Proper-name English labels in private root notes",
+        "old": "Blood/Rosary/Leen labels treated as if exact source orthography",
+        "new": "Native identities are ブラッド / ロザリー / リーン; differing conventional English transliterations in reviewers are attributed labels, not separate characters or Japanese primary wording. Canonical records should give native identity for clarity.",
+        "origin": "Root referential reconciliation while receiving I/S reports and actual native C05/C01 readings.",
+        "impact": "No invented distinct subject or translation-authority claim."
+      }
+    ],
+    "canonical_or_initial_model_mutations": false
+  },
+  "independent_own_and_literal_qualifications": {
+    "state": "POSTEXCHANGE_EXTERNAL_QUALIFICATIONS_ORIGINALS_UNCHANGED",
+    "created_utc": "2026-10-17T17:37:05.890943+00:00",
+    "notes": [
+      {
+        "id": "MRQ01",
+        "origin": "root initial MASK-FAKE-RESCUE card",
+        "kind": "actor/source fact",
+        "source": "C01P44–86",
+        "qualification": "Vanir is passerby/observer and intervenes by kicking Dust77. The two ordinary youths48–65 are the initially rote pick-up actors who become sincerely attracted; Dust55–75 is the concealed organizer/pretend rescuer. Vanir did not jointly stage the rescue with Dust.",
+        "original_unchanged": true
+      },
+      {
+        "id": "MRQ02",
+        "origin": "root initial E03/rubble card",
+        "kind": "attempt versus completed action",
+        "source": "C02P498",
+        "qualification": "Wiz emerges holding rubble and tries to carry it outside; completed external disposal is not shown. This concrete cleanup attempt still supplies a dependency-directed act.",
+        "original_unchanged": true
+      },
+      {
+        "id": "MRQ03",
+        "origin": "root initial K08 blanket language shorthand",
+        "kind": "source-language access",
+        "source": "C02P3",
+        "qualification": "働いて返してこい is a real attributed Japanese imperative within Aqua’s report. Do not say no Kazuma Japanese exists or categorically exclude reports. Full original utterance/pragmatic status-pressure purpose remain insufficiently exposed; no invented civil omissions and no forced F.",
+        "original_unchanged": true
+      },
+      {
+        "id": "MRQ04",
+        "origin": "root/S initial K05 own-failure shorthand",
+        "kind": "literal contract scope",
+        "source": "R1-K05 exact trigger",
+        "qualification": "Failure OR new information contradicting causal premise; no universal own-failed-technique prerequisite. Still-active objective/received premise/next-choice missingness remains.",
+        "original_unchanged": true
+      },
+      {
+        "id": "MRQ05",
+        "origin": "I original outsider-only E exclusions",
+        "kind": "own interpretive correction",
+        "source": "R1-E01/E03/E04/E06/E07 literals and published Party sections3–5",
+        "qualification": "Generic interaction relations can use their natural outside actors. No core-quartet appearance requirement. E04 changes NT→C and E06 NT→P in this coordinated successor, with precise actual guard limits. This does not reassign subject-specific K/A/M/D mechanisms to other people.",
+        "original_unchanged": true
+      },
+      {
+        "id": "MRQ06",
+        "origin": "I original E03 strongest-rival scope",
+        "kind": "literal contract scope",
+        "source": "R1-E03 immediate success/dependency and relationship fields",
+        "qualification": "No universal positively-shared-prior-quartet-objective prerequisite. Concrete dependency/received cue/provider/actor/opportunity and actual intervention still required; passive persistence of costs is not behavioral support.",
+        "original_unchanged": true
+      },
+      {
+        "id": "MRQ07",
+        "origin": "I original K06 observation sentence",
+        "kind": "own speaker correction",
+        "source": "C02P63–69, especially66",
+        "qualification": "Rain, the magician-follower introduced65, predicts a hypothetical Kazuma demand to return with them; it is not Iris’s actual utterance or a Kazuma choice. Iris’s own151 fear is distinct. K06 remains NT.",
+        "original_unchanged": true
+      },
+      {
+        "id": "MRQ08",
+        "origin": "cross-reader Romanized names",
+        "kind": "alias/referent reconciliation",
+        "source": "native リーン/ブラッド/ロザリー",
+        "qualification": "Root Leen / I-S Rin, root Blood / I-S Brad, and root Rosary / I-S Rosalie identify the same respective native actors. No extra person or verified official Romanization is claimed.",
+        "original_unchanged": true
+      }
+    ],
+    "no_baseline_model_or_forecast_revision": true
+  },
+  "independent_late_own_qualifications": {
+    "state": "ATTRIBUTABLE_EXTERNAL_NOTES_PRESERVE_SEALED_INITIAL_AND_RECEIVING",
+    "notes": [
+      {
+        "id": "LQ01",
+        "origin": "I original report cooler observation and associated shorthand",
+        "source": "C03P567–571",
+        "qualification": "Large-order arrival is prospective: expected two months later/after summer. Existing prototype and current stock profit are actual; no mass shipment or post-summer delivery occurs in this scene. Current root corrected event already makes this distinction.",
+        "new_primary_reading_for_this_receipt": false,
+        "basis": "Own earlier complete source read plus root/S attributable late source-fact qualification; no new source exposure."
+      },
+      {
+        "id": "LQ02",
+        "origin": "I original MI030 read-time fragment",
+        "source": "C05P62 and subsequent chest examination",
+        "qualification": "Wiz offers the others a rest and examines the chest; a received rest offer/refusal is not shown. Replace the stronger refused-rest gloss only through an external note; original remains exact.",
+        "new_primary_reading_for_this_receipt": false,
+        "basis": "Own earlier complete source read plus root/S attributable late source-fact qualification."
+      }
+    ],
+    "no_outcome_change": true
+  },
+  "current_candidate_five_value_operations": {
+    "state": "EXACT_FIVE_FIELD_RECEIVING_PRECISION_CORRECTIONS",
+    "utc": "2026-10-17T17:44:54.086121+00:00",
+    "origin": "I complete candidate receiving; root current language aligns existing accepted-intent guard qualifications. No status/contract/threshold/source change.",
+    "operations": [
+      {
+        "file": "MASK_ALL39_RECEIVING_CANDIDATE.json",
+        "selector": "R1-K05",
+        "field": "confidence",
+        "old_exact_value": "HIGH subject distinction",
+        "new_exact_value": "HIGH for actual reported practical correction/new proposal and literal OR; LOW/MODERATE for independently prior continuing objective/receipt and full revision-test applicability"
+      },
+      {
+        "file": "MASK_CORRECTED_EVENTS_AND_FORM_RECEIVING_CANDIDATE.json",
+        "selector": "MASK-LAND-AND-DEBT",
+        "field": "eligibility",
+        "old_exact_value": "FULL_FOR_REPORTED_K04;_PARTIAL_OTHER_BRANCHES",
+        "new_exact_value": "PARTIAL_REPORTED_K04_REDRESS;FULL_VALID_GRIEVANCE_ADVANTAGE_FIRST_SETTLEMENT_GUARD_UNRESOLVED"
+      },
+      {
+        "file": "MASK_CORRECTED_EVENTS_AND_FORM_RECEIVING_CANDIDATE.json",
+        "selector": "MASK-K-INTERVENTION-REPORT",
+        "field": "actual_observation",
+        "old_exact_value": "Kazuma reported unusually angry; Aqua quotes his consequence warning and agrees spare succubi573. Later he leads her away599 after renewed threat. No exact original Japanese Kazuma surface is given.",
+        "new_exact_value": "Kazuma reported unusually angry; Aqua quotes his consequence warning and agrees spare succubi573. Later he leads her away599 after renewed threat. C04P573 contains a real attributed Japanese warning fragment; adequate complete original formulation and independently chosen status-pressure purpose remain unresolved."
+      },
+      {
+        "file": "MASK_CORRECTED_EVENTS_AND_FORM_RECEIVING_CANDIDATE.json",
+        "selector": "MASK-K-INTERVENTION-REPORT",
+        "field": "eligibility",
+        "old_exact_value": "PARTIAL_K03;INELIGIBLE_K08_LANGUAGE_ACCESS",
+        "new_exact_value": "PARTIAL_K03;K08_COMPLETE_STATUS_PRESSURE_PURPOSE_AND_SURFACE_CONTEXT_UNRESOLVED_NOT_BLANKET_REPORT_EXCLUSION"
+      },
+      {
+        "file": "MASK_CORRECTED_EVENTS_AND_FORM_RECEIVING_CANDIDATE.json",
+        "selector": "MASK-A-COAPOLOGY",
+        "field": "actors",
+        "old_exact_value": [
+          "Aqua",
+          "two succubi",
+          "Kazuma as later audience"
+        ],
+        "new_exact_value": [
+          "Aqua",
+          "two succubi",
+          "Kazuma as intended/proposed later audience; actual co-apology not shown"
+        ]
+      }
+    ],
+    "full_file_inverse_proofs": [
+      {
+        "file": "MASK_ALL39_RECEIVING_CANDIDATE.json",
+        "before_bytes": 205702,
+        "before_sha256": "dfddef0f728fb258e7405d4ec2fa9f0e84dae696294e08a2f8f6f54b4587ab64",
+        "after_bytes": 205855,
+        "after_sha256": "986a7c3be0320f3fb333fd071a44c9f090291872cb2e949cd728584847a3ab51",
+        "complete_inverse_recovers_exact_v1_bytes": true
+      },
+      {
+        "file": "MASK_CORRECTED_EVENTS_AND_FORM_RECEIVING_CANDIDATE.json",
+        "before_bytes": 114785,
+        "before_sha256": "8239e97e8b034d82182706c3187796deb35c8847975e311d7e83453b3c44a16d",
+        "after_bytes": 115063,
+        "after_sha256": "e8de68d3602e2d92b7eec819aad352dd436a90d73659ee4fe2228c06fb785e93",
+        "complete_inverse_recovers_exact_v1_bytes": true
+      }
+    ],
+    "all_other_fields_unchanged": true,
+    "v1_preserved": true,
+    "no_canonical_change": true
+  },
+  "current_candidate_two_value_operations": {
+    "state": "EXACT_TWO_FIELD_RESIDUAL_CURRENT_CARD_PRECISION_CORRECTION",
+    "utc": "2026-10-17T17:49:36.674846+00:00",
+    "origin": "S complete candidate receiving; exact current-field consistency correction, not new source/outcome/guard.",
+    "operations": [
+      {
+        "file": "MASK_CORRECTED_EVENTS_AND_FORM_RECEIVING_CANDIDATE.json",
+        "selector": "MASK-LAND-AND-DEBT",
+        "field": "initial_decision_interval",
+        "old_exact_value": "Kazuma reported explanation and later first repayment-directed instruction.",
+        "new_exact_value": "Reported capital/tax explanation followed by later rebuke/work-redress command; first fully eligible settlement boundary remains unresolved."
+      },
+      {
+        "file": "MASK_CORRECTED_EVENTS_AND_FORM_RECEIVING_CANDIDATE.json",
+        "selector": "MASK-LAND-AND-DEBT",
+        "field": "missing_or_confounded_conjuncts",
+        "old_exact_value": "No exact Kazuma dialogue, detailed first information receipt, personal sacrifice or own failed prior technique shown.",
+        "new_exact_value": "Actual attributed Japanese imperative fragment C02P3 exists; the full Japanese response episode, detailed first information receipt and independently continuing prior objective remain unshown. Personal sacrifice is unresolved for K03, not a universal K04 condition. K05 requires failure OR new contradictory information, not universally his own failed prior technique."
+      }
+    ],
+    "full_file_inverse_proofs": [
+      {
+        "file": "MASK_ALL39_RECEIVING_CANDIDATE.json",
+        "before_bytes": 205855,
+        "before_sha256": "986a7c3be0320f3fb333fd071a44c9f090291872cb2e949cd728584847a3ab51",
+        "after_bytes": 205855,
+        "after_sha256": "986a7c3be0320f3fb333fd071a44c9f090291872cb2e949cd728584847a3ab51",
+        "complete_inverse_recovers_exact_v2_bytes": true
+      },
+      {
+        "file": "MASK_CORRECTED_EVENTS_AND_FORM_RECEIVING_CANDIDATE.json",
+        "before_bytes": 115063,
+        "before_sha256": "e8de68d3602e2d92b7eec819aad352dd436a90d73659ee4fe2228c06fb785e93",
+        "after_bytes": 115379,
+        "after_sha256": "fbe9eff36234d6a9d41a67fd49b468c83b1377830afa6085c747261b494d4f33",
+        "complete_inverse_recovers_exact_v2_bytes": true
+      }
+    ],
+    "all_other_fields_unchanged": true,
+    "v1_v2_and_initial_seals_preserved": true,
+    "no_canonical_change": true
+  },
+  "later_narrative_precision": [
+    {
+      "event_id": "MASK-HISTORY-VOICE",
+      "locators": "C05P45–92, especially67–69/80/85–86",
+      "current": "Searches show no response before the hidden Vanir appears. Their target rules and expected detection are unestablished; Vanir objects to being called a monster but does not independently prove the search mechanism. The later living-only scroll is a different spell and cannot establish this cause.",
+      "origin": "Root/I/S coordinated ledger receiving; root actual bounded native reread45–92 after initial acceptance. Initial root/candidate wording and all outcomes unchanged."
+    }
+  ],
+  "semantic_external_guard_precision": "K06/A06 durability shorthand withdrawn in MASK_SEMANTIC_BOUNDED_RECEIVING.md; no permanence prerequisite added. E04 separately has its own explicit durable trigger.",
+  "canonical_model_or_earlier_score_change": false,
+  "all_source_observations_outcome_aware": true,
+  "semantic_K02_trust_precision": "The semantic coordinated record/report uses trusted in missing-opportunity shorthand. Frozen K02 needs a known requester, not independent trust. Current accepted register already uses known requester; public table is corrected without outcome/model change. Initial/coordinated semantic bytes remain exact historical inputs."
+}

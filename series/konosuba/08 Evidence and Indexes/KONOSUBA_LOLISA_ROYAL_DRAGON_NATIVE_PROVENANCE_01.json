@@ -1,0 +1,752 @@
+{
+  "schema": "konosuba.known-secondary-native-provenance.v1",
+  "recorded_utc": "2026-10-20T14:38:46.643425+00:00",
+  "entering_published_source": "76851fae4b84b13b182e0112b17ccc5765bcd712",
+  "entering_cohort15_gate_sha256": "f3381e805f22e5016d58da084b65850242a30d84f324a56b3ec49d9b89c5ece5",
+  "entering_authority_reload_sha256": "209ca0f8bb4e1066f8141b98071481c9e372868434033236b60854b90d22e10c",
+  "actual_receipt_pins": [
+    {
+      "artifact_alias": "LOLF_ROYAL_DRAGON_ACTUAL_KNOWN_PREPARATION_RECEIVING_01.json",
+      "sha256": "fac6b5e005c2c227d646012635955f703c4355b80bf819492933e6b602e3611c",
+      "context_slots": 80
+    },
+    {
+      "artifact_alias": "LOLF_ROYAL_DRAGON_ACTUAL_KNOWN_PREPARATION_RECEIVING_02.json",
+      "sha256": "e10f80b834ec475ba14662658e5def5af7d459dbccca3fdcec8090dd6f96e513",
+      "context_slots": 165
+    },
+    {
+      "artifact_alias": "LOLF_ROYAL_DRAGON_ACTUAL_KNOWN_PREPARATION_RECEIVING_03.json",
+      "sha256": "eb4d1adc950adcea4ca09dd8dd873a563ed8d077b6d5a998c0fb90aada7078ed",
+      "context_slots": 160
+    },
+    {
+      "artifact_alias": "LOLF_ROYAL_DRAGON_ACTUAL_KNOWN_PREPARATION_RECEIVING_04.json",
+      "sha256": "bad82c85f0448d5d840b38c5e5475350cb53996d5732fb189307045104ae4961",
+      "context_slots": 520
+    },
+    {
+      "artifact_alias": "LOLF_ROYAL_DRAGON_ACTUAL_KNOWN_PREPARATION_RECEIVING_05.json",
+      "sha256": "b5d2ae64e596c36c7629fdb61eff77642a146e2685edc67610b504f391713b11",
+      "context_slots": 1017
+    },
+    {
+      "artifact_alias": "LOLF_ROYAL_DRAGON_ACTUAL_KNOWN_PREPARATION_RECEIVING_06.json",
+      "sha256": "e25fc2d4e912fcc0b9a3983845c71dc34761c54f723bcf4d61fc4995ed8d8f54",
+      "context_slots": 600
+    },
+    {
+      "artifact_alias": "LOLF_ROYAL_DRAGON_ACTUAL_KNOWN_PREPARATION_RECEIVING_07.json",
+      "sha256": "eb306e650cfb6d3a0c0e2366d6c42345ad4561fea4153aca22875475bc8c255b",
+      "context_slots": 360
+    }
+  ],
+  "actual_bounded_native_returns": [
+    {
+      "source": "DUST-CONT",
+      "component": "DUST-CONT-U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+      "member_sha256": "716e1c469c9bf0161907524ab941d57cee45313caea4580d725d62e66d5b9d49",
+      "current_register_sha256": "83413af506b513d7572791dbeff68f799ad1574a70479c03b875c5f5c834cbfe",
+      "actual_complete_known_BASE_windows": [
+        [
+          130,
+          169
+        ],
+        [
+          170,
+          209
+        ]
+      ],
+      "actual_complete_output_chunks": [
+        "86b984",
+        "fabbc3"
+      ],
+      "known_context_slots": 80,
+      "source_objects": 1,
+      "source_members": 1
+    },
+    {
+      "source": "DUST-CONT",
+      "component": "DUST-CONT-U014",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+      "member_sha256": "e501fd6780da8af25aa09626c43fc190422ba7cad90ff85e464e0fd0162a6be2",
+      "current_register_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_CONT_COMPONENT_REGISTER.json",
+      "current_register_sha256": "83413af506b513d7572791dbeff68f799ad1574a70479c03b875c5f5c834cbfe",
+      "actual_complete_known_BASE_windows": [
+        [
+          1,
+          120
+        ]
+      ],
+      "context_slots": 120,
+      "actual_complete_output_chunks": [
+        "5ff528",
+        "909a74",
+        "085839"
+      ]
+    },
+    {
+      "source": "DUST-06",
+      "component": "DUST-06-U010",
+      "member": "item/xhtml/p-002.xhtml",
+      "native_sha256": "d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1",
+      "member_sha256": "650c8f241a553f41945bb77f0605b830d4c99e92c89121632d2f3d488edacfcb",
+      "current_register_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V06_COMPONENT_REGISTER.json",
+      "current_register_sha256": "9ac29caa43e4ca40a32c600afdac6ffb19a9355f44e22bde5a2e824bf02eb73e",
+      "actual_complete_known_BASE_windows": [
+        [
+          596,
+          640
+        ]
+      ],
+      "context_slots": 45,
+      "actual_complete_output_chunks": [
+        "2c8c22"
+      ]
+    },
+    {
+      "source": "DUST-07",
+      "component": "DUST-07-U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "member_sha256": "c9ba71b51dab40b49a9f5d2b42952a635d1dd55a4e9c2aae16853c21d8e256e1",
+      "current_register_sha256": "cc2abb85e5d05c5a3653c774375e4b0d30644cb7f92c74c4214ebba64864cfcc",
+      "earlier_checked_cache_sha256": "d45de4a8d0049e2476473796b8010f29b527809fed9099f44ab10c4a22b185be",
+      "actual_complete_known_BASE_windows": [
+        [
+          550,
+          709
+        ]
+      ],
+      "context_slots": 160,
+      "actual_complete_output_chunks": [
+        "d56180",
+        "1d134f",
+        "eab15b",
+        "ea5a49"
+      ]
+    },
+    {
+      "source": "DUST-02",
+      "component": "C02",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f",
+      "member_sha256": "0019755dfdc969bc87d6a37c06e1de41e5489efb9f4aa21dc9cbe75856389acc",
+      "accepted_reading_receipt_sha256": "8c9de1f7c8d701de4ca3821115e2855c2a425b7471a99bb56dc31ed4b49e0e34",
+      "accepted_source_gate_sha256": "ef6802eb2cbcff646245478ec232f896399d662beb7c7e62a4ea7c8d31563663",
+      "actual_complete_known_BASE_windows": [
+        [
+          250,
+          289
+        ],
+        [
+          520,
+          559
+        ],
+        [
+          630,
+          669
+        ]
+      ],
+      "context_slots": 120,
+      "actual_complete_output_chunks": [
+        "b6d41b",
+        "20bdc2",
+        "7e4ed6"
+      ],
+      "display_stream_sha256": [
+        "c3ef635e0f08517a23cd1e41b36ad7c5a2805118145e739b3df257fae57ccf04",
+        "d669eb2a0640c901f2793702c1648dc206cda4f0a263cc0f4c50db666c4a8c8c",
+        "18836e13bf8cc7bed045373da27468d06e9ff995999ac14402970608345a18b8"
+      ]
+    },
+    {
+      "source": "DUST-02",
+      "component": "C03",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f",
+      "member_sha256": "3ab022f0f5cfb9e26817aabbce17843920d93398f619a6095115d593287de4ce",
+      "accepted_reading_receipt_sha256": "8c9de1f7c8d701de4ca3821115e2855c2a425b7471a99bb56dc31ed4b49e0e34",
+      "accepted_source_gate_sha256": "ef6802eb2cbcff646245478ec232f896399d662beb7c7e62a4ea7c8d31563663",
+      "actual_complete_known_BASE_windows": [
+        [
+          149,
+          188
+        ],
+        [
+          189,
+          228
+        ],
+        [
+          280,
+          319
+        ],
+        [
+          320,
+          359
+        ],
+        [
+          360,
+          399
+        ],
+        [
+          410,
+          449
+        ]
+      ],
+      "context_slots": 240,
+      "actual_complete_output_chunks": [
+        "44f584",
+        "fdfce3",
+        "0a236a",
+        "e4e8b4",
+        "36db36",
+        "73e2ec"
+      ],
+      "display_stream_sha256": [
+        "c9687fafa9ed112c2562e0d7258b8d0f23a5021d157b829935b89c33577f5945",
+        "7fca14d95c5b4d2b4adef536e37478a3dff4bb258df64dcbb7306239dd31ab9c",
+        "a23f4ce841d9ac964d50d3825f4b613e27c42ed500d88cc1f17c3d653ab35114",
+        "caa7490da4309c4656f2501e42d9819b093788577f17762eddedc92601eb1d72",
+        "e4319f2d56354acccb2c2f5bedb5a54bb9dce8185ba3c951daf9fde9cca3a4b8",
+        "e77a3b12ecc501be249dd0f7a7f5cd49abb23fbbfc3325ee73c229d8d3615168"
+      ]
+    },
+    {
+      "source": "DUST-02",
+      "component": "C04",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f",
+      "member_sha256": "03ba3c619b0841e887d3d17d285391661633457189007737fc37a3c9ce710fac",
+      "accepted_reading_receipt_sha256": "8c9de1f7c8d701de4ca3821115e2855c2a425b7471a99bb56dc31ed4b49e0e34",
+      "accepted_source_gate_sha256": "ef6802eb2cbcff646245478ec232f896399d662beb7c7e62a4ea7c8d31563663",
+      "actual_complete_known_BASE_windows": [
+        [
+          410,
+          449
+        ]
+      ],
+      "context_slots": 40,
+      "actual_complete_output_chunks": [
+        "3b58c9"
+      ],
+      "display_stream_sha256": [
+        "22c3305b91579f847ff2f93f3135bf9aff5698beca93bbbdc705a388eca4e366"
+      ]
+    },
+    {
+      "source": "DUST-02",
+      "component": "Final",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_sha256": "4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f",
+      "member_sha256": "389566bf26a458387cf1ed061d5281a71848946948a2a55f69f258f9fcb5eca2",
+      "accepted_reading_receipt_sha256": "8c9de1f7c8d701de4ca3821115e2855c2a425b7471a99bb56dc31ed4b49e0e34",
+      "accepted_source_gate_sha256": "ef6802eb2cbcff646245478ec232f896399d662beb7c7e62a4ea7c8d31563663",
+      "actual_complete_known_BASE_windows": [
+        [
+          150,
+          189
+        ],
+        [
+          350,
+          389
+        ],
+        [
+          490,
+          529
+        ]
+      ],
+      "context_slots": 120,
+      "actual_complete_output_chunks": [
+        "77d699",
+        "ea1f0b",
+        "f9b60e"
+      ],
+      "display_stream_sha256": [
+        "3ebd4ed2ba805bf0d556594cf7a550b33f06000dcff1b3745163fb89da8108af",
+        "8fedf1f5cb5a77ec61d7585f2ea22e2348c731a6cb4db8977f5e169c57737af5",
+        "91e0f913c5c98d0ca06d90e947490f534bc76d5e02be04d41c68afcdf45cd9e9"
+      ]
+    },
+    {
+      "source": "DUST-CONT",
+      "component": "DUST-CONT-U010",
+      "member": "item/xhtml/p-002.xhtml",
+      "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+      "member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+      "current_register_sha256": "83413af506b513d7572791dbeff68f799ad1574a70479c03b875c5f5c834cbfe",
+      "actual_complete_known_BASE_windows": [
+        [
+          50,
+          89
+        ],
+        [
+          170,
+          209
+        ],
+        [
+          210,
+          249
+        ],
+        [
+          260,
+          299
+        ],
+        [
+          380,
+          419
+        ]
+      ],
+      "context_slots": 200,
+      "actual_complete_output_chunks": [
+        "16103c",
+        "6514fa",
+        "3b76d0",
+        "450912",
+        "81770f"
+      ]
+    },
+    {
+      "source": "DUST-CONT",
+      "component": "DUST-CONT-U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+      "member_sha256": "37ec58602b864bf68c6237a939e8699c8ca1d1f002711b4cf6206d2b8e09b4ea",
+      "current_register_sha256": "83413af506b513d7572791dbeff68f799ad1574a70479c03b875c5f5c834cbfe",
+      "actual_complete_known_BASE_windows": [
+        [
+          180,
+          219
+        ],
+        [
+          230,
+          269
+        ],
+        [
+          280,
+          319
+        ],
+        [
+          320,
+          359
+        ],
+        [
+          360,
+          399
+        ],
+        [
+          400,
+          439
+        ],
+        [
+          450,
+          489
+        ],
+        [
+          490,
+          529
+        ]
+      ],
+      "context_slots": 320,
+      "actual_complete_output_chunks": [
+        "d0e585",
+        "4fb907",
+        "941769",
+        "c9a41c",
+        "a1a4b4",
+        "91ae1a",
+        "ecdfbd",
+        "ab0dae"
+      ]
+    },
+    {
+      "source": "DUST-CONT",
+      "component": "DUST-CONT-U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+      "member_sha256": "716e1c469c9bf0161907524ab941d57cee45313caea4580d725d62e66d5b9d49",
+      "current_register_sha256": "83413af506b513d7572791dbeff68f799ad1574a70479c03b875c5f5c834cbfe",
+      "actual_complete_known_BASE_windows": [
+        [
+          210,
+          249
+        ],
+        [
+          250,
+          289
+        ]
+      ],
+      "context_slots": 80,
+      "actual_complete_output_chunks": [
+        "68d968",
+        "3941f7"
+      ]
+    },
+    {
+      "source": "DUST-CONT",
+      "component": "DUST-CONT-U014",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+      "member_sha256": "e501fd6780da8af25aa09626c43fc190422ba7cad90ff85e464e0fd0162a6be2",
+      "current_register_sha256": "83413af506b513d7572791dbeff68f799ad1574a70479c03b875c5f5c834cbfe",
+      "actual_complete_known_BASE_windows": [
+        [
+          200,
+          239
+        ],
+        [
+          240,
+          279
+        ],
+        [
+          280,
+          319
+        ],
+        [
+          320,
+          359
+        ],
+        [
+          470,
+          509
+        ],
+        [
+          510,
+          549
+        ],
+        [
+          550,
+          573
+        ]
+      ],
+      "context_slots": 264,
+      "actual_complete_output_chunks": [
+        "3688f7",
+        "a32e34",
+        "a17ac2",
+        "9bb519",
+        "700cef",
+        "902b34",
+        "c2c30a"
+      ]
+    },
+    {
+      "source": "DUST-CONT",
+      "component": "DUST-CONT-U015",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+      "member_sha256": "27d8dcffde244b6b30ce7853bc82783329a3fdc7ea72090bc65b97728ceb44fd",
+      "current_register_sha256": "83413af506b513d7572791dbeff68f799ad1574a70479c03b875c5f5c834cbfe",
+      "actual_complete_known_BASE_windows": [
+        [
+          1,
+          40
+        ],
+        [
+          41,
+          73
+        ]
+      ],
+      "context_slots": 73,
+      "actual_complete_output_chunks": [
+        "03c194",
+        "710cb5"
+      ]
+    },
+    {
+      "source": "DUST-06",
+      "component": "DUST-06-U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1",
+      "member_sha256": "c5c70671020fd39427857d6572b3037e53506fc7e4e1dc29dbdb2d5d57f5b716",
+      "current_register_sha256": "9ac29caa43e4ca40a32c600afdac6ffb19a9355f44e22bde5a2e824bf02eb73e",
+      "earlier_checked_cache_sha256": "f860ec1f5b9bcf4930ce0e842317f0d69d7fdfb2227c97d7d0dbcb4b92dec565",
+      "actual_complete_known_BASE_windows": [
+        [
+          1,
+          40
+        ],
+        [
+          960,
+          999
+        ]
+      ],
+      "context_slots": 80,
+      "actual_complete_output_chunks": [
+        "9f59fd",
+        "54a02a"
+      ]
+    },
+    {
+      "source": "DUST-03",
+      "component": "DUST-03-U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+      "member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "current_register_sha256": "53b858ed6ac34f17cb61c2e7078b813750fd1295f97ff4b58da4548a3417172a",
+      "earlier_checked_cache_sha256": "bb904394592ea15e625fd352badc6276e4831334500ac45e1809c58927baf1c9",
+      "actual_complete_known_BASE_windows": [
+        [
+          500,
+          539
+        ],
+        [
+          540,
+          579
+        ],
+        [
+          660,
+          699
+        ],
+        [
+          700,
+          739
+        ]
+      ],
+      "context_slots": 160,
+      "actual_complete_output_chunks": [
+        "546383",
+        "25b62e",
+        "7d8607",
+        "0dbd24"
+      ]
+    },
+    {
+      "source": "DUST-04",
+      "component": "DUST-04-U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+      "member_sha256": "6901da0f15cce8040bd8298d4b9e913305bc7e6fe6a04a2c0aaa280515f3aff8",
+      "current_register_sha256": "9e28960e0a4e145affde1fa834936c1ad0bf75257eb9f81b66849b41b2ea88b2",
+      "earlier_checked_cache_sha256": "7c9a61b5c3eb2b4dc29f1064fdcbf9155f913467ba77f54e124c0f0d0d0e8a00",
+      "actual_complete_known_BASE_windows": [
+        [
+          160,
+          199
+        ],
+        [
+          200,
+          239
+        ]
+      ],
+      "context_slots": 80,
+      "actual_complete_output_chunks": [
+        "67de1b",
+        "d1a29e"
+      ]
+    },
+    {
+      "source": "DUST-04",
+      "component": "DUST-04-U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+      "member_sha256": "7750438d70c7202687c9493860d87c3ce02c55582dc69deb4c998dfdd546c1a8",
+      "current_register_sha256": "9e28960e0a4e145affde1fa834936c1ad0bf75257eb9f81b66849b41b2ea88b2",
+      "earlier_checked_cache_sha256": "212fa42423ed0e8fd097e7843e80e98d9e08f2cfb2d23e1abe0386fcfc571986",
+      "actual_complete_known_BASE_windows": [
+        [
+          250,
+          289
+        ],
+        [
+          290,
+          329
+        ],
+        [
+          330,
+          369
+        ]
+      ],
+      "context_slots": 120,
+      "actual_complete_output_chunks": [
+        "a82aa7",
+        "4af543",
+        "09c9f5"
+      ]
+    },
+    {
+      "source": "DUST-04",
+      "component": "DUST-04-U014",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+      "member_sha256": "5a8c7944f627580addc1995ac3263c27196e51db4dc673c81d69bc772479b92a",
+      "current_register_sha256": "9e28960e0a4e145affde1fa834936c1ad0bf75257eb9f81b66849b41b2ea88b2",
+      "earlier_checked_cache_sha256": "0ac392768d055bcb2efcf5ef1cf4d3bd85d415684823328d07c8e8ee2847f5fc",
+      "actual_complete_known_BASE_windows": [
+        [
+          1,
+          40
+        ],
+        [
+          41,
+          80
+        ],
+        [
+          81,
+          120
+        ],
+        [
+          121,
+          160
+        ],
+        [
+          161,
+          200
+        ],
+        [
+          290,
+          329
+        ]
+      ],
+      "context_slots": 240,
+      "actual_complete_output_chunks": [
+        "89fa5a",
+        "d46599",
+        "f7d331",
+        "f7c064",
+        "3df9a5",
+        "5bac25"
+      ]
+    },
+    {
+      "source": "DUST-05",
+      "component": "DUST-05-U010",
+      "member": "item/xhtml/p-002.xhtml",
+      "native_sha256": "bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc",
+      "member_sha256": "58e011cc5bf1cfa62c029c94524c948c18b5681d293d9d9880ce14e79962b5f3",
+      "current_register_sha256": "359f6cd0409f2d15ee32a07e0e141cf291ebf6319a55a9db1f549247d054de9d",
+      "earlier_checked_cache_sha256": "53cf7461faa1d22249fea4d1c8e7ef6933d38c84cb58f7c4514ca4ecc8d4235d",
+      "actual_complete_known_BASE_windows": [
+        [
+          320,
+          359
+        ],
+        [
+          360,
+          399
+        ],
+        [
+          400,
+          439
+        ]
+      ],
+      "context_slots": 120,
+      "actual_complete_output_chunks": [
+        "56f2b0",
+        "38fbd0",
+        "ec2caa"
+      ]
+    },
+    {
+      "source": "DUST-05",
+      "component": "DUST-05-U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc",
+      "member_sha256": "2596ed757bd3504ff02786ad487d930c85f0d9b1073afb3d2dade10ae51cce78",
+      "current_register_sha256": "359f6cd0409f2d15ee32a07e0e141cf291ebf6319a55a9db1f549247d054de9d",
+      "earlier_checked_cache_sha256": "5f7b9bc8b9c1ae5c7f860b22133ac1551d1a2e8e868f6b12396fc87072e7c42b",
+      "actual_complete_known_BASE_windows": [
+        [
+          900,
+          939
+        ],
+        [
+          940,
+          979
+        ],
+        [
+          980,
+          1019
+        ],
+        [
+          1020,
+          1059
+        ],
+        [
+          1060,
+          1099
+        ],
+        [
+          1100,
+          1139
+        ]
+      ],
+      "context_slots": 240,
+      "actual_complete_output_chunks": [
+        "846df1",
+        "2ab748",
+        "e3090f",
+        "6dcc33",
+        "012162",
+        "5d4abf"
+      ]
+    }
+  ],
+  "known_BASE_context_slots": 2902,
+  "accepted_native_objects": 7,
+  "native_members": 18,
+  "meaning": "Known bounded BASE context, including other speakers, blank paragraphs, reports and prior qualified overlap. Not an individual denominator or new global full-source/ruby/residual/image coverage. No independent author, prospective source test, accuracy, confidence or grade gain.",
+  "important_qualifications": [
+    "DUST02 ロリーサ is an invented alias at C02 P542-545, not disclosed true name. No immediate objection to that alias is shown there. MASK unnamed small succubus join remains unresolved and excluded from individual rule support.",
+    "DUST04 U014 P187/P190/P196 is a knowingly fabricated accusation, not an actual Levi demand. Familiar work dress does not authorize an imposed new wager.",
+    "DUST05 U011 P971 reluctance, P999 doorway refusal, P1002 respected choice, P1005 restraint and P1030 release are separate stages. Do not infer universal obedience or a consistent ethical veto.",
+    "DUST07 U011 P578 current counterfeit garment differs from CONT U013 P149 attributed handkerchief. Current counterfeiting not stated for the latter. Specific renewed task choice611 precedes praise618.",
+    "DUST06 U011 P1-40 is present Rionor; P960-999 is nested old farewell. CONT U014 P224-327 apparent Rionor bride is Leen, revealed331-334; genuine Rionor supports Doreck536 and intervenes562-570.",
+    "Doreck’s private willing bargain CONT U013 P223/P286-288 does not establish Rionor’s informed assent. Gaibil’s public control claim is a different presentation.",
+    "Native フェイトフォー and child voice ふぇいとふぉー join current white-dragon identity. English labels remain working conventions; no exact human age or adult romance inferred.",
+    "Feit’s current hair agreement and actual transfer CONT U010 P233-235 do not authorize earlier third-party use. Specific low-flight nod CONT U014 P476 is not complete scheme understanding479.",
+    "CONT U014 P293 connects hunger after missed breakfast to saliva but does not itself identify who decided to skip the meal or establish assent. Preserve the care/permission question.",
+    "Rionor’s current carriage travel and bare-name invitation CONT U015 P28/P31 differ from exile interpretations38/40 and unperformed vocation proposals41."
+  ],
+  "prior_qualified_reuse": {
+    "C15_native_provenance_sha256": "4f21460cdb2148b612b932bec17e57006e1a69e451c2864a10cb457ec5c70ab4",
+    "scope": "Earlier qualified Dust05 U012 and Dust07 contexts retain their original exact windows, access and known-source exposure. Their observations are not added again to the2902 context count or claimed as a new source pass."
+  },
+  "DUST02_transport_metadata": {
+    "historical_original_principal_admission_sha256": "1d029e984afb97a2a14624bcf53d9f2f3702efc8a2019c24f7aef6fe473c5ce6",
+    "actual_exported_principal_admission_sha256": "3e802d39f7ee9dbb42054f3974153eb5499e0ca7ae848124ba4c4951c49b24e5",
+    "blanket_equality_claim": false,
+    "current_native_reader_authority": "Canonical accepted source/reading receipt 8c9de1f7c8d701de4ca3821115e2855c2a425b7471a99bb56dc31ed4b49e0e34 and closed Dust02 source gate; exact local whole EPUB and principal member hashes checked."
+  },
+  "source_bytes_images_or_full_transcripts_included": false,
+  "new_admission_or_frozen_history_revision": false,
+  "public_derivative_of_private_pre_case_provenance": {
+    "file": "KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_DRAFT_01.json",
+    "sha256": "c72ffc89c164c0d9f6e10d2fd094ab2f5a28d809ba0e4ab3fff1ac0b086e7367",
+    "limit": "Frozen pre-case provenance retains2,902 context slots/eighteen members. This later documentation addendum is not part of that pre-case seal and cannot improve model validation."
+  },
+  "post_case_precision_receipt": {
+    "artifact_alias": "LOLF_ROYAL_DRAGON_ACTUAL_KNOWN_PREPARATION_RECEIVING_08.json",
+    "sha256": "1486fe78459a620ec5ec6be237961f2490438202125f67404560dc8656ba2b50",
+    "context_slots": 20,
+    "return": {
+      "source": "DUST-07",
+      "component": "DUST-07-U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "member_sha256": "fffa57992203fe201aa2feb701792a5b7168bb29542cf44f34f1dffbba24b8d5",
+      "current_register_sha256": "cc2abb85e5d05c5a3653c774375e4b0d30644cb7f92c74c4214ebba64864cfcc",
+      "earlier_checked_cache_sha256": "d8efb3785698c554a95c597aa6e3e93fe6e77b7ef96239bc592c1f808de85ec5",
+      "actual_complete_known_BASE_windows": [
+        [
+          280,
+          299
+        ]
+      ],
+      "context_slots": 20,
+      "actual_complete_output_chunks": [
+        "7293e6"
+      ]
+    },
+    "finding": "DUST07 U012 P289 contains three distinct simultaneous actions: Leen pours a drink, Lolisa offers food to Dust and Feit yields one item of her own food. The apparent locator mismatch was resolved; none must be erased or assigned to the wrong person. Feit P298 understanding appraisal is Dust’s, not her own explanation."
+  },
+  "combined_preparation_including_post_case_precision": {
+    "known_BASE_context_slots": 2922,
+    "native_objects": 7,
+    "native_members": 19,
+    "new_independent_or_confidence_credit": 0
+  }
+}

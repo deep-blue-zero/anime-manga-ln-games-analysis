@@ -4,6 +4,7 @@ series: "To Be Hero X"
 phase: 2
 through_episode: 24
 status: "canonical"
+last_updated: 2026-10-25
 ---
 
 # Institutions, Media, Rankings, and Political Economy Ledger
@@ -900,6 +901,16 @@ This section is the current **Phase-2 authority** for full-series institutional 
 
 The earlier episode-by-episode entries remain part of the project's prospective record. They preserve what each episode made legible at the time. When a later revelation changes the interpretation of an earlier institution, this section governs full-series retrieval while the earlier entry remains intact as historical analysis.
 
+### Current source qualification — E10 official naming
+
+Post-freeze naming erratum (2026-10-25; `TBHX-AV-E08-001`): the accepted native-frame checks at E10 WEB `00:23:49.000` and `00:23:50.200` show `联合会正式把它命名为`, followed by `恐惧`. The displayed official name in this scene is therefore **Fear (`恐惧`)**. This supersedes only the “names Fear Particles” wording in historical `IP-E10-06`; that row remains preserved as episode-local history. It does not settle particle terminology or imagery in other scenes. The institutional argument that public official naming lags Liu Zhen and Micky’s private strategic knowledge remains unchanged. See the [E08–E10 handoff audit](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E08-E10_GEMINI_AV_HANDOFF_AUDIT.md), native-observation table and `E08A-06c`.
+
+### Current source qualifications — E18 research display and E24 public ranking account
+
+Post-freeze qualification (2026-10-25; [SUB-06](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_GEMINI_SUBSTRATE_FOLLOWUP_AUDIT.md#sub-06)): the supplied E18 frame at nominal WEB **17:20** shows a humanoid in a purple tank with `FUSION IN PROGRESS`, `LOADING` and experimental-data/completion-rate UI. This strengthens the visible research/engineering context. The image alone leaves operator, institutional ownership, production scale and the complete clone-production chain open; adjacency to another character or project cannot assign those responsibilities. Exact 30/78 telemetry is unverified.
+
+At E24's live tournament presentation, the **FOCUS post reports** that Nice replaces **tenth-ranked E-Soul** to qualify and that **Treeman arranged Nice and Lin Ling's dual entry**. The retained full-resolution screenshot at **WEB 00:22:26.417** resolves the small rank glyph as `第十`; the supplied 1fps window gives nominal WEB 22:26. This is an attributed public account of eligibility and management, with the post's Fear explanation explicitly marked `可能` and attributed to expert analysis. Literal resurrection, continuous Original Nice personhood and the complete current roster/order remain open. See [SUB-08](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_GEMINI_SUBSTRATE_FOLLOWUP_AUDIT.md#sub-08); `E24-D02` is not closed. The account sharpens `P2-IN-08`'s media-classification and `P2-IN-16`'s administrative-recoding examples without replacing the existing E22 causal findings.
+
 The stabilized model distinguishes:
 
 - **institutional function** — what an organization, platform, ranking, office, or procedure does;
@@ -1557,7 +1568,9 @@ The 24-episode corpus does not resolve:
 12. whether public Trust is taxable, ownable, contractually assignable, or legally treated as a property-like asset;
 13. the exact mechanism by which Association memory suppression affects Zero-related Trust/Fear;
 14. the legitimate constitutional design capable of constraining X without eliminating his private person;
-15. whether later seasons will reveal institutional reform, fragmentation, or further cartelization after the twentieth tournament.
+15. whether later seasons will reveal institutional reform, fragmentation, or further cartelization after the twenty-first tournament.
+
+Post-freeze ordinal correction (2026-10-25; `TBHX-AV-E24-001`): the current Season-1 convergence opens the **twenty-first** tournament. The native E04 WEB frame at `00:24:28.000` explicitly counts down fifteen days to the 21st tournament; the native E20 WEB frame at `00:23:56.000` separately announces that the **twentieth** tournament was suspended. This corrects the current retrieval label above while preserving the historical episode entries and the open institutional-future question. See the [E24 handoff audit](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E24_GEMINI_AV_HANDOFF_AUDIT.md).
 
 ## P2 institutional synthesis
 

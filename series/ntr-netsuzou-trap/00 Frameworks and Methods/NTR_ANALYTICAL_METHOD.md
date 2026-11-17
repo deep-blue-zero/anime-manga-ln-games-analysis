@@ -4,7 +4,7 @@ artifact_id: NTR_ANALYTICAL_METHOD
 artifact_type: analytical_method
 series: "NTR: Netsuzou Trap / 捏造トラップ-NTR-"
 generation: NTR_BOOTSTRAP_V1
-status: active_provisional
+status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ recommended_reasoning_class: SUBSTANTIVE_ANALYSIS
 
 # NTR — analytical method
 
-This provisional method defines *how* a future Japanese manga volume is read. The [architecture](NTR_SYNTHESIS_ARCHITECTURE.md) defines where its findings go; the [source map](NTR_SOURCE_AND_SCOPE_MAP.md) defines the witnesses. `SEQUENTIAL_ANALYSIS_LOCK = CLOSED` in the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) until the owner audits and explicitly unlocks it. No examples below assert events in the manga.
+This owner-approved method defines *how* a Japanese manga volume is read. The [architecture](NTR_SYNTHESIS_ARCHITECTURE.md) defines where its findings go; the [source map](NTR_SOURCE_AND_SCOPE_MAP.md) defines the witnesses. The verified [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) records `SEQUENTIAL_ANALYSIS_LOCK = OPEN` under the explicit 2026-10-01 owner authorization for a bounded continuous V01–V06 run. No examples below assert events in the manga.
 
 ## Source and prospective boundary
 

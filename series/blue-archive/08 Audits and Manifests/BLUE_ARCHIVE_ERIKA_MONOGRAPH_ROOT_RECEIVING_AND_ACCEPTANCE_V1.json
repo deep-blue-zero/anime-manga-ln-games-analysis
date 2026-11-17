@@ -1,0 +1,137 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE_INSTALLATION_PENDING",
+  "subject": "Erika",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ERIKA_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This preparation has no persistence or publication effect before complete ROOT installation. ROOT must verify the successful actual exact-head source/housekeeping/final chain for 5f0a24b56557f308e9cef31c7d1c2d58406ef49a, complete the final whole candidate receiving, and install all final declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The complete original payload is immutable. Its pending, C-only, historical counts and audit statuses describe its creation-time custody event, not current adoption. Current ROOT acceptance is qualified explicitly here. Current scope remains355/29; no new source, primary, performance, model, independent literary or count credit follows from transport.",
+  "original_exact_tuple": {
+    "path": "ROOT_ERIKA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 5592,
+    "sha256": "e44adf2233dde45d601c69e8a3102198c384f0df421a18357409b859ea141f8a",
+    "git_blob_oid_of_actual_bytes": "812a67e2f95813b4143237a6a7d0bd73fa00d975",
+    "lines": 85,
+    "immutable_transport_path": "immutable_originals/ROOT_ERIKA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+  },
+  "public_reference_translation": "Full original fields and strings survive with declared reference translation only; public provenance labels do not serve files or admit material. Original byte tuples remain original witnesses and are not claimed as derivative tuples.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "Author and ROOT complete/bounded meanings remain attributed to actual scopes. Mechanical transport adds no literary receiving."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_ERIKA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+    "checked_at": "2026-10-10T13:27:21.215914+00:00",
+    "candidate_sha256": "182186871cedb312a072934e571cb39eb3fa5950007f6f6ad5dcf9d2ddcf42eb",
+    "frozen_outputs_verified": 4,
+    "separate_frozen_manifest_verified": true,
+    "source_dictionary_absolute_path_SHA_pairs": 163,
+    "union_absolute_pairs_with_four_delivery_payloads": 164,
+    "additional_relative_binding_pairs": 1,
+    "all_unique_resolved_dictionary_pairs_verified": 164,
+    "finite_count_boundary": "163 absolute source-dictionary pairs; four-output absolute union164 adds the source JSON. Relative historical metadata binding is verified separately at its stated commit; its addition to a resolved dictionary is a distinct universe. No additional literary/source credit.",
+    "dated_mutable_control_bindings": [
+      {
+        "field": "/whole_scope_ROOT_acceptance",
+        "commit": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "sha256": "2350c273cc06f2d86273b177b299521d96da7ee108c8a8368d4d652487483454",
+        "current_mutable_file_is_not_claimed_equal": true
+      }
+    ],
+    "prior_frozen_payloads_preserved": 113,
+    "separate_supplement_payloads_preserved": 4,
+    "public_arguments_equal_current_main_c1_dated_published_source": 9,
+    "complete_private_arguments": 8,
+    "private_argument_bytes": 33605,
+    "separate_complete_comparison_bytes": 11163,
+    "selected_private_objects_integrity_only": 12,
+    "saved_nonempty_line_joins": 95,
+    "substantial_sections": 11,
+    "original_stable_gap_status": "ALL14_FULL_LITERAL_ORIGINAL_NAMES_OPEN",
+    "ROOT_actual_receiving": {
+      "whole_final_body": [
+        "4132471–55",
+        "88b7d356–105",
+        "cf96a3106–154EOF"
+      ],
+      "whole_readable_receipt": "a439d957EOF",
+      "whole_freeze": "e5271461EOF",
+      "whole_metadata_probe": "86816153EOF",
+      "private_scope_fields": "ade533all8",
+      "nonarray_controls": "19530e visible portions plus ade0b2 complete clipped-middle field recovery; no clipped whole-receipt claim",
+      "all_five_claim_fields": "4fca81",
+      "complete_private_arguments": [
+        "f607d1ER01",
+        "50af93ER02",
+        "f0011bER03",
+        "9f765cER04",
+        "fd48efER05",
+        "e41fe9ER06",
+        "ae4668ER07",
+        "978b0aER08"
+      ],
+      "complete_private_public_comparison": "d302ae80EOF",
+      "prior_adequate_public_meanings": "Personally complete accepted MAIN480/S2 contexts and G190/MINI32/E835 at prior actual scopes; complete E015/E018 already retained in Chiaki/Iroha/Kirara. Connected G20 420–602 qualified source frontier reused; not a new whole602 read. No transferred fresh primary/raw/native/schema/QA/AV/independence credit."
+    },
+    "semantic_grounds": [
+      "Leopard preference, shopping, singing, food, solitude, chosen help, conversations and shared views/walks remain intrinsic ends before any plot or tactical usefulness.",
+      "Friends remain expressly blameless in the solitude account. Consultation, reported relief and local apology/pleasant conversation do not supply a clinical diagnosis, lasting cure or universal adult access.",
+      "Actual window shopping, late dinner, hand-leading, viewing and walking to a lit place differ from payment, tomato transfer, reported escort, completed next meal, peer disclosure, next consultation or repeat visit.",
+      "Money refusal, withholding bandage-shop and possession information, use-me objection, self-presentation and chosen privacy remain independent agency after gratitude and warmth.",
+      "Broadcast enjoyment, specific song assent and refusal of permanent replacement preserve her own conditions and the absent host’s claim to a place. Contact permission does not demonstrate transmission or later company.",
+      "Umika’s happy answer, actual friendship/help and safely ended trip coexist with anxiety, delay, breached curfew, danger disguised as entertainment and unresolved costs. Kirara’s specific false planned-fire assent is not transferred to Erika; Erika’s planning comment is not the accident’s sole cause.",
+      "The named Main invitation and transmitter-bypass proposal are positively routed. Later coalition broadcast and recovery do not certify an isolated Erika cause or an already completed E015 mechanism.",
+      "Joined inward clauses, generic timed logs, named character narration, full chat tails, alternatives, repeated editions and JP/KR horizon/dusk differences preserve actual mode. Written precision is not inspected acoustic performance, guaranteed motive, property title, romance or whole-world chronology.",
+      "The character’s complete bounded argument adds no automatic completion for directed relationships, chosen club/broadcast, ensemble, institutions, Sensei or registers."
+    ],
+    "scope": "355packages/29namedsections unchanged; existingP3-CHAR-ERIKA/P3-F027/P3-A087 only",
+    "progress": {
+      "previous_ROOTaccepted_packages": 61,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 62,
+      "character_packages": 61,
+      "directed_relationship_packages": 1,
+      "published_remote_packages": 54,
+      "published_source_commit": "5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+      "published_source_chain": "PASS_EXACT_SOURCE_HOUSEKEEPING_FINAL",
+      "canonical_Erika_persistence": "PENDING_EXACT_ADOPTION",
+      "quarter_reached": false
+    },
+    "new_primary_native_raw_schema_QA_AV_or_model_credit": 0,
+    "nine_unbound_large": "UNREAD_UNHASHED",
+    "R_Git_provider_writes": false,
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-ERIKA",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ERIKA_CHARACTER_MONOGRAPH.md",
+    "bytes": 36846,
+    "sha256": "fd4e234ee761e467c022a26423120ced75a8baadfd8ab8a556f31d84cfa64709",
+    "git_blob_oid_of_actual_bytes": "48c876a4ad0724265a17ba0aa0178d2fa7a0c176",
+    "lines": 169
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "Independent ROOT whole saved receiving, exact source/paragraph verification and canonical adoption remain pending; the author grants no acceptance or count.",
+      "new": "ROOT independently received the whole saved character argument, verified its exact bindings and accepted its complete boundary WITH LIMITS; canonical persistence follows complete ROOT installation. The author granted no acceptance or count to the original candidate.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    }
+  ],
+  "exact_added_authority_or_custody_paragraphs": [
+    "ROOT accepted this complete eleven-section character argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_ERIKA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_ERIKA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative after complete ROOT installation. All fourteen original gaps remain OPEN at their claim-specific boundaries. The355-package/29-section scope and existing responsibilities are unchanged. The prior54-package source publication is `5f0a24b56557f308e9cef31c7d1c2d58406ef49a`; ROOT’s successful actual exact-head source/housekeeping/final chain is preserved separately as predecessor proof. This preparation supplies no successor adoption, publication, main integration, quarter, model or performed evidence before complete ROOT installation. Frozen author/control/progress snapshots retain their dated meaning.",
+    "Erika’s163 unique absolute author-dictionary bindings,164 four-output-union bindings and ROOT’s164 resolved dictionary bindings are distinct populations. The output union adds the source receipt itself; ROOT’s resolved dictionary adds one separate repository-relative historical metadata witness. Equal counts do not merge these predicates or enlarge custody."
+  ],
+  "exact_added_retrieval_title": null,
+  "stable_original_gap_alignment": null,
+  "immutable_ROOT_count_cause_qualification": null,
+  "mandatory_private_semantic_erratum_public_projection": null,
+  "fixed_publication_snapshot": "Nine packages55–63 only;63aftercompleteROOTinstallation,54already source-published; later live ROOT acceptances excluded.",
+  "binding_count_predicates": "163uniqueabsoluteauthor-dictionary;164four-outputunionadds source receipt;ROOT164resolveddictionaryadds one relative historical metadata witness. Distinct populations remain distinct."
+}

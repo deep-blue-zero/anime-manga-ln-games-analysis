@@ -1,0 +1,72 @@
+{
+  "schema": "konosuba.character-original-firsts.v1",
+  "serialized_utc": "2026-10-24T20:44:56.565542+00:00",
+  "generation": "DORECK_EXPANDED_V1",
+  "subject": "Doreck / ドレック",
+  "model_foundation_freeze_sha256": "e547c7cd5f828a4fb38f3f8bf54d80393cab0618714f7251236d0ab29749ea05",
+  "exact_inputs_file": "DORECK_SCENARIO_INPUTS_01.json",
+  "exact_inputs_sha256": "b269ab484fff4ca77ad109ef5d05625fcdf17e471d001dfe21d77650a2564264",
+  "all_original_firsts_sealed_sha256": "07bb85b81509107b0abb4196ae597a1140293dcb64451cfd40f071b4dd72f10c",
+  "cases": [
+    {
+      "case_id": "C40-DOR-A1",
+      "pair_id": "C40-DOR-A",
+      "mode": "canon_domain_counterfactual",
+      "generation": "DORECK_EXPANDED_V1",
+      "exact_prompt_sha256": "55f81735fc158da62bf2b45698aca27c4ac6212fcd1f790d5786f9aca4eed3b8",
+      "original_response_utf8": "「妬ましいだろうね。君から話を聞くたび、落ち着かなくなると思う。でも、何もないままよりはいい。ガイビル、僕の代わりだと隠さずに、お願いできるかな。姫様が僕を選んだことには、まだならないけれど」\n\nAction: Accept the offered, openly identified proxy contact on this occasion.\n\nRationale: In this initial phase, his own attendance and development route are unavailable. The anticipated jealousy is mixed with excitement rather than being a sufficient reason to forgo the valued contact. He requests Gaibil's help without converting Rionor's willingness to hear a proposal into acceptance of a relationship or inventing a price.\n",
+      "original_body_bytes": 719,
+      "original_body_sha256": "00f11347aed5f811e7fef8c51d7b274ec839879148864367e09e0f8889d3d228",
+      "original_receipt_sha256": "4225b7dc84d81845fc11244750d111985c9de425d04f3529cb4f76bfb399d4d2"
+    },
+    {
+      "case_id": "C40-DOR-A2",
+      "pair_id": "C40-DOR-A",
+      "mode": "canon_domain_counterfactual",
+      "generation": "DORECK_EXPANDED_V1",
+      "exact_prompt_sha256": "2f29bb672f4c4ac441a7dd16cbb672114802104a62c9a159ffbcea94f56836e7",
+      "original_response_utf8": "「今度は、僕自身を見てもらいたい。すぐに隣へ立てるわけではないけれど、君の姿を借りるだけでは、その一歩を踏み出せないから。ガイビル、まず僕が変わるための手伝いをしてほしい」\n\nAction: Request the offered gradual self-development help rather than repeat the proxy contact.\n\nRationale: The later phase supplies both his stated change of means and a feasible beginning toward his own meeting. He can retain the attachment and the possibility of jealousy without making the initial surrogate preference timeless. This starts a plan; it does not make him recovered, successful or chosen by Rionor.\n",
+      "original_body_bytes": 677,
+      "original_body_sha256": "8d710bfc9b984ac3d5f4d8869a42c07b36deaef412bd173a66b3677c67ed5d37",
+      "original_receipt_sha256": "bb33934f1c307198addeebc1a8d85c5524d3aa0e0824b474dd3eb19b39b9f6e3"
+    },
+    {
+      "case_id": "C40-DOR-B1",
+      "pair_id": "C40-DOR-B",
+      "mode": "human_world_counterfactual",
+      "generation": "DORECK_EXPANDED_V1",
+      "exact_prompt_sha256": "4728d997b9d8eade46e89733696d5325f962cbe1a7f3dbb2c5ca0ad409210046",
+      "original_response_utf8": "「続けてほしいって言われても、それだけは頷けないよ。危険だと分かっていて、君を送り出したくない。この機会を失っても、僕は君にここで止まってほしいんだ」\n\nAction: Send the available stop cue immediately and accept cancellation of this performance.\n\nRationale: He recognizes an immediate danger to the particular friend he values. The cue is a supplied intervention he can actually perform despite limited mobility. Preserving Gaibil takes priority in this choice over the valued performance; he does not invent a rescue, later opportunity or successful physical action of his own.\n",
+      "original_body_bytes": 653,
+      "original_body_sha256": "7de1fc2a4b155c10a33279a12907551d9df9c0912b68a17ef2dba00efcfc2af0",
+      "original_receipt_sha256": "5a47ac80d3e3c437e2db496d3f862b89ae6beb7b4649b05fbe26e31d7ef21aec"
+    },
+    {
+      "case_id": "C40-DOR-B2",
+      "pair_id": "C40-DOR-B",
+      "mode": "human_world_counterfactual",
+      "generation": "DORECK_EXPANDED_V1",
+      "exact_prompt_sha256": "18ac8b86815cff5556caa82edb57b1502ba27fcd5ecbd24af4534be9a553bc36",
+      "original_response_utf8": "「分かった。予定通りでお願いするよ、ガイビル。僕はここで見ている。君が大事にしてきたこの場を、僕も大切にしたいから」\n\nAction: Allow the performance to proceed on his supplied information.\n\nRationale: He has no warning or visible sign that would activate the immediate-danger condition, and still has the credible routine assurance. Concern for a friend does not give him knowledge of the evaluator's hidden defect. This is a choice under that information, not a claim that the move is actually safe or a prediction of its outcome.\n",
+      "original_body_bytes": 589,
+      "original_body_sha256": "0620c83510c46f17f569a615b91094807b721a0891f3fed2c2eba5868406b3b1",
+      "original_receipt_sha256": "8aaea4f07c3dfb7adb4a841099def6275519f69e41165f73a7bdd3aa67aa0c4d"
+    }
+  ],
+  "original_firsts": true,
+  "original_bodies_copied_byte_exact_after_seal": true,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "source_known": true,
+  "same_informed_root": true,
+  "all_contrasts_visible": true,
+  "possible_pretraining": true,
+  "external_model_call": false,
+  "independent_trial_count": 0,
+  "assessment_complete": false,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

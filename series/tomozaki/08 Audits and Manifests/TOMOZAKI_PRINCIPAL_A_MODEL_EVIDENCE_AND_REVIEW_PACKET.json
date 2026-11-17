@@ -1,0 +1,2744 @@
+{
+  "schema": "tomozaki_principal_A_portable_public_model_evidence_and_review_packet/v1",
+  "packet_id": "TOMOZAKI_PRINCIPAL_A_PUBLIC_EVIDENCE_20261103_V1",
+  "artifact_type": "derived_model_evidence_and_review_packet",
+  "authority_class": "model_validation_provenance",
+  "status": "canonical",
+  "release_state": "mutable_active",
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_primary_literary_authority": true,
+  "supersedes": [],
+  "superseded_by": [],
+  "literary_basis_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+  "release_record_commit": "164a593d8ee6998cf735442d855135ababfee497",
+  "release_id": "TOMOZAKI_JP_LN_V12_EDITION_1_20261103",
+  "authority_scope": "Exact separately root-accepted Fumiya V1, Hinami V2 and Kikuchi V1 bounded manual prose cores and complete portable provenance. Source and literary owners veto output; this administrative candidate is not installed or published.",
+  "models": [
+    {
+      "person": "Tomozaki Fumiya",
+      "model": {
+        "path": "series/tomozaki/07 Character Reconstruction Models/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 20712,
+        "sha256": "835a7db1344b431e1ff69b0ad8005181d655a1b1a2e13953b7cea4ad585d4d9c"
+      },
+      "mechanisms": 12,
+      "accepted_core_bytes": 18238,
+      "accepted_core_sha256": "cb423a6a33fd9ecdf58d124ac5959471a6a130ad513759d6434d75224af439fa",
+      "original_full_selected_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      },
+      "exact_root_acceptance": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "entire_core_unchanged": true
+    },
+    {
+      "person": "Hinami Aoi",
+      "model": {
+        "path": "series/tomozaki/07 Character Reconstruction Models/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 20953,
+        "sha256": "5f314d0100b006df7724814de3c48a43945517efa7e9f10899ff0da045b33913"
+      },
+      "mechanisms": 12,
+      "accepted_core_bytes": 18492,
+      "accepted_core_sha256": "2016a1842d662d897534a52f55afcbfc19967d286e5cf361090d9958121492a3",
+      "original_full_selected_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "exact_root_acceptance": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      },
+      "entire_core_unchanged": true
+    },
+    {
+      "person": "Kikuchi Fuka",
+      "model": {
+        "path": "series/tomozaki/07 Character Reconstruction Models/KIKUCHI_FUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 21949,
+        "sha256": "495fce70468107d49702e12efa6e6d96c9574ca409723c629e1fe482faf91bca"
+      },
+      "mechanisms": 12,
+      "accepted_core_bytes": 19480,
+      "accepted_core_sha256": "2d1c651d45615eb4279801e4bc615a0fc9afb9b38257a707b099b9ec204f3c08",
+      "original_full_selected_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      },
+      "exact_root_acceptance": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      },
+      "entire_core_unchanged": true
+    }
+  ],
+  "complete_unique_record_count": 56,
+  "record_index": [
+    {
+      "record_id": "principal_a.source_sufficiency.01",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_sufficiency_root_20261103/ROOT_SIX_PRINCIPAL_CONSTRUCTION_ADMISSIONS.json",
+        "bytes": 16398,
+        "sha256": "733b2fbb431c610d74d09f90eb6d3bdc9c8e4d2da7832155949d33e28c712a17"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "dae3a6cbadc805a5dd9d77724cb96d9734b40a5c5703a46b9e7ab85fad093787",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_SOURCE_SUFFICIENCY_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      }
+    },
+    {
+      "record_id": "principal_a.source_sufficiency.02",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_sufficiency_root_20261103/ROOT_SIX_PRINCIPAL_SUFFICIENCY_IDENTITY_REPLAY.json",
+        "bytes": 7314,
+        "sha256": "efbec6ce8c5ca5855f490c364d6e70adfbb6f7371d4d3c5f48f234023af45ea4"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "1ed2a4b87bf947c9742071094c8ea6425cc43ea96b1f88493ae5d16c9eb02ecd",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_SOURCE_SUFFICIENCY_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      }
+    },
+    {
+      "record_id": "principal_a.source_sufficiency.03",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_sufficiency_a_20261103/FINAL_PRINCIPAL_SUFFICIENCY_HANDOFF_SEAL.json",
+        "bytes": 1188,
+        "sha256": "6e23673fe624721d0572e404fb31a6ceecc4539b99f5ea0f2f093d2739eee1d8"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "250a97ee6a4c58f656c2799f41d9717366ddf072595ade4a34bca67edb833f14",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_SOURCE_SUFFICIENCY_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      }
+    },
+    {
+      "record_id": "principal_a.source_sufficiency.04",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_sufficiency_a_20261103/PRINCIPAL_THREE_SOURCE_SUFFICIENCY_ASSESSMENT.md",
+        "bytes": 23945,
+        "sha256": "de0e84a09b3738244115cd106d10f5af3835a9c390952acca9c170e92f32aebd"
+      },
+      "representation": "complete_original_UTF8_text",
+      "semantic_value_sha256": "570fd2d8f5c96f177b799887de558e3ad7bc9e2822d3b859c3bc4c3320a0b536",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_SOURCE_SUFFICIENCY_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      }
+    },
+    {
+      "record_id": "principal_a.source_sufficiency.05",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_sufficiency_a_20261103/FINAL_PRINCIPAL_READ_SCOPE_AND_IDENTITY.json",
+        "bytes": 11447,
+        "sha256": "9385e467058eb685c886131346c06694533d42ecbda8426150bd2778233624d7"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "bccdf2b6bc5ea91c8bdfa181850ba8fa41a24de410d8828dcf7dbd9c463faceb",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_SOURCE_SUFFICIENCY_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      }
+    },
+    {
+      "record_id": "principal_a.source_sufficiency.06",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_sufficiency_a_20261103/PRINCIPAL_THREE_DOMAIN_RECOMMENDATIONS.json",
+        "bytes": 3192,
+        "sha256": "208adb98484917c4a45f9d31a07b1f3fa89170da44ba83e02d112a3ffb961fe3"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "bc4d98f85cca62698e70feb1608df4bf22d5fdb8c9992d787c11bd1581f54fc9",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_SOURCE_SUFFICIENCY_RECORDS.json",
+        "json_pointer": "/records/5/value"
+      }
+    },
+    {
+      "record_id": "principal_a.preregistration.01",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/PREREGISTRATION_INPUT_RECEIPT.json",
+        "bytes": 13106,
+        "sha256": "74f696a234c85b2c67beab9d2005a06226a7cee4c8135eab8b6a66274983909e"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "d3568e1c377668a790849224fe65f0af9d4d8345487afbc820012efd1d3ea86b",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      }
+    },
+    {
+      "record_id": "principal_a.preregistration.02",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/PREREGISTRATION_INPUT_RECEIPT_V2.json",
+        "bytes": 14432,
+        "sha256": "371524f2d160ca8c918bb644467b62cdcd585afd89aa49b6505af2cdcff230b0"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "aaed80c18e65565bb0a2488dbfcdaafcd52145d939e65b7d7c54bdddd0fcab60",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      }
+    },
+    {
+      "record_id": "principal_a.preregistration.03",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/PREREGISTRATION_INPUT_RECEIPT_V3.json",
+        "bytes": 14935,
+        "sha256": "6686a44f2de58dae8e631a82d0bd7a4f4acbbd4c8a21b5449daff4d7e9127344"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "1fb7a4da7a8cf9b2ca97370638fd744037c8db92b31b81ecb6413dff53e04a78",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      }
+    },
+    {
+      "record_id": "principal_a.preregistration.04",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/PREREGISTRATION_PREPARATION_SEAL.json",
+        "bytes": 1068,
+        "sha256": "e9f0c252aa1986ba94e39aef671b0f70d2bcf677a05122f4ce548d68c42632ae"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "7c8825a5dbc7499fb8611043b4fba7c057736917c2d426e70a1cfe82a3afa57f",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      }
+    },
+    {
+      "record_id": "principal_a.preregistration.05",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/PREREGISTRATION_PREPARATION_SEAL_V2.json",
+        "bytes": 1518,
+        "sha256": "cda8f1cb4ac91e6199ce1ac2c3ebe4a70d1d582a5db68e3e421d12980a423d64"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "9ced48e1a6883f7d6c7942a43e998ab2230a0bbf0917f7284ca02c570af2bcb7",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      }
+    },
+    {
+      "record_id": "principal_a.preregistration.06",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/PREREGISTRATION_PREPARATION_SEAL_V3.json",
+        "bytes": 1676,
+        "sha256": "85b249822e0dcd54bd573992015bf3259b1b4649dab3d972576d2af02aac5d1a"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "ee685d29b071e77a622385c003613ed91fd8b2bb9d0a740c0e2a60f3f6a5d0ca",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/5/value"
+      }
+    },
+    {
+      "record_id": "principal_a.preregistration.07",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/PREREGISTRATION_PROPOSAL.json",
+        "bytes": 46593,
+        "sha256": "6c11b7c04c8bbe7d3245c0f0ca7cc180f329efa3b9eda8e1e1b49a58013dfc0b"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "a915b2d4452f379d0066d671ca1ec1ea3c95ff753734a8460fc315eeea4ec150",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/6/value"
+      }
+    },
+    {
+      "record_id": "principal_a.preregistration.08",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/PREREGISTRATION_PROPOSAL_V2.json",
+        "bytes": 48136,
+        "sha256": "aada89d86e2c7afea1384325f28f8c7409c7c080c0b3567b635631b867578d50"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "918aed6b80ac714d68e1f27602fb423c63a966693e7018a20da9078cab808cf2",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/7/value"
+      }
+    },
+    {
+      "record_id": "principal_a.preregistration.09",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/PREREGISTRATION_PROPOSAL_V3.json",
+        "bytes": 48484,
+        "sha256": "9b6c9d15dc9a72711b823199e737031bdd3c4604d465f94e6c539a7f2ac8de4c"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "2cee6ae9fccda353a34a234402c80d751c3917edd858566ee482512b1f7eab9c",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value"
+      }
+    },
+    {
+      "record_id": "principal_a.preregistration.10",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/PREREGISTRATION_V2_BOUNDED_DIFF.json",
+        "bytes": 9685,
+        "sha256": "11eb985f0ddc50446d118e680298f5c430c6dfe0e1da3f65ce7336e6327d62f0"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "f6ff39d77933ecb22447b67d8378b08e2ec0a0a504687faa045d7f8f94421375",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/9/value"
+      }
+    },
+    {
+      "record_id": "principal_a.preregistration.11",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/PREREGISTRATION_V3_BOUNDED_DIFF.json",
+        "bytes": 7163,
+        "sha256": "e3a3440fbe54aaf3043152d6a235fbd114465f94f927231b80c1a31feaa27084"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "0822fe25c8e3321066fd2bb5f0ca49ca15e99486bf4ef1a41f93e69a7e7de95f",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/10/value"
+      }
+    },
+    {
+      "record_id": "principal_a.preregistration.12",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_review_root_20261103/ROOT_PRINCIPAL_A_PREREGISTRATION_FREEZE.json",
+        "bytes": 8149,
+        "sha256": "de8f67661c31e70194d9275e025505eaa656ad879473c7c9608cc97946d7d962"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "63e7f049716f8b77d4a3e1cd16b388f0d6e1af5e63f6e89ee40c87c345c0e193",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/11/value"
+      }
+    },
+    {
+      "record_id": "principal_a.construction.01",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/CONSTRUCTION_AUTHORIZATION_AND_DEPENDENCY_RECEIPT.json",
+        "bytes": 4719,
+        "sha256": "2d08c7cc676bc834212e51ddc53e02b207ec914f93521cf8064f46a3e4e6d9a7"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "4de44433bd81cb51734ac4a7713d31a30502c76e334267ba294850309d30e290",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      }
+    },
+    {
+      "record_id": "principal_a.construction.02",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/dependency_draft_history/CONSTRUCTION_AUTHORIZATION_AND_DEPENDENCY_RECEIPT.json",
+        "bytes": 4398,
+        "sha256": "d13722bd9a503d05f25da40bc23ae61864731c41277706f63c7ab1e812ee11cd"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "c8ff3f0aac353c4b5c517ff1c656add30c6c5866ef99a62c0c51162b9d0621fc",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      }
+    },
+    {
+      "record_id": "principal_a.construction.03",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/dependency_draft_history/PRINCIPAL_A_MODEL_DEPENDENCIES.json",
+        "bytes": 27882,
+        "sha256": "47ed1c67ad869f049b3a4ad7203b305ecab9c9bff9c8114dc4e5704fbd001ee7"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "e1b95e2632f2431a7871af0531b4a27efdf0e950d111e5847a74f8ffba516bb3",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      }
+    },
+    {
+      "record_id": "principal_a.construction.04",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/FUMIYA_IMMUTABLE_REVIEW_SLICE.json",
+        "bytes": 3091,
+        "sha256": "f3de937e7fed9f52095bb93b71708e1da5e106d5b7ef46adb92bbc34e2b8a5e2"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "073d9ba18770f6ef1e8ac2eda66c9e821251714f640cdf7aa9ced6733a4d18b6",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      }
+    },
+    {
+      "record_id": "principal_a.construction.05",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/HINAMI_IMMUTABLE_REVIEW_SLICE.json",
+        "bytes": 4574,
+        "sha256": "6caed3af355af2547dcebc87f03e668f115cdcf2937dcea29a4d985f33162c77"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "0c119a1616f004ff79f367bf6a16fe46c0caa25bf82f0d28edecb64eb274abe8",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      }
+    },
+    {
+      "record_id": "principal_a.construction.06",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/HINAMI_IMMUTABLE_REVIEW_SLICE_V2.json",
+        "bytes": 3212,
+        "sha256": "269f789329aa1b77a58e69ebee1c66e5f0db6713d2bd854945e63a5153166fdd"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "f7147637356e6ff5b76e54bc30311df3c9f922e729adc3e867ac74d0615feee9",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/5/value"
+      }
+    },
+    {
+      "record_id": "principal_a.construction.07",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/KIKUCHI_IMMUTABLE_REVIEW_SLICE.json",
+        "bytes": 2998,
+        "sha256": "e6c497557e947c71a8e16636e68536539f593d6fa9acd773b32595e930af4092"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "4e7dce777cbf7683485e5821b6c07b09d020d12369bb8a25327cede84abd6925",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/6/value"
+      }
+    },
+    {
+      "record_id": "principal_a.construction.08",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/PRINCIPAL_A_MODEL_DEPENDENCIES.json",
+        "bytes": 28347,
+        "sha256": "4e9cf8d362885839e6552ac5a4b01c8fca4d60729859288d4114a3b821e3c8c1"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "f33d57d331b9e4f2fe98af413ddac7c53555c86eccb4e81803f5f81f64411ded",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/7/value"
+      }
+    },
+    {
+      "record_id": "principal_a.construction.09",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/PRINCIPAL_A_MODEL_EVIDENCE_AND_REVIEW_HANDOFF.json",
+        "bytes": 21248,
+        "sha256": "576ef059d7ba0a4b21bffe3f3accf864a496ed96a65bdf0518389d94f9515061"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "17ce0f57aa9ec10e38dd8b663afd79f55aa014b070e3e93da84f65ea7eefe855",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/8/value"
+      }
+    },
+    {
+      "record_id": "principal_a.construction.10",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/PRODUCER_FINAL_READBACK.json",
+        "bytes": 1133,
+        "sha256": "34850058f93697b9da51fda29551d880d5247db00e7e4e349c906f54b6c12d99"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "3e2f8460790a2d451c21e31f8514b110945ce075deaebf266eb512b903a9a031",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/9/value"
+      }
+    },
+    {
+      "record_id": "principal_a.construction.11",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/START_HERE.md",
+        "bytes": 1967,
+        "sha256": "9640dabf780bf1dc394af96f59924f564a5e940343a6b6a2a473b8a4990e1154"
+      },
+      "representation": "complete_original_UTF8_text",
+      "semantic_value_sha256": "2810a25d4ddfc68061e6ffb6addf850a595ee5007165a40d201caf8c35a8c6fc",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/10/value"
+      }
+    },
+    {
+      "record_id": "principal_a.construction.12",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/FINAL_PRINCIPAL_A_CONSTRUCTION_HANDOFF_SEAL.json",
+        "bytes": 12258,
+        "sha256": "57a779d28d039cac364e169d9fd50dbc4a49568cc7396a36b4552947e0564198"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "00e8f92a447a30a51e851aaf2b3fc83e57ca626e8538fcf37c2d9d58e5e3e4c5",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/11/value"
+      }
+    },
+    {
+      "record_id": "principal_a.original_model.01",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/draft_pre_trace_history/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 19242,
+        "sha256": "af9747e0d3a233d26bf706e16f02c22fd7d80087ee08007c7ba0c1b43f94b112"
+      },
+      "representation": "complete_original_UTF8_text",
+      "semantic_value_sha256": "b950aa63603580cc1a96cab2584911386cd9c8878086d8ac326b8d7f737694b8",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      }
+    },
+    {
+      "record_id": "principal_a.original_model.02",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 19261,
+        "sha256": "c4d90772e32e5fd63ebe42e548452758bcf9f265bda6c60f1b5af0ade1f70aa4"
+      },
+      "representation": "complete_original_UTF8_text",
+      "semantic_value_sha256": "fabad1be17e81cc467429f1a80edeaeba49b383792f4a5cc585c9f5ffa377812",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      }
+    },
+    {
+      "record_id": "principal_a.original_model.03",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL_V2.md",
+        "bytes": 19545,
+        "sha256": "32c94045ec73bf1598452500090b3d8e40640f2deda84e89d7e23dd9ec723e0f"
+      },
+      "representation": "complete_original_UTF8_text",
+      "semantic_value_sha256": "6aad994c1cfad6842555d82894acc40928436efcffec9084c0b2afe6ca1aad5e",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      }
+    },
+    {
+      "record_id": "principal_a.original_model.04",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/KIKUCHI_FUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 20541,
+        "sha256": "7686f9e82b1aaa493184a5ce8700127e0961f5167737ef479946bf028b73b310"
+      },
+      "representation": "complete_original_UTF8_text",
+      "semantic_value_sha256": "a3bdcc967ebda4820a97d4e40587e728ddd3133a613ee442e952d270f404be22",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      }
+    },
+    {
+      "record_id": "principal_a.original_model.05",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 19304,
+        "sha256": "d2e66a7a9ce2b99c68e5a0d9fb07adb32905414b9403a6a50c76a655dda18f34"
+      },
+      "representation": "complete_original_UTF8_text",
+      "semantic_value_sha256": "0525fa394a3016ae0577bf951e473d8450fe39507ff065d042254b0aa6d3155e",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      }
+    },
+    {
+      "record_id": "principal_a.producer_test.01",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/FUMIYA_EXPOSED_AND_HYPOTHETICAL_TESTS.json",
+        "bytes": 33428,
+        "sha256": "39c37e07d99d215cc4d8d44585933c96b2df8fb796e6e7a8a13793b22d1a1a89"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "5bc187ccdffef2fcbc588b87cb34e481e4ae0c90686bc9cfd0c1d7a4578d86a1",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      }
+    },
+    {
+      "record_id": "principal_a.producer_test.02",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/HINAMI_EXPOSED_AND_HYPOTHETICAL_TESTS.json",
+        "bytes": 32078,
+        "sha256": "3defbe397fc9db11422f88cdb37a8ba9cd7ed19a3a94b91cbf5f0a5cb4b9f363"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "aa4fff53182a6f2216533f48d7b05ccc8fcc4357850e27cdaa7677c2728f7077",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      }
+    },
+    {
+      "record_id": "principal_a.producer_test.03",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/HINAMI_EXPOSED_AND_HYPOTHETICAL_TESTS_V2.json",
+        "bytes": 33159,
+        "sha256": "9c5a471e6a2d08fa590f46da9a8b4271e79cca0f802313becd2664ed82f05378"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "a7e7866b6d38bd414ee7979b57dcf0461c3879f52f520bdc8a23b88510ed8c3c",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      }
+    },
+    {
+      "record_id": "principal_a.producer_test.04",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/HINAMI_EXPOSED_AND_HYPOTHETICAL_TESTS_V3.json",
+        "bytes": 48633,
+        "sha256": "4b2aeff8eab68eaee1a384a3be4704ebb12d0476dc1e22ddcd224565d55fe47f"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "ce13215faf61106618b1b212e236a4d66178f033565741f648041eda1f3e8c40",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      }
+    },
+    {
+      "record_id": "principal_a.producer_test.05",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/KIKUCHI_EXPOSED_AND_HYPOTHETICAL_TESTS.json",
+        "bytes": 33376,
+        "sha256": "d8b5bdf60c01935718b81328f968423b5a2af1b551ca105e5432e725d830393c"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "187361e6fbbd7d174418df0d62171b327b7884a753cba59518445fcc534da324",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      }
+    },
+    {
+      "record_id": "principal_a.repair_history.01",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/HINAMI_AM9_OVERLAY_AND_AFFECTED_RETEST_JOINS.json",
+        "bytes": 45598,
+        "sha256": "8560a98f975b83fd565bd83412c3ea4c787db1eaee0c2ce25ffaa9e9a91359b1"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "76c1426a8984f583b1a3aa681352a4c2dbe8869bd02f96443264bc04ed5b1890",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_REPAIR_HISTORY_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      }
+    },
+    {
+      "record_id": "principal_a.repair_history.02",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/HINAMI_AM9_SOURCE_IDENTITY_SUCCESSOR_PREPARATION.json",
+        "bytes": 7032,
+        "sha256": "4c9d34b937e2843903f69e6e891998ac7c19090de53ae1d79f25e46609b516eb"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "7fc05bc7c7606214ed98bd8c2d76ba7d3ce80b2682ffb2e76300a976674eccf7",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_REPAIR_HISTORY_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      }
+    },
+    {
+      "record_id": "principal_a.repair_history.03",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/HINAMI_H2_TRACE_CORRECTION_AND_RETEST.json",
+        "bytes": 5034,
+        "sha256": "1e2706c2a3d01d4126b5e829009f84014d74279b9a758a77f93850d2ace2191d"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "abc1f561a285ae8c06f468b11ce9f7fbcfab2282f706b422afbb36fcc16a4ea6",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_REPAIR_HISTORY_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      }
+    },
+    {
+      "record_id": "principal_a.repair_history.04",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_a_20261103/HINAMI_PRE_TRACE_REFERENCE_CLARIFICATION.json",
+        "bytes": 2735,
+        "sha256": "e5161a51f9477b8d6b747f3e7d986af3acc3ebf015bd0ec97614f1f94ebe4151"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "72b7b97f8430c55160c7657f3b8aebee92b35030d9039f19cacff21cd36baf86",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_REPAIR_HISTORY_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      }
+    },
+    {
+      "record_id": "principal_a.repair_history.05",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_models_a_independent_review_root_20261103/HINAMI_KNOWN_FACES_CRITERION_CLARIFICATION_AND_REPAIR_GRANT.json",
+        "bytes": 7396,
+        "sha256": "e4b26ece102d815f6104f65e06a91f3f4ef8e560afe0f3839f029b494f01248b"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "7407024974fe06b4f1ab0b3bbb27a8f636672d56aea28c0a133edea11f940c71",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_REPAIR_HISTORY_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      }
+    },
+    {
+      "record_id": "principal_a.independent_review.01",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_models_a_independent_review_root_20261103/FUMIYA_SIX_ACTUAL_INDEPENDENT_CHALLENGE_TRACES.json",
+        "bytes": 22534,
+        "sha256": "4de4783455bb2371ffeae58fcffe62f70b5fc03b8a5572a9d3be32521030e409"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "cfda18677b69a7124a605e5ac12fd2b6d9042d28c65eab220985ba2de832b707",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      }
+    },
+    {
+      "record_id": "principal_a.independent_review.02",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_models_a_independent_review_root_20261103/HINAMI_SIX_ACTUAL_INDEPENDENT_CHALLENGE_TRACES.json",
+        "bytes": 19748,
+        "sha256": "fbaa33d5ff2b57005e12772d0ba7d0a7521ba2aa2b9d85b41b60f2cfc2037564"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "d0d0e30bdcff576e20b04ff18bc92fbbfcfd3e713848f0e788524da6a82ce887",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      }
+    },
+    {
+      "record_id": "principal_a.independent_review.03",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_models_a_independent_review_root_20261103/KIKUCHI_SIX_ACTUAL_INDEPENDENT_CHALLENGE_TRACES.json",
+        "bytes": 17036,
+        "sha256": "d7752e61375ba41bc44321194a1d89b8e57e73847568247b7e6b13f36148171f"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "e368fdd3fc165c3e15d9ca61839d237a2112e28709f171aa9f779fe0e465c2f9",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      }
+    },
+    {
+      "record_id": "principal_a.independent_review.04",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_models_a_independent_review_root_20261103/PRE_EXPOSURE_ROOT_PRINCIPAL_A_CHALLENGES.json",
+        "bytes": 12928,
+        "sha256": "d8ac9bd0b52bbf669d7a7f5c793089c3403fa21e6f2ef512ea29078b4fb4fc13"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "b947b0cf4a12c326a7286806ec23c67b7dd5d3fe2c7de10f621924b3ada79fd8",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      }
+    },
+    {
+      "record_id": "principal_a.independent_review.05",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_models_a_independent_review_root_20261103/PRE_EXPOSURE_SEAL.json",
+        "bytes": 521,
+        "sha256": "153d1647523198cfc94e9f9d7b053f0b4e74308400ea21770a1bf4ae1cfa4613"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "1c0cc9a2dba714fc710e71adb5d495303404d5f719e736442d7547f756121828",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      }
+    },
+    {
+      "record_id": "principal_a.root_acceptance.01",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_models_a_independent_review_root_20261103/ROOT_PRINCIPAL_A_INDEPENDENT_REVIEW.md",
+        "bytes": 2280,
+        "sha256": "bc7263d39604a4ccd494e2a5a01bb8d1b4a7bf9acd3d8b8f291390bc0a8a04de"
+      },
+      "representation": "complete_original_UTF8_text",
+      "semantic_value_sha256": "d978150b39e80bf677cc7da6e4b0de8cef6bc5aae7a03ed146e5adf7904a43f0",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      }
+    },
+    {
+      "record_id": "principal_a.root_acceptance.02",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_models_a_independent_review_root_20261103/ROOT_PRINCIPAL_A_FINAL_BINDING_REPLAY.json",
+        "bytes": 10365,
+        "sha256": "1f8d9b173ca45f11df03ab8daf316969870e19cedb772d3789cbf1180a90f358"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "db9db4b411135387c12f1e523025b2304bfbcb6e2e760eb769d4d9cca5372e47",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      }
+    },
+    {
+      "record_id": "principal_a.root_acceptance.03",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_models_a_independent_review_root_20261103/ROOT_FUMIYA_BOUNDED_MODEL_ACCEPTANCE.json",
+        "bytes": 1986,
+        "sha256": "aa857b313ae7e15bfacf2f66d77dc6e31e697e0f9989138a94aeae1b1ff61c9d"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "9490cf2fd20ce5a99f739fc5ad6599cb6150be362111b4245921c3ef8ccd3d2e",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      }
+    },
+    {
+      "record_id": "principal_a.root_acceptance.04",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_models_a_independent_review_root_20261103/ROOT_HINAMI_BOUNDED_MODEL_SUCCESSOR_ACCEPTANCE.json",
+        "bytes": 2420,
+        "sha256": "dfbf10c655e080897f5da40148243004b4da793eaa9d11d14674d6e5f6ef5ec6"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "80f9432495dccbc79136473f80d8947c84399b3a728ea6f35098dcd70e140658",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      }
+    },
+    {
+      "record_id": "principal_a.root_acceptance.05",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_models_a_independent_review_root_20261103/ROOT_KIKUCHI_BOUNDED_MODEL_ACCEPTANCE.json",
+        "bytes": 1919,
+        "sha256": "bf597286568e1205f552aad9e623b667f6850803787ae436cab486d2132052a2"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "85207d5e37808588f6e5a5611f562d02cd0e8057ef095947baac86430b9bfded",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      }
+    },
+    {
+      "record_id": "principal_a.root_acceptance.06",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_models_a_independent_review_root_20261103/FINAL_ROOT_PRINCIPAL_A_REVIEW_SEAL.json",
+        "bytes": 5891,
+        "sha256": "1f5a60a41da6ce1328c15d27d5b41ee3cc66ef14d099fe1d3a171e3d8d04486e"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "480d724e8dea1b2369b3cd04d398c35bb2b6ae42308cd97bfee1071f087f6c63",
+      "public_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+        "json_pointer": "/records/5/value"
+      }
+    }
+  ],
+  "immutable_record_shards": [
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_SOURCE_SUFFICIENCY_RECORDS.json",
+      "bytes": 73221,
+      "sha256": "fb8e811e5d08a16309102984b759814426f7ee68361e884d90d493400c9cec55"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+      "bytes": 247083,
+      "sha256": "458d51757e7bc1beb9dc16b481e3f07dfcf405c382a7d1f93fd3c6acb0786009"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_CONSTRUCTION_RECORDS.json",
+      "bytes": 139116,
+      "sha256": "da39ddda719bc9f3ebe2d71aad869668cee42f008ed85f9692dd165a07e67a20"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+      "bytes": 102452,
+      "sha256": "d16f0a2f24983f6ba79ce6aa25467ae22911bd22e8067b5f1f83349d50e188b2"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+      "bytes": 201770,
+      "sha256": "2a5b65f1caca3a5d96537cb84cde1588b062aacc5e9c3e709b57f38908fa64e4"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_REPAIR_HISTORY_RECORDS.json",
+      "bytes": 73509,
+      "sha256": "3ff4cf6849e377e8de40dd36230b8f8db24b2d842f11b13206af1921ab34f479"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+      "bytes": 83732,
+      "sha256": "e3609966707493575d738595681350bc2b90ed9155d091172f8afed83ff70099"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+      "bytes": 31827,
+      "sha256": "b83236fdf2ccdd6f51352ffb76ed6bb81d486e6b06c522626d9e01d958656db7"
+    }
+  ],
+  "derivation_shard": {
+    "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_DERIVATION_RECORDS.json",
+    "bytes": 4513,
+    "sha256": "2ec9704e08d46f45e8a122c354b11c592c70c4a28c0937899bc7a1c3a3c9f483"
+  },
+  "source_sufficiency": {
+    "complete_assessment": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_SOURCE_SUFFICIENCY_RECORDS.json",
+      "json_pointer": "/records/3/value"
+    },
+    "complete_read_scope": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_SOURCE_SUFFICIENCY_RECORDS.json",
+      "json_pointer": "/records/4/value"
+    },
+    "three_recommendations": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_SOURCE_SUFFICIENCY_RECORDS.json",
+      "json_pointer": "/records/5/value"
+    },
+    "root_construction_admissions": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_SOURCE_SUFFICIENCY_RECORDS.json",
+      "json_pointer": "/records/0/value"
+    },
+    "root_sufficiency_identity_replay": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_SOURCE_SUFFICIENCY_RECORDS.json",
+      "json_pointer": "/records/1/value"
+    }
+  },
+  "frozen_V3_preregistration": {
+    "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+    "json_pointer": "/records/8/value"
+  },
+  "original_actual_root_freeze": {
+    "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+    "json_pointer": "/records/11/value"
+  },
+  "independent_preexposure_criteria": {
+    "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+    "json_pointer": "/records/3/value"
+  },
+  "root_review": {
+    "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+    "json_pointer": "/records/0/value"
+  },
+  "root_final_acceptance_seal": {
+    "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+    "json_pointer": "/records/5/value"
+  },
+  "producer_final_seal": {
+    "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_CONSTRUCTION_RECORDS.json",
+    "json_pointer": "/records/11/value"
+  },
+  "current24_producer_cases": [
+    {
+      "id": "PA-F-R1",
+      "person": "Tomozaki Fumiya",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/0"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/0/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/0"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/0"
+      },
+      "execution_mode": "ACTUAL_INITIAL_TRACE",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-F-R2",
+      "person": "Tomozaki Fumiya",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/1"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/1/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/1"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/1"
+      },
+      "execution_mode": "ACTUAL_INITIAL_TRACE",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-F-R3",
+      "person": "Tomozaki Fumiya",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/2"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/2/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/2"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/2"
+      },
+      "execution_mode": "ACTUAL_INITIAL_TRACE",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-F-R4",
+      "person": "Tomozaki Fumiya",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/3"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/3/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/3"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/3"
+      },
+      "execution_mode": "ACTUAL_INITIAL_TRACE",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-F-H1",
+      "person": "Tomozaki Fumiya",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/4"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/4/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/4"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/4"
+      },
+      "execution_mode": "ACTUAL_INITIAL_TRACE",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-F-H2",
+      "person": "Tomozaki Fumiya",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/5"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/5/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/5"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/5"
+      },
+      "execution_mode": "ACTUAL_INITIAL_TRACE",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-F-H3",
+      "person": "Tomozaki Fumiya",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/6"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/6/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/6"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/6"
+      },
+      "execution_mode": "ACTUAL_INITIAL_TRACE",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-F-H4",
+      "person": "Tomozaki Fumiya",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/7"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/7/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/7"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/7"
+      },
+      "execution_mode": "ACTUAL_INITIAL_TRACE",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-A-R1",
+      "person": "Hinami Aoi",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/0"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/0/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_REPAIR_HISTORY_RECORDS.json",
+        "json_pointer": "/records/4/value/complete_current_case"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/8"
+      },
+      "execution_mode": "ACTUAL_AFFECTED_RETEST_AFTER_DISCLOSED_SOURCE_CORRECTION",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-A-R2",
+      "person": "Hinami Aoi",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/1"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/1/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/9"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/9"
+      },
+      "execution_mode": "RETAINED_ACTUAL_SEMANTIC_OUTPUT_NOT_RERUN",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-A-R3",
+      "person": "Hinami Aoi",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/2"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/2/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/10"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/10"
+      },
+      "execution_mode": "RETAINED_ACTUAL_SEMANTIC_OUTPUT_NOT_RERUN",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-A-R4",
+      "person": "Hinami Aoi",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/3"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/3/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/11"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/11"
+      },
+      "execution_mode": "ACTUAL_AFFECTED_RETEST_AFTER_DISCLOSED_SOURCE_CORRECTION",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-A-H1",
+      "person": "Hinami Aoi",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/4"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/4/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/12"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/12"
+      },
+      "execution_mode": "RETAINED_ACTUAL_SEMANTIC_OUTPUT_NOT_RERUN",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-A-H2",
+      "person": "Hinami Aoi",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/5"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/5/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/13"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/13"
+      },
+      "execution_mode": "RETAINED_ACTUAL_SEMANTIC_OUTPUT_NOT_RERUN",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-A-H3",
+      "person": "Hinami Aoi",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/6"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/6/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/14"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/14"
+      },
+      "execution_mode": "RETAINED_ACTUAL_SEMANTIC_OUTPUT_NOT_RERUN",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-A-H4",
+      "person": "Hinami Aoi",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/7"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/7/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/15"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/15"
+      },
+      "execution_mode": "ACTUAL_AFFECTED_RETEST_AFTER_DISCLOSED_SOURCE_CORRECTION",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-K-R1",
+      "person": "Kikuchi Fuka",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/4/value/records/0"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/4/value/records/0/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/16"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/16"
+      },
+      "execution_mode": "ACTUAL_INITIAL_TRACE",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/KIKUCHI_FUKA_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-K-R2",
+      "person": "Kikuchi Fuka",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/4/value/records/1"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/4/value/records/1/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/17"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/17"
+      },
+      "execution_mode": "ACTUAL_INITIAL_TRACE",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/KIKUCHI_FUKA_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-K-R3",
+      "person": "Kikuchi Fuka",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/4/value/records/2"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/4/value/records/2/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/18"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/18"
+      },
+      "execution_mode": "ACTUAL_INITIAL_TRACE",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/KIKUCHI_FUKA_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-K-R4",
+      "person": "Kikuchi Fuka",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/4/value/records/3"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/4/value/records/3/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/19"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/19"
+      },
+      "execution_mode": "ACTUAL_INITIAL_TRACE",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/KIKUCHI_FUKA_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-K-H1",
+      "person": "Kikuchi Fuka",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/4/value/records/4"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/4/value/records/4/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/20"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/20"
+      },
+      "execution_mode": "ACTUAL_INITIAL_TRACE",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/KIKUCHI_FUKA_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-K-H2",
+      "person": "Kikuchi Fuka",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/4/value/records/5"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/4/value/records/5/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/21"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/21"
+      },
+      "execution_mode": "ACTUAL_INITIAL_TRACE",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/KIKUCHI_FUKA_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-K-H3",
+      "person": "Kikuchi Fuka",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/4/value/records/6"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/4/value/records/6/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/22"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/22"
+      },
+      "execution_mode": "ACTUAL_INITIAL_TRACE",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/KIKUCHI_FUKA_BOUNDED_RECONSTRUCTION_MODEL.md"
+    },
+    {
+      "id": "PA-K-H4",
+      "person": "Kikuchi Fuka",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/4/value/records/7"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/4/value/records/7/actual_output"
+      },
+      "effective_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/23"
+      },
+      "original_frozen_V3_criterion": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PREREGISTRATION_RECORDS.json",
+        "json_pointer": "/records/8/value/cases/23"
+      },
+      "execution_mode": "ACTUAL_INITIAL_TRACE",
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      },
+      "canonical_render": "series/tomozaki/07 Character Reconstruction Models/KIKUCHI_FUKA_BOUNDED_RECONSTRUCTION_MODEL.md"
+    }
+  ],
+  "independent18_actual_cases": [
+    {
+      "id": "IA-TF01",
+      "person": "Fumiya",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/0/value/records/0"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/0/value/records/0/actual_output"
+      },
+      "preexposure_input": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/3/value/criteria/0"
+      },
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      },
+      "actual_result_field": "independent_result",
+      "root_result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_COMMUNICATIVE_ACT_REGISTER"
+    },
+    {
+      "id": "IA-TF02",
+      "person": "Fumiya",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/0/value/records/1"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/0/value/records/1/actual_output"
+      },
+      "preexposure_input": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/3/value/criteria/1"
+      },
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      },
+      "actual_result_field": "independent_result",
+      "root_result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_COMMUNICATIVE_ACT_REGISTER"
+    },
+    {
+      "id": "IA-TF03",
+      "person": "Fumiya",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/0/value/records/2"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/0/value/records/2/actual_output"
+      },
+      "preexposure_input": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/3/value/criteria/2"
+      },
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      },
+      "actual_result_field": "independent_result",
+      "root_result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_COMMUNICATIVE_ACT_REGISTER"
+    },
+    {
+      "id": "IA-TF04",
+      "person": "Fumiya",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/0/value/records/3"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/0/value/records/3/actual_output"
+      },
+      "preexposure_input": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/3/value/criteria/3"
+      },
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      },
+      "actual_result_field": "independent_result",
+      "root_result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_COMMUNICATIVE_ACT_REGISTER"
+    },
+    {
+      "id": "IA-TF05",
+      "person": "Fumiya",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/0/value/records/4"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/0/value/records/4/actual_output"
+      },
+      "preexposure_input": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/3/value/criteria/4"
+      },
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      },
+      "actual_result_field": "independent_result",
+      "root_result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_COMMUNICATIVE_ACT_REGISTER"
+    },
+    {
+      "id": "IA-TF06",
+      "person": "Fumiya",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/0/value/records/5"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/0/value/records/5/actual_output"
+      },
+      "preexposure_input": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/3/value/criteria/5"
+      },
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      },
+      "actual_result_field": "independent_result",
+      "root_result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_COMMUNICATIVE_ACT_REGISTER"
+    },
+    {
+      "id": "IA-HA01",
+      "person": "Hinami",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/1/value/records/0"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/1/value/records/0/actual_output"
+      },
+      "preexposure_input": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/3/value/criteria/6"
+      },
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "actual_result_field": "result",
+      "root_result": "PASS_CURRENT_SUCCESSOR_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER"
+    },
+    {
+      "id": "IA-HA02",
+      "person": "Hinami",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/1/value/records/1"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/1/value/records/1/actual_output"
+      },
+      "preexposure_input": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/3/value/criteria/7"
+      },
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "actual_result_field": "result",
+      "root_result": "PASS_CURRENT_SUCCESSOR_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER"
+    },
+    {
+      "id": "IA-HA03",
+      "person": "Hinami",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/1/value/records/2"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/1/value/records/2/actual_output"
+      },
+      "preexposure_input": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/3/value/criteria/8"
+      },
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "actual_result_field": "result",
+      "root_result": "PASS_CURRENT_SUCCESSOR_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER"
+    },
+    {
+      "id": "IA-HA04",
+      "person": "Hinami",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/1/value/records/3"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/1/value/records/3/actual_output"
+      },
+      "preexposure_input": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/3/value/criteria/9"
+      },
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "actual_result_field": "result",
+      "root_result": "PASS_CURRENT_SUCCESSOR_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER"
+    },
+    {
+      "id": "IA-HA05",
+      "person": "Hinami",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/1/value/records/4"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/1/value/records/4/actual_output"
+      },
+      "preexposure_input": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/3/value/criteria/10"
+      },
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "actual_result_field": "result",
+      "root_result": "PASS_CURRENT_SUCCESSOR_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER"
+    },
+    {
+      "id": "IA-HA06",
+      "person": "Hinami",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/1/value/records/5"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/1/value/records/5/actual_output"
+      },
+      "preexposure_input": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/3/value/criteria/11"
+      },
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "actual_result_field": "result",
+      "root_result": "PASS_CURRENT_SUCCESSOR_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER"
+    },
+    {
+      "id": "IA-KF01",
+      "person": "Kikuchi",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/2/value/records/0"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/2/value/records/0/actual_output"
+      },
+      "preexposure_input": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/3/value/criteria/12"
+      },
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      },
+      "actual_result_field": "result",
+      "root_result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER"
+    },
+    {
+      "id": "IA-KF02",
+      "person": "Kikuchi",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/2/value/records/1"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/2/value/records/1/actual_output"
+      },
+      "preexposure_input": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/3/value/criteria/13"
+      },
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      },
+      "actual_result_field": "result",
+      "root_result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER"
+    },
+    {
+      "id": "IA-KF03",
+      "person": "Kikuchi",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/2/value/records/2"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/2/value/records/2/actual_output"
+      },
+      "preexposure_input": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/3/value/criteria/14"
+      },
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      },
+      "actual_result_field": "result",
+      "root_result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER"
+    },
+    {
+      "id": "IA-KF04",
+      "person": "Kikuchi",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/2/value/records/3"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/2/value/records/3/actual_output"
+      },
+      "preexposure_input": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/3/value/criteria/15"
+      },
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      },
+      "actual_result_field": "result",
+      "root_result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER"
+    },
+    {
+      "id": "IA-KF05",
+      "person": "Kikuchi",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/2/value/records/4"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/2/value/records/4/actual_output"
+      },
+      "preexposure_input": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/3/value/criteria/16"
+      },
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      },
+      "actual_result_field": "result",
+      "root_result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER"
+    },
+    {
+      "id": "IA-KF06",
+      "person": "Kikuchi",
+      "complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/2/value/records/5"
+      },
+      "actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/2/value/records/5/actual_output"
+      },
+      "preexposure_input": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/3/value/criteria/17"
+      },
+      "accepted_original_model": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      },
+      "actual_result_field": "result",
+      "root_result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER"
+    }
+  ],
+  "producer_execution_counts": {
+    "current_unique_case_ids": 24,
+    "exposed_retrospective": 12,
+    "hypothetical_without_truth_label": 12,
+    "current_actual_initial_outputs_Fumiya_Kikuchi": 16,
+    "current_Hinami_actual_source_affected_retests": 3,
+    "current_Hinami_semantically_reused_not_rerun": 5,
+    "total_lifetime_actual_initial_case_executions": 24,
+    "additional_actual_Hinami_selector_label_retest": 1,
+    "additional_actual_Hinami_source_reference_affected_retests": 3,
+    "total_lifetime_actual_manual_case_attempts": 28
+  },
+  "Hinami_five_semantic_carry_forwards_not_rerun": [
+    {
+      "id": "PA-A-R2",
+      "current_complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/1"
+      },
+      "prior_actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/2/value/records/1/actual_output"
+      },
+      "actual_semantic_value_unchanged": true,
+      "rerun": false
+    },
+    {
+      "id": "PA-A-R3",
+      "current_complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/2"
+      },
+      "prior_actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/2/value/records/2/actual_output"
+      },
+      "actual_semantic_value_unchanged": true,
+      "rerun": false
+    },
+    {
+      "id": "PA-A-H1",
+      "current_complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/4"
+      },
+      "prior_actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/2/value/records/4/actual_output"
+      },
+      "actual_semantic_value_unchanged": true,
+      "rerun": false
+    },
+    {
+      "id": "PA-A-H2",
+      "current_complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/5"
+      },
+      "prior_actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/2/value/records/5/actual_output"
+      },
+      "actual_semantic_value_unchanged": true,
+      "rerun": false
+    },
+    {
+      "id": "PA-A-H3",
+      "current_complete_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/3/value/records/6"
+      },
+      "prior_actual_output": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/2/value/records/6/actual_output"
+      },
+      "actual_semantic_value_unchanged": true,
+      "rerun": false
+    }
+  ],
+  "retained_Hinami_source_FAIL_and_exposed_amendment": {
+    "original_actual_FAIL": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_REPAIR_HISTORY_RECORDS.json",
+      "json_pointer": "/records/4/value/observed_model_reference_defect"
+    },
+    "complete_onecase_overlay_and_grant": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_REPAIR_HISTORY_RECORDS.json",
+      "json_pointer": "/records/4/value"
+    },
+    "already_seen_exposure": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_REPAIR_HISTORY_RECORDS.json",
+      "json_pointer": "/records/4/value/already_seen_output_exposure"
+    },
+    "original_case": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_REPAIR_HISTORY_RECORDS.json",
+      "json_pointer": "/records/4/value/complete_original_case"
+    },
+    "effective_current_case": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_REPAIR_HISTORY_RECORDS.json",
+      "json_pointer": "/records/4/value/complete_current_case"
+    },
+    "original_failed_model": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_ORIGINAL_MODEL_RECORDS.json",
+      "json_pointer": "/records/1/value"
+    },
+    "AM9_successor_and_full_model_diff": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_REPAIR_HISTORY_RECORDS.json",
+      "json_pointer": "/records/1/value"
+    },
+    "AM9_full_testdiff_and_affected_retest_joins": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_REPAIR_HISTORY_RECORDS.json",
+      "json_pointer": "/records/0/value"
+    },
+    "actually_reapplied_source_affected_cases": [
+      "PA-A-R1",
+      "PA-A-R4",
+      "PA-A-H4"
+    ],
+    "earlier_H2_selector_attempt_and_retest": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_REPAIR_HISTORY_RECORDS.json",
+      "json_pointer": "/records/2/value"
+    },
+    "original_frozen_V3_unchanged": true,
+    "overlay_after_model_output_exposure_disclosed": true,
+    "no_blind_or_unseen_holdout_claim": true
+  },
+  "exact18_canonical_Git_dependencies": [
+    {
+      "path": "series/tomozaki/04 Character Analysis/Tomozaki Fumiya/TOMOZAKI_FUMIYA_CHARACTER_MONOGRAPH.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 184500,
+      "sha256": "1be90778f0f65cab18096758b4c3bd94d2d84aadb8fde4290ed1b53e5b50ab60",
+      "actual_semantic_acquisition": {
+        "scope": "FULL",
+        "line_windows": [
+          [
+            1,
+            1038
+          ]
+        ]
+      },
+      "new_semantic_reread": false
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Hinami Aoi/HINAMI_AOI_CHARACTER_MONOGRAPH.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 217498,
+      "sha256": "d296e4189f752e27f580c9b06122c7bb3018a4370c0e11d8deb4ccd16eb70588",
+      "actual_semantic_acquisition": {
+        "scope": "FULL",
+        "line_windows": [
+          [
+            1,
+            1282
+          ]
+        ]
+      },
+      "new_semantic_reread": false
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Kikuchi Fuka/KIKUCHI_FUKA_CHARACTER_MONOGRAPH.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 202760,
+      "sha256": "0f7446d6756fa93eb6203872a8cfe85461dd63cc0d75f55c486995efd3b53c71",
+      "actual_semantic_acquisition": {
+        "scope": "FULL",
+        "line_windows": [
+          [
+            1,
+            1211
+          ]
+        ]
+      },
+      "new_semantic_reread": false
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_HINAMI_RELATIONSHIP_SYNTHESIS.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 68988,
+      "sha256": "7b7787a8686c5df24b49de53cbdb101d4dc40d91843e336e045ad4cc50c163b9",
+      "actual_semantic_acquisition": {
+        "scope": "Body through rivals/state; initial26–130 clipped77–81, recovered75–87. Header/evidence appendix not newly acquired.",
+        "line_windows": [
+          [
+            26,
+            250
+          ]
+        ]
+      },
+      "new_semantic_reread": false
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_KIKUCHI_RELATIONSHIP_SYNTHESIS.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 64410,
+      "sha256": "731654f54b5cc3c152d9a0fb91beef5b67cbc4500cf84bac1682b172e88aa235",
+      "actual_semantic_acquisition": {
+        "scope": "Body through current conclusion; header/evidence appendix not newly acquired.",
+        "line_windows": [
+          [
+            29,
+            255
+          ]
+        ]
+      },
+      "new_semantic_reread": false
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 129891,
+      "sha256": "265b6ae9c61dad6896061ea29176277f0dc1276f2c51b4ea39285845c6c5c68b",
+      "actual_semantic_acquisition": {
+        "scope": "Principal scopes; some controls/currentV12 reused from actual earlier pilot preparation in same session; all184–398 newly acquired.",
+        "line_windows": [
+          [
+            48,
+            80
+          ],
+          [
+            184,
+            398
+          ],
+          [
+            823,
+            844
+          ],
+          [
+            882,
+            888
+          ]
+        ]
+      },
+      "new_semantic_reread": false
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 145033,
+      "sha256": "f8d258a5c1ba3be2507db6892bb9f8634b0b96b1e1719945762b51fd3b56ee7d",
+      "actual_semantic_acquisition": {
+        "scope": "Directional current/historical controls;230–279/341–362/842–858 newly acquired, other selected windows actually acquired earlier in same session.",
+        "line_windows": [
+          [
+            92,
+            124
+          ],
+          [
+            230,
+            279
+          ],
+          [
+            341,
+            362
+          ],
+          [
+            628,
+            640
+          ],
+          [
+            750,
+            774
+          ],
+          [
+            842,
+            858
+          ],
+          [
+            956,
+            977
+          ],
+          [
+            1000,
+            1004
+          ]
+        ]
+      },
+      "new_semantic_reread": false
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 52873,
+      "sha256": "cc8a6387342a8f715bdebb86a825ddf82ac68b7f007f56a72300288692e705f3",
+      "actual_semantic_acquisition": {
+        "scope": "51–104 newly acquired; broader selected controls actually acquired during pilot prep. Clipped179 not credited.",
+        "line_windows": [
+          [
+            23,
+            49
+          ],
+          [
+            51,
+            104
+          ],
+          [
+            168,
+            177
+          ],
+          [
+            211,
+            253
+          ]
+        ]
+      },
+      "new_semantic_reread": false
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 72543,
+      "sha256": "897cb97ad9694c153a96246e353896e581a4e7b5c3824b774cde77992a2d87b8",
+      "actual_semantic_acquisition": {
+        "scope": "Actually acquired selective windows in preceding pilot preparation, reused without new-whole-file claim.",
+        "line_windows": [
+          [
+            44,
+            53
+          ],
+          [
+            148,
+            157
+          ],
+          [
+            224,
+            242
+          ]
+        ]
+      },
+      "new_semantic_reread": false
+    },
+    {
+      "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+      "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+      "bytes": 72802,
+      "sha256": "f5c6d752193d5659a900c108a3629d26e4d3a0cb09a3118bfa1286d1461df593",
+      "actual_semantic_acquisition": {
+        "scope": "Current16/17.2 acquired; earlier release-contract acquisition remains separate.",
+        "line_windows": [
+          [
+            528,
+            574
+          ]
+        ]
+      },
+      "new_semantic_reread": false
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_VERSION_REGISTER.json",
+      "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+      "bytes": 73740,
+      "sha256": "4dfcce1ebcb5c1f3bac5cb33f364b5413f401b2a9e8d9c8202c1667fefdef5ec",
+      "actual_semantic_acquisition": {
+        "scope": "Complete unique frame and all31/16/dependency mechanical joins personally acquired/replayed in prior release-contract review; not reread as fresh semantic source.",
+        "line_windows": []
+      },
+      "new_semantic_reread": false
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_AUDIT.md",
+      "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+      "bytes": 15549,
+      "sha256": "307d94cef6c9d0d0c52fa311d5058a7d7f69b55c4d9ca7801a0cc76e53c84dfb",
+      "actual_semantic_acquisition": {
+        "scope": "Full15,549B acquired in prior actual release-contract review; reused at exact identity.",
+        "line_windows": [
+          [
+            1,
+            84
+          ]
+        ]
+      },
+      "new_semantic_reread": false
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_DECISION.json",
+      "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+      "bytes": 24746,
+      "sha256": "8a51e0e7d7124b9bf07189bcd2e6a8fa7d216a5068df0a4c9ca2fc3ef8085a90",
+      "actual_semantic_acquisition": {
+        "scope": "Complete unique fields and repeated31ownerpolicy joins actually acquired in prior release-contract review; reused at exact identity.",
+        "line_windows": []
+      },
+      "new_semantic_reread": false
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 160805,
+      "sha256": "6017c3eee7ab60cc3ba5e689c4a127b78191fb1b747c06f7f6cec36007160b4b",
+      "actual_semantic_acquisition": {
+        "scope": "Complete §20 lines1136–1145; other file portions not freshly acquired for this stage."
+      },
+      "new_semantic_reread": false
+    },
+    {
+      "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 17025,
+      "sha256": "a0b3792c861ea94298b78e903e24c38d9043104f6d3695aaccead464c30168e8",
+      "actual_semantic_acquisition": {
+        "scope": "Method personally acquired earlier; source/locator/review identity and navigation inherited at exact stated scopes. No fresh whole-file or primary reading claim."
+      }
+    },
+    {
+      "path": "series/tomozaki/01 Source Lock and Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 11684,
+      "sha256": "04555d264c94792a98df1e280a54d323ce214c05e9851f142f4075294fc3bf22",
+      "actual_semantic_acquisition": {
+        "scope": "Method personally acquired earlier; source/locator/review identity and navigation inherited at exact stated scopes. No fresh whole-file or primary reading claim."
+      }
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 592652,
+      "sha256": "72083a0d45d607dde901787176c9446754ab58d4ac53a6313b37fb056439fe53",
+      "actual_semantic_acquisition": {
+        "scope": "Method personally acquired earlier; source/locator/review identity and navigation inherited at exact stated scopes. No fresh whole-file or primary reading claim."
+      }
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 35306,
+      "sha256": "4616495b21e374547c58e63ade5ce99e1cfb6116ceb84621df92be99f94850e1",
+      "actual_semantic_acquisition": {
+        "scope": "Existing locator/audit route bound at exact inherited identity; not a fresh complete reading or primary return."
+      }
+    }
+  ],
+  "complete_dependency_packet": {
+    "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_CONSTRUCTION_RECORDS.json",
+    "json_pointer": "/records/7/value"
+  },
+  "three_released_literary_joins": [
+    {
+      "path": "series/tomozaki/04 Character Analysis/Tomozaki Fumiya/TOMOZAKI_FUMIYA_CHARACTER_MONOGRAPH.md",
+      "release_slot": 1,
+      "input_identity_equal_released_version": true,
+      "released_version": {
+        "path": "series/tomozaki/04 Character Analysis/Tomozaki Fumiya/TOMOZAKI_FUMIYA_CHARACTER_MONOGRAPH.md",
+        "bytes": 184500,
+        "sha256": "1be90778f0f65cab18096758b4c3bd94d2d84aadb8fde4290ed1b53e5b50ab60"
+      }
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Hinami Aoi/HINAMI_AOI_CHARACTER_MONOGRAPH.md",
+      "release_slot": 2,
+      "input_identity_equal_released_version": true,
+      "released_version": {
+        "path": "series/tomozaki/04 Character Analysis/Hinami Aoi/HINAMI_AOI_CHARACTER_MONOGRAPH.md",
+        "bytes": 217498,
+        "sha256": "d296e4189f752e27f580c9b06122c7bb3018a4370c0e11d8deb4ccd16eb70588"
+      }
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Kikuchi Fuka/KIKUCHI_FUKA_CHARACTER_MONOGRAPH.md",
+      "release_slot": 3,
+      "input_identity_equal_released_version": true,
+      "released_version": {
+        "path": "series/tomozaki/04 Character Analysis/Kikuchi Fuka/KIKUCHI_FUKA_CHARACTER_MONOGRAPH.md",
+        "bytes": 202760,
+        "sha256": "0f7446d6756fa93eb6203872a8cfe85461dd63cc0d75f55c486995efd3b53c71"
+      }
+    }
+  ],
+  "protected_reading_route_bindings": [
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V01_DEEP_READING.md",
+        "bytes": 48947,
+        "sha256": "aee76ef0969c775e97d934e4982e2d5fca18fa0121338e48de37708727d7c76e"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "4970807e6f1f04fbd739ecb2efc42d1fc71de47c",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/0",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "aee76ef0969c775e97d934e4982e2d5fca18fa0121338e48de37708727d7c76e",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V02_DEEP_READING.md",
+        "bytes": 48429,
+        "sha256": "6971cb4786046332f4bc90ef78574f8aae1231b0104f5ecc3da618d19429967f"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "fc3c2af113f8368dbc3aa3e81c5d827260eba955",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/1",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "6971cb4786046332f4bc90ef78574f8aae1231b0104f5ecc3da618d19429967f",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V03_DEEP_READING.md",
+        "bytes": 54677,
+        "sha256": "cb7b25438d6e3851bbbc5de08b85260d72c3cfc24ad823dfc6f6778d5a8e5467"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "45d320db51908ed45c8681414403f06e64efb665",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/2",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "cb7b25438d6e3851bbbc5de08b85260d72c3cfc24ad823dfc6f6778d5a8e5467",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V04_DEEP_READING.md",
+        "bytes": 55108,
+        "sha256": "aded13bbdfe3beecb5aaf049e8588ee05e4e5801c4a029c5aae29825997a6494"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "0dae0952e05a70afdd6512ce50abcb70a07b7c84",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/3",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "aded13bbdfe3beecb5aaf049e8588ee05e4e5801c4a029c5aae29825997a6494",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V05_DEEP_READING.md",
+        "bytes": 62512,
+        "sha256": "87aeb98948855b232d3f9ddd97cde252c0488f31c4c8a6583621a44504f9f247"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "fbdef6ebbcc7959ab5df8f55df815bb2180820d9",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/4",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "87aeb98948855b232d3f9ddd97cde252c0488f31c4c8a6583621a44504f9f247",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V06_5_SUPPLEMENTAL_READING.md",
+        "bytes": 34031,
+        "sha256": "06728c4a1bdaf77316851272c4796dc64139909fba154357d9bfb5449f83df9a"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "f9ecf8c4e4196aa775e3563a23f5c7a02c214068",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/5",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "06728c4a1bdaf77316851272c4796dc64139909fba154357d9bfb5449f83df9a",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V06_DEEP_READING.md",
+        "bytes": 57844,
+        "sha256": "7d978cfc38a585cb3fa1eaee341cf8fdffe1ad5502dc69bebe1e95612f9612bc"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "208441bbe854b5079f3675d56af0422980c2ab44",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/6",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "7d978cfc38a585cb3fa1eaee341cf8fdffe1ad5502dc69bebe1e95612f9612bc",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V07_DEEP_READING.md",
+        "bytes": 67696,
+        "sha256": "ce618c9a0752eac3f6487200a31885c9cf6d7bddf0c720218f22c6646296c7f3"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "7f791c1a901b30d566429592c7cec9ff69de334b",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/7",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "ce618c9a0752eac3f6487200a31885c9cf6d7bddf0c720218f22c6646296c7f3",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V08_5_SUPPLEMENTAL_READING.md",
+        "bytes": 39200,
+        "sha256": "361aa4fdff9017509b8f17adf5f0d643beca8fd3d205f92427de900df96ad000"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "2f43a962453058a7840125e2b1cc45fc39a7bfdc",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/8",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "361aa4fdff9017509b8f17adf5f0d643beca8fd3d205f92427de900df96ad000",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V08_DEEP_READING.md",
+        "bytes": 50690,
+        "sha256": "e50cfcade097c9a1494d69bfcfa56cfbdbcca0dff4b3721f5f3d1b20abb30f50"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "f1e646caae98ad0964a8f95fe83a5f8fde0ae7c0",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/9",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "e50cfcade097c9a1494d69bfcfa56cfbdbcca0dff4b3721f5f3d1b20abb30f50",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V09_DEEP_READING.md",
+        "bytes": 60208,
+        "sha256": "de0f6cb344479360d1dffdc8b4de0b3ba9d0a3bc4f78d1868553820bb1f6d6cb"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "c960c20be2b225548b068facc03fc98c39e08f52",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/10",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "de0f6cb344479360d1dffdc8b4de0b3ba9d0a3bc4f78d1868553820bb1f6d6cb",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V10_DEEP_READING.md",
+        "bytes": 57797,
+        "sha256": "e0f5bc615620cbab8910706ec32bf68789adf77a987bdd6c6f5fd38c59d8477d"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "a0d3c98300efad576863aa4f1a11548a6c1d58e3",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/11",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "e0f5bc615620cbab8910706ec32bf68789adf77a987bdd6c6f5fd38c59d8477d",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V11_DEEP_READING.md",
+        "bytes": 75055,
+        "sha256": "c83ad4add9cb4f294fa66cb6cb9d43f876eb1c4fb869cfc30e68f8e7b6b701c8"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "d314dbc8e48ec4842691a0bc9d7af2d834f89f73",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/12",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "c83ad4add9cb4f294fa66cb6cb9d43f876eb1c4fb869cfc30e68f8e7b6b701c8",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V12_DEEP_READING.md",
+        "bytes": 68805,
+        "sha256": "cb6c309c995be6a9777e2fff493c870c0f8265beee6aa4c4ce2c329d3a4a1dc6"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "7a4d2acdfb056815f97624dadbab49da5233edaf",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/13",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "cb6c309c995be6a9777e2fff493c870c0f8265beee6aa4c4ce2c329d3a4a1dc6",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_PROSPECTIVE_ENTERING_SNAPSHOT.md",
+        "bytes": 61110,
+        "sha256": "8741334f47c5640fa446629ba5c06c58784479a9802f962bc49af61b43105e17"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "679a7b3b926a6f8814c00a31feb4b667754b184f",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/14",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "8741334f47c5640fa446629ba5c06c58784479a9802f962bc49af61b43105e17",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_SOURCE_ADMISSION_AUDIT.md",
+        "bytes": 22379,
+        "sha256": "560d78517a985d28c8a501dd67c280be38cefc5990059f7865bc01a5fb6d0f00"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "a7af930f0ee584e6f4da3f4c6c83565ccf445a24",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/15",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "560d78517a985d28c8a501dd67c280be38cefc5990059f7865bc01a5fb6d0f00",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    }
+  ],
+  "protected_route_pointer_owner": {
+    "manifest": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_FULL_CORPUS_PATH_AND_VALIDATION_MANIFEST.json",
+      "bytes": 101778,
+      "sha256": "643c900ac2e29cf570b7f8e4c7f7d8f18335ec80d56543328f976be2ab08af79",
+      "git_blob_sha1": "3e8c2cd6ae69214e9f3415f46b7bcbf77de7fa64",
+      "git_mode": "100644",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017"
+    },
+    "json_pointer_base": "/protected_source_facing_entering_and_admission_states",
+    "scope": "Every protected-state source_preservation_record_pointer is relative to this explicitly identified edition-basis manifest, not the separate literary-selection input manifest."
+  },
+  "source_member_alias_rules": {
+    "V01_partNNNN": "text/partNNNN.html",
+    "V04_pNNNN": "OEBPS/Text/p-NNNN.xhtml",
+    "V05_partNNNN": "text/partNNNN.html",
+    "V06_partNNNN": "OEBPS/Text/partNNNN.xhtml",
+    "V06.5_partNNNN": "OEBPS/Text/partNNNN.xhtml",
+    "V07_partNNNN": "OEBPS/Text/partNNNN.xhtml",
+    "V08_V09_V10_partNNNN": "text/partNNNN.html",
+    "V11_V12_pNNNN": "item/xhtml/p-NNNN.xhtml",
+    "DRNN": "Exact source-facing path/identity in protected_reading_route_bindings; source evidence handles remain dossier-defined."
+  },
+  "source_locator_convention": "One-based all HTML p including empty/image-bearing elements, reset per exact member, ruby retained. Dossier local source handles preserve actual prior inspection scopes; no new primary inspection.",
+  "primary_provenance": "Exact admitted source-lock/witnesses, protected source-facing readings and full mature person-monograph local source registers remain literary/locator owners. No output becomes evidence.",
+  "record_semantics": "56 full unique original JSON semantic values or exact UTF8 texts, with exact raw byte identities. JSON semantic roundtrip does not recreate original whitespace. Historical pending/failure/scratch strings are preserved history; active routes use canonical path+pointer and require no scratch file/helper.",
+  "integration_review": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_A_MODEL_INTEGRATION_REVIEW.md",
+  "publication_state": "ROOT_ACCEPTED_CORES_ADMINISTRATIVE_CANDIDATE_EXACT_HEAD_PREFLIGHT_AND_INTEGRATION_PENDING",
+  "limits": [
+    "The 24 current producer cases are not 24 fresh V2 executions. Lifetime attempts are 28: 24 initial, one H2 selector retest and three AM9 affected retests; five Hinami outputs are carried forward.",
+    "The 18 independent actual applications include six on Hinami V2. PA-F-H3 and PA-K-H1 recipient and story-clock alternatives remain underbound.",
+    "Manual prose constraints with exposed known canon; hypothetical cases have no canonical truth labels. No autonomous engine or blind accuracy.",
+    "Selective written communicative acts and register only; no freeform Japanese, complete idiolect or acoustics.",
+    "Source OPENs, absent Nagisa testimony/cause/prevention/grade, named religion/diagnosis and unsupported future outcomes remain unknown.",
+    "No global grade, owner calibration, new source admission, literary terminal state or formal governance closure."
+  ]
+}

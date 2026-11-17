@@ -1,0 +1,1099 @@
+{
+  "schema": "RELATION_SIX_ROLE_PUBLIC_FORM_PREPARATION_V1",
+  "series": "BLUE_ARCHIVE",
+  "scope": "P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS/P3-XMI-R001;Sumire/baseballReiCH0245",
+  "generation": "V1",
+  "authority": {
+    "status": "canonical",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": false
+  },
+  "composer": "/root/current_preflight_requirements",
+  "preparation_date": "2026-11-04",
+  "lifecycle_state": "PUBLIC_FORM_PREPARATION_20261104_PRIVATE_CONNECTED20_ROOT_ACCEPTED",
+  "review_at_creation": "Private body and plan accepted at their exact recorded scopes; new public bytes await different complete public-form QA and Root actual new-byte adjudication. Stable preparation-date state, no future publication/count certificate.",
+  "history_qualification": "Every dated original actor/date/null/source grade remains. Original pending/counters/heads/filenames/private tuple scopes are original creation history; current portable bindings live only in top component_refs/current registry/geometry. No new source/course/identity/named/extraREL/model/install/publication/count credit.",
+  "artifact_role": "ROOT",
+  "component_refs": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 14075,
+      "sha256": "014b5b1d58cc5cf99f8380520b6e79e7f9ab9c783f55908fa97d7817c6ddde53"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "bytes": 97357,
+      "sha256": "26a9eba4e38c3bfc698e7eb7a7ef3c433c667f150ac907c5439d358e8500d6a1"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "bytes": 337137,
+      "sha256": "920849d8f359daf09a4892c4634154610df3a86cbe839b7b520d9f31656609b3"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "bytes": 89984,
+      "sha256": "0aab5d36a928ef3d1b9e87b7306cbb6660a15e54ea4de6c13b0a8640f200c9fe"
+    }
+  ],
+  "dated_records": {
+    "R01": {
+      "record_id": "R01",
+      "original_filename": "ROOT_ACTUAL_SELECTED240_AND_DISTINCT_READINESS_FULL_NEW_MEANINGS_EXISTING_SUMIRE_BASEBALL_REI_RELATION_READINESS_ACCEPTED_WITH_LIMITS_V1.json",
+      "original_file_bytes": 8431,
+      "original_file_sha256": "2f9ae2cf9d3b5ebdcc725753e56cc4cb3c100323979212e7ff5285df795b7937",
+      "source_actor_fields": {},
+      "source_date_fields": {
+        "UTC": "2026-11-04T12:21:14.504922+00:00"
+      },
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "6163d4545fabc201b691187ae6c7bb6e765cf0d747fec57eaa888ade38ec16c0"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "original_value": {
+        "schema": "root-sumire-baseball-rei-actual-selected240-readiness-adjudication/v1",
+        "UTC": "2026-11-04T12:21:14.504922+00:00",
+        "decision": "ACCEPT_BOUNDED_SOURCE_READINESS_FOR_EXISTING_REQUIRED_DIRECTED_RELATION;BODY_COMMISSION_DISPATCH_PENDING_AFTER_AYAME_SHARED7_QA",
+        "required_id": "P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS",
+        "responsibility": "P3-XMI-R001;one incomplete relation;not named",
+        "canonical_route_verified": "series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md;PRESENT_VERIFIED/GIT_PRIMARY in current registry;Root ac3216",
+        "source_capture_manifest": {
+          "path": "DATED-LOCATOR-083E0BAFBB34BD90",
+          "bytes": 5128,
+          "sha256": "a084ea7727cf26c55a52aa7fd3279a388878605fdaae47ee2d3774b4a8fb1016"
+        },
+        "readiness12_eight": {
+          "path": "DATED-LOCATOR-D2511DAE68DD27CB",
+          "bytes": 12315,
+          "sha256": "916ac4fb835c621a371dd951e97643ead786fd55713f2a0fc46e1f06ab7a71e2"
+        },
+        "selected240_eight_answers_cases": {
+          "path": "DATED-LOCATOR-D032366CD7C02C10",
+          "bytes": 12914,
+          "sha256": "fb0b71984c3139e1434a1b00008c689051b8fd40c0b1398076ed6bd91a7f8b3d"
+        },
+        "Root_actual_receiving": {
+          "prior_complete_readiness": "df301b terminal;dbf647 whole12315 answers/eight rivals;a01207 whole8266 routes;943283 whole9144 course;87953a whole3302 closure",
+          "selected_successor": "d8f4ee whole3768 terminal;e42819 whole12914 answers/eight cases;ec21bd whole3000 closeout. Course16942 is pinned as attributed report, not claimed as fullRoot reading.",
+          "Root_own_G330": "9160aa exactheaders1–20 and71–123/125–150/162–176=114 addresses",
+          "Root_own_E832": "c4df14 exactheaders1–20 and67–108/110–115=68 addresses",
+          "Root_own_E845": "30a4ce exactheaders1–20 and78–114/130=58 addresses",
+          "Root_own_operative_qualifiers": "3c4467 complete selected Sumire current_common_actor_mode_contract_qualifications, SQ02/SQ04, attribution/grade/dating and Rei current_common_source_use_qualifications/current_food_mode_precision/grade/dating",
+          "project_method_architecture": "5538b9 architecture346–356/577–625/645–701 and method380–425 from current hash-equal captures;prior unchanged full method/architecture context reused."
+        },
+        "Root_own_source_grade": "SELECTED240 addresses across3 existing maintained analytical accounts:60headers+180selected. These contain overlapping story representations with prior monographs; no new primary/private/native/raw/AV/admission or borrowed author4WHOLE950/12WHOLE1839. Root and prospective author have distinct actual courses, not pooled attendance.",
+        "Root_own_six_answers": [
+          {
+            "id": "RROOT1",
+            "reason": "Rei requests temporary expert help for a particular home-run aspiration; the seniors give a limit-aware referral and Sumire accepts her. The immediate start before readiness and later disagreement show that chosen help does not authorize all methods. Rei remains a judging participant with a goal that is not identical to general whole-body development."
+          },
+          {
+            "id": "RROOT2",
+            "reason": "The repeated last set and later granted break are different endpoints. Sumire also ends the session for an outing and asks to continue after genuinely enjoyed company. The later device objection distinguishes being able to finish from being unable to stop; its mechanism and safety remain explanation, not tested fact. These positive and contrary acts support an argument about revisable limits."
+          },
+          {
+            "id": "RROOT3",
+            "reason": "Quiet reserve-team watching, Sumire enjoying company, Rei explaining rules and wanting local food matter independently of winning. Rei offers to treat Sumire, who permits one hotdog; purchase or Sumire consumption is not shown. The compressed G330176 footer stays dated under operative O023/SQ02/SQ04 and Rei foodmode, rather than being propagated as present fact."
+          },
+          {
+            "id": "RROOT4",
+            "reason": "The Training Club diversion helps in E832, yet Rei repeatedly objects and Sumire refuses a menu exit. Chihiro gives her separate trio an off-ramp and receives a chosen continuation; that answer cannot authorize Rei's imposed sprint. Arrival/view are positive while breakfast remains proposed and the simulator change belongs to a game character."
+          },
+          {
+            "id": "RROOT5",
+            "reason": "E845 distinguishes Sumire's limited contribution and stated no-deciding-for-another principle from Hanae's cheering, Sensei's tactics/contact and Rei's decision. The grand slam and reception are real local outcomes, followed by ordinary club commitment, equipment thanks and machine defeat. Neither one victory nor Sumire's moderation talk supplies a causal training model or cancels her renewed rest override."
+          },
+          {
+            "id": "RROOT6",
+            "reason": "This is a distinct recurring relational problem across GROUP and EVENTS and an already required stable dyad, not an invented co-occurrence pair. Wanted help and shared company coexist with disagreement about means and stopping. The source supports local redefinitions but does not establish first-ever meeting, a globally ordered reform, a major rupture, complete repair, permanent club membership or future exit."
+          }
+        ],
+        "future_connected_body_requirements": [
+          "A newly authored sustained directed relationship argument, not concatenated character paragraphs or another general character profile. Suggested route follows existing Relationship Syntheses homes: series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md;absence/currentness guards remain futureRoot operations.",
+          "Track method12 relational dimensions: origin/contact at known local grade, initial asymmetry, recurring grammar/conflict/care/trust/hierarchy, rupture/repair or honest absence of proof, ordinary afterstate, written address/register bounds, Sensei mediation where present. G330 has no Sensei mediation; do not import it from other settings.",
+          "Retain eight serious rivals with actual partial warrants and contrary cases. No forced moral essence, hidden motive, efficacy/safety/clinical model, causal monopoly, permanent consent or durable reform.",
+          "Use exact existing source loci and maintained analytical grades. Only question-specific consequential context may trigger a further source request; no optional private/BOND/V002/raw admission or new future source by symmetry.",
+          "Save own compact prospective composition questions before body; draft quartet+scope/generation/boundary; connected literary closing; complete paragraph/source/mode/recipient limits and unique original decisions. Preserve source/readiness grades and all frozen originals attributed.",
+          "OwnC draft only; different complete-body QA and Root actual full receiving/adoption precede public composition/authority promotion. No named/newperson/model/package count, installation/publication or merger credit. Do not create normal105/private8 machinery merely by analogy."
+        ],
+        "current_state": "Published source0ee162/355,19/29named;main7e152;PR455open. No increment from readiness;all14OPEN/models0;fixed25parents/384homes/788responsibilities unchanged.",
+        "dispatch_status": "Author remains available for Ayame shared7 different QA first. This record accepts bounded readiness, but no relation body is yet written or commissioned by an actual followup dispatch.",
+        "scope": "OwnC Root judgment only. Actual source read-only N capture was previously explicit; no heldR/private9/protected39/opaqueMomoi, shared/Git/provider/control/frozen write, foreignhelper or externalchat."
+      }
+    },
+    "R02": {
+      "record_id": "R02",
+      "original_filename": "ROOT_ACTUAL_SUMIRE_BASEBALL_REI_CONNECTED20_BODY_PEER30936_OWN240_69_FULL_MEANING_ADOPTION_WITH_LIMITS_V1.json",
+      "original_file_bytes": 10816,
+      "original_file_sha256": "2e7b7e244c6c85a8678776d9a1f72e9df76cb1ee008c3c0acb0ec4e8787cd560",
+      "source_actor_fields": {
+        "actor": "/root"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T13:49:35.084Z"
+      },
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "764f9adde2ca2cb80f5869b70141c976e89ccca06c9a5fe54d39728a17d2c53e"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "original_value": {
+        "schema": "root-sumire-baseball-rei-connected20-private-body-actual-adoption-with-limits/v1",
+        "UTC": "2026-11-04T13:49:35.084Z",
+        "actor": "/root",
+        "decision": "PRIVATE_CONNECTED_RELATION_BODY20_ACCEPTED_WITH_LIMITS_ONLY",
+        "required_id": "P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS",
+        "responsibility": "P3-XMI-R001;single existing incompleteREL;notnamed",
+        "actual_received_pins": [
+          {
+            "n": "BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS_C_ONLY_DRAFT_V1.md",
+            "bytes": 13991,
+            "h": "56870a2ae81aaf2b1d19fdb8dbaeb9066cf49ffeab361f09644b93f63b4ca5cd",
+            "C_directory": "DATED-LOCATOR-131E4882B5D2E5A6"
+          },
+          {
+            "n": "RELATION_BODY_SOURCE_AUTHORITY_VERIFIED_OWN_TWO_MONOGRAPHS_SELECTED240_AND_OPERATIVE_QUALIFIERS_V1.json",
+            "bytes": 22493,
+            "h": "64c8905f7f4d99d912d22dfd22df7cc91cdd8a3e63730b186710cbb2cfd4ea1f",
+            "C_directory": "DATED-LOCATOR-131E4882B5D2E5A6"
+          },
+          {
+            "n": "RELATION_COMPLETE20_LITERAL_PARAGRAPH_PURPOSE_DIRECTION_MODE_ENDPOINT_AND_TWELVE_DIMENSION_MAP_V1.json",
+            "bytes": 44645,
+            "h": "fd9f0719eb5a545dda6ce1b2f6a53db0d672884febf947ae2547c6a7978d93c6",
+            "C_directory": "DATED-LOCATOR-131E4882B5D2E5A6"
+          },
+          {
+            "n": "OWN_RELATION_CONNECTED20_ORIGINAL_CHOICES_TWELVE_DIMENSIONS_EIGHT_RIVALS_AND_MEANINGFUL_READBACK_V1.json",
+            "bytes": 26109,
+            "h": "7947abc53f88e4550fda787b14fa70f1091e499d3c08fd1394e5314c1732d11a",
+            "C_directory": "DATED-LOCATOR-131E4882B5D2E5A6"
+          },
+          {
+            "n": "START_HERE_SUMIRE_BASEBALL_REI_CONNECTED20_DISTINCT_COMPLETE_BODY_QA_FROZEN_WITH_LIMITS_V1.json",
+            "bytes": 8542,
+            "h": "53da62df7950e70ec73b0d8b111f322f33ef13b73bc28cb198e55935a4eec9c6",
+            "C_directory": "DATED-LOCATOR-F625B895D6A820BA"
+          },
+          {
+            "n": "OWN_COMPLETE_RELATION20_LITERARY_REASONS_12_ANSWERS_12_METHOD_DIMENSIONS_8_RIVALS_AND_REFERENCE_LIMITS_V1.json",
+            "bytes": 30936,
+            "h": "5cffd4b8a6539562aa242506638cb253178b8792b5b06198fe03ae556a28ae2e",
+            "C_directory": "DATED-LOCATOR-F625B895D6A820BA"
+          },
+          {
+            "n": "OWN_ACTUAL_SELECTED240_TWO_WHOLE_ACCEPTED_MONOGRAPHS_QUALIFIERS_METHOD_AND_RECEIVING_BOUNDS_V1.json",
+            "bytes": 10338,
+            "h": "a649efeaffb266018484ce51fe5d11dcb309ed5befb47126eed16cb9067e5c64",
+            "C_directory": "DATED-LOCATOR-F625B895D6A820BA"
+          }
+        ],
+        "own_actual_receiving": "Own2060 prospective/c5ceae before newbody. Whole7391 author terminal and13991 body through closing; whole22493 SOURCE and26109 author6/12/eight/six/20 readback/closure meanings; all20 map unique purpose/direction/mode/end/limit/evidence/qualifier values and all12 dimensions received. Literal map duplicates verified against the already personally read wholebody. Whole8542 distinct terminal,30936 complete own12/all20/12/eight/six reasons and10338 course received untruncated. Reading source-course prose does not transfer its underlying attendance.",
+        "own_source_grade": "Root actual selected240 maintained addresses and operative qualifiers from prior8431/2f9ae reused at exact unchanged source pins. Root claims no newWHOLE3, no author/peer336/117 character-analysis attendance by proxy, and no original950/1839/primary/native/raw/AV/common105/private course. Current N Main9e5c/source7b65 reconciliations have no change to these maintained sourceowners.",
+        "six_Root_complete_answers": [
+          {
+            "id": "RBR01",
+            "paragraphs": [
+              1,
+              2,
+              3
+            ],
+            "judgment": "The draft has one relational problem: choosing an expert does not make the expert owner of the goal. The referral, temporary request and different ideas of useful work give Rei an active criterion against which Sumire’s genuine capacity is tested. These are particular directed acts, not mere co-presence or two profiles placed together. The claimed beginning remains the received coaching arrangement, with first-ever contact unestablished."
+          },
+          {
+            "id": "RBR02",
+            "paragraphs": [
+              4,
+              5,
+              6,
+              8
+            ],
+            "judgment": "The changing last set creates pressure, yet the granted pause is an actual response to Rei and the ended session opens a shared world beyond exercises. Quiet sparse-crowd watching has value before any proof of improved batting. Food is Rei’s interest and offer; Sumire permits one hotdog and enjoys shared watching. Current O023/SQ02/SQ04 and Rei’s food-mode govern the inherited footer: there is no consumed Sumire meal or acted purchase. Preserving the real local kindness neither erases repeated pressure nor requires calling it reform."
+          },
+          {
+            "id": "RBR03",
+            "paragraphs": [
+              7,
+              9,
+              10
+            ],
+            "judgment": "Baseball knowledge moving from Rei to Sumire makes hierarchy domain-specific rather than total. Their positive continuation answer matters as an answer to that association; it does not authorize every later device or erase Rei’s new judgment. The finish-versus-cannot-stop conflict is consequential even though activation, release, safety and an enacted departure remain unprinted. The draft properly declines to fabricate a major rupture and completed repair from a stated intention."
+          },
+          {
+            "id": "RBR04",
+            "paragraphs": [
+              11,
+              12,
+              13
+            ],
+            "judgment": "The useful diversion helps the party, while Rei remains a separate recipient of prescriptions and a speaker of refusal. Chihiro’s offered off-ramp and her trio’s choice cannot supply Rei’s permission for an imposed sprint. Actual arrival and the view retain positive meaning alongside protest; proposed breakfast stays future and the later game-character gain stays a simulator outcome. Those limits preserve ordinary goods without using them to excuse a denied stop."
+          },
+          {
+            "id": "RBR05",
+            "paragraphs": [
+              14,
+              15,
+              16,
+              17,
+              18
+            ],
+            "judgment": "Sumire’s no-deciding-for-another principle is a stated standard, tested against her negotiation/Morse limits and the later refusal of a day off. Hanae’s cheering, Sensei’s tactics/contact, Sumire’s help and Rei’s own attempt remain different acts. The actual grand slam and joy matter despite a subsequent machine defeat, and neither result isolates training causation. Rei’s club choice and Sumire’s memory wish have different ordinary ends. Success, gratitude and wanted memory do not settle the renewed rest conflict or establish durable reform."
+          },
+          {
+            "id": "RBR06",
+            "paragraphs": [
+              19,
+              20
+            ],
+            "judgment": "The final comparison distinguishes a peer exchange, Sensei’s observation of mismatch and Sensei’s active public intervention without making him author of Rei’s answers. Written requests, repetition and stopping objections support a relational grammar; native address change, performed voice and a shared global calendar remain unestablished. All12 method dimensions and eight partial-warrant rivals receive substance or an honest limit. The closing earns its two goods—asking for help and retaining an answer that can change the help—from the actual contrary cases, not an invented harmonious future."
+          }
+        ],
+        "own_fidelity": {
+          "file": "ROOT_OWN_ACTUAL20_COMPLETE_UTF8_GEOMETRY_AND_EVIDENCE_WITHIN_OWN_SELECTED240_FIDELITY_V1.json",
+          "bytes": 6953,
+          "sha256": "e9c5ae6409c3891c4019c986ee5c511ca2df297fadbc1ed9d6fa467f324429b3",
+          "predicates": 69,
+          "false": 0,
+          "scope": "Exact20 spans/physical lines/full literals and SHA,25 evidence links within actual source-selected240,12 dimension coverage; seven current full raw input pins independently rechecked at thisadoption. Not new literary cognition or peer277 transfer."
+        },
+        "different_QA": "PASS_WITH_LIMITS,277/0 documentary predicates kept separate. All20 particular judgments,own12,method12,eight serious rival decisions,sixreferences and actual240/336 grade personally received; no material unsupported upgrade found.",
+        "bounded_reference_check": "Opening names Sumire/baseballReiCH0245 and chosenhelp. Middle keeps breakrecipientRei/grantSumire,offerRei/allowanceSumire,enjoymentSumire,baseballknowledgeRei; Chihirotrio,gamecharacter,Hanae and Sensei actions separate. Ending keeps clubchoice,wantedmemory,rest and success/contraryafterstate finite. No divingvariant/identityjoin,newnamed/extraREL/institution/model/sourcecredit.",
+        "authority_and_temporal_scope": "Exact draft_noncurrent/trueveto/emptyarrays remain. This private-body adoption supersedes only the old body-not-yet-accepted condition for this exact scope; all original dated pending/prospective/author and peer records stay frozen and truthful at creation. No public afterimages/currenteligible promotion, shared-state row transaction, Ninstall, source-head audit or protectedmerge success is granted by this record.",
+        "project_state": "Source163 is separately actually published in PR457 and auditpending; protectedMain162 lastverified. This C acceptance adds0 completed required/named/home/person/model duties.355/29/25/384/788,all14OPEN/models0 unchanged.",
+        "remaining": "A separate C-only public-form PLAN may now be commissioned for exactbody20 and complete source/intellectual/provenance preservation. Actual composition must await Root planadjudication. Public-form QA/newbyte adoption/canonicalmetadata/shared7/installation/publication remain separate.",
+        "access": "Own newC receipt only; exactpositive Cbytes/ownstdlib. No N/R/Git/provider/shared/global/source/frozen/excluded39/private9/opaqueMomoi writes or newsource/acquisition/admission, foreignhelper execution/import, broadscan or externalchat."
+      }
+    },
+    "R03": {
+      "record_id": "R03",
+      "original_filename": "ROOT_EXACT_RELATION20_WHOLE13991_HEADER795_POSTYAML13196_COMMISSION_GEOMETRY_CORRECTION_NO_BODY_CHANGE_V1.json",
+      "original_file_bytes": 1409,
+      "original_file_sha256": "9a9ff82eae1734b562440f13be835663650466e4030193e7602bfb817186f11f",
+      "source_actor_fields": {
+        "actor": "/root"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T14:04:48.073Z"
+      },
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "1bb6d7d1f4e33d68e570190a8f22656bb2a1c7eeb252ba1dc2fe0181f8f7ab6d"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "original_value": {
+        "schema": "root-relation20-public-plan-commission-exact-body-geometry-erratum/v1",
+        "UTC": "2026-11-04T14:04:48.073Z",
+        "actor": "/root",
+        "original_commission_phrase": "All13991postYAMLbodybytes immutable",
+        "correction": "13991 is the whole draft length, including795 first-YAML bytes. The entire13196-byte post-YAML region is immutable. Preparation-only exact header metadata normalization remains allowed after Root planadjudication; literary content, blanklines/title/headings/citations/closing remain exact.",
+        "actual_whole_body": {
+          "bytes": 13991,
+          "sha256": "56870a2ae81aaf2b1d19fdb8dbaeb9066cf49ffeab361f09644b93f63b4ca5cd"
+        },
+        "actual_first_YAML_bytes": 795,
+        "actual_entire_post_YAML": {
+          "bytes": 13196,
+          "sha256": "7b6fda70e946912bd94ff2cb1c0bdf107f366c0666ca888733bea382b4e42e48"
+        },
+        "cause": "Root commission mistakenly used wholefile length as post-YAML length. Planner identified exact measured split; Root independently measured actualbytes and agrees. This is a geometry wording correction, not a literary change or new scope.",
+        "preservation": "Originalcommission andRoot10816 adoption remainfrozen; add this exacterratum to datedRoot lineage in plan. Bodybytes NOOP, no afterimages/public promotion/source/install/count credit.",
+        "scope": "Only exact relation20 plan responsibility; futurecanonicalmetadata/sharedtransaction/publicQA remain separate."
+      }
+    },
+    "R04": {
+      "record_id": "R04",
+      "original_filename": "ROOT_OWN_ACTUAL20_COMPLETE_UTF8_GEOMETRY_AND_EVIDENCE_WITHIN_OWN_SELECTED240_FIDELITY_V1.json",
+      "original_file_bytes": 6953,
+      "original_file_sha256": "e9c5ae6409c3891c4019c986ee5c511ca2df297fadbc1ed9d6fa467f324429b3",
+      "source_actor_fields": {},
+      "source_date_fields": {
+        "UTC": "2026-11-04T13:40:15.067Z"
+      },
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "/schema",
+          "original_typed_sha256": "bce7b189240ae374f93f647b4021cebd05ab906115f271e1b285ed1cb4a190e3"
+        },
+        {
+          "original_JSON_pointer": "/UTC",
+          "original_typed_sha256": "f1ad2019df141fe7ca06cc71288546e8a9dd740143b47cdba7d36012755a98eb"
+        },
+        {
+          "original_JSON_pointer": "/number_of_checks",
+          "original_typed_sha256": "c75cb66ae28d8ebc6eded002c28a8ba0d06d3a78c6b5cbf9b2ade051f0775ac4"
+        },
+        {
+          "original_JSON_pointer": "/false",
+          "original_typed_sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+        },
+        {
+          "original_JSON_pointer": "/scope",
+          "original_typed_sha256": "d16a3f76cb167af84917658862f6f0f9cb90fae6ff8b579124cb68c9faac2376"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "selected_original_values": {
+        "/schema": "root-own-connected-relation20-full-literal-and-selected-source-range-fidelity/v1",
+        "/UTC": "2026-11-04T13:40:15.067Z",
+        "/number_of_checks": 69,
+        "/false": 0,
+        "/scope": "Own modest literal/physical/source-range proof only; no peer173 transfer, no primary/native/raw/AV course, no individual-character336/950/1839 grade, no semanticadoption. Root actual selected240 receiving remains prior8431/2f9ae."
+      }
+    },
+    "R05": {
+      "record_id": "R05",
+      "original_filename": "ROOT_SIX_PROSPECTIVE_CONNECTED_RELATION_ARGUMENT_QUESTIONS_PRIOR_OWN240_AND_NO_TRANSFER_BEFORE_CURRENT20_BODY_V1.json",
+      "original_file_bytes": 2060,
+      "original_file_sha256": "c5ceae1510a5d9dd7eec55115452203c5ed9aca04f5835d0141d70aa7bd83e0b",
+      "source_actor_fields": {
+        "actor": "/root"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T13:34:47.208Z"
+      },
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "ac17ab5bfafec3c2b6c747c274b8011c93af10024649ffde2310a3193b0b1da2"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "original_value": {
+        "schema": "root-sumire-rei-body-prospective/v1",
+        "UTC": "2026-11-04T13:34:47.208Z",
+        "actor": "/root",
+        "before_newbody_receiving": true,
+        "own_prior_exposure": "Actual existing readiness Root8431/2f9ae and selected240 maintained addresses with full operative qualifiers; author terminal/outline metadata just received, not final20 body. Existing character/readiness exposure remains attributed; no author336/950/1839 borrowed.",
+        "questions": [
+          {
+            "id": "RBR01",
+            "question": "Does this connected dyad argument distinguish Sumire giving help from Rei selecting a particular home-run aspiration, rather than concatenate character monographs or invent an original firstmeeting?"
+          },
+          {
+            "id": "RBR02",
+            "question": "Who receives the break, offers a treat, watches, permits one hotdog and consumes food, and does ordinary quiet sharedtime retain its full particular relational significance without footer compression?"
+          },
+          {
+            "id": "RBR03",
+            "question": "Do reciprocalknowledge and sharedworld show something more precise than obedience, while preserving asymmetry and the ability to refuse a particular interruption?"
+          },
+          {
+            "id": "RBR04",
+            "question": "Does useful diversion inE832 remain separate from justification/permission and the Chihirotrio off-ramp separate from Rei agreeing, with breakfastfuture/10kg mode intact?"
+          },
+          {
+            "id": "RBR05",
+            "question": "Do E845 explicit cannotdecideforanother/actualwinovernextdayloss/restoverride remain a serious contrarycase, rather than causaltraining proof or durableconsent/reform?"
+          },
+          {
+            "id": "RBR06",
+            "question": "Are all12 relational dimensions and eight strong partial rivals adjudicated at supported granularity, with local sequencing and Senseimediation appropriately bounded and no globalcalendar/clinic/safety/native/AV claims?"
+          }
+        ],
+        "boundary": "C-only receiving. No body adoption, public form, current count, Nwrite/Git/provider/global/source admission; all355/29 duties retained."
+      }
+    },
+    "R06": {
+      "record_id": "R06",
+      "original_filename": "ROOT_SIX_PUBLIC_PLAN_FIELD_ACTOR_AND_LITERAL_PRESERVATION_QUESTIONS_BEFORE_COMPLETE_CURRENT_PLAN_V1.json",
+      "original_file_bytes": 2015,
+      "original_file_sha256": "d5f30851e2412548b364239c50b04f6a54233d150a40a7b0b72d22ab38df992f",
+      "source_actor_fields": {
+        "actor": "/root"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T14:34:23.459Z"
+      },
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "cd98911278fe6e220d56da1d776fd412db6a297a913500636db2f264ba6879b3"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "original_value": {
+        "schema": "root-sumire-rei-public-plan-prospectives/v1",
+        "UTC": "2026-11-04T14:34:23.459Z",
+        "actor": "/root",
+        "before_full_plan_meaning_receiving": true,
+        "prior": "Actual private20 body adoption10816/2e7b7e24, own240 sources/69fidelity, fullauthor26109/peer30936+10338 meanings; whole3350 planterminal metadata only. No new underlying source course or unmade publicfiles accepted.",
+        "questions": [
+          {
+            "id": "RRP01",
+            "question": "Do six proposed roles preserve every unique readiness/body/peer/Root meaning and qualification directly, with exactduplicate selectors rather than summaries and no raw source/input transport?"
+          },
+          {
+            "id": "RRP02",
+            "question": "Are all328 exact field occurrences safely classified with complete typed inverses, keeping nonlocator prose and identity/date/actor words intact and no imaginary public file aliases?"
+          },
+          {
+            "id": "RRP03",
+            "question": "Do the proposed three YAML lines preserve every13196 post-YAML byte and all20 paragraphs, with the corrected795/13991 geometry and recoverable14008 historical draft?"
+          },
+          {
+            "id": "RRP04",
+            "question": "Are original own336/240/sourcegrades attributed to actual bodywriter/current_preflight and peer/sumire, with no ambiguous transfer to publiccomposer, including any original Own source_boundary wording?"
+          },
+          {
+            "id": "RRP05",
+            "question": "Are draft/noncurrent/trueveto/emptyarrays and stable preparation-date lifecycle clear while original pending/prospective statements remain dated history rather than contradictory currentinstructions?"
+          },
+          {
+            "id": "RRP06",
+            "question": "Are concretepath/class/rights/currentselector/hash/DAG responsibilities feasible at six actual roles, with measuredsize only aftercomposition and separate independentpublicQA/Rootnewbyteadoption before count/publication?"
+          }
+        ],
+        "scope": "Planreceiving only; no publicafterimages/canonicalpromotion/sharedcounter/N/Git/providerwrites."
+      }
+    },
+    "R07": {
+      "record_id": "R07",
+      "original_filename": "ROOT_ACTUAL_PUBLIC_PLAN_TWO_FINITE_FINDINGS_ACTOR_MEMORY_OWNER_AND_MISSING_COMPLETE_ROOT_PROSPECTIVES_NO_BODY_CHANGE_V1.json",
+      "original_file_bytes": 8436,
+      "original_file_sha256": "28ef7ff1cf747e108b322b9cd5aab7a01f147e4c53031b1e5041caf0c49dd414",
+      "source_actor_fields": {
+        "actor": "/root"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T14:52:48.638Z"
+      },
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "e13276f85ff11fa555f4a34f844353e72180964f140c138e5aed63e6eabf37e4"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "original_value": {
+        "schema": "root-sumire-rei-public-plan-two-finite-findings/v1",
+        "UTC": "2026-11-04T14:52:48.638Z",
+        "actor": "/root",
+        "disposition": "WITH_FINDINGS_PLAN_NOT_ADOPTED_NO_AFTERIMAGES_AUTHORIZED",
+        "evidence_basis": "Root actual full V2 plan and planner readback receiving preserved from this goal; current exact actor answer, E845108-114, original before-body questions2060 and public-plan questions2015 personally received. This is no new primary or underlying-source course.",
+        "pinned_inputs": [
+          {
+            "path": "DATED-LOCATOR-7EEEF48F77E99B83",
+            "bytes": 32804,
+            "sha256": "7690518a110a1223df763dd92e924272f228116566ea382ec8c7bc3cd19f1e32"
+          },
+          {
+            "path": "DATED-LOCATOR-A63B102FEB5A1C5D",
+            "bytes": 32500,
+            "sha256": "236dfb06f0ed33f65b5f478a04350d74b5ef8a36568b22ff7f95b1aa1caa9252"
+          },
+          {
+            "path": "DATED-LOCATOR-98FE10393ED05946",
+            "bytes": 13991,
+            "sha256": "56870a2ae81aaf2b1d19fdb8dbaeb9066cf49ffeab361f09644b93f63b4ca5cd"
+          },
+          {
+            "path": "DATED-LOCATOR-0B1692911E6C5641",
+            "bytes": 2060,
+            "sha256": "c5ceae1510a5d9dd7eec55115452203c5ed9aca04f5835d0141d70aa7bd83e0b"
+          },
+          {
+            "path": "DATED-LOCATOR-F2875D4AB32C27FA",
+            "bytes": 2015,
+            "sha256": "d5f30851e2412548b364239c50b04f6a54233d150a40a7b0b72d22ab38df992f"
+          }
+        ],
+        "findings": [
+          {
+            "id": "RPLAN-F01",
+            "classification": "INCORRECT_IDENTITY_OR_ATTRIBUTION",
+            "locations": [
+              "/own_six_complete_planning_answers/2/answer",
+              "OWN_COMPLETE_SAVED_PLAN_READBACK_SIX_ANSWERS_AND_FINITE_STOP_V1.json#/own_six_answers/2/answer"
+            ],
+            "old_sentence": "Keep Rei specific beautiful-hit objective and own-club/outfit-memory wish separate from Sumire repeated training projections.",
+            "reason": "The conjunction groups the outfit-memory wish under Rei. E845110 and the accepted body distinguish Sumire clothing/memory interest from Rei batting goal and own-club choice.",
+            "source_warrant": {
+              "line108": "E012 gives the required contrary afterstate. Scene001 labels next morning; Scene002 locates the Millennium track. Rei receives equipment as thanks, refuses the offered player contract because she wants to rebuild her own Millennium club and intends to use the gift there. It is not a completed budget reform. She reports never having hit even in practice, declares herself reborn/strongest, then narration says the machine defeats her badly and she reports8%→7.9%. The adults’ encouragement did not convert one success into reliable general skill.",
+              "line110": "Sumire wears the vendor clothes to remember the home run despite restricted movement, giving clothing and memory value beyond numerical performance. She says excess love caused the incident and training overwork similarly accumulates fatigue. Yet when Rei says she rested enough for her stated goal, Sumire proposes endurance; Rei wants today off and moves away, protests she has had enough, and the adult attempts an exit. Sumire summons the “members” and all complain. No performed complete final session or durable moderation is supplied. Anchors:Scene001 u1–2;Scene002 u3–25,28–45,46–72. Printed title:プレイボール！～目指せ！満塁ホームラン～."
+            },
+            "accepted_body_warrants": [
+              {
+                "line": 52,
+                "text": "The next morning also keeps ordinary choices in view. Rei refuses a professional contract in favour of what she wants to do with her own club and thanks others for equipment. These choices give her continuing aims beyond being the object of a successful intervention. Sumire's wish to keep the vendor outfit as a memory belongs to a different, modest good: preserving something of a shared occasion. That wanted memory need not improve batting or prove a new permanent intimacy to matter. Their shared world includes the club Rei chooses and the occasion Sumire wants to remember, with neither end reducible to a training result. [E845:108–114]"
+              }
+            ],
+            "finite_remedy": {
+              "suggested_replacement_sentence": "Preserve Rei's particular batting goal and her choice of club, Sumire's wish to remember the occasion through the vendor clothes, and Sumire's repeated training prescriptions as distinct interests.",
+              "unchanged_answer_remainder": " Chihiro trio off-ramp is not a break supplied to Rei. Hanae, Sensei and Rei contribute distinct advice/transmission/endpoints. The actual grand slam and next-day failure cannot establish Sumire exclusive cause or durable reform; actual view is distinct from promised breakfast/game simulation. Original author and peer full rival dispositions preserve these contrary readings.",
+              "preservation": "Keep original frozen V2 and old readback unchanged; retain the incorrect original as dated planner judgment plus an explicit correction in a successor plan/readback. Do not edit the accepted body or source."
+            }
+          },
+          {
+            "id": "RPLAN-F02",
+            "classification": "MISSING_UNIQUE_NORMATIVE_ROOT_MEANING",
+            "missing_input": {
+              "path": "DATED-LOCATOR-0B1692911E6C5641",
+              "bytes": 2060,
+              "sha256": "c5ceae1510a5d9dd7eec55115452203c5ed9aca04f5835d0141d70aa7bd83e0b"
+            },
+            "reason": "Current R01-R04 retention inventory lacks the full six Root before-body analytical questions. The later Root receiving receipt refers to their occurrence but does not retain the unique complete questions.",
+            "finite_remedy": "Add the full typed Root prospective record to the existing ROOT public role, extend exact normative input/retained-root/field-disposition inventories as actually needed, and retain current Root public-plan questions and this findings decision. No new public role/source or fixed record-count quota. Execution transport may remain private only where all unique analytical meaning is otherwise retained directly."
+          }
+        ],
+        "authorized_next_scope": "Finite C-only successor PLAN V3/inventory/field-dispositions/header-proposal/readback/own-proof updates as actually required. Preserve frozen old files; exact typed original inverses and actor/date history. No public six-role afterimages until Root adjudicates corrected plan.",
+        "invariants": [
+          "All13196 post-YAML bytes and20 body paragraphs remain exact;795 original header/13991 original whole geometry",
+          "No source witness omission, ordinary low-stakes relational evidence remains analytical",
+          "Original bodywriter/current_preflight and independent peer/sumire course credits remain distinct from successor planner",
+          "No N/Git/provider/canonical/shared7 writes, no package/current count or independent review credit",
+          "No foreign helpers or held R/private payload access"
+        ]
+      }
+    },
+    "R08": {
+      "record_id": "R08",
+      "original_filename": "ROOT_ACTUAL_FINITE_V3_FULL_MEANINGS_OWN1739_F01_F02_PLAN_ADOPTION_AND_EXPLICIT_SIX_ROLE_C_COMPOSITION_COMMISSION_V1.json",
+      "original_file_bytes": 6822,
+      "original_file_sha256": "bad05f151d9b4f2621c0ac48b82fb0c08276684617bd11235c2a6ba7772f7cd4",
+      "source_actor_fields": {
+        "actor": "/root"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T15:22:06.256Z"
+      },
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "97c64f4988b96a3835d806b9815b46e21695bd7743887907eaf09a7a937ef5ed"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "original_value": {
+        "schema": "root-sumire-rei-corrected-public-plan-v3-adoption-and-separate-c-composition-commission/v1",
+        "UTC": "2026-11-04T15:22:06.256Z",
+        "actor": "/root",
+        "decision": "ACCEPT_FINITE_V3_PLAN_WITH_PREWRITE_CONDITIONS_AND_COMMISSION_C_ONLY_PUBLIC_COMPOSITION;NO_PUBLIC_BYTES_YET",
+        "scope": "Existing P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS /P3-XMI-R001 only;notnamed",
+        "plan": {
+          "path": "DATED-LOCATOR-05E4BF37C79720D8",
+          "bytes": 55697,
+          "sha256": "f6f815caf781f33e86962cb88f1429e039a738e4480167289cd4809e16cad85f"
+        },
+        "own_fidelity": {
+          "path": "DATED-LOCATOR-566130027AFAAE5D",
+          "bytes": 126182,
+          "sha256": "ccde78870047859e276ed9942c6905069cb6da41e9eadc559cebb5de7620324d",
+          "predicates": 1739,
+          "false": 0,
+          "scope": "Own39raw normative input/57typed roots/369exactfields, original31/49/328 preserved, 86pureabsolute substitutions48safeIDs/283identityvalues/full typed inverses, fullV3toV2 inverse, header795+post13196. Not author2153 byproxy."
+        },
+        "actual_Root_meaning_receiving": "Whole4796terminal/full11232 ownfour/six/currentactorcorrection+sourcegradehistory/full15374 meaningfulreadback; complete current55697 plan via full current scope/header/roles/classes/control/field/binding partitions, exact duplicate embeddedRoot8436 and11232 author records verified whole typed against already personally received originals. Current6 planning answers also equal actually read author6. All remainder finiteadjudication fields received; actual R05/R06/R07 wholeRoot assignments guarded. OriginalV2full32804 receiving from prior goal stage and Rootprivate20/ownselected240 remain their actual scope.",
+        "root_six_adjudications": [
+          "F01 resolved at planner judgment only: Rei owns particular batting goal and chosen club; Sumire owns wanted vendor-clothes memory and recurring training prescriptions. Current firstsentence corrected, unchanged fullsuffix retained, old incorrect V2/readback openly dated. Accepted body13991/source remain unchanged.",
+          "F02 resolved: full beforebodyRoot2060, beforeplanRoot2015 and actualRoot8436 findings are complete R05/R06/R07 records in existingRootrole. Originalplanner2974/V2full32804/5805 and successorprospectives/11232 meanings survive. Future V3/full15374/terminal4796 and genuinely unique composer/peer/Root reasoning are additional meaningfuloutputs, not excluded by39input inventory or a57root quota.",
+          "Approve all86 positively itemized PURE WHOLE absolute custody-string substitutions with48safeDATED-LOCATOR identities and private fulltyped inverses; all283 otheridentity values remain literal dated data. Slash agentidentity fields are not currentJSON selectors or borrowedsourcecredit. No mixedprose omission, blanketregex, inventedpublishedalias or sourcewitness exception.",
+          "Approve the six concrete responsibility paths in the current plan and only three preparationYAML line proposals, preserving all13196postYAMLbytes/20paragraphs/title/order/headings/citations/closing. Original795header and whole13991 remain rawprivatebeforeimages; proposed864header/14060 body is preparationonly. No canonicalpromotion yet.",
+          "The dyad argument keeps quietbaseballwatching, grantedrest, foodoffer/allowance, company, clothingmemory and refusals intrinsically meaningful. Chihirotrio diversion/offramp does not supply Rei consent; actualgrand slam and nextdayfailure do not prove Sumire solecause or durablemoderation. Rootselected240 only; author/peer ownWHOLE2/336/117 and selected240 remain distinct.",
+          "Six roles have positive analytical/provenance need before actualsizes: body,source/modes/map,author,peer,Root,registry. Originalmaintained owneranalyses and two othermonographs stay authoritative at their existinghomes; only duplicate deliverycopies are excluded from newpublicbundle. Fullunique readerreasons/modes/rivals/history remain direct. No rawsource/helper/proofarray/inputcodec rights or sizewaiver."
+        ],
+        "explicit_public_composition_commission": {
+          "executor": "/root/current_preflight_requirements; originalprivatebodyauthor/successorplanner nowpubliccomposer, not laterindependentpublicQA or Rootadopter",
+          "write_scope": "New separate C-only derivative directory; six concrete publicrole repositorypaths exactly from accepted V3. Preserve oldfrozen inputs and currentprivatebody. No N/Git/provider/shared7/global/source writes.",
+          "prewrite": "Receive full unique normative requirements or disclose genuine same-reader priorreceiving and exactpinreuse. Beforewriting save itemized all exacttyped field/value old/new edits and full inverses including new V3/readback/terminal/Rootadoption/meaningfulcomposer records; no quota. Three proofduplicates allowed only as actual exactfullvalue equalbases with actualselectors and occurrence attributions.",
+          "build": "Body only3headerlines; retain all current20/13196. Allunique source/author/peer/Root/planner judgments direct; old3paragraphhistory fullreadable. Exact86field+newly necessary positively declared metadata locator sanitization; identityfieldsunchanged asdated. Newcurrent6 tuples/registry/source-map geometry/acyclicDAG derivedfromactualbytes; oldcurrent4graphs/tuples/counts remain dateddata.",
+          "closeout": "Save complete own actualnewmeaning readback/class/rights/currentstage judgments, independent own scopedfidelity, measured6positiveallowlist/terminal/manifest; fullinverses private. Freeze for DIFFERENT complete publicformQA and Rootactualnewbyteadjudication before any canonicalpromotion/install/count/publication."
+        },
+        "constraints": [
+          "No new sourceadmission/primary/native/raw/AV/SS01/SS04/BOND/V002/oldR/private9/protected39/opaque/foreignhelper access",
+          "No sourcewitness intellectual omission or low-stakes/stakes/popularity/F/privatepool/model threshold",
+          "All355/29/25/384/788, actual163/named19/all14OPEN/models0 unchanged; no early178 milestone",
+          "No externalartifact handoff/chat messages; toolingimplementation Claude/merge reservation remains"
+        ],
+        "next_priority": "Suou currenteligible metadata finiteQA can take priority at a stable privatework boundary once Root supplies its actual frozen derivative. This commission is for relationpublic composition only, not a fake check of futureSuoubytes."
+      }
+    },
+    "R09": {
+      "record_id": "R09",
+      "original_filename": "ROOT_EXACT_Q06_PREDICATES277_MECHANICAL_ARRAY_PRIVATE_ONLY_EIGHT_REASONS_RETAINED_AND_54_FIELD_SCOPE_ADJUDICATION_V2.json",
+      "original_file_bytes": 6669,
+      "original_file_sha256": "e6dfdc73d40195a9949819b95ea9ad2e4b00c87b316a274fd4abe1e13509faf3",
+      "source_actor_fields": {
+        "actor": "/root"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T15:27:26.856Z"
+      },
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "b0df3d196e0afdfd61340d927d82e8fb8e492fa4378f537889ed9e67e9e896fa"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "original_value": {
+        "schema": "root-relation-exact-Q06-predicate-array-private-class-adjudication/v1",
+        "UTC": "2026-11-04T15:27:26.856Z",
+        "actor": "/root",
+        "decision": "APPROVE_EXACT_Q06_PREDICATES_PRIVATE_ONLY_CLASS_CORRECTION_BEFORE_PUBLIC_COMPOSITION",
+        "bound_original": {
+          "id": "Q06",
+          "path": "DATED-LOCATOR-F86B70B84DD50E70",
+          "bytes": 46193,
+          "sha256": "63d85f6daac78a7bdf9470e8c1f7c0a139780cfdf798be59f71ef386070b261c",
+          "pointer": "/predicates",
+          "typed_sha256": "eb4a1527ec8c0062885d19f0b96ae80d43bf159ffd0956b3a03340769e355068",
+          "array_entries": 277
+        },
+        "actual_receiving": "Root received exact selectedQ06 roots and full method/counts/explicitlimits/remaining. All actual predicate labels/booleans received with initial clippedmiddle repaired by full0-79 names. All277 entries have only predicate string and PASS boolean (maximumlabel230chars); no literary/source answer/rival/recipient reason exists inside this execution array. Root also inspected all otherselectedproof root types A08/R04 to prevent a name-wide exemption.",
+        "classification_reason": "Q06#/predicates is actual mechanical execution detail, contrary to the accepted plan read_scope NOT_CHECK_ARRAYS and Root6822 proofarray-private condition. Keep original277check array exactly private under raw/typed binding and full original recovery; retain the separate scalar predicate_count277 and all unique explanatory/grade/limit meanings directly. This is not disposal of ordinary/low-stakes analytical evidence.",
+        "exact_public_selected_roots": [
+          {
+            "pointer": "/schema",
+            "typed_sha256": "dd1fdd138dc0c1efb9ca7d9fbfb3381cd9387a4ffc256487073df4bf58beb325",
+            "proposed_public_selector": "/dated_records/Q06/selected_original_values/~1schema"
+          },
+          {
+            "pointer": "/reviewer",
+            "typed_sha256": "f143663450b6132f424bf3ecd219875220f47dbf55ea9f4831124b461efecff7",
+            "proposed_public_selector": "/dated_records/Q06/selected_original_values/~1reviewer"
+          },
+          {
+            "pointer": "/method",
+            "typed_sha256": "fe387c45849b90205e9348d867ca9e1112dea2d338fb5df64ea5d2c281dd89fe",
+            "proposed_public_selector": "/dated_records/Q06/selected_original_values/~1method"
+          },
+          {
+            "pointer": "/predicate_count",
+            "typed_sha256": "27d719c754aacd492a6dc8a1b76619355abcf5ef473cbec02018d3c57ebbf0d5",
+            "proposed_public_selector": "/dated_records/Q06/selected_original_values/~1predicate_count"
+          },
+          {
+            "pointer": "/false",
+            "typed_sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+            "proposed_public_selector": "/dated_records/Q06/selected_original_values/~1false"
+          },
+          {
+            "pointer": "/counts",
+            "typed_sha256": "2e87869038a211c6958d3ad033ecaa67427e011b16ee7dcc351033cf6ab7c53e",
+            "proposed_public_selector": "/dated_records/Q06/selected_original_values/~1counts"
+          },
+          {
+            "pointer": "/explicit_limits",
+            "typed_sha256": "ab33393deb34faa92a9a32a4df0f9f797005006a48485f05c14c87d77413cd43",
+            "proposed_public_selector": "/dated_records/Q06/selected_original_values/~1explicit_limits"
+          },
+          {
+            "pointer": "/remaining",
+            "typed_sha256": "5cf7f4ff9f3ba7ed37564c0176cfb4ef11a46ef47b0652a298362857802314fe",
+            "proposed_public_selector": "/dated_records/Q06/selected_original_values/~1remaining"
+          }
+        ],
+        "dependent_field_disposition": {
+          "count": 54,
+          "nature": "All54 are IDENTITY_VALUE_NO_TEXT_DELTA relative/filename check labels inside excluded mechanical array. Preserve them in original private inventory/dispositions; no public rewrite or runtime locator required for these labels.",
+          "private_exact_field_queue": {
+            "original_filename": "ROOT_EXACT_Q06_PREDICATES277_MECHANICAL_ARRAY_PRIVATE_ONLY_EIGHT_REASONS_RETAINED_AND_54_FIELD_SCOPE_ADJUDICATION_V1.json",
+            "original_file_bytes": 18480,
+            "original_file_sha256": "af4033c440d0ce9782802667a755e2fa012f7b75e8417c680c113aa4faf02e77",
+            "pointer": "/dependent_field_disposition/affected_private_only_original_rows",
+            "count": 54,
+            "complete_typed_sha256": "f5ec235283a773efee38a5575ba9f07a39715bd069d87897b9dd9583eb02220c",
+            "class": "Private raw exact inverse/disposition metadata; public rationale/count/prefix remain direct, no54row inversequeue is public analyticalmeaning."
+          }
+        },
+        "effective_counts": {
+          "original_dated_input_inventory": "39records/57selectedroots/369fields remains exact private dated plan input; not silently rewritten",
+          "public_selected_base_roots": 56,
+          "public_relevant_base_field_occurrences": 315,
+          "public_absolute_substitutions": 86,
+          "public_identity_occurrences": 229,
+          "safe_dated_locator_ids": 48,
+          "qualification": "Counts are derived effects of this exact one-field class correction, not a quota on later Root/planner/composer reasoning."
+        },
+        "no_other_exemption": "A08#/predicates is scalar173 and stays directly retained. R04 selected5 scope/count roots remain. Do not remove every predicates-named field or any source-mode/reader reasoning. No other57 roots authorized for omission by this decision.",
+        "implementation_scope": "New composer prewrite ledger adds this exact one-field private disposition and full inverse scope before afterimages; keep originalV2/V3/full inventories/frozenRoot6822 untouched as dated history. Current publicQ06 shows eight retained selectedvalues, rawtuple/typedprivate-array commitment and clear private-only disposition, not the277array. Retain this complete V2 Rootclass reasoning within existingROOT role under exact purelocator sanitization. V1 full raw and its54row exact queue stay private under the explicit binding; V2 contains their complete intellectual class decision. Continue previously authorized six-role composition; no newsourcebody/eligibilitywaiver/count/install/publication permission.",
+        "actual_project_state": "163/355,named19/29,all14OPEN/models0; no publicafterimages or shared7/N/Git/provider writes by this adjudication.",
+        "meaning_vs_private_detail": "This V2 preserves all unique Root class reasoning directly. Only the54-row precise private inverse/disposition queue from V1 stays private under full commitment; currentQ06 private-array rule is exactly as previously reasoned. Do not duplicate proof or inverse arrays inside a Root intellectual record to evade their private class. No other Root prose omission."
+      }
+    },
+    "S05": {
+      "record_id": "S05",
+      "original_filename": "OWN_RELATION_PUBLIC_ACTUAL_SAVED_MEANING_READBACK_SIX_ANSWERS_CLASS_AND_COMPOSER_CLOSEOUT_V1.json",
+      "original_file_bytes": 9277,
+      "original_file_sha256": "98ae5c4bb31f4b4d1f8587ca18977b7cd17089205d48c655401765ea59ff0f05",
+      "source_actor_fields": {
+        "composer": "/root/current_preflight_requirements",
+        "role": "Originalprivatebodyauthor/finiteV3planner nowpubliccomposer; this is own compositioncloseout, not later independent publicQA/Root adoption."
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T15:41:22.585873+00:00"
+      },
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "18837a9b94072597795c6a41596930c4b2f2e7406f6993bb4a4f5422a0c081b8"
+        }
+      ],
+      "delivery_scope": "Complete own composer closeout, not Root/owner signature or independent publicQA. Original local source stays private; no current private dependency.",
+      "original_value": {
+        "schema": "OWN_RELATION_PUBLIC_ACTUAL_SAVED_MEANING_READBACK_SIX_ANSWERS_CLASS_AND_CLOSEOUT_V1",
+        "UTC": "2026-11-04T15:41:22.585873+00:00",
+        "composer": "/root/current_preflight_requirements",
+        "role": "Originalprivatebodyauthor/finiteV3planner nowpubliccomposer; this is own compositioncloseout, not later independent publicQA/Root adoption.",
+        "decision": "SIX_C_ONLY_PREPARATION_AFTERIMAGES_BUILT_AND_MEANING_RECEIVED;CLOSEOUT_FOR_DIFFERENT_PUBLIC_QA_AND_ROOT",
+        "actual_source_grade": "No new underlying/source course. Own original WHOLE2 accepted analyses336/117 plus selected240 retained as dated author/readiness course; peer independently owns her declared336/117+240, Root selected240 only. Original950/1839 character courses remain original readers. Reading reader judgments does not transfer their source attendance.",
+        "six_complete_answers": [
+          {
+            "id": "RPC01",
+            "answer": "All original unique initial39-input meanings are represented under the actual Root class qualification:56 base selected roots public, exact Q06 mechanical array private. Full currentV3/P04,15374 readback/P05,4796 terminal/P06,Root6822/R08,Root6669/R09 and new complete composer prospectives/S03/prewrite reasons/S04 survive as additional directly readable dated records. Before this closeout there are46 current dated records/63 public roots, without a fixed quota. The current first sentence assigns vendor-clothes memory to Sumire; full wrong original planner sentence and current correction remain dated and separate. All original actor/date/null/grade distinctions survive."
+          },
+          {
+            "id": "RPC02",
+            "answer": "I personally read the actual saved14060-byte public body from firstYAML through closing, all58 lines/20 paragraphs. Every13196 post-YAML byte equals the accepted13991 private manuscript; only the exact three preparation header lines change795→864 bytes. I also read the actual saved complete three historical paragraph variants and old/new fragment recipes. Original voiced/audible and older ordinary-company wording stay literal dated history with current written-report limits, not retroactively corrected attendance. Complete14008 initial body recovery remains private/in-memory, without a public wholebody codec."
+          },
+          {
+            "id": "RPC03",
+            "answer": "Before public writes the exact508339-byte prewrite declared all315 public-relevant base fields,86 base plus15 new pure whole absolute edits,229 preserved identity fields and22 exact duplicate selector operations;53 safe locator IDs are current. All15 new normalized locator values were personally read. Original369 private fields remain frozen including54 Q06 mechanical-label rows with no publicprocessing. A duplicate parent after normalized child fields has two explicit scopes: exact original serialized source token and logical pre-parent normalized value. Full ordered inverse restores every selected original, without confusing those scopes or blanket rewriting prose."
+          },
+          {
+            "id": "RPC04",
+            "answer": "Actual directly readable SOURCE bases and BODY spans justify all three allowed duplicate classes: complete twelve dimensions, complete operative qualifiers and20 whole literals. Their original occurrence/actor/hash is retained. Actual Q06 public record has eight complete schema/reviewer/method/count/false/counts/limits/remaining values and exact private277-array commitment; no mechanical array is public. A08 scalar173 remains direct. Full Root6669 class reasoning is public while its referenced54-row raw private inverse queue remains private. This preserves intellectual meaning while maintaining the specific proof-detail boundary."
+          },
+          {
+            "id": "RPC05",
+            "answer": "The initial own separately implemented byte checker passed1035 predicates with zero false. It independently checked frozen input pins/full projected-root inverses/exact source tokens/101 pure locator and22 duplicate operations, private277 class, unchanged body/full old inverse, current20 geometry/three sourceowners, complete three old paragraphs/14008 recovery,63 routes/53 IDs and actual six-node14-edge acyclic graph. All six UTF8/LF files have justified analytical roles before actual measured sizes:14060/97363/297189/65633/59250/116176 at initial build. Size and JSON do not waive class/need/rights or create new media/source rights. Final Root/registry closeout tuples and final sizes must be independently recomputed after insertion."
+          },
+          {
+            "id": "RPC06",
+            "answer": "Actual complete saved body/common wrappers/effective source selectors/current Root creation control/three full old paragraphs were personally received. Newly received privatepeer Q01–Q05/full Q03 all12/all20/12dimensions/eight rivals/sixreferences and eight meaningful Q06 roots remain attributed peer judgments. Same-reader own original body/readiness/source-depth and finiteV3 meanings are reused only at unchanged pins; Root6822/6669 full conditions were newly received. This is author compositionfidelity and meaningful readback, not independent publicQA or Root newbyte adoption. Preparation remains draft_noncurrent/trueveto/emptyarrays; old pending/count/head fields are dated. Currentmetadata/shared7/N/install/count/publication need later distinct authority. Prioritized Suoumetadata review may interrupt only at a stable ownC boundary."
+          }
+        ],
+        "class_need_rights_before_size": [
+          {
+            "role": "BODY",
+            "class_": "Direct connected dyad analytical argument",
+            "need": "Immutable20 literary paragraphs make the existing required relation argument; exact three preparationheader edits only.",
+            "rights": "Original project analysis/citations at maintained analytical scope; no acquisition/raw/native/AV payload."
+          },
+          {
+            "role": "SOURCE",
+            "class_": "Curated complete source/mode/map/qualifier and literary-history argument",
+            "need": "All distinct purposes/directions/recipient/mode/end/limit values and operative qualifications plus full3oldparagraphs prevent actor/grade/endpoint inflation.",
+            "rights": "Own attributed analysis/qualifiers, not complete maintained source copies or source media. No new source rights inferred."
+          },
+          {
+            "role": "AUTHOR",
+            "class_": "Complete attributed author/readiness/publicplanner/composer judgments",
+            "need": "Full questions/answers/rivals/dimensions/source-use/dated corrections and publicplan meanings remain readable; exact duplicate bases only.",
+            "rights": "Project analytical and necessary provenance meanings; private locators normalize only under exact inverse."
+          },
+          {
+            "role": "PEER",
+            "class_": "Complete different reader analytical judgments and bounded grade/provenance",
+            "need": "Full privatepeer12/all20/12/eight/six reasons and eight selected Q06 explanation/count/limit values retain independent meaning; private mechanical277 array excluded exactly.",
+            "rights": "Attributed project analysis, no peer cognition transfer or helper/source bundle."
+          },
+          {
+            "role": "ROOT",
+            "class_": "Full Root scope/adoption/commission/class and composer provenance",
+            "need": "Retains complete Root8431/10816/1409/2060/2015/8436/6822/6669 meanings and this own composer record under its own role, separating private acceptance from newpublic review.",
+            "rights": "Attributed Root/composer prose, not an owner signature or proof-array transport."
+          },
+          {
+            "role": "REGISTRY",
+            "class_": "Necessary intellectual locator/occurrence/current-component navigation",
+            "need": "Actual complete root selectors/hashes/actors/dates and safe dated locator records distinguish current logical meaning from original delivery identities.",
+            "rights": "Curated analytical provenance metadata only; no private raw source/helper/wholeinput payload or fake published alias."
+          }
+        ],
+        "ordinary_actor_and_endpoint_limits": "Rei batting/club choice and Sumire wanted clothes memory are separate. Quiet watching/reciprocal rules/rest/food offer/allowance remain intrinsic without eaten Sumire meal or athletic validation. Chihirotrio permission does not transfer to Rei; promised breakfast and simulator gain stay future/game mode. Win/next-day defeat/renewed rest override do not prove causal monopoly, permanent consent/reform, clinical/safety/global-calendar or firstcontact/major rupture/repair.",
+        "diagnostics": "Initial prewrite construction stopped before outputs because a shared-parent duplicate followed prior child locator edits. Corrected by preserving exact original serialized token separately from ordered logical pre-parent value, then all inverses passed. One cp1252 status print failed after the own code patch; patch was verified by successful own prewrite/build. No source/frozen/public defect or changed analytical sentence resulted. Proof count is author fidelity, not cognition.",
+        "next": "Freeze after necessary exact closeout/registry bindings, full final checks/readback and external manifest. Different complete publicQA and Root actualnewbyte adjudication remain. No source/model/person/identity/named/extraREL/institution/currentcount/N/Git/provider/shared7/heldR/private/foreignhelper/externalchat/install/publication credit."
+      }
+    },
+    "R10": {
+      "record_id": "R10",
+      "original_filename": "ROOT_ACTUAL_SUMIRE_REI_PUBLIC6_FULL_QA20468_3936_OWN1574_ADOPTION_AND_EXPLICIT_METADATA6_COMMISSION_V1.json",
+      "original_file_bytes": 10445,
+      "original_file_sha256": "3b47ad7589236fe84a857a145156ba70c67dba6a7d76a9090c5e91a1526a2779",
+      "source_actor_fields": {
+        "actor": "/root"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T17:53:14.058Z"
+      },
+      "stage": "DATED_COMPLETE_METADATA_AUTHORITY_OR_REASON_RECORD_NOT_FUTURE_QA_APPROVAL",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "16e6ce53b0670f95feba0676ea684bc3d38a747a75b35a3470ff48a728d8a39d"
+        }
+      ],
+      "delivery_scope": "Full unique actual normative/prospective/diagnostic reasons retained at original stage. Only declared wholepureC custodystrings become exactdatedIDs under complete privateinverse;filenames/identity/hashes/prose remain literal. No containedtarget access.",
+      "original_value": {
+        "schema": "ROOT_ACTUAL_SUMIRE_BASEBALL_REI_PUBLIC6_COMPLETE_NEW_MEANINGS_FULL_QA_OWN1574_ADOPTION_AND_METADATA_DERIVATIVE_COMMISSION_V1",
+        "actor": "/root",
+        "UTC": "2026-11-04T17:53:14.058Z",
+        "decision": "ADOPT_EXACT_PUBLIC6_COMPLETE_ANALYTICAL_MEANINGS_WITH_LIMITS;AUTHORIZE_SEPARATE_CANONICAL_METADATA_DERIVATIVE_C_ONLY",
+        "identity": "P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS/P3-XMI-R001;Sumire and baseballRei CH0245;existing required relationship home,notnamed",
+        "actual_receiving": "Root previously personally accepted private20body and V3publicplan and received fullcomposer9277/terminal9139/final8588/full differentpublicQA20468/terminal5566. After own2117prospectives,Root personally received every new5JSONwrapper/currentSOURCEselectors/Rootcreationcontrol/registrybasecontract and all3completehistoricalparagraphs. Wholepeer3936savedcloseout nowreceived. Actual47/64 retainedroot projections andall123orderedtypedchanges independently match exactoriginalnormatives;genuine same-reader prior meaning reuse is bounded by those whole-value equalities. No clipped exploratory sample supplies fullmeaning credit.",
+        "source_grade": "Root genuine SELECTED240 maintained addresses only. Original bodyauthor anddifferentbodypeer each independently own two accepted maintainedanalyses336lines/117paragraphs plusselected240. OriginalSumire950/Rei1839 courses remain originalreaders. Publicplanning/review/metadata creates0newsourcecourse/primary/native/raw/AV/private/BOND/V002/future intake.",
+        "six_Root_judgments": [
+          {
+            "topic": "One connected directed argument",
+            "reason": "Rei chooses training for a particular batting aim while Sumire wants to develop anotherperson abilities. Requests,prescriptions,moving endpoints,a grantedpause,sharedwatching andrenewedobjection give the20paragraph argument its relation-specific movement. Help remains answerable to Rei’s changing judgment;neither universalcoercion nor permanentlyconsented training explains all the evidence."
+          },
+          {
+            "topic": "Ordinary goods and actual actors",
+            "reason": "Quiet watching,sharedbaseballknowledge,a grantedbreak,clubchoice andwantedclothes memory retain positivevalue without requiring victory or crisis. Rei owns stadiumfood preference/treatoffer and battingchoice;Sumire permits onehotdog and enjoyscompany. No consumedSumiremeal follows. Vendorclothes memory belongsSumire,notRei;the oldwrongplannerphrase remains dated andfull. Promisedbreakfast andsimulator gain keep their future/game modes."
+          },
+          {
+            "topic": "Source and endpoints",
+            "reason": "Operative Sumire/Rei qualifiers remain complete,includingfood/choice/sourcegrade qualifications. Device objection gives an intention notreturn,not activation/safety/actualdeparture. Adultobservation/E832 andadultaction/E845 remain contextual,not sole authorship ofRei’s answers. Win,nextdaydefeat andrenewedrestoverride do notprove lastingreform,causalmonopoly,clinicaloutcome,globalcalendar orfirstcontact/majorrupture/repair."
+          },
+          {
+            "topic": "Full intellectual history and exact duplicates",
+            "reason": "All47 datedrecords/64 meaningfulroots preserve originalactor/date/null/grade/pending/finding histories and laterwholeRoot/planner/composer reasons. Exactwhole12dimensions/operativequalifiers/20literal duplicates use actualtyped/body selectors. All3completeolderparagraphs andfull14008initialbody recover. The actual new wrappers identify preparation and futureQA/Root boundaries honestly;oldapproval is not futurepublic acceptance."
+          },
+          {
+            "topic": "Specific private class boundary",
+            "reason": "Root6669’s exact decision keeps Q06mechanical277executionarray/54labels private with fullcommitment/inverse while eight complete explanatory/count/scope values andA08scalar173 remain public. It is not a name-wide deletion of predicates or low-stakes meaning. All53safeIDs have real logicalwrapper or explicitprivatecustody scopes,not originalfilename-as-publicfile aliases. Sixanalytical/provenance/navigation roles remain necessary;class/need/rights precede measuredbytes."
+          },
+          {
+            "topic": "Own fidelity and actual authority",
+            "reason": "Own1574/0 verifies46original projections/fullselected inverses/123orderedoperations,whole47thcomposerrecord/64routes,101pure and229identity fields,body3headerforward/whole13991inverse/13196post/14008history,current20geometry/14nonselfacyclicedges andfresh52rawNOOPguards. V1 ownidentity lookup wronglycrossedcollapsedduplicateparent;incomplete925prefix+error retained,corrected byexactfullresolution beforedescendant check. No targetdefect/failure accepted. I adopt exactpublic6meanings,not futuremetadata/install/count/publication."
+          }
+        ],
+        "exact_current6": [
+          {
+            "role": "BODY",
+            "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+            "bytes": 14060,
+            "sha256": "f30283bd108a593616bca3f525d5835e6eae8f5ec82442f81ac52dd5ad5bb509"
+          },
+          {
+            "role": "SOURCE",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+            "bytes": 97363,
+            "sha256": "65755bb79084b01b2113503c06212520a5a1ce28bf88585a8d65ebf1c8c669cf"
+          },
+          {
+            "role": "AUTHOR",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+            "bytes": 297189,
+            "sha256": "9fef201289a0f192a9a014e9f406d1f960028fb178a8b65dc1a8356a3cc62c78"
+          },
+          {
+            "role": "PEER",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+            "bytes": 65633,
+            "sha256": "346bdb57ec736f99e86dbebc9f6a7a2d20f49f852c115027bec0c7e583ff346c"
+          },
+          {
+            "role": "ROOT",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+            "bytes": 70092,
+            "sha256": "488169935389c96dea01068a4aafeb18dbb4674133170540f2a30891068c4007"
+          },
+          {
+            "role": "REGISTRY",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_PUBLIC_COMPONENT_AND_DATED_LOCATOR_REGISTRY_V1.json",
+            "bytes": 117243,
+            "sha256": "deb96e590b0ef2c548cd74e7c58f261735e56c9185a11a09e4ed2366b5718c0a"
+          }
+        ],
+        "different_public_QA": {
+          "reviewer": "/root/recover_yuzu_saved_review",
+          "disclosed_role": "Originalpublicplanwriter,not publiccomposer;oldvendor-memoryerrorcorrected beforecurrentfullreview;not freshsource/privatebodyQA",
+          "full_reasons": {
+            "filename": "OWN_COMPLETE_RELATION_PUBLIC6_SIX_ANSWERS_SEVEN_REFERENCE_CLASSES_ACTOR_GRADE_AND_LIMITED_VERDICT_V1.json",
+            "bytes": 20468,
+            "sha256": "cb7ff5bebad9875fe1b2d26be110164cb742774e45bc2ab35fd00538a0d1e21e"
+          },
+          "saved_closeout": {
+            "filename": "OWN_RELATION_PUBLIC6_ACTUAL_COMPLETE_SAVED_MEANING_READBACK_AND_SIX_FINITE_CLOSEOUT_REASONS_V1.json",
+            "bytes": 3936,
+            "sha256": "01808691607182c8e3fd59084e654cb8daa295cd28d8e77677eb1b7825efe4ee"
+          },
+          "result": "No supported publicformconcern withlimits;own1614/0+279/0,not Root1574 or newmetadata QA."
+        },
+        "own_proof": {
+          "filename": "ROOT_OWN_RELATION_PUBLIC6_FULL47_64_123_SELECTED_INVERSES_14008_HISTORY_20_GEOMETRY_AND_14_DAG_FIDELITY_V2.json",
+          "bytes": 126177,
+          "sha256": "c8fa8f90966c75d1a291272deb386e299d1c6dbb68b246d3a087cccbb13cc4a1",
+          "predicates": 1574,
+          "false": 0
+        },
+        "metadata_derivative_commission": {
+          "scope": "Same exact6 establishedpaths,not a new literaryrevision. Prepare canonical quartet metadata:status canonical,falseveto,emptyarrays;preserveallpostYAML20bodybytes andall47/64oldresolved intellectualmeanings/53locators/originalsourcegrades/stages. Root currentmetadata decision is based on actuallyaccepted analysis,not bypassingchecks.",
+          "necessary_later_meanings": "Retain whole fullpublicQA20468/3936 inPEER andthis actualRootadoption inROOT with true actor/date/roles andregistryroutes. Newly required metadataauthor questions/reasons/readback remain full meaning,not summary/predicatearray. Explicit before-write exactfieldnormalization and fullraw/typedinverse plan;new pureCcustodyfields only may use honest datedIDs with completeprivateinverse,never regexprose rewriting or fakefilealias.",
+          "metadata_details": "Use exact valid lowercase canonical,not literal current_eligible. Preserve empty supersession arrays and identity/generation/sourceboundary. Existing commonwrapper creation/review_at_creation/lifecycle history remains dated. A new explicit ROOT metadata-derivative record supplies actualnewscope/role/Rootauthorization/currentuse;do not backdateoldapproval. Update only necessary YAMLauthority/lifecycle lines,JSONauthorityfields,current20geometry offsets/currentcomponenttuples/registrycommitments andrecord/additional-locator mappings. Root owns latercurrentmap/shared7 progress and anyreference maintenance.",
+          "class_rights": "Sixlegitimate analytical/provenance/navigation files remainnecessary;no sourcecopy/helper/proofarray/wholeinputcodec/publicprivatebundle. No media/sourceadmission rights or blanketJSON/under1MiBwaiver. Exactstorage exception neededifanycandidateexceeds1MiB;do notsplitmeaningorweakenrights tofit.",
+          "stage": "Saveprewrite beforeafterimages;completewhole savedbody/newmeaning readback and own independent fidelity/frozenexact6manifest. Differentfinite metadata6QA+Rootnewbyteadoption required before shared7/N installation. No canonicalcount/install/publication claimedbycomposer;no N/Git/provider/global/control/source/foreignhelper/excluded/frozen writes."
+        },
+        "fixed_scope": "Full355/29/25/384/788,actualsource164/named19,all14OPEN/models0. ThisexistingREL isnotcountedcomplete untilactualnormalpersistence. SeparateSumireCHAR/baseballReiCHAR/ensemble/institution/named duties stayseparate."
+      }
+    },
+    "R11": {
+      "record_id": "R11",
+      "original_filename": "ROOT_EXPLICIT_FULL_SIX_ANALYTICAL_DERIVATIVE_READ_SCOPE_CLARIFICATION_AFTER_AUTOMATIC_REVIEW_V1.json",
+      "original_file_bytes": 7837,
+      "original_file_sha256": "18fb6d79c3806ffb0eddd121578acf2514233409644c8bc25c8e08e57a088046",
+      "source_actor_fields": {
+        "actor": "/root"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T18:00:40.919Z"
+      },
+      "stage": "DATED_COMPLETE_METADATA_AUTHORITY_OR_REASON_RECORD_NOT_FUTURE_QA_APPROVAL",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "0fa9b0c282ce69dccc51960e8a02223a17e83617dfe196b18f91e00f667aaf20"
+        }
+      ],
+      "delivery_scope": "Full unique actual normative/prospective/diagnostic reasons retained at original stage. Only declared wholepureC custodystrings become exactdatedIDs under complete privateinverse;filenames/identity/hashes/prose remain literal. No containedtarget access.",
+      "original_value": {
+        "schema": "ROOT_EXACT_ACCEPTED_PUBLIC6_FULL_DERIVATIVE_ANALYTICAL_FILE_READ_AUTHORIZATION_CLARIFICATION_V1",
+        "actor": "/root",
+        "UTC": "2026-11-04T18:00:40.919Z",
+        "purpose": "Clarify task-scope wording for existing authorized metadata derivative;not source admission,tool route bypass or expanded underlying acquisition access.",
+        "decision": "The metadata author is explicitly authorized to read and hash the ENTIRE exact six accepted C public_candidate analytical files below,including all SOURCE/AUTHOR/PEER/ROOT/REGISTRY prose and source-course descriptions. These descriptions are attributed project analysis/provenance data,not barred underlying source files. Full exact beforeimages are required to preserve unrelated bytes in targeted metadata edits.",
+        "interpretation": "The earlier no-source/locator restriction prohibits following ANY path stored inside these five JSONs to G330/E832/E845,other maintained analyses,primary/native/raw/AV/privatepayloads or helper files. It does NOT prohibit reading these five selected analytical artifact beforeimages themselves. No-literary-rewrite limits mutation,not legitimate complete beforeimage reading. Earlier broad shorthand is clarified accordingly.",
+        "user_authority": "Active user goal authorizes full Phase3 analysis and normal analytical publication;Root has actually adopted these exact full analytical contents after distinct publicQA and independent1574-fidelity. Same six canonical metadata-derivative C-only scope already commissioned;no underlying source or external service authority is added.",
+        "exact_allowed_files": [
+          {
+            "role": "BODY",
+            "C_source_path": "DATED-LOCATOR-E6F2BCE8069F5903",
+            "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+            "bytes": 14060,
+            "sha256": "f30283bd108a593616bca3f525d5835e6eae8f5ec82442f81ac52dd5ad5bb509",
+            "class": "Root-accepted original project analytical prose/provenance/navigation derivative;fullbyte read/hash explicitly permitted"
+          },
+          {
+            "role": "SOURCE",
+            "C_source_path": "DATED-LOCATOR-E0BA1DC29231423C",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+            "bytes": 97363,
+            "sha256": "65755bb79084b01b2113503c06212520a5a1ce28bf88585a8d65ebf1c8c669cf",
+            "class": "Root-accepted original project analytical prose/provenance/navigation derivative;fullbyte read/hash explicitly permitted"
+          },
+          {
+            "role": "AUTHOR",
+            "C_source_path": "DATED-LOCATOR-0D3D0A06A2ACDE3D",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+            "bytes": 297189,
+            "sha256": "9fef201289a0f192a9a014e9f406d1f960028fb178a8b65dc1a8356a3cc62c78",
+            "class": "Root-accepted original project analytical prose/provenance/navigation derivative;fullbyte read/hash explicitly permitted"
+          },
+          {
+            "role": "PEER",
+            "C_source_path": "DATED-LOCATOR-C8EA71A869E792B7",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+            "bytes": 65633,
+            "sha256": "346bdb57ec736f99e86dbebc9f6a7a2d20f49f852c115027bec0c7e583ff346c",
+            "class": "Root-accepted original project analytical prose/provenance/navigation derivative;fullbyte read/hash explicitly permitted"
+          },
+          {
+            "role": "ROOT",
+            "C_source_path": "DATED-LOCATOR-631F5AB49BFF256E",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+            "bytes": 70092,
+            "sha256": "488169935389c96dea01068a4aafeb18dbb4674133170540f2a30891068c4007",
+            "class": "Root-accepted original project analytical prose/provenance/navigation derivative;fullbyte read/hash explicitly permitted"
+          },
+          {
+            "role": "REGISTRY",
+            "C_source_path": "DATED-LOCATOR-C104CA8D16EC28CE",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_PUBLIC_COMPONENT_AND_DATED_LOCATOR_REGISTRY_V1.json",
+            "bytes": 117243,
+            "sha256": "deb96e590b0ef2c548cd74e7c58f261735e56c9185a11a09e4ed2366b5718c0a",
+            "class": "Root-accepted original project analytical prose/provenance/navigation derivative;fullbyte read/hash explicitly permitted"
+          }
+        ],
+        "review_procedure": "Present this explicit scope clarification and exact paths/pins to automaticreview using the SAME bounded standard read operation. Do not rename/recopy the files,change execution routes or reconstruct denied content from summaries. If review still rejects,stop that operation and report exact reason;unaffected work cancontinue.",
+        "mutation_boundary": "Only own declared C metadata derivative outputs after complete prewrite. No N/Git/provider/shared7/global/control/source/frozen/excluded/foreignhelper mutations or source locator target reads. All exact old public6 files remain unchanged."
+      }
+    },
+    "R12": {
+      "record_id": "R12",
+      "original_filename": "OWN_SUMIRE_REI_METADATA6_EXPLICIT_ROOT_AUTHORITY_DERIVATIVE_RECORD_V1.json",
+      "original_file_bytes": 3084,
+      "original_file_sha256": "60dd7e3a8334549fadb3edb9f59deab28a0e13489b5b7ba7ed1e3b90080fe4cc",
+      "source_actor_fields": {
+        "recorded_by": "/root/prenapates_r02_plan_successor",
+        "authorizing_actor": "/root"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T18:04:28.893Z"
+      },
+      "stage": "DATED_COMPLETE_METADATA_AUTHORITY_OR_REASON_RECORD_NOT_FUTURE_QA_APPROVAL",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "cffdf247f99d972ceb0d6e11c17cb3db86a8e4a43520784267c95ffbaa7f043e"
+        }
+      ],
+      "delivery_scope": "Full unique actual normative/prospective/diagnostic reasons retained at original stage. Only declared wholepureC custodystrings become exactdatedIDs under complete privateinverse;filenames/identity/hashes/prose remain literal. No containedtarget access.",
+      "original_value": {
+        "schema": "SUMIRE_REI_CURRENT_CANONICAL_METADATA_AUTHORITY_DERIVED_FROM_ACTUAL_ROOT_PUBLIC6_ACCEPTANCE_V1",
+        "recorded_by": "/root/prenapates_r02_plan_successor",
+        "authorizing_actor": "/root",
+        "UTC": "2026-11-04T18:04:28.893Z",
+        "identity": "P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS/P3-XMI-R001;Sumire/baseballReiCH0245",
+        "authority": {
+          "status": "canonical",
+          "supersedes": [],
+          "superseded_by": [],
+          "do_not_use_as_current_authority": false
+        },
+        "actual_root_authorization": {
+          "filename": "ROOT_ACTUAL_SUMIRE_REI_PUBLIC6_FULL_QA20468_3936_OWN1574_ADOPTION_AND_EXPLICIT_METADATA6_COMMISSION_V1.json",
+          "bytes": 10445,
+          "sha256": "3b47ad7589236fe84a857a145156ba70c67dba6a7d76a9090c5e91a1526a2779",
+          "complete_retained_record": "ROOT#/dated_records/R10/original_value"
+        },
+        "read_scope_clarification": {
+          "filename": "ROOT_EXPLICIT_FULL_SIX_ANALYTICAL_DERIVATIVE_READ_SCOPE_CLARIFICATION_AFTER_AUTOMATIC_REVIEW_V1.json",
+          "bytes": 7837,
+          "sha256": "18fb6d79c3806ffb0eddd121578acf2514233409644c8bc25c8e08e57a088046",
+          "complete_retained_record": "ROOT#/dated_records/R11/original_value"
+        },
+        "decision_scope": "Root actually adopted the exact priorpublic6 analytical meanings after distinct fullpublicQA20468/3936 andown1574fidelity. Root expressly commissioned canonical quartet metadata on these same6establishedpaths. This record is the fresh composer's attributable transcription of that authority and present C-only derivative scope,not a new Root signature or source/literary adoption.",
+        "derivative_stage": "CANONICAL_METADATA_DERIVATIVE_C_ONLY_PENDING_DIFFERENT_FINITE_METADATA_QA_AND_ROOT_ACTUAL_NEW_BYTE_ADOPTION",
+        "history": "Old commonwrapper composer/preparation_date/lifecycle/review_at_creation/history andalloldpending/finding/grade judgments remain dated exact. The current authority quartet follows actualRoot10445;oldapproval is not backdated into newmetadataQA,installation or publication.",
+        "preservation": "Exact13196postYAML/all20literarybytes,all47oldrecords64resolvedroots,53oldIDs,Q06oneprivate277array/54labels andA08scalar173/sourceactorgrades preserved. Only necessarycurrentmetadata/headergeometry/duplicatebodyoffsets/current14tuples/registrycommitments/newrecords change.",
+        "source_and_role": "Root owns SELECTED240 only;originalauthor anddifferentbodypeer each independently own two maintainedanalyses336lines/117paragraphs plusselected240. Original950/1839 remain theirs. Metadata composer has none of these courses;reading their analytical derivatives adds0underlying sourcecourse.",
+        "pending": [
+          "Different finite metadata6 QA of actual saved derivative bytes/fullnewmeaning/fidelity.",
+          "Root personally receive and accept exact metadata derivative bytes after that QA.",
+          "Root later owns shared7/currentmap/N installation/normalpublication;no count now."
+        ],
+        "class_rights": "Necessary projectauthored authority/provenance metadata in existingROOT role,not public predicatequeue/sourcecopy/privateinputcodec/helper. No new acquisition/media rights or sizeexception."
+      }
+    }
+  },
+  "current_public_creation_control": {
+    "actor": "/root/current_preflight_requirements",
+    "role": "Public composer only; not Root/owner signer or independent public reviewer",
+    "private_body": "Root10816 exact private connected20 acceptance retained as R02.",
+    "plan": "Root6822 exact finiteV3 plan acceptance and separate composition commission retained as R08; Root6669 exact private-array class qualification retained as R09.",
+    "public_at_creation": "New six public afterimages require different complete public-form QA and Root actual new-byte adoption before any current-eligible metadata/install/publication/count work.",
+    "source_grade": "No new underlying course. Bodyauthor/peer own separate WHOLE2 accepted analyses336/117 plus selected240; Root owns selected240 only. Original950/1839 character courses remain their actual original readers.",
+    "current_vs_history": "All dated original acceptance/pending/counter/head/relative locator values remain history. Top current tuples/geometry/record selectors describe only these actual C bytes; no operational publication success."
+  },
+  "current_metadata_authority_selector": "#/dated_records/R12/original_value"
+}

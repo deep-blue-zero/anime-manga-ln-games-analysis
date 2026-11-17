@@ -1,0 +1,71 @@
+{
+  "authored_utc": "2026-10-17T21:07:10.988587+00:00",
+  "state": "POST_INITIAL_COORDINATED_EXTERNAL_QUALIFICATIONS_NOT_ORIGINAL_RECODING",
+  "records": [
+    {
+      "id": "D07-SR01",
+      "status": "REQUIRED_CURRENT_ATTRIBUTION_PRECISION",
+      "target": "I INITIAL_ALL39... R1-E06 and J034 chronology",
+      "source": "C03 P659–665, especially 660/662 before 663",
+      "finding": "The post-information endurance is explicit at 660/662. P663 is the new sexual insult; P664 ellipsis is after that insult, not before it. P665 is subsequent retaliation. Keep the original I assessment/witness unchanged; a current E06 adverse judgment must use the true order.",
+      "effect": "Does not erase the actual bounded opposite at 659–662 or manufacture a second event. Source order HIGH; decision granularity/function MODERATE."
+    },
+    {
+      "id": "D07-SR02",
+      "status": "REQUIRED_CURRENT_SPEAKER_PRECISION",
+      "target": "I event DI07-113; own earlier pass note already externally corrected before own initial seal",
+      "source": "Epi P53–55",
+      "finding": "Keith speaks at 54; Dust replies at 55 (うっせえぞ、キース). Do not attribute the renewed 55 insult to Keith.",
+      "effect": "Speaker correction only; preserve original initial artifacts."
+    },
+    {
+      "id": "D07-SR03",
+      "status": "REQUIRED_CURRENT_ACTING_SUBJECT_PRECISION",
+      "target": "I R1-E01 rationale",
+      "source": "C02 P768–775",
+      "finding": "Dust gives the actual group briefing 768; Keith 770 seeks a conspicuous audience opportunity. The later containment by other adventurers 775 is narrated, not a Keith announcement of that plan.",
+      "effect": "The actual decoy/flank/bow/fire and later adjusted coordination still support E01 locally. Do not use an invented Keith speech act."
+    },
+    {
+      "id": "D07-SR04",
+      "status": "REQUIRED_CURRENT_ATTRIBUTION_LIMIT",
+      "target": "I event DI07-115 cat imitation description",
+      "source": "Epi P97–103",
+      "finding": "The にゃーご from the bushes is untagged. Keith, Taylor and Rolyssa are all hiding there. An individual male speaker is not established. Dust recognizes the imitation; do not report a belief in an actual cat.",
+      "effect": "Keep the written comic surface and original witness; current prose should say an unidentified concealed companion."
+    },
+    {
+      "id": "D07-SR05",
+      "status": "CURRENT_GRAMMAR_QUALIFICATION",
+      "target": "Any analyst reuse of character 主語 complaint, including I DI07-036 shorthand",
+      "source": "C01 P827–829",
+      "finding": "The character calls it a missing 主語. The missing protected referent is an object/argument in the surrounding instruction, not an analyst-certified grammatical subject. ムスコ here is the genital euphemism, not a son introduced into the scene.",
+      "effect": "Literal quotation and grammatical analysis must be distinguished; no new L code."
+    },
+    {
+      "id": "D07-SR06",
+      "status": "PRESERVED_OWN_PREINITIAL_SELF_QA",
+      "target": "Own source-first note at C02 P137",
+      "source": "C02 P136–138",
+      "finding": "The modified written らめぇ is a reported translated book surface. It is not newly spoken Kazuma dialogue. P136 is the separate reported country boast.",
+      "effect": "Own initial witness already qualified before the initial seal; retain this external distinction in coordinated prose."
+    },
+    {
+      "id": "D07-SR07",
+      "status": "CONFIRMED_REQUIRED_NAMED_REFERENCE_BOUNDARY",
+      "target": "All current actor/role summaries",
+      "source": "C02 P497–503; C03 P509; Epi P101/111–118/124",
+      "finding": "Wiz performs the Megumin role from Vanir’s script; actual absent Megumin is not the caster. Fatefore is Dust’s partner and Leen his lover in the 509 distinction. At 111–118 fake Leen is Vanir at the LEFT, while real Leen is at the RIGHT101/124.",
+      "effect": "No discovered material current root error at these specifically checked distinctions; preserve exact roles and sides."
+    },
+    {
+      "id": "D07-SR08",
+      "status": "CONFIRMED_EPISTEMIC_BOUNDARY",
+      "target": "Current crime, fear, enemy and spell summaries",
+      "source": "C03 P216; C01fear sequence/C02 P281/663–664; C03 P469; C02 P885–890",
+      "finding": "P216 says a NON-innocent charge. Later attraction does not establish a cure of acquired fear. P469 attests a fired spell and the danger if it hit, not an observed hit/death. Classification and silence of the commander do not establish permanent death.",
+      "effect": "No global innocence, restored preference, harm-free training or completed execution/death claim is licensed."
+    }
+  ],
+  "originals_unchanged": true
+}

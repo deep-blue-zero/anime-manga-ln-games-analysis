@@ -27,8 +27,31 @@ from character_index_core import (  # noqa: E402
     validate_repository_path,
     validate_schema_document,
 )
-from generate_character_index import render  # noqa: E402
+from generate_character_index import render_outputs  # noqa: E402
 from validate_repository import validate_current_domain, validate_markdown_links  # noqa: E402
+
+
+def render(records, authority) -> str:
+    """Every generated discovery output (root index and namespace pages), in path order."""
+
+    outputs = render_outputs(records, authority)
+    return "".join(outputs[path] for path in sorted(outputs))
+
+
+def partition_documents(records) -> dict[str, bytes]:
+    """Store records as canonical namespace partitions."""
+
+    partitions: dict[str, list[dict]] = {}
+    for item in records:
+        namespace = item["character_entity_id"].split(":", 1)[0]
+        partitions.setdefault(f"characters/registry/{namespace}.jsonl", []).append(item)
+    return {
+        path: "".join(
+            json.dumps(item) + "\n"
+            for item in sorted(rows, key=lambda row: row["analysis_subject_id"].encode("ascii"))
+        ).encode()
+        for path, rows in partitions.items()
+    }
 
 
 def authority_bytes(status: str = "canonical") -> bytes:
@@ -141,9 +164,7 @@ class LiveCurationTests(unittest.TestCase):
 
     def errors(self, records, documents):
         documents = dict(documents)
-        documents["characters/registry.jsonl"] = (
-            "".join(json.dumps(item) + "\n" for item in records).encode()
-        )
+        documents.update(partition_documents(records))
         return validate_current_domain(TOOLS.parent, snapshot(*documents.items()), require_schema=True)
 
     def test_current_registry_satisfies_live_discovery_contract(self):
@@ -262,6 +283,117 @@ class CanonicalizationTests(unittest.TestCase):
                 with self.assertRaisesRegex(DomainError, "remote or nonlocal"):
                     validate_schema_document(schema, "instrumented schema")
                 network.assert_not_called()
+
+
+    @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
+    def test_accepted_schema_is_checked_once_and_rejections_recur(self) -> None:
+        import jsonschema
+
+        schema = {
+            "$schema": "https://json-schema.org/draft/2020-12/schema",
+            "title": "memoization fixture 7f3a9c",
+            "type": "object",
+            "properties": {"analysis_subject_id": {"type": "string"}},
+            "required": ["analysis_subject_id"],
+            "additionalProperties": False,
+        }
+        validator_class = jsonschema.validators.Draft202012Validator
+        with mock.patch.object(validator_class, "check_schema", wraps=validator_class.check_schema) as check:
+            validate_schema_document(copy.deepcopy(schema), "first copy")
+            validate_schema_document(copy.deepcopy(schema), "second copy")
+            self.assertEqual(check.call_count, 1)
+            # Equal content is one schema; a changed schema is checked on its own.
+            changed = {**copy.deepcopy(schema), "title": "memoization fixture 7f3a9c changed"}
+            validate_schema_document(changed, "changed")
+            self.assertEqual(check.call_count, 2)
+        # Diagnostics do not depend on whether the schema was remembered.
+        instance = {"analysis_subject_id": 1, "extra": True}
+        first = schema_diagnostics(instance, copy.deepcopy(schema), "characters/registry.jsonl", line_number=1)
+        second = schema_diagnostics(instance, copy.deepcopy(schema), "characters/registry.jsonl", line_number=1)
+        self.assertEqual(first, second)
+        self.assertEqual(len(first), 2)
+        # A rejected schema is never remembered: each attempt is refused again.
+        remote = {"$schema": "https://json-schema.org/draft/2020-12/schema", "$ref": "https://invalid.example/s.json"}
+        for _ in range(2):
+            with self.assertRaisesRegex(DomainError, "remote or nonlocal"):
+                validate_schema_document(copy.deepcopy(remote), "remote schema")
+
+    @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
+    def test_remembered_diagnostics_never_cross_schema_instance_source_or_line(self) -> None:
+        import jsonschema
+
+        schema = {
+            "$schema": "https://json-schema.org/draft/2020-12/schema",
+            "title": "diagnostic memo fixture 51c0e2",
+            "type": "object",
+            "properties": {"analysis_subject_id": {"type": "string"}, "tags": {"type": "array"}},
+            "required": ["analysis_subject_id"],
+            "additionalProperties": False,
+        }
+        path = "characters/registry/example.jsonl"
+        instance = {"analysis_subject_id": 1, "extra": True}
+        valid = {"analysis_subject_id": "a"}
+
+        def keywords(value, used_schema) -> list[str]:
+            return [item.validator_keyword for item in schema_diagnostics(value, used_schema, path, line_number=3)]
+
+        validator_class = jsonschema.validators.Draft202012Validator
+        with mock.patch.object(
+            validator_class, "iter_errors", autospec=True, side_effect=validator_class.iter_errors
+        ) as checked:
+            first = schema_diagnostics(copy.deepcopy(instance), copy.deepcopy(schema), path, line_number=3)
+            calls = checked.call_count
+            self.assertGreater(calls, 0)
+            # An equal row under an equal schema at the same place is answered without a second check.
+            again = schema_diagnostics(copy.deepcopy(instance), copy.deepcopy(schema), path, line_number=3)
+            self.assertEqual(checked.call_count, calls)
+        self.assertEqual(first, again)
+        self.assertEqual(sorted(item.validator_keyword for item in first), ["additionalProperties", "type"])
+        # The caller owns the list it receives.
+        again.clear()
+        self.assertEqual(schema_diagnostics(instance, schema, path, line_number=3), first)
+        # Source and line are part of every diagnostic.
+        moved = schema_diagnostics(instance, schema, path, line_number=4)
+        self.assertEqual({item.line_number for item in moved}, {4})
+        elsewhere = schema_diagnostics(instance, schema, "characters/registry/other.jsonl", line_number=3)
+        self.assertEqual({item.repository_path for item in elsewhere}, {"characters/registry/other.jsonl"})
+        # A value that only resembles a remembered one as JSON is checked on its own.
+        self.assertEqual(keywords({**valid, "tags": ["x"]}, schema), [])
+        self.assertEqual(keywords({**valid, "tags": ("x",)}, schema), ["type"])
+        # So is a different schema, including the same object changed in place.
+        self.assertEqual(keywords(valid, schema), [])
+        self.assertEqual(keywords(valid, {**copy.deepcopy(schema), "required": ["analysis_subject_id", "tags"]}), ["required"])
+        changed_in_place = copy.deepcopy(schema)
+        self.assertEqual(keywords(valid, changed_in_place), [])
+        changed_in_place["required"].append("tags")
+        self.assertEqual(keywords(valid, changed_in_place), ["required"])
+
+    def test_shared_front_matter_cache_never_changes_a_graph(self) -> None:
+        path, other = "series/example/A.md", "series/example/NEXT.md"
+        plain = b"# No front matter\n"
+        versions = [
+            snapshot((path, authority_bytes()), (other, plain)),
+            snapshot((path, authority_bytes("historical_legacy")), (other, plain)),
+            # A nonreciprocal edge, then an unterminated block: graph and parse errors.
+            snapshot((path, authority_bytes("superseded")), (other, authority_bytes())),
+            snapshot((path, b"---\nstatus: canonical\n"), (other, authority_bytes())),
+        ]
+
+        def facts(graph: AuthorityGraph) -> tuple:
+            return (graph.metadata, graph.edges, graph.errors, graph.invalid_paths)
+
+        expected = [facts(AuthorityGraph(item)) for item in versions]
+        self.assertEqual(len({repr(item) for item in expected}), len(versions))
+        self.assertTrue(expected[2][2] and expected[3][2])
+        for order in ([0, 1, 2, 3], [3, 2, 1, 0], [0, 1, 0, 3, 3, 2, 1]):
+            cache: dict = {}
+            for index in order:
+                with self.subTest(order=order, index=index):
+                    graph = AuthorityGraph(versions[index], front_matter_cache=cache)
+                    self.assertEqual(facts(graph), expected[index])
+            # A rejected document is derived again by every graph, never stored.
+            self.assertNotIn((path, versions[3].entries[path].data), cache)
+            self.assertIn((path, versions[0].entries[path].data), cache)
 
 
 class DiscoveryContractTests(unittest.TestCase):
@@ -478,16 +610,17 @@ class DiscoveryContractTests(unittest.TestCase):
         failures = validate_discovery_records([leaf_a, leaf_b, composite], self.series)
         self.assertTrue(any("INCLUDED requires evidence" in item for item in failures), failures)
 
-    def test_render_declares_scoped_post_cutover_git_authority(self) -> None:
+    def test_render_declares_git_main_authority(self) -> None:
         path = "series/example/A.md"
         authority = AuthorityGraph(snapshot((path, authority_bytes())))
         included = record("example:alice@anime", evidence_path=path, included=True)
         for records in ([], [included]):
             with self.subTest(included=bool(records)):
                 output = render(records, authority)
-                self.assertIn("Git repository is the primary analytical authority", output)
-                self.assertIn("governance/AUTHORITY_SCOPE.json", output)
-                self.assertIn("governance/AUTHORITY_STATE.yaml", output)
+                self.assertIn("Git repository is the analytical authority", output)
+                # Migration records are archived; the index does not route readers to them.
+                self.assertNotIn("AUTHORITY_SCOPE.json", output)
+                self.assertNotIn("AUTHORITY_STATE.yaml", output)
                 self.assertIn("remain outside Git authority", output)
                 self.assertNotIn("nonauthoritative migration candidate", output)
                 self.assertNotIn("Google Drive remains the analytical authority", output)
@@ -513,6 +646,7 @@ class DiscoveryContractTests(unittest.TestCase):
         a = record("example:alice@a", continuity_id="a", evidence_path=path_a, included=True)
         b = record("example:alice@b", continuity_id="b", evidence_path=path_b, included=True)
         a["evidence"][0]["anchor"] = "section(1)%"
+        outputs = render_outputs([b, a], authority)
         output = render([b, a], authority)
         self.assertEqual(output.count("### Alice\n"), 1)
         self.assertEqual(output.count("Alice Example (en, ALTERNATIVE)"), 1)
@@ -521,12 +655,14 @@ class DiscoveryContractTests(unittest.TestCase):
             "series/example/A%20file%20%281%29%25.md#section%281%29%25",
             output,
         )
+        self.assertEqual(
+            sorted(outputs), ["CHARACTER_ANALYSIS_INDEX.md", "characters/index/example.md"]
+        )
         linked = snapshot(
             (path_a, authority_bytes()),
             (path_b, authority_bytes()),
-            ("governance/AUTHORITY_SCOPE.json", b"{}\n"),
-            ("governance/AUTHORITY_STATE.yaml", b"{}\n"),
-            ("CHARACTER_ANALYSIS_INDEX.md", output.encode("utf-8")),
+            *partition_documents([a, b]).items(),
+            *((path, text.encode("utf-8")) for path, text in outputs.items()),
         )
         self.assertEqual(validate_markdown_links(linked), [])
 

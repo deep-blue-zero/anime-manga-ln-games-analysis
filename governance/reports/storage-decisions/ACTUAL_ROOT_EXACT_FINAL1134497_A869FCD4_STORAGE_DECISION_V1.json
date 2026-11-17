@@ -1,0 +1,72 @@
+{
+  "schema": "ACTUAL_ROOT_EXACT_FINAL_COHERENT_V4_MAIN_COVERAGE_NAMED_STORAGE_DECISION_V1",
+  "actor": "/root",
+  "reviewed_utc": "2026-10-04 21:28:18 UTC",
+  "owner": "@deep-blue-zero",
+  "owner_basis": "Existing CODEOWNERS ownership and the user's authorization to continue Phase2 and publish completed work, subject to governed package review.",
+  "actual_decision": "APPROVED_FOR_EXACT_FINAL1134497_A869FCD4_AUTHORED_QUERYABLE_COVERAGE_INDEX",
+  "exact_candidate": {
+    "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md",
+    "bytes": 1134497,
+    "sha256": "a869fcd4ba7b84e51a176dc5659fc3aec37698ff35748bf68d8578d019c9ff2c"
+  },
+  "review_extent": {
+    "first_whole_new_effects": "New coherent protocol and wrappers, complete effective CF08/CF10 literal functions, all nine author composition findings, own fourteen scoped findings, only-new complete Ako value/two-cell inverse and focused findings, all22 compact guard/interval/continuity parts, and new own final scoped decisions.",
+    "inherited_acceptance": "Sealed mini/G01, all twenty private/G06/G26 matrices and required precisions, D02 bounded field functions, and the precise independent CF08/CF10 analytical component remain attributed to their actual readers.",
+    "whole_baseline_body_credit": 0,
+    "source_current_before_native_AV_credit": 0,
+    "effects": {
+      "existing_field_insertions": 417,
+      "new_coverage_rows": 0,
+      "full_original_ledger_histories_retained": 7,
+      "immutable_controls": 3
+    },
+    "measured_metadata": {
+      "chunk": "fc6596",
+      "strict_utf8": true,
+      "utf8_bom": false,
+      "carriage_returns": 0,
+      "nuls": 0,
+      "body_displayed": false
+    }
+  },
+  "purpose": "Preserve a directly queryable coverage index for the existing516-subject analytical census, with bounded authored supplemental contextualization annotations in existing fields.",
+  "rights_basis": "Repository-authored original analysis, source identifiers, analytical pointers and bounded paraphrases; the candidate is not a bulk story, raw transcript, canonical dump or media copy.",
+  "external_reference_insufficient": true,
+  "decision_reason": "The coverage index is an operational repository analytical object. Keeping only an external pointer would remove its new field-level context from ordinary lookup and break the reviewed relationship between the local index and ledger functions. The exact final text is 85921 bytes over1MiB. Its growth consists of scoped authored additions with complete guards and continuity relations; the unchanged baseline is retained. Approve these exact bytes with the named ROOT review and encoding restrictions, without extending the approval to any other version or object.",
+  "closed_policy_code_basis": {
+    "actor": "/root/event809_independent_acceptance",
+    "policy_chunk": "745aaf",
+    "eligibility_chunk": "430d1d",
+    "CODEOWNERS_chunk": "4eac57",
+    "required_schema_code_chunks": [
+      "4093f6",
+      "3f12f1"
+    ],
+    "exact_ten_key_contract": "tools/validate_repository.py603–614; nonempty trimmed single-line review_decision671–685; no enum. Owner/actor/date/extent stay in this receipt."
+  },
+  "limits": {
+    "earlier1054336_or1134472_approval_reused": false,
+    "blanket_exception": false,
+    "whole_source_or_whole_current_credit": false,
+    "admission_or_model_promotion": false,
+    "global_chronology_resolution": false,
+    "native_AV": 0,
+    "helpers_gates_proofs_executed": false
+  },
+  "failed_metadata_attempt": {
+    "chunk": "4fd943",
+    "reason": "Incorrect guessed basename ANALYSIS; missing path, zero body/output credit and no filesystem effects. Recovery used the actual stored effective target path; successful metadata chunk fc6596."
+  },
+  "repository_policy_mutation": false,
+  "repository_shared_application": false,
+  "authority_unchanged": {
+    "MAIN": 480,
+    "admissions": 213,
+    "subjects": 516,
+    "PARTIAL_MODEL": 23,
+    "UNMODELED": 493,
+    "standalone": "NONE"
+  },
+  "phase2_complete": false
+}

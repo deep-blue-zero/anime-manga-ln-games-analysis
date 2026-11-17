@@ -1,0 +1,195 @@
+{
+  "schema": "TRPG-CORE/complete-initial-author-handoff/v1",
+  "created_utc": "2026-10-18T00:20:52.683968+00:00",
+  "status": "SEALED_INITIAL_AUTHOR_CANDIDATE_PENDING_ROOT_RECEIVING",
+  "source_safe_candidates": [
+    {
+      "name": "ALL333_ACTUAL_PAGE_DISPOSITIONS.md",
+      "bytes": 62204,
+      "sha256": "d7ba63f1765a94ef7922e181590bc07c82b496ffc6845486addf5410130452d2"
+    },
+    {
+      "name": "ALL333_SOURCE_SAFE_ACTUAL_COMPONENT_DISPOSITION_REGISTER.json",
+      "bytes": 352576,
+      "sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "name": "ALL41_SELECTED_VOICE_CONTEXT_AND_FORM_ANALYSES.json",
+      "bytes": 82493,
+      "sha256": "86a9da3a74692a7f96d96f2ce874d3674d20aefd8bebe0dc0c081de9f04d747e"
+    },
+    {
+      "name": "ALL75_SELECTED_PREMISE_L_H_ASSIGNMENTS.json",
+      "bytes": 125028,
+      "sha256": "107760a0e7d4f293b35744701507294384ade0f7025cc2018c9276f465ff1067"
+    },
+    {
+      "name": "POST_UNCODED_SHORTFORM_PRECISION_OVERLAY.json",
+      "bytes": 3060,
+      "sha256": "106959089d3cc76d8ed0e5f2b20e56041c8d4a33144ad116ebe7429435ff6839"
+    },
+    {
+      "name": "SELECTED41_VOICE_CONTEXT_AND_FORM_REGISTER.md",
+      "bytes": 19045,
+      "sha256": "12cf62422d63d84d93520800983bac9c61d9989672232ddaa4ad5809114d6b63"
+    },
+    {
+      "name": "SELECTED75_HUMOR_FORM_AND_EVIDENCE_REGISTER.md",
+      "bytes": 38136,
+      "sha256": "0047e0fe36538270bc83e15516a4af36469259252ef7a63cfac624ac211d5331"
+    },
+    {
+      "name": "TRPG_CORE_COMPLETE_COMPONENT_LITERARY_ANALYSIS_CANDIDATE.md",
+      "bytes": 28927,
+      "sha256": "5074bfe86c93e41d9a6cb900fffbf2b800a259acc0dfe6114be090f1909a30b5"
+    },
+    {
+      "name": "TRPG_CORE_COMPLETE_COMPONENT_ROUTE_AND_AUTHORITY_MAP.json",
+      "bytes": 2460,
+      "sha256": "8a6342d45f2598d9a31c3b729e084b2550dc6026f96c547650ef244e4088ddff"
+    },
+    {
+      "name": "TRPG_CORE_SOURCE_AND_ACTUAL_READING_RECEIPT.json",
+      "bytes": 5749,
+      "sha256": "2198395891fd999b47fa0de67a3fceea6f57e3ed63239a19fd1c015138b22df3"
+    }
+  ],
+  "private_proofs": [
+    {
+      "name": "COMPLETE_INITIAL_PACKET_STRUCTURAL_SOURCE_SAFETY_AND_JOIN_PROOF.json",
+      "bytes": 3578,
+      "sha256": "21d87065af086db148b56e099c6cc2a05c36beba0d370e6334540fb6c74b3b5f"
+    },
+    {
+      "name": "EXACT_PUBLIC_RENDER_ANALYTICAL_CELL_JOIN_PROOF.json",
+      "bytes": 414,
+      "sha256": "f0ed7f599af1dddbd8d39c7f83016f6d9fcf78dc08f058f33ffb8e5dd08e0e0f"
+    }
+  ],
+  "ten_ledger_proposal_home": "/workspace/scratch/konosuba/expanded-trpg-core-independent/analysis-v1/ten-ledger-proposals",
+  "ten_ledger_manifest": {
+    "name": "TEN_LEDGER_PROPOSAL_MANIFEST.json",
+    "bytes": 15080,
+    "sha256": "a2115506d42ec157debdab3490650f8d4268914d5199ce44af926acc1e151019"
+  },
+  "ten_ledger_files": [
+    {
+      "name": "CHARACTER_STATE.json",
+      "bytes": 2233,
+      "sha256": "bbf5a44289fe193176a4e3a27e25eb4d5929aeb44611c2b4af6ae8a9a01261fa"
+    },
+    {
+      "name": "CHARACTER_STATE.md",
+      "bytes": 1657,
+      "sha256": "f9219398f6c83f1512667caa8a594c98aad8059567af8e16612bbbe634a3ff19"
+    },
+    {
+      "name": "COMPETENCE_CONTEXT.json",
+      "bytes": 2334,
+      "sha256": "36188c679f99d689b1efe1b5a63d849b3584002aa16ff10612caa855c3dbde7a"
+    },
+    {
+      "name": "COMPETENCE_CONTEXT.md",
+      "bytes": 1758,
+      "sha256": "bff2af81f3d43d6f5590a20c884af4ea49b7b66f8d86fa98e89efa430ed03c63"
+    },
+    {
+      "name": "DECISION_ERROR.json",
+      "bytes": 2260,
+      "sha256": "9f309812485d141d3b75281eb982b1df248cd9db8957dd26d012b9edec0c7f25"
+    },
+    {
+      "name": "DECISION_ERROR.md",
+      "bytes": 1684,
+      "sha256": "77f665933e43fe145a961a627512240de35d334aff20d393bf007eeb7e2500f4"
+    },
+    {
+      "name": "HUMOR_MECHANICS.json",
+      "bytes": 2352,
+      "sha256": "723c05ffc08f4b1e3a1ab1e3ae927338a3b54f00a518e64b3aa4aa5045119c90"
+    },
+    {
+      "name": "HUMOR_MECHANICS.md",
+      "bytes": 1776,
+      "sha256": "0b37ee9ad252a61294e4e5b534904d887887982e94e7016575b065339308155e"
+    },
+    {
+      "name": "JAPANESE_VOICE_HUMOR.json",
+      "bytes": 2332,
+      "sha256": "7960ea4ae570785eccaa18fc6097f70974ae62bccd48b8c7c85e33d8e7035499"
+    },
+    {
+      "name": "JAPANESE_VOICE_HUMOR.md",
+      "bytes": 1756,
+      "sha256": "a581950ad80b0aa8919d0e3403a8083c5add713dc0308645cb959aceed773401"
+    },
+    {
+      "name": "KAZUMA_NARRATOR.json",
+      "bytes": 2274,
+      "sha256": "a66a97cf44a83e46defbd243f3a357ece0a68d6bc704b0e776f42b14647dbc6e"
+    },
+    {
+      "name": "KAZUMA_NARRATOR.md",
+      "bytes": 1698,
+      "sha256": "14b19c6981e8bedcf54f349d1e22841a9e29492b01ea17e1e1fe62ea6d7a2f15"
+    },
+    {
+      "name": "MODEL_PREDICTION_VALIDATION.json",
+      "bytes": 2446,
+      "sha256": "08424a0b7d4dffcaa535bb976989e24627781df6098563f8877cab3ca68d39ac"
+    },
+    {
+      "name": "MODEL_PREDICTION_VALIDATION.md",
+      "bytes": 1870,
+      "sha256": "feb17b4c8e32c918f9d52a26001b1819562486230eb4a2e599dbd9982fc95f13"
+    },
+    {
+      "name": "ORDINARY_LIFE_PREFERENCES.json",
+      "bytes": 2180,
+      "sha256": "7d35281f4eed32b5d427d6d4d62f2a929edf15c6064bab922a06b1b4098a7a69"
+    },
+    {
+      "name": "ORDINARY_LIFE_PREFERENCES.md",
+      "bytes": 1604,
+      "sha256": "c763fcef7a787644f75e92112ef203bc1f3de83ccb46c9fd792748022bac9f20"
+    },
+    {
+      "name": "RELATIONSHIP_STATE.json",
+      "bytes": 2314,
+      "sha256": "e3cddf81f15d04c9526e054a3864b85336c2d29b2e2e91d53e1c1053ae97271b"
+    },
+    {
+      "name": "RELATIONSHIP_STATE.md",
+      "bytes": 1738,
+      "sha256": "1f3843852fb19b925128ccee469bf770f7be950c06460446b23c451b94d95391"
+    },
+    {
+      "name": "SERIOUSNESS_OVERRIDE.json",
+      "bytes": 2192,
+      "sha256": "ba43dc3b81100d5d7f574245336606698a473a2c2c8e6accde72b3e48bf7c4d4"
+    },
+    {
+      "name": "SERIOUSNESS_OVERRIDE.md",
+      "bytes": 1616,
+      "sha256": "d3b9f1655b09ee34c3c9cc770cfafa6cb5d39071463fd17f4559e6d959ca5dc9"
+    }
+  ],
+  "immutable_original_seal": {
+    "name": "COMPLETE_UNCODED_SOURCE_FIRST_SEAL.json",
+    "bytes": 1322,
+    "sha256": "c5bb72f547fdd53020503f76d040ff7d4aaca266402c1b8204f8493ddeaa2d23"
+  },
+  "original_ack_stream": {
+    "name": "ACTUAL_ORDERED_PAGE_VIEW_READ_ACKNOWLEDGMENTS_AND_UNCODED_NOTES.jsonl",
+    "bytes": 305631,
+    "sha256": "3ee568d15cd55389fea788a4735beb755af5cb5c1b892bf031d30c7944511673"
+  },
+  "coverage_counts_metadata": {
+    "all333_pages_viewed": 333,
+    "selected_premises": 75,
+    "selected_voice_context_witnesses": 41,
+    "ledger_proposals": 30
+  },
+  "actual_scope": "Complete first source pass plus17 material page rechecks; no other CORE reader findings, no ADV or other new body; no exhaustive all-rules numerical claim.",
+  "not_root_acceptance_or_publication": true
+}

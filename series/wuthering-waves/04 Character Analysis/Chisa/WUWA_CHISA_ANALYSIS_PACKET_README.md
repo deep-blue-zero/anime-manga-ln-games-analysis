@@ -34,6 +34,8 @@ authority_adoption: owner_2026_09_09_text_audio_baseline
 
 # Chisa reconstruction dossier -- pre-AV rebuild V0.1
 
+The [current-state router](WUWA_CHISA_CURRENT_STATE.md) is the primary current character entrypoint. This README retains packet-manifest, provenance, and reading-order responsibilities; the artifact-class layout does not change authority or completion state.
+
 ## Start here
 
 This is the sole entrypoint for a twelve-document local reconstruction packet for **Chisa / Kuchiba Chisa**. Official name aliases are Chinese/Japanese **千咲** and Korean **치사**. It follows the source-facing reading, specialist-profile, evidence/falsification, operational-model, and AV-retrieval practices developed in the Lynae, Aemeath, and Denia packets, while giving Chisa her own analytical architecture.
@@ -50,17 +52,17 @@ The thesis is an interpretation, not an official character description. Its main
 
 | Document | Responsibility |
 |---|---|
-| [Character deep dive](WUWA_CHISA_CHARACTER_DEEP_DIVE_PRE_AV.md) | Continuous source-facing interpretation of childhood, perception, care, Honami, convalescence, relationships, and ordinary future. |
-| [Evidence and falsification matrix](WUWA_CHISA_EVIDENCE_AND_FALSIFICATION_MATRIX.md) | Fifty typed claims, counterevidence and falsification targets, technical findings, and sixty exact evidence bundles. |
-| [Perception, care, and temporal continuity](WUWA_CHISA_PERCEPTION_CARE_AND_TEMPORAL_CONTINUITY_PROFILE.md) | Chisa-specific specialist treatment of reports, perception, hazard, restraint, multiple clocks, disclosure, and continuity. |
-| [Relationship and state profile](WUWA_CHISA_RELATIONSHIP_AND_STATE_PROFILE.md) | Developmental states, knowledge boundaries, and recipient-conditioned relationships without ship ranking. |
-| [Ordinary life and preferences](WUWA_CHISA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md) | Food, craft, reading, play, family, friendship, rest, gifts, curiosity, and low-stakes behavior. |
-| [Speech and machine-voice profile](WUWA_CHISA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md) | Textual register, selected consequential localization differences, supplied acoustic aggregates, and open performance questions. |
-| [Reconstructive profile](WUWA_CHISA_RECONSTRUCTIVE_PROFILE_PRE_AV.md) | Operational state selection, drives, decisions, recipient modifiers, capabilities, predictions, and abstentions. |
-| [Model fidelity and stress test](WUWA_CHISA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md) | Thirty-six explicitly non-blind adversarial probes; no fictitious independent accuracy score. |
-| [Prior-baseline and source reconciliation](WUWA_CHISA_PRIOR_BASELINE_AND_SOURCE_RECONCILIATION.md) | Fourteen report-level dispositions, an audio-denominator correction, and limits of the historical comparison. |
-| [AV evidence nomination plan](WUWA_CHISA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md) | Twenty-four narrative targets plus promotional/static categories, each with a concrete analytical responsibility. |
-| [AV human-retrieval crosswalk](WUWA_CHISA_AV_HUMAN_RETRIEVAL_CROSSWALK.md) | Public story families, exact script anchors, source locators, search terms, confidence, and future acquisition routing. |
+| [Character deep dive](01%20Evidence%20and%20Source-Facing/WUWA_CHISA_CHARACTER_DEEP_DIVE_PRE_AV.md) | Continuous source-facing interpretation of childhood, perception, care, Honami, convalescence, relationships, and ordinary future. |
+| [Evidence and falsification matrix](01%20Evidence%20and%20Source-Facing/WUWA_CHISA_EVIDENCE_AND_FALSIFICATION_MATRIX.md) | Fifty typed claims, counterevidence and falsification targets, technical findings, and sixty exact evidence bundles. |
+| [Perception, care, and temporal continuity](01%20Evidence%20and%20Source-Facing/WUWA_CHISA_PERCEPTION_CARE_AND_TEMPORAL_CONTINUITY_PROFILE.md) | Chisa-specific specialist treatment of reports, perception, hazard, restraint, multiple clocks, disclosure, and continuity. |
+| [Relationship and state profile](01%20Evidence%20and%20Source-Facing/WUWA_CHISA_RELATIONSHIP_AND_STATE_PROFILE.md) | Developmental states, knowledge boundaries, and recipient-conditioned relationships without ship ranking. |
+| [Ordinary life and preferences](01%20Evidence%20and%20Source-Facing/WUWA_CHISA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md) | Food, craft, reading, play, family, friendship, rest, gifts, curiosity, and low-stakes behavior. |
+| [Speech and machine-voice profile](03%20Audiovisual%20and%20Voice/WUWA_CHISA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md) | Textual register, selected consequential localization differences, supplied acoustic aggregates, and open performance questions. |
+| [Reconstructive profile](02%20Reconstruction/WUWA_CHISA_RECONSTRUCTIVE_PROFILE_PRE_AV.md) | Operational state selection, drives, decisions, recipient modifiers, capabilities, predictions, and abstentions. |
+| [Model fidelity and stress test](04%20Validation%20and%20Readiness/WUWA_CHISA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md) | Thirty-six explicitly non-blind adversarial probes; no fictitious independent accuracy score. |
+| [Prior-baseline and source reconciliation](04%20Validation%20and%20Readiness/WUWA_CHISA_PRIOR_BASELINE_AND_SOURCE_RECONCILIATION.md) | Fourteen report-level dispositions, an audio-denominator correction, and limits of the historical comparison. |
+| [AV evidence nomination plan](03%20Audiovisual%20and%20Voice/WUWA_CHISA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md) | Twenty-four narrative targets plus promotional/static categories, each with a concrete analytical responsibility. |
+| [AV human-retrieval crosswalk](03%20Audiovisual%20and%20Voice/WUWA_CHISA_AV_HUMAN_RETRIEVAL_CROSSWALK.md) | Public story families, exact script anchors, source locators, search terms, confidence, and future acquisition routing. |
 
 For a first reading, begin with the deep dive, then consult the matrix and whichever specialist profile a question requires. For later AV collection, read the nomination plan and crosswalk together. For simulation, use the reconstructive profile with the state and evidence constraints, not as an isolated personality prompt.
 

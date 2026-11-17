@@ -1,0 +1,93 @@
+{
+  "schema": "KONOSUBA_DUST03_DERIVATIVE_CANDIDATE_MANIFEST_V1",
+  "created_utc": "2026-10-18T06:18:22.445096+00:00",
+  "source_id": "DUST-03",
+  "current_baseline_commit": "c121df158194c0fd01608899ed07080520b9cfc0",
+  "canonical_directory": "series/konosuba/10 Expanded Corpus/Dust",
+  "files_excluding_this_manifest": [
+    {
+      "name": "KONOSUBA_DUST_V03_COMPONENT_REGISTER.json",
+      "bytes": 224504,
+      "sha256": "53b858ed6ac34f17cb61c2e7078b813750fd1295f97ff4b58da4548a3417172a"
+    },
+    {
+      "name": "KONOSUBA_DUST_V03_DEEP_READING.md",
+      "bytes": 39612,
+      "sha256": "05f34f0eac8f51d195154d2b64b5a91945f524ed88eb4af8d60d6d630e6f92bd"
+    },
+    {
+      "name": "KONOSUBA_DUST_V03_HUMOR_REGISTER.json",
+      "bytes": 63873,
+      "sha256": "5e931cbae4d6dabb0ad625bc010d769daf37480461eee959edf59ab746e0a832"
+    },
+    {
+      "name": "KONOSUBA_DUST_V03_VOICE_REGISTER.json",
+      "bytes": 157473,
+      "sha256": "29bb783f20961a7c4cb798e7c247cfee7a262f57ebf7538218e3f577e62aab14"
+    },
+    {
+      "name": "KONOSUBA_DUST_V03_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+      "bytes": 21522,
+      "sha256": "c944801afc7a83bf0b0d3599b62e6be9fb982ac0e2926bd84406cd5c49bc5b67"
+    },
+    {
+      "name": "KONOSUBA_DUST_V03_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 4713,
+      "sha256": "60acf341ac4b4517f6cb2fffcf2f4b400a0ba478e485fa66e88a8b150a976604"
+    },
+    {
+      "name": "KONOSUBA_DUST_V03_LEDGER_APPEND_DECISIONS.json",
+      "bytes": 45152,
+      "sha256": "2832ef80f478ca569a46816b72aad567a2a97c923a2a44c3816be219dc4428cb"
+    },
+    {
+      "name": "KONOSUBA_DUST_V03_INITIAL_AUTHOR_UNCODED_SEAL.json",
+      "bytes": 10064,
+      "sha256": "c3b720dca1aa04919ce86995a291bc86092d152b95ab868b3a6935710ac42813"
+    },
+    {
+      "name": "KONOSUBA_DUST_V03_ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 2192,
+      "sha256": "3c6824fb13fe65c959d4f75f765714ebc9d5a566ee782a983f66f59a0fb13421"
+    },
+    {
+      "name": "KONOSUBA_DUST_V03_ORIGINAL_UNCODED_TEXT_NOTES.jsonl",
+      "bytes": 127454,
+      "sha256": "000dfc9e7a194962a284e141b7355474df41134fd82dd270bf479182247af621"
+    },
+    {
+      "name": "KONOSUBA_DUST_V03_ORIGINAL_UNCODED_IMAGE_NOTES.jsonl",
+      "bytes": 21190,
+      "sha256": "6b52696d4217c9a5fe25ee5b8ae63fd4bab9149006bc0ed29847b1ed6c1c2c7f"
+    },
+    {
+      "name": "KONOSUBA_DUST_V03_COMPONENT_ANALYSIS.md",
+      "bytes": 16358,
+      "sha256": "90c7b4105be49c4720362f684f337f790ab7a7a221dfaa62ec6031ff0ba392e8"
+    },
+    {
+      "name": "KONOSUBA_DUST_V03_HUMOR_REGISTER.md",
+      "bytes": 26720,
+      "sha256": "85123c730e29984388c9c2019ba1b91772d51ff014a08245b52b89d67c301502"
+    },
+    {
+      "name": "KONOSUBA_DUST_V03_VOICE_REGISTER.md",
+      "bytes": 43905,
+      "sha256": "5b33453c2493b17b09ba101a05e50e682b46b6bc9784cc19db89cc8dfc150217"
+    },
+    {
+      "name": "KONOSUBA_DUST_V03_SOURCE_AND_READING_RECEIPT.json",
+      "bytes": 3145,
+      "sha256": "f584be50327f6e180f6104bd1efbb9f315c256c08b3949916b2d1762fee91ee5"
+    },
+    {
+      "name": "KONOSUBA_DUST_V03_RECEIVING_AND_PROVENANCE.json",
+      "bytes": 12552,
+      "sha256": "b20e162defc8b1ad1c841174eeddc952248117bca730d1df819ad7db4dce9052"
+    }
+  ],
+  "status": "ACCEPTED_AT_STATED_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "native_epub_or_full_native_story_text_not_published": true,
+  "original_uncoded_derivative_notes_published_exact_not_native_source": true,
+  "frozen66_historical72_scores4_original14blanks_exact": true
+}

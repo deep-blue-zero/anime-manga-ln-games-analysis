@@ -1,0 +1,25 @@
+{
+  "schema": "harmony-g6-independent-archive-serialization-review/v1",
+  "reviewer": "/root/harmony_final_review",
+  "decision": "ACCEPT_SINGLE_JSON_ENCODING_CHANGE",
+  "previous_raw_archive_sha256": "c44d137c863a9ccf886ccb2540260ee996d7c6c993b8e6645ea72c2884619375",
+  "current_raw_archive_sha256": "69e4720806ddd90221910baa1d2729a7a440c1a257dbdc0e1afb23cd295ceb15",
+  "standard_json_reserialization_reconstructs_previous_raw_bytes": true,
+  "exact_one_unicode_escape_reversal_reconstructs_previous_raw_bytes": true,
+  "decoded_json_values_equal": true,
+  "encoding_change_count": 1,
+  "decoded_complete_original_payloads_verified": 16,
+  "selected_publication_files_unchanged": 16,
+  "repository_hazard_patterns_current_matches": {
+    "GitHub token": 0,
+    "private key": 0,
+    "AWS access key": 0,
+    "Google API key": 0,
+    "Google Drive URL": 0,
+    "local absolute path": 0,
+    "personal email address": 0
+  },
+  "format_reconciliation_inspected_sha256": "6726a87b882e7135924cef1d36eb86552d30525211e7fa006e1388a5818f110c",
+  "previous_format_review_remains_historical": true,
+  "source_policy_runtime_judgment_changes": 0
+}

@@ -1,0 +1,254 @@
+{
+  "schema": "KONOSUBA_MAIN04_EXCLUDED_SELECTED_HUMOR_V1",
+  "source_id": "MAIN-04",
+  "records": [
+    {
+      "id": "M04EX-H01",
+      "boundary": {
+        "component_id": "MAIN-04-U029",
+        "start_P": 1,
+        "end_P": 16
+      },
+      "whole_selected_premise": "A neighborhood scare job recruits an actual lich, and Aqua's defense of lich pride elicits Wiz's correction that the proposed compliment hurts more.",
+      "primary_L": "L1",
+      "L_rationale": "The complete goal, expectation, information or role mismatch survives semantic translation. Native words and staged framing remain recorded, but this selected whole effect does not require an indispensable Japanese written form.",
+      "source_plane": "DIRECT_BONUS_KAZUMA_FOCALIZATION",
+      "primary_H": "H1",
+      "H_rationale": "Direct recruitment, objections and volunteering retain their sequence; later task assent does not authorize the forced start.",
+      "eligibility_and_limits": "Purposeful post-seal overlapping selections, not a census, independent forecast trials, statistical accuracy or permission to erase objections/costs.",
+      "native_member": "item/xhtml/p-017.xhtml",
+      "native_member_sha256": "b895949853bfb3016b0a72e72b834717f3b26b7413a54884b58b60aa5e1087bd",
+      "formal_assignment_after_seal_utc": "2026-10-19T08:32:41.486204+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M04EX-H02",
+      "boundary": {
+        "component_id": "MAIN-04-U029",
+        "start_P": 18,
+        "end_P": 26
+      },
+      "whole_selected_premise": "Technically convincing zombie makeup fulfills one visual goal while Wiz worries about excessive fright.",
+      "primary_L": "L1",
+      "L_rationale": "The complete goal, expectation, information or role mismatch survives semantic translation. Native words and staged framing remain recorded, but this selected whole effect does not require an indispensable Japanese written form.",
+      "source_plane": "DIRECT_BONUS_KAZUMA_FOCALIZATION",
+      "primary_H": "H1",
+      "H_rationale": "Actual makeup and fear are distinct from K's hypothetical heart failure; no elderly participant injury occurs.",
+      "eligibility_and_limits": "Purposeful post-seal overlapping selections, not a census, independent forecast trials, statistical accuracy or permission to erase objections/costs.",
+      "native_member": "item/xhtml/p-017.xhtml",
+      "native_member_sha256": "b895949853bfb3016b0a72e72b834717f3b26b7413a54884b58b60aa5e1087bd",
+      "formal_assignment_after_seal_utc": "2026-10-19T08:32:41.486204+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M04EX-H03",
+      "boundary": {
+        "component_id": "MAIN-04-U029",
+        "start_P": 27,
+        "end_P": 41
+      },
+      "whole_selected_premise": "A planned conversational distraction and sudden scare are enacted on people who turn out to be fellow ghost workers.",
+      "primary_L": "L1",
+      "L_rationale": "The complete goal, expectation, information or role mismatch survives semantic translation. Native words and staged framing remain recorded, but this selected whole effect does not require an indispensable Japanese written form.",
+      "source_plane": "DIRECT_BONUS_KAZUMA_FOCALIZATION",
+      "primary_H": "H1",
+      "H_rationale": "Real mistaken-target execution and interrupted correction, not a completed smooth handoff or unreal gag.",
+      "eligibility_and_limits": "Purposeful post-seal overlapping selections, not a census, independent forecast trials, statistical accuracy or permission to erase objections/costs.",
+      "native_member": "item/xhtml/p-017.xhtml",
+      "native_member_sha256": "b895949853bfb3016b0a72e72b834717f3b26b7413a54884b58b60aa5e1087bd",
+      "formal_assignment_after_seal_utc": "2026-10-19T08:32:41.486204+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M04EX-H04",
+      "boundary": {
+        "component_id": "MAIN-04-U029",
+        "start_P": 43,
+        "end_P": 62
+      },
+      "whole_selected_premise": "Workers treat speech and denial as evidence of a rare zombie, then propose a supposedly human-safe spell as a test.",
+      "primary_L": "L1",
+      "L_rationale": "The complete goal, expectation, information or role mismatch survives semantic translation. Native words and staged framing remain recorded, but this selected whole effect does not require an indispensable Japanese written form.",
+      "source_plane": "DIRECT_BONUS_KAZUMA_FOCALIZATION",
+      "primary_H": "H1",
+      "H_rationale": "Actual requests and mistaken target classification; a claim of safety for living humans does not make a lich safe or grant her consent.",
+      "eligibility_and_limits": "Purposeful post-seal overlapping selections, not a census, independent forecast trials, statistical accuracy or permission to erase objections/costs.",
+      "native_member": "item/xhtml/p-017.xhtml",
+      "native_member_sha256": "b895949853bfb3016b0a72e72b834717f3b26b7413a54884b58b60aa5e1087bd",
+      "formal_assignment_after_seal_utc": "2026-10-19T08:32:41.486204+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M04EX-H05",
+      "boundary": {
+        "component_id": "MAIN-04-U029",
+        "start_P": 63,
+        "end_P": 66
+      },
+      "whole_selected_premise": "Aqua's hesitant low-power promise is followed by Wiz fleeing and Aqua receiving the extra reward.",
+      "primary_L": "L1",
+      "L_rationale": "The complete goal, expectation, information or role mismatch survives semantic translation. Native words and staged framing remain recorded, but this selected whole effect does not require an indispensable Japanese written form.",
+      "source_plane": "DIRECT_BONUS_KAZUMA_FOCALIZATION",
+      "primary_H": "H1",
+      "H_rationale": "Promise, cut and narrated flight/reward remain separate. No explicitly shown spell release, purification, death or harmless reset is invented.",
+      "eligibility_and_limits": "Purposeful post-seal overlapping selections, not a census, independent forecast trials, statistical accuracy or permission to erase objections/costs.",
+      "native_member": "item/xhtml/p-017.xhtml",
+      "native_member_sha256": "b895949853bfb3016b0a72e72b834717f3b26b7413a54884b58b60aa5e1087bd",
+      "formal_assignment_after_seal_utc": "2026-10-19T08:32:41.486204+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M04EX-H06",
+      "boundary": {
+        "component_id": "MAIN-04-U003",
+        "image_id": "MAIN-04-IMG006"
+      },
+      "whole_selected_premise": "Wiz accepts an Eris-doll sales appeal and imagines improved business; Vanir distinguishes his prior manufacture from a doll hobby.",
+      "primary_L": "L1",
+      "L_rationale": "The complete goal, expectation, information or role mismatch survives semantic translation. Native words and staged framing remain recorded, but this selected whole effect does not require an indispensable Japanese written form.",
+      "source_plane": "DECLARED_RASTER_STAGED_OR_IMAGINED_PLANE",
+      "primary_H": "H4",
+      "H_rationale": "Staged frontmatter contrast, not a newly completed profitable sale, divine benefit or performed explosive destruction.",
+      "eligibility_and_limits": "Purposeful post-seal overlapping selections, not a census, independent forecast trials, statistical accuracy or permission to erase objections/costs.",
+      "native_image_sha256": "8f63560a5644056893bedd8c0cdcc40850911d66a85c45e63d09234f7dcc8df2",
+      "native_member": "item/xhtml/p-fmatter-002.xhtml",
+      "native_member_sha256": "9d73cdca475cba14e0e96c85d05c9ec3834c362076ed7362f1783d2011094f6a",
+      "formal_assignment_after_seal_utc": "2026-10-19T08:32:41.486204+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M04EX-H07",
+      "boundary": {
+        "component_id": "MAIN-04-U004",
+        "image_id": "MAIN-04-IMG007"
+      },
+      "whole_selected_premise": "Megumin's monumental dungeon/adventure imagining turns a townsman's complaint into a grand incineration promise.",
+      "primary_L": "L1",
+      "L_rationale": "The complete goal, expectation, information or role mismatch survives semantic translation. Native words and staged framing remain recorded, but this selected whole effect does not require an indispensable Japanese written form.",
+      "source_plane": "DECLARED_RASTER_STAGED_OR_IMAGINED_PLANE",
+      "primary_H": "H4",
+      "H_rationale": "Aspirational/staged comic form; no actual100-floor church dungeon or newly released Explosion.",
+      "eligibility_and_limits": "Purposeful post-seal overlapping selections, not a census, independent forecast trials, statistical accuracy or permission to erase objections/costs.",
+      "native_image_sha256": "485d0714db71b65c6ff46b0296c218bdf71d6bb5d66fc4f7a33905204ac0c89d",
+      "native_member": "item/xhtml/p-fmatter-003.xhtml",
+      "native_member_sha256": "62d90472401009109b2f15ffc7e9a763e6880377b63392ffa0888fec9c7765b3",
+      "formal_assignment_after_seal_utc": "2026-10-19T08:32:41.486204+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M04EX-H08",
+      "boundary": {
+        "component_id": "MAIN-04-U005",
+        "image_id": "MAIN-04-IMG008"
+      },
+      "whole_selected_premise": "Darkness's explicit Eris-devotee refusal changes affect when the alternative is left suggestively incomplete.",
+      "primary_L": "L1",
+      "L_rationale": "The complete goal, expectation, information or role mismatch survives semantic translation. Native words and staged framing remain recorded, but this selected whole effect does not require an indispensable Japanese written form.",
+      "source_plane": "DECLARED_RASTER_STAGED_OR_IMAGINED_PLANE",
+      "primary_H": "H4",
+      "H_rationale": "Preserve initial refusal, incomplete means and changed reaction without inventing completed conversion, bodily act or blanket assent.",
+      "eligibility_and_limits": "Purposeful post-seal overlapping selections, not a census, independent forecast trials, statistical accuracy or permission to erase objections/costs.",
+      "native_image_sha256": "bf188e65a36f0ee416c5093fc7cca2966b0d5d359ad56fb00485660a4d14a081",
+      "native_member": "item/xhtml/p-fmatter-004.xhtml",
+      "native_member_sha256": "2f1f20481bddff3096ba17f2a664f235c9dd7c303b3944c6d4410ccc654cdf22",
+      "formal_assignment_after_seal_utc": "2026-10-19T08:32:41.486204+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M04EX-H09",
+      "boundary": {
+        "component_id": "MAIN-04-U006",
+        "image_id": "MAIN-04-IMG009"
+      },
+      "whole_selected_premise": "Aqua's desired admiration and Yunyun's shared leisure belong to the frontmatter wishes that Vanir explicitly calls imagination.",
+      "primary_L": "L1",
+      "L_rationale": "The complete goal, expectation, information or role mismatch survives semantic translation. Native words and staged framing remain recorded, but this selected whole effect does not require an indispensable Japanese written form.",
+      "source_plane": "DECLARED_RASTER_STAGED_OR_IMAGINED_PLANE",
+      "primary_H": "H4",
+      "H_rationale": "The later frame identifies wish presentation; drawn admirers and bath company are not a fresh divine-service burden or performed outing.",
+      "eligibility_and_limits": "Purposeful post-seal overlapping selections, not a census, independent forecast trials, statistical accuracy or permission to erase objections/costs.",
+      "additional_boundaries": [
+        {
+          "component_id": "MAIN-04-U008",
+          "image_id": "MAIN-04-IMG011",
+          "native_member": "item/xhtml/p-fmatter-007.xhtml",
+          "native_member_sha256": "ff1aecc28052a372659b6ee97142045c961d5a71078cf08ad5f9640c61557df0",
+          "native_image_sha256": "8941f0a1545ba98292e048922a98efd74b8cdbe1a4bd7fe1a28f54ad0a582474"
+        }
+      ],
+      "native_image_sha256": "c0bf4322e69eb672270a37774f65e30cceda1cc259e9b66fba165dd4715c63c3",
+      "native_member": "item/xhtml/p-fmatter-005.xhtml",
+      "native_member_sha256": "d89c93eeb7f88011a1e9b90b1e9a5c2aeef5a2ba67fe835a877f001186d5ef89",
+      "formal_assignment_after_seal_utc": "2026-10-19T08:32:41.486204+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M04EX-H10",
+      "boundary": {
+        "component_id": "MAIN-04-U020",
+        "image_id": "MAIN-04-IMG018"
+      },
+      "whole_selected_premise": "Kazuma imagines a missed encounter with Wiz; the two-page exchange reverses his premature reading of her interrupted offer.",
+      "primary_L": "L1",
+      "L_rationale": "The complete goal, expectation, information or role mismatch survives semantic translation. Native words and staged framing remain recorded, but this selected whole effect does not require an indispensable Japanese written form.",
+      "source_plane": "DECLARED_RASTER_STAGED_OR_IMAGINED_PLANE",
+      "primary_H": "H4",
+      "H_rationale": "Native U019P402-406 and U022P1-2 establish counterfactual status. One imagined sequence, no actual meeting or completed washing.",
+      "eligibility_and_limits": "Purposeful post-seal overlapping selections, not a census, independent forecast trials, statistical accuracy or permission to erase objections/costs.",
+      "additional_boundaries": [
+        {
+          "component_id": "MAIN-04-U021",
+          "image_id": "MAIN-04-IMG019",
+          "native_member": "item/xhtml/p-009.xhtml",
+          "native_member_sha256": "0f460fe49c49d605ebe4273bc60b3483b1f2a27b8c03458204754c3f2620c197",
+          "native_image_sha256": "1626b8cd8aa6f8373601961b561b9e42e79c4ec9b21496f4b0bc32481fbffc1a"
+        }
+      ],
+      "native_image_sha256": "f050ce45afb35a62385ff1504072bc1b236654dc88aa463311a80d2ef7b9fa19",
+      "native_member": "item/xhtml/p-008.xhtml",
+      "native_member_sha256": "fa82216564ecafdf9c8638daba16444679d042dcafb278d1c2ca385947d68f6e",
+      "formal_assignment_after_seal_utc": "2026-10-19T08:32:41.486204+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M04EX-H11",
+      "boundary": {
+        "component_id": "MAIN-04-U026",
+        "start_P": 4,
+        "end_P": 7
+      },
+      "whole_selected_premise": "The creator presents bundled books as a weapon, then adds reading as an extra use.",
+      "primary_L": "L1",
+      "L_rationale": "The complete goal, expectation, information or role mismatch survives semantic translation. Native words and staged framing remain recorded, but this selected whole effect does not require an indispensable Japanese written form.",
+      "source_plane": "CREATOR_AFTERWORD",
+      "primary_H": "H4",
+      "H_rationale": "Self-conscious afterword product joke and proposed recommendation, not actual injury or character behavior.",
+      "eligibility_and_limits": "Purposeful post-seal overlapping selections, not a census, independent forecast trials, statistical accuracy or permission to erase objections/costs.",
+      "native_member": "item/xhtml/p-014.xhtml",
+      "native_member_sha256": "c2bc61fe1bde44a6e24c83104678e7ea32f41cda25bd66f444e9046a62a237eb",
+      "formal_assignment_after_seal_utc": "2026-10-19T08:32:41.486204+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    },
+    {
+      "id": "M04EX-H12",
+      "boundary": {
+        "component_id": "MAIN-04-U027",
+        "image_id": "MAIN-04-IMG024"
+      },
+      "whole_selected_premise": "A NEXT preview withholds Yunyun's reason for a child request while Kazuma agrees before her village invitation clarifies the destination.",
+      "primary_L": "L1",
+      "L_rationale": "The complete goal, expectation, information or role mismatch survives semantic translation. Native words and staged framing remain recorded, but this selected whole effect does not require an indispensable Japanese written form.",
+      "source_plane": "DECLARED_RASTER_STAGED_OR_IMAGINED_PLANE",
+      "primary_H": "H4",
+      "H_rationale": "Promotional elliptical framing, not a child, pregnancy, sexual act, adult agreement or newly performed V05 trip.",
+      "eligibility_and_limits": "Purposeful post-seal overlapping selections, not a census, independent forecast trials, statistical accuracy or permission to erase objections/costs.",
+      "native_image_sha256": "7b47d1e7dfde932a66f78f915d34c4a8a8075aac26eb51d72d939857c7207ee7",
+      "native_member": "item/xhtml/p-015.xhtml",
+      "native_member_sha256": "486a122a2c4a5c7f685674b66e5569bcea30d704b2e4a6d4d48366da55586708",
+      "formal_assignment_after_seal_utc": "2026-10-19T08:32:41.486204+00:00",
+      "source_first_selection_precision": "Purposeful boundary selected after complete uncoded excluded-resource reception; original notes preserved. Not preselected independent windows or a population."
+    }
+  ],
+  "H_protocol": "H1 actual acts/speech or attributed report at its stated plane; H4 explicit staged/profile/promotion or embedded imagined framing, not new literal mainline events. Fantasy or unperformed intention is not automatic H3/H4.",
+  "L_protocol": "Whole effect and nested written form are distinguished. Ordinary idiom, honorific, ruby and game vocabulary do not automatically create central Japanese-only dependence. Selected contexts overlap and are not a census."
+}

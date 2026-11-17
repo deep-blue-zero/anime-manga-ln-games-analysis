@@ -1,0 +1,663 @@
+{
+  "schema": "konosuba.cohort33.native-provenance.v1",
+  "recorded_utc": "2026-10-24T10:25:19.326883+00:00",
+  "source_known": true,
+  "starting_authority_sha256": "89d1229e4e9cc6b979b556b3cb72b05a92c7904fb5e6fb731b6e6ce968cff154",
+  "local_entering_head": "40571cea9f7f7c596063ec511b40621c746a475c",
+  "local_entering_tree": "4cd104966e7ffd140b5330cde3dd0da4ed867323",
+  "latest_certified_source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+  "current_main": "b20de0edab953d40bf5fc3d2e51dea84e99a610c",
+  "prior_source_audit_not_transferred_to_local_merge": true,
+  "local_native_source_bindings": [
+    {
+      "source_id": "CONTEXP-01",
+      "bytes": 18609246,
+      "sha256": "60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 30
+    },
+    {
+      "source_id": "CONTEXP-02",
+      "bytes": 2412289,
+      "sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "opf": "OEBPS/content.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 35
+    },
+    {
+      "source_id": "MASK",
+      "bytes": 2895671,
+      "sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+      "opf": "content.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 29
+    }
+  ],
+  "all41_native_identity_retrieval": {
+    "file": "COHORT33_ALL41_NAMED_LEADS_01.json",
+    "sha256": "131a3504d252e29f79a841225755268665fab3b551fc108a8b5293e0250186c4",
+    "objects_freshly_byte_verified": 41,
+    "positive_sources": [
+      {
+        "source_id": "CONTEXP-01",
+        "lexical_paragraph_leads": 56
+      },
+      {
+        "source_id": "CONTEXP-02",
+        "lexical_paragraph_leads": 4
+      },
+      {
+        "source_id": "MASK",
+        "lexical_paragraph_leads": 3
+      }
+    ],
+    "technical_lexical_retrieval_is_not_semantic_reading": true,
+    "paragraph_absence_not_alias_or_population_closure": true
+  },
+  "current_actual_native_context_intervals": [
+    {
+      "component_id": "CONTEXP-02-U020",
+      "start_P": 1,
+      "end_P": 145,
+      "slots": 145,
+      "purpose": "Beat and Clarice individual recruitment and actual recipient states"
+    },
+    {
+      "component_id": "CONTEXP-02-U013",
+      "start_P": 1,
+      "end_P": 85,
+      "slots": 85,
+      "purpose": "Arshe and Andy named refusal/real recruitment context"
+    },
+    {
+      "component_id": "CONTEXP-02-U018",
+      "start_P": 1,
+      "end_P": 100,
+      "slots": 100,
+      "purpose": "Crane signed theft letter and named-role attribution"
+    },
+    {
+      "component_id": "CONTEXP-01-U019",
+      "start_P": 283,
+      "end_P": 540,
+      "slots": 258,
+      "purpose": "Preceding target veto, monster rescue and ungrateful owner, before Donnelly naming"
+    },
+    {
+      "component_id": "CONTEXP-01-U021",
+      "start_P": 1,
+      "end_P": 518,
+      "slots": 518,
+      "purpose": "Complete Karen final episode with Kazuma narrator, contract, status, harm, business and coercion contexts"
+    },
+    {
+      "component_id": "CONTEXP-01-U023",
+      "start_P": 1,
+      "end_P": 45,
+      "slots": 45,
+      "purpose": "Complete immediate epilogue: evidence handoff and unresolved legal outcome"
+    }
+  ],
+  "actual_current_complete_context_P": 1151,
+  "additional_complete_MASK_paragraph_rechecks": [
+    143,
+    159,
+    347
+  ],
+  "total_unique_current_P": 1154,
+  "context_source_objects": 2,
+  "objects_with_any_current_actual_P": 3,
+  "native_member_pins": [
+    {
+      "source_id": "CONTEXP-02",
+      "component_id": "CONTEXP-02-U020",
+      "member": "OEBPS/Text/part0018.xhtml",
+      "member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+      "paragraph_slots": 577
+    },
+    {
+      "source_id": "CONTEXP-02",
+      "component_id": "CONTEXP-02-U013",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+      "paragraph_slots": 509
+    },
+    {
+      "source_id": "CONTEXP-02",
+      "component_id": "CONTEXP-02-U018",
+      "member": "OEBPS/Text/part0016.xhtml",
+      "member_sha256": "224a107ccf68f82ce7ed516f39058ae40ff2c353fb15f5d63e41bc9b253693ad",
+      "paragraph_slots": 470
+    },
+    {
+      "source_id": "CONTEXP-01",
+      "component_id": "CONTEXP-01-U019",
+      "member": "item/xhtml/p-010.xhtml",
+      "member_sha256": "174287af567091af4894d78d7c54c16cd2be5b3f1cceb4880a26404132000892",
+      "paragraph_slots": 540
+    },
+    {
+      "source_id": "CONTEXP-01",
+      "component_id": "CONTEXP-01-U021",
+      "member": "item/xhtml/p-012.xhtml",
+      "member_sha256": "90ae71a4de71b2602aeca99fbaf6a6a458ef0b559a2e91b5cfb77a8bdf008b50",
+      "paragraph_slots": 518
+    },
+    {
+      "source_id": "CONTEXP-01",
+      "component_id": "CONTEXP-01-U023",
+      "member": "item/xhtml/p-014.xhtml",
+      "member_sha256": "9d7c2937e6b1520fcbbc4b4674b3986d8ed44c26ce36d5a6a71fe21c92e69a20",
+      "paragraph_slots": 45
+    },
+    {
+      "source_id": "MASK",
+      "component_id": "MASK-U021",
+      "member": "text/part0019.html",
+      "member_sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+      "actual_current_paragraphs": [
+        143,
+        159,
+        347
+      ],
+      "complete_context_reused_from": "C32 actual full U021556P context, guarded exact"
+    }
+  ],
+  "actual_receiving_file": "COHORT33_ACTUAL_NATIVE_REVIEW_RECEIVING_01.json",
+  "actual_receiving_sha256": "95a9fb9bd7c421f7730a4ca5d7ef32a59baa493e796c8ba99ce42016d7620a1a",
+  "actual_received_private_delivery_files": [
+    {
+      "file": "native-review-pages01/001.txt",
+      "bytes": 14613,
+      "sha256": "a05c6f5ef0bc52a04744aa883c4f980df252a58fe3c44c56296c6524a8863e4b",
+      "component_id": "CONTEXP-02-U020",
+      "start_P": 1,
+      "end_P": 104
+    },
+    {
+      "file": "native-review-pages01/002.txt",
+      "bytes": 5920,
+      "sha256": "fa5b9b8159ea8359b622caae04cb7abb0a81081af6a85c241b2c1f1fe48db60c",
+      "component_id": "CONTEXP-02-U020",
+      "start_P": 105,
+      "end_P": 145
+    },
+    {
+      "file": "native-review-pages01/003.txt",
+      "bytes": 12877,
+      "sha256": "df1af36cef77a400a80327733f301a2dfecde2e0dbfe37328301724ab8ec3edd",
+      "component_id": "CONTEXP-02-U013",
+      "start_P": 1,
+      "end_P": 85
+    },
+    {
+      "file": "native-review-pages01/004.txt",
+      "bytes": 13824,
+      "sha256": "8d1db9071e9104f1475a2c6f7db448c53e18d0848edb7d01ce8a3baa834c7da2",
+      "component_id": "CONTEXP-02-U018",
+      "start_P": 1,
+      "end_P": 100
+    },
+    {
+      "file": "native-review-pages01/005.txt",
+      "bytes": 15085,
+      "sha256": "46e198a2e8243ee4ed453e87666e930d9b637d6ff2a7647aa5bcc6619675aa9d",
+      "component_id": "CONTEXP-01-U019",
+      "start_P": 283,
+      "end_P": 376
+    },
+    {
+      "file": "native-review-pages01/006.txt",
+      "bytes": 14920,
+      "sha256": "56cc7b56ddd3b899d5be2f96add057f7d0026617b99fdbe2be38345ceea456e5",
+      "component_id": "CONTEXP-01-U019",
+      "start_P": 377,
+      "end_P": 474
+    },
+    {
+      "file": "native-review-pages01/007.txt",
+      "bytes": 10062,
+      "sha256": "9f31025d189ae11a378432ddd3f17645f1b5bce08b4636bed333762b451606e6",
+      "component_id": "CONTEXP-01-U019",
+      "start_P": 475,
+      "end_P": 540
+    },
+    {
+      "file": "native-review-pages01/008.txt",
+      "bytes": 15444,
+      "sha256": "2070d3143b5bf1317a46e9348e45b9d5ac94ec4e9f3c0bacd645b6cdccc336c6",
+      "component_id": "CONTEXP-01-U021",
+      "start_P": 1,
+      "end_P": 88
+    },
+    {
+      "file": "native-review-pages01/009.txt",
+      "bytes": 14790,
+      "sha256": "b968164f357af4c615325125efcca084f5183b548610cc957b9ecef6118061ba",
+      "component_id": "CONTEXP-01-U021",
+      "start_P": 89,
+      "end_P": 187
+    },
+    {
+      "file": "native-review-pages01/010.txt",
+      "bytes": 15290,
+      "sha256": "59808e24de6c7a956f14ee066ea7d818c4661b9e96d703ed9a024fa710026dc6",
+      "component_id": "CONTEXP-01-U021",
+      "start_P": 188,
+      "end_P": 279
+    },
+    {
+      "file": "native-review-pages01/011.txt",
+      "bytes": 14898,
+      "sha256": "5318c8795e5b148dc8735f426605b5f2945b47dfd25e61786cfd56030f1f279f",
+      "component_id": "CONTEXP-01-U021",
+      "start_P": 280,
+      "end_P": 379
+    },
+    {
+      "file": "native-review-pages01/012.txt",
+      "bytes": 14999,
+      "sha256": "676ac085e6bb25c53f13edb58d953586be3f0d617fc5d7994fc66778a934c087",
+      "component_id": "CONTEXP-01-U021",
+      "start_P": 380,
+      "end_P": 477
+    },
+    {
+      "file": "native-review-pages01/013.txt",
+      "bytes": 5832,
+      "sha256": "ec43875051dba4c163e09926de354995a715e6bcacaf3a18d50dc8ad069089b3",
+      "component_id": "CONTEXP-01-U021",
+      "start_P": 478,
+      "end_P": 518
+    },
+    {
+      "file": "native-review-pages01/014.txt",
+      "bytes": 6635,
+      "sha256": "4a14420016e5b167c1b3428f1572c19e3f84b12a92b6a2a6bd944068089be0b2",
+      "component_id": "CONTEXP-01-U023",
+      "start_P": 1,
+      "end_P": 45
+    }
+  ],
+  "current_complete_analytical_derivatives": [
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_DEEP_READING.md",
+      "bytes": 81867,
+      "sha256": "50e02690ec05fad4c9d665a3d37d4a038b2f5140d0573db54e13f06a486b000d",
+      "characters": 81009,
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_DEEP_READING.md",
+      "bytes": 69101,
+      "sha256": "dd7ed1955003868b4ea8bc3722d595a532fe3c8968c42437c5608f85d5684e60",
+      "characters": 68453,
+      "pages": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    }
+  ],
+  "complete_derivative_review_sha256": "bc9894acd1b52cbc189b813dbbe880d0f0c6a30b4b44cc8d982700db946e4342",
+  "complete_derivative_characters": 149462,
+  "source_surface_pins": [
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_COMPONENT_ANALYSIS.md",
+      "bytes": 16148,
+      "sha256": "23f5503ef89139b329d03916b896a690ee575f04f52f7acb319d8b5429cde731"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_COMPONENT_REGISTER.json",
+      "bytes": 254488,
+      "sha256": "8c31cb78d30d549864623f781fad193e5457b9b0cad722fe5e1cb45dcf7a3120"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 17647,
+      "sha256": "17df1226ad1d3d7ff8a9d4d0a4d35b05172b555f82365eec711470db7e572033"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_DEEP_READING.md",
+      "bytes": 81867,
+      "sha256": "50e02690ec05fad4c9d665a3d37d4a038b2f5140d0573db54e13f06a486b000d"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+      "bytes": 48457,
+      "sha256": "71805577dbe44a2566e4b308ca9746323c0a8a6f7ccb815a954140b21f06376a"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_HANDOFF_MANIFEST.json",
+      "bytes": 3567,
+      "sha256": "ce0bc467975a34f7cbedf52b0e9afc61697d553db77d74ecc3196ccf5f3353e0"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_HUMOR_REGISTER.json",
+      "bytes": 85944,
+      "sha256": "a208abfb11e7848c881c59f55058c8fc8906f3ec32f7f134f17e00d6fb341610"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_HUMOR_REGISTER.md",
+      "bytes": 40836,
+      "sha256": "65b01632433496cdf8f6b84dcc282de6c208f25ea09c0dac84c9e8c98435079b"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_INITIAL_AUTHOR_UNCODED_SEAL.json",
+      "bytes": 11539,
+      "sha256": "c583f5a3f37d49058dfedd0022b6f0f883e23fd6a35685ff03adbb8256520c42"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_LEDGER_APPEND_DECISIONS.json",
+      "bytes": 49268,
+      "sha256": "245a5fdf7550725072954b3b58983d9e9c92f8d8ba7cf32ee7d8263691b98787"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_ORIGINAL_UNCODED_IMAGE_NOTES.jsonl",
+      "bytes": 21697,
+      "sha256": "e960e91640f1b4fa074168710469ce04aaacf33764b693114eb51f00d1b26d1f"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_ORIGINAL_UNCODED_TEXT_NOTES.jsonl",
+      "bytes": 133365,
+      "sha256": "a4de0991bec16a79fbad3fc3d2f22d676dde3e8f7280c4fa3674f9770bc5642f"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_RECEIVING_AND_PROVENANCE.json",
+      "bytes": 28361,
+      "sha256": "9d31684b5073e3adbb7558860cb13831e10fa2d5847d4781998de18f70873181"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 30877,
+      "sha256": "66f13ba55505d5de1c2a2b4a74eff36a77b6ae2f4e63468958598074885b68e9"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_SOURCE_AND_READING_RECEIPT.json",
+      "bytes": 5580,
+      "sha256": "6bf5d78bc06470455b55132f514d1e854392e12a011213f322136d9c3d13b2dd"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_VOICE_REGISTER.json",
+      "bytes": 280185,
+      "sha256": "e1eba7fae8b276a197b6408cb1b3dec685aed0151adbb8e754778c50edfaa05d"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V01_VOICE_REGISTER.md",
+      "bytes": 106746,
+      "sha256": "9f87193ab0674cfdf9180142d4d30647bbbc020971da05616cc4c984eb66f6ba"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_COMPONENT_ANALYSIS.md",
+      "bytes": 14542,
+      "sha256": "8adf390df88a32a1f41609f2e329376ebc2b12ea0fe845fe04b6a6a6c477a764"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_COMPONENT_REGISTER.json",
+      "bytes": 281736,
+      "sha256": "7d2db19645e0660d86b0eae2e9043c270fa1699426bfc2eac488bebc73f6ba8b"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 23979,
+      "sha256": "cb7477fb81dce43b68ab6e402c7a42268d6de56a00d76543b9f5fcfba4d5628e"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_DEEP_READING.md",
+      "bytes": 69101,
+      "sha256": "dd7ed1955003868b4ea8bc3722d595a532fe3c8968c42437c5608f85d5684e60"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+      "bytes": 50374,
+      "sha256": "6c78117826bb9bffda503c09888b5987264a45dc0924649c2873df132bbcbdfe"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_HANDOFF_MANIFEST.json",
+      "bytes": 3568,
+      "sha256": "d83bb5038eeb91f6efc66b865522884678c05f85f2c503e8d36f0c1405c2fa41"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_HUMOR_REGISTER.json",
+      "bytes": 103804,
+      "sha256": "f3812c277d5c564edc641b6e25f857e52500a7762dbbd9700c44bf19a598345d"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_HUMOR_REGISTER.md",
+      "bytes": 45885,
+      "sha256": "456c20559a09df1fd5e06df9c5d662c048f128b463f1d01502e800994be46e7f"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_INITIAL_AUTHOR_UNCODED_SEAL.json",
+      "bytes": 12765,
+      "sha256": "7d1b5e4d46a2e5d4cd248f295e2f09f2578d7f6bb122248a53709b9041ef1784"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_LEDGER_APPEND_DECISIONS.json",
+      "bytes": 54432,
+      "sha256": "a3da0ca46eee614a9aeab29d03607af515fdd740f64045926d6c14b6e3f1adb0"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_ORIGINAL_UNCODED_IMAGE_NOTES.jsonl",
+      "bytes": 18036,
+      "sha256": "c1abde95112c21f851a229ed0ac035052d6165209010d8bd34ef13ad70f1b70b"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_ORIGINAL_UNCODED_TEXT_NOTES.jsonl",
+      "bytes": 154714,
+      "sha256": "60809053e89f0602120fd78bf5b1e6aeadf28e9c2fcb986ebf2cede4dee76aee"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_RECEIVING_AND_PROVENANCE.json",
+      "bytes": 35218,
+      "sha256": "3c50e75c0aab86d657cd85a168eb4bc35fc18657b94f1360e31ccb8a459758d4"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 37981,
+      "sha256": "02f7704563704abb6d90fc21ffdf3541f143996c67c2262e9910078990a9faf9"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_SOURCE_AND_READING_RECEIPT.json",
+      "bytes": 5825,
+      "sha256": "d64765c4135ae20b0e3cbfd9c07dc90f49cebc326771b1f3699fbdfca5fbf590"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_VOICE_REGISTER.json",
+      "bytes": 343768,
+      "sha256": "b20f2f73dceaf9ca2e88d959d25282b935700b6cac4725c5397ff94d7056f95e"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_VOICE_REGISTER.md",
+      "bytes": 124798,
+      "sha256": "a63e9e434b2b7335f252249b1360c77feaf4e5adaf5e8440d8a4dc80dd43e5b3"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CONTEXP01_EXPANDED_PUBLICATION_GATE_CLOSE.json",
+      "bytes": 3204,
+      "sha256": "1b882195ac9871b95b3740a8b03624366f6d21b3e5a589ffcdff99f569e46128"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CONTEXP02_EXPANDED_PUBLICATION_GATE_CLOSE.json",
+      "bytes": 3204,
+      "sha256": "dac49239d107ef923bf82c5dab98d3869c0a11765b0d8ac188e0d7e801111528"
+    }
+  ],
+  "reused_method_pins": [
+    {
+      "path": "series/konosuba/00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md",
+      "bytes": 13959,
+      "sha256": "f03a1cb89fc602260538454363ee399f8d50ec2a3442c02793e449e4b56c07f8",
+      "characters": 13959
+    },
+    {
+      "path": "series/konosuba/00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md",
+      "bytes": 21304,
+      "sha256": "77441e395e2cc355b182d36d12a7fb581bfce8dd3e567993d1e1c9f9da3513e6",
+      "characters": 21293
+    }
+  ],
+  "reused_method_reading_qualification": "Previously complete current-method/architecture readings in this continuing author execution; bytes freshly verified unchanged. No new current full rereading credit claimed.",
+  "current_native_after_view_notes_sha256": "eed8139484e8137a2b63271765bfaedc37ebbb942dbf9877d65cbc515bed45a3",
+  "scope_assessment_sha256": "66de57486a48e01b62fa1ff2f9444cf56b3dd2d22fae3d26a73cf619ba519843",
+  "new_discovery_sha256": "ed8937ce409d3ec373d49e4a7c6cd50cd19c4925be3046d6ebd0ed6487f44da4",
+  "exact_written_fragment_checks": [
+    {
+      "unit": "CONTEXP-01-U021",
+      "P": 28,
+      "fragment": "カレンと申します",
+      "exact_native_base_match": true,
+      "audio_or_native_human_claim": false
+    },
+    {
+      "unit": "CONTEXP-01-U021",
+      "P": 54,
+      "fragment": "従業員に代わり",
+      "exact_native_base_match": true,
+      "audio_or_native_human_claim": false
+    },
+    {
+      "unit": "CONTEXP-01-U021",
+      "P": 476,
+      "fragment": "お金を生み出す",
+      "exact_native_base_match": true,
+      "audio_or_native_human_claim": false
+    },
+    {
+      "unit": "CONTEXP-02-U020",
+      "P": 90,
+      "fragment": "俺はビート",
+      "exact_native_base_match": true,
+      "audio_or_native_human_claim": false
+    },
+    {
+      "unit": "CONTEXP-02-U020",
+      "P": 102,
+      "fragment": "レベル４",
+      "exact_native_base_match": true,
+      "audio_or_native_human_claim": false
+    },
+    {
+      "unit": "CONTEXP-02-U020",
+      "P": 103,
+      "fragment": "ゆんゆんって可愛い名前だね",
+      "exact_native_base_match": true,
+      "audio_or_native_human_claim": false
+    },
+    {
+      "unit": "CONTEXP-02-U018",
+      "P": 64,
+      "fragment": "このお金は代金です",
+      "exact_native_base_match": true,
+      "audio_or_native_human_claim": false
+    }
+  ],
+  "identity_qualifications": [
+    "Karen self-introduces as Donnelly head; MASK reported Karen stays unjoined, without certified distinct-person count.",
+    "Native アーシェア is complete spelling; earlier アーシェ was a prefix lead.",
+    "Beat/Clarice ordered role list suggests but does not individually tag both occupations. P112/P113 exclamations remain unassigned.",
+    "Anonymous individual/group/report roles remain source-bound; guard memberships unjoined."
+  ],
+  "source_layers": [
+    "direct action and owned speech",
+    "embedded written statement read by another actor",
+    "retrospective character report",
+    "focal narrator description and explicitly qualified impression",
+    "Kazuma business/causal inference",
+    "Megumin technical identification",
+    "Megumin accident conjecture",
+    "prospective authority/legal outcome, not performed verdict"
+  ],
+  "preservation_verification": {
+    "entering_models": 31,
+    "current_controls": 12,
+    "C22_8canonical_14private_4firsts": true,
+    "C21_16canonical_24private_8firsts": true,
+    "C20_five_cores": true,
+    "C23_17private_12firsts": true,
+    "immutable": 66,
+    "historical": 72,
+    "scores": 4,
+    "Dust_blank_fields": 14,
+    "SI_SY_null_fields": 28,
+    "scratch_files": 80,
+    "local_native_objects": 8,
+    "current_models": 52,
+    "control_baseline": "Accepted owner-integrated main controls preserved at a90722d065e56e8fe2c2131e4307e4fa03d0c289; epoch1 migration files remain historical,not current routing.",
+    "C23_15canonical_17private_12firsts": true,
+    "C24_three_cores_seven_private_and_profile_exact": true,
+    "C25_three_cores_seven_private_and_profile_exact": true,
+    "C25_nine_native_thirtyfive_delivery_exact": true,
+    "C26_three_native_eleven_member_twentyeight_delivery_exact": true,
+    "global_discovery_and_evaluation_four_surfaces_exact": true,
+    "scratch80_untracked": true,
+    "C26_seven_canonical_eleven_private_six_firsts_exact": true,
+    "private_WORK88_exact": true,
+    "C27_195_raw_deliveries_exact": true,
+    "global_four_owner_surfaces_exact": true,
+    "source_known_only": true,
+    "independent_or_grade_gain": 0,
+    "C27_twentyfour_frozen_private_and_eighteen_original_firsts_exact": true,
+    "C27_twenty_cores_compact_fragment_exact": true,
+    "C28_twenty_eight_cores_thirtytwo_private_twentyfour_original_firsts_exact": true,
+    "C28_eighty_nine_raw_deliveries_exact": true,
+    "WORK92_exact": true,
+    "current_C28_public_gate_exact": true,
+    "C29_thirteen_cores_seventeen_private_sixteen_original_firsts_exact": true,
+    "C29_sixty_eight_raw_deliveries_exact": true,
+    "WORK94_exact": true,
+    "current_C29_public_gate_exact": true,
+    "C30_nineteen_cores_twenty_three_private_twenty_four_original_firsts_exact": true,
+    "C30_thirty_three_raw_deliveries_exact": true,
+    "WORK96_exact": true,
+    "current_C30_public_gate_exact": true,
+    "C31_twenty_nine_cores_thirty_three_private_twenty_six_original_firsts_exact": true,
+    "C31_fifty_six_native_copies_exact": true,
+    "WORK98_exact": true,
+    "current_C31_public_gate_exact": true,
+    "C32_eleven_cores_fifteen_private_six_original_firsts_exact": true,
+    "C32_fortysix_native_deliveries_exact": true,
+    "WORK99_exact": true,
+    "WORK100_exact": true,
+    "current_C32_public_gate_exact": true
+  },
+  "current52_models_exact": true,
+  "new_current_images": 0,
+  "new_non_P_residual_claim": false,
+  "new_whole_source_or_unseen_or_independent_credit": 0,
+  "OCR_audio_new_human_external_model_or_independent_observer": false,
+  "same_informed_author_all_stages": true,
+  "all_contrasts_visible": true,
+  "formal_tiers_are_scope_candidates_until_receiving": true,
+  "exact_new_inputs_or_firsts_serialized": false,
+  "raw_media_in_repository": false,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "full_program_complete": false
+}

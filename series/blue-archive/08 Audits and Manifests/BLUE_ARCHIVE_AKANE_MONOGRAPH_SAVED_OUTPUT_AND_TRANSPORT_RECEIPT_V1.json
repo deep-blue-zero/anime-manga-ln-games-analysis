@@ -1,0 +1,968 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1",
+  "status": "PREPARED_EXACT_CANONICAL_DERIVATIVE_ROOT_INSTALLATION_PENDING",
+  "required_home": "P3-CHAR-AKANE",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+    "bytes": 40192,
+    "sha256": "dd80ccac34370044eb3ea553af618701da1ac74d48fa285d28fd3ead7bb67187",
+    "git_blob_oid_of_actual_bytes": "194a8b4add5da96a1a2a7014cb6fbe48079b8efc"
+  },
+  "all_immutable_local_input_tuples": [
+    {
+      "path": "MILLENNIUM_CNC_SEMINAR_MONOGRAPHS/BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+      "bytes": 39054,
+      "sha256": "7240991de4a6a46f12bbe4d88c902d3a4508be0646daf0816761700d54cd7882",
+      "git_blob_oid_of_actual_bytes": "f165a3209a20825c52af8826b656ea592b6e167b",
+      "lines": 140
+    },
+    {
+      "path": "ROOT_AKANE_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 6614,
+      "sha256": "734b0a86f16ea1468e521e045e447f951f40118c7dfab04cf17cd49f71b9e3cc",
+      "git_blob_oid_of_actual_bytes": "fbea6534ca7f791a01fd8b8c25d15b61adffa135",
+      "lines": 147
+    },
+    {
+      "path": "MILLENNIUM_CNC_SEMINAR_MONOGRAPHS/AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "bytes": 30263,
+      "sha256": "557c5d639d971d8b804853ca6129e9285f70e768028f47184068f244b0f6d11d",
+      "git_blob_oid_of_actual_bytes": "4f4ff885754a944e4e26d165600a8c3a3dce1461",
+      "lines": 526
+    },
+    {
+      "path": "MILLENNIUM_CNC_SEMINAR_MONOGRAPHS/AKANE_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "bytes": 111145,
+      "sha256": "f687beb8f36c333b52e21e26c113542b41484ccad0dd69d666248f8bd146b4db",
+      "git_blob_oid_of_actual_bytes": "f46536c826302b3b395cb62765a80dd2b8548b82",
+      "lines": 1847
+    },
+    {
+      "path": "MILLENNIUM_CNC_SEMINAR_MONOGRAPHS/AKANE_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+      "bytes": 18474,
+      "sha256": "a091ed3ed42598b3f0db791b8116dac7637a9e51907314ae2019cbc5d8129074",
+      "git_blob_oid_of_actual_bytes": "bd40217afed8c2784f2343409d82976c3bb83253",
+      "lines": 466
+    }
+  ],
+  "input_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AKANE_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "root_acceptance_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AKANE_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "transformation": "Only authority/frontmatter/current-scope framing, ROOT acceptance paragraph and explicitly disclosed historical-to-current status are changed. All original substantive body lines not named in the exact changed ranges are byte-equal and exhaustively mapped through EOF.",
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 5,
+      "canonical_line": 3,
+      "line_sha256": "144e33e39cce26e1cef5dcf9954c191ee2c12ed0d76b891449c51a68e4692364",
+      "line_text": "scope: P3-CHAR-AKANE"
+    },
+    {
+      "frozen_line": 6,
+      "canonical_line": 4,
+      "line_sha256": "c441b9bab688ffc4225d4f80e7462d4f70d7c822e9e504b18a233611366c106e",
+      "line_text": "source_responsibility: P3-F002"
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 5,
+      "line_sha256": "88503ebd1a66e875ee8d5bf54d6a3de2e8e22f196f99ba2626421f1ee31c0569",
+      "line_text": "dated_identity_route: P3-A076"
+    },
+    {
+      "frozen_line": 8,
+      "canonical_line": 6,
+      "line_sha256": "5cb9262bf6732d2deca774070259bb0997335f1e8d7bf9f306c64a22d63504de",
+      "line_text": "literal_identity: BA_PERSON_AKANE"
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 7,
+      "line_sha256": "65c389364b24dc9fafff956d85d572f096f51ef436c5dc71cfc4213ed9dcf42c",
+      "line_text": "variant_routes: [\"13000\", \"20019\", \"20057\"]"
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 8,
+      "line_sha256": "fe29c1e627b72a30db001e0c19112df1c4db62ea314775f221737ced0db3c3ca",
+      "line_text": "source_boundary: \"Accepted written analytical arguments at individually declared scopes; Cycle008 contextual authority; no new primary or performed credit\""
+    },
+    {
+      "frozen_line": 11,
+      "canonical_line": 9,
+      "line_sha256": "ed2e528e6315754c1403405723fcd84011f6ea85eca3bf6d98f192bf5d3300a1",
+      "line_text": "created: 2026-10-10"
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 24,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 25,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 26,
+      "line_sha256": "01ee3b03544258bfa8f05a873d32b76c9f3f483ee3ee93acfbbcec840756d339",
+      "line_text": "# Akane — chosen service, uncertain self, and the lives beyond a useful answer"
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 29,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 30,
+      "line_sha256": "9a33aac2c231771295cd2645089044fec6ce7af972d47a6880d6d3d5b2ba99b9",
+      "line_text": "## 1. Core thesis"
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 31,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 20,
+      "canonical_line": 32,
+      "line_sha256": "e0ad93bdb18e9e653d65c1dc78afff94fe2077d7b189b09d8a52a66d13e93575",
+      "line_text": "Akane makes service into a way of choosing company and presenting herself, but neither successful work nor an appreciative recipient settles who she is. Her strongest continuity is the effort to make a relation hospitable: cleaning a room, preparing tea, helping a teammate dress, giving handmade sweets, trying a classmate invitation, or asking to be seen beyond an assigned usefulness. That effort has its own pleasures. It also has costs, misunderstandings, failed desired endings and forceful methods. Polished courtesy can coexist with consequential demolition, an unfulfilled conversation, or a recipient whose ability to decline is restricted. A mature account therefore asks what she wanted, whom her action answered, what they could answer back, and what actually happened. [A01:13000/20019/20057; G12; E06; L65]"
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 33,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 34,
+      "line_sha256": "ed2c60ab6dad37048ea45a5d1c2527186feb667636492b69db16dceda951a84d",
+      "line_text": "This is a continuity of questions, rather than a single transition from perfect servant to authentic student. In the uniform private sequence, she corrects the adult's assumption that a true self is waiting to be revealed: she fears others discovering that she does not know herself. That disclosure makes earlier adaptive behavior legible without converting every earlier smile into a lie. She has already enjoyed cleaning, praise, tea, company and making sweets. She can sincerely like the things she does while remaining unsure how to recognize a self apart from other people's expectations. The classmates who welcome her glasses and permit her to give no explanation supply a relation that is not founded on a successful performance of an invented ideal. [A01:20057:003/005; L65:u17–32]"
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 35,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 36,
+      "line_sha256": "b482bfbcc2ab234e7fc75b63487d47ec3cc3667c89ceb1a473163d7fd8e4d0f5",
+      "line_text": "Nor does private uncertainty suspend public responsibility. On the ship, a familiar explosive routine breaks a changed brief, and Akane admits getting carried away. In another private operation, opponents end by seeking police protection from her while she reaffirms the use of bombs. These are serious contrary cases to automatic gentleness. Yet on the same ship she and Neru interrupt Karin's absorbed action against a resisting captive. She can identify and stop excess in another person's method while her own familiar methods remain insufficiently examined. The contradiction belongs in the character, rather than being repaired by a universally harmless comedy rule or a timeless cruelty diagnosis. [E06:004–006; A01:20057:006]"
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 37,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 38,
+      "line_sha256": "78f71175c597d7341ae041bd6c08ca04e7cb44f64e2bab92d500761cf2a986e5",
+      "line_text": "Her wanted life is consequently more than the avoidance of failure. It includes a freely chosen outing, a quieter early conversation, being the first face someone sees on waking or returning, an outfit properly noticed, learning a different bearing, confectionery craft, and enough proximity to feel company. Some are fulfilled locally; some remain requests or wishes. Their literary value survives whether they advance a mission. They expose the limits of reducing her to either an efficient C&C tool or an adult's desirable maid, and they also prevent the self-knowledge problem from consuming every ordinary satisfaction. [A01:13000:008/009,20019:002/005/006,20057:003/005/written; L65]"
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 39,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 40,
+      "line_sha256": "6a7cca62c7a19662dc5b986a42d8a30205730b60f6cdc0d4516e4c792949adcc",
+      "line_text": "## 2. Longitudinal arc"
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 41,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 42,
+      "line_sha256": "9f1964b4f456141d69939f667038aeb2b88fc199e4cdf35a2422ec29a0004f87",
+      "line_text": "The named base, bunny and uniform routes form a person-linked repertoire, not a verified calendar or growth ladder. The accepted private argument covers fourteen complete BOND/whole-MomoTalk pairs: base002/003/005/006/008/009, bunny002/003/005/006, uniform002/003/005/006. It also covers four written objects, including the uniform-linked costume's two repeated event channels. Local sequence and recollection may support particular comparisons; release dates, costume or episode numbering do not order every experience relative to Pavane, the ship or one another. Development can be discussed where the later action answers a locally preceding difficulty, without silently converting the complete pool into one smooth biography. [A01:197–349; C03:G07/G08/G12]"
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 43,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 44,
+      "line_sha256": "07dd597f068364f710bb7aa42bbca5e21d1efdeeed553cb9c7126f2cc5ef7a3e",
+      "line_text": "The base material already makes company distinct from usefulness. In005, Akane explains that she chose C&C because she was already a maid; this is her account of affiliation, not evidence of an innate vocation or every peer's motive. During an unsuccessful objective, time with the adult is happy before a chance encounter permits actual mission success. The later success cannot become the sole retrospective reason the company mattered. In002 she chooses to follow and help, enjoys the day, and leaves real ceiling damage and an alarm. In003 actual cleaning follows, but proposed ceiling repair is not completed onscreen. These endings keep participation, practical achievement and residual cost separate from the outset. [A01:13000:002/003/005]"
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 45,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 46,
+      "line_sha256": "89d37de312de1d230f7ca7304c62ea30af5c205cca85884a9e779cdd663e61db",
+      "line_text": "The bunny repertoire opens another distinction: she wants an appreciative gaze that does not end at competence. A rare day off contains many wants left unenumerated, and the adult's confusion or social-risk objection can end an encounter without a definitive favorable opinion of the outfit. Cleaning can be largely completed while an unlocked-room visit and a forced either-or outfit question remain relational pressure. A different café lesson yields real quiet handling and pleasure in learning a bearing, although the adult continues to misunderstand the purpose. When she asks to show another side in006, paperwork is actually completed overnight and praise supplies local reassurance; neither proves that her self-judged insufficiency as a maid was objectively true, nor that one productive night resolves a lasting need to be seen. [A01:20019:002/003/005/006]"
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 47,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 48,
+      "line_sha256": "b67296f83ec9ebd51483e6ffcec2b76610e0c64664870085514624714d5b9228",
+      "line_text": "The uniform sequence stages a more explicit search for a position among classmates. A politely refused invitation and the peers' insistence that she is not a nuisance coexist with her feeling a wall. Only when asked about her own feeling does she cautiously name a little loneliness. The adult does not have to prescribe universal sociability for that feeling to be real. The subsequent radio/avatar coaching, contact lenses and name performance do not straightforwardly succeed: peers notice the strain and make room for her glasses and for silence about its cause. She chooses to explain wanting to become closer, and actual food, arcade and singing company is enjoyable. Their independent welcome, rather than the adult's script alone, makes the local outcome possible. [A01:20057:002/003]"
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 49,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 50,
+      "line_sha256": "c53a1475da2b91a1f632f31eb2040671487dd2c6dfa1590f6d903487379d8aaf",
+      "line_text": "In005, that outward success does not end the inward question. Akane's disclosure that she does not know herself changes the object of inquiry from exposing a hidden essential personality to tolerating uncertainty without losing the possibility of a relation. Listening and thanks are actual; the suggestion that she may have only one confidant is not a global census or an obligation of exclusive dependency. A private-room claim, a narrated inability to refuse a nod, and a quieter classroom alternative preserve an adverse or uneasy permission texture beside gratitude. The sudden unnamed act is not licensed evidence of a specific kiss, hug or object. Even the whole-message tail retains the adult's loneliness at her early departure and her embarrassment. The scene leaves useful trust and unfinished company together. [A01:20057:005 and whole MomoTalk]"
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 51,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 52,
+      "line_sha256": "b961de8f6bcb363a5ff62cb4c25903fa9fe95f77e78597ac301bcb5c38df282e",
+      "line_text": "Public comparison adds continuity without supplying a missing date. Pavane uses genuine C&C assignments, collective opposition and distributed authorship rather than revealing a teacher-created team. Akane explicitly corrects Rio's attribution of the students' victory to Sensei alone. The ship supplies a contrary operational error and local admission; the group café supplies financial appraisal and unresolved resistance to permanent conversion; the gift supplies a chosen student-to-teacher frame and shared eating. These contexts answer different questions. None supersedes the actual classmate outing, erases the destructive private ending, or proves a single irreversible passage out of service. [M21:013–020; M22:012–025; E06; G12; L65]"
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 53,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 54,
+      "line_sha256": "fb338ee55c9237939aaec60d4ea1b74194068c786f3b2fe5e8fe1604ba11466e",
+      "line_text": "## 3. Public and private self"
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 55,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 56,
+      "line_sha256": "be5e7d5dae969c51e1f8b50cfdd688675335ec221188bcc61d680b57f460a816",
+      "line_text": "Akane's public politeness is work she can perform well and enjoy. Preparing a disguise, helping with dressing, making an environment welcoming and correcting operative vocabulary are not mere symptoms of a concealed lack of self. They are specific abilities and choices with identifiable recipients. The ship also shows her asking the adult not to stare during changing: courtesy has a boundary, and the accepted argument preserves an actual privacy request rather than treating the joke as surveillance permission. A helpful appearance does not entail limitless access to the helper. [E06:003:u49–77; G12:1203:u43–46; A01:13000:003]"
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 57,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 58,
+      "line_sha256": "b37f2ddf43fd8b99bdc11474930e90427a45464d9d39a9f83e9a8ce7b11595e7",
+      "line_text": "Private service can be chosen, but its direction still matters. In the base008 early-waking scene, Akane wants conversation sooner, while the adult actually goes back to sleep. Being drawn into bed produces surprise, objection and an initial misunderstanding before local warmth and preparation. Her punishment request is not permission for every unrelated contact, and no unnamed sexual act is supplied. In009 welcome, tea and rest are offered as repayment, but all-day adult labor and the whole-message workload complaint keep a recipient's cost visible. Her wish to greet waking and returning is not an established shared home or lifelong daily routine. Hospitable intention and fulfilled mutual availability are different facts. [A01:13000:008/009 including whole messages]"
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 59,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 60,
+      "line_sha256": "d42baf53e0dbc9153c7ea8986a96048ff44f242d755a65159c4fac8afaa587a9",
+      "line_text": "Adaptive self-presentation becomes a difficulty when she cannot locate what she wants apart from what a situation asks. The uniform classmates' welcome provides one response: they notice something strained, accept the familiar glasses, and offer inclusion without demanding a confession. Akane's later explanation is her choice. The self-disclosure to the adult provides another: she names uncertainty rather than accepting the proposed answer of a concealed true self. The difference is consequential. A person can receive recognition from classmates without being solved, and a trusted conversation can matter without establishing that no peer could understand her. [A01:20057:003/005]"
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 61,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 62,
+      "line_sha256": "ee1dbc1b60d5f3b18371ae51e725bf7c40f2d15d4574a879d62d4dddf67b921d",
+      "line_text": "The strongest opposing evidence to a neat public/private division is ordinary pleasure shared across those settings. A genuine student initiative in GROUP3101 asks for technological-development funds to make carrying cleaning tools less burdensome. Yuuka identifies the proposed compressed-hot-gas device as an existing flamethrower and refuses novelty funding. The rejection does not make the initiative secretly a C&C mission request or erase Akane's curiosity and disappointment. In the gift encounter she expressly likes making sweets, confirms handmade authorship, and chooses to offer them as one student to her teacher. These are positive selves in action, not simply a softer private face underneath a single public role. [G31:3101:u25–46; L65:u17–32]"
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 63,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 64,
+      "line_sha256": "67351f6906d9d0cb2212cd65a2d724d9d93b3a7adc218bca04fc2619717c5efd",
+      "line_text": "## 4. School and club role"
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 65,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 66,
+      "line_sha256": "cb72687633d67089241cbb021c3d0cfc7e4a1176539eb52350685ff306ec5ebc",
+      "line_text": "Her C&C affiliation is both a chosen self-description and a setting in which service, force and accounting conflict. Akane reports choosing the club because she was already a maid, while the accepted public arguments show a security and task-bearing group rather than an ordinary domestic employment contract. GROUP1201 begins with humming and an invitation to clean. Asuna takes joy in dust, Neru objects to spectacle, and Karin's formulation that clearing people is not cleaning keeps the peers' judgments independent. Their machinery and dramatic methods yield costs, promises to improve, and Yuuka's further request for quiet work; a large-invoice coda defeats the accounting standard of that promise. No itemized loss, payment or full restitution is printed. [A01:13000:005; G12:1201:u2–7/47–81]"
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 67,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 68,
+      "line_sha256": "94afe86bd4769e53bdf360de5fb672bd17f080f6cf1679fa7cca777661ec8d4f",
+      "line_text": "GROUP1202 then turns a municipal-festival café request into an internal dispute about commitment. Karin reports prior signing and withdrawal costs, Asuna acknowledges signing, and Akane states an internal absence-delegation rule; Neru refuses. These facts establish a claimed club process and a conflict about being bound while absent. They do not display the instrument, certify legal validity or show Neru's freely given assent. Akane's calm articulation of the rule is consequential institutional conduct, rather than neutral housekeeping simply because she speaks politely. Yuuka's request and uncertain remit likewise do not establish statutory powers. [G12:1202:u20–79]"
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 69,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 70,
+      "line_sha256": "09b3a8d7c53cb3dd3df51ec7814b33ec899df1034fa3e41fa7b65e4301d8396f",
+      "line_text": "The subsequent café supplies actual practical accommodation. Akane praises and helps arrange Neru's appearance while accepting the jacket boundary and negotiating permission for hair. She corrects slips between operative and customer vocabulary. Asuna opens before preparation is complete. A week later Yuuka reports earnings and thanks the club for coverage, but this is an actor's appraisal rather than audited transfer or paid repair. The proposal to abandon the maid form for permanent, more profitable agent work meets Neru's refusal and threatened reaction at the ending; no later enacted strike or permanent reorganization follows. The institution remains a live disagreement in which Akane can accommodate a person's appearance while defending a disputed process elsewhere. [G12:1203:u1–26/43–59/60–88]"
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 71,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 72,
+      "line_sha256": "de40280b5508786ffeb4fd1e6427b10406e1b54fecd2caac2924ce8b442dd1f2",
+      "line_text": "Pavane further limits an obedience-only reading. C&C's initial security work is a genuine assignment, yet the coalition can oppose an erroneous attribution and exercise initiative when the assignment changes. The C001 checkpoint preserves tactical forecast failure, Karin's fire, Akane's escape, Asuna's intervention and Yuuka's reserves within a distributed confrontation; it does not make every detention licensed. C002 preserves students' diversion, route-making, hypotheses and enacted countermeasures. Akane's correction of Rio's teacher-only explanation insists on that distributed authorship. Her institutional role can include service, resistance to an account of service, and a claim for peer achievement at the same time. [M21:013–017; M22:012–022]"
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 73,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 74,
+      "line_sha256": "20adfe9d8b7c066fe5b52d83abd60c01c948e23537533302abfc7497b91455b0",
+      "line_text": "The C&C institution remains a separately required package. This monograph does not complete its contract, assignment, force or fiscal arguments merely by discussing Akane's part in them. Likewise, GROUP3101's student proposal is expressly distinguishable from mission-funded C&C work. The refused invention offers no demonstrated firing, burning, universal incompetence or comprehensive safety test. It is one student's wanted contribution, answered by another student's funding judgment. Treating the refusal as proof that ordinary curiosity is analytically trivial would lose the very institutional distinction the scene makes. [G31:3101:u25–46; accepted scope P3-CHAR-AKANE]"
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 75,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 76,
+      "line_sha256": "2383968aabd16f4ef1bae373f95c32ca45391dda36dc5bc2c36b4a346caeb41c",
+      "line_text": "## 5. Ordinary life"
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 77,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 78,
+      "line_sha256": "e63cd815ad034b93135eafe7e6498c39c8957242a2fb78e86e7a3d837cd93f47",
+      "line_text": "Tea, sweets, cleaning and company are substantive desired objects. In the gift encounter Akane acknowledges the adult's bomb anxiety, apologizes for habitual behavior, denies producing a bomb today and intends restraint around the adult. She also directly confirms making the confectionery and expresses liking for the craft. The handmade object is therefore neither an actual explosive nor only camouflage for agent capacity. She qualifies the relation as a student giving to her teacher, asks for acceptance, and receives represented alternative appreciations followed by her own embarrassment and thanks. Written narration actually closes on shared eating and elegant time, with a local high-grade taste comparison. The promise of future restraint remains unverified, and local deliciousness is not an inspected market ranking. [L65:u1–32/choice1–3]"
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 79,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 80,
+      "line_sha256": "331e1e05555f41ac618fdff189ad3e360bfa87be092c86a72803b09243ae4504",
+      "line_text": "That ending matters beside the wanted conversation that fails. Base008 makes the wish to talk earlier visible before the adult goes back to sleep; its warm later texture does not retroactively supply the missing conversation. Bunny005 similarly permits real learning and satisfaction while the adult continues to misunderstand the café purpose. Uniform003 achieves the outing and welcome; uniform005 gains listening but retains an early departure. A life measured only by instrumental success would mistake these distinct endings for one generic affection event. A life measured only by failure would erase the actual eating, learning, outing and gratitude. [A01:13000:008,20019:005,20057:003/005; L65]"
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 81,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 82,
+      "line_sha256": "84ade43418c19ef15108441c22cc2ba3e7e100874b660152895ba7cb705dfb4f",
+      "line_text": "The complete written repertoire broadens rather than replaces these stories. Base contexts include tea, pranks, diet worries, calls and contextual terms for teacher, master or darling. Bunny contexts offer rabbit play, cherished time, cold-weather company and birthday pleasure beside infiltration and C4 wording. Uniform contexts include a to-do list, homework, cake, furniture, a preferred teacher address, ordinary class and shrine-birthday company, and the desire for enough proximity. Fireplay jokes or employment-like scripts are not demonstrated hiring, regulation, purchases or enacted explosions. Static age and school-year profile values are not measured growth between costumes. A service-facing written line can still contain a real imagined pleasure without becoming a performed action. [A01:written13000/20019/20057]"
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 83,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 84,
+      "line_sha256": "e7b258af9c2906cdabf42a2a67e9a7b26a2f01e086a8755835e8baa525225645",
+      "line_text": "The uniform-linked costume has no profile prose and forty-six contexts divided into twenty-three EVENT843 and twenty-three EVENT10843 channels. Those are two source channels for one written object, not two automatically independent events or proof of a completed exposition timeline. Guidance, food, hospitality, company, student/maid contrast and questions about tickling retain value at their written contextual scope. The named costume route does not fill an event's missing person or variant joins, and the mere recurrence of wording does not multiply biographies or establish how every recipient answered. [A01:written1900953001:20057]"
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 85,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 86,
+      "line_sha256": "d7703f714525086d4f5eae2b5616d7f73b3e4d93040f0467f2aa3587baac9f37",
+      "line_text": "Her pleasure also survives peer disappointment. The proposed cleaning invention is refused, the rare day off does not receive every wanted outfit answer, and the uniform script proves strained. Yet she authored a proposal, wanted several unenumerated activities, and chose closer company. Neither the funding refusal nor the social risk means those wants were insincere. The actual classmates' welcome makes a modest but important distinction between appearing effortless and having room to be present. Her uncertain self is not an absence of tastes; it is a difficulty in organizing sincere tastes, roles and others' expectations into a self-description she can trust. [G31:3101; A01:20019:002/006,20057:002–005]"
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 87,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 88,
+      "line_sha256": "fcf42308e73257a761a3c94e20b290b83a1a1f8d0e22b57cb83b4cc94961361e",
+      "line_text": "## 6. Crisis behavior"
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 89,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 90,
+      "line_sha256": "09d427941853b5d5e1b2257652433b918ea23409dd8ad4e9aedab9090882b93c",
+      "line_text": "The ship changes the brief without automatically changing Akane's familiar method. Encouragement and praise accompany buoyancy, and the accepted argument locates her admission of getting carried away and reverting to routine. C4 produces exposure after the timer reaches zero. She admits fault, receives Neru's local support and continues toward the next task. This is a causal adverse case for an otherwise useful operative. It neither establishes timeless incompetence nor warrants describing damage as harmless because the scene is comic. Qualified later effort or reported completion leaves costs and missing resources open. [E06:004:u27–73,005:u1–19,011s2]"
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 91,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 92,
+      "line_sha256": "d4a4a5f42955ce32bc2ca6153413af599f574397a6db6f36859300a295784250",
+      "line_text": "The captive scene is a second, different test. Karin proposes a method hoped to be painless and smiling; the adult permits that hope, but the held person repeatedly resists, pleads and is prevented from answering. Coerced laughter is not consent or a medical finding of no harm. Neru and Akane interrupt when Karin fails to hear calls and becomes absorbed. Akane explicitly names the violence in the alternative rather than treating the method's polite framing as decisive. That intervention deserves its full local force while remaining distinct from a global guarantee that Akane herself always respects restraint. The Japanese text does not name the physical method at the same unit where Korean does, and a mismatched Karin tag on a recipient's plea must remain a source seam. [E06:006:u73–134; checkpointL179/186]"
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 93,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 94,
+      "line_sha256": "2c1f23e790b7208fe17bebd27ae905c851b371e797dbaf360bb0bc31452af4f4",
+      "line_text": "Base006 makes rescue costly rather than flawless. Akane initially intends delayed C&C contact, and the adult's intrusion exposes her. She appreciates the intention but worries about the explosive exit's effect on the adult and withholds a proposal. Kaiser employees order the hostage-floor explosion; the local survival and reported collective capture do not supply complete medical recovery, lawful custody or an uninjured rescue. Pain and thanks survive the outcome. The adult's involvement matters, but her own assessment and decision about risk are not reducible to a recipient passively saved by him. [A01:13000:006]"
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 95,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 96,
+      "line_sha256": "55552bfb3fc37487259ff7b6887ccfd7b40783ccb84b61fd7d43b2dba0330dbf",
+      "line_text": "Uniform006 presents a harder contrary ending. Akane tries conversation, police and a mitigation transaction; opponents refuse and make claims about policy, jurisdiction and rejection. Those claims are not verified institutional law. At the end they request surrender and police protection from Akane, who reaffirms bombs. The whole-message coda reports study preparation complete and the adult reconsidering education policy. It does not narrate civilian release, final detention, injury totals, repair or a proportionality review. Completing the preparation does not wash away the reversed fear relation, and a comic reversal does not authorize inventing hidden benign outcomes. [A01:20057:006 and whole MomoTalk]"
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 97,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 98,
+      "line_sha256": "aa508c1767ccb007a703c8f3fe9137e3a9a288d83ae685303d7a1a96cd682ef9",
+      "line_text": "Pavane supplies a different crisis setting in which collective authorship is an achieved action, not merely a promise. An elevator countermeasure involves Momoi's earlier idea, Yuzu's enactment, Chihiro's hypothesis and hacking, C&C participation and Neru's victory; Akane corrects Rio's attribution to Sensei alone. The checkpoint's ending distinguishes Alice's social return, Neru's discharge, Toki's uneasy tolerance and Rio's apology/resignation/disappearance. Discharge is not combat clearance, tolerance is not universal forgiveness, and apology is not completed accountability. Akane's contribution should therefore be named at its exact scope, without awarding her peers' feats or filling the arc's unfinished tails. [M22:021–025]"
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 99,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 100,
+      "line_sha256": "5126a5e4e8d500d9c6ae494111367b2a2cead0a8fe2cf2b1dd35bc47709b7008",
+      "line_text": "## 7. Relationship with Sensei"
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 101,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 102,
+      "line_sha256": "5728117a3d60483feb8a491c358708af16655f92f3b25a6cc5402f9f1e53c1d1",
+      "line_text": "Service to the adult is an offered relation with several vocabularies, rather than one invariant contract. Base005 declines the substitutes of brother, sister or teacher in a particular master-name discussion; the gift chooses teacher/student wording; uniform written contexts prefer teacher. Contextual difference is evidence about address and chosen framing, not a contradiction requiring a permanent canonical title or an automatic romance. Both handmade acceptance alternatives and the narration of shared eating preserve reciprocal local appreciation without deciding a lifelong relationship. [A01:13000:005/written20057; L65:u22–32]"
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 103,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 104,
+      "line_sha256": "d711eadc62bc0eeb894896a335bb1b8d80cb24db4e63f196156f495a5bbb4fcb",
+      "line_text": "Akane sometimes gives labor, sometimes seeks attention, and sometimes receives care. Actual cleaning, tea preparation and overnight paperwork are meaningful gifts of effort. The wish to show a different side and receive an outfit opinion makes attention a wanted object in its own right. The adult can offer identity reassurance after work without having manufactured her motives. His continued misunderstanding of the café or failure to remain awake also means appreciation does not provide effortless access to her desired company. A useful and warm relation can have unequal labor, mistaken expectations and unfinished answers. [A01:13000:003/008/009,20019:002/005/006]"
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 105,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 106,
+      "line_sha256": "fd77ce50a3e63fcd880719478d302f4f7b617df347bd2abe01b0975214d213aa",
+      "line_text": "The uniform confidence scene is strongest when its contrary permissions remain visible. She chooses to disclose not knowing herself, asks how others could meet a self she cannot identify, and thanks the adult for listening. This is actual trust. Yet a narrated inability to refuse a nod and an unnamed sudden act do not constitute blanket affirmative consent. The quieter alternative is not the same event as every offered adult reply. The whole-message early-departure tail retains the adult's missed company and her embarrassment. A statement that he may be her only confidant cannot be converted into a diagnosis, an exclusive claim on her, or proof that classmates' independent welcome is meaningless. [A01:20057:005 and whole MomoTalk]"
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 107,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 108,
+      "line_sha256": "1f3cc98134bd03394df889c80ba4704f757aebd3e7447b1cf2f125b45ce9b0a8",
+      "line_text": "The ship likewise refuses guaranteed adult control. The adult respects Akane's changing-room request and offers some restraint, yet a strike is excused and the supposedly painless questioning continues while the captive resists. Peers supply the stopping action. In the gift, Akane herself names the adult's anxiety and proposes a bounded adjustment before choosing the student frame. Adult gratitude has a place; so do adult silence, misunderstanding and costs, and her capacity to originate a relational correction. Her character does not depend on making every meaningful change an adult's success. [E06:003/006; L65:u1–30]"
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 109,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 110,
+      "line_sha256": "9a07de2976538e3341f3d32f3d74ac0eb8e52418a11d94fe56c6755435abe923",
+      "line_text": "## 8. Major peer relationships"
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 111,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 112,
+      "line_sha256": "b6055c90255ae819f5e5c5b7ec64b7d59775c7a206abce0e7523184615a12c06",
+      "line_text": "Neru gives both authority and personally scoped responsiveness. Akane states the contested absence-delegation rule while Neru refuses the café commitment; later she accepts the jacket boundary and secures a narrower hair permission. On the ship, Neru supports her after the explosive error, while both interrupt Karin's excess. These acts do not establish a universally consensual command relationship or erase Neru's unwanted pursuit of Koyuki. They show that response to a person can differ across assignment, appearance, error and restraint. The same pair can care locally and remain involved in disputed coercive arrangements. [G12:1202/1203; E06:005/006/010]"
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 113,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 114,
+      "line_sha256": "4b881e463bd30b323ffbaf18ef36bf8d21c049569b2f56afcf5ea0c8a466e03d",
+      "line_text": "Karin and Asuna are independent peers, not two reflections of Akane's service. Karin's concern about excessive force, operative vocabulary, alleged signing and later absorbed questioning have their own different recipients and limits. Akane can correct vocabulary and interrupt her without owning Karin's remorse or proving permanent reform. Asuna can enjoy cleaning and welcome a new teammate, open the café too soon, publicize ship status, secure release and discard a valuable paper she does not understand. Those opposed consequences neither become a hidden shared maid strategy nor make one person's good result certify every other's judgment. [G12:1201–1203; E06:001–011]"
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 115,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 116,
+      "line_sha256": "ac8470602d8e0c28a436d9732ee55aa05003611f132b019b61f050503a8c16c6",
+      "line_text": "Yuuka answers Akane's initiative from another institutional position. She requests useful C&C work and scrutinizes cost, then refuses the student's proposed novelty device as an existing flamethrower. Akane's separate student status matters precisely because the proposal is not simply an operative expense. Public reassignment and private curiosity can meet the same accountant without being governed by one universally applicable response. Yuuka's reported earnings and cost concern are actor appraisals at named episodes, rather than an audited claim that all labor or damage has been fairly paid. Akane's own adult-directed service likewise does not complete Yuuka's independent ordinary or institutional package. [G12; G31:3101; C03:G02]"
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 117,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 118,
+      "line_sha256": "019d21ac36e5a800ce25be632c795b1ef3b46fadfe04ca2186e66111b2bda010",
+      "line_text": "The uniform classmates offer a peer relation beyond C&C. Their initial invitation, assurance that she is not troublesome, noticing of strain and welcome for the glasses are their acts. She feels a wall without proof that they intend exclusion, attempts a coached performance, and later chooses to explain the desire for closeness even after being permitted not to. The enjoyable outing is achieved; permanent friendship, every classmate's inner appraisal and complete relief of loneliness are not shown. Their welcome nevertheless resists the idea that an adult must supply every viable relation or that her uncertainty condemns her to a purely useful identity. [A01:20057:002/003]"
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 119,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 120,
+      "line_sha256": "c145809d55bf6ca2c5f1c6f0990bcb64740fb7a9fd6a7e82c9911cb955600457",
+      "line_text": "Pavane's peers deserve the authorship Akane explicitly defends. Momoi, Yuzu, Chihiro, Yuuka, Noa, Engineering, Eimi and other coalition members act at their own scopes; a group cover report does not award Akane each shot or technical operation. EVENT825's Toki friendship choice, GDD work and late actual enjoyable play deepen this institution's range, but no direct Akane act may be imported simply because she belongs to C&C. Its suspects-and-evidence report and future Valkyrie transfer remain Neru's account, not a completed Akane custody outcome. Peers supply institutional context without becoming interchangeable achievements. [M22:012–025; E25:001–016]"
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 121,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 122,
+      "line_sha256": "0d2a6db802381d421fe551a49e250b87ff5dfef5e6950f66ea8a5a766daaf2ae",
+      "line_text": "## 9. Language and written voice"
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 123,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 124,
+      "line_sha256": "13aead67c5af5b68cf84216fca726d11191ccf479ff2e3cd1d0b4861fbb92dc3",
+      "line_text": "Politeness is an expressive resource, not a certificate of gentleness. Akane's courteous invitations, apologies and small amused forms can accompany actual care, destructive routine, an intrusive outfit choice or a disputed rule. On the ship the hesitant request not to stare uses a recognizable privacy claim; the admission after C4 exposure and explicit comparison to violence give the same polite register consequential critical content. A stable written style therefore permits different appraisals and motives. It cannot be used to repair an uncertain speaker simply because a line sounds like her. [E06:003:u73–77,005:u12–16,006:u114; G12:1202]"
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 125,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 126,
+      "line_sha256": "97c5283dcc5fafe13612c657f2b1834c2bd8aa88dfd2d17915ea34375cbc5ccc",
+      "line_text": "Address tracks a present relation. The master-name discussion, teacher/student gift, uniform preferred teacher wording and other contextual affectionate names cannot be compressed into a fixed hierarchy of increasing intimacy. In the gift the Japanese comparison that recognition was expected to take longer differs from Korean's more explicit account of drawing it out and readily achieving the objective. Both must remain located rather than being silently made identical. Shared eating closes the written scene, while the elegant, luxury-product comparison is a local Japanese sensory judgment, not a market audit or heard delivery. [A01:13000:005 and written; L65:u22–32]"
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 127,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 128,
+      "line_sha256": "1d5e8bec5b74e312ee0d5bd4bd01433dcf2c67c36c2f5aac758232377db53845",
+      "line_text": "The complete private argument also distinguishes self-report, narration and whole-message controls. Stated loneliness is tentative, reported companionship before mission success is not an omniscient motive census, and an unnamed sudden action remains unnamed. The adult's alternatives cannot all become one enacted reply; source-character narration or italicization does not by itself prove silent thought or communicated inward wording. The glasses outing, overnight paperwork, preparation-complete tail and early departure have actual narrated endpoints; a wish, invitation, hypothetical joke or task proposal is not automatically performed. [A01:197–349; C02; C03:G09/G14]"
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 129,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 130,
+      "line_sha256": "d7f1a8a5fb38880094b2c0a0b8c6c35f6ef00321be5efb0405a5698488bf2357",
+      "line_text": "The ship's empty-first/text-bearing actor contrasts specifically matter to Akane. E001s2u75, E003u31 and E004u45 have text-bearing Akane after other empty portraits; E006u101 is a captive's plea under an extracted Karin label. The current accepted account preserves those seams without silently rewriting source fields or awarding every label count as a personal voice total. C&C group seams and an unjoined uniform quoted alias likewise remain local qualifications. No audio, voice acting, pitch, viewed changing-room image or performed touch is certified by these written arguments. Costume channels and voice-like character-data lines remain written evidence. [E06 checkpointL172–190; G12; A01:20057:003/written; C03:G10/G12]"
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 131,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 132,
+      "line_sha256": "daf0995c894a2d93b298fcb24850b0e0c65300187113870fa966df8428a4193c",
+      "line_text": "## 10. Competing readings"
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 133,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 134,
+      "line_sha256": "f2b6c333cf668eae6069446f1bf31d289bdbbe68e67a6ba1a8e28c3121d5eb71",
+      "line_text": "The perfect-servant reading explains her hospitality and useful accomplishments but fails the error, incomplete repair, wanted attention, missed conversation and uncertain self. It also treats the students' actual agency as incidental when she explicitly defends their authorship against a teacher-only explanation. The stronger interpretation keeps service as a real choice and capability while denying that capability settles identity or guarantees an appropriate method. The converse reading that every service act masks an empty self fails the explicit pleasure in craft, learning, cleaning, company and an achieved outing. Self-uncertainty is not proof that no preference is sincere. [A01; M22:021; L65; E06]"
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 135,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 136,
+      "line_sha256": "9c01c8a7cc95d73931f724351141e7950f1aa70a5a352033da521afcc9d6c07c",
+      "line_text": "A simple growth ladder from base obedience through bunny self-display to uniform authenticity can organize an attractive story but outruns the chronology and misses the endpoints. Base already contains chosen affiliation and company valued before success; bunny contains both genuine learning and continued misunderstanding; uniform contains peer welcome and self-disclosure alongside bombs, pressure and unsolved company. The more defensible claim is a widened repertoire of explicit questions and available relations, with locally achieved responses and recurring unresolved limits. Neither a costume nor one listened-to disclosure certifies that the self-search has ended. [A01:all fourteen pairs/four written; C03:G07/G12]"
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 137,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 138,
+      "line_sha256": "de11ab5bba654df2da0bc678f0519f12031f00e7c8051876e3b8e4ccdce38d38",
+      "line_text": "A universally gentle Akane is contradicted by the ship's C4 failure and uniform opponents' request for protection. A universally cruel Akane is contradicted by actual privacy negotiation, worried rescue appraisal, care in practical tasks and her intervention against resisted laughter. The contradiction should be kept as situated judgment: familiar operational habits may be damaging under a changed brief, and identifying excess in a peer does not prove adequate examination of one's own repertoire. No diagnosis or invariant behavioral mechanism follows. The captive and frightened opponents remain recipients whose adverse experience cannot be canceled by a useful or comic ending. [E06:003–006; A01:13000:006,20057:006]"
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 139,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 140,
+      "line_sha256": "da4fdf6086e7badd8573a5f87714cdba959251803f9ca2ba0b0c5530fd517d7e",
+      "line_text": "A teacher-created liberation story fails the classmates' welcome, Akane's independent student proposal, peer-origin stopping action and explicit defense of collective authorship. An account of entirely failed adult care fails actual listening, appreciated reassurance, shared confectionery and valued company. The relation is meaningful at finite scopes, with its own missed conversation, social-risk objections, pressure and uncertain acts. Its warmth need not become exclusivity, romance, ownership or a cure in order to matter. Her wish to be seen beyond utility remains intelligible even where praise responds to an actually completed task. [A01:13000:008,20019:002/005/006,20057:003/005; G31; M22; L65]"
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 141,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 142,
+      "line_sha256": "7ccb03927198a0d493aeef9e57e8010ae15b9c7bea8d549eeeb47a1b5317a3ad",
+      "line_text": "An institutional-success reading can point to earnings, local victories and reported return, but cannot close signature assent, reimbursement, harm, custody, lost uniforms or lasting reform. An institutional-failure reading can point to damage and disputed authority, but cannot erase actual useful work, finite support, coalition authorship and local accommodation. The relevant distinction is between an achieved action, an actor's report, a continuing objection and an unprinted tail. Preserving those categories permits a substantial character synthesis while leaving C&C's separate institution and every directed relationship responsibility intact. [G12; E06; M21/M22; E25]"
+    },
+    {
+      "frozen_line": 131,
+      "canonical_line": 143,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 144,
+      "line_sha256": "045fbc3485ba2b4f24a83573c0c93e55821d119e278723741cbe85487899d8cb",
+      "line_text": "## 11. Evidence route and remaining limits"
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 145,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 146,
+      "line_sha256": "3bcd2e73b3e02e43a4277637985316536c1fc5dd20deb6904cdffb83c3b5d7bc",
+      "line_text": "The source receipt binds each small accepted analytical owner by exact bytes, SHA256 and content-blob OID against c1 and main2e. Architecture1.12 differs from main's1.11 while its eleven mature-monograph sections remain equal. Current ROOT working acceptance controls are distinct from those historical source snapshots. Historical N353 accepted V2 supplies the exact required Akane home and responsibility at scope-control level; the subsequent ROOT N355 scope adds duties elsewhere without changing this home. Neither control proves literary completion. A01 supplies all fourteen private pairs and four written objects at its complete declared substantive scope. G12/G31 supply whole group arguments; M02/M21/M22 supply whole accepted Pavane arguments; E06 and its small current comparative owner supply the complete ship meaning; L65 supplies the complete gift argument paired with current Cycle008 authority; E25 supplies whole institutional/peer comparison only. Final's already received contextual account is used only for its explicit ordinary-roster comparison, with no newly discovered Akane Final act. [source receipt; C01–C04]"
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 147,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 136,
+      "canonical_line": 148,
+      "line_sha256": "fd1dfc72d164f61aec7393ca065ae77c326ceb2b7e637f699c452f6bc4411347",
+      "line_text": "The historical ship checkpoint and gift producer headers retain draft or pending admission language. Their literary arguments are reused under the current Cycle008 accepted contextual account and paired current ship comparison; this author does not grant them standalone new source-admission powers or recertify original producer, raw-field, primary, independence or audiovisual work. Complete analytical receiving is declared separately from whole-byte binding. No absent primary act is inferred from a source count, no unbound large file is read or hashed, and no ritual primary replay is claimed. The saved paragraphs and their consequential endings are individually joined to the declared accepted argument locators in the separate claim register. [C04; E06/E06C; L65; source and claim receipts]"
+    },
+    {
+      "frozen_line": 137,
+      "canonical_line": 149,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 138,
+      "canonical_line": 150,
+      "line_sha256": "3ece788e0064d958d7262352a746c4b6003cad0fbf4b52d3beb8fa14fb69c9fa",
+      "line_text": "All fourteen original gaps remain OPEN with different effects. G01 limits global ordinary breadth and enduring self-knowledge, while the received pleasures remain positive. G02 does not let Akane complete Yuuka's independent council/private transfer; G03 does not transfer her service to Serika; G04 does not close Hina's crisis accountability; G05 does not infer Arius or PS68 aftermath from Millennium. G06 limits universal cross-school and relation transfer, not the value of the actual classmates, guard and peer agency. G07 prevents a costume/event-ID calendar; G08 retains missing overarching titles and repeat channels; G09 retains choices, inward modes and exact actor seams; G10 excludes performed voice, image, music and physical staging; G11 receives no Hoshino/Yume provenance closure. G12 retains blank event joins, local roles, the quoted unjoined alias and separate variant/channel duties. G13 keeps signature instrument/free assent, compensation, safety, injury, hostage release, rescue, custody, uniform retrieval and durable change unproved. G14 keeps written jokes, wishes, preparation, future restraint and contextual costume lines at their actual modes. [C03; A01; G12; E06; L65]"
+    },
+    {
+      "frozen_line": 139,
+      "canonical_line": 151,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 3,
+      "canonical_line": 12,
+      "line_sha256": "bb914669cd55a7b273c7c953cc13af9416c336d813c7209977fd932f34e35a82",
+      "line_text": "artifact_type: character_monograph",
+      "transport_kind": "MOVED_BYTE_IDENTICAL_LINE"
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        3,
+        4
+      ],
+      "canonical_lines": [
+        3,
+        2
+      ],
+      "frozen_text": [
+        "artifact_type: character_monograph",
+        "status: working_candidate"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        12,
+        13
+      ],
+      "canonical_lines": [
+        10,
+        23
+      ],
+      "frozen_text": [
+        "ROOT_literary_review: PENDING",
+        "ROOT_adoption: PENDING"
+      ],
+      "canonical_text": [
+        "source_generation: BA_REFRESH_20260928T032248159554Z",
+        "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8",
+        "artifact_type: character_monograph",
+        "generation: V1",
+        "version: \"1.0\"",
+        "status: canonical",
+        "do_not_use_as_current_authority: false",
+        "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+        "review_state: ROOT_ACCEPTED_WITH_LIMITS",
+        "ROOT_literary_acceptance: ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+        "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL",
+        "updated: 2026-10-10",
+        "supersedes: []",
+        "superseded_by: []"
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        17,
+        16
+      ],
+      "canonical_lines": [
+        27,
+        28
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "",
+        "ROOT accepted the complete eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_AKANE_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_AKANE_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Source publication, main integration, separately required directed/institutional packages and full eligible-cast completion remain separate."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        140,
+        140
+      ],
+      "canonical_lines": [
+        152,
+        152
+      ],
+      "frozen_text": [
+        "The bounded literary endpoint is substantial but finite: Akane chooses and enjoys service, seeks recognition beyond use, welcomes a student relation and a peer outing, admits a routine error, defends collective authorship and sometimes helps stop excess. She also exerts pressure, uses alarming force, receives incomplete answers and cannot yet name a settled self. Actual cleaning, paperwork, classmate leisure and shared sweets remain fulfilled; conversation, exclusive availability, lawful commitments, comprehensive repair and a lasting cure do not. This is an author-complete character candidate pending ROOT's independent whole literary receiving and adoption. It supplies no model promotion, original primary/performed credit, relationship or institution completion, new denominator freeze or milestone claim."
+      ],
+      "canonical_text": [
+        "The bounded literary endpoint is substantial but finite: Akane chooses and enjoys service, seeks recognition beyond use, welcomes a student relation and a peer outing, admits a routine error, defends collective authorship and sometimes helps stop excess. She also exerts pressure, uses alarming force, receives incomplete answers and cannot yet name a settled self. Actual cleaning, paperwork, classmate leisure and shared sweets remain fulfilled; conversation, exclusive availability, lawful commitments, comprehensive repair and a lasting cure do not. ROOT accepted this complete character monograph with limits after independent whole literary receiving. It supplies no model promotion, original primary/performed credit, relationship or institution completion, new denominator freeze or milestone claim."
+      ]
+    }
+  ],
+  "source_argument_and_endpoint_credit": "Accepted original literary meanings/endings/recipient bounds and ROOT scopes retain their declared credit. Transport and public framing add zero literary, primary, performed, independent or identity-join credit.",
+  "ROOT_installation_pending": true,
+  "remote_publication": "NOT_YET_PUBLISHED",
+  "main_integration": "NOT_YET_INTEGRATED",
+  "full_required_scope": {
+    "packages": 355,
+    "mandatory_named_sections": 29,
+    "thresholds": [
+      89,
+      178,
+      267,
+      355
+    ]
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "no_separate_directed_institution_ensemble_completion": true
+}

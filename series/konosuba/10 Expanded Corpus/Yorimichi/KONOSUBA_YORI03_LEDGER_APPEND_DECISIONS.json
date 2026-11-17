@@ -1,0 +1,481 @@
+{
+  "schema": "KONOSUBA_YORI03_TEN_LEDGER_RECEIVING_DECISIONS_V1",
+  "created_utc": "2026-10-19T02:26:43.277928+00:00",
+  "baseline_commit": "fe08a355bc5c5743dd6500022bfa11cd7120974d",
+  "ten_current_prefix_controls": [
+    {
+      "ledger": "CS",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 273464,
+      "sha256": "2a9a702a646ac6c2e71494d50c05897700be258f7188f5d97235fb27124c3132"
+    },
+    {
+      "ledger": "RS",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 197170,
+      "sha256": "dfd7c31f697ae8148e571d568a4aae1d947f9a60669863497fda818e176e3f17"
+    },
+    {
+      "ledger": "HM",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 766965,
+      "sha256": "f90cb01108678a345d2538d2fc3fdce9f5d0336660cd820c5c9c13cebdd62e41"
+    },
+    {
+      "ledger": "JV",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 578148,
+      "sha256": "6046c45ef6122840e73978c0646e7d8b8b90a10bbf0d2b26575b8c852ff2ef07"
+    },
+    {
+      "ledger": "KN",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 174935,
+      "sha256": "bd4dc046ebbf49bfed2b9a32d3cc50301d849a6c184debcfc79771bdde34764b"
+    },
+    {
+      "ledger": "OP",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 168854,
+      "sha256": "062bae1d131bbc4118a69c3727f2a3ebcdff51c82c40796a00c3e903244ffc5f"
+    },
+    {
+      "ledger": "CC",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 191323,
+      "sha256": "c459664adde2d635ad1f60c5d5055a34ca0145094e3489149b55d09ab6bd5d1d"
+    },
+    {
+      "ledger": "SO",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 157151,
+      "sha256": "ebe77a3b7bd158cf441b2a232508027ef575dcc3ece89f2874c4a67cee22cd23"
+    },
+    {
+      "ledger": "DE",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 246614,
+      "sha256": "1ad3c9530ce1eedfc9d35ea0da9bf28788fc56fbaf4d89fb3485aea77dcb960d"
+    },
+    {
+      "ledger": "PV",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 105153,
+      "sha256": "df7723d090acb48612cbcf92332106f56dfbea5459f84b67e6a87f97c3dbfaa8"
+    }
+  ],
+  "rows": [
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-CS01",
+        "ledger": "CS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Kazuma: useful craft, actual costly aid and a harmful dignity phase",
+        "native_routes": "U012P145;U014P623–629;U018P36/374;U020P529–530/691–700/778–824",
+        "observation": "He genuinely rescues, works, learns, owns one suppression and seeks particular company, while also sustaining unwanted humiliation and coercive schemes.",
+        "implication": "Preserve agency and varied causes; no purely heroic, cowardly, universally deceptive or globally competent portrait.",
+        "authority_and_adverse_limit": "K03dignity-adverse material and real care coexist; no bodily-injury/pure-motive floor.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-CS02",
+        "ledger": "CS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Aqua: fitted service, own mistakes and status competition",
+        "native_routes": "U012P467–473;U016P363–385;U018P108/444–451;U020P325–338/567/654–667",
+        "observation": "Actual cures and independent sales coexist with ignored warnings, harmful exorcism, identity misuse and qualified target-fit comparisons.",
+        "implication": "Capacity, willingness, ethical scope and task success remain distinct.",
+        "authority_and_adverse_limit": "Current YORI02A01 additive controls prior claim; knowingly unfitted substitutes remain adverse candidates without invented ontology.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-CS03",
+        "ledger": "CS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Darkness: protection, civic means and particular boundaries",
+        "native_routes": "U014P274–397/538–565/583–629;U018P203/276/384",
+        "observation": "She actually protects, investigates, adapts and digs; she also uses questionable authority and refuses new humiliation after chosen pain.",
+        "implication": "Useful competence and mixed desires survive the offensive-miss label.",
+        "authority_and_adverse_limit": "No blanket consent, harmlessness, all-noble-law truth or fullD03fromeveryname.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-CS04",
+        "ledger": "CS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Megumin: chosen art, ordinary teaching and qualified bonded-opponent harm",
+        "native_routes": "U012P395–450/488–513;U018P118–144/313–318;U020P603/858",
+        "observation": "Sincere usefulness, effective ordinary teaching and particular concern coexist with game forgery, actual rival injury and bridge harm.",
+        "implication": "Art, status, contribution, care and self-defense differ by phase; do not reduce to a single spell slogan.",
+        "authority_and_adverse_limit": "No hypothetical sacrifice trial, fully prepared M03from output, or M02from an unbound utility wish.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-CS05",
+        "ledger": "CS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Wiz and Vanir: business, care, ownership, privacy and costly conflict",
+        "native_routes": "U016whole;U014P46–51;U020P685–718",
+        "observation": "Their funding conflict, ambiguous labor correction, farewell bids, real kin intervention, unauthorized sale and exhaustive resource fight provide varied causal settings.",
+        "implication": "Route to later evidence-proportional secondary models with ordinary preference and real adverse choices.",
+        "authority_and_adverse_limit": "No current final promotion, pure-kindness/omnipotence stereotype or invented complete private life.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-CS06",
+        "ledger": "CS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Chris and Yunyun: their own aims and imperfect care",
+        "native_routes": "U012P204–270/392–465;U014whole",
+        "observation": "Yun objects to imposed restraint then threatens and fights; Chris investigates, withholds, invades privacy, accepts finite help and later ignores a return plea.",
+        "implication": "Friendship does not erase independent goals, real skill, wrongdoing or recipient no.",
+        "authority_and_adverse_limit": "Do not backdate every divine secret from a profile or assume every protective account ethically fitted.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-RS01",
+        "ledger": "RS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "subjects": "Selected beginnings and changed unwanted conditions",
+        "native_routes": "U014P583–629;U016P79–125;U020P865–869",
+        "observation": "D's chosen pain becomes mental humiliation; Wiz rejects a disclosed labor meaning; K rejects unsigned permanent membership.",
+        "implication": "Consent is particular to person, method, scope and time; later help/pleasure/warmth does not authorize the imposed start.",
+        "authority_and_adverse_limit": "Recipient response and perpetrator stopping are separate; critical non-graphic handling.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-RS02",
+        "ledger": "RS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "subjects": "Particular company despite easier work",
+        "native_routes": "U016P149–159/348–354;U020P778–824/835–841",
+        "observation": "Wiz wants to be missed and valued as kin; K actually recruits remembered problematic people after successful easier living.",
+        "implication": "Practical dependence and particular affection coexist.",
+        "authority_and_adverse_limit": "No equivalent-person/durable-loss full test from a finite match or invented completed reunion elsewhere.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-HM01",
+        "ledger": "HM",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "subjects": "98purposeful literal whole effects",
+        "native_routes": "HUMOR_REGISTER",
+        "observation": "98selected effects retain actual agency, artifacts, false accounts, costs and refusal; allH1at the chosen causal level.",
+        "implication": "Fantasy, another timeline, deception or high intensity is not automatic H3/H4.",
+        "authority_and_adverse_limit": "Purposive selections are not a population census, accuracy denominator or claim every sentence is literal.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-HM02",
+        "ledger": "HM",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "subjects": "Two narrow central Japanese form mechanisms",
+        "native_routes": "U020P136/839;HUMOR_REGISTER",
+        "observation": "The marked person graph者and the printed変態/readダクネス equation require reconstruction/annotation for their particular written effect.",
+        "implication": "L3requires central form; ordinary polysemy, cat suffixes and workplace abbreviation remain contextual L2 here.",
+        "authority_and_adverse_limit": "The possible battle-weather allusion stays qualified rather than a new unsupported L3fact.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-JV01",
+        "ledger": "JV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+        "subjects": "146native-joined interval-time voice witnesses",
+        "native_routes": "VOICE_REGISTER",
+        "observation": "Alloriginal fragments match base or ruby-displayed native windows; one ruby-only match is explicitly located at839.",
+        "implication": "Actual addressee, statement force, speaker switch and branch state govern written voice.",
+        "authority_and_adverse_limit": "No audio/native-human/independent newJ01claim; original notes remain exact.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-KN01",
+        "ledger": "KN",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "subjects": "Diary speaker, temporary branches and fuzzy chronology",
+        "native_routes": "U018P444–457;U020threebranches;U021P4/7–8",
+        "observation": "K narrates except Aqua's actual diary entry; only he retains branch memory. The author supplies new stories and broad postMAIN07placement.",
+        "implication": "Interpret reports, performance and remembered alternatives at their actual source planes.",
+        "authority_and_adverse_limit": "No all-cast omniscience, permanent retcon, full TOC continuity or automatic later intimacy.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-KN02",
+        "ledger": "KN",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "subjects": "Disclosures change what was actually known",
+        "native_routes": "U012P373–378;U014P255/459;U018P308–310/357;U020P432/603",
+        "observation": "Location bounty replaces imagined capture; collar/graffiti/species/detector/rulebook disclosures revise earlier accounts.",
+        "implication": "Preserve earlier uncertainty and later correction instead of flattening either into omniscient fact.",
+        "authority_and_adverse_limit": "Do not infer ghost, species, legal rule or motive solely from appearance or outcome.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-OP01",
+        "ledger": "OP",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "subjects": "Material means and ordinary work are actual",
+        "native_routes": "U014P549–560;U016P55–116/363–385;U018P93/224–254;U020P529–530/667–724",
+        "observation": "Ropes, held-item targets, resources, design constraints, cooking, capture, construction, craft sales and leasing have real owners and limits.",
+        "implication": "Domain-specific competence and economic success constrain the caricatures.",
+        "authority_and_adverse_limit": "No successful absent ability, free provider, universally safe doll or neutralized privacy harm from profit.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-OP02",
+        "ledger": "OP",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "subjects": "Recovery, payment and operation ends",
+        "native_routes": "U012P145/467–477/517;U014P623–629;U020P855–882",
+        "observation": "Actual cooling, cures, restraint responses and apology requests differ from unresolved restitution, unsurrendered item, pending trips and planned banquet.",
+        "implication": "Give credit for actual requests/attempts without manufacturing completed closure.",
+        "authority_and_adverse_limit": "A continuing liability alone is not E03behavioral confirmation; a proposed ending is not executed.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-CC01",
+        "ledger": "CC",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+        "subjects": "Exact fit and own-error comparison",
+        "native_routes": "A01/M03assessments;YORI02additivequalification",
+        "observation": "Fitted cures work; a patient refuses before treatment; ordinary work/frog errors occur; M damages a bridge after failing to adjust power.",
+        "implication": "Independently bind adopted scope, access, target, resources and known parameters before output.",
+        "authority_and_adverse_limit": "No ontology rescue, no full prepared guard from survival, no erased known-unfitted substitute or forcefully favorable missingness.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-CC02",
+        "ledger": "CC",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+        "subjects": "Changed methods and competing purposes",
+        "native_routes": "U014P176–199/475–490;U020threebranches",
+        "observation": "K actually revises entry/work/healing methods and achieves some immediate goals, yet repeated provocation defeats the stated wish to avoid Aqua.",
+        "implication": "Separate immediate revision, ultimate outcome, active goal and independently expressed revenge.",
+        "authority_and_adverse_limit": "Do not invent a changed objective from abandonment or call every later unrelated act a revision.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-SO01",
+        "ledger": "SO",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+        "subjects": "Unwanted dignity harm and accountability",
+        "native_routes": "U014P617–629;U016P469–517;U020P847–863",
+        "observation": "D's explicit pleas fail to stop household exposure; Wiz continues after surrender/apology; bound K is carried until counterclaims change the interaction.",
+        "implication": "Comedy preserves harm, agency and recipient response alongside warm attachment.",
+        "authority_and_adverse_limit": "No injury-only threshold, all-consent ending or automatic model retirement from a local contrary.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-SO02",
+        "ledger": "SO",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+        "subjects": "Actual admitted wrongdoing with honest counterexamples",
+        "native_routes": "U014P213/231;U016P239–242;U018P374/449;U020P420/858",
+        "observation": "Selective excuses and self-acquittal coexist with K's candid responsibility and sincere budgeting thanks.",
+        "implication": "A conditional mechanism must allow concrete variation; separate desired innocence from every ordinary explanation.",
+        "authority_and_adverse_limit": "Aqua's first-person excuse is not K's; uncertain exactK07trigger is stated rather than honest admission erased.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-DE01",
+        "ledger": "DE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+        "subjects": "Whole edition and individually identified internal planes",
+        "native_routes": "U001–026;IMG001–026",
+        "observation": "Five long stories3006P plus54Ptextnonfiction,22diaryframes,threeartifactbranches and separately viewed image-text planes.",
+        "implication": "Each unit, narrative subframe, residual and image has an accountable identity.",
+        "authority_and_adverse_limit": "No separate electronic bonus, no extra credit for a duplicate teaser or original source merely extracted.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-DE02",
+        "ledger": "DE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+        "subjects": "Immutable source-first history and prior additive correction",
+        "native_routes": "Prebodyseal/wholeuncodedseal/YORI02A01additive",
+        "observation": "Complete actual source receipt precedes formal98H/146V/31principal/8party/4typed work; all17oldYORI02streams preserved.",
+        "implication": "The pre-body target-fit correction is current and attributable while original reports remain historical.",
+        "authority_and_adverse_limit": "R1/current66/historical72/fourscores/14blankfields/originalPVprefix remain exact; sameinformedroot not independent.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-DE03",
+        "ledger": "DE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+        "subjects": "Remaining whole-program boundary",
+        "native_routes": "YORI03nextboundary",
+        "observation": "After exact publication gate and fresh reload, YORI04andall17mainexcludedprograms precede syntheses/StageD/secondarymodels/indexes/componentreleaseaudit.",
+        "implication": "Book count is not narrative-denominator completion.",
+        "authority_and_adverse_limit": "18of19supplemental gates only after this fullgate; globalpercentage remainsnull.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-PV01",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "subjects": "31principal exact unchanged-contract informed comparisons",
+        "native_routes": "EXPLORATORY_LOCAL_ASSESSMENTS",
+        "observation": "Compatible acts, qualified/adverse dignity and judgment material, and incomplete triggers receive explicit case-specific arguments.",
+        "implication": "Later attributable model revision may use this evidence without changing R1 or old scores.",
+        "authority_and_adverse_limit": "No newC/P/F/NTtotals, retrospectiveblindness, known-threat-onlyK08or hypotheticalM04trial.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "YORI03-WHOLE-PV02",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "subjects": "Eight party comparisons and four typed integrity checks",
+        "native_routes": "E01–E08/T01–T04",
+        "observation": "Real handoffs, cue-directed requests, clarification, boundaries and outsider initiation coexist with missing bad-metric/durable-loss/full-risk conjunctions.",
+        "implication": "Typed provision/knowledge/permission constraints are not behavioral confirmations.",
+        "authority_and_adverse_limit": "Perpetrator stopping is not E06; source-world magic or unilateral harm is not automatically nonliteral or inconsistent.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-19T02:26:43.277928+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    }
+  ],
+  "full17responsibility_report": "YORI03_DEEP_READING_DRAFT.md",
+  "frozen_models_scores_and_original14blanks_changed": false,
+  "prediction_storage_continuation": "03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+  "source_plane_precision": "Actor, disclosure time, narrator, actual performance, branch memory, literal refusal, pending end and retrospective account remain individually attributed. Current YORI02A01 additive binds all comparisons."
+}

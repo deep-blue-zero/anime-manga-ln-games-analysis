@@ -12,13 +12,18 @@ source_revision: 32
 governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
+version: '2.1'
 created: '2026-08-24'
+revised: '2026-11-15'
+revision_note: 'Source-to-analysis audit 2026-11-15 corrections (PRESERVE / STRENGTHEN / REVISE / OPEN): one coordinated §9 edit modelling the Producer branch by branch (new §9.2.1, §9.2.2, §9.13), Sena–Tsubame bounds and stages (§5), U1 trio and Worst Three corrections (§3, §4), China–Kanae succession (new §8.7.2, SL1.2), and narrowed open questions; earlier formulations kept recoverable'
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM RELATIONSHIP SYSTEMS II - RIVALRY, FRIENDSHIP, CLASS, AND SUCCESSION
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** Applies the source-to-analysis audit's post-review change plan to this synthesis; each addition is dated and carries its audit ID (`GKM-SAA-nnn`, or `HSCA-nnn` for historical-audit items). §9 is edited once, so that the Producer node is modelled branch by branch: new §9.2.1 (Mao, Lilja, Rinami, Ume, Temari and the U1 witness function, track by track), new §9.2.2 (U1, the one shared-Producer state), additions to §9.5, §9.8, §9.9 and §9.11, and new §9.13 (Producer invariants). Also: §3.2, §3.3 and §3.9 (U1 trio; Kotone's profile); §4.1 and §4.11 (the Worst Three attribution REVISED; earlier wording quoted in place), §4.4, §4.5 and OPEN-RS2-05 (narrowed); §5.3, §5.4, §5.5, §5.9 and §5.11 (Sena–Tsubame stages, bounds and the wager); §7.4; §8.1, §8.6, new §8.7.2 (China–Kanae, SL1.2) and §8.8; §10.7; §13.7; §16.5; and the SL1.1 section (D-TSUBAME routing). Sources are Source Lock 1.0 unless marked SL1.1 or SL1.2; the front-matter `source_boundary` is unchanged. The principal thesis stands. This is the file's first `version` key.
 
 ## 0. Purpose, authority, and principal thesis
 
@@ -201,6 +206,8 @@ For Temari, `friend` can threaten to imply softness, obligation, or a level of d
 
 Behavior is therefore the stronger evidence surface.
 
+**The U1 founding contract (2026-11-15; GKM-SAA-278).** In `U1` the label negotiation starts from declared dislike. When Kotone invites Temari, Temari says she dislikes Kotone and Saki; Kotone answers that she dislikes Saki too. Temari laughs, decides that troubling people she dislikes will not hurt her conscience, and joins; in inner speech she feels that with these new partners she need not hold back (`adv_unit_01-01_13.txt` L521–L658). Mutual dislike frees Temari from SyngUp-era guilt. Late in U1 she calls the unit her 'hated, worst-compatible... reliable enemies' (`04_18` L729), and Kotone tells Misuzu she dislikes Re;IRIS too (`04_17` L475–L491). This closes the label question for `U1` only (`C1 @ U1`).
+
 ## 3.3 Domain authority moves among the three
 
 The trio becomes mature when leadership is situational.
@@ -245,6 +252,13 @@ Kotone contributes:
 Her danger is converting every received benefit into debt and treating time as a resource that must always produce income or measurable return.
 
 Together they become a **reciprocal specialization network**.
+
+**Track-labelled additions (2026-11-15).**
+
+- *Kotone's uneven profile (GKM-SAA-053).* Kotone's rated strengths are dance and visual; her persistent technical weakness is vocal. In `D-KOTONE` the Producer tells her in more than one choice branch that she has great talent, is very cute and sings badly (`adv_dear_fktn_005.txt` L173, L189). In `C-KOTONE` 011 he estimates her vocal, dance and visual talent at about 0.4, 100 and 100, revises the vocal figure to 2, and retracts 'bad' altogether because her singing has become a weapon (`adv_cidol-fktn-3-011_02.txt` L111–L166; C4). The trio's vocal authority is Temari's for that reason; it does not mean Kotone lacks performance skill. `GKM_CORE_03_FUJITA_KOTONE.md` owns the profile claim.
+- *U1 Kotone ↔ Saki (GKM-SAA-282).* Kotone begins with hidden instrumental contempt: in inner speech she already dislikes Saki and means to use her to rise (`adv_unit_01-01_05.txt` L155–L178). Saki wants Kotone as leader because she trusts her, but says so only after Kotone has left, too embarrassed to say it herself (`03_01` L678–L708). Kotone later tells both partners she is glad she formed the unit with them (`03_11` L554). `C1 @ U1`.
+- *Saki's older-sister register with Kotone (HSCA-136).* In `C-KOTONE` 000 Saki offers, as 'お姉ちゃん', to hear Kotone's worries, and coaches her to sing her own song with unembarrassed self-praise (`adv_cidol-fktn-3-000_02.txt` L58, L133–L221; C4). Here Saki's Ume-derived register reaches a peer in the domain of self-belief, not bodily care.
+- *Temari revives Saki (GKM-SAA-163).* In `U1` Temari revives a broken Saki by returning Saki's own recruitment speech ('あのときの言葉、そのまま返してやる！', `adv_unit_01-04_09.txt` L482), while denying that it is encouragement ('励ましてない。', L548). Care travels in the abrasive register of §3.4.
 
 ## 3.4 Conflict is part of the access grammar
 
@@ -333,6 +347,8 @@ The trio therefore demonstrates that developmental work need not be monopolized 
 - **REJECT:** friendship implies permanent unit compatibility.
 - **STRENGTHEN:** socioeconomic difference changes what equal effort and equal access mean.
 - **OPEN:** how stable the friendship remains when major title outcomes place one member far above the others in a route-specific state.
+  - *Partly answered (2026-11-15; GKM-SAA-188).* In `C-KOTONE` 016 Kotone's biggest fear before a high-profile live is not fan comparison but disappointing the two peers who acknowledge her (`adv_cidol-fktn-3-016_01.txt` L137–L163; C4). In SL1.1 `D-KOTONE` 034 Temari, who is not competing, tells Saki and Kotone she is glad they are classmates and names them Class 1-1's representatives (`adv_dear_fktn_034.txt` L384–L468). In these states peer asymmetry is absorbed as mutual witness. A major title gap is still untested.
+- **STRENGTHEN (2026-11-15):** in `U1` the trio is founded on declared dislike that releases Temari from SyngUp guilt, and its care travels in an abrasive register (§3.2, §3.3 notes; GKM-SAA-278, GKM-SAA-163, GKM-SAA-282).
 
 ## 3.10 Reconstruction rules
 
@@ -355,7 +371,7 @@ When simulating the trio in a new situation:
 
 The trio originates in one of the cleanest social transformations in the event corpus.
 
-China, Ume, and Hiro discover that their entrance positions are poor. Rather than allowing the ranking to isolate them, Ume proposes the self-authored `Worst Three` identity and a shared future in which their weak start becomes part of the story they will someday tell as idols.
+China, Ume, and Hiro discover that their entrance positions are poor. Rather than allowing the ranking to isolate them, the three turn the ranking into a shared identity: in Event 002 Hiro names them the school's `ワーストスリー` and 'comrades of fate' (`adv_event_002_main-01.txt` L300–L302), and Ume supplies the shared climb, '3人で、這い上がっていこうね！' (L323). The framing of the weak start as a story they will someday tell as idols is the Producer's, in two of the three choice branches of Ume's Produce event, and Ume adopts it; in the remaining branch her own contribution is the promise that all three will debut (`adv_pevent_001_hume_activity_008.txt` L23–L80). In `U1` the label is China's (`adv_unit_01-03_02.txt` L338), and the trio disperses before forming a unit: Hiro declines to join a unit in which she would hold the others back, and Ume sets off to find the strongest partners (`03_03` L335–L494). 'Self-authored' remains correct as a description of the event-track trio. *(Revised 2026-11-15; GKM-SAA-127, GKM-SAA-136, GKM-SAA-280; HSCA-162. Earlier formulation: "Ume proposes the self-authored `Worst Three` identity and a shared future in which their weak start becomes part of the story they will someday tell as idols.")*
 
 The important point is not positive thinking.
 
@@ -421,6 +437,10 @@ Rivalry therefore creates something early Hiro lacks:
 
 Her development toward professional responsibility becomes more intelligible once weakness is no longer a private experiment.
 
+**E014 tests the limit (2026-11-15; HSCA-085).** In Event 014 Hiro says she had always expected that her hobby would one day hold someone back, and had resolved to accept it; but she has made friends, and holding a friend back is something she cannot bear (`adv_event_014_main-03.txt` L300–L331). She adds that she does not like this kind of suffering (L459). In event continuity, shared stakes override her preferred difficulty when a friend would bear the cost (OPEN-RS2-05 is narrowed accordingly).
+
+**Scope of the Producer conclusions (2026-11-15; GKM-SAA-219).** Outside Hiro's own tracks, Sena semi-produces her: in `D-CHINA` Hiro says Sena has been doing 'producer-like' work for her, including making her goods (`adv_dear_kcna_014.txt` L39–L91), and in `D-TEMARI` Temari describes Hiro as half-produced by the council president (`adv_dear_ttmr_029.txt` L69). Conclusions about the Hiro–Producer relation are therefore scoped to Hiro's tracks.
+
 ## 4.5 China learns that hospitality must model the recipient
 
 China's inherited resources are real and unequal.
@@ -436,6 +456,8 @@ It is:
 > **resource asymmetry becomes less enclosing when the resource-holder learns to use abundance to enlarge shared agency rather than purchase deference.**
 
 China's later willingness to use Kuramoto resources to strengthen Hiro as a rival follows the same principle.
+
+*(2026-11-15; GKM-SAA-286; GKM-SAA-102.)* The same principle governs authority as well as abundance. In `D-CHINA` China refuses to have fans' votes ordered for her, because affection on command is not idolhood and the Kuramoto name is a talent whose use carries responsibility (`adv_dear_kcna_011.txt` L181–L241). At SL1.2 she refuses to command Kanae into a dream (§8.7.2).
 
 ## 4.6 Competence exchange makes dependence nonshaming
 
@@ -506,7 +528,7 @@ The private relation predates and exceeds office assignment.
 
 ## 4.11 China/Ume/Hiro claim transitions
 
-- **PROMOTE:** the Worst Three is a self-authored social identity, not fandom shorthand.
+- **PROMOTE:** the Worst Three is a self-authored social identity, not fandom shorthand. *(Scope revised 2026-11-15: self-authored at trio level in the event track; Hiro names it, Ume supplies the shared climb, and the story framing is the Producer's in two of three branches; in U1 the label is China's and the trio disperses. See §4.1.)*
 - **STRENGTHEN:** the trio is a secure friendship cluster with private-life access.
 - **STRENGTHEN:** friendship and rivalry coexist without forcing hierarchy.
 - **PROMOTE:** asymmetric competence exchange is the central mechanism of reciprocity.
@@ -514,6 +536,7 @@ The private relation predates and exceeds office assignment.
 - **PROMOTE:** internalized friend-models are direct evidence of relational incorporation.
 - **STRENGTHEN:** future distance does not automatically terminate the bond.
 - **REJECT:** shared low status means similar abilities or similar attitudes toward difficulty.
+- **STRENGTHEN (2026-11-15):** in E014 Hiro refuses difficulty whose cost a friend would bear (§4.4 note; HSCA-085).
 
 ## 4.12 Reconstruction rules
 
@@ -572,6 +595,8 @@ Systems II therefore preserves both propositions:
 
 Tsubame matures when admiration can survive a Sena who is no longer safely perfect.
 
+**Retirement stages and Sena's counter-voice (`D-TSUBAME`; 2026-11-15; GKM-SAA-029, GKM-SAA-148).** The late retirement conflict has an early stage that must not be erased. When Sena announces that she will quit, Tsubame answers '……私は、嫌だ' (`adv_dear_atbm_003.txt` L360–L364), and her goal becomes blocking the retirement by defeating Sena (L440). By Dear 010 the aim works through the joy of rivalry: 'だから、アイドルは辞めさせない', so as to make Sena realise that competing with her as professionals is the greatest joy (`adv_dear_atbm_010.txt` L322–L338). Accepting the retirement is a late development, which Tsubame herself calls 'ただの私のエゴ' when she says she wants Sena to continue (`adv_dear_atbm_024.txt` L250). The premise that idolhood was imposed on Sena is what Tsubame perceived. Sena answers that aiming to be an idol was also her own will (`adv_dear_atbm_024.txt` L512) and that Tsubame always overestimates her (`adv_dear_atbm_012.txt` L314); in Event 021 she marks Tsubame's ideal of her as Tsubame's ('燕にとっては、そうでしょうね', `adv_event_021_main-03.txt` L243).
+
 ## 5.4 Rivalry fails when the rival becomes unreachable
 
 The worst version of the Sena/Tsubame relation is static No.1/No.2.
@@ -588,6 +613,8 @@ Comparison runs both directions.
 
 > **A viable rival must be reachable enough to challenge and different enough to remain informative.**
 
+**How reachability failed, from both sides (2026-11-15; GKM-SAA-093, GKM-SAA-251).** In `D-TSUBAME` the late crisis is triggered by a misheard offer. Tsubame tells Sena that from now on she will carry Sena's burden (`adv_dear_atbm_019.txt` L366). She means sharing it, as she later tells the Producer ('私も一緒に、背負ってやれる', `adv_dear_atbm_020.txt` L166–L170), but Sena hears succession ('燕になら、任せられるわ', 019 L387) and cites it as her reason (`adv_dear_atbm_021.txt` L594). At Dear 024 Tsubame explains that she meant 'together', and Sena admits she used Tsubame's words as a reason to give up (`adv_dear_atbm_024.txt` L578, L633). From Sena's side, in `D-SENA` she thinks, without being able to say it, that Tsubame overtook her long ago and stalled behind her by keeping Sena as the target (`adv_dear_jsna_026.txt` L84–L90, inner speech); Sena also recalls their shared first-year Selection failure (`adv_dear_jsna_025.txt` L264–L294). Reachability failed in both directions: in Sena's view Tsubame aimed too low by aiming at Sena, and in `D-TSUBAME` Sena read an offer of partnership as a release. The tracks are kept separate.
+
 ## 5.5 Private knowledge does not expose public perfection as fake
 
 Support and event material gives Tsubame unusually intimate access to Sena's ordinary states: childhood memory, leisure, food awkwardness, private anxiety, old home access, and moments in which the public crown is not operating.
@@ -597,6 +624,8 @@ This does not make the stage persona fraudulent.
 It gives Tsubame evidence of how much work is required to create it.
 
 This is a broader corpus principle: role permeability is not mask exposure.
+
+**Bounds on mutual knowledge (Event 021; 2026-11-15; GKM-SAA-030).** Tsubame's reading of Sena is real but bounded. At the observation deck it is Tsubame who recites their childhood exchange, and Sena says she does not remember it that far (`adv_event_021_main-05.txt` L258–L274). Sena confides the pressure of being at the summit to Rinami, not Tsubame (`adv_event_021_main-04.txt` L47–L92), and keeps her envy of Tsubame's 'wings' in inner speech (`adv_event_021_main-05.txt` L355). Tsubame's claim that Sena can rely on no one but her (L175) is Tsubame's statement, not the narrator's. This complements §5.7: even the pair's private channel misses affective information.
 
 ## 5.6 Tsubame functions as institutional conscience
 
@@ -656,6 +685,10 @@ It creates the next contest.
 
 That is **renewable rivalry** at a vocational scale.
 
+**The wager frees the choice, not the outcome (`D-TSUBAME`; 2026-11-15; HSCA-019).** The wager follows Tsubame's acceptance in Dear 024 that Sena may retire. In Dear 027 Tsubame says she no longer trusts Sena's word, so Sena must promise: if Sena wins the winter H.I.F. she may do as she likes; if Tsubame wins, Sena joins 100 Pro after graduation and keeps fighting her as a same-agency rival 'until her soul burns out' (`adv_dear_atbm_027.txt` L285–L308). Sena accepts: Tsubame, who saved her, has the right to ask this, and entrusting her future to their contest is not bad (L424–L433). The wager does not dictate Sena's future; it makes the choice answerable to a contest Sena consents to.
+
+**A cross-track invariant (2026-11-15; GKM-SAA-285).** Sena's plan to retire is turned back in each track by someone whose agency differs by track. In `U1` she plans to retire from Begrazia (`adv_unit_01-04_14.txt` L381) and retracts it after Re;IRIS defeats Begrazia (`04_23` L93; §8.7.1); Ume's declared wish to keep performing with her (`04_14` L617–L700) and the Re;IRIS defeat both bear on the turn. In `D-TSUBAME` it is Tsubame, through the wager above. In `D-SENA` Sena recalls that she had resolved to retire, lamenting her lack of talent (`adv_dear_jsna_009.txt` L343), and after winning with the Producer she keeps the producer goal but defers it 'much further' (`adv_dear_jsna_010.txt` L177–L182). The invariant is the turning-back; who turns her back is bound to the track.
+
 ## 5.10 Succession must not turn Tsubame into "the next Sena"
 
 Tsubame can inherit institutional responsibilities, songs, training obligations, public standards, and winner's responsibility without becoming Sena's replacement personality.
@@ -680,6 +713,10 @@ The institution loses information if it treats succession as cloning.
 - **REJECT:** private imperfection proves Sena's idol form fraudulent.
 - **PROMOTE:** renewable rivalry is a chosen future architecture.
 - **OPEN:** how much of the bond later monographs should describe using romance-coded language beyond the textually secure language of love, jealousy, and lifelong contest.
+- **REVISE (2026-11-15):** in `D-TSUBAME`, Tsubame first refuses Sena's retirement; acceptance is a late development she calls ego; the 'imposed idolhood' premise is Tsubame's perception, which Sena contests (§5.3 note; GKM-SAA-029, GKM-SAA-148).
+- **STRENGTHEN (2026-11-15):** unreachability fails in both directions, and the `D-TSUBAME` crisis turns on a misheard offer of shared burden (§5.4 note; GKM-SAA-093, GKM-SAA-251).
+- **STRENGTHEN WITH BOUNDARY (2026-11-15):** Tsubame's knowledge of Sena is real but bounded in Event 021 (§5.5 note; GKM-SAA-030).
+- **REVISE (2026-11-15):** the winter wager frees Sena's choice, not its outcome; Sena's retirement is turned back in every track by a track-specific agent (§5.9 notes; HSCA-019, GKM-SAA-285).
 
 ## 5.12 Reconstruction rules
 
@@ -850,6 +887,8 @@ The strongest senior/junior scenes are reciprocal.
 
 Tsubame studies Ume's movement because Ume exceeds her in one physical domain. Sena lets Ume teach her an ordinary summer ritual. Mao and Sumika can solve outreach problems by provoking authentic rather than formally correct behavior. Senior status survives because the senior can learn without experiencing learning as status collapse.
 
+**Tsubame as the senior who loses and blesses (2026-11-15; GKM-SAA-097).** In other idols' Dear tracks Tsubame is repeatedly the senior obstacle at the Selection who loses and then publicly acknowledges the winner. In `D-SUMIKA` she concedes to Sumika and acknowledges Lilja and REVERSI (`adv_dear_ssmk_032.txt` L113–L177); in `D-SAKI` she tells Saki that she has found a weapon of her own (`adv_dear_hski_032.txt` L31–L68); in `D-RINAMI` she says she has watched Rinami's effort since their first year (`adv_dear_hrnm_032.txt` L20–L55); in SL1.1 `D-KOTONE` she tells Kotone to be proud that she beat her (`adv_dear_fktn_032.txt` L22–L84). In `D-SUMIKA` the reflex 'この私が、星南以外に負けるだと！？' (L31) persists late in the year, so the individuation of `D-TSUBAME` is route-specific. In `D-MAO` Tsubame is relieved when Mao enters 100 Pro (`adv_dear_amao_022.txt` L203–L226). This answers the Tsubame core's falsifier about blocking juniors from surpassing her; the core owns that claim.
+
 ## 7.5 Stopping can be legitimate care
 
 Tsubame stopping Hiro or Kotone is important because Gakumas often celebrates determination.
@@ -892,7 +931,7 @@ A senior imagines:
 
 The corpus repeatedly rejects this as incomplete.
 
-Kotone refuses Sena's successor category and demands rivalry. Ume corrects Sena's one-way legacy logic. Tsubame refuses to let Sena replace her own competitive life with mentoring. China inherits the presidency while explicitly lacking Sena's individual governing style.
+Kotone refuses Sena's successor category and demands rivalry *(scope added 2026-11-15, GKM-SAA-010: she refuses designated succession, 'あたしはアンタの後継者になんてなりたくない' (`adv_dear_fktn_017.txt` L474), but in SL1.1 `D-KOTONE`, having won, she takes up Sena's pride and duties toward juniors (`adv_dear_fktn_037.txt` L197–L214); this is the earned function transfer of §8.2, not a refusal of inheritance)*. Ume corrects Sena's one-way legacy logic. Tsubame refuses to let Sena replace her own competitive life with mentoring. China inherits the presidency while explicitly lacking Sena's individual governing style.
 
 ## 8.2 Healthy succession transfers function
 
@@ -963,6 +1002,8 @@ The senior does not get to retire into interpretive sovereignty while the junior
 
 This is why Sena's project matures toward circulatory legacy rather than self-erasure.
 
+*(2026-11-15; GKM-SAA-112.)* `U1` gives an independent Kotone ↔ Sena case. Sena noticed Kotone during spring break and kept coming to her workplace to scout her, which Kotone took as jokes; Sena says she meant all of it (`adv_unit_01-04_22.txt` L240–L252). She resents the Producer for taking 'my Kotone' (`04_02` L371). After H.I.F. she concludes that she is a poor scout (`04_22` L391). Kotone's inner thought that Sena must have been her saviour (`04_22` L446) is Kotone's counterfactual. Repeated scouting is a cross-track invariant shared with `D-KOTONE`.
+
 ## 8.7 Graduation does not require relational disappearance
 
 Support material allows seniors to imagine returning as alumni, maintaining professional rivalry, continuing community participation, and remaining available without occupying the same office.
@@ -970,6 +1011,20 @@ Support material allows seniors to imagine returning as alumni, maintaining prof
 This is a crucial temporal correction.
 
 Succession does not require the predecessor to die socially so the successor can be real.
+
+### 8.7.1 Sena's reversal in U1 Begrazia (HSCA-004)
+
+Sena's initial retirement plan applies a rule about unit contribution to herself. She expects Ume or Misuzu to surpass her and says Begrazia needs no 「足手まとい」. In private with Saki, whom Sena calls her mirror, Sena says Ume makes giving up harder and claims the Prima Stella title for herself. Both senior competitors admit uncertainty they usually conceal from juniors. After Re;IRIS defeats Begrazia in the unit contest, Sena retracts retirement. She cites frustration and her own judgment that her performance was Begrazia's best, while accepting Misuzu's numerical comparison. Ume disputes Sena's ranking. Sena distinguishes idol ability from numerical score, and Ume reminds her of the school event constraint on graduates. Sena's continuation and the eventual school unit roster remain separate questions (`LOC-HSCA-004A`–`004D`).
+
+This is C1 @ U1. It strengthens succession as a change in function while preserving Sena's unresolved plan for Begrazia and the distinct career and title outcomes of other tracks.
+
+### 8.7.2 China and Kanae — succession modelled on Sena, without command *(SL1.2; 2026-11-15; GKM-SAA-102, GKM-SAA-286)*
+
+*Boundary note.* This document's declared source boundary is SL1.0. This subsection records SL1.2 evidence from the Kanae Dear track, in the way the 2026-11-12 SL1.1 refresh section records its sources; it does not change the boundary statement. Track: Kanae's Dear track (SL1.2) unless marked. Primary reading: `GKM_HIWATARI_KANAE_SOURCE_LOCK_12_READING.md`.
+
+China models her role for Kanae on Sena's role for her: as she admired Sena and aimed at idolhood, she must be a shining existence for Kanae (`adv_dear_hkne_002.txt` L466–L474). She acts it out in a summit promise. China tells Kanae she may aim at Prima Stella; Kanae answers that she will first follow the road China walked; China promises to give the summit to no one until Kanae arrives (`adv_dear_hkne_009.txt` L557–L589). This is a succession case in the §8.2 sense: a function, the light to aim at, passes forward while the recipient sets her own pace.
+
+China also refuses to command Kanae into a dream. If she ordered it, she says, Kanae would obey, and the dream would become maid's work; so she asks the Producer to give Kanae an occasion to dream instead (`adv_dear_hkne_001.txt` L264–L282). The same non-command principle governs China's refusal, in `D-CHINA` (SL1.0), to have fans' votes ordered for her (`adv_dear_kcna_011.txt` L181–L241). Together they extend §4.5: authority and abundance are used to enlarge the other's agency, not to purchase deference. The relation is not one-way admiration: China envies Kanae's made-up appearance (`adv_dear_hkne_005.txt` L414–L423). The register China reserves for Kanae is routed to the Japanese voice-and-register ledger.
 
 ## 8.8 Succession claim transitions
 
@@ -979,6 +1034,8 @@ Succession does not require the predecessor to die socially so the successor can
 - **STRENGTHEN:** cultural repertoire and mundane care rituals are institutional inheritance.
 - **PROMOTE:** rivalry can be a superior successor relation when it keeps the predecessor answerable.
 - **STRENGTHEN:** graduation changes access/office but need not terminate relationship.
+- **STRENGTHEN (2026-11-15):** Kotone refuses designated succession but embraces earned inheritance in SL1.1 `D-KOTONE` (§8.1; GKM-SAA-010); `U1` adds an independent Kotone ↔ Sena scouting case (§8.6; GKM-SAA-112).
+- **STRENGTHEN (2026-11-15, SL1.2):** China–Kanae is a succession case modelled on Sena and governed by non-command (§8.7.2; GKM-SAA-102, GKM-SAA-286).
 
 
 ---
@@ -1016,6 +1073,33 @@ Across route-bounded states, Producer can function as:
 These functions rhyme, but they are not one simultaneous biography.
 
 Any Phase-7 reconstruction must preserve route-specific authority and continuity.
+
+### 9.2.1 The Producer branch by branch *(2026-11-15; source-to-analysis audit, one coordinated §9 edit)*
+
+The list above omits Mao, Lilja and Rinami, and models Saki, Temari and Ume from the idol's side only. The table records each track's Producer separately. Each row is one track's relation; the rows are not stages of one biography, and "the Producer" in a row means that track's Producer. Romance-coded material follows the owner policy (record, bounded, OPEN): it is recorded with its branch labels and counterevidence, and no romance conclusion is drawn.
+
+| track | the Producer's function in that track | principal locators | bearing on the §9.5 risk | audit ID |
+| --- | --- | --- | --- | --- |
+| `D-MAO` | holder of the promise that becomes the relational contract. His single-option vow (Dear 004) is renewed as a 約束 (Dear 020). When he presents his removal as the condition of Mao's 100 Pro entry and calls the replacement 'more than adequate' ('申し分のない'), Mao invokes the promise ('約束したじゃないですか'), and later acts before he does. He tells Asari the decision is Mao's, 'as a producer', until Asari reframes a producer's first duty as entrusting one's own dream to the idol's; he later admits he should have answered at once that only he can pursue her dream with her | `adv_dear_amao_022.txt` L360–L414; `adv_dear_amao_024.txt` L19–L27, L81–L90; `adv_dear_amao_026.txt` L74–L75; mutual vow `adv_dear_amao_027.txt` L712–L733 | the clearest test case **for and against** interpretive monopoly. Mao refuses his reading of her future and acts first, which answers the Mao matrix's own falsification target; at the same time her stated need for this one Producer deepens. Outside `D-MAO`, Mao invokes the promise only in branch-bound P1/P3 failure scenes (e.g. `adv_pstory_001_amao_after-audition-mid-failure-01.txt` choice 1, L52–L59) | GKM-SAA-001, GKM-SAA-058 |
+| `D-LILJA` | partner in a bilaterally signalled, explicitly deferred attachment. Lilja's own idol-time barrier ('アイドルなので', C-LILJA 005; 'アイドルなので、今はまだ', C-LILJA 012, a dream; both C4) is mirrored from the Producer's side when he says he will tell her once she is no longer an idol | `adv_cidol-kllj-3-005_01.txt` L25–L32; `adv_cidol-kllj-3-012_03.txt` L339; `adv_dear_kllj_037.txt` L368–L375; jealousy ambiguity in both directions, `adv_dear_kllj_022.txt` L392 vs `adv_dear_kllj_026.txt` L249–L253 | deferral is a boundary both keep, not unilateral enclosure. Counterevidence: his literal glosses keep deniability, her stated wishes stay professional, and nothing romantic is stated outright. Romance conclusion OPEN | GKM-SAA-014 |
+| `D-RINAMI` | co-dreamer whose professional idiom shapes Rinami's lifelong vow, and the one Producer whose doubt the idol sees. He tells her he is always uncertain and has often wished he were a real magician (Dear 022); Rinami reads aloud a notebook line rejecting the magician ideal (Dear 027); he says he could not become a magician (Dear 037). He accepts her lifelong request through a hidden single-option '――はい' | `adv_dear_hrnm_022.txt` L479–L486; `adv_dear_hrnm_027.txt` L135–L172; `adv_dear_hrnm_037.txt` L136–L141, L433–L453; `adv_dear_hrnm_009.txt` L307–L317 | the 'reliable magician' performance of §9.8 is broken before the idol, which limits monopoly through disclosed fallibility. Rinami's love is explicit; his romantic reciprocity is strongly implied but never voiced. Counterevidence: he retracts a possessive remark as a joke (Dear 009 L307, L317), elsewhere reframes her bids in professional terms, and at least one modular scene shows sincere obliviousness (`adv_cidol-hrnm-3-001_01.txt` L206). His motive (obliviousness, restraint or both) and the romance conclusion stay OPEN (`GKM_CORE_08_HIMESAKI_RINAMI.md` §6, OQ-RINAMI-11) | HSCA-038 |
+| `D-UME` | accelerator who is changed in return. He refuses any do-over that would lose 'this Ume', after Ume declines to hear the counterfactual; she teaches him to laugh at defeat; he adopts her intuition ('勘です') | `adv_dear_hume_023.txt` L186–L217; `adv_dear_hume_022.txt` L161–L187; `adv_dear_hume_030.txt` L499–L508 | influence runs both ways. The same convergence is also compatible with the merger risk, so it counts on both sides of the test | GKM-SAA-024 |
+| `D-UME` (Sena) | Sena as Ume's would-be producer: she says that had she been Ume's producer she would have used Ume's physical ability to the full, frames H.I.F. as producer against producer, and concedes total defeat to Ume and the Producer | `adv_dear_hume_032.txt` L432–L441, L552–L570; `adv_dear_hume_036.txt` L396, L465–L477 | the `D-UME` Producer is one of two plausible production paths; in `U1` Sena does produce Ume (§9.2.2, §9.9) | GKM-SAA-237 |
+| `D-TEMARI` | containment-transfer point with a located pattern of decisions taken first and ratified later. Misuzu entrusts Temari to him (Dear 009). He uses footage Temari asked him to cut (C-TEMARI 002), reports a binding 961 transfer stake after the fact ('事後報告やめてください'), and vetoes the dissolution live through a single-option choice, with reasons she accepts (Dear 023) | `adv_dear_ttmr_009.txt` L324–L346; `adv_cidol-ttmr-3-002_02.txt` L91–L98; `adv_cidol-ttmr-3-002_03.txt` L22–L38; `adv_dear_ttmr_025.txt` L376–L428; `adv_dear_ttmr_023.txt` L468–L514 | Temari's refusals run from protest to ratification; consent tends to follow action rather than precede it. Counterevidence: Dear 023 wins her assent through reasons, and she readily accepts a trainer's authority where she doubts his (`adv_pevent_001_ttmr_activity_010.txt` choice 2, L48–L53). The Misuzu–Producer arc (handover, rivalry, pooled knowledge) is in RS-I §5.3 | GKM-SAA-044, GKM-SAA-045 |
+| `U1` (Saki) | privileged witness at the defeat. Saki asks whether Ume has gone, the Producer answers that no one is present, and she asks him whether she kept up a brave front before breaking down to him (04_07); after the victory she asks his permission to drop the front, then breaks down in front of Temari and Kotone (04_24) | `adv_unit_01-04_07.txt` L789–L824; `adv_unit_01-04_24.txt` L268–L451 | witnesses are plural (Kotone, Temari, and both of them at the 04_24 collapse); `U1` gives the Producer a privileged, not exclusive, witness role. The causal question stays OPEN | GKM-SAA-114 |
+
+These rows refine, and do not replace, the bullets above. Saki's 'witness to collapse' gains a `U1` locus; Temari's 'containment-transfer point' gains its textual locus (`D-TEMARI` Dear 009); Ume's 'accelerator' becomes a two-way relation.
+
+### 9.2.2 U1 — the one track with a shared multi-idol Producer *(2026-11-15; GKM-SAA-111)*
+
+§1.2 says the Producer cannot be treated as one simultaneous multi-idol manager unless the source creates that shared state. `U1` creates it, so it tests §9.5 and §9.6 directly. All citations are `C1 @ U1`.
+
+- **Exclusive bonds revealed as a unit.** The Producer has cultivated Saki, Temari and Kotone separately and introduces them to each other as one unit for H.I.F.; Temari protests that she had believed he would produce only her (`adv_unit_01-01_03.txt` L409–L543, L475–L485).
+- **Jealousy across a shared Producer.** When he joins the unit in raising Ume, Temari calls him a two-timer in inner speech (`03_08` L258–L276).
+- **Strategy held back from the idols.** He keeps another approach in reserve (inner speech, `03_04` L402). He proposes that the unit raise Ume as its strongest rival, and the members adopt the plan with enthusiasm (`03_08` L383–L461). He films Ume on the spot as 'the best boost item' for Saki (`04_01` L120–L132). He runs duo lessons whose purpose, a contingency in case Saki did not recover, he discloses only afterwards; Saki says that, told so plainly, she can no longer be angry (`04_11` L221–L337).
+- **The Producer as a fourth member.** He frames the Re;IRIS–Begrazia contest as also a contest between producers over who raises the better idol, and Saki concludes it was four against three (`04_12` L464–L486).
+
+The shared-Producer state gives §9.5 its clearest concealment-based instance: strategy is withheld from the idols and disclosed after the fact. Counterevidence: each concealment is framed as benevolent and is disclosed (04_10–04_11), and the members ratify the strategy (03_08). OPEN: whether this counts as orchestration (§9.6) or as interpretive monopoly (§9.5).
 
 ## 9.3 Producer value begins where self-management stops being enough
 
@@ -1074,6 +1158,14 @@ Examples differ by route:
 - Hiro may reward outcome-paternalism because difficult pressure itself is attractive.
 - Tsubame may depend on Producer belief to imagine a future while still contesting his methods.
 
+*Additions (2026-11-15; branch evidence in §9.2.1–§9.2.2):*
+
+- Mao (`D-MAO`) may make one Producer's promise the condition of her idolhood, yet she refuses his reading of her future and acts first when he steps aside. The case cuts both ways and is the clearest test of this section's claim (GKM-SAA-001, GKM-SAA-058).
+- Temari (`D-TEMARI`) may ratify decisions he has already taken: protest first, then trust (GKM-SAA-044).
+- Ume (`D-UME`) shows the converse risk, convergence: the Producer adopts her intuition and is taught by her to laugh at defeat (GKM-SAA-024).
+- Lilja (`D-LILJA`) and Rinami (`D-RINAMI`) show limits on monopoly: a deferral both keep, and fallibility disclosed to the idol (GKM-SAA-014; HSCA-038).
+- In `U1`, the one shared-Producer state, the risk takes the form of strategy withheld from all three idols and disclosed after the fact (GKM-SAA-111).
+
 The common structural risk is:
 
 > **one person becomes the privileged interpreter of talent, need, permission, and future.**
@@ -1128,6 +1220,8 @@ Systems II therefore applies the same role-permeability rule used for idols:
 
 The Producer needs peers, teachers, trainers, and idols partly because the reassuring role can otherwise hide uncertainty from the person performing it.
 
+*(2026-11-15; HSCA-038, GKM-SAA-115.)* Producer-side evidence for this performance is in §9.13: he hides tears from the idol and admits uncertainty to Asari. In `D-RINAMI` the performance breaks before the idol herself (§9.2.1).
+
 ## 9.9 Producer-like behavior exists outside Producer Course
 
 Sena's pseudo-agency is the clearest institutional example. Saki sometimes performs producer-like coordination among peers. Seniors teach, recruit, protect, and create development environments.
@@ -1139,6 +1233,8 @@ This distinction is important for ethics.
 A friend may diagnose accurately without having scheduling power. A senior may mentor without contract/resource priority. Sena may scout without receiving the full Producer Course jurisdiction.
 
 Authority is therefore layered rather than binary.
+
+*(2026-11-15; GKM-SAA-237.)* Sena's producer-like role is track-bound. In `D-UME` she is Ume's would-be producer, who frames H.I.F. as producer against producer and concedes defeat (§9.2.1). In `U1` Begrazia she produces Ume, and the Producer frames the unit contest in the same terms (§9.2.2).
 
 ## 9.10 Event 029 is an adversarial warning
 
@@ -1162,6 +1258,10 @@ This directly constrains romanticized readings of decisive producer action elsew
 - **STRENGTHEN:** Producer Course is itself a peer/professional network.
 - **PROMOTE:** mature production should enlarge, not replace, an idol's independent social graph.
 - **OPEN:** how each Phase-7 monograph should adjudicate romance/professional exclusivity in route-specific Producer relationships.
+- **STRENGTHEN (2026-11-15):** the Producer node is modelled branch by branch; Mao, Lilja and Rinami are added, and Saki, Temari and Ume are modelled from both sides (§9.2.1; GKM-SAA-001, 014, 024, 044, 045, 058, 114, 237; HSCA-038).
+- **STRENGTHEN (2026-11-15):** `U1` is the only track in which one Producer handles several idols at once; it supplies the clearest concealment-based instance of the §9.5 risk (§9.2.2; GKM-SAA-111).
+- **OPEN (2026-11-15):** whether U1's withheld strategy is orchestration or interpretive monopoly; the text frames it as benevolent and disclosed.
+- **PRESERVE + STRENGTHEN (2026-11-15):** route functions stay separate (§9.2), and a small layer of cross-route Producer invariants is recorded with its source families (§9.13; GKM-SAA-115).
 
 ## 9.12 Producer reconstruction rules
 
@@ -1175,6 +1275,20 @@ When simulating a Producer relation:
 6. preserve material constraints such as money, sleep, body, and schedule;
 7. do not make "I believe in you" ethically sufficient when the idol has not agreed;
 8. model professional composure as a role that can coexist with uncertainty.
+
+## 9.13 Producer invariants across routes *(2026-11-15; GKM-SAA-115)*
+
+§9.2's differentiation by branch stands (PRESERVE). Beneath it, a small set of traits recurs across source families. Each row carries its continuity class; none licenses merging route functions into one biography.
+
+| trait | locator (source family) | limits |
+| --- | --- | --- |
+| hides grief from the idol: he must not show tears in front of an idol | `adv_presult_003_final-failure.txt` L3 (results scene, C3) | in `D-RINAMI` his doubt is visible to the idol (§9.2.1) |
+| takes failure as the producer's responsibility | `adv_pstory_001_amao_after-audition-mid-failure-01.txt` choice 1, L45–L46 (C3) | branch-bound in this locator |
+| sets himself aside when the subject is his own life: treats his birthday as unrelated to production | `adv_startup_2024_user-bd-01_hmsz-01.txt` L16–L22 (startup, C4) | seasonal frame; non-biographical |
+| admits uncertainty to his teacher | `adv_tower-001.txt` L25–L32 (Asari) | Producer-side evidence for the 'reliable magician' performance (§9.8) |
+| polite baseline to idols, with 俺 in parenthesised thought and at moments of exposure | `adv_tutorial_first_cmmn-00.txt` L163–L164 (inner 俺); `adv_dear_amao_026.txt` L74 (spoken 俺) | register shifts by route and is not fixed |
+
+Counterevidence: behaviour varies by route, for example harsh method with Hiro and comfort with Lilja. These rows describe a recurring stance, not a route function, and they do not settle any route-specific question in §9.2.1.
 
 ---
 
@@ -1274,7 +1388,7 @@ It is often evidence that the character is safer.
 
 ## 10.7 Brokerage is a positive network function
 
-Kotone's role between Temari and Misuzu is the clearest Phase-5 case, but the principle generalizes.
+Kotone's role between Temari and Misuzu is the clearest Phase-5 case, but the principle generalizes. *(2026-11-15; GKM-SAA-277.)* `U1` gives an independent case: Kotone fetches Temari's hot-water bottle from the estranged former roommate, Misuzu, and absorbs a hostility that resolves only late in U1 (`adv_unit_01-02_07.txt` L325–L496; `04_17` L559; RS-I §5.8).
 
 A broker may:
 
@@ -1505,7 +1619,8 @@ She remains excellent at seeing potential and building environments, but later e
 - recipient context matters;
 - consent matters;
 - juniors can surprise her;
-- rivals can emerge outside her authorship;
+- rivals can emerge outside her authorship *(scope revised 2026-11-15, GKM-SAA-027: 'outside her authorship' means only 'not produced by her'. In `D-SENA` Saki credits Sena's wall-breaking with teaching her that idols have no limits (`adv_dear_jsna_025.txt` L504–L511), so inspiration runs both ways; Saki's central engine remains Ume)*;
+- her idol self can lose and be hollowed *(2026-11-15, GKM-SAA-026)*: in `D-SAKI` 024 her joy in producing a junior leaves her 'a husk', broken before the contest began, and she loses (`adv_dear_hski_024.txt` L336–L382); defeat states also occur in `D-MAO` 036, `D-LILJA` 036 and `D-HIRO` 036 (`adv_dear_shro_036.txt` L757–L805, 'next time I'll win') and in SL1.1 P3-SENA final failure. Each route's state belongs to its owning core and is not merged;
 - and succession does not require her disappearance.
 
 ### Reconstruction cue
@@ -1545,6 +1660,8 @@ She increasingly models recipients, but material asymmetry remains real.
 ## OPEN-RS2-05 - What happens if Hiro's preferred difficulty directly endangers a friend's project rather than only herself?
 
 Shared stakes should constrain her, but the mature limit requires further evidence.
+
+*(Narrowed 2026-11-15; HSCA-085.)* Event 014 answers the event-track case: Hiro finds holding a friend back unbearable and refuses that difficulty (§4.4 note). What remains open is a case in which her preferred difficulty endangers a friend's project without her noticing, or outside event continuity.
 
 ## OPEN-RS2-06 - Can Sena/Tsubame rivalry remain renewable after school roles and shared institution no longer structure repeated contact?
 
@@ -1689,6 +1806,7 @@ Primary analytical homes:
 - `GKM_EVENTS_021_PLUS_DEEP_READING.md` - branch-gated Asari role inversion / overreach;
 - `GKM_SUPPORT_SERIES_03_PART_001_025_DEEP_READING.md` - Producer Course networking and Asari profession model;
 - `GKM_OFFICIAL_PARATEXT_AND_CREATOR_COMMENTARY_REGISTER.md` for S3/C institutional design rationale.
+- *(2026-11-15)* Unit Story 01 (`adv_unit_01-*`) — the only shared-Producer state (§9.2.2); Dear tracks of Mao, Lilja, Rinami, Ume and Temari for branch-by-branch Producer functions (§9.2.1); results, startup and tower scenes for cross-route invariants (§9.13).
 
 High-value propositions:
 
@@ -1733,3 +1851,12 @@ The Rinha branch remains a hard precondition for final Temari/Misuzu monographs.
 
 **Next canonical operation:** `GKM_SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES.md`.
 
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+**Winter successors.** In D-KOTONE, Tsubame acknowledges Kotone's audience-facing form of competition and accepts her Selection defeat. Sena's winter loss and their move toward reciprocal informal address add friendship to their rivalry. In D-SENA, Sena keeps her title and Kotone presents the award after losing. In D-TSUBAME, Tsubame wins and asks Sena to chase her. The results are mutually exclusive, while the possibility of long-term professional rivalry survives in each. See [Kotone](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/03_FUJITA_KOTONE/GKM_KOTONE_TRANSCRIPT_REFRESH_20261112.md), [Sena](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/12_JUO_SENA/GKM_SENA_TRANSCRIPT_REFRESH_20261112.md) and [Tsubame](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/13_AMAYA_TSUBAME/GKM_TSUBAME_WINTER_HIF_SOURCE_REFRESH.md).
+
+**Senior peer facilitation.** In E028, Tsubame uses her access to open a stage opportunity for Rinami, affirms that the decision is Rinami's and later calls her a prospective rival. In D-TSUBAME 031 Rinami credits Tsubame’s festival backing. This is a separate retrospective witness. D-SENA 031 independently gives Rinami and Mao an explicit continuing challenge to Sena and Tsubame. These sources develop the distribution of agency within the cohort. See [E028](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md#e028--rinamis-career-choice-and-the-school-festival-as-a-bridge-to-professional-work).
+
+**D-TSUBAME routing (2026-11-15; GKM-SAA-262).** The Tsubame winter refresh's own routing is recorded here as pointers; the relation rows belong to the relationship-state ledger. In SL1.1 `D-TSUBAME`: Mao (Dear 031–032), who admits she looked away from Sena and Tsubame as 'special' and has now caught up, while Tsubame thanks her for three years of mutual growth and names her a rival (`adv_dear_atbm_031.txt` L189–L285); Kotone (Dear 033); Shion and 白草月花 (Dear 034); and the Producer (Dear 034–037). See `GKM_TSUBAME_WINTER_HIF_SOURCE_REFRESH.md` in the Tsubame core folder.

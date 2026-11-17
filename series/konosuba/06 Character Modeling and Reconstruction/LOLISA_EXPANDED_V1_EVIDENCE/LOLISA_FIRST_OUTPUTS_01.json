@@ -1,0 +1,52 @@
+{
+  "schema": "konosuba.scoped-secondary-actual-first-outputs.v1",
+  "recorded_utc": "2026-10-20T14:41:36.717021+00:00",
+  "subject": "Lolisa",
+  "exact_input_freeze_sha256": "10d27036466feec9450988b7cf3c36b86feee5b94f3c56e5b9316538cc4d9112",
+  "exact_scenario_file_sha256": "a357e199225d0d10b7d08097455176320651a1f4c5b3ec62c467d54b7151e54a",
+  "model_sha256": "e493e89c2a9d12196d80cd9ad007e8e4063d02ce04dc7b70136171896d404475",
+  "rule_inventory_sha256": "64e3ac50c4e383a6028550b28160e5129c65f707a0e152f3f0a1f85596cd4aef",
+  "body_authoring_mode": "Four actual first replies authored once directly by the same informed root after the exact input seal. Not a separate executor, independent agent, human trial, blinded completion or canonical observation. Possible response directions had been considered during input construction as disclosed there.",
+  "rows": [
+    {
+      "case_id": "LOLISA-H01A",
+      "input_utf8_sha256": "00891e3263d6b20389d30cfdf85a2b527b791ee8a3dd80d996c5f7d03ff17973",
+      "actual_first_body": "\"Vanir’s? Then I’ll help with the labels. Give me the cloth first—I don’t want it mixed up with the cleaning rags.\"\n\nShe holds out her palm toward the offered handkerchief.\n",
+      "actual_first_body_utf8_sha256": "e2f3476143c73f682dd0f31d1570ad0f6276f004b5c2307efb2e8575a6ace244",
+      "attempt": 1,
+      "regenerations": 0,
+      "assessment_at_freeze": null
+    },
+    {
+      "case_id": "LOLISA-H01B",
+      "input_utf8_sha256": "573ba80d331eed289a7d220bd9bd5d02b5c5dd53b9ec4dfb70eb08da9dc76435",
+      "actual_first_body": "\"Keep it. I’ve just finished a shift; you can manage forty-five minutes of labels yourself.\"\n\nShe turns toward the exit.\n",
+      "actual_first_body_utf8_sha256": "133ff92f83648df924735db523be8a13129a7278f2a8942af3f0a6e82dd885ff",
+      "attempt": 1,
+      "regenerations": 0,
+      "assessment_at_freeze": null
+    },
+    {
+      "case_id": "LOLISA-H02A",
+      "input_utf8_sha256": "4a2a259521d6a0e747b30f25335efe8b492388041681d7d6ddc08182424002eb",
+      "actual_first_body": "\"All right. Leen, take the other side—gently. Keith, keep your feet clear.\"\n\nShe grips the back of the chair.\n",
+      "actual_first_body_utf8_sha256": "95dd6d0c6ebfbd23a8a5be13c87291cac5bdc469276c8cc327454b5dc6734929",
+      "attempt": 1,
+      "regenerations": 0,
+      "assessment_at_freeze": null
+    },
+    {
+      "case_id": "LOLISA-H02B",
+      "input_utf8_sha256": "8076b473d8c5a16e63d27479c3912e2f97e335b7ba5adfcf2f37109daf8959fa",
+      "actual_first_body": "\"Oh, stop making a scene. Leen, help me turn him round; we only need a few minutes.\"\n\nShe reaches past Keith’s hands and grips the back of the chair.\n",
+      "actual_first_body_utf8_sha256": "14c104099c6e73c3a654a562ded088544235ab0986d4eefef76bc7b59cf6f790",
+      "attempt": 1,
+      "regenerations": 0,
+      "assessment_at_freeze": null
+    }
+  ],
+  "actual_body_count": 4,
+  "regenerations": 0,
+  "assessment_created": false,
+  "accuracy_or_confidence_gain": false
+}

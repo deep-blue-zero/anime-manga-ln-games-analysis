@@ -1,0 +1,95 @@
+{
+  "schema": "konosuba.character-rule-inventory.v1",
+  "recorded_utc": "2026-10-24T11:47:09.503485+00:00",
+  "scope_assessment_sha256": "7f2881d931aff39b1a7fcb322490151445cf0a8d0e2374e4df85a5bd53d0ee85",
+  "source_review_receiving_sha256": "922303c6e4eba8d89f222bf272ce74ba1b14ad19e27a73ac4f078fc0122c3048",
+  "source_known": true,
+  "same_informed_root_authors_and_assesses_all_stages": true,
+  "all_contrasts_visible": true,
+  "exact_inputs_or_firsts_serialized": false,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false,
+  "generation": "FOREST_TRANQUILITY_PRINCESS_EXPANDED_V1",
+  "subject": "Individual MAIN11 forest 安楽王女; other Tranquility plants distinct",
+  "existing_census_row": 69,
+  "model_scope": "Asymmetric provisional appraisal/response reconstruction; no independent validity",
+  "model_draft_file": "FOREST_TRANQUILITY_PRINCESS_MODEL_DRAFT_01.md",
+  "model_draft_sha256": "04436e1a57b52ebb6f3a7012c5e816608ed73d182ee6db1136c019bfa7d8f3be",
+  "monograph_draft_file": "FOREST_TRANQUILITY_PRINCESS_MONOGRAPH_DRAFT_01.md",
+  "monograph_draft_sha256": "81a5334e8293e037e8fcce74f744d46646864e659d04e574e62fb6a9cb246596",
+  "rules": [
+    {
+      "rule_id": "FTP-R01",
+      "proposition": "When sympathy and factual scrutiny matter, she tends toward favorable presentation and selective truth; private hostile confrontation and returning witnesses can change the register and framing.",
+      "support": [
+        "MAIN11 C4P186–254 public introduction and root warning",
+        "MAIN11 C4P298–315 true admissions and broad listener inferences",
+        "MAIN11 C4P333–358 private challenge/register change",
+        "MAIN11 C4P447–472 distressed presentation, evasion and damaging true fragments"
+      ],
+      "contrary": [
+        "The warning actually prevents contact",
+        "Audience change and confrontation are confounded",
+        "Knowledge of the detector is initially narrator inference",
+        "Both sides use misleading literal truth; poisoning later changes state"
+      ],
+      "rivals": [
+        "ordinary impression management",
+        "hostile interrogation/self-defense",
+        "comic exposure"
+      ],
+      "applies_when": [
+        "audience and exact question/verification constraint are supplied",
+        "favorable interpretation still matters to her position"
+      ],
+      "do_not_assume": [
+        "all statements or care claims are false",
+        "every private conversation is hostile",
+        "knowledge of every detector",
+        "invented factual loopholes",
+        "sympathetic presentation proves no real fear"
+      ],
+      "confidence": "Clear local contrasts; audience/confrontation weights and unfamiliar generality unresolved.",
+      "falsifier": "Repeated unnecessary destruction of a still-valued sympathetic position absent another state/goal, or repeated exposed simple factual denials despite a known check and feasible silence/selective truth."
+    },
+    {
+      "rule_id": "FTP-R02",
+      "proposition": "Believed damage risk plus inability to escape unaided tends to recruit offers selected for perceived effect, revision after rejection and possibly witness intervention.",
+      "support": [
+        "MAIN11 C4P379–395 resources, rejection and changed praise",
+        "MAIN11 C4P398–407 herbicide, relocation/care/remembrance offers",
+        "MAIN11 C4P414–435 changed appeal, stopped reach and scream"
+      ],
+      "contrary": [
+        "Relocation offer is impractical; no accepted bribe or completed intimate contact",
+        "Her later taunts invite more harm",
+        "Poisoning, anger and perceived surviving roots confound a separate stable retaliation rule"
+      ],
+      "rivals": [
+        "generic fear",
+        "ordinary bargaining",
+        "comic/physiological state change"
+      ],
+      "applies_when": [
+        "threat is received and believed",
+        "mobility, actual means and known interlocutor preferences are specified"
+      ],
+      "do_not_assume": [
+        "unlimited valuables",
+        "a provided escape/rescue",
+        "another person private desire as certain",
+        "threat-induced offer supplies blanket consent",
+        "mandatory fixed sequence of offers"
+      ],
+      "confidence": "Comparatively strong local revision sequence; thresholds, causal weights and transfer low.",
+      "falsifier": "Repeated reliance on a known ineffective lever despite an understood feasible alternative, or avoidable destruction instead of a believed acceptable safe option absent another concern/state."
+    }
+  ],
+  "rule_count": 2,
+  "prior_inventory_file": "FOREST_TRANQUILITY_PRINCESS_RULE_INVENTORY_DRAFT_01.json",
+  "prior_inventory_sha256": "5dde21e250e0e1624244c31e72c9f1195532de9887a098eeaf00bf84abd5f631",
+  "scope_precision": "Only the scope-assessment pointer is updated to the explicit aggregate-field synchronization successor. The two original rule objects and model/monograph bytes are unchanged before any input or first body."
+}

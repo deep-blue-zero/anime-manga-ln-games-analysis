@@ -1,0 +1,185 @@
+---
+series: BLUE_ARCHIVE
+historical_author_artifact_type: character_monograph_candidate
+historical_author_status: C_ONLY_COMPLETE_ARGUMENT_PENDING_INDEPENDENT_ROOT_RECEIVING
+execution: DEEP_SYNTHESIS
+required_home: P3-CHAR-KOKONA
+typed_responsibility: P3-F042
+literal_person_scope: BA_PERSON_CH0137; CH0137; 春原ココナ; variant10050
+mandatory_named_sections: none
+architecture: "1.12 §7.1; eleven character dimensions"
+method: "1.10"
+analytical_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c
+literary_source_custody: 7546a2331b3f2ca83798d54f9a2b8120c780adae
+current_local_navigation: 2714c7a67a34b7d6857db0ee84f95e77db943ece
+ROOT_reported_merged_main: b76b4373e6d0526bc78ce00bb673dba9e536c128
+merge_boundary: "ROOT reports the completed b76 postmerge audit and same e9 tree; new staged101 navigation is separately captured. No author merge/provider/audit credit."
+source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8
+source_generation: BA_REFRESH_20260928T032248159554Z
+parser: "0.2.0"
+game_version: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1
+authority_quartet: "Current Cycle008 admission; actual adequate complete/scoped analytical receiving; exposed historical order/UNKNOWN independence; unreceived performed voice."
+artifact_type: character_monograph
+status: canonical
+version: "1.0-canonical"
+do_not_use_as_current_authority: false
+canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOKONA_CHARACTER_MONOGRAPH.md
+ROOT_acceptance: PASS_WITH_LIMITS
+ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json
+canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED
+dated_preparation_source_witness: bf5ded30464ab39f78f71e79ecc7494654c25faa
+accepted_first_milestone_main_witness: b76b4373e6d0526bc78ce00bb673dba9e536c128
+---
+
+# Kokona — being an instructor does not abolish the person who teaches
+
+**Current ROOT receiving and publication boundary.** ROOT independently accepted this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KOKONA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual author/ROOT custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KOKONA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the unchanged original and full byte inverse. Original pending/audit/local-navigation/count statements describe creation-time history. The first25% milestone is complete at merged89/main `b76b4373e6d0526bc78ce00bb673dba9e536c128` after the exact ROOT-accepted full postmerge audit. Ordinary local2714 reconciliation and the current published101 source `bf5ded30464ab39f78f71e79ecc7494654c25faa`/tree `f84fb33df77dfcef9fb7270cb4d1064f6ec9c898` have separately bound custody; its source→housekeeping NOOP→final exact-head full292-test audit chain is ROOT-accepted. This fixed seven-package102–108 proposal persists only through complete ROOT installation, giving108 (93 character,7 directed relationship,3 ensemble,5 institution) and6 completed non-denominator named duties; later109+ reviews remain outside this snapshot. Required355 packages/29 duties across25 parents, next178 milestone, all14 original OPEN gaps and model0 remain unchanged. Mechanical transport adds no literary, primary, performed, independent, scope or model credit. **Package-specific operative qualification:** Preserve all173 original lines and exact inverse. Visible current custody distinguishes dated2714/staged101 body14/16/173 from actualbf5 probe/current source publication and later persistence. Cycle008 qualifies all historical UNADMITTED/count/wrapper statements; source primary/control/QA/media and original reading are not transferred. Nineprivate meanings4BOND4wholeMM1written, fullMM060 continuation, JP/KR no-force/address seams, pepper noun, actorless timed15/u43/Special7, conditional/local recipient identities remain. Gift071 complete argument is separate from bounded810normal290/296 and current805 versus historical checkpoint. Real finished meal/delivery/exercise/banquet/chosen walk/fireworks coexist with refusal, arm grab, secret trap, rumor costs, painful discipline by Shun and unprinted durable repair. No completed evacuation, later gift assent/eating, certified safety/nutrition/education/privacy/consent/law/romance/global chronology/performed claim.
+
+This is a bounded literary monograph for the existing Kokona character home. Nine selected private responsibilities are four BOND encounters, their four complete MomoTalk arguments, and one written profile/dialog object. Complete small accepted private arguments have been personally received; public meanings retain their actual complete or paragraph scopes. Shared current contextual adoption governs retained draft wrappers and older UNADMITTED/count statements. Those statements do not reinstate an earlier intake state. Original producer primary reading, present analytical reception and ROOT adoption are separate credits. All fourteen original gaps remain OPEN.
+
+## 1. Core thesis: recognition must accommodate tastes, boundaries and the people being taught
+
+Kokona wants recognition for a role she actually performs. That desire exceeds a comic wish to seem older. She invites Sensei to see work, grades completed papers, manages children's requests, delivers supplies and accepts an emergency evacuation assignment. She also wants enjoyable food, picture books, play, her sister's company and particular forms of address. Professional identity sometimes articulates a boundary and sometimes supplies a standard that burdens herself or others. The central tension is how an instructor can inhabit ordinary life without either competence or childhood becoming permission for others to decide everything for her. [BA:momotalk:10050:thread:100500010; BA:bond:10050:002; BA:event:826:008; BA:main:100:002:007:scene:001:u0001–0005; BA:character_data:10050:profile_and_dialog.]
+
+Recognition is negotiated among independently motivated people. Children call her ココナちゃん affectionately, challenge her food example, settle temporarily on 教官, and later return to the diminutive. Shun appreciates and supervises her while relying on her labor. Rumi accommodates the address preference but frightens her into preserving a customer's secret. Sensei can affirm work, share a pleasant walk and promise dignified treatment while still pressing beyond a refusal. These are different acts and recipients, not a collective that uniformly understands or humiliates her. [BA:bond:10050:002:u0002–0056; BA:group:2601:scene:001:u0015–0048; BA:event:826:013:u0018–0022.]
+
+Her limitations are consequential without making the role fraudulent. Completed grading with imperfect difficulty calibration, a frightening fabrication about an unseen object, and coffee treated as an adulthood test supply contrary evidence. None proves she cannot teach anything. Profile praise of exceptional learning and local successful care likewise do not establish every pupil's result. The account must keep qualified competence, the demands she places on others, and demands placed on her together. [BA:event:826:008:u0002–0006; BA:group:2601:scene:003:u0013–0034; BA:character_data:10050:profile_and_dialog.]
+
+Positive endings remain indispensable. Kokona finishes and enjoys a meal, participates in exercise and river play, and receives a previously deferred outing as a permitted three-person walk with hand-held swinging and actual fireworks. These are improvements in a finite day. They do not repair an earlier arm grab, withheld consultation, unfinished apologies or unequal staffing. Wanted life has intrinsic value whether fulfilled, refused or still future. [BA:bond:10050:006:scene:002:u0037–0042; BA:group:3403:u0117–0134; BA:event:859:013:u0044–0053.]
+
+## 2. Longitudinal state and development: local changes retain continuing conditions
+
+The private sequence has positive local links, not an assumed world calendar. The first whole message thread invites a witness to work and launches E002; the next remembers that visit and includes the bitter coffee afterword after E003. MM150 reconsiders the coffee criterion and links to E005; MM260 retains reluctance and trust before E006. Schedule links and recollections support this progression. Release dates, larger episode numbers, favor ranks and anniversary gates do not place it against Main or public events. [BA:momotalk:10050:thread:100500010/100500060/100500150/100500260.]
+
+Some changes are genuine: a temporary classroom address correction, the proposition that adults need not drink coffee, and one delicious finished carrot meal. Continuing evidence prevents a single upward ladder. Children revert to ちゃん, coffee remains disliked, and she denies general carrot conversion. Particular revisions need not erase the dignity desire that first produced them. [BA:bond:10050:002:u0033–0056; MM100500060 messages190–200; MM100500150 messages210–330; BA:bond:10050:006:scene:002:u0015–0042.]
+
+Public scenes add states that cannot be mechanically dated into that chain. EVENT805 gives overloaded teaching during Shun's absence, hurt over exposed private concerns, and restored Shun's apology with qualified forgiveness. EVENT826 gives grading fatigue, undisclosed involvement in an effective trap, and continuing supervision at the banquet. GROUP340 gives requested activity made frightening by adult rivals, then apologies and a lively beginning. Each transition is meaningful without a permanent workload reduction or universal relationship change. [BA:event:805:004:u0043–0062; 008:u0047–0081; BA:event:826:008/010/013; BA:group:3402:u0071–0087; 3403:u0089–0134.]
+
+EVENT859 explicitly advances the requested outing beyond its initial promise. Kokona wants consultation and ice-cream compensation after discovering decisions made without her. Her private escort request is accepted but deferred while disguised visitors are present. Later Shun asks to join, Kokona permits a special exception, and the three actually walk and swing hands. Leaving this only future would discard achievement; calling it total restored trust would discard intervening deception and continued teasing. [BA:event:859:007:u0019–0074; 009:u0133–0141; 013:u0044–0053.]
+
+Her state is therefore a repertoire of recognition, company, burden, objection and local success. Becoming a permanently better teacher, overcoming childhood or universally trusting the adult are stronger claims requiring later evidence. Their missing warrants do not defer acknowledgment of the developments printed here.
+
+## 3. Public and private self: affection is contextual, and her standards can be contested
+
+Instructor address matters publicly because Kokona exercises authority among children and workers. E002 includes continuing requests, a disputed food example and respect that must survive work after its ceremonial correction. MM010 is her invitation, conditional on the recipient's time. She wants meaningful labor witnessed, not only rescue when it fails. [BA:bond:10050:002:u0002–0056; BA:momotalk:10050:thread:100500010 messages080–090.]
+
+Private company permits different arrangements. E003 includes a wanted walk and temporary toleration of disliked address when alone; EVENT859 permits exceptions during play or tourist cover. These are choices rather than proof that every public objection is insincere. She continues protesting diminutives and tells Sensei not to pat her head in EVENT840. Wanting attention and limiting its manner are compatible. [BA:bond:10050:003:scene:001:u0002–0012; BA:event:859:003:u0053–0089; 004:u0023–0033; BA:event:840:004:u0044–0059.]
+
+Written contexts complicate the split between childish private self and adult mask. Picture books are a positive hobby; Garden objects excite educational curiosity. Birthday remembrance seeks reciprocity. Christmas anticipates Santa before checking the wish against the instructor role; Halloween pairs candy giving with qualified liking. These are received textual pleasures without invented acted reading, received gifts, Santa visits or consumption. [BA:character_data:10050:Cafe:4560–4564; UILobby:4574–4585; profile hobby.]
+
+Some contradictions belong to her conduct. She requires varied diets while disliking vegetables, refuses sweetened coffee to defend a lady standard while initially attracted, and invents frightening details to enforce secrecy. The analysis must neither conceal those pressures nor replace every preference with hidden desire. An inconsistent standard can coexist with a valid present refusal. [BA:bond:10050:002:u0021–0027; MM100500150 messages280–360; BA:group:2601:scene:003:u0013–0026; BA:bond:10050:005:u0032–0043.]
+
+## 4. School and club role: meaningful care is work with limits and independent recipients
+
+The written profile describes an exceptionally capable first-year instructor despite elementary-school age; eleven years is profile metadata, not a computed age in every scene. Garden affiliation is explicit even where raw Club is None. Metadata and weapon dignity language are not credentials, measured learning, enacted discipline or weapons certification. Her work has scene evidence, and each warrant retains its strength. [BA:character_data:10050:profile_and_dialog; CharacterGet:4559; WeaponGet:4586.]
+
+E002 supplies requests, care and friction: homework, snacks, toilet help, demands for an example and cooking complaints. A child's technical question is a printed request, not proof of mathematical mastery or her global incapacity. Demands continuing after address correction keep care from becoming a title merely bestowed by Sensei. Cooking better than Shun someday remains a wish; Shun is referenced, not an extra speaker. [BA:bond:10050:002:u0002–0017/u0021–0027/u0041–0056.]
+
+EVENT826's grading is finished, but difficulty calibration is imperfect. Errand practice and an accompanied trip without apparent incident are her reports, not validation of every delivery. Factions recognize exploitation of children's goodwill yet secretly use her themselves, with the adult proposing a trap. An ordinary carrot shipment successfully exposes collaborators; proposed apologies to Kokona and Shun remain future even at the banquet. Effectiveness does not supply her informed agreement. [BA:event:826:008:u0002–0006/u0032/u0048–0053; 009:u0002–0008; 010:u0018–0021/u0043–0044; 013.]
+
+Institutional work contains protection and incomplete repair. GROUP340's children and Kokona fear peer conduct; Kisaki intervenes and apologizes for her loudness, disputants apologize and exercise starts. GROUP260's supply delivery is complete, but Kokona's invented account spreads and costs Shun reputation. Stopping the source does not end misunderstanding instantly. Successful service does not settle recipient costs. [BA:group:3403:u0089–0134; BA:group:2601:scene:003:u0002–0034; 2602:u0042–0059.]
+
+This character home establishes particular participation, conflicting obligations and desired working life. It does not complete separate Garden, Genryumon or relationship responsibilities. Staffing reform, pedagogy, health effects, privacy law and permanent accountability remain unclaimed.
+
+## 5. Ordinary life: desired recognition, food, stories and company are substantive ends
+
+Invitation, safe-return inquiry and wished presentation are ordinary relational acts. MM060 remembers the earlier visit and expresses disappointment before correcting affectionate praise. Its final two messages preserve bitterness and coffee dislike; removing them would invent an initiation into adult taste. Discomfort matters as experience, not only as a qualification of the adult's conduct. [MM100500010 messages010–090; MM100500060 messages100–200.]
+
+Coffee and vegetables have sensory specificity. E003 registers blackness, heat and burnt smell; anticipated burning is not an actual injury. E005 gives reasons for rejecting carrots and peppers, with the lesser-bad answer remaining conditional. MM150's excitement over milk and sugar and later refusal both matter. Food is not an imposed school maturity exam or an empirical nutrition test. No new coffee purchase or sweetened consumption occurs in the message argument. [BA:bond:10050:003:scene:002:u0011–0024; BA:bond:10050:005:u0003–0043; MM100500150 messages210–360.]
+
+E006 contributes completed pleasure: sweetness, softness and aroma, followed by explicit finished food. Her questions and repeated preparation explanation are not audited ingredients. The special counterpart keeps conditional venue choice and hedged concession while denying general conversion. Future company remains wanted after objection. Enjoyment does not admit that she had no right to leave. [BA:bond:10050:006:scene:002:u0015–0042; UILobbySpecial:4587–4593.]
+
+Gift071 supplies distinct agency. Kokona prepares children's snacks and offers Sensei a separate chocolate. Children's actual receipt, who made or wrapped the chocolate, and the allegedly tired worker are unconfirmed. Her boundary is clearer: no onsite tasting; return to Schale and eat alone. She runs off, then returns to demand a promise. No adult assent, kept promise, later consumption or review is printed. Different wrapping may support embarrassment without certifying a handmade secret. [BA:event:810:071:u0002–0032; complete current argument §8.]
+
+Company exceeds dependence on Sensei. She wants exercise for Garden children, more play when freed from supervising visitors, and time with a once more available sister. EVENT859 says becoming an instructor partly sought Shun's proximity, only for both to grow busier. Holiday affection, swinging and fireworks are actual without curing that lost time permanently. Her and children's wants have value outside their utility to defense or investigation. [BA:group:3402:u0071–0087; BA:event:859:007:u0050–0053; 013:u0027–0053.]
+
+## 6. Crisis behavior: accepted duty is finite, and rejecting danger can be achieved action
+
+Main Final gives an assignment during alarm: Shun tells Kokona to guide civilian evacuation, which she accepts. This is meaningful responsibility. The small episode does not show completed evacuation, everyone's safety, tactical capability or a classified enemy. It also does not identify the nearby storekeeper or Genryumon subordinates globally. An accepted order has an actual textual endpoint distinct from a task accomplished. [BA:main:100:002:007:scene:001:u0001–0005.]
+
+EVENT826 complicates protective cooperation through inadequate consultation. Kokona is not secretly willing because the trap works. Her delivery reports and promises of protection remain testimony; assurance is not an audit. The team's acknowledged use of her and unfinished apology make recipient costs visible. Success exposing collaborators and the actual banquet remain positive events rather than being deleted because the methods have costs. [BA:event:826:008–010/013.]
+
+EVENT859 gives a different result. Rumi proposes Kokona undercover; she dislikes pretending allegiance, and Shun and Sensei oppose danger to her. The plan changes. This is a realized respected refusal, not cowardice or a missing opportunity to prove depth. Substituted child-body disguises protect her from that duty while withholding consultation, leaving a valid new objection. [BA:event:859:006:u0144–0154; 007:u0019–0043.]
+
+Her gang rebuke insists on responsibility beyond age; Kisaki checks excessive scolding. The gang rejects it, and Shun later enacts painful corporal punishment. Kokona's memory of fear at Shun's anger and the gang's pain cannot become Kokona's actions, recommended discipline or a completed education program. Accountability remains serious without invented reform or clinical endorsement. [BA:event:859:012:u0038–0085; 013:u0027–0036.]
+
+Daily work helps interpret emergency responsibility, but crisis utility does not certify daily diets, secrecy, teasing or bodily pressure. Refusal, fear and protection remain significant even when they do not become a spectacular victory performed by her.
+
+## 7. Relationship with Sensei: wanted attention does not give unrestricted access
+
+Sensei is a desired witness and companion. Kokona requests a visit, checks safe return, enjoys a private walk, seeks encouragement and wants an outing. The adult sometimes supports her address, says coffee need not be forced, apologizes for teasing in gift071, and helps prevent infiltration danger. These instances resist a person-wide account that every interaction harms her. [MM100500010/060/150; BA:bond:10050:003:scene:001; BA:event:810:071:u0008–0012; BA:event:859:006:u0144–0154.]
+
+Adverse means are specific. E005 expands a hypothetical lesser-bad answer into supposed commitment despite current refusal. E006 narrates laughter, arm grab and entry; Kokona says to release her and rejects that escort. Earlier message assent and trust are real, and so is withdrawal. No physical injury or forced swallowing is printed; preserving the bodily limit requires neither invention. [BA:bond:10050:005:u0026–0043; MM100500260 messages370–470; BA:bond:10050:006:scene:001:u0011–0014.]
+
+Meal pleasure and continued company do not provide retrospective permission. They are positive evidence against a victim-only account that denies enjoyment or declares the relation already ended. Future retaliation and company requests are not completed revenge, romance or authorization of subsequent pressure. Affection can be recognized while different means are judged in each encounter. [BA:bond:10050:006:scene:002:u0037–0042; UILobbySpecial:4587–4593.]
+
+Touch and address have local decisions. EVENT840 gives an explicit no-head-patting limit. EVENT859 depicts laughter during lifting, exceptions to diminutives, continued objections to teasing, and permission for Shun to join the ending walk. These facts neither make her always refuse nor prove all touch consensual. Earlier two-person wish, deferred escort and actual three-person outing have different endpoints. [BA:event:840:004:u0044–0059; BA:event:859:004:u0023–0033; 007:u0059–0074; 013:u0037–0053.]
+
+Response space also requires discipline. E002 and MM060 praise alternatives are alternatives rather than cumulative reassurance. GROUP340's handkerchief offer is tagged inward, so an audible offer or actual transfer cannot be supplied automatically. Gift071's insistence prints no adult assent or later eating. Sympathy, authored options and performed conduct require different evidence. [BA:bond:10050:002 choices; MM100500060 messages120/130; BA:group:3403:u0114–0116/choice003; BA:event:810:071:u0023–0032.]
+
+## 8. Major peers and recipients: sisterly care, child agency and costs are differentiated
+
+Shun is 姉さん, a professional comparator and wanted companion. Kokona's symmetrical diminutive argument references her; Sensei's suggestion that Shun would enjoy it remains an absent-person guess. Public Shun stops children, defends Kokona's meal, apologizes after absence and receives qualified forgiveness. She also transfers supervision, exposes private concerns in altered form and makes anger frightening. Sisterhood does not explain or justify each act automatically. [MM100500060 messages150–180; BA:event:805:004/008; BA:event:826:013:u0018–0022; BA:event:859:013:u0027–0036.]
+
+Children are independent recipients. E002 requests and dietary challenges, GROUP260 rumor relay, GROUP340 fear and EVENT805 wishes, envy and apologies differ in content and effect. Lettered children and collectives remain local, not joined to Mina or Reijo pupils. Affectionate address can express attachment while frustrating her preference; demanding an example is not universal rejection of the profession. Care must hear these responses without requiring endorsement of every instructor decision.
+
+Rumi combines generosity and address accommodation with misleading confidentiality. Kokona completes delivery, invents what she has not seen and keeps repeating it. Shun identifies a massage roller through her explanation, not direct inspection. Stopping the source leaves persistent misunderstanding. Rumi's frightening setup and Kokona's propagation both matter; assigning every cost to one origin discards subsequent actors. [BA:group:2601:scene:001:u0015–0048; scene:003:u0002–0034; BA:group:2602:u0025–0059.]
+
+Kisaki allows a visit Kokona tries to prevent on her behalf, rejects rumor certainty, accepts children's exercise, protects them and apologizes for loudness. Kokona's interpretation of available time does not override its holder's preference. Reijo and Kaguya have real aspirations but frighten children when imposing them; their apologies and Rumi's intervention give repair without a guaranteed end of rivalry. [BA:group:3402:u0017–0087; 3403:u0089–0134.]
+
+Mina and the wider school enter through particular encounters. EVENT839's mustache scene, EVENT826's investigation and EVENT859's holiday distribute motives among visitors, guardians, traders, rivals and children. Saya's remedy claims and Genryumon rumors remain attributed, not technical fact or proof of Kokona's comprehensive knowledge. Peers' choices and costs are necessary to interpret her role; their separate Phase3 homes are not completed here.
+
+## 9. Language, address and written voice: dignity has carriers and audiences
+
+ココナちゃん／ココナ教官 differs by audience and sometimes reverses comically. 教官様 is not the accepted classroom endpoint; children settle on 教官 before reverting. レディー supplies a self-standard involving coffee, recognition, food and treatment, not a biological or professional test. Gift071's Japanese reverses her usual correction, and she notices; Korean gives another direction. These cannot become two Japanese acts or be silently regularized. [BA:bond:10050:002:u0033–0036; BA:event:810:071:u0008–0012/current §8.]
+
+Civilization, justice, evil carrots, brainwashing and the outing's death complaint are contextual exaggerations, not actual organizations, mechanisms, suicide intent or death forecasts. E005's pepper noun inside a carrot-restaurant exchange remains a seam, without a substituted noun or second restaurant. E006's 饗宴（きょうえん） is a particular ruby, not a convention invented throughout messages. [BA:bond:10050:005:u0040; 006:scene:001:u0005/u0008–0010; MM100500260 message430.]
+
+Mode distinctions constrain ownership. E002's combined numbered inward options and repeated replies retain selection. E006's fifteen actorless timed #st units include stored u0043 whose sequence belongs between u0027 and u0029; they stay actorless narration. Seven attributed UILobbySpecial records supply Kokona-associated written counterparts without filling bond fields, inventing fifteen audible turns or multiplying visits. The waiter remains one unjoined service role. [BA:bond:10050:002:u0030–0032; 006:scene:002:u0021–0036/u0043; UILobbySpecial:4587–4593.]
+
+Whole MM060 has one direct E003 tail gate followed by a zero-direct-prerequisite continuation; thread, message and trigger are distinct. MM150's Japanese no-force line does not acquire Korean's different teasing as an extra act. Full written Cafe, holiday, acquisition, weapon and normal contexts are textual evidence, not a played transition graph. Inherited voice lists, animation and duration do not give audio or image inspection. No pitch, acting, performed crying, visual safety or voiced inward speech is claimed.
+
+Literal identity is CH0137/BA_PERSON_CH0137/10050. Blank BOND variant fields stay blank; message or profile joins do not fill them. Same-name/event keys do not enlarge the selected private family, and sibling address does not join Shun/Shuerin. Anonymous recipients, raw labels, replay flags and release contexts constrain source scope rather than create identities or dates.
+
+## 10. Competing interpretations: seven readings answer contrary cases
+
+**A child merely pretending to teach.** Embarrassment, hard questions, food inconsistency and role anxiety support the comedy. Existing daily labor, completed grading, requested presentation, delivered supplies and accepted emergency responsibility resist dismissal. Profile praise alone cannot certify competence, but a joke cannot erase the repeatedly enacted role. The bounded conclusion is meaningful work with limitations.
+
+**A precocious professional who should suppress childish wishes.** Role pride and instructor framing make this an aspiration she sometimes adopts. Picture books, sweet tastes, Santa anticipation, play, affection and sisterly time resist it. Their value need not produce better teaching. Awkward negotiation does not authorize erasing these wishes as improper or secretly replacing her stated tastes.
+
+**An adult successfully teaches better tastes.** Finished delicious carrots and coffee-criterion revision are real gains. Continuing coffee dislike, conditional carrot return, E005 refusal and E006 release objections prevent permanent conversion or justified-means closure. Pressure likewise does not make actual pleasure false consciousness. Outcome and method retain different warrants.
+
+**A perfectly innocent recipient of everyone else's mistakes.** Overload, frightening cargo explanations, undisclosed trap and teasing give a strong recipient-cost case. Her invented object, repeated rumor, dietary double standard and assumptions about Kisaki's time prevent universal innocence. Children's and Shun's costs remain theirs even where her motives include secrecy or authority care.
+
+**Affection makes touch and address objections unserious.** Exceptions, laughter, gratitude and future company make this tempting. Explicit no-poke/no-head-patting/release requests, contextual permissions and gift071 refusals oppose it. Some choices genuinely change locally; no timeless hidden permission can replace them. An always-refusing account is also contradicted by what she actually permits.
+
+**Crisis supplies the real evidence of maturity.** Evacuation assignment and gang rebuke are significant. Invitations, teaching, fatigue, gifts and refusal already supply independent depth. The changed infiltration plan is positive, not missing valor. Accepted duty is not completed evacuation, and another person's corporal discipline is not Kokona's achievement.
+
+**Recognition or holiday solves the institution.** Apologies, corrected address, shared exercise, chosen walk and fireworks are affirmative endings. Regression, persistent reputation damage, unfinished apologies and absent staffing reform prevent durable closure. Finite pleasure need not transform the institution to matter; incompletion need not trivialize it.
+
+## 11. Evidence route, original open gaps and finite completion boundary
+
+Personally complete private analytical custody is the109-line checkpoint, four whole BOND arguments002/003/005/006, four full MM arguments010/060/150/260, and108-line written owner. Shared current account142–178/289–293 qualifies retained wrappers; prior regional peer/public scopes stay attributed. Nine responsibilities are B4/MM4/W1, not nine original primary reads or a synthetic scene count. Gift071 is separately received whole. Current810 qualification preserves the uncertain wrapping/worker, inverse locale correction, inward thanks, onsite refusal and unperformed later promise.
+
+Public comparison reuses prior adequate complete826/839/840/859/GROUP260/GROUP340/FinalC002E007 and current805 normal121 personally received in the preceding Saya lane. Fresh complete consequential Kokona paragraphs and endings are recorded separately. Historical805 checkpoint is a bounded comparator, not the effective current normal owner. No unseen source, medical efficacy, completed evacuation, safe delivery program, staffing reform or later gift consumption is supplied. Separate relationship/institution/ensemble/Sensei/register responsibilities remain required full-cast work, without proxy completion by this character.
+
+| Original stable gap | Kokona contribution and remaining warrant | Status |
+|---|---|---|
+| G01 Ordinary and private breadth | Nine complete private meanings plus tastes, stories, gifting, work, fear and realized company broaden Kokona locally; other cast duties and unprinted future acts remain separate. | OPEN |
+| G02 Yuuka council/club decision transfer | Kokona tests recipient-sensitive labor and care boundaries; no Yuuka decision, chronology or institutional transfer warrant follows. | OPEN |
+| G03 Serika service, peer and reciprocity range | Gift conditions and shared activity offer comparison only; Serika service and peer outcomes need their own sources. | OPEN |
+| G04 Hina crisis causality, accountability and ordinary contrast | Finite evacuation assignment and refusal illuminate contrast; Hina causality and accountability remain separate duties. | OPEN |
+| G05 Arius and PS68 ordinary/aftermath transfer | Wanted company, childhood and unfinished repair permit thematic comparison without importing Arius/PS68 actors or outcomes. | OPEN |
+| G06 Cross-school ordinary repertoire | Garden labor, exercise, banquet food and play add ordinary breadth; other schools and every participant's reaction are not claimed. | OPEN |
+| G07 Story-world chronology | Local recollections, MM gates and deferred/fulfilled outing remain; documentary dates/ranks/variants do not establish a world-wide sequence. | OPEN |
+| G08 Event naming and repeat contexts | Exact805/810071/826/839/840/859 and group IDs retain distinct purposes; titles/replays/counterparts do not imply extra visits. | OPEN |
+| G09 Written speaker/choice attribution | Alternatives, MM tails, inward modes, actorless timed units and locale seams stay bounded; no actor repair or generic recipient join follows. | OPEN |
+| G10 Performed voice | Written wording and rhetorical crying are received; no audio/video/pitch/acting or played transition was inspected. | OPEN |
+| G11 Hoshino's Yume record and office states | No direct Yume/Hoshino office evidence is added; responsibility vocabulary does not stand in for that record. | OPEN |
+| G12 Counterpart, system and variant identity | CH0137/10050 stays distinct from blank bond variants, same-name/event keys, Shun forms and local children/waiter; stronger continuity needs warrants. | OPEN |
+| G13 Office, contract, safety and technical outcomes | Teaching/food/privacy promises and accepted evacuation have finite endpoints; cure, nutrition, safety audit, consent repair, law and reform remain unverified. | OPEN |
+| G14 Unclassified/mode continuity | No unclassified source is admitted or replayed; conditional text and alleged powers do not establish cross-mode continuity. | OPEN |
+
+Mandatory new primary recovery for these bounded claims is none: adequate accepted arguments preserve the consequential ambiguities and limits. Stronger claims about disputed turns, completed cure, safety, all pupil learning, privacy enforcement, delivery, later gift use or global dating need their particular evidence. This is claim-specific debt, not a reason to defer the whole person or discard ordinary evidence.
+
+The candidate is local DEEP_SYNTHESIS for an allocated existing home. Exact source/output/readback and preservation receipts accompany it. UNKNOWN historical independence is exposed; byte checks are not independent prose review. No repository, index, source admission, model, provider, denominator, milestone or ROOT acceptance action is performed here. The dated2714 metadata framing remains distinct from ROOT's subsequent report of source-published101 at bf5ded; the actual successor controls are captured separately. ROOT adjudicates this argument independently. Kokona remains distinct from the full355-package/29-named-duty/25-parent objective.

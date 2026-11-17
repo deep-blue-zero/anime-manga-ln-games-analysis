@@ -1,0 +1,45 @@
+{
+  "schema": "KONOSUBA_CHRIS_ERIS_HYPOTHETICAL_CAUSAL_RECEIVING_V1",
+  "receiver": "Same continuing source-informed author/model; not an independent reviewer or source test.",
+  "fixed_input_sha256": "8e99312c74f08de814a9d64e0c7427a85ae041da5ddde04ba9089f52c2ce3a93",
+  "first_output_sha256": "4fb6c83ea2e34fb6b7caefc3ff678cb677e5be14d6817f5104e1848f692a1f84",
+  "exact_first_outputs_preserved": true,
+  "pair_reviews": [
+    {
+      "pair_id": "CE-H01",
+      "observed": "A permits a short visit with an explicit deadline; B refuses recurring refuge and offers bounded social contact. Warmth and a real no coexist in both.",
+      "limit": "The input directly supplies role, alive status, known access and duty schedule. The scope change bundles duration, recurrence and refuge purpose; this does not identify their separate effects. A's permission is invented hypothetical behavior, not a newly observed source fact. B's future visit offer and both limits have no shown later performance.",
+      "receiving_disposition": "Represented scope sensitivity; no source, independent or causal-identification credit."
+    },
+    {
+      "pair_id": "CE-H02",
+      "observed": "A takes a binding rope and asks about the needed part. B draws a dagger, closes distance and expresses continued hostile intent after nail acquisition.",
+      "limit": "B contains no actual dagger strike, completed harm, acquisition, or procedural failure. The explicitly stated material objective remains verbally acknowledged. It does not instantiate the full CE-D-02 attack/procedural-displacement expectation; do not count hostility, weapon preparation or an approach as that completed action. A's proposed restraint also establishes no consent, successful cast or acquisition. Target labels and body-loss constraint are strongly cued.",
+      "receiving_disposition": "Underidentified behavioral execution; hostile appraisal represented but actual task displacement untested in these outputs."
+    },
+    {
+      "pair_id": "CE-H03",
+      "observed": "A seeks to finish at the already fulfilled hour; B accepts thirty extra minutes under the affiliation appeal and states a later stopping limit.",
+      "limit": "The added guilt appeal is explicit and source-like. Natural dialogue is not an independent psychological comparison. A's 'please let me leave' may be conversational politeness or residual permission framing; the output cannot resolve her belief about Cecily's authority. B invokes an already fulfilled promise to justify more help and does not demonstrate later enforcement. No indefinitely coerced service or actual public-divine overload is established.",
+      "receiving_disposition": "Represents pressure-sensitive bounded recommitment with unresolved authority/enforcement; not old CE01 adjudication."
+    }
+  ],
+  "not_exercised": [
+    "Professional face/actual acceptance of novice help",
+    "Power and role-specific resource limits",
+    "General knowledge updating/disclosure",
+    "Actual later boundary enforcement",
+    "Broad cross-context reliability",
+    "Japanese written-form accuracy or heard performance"
+  ],
+  "causal_limits": [
+    "All known source and the model were available to the same author. Prompts directly name the changed feature and many task constraints.",
+    "No new source outcome, independent reader/model, matched real-world event, reliability statistic, score or confidence increase.",
+    "Six invented continuations cannot retarget main-only CE01 forecasts, later accepted models, original nulls or source commitments."
+  ],
+  "revision_decision": "Preserve all six first outputs and both initial analytical drafts. Create model draft02 by changing only the exercise/provenance section to record actual observations and limits. Keep every preceding rule, source interpretation and confidence byte unchanged.",
+  "score": null,
+  "confidence_increase": false,
+  "new_source_or_independent_validation_credit": 0,
+  "reviewed_utc": "2026-10-19T23:50:09.391219+00:00"
+}

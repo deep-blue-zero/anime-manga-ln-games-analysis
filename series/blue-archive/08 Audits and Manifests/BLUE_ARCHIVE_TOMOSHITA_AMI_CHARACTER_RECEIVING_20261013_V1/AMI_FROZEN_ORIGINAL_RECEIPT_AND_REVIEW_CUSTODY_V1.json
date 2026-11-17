@@ -1,0 +1,622 @@
+{
+  "schema": "AMI_COMPLETE_ORIGINAL_AUTHOR_SOURCE_AND_REVIEW_CUSTODY_V1",
+  "target": "P3-CHAR-M039",
+  "original_private_beforeimages": [
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_084EF52181037847",
+      "bytes": 44537,
+      "sha256": "029f464d6b4b078939972a0034fc1855002c13312d9e793ee856e54e6db0f591",
+      "git_blob_oid_of_actual_bytes": "599d69e6b41e3f2f52fca0a2b8d400262fd61a3f",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_9A81D687EC3A0B5B",
+      "bytes": 4245,
+      "sha256": "5d4f45f8cb5ce9a7df89f7df54c398a5df3ce69fa88b84c85d4f9bb571c00e72",
+      "git_blob_oid_of_actual_bytes": "0ea02e0ba3552ffc14c335298d4c1aa7c4ac0226",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_BF39EA4A0171B706",
+      "bytes": 5078,
+      "sha256": "1728f8630bfd8d05ffbd32f581c957209507775cc9172b91d90f2f52773393ef",
+      "git_blob_oid_of_actual_bytes": "5e92d4374095b3d86b46193723b43f9252dda860",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_16538A63A767D564",
+      "bytes": 5962,
+      "sha256": "e33e1586594140f63f2652a0bed05c75ff5130e9ce1f3a84790172ac971ab5e6",
+      "git_blob_oid_of_actual_bytes": "a97cc4078b282384e70028e0316f74aaa1836406",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_02262BE41C8E84DD",
+      "bytes": 9229,
+      "sha256": "b5efa817f59a47a7af71ff1d8a56f3c54e8bfdcdb47436eadee355a5e087e1fc",
+      "git_blob_oid_of_actual_bytes": "6f995fb59877ff89e48e2aa2d928fec9c27c5253",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_395400EFD85B55CD",
+      "bytes": 180856,
+      "sha256": "ca767834bf69d86c8b1f3384d693d67f1f4eeaedb9b4de7906bf2721fce729c5",
+      "git_blob_oid_of_actual_bytes": "4a18d1cc47f880cc4067eb68ae5a9d38ed348aa3",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_CB88A088327764A6",
+      "bytes": 183022,
+      "sha256": "eebd616f89fece3f7fbc1b8bff715e60b8ecf5a73bcbed782a24edf683d33f01",
+      "git_blob_oid_of_actual_bytes": "0dc2cf28ca4ac9c53d4fe47c456d60eb6411da70",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_6052F8A2A345A389",
+      "bytes": 185366,
+      "sha256": "0214bc6fdd3a24e4cc0fc4e0af738fa2a6e870f60cbc49cd91df05c6ab2b2504",
+      "git_blob_oid_of_actual_bytes": "4f623282bf10fbd8d1365768ac7c243ac1cd7834",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_16353462137150A1",
+      "bytes": 188661,
+      "sha256": "d01591e808cec492b6623d36864f308cb9418ef17e2fae51502affd09f6494ca",
+      "git_blob_oid_of_actual_bytes": "f5945adf6f7dc65c557e00d1ca8c8988c08b21df",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_223C002B2227B1E5",
+      "bytes": 206702,
+      "sha256": "8a4532c016016a36e762f45c2cb5251836810a47e9ffd7d02adab4a9ebd857dd",
+      "git_blob_oid_of_actual_bytes": "d44e5b31857caacdd7c2e1e7d02e19ab8e9515f2",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_34AE589DF63DC099",
+      "bytes": 206704,
+      "sha256": "c8c7ae551e5af76f28d67c23c4e619b2b4a390400ef6a8db2c803ef3fc374245",
+      "git_blob_oid_of_actual_bytes": "25e273caca3edf94d3d0b93098f389814641ac4d",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_1A786C6C730BBCB0",
+      "bytes": 198266,
+      "sha256": "a5222eccecb065a32b91cdbab25f0deb43c25cbca6d6db7111362207fe04b525",
+      "git_blob_oid_of_actual_bytes": "a4335b89a81b2c1319cccbe8f9db267715b55b2d",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_26820559FC288362",
+      "bytes": 216196,
+      "sha256": "296f340155613fec83c59f61febf28e180af81c3d0ea20a7e89f889dea09a53c",
+      "git_blob_oid_of_actual_bytes": "7668af22d9185e3b16e3b515c69181cd219b804b",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_C9DADFCF33658719",
+      "bytes": 470313,
+      "sha256": "7bfd3c94f52ccbf8197cfb44efcabde59207479b8acc307519835752874f8665",
+      "git_blob_oid_of_actual_bytes": "98186d8df23ed0f7b65e2ab21f49e7f37008f37b",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_BE20417946B64DFE",
+      "bytes": 27736,
+      "sha256": "14bf61dad6d350400de746b9c77a917cb639dc79e71102a53aa95719aa674c38",
+      "git_blob_oid_of_actual_bytes": "b0582cbcbca97b967622c720898614624c627be4",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_E30AD6A1002F35C4",
+      "bytes": 441434,
+      "sha256": "bdb408f193be42a53e351a6c1a307f39138f8e4730e2e41188026dbe33fbfad1",
+      "git_blob_oid_of_actual_bytes": "b3bc3445749842c2b99ac0e415c63a7bd01bb581",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_C59633B966D4125F",
+      "bytes": 3810,
+      "sha256": "e2dbe1cbf9a58b9917a704d4230b8a51fd277750e9f7d74b3a2216eb85e5ff88",
+      "git_blob_oid_of_actual_bytes": "a1e5f5958efd962ed6dbb9003065128c32cde487",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_696045EB31D7833D",
+      "bytes": 4568,
+      "sha256": "62069442d0392352f2dc08e64251084f2549b81e46d786399f02baad664a7377",
+      "git_blob_oid_of_actual_bytes": "8a789bc34812f66b18ff91f1544798a7b57d588c",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_A26BA45E6E5DEF7F",
+      "bytes": 5585,
+      "sha256": "bc3d261d06ca555827fe7e8180a6f357a2a4a674d5d94e11e092891228226183",
+      "git_blob_oid_of_actual_bytes": "952bc02794be76dec849bd364704b021379c5379",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_64907916C9C5EA8A",
+      "bytes": 9809,
+      "sha256": "587bcf229707cf8325b0d9bb88574b5f72680a5925755152d1e09addd6e53dae",
+      "git_blob_oid_of_actual_bytes": "09f3a09538acd330c4d55a06bddf8d9c59452c0e",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_38A6365C10099CA1",
+      "bytes": 2788,
+      "sha256": "4d3ace9c49328472d455b599424901191ee8de1e6f5386f5b4db50e74cce0e43",
+      "git_blob_oid_of_actual_bytes": "786d95f8bffc904f2d2d96ba543340f15d30aeac",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_9920EECB33960F1A",
+      "bytes": 3286,
+      "sha256": "c34022d42888158bf60921e93c75ef2e30ead67c2fbe3d5bc9c177508293246d",
+      "git_blob_oid_of_actual_bytes": "4eb57feed0f31c2925a1f40c766fbc84da7481da",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_934822BE9ED56E43",
+      "bytes": 4648,
+      "sha256": "cc094606c40ac7e9b4c5c0787fe83c83a76efad44666943d0b2ed6c3fa4bc218",
+      "git_blob_oid_of_actual_bytes": "22caf7b8e4bb7d6571e096869d3bed6d1753c2b0",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_98C73FB1AF900CBE",
+      "bytes": 7945,
+      "sha256": "b5b7cfe34605eb30021439a8421012aeeba00001f01bed5b388fa2418a890d42",
+      "git_blob_oid_of_actual_bytes": "d47730f790674a2c3f3144bdce488ab5cdc5d2e8",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_1FDD5272238750F9",
+      "bytes": 62639,
+      "sha256": "201056893fad683e6b47031115931f09f7613429621677f644168d4570cc3ef8",
+      "git_blob_oid_of_actual_bytes": "67065336a05ee25f49be2e38717b69449addd868",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_3F64A8682FC8608D",
+      "bytes": 63169,
+      "sha256": "16fb3222005e2353ccce451ed798ac142732b29416c7b2806f560ec1fc3b618c",
+      "git_blob_oid_of_actual_bytes": "bbadfbdc8e00202516c96e34442b962d2e4c2231",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_1D6DF0325F420092",
+      "bytes": 468265,
+      "sha256": "09a681105dfd2495f6668e1b2a62b9194ecfd35de76d40b32468a0cfac56341b",
+      "git_blob_oid_of_actual_bytes": "5a9811e336b10edfbf5a8a160e3b0d9a114e19cc",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_BCA777BCDBEB0B3F",
+      "bytes": 11845,
+      "sha256": "15b6c8e5af1319577db906fa4a1a54eefb64e946039f91d17f01003494701d41",
+      "git_blob_oid_of_actual_bytes": "7076cfa0e5b1d8ad00ce5492ce3b7b130061e536",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_EA90FE7D1544B03E",
+      "bytes": 533044,
+      "sha256": "f5e8a1a7146ca286f65f54b6fd827eb822273c4237ac0ca5c8c883386fc4d891",
+      "git_blob_oid_of_actual_bytes": "731355e6ea0440acbf6fbfdd87603f6bf4eb545a",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_46F03FD7C3B59D7C",
+      "bytes": 32429,
+      "sha256": "22c0b6835d6ef86a585acfccbdf36692eeccdff000b77910d64a725e65c8d27a",
+      "git_blob_oid_of_actual_bytes": "46f2ba5318fddb8506f6fe4eaea943fe0fb24805",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_293587BCE92F379B",
+      "bytes": 32423,
+      "sha256": "9ecb57b1c5f62b911a52771d0bf9f62d7402a0d02edc54ff4c3cebf28e7741b0",
+      "git_blob_oid_of_actual_bytes": "5a0a6ac41de130d34324456852976acd4c7a0535",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_CAD91D5892F152D9",
+      "bytes": 32462,
+      "sha256": "9fb184bf938e53884cd9cf9a8a17a2ff0a3db27a02e21269e69269382dd1b1bd",
+      "git_blob_oid_of_actual_bytes": "df2042cc47acf76872507a043bc935ab824865ea",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_041A7F151B61D709",
+      "bytes": 72333,
+      "sha256": "cb64b566811afc226c85d88e43a5fe20360fb7cf88b3945f61045a2588c2f6af",
+      "git_blob_oid_of_actual_bytes": "afcb7f6c3cef1df97460bed08a86d0e90e90789a",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_F315F3584831BD3E",
+      "bytes": 30905,
+      "sha256": "2d191341168219b8cad65b0f4eaa6cd777169e41fd982410ac448c6fce5c3945",
+      "git_blob_oid_of_actual_bytes": "c3803f0dfa8c50733327a08fa5f66ce6f97d6590",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_32C420AC0DD9E23F",
+      "bytes": 100216,
+      "sha256": "cd4ba87452ed83560328478b3556495116b3baa479f85b04bf7ca12357cd9400",
+      "git_blob_oid_of_actual_bytes": "86d861171deddcba4ffa49ed6d089d63e373199f",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    },
+    {
+      "witness_id": "private-custody-evidence:AMI_FROZEN_B77C6283A64CC11C",
+      "bytes": 5541,
+      "sha256": "10b999926b215d65eff90692867ac2e46f309f1ed44d96e90b9c967f603b42f2",
+      "git_blob_oid_of_actual_bytes": "93ac280a3dc814b6f95f0c2af45c3594b1da2dc3",
+      "kind": "Exact original private author/review/receipt/inverse artifact; no new source body exposure"
+    }
+  ],
+  "source19_metadata_only": [
+    {
+      "Ami_alias": "AM01",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E001_DEEP_READING.md",
+      "tuple": {
+        "bytes": 5569,
+        "sha256": "a4fb6f0650abe2e36684ae830810055c2c0d40e34c175527c937ff76c2218fb9",
+        "git_blob_oid_of_actual_bytes": "2cfa3f3fb22427358b1bb2c95958613d73473a92"
+      },
+      "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+      "ranges_and_tools": [
+        [
+          1,
+          35,
+          "1f8192"
+        ]
+      ]
+    },
+    {
+      "Ami_alias": "AM02",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E002_DEEP_READING.md",
+      "tuple": {
+        "bytes": 6723,
+        "sha256": "f2e35aa937604025b840b70900014f7c47199a74f507bb4527accddd662673c3",
+        "git_blob_oid_of_actual_bytes": "8c62783a20370f043b6220a70b9645b2c164c8bc"
+      },
+      "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+      "ranges_and_tools": [
+        [
+          1,
+          38,
+          "1f8192"
+        ]
+      ]
+    },
+    {
+      "Ami_alias": "AM03",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E003_DEEP_READING.md",
+      "tuple": {
+        "bytes": 7575,
+        "sha256": "409cc63812d2a901de0d7ded891b40bc8dda1df81bfc7aa87a3b3020b01dffb2",
+        "git_blob_oid_of_actual_bytes": "ee5db2ac32a5d864614dc43c23b5620520165efb"
+      },
+      "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+      "ranges_and_tools": [
+        [
+          1,
+          40,
+          "1f8192"
+        ]
+      ]
+    },
+    {
+      "Ami_alias": "AM04",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E004_DEEP_READING.md",
+      "tuple": {
+        "bytes": 5941,
+        "sha256": "206063c0cf27047603b2d9a64b3adbd814ff4c5ed4d40c167342002182ff2dd3",
+        "git_blob_oid_of_actual_bytes": "98013d091c7fb81a18ea6036b500814d51548805"
+      },
+      "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+      "ranges_and_tools": [
+        [
+          1,
+          35,
+          "7de2a9"
+        ]
+      ]
+    },
+    {
+      "Ami_alias": "AM05",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E005_DEEP_READING.md",
+      "tuple": {
+        "bytes": 6013,
+        "sha256": "ddf48a954b61ec4af0774692fd518ec31da33fd47747e5bfcd292357bf2ee3c6",
+        "git_blob_oid_of_actual_bytes": "bafbb30ae414142d820337f9941d8b30f1c0fa65"
+      },
+      "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+      "ranges_and_tools": [
+        [
+          1,
+          35,
+          "7de2a9"
+        ]
+      ]
+    },
+    {
+      "Ami_alias": "AM06",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E006_DEEP_READING.md",
+      "tuple": {
+        "bytes": 4898,
+        "sha256": "d93ae4904902d6142bf970c13d16873f9a98f4e1e71ccc2a69038e2d27ae4098",
+        "git_blob_oid_of_actual_bytes": "dd6f5713c857d1e79761543b41a2398cb91f3848"
+      },
+      "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+      "ranges_and_tools": [
+        [
+          1,
+          32,
+          "7de2a9"
+        ]
+      ]
+    },
+    {
+      "Ami_alias": "AM07",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E007_DEEP_READING.md",
+      "tuple": {
+        "bytes": 5445,
+        "sha256": "2537453c9b5bc16ab4b275813c0eaf4a6900996e92fb7e53c9ce005bb470ec2f",
+        "git_blob_oid_of_actual_bytes": "5e4a3767348c335693e33d88c06be38b81614fc5"
+      },
+      "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+      "ranges_and_tools": [
+        [
+          1,
+          35,
+          "57ff25"
+        ]
+      ]
+    },
+    {
+      "Ami_alias": "AM08",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E008_DEEP_READING.md",
+      "tuple": {
+        "bytes": 5427,
+        "sha256": "7757b826c87ce34013d0567621adb8a90ab09c87229b9ed9e2ba8d2ae03fa77e",
+        "git_blob_oid_of_actual_bytes": "12bf7d2d94cb381ca0d5706efa8ca01cc64f5e88"
+      },
+      "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+      "ranges_and_tools": [
+        [
+          1,
+          35,
+          "57ff25"
+        ]
+      ]
+    },
+    {
+      "Ami_alias": "AM09",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E009_DEEP_READING.md",
+      "tuple": {
+        "bytes": 6296,
+        "sha256": "621761a34ca30ee73472c3d1b8dec45b0b64a3a48eb16a14e108b42b62889bfd",
+        "git_blob_oid_of_actual_bytes": "dd21df9e3375d84a85535512fc77920ae25ce2dd"
+      },
+      "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+      "ranges_and_tools": [
+        [
+          1,
+          37,
+          "57ff25"
+        ]
+      ]
+    },
+    {
+      "Ami_alias": "AM10",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E010_DEEP_READING.md",
+      "tuple": {
+        "bytes": 6081,
+        "sha256": "1f145e56e2502648be73ece0ffc7df04c04919ace3122f0f1a1bbea5ac333675",
+        "git_blob_oid_of_actual_bytes": "5355335a4c0517a600509ffa41fa43116790abfe"
+      },
+      "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+      "ranges_and_tools": [
+        [
+          1,
+          37,
+          "d1260a"
+        ]
+      ]
+    },
+    {
+      "Ami_alias": "AM11",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E011_DEEP_READING.md",
+      "tuple": {
+        "bytes": 5448,
+        "sha256": "90d84759c3e2d89c1c268d35bb9ebace287fad98ca1643f1214a7bfb7e0a1083",
+        "git_blob_oid_of_actual_bytes": "bdcacdb065ae5a4c1d01d03ae04fb8b090df7fa7"
+      },
+      "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+      "ranges_and_tools": [
+        [
+          1,
+          35,
+          "d1260a"
+        ]
+      ]
+    },
+    {
+      "Ami_alias": "AM12",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E012_DEEP_READING.md",
+      "tuple": {
+        "bytes": 5095,
+        "sha256": "b9775698ccc1c6aceac919e318dbf62c32816a0aff2ed4d7d400e35c0f1c8d34",
+        "git_blob_oid_of_actual_bytes": "cd117c068e7f52b3377f3f4608e11b2af57ce703"
+      },
+      "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+      "ranges_and_tools": [
+        [
+          1,
+          34,
+          "d1260a"
+        ]
+      ]
+    },
+    {
+      "Ami_alias": "AM13",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E013_DEEP_READING.md",
+      "tuple": {
+        "bytes": 5320,
+        "sha256": "61d3c148bde4013254aeb1c7b7e9343e2956e8df2a7d6ede7cc23bd0d56646fc",
+        "git_blob_oid_of_actual_bytes": "ce9a3e94b55acdfd3827f7d5f77487f54029376a"
+      },
+      "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+      "ranges_and_tools": [
+        [
+          1,
+          35,
+          "7038e0"
+        ]
+      ]
+    },
+    {
+      "Ami_alias": "AM14",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E014_DEEP_READING.md",
+      "tuple": {
+        "bytes": 5764,
+        "sha256": "9c9a0b7c6c7e0f910278c32a54ebbc01743244e2a93f9ff40820a04fec1b39c6",
+        "git_blob_oid_of_actual_bytes": "cf5e0e26d2c47723315c06351ac81df3b6577c1c"
+      },
+      "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING",
+      "ranges_and_tools": [
+        [
+          1,
+          35,
+          "7038e0"
+        ]
+      ]
+    },
+    {
+      "Ami_alias": "AM15",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md",
+      "tuple": {
+        "bytes": 11521,
+        "sha256": "9a5b3c6916fc210deaa56d9f47f8991fb997e9d4df4b3ff115122bfac7449738",
+        "git_blob_oid_of_actual_bytes": "c02222a483d24e1275c1d0ed4b83cc326efcb49d"
+      },
+      "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING_WITH_MATERIAL_DISPLAY_REPAIR",
+      "ranges_and_tools": [
+        [
+          1,
+          54,
+          "7038e0"
+        ],
+        [
+          55,
+          58,
+          "178b40"
+        ]
+      ]
+    },
+    {
+      "Ami_alias": "AM16",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "tuple": {
+        "bytes": 19594,
+        "sha256": "f6438d5cccc1582c1a86b1e68be27a9321ef3f8bdb4ce21862fffbaad4fc3df9",
+        "git_blob_oid_of_actual_bytes": "3c5bdbe922e2ecb13e74c415affe1fa6a4392cf1"
+      },
+      "grade": "OWN_COMPLETE_ADMITTED_WRITTEN_ANALYTICAL_NORMAL_MEANING_WITH_MATERIAL_DISPLAY_REPAIR",
+      "ranges_and_tools": [
+        [
+          1,
+          100,
+          "178b40"
+        ],
+        [
+          101,
+          677,
+          "36b5f6"
+        ]
+      ]
+    },
+    {
+      "Ami_alias": "AM17",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_861/BLUE_ARCHIVE_EVENT_861_CONTEXTUALIZATION_CHECKPOINT.md",
+      "tuple": {
+        "bytes": 50993,
+        "sha256": "6f64262858301f3100f5edbf8b65c6463e117ad15ac607e6e537d1aa467bc553",
+        "git_blob_oid_of_actual_bytes": "cdd0f12e2ac27de5538ee7dc1293368df71878a4"
+      },
+      "grade": "ADEQUATE_PRIOR_OWN_SELECTED_CONNECTED_ADMITTED_WRITTEN_ANALYTICAL_ARGUMENT_AND_TAIL_REUSED",
+      "ranges_and_tools": [
+        [
+          34,
+          42,
+          "f5add3"
+        ],
+        [
+          63,
+          164,
+          "f5add3"
+        ],
+        [
+          165,
+          285,
+          "0893eb"
+        ]
+      ]
+    },
+    {
+      "Ami_alias": "AM18",
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KOTONE/BLUE_ARCHIVE_KOTONE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "tuple": {
+        "bytes": 24480,
+        "sha256": "f4644f7ca1a203f0f34f4664e7c270d93558b7425727560f47a8eeb1617cc944",
+        "git_blob_oid_of_actual_bytes": "a5b576913194450904ee29406c438c81249b3618"
+      },
+      "grade": "ROOT_CORE_SOURCE_RECEIVING_ATTRIBUTED_ONLY_NOT_FRESH_OWN_PRIVATE_NORMAL",
+      "ranges_and_tools": null
+    },
+    {
+      "Ami_alias": "AM19",
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KOKORO/BLUE_ARCHIVE_KOKORO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "tuple": {
+        "bytes": 42654,
+        "sha256": "dba39b01fa27e17f64d7cb0d2fbdd85b2f98cefd1c12feeb6056b0d0a12c77a4",
+        "git_blob_oid_of_actual_bytes": "650ad2faef3c42ae17ee4e264e315b2716096b6e"
+      },
+      "grade": "ROOT_CORE_SOURCE_RECEIVING_ATTRIBUTED_ONLY_NOT_FRESH_OWN_PRIVATE_NORMAL",
+      "ranges_and_tools": null
+    }
+  ],
+  "grade_authority_and_scope": {
+    "role": "OPERATIVE_PUBLIC_CURRENT_V4_SEMANTIC_AND_BYTE_BINDINGS; original scalar/payload/hash fields remain frozen dated snapshots after exact locator/key sanitization.",
+    "semantic_status": "ROOT_CURRENT_V4_BODY_AND_ALL105_PURPOSES_ADOPTED_WITH_LIMITS_AT_DISCLOSED_GRADES",
+    "original_tuple_role": "Old private preparation tuples remain explicit original custody witnesses. This additive qualification and supplemental transport supply actual current public byte aliases; no old hash/byte field silently rebound.",
+    "precision": "V3 wager referencesMAIN03L30 and unestablished guest consultation retained; V4 AP021 appraiser is Minato about Ami. Original V1 authoredTXT line22 is dated and superseded only for current use.",
+    "source_grade": "Author16 own complete admitted analytical MAIN/context,1 prior selectedEVENT861,2ROOT-attributed private;69 adequate own scopes and36 report meanings; original26whole79selected contributors attributed. No new source/105/primary/native/raw/AV or admission from composition.",
+    "author_composer_role": "receive_last16 authored Ami and this derivative; composition is not independent QA. Original middle V2/V3/V4 receiving and ROOT163/48/105/AP021 adoption are separate authorities.",
+    "ROOT_acceptance_route": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_CURRENT_ROOT_LITERARY_AND_ALL105_PURPOSE_ADOPTION_V1.json",
+    "current_QA_route": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_INDEPENDENT_CURRENT_COMPLETE_BODY_ALL105_AND_PRESERVATION_REVIEW_V1.json",
+    "original_custody_route": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_FROZEN_ORIGINAL_RECEIPT_AND_REVIEW_CUSTODY_V1.json",
+    "ROOT_final_public_composition_receiving": "PENDING",
+    "canonical_installation_sharedmetadata_publication_SOURCE_HK_FINAL_main": "PENDING_ROOT_ONLY",
+    "fixed355_29_25_384_788": "UNCHANGED",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "new_credit": 0
+  },
+  "current_body_identity": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_TOMOSHITA_AMI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "bytes": 32462,
+    "sha256": "9fb184bf938e53884cd9cf9a8a17a2ff0a3db27a02e21269e69269382dd1b1bd",
+    "git_blob_oid_of_actual_bytes": "df2042cc47acf76872507a043bc935ab824865ea"
+  },
+  "original_AUTHORED_TXT_AP021_line22": "Exact frozen V1 line22 retained; current AP021 Minato-appraiser counter governs operative use. No original author choice or source field deleted.",
+  "original_V1_V2_V3_V4_history": "All three bodies and all four index/register/verification/manifests, original105 parts, sourceV1/V2, authoredTXT, full private field/UTF8 inverses and three complete original independent reviews preserved exact.",
+  "recovery": "Private per-object scalar/path/key maps and full UTF8 literals restore exact originals after dropping named public additive fields. No encoded private original bodies/operational payloads are added to public custody.",
+  "dictionary_key_precision": "Prepared-body basenames in old review map keys are converted to opaque witnesses with explicit order-preserving key inverses; complete original reviewer fields/values and dictionary order restore exactly.",
+  "four_home_limits": "AmiM039 only; SammyM032/CARE/Odysseia institution separate, no named/parent/private identity acceptance.",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "new_credit": 0
+}

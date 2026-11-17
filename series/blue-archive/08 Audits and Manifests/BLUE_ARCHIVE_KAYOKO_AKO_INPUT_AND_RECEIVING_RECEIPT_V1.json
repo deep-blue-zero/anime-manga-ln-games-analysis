@@ -1,0 +1,1805 @@
+{
+  "schema": "BLUE_ARCHIVE_KAYOKO_AKO_INPUT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_COMPLETE_CANONICAL_INSTALLATION_PENDING",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS.md",
+  "current_scope": "355required/29mandatory non-denominator duties/25distinctparents/384homes unchanged",
+  "dated_source_beforeimage": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+  "dated_source_tree": "40b006f65bd1c98422d9093d08f53696c2d54cc9",
+  "accepted_first_milestone_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "fixed_preparation_snapshot": {
+    "accepted_package_sequence": [
+      121,
+      125
+    ],
+    "new_packages": 5,
+    "after_complete_ROOT_install": 125,
+    "characters": 95,
+    "directed_relationships": 15,
+    "ensembles": 5,
+    "institutions": 10,
+    "named_duties_after_complete_ROOT_install": 10,
+    "published_before_successor": 120,
+    "merged_main": 89,
+    "next_milestone": 178,
+    "later126plus": "EXCLUDED_FROM_FIXED_PROPOSAL",
+    "automatic_chain_required_before_assembly": "ROOT_ACCEPTED_EXACT_C690120_SOURCE_HOUSEKEEPING_FINAL_PASS",
+    "new_named_duty_credit": 0,
+    "maintenance_package_credit": 0
+  },
+  "current_source120_complete_chain": {
+    "original_exact_tuple": {
+      "path": "ROOT_C690_SOURCE120_PUBLICATION_CHAIN_ACCEPTANCE_V1.json",
+      "bytes": 6858,
+      "sha256": "7217d639a9209d16e7a3d7c27fced79ccb2e08bbae8ad0c40d7a08f56d343d6d",
+      "git_blob_oid_of_actual_bytes": "bcd927b29365cff78b8e28d733763a5a2b437c2c",
+      "immutable_transport_path": "immutable_originals/ROOT_C690_SOURCE120_PUBLICATION_CHAIN_ACCEPTANCE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "blue-archive/root-c690120-complete-publication-chain-acceptance/v1",
+      "decision": "ACCEPT_EXACT_SOURCE_HOUSEKEEPING_FINAL_COMPLETE_AUTOMATIC_CHAIN",
+      "checked_UTC": "2026-10-11T00:42:41.595999+00:00",
+      "source": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+      "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source_tree": "40b006f65bd1c98422d9093d08f53696c2d54cc9",
+      "source_parent": [
+        "7a146891ad9ffd999b2c4377d66a73313217a510"
+      ],
+      "original_capture": {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_C690_SOURCE120_COMPLETE_AUTOMATIC_CHAIN_V1/EXACT_COMPLETE_CHAIN_CAPTURE_AND_EXECUTED_WITNESSES_V1.json",
+        "bytes": 34429,
+        "sha256": "45f0fbdc5bb6e88e93db97888c0570ceee55aa9170c6880a03f4f709c65f847b",
+        "git_blob_sha1": "898fc20e8509c2b210b47e7e1b373a1c1fe8071b"
+      },
+      "runs_and_actual_execution": [
+        {
+          "role": "SOURCE",
+          "run": {
+            "id": 38097801331,
+            "name": "Repository audit",
+            "event": "push",
+            "head_sha": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38097801331",
+            "created_at": "2026-10-11T00:15:20Z",
+            "updated_at": "2026-10-11T00:26:25Z"
+          },
+          "complete_log": {
+            "path": "SOURCE_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 353030,
+            "lines": 2244,
+            "sha256": "ec766b4f99df95d91de98049e45882d3311d727ed6fa9066efedbca1f1be5b37",
+            "git_blob_oid_of_actual_bytes": "cc70012f043ac63db0acff5f95718f4e64d424f3"
+          },
+          "actual_archive_outcome": "success",
+          "actual_archive_SHA": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+          "actual_execution": {
+            "commit": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+            "outcome": "success",
+            "requested_profile": "shadow",
+            "executed_profile": "full",
+            "selection_enabled": false,
+            "discovered_tests": 292,
+            "tests_run": 292,
+            "errors": 0,
+            "failures": 0,
+            "expected_failures": 0,
+            "unexpected_successes": 0,
+            "skipped": 0
+          }
+        },
+        {
+          "role": "HOUSEKEEPING",
+          "run": {
+            "id": 38098429126,
+            "name": "Global index housekeeping",
+            "event": "workflow_run",
+            "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38098429126",
+            "created_at": "2026-10-11T00:26:27Z",
+            "updated_at": "2026-10-11T00:26:48Z"
+          },
+          "complete_log": {
+            "path": "HOUSEKEEPING_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 44323,
+            "lines": 267,
+            "sha256": "15fbc74bd61138feacd0d351b982d232ea86292b5550900c85534aca1fc081ce",
+            "git_blob_oid_of_actual_bytes": "c013d6291bf41cb0898d1e429556359b001b951c"
+          },
+          "actual_noop_and_dispatch_witnesses": [
+            {
+              "line": 265,
+              "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T00:26:46.7803771Z PASS: dispatched the full audit for c6908f2dba6f3b379bb84679fdd01175ac5894da"
+            },
+            {
+              "line": 266,
+              "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T00:26:46.7805459Z PASS: unchanged routing and branch boundaries verified; final audit dispatched"
+            }
+          ]
+        },
+        {
+          "role": "FINAL_FULL_AUDIT",
+          "run": {
+            "id": 38098449169,
+            "name": "Repository audit",
+            "event": "repository_dispatch",
+            "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38098449169",
+            "created_at": "2026-10-11T00:26:48Z",
+            "updated_at": "2026-10-11T00:41:30Z"
+          },
+          "complete_log": {
+            "path": "FINAL_FULL_AUDIT_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 352428,
+            "lines": 2239,
+            "sha256": "8b6d654325e5e649bee4e4f9bd4abad334884d85ca962dbc2561c238afc1cd3b",
+            "git_blob_oid_of_actual_bytes": "f7c3e52814a2183238990a405c98d5f92a6b708a"
+          },
+          "actual_archive_outcome": "success",
+          "actual_archive_SHA": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+          "actual_execution": {
+            "commit": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+            "outcome": "success",
+            "requested_profile": "shadow",
+            "executed_profile": "full",
+            "selection_enabled": false,
+            "discovered_tests": 292,
+            "tests_run": 292,
+            "errors": 0,
+            "failures": 0,
+            "expected_failures": 0,
+            "unexpected_successes": 0,
+            "skipped": 0
+          }
+        }
+      ],
+      "exact_final_status": {
+        "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/c6908f2dba6f3b379bb84679fdd01175ac5894da",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "id": 56069295882,
+        "node_id": "SC_kwDOUJ9ads8AAAANDf2PCg",
+        "state": "success",
+        "description": "Exact commit passed the repository audit",
+        "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38098449169",
+        "context": "Repository integration audit",
+        "created_at": "2026-10-11T00:41:26Z",
+        "updated_at": "2026-10-11T00:41:26Z"
+      },
+      "ROOT_actual_execution_summary_receiving": "ROOT independently received complete actual executed summaries ffe50d after capture9459ab: source38097801331 and final38098449169 actually audited c6908f2dba6f3b379bb84679fdd01175ac5894da, each292 discovered and292 run, full profile, selection disabled, zero errors/failures/skips/expected failures/unexpected successes. House38098429126 supplies both exact no-op boundary and final dispatch witnesses. All runs/jobs/steps succeeded; final exact-source status56069295882 points to38098449169. Remote sourcec690/tree40b006f65bd1c98422d9093d08f53696c2d54cc9/parent7a146891ad9ffd999b2c4377d66a73313217a510 and mainb76 are captured. Whole logs retained and verified, without whole-log human reading claim. Published120, ROOTaccepted125, merged89 remain distinct; no new analytical or milestone credit.",
+      "whole_log_human_reading_claim": false,
+      "progress": "Published120/merged89; ROOTaccepted125 remains separate. Nextmerge178/full355cast target unchanged; zero new literary acceptance or milestone.",
+      "source_or_repository_mutations": 0,
+      "all14_original_gaps": "OPEN_UNCHANGED",
+      "UNBOUND9_and_unpublished39": "UNREAD_UNHASHED_UNCHANGED"
+    }
+  },
+  "original_exact_tuple": {
+    "path": "KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/KAYOKO_AKO_BOUNDARY_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+    "bytes": 97816,
+    "sha256": "4093cd82bd44cb5156024bf9e87644840298d3c456d06f84746e47bbe620a5b4",
+    "git_blob_oid_of_actual_bytes": "2c2fdf5afe993acb44b65f1b0c3c5c2d7a0dbb97",
+    "immutable_transport_path": "immutable_originals/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/KAYOKO_AKO_BOUNDARY_INPUT_AND_RECEIVING_RECEIPT_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "KAYOKO_AKO_BOUNDARY_INPUT_AND_RECEIVING_RECEIPT_V1",
+    "status": "COMPLETE_DIRECTED_AUTHOR_CANDIDATE_PENDING_ROOT_RECEIVING",
+    "author_body": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 38219,
+      "sha256": "3fa4a38eb8d7e5dde965b166e4ae62b22a51e610cdd316a54a071e61ae4f17f5",
+      "git_blob_sha1": "63ba2e1cafeadd12f748af3980a8d1b14b5a0163"
+    },
+    "canonical_target": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS.md",
+    "existing_home": "P3-REL-KAYOKO-AKO-PS68-PANDEMONIUM-BOUNDARIES",
+    "source_responsibility": "GEHENNA::significant_relationship_and_institution_responsibilities::12",
+    "named_duties": [],
+    "source_snapshot": "7a146891ad9ffd999b2c4377d66a73313217a510",
+    "allocation": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYOKO_AKO_PS68_EXISTING_DIRECTED_BOUNDARY_AUTHOR_ALLOCATION_V1.json",
+      "bytes": 76501,
+      "sha256": "43cce522ee63a9891260fe49b9dde021ffcef4c463736c62d2454e55aa66866b",
+      "git_blob_sha1": "a59619e25e045007823e7b059f1bae612c9dbcd9"
+    },
+    "frozen_plan": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_BOUNDARY_METADATA_SOURCE_PLAN_V1/KAYOKO_AKO_PS68_EXISTING_BOUNDARY_METADATA_SOURCE_PLAN_V1.json",
+      "bytes": 89328,
+      "sha256": "c67c8b3a76a18630b886cc2f45ac6ec4fc10f742e035cd3c2acf92cda614adfc",
+      "git_blob_sha1": "2c5429d1abf67ed95c00d2cd97e138875f935d00"
+    },
+    "frozen_plan_manifest": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_BOUNDARY_METADATA_SOURCE_PLAN_V1/KAYOKO_AKO_PS68_METADATA_SOURCE_PLAN_EXACT_DELIVERY_MANIFEST_V1.json",
+      "bytes": 15203,
+      "sha256": "b1f65761d0f19d8e958b92af26a1256617d4b69ea4f8a24ce492efb3bfe37baa",
+      "git_blob_sha1": "e9a12a111929566cb300aff8fb2f2010dd2484d7"
+    },
+    "frozen_plan_seal": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_BOUNDARY_METADATA_SOURCE_PLAN_V1/KAYOKO_AKO_PS68_METADATA_SOURCE_PLAN_FINAL_FREEZE_V1.json",
+      "bytes": 10911,
+      "sha256": "bc5ca907285002f636fe4c2c16f5bb7aafcf362f85d72a6a42fc87eb367adef5",
+      "git_blob_sha1": "ca7bad87e447fe070a341e8d593ec59f95a721b4"
+    },
+    "inputs": [
+      {
+        "input_id": "M01",
+        "repository_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+        "original_R_tuple_metadata_only": {
+          "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+          "bytes": 102586,
+          "sha256": "afe057385a0cd562a265f7877f7bd392ada159cb93436488327f8acbb1feb45f",
+          "git_blob_sha1": "d8fb9bd1a93c1e163f158f6031963bb972f24d74"
+        },
+        "prior_frozen_C_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_BOUNDARY_METADATA_SOURCE_PLAN_V1/EXACT_SMALL_INPUTS/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+          "bytes": 102586,
+          "sha256": "afe057385a0cd562a265f7877f7bd392ada159cb93436488327f8acbb1feb45f",
+          "git_blob_sha1": "d8fb9bd1a93c1e163f158f6031963bb972f24d74"
+        },
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+          "bytes": 102586,
+          "sha256": "afe057385a0cd562a265f7877f7bd392ada159cb93436488327f8acbb1feb45f",
+          "git_blob_sha1": "d8fb9bd1a93c1e163f158f6031963bb972f24d74"
+        },
+        "captured_grade": "Bound current normal/metadata C copy; no original R/H reread here."
+      },
+      {
+        "input_id": "M02",
+        "repository_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "original_R_tuple_metadata_only": {
+          "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+          "bytes": 461112,
+          "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+          "git_blob_sha1": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1"
+        },
+        "prior_frozen_C_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_BOUNDARY_METADATA_SOURCE_PLAN_V1/EXACT_SMALL_INPUTS/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+          "bytes": 461112,
+          "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+          "git_blob_sha1": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1"
+        },
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+          "bytes": 461112,
+          "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+          "git_blob_sha1": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1"
+        },
+        "captured_grade": "Bound current normal/metadata C copy; no original R/H reread here."
+      },
+      {
+        "input_id": "M03",
+        "repository_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_MANDATORY_NAMED_SECTION_INDEX_V3.csv",
+        "original_R_tuple_metadata_only": {
+          "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_MANDATORY_NAMED_SECTION_INDEX_V3.csv",
+          "bytes": 10542,
+          "sha256": "db635ea39bc77918adf0e81dc5f82af6b35674b547612e0a41bcc184e13f1253",
+          "git_blob_sha1": "8e9bc2c88126dc3eed50f03298b90b56a55e787d"
+        },
+        "prior_frozen_C_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_BOUNDARY_METADATA_SOURCE_PLAN_V1/EXACT_SMALL_INPUTS/BLUE_ARCHIVE_PHASE3_MANDATORY_NAMED_SECTION_INDEX_V3.csv",
+          "bytes": 10542,
+          "sha256": "db635ea39bc77918adf0e81dc5f82af6b35674b547612e0a41bcc184e13f1253",
+          "git_blob_sha1": "8e9bc2c88126dc3eed50f03298b90b56a55e787d"
+        },
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/BLUE_ARCHIVE_PHASE3_MANDATORY_NAMED_SECTION_INDEX_V3.csv",
+          "bytes": 10542,
+          "sha256": "db635ea39bc77918adf0e81dc5f82af6b35674b547612e0a41bcc184e13f1253",
+          "git_blob_sha1": "8e9bc2c88126dc3eed50f03298b90b56a55e787d"
+        },
+        "captured_grade": "Bound current normal/metadata C copy; no original R/H reread here."
+      },
+      {
+        "input_id": "M04",
+        "repository_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+        "original_R_tuple_metadata_only": {
+          "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+          "bytes": 75339,
+          "sha256": "ba15bbfb3e7f25be67494fcf505d3e98e73a5b74eabceacf9dde3f6314da023c",
+          "git_blob_sha1": "88ddcb150f2afa22655552e859d0443349bd7f9f"
+        },
+        "prior_frozen_C_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_BOUNDARY_METADATA_SOURCE_PLAN_V1/EXACT_SMALL_INPUTS/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+          "bytes": 75339,
+          "sha256": "ba15bbfb3e7f25be67494fcf505d3e98e73a5b74eabceacf9dde3f6314da023c",
+          "git_blob_sha1": "88ddcb150f2afa22655552e859d0443349bd7f9f"
+        },
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+          "bytes": 75339,
+          "sha256": "ba15bbfb3e7f25be67494fcf505d3e98e73a5b74eabceacf9dde3f6314da023c",
+          "git_blob_sha1": "88ddcb150f2afa22655552e859d0443349bd7f9f"
+        },
+        "captured_grade": "Bound current normal/metadata C copy; no original R/H reread here."
+      },
+      {
+        "input_id": "A01",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "original_R_tuple_metadata_only": {
+          "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "bytes": 57532,
+          "sha256": "3f22db6cbdcd4e184f44bec9a1574fd26226e294694d05cff37c7ff6dbd4530d",
+          "git_blob_sha1": "ef5733fa79c59f3ef48312e176b88596c22f36e4"
+        },
+        "prior_frozen_C_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_BOUNDARY_METADATA_SOURCE_PLAN_V1/EXACT_SMALL_INPUTS/A01__BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "bytes": 57532,
+          "sha256": "3f22db6cbdcd4e184f44bec9a1574fd26226e294694d05cff37c7ff6dbd4530d",
+          "git_blob_sha1": "ef5733fa79c59f3ef48312e176b88596c22f36e4"
+        },
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/A01__BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "bytes": 57532,
+          "sha256": "3f22db6cbdcd4e184f44bec9a1574fd26226e294694d05cff37c7ff6dbd4530d",
+          "git_blob_sha1": "ef5733fa79c59f3ef48312e176b88596c22f36e4"
+        },
+        "captured_grade": "Bound current normal/metadata C copy; no original R/H reread here."
+      },
+      {
+        "input_id": "A02",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "original_R_tuple_metadata_only": {
+          "path": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 37075,
+          "sha256": "d7bdc25e91b1a9671bce5c9a1852e735015d672c2fb8a038c65d75587078f1e9",
+          "git_blob_sha1": "8b67cc9f6273a83cdda5d76fda3346ff5ee5c9e5"
+        },
+        "prior_frozen_C_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_BOUNDARY_METADATA_SOURCE_PLAN_V1/EXACT_SMALL_INPUTS/A02__BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 37075,
+          "sha256": "d7bdc25e91b1a9671bce5c9a1852e735015d672c2fb8a038c65d75587078f1e9",
+          "git_blob_sha1": "8b67cc9f6273a83cdda5d76fda3346ff5ee5c9e5"
+        },
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/A02__BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 37075,
+          "sha256": "d7bdc25e91b1a9671bce5c9a1852e735015d672c2fb8a038c65d75587078f1e9",
+          "git_blob_sha1": "8b67cc9f6273a83cdda5d76fda3346ff5ee5c9e5"
+        },
+        "captured_grade": "Bound current normal/metadata C copy; no original R/H reread here."
+      },
+      {
+        "input_id": "A03",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/MUTSUKI/BLUE_ARCHIVE_MUTSUKI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "original_R_tuple_metadata_only": {
+          "path": "series/blue-archive/02 Sequential Readings/BOND/MUTSUKI/BLUE_ARCHIVE_MUTSUKI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 39012,
+          "sha256": "185fd6b380dae208c62aac88889ba32063fe43504f31f258c076ec2c7a476046",
+          "git_blob_sha1": "55d4a79455ec2b91c0c406fe1141325bbb1f44cc"
+        },
+        "prior_frozen_C_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_BOUNDARY_METADATA_SOURCE_PLAN_V1/EXACT_SMALL_INPUTS/A03__BLUE_ARCHIVE_MUTSUKI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 39012,
+          "sha256": "185fd6b380dae208c62aac88889ba32063fe43504f31f258c076ec2c7a476046",
+          "git_blob_sha1": "55d4a79455ec2b91c0c406fe1141325bbb1f44cc"
+        },
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/A03__BLUE_ARCHIVE_MUTSUKI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 39012,
+          "sha256": "185fd6b380dae208c62aac88889ba32063fe43504f31f258c076ec2c7a476046",
+          "git_blob_sha1": "55d4a79455ec2b91c0c406fe1141325bbb1f44cc"
+        },
+        "captured_grade": "Bound current normal/metadata C copy; no original R/H reread here."
+      },
+      {
+        "input_id": "A04",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KAYOKO/BLUE_ARCHIVE_KAYOKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "original_R_tuple_metadata_only": {
+          "path": "series/blue-archive/02 Sequential Readings/BOND/KAYOKO/BLUE_ARCHIVE_KAYOKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 39932,
+          "sha256": "aebc27804ef2f1117b870b7503ee0895164a04d0103e92b99bb9ed21628a3915",
+          "git_blob_sha1": "0be95446fe08f99cbe8948ca2091954f7aa0c9a0"
+        },
+        "prior_frozen_C_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_BOUNDARY_METADATA_SOURCE_PLAN_V1/EXACT_SMALL_INPUTS/A04__BLUE_ARCHIVE_KAYOKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 39932,
+          "sha256": "aebc27804ef2f1117b870b7503ee0895164a04d0103e92b99bb9ed21628a3915",
+          "git_blob_sha1": "0be95446fe08f99cbe8948ca2091954f7aa0c9a0"
+        },
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/A04__BLUE_ARCHIVE_KAYOKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 39932,
+          "sha256": "aebc27804ef2f1117b870b7503ee0895164a04d0103e92b99bb9ed21628a3915",
+          "git_blob_sha1": "0be95446fe08f99cbe8948ca2091954f7aa0c9a0"
+        },
+        "captured_grade": "Bound current normal/metadata C copy; no original R/H reread here."
+      },
+      {
+        "input_id": "A05",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/HARUKA/BLUE_ARCHIVE_HARUKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "original_R_tuple_metadata_only": {
+          "path": "series/blue-archive/02 Sequential Readings/BOND/HARUKA/BLUE_ARCHIVE_HARUKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 44061,
+          "sha256": "8fa72b3edc389927d54e085369b39adcaa25946141869bdad8164490ca567d5b",
+          "git_blob_sha1": "a54f86d6079a857e0b23c72b3679598978f9522f"
+        },
+        "prior_frozen_C_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_BOUNDARY_METADATA_SOURCE_PLAN_V1/EXACT_SMALL_INPUTS/A05__BLUE_ARCHIVE_HARUKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 44061,
+          "sha256": "8fa72b3edc389927d54e085369b39adcaa25946141869bdad8164490ca567d5b",
+          "git_blob_sha1": "a54f86d6079a857e0b23c72b3679598978f9522f"
+        },
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/A05__BLUE_ARCHIVE_HARUKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 44061,
+          "sha256": "8fa72b3edc389927d54e085369b39adcaa25946141869bdad8164490ca567d5b",
+          "git_blob_sha1": "a54f86d6079a857e0b23c72b3679598978f9522f"
+        },
+        "captured_grade": "Bound current normal/metadata C copy; no original R/H reread here."
+      },
+      {
+        "input_id": "A06",
+        "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+        "original_R_tuple_metadata_only": {
+          "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+          "bytes": 25362,
+          "sha256": "5272f38efcec91af3817c895c191a01d2d1c1d9c04dca5da3c304685cb593843",
+          "git_blob_sha1": "17e378db57541ef25cb16e08f9a4db4e4111bc51"
+        },
+        "prior_frozen_C_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_BOUNDARY_METADATA_SOURCE_PLAN_V1/EXACT_SMALL_INPUTS/A06__BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+          "bytes": 25362,
+          "sha256": "5272f38efcec91af3817c895c191a01d2d1c1d9c04dca5da3c304685cb593843",
+          "git_blob_sha1": "17e378db57541ef25cb16e08f9a4db4e4111bc51"
+        },
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/A06__BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+          "bytes": 25362,
+          "sha256": "5272f38efcec91af3817c895c191a01d2d1c1d9c04dca5da3c304685cb593843",
+          "git_blob_sha1": "17e378db57541ef25cb16e08f9a4db4e4111bc51"
+        },
+        "captured_grade": "Bound current normal/metadata C copy; no original R/H reread here."
+      },
+      {
+        "input_id": "A07",
+        "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2201_DEEP_READING.md",
+        "original_R_tuple_metadata_only": {
+          "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2201_DEEP_READING.md",
+          "bytes": 20604,
+          "sha256": "54bfc7a4c14e258acdfe36e28b5be1b845ad3347a2748f2bf3a0f95da5d69e43",
+          "git_blob_sha1": "07fa89af78ca48473df3f8daaf72052003b93aaa"
+        },
+        "prior_frozen_C_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_BOUNDARY_METADATA_SOURCE_PLAN_V1/EXACT_SMALL_INPUTS/A07__BLUE_ARCHIVE_GROUP_2201_DEEP_READING.md",
+          "bytes": 20604,
+          "sha256": "54bfc7a4c14e258acdfe36e28b5be1b845ad3347a2748f2bf3a0f95da5d69e43",
+          "git_blob_sha1": "07fa89af78ca48473df3f8daaf72052003b93aaa"
+        },
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/A07__BLUE_ARCHIVE_GROUP_2201_DEEP_READING.md",
+          "bytes": 20604,
+          "sha256": "54bfc7a4c14e258acdfe36e28b5be1b845ad3347a2748f2bf3a0f95da5d69e43",
+          "git_blob_sha1": "07fa89af78ca48473df3f8daaf72052003b93aaa"
+        },
+        "captured_grade": "Bound current normal/metadata C copy; no original R/H reread here."
+      },
+      {
+        "input_id": "A08",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "original_R_tuple_metadata_only": {
+          "path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 93829,
+          "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+          "git_blob_sha1": "512a08b30bfa91dee27087fd743809dc8aa30b98"
+        },
+        "prior_frozen_C_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_BOUNDARY_METADATA_SOURCE_PLAN_V1/EXACT_SMALL_INPUTS/A08__BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 93829,
+          "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+          "git_blob_sha1": "512a08b30bfa91dee27087fd743809dc8aa30b98"
+        },
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/A08__BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 93829,
+          "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+          "git_blob_sha1": "512a08b30bfa91dee27087fd743809dc8aa30b98"
+        },
+        "captured_grade": "Bound current normal/metadata C copy; no original R/H reread here."
+      },
+      {
+        "input_id": "A09",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "original_R_tuple_metadata_only": {
+          "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 64961,
+          "sha256": "545a9d71b8ff27ee449408de7924258aff4481d88b516a077d1ec025834399f1",
+          "git_blob_sha1": "05843ddb489270bdafbb96eec23b0a7936c5e586"
+        },
+        "prior_frozen_C_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_BOUNDARY_METADATA_SOURCE_PLAN_V1/EXACT_SMALL_INPUTS/A09__BLUE_ARCHIVE_MAIN_S2_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 64961,
+          "sha256": "545a9d71b8ff27ee449408de7924258aff4481d88b516a077d1ec025834399f1",
+          "git_blob_sha1": "05843ddb489270bdafbb96eec23b0a7936c5e586"
+        },
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/A09__BLUE_ARCHIVE_MAIN_S2_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 64961,
+          "sha256": "545a9d71b8ff27ee449408de7924258aff4481d88b516a077d1ec025834399f1",
+          "git_blob_sha1": "05843ddb489270bdafbb96eec23b0a7936c5e586"
+        },
+        "captured_grade": "Bound current normal/metadata C copy; no original R/H reread here."
+      },
+      {
+        "input_id": "CONTROL_architecture",
+        "original_C_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_INSTITUTION_SYNTHESIS/EXACT_INPUTS/CONTROL04__BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+          "bytes": 52261,
+          "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+          "git_blob_sha1": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45"
+        },
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/CONTROL_architecture__CONTROL04__BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+          "bytes": 52261,
+          "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+          "git_blob_sha1": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45"
+        },
+        "grade": "Qualified prior own complete/bounded governance receiving; no current R authority or fresh whole-primary claim."
+      },
+      {
+        "input_id": "CONTROL_method",
+        "original_C_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_INSTITUTION_SYNTHESIS/EXACT_INPUTS/CONTROL05__BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+          "bytes": 53414,
+          "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+          "git_blob_sha1": "49c7b15ecae4e2a7819b08e2d7392aa095caf982"
+        },
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/CONTROL_method__CONTROL05__BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+          "bytes": 53414,
+          "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+          "git_blob_sha1": "49c7b15ecae4e2a7819b08e2d7392aa095caf982"
+        },
+        "grade": "Qualified prior own complete/bounded governance receiving; no current R authority or fresh whole-primary claim."
+      },
+      {
+        "input_id": "CONTROL_AGENTS",
+        "original_C_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_INSTITUTION_SYNTHESIS/EXACT_INPUTS/CONTROL03__AGENTS.md",
+          "bytes": 6723,
+          "sha256": "efd902f7c560a9c5daddf1250887ac0e6e4f8466ed4803ca4723c91dcd800053",
+          "git_blob_sha1": "53c11ea1bb49939019a618bc10944ae6865f0426"
+        },
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/CONTROL_AGENTS__CONTROL03__AGENTS.md",
+          "bytes": 6723,
+          "sha256": "efd902f7c560a9c5daddf1250887ac0e6e4f8466ed4803ca4723c91dcd800053",
+          "git_blob_sha1": "53c11ea1bb49939019a618bc10944ae6865f0426"
+        },
+        "grade": "Qualified prior own complete/bounded governance receiving; no current R authority or fresh whole-primary claim."
+      },
+      {
+        "input_id": "CONTROL_authority_state",
+        "original_C_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_INSTITUTION_SYNTHESIS/EXACT_INPUTS/CONTROL00__AUTHORITY_STATE.yaml",
+          "bytes": 3708,
+          "sha256": "65676d6bdb00f0d099b016c5b149f03451cfdd96bedef87204780e04b3ddd70a",
+          "git_blob_sha1": "114b352dbc910c03846bd59102b22975f889e080"
+        },
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/CONTROL_authority_state__CONTROL00__AUTHORITY_STATE.yaml",
+          "bytes": 3708,
+          "sha256": "65676d6bdb00f0d099b016c5b149f03451cfdd96bedef87204780e04b3ddd70a",
+          "git_blob_sha1": "114b352dbc910c03846bd59102b22975f889e080"
+        },
+        "grade": "Qualified prior own complete/bounded governance receiving; no current R authority or fresh whole-primary claim."
+      },
+      {
+        "input_id": "CONTROL_authority_scope",
+        "original_C_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_INSTITUTION_SYNTHESIS/EXACT_INPUTS/CONTROL01__AUTHORITY_SCOPE.json",
+          "bytes": 3696,
+          "sha256": "008b7b2adf114c1f39dd86fae064344457dab5b9e45486623fc9237fb6ed0916",
+          "git_blob_sha1": "205be49e700d7084fc438021495e0bfdaf9401ab"
+        },
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/CONTROL_authority_scope__CONTROL01__AUTHORITY_SCOPE.json",
+          "bytes": 3696,
+          "sha256": "008b7b2adf114c1f39dd86fae064344457dab5b9e45486623fc9237fb6ed0916",
+          "git_blob_sha1": "205be49e700d7084fc438021495e0bfdaf9401ab"
+        },
+        "grade": "Qualified prior own complete/bounded governance receiving; no current R authority or fresh whole-primary claim."
+      },
+      {
+        "input_id": "CONTROL_routing",
+        "original_C_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_INSTITUTION_SYNTHESIS/EXACT_INPUTS/CONTROL02__CHATGPT_AUTHORITY_AND_ROUTING.md",
+          "bytes": 32734,
+          "sha256": "32caf60a2e1d5728ca239b0a2702670780e03d192cfc0711fd1ce961bfda4b73",
+          "git_blob_sha1": "7bf2a61aa5c0dfb04d814b0c9366d4bbab8a6cdb"
+        },
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/CONTROL_routing__CONTROL02__CHATGPT_AUTHORITY_AND_ROUTING.md",
+          "bytes": 32734,
+          "sha256": "32caf60a2e1d5728ca239b0a2702670780e03d192cfc0711fd1ce961bfda4b73",
+          "git_blob_sha1": "7bf2a61aa5c0dfb04d814b0c9366d4bbab8a6cdb"
+        },
+        "grade": "Qualified prior own complete/bounded governance receiving; no current R authority or fresh whole-primary claim."
+      },
+      {
+        "input_id": "ALLOCATION",
+        "original_C_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_KAYOKO_AKO_PS68_EXISTING_DIRECTED_BOUNDARY_AUTHOR_ALLOCATION_V1.json",
+          "bytes": 76501,
+          "sha256": "43cce522ee63a9891260fe49b9dde021ffcef4c463736c62d2454e55aa66866b",
+          "git_blob_sha1": "a59619e25e045007823e7b059f1bae612c9dbcd9"
+        },
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/ROOT_KAYOKO_AKO_PS68_EXISTING_DIRECTED_BOUNDARY_AUTHOR_ALLOCATION_V1.json",
+          "bytes": 76501,
+          "sha256": "43cce522ee63a9891260fe49b9dde021ffcef4c463736c62d2454e55aa66866b",
+          "git_blob_sha1": "a59619e25e045007823e7b059f1bae612c9dbcd9"
+        },
+        "actual_receiving": "ec7d89 1–165;7ec75b all remaining nonrepeated controls/gaps/requirements. All nine embedded source records equal the fully received frozen plan exactly; no false whole1221-line manual display claim."
+      }
+    ],
+    "nine_complete_meaning_scopes": [
+      {
+        "input_id": "A01",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/A01__BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "bytes": 57532,
+          "sha256": "3f22db6cbdcd4e184f44bec9a1574fd26226e294694d05cff37c7ff6dbd4530d",
+          "git_blob_sha1": "ef5733fa79c59f3ef48312e176b88596c22f36e4"
+        },
+        "prior_own_exact_declaration": {
+          "source_receipt": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/CENSUS_GEHENNA/GEHENNA_PS68_INPUT_AND_LITERAL_ROSTER_RECEIPT.json",
+            "bytes": 768006,
+            "sha256": "f8c99e7255377b9941861f297ee9a86baa75e7a1b2977fdc7f753bc77793bc4d",
+            "git_blob_sha1": "5c7feba15e1691e26ee3fa4d468a7126c76c4bc5"
+          },
+          "exact_historical_declaration": {
+            "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+            "bytes": 57532,
+            "sha256": "3f22db6cbdcd4e184f44bec9a1574fd26226e294694d05cff37c7ff6dbd4530d",
+            "receiving": "Whole accepted analytical argument through EOF, attributed original source readings; MINI32 reused from prior complete Yuuka receiving with exact-byte recheck and fresh relevant §12–14 comparison.",
+            "story_ids": [
+              "BA:bond:10004:002",
+              "BA:bond:10004:003",
+              "BA:bond:10004:005",
+              "BA:bond:10004:006",
+              "BA:bond:10004:008",
+              "BA:bond:10004:015",
+              "BA:bond:10022:002",
+              "BA:bond:10022:003",
+              "BA:bond:10022:005",
+              "BA:bond:10022:020",
+              "BA:bond:10086:002",
+              "BA:bond:10086:003",
+              "BA:bond:10086:005",
+              "BA:momotalk:10004:thread:100040010",
+              "BA:momotalk:10004:thread:100040090",
+              "BA:momotalk:10004:thread:100040210",
+              "BA:momotalk:10004:thread:100040310",
+              "BA:momotalk:10004:thread:100040370",
+              "BA:momotalk:10004:thread:100040450",
+              "BA:momotalk:10022:thread:100220010",
+              "BA:momotalk:10022:thread:100220190",
+              "BA:momotalk:10022:thread:100220360",
+              "BA:momotalk:10022:thread:100220510",
+              "BA:momotalk:10086:thread:100860010",
+              "BA:momotalk:10086:thread:100860080",
+              "BA:momotalk:10086:thread:100860160",
+              "BA:character_data:10004:profile_and_dialog",
+              "BA:character_data:10022:profile_and_dialog",
+              "BA:character_data:10086:profile_and_dialog",
+              "BA:character_data:event_costume:1900901101:character:10022",
+              "BA:character_data:event_costume:1900922001:character:10086",
+              "BA:character_data:event_costume:1900922401:character:10004",
+              "BA:bond:10087:002",
+              "BA:bond:10087:003",
+              "BA:bond:10087:005",
+              "BA:bond:20008:002",
+              "BA:bond:20008:003",
+              "BA:bond:20008:005",
+              "BA:momotalk:10087:thread:100870010",
+              "BA:momotalk:10087:thread:100870250",
+              "BA:momotalk:10087:thread:100870450",
+              "BA:momotalk:20008:thread:200080010",
+              "BA:momotalk:20008:thread:200080100",
+              "BA:momotalk:20008:thread:200080190",
+              "BA:character_data:10087:profile_and_dialog",
+              "BA:character_data:20008:profile_and_dialog",
+              "BA:character_data:event_costume:1900906301:character:20008",
+              "BA:character_data:event_costume:1900922101:character:10087",
+              "BA:bond:10006:002",
+              "BA:bond:10006:003",
+              "BA:bond:10006:005",
+              "BA:bond:10006:006",
+              "BA:bond:10006:008",
+              "BA:bond:10023:002",
+              "BA:bond:10023:003",
+              "BA:bond:10023:005",
+              "BA:bond:10023:006",
+              "BA:bond:10023:015",
+              "BA:momotalk:10006:thread:100060010",
+              "BA:momotalk:10006:thread:100060070",
+              "BA:momotalk:10006:thread:100060160",
+              "BA:momotalk:10006:thread:100060260",
+              "BA:momotalk:10006:thread:100060310",
+              "BA:momotalk:10023:thread:100230010",
+              "BA:momotalk:10023:thread:100230070",
+              "BA:momotalk:10023:thread:100230190",
+              "BA:momotalk:10023:thread:100230230",
+              "BA:momotalk:10023:thread:100230310",
+              "BA:character_data:10006:profile_and_dialog",
+              "BA:character_data:10023:profile_and_dialog",
+              "BA:character_data:event_costume:1900901201:character:10023",
+              "BA:bond:10030:002",
+              "BA:bond:10030:003",
+              "BA:bond:10030:005",
+              "BA:bond:10030:006",
+              "BA:bond:26000:002",
+              "BA:bond:26000:003",
+              "BA:bond:26000:005",
+              "BA:bond:26000:006",
+              "BA:bond:26000:015",
+              "BA:momotalk:10030:thread:100300010",
+              "BA:momotalk:10030:thread:100300120",
+              "BA:momotalk:10030:thread:100300210",
+              "BA:momotalk:10030:thread:100300270",
+              "BA:momotalk:26000:thread:260000010",
+              "BA:momotalk:26000:thread:260000060",
+              "BA:momotalk:26000:thread:260000160",
+              "BA:momotalk:26000:thread:260000230",
+              "BA:momotalk:26000:thread:260000460",
+              "BA:character_data:10030:profile_and_dialog",
+              "BA:character_data:26000:profile_and_dialog",
+              "BA:character_data:event_costume:1900902101:character:10030",
+              "BA:bond:10146:002",
+              "BA:bond:10146:003",
+              "BA:bond:10146:005",
+              "BA:bond:10146:006",
+              "BA:bond:20033:002",
+              "BA:bond:20033:003",
+              "BA:bond:20033:005",
+              "BA:bond:20033:006",
+              "BA:momotalk:10146:thread:101460010",
+              "BA:momotalk:10146:thread:101460080",
+              "BA:momotalk:10146:thread:101460170",
+              "BA:momotalk:10146:thread:101460240",
+              "BA:momotalk:20033:thread:200330010",
+              "BA:momotalk:20033:thread:200330090",
+              "BA:momotalk:20033:thread:200330200",
+              "BA:momotalk:20033:thread:200330310",
+              "BA:character_data:10146:profile_and_dialog",
+              "BA:character_data:20033:profile_and_dialog",
+              "BA:character_data:event_costume:1900922201:character:20033",
+              "BA:character_data:event_costume:1900957001:character:10146",
+              "BA:bond:10148:002",
+              "BA:bond:10148:003",
+              "BA:bond:10148:005",
+              "BA:bond:10148:006",
+              "BA:bond:20016:002",
+              "BA:bond:20016:003",
+              "BA:bond:20016:005",
+              "BA:bond:20016:006",
+              "BA:bond:20016:015",
+              "BA:momotalk:10148:thread:101480010",
+              "BA:momotalk:10148:thread:101480120",
+              "BA:momotalk:10148:thread:101480240",
+              "BA:momotalk:10148:thread:101480320",
+              "BA:momotalk:20016:thread:200160010",
+              "BA:momotalk:20016:thread:200160050",
+              "BA:momotalk:20016:thread:200160080",
+              "BA:momotalk:20016:thread:200160170",
+              "BA:momotalk:20016:thread:200160240",
+              "BA:character_data:10148:profile_and_dialog",
+              "BA:character_data:20016:profile_and_dialog",
+              "BA:character_data:event_costume:1900904101:character:20016",
+              "BA:character_data:event_costume:1900957201:character:10148",
+              "BA:bond:16014:002",
+              "BA:bond:16014:003",
+              "BA:bond:16014:005",
+              "BA:bond:16014:006",
+              "BA:bond:20060:002",
+              "BA:bond:20060:003",
+              "BA:bond:20060:005",
+              "BA:bond:20060:006",
+              "BA:momotalk:16014:thread:160140010",
+              "BA:momotalk:16014:thread:160140080",
+              "BA:momotalk:16014:thread:160140210",
+              "BA:momotalk:16014:thread:160140320",
+              "BA:momotalk:20060:thread:200600010",
+              "BA:momotalk:20060:thread:200600050",
+              "BA:momotalk:20060:thread:200600150",
+              "BA:momotalk:20060:thread:200600200",
+              "BA:character_data:16014:profile_and_dialog",
+              "BA:character_data:20060:profile_and_dialog",
+              "BA:character_data:event_costume:1900922301:character:16014",
+              "BA:character_data:event_costume:1900957301:character:20060",
+              "BA:bond:10147:002",
+              "BA:bond:10147:003",
+              "BA:bond:10147:005",
+              "BA:bond:10147:006",
+              "BA:bond:10147:008",
+              "BA:bond:20040:002",
+              "BA:bond:20040:003",
+              "BA:bond:20040:005",
+              "BA:bond:20040:006",
+              "BA:bond:20040:008",
+              "BA:momotalk:10147:thread:101470010",
+              "BA:momotalk:10147:thread:101470160",
+              "BA:momotalk:10147:thread:101470300",
+              "BA:momotalk:10147:thread:101470460",
+              "BA:momotalk:10147:thread:101470540",
+              "BA:momotalk:20040:thread:200400010",
+              "BA:momotalk:20040:thread:200400070",
+              "BA:momotalk:20040:thread:200400150",
+              "BA:momotalk:20040:thread:200400310",
+              "BA:momotalk:20040:thread:200400430",
+              "BA:character_data:10147:profile_and_dialog",
+              "BA:character_data:20040:profile_and_dialog",
+              "BA:character_data:event_costume:1900932001:character:20040",
+              "BA:character_data:event_costume:1900957101:character:10147",
+              "BA:bond:10107:002",
+              "BA:bond:10107:003",
+              "BA:bond:10107:005",
+              "BA:bond:10107:006",
+              "BA:bond:26016:002",
+              "BA:bond:26016:003",
+              "BA:bond:26016:005",
+              "BA:bond:26016:006",
+              "BA:momotalk:10107:thread:101070010",
+              "BA:momotalk:10107:thread:101070130",
+              "BA:momotalk:10107:thread:101070250",
+              "BA:momotalk:10107:thread:101070320",
+              "BA:momotalk:26016:thread:260160010",
+              "BA:momotalk:26016:thread:260160150",
+              "BA:momotalk:26016:thread:260160280",
+              "BA:momotalk:26016:thread:260160500",
+              "BA:character_data:10107:profile_and_dialog",
+              "BA:character_data:26016:profile_and_dialog",
+              "BA:character_data:event_costume:1900932101:character:10107",
+              "BA:character_data:event_costume:1900957401:character:26016",
+              "BA:bond:20022:002",
+              "BA:bond:20022:003",
+              "BA:bond:20022:005",
+              "BA:bond:23001:002",
+              "BA:bond:23001:003",
+              "BA:bond:23001:005",
+              "BA:bond:23001:006",
+              "BA:bond:23001:008",
+              "BA:momotalk:20022:thread:200220010",
+              "BA:momotalk:20022:thread:200220070",
+              "BA:momotalk:20022:thread:200220170",
+              "BA:momotalk:23001:thread:230010010",
+              "BA:momotalk:23001:thread:230010080",
+              "BA:momotalk:23001:thread:230010130",
+              "BA:momotalk:23001:thread:230010210",
+              "BA:momotalk:23001:thread:230010250",
+              "BA:character_data:20022:profile_and_dialog",
+              "BA:character_data:23001:profile_and_dialog",
+              "BA:character_data:event_costume:1900909201:character:20022",
+              "BA:bond:10114:002",
+              "BA:bond:10114:003",
+              "BA:bond:10114:005",
+              "BA:bond:26002:002",
+              "BA:bond:26002:003",
+              "BA:bond:26002:005",
+              "BA:bond:26002:006",
+              "BA:momotalk:10114:thread:101140010",
+              "BA:momotalk:10114:thread:101140110",
+              "BA:momotalk:10114:thread:101140220",
+              "BA:momotalk:26002:thread:260020010",
+              "BA:momotalk:26002:thread:260020170",
+              "BA:momotalk:26002:thread:260020350",
+              "BA:momotalk:26002:thread:260020490",
+              "BA:character_data:10114:profile_and_dialog",
+              "BA:character_data:26002:profile_and_dialog",
+              "BA:character_data:event_costume:1900935101:character:10114",
+              "BA:bond:10002:002",
+              "BA:bond:10002:003",
+              "BA:bond:10002:005",
+              "BA:bond:10002:006",
+              "BA:bond:10057:002",
+              "BA:bond:10057:003",
+              "BA:bond:10057:005",
+              "BA:bond:20030:002",
+              "BA:bond:20030:003",
+              "BA:bond:20030:005",
+              "BA:bond:20030:015",
+              "BA:momotalk:10002:thread:100020010",
+              "BA:momotalk:10002:thread:100020090",
+              "BA:momotalk:10002:thread:100020210",
+              "BA:momotalk:10002:thread:100020250",
+              "BA:momotalk:10057:thread:100570010",
+              "BA:momotalk:10057:thread:100570100",
+              "BA:momotalk:10057:thread:100570200",
+              "BA:momotalk:20030:thread:200300010",
+              "BA:momotalk:20030:thread:200300120",
+              "BA:momotalk:20030:thread:200300210",
+              "BA:momotalk:20030:thread:200300340",
+              "BA:character_data:10002:profile_and_dialog",
+              "BA:character_data:10057:profile_and_dialog",
+              "BA:character_data:20030:profile_and_dialog",
+              "BA:character_data:event_costume:1900909001:character:10057",
+              "BA:character_data:event_costume:1900917301:character:20030",
+              "BA:bond:13002:002",
+              "BA:bond:13002:003",
+              "BA:bond:13002:005",
+              "BA:bond:13002:006",
+              "BA:bond:20034:002",
+              "BA:bond:20034:003",
+              "BA:bond:20034:005",
+              "BA:momotalk:13002:thread:130020010",
+              "BA:momotalk:13002:thread:130020060",
+              "BA:momotalk:13002:thread:130020130",
+              "BA:momotalk:13002:thread:130020160",
+              "BA:momotalk:20034:thread:200340010",
+              "BA:momotalk:20034:thread:200340060",
+              "BA:momotalk:20034:thread:200340140",
+              "BA:character_data:13002:profile_and_dialog",
+              "BA:character_data:20034:profile_and_dialog",
+              "BA:character_data:event_costume:1900923201:character:20034",
+              "BA:bond:13007:002",
+              "BA:bond:13007:003",
+              "BA:bond:13007:005",
+              "BA:bond:13007:006",
+              "BA:bond:13007:008",
+              "BA:bond:13007:020",
+              "BA:bond:16012:002",
+              "BA:bond:16012:003",
+              "BA:bond:16012:005",
+              "BA:momotalk:13007:thread:130070010",
+              "BA:momotalk:13007:thread:130070090",
+              "BA:momotalk:13007:thread:130070220",
+              "BA:momotalk:13007:thread:130070300",
+              "BA:momotalk:13007:thread:130070400",
+              "BA:momotalk:13007:thread:130070480",
+              "BA:momotalk:16012:thread:160120010",
+              "BA:momotalk:16012:thread:160120060",
+              "BA:momotalk:16012:thread:160120150",
+              "BA:character_data:13007:profile_and_dialog",
+              "BA:character_data:16012:profile_and_dialog",
+              "BA:character_data:event_costume:1900909101:character:16012",
+              "BA:bond:10009:002",
+              "BA:bond:10009:003",
+              "BA:bond:10009:005",
+              "BA:bond:10009:020",
+              "BA:bond:16006:002",
+              "BA:bond:16006:003",
+              "BA:bond:16006:005",
+              "BA:bond:16006:020",
+              "BA:bond:20043:002",
+              "BA:bond:20043:003",
+              "BA:bond:20043:005",
+              "BA:momotalk:10009:thread:100090010",
+              "BA:momotalk:10009:thread:100090070",
+              "BA:momotalk:10009:thread:100090120",
+              "BA:momotalk:10009:thread:100090160",
+              "BA:momotalk:16006:thread:160060010",
+              "BA:momotalk:16006:thread:160060130",
+              "BA:momotalk:16006:thread:160060230",
+              "BA:momotalk:16006:thread:160060320",
+              "BA:momotalk:20043:thread:200430010",
+              "BA:momotalk:20043:thread:200430070",
+              "BA:momotalk:20043:thread:200430120",
+              "BA:character_data:10009:profile_and_dialog",
+              "BA:character_data:16006:profile_and_dialog",
+              "BA:character_data:20043:profile_and_dialog",
+              "BA:character_data:event_costume:1900900801:character:16006",
+              "BA:character_data:event_costume:1900935201:character:20043",
+              "BA:bond:10078:002",
+              "BA:bond:10078:003",
+              "BA:bond:10078:005",
+              "BA:bond:10078:006",
+              "BA:bond:20061:002",
+              "BA:bond:20061:003",
+              "BA:bond:20061:005",
+              "BA:bond:20061:006",
+              "BA:bond:20061:008",
+              "BA:momotalk:10078:thread:100780010",
+              "BA:momotalk:10078:thread:100780150",
+              "BA:momotalk:10078:thread:100780300",
+              "BA:momotalk:10078:thread:100780440",
+              "BA:momotalk:20061:thread:200610010",
+              "BA:momotalk:20061:thread:200610150",
+              "BA:momotalk:20061:thread:200610250",
+              "BA:momotalk:20061:thread:200610380",
+              "BA:momotalk:20061:thread:200610470",
+              "BA:character_data:10078:profile_and_dialog",
+              "BA:character_data:20061:profile_and_dialog",
+              "BA:character_data:event_costume:1900918101:character:10078",
+              "BA:character_data:event_costume:1900958301:character:20061",
+              "BA:bond:10060:002",
+              "BA:bond:10060:003",
+              "BA:bond:10060:005",
+              "BA:bond:10060:006",
+              "BA:momotalk:10060:thread:100600010",
+              "BA:momotalk:10060:thread:100600090",
+              "BA:momotalk:10060:thread:100600210",
+              "BA:momotalk:10060:thread:100600350",
+              "BA:character_data:10060:profile_and_dialog",
+              "BA:bond:10113:002",
+              "BA:bond:10113:003",
+              "BA:bond:10113:005",
+              "BA:bond:20012:002",
+              "BA:bond:20012:003",
+              "BA:bond:20012:005",
+              "BA:bond:20012:006",
+              "BA:momotalk:10113:thread:101130010",
+              "BA:momotalk:10113:thread:101130060",
+              "BA:momotalk:10113:thread:101130170",
+              "BA:momotalk:20012:thread:200120010",
+              "BA:momotalk:20012:thread:200120040",
+              "BA:momotalk:20012:thread:200120110",
+              "BA:momotalk:20012:thread:200120160",
+              "BA:character_data:10113:profile_and_dialog",
+              "BA:character_data:20012:profile_and_dialog",
+              "BA:character_data:event_costume:1900902801:character:20012",
+              "BA:character_data:event_costume:1900935001:character:10113",
+              "BA:bond:20058:002",
+              "BA:bond:20058:003",
+              "BA:bond:20058:005",
+              "BA:bond:20058:006",
+              "BA:bond:20058:008",
+              "BA:momotalk:20058:thread:200580010",
+              "BA:momotalk:20058:thread:200580100",
+              "BA:momotalk:20058:thread:200580260",
+              "BA:momotalk:20058:thread:200580370",
+              "BA:momotalk:20058:thread:200580510",
+              "BA:character_data:20058:profile_and_dialog",
+              "BA:character_data:event_costume:1900954301:character:20058",
+              "BA:bond:10093:002",
+              "BA:bond:10093:003",
+              "BA:bond:10093:005",
+              "BA:bond:10093:006",
+              "BA:bond:10093:015",
+              "BA:momotalk:10093:thread:100930010",
+              "BA:momotalk:10093:thread:100930130",
+              "BA:momotalk:10093:thread:100930290",
+              "BA:momotalk:10093:thread:100930450",
+              "BA:momotalk:10093:thread:100930580",
+              "BA:character_data:10093:profile_and_dialog",
+              "BA:character_data:event_costume:1900924201:character:10093"
+            ],
+            "line_count": 602
+          },
+          "qualification": "Earlier complete maintained analytical argument custody, not current primary credit; exact current byte equality preserves source meaning."
+        },
+        "new_current_actual_receiving": "f10daa current481–514/545–554, repairing clipped0a7756. Bounded present Prefect/Pandemonium/mode meaning only; no new whole602 claim.",
+        "allocated_positive_question": "Ako private life, practical reports and inward/expressed wishes",
+        "operative_meaning_duty": "Retain coffee, wanted company, refusal, fatigue and actual work as intrinsic; do not convert her inward essay into Kayoko knowledge or compulsory service. Reuse the full accepted Gehenna20 argument at the prior declared scope, with the complete Ako portion received if any consequential claim exceeds that scope.",
+        "source_class": "accepted private contextual argument; underlying BOND/whole-MomoTalk/written modes stay distinct",
+        "actor_mode": "Printed speaker/choice/narration/inward/reported and unknown assignments remain distinct; no silent raw actor repair.",
+        "source_authority": "Current Cycle008 normal authority; creation-time pending/frontier labels in old arguments and receipts remain historical.",
+        "read_order": "No independent first/second exposure or chronology by variant, release, receipt order or comparative placement.",
+        "protected_original_boundary": "No protected H/_phase2_work analytical original or underlying private/raw/AV/9UNBOUND/39unpublished content access."
+      },
+      {
+        "input_id": "A02",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/A02__BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 37075,
+          "sha256": "d7bdc25e91b1a9671bce5c9a1852e735015d672c2fb8a038c65d75587078f1e9",
+          "git_blob_sha1": "8b67cc9f6273a83cdda5d76fda3346ff5ee5c9e5"
+        },
+        "prior_own_exact_declaration": {
+          "source_receipt": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/CENSUS_GEHENNA/GEHENNA_PS68_INPUT_AND_LITERAL_ROSTER_RECEIPT.json",
+            "bytes": 768006,
+            "sha256": "f8c99e7255377b9941861f297ee9a86baa75e7a1b2977fdc7f753bc77793bc4d",
+            "git_blob_sha1": "5c7feba15e1691e26ee3fa4d468a7126c76c4bc5"
+          },
+          "exact_historical_declaration": {
+            "path": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 37075,
+            "sha256": "d7bdc25e91b1a9671bce5c9a1852e735015d672c2fb8a038c65d75587078f1e9",
+            "receiving": "Whole accepted analytical argument through EOF, attributed original source readings; MINI32 reused from prior complete Yuuka receiving with exact-byte recheck and fresh relevant §12–14 comparison.",
+            "story_ids": [
+              "BA:bond:10000:002",
+              "BA:bond:10000:003",
+              "BA:bond:10000:005",
+              "BA:bond:10000:006",
+              "BA:bond:10000:020",
+              "BA:bond:10031:002",
+              "BA:bond:10031:003",
+              "BA:bond:10031:005",
+              "BA:bond:10031:006",
+              "BA:bond:10089:002",
+              "BA:bond:10089:003",
+              "BA:bond:10089:005",
+              "BA:momotalk:10000:thread:100000010",
+              "BA:momotalk:10000:thread:100000090",
+              "BA:momotalk:10000:thread:100000150",
+              "BA:momotalk:10000:thread:100000190",
+              "BA:momotalk:10000:thread:100000250",
+              "BA:momotalk:10031:thread:100310010",
+              "BA:momotalk:10031:thread:100310100",
+              "BA:momotalk:10031:thread:100310220",
+              "BA:momotalk:10031:thread:100310280",
+              "BA:momotalk:10089:thread:100890010",
+              "BA:momotalk:10089:thread:100890120",
+              "BA:momotalk:10089:thread:100890260",
+              "BA:character_data:10000:profile_and_dialog",
+              "BA:character_data:10031:profile_and_dialog",
+              "BA:character_data:10089:profile_and_dialog",
+              "BA:character_data:event_costume:1900902301:character:10031",
+              "BA:character_data:event_costume:1900923001:character:10089"
+            ],
+            "line_count": 221
+          },
+          "qualification": "Earlier complete maintained analytical argument custody, not current primary credit; exact current byte equality preserves source meaning."
+        },
+        "new_current_actual_receiving": "Adequate earlier complete own normal argument reused at the exact declaration; no new whole display or primary credit.",
+        "allocated_positive_question": "Aru wanted competence, employee care and fallible command as a boundary recipient",
+        "operative_meaning_duty": "Use only consequential complete Aru comparative meaning needed for office hospitality/address objection and reported business status. Her private taste, anxiety and offered care remain independent; office membership does not authorize disclosure or prove she endorsed an inter-office accommodation.",
+        "source_class": "accepted private contextual argument; underlying BOND/whole-MomoTalk/written modes stay distinct",
+        "actor_mode": "Printed speaker/choice/narration/inward/reported and unknown assignments remain distinct; no silent raw actor repair.",
+        "source_authority": "Current Cycle008 normal authority; creation-time pending/frontier labels in old arguments and receipts remain historical.",
+        "read_order": "No independent first/second exposure or chronology by variant, release, receipt order or comparative placement.",
+        "protected_original_boundary": "No protected H/_phase2_work analytical original or underlying private/raw/AV/9UNBOUND/39unpublished content access."
+      },
+      {
+        "input_id": "A03",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/MUTSUKI/BLUE_ARCHIVE_MUTSUKI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/A03__BLUE_ARCHIVE_MUTSUKI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 39012,
+          "sha256": "185fd6b380dae208c62aac88889ba32063fe43504f31f258c076ec2c7a476046",
+          "git_blob_sha1": "55d4a79455ec2b91c0c406fe1141325bbb1f44cc"
+        },
+        "prior_own_exact_declaration": {
+          "source_receipt": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/CENSUS_GEHENNA/GEHENNA_PS68_INPUT_AND_LITERAL_ROSTER_RECEIPT.json",
+            "bytes": 768006,
+            "sha256": "f8c99e7255377b9941861f297ee9a86baa75e7a1b2977fdc7f753bc77793bc4d",
+            "git_blob_sha1": "5c7feba15e1691e26ee3fa4d468a7126c76c4bc5"
+          },
+          "exact_historical_declaration": {
+            "path": "series/blue-archive/02 Sequential Readings/BOND/MUTSUKI/BLUE_ARCHIVE_MUTSUKI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 39012,
+            "sha256": "185fd6b380dae208c62aac88889ba32063fe43504f31f258c076ec2c7a476046",
+            "receiving": "Whole accepted analytical argument through EOF, attributed original source readings; MINI32 reused from prior complete Yuuka receiving with exact-byte recheck and fresh relevant §12–14 comparison.",
+            "story_ids": [
+              "BA:bond:10032:002",
+              "BA:bond:10032:003",
+              "BA:bond:10032:005",
+              "BA:bond:13006:002",
+              "BA:bond:13006:003",
+              "BA:bond:13006:005",
+              "BA:bond:13006:006",
+              "BA:bond:20059:002",
+              "BA:bond:20059:003",
+              "BA:bond:20059:005",
+              "BA:bond:20059:006",
+              "BA:momotalk:10032:thread:100320010",
+              "BA:momotalk:10032:thread:100320100",
+              "BA:momotalk:10032:thread:100320180",
+              "BA:momotalk:13006:thread:130060010",
+              "BA:momotalk:13006:thread:130060080",
+              "BA:momotalk:13006:thread:130060130",
+              "BA:momotalk:13006:thread:130060180",
+              "BA:momotalk:20059:thread:200590010",
+              "BA:momotalk:20059:thread:200590260",
+              "BA:momotalk:20059:thread:200590300",
+              "BA:momotalk:20059:thread:200590500",
+              "BA:character_data:10032:profile_and_dialog",
+              "BA:character_data:13006:profile_and_dialog",
+              "BA:character_data:20059:profile_and_dialog",
+              "BA:character_data:event_costume:1900902401:character:10032",
+              "BA:character_data:event_costume:1900955201:character:20059"
+            ],
+            "line_count": 215
+          },
+          "qualification": "Earlier complete maintained analytical argument custody, not current primary credit; exact current byte equality preserves source meaning."
+        },
+        "new_current_actual_receiving": "Adequate earlier complete own normal argument reused at the exact declaration; no new whole display or primary credit.",
+        "allocated_positive_question": "Mutsuki differentiated company, play and restraint limits",
+        "operative_meaning_duty": "Retain Mutsuki as a separate participant rather than interchangeable PS68 support. Use adequate prior complete private meaning only when her particular preference or contrary action bears on the boundary; no new mandatory whole-primary replay follows from membership.",
+        "source_class": "accepted private contextual argument; underlying BOND/whole-MomoTalk/written modes stay distinct",
+        "actor_mode": "Printed speaker/choice/narration/inward/reported and unknown assignments remain distinct; no silent raw actor repair.",
+        "source_authority": "Current Cycle008 normal authority; creation-time pending/frontier labels in old arguments and receipts remain historical.",
+        "read_order": "No independent first/second exposure or chronology by variant, release, receipt order or comparative placement.",
+        "protected_original_boundary": "No protected H/_phase2_work analytical original or underlying private/raw/AV/9UNBOUND/39unpublished content access."
+      },
+      {
+        "input_id": "A04",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/KAYOKO/BLUE_ARCHIVE_KAYOKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/A04__BLUE_ARCHIVE_KAYOKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 39932,
+          "sha256": "aebc27804ef2f1117b870b7503ee0895164a04d0103e92b99bb9ed21628a3915",
+          "git_blob_sha1": "0be95446fe08f99cbe8948ca2091954f7aa0c9a0"
+        },
+        "prior_own_exact_declaration": {
+          "source_receipt": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/CENSUS_GEHENNA/GEHENNA_PS68_INPUT_AND_LITERAL_ROSTER_RECEIPT.json",
+            "bytes": 768006,
+            "sha256": "f8c99e7255377b9941861f297ee9a86baa75e7a1b2977fdc7f753bc77793bc4d",
+            "git_blob_sha1": "5c7feba15e1691e26ee3fa4d468a7126c76c4bc5"
+          },
+          "exact_historical_declaration": {
+            "path": "series/blue-archive/02 Sequential Readings/BOND/KAYOKO/BLUE_ARCHIVE_KAYOKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 39932,
+            "sha256": "aebc27804ef2f1117b870b7503ee0895164a04d0103e92b99bb9ed21628a3915",
+            "receiving": "Whole accepted analytical argument through EOF, attributed original source readings; MINI32 reused from prior complete Yuuka receiving with exact-byte recheck and fresh relevant §12–14 comparison.",
+            "story_ids": [
+              "BA:bond:10064:002",
+              "BA:bond:10064:003",
+              "BA:bond:10064:005",
+              "BA:bond:10064:006",
+              "BA:bond:10088:002",
+              "BA:bond:10088:003",
+              "BA:bond:10088:005",
+              "BA:bond:13005:002",
+              "BA:bond:13005:003",
+              "BA:bond:13005:005",
+              "BA:bond:13005:006",
+              "BA:bond:13005:008",
+              "BA:momotalk:10064:thread:100640010",
+              "BA:momotalk:10064:thread:100640070",
+              "BA:momotalk:10064:thread:100640160",
+              "BA:momotalk:10064:thread:100640250",
+              "BA:momotalk:10088:thread:100880010",
+              "BA:momotalk:10088:thread:100880110",
+              "BA:momotalk:10088:thread:100880160",
+              "BA:momotalk:13005:thread:130050010",
+              "BA:momotalk:13005:thread:130050050",
+              "BA:momotalk:13005:thread:130050090",
+              "BA:momotalk:13005:thread:130050190",
+              "BA:momotalk:13005:thread:130050210",
+              "BA:character_data:10064:profile_and_dialog",
+              "BA:character_data:10088:profile_and_dialog",
+              "BA:character_data:13005:profile_and_dialog",
+              "BA:character_data:event_costume:1900912001:character:10064",
+              "BA:character_data:event_costume:1900923101:character:10088"
+            ],
+            "line_count": 236
+          },
+          "qualification": "Earlier complete maintained analytical argument custody, not current primary credit; exact current byte equality preserves source meaning."
+        },
+        "new_current_actual_receiving": "dc5ab8 1–119;49ab08 120–180;f08039 181–236EOF. Complete current236 analytical argument. Clippedd0fa63 is not credited as whole.",
+        "allocated_positive_question": "Kayoko quiet wanted life, reciprocal help, refusal and chosen PS68 place",
+        "operative_meaning_duty": "The full accepted Kayoko checkpoint supplies cleaning alone/help acceptance, actual jazz company, topic/access boundaries, calm conversation and reciprocal treating wishes. Hold these intrinsic ends alongside practical competence; do not invent former-council biography or infallible restraint.",
+        "source_class": "accepted private contextual argument; underlying BOND/whole-MomoTalk/written modes stay distinct",
+        "actor_mode": "Printed speaker/choice/narration/inward/reported and unknown assignments remain distinct; no silent raw actor repair.",
+        "source_authority": "Current Cycle008 normal authority; creation-time pending/frontier labels in old arguments and receipts remain historical.",
+        "read_order": "No independent first/second exposure or chronology by variant, release, receipt order or comparative placement.",
+        "protected_original_boundary": "No protected H/_phase2_work analytical original or underlying private/raw/AV/9UNBOUND/39unpublished content access."
+      },
+      {
+        "input_id": "A05",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/HARUKA/BLUE_ARCHIVE_HARUKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/A05__BLUE_ARCHIVE_HARUKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 44061,
+          "sha256": "8fa72b3edc389927d54e085369b39adcaa25946141869bdad8164490ca567d5b",
+          "git_blob_sha1": "a54f86d6079a857e0b23c72b3679598978f9522f"
+        },
+        "prior_own_exact_declaration": {
+          "source_receipt": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/CENSUS_GEHENNA/GEHENNA_PS68_INPUT_AND_LITERAL_ROSTER_RECEIPT.json",
+            "bytes": 768006,
+            "sha256": "f8c99e7255377b9941861f297ee9a86baa75e7a1b2977fdc7f753bc77793bc4d",
+            "git_blob_sha1": "5c7feba15e1691e26ee3fa4d468a7126c76c4bc5"
+          },
+          "exact_historical_declaration": {
+            "path": "series/blue-archive/02 Sequential Readings/BOND/HARUKA/BLUE_ARCHIVE_HARUKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 44061,
+            "sha256": "8fa72b3edc389927d54e085369b39adcaa25946141869bdad8164490ca567d5b",
+            "receiving": "Whole accepted analytical argument through EOF, attributed original source readings; MINI32 reused from prior complete Yuuka receiving with exact-byte recheck and fresh relevant §12–14 comparison.",
+            "story_ids": [
+              "BA:bond:10141:002",
+              "BA:bond:10141:003",
+              "BA:bond:10141:005",
+              "BA:bond:10141:006",
+              "BA:bond:16000:002",
+              "BA:bond:16000:003",
+              "BA:bond:16000:005",
+              "BA:bond:16000:006",
+              "BA:bond:16000:008",
+              "BA:bond:20025:002",
+              "BA:bond:20025:003",
+              "BA:bond:20025:005",
+              "BA:momotalk:10141:thread:101410010",
+              "BA:momotalk:10141:thread:101410140",
+              "BA:momotalk:10141:thread:101410220",
+              "BA:momotalk:10141:thread:101410290",
+              "BA:momotalk:16000:thread:160000010",
+              "BA:momotalk:16000:thread:160000070",
+              "BA:momotalk:16000:thread:160000160",
+              "BA:momotalk:16000:thread:160000240",
+              "BA:momotalk:16000:thread:160000430",
+              "BA:momotalk:20025:thread:200250010",
+              "BA:momotalk:20025:thread:200250080",
+              "BA:momotalk:20025:thread:200250210",
+              "BA:character_data:10141:profile_and_dialog",
+              "BA:character_data:16000:profile_and_dialog",
+              "BA:character_data:20025:profile_and_dialog",
+              "BA:character_data:event_costume:1900912101:character:20025",
+              "BA:character_data:event_costume:1900955101:character:10141"
+            ],
+            "line_count": 244
+          },
+          "qualification": "Earlier complete maintained analytical argument custody, not current primary credit; exact current byte equality preserves source meaning."
+        },
+        "new_current_actual_receiving": "Adequate earlier complete own normal argument reused at the exact declaration; no new whole display or primary credit.",
+        "allocated_positive_question": "Haruka independent wanted company and limits on endless repayment",
+        "operative_meaning_duty": "Use her actual wanted care/company and gratitude objections as recipient contrast; do not substitute sacrifice for consent or count her separate Aru/Mutsuki directed home as completed. Current private metadata remains distinct from primary reading.",
+        "source_class": "accepted private contextual argument; underlying BOND/whole-MomoTalk/written modes stay distinct",
+        "actor_mode": "Printed speaker/choice/narration/inward/reported and unknown assignments remain distinct; no silent raw actor repair.",
+        "source_authority": "Current Cycle008 normal authority; creation-time pending/frontier labels in old arguments and receipts remain historical.",
+        "read_order": "No independent first/second exposure or chronology by variant, release, receipt order or comparative placement.",
+        "protected_original_boundary": "No protected H/_phase2_work analytical original or underlying private/raw/AV/9UNBOUND/39unpublished content access."
+      },
+      {
+        "input_id": "A06",
+        "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/A06__BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+          "bytes": 25362,
+          "sha256": "5272f38efcec91af3817c895c191a01d2d1c1d9c04dca5da3c304685cb593843",
+          "git_blob_sha1": "17e378db57541ef25cb16e08f9a4db4e4111bc51"
+        },
+        "prior_own_exact_declaration": {
+          "source_receipt": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/CENSUS_GEHENNA/GEHENNA_PS68_INPUT_AND_LITERAL_ROSTER_RECEIPT.json",
+            "bytes": 768006,
+            "sha256": "f8c99e7255377b9941861f297ee9a86baa75e7a1b2977fdc7f753bc77793bc4d",
+            "git_blob_sha1": "5c7feba15e1691e26ee3fa4d468a7126c76c4bc5"
+          },
+          "exact_historical_declaration": {
+            "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+            "bytes": 25362,
+            "sha256": "5272f38efcec91af3817c895c191a01d2d1c1d9c04dca5da3c304685cb593843",
+            "receiving": "Whole accepted analytical argument through EOF, attributed original source readings; MINI32 reused from prior complete Yuuka receiving with exact-byte recheck and fresh relevant §12–14 comparison.",
+            "story_ids": [
+              "BA:group:1901",
+              "BA:group:1902"
+            ],
+            "line_count": 154
+          },
+          "qualification": "Earlier complete maintained analytical argument custody, not current primary credit; exact current byte equality preserves source meaning."
+        },
+        "new_current_actual_receiving": "Adequate earlier complete own normal argument reused at the exact declaration; no new whole display or primary credit.",
+        "allocated_positive_question": "Prefect/Pandemonium office procedure, arbitrary criteria and conditional power",
+        "operative_meaning_duty": "The complete GROUP1901–02 owner is adequate prior-own context for reporting, preselected rejection and formal limits. Allocate only actual public governance relations; do not infer that every office member shares Ako knowledge or that this completes either institution.",
+        "source_class": "accepted public/peer analytical argument; GROUP, MINI and MAIN remain labelled",
+        "actor_mode": "Printed speaker/choice/narration/inward/reported and unknown assignments remain distinct; no silent raw actor repair.",
+        "source_authority": "Current Cycle008 normal authority; creation-time pending/frontier labels in old arguments and receipts remain historical.",
+        "read_order": "No independent first/second exposure or chronology by variant, release, receipt order or comparative placement.",
+        "protected_original_boundary": "No protected H/_phase2_work analytical original or underlying private/raw/AV/9UNBOUND/39unpublished content access."
+      },
+      {
+        "input_id": "A07",
+        "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2201_DEEP_READING.md",
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/A07__BLUE_ARCHIVE_GROUP_2201_DEEP_READING.md",
+          "bytes": 20604,
+          "sha256": "54bfc7a4c14e258acdfe36e28b5be1b845ad3347a2748f2bf3a0f95da5d69e43",
+          "git_blob_sha1": "07fa89af78ca48473df3f8daaf72052003b93aaa"
+        },
+        "prior_own_exact_declaration": {
+          "source_receipt": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/CENSUS_GEHENNA/GEHENNA_PS68_INPUT_AND_LITERAL_ROSTER_RECEIPT.json",
+            "bytes": 768006,
+            "sha256": "f8c99e7255377b9941861f297ee9a86baa75e7a1b2977fdc7f753bc77793bc4d",
+            "git_blob_sha1": "5c7feba15e1691e26ee3fa4d468a7126c76c4bc5"
+          },
+          "exact_historical_declaration": {
+            "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2201_DEEP_READING.md",
+            "bytes": 20604,
+            "sha256": "54bfc7a4c14e258acdfe36e28b5be1b845ad3347a2748f2bf3a0f95da5d69e43",
+            "receiving": "Whole accepted analytical argument through EOF, attributed original source readings; MINI32 reused from prior complete Yuuka receiving with exact-byte recheck and fresh relevant §12–14 comparison.",
+            "story_ids": [
+              "BA:group:2201"
+            ],
+            "line_count": 137
+          },
+          "qualification": "Earlier complete maintained analytical argument custody, not current primary credit; exact current byte equality preserves source meaning."
+        },
+        "new_current_actual_receiving": "c2bf13 1–70;396d70 71–137EOF. Complete current137 analytical argument; earlier clipped output is not whole credit.",
+        "allocated_positive_question": "PS68 practical caution, failure of restraint and command responsibility",
+        "operative_meaning_duty": "The complete GROUP2201 argument supplies the serious alternative to Kayoko as a universally effective brake. Keep prospective/direct/ratified actions and actor limits separate; PS68 command/finance and its required belonging section remain independent duties.",
+        "source_class": "accepted public/peer analytical argument; GROUP, MINI and MAIN remain labelled",
+        "actor_mode": "Printed speaker/choice/narration/inward/reported and unknown assignments remain distinct; no silent raw actor repair.",
+        "source_authority": "Current Cycle008 normal authority; creation-time pending/frontier labels in old arguments and receipts remain historical.",
+        "read_order": "No independent first/second exposure or chronology by variant, release, receipt order or comparative placement.",
+        "protected_original_boundary": "No protected H/_phase2_work analytical original or underlying private/raw/AV/9UNBOUND/39unpublished content access."
+      },
+      {
+        "input_id": "A08",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/A08__BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 93829,
+          "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+          "git_blob_sha1": "512a08b30bfa91dee27087fd743809dc8aa30b98"
+        },
+        "prior_own_exact_declaration": {
+          "source_receipt": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/CENSUS_GEHENNA/GEHENNA_PS68_INPUT_AND_LITERAL_ROSTER_RECEIPT.json",
+            "bytes": 768006,
+            "sha256": "f8c99e7255377b9941861f297ee9a86baa75e7a1b2977fdc7f753bc77793bc4d",
+            "git_blob_sha1": "5c7feba15e1691e26ee3fa4d468a7126c76c4bc5"
+          },
+          "exact_historical_declaration": {
+            "path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 93829,
+            "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+            "receiving": "Whole accepted analytical argument through EOF, attributed original source readings; MINI32 reused from prior complete Yuuka receiving with exact-byte recheck and fresh relevant §12–14 comparison.",
+            "story_ids": [
+              "BA:mini:70000010",
+              "BA:mini:70000020",
+              "BA:mini:70001010",
+              "BA:mini:70001020",
+              "BA:mini:70001030",
+              "BA:mini:70002010",
+              "BA:mini:70002020",
+              "BA:mini:70003020",
+              "BA:mini:70004010",
+              "BA:mini:70004020",
+              "BA:mini:70004030",
+              "BA:mini:70005010",
+              "BA:mini:70005020",
+              "BA:mini:70005030",
+              "BA:mini:70006010",
+              "BA:mini:70006020",
+              "BA:mini:70007010",
+              "BA:mini:70007020",
+              "BA:mini:70008020",
+              "BA:mini:70008030",
+              "BA:mini:70010010",
+              "BA:mini:70010020",
+              "BA:mini:70012010",
+              "BA:mini:70012020",
+              "BA:mini:70013010",
+              "BA:mini:70013020",
+              "BA:mini:70013030",
+              "BA:mini:70013040",
+              "BA:mini:70013050",
+              "BA:mini:70015010",
+              "BA:mini:70015020",
+              "BA:mini:70015030"
+            ],
+            "line_count": 344
+          },
+          "qualification": "Earlier complete maintained analytical argument custody, not current primary credit; exact current byte equality preserves source meaning."
+        },
+        "new_current_actual_receiving": "d32980 current205–243, complete analytical§12–14 meaning, including all connected70015010/20/30 and ending plus separateMINI130. No new whole344 or underlying32 primary receiving.",
+        "allocated_positive_question": "Complete MINI150 cross-office encounter, chosen place, privacy and limited information exchange",
+        "operative_meaning_duty": "Mandatory core: receive all 70015010/20/30 meanings and the complete source-local ending at actual adequate scope. Separate recipient refusal/play, conditional arrest boundary, unofficial club versus reported registration, address objection, accepted ritual desk refusal, former-council references, promised photo transmission, storm information and actual bitter-coffee/milk suggestion. MINI130 is an adequate prior ordinary/rescue comparator, not the same event or a global date.",
+        "source_class": "accepted public/peer analytical argument; GROUP, MINI and MAIN remain labelled",
+        "actor_mode": "Printed speaker/choice/narration/inward/reported and unknown assignments remain distinct; no silent raw actor repair.",
+        "source_authority": "Current Cycle008 normal authority; creation-time pending/frontier labels in old arguments and receipts remain historical.",
+        "read_order": "No independent first/second exposure or chronology by variant, release, receipt order or comparative placement.",
+        "protected_original_boundary": "No protected H/_phase2_work analytical original or underlying private/raw/AV/9UNBOUND/39unpublished content access."
+      },
+      {
+        "input_id": "A09",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/EXACT_INPUTS/A09__BLUE_ARCHIVE_MAIN_S2_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 64961,
+          "sha256": "545a9d71b8ff27ee449408de7924258aff4481d88b516a077d1ec025834399f1",
+          "git_blob_sha1": "05843ddb489270bdafbb96eec23b0a7936c5e586"
+        },
+        "prior_own_exact_declaration": {
+          "source_receipt": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/CENSUS_GEHENNA/GEHENNA_PS68_INPUT_AND_LITERAL_ROSTER_RECEIPT.json",
+            "bytes": 768006,
+            "sha256": "f8c99e7255377b9941861f297ee9a86baa75e7a1b2977fdc7f753bc77793bc4d",
+            "git_blob_sha1": "5c7feba15e1691e26ee3fa4d468a7126c76c4bc5"
+          },
+          "exact_historical_declaration": {
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "bytes": 64961,
+            "sha256": "545a9d71b8ff27ee449408de7924258aff4481d88b516a077d1ec025834399f1",
+            "receiving": "Whole accepted analytical contextual argument, 705 lines through EOF; 38 MAIN and inherited private/event comparisons attributed; no fresh underlying primary replay.",
+            "line_count": 705,
+            "canonical_integrity_bindings_added": false
+          },
+          "qualification": "Earlier complete maintained analytical argument custody, not current primary credit; exact current byte equality preserves source meaning."
+        },
+        "new_current_actual_receiving": "Adequate earlier complete own normal argument reused at the exact declaration; no new whole display or primary credit.",
+        "allocated_positive_question": "Maintained Gehenna MAIN contextual account and its finite public constraints",
+        "operative_meaning_duty": "Use the existing complete accepted MAIN comparison to test transfer beyond the MINI encounter. No source co-occurrence proves a new Kayoko–Ako action. Recover a further small current normal endpoint only if a consequential claim lacks adequate complete present meaning; do not relabel inherited comparisons as fresh underlying MAIN/private/event reading.",
+        "source_class": "accepted public/peer analytical argument; GROUP, MINI and MAIN remain labelled",
+        "actor_mode": "Printed speaker/choice/narration/inward/reported and unknown assignments remain distinct; no silent raw actor repair.",
+        "source_authority": "Current Cycle008 normal authority; creation-time pending/frontier labels in old arguments and receipts remain historical.",
+        "read_order": "No independent first/second exposure or chronology by variant, release, receipt order or comparative placement.",
+        "protected_original_boundary": "No protected H/_phase2_work analytical original or underlying private/raw/AV/9UNBOUND/39unpublished content access."
+      }
+    ],
+    "allocation_reading": "ec7d89 1–165;7ec75b all remaining nonrepeated controls/gaps/requirements. All nine embedded source records equal the fully received frozen plan exactly; no false whole1221-line manual display claim.",
+    "actual_architecture_reading": "f41178 §7 currentC L301–368; relationship§7.2 distinct responsibility. Twelve dimensions are the positively allocated substantive plan, not a mandatory architecture quotation.",
+    "source_pin": "BA_REFRESH_20260928T032248159554Z; source producers retain their a038020f1f5ac02dcfe76962426d38f86414cdd8 witness. Analytical7a capture is not a new primary pin.",
+    "whole_saved_body_author_receiving": "Required before final seal; a separate final actual saved receiving record controls this creation-stage field.",
+    "all14_OPEN": [
+      {
+        "id": "G01",
+        "original_name": "Ordinary and private breadth",
+        "status": "OPEN",
+        "effect": "Five ordinary private repertoires and coffee/play remain selected rather than crisis-filtered; no global breadth closure."
+      },
+      {
+        "id": "G02",
+        "original_name": "Yuuka council/club decision transfer",
+        "status": "OPEN",
+        "effect": "No Yuuka council-transfer result follows from these offices."
+      },
+      {
+        "id": "G03",
+        "original_name": "Serika service, peer and reciprocity range",
+        "status": "OPEN",
+        "effect": "No Serika service/peer completion follows from PS68 company."
+      },
+      {
+        "id": "G04",
+        "original_name": "Hina crisis causality, accountability and ordinary contrast",
+        "status": "OPEN",
+        "effect": "Ako/Hina context does not complete Hina causality or public accountability."
+      },
+      {
+        "id": "G05",
+        "original_name": "Arius and PS68 ordinary/aftermath transfer",
+        "status": "OPEN",
+        "effect": "PS68 ordinary belonging/aftermath is retained; Arius transfer and all injuries/repayment outcomes stay open."
+      },
+      {
+        "id": "G06",
+        "original_name": "Cross-school ordinary repertoire",
+        "status": "OPEN",
+        "effect": "Specific cross-office care and quiet company do not establish all cross-school repertoire."
+      },
+      {
+        "id": "G07",
+        "original_name": "Story-world chronology",
+        "status": "OPEN",
+        "effect": "Only explicit local ordering; former council/storm and variants are not global dates."
+      },
+      {
+        "id": "G08",
+        "original_name": "Event naming and repeat contexts",
+        "status": "OPEN",
+        "effect": "MINI exact IDs and repeats retain their provenance; no universal event-name or repeat equivalence."
+      },
+      {
+        "id": "G09",
+        "original_name": "Written speaker/choice attribution",
+        "status": "OPEN",
+        "effect": "All MINI150 actor/choice/report/inward seams remain printed, not silently corrected."
+      },
+      {
+        "id": "G10",
+        "original_name": "Performed voice",
+        "status": "OPEN",
+        "effect": "No performed voice, timing, gesture or visual delivery is received."
+      },
+      {
+        "id": "G11",
+        "original_name": "Hoshino's Yume record and office states",
+        "status": "OPEN",
+        "effect": "No new Yume-office warrant or Hoshino state resolution."
+      },
+      {
+        "id": "G12",
+        "original_name": "Counterpart, system and variant identity",
+        "status": "OPEN",
+        "effect": "Literal person/variant/system/anonymous boundaries remain; storm identity and former institution unproved."
+      },
+      {
+        "id": "G13",
+        "original_name": "Office, contract, safety and technical outcomes",
+        "status": "OPEN",
+        "effect": "Reported business status, address knowledge, tolerated acts, promises and resource claims do not prove legal/contract/safety closure."
+      },
+      {
+        "id": "G14",
+        "original_name": "Unclassified/mode continuity",
+        "status": "OPEN",
+        "effect": "Private/public/written and unknown forms remain distinct; no automatic mode continuity."
+      }
+    ],
+    "prior_current_capture_limit": "Exact current working-tree small metadata/normal-owner byte captures at HEAD7a source114; committed custody is recorded separately by ROOT and is not proved merely by the HEAD observation. Later publication/live ROOT acceptances are separate and must not be silently substituted.",
+    "private_family_metadata": [
+      {
+        "family_key": "AKO",
+        "subject_label": "Ako",
+        "pool_boundary": "BASELINE125_SELECTED2556",
+        "raw_person_keys": "BA_PERSON_AKO",
+        "raw_keys_without_registry_join": "",
+        "selected_character_ids": "10087|20008",
+        "selected_student_variant_ids": "BA_VARIANT_10087|BA_VARIANT_20008",
+        "display_names_jp": "天雨アコ",
+        "exact_variant_display_names": "BA_VARIANT_10087=天雨アコ|BA_VARIANT_20008=天雨アコ",
+        "bond_count": "6",
+        "whole_momotalk_count": "6",
+        "written_count": "4",
+        "unique_primary_owned_objects": "16",
+        "frozen_selected_scope_count": "16",
+        "selected_comparand_story_ids": "",
+        "qualified_current_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "qualified_arc_context_paths": "",
+        "known_formal_intake_statuses": "ADMITTED_WITH_LIMITS_CYCLE008",
+        "actual_analytical_scope": "ROOT_QUALIFIED_COMPLETE_WITH_LIMITS; SOURCE_ADMITTED_CYCLE008; LITERAL_IDENTITY_AND_SOURCE_MODE_LIMITS_RETAINED",
+        "model_grades": "UNCHANGED_NO_NEW_GRADING"
+      },
+      {
+        "family_key": "ARU",
+        "subject_label": "Aru",
+        "pool_boundary": "BASELINE125_SELECTED2556",
+        "raw_person_keys": "BA_PERSON_ARU",
+        "raw_keys_without_registry_join": "",
+        "selected_character_ids": "10000|10031|10089",
+        "selected_student_variant_ids": "BA_VARIANT_10000|BA_VARIANT_10031|BA_VARIANT_10089",
+        "display_names_jp": "陸八魔アル",
+        "exact_variant_display_names": "BA_VARIANT_10000=陸八魔アル|BA_VARIANT_10031=陸八魔アル|BA_VARIANT_10089=陸八魔アル",
+        "bond_count": "12",
+        "whole_momotalk_count": "12",
+        "written_count": "5",
+        "unique_primary_owned_objects": "29",
+        "frozen_selected_scope_count": "29",
+        "selected_comparand_story_ids": "",
+        "qualified_current_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/ARU/BLUE_ARCHIVE_ARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "qualified_arc_context_paths": "",
+        "known_formal_intake_statuses": "ADMITTED_WITH_LIMITS_CYCLE008",
+        "actual_analytical_scope": "ROOT_QUALIFIED_COMPLETE_WITH_LIMITS; SOURCE_ADMITTED_CYCLE008; LITERAL_IDENTITY_AND_SOURCE_MODE_LIMITS_RETAINED",
+        "model_grades": "UNCHANGED_NO_NEW_GRADING"
+      },
+      {
+        "family_key": "HARUKA",
+        "subject_label": "Haruka",
+        "pool_boundary": "BASELINE125_SELECTED2556",
+        "raw_person_keys": "BA_PERSON_HARUKA",
+        "raw_keys_without_registry_join": "",
+        "selected_character_ids": "10141|16000|20025",
+        "selected_student_variant_ids": "BA_VARIANT_10141|BA_VARIANT_16000|BA_VARIANT_20025",
+        "display_names_jp": "伊草ハルカ",
+        "exact_variant_display_names": "BA_VARIANT_10141=伊草ハルカ|BA_VARIANT_16000=伊草ハルカ|BA_VARIANT_20025=伊草ハルカ",
+        "bond_count": "12",
+        "whole_momotalk_count": "12",
+        "written_count": "5",
+        "unique_primary_owned_objects": "29",
+        "frozen_selected_scope_count": "29",
+        "selected_comparand_story_ids": "",
+        "qualified_current_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/HARUKA/BLUE_ARCHIVE_HARUKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "qualified_arc_context_paths": "",
+        "known_formal_intake_statuses": "ADMITTED_WITH_LIMITS_CYCLE008",
+        "actual_analytical_scope": "ROOT_QUALIFIED_COMPLETE_WITH_LIMITS; SOURCE_ADMITTED_CYCLE008; LITERAL_IDENTITY_AND_SOURCE_MODE_LIMITS_RETAINED",
+        "model_grades": "UNCHANGED_NO_NEW_GRADING"
+      },
+      {
+        "family_key": "KAYOKO",
+        "subject_label": "Kayoko",
+        "pool_boundary": "BASELINE125_SELECTED2556",
+        "raw_person_keys": "BA_PERSON_KAYOKO",
+        "raw_keys_without_registry_join": "",
+        "selected_character_ids": "10064|10088|13005",
+        "selected_student_variant_ids": "BA_VARIANT_10064|BA_VARIANT_10088|BA_VARIANT_13005",
+        "display_names_jp": "鬼方カヨコ",
+        "exact_variant_display_names": "BA_VARIANT_10064=鬼方カヨコ|BA_VARIANT_10088=鬼方カヨコ|BA_VARIANT_13005=鬼方カヨコ",
+        "bond_count": "12",
+        "whole_momotalk_count": "12",
+        "written_count": "5",
+        "unique_primary_owned_objects": "29",
+        "frozen_selected_scope_count": "29",
+        "selected_comparand_story_ids": "",
+        "qualified_current_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/KAYOKO/BLUE_ARCHIVE_KAYOKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "qualified_arc_context_paths": "",
+        "known_formal_intake_statuses": "ADMITTED_WITH_LIMITS_CYCLE008",
+        "actual_analytical_scope": "ROOT_QUALIFIED_COMPLETE_WITH_LIMITS; SOURCE_ADMITTED_CYCLE008; LITERAL_IDENTITY_AND_SOURCE_MODE_LIMITS_RETAINED",
+        "model_grades": "UNCHANGED_NO_NEW_GRADING"
+      },
+      {
+        "family_key": "MUTSUKI",
+        "subject_label": "Mutsuki",
+        "pool_boundary": "BASELINE125_SELECTED2556",
+        "raw_person_keys": "BA_PERSON_MUTSUKI",
+        "raw_keys_without_registry_join": "",
+        "selected_character_ids": "10032|13006|20059",
+        "selected_student_variant_ids": "BA_VARIANT_10032|BA_VARIANT_13006|BA_VARIANT_20059",
+        "display_names_jp": "浅黄ムツキ",
+        "exact_variant_display_names": "BA_VARIANT_10032=浅黄ムツキ|BA_VARIANT_13006=浅黄ムツキ|BA_VARIANT_20059=浅黄ムツキ",
+        "bond_count": "11",
+        "whole_momotalk_count": "11",
+        "written_count": "5",
+        "unique_primary_owned_objects": "27",
+        "frozen_selected_scope_count": "27",
+        "selected_comparand_story_ids": "",
+        "qualified_current_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/MUTSUKI/BLUE_ARCHIVE_MUTSUKI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "qualified_arc_context_paths": "",
+        "known_formal_intake_statuses": "ADMITTED_WITH_LIMITS_CYCLE008",
+        "actual_analytical_scope": "ROOT_QUALIFIED_COMPLETE_WITH_LIMITS; SOURCE_ADMITTED_CYCLE008; LITERAL_IDENTITY_AND_SOURCE_MODE_LIMITS_RETAINED",
+        "model_grades": "UNCHANGED_NO_NEW_GRADING"
+      }
+    ],
+    "private_family_limit": "Five exact typed families and130 selected private object routes are navigation, not persons, relationship completion, current primary reread or cross-variant chronology. Raw keys remain literal; empty dated A identity fields are not filled.",
+    "current_context": {
+      "source_capture114": "7a146891ad9ffd999b2c4377d66a73313217a510",
+      "merged89": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "ROOTlive_at_allocation": 122
+    },
+    "boundaries": {
+      "protected_H_phase2_work": "metadata-only; no original reopening/hash",
+      "nine_UNBOUND": "unread/unhashed",
+      "preserved39unpublished": "no contents/hashes",
+      "underlying_primary_raw_AV": "no new access/admission/credit",
+      "R_Git_provider_global_writes": 0
+    },
+    "new_source_primary_model_identity_scope_package_or_milestone_credit": 0
+  },
+  "historical_payload_qualification": "Every dated pending/local/source114/7a/source120-chain-pending/count/custody and relative-navigation field preserves creation-time meaning. Full original C bytes and literal/body inverses survive. Current ROOT acceptance is separately bound; mechanical transport supplies no new author, source, independent, primary/native/raw/QA/AV, model or scope credit. Original hashes bind originals rather than their public derivatives.",
+  "original_relative_navigation_boundary": "Historical payload hrefs retain their original document coordinates; explicit canonical body translations and public attachment descriptors supply current navigation. Historical relative literals are not fresh live-source reading.",
+  "assembler_receiving_credit": {
+    "new_primary_native_raw_QA_AV_model_identity": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "complete_author_attachment_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KAYOKO_AKO_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 576546,
+      "sha256": "ff8578964a85acd4d519586e275d81bf31ea0acd0dc23478ab7375a7a306c96b",
+      "git_blob_oid_of_actual_bytes": "9baefbc7694ea9de6588511c11c32ae6f015666c",
+      "attachment_names": [
+        "KAYOKO_AKO_BOUNDARY_AUTHOR_COMPLETE_SAVED_RECEIVING_V1.json",
+        "KAYOKO_AKO_BOUNDARY_AUTHOR_FINITE_SELFREVIEW_V1.json",
+        "KAYOKO_AKO_BOUNDARY_CLAIM_SOURCE_AND_END_REGISTER_V1.json",
+        "KAYOKO_AKO_BOUNDARY_EXACT_DELIVERY_MANIFEST_V1.json",
+        "KAYOKO_AKO_BOUNDARY_FACTORED_MEANING_AND_CLAIM_PROJECTION_V1.json",
+        "KAYOKO_AKO_BOUNDARY_FINAL_SAFE_C_FINITE_VERIFICATION_V1.json",
+        "KAYOKO_AKO_BOUNDARY_RECEIVING_RECEIPT_V1.md",
+        "KAYOKO_AKO_BOUNDARY_ROOT_RECEIVING_GUIDE_V1.md",
+        "KAYOKO_AKO_BOUNDARY_SAVED_BODY_BYTE_AND_PARAGRAPH_INVERSE_V1.json"
+      ]
+    }
+  ],
+  "complete_frozen_manifest": {
+    "schema": "KAYOKO_AKO_BOUNDARY_FINAL_FREEZE_V1",
+    "status": "FROZEN_IMMUTABLE_AUTHOR_DELIVERY",
+    "manifest": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/KAYOKO_AKO_BOUNDARY_EXACT_DELIVERY_MANIFEST_V1.json",
+      "bytes": 36332,
+      "sha256": "db2dcca5cb86cd1a76211a076b5b2a67cfcc2c34cda4fa4ccb3b78030d18abd1",
+      "git_blob_sha1": "32fac1e03c5d091ab9e479b46de5c04ead3e4e22"
+    },
+    "owned_payloads": 34,
+    "owned_files_including_manifest_and_this_freeze": 36,
+    "external_safe_C_dependencies": 34,
+    "body": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 38219,
+      "sha256": "3fa4a38eb8d7e5dde965b166e4ae62b22a51e610cdd316a54a071e61ae4f17f5",
+      "git_blob_sha1": "63ba2e1cafeadd12f748af3980a8d1b14b5a0163"
+    },
+    "finite_result": "PASS",
+    "body_unchanged_since_ROOT_whole_review": true,
+    "full_author_saved_body_read": true,
+    "complete_meaningful_source_claim_controls_received": true,
+    "all14_stable_OPEN": true,
+    "new_acceptance_source_scope_count_or_milestone_credit": 0,
+    "freeze_rule": "All36 owned files and all original external dependencies remain unchanged. Any correction requires a separately named successor with exact inverse; do not rerun either write-once builder."
+  },
+  "original_frozen_manifest_exact_tuple": {
+    "path": "KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/KAYOKO_AKO_BOUNDARY_FINAL_FREEZE_V1.json",
+    "bytes": 1554,
+    "sha256": "c019113da7724bbba42d83f0da48f5a34db117473aee335bed36982ddbd58da1",
+    "git_blob_oid_of_actual_bytes": "30b017a33560bc0805e12c671081ca6282f4205f",
+    "immutable_transport_path": "immutable_originals/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/KAYOKO_AKO_BOUNDARY_FINAL_FREEZE_V1.json"
+  },
+  "original_body_exact_tuple": {
+    "path": "KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 38219,
+    "sha256": "3fa4a38eb8d7e5dde965b166e4ae62b22a51e610cdd316a54a071e61ae4f17f5",
+    "git_blob_oid_of_actual_bytes": "63ba2e1cafeadd12f748af3980a8d1b14b5a0163",
+    "immutable_transport_path": "immutable_originals/KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS.md"
+  },
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_KAYOKO_AKO_PS68_PANDEMONIUM_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 40900,
+    "sha256": "b8ac0876a628b837946742ce13197caed5b1ed86e5ca747fc0068af4eede9965",
+    "git_blob_oid_of_actual_bytes": "ade8a9fcab4dec993628ccb34755944c80b2e0cc"
+  },
+  "canonical_link_translations": [],
+  "mandatory_operative_qualification": "All181 literary lines retain independent answering participants, wanted work/company,51 paragraph-source joins,14 spans, nine normal definitions, six rivals and six finite ends. Owned34 payloads plus manifest/seal and34 external safe C dependencies preserve original fields and factor inverse.12 body sections remain unchanged, not recut to an eleven-section outline. No H/R-original coordinate is followed; PS68 institution, Haruka directions, Pandemonium and monographs remain separate."
+}

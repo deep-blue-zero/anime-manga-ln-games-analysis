@@ -20,7 +20,7 @@ do_not_use_as_current_authority: false
 
 The fourteen-document **SIGRIKA_PRE_AV_V0_2** reconstruction is owner-adopted current `active_provisional` authority for its declared text and machine-audio scope. It is not a completed audiovisual synthesis or a human voice-performance review. Chinese is the primary semantic authority; English, Japanese, and Korean are localization witnesses. The [import record](../../08%20Audits%20and%20Manifests/WUWA_SIGRIKA_V0_2_IMPORT.md) records the supplied archive, transformations, validation, and evidence-plane exclusion.
 
-Start with the [packet README](WUWA_SIGRIKA_ANALYSIS_PACKET_README.md), then the [deep dive](WUWA_SIGRIKA_CHARACTER_DEEP_DIVE_PRE_AV.md), [evidence/falsification matrix](WUWA_SIGRIKA_EVIDENCE_AND_FALSIFICATION_MATRIX.md), and the specialist profile relevant to the question. The [compiled model](WUWA_SIGRIKA_CHARACTER_MODEL_PACKAGE.json) is downstream of those analytical documents, not a substitute for them.
+Start with the [packet README](WUWA_SIGRIKA_ANALYSIS_PACKET_README.md), then the [deep dive](01%20Evidence%20and%20Source-Facing/WUWA_SIGRIKA_CHARACTER_DEEP_DIVE_PRE_AV.md), [evidence/falsification matrix](01%20Evidence%20and%20Source-Facing/WUWA_SIGRIKA_EVIDENCE_AND_FALSIFICATION_MATRIX.md), and the specialist profile relevant to the question. The [compiled model](02%20Reconstruction/WUWA_SIGRIKA_CHARACTER_MODEL_PACKAGE.json) is downstream of those analytical documents, not a substitute for them.
 
 ## Evidence state
 
@@ -45,6 +45,8 @@ The packet is textually reconstructed, machine-voice profiled, and model-compile
 
 ## Evidence route
 
+The [current topology path map](04%20Validation%20and%20Readiness/WUWA_SIGRIKA_CURRENT_PATH_MAP.json) resolves original delivery-member paths without rewriting historical checksum or import records. Packet validators now live in `04 Validation and Readiness/`; modality tools and reproduction instructions live in `03 Audiovisual and Voice/Tooling and Reproduction/`.
+
 Drive character bridge folder: `1_tN8pPJeqrvSuqyIdED5dYU8ClU946lO`
 Drive direct-voice view: `158YddOayEgrjhOZqe16qCnVPoLLjNMHM`
 
@@ -52,7 +54,7 @@ Complete object-level measurements and association tables remain in the restrict
 
 ## Bounded static visual layer
 
-The [V0.2 visual-design profile](CHARACTER_VISUAL_DESIGN_PROFILE.md) directly inspects Sigrika's role-linked head icon, formation art, and activity portrait. Its JSON companion separates direct observation from design–narrative interpretation, and the reference manifest preserves official-client asset/package/container/hash provenance. This is distinct from the 24 unviewed scene targets and does not establish runtime motion, rear construction, alternate forms/skins, or human performance.
+The [V0.2 visual-design profile](03%20Audiovisual%20and%20Voice/Profiles%20and%20Plans/CHARACTER_VISUAL_DESIGN_PROFILE.md) directly inspects Sigrika's role-linked head icon, formation art, and activity portrait. Its JSON companion separates direct observation from design–narrative interpretation, and the reference manifest preserves official-client asset/package/container/hash provenance. This is distinct from the 24 unviewed scene targets and does not establish runtime motion, rear construction, alternate forms/skins, or human performance.
 
 ## Next operation
 

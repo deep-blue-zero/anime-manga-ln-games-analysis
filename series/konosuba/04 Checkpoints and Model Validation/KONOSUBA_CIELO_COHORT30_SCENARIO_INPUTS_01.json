@@ -1,0 +1,258 @@
+{
+  "schema": "konosuba.cohort30.exact-scenario-inputs.v1",
+  "subject": "Cielo",
+  "created_utc": "2026-10-24T05:15:32.504360+00:00",
+  "foundation_seal_sha256": "d732ece2042e585a2801246830d9ad875fbeb0070064068ed98a82f661ccef70",
+  "foundation_model_sha256": "cae2afdfc7795b41f3dd9aeb6a0c3726f4c9ac08fd1bf8d12731f278ee47cca2",
+  "same_informed_root_author": true,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "independent_judge": false,
+  "pristine_holdout": false,
+  "synthetic_pairs": 4,
+  "cases": [
+    {
+      "case_id": "CI-H01-A",
+      "pair_id": "CI-H01",
+      "variant": "A",
+      "target_rules": [
+        "CI-R01"
+      ],
+      "purpose": "Keep local protected agreement distinct from a changed request and general consent.",
+      "exact_prompt": "Use the frozen Cielo candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Cielo. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: Imagine a new, calm fan event in Axel. Cielo has chosen a protected handshake procedure using the same fifty-layer condition she herself specified; the protection is present and intact. A male visitor stands several steps away and politely asks for a handshake. He has not moved closer or touched anyone. Cielo can refuse or propose an alternative. Her wish to enjoy performing and improve her difficulties is unchanged. He explicitly offers to follow the agreed protected procedure without removing any layer.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "0d116d9e388a13513b4deff5384fcb2acd81cfa751cc0e3d4c7f69c290240e0d",
+      "fixed_common_facts": "Imagine a new, calm fan event in Axel. Cielo has chosen a protected handshake procedure using the same fifty-layer condition she herself specified; the protection is present and intact. A male visitor stands several steps away and politely asks for a handshake. He has not moved closer or touched anyone. Cielo can refuse or propose an alternative. Her wish to enjoy performing and improve her difficulties is unchanged.",
+      "variant_fact": "He explicitly offers to follow the agreed protected procedure without removing any layer.",
+      "paired_design_limit": "The changed request strongly cues an ordinary consent distinction. No actual violation occurs, so an invented assault, cure or deterministic punch would be unsupported.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "CI-H01-B",
+      "pair_id": "CI-H01",
+      "variant": "B",
+      "target_rules": [
+        "CI-R01"
+      ],
+      "purpose": "Keep local protected agreement distinct from a changed request and general consent.",
+      "exact_prompt": "Use the frozen Cielo candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Cielo. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: Imagine a new, calm fan event in Axel. Cielo has chosen a protected handshake procedure using the same fifty-layer condition she herself specified; the protection is present and intact. A male visitor stands several steps away and politely asks for a handshake. He has not moved closer or touched anyone. Cielo can refuse or propose an alternative. Her wish to enjoy performing and improve her difficulties is unchanged. He asks her to remove the protection for bare-hand contact instead, without claiming prior permission.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "180674a14abb3b6a77ae89ea0ca96a505d83977edb95c0727d0acbe445c264df",
+      "fixed_common_facts": "Imagine a new, calm fan event in Axel. Cielo has chosen a protected handshake procedure using the same fifty-layer condition she herself specified; the protection is present and intact. A male visitor stands several steps away and politely asks for a handshake. He has not moved closer or touched anyone. Cielo can refuse or propose an alternative. Her wish to enjoy performing and improve her difficulties is unchanged.",
+      "variant_fact": "He asks her to remove the protection for bare-hand contact instead, without claiming prior permission.",
+      "paired_design_limit": "The changed request strongly cues an ordinary consent distinction. No actual violation occurs, so an invented assault, cure or deterministic punch would be unsupported.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "CI-H02-A",
+      "pair_id": "CI-H02",
+      "variant": "A",
+      "target_rules": [
+        "CI-R02"
+      ],
+      "purpose": "Whether own enjoyment and remaining limits survive an instrumental or intrinsic external framing.",
+      "exact_prompt": "Use the frozen Cielo candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Cielo. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: In an imagined quiet planning conversation, Cielo has just enjoyed a rehearsed show, and still anticipates difficulty with contact from men. Lia and Erika will be present at the next show, which uses the same rehearsed dance and requires no touching. An organizer asks if she wants that next slot. All skill, audience and actual conditions are identical; only the organizer framing differs. The organizer says the slot is worthwhile only as a way to cure her fear, and dismisses enjoyment as irrelevant. No cure has been demonstrated.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "5af9625ba14d37e2d78e444e2f87bef4592991a15635bfcca95dd8510998562e",
+      "fixed_common_facts": "In an imagined quiet planning conversation, Cielo has just enjoyed a rehearsed show, and still anticipates difficulty with contact from men. Lia and Erika will be present at the next show, which uses the same rehearsed dance and requires no touching. An organizer asks if she wants that next slot. All skill, audience and actual conditions are identical; only the organizer framing differs.",
+      "variant_fact": "The organizer says the slot is worthwhile only as a way to cure her fear, and dismisses enjoyment as irrelevant. No cure has been demonstrated.",
+      "paired_design_limit": "Framing is explicit and normatively loaded. Similar acceptance with different reasoning is possible; this cannot isolate the historical cause of growth or clinical change.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "CI-H02-B",
+      "pair_id": "CI-H02",
+      "variant": "B",
+      "target_rules": [
+        "CI-R02"
+      ],
+      "purpose": "Whether own enjoyment and remaining limits survive an instrumental or intrinsic external framing.",
+      "exact_prompt": "Use the frozen Cielo candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Cielo. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: In an imagined quiet planning conversation, Cielo has just enjoyed a rehearsed show, and still anticipates difficulty with contact from men. Lia and Erika will be present at the next show, which uses the same rehearsed dance and requires no touching. An organizer asks if she wants that next slot. All skill, audience and actual conditions are identical; only the organizer framing differs. The organizer says her enjoyment of dance can itself make the slot worthwhile, without promising a cure.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "18187e7d1b24a4961673bffc0acf5176081841741a9084d9e52d5d9dedbdc01c",
+      "fixed_common_facts": "In an imagined quiet planning conversation, Cielo has just enjoyed a rehearsed show, and still anticipates difficulty with contact from men. Lia and Erika will be present at the next show, which uses the same rehearsed dance and requires no touching. An organizer asks if she wants that next slot. All skill, audience and actual conditions are identical; only the organizer framing differs.",
+      "variant_fact": "The organizer says her enjoyment of dance can itself make the slot worthwhile, without promising a cure.",
+      "paired_design_limit": "Framing is explicit and normatively loaded. Similar acceptance with different reasoning is possible; this cannot isolate the historical cause of growth or clinical change.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "CI-H03-A",
+      "pair_id": "CI-H03",
+      "variant": "A",
+      "target_rules": [
+        "CI-R03"
+      ],
+      "purpose": "Particular care and contribution in the presence of an invitation or explicit exclusion.",
+      "exact_prompt": "Use the frozen Cielo candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Cielo. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: Imagine Lia preparing to help move damaged stage props after a rehearsal mishap. The job has some risk from loose boards, but no current injury and no magic requirement. Cielo has strength relevant to carrying the light props and wants to help her particular partner. A safe waiting area is nearby. No one has yet moved or agreed to a new role. Only Lia stated position differs; do not supply her later reply. Lia asks Cielo: Will you help me carry the light props while I check the route?\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "7f00c97a916b0a5f6df32c9960c3c971722eaa8dc23464ada7357f7bbb45e381",
+      "fixed_common_facts": "Imagine Lia preparing to help move damaged stage props after a rehearsal mishap. The job has some risk from loose boards, but no current injury and no magic requirement. Cielo has strength relevant to carrying the light props and wants to help her particular partner. A safe waiting area is nearby. No one has yet moved or agreed to a new role. Only Lia stated position differs; do not supply her later reply.",
+      "variant_fact": "Lia asks Cielo: Will you help me carry the light props while I check the route?",
+      "paired_design_limit": "An invitation and exclusion create different relational/procedural constraints. A generic helper may show similar behavior; protest is not automatic assent or moral correctness.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "CI-H03-B",
+      "pair_id": "CI-H03",
+      "variant": "B",
+      "target_rules": [
+        "CI-R03"
+      ],
+      "purpose": "Particular care and contribution in the presence of an invitation or explicit exclusion.",
+      "exact_prompt": "Use the frozen Cielo candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Cielo. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: Imagine Lia preparing to help move damaged stage props after a rehearsal mishap. The job has some risk from loose boards, but no current injury and no magic requirement. Cielo has strength relevant to carrying the light props and wants to help her particular partner. A safe waiting area is nearby. No one has yet moved or agreed to a new role. Only Lia stated position differs; do not supply her later reply. Lia explicitly tells Cielo: Do not join me; stay in the waiting area. Lia plans to do the job herself.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "43afef4eb356adcc54ef37ca721b92059b81a4dff23a857dc605e6b971c55613",
+      "fixed_common_facts": "Imagine Lia preparing to help move damaged stage props after a rehearsal mishap. The job has some risk from loose boards, but no current injury and no magic requirement. Cielo has strength relevant to carrying the light props and wants to help her particular partner. A safe waiting area is nearby. No one has yet moved or agreed to a new role. Only Lia stated position differs; do not supply her later reply.",
+      "variant_fact": "Lia explicitly tells Cielo: Do not join me; stay in the waiting area. Lia plans to do the job herself.",
+      "paired_design_limit": "An invitation and exclusion create different relational/procedural constraints. A generic helper may show similar behavior; protest is not automatic assent or moral correctness.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "CI-H04-A",
+      "pair_id": "CI-H04",
+      "variant": "A",
+      "target_rules": [
+        "CI-R04"
+      ],
+      "purpose": "Separate useful capacity and contribution from acceptance of an unwanted public label.",
+      "exact_prompt": "Use the frozen Cielo candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Cielo. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: At an imagined community rehearsal, Cielo and Darkness volunteer for a known light two-person carrying task. Both know the load is within their ordinary capacity; there is no contact with men and no present danger. Cielo has previously asked this coordinator not to call her macho. The coordinator gives the same task and timetable, with only the address changing. Do not invent completion or a later apology. The coordinator addresses them as the two capable helpers.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "89b42186c96d37407c617a6e557f657a9cf442398db73262cae706552cd27417",
+      "fixed_common_facts": "At an imagined community rehearsal, Cielo and Darkness volunteer for a known light two-person carrying task. Both know the load is within their ordinary capacity; there is no contact with men and no present danger. Cielo has previously asked this coordinator not to call her macho. The coordinator gives the same task and timetable, with only the address changing. Do not invent completion or a later apology.",
+      "variant_fact": "The coordinator addresses them as the two capable helpers.",
+      "paired_design_limit": "A directly rejected label is strong cueing and generic preference-respect can account for protest. Continued work and objection can coexist; no gender or strength score follows.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "CI-H04-B",
+      "pair_id": "CI-H04",
+      "variant": "B",
+      "target_rules": [
+        "CI-R04"
+      ],
+      "purpose": "Separate useful capacity and contribution from acceptance of an unwanted public label.",
+      "exact_prompt": "Use the frozen Cielo candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Cielo. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: At an imagined community rehearsal, Cielo and Darkness volunteer for a known light two-person carrying task. Both know the load is within their ordinary capacity; there is no contact with men and no present danger. Cielo has previously asked this coordinator not to call her macho. The coordinator gives the same task and timetable, with only the address changing. Do not invent completion or a later apology. The coordinator addresses them as the macho girls, repeating the label Cielo explicitly rejected.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "e27129401193b0fbeff432da87e231717b06f36c3f39f46e27712d74e90563ee",
+      "fixed_common_facts": "At an imagined community rehearsal, Cielo and Darkness volunteer for a known light two-person carrying task. Both know the load is within their ordinary capacity; there is no contact with men and no present danger. Cielo has previously asked this coordinator not to call her macho. The coordinator gives the same task and timetable, with only the address changing. Do not invent completion or a later apology.",
+      "variant_fact": "The coordinator addresses them as the macho girls, repeating the label Cielo explicitly rejected.",
+      "paired_design_limit": "A directly rejected label is strong cueing and generic preference-respect can account for protest. Continued work and objection can coexist; no gender or strength score follows.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    }
+  ],
+  "new_source_or_independent_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "full_program_complete": false
+}

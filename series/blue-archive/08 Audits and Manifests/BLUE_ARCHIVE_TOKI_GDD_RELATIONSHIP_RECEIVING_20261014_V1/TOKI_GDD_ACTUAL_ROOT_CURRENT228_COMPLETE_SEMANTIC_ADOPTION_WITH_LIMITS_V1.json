@@ -1,0 +1,1031 @@
+{
+  "schema": "ROOT_TOKI_CURRENT228_EXACT8_COMPLETE_PERSONAL_SEMANTIC_ADOPTION_WITH_LIMITS_V1",
+  "ROOT": "/root",
+  "decision": "ACCEPT_C_AUTHOR_CURRENT_EXACT8_COMPLETE_DIRECTED_RELATIONSHIP_SEMANTICS_WITH_LIMITS_READY_FOR_PUBLIC_DERIVATION",
+  "actual_author_manifest": {
+    "private_C_path": "private-witness:TOKI-DELIVERY-6fc84cd41c6890b169e7f3f6",
+    "bytes": 16034,
+    "sha256": "93738420c17eadd0da7784e300f4073d05cf23517c91ac0969d18fb38c499707",
+    "git_blob_oid_of_actual_bytes": "7a377b06efb59cbdd2318a2f4b46464ab6f8fd52"
+  },
+  "actual_author8_components": [
+    {
+      "role": "directed_body",
+      "prospective_repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_TOKI_GAME_DEVELOPMENT_RECOGNITION_AND_BELONGING_RELATIONSHIP_SYNTHESIS.md",
+      "C_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_TOKI_GAME_DEVELOPMENT_RECOGNITION_AND_BELONGING_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 53013,
+      "sha256": "53865a7c65cb98b2971348ba2572eae1c501025dd9d3f0daff9f51bcb35e78ee",
+      "git_blob_oid_of_actual_bytes": "7fd6e5cd497ca78cf88b6e95bd777beeef54ca20"
+    },
+    {
+      "role": "purposes000_035",
+      "prospective_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+      "bytes": 421324,
+      "sha256": "ce514ac4aa6051ef75832d7206dd64037cb5cdccd7298bdd7dc131e32c5927f8",
+      "git_blob_oid_of_actual_bytes": "90f0d80b33ce31668b63326ed795dad6d95c2fc1"
+    },
+    {
+      "role": "purposes036_070",
+      "prospective_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+      "bytes": 556143,
+      "sha256": "c22469b77132aa581f6fe163eebadb22395226208108c21fa1a98eadce41f318",
+      "git_blob_oid_of_actual_bytes": "09e6172b776d9367fd74f17ce147ceae6a4f693c"
+    },
+    {
+      "role": "purposes071_104",
+      "prospective_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+      "bytes": 715499,
+      "sha256": "7362e39e5e9d8ff09c78f55dd55d07bfa3c52ab5f40c2d543a8113fb440d2c64",
+      "git_blob_oid_of_actual_bytes": "f2597f4b4891a9b6c6eececa47b1dbebb107b243"
+    },
+    {
+      "role": "source1_exact6",
+      "prospective_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_EXISTING_EVENT825_SOURCE1_CORE_AND_EXACT6_AUTHOR_SCOPE_RECEIVING_V2.json",
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_EXISTING_EVENT825_SOURCE1_CORE_AND_EXACT6_AUTHOR_SCOPE_RECEIVING_V2.json",
+      "bytes": 45601,
+      "sha256": "a3aa36cc61e15fa0650c1e84b80ca165960eff4857e5bc4b3c0cc139ddd135e5",
+      "git_blob_oid_of_actual_bytes": "a228fd196a3b6a723b37aaac62d5064044432948"
+    },
+    {
+      "role": "literal59_register",
+      "prospective_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT228_COMPLETE_LITERAL59_CLAIM_AND_SOURCE_LIMIT_REGISTER_V2.json",
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT228_COMPLETE_LITERAL59_CLAIM_AND_SOURCE_LIMIT_REGISTER_V2.json",
+      "bytes": 242664,
+      "sha256": "0b5c9a352b94a12183d775077099d8b33a9e09877ae9f555437c65188a98cc72",
+      "git_blob_oid_of_actual_bytes": "ae8e5c1daabc5b0cf07d712b1a809daab855a54f"
+    },
+    {
+      "role": "all105_source_index",
+      "prospective_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_ALL105_CURRENT_PURPOSE_AND_EXACT_SOURCE_BINDING_INDEX_V2.json",
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_ALL105_CURRENT_PURPOSE_AND_EXACT_SOURCE_BINDING_INDEX_V2.json",
+      "bytes": 158807,
+      "sha256": "e92a87c5cb3b846fa4343eb90c69dbd8d3b2192afb51232c385f31a4f61cd412",
+      "git_blob_oid_of_actual_bytes": "81b10cce6bf759436376140939c39c14834b34e0"
+    },
+    {
+      "role": "transport",
+      "prospective_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_EXACT8_SAVED_OUTPUT_ORIGINAL_INPUT_PRESERVATION_AND_TRANSPORT_RECEIPT_V2.json",
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_EXACT8_SAVED_OUTPUT_ORIGINAL_INPUT_PRESERVATION_AND_TRANSPORT_RECEIPT_V2.json",
+      "bytes": 823799,
+      "sha256": "c4559274741ac89c756a8152dedb8e9fbce9d58d7425edd19c8a6db54c6398fc",
+      "git_blob_oid_of_actual_bytes": "9bbe0e8584b0ada2ed776f26f2cf329f895bcbad"
+    }
+  ],
+  "full_author_closure": {
+    "private_C_path": "private-witness:TOKI-DELIVERY-a3dc248b3b9f28cfc53d80fb",
+    "bytes": 21950,
+    "sha256": "69d34a90aa8c331baa7c43580a80812b0dfde5136d92c33ac7c0d76b0e1262c1",
+    "git_blob_oid_of_actual_bytes": "4a77937cfffd18d5f829f7b922543cac11199ac0"
+  },
+  "ROOT_personal_receiving_journals": [
+    {
+      "private_C_path": "private-witness:TOKI-DELIVERY-d761365249850f984d517394",
+      "bytes": 171492,
+      "sha256": "6c7768d1d05b1b1f85c0f61d7443dce30382bdff20b9828de3c94134a1226dd6",
+      "git_blob_oid_of_actual_bytes": "4d1c71ca3e22079787ee8225d9995e956484e8bb"
+    },
+    {
+      "private_C_path": "private-witness:TOKI-DELIVERY-47f9021318e76bd61d6019bb",
+      "bytes": 662100,
+      "sha256": "56eb5f4660fdf58d4a735297d009a5dad22a51e850d3be230e22ad45ab81b121",
+      "git_blob_oid_of_actual_bytes": "0cc1ac0ddc9f064d7c42055356c95dc8e0cc31fc"
+    },
+    {
+      "private_C_path": "private-witness:TOKI-DELIVERY-1c38cc2fb2663b562ab83b7c",
+      "bytes": 258131,
+      "sha256": "edcad12eeec194c992405e718079b26877ff6e13ed11dcd2aee1acd76f86c239",
+      "git_blob_oid_of_actual_bytes": "9e23d59bb7e035d0702dd572961286da98d10719"
+    },
+    {
+      "private_C_path": "private-witness:TOKI-DELIVERY-125daa230d8e3837cea71ea2",
+      "bytes": 134271,
+      "sha256": "a12272bbc49df44d7d0f0c467a38e4b81d0cf334bdba739e2070d682fb319eb8",
+      "git_blob_oid_of_actual_bytes": "05fa2d213b019781738705f1a5af500df1fd1b29"
+    },
+    {
+      "private_C_path": "private-witness:TOKI-DELIVERY-b0511c14db95ddbe0ffafaac",
+      "bytes": 238244,
+      "sha256": "57250d2fe7fe2a37d1c1af5384d042810e7acecb2fad8577c8513a4f3c302ed7",
+      "git_blob_oid_of_actual_bytes": "70b92e7b802ec2d23ddcacc2757fa967f069a008"
+    },
+    {
+      "private_C_path": "private-witness:TOKI-DELIVERY-02a6ec90333015cb45e2fb6e",
+      "bytes": 130633,
+      "sha256": "db4695dea7b3573b4957748bba168bf82368f5765f22b3c2655b23bf7864fe9a",
+      "git_blob_oid_of_actual_bytes": "46cc8087e99888a0115f9732d732482ec11552a2"
+    },
+    {
+      "private_C_path": "private-witness:TOKI-DELIVERY-231781722e4a681735ea0375",
+      "bytes": 56371,
+      "sha256": "e05cc3031f6ce4dd52f5035eb6df93c83914ba3fc6521654c4daa05f6cba5fb0",
+      "git_blob_oid_of_actual_bytes": "2fba98102aa6a8e3480b5d61f1bc61ad81d2486e"
+    },
+    {
+      "private_C_path": "private-witness:TOKI-DELIVERY-f38a4e3891a0bb20899a9fe5",
+      "bytes": 115684,
+      "sha256": "30bb8d039c9290429365807b36ba24457db61cc51926cac5271ae9dc8df3ce95",
+      "git_blob_oid_of_actual_bytes": "65aea3d7e50bd3c3ab8dc76ffbccde8249e56258"
+    },
+    {
+      "private_C_path": "private-witness:TOKI-DELIVERY-4e94afed2c9dd6d0290972d8",
+      "bytes": 92016,
+      "sha256": "d08c33607026e59e669d0a5fb9577b91a2f3e3af583b4ef59e41f2a2bba81227",
+      "git_blob_oid_of_actual_bytes": "e706b09c3c04e026c57647786dc31775339f6b0b"
+    },
+    {
+      "private_C_path": "private-witness:TOKI-DELIVERY-f4db6709bd1ba0169fc91aa8",
+      "bytes": 164490,
+      "sha256": "6767c78bf322c97b6cc70fa1896260ed8b6df1b9674dfce2e526db2aa52347a7",
+      "git_blob_oid_of_actual_bytes": "e11fdd9cee751e192701a5fce47fb96f0dbbb5a1"
+    },
+    {
+      "private_C_path": "private-witness:TOKI-DELIVERY-b4c14ae9a16cb8a25f199e83",
+      "bytes": 92083,
+      "sha256": "a53e9c7af12d33c4da492304890ecea8daad3e753e1820c2ccf1428a2a97f1ab",
+      "git_blob_oid_of_actual_bytes": "7a31ab65e421df60faee736cde5dfef220ee6dbc"
+    }
+  ],
+  "own_complete59_connected_judgments": [
+    {
+      "paragraph_id": "TGR-P001",
+      "own_reason": "The existing directed duty is centered on Event825 invitation and owned shared responsibility; accepted Toki character work is contextual authority, not another package or an exhaustive first-meeting claim."
+    },
+    {
+      "paragraph_id": "TGR-P002",
+      "own_reason": "Current Cycle008 qualification governs intake history; cbe3/87-of310 are prospective history, and maintained argument receiving is distinct from primary/native/raw/AV admission."
+    },
+    {
+      "paragraph_id": "TGR-P003",
+      "own_reason": "Received help, answered invitation and chosen shared fighting support wanted company beyond instrumental usefulness, at their local sequence and recipient scope."
+    },
+    {
+      "paragraph_id": "TGR-P004",
+      "own_reason": "Toki, Alice, Yuzu, Midori and Momoi contribute differently; collective or damaged lines do not confer a uniform motive or redistribute Akira's rescue."
+    },
+    {
+      "paragraph_id": "TGR-P005",
+      "own_reason": "Enjoyable late play and Momoi's wanted company are finite positive goods despite vanished commission and unresolved rewards; no charter or payment settlement follows."
+    },
+    {
+      "paragraph_id": "TGR-P006",
+      "own_reason": "Coercive Pavane actions precede the local affiliation context without proving a former friendship breakup or making Toki the cause of every injury."
+    },
+    {
+      "paragraph_id": "TGR-P007",
+      "own_reason": "Misidentified reputation and undisclosed work bring different desires together; conditional nonreport and anticipated repayment remain limited entering terms."
+    },
+    {
+      "paragraph_id": "TGR-P008",
+      "own_reason": "E007 coherent invitation, thanks and companion narration establish a secure local affiliation endpoint while adjoining actor seams remain unresolved."
+    },
+    {
+      "paragraph_id": "TGR-P009",
+      "own_reason": "Command testimony, operative skill and institutional standing explain asymmetry without constituting an audited charter or informed agreement."
+    },
+    {
+      "paragraph_id": "TGR-P010",
+      "own_reason": "Effective club help and Toki's thanks reverse one direction of assistance; Akira-to-Midori rescue remains another actor's act, not tactical equivalence."
+    },
+    {
+      "paragraph_id": "TGR-P011",
+      "own_reason": "Toki's conversational difficulty is located admission, not diagnosis; different club members also have distinct fears, questions and clothing preferences."
+    },
+    {
+      "paragraph_id": "TGR-P012",
+      "own_reason": "Offer-answer-continuation repeats locally through help, invitation, nonabandonment and shared responsibility; no global recurrent behavioral model follows."
+    },
+    {
+      "paragraph_id": "TGR-P013",
+      "own_reason": "Game and quest language makes affiliation intelligible but is corrected by refusal options and human-recipient limits; it cannot convert danger into harmless play."
+    },
+    {
+      "paragraph_id": "TGR-P014",
+      "own_reason": "P10 absent-player reports and accepted Event854 comparison retain their reported/maintained grades; provisional hobbies exceed the relation and establish no total chronology."
+    },
+    {
+      "paragraph_id": "TGR-P015",
+      "own_reason": "Protection through withdrawal and wanted continuation conflict at an actual decision point; Toki's later choice does not prove all solitary work is pathological."
+    },
+    {
+      "paragraph_id": "TGR-P016",
+      "own_reason": "Later voluntary continuation occurs under changed knowledge and does not retroactively make the client's entering commission fully disclosed or consensual."
+    },
+    {
+      "paragraph_id": "TGR-P017",
+      "own_reason": "Group250 voluntary match differs from limited pressured attendance and unwanted fame; it is an ordinary countercase, not evidence Toki attended or identical coercion recurred."
+    },
+    {
+      "paragraph_id": "TGR-P018",
+      "own_reason": "Actual intervention and wanted help make Toki a receiving friend; coherent speech/narration support that direction without repairing each adjacent actor heading."
+    },
+    {
+      "paragraph_id": "TGR-P019",
+      "own_reason": "Toki's protection and responsibility offers remain answerable to recipients who can refuse separation; technical contributions need not have one hidden affectionate motive."
+    },
+    {
+      "paragraph_id": "TGR-P020",
+      "own_reason": "Slipping, discomfort, a box and a handkerchief locate ordinary care at action/offer grades without establishing safety, diagnosis or completed institutional aims."
+    },
+    {
+      "paragraph_id": "TGR-P021",
+      "own_reason": "Help, conversational difficulty and unsettled-feeling disclosures support local trust, not universal knowledge or a reliable future-disclosure prediction."
+    },
+    {
+      "paragraph_id": "TGR-P022",
+      "own_reason": "Client concealment and different tracing/art interests produce unequal knowledge; successful cooperation does not certify everyone's fully informed participation."
+    },
+    {
+      "paragraph_id": "TGR-P023",
+      "own_reason": "Akira's real help and later betrayal belong to another directed relation; they neither erase the Toki-club affiliation nor certify universal helper trust."
+    },
+    {
+      "paragraph_id": "TGR-P024",
+      "own_reason": "Operative hierarchy and offered peer position coexist; chosen participation does not abolish C&C, audit command rights or enroll Toki in GDD."
+    },
+    {
+      "paragraph_id": "TGR-P025",
+      "own_reason": "Reported game rivalry and locally demonstrated Yuzu skill have bounded scale; hearsay rank and unwanted legend identity do not become universal hierarchy."
+    },
+    {
+      "paragraph_id": "TGR-P026",
+      "own_reason": "Neru, Asuna, Akane and Karin retain different C&C directions; Toki's own chosen affiliation is not authored entirely by senior permission."
+    },
+    {
+      "paragraph_id": "TGR-P027",
+      "own_reason": "Prior seizure is consequential antagonism, not a fabricated breakup of established friendship; later peer company cannot retrospectively absolve harmful orders."
+    },
+    {
+      "paragraph_id": "TGR-P028",
+      "own_reason": "Revealed auction/distraction plan ruptures the commission's benign account, while backup claims remain testimony rather than school-wide complicity."
+    },
+    {
+      "paragraph_id": "TGR-P029",
+      "own_reason": "Recovery reversal and temporary-alliance termination test cooperation without inventing Toki betrayal or distributing Akira's means to every participant."
+    },
+    {
+      "paragraph_id": "TGR-P030",
+      "own_reason": "The complete maintained Event825 account supports enacted redefinition but no completed Toki-to-Alice apology or universal forgiveness procedure."
+    },
+    {
+      "paragraph_id": "TGR-P031",
+      "own_reason": "Not contacting seniors and offered shared responsibility are admitted procedural facts; praise and secured-evidence reports do not enact punishment abolition or future transfer."
+    },
+    {
+      "paragraph_id": "TGR-P032",
+      "own_reason": "Neru's urgent-assignment apology and Toki's thanks are their distinct repair, not an explanation of every absence or settled employment."
+    },
+    {
+      "paragraph_id": "TGR-P033",
+      "own_reason": "Late play and Momoi's statement are attained ordinary ends even without purchased hardware, finished work or verified payment."
+    },
+    {
+      "paragraph_id": "TGR-P034",
+      "own_reason": "Different console, controller, play and publicity preferences remain recipient conditions of common activity, not defects in a presumed uniform club."
+    },
+    {
+      "paragraph_id": "TGR-P035",
+      "own_reason": "Tea, animals, rest, videos, comics, aesthetic curiosity and undisclosed liking exceed this relation; enjoyment does not reduce all Toki motives to loneliness."
+    },
+    {
+      "paragraph_id": "TGR-P036",
+      "own_reason": "Request/order-to-companion/choice lexical movement has preceding actions and an explicit declaration; one noun alone does not certify emancipation."
+    },
+    {
+      "paragraph_id": "TGR-P037",
+      "own_reason": "Located politeness and different adult/senior addresses do not invent intimacy ranks, unreceived GDD honorifics or a performed voice."
+    },
+    {
+      "paragraph_id": "TGR-P038",
+      "own_reason": "E007/E016 speaker seams, inward choices and repeated UI contexts remain bounded because confusing them would alter agency, knowledge and consent."
+    },
+    {
+      "paragraph_id": "TGR-P039",
+      "own_reason": "Sensei's reassurance and alternatives are useful while participation in impersonation and incomplete disclosure remains fallible; adult presence does not confer consent."
+    },
+    {
+      "paragraph_id": "TGR-P040",
+      "own_reason": "Hearing a student and correcting monster language support inquiry without proving Akira innocent or removing later betrayal risk."
+    },
+    {
+      "paragraph_id": "TGR-P041",
+      "own_reason": "The club's help, Alice's invitation, Toki's choice, Yuzu's contributions and Momoi's pleasure preserve distributed agency alongside useful adult mediation."
+    },
+    {
+      "paragraph_id": "TGR-P042",
+      "own_reason": "Tactical alliance explains joint capabilities and a crown task, but explicit thanks, invitation, nonabandonment and wanted evening company exceed that task."
+    },
+    {
+      "paragraph_id": "TGR-P043",
+      "own_reason": "Trained obedience captures command conditions but cannot exhaust received help, unsettled feelings and chosen friendship; work and hierarchy need not disappear first."
+    },
+    {
+      "paragraph_id": "TGR-P044",
+      "own_reason": "Welcoming help is positive without establishing clinical causes, cure or a compensatory explanation for every ordinary hobby."
+    },
+    {
+      "paragraph_id": "TGR-P045",
+      "own_reason": "Entering deception and later choice are different decisions; neither wholly compelled participation nor retrospective blanket consent fits both."
+    },
+    {
+      "paragraph_id": "TGR-P046",
+      "own_reason": "Benevolent club acts remain real while pressure, teasing, differing costume comfort and unwanted fame defeat a uniformly benevolent group inference."
+    },
+    {
+      "paragraph_id": "TGR-P047",
+      "own_reason": "Actual redefinition, praise and apology do not complete every harmed-recipient answer, hearing, command transfer, employment or institutional handover."
+    },
+    {
+      "paragraph_id": "TGR-P048",
+      "own_reason": "Games have tactical and material utility plus independently wanted leisure; actual late play survives uncertain rewards while publicity pressure remains contrary."
+    },
+    {
+      "paragraph_id": "TGR-P049",
+      "own_reason": "Sole-Sensei authorship fails on students' explicit invitation, rescue, choice and pleasure and on inward/spoken distinctions; mediation retains its real limited role."
+    },
+    {
+      "paragraph_id": "TGR-P050",
+      "own_reason": "Sixteen endpoints distinguish actions, reports, offers and reversals; a single mission success label cannot certify the relational or institutional outcome."
+    },
+    {
+      "paragraph_id": "TGR-P051",
+      "own_reason": "Reports are actual speech acts and can be qualified by later action; narrated escape/crown hold/play are stronger at their narrow result, not universal warranties."
+    },
+    {
+      "paragraph_id": "TGR-P052",
+      "own_reason": "Missing reward or work completion does not nullify attained company; it also does not automatically compensate every recipient for fear, work or exposure."
+    },
+    {
+      "paragraph_id": "TGR-P053",
+      "own_reason": "All endpoints are retrospective exposed observations, not held-out predictions, diagnostic validation or evidence of an operational model."
+    },
+    {
+      "paragraph_id": "TGR-P054",
+      "own_reason": "Four whole and two selected maintained carriers support this local relationship scope; all fourteen stronger-warrant gaps remain open in their own domains."
+    },
+    {
+      "paragraph_id": "TGR-P055",
+      "own_reason": "Durable trust, membership, settlement, exact contested attribution and performance require their appropriate new witnesses; AV is unnecessary for this bounded textual claim."
+    },
+    {
+      "paragraph_id": "TGR-P056",
+      "own_reason": "Reciprocal help, answered invitation, chosen responsibility and wanted company support substantial directed redefinition while prior harm and institutional obligations remain."
+    },
+    {
+      "paragraph_id": "TGR-P057",
+      "own_reason": "Body completion is distinct from whole package completion: full current525 meanings, joins, actual QA and Root adoption still require their separate receiving."
+    },
+    {
+      "paragraph_id": "TGR-P058",
+      "own_reason": "The author's996-line/17-page statement is attributed actual preparation; Root's own six-source receiving is separately recorded and does not create whole underlying Japanese readings."
+    },
+    {
+      "paragraph_id": "TGR-P059",
+      "own_reason": "Twelve method tracks and the existing P3-XMI-R003 home justify one required directed package; source/registry/model/prediction grades stay unchanged."
+    }
+  ],
+  "own_complete105_current_purpose_judgments": [
+    {
+      "owner_id": "O000",
+      "own_reason": "Different tastes, inclusion and small aroma pleasure are positive without cancelling Fuuka's interrupted warning or proving flawless Toki hosting; Gourmet report is comparative, not attendance."
+    },
+    {
+      "owner_id": "O001",
+      "own_reason": "Chosen service coexists with Neru's permanent-role refusal; an opening/profit report and delegated acceptance do not enroll Toki permanently or transfer her from C&C."
+    },
+    {
+      "owner_id": "O002",
+      "own_reason": "Nodoka's familiar-home desire and tickling-induced compliance distinguish valued attachment from willing costume performance; administrative restoration does not repair all treatment."
+    },
+    {
+      "owner_id": "O003",
+      "own_reason": "Craft pleasure and usefulness retain intrinsic value beside unpermitted gun changes, coughs and unfinished repair; no imported weapon mechanism authorizes Toki help."
+    },
+    {
+      "owner_id": "O004",
+      "own_reason": "Data access and an ethical correction leave rumor/privacy costs and unequal knowledge; false100kg stays false and no inward intention becomes shared club knowledge."
+    },
+    {
+      "owner_id": "O005",
+      "own_reason": "Initial hygiene inspection, later prepared adverse drink and Izumi's enjoyment remain separate events and recipients; one pleasure cannot certify universal harmlessness, chemical causes or a clinical result."
+    },
+    {
+      "owner_id": "O006",
+      "own_reason": "Patient visits and sociability remain comfort beside shooting after surrender, fabricated grief and a merely threatened injection; affection supplies neither treatment consent nor shared knowledge."
+    },
+    {
+      "owner_id": "O007",
+      "own_reason": "Tsurugi's happiness and Hasumi's changing tea response preserve plural recipients; compulsory contact and unfinished harm cannot become uniform GDD acceptance through an authority's pleasant encounter."
+    },
+    {
+      "owner_id": "O008",
+      "own_reason": "Ibuki's cocoa wish is intrinsically valuable while uncommunicated resource standards, proposed processing and announced futurezero remain separate from implementation or formal Toki entitlement."
+    },
+    {
+      "owner_id": "O009",
+      "own_reason": "Later rescue and renewed care do not retroactively authorize a declined outing; true rumor, offered feeding and an actual rescue have distinct modalities and imply no compulsory future recreation."
+    },
+    {
+      "owner_id": "O010",
+      "own_reason": "Wrong-site paid cleaning reflects an incomplete message and uneven command knowledge; it supplies neither settled damage nor an authorized sanction against Toki."
+    },
+    {
+      "owner_id": "O011",
+      "own_reason": "Aru's rejection of the pitch and stated self-reliance remain local voiced answers; retaliation does not become lawful, and a vow supplies no observed durable reform."
+    },
+    {
+      "owner_id": "O012",
+      "own_reason": "Pina's invitation, Shizuka's permission and quiet willow company retain particular actors; bentos, cards and sleep matter without proving procurement success or a revived festival."
+    },
+    {
+      "owner_id": "O013",
+      "own_reason": "Kaede's wish for film praise contrasts with the actual rebuke; animal presence is not admiration, forecast duration is not narrated elapsed duration and completing a film is not winning."
+    },
+    {
+      "owner_id": "O014",
+      "own_reason": "Earlier refusal and a renewed conditional invitation retain their separate times; reported or inferred animal/anime intentions establish no permanent preference for a friend."
+    },
+    {
+      "owner_id": "O015",
+      "own_reason": "Whole Group250 supplies Yuzu's voluntary skill beside unwanted fame and limited attendance; ordinary comparison protects recognition without joining dates or granting unlimited publicity permission."
+    },
+    {
+      "owner_id": "O016",
+      "own_reason": "An unopened package and invented contents distinguish privacy from fraud; a later explanation does not erase rumor or authenticate Toki's complete identity."
+    },
+    {
+      "owner_id": "O017",
+      "own_reason": "Practical aid can coexist with unauthorized deployment, property loss and an actual suspension; capture does not supply restitution or a performed sniper alternative."
+    },
+    {
+      "owner_id": "O018",
+      "own_reason": "Mel's embedded fiction and Minori's civic attention remain different channels; literary pleasure has worth, while actual affection, relief and the physical burner need their own warrant."
+    },
+    {
+      "owner_id": "O019",
+      "own_reason": "Tsukuyo's appreciated small care and Izuna's real social welcome support belonging; formal charter, actual technique and subscriber success remain distinct unproved endpoints."
+    },
+    {
+      "owner_id": "O020",
+      "own_reason": "Individual RABBIT watch relief and ration tastes resist uniform professional willingness; uneven burdens and cleanup persist without importing a task or safety certificate to Toki."
+    },
+    {
+      "owner_id": "O021",
+      "own_reason": "Actual craft and a favorable coda deserve recognition while the missing metal-price forecast and causal mechanism remain unresolved; local friendship is not a predictive model."
+    },
+    {
+      "owner_id": "O022",
+      "own_reason": "Chise retains ownership of preference-specific preparation and gratitude; help and offered rest do not justify covert following or establish repaired surveillance knowledge."
+    },
+    {
+      "owner_id": "O023",
+      "own_reason": "Rei's accepted goal and enjoyed stadium company do not authorize changed restraint means; no home run, activated mechanism or baseball/diving identity union is invented."
+    },
+    {
+      "owner_id": "O024",
+      "own_reason": "Kisaki's private rest and Kokona's actual request remain the operative actors; the frozen Shun label is history, and private pleasure communicates no specialist command."
+    },
+    {
+      "owner_id": "O025",
+      "own_reason": "Current61767 removes unsupported reading specificity from those vignettes while chosen digging, remembered rescue, baths and spontaneous sharing retain value; no universal gift or clinical rule results."
+    },
+    {
+      "owner_id": "O026",
+      "own_reason": "Temporary company is an affirmative endpoint despite continuing stress; hand-leading overrides a refusal, and unperformed future outings prove neither durable clinical recovery nor complete resolution."
+    },
+    {
+      "owner_id": "O027",
+      "own_reason": "Distinct Valentine craft and shared time keep recipient-specific meanings; false summons and undisclosed additions remain costs, so thanks grants neither allegiance nor unrestricted means."
+    },
+    {
+      "owner_id": "O028",
+      "own_reason": "A later allowance and diverse gift labor have value, but neither authorizes ignored retrieval retroactively nor authenticates unprinted letters or merged Kei/Rei identities."
+    },
+    {
+      "owner_id": "O029",
+      "own_reason": "Izuna's dream and chosen aid preserve her own agency within distributed assistance; a doorway inquiry is not membership and assistance does not author Toki's entire personality."
+    },
+    {
+      "owner_id": "O030",
+      "own_reason": "Distinct pudding, literature, home, pay and rest needs remain substantial after command returns; postponed benefits and independent event offers cannot become implemented rights."
+    },
+    {
+      "owner_id": "O031",
+      "own_reason": "An enjoyable group occasion coexists with Hifumi's exhaustion, unfulfilled leave and partial cleanup; photographs and victory supply no universal recipient satisfaction."
+    },
+    {
+      "owner_id": "O032",
+      "own_reason": "Hina's chosen leisure and a later severe issued order are separate modalities; neither unperformed dance nor36-hour instructions establish safe labor or durable noncoercive authority."
+    },
+    {
+      "owner_id": "O033",
+      "own_reason": "Shun's chosen return and forgiveness have local value while prior deception, restraint and consequences remain; textual form continuity is not clinical proof or comprehensive trust repair."
+    },
+    {
+      "owner_id": "O034",
+      "own_reason": "C&C's ordinary service and play remain goods, while captive laughter coexists with refusal; Asuna's conditional release and unperformed adult rescue do not license unlimited maid-role consent."
+    },
+    {
+      "owner_id": "O035",
+      "own_reason": "Miku's self-naming, joy and awkwardness are substantive written acts; unreceived concert, tuning, audience and audiovisual expression do not establish performed success or a general virtual ontology."
+    },
+    {
+      "owner_id": "O036",
+      "own_reason": "Shigure's valued togetherness and Nodoka's material livelihood need remain different goods; an actual final bath after the blast does not restore housing, water or labor."
+    },
+    {
+      "owner_id": "O037",
+      "own_reason": "The empty safe leaves recovery unsuccessful while renewed toy offering and peer-oriented reasons retain local relational value; promised payment, ramen and rest remain future."
+    },
+    {
+      "owner_id": "O038",
+      "own_reason": "Keeping a gift, wanted viewing and relinquishing magazines carry specific meanings; an offered or retained object is neither necessarily consumed nor installed, and forced feeding remains unassented."
+    },
+    {
+      "owner_id": "O039",
+      "own_reason": "Directed trust and distributed local aid can coexist with unverified credentials, custody and continuing harm; offered macarons and reported remote contact do not become eating or physical presence."
+    },
+    {
+      "owner_id": "O040",
+      "own_reason": "Ui's accepted imperfect cake and Hinata's chosen accountability preserve goodwill alongside precise drink preferences, privacy and reluctance; affiliation need not imply conversion of every taste."
+    },
+    {
+      "owner_id": "O041",
+      "own_reason": "Ibuki's spoken trust and an actual later catch are stronger, distinct acts from Michiru's forecast and crossing plan; neither supplies formal approval, paid costs or all-accomplice knowledge."
+    },
+    {
+      "owner_id": "O042",
+      "own_reason": "The report warrants wanted fishing and a broken rod, not achieved fishing or a universal absence finding; ordinary desire remains substantial beside Toki's separately observed games."
+    },
+    {
+      "owner_id": "O043",
+      "own_reason": "An actual victory and feast have positive value while Serika's dissent, reported title issues and unresolved payment/refund preserve unequal institutional and recipient outcomes."
+    },
+    {
+      "owner_id": "O044",
+      "own_reason": "Kazusa's own contact, uncertainty and offered drink make seeking help an authored choice; tolerated jokes and an unresolved stalker report grant neither paid-care entitlement nor complete protection."
+    },
+    {
+      "owner_id": "O045",
+      "own_reason": "Kazusa's wish to end challenges without punishment specifies the help she wants; Reisa's declared first strike and Kazusa's motive appraisal remain intention and interpretation."
+    },
+    {
+      "owner_id": "O046",
+      "own_reason": "Retained climbing skill and a narrated photograph history coexist with present choices; shame and competence reveal no immutable violent true self or authenticated photo provenance."
+    },
+    {
+      "owner_id": "O047",
+      "own_reason": "Situational respect and voluntary assembly preserve limits on questioning and knowledge; good intentions guarantee neither harmlessness nor comprehensive institutional oversight."
+    },
+    {
+      "owner_id": "O048",
+      "own_reason": "A trusted present-state account can change an inquiry locally while Reisa's interpretation, speaker seams and future conduct remain unresolved; no clinical or enduring role-change model follows."
+    },
+    {
+      "owner_id": "O049",
+      "own_reason": "Affirmed identity and ordinary sweets company permit belonging under unequal knowledge; the lost photograph preserves privacy costs and welcome does not supply informed mutual understanding."
+    },
+    {
+      "owner_id": "O050",
+      "own_reason": "Thanks for timely help and protest at name exposure coexist in one relation; apology alternatives, shame and continued work do not establish total reconciliation or flawless adult mediation."
+    },
+    {
+      "owner_id": "O051",
+      "own_reason": "Friends' intended comforting role play has a consequential unwanted result; Kazusa's correction request blocks smiles, costumes and old roles from fixing the recipient's present identity."
+    },
+    {
+      "owner_id": "O052",
+      "own_reason": "Kazusa's happiness at caring intentions and objection to the unsolicited form are simultaneous answers; Reisa's listening and solidarity metaphors establish neither inward assent nor completed repair."
+    },
+    {
+      "owner_id": "O053",
+      "own_reason": "A local promise to stop challenging has real force before later renewed challenge qualifies its duration; neither later conduct erases the promise nor that promise guarantees settled belonging."
+    },
+    {
+      "owner_id": "O054",
+      "own_reason": "Reisa's returned letter and private attachment have value beside retained responsibility; reassurance provides no clinical clearance, exoneration or disclosure to all recipients."
+    },
+    {
+      "owner_id": "O055",
+      "own_reason": "Kazusa initiates concern while continuing to dislike the interference; an inward adult warning is not a briefing and concern does not reverse aversion or imply romance."
+    },
+    {
+      "owner_id": "O056",
+      "own_reason": "Coordinated help can occur while Kazusa declines a friendship label; predicted police responses and an intended rescue remain distinct from authority and completed action."
+    },
+    {
+      "owner_id": "O057",
+      "own_reason": "Protective refusal and the friends' arrival support local aid alongside humiliating naming; uncertain injury and blast authorship prevent a harmless-rescue certificate."
+    },
+    {
+      "owner_id": "O058",
+      "own_reason": "Food-oriented routine and collective cheer are intrinsic goods after retreat; familiarity is not a care protocol, and an offered treat or expected arrest is no completed meal or legal outcome."
+    },
+    {
+      "owner_id": "O059",
+      "own_reason": "Remembered café warmth, cake and friendship give Kazusa a wanted ordinary motive before consultation; the unnamed girl remains unnamed and reflection establishes no cure or adult-origin law."
+    },
+    {
+      "owner_id": "O060",
+      "own_reason": "Renewed challenge and parfait routine coexist after local change; the represented collective rescue remains collective, and contrary ending limits permanence without erasing earlier restraint."
+    },
+    {
+      "owner_id": "O061",
+      "own_reason": "Revised contests and craft reflect particular recipients, but Chihiro's roster refusal, interrupted objections and workers' fatigue prevent all-approved participation or universally enjoyable labor."
+    },
+    {
+      "owner_id": "O062",
+      "own_reason": "Hasumi's worst-yet-enjoyable appraisal retains its own owner alongside Chihiro's nonenjoyment and Hibiki's wish to finish; sixth place is neither worthless nor universal victory."
+    },
+    {
+      "owner_id": "O063",
+      "own_reason": "Changed accounts, treatment, apology and Christmas company support local repair while prior force and recipient pain remain; Hasumi's interpretation of assent is not universal consent or lasting reform."
+    },
+    {
+      "owner_id": "O064",
+      "own_reason": "Fuuka's later listened-to request and recognition permit meaningful collaboration without authorizing earlier kidnapping or supplying payroll, reopening and overload repair."
+    },
+    {
+      "owner_id": "O065",
+      "own_reason": "Reported operation successes keep finite value when danger returns; distinct leisure goods matter, while causes, sole adult credit, rebuild and permanent safety remain unverified."
+    },
+    {
+      "owner_id": "O066",
+      "own_reason": "Familiar recognition and offered listening can matter under incomplete identity explanation; telemetry, masks and temporary control do not establish ontology, durable safety or everybody's inward knowledge."
+    },
+    {
+      "owner_id": "O067",
+      "own_reason": "Scarf warmth and directed aid affirm particular ordinary lives against an imposed suffering role; cosmology, counterfactual causation, clinical recovery and cross-world identity remain separately unwarranted."
+    },
+    {
+      "owner_id": "O068",
+      "own_reason": "Courteous civic requests and reported aid approval establish cooperative capacity, not payment, reconstruction or restored office; an unnamed incident supplies no adopted date."
+    },
+    {
+      "owner_id": "O069",
+      "own_reason": "Whole maintained Event825 supports a directed help-invitation-thanks-nonabandonment-chosen shared-action sequence and actual games as ends; initial command and incomplete disclosure still limit prior informed consent, enrollment, payment and permanent trust."
+    },
+    {
+      "owner_id": "O070",
+      "own_reason": "Rumi's cooking enthusiasm, Saya's refusal and later eating retain their own actors and moments; a banquet and apology do not settle covert use of Kokona, expenses or reform, and Mina remains distinct from Minato."
+    },
+    {
+      "owner_id": "O071",
+      "own_reason": "Practical coastal aid, gifts and parties retain value under the current61767 correction; thanks is separate from food/body refusals, official appointment, grounding and legal accountability."
+    },
+    {
+      "owner_id": "O072",
+      "own_reason": "Ui's weathered capsule and chosen reburial support care without exhibition or utility; lost writing remains lost and opt-outs do not settle policy, repayment or universal comfort."
+    },
+    {
+      "owner_id": "O073",
+      "own_reason": "Mel's desired manuscript and actual refusals govern creative participation; withdrawal of appropriation does not finish printing, profit, contracts or repair forced carrying and Momiji's objection."
+    },
+    {
+      "owner_id": "O074",
+      "own_reason": "Hasumi expressly makes her personal rest request optional, while Ichika can seek talk and decline affiliation; useful knowledge and restoration promises grant neither unlimited accompaniment nor completed repair."
+    },
+    {
+      "owner_id": "O075",
+      "own_reason": "Entrusted gun and memory can carry particular relational worth despite uncertain understanding; current61767 preserves Sensei's opening rest as his, removes festival specificity and proves neither durable technical repair nor future reunion."
+    },
+    {
+      "owner_id": "O076",
+      "own_reason": "A later voluntary continuation with an exit gives new permission for quiet shared pleasures, while initial compelled camping, nondisclosure and labor/body objections persist; game figures are not bodily gain."
+    },
+    {
+      "owner_id": "O077",
+      "own_reason": "Hina's acceptance precedes written performance, and positive responses support a local artistic result; unheard audio, Iroha's dissent, publicity pressure and budgets remain distinct."
+    },
+    {
+      "owner_id": "O078",
+      "own_reason": "Specific gift acts, reading, eating and exit keep their endpoints separate from thanks and discussion; escaped danger does not settle Saori's wages, contracts or every recipient's unfinished act."
+    },
+    {
+      "owner_id": "O079",
+      "own_reason": "Umika's chosen trip hosting and completed ceremony retain pleasure beside early-firework timing errors, sabotage and fighting; later enjoyment does not supply prior informed risk permission."
+    },
+    {
+      "owner_id": "O080",
+      "own_reason": "Airi's wanted presence before superior skill affirms a person's value beyond technical utility; alternative endings, ignored refusals, role imposition and fatigue do not become cumulative cure."
+    },
+    {
+      "owner_id": "O081",
+      "own_reason": "The child's explicit gratitude supports Kanna's local confidence beside mistaken accusation and restraint; service interest does not verify injury-free safety, restitution or an office transfer."
+    },
+    {
+      "owner_id": "O082",
+      "own_reason": "Arius stage reception and play support temporary ordinary joy with distinct personal tastes; wage, camera and mood boundaries persist and absent Azusa is not a participant."
+    },
+    {
+      "owner_id": "O083",
+      "own_reason": "Kisaki's particular hospitality and wants retain their own scope alongside procedural dissent; the deferred fine actor, bodily symptoms and unverified cure preclude institutional unanimity."
+    },
+    {
+      "owner_id": "O084",
+      "own_reason": "Kisaki's unchosen office, failed mooncake and rejected coercive cure retain a fallible ordinary self; Kaguya's refused title and bounded maintenance in Shanhaijing prove no harmless force, global guilt or complete recovery."
+    },
+    {
+      "owner_id": "O085",
+      "own_reason": "Mari can value a finite idol week and choose its end; separate public-disposal and private-image choices preserve representation boundaries, while promised destruction and future upload permission remain unperformed."
+    },
+    {
+      "owner_id": "O086",
+      "own_reason": "Specific gifts, games and completed maintenance coexist with mouth-covering, recording pressure and compulsory filings; affectionate company waives neither bodily nor work or privacy boundaries."
+    },
+    {
+      "owner_id": "O087",
+      "own_reason": "Current61767 assigns self-proof to Seia/Rio while C&C have separate accompaniment, information and exclusion refusals; negotiated one-week company is no completed technical or legal restoration."
+    },
+    {
+      "owner_id": "O088",
+      "own_reason": "Juri's chosen service and optional pancakes reach actual eating, while Fuuka's interrupted rest, pain objections and compensation remain separate unfinished duties."
+    },
+    {
+      "owner_id": "O089",
+      "own_reason": "An actual grand slam, first victory and remembered clothing have finite value alongside later defeat, wrist uncertainty and refusal of a professional role; no lasting skill or joined Rei identity follows."
+    },
+    {
+      "owner_id": "O090",
+      "own_reason": "Intact delivery conditions and Aoba's refusal retain force despite inconsideration; cargo signature, emergency stop, offered medicine and dinner invitation have distinct completion grades, with impulse not enacted."
+    },
+    {
+      "owner_id": "O091",
+      "own_reason": "Kikyou's quiet wish and initially uninformed gathering assent differ from later chosen contest, rescue and achieved dog-paddle; privacy leverage, injury and unfinished later races prevent retroactive consent or clinical cure."
+    },
+    {
+      "owner_id": "O092",
+      "own_reason": "Mika's own luxury and play can coexist with care for Nagisa's rest; current-life consultation, budget and staffing limits remain, and distinct linked helpers are not a simultaneous patrol."
+    },
+    {
+      "owner_id": "O093",
+      "own_reason": "Eri's wanted making and company and Rena's respected refusal before separate bell aid support local recognition; they validate neither summoning nor future museum access, and this comparator does not author Wild Hunt's separate package."
+    },
+    {
+      "owner_id": "O094",
+      "own_reason": "Miyo's wanted novels and refused adult reading access remain hers, with no refusal to share self-authored writing; Ritsu retains sculpture, materials and favorite-author tastes, and ethical/artistic success is not trading profit or completed office exit."
+    },
+    {
+      "owner_id": "O095",
+      "own_reason": "Remembered music, voluntary viewing and chosen patrol can sustain local company without a formal license; bodily objections, lost sleep and Love's actual win versus fake defeat stay distinct."
+    },
+    {
+      "owner_id": "O096",
+      "own_reason": "Real craft, criticism and reading tastes survive a false princess persona; help can end without betrayal while public pressure, unprinted contracts and divergent Yakumo motives prevent universal biography or intent."
+    },
+    {
+      "owner_id": "O097",
+      "own_reason": "Tsukuyo's today-only success and chosen return preserve an ordinary ninja-loving self; imposed fitting and deceptive filming do not become freely chosen permanent career or completed upload permission."
+    },
+    {
+      "owner_id": "O098",
+      "own_reason": "The Event854 report supplies provisional hobbies and the distinction between danger jokes and ordinary jokes only at report grade; co-design is not prior pilot consent and an initiating reversal supplies no completed ending or merged ontology."
+    },
+    {
+      "owner_id": "O099",
+      "own_reason": "Konoka's dinner and shared meat and Tsubasa's valued negative inquiry remain real goods beside admitted causal ignorance; one confession neither explains all anomalies nor removes privacy, compulsion and repair costs."
+    },
+    {
+      "owner_id": "O100",
+      "own_reason": "Recipient-sensitive recreation, poetry and actual swim improvement support enjoyment while Kanae's transferred work, collapse and late medicine persist; neither health nor institutional harmony is complete."
+    },
+    {
+      "owner_id": "O101",
+      "own_reason": "Selective company and memory-sensitive replacement boat acknowledge goods beyond price; actual rescue differs from expectation, photo permissions remain distinct and dream tournament does not supply historical attendance."
+    },
+    {
+      "owner_id": "O102",
+      "own_reason": "Minato's reported culinary hospitality and divers' pleasures coexist with offered dissolution, refused paperwork exception and continuing debt; no inter-story date, animal consent transfer or unidentified helper identity is inferred."
+    },
+    {
+      "owner_id": "O103",
+      "own_reason": "Anna's warmth, Elina's success wishes and Lana's first-friend company retain their own motives; admitted projection and apologies give local change without erasing later injury, fuel limits or unfinished restoration."
+    },
+    {
+      "owner_id": "O104",
+      "own_reason": "Each modest MINI32 gift, meal, broadcast and garden meaning retains value at report grade; gratitude releases endless repayment rather than creating total access, and Sora's wage motive proves neither payroll nor nonpayment."
+    }
+  ],
+  "own_complete12_source_preparation_question_results": [
+    {
+      "id": "TGQ01",
+      "ROOT_own_reason": "Coherent Alice invitation, Toki thanks and companion narration are positive despite exact labels/seams; specific Aris/Yuzu acts are not distributed to every member."
+    },
+    {
+      "id": "TGQ02",
+      "ROOT_own_reason": "Requested help, standby/command testimony, conditional nonreport and explicit later chosen fighting/shared responsibility remain separate sources of agency."
+    },
+    {
+      "id": "TGQ03",
+      "ROOT_own_reason": "The withheld job before dangerous work and Toki's missed seniors contact remain real defects after chosen friendship; later consent cannot retroactively inform earlier work."
+    },
+    {
+      "id": "TGQ04",
+      "ROOT_own_reason": "The complete local rescue/invitation/nonabandonment/thanks supports direction and reciprocal agency without globalcalendar, permanenttrust or completeforgiveness."
+    },
+    {
+      "id": "TGQ05",
+      "ROOT_own_reason": "Momoi praise/console/company, Midori danger/documentation, Yuzu fear/scouting/games, Alice clothing/quest/help and Toki tea/wantedness differ intrinsically; their ordinary wants require no crisis utility."
+    },
+    {
+      "id": "TGQ06",
+      "ROOT_own_reason": "Late enjoyable play, Momoi's happiness at Toki staying, final Yuzu crownhold, separate Meitaro interception, Neru praise/apology differ from future agencytransfer, fearedsanction, claimedbounty and proposedbudget."
+    },
+    {
+      "id": "TGQ07",
+      "ROOT_own_reason": "Akira's Midori/escape aid remains real through temporary alliance/betrayal/exclusivecontrol; victimhood/persuasion does not confer allguests assent or GDDmembership."
+    },
+    {
+      "id": "TGQ08",
+      "ROOT_own_reason": "Cycle008current39 governs historicalUNADMITTED/UNAPPLIED/Phase2incomplete prose, not new sourceadmission or freshMAINprimary; other five maintainedsource scopes still ROOTunreceived."
+    },
+    {
+      "id": "TGQ09",
+      "ROOT_own_reason": "Distinct existingREL can explain two-way receiving/help/chosencompany/sharedresponsibility; alreadyacceptedTokiCHAR and other C&C/GDD/continuity/institution homes are not recounted."
+    },
+    {
+      "id": "TGQ10",
+      "ROOT_own_reason": "Tactical/obedient/therapeutic/pureguilt/compelled/uniformwelcome/fullrepair rivals have actual favorable evidence and limits; later peerchoice/responsibility/ordinarycompany permit substantial argument without inventing hidden motives."
+    },
+    {
+      "id": "TGQ11",
+      "ROOT_own_reason": "Printedheadings/selfnaming seams, reports/inward/choices/narration and duplication are actual mode limits. No rawactorrepair, simultaneousoptionalreply, watchedvideo/prosody or globalregistry joins."
+    },
+    {
+      "id": "TGQ12",
+      "ROOT_own_reason": "Nativeattribution/AV/permanenttrust/all-timeconsent/enrollment/paidwork/globalchronology need separate evidence; text supports bounded localrelationship and ordinary intrinsic value with all14OPEN/models0."
+    }
+  ],
+  "own_connected_adoption_reasons": [
+    "The directed relation is earned through specific help, thanks, invitation, a promise not to abandon, chosen friendship, reciprocal fighting responsibility and later ordinary gaming/company. These events support recognition and belonging without establishing enrollment, command transfer, employment, payroll, global reconciliation or clinical cure.",
+    "The initial secret commission misidentifies the target and retains coercion, unequal knowledge and responsibility for danger. Subsequent assistance preserves those contrary facts and cannot manufacture unconditional forgiveness.",
+    "Akira's rescue and betrayal, Neru's praise and apology, and Sensei's mediation remain attributed to their actual participants and do not become interchangeable GDD acts.",
+    "All59 complete current arguments, source clauses, finite limits and reciprocal purpose joins have been personally received, alongside distinct adequate saved QA reasons. Whole228 body,12 directed tracks,8 serious rival arguments and16 endpoint/14 gap tables are complete at maintained analytical grades.",
+    "All105 new target purposes and all525 current fields have been personally received with distinct current QA reasons and my own105 judgments. O015 uses own whole Group250 and O069 own whole Event825; other103 remain report comparisons. Original26WHOLE79SELECTED records and whole source bindings remain frozen, with no fresh normal105 or primary admission.",
+    "ROOT received four whole maintained carriers and two selected maintained carriers,996 physical lines: Event825169, Group250144, MainV002257, datedV002C002125; privateToki140 and acceptedToki161 selected. This remains separate from author4WHOLE2SELECTED and reviewer2WHOLE4SELECTED. No primary/native/raw/AV inspection occurred.",
+    "Companionship, invitation, leisure, privacy and refusal remain intrinsically meaningful. Questions, requests, wants, branch alternatives, inward presentation, reports and completed acts keep distinct modalities and finite outcomes. Absence within a complete maintained account is not global canon absence.",
+    "ROOT executed11085 successful read-only raw/schema predicates across78 fixed inputs: seven V2/V1 inverse/forward closures, eleven historic common105 envelopes, three M008 carriers, four prior precision fields, original body two operations,228 reconstruction,59 joins,105/525 graph and five saved QA bindings. These are separate from saved4664 current and181 prior body-only checks and personal literary receiving.",
+    "All14 gaps stayOPEN/models0. Exactly existing required ZERO313/ordinal314/CSV315 and home334/335 is semantically accepted for public derivation. No named duty or accepted Toki character is recounted. Published149/18 stays unchanged until composed publication passes its own gates."
+  ],
+  "actual_ROOT_raw_schema_gate": {
+    "private_C_path": "private-witness:TOKI-DELIVERY-e0ab71d778c908470d74db16",
+    "bytes": 46670,
+    "sha256": "eb8bc7c82e8becfd1a6350b0c1e2ed27dc5f69b809fa252071adc8ad7743ea0d",
+    "git_blob_oid_of_actual_bytes": "107b1cac0e8dddeb692dd89eb0f9c9221cb10e9b"
+  },
+  "private_QA_actual_five_roles": [
+    {
+      "role": "adequate_current_full_QA",
+      "pin": {
+        "bytes": 327199,
+        "sha256": "3800b16e15e71e5a184b36a311e2c33bfc94e4cc34359a5549f85c68d82f91bb",
+        "git_blob_oid_of_actual_bytes": "c9b81e1b83ec5aba0e0524e8baefdd79e421d114"
+      }
+    },
+    {
+      "role": "adequate_current_mechanical_QA",
+      "pin": {
+        "bytes": 522056,
+        "sha256": "6351ae0f877b58856b409915b3bb12e3c1f8f97c49b16a1e1ae56874622ea4de",
+        "git_blob_oid_of_actual_bytes": "9d3baecc29ec2be62d058a3f215f573634d9263a"
+      }
+    },
+    {
+      "role": "adequate_current_supplement_QA",
+      "pin": {
+        "bytes": 11451,
+        "sha256": "04ff9f3cea603cdd5923b1ee75bc507d95021aab359fcb23f2c4be7a0d3ce9be",
+        "git_blob_oid_of_actual_bytes": "686f588b1bb9d83b42252c084f88938c6a1c4594"
+      }
+    },
+    {
+      "role": "adequate_prior_body_QA",
+      "pin": {
+        "bytes": 88181,
+        "sha256": "5cb867261be1d30cc40f15f89f926629ec509edc661056ce199a655e188a00fc",
+        "git_blob_oid_of_actual_bytes": "d33a318446a06bb7bd828ff4e77c786fcdb03ab4"
+      }
+    },
+    {
+      "role": "adequate_prior_body_mechanical_QA",
+      "pin": {
+        "bytes": 32000,
+        "sha256": "4d0c6fbcbb83d0796c33014bb298c51727a2fa5faf2d7a64ee48626b35baf46d",
+        "git_blob_oid_of_actual_bytes": "8beddbd6f4c9d7502a7577bab1984c7fdcbd57b3"
+      }
+    }
+  ],
+  "saved_QA_current_predicates": 4664,
+  "saved_QA_prior_body_predicates_separate": 181,
+  "ROOT_actual_raw_schema_predicates_separate": 11085,
+  "new_prior_review_reporting_structure_receipt": {
+    "private_C_path": "private-witness:TOKI-DELIVERY-e9b3b568aaf74cd3e68e2df7",
+    "bytes": 15928,
+    "sha256": "727561b091e86f5a663c8b8c2c5607bf70d89b651faea9beb5e4b6cfafdfb23f",
+    "git_blob_oid_of_actual_bytes": "88b93f13a86dcb03cfa28cacccaa2f6c01505d60"
+  },
+  "current_documentary_qualification_of_preserved_author_closure": {
+    "original_full_closure_pin": {
+      "bytes": 21950,
+      "sha256": "69d34a90aa8c331baa7c43580a80812b0dfde5136d92c33ac7c0d76b0e1262c1",
+      "git_blob_oid_of_actual_bytes": "4a77937cfffd18d5f829f7b922543cac11199ac0"
+    },
+    "pointer": "/source_grades/special_finite_controls",
+    "qualification": "Preserved dated \"refusal of adult writing access\" means Teacher requested READING access to Miyo wanted romance novels. No Miyo authorship or refusal to share self-authored writing is established. CurrentTGP094 fivefields already preserve reading-access distinction and stayunchanged.",
+    "frozen_original_mutation": 0
+  },
+  "historical_stage_qualification": "Original pending-stage/capture45e924/bodyc5ce/older14817 journal/Art-spec new_parts bindings and fixedreader Rio HOLD remain dated historical preparation, not current14918/composed-public byte state. Originals remain literal.",
+  "current_publication_state": "C_SEMANTIC_ACCEPTED_PUBLIC_ENVELOPE_COMPOSITION_INSTALL_AND_EXACT_HEAD_AUDIT_PENDING",
+  "published_frontier_before_this_package": {
+    "required": 149,
+    "named": 18
+  },
+  "existing_required_locator": {
+    "zero_based": 313,
+    "one_based": 314,
+    "CSV_physical_line": 315,
+    "home_zero_based": 334,
+    "home_ordinal": 335,
+    "named_increment": 0
+  },
+  "fixed355_29_25_384_788": "UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "new_primary_native_raw_AV_normal105_source_identity_or_runtime_credit": 0,
+  "R_Git_provider_writes": 0,
+  "merge": "RESERVED",
+  "current_public_metadata_derivative_and_original_author_basis_qualification_V1": {
+    "original_signed_ROOT_private_witness_id": "ROOT_TOKI_CURRENT228_SIGNED_SEMANTIC_ADOPTION_20261014_V1",
+    "original_signed_ROOT_tuple": {
+      "bytes": 62642,
+      "sha256": "afcedfefe4ef1e3e0ab97675af332302b5b40fa8ae2e5ee5d3667c3cd6e662b0",
+      "git_blob_oid_of_actual_bytes": "cf56711e5407b64734e84169521417513f191b28"
+    },
+    "derivative_operation_scope": "Exactly23 whole ordinary delivery VALUE normalizations, plus this explicit current documentary qualifier. All ROOT decisions/59 judgments/105 reasons/12 source results/grades and original authority tuples retain literal original meaning.",
+    "current_composed_author8_metadata": [
+      {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_TOKI_GAME_DEVELOPMENT_RECOGNITION_AND_BELONGING_RELATIONSHIP_SYNTHESIS.md",
+        "bytes": 53261,
+        "sha256": "f752314891f918d001724cbd8b13f90126664c85060a5bf31e7837bbabf4bfc8",
+        "git_blob_oid_of_actual_bytes": "54f6427ab9bd70bbcdd02c7a36ae1170c3dcaf84"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_EXISTING_EVENT825_SOURCE1_CORE_AND_EXACT6_AUTHOR_SCOPE_RECEIVING_V2.json",
+        "bytes": 41845,
+        "sha256": "f65f292f18db0d06e9492eb8812f063a68314198069e28ddcd20b703d86f82e5",
+        "git_blob_oid_of_actual_bytes": "b09767f66213ab1393c5ac594ee1b1e732b7ed83"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT228_COMPLETE_LITERAL59_CLAIM_AND_SOURCE_LIMIT_REGISTER_V2.json",
+        "bytes": 272754,
+        "sha256": "17c7110e742712ccb5bfd393087a3c7d1dcbe7adbad7ef6991abaef775e43e5a",
+        "git_blob_oid_of_actual_bytes": "bfb9c153988ed462317f3f6afaaa8f644788bdc5"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_ALL105_CURRENT_PURPOSE_AND_EXACT_SOURCE_BINDING_INDEX_V2.json",
+        "bytes": 147091,
+        "sha256": "5d7138a3895d6817e03f30a67bb2332e80e9d7dc4ec640ba3bff6f458b484dfd",
+        "git_blob_oid_of_actual_bytes": "b68e07a5cba0c3c91bbbdcead93065d616dac647"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_EXACT8_SAVED_OUTPUT_ORIGINAL_INPUT_PRESERVATION_AND_TRANSPORT_RECEIPT_V2.json",
+        "bytes": 819077,
+        "sha256": "e56f6d06bc539904f8048f989a3fd1517b9b6306c2aa0eba6b3baa1d56cbcb10",
+        "git_blob_oid_of_actual_bytes": "d456c5170e809ffe60e168ebf2b571679586eb95"
+      }
+    ],
+    "current_body231_vs_original228": "Only frontmatter metadata and necessary current locator/typed tuple updates. Original59 full arguments/525 meaning fields/frozen105/source6 grades remain literal. All reviewed-author tuples above are dated originalV2 review basis, not silently rebound to current public metadata.",
+    "closure_Miyo_current_precision": {
+      "original_full_closure_pin": {
+        "bytes": 21950,
+        "sha256": "69d34a90aa8c331baa7c43580a80812b0dfde5136d92c33ac7c0d76b0e1262c1",
+        "git_blob_oid_of_actual_bytes": "4a77937cfffd18d5f829f7b922543cac11199ac0"
+      },
+      "pointer": "/source_grades/special_finite_controls",
+      "qualification": "Preserved dated \"refusal of adult writing access\" means Teacher requested READING access to Miyo wanted romance novels. No Miyo authorship or refusal to share self-authored writing is established. CurrentTGP094 fivefields already preserve reading-access distinction and stayunchanged.",
+      "frozen_original_mutation": 0
+    },
+    "composed_byte_QA_ROOT_final_adoption_freeze_install_publication_runtime": "PENDING_SEPARATE_GATES",
+    "new_report_role": "Same reviewer reporting a previously completed review under accepted exact34 selected-value reporting structure; no fresh QA."
+  }
+}

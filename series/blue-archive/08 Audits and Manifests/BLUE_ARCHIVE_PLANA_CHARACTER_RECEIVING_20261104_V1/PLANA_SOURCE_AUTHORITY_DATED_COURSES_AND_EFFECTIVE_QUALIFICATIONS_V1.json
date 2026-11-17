@@ -1,0 +1,419 @@
+{
+  "schema": "PLANA_SOURCE_AUTHORITY_DATED_COURSES_AND_EFFECTIVE_QUALIFICATIONS_PUBLIC_V1",
+  "authority": {
+    "artifact_id": "PLANA_SOURCE_AUTHORITY_DATED_COURSES_AND_EFFECTIVE_QUALIFICATIONS_PUBLIC_V1",
+    "scope": "P3-CHAR-M028",
+    "generation": "PUBLIC_FORM_V1",
+    "status": "canonical",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": false,
+    "private_body_review": "ROOT_ACCEPTED_C_ONLY_WITH_LIMITS_20261104",
+    "public_review": "CURRENT_ELIGIBLE_METADATA_PROPOSED_20261104;PRIOR_PUBLIC_C_FORM_ROOT_ACCEPTED_WITH_LIMITS;FINAL_DERIVATIVE_QA_AND_ROOT_BYTE_ACCEPTANCE_REQUIRED_BEFORE_INSTALLATION"
+  },
+  "prepared": "2026-11-04",
+  "historical_record_contract": "Each dated original record is preserved at its original author/reader/reviewer grade and stage. Current public wrapper is a separate draft; pending/next and first-person historical text is not promoted to current instruction or transferred attendance. Locator tokens replace unnecessary local paths with declared provenance/source IDs; original field names remain as dated schemas.",
+  "records": [
+    {
+      "record_id": "PLANA-SOURCE-AUTHORITY-PRIVATE-20261104-V1",
+      "original_filename": "PLANA_BODY_FIRST_SOURCE_AUTHORITY_ACTUAL_GRADES_AND_DATED_CUSTODY_V1.json",
+      "original_file_bytes": 22322,
+      "original_file_sha256": "662a5efbc906dcc12d6a70247dab59039b4bff25878b07e943e54669f327f6f0",
+      "original_author_or_reader": "/root/recover_yuzu_saved_review",
+      "dated_original_status": "HISTORICAL_ORIGINAL_STAGE_NOT_CURRENT_WRAPPER_STATUS",
+      "content": {
+        "schema": "PLANA_BODY_FIRST_SOURCE_AUTHORITY_OWN_GRADE_AND_HISTORY_V1",
+        "existing_required_id": "P3-CHAR-M028",
+        "home_zero": 22,
+        "responsibility": "P3-M028",
+        "component_refs": [
+          {
+            "C_path": "provenance-locator:PLANA-LOC-89010a29f2886fee519b",
+            "bytes": 64287,
+            "sha256": "0b05030751212ff063626ddfdc5c2d71826a4cc8e2d2f5ddb59cd1f23adfb1fd"
+          },
+          {
+            "C_path": "maintained-source:S01",
+            "bytes": 29927,
+            "sha256": "c002d2db50d36ab9307f2de0ec4062c000108068f6fc893fc7b14011a57adf54"
+          },
+          {
+            "C_path": "maintained-source:S02",
+            "bytes": 64540,
+            "sha256": "9745010e16ef2e7bc09b11eab784f9bf5771fe0a7e6ef48bfb3af763be7f156e"
+          },
+          {
+            "C_path": "maintained-source:S03",
+            "bytes": 49292,
+            "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf"
+          },
+          {
+            "C_path": "maintained-source:S04",
+            "bytes": 38506,
+            "sha256": "1b345afb1f793d320784394b5d8a51cb0b6a694b89cc06fbd514e1f2ceb71f79"
+          },
+          {
+            "C_path": "maintained-source:S05",
+            "bytes": 13393,
+            "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb"
+          },
+          {
+            "C_path": "maintained-source:S06",
+            "bytes": 19594,
+            "sha256": "f6438d5cccc1582c1a86b1e68be27a9321ef3f8bdb4ce21862fffbaad4fc3df9"
+          },
+          {
+            "C_path": "maintained-source:S07",
+            "bytes": 11521,
+            "sha256": "9a5b3c6916fc210deaa56d9f47f8991fb997e9d4df4b3ff115122bfac7449738"
+          },
+          {
+            "C_path": "maintained-source:S08",
+            "bytes": 12691,
+            "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef"
+          },
+          {
+            "C_path": "maintained-source:S09",
+            "bytes": 5803,
+            "sha256": "0bc61d26f72c33d5958e9059c3b7e2612bff08b57839afeb4b8a213e6f0b4938"
+          }
+        ],
+        "source_keys": [
+          {
+            "key": "S01",
+            "owner": "V000",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "source_copy": {
+              "C_path": "maintained-source:S01",
+              "bytes": 29927,
+              "sha256": "c002d2db50d36ab9307f2de0ec4062c000108068f6fc893fc7b14011a57adf54"
+            },
+            "whole_file_physical_lines": 146,
+            "own_prior_grade": "DATED_OWN_WHOLE_MAINTAINED_ACCOUNT;NOT_NEW_PRIMARY",
+            "own_prior_whole_intervals": [
+              [
+                1,
+                146
+              ]
+            ],
+            "current_repeat_refresh_intervals": [
+              [
+                58,
+                66
+              ]
+            ],
+            "current_repeat_refresh_output": "9d7ce1",
+            "grade_limit": "Existing maintained written analytical account; repeated contexts and chapter/episode overlap are not independent events."
+          },
+          {
+            "key": "S02",
+            "owner": "V001",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "source_copy": {
+              "C_path": "maintained-source:S02",
+              "bytes": 64540,
+              "sha256": "9745010e16ef2e7bc09b11eab784f9bf5771fe0a7e6ef48bfb3af763be7f156e"
+            },
+            "whole_file_physical_lines": 349,
+            "own_prior_grade": "DATED_OWN_WHOLE_MAINTAINED_ACCOUNT;NOT_NEW_PRIMARY",
+            "own_prior_whole_intervals": [
+              [
+                1,
+                349
+              ]
+            ],
+            "current_repeat_refresh_intervals": [
+              [
+                171,
+                187
+              ]
+            ],
+            "current_repeat_refresh_output": "3c7613",
+            "grade_limit": "Existing maintained written analytical account; repeated contexts and chapter/episode overlap are not independent events."
+          },
+          {
+            "key": "S03",
+            "owner": "V100",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "source_copy": {
+              "C_path": "maintained-source:S03",
+              "bytes": 49292,
+              "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf"
+            },
+            "whole_file_physical_lines": 452,
+            "own_prior_grade": "DATED_OWN_WHOLE_MAINTAINED_ACCOUNT;NOT_NEW_PRIMARY",
+            "own_prior_whole_intervals": [
+              [
+                1,
+                452
+              ]
+            ],
+            "current_repeat_refresh_intervals": [],
+            "current_repeat_refresh_output": null,
+            "grade_limit": "Existing maintained written analytical account; repeated contexts and chapter/episode overlap are not independent events."
+          },
+          {
+            "key": "S04",
+            "owner": "S2V000",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_000/BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "source_copy": {
+              "C_path": "maintained-source:S04",
+              "bytes": 38506,
+              "sha256": "1b345afb1f793d320784394b5d8a51cb0b6a694b89cc06fbd514e1f2ceb71f79"
+            },
+            "whole_file_physical_lines": 259,
+            "own_prior_grade": "DATED_OWN_WHOLE_MAINTAINED_ACCOUNT;NOT_NEW_PRIMARY",
+            "own_prior_whole_intervals": [
+              [
+                1,
+                259
+              ]
+            ],
+            "current_repeat_refresh_intervals": [
+              [
+                64,
+                107
+              ]
+            ],
+            "current_repeat_refresh_output": "3c7613",
+            "grade_limit": "Existing maintained written analytical account; repeated contexts and chapter/episode overlap are not independent events."
+          },
+          {
+            "key": "S05",
+            "owner": "S2V001",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "source_copy": {
+              "C_path": "maintained-source:S05",
+              "bytes": 13393,
+              "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb"
+            },
+            "whole_file_physical_lines": 94,
+            "own_prior_grade": "DATED_OWN_WHOLE_MAINTAINED_ACCOUNT;NOT_NEW_PRIMARY",
+            "own_prior_whole_intervals": [
+              [
+                1,
+                94
+              ]
+            ],
+            "current_repeat_refresh_intervals": [
+              [
+                51,
+                67
+              ]
+            ],
+            "current_repeat_refresh_output": "3c7613",
+            "grade_limit": "Existing maintained written analytical account; repeated contexts and chapter/episode overlap are not independent events."
+          },
+          {
+            "key": "S06",
+            "owner": "S2V003",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "source_copy": {
+              "C_path": "maintained-source:S06",
+              "bytes": 19594,
+              "sha256": "f6438d5cccc1582c1a86b1e68be27a9321ef3f8bdb4ce21862fffbaad4fc3df9"
+            },
+            "whole_file_physical_lines": 677,
+            "own_prior_grade": "DATED_OWN_WHOLE_MAINTAINED_ACCOUNT;NOT_NEW_PRIMARY",
+            "own_prior_whole_intervals": [
+              [
+                1,
+                677
+              ]
+            ],
+            "current_repeat_refresh_intervals": [],
+            "current_repeat_refresh_output": null,
+            "grade_limit": "Existing maintained written analytical account; repeated contexts and chapter/episode overlap are not independent events."
+          },
+          {
+            "key": "S07",
+            "owner": "S2V003_C001_CHECKPOINT",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md",
+            "source_copy": {
+              "C_path": "maintained-source:S07",
+              "bytes": 11521,
+              "sha256": "9a5b3c6916fc210deaa56d9f47f8991fb997e9d4df4b3ff115122bfac7449738"
+            },
+            "whole_file_physical_lines": 58,
+            "own_prior_grade": "DATED_OWN_WHOLE_MAINTAINED_ACCOUNT;NOT_NEW_PRIMARY",
+            "own_prior_whole_intervals": [
+              [
+                1,
+                58
+              ]
+            ],
+            "current_repeat_refresh_intervals": [
+              [
+                22,
+                30
+              ],
+              [
+                46,
+                46
+              ]
+            ],
+            "current_repeat_refresh_output": "3c7613",
+            "grade_limit": "Existing maintained written analytical account; repeated contexts and chapter/episode overlap are not independent events."
+          },
+          {
+            "key": "S08",
+            "owner": "V100_C004_CHECKPOINT",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+            "source_copy": {
+              "C_path": "maintained-source:S08",
+              "bytes": 12691,
+              "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef"
+            },
+            "whole_file_physical_lines": 60,
+            "own_prior_grade": "DATED_OWN_WHOLE_MAINTAINED_ACCOUNT;NOT_NEW_PRIMARY",
+            "own_prior_whole_intervals": [
+              [
+                1,
+                60
+              ]
+            ],
+            "current_repeat_refresh_intervals": [
+              [
+                1,
+                60
+              ]
+            ],
+            "current_repeat_refresh_output": "e29d0d",
+            "grade_limit": "Existing maintained written analytical account; repeated contexts and chapter/episode overlap are not independent events."
+          },
+          {
+            "key": "S09",
+            "owner": "V100_C004_E008",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E008_DEEP_READING.md",
+            "source_copy": {
+              "C_path": "maintained-source:S09",
+              "bytes": 5803,
+              "sha256": "0bc61d26f72c33d5958e9059c3b7e2612bff08b57839afeb4b8a213e6f0b4938"
+            },
+            "whole_file_physical_lines": 38,
+            "own_prior_grade": "DATED_OWN_WHOLE_MAINTAINED_ACCOUNT;NOT_NEW_PRIMARY",
+            "own_prior_whole_intervals": [
+              [
+                1,
+                38
+              ]
+            ],
+            "current_repeat_refresh_intervals": [
+              [
+                1,
+                38
+              ]
+            ],
+            "current_repeat_refresh_output": "e29d0d",
+            "grade_limit": "Existing maintained written analytical account; repeated contexts and chapter/episode overlap are not independent events."
+          }
+        ],
+        "own_grade_history": "Own earlier WHOLE six1977; subsequent selected refresh272 and WHOLE58 checkpoint remain dated. Own Plana preparation WHOLE C00460/E00838 was actually received f5c8d7 after prospective8; repeated WHOLE98 in e29d0d is refresh, not98 new units. Current selected repeat refresh97 plus repeated whole98=195 physical addresses across7 files. No author781/peer288/Root560 or native/raw/AV grade borrowed.",
+        "current_readiness_meanings_actual": [
+          "Root whole commission d78d82",
+          "author whole22 and11/8/14 e8ac54",
+          "author fullcourse/route55f1b1",
+          "author closure/terminal and peer complete12/22/11/8/14 40ca0c",
+          "peer fullcourse/closure/terminal3164dd"
+        ],
+        "ordinary_rule": "Accepted name, company, shared hands, address and routine have intrinsic literary value; no stakes or useful-output threshold determines eligibility.",
+        "RPL04": "Opening role-done/her-teacher/farewell belongs to one OS in double-tagged maintained prose. Later clear naming does not settle that earlier speaker/teacher. No definite Prenapates grief/loyalty/death/deletion is derived.",
+        "source_mode_and_effect_limits": [
+          "Arona coins/offers; Plana accepts. Astronomy image belongs to the naming offer, not a Plana hobby.",
+          "Severe halo proposal remains maintained paraphrase; exact quotation/target/causal reform chronology not added.",
+          "Mimesis/mismatch and Arona memory-loss rival remain hypotheses; no infallible identity classifier.",
+          "Plana private load attribution and Arona increased-power claim remain separate and unmeasured.",
+          "Q.E.D. has no printed proof/location/reply; no shared knowledge or independent authentication.",
+          "Pairing is logged; core inspection overflows; app capacity is offered without installation/result.",
+          "Collective ball finding is not individual Plana inference; other actors care/grief remain theirs."
+        ],
+        "conditional_seams": [
+          {
+            "id": "PLSEAM01",
+            "status": "RESOLVED_FOR_BOUNDED_NAME_COMPANY_CLAIMS",
+            "positive_existing_route": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E008_DEEP_READING.md",
+            "locator": "C004 checkpoint L34; actual E008 L28/u0061–0094",
+            "concrete_question": "Who offers the name/home and who accepts, returns and negotiates address?",
+            "actual_resolution": "ROOT capture was received whole38 after own four questions; familiar Arona offers/names and the control-room OS accepts. No further capture is mandatory for those finite acts."
+          },
+          {
+            "id": "PLSEAM02",
+            "status": "RETAINED_QUALIFICATION_NO_MOTIVE_CLAIM",
+            "positive_existing_route": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E008_DEEP_READING.md",
+            "locator": "Actual E008 L18/22/u0011–0019; L30",
+            "concrete_question": "Can the opening role-complete “her teacher” statement securely identify speaker and recipient, and support a specific grief/loyalty cause?",
+            "actual_resolution": "No. This maintained account says one OS and retains initial double tags; Prenapates’ fate is not resolved. Exclude the stronger sentence. No additional positive route that actually resolves this is asserted here; ROOT would need to provide adequate separately authorized maintained authority if that stronger sentence becomes necessary."
+          },
+          {
+            "id": "PLSEAM03",
+            "status": "CONDITIONAL_ONLY_NOT_OPENED",
+            "positive_existing_route": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_E001_DEEP_READING.md",
+            "locator": "Whole S2V003 C001 checkpoint L28 and dated crosswalk row467",
+            "concrete_question": "For a stronger individual S.O.S. inference, what exactly does Plana say/think, who judges distress and how does Minato’s maker account revise the interpretation?",
+            "actual_resolution": "The current chapter supports collective discovery only. ROOT must capture the positively named maintained E001 first if this stronger individual claim is needed; no primary or compulsory14 replay."
+          },
+          {
+            "id": "PLSEAM04",
+            "status": "CONDITIONAL_ONLY_NOT_OPENED",
+            "positive_existing_route": "series/blue-archive/02 Sequential Readings/CHARACTER_DATA/UNRESOLVED/BLUE_ARCHIVE_UNJOINED_WRITTEN_27_IDENTITY_AND_CONTEXTUAL_ACCOUNT_20261008.md",
+            "locator": "V000 L82, maintained account §3 named there",
+            "concrete_question": "Which exact mixed9009000/9009005 item and mode permits an individual Plana preference/quote rather than aggregate ownership?",
+            "actual_resolution": "ROOT must capture the relevant existing maintained context first if used. Current body readiness does not depend on assigning such a preference."
+          },
+          {
+            "id": "PLSEAM05",
+            "status": "CONDITIONAL_ONLY_NOT_OPENED",
+            "positive_existing_route": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md",
+            "locator": "V001 working L117 and L343; current selected L181–185",
+            "concrete_question": "If a future exact quotation/operator or arc sequence relies on the halo proposal/countermeasure, what local actor, mode and sequence does the maintained checkpoint supply?",
+            "actual_resolution": "Current selected working account suffices to retain the serious contrary proposal at paraphrase scope; a stronger quote or causal chronological sequence needs ROOT’s positive maintained capture first."
+          }
+        ],
+        "route_identity": "Literal M028 V000+S2V000 retrieval seed retained beside declared V100/S2V000/S2V001/S2V003 boundary; V000 comparative original-Arona context is not Plana Prologue appearance. V001 is explicit coverage-revealed contrary context. No source-path repair/identity bridge/new home/private pool.",
+        "historical_qualification": "Frozen old source-prep next/unreceived/stronger-context words and all author/peer/Root receipts remain dated. Current commission permits supported maintained paraphrase; no old reading attendance, speaker or judgment is rewritten. Historical source counts/next reading instructions are not current task/census authority.",
+        "separate_duties": "M002 Arona andM029 Prenapates retain distinct homes and responsibilities; this M028 study completes neither. Arona already has its separate C-only body-first acceptance, which is not installed canonical package/count completion. REL185 remains incomplete; all355/Suou/Ayame duties are preserved. No mandatory named duty is assigned toM028 by this packet.",
+        "current_state": {
+          "status": "draft_noncurrent",
+          "supersedes": [],
+          "superseded_by": [],
+          "do_not_use_as_current_authority": true,
+          "lifecycle": "AUTHOR_PENDING_DISTINCT_COMPLETE_BODY_QA_AND_ROOT_ACCEPTANCE",
+          "all14_original_gaps": "OPEN",
+          "models": 0,
+          "published_required": 152,
+          "required_total": 355,
+          "named_completed": 19,
+          "named_total": 29,
+          "new_source_identity_F_named_REL_count_install_publication_merge_credit": 0
+        },
+        "conditional_seams_attribution": "The five conditional_seams rows are preserved verbatim from readiness author /root/current_preflight_requirements, personally received55f1b1. Their first-person own-four/whole38 wording and original source-course claims are that author's dated history, not this author's attendance. My own prep8/whole98 and current repeat195 grades are stated separately; no additional seam has been opened."
+      }
+    }
+  ],
+  "operative_source_keys_pointer": "/records/0/content/source_keys",
+  "effective_current_state": {
+    "private_body": "ROOT_ACCEPTED_C_ONLY_WITH_LIMITS",
+    "public_form": "CURRENT_ELIGIBLE_METADATA_PROPOSED_20261104;PRIOR_PUBLIC_C_FORM_ROOT_ACCEPTED_WITH_LIMITS;FINAL_DERIVATIVE_QA_AND_ROOT_BYTE_ACCEPTANCE_REQUIRED_BEFORE_INSTALLATION",
+    "source_admission": 0,
+    "identity_named_REL_model_count_install_publication_credit": 0,
+    "original_gaps": "ALL14_OPEN"
+  },
+  "role_separated_course_control": {
+    "body_author": "Own dated WHOLE6/1977; later selectedrefresh272/whole58; prepWHOLE98 and repeat195 are separately dated. No new source course in public composition.",
+    "readiness_author": "Attributed own781, not this body/composition author.",
+    "readiness_peer": "Attributed own288.",
+    "body_peer": "301 available dated maintained addresses, selected126 current refresh.",
+    "Root": "Root560 across9; not composer or peer attendance."
+  },
+  "effective_limits": [
+    "Existing home22/P3-CHAR-M028/P3-M028; AronaM002 and PrenapatesM029 distinct; REL185 remains incomplete and no new named duty is assigned. V000/S2V000 literal seed versus broader V100/S2V000/S2V001/S2V003 boundary is retained; V000 is original-Arona comparative context, not a Plana Prologue appearance. V001 is explicit contrary context, not silent route repair.",
+    "RPL04: opening role-complete/her-teacher/farewell is one OS in double-tagged maintained prose. Later naming resolves its own recipient only. No definite Prenapates grief/loyalty/teacher/fate/death/deletion, no ontology theorem.",
+    "Arona coins/offers planetarium imagery; Plana gives the qualified answer, joins hands/return and negotiates address. The image is not Plana astronomy taste; ordinary company and routine retain intrinsic value without useful-output conditions.",
+    "Private Chest-load attribution is Plana concern; Arona power statement is separately attributed and unmeasured. Neither settles causal harm, benefit, net capacity or a need to leave.",
+    "Severe halo proposal remains consequential maintained paraphrase, rejected by Sensei; no unreceived exact target/quotation/implementation, private moral conversion or global reform/relapse calendar.",
+    "Mimesis/mismatch and memory-loss are rival hypotheses; logged pairing completes a stage but core inspection fails; app capacity remains an offer. Private Q.E.D. is unprinted proof/location/reply, not Arona shared knowledge or independent identity authentication.",
+    "Joint Sensei/Arona/Plana rope-ball finding is positive collective scope. Claimant inference and Minato maker account remain separate; no individual Plana S.O.S. or borrowed subsequent grief.",
+    "Five conditional seams keep their actual resolved/retained/unopened status. Source-prep pending/next/unreceived statements and first-person course wording are dated to their original authors; current accepted limited body scope controls reuse. All14 gapsOPEN/models0; no source debt, primary/native/raw/AV admission, person/home/identity/count/model/publication credit is created."
+  ],
+  "composer": "/root/recover_yuzu_saved_review"
+}

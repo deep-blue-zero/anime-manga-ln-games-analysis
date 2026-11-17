@@ -1,0 +1,298 @@
+{
+  "schema": "BLUE_ARCHIVE_PANDEMONIUM_INSTITUTION_ROOT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_COMPLETE_CANONICAL_INSTALLATION_PENDING",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTIONAL_SYNTHESIS.md",
+  "current_scope": "355required/29mandatory non-denominator duties/25distinctparents/384homes unchanged",
+  "dated_source_beforeimage": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+  "dated_source_tree": "40b006f65bd1c98422d9093d08f53696c2d54cc9",
+  "accepted_first_milestone_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "fixed_preparation_snapshot": {
+    "accepted_package_sequence": [
+      121,
+      125
+    ],
+    "new_packages": 5,
+    "after_complete_ROOT_install": 125,
+    "characters": 95,
+    "directed_relationships": 15,
+    "ensembles": 5,
+    "institutions": 10,
+    "named_duties_after_complete_ROOT_install": 10,
+    "published_before_successor": 120,
+    "merged_main": 89,
+    "next_milestone": 178,
+    "later126plus": "EXCLUDED_FROM_FIXED_PROPOSAL",
+    "automatic_chain_required_before_assembly": "ROOT_ACCEPTED_EXACT_C690120_SOURCE_HOUSEKEEPING_FINAL_PASS",
+    "new_named_duty_credit": 0,
+    "maintenance_package_credit": 0
+  },
+  "current_source120_complete_chain": {
+    "original_exact_tuple": {
+      "path": "ROOT_C690_SOURCE120_PUBLICATION_CHAIN_ACCEPTANCE_V1.json",
+      "bytes": 6858,
+      "sha256": "7217d639a9209d16e7a3d7c27fced79ccb2e08bbae8ad0c40d7a08f56d343d6d",
+      "git_blob_oid_of_actual_bytes": "bcd927b29365cff78b8e28d733763a5a2b437c2c",
+      "immutable_transport_path": "immutable_originals/ROOT_C690_SOURCE120_PUBLICATION_CHAIN_ACCEPTANCE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "blue-archive/root-c690120-complete-publication-chain-acceptance/v1",
+      "decision": "ACCEPT_EXACT_SOURCE_HOUSEKEEPING_FINAL_COMPLETE_AUTOMATIC_CHAIN",
+      "checked_UTC": "2026-10-11T00:42:41.595999+00:00",
+      "source": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+      "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source_tree": "40b006f65bd1c98422d9093d08f53696c2d54cc9",
+      "source_parent": [
+        "7a146891ad9ffd999b2c4377d66a73313217a510"
+      ],
+      "original_capture": {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_C690_SOURCE120_COMPLETE_AUTOMATIC_CHAIN_V1/EXACT_COMPLETE_CHAIN_CAPTURE_AND_EXECUTED_WITNESSES_V1.json",
+        "bytes": 34429,
+        "sha256": "45f0fbdc5bb6e88e93db97888c0570ceee55aa9170c6880a03f4f709c65f847b",
+        "git_blob_sha1": "898fc20e8509c2b210b47e7e1b373a1c1fe8071b"
+      },
+      "runs_and_actual_execution": [
+        {
+          "role": "SOURCE",
+          "run": {
+            "id": 38097801331,
+            "name": "Repository audit",
+            "event": "push",
+            "head_sha": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38097801331",
+            "created_at": "2026-10-11T00:15:20Z",
+            "updated_at": "2026-10-11T00:26:25Z"
+          },
+          "complete_log": {
+            "path": "SOURCE_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 353030,
+            "lines": 2244,
+            "sha256": "ec766b4f99df95d91de98049e45882d3311d727ed6fa9066efedbca1f1be5b37",
+            "git_blob_oid_of_actual_bytes": "cc70012f043ac63db0acff5f95718f4e64d424f3"
+          },
+          "actual_archive_outcome": "success",
+          "actual_archive_SHA": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+          "actual_execution": {
+            "commit": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+            "outcome": "success",
+            "requested_profile": "shadow",
+            "executed_profile": "full",
+            "selection_enabled": false,
+            "discovered_tests": 292,
+            "tests_run": 292,
+            "errors": 0,
+            "failures": 0,
+            "expected_failures": 0,
+            "unexpected_successes": 0,
+            "skipped": 0
+          }
+        },
+        {
+          "role": "HOUSEKEEPING",
+          "run": {
+            "id": 38098429126,
+            "name": "Global index housekeeping",
+            "event": "workflow_run",
+            "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38098429126",
+            "created_at": "2026-10-11T00:26:27Z",
+            "updated_at": "2026-10-11T00:26:48Z"
+          },
+          "complete_log": {
+            "path": "HOUSEKEEPING_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 44323,
+            "lines": 267,
+            "sha256": "15fbc74bd61138feacd0d351b982d232ea86292b5550900c85534aca1fc081ce",
+            "git_blob_oid_of_actual_bytes": "c013d6291bf41cb0898d1e429556359b001b951c"
+          },
+          "actual_noop_and_dispatch_witnesses": [
+            {
+              "line": 265,
+              "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T00:26:46.7803771Z PASS: dispatched the full audit for c6908f2dba6f3b379bb84679fdd01175ac5894da"
+            },
+            {
+              "line": 266,
+              "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T00:26:46.7805459Z PASS: unchanged routing and branch boundaries verified; final audit dispatched"
+            }
+          ]
+        },
+        {
+          "role": "FINAL_FULL_AUDIT",
+          "run": {
+            "id": 38098449169,
+            "name": "Repository audit",
+            "event": "repository_dispatch",
+            "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38098449169",
+            "created_at": "2026-10-11T00:26:48Z",
+            "updated_at": "2026-10-11T00:41:30Z"
+          },
+          "complete_log": {
+            "path": "FINAL_FULL_AUDIT_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 352428,
+            "lines": 2239,
+            "sha256": "8b6d654325e5e649bee4e4f9bd4abad334884d85ca962dbc2561c238afc1cd3b",
+            "git_blob_oid_of_actual_bytes": "f7c3e52814a2183238990a405c98d5f92a6b708a"
+          },
+          "actual_archive_outcome": "success",
+          "actual_archive_SHA": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+          "actual_execution": {
+            "commit": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+            "outcome": "success",
+            "requested_profile": "shadow",
+            "executed_profile": "full",
+            "selection_enabled": false,
+            "discovered_tests": 292,
+            "tests_run": 292,
+            "errors": 0,
+            "failures": 0,
+            "expected_failures": 0,
+            "unexpected_successes": 0,
+            "skipped": 0
+          }
+        }
+      ],
+      "exact_final_status": {
+        "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/c6908f2dba6f3b379bb84679fdd01175ac5894da",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "id": 56069295882,
+        "node_id": "SC_kwDOUJ9ads8AAAANDf2PCg",
+        "state": "success",
+        "description": "Exact commit passed the repository audit",
+        "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38098449169",
+        "context": "Repository integration audit",
+        "created_at": "2026-10-11T00:41:26Z",
+        "updated_at": "2026-10-11T00:41:26Z"
+      },
+      "ROOT_actual_execution_summary_receiving": "ROOT independently received complete actual executed summaries ffe50d after capture9459ab: source38097801331 and final38098449169 actually audited c6908f2dba6f3b379bb84679fdd01175ac5894da, each292 discovered and292 run, full profile, selection disabled, zero errors/failures/skips/expected failures/unexpected successes. House38098429126 supplies both exact no-op boundary and final dispatch witnesses. All runs/jobs/steps succeeded; final exact-source status56069295882 points to38098449169. Remote sourcec690/tree40b006f65bd1c98422d9093d08f53696c2d54cc9/parent7a146891ad9ffd999b2c4377d66a73313217a510 and mainb76 are captured. Whole logs retained and verified, without whole-log human reading claim. Published120, ROOTaccepted125, merged89 remain distinct; no new analytical or milestone credit.",
+      "whole_log_human_reading_claim": false,
+      "progress": "Published120/merged89; ROOTaccepted125 remains separate. Nextmerge178/full355cast target unchanged; zero new literary acceptance or milestone.",
+      "source_or_repository_mutations": 0,
+      "all14_original_gaps": "OPEN_UNCHANGED",
+      "UNBOUND9_and_unpublished39": "UNREAD_UNHASHED_UNCHANGED"
+    }
+  },
+  "original_exact_tuple": {
+    "path": "ROOT_PANDEMONIUM_COMPLETE_SOURCE_SCOPED_INSTITUTION_ACCEPTANCE_V1.json",
+    "bytes": 6641,
+    "sha256": "661ed67bff475d0acd59c7f69546042a41507b0dcd7ad71ec5de6f1c3de09dec",
+    "git_blob_oid_of_actual_bytes": "14fea9164f80587e6d196fa38a940a57b40a5a6a",
+    "immutable_transport_path": "immutable_originals/ROOT_PANDEMONIUM_COMPLETE_SOURCE_SCOPED_INSTITUTION_ACCEPTANCE_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_PANDEMONIUM_COMPLETE_SOURCE_SCOPED_INSTITUTION_ACCEPTANCE_V1",
+    "checked_UTC": "2026-10-10T23:36:32.072094+00:00",
+    "decision": "ACCEPT_COMPLETE_SOURCE_SCOPED_INSTITUTION_WITH_LIMITS",
+    "existing_home": "P3-INST-PANDEMONIUM-ROLES-RESOURCES-SELECTIVE-CARE",
+    "source_responsibility": "GEHENNA::significant_relationship_and_institution_responsibilities::2",
+    "candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 55278,
+      "sha256": "226b45b842d999cbfb6ff65e58165d6e851be9ac21dc37c943b836cfa8012d89",
+      "git_blob_sha1": "df98afc1686e6fb16612b74a2b59b7a798013618"
+    },
+    "canonical_target": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTIONAL_SYNTHESIS.md",
+    "mandatory_named_duties": [],
+    "immutable_author_manifest": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_FINAL_FREEZE_V2.json",
+      "bytes": 9165,
+      "sha256": "104473c04ae39af2082b8c2ee978125739ea90a220134e4a0d3dd5b3fb49e884",
+      "git_blob_sha1": "56054f888d71491f27fdd9d02acc9232d3031c5a"
+    },
+    "immutable_original_manifest": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_INSTITUTION_SYNTHESIS/PANDEMONIUM_INSTITUTION_FINAL_FREEZE_V1.json",
+      "bytes": 23952,
+      "sha256": "67f12b624f652687d71da21c78c46225e05c9b2ba46f37eaa6fd511ef0879a4b",
+      "git_blob_sha1": "e59a2b5fec2e96dcabcf1997b86f2c7d483fcb60"
+    },
+    "ROOT_actual_receiving": {
+      "whole_literary_original": "7ef494 L1–60,4686ae61–120,11cc6e121–180,945a6b181–234 physicalEOF; all11 dimensions, six rivals, eleven finite results and14 full original OPEN effects.",
+      "operative_literary_change": "bcfe28 current whole L136 paragraph and all four dependent receipt fields; only Makoto herself correction. Original V1 all47 immutable, operative20 and five complete byte inverses.",
+      "source_receipt_meaning": "08df4a complete controls;63fb53/d2ceed/20db9f/296fc1/5a7c10 all25 source grades, current/prior scopes and boundaries. No full serialized mechanical JSON manual-read claim.",
+      "fresh_complete_argument_reading": "354dff wholeE00939/E01437 andE01334 exceptL20–24 repaired9bd3b5;9bd3b5 completeE01534/E01635/E01737. Prior19 adequate own scopes reused truthfully; no original primary or shared private custody acquired.",
+      "PS36_qualification": "f87b74 whole operative control preserves original broadcast planned question as dated planning; E009 actual soba partners supply no broadcast warrant. Body L28/205 source-local account and PB13–17 actual broadcast sources remain distinct.",
+      "finite": "Independent currentC frozen inventory,25normal working=C=commit sources,sixcontrols, all5 full inverses,234body and pending355home; protectedH original tuples are not ROOT-tested."
+    },
+    "semantic_grounds": [
+      "Roles, budgets, paperwork, prestige and selective care receive a complete institutional account with actual recipients and practical limits. Institutional performance does not substitute for every member wanted life.",
+      "Iroha reading and quiet companionship, Ibuki play and regard, Satsuki taste/company, Chiaki recording aims and Makoto recognition have intrinsic literary weight; publicity and institutional utility do not discard low-stakes evidence.",
+      "A proposed redistribution, revised procedure, claims about school support and actual care outcomes retain different modes. No universal fairness, financial success, institutional reform or consensus is inferred.",
+      "Actual E009 soba disagreement and differently valued points retain source-local ending. Broadcast claims are separately grounded in E013–17 and preserve report, anticipation, technical operation, adverse costs and personal staging.",
+      "Six substantial rivals and eleven ending tests preserve positive care and real competence alongside coercion, resources, asymmetric burdens, incomplete acknowledgement and unsettled recipients. All14 original gaps remain OPEN.",
+      "Prefect institution and Kayoko–Ako directed relationship remain separate responsibilities; no proxy completion, private transcript, performed AV, identity or model credit is manufactured."
+    ],
+    "independent_finite_receipt": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_PANDEMONIUM_OPERATIVE_V2_COMPLETE_CANDIDATE_INDEPENDENT_FINITE_VERIFICATION_V1.json",
+      "bytes": 2687,
+      "sha256": "9291564bca8a75a65a5c649966727edae1ecc3cee94f00f96a28afce6f99af80",
+      "git_blob_sha1": "377115483a9a51c479ad1233e3a0430bd4896eb8"
+    },
+    "mandatory_PS36_planned_question_qualification": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_PS36_PLANNED_QUESTION_CONTROL_QUALIFICATION_V2.json",
+      "bytes": 2610,
+      "sha256": "bed371469d5aaf268c9df45d76fd3dc50e4ab81b073852197b8a2d05dd989543",
+      "git_blob_sha1": "9572cba76f486976647aa24babbd796558945d95"
+    },
+    "canonical_preservation_requirement": "Preserve entire234-line operative literary body,57 claims79 savedblocks26 witnessspans25 source routes,11 dimensions/sixrivals11finiteends14 full-name OPEN effects,25 honest source grades and six current controls. Preserve immutable47 originals,20 operative files,five full inverses and explicit PS36 dated-plan qualification in future exact public transport. Historical creation capture arrays are not actual present receiving.",
+    "progress": {
+      "previous_ROOTaccepted_packages": 121,
+      "new_institution_package": 1,
+      "total_ROOTaccepted_packages": 122,
+      "character_packages": 95,
+      "directed_relationship_packages": 13,
+      "ensemble_packages": 5,
+      "institution_packages": 9,
+      "ROOTaccepted_named_duties": 10,
+      "published_source_packages": 114,
+      "merged_packages": 89,
+      "next_merge_milestone": 178,
+      "full_target": 355,
+      "canonical_adoption": "PENDING_SUCCESSOR_AFTER_FIXED115_TO120"
+    },
+    "all14_original_gaps": "OPEN",
+    "new_primary_native_raw_QA_AV_model_identity_credit": 0,
+    "R_Git_provider_writes": false,
+    "full_goal_status": "ACTIVE_INCOMPLETE"
+  },
+  "historical_payload_qualification": "Every dated pending/local/source114/7a/source120-chain-pending/count/custody and relative-navigation field preserves creation-time meaning. Full original C bytes and literal/body inverses survive. Current ROOT acceptance is separately bound; mechanical transport supplies no new author, source, independent, primary/native/raw/QA/AV, model or scope credit. Original hashes bind originals rather than their public derivatives.",
+  "original_relative_navigation_boundary": "Historical payload hrefs retain their original document coordinates; explicit canonical body translations and public attachment descriptors supply current navigation. Historical relative literals are not fresh live-source reading.",
+  "assembler_receiving_credit": {
+    "new_primary_native_raw_QA_AV_model_identity": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 58038,
+    "sha256": "b09ee18d96e74ed5ef938fdb14ea6409f11c942274ac48cc99dc7f8e47f2031c",
+    "git_blob_oid_of_actual_bytes": "bb1236c707fee4ec08ada6375810f0c79a6a7587"
+  },
+  "authority_framing_changes": {
+    "historical_frontmatter_fields": [
+      "ROOT_acceptance",
+      "artifact_type",
+      "canonical_adoption",
+      "canonical_completion_credit",
+      "canonical_home",
+      "canonical_target",
+      "counts_as_ROOT_accepted_completed",
+      "do_not_use_as_current_authority",
+      "generation",
+      "publication_state",
+      "root_acceptance",
+      "stage_state",
+      "status",
+      "version"
+    ],
+    "inserted_current_boundary": "**Current ROOT receiving and publication boundary.** ROOT independently adjudicated this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the operative original and complete byte inverse. Original pending/local/source114/7a/source120-chain-pending/count statements remain creation-time history. Published120 source c6908f2dba6f3b379bb84679fdd01175ac5894da/tree 40b006f65bd1c98422d9093d08f53696c2d54cc9 has a separately bound ROOT-accepted exact source→housekeeping→final automatic chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed five-package121–125 proposal takes effect only through complete ROOT installation, yielding125 (95character/15directedrelationship/5ensemble/10institution) and the unchanged10 completed non-denominator named duties. Later126+ is excluded. Required355packages/29duties across25parents/384homes, next178, all14original OPEN gaps and model0 remain unchanged. Mechanical transport grants no new source, original-primary, native, raw, QA, performed, independent literary, identity, denominator or milestone credit. **Package-specific operative qualification:** Operative V2 retains234 literary lines and the narrow Makoto-herself pronoun correction, original47-file preservation and five complete V2→V1 byte inverses. Mandatory PS36 qualification preserves planned broadcast as dated navigation; actual MAIN S2V002E009 soba is not broadcast warrant, while E013–17 broadcast remains separately grounded.25 source grades/six controls retain actual custody,57 claims,79 saved blocks, six rivals and11 finite ends. Pandemonium–Ibuki ensemble, its directions, characters and other institutions remain separate.",
+    "all_original_literary_paragraphs_unchanged_except_exact_href_translation": true
+  },
+  "mandatory_operative_qualification": "Operative V2 retains234 literary lines and the narrow Makoto-herself pronoun correction, original47-file preservation and five complete V2→V1 byte inverses. Mandatory PS36 qualification preserves planned broadcast as dated navigation; actual MAIN S2V002E009 soba is not broadcast warrant, while E013–17 broadcast remains separately grounded.25 source grades/six controls retain actual custody,57 claims,79 saved blocks, six rivals and11 finite ends. Pandemonium–Ibuki ensemble, its directions, characters and other institutions remain separate."
+}

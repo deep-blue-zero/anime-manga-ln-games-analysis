@@ -1,0 +1,270 @@
+{
+  "schema": "KONOSUBA_WHOLE_LOCAL_TEXT_EPUB_ACTUAL_UNCODED_READING_SEAL_V1",
+  "source_id": "YORI-04",
+  "sealed_utc": "2026-10-19T03:35:10.750313+00:00",
+  "native_filename": "Konosuba - Short Stories - Yorimichi 4.epub",
+  "native_bytes": 10437818,
+  "native_sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+  "fresh_native_ZIP_CRC": "PASS",
+  "actual_complete_textual_units": 26,
+  "actual_paragraph_slots": 2952,
+  "actual_unique_native_images_viewed": 26,
+  "unit_interval_verification": [
+    {
+      "component_id": "YORI-04-U001",
+      "native_member": "item/xhtml/p-cover.xhtml",
+      "sha256": "4f48714e6ccfa8195f5f5587ca6c23db065354ee93d763a2b57462b9f52b3c78",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U002",
+      "native_member": "item/xhtml/p-fmatter-001.xhtml",
+      "sha256": "0f15f739aed89a5e54f190216e87555c3daa0510fcb66085ad221e854418ff18",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U003",
+      "native_member": "item/xhtml/p-fmatter-002.xhtml",
+      "sha256": "0020c330b7e71fbe6600a73f621ed634c210a7a2dc8dc3fe1c599719c10c7e9d",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U004",
+      "native_member": "item/xhtml/p-fmatter-003.xhtml",
+      "sha256": "4630288acdd3f7d19cc03bdff8cb52e5bbfcdb7246e3cbd82e7cb7d09dd3ea9a",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U005",
+      "native_member": "item/xhtml/p-fmatter-004.xhtml",
+      "sha256": "b7e3c539238780f66e1fee9fda5d0e7247809d975f10393d9e9e95209c76ecb4",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U006",
+      "native_member": "item/xhtml/p-fmatter-005.xhtml",
+      "sha256": "4f069cbbaac5934fce8dba059b0b87063d196d4173bf605b0ef736a676e31bf6",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U007",
+      "native_member": "item/xhtml/p-titlepage.xhtml",
+      "sha256": "4a466b5027c95e44ed3c4db30ccb17dcea024bf0cd428417be05c2719da76571",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U008",
+      "native_member": "item/xhtml/p-caution.xhtml",
+      "sha256": "366ec6261e0cb5668d44f7f02d25615d9ad59d7e84d49bae7fa78d41f12f51e8",
+      "paragraph_slots_actually_received": 4,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U009",
+      "native_member": "item/xhtml/p-toc-001.xhtml",
+      "sha256": "89204b0048d79b56f9e6262bfd714c7a91e8dacd54d761f1c5d1a7099d933989",
+      "paragraph_slots_actually_received": 9,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U010",
+      "native_member": "item/xhtml/p-001.xhtml",
+      "sha256": "41df0789227ff807b084e846cde897e4688e12b91fcdfa009ddc78bec499b647",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U011",
+      "native_member": "item/xhtml/p-002.xhtml",
+      "sha256": "d4e50e3b52026cead53f3385b876bbbb6ab279edebe8035f7bbbd1a071e11eb3",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U012",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "paragraph_slots_actually_received": 546,
+      "intervals": 6,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U013",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "sha256": "bb368789c1f29a93e7736e6b81ba8147d430b4ce59aeedbe480530bfa2707544",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U014",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+      "paragraph_slots_actually_received": 558,
+      "intervals": 6,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U015",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "sha256": "705bb605ce82cbb8af03fce9e4faafb5157592fc20ebfcef1e0c08d09b4d9e54",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U016",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+      "paragraph_slots_actually_received": 573,
+      "intervals": 6,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U017",
+      "native_member": "item/xhtml/p-008.xhtml",
+      "sha256": "ab2593ec68bf1c562be5ae543276c135e6392c66641f9851f14ccf2646eb02f3",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U018",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "sha256": "d5abc4170957b86faba706015d5e798b225cae93183f046d9669617aff08bd97",
+      "paragraph_slots_actually_received": 682,
+      "intervals": 7,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U019",
+      "native_member": "item/xhtml/p-010.xhtml",
+      "sha256": "3f6d53f2fbd19bc03e558b06cb8797fa14a6ae0e148a0354874fe7b801a8ec75",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U020",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "sha256": "7dfeef069788d78369163887f61e61af87b38d1806c2c4e3ba0bde3c68c40712",
+      "paragraph_slots_actually_received": 541,
+      "intervals": 6,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U021",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "sha256": "f54ef6a37b7ac98848810fe678513b1dec17e59b96e51deae2b88f5d4964ac6d",
+      "paragraph_slots_actually_received": 19,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U022",
+      "native_member": "item/xhtml/p-allcover-001.xhtml",
+      "sha256": "4ebbaa8ade38de2ed100d419e137fa38dcfd97f3b0179cfe86b15c4154d291ba",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U023",
+      "native_member": "item/xhtml/p-colophon.xhtml",
+      "sha256": "795407b423d0ef636bfa7c3868b46ef243a011d8a950b97d3ae283249f74c2cd",
+      "paragraph_slots_actually_received": 17,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U024",
+      "native_member": "item/xhtml/p-colophon2.xhtml",
+      "sha256": "d212902676cee3f615d06775ab0af66e6c077f5070b79035b556ae202b367ff2",
+      "paragraph_slots_actually_received": 3,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U025",
+      "native_member": "item/xhtml/p-bookwalker.xhtml",
+      "sha256": "12ce2faa0b241d25f0e74460a97709c2d03e6d1cc595f0f9cd5487c6295baf09",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "YORI-04-U026",
+      "native_member": "item/navigation-documents.xhtml",
+      "sha256": "a420cbddfe4000d3767a3cbea3ce4acdcda5e1403db2b657d08857a6b90d900b",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    }
+  ],
+  "immutable_uncoded_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 29309,
+      "sha256": "a81d27ae47e61305771b43d4dd19a530b9ef12d609f0648abb3816187e9dd144"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 175266,
+      "sha256": "091522ceb5cc15fa1c7f91d4dbb1cc4bed6c34db36e47271fe9f3f43c13146c5"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 165647,
+      "sha256": "762b2d7cc7d2ae5cb58168f4cdf73f4c55b931132147cb59db48cceb389039e0"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 22250,
+      "sha256": "614e7d4be1a9ad7223e0bc7476f93662e27b1fa22382c051f73c40a17e893a73"
+    },
+    {
+      "file": "UNCODED_IMAGE_SCOPE_CORRECTIONS.jsonl",
+      "bytes": 854,
+      "sha256": "b627504df465e1a71fb999fdf51d315ae030fd1e8fa9f4bb1ac25ed6d24cfeb4"
+    }
+  ],
+  "all_source_first_formal_outcomes_still_unassigned": true,
+  "reader": "Continuing informed root AI; same author and receiver, no independent review, pristine blindness, native-human or audio claim.",
+  "scope": "All supplied textual bodies, ruby readings displayed inline, native nonparagraph residuals, front/end/navigation, electronic bonus, author and contributor paratext, and every image received actual separate reading/view records. Exact layout inspection of textual XHTML is not a separate print-page facsimile claim. Structural extraction alone received no reading credit.",
+  "corrections_to_resolve_in_separate_current_derivatives": [
+    "All images actually viewed. IMG009 broad all-labels-read claim is qualified for exact tiny design-name transcription by IMG004 wraparound reinspection: keep any rough name spelling provisional, no exact contributor-identity assertion from it. IMG015 miniature ornamental cursive remains not fully decipherable despite full/original views, so no exact transcription, translation or extra image-only story credit. Actual Japanese letter body U016 was read. This explicit legibility limit does not turn structural extraction or inaccessible text into reading credit."
+  ],
+  "remaining": "Formal L/H and voice coding, natural-order question assessment, seventeen-responsibility report, component dispositions, ledger decisions, acceptance, and full publication gate; no whole-program completion claim.",
+  "pre_seal_actual_image_scope_corrections_preserving_originals": [
+    {
+      "schema": "KONOSUBA_PRE_SEAL_IMAGE_SCOPE_QUALIFICATION_V1",
+      "recorded_after_actual_model_view_utc": "2026-10-19T03:35:09.487458+00:00",
+      "formal_outcomes_assigned": false,
+      "preserve_original_note": true,
+      "images": [
+        "YORI-04-IMG009",
+        "YORI-04-IMG004",
+        "YORI-04-IMG015"
+      ],
+      "current_scope": "All images actually viewed. IMG009 broad all-labels-read claim is qualified for exact tiny design-name transcription by IMG004 wraparound reinspection: keep any rough name spelling provisional, no exact contributor-identity assertion from it. IMG015 miniature ornamental cursive remains not fully decipherable despite full/original views, so no exact transcription, translation or extra image-only story credit. Actual Japanese letter body U016 was read. This explicit legibility limit does not turn structural extraction or inaccessible text into reading credit."
+    }
+  ]
+}

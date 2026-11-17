@@ -1,0 +1,161 @@
+{
+  "schema": "ROOT_ODYSSEIA_SAMMY_CARE_CURRENT_V4_COMPLETE_LITERARY_AND_ALL105_PURPOSE_ADOPTION_V1",
+  "target": "P3-REL-ODYSSEIA-SAMMY-CARE",
+  "decision": "ADOPT_COMPLETE_DIRECTED_CARE_RELATIONSHIP_ARGUMENT_AND_ALL105_SOURCE_SPECIFIC_TARGET_PURPOSES_WITH_LIMITS_AT_DISCLOSED_GRADES",
+  "current_exact5_manifest": {
+    "filename": "private-custody-evidence:CARE_FROZEN_1C27989AF32A2AE5",
+    "bytes": 7387,
+    "sha256": "ecdd3e2d481c00c8e7f460b687ad1f465158c4fb9ed413d48c847cf943a58afc"
+  },
+  "body": {
+    "bytes": 26647,
+    "sha256": "19a7b0aab2f1096ad798d4a5b237035203190bf9cb1d2b8494a234bcaa062aca",
+    "physical_lines": 117,
+    "ROOT_whole_prior_current_literary_argument": "37e06f wholeV2 untruncated, adequate own retained complete argument reused;55e1e3 complete current CARE002 full paragraph; actual V3/V4 fullinverse/difference proof binds every unchanged line; no fresh source credit"
+  },
+  "ROOT_actual41_paragraph_scope_and_source_joins": "55d21d all41 IDs/bodylines;53ccde complete current alias/line joins and actual recipient/mode/chronology/trigger values.2542d2 broad extraction clipped and earns no complete receiving credit.",
+  "ROOT_actual20_context_question_meaning_counterlimit": "55e1e3;complete current20 report meanings, actor/endpoint/source-grade declarations received. Root own prior19+selectedconnectedEVENT860; author's own20whole remains separately attributed.",
+  "ROOT_all105_new_target_question_positive_contrary_meaning": [
+    {
+      "owners": "O000-O035",
+      "tool": "c4a82b",
+      "decision": "ADOPT_NEW_DIRECTED_CARE_QUESTION_AND_POSITIVE_CONTRARY_MEANING_WITH_LIMITS_AT_ROOT_REPORT_GRADE",
+      "common_boundaries": "c4a82b complete distinct current role/recipient/mode/chronology/disposition/trigger and no stakes exclusion values"
+    },
+    {
+      "owners": "O036-O070",
+      "tool": "c15fbc",
+      "decision": "ADOPT_WITH_LIMITS_EXCEPT_O069_SOURCE_LOCAL_SUCCESSOR_PENDING",
+      "supported_finding": "79dbbb complete O069/E825 praise/apology versus O087/E843 refusal; current row69 imports the latter. No whole original source absence claim."
+    },
+    {
+      "owners": "O071-O104",
+      "tool": "0c7735",
+      "decision": "ADOPT_NEW_DIRECTED_CARE_QUESTION_AND_POSITIVE_CONTRARY_MEANING_WITH_LIMITS_AT_ROOT_REPORT_GRADE"
+    }
+  ],
+  "current_O069_ROOT_separate_delta": {
+    "tool": "9a5132",
+    "full_current_meaning": "Toki’s welcomed affiliation, reported command rights and Neru’s praise/apology preserve particular agency and standing; Minato’s agency and peers’ participation do not dissolve their right to information and response.",
+    "actual_report_basis": "79dbbb complete currentO069/E825 andO087/E843 positive/source-mode meanings; precise refusal remains tied toO087.",
+    "disposition": "ADOPT_SUPPORTED_SOURCE_LOCAL_SUCCESSOR_WITH_LIMITS"
+  },
+  "five_supported_precision_findings": "All resolved in currentV4: initiated retrieval; no-demonstrated-causation; O034 actor/stage split; O083 numerical/broad outcome versus fine attribution; O069 E825 praise/apology versus E843 refusal. V1–V3 author/QA originals and their exact original decisions remain preserved.",
+  "independent_current_QA": {
+    "filename": "repository-reference:series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_CURRENT_COMPLETE_INDEPENDENT_REVIEW_V1.json#/complete_review_snapshots/operative_complete_V4/complete_review",
+    "bytes": 29569,
+    "sha256": "e01d6c7f7c46654ee59a39d8861522426375c0f4b7b23bc2733d314be816e813",
+    "ROOT_critical_current_receiving": "9a5132",
+    "checks": 206,
+    "findings": 0,
+    "prior_whole_semantic_scope": "Independent actual whole117/all41/all20/all105/11dim/8rivals16ends14OPEN at disclosed current report and adequate prior analytical grades; originalV2 findings59852/386c...,V3qualification23218/638a...,currentV4 actualdelta qualifies previous snapshots only."
+  },
+  "ROOT_current_exact5_actual_bound_byte_readback": "9a5132;all5 regular nonreparse<1MiB matching current manifest",
+  "full_preservation": "Different-author independently executed all5 currentV4→actualV3 full byte inverses and separate19-operation fullmanifest inverse; priorV3→V2 andV2→V1 retained. Original underlying source report fields,body/source20/41IDs/other104 purposes unchanged byV4.",
+  "ROOT_literary_reasons": [
+    "Several directed agents remain separately responsible: Minato request/command, Ami attention/warning/coordination, Sumika harmful and caring acts, Sanae professional judgment, students' giving/hiding/requests, and Sammy's activity/narrator perspective.",
+    "Toy making, ordinary contact, food limits, company, hobbies, private typed wishes and survivors' habits have intrinsic value beside urgent decisions.",
+    "Proposal, assent, announcement, general paperwork, unsigned handover, Minato-requested cancellation and claimant agreement retain different authors and endpoints.",
+    "Clinical hypothesis, rejected single-cause guilt and unobserved alternatives cannot establish optimum/cause/total exoneration.",
+    "Opt-out is real and bounded; deferred objections, later permission and reported requests cannot certify all guests/fleet consent.",
+    "Represented animal viewpoint is positively retained at the final narrator grade, neither only human projection nor informed all-method consent.",
+    "Current all105 comparisons preserve mode, recipient, private typing and source-local chronology without stakes/model/appearance exclusion."
+  ],
+  "counts": {
+    "paragraph_claims": 41,
+    "dimensions": 11,
+    "source_contexts": 20,
+    "new_target_purposes": 105,
+    "rivals": 8,
+    "finite_ends": 16,
+    "original_OPEN_gaps": 14,
+    "models": 0
+  },
+  "publication_scope": "C_ONLY_COMPLETE_SEMANTIC_ADOPTION;CANONICAL_INSTALLATION_METADATA_PUBLICATION_AND_NEW_SOURCE_HOUSEKEEPING_FINAL_AUDITS_PENDING_ROOT_ONLY",
+  "current_basis": {
+    "local": "c600754976b6c53278d6136045d098904962d7af",
+    "source": "3495ee6b4712c7ca4de25a75054d83863cccbf3f",
+    "main": "cb99d141317d51f9c47ee098c7a07982c07c3a20",
+    "actual_source_packages": 135,
+    "named": 14,
+    "main_packages": 133,
+    "main_named": 13,
+    "next178": "UNREACHED",
+    "PR158": "OPEN_DRAFT_HOLD;MERGE_APPROVAL_RESERVED"
+  },
+  "fixed355_29_25_384_788": "UNCHANGED",
+  "new_source_identity_registry_generated_named_model_main_or_milestone_credit": 0,
+  "all14_original_gaps": "OPEN",
+  "operative_public_CURRENT_V4_semantic_and_transport_qualification": {
+    "operative_current_semantic_status": "ROOT_ADOPTED_COMPLETE_CURRENT_V4_WITH_LIMITS_AT_DISCLOSED_ANALYTICAL_AND_REPORT_RECEIVING_GRADES",
+    "review_history": "Complete V2 three findings and O083 recommendation remain dated; V3 confirms four corrections, then its zero-finding recommendation is qualified by late CARE-V3-F05 O069/E825 versus O087/E843 mismatch; current V4 confirms the source-local correction and preservation, with zero current findings. No old decision is overwritten.",
+    "current_five_exact_candidates": [
+      {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+        "bytes": 26647,
+        "sha256": "19a7b0aab2f1096ad798d4a5b237035203190bf9cb1d2b8494a234bcaa062aca",
+        "git_blob_oid_of_actual_bytes": "618974b1a809b5a561be48dee4e76b59af561321",
+        "mode": "100644",
+        "role": "Existing exact V4 candidate preserved byte-identically; installation not certified."
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+        "bytes": 231191,
+        "sha256": "90e8696639330b8c6bf01f7dcadc5550c175133be2299da290fb2222a1f992d4",
+        "git_blob_oid_of_actual_bytes": "ade0cfb5653cc4d9f75f2c0c2240256311c660f6",
+        "mode": "100644",
+        "role": "Existing exact V4 candidate preserved byte-identically; installation not certified."
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+        "bytes": 30556,
+        "sha256": "ade6904c486588f4802e026d779a89e8376d3945f05071cd27c09dde20f6a21a",
+        "git_blob_oid_of_actual_bytes": "d482019a6215e303906123d5d0e98c6793d4a0b9",
+        "mode": "100644",
+        "role": "Existing exact V4 candidate preserved byte-identically; installation not certified."
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+        "bytes": 528023,
+        "sha256": "18c37e0659b70d81a38786d60abe96cac301a4147c31fbd3561a0c36cc742325",
+        "git_blob_oid_of_actual_bytes": "9e596410e928e8b13bb1e644c202cdf0ec711afb",
+        "mode": "100644",
+        "role": "Existing exact V4 candidate preserved byte-identically; installation not certified."
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+        "bytes": 6811,
+        "sha256": "3d54e43b2b2d47d6f61aad39fbe09cd68b9a54ef6bb9fd9d3e6601c551771cc6",
+        "git_blob_oid_of_actual_bytes": "4a452e2256de2e83cac5a61d15ab23db54ccf8da",
+        "mode": "100644",
+        "role": "Existing exact V4 candidate preserved byte-identically; installation not certified."
+      }
+    ],
+    "historical_tuple_role": "Tuples and renamed public routes inside original V2/V3 review payloads describe those frozen review snapshots; they do not assert that current V4 bytes equal old tuples. The current_five_exact_candidates array governs current bytes.",
+    "current_independent_reviewer": "/root/minato_105_derivative; different author from CARE writer receive_middle_remaining, with prior Minato/Sammy authorship disclosed in complete original reviews.",
+    "source_grade": "CARE author20 admitted written analytical normal meanings remain attributed. Reviewer adequate prior18whole+1selected and necessary selectedEVENT860 analytical scope are preserved; common105 report meaning grade and contributor26whole79selected remain attributed. ROOT own report/body receiving is separately attributed. No fresh physical105, primary/native/raw/AV or source-admission credit.",
+    "composer_role": "receive_last16: C-only composition/preservation and explicit qualification. Authored none of CARE body, new105 purpose judgments or original independent reviews; no new independent literary/whole-source/whole105 receiving is asserted.",
+    "ROOT_receipt_original_tuple": {
+      "bytes": 6328,
+      "sha256": "c98ac87cb00d4c575481a1872e4c180e175b478697f13d06306d5976bb7140da",
+      "git_blob_oid_of_actual_bytes": "ed9b87e7d7036dda05e5cb4d15ad4ccab8f285c7"
+    },
+    "ROOT_public_acceptance_route": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "original_payload_exact_restoration": "Private scalar-path maps and full UTF8 literals restore every original byte from the saved public review snapshots and ROOT derivative; opaque custody witness strings expose no private filesystem location.",
+    "private_witness_role": "An opaque private-custody-evidence ID binds original preparation evidence only; it is not a public missing-file route or new source.",
+    "current_root_final_composition_receiving": "PENDING",
+    "canonical_installation_metadata_source_publication_SOURCE_HK_FINAL_main": "PENDING_ROOT_ONLY",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "fixed355_29_25_384_788": "UNCHANGED",
+    "new_credit": 0,
+    "complete_current_independent_review": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_CURRENT_COMPLETE_INDEPENDENT_REVIEW_V1.json",
+      "bytes": 150777,
+      "sha256": "79e1660b4d67e40d7f35da30a042488c18912ee744d7f71ecf7f442cc9aaf7ea",
+      "git_blob_oid_of_actual_bytes": "e0234fec9e50cd3620ed517f3f87fb63e21fead7"
+    },
+    "original_filename_and_C_paths_role": "Sanitized filename/path scalar fields are public snapshot routes or opaque original custody witnesses. Their original hash/byte fields still bind exact private originals; no silent new tuple substitution.",
+    "publication_scope_clarification": "Only original semantic-pending declarations are superseded by ROOT current V4 adoption and actual independent V4 review. The current_basis snapshot is ROOT-reported dated receiving basis, not this composer live Git/provider observation. No installation/publication/CI/main credit follows."
+  }
+}

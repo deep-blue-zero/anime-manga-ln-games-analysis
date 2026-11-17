@@ -2,11 +2,11 @@
 title: Manga / Anime Reasoning and Model Routing Policy
 artifact_id: MANGA_ANIME_REASONING_MODEL_ROUTING_POLICY
 artifact_type: reasoning_model_routing_policy
-version: "2.0"
+version: "2.2"
 status: canonical
 scope: corpus-wide cognitive workload classification and model resolution
 created: 2026-08-27
-last_updated: 2026-09-13
+last_updated: 2026-11-15
 maintainer: ChatGPT + user
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -38,7 +38,7 @@ It owns cognitive workload classification and model/effort resolution. Related d
 
 | Responsibility | Governing document |
 |---|---|
-| Environment capabilities, stage ownership, and multi-environment arrangements | [Execution topology policy](MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md) |
+| Environment capabilities, stage ownership, multi-environment arrangements, and multi-agent participation in source readings | [Execution topology policy](MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md) |
 | Preferred lifecycle for long-series work | [Long-series hybrid execution protocol](MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md) |
 | Cross-session transfer and acceptance requirements | [Analytical handoff contract](MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md) |
 | Infrastructure required before sequential analysis | [Project initiation policy](MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md) |
@@ -102,6 +102,8 @@ Apparent contradiction may arise from chronology, unreliable narration, ignoranc
 No amount of reasoning substitutes for a missing source, an inaccessible file, or a perception channel that was never inspected.
 
 ## 5. Current provider snapshot and proposed resolutions
+
+**Snapshot scope (2026-10-15).** This snapshot covers OpenAI products only and was last checked on 2026-09-13; its review prompt (Section 9) has passed, so recheck a product fact below before relying on it. Work run by another provider's agents resolves each reasoning class to a configuration documented for its own environment, records the model and effort at the operation or artifact level (Section 12), and assumes no equivalence to the configurations below. Another provider joins this snapshot only with dated official sources, like the OpenAI entries.
 
 ### 5.1 Officially documented product facts, checked 2026-09-13
 
@@ -198,7 +200,7 @@ execution_record:
 
 The legacy `resolved_reasoning_option` remains readable as a historical combined label. Do not reinterpret it as evidence of unobserved settings. Retain `pro_justification`, `reasoning_override`, and `reasoning_override_reason` where already used; new profiles may use a more general `quality_first_rationale`.
 
-Store shared routing once in a project profile or handoff and inherit it where practical. Sidecars need not embed YAML. A multi-stage artifact must not imply that its last model produced every earlier stage.
+Store shared routing once in a project profile or handoff and inherit it where practical. Sidecars need not embed YAML. A multi-stage artifact must not imply that its last model produced every earlier stage, and a multi-agent reading must not imply that one agent or configuration produced every contribution.
 
 ## 13. Defaults by artifact role
 
@@ -222,6 +224,8 @@ A small supporting-character study is not automatically a premium monograph. The
 Preserve a successful method, reasoning class, source order, and transaction discipline. Continuity belongs in committed readings, ledgers, checkpoints, and the current entrypoint, not in one indefinitely growing chat.
 
 Reset or hand off a session when context quality deteriorates, while retaining the same authorized run and verified high-water mark. Do not assign extended conversational endurance as a model-quality criterion. Follow the sequential continuation policy for atomic closeout and recovery.
+
+A substantive reading's multi-agent workflow ([topology Section 4.1](MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading)) is an execution and acceptance requirement, not a reasoning-class escalation. The principal, each specialist and the reviewer resolve a class from their actual responsibility. Reading-stage specialists and reviewers start from Section 13's sequential deep reading row and escalate under Sections 3.3 and 8 only when the unit warrants it; that table's specialist and adversarial-audit rows describe synthesis-layer and corpus-level work. A specialist or reviewer is not assigned a lower class merely because its output is shorter. Adding agents does not substitute for adequate source access or reasoning, and model or provider diversity is not required.
 
 ## 15. Monograph, synthesis, and reconstruction remain distinct
 
@@ -282,6 +286,14 @@ These are dated product references, not literary evidence or permanent product g
 - [O5] OpenAI, [ChatGPT Work admin FAQ - Usage and cost](https://learn.chatgpt.com/docs/enterprise/work-admin-faq#usage-and-cost), checked 2026-09-13. Distinguishes shared Work/Codex usage and the shared workspace credit allocation applicable to eligible credit-based agreements.
 
 ## Changelog
+
+### v2.2 - 2026-11-15 - Multi-agent source reading
+
+Routes multi-agent participation in source readings to topology Section 4.1. Section 14 states that it is not a class escalation, that each participant's class follows its own responsibility starting from the sequential deep reading row, and that model diversity is not required; Section 12 keeps contributions attributable without invented settings. No class, routing default or product fact changed.
+
+### v2.1 - 2026-10-15 - Snapshot scope
+
+States that the provider snapshot covers OpenAI products only and is past its review prompt, and how work on other providers records its configuration until a reviewed snapshot covers them. No class, routing default or product fact changed.
 
 ### Proposal revision 2 - 2026-09-13
 
