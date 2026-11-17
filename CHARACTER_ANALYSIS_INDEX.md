@@ -50,6 +50,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`solo-leveling`](characters/index/solo-leveling.md) | 5 |
 | [`sound-euphonium`](characters/index/sound-euphonium.md) | 1 |
 | [`the-idolmaster`](characters/index/the-idolmaster.md) | 25 |
+| [`three-days-of-happiness`](characters/index/three-days-of-happiness.md) | 1 |
 | [`to-be-hero-x`](characters/index/to-be-hero-x.md) | 14 |
 | [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 52 |
 | [`tomozaki`](characters/index/tomozaki.md) | 18 |
@@ -333,6 +334,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Kurogane Ren](characters/index/shine-post.md#kurogane-ren) | SHINE POST television anime | `shine-post:kurogane-ren@television-anime` | — |
 | [Kurokiba Ryō](characters/index/shokugeki-no-soma.md#kurokiba-ryo) | Shokugeki no Soma manga | `shokugeki-no-soma:kurokiba-ryo@manga` | — |
 | [Kurusu Kanako](characters/index/oreimo.md#kurusu-kanako) | Oreimo original light novels | `oreimo:kurusu-kanako@original-light-novels` | — |
+| [Kusunoki](characters/index/three-days-of-happiness.md#kusunoki) | Three Days of Happiness original novel | `three-days-of-happiness:kusunoki@original-novel` | クスノキ |
 | [Kyara](characters/index/shiboyugi.md#kyara) | Japanese light-novel continuity | `shiboyugi:kyara@light-novel` | 伽羅 |
 | [Kyoichi Otomo](characters/index/cornered-mouse.md#kyoichi-otomo) | Japanese manga continuity | `cornered-mouse:kyoichi-otomo@manga` | 大伴恭一 |
 | [Kyouka](characters/index/maebashi-witches.md#kyouka) | Maebashi Witches anime | `maebashi-witches:kyouka@anime` | — |
