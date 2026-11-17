@@ -4,7 +4,7 @@ series: summer-time-rendering
 artifact_id: STR_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: STR-G1
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_scope: "INITIAL main/supplement and event-knowledge architecture; no narrative findings"
 source_boundary: "Japanese main manga volumes 01-13 and 2026 未然事故物件 supplement; metadata only, no narrative admission or inspection"
@@ -72,15 +72,25 @@ Future `readings/` contains substantial main and separately authorized supplemen
 | Adaptation/acoustic evidence | Excluded | Not applicable |
 | Incidental nonrecurring detail | Reading only | No needless permanent tracker |
 
+### Independent occurrence and disclosure review
+
+For each future authorized reading of an admitted main volume or separately admitted supplement, the principal verifies the locked witness and the Japanese page-inspection route for each assignment, reads the full unit, and owns its single source-facing interpretation. Assign a separate reader the Japanese pages for the current witness only. Have that reader trace an event from its panel occurrence to the specific person who could acquire the information. Reopen a similar-looking image or recollection to test whether it actually represents the same event. Keep variant occurrences and competing motives distinct when the pages leave the relation open.
+
+A distinct reviewer directly reopens a decisive sequence and tests the account against scene order, Japanese attribution and each person's prior knowledge. Check whether an ordinary interaction or contrary observation has disappeared from the reconstructed chronology. Protect the main-only checkpoint from exposure to the supplement. The specialist forms an account in a separate context before seeing the principal’s draft. Where practicable the reviewer inspects the evidence before seeing either account. Record prior exposure, freeze predictions before revealing the outcome and identify any findings that lose independent or prospective credit after exposure.
+
+Use the unit’s ledger-update manifest, linked to the event/knowledge, person/relationship and claim records to record participants, assignments, actual access and horizon, located observations, alternatives and review challenges. The principal records the reason to adopt, qualify, reject or leave each material finding open, preserves diagnostic evidence in the reading, and reconciles the shared records once. Check coverage, findings and cumulative state before closing the transaction. Interpretive roles start at `SUBSTANTIVE_ANALYSIS` and escalate individually for difficult or propagation-sensitive judgments. The standing team has distinct specialist and reviewer contexts. Record a capability blocker at the entrypoint and hold acceptance and frontier advance if the required access or independence is unavailable. [Source-reading policy](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading)
+
 ## 5. Substantive interpretation and earned studies
 
 Required mature responsibilities are causal/epistemic account, character development, directed relationships, ordinary/Japanese behavior and page form. They may be substantial integrated sections when separate specialists add no independent argument/retrieval value. The role-gap audit must identify exact carrying sections and explain that choice.
 
 A causal specialist is earned when actual event complexity requires an independent sustained argument, not because the title is familiar. It must distinguish observations, inferred rules, exceptions and competing explanations, preserving uncertainty where the source does. A chronology chart or rule list cannot replace the prose explaining causation.
 
-A character monograph is earned by a distinct developmental question and adequate state/context evidence. Relationship studies preserve each direction, differing knowledge and consequences. Ordinary evidence, counterexamples and source-layer distinctions remain necessary even when dramatic mechanisms dominate attention.
+Character monographs follow the qualification decision below. Relationship studies preserve each direction, differing knowledge and consequences. Ordinary evidence, counterexamples and source-layer distinctions remain necessary even when dramatic mechanisms dominate attention.
 
 No universal word cap applies. Acceptance tests explanatory mechanisms, inferential warrants, representative and disconfirming evidence, named actors, temporal/occurrence specificity and source limits. Full synthesis integrates arguments rather than concatenating abstracts or announcing a solved chronology. Transfer review compares complete versions for lost reasoning.
+
+At character and specialist readiness, record each assessed person in the person/relationship ledger at the applicable main-only or supplement horizon. Assess differentiated behavior across contexts or within a concentrated sequence, including supporting characters and counterexamples. Record identity, source boundary, outcome, rationale, gaps, next review trigger and the portrait path once it exists. A qualified subject earns a standalone `studies/STR_<subject>_<horizon>_MONOGRAPH.md`. Carry outstanding portraits through synthesis and release reviews. Reassess on material evidence changes. Check the portrait alone for a usable account of the person, then test fidelity separately against diagnostic source evidence. [Individual monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard)
 
 ## 6. Contradictions, dependencies and gates
 
@@ -140,6 +150,7 @@ Current maps/method/architecture and indexes are mutable with targeted history. 
 |---|---|---|
 | 1.0 | 2026-11-07 | INITIAL main/supplement and event-knowledge architecture; no narrative mechanics assumed |
 | 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the local method; main/supplement gates, event/knowledge distinctions, full analytical duties and CLOSED lock retained |
+| 1.2 | 2026-11-17 | Assigned independent source reading and reconciliation, and the qualification and acceptance route for individual portraits. |
 
 ## 9. Ownership and transfer
 
