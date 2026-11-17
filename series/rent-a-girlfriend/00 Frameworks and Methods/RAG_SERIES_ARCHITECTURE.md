@@ -4,7 +4,7 @@ artifact_id: RAG_SERIES_ARCHITECTURE
 artifact_type: synthesis_architecture
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -39,7 +39,7 @@ Primary continuity: manga
 
 No Rent-a-Girlfriend row was found in the main series registry inspected for this proposal. That is not proof that no unintegrated branch, alias, or older source exists. At adoption, recheck the live registry, relevant branches, and source routing. Preserve an existing reviewed stable identity if one is discovered; do not create a parallel root.
 
-The main head observed at design closeout was `6d027e55f2eb38ec04ceed16bddc25015dc8a180`. The package is not a validated repository transaction, has not been committed, and has inspected no manga volumes. All supplied governing documents are noncurrent proposals until accepted and reconciled with live governance.
+The registry and adoption instructions above record the original proposal. For current adoption and source status, consult the canonical entrypoint. The main head observed at design closeout was `6d027e55f2eb38ec04ceed16bddc25015dc8a180`. At that design boundary the package had inspected no manga volumes and awaited repository acceptance.
 
 ### Foundations
 
@@ -281,7 +281,7 @@ Preferred ownership follows the live hybrid protocol:
 |---|---|---|
 | Foundation design | Fresh cloud synthesis session | `DEEP_SYNTHESIS`; escalate for propagation-sensitive architecture. |
 | Source verification and local integration | Adequate owner-controlled Work/Codex environment | `BOUNDED_STANDARD` for inventory; higher for authority/interpretive decisions. |
-| Volume readings and interpretive ledgers | Local Work/Codex with verified visual access | `SUBSTANTIVE_ANALYSIS`; escalate dense units. |
+| Volume readings and interpretive ledgers | Accountable principal, independent page reader and separate critical reviewer with verified visual access | `SUBSTANTIVE_ANALYSIS`; escalate dense units. |
 | Reconstruction rules and checkpoints | Adequate analytical owner | `DEEP_SYNTHESIS`. |
 | Major monographs and specialists | Fresh cloud synthesis session, against a frozen snapshot | `DEEP_SYNTHESIS`; stronger review where justified. |
 | Adversarial convergence and continuous synthesis | Named synthesis/review owner | `PREMIUM_QUALITY_FIRST` where broad and load-bearing. |
@@ -290,6 +290,18 @@ Preferred ownership follows the live hybrid protocol:
 These are workload classes, not promises about a particular product or account. Verify required transport, page inspection, persistence, and write capabilities. A tool that can extract images is not automatically a model that inspected them.
 
 At a checkpoint, close and record the checkpoint before opening the next block. Heavy specialist work may be separately dispatched from that frozen state. Later sequential work must not leak into an earlier scoped draft. Parallelize distinct targets, not shared ledgers or the current entrypoint.
+
+### Independent readings of information and initiative
+
+For a newly authorized volume, the principal reads the entire admitted Japanese witness in order at the entering freeze. A separate page reader follows a decision from offer through response and subsequent opportunity to act. Distinguish Kazuya's narration, another person's observable conduct, private information available to the reader and what each party can know. Return chapter/page evidence, a rival explanation and the consequences for agency or the direction of the relationship before seeing the principal's draft.
+
+A distinct reviewer directly reopens the decisive panels. Check speech and thought attribution, the conditions of a transaction, and whether apparent repetition leaves a changed commitment, audience or option. Test the account against ordinary behavior and evidence concerning people outside the central dyad. Give each participant the Japanese page route and bounded prior state their assignment needs. Record previous exposure and replace a prospective reader when later information would determine the result.
+
+Use method §10.2 to retain each contribution, locator, challenge and the principal's reason to accept, qualify, reject or defer it. The principal reconciles the reading and affected ledgers once, traces material revisions into existing character homes, and freezes the transaction only after coverage and independent review are accounted for. Route individual interpretive assignments under the workload table above and verify actual page access separately. If the team cannot meet the source-reading standard, hold closure pending a capability or owner decision.
+
+At a future promotion audit, record each assessed person's evidence boundary, qualification outcome and reasons, gaps, next trigger and standalone portrait route in the existing cast/readiness router. Qualifying conduct can be concentrated in one unit. Carry any outstanding individual portrait to the next checkpoint or release gate. First test whether the portrait alone explains the person, then verify diagnostic claims directly against Japanese pages. Keep operational model testing and the historical V040 promotion audit separately bounded.
+
+[Source-reading configurations](../../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading) · [Individual monograph acceptance](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard)
 
 ## 11. Completion and promotion gates
 

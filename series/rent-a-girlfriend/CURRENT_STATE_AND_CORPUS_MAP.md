@@ -4,7 +4,7 @@ artifact_id: RAG_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: corpus_map
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.65"
+version: "1.66"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -72,6 +72,8 @@ V001-V040 were admitted and inspected in order. The requested ten-volume block a
 - Exact hashes, package metadata, page-spine counts, anomaly notes, and inspection state live in [RAG_SOURCE_AND_SCOPE_MAP.md](00%20Frameworks%20and%20Methods/RAG_SOURCE_AND_SCOPE_MAP.md).
 
 ## Governing read order
+
+The [standing volume-reading team](00%20Frameworks%20and%20Methods/RAG_SERIES_ARCHITECTURE.md#independent-readings-of-information-and-initiative) applies when a new reading is authorized. V040 is the closed checkpoint. V041 requires separate authorization and an entering freeze.
 
 1. This file.
 2. [RAG_ANALYTICAL_METHOD.md](00%20Frameworks%20and%20Methods/RAG_ANALYTICAL_METHOD.md).

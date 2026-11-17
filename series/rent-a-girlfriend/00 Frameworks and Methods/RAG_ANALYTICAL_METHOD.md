@@ -4,7 +4,7 @@ artifact_id: RAG_ANALYTICAL_METHOD
 artifact_type: analytical_method
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -81,7 +81,7 @@ The analytical `RAG_SOURCE_AND_SCOPE_MAP.md` holds public-safe witness identifie
 
 Before V001, the exact current entrypoint must identify accepted, current-eligible versions of this method and the architecture; the reconstruction specification must also be accepted as this architecture's required dependency. Verify source reconnaissance, usable page inspection, the required day-one infrastructure, and the applicable repository gate. Only then record `SEQUENTIAL_ANALYSIS_LOCK = OPEN`.
 
-These distributed proposal files remain `draft_noncurrent`. Their existence does not open the gate. A current-eligible bootstrap entrypoint may truthfully record a CLOSED lock while setup is incomplete.
+These were the foundation gates for the distributed proposal. The adopted method and the current source and execution boundary are recorded in the canonical entrypoint. A future volume requires authorization at that boundary.
 
 The canonical source unit is one volume. Chapters and scenes are internal working subdivisions. An interruption mid-volume does not advance the completed-volume high-water mark.
 
@@ -271,6 +271,7 @@ A standalone essay without synchronized state is not a closed volume. A drafted 
 Each `RAG_VNNN_DEEP_READING.md` contains:
 
 - complete authority metadata, exact source witness/coverage, entering and exiting boundaries;
+- [independent reading receipt](RAG_SERIES_ARCHITECTURE.md#independent-readings-of-information-and-initiative) naming assignments, exposure and inspected pages, located divergences, reviewer challenges, dispositions with reasons, and affected ledger/model destinations;
 - a substantive volume thesis, proportional to the material, not a verdict imposed from reputation;
 - an ordered chapter/scene map accounting for the whole narrative volume;
 - close readings of diagnostic scenes with stable evidence IDs;
