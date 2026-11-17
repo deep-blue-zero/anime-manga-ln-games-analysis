@@ -311,7 +311,7 @@ The chapter gathers these wishes to leave a trace. HYPOTHESIS.
 - **`TDH-C043` (new; testimony).** Miyagi's three wishes: a lake with a childhood starry sky; a grave that lasts decades after her death; a once-important person, "something like" a man, unnamed to him. She would go despite possible hurt, and so cannot deny his visit. She knows nothing of her own future (P0086–P0099).
 - **`TDH-C044` (new; OBSERVATION + INFERENCE).** The festival encounter.
   - **The occasion.** It is the first festival in ten years, at the shrine of the prophecy (P0120–P0128).
-  - **The narrator's terms.** He paraphrases the proposal without its condition or retraction (P0129; Ch01 P0087, P0092). He recasts it in commodity terms (P0130–P0131) and prays again (P0134).
+  - **The narrator's terms.** He paraphrases the proposal keeping its no-partner condition but without "having become great", 情けないことに or its retraction (P0129; Ch01 P0087–P0092). He recasts it in commodity terms (P0130–P0131) and prays again (P0134).
   - **Recognition.** A woman climbs the steps, and he recognizes her with joy (P0136–P0142). She looks with hollow eyes (his perception), then seems astonished, and says "…Kusunoki?" (P0145–P0147). That is partial counterevidence at most to Miyagi's "barely remembers."
   - **The comment.** The narrator calls it できすぎた話 and defends hidden connection with a maxim (P0138–P0139). No agency behind the meeting is claimed here.
 - **`TDH-C045` (new; OBSERVATION + INFERENCE).** A public misperception: people in the lounge eye him as he talks to empty air (P0084). It is the first since U06. He welcomes it; perhaps it is better to be remembered as suspicious than not at all (かもしれない). INFERENCE: this continues the memory theme (Ch05 P0059; Ch08 P0091).

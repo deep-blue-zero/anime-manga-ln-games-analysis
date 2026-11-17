@@ -51,7 +51,7 @@ The method and architecture govern the project. The architecture lifecycle is `I
 
 *Bootstrap record (2026-11-07, superseded as current state on 2026-11-16):* the lock was then closed, no sequential execution existed, every frontier was empty, and the next permitted operation was `NONE_AWAITING_RUN_AUTHORIZATION`.
 
-**SEQUENTIAL_ANALYSIS_LOCK = OPEN** from 2026-11-16, after SRC-01–SRC-04 were resolved in the [source register](TDH_SOURCE_REGISTER.md#admission-resolution-2026-11-16), the multi-agent configuration was recorded, and owner authorization was received. Run `TDH-RUN-20261116-U01-U15` is **completed** (2026-11-17) at its terminal boundary. Committed reading high-water mark: **U15** (accepted 2026-11-17). Next candidate and next permitted operation: **NONE_RUN_COMPLETE**. The completion audit (including the end-paratext dispositions), monograph qualification and the retrospective layer follow under the same owner authorization; they admit no further source unit. The synthesis and reconstruction frontiers are **EMPTY**. An OPEN lock is a precondition for this run's admissions, not authority for any other source.
+**SEQUENTIAL_ANALYSIS_LOCK = OPEN** from 2026-11-16, after SRC-01–SRC-04 were resolved in the [source register](TDH_SOURCE_REGISTER.md#admission-resolution-2026-11-16), the multi-agent configuration was recorded, and owner authorization was received. Run `TDH-RUN-20261116-U01-U15` is **completed** (2026-11-17) at its terminal boundary. Committed reading high-water mark: **U15** (accepted 2026-11-17). Next candidate and next permitted operation: **NONE_RUN_COMPLETE**. The completion audit (including the end-paratext dispositions), monograph qualification and the retrospective layer follow under the same owner authorization; they admit no further source unit. The retrospective layer (completion audit, three character monographs and the novel synthesis) is published; the reconstruction frontier is **EMPTY**, and no reconstruction operation is authorized. An OPEN lock is a precondition for this run's admissions, not authority for any other source.
 
 <a id="owner-run-authorization"></a>
 
@@ -105,7 +105,15 @@ All participants are language-model instances and may hold training-derived fami
 | Source identity, limits and admission | [TDH_SOURCE_REGISTER.md](TDH_SOURCE_REGISTER.md) | Bound witness `TDH-JP-01`, admission resolution, `TDH-NORM-v1` locators and the U01–U15 unit map with per-unit states |
 | State, claims and readiness | [TDH_LONGITUDINAL_NOTEBOOK.md](TDH_LONGITUDINAL_NOTEBOOK.md) | Separate named sections for state, claims, form/register, and reconstruction eligibility |
 
-Both supporting records are required day-one infrastructure. At the 2026-11-16 admission they hold source/control facts and empty analytical tables. No character state, narrative claim, reading, checkpoint, monograph or model exists yet.
+Both supporting records are required day-one infrastructure. At the 2026-11-16 admission they held source/control facts and empty analytical tables; they now carry the completed run's records.
+
+| Retrospective layer | Current home | Use |
+|---|---|---|
+| Completion audit and closing gates | [audits/TDH_U15_AUDIT.md](audits/TDH_U15_AUDIT.md) | Coverage, paratext dispositions, reconciliation, contradictions retained, monograph qualification, reconstruction readiness, the six gates |
+| Integrated novel synthesis | [synthesis/TDH_NOVEL_SYNTHESIS.md](synthesis/TDH_NOVEL_SYNTHESIS.md) | The continuous argument about the whole novel, with its retrospective layer and counterreadings |
+| Character monographs | [Kusunoki](studies/TDH_KUSUNOKI_NOVEL_MONOGRAPH.md), [Miyagi](studies/TDH_MIYAGI_NOVEL_MONOGRAPH.md), [Himeno](studies/TDH_HIMENO_NOVEL_MONOGRAPH.md) | Self-contained person-level portraits under initiation §5.5.1 |
+
+No checkpoint, separate specialist study, reconstruction model or reader-facing guide exists.
 
 ## Reading corpus
 
