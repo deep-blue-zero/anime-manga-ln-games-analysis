@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V14 available, none narratively admitted or inspected"
+source_boundary: "At bootstrap, Japanese manga V01–V14 were available before narrative admission. CURRENT_STATE_AND_CORPUS_MAP.md owns the live reading boundary."
 canonical_home: series/watayuri/00 Frameworks and Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md
 ---
 
@@ -54,7 +54,7 @@ The claim ledger uses `PRESERVE`, `STRENGTHEN`, `REVISE`, `DOWNGRADE`, `REJECT`,
 1. Check authorization and current head; verify/admit **one** exact Japanese numbered witness, its pagination/locator convention, and any limitations.
 2. Record the entering state from the previous frozen volume and reproduce only the necessary prior developments; V01 has no narrative entering state.
 3. Inspect the complete admitted mainline volume, both written text and pages/form. Mark any excluded bonus component or missed content explicitly.
-4. Write `WATAYURI_VNN_DEEP_READING.md` with source receipt, synopsis/developments from the previous volume when applicable, close reading, state changes, evidence, alternative readings, and prospective exit state.
+4. Write `WATAYURI_VNN_DEEP_READING.md` with source receipt, brief inherited context when applicable, the current volume’s story synopsis under the method’s completed volume contract, close reading, state changes, evidence, alternative readings, and prospective exit state.
 5. Update every **materially affected** cumulative ledger; add/revise claims and adjudicate predictions, leaving no fabricated zero-change entry.
 6. Reassess character evidence density, relationship synthesis need, and reconstruction readiness if the evidence bears on them.
 7. Advance the witness's inspection state, update the sole current entrypoint, freeze the volume endpoint, and identify the next candidate operation without automatically authorizing it.
