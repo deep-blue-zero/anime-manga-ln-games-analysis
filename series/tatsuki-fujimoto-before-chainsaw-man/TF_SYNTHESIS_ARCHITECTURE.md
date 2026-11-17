@@ -4,7 +4,7 @@ series: tatsuki-fujimoto-before-chainsaw-man
 artifact_id: TF_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: TF-G1
-version: "1.1"
+version: "1.2"
 status: canonical
 authority_scope: "INITIAL available-subset architecture and derived-use pathway only"
 source_boundary: "Japanese 藤本タツキ短編集 22-26 only; 17-21 absent; no narrative admission or inspection"
@@ -82,15 +82,25 @@ Narrative, covers, creator comments, notes, jokes and previews have separate rol
 | Audio/adaptation | Excluded | Not applicable |
 | Local incidental observation | Reading only | No unnecessary persistent home |
 
+### Independent reading within one mapped story
+
+For each future authorized reading of one admitted story in 22–26, the principal verifies the locked witness and the Japanese page-inspection route for each assignment, reads the full unit, and owns its single source-facing interpretation. Give a separate page reader the mapped span for this story in the bound 22–26 witness. Ask how the arrangement of a silent beat, a caption or an intervening reaction changes the causal account of a named participant’s choice. Require story-qualified Japanese wording or panel coordinates, a rival explanation and any ordinary behavior that changes the apparent motive.
+
+A third reader directly reopens diagnostic pages from that same story and checks speaker, event order and motive. Challenge comparisons that rely on the author's later work or a character in another story. Preserve consequential differences for the later subset synthesis, beyond the story-local transaction. The specialist forms an account in a separate context before seeing the principal’s draft. Where practicable the reviewer inspects the evidence before seeing either account. Record prior exposure, freeze predictions before revealing the outcome and identify any findings that lose independent or prospective credit after exposure.
+
+Use the story reading’s ledger-update manifest, with links into its work-qualified state and claim histories to record participants, assignments, actual access and horizon, located observations, alternatives and review challenges. The principal records the reason to adopt, qualify, reject or leave each material finding open, preserves diagnostic evidence in the reading, and reconciles the shared records once. Check coverage, findings and cumulative state before closing the transaction. Interpretive roles start at `SUBSTANTIVE_ANALYSIS` and escalate individually for difficult or propagation-sensitive judgments. The standing team has distinct specialist and reviewer contexts. Record a capability blocker at the entrypoint and hold acceptance and frontier advance if the required access or independence is unavailable. [Source-reading policy](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading)
+
 ## 5. Substantive study acceptance
 
 Each story reading must explain observed actions, knowledge, relationships, language and form through full causal prose. A collection synthesis compares those arguments, not merely their topic labels. It should say when apparently similar features serve different functions or fail to support a proposed unifying claim.
 
-An independent character/relationship/form specialist is earned by a distinct question that needs more sustained evidence than the full reading or integrated subset synthesis can contain. If no extra specialists are needed, the role-gap review names the substantial accepted sections carrying their responsibilities. A short story can support nuanced literary interpretation without supporting a general character simulator.
+An independent relationship or form study is earned by a distinct question that needs more sustained evidence than the full reading or integrated subset synthesis can contain. If no extra specialists are needed, the role-gap review names the substantial accepted sections carrying their responsibilities. A short story can support nuanced literary interpretation without supporting a general character simulator.
 
 A monograph must preserve source-local development, self-report/behavior distinctions, ordinary/crisis contrast, relationship conditioning, counterevidence and uncertainty. A comparison must preserve each story's identity, narrative assumptions and noncomparable elements. Shared authorship is a selection principle, not proof of a common fictional world or the creator's personal beliefs.
 
 No universal word ceiling applies. Check inferential steps, explanatory mechanisms, representative and disconfirming evidence, named subjects, temporal distinctions and scope limits. A tidy matrix or shortened summary is not a replacement for full reading/synthesis prose. Transferred versions must be compared for lost reasoning before acceptance.
+
+At character and specialist readiness, record each assessed person in the work-qualified subject records of the story state ledger. Assess differentiated behavior across contexts or within a concentrated sequence, including supporting characters and counterexamples. Record identity, source boundary, outcome, rationale, gaps, next review trigger and the portrait path once it exists. A qualified subject earns a standalone `studies/TF_<story>_<subject>_MONOGRAPH.md`. Carry outstanding portraits through synthesis and release reviews. Reassess on material evidence changes. Check the portrait alone for a usable account of the person, then test fidelity separately against diagnostic source evidence. [Individual monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard)
 
 ## 6. Conflict handling and separate gates
 
@@ -144,6 +154,7 @@ Current entry/method/architecture and current indexes permit targeted edits with
 | Version | Date | Change |
 |---|---|---|
 | 1.0 | 2026-11-07 | INITIAL 22–26-only architecture, missing 17–21 control and independent-story reconstruction; no findings |
+| 1.2 | 2026-11-17 | Assigned independent source reading and reconciliation, and the qualification and acceptance route for individual portraits. |
 
 ## 9. Execution, handoff and resumption
 
