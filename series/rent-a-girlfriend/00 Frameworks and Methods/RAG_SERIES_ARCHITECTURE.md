@@ -4,7 +4,7 @@ artifact_id: RAG_SERIES_ARCHITECTURE
 artifact_type: synthesis_architecture
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -229,9 +229,9 @@ Freeze the checkpoint's exact scope. Later checkpoints are new bounded records, 
 
 ## 8. Character and relationship products
 
-Kazuya and Chizuru are the planned central reconstruction targets. Other characters receive independent homes when they have a recurring, evidence-supported analytical responsibility. Supporting figures with limited evidence remain bounded dossiers or routed observations; the number of volumes in the series does not confer evidence density on every person.
+Kazuya and Chizuru are the planned central reconstruction targets. At future promotion reviews, apply the individual qualification rule in §10 to every assessed person. A supporting character can earn a standalone portrait through differentiated conduct within one concentrated sequence. Use a bounded dossier or routed observations while the available evidence remains insufficient.
 
-Models begin before monographs mature. A mature monograph must include the reconstruction account required by `RAG_CHARACTER_RECONSTRUCTION_SPEC.md`, tied to the detailed operational model. It must not be a biography followed by an adjective list.
+A mature portrait explains the person's choices, speech, relationships and contradictions from diagnostic pages. When an operational model exists, integrate its relevant mechanisms and limitations under the reconstruction specification. A person can qualify for a literary portrait while the cast router still records `UNMODELED`.
 
 Relationship specialists own the **interaction system**: reciprocal and asymmetric knowledge, complementary or conflicting incentives, recurring feedback, negotiated boundaries, shared history, and conditions that sustain or disrupt the relationship. They do not merely paste two character profiles together.
 
@@ -313,7 +313,7 @@ At a future promotion audit, record each assessed person's evidence boundary, qu
 
 **Synthesis-readiness gate:** exact frozen inputs, target/source scope, substantial evidence coverage, source routes, unresolved obligations, and acceptance criteria supplied. A synopsis alone does not qualify.
 
-**Monograph/model gate:** the reconstruction specification's substantive contracts are met at the claimed scope. Operational capability can remain conditional even when literary synthesis is mature.
+**Monograph/model gate:** apply the portrait-only and diagnostic source checks in §10 at the declared literary boundary. Apply the reconstruction specification's rule, snapshot and validation requirements to each operational model actually claimed.
 
 **Continuous-synthesis gate:** required specialists and major character/relationship arguments are available at compatible boundaries; an architecture/role-gap review identifies and resolves material missing responsibilities; central contradictions are reconciled or explicitly bounded.
 

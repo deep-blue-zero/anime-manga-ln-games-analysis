@@ -4,7 +4,7 @@ artifact_id: RAG_ANALYTICAL_METHOD
 artifact_type: analytical_method
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -246,7 +246,7 @@ Chronology must preserve incompatible anchors as conflicts rather than forcing o
 
 Begin bounded reconstruction as soon as meaningful evidence permits it; do not wait until the final block. Capture ordinary conduct as carefully as crisis behavior: conversational openings, listening, small preferences, humor, politeness, apologies, work habits, use of money and time, and giving or receiving help.
 
-For each active substantial character, maintain the evidence/state ledger and working operational model defined by the reconstruction specification. Minor figures can remain in the cast router with links to local evidence until a separate artifact has a real responsibility. Do not manufacture a monograph for every name.
+Maintain the character evidence/state ledger for each active substantial subject. At future reviews, assess individual portrait qualification from the represented conduct and operational model readiness from evidence for supported extrapolation. Keep the cast router linked to the appropriate homes, including for a qualified portrait whose subject remains `UNMODELED`.
 
 Every consequential model rule must state its applicable source state and relationship conditions, supporting observations, counterevidence or an explicit coverage gap, likely alternatives, and confidence. The model should explain behavior under specified pressures, not reduce the person to adjectives or a clinical label.
 
@@ -271,6 +271,7 @@ A standalone essay without synchronized state is not a closed volume. A drafted 
 Each `RAG_VNNN_DEEP_READING.md` contains:
 
 - complete authority metadata, exact source witness/coverage, entering and exiting boundaries;
+- a clearly labeled **current-volume story synopsis** directly after the witness and brief entering context, before the thesis, scene map and ledgers. Describe the opening situation, participants and stakes, consequential choices, physical actions, shifts in what can be known, and the state at volume end. Distinguish an observed exchange from Kazuya’s inference or another person’s report. Cite retrievable page or evidence IDs where an event turns on a disputed detail. Finalize this unit-end account after freezing applicable forecasts, withhold it from earlier-horizon readers, and exclude later volumes. [Sequential-reading contract](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#53-sequential-reading-contract);
 - [independent reading receipt](RAG_SERIES_ARCHITECTURE.md#independent-readings-of-information-and-initiative) naming assignments, exposure and inspected pages, located divergences, reviewer challenges, dispositions with reasons, and affected ledger/model destinations;
 - a substantive volume thesis, proportional to the material, not a verdict imposed from reputation;
 - an ordered chapter/scene map accounting for the whole narrative volume;
