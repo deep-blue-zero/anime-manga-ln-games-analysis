@@ -1,0 +1,48 @@
+{
+  "schema": "konosuba.cohort47.source-safe-original-firsts-seal.v1",
+  "sealed_utc": "2026-10-25T12:05:30.829868+00:00",
+  "private_complete_seal_sha256": "ddcb8961cf73790477ece3c5aa16d3a4c890704f4646fc36ef3c49a129a028cc",
+  "exact_inputs": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_EXACT_INPUT_FREEZE_01.json",
+    "sha256": "ef921711f14d3d76ba7644252495d391e0bc5b96c98b3586039b69b73bfe78e3"
+  },
+  "pins": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_A1_FIRST_01.md",
+      "bytes": 787,
+      "sha256": "f88926e7309aeec8787c5d876413f5122c86882ed7b9777c6ffb5cf610dbc851"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_A2_FIRST_01.md",
+      "bytes": 717,
+      "sha256": "8d353f4b6710e477c955c0c27afd7e4c7cd6848860a6d3c9a6e7d169d4521e9b"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_B1_FIRST_01.md",
+      "bytes": 779,
+      "sha256": "55cc710122f86046164755d775acf51234c32811c38c64bd2f13ddd19ff8063c"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_B2_FIRST_01.md",
+      "bytes": 771,
+      "sha256": "a82369c00b640de830db32a5e7cad4ad03e3396ac91b568574b6a7b08d947999"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEIDEL_ORIGINAL_FIRSTS_BUNDLE_01.json",
+      "bytes": 8907,
+      "sha256": "ad6bf8dade4d64c2886538fc7fdde01a2ab8f9ce9f98438a20e1fa8e3a62d095"
+    }
+  ],
+  "raw_original_firsts": 4,
+  "dependent_pairs": 2,
+  "first_ordinal": 1,
+  "direct_root_prose_authored_once": true,
+  "programmatic_prose_template": false,
+  "feedback_before_seal": false,
+  "post_feedback_repair": false,
+  "source_known_same_informed_root": true,
+  "all_inputs_rules_and_earlier_cases_visible": true,
+  "independent_observation_count": null,
+  "no_accuracy_grade_or_confidence_gain": true,
+  "not_any_final_StageD_successor": true
+}

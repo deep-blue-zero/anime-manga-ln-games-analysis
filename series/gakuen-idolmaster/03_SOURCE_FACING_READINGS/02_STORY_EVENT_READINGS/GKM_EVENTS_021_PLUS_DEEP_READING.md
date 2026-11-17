@@ -12,12 +12,17 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-23'
+version: "1.1"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15 corrections (GKM-SAA-030, 104, 156, 270, 271, 273; HSCA-028, HSCA-108) applied by targeted edit with A1 locators, using the REVISE, STRENGTHEN, PRESERVE and OPEN transitions and keeping earlier wording recoverable."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM EVENTS 021+ DEEP READING
+
+> **Revision record — v1.1, 2026-11-15 (source-to-analysis audit corrections).** First versioned revision; the text before this date, including the 2026-11-12 Source Lock 1.1 pointer at the end, counts as v1.0. Dated notes mark each change: §1.3 and §8 "branch-gated" defined as continuity gating, with Event 029 main-01 choice-invariant (GKM-SAA-273, PRESERVE gating, REVISE terminology); §1.3 the Event 024 culture festival linked to Event 028, with the dating tension left OPEN (GKM-SAA-270); §2.1 boundary condition on Rinami's protective command (GKM-SAA-271, STRENGTHEN); §2.4 and §10 Tsubame's E021 transition relabelled from REVISE to STRENGTHEN (origin datum) (HSCA-108); §2.5 the observation-deck memory reattributed to Tsubame (GKM-SAA-030, REVISE); §3 Sena's unspecified help with Kotone's work load (GKM-SAA-156, STRENGTHEN); §5.4 the `ENDLESS DANCE` commons arises from competing possessive claims (HSCA-028, STRENGTHEN); §10 and §18 owner-policy note on core integration (GKM-SAA-104). Earlier formulations stay in place beside each note.
 
 ## 0. Scope, method, and principal finding
 
@@ -118,6 +123,8 @@ The safest bounded relation is:
 
 No stronger merge with every character route is required.
 
+*Event 024's culture festival and Event 028 — 2026-11-15 (GKM-SAA-270; STRENGTHEN link, OPEN date).* Hidden narration dates Event 024's culture-festival planning flashback to late September (`――9月下旬。`, `adv_event_024_main-02` L4), and the concept is settled a few days later (`――数日後。`, L175). In Source Lock 1.1 Event 028, Ume says the mystery event has been brushed up further "since then" (`adv_event_028_main-03` L203–L214). Inference: the Event 024 project and the Event 028 festival are most economically one festival. Event 028 places that festival in the week after the career forms are handed out and before Rinami's September exam (`adv_event_028_main-01` L9, L35–L43; `adv_event_028_main-05` L522). Either the exam falls at the very end of September or one of the datings is loose; the date stays OPEN. See the Event 028 continuity paragraph of the Source Lock 1.1 supplement.
+
 ### Event 029 continuity gate
 
 The internal order of Event 029 is simple and strong:
@@ -132,6 +139,8 @@ What is **not** established is whether Asari's idol debut belongs in the ordinar
 - institutional comedy and producer pedagogy;
 
 but not for an unqualified statement such as “Asari became a working idol during the main first-year chronology.”
+
+*Terminology note — 2026-11-15 (GKM-SAA-273; PRESERVE gating, REVISE terminology).* In this reading "branch", "branch-specific" and "branch-gated" mean **continuity gating**: Event 029's premise is a possibility space with no bridge to baseline chronology. They do not mean player-choice divergence. Event 029 main-01 contains two cosmetic choice groups whose branch groups are empty (`adv_event_029_main-01` L97–L100, L107–L110). Asari's responses are shared by all options, so every reading of the part is choice-invariant.
 
 ---
 
@@ -158,6 +167,8 @@ Rinami ends the deadlock by forbidding both student-council work. When Tsubame t
 This is one of the clearest examples in the corpus of Rinami's hospitality becoming **coercive enough to protect the recipient from her own refusal**. Her normal preference for reversible care is not an absolute prohibition on command. When two high-status peers are locked into reciprocal self-sacrifice, Rinami uses formal access and social authority to remove their option to continue.
 
 **STRENGTHEN — Rinami:** care includes knowing when consent is distorted by role obligation and exhaustion. She can impose a temporary boundary in order to restore later agency.
+
+**Boundary condition — 2026-11-15 (GKM-SAA-271, STRENGTHEN).** In Event 022 Rinami does not command the feverish, overtrained Mao to rest. Speaking to Mao while away (`明日には帰るから`), she says that because she shares the feeling she cannot tell Mao not to overdo it, and asks only that Mao keep warm (`adv_event_022_main-03` L11–L32). In these events, then, Rinami's protective command applies to council or duty overwork (`adv_event_021_main-01` L294–L316), not to the final-year idol ambition she shares. Alternative: distance, Mao's report that she is already better (L19) and Kotone's nursing may explain the restraint.
 
 **STRENGTHEN — Sena/Tsubame:** both possess strong duty reflexes that can become mutually reinforcing overwork rather than healthy professionalism.
 
@@ -212,6 +223,8 @@ This makes her present recovery in Event 021 more significant. The later Tsubame
 
 **REVISE — Tsubame:** heroic rivalry is not an uninterrupted trait. It has a historical failure state in which admiration becomes immobilizing because the opponent appears complete.
 
+**Relabelled 2026-11-15 (HSCA-108): STRENGTHEN (origin datum) — Tsubame.** The REVISE label above (v1.0) is retained for the record but no longer governs. The Tsubame core never claimed an uninterrupted heroic rivalry. Its thesis begins from the defensive `学園No.2` identity (core §1–§2) and records, in Dear 002, the same failure to imagine surpassing Sena (core §3), with admiration hardening into a wall (core §5). What Event 021 adds is a dated, event-level origin for that defensive state (`勝てるビジョンがない`, `完成した`, `adv_event_021_main-04` L230–L235). It also shows Tsubame at that moment calling `学園No.2` worthless (L181), the same label the core later shows becoming a refuge. Event 021 is modular, so this is a continuity-compatible antecedent, not a sequenced fact.
+
 **STRENGTHEN — Sena:** becoming Prima Stella can isolate the winner and demoralize the nearest rival simultaneously; supremacy produces relational externalities in both directions.
 
 ## 2.5 The observation deck: reachability replaces childhood impossibility
@@ -219,6 +232,8 @@ This makes her present recovery in Event 021 more significant. The later Tsubame
 The event's opening childhood memory has young Sena point to the evening's first star and suggest that tall Tsubame might reach it. Tsubame says it is impossible.
 
 At the observation deck years later, Sena reminds her of the story. Tsubame says she has changed. She formally renews the vow to surpass Sena while they are still enrolled.
+
+**Attribution correction — 2026-11-15 (GKM-SAA-030, REVISE).** The sentence "Sena reminds her of the story" (v1.0, above) gives the memory to the wrong character. The opening childhood memory is Tsubame's dream as she sleeps in the student-council room (`adv_event_021_main-01` L12–L35, waking at L45). At the observation deck Sena points out the first star and recalls only that Tsubame taught her the word (`昔、燕が教えてくれたのよね`, `adv_event_021_main-05` L244). Tsubame recites the exchange about tall Tsubame reaching the star and her own answer that it was impossible (L258–L265). Sena says she does not remember that much (`そこまでは覚えていないけれど`, L274). The memory that structures Tsubame's dream and her inner recollection after the H.I.F. defeat (`adv_event_021_main-04` L340–L353) is faint for Sena. Tsubame's renewed vow and the reachability reading that follows are unaffected.
 
 The language is structurally the opposite of her H.I.F. collapse:
 
@@ -338,6 +353,8 @@ On their recovery outing, Kotone explains that she has long experience caring fo
 
 Mao is pleased rather than correcting the category back to hierarchy.
 
+**Sena's help with Kotone's work load — 2026-11-15 (GKM-SAA-156, STRENGTHEN).** At the start of the outing Kotone tells Mao that she has been cutting her part-time shifts little by little because Sena has helped her in various ways (`星南会長に、いろいろ助けてもらって`, `adv_event_022_main-04` L61–L68). Mao notes that Kotone now keeps the dorm curfew (L76). §1.3 uses the line as a continuity basis; it also belongs in the Event 022 analysis. In event continuity Kotone accepts unspecified help from Sena that lets her reduce the job load that Events 001, 003, 005, 008, 009 and 010 make a recurrent Kotone motif. Tentatively, this is the first explicit easing of that load in the event corpus. The help is unspecified: do not infer money, debt or acceptance of Sena's production. Counterevidence: in D-KOTONE the material relief comes through the Producer, and other events still show Kotone at part-time work (for example the fast-food restaurant in Event 017).
+
 This should be promoted for Phase 6. Cross-year relation in Gakumas is not exhausted by mentor/junior language. Mao/Kotone is a clear case where asymmetrical age and institutional seniority coexist with horizontal friendship.
 
 ## 3.7 Kotone argues for a wider princehood; Mao uses Kotone to face Sena
@@ -365,6 +382,7 @@ Kotone does not rescue Mao from the H.I.F. problem. She gives Mao enough embodie
 - **Mao ↔ Kotone — PROMOTE:** cross-year friendship with reciprocal care history; Kotone explicitly experiences Mao as an older friend.
 - **Mao ↔ Sena — STRENGTHEN:** Mao's avoidance of Sena's live demonstrates that rivalry can become painful enough to produce evasion, while Sena's ticket functions as an invitation back into relation.
 - **Mao ↔ dorm ensemble — STRENGTHEN:** Mao is not merely dorm administrator/caretaker; the dorm can collectively care for her.
+- **Sena ↔ Kotone — STRENGTHEN (event-scoped; added 2026-11-15, GKM-SAA-156):** Kotone credits Sena with unspecified help that lets her cut part-time shifts (`adv_event_022_main-04` L61–L68); see §3.6. Keep the help unspecified.
 
 ### Japanese-register evidence
 
@@ -583,6 +601,8 @@ The succession model becomes:
 That is more generative than:
 
 `originator withdraws -> juniors inherit empty slot`.
+
+**Contested possession — 2026-11-15 (HSCA-028, STRENGTHEN; narrows the "commons" mechanism).** The plural ownership arises from competing claims, not from relinquished sharing. Misuzu apologizes and vows to make the legendary song hers alone (`わたしだけのものにしてみせます`, `adv_event_024_main-04` L368). Ume vows to protect it from her (L372). After the live Sena says that she had thought of the performance as a succession ritual but no longer intends to let the song go (`adv_event_024_main-05` L410–L414). Misuzu's stated motive is the very monopoly Sena wanted to end. Inference: it fits the possessive gift logic Misuzu states in Event 023 (§4.3). The circulation thesis survives, but the commons is produced through rival possessive claims. Alternative: the possession language is playful banter, and the outcome is common either way.
 
 ## 5.5 Ume and Misuzu de-monopolize the song in different ways
 
@@ -922,6 +942,8 @@ The trio does not solve `GO MY WAY!!`. They join its ongoing argument.
 **Conflict:** Asari regards herself as the Producer's teacher whose job is to train him to produce idol students, yet the Producer insists on making her the idol instead  
 **Continuity rule:** analyze internally; do not merge the idol debut into baseline biography without an explicit bridge
 
+*2026-11-15 (GKM-SAA-273):* "branch" in this section means continuity gating, not player choice. Event 029 main-01's two choice groups have empty branches, so the part is choice-invariant (§1.3).
+
 ## 8.1 The branch reverses the normal pedagogy but preserves its ethics
 
 The Producer is delighted to finally produce Asari. Asari repeatedly argues that the assignment makes no institutional sense:
@@ -1176,6 +1198,8 @@ This formulation should constrain later character-simulation work. “More matur
 
 # 10. Phase-3 claim transition matrix
 
+> **2026-11-15 (owner policy, source-to-analysis audit GKM-SAA-104):** event deltas are now integrated into the character cores as dated, attributed additions; see each core's 'Phase-4/5 integration pointers' section.
+
 | character | transition | Events 021+ evidence | current Phase-4 formulation |
 | --- | --- | --- | --- |
 | Saki | STRENGTHEN | E026 accepts representative pressure, studies predecessors, gives Ume/Kotone a non-final answer rather than pretending certainty | competitive optimization increasingly includes epistemic humility and lineage-conscious leadership |
@@ -1185,12 +1209,12 @@ This formulation should constrain later character-simulation work. “More matur
 | Lilja | PRESERVE | no major new central evidence in final tranche | Phase-3/earlier Phase-4 model remains current |
 | China | STRENGTHEN | E025 explicitly names her next student-council president; she accepts accountability, refuses help when ownership matters, organizes collective repair | accountable inheritance becomes institutional receptive authority |
 | Hiro | STRENGTHEN | E023 accurately mediates Temari/Misuzu without taking over; E025 identifies herself as next-council candidate and respects China's refusal | resistant form coexists with sophisticated relational interpretation and boundary-respecting help |
-| Rinami | STRENGTHEN | E021 forcibly removes Sena/Tsubame from work/training when reciprocal duty blocks self-care | reversible hospitality includes protective command when recipients' role obligations make ordinary consent unreliable |
+| Rinami | STRENGTHEN | E021 forcibly removes Sena/Tsubame from work/training when reciprocal duty blocks self-care | reversible hospitality includes protective command when recipients' role obligations make ordinary consent unreliable; *boundary (2026-11-15, GKM-SAA-271): she does not command Mao's rest in E022 because she shares the final-year ambition (`adv_event_022_main-03` L21–L32); see §2.1* |
 | Sumika | PRESERVE | no major new central evidence in final tranche | Phase-3/earlier Phase-4 model remains current |
 | Ume | STRENGTHEN | E024 helps return a monopolized song to circulation; E025 proposes process tooling; E026 internalizes predecessor language into direct self-address | reciprocal propulsion now includes institutional design, cultural permission-giving, and autonomous self-motivation |
 | Misuzu | STRENGTHEN | E023 states possessive gift logic; E024 grows into producer relation and repertoire innovation; E025 effort becomes easy when absorbed into chosen attachment | centripetal sovereignty can generate highly reliable labor inside selected bonds without becoming universal industriousness |
 | Sena | STRENGTHEN / REVISE | E021 imperfect/private self strengthens Tsubame's fandom; E024 producer project culminates in learning from juniors and rejecting one-way song relinquishment | generative supremacy matures toward circulatory legacy rather than successor replacement or self-erasure |
-| Tsubame | STRENGTHEN / REVISE | E021 documents childhood fandom, post-H.I.F. collapse, and renewed belief that Sena is reachable | heroic rivalry has a historical despair state; mature form depends on intimate knowledge and recovered counterfactual imagination |
+| Tsubame | STRENGTHEN / REVISE *(REVISE relabelled STRENGTHEN, origin datum, 2026-11-15, HSCA-108; see §2.4)* | E021 documents childhood fandom, post-H.I.F. collapse, and renewed belief that Sena is reachable | heroic rivalry has a historical despair state; mature form depends on intimate knowledge and recovered counterfactual imagination |
 
 ### No wholesale Phase-3 rejection
 
@@ -1500,6 +1524,8 @@ Preferred acquisition remains whole-event or whole-part footage where possible. 
 
 # 18. Canonical routing instructions
 
+> **2026-11-15 (owner policy, source-to-analysis audit GKM-SAA-104):** event deltas are now integrated into the character cores as dated, attributed additions; see each core's 'Phase-4/5 integration pointers' section.
+
 ## Promote immediately to mutable ledgers
 
 ### Character State Ledger
@@ -1697,3 +1723,8 @@ The event pass has generated relationship and side-character questions that Phas
 - Events 013–020 dedicated tranche: 40 / 2,570.
 - Events 021+ dedicated tranche: 34 / 1,858.
 - **Total dedicated event source boundary: 136 / 8,507.**
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+The [Source Lock 1.1 numbered-event supplement](GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md) reads all fifteen new scripts for Events 027, 028 and 030. This release's count and its recorded absence of 027–028 describe Source Lock 1.0. The new reading gives the campaign sequence, the last school festival and the relevant character and ledger consequences.

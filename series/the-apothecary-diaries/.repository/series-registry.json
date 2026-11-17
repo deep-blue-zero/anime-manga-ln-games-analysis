@@ -1,0 +1,16 @@
+{
+  "series_id": "the-apothecary-diaries",
+  "stable_slug": "the-apothecary-diaries",
+  "canonical_title": "The Apothecary Diaries",
+  "media": [
+    "LIGHT_NOVEL"
+  ],
+  "repository_path": "series/the-apothecary-diaries/",
+  "canonical_entrypoint": "series/the-apothecary-diaries/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_REVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261107",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Japanese light-novel project for 薬屋のひとりごと, with a separate simplified Chinese volume 15 witness; adaptations and cross-language comparison remain distinct evidence scopes."
+}

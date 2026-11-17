@@ -1,0 +1,1843 @@
+{
+  "schema": "PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_PUBLIC_V1",
+  "authority": {
+    "artifact_id": "PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_PUBLIC_V1",
+    "scope": "P3-CHAR-M028",
+    "generation": "PUBLIC_FORM_V1",
+    "status": "canonical",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": false,
+    "private_body_review": "ROOT_ACCEPTED_C_ONLY_WITH_LIMITS_20261104",
+    "public_review": "CURRENT_ELIGIBLE_METADATA_PROPOSED_20261104;PRIOR_PUBLIC_C_FORM_ROOT_ACCEPTED_WITH_LIMITS;FINAL_DERIVATIVE_QA_AND_ROOT_BYTE_ACCEPTANCE_REQUIRED_BEFORE_INSTALLATION"
+  },
+  "prepared": "2026-11-04",
+  "historical_record_contract": "Each dated original record is preserved at its original author/reader/reviewer grade and stage. Current public wrapper is a separate draft; pending/next and first-person historical text is not promoted to current instruction or transferred attendance. Locator tokens replace unnecessary local paths with declared provenance/source IDs; original field names remain as dated schemas.",
+  "records": [
+    {
+      "record_id": "PLANA-ORIGINAL-BODY-MAP-20261104-V1",
+      "original_filename": "PLANA_COMPLETE_CONNECTED_PARAGRAPH_EVIDENCE_MODE_RIVAL_AND_ELEVEN_DIMENSION_MAP_V1.json",
+      "original_file_bytes": 63382,
+      "original_file_sha256": "be7708bc84759068db21434c553c1204e4b4dccbefe602d233e614455431b2af",
+      "original_author_or_reader": "/root/recover_yuzu_saved_review",
+      "dated_original_status": "HISTORICAL_ORIGINAL_STAGE_NOT_CURRENT_WRAPPER_STATUS",
+      "content": {
+        "schema": "PLANA_COMPLETE_CONNECTED_PARAGRAPH_EVIDENCE_AND_DIMENSION_MAP_V1",
+        "component_refs": [
+          {
+            "C_path": "provenance-locator:PLANA-LOC-75b1184c5bc037ab793b",
+            "bytes": 15717,
+            "sha256": "e2d2ab4871ff9f6bd51f1091d6932c72864f1a81bb4d47f5e2df743fdc6ed340"
+          },
+          {
+            "C_path": "provenance-locator:PLANA-LOC-70de4c0ed1fdedb09bce",
+            "bytes": 22322,
+            "sha256": "662a5efbc906dcc12d6a70247dab59039b4bff25878b07e943e54669f327f6f0"
+          },
+          {
+            "C_path": "provenance-locator:PLANA-LOC-eed9e1ab0cc79bb42f07",
+            "bytes": 33043,
+            "sha256": "80fd1c502f3632511bf4b1c4ce042fb74e1789d520171c0ada9aacb38455a355"
+          }
+        ],
+        "body": {
+          "C_path": "provenance-locator:PLANA-LOC-75b1184c5bc037ab793b",
+          "bytes": 15717,
+          "sha256": "e2d2ab4871ff9f6bd51f1091d6932c72864f1a81bb4d47f5e2df743fdc6ed340"
+        },
+        "physical_lines": 83,
+        "literary_paragraphs": 25,
+        "paragraphs": [
+          {
+            "id": "PLANA-P001",
+            "section_start": "A name offered and accepted",
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [2134, 2699],
+                "value_sha256": "725b33d98d9896496256b6456ae15c75bbe69e50f743f02fc661eccdad307fda",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Name/company is the thesis-bearing action; it is not reduced to proof of technical capacity or treated as acquittal of every judgment.",
+            "evidence": [
+              {
+                "source": "S09",
+                "physical_lines": [
+                  28,
+                  28
+                ]
+              },
+              {
+                "source": "S08",
+                "physical_lines": [
+                  42,
+                  42
+                ]
+              },
+              {
+                "source": "S02",
+                "physical_lines": [
+                  181,
+                  183
+                ]
+              }
+            ],
+            "dimensions": [
+              1,
+              5,
+              8,
+              10
+            ],
+            "stronger_claim_limit": "The argument concerns represented choices and judgments, not a general personhood theorem.",
+            "body_physical_lines": [
+              27,
+              27
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [2118, 2729],
+                "value_sha256": "e40a2aa77e563beb0600a474d60d34c9769c6e18afbbe8d47e7f15138867041c",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 611,
+            "paragraph_sha256": "18cb4acdb7cd1625eb8af365617aa45302f48e0968403aca40a5bb1ea46aa8ea",
+            "readiness_rival_routes": [
+              "PLR01",
+              "PLR04",
+              "PLR05"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P002",
+            "section_start": null,
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [2747, 3290],
+                "value_sha256": "52b2e64d4892130a528e290918f29c32f0e77451bc9120c8ce53d3b53786e5fe",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Connect an established crisis participant to the later accepted name without merging subjects or inventing a fresh person.",
+            "evidence": [
+              {
+                "source": "S08",
+                "physical_lines": [
+                  30,
+                  34
+                ]
+              },
+              {
+                "source": "S09",
+                "physical_lines": [
+                  18,
+                  28
+                ]
+              }
+            ],
+            "dimensions": [
+              2,
+              4,
+              6,
+              8
+            ],
+            "stronger_claim_limit": "Counterpart identification remains actor testimony; working-name resolution does not establish software lineage.",
+            "body_physical_lines": [
+              29,
+              29
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [2731, 3313],
+                "value_sha256": "68bc769fbd1b7292f6a2c877f30df9e35a4580e60d4ad01844ff2cb8a86ecf40",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 582,
+            "paragraph_sha256": "7fc2edeaff8b576c7a2b1ca8b932861b445405ecbe8f86f2b2322037ad90d4dd",
+            "readiness_rival_routes": [
+              "PLR02",
+              "PLR04"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P003",
+            "section_start": null,
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [3331, 3826],
+                "value_sha256": "a41a392bd6f3107f39995cc0badbb34b7e242c0861f071623d9b236f1345c9b7",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Keep Arona's coining separate from Plana's acceptance and interpret their relation rather than transplanting a hobby.",
+            "evidence": [
+              {
+                "source": "S09",
+                "physical_lines": [
+                  28,
+                  28
+                ]
+              }
+            ],
+            "dimensions": [
+              5,
+              8,
+              9
+            ],
+            "stronger_claim_limit": "No astronomy preference, self-coining, identity merger or origin theory is inferred.",
+            "body_physical_lines": [
+              31,
+              31
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [3315, 3835],
+                "value_sha256": "069f63b9736e3b5a41cdaeecd6a29ba5030f68db9ffdeefb2ce5bbe98b6268a7",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 520,
+            "paragraph_sha256": "3a98438136cb180cbca01976f27b4cfb095ecbe405c05bc1de4567950b17adae",
+            "readiness_rival_routes": [
+              "PLR06"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P004",
+            "section_start": null,
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [3853, 4369],
+                "value_sha256": "59ccd9e9288989b26935d7b60765953e193dac569632401753c21715b17bb010",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Treat qualified acceptance as sufficient positive agency without upgrading its emotional intensity.",
+            "evidence": [
+              {
+                "source": "S09",
+                "physical_lines": [
+                  18,
+                  28
+                ]
+              }
+            ],
+            "dimensions": [
+              1,
+              5,
+              9
+            ],
+            "stronger_claim_limit": "This is an interpretation of the maintained written account, not a fresh Japanese-register or performance claim.",
+            "body_physical_lines": [
+              33,
+              33
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [3837, 4381],
+                "value_sha256": "61ee61a4171837779b8536eb50d1682234cb0d448a6cfeee91a6cc3eb990d4e0",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 544,
+            "paragraph_sha256": "1a40f9ba2d6fd5ad604577da2bb780968b7fd492f87fd08554e8fdb6a1cfb2d9",
+            "readiness_rival_routes": [
+              "PLR01"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P005",
+            "section_start": null,
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [4399, 4949],
+                "value_sha256": "612b451e2a4529af8ccd2f87e3193b4625ba5845cb55ea3bdd3ed34f5a708027",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Give hands and address their intrinsic ordinary value and keep their finite relational endpoint.",
+            "evidence": [
+              {
+                "source": "S09",
+                "physical_lines": [
+                  28,
+                  28
+                ]
+              }
+            ],
+            "dimensions": [
+              5,
+              8,
+              9
+            ],
+            "stronger_claim_limit": "No permanent family ontology, permanent availability or audited data integration follows.",
+            "body_physical_lines": [
+              35,
+              35
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [4383, 4958],
+                "value_sha256": "59be84b105ef7fd831e62d7a9f8cdc1f0ce6479e35c46754d57f9b7f48b6503d",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 575,
+            "paragraph_sha256": "6db6bc33147935ea78e1380121592d89ea3a895341dd7cd5e444fdb374809216",
+            "readiness_rival_routes": [
+              "PLR06",
+              "PLR07"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P006",
+            "section_start": null,
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [4976, 5480],
+                "value_sha256": "a6bfa1f6bd2201bae341daa48750e0f5a10e486d3056a021bb705f6e8f5d4fe0",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Distinguish enacted homecoming/routine from an option or a guarantee.",
+            "evidence": [
+              {
+                "source": "S08",
+                "physical_lines": [
+                  38,
+                  42
+                ]
+              },
+              {
+                "source": "S08",
+                "physical_lines": [
+                  51,
+                  51
+                ]
+              }
+            ],
+            "dimensions": [
+              2,
+              5,
+              7,
+              8
+            ],
+            "stronger_claim_limit": "Long-term residence and uninterrupted harmony remain untested.",
+            "body_physical_lines": [
+              37,
+              37
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [4960, 5500],
+                "value_sha256": "9880c1b00a6c0d00866c74a73373d84906029f84ef0d740cae00ade944e9b539",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 540,
+            "paragraph_sha256": "5502e21553866c673f81be9247b7bf55bd8468c4ca2386745be29aaa8e9ee437",
+            "readiness_rival_routes": [
+              "PLR05"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P007",
+            "section_start": "Remaining with others",
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [5544, 6086],
+                "value_sha256": "3fc93352d9d2aa681cf38dffa616226a80f2165624f38503575d2b61a10ca83d",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Preserve private concern as meaningful without treating it as a systems diagnosis.",
+            "evidence": [
+              {
+                "source": "S08",
+                "physical_lines": [
+                  24,
+                  24
+                ]
+              },
+              {
+                "source": "S08",
+                "physical_lines": [
+                  42,
+                  42
+                ]
+              },
+              {
+                "source": "S08",
+                "physical_lines": [
+                  51,
+                  51
+                ]
+              }
+            ],
+            "dimensions": [
+              3,
+              5,
+              8
+            ],
+            "stronger_claim_limit": "No measured sleep causation, settled burden or duty to leave is asserted.",
+            "body_physical_lines": [
+              41,
+              41
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [5528, 6111],
+                "value_sha256": "e2e0fa542eb4a052cf5d32ed85af4e19ba74df9e9758e4fe27a6cd0840871953",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 583,
+            "paragraph_sha256": "32e3e739d523f35784397c1a5e88953251c9b8d9998b3c52c4778fb541341b74",
+            "readiness_rival_routes": [
+              "PLR01",
+              "PLR05"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P008",
+            "section_start": null,
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [6129, 6628],
+                "value_sha256": "8b136a36a9c2a6a06b11ab762a61e3588f447fc90b5596bc06408c81cd2c7424",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Keep two speakers and two interpretations distinct; resist making belonging conditional on output.",
+            "evidence": [
+              {
+                "source": "S08",
+                "physical_lines": [
+                  42,
+                  42
+                ]
+              },
+              {
+                "source": "S08",
+                "physical_lines": [
+                  51,
+                  51
+                ]
+              }
+            ],
+            "dimensions": [
+              3,
+              4,
+              5,
+              8
+            ],
+            "stronger_claim_limit": "Increased power and added load are attributed claims, not measured opposed quantities.",
+            "body_physical_lines": [
+              43,
+              43
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [6113, 6645],
+                "value_sha256": "9a87628be62ac5b3b7e67c85842a16c7cbf0f00c8fab5f209e5262e8dcf6f77f",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 532,
+            "paragraph_sha256": "5d5d9ab718644274184dc51ab59eb48c38aeba8d64ec83280d44372dfc1e61d8",
+            "readiness_rival_routes": [
+              "PLR01",
+              "PLR05",
+              "PLR07"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P009",
+            "section_start": null,
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [6663, 7182],
+                "value_sha256": "bf03506e6a9cba62c5ed7b9b6860ebec4659bacc7652835ce4378ecfaf4aaf94",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Read joint practical care alongside incomplete recollection without assigning all care to Plana alone.",
+            "evidence": [
+              {
+                "source": "S04",
+                "physical_lines": [
+                  68,
+                  72
+                ]
+              }
+            ],
+            "dimensions": [
+              5,
+              7,
+              8
+            ],
+            "stronger_claim_limit": "The city is dream material; neither OS's memory resolves its identity or reality.",
+            "body_physical_lines": [
+              45,
+              45
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [6647, 7194],
+                "value_sha256": "c55a18434bc228670e4484adc58ffc15dd40a6b6796d3771032849be1ff39af1",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 547,
+            "paragraph_sha256": "0e8ee955d2bd29aad5e4b90a3c0e7e312354e665d14757bdb77cf10d8b925619",
+            "readiness_rival_routes": [
+              "PLR07"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P010",
+            "section_start": null,
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [7212, 7805],
+                "value_sha256": "aec1306c3b6868655e1a4d05860afddbdc504ee0b321df5e4a23da67704b9047",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Address institutional role substantively while bounding absent school/club biography.",
+            "evidence": [
+              {
+                "source": "S08",
+                "physical_lines": [
+                  30,
+                  34
+                ]
+              },
+              {
+                "source": "S04",
+                "physical_lines": [
+                  88,
+                  94
+                ]
+              },
+              {
+                "source": "S01",
+                "physical_lines": [
+                  58,
+                  66
+                ]
+              }
+            ],
+            "dimensions": [
+              4,
+              7
+            ],
+            "stronger_claim_limit": "No invented school affiliation, legal office or total system ownership; formal institutional packages remain separate.",
+            "body_physical_lines": [
+              47,
+              47
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [7196, 7839],
+                "value_sha256": "bee79f104415b02b91802dfec46d8e1519403d78f45af1ddb70a1c93456ec884",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 643,
+            "paragraph_sha256": "8a8daef2100346838bcef7542f4304f399f5fe5861ab68f7734d9d2ba0db40be",
+            "readiness_rival_routes": [
+              "PLR01",
+              "PLR08"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P011",
+            "section_start": "Judgment with consequences",
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [7888, 8443],
+                "value_sha256": "1d21ba216e035bceebf69b1d42a92732bd9a3b71051289c1486a04592fea2df6",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Retain the strongest harsh contrary case without inventing an exact target, quotation or implemented act.",
+            "evidence": [
+              {
+                "source": "S02",
+                "physical_lines": [
+                  181,
+                  183
+                ]
+              }
+            ],
+            "dimensions": [
+              6,
+              7,
+              10
+            ],
+            "stronger_claim_limit": "No stronger causal sequence or quotation is used; the named earlier checkpoint remains conditional.",
+            "body_physical_lines": [
+              51,
+              51
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [7872, 8457],
+                "value_sha256": "ede0e1339c739b790cb88ac88391e6c587d0f6716ea4344a2dd3ccc49052bb21",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 585,
+            "paragraph_sha256": "ee61e337792d5f07f59a31fb9ebea4c59ec48a77402b481cd408d94cbb1fe036",
+            "readiness_rival_routes": [
+              "PLR04",
+              "PLR05"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P012",
+            "section_start": null,
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [8475, 9022],
+                "value_sha256": "13c78ef3950029fbdb876a2445795ace82e659879c643706a60edbeb9c3161f1",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Analyze the actual rejection while leaving Plana's unprinted response and global reform open.",
+            "evidence": [
+              {
+                "source": "S02",
+                "physical_lines": [
+                  181,
+                  187
+                ]
+              }
+            ],
+            "dimensions": [
+              2,
+              7,
+              8,
+              10
+            ],
+            "stronger_claim_limit": "Documentary backfill does not place this scene into an invented post-homecoming reform chronology.",
+            "body_physical_lines": [
+              53,
+              53
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [8459, 9036],
+                "value_sha256": "821ffdda327e952b022eaaebccc13ccf67e96c1079289da8684326af0e4e0788",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 577,
+            "paragraph_sha256": "93876edf57656e4388f32203bd6b170d5c29510fab364fdc6d25cb2181ab0593",
+            "readiness_rival_routes": [
+              "PLR05"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P013",
+            "section_start": null,
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [9054, 9601],
+                "value_sha256": "fe0a6f4c39dd30d9fa14f728a6bd51e364932ccff0980a1cbcd363c34e576368",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Keep crisis modes and distributed agency rather than assigning a sole rescue or unlimited capacity.",
+            "evidence": [
+              {
+                "source": "S08",
+                "physical_lines": [
+                  22,
+                  22
+                ]
+              },
+              {
+                "source": "S08",
+                "physical_lines": [
+                  30,
+                  34
+                ]
+              },
+              {
+                "source": "S08",
+                "physical_lines": [
+                  58,
+                  60
+                ]
+              }
+            ],
+            "dimensions": [
+              4,
+              6,
+              7
+            ],
+            "stronger_claim_limit": "No landing reconstruction, casualty census, clinical clearance or measured ceiling.",
+            "body_physical_lines": [
+              55,
+              55
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [9038, 9632],
+                "value_sha256": "7a6c49982e743d3566657dcf487d1ae93b9fa0f2fa5616d4a7d6e6239e0f4da3",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 594,
+            "paragraph_sha256": "055f1c64e377bf641ae81f61591d56b103fda18feac0e27bb234573fe801ec75",
+            "readiness_rival_routes": [
+              "PLR03",
+              "PLR04"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P014",
+            "section_start": null,
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [9650, 10189],
+                "value_sha256": "0f4f7503d0e78af479f725834e20f2dbece34d647873a7adcd82ecd5e0976f90",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Preserve the positive reported outcome at its actual grade, rather than letting uncertainty erase it.",
+            "evidence": [
+              {
+                "source": "S08",
+                "physical_lines": [
+                  22,
+                  34
+                ]
+              },
+              {
+                "source": "S09",
+                "physical_lines": [
+                  22,
+                  30
+                ]
+              }
+            ],
+            "dimensions": [
+              2,
+              6,
+              7
+            ],
+            "stronger_claim_limit": "Safe return is reported; exclusive causation and a complete fate/medical account remain outside.",
+            "body_physical_lines": [
+              57,
+              57
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [9634, 10212],
+                "value_sha256": "c1029a1d6d354a3eb7b740bc9e8f9371585149e29783c3a3c5eb584e165ac5f8",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 578,
+            "paragraph_sha256": "092ccdef5126707dd5b498097d0f212ab3574edbb13ae4f3f7d150707097a8bb",
+            "readiness_rival_routes": [
+              "PLR04"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P015",
+            "section_start": null,
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [10230, 10808],
+                "value_sha256": "3186af1453386cb354abe2dc51b00c3feecaebfddb402f79d1dec3721cbcdfbd",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Apply RPL04 explicitly: later naming does not retroactively settle earlier double-tagged speech.",
+            "evidence": [
+              {
+                "source": "S09",
+                "physical_lines": [
+                  18,
+                  22
+                ]
+              },
+              {
+                "source": "S09",
+                "physical_lines": [
+                  28,
+                  30
+                ]
+              },
+              {
+                "source": "S08",
+                "physical_lines": [
+                  49,
+                  60
+                ]
+              }
+            ],
+            "dimensions": [
+              3,
+              7,
+              9,
+              11
+            ],
+            "stronger_claim_limit": "No definite Prenapates grief, death, lasting loyalty, deletion or completed bereavement arc.",
+            "body_physical_lines": [
+              59,
+              59
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [10214, 10842],
+                "value_sha256": "5d96d7580329b6774a53875e53a6493fced48651645f36ea92a29c181ee36f04",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 628,
+            "paragraph_sha256": "2086c52e1b4126dd112c45d8e32822c1035afe495e6c5243451758d5abcb25a5",
+            "readiness_rival_routes": [
+              "PLR06"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P016",
+            "section_start": "Distinct knowledge, unfinished inquiry",
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [10903, 11422],
+                "value_sha256": "9752121e799cefeef3970e2c0a4fab56c6dac699ed033718ed6d68939212b455",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Develop difference through unequal actual recollection without promoting a numerical identity theory.",
+            "evidence": [
+              {
+                "source": "S04",
+                "physical_lines": [
+                  68,
+                  68
+                ]
+              }
+            ],
+            "dimensions": [
+              3,
+              7,
+              8,
+              10
+            ],
+            "stronger_claim_limit": "No dream identity join, complete memory architecture or universal ignorance rule.",
+            "body_physical_lines": [
+              63,
+              63
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [10887, 11431],
+                "value_sha256": "086bf37a97376e2f4ee7e67719b8f4066a13c564b6fb46dee6423242bf8d11ec",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 544,
+            "paragraph_sha256": "8fcacea18e57af4d6056e9a2e8a9079a51370e8542037d2963ac8bfa91cb6eb7",
+            "readiness_rival_routes": [
+              "PLR02",
+              "PLR03"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P017",
+            "section_start": null,
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [11449, 12013],
+                "value_sha256": "e8dc6d2fbd10338f06d6f08b12b3eb41608b296075632e34028af4987c96cdf8",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Keep Plana's actual hypothesis, Arona's rival and the claimant's unresolved status together.",
+            "evidence": [
+              {
+                "source": "S04",
+                "physical_lines": [
+                  82,
+                  88
+                ]
+              },
+              {
+                "source": "S05",
+                "physical_lines": [
+                  51,
+                  57
+                ]
+              }
+            ],
+            "dimensions": [
+              3,
+              4,
+              8,
+              10
+            ],
+            "stronger_claim_limit": "No infallible identity classifier, proved false claimant, maliciousness or authenticated president.",
+            "body_physical_lines": [
+              65,
+              65
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [11433, 12036],
+                "value_sha256": "09b2534b289db528d194a7d7d5ca4905fe1d44625210fc044040be86766ad824",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 603,
+            "paragraph_sha256": "12d3fb99da17226a295de7d6f62ab98fd6d7cffd00956ba207db59519947a768",
+            "readiness_rival_routes": [
+              "PLR03"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P018",
+            "section_start": null,
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [12054, 12590],
+                "value_sha256": "bf246b4fece009fd7ffaa16861ae8d5a289dccacbead5fd501615c6476346553",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Separate completed connection from unsuccessful inspection with actor/authorization precise.",
+            "evidence": [
+              {
+                "source": "S04",
+                "physical_lines": [
+                  88,
+                  88
+                ]
+              },
+              {
+                "source": "S05",
+                "physical_lines": [
+                  57,
+                  57
+                ]
+              }
+            ],
+            "dimensions": [
+              4,
+              6,
+              7,
+              10
+            ],
+            "stronger_claim_limit": "No sole Plana operation, decoded core, original custody proof or completed authentication.",
+            "body_physical_lines": [
+              67,
+              67
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [12038, 12607],
+                "value_sha256": "584bc4ef20c456ec88303e690656734528afe11821ecb86721249d638f8275a5",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 569,
+            "paragraph_sha256": "29ebb21e0d838274803be700952fc228804d703215ea12446496e537535eb4a8",
+            "readiness_rival_routes": [
+              "PLR03"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P019",
+            "section_start": null,
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [12625, 13171],
+                "value_sha256": "5f3d8e1b5420584f5feca4a9da02877ca9d9d5669a95cba49bef6529253af798",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Give an uncompleted offer positive relational meaning without completing its mechanics.",
+            "evidence": [
+              {
+                "source": "S04",
+                "physical_lines": [
+                  92,
+                  94
+                ]
+              },
+              {
+                "source": "S05",
+                "physical_lines": [
+                  61,
+                  63
+                ]
+              }
+            ],
+            "dimensions": [
+              4,
+              7,
+              8,
+              10
+            ],
+            "stronger_claim_limit": "No app installation, credentials use, classifier result or future claimant response is supplied.",
+            "body_physical_lines": [
+              69,
+              69
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [12609, 13194],
+                "value_sha256": "ae7538ae3db0f8d55a96bba8e909447b898e324215419ecd2ce89f0119c5ce06",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 585,
+            "paragraph_sha256": "4faf976c8db616eb61df22fca60035fcde3a3f42ec0a29d416c9c1fdb1c1a2c9",
+            "readiness_rival_routes": [
+              "PLR01",
+              "PLR03"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P020",
+            "section_start": null,
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [13212, 13781],
+                "value_sha256": "99474b16a927a065a9cd66e8cd43fa6d13d8a4068fbac925b858ff6926e103f9",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Read private confidence as characterization rather than external confirmation.",
+            "evidence": [
+              {
+                "source": "S08",
+                "physical_lines": [
+                  42,
+                  42
+                ]
+              },
+              {
+                "source": "S08",
+                "physical_lines": [
+                  54,
+                  60
+                ]
+              }
+            ],
+            "dimensions": [
+              3,
+              8,
+              9,
+              10
+            ],
+            "stronger_claim_limit": "No authenticated president presence, settled lineage, printed proof or shared Arona knowledge.",
+            "body_physical_lines": [
+              71,
+              71
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [13196, 13801],
+                "value_sha256": "49dababf50a3cff81ee4341a0cea291d2b47206e0c0c44dae2c5a5a4222a03ac",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 605,
+            "paragraph_sha256": "92ae3a3e92460495ca60d4e8bb024b59e122fe4a63d93709699cd05692bbdacc",
+            "readiness_rival_routes": [
+              "PLR02",
+              "PLR03"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P021",
+            "section_start": null,
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [13819, 14388],
+                "value_sha256": "d6ac0220840ccd5fd92173f970d03bcbd88d01ea87b44ca955d6dced0335b817",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Retain the actual collective contribution without stealing another actor's inference or later grief.",
+            "evidence": [
+              {
+                "source": "S07",
+                "physical_lines": [
+                  22,
+                  28
+                ]
+              },
+              {
+                "source": "S07",
+                "physical_lines": [
+                  46,
+                  46
+                ]
+              }
+            ],
+            "dimensions": [
+              2,
+              5,
+              8,
+              11
+            ],
+            "stronger_claim_limit": "No individual Plana S.O.S. speech or inference; the named E001 seam stays conditional.",
+            "body_physical_lines": [
+              73,
+              73
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [13803, 14408],
+                "value_sha256": "12de01c54ea287bda4b55a648eecb6c9ea4e3dfd9511010873b41d944922bed3",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 605,
+            "paragraph_sha256": "80e5bad6a175041b4402562548c5d3f1df653be28aa68a7e3703bf0b2bab3a0f",
+            "readiness_rival_routes": [
+              "PLR07"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P022",
+            "section_start": "What the relation establishes",
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [14460, 15025],
+                "value_sha256": "2d17ae902c09e6cc425ef8fde7fba45f6986d11cb7fedbc7a5b11203fe6b7a51",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Make language/voice a source-sensitive analysis of presentation rather than invented performance.",
+            "evidence": [
+              {
+                "source": "S09",
+                "physical_lines": [
+                  18,
+                  28
+                ]
+              },
+              {
+                "source": "S08",
+                "physical_lines": [
+                  42,
+                  42
+                ]
+              },
+              {
+                "source": "S08",
+                "physical_lines": [
+                  59,
+                  60
+                ]
+              }
+            ],
+            "dimensions": [
+              3,
+              8,
+              9,
+              11
+            ],
+            "stronger_claim_limit": "No new native-language, performed-voice or audiovisual inspection claim.",
+            "body_physical_lines": [
+              77,
+              77
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [14444, 15056],
+                "value_sha256": "a3392e4cbf57ae8ab37db048e474d9eb5c55ebd558003079a33160d85f8a5645",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 612,
+            "paragraph_sha256": "a3296e812102a365bd91cdec667422717f2e274eb5f06908d96f9989d539ec70",
+            "readiness_rival_routes": [
+              "PLR02",
+              "PLR03"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P023",
+            "section_start": null,
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [15074, 15621],
+                "value_sha256": "39f9ccdb36f017f29589f0316a788179819c83f243305ef6d5fbbb73b5b090e2",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Sustain actual local change and recurrence without manufacturing a global chronological arc.",
+            "evidence": [
+              {
+                "source": "S08",
+                "physical_lines": [
+                  30,
+                  42
+                ]
+              },
+              {
+                "source": "S09",
+                "physical_lines": [
+                  28,
+                  28
+                ]
+              },
+              {
+                "source": "S04",
+                "physical_lines": [
+                  68,
+                  94
+                ]
+              },
+              {
+                "source": "S02",
+                "physical_lines": [
+                  181,
+                  187
+                ]
+              }
+            ],
+            "dimensions": [
+              2,
+              5,
+              8,
+              11
+            ],
+            "stronger_claim_limit": "Repeated maintained S2 accounts are one represented occurrence, not extra episodes or independent confirmation.",
+            "body_physical_lines": [
+              79,
+              79
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [15058, 15665],
+                "value_sha256": "a87ab9a576a195d5c19ade005ff71377e67c8f5beb685839619d99cd83343780",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 607,
+            "paragraph_sha256": "431a856b65ee36a156ac401dd7bbc0fee3b038e33836c10bdda8dd456adf03ef",
+            "readiness_rival_routes": [
+              "PLR05"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P024",
+            "section_start": null,
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [15683, 16233],
+                "value_sha256": "b45873706e7e2ab679724020c88bc84b5155994267d4c4bffe8c7a8b7c80506b",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Test the thesis against serious alternatives rather than converting counterexamples into an all-purpose essence.",
+            "evidence": [
+              {
+                "source": "S09",
+                "physical_lines": [
+                  28,
+                  28
+                ]
+              },
+              {
+                "source": "S08",
+                "physical_lines": [
+                  42,
+                  42
+                ]
+              },
+              {
+                "source": "S02",
+                "physical_lines": [
+                  181,
+                  183
+                ]
+              },
+              {
+                "source": "S04",
+                "physical_lines": [
+                  88,
+                  94
+                ]
+              }
+            ],
+            "dimensions": [
+              1,
+              5,
+              10
+            ],
+            "stronger_claim_limit": "No metaphysical proof, total family settlement, total corruption or guaranteed future harmony.",
+            "body_physical_lines": [
+              81,
+              81
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [15667, 16274],
+                "value_sha256": "af92b48586e99548f272a368d507f3189f6fa466815fc375328cb9f1da3dc766",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 607,
+            "paragraph_sha256": "e840ae1b65d69582f310cf97c63b648308a5cbb9c0c7e97ca2f82a276307cb3f",
+            "readiness_rival_routes": [
+              "PLR01",
+              "PLR02",
+              "PLR03",
+              "PLR04",
+              "PLR05",
+              "PLR06"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          },
+          {
+            "id": "PLANA-P025",
+            "section_start": null,
+            "literal_text": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [16292, 16840],
+                "value_sha256": "e4b03f29d5d76d3b66e518611d4984544509ef9b3b5a20bf9d1496f564069b41",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "own_original_argument_role": "Conclude with the intrinsic ordinary good and ongoing ethical/epistemic accountability, preserving both without a forced synthesis.",
+            "evidence": [
+              {
+                "source": "S09",
+                "physical_lines": [
+                  28,
+                  28
+                ]
+              },
+              {
+                "source": "S08",
+                "physical_lines": [
+                  42,
+                  42
+                ]
+              },
+              {
+                "source": "S02",
+                "physical_lines": [
+                  181,
+                  183
+                ]
+              },
+              {
+                "source": "S04",
+                "physical_lines": [
+                  88,
+                  94
+                ]
+              }
+            ],
+            "dimensions": [
+              1,
+              3,
+              5,
+              8,
+              10
+            ],
+            "stronger_claim_limit": "The conclusion is a bounded literary interpretation, not a model or closure of separate character/REL duties.",
+            "body_physical_lines": [
+              83,
+              83
+            ],
+            "whole_literary_paragraph_with_citation": {
+              "$public_selector": {
+                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+                "utf8_byte_span": [16276, 16881],
+                "value_sha256": "76c0280a18ec30370f2b3b6a1151a732a7d64b13509dbec9d5a7d333d36249d6",
+                "value_kind": "UTF8_STRING"
+              }
+            },
+            "paragraph_utf8_bytes": 605,
+            "paragraph_sha256": "93fce05fa4e502d4eeede4fe19febc73447b013b1de4e734e195b828454ad423",
+            "readiness_rival_routes": [
+              "PLR01",
+              "PLR04",
+              "PLR05",
+              "PLR07"
+            ],
+            "evidence_mode": "Maintained account paraphrase and bounded literary interpretation; actor/report/offer/private-claim distinctions retained in literal paragraph."
+          }
+        ],
+        "all11_dimension_routes": {
+          "1": [
+            "PLANA-P001",
+            "PLANA-P004",
+            "PLANA-P024",
+            "PLANA-P025"
+          ],
+          "2": [
+            "PLANA-P002",
+            "PLANA-P006",
+            "PLANA-P012",
+            "PLANA-P014",
+            "PLANA-P021",
+            "PLANA-P023"
+          ],
+          "3": [
+            "PLANA-P007",
+            "PLANA-P008",
+            "PLANA-P015",
+            "PLANA-P016",
+            "PLANA-P017",
+            "PLANA-P020",
+            "PLANA-P022",
+            "PLANA-P025"
+          ],
+          "4": [
+            "PLANA-P002",
+            "PLANA-P008",
+            "PLANA-P010",
+            "PLANA-P013",
+            "PLANA-P017",
+            "PLANA-P018",
+            "PLANA-P019"
+          ],
+          "5": [
+            "PLANA-P001",
+            "PLANA-P003",
+            "PLANA-P004",
+            "PLANA-P005",
+            "PLANA-P006",
+            "PLANA-P007",
+            "PLANA-P008",
+            "PLANA-P009",
+            "PLANA-P021",
+            "PLANA-P023",
+            "PLANA-P024",
+            "PLANA-P025"
+          ],
+          "6": [
+            "PLANA-P002",
+            "PLANA-P011",
+            "PLANA-P013",
+            "PLANA-P014",
+            "PLANA-P018"
+          ],
+          "7": [
+            "PLANA-P006",
+            "PLANA-P009",
+            "PLANA-P010",
+            "PLANA-P011",
+            "PLANA-P012",
+            "PLANA-P013",
+            "PLANA-P014",
+            "PLANA-P015",
+            "PLANA-P016",
+            "PLANA-P018",
+            "PLANA-P019"
+          ],
+          "8": [
+            "PLANA-P001",
+            "PLANA-P002",
+            "PLANA-P003",
+            "PLANA-P005",
+            "PLANA-P006",
+            "PLANA-P007",
+            "PLANA-P008",
+            "PLANA-P009",
+            "PLANA-P012",
+            "PLANA-P016",
+            "PLANA-P017",
+            "PLANA-P019",
+            "PLANA-P020",
+            "PLANA-P021",
+            "PLANA-P022",
+            "PLANA-P023",
+            "PLANA-P025"
+          ],
+          "9": [
+            "PLANA-P003",
+            "PLANA-P004",
+            "PLANA-P005",
+            "PLANA-P015",
+            "PLANA-P020",
+            "PLANA-P022"
+          ],
+          "10": [
+            "PLANA-P001",
+            "PLANA-P011",
+            "PLANA-P012",
+            "PLANA-P016",
+            "PLANA-P017",
+            "PLANA-P018",
+            "PLANA-P019",
+            "PLANA-P020",
+            "PLANA-P024",
+            "PLANA-P025"
+          ],
+          "11": [
+            "PLANA-P015",
+            "PLANA-P021",
+            "PLANA-P022",
+            "PLANA-P023"
+          ]
+        },
+        "source_authority": {
+          "C_path": "provenance-locator:PLANA-LOC-70de4c0ed1fdedb09bce",
+          "bytes": 22322,
+          "sha256": "662a5efbc906dcc12d6a70247dab59039b4bff25878b07e943e54669f327f6f0"
+        },
+        "rival_scope": "Seven character-level readiness rivals are treated in body; PLR08 private-pool eligibility is additionally answered by source-authority and actual MAIN argument, without forcing administrative apparatus into literary prose. No8 new source judgments or fixed paragraph quota inferred.",
+        "future_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+        "authority": "draft_noncurrent;distinct QA/Root acceptance pending",
+        "all14_original_gaps": "OPEN",
+        "models": 0,
+        "count_credit": 0
+      },
+      "current_use": "Original complete mode/rival/argument/evidence fields remain operative at their stated limits. Their original geometry and private current bindings are dated; current public geometry and bindings are separate below."
+    }
+  ],
+  "current_public_paragraph_geometry": [
+    {
+      "paragraph_id": "PLANA-P001",
+      "body_physical_lines": [
+        36,
+        36
+      ],
+      "utf8_byte_span_excluding_LF": [2118, 2729],
+      "whole_paragraph_sha256": "18cb4acdb7cd1625eb8af365617aa45302f48e0968403aca40a5bb1ea46aa8ea",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/0"
+    },
+    {
+      "paragraph_id": "PLANA-P002",
+      "body_physical_lines": [
+        38,
+        38
+      ],
+      "utf8_byte_span_excluding_LF": [2731, 3313],
+      "whole_paragraph_sha256": "7fc2edeaff8b576c7a2b1ca8b932861b445405ecbe8f86f2b2322037ad90d4dd",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/1"
+    },
+    {
+      "paragraph_id": "PLANA-P003",
+      "body_physical_lines": [
+        40,
+        40
+      ],
+      "utf8_byte_span_excluding_LF": [3315, 3835],
+      "whole_paragraph_sha256": "3a98438136cb180cbca01976f27b4cfb095ecbe405c05bc1de4567950b17adae",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/2"
+    },
+    {
+      "paragraph_id": "PLANA-P004",
+      "body_physical_lines": [
+        42,
+        42
+      ],
+      "utf8_byte_span_excluding_LF": [3837, 4381],
+      "whole_paragraph_sha256": "1a40f9ba2d6fd5ad604577da2bb780968b7fd492f87fd08554e8fdb6a1cfb2d9",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/3"
+    },
+    {
+      "paragraph_id": "PLANA-P005",
+      "body_physical_lines": [
+        44,
+        44
+      ],
+      "utf8_byte_span_excluding_LF": [4383, 4958],
+      "whole_paragraph_sha256": "6db6bc33147935ea78e1380121592d89ea3a895341dd7cd5e444fdb374809216",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/4"
+    },
+    {
+      "paragraph_id": "PLANA-P006",
+      "body_physical_lines": [
+        46,
+        46
+      ],
+      "utf8_byte_span_excluding_LF": [4960, 5500],
+      "whole_paragraph_sha256": "5502e21553866c673f81be9247b7bf55bd8468c4ca2386745be29aaa8e9ee437",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/5"
+    },
+    {
+      "paragraph_id": "PLANA-P007",
+      "body_physical_lines": [
+        50,
+        50
+      ],
+      "utf8_byte_span_excluding_LF": [5528, 6111],
+      "whole_paragraph_sha256": "32e3e739d523f35784397c1a5e88953251c9b8d9998b3c52c4778fb541341b74",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/6"
+    },
+    {
+      "paragraph_id": "PLANA-P008",
+      "body_physical_lines": [
+        52,
+        52
+      ],
+      "utf8_byte_span_excluding_LF": [6113, 6645],
+      "whole_paragraph_sha256": "5d5d9ab718644274184dc51ab59eb48c38aeba8d64ec83280d44372dfc1e61d8",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/7"
+    },
+    {
+      "paragraph_id": "PLANA-P009",
+      "body_physical_lines": [
+        54,
+        54
+      ],
+      "utf8_byte_span_excluding_LF": [6647, 7194],
+      "whole_paragraph_sha256": "0e8ee955d2bd29aad5e4b90a3c0e7e312354e665d14757bdb77cf10d8b925619",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/8"
+    },
+    {
+      "paragraph_id": "PLANA-P010",
+      "body_physical_lines": [
+        56,
+        56
+      ],
+      "utf8_byte_span_excluding_LF": [7196, 7839],
+      "whole_paragraph_sha256": "8a8daef2100346838bcef7542f4304f399f5fe5861ab68f7734d9d2ba0db40be",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/9"
+    },
+    {
+      "paragraph_id": "PLANA-P011",
+      "body_physical_lines": [
+        60,
+        60
+      ],
+      "utf8_byte_span_excluding_LF": [7872, 8457],
+      "whole_paragraph_sha256": "ee61e337792d5f07f59a31fb9ebea4c59ec48a77402b481cd408d94cbb1fe036",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/10"
+    },
+    {
+      "paragraph_id": "PLANA-P012",
+      "body_physical_lines": [
+        62,
+        62
+      ],
+      "utf8_byte_span_excluding_LF": [8459, 9036],
+      "whole_paragraph_sha256": "93876edf57656e4388f32203bd6b170d5c29510fab364fdc6d25cb2181ab0593",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/11"
+    },
+    {
+      "paragraph_id": "PLANA-P013",
+      "body_physical_lines": [
+        64,
+        64
+      ],
+      "utf8_byte_span_excluding_LF": [9038, 9632],
+      "whole_paragraph_sha256": "055f1c64e377bf641ae81f61591d56b103fda18feac0e27bb234573fe801ec75",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/12"
+    },
+    {
+      "paragraph_id": "PLANA-P014",
+      "body_physical_lines": [
+        66,
+        66
+      ],
+      "utf8_byte_span_excluding_LF": [9634, 10212],
+      "whole_paragraph_sha256": "092ccdef5126707dd5b498097d0f212ab3574edbb13ae4f3f7d150707097a8bb",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/13"
+    },
+    {
+      "paragraph_id": "PLANA-P015",
+      "body_physical_lines": [
+        68,
+        68
+      ],
+      "utf8_byte_span_excluding_LF": [10214, 10842],
+      "whole_paragraph_sha256": "2086c52e1b4126dd112c45d8e32822c1035afe495e6c5243451758d5abcb25a5",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/14"
+    },
+    {
+      "paragraph_id": "PLANA-P016",
+      "body_physical_lines": [
+        72,
+        72
+      ],
+      "utf8_byte_span_excluding_LF": [10887, 11431],
+      "whole_paragraph_sha256": "8fcacea18e57af4d6056e9a2e8a9079a51370e8542037d2963ac8bfa91cb6eb7",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/15"
+    },
+    {
+      "paragraph_id": "PLANA-P017",
+      "body_physical_lines": [
+        74,
+        74
+      ],
+      "utf8_byte_span_excluding_LF": [11433, 12036],
+      "whole_paragraph_sha256": "12d3fb99da17226a295de7d6f62ab98fd6d7cffd00956ba207db59519947a768",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/16"
+    },
+    {
+      "paragraph_id": "PLANA-P018",
+      "body_physical_lines": [
+        76,
+        76
+      ],
+      "utf8_byte_span_excluding_LF": [12038, 12607],
+      "whole_paragraph_sha256": "29ebb21e0d838274803be700952fc228804d703215ea12446496e537535eb4a8",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/17"
+    },
+    {
+      "paragraph_id": "PLANA-P019",
+      "body_physical_lines": [
+        78,
+        78
+      ],
+      "utf8_byte_span_excluding_LF": [12609, 13194],
+      "whole_paragraph_sha256": "4faf976c8db616eb61df22fca60035fcde3a3f42ec0a29d416c9c1fdb1c1a2c9",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/18"
+    },
+    {
+      "paragraph_id": "PLANA-P020",
+      "body_physical_lines": [
+        80,
+        80
+      ],
+      "utf8_byte_span_excluding_LF": [13196, 13801],
+      "whole_paragraph_sha256": "92ae3a3e92460495ca60d4e8bb024b59e122fe4a63d93709699cd05692bbdacc",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/19"
+    },
+    {
+      "paragraph_id": "PLANA-P021",
+      "body_physical_lines": [
+        82,
+        82
+      ],
+      "utf8_byte_span_excluding_LF": [13803, 14408],
+      "whole_paragraph_sha256": "80e5bad6a175041b4402562548c5d3f1df653be28aa68a7e3703bf0b2bab3a0f",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/20"
+    },
+    {
+      "paragraph_id": "PLANA-P022",
+      "body_physical_lines": [
+        86,
+        86
+      ],
+      "utf8_byte_span_excluding_LF": [14444, 15056],
+      "whole_paragraph_sha256": "a3296e812102a365bd91cdec667422717f2e274eb5f06908d96f9989d539ec70",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/21"
+    },
+    {
+      "paragraph_id": "PLANA-P023",
+      "body_physical_lines": [
+        88,
+        88
+      ],
+      "utf8_byte_span_excluding_LF": [15058, 15665],
+      "whole_paragraph_sha256": "431a856b65ee36a156ac401dd7bbc0fee3b038e33836c10bdda8dd456adf03ef",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/22"
+    },
+    {
+      "paragraph_id": "PLANA-P024",
+      "body_physical_lines": [
+        90,
+        90
+      ],
+      "utf8_byte_span_excluding_LF": [15667, 16274],
+      "whole_paragraph_sha256": "e840ae1b65d69582f310cf97c63b648308a5cbb9c0c7e97ca2f82a276307cb3f",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/23"
+    },
+    {
+      "paragraph_id": "PLANA-P025",
+      "body_physical_lines": [
+        92,
+        92
+      ],
+      "utf8_byte_span_excluding_LF": [16276, 16881],
+      "whole_paragraph_sha256": "93fce05fa4e502d4eeede4fe19febc73447b013b1de4e734e195b828454ad423",
+      "original_complete_meaning_pointer": "/records/0/content/paragraphs/24"
+    }
+  ],
+  "current_components": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+      "bytes": 16882,
+      "sha256": "662566a292345150854d39ce285e39c09cbf85098a85ba796d6ec4a4c7cc1244"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_SOURCE_AUTHORITY_DATED_COURSES_AND_EFFECTIVE_QUALIFICATIONS_V1.json",
+      "bytes": 24385,
+      "sha256": "f9c67f3c4087a76a204f7d365c912f5ef8e8b5bdf9dcfc80baab368a0ed542e3"
+    }
+  ],
+  "composer": "/root/recover_yuzu_saved_review"
+}

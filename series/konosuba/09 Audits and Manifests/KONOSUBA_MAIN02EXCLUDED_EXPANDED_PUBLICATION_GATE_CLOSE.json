@@ -1,0 +1,84 @@
+{
+  "schema": "KONOSUBA_MAIN02EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE_V1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "closed_utc": "2026-10-19T07:19:17.506464+00:00",
+  "actual_source_commit": "2c5b72d31da9c8d015768aa9babe9c2bbec2c7d6",
+  "tree": "8d83ef0eb2f518ba62b9b73ada9fada173079d03",
+  "all8829_remote_paths_equal": true,
+  "all45_changed_blob_streams_equal": true,
+  "source_audit": {
+    "run": 39213613214,
+    "job": 117932305134,
+    "actual_source": "2c5b72d31da9c8d015768aa9babe9c2bbec2c7d6",
+    "paths": 8829,
+    "full_tests": 352,
+    "all5_non_success_zero": true,
+    "selection_enabled": false,
+    "log_sha256": "23ecc68358602e2f9e0ec9b2fbb2dd01565a7e4233718f3d686a192ecab0b9f7"
+  },
+  "housekeeping": {
+    "verified_utc": "2026-10-19T07:10:14.835435+00:00",
+    "actual_SOURCE_SHA": "2c5b72d31da9c8d015768aa9babe9c2bbec2c7d6",
+    "run": 39214139195,
+    "job": 117933965607,
+    "result": "NO_OP",
+    "exact_final_source_dispatch_verified": true,
+    "log_sha256": "c8f8fdc20d18623c2765cadef6886d34e1ab5ad6368da8ebde0c39096faa3856",
+    "workflow_run_metadata_head": "c1791859155f1379d4afedc7b0b60ce66505f840",
+    "started_at": "2026-10-19T07:09:10Z",
+    "completed_at": "2026-10-19T07:09:33Z",
+    "selected_actual_lines": [
+      "  BRANCH_NAME: series/konosuba",
+      "  SOURCE_SHA: 2c5b72d31da9c8d015768aa9babe9c2bbec2c7d6",
+      "  BRANCH_NAME: series/konosuba",
+      "  SOURCE_SHA: 2c5b72d31da9c8d015768aa9babe9c2bbec2c7d6",
+      "  BRANCH_NAME: series/konosuba",
+      "  SOURCE_SHA: 2c5b72d31da9c8d015768aa9babe9c2bbec2c7d6",
+      "PASS: dispatched the full audit for 2c5b72d31da9c8d015768aa9babe9c2bbec2c7d6",
+      "PASS: unchanged routing and branch boundaries verified; final audit dispatched"
+    ]
+  },
+  "final_audit": {
+    "run": 39214184765,
+    "job": 117934111893,
+    "actual_source": "2c5b72d31da9c8d015768aa9babe9c2bbec2c7d6",
+    "paths": 8829,
+    "full_tests": 352,
+    "all5_non_success_zero": true,
+    "selection_enabled": false,
+    "log_sha256": "6c1bf2a8a73cfe52674ec41797293536dce4698184ff17c63f53c74cf8411649",
+    "actual_snapshot_from_PASS": "2c5b72d31da9c8d015768aa9babe9c2bbec2c7d6",
+    "displayed_workflow_head_metadata": "c1791859155f1379d4afedc7b0b60ce66505f840"
+  },
+  "exact_commit_status": {
+    "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/2c5b72d31da9c8d015768aa9babe9c2bbec2c7d6",
+    "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+    "id": 56666558778,
+    "node_id": "SC_kwDOUJ9ads8AAAANMZcROg",
+    "state": "success",
+    "description": "Exact commit passed the repository audit",
+    "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39214184765",
+    "context": "Repository integration audit",
+    "created_at": "2026-10-19T07:14:59Z",
+    "updated_at": "2026-10-19T07:14:59Z"
+  },
+  "source_branch_head": "2c5b72d31da9c8d015768aa9babe9c2bbec2c7d6",
+  "current_main": "eb16975d3e337e4b5ffbec095053265e088038de",
+  "source_main_integration_not_asserted": true,
+  "next": "Fresh published authority reload below, then separate exact next-source admission. Full fixed41 program remains active.",
+  "current_main_incorporated_in_source": false,
+  "post_publication_main_drift": {
+    "current_main": "eb16975d3e337e4b5ffbec095053265e088038de",
+    "main_incorporated_before_source_push": "c1791859155f1379d4afedc7b0b60ce66505f840",
+    "accepted_later_delta_paths": [
+      "series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md",
+      "series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md",
+      "series/shuukura/CURRENT_STATE_AND_CORPUS_MAP.md"
+    ],
+    "KonoSuba_governance_and_global_controls_unchanged_by_delta": true,
+    "later_main_status_success": true,
+    "current_main_incorporated_in_source": false,
+    "required_before_next_push": "Ordinary merge then-current main, review full candidate, rerun affected author preflight and fresh both-head/rules/identity checks. Existing audit certifies only this existing source SHA.",
+    "closure_basis": "Stable analytical publication sequence steps4-6 and owner acceptance discipline: exact source/readback/sourceaudit/HK/finalsource status are closed; later unrelated accepted main is a separate synchronization obligation before the next push. Housekeeping NO_OP did not request main incorporation."
+  }
+}

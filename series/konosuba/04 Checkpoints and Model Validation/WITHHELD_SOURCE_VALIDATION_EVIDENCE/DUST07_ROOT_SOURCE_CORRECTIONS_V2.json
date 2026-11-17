@@ -1,0 +1,91 @@
+{
+  "status": "ATTRIBUTABLE_EXTERNAL_CORRECTIONS_NOT_ORIGINAL_REWRITES",
+  "authored_utc": "2026-10-17T21:10:43.990897+00:00",
+  "source_id": "DUST-07",
+  "original_inputs": [
+    {
+      "name": "ROOT_INITIAL_ALL39_SOURCE_ASSESSMENTS.json",
+      "bytes": 392966,
+      "sha256": "556cfc12e64be07fba3603f2c338d4a76e583c1fac17d5abe0c047b78c900254"
+    },
+    {
+      "name": "INITIAL_ALL39_SOURCE_LOCAL_ASSESSMENTS_AND_FOUR_TYPED_CONTROLS.json",
+      "bytes": 330627,
+      "sha256": "2b5091090986b750f415481f8efc9c74a0f83e88620b083101ae43c9fb3d1a19"
+    },
+    {
+      "name": "INITIAL_ALL39_PLUS_FOUR_TYPED_SOURCE_ASSESSMENTS.json",
+      "bytes": 232773,
+      "sha256": "2cc407dca9dc8654178274d0c99ffdbf3e55f9e2758079bf06f2ab0ddcb92404"
+    }
+  ],
+  "corrections": [
+    {
+      "id": "D07-ROOT-I-CHRON-01",
+      "old": "Root first post-initial receiving note and I initial E06 rationale place664 before the new sexual insult663.",
+      "current": "The pre-insult endurance is660/662;663 precedes664, then outburst665. Local contrary proposal uses the renewed post-information659–662 window, not a false ordering.",
+      "route": "C03P637–677",
+      "impact": "Originals retained; material chronology correction cannot be ignored even if direction survives."
+    },
+    {
+      "id": "D07-I-SPEAKER-01",
+      "old": "I DI07-113 says renewed Keith insult55.",
+      "current": "Keith54 jeers; Dust55 addresses Keith and objects to blows; Leen56/57 retorts/lowers staff. S old display note already has an explicit preseal self-QA correction; do not call its current report uncorrected.",
+      "route": "EpiP43–60",
+      "impact": "Correct actor and response ownership; no old original changed."
+    },
+    {
+      "id": "D07-I-SPEAKER-02",
+      "old": "I E01 rationale says Keith announces containment.",
+      "current": "Dust768 briefs, Keith770 seeks visibility, Taylor771 accepts protection, Leen772 warns; containment775 is narrated surrounding adventurer action.",
+      "route": "C02P758–775",
+      "impact": "Finite fitted-handoff result depends on actual actors, not invented Keith speech."
+    },
+    {
+      "id": "D07-JP-GRAMMAR-01",
+      "old": "A character calls the omitted referent 主語 in his829 complaint.",
+      "current": "Preserve actual 主語 wording, while analyst identifies the protected entity as an omitted object/argument of protect; do not teach that the city/genitals are grammatical subjects.",
+      "route": "C01P826–829",
+      "impact": "Literal character wording and linguistic analysis distinct; no new whole-episode L3 code."
+    },
+    {
+      "id": "D07-CAT-ATTRIBUTION-01",
+      "old": "I DI07-115 describes men imitating a cat.",
+      "current": "Epi98 にゃーご is an untagged concealed companion; Keith, Taylor and Rolyssa emerge103. Written 野太い quality does not independently establish an individual male speaker or a real cat belief.",
+      "route": "EpiP92–110",
+      "impact": "Preserve original voice/event records; current named-subject certainty must be narrowed."
+    },
+    {
+      "id": "D07-RECEIVING-SCOPE-01",
+      "old": "Root candidatev2 E02 says root/I/S all freshly reread648–713.",
+      "current": "Root/I fresh receiving window was648–713. S fresh receiving windows665–713 and665–690; all three originally read the entire principal member.",
+      "route": "C02P648–713",
+      "impact": "Actual review scope corrected without model/outcome change."
+    },
+    {
+      "id": "D07-M01-GUARD-PRECISION-01",
+      "old": "Root candidate missing-component phrase independently explicit can imply a lexical-only art-challenge trigger.",
+      "current": "Explicit OR contextual art challenge remains eligible under original literal; the independent known ordinary-companion-cost conjunction is not established. No mandatory spell word, formal warning or completed cast floor.",
+      "route": "C01P145–178",
+      "impact": "Preserve original root/I/S records; clarify current NT without altering any frozen guard."
+    },
+    {
+      "id": "D07-SEMANTIC-REPORT-PIN-FORMAT-01",
+      "old": "S sealed coordinated report authority paragraphs insert spaces near the ends of four SHA strings.",
+      "current": "Use exact complete structuredpins: freeze a446f7f59c9ae1044a42b6ebe525bb75e8bfde00e78d9a10ec0dc73f67ce06a4; registry680748c892a9178852901c217b657119afeea3879e547db8a393d93878d9b833; nativecfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5; S initialseal4fdc7c77ff048eaf01b48f6514b2a872e0a7a20e2cbc05f864ee593af58026e5.",
+      "route": "S COORDINATED_SEMANTIC_LINGUISTIC_AND_ALL39_RECEIVING_REPORT.md authority paragraphs; exact structured seal/registry/admission receipts",
+      "impact": "Original report remains byte-exact; current authority binds actual structured byte hashes, not whitespace-split prose."
+    }
+  ],
+  "actual_primary_recheck_log": {
+    "name": "ROOT_POST_INITIAL_PRIMARY_RECEIVING_NOTES.jsonl",
+    "bytes": 10209,
+    "sha256": "857d4d0bc9027de9c6245c2d02fb1886db41410fbe20b0a57e0e1b51f7578360"
+  },
+  "no_native_media_full_XML_or_paragraph_arrays_in_this_product": true,
+  "previous_correction_pin": {
+    "name": "DUST07_EXTERNAL_CURRENT_SOURCE_CORRECTIONS.json",
+    "bytes": 2877,
+    "sha256": "3ff35b1598c65d6b1785c536e1b46fa5dae7715e7f97fff6501001e2db1e3521"
+  }
+}

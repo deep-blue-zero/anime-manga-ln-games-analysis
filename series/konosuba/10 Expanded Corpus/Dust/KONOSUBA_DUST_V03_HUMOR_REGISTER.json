@@ -1,0 +1,1106 @@
+{
+  "schema": "KONOSUBA_DUST03_SELECTED_WHOLE_PREMISE_L_H_V1",
+  "source_id": "DUST-03",
+  "created_utc": "2026-10-18T06:12:46.797044+00:00",
+  "complete_uncoded_seal_sha256": "c3b720dca1aa04919ce86995a291bc86092d152b95ab868b3a6935710ac42813",
+  "selected_unit_count": 60,
+  "population_denominator": null,
+  "new_J02_or_holdout_score": false,
+  "H_protocol": "H1 literal own-plane act; H2 amplified disposition/reaction; H3 requires a positively warranted local behavior-dependent commitment shift, never mere staging, source doubt or fantasy. No H3 quota: the selected apparently theatrical acts are motivated literal acts. H4 here has explicit metaphorical license; no H4 merely for magic, resurrection or game rules.",
+  "L_protocol": "L0 portable mechanism; L1 material wording/rhythm; L2 material register/pragmatics; L3 central Japanese form needing reconstruction. Whole premise and nested cues differ; no automatic L3 for idioms or katakana.",
+  "records": [
+    {
+      "id": "DUST03-H001",
+      "boundary": {
+        "component_id": "DUST-03-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "start_P": 11,
+        "end_P": 12
+      },
+      "whole_selected_premise": "An intrusion greeting receives a literal rejection.",
+      "primary_L": "L1",
+      "L_rationale": "A conventional entering formula is answered at its literal nuisance meaning; translating only the greeting would lose the rebuttal.",
+      "primary_H": "H1",
+      "H_rationale": "Vanir actually rebuffs the noncustomer through the conventional/literal mismatch.",
+      "eligibility_and_limits": "No completed expulsion is shown; the separate investment argument is discussed in the full report and voice004.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H002",
+      "boundary": {
+        "component_id": "DUST-03-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "start_P": 41,
+        "end_P": 99
+      },
+      "whole_selected_premise": "Easy money moves from robbery and prison comforts to a fruit-processing scheme.",
+      "primary_L": "L0",
+      "L_rationale": "The desired gain, unacceptable costs and switch to paid cooperation survive ordinary paraphrase; subordinate speech is a nested register witness.",
+      "primary_H": "H1",
+      "H_rationale": "Dust rejects imprisonment when it forecloses a desired service, then accepts the apparently feasible commission.",
+      "eligibility_and_limits": "Vanir says he does not want human death; his literal nonhuman reply does not erase that constraint.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H003",
+      "boundary": {
+        "component_id": "DUST-03-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "start_P": 119,
+        "end_P": 144
+      },
+      "whole_selected_premise": "An insult unexpectedly buys Taylor a drink while the freeloaders are refused.",
+      "primary_L": "L0",
+      "L_rationale": "The gift depends on who recognizes the unpopular task, not a Japanese word form.",
+      "primary_H": "H1",
+      "H_rationale": "Kazuma answers a specific defense of necessary unpleasant work; Dust misses the immediate reason.",
+      "eligibility_and_limits": "Kazuma actually buys/offers Taylor a drink, then explicitly refuses Dust, Keith and Aqua; no main-only score is repaired.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H004",
+      "boundary": {
+        "component_id": "DUST-03-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "start_P": 166,
+        "end_P": 181
+      },
+      "whole_selected_premise": "Praise of a former worker and a lake reference provoke the wrong listeners.",
+      "primary_L": "L0",
+      "L_rationale": "Hidden referents and prior experience carry the reaction; not language dependence merely from omission.",
+      "primary_H": "H2",
+      "H_rationale": "Kazuma protests and Aqua seeks the cage under a remembered threat; reactions amplify known personal history.",
+      "eligibility_and_limits": "Present distress is not a new purification event or a general wish for confinement.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H005",
+      "boundary": {
+        "component_id": "DUST-03-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "start_P": 188,
+        "end_P": 245
+      },
+      "whole_selected_premise": "A planned double payment loses to the girl-shaped monster's appeal.",
+      "primary_L": "L0",
+      "L_rationale": "Visual and moral presentation alter the kill decision without requiring Japanese syntax.",
+      "primary_H": "H1",
+      "H_rationale": "Dust privately revives extermination for extra money, then abandons it under conscience and social pressure.",
+      "eligibility_and_limits": "Four fruits are given; ethical appearance and actual predation remain in tension.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H006",
+      "boundary": {
+        "component_id": "DUST-03-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "start_P": 248,
+        "end_P": 278
+      },
+      "whole_selected_premise": "Experienced suspicion meets an abruptly broken fragile voice.",
+      "primary_L": "L1",
+      "L_rationale": "The fragile-to-rough reaction and repair are represented in wording and punctuation, while the food-safety suspicion remains portable.",
+      "primary_H": "H1",
+      "H_rationale": "Dust recognizes solicitation, checks addiction and tests the plant's account instead of automatically eating.",
+      "eligibility_and_limits": "He refuses immediate ingestion; this is actual checking counterevidence to global gullibility.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H007",
+      "boundary": {
+        "component_id": "DUST-03-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "start_P": 281,
+        "end_P": 291
+      },
+      "whole_selected_premise": "Only two or three scavenging incidents turns denial into admission.",
+      "primary_L": "L1",
+      "L_rationale": "The minimizing quantifier changes the claim from denial to conceded repetition.",
+      "primary_H": "H2",
+      "H_rationale": "His effort to repair reputation instead wins pity and food offers.",
+      "eligibility_and_limits": "Two extra fruits are offered but not accepted; the four original fruits remain the collected batch.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H008",
+      "boundary": {
+        "component_id": "DUST-03-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "start_P": 301,
+        "end_P": 306
+      },
+      "whole_selected_premise": "A familiar helper adopts a modest admirer persona before Vanir.",
+      "primary_L": "L2",
+      "L_rationale": "Her deferential modesty is recipient-dependent, explicitly contrasted by Dust with the person he knows.",
+      "primary_H": "H1",
+      "H_rationale": "Lolisa performs admiration while pursuing an actual business concern.",
+      "eligibility_and_limits": "Fan politeness is not free unbounded compliance; fruit spoilage and client research have their own causal account.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H009",
+      "boundary": {
+        "component_id": "DUST-03-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "start_P": 362,
+        "end_P": 409
+      },
+      "whole_selected_premise": "A polite insult and an imagined reward end in a proposed tab extension.",
+      "primary_L": "L2",
+      "L_rationale": "Luna preserves courteous form while confirming the insulting meaning; Dust's expectation is narrower than the actual offer.",
+      "primary_H": "H1",
+      "H_rationale": "Staff retain a credit veto, and Luna offers only to negotiate another month of credit.",
+      "eligibility_and_limits": "Acceptance of the job is not completed debt forgiveness or a secured extension.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H010",
+      "boundary": {
+        "component_id": "DUST-03-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "start_P": 436,
+        "end_P": 489
+      },
+      "whole_selected_premise": "A flattering summons catches Megumin, while Yunyun's volunteering retains a money veto.",
+      "primary_L": "L0",
+      "L_rationale": "Wrong recipient and distinct willingness to help versus fund drinks survive translation.",
+      "primary_H": "H2",
+      "H_rationale": "Megumin responds to the generic praise and threatens a disproportionate spell; Yunyun controls her own spending.",
+      "eligibility_and_limits": "No Explosion is cast in this guild exchange; Kazuma's later sponsorship is separately reported.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H011",
+      "boundary": {
+        "component_id": "DUST-03-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "start_P": 497,
+        "end_P": 540
+      },
+      "whole_selected_premise": "The all-seeing eye corrects a greeting with the sun; unusual hospitality needs an explanation.",
+      "primary_L": "L0",
+      "L_rationale": "An ordinary visible timing cue and a commercially motivated welcome create the mismatch.",
+      "primary_H": "H1",
+      "H_rationale": "Vanir observes noon, while Dust notices the providers' eyes and asks their real request.",
+      "eligibility_and_limits": "No omniscience test; free food is not unbounded professional service.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H012",
+      "boundary": {
+        "component_id": "DUST-03-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "start_P": 590,
+        "end_P": 594
+      },
+      "whole_selected_premise": "A thank-you snack comes from its recipient's bag.",
+      "primary_L": "L0",
+      "L_rationale": "Ownership and the unauthorized taking carry the reversal; no particular Japanese form is indispensable.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun discovers Dust is rewarding her with her own snack and objects.",
+      "eligibility_and_limits": "Not a Dust-owned gift. The earlier nickname repair is separately preserved as voice020.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H013",
+      "boundary": {
+        "component_id": "DUST-03-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "start_P": 609,
+        "end_P": 674
+      },
+      "whole_selected_premise": "A force disadvantage prompts contemplated forced combat, then an agreed provider diversion.",
+      "primary_L": "L0",
+      "L_rationale": "Relative numbers, refused casting, available helpers and the two lies are the operative causes.",
+      "primary_H": "H1",
+      "H_rationale": "Dust considers forcing Yunyun to fight but does not execute it; providers independently volunteer and confirm their role.",
+      "eligibility_and_limits": "His magical-control claim and wives/lovers explanation are admitted lies, not source facts. Provider agency does not license his deceit.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H014",
+      "boundary": {
+        "component_id": "DUST-03-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "start_P": 678,
+        "end_P": 739
+      },
+      "whole_selected_premise": "Discounts, visible wasting and a preference split dismantle the guard coalition.",
+      "primary_L": "L0",
+      "L_rationale": "The changing reasons of distinct audiences and the threatened service carry the result.",
+      "primary_H": "H1",
+      "H_rationale": "Most guards reject the three men's pitch; more than half leave, while the remaining group apologizes at Dust's threat.",
+      "eligibility_and_limits": "Threatened unwanted dreams are not performed; specific provider agreement to that punishment is unshown. Non-graphic account only.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H015",
+      "boundary": {
+        "component_id": "DUST-03-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "start_P": 745,
+        "end_P": 780
+      },
+      "whole_selected_premise": "The helpless plant's performance survives Yunyun's protection but not professional-rival fear.",
+      "primary_L": "L2",
+      "L_rationale": "Stilted katakana denial, direct adult-like speech and flattering politeness mark distinct tactical personae.",
+      "primary_H": "H1",
+      "H_rationale": "Dust actually knocks out Yunyun and moves her aside; fear then changes the plant's negotiation strategy.",
+      "eligibility_and_limits": "The companion assault remains actual harm, not a pure rescue. No sexual assault is performed.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H016",
+      "boundary": {
+        "component_id": "DUST-03-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "start_P": 781,
+        "end_P": 798
+      },
+      "whole_selected_premise": "Considering intercession buys fruit without a promise of release.",
+      "primary_L": "L1",
+      "L_rationale": "Dust exploits the modal difference between considering and undertaking a promise; the plant explicitly calls it deception.",
+      "primary_H": "H1",
+      "H_rationale": "He collects twenty adjusted fruits and kills the plant for the added reward.",
+      "eligibility_and_limits": "Its abusive response provokes his shout; no consensual release deal is completed.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H017",
+      "boundary": {
+        "component_id": "DUST-03-U011",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "start_P": 801,
+        "end_P": 813
+      },
+      "whole_selected_premise": "A drinking claim leaves an offering and two contrary clues.",
+      "primary_L": "L0",
+      "L_rationale": "Wet ground and absent alcohol smell expose a private act through ordinary observation.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun condemns the killing and notices the clues; Dust privately dedicates liquor to the dead.",
+      "eligibility_and_limits": "He does not claim to know whether the victims wanted death; her adverse judgment is not withdrawn.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H018",
+      "boundary": {
+        "component_id": "DUST-03-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "start_P": 6,
+        "end_P": 36
+      },
+      "whole_selected_premise": "Kotatsu comfort displaces an errand and produces an acquisitive alliance.",
+      "primary_L": "L0",
+      "L_rationale": "Comfort and a self-serving ownership rule explain the changed conduct.",
+      "primary_H": "H2",
+      "H_rationale": "Aqua and Dust eagerly endorse each other until Megumin objects to their shared rule.",
+      "eligibility_and_limits": "The furniture belongs to Kazuma; an asserted appropriation is not a new ownership fact.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H019",
+      "boundary": {
+        "component_id": "DUST-03-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "start_P": 41,
+        "end_P": 59
+      },
+      "whole_selected_premise": "A flattering religious theory survives its named counterexample until an insult threatens Explosion.",
+      "primary_L": "L0",
+      "L_rationale": "Motivated generalization and ignored Darkness counterexample carry the inference failure.",
+      "primary_H": "H1",
+      "H_rationale": "Aqua plans to circulate the theory, and Dust dismisses contrary evidence before escaping Megumin's chant.",
+      "eligibility_and_limits": "The source confirms no actual cast; objectifying claims remain Dust's speculation.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H020",
+      "boundary": {
+        "component_id": "DUST-03-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "start_P": 86,
+        "end_P": 88
+      },
+      "whole_selected_premise": "A borrowed justice voice corrects a black-eyes idiom against blue eyes.",
+      "primary_L": "L3",
+      "L_rationale": "Iris explicitly literalizes 目の黒いうち against her blue eyes; this specific color mismatch needs reconstruction or annotation in transfer.",
+      "primary_H": "H1",
+      "H_rationale": "She corrects her own performed righteous speech and cannot explain the borrowed merchant label.",
+      "eligibility_and_limits": "Fake collision and arrest are causal context at P0063–0103, not additional L3 effects. The precise historical allusion is unverified.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H021",
+      "boundary": {
+        "component_id": "DUST-03-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "start_P": 104,
+        "end_P": 120
+      },
+      "whole_selected_premise": "Jail hospitality sounds like a regular restaurant.",
+      "primary_L": "L0",
+      "L_rationale": "Food demands and a promise to return reframe actual custody as familiar service.",
+      "primary_H": "H2",
+      "H_rationale": "The officer explicitly rejects Dust's repeat-customer manner, and Leen insists on an apology.",
+      "eligibility_and_limits": "His release does not establish blamelessness; the distinct money-oversight choice is discussed in the full report.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H022",
+      "boundary": {
+        "component_id": "DUST-03-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "start_P": 147,
+        "end_P": 199
+      },
+      "whole_selected_premise": "Wiz learns to consult a partner, then names Aqua.",
+      "primary_L": "L0",
+      "L_rationale": "The right general lesson fails at the specific partner selected.",
+      "primary_H": "H2",
+      "H_rationale": "Vanir initially approves and then attacks at the name; Leen is shocked by the routine treatment.",
+      "eligibility_and_limits": "Unconsciousness is shown, not death. One example does not make consultation itself defective.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H023",
+      "boundary": {
+        "component_id": "DUST-03-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "start_P": 208,
+        "end_P": 210
+      },
+      "whole_selected_premise": "The spell is fired before its warning.",
+      "primary_L": "L1",
+      "L_rationale": "The verbal warning arrives after the actual Lightning near miss, and Dust explicitly corrects that order.",
+      "primary_H": "H1",
+      "H_rationale": "Leen really fires, then threatens firing; Dust reacts to the completed sequence.",
+      "eligibility_and_limits": "No hit is established. Sample refusal is separate checking evidence, not coded from this short warning.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H024",
+      "boundary": {
+        "component_id": "DUST-03-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "start_P": 227,
+        "end_P": 253
+      },
+      "whole_selected_premise": "A suspicious delivery is checked, but a private capital fear meets financial compulsion.",
+      "primary_L": "L0",
+      "L_rationale": "Leen's questions reveal cargo and paid travel; Dust's separate identity risk is not answered by that logistics check.",
+      "primary_H": "H1",
+      "H_rationale": "Leen accepts the explained job and forces his participation by threatening to apply all pay to debts.",
+      "eligibility_and_limits": "Vanir's assurance about a reunion is attributed; no unlimited foreknowledge is established.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H025",
+      "boundary": {
+        "component_id": "DUST-03-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "start_P": 265,
+        "end_P": 300
+      },
+      "whole_selected_premise": "A need to finish quickly is diagnosed as illness.",
+      "primary_L": "L0",
+      "L_rationale": "The companions' model of Dust makes ordinary diligence appear anomalous.",
+      "primary_H": "H2",
+      "H_rationale": "Three-person unison, temperature checking and a hangover remedy amplify their disbelief.",
+      "eligibility_and_limits": "Dust accepts only the useful discount coupon; his hidden reason is avoiding exposure.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H026",
+      "boundary": {
+        "component_id": "DUST-03-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "start_P": 318,
+        "end_P": 350
+      },
+      "whole_selected_premise": "A stopped scam does not buy a blameless identity.",
+      "primary_L": "L0",
+      "L_rationale": "Different observations produce initial thanks, recognition, then a conflicting social judgment.",
+      "primary_H": "H1",
+      "H_rationale": "Dust prevents Iris's overpayment while admitting resentment of other scammers' profits; Leen still doubts his prior account.",
+      "eligibility_and_limits": "A helpful result does not certify altruistic motive or erase the fake injury.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H027",
+      "boundary": {
+        "component_id": "DUST-03-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "start_P": 353,
+        "end_P": 400
+      },
+      "whole_selected_premise": "Romantic legend meets cynical narration and concrete spear-footwork suspicion.",
+      "primary_L": "L0",
+      "L_rationale": "Competing evaluations and accessible martial evidence carry the unresolved identity.",
+      "primary_H": "H1",
+      "H_rationale": "Iris romanticizes the story; Leen scrutinizes Dust; he deflects and tries to separate them.",
+      "eligibility_and_limits": "Rumor and wishful certainty are not an omniscient history. No exact old vow has yet been stated here.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H028",
+      "boundary": {
+        "component_id": "DUST-03-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "start_P": 422,
+        "end_P": 432
+      },
+      "whole_selected_premise": "Return-for-reward becomes instant service at the sight of a treasury ring.",
+      "primary_L": "L2",
+      "L_rationale": "Dust's sudden kneeling and deferential formula make the incentive reversal audible in written form.",
+      "primary_H": "H2",
+      "H_rationale": "The large jewel produces an immediate commitment before usable resale is checked.",
+      "eligibility_and_limits": "The treasury provenance is stated before commitment; the precise royal crest is disclosed only later.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H029",
+      "boundary": {
+        "component_id": "DUST-03-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "start_P": 436,
+        "end_P": 480
+      },
+      "whole_selected_premise": "A scam lesson turns into extortion while its audience objects.",
+      "primary_L": "L0",
+      "L_rationale": "Actual tactics, tears and criticism disconfirm the narrator's harmless-voluntary-payment framing.",
+      "primary_H": "H1",
+      "H_rationale": "Dust recognizes fraud, engineers seller pressure, and takes money and sweets.",
+      "eligibility_and_limits": "Do not endorse his legal claims or treat the two girls' adverse reactions as approval.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H030",
+      "boundary": {
+        "component_id": "DUST-03-U012",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "start_P": 533,
+        "end_P": 537
+      },
+      "whole_selected_premise": "A royal treasury ring cannot become drinking money.",
+      "primary_L": "L0",
+      "L_rationale": "Previously stated provenance develops into a concrete resale barrier; possession and usable cash differ.",
+      "primary_H": "H1",
+      "H_rationale": "Shops refuse the royal-crested object and Dust retains it, considering a future exchange.",
+      "eligibility_and_limits": "No completed cash exchange. The exact crest was not disclosed to him at the earlier commitment.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H031",
+      "boundary": {
+        "component_id": "DUST-03-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "start_P": 6,
+        "end_P": 43
+      },
+      "whole_selected_premise": "Official purpose collapses into a half-cup drunken plea.",
+      "primary_L": "L1",
+      "L_rationale": "Claire's formal explanation breaks into drawn-out emotional pleading, with Rein repairing slips.",
+      "primary_H": "H2",
+      "H_rationale": "Excessive devotion prevents concise explanation and exposes the personally motivated commission.",
+      "eligibility_and_limits": "Iris's consent to a future adventure is not supplied by Claire's wish.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H032",
+      "boundary": {
+        "component_id": "DUST-03-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "start_P": 69,
+        "end_P": 102
+      },
+      "whole_selected_premise": "Vehement rejection of Kazuma's party supplies a clue Dust discounts.",
+      "primary_L": "L0",
+      "L_rationale": "Reported refusal, known prior claim and Dust's explicit dismissal carry the irony.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun explains why she chose him; he accepts partly for money and partly for her earlier help.",
+      "eligibility_and_limits": "The earlier noble-insult episode is separate social context; no new independent brother-identity trial.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H033",
+      "boundary": {
+        "component_id": "DUST-03-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "start_P": 107,
+        "end_P": 114
+      },
+      "whole_selected_premise": "An anomalously early arrival has an accidental explanation.",
+      "primary_L": "L0",
+      "L_rationale": "Timing and his baseline lateness explain the inference, then a simple correction defeats it.",
+      "primary_H": "H2",
+      "H_rationale": "Yunyun checks half-day error and illness; Dust actually slept there after drinking.",
+      "eligibility_and_limits": "No illness, deliberate punctuality habit or temporal displacement is established.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H034",
+      "boundary": {
+        "component_id": "DUST-03-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "start_P": 170,
+        "end_P": 204
+      },
+      "whole_selected_premise": "Daily Explosion makes a reasonable outsider appear ignorant.",
+      "primary_L": "L0",
+      "L_rationale": "The same event has a known local source and an unfamiliar plausible threat interpretation.",
+      "primary_H": "H2",
+      "H_rationale": "The Axel trio calmly assess the blast; Rein and Claire panic and explicitly defend the broader norm.",
+      "eligibility_and_limits": "Fantasy and spell costs are literal in-world. Local familiarity does not prove universally correct common sense.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H035",
+      "boundary": {
+        "component_id": "DUST-03-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "start_P": 208,
+        "end_P": 247
+      },
+      "whole_selected_premise": "Class immunity omits armor; Dust then blocks an available rescue for gratification.",
+      "primary_L": "L0",
+      "L_rationale": "A missing physical condition and an actual harmful choice are understandable without Japanese form.",
+      "primary_H": "H1",
+      "H_rationale": "Claire and Rein are caught; Dust stops Yunyun's cast while they are still being swallowed, and she rescues them over his objection.",
+      "eligibility_and_limits": "Direct contrary protective-choice evidence remains. Slow digestion and later rescue are not retrospective exemptions. Non-graphic account.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H036",
+      "boundary": {
+        "component_id": "DUST-03-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "start_P": 271,
+        "end_P": 298
+      },
+      "whole_selected_premise": "Shared history supports the restraint, not Dust's appeal for trust.",
+      "primary_L": "L2",
+      "L_rationale": "Leen cites an earlier violation and Yunyun corrects friendship to acquaintance, overturning the relational appeal.",
+      "primary_H": "H1",
+      "H_rationale": "Both enforce a privacy boundary by binding and watching him.",
+      "eligibility_and_limits": "No secret contrary consent is inferred from intimacy or banter.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H037",
+      "boundary": {
+        "component_id": "DUST-03-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "start_P": 304,
+        "end_P": 317
+      },
+      "whole_selected_premise": "A menacing threat becomes a dam-and-landslide bodily analogy.",
+      "primary_L": "L1",
+      "L_rationale": "The paired physical images make a particular humiliating threat vivid; the basic coercion is portable.",
+      "primary_H": "H4",
+      "H_rationale": "The dam and landslide are explicitly figurative descriptions of a fabricated bodily accident.",
+      "eligibility_and_limits": "The actual pursuit and fear remain literal; he admits the bodily emergency is false.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H038",
+      "boundary": {
+        "component_id": "DUST-03-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "start_P": 326,
+        "end_P": 348
+      },
+      "whole_selected_premise": "Cheering the attackers brings Dust into the actual spell area.",
+      "primary_L": "L0",
+      "L_rationale": "His audience alignment, the fleeing goblins' position and the actual cast supply the consequence.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun rescues the women and catches Dust with the goblins while he attempts a desperate polite plea.",
+      "eligibility_and_limits": "The different Iris-based unbinding exchange stays in voice048. Aim restraint is his later inference, not certified.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H039",
+      "boundary": {
+        "component_id": "DUST-03-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "start_P": 390,
+        "end_P": 399
+      },
+      "whole_selected_premise": "Everyday adventuring first yields a list of exploitative expulsions.",
+      "primary_L": "L0",
+      "L_rationale": "Rein's category correction distinguishes ordinary habits from the requested adventure work.",
+      "primary_H": "H1",
+      "H_rationale": "Dust answers with repeated ejections and must reconsider the relevant practice.",
+      "eligibility_and_limits": "The later heroic misreading of blast damage is independent context, not another effect of this wording.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H040",
+      "boundary": {
+        "component_id": "DUST-03-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "start_P": 471,
+        "end_P": 518
+      },
+      "whole_selected_premise": "A supposedly bonding item exposes private memories after ignored hesitation.",
+      "primary_L": "L0",
+      "L_rationale": "Unauthorized bag access, inadequate recall and actual disclosure cause the reversal.",
+      "primary_H": "H1",
+      "H_rationale": "Dust dismisses concerns, Leen refuses activation, and the guards volunteer before learning the full result.",
+      "eligibility_and_limits": "Bonding is the item's stated purpose, not proof of consent or guaranteed memory truth. Rag mechanism remains tentative.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H041",
+      "boundary": {
+        "component_id": "DUST-03-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "start_P": 529,
+        "end_P": 586
+      },
+      "whole_selected_premise": "Military intelligence becomes the enemy's repeated repair bill.",
+      "primary_L": "L0",
+      "L_rationale": "Cleaning, interruption, repair, limited forgiveness and eventual anger form a portable escalating sequence.",
+      "primary_H": "H2",
+      "H_rationale": "Projected Beldia repeatedly repairs damage and hurts himself by throwing his head; present observers sympathize and decline comment.",
+      "eligibility_and_limits": "These are mediated past scenes, not new encounters or independent replication of the main-series battle.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H042",
+      "boundary": {
+        "component_id": "DUST-03-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "start_P": 589,
+        "end_P": 644
+      },
+      "whole_selected_premise": "Leen finds the hidden route; treasure yields a merchant who enjoys disappointment.",
+      "primary_L": "L0",
+      "L_rationale": "Observation, dust traces and actual opening belong to Leen; the expectation reversal belongs to Vanir's setup.",
+      "primary_H": "H1",
+      "H_rationale": "Vanir explicitly values their disappointment and uses the cool room as food storage.",
+      "eligibility_and_limits": "No battle or treasure recovery. His motive is literal in-world, not H3 merely because he performs a final-boss welcome.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H043",
+      "boundary": {
+        "component_id": "DUST-03-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "start_P": 649,
+        "end_P": 655
+      },
+      "whole_selected_premise": "A reminder of Dust's own secret ends his identity inquiry.",
+      "primary_L": "L2",
+      "L_rationale": "A privately lowered reminder makes a question socially costly without explicitly answering it.",
+      "primary_H": "H1",
+      "H_rationale": "Vanir uses exposure leverage and Dust stops asking.",
+      "eligibility_and_limits": "The later individualized sales pitches remain distinct acts; no public disclosure actually occurs.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H044",
+      "boundary": {
+        "component_id": "DUST-03-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "start_P": 741,
+        "end_P": 746
+      },
+      "whole_selected_premise": "A refusal to work reverses when privileged access promises popularity.",
+      "primary_L": "L2",
+      "L_rationale": "A familiar loyalty claim replaces the refusal immediately after a concrete personal incentive.",
+      "primary_H": "H1",
+      "H_rationale": "Dust shakes on the contract after Vanir offers discount and priority access.",
+      "eligibility_and_limits": "Future popularity is unproved. Earlier safety refusal and actual purchases are separate evidence, retained in the report and voice055.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H045",
+      "boundary": {
+        "component_id": "DUST-03-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "start_P": 758,
+        "end_P": 807
+      },
+      "whole_selected_premise": "An audible swap premise becomes an imagined commissioned dream.",
+      "primary_L": "L0",
+      "L_rationale": "The reader/Dust knowledge asymmetry is explicitly reconstructable from the heard mask description and his memory gap.",
+      "primary_H": "H1",
+      "H_rationale": "Dust supplies an unremembered shop visit, grades palace detail as craft, and imitates Rein rather than checking the real-event alternative.",
+      "eligibility_and_limits": "He later updates on direct explanation. No general incapacity follows from this appetite-aligned error.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H046",
+      "boundary": {
+        "component_id": "DUST-03-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "start_P": 843,
+        "end_P": 871
+      },
+      "whole_selected_premise": "Dust monitors a polite persona while assuming privacy intrusion is dream staging.",
+      "primary_L": "L2",
+      "L_rationale": "He intentionally repairs rough speech and imitates Rein to avoid suspicion, with the purpose independently narrated.",
+      "primary_H": "H1",
+      "H_rationale": "He advances the concealed-role intrusion after the accepted conversation.",
+      "eligibility_and_limits": "Same event as prologue U010, not an independent trial. Keep explicit privacy requests and non-graphic analysis.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H047",
+      "boundary": {
+        "component_id": "DUST-03-U013",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "start_P": 875,
+        "end_P": 913
+      },
+      "whole_selected_premise": "The interrupted dream account returns to an already prepaid crowd.",
+      "primary_L": "L0",
+      "L_rationale": "Identity clues compete with immediate financial attention; prepayment supplies the actual constraint.",
+      "primary_H": "H1",
+      "H_rationale": "Dust prioritizes the bill in the repeated report and cannot stop consumption from exhausting the reward into a deficit.",
+      "eligibility_and_limits": "Rein's original declaration is reported by others; he does not personally witness its first utterance.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H048",
+      "boundary": {
+        "component_id": "DUST-03-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "start_P": 6,
+        "end_P": 25
+      },
+      "whole_selected_premise": "A corrected reality model produces regret about missed exploitation.",
+      "primary_L": "L0",
+      "L_rationale": "Correct explanation and unchanged valuation are separable facts.",
+      "primary_H": "H1",
+      "H_rationale": "Vanir confirms the packing error and ordinary-use limit; Dust updates but regrets opportunity rather than intrusion.",
+      "eligibility_and_limits": "High-magic exception is explicit. The later unusual reuse is not proof that no limit existed.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H049",
+      "boundary": {
+        "component_id": "DUST-03-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "start_P": 38,
+        "end_P": 94
+      },
+      "whole_selected_premise": "A friendly advice request carries implied exposure pressure.",
+      "primary_L": "L2",
+      "L_rationale": "Transparent denials and tactical postponement change the practical freedom to refuse.",
+      "primary_H": "H1",
+      "H_rationale": "The guards ask for help while withholding a damaging inquiry; a danger-of-knowing warning stops Yunyun's questions.",
+      "eligibility_and_limits": "Do not equate professional politeness with free assent; competing romantic and unromantic readings of the legend remain.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H050",
+      "boundary": {
+        "component_id": "DUST-03-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "start_P": 99,
+        "end_P": 156
+      },
+      "whole_selected_premise": "Thief play becomes a funding ledger and a remembered burden.",
+      "primary_L": "L0",
+      "L_rationale": "Contrasting ordinary play, material obligations and private memory create the tonal change.",
+      "primary_H": "H1",
+      "H_rationale": "Iris rejects abandoning her country, and Dust recognizes the burden without solving it.",
+      "eligibility_and_limits": "Second mask mode gives observation without control; its precise mechanism is Dust's inference. Leen's drink funding is later disputed as gift versus loan.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H051",
+      "boundary": {
+        "component_id": "DUST-03-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "start_P": 205,
+        "end_P": 207
+      },
+      "whole_selected_premise": "A reassuring ship becomes an old vessel full of holes.",
+      "primary_L": "L1",
+      "L_rationale": "Leen extends the very vehicle of Dust's repayment assurance into a concrete failure image.",
+      "primary_H": "H4",
+      "H_rationale": "The ship's decay and holes are explicitly figurative, mapping to his credibility rather than literal travel.",
+      "eligibility_and_limits": "Actual teleport-loan terms remain the context. The earlier eye-poke is separate behavior, not a metaphor.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H052",
+      "boundary": {
+        "component_id": "DUST-03-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "start_P": 210,
+        "end_P": 240
+      },
+      "whole_selected_premise": "A castle blast is stopped, then replaced with a less direct intrusion plan.",
+      "primary_L": "L0",
+      "L_rationale": "Actual chant, staff removal, selective delegation and negotiated planning supply the deviation.",
+      "primary_H": "H1",
+      "H_rationale": "Dust intervenes in feasible time; Yunyun rejects being made the convenient clan authority.",
+      "eligibility_and_limits": "This protective act does not erase the earlier rescue delay, and no actual gate Explosion occurs.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H053",
+      "boundary": {
+        "component_id": "DUST-03-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "start_P": 244,
+        "end_P": 325
+      },
+      "whole_selected_premise": "A targeted summons recruits a shy noble and a precisely bounded equipment loan.",
+      "primary_L": "L0",
+      "L_rationale": "Location, invitation, stated purpose and one-day lending terms matter, not abstract charm alone.",
+      "primary_H": "H1",
+      "H_rationale": "The noble appears, freely lends the helmet and adds armor; Dust keeps an innocent explanation and private unease.",
+      "eligibility_and_limits": "The no-cleaning request is actual; his hidden motive is not independently certified. No unrestricted provider debt is inferred.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H054",
+      "boundary": {
+        "component_id": "DUST-03-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "start_P": 268,
+        "end_P": 344
+      },
+      "whole_selected_premise": "Competing alarms and a false Kazuma report stall command.",
+      "primary_L": "L0",
+      "L_rationale": "Information distribution and audience vulnerabilities explain access more than raw force.",
+      "primary_H": "H1",
+      "H_rationale": "Helpers spread rumors, Claire follows the product cue, and Dust changes into an envoy role during indecision.",
+      "eligibility_and_limits": "Megumin's Explosion is skyward; death threats and collateral risk remain. Taylor/Keith help without full details, not informed approval of every consequence.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H055",
+      "boundary": {
+        "component_id": "DUST-03-U014",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "start_P": 347,
+        "end_P": 370
+      },
+      "whole_selected_premise": "The old formal voice gives Iris an accepted bounded night flight.",
+      "primary_L": "L2",
+      "L_rationale": "Former etiquette is deliberately recalled and used in the invitation, contrasting with Dust's rough habitual address.",
+      "primary_H": "H1",
+      "H_rationale": "Dragon cooperation and Iris's checked acceptance make a real outing possible.",
+      "eligibility_and_limits": "No romantic entitlement, permanent escape or resolved geopolitical problem.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H056",
+      "boundary": {
+        "component_id": "DUST-03-U016",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "start_P": 1,
+        "end_P": 44
+      },
+      "whole_selected_premise": "A permitted exception and indirect trust close the flight without full disclosure.",
+      "primary_L": "L0",
+      "L_rationale": "The recalled rule, present care and deferred information are portable semantic commitments.",
+      "primary_H": "H1",
+      "H_rationale": "Iris reports relief; Dust thanks the dragon; Leen confirms refuge and accepts a future disclosure promise.",
+      "eligibility_and_limits": "Exact spear wording becomes known, but no spear-required full decision trial is supplied; the previous lady's identity remains unresolved.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H057",
+      "boundary": {
+        "component_id": "DUST-03-U017",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "start_P": 9,
+        "end_P": 39
+      },
+      "whole_selected_premise": "Debt-erasure advice cools a quarrel; gratitude finds a flaw in the disguise.",
+      "primary_L": "L0",
+      "L_rationale": "Unexpected instrumental advice and a real identity check drive the two reversals.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun rebukes the bar-destruction suggestion; the others lower their guard. Iris checked the actual envoy and thanks Dust indirectly.",
+      "eligibility_and_limits": "No bar destruction; no direct confession. An actually useful result does not erase the destructive proposal.",
+      "source_plane": "Principal fiction; direct/report/inference qualifications in rationale",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H058",
+      "boundary": {
+        "component_id": "DUST-03-U018",
+        "native_member": "item/xhtml/p-010.xhtml",
+        "start_P": 6,
+        "end_P": 18
+      },
+      "whole_selected_premise": "Authorial confidence checks itself, and a drawing compliment belongs to someone else.",
+      "primary_L": "L0",
+      "L_rationale": "Reassurance-seeking and mistaken creative credit are portable; rumor phrasing is a nested stylistic device.",
+      "primary_H": "H1",
+      "H_rationale": "Hirukuma corrects the child's illustrator assumption and credits Hagure.",
+      "eligibility_and_limits": "Paratext, not fictional character behavior or independent evidence of reader reception.",
+      "source_plane": "Authorial paratext",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H059",
+      "boundary": {
+        "component_id": "DUST-03-U020",
+        "native_member": "item/xhtml/p-012.xhtml",
+        "start_P": 1,
+        "end_P": 14
+      },
+      "whole_selected_premise": "The party recognizes the redemption trope Dust copied to obtain praise.",
+      "primary_L": "L0",
+      "L_rationale": "The named convention and exposed social tactic survive ordinary paraphrase; stock wording is a nested cue.",
+      "primary_H": "H1",
+      "H_rationale": "The tactic actually fails, and Dust blames the bookseller after admitting the source of his plan.",
+      "eligibility_and_limits": "Explicit convention recognition does not license treating every fantasy event as nonliteral.",
+      "source_plane": "Electronic bonus fiction",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    },
+    {
+      "id": "DUST03-H060",
+      "boundary": {
+        "component_id": "DUST-03-U020",
+        "native_member": "item/xhtml/p-012.xhtml",
+        "start_P": 25,
+        "end_P": 50
+      },
+      "whole_selected_premise": "A known client explains the odd task, but purpose checking cancels it profitably.",
+      "primary_L": "L0",
+      "L_rationale": "Unequal information and actual updating precede action; no Japanese-specific form is required.",
+      "primary_H": "H1",
+      "H_rationale": "Dust follows Leen's advice, consults Kazuma before capture, and receives a cancellation fee.",
+      "eligibility_and_limits": "No live capture or enacted fantasy. This is checking counterevidence, not another delayed-reward failure.",
+      "source_plane": "Electronic bonus fiction",
+      "selection": "Purposeful whole-premise selection after all-body uncoded seal, not exhaustive census or independent discovery",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00"
+    }
+  ],
+  "counts_describe_selected_records_only": {
+    "primary_L": {
+      "L0": 41,
+      "L1": 8,
+      "L2": 10,
+      "L3": 1
+    },
+    "primary_H": {
+      "H1": 46,
+      "H2": 12,
+      "H4": 2
+    }
+  }
+}

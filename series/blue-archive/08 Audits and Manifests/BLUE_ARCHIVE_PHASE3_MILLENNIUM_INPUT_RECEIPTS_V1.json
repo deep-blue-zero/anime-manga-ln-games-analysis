@@ -1,0 +1,162 @@
+{
+  "schema": "phase3_source_bound_argument_receipts_v1",
+  "analytical_head": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+  "source_commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+  "source_generation": "BA_REFRESH_20260928T032248159554Z",
+  "main_basis": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+  "inputs": [
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIMARI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 23794,
+      "sha256": "23b784b6d681fe11ef170251470b655f1c09756bee762acb0c219ebe7b47e0e5",
+      "blob_oid": "14ae2626b0af29ed8ad3929291e3e7884a1c9e83",
+      "matches_main_2e2018d0": true,
+      "human_argument_receiving": "COMPLETE_THROUGH_EOF",
+      "source_credit_added": 0
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 28890,
+      "sha256": "f5f7931544e1ec6332124db1708ab14e8d0cf7f683e4e739fa2bdc9dd036f274",
+      "blob_oid": "87555cb2c4b6c0b3f67569945761e8dd7480ac4a",
+      "matches_main_2e2018d0": true,
+      "human_argument_receiving": "COMPLETE_THROUGH_EOF",
+      "source_credit_added": 0
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/NOMASA_REI/BLUE_ARCHIVE_NOMASA_REI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 28880,
+      "sha256": "f79430e028199b3e159bc3e6850ef532eedead1ac535dc90f9867500d65fc3f4",
+      "blob_oid": "89d5cd9147314e14ee75a514451c7813a28b1c06",
+      "matches_main_2e2018d0": true,
+      "human_argument_receiving": "COMPLETE_THROUGH_EOF",
+      "source_credit_added": 0
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_EIMI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 29433,
+      "sha256": "1905b4df47918eedc4d41993f8caa2f4bd16dfd3c03288f9d454972990f7180f",
+      "blob_oid": "98410f7c82dc5f10f34ef4368ff9ebe851c4ad9d",
+      "matches_main_2e2018d0": true,
+      "human_argument_receiving": "COMPLETE_THROUGH_EOF",
+      "source_credit_added": 0
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HARE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 32735,
+      "sha256": "5953c0c9456bc197e4ad37e7c8175d9e0dfdce3f98071ce0f69bf1b8485507d1",
+      "blob_oid": "84a8449ff5e640e648b370afbc376641a6d24c30",
+      "matches_main_2e2018d0": true,
+      "human_argument_receiving": "COMPLETE_THROUGH_EOF",
+      "source_credit_added": 0
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 36048,
+      "sha256": "084cb6c0fc6c2780e2dfe09e1fd4f88c371dcecb10dc4502681bbdebd2fbe5f6",
+      "blob_oid": "980072456c305f1456d390065527ce9a454e5c58",
+      "matches_main_2e2018d0": true,
+      "human_argument_receiving": "COMPLETE_THROUGH_EOF",
+      "source_credit_added": 0
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MAKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 27191,
+      "sha256": "bddddb8acf72d303dadcebd8c8b329c8b4a3ce2b9cacc6885fcce07979bccd24",
+      "blob_oid": "3ebdc50e7f6c3ceb8c3c244a40b1b18b46a049dc",
+      "matches_main_2e2018d0": true,
+      "human_argument_receiving": "COMPLETE_THROUGH_EOF",
+      "source_credit_added": 0
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUMIRE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 32702,
+      "sha256": "a4d9e272de8bca85407fd8955f09a02b8c838da6f46333d87295671b8380352f",
+      "blob_oid": "ad699ece11140c0c737357f4e4687f1c420d100a",
+      "matches_main_2e2018d0": true,
+      "human_argument_receiving": "COMPLETE_THROUGH_EOF",
+      "source_credit_added": 0
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 33564,
+      "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+      "blob_oid": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+      "matches_main_2e2018d0": true,
+      "human_argument_receiving": "COMPLETE_THROUGH_EOF",
+      "source_credit_added": 0
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md",
+      "bytes": 31173,
+      "sha256": "5befccc68d9cd8c89ba1f60e37f5fe861acfe280f33d5c5ea145f89a8126b0d6",
+      "blob_oid": "5f0889bb9b75d3cf973d432467152fb830ba722f",
+      "matches_main_2e2018d0": true,
+      "human_argument_receiving": "COMPLETE_THROUGH_EOF",
+      "source_credit_added": 0
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3301_3303_DEEP_READING.md",
+      "bytes": 28668,
+      "sha256": "4b2cc0b4808e617e18c1bf3e788da5357f4c20fcb87bceeabb9b6f73e22e4d69",
+      "blob_oid": "199da3f35af1f6ab9802b7396d2d844c8638b0d3",
+      "matches_main_2e2018d0": true,
+      "human_argument_receiving": "COMPLETE_THROUGH_EOF",
+      "source_credit_added": 0
+    },
+    {
+      "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 23709,
+      "sha256": "aa8ea335644d12f74f0a268aa3cb03e8dcd1b51838cafa4bec8f66714a451e20",
+      "blob_oid": "c86f892caa1c88cfb9efacd14007408df834945b",
+      "matches_main_2e2018d0": true,
+      "human_argument_receiving": "COMPLETE_THROUGH_EOF",
+      "source_credit_added": 0
+    },
+    {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+      "bytes": 75339,
+      "sha256": "ba15bbfb3e7f25be67494fcf505d3e98e73a5b74eabceacf9dde3f6314da023c",
+      "blob_oid": "88ddcb150f2afa22655552e859d0443349bd7f9f",
+      "human_argument_receiving": "METADATA_READ_ONLY_NOT_ALL_SEMANTIC_ROWS_ADJUDICATED"
+    },
+    {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+      "bytes": 434694,
+      "sha256": "84dab6b4e550a81f1a537314c9e7d5ee6083459d93d53ed847073cf070b99eb5",
+      "blob_oid": "84ed033b5b03425362600ee73e88e22bae9a5abe",
+      "human_argument_receiving": "METADATA_READ_ONLY_NOT_ALL_SEMANTIC_ROWS_ADJUDICATED"
+    },
+    {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_OWNER_CENSUS_DISPATCH.csv",
+      "bytes": 43973,
+      "sha256": "ab43963dfef86091381415fab947d1c338060cfd7fa9fff51915109abab4ce52",
+      "blob_oid": "8cf17eba4066f1827baff54058795b5881cdea34",
+      "human_argument_receiving": "METADATA_READ_ONLY_NOT_ALL_SEMANTIC_ROWS_ADJUDICATED"
+    }
+  ],
+  "fully_reviewed_dispatch_owners": [
+    "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md",
+    "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3301_3303_DEEP_READING.md",
+    "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+  ],
+  "dispatch_limit": "Three bounded GROUP/EVENT owner roster arguments complete; remaining102 of105 owners pending unless separately adopted by ROOT",
+  "unbound_large_inputs_used": 0,
+  "new_primary_source_credit": 0,
+  "complete_private_argument_receipts": {
+    "Himari": "Complete earlier full owner through EOF",
+    "Eimi": "Combined display clipping recovered from line231 through EOF",
+    "Chihiro": "Complete individual full owner through EOF",
+    "Hare": "Complete individual full owner through EOF",
+    "Kotama": "Complete individual full owner through EOF",
+    "Maki": "Complete individual full owner through EOF",
+    "Sumire": "Complete individual full owner through EOF",
+    "Rei": "Complete individual full owner through EOF"
+  },
+  "public_argument_recovery": {
+    "V002": "Full owner output plus clipped middle lines100–227; all final portions read",
+    "G150": "Complete individual full owner through EOF",
+    "G330": "Complete individual full owner through EOF",
+    "E832": "Complete individual full owner through EOF"
+  }
+}

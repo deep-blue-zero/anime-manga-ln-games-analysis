@@ -1,0 +1,74 @@
+---
+title: Genocidal Organ / 虐殺器官 — G3 convergence and G4/G5 readiness handoff
+artifact_id: GENOCIDAL_ORGAN_G3_CONVERGENCE
+artifact_type: analytical_stage_handoff
+series: Genocidal Organ / 虐殺器官
+series_id: genocidal-organ
+generation: GENOCIDAL_ORGAN_BOOTSTRAP_V1
+version: '1.0'
+status: active_provisional
+scope: G3 cross-specialist convergence, nonredundancy, evidence limits and G4/G5 readiness; no G4 synthesis or G5 model
+source_boundary: GO-JP-EPUB-001; completed GO-U001–028 and all44 source obligations; retrospective, no new admission
+canonical_home: series/genocidal-organ/07 Audits and Handoffs/GENOCIDAL_ORGAN_G3_CONVERGENCE_AND_HANDOFF.md
+created: '2026-10-18'
+review_status: G3_INDEPENDENT_SEMANTIC_ACCEPTED_EXACT_PUBLICATION_SEPARATE
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+do_not_use_as_literary_evidence: true
+recommended_reasoning_class: DEEP_SYNTHESIS
+---
+
+# G3 convergence and G4/G5 readiness
+
+The separately commissioned G3 responsibility is substantively complete: four specialist arguments and four major literary monographs have received full-prose independent review, targeted Japanese challenges, attribution repairs and a cross-study role-gap review. Their eight new central propositions are CL089–096 in the [sole claims owner](../03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#go-g3-specialist-arguments). This handoff adjudicates dependencies and limits; it does not combine the studies into a final interpretation of the entire novel. G4 is ready for a separately commissioned integrated argument. G5 has evidence-qualified candidates and explicit ceilings, with no models or validation produced. Exact repository publication acceptance remains distinct from this semantic gate.
+
+G2 is the authoritative starting state. Its [disposition and handoff](GENOCIDAL_ORGAN_G2_RECONCILIATION_AND_HANDOFF.md), all88 entering claims,73 revisions and earlier formulations remain preserved. G3 appends new supported inferences rather than manufacturing a correction of adequate G2 interpretations. All28 frozen readings, their historical knowledge boundaries and the four fixed-horizon forecasts remain unchanged. The source is still GO-JP-EPUB-001, SHA-256 `a4107c01b69c0e8819818eabb0198cc62d4174aa173eb0ebdca3a0dbf93b7df0`; next source operation remains NONE.
+
+## Responsibility coverage and distinct analytical work
+
+The [architecture's G3 allocation](../00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_SYNTHESIS_ARCHITECTURE.md#owner-authorized-g3-role-allocation--2026-10-18) was tested against actual content, rather than the existence of expected files.
+
+| Required responsibility | Completed argument and boundary with adjacent work |
+| --- | --- |
+| Narration, disclosure and formal construction | [Narration/moral agency](../05%20Specialist%20Synthesis/GENOCIDAL_ORGAN_NARRATION_AND_MORAL_AGENCY.md), CL089, explains the changing speaker/addressee relation, self-correction and the power of an answering voice. It does not own the entire account of the terminal return. |
+| Character/relationship development and agency | [Relationships](../05%20Specialist%20Synthesis/GENOCIDAL_ORGAN_RELATIONSHIPS_AND_RESPONSIBILITY.md), CL092, compares directional access, care and judgment across differently situated people. The [four monographs](../03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md#go-g3-monograph-disposition), CL091/093/095/096, each retain the named individual's longitudinal decisions, motives, written language, recipient changes, countercases and limits. The relationship argument does not replace those developments. |
+| Institutions, causality and normative reasoning | [Institutional study](../05%20Specialist%20Synthesis/GENOCIDAL_ORGAN_INSTITUTIONS_CAUSALITY_AND_POLITICAL_RESPONSIBILITY.md), CL094, explains distributed conditions of action and separates causal instrument, explanatory theory, protective outcome and justification. It includes commands, custody, public/private services, bodily coercion, material/ecological circulation and the practical alternative of public judgment. |
+| Ending in relation to prior evidence | [Ending study](../05%20Specialist%20Synthesis/GENOCIDAL_ORGAN_ENDING_AND_RETROSPECTIVE_FORM.md), CL090, explains the terminal return of protection, burden and private comfort while keeping catastrophe unfinished. The narration study analyzes what telling does to an audience; this study analyzes what recurrence closes and what the final temporal boundary leaves uncompleted. |
+
+Shared passages legitimately answer different questions. The epilogue's performance supports a narrator/audience argument, an institutional disclosure problem, Clavis's developmental limit and a terminal formal return. Those claims remain separately specified rather than copied into four competing novel syntheses. Full original G1/G2 evidence registries remain in their existing owners; no specialist becomes another source map or cumulative ledger.
+
+The role-gap review found one material coverage need before acceptance: the institutional argument initially underdeveloped the repeated tissue/provenance/lake economy. Its adopted section now distinguishes productive viability from ecological restoration, working but incomplete records from automatic understanding, and Clavis's attention from a view of wholly ignorant consumers. Mugabe's articulated civic hope is a positive contrary case to the narrator's selfishness-only political generalization; neither the hope's fulfillment nor the radio's harmlessness is assumed. This closes a recurring responsibility within the existing study, without creating a separate obligatory ecology file. [U023-E008–009; U024-E004–006; U025-E001/E006–009; CL071/074–075/077.]
+
+Personhood, embodiment, language/cognition, surveillance, consent/coercion and collective welfare receive substantive treatment in those homes. Supporting represented-Elisha/Alex/Leland/Rockwell/Lucius/Tzvi responsibilities are bounded within the monographs and specialists. The G2 all51 disposition remains adequate for less-represented subjects; no literary importance threshold is mistaken for a recoverable private mind or a mandatory independent monograph. No material mandatory G3 role remains uncovered within the admitted witness.
+
+## Cross-study adjudication
+
+| Dependency tested | Converged disposition, strongest contrary evidence and remaining limit |
+| --- | --- |
+| Agency versus its felt ownership | The studies retain actual earlier choices and material constraints. Clavis's later nonchoice language is a changed ethical self-account, not cancellation of his earlier decisions. Direct pain and motor coercion remain real countercases to an unconstrained chooser. His final owned destructive act defeats automatic moral maturation. CL010/028/061/066/070/077/089/091/094 are compatible at these distinct levels. |
+| Real care versus instrumental protection | Williams's care and professional initiative remain actual alongside his final killing; John's specified protection outranks an exclusively nihilistic account without proving exhaustive sincerity; Lucia acts beyond the private verdict Clavis wants. Ordinary unequal reciprocity is not itself coercion. The relationship argument concerns exercised power, not a diagnosis that every attachment is fraudulent. CL082–085/091–096 preserve these distinctions. |
+| Operative instrument versus theoretical totality | Confession, technical resources, editor, composition and narrated aftermath strongly support fictional operation. Williams's evolutionary objection remains material to the explanatory theory, and medium/threshold/neural parameters remain unshown. No study either dismisses cumulative enactment or treats it as external scientific validation. CL050–052/064/080/087/089–090/094–095 converge without closing those limits. |
+| Publicity versus informed responsibility | Lucia's arrest demand really changes Clavis's plan and John's intended destination, despite her admitted risk of ridicule and her coercive disarmament threat. Later hearings really expose secrecy. Deliberately weaponized circulation does not fulfill her condition of informed judgment. The studies assert covert coercive exposure, not demonstrated universal mechanical inability of every listener to resist. CL084/087/089–090/092/094–096 retain the productive and destructive uses of access. |
+| Records versus another person's experience | Authentication and provenance work locally. The generated maternal story changes Clavis's belief without proving maternal lovelessness, wishes or consent; Alex's recipient-specific speech enriches recognition without recovering his suicide motive. A record may have practical consequence while failing to give first-person access. CL003/020–021/041/046/071/086/089/091–094 remain mutually qualified. |
+| Terminal closure versus future outcome | Current violent disorder and personal killing are source assertions; the larger massacre-scale outcome and civil war remain projected. Clavis's imagined quiet and claim to save America's outside are not achieved global results. The closing domestic comfort also defeats pure self-sacrifice without proving his anguish false. CL059/085/088/090–091/094 preserve the same endpoint. |
+
+No surviving substantive disagreement is concealed by a consensus label. The genuinely competing interpretations remain ranked in their canonical arguments: mixed shame beneath John's protective account; strategic aspects of his agreement; Clavis's sincere suffering alongside self-serving authority; software selection versus the narrator's categorical maternal interpretation; and disclosure's actual value alongside danger. These are not missing chapters or unperformed G3 roles. The sources do not settle complete private motives, exact earlier knowledge onset, every higher order, the biological mechanism's parameters or the ultimate aftermath.
+
+## Review, corrections and source limits
+
+Two isolated same-novel specialists reviewed work they had not authored; the sole mutable owner read all eight full arguments and received their exact bytes. Review included every introduction, substantial middle, conclusion and major relationship under the named-subject standard. Clavis/Bishop remains scene-bound; dream mother and Alex are Clavis's representations; unnamed doctor, counselors, victims and pickup sergeant retain source-required anonymity. Commands, imagined speech, narrator inference and actual dialogue remain separately attributed.
+
+Three actual defects were corrected before the substantive tranche was accepted. The Clavis monograph first attributed the patrol killing to obtaining credentials; the repaired sequence is avoiding delay, then discovering and appropriating the tag after consultation (U003-E008–010). The ending study first cited only E008 for the state's firing and arsenal seizures; E004/L24 supplies those acts, while E008 supplies the current/future catastrophe distinction. The Lucia monograph first treated urged flight in U015 as a shown departure; original N82–92 instead ends with her frozen before John. The actual later U017 departure remains separate. These repairs correct causation, citation and represented action. They do not revise a frozen reading or manufacture a disagreement with G2.
+
+Original Japanese was selectively reread where wording or attribution carried the new arguments: guilt and sensory ownership, explicit arrest and qualified higher intent, imagined versus spoken confession, protective compilation and no-regret, records and gaze, public disarmament/duty, material recovery and civic hope, performed/transcribed language and terminal tense. Exact old locator spans were independently resolved and hashed; these checks are not a new exhaustive all28 reading, whole-book pixel review, independent publisher-master comparison or blind test. Written register and meaningful form rely on original XML plus the distinct accepted G1/G2 form attestations. No acoustic claim or imported translation/other-novel evidence is used. The transformed witness's external lineage and unavailable independent edition comparison remain explicit limits.
+
+## G4 and G5 handoff
+
+G4 is substantively ready to be commissioned against these converged dependencies. Its remaining intellectual task is to make one source-retrievable novel-level argument that adjudicates the relation among intimate judgment, material/institutional division, linguistic intervention and retrospective form. Concatenating eight abstracts would not discharge that task. The author must preserve the strongest constructive countercases—care, operational competence, useful records, civic hope and a real public alternative—rather than make a universal manipulation thesis easier by removing them. The narration's occasion, the still-unfinished terminal outcome and the beneficiary/cost distinctions must remain explicit. No such G4 integrated argument is delivered here.
+
+G5 readiness remains exactly the [G2 all51 assessment](../03%20Longitudinal%20Ledgers/GENOCIDAL_ORGAN_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md#go-g2-readiness): Clavis and Williams are MULTICONTEXT_CANDIDATE; John, Lucia, Alex, Leland, Rockwell and Lucius are DOMAIN_BOUNDED;43 subjects remain RECOGNITION_ONLY. The four monographs deepen literary understanding without changing those ceilings. Represented Elisha and Tzvi can warrant literary sections without a recoverable behavioral repertoire. Model production is NOT_STARTED and validation NOT_PERFORMED for every subject.
+
+A separately authorized G5 task must freeze actual models, era/recipient/knowledge inputs, evidence and negative constraints before evaluation. Earlier Clavis cannot borrow the editor or Lucia's later knowledge; Williams's family interior and terminal order acquisition cannot be supplied from silence; John and Lucia lack broad independent ordinary-life evidence; Alex's suicide motive and a posthumous voice remain unavailable. Already-read cases support honestly retrospective consistency checks, not blind or held-out validation. The [architecture's reconstruction contract](../00%20Frameworks%20and%20Methods/GENOCIDAL_ORGAN_SYNTHESIS_ARCHITECTURE.md#5-full-character-reconstruction-specification) remains governing. No model, test scenario, generated dialogue, simulation or capability enrollment is created by this handoff.
+
+There is no remaining mandatory G3 evidence or analytical repair within this scope. G4 integration, G5 production/validation, G6 release, protected-main merge and comparison remain separate responsibilities. Current exact publication facts belong to Git/PR/status records and the verified delivery manifest; the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) owns the live analytical state. G3 semantic completion does not by itself certify those other transactions.

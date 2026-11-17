@@ -1,0 +1,16 @@
+{
+  "series_id": "haikyu",
+  "stable_slug": "haikyu",
+  "canonical_title": "Haikyu!!",
+  "media": [
+    "MANGA"
+  ],
+  "repository_path": "series/haikyu/",
+  "canonical_entrypoint": "series/haikyu/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_REVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261107",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Japanese manga project for ハイキュー!!, with the supplied colour edition as its own main witness and separate Chronicle/Final Guidebook paratext scopes."
+}

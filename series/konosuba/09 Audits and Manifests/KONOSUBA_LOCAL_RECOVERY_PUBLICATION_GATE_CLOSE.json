@@ -1,0 +1,66 @@
+{
+  "closed_at_utc": "2026-10-18T01:21:22.385449+00:00",
+  "disposition": "CLOSED_SUCCESS",
+  "published_source_commit": "ee740bf0023b6cc7167f80cbbc70fa949f29f232",
+  "source_tree": "2cd1538b30473761f79f736620a20d0fa62eae31",
+  "source_audit": {
+    "run": 39085407327,
+    "job": 117550774950,
+    "conclusion": "success",
+    "paths": 8305,
+    "tests_run": 352,
+    "profile": "full",
+    "test_outcome": "success",
+    "log_sha256": "5697b1d45fc5de72a7aa2cc3f4ea9b441f4161e2c9942bfe0696cb2861daaf71"
+  },
+  "housekeeping": {
+    "run": 39085759547,
+    "job": 117551857631,
+    "conclusion": "success",
+    "result": "NO_OP",
+    "final_dispatch_actual_sha": "ee740bf0023b6cc7167f80cbbc70fa949f29f232",
+    "displayed_default_branch_sha": "1065d51ce5d4bec523e144fc2aec36f25abee8a1",
+    "log_sha256": "3be392040b245799ac5efac5b51711c65f22261e00dccc05bbec28655b1ed0de"
+  },
+  "final_exact_source_audit": {
+    "run": 39085785856,
+    "job": 117551935243,
+    "conclusion": "success",
+    "actual_audited_sha": "ee740bf0023b6cc7167f80cbbc70fa949f29f232",
+    "displayed_default_branch_sha": "1065d51ce5d4bec523e144fc2aec36f25abee8a1",
+    "paths": 8305,
+    "tests_run": 352,
+    "profile": "full",
+    "outcome": "success",
+    "non_success_counters": {
+      "errors": 0,
+      "failures": 0,
+      "skipped": 0,
+      "expected_failures": 0,
+      "unexpected_successes": 0
+    },
+    "log_sha256": "fb839f1eeb08596fabed1534323cfb1013a24b1e8d07344006fb1102fbfd3349",
+    "completed_at": "2026-10-18T01:20:12Z"
+  },
+  "exact_repository_integration_audit_status": {
+    "context": "Repository integration audit",
+    "state": "success",
+    "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39085785856",
+    "updated_at": "2026-10-18T01:20:17Z"
+  },
+  "remote_tree_paths_equal": 8305,
+  "remote_changed_blob_streams_equal": 20,
+  "authored_recovery_paths": 7,
+  "exact_accepted_main_import_paths": 13,
+  "recovered_original_unpublished_merge": "6938b50645b4f0568aa1c6bbe1d6ced4286e075f",
+  "first_recovery_candidate_preserved": "4a435bdeed9ffcfaab4ebfb12a142c75f572b2f6",
+  "archive_integrity_and_all41_local_native_identity_recovery": "PASS; transport and source structure, not semantic acceptance",
+  "historical_pauses_preserved": true,
+  "DUST02_or_CORE_accepted_by_recovery": false,
+  "current_component_percentage": null,
+  "next_permitted_operation": "Reload exact published authority; resume preserved Dust02/Core substantive receiving, then all remaining governed program responsibilities.",
+  "DUST03_and_ADVANCED": "Remain separately gated.",
+  "protected_main_integration_asserted": false,
+  "full_corpus_complete": false,
+  "archival_release_asserted": false
+}

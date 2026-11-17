@@ -1,0 +1,181 @@
+{
+  "schema": "KONOSUBA_EXP01_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+  "source_id": "EXP-01",
+  "accepted_utc": "2026-10-18T14:03:27.763693+00:00",
+  "native_filename": "Konosuba - Spin-off - Explosions - Volume 01.epub",
+  "native_bytes": 19168549,
+  "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+  "OPF_member": "item/standard.opf",
+  "OPF_sha256": "2ced4b33bbfbce91e8a83c5a4cabf819168ed6fe645d5f089b50a27aafc7d954",
+  "language": [
+    "ja"
+  ],
+  "colophon": "Native title この素晴らしい世界に爆焔を！めぐみんのターン. Japanese electronic issue2014-07-01, print-base first edition2014-07-01; no version number printed. Akatsuki Natsume author, Mishima Kurone illustration; design credits separately read.",
+  "admission_sha256": "615c86a7c62c699cd5f6274172f192117e5157f15572931f2b0135b4863d7d1e",
+  "admission_utc": "2026-10-18T12:59:50.599706+00:00",
+  "preceding_full_gate_source": "eb4ddb3c1c176a749df2d74fe9cbfe3d821dcf52",
+  "preceding_gate_sha256": "a1e089bc74d6a4f09f1301904747cc1100d6b75191fa2fb385f287fd9e3ad64c",
+  "preceding_fresh_reload_sha256": "fbe098e8c1a7026f24d9b515598a11e38b4a9d6f4b9c37294e94ed3e5c8c977d",
+  "complete_uncoded_seal_sha256": "5b83ba6f5398cc831b7f707b17f308e831fbfdbe7a5185566be35b072600175f",
+  "complete_uncoded_seal_utc": "2026-10-18T13:26:33.940923+00:00",
+  "actual_reading": {
+    "all_textual_components": 54,
+    "all_native_P_slots": 3232,
+    "principal_P_slots": 3187,
+    "other_P_slots": 45,
+    "separate_bonus_narrative": true,
+    "individually_identified_narrative_image_groups": [
+      {
+        "id": "EXP01-INTERLUDE-I",
+        "title": "解けないパズルと邪神の封印",
+        "native_units": [
+          "EXP-01-U019",
+          "EXP-01-U020",
+          "EXP-01-U021"
+        ],
+        "native_images": [
+          "EXP-01-IMG026",
+          "EXP-01-IMG027",
+          "EXP-01-IMG028"
+        ],
+        "viewpoint": "Komekko first person; reader-only access separate from Megumin",
+        "scope": "All supplied image-prose pages actually viewed/read; whole named group analyzed in report, not a packaging-only tick."
+      },
+      {
+        "id": "EXP01-INTERLUDE-II",
+        "title": "こめっこさんとホースト様",
+        "native_units": [
+          "EXP-01-U024",
+          "EXP-01-U025",
+          "EXP-01-U026"
+        ],
+        "native_images": [
+          "EXP-01-IMG029",
+          "EXP-01-IMG030",
+          "EXP-01-IMG031"
+        ],
+        "viewpoint": "Komekko first person; reader-only access separate from Megumin",
+        "scope": "All supplied image-prose pages actually viewed/read; whole named group analyzed in report, not a packaging-only tick."
+      },
+      {
+        "id": "EXP01-INTERLUDE-III",
+        "title": "紅魔族随一の魔性の妹",
+        "native_units": [
+          "EXP-01-U029",
+          "EXP-01-U030",
+          "EXP-01-U031",
+          "EXP-01-U032"
+        ],
+        "native_images": [
+          "EXP-01-IMG032",
+          "EXP-01-IMG033",
+          "EXP-01-IMG034",
+          "EXP-01-IMG035"
+        ],
+        "viewpoint": "Komekko first person; reader-only access separate from Megumin",
+        "scope": "All supplied image-prose pages actually viewed/read; whole named group analyzed in report, not a packaging-only tick."
+      },
+      {
+        "id": "EXP01-INTERLUDE-IV",
+        "title": "この里の少女に親子丼を",
+        "native_units": [
+          "EXP-01-U038",
+          "EXP-01-U039",
+          "EXP-01-U040",
+          "EXP-01-U041"
+        ],
+        "native_images": [
+          "EXP-01-IMG036",
+          "EXP-01-IMG037",
+          "EXP-01-IMG038",
+          "EXP-01-IMG039"
+        ],
+        "viewpoint": "Komekko first person; reader-only access separate from Megumin",
+        "scope": "All supplied image-prose pages actually viewed/read; whole named group analyzed in report, not a packaging-only tick."
+      },
+      {
+        "id": "EXP01-INTERLUDE-FINAL",
+        "title": "上位悪魔と悪魔的少女",
+        "native_units": [
+          "EXP-01-U044",
+          "EXP-01-U045",
+          "EXP-01-U046",
+          "EXP-01-U047"
+        ],
+        "native_images": [
+          "EXP-01-IMG040",
+          "EXP-01-IMG041",
+          "EXP-01-IMG042",
+          "EXP-01-IMG043"
+        ],
+        "viewpoint": "Komekko first person; reader-only access separate from Megumin",
+        "scope": "All supplied image-prose pages actually viewed/read; whole named group analyzed in report, not a packaging-only tick."
+      },
+      {
+        "id": "EXP01-COMIC-DENIED-ALLEGATION",
+        "native_units": [
+          "EXP-01-U035",
+          "EXP-01-U036"
+        ],
+        "native_images": [
+          "EXP-01-IMG021",
+          "EXP-01-IMG022"
+        ],
+        "scope": "Complete non-graphic reading. CurrentQ41: visualizes immediately denied joking allegation, not independently verified past event."
+      },
+      {
+        "id": "CO-EXP01-END-CODA",
+        "native_units": [
+          "EXP-01-U050"
+        ],
+        "native_images": [
+          "EXP-01-IMG025"
+        ],
+        "bounds": "Lower meanwhile-hero mini-comic below the upper staff/cast panel",
+        "scope": "Separately identified supplied fictional coda, actually read; Arue/hero dialogue and reported goddess escape have bounded authority."
+      }
+    ],
+    "integral_image_only_prose_pages": 18,
+    "all_native_images_actually_viewed": 51,
+    "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+    "all_native_local_and_archive_text_image_hash_joins_reverified": 105,
+    "fresh_native_ZIP_CRC": "PASS",
+    "image_individual_scopes_control": true
+  },
+  "source_first_sealed_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 57158,
+      "sha256": "615c86a7c62c699cd5f6274172f192117e5157f15572931f2b0135b4863d7d1e"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 8360,
+      "sha256": "ce5ed39343c165868a5e0d8e7a0ef8063227fb65c81a925fc084297efee7ca4e"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 142005,
+      "sha256": "440438a23074310c29d3f257a1782e38009467a297d6bad7750797c7a3d771fa"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 39383,
+      "sha256": "70ed3c0658a86c56d11439e5465e0597d36b312fd995aaf849a5c3b56500eed8"
+    }
+  ],
+  "formal_coverage": {
+    "full_responsibilities": 17,
+    "selected_premises_not_census": 76,
+    "native_verified_short_form_context_witnesses": 108,
+    "local_unchanged_question_assessments": 7,
+    "append_only_decisions_across_ten_ledgers": 34,
+    "current_precision_qualifications": 42
+  },
+  "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+  "no_independent_second_full_pass_native_human_audio_claim": true,
+  "source_first_originals_remain_exact": true,
+  "original_four_scores_and_14_future_fields_unchanged": true,
+  "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING",
+  "midread_precision_context": "Informed family pre-body model context sealed before0body/0images; complete uncoded pass preceded formal findings. CurrentQ41 corrects original retrospective comic wording before adoption; originals exact and first formal files archived. CurrentQ42 refines two primary H axes to H2 for actual disposition amplification; initial formal humor retained."
+}

@@ -1,0 +1,66 @@
+{
+  "schema": "konosuba.cohort47.source-precision.v1",
+  "authored_utc": "2026-10-25T11:48:54.502798+00:00",
+  "scope": "Current additive qualifications; original reports, prior models/firsts/rules/scores and source bounds preserved. No silent repair of prior frozen bodies.",
+  "native_provenance_sha256": "a7a2ccb90e87f5e190a8ef4ac6bbef657f3dbd0abfff07a0ef92709915135844",
+  "findings": [
+    {
+      "id": "C47-Q01",
+      "target": "Winter encounter protocol and captured sprites",
+      "qualification": "Sheathing205 precedes sword drop210; head lift211 then strike213-219. Weapon/posture/gaze/motion confounded. Aqua still keeps one346-351. Eris234 reports disappearance; no observed defeat.",
+      "source": "MAIN02U014187-224/233-234/324/337-366"
+    },
+    {
+      "id": "C47-Q02",
+      "target": "Keele and beloved agency and closure",
+      "qualification": "Keele305 reports accepted proposal and327 smiles; he still doubts happiness328. Aqua321 reports already peaceful rest, Darkness400 interprets. Actual disappearance341 does not show Eris reunion or an originally trapped soul.",
+      "source": "MAIN02U01551-70/289-355/398-401"
+    },
+    {
+      "id": "C47-Q03",
+      "target": "Replacement angel authority and later work",
+      "qualification": "Actual procedural acceptance does not establish Aqua assent, private malice or universal wish powers. Later detailed truthful disclosure/recruitment difficulty is reported; exact interviews and isolated causal experiment unshown. Other literal angels/images/metaphors are separate.",
+      "source": "MAIN01U013119-161;MAIN15U01285-93/U015176-185"
+    },
+    {
+      "id": "C47-Q04",
+      "target": "Heidel framing, planned service and Mary",
+      "qualification": "MAIN06short opening and later scene repeat a pattern, not independent events. Mary is anticipated but actual entrant is Darkness362. MAIN11Mary215-217 actual summons; do not duplicate202, merge Marybell423 or assign all castle maids.",
+      "source": "MAIN06U0111-20/U013339-380;MAIN11U012143-217"
+    },
+    {
+      "id": "C47-Q05",
+      "target": "Jatice and corrected interlude classification",
+      "qualification": "MAIN06U020 fiction interlude from Aldarp viewpoint, not author paratext as mistaken private prep labeled. Plan targets prince, not prince consent or completed takeover. MAIN10Kazuma mistaken identity, DUST03Claire projection and MASKLuna imagined line remain separate channels.",
+      "source": "MAIN06U013486-488/U015567/611-637/U0201-46;MAIN10U014624-628/U016739-749;DUST03U01323-26/515-524;MASKU017529"
+    },
+    {
+      "id": "C47-Q06",
+      "target": "Remembered rescue referent row570",
+      "qualification": "Kazuma remembers pushing a girl believed in danger. Aqua later says tractor would stop and no intervention was needed; her medical/counterfactual explanation is a report. Do not turn memory label rescued into independently certified lifesaving or erase either source account. No frozen principal score/model rewritten.",
+      "source": "MAIN01U01324-29/41-55;historicalYORI03U02078"
+    },
+    {
+      "id": "C47-Q07",
+      "target": "Heidel competence and affected-party agency",
+      "qualification": "Futures order/selection offer do not show trade/profit. Schedules are plans. Darkness objection184 survives Kazuma denial-means-welcome interpretation187. Cake promised191 later reported returned214, not successful entry. Complaint guessed wrong203-204. No inferred later arrest/potion role from tea/door412.",
+      "source": "MAIN11U012145-214/412/448-633"
+    },
+    {
+      "id": "C47-Q08",
+      "target": "Other angel gatekeeper and future reuse",
+      "qualification": "Male white-winged gatekeeper actual contextMAIN17U01160-171 is separate from144/Duke. Rawlip-read134 differs Kazuma provocation135. Infinite mana142 is boast; recovery115/141 and failure165 are observed. Name167 interrupted171. Reuse in future cohort must declare current known reading.",
+      "source": "MAIN17U0111-180"
+    },
+    {
+      "id": "C47-Q09",
+      "target": "Source access and scope counts",
+      "qualification": "3160structuralP/3010ruby occurrences in43members/24knownEPUBs are current bounded receipts, not3160independent observations, whole editions or a person denominator. Six complete narrative members include a repeated framing text. All41exact-name search supplied locators only.",
+      "source": "C47current native receiving and corrected provenance"
+    }
+  ],
+  "draft_semantic_acceptance_pending": true,
+  "canonical_changes": false,
+  "independent_observation_count": null,
+  "full_program_complete": false
+}

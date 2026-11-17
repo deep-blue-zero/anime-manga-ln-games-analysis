@@ -17,27 +17,33 @@ This title-wide ledger records cross-character relationship edges only after the
 
 ## Current analyzed edges
 
-The bootstrap contains one mature relationship package: Cartethyia V0.2. Its detailed authority remains `04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER.md`.
+The bootstrap contains one mature relationship package: Cartethyia V0.2. Its detailed authority remains `04 Character Analysis/Cartethyia/01 Evidence and Source-Facing/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER.md`.
 
 | Edge | Current analytical state | Evidence density | Main unresolved issue |
 |---|---|---|---|
 | Cartethyia ↔ Rover | witness, rescuer, chosen companion, reciprocal counterforce; high trust with strategic withholding | dense, multi-arc, multi-source | affinity-gated intimacy and later secrecy prevent mandatory romance or total-transparency claims |
 | Cartethyia ↔ Fleurdelys | integrated relation-to-self/form, not two unrelated people | dense, identity-defining | preserve both continuity and meaningful register/state distinction |
-| Cartethyia ↔ Cantarella | debt, shame, kinship, assistance, delayed repair | moderate, unresolved | direct long-term repair is promised more than shown |
-| Cartethyia ↔ Galbrena | extreme operational trust and accepted public misreading | thin but material, one later operation | emotional intimacy and relational cost are not established |
-| Cartethyia ↔ Lupa | energetic peer relation and uncomplicated acceptance | single-arc but useful | do not generalize beyond bounded peer evidence |
-| Cartethyia ↔ Phoebe | respect, protective withholding, humanistic reframing of faith | thin but thematically material | broad everyday intimacy not established |
+| Cartethyia ↔ Cantarella | debt, shame, Maiden-lineage kinship, Act X bodily shelter (`AV19`), and Act XI Fisalia vial co-responsibility (`CAN-R08`) | moderate, runtime-verified in EN AV | long-term post-crisis everyday repair remains promised more than shown |
+| Cartethyia ↔ Galbrena | extreme operational trust (two-actress simultaneous unison pact `who=1633` in `CART-EXTRA-06`), accepted public misreading (`M0308` staged strike), and post-Paradise mutual respect (`AV20`–`AV22`) | moderate across Acts X–XI, runtime-verified in EN AV + 4-dub unison check | post-mission private intimacy beyond shared combat pact is not established |
+| Cartethyia ↔ Lupa | energetic arena peer acceptance paired with firm moral boundary (immediate `'No.'` refusing surrender in `AV15`) | single-arc, runtime-verified in EN AV | do not generalize beyond bounded Septimont peer evidence |
+| Cartethyia ↔ Phoebe | respect, protective withholding, and Ragunna Harbor humanistic reframing of faith (`AV22`, `PHO-AV-12`) | thin but thematically material, runtime-verified in EN AV | broad everyday intimacy not established |
 | Cartethyia ↔ Rinascita/Order | belonging and repair without entitlement to rule | dense civic/institutional relation | chosen duty may still reinscribe self-instrumentalization |
 
 ## Provisional packet routes
 
 Aemeath, Denia, and Lynae now have supplied pre-AV relationship/state analyses with `active_provisional` status. Their detailed edges and qualifications remain in the character-local profiles; no additional edge adjudication or audiovisual review was performed during import.
 
-- `Aemeath`: `04 Character Analysis/Aemeath/WUWA_AEMEATH_RELATIONSHIP_AND_STATE_PROFILE.md`.
-- `Denia`: `04 Character Analysis/Denia/WUWA_DENIA_RELATIONSHIP_AND_STATE_PROFILE.md`.
-- `Lynae`: `04 Character Analysis/Lynae/WUWA_LYNAE_RELATIONSHIP_AND_STATE_PROFILE.md`.
+- `Aemeath`: `04 Character Analysis/Aemeath/01 Evidence and Source-Facing/WUWA_AEMEATH_RELATIONSHIP_AND_STATE_PROFILE.md`.
+- `Denia`: `04 Character Analysis/Denia/01 Evidence and Source-Facing/WUWA_DENIA_RELATIONSHIP_AND_STATE_PROFILE.md`.
+- `Lynae`: `04 Character Analysis/Lynae/01 Evidence and Source-Facing/WUWA_LYNAE_RELATIONSHIP_AND_STATE_PROFILE.md`.
 
-Chisa's owner-adopted current provisional packet routes to `04 Character Analysis/Chisa/WUWA_CHISA_RELATIONSHIP_AND_STATE_PROFILE.md`. It preserves source-specific relationship and chronology qualifications; importing it adds no independently adjudicated edges and retains its declared text/audio scope and pending AV questions.
+Chisa's owner-adopted current provisional packet routes to `04 Character Analysis/Chisa/01 Evidence and Source-Facing/WUWA_CHISA_RELATIONSHIP_AND_STATE_PROFILE.md`. It preserves source-specific relationship and chronology qualifications; importing it adds no independently adjudicated edges and retains its declared text/audio scope and pending AV questions.
+
+Sigrika's owner-adopted current provisional packet routes to `04 Character Analysis/Sigrika/01 Evidence and Source-Facing/WUWA_SIGRIKA_RELATIONSHIP_AND_STATE_PROFILE.md`. Its character-local edges, attachment/obligation thesis, and state qualifications are routed here without turning co-occurrence, counterpart material, or machine-acoustic similarity into independently adjudicated title-wide relationship facts.
+
+## Chapter II shared AV cross-character observations (`WUWA_RINASCITA_CH2_SHARED_AV_V01`)
+
+Bounded Chapter II main-story interaction evidence for `draft_noncurrent` character packets and unmodeled Chapter II figures — including `Augusta ↔ Iuno` (sunset Palace roof candor, Chaos erasure, and Act XI re-befriending without restored memory), `Augusta ↔ Galbrena/Angel` (Fabianum childhood bond and Act XI recognition), `Cantarella ↔ Phoebe` (Thessaleo Fells Light of Genesis coalition), `Brant ↔ Roccia` (First Mate tactical parity), `Rover / "Rover" of the Past ↔ Phrolova` (Ostina concert promise and Lost Beyond divergence), and `Cristoforo ↔ Avidius` (author-creation rebellion) — is documented in the [Chapter II shared AV reconciliation audit](../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md) without promoting noncurrent drafts to title-wide relationship authority.
 
 ## Edge contract
 

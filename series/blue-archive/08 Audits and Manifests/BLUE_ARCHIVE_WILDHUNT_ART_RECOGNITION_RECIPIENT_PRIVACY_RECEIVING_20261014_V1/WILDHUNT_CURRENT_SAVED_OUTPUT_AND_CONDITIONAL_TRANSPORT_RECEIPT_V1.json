@@ -1,0 +1,88 @@
+{
+  "schema": "WILDHUNT_CURRENT_EXACT8_AUTHOR_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_V1",
+  "author": "/root/receive_middle_remaining",
+  "existing_home": "P3-INST-WILDHUNT-ART-RECOGNITION-PRIVACY",
+  "existing_named_section": "P3-SECTION-ERI-RENA-RECIPIENT-BOUNDARIES",
+  "complete_first7_current_components": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_AND_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 45508,
+      "sha256": "c60796230fc5ace5117be4619cf917c467c79dce2cf55df0d4baf41e7845f233",
+      "git_blob_oid_of_actual_bytes": "41d0ca1f75ec8f1bf08c9f27716273e5e2bc668a"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+      "bytes": 406465,
+      "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+      "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+      "bytes": 541960,
+      "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+      "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+      "bytes": 701989,
+      "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+      "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT1_SOURCE_INPUT_AND_GRADE_RECEIVING_V1.json",
+      "bytes": 40302,
+      "sha256": "57dadd1c73615cd94e6d8bf8994bbf71fc809dc5ff1937c9230e2a1855cb301b",
+      "git_blob_oid_of_actual_bytes": "b9e3b88a98b0aabc2bd707c72270dd22a7ff603f"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "bytes": 195379,
+      "sha256": "c9e07395f8289eae0f2b8c0f82e7985f47c766a0c1c01ed43582e2c48ee13167",
+      "git_blob_oid_of_actual_bytes": "78153a8de4b1ab62f56f41904cd7b7e8e969f30f"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT_LITERAL53_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 505507,
+      "sha256": "882e7bff5502e308ce35bcdd6486fe1f6ec4cbb6a6ec32be93bbd373db58e202",
+      "git_blob_oid_of_actual_bytes": "8c077fcea08cbca9cd75c506988114ad3c938fa7"
+    }
+  ],
+  "exact_current_public_file_count_with_this_receipt": 8,
+  "content": "Reviewed unchanged247body/53fullparagraphs,ownnew105fivefields,source1/27actualpreprosequestionresults,fullsource/purpose/rival/end/gapbindings.",
+  "creation_stage_saved525_author_receiving": "PENDING_FRESH_ACTUAL_SAVED_FIELD_READBACK;will be qualified by immutable authorcloseout without source-grade promotion.",
+  "current_body_only_independent_review": {
+    "evidence_id": "WILDHUNT_MINATO_COMPLETE247_53_BODY_FIRST_REVIEW",
+    "bytes": 620740,
+    "sha256": "4a888aaccd23f5cec1996d8b47ca1093e42a8a8e987af855ee5ba93409777e63",
+    "role": "Actually received f82689/0ac74c all53 reasons/scopes;body/source-only WITH_LIMITS,no105/component or ROOT acceptance transfer."
+  },
+  "full_original_recovery": "Complete11 rawinputenvelopes,3 originalM008 carriers/residuals/keyorder,originalbodyV1/V2 oneLF recovery,source27 receipt2named delivery-value inverse andallauthorcontrols preserved privately,not invented publichistorical files.",
+  "public_custody_roles": "Only repositorypaths/logicalreferences/opaqueevidenceIDs;private transportaddresses retained in private exactbeforeimages/inverses. Original sourcebody/normals not replayed or embedded as new primary.",
+  "adoption_install_source_publication_MAIN_integration": "PENDING_ROOT_PERSONAL_RECEIVING_AND_SEPARATE_DISTINCT_COMPONENT_REVIEW;authoring/bodyonlyQA grants0counts/runtime",
+  "fixed_scope": "355/29/25/384/788;14OPEN/models0;178UNREACHED;mergeRESERVED",
+  "R_Git_provider_sharedmetadata_or_externalchat_mutations": 0,
+  "current_author_complete_saved525_receiving_qualification_V2": {
+    "supersedes_current_use_of_dated_creation_field": "/creation_stage_saved525_author_receiving",
+    "historical_field_preserved": "Original PENDING creation statement remains literal preparation history, not current author-reading status.",
+    "author_receipt": {
+      "evidence_id": "WILDHUNT_AUTHOR_OWN_COMPLETE105_SAVED525_CURRENT_FIELD_RECEIVING_AND_SCOPES_V1",
+      "bytes": 9519,
+      "sha256": "7f6cb550f2f9bb9f1ca127f24a6546cfd6f2a3b3ef9e05f61a915cbfdaf354c1",
+      "git_blob_oid_of_actual_bytes": "4951f9577e07bc12af28745a616cc61e3db1c64b",
+      "role": "Complete private author receipt; unchanged first7 and old transport are its fixed receiving snapshot. This opaque witness is not an invented canonical historical artifact."
+    },
+    "current_own_author_reading": "All105 genuine new five-field purposes personally read in seven untruncated saved outputs; 525 new fields complete, no current author finding.",
+    "actual_saved_field_tools": [
+      "6a62c8",
+      "d646a0",
+      "72fe62",
+      "cadeb3",
+      "071889",
+      "88b217",
+      "df3984"
+    ],
+    "current_unchanged_body_source_and_literal_register": "Unchanged247/53 body; own complete185 maintained E849 analytical core and original27 preprose question results; full15 institutional and12 mediated recipient fields.",
+    "limits": "Original26whole79selected and ROOT reports stay attributed; no105 original-normal/primary/native/raw/AV replay, global absence, actor/calendar/identity joining or new source admission.",
+    "current_next_gate": "Distinct complete105/53/source1/exact8 component QA and ROOT personal receiving/adoption remain pending; authoring grants no canonical/named/model/runtime credit."
+  }
+}

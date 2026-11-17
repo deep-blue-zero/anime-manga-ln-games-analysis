@@ -1,0 +1,104 @@
+{
+  "schema": "konosuba-main-only-evidence-index-adoption-v1",
+  "state": "ACCEPTED_MAIN_ONLY_INDEX_PLANE_FULL_41_OBJECT_COMPONENT_PROGRAM_STILL_OPEN",
+  "accepted_utc": "2026-10-17T19:24:32.932815+00:00",
+  "canonical_entrypoint": "series/konosuba/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "source_branch": "series/konosuba",
+  "last_fully_audited_source_at_authorship": "404591edabad4b8fc1224c75de0ca57ea1d034d3",
+  "local_preservation_parent_at_adoption": "2a5c41846ab4e6bf24551d4e9d58f1b2a1eeda9f",
+  "products": [
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SOURCE_LOCATOR_INDEX.md",
+      "bytes": 50978,
+      "sha256": "9d3428ecf9c484e3839b04bb6b60888e7abc57e6da04f6f1e0e5cf056f44d0da"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CHARACTER_MODEL_EVIDENCE_MATRIX.md",
+      "bytes": 88271,
+      "sha256": "4bcf7f9088d7a9058ce20fe2ee03685cde4aa0be966e37b1c2b0cb1c3811eee5"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CHARACTER_MODEL_EVIDENCE_MATRIX.json",
+      "bytes": 525757,
+      "sha256": "3307003c352e468531a1fe830ebc66ecf973888f20595b0bba52305ee993f444"
+    }
+  ],
+  "predecessor_receiving": [
+    {
+      "artifact": "source locator main-only candidate v2",
+      "accepted_utc": "2026-10-17T16:47:45.960111+00:00",
+      "receipt_bytes": 1784,
+      "receipt_sha256": "151b61cbd93e0f56faa4fc105d96215295f70def697473c77335f420fc376c18",
+      "product_bytes": 49016,
+      "product_sha256": "5b73dc43ec2c18df180604f6e92efc0a77996ff6cbe522b1f900f836b60da676"
+    },
+    {
+      "artifact": "character-model evidence matrix main-only candidate v3",
+      "accepted_utc": "2026-10-17T18:02:32.019080+00:00",
+      "receipt_bytes": 2862,
+      "receipt_sha256": "7a60f1c57d6c2b16dde5b3c2d222f7f4cb590fd268beb69189d28539b46b898b",
+      "MD_bytes": 86068,
+      "MD_sha256": "a0d98d3c19b4eebeecbb08bf7deb59e36f5f82cc5d2c72e4419159916b3516e2",
+      "JSON_bytes": 519989,
+      "JSON_sha256": "5fee22269c31cf349713ea0f9020076557927585b8b8a6ba8d51c0b6a4c5fb30"
+    }
+  ],
+  "publication_derivative": {
+    "private_transformation_manifest_bytes": 20751,
+    "private_transformation_manifest_sha256": "e65b2f75e7827dd374cf533c531ec914e8fe4453526c859ccd9a1686fadebfac",
+    "scope": "New canonical-home/frontmatter/acceptance wrappers, explicit historical lifecycle labels and source-safe tested-core location aliases. All original analytical prose and structured analytical arrays preserved. Private transformation before-images include local paths and are intentionally not public source evidence.",
+    "originals_preserved": true,
+    "full_forward_and_inverse_replay": true,
+    "six_public_model_tested_core_recoveries": true,
+    "public_inverse_record": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PUBLIC_MODEL_ADOPTION_OPERATIONS_AND_CORE_RECOVERY.json",
+    "aliases": [
+      "TESTED_CORE_RECOVERY_ALIAS::K",
+      "TESTED_CORE_RECOVERY_ALIAS::T",
+      "TESTED_CORE_RECOVERY_ALIAS::A",
+      "TESTED_CORE_RECOVERY_ALIAS::M",
+      "TESTED_CORE_RECOVERY_ALIAS::D",
+      "TESTED_CORE_RECOVERY_ALIAS::E"
+    ],
+    "aliases_are_paths": false,
+    "relative_markdown_link_occurrences_verified": 66
+  },
+  "semantic_receiving": {
+    "root_scope": "Earlier accepted locator/matrix prose and all substantive successor changes received at their stated boundaries. All new publication wrappers and recovery metadata received; exact unchanged analytical content is reused with explicit equality/inverse proof, not a fresh complete primary reread.",
+    "semantic_receiver_scope": "Complete new transformation values/wrappers, original acceptance receipts, lifecycle corrections, full forward/inverse mechanical preservation, six actual public-core recoveries and all66 relative links. No fresh full large-analysis/primary reread or new independent discovery is claimed.",
+    "receiver_final_seal": {
+      "bytes": 886,
+      "sha256": "cd33c18d277517d8b271111cc40af290bb15c0cc021181e3127030094addfff2"
+    },
+    "receiver_final_closure_bytes": 2604,
+    "receiver_final_closure_sha256": "2dbec9e49542956ba15ca5b4c61dd73d1e7d024019bfb9e395ed8599747a1e66",
+    "receiver_report_bytes": 10612,
+    "receiver_report_sha256": "937a3d1bdd9fc57b16892ae2c28964ff2b2997853fcca8286a00e10a51f4f7e3",
+    "resolved_findings": [
+      "Nested pending status explicitly historical at preparation; live state routes to sole canonical map.",
+      "Preserved locator private/pending paragraphs explicitly labeled historical, without changing their original observations.",
+      "Receiver initially misread path-to-existence mapping; all three values were false. Receiver corrected its interpretation; no input repair was necessary."
+    ],
+    "named_subject_and_reference_check": "Canonical homes, model K/T/A/M/D/E, source-plane scope, authority labels and actual receiver responsibilities checked. A hash join is not a new substantive source validation."
+  },
+  "coverage_limits": {
+    "accepted_plane": "MAIN_ONLY_R1 and accepted MAIN01–17 principal evidence, under inherited primary/member/locator limitations.",
+    "populations": {
+      "curated_claim_rows": 75,
+      "source_route_windows": 102,
+      "original_witness_join_rows": 61,
+      "model_section_responsibilities": 162,
+      "common_protocol_routes": 168,
+      "frozen_contracts": 43
+    },
+    "not_independent_trials_or_complete_claim_census": true,
+    "no_new_primary_admission_or_model_change": true,
+    "remaining": "Holdout/expanded evidence planes, all19 supplemental full-literary/component responsibilities, all17 main-edition excluded-component programs, five actual mixed/reference inspections, attributable model revisions and final full-corpus index/audit acceptance remain open. Later rolling ledgers do not replace the frozen main-only state."
+  },
+  "publication": {
+    "state_at_authorship": "CANONICAL_ADOPTION_PREPARED_FOR_SEPARATE_SOURCE_BRANCH_PUBLICATION_GATE",
+    "live_state_route": "series/konosuba/CURRENT_STATE_AND_CORPUS_MAP.md",
+    "required": "Final exact-candidate author preflight, normal push, remote exact-tree/changed-stream readback, source audit, designated housekeeping and final actual-source Repository integration audit success.",
+    "protected_main_integration_asserted": false,
+    "archival_release_asserted": false
+  }
+}

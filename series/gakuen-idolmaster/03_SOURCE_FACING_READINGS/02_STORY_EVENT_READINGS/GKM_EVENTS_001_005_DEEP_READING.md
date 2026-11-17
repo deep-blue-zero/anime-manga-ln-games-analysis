@@ -12,12 +12,17 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-23'
+version: "1.1"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15 corrections (GKM-SAA-104, 106, 206, 267, 272) applied by targeted edit with A1 locators, using the STRENGTHEN, OPEN, PRESERVE and REVISE transitions and keeping earlier wording recoverable."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM EVENTS 001–005 DEEP READING
+
+> **Revision record — v1.1, 2026-11-15 (source-to-analysis audit corrections).** First versioned revision; the text before this date, including the 2026-11-12 HSCA-006 correction in §6.7, counts as v1.0. Dated notes mark each change: §3.1 Kotone's internal-progression status (GKM-SAA-267, STRENGTHEN); §3 AV request and §14 row narrowed from voice ownership to delivery (GKM-SAA-272, PRESERVE attribution, REVISE request scope); §4.6 and §9.2 cross-source confirmation of the unnamed friend (GKM-SAA-106, STRENGTHEN); §7.6 and §13.10 bearing evidence for Misuzu's capacity question (GKM-SAA-106, OPEN retained); §6.7 the Support 3-0049 echo of the dubbed line (GKM-SAA-206, STRENGTHEN); §8 owner-policy note on core integration (GKM-SAA-104). Earlier formulations stay in place beside each note.
 
 ## 0. Scope, method, and principal finding
 
@@ -137,6 +142,8 @@ The event therefore begins with a chain:
 
 That is already an example of courage becoming circulatory. Lilja supplies the need; Sumika gives it social form.
 
+**Internal-progression status — 2026-11-15 (GKM-SAA-267, STRENGTHEN).** In this scene the internal/external divide is voiced by Temari (`内部進学組`, `adv_event_001_main-01` L32) and Saki (L76). Class 1-1's sorting is not simply Temari versus external entrants. In a Lilja-focalized flashback in Event 012, Kotone calls herself `内部進学組` (`adv_event_012_main-02` L117). In Event 005 Tsubame reports that she had dealt with Kotone as a `中等部` student trying to work without permission (`adv_event_005_main-02` L62–L80; see §7.3). Observation: both lines are in A1. Inference: Kotone is an internal-progression student whom this opening scene does not mark as one. Uncertainty: L117 is a self-description inside a flashback, and the Event 005 account is Tsubame's report.
+
 ## 3.2 Lilja versus Temari: fear does not cancel jurisdiction
 
 The Event 001 confrontation with Temari is one of the strongest Phase-4 tests of Lilja.
@@ -230,7 +237,7 @@ Its members do not solve difference. They discover procedures—competition, tea
 
 ### AV requests
 
-**P0:** `adv_event_001_main-02` — Lilja/Temari confrontation and Sumika's ventriloquized blunt line. Voice ownership, timing, and Temari's freeze/recovery would materially sharpen the social reading.
+**P0:** `adv_event_001_main-02` — Lilja/Temari confrontation and Sumika's ventriloquized blunt line. Delivery, timing, and Temari's freeze/recovery would materially sharpen the social reading. *(Narrowed 2026-11-15, GKM-SAA-272; the request formerly began "Voice ownership". A1 already settles ownership: the voice command after the L341 line labelled `リーリヤ？` is `sud_vo_adv_event_001_main-02_ssmk-018` with `actorId=ssmk` (L342), and Sumika admits the `アテレコ` at L378. The attribution to Sumika's dub is PRESERVED; the AV question now concerns delivery, timing and Temari's reaction.)*
 
 **P1:** `adv_event_001_main-05` — Temari's apology and `りーぴゃん` proposal. Delivery could discriminate between earnest overcorrection, deadpan experiment, and more self-conscious embarrassment.
 
@@ -317,6 +324,16 @@ That maps closely onto the later `receive → register → organize → answer` 
 The final scene contains a high-value relationship locator. Misuzu is upset that her friend in Class 1-1 has apparently made close friends while remaining in conflict with Misuzu. She responds childishly and honestly: if that person is going to make friends, Misuzu will make many friends in Class 1-2 too.
 
 Given the established Phase-3 Misuzu/Temari history, Temari's Class 1-1 membership, and the active quarrel state, **Temari is the leading identification of this unnamed friend**. However, Event 002 itself withholds the name. The identification should therefore remain an explicit analytical inference rather than be laundered into textual fact until cross-source confirmation is cited.
+
+**Cross-source confirmation — 2026-11-15 (GKM-SAA-106, STRENGTHEN).** The condition in the previous paragraph is now met with Source Lock 1.0 event locators. The identification is upgraded to **strongly supported by cross-event evidence; unnamed in Event 002**. Event 002 itself still withholds the name (`adv_event_002_main-05` L85–L101). The bearing evidence:
+
+- Event 005: Sena tells Tsubame and Rinami that SyngUp! disbanded through `仲違い`, that she can scout only one of its three members, and that she sets Temari aside (`adv_event_005_main-03` L145–L176).
+- Event 008: Temari names Misuzu and Rinha as the co-members absent from her stage (`adv_event_008_main-02` L99).
+- Event 010: Misuzu recalls middle-school Valentine exchanges within the unit and names `まりちゃん` (`adv_event_010_main-01` L164–L178).
+- Event 014: Misuzu addresses Temari as `まりちゃん`, and Temari says she knows Misuzu well (`adv_event_014_main-04` L463, L476).
+- Event 023: Temari says SyngUp!'s dissolution kept her from celebrating Misuzu's birthday the year before, and Misuzu speaks of their reconciliation (`adv_event_023_main-01` L250–L272).
+
+Limits: the identification remains a cross-event relational inference. Each event is C1 internally and C2 globally, and Event 002 could in principle mean another Class 1-1 member. The earlier formulation (v1.0) is the paragraph above.
 
 Misuzu and Hiro decide to organize a class party partly to prove useful to China and Ume after causing trouble. China and Ume overhear, refuse exclusion, and turn the plan into the class's first collective task.
 
@@ -527,7 +544,9 @@ From the edge of the scene Temari tells Sumika that Lilja has enough nerve that 
 
 Later Temari again yields to Lilja's invitation while verbally denying that Lilja has special leverage over her.
 
-The Event 001 relation has become a stable grammar: Lilja's quiet earnestness reaches Temari because it cannot easily be dismissed as status play. Temari may be hostile to soft social pressure, but she respects conviction.
+**Historical correction — HSCA-006 (REVISE).** In Event 001, Lilja gives her own reason for class cooperation before the line labeled `リーリヤ？`. Sumika identifies the aggressive line as her own `アテレコ`, and Temari then says Lilja's argument has a point. At the next gathering Temari attributes a harsher version to Lilja and adds `雑魚`. Sumika reinforces the impression, and Lilja denies the attribution. At the summer festival, Temari asks whether Lilja means to threaten her again. Sumika calls the impression a reusable tactic, and Lilja calls it a misunderstanding. The scenes establish both conviction and a comic misattribution. Temari's precise balance of apprehension, face-saving and play remains open to audiovisual review (`LOC-HSCA-006A`–`006D`).
+
+**Later echo in ordinary life — 2026-11-15 (GKM-SAA-206, STRENGTHEN; cross-reference).** In Support 3-0049 part 2, Temari again voices the image of Lilja as a harsh judge (`雑魚がって？`), and Lilja again denies saying it (`transcripts_raw/04_support_card_stories/support_series_3/story_0049/part_02.txt` L33, L40). The wording matches the harsher version Temari attributed to Lilja in Event 001 (`adv_event_001_main-05` L95, denied at L102), a version that Sumika's dub authored (`adv_event_001_main-02` L341–L378). Inference: the misattributed image persists into later ordinary life, and Lilja keeps disavowing it. Counterevidence: the support story makes no explicit callback to Event 001, and the shared word could be coincidental. Temari's projection may also reflect her own harsh inner standard, as the support reading suggests. The support object is C4 evidence; the proposed locator is `LOC-HSCA-006E`.
 
 ## 6.8 “Friend” versus “comrade”
 
@@ -659,6 +678,14 @@ That sequence strongly suggests that her decision is relationally strategic, but
 
 **OPEN:** why the remaining-capacity question changes Misuzu's decision.
 
+**Bearing evidence — 2026-11-15 (GKM-SAA-106, OPEN retained).** The motive stays OPEN under Source Lock 1.0, but three locators bear on it.
+
+1. Before Sena approaches Misuzu, Sena tells Tsubame and Rinami that she can scout only one SyngUp! member and that it will not be Temari (`adv_event_005_main-03` L151–L176). Misuzu has no line in that exchange and is first addressed after a scene transition (L213–L262). The text therefore does not show that she knows of the remark.
+2. Misuzu's capacity question and decision follow: Sena says the structure can take `せいぜいあと数人`, and after a silence Misuzu joins (L402–L427).
+3. In Source Lock 1.1 Event 027, Misuzu again invites Temari onto the council, and Temari answers with an emphasized `また` (`adv_event_027_main-01` L130–L145). At the end Temari says she now understands why Misuzu accepted Sena's production, without stating the reason (`adv_event_027_main-05` L268–L273).
+
+Competing readings: Misuzu was keeping room for Temari; Misuzu's motive centred on Sena, which is one way to read Temari's Event 027 remark; or Misuzu simply preferred a small group or was uncertain. Event 027 is SL1.1 and later in local campaign continuity, so it cannot close a Source Lock 1.0 OPEN.
+
 ## 7.7 Sena versus Saki: mirror recognition through antagonism
 
 Sena's encounter with Saki is one of the most important scenes in the tranche.
@@ -739,17 +766,19 @@ The story therefore does more than introduce a student council roster. It dramat
 
 Phase 4 should not silently rewrite the character cores. The following table records the first event-tranche transitions against current Phase-3 authority.
 
+> **2026-11-15 (owner policy, source-to-analysis audit GKM-SAA-104):** event deltas are now integrated into the character cores as dated, attributed additions; see each core's 'Phase-4/5 integration pointers' section.
+
 | character | Phase-4 transition | Events | current result |
 | --- | --- | --- | --- |
 | Hanami Saki | **STRENGTHEN** competitive relation; **STRENGTHEN** caregiving competence; **REVISE** rationality-as-complete-causal-explanation | 001, 004, 005 | contest is epistemology and pedagogy; care can be practical and nonintrusive; relational desire can outrun stated optimization logic |
-| Tsukimura Temari | **STRENGTHEN** professional severity; **REVISE** aloofness; **STRENGTHEN** distance-calibration problem | 001, 004 | wants relation more than surface hostility suggests; moves awkwardly from exclusion to high-intimacy proposals; respects conviction |
+| Tsukimura Temari | **STRENGTHEN** professional severity; **REVISE** aloofness; **STRENGTHEN** distance-calibration problem | 001, 004 | wants relation more than surface hostility suggests; moves awkwardly from exclusion to high-intimacy proposals; responds to conviction and misattributes Sumika's dubbed warning to Lilja (§6.7) |
 | Fujita Kotone | **STRENGTHEN** precarity; **STRENGTHEN** social reading/regulation; **STRENGTHEN** boundary defense | 001, 003, 004, 005-discussed | exhaustion is materially visible; she regulates peers without standing outside the group; poor status does not imply low talent |
 | Arimura Mao | **STRENGTHEN** senior/prince role as chosen action; **REVISE** care calibration under pressure | 003 | result anxiety can make care overreach, but she detects and repairs the error; princehood becomes practical service rather than static image |
 | Katsuragi Lilja | **STRENGTHEN** ambition, courage, and competitiveness; **STRENGTHEN** cultural-specific uncertainty | 001, 004 | fear coexists with explicit desire not to lose; she converts teaching into repeated self-authored attempts and expands beyond Sumika |
 | Kuramoto China | **STRENGTHEN** accurate weakness-awareness; **STRENGTHEN** receptive authority; **STRENGTHEN** inherited-legitimacy problem | 002, 005 | anxiety becomes steady practice; friendliness does not erase norm enforcement; elite endorsement precedes later stewardship questions |
 | Shinosawa Hiro | **STRENGTHEN** resistant-form model; **REJECT** selfish-failure-seeking simplification | 002 | wants personal hardship but explicitly dislikes harming friends through her weakness |
 | Himesaki Rinami | **STRENGTHEN** reversible hospitality; **STRENGTHEN** firm judgment inside soft register | 003, 005 | reframes performance around shared pleasure without denying ambition; politely challenges questionable institutional arrangements |
-| Shiun Sumika | **STRENGTHEN** social intelligence; **REVISE** nontraining as simple avoidance; **STRENGTHEN** nonpossessive handling of jealousy | 001, 003, 004 | engineers social connection, carries family/community labor, converts work into craft, and gives Lilja room to build independent relationships |
+| Shiun Sumika | **STRENGTHEN** social intelligence; **REVISE** nontraining as simple avoidance; **STRENGTHEN** nonpossessive handling of jealousy | 001, 003, 004 | engineers social connection and reinforces the dubbed-warning misunderstanding, carries family/community labor, converts work into craft, and gives Lilja room to build independent relationships |
 | Hanami Ume | **STRENGTHEN** reciprocal propulsion; **STRENGTHEN** body/metric distinction | 002, 005 | low starting rank becomes fuel; athletic capacity is obvious while idol potential remains epistemically open even to Sena |
 | Hataya Misuzu | **STRENGTHEN** low-tempo self-authorship and relational possessiveness; **OPEN** student-council motive | 002, 005 | gentle behavior coexists with notorious reputation, truancy, jealousy, care, and elite skill; remaining-capacity question needs later resolution |
 | Juo Sena | **STRENGTHEN** generative supremacy; **PROMOTE** successor/rival distinction; **REJECT** infallible talent-eye model | 005; 003 inference | pseudo-agency externalizes her succession project; Saki becomes rival instead of successor; Ume creates productive epistemic failure |
@@ -780,9 +809,9 @@ Event delta: Sumika converts Lilja's fear into group action, later deliberately 
 ### Lilja ↔ Temari
 
 Early relation: fear versus professional contempt.  
-Event delta: Lilja's quiet counter-demand earns respect; Temari remembers her, changes policy, later treats Lilja as unusually persuasive and courageous.
+Event delta: Lilja's conviction supplies a reason to cooperate. Sumika's dub and Temari's attribution give Lilja extra leverage that Lilja herself disavows.
 
-**State:** conviction-based respect under persistent temperamental distance.
+**State:** respect for conviction mixed with an attribution error and persistent temperamental distance. Temari's exact delivery remains open (HSCA-006, §6.7).
 
 ### Saki ↔ Lilja
 
@@ -821,6 +850,8 @@ The class initially fears her reputation. China/Ume/Hiro convert fear into curio
 **Evidence:** Misuzu is in an unresolved quarrel with a close friend in another class; she is hurt when that person makes new friends in Class 1-1.  
 **Inference:** Temari is the leading identification given established source history and class membership.  
 **Status:** keep name inference explicit until cross-source locator is attached.
+
+**Status update — 2026-11-15 (GKM-SAA-106, STRENGTHEN):** cross-source locators are now attached in §4.6 (Events 005, 008, 010, 014 and 023). The identification of Temari is strongly supported by cross-event evidence but remains unnamed in Event 002; keep the inference label.
 
 ## 9.3 Upperclassmen and juniors
 
@@ -1119,6 +1150,8 @@ The tranche produces few outright Phase-3 rejections, but it does reject several
 10. **OPEN:** Misuzu's reason for asking about remaining student-council capacity.  
     The source invites a relational inference but does not complete it here.
 
+    *2026-11-15 (GKM-SAA-106):* still OPEN. Bearing evidence and competing readings are recorded in §7.6.
+
 ---
 
 # 14. Audiovisual verification queue from Events 001–005
@@ -1127,7 +1160,7 @@ No new AV claim is asserted in this document. These are retrieval targets create
 
 | priority | source | target | question |
 | --- | --- | --- | --- |
-| P0 | `adv_event_001_main-02` | Lilja–Temari confrontation / Sumika ad-lib | How do hesitation, imitation, silence, and Temari's recovery distribute agency in the scene? |
+| P0 | `adv_event_001_main-02` | Lilja–Temari confrontation / Sumika ad-lib | How do hesitation, imitation, silence, and Temari's recovery distribute agency in the scene? *(2026-11-15, GKM-SAA-272: speaker ownership is settled in A1 by L342 `actorId=ssmk` and the L378 `アテレコ` admission; ask about delivery, timing and Temari's reaction only.)* |
 | P1 | `adv_event_001_main-05` | Temari apology / `りーぴゃん` | Earnest overcorrection, deadpan proposal, embarrassment, or mixed state? |
 | P0 | `adv_event_002_main-05` | Misuzu jealousy about unnamed friend | How much is comic sulking versus genuine attachment distress? |
 | P1 | `adv_event_002_main-01` | Worst Three formation | Contrast China anxiety, Hiro delight, Ume propulsion in performed affect. |
@@ -1189,7 +1222,7 @@ The following findings should be promoted into mutable cumulative infrastructure
 Promote:
 
 - Saki: competition-as-pedagogy; bounded care for Kotone; Sena wall confrontation.
-- Temari: nickname/intimacy overcorrection; respect for Lilja conviction.
+- Temari: nickname/intimacy overcorrection; respect for Lilja's conviction and the leverage of Sumika's dubbed warning (§6.7).
 - Kotone: visible overwork plus class-level social regulation.
 - Mao: senior-care overreach → self-correction → collaborative repair.
 - Lilja: explicit early competitiveness; cross-cultural festival uncertainty; competitive mentorship with Saki.

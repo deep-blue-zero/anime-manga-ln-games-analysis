@@ -1,0 +1,509 @@
+{
+  "schema": "KONOSUBA_MAIN08_EXCLUDED_SELECTED_HUMOR_V1",
+  "source_id": "MAIN-08",
+  "records": [
+    {
+      "id": "M08EX-H01",
+      "boundary": {
+        "component_id": "MAIN-08-U023",
+        "start_P": 3,
+        "end_P": 10
+      },
+      "whole_selected_premise": "Wiz's polite work-difficulty objection meets Aqua's insistence that the cool lich is pleasant to cling to.",
+      "primary_L": "L2",
+      "L_rationale": "Softly qualified objection with様 contrasts with familiar entitlement; literal content alone understates the interpersonal stance.",
+      "primary_H": "H1",
+      "H_rationale": "Contact, objection, comfort justification and Kazuma's request to release occur; no completed release is shown.",
+      "source_plane": "NEW_ELECTRONIC_BONUS_FICTION",
+      "eligibility_and_limits": "Purposeful post-seal selection, not a census or independent trial. Performance, claim, narrator attribution, role projection and compressed retrospective result are kept separate.",
+      "native_member": "text/part0021.html",
+      "native_member_sha256": "576678fa5bd6dda7b4ea5aaff15f63afd61f09b01af7df08fb2c2d1af3c00bc7",
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H02",
+      "boundary": {
+        "component_id": "MAIN-08-U023",
+        "start_P": 11,
+        "end_P": 13
+      },
+      "whole_selected_premise": "Aqua explains suppressing purification through impure thoughts, then says she was only recalling Kazuma's conduct.",
+      "primary_L": "L1",
+      "L_rationale": "Elliptical return of his accusation makes the reversal phrasing-sensitive without indispensable Japanese-only form.",
+      "primary_H": "H1",
+      "H_rationale": "The explanation and counter-insult are performed utterances. The mechanism is her claim, with later harmful leakage a separate limit.",
+      "source_plane": "NEW_ELECTRONIC_BONUS_FICTION",
+      "eligibility_and_limits": "Purposeful post-seal selection, not a census or independent trial. Performance, claim, narrator attribution, role projection and compressed retrospective result are kept separate.",
+      "native_member": "text/part0021.html",
+      "native_member_sha256": "576678fa5bd6dda7b4ea5aaff15f63afd61f09b01af7df08fb2c2d1af3c00bc7",
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H03",
+      "boundary": {
+        "component_id": "MAIN-08-U023",
+        "start_P": 15,
+        "end_P": 24
+      },
+      "whole_selected_premise": "Wiz finishes a purportedly convenient healing artifact, which Aqua wordlessly smashes on hearing anyone could heal.",
+      "primary_L": "L0",
+      "L_rationale": "The capability/role-threat contrast and actual damage are situational.",
+      "primary_H": "H1",
+      "H_rationale": "Announcement, destruction, crying and renewed clinging occur. Dislike of universal healing is Kazuma's attribution; device performance/no-downside claims are untested.",
+      "source_plane": "NEW_ELECTRONIC_BONUS_FICTION",
+      "eligibility_and_limits": "Purposeful post-seal selection, not a census or independent trial. Performance, claim, narrator attribution, role projection and compressed retrospective result are kept separate.",
+      "native_member": "text/part0021.html",
+      "native_member_sha256": "576678fa5bd6dda7b4ea5aaff15f63afd61f09b01af7df08fb2c2d1af3c00bc7",
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H04",
+      "boundary": {
+        "component_id": "MAIN-08-U023",
+        "start_P": 25,
+        "end_P": 28
+      },
+      "whole_selected_premise": "Kazuma promises reimbursement while Aqua closes her eyes and Wiz is relieved about the month's finances.",
+      "primary_L": "L1",
+      "L_rationale": "The apparent sleep evasion and sudden conditional reassurance depend on sequence and emphatic promise wording.",
+      "primary_H": "H1",
+      "H_rationale": "A promise, money-cued eye closure and conditional relief occur; payment and solvency are not performed outcomes.",
+      "source_plane": "NEW_ELECTRONIC_BONUS_FICTION",
+      "eligibility_and_limits": "Purposeful post-seal selection, not a census or independent trial. Performance, claim, narrator attribution, role projection and compressed retrospective result are kept separate.",
+      "native_member": "text/part0021.html",
+      "native_member_sha256": "576678fa5bd6dda7b4ea5aaff15f63afd61f09b01af7df08fb2c2d1af3c00bc7",
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H05",
+      "boundary": {
+        "component_id": "MAIN-08-U023",
+        "start_P": 29,
+        "end_P": 43
+      },
+      "whole_selected_premise": "A powerful maker evaluates a household doll against cheaper labor substitutes while Kazuma values the beautiful robot itself.",
+      "primary_L": "L1",
+      "L_rationale": "Repeated absolute売れる claims amplify a valuation mismatch; cultural Japanese-consumer generalization is Kazuma's belief, not empirical fact.",
+      "primary_H": "H1",
+      "H_rationale": "Capacity/price claims and emphatic sales confidence occur; neither market demand nor economical feasibility is demonstrated.",
+      "source_plane": "NEW_ELECTRONIC_BONUS_FICTION",
+      "eligibility_and_limits": "Purposeful post-seal selection, not a census or independent trial. Performance, claim, narrator attribution, role projection and compressed retrospective result are kept separate.",
+      "native_member": "text/part0021.html",
+      "native_member_sha256": "576678fa5bd6dda7b4ea5aaff15f63afd61f09b01af7df08fb2c2d1af3c00bc7",
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H06",
+      "boundary": {
+        "component_id": "MAIN-08-U023",
+        "start_P": 44,
+        "end_P": 48
+      },
+      "whole_selected_premise": "Limited projected doll stock replies make Kazuma more enthusiastic rather than disappoint him.",
+      "primary_L": "L2",
+      "L_rationale": "Master-address honorific service formulas carry the desired hierarchical fantasy; this is projected register, not Wiz's own submission.",
+      "primary_H": "H4",
+      "H_rationale": "The selected imagined servant exchange is a proposed capability, voiced by Wiz as examples. No actual doll utterance or person's assent is shown.",
+      "source_plane": "NEW_ELECTRONIC_BONUS_FICTION",
+      "eligibility_and_limits": "Purposeful post-seal selection, not a census or independent trial. Performance, claim, narrator attribution, role projection and compressed retrospective result are kept separate.",
+      "native_member": "text/part0021.html",
+      "native_member_sha256": "576678fa5bd6dda7b4ea5aaff15f63afd61f09b01af7df08fb2c2d1af3c00bc7",
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H07",
+      "boundary": {
+        "component_id": "MAIN-08-U023",
+        "start_P": 49,
+        "end_P": 55
+      },
+      "whole_selected_premise": "An immediate purchase promise energizes Wiz, whose request for cooperation seems meaningful before its actual practical object is disclosed.",
+      "primary_L": "L1",
+      "L_rationale": "Rapid assent and燃えてきました set up the later literal heat correction.",
+      "primary_H": "H1",
+      "H_rationale": "Purchase/help commitments and Wiz's enthusiasm are real; no cash transfer or inferred intimate request is performed.",
+      "source_plane": "NEW_ELECTRONIC_BONUS_FICTION",
+      "eligibility_and_limits": "Purposeful post-seal selection, not a census or independent trial. Performance, claim, narrator attribution, role projection and compressed retrospective result are kept separate.",
+      "native_member": "text/part0021.html",
+      "native_member_sha256": "576678fa5bd6dda7b4ea5aaff15f63afd61f09b01af7df08fb2c2d1af3c00bc7",
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H08",
+      "boundary": {
+        "component_id": "MAIN-08-U023",
+        "start_P": 54,
+        "end_P": 58
+      },
+      "whole_selected_premise": "Wiz's urgent cooperation request concerns painful heat from Aqua's back, cutting through the exciting doll plan.",
+      "primary_L": "L1",
+      "L_rationale": "Figurative enthusiasm and threatened burning connect through ordinary lexical metaphor that can be recreated in translation; no automatic L3.",
+      "primary_H": "H1",
+      "H_rationale": "Visible glow, pain, requests to wake/release and Kazuma's wake-up attempt are shown; no final separation, cure or death is supplied.",
+      "source_plane": "NEW_ELECTRONIC_BONUS_FICTION",
+      "eligibility_and_limits": "Purposeful post-seal selection, not a census or independent trial. Performance, claim, narrator attribution, role projection and compressed retrospective result are kept separate.",
+      "native_member": "text/part0021.html",
+      "native_member_sha256": "576678fa5bd6dda7b4ea5aaff15f63afd61f09b01af7df08fb2c2d1af3c00bc7",
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H09",
+      "boundary": {
+        "component_id": "MAIN-08-U023",
+        "start_P": 60,
+        "end_P": 60
+      },
+      "whole_selected_premise": "The desired doll is retrospectively dismissed as junk because half a day of operation requires an Explosion's worth of mana.",
+      "primary_L": "L0",
+      "L_rationale": "The distinction between technical creation and usable running cost is structurally portable; no real-world energy unit is inferred.",
+      "primary_H": "H1",
+      "H_rationale": "A product and prohibitive operating requirement are retrospectively narrated; this is not merely a hypothetical object, but payment, full specification and testing process remain absent.",
+      "source_plane": "NEW_ELECTRONIC_BONUS_FICTION",
+      "eligibility_and_limits": "Purposeful post-seal selection, not a census or independent trial. Performance, claim, narrator attribution, role projection and compressed retrospective result are kept separate.",
+      "native_member": "text/part0021.html",
+      "native_member_sha256": "576678fa5bd6dda7b4ea5aaff15f63afd61f09b01af7df08fb2c2d1af3c00bc7",
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H10",
+      "boundary": {
+        "component_id": "MAIN-08-U003",
+        "image_id": "MAIN-08-IMG026"
+      },
+      "whole_selected_premise": "Aqua's festival replacement demand meets distinct refusals and qualified assistance, while Chris expels her tea.",
+      "primary_L": "L0",
+      "L_rationale": "The represented causal or visual contrast is portable; phrasing-sensitive nested forms remain separately bounded.",
+      "primary_H": "H4",
+      "H_rationale": "Front composes U012P404-452. Darkness's work/faith, Megumin's Axis history and Chris's unrequested nomination remain different; later-day availability is not initial assent.",
+      "source_plane": "ACTUALLY_VIEWED_NATIVE_RASTER_AT_DECLARED_PLANE",
+      "eligibility_and_limits": "Retained body comparisons calibrate identity/chronology withzero new principal pass/event credit; staged composition does not become an independent trial.",
+      "native_member": "text/part0001.html",
+      "native_member_sha256": "864fcf9c7c372aa0fb23684c0951d52c108572737618eefd083805c71a9f1d15",
+      "native_image_sha256": "39578679c23571d1a750880cd48a5e785435dffc31265f70c67e88184ae316ed",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H11",
+      "boundary": {
+        "component_id": "MAIN-08-U004",
+        "image_id": "MAIN-08-IMG019"
+      },
+      "whole_selected_premise": "Costumed women and audience enthusiasm surround an armor figure without resolving every pictured identity.",
+      "primary_L": "L0",
+      "L_rationale": "The represented causal or visual contrast is portable; phrasing-sensitive nested forms remain separately bounded.",
+      "primary_H": "H4",
+      "H_rationale": "The front'sサキュバス? question mark stays; U014P640-673 identifies unnamed succubus workers, not Aqua by hair color or Lolisa by appearance. No completed contact or consent.",
+      "source_plane": "ACTUALLY_VIEWED_NATIVE_RASTER_AT_DECLARED_PLANE",
+      "eligibility_and_limits": "Retained body comparisons calibrate identity/chronology withzero new principal pass/event credit; staged composition does not become an independent trial.",
+      "native_member": "text/part0002.html",
+      "native_member_sha256": "e6e7a348670bffcf563654f9db57f4f61b7f12aa5fbde858954b8e3d22e8ff46",
+      "native_image_sha256": "a52b123ed562a38aa89f589bfb6acdcf2bbdfcd0d45793e2ff1f99cd6625672d",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H12",
+      "boundary": {
+        "component_id": "MAIN-08-U005",
+        "image_id": "MAIN-08-IMG008"
+      },
+      "whole_selected_premise": "Chris and Eris's paired roles carry a wish for peace making the role unnecessary.",
+      "primary_L": "L0",
+      "L_rationale": "The represented causal or visual contrast is portable; phrasing-sensitive nested forms remain separately bounded.",
+      "primary_H": "H4",
+      "H_rationale": "Staged front attribution is usable as a represented wish at that plane, not two new performed prayers, actual retirement or a full CE01 trial.",
+      "source_plane": "ACTUALLY_VIEWED_NATIVE_RASTER_AT_DECLARED_PLANE",
+      "eligibility_and_limits": "Retained body comparisons calibrate identity/chronology withzero new principal pass/event credit; staged composition does not become an independent trial.",
+      "native_member": "text/part0003.html",
+      "native_member_sha256": "c5ba7b8901d1e153e0ee250b9e8c25707652ede93224513d4effcaaa3fc3aa7f",
+      "native_image_sha256": "52791567fba8f6f103002707bf0ddc47bf8173ffbdc18d7bcbbec5a89a893500",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H13",
+      "boundary": {
+        "component_id": "MAIN-08-U012",
+        "image_id": "MAIN-08-IMG029"
+      },
+      "whole_selected_premise": "Aqua's claimed dragon follows Vanir, who solves the clinging problem by leaving a shed body with the chick.",
+      "primary_L": "L0",
+      "L_rationale": "The represented causal or visual contrast is portable; phrasing-sensitive nested forms remain separately bounded.",
+      "primary_H": "H1",
+      "H_rationale": "U012P254-312 keeps chick naming, Aqua's denial/affection constraint, actual body-shedding and care separate. The enlarged bird is compositional.",
+      "source_plane": "ACTUALLY_VIEWED_NATIVE_RASTER_AT_DECLARED_PLANE",
+      "eligibility_and_limits": "Retained body comparisons calibrate identity/chronology withzero new principal pass/event credit; staged composition does not become an independent trial.",
+      "native_member": "text/part0010.html",
+      "native_member_sha256": "b73a55a1f83e4398f9ded7d5db30a0d83cd9a89bbeedb00dd3c1ac6a88de9874",
+      "native_image_sha256": "f747ce617186de3dad2feeae23e9c2fcdec685e96620d22d327fda82464ef7a5",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H14",
+      "boundary": {
+        "component_id": "MAIN-08-U013",
+        "image_id": "MAIN-08-IMG015"
+      },
+      "whole_selected_premise": "Cecily claims to be Megumin's sister and offers expansive service while Megumin corrects her and avoids the hug.",
+      "primary_L": "L0",
+      "L_rationale": "The represented causal or visual contrast is portable; phrasing-sensitive nested forms remain separately bounded.",
+      "primary_H": "H1",
+      "H_rationale": "U013P125-164 verifies actual Cecily and denied sister claim. Kazuma's Axis identity inference is not universal public knowledge.",
+      "source_plane": "ACTUALLY_VIEWED_NATIVE_RASTER_AT_DECLARED_PLANE",
+      "eligibility_and_limits": "Retained body comparisons calibrate identity/chronology withzero new principal pass/event credit; staged composition does not become an independent trial.",
+      "native_member": "text/part0011.html",
+      "native_member_sha256": "3bae2777b371ccbd101c49a54b0dc5bcff8c6b966e354a741e0e2221bf3f9e98",
+      "native_image_sha256": "4b0536f09cc0ea609a296b9d90baa78283e18f250c4947f9a50601281394bfe7",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H15",
+      "boundary": {
+        "component_id": "MAIN-08-U013",
+        "image_id": "MAIN-08-IMG006"
+      },
+      "whole_selected_premise": "Aigis interrupts a reverent recovery scene with preferences, resistance to painful service and an alarm against removal.",
+      "primary_L": "L0",
+      "L_rationale": "The represented causal or visual contrast is portable; phrasing-sensitive nested forms remain separately bounded.",
+      "primary_H": "H1",
+      "H_rationale": "U013P449-498: speaking artifact, gender error, bearer preferences and actual alarm, not Kazuma possession or a compliant free resource.",
+      "source_plane": "ACTUALLY_VIEWED_NATIVE_RASTER_AT_DECLARED_PLANE",
+      "eligibility_and_limits": "Retained body comparisons calibrate identity/chronology withzero new principal pass/event credit; staged composition does not become an independent trial.",
+      "native_member": "text/part0011.html",
+      "native_member_sha256": "3bae2777b371ccbd101c49a54b0dc5bcff8c6b966e354a741e0e2221bf3f9e98",
+      "native_image_sha256": "9d86b35bb393b0a05115a96835768aa2ed33c945cea59a32d0c0fa0b2cccb651",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H16",
+      "boundary": {
+        "component_id": "MAIN-08-U014",
+        "image_id": "MAIN-08-IMG011"
+      },
+      "whole_selected_premise": "A festival kitchen performs useful work while helpers complain and eat ingredients.",
+      "primary_L": "L0",
+      "L_rationale": "The represented causal or visual contrast is portable; phrasing-sensitive nested forms remain separately bounded.",
+      "primary_H": "H1",
+      "H_rationale": "U014P514-554 gives Cooking skill, cutting, orders, real sales and recruitment wrapping. No jealousy or intimacy explanation is supplied by the pose.",
+      "source_plane": "ACTUALLY_VIEWED_NATIVE_RASTER_AT_DECLARED_PLANE",
+      "eligibility_and_limits": "Retained body comparisons calibrate identity/chronology withzero new principal pass/event credit; staged composition does not become an independent trial.",
+      "native_member": "text/part0012.html",
+      "native_member_sha256": "85f37b44972ef42c48be09c971b6a7534911e8f3820e33e0544a642b7312166c",
+      "native_image_sha256": "423a264dc6b34dd8bd1a739c9bc673e1e6d766e27287ccf07432a812cd4ea229",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H17",
+      "boundary": {
+        "component_id": "MAIN-08-U015",
+        "image_id": "MAIN-08-IMG018"
+      },
+      "whole_selected_premise": "Kazuma anticipates a private outing but Megumin pulls his hand and Yunyun eagerly joins her first shared festival.",
+      "primary_L": "L0",
+      "L_rationale": "The represented causal or visual contrast is portable; phrasing-sensitive nested forms remain separately bounded.",
+      "primary_H": "H1",
+      "H_rationale": "U015P1-53 clarifies the initiator and different knowledge. Original image note's uncertain direction is corrected; no shared romantic contract.",
+      "source_plane": "ACTUALLY_VIEWED_NATIVE_RASTER_AT_DECLARED_PLANE",
+      "eligibility_and_limits": "Retained body comparisons calibrate identity/chronology withzero new principal pass/event credit; staged composition does not become an independent trial.",
+      "native_member": "text/part0013.html",
+      "native_member_sha256": "362bd06e5a370572858ecc06f244fd02a979cae2ab95adc1de8c931feb4ae5d9",
+      "native_image_sha256": "b7a60b4320f492a23e2a83594cfa3cb60183f87b1137a13abeabd8c233713fb0",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H18",
+      "boundary": {
+        "component_id": "MAIN-08-U015",
+        "image_id": "MAIN-08-IMG002"
+      },
+      "whole_selected_premise": "A concealed heist outfit creates a mistaken account before Darkness gives particular gratitude and a prior-promised cheek kiss.",
+      "primary_L": "L0",
+      "L_rationale": "The represented causal or visual contrast is portable; phrasing-sensitive nested forms remain separately bounded.",
+      "primary_H": "H1",
+      "H_rationale": "U015P135-216 separates misreading, belonging gratitude, Kazuma's distracted response and the specific kiss; no completed sexual act or blanket permission.",
+      "source_plane": "ACTUALLY_VIEWED_NATIVE_RASTER_AT_DECLARED_PLANE",
+      "eligibility_and_limits": "Retained body comparisons calibrate identity/chronology withzero new principal pass/event credit; staged composition does not become an independent trial.",
+      "native_member": "text/part0013.html",
+      "native_member_sha256": "362bd06e5a370572858ecc06f244fd02a979cae2ab95adc1de8c931feb4ae5d9",
+      "native_image_sha256": "36519181620e478779a39bcb0611f66d37e8858a1f4b6d129b943b97e031b88f",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H19",
+      "boundary": {
+        "component_id": "MAIN-08-U016",
+        "image_id": "MAIN-08-IMG025"
+      },
+      "whole_selected_premise": "Eris names herself onstage, then playfully keeps age and work secret as Aigis changes allegiance.",
+      "primary_L": "L0",
+      "L_rationale": "The represented causal or visual contrast is portable; phrasing-sensitive nested forms remain separately bounded.",
+      "primary_H": "H1",
+      "H_rationale": "U016P351-393 gives actual self-set privacy limits. It weakens a universal cannot-refuse account, not a new full cumulative-burden test.",
+      "source_plane": "ACTUALLY_VIEWED_NATIVE_RASTER_AT_DECLARED_PLANE",
+      "eligibility_and_limits": "Retained body comparisons calibrate identity/chronology withzero new principal pass/event credit; staged composition does not become an independent trial.",
+      "native_member": "text/part0014.html",
+      "native_member_sha256": "8e0471cea86790dfc08d99c05442c28065dee47a452c4d46e3e12cbf2dc0e0f6",
+      "native_image_sha256": "c95db1e5fb44e9a8e239654d0a6c8a3422a0fbc60ff71b31bb05d683e3ac3570",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H20",
+      "boundary": {
+        "component_id": "MAIN-08-U017",
+        "image_id": "MAIN-08-IMG004"
+      },
+      "whole_selected_premise": "Celebration joins Chris's drunken familiarity, Darkness's limits and a fabricated birthday-gift custom.",
+      "primary_L": "L0",
+      "L_rationale": "The represented causal or visual contrast is portable; phrasing-sensitive nested forms remain separately bounded.",
+      "primary_H": "H1",
+      "H_rationale": "U017P2-46 and focused pixels correct the inset hugger to Chris and upper companion to Yunyun. Megumin corrects Aqua's false custom; no extra party or universal assent.",
+      "source_plane": "ACTUALLY_VIEWED_NATIVE_RASTER_AT_DECLARED_PLANE",
+      "eligibility_and_limits": "Retained body comparisons calibrate identity/chronology withzero new principal pass/event credit; staged composition does not become an independent trial.",
+      "native_member": "text/part0015.html",
+      "native_member_sha256": "6a8bad54d479bc2114018847d81892d7b3cfc6fa02744e1cdb03f8085ee2bf21",
+      "native_image_sha256": "854d0b62bffdf6843d96aed93a7d9472578ad7156eef29827a145649163e63d7",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H21",
+      "boundary": {
+        "component_id": "MAIN-08-U020",
+        "image_id": "MAIN-08-IMG028"
+      },
+      "whole_selected_premise": "The illustrator gives the divine-looking figure a small worry about disguise discovery.",
+      "primary_L": "L0",
+      "L_rationale": "The represented causal or visual contrast is portable; phrasing-sensitive nested forms remain separately bounded.",
+      "primary_H": "H4",
+      "H_rationale": "ATOGAKI/2015signed staged coda, not a performed failed disguise, new identity event or independently observed fear.",
+      "source_plane": "ACTUALLY_VIEWED_NATIVE_RASTER_AT_DECLARED_PLANE",
+      "eligibility_and_limits": "Retained body comparisons calibrate identity/chronology withzero new principal pass/event credit; staged composition does not become an independent trial.",
+      "native_member": "text/part0018.html",
+      "native_member_sha256": "752e59efc964751f237582a6ad4afc61a7e86c54cb8b9a0028960a39e1f99664",
+      "native_image_sha256": "a72f0655681d3a3a9aea963bc2f02ad7441feaa81c70012ca960abe23f2c52ee",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H22",
+      "boundary": {
+        "component_id": "MAIN-08-U022",
+        "image_id": "MAIN-08-IMG012"
+      },
+      "whole_selected_premise": "Promotional Megumin presses Kazuma's qualified expectations before promising to reveal a secret.",
+      "primary_L": "L2",
+      "L_rationale": "The selected represented role/stance depends on pragmatic context; no Japanese-only whole-effect claim.",
+      "primary_H": "H4",
+      "H_rationale": "NEXT9/Mask staging, not a completed confession or actual negotiated relationship. Repetition and ordinary heart idiom do not require L3.",
+      "source_plane": "ACTUALLY_VIEWED_NATIVE_RASTER_AT_DECLARED_PLANE",
+      "eligibility_and_limits": "Retained body comparisons calibrate identity/chronology withzero new principal pass/event credit; staged composition does not become an independent trial.",
+      "native_member": "text/part0020.html",
+      "native_member_sha256": "12cdb7f9cfc0512d21a37af31df3ab89ac58e4808bc2726626b10fd91bb1f546",
+      "native_image_sha256": "bad61fb77b467e95841a0da598564227c24afcbce4ffe2d10a9481d89307398d",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H23",
+      "boundary": {
+        "component_id": "MAIN-08-U019",
+        "start_P": 6,
+        "end_P": 9
+      },
+      "whole_selected_premise": "The author warns against harem expectations with a projected meteor and absurd alternate protagonist titles.",
+      "primary_L": "L1",
+      "L_rationale": "Escalating expectation reversal and title phrasing survive translation; a proper name alone does not prove L3.",
+      "primary_H": "H4",
+      "H_rationale": "Selected future-story projection is comic authorial framing; no actual Kazuma death or newly admitted sequel.",
+      "source_plane": "ATTRIBUTED_AUTHOR_AFTERWORD",
+      "eligibility_and_limits": "Purposeful post-seal selection, not a census or independent trial. Performance, claim, narrator attribution, role projection and compressed retrospective result are kept separate.",
+      "native_member": "text/part0017.html",
+      "native_member_sha256": "da77d68c4925cc0b2d55248e93452d91998d004c7deeff0fe8719e76067a449b",
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H24",
+      "boundary": {
+        "component_id": "MAIN-08-U019",
+        "start_P": 11,
+        "end_P": 17
+      },
+      "whole_selected_premise": "The author repairs 'heckling' to a studio visit and praises performers handling unusual directions.",
+      "primary_L": "L1",
+      "L_rationale": "Self-repair and repeated凄い shape emphasis without supplying acoustic evidence.",
+      "primary_H": "H1",
+      "H_rationale": "Attributed production report and joking self-description, not measured audio or independently verified recording behavior.",
+      "source_plane": "ATTRIBUTED_AUTHOR_AFTERWORD",
+      "eligibility_and_limits": "Purposeful post-seal selection, not a census or independent trial. Performance, claim, narrator attribution, role projection and compressed retrospective result are kept separate.",
+      "native_member": "text/part0017.html",
+      "native_member_sha256": "da77d68c4925cc0b2d55248e93452d91998d004c7deeff0fe8719e76067a449b",
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M08EX-H25",
+      "boundary": {
+        "component_id": "MAIN-08-U019",
+        "start_P": 18,
+        "end_P": 21
+      },
+      "whole_selected_premise": "The author jokes about avoiding a signing but practices after an appeal to readers' support.",
+      "primary_L": "L1",
+      "L_rationale": "殺し文句 is an ordinary persuasive-phrase idiom, not literal killing or automatically Japanese-only humor.",
+      "primary_H": "H1",
+      "H_rationale": "Plans, reported persuasion, practice and gratitude are distinct; a completed signing is unshown.",
+      "source_plane": "ATTRIBUTED_AUTHOR_AFTERWORD",
+      "eligibility_and_limits": "Purposeful post-seal selection, not a census or independent trial. Performance, claim, narrator attribution, role projection and compressed retrospective result are kept separate.",
+      "native_member": "text/part0017.html",
+      "native_member_sha256": "da77d68c4925cc0b2d55248e93452d91998d004c7deeff0fe8719e76067a449b",
+      "formal_assignment_after_seal_utc": "2026-10-19T12:34:18.106765+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    }
+  ],
+  "H_protocol": "H1 literal acts or attributed statements; H2 underlying reaction with amplified intensity; H3 only behavior contingent on a local gag, not uncertainty; H4 staged/nonliteral presentation rather than fantasy automatically. Actual and projected effects remain different.",
+  "L_protocol": "L0 structurally portable; L1 phrasing-sensitive; L2 register/pragmatic stance; L3 central Japanese-form dependence. Whole effects and named nested forms are distinct; selected overlap is not a denominator."
+}

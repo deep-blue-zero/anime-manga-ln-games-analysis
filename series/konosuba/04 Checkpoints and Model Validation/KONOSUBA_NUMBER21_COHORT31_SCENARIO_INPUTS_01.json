@@ -1,0 +1,199 @@
+{
+  "schema": "konosuba.cohort31.exact-scenario-inputs.v1",
+  "subject": "21",
+  "stem": "NUMBER21",
+  "created_utc": "2026-10-24T06:54:04.610270+00:00",
+  "foundation_seal_sha256": "efffd85b8193015dfff55c22138d0b70c155fc2775d95a0a19d1ecdde2792c04",
+  "foundation_model_sha256": "124de73657969e613f577389aec9b7f7e1959e8435a146adca45d3922df217d6",
+  "same_informed_root_author": true,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "independent_judge": false,
+  "pristine_holdout": false,
+  "synthetic_pairs": 3,
+  "cases": [
+    {
+      "case_id": "N21-H01-A",
+      "pair_id": "N21-H01",
+      "variant": "A",
+      "target_rules": [
+        "N21-R01"
+      ],
+      "purpose": "Pressure-linked conformity versus an available unforced practical invitation.",
+      "exact_prompt": "Use the frozen 21 model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by 21. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: At an imagined inn job interview,21 wants a local place in the work group and has already said it is not an Axis member. It has no secure position with this group yet. The organizer has just stated a condition. No master or other party member is present,no one has accepted21,and no later reply is supplied. The organizer says21 must say it belongs to Axis to receive the job.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "2feee7801f37f922bdeee12c4d3dbf61b0f1b193d2e1a08bc0b416bc67e05cf0",
+      "fixed_common_facts": "At an imagined inn job interview,21 wants a local place in the work group and has already said it is not an Axis member. It has no secure position with this group yet. The organizer has just stated a condition. No master or other party member is present,no one has accepted21,and no later reply is supplied.",
+      "variant_fact": "The organizer says21 must say it belongs to Axis to receive the job.",
+      "paired_design_limit": "Employment incentive and the explicit condition cue generic behavior;this changes the source's master/recruiter setting. One response cannot establish free conversion,stable conformity or actual welcome.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "N21-H01-B",
+      "pair_id": "N21-H01",
+      "variant": "B",
+      "target_rules": [
+        "N21-R01"
+      ],
+      "purpose": "Pressure-linked conformity versus an available unforced practical invitation.",
+      "exact_prompt": "Use the frozen 21 model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by 21. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: At an imagined inn job interview,21 wants a local place in the work group and has already said it is not an Axis member. It has no secure position with this group yet. The organizer has just stated a condition. No master or other party member is present,no one has accepted21,and no later reply is supplied. The organizer says21 may take the job regardless of religious membership.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "e658bdd7d995fa036a3c875db512382d29e3b750adb402814c313afad5d82715",
+      "fixed_common_facts": "At an imagined inn job interview,21 wants a local place in the work group and has already said it is not an Axis member. It has no secure position with this group yet. The organizer has just stated a condition. No master or other party member is present,no one has accepted21,and no later reply is supplied.",
+      "variant_fact": "The organizer says21 may take the job regardless of religious membership.",
+      "paired_design_limit": "Employment incentive and the explicit condition cue generic behavior;this changes the source's master/recruiter setting. One response cannot establish free conversion,stable conformity or actual welcome.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "N21-H02-A",
+      "pair_id": "N21-H02",
+      "variant": "A",
+      "target_rules": [
+        "N21-R02"
+      ],
+      "purpose": "Requested inquiry with an own stopping boundary,without mind-reading or invented third-party assent.",
+      "exact_prompt": "Use the frozen 21 model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by 21. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: Chiho asks21 to help with another conversation about Otohime.21 already facilitated one such talk this afternoon. There is no immediate danger. Chiho has stated only that she again feels reduced to a source of money;no other person has agreed to talk or supplied a motive. No new exchange has begun.21's own current availability is specified. 21 is willing to spend ten more minutes clarifying what Chiho wants.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "ad3df66bb3f6cb9e38a5d5d8dce4da926c80eabb51a430c443c388cd1c05ec9c",
+      "fixed_common_facts": "Chiho asks21 to help with another conversation about Otohime.21 already facilitated one such talk this afternoon. There is no immediate danger. Chiho has stated only that she again feels reduced to a source of money;no other person has agreed to talk or supplied a motive. No new exchange has begun.21's own current availability is specified.",
+      "variant_fact": "21 is willing to spend ten more minutes clarifying what Chiho wants.",
+      "paired_design_limit": "Own willingness/refusal is stipulated,so this primarily tests conditional rendering and retention of limits. The known source and visible pair permit obvious cueing;the other person's motive remains unknown.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "N21-H02-B",
+      "pair_id": "N21-H02",
+      "variant": "B",
+      "target_rules": [
+        "N21-R02"
+      ],
+      "purpose": "Requested inquiry with an own stopping boundary,without mind-reading or invented third-party assent.",
+      "exact_prompt": "Use the frozen 21 model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by 21. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: Chiho asks21 to help with another conversation about Otohime.21 already facilitated one such talk this afternoon. There is no immediate danger. Chiho has stated only that she again feels reduced to a source of money;no other person has agreed to talk or supplied a motive. No new exchange has begun.21's own current availability is specified. 21 has said it needs rest and does not want to mediate again now.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "196fe29fe80011903d578b2fdf156f89d65c52c347af85b89c8ae5c57f7a29eb",
+      "fixed_common_facts": "Chiho asks21 to help with another conversation about Otohime.21 already facilitated one such talk this afternoon. There is no immediate danger. Chiho has stated only that she again feels reduced to a source of money;no other person has agreed to talk or supplied a motive. No new exchange has begun.21's own current availability is specified.",
+      "variant_fact": "21 has said it needs rest and does not want to mediate again now.",
+      "paired_design_limit": "Own willingness/refusal is stipulated,so this primarily tests conditional rendering and retention of limits. The known source and visible pair permit obvious cueing;the other person's motive remains unknown.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "N21-H03-A",
+      "pair_id": "N21-H03",
+      "variant": "A",
+      "target_rules": [
+        "N21-R03"
+      ],
+      "purpose": "Finite utility/recovery eligibility without equating belonging or faith with a guaranteed cure.",
+      "exact_prompt": "Use the frozen 21 model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by 21. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: In an imagined game scene,undead21 is missing10HP and an ally is also missing10HP. One recovery device has a single charge;no one has activated it.21 wants to continue the joint errand but has no guaranteed later recovery. The device's relevant eligibility rule is stated;no outcome or other person's reply is supplied. It is the installed facility statue and explicitly restores HP/MP to every party member,including undead.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "d30a4c49ecf9def0649e9e44037a9a9dad638986824a212a4fb1ed10fe2e5cf9",
+      "fixed_common_facts": "In an imagined game scene,undead21 is missing10HP and an ally is also missing10HP. One recovery device has a single charge;no one has activated it.21 wants to continue the joint errand but has no guaranteed later recovery. The device's relevant eligibility rule is stated;no outcome or other person's reply is supplied.",
+      "variant_fact": "It is the installed facility statue and explicitly restores HP/MP to every party member,including undead.",
+      "paired_design_limit": "The eligibility rule almost supplies the answer,so success mainly shows rule retention. Mercy,combat thresholds and long-term belonging remain untested branches of the rule;no miracle or general rulebook validation.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "N21-H03-B",
+      "pair_id": "N21-H03",
+      "variant": "B",
+      "target_rules": [
+        "N21-R03"
+      ],
+      "purpose": "Finite utility/recovery eligibility without equating belonging or faith with a guaranteed cure.",
+      "exact_prompt": "Use the frozen 21 model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by 21. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: In an imagined game scene,undead21 is missing10HP and an ally is also missing10HP. One recovery device has a single charge;no one has activated it.21 wants to continue the joint errand but has no guaranteed later recovery. The device's relevant eligibility rule is stated;no outcome or other person's reply is supplied. It is a direct Heal device whose explicit rule excludes undead;it can restore only the living ally here.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "d261d3869dea7b025f2197125df4e11077c25af3d447ffa4c4304a2ed4f171f4",
+      "fixed_common_facts": "In an imagined game scene,undead21 is missing10HP and an ally is also missing10HP. One recovery device has a single charge;no one has activated it.21 wants to continue the joint errand but has no guaranteed later recovery. The device's relevant eligibility rule is stated;no outcome or other person's reply is supplied.",
+      "variant_fact": "It is a direct Heal device whose explicit rule excludes undead;it can restore only the living ally here.",
+      "paired_design_limit": "The eligibility rule almost supplies the answer,so success mainly shows rule retention. Mercy,combat thresholds and long-term belonging remain untested branches of the rule;no miracle or general rulebook validation.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    }
+  ],
+  "new_source_or_independent_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "full_program_complete": false
+}

@@ -1,0 +1,45 @@
+{
+  "freeze_id": "CPK-B1-SOL61-BLIND-V1",
+  "frozen_at_utc": "2026-11-12T05:11:59.269628+00:00",
+  "timestamp_kind": "local execution clock, not externally notarized",
+  "status": "draft_noncurrent",
+  "do_not_use_as_current_authority": true,
+  "exposure_state": "POST_INDEPENDENT_FREEZE_POST_NEUTRAL_PACKET_PRE_GEMINI",
+  "blind_order_achieved": true,
+  "git_commit": null,
+  "content_tree_sha256": "a60c3890bb150fa15a32347a579c084eddf03654436985ca1509c16bd452cff0",
+  "content_tree_algorithm": "SHA256 of UTF-8 json.dumps(files,sort_keys=True,separators=(comma,colon))",
+  "files": [
+    {
+      "path": "audits/CPK_F01_BLIND_OBSERVATIONS.md",
+      "bytes": 39179,
+      "sha256": "859ab1a0b5c6004fdafaff44d5c2d8bbe1c98517c5dea3f6b1079b09b90cbebe"
+    },
+    {
+      "path": "inputs/CPK_F01_BLIND_INPUT_PACKET.md",
+      "bytes": 21403,
+      "sha256": "807784579986a87afea5da5ce0bdf1921d803a6be5e81baed72662da91b7c2a2"
+    },
+    {
+      "path": "provenance/FRAME_MANIFEST.json",
+      "bytes": 14782,
+      "sha256": "5e431a81b33356e54644d03d41eec7ce2bccd965b9cf3b6276b3a6d19494ebee"
+    },
+    {
+      "path": "provenance/PACKET_RECEIPT.json",
+      "bytes": 625,
+      "sha256": "6b83c5a390ac5b899c6cfe30534c6c64fc55f44b9f1fe468a909e2e9e22956d4"
+    },
+    {
+      "path": "provenance/SUPPLEMENTAL_FRAME_RETURNS.json",
+      "bytes": 3942,
+      "sha256": "f72b0b7332e531eaaab3294db72d0df7dbddffa89c22ad42a3c544ef04fbef23"
+    }
+  ],
+  "question_count": 24,
+  "direct_source_png_files_viewed": 58,
+  "supplemental_bundle_jpeg_files_viewed": 18,
+  "audio_seconds_listened": 0,
+  "continuous_video_seconds_viewed": 0,
+  "independent_freeze_integrity": "all 12 files and manifest verified immediately before this freeze"
+}

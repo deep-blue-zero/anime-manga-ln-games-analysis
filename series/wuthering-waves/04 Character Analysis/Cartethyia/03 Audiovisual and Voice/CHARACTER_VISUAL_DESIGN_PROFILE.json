@@ -1,0 +1,161 @@
+{
+  "artifact_type": "character_visual_design_profile",
+  "character": "Cartethyia",
+  "counterreadings": [
+    "A single costume feature may support several readings; the profile records plausible visual functions rather than claiming unique authorial intent.",
+    "UI key art can exaggerate color, pose, scale, transparency, and fabric motion relative to the runtime model."
+  ],
+  "form_state_distinctions": [
+    {
+      "claim_id": "wuwa:visual-claim:051647f1b8880b26acfafa1c",
+      "confidence": "open",
+      "dimension": "form_skin_state",
+      "evidence_basis": "open",
+      "evidence_visual_ids": [
+        "wuwa:visual:87956f89077c4ee169f9d86f",
+        "wuwa:visual:c8a47d5eae0e82e53d546a60",
+        "wuwa:visual:364c8a69538b1f950b450b27"
+      ],
+      "semantic_source_locators": [
+        "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/role/roleinfo.json#/77"
+      ],
+      "statement": "The three decoded images represent Cartethyia's default playable/base presentation. Fleurdelys, spirit-body, combat transformation, damage states, and any other skins are not visually covered by this generation.",
+      "uncertainty": "A role-linked default UI representation is not proof that no alternate form or skin exists."
+    }
+  ],
+  "generation": "character_visual_v0_2",
+  "observations": [
+    {
+      "claim_id": "wuwa:visual-claim:abfdd565f30e64e732226228",
+      "confidence": "high",
+      "dimension": "silhouette",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:c8a47d5eae0e82e53d546a60",
+        "wuwa:visual:364c8a69538b1f950b450b27"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Long straight hair, pointed ears, a branching thorn circlet, shoulder drapes, and extremely long ribbon-like side panels create a slender, wind-swept silhouette.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:162c4576e85f1ce400552fb6",
+      "confidence": "high",
+      "dimension": "palette",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:c8a47d5eae0e82e53d546a60",
+        "wuwa:visual:364c8a69538b1f950b450b27"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Warm blonde hair and pale skin sit against white, black, navy, and vivid gradient blues, with restrained gold and blue crystal accents.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:e0d1497030710e83e82304af",
+      "confidence": "high",
+      "dimension": "hair_and_face",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:87956f89077c4ee169f9d86f",
+        "wuwa:visual:c8a47d5eae0e82e53d546a60",
+        "wuwa:visual:364c8a69538b1f950b450b27"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Waist-length blonde hair frames blue eyes and visibly pointed ears; the crown crosses the forehead asymmetrically and small blue drops hang beside the ears.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:51df15676edc858ef858bfc1",
+      "confidence": "high",
+      "dimension": "costume_construction",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:c8a47d5eae0e82e53d546a60",
+        "wuwa:visual:364c8a69538b1f950b450b27"
+      ],
+      "semantic_source_locators": [],
+      "statement": "A high black collar and dark central underdress are layered beneath white split panels, exposed shoulders, delicate straps, short inner hem, long trailing side cloth, and light heeled sandals.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:69f5a33978bb6c0eb86a15db",
+      "confidence": "medium",
+      "dimension": "materials",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:c8a47d5eae0e82e53d546a60",
+        "wuwa:visual:364c8a69538b1f950b450b27"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Soft pale cloth and dark structured trim contrast with branch-like metal, crystal drops, gold filigree, and blue panels rendered with starry translucent texture.",
+      "uncertainty": "Material words describe rendered cues, not a physical-material measurement."
+    },
+    {
+      "claim_id": "wuwa:visual-claim:000c3e23e81ea77494eb390d",
+      "confidence": "high",
+      "dimension": "motifs",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:c8a47d5eae0e82e53d546a60",
+        "wuwa:visual:364c8a69538b1f950b450b27"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Thorns/branches, droplets, wind-swept ribbons, blue crystal, and small ecclesiastical or fleur-like ornaments repeat across the crown, ears, chest, and hem.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:30fe8ef58e459fe620553f08",
+      "confidence": "medium",
+      "dimension": "weapon_and_role_signaling",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:c8a47d5eae0e82e53d546a60",
+        "wuwa:visual:364c8a69538b1f950b450b27"
+      ],
+      "semantic_source_locators": [],
+      "statement": "No weapon is visible in this bounded base-form UI set; the crown and vestment-like layering signal saintly or ceremonial history more strongly than an explicit knight's armament.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:9cabc7e4f8e69bd02c27ee6a",
+      "confidence": "high",
+      "dimension": "pose_and_body_language",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:c8a47d5eae0e82e53d546a60",
+        "wuwa:visual:364c8a69538b1f950b450b27"
+      ],
+      "semantic_source_locators": [],
+      "statement": "The open hands, slight smile, crossed-leg stance, and lightly drifting panels convey gentleness and newly found ease rather than formal martial severity.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:fe085e0aaa1c4354170a2954",
+      "confidence": "medium",
+      "dimension": "design_narrative_relationship",
+      "evidence_basis": "direct_visual_and_semantic",
+      "evidence_visual_ids": [
+        "wuwa:visual:c8a47d5eae0e82e53d546a60",
+        "wuwa:visual:364c8a69538b1f950b450b27"
+      ],
+      "semantic_source_locators": [
+        "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/Textmaps/en/multi_text/MultiText.json#/89819"
+      ],
+      "statement": "The thorned ceremonial frame and dark center preserve traces of the Blessed Maiden/Fleurdelys history, while the light pose and wind-blue panels fit the dossier's wandering-knight freedom reading. The selected images do not establish the visual transformation into Fleurdelys.",
+      "uncertainty": "The relationship between visible design and narrative meaning is analytical interpretation unless the cited text explicitly names the feature."
+    }
+  ],
+  "open_questions": [
+    "How does the silhouette and garment construction read from the back and in neutral runtime lighting?",
+    "Which pose, gesture, idle, facial-expression, and movement habits persist across authored scenes and gameplay?",
+    "Which alternate skins, forms, combat states, or story states materially change this design grammar?",
+    "Do official promotional sheets or model turnarounds contradict details inferred from these three UI rasters?"
+  ],
+  "role_id": 1409,
+  "schema_version": "wuwa.character-visual-design-profile.v0.2",
+  "source_generation_frozen": false,
+  "status": "active_provisional",
+  "summary": "Cartethyia's bounded base-form art presents a gentle wandering saint/knight: long blonde hair, pointed ears, a thorn-like blue circlet, and a white-black dress extended by deep-blue star-flecked panels. The design balances ecclesiastical restraint with airy movement and a quiet, approachable expression.",
+  "visual_manifest": "CHARACTER_VISUAL_REFERENCE_MANIFEST.json"
+}

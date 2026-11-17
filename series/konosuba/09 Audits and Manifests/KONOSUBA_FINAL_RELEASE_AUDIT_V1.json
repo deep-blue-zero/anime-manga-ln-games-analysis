@@ -1,0 +1,840 @@
+{
+  "schema": "konosuba.fixed41.final-release-audit.v1",
+  "prepared_utc": "2026-10-27T02:44:41.901819+00:00",
+  "basis": "d81f4099abf13383f5acf56db13dcdff85cae484",
+  "release_identity": "FIXED41_ANALYTICAL_RELEASE_V1",
+  "release_effectiveness_rule": "Effective only at the actual containing main publication after verified exact source/main audits. Authored front matter and this record do not self-certify a future own commit or audit.",
+  "author_authority_gate": {
+    "source": "e830595e5f126d15a7ba43f15a7a2c6088428c5e",
+    "main": "3f60356ce7dbb0345c32d046a500245a1fbf653c",
+    "source_run": 40428782856,
+    "main_run": 40429689973,
+    "root_close_sha256": "2921fcd15740d6498370232b2f88bcb6550040d968dd84d541aaa5501c3baf27"
+  },
+  "source_component_responsibilities": {
+    "fixed_objects": 41,
+    "source_programs": {
+      "main_excluded": 17,
+      "supplemental": 19,
+      "mixed": 5
+    },
+    "component_registers": 41,
+    "distinct_containing_gates": 40,
+    "stable_reconciliation_sha256": "86bf88476db0232ef16692816578bbf4c571258dedb4465cbb863c1eed055c93",
+    "component_audit": {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_FULL_PROGRAM_COMPONENT_DISPOSITION_AUDIT_V1.json",
+      "sha256": "923334bd32a3de3ec1375a10fa624f831521b45145c1141297557d23a2ece993"
+    },
+    "no_new_primary_reading_credit": true,
+    "unequal_source_plane_limits_retained": true
+  },
+  "curation": {
+    "source": "22750f8978152b5761c9c98e6f35b23894c34bc7",
+    "main": "81ec13bbdce71fdbb44d6bbad45f680925781f84",
+    "source_run": 40432251930,
+    "main_run": 40433310799,
+    "actual_scoped_subject_ids": [
+      "konosuba:aigis@original-light-novel",
+      "konosuba:alderp@original-light-novel",
+      "konosuba:aloerina@original-light-novel",
+      "konosuba:amaryllis@original-light-novel",
+      "konosuba:angie@original-light-novel",
+      "konosuba:anna-filante-esteroid@original-light-novel",
+      "konosuba:aqua@original-light-novel",
+      "konosuba:arnes@original-light-novel",
+      "konosuba:arue@original-light-novel",
+      "konosuba:aulip@original-light-novel",
+      "konosuba:balter@original-light-novel",
+      "konosuba:barton@original-light-novel",
+      "konosuba:beldia@original-light-novel",
+      "konosuba:boren@trpg-advanced-supplied-scenario",
+      "konosuba:brad@original-light-novel",
+      "konosuba:bridol-head-butler@original-light-novel",
+      "konosuba:bridol-king@original-light-novel",
+      "konosuba:bukkorori@original-light-novel",
+      "konosuba:cecily@original-light-novel",
+      "konosuba:charlie@fantastic-days-novelization",
+      "konosuba:chekera@original-light-novel",
+      "konosuba:chomusuke@original-light-novel",
+      "konosuba:chris-eris@original-light-novel",
+      "konosuba:cielo@fantastic-days-novelization",
+      "konosuba:claire@original-light-novel",
+      "konosuba:crank@original-light-novel",
+      "konosuba:daniel@fantastic-days-novelization",
+      "konosuba:darkness@original-light-novel",
+      "konosuba:demon-king@original-light-novel",
+      "konosuba:destroyer-scientist@original-light-novel",
+      "konosuba:dodonko@original-light-novel",
+      "konosuba:doreck@original-light-novel",
+      "konosuba:duke@original-light-novel",
+      "konosuba:dust-criminal-chief@original-light-novel",
+      "konosuba:dust-general-store-owner@original-light-novel",
+      "konosuba:dust02-diary-inventor@original-light-novel",
+      "konosuba:dust03-lake-tranquility-girl@original-light-novel",
+      "konosuba:dust07-dullahan-commander@original-light-novel",
+      "konosuba:dust@original-light-novel",
+      "konosuba:eibram@original-light-novel",
+      "konosuba:erika@fantastic-days-novelization",
+      "konosuba:fanbook-medusa-dungeon-owner@original-light-novel",
+      "konosuba:feit@original-light-novel",
+      "konosuba:forest-tranquility-princess@original-light-novel",
+      "konosuba:froger@trpg-edited-replay",
+      "konosuba:funifura@original-light-novel",
+      "konosuba:gaibil@original-light-novel",
+      "konosuba:gilbert@trpg-edited-replay",
+      "konosuba:goran@trpg-edited-replay",
+      "konosuba:hagen@original-light-novel",
+      "konosuba:hans@original-light-novel",
+      "konosuba:heidel@original-light-novel",
+      "konosuba:helmeted-noble@original-light-novel",
+      "konosuba:hoost@original-light-novel",
+      "konosuba:hyoizaburoo@original-light-novel",
+      "konosuba:ignis@original-light-novel",
+      "konosuba:iris@original-light-novel",
+      "konosuba:karen-donnelly@original-light-novel",
+      "konosuba:keele@original-light-novel",
+      "konosuba:keith@original-light-novel",
+      "konosuba:komekko@original-light-novel",
+      "konosuba:leen@original-light-novel",
+      "konosuba:levi@original-light-novel",
+      "konosuba:lia@fantastic-days-novelization",
+      "konosuba:lilac-lalatine@original-light-novel",
+      "konosuba:liliantine@original-light-novel",
+      "konosuba:lolierina@original-light-novel",
+      "konosuba:lolisa@original-light-novel",
+      "konosuba:lucy@original-light-novel",
+      "konosuba:luna@original-light-novel",
+      "konosuba:main02-mask-small-dream-service-worker@original-light-novel",
+      "konosuba:main05-roadside-tranquility-girl@original-light-novel",
+      "konosuba:main07-dustiness-wedding-guard@original-light-novel",
+      "konosuba:main10-elroad-casino-manager@original-light-novel",
+      "konosuba:main10-elroad-prosecutor@original-light-novel",
+      "konosuba:main16-dungeon-vampire-owner@original-light-novel",
+      "konosuba:main17-masked-gatekeeper@original-light-novel",
+      "konosuba:mammon@original-light-novel",
+      "konosuba:mask-succubus-leader@original-light-novel",
+      "konosuba:maxwell@original-light-novel",
+      "konosuba:megumi@original-light-novel",
+      "konosuba:megumin@original-light-novel",
+      "konosuba:melvirei@original-light-novel",
+      "konosuba:metal-mora@trpg-advanced-supplied-scenario",
+      "konosuba:mitsurugi-kyouya@original-light-novel",
+      "konosuba:nos@original-light-novel",
+      "konosuba:number21@trpg-edited-replay",
+      "konosuba:okina@trpg-core-supplied-scenario",
+      "konosuba:otohime@trpg-edited-replay",
+      "konosuba:ozuma@original-light-novel",
+      "konosuba:pain@original-light-novel",
+      "konosuba:perie@original-light-novel",
+      "konosuba:pickles@original-light-novel",
+      "konosuba:pucchin@original-light-novel",
+      "konosuba:ragcraft@original-light-novel",
+      "konosuba:rain@original-light-novel",
+      "konosuba:rakuresu@original-light-novel",
+      "konosuba:replacement-transfer-angel@original-light-novel",
+      "konosuba:rex@original-light-novel",
+      "konosuba:rionor@original-light-novel",
+      "konosuba:rosary@original-light-novel",
+      "konosuba:rouzeri@original-light-novel",
+      "konosuba:satou-kazuma@original-light-novel",
+      "konosuba:sena@original-light-novel",
+      "konosuba:serena@original-light-novel",
+      "konosuba:shumel@original-light-novel",
+      "konosuba:siegwald@original-light-novel",
+      "konosuba:soketto@original-light-novel",
+      "konosuba:stella@original-light-novel",
+      "konosuba:suzuki-chiho@trpg-edited-replay",
+      "konosuba:sylphina@original-light-novel",
+      "konosuba:sylvia@original-light-novel",
+      "konosuba:taylor@original-light-novel",
+      "konosuba:temiren@trpg-edited-replay",
+      "konosuba:tia@original-light-novel",
+      "konosuba:trpg-core-guide-newcomer@trpg-core-world-guide",
+      "konosuba:vanir@original-light-novel",
+      "konosuba:vice@original-light-novel",
+      "konosuba:wiz@original-light-novel",
+      "konosuba:wolbach@original-light-novel",
+      "konosuba:wolfgang-crow@original-light-novel",
+      "konosuba:yorimichi01-wallet-wager-veteran@original-light-novel",
+      "konosuba:yorimichi02-dryad@original-light-novel",
+      "konosuba:yorimichi02-noble-dinner-host@original-light-novel",
+      "konosuba:yorimichi02-storm-great-spirit@original-light-novel",
+      "konosuba:yorimichi02-white-tiger-mother@original-light-novel",
+      "konosuba:yorimichi02-wolbach-follower@original-light-novel",
+      "konosuba:yorimichi03-knee-injured-veteran@original-light-novel",
+      "konosuba:yorimichi03-succubus-dungeon-owner@original-light-novel",
+      "konosuba:yorimichi03-succubus-messenger@original-light-novel",
+      "konosuba:yorimichi04-retired-assassin@original-light-novel",
+      "konosuba:yorimichi04-retired-dark-stalker@original-light-novel",
+      "konosuba:yorimichi04-succubus-worker@original-light-novel",
+      "konosuba:yuiyui@original-light-novel",
+      "konosuba:yunyun@original-light-novel",
+      "konosuba:zereschilt@original-light-novel",
+      "konosuba:zesta@original-light-novel"
+    ],
+    "counts": {
+      "preserved_main_registry_rows": 85,
+      "preserved_earlier_PR357_rows": 11,
+      "curator_appended_rows": 41,
+      "full_PR357_new_rows": 52,
+      "final_scoped_registry_rows": 137,
+      "direct_evidence_items": 154,
+      "unique_direct_evidence_paths": 154,
+      "direct_current_model_paths": 13
+    },
+    "outputs": [
+      {
+        "repository_path": "characters/registry/konosuba.jsonl",
+        "bytes": 383882,
+        "sha256": "f0a57cdb70f4b702584704161fae76c4273683c2191bb8e6f59a65a1b0b07719",
+        "git_blob_oid": "ac292ea5a95cb5027e831b4504c1fa79ed0d53ba",
+        "verified_at_protected_main": "81ec13bbdce71fdbb44d6bbad45f680925781f84"
+      },
+      {
+        "repository_path": "characters/index/konosuba.md",
+        "bytes": 185286,
+        "sha256": "ef009d4523e24e190525f7176341e8c2c3dc2b23969bd2cc272f432b75aa7992",
+        "git_blob_oid": "2c2e50cc73ad8b5dcd6ebf696270df7a077756a3",
+        "verified_at_protected_main": "81ec13bbdce71fdbb44d6bbad45f680925781f84"
+      },
+      {
+        "repository_path": "CHARACTER_ANALYSIS_INDEX.md",
+        "bytes": 89014,
+        "sha256": "01bf8b8af11728d717f1bb38996fb83a30ac6fa27b3d0fe356686f1bb42399d4",
+        "git_blob_oid": "4ac99b8a3c6950b29b9318d3a8acd4e04cf5e7b7",
+        "verified_at_protected_main": "81ec13bbdce71fdbb44d6bbad45f680925781f84"
+      }
+    ],
+    "root_acceptance_sha256": "77625be33696acf2f0f4e4604ce75b7eefa21a929c3c9f8f775b0b7ab0501ae5",
+    "final_handoff_sha256": "13021268573d816ff196f495596fc07eddc11428c133695ea7032b18ada007ab"
+  },
+  "curation_identity_and_source_deferrals": [
+    {
+      "artifact": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUST_CRIMINAL_SUBORDINATES_CHARACTER_MONOGRAPH.md",
+      "disposition": "DEFERRED_NO_REGISTRY_SUBJECT",
+      "reason": "Two people with unresolved longitudinal allocation; neither one synthetic multi-person entity nor two invented individual biographies is supported by the actual individual-entity contract."
+    },
+    {
+      "join": "DUST02 diary inventor / Destroyer scientist",
+      "disposition": "OPEN_NOT_A_UNIQUE_PERSON_COUNT",
+      "limit": "Separate scoped retrieval analyses do not resolve person identity."
+    },
+    {
+      "join": "MAIN02/MASK small dream-service worker / Lolisa",
+      "disposition": "OPEN",
+      "limit": "Lolisa is a chosen alias with true name unknown; the small-worker join is not certified."
+    },
+    {
+      "join": "MASK leader / older fan / receptionist and other unnamed worker joins",
+      "disposition": "OPEN",
+      "limit": "Preserve recorded actor windows, private knowledge and unknown longitudinal allocation."
+    },
+    {
+      "join": "Helmeted noble / photograph subject / Andain / Aigis",
+      "disposition": "OPEN",
+      "limit": "No supported identity merge from appearance, prop or retrieval hypothesis."
+    },
+    {
+      "join": "MAIN17 masked gatekeeper / Duke; DUST07 commander / Beldia / Nos",
+      "disposition": "NO_UNSUPPORTED_MERGE",
+      "limit": "Existing scoped subjects and reported comparisons do not create an actor identity."
+    },
+    {
+      "join": "Nos MAIN17 / DUST07",
+      "disposition": "QUALIFIED_HIGH_CONFIDENCE_CONJUNCTION",
+      "limit": "Retained native/role/scene conjunction is not an explicit cross-volume identity sentence."
+    },
+    {
+      "scope": "Knee-injured veteran comparative routes",
+      "disposition": "KEEP_DIFFERENTLY_INFORMED_BRANCHES",
+      "limit": "Kazuma remembers routes; do not transfer his private knowledge or distribute branch benefits to the veteran."
+    },
+    {
+      "scope": "C31 edited replay / supplied scenarios / real players",
+      "disposition": "DISTINCT_CONTINUITIES_AND_ACTORS",
+      "limit": "Fictional PCs/adversaries are not real players or GM functions; replay is not an unplayed supplied scenario."
+    },
+    {
+      "scope": "Fantastic Days five prose-novelization subjects",
+      "disposition": "DISTINCT_SELECTIVE_PROSE_CONTINUITY",
+      "limit": "No game/main-novel history or withheld Lia birth name supplied."
+    },
+    {
+      "scope": "Mitsurugi original-main/Dust subject",
+      "disposition": "KEEP_ACTUAL_MITSURUGI_KYOUYA_ID",
+      "limit": "Novelization/redo/reference planes and Fio/Clemea role mapping remain separate or unresolved."
+    },
+    {
+      "scope": "Unverified alias retrieval seeds",
+      "disposition": "EXCLUDED",
+      "limit": "No Leonor/レオノール, レビー, エリカ, wrong-address aliases, official Latin-localization claims or unattributed group voice added."
+    },
+    {
+      "scope": "C46 PFQ02/PFQ03 and C20/C28 adverse qualifications",
+      "disposition": "OPERATIVE_CURRENT_LIMITS",
+      "limit": "Price comparison is not payment/debit; Kazuma Heal is not Angie treatment; C20 contextual apparent effect is not independent cure; Ragcraft impersonation remains distinct from restrained Kazuma."
+    }
+  ],
+  "evaluator": {
+    "pull_request": 334,
+    "source": "7eccdfd60d2efcdc765b3a21e368d62349a8a4da",
+    "source_tree": "2accaffba1d243adadf48a208c57a58d9168295b",
+    "source_audit_run": 40437154019,
+    "source_audit_state": "VERIFIED_FULL479_ACTUAL_IDS_ALL_FIVE_ZERO",
+    "owner_publication_state": "PERSONAL_OWNER_REVIEW_AND_MERGE_CONFIRMED_MAIN_FULL479_VERIFIED",
+    "owner_merge": "d81f4099abf13383f5acf56db13dcdff85cae484",
+    "preserved24_published_rows_exact": true,
+    "total_proposed_registry_rows": 32,
+    "proposed_K_subjects": 14,
+    "proposed_delta_records": [
+      {
+        "assessment_id": "konosuba-amaryllis-original-light-novel-calibration-20261027-01",
+        "analysis_subject_id": "konosuba:amaryllis@original-light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "81ec13bbdce71fdbb44d6bbad45f680925781f84",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "02ef5855ebda26934c6bce1e28e19ecd50559a877b746b70a628abf3f80ec542",
+        "evidence_refs": [
+          "konosuba:amaryllis@original-light-novel#scoped-cohort-monograph"
+        ],
+        "exact_registry_line_sha256": "657e765df89b4e04fd8799a72da864e98cae25ac7c55493beae399ba44ecef2f"
+      },
+      {
+        "assessment_id": "konosuba-angie-original-light-novel-calibration-20261027-01",
+        "analysis_subject_id": "konosuba:angie@original-light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "81ec13bbdce71fdbb44d6bbad45f680925781f84",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "f1bc9372e4c27e64c60a933c9c7dbd8dae5de1d3a4c85b3a2707b41eed7ef97b",
+        "evidence_refs": [
+          "konosuba:angie@original-light-novel#scoped-cohort-monograph"
+        ],
+        "exact_registry_line_sha256": "be68b2df09707e79bfac32c4a332cd1469b7e4745311ca9af73d129a144684d3"
+      },
+      {
+        "assessment_id": "konosuba-aqua-original-light-novel-calibration-20261027-01",
+        "analysis_subject_id": "konosuba:aqua@original-light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "81ec13bbdce71fdbb44d6bbad45f680925781f84",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "19e92f6ef27c7cba4485a057bfb815854eee98262039458c803af2cf215c9b48",
+        "evidence_refs": [
+          "konosuba:aqua@original-light-novel#expanded-monograph",
+          "konosuba:aqua@original-light-novel#main-principal-monograph",
+          "konosuba:aqua@original-light-novel#stage-d-principal-model"
+        ],
+        "exact_registry_line_sha256": "a7019560926474529dd4e7740c402ad84d860d33a962411255c5d8eea989196b"
+      },
+      {
+        "assessment_id": "konosuba-darkness-original-light-novel-calibration-20261027-01",
+        "analysis_subject_id": "konosuba:darkness@original-light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "81ec13bbdce71fdbb44d6bbad45f680925781f84",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "c92fcdf4cbd4a4e4d0cc7a763e10153b2cb297b5b9602a2b7c59e42816a5769a",
+        "evidence_refs": [
+          "konosuba:darkness@original-light-novel#expanded-monograph",
+          "konosuba:darkness@original-light-novel#main-principal-monograph",
+          "konosuba:darkness@original-light-novel#stage-d-principal-model"
+        ],
+        "exact_registry_line_sha256": "fb15ab8f0ef3f84819f0b3a55319223e904a9c63658a871c51d1dd996e90804b"
+      },
+      {
+        "assessment_id": "konosuba-demon-king-ln-main17-u013-u014-monograph-20261026-01",
+        "analysis_subject_id": "konosuba:demon-king@original-light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "c1ce63553e42527cebd7e6e4a665429c69619c88",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "abbed81f34c615f5cca1076c7cefd64965186327e791589725c96151e78df508",
+        "evidence_refs": [
+          "konosuba:demon-king@original-light-novel#scoped-cohort-monograph"
+        ],
+        "exact_registry_line_sha256": "0b90d72971bf01d20695b357887919413dd78eb6576c417a587a7c167d2b3140"
+      },
+      {
+        "assessment_id": "konosuba-heidel-original-light-novel-calibration-20261027-01",
+        "analysis_subject_id": "konosuba:heidel@original-light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "81ec13bbdce71fdbb44d6bbad45f680925781f84",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "9c2d0cee5576c796c1fa380e0f2e06ff3741a4bda3a22921323a70b0fcdb9e44",
+        "evidence_refs": [
+          "konosuba:heidel@original-light-novel#scoped-cohort-monograph"
+        ],
+        "exact_registry_line_sha256": "5e82e96d4f76c445777502ec7d87f6ec936d65e7868a0c8bc594f9f26f8591e4"
+      },
+      {
+        "assessment_id": "konosuba-mammon-ln-main17-u012-monograph-20261026-01",
+        "analysis_subject_id": "konosuba:mammon@original-light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "c1ce63553e42527cebd7e6e4a665429c69619c88",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "89a813ef6747d98a03b2b63c8ee372a8267e9a63fa94b782edbb74c83a28edeb",
+        "evidence_refs": [
+          "konosuba:mammon@original-light-novel#scoped-cohort-monograph"
+        ],
+        "exact_registry_line_sha256": "286b32372c5bbfe5d89c09f90132c031bad3457ffb3db01b41bfac7e8dea3283"
+      },
+      {
+        "assessment_id": "konosuba-megumin-ln-main17-expanded-staged-20261027-01",
+        "analysis_subject_id": "konosuba:megumin@original-light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "e4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "3539257342d696dadaf99629f52a4d1cad93e949db79cd3e7a1f3941d452f701",
+        "evidence_refs": [
+          "konosuba:megumin@original-light-novel#expanded-monograph",
+          "konosuba:megumin@original-light-novel#main-principal-monograph",
+          "konosuba:megumin@original-light-novel#stage-d-principal-model"
+        ],
+        "exact_registry_line_sha256": "5ec4763dd95f24ed4a27509756cbed6f7fcf4da065171eb831807024538039a3"
+      },
+      {
+        "assessment_id": "konosuba-metal-mora-trpg-advanced-supplied-scenario-calibration-20261027-01",
+        "analysis_subject_id": "konosuba:metal-mora@trpg-advanced-supplied-scenario",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "81ec13bbdce71fdbb44d6bbad45f680925781f84",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "447838482ab0c2f1f7141909e930c77e83117c235df1fdd434713d93d8558704",
+        "evidence_refs": [
+          "konosuba:metal-mora@trpg-advanced-supplied-scenario#bounded-monograph"
+        ],
+        "exact_registry_line_sha256": "88e5ef4628a684e3a28f3028b73db9486bb6af61f776a0b8bdadb367d76b2e47"
+      },
+      {
+        "assessment_id": "konosuba-ozuma-ln-yori01-u024-monograph-20261025-01",
+        "analysis_subject_id": "konosuba:ozuma@original-light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "2f77b3877760403413fd45de6564ce018cedaf66",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "4c12a7556147ae3e46a6575d6550a005246f0142dbaabcd283163b1d3bd89721",
+        "evidence_refs": [
+          "konosuba:ozuma@original-light-novel#expanded-cohort-monograph"
+        ],
+        "exact_registry_line_sha256": "34fe7e454948ff4b2febfdd8b0a22139cded1533571de1af910ff97b7068417c"
+      },
+      {
+        "assessment_id": "konosuba-pickles-ln-yori01-u012-monograph-20261025-01",
+        "analysis_subject_id": "konosuba:pickles@original-light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "2f77b3877760403413fd45de6564ce018cedaf66",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "1548dc22f7bc2c27b82af378c100b1e709dc03046d3b64b5c409772613820c6b",
+        "evidence_refs": [
+          "konosuba:pickles@original-light-novel#expanded-cohort-monograph"
+        ],
+        "exact_registry_line_sha256": "dbf2301cae03edde3d753e0ce7a0c6e83288545227a96871aef375f712f51ba2"
+      },
+      {
+        "assessment_id": "konosuba-satou-kazuma-original-light-novel-calibration-20261027-01",
+        "analysis_subject_id": "konosuba:satou-kazuma@original-light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "81ec13bbdce71fdbb44d6bbad45f680925781f84",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "9e91ab73d9eeca81e1a1989cf07a9c1f05094cc26d936b0d9b48f9152beffd3b",
+        "evidence_refs": [
+          "konosuba:satou-kazuma@original-light-novel#expanded-monograph",
+          "konosuba:satou-kazuma@original-light-novel#main-principal-monograph",
+          "konosuba:satou-kazuma@original-light-novel#stage-d-principal-model"
+        ],
+        "exact_registry_line_sha256": "b5cb2b701d2e9cdd23d50d5da28ec162857573b5b215b503d5eb84ca52dacaf2"
+      },
+      {
+        "assessment_id": "konosuba-vanir-ln-mask-main17-monograph-20261027-01",
+        "analysis_subject_id": "konosuba:vanir@original-light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "e4d8b828a35c4ec8043fae0d6f1bdeaacdadd5da",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "50674803ad34a77ae3addcaf4da2b585bde29c168cc4dd49120308242dd96dcc",
+        "evidence_refs": [
+          "konosuba:vanir@original-light-novel#current-monograph"
+        ],
+        "exact_registry_line_sha256": "4d418799825566a4ffdcd8534c339db288c306be4e5c65cc181d537d4a8d98a5"
+      },
+      {
+        "assessment_id": "konosuba-yorimichi04-retired-dark-stalker-original-light-novel-calibration-20261027-01",
+        "analysis_subject_id": "konosuba:yorimichi04-retired-dark-stalker@original-light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "81ec13bbdce71fdbb44d6bbad45f680925781f84",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "295156ac1668644c25d54b67d29768b09739a0fdae14cd58fd67d445304e16d9",
+        "evidence_refs": [
+          "konosuba:yorimichi04-retired-dark-stalker@original-light-novel#bounded-monograph"
+        ],
+        "exact_registry_line_sha256": "028da983878aa786d1f2af42ee3895afdcb07fb86c2443d6c4124a8ea81b3d1f"
+      },
+      {
+        "assessment_id": "re-zero-liliana-masquerade-ln-v01-v19-model-20261026-01",
+        "analysis_subject_id": "re-zero:liliana-masquerade@light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "f79e49071be39667e2fc5d5be5a5f3e9ae503589",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "02012e47ff93143cb25eae1397ee2449193fc961a2e446f20c9573f9df61cae0",
+        "evidence_refs": [
+          "re-zero:liliana-masquerade@light-novel#character-model"
+        ],
+        "exact_registry_line_sha256": "02883de2f4558eb029e9a76878890cf4b3f9def75981c27e6926a42addfaf213"
+      },
+      {
+        "assessment_id": "to-be-hero-x-x-anime-s01e11-e24-monograph-20261026-01",
+        "analysis_subject_id": "to-be-hero-x:x@animated-series",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "f79e49071be39667e2fc5d5be5a5f3e9ae503589",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "c42ce92f6e2e6beaf4560a4799625d433a4a8babc74e063ec774615c0097cd04",
+        "evidence_refs": [
+          "to-be-hero-x:x@animated-series#15-x-zero-godhood-fate-and-the-limit-of-public-will"
+        ],
+        "exact_registry_line_sha256": "ac610963bce8a9493ff71463ca604dde50734cc160c70aea7d967e5d09636aa1"
+      }
+    ],
+    "selected_new_records": [
+      {
+        "assessment_id": "konosuba-amaryllis-original-light-novel-calibration-20261027-01",
+        "analysis_subject_id": "konosuba:amaryllis@original-light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "81ec13bbdce71fdbb44d6bbad45f680925781f84",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "02ef5855ebda26934c6bce1e28e19ecd50559a877b746b70a628abf3f80ec542",
+        "evidence_refs": [
+          "konosuba:amaryllis@original-light-novel#scoped-cohort-monograph"
+        ],
+        "exact_registry_line_sha256": "657e765df89b4e04fd8799a72da864e98cae25ac7c55493beae399ba44ecef2f"
+      },
+      {
+        "assessment_id": "konosuba-angie-original-light-novel-calibration-20261027-01",
+        "analysis_subject_id": "konosuba:angie@original-light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "81ec13bbdce71fdbb44d6bbad45f680925781f84",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "f1bc9372e4c27e64c60a933c9c7dbd8dae5de1d3a4c85b3a2707b41eed7ef97b",
+        "evidence_refs": [
+          "konosuba:angie@original-light-novel#scoped-cohort-monograph"
+        ],
+        "exact_registry_line_sha256": "be68b2df09707e79bfac32c4a332cd1469b7e4745311ca9af73d129a144684d3"
+      },
+      {
+        "assessment_id": "konosuba-aqua-original-light-novel-calibration-20261027-01",
+        "analysis_subject_id": "konosuba:aqua@original-light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "81ec13bbdce71fdbb44d6bbad45f680925781f84",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "19e92f6ef27c7cba4485a057bfb815854eee98262039458c803af2cf215c9b48",
+        "evidence_refs": [
+          "konosuba:aqua@original-light-novel#expanded-monograph",
+          "konosuba:aqua@original-light-novel#main-principal-monograph",
+          "konosuba:aqua@original-light-novel#stage-d-principal-model"
+        ],
+        "exact_registry_line_sha256": "a7019560926474529dd4e7740c402ad84d860d33a962411255c5d8eea989196b"
+      },
+      {
+        "assessment_id": "konosuba-darkness-original-light-novel-calibration-20261027-01",
+        "analysis_subject_id": "konosuba:darkness@original-light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "81ec13bbdce71fdbb44d6bbad45f680925781f84",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "c92fcdf4cbd4a4e4d0cc7a763e10153b2cb297b5b9602a2b7c59e42816a5769a",
+        "evidence_refs": [
+          "konosuba:darkness@original-light-novel#expanded-monograph",
+          "konosuba:darkness@original-light-novel#main-principal-monograph",
+          "konosuba:darkness@original-light-novel#stage-d-principal-model"
+        ],
+        "exact_registry_line_sha256": "fb15ab8f0ef3f84819f0b3a55319223e904a9c63658a871c51d1dd996e90804b"
+      },
+      {
+        "assessment_id": "konosuba-heidel-original-light-novel-calibration-20261027-01",
+        "analysis_subject_id": "konosuba:heidel@original-light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "81ec13bbdce71fdbb44d6bbad45f680925781f84",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "9c2d0cee5576c796c1fa380e0f2e06ff3741a4bda3a22921323a70b0fcdb9e44",
+        "evidence_refs": [
+          "konosuba:heidel@original-light-novel#scoped-cohort-monograph"
+        ],
+        "exact_registry_line_sha256": "5e82e96d4f76c445777502ec7d87f6ec936d65e7868a0c8bc594f9f26f8591e4"
+      },
+      {
+        "assessment_id": "konosuba-metal-mora-trpg-advanced-supplied-scenario-calibration-20261027-01",
+        "analysis_subject_id": "konosuba:metal-mora@trpg-advanced-supplied-scenario",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "81ec13bbdce71fdbb44d6bbad45f680925781f84",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "447838482ab0c2f1f7141909e930c77e83117c235df1fdd434713d93d8558704",
+        "evidence_refs": [
+          "konosuba:metal-mora@trpg-advanced-supplied-scenario#bounded-monograph"
+        ],
+        "exact_registry_line_sha256": "88e5ef4628a684e3a28f3028b73db9486bb6af61f776a0b8bdadb367d76b2e47"
+      },
+      {
+        "assessment_id": "konosuba-satou-kazuma-original-light-novel-calibration-20261027-01",
+        "analysis_subject_id": "konosuba:satou-kazuma@original-light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "81ec13bbdce71fdbb44d6bbad45f680925781f84",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "9e91ab73d9eeca81e1a1989cf07a9c1f05094cc26d936b0d9b48f9152beffd3b",
+        "evidence_refs": [
+          "konosuba:satou-kazuma@original-light-novel#expanded-monograph",
+          "konosuba:satou-kazuma@original-light-novel#main-principal-monograph",
+          "konosuba:satou-kazuma@original-light-novel#stage-d-principal-model"
+        ],
+        "exact_registry_line_sha256": "b5cb2b701d2e9cdd23d50d5da28ec162857573b5b215b503d5eb84ca52dacaf2"
+      },
+      {
+        "assessment_id": "konosuba-yorimichi04-retired-dark-stalker-original-light-novel-calibration-20261027-01",
+        "analysis_subject_id": "konosuba:yorimichi04-retired-dark-stalker@original-light-novel",
+        "assessment_status": "CANDIDATE",
+        "basis_commit": "81ec13bbdce71fdbb44d6bbad45f680925781f84",
+        "evidence_set_algorithm": "CHARACTER_EVIDENCE_SET_V1",
+        "evidence_set_sha256": "295156ac1668644c25d54b67d29768b09739a0fdae14cd58fd67d445304e16d9",
+        "evidence_refs": [
+          "konosuba:yorimichi04-retired-dark-stalker@original-light-novel#bounded-monograph"
+        ],
+        "exact_registry_line_sha256": "028da983878aa786d1f2af42ee3895afdcb07fb86c2443d6c4124a8ea81b3d1f"
+      }
+    ],
+    "registry": {
+      "path": "characters/reconstruction_capabilities.jsonl",
+      "bytes": 523871,
+      "sha256": "0d8ca202885a813ed28117f2177cfa7d92a1abd24777de36ef8f1670e2f72ce3"
+    },
+    "generated_index": {
+      "path": "characters/CHARACTER_RECONSTRUCTION_INDEX.md",
+      "bytes": 241872,
+      "sha256": "29fd51dfe6bf90a780c4a392fa370b92a214c3816d904c98ae95fdcfda0b8a2a"
+    },
+    "owner_description": {
+      "bytes": 65523,
+      "characters": 64765,
+      "sha256": "54f23eed170eafccafac986d3ce469a67a3ce3ce30a58df8dca0cbc300968df5"
+    },
+    "private_owner_core_sha256": "44ec63be3259a9fcab6143c6b978e61256be3ba1f8e65a44f6a60049ad4a943e",
+    "full_private_native_registry": {
+      "selected32_bytes": 523871,
+      "selected32_sha256": "0d8ca202885a813ed28117f2177cfa7d92a1abd24777de36ef8f1670e2f72ce3",
+      "limit_bytes": 1048576,
+      "all24plus131_bytes": 1769198,
+      "over_limit_bytes": 720622,
+      "no_control_exception": true
+    },
+    "exact123_publication_deferrals": [
+      "konosuba:aigis@original-light-novel",
+      "konosuba:alderp@original-light-novel",
+      "konosuba:aloerina@original-light-novel",
+      "konosuba:anna-filante-esteroid@original-light-novel",
+      "konosuba:arnes@original-light-novel",
+      "konosuba:arue@original-light-novel",
+      "konosuba:aulip@original-light-novel",
+      "konosuba:balter@original-light-novel",
+      "konosuba:barton@original-light-novel",
+      "konosuba:beldia@original-light-novel",
+      "konosuba:boren@trpg-advanced-supplied-scenario",
+      "konosuba:brad@original-light-novel",
+      "konosuba:bridol-head-butler@original-light-novel",
+      "konosuba:bridol-king@original-light-novel",
+      "konosuba:bukkorori@original-light-novel",
+      "konosuba:cecily@original-light-novel",
+      "konosuba:charlie@fantastic-days-novelization",
+      "konosuba:chekera@original-light-novel",
+      "konosuba:chomusuke@original-light-novel",
+      "konosuba:chris-eris@original-light-novel",
+      "konosuba:cielo@fantastic-days-novelization",
+      "konosuba:claire@original-light-novel",
+      "konosuba:crank@original-light-novel",
+      "konosuba:daniel@fantastic-days-novelization",
+      "konosuba:destroyer-scientist@original-light-novel",
+      "konosuba:dodonko@original-light-novel",
+      "konosuba:doreck@original-light-novel",
+      "konosuba:duke@original-light-novel",
+      "konosuba:dust-criminal-chief@original-light-novel",
+      "konosuba:dust-general-store-owner@original-light-novel",
+      "konosuba:dust02-diary-inventor@original-light-novel",
+      "konosuba:dust03-lake-tranquility-girl@original-light-novel",
+      "konosuba:dust07-dullahan-commander@original-light-novel",
+      "konosuba:dust@original-light-novel",
+      "konosuba:eibram@original-light-novel",
+      "konosuba:erika@fantastic-days-novelization",
+      "konosuba:fanbook-medusa-dungeon-owner@original-light-novel",
+      "konosuba:feit@original-light-novel",
+      "konosuba:forest-tranquility-princess@original-light-novel",
+      "konosuba:froger@trpg-edited-replay",
+      "konosuba:funifura@original-light-novel",
+      "konosuba:gaibil@original-light-novel",
+      "konosuba:gilbert@trpg-edited-replay",
+      "konosuba:goran@trpg-edited-replay",
+      "konosuba:hagen@original-light-novel",
+      "konosuba:hans@original-light-novel",
+      "konosuba:helmeted-noble@original-light-novel",
+      "konosuba:hoost@original-light-novel",
+      "konosuba:hyoizaburoo@original-light-novel",
+      "konosuba:ignis@original-light-novel",
+      "konosuba:iris@original-light-novel",
+      "konosuba:karen-donnelly@original-light-novel",
+      "konosuba:keele@original-light-novel",
+      "konosuba:keith@original-light-novel",
+      "konosuba:komekko@original-light-novel",
+      "konosuba:leen@original-light-novel",
+      "konosuba:levi@original-light-novel",
+      "konosuba:lia@fantastic-days-novelization",
+      "konosuba:lilac-lalatine@original-light-novel",
+      "konosuba:liliantine@original-light-novel",
+      "konosuba:lolierina@original-light-novel",
+      "konosuba:lolisa@original-light-novel",
+      "konosuba:lucy@original-light-novel",
+      "konosuba:luna@original-light-novel",
+      "konosuba:main02-mask-small-dream-service-worker@original-light-novel",
+      "konosuba:main05-roadside-tranquility-girl@original-light-novel",
+      "konosuba:main07-dustiness-wedding-guard@original-light-novel",
+      "konosuba:main10-elroad-casino-manager@original-light-novel",
+      "konosuba:main10-elroad-prosecutor@original-light-novel",
+      "konosuba:main16-dungeon-vampire-owner@original-light-novel",
+      "konosuba:main17-masked-gatekeeper@original-light-novel",
+      "konosuba:mask-succubus-leader@original-light-novel",
+      "konosuba:maxwell@original-light-novel",
+      "konosuba:megumi@original-light-novel",
+      "konosuba:melvirei@original-light-novel",
+      "konosuba:mitsurugi-kyouya@original-light-novel",
+      "konosuba:nos@original-light-novel",
+      "konosuba:number21@trpg-edited-replay",
+      "konosuba:okina@trpg-core-supplied-scenario",
+      "konosuba:otohime@trpg-edited-replay",
+      "konosuba:pain@original-light-novel",
+      "konosuba:perie@original-light-novel",
+      "konosuba:pucchin@original-light-novel",
+      "konosuba:ragcraft@original-light-novel",
+      "konosuba:rain@original-light-novel",
+      "konosuba:rakuresu@original-light-novel",
+      "konosuba:replacement-transfer-angel@original-light-novel",
+      "konosuba:rex@original-light-novel",
+      "konosuba:rionor@original-light-novel",
+      "konosuba:rosary@original-light-novel",
+      "konosuba:rouzeri@original-light-novel",
+      "konosuba:sena@original-light-novel",
+      "konosuba:serena@original-light-novel",
+      "konosuba:shumel@original-light-novel",
+      "konosuba:siegwald@original-light-novel",
+      "konosuba:soketto@original-light-novel",
+      "konosuba:stella@original-light-novel",
+      "konosuba:suzuki-chiho@trpg-edited-replay",
+      "konosuba:sylphina@original-light-novel",
+      "konosuba:sylvia@original-light-novel",
+      "konosuba:taylor@original-light-novel",
+      "konosuba:temiren@trpg-edited-replay",
+      "konosuba:tia@original-light-novel",
+      "konosuba:trpg-core-guide-newcomer@trpg-core-world-guide",
+      "konosuba:vice@original-light-novel",
+      "konosuba:wiz@original-light-novel",
+      "konosuba:wolbach@original-light-novel",
+      "konosuba:wolfgang-crow@original-light-novel",
+      "konosuba:yorimichi01-wallet-wager-veteran@original-light-novel",
+      "konosuba:yorimichi02-dryad@original-light-novel",
+      "konosuba:yorimichi02-noble-dinner-host@original-light-novel",
+      "konosuba:yorimichi02-storm-great-spirit@original-light-novel",
+      "konosuba:yorimichi02-white-tiger-mother@original-light-novel",
+      "konosuba:yorimichi02-wolbach-follower@original-light-novel",
+      "konosuba:yorimichi03-knee-injured-veteran@original-light-novel",
+      "konosuba:yorimichi03-succubus-dungeon-owner@original-light-novel",
+      "konosuba:yorimichi03-succubus-messenger@original-light-novel",
+      "konosuba:yorimichi04-retired-assassin@original-light-novel",
+      "konosuba:yorimichi04-succubus-worker@original-light-novel",
+      "konosuba:yuiyui@original-light-novel",
+      "konosuba:yunyun@original-light-novel",
+      "konosuba:zereschilt@original-light-novel",
+      "konosuba:zesta@original-light-novel"
+    ],
+    "material_Megumin_Vanir_alternatives_retained_without_overwriting_existing_proposals": true,
+    "no_REVIEWED_promotion_or_automated_human_review_credit": true,
+    "source_audit_receipt_sha256": "32fc72595a97560a995b97ea1841e63a2785cf94988c53de59cc092abb91d66f",
+    "provider_body_cache_sha256": "a8d71ac442f798d0b7fd6482a3ebb1fcaaa3f06ca74fb8c71b3e76e5f79a17b5",
+    "owner_confirmed_at": "2026-10-27T02:32:54Z",
+    "owner_confirmation_receipt_sha256": "d46ed90ff308284672e13cf570d891a4dd4996015067bb78d559a7368e329020",
+    "independent_owner_main_audit": {
+      "run": 40439065252,
+      "commit": "d81f4099abf13383f5acf56db13dcdff85cae484",
+      "full479_actual_IDs_fivezero_verified": true,
+      "receipt_sha256": "28a3ba3eca35116931c7da1d165612bc1824dc11815f175ccd192da9787b5b38"
+    },
+    "historical_private_core_pool": {
+      "core_sha256": "44ec63be3259a9fcab6143c6b978e61256be3ba1f8e65a44f6a60049ad4a943e",
+      "snapshot_basis": "81ec13bbdce71fdbb44d6bbad45f680925781f84",
+      "before_selected8_publication": true,
+      "original_workset": {
+        "scoped_rows": 137,
+        "direct_evidence_items": 154,
+        "unique_person_count": "NOT_INFERRED",
+        "new_selected": 8,
+        "preserved_K_subjects": 6,
+        "deferred": 123,
+        "complete_private_judgments": 133,
+        "independently_received_current_items_for_private_judgments": 150,
+        "native_unpublished_judgments": 131,
+        "native_unpublished_evidence_items": 146,
+        "all_private_claims_historically_valid_and_current_provisional": true,
+        "all_subject_publication_deadline": "NONE"
+      },
+      "native_unpublished_pool": 131,
+      "direct_items_in_that_pool": 146
+    },
+    "actual_post_owner_workset": {
+      "scoped_registry_rows": 137,
+      "integrated_K_candidate_assessments": 14,
+      "remaining_prepared_publication_deferrals": 123,
+      "direct_items_in_remaining_deferrals": 132,
+      "remaining_NEWLY_ELIGIBLE": 106,
+      "remaining_BACKFILL_UNASSESSED": 17,
+      "all_remaining_private_judgments_complete": true,
+      "these_are_scope_lookup_counts_not_unique_people_or_accuracy": true
+    },
+    "all32_actual_owner_main_records_CANDIDATE": true,
+    "no_REVIEWED_promotion_or_phase_amendment": true
+  },
+  "model_and_diagnostic_versions": {
+    "accepted_public_files": 77,
+    "native_classifications": {
+      "UNCLASSIFIED_LEGACY": 37,
+      "ACTIVE_PROVISIONAL_CURRENT": 40
+    },
+    "legacy37_actual_diagnostic_foundation_matches": 34,
+    "explicit_later_public_clarifications": [
+      "VANIR",
+      "WIZ",
+      "YUNYUN"
+    ],
+    "earlier_authored_drafts_remain_distinct": true,
+    "unchanged_actual_firsts": 90,
+    "unchanged_original_score_files": 4,
+    "typed_failure": "SD1-QA-D01 / F04-A-TR",
+    "open_selectors": [
+      "K04",
+      "M04",
+      "E03"
+    ],
+    "adverse_results_retained": [
+      "Gen03 K04",
+      "Gen04 K03",
+      "Gen05 J01",
+      "YORI01 R1-K08",
+      "DUST07 R1-E06"
+    ],
+    "same_AI_source_known_not_independent_behavioral_validation": true
+  },
+  "completion_route": {
+    "architecture_lifecycle": "STABILIZED",
+    "sequential_analysis_lock": "OPEN",
+    "run_state": "completed",
+    "next_permitted_operation": "NONE",
+    "next_candidate_operation": "NONE",
+    "no_new_global_terminal_closure_or_additional_run_stop": true
+  },
+  "independent_accuracy": null,
+  "global_completion_percentage": null,
+  "certified_unique_person_denominator": null,
+  "historical_V5_manifest": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_ANALYTICAL_RELEASE_CANDIDATE_MANIFEST_V1.json",
+    "sha256": "86f0cb347a033bd8a7820d4233f34bbd5516fb85d8e4588c760a867f7c864667",
+    "source": "e830595e5f126d15a7ba43f15a7a2c6088428c5e",
+    "not_recertified_against_changed_current_files": true
+  },
+  "final_manifest_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_FINAL_RELEASE_MANIFEST_V1.json",
+  "source_freeze_scope": "Exact released snapshot plus each artifact existing individual hard seal; no additional perpetual all-working-file byte lock.",
+  "preparation_status": "UPSTREAM_PROGRAM_GATES_COMPLETE_REQUIRES_OWN_CONTAINING_RELEASE_PUBLICATION"
+}

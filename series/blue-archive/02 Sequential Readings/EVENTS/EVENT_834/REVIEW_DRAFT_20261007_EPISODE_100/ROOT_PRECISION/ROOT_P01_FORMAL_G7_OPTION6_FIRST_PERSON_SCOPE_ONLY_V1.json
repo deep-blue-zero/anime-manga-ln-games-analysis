@@ -1,0 +1,64 @@
+{
+  "series": "blue-archive",
+  "status": "draft_noncurrent",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": true,
+  "source_admission": "UNADMITTED",
+  "artifact_type": "source_bounded_analytical_review_draft",
+  "publication_role": "ROOT_PRECISION_LAYER",
+  "publication_scope": "COMPLETE_ROOT_ARGUMENT_ONLY; author and independent bodies are deferred external records; not a recoverable publication of all role bodies",
+  "original_analytical_bytes": 4380,
+  "original_analytical_sha256": "e278e82761bda446ac419fdcf07a313c2f6e69c17669f33b4d747c37ca144a66",
+  "source_credit_delta": 0,
+  "admission_delta": 0,
+  "schema": "ROOT_EVENT834100_P01_G7_OPTION6_FIRST_PERSON_SCOPE_ONLY_V1",
+  "role": "ROOT integrator precision of independent presentation; immutable author/independent bases unchanged. Apply after supplied full R01; no new original or independent review.",
+  "episode": "BA:event:834:100",
+  "category_count": 1,
+  "copied_value_count": 3,
+  "base": {
+    "bytes": 125916,
+    "sha256": "7ae0987e4237911aaeb8e83ddc823a43f616a4297229ee0a74e480c75991c2bf"
+  },
+  "source_check_actual_ROOT_read_receipt": "f78996",
+  "primary": {
+    "formal_group": 7,
+    "raw_DataList0": 18828,
+    "native_choice_physical_line_one": 11469,
+    "option_id": "6",
+    "native_speaker_id": "BA_SPEAKER_SENSEI",
+    "native_speaker": "先生",
+    "JP": "……私が言うのもあれだけど。",
+    "KR": "……내가 말로 하는 것도 조금 그렇지만."
+  },
+  "changes": [
+    {
+      "pointer": "/all8_formal_all12_options/6/8/0/independent_judgment",
+      "old_complete_value": "6: Hesitation about Rumi saying it herself is one written response.",
+      "new_complete_value": "6: Sensei offers an unfinished first-person qualification about speaking: JP 私が言うのもあれだけど / KR 내가 말로 하는 것도 조금 그렇지만. Both first-person forms belong to the formal Sensei speaker; no completion of the trailing clause or Rumi-as-first-person attribution is supplied.",
+      "old_value_sha256": "5e6a77fb4f0f9afc769b12a730274e2e28cf376d5607df3898557e8c55b56861",
+      "new_value_sha256": "13e59f5472bd87faf0b03878f67161b9a992168677da0a9e44830b9f22e9cf97"
+    },
+    {
+      "pointer": "/all8_formal_all12_options/6/9",
+      "old_complete_value": "6: Hesitation about Rumi saying it herself is one written response. 7: Indirect/talking-around suggestion is the alternative. Common Rumi refusal is represented, while selected execution remains unknown. All branch_effect_known values false; selected delivery/engine exclusivity unknown.",
+      "new_complete_value": "6: Sensei offers an unfinished first-person qualification about speaking: JP 私が言うのもあれだけど / KR 내가 말로 하는 것도 조금 그렇지만. Both first-person forms belong to the formal Sensei speaker; no completion of the trailing clause or Rumi-as-first-person attribution is supplied. 7: Indirect/talking-around suggestion is the alternative. Common Rumi refusal is represented, while selected execution remains unknown. All branch_effect_known values false; selected delivery/engine exclusivity unknown.",
+      "old_value_sha256": "e072acd2ad9a53129793ca387eccda0342d8f8f4ca3b1b91a4eda3542c456e9f",
+      "new_value_sha256": "20b988fda11209e64994a5745d40932329c5d60728631dabdf1e16a64735a8c1"
+    },
+    {
+      "pointer": "/all63_raw11_judgments/49/complete_independent_judgment",
+      "old_complete_value": "6: Hesitation about Rumi saying it herself is one written response. 7: Indirect/talking-around suggestion is the alternative. Common Rumi refusal is represented, while selected execution remains unknown.",
+      "new_complete_value": "6: Sensei offers an unfinished first-person qualification about speaking: JP 私が言うのもあれだけど / KR 내가 말로 하는 것도 조금 그렇지만. Both first-person forms belong to the formal Sensei speaker; no completion of the trailing clause or Rumi-as-first-person attribution is supplied. 7: Indirect/talking-around suggestion is the alternative. Common Rumi refusal is represented, while selected execution remains unknown.",
+      "old_value_sha256": "ef91e9f35c96e7c683587ea04f7c8e866f58adf1ec0ffa92c1a0b6d6a5152e38",
+      "new_value_sha256": "1c7e03a2d22adebb6d928312387ec95c156b9daccdb46453ee5b05c92696b9bf"
+    }
+  ],
+  "reason": "The formal Sensei response has first-person self-positioning and an unfinished qualification. Rumi is not the referent of its supplied 私/내가. Retain ambiguity about the unfinished predicate rather than inventing a completed meaning. The alternative suggestion and common Rumi refusal remain separate positive evidence.",
+  "inherited": "All other values/typed fields/order and supplied R01 retained. U34 refusal, U35 unilateral JP/relational KR openness aspiration, U36 honest-speaking intention and U42 achieved sharing remain supported.",
+  "source_credit": 0,
+  "shared_admission": 0,
+  "all12_all5_phase2": "INCOMPLETE",
+  "merge": "RESERVED"
+}

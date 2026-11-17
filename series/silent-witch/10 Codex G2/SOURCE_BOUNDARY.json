@@ -1,0 +1,1086 @@
+{
+  "generation": "SW-G2-CODEX-20261019",
+  "status": "draft_noncurrent",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": true,
+  "base_main": "b09d7cc3a3b5ef57cbfa121f446c5d4120e3597f",
+  "order": [
+    "SW-LNJP-V01",
+    "SW-LNJP-V02",
+    "SW-LNJP-V03",
+    "SW-LNJP-V04",
+    "SW-LNJP-AFTER04",
+    "SW-LNJP-V05",
+    "SW-LNJP-V06",
+    "SW-LNJP-V07",
+    "SW-LNJP-V08",
+    "SW-LNJP-V09",
+    "SW-LNJP-EXTRA09",
+    "SW-LNJP-V10",
+    "SW-LNJP-V11",
+    "SW-LNJP-V12",
+    "SW-LNJP-ANOTHER-UPPER",
+    "SW-LNJP-ANOTHER-LOWER"
+  ],
+  "units": [
+    {
+      "ordinal": 1,
+      "unit": "SW-LNJP-V01",
+      "original_epub": {
+        "path": "SW-LNJP-V01/SW-LNJP-V01.epub",
+        "bytes": 17235698,
+        "sha256": "d3d8cca8fc271f29cc96a56e7e92b898bfebe4f744b9f3fd424fd8789686968d"
+      },
+      "admitted_spine_class_counts": {
+        "source_identifying_paratext": 10,
+        "narrative": 14,
+        "illustration": 7,
+        "in_volume_supplemental_narrative": 1,
+        "author_production_commentary": 1
+      },
+      "excluded_members": [
+        {
+          "epub_member": "OEBPS/Images/embed0022_HD.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "OEBPS/Text/p-bookwalker.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "OEBPS/Text/p-caution.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "OEBPS/Text/p-colophon2.xhtml",
+          "reason": "advertisement_notice"
+        }
+      ],
+      "paratext_scope": "Original source-identifying/TOC/colophon, in-volume reference illustrations and original author/production afterwords retained. Advertisements and classified unrelated publisher-preview pages/assets omitted from extracted primary. Complete original EPUB is unchanged; embedded omitted pages remain non-admitted."
+    },
+    {
+      "ordinal": 2,
+      "unit": "SW-LNJP-V02",
+      "original_epub": {
+        "path": "SW-LNJP-V02/SW-LNJP-V02.epub",
+        "bytes": 16295034,
+        "sha256": "aafafc8ff6ea9c722f007e3f559364ca25e1d3c61addb747466ea986f8864ab6"
+      },
+      "admitted_spine_class_counts": {
+        "source_identifying_paratext": 8,
+        "illustration": 11,
+        "narrative": 14,
+        "in_volume_supplemental_narrative": 1,
+        "author_production_commentary": 1
+      },
+      "excluded_members": [
+        {
+          "epub_member": "item/image/gaiji-cid08871.png",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/i-bookwalker.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/otameshi-cover.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/otameshi-p013.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/xhtml/p-026.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-027.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-028.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-029.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-bookwalker.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-caution.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-colophon2.xhtml",
+          "reason": "advertisement_notice"
+        }
+      ],
+      "paratext_scope": "Original source-identifying/TOC/colophon, in-volume reference illustrations and original author/production afterwords retained. Advertisements and classified unrelated publisher-preview pages/assets omitted from extracted primary. Complete original EPUB is unchanged; embedded omitted pages remain non-admitted."
+    },
+    {
+      "ordinal": 3,
+      "unit": "SW-LNJP-V03",
+      "original_epub": {
+        "path": "SW-LNJP-V03/SW-LNJP-V03.epub",
+        "bytes": 16512601,
+        "sha256": "38989102ddc9848024e67fd9d241bb4a1d4b24db166d39b663c7311a2d86efa9"
+      },
+      "admitted_spine_class_counts": {
+        "source_identifying_paratext": 8,
+        "illustration": 12,
+        "narrative": 14,
+        "in_volume_supplemental_narrative": 1,
+        "author_production_commentary": 1
+      },
+      "excluded_members": [
+        {
+          "epub_member": "OEBPS/Images/embed0024_HD.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "OEBPS/Images/embed0025_HD.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "OEBPS/Images/embed0026.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "OEBPS/Images/embed0027.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "OEBPS/Images/embed0029_HD.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "OEBPS/Text/p-027.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "OEBPS/Text/p-028.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "OEBPS/Text/p-029.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "OEBPS/Text/p-030.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "OEBPS/Text/p-031.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "OEBPS/Text/p-bookwalker.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "OEBPS/Text/p-caution.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "OEBPS/Text/p-colophon2.xhtml",
+          "reason": "advertisement_notice"
+        }
+      ],
+      "paratext_scope": "Original source-identifying/TOC/colophon, in-volume reference illustrations and original author/production afterwords retained. Advertisements and classified unrelated publisher-preview pages/assets omitted from extracted primary. Complete original EPUB is unchanged; embedded omitted pages remain non-admitted."
+    },
+    {
+      "ordinal": 4,
+      "unit": "SW-LNJP-V04",
+      "original_epub": {
+        "path": "SW-LNJP-V04/SW-LNJP-V04.epub",
+        "bytes": 17309899,
+        "sha256": "a80f90953d625d304ae724a9b05a8c93ad3392e8bfd23e9edaeb6d0f9642fcfc"
+      },
+      "admitted_spine_class_counts": {
+        "source_identifying_paratext": 8,
+        "illustration": 13,
+        "narrative": 14,
+        "in_volume_supplemental_narrative": 1,
+        "author_production_commentary": 1
+      },
+      "excluded_members": [
+        {
+          "epub_member": "OEBPS/Images/embed0025_HD.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "OEBPS/Images/embed0026.gif",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "OEBPS/Images/embed0027_HD.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "OEBPS/Images/embed0028.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "OEBPS/Images/embed0030_HD.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "OEBPS/Text/p-027.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "OEBPS/Text/p-028.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "OEBPS/Text/p-029.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "OEBPS/Text/p-030.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "OEBPS/Text/p-031.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "OEBPS/Text/p-bookwalker.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "OEBPS/Text/p-caution.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "OEBPS/Text/p-colophon2.xhtml",
+          "reason": "advertisement_notice"
+        }
+      ],
+      "paratext_scope": "Original source-identifying/TOC/colophon, in-volume reference illustrations and original author/production afterwords retained. Advertisements and classified unrelated publisher-preview pages/assets omitted from extracted primary. Complete original EPUB is unchanged; embedded omitted pages remain non-admitted."
+    },
+    {
+      "ordinal": 5,
+      "unit": "SW-LNJP-AFTER04",
+      "original_epub": {
+        "path": "SW-LNJP-AFTER04/SW-LNJP-AFTER04.epub",
+        "bytes": 23490806,
+        "sha256": "101a1341d139a593c284010da5fb83f524183528ff4199d563346cb3254fc24a"
+      },
+      "admitted_spine_class_counts": {
+        "source_identifying_paratext": 8,
+        "illustration": 17,
+        "narrative": 11,
+        "in_volume_supplemental_narrative": 1,
+        "author_production_commentary": 1
+      },
+      "excluded_members": [
+        {
+          "epub_member": "item/image/gaiji-c152_m-h.png",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/i-bookwalker.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_cover.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_p009.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_p023.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/xhtml/p-029.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-030.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-031.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-032.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-bookwalker.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-caution.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-colophon2.xhtml",
+          "reason": "advertisement_notice"
+        }
+      ],
+      "paratext_scope": "Original source-identifying/TOC/colophon, in-volume reference illustrations and original author/production afterwords retained. Advertisements and classified unrelated publisher-preview pages/assets omitted from extracted primary. Complete original EPUB is unchanged; embedded omitted pages remain non-admitted."
+    },
+    {
+      "ordinal": 6,
+      "unit": "SW-LNJP-V05",
+      "original_epub": {
+        "path": "SW-LNJP-V05/SW-LNJP-V05.epub",
+        "bytes": 20217305,
+        "sha256": "6fd815a38aea9b8e4d9dd96cd01f9a0fbf8a8fc3ccdb5173ff90046f1e99ca64"
+      },
+      "admitted_spine_class_counts": {
+        "source_identifying_paratext": 8,
+        "illustration": 16,
+        "narrative": 15,
+        "in_volume_supplemental_narrative": 1,
+        "author_production_commentary": 1
+      },
+      "excluded_members": [
+        {
+          "epub_member": "item/image/gaiji-c8871_m-v.png",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/i-bookwalker.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_cover.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_p021.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/xhtml/p-032.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-033.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-034.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-035.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-036.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-bookwalker.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-caution.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-colophon2.xhtml",
+          "reason": "advertisement_notice"
+        }
+      ],
+      "paratext_scope": "Original source-identifying/TOC/colophon, in-volume reference illustrations and original author/production afterwords retained. Advertisements and classified unrelated publisher-preview pages/assets omitted from extracted primary. Complete original EPUB is unchanged; embedded omitted pages remain non-admitted."
+    },
+    {
+      "ordinal": 7,
+      "unit": "SW-LNJP-V06",
+      "original_epub": {
+        "path": "SW-LNJP-V06/SW-LNJP-V06.epub",
+        "bytes": 21414746,
+        "sha256": "7909cd94b71063033b96b49ec1f7c6b686f49edb637a43b187e500ebad3a7242"
+      },
+      "admitted_spine_class_counts": {
+        "source_identifying_paratext": 8,
+        "illustration": 16,
+        "narrative": 14,
+        "in_volume_supplemental_narrative": 1,
+        "author_production_commentary": 1
+      },
+      "excluded_members": [
+        {
+          "epub_member": "item/image/gaiji-c8871_m-v.png",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/i-bookwalker.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_cover.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_p021.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/xhtml/p-031.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-032.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-033.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-034.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-035.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-bookwalker.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-caution.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-colophon2.xhtml",
+          "reason": "advertisement_notice"
+        }
+      ],
+      "paratext_scope": "Original source-identifying/TOC/colophon, in-volume reference illustrations and original author/production afterwords retained. Advertisements and classified unrelated publisher-preview pages/assets omitted from extracted primary. Complete original EPUB is unchanged; embedded omitted pages remain non-admitted."
+    },
+    {
+      "ordinal": 8,
+      "unit": "SW-LNJP-V07",
+      "original_epub": {
+        "path": "SW-LNJP-V07/SW-LNJP-V07.epub",
+        "bytes": 20577485,
+        "sha256": "e586cacacab692e3ee530737d28170e5a06f74cfb8eb9437f0b1f94df9badd86"
+      },
+      "admitted_spine_class_counts": {
+        "source_identifying_paratext": 8,
+        "illustration": 17,
+        "narrative": 17,
+        "in_volume_supplemental_narrative": 1,
+        "author_production_commentary": 1
+      },
+      "excluded_members": [
+        {
+          "epub_member": "item/image/gaiji-cid08871.png",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/i-bookwalker.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_cover.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_p017.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_p027.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_p029.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/xhtml/p-035.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-036.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-037.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-038.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-039.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-bookwalker.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-caution.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-colophon2.xhtml",
+          "reason": "advertisement_notice"
+        }
+      ],
+      "paratext_scope": "Original source-identifying/TOC/colophon, in-volume reference illustrations and original author/production afterwords retained. Advertisements and classified unrelated publisher-preview pages/assets omitted from extracted primary. Complete original EPUB is unchanged; embedded omitted pages remain non-admitted."
+    },
+    {
+      "ordinal": 9,
+      "unit": "SW-LNJP-V08",
+      "original_epub": {
+        "path": "SW-LNJP-V08/SW-LNJP-V08.epub",
+        "bytes": 19650208,
+        "sha256": "89ff209d8fe16c76486772adb2fb926849ede965ebdc8e8a614bbf9dccb401e9"
+      },
+      "admitted_spine_class_counts": {
+        "source_identifying_paratext": 8,
+        "illustration": 16,
+        "narrative": 16,
+        "in_volume_supplemental_narrative": 1,
+        "author_production_commentary": 1
+      },
+      "excluded_members": [
+        {
+          "epub_member": "item/image/gaiji-cid08871.png",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/i-bookwalker.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_cover.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_img-p019.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_img-p031.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/xhtml/p-033.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-034.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-035.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-036.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-bookwalker.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-caution.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-colophon2.xhtml",
+          "reason": "advertisement_notice"
+        }
+      ],
+      "paratext_scope": "Original source-identifying/TOC/colophon, in-volume reference illustrations and original author/production afterwords retained. Advertisements and classified unrelated publisher-preview pages/assets omitted from extracted primary. Complete original EPUB is unchanged; embedded omitted pages remain non-admitted."
+    },
+    {
+      "ordinal": 10,
+      "unit": "SW-LNJP-V09",
+      "original_epub": {
+        "path": "SW-LNJP-V09/SW-LNJP-V09.epub",
+        "bytes": 3055000,
+        "sha256": "272d49df5b94927cacc2b7a6fa430a3b0af58228cb048541b46ebc29fcdaffb1"
+      },
+      "admitted_spine_class_counts": {
+        "source_identifying_paratext": 7,
+        "illustration": 15,
+        "narrative": 15,
+        "author_production_commentary": 1
+      },
+      "excluded_members": [
+        {
+          "epub_member": "item/image/ad.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/i-bookwalker.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/xhtml/p-030.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-031.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-bookwalker.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-caution.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-colophon2.xhtml",
+          "reason": "advertisement_notice"
+        }
+      ],
+      "paratext_scope": "Original source-identifying/TOC/colophon, in-volume reference illustrations and original author/production afterwords retained. Advertisements and classified unrelated publisher-preview pages/assets omitted from extracted primary. Complete original EPUB is unchanged; embedded omitted pages remain non-admitted."
+    },
+    {
+      "ordinal": 11,
+      "unit": "SW-LNJP-EXTRA09",
+      "original_epub": {
+        "path": "SW-LNJP-EXTRA09/SW-LNJP-EXTRA09.epub",
+        "bytes": 31848077,
+        "sha256": "ec2157d37e9eb301ed6d2e2eebe2adee215c22a354189bed7485ea8485f1c943"
+      },
+      "admitted_spine_class_counts": {
+        "source_identifying_paratext": 6,
+        "illustration": 38,
+        "narrative": 9,
+        "in_volume_supplemental_narrative": 1,
+        "author_production_commentary": 2
+      },
+      "excluded_members": [
+        {
+          "epub_member": "item/image/i-bookwalker.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/xhtml/p-048.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-bookwalker.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-caution.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-colophon2.xhtml",
+          "reason": "advertisement_notice"
+        }
+      ],
+      "paratext_scope": "Original source-identifying/TOC/colophon, in-volume reference illustrations and original author/production afterwords retained. Advertisements and classified unrelated publisher-preview pages/assets omitted from extracted primary. Complete original EPUB is unchanged; embedded omitted pages remain non-admitted."
+    },
+    {
+      "ordinal": 12,
+      "unit": "SW-LNJP-V10",
+      "original_epub": {
+        "path": "SW-LNJP-V10/SW-LNJP-V10.epub",
+        "bytes": 17190113,
+        "sha256": "54d547b09f690895a0561104130bf088bd82d3a0c46734773a2c3c5a5a42c9c1"
+      },
+      "admitted_spine_class_counts": {
+        "source_identifying_paratext": 8,
+        "illustration": 14,
+        "narrative": 14,
+        "in_volume_supplemental_narrative": 1,
+        "author_production_commentary": 1
+      },
+      "excluded_members": [
+        {
+          "epub_member": "item/image/gaiji-cid08871.png",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/i-bookwalker.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_cover.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_p031.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/xhtml/p-029.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-030.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-031.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-032.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-033.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-bookwalker.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-caution.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-colophon2.xhtml",
+          "reason": "advertisement_notice"
+        }
+      ],
+      "paratext_scope": "Original source-identifying/TOC/colophon, in-volume reference illustrations and original author/production afterwords retained. Advertisements and classified unrelated publisher-preview pages/assets omitted from extracted primary. Complete original EPUB is unchanged; embedded omitted pages remain non-admitted."
+    },
+    {
+      "ordinal": 13,
+      "unit": "SW-LNJP-V11",
+      "original_epub": {
+        "path": "SW-LNJP-V11/SW-LNJP-V11.epub",
+        "bytes": 18283771,
+        "sha256": "cb81975b7967cf61f050a7fea53b39b13d627eb70af56e26af025e85c4207a4a"
+      },
+      "admitted_spine_class_counts": {
+        "source_identifying_paratext": 8,
+        "illustration": 12,
+        "narrative": 14,
+        "in_volume_supplemental_narrative": 1,
+        "author_production_commentary": 1
+      },
+      "excluded_members": [
+        {
+          "epub_member": "item/image/i-bookwalker.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_cover.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_gaiji-cid08871.png",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/xhtml/p-027.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-028.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-029.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-030.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-031.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-bookwalker.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-caution.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-colophon2.xhtml",
+          "reason": "advertisement_notice"
+        }
+      ],
+      "paratext_scope": "Original source-identifying/TOC/colophon, in-volume reference illustrations and original author/production afterwords retained. Advertisements and classified unrelated publisher-preview pages/assets omitted from extracted primary. Complete original EPUB is unchanged; embedded omitted pages remain non-admitted."
+    },
+    {
+      "ordinal": 14,
+      "unit": "SW-LNJP-V12",
+      "original_epub": {
+        "path": "SW-LNJP-V12/SW-LNJP-V12.epub",
+        "bytes": 20781154,
+        "sha256": "91ed29af0e3031de6167f09952767a479ed87de5045d5fb11aec4b8060663c37"
+      },
+      "admitted_spine_class_counts": {
+        "source_identifying_paratext": 8,
+        "illustration": 12,
+        "narrative": 16,
+        "in_volume_supplemental_narrative": 1,
+        "author_production_commentary": 1
+      },
+      "excluded_members": [
+        {
+          "epub_member": "item/image/gaiji-cid08871.png",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/i-bookwalker.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_cover.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_p017.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/xhtml/p-028.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-029.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-030.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-031.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-999.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-bookwalker.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-caution.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-colophon2.xhtml",
+          "reason": "advertisement_notice"
+        }
+      ],
+      "paratext_scope": "Original source-identifying/TOC/colophon, in-volume reference illustrations and original author/production afterwords retained. Advertisements and classified unrelated publisher-preview pages/assets omitted from extracted primary. Complete original EPUB is unchanged; embedded omitted pages remain non-admitted."
+    },
+    {
+      "ordinal": 15,
+      "unit": "SW-LNJP-ANOTHER-UPPER",
+      "original_epub": {
+        "path": "SW-LNJP-ANOTHER-UPPER/SW-LNJP-ANOTHER-UPPER.epub",
+        "bytes": 19598231,
+        "sha256": "cf094b9195fcff80859174d79fa742965c5dd3198546e4a3d999d7a966b726c1"
+      },
+      "admitted_spine_class_counts": {
+        "source_identifying_paratext": 8,
+        "illustration": 9,
+        "narrative": 15,
+        "in_volume_supplemental_narrative": 1,
+        "author_production_commentary": 1
+      },
+      "excluded_members": [
+        {
+          "epub_member": "item/image/gaiji-cid08871.png",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/i-bookwalker.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/p330_otayori.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_cover.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_p017.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_p027.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_p029.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/xhtml/p-025.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-026.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-027.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-028.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-029.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-030.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-bookwalker.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-caution.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-colophon2.xhtml",
+          "reason": "advertisement_notice"
+        }
+      ],
+      "paratext_scope": "Original source-identifying/TOC/colophon, in-volume reference illustrations and original author/production afterwords retained. Advertisements and classified unrelated publisher-preview pages/assets omitted from extracted primary. Complete original EPUB is unchanged; embedded omitted pages remain non-admitted."
+    },
+    {
+      "ordinal": 16,
+      "unit": "SW-LNJP-ANOTHER-LOWER",
+      "original_epub": {
+        "path": "SW-LNJP-ANOTHER-LOWER/SW-LNJP-ANOTHER-LOWER.epub",
+        "bytes": 17222919,
+        "sha256": "ac2cf27be4b48363d5bca1f28458464a89564867719eb802005e9018036fa403"
+      },
+      "admitted_spine_class_counts": {
+        "source_identifying_paratext": 8,
+        "illustration": 11,
+        "narrative": 13,
+        "in_volume_supplemental_narrative": 1,
+        "author_production_commentary": 1
+      },
+      "excluded_members": [
+        {
+          "epub_member": "item/image/gaiji-cid08871.png",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/i-bookwalker.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/p310_otayori.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_cover.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_p011.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/image/tameshiyomi_p027.jpg",
+          "reason": "asset referenced exclusively by omitted advertisement/preview pages"
+        },
+        {
+          "epub_member": "item/xhtml/p-025.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-026.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-027.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-028.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-029.xhtml",
+          "reason": "publisher_preview"
+        },
+        {
+          "epub_member": "item/xhtml/p-030.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-bookwalker.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-caution.xhtml",
+          "reason": "advertisement_notice"
+        },
+        {
+          "epub_member": "item/xhtml/p-colophon2.xhtml",
+          "reason": "advertisement_notice"
+        }
+      ],
+      "paratext_scope": "Original source-identifying/TOC/colophon, in-volume reference illustrations and original author/production afterwords retained. Advertisements and classified unrelated publisher-preview pages/assets omitted from extracted primary. Complete original EPUB is unchanged; embedded omitted pages remain non-admitted."
+    }
+  ],
+  "working_source_manifest_sha256": "4c481df2b1009404c4f2ddf539a021b8a23ba480ee1879337fd3aaed61c69071",
+  "method_projections": [
+    {
+      "path": "00 Method/NORMATIVE_ANALYTICAL_METHOD_DRAFT.md",
+      "sha256": "a237f6b9c7a4a11e6dc2d6d2eb073b630d0748123f16301341fdec250d80ecfe",
+      "used_projection_sha256": "d8e1694756d1141a4997201dcacaf21bd3cb5e3173e40855641309ac5330eaaf"
+    },
+    {
+      "path": "00 Method/NORMATIVE_RECONSTRUCTION_READINESS_DRAFT.md",
+      "sha256": "92bedeb62592f015edef95458bf3c9d3ed31cb5291225318cf049ab78970941b",
+      "used_projection_sha256": "4b52760e654466cfe2be34c258fbbba13f2a174fc9bb1659e9b50fdb5f4a7ff3"
+    },
+    {
+      "path": "00 Method/NORMATIVE_SYNTHESIS_ARCHITECTURE_DRAFT.md",
+      "sha256": "2fc5a608909090805398452b04bb4f0010dc3446e5beebf57d9c602b3e81be04",
+      "used_projection_sha256": "de211c500b2de3a8a0a10b2c90e9936b6f5cd43fba9a5cc76e2e3cd91163b063"
+    },
+    {
+      "path": "00 Method/NORMATIVE_VOLUME_TEMPLATE_DRAFT.md",
+      "sha256": "9bc6bed8b5014a59a5124fd14d5620240149663d46ff8b59f2f3c67765ad41c3",
+      "used_projection_sha256": "46d4bdc31303f3dd29ffc2590481fd6abee0f6fb7cea20164b185a84e5974cdb"
+    },
+    {
+      "path": "00 Method/RUN_INSTRUCTIONS.md",
+      "sha256": "680783f86381c5a62a65c0eb4b8c96f6a02dac682dc849be79b7809842bfa53c",
+      "used_projection_sha256": "3908512c8e43aa0ae4feba1e2940a7525696016ff91cb5e3e709e7e462514397"
+    }
+  ],
+  "boundary": "Only these sixteen original Japanese works. Source media and raw extractions remain outside Git; original resources were byte-compared to their EPUB members. Publication/reception/translations/adaptations and historical interpretations are excluded from independent production.",
+  "git_representation_note": "Normative Git copies add noncurrent metadata and remove only terminal blank lines; exact actually used input projection hashes are recorded separately.",
+  "working_source_manifest_file": "SOURCE_MANIFEST.json"
+}

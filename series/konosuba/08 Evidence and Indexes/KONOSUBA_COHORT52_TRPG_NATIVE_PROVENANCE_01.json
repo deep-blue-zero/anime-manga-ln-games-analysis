@@ -1,0 +1,1377 @@
+{
+  "schema": "konosuba.cohort52.trpg-native-provenance.v1",
+  "authored_utc": "2026-10-25T23:11:09.495270+00:00",
+  "source_bindings": [
+    {
+      "source_id": "TRPG-CORE",
+      "filename": "Konosuba - TRPG - Core Rulebook.epub",
+      "bytes": 118704701,
+      "sha256": "038bfc2d98f5e30853e041942805c7fe17eb8487ee33b8f18da5507f9e57e59c",
+      "fresh_ZIP_CRC": "PASS",
+      "opf": "item/standard.opf",
+      "OPF_sha256": "91e2eb2a84d2fe77d0732face941f51a935accfdfbd22929521f4ca25f86c37d",
+      "register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "filename": "Konosuba - TRPG - Advanced Rulebook.epub",
+      "bytes": 123248665,
+      "sha256": "2efe00b0a914cf725dfd8a52a1983b8f633705330054bf82b0b9e09165cd9e7c",
+      "fresh_ZIP_CRC": "PASS",
+      "opf": "item/standard.opf",
+      "OPF_sha256": "e9372fbbee1c5bd15cd50936fe50b6b4a4bf5ced94d36ddc2335b449d52ccddf",
+      "register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    }
+  ],
+  "actual_complete_native_returns": [
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S005",
+      "spine_position": 5,
+      "printed_page": "003",
+      "native_member": "item/image/i-003.jpg",
+      "bytes": 525418,
+      "sha256": "7885db7b6a4e2946be254ea6250aea4fd237c87be408c640f3072460076ffc38",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S006",
+      "spine_position": 6,
+      "printed_page": "004",
+      "native_member": "item/image/i-004.jpg",
+      "bytes": 497984,
+      "sha256": "92f78c652266e493f09109f0f4f39d4a6e662c6e58eb15e4b741b4f9a8dc6ecb",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S103",
+      "spine_position": 103,
+      "printed_page": "101",
+      "native_member": "item/image/i-101.jpg",
+      "bytes": 494952,
+      "sha256": "450138eacfba441a64d0f7bf8c1496a610eea6223864817e22ebb73b96582d08",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S105",
+      "spine_position": 105,
+      "printed_page": "103",
+      "native_member": "item/image/i-103.jpg",
+      "bytes": 537564,
+      "sha256": "c7ecea916df012d703778ee3337d1e6adff9537dc6651d54d89c78936fd33507",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S107",
+      "spine_position": 107,
+      "printed_page": "105",
+      "native_member": "item/image/i-105.jpg",
+      "bytes": 527547,
+      "sha256": "6d666f29fcfecace17681f727b2e885a94bd901b7a740ac874098d840b92bd6c",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S109",
+      "spine_position": 109,
+      "printed_page": "107",
+      "native_member": "item/image/i-107.jpg",
+      "bytes": 539360,
+      "sha256": "bde29f6cbbc62b990bf3657aa264654c86b07488b2d53a8eced79d9cf1f42547",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S111",
+      "spine_position": 111,
+      "printed_page": "109",
+      "native_member": "item/image/i-109.jpg",
+      "bytes": 530066,
+      "sha256": "90043dd988b0f0c1f9b236bc829fb426789f22800f4df8484ed7059d19c08d56",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S113",
+      "spine_position": 113,
+      "printed_page": "111",
+      "native_member": "item/image/i-111.jpg",
+      "bytes": 476024,
+      "sha256": "a7ccdef7d92f8bbab8cf128063be66e4945a5676a40a6d90ad6d7d02774c9f4f",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S114",
+      "spine_position": 114,
+      "printed_page": "112",
+      "native_member": "item/image/i-112.jpg",
+      "bytes": 432090,
+      "sha256": "d703bdbb662f883c1fcdbd43aa747a48ba14cd701a0f3bfbb1da599b62d51450",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S115",
+      "spine_position": 115,
+      "printed_page": "113",
+      "native_member": "item/image/i-113.jpg",
+      "bytes": 459178,
+      "sha256": "97c73bcc10d4da6584237457b2ca335f7bb3927f2f7feaba3eb7d2589036dc11",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S116",
+      "spine_position": 116,
+      "printed_page": "114",
+      "native_member": "item/image/i-114.jpg",
+      "bytes": 468290,
+      "sha256": "b3b5fb868623c136e37b76e367db37e3330b0e856d9da7dd8664fb86c3151d1f",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S117",
+      "spine_position": 117,
+      "printed_page": "115",
+      "native_member": "item/image/i-115.jpg",
+      "bytes": 475871,
+      "sha256": "83da1f9885d5754576492592e2bba44e60f45443edce15aa6f8c33f2a4a0a06a",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S200",
+      "spine_position": 200,
+      "printed_page": "198",
+      "native_member": "item/image/i-198.jpg",
+      "bytes": 440815,
+      "sha256": "2a62947c238accefefca27a2957e2934458ecc486cdb9b1955b453767f9344e4",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S201",
+      "spine_position": 201,
+      "printed_page": "199",
+      "native_member": "item/image/i-199.jpg",
+      "bytes": 498959,
+      "sha256": "27145d85a2f672b8d8c5999629f1fd322e8ed25f00868bc3f301aef6500a0158",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S202",
+      "spine_position": 202,
+      "printed_page": "200",
+      "native_member": "item/image/i-200.jpg",
+      "bytes": 502868,
+      "sha256": "89c0a3ef5be9e68a77828bbe5ced554beab145bb68745ce55b23c19cf5013618",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S203",
+      "spine_position": 203,
+      "printed_page": "201",
+      "native_member": "item/image/i-201.jpg",
+      "bytes": 510221,
+      "sha256": "40e14fc18a510681af44fc2b7e5955161584f3cfca9267612ae42ed761ca0ca2",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S204",
+      "spine_position": 204,
+      "printed_page": "202",
+      "native_member": "item/image/i-202.jpg",
+      "bytes": 509170,
+      "sha256": "5424496f4b5b6e1d4e10dffe996711743f4f659cfb8d8487c9e9f3522d0b91bc",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S252",
+      "spine_position": 252,
+      "printed_page": "250",
+      "native_member": "item/image/i-250.jpg",
+      "bytes": 395876,
+      "sha256": "884a961d5a1f27585634f8dfd3e826b685d38cca51d58dade3bd63eea9af0844",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S253",
+      "spine_position": 253,
+      "printed_page": "251",
+      "native_member": "item/image/i-251.jpg",
+      "bytes": 412982,
+      "sha256": "d21cfabe0c9626fef548b8af15028d7fcd52f73d153fb574e0494e43e6950ce4",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S254",
+      "spine_position": 254,
+      "printed_page": "252",
+      "native_member": "item/image/i-252.jpg",
+      "bytes": 427770,
+      "sha256": "08fa2d3587c8e207068e5d62d31270b73d99f18631e34506445c7590586f33b6",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S255",
+      "spine_position": 255,
+      "printed_page": "253",
+      "native_member": "item/image/i-253.jpg",
+      "bytes": 388902,
+      "sha256": "969f9d29dd0b8fdcb1e73cf420ff928d0787e8368cde55b1e64c4ba1382ffb99",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S256",
+      "spine_position": 256,
+      "printed_page": "254",
+      "native_member": "item/image/i-254.jpg",
+      "bytes": 422916,
+      "sha256": "57434a4678a093c4f6f09e85eee3dc71e9886efd45bdc76b199ff292e0989d17",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S257",
+      "spine_position": 257,
+      "printed_page": "255",
+      "native_member": "item/image/i-255.jpg",
+      "bytes": 414565,
+      "sha256": "31a279f9b0b6c1923fd18e8086646299cb7a6902990bacee5f094d760173349c",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S258",
+      "spine_position": 258,
+      "printed_page": "256",
+      "native_member": "item/image/i-256.jpg",
+      "bytes": 444765,
+      "sha256": "0a8865dbd6e116c05c84613040c94596fa3dd624900ef8e0fe5e7d4b7e7e86e3",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S259",
+      "spine_position": 259,
+      "printed_page": "257",
+      "native_member": "item/image/i-257.jpg",
+      "bytes": 414666,
+      "sha256": "cdc5e8a0308b0875278aee42f181b38d57e2bcfb0cc48ef99a1cdd90e800beac",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S260",
+      "spine_position": 260,
+      "printed_page": "258",
+      "native_member": "item/image/i-258.jpg",
+      "bytes": 388528,
+      "sha256": "ac23c79fe448ab63b821988badafac19213f516e5f77d1a776753682de6d75bc",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S261",
+      "spine_position": 261,
+      "printed_page": "259",
+      "native_member": "item/image/i-259.jpg",
+      "bytes": 482020,
+      "sha256": "6b39027cca3634dde19220666030062daed74d208c8e2af4d22be54b4d4164c1",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S262",
+      "spine_position": 262,
+      "printed_page": "260",
+      "native_member": "item/image/i-260.jpg",
+      "bytes": 356306,
+      "sha256": "6ce4d5f7db8d062713290f81d7dffe3c979a1f595cb9a601d9465dd4a9f194cb",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S263",
+      "spine_position": 263,
+      "printed_page": "261",
+      "native_member": "item/image/i-261.jpg",
+      "bytes": 436409,
+      "sha256": "fcf03a6c0054d2fac10f27b29c6f5fff3b356c9893272bb7e0f441518e146c90",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S264",
+      "spine_position": 264,
+      "printed_page": "262",
+      "native_member": "item/image/i-262.jpg",
+      "bytes": 463178,
+      "sha256": "c84c7b6b5852a7b38ce3dcff979d826886a7796bafd71fccb90628b86186f575",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S265",
+      "spine_position": 265,
+      "printed_page": "263",
+      "native_member": "item/image/i-263.jpg",
+      "bytes": 482972,
+      "sha256": "e126927fbcb17b5d0d61876d099b7acdc74f36532a0f4d3b47289b2badd16e07",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S300",
+      "spine_position": 300,
+      "printed_page": "298",
+      "native_member": "item/image/i-298.jpg",
+      "bytes": 435468,
+      "sha256": "008056217f13282e2c05e5fbb714fb5f5da9fd76e5380aed18a57006e412f38f",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S301",
+      "spine_position": 301,
+      "printed_page": "299",
+      "native_member": "item/image/i-299.jpg",
+      "bytes": 346024,
+      "sha256": "6aa44cc653dd50942094ca834e4dbd1cff46fcaf697684566ef292d5006f52b5",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S302",
+      "spine_position": 302,
+      "printed_page": "300",
+      "native_member": "item/image/i-300.jpg",
+      "bytes": 403636,
+      "sha256": "ec8ccaa20a149a551c9ec2d35e03549a40895539784fb0ddf8e8a0081a4d0c01",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S303",
+      "spine_position": 303,
+      "printed_page": "301",
+      "native_member": "item/image/i-301.jpg",
+      "bytes": 371819,
+      "sha256": "9bc1b71725632bc878063c6c0931dceed505fb9d7c0909eeef7244eefe5c54f7",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S304",
+      "spine_position": 304,
+      "printed_page": "302",
+      "native_member": "item/image/i-302.jpg",
+      "bytes": 388679,
+      "sha256": "931db18990eb72725279818a5636cc9f79a817eb46939d4a9767eb2f29b5eae1",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S305",
+      "spine_position": 305,
+      "printed_page": "303",
+      "native_member": "item/image/i-303.jpg",
+      "bytes": 383003,
+      "sha256": "e75dd71f077005ac3b0a43a4acba1a2f1ae20a5ee6e16e981c31a73a73b6563c",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S306",
+      "spine_position": 306,
+      "printed_page": "304",
+      "native_member": "item/image/i-304.jpg",
+      "bytes": 443706,
+      "sha256": "2c7ab097c48e8b526c9d94de740777df6e0c391670a7ab323497f9cafcbd807a",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S307",
+      "spine_position": 307,
+      "printed_page": "305",
+      "native_member": "item/image/i-305.jpg",
+      "bytes": 343635,
+      "sha256": "040c8466fca4650c7fcde8b2cf80c7f5f8377d232430c556b82597e6debe5d0b",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S308",
+      "spine_position": 308,
+      "printed_page": "306",
+      "native_member": "item/image/i-306.jpg",
+      "bytes": 437428,
+      "sha256": "6df82384c6c76002a2230a73a9b7c030a25523896df6ef18a2a8d315f180a283",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S309",
+      "spine_position": 309,
+      "printed_page": "307",
+      "native_member": "item/image/i-307.jpg",
+      "bytes": 363089,
+      "sha256": "9f9112ac253f314d28392b040b40089e881a331cdb9df7a950498072b8297bf2",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S310",
+      "spine_position": 310,
+      "printed_page": "308",
+      "native_member": "item/image/i-308.jpg",
+      "bytes": 317169,
+      "sha256": "654aeaa4902d0e0f5036cc3024352ab3a4d655aadaf2b86c40868f271c39f96d",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S311",
+      "spine_position": 311,
+      "printed_page": "309",
+      "native_member": "item/image/i-309.jpg",
+      "bytes": 425888,
+      "sha256": "a8d5073e5e1505923c2f61a7a94c796ccf6b9b816e47ca49636bc6db49eca781",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S312",
+      "spine_position": 312,
+      "printed_page": "310",
+      "native_member": "item/image/i-310.jpg",
+      "bytes": 350689,
+      "sha256": "e1837077085c642aaf95989715e2c3ca8e14d713d4b228ecd98991ad36fdb7b6",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S313",
+      "spine_position": 313,
+      "printed_page": "311",
+      "native_member": "item/image/i-311.jpg",
+      "bytes": 283317,
+      "sha256": "1b999bdc51e5363a0c81d7645b2d5f6d0d52015c754683764a3f5b401d3513cf",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S004",
+      "spine_position": 4,
+      "printed_page": "002",
+      "native_member": "item/image/i-002.jpg",
+      "bytes": 593527,
+      "sha256": "f4989ea5ad7152f227902c736ab92321796b715cedbb0a7cd65a63ba0ce323c1",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S005",
+      "spine_position": 5,
+      "printed_page": "003",
+      "native_member": "item/image/i-003.jpg",
+      "bytes": 597554,
+      "sha256": "64db904d14a69726d6af279fefa62c586ff885dffd1662922c4b2d08eab5d9a3",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S115",
+      "spine_position": 115,
+      "printed_page": "113",
+      "native_member": "item/image/i-113.jpg",
+      "bytes": 568557,
+      "sha256": "54ebb07e33108dffb21cd11dc90e4eecd77888209c4e827b129d68cb54b7d41f",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S117",
+      "spine_position": 117,
+      "printed_page": "115 (sequence inferred; sample art unnumbered)",
+      "native_member": "item/image/i-115.jpg",
+      "bytes": 528450,
+      "sha256": "6c9633321cb0f6601b59e75dfbcd9b1959347a455568d046e4c60ef0d138ea4c",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S119",
+      "spine_position": 119,
+      "printed_page": "117 (sequence inferred; sample art unnumbered)",
+      "native_member": "item/image/i-117.jpg",
+      "bytes": 517145,
+      "sha256": "c5a9d6d8cd00bee464c4352ba21b1a4bc7937ada344186e9da659e76e1cdbeca",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S121",
+      "spine_position": 121,
+      "printed_page": "119 (sequence inferred; sample art unnumbered)",
+      "native_member": "item/image/i-119.jpg",
+      "bytes": 505580,
+      "sha256": "844ce55d6ceb011ea57c0171887616adc78e69bec1fcccd6116644d5acd31fb6",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S123",
+      "spine_position": 123,
+      "printed_page": "121 (sequence inferred; sample art unnumbered)",
+      "native_member": "item/image/i-121.jpg",
+      "bytes": 509787,
+      "sha256": "302554ff8350dc9ceb4c693ae7da0bc9effd876fd43a6fd73dddf9407661e439",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S125",
+      "spine_position": 125,
+      "printed_page": "123",
+      "native_member": "item/image/i-123.jpg",
+      "bytes": 478382,
+      "sha256": "8765a7547b133c7dfe4cc635d6351da08ad11ab182c819c02b49c01aa3c4555c",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S126",
+      "spine_position": 126,
+      "printed_page": "124",
+      "native_member": "item/image/i-124.jpg",
+      "bytes": 413256,
+      "sha256": "2172a3eb594047001726c6f6289772fdb29cdd0f435c6efed38978aa4c532eb8",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S248",
+      "spine_position": 248,
+      "printed_page": 246,
+      "native_member": "item/image/i-246.jpg",
+      "bytes": 400227,
+      "sha256": "9a9ba016fa91839d9cef4f499e2bb7fff65dc0ad3df71f5df6f0dd73e0ab7f91",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S249",
+      "spine_position": 249,
+      "printed_page": 247,
+      "native_member": "item/image/i-247.jpg",
+      "bytes": 449776,
+      "sha256": "6b15fa23dc2781f087fcef97880218e8038b062f0021b1f995036ed599357f26",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S250",
+      "spine_position": 250,
+      "printed_page": 248,
+      "native_member": "item/image/i-248.jpg",
+      "bytes": 474467,
+      "sha256": "0db1d55115eb6c4e3b24edc898e0e4f2d3cd9daadfc8c777efad30da0718f061",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S251",
+      "spine_position": 251,
+      "printed_page": 249,
+      "native_member": "item/image/i-249.jpg",
+      "bytes": 438710,
+      "sha256": "57ce4459cd2efb10ca5886c446858eb255f3c492d7b9eb6ba629518dfc6ada23",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S297",
+      "spine_position": 297,
+      "printed_page": 295,
+      "native_member": "item/image/i-295.jpg",
+      "bytes": 487862,
+      "sha256": "b2b8da1a6dc75cc01d952e47aaca4795cad0c24c6fb599fae8b0e7bc2a57dabd",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S298",
+      "spine_position": 298,
+      "printed_page": 296,
+      "native_member": "item/image/i-296.jpg",
+      "bytes": 387112,
+      "sha256": "41a1396993971a3b7ae37b08a8dbe93d6d075cb0f55d46566fe8d6a5536e152f",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S299",
+      "spine_position": 299,
+      "printed_page": 297,
+      "native_member": "item/image/i-297.jpg",
+      "bytes": 353391,
+      "sha256": "0b71e948c5830b3839435300d418ac1ec5e0ded24319e941acea8802bdd6591e",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S300",
+      "spine_position": 300,
+      "printed_page": 298,
+      "native_member": "item/image/i-298.jpg",
+      "bytes": 438806,
+      "sha256": "7a6414b63ab7c2ce9514281dfe865c7ed6d59564ea3338d8021f7cc13a9839be",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S301",
+      "spine_position": 301,
+      "printed_page": 299,
+      "native_member": "item/image/i-299.jpg",
+      "bytes": 392319,
+      "sha256": "1f371055edb2c2fda8addece211fcd94b2e49a85ae965d432fe195074a4cd611",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S302",
+      "spine_position": 302,
+      "printed_page": 300,
+      "native_member": "item/image/i-300.jpg",
+      "bytes": 389264,
+      "sha256": "81b8683c3c24418565a0aff7a291d1a958173463666bd9b2b4cb2aa5ca6ccb52",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S303",
+      "spine_position": 303,
+      "printed_page": 301,
+      "native_member": "item/image/i-301.jpg",
+      "bytes": 389769,
+      "sha256": "ab6e232295a644d0a0174dd8040a901372af79e070c01693f637544c025bbbb6",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S304",
+      "spine_position": 304,
+      "printed_page": 302,
+      "native_member": "item/image/i-302.jpg",
+      "bytes": 383944,
+      "sha256": "81a8645745c69d6c5ea7c2af8c3d87c0211ca1b3af684ced592dfee6fd3b5766",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S305",
+      "spine_position": 305,
+      "printed_page": 303,
+      "native_member": "item/image/i-303.jpg",
+      "bytes": 365015,
+      "sha256": "c38840a52ae5a925db8c52b1973c11348678ad6b0823d68d44374034916ebe8a",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S306",
+      "spine_position": 306,
+      "printed_page": 304,
+      "native_member": "item/image/i-304.jpg",
+      "bytes": 451714,
+      "sha256": "45180209a413653d0617be9a86e5864e7bee291cecaf8f38135a41fee1df42a5",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S307",
+      "spine_position": 307,
+      "printed_page": 305,
+      "native_member": "item/image/i-305.jpg",
+      "bytes": 362015,
+      "sha256": "aa4cc5153c39e52091e76a3731488b931ee7837643834237259e75ff22212bc6",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S308",
+      "spine_position": 308,
+      "printed_page": 306,
+      "native_member": "item/image/i-306.jpg",
+      "bytes": 404122,
+      "sha256": "77906a43e95e8b065203363f3a591ca45e8e6a1cceb01bb78cb108113c96fad5",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S309",
+      "spine_position": 309,
+      "printed_page": 307,
+      "native_member": "item/image/i-307.jpg",
+      "bytes": 477967,
+      "sha256": "fef277321f99c7e14995889440afcfdca553a2a77aacd73a6a2787b914a28c56",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S310",
+      "spine_position": 310,
+      "printed_page": 308,
+      "native_member": "item/image/i-308.jpg",
+      "bytes": 391377,
+      "sha256": "f2cd4e0962360ad093358273965c93c8416ea95002e390163238188ff0ddbd43",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S311",
+      "spine_position": 311,
+      "printed_page": 309,
+      "native_member": "item/image/i-309.jpg",
+      "bytes": 265116,
+      "sha256": "18b30cceff4a55f7ce09c37e28aab2272603a7640612308ae22a6ef188e44e0b",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S102",
+      "spine_position": 102,
+      "printed_page": "100",
+      "native_member": "item/image/i-100.jpg",
+      "bytes": 491982,
+      "sha256": "acaede361c06c3034faa781d642ed891ad555be054fa0d2bf689b373914221e3",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S104",
+      "spine_position": 104,
+      "printed_page": "102",
+      "native_member": "item/image/i-102.jpg",
+      "bytes": 489584,
+      "sha256": "1321a25681390bcf5c1e21fb0678e165be5672b1b18d8815fbe10996db907148",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S106",
+      "spine_position": 106,
+      "printed_page": "104",
+      "native_member": "item/image/i-104.jpg",
+      "bytes": 491861,
+      "sha256": "6886c2b4b3388bb99238a2b5afc167537e44a788b3867b2257067831b4a0d27a",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S108",
+      "spine_position": 108,
+      "printed_page": "106",
+      "native_member": "item/image/i-106.jpg",
+      "bytes": 487876,
+      "sha256": "8a337b024aad07ea738355de88c66d37c919bc69d4d18e69717620297b3b254c",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-CORE",
+      "image_id": "TRPG-CORE-S110",
+      "spine_position": 110,
+      "printed_page": "108",
+      "native_member": "item/image/i-108.jpg",
+      "bytes": 495361,
+      "sha256": "a2bd7318be5b087e23e302c2e01d46fe5b775ecfc1ecbaa93825fb5e377ba66c",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "9a5b08ef7dec7e53ab4618cfc59c25877fb684749f94969e7908669ce547f749"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S116",
+      "spine_position": 116,
+      "printed_page": "114",
+      "native_member": "item/image/i-114.jpg",
+      "bytes": 564743,
+      "sha256": "5f91be2a2361a2ebc6b1d09f90fc9d7e8cf4f660e067874752601d05f98185d6",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S118",
+      "spine_position": 118,
+      "printed_page": "116",
+      "native_member": "item/image/i-116.jpg",
+      "bytes": 564695,
+      "sha256": "338cfd8b6ffa289554ed2b104bb271ec9d43717f38486da79e107ac14713f431",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S120",
+      "spine_position": 120,
+      "printed_page": "118",
+      "native_member": "item/image/i-118.jpg",
+      "bytes": 552893,
+      "sha256": "ead42d68f97b72c2bd427aa89b5cf5e645a85b0d86f83a22b7ada3b6779bf0b9",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    },
+    {
+      "source_id": "TRPG-ADV",
+      "image_id": "TRPG-ADV-S122",
+      "spine_position": 122,
+      "printed_page": "120",
+      "native_member": "item/image/i-120.jpg",
+      "bytes": 573436,
+      "sha256": "ebb71390efd693688811f30040e53836bd4c7b13a6f48b1e4bdc2d0b02658f02",
+      "dimensions": [
+        1441,
+        2048
+      ],
+      "frames": 1,
+      "canonical_register": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+      "canonical_register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+    }
+  ],
+  "actual_Core": 50,
+  "actual_Advanced": 32,
+  "complete_current_before_records": 82,
+  "actual_current_census_neighbor_records_in_both_planes": 21,
+  "actual_complete_current_owner_files": 8,
+  "private_receiving_pins": [
+    {
+      "file": "COHORT52_ACTUAL_NATIVE_REVIEW_PROGRESS_01.json",
+      "sha256": "2b5369532eebb7904db9d8ad8765f7a8ceee868429d78aab2bb1c743bfc0d2ca"
+    },
+    {
+      "file": "C52_CURRENT_CENSUS_IDENTITY_NEIGHBORS17_ACTUAL_RECEIVING_01.json",
+      "sha256": "f73792ded895e3666e2d71f7d20163e15e4d8cef96e0bcf3370e1e5e02854a13"
+    },
+    {
+      "file": "C52_COMPLETE_INITIAL_PROSE_DISPOSITIONS_ACTUAL_RECEIVING_01.json",
+      "sha256": "210bf1159b0f34d671b372db710a01b6492de658e68de6cb715225c4e1b435b1"
+    },
+    {
+      "file": "C52_REVISED_DRAFT_SEMANTIC_ACCEPTANCE_02.json",
+      "sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396"
+    }
+  ],
+  "prior4_census_and8_owner_receiving_pins": {
+    "directory": "secondary-full-corpus-identity-reference-image-audit-v1/trpg-next-scope-complete-review-preparation01",
+    "all8_current_homes_sha256": "bf56521c87dd42622902245cc7e1c9368f1744a4510d20a71cc4faf12c497a79",
+    "current_census4_sha256": "b1b52b0905e9400c38855e1963d010d1c95a87b7748317b04acd1d0e15f3bc20"
+  },
+  "sheet_scope": "Whole sheets viewed; identity/class/background/motive/relationship and blank personal fields read. No every-number transcription, build recomputation or comprehensive balance audit.",
+  "source_planes": "Optional sample constructions, unselected branch/cheat/species references, second-person narrated guide, named NPC reference summaries, editorial balloons and unplayed supplied scenarios remain distinct.",
+  "historical_missing_source_receipts": "Two older Core raw333 acknowledgement/route-join files were not transported; preserve their historical references without fabricating a new replay.",
+  "source_known_same_AI_lineage": true,
+  "new_whole_edition_independent_or_first_credit": 0,
+  "new_models_rules_inputs_or_original_firsts": 0,
+  "global_completion_percentage": null
+}

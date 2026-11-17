@@ -1,0 +1,368 @@
+{
+  "schema": "konosuba.cohort31.exact-source-author-publication-gate.v1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "closed_utc": "2026-10-24T07:58:23.777325+00:00",
+  "gate_scope": "Author publication tranche: ordinary continuing-source push, ready PR and full passing exact-head repository audit. Protected-main integration/post-integration checks remain separately owned.",
+  "actual_source_commit": "be0005b8599c08c9d8eb15ddbf453e68dfc12b49",
+  "tree": "57e93d3379599a2f1de2b27d6ad322e0a3002a69",
+  "source_parent": "681d9d058caabc38a26c56496c255677e2a2d616",
+  "publication_main": "6a3afaaf1bb61e0993db379ab4074c46e9ea98dd",
+  "main_observed_at_close": "6a3afaaf1bb61e0993db379ab4074c46e9ea98dd",
+  "pull_request": {
+    "number": 298,
+    "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/298",
+    "state": "open",
+    "merged": false,
+    "head": "be0005b8599c08c9d8eb15ddbf453e68dfc12b49",
+    "ready": true,
+    "labels": []
+  },
+  "author_preflight": {
+    "file": "COHORT31_AUTHOR_PREFLIGHT_VERIFIED_01.json",
+    "sha256": "3a38b137a28899a9c3d5d45c5bae3f17b031d34e5a500857d718682f9c6600ef",
+    "paths": 9694,
+    "project_paths": 1376
+  },
+  "remote_readback": {
+    "file": "COHORT31_REMOTE_READBACK_VERIFIED_01.json",
+    "sha256": "ec672c74b07c70c425a0ac67cc5f3b53af201c0656993d6b744a96a799806217",
+    "all9694_files_and53_changed_streams_exact": true
+  },
+  "source_audit": {
+    "file": "C31_SOURCE_AUDIT_VERIFIED_01.json",
+    "sha256": "d671348b18a0693f553a0fb16ae3cbd89c41f7131b7580380dc0dd1a1bc368c0",
+    "run": 40074965468,
+    "job": 120816247907,
+    "reporter_job": 120817414095,
+    "actual_source": "be0005b8599c08c9d8eb15ddbf453e68dfc12b49",
+    "full_discovered_tests": 459,
+    "all_five_non_success_categories_zero": true,
+    "latest_trusted_status": {
+      "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/be0005b8599c08c9d8eb15ddbf453e68dfc12b49",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "id": 57155891758,
+      "node_id": "SC_kwDOUJ9ads8AAAANTsGyLg",
+      "state": "success",
+      "description": "Exact commit passed the repository audit",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40074965468",
+      "context": "Repository integration audit",
+      "created_at": "2026-10-24T07:45:04Z",
+      "updated_at": "2026-10-24T07:45:04Z",
+      "creator": {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      }
+    }
+  },
+  "housekeeping": {
+    "status": "NOT_REQUIRED_WHEN_ROUTING_ALREADY_MATERIALIZED_UNDER_CURRENT_POLICY",
+    "run": null,
+    "execution_credit": false
+  },
+  "post_integration_main_audit": {
+    "status": "NOT_CERTIFIED_BY_THIS_AUTHOR_TRANCHE_GATE",
+    "run": null,
+    "execution_credit": false
+  },
+  "author_publication_tranche_complete": true,
+  "overall_git_integration_transaction_closed": false,
+  "authority_reload": {
+    "file": "COHORT31_POST_GATE_PUBLISHED_AUTHORITY_RELOAD.json",
+    "bytes": 342146,
+    "sha256": "8b0c74ce5130a19ecacb4e6dd1188531cd9c122c415b76e45affd08a2cf66fd3"
+  },
+  "current51_models_exact": true,
+  "new_scope": {
+    "schema": "konosuba.cohort31.evidence-proportionate-scope-assessment.v1",
+    "recorded_utc": "2026-10-24T06:43:12.894245+00:00",
+    "published_source": "681d9d058caabc38a26c56496c255677e2a2d616",
+    "source_receiving_sha256": "720ee4b441e11b545338789d797f27968b30c81de6a2c6770e95e4d20998f846",
+    "native_provenance_sha256": "ef387a14156374dce5bcf39214654625bc99b7af678aaf5972f4bb09e42bb6c4",
+    "new_discovery_records_sha256": "80090ab24de8b1e7d341bd909c7215e8fe2c1ca874ce7c56c81ae76d923e39f3",
+    "subjects": [
+      {
+        "row": 163,
+        "character": "Gilbert",
+        "tier": 3,
+        "rules": 3,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate provisional conditional model",
+          "planned dependent pairs and original firsts after foundation/input freeze"
+        ],
+        "reason": "Religious framing/useful support,credibility debt and professional displacement have distinct conditions and countercases."
+      },
+      {
+        "row": 164,
+        "character": "Suzuki Chiho",
+        "tier": 3,
+        "rules": 2,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate provisional conditional model",
+          "planned dependent pairs and original firsts after foundation/input freeze"
+        ],
+        "reason": "Health rationalization with real vulnerability and material giving versus particular relational meaning; no artificial third rule."
+      },
+      {
+        "row": 165,
+        "character": "Otohime",
+        "tier": 3,
+        "rules": 3,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate provisional conditional model",
+          "planned dependent pairs and original firsts after foundation/input freeze"
+        ],
+        "reason": "Fear/preparation/bounded protection,resource rationale/comfort and invited partial repair have differentiated costs and rivals."
+      },
+      {
+        "row": 166,
+        "character": "Temiren",
+        "tier": 3,
+        "rules": 2,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate provisional conditional model",
+          "planned dependent pairs and original firsts after foundation/input freeze"
+        ],
+        "reason": "Recognition/disappointed appraisal and typed practical contribution; unstable sect labels stay qualification,not another mechanism."
+      },
+      {
+        "row": 167,
+        "character": "21",
+        "tier": 3,
+        "rules": 3,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate provisional conditional model",
+          "planned dependent pairs and original firsts after foundation/input freeze"
+        ],
+        "reason": "Pressure versus chosen belonging,requested inquiry with stopping boundary and useful work/contingent charity with vulnerabilities."
+      },
+      {
+        "row": 282,
+        "character": "Froger (Core TRPG replay)",
+        "tier": 2,
+        "artifacts": [
+          "twelve-dimension monograph"
+        ],
+        "reason": "Reported biography,sovereignty project,environment,guard relation,refused alternatives and detailed defeat support a monograph. Limits: One GM-shaped adversarial project; neutral work/cooperation and broader choices underidentified; permanent death unverified."
+      },
+      {
+        "row": 283,
+        "character": "Goran / Wally (Advanced TRPG replay)",
+        "tier": 2,
+        "artifacts": [
+          "twelve-dimension monograph"
+        ],
+        "reason": "Concealed project,newspaper identification,cheat,scenario-required confession,instrumental dragon use and actual disappearance support a monograph. Limits: Confession forced by scenario; ordinary cooperation and enduring mechanism underidentified; no permanent cosmological fate certified."
+      },
+      {
+        "row": 284,
+        "character": "Bo Kujo (Core TRPG farmer)",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "Reports abnormal raids; puzzled by prince address; actual Hanako return and thanks; cow award accounted. Limits: Reports do not certify every raid or victim fate; praise is not independent cognitive proof; Roman rendering derivative."
+      },
+      {
+        "row": 285,
+        "character": "Guild receptionist at Core replay quest and report",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "Requests urgent quest acceptance; receives report/checks records; skeptical rank response; holds artifact with return intention. Limits: Actual temple return unobserved; name/global continuity unknown; assigned role may contain unresolved actors."
+      },
+      {
+        "row": 286,
+        "character": "Inn bartender at Advanced replay introduction",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "Refuses milk as for children while tiny undead enters; party reacts; bounded gatekeeping behavior. Limits: No verified broad prejudice,household relation,other bartender join or subsequent policy."
+      },
+      {
+        "row": 287,
+        "character": "Flame Giant Toad survivor (Advanced replay)",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "Escaped/trained frog develops own hostile encounter and reported relation to former master. Limits: Possible overlap with Core troop does not establish exact individual past actions; no automatic Froger resurrection or global monster join."
+      },
+      {
+        "row": 288,
+        "character": "Winter Hatamoto (Advanced replay artificial ice creature)",
+        "tier": 0,
+        "artifacts": [
+          "bounded occurrence index"
+        ],
+        "reason": "Bounded creation/rules/encounter occurrence and identification are indexed. Limits: No sufficient individual voice/ordinary agency for a compact personality profile or main-novel join."
+      },
+      {
+        "row": 289,
+        "character": "Zamzar (Advanced replay reported researcher)",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "Investigation and produced will report valued dragon companionship,separation,death and an instruction against awakening. Limits: Will is openly revised by player suggestion/GM adoption; not pristine independent clue,full biography or live dialogue; no clinical solitude inference."
+      },
+      {
+        "row": 290,
+        "character": "Zamzar dragon and animated remains (Advanced replay state record)",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "Reported companion history and will support a bounded relationship profile; corpse-animation action belongs to Goran/GM and enemy rules. Limits: No current original-dragon speech or restored will; no21 kinship; final memorial only requested,not completed; record is not an extra resurrected person."
+      },
+      {
+        "row": 291,
+        "character": "Guild receptionist at Advanced replay aftermath",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "Apologizes for harmful client referral,pays party10000KE/2000each and permits continued house use. Limits: No certified prior conspiracy,full screening policy,personal biography or unique-actor count; local act does not repair every risk."
+      },
+      {
+        "row": 292,
+        "character": "Hanako (Core replay cow)",
+        "tier": 0,
+        "artifacts": [
+          "bounded occurrence index"
+        ],
+        "reason": "Threatened captive,freed and returned; GM as-if thanks indexed as personification. Limits: No literal human speech,independent personality mechanism or universal animal agency inferred."
+      },
+      {
+        "row": 293,
+        "character": "Froger trained frog subordinates (Core replay unresolved troop)",
+        "tier": 0,
+        "artifacts": [
+          "bounded occurrence index"
+        ],
+        "reason": "Training,guards,actual defeated guards and spared remaining frog indexed as bounded group occurrences. Limits: No complete actor count,each frog fate or automatic one-to-one survivor join; not disjoint unique people."
+      },
+      {
+        "row": 294,
+        "character": "Momoko (Core replay reported cow)",
+        "tier": 0,
+        "artifacts": [
+          "bounded occurrence index"
+        ],
+        "reason": "Reported name/abduction occurrence is retained. Limits: No witnessed rescue,current fate,literal voice or independent personality evidence."
+      }
+    ],
+    "existing_aggregate_routes": [
+      {
+        "row": 37,
+        "disposition": "Route older five-PC aggregate to163–167,retain history; no new5people."
+      },
+      {
+        "row": 38,
+        "disposition": "Keep open TRPG population/role route; preserve prior unrelated split history."
+      }
+    ],
+    "planned_existing_changed_rows": [
+      37,
+      38,
+      163,
+      164,
+      165,
+      166,
+      167
+    ],
+    "planned_untouched_entering_rows": 275,
+    "planned_new_rows": [
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290,
+      291,
+      292,
+      293,
+      294
+    ],
+    "planned_nonfinal_records": 295,
+    "planned_models_if_received": 51,
+    "planned_scoped_secondary_model_subjects": 45,
+    "planned_bounded_profiles": 66,
+    "planned_monograph_only_subjects": 24,
+    "new_monographs": 7,
+    "new_models": 5,
+    "new_rules": 13,
+    "new_compact_profiles": 7,
+    "new_Tier0_records": 4,
+    "planned_firsts": 26,
+    "planned_dependent_pairs": 13,
+    "exact_inputs_or_firsts_serialized": false,
+    "source_known": true,
+    "same_informed_root_authors_and_assesses_every_stage": true,
+    "all_contrasts_visible": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "whole_source_or_independent_credit": 0,
+    "new_role_records_not_unique_people": true,
+    "no_rule_count_quota": true,
+    "global_census_closed": false,
+    "global_completion_percentage": null,
+    "full_program_complete": false
+  },
+  "scope_qualification": "new_scope is the preserved dated preinput assessment. Actual later diagnostic production is recorded separately below; its historical exact_inputs_or_firsts_serialized=false is not current execution state.",
+  "actual_received_artifact_scope": {
+    "monographs": 7,
+    "models": 5,
+    "rules": 13,
+    "compact_profiles": 7,
+    "Tier0_records": 4,
+    "new_records": 13,
+    "original_firsts": 26,
+    "dependent_pairs": 13
+  },
+  "current_totals": {
+    "models": 51,
+    "scoped_secondary_model_subjects": 45,
+    "bounded_profiles": 66,
+    "monograph_only_subjects": 24,
+    "nonfinal_records": 295
+  },
+  "source_known_same_root_diagnostics": true,
+  "actual_original_firsts": 26,
+  "actual_dependent_pairs": 13,
+  "final_nine_category_battery_complete": false,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false
+}

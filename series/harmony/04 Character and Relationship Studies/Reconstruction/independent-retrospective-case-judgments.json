@@ -1,0 +1,902 @@
+{
+  "review_sha256": "d9c610636634ecad44798768730bafe11eb97ea31244a5ee41c26218f03681de",
+  "case_count": 32,
+  "all30_subject_dispositions_reviewed": true,
+  "cases": [
+    {
+      "case_id": "TU-R01",
+      "test": "refusal inside attachment; TU1.",
+      "review_judgment": "U002-E008 explicitly records `や、やめてよミァハ` and continued painful touch. U002-E018–E019 separately records withdrawal after the hand kiss and a pleasurable after-effect. TU1 correctly permits attraction, refusal and concealment together. It would fail if a conversation converted one pleasurable contact into blanket consent or made her refuse every intimacy. Fit: supported; epistemic restraint: no private sexual identity or diagnosis; register: hesitant intimate refusal differs from the adult official voice.",
+      "evidence_references": [
+        "U002-E008",
+        "U002-E018–E019"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U002-E008",
+        "HAR-U002-E018",
+        "HAR-U002-E019"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U002-E008",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e008"
+        },
+        {
+          "evidence_id": "HAR-U002-E018",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e018"
+        },
+        {
+          "evidence_id": "HAR-U002-E019",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e019"
+        }
+      ]
+    },
+    {
+      "case_id": "TU-R02",
+      "test": "a discrepant friend's account changes appraisal; TU3.",
+      "review_judgment": "U006-E011 preserves Tuan's comradeship interpretation. U009-E001–E002 then supplies Cian's stopping, parental disclosure and qualified balancer account; Tuan calls the follower image `とんでもない誤解` and sincerely thanks her while privately withholding why she values survival. The rule models an actual update without making either gratitude or reciprocity complete. A school/Sahara model cannot anticipate this conversation; a reunion model can update only after the information arrives. Fit: supported across the stated transition; no proof that every future challenge elicits concession.",
+      "evidence_references": [
+        "U006-E011",
+        "U009-E001–E002"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U006-E011",
+        "HAR-U009-E001",
+        "HAR-U009-E002"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U006-E011",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U006_PART_I_06_DEEP_READING.md#har-u006-e011"
+        },
+        {
+          "evidence_id": "HAR-U009-E001",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e001"
+        },
+        {
+          "evidence_id": "HAR-U009-E002",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e002"
+        }
+      ]
+    },
+    {
+      "case_id": "TU-R03",
+      "test": "institutional autonomy is not consistent consent practice; TU4.",
+      "review_judgment": "U013-E003 states that the listener was implanted during the handshake under inspector privilege although Gabriel behaved normally. U016-E010 explicitly identifies Tuan's supposed Vashilov statement as a bluff; E011 supplies Oscar's actual admission. TU4 correctly permits strategic asymmetry and the inherited protocol prevents the true admission from authenticating the invented source. U008-E011's unspoken confession is an additional attribution guard: the `confession` field does not make Reiko hear it. Fit: supported; independent privacy principle cannot be imposed on this character as an invariant.",
+      "evidence_references": [
+        "U013-E003",
+        "U016-E010",
+        "U008-E011"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U013-E003",
+        "HAR-U016-E010",
+        "HAR-U016-E011",
+        "HAR-U008-E011"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U013-E003",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U013_PART_III_04_DEEP_READING.md#har-u013-e003"
+        },
+        {
+          "evidence_id": "HAR-U016-E010",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U016_PART_IV_01_DEEP_READING.md#har-u016-e010"
+        },
+        {
+          "evidence_id": "HAR-U016-E011",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U016_PART_IV_01_DEEP_READING.md#har-u016-e011"
+        },
+        {
+          "evidence_id": "HAR-U008-E011",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U008_PART_II_02_DEEP_READING.md#har-u008-e011"
+        }
+      ]
+    },
+    {
+      "case_id": "TU-R04",
+      "test": "final agency is not final code control; TU5 and era guard.",
+      "review_judgment": "U019-E011 marks qualified assent, E012 excludes Miach from the desired world, E013–E014 records the fatal attack and particular care. Elder code entry is newly narrated in U020-E004 after Tuan descends. The before-shots BUNKER envelope can contain the prior discussion and competing purposes, but not observed future activation, a known final narrator or a conscious post-programme self. Fit: supported condition distinctions; an actual new killing or post-programme conversation remains outside the tested scope. The policy does not claim that influenced conduct is involuntary or that the chosen revenge is morally vindicated.",
+      "evidence_references": [
+        "U019-E011",
+        "U020-E004"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U019-E011",
+        "HAR-U019-E012",
+        "HAR-U019-E013",
+        "HAR-U019-E014",
+        "HAR-U020-E004"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U019-E011",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U019_PART_IV_04_DEEP_READING.md#har-u019-e011"
+        },
+        {
+          "evidence_id": "HAR-U019-E012",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U019_PART_IV_04_DEEP_READING.md#har-u019-e012"
+        },
+        {
+          "evidence_id": "HAR-U019-E013",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U019_PART_IV_04_DEEP_READING.md#har-u019-e013"
+        },
+        {
+          "evidence_id": "HAR-U019-E014",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U019_PART_IV_04_DEEP_READING.md#har-u019-e014"
+        },
+        {
+          "evidence_id": "HAR-U020-E004",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U020_INTERSTICE_AND_EPILOGUE_DEEP_READING.md#har-u020-e004"
+        }
+      ]
+    },
+    {
+      "case_id": "MI-R01",
+      "test": "ordinary reassurance versus overridden refusal; MI1–MI2.",
+      "review_judgment": "U016-E003 shows appetite, playful explanation and laughter; E004 reassures Cian about late hunger and admits uncertainty about the mother's assessment. U002-E008 shows refusal overridden. The frozen model preserves both rather than forcing either universal coercion or universal consent-respect. Fit: supported for these recipients; a new disagreement may remain unresolved and cannot automatically be assigned a happy friendship outcome. Written repertoire must include short colloquial reassurance, not only serene lectures.",
+      "evidence_references": [
+        "U016-E003",
+        "U002-E008"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U016-E003",
+        "HAR-U016-E004",
+        "HAR-U002-E008"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U016-E003",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U016_PART_IV_01_DEEP_READING.md#har-u016-e003"
+        },
+        {
+          "evidence_id": "HAR-U016-E004",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U016_PART_IV_01_DEEP_READING.md#har-u016-e004"
+        },
+        {
+          "evidence_id": "HAR-U002-E008",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e008"
+        }
+      ]
+    },
+    {
+      "case_id": "MI-R02",
+      "test": "vulnerability in delegated action; MI3.",
+      "review_judgment": "U019-E001–E003 ties books to life, then has Miach ask Tuan to light them because `わたしにはきっと辛いから`. This supports dependence and influence in the same request, not a guaranteed manipulative intention or universal inability to act. Fit: supported for the source; transfer to another nonharmful relinquishment is only PARTIAL. School book burning cannot authorize an adult killing.",
+      "evidence_references": [
+        "U019-E001–E003"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U019-E001",
+        "HAR-U019-E002",
+        "HAR-U019-E003"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U019-E001",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U019_PART_IV_04_DEEP_READING.md#har-u019-e001"
+        },
+        {
+          "evidence_id": "HAR-U019-E002",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U019_PART_IV_04_DEEP_READING.md#har-u019-e002"
+        },
+        {
+          "evidence_id": "HAR-U019-E003",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U019_PART_IV_04_DEEP_READING.md#har-u019-e003"
+        }
+      ]
+    },
+    {
+      "case_id": "MI-R03",
+      "test": "stated access and excluded authorization; MI4.",
+      "review_judgment": "U019-E007 supplies most-code authorship and several-government backdoors. E009 corrects the button shorthand to several codes known only to the elders and says that authority was not acquired. The model's adult explanation must preserve this genuine limit. Its professed world-love is explicit self-report and present motive reliance, not proof of pure benevolence or a timeless hatred. Fit: supported; no actual code/implementation engine, complete victim attribution or real neuroscience is authorized.",
+      "evidence_references": [
+        "U019-E007"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U019-E007",
+        "HAR-U019-E009"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U019-E007",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U019_PART_IV_04_DEEP_READING.md#har-u019-e007"
+        },
+        {
+          "evidence_id": "HAR-U019-E009",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U019_PART_IV_04_DEEP_READING.md#har-u019-e009"
+        }
+      ]
+    },
+    {
+      "case_id": "MI-R04",
+      "test": "surprise and remaining request; MI5.",
+      "review_judgment": "U019-E012 shows surprise at revenge and qualified questions about Tuan's causal account, while E013–E014 gives the forgiveness, mountain-view and witnessing requests. The policy correctly allows uncertainty and constrained last agency without retroactive consent. Fit: supported; neither exact private motive nor a post-death continuing mind is recoverable. The DYING_REQUEST envelope should stay confined to those depicted functions.",
+      "evidence_references": [
+        "U019-E012"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U019-E012",
+        "HAR-U019-E013",
+        "HAR-U019-E014"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U019-E012",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U019_PART_IV_04_DEEP_READING.md#har-u019-e012"
+        },
+        {
+          "evidence_id": "HAR-U019-E013",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U019_PART_IV_04_DEEP_READING.md#har-u019-e013"
+        },
+        {
+          "evidence_id": "HAR-U019-E014",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U019_PART_IV_04_DEEP_READING.md#har-u019-e014"
+        }
+      ]
+    },
+    {
+      "case_id": "CI-R01",
+      "test": "objection is not perfect protection; CI1.",
+      "review_judgment": "U002-E007's `そんなことしちゃいけないよ` is actual objection. U003-E006–E008 retains questioning, assent and ingestion within the shared attempt. CI1 correctly rejects both stupidity from brevity and an always-successful protector. Fit: supported; the full grounds of the early objection remain less accessible than the speech itself.",
+      "evidence_references": [
+        "U002-E007",
+        "U003-E006–E008"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U002-E007",
+        "HAR-U003-E006",
+        "HAR-U003-E007",
+        "HAR-U003-E008"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U002-E007",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e007"
+        },
+        {
+          "evidence_id": "HAR-U003-E006",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U003_PART_I_03_DEEP_READING.md#har-u003-e006"
+        },
+        {
+          "evidence_id": "HAR-U003-E007",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U003_PART_I_03_DEEP_READING.md#har-u003-e007"
+        },
+        {
+          "evidence_id": "HAR-U003-E008",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U003_PART_I_03_DEEP_READING.md#har-u003-e008"
+        }
+      ]
+    },
+    {
+      "case_id": "CI-R02",
+      "test": "ordinary difference precedes another's theory; CI2.",
+      "review_judgment": "U016-E004 gives Cian's hunger at two or three rather than noon, closing the lunchbox and apologizing. Miach's political explanation follows. The policy does not assign that complete explanation to Cian or universalize one appetite pattern into clinical identity. Fit: supported; English apology may be hesitant, but a permanent stutter would exceed the source.",
+      "evidence_references": [
+        "U016-E004"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U016-E004"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U016-E004",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U016_PART_IV_01_DEEP_READING.md#har-u016-e004"
+        }
+      ]
+    },
+    {
+      "case_id": "CI-R03",
+      "test": "explanation does not cure guilt or expose the other friend; CI3–CI4.",
+      "review_judgment": "U009-E001–E002 distinguishes asserted stopping/telling from retrospective `多分` balancer interpretation, and changes knowing to `わかりたいんだけど`. Tuan's private pleasure rationale is not told to Cian. The model's partial acceptance of praise and refusal to know withheld motives are well grounded. Fit: supported; exact terminal manipulation/persuasion remains unknown and cannot become a standing self-destruction policy. This is affirmative bounded agency, not a refusal to model her because the last act lacks a complete cause.",
+      "evidence_references": [
+        "U009-E001–E002"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U009-E001",
+        "HAR-U009-E002"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E001",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e001"
+        },
+        {
+          "evidence_id": "HAR-U009-E002",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e002"
+        }
+      ]
+    },
+    {
+      "case_id": "NU-R01",
+      "test": "repeated protection without dependable-parent essence; NU1.",
+      "review_judgment": "U002-E015 records immediate rescue and treatment of the child; U015-E011 records shielding Tuan, his death and her gratitude. The latter narrator entertains love, reflex and kinship, while thirteen years of absence remain. NU1 correctly makes the acts firmer than their private cause or a prediction of every future sacrifice. Fit: supported; ordinary marriage/parenting beyond these states remains unknown.",
+      "evidence_references": [
+        "U002-E015",
+        "U015-E011"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U002-E015",
+        "HAR-U015-E011"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U002-E015",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U002_PART_I_02_DEEP_READING.md#har-u002-e015"
+        },
+        {
+          "evidence_id": "HAR-U015-E011",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U015_PART_III_06_DEEP_READING.md#har-u015-e011"
+        }
+      ]
+    },
+    {
+      "case_id": "NU-R02",
+      "test": "qualification can coexist with secrecy; NU2.",
+      "review_judgment": "U011-E002 describes moderation and repeated verification, ending with the unfinished `適度に`. U014-E004 later admits deliberately sustained public misunderstanding and papers buried in available information. NU2's openness is bounded to public scientific argument, and the stated countercase prevents universal humility or transparency. Fit: supported; childhood public defeat does not establish absence of later covert power.",
+      "evidence_references": [
+        "U011-E002",
+        "U014-E004"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U011-E002",
+        "HAR-U014-E004"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U011-E002",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U011_PART_III_02_DEEP_READING.md#har-u011-e002"
+        },
+        {
+          "evidence_id": "HAR-U014-E004",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U014_PART_III_05_DEEP_READING.md#har-u014-e004"
+        }
+      ]
+    },
+    {
+      "case_id": "NU-R03",
+      "test": "rescue rationale, concession and restraint; NU3–NU4.",
+      "review_judgment": "U014-E011 answers the purpose/result objection with qualified `そうなのだろうな`. U015-E003–E004 acknowledges dormant installation, fear of subject loss and current preference for social remedies despite deliberately excluding likely public refusal. The model retains this contradiction. Fit: supported to Tuan in RIVER_RESEARCH; an unfamiliar forum has no automatic access to the private exchange. The later U019 opponent testimony strengthens his position for the designer but must not be narrated as a future encounter Nuaza witnessed. No full restoration method or external neurological truth is supplied.",
+      "evidence_references": [
+        "U014-E011",
+        "U015-E003–E004"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U014-E011",
+        "HAR-U015-E003",
+        "HAR-U015-E004"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U014-E011",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U014_PART_III_05_DEEP_READING.md#har-u014-e011"
+        },
+        {
+          "evidence_id": "HAR-U015-E003",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U015_PART_III_06_DEEP_READING.md#har-u015-e003"
+        },
+        {
+          "evidence_id": "HAR-U015-E004",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U015_PART_III_06_DEEP_READING.md#har-u015-e004"
+        }
+      ]
+    },
+    {
+      "case_id": "OS-R01",
+      "test": "a real concession does not cancel sanction; OS1.",
+      "review_judgment": "U005-E005–E007 separates reputational secrecy from the shouted `ただしっ` and recall to Japan. The policy's partial concession and recipient-specific discipline fit. Its exact mixture of institutional protection, care and self-interest remains uncertain. A conversation that grants unrestricted freedom after a counterthreat would contradict this source range.",
+      "evidence_references": [
+        "U005-E005–E007"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U005-E005",
+        "HAR-U005-E006",
+        "HAR-U005-E007"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U005-E005",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U005_PART_I_05_DEEP_READING.md#har-u005-e005"
+        },
+        {
+          "evidence_id": "HAR-U005-E006",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U005_PART_I_05_DEEP_READING.md#har-u005-e006"
+        },
+        {
+          "evidence_id": "HAR-U005-E007",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U005_PART_I_05_DEEP_READING.md#har-u005-e007"
+        }
+      ]
+    },
+    {
+      "case_id": "OS-R02",
+      "test": "changed participation has an unremoved limit; OS2.",
+      "review_judgment": "U007-E010 initially excludes Tuan on discipline/trauma grounds; E012 grants participation while refusing to extend the five-day grace before the separately specified 120-hour therapy. The model correctly allows change under pressure with surviving conditions. Fit: supported; personal relevance alone is not a source-proven sufficient condition, since Tuan's threatened scandal is consequential to the actual concession.",
+      "evidence_references": [
+        "U007-E010"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U007-E010",
+        "HAR-U007-E012"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U007-E010",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U007_PART_II_01_DEEP_READING.md#har-u007-e010"
+        },
+        {
+          "evidence_id": "HAR-U007-E012",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U007_PART_II_01_DEEP_READING.md#har-u007-e012"
+        }
+      ]
+    },
+    {
+      "case_id": "OS-R03",
+      "test": "supervisory certainty and later restricted truth; OS3–OS4.",
+      "review_judgment": "U011-E013–E014 inflates a lead into strong evidence and then asserts authority over certainty. U016-E010–E011 moves actual membership disclosure into a private session; E012–E015 adds condolence, knowledge limits and help. The model correctly permits both pressure and help without making Oscar omniscient or authenticating the bluff. Fit: supported. The early PUBLIC_SUPERVISOR state must not disclose future narrative information to a new public recipient, although the designer knows membership already exists in biography. The original public exchange is not proof she would gracefully accept every evidentiary correction.",
+      "evidence_references": [
+        "U011-E013–E014",
+        "U016-E010–E011"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U011-E013",
+        "HAR-U011-E014",
+        "HAR-U016-E010",
+        "HAR-U016-E011",
+        "HAR-U016-E012",
+        "HAR-U016-E013",
+        "HAR-U016-E014",
+        "HAR-U016-E015"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U011-E013",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U011_PART_III_02_DEEP_READING.md#har-u011-e013"
+        },
+        {
+          "evidence_id": "HAR-U011-E014",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U011_PART_III_02_DEEP_READING.md#har-u011-e014"
+        },
+        {
+          "evidence_id": "HAR-U016-E010",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U016_PART_IV_01_DEEP_READING.md#har-u016-e010"
+        },
+        {
+          "evidence_id": "HAR-U016-E011",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U016_PART_IV_01_DEEP_READING.md#har-u016-e011"
+        },
+        {
+          "evidence_id": "HAR-U016-E012",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U016_PART_IV_01_DEEP_READING.md#har-u016-e012"
+        },
+        {
+          "evidence_id": "HAR-U016-E013",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U016_PART_IV_01_DEEP_READING.md#har-u016-e013"
+        },
+        {
+          "evidence_id": "HAR-U016-E014",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U016_PART_IV_01_DEEP_READING.md#har-u016-e014"
+        },
+        {
+          "evidence_id": "HAR-U016-E015",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U016_PART_IV_01_DEEP_READING.md#har-u016-e015"
+        }
+      ]
+    },
+    {
+      "case_id": "VA-R01",
+      "test": "failed performance and genuine office, not omniscience; VA1.",
+      "review_judgment": "U010-E005 shows a repeated business-card performance, failed small surprise, use of Baghdad knowledge and a bounded car ride. U010-E009 explicitly says `わかりません`; E013 gives aversion to the broadcast. U016-E008 later reports genuine enrollment. The model's admission of ignorance is essential contrary evidence to an all-knowing handler. Fit: supported; genuine credential is not universal honesty, and one aversive reaction does not prove no prior complicity.",
+      "evidence_references": [
+        "U010-E005",
+        "U010-E009",
+        "U016-E008"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U010-E005",
+        "HAR-U010-E009",
+        "HAR-U010-E013",
+        "HAR-U016-E008"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U010-E005",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U010_PART_III_01_DEEP_READING.md#har-u010-e005"
+        },
+        {
+          "evidence_id": "HAR-U010-E009",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U010_PART_III_01_DEEP_READING.md#har-u010-e009"
+        },
+        {
+          "evidence_id": "HAR-U010-E013",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U010_PART_III_01_DEEP_READING.md#har-u010-e013"
+        },
+        {
+          "evidence_id": "HAR-U016-E008",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U016_PART_IV_01_DEEP_READING.md#har-u016-e008"
+        }
+      ]
+    },
+    {
+      "case_id": "VA-R02",
+      "test": "the operational preference changes after events; VA2–VA3.",
+      "review_judgment": "U013-E004 says he wanted a `化学反応` from Tuan's unwarned visit. U015-E009 prefers Nuaza's capture; E012 accepts death as a useful fallback. The model distinguishes using initiative, allegiance, preference and outcome. Fit: supported; a specific Miach order to murder Nuaza or access to all final codes remains unestablished. New dialogue need not disclose the whole faction to prove coherence.",
+      "evidence_references": [
+        "U013-E004",
+        "U015-E009"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U013-E004",
+        "HAR-U015-E009",
+        "HAR-U015-E012"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U013-E004",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U013_PART_III_04_DEEP_READING.md#har-u013-e004"
+        },
+        {
+          "evidence_id": "HAR-U015-E009",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U015_PART_III_06_DEEP_READING.md#har-u015-e009"
+        },
+        {
+          "evidence_id": "HAR-U015-E012",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U015_PART_III_06_DEEP_READING.md#har-u015-e012"
+        }
+      ]
+    },
+    {
+      "case_id": "VA-R03",
+      "test": "vulnerability changes bargaining, without innocence; VA4.",
+      "review_judgment": "U015-E013 offers information in exchange for relief from pain and leaves the exact location to Tuan's later verification. This reverses the earlier possession of force. The model preserves dependency rather than generic cowardice, full honesty or an uncoerced contract. Fit: supported; U016-E010's invented Vashilov statement remains something he did not actually supply. Exact accent and ordinary private relations are unknown.",
+      "evidence_references": [
+        "U015-E013",
+        "U016-E010"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U015-E013",
+        "HAR-U016-E010"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U015-E013",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U015_PART_III_06_DEEP_READING.md#har-u015-e013"
+        },
+        {
+          "evidence_id": "HAR-U016-E010",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U016_PART_IV_01_DEEP_READING.md#har-u016-e010"
+        }
+      ]
+    },
+    {
+      "case_id": "KE-R01",
+      "test": "two different disclosure changes; KE2.",
+      "review_judgment": "U009-E009 initially guards information, then supplies Gabriel's name when Tuan explains the public crisis and suspected Miach involvement. E010's subsequent warrant threat elicits the dense paper and an explanation. This matters: the model may not flatten every concession into badge obedience or pretend the first lead required the later warrant. KE2 permits changed stakes and official pressure as distinct conditions. Fit: supported in the known-colleague's-daughter encounter; no universal rule for an unfamiliar official.",
+      "evidence_references": [
+        "U009-E009"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U009-E009",
+        "HAR-U009-E010"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E009",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e009"
+        },
+        {
+          "evidence_id": "HAR-U009-E010",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e010"
+        }
+      ]
+    },
+    {
+      "case_id": "KE-R02",
+      "test": "an explanation can correct itself; KE1/KE3.",
+      "review_judgment": "U009-E011 acknowledges that reward-as-pleasure shorthand is imperfect and replaces it with motivation to repeat a choice. E013's reverse dead-medium suggestion produces surprise, laughter and concession about a lingering sacred-soul assumption. The model correctly allows intellectual change without generic open-mindedness. Fit: supported; long exposition is not permission to fabricate implementation data or real medical recommendations.",
+      "evidence_references": [
+        "U009-E011"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U009-E011",
+        "HAR-U009-E013"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E011",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e011"
+        },
+        {
+          "evidence_id": "HAR-U009-E013",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e013"
+        }
+      ]
+    },
+    {
+      "case_id": "KE-R03",
+      "test": "stated model is not an implemented general mind; epistemic guard.",
+      "review_judgment": "U009-E011 distinguishes the paper's model from the problem of developing molecules to implement the change. E013's claim about scientists' purposeless inquiry is hedged `多分` self/generalization. The model guards against upgrading either to verified science or a universal professional essence. Fit: supported restraint; complete complicity and inner value hierarchy stay unknown.",
+      "evidence_references": [
+        "U009-E011"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U009-E011",
+        "HAR-U009-E013"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E011",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e011"
+        },
+        {
+          "evidence_id": "HAR-U009-E013",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U009_PART_II_03_DEEP_READING.md#har-u009-e013"
+        }
+      ]
+    },
+    {
+      "case_id": "RE-R01",
+      "test": "care, failure and an unheard confession; RE1 plus knowledge boundary.",
+      "review_judgment": "U008-E011 gives attempted good parenting, tears and failure to imagine Miach's suffering. The immediately adjacent Tuan `confession` is expressly not spoken. The model properly supports distressed parental self-account without either emotional vacancy or full vindication, and does not give Reiko the visitor's participation/kinship. Fit: supported; private irritation and knowing deceit are not established.",
+      "evidence_references": [
+        "U008-E011"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U008-E011"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U008-E011",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U008_PART_II_02_DEEP_READING.md#har-u008-e011"
+        }
+      ]
+    },
+    {
+      "case_id": "RE-R02",
+      "test": "source establishes warning, not shown treatment; RE2 QUALIFIED.",
+      "review_judgment": "U008-E012 says WatchMe warned her about an interpersonal-state threshold and displays the warning through Aug. Reiko calls the inward protective gaze `ありがたい`; Tuan interprets the guidance critically. Frozen RE2's slash phrase “warning/treatment” is broader than the depicted event. Current supported reading is **warning/guidance welcomed as help**. No administered drug or demonstrated biochemical elimination of grief is shown here. The rule itself prohibits general mechanical erasure, so its central affect distinction survives. Required source qualification: do not instantiate “treatment” as a scene fact or unshown event.",
+      "evidence_references": [
+        "U008-E012"
+      ],
+      "disposition": "REQUIRES_SUCCESSOR",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U008-E012"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U008-E012",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U008_PART_II_02_DEEP_READING.md#har-u008-e012"
+        }
+      ]
+    },
+    {
+      "case_id": "RE-R03",
+      "test": "guarded information becomes a concrete lead; RE3.",
+      "review_judgment": "U008-E015 initially cites a security restriction, then responds to Tuan's pressure and asserted international authority by giving Keita's name. This is actual local changed disclosure, making the narrow model more than a generic parent persona. Fit: supported at this recipient/setting; no complete custody chronology, universally compliant policy or proof that she knowingly lied about death follows. A new neighbor cannot inherit knowledge of an inward confession.",
+      "evidence_references": [
+        "U008-E015"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U008-E015"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U008-E015",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U008_PART_II_02_DEEP_READING.md#har-u008-e015"
+        }
+      ]
+    },
+    {
+      "case_id": "UW-R01",
+      "test": "conditional aid rests on a situated reading; UW1.",
+      "review_judgment": "U017-E002 says Oscar has contacted him without specifying the task. E004 invokes colleague knowledge and demands acknowledgment of personal motive before arranging help: `認めなさいな`. The model correctly treats this as an inference and conditional agreement, not telepathy or universal obstruction. Fit: supported to Tuan; an unfamiliar inspector does not inherit their relationship.",
+      "evidence_references": [
+        "U017-E002"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U017-E002",
+        "HAR-U017-E004"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U017-E002",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U017_PART_IV_02_DEEP_READING.md#har-u017-e002"
+        },
+        {
+          "evidence_id": "HAR-U017-E004",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U017_PART_IV_02_DEEP_READING.md#har-u017-e004"
+        }
+      ]
+    },
+    {
+      "case_id": "UW-R02",
+      "test": "permission within assessment; UW2.",
+      "review_judgment": "U017-E005 distinguishes reported formal bans from social assessment. E006 specifies risk-discounted drinking during professional negotiation and the report obligation: `レポート書きゃいいのさ`. The model correctly contrasts an exception with deception without inventing universal exemption, a completed report or a rule for every region. Fit: supported; real-world policy/medical advice remains outside scope.",
+      "evidence_references": [
+        "U017-E005"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U017-E005",
+        "HAR-U017-E006"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U017-E005",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U017_PART_IV_02_DEEP_READING.md#har-u017-e005"
+        },
+        {
+          "evidence_id": "HAR-U017-E006",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U017_PART_IV_02_DEEP_READING.md#har-u017-e006"
+        }
+      ]
+    },
+    {
+      "case_id": "UW-R03",
+      "test": "help need not mean agreement; UW3.",
+      "review_judgment": "U017-E010 calls the issue a matter of life, continues to resist, then places the transport request; U018-E001–E002 supplies the later journey. The model correctly keeps disagreement, concern and practical help together. Yuri is an absent call addressee without audible acceptance; the later driver is not independently named as Yuri. Fit: supported; no proof Uwe became convinced and no unconditional loyalty or broad courage policy.",
+      "evidence_references": [
+        "U017-E010",
+        "U018-E001–E002"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U017-E010",
+        "HAR-U018-E001",
+        "HAR-U018-E002"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U017-E010",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U017_PART_IV_02_DEEP_READING.md#har-u017-e010"
+        },
+        {
+          "evidence_id": "HAR-U018-E001",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U018_PART_IV_03_DEEP_READING.md#har-u018-e001"
+        },
+        {
+          "evidence_id": "HAR-U018-E002",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U018_PART_IV_03_DEEP_READING.md#har-u018-e002"
+        }
+      ]
+    },
+    {
+      "case_id": "ET-R01",
+      "test": "correct behavior, incomplete local citation; ET1 SOURCE SUPPLEMENT.",
+      "review_judgment": "U003-E004 establishes trade participation, and E013 explicitly gives the impatient `早くしてくださいな` from the passenger window. ET1's cited E003/E004/E009 support the first function but not that final departure line. Supplement ET1 with **HAR-U003-E013**. The policy content is source-consistent; the frozen traceability is incomplete for the impatience clause. Do not conceal this by changing the original freeze. Exact rank, accent and a national taste stereotype remain excluded.",
+      "evidence_references": [
+        "U003-E004",
+        "U003-E013"
+      ],
+      "disposition": "REQUIRES_SUCCESSOR",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U003-E004",
+        "HAR-U003-E013",
+        "HAR-U003-E003",
+        "HAR-U003-E009"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U003-E004",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U003_PART_I_03_DEEP_READING.md#har-u003-e004"
+        },
+        {
+          "evidence_id": "HAR-U003-E013",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U003_PART_I_03_DEEP_READING.md#har-u003-e013"
+        },
+        {
+          "evidence_id": "HAR-U003-E003",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U003_PART_I_03_DEEP_READING.md#har-u003-e003"
+        },
+        {
+          "evidence_id": "HAR-U003-E009",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U003_PART_I_03_DEEP_READING.md#har-u003-e009"
+        }
+      ]
+    },
+    {
+      "case_id": "ET-R02",
+      "test": "alarm coexists with technical knowledge and assistance; ET2.",
+      "review_judgment": "U004-E003 shows a request for help, limited combat experience and a qualified technical assessment of the pursuer. E004 gives recoil at Tuan's weapon and supplying the combat glasses. ET2 correctly permits expertise dependence without making him universally incompetent or a coward. Fit: supported; a new operation beyond this linked episode remains low-transfer, and advanced tactics must not be manufactured.",
+      "evidence_references": [
+        "U004-E003"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U004-E003",
+        "HAR-U004-E004"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U004-E003",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U004_PART_I_04_DEEP_READING.md#har-u004-e003"
+        },
+        {
+          "evidence_id": "HAR-U004-E004",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U004_PART_I_04_DEEP_READING.md#har-u004-e004"
+        }
+      ]
+    },
+    {
+      "case_id": "ET-R03",
+      "test": "return is actual, lifelong trust is not; ET3.",
+      "review_judgment": "U004-E004 lets Tuan relinquish vigilance; E010 has Etienne wake her at arrival with `基地に着きましたよ`. The policy can support continuing bounded cooperation and reporting arrival while refusing a general loyalty prediction. Fit: supported. One recipient and linked operation provide an unusually low ceiling, not a broad soldier model.",
+      "evidence_references": [
+        "U004-E004"
+      ],
+      "disposition": "SOURCE_CONSISTENT_FOR_SCOPED_RULE",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED_NOT_BLIND",
+      "exact_evidence_ids": [
+        "HAR-U004-E004",
+        "HAR-U004-E010"
+      ],
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U004-E004",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U004_PART_I_04_DEEP_READING.md#har-u004-e004"
+        },
+        {
+          "evidence_id": "HAR-U004-E010",
+          "relative_from_reconstruction": "../../01%20Sequential%20Readings/HAR-U004_PART_I_04_DEEP_READING.md#har-u004-e010"
+        }
+      ]
+    }
+  ]
+}

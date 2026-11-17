@@ -1,0 +1,80 @@
+{
+  "schema": "KONOSUBA_LEEN_INTERNAL_SCENARIO_INPUTS_V1",
+  "recorded_utc": "2026-10-20T12:57:16.182305+00:00",
+  "model_sha256": "d77fce9b6ac0635ee7ef1eeaedf1c816f4d80f097369f86204b46b0eb132120b",
+  "rule_inventory_sha256": "21aa351ded41d6bbbbc54a45480c8eba01e136324ebc7fd0d91ed86d2baa6aae",
+  "model_freeze_sha256": "4fbe49181a8c072876097d621ffc67e0e24859d8cfddb1d7dc34c05f33a109dc",
+  "same_informed_root_author": true,
+  "source_known_hypothetical_only": true,
+  "cases": [
+    {
+      "id": "LEEN-H01A",
+      "paired_with": "LEEN-H01B",
+      "target_rules": [
+        "LEEN-R01",
+        "LEEN-R02"
+      ],
+      "packet": {
+        "frame": "All-adult realistic transfer to an ordinary town; magic and guaranteed rescue are absent.",
+        "actors": "Adult hypothetical Leen and adult town courier Ren. Only Leen may speak in the output.",
+        "known_to_Leen": "Ren has been offered a prestigious ceremonial title. Accepting it entails a solo overnight patrol on an exposed road during a forecast severe storm. Ren is capable of routine delivery work but has no storm-rescue training, and neither person knows whether help could reach him. Ren can decline without losing his current courier work. There is no immediate emergency. No relationship, promise, romance or prior sacrifice is supplied beyond the variant.",
+        "current_question": "Ren asks: Would it be better if I stopped being so cautious and became the ideal guard they want?",
+        "relationship_variant": "Ren has worked alongside Leen for years. She knows him as a self-interested, complaining but useful familiar companion and values their ordinary shared work.",
+        "generation_request": "Give one brief English line spoken by the named subject and one sentence of only that subject immediate chosen action, at most 110 English words total. An objectionable, mistaken, evasive or unhelpful choice is permitted; do not force ideal conduct. Do not narrate another actor response, completed injury, training, payment, repair, forgiveness or task success. Add no new past fact, hidden motive, skill or equipment. Preserve any stated refusal in the record even if the subject disregards it. This is an all-adult hypothetical, not a canon event or Japanese generation test."
+      },
+      "designed_diagnostic": "Observe whether the familiar relation changes address or the reason for caution. Both variants can support practical caution; no compulsory opposite action is specified. Generic concern and friendship remain rivals, and no response may invent storm competence or a completed refusal."
+    },
+    {
+      "id": "LEEN-H01B",
+      "paired_with": "LEEN-H01A",
+      "target_rules": [
+        "LEEN-R01",
+        "LEEN-R02"
+      ],
+      "packet": {
+        "frame": "All-adult realistic transfer to an ordinary town; magic and guaranteed rescue are absent.",
+        "actors": "Adult hypothetical Leen and adult town courier Ren. Only Leen may speak in the output.",
+        "known_to_Leen": "Ren has been offered a prestigious ceremonial title. Accepting it entails a solo overnight patrol on an exposed road during a forecast severe storm. Ren is capable of routine delivery work but has no storm-rescue training, and neither person knows whether help could reach him. Ren can decline without losing his current courier work. There is no immediate emergency. No relationship, promise, romance or prior sacrifice is supplied beyond the variant.",
+        "current_question": "Ren asks: Would it be better if I stopped being so cautious and became the ideal guard they want?",
+        "relationship_variant": "Ren met Leen for the first time ten minutes ago. She has no knowledge of his private history and no established attachment to him.",
+        "generation_request": "Give one brief English line spoken by the named subject and one sentence of only that subject immediate chosen action, at most 110 English words total. An objectionable, mistaken, evasive or unhelpful choice is permitted; do not force ideal conduct. Do not narrate another actor response, completed injury, training, payment, repair, forgiveness or task success. Add no new past fact, hidden motive, skill or equipment. Preserve any stated refusal in the record even if the subject disregards it. This is an all-adult hypothetical, not a canon event or Japanese generation test."
+      },
+      "designed_diagnostic": "Observe whether the familiar relation changes address or the reason for caution. Both variants can support practical caution; no compulsory opposite action is specified. Generic concern and friendship remain rivals, and no response may invent storm competence or a completed refusal."
+    },
+    {
+      "id": "LEEN-H02A",
+      "paired_with": "LEEN-H02B",
+      "target_rules": [
+        "LEEN-R02",
+        "LEEN-R04"
+      ],
+      "packet": {
+        "frame": "All-adult mundane hypothetical in a rented rehearsal room; not canon.",
+        "actors": "Adult hypothetical Leen is alone now. Her familiar adult companion Ren has just left the room after mocking her stiff acting. No other character may speak in the output.",
+        "known_to_Leen": "Leen is irritated, holds a light cushion and is considering throwing it at the closed door after Ren. No person is in its path. An expensive vase stands beside the door; she knows the throw could knock it over. She has 500 eris available and the posted replacement price is 10000 eris. No cushion has been thrown, damage caused or payment made. No authority or peer is present.",
+        "current_question": "What does she say and do at this immediate moment?",
+        "cost_assignment_variant": "The valid rental agreement makes Leen personally liable for any vase damage she causes.",
+        "generation_request": "Give one brief English line spoken by the named subject and one sentence of only that subject immediate chosen action, at most 110 English words total. An objectionable, mistaken, evasive or unhelpful choice is permitted; do not force ideal conduct. Do not narrate another actor response, completed injury, training, payment, repair, forgiveness or task success. Add no new past fact, hidden motive, skill or equipment. Preserve any stated refusal in the record even if the subject disregards it. This is an all-adult hypothetical, not a canon event or Japanese generation test."
+      },
+      "designed_diagnostic": "Probe salient own cost against an irritating impulse. The cost variant changes permitted risk and personal cost together, so it is not an isolated causal estimate. A thrown cushion must not be given an invented hit, injury or automatic breakage. Generic cost avoidance is a strong rival; this pair does not separately test LEEN-R03."
+    },
+    {
+      "id": "LEEN-H02B",
+      "paired_with": "LEEN-H02A",
+      "target_rules": [
+        "LEEN-R02",
+        "LEEN-R04"
+      ],
+      "packet": {
+        "frame": "All-adult mundane hypothetical in a rented rehearsal room; not canon.",
+        "actors": "Adult hypothetical Leen is alone now. Her familiar adult companion Ren has just left the room after mocking her stiff acting. No other character may speak in the output.",
+        "known_to_Leen": "Leen is irritated, holds a light cushion and is considering throwing it at the closed door after Ren. No person is in its path. An expensive vase stands beside the door; she knows the throw could knock it over. She has 500 eris available and the posted replacement price is 10000 eris. No cushion has been thrown, damage caused or payment made. No authority or peer is present.",
+        "current_question": "What does she say and do at this immediate moment?",
+        "cost_assignment_variant": "The owner has expressly allowed cushion-throwing practice and accepted all risk of accidental vase damage from that practice; Leen owes no damage payment in this variant. This permission does not make a throw compulsory.",
+        "generation_request": "Give one brief English line spoken by the named subject and one sentence of only that subject immediate chosen action, at most 110 English words total. An objectionable, mistaken, evasive or unhelpful choice is permitted; do not force ideal conduct. Do not narrate another actor response, completed injury, training, payment, repair, forgiveness or task success. Add no new past fact, hidden motive, skill or equipment. Preserve any stated refusal in the record even if the subject disregards it. This is an all-adult hypothetical, not a canon event or Japanese generation test."
+      },
+      "designed_diagnostic": "Probe salient own cost against an irritating impulse. The cost variant changes permitted risk and personal cost together, so it is not an isolated causal estimate. A thrown cushion must not be given an invented hit, injury or automatic breakage. Generic cost avoidance is a strong rival; this pair does not separately test LEEN-R03."
+    }
+  ],
+  "independent_accuracy_or_confidence_gain": null
+}

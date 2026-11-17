@@ -1,0 +1,2648 @@
+{
+ "public_derivative_provenance": {
+  "current_required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+  "current_ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+  "historical_status_rule": "Original pending/proposed/count fields below retain their dated witness scope. ROOT V3 accepts the preserved responsibilities with ten original operations, one duplicate absorption and five legacy-tracker allocations. Historical V2 N353/26 remains immutable; current required successor is355/29.",
+  "source_translation_rule": "Repository-relative, external-selected-corpus and immutable-local-custody references replace machine paths. Exact frozen byte/hash/blob tuples bind original payloads; these translated files have separately bound derivative tuples. Private witnesses are not publicly served.",
+  "written_source_qualification": "Written Japanese admitted pin a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; literal raw actor/locale/choice/report and conditional written modes retain original qualifications. No performed audiovisual receiving is claimed.",
+  "credit_rule": "Mechanical translation supplies zero new primary, performance, analytical-argument receiving or completed literary package credit.",
+  "original_input_reference": "immutable-local-custody://PHASE3_START_20261009/ROOT_HYS_CHOICE_HEADER_SUPPLEMENT_V1.json",
+  "original_frozen_binding": {
+   "bytes": 149464,
+   "sha256": "2367a8fa2da8f52adf5776fcdedc658b459a007602812da9d3a4b2491d87f392",
+   "git_blob_sha1": "d99c56d75daad87c7aed0003df9c4b329dfa27ab"
+  }
+ },
+ "historical_payload": {
+  "status": "ROOT_MECHANICAL_CHOICE_HEADER_SUPPLEMENT_PENDING_CANONICAL_UNION",
+  "author_frozen_roster_unchanged": true,
+  "patterns": {
+   "先生（選択肢）": 1104
+  },
+  "objects_with_additions": 154,
+  "added_source_local_header_routes": 154,
+  "additions": [
+   {
+    "story_id": "BA:group:2401",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\GROUP\\BLUE_ARCHIVE_GROUP_2401_2402_DEEP_READING.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\GROUP\\CLUB_014_001\\EPISODE_001_2401.md",
+    "source_bytes": 9677,
+    "source_sha256": "943dc36ef153f276a805866b72593826ba031c77bc2bb9acc48df019998b4813",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:group:2401:scene:001:choice:001",
+      "line": 84,
+      "header_instances": 8
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:group:2402",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\GROUP\\BLUE_ARCHIVE_GROUP_2401_2402_DEEP_READING.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\GROUP\\CLUB_014_001\\EPISODE_002_2402.md",
+    "source_bytes": 12810,
+    "source_sha256": "f195f4ffcd652abe27a4e070c60192fd5b4ef2eed9b530dfa23111993aa61b2c",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:group:2402:scene:001:choice:001",
+      "line": 332,
+      "header_instances": 3
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:group:2403",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\GROUP\\BLUE_ARCHIVE_GROUP_2403_2404_DEEP_READING.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\GROUP\\CLUB_014_001\\EPISODE_003_2403.md",
+    "source_bytes": 18410,
+    "source_sha256": "04be1f8df114a566d50d9edd1303e32c3c5d6c10c88143343fee2c429759e470",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:group:2403:scene:002:choice:001",
+      "line": 124,
+      "header_instances": 13
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:group:2404",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\GROUP\\BLUE_ARCHIVE_GROUP_2403_2404_DEEP_READING.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\GROUP\\CLUB_014_001\\EPISODE_004_2404.md",
+    "source_bytes": 19536,
+    "source_sha256": "3e2be256f42313b987a33c6ef4e0e50c0dc4fb3b696f6be5c61f03617174c139",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:group:2404:scene:001:choice:001",
+      "line": 32,
+      "header_instances": 20
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:group:2601",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\GROUP\\BLUE_ARCHIVE_GROUP_2601_2602_DEEP_READING.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\GROUP\\CLUB_016_001\\EPISODE_001_2601.md",
+    "source_bytes": 17685,
+    "source_sha256": "5c561ef655cf4831d38de9f4a2b95e9e753fe78acd43568b6b537dc6a07d8149",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:group:2601:scene:002:choice:001",
+      "line": 222,
+      "header_instances": 5
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:group:2602",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\GROUP\\BLUE_ARCHIVE_GROUP_2601_2602_DEEP_READING.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\GROUP\\CLUB_016_001\\EPISODE_002_2602.md",
+    "source_bytes": 10778,
+    "source_sha256": "98b7e1e0074e079e4b783a80da88fa29bcd594941903ee88e1fc4a67d092034d",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:group:2602:scene:001:choice:001",
+      "line": 58,
+      "header_instances": 8
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:group:3202",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\GROUP\\BLUE_ARCHIVE_GROUP_3201_3202_DEEP_READING.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\GROUP\\CLUB_022_001\\EPISODE_002_3202.md",
+    "source_bytes": 9723,
+    "source_sha256": "36ba1627a2f8213a5d19649a38125f675a0118c59b6ff711cda83bea2b32b66a",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:group:3202:scene:001:choice:001",
+      "line": 303,
+      "header_instances": 2
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:group:3402",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\GROUP\\BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\GROUP\\CLUB_024_001\\EPISODE_002_3402.md",
+    "source_bytes": 13728,
+    "source_sha256": "ee245ed577f4b93a84dd3bb2f0f90019051859004310e71979b297c37c68a7c1",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:group:3402:scene:001:choice:001",
+      "line": 28,
+      "header_instances": 11
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:group:3403",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\GROUP\\BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\GROUP\\CLUB_024_001\\EPISODE_003_3403.md",
+    "source_bytes": 18123,
+    "source_sha256": "0f66c9e280bc7fa3af9165f07bfdc44a1af7de0ab6dfa9408297413acd185973",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:group:3403:scene:001:choice:001",
+      "line": 292,
+      "header_instances": 4
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:811:001",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_811\\BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_811\\EPISODE_001_10009010.md",
+    "source_bytes": 11458,
+    "source_sha256": "871e2fb638d615e48b7c25162f2c0632feae31642104704c5a47c05d23d74dc7",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:811:001:scene:001:choice:001",
+      "line": 30,
+      "header_instances": 11
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:811:002",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_811\\BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_811\\EPISODE_002_10009015.md",
+    "source_bytes": 6140,
+    "source_sha256": "fe78b8ac73c5d370c01de15c1a17f4af77607443cef820c6d84585bba9fbb1ef",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:811:002:scene:001:choice:001",
+      "line": 36,
+      "header_instances": 5
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:811:003",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_811\\BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_811\\EPISODE_003_10009020.md",
+    "source_bytes": 4099,
+    "source_sha256": "19b9832780bae5d01eb98b27cefd3be1d66e39ba70361b2c76411c9c1236cba6",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:811:003:scene:001:choice:001",
+      "line": 126,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:811:004",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_811\\BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_811\\EPISODE_004_10009025.md",
+    "source_bytes": 2326,
+    "source_sha256": "486ababa682677684d3b6637739194ab5baca43448bf7607476f8bb30b4f0b52",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:811:004:scene:001:choice:001",
+      "line": 28,
+      "header_instances": 4
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:811:005",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_811\\BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_811\\EPISODE_005_10009030.md",
+    "source_bytes": 2346,
+    "source_sha256": "d0bdeb3ff2f4ddd036bd1ecdb2898186557c8dd8f6dc526a9386cac07b49807e",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:811:005:scene:001:choice:001",
+      "line": 60,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:811:006",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_811\\BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_811\\EPISODE_006_10009035.md",
+    "source_bytes": 2122,
+    "source_sha256": "fd35a5efa354cab6f157fd4ae93f12ecc019104e20962981eedfd0f681f595c7",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:811:006:scene:001:choice:001",
+      "line": 32,
+      "header_instances": 4
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:811:007",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_811\\BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_811\\EPISODE_007_10009040.md",
+    "source_bytes": 2316,
+    "source_sha256": "121a27e55182007c8f65391953075015dbc7b644b64656b8ba12e57cda659588",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:811:007:scene:001:choice:001",
+      "line": 56,
+      "header_instances": 3
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:811:008",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_811\\BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_811\\EPISODE_008_10009045.md",
+    "source_bytes": 2795,
+    "source_sha256": "ffbbb56ddf41972fffe68868716de8424abab3f82104a8ff4a40ef80dba1a9eb",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:811:008:scene:001:choice:001",
+      "line": 28,
+      "header_instances": 4
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:811:009",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_811\\BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_811\\EPISODE_009_10009050.md",
+    "source_bytes": 9744,
+    "source_sha256": "9b15cf1e5fb84c17ccb5df6c50ce283693b6fc887a78d1f840ef9ec0d7cf42f4",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:811:009:scene:001:choice:001",
+      "line": 28,
+      "header_instances": 13
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:811:010",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_811\\BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_811\\EPISODE_010_10009055.md",
+    "source_bytes": 9668,
+    "source_sha256": "73b7ff03bd72e448b509edc974e10b1ee54ccf5726ca6159089926dd524f2a63",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:811:010:scene:001:choice:001",
+      "line": 120,
+      "header_instances": 9
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:811:012",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_811\\BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_811\\EPISODE_012_10009065.md",
+    "source_bytes": 18387,
+    "source_sha256": "ed3ad08e2ac7177ab073c21da9c68a0b27919e141b30dc77a19d26a215c57b0f",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:811:012:scene:001:choice:001",
+      "line": 60,
+      "header_instances": 22
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:813:001",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_813\\BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_813\\EPISODE_001_10011005.md",
+    "source_bytes": 16584,
+    "source_sha256": "4d42dbdfe6a275d23a2cb2de34de48f33685db421c92b29a5b4e54177097334c",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:813:001:scene:001:choice:001",
+      "line": 82,
+      "header_instances": 19
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:813:002",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_813\\BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_813\\EPISODE_002_10011010.md",
+    "source_bytes": 18517,
+    "source_sha256": "dbcc6963f0f4433fe9bc1b802736a8c5d3e52a58b0020bf34634dab4e85c3bb4",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:813:002:scene:001:choice:001",
+      "line": 36,
+      "header_instances": 20
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:813:003",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_813\\BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_813\\EPISODE_003_10011020.md",
+    "source_bytes": 4671,
+    "source_sha256": "c546bf02316e98395b968114eea28d91b25877612bcc374be0c52122b8a4ba0d",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:813:003:scene:001:choice:001",
+      "line": 26,
+      "header_instances": 4
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:813:004",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_813\\BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_813\\EPISODE_004_10011025.md",
+    "source_bytes": 8306,
+    "source_sha256": "8e56d63fe7c16ad33d99d42db83b2cd0ec5fe8f4ec50443e3842e45ac09b0d05",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:813:004:scene:001:choice:001",
+      "line": 36,
+      "header_instances": 11
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:813:005",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_813\\BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_813\\EPISODE_005_10011030.md",
+    "source_bytes": 18719,
+    "source_sha256": "540ec26621e0c3bbf507aedb128e715bf03afe6029e7f2978ff47c485b3eac50",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:813:005:scene:001:choice:001",
+      "line": 48,
+      "header_instances": 10
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:813:006",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_813\\BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_813\\EPISODE_006_10011035.md",
+    "source_bytes": 12417,
+    "source_sha256": "7e096ae95bfbbf23e431515e1600de20aedd457b835ee04e54547f3d6924aa22",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:813:006:scene:001:choice:001",
+      "line": 24,
+      "header_instances": 10
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:813:007",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_813\\BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_813\\EPISODE_007_10011040.md",
+    "source_bytes": 10872,
+    "source_sha256": "f89cfa31271dbf923a228885773dedfcb8f44b4a72de428067abc37ec3d42c55",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:813:007:scene:001:choice:001",
+      "line": 220,
+      "header_instances": 4
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:813:008",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_813\\BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_813\\EPISODE_008_10011045.md",
+    "source_bytes": 2553,
+    "source_sha256": "a3c5afe446465a205b63c9c489e4057f583bf0f41f6bbba9e3d136f109b8c194",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:813:008:scene:001:choice:001",
+      "line": 52,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:813:009",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_813\\BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_813\\EPISODE_009_10011050.md",
+    "source_bytes": 11789,
+    "source_sha256": "edddfa42d6db9702e5dae6b37ac0dcc3ed06779621713033aeb41551eb5819ee",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:813:009:scene:001:choice:001",
+      "line": 92,
+      "header_instances": 6
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:813:010",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_813\\BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_813\\EPISODE_010_10011055.md",
+    "source_bytes": 2556,
+    "source_sha256": "bcc7c1cce375f922a5b2167f983cf632eaf43bc84907ba22e6400766d40eddf1",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:813:010:scene:001:choice:001",
+      "line": 76,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:813:011",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_813\\BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_813\\EPISODE_011_10011060.md",
+    "source_bytes": 12039,
+    "source_sha256": "4bc047ef983492ae4e4eb1684550fd0e7082c2e9500689088e28a08365693b13",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:813:011:scene:001:choice:001",
+      "line": 72,
+      "header_instances": 9
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:813:012",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_813\\BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_813\\EPISODE_012_10011065.md",
+    "source_bytes": 3565,
+    "source_sha256": "bd054281116f2daebb1ce1fd91417c76ecf23f77262e2f10086e649147628021",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:813:012:scene:001:choice:001",
+      "line": 44,
+      "header_instances": 2
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:813:013",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_813\\BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_813\\EPISODE_013_10011070.md",
+    "source_bytes": 18083,
+    "source_sha256": "b5a8a00328e9740cee011973ed6c8d98cb7e86f27bd81b2ea1cfb4da1e98c80f",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:813:013:scene:001:choice:001",
+      "line": 40,
+      "header_instances": 16
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:813:014",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_813\\BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_813\\EPISODE_014_10011075.md",
+    "source_bytes": 3379,
+    "source_sha256": "d914a50ede532367a152b2fc84c84fd2c3f314fdc66878c14fcb4f37a89b1ac2",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:813:014:scene:001:choice:001",
+      "line": 68,
+      "header_instances": 2
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:813:015",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_813\\BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_813\\EPISODE_015_10011080.md",
+    "source_bytes": 6823,
+    "source_sha256": "de6a27a18d52d5efc7edf4db2c06e97f629c65c534dc487969b4b304b321de1c",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:813:015:scene:001:choice:001",
+      "line": 220,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:813:016",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_813\\BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_813\\EPISODE_016_10011085.md",
+    "source_bytes": 5544,
+    "source_sha256": "d873d38a7685cf16fa9cdbe83eb6607d69cb6c743f69eddee9e83c6cf3e1c56b",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:813:016:scene:001:choice:001",
+      "line": 156,
+      "header_instances": 2
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:813:017",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_813\\BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_813\\EPISODE_017_10011090.md",
+    "source_bytes": 4623,
+    "source_sha256": "5ffd649f3143cf47ba9dccf0c51bf842d9777d8f37c21ba6d62a96c03b468751",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:813:017:scene:001:choice:001",
+      "line": 120,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:813:018",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_813\\BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_813\\EPISODE_018_10011095.md",
+    "source_bytes": 9426,
+    "source_sha256": "657639a7f631962d5beb022a1acc0cfe4f6d2d2498f784f116e675069a83c0c8",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:813:018:scene:001:choice:001",
+      "line": 44,
+      "header_instances": 4
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:813:019",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_813\\BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_813\\EPISODE_019_10011105.md",
+    "source_bytes": 16227,
+    "source_sha256": "1f12261e77aefd89306002a1534fcf5f4b211b91ebf565e5bf946e95173843ac",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:813:019:scene:001:choice:001",
+      "line": 140,
+      "header_instances": 18
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:815:001",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_815\\BLUE_ARCHIVE_EVENT_815_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_815\\EPISODE_001_10013005.md",
+    "source_bytes": 19775,
+    "source_sha256": "40896fc0509fa90c06b234f1f4ac161769ec52b237e18e14b1473c33efed666f",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:815:001:scene:001:choice:001",
+      "line": 24,
+      "header_instances": 28
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:815:002",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_815\\BLUE_ARCHIVE_EVENT_815_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_815\\EPISODE_002_10013010.md",
+    "source_bytes": 23503,
+    "source_sha256": "79ad51d1f7ade84c38753deb49373c288c0c871964891c5df5f3e05d03d8fffa",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:815:002:scene:001:choice:001",
+      "line": 48,
+      "header_instances": 15
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:815:003",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_815\\BLUE_ARCHIVE_EVENT_815_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_815\\EPISODE_003_10013020.md",
+    "source_bytes": 13864,
+    "source_sha256": "d6bc41476bc20016da7c2b0a8592685896a0ceea84d39c84e4d8cdd7ecde510d",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:815:003:scene:001:choice:001",
+      "line": 36,
+      "header_instances": 14
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:815:004",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_815\\BLUE_ARCHIVE_EVENT_815_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_815\\EPISODE_004_10013030.md",
+    "source_bytes": 14961,
+    "source_sha256": "17f86a83a1accc7861283de12427edc7c185965d87b583d5940390f7993d23f8",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:815:004:scene:001:choice:001",
+      "line": 61,
+      "header_instances": 15
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:815:005",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_815\\BLUE_ARCHIVE_EVENT_815_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_815\\EPISODE_005_10013035.md",
+    "source_bytes": 14466,
+    "source_sha256": "1dee3852f63f8b8e72659c0a2b46bc2e00a5a9619e3926461974ef551c2097e1",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:815:005:scene:001:choice:001",
+      "line": 52,
+      "header_instances": 8
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:815:006",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_815\\BLUE_ARCHIVE_EVENT_815_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_815\\EPISODE_006_10013040.md",
+    "source_bytes": 3384,
+    "source_sha256": "bb16d24de6b28e550a0dd13ce5bdfd9d5db668e5b1e6e1b8b91928ff009597f0",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:815:006:scene:001:choice:001",
+      "line": 32,
+      "header_instances": 6
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:815:007",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_815\\BLUE_ARCHIVE_EVENT_815_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_815\\EPISODE_007_10013050.md",
+    "source_bytes": 16275,
+    "source_sha256": "50c03bca6875e5efd69af05d9e4373861c081440071e2dcb1ce962f51b8778f6",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:815:007:scene:001:choice:001",
+      "line": 49,
+      "header_instances": 13
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:815:008",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_815\\BLUE_ARCHIVE_EVENT_815_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_815\\EPISODE_008_10013055.md",
+    "source_bytes": 15679,
+    "source_sha256": "1939a9c5638485d566af89d042965f1dcbdd293d54bb7c38d3c3be4cfedad5ee",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:815:008:scene:001:choice:001",
+      "line": 145,
+      "header_instances": 6
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:815:009",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_815\\BLUE_ARCHIVE_EVENT_815_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_815\\EPISODE_009_10013060.md",
+    "source_bytes": 12706,
+    "source_sha256": "a2794b692a1cdfda5497ec7070c41c4570fe2350bf77a9a4aad76025107777ad",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:815:009:scene:001:choice:001",
+      "line": 25,
+      "header_instances": 10
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:815:010",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_815\\BLUE_ARCHIVE_EVENT_815_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_815\\EPISODE_010_10013065.md",
+    "source_bytes": 7512,
+    "source_sha256": "6ee43a8b92791cdab8d0785f220db67aea946600af6abb7150a8b43475441e24",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:815:010:scene:001:choice:001",
+      "line": 44,
+      "header_instances": 5
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:815:011",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_815\\BLUE_ARCHIVE_EVENT_815_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_815\\EPISODE_011_10013070.md",
+    "source_bytes": 6452,
+    "source_sha256": "bdfec0a89689af746bdbdc6efe946e6d5de025149bae46fc8cbb028371cde56f",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:815:011:scene:001:choice:001",
+      "line": 24,
+      "header_instances": 8
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:815:012",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_815\\BLUE_ARCHIVE_EVENT_815_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_815\\EPISODE_012_10013080.md",
+    "source_bytes": 20159,
+    "source_sha256": "b093b06efec9874af9f2df3385ace2481336dd568de1a4a857bdf26ed8a44c3d",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:815:012:scene:001:choice:001",
+      "line": 44,
+      "header_instances": 13
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:815:013",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_815\\BLUE_ARCHIVE_EVENT_815_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_815\\EPISODE_013_10013090.md",
+    "source_bytes": 28046,
+    "source_sha256": "08e9e46051eff5e1352fb7198f3e99ca85b7b93682a72c037a8d6a98956e2f0c",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:815:013:scene:001:choice:001",
+      "line": 52,
+      "header_instances": 25
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:826:001",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_826\\BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_826\\EPISODE_001_10024005.md",
+    "source_bytes": 11646,
+    "source_sha256": "4c7f5472d7ee5f928766bb920bf27554025507d48bd057fd90996deef2ce38f8",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:826:001:scene:001:choice:001",
+      "line": 40,
+      "header_instances": 12
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:826:002",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_826\\BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_826\\EPISODE_002_10024010.md",
+    "source_bytes": 20907,
+    "source_sha256": "87095a90fa2fd5784ec8cce6693b132ff6c38a52d74204cfda11031fd9499af7",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:826:002:scene:001:choice:001",
+      "line": 44,
+      "header_instances": 14
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:826:003",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_826\\BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_826\\EPISODE_003_10024020.md",
+    "source_bytes": 16619,
+    "source_sha256": "cdbd0adc8e0d89b641e3baf8afad0567a2339b9ac767c19f183e5da7afb3e7c2",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:826:003:scene:001:choice:001",
+      "line": 79,
+      "header_instances": 9
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:826:004",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_826\\BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_826\\EPISODE_004_10024025.md",
+    "source_bytes": 3089,
+    "source_sha256": "756fe6518372da428ae98bfeb7908bc71f53423acd911a2e3252dbd7c443f0f2",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:826:004:scene:001:choice:001",
+      "line": 69,
+      "header_instances": 2
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:826:005",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_826\\BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_826\\EPISODE_005_10024030.md",
+    "source_bytes": 15338,
+    "source_sha256": "b253102e11d369b8405feac5ad0b2e37ed83096e5b4d90d9c75c8d12b87d033b",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:826:005:scene:001:choice:001",
+      "line": 79,
+      "header_instances": 12
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:826:006",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_826\\BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_826\\EPISODE_006_10024040.md",
+    "source_bytes": 5088,
+    "source_sha256": "09cd08b5f3e4d2b30783701a5f34310d002b852a372b4349c194fc63564ecc64",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:826:006:scene:001:choice:001",
+      "line": 26,
+      "header_instances": 3
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:826:007",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_826\\BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_826\\EPISODE_007_10024045.md",
+    "source_bytes": 11133,
+    "source_sha256": "010c69ae25c3aced05d80224ea0786d67f6a24ee846c20e687c4dacccfd86dd0",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:826:007:scene:001:choice:001",
+      "line": 44,
+      "header_instances": 7
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:826:008",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_826\\BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_826\\EPISODE_008_10024050.md",
+    "source_bytes": 13502,
+    "source_sha256": "6fcb8f63e1934a8a5f028f65fa3e19f3bd4fe99a9ff71d98d2edddb0d86151d3",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:826:008:scene:001:choice:001",
+      "line": 117,
+      "header_instances": 3
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:826:009",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_826\\BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_826\\EPISODE_009_10024060.md",
+    "source_bytes": 19351,
+    "source_sha256": "3ac67261c8652920408703da5197f0aae72d3568119f1180b2a2e0b3a499d6ee",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:826:009:scene:001:choice:001",
+      "line": 27,
+      "header_instances": 19
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:826:010",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_826\\BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_826\\EPISODE_010_10024070.md",
+    "source_bytes": 11786,
+    "source_sha256": "f93f7c55180d76bf19b15b6e3f10048ecdc4bc8e8c9b60383c3e11461729d4a8",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:826:010:scene:001:choice:001",
+      "line": 204,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:826:011",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_826\\BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_826\\EPISODE_011_10024080.md",
+    "source_bytes": 13615,
+    "source_sha256": "baf14759cd47f7bd7b551997683d5adf6443686a8b948e2cdf89d47727eec647",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:826:011:scene:001:choice:001",
+      "line": 48,
+      "header_instances": 4
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:826:012",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_826\\BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_826\\EPISODE_012_10024090.md",
+    "source_bytes": 10348,
+    "source_sha256": "bd0675e4421f6e5e2a08a89d21ae7145c0dd4c7ae687b9704f2e3f3d542dae53",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:826:012:scene:001:choice:001",
+      "line": 55,
+      "header_instances": 4
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:826:013",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_826\\BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_826\\EPISODE_013_10024100.md",
+    "source_bytes": 7695,
+    "source_sha256": "ba9814806e248ec39a4a8a6e887ea4d12927f0f9809b9722814b504c75eb4412",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:826:013:scene:001:choice:001",
+      "line": 169,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:835:002",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_835\\BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_835\\EPISODE_002_10033010.md",
+    "source_bytes": 22510,
+    "source_sha256": "e2b0a5fa5f8e301b498022bc59a0869599d05273ccc0904b83583f008dbedb46",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:835:002:scene:001:choice:001",
+      "line": 609,
+      "header_instances": 2
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:835:003",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_835\\BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_835\\EPISODE_003_10033020.md",
+    "source_bytes": 24737,
+    "source_sha256": "b8f3cb07978d6274035359caf60b16e2f669059def70cc7faf467d30c559cf2b",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:835:003:scene:001:choice:001",
+      "line": 242,
+      "header_instances": 14
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:835:004",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_835\\BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_835\\EPISODE_004_10033030.md",
+    "source_bytes": 14154,
+    "source_sha256": "76e311608f70994948dc01a8a3946132c1c43dfdad7e60bf26bf4e943b0d1402",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:835:004:scene:001:choice:001",
+      "line": 179,
+      "header_instances": 7
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:835:005",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_835\\BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_835\\EPISODE_005_10033040.md",
+    "source_bytes": 12407,
+    "source_sha256": "b1f7922fe591fd3467df73217a5d95920b4640f4aea472704e1affaefd3945eb",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:835:005:scene:001:choice:001",
+      "line": 130,
+      "header_instances": 4
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:835:007",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_835\\BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_835\\EPISODE_007_10033050.md",
+    "source_bytes": 9419,
+    "source_sha256": "1fba1a660e9c8908e04f7a408f05a5a35e5e3057ea9365ec09733e5a51740311",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:835:007:scene:001:choice:001",
+      "line": 67,
+      "header_instances": 3
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:835:009",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_835\\BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_835\\EPISODE_009_10033060.md",
+    "source_bytes": 11306,
+    "source_sha256": "c33b1e92efb40f6b60e155129879bf292a1cafefad94fe1ce28e062373891bea",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:835:009:scene:001:choice:001",
+      "line": 138,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:835:010",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_835\\BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_835\\EPISODE_010_10033065.md",
+    "source_bytes": 7122,
+    "source_sha256": "21b30a9cd6525dde31bc2d5605aec9a49101fa954630c52abb0a8c2758d3e246",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:835:010:scene:001:choice:001",
+      "line": 147,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:835:011",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_835\\BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_835\\EPISODE_011_10033070.md",
+    "source_bytes": 15040,
+    "source_sha256": "f754fcff5c0a0924a9e8bd289529b3f3cf8c0076d009ee4eafec88d59739ec25",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:835:011:scene:001:choice:001",
+      "line": 212,
+      "header_instances": 6
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:835:013",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_835\\BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_835\\EPISODE_013_10033090.md",
+    "source_bytes": 6774,
+    "source_sha256": "5f78feb787e8c9620fd2e679e9d6422f9a052c67ced4c916a2ab7ef0c9f886e4",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:835:013:scene:001:choice:001",
+      "line": 102,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:835:015",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_835\\BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_835\\EPISODE_015_10033100.md",
+    "source_bytes": 20652,
+    "source_sha256": "57a909c42792c3bb529bc8c099f231bd7015350de76c3f0a924a65ccfe26b46a",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:835:015:scene:001:choice:001",
+      "line": 151,
+      "header_instances": 6
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:835:016",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_835\\BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_835\\EPISODE_016_10033110.md",
+    "source_bytes": 15698,
+    "source_sha256": "9b1f3d6f1fca8065f168c4783096026a7804a670a718df1d339446761a219368",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:835:016:scene:001:choice:001",
+      "line": 34,
+      "header_instances": 9
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:840:001",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_840\\BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_840\\EPISODE_001_10038005.md",
+    "source_bytes": 19764,
+    "source_sha256": "1f5c1f7f6d8a74e31d0b3f43b6e6611a0756a42a5774f94d7fef3ca5d46093be",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:840:001:scene:001:choice:001",
+      "line": 273,
+      "header_instances": 10
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:840:002",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_840\\BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_840\\EPISODE_002_10038010.md",
+    "source_bytes": 26328,
+    "source_sha256": "662aab9549a4bd6f099a36edcac883bfbb885b0b56c7b4cbbf12f662184483af",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:840:002:scene:001:choice:001",
+      "line": 361,
+      "header_instances": 5
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:840:003",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_840\\BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_840\\EPISODE_003_10038020.md",
+    "source_bytes": 31882,
+    "source_sha256": "42fc1d29ae382e53dd5d42ed835bc62b5329f79f3d34547b1a81088cf08aacff",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:840:003:scene:001:choice:001",
+      "line": 24,
+      "header_instances": 14
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:840:004",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_840\\BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_840\\EPISODE_004_10038030.md",
+    "source_bytes": 22883,
+    "source_sha256": "c19d6132ca3d61a28b7c5e5bbf8e0652015d9ae26945869e595dba3e47d9b71e",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:840:004:scene:001:choice:001",
+      "line": 45,
+      "header_instances": 12
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:840:007",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_840\\BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_840\\EPISODE_007_10038050.md",
+    "source_bytes": 11222,
+    "source_sha256": "b629c2ec2e7390211ec556952f58b6c33c55457412ac32527e312c8a1573a28d",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:840:007:scene:001:choice:001",
+      "line": 161,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:840:008",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_840\\BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_840\\EPISODE_008_10038055.md",
+    "source_bytes": 9020,
+    "source_sha256": "6b6398afb25097ab4c52a8a78bb1c9bad0ce44052d42a19013004bb4e168393e",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:840:008:scene:001:choice:001",
+      "line": 269,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:840:009",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_840\\BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_840\\EPISODE_009_10038060.md",
+    "source_bytes": 28964,
+    "source_sha256": "cd53c4f78de0df0f2bfc916de794a6102741cfcf21a2b67050b96de940f8feef",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:840:009:scene:001:choice:001",
+      "line": 24,
+      "header_instances": 8
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:840:010",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_840\\BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_840\\EPISODE_010_10038070.md",
+    "source_bytes": 21674,
+    "source_sha256": "cc4046c6ba91ea46d45e618aeddf2c42b449405361ccafbd80cb2f80c0eb0cc9",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:840:010:scene:001:choice:001",
+      "line": 28,
+      "header_instances": 13
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:840:011",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_840\\BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_840\\EPISODE_011_10038080.md",
+    "source_bytes": 12647,
+    "source_sha256": "08e7101993e7bd121b53e621b8009acffbb0b80a5ef79fcde4fc8710b83f65b3",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:840:011:scene:001:choice:001",
+      "line": 206,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:840:015",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_840\\BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_840\\EPISODE_015_10038100.md",
+    "source_bytes": 12058,
+    "source_sha256": "9bd8a77b1f6c2c04e66933d8c9daea236744b9fdff7439d352149f5b6b3c9a69",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:840:015:scene:001:choice:001",
+      "line": 96,
+      "header_instances": 3
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:840:016",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_840\\BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_840\\EPISODE_016_10038105.md",
+    "source_bytes": 8941,
+    "source_sha256": "d8cfcbd09dd057a52b88eb97d8ac6e468a3f7c319ac479bcd98226931a9a6498",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:840:016:scene:001:choice:001",
+      "line": 125,
+      "header_instances": 6
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:847:002",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_847\\BLUE_ARCHIVE_EVENT_847_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_847\\EPISODE_002_10045010.md",
+    "source_bytes": 11047,
+    "source_sha256": "a3668b9ab6f7f90bb525376c629f269a9d3bcb3220848d738cd79ab44769f563",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:847:002:scene:001:choice:001",
+      "line": 95,
+      "header_instances": 4
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:847:005",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_847\\BLUE_ARCHIVE_EVENT_847_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_847\\EPISODE_005_10045030.md",
+    "source_bytes": 9519,
+    "source_sha256": "73af043c31e53e5a736d086a66570520ffe7c5a090192afa0921e82b406d62a2",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:847:005:scene:001:choice:001",
+      "line": 94,
+      "header_instances": 2
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:847:006",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_847\\BLUE_ARCHIVE_EVENT_847_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_847\\EPISODE_006_10045040.md",
+    "source_bytes": 16699,
+    "source_sha256": "b41c53d024302dc0edb8c883f55c1a323cb9cf2ef4671999878e19b6af1c099b",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:847:006:scene:001:choice:001",
+      "line": 487,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:847:007",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_847\\BLUE_ARCHIVE_EVENT_847_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_847\\EPISODE_007_10045050.md",
+    "source_bytes": 9338,
+    "source_sha256": "e78c6630b46ec33a31f45f71784a4c53585ec567213e86abefa2e70a550e44fa",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:847:007:scene:001:choice:001",
+      "line": 41,
+      "header_instances": 2
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:847:011",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_847\\BLUE_ARCHIVE_EVENT_847_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_847\\EPISODE_011_10045090.md",
+    "source_bytes": 14343,
+    "source_sha256": "e1858333f82f536875643ca54ab756b1567d5e43b63e3f83d768d6f1cbdeba1a",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:847:011:scene:001:choice:001",
+      "line": 61,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:847:012",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_847\\BLUE_ARCHIVE_EVENT_847_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_847\\EPISODE_012_10045100.md",
+    "source_bytes": 13976,
+    "source_sha256": "4622434fb5c2579b37ba0cbc35ea5af2dc78f960c4fdb19aa088cbe16d1ad4db",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:847:012:scene:001:choice:001",
+      "line": 387,
+      "header_instances": 2
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:847:013",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_847\\BLUE_ARCHIVE_EVENT_847_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_847\\EPISODE_013_10045105.md",
+    "source_bytes": 3574,
+    "source_sha256": "0a1e02af0e1044452f4b3eb192b6cb48505d013306afee928d2083ccbeb38d64",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:847:013:scene:001:choice:001",
+      "line": 107,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:847:014",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_847\\BLUE_ARCHIVE_EVENT_847_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_847\\EPISODE_014_10045110.md",
+    "source_bytes": 13335,
+    "source_sha256": "1a5b54f383ca17adb12185d93c5151f6b779f224b082a8d83695d908ccf2b7f5",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:847:014:scene:001:choice:001",
+      "line": 97,
+      "header_instances": 3
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:847:015",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_847\\BLUE_ARCHIVE_EVENT_847_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_847\\EPISODE_015_10045120.md",
+    "source_bytes": 8159,
+    "source_sha256": "46afb2cd1abf377b109bf351c97cb73a3afd9fcd36327a8ca5797b0dc2e55e94",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:847:015:scene:001:choice:001",
+      "line": 171,
+      "header_instances": 2
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:853:003",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_853\\BLUE_ARCHIVE_EVENT_853_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_853\\EPISODE_003_10051020.md",
+    "source_bytes": 20706,
+    "source_sha256": "1864563a8dde77174c028e15a145a8082bb730dee785bf0e8de31085121f50ba",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:853:003:scene:001:choice:001",
+      "line": 700,
+      "header_instances": 3
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:853:004",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_853\\BLUE_ARCHIVE_EVENT_853_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_853\\EPISODE_004_10051030.md",
+    "source_bytes": 14906,
+    "source_sha256": "210ac0f31309ad3a782c603ec9654fcdbc750b20704b247022201decd58c0c96",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:853:004:scene:001:choice:001",
+      "line": 43,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:853:005",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_853\\BLUE_ARCHIVE_EVENT_853_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_853\\EPISODE_005_10051040.md",
+    "source_bytes": 15948,
+    "source_sha256": "1152ed3e788c45b4c6ac0de2347ced8b9f43fb8aebd11955f8a5e93120bc3cb8",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:853:005:scene:001:choice:001",
+      "line": 54,
+      "header_instances": 7
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:853:006",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_853\\BLUE_ARCHIVE_EVENT_853_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_853\\EPISODE_006_10051045.md",
+    "source_bytes": 3498,
+    "source_sha256": "a13eb649b734fed15b22c6ea0cd83158ad3db779de1ca8c084238ff7b9ea4ef1",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:853:006:scene:001:choice:001",
+      "line": 37,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:853:007",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_853\\BLUE_ARCHIVE_EVENT_853_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_853\\EPISODE_007_10051050.md",
+    "source_bytes": 16706,
+    "source_sha256": "486848e0879a1ecb09f2c9994a596726ebe4d57ec43d656b79b56d3e2d5318be",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:853:007:scene:001:choice:001",
+      "line": 67,
+      "header_instances": 2
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:853:009",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_853\\BLUE_ARCHIVE_EVENT_853_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_853\\EPISODE_009_10051070.md",
+    "source_bytes": 19153,
+    "source_sha256": "3143ee8cace0e9832dbccc794082ebcd360829cf2ad667a6ec4d740c3479c5d6",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:853:009:scene:001:choice:001",
+      "line": 327,
+      "header_instances": 6
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:853:010",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_853\\BLUE_ARCHIVE_EVENT_853_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_853\\EPISODE_010_10051080.md",
+    "source_bytes": 17951,
+    "source_sha256": "3d3262420108848980a26beb6bfa2249159e7cf3b7934c6666a2e364322c8bb9",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:853:010:scene:003:choice:001",
+      "line": 368,
+      "header_instances": 2
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:853:011",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_853\\BLUE_ARCHIVE_EVENT_853_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_853\\EPISODE_011_10051090.md",
+    "source_bytes": 16876,
+    "source_sha256": "6c46b82de38f016c63b8a63fec1d3fa88394a050b661852f269c9aca4642f41a",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:853:011:scene:001:choice:001",
+      "line": 34,
+      "header_instances": 10
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:853:012",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_853\\BLUE_ARCHIVE_EVENT_853_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_853\\EPISODE_012_10051100.md",
+    "source_bytes": 20301,
+    "source_sha256": "094f8ff11fb62c95cf1a87be5d9b28350b7a98488d35407039cace1eec46ef5c",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:853:012:scene:001:choice:001",
+      "line": 683,
+      "header_instances": 2
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:853:013",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_853\\BLUE_ARCHIVE_EVENT_853_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_853\\EPISODE_013_10051110.md",
+    "source_bytes": 5748,
+    "source_sha256": "e9d951d52757977ae52cc2572bb8e3f0df512285b50f0f9de7a0bd5167952dc3",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:853:013:scene:003:choice:001",
+      "line": 133,
+      "header_instances": 3
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:859:001",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_859\\BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_859\\EPISODE_001_10054005.md",
+    "source_bytes": 11218,
+    "source_sha256": "dcd0a5dd8a0a058c7af60813c4365fe3641f7ca7210857384f8e97ae2759c1bf",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:859:001:scene:001:choice:001",
+      "line": 29,
+      "header_instances": 2
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:859:002",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_859\\BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_859\\EPISODE_002_10054010.md",
+    "source_bytes": 21042,
+    "source_sha256": "42af79f43957d6123bd93a1644bd3b1887ac5f3b5a6e7375439998df809da44f",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:859:002:scene:001:choice:001",
+      "line": 29,
+      "header_instances": 10
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:859:003",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_859\\BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_859\\EPISODE_003_10054020.md",
+    "source_bytes": 24519,
+    "source_sha256": "d0e7db6ce9132d846f2cc5a7e1af7dc0a0889eeca7f5710b380747f784b6e704",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:859:003:scene:001:choice:001",
+      "line": 240,
+      "header_instances": 5
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:859:004",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_859\\BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_859\\EPISODE_004_10054030.md",
+    "source_bytes": 12568,
+    "source_sha256": "8091f503841242ff428758b9f081b93d295d4ac21d4a8b31927d20f86ec2780e",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:859:004:scene:001:choice:001",
+      "line": 83,
+      "header_instances": 7
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:859:005",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_859\\BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_859\\EPISODE_005_10054040.md",
+    "source_bytes": 26345,
+    "source_sha256": "2eb94f0aae000c728d8425a0625bd50680e19880469320a35e65172e6a88f474",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:859:005:scene:001:choice:001",
+      "line": 178,
+      "header_instances": 5
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:859:006",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_859\\BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_859\\EPISODE_006_10054050.md",
+    "source_bytes": 22575,
+    "source_sha256": "f239e7d013084dbc31af1a5b1e148221a96473fd07eca1a8349a7f88490a4dbc",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:859:006:scene:001:choice:001",
+      "line": 367,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:859:007",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_859\\BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_859\\EPISODE_007_10054060.md",
+    "source_bytes": 17216,
+    "source_sha256": "e1ad412153ab1bdc3a4733edbfd6d8aa819b63d23322189d0435b6d5deb310cf",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:859:007:scene:001:choice:001",
+      "line": 36,
+      "header_instances": 7
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:859:009",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_859\\BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_859\\EPISODE_009_10054080.md",
+    "source_bytes": 19738,
+    "source_sha256": "348c9815958cbbfe45887f00792da6afff12cbb3a4348871fa4dc75a55288c5f",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:859:009:scene:001:choice:001",
+      "line": 32,
+      "header_instances": 15
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:859:013",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_859\\BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_859\\EPISODE_013_10054110.md",
+    "source_bytes": 19495,
+    "source_sha256": "577c3673fe1d749bcd4e20b3a87e4241f2e3162203a8c1ea51be649b657f7c26",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:859:013:scene:001:choice:001",
+      "line": 88,
+      "header_instances": 13
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:event:859:014",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_859\\BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\EVENT\\EVENT_859\\EPISODE_014_10054120.md",
+    "source_bytes": 5356,
+    "source_sha256": "cce3a3305127f19d9b7ccfd7db80eee984d1417146387fe765434963ddbfc067",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:859:014:scene:001:choice:001",
+      "line": 44,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:001",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_001.md",
+    "source_bytes": 9065,
+    "source_sha256": "1230b01a7284e7486bec0ee5798a29ade8ec471041ff6d78cce08b58290e6341",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:001:scene:002:choice:001",
+      "line": 212,
+      "header_instances": 3
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:002",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_002.md",
+    "source_bytes": 4710,
+    "source_sha256": "467e24ad19b01cbe635873cf6fcbd7dfa5f1b8be9209435ae1e581a845f7c053",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:002:scene:001:choice:001",
+      "line": 150,
+      "header_instances": 1
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:003",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_003.md",
+    "source_bytes": 14399,
+    "source_sha256": "69f2025baf4b25ec5333fa692587cacfa7d9fb92d14d280cfff72d5eb419710a",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:003:scene:001:choice:001",
+      "line": 58,
+      "header_instances": 9
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:004",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_004.md",
+    "source_bytes": 20347,
+    "source_sha256": "0a89d2916612dc0e8bb20232c7241ad4b50a03404da645c8e7a2e547385edc51",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:004:scene:001:choice:001",
+      "line": 38,
+      "header_instances": 19
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:005",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_005.md",
+    "source_bytes": 25084,
+    "source_sha256": "bf6e427cae20c6a7380413f968c1896f55f62daca91f9daee4050e4d388fdfc7",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:005:scene:001:choice:001",
+      "line": 29,
+      "header_instances": 14
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:006",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_006.md",
+    "source_bytes": 18080,
+    "source_sha256": "da88796d2699466cf155a51a091da9947e38034a3c539b369a4c6ebc4f84092f",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:006:scene:001:choice:001",
+      "line": 28,
+      "header_instances": 15
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:007",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_007.md",
+    "source_bytes": 21542,
+    "source_sha256": "f1e41d22ecf08eca8290448419e95450ff9cbf87115bfefb7ebe33f983e98fbd",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:007:scene:001:choice:001",
+      "line": 128,
+      "header_instances": 9
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:008",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_008.md",
+    "source_bytes": 13007,
+    "source_sha256": "5f510689c7c830e217ee83b658df9556bbf9908f3b569de998e27bfed5dc4536",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:008:scene:001:choice:001",
+      "line": 24,
+      "header_instances": 5
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:009",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_009.md",
+    "source_bytes": 22112,
+    "source_sha256": "17478a466386b1d3f2eb102510e806f2f4dee855cfb6c23be0b72be2a0ca4c2f",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:009:scene:001:choice:001",
+      "line": 86,
+      "header_instances": 10
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:010",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_010.md",
+    "source_bytes": 9507,
+    "source_sha256": "a719d0600d4607c3e6b2892bce7a9b0c25efdb68cfd3e15614d2d0513d2747b1",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:010:scene:001:choice:001",
+      "line": 89,
+      "header_instances": 4
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:011",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_011.md",
+    "source_bytes": 15839,
+    "source_sha256": "5880e9f3b2d808d0267ed569c6cd68b26cb16ddaaec7549840dc18cee470d9b7",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:011:scene:001:choice:001",
+      "line": 105,
+      "header_instances": 10
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:012",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_012.md",
+    "source_bytes": 19877,
+    "source_sha256": "2e1db4ad440cfcfaaf5a0fb4fa441aa053e38ac256da2a61829dd5da9a031b89",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:012:scene:001:choice:001",
+      "line": 32,
+      "header_instances": 7
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:013",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_013.md",
+    "source_bytes": 16074,
+    "source_sha256": "4ba0e6d4974caacf4a48e397ca0bfc6d129361f17dc83337c500bf5eb38abbea",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:013:scene:001:choice:001",
+      "line": 24,
+      "header_instances": 5
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:014",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_014.md",
+    "source_bytes": 22141,
+    "source_sha256": "0e2942b0ae90d834c4a6878f5c399ed5882c4c74e060055d3299318dece26ed9",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:014:scene:001:choice:001",
+      "line": 69,
+      "header_instances": 11
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:015",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_015.md",
+    "source_bytes": 19342,
+    "source_sha256": "5bae1ec7a725bd1d5629aaf5dbc8f47c9db54543cdeafffe82efce73cd8e8a64",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:015:scene:001:choice:001",
+      "line": 45,
+      "header_instances": 17
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:016",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_016.md",
+    "source_bytes": 13579,
+    "source_sha256": "d18e6a3535ffc99b7928598d14d7773b59d17d8d81ee0eac7b478d598ebd1e8c",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:016:scene:001:choice:001",
+      "line": 210,
+      "header_instances": 9
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:018",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_018.md",
+    "source_bytes": 15512,
+    "source_sha256": "b411217d5b5deda337abc77cbe6d72740eb7efb8c52251cdf1585a47d81cb722",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:018:scene:001:choice:001",
+      "line": 208,
+      "header_instances": 9
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:019",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_019.md",
+    "source_bytes": 27563,
+    "source_sha256": "30b7320c2ad779cd538f6a47dd917458f7b3c511719f961ccf0b0eeecfa3e005",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:019:scene:001:choice:001",
+      "line": 74,
+      "header_instances": 8
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:020",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_020.md",
+    "source_bytes": 21593,
+    "source_sha256": "d7fe5314d3ffc9868f073fbc4df4953200675371a9fe3887a3e474c12d412cd9",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:020:scene:001:choice:001",
+      "line": 37,
+      "header_instances": 7
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:021",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_021.md",
+    "source_bytes": 22055,
+    "source_sha256": "cafde01569d7f4b6d14bfa47ecc4815e27aa62647214abe89f7eb68f5cccde3a",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:021:scene:001:choice:001",
+      "line": 255,
+      "header_instances": 2
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:022",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_022.md",
+    "source_bytes": 17021,
+    "source_sha256": "7d8e99fca999d7ab848d33075517c1c074ef9b7665cd2fd56c55a378027a388f",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:022:scene:001:choice:001",
+      "line": 48,
+      "header_instances": 5
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:023",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_023.md",
+    "source_bytes": 19812,
+    "source_sha256": "e1e986a9580a4ba5c065ddbc75a0a8111a1ae91cdee8a1bd9bbd89a3ff1607dc",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:023:scene:001:choice:001",
+      "line": 41,
+      "header_instances": 5
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:024",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_024.md",
+    "source_bytes": 33706,
+    "source_sha256": "eb0fa49ef95412abc5b45caecb1647f1f8400ea89048a8dfda8bf4a0b38b1e84",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:024:scene:001:choice:001",
+      "line": 96,
+      "header_instances": 7
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:025",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_025.md",
+    "source_bytes": 10081,
+    "source_sha256": "308dad814f288fa4f8bfb20a30b1a17d91877404a49c0b0b219f49b94554c765",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:025:scene:001:choice:001",
+      "line": 37,
+      "header_instances": 11
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:001:026",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_001\\EPISODE_026.md",
+    "source_bytes": 23487,
+    "source_sha256": "8e48faf7618c11fba2f18b9fd02542578213cf0f84f8d0e2e44ca45b2c5faff5",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:001:026:scene:001:choice:001",
+      "line": 48,
+      "header_instances": 25
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:002:006",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_002\\EPISODE_006.md",
+    "source_bytes": 19966,
+    "source_sha256": "3409eec9bd9ceaef751bc624d7c1c259b1ee592719aae7430f45a84a9f468618",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:002:006:scene:001:choice:001",
+      "line": 49,
+      "header_instances": 14
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:002:007",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_002\\EPISODE_007.md",
+    "source_bytes": 30262,
+    "source_sha256": "d91e67a73f7a31028adc4cd4c6ebeaab1ba9ed0bd49305feebf2b54de5733a9b",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:002:007:scene:001:choice:001",
+      "line": 65,
+      "header_instances": 5
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:002:010",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_002\\EPISODE_010.md",
+    "source_bytes": 23681,
+    "source_sha256": "b94b82d4f20124a31db220a70cd611a54f8e86541195900b64ee9be86eaaf3c1",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:002:010:scene:001:choice:001",
+      "line": 410,
+      "header_instances": 6
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:002:011",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_002\\EPISODE_011.md",
+    "source_bytes": 18211,
+    "source_sha256": "a011dc6bd48a8bf39788abb8ed7017167983b6c1567ac89c3f9b49a05593fe0c",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:002:011:scene:001:choice:001",
+      "line": 123,
+      "header_instances": 4
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:002:012",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_002\\EPISODE_012.md",
+    "source_bytes": 16800,
+    "source_sha256": "1da722911cbdff0a58d4799fba0a7276976f2b51d5ab07092b60ecd1039d94e7",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:002:012:scene:001:choice:001",
+      "line": 67,
+      "header_instances": 5
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:002:013",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_002\\EPISODE_013.md",
+    "source_bytes": 11804,
+    "source_sha256": "249373941db62ff7d549178aeed2da970f05902b76c68eeaf14bd014edc6c4f0",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:002:013:scene:002:choice:001",
+      "line": 119,
+      "header_instances": 8
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:002:018",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_002\\EPISODE_018.md",
+    "source_bytes": 17709,
+    "source_sha256": "1ff618dd6d2ec4bf14bcd2857c91983f33e220055c6fd69c3bf241aa879e1870",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:002:018:scene:001:choice:001",
+      "line": 100,
+      "header_instances": 6
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:002:019",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_002\\EPISODE_019.md",
+    "source_bytes": 9818,
+    "source_sha256": "b74cff88a617041f84135804cc767421a803a073a34007776605447940aa5065",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:002:019:scene:001:choice:001",
+      "line": 116,
+      "header_instances": 2
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:002:020",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_002\\EPISODE_020.md",
+    "source_bytes": 17034,
+    "source_sha256": "0e563c6f9e22006345fe11bae68a0339037eeb4a9967e2f1558d87b4b7311fee",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:002:020:scene:001:choice:001",
+      "line": 37,
+      "header_instances": 3
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:002:024",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_002\\EPISODE_024.md",
+    "source_bytes": 22638,
+    "source_sha256": "ad0c3fb370e64295f6741a8cbd5a892e276f726a6c1a7ba2a3118d072dd2106e",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:002:024:scene:001:choice:001",
+      "line": 60,
+      "header_instances": 4
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:002:025",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_002\\EPISODE_025.md",
+    "source_bytes": 11620,
+    "source_sha256": "c3fe2dfd2b56202e1011f34187bca0c6377c31136307edc3565008385bc22ee8",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:002:025:scene:001:choice:001",
+      "line": 259,
+      "header_instances": 2
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:002:026",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_002\\EPISODE_026.md",
+    "source_bytes": 12109,
+    "source_sha256": "9da058a6a9aa2b5cadc33ad3f71ec0d9bb3012b0684c4772ebe764e3231fb2b2",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:002:026:scene:001:choice:001",
+      "line": 154,
+      "header_instances": 2
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   },
+   {
+    "story_id": "BA:main:005:002:028",
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MAIN\\VOLUME_005_百花繚乱編\\BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+    "source_path": "external-selected-corpus://BA_REFRESH_20260928T032248159554Z\\02_CANONICAL_STORIES\\MAIN\\VOLUME_005\\CHAPTER_002\\EPISODE_028.md",
+    "source_bytes": 24256,
+    "source_sha256": "f07ae37ebfb6f3ac6a9d7fef84be924c8862a0aeb88412d92562a5e216573fa1",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:main:005:002:028:scene:001:choice:001",
+      "line": 34,
+      "header_instances": 18
+     }
+    ],
+    "semantic_mode": "CHOICE_SOURCE_MODE_NOT_ALL_OPTIONS_ENACTED",
+    "new_primary_credit": 0
+   }
+  ],
+  "independent_people_added": 0,
+  "monograph_completions_added": 0,
+  "N_frozen": false
+ }
+}

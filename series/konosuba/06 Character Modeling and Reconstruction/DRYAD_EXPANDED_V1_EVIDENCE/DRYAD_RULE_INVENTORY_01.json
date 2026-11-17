@@ -1,0 +1,29 @@
+{
+  "schema": "konosuba.cohort44.dryad-rule-inventory.v1",
+  "subject": "Particular YORI02 U016 forest dryad",
+  "status": "active_provisional",
+  "source_known_same_informed_root": true,
+  "source_concentrated": true,
+  "source": "YORI-02 U016 complete390-P paragraph/ruby projection",
+  "rule_count": 1,
+  "rules": [
+    {
+      "id": "DRY-R01",
+      "status": "active_provisional",
+      "proposition": "When humans seek plants she treats as living dependents, provisionally make their continued life a practical bargaining boundary rather than treating the request as ordinary unconditioned food supply. When wanted magical water and provision from naturally expired plants form a workable arrangement, favor that negotiated route over an undifferentiated ban on all human plant food. This is a conditional local expectation; it does not require fair treatment of humans or predict successful future service.",
+      "support": "Aqua translates an objection to harvesting living wild vegetables and a threat against future gatherers at U016P232. The desired magic-rich water is stated through translation247. Fertilizer requests263–275 show resource seeking and unequal demands rather than a costless ecological sermon. After her vines help against deer324–325, she objects to the dangerous spell329–330 and becomes angry at tree damage369/372. The narrated settlement373–375 combines periodic water with naturally expired wild vegetables; the clerk accepts the special resolution and pays366–367. These phases support a qualified distinction between taking living dependents and an alternative provision route.",
+      "contrary": "The death threat232, infeasible photosynthesis/burial proposal238 and pressure after Darkness's refusal272–275 are adverse to an invariably gentle, fair or consent-respecting protector. Deer-boss conflict308 and the actual attack show limits on control. Kazuma's remote-weed explanation291–294/309 remains inference. The negotiation is reported after the blast; no later watering trip or vegetable handover is performed in the text. The exact Japanese voice and all raw-language meanings remain mediated.",
+      "rivals": "Generic protection of dependents; ordinary self-interested resource bargaining; a blanket anti-harvest rule with an unexamined comic exception; and an episode-specific reveal can all explain portions of the result. The current source does not isolate one causal mechanism or prove that this constraint will distinguish the character from every generic forest protector.",
+      "applies_when": "The scene explicitly establishes which plants she treats as dependents, whether the requested plants are living or naturally expired, what usable resources are available, and the human request. Any relevant conflict, damage, prior commitment or inability to communicate must remain explicit. A supplied viable water/dead-plant arrangement and a request to remove healthy living plants are different conditions; do not silently replace one with the other.",
+      "do_not_assume": "No unconditional human safety, universal plant representation, fixed price, automatic obedience, perfectly voluntary human contribution, completed future delivery, unlimited deer control, remote control of every weed, verified water history, exact native Japanese transcript or transparent inner monologue. No new power is invented to make the bargain succeed. A resource proposal is not accepted by every party merely because it is offered.",
+      "confidence": "Provisional and source-concentrated in one known episode. The support constrains a local generator but does not estimate prevalence, error rate or causal weights. Derivative repetition, technical audit success and source-known hypothetical bodies give no independent accuracy, confidence gain, capability grade or final-battery credit.",
+      "falsifier": "Adequate later canonical evidence under clearly supplied, comparable conditions would weaken this rule if she ignores the living-versus-naturally-expired distinction, consistently treats a workable agreed water/dead-plant route as forbidden solely because humans receive plant food, or readily permits taking her healthy dependents without a relevant changed condition. A simulation that ignores the distinction is an adverse model output, not new canon. Unknown conditions and explicit countervailing threats must be recorded rather than invented afterward to protect the rule."
+    }
+  ],
+  "independent_observation_count": null,
+  "no_accuracy_grade_or_confidence_gain": true,
+  "full_program_complete": false,
+  "authorship_phase": "Foundation authored before any exact scenario input or original first; later review/freeze is recorded by separate immutable receipts.",
+  "prior_draft_sha256": "28f778d5a8ee8aebcaf261c77be5434e2aedc02ae863a01d34dfd362b65ed3a5",
+  "metadata_successor_only": true
+}

@@ -1,0 +1,1031 @@
+{
+ "public_derivative_provenance": {
+  "current_required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+  "current_ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+  "historical_status_rule": "Original pending/proposed/count fields below retain their dated witness scope. ROOT V3 accepts the preserved responsibilities with ten original operations, one duplicate absorption and five legacy-tracker allocations. Historical V2 N353/26 remains immutable; current required successor is355/29.",
+  "source_translation_rule": "Repository-relative, external-selected-corpus and immutable-local-custody references replace machine paths. Exact frozen byte/hash/blob tuples bind original payloads; these translated files have separately bound derivative tuples. Private witnesses are not publicly served.",
+  "written_source_qualification": "Written Japanese admitted pin a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; literal raw actor/locale/choice/report and conditional written modes retain original qualifications. No performed audiovisual receiving is claimed.",
+  "credit_rule": "Mechanical translation supplies zero new primary, performance, analytical-argument receiving or completed literary package credit.",
+  "original_input_reference": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_CANONICAL_HOME_PARTITION_PROPOSAL_V1/NEW_NAMED_AND_NONHUMAN_QUESTION_RESPONSIBILITIES.json",
+  "original_frozen_binding": {
+   "bytes": 58545,
+   "sha256": "d0481642b00c33724eef68dbd8f3c7a030f75487e9e8ee8104de7c693ecfef4f",
+   "git_blob_sha1": "905b5ef18a213f60c8155464c30305d5d1e03fc9"
+  }
+ },
+ "historical_payload": {
+  "scope": {
+   "state": "C_ONLY_SEMANTIC_PARTITION_PROPOSAL_ROOT_RECEIVING_AND_ADOPTION_PENDING",
+   "N_frozen": false,
+   "monograph_completion_credit_added": 0,
+   "primary_narrative_credit_added": 0,
+   "percentage_or_quarter_claimed": false,
+   "repository_writes": false,
+   "historical_source_baseline": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+   "reported_current_publication": "dc5ae72fb4841b90ff09fd53d8ba4b0ce0cf4193",
+   "reported_current_candidate_sha256": "f8ce1729205b02498c1981b0cd67943b80bd873d3b4aa83698325863223f9523"
+  },
+  "records": [
+   {
+    "lane": "MILLENNIUM_V1",
+    "field": "new_candidate_headers",
+    "complete_original_questions": [
+     {
+      "candidate_unit_id": "P3-XMI-I001",
+      "kind": "INSTITUTION",
+      "subject": "Veritas: information freedom and answerable access",
+      "decision": "ELIGIBLE_INSTITUTION_PACKAGE",
+      "root_adoption": "ELIGIBILITY_OR_BOUNDED_COVERAGE_ACCEPTED_WITH_LIMITS",
+      "basis": "Complete G150, E832, four Veritas private normal owners and V002; distinct mandate/access/discipline/recipient argument"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-R001",
+      "kind": "RELATIONSHIP",
+      "subject": "Sumire ↔ baseball Rei: chosen aim and disputed means",
+      "decision": "ELIGIBLE_SOURCE_LOCAL_RELATIONSHIP_PACKAGE",
+      "root_adoption": "ELIGIBILITY_OR_BOUNDED_COVERAGE_ACCEPTED_WITH_LIMITS",
+      "basis": "Complete G330, SUMI, REIB and E832; requested expertise, reciprocal instruction/pleasure, actual limits and disputed stopping"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-I002",
+      "kind": "INSTITUTION",
+      "subject": "Millennium authority, resources and personhood",
+      "decision": "PENDING_FULL_COHORT_AND_PUBLIC_OWNER_REVIEW",
+      "root_adoption": "RECEIVED_AS_PENDING_DISTINCT_ARGUMENT_OR_ALLOCATION"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-R002",
+      "kind": "RELATIONSHIP",
+      "subject": "Himari ↔ Eimi",
+      "decision": "PENDING_COMPLETE_DIRECTED_PEER_ARGUMENT",
+      "root_adoption": "RECEIVED_AS_PENDING_DISTINCT_ARGUMENT_OR_ALLOCATION"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-E001",
+      "kind": "ENSEMBLE",
+      "subject": "Veritas plural game/art/rest repertoire",
+      "decision": "PENDING_DISTINCT_PACKAGE_ALLOCATION",
+      "root_adoption": "RECEIVED_AS_PENDING_DISTINCT_ARGUMENT_OR_ALLOCATION"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-I003",
+      "kind": "INSTITUTION",
+      "subject": "Training Club / baseball institutions and recipient limits",
+      "decision": "PENDING_DISTINCT_INSTITUTION_PACKAGE_REVIEW",
+      "root_adoption": "RECEIVED_AS_PENDING_DISTINCT_ARGUMENT_OR_ALLOCATION"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-L001",
+      "kind": "SOURCE_LOCAL_ENSEMBLE_ROLE",
+      "subject": "EVENT832009 assembled news crew/crowd",
+      "decision": "REQUIRED_AUDIENCE_COVERAGE_IN_MAKI_OR_I001; INDEPENDENT_PACKAGE_PENDING",
+      "root_adoption": "ELIGIBILITY_OR_BOUNDED_COVERAGE_ACCEPTED_WITH_LIMITS",
+      "identity_limit": "Narrated collective reception, no guessed individual roster"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-L002",
+      "kind": "SOURCE_LOCAL_NONHUMAN_ROLE",
+      "subject": "EVENT832005–006 bear encounter",
+      "decision": "REQUIRED_BOUNDED_ROLE_COVERAGE_IN_R001; INDEPENDENT_PACKAGE_PENDING",
+      "root_adoption": "ELIGIBILITY_OR_BOUNDED_COVERAGE_ACCEPTED_WITH_LIMITS",
+      "identity_limit": "Do not relabel Rei growl anomalies or infer personhood"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-S001",
+      "kind": "SOURCE_LOCAL_SYSTEM_ROLE",
+      "subject": "Hare drone interlocutor23003:006/020",
+      "decision": "REQUIRED_BOUNDED_SYSTEM_ROLE_COVERAGE_IN_HARE; INDEPENDENT_CHARACTER_PENDING",
+      "root_adoption": "ELIGIBILITY_OR_BOUNDED_COVERAGE_ACCEPTED_WITH_LIMITS",
+      "identity_limit": "Machine desire/lie analysis is not omniscient; no cross-drone identity"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-S002",
+      "kind": "SOURCE_LOCAL_SYSTEM_ROLE",
+      "subject": "GROUP3301 robotic referee",
+      "decision": "REQUIRED_RULE_ROLE_COVERAGE_IN_REIB; INDEPENDENT_CHARACTER_PENDING",
+      "root_adoption": "ELIGIBILITY_OR_BOUNDED_COVERAGE_ACCEPTED_WITH_LIMITS",
+      "identity_limit": "Unjoined robotic rule role, not automatically human or self-aware person"
+     }
+    ],
+    "independent_or_section_home_decision": "ROOT_REQUIRED_SEMANTIC_REVIEW_NO_HEADER_OR_STAKES_FILTER",
+    "raw_person_join_added": false
+   },
+   {
+    "lane": "MILLENNIUM_V2",
+    "field": "new_noncharacter_and_actor_headers",
+    "complete_original_questions": [
+     {
+      "candidate_unit_id": "P3-XMI-I004",
+      "kind": "INSTITUTION",
+      "subject": "C&C: enjoyed service, procedural commitment and chosen occupation",
+      "decision": "ELIGIBLE_INSTITUTION_PACKAGE",
+      "root_adoption": "ELIGIBILITY_ACCEPTED_WITH_LIMITS",
+      "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section4",
+      "counting_limit": "ROOT must adjudicate distinct argument and existing-target overlap before denominator adoption"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-I005",
+      "kind": "INSTITUTION",
+      "subject": "Engineering Club: pleasurable invention and recipient responsibility",
+      "decision": "ELIGIBLE_INSTITUTION_PACKAGE",
+      "root_adoption": "ELIGIBILITY_ACCEPTED_WITH_LIMITS",
+      "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section4",
+      "counting_limit": "ROOT must adjudicate distinct argument and existing-target overlap before denominator adoption"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-I006",
+      "kind": "INSTITUTION",
+      "subject": "Game Development: home, chosen participation and distributed making",
+      "decision": "ELIGIBLE_INSTITUTION_PACKAGE",
+      "root_adoption": "ELIGIBILITY_ACCEPTED_WITH_LIMITS",
+      "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section4",
+      "counting_limit": "ROOT must adjudicate distinct argument and existing-target overlap before denominator adoption"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-I007",
+      "kind": "INSTITUTION",
+      "subject": "Seminar: finite resources, selective standards and information burdens",
+      "decision": "ELIGIBLE_INSTITUTION_PACKAGE",
+      "root_adoption": "ELIGIBILITY_ACCEPTED_WITH_LIMITS",
+      "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section4",
+      "counting_limit": "ROOT must adjudicate distinct argument and existing-target overlap before denominator adoption"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-R003",
+      "kind": "DIRECTED_RELATIONSHIP",
+      "subject": "Toki ↔ Game Development: chosen affiliation and responsibility",
+      "decision": "ELIGIBLE_DIRECTED_RELATIONSHIP_PACKAGE",
+      "root_adoption": "ELIGIBILITY_ACCEPTED_WITH_LIMITS",
+      "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section4",
+      "counting_limit": "ROOT must adjudicate distinct argument and existing-target overlap before denominator adoption"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-R004",
+      "kind": "DIRECTED_RELATIONSHIP",
+      "subject": "Momoi ↔ Midori: generosity, imitation, confidence and rivalry",
+      "decision": "ELIGIBLE_DIRECTED_RELATIONSHIP_PACKAGE",
+      "root_adoption": "ELIGIBILITY_ACCEPTED_WITH_LIMITS",
+      "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section4",
+      "counting_limit": "ROOT must adjudicate distinct argument and existing-target overlap before denominator adoption"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-R005",
+      "kind": "DIRECTED_RELATIONSHIP",
+      "subject": "Noa ↔ Yuuka: affection, dependence and selective disclosure",
+      "decision": "ELIGIBLE_DIRECTED_RELATIONSHIP_PACKAGE",
+      "root_adoption": "ELIGIBILITY_ACCEPTED_WITH_LIMITS",
+      "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section4",
+      "counting_limit": "ROOT must adjudicate distinct argument and existing-target overlap before denominator adoption"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-R006",
+      "kind": "DIRECTED_RELATIONSHIP",
+      "subject": "Kei ↔ Game Development labor/critique",
+      "decision": "PENDING_DISTINCT_PACKAGE_ALLOCATION",
+      "root_adoption": "MANDATORY_PENDING_ARGUMENT_OR_ALLOCATION_RECEIVED",
+      "mandatory_debt": "Preserve actual bounded role coverage; inspect full positive related owners and identity/argument before monograph or independent-package verdict",
+      "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md sections4-5",
+      "counting_limit": "No new person count, global identity join or package denominator entry"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-R007",
+      "kind": "DIRECTED_RELATIONSHIP",
+      "subject": "Yuuka ↔ C&C fiscal/occupation conversion",
+      "decision": "PENDING_DISTINCT_PACKAGE_ALLOCATION",
+      "root_adoption": "MANDATORY_PENDING_ARGUMENT_OR_ALLOCATION_RECEIVED",
+      "mandatory_debt": "Preserve actual bounded role coverage; inspect full positive related owners and identity/argument before monograph or independent-package verdict",
+      "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md sections4-5",
+      "counting_limit": "No new person count, global identity join or package denominator entry"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-R008",
+      "kind": "DIRECTED_RELATIONSHIP",
+      "subject": "Akane ↔ Neru appearance/boundary negotiation",
+      "decision": "PENDING_DISTINCT_PACKAGE_SUFFICIENCY",
+      "root_adoption": "MANDATORY_PENDING_ARGUMENT_OR_ALLOCATION_RECEIVED",
+      "mandatory_debt": "Preserve actual bounded role coverage; inspect full positive related owners and identity/argument before monograph or independent-package verdict",
+      "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md sections4-5",
+      "counting_limit": "No new person count, global identity join or package denominator entry"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-I008",
+      "kind": "INSTITUTION",
+      "subject": "Art access, ownership claims and aesthetic gatekeeping",
+      "decision": "PENDING_COMPLETE_RELATED_OWNER_REVIEW",
+      "root_adoption": "MANDATORY_PENDING_ARGUMENT_OR_ALLOCATION_RECEIVED",
+      "mandatory_debt": "Preserve actual bounded role coverage; inspect full positive related owners and identity/argument before monograph or independent-package verdict",
+      "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md sections4-5",
+      "counting_limit": "No new person count, global identity join or package denominator entry"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-N001",
+      "kind": "NAMED_SOURCE_LOCAL_ACTOR",
+      "subject": "Akira / 清澄アキラ, EVENT825",
+      "decision": "PENDING_FULL_CAST_SEMANTIC_ELIGIBILITY_REVIEW",
+      "root_adoption": "MANDATORY_PENDING_ARGUMENT_OR_ALLOCATION_RECEIVED",
+      "mandatory_debt": "Preserve actual bounded role coverage; inspect full positive related owners and identity/argument before monograph or independent-package verdict",
+      "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md sections4-5",
+      "counting_limit": "No new person count, global identity join or package denominator entry"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-N002",
+      "kind": "NAMED_SOURCE_LOCAL_ACTOR",
+      "subject": "Doda Meitaro, EVENT825",
+      "decision": "PENDING_FULL_CAST_SEMANTIC_ELIGIBILITY_REVIEW",
+      "root_adoption": "MANDATORY_PENDING_ARGUMENT_OR_ALLOCATION_RECEIVED",
+      "mandatory_debt": "Preserve actual bounded role coverage; inspect full positive related owners and identity/argument before monograph or independent-package verdict",
+      "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md sections4-5",
+      "counting_limit": "No new person count, global identity join or package denominator entry"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-L003",
+      "kind": "LOCAL_ROLE_COHORT",
+      "subject": "EVENT825 gamers, bounded local identities",
+      "decision": "PENDING_FULL_CAST_SEMANTIC_ELIGIBILITY_REVIEW",
+      "root_adoption": "MANDATORY_PENDING_ARGUMENT_OR_ALLOCATION_RECEIVED",
+      "mandatory_debt": "Preserve actual bounded role coverage; inspect full positive related owners and identity/argument before monograph or independent-package verdict",
+      "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md sections4-5",
+      "counting_limit": "No new person count, global identity join or package denominator entry"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-L004",
+      "kind": "LOCAL_ROLE_COHORT",
+      "subject": "EVENT825 guests and chef, bounded local identities",
+      "decision": "PENDING_FULL_CAST_SEMANTIC_ELIGIBILITY_REVIEW",
+      "root_adoption": "MANDATORY_PENDING_ARGUMENT_OR_ALLOCATION_RECEIVED",
+      "mandatory_debt": "Preserve actual bounded role coverage; inspect full positive related owners and identity/argument before monograph or independent-package verdict",
+      "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md sections4-5",
+      "counting_limit": "No new person count, global identity join or package denominator entry"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-L005",
+      "kind": "LOCAL_ROLE_COHORT",
+      "subject": "EVENT825 security roles, bounded local identities",
+      "decision": "PENDING_FULL_CAST_SEMANTIC_ELIGIBILITY_REVIEW",
+      "root_adoption": "MANDATORY_PENDING_ARGUMENT_OR_ALLOCATION_RECEIVED",
+      "mandatory_debt": "Preserve actual bounded role coverage; inspect full positive related owners and identity/argument before monograph or independent-package verdict",
+      "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md sections4-5",
+      "counting_limit": "No new person count, global identity join or package denominator entry"
+     },
+     {
+      "candidate_unit_id": "P3-XMI-S003",
+      "kind": "SOURCE_OUTPUT_ROLE",
+      "subject": "GROUP3103 future observation device / 讖",
+      "decision": "PENDING_AGENCY_AND_INDEPENDENT_PACKAGE_REVIEW",
+      "root_adoption": "MANDATORY_PENDING_ARGUMENT_OR_ALLOCATION_RECEIVED",
+      "mandatory_debt": "Preserve actual bounded role coverage; inspect full positive related owners and identity/argument before monograph or independent-package verdict",
+      "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md sections4-5",
+      "counting_limit": "No new person count, global identity join or package denominator entry"
+     }
+    ],
+    "independent_or_section_home_decision": "ROOT_REQUIRED_SEMANTIC_REVIEW_NO_HEADER_OR_STAKES_FILTER",
+    "raw_person_join_added": false
+   },
+   {
+    "lane": "TRINITY_V2",
+    "field": "new_bounded_headers",
+    "complete_original_questions": [
+     {
+      "proposal_responsibility_id": "P3-XTV2-836-N001",
+      "encountered_actor_or_mode": "Tsumugi, named source-local artist",
+      "required_meaning_and_boundaries": "S11:162/178/186/247/255; help, artistic view, difficult score and stage persona. No invented playable/person alias. Independent eligibility PENDING.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-851-N001",
+      "encountered_actor_or_mode": "Mirai, named source-local merchant",
+      "required_meaning_and_boundaries": "S12:135–145/157–185; bogus products, doctor advice, resistance and continued marketing; no clinical cure/reform or typed join. Independent eligibility PENDING.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-G190-C001",
+      "encountered_actor_or_mode": "風紀委員たち, GROUP1901 collective",
+      "required_meaning_and_boundaries": "Full S09 roster47; food debate/report layer. Keep distinct from A399 singular role; collective membership is not another named biography.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-G180-S001",
+      "encountered_actor_or_mode": "？？？ laughter, GROUP1801",
+      "required_meaning_and_boundaries": "Full S08:43/84; contextual association with Tsurugi entrance, exact boundaries unassigned; no new person.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-G200-S001",
+      "encountered_actor_or_mode": "Unassigned pastry-shooting attribution",
+      "required_meaning_and_boundaries": "S07 whole queue argument; record actual destructive scene and uncertainty, not invented shooter identity. Source/agency duty, not an actor count.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-816-C001",
+      "encountered_actor_or_mode": "スケバンたち, E011 collective",
+      "required_meaning_and_boundaries": "S10:103/111/139; protective withdrawal encounter group, not extra individuals or forced E005/010/014 joins.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-816-C002",
+      "encountered_actor_or_mode": "放課後スイーツ部 collective reaction",
+      "required_meaning_and_boundaries": "S10:103 E006u0073/E015u0051; retain collective mode without duplicating four people or unanimous motives.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-816-S001",
+      "encountered_actor_or_mode": "？？？ E008u0012–0013 role-play voices",
+      "required_meaning_and_boundaries": "S10:105; source-local performance unknown, not two new biographies.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-816-S002",
+      "encountered_actor_or_mode": "？？？ E010u0028 arrival voice",
+      "required_meaning_and_boundaries": "S10:105; unresolved delinquent arrival, no forced A/B join.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-848-L001",
+      "encountered_actor_or_mode": "Tea Party junior, E029 descriptive role",
+      "required_meaning_and_boundaries": "S13:1633–1649; initial confidence in Nagisa and actual offered help; raw literal label extraction PENDING, no obedient-follower flattening.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-848-L002",
+      "encountered_actor_or_mode": "Tea Party senior, E029 descriptive role",
+      "required_meaning_and_boundaries": "Same complete episode; criticism of field knowledge and offered work; no verified all-office ignorance or solved staffing.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-848-L003",
+      "encountered_actor_or_mode": "Justice junior, E030 descriptive role",
+      "required_meaning_and_boundaries": "S13:1651–1667; courage, perceived small strength, expressly wanted help and departure. No name, performed heroism or completed patrol.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-851-L001",
+      "encountered_actor_or_mode": "Sukeban opponents, E002 descriptive bucket",
+      "required_meaning_and_boundaries": "S12:115/127; accusation/memories, not a legal finding or the JabJab group. Full literal roster PENDING.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-851-L002",
+      "encountered_actor_or_mode": "JabJab/Love members, bounded descriptive bucket",
+      "required_meaning_and_boundaries": "S12:125–147; work/play/confession/correction/meal differences and actor drift. No global Helmet-group join; full labels PENDING.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-851-L003",
+      "encountered_actor_or_mode": "Stage manager, E004–005 descriptive role",
+      "required_meaning_and_boundaries": "S12:119–121; uncertain roster and actual recruitment/audience function; no valid cast registration. Literal extraction PENDING.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-851-L004",
+      "encountered_actor_or_mode": "Park children, E003 and stage audience buckets",
+      "required_meaning_and_boundaries": "S12:117/121–139; broken balloon/popcorn, crying, false victory and uninformed armed-show assistance. No cross-episode identity or child-B multiplication; full labels PENDING.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-851-L005",
+      "encountered_actor_or_mode": "Anonymous backup crew in E016 phone report",
+      "required_meaning_and_boundaries": "S12:147; train disruption and loss of promised backup, not newly proved named staff or actual recovered support.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-851-L006",
+      "encountered_actor_or_mode": "Passenger in E016 phone report",
+      "required_meaning_and_boundaries": "S12:147; Highlander accusation is attributed, not verified named school member/variant.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-851-L007",
+      "encountered_actor_or_mode": "Cleaning worker, mentioned recipient E014",
+      "required_meaning_and_boundaries": "S12:143/159; spill/litter work stake even without appearance; interrupted disposal not actual compliance.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-851-S001",
+      "encountered_actor_or_mode": "Unknown source form0 E017u0068",
+      "required_meaning_and_boundaries": "S12:149/165; preserve representation channel without inventing a speaker/person.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-PRIVATE-L001",
+      "encountered_actor_or_mode": "Ui's unnamed cleaned-book member",
+      "required_meaning_and_boundaries": "S05:379; actual report without Shimiko join; library material/communication responsibility.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-PRIVATE-L002",
+      "encountered_actor_or_mode": "Ui's dear unnamed members/juniors",
+      "required_meaning_and_boundaries": "S05:387/397; affection and pressure to go out are distinct; no named membership inferred.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-PRIVATE-L003",
+      "encountered_actor_or_mode": "Shimiko's noisy visitor",
+      "required_meaning_and_boundaries": "S05:415–423; affected recipient of enforcement, literal actor seams and unknown injury/learning outcomes; no fabricated repaired map.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-PRIVATE-L004",
+      "encountered_actor_or_mode": "Suzumi's phone students and clerk/customer",
+      "required_meaning_and_boundaries": "S04:371–373; speculative hostile intent versus actual force/distress. Distinct encounters stay descriptive pending full literal extraction.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-PRIVATE-L005",
+      "encountered_actor_or_mode": "Reisa's drone owner and kite child",
+      "required_meaning_and_boundaries": "S04:445–447; actual object rescue and thanks, actor seam; drone is not a cat and two owners not merged.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-PRIVATE-L006",
+      "encountered_actor_or_mode": "Ichika's balloon child and surf coach",
+      "required_meaning_and_boundaries": "S04:473–481; practical help/competing vocation proposal, distinct recipients, no full biography or trophy win.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-PRIVATE-N001",
+      "encountered_actor_or_mode": "Love's six ducklings",
+      "required_meaning_and_boundaries": "S06:125–134; actual rescued nonhuman collective at qualified narration mode; no six independent human/agent packages.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     },
+     {
+      "proposal_responsibility_id": "P3-XTV2-PRIVATE-N002",
+      "encountered_actor_or_mode": "Yoshimi's reported instructor robot",
+      "required_meaning_and_boundaries": "S01:446–476; apparent illness/absence is written report, not confirmed diagnosis or newly inspected technical system.",
+      "decision": "NEW_BOUNDED_RESPONSIBILITY_HEADER_PROPOSAL",
+      "adoption_state": "ROOT_PENDING",
+      "required_coverage": true,
+      "independent_monograph_eligibility": "PENDING_DISTINCT_ARGUMENT",
+      "literal_label_completion": "as stated in row; descriptive buckets retain pending exact extraction",
+      "actual_people_agents_or_packages_in_bucket": null,
+      "no_forced_identity_join": true
+     }
+    ],
+    "independent_or_section_home_decision": "ROOT_REQUIRED_SEMANTIC_REVIEW_NO_HEADER_OR_STAKES_FILTER",
+    "raw_person_join_added": false
+   },
+   {
+    "lane": "GEHENNA",
+    "field": "new_named_or_named_role_questions",
+    "complete_original_questions": [
+     {
+      "literal_header": "ツバサ",
+      "positive_sources": [
+       "BA:event:856:003::ツバサ",
+       "BA:event:856:004::ツバサ",
+       "BA:event:856:005::ツバサ",
+       "BA:event:856:006::ツバサ",
+       "BA:event:856:007::ツバサ",
+       "BA:event:856:008::ツバサ",
+       "BA:event:856:009::ツバサ",
+       "BA:event:856:010::ツバサ",
+       "BA:event:856:011::ツバサ",
+       "BA:event:856:012::ツバサ",
+       "BA:event:856:013::ツバサ"
+      ],
+      "recommended_action": "ADD_VISIBLE_SOURCE_LOCAL_CANDIDATE_QUESTION_ROOT_ID_PENDING",
+      "argument": "Desired company and negative-result inquiry coexist with preferred alien/conspiracy explanations; former club/reunion supplies a distinct thesis, eleven-section feasibility needs ROOT integration with other positive routes.",
+      "independent_package_decision": "PENDING_ROOT_FULL_OWNER_ADJUDICATION"
+     },
+     {
+      "literal_header": "ミライ",
+      "positive_sources": [
+       "BA:event:856:010::ミライ",
+       "BA:event:856:011::ミライ",
+       "BA:event:856:012::ミライ",
+       "BA:event:856:013::ミライ"
+      ],
+      "recommended_action": "ADD_VISIBLE_SOURCE_LOCAL_CANDIDATE_QUESTION_ROOT_ID_PENDING",
+      "argument": "Actual meat pleasure, private eating inconvenience, former-chief dignity and wanted contact coexist with fraud allegations and secret nonarrest; independent argument positive, global identity and full owner union unresolved.",
+      "independent_package_decision": "PENDING_ROOT_FULL_OWNER_ADJUDICATION"
+     },
+     {
+      "literal_header": "ミスズ",
+      "positive_sources": [
+       "BA:event:856:015::ミスズ"
+      ],
+      "recommended_action": "ADD_VISIBLE_SOURCE_LOCAL_CANDIDATE_QUESTION_ROOT_ID_PENDING",
+      "argument": "Coda correctional-role address and printed label drift are consequential institutional-processing evidence; do not join Kanna/Misuzu or invent a completed prison outcome.",
+      "independent_package_decision": "PENDING_ROOT_FULL_OWNER_ADJUDICATION"
+     },
+     {
+      "literal_header": "ツムギ",
+      "positive_sources": [
+       "BA:event:856:013::ツムギ"
+      ],
+      "recommended_action": "ADD_VISIBLE_SOURCE_LOCAL_CANDIDATE_QUESTION_ROOT_ID_PENDING",
+      "argument": "Literal roommate header in856013 must remain in Rena privacy/forced-membership account; full identity and independent argument require ROOT review, no sparse-evidence exclusion.",
+      "independent_package_decision": "PENDING_ROOT_FULL_OWNER_ADJUDICATION"
+     },
+     {
+      "literal_header": "リガトーニ",
+      "positive_sources": [
+       "BA:mini:70013010::リガトーニ",
+       "BA:mini:70013030::リガトーニ",
+       "BA:mini:70013040::リガトーニ"
+      ],
+      "recommended_action": "ADD_VISIBLE_SOURCE_LOCAL_CANDIDATE_QUESTION_ROOT_ID_PENDING",
+      "argument": "PS68 hostage/exaction claims, actual rescue/arrest and incomplete conviction/repair warrant a named antagonistic-role responsibility; independent package judgment cannot be made from header count.",
+      "independent_package_decision": "PENDING_ROOT_FULL_OWNER_ADJUDICATION"
+     },
+     {
+      "literal_header": "演算科学研究部長",
+      "positive_sources": [
+       "BA:mini:70010010::演算科学研究部長",
+       "BA:mini:70010020::演算科学研究部長"
+      ],
+      "recommended_action": "ADD_VISIBLE_SOURCE_LOCAL_CANDIDATE_QUESTION_ROOT_ID_PENDING",
+      "argument": "Maker/presenter who resolves to reduce performance is a positive authorial/institutional role; do not discard for anonymity or equate with an unverified named Millennium person.",
+      "independent_package_decision": "PENDING_ROOT_FULL_OWNER_ADJUDICATION"
+     }
+    ],
+    "independent_or_section_home_decision": "ROOT_REQUIRED_SEMANTIC_REVIEW_NO_HEADER_OR_STAKES_FILTER",
+    "raw_person_join_added": false
+   },
+   {
+    "lane": "GEHENNA",
+    "field": "non_speaking_positive_role_questions",
+    "complete_original_questions": [
+     {
+      "role": "Hazardous leisure robot EVENT837",
+      "home": "Engineering maker responsibility/Valkyrie recipient-safety institution",
+      "limit": "Actual represented cause/stop and responsibility promise; no independent sentient-person ontology or completed damage payment."
+     },
+     {
+      "role": "Moving food GROUP1602",
+      "home": "School Lunch institutional hospitality/evaluation",
+      "limit": "Moving/attacking representation and Juri selfhood interpretation differ; no ontological person promotion."
+     },
+     {
+      "role": "Statue/watcher and anonymous social intervention EVENT856",
+      "home": "Shared inquiry and police-discretion ensemble",
+      "limit": "Human rumor confession does not solve statue/phone/window; Himari anonymous-identity implication remains unbound."
+     },
+     {
+      "role": "Haruka cultivated/flowering weed MINI130",
+      "home": "Haruka monograph and PS68 recognition/belonging ensemble",
+      "limit": "Actually flowering cared-for object; botanical explanation is Aru claim and office transplant only proposed."
+     },
+     {
+      "role": "Former broadcaster and anonymous letters MINI120",
+      "home": "Kirara↔Erika audience/another-student-place ensemble",
+      "limit": "Absence, written recipient preference and proposed advice matter; no identified Junko, cured loneliness or actual returning host."
+     }
+    ],
+    "independent_or_section_home_decision": "ROOT_REQUIRED_SEMANTIC_REVIEW_NO_HEADER_OR_STAKES_FILTER",
+    "raw_person_join_added": false
+   },
+   {
+    "lane": "HYS",
+    "field": "non_speaking_positive_roles",
+    "complete_original_questions": [
+     {
+      "role": "V005 physically returned sleeping Ayame and separate historical miko",
+      "home": "Nagusa→Ayame and Hyakka institutional identity/repair",
+      "limit": "No awake assent, identity merger, clinical awakening or transfer instrument."
+     },
+     {
+      "role": "V005 books/Hitotsume/Kurokage/katashiro",
+      "home": "Hyakka/Onmyou representation and institutional source-efficacy",
+      "limit": "Different story/object/alias grades; no universal ontology, count or mechanism."
+     },
+     {
+      "role": "Private Nezusuke",
+      "home": "Saya recipient/Alchemy responsibility",
+      "limit": "Actual dosing/care/representation, no inferred motives or nonhuman person ontology."
+     },
+     {
+      "role": "Private unknown doll and requested safekeeping",
+      "home": "Umika ordinary collecting/recipient choice",
+      "limit": "Unknown first character/pair meaning; no accepted ownership transfer."
+     },
+     {
+      "role": "853 camera/dress/film and815 commercial papers",
+      "home": "Ninja/industry/Festival institutional craft/property",
+      "limit": "Actual repair or represented gift differs from uninspected pixels/contracts/financial settlement."
+     }
+    ],
+    "independent_or_section_home_decision": "ROOT_REQUIRED_SEMANTIC_REVIEW_NO_HEADER_OR_STAKES_FILTER",
+    "raw_person_join_added": false
+   },
+   {
+    "lane": "RESIDUAL26",
+    "field": "explicit_new_named_questions",
+    "complete_original_questions": [
+     "Tsumugi",
+     "Hiromi",
+     "Milia local Guard/thief role with Akira narrative overlap",
+     "mediated Manami",
+     "Sayuri",
+     "Makina",
+     "Nanami",
+     "Lana"
+    ],
+    "independent_or_section_home_decision": "ROOT_REQUIRED_SEMANTIC_REVIEW_NO_HEADER_OR_STAKES_FILTER",
+    "raw_person_join_added": false
+   },
+   {
+    "lane": "RESIDUAL26",
+    "field": "further_literal_named_overlap_questions",
+    "complete_original_questions": [
+     "Akemi",
+     "Ayumu",
+     "Arata",
+     "Arona",
+     "Sumomo",
+     "Sora",
+     "Tsubasa",
+     "Heine",
+     "Misuzu",
+     "Mirai",
+     "Rigatoni",
+     "Descartes"
+    ],
+    "independent_or_section_home_decision": "ROOT_REQUIRED_SEMANTIC_REVIEW_NO_HEADER_OR_STAKES_FILTER",
+    "raw_person_join_added": false
+   },
+   {
+    "lane": "RESIDUAL26",
+    "field": "non_speaking_roles",
+    "complete_original_questions": [
+     {
+      "role": "Moe’s3 conflicted written costume declarations",
+      "duty": "Required source-form section with NO_SECURE_MOE_PERSON_DELTA; no automatic reassignment."
+     },
+     {
+      "role": "Kotone’s unnamed radio friend and confiscated bug",
+      "duty": "Actual reply reported through friend; no Kotama join or global listening entitlement."
+     },
+     {
+      "role": "Miku’s unnamed hacker and rewritten controls",
+      "duty": "Unauthorized act, no undo in scope; identity and system ontology unproved."
+     },
+     {
+      "role": "V004 device and secured warhead",
+      "duty": "Securing/threat interruption is not final disposal or legal sentence."
+     },
+     {
+      "role": "861 anonymous diver/rescuer and whales",
+      "duty": "Initial encounter clusters and agency boundaries retained; later named aid does not fill every actor."
+     }
+    ],
+    "independent_or_section_home_decision": "ROOT_REQUIRED_SEMANTIC_REVIEW_NO_HEADER_OR_STAKES_FILTER",
+    "raw_person_join_added": false
+   },
+   {
+    "lane": "MAIN_SPECIAL",
+    "field": "local_roles",
+    "complete_original_questions": [
+     {
+      "candidate_unit_id": "P3-A179",
+      "label": "Missing federal council president (dream role actor)",
+      "home_keys": "V000 S2V000 S2V001 V100",
+      "disposition": "Separate remembered president, dream girl and present claimant. The accepted story/dream/letter/QED role argument does not authenticate continuity. Preserve in the GSC/Arona Plana identity question; no second human monograph automatic."
+     },
+     {
+      "candidate_unit_id": "P3-A205",
+      "label": "Diving member A",
+      "home_keys": "S2V000",
+      "disposition": "Distinct local confidence, tolerance claim, attractive-shard interest and caution. Included P3-REL-DIVING-TEAM-ORDERS-CAUTION; no physiology/academy/other A merge."
+     },
+     {
+      "candidate_unit_id": "P3-A206",
+      "label": "Diving member B",
+      "home_keys": "S2V000",
+      "disposition": "Self-reported decompression, recovered shard description and when-assignment-ends question retained in diving ensemble. No material safety or other B join."
+     },
+     {
+      "candidate_unit_id": "P3-A207",
+      "label": "Diving member C",
+      "home_keys": "S2V000",
+      "disposition": "Skin concern retained in diving ensemble as own wanted avoidance; no actual injury/radiation cause or other C join."
+     },
+     {
+      "candidate_unit_id": "P3-A208",
+      "label": "Lamini street-food vendor",
+      "home_keys": "S2V001",
+      "disposition": "Actual local water outage report during Rin outing gives ordinary work cost in the GSC/Tower institution question. No invented global restoration/unknown vendor identity."
+     },
+     {
+      "candidate_unit_id": "P3-A263",
+      "label": "Chronos junior E002",
+      "home_keys": "S2V003",
+      "disposition": "Rare interview valued with Mai; named home E002 complete argument. Included Chronos relationship/role appendix; not Mai/Maia/all junior identity."
+     },
+     {
+      "candidate_unit_id": "P3-A283",
+      "label": "Cruise Operations member A E006",
+      "home_keys": "S2V003",
+      "disposition": "Distinct local care/duty argument in the full C001 chapter and S2V003 owner; include Odysseia ensemble with exact E006 role, not E002 docking/E003 complaint student."
+     },
+     {
+      "candidate_unit_id": "P3-A284",
+      "label": "Cruise Operations member B E006",
+      "home_keys": "S2V003",
+      "disposition": "Same chapter home but distinct B role/response; no all Cruise Operations one intention or voice."
+     },
+     {
+      "candidate_unit_id": "P3-A295",
+      "label": "Cruise Operations gift cook E009",
+      "home_keys": "S2V003",
+      "disposition": "Local gift/preparation value retained in Odysseia ordinary care; no automatic Mitsuki/other chef join or proof all yet-unprinted cooking/consumption."
+     },
+     {
+      "candidate_unit_id": "P3-A300",
+      "label": "Chronos breaking-news colleague E013",
+      "home_keys": "S2V003",
+      "disposition": "Urgent news role in the chapter; retain separate from E002 junior/Mai/Shinon. Include Chronos/last voyage context only at actual source grade."
+     },
+     {
+      "candidate_unit_id": "P3-A419",
+      "label": "Rei (baseball CH0245)",
+      "home_keys": "S2V000 MINI",
+      "disposition": "Positive baseball private family belongs its own census lane. Route query is NOT diver M030 join; inspect baseball private argument in own lane, not exclude or merge by shortレイ."
+     },
+     {
+      "candidate_unit_id": "P3-A514",
+      "label": "Kei EVENT80001 E141 unresolved source actor",
+      "home_keys": "LOVE10 KEI19",
+      "disposition": "Love 10 maintained negative endpoint refers to event-local Kei. Exact actor remains distinct from two-key present Kei/history. PENDING_SEMANTIC_REVIEW in own full Valentine roster lane; no identity or completion credit from same-name query."
+     }
+    ],
+    "independent_or_section_home_decision": "ROOT_REQUIRED_SEMANTIC_REVIEW_NO_HEADER_OR_STAKES_FILTER",
+    "raw_person_join_added": false
+   },
+   {
+    "lane": "ABYDOS_ARIUS",
+    "field": "additional_character_proposal",
+    "complete_original_questions": {
+     "literal_name": "亀島五郎",
+     "proposed_package": "P3-CHAR-KAMEJIMA-GORO-E809",
+     "verdict": "REQUIRE_INDEPENDENT_SOURCE_BOUNDED_CHARACTER_PACKAGE",
+     "identity_and_owner_union": "ROOT_PENDING",
+     "evidence": "BA:event:809:001–020 complete current owner",
+     "argument_section": "6.1",
+     "no_private_or_antagonist_exclusion": true
+    },
+    "independent_or_section_home_decision": "Positive source-scoped independent question, ROOT adoption pending"
+   },
+   {
+    "lane": "NEW_CURRENT_PUBLIC_OWNER_REVIEW",
+    "field": "source_scoped_named_questions",
+    "complete_original_questions": [
+     {
+      "original_question_key": "CURRENT_OWNER_ADDITION::P3-REL-UI-HINATA-BOOK-CARE-FINITE-HOSPITALITY",
+      "proposed_common_home": "P3-REL-UI-HINATA-BOOK-CARE-FINITE-HOSPITALITY",
+      "source_lane": "PERSONALLY_RECEIVED_CURRENT_PUBLIC_OWNER",
+      "source": "E812",
+      "literary_argument": "Wanted beautiful language, Ui finite book hospitality/taste, actual handoff and presentation; hidden method/copy-equivalence/treatment limits",
+      "partition_adoption": "ROOT_PENDING",
+      "denominator_entry_claimed": false
+     },
+     {
+      "original_question_key": "CURRENT_OWNER_ADDITION::P3-REL-MINE-HASUMI-CARE-ANSWERABILITY",
+      "proposed_common_home": "P3-REL-MINE-HASUMI-CARE-ANSWERABILITY",
+      "source_lane": "PERSONALLY_RECEIVED_CURRENT_PUBLIC_OWNER",
+      "source": "E819",
+      "literary_argument": "Useful care and actual subordinate choice coexist with premature force and refused repair-sacrifice liability",
+      "partition_adoption": "ROOT_PENDING",
+      "denominator_entry_claimed": false
+     },
+     {
+      "original_question_key": "CURRENT_OWNER_ADDITION::P3-REL-TSURUGI-MASHIRO-RELIEF-LEISURE",
+      "proposed_common_home": "P3-REL-TSURUGI-MASHIRO-RELIEF-LEISURE",
+      "source_lane": "PERSONALLY_RECEIVED_CURRENT_PUBLIC_OWNER",
+      "source": "E819",
+      "literary_argument": "Directed guarding/relief and particular desired leisure; no global common comfort",
+      "partition_adoption": "ROOT_PENDING",
+      "denominator_entry_claimed": false
+     },
+     {
+      "original_question_key": "CURRENT_OWNER_ADDITION::P3-INST-CULINARY-WORK-MERCHANTS-RECIPIENTS",
+      "proposed_common_home": "P3-INST-CULINARY-WORK-MERCHANTS-RECIPIENTS",
+      "source_lane": "PERSONALLY_RECEIVED_CURRENT_PUBLIC_OWNER",
+      "source": "E820",
+      "literary_argument": "Suzume work/self-blame/care, Kan profit/punishment, local wages, budgets, taste and incomplete fairness/repair",
+      "partition_adoption": "ROOT_PENDING",
+      "denominator_entry_claimed": false
+     },
+     {
+      "original_question_key": "CURRENT_OWNER_ADDITION::P3-CHAR-KAN-E820-SOURCE-SCOPED",
+      "proposed_common_home": "P3-CHAR-KAN-E820-SOURCE-SCOPED",
+      "source_lane": "PERSONALLY_RECEIVED_CURRENT_PUBLIC_OWNER",
+      "source": "E820",
+      "literary_argument": "Profit, extraction and punishment meet subordinate recipients and wanted commercial ends; no all-Kaiser identity join",
+      "partition_adoption": "ROOT_PENDING",
+      "denominator_entry_claimed": false
+     },
+     {
+      "original_question_key": "CURRENT_OWNER_ADDITION::P3-CHAR-NYAN-CHAIRMAN-E801-SOURCE-SCOPED",
+      "proposed_common_home": "P3-CHAR-NYAN-CHAIRMAN-E801-SOURCE-SCOPED",
+      "source_lane": "PERSONALLY_RECEIVED_CURRENT_PUBLIC_OWNER",
+      "source": "E801",
+      "literary_argument": "Within-packet explicitly bridged employer/Nyan/Nyate identities, labor extraction and failed direction; no E815/E820 chairman join",
+      "partition_adoption": "ROOT_PENDING",
+      "denominator_entry_claimed": false
+     },
+     {
+      "original_question_key": "CURRENT_OWNER_ADDITION::P3-INST-FINAL-DISTRIBUTED-TECHNICAL-COALITION",
+      "proposed_common_home": "P3-INST-FINAL-DISTRIBUTED-TECHNICAL-COALITION",
+      "source_lane": "PERSONALLY_RECEIVED_CURRENT_PUBLIC_OWNER",
+      "source": "E822/E854",
+      "literary_argument": "Actual brief contact/door opening and differentiated technical contributions/food/rest versus unknown capture/evacuation",
+      "partition_adoption": "ROOT_PENDING",
+      "denominator_entry_claimed": false
+     },
+     {
+      "original_question_key": "CURRENT_OWNER_ADDITION::P3-INST-PRIEST-COERCION-PARTICULAR-CHILD",
+      "proposed_common_home": "P3-INST-PRIEST-COERCION-PARTICULAR-CHILD",
+      "source_lane": "PERSONALLY_RECEIVED_CURRENT_PUBLIC_OWNER",
+      "source": "E823",
+      "literary_argument": "Compulsory cosmology against scarf warmth, cycling and specific child company; ontology remains attributed",
+      "partition_adoption": "ROOT_PENDING",
+      "denominator_entry_claimed": false
+     },
+     {
+      "original_question_key": "CURRENT_OWNER_ADDITION::P3-SECTION-GSC-CIVIC-RECOVERY-AYUMU-REQUEST",
+      "proposed_common_home": "P3-SECTION-GSC-CIVIC-RECOVERY-AYUMU-REQUEST",
+      "source_lane": "PERSONALLY_RECEIVED_CURRENT_PUBLIC_OWNER",
+      "source": "E824",
+      "literary_argument": "Ended incident does not mean recovered city; aid reported, Rin suspended, participation prospective",
+      "partition_adoption": "ROOT_PENDING",
+      "denominator_entry_claimed": false
+     },
+     {
+      "original_question_key": "CURRENT_OWNER_ADDITION::P3-REGISTER-PUBLIC-PERFORMANCE-AUDIENCE-SOURCE-FORMS",
+      "proposed_common_home": "P3-REGISTER-PUBLIC-PERFORMANCE-AUDIENCE-SOURCE-FORMS",
+      "source_lane": "PERSONALLY_RECEIVED_CURRENT_PUBLIC_OWNER",
+      "source": "E803/E804/E833",
+      "literary_argument": "Bomb personification, rhythm UI prologue and video/SNS mediated frames remain modes, not sentience/AV/later timeline",
+      "partition_adoption": "ROOT_PENDING",
+      "denominator_entry_claimed": false
+     }
+    ],
+    "independent_or_section_home_decision": "Actual literary thesis/contra scopes in main prose; full eleven-section writing and ROOT partition pending"
+   }
+  ],
+  "ordinary_collab_mediated_sparse_evidence_retained": true,
+  "cross_source_same_name_join": "Forbidden without consequential accepted identity argument"
+ }
+}

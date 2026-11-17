@@ -1,0 +1,88 @@
+{
+  "schema": "konosuba.secondary.first-output-annotations.v1",
+  "recorded_utc": "2026-10-20T21:15:11.223450+00:00",
+  "subject": "Soketto",
+  "source_known": true,
+  "same_informed_model_author_case_designer_output_author_assessor": true,
+  "foundation_seal_sha256": "05a6562c0f2e7e7a5cf9a37add927ceb126543de5bfe036847f5e57fb8bffd6f",
+  "input_file_sha256": "e5408674e0b6aba8c98534d078c7a9328aada69a35cd709b689889476d33de20",
+  "actual_outputs_sha256": "4f433575037e8a3a16f610cad79aad7a953e70c41689f64ccd2ca1fb21cbffb9",
+  "actual_first_body_freeze_sha256": "568da79a9624d832bade561abf3755af23cffe89be5de00e4f262e9664918d85",
+  "actual_first_count": 4,
+  "contrast_pairs_not_independent_trials": 2,
+  "cases": [
+    {
+      "case_id": "SK-H01-A",
+      "actual": "Gives Cedar name/time/place and explicitly withholds second timetable because she likes the possible outcome,despite hearing both-options request. Points to available notice; no registration or June assent occurs.",
+      "fidelity": "Supplied Cedar/time/front-desk facts retained; preference is belief rather than guaranteed future. Other notice remains present,so non-disclosure is not complete control of information or choice.",
+      "limits": "Explicit preference cue and direct conflict heavily cue a generic paternalistic/self-directed adviser. Polished acknowledgment of June autonomy cannot become a universal source ethic.",
+      "input_sha256": "940a82ab1000e9532f12eb0bf55817e3d8ee0bff9301eb86a6444cd4be71d253",
+      "body_sha256": "36b94081a5c8fff2df1ca2c1fdf81b0e6edab0fabadc61743de29b1dbdc91bbd",
+      "word_count": 100,
+      "regenerations": 0,
+      "repairs": 0
+    },
+    {
+      "case_id": "SK-H01-B",
+      "actual": "Turns both notices and supplies both correct names/times/places and registration option. Distinguishes checked availability from unknown group fit.",
+      "fidelity": "No new recipient action or completed choice. This neutral branch introduces broad client-choice language that is not evidence of a stable Soketto client-autonomy policy.",
+      "limits": "Fact availability supplied directly; ordinary accurate assistance is a strong rival. No actual future-reading mechanism is exercised.",
+      "input_sha256": "dd6b81b7089b75fef4c41ce0cb38ba676cf4911a7ea06960426818354b2c2302",
+      "body_sha256": "2c02f706e4cf45463f46a32959635ce4fc374e9f45ca42fb808ba6d43564be56",
+      "word_count": 95,
+      "regenerations": 0,
+      "repairs": 0
+    },
+    {
+      "case_id": "SK-H02-A",
+      "actual": "Provides the correct deadline before offering one five-minute consultation; states limits on following and future appointments. No completed five-minute service,trust restoration or performed reform shown.",
+      "fidelity": "Another explanation wording can suggest an unprovided earlier excuse; input supplies prior following/current apology,not an earlier explanation. Tomorrow appointment boundary is unasked,though it does not assert an actual appointment exists.",
+      "limits": "Apology plus commitment is a bundled cue; generic reasonable boundaries/professional reassurance viable. Very orderly limit-setting may reflect the informed author/realistic framing more than source-specific generation.",
+      "input_sha256": "4e09867e0dadcc097e4e847aae7be2a9a642251d36eb89ed5b41b32e56f42abf",
+      "body_sha256": "13393deb4c2d4739e5141e11c41aa5deea1760752829f3b529598aed5195d823",
+      "word_count": 98,
+      "regenerations": 0,
+      "repairs": 0
+    },
+    {
+      "case_id": "SK-H02-B",
+      "actual": "Refuses a five-minute consultation and rejects the justification but still supplies the same correct deadline. Does not provide a new physical attack or decide Tomas response.",
+      "fidelity": "Calling the request a favour is her framing; no fee or payment is established. The reply refuses broad future access without demonstrating a lasting policy.",
+      "limits": "Same practical deadline information as A. Difference is verbal service offer/refusal,not an observed consultation outcome or measured repair.",
+      "input_sha256": "300c90f76046c90b36ce4b6426c24a5665aa99c7075dcc1f1b98ea7110e374db",
+      "body_sha256": "1d8cc57e731ab54ff69e30fcaaa8f27d5ab2dbfa42d3ee418cb60109c58097d1",
+      "word_count": 100,
+      "regenerations": 0,
+      "repairs": 0
+    }
+  ],
+  "pair_observations": [
+    {
+      "pair_id": "SK-H01",
+      "observed": "Cedar-only disclosure in preference condition versus complete options in neutral condition.",
+      "limits": "Appraisal/preference compound is directly supplied and all prompts/designer contrasts are visible. No June choice or measured future outcome; generic paternalism and accurate assistance remain viable."
+    },
+    {
+      "pair_id": "SK-H02",
+      "observed": "Consultation offer versus refusal,but both immediately give deadline.",
+      "limits": "Explicit apology/commitment versus justification is not a clean isolation of remorse. Five-minute service and durable reform unperformed; basic factual-help endpoint shared."
+    }
+  ],
+  "mechanism_scope": {
+    "SK_R01": "Only supplied information/access constraint weakly engaged; no real divination,empty future result or demonstrated accuracy.",
+    "SK_R02": "Scripted disclosure contrast in strongly cued preference analogue; not independent mechanism identification.",
+    "SK_R03": "Narrow conditional service language; violence,own safety under actual danger and advice imposing costs on other people remain unprobed."
+  },
+  "unprovided_or_unasked_details_preserved": [
+    "SK-H02-A another explanation can imply an unprovided prior excuse; no invented prior event should be promoted as input fact.",
+    "SK-H02-A tomorrow appointment warning is not requested; it does not establish a real appointment."
+  ],
+  "all_actual_word_counts_within_requested_range": true,
+  "word_count_compliance_not_behavioral_validation": true,
+  "regenerations": 0,
+  "repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": 0,
+  "full_program_complete": false
+}

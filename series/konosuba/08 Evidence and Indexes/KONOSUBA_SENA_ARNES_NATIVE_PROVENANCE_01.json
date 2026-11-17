@@ -1,0 +1,786 @@
+{
+  "schema": "konosuba.secondary.sena-arnes.native-provenance.v1",
+  "created_utc": "2026-10-20T16:56:52.438165+00:00",
+  "status": "KNOWN_ACCEPTED_NATIVE_BASE_PREPARATION_NOT_INDEPENDENT_TEST",
+  "basis_published_source": "3ed7a3e59383fc701f72073619ec8a7b5d6c16f2",
+  "previous_gate_sha256": "e08db32bb0e31be1918366da57db213f9402e77178f1671e7d6f186ea9a654f4",
+  "primary_local_objects": [
+    {
+      "source": "EXP-02",
+      "native_filename": "Konosuba - Spin-off - Explosions - Volume 02.epub",
+      "native_bytes": 13672536,
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "admission_receipt": "NATIVE_ADMISSION.json",
+      "admission_private_directory": "exp02-local-v1",
+      "admission_sha256": "8e980e97636b77f7eec790ff9f38830f586b2a91a780fc9c07f5fab94f5440e3",
+      "current_component_register_path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V02_COMPONENT_REGISTER.json",
+      "current_component_register_sha256": "9d9bb676fe0fa9a813153993d1b2a2a1b196df103b2c8ee469763e1b77b3e2b8",
+      "new_admission_credit": 0
+    },
+    {
+      "source": "EXP-03",
+      "native_filename": "Konosuba - Spin-off - Explosions - Volume 03.epub",
+      "native_bytes": 15716486,
+      "native_sha256": "22ee64b90d10075eec3769137e07bd59ee1815e22eb14f552326e9f4a06ffd87",
+      "admission_receipt": "NATIVE_ADMISSION.json",
+      "admission_private_directory": "exp03-local-v1",
+      "admission_sha256": "7f8c4267abdeeadc3df0191b2e76911144b33c4931ac8ccf7f145ce085c88c53",
+      "current_component_register_path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V03_COMPONENT_REGISTER.json",
+      "current_component_register_sha256": "27a4589a38bfb63773448a7579e4236bf8f868636afa89bfded94bc9f3aad4e6",
+      "new_admission_credit": 0
+    },
+    {
+      "source": "MAIN-03",
+      "native_filename": "Konosuba - Main Series - Volume 03.epub",
+      "native_bytes": 3497582,
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+      "admission_receipt": "NATIVE_ADMISSION.json",
+      "admission_private_directory": "main03-excluded-local-v1",
+      "admission_sha256": "7ab195535b037a831d10377feba6144996291dc9cc5da56135328e1dffb1dff1",
+      "current_component_register_path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V03_EXCLUDED_COMPONENT_REGISTER.json",
+      "current_component_register_sha256": "8230a7b293c2817e3fedec2727d1657675353abc5692d335036cae6c447ba04b",
+      "new_admission_credit": 0
+    },
+    {
+      "source": "MAIN-04",
+      "native_filename": "Konosuba - Main Series - Volume 04.epub",
+      "native_bytes": 3907671,
+      "native_sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+      "admission_receipt": "NATIVE_ADMISSION.json",
+      "admission_private_directory": "main04-excluded-local-v1",
+      "admission_sha256": "fcb57c6be68440b882b67463db1c3364d05088ce6559e9bb43526815c58036f1",
+      "current_component_register_path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V04_EXCLUDED_COMPONENT_REGISTER.json",
+      "current_component_register_sha256": "0378a7648acf9b1caa4a061cc2c9cc8bb7979d2ca2161ab5f2a6d96d1da579a3",
+      "new_admission_credit": 0
+    }
+  ],
+  "current_principal_contract": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+    "bytes": 66302,
+    "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+    "members": 137
+  },
+  "principal_metadata_sha256": "298e376644c43263cfb40113d6904d45a1c00db3d75e49f22e40280ea6ca886d",
+  "reader_helpers": [
+    {
+      "file": "inspect_accepted_principal_native_numbers08.py",
+      "sha256": "05b86ae41e0d3659f5bda040a6920acdbb71816bfe3c1ce9aa8d161bd55d03ec"
+    },
+    {
+      "file": "inspect_accepted_explosions_native.py",
+      "sha256": "a1f54b1cf946c8b1c5670430504da1d7396093a8a12974b1ddc6798e1ca202f4"
+    }
+  ],
+  "receiving_receipts": [
+    {
+      "file": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_01.json",
+      "sha256": "1f8a312a807d4a95c9fcb7fbfba02158e538fddb5211191452e6af9abbc252c5"
+    },
+    {
+      "file": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_02.json",
+      "sha256": "633a9c3734ff0909ab3567ca80babeef8df7d6d4d2af0c1a97988293bfdca91c"
+    },
+    {
+      "file": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_03.json",
+      "sha256": "c03b703428382c8a6c8c00bc3eb7d823f8552c7d4391bbe53676cc2a97d69bd1"
+    },
+    {
+      "file": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_04.json",
+      "sha256": "e68c4195ce65b2243fce0df732da2065e40dbba53b3d9079bd6da805c233931d"
+    },
+    {
+      "file": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_05.json",
+      "sha256": "f89b6d190cd2e32d0f12edc6ac123ce32b52a0fe083f94a5cb1600cb0db9cc4b"
+    },
+    {
+      "file": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_06.json",
+      "sha256": "1d813f12369d3b835058c35674626a93629692f7c50f768068da163bb77bb8d1"
+    }
+  ],
+  "source_member_union": [
+    {
+      "source": "MAIN-03",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "1728703dabecef366b4c006c34bc25ad5873aaef574bf8c6676466e0e42cb5bd",
+      "actual_return_receipts": [
+        {
+          "receipt": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_01.json",
+          "sha256": "1f8a312a807d4a95c9fcb7fbfba02158e538fddb5211191452e6af9abbc252c5",
+          "windows": [
+            [
+              1,
+              80
+            ],
+            [
+              81,
+              160
+            ]
+          ],
+          "complete_tool_chunks": [
+            "bf4491",
+            "443324"
+          ]
+        },
+        {
+          "receipt": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_02.json",
+          "sha256": "633a9c3734ff0909ab3567ca80babeef8df7d6d4d2af0c1a97988293bfdca91c",
+          "windows": [
+            [
+              161,
+              200
+            ],
+            [
+              201,
+              240
+            ],
+            [
+              241,
+              300
+            ],
+            [
+              301,
+              360
+            ],
+            [
+              361,
+              420
+            ],
+            [
+              421,
+              460
+            ]
+          ],
+          "complete_tool_chunks": [
+            "76ae28",
+            "c16aad",
+            "7096ca",
+            "090d3e",
+            "bc6388",
+            "e026f7"
+          ]
+        }
+      ],
+      "known_BASE_windows": [
+        [
+          1,
+          460
+        ]
+      ],
+      "known_BASE_context_slots": 460,
+      "total_member_paragraph_slots": 460,
+      "complete_BASE_member_in_this_preparation": true
+    },
+    {
+      "source": "MAIN-03",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "9588683a5cc5aca25e550231ade83445a1e538f46ec2d3cce7c2a0b514cdbc9d",
+      "actual_return_receipts": [
+        {
+          "receipt": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_02.json",
+          "sha256": "633a9c3734ff0909ab3567ca80babeef8df7d6d4d2af0c1a97988293bfdca91c",
+          "windows": [
+            [
+              1,
+              88
+            ],
+            [
+              89,
+              176
+            ]
+          ],
+          "complete_tool_chunks": [
+            "06f313",
+            "03ede2"
+          ]
+        }
+      ],
+      "known_BASE_windows": [
+        [
+          1,
+          176
+        ]
+      ],
+      "known_BASE_context_slots": 176,
+      "total_member_paragraph_slots": 176,
+      "complete_BASE_member_in_this_preparation": true
+    },
+    {
+      "source": "MAIN-03",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "e95a01a476aba149445390b976c0387177a0528c4b0e167bfa466efa7fd1592d",
+      "actual_return_receipts": [
+        {
+          "receipt": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_03.json",
+          "sha256": "c03b703428382c8a6c8c00bc3eb7d823f8552c7d4391bbe53676cc2a97d69bd1",
+          "windows": [
+            [
+              60,
+              140
+            ],
+            [
+              141,
+              230
+            ]
+          ],
+          "complete_tool_chunks": [
+            "58aab7",
+            "4d4408"
+          ]
+        },
+        {
+          "receipt": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_04.json",
+          "sha256": "e68c4195ce65b2243fce0df732da2065e40dbba53b3d9079bd6da805c233931d",
+          "windows": [
+            [
+              1,
+              59
+            ]
+          ],
+          "complete_tool_chunks": [
+            "13b3b3"
+          ]
+        }
+      ],
+      "known_BASE_windows": [
+        [
+          1,
+          230
+        ]
+      ],
+      "known_BASE_context_slots": 230,
+      "total_member_paragraph_slots": 638,
+      "complete_BASE_member_in_this_preparation": false
+    },
+    {
+      "source": "MAIN-03",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_sha256": "c91836e0f07c7e2106ae6e006739525e1efcb8e090bf71963105e65519840334",
+      "actual_return_receipts": [
+        {
+          "receipt": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_03.json",
+          "sha256": "c03b703428382c8a6c8c00bc3eb7d823f8552c7d4391bbe53676cc2a97d69bd1",
+          "windows": [
+            [
+              100,
+              148
+            ]
+          ],
+          "complete_tool_chunks": [
+            "8a408d"
+          ]
+        }
+      ],
+      "known_BASE_windows": [
+        [
+          100,
+          148
+        ]
+      ],
+      "known_BASE_context_slots": 49,
+      "total_member_paragraph_slots": 148,
+      "complete_BASE_member_in_this_preparation": false
+    },
+    {
+      "source": "MAIN-03",
+      "member": "item/xhtml/p-012.xhtml",
+      "member_sha256": "ac244690fc839022d10c840d5a9c563de5b03ae837bd1aa556654a0660d8fd37",
+      "actual_return_receipts": [
+        {
+          "receipt": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_03.json",
+          "sha256": "c03b703428382c8a6c8c00bc3eb7d823f8552c7d4391bbe53676cc2a97d69bd1",
+          "windows": [
+            [
+              1,
+              80
+            ],
+            [
+              81,
+              180
+            ],
+            [
+              391,
+              455
+            ],
+            [
+              456,
+              535
+            ],
+            [
+              536,
+              615
+            ],
+            [
+              616,
+              694
+            ]
+          ],
+          "complete_tool_chunks": [
+            "73385e",
+            "8ebefc",
+            "fbd2a8",
+            "c36d03",
+            "f1923e",
+            "702b35"
+          ]
+        }
+      ],
+      "known_BASE_windows": [
+        [
+          1,
+          180
+        ],
+        [
+          391,
+          694
+        ]
+      ],
+      "known_BASE_context_slots": 484,
+      "total_member_paragraph_slots": 694,
+      "complete_BASE_member_in_this_preparation": false
+    },
+    {
+      "source": "MAIN-03",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "8483c9a4c5067daf9242472a0a3f34d5889172faf55a2613c5bf820b8f5d3718",
+      "actual_return_receipts": [
+        {
+          "receipt": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_03.json",
+          "sha256": "c03b703428382c8a6c8c00bc3eb7d823f8552c7d4391bbe53676cc2a97d69bd1",
+          "windows": [
+            [
+              60,
+              140
+            ]
+          ],
+          "complete_tool_chunks": [
+            "cd32bb"
+          ]
+        }
+      ],
+      "known_BASE_windows": [
+        [
+          60,
+          140
+        ]
+      ],
+      "known_BASE_context_slots": 81,
+      "total_member_paragraph_slots": 180,
+      "complete_BASE_member_in_this_preparation": false
+    },
+    {
+      "source": "MAIN-04",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "427682424c43d2ba88a2b4d445dbff12be56e9d82743b7498dd31c41a72c1a0a",
+      "actual_return_receipts": [
+        {
+          "receipt": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_04.json",
+          "sha256": "e68c4195ce65b2243fce0df732da2065e40dbba53b3d9079bd6da805c233931d",
+          "windows": [
+            [
+              70,
+              130
+            ],
+            [
+              131,
+              190
+            ],
+            [
+              250,
+              290
+            ]
+          ],
+          "complete_tool_chunks": [
+            "9d0a62",
+            "21380c",
+            "1eb147"
+          ]
+        }
+      ],
+      "known_BASE_windows": [
+        [
+          70,
+          190
+        ],
+        [
+          250,
+          290
+        ]
+      ],
+      "known_BASE_context_slots": 162,
+      "total_member_paragraph_slots": 505,
+      "complete_BASE_member_in_this_preparation": false
+    },
+    {
+      "source": "EXP-02",
+      "member": "item/xhtml/p-014.xhtml",
+      "member_sha256": "7815e5bd9b505481befbb570e409ce2180d48afe638c2c7b2fcc813235c8b014",
+      "actual_return_receipts": [
+        {
+          "receipt": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_05.json",
+          "sha256": "f89b6d190cd2e32d0f12edc6ac123ce32b52a0fe083f94a5cb1600cb0db9cc4b",
+          "windows": [
+            [
+              101,
+              180
+            ],
+            [
+              181,
+              249
+            ],
+            [
+              250,
+              359
+            ],
+            [
+              470,
+              530
+            ]
+          ],
+          "complete_tool_chunks": [
+            "1d8bf9",
+            "755002",
+            "b693cb",
+            "14964b"
+          ]
+        },
+        {
+          "receipt": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_06.json",
+          "sha256": "1d813f12369d3b835058c35674626a93629692f7c50f768068da163bb77bb8d1",
+          "windows": [
+            [
+              1,
+              100
+            ]
+          ],
+          "complete_tool_chunks": [
+            "5edc55"
+          ]
+        }
+      ],
+      "known_BASE_windows": [
+        [
+          1,
+          359
+        ],
+        [
+          470,
+          530
+        ]
+      ],
+      "known_BASE_context_slots": 420,
+      "total_member_paragraph_slots": 702,
+      "complete_BASE_member_in_this_preparation": false
+    },
+    {
+      "source": "EXP-02",
+      "member": "item/xhtml/p-029.xhtml",
+      "member_sha256": "0913fc720e19e3e0acf3c75c76bc06d2b2bacfc48a83c43361e5496dc47aabb2",
+      "actual_return_receipts": [
+        {
+          "receipt": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_05.json",
+          "sha256": "f89b6d190cd2e32d0f12edc6ac123ce32b52a0fe083f94a5cb1600cb0db9cc4b",
+          "windows": [
+            [
+              360,
+              420
+            ]
+          ],
+          "complete_tool_chunks": [
+            "604c5f"
+          ]
+        },
+        {
+          "receipt": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_06.json",
+          "sha256": "1d813f12369d3b835058c35674626a93629692f7c50f768068da163bb77bb8d1",
+          "windows": [
+            [
+              280,
+              359
+            ]
+          ],
+          "complete_tool_chunks": [
+            "67eaa4"
+          ]
+        }
+      ],
+      "known_BASE_windows": [
+        [
+          280,
+          420
+        ]
+      ],
+      "known_BASE_context_slots": 141,
+      "total_member_paragraph_slots": 534,
+      "complete_BASE_member_in_this_preparation": false
+    },
+    {
+      "source": "EXP-02",
+      "member": "item/xhtml/p-035.xhtml",
+      "member_sha256": "ab04b3fd93b2e314f27aae8c514d14a3965fe5b70831e6ca0179a4a3ace16b17",
+      "actual_return_receipts": [
+        {
+          "receipt": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_05.json",
+          "sha256": "f89b6d190cd2e32d0f12edc6ac123ce32b52a0fe083f94a5cb1600cb0db9cc4b",
+          "windows": [
+            [
+              230,
+              309
+            ],
+            [
+              310,
+              389
+            ],
+            [
+              390,
+              469
+            ],
+            [
+              470,
+              539
+            ],
+            [
+              540,
+              599
+            ],
+            [
+              600,
+              671
+            ]
+          ],
+          "complete_tool_chunks": [
+            "fe361e",
+            "fecc29",
+            "3c9ebe",
+            "ac2294",
+            "c3c4ea",
+            "b69ad4"
+          ]
+        }
+      ],
+      "known_BASE_windows": [
+        [
+          230,
+          671
+        ]
+      ],
+      "known_BASE_context_slots": 442,
+      "total_member_paragraph_slots": 671,
+      "complete_BASE_member_in_this_preparation": false
+    },
+    {
+      "source": "EXP-03",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "9163b51601a5120ea24278c21391046227765a561c2fa99d2cf8b41924cd7784",
+      "actual_return_receipts": [
+        {
+          "receipt": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_06.json",
+          "sha256": "1d813f12369d3b835058c35674626a93629692f7c50f768068da163bb77bb8d1",
+          "windows": [
+            [
+              1,
+              59
+            ]
+          ],
+          "complete_tool_chunks": [
+            "2e2af4"
+          ]
+        }
+      ],
+      "known_BASE_windows": [
+        [
+          1,
+          59
+        ]
+      ],
+      "known_BASE_context_slots": 59,
+      "total_member_paragraph_slots": 575,
+      "complete_BASE_member_in_this_preparation": false
+    },
+    {
+      "source": "EXP-03",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_sha256": "84648b40c0e160d4b2aa4d8547f02a237f903c19554f3b740cc2b585959f2cb8",
+      "actual_return_receipts": [
+        {
+          "receipt": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_06.json",
+          "sha256": "1d813f12369d3b835058c35674626a93629692f7c50f768068da163bb77bb8d1",
+          "windows": [
+            [
+              40,
+              100
+            ],
+            [
+              210,
+              260
+            ],
+            [
+              320,
+              365
+            ],
+            [
+              500,
+              540
+            ]
+          ],
+          "complete_tool_chunks": [
+            "c467b8",
+            "06a2bd",
+            "06a2bd",
+            "100621"
+          ]
+        }
+      ],
+      "known_BASE_windows": [
+        [
+          40,
+          100
+        ],
+        [
+          210,
+          260
+        ],
+        [
+          320,
+          365
+        ],
+        [
+          500,
+          540
+        ]
+      ],
+      "known_BASE_context_slots": 199,
+      "total_member_paragraph_slots": 611,
+      "complete_BASE_member_in_this_preparation": false
+    },
+    {
+      "source": "EXP-03",
+      "member": "item/xhtml/p-017.xhtml",
+      "member_sha256": "5cb6df62f026bb773df21ee652bb6b86b9e12e88522ea408ec5d504cf0b69fd1",
+      "actual_return_receipts": [
+        {
+          "receipt": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_06.json",
+          "sha256": "1d813f12369d3b835058c35674626a93629692f7c50f768068da163bb77bb8d1",
+          "windows": [
+            [
+              60,
+              110
+            ],
+            [
+              230,
+              280
+            ],
+            [
+              540,
+              590
+            ]
+          ],
+          "complete_tool_chunks": [
+            "476a96",
+            "476a96",
+            "9fbcc4"
+          ]
+        }
+      ],
+      "known_BASE_windows": [
+        [
+          60,
+          110
+        ],
+        [
+          230,
+          280
+        ],
+        [
+          540,
+          590
+        ]
+      ],
+      "known_BASE_context_slots": 153,
+      "total_member_paragraph_slots": 627,
+      "complete_BASE_member_in_this_preparation": false
+    },
+    {
+      "source": "EXP-03",
+      "member": "item/xhtml/p-023.xhtml",
+      "member_sha256": "7464b2929ae2aa0c7b79028dd29f76038f1df0bc6b3b0330f14c5649c230fdaf",
+      "actual_return_receipts": [
+        {
+          "receipt": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_06.json",
+          "sha256": "1d813f12369d3b835058c35674626a93629692f7c50f768068da163bb77bb8d1",
+          "windows": [
+            [
+              1,
+              97
+            ]
+          ],
+          "complete_tool_chunks": [
+            "bcd792"
+          ]
+        }
+      ],
+      "known_BASE_windows": [
+        [
+          1,
+          97
+        ]
+      ],
+      "known_BASE_context_slots": 97,
+      "total_member_paragraph_slots": 97,
+      "complete_BASE_member_in_this_preparation": true
+    },
+    {
+      "source": "EXP-03",
+      "member": "item/xhtml/p-025.xhtml",
+      "member_sha256": "f67e8f5027c5bbd24e77d3495c3ea33c451f84d45da9bae18364347087b02c4b",
+      "actual_return_receipts": [
+        {
+          "receipt": "SENA_ARNES_ACTUAL_KNOWN_PREPARATION_RECEIVING_06.json",
+          "sha256": "1d813f12369d3b835058c35674626a93629692f7c50f768068da163bb77bb8d1",
+          "windows": [
+            [
+              140,
+              210
+            ],
+            [
+              450,
+              500
+            ]
+          ],
+          "complete_tool_chunks": [
+            "15b5b4",
+            "a539f7"
+          ]
+        }
+      ],
+      "known_BASE_windows": [
+        [
+          140,
+          210
+        ],
+        [
+          450,
+          500
+        ]
+      ],
+      "known_BASE_context_slots": 122,
+      "total_member_paragraph_slots": 561,
+      "complete_BASE_member_in_this_preparation": false
+    }
+  ],
+  "actual_unique_known_BASE_context_slots": 3275,
+  "actual_text_members": 15,
+  "actual_native_objects": 4,
+  "new_image_views": 0,
+  "new_full_ruby_passes": 0,
+  "new_whole_source_or_admission_credit": 0,
+  "independent_observation_count": null,
+  "scope": "Context slots include blanks, other actors, repeated reports, narrative hypotheses and collateral scenes. Reader strips rt/rp and script/style; it is not an exhaustive voice/ruby/image pass. MAIN metadata and the actual current principal contract were separately matched here; excluded-component registers provide object identity and their own accepted scope, not a fresh principal pass. Native/member integrity was checked on each direct return and again here. Retried truncated161-240attempt has zero credit; only complete replacement returns count.",
+  "identity_guards": [
+    "Senaセナ self-identifies as kingdom prosecutor MAIN03C1P18; distinct from Serenaセレナ, judge, unnamed deputy and Aloerina.",
+    "Arnesアーネス explicitly self-names EXP02U023P15-16 and identifies her master37; not Wolbach despite similar red-hair/yellow-eye description.",
+    "Hoost’s actual acts, remaining lives and contract terms do not migrate to Arnes.",
+    "Chomusuke’s resistance and present interests are not overwritten by a speaking master/servant interpretation."
+  ],
+  "auxiliary_later_receiving": "MAIN03C2P50 is a direct narrator-witnessed flame while roasting fish, unlike MAIN15look-away/fire report. Received after cohort17freeze: not backdated into that preparation and no frozen monograph/index/model repair.",
+  "full_program_complete": false
+}

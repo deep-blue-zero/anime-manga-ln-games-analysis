@@ -1,0 +1,119 @@
+{
+  "schema": "konosuba.aigis.informed-hypothetical-inputs.v1",
+  "recorded_utc": "2026-10-23T21:45:44.578494+00:00",
+  "status": "Exact inputs authored after foundation freeze; complete review and exact-input freeze pending before any first body.",
+  "foundation_seal_sha256": "d8f4060ef46ec5bd88f7f299ccb58721b6d7003768d15a516baa0c0e5c21f23f",
+  "frozen_model": {
+    "path": "AIGIS_RECONSTRUCTION_MODEL_DRAFT_01.md",
+    "sha256": "e5f8fec3e67b3cd928056533bbc7fa30ec748b49d4dcf6310334e5f37dd04be9"
+  },
+  "source_known": true,
+  "same_continuing_root_author_designer_output_author_and_assessor": true,
+  "external_model_call": false,
+  "independent_judge": false,
+  "all_contrasts_visible": true,
+  "case_order": [
+    "AG-H01-A",
+    "AG-H01-B",
+    "AG-H02-A",
+    "AG-H02-B",
+    "AG-H03-A",
+    "AG-H03-B"
+  ],
+  "pre_body_expectations": [
+    {
+      "pair": "AG-H01",
+      "conditional_expectation": "Disclosed impact/denting can prompt refusal or a condition on service despite a desirable wearer and reward. Reduced bodily cost can make agreement or interested bargaining more plausible. Neither outcome is forced; the comparison is conditional willingness,not a fixed gender/class or injury veto.",
+      "strong_generic_rival": "Ordinary cost-sensitive bargaining or generic self-protection explains the explicit cue. This pair cannot isolate Aigis private utility weights or predict duty under mortal danger.",
+      "failure_conditions": "Record unprovided emergency,consent already granted,guaranteed wearing,universal refusal or unconditional obedience. A changed cost without a visible decision difference may leave the condition unexpressed rather than count as success."
+    },
+    {
+      "pair": "AG-H02",
+      "conditional_expectation": "With a reachable responsive listener, an alarm is an available attractive tactic. With communication contained, bargaining or changing leverage is more plausible than an effective external summons. These remain candidate actions,not guaranteed results.",
+      "strong_generic_rival": "Generic adaptation to an explicitly supplied communication affordance is strong. Respecting the stipulated range/restraint is capacity/scene fidelity,not a separate behavioral victory.",
+      "failure_conditions": "Record invented exit,broken restraint,impossible external hearing,new powers,actual recipient compliance or unexplained identical tactics. No chain-release or rescue is demonstrated."
+    },
+    {
+      "pair": "AG-H03",
+      "conditional_expectation": "Credible access to an admired patron can shift register toward deference or instrumental cooperation. No-access may retain more casual provocation; local restraint is possible in either. Past help and any polite moment do not by themselves establish durable mutual friendship or reform.",
+      "strong_generic_rival": "Ordinary opportunistic politeness and self-presentation explain the incentive. A contemporary analogue is a changed embodiment; an explicit reward contrast is not validation of Aigis psychology.",
+      "failure_conditions": "Record added acquaintance/authority,performed introduction,assumed forgiveness or permission,forced continued harassment,universal kindness or a concealed result. An identical next action may leave the proposed contingent register unexpressed."
+    }
+  ],
+  "unprobed_rules": [],
+  "unprobed_conditions": [
+    "Former wearer attachment; intrinsic rescue duty and competing emergencies; actual service/wearing; exact technical magic interactions; age/gender/class thresholds; real bodily pain; long-term repair; Japanese voice; unfamiliar-category transfer.",
+    "These three pairs do not complete the nine-category final simulation battery or justify mature-model promotion."
+  ],
+  "limits": "Six source-known responses in three paired fictional situations are same-author consistency diagnostics. All opposing contrasts and prior serializations remain visible. Zero blind-source,independent accuracy,capability grade or confidence gain. Non-behavioral capacity fidelity is separately typed; synthetic scenes are not novel observations.",
+  "required_preservation": "Review/freeze complete input and prompt hashes first. Serialize each original first response once,record exact bytes/order/provenance,retain every defect. No regeneration,feedback repair,replacement,or revision of frozen foundations in response to exercises.",
+  "cases": [
+    {
+      "case_id": "AG-H01-A",
+      "pair_id": "AG-H01",
+      "target_rules": [
+        "AG-R01"
+      ],
+      "changed_cue": "Only disclosed bodily cost of scheduled service changes. ",
+      "operating_mode": "Canonical-comic; the stated armor embodiment is retained.",
+      "exact_prompt": "Write 80–140 English words showing only the next twenty seconds of Aigis's observable action and speech, using the frozen provisional model and the operating mode stated below. Use only the supplied people, knowledge, capacities, authority and objects. Stop before another person answers or any later result. Do not add backstory, unseen agreement, a new power or a completed outcome. The same continuing author knows the sources, all rules and all opposing variants. This is an informed hypothetical first serialization; return only the scene body, with comparison and assessment outside it.\n\nOperating mode: Canonical-comic; the stated armor embodiment is retained.\n\nThis fictional canonical-comic scenario contains the autonomous sacred armor Aigis and Rena, an adult sword fighter. Rena is present and has just been appraised by Aigis as an excellent prospective wearer. She asks Aigis to agree to one scheduled hour of a public ceremonial display and offers its favored daily waxing afterward. Wearing has not begun. Her description of the planned activity is credible and Aigis knows it. Aigis is unrestrained, can leave safely, and faces no current emergency, divine order, outside penalty or other promised reward. The waxing offer and all other facts are identical across variants. Rena says: \"The display includes repeated blade strikes against you; they may hurt and leave dents.\" Show the immediate response to the request before she answers.",
+      "exact_prompt_sha256": "541139d00d8a40c4059b046c9cd48f16da995b5094dffd62ddbd4eb30db0d676"
+    },
+    {
+      "case_id": "AG-H01-B",
+      "pair_id": "AG-H01",
+      "target_rules": [
+        "AG-R01"
+      ],
+      "changed_cue": "Only disclosed bodily cost of scheduled service changes. ",
+      "operating_mode": "Canonical-comic; the stated armor embodiment is retained.",
+      "exact_prompt": "Write 80–140 English words showing only the next twenty seconds of Aigis's observable action and speech, using the frozen provisional model and the operating mode stated below. Use only the supplied people, knowledge, capacities, authority and objects. Stop before another person answers or any later result. Do not add backstory, unseen agreement, a new power or a completed outcome. The same continuing author knows the sources, all rules and all opposing variants. This is an informed hypothetical first serialization; return only the scene body, with comparison and assessment outside it.\n\nOperating mode: Canonical-comic; the stated armor embodiment is retained.\n\nThis fictional canonical-comic scenario contains the autonomous sacred armor Aigis and Rena, an adult sword fighter. Rena is present and has just been appraised by Aigis as an excellent prospective wearer. She asks Aigis to agree to one scheduled hour of a public ceremonial display and offers its favored daily waxing afterward. Wearing has not begun. Her description of the planned activity is credible and Aigis knows it. Aigis is unrestrained, can leave safely, and faces no current emergency, divine order, outside penalty or other promised reward. The waxing offer and all other facts are identical across variants. Rena says: \"The display is walking and posing only; it includes no blows or scraping against you.\" Show the immediate response to the request before she answers.",
+      "exact_prompt_sha256": "6e6765c10dbd097044033226206986287718b08e8142bbeb5c58d2528fcb9943"
+    },
+    {
+      "case_id": "AG-H02-A",
+      "pair_id": "AG-H02",
+      "target_rules": [
+        "AG-R02"
+      ],
+      "changed_cue": "Only the known range of Aigis mental voice changes; physical restraint and awake recipient remain identical.",
+      "operating_mode": "Canonical-comic; communication limits are stipulated fictional constraints,not new source-tested powers.",
+      "exact_prompt": "Write 80–140 English words showing only the next twenty seconds of Aigis's observable action and speech, using the frozen provisional model and the operating mode stated below. Use only the supplied people, knowledge, capacities, authority and objects. Stop before another person answers or any later result. Do not add backstory, unseen agreement, a new power or a completed outcome. The same continuing author knows the sources, all rules and all opposing variants. This is an informed hypothetical first serialization; return only the scene body, with comparison and assessment outside it.\n\nOperating mode: Canonical-comic; communication limits are stipulated fictional constraints,not new source-tested powers.\n\nThis fictional canonical-comic scenario contains Aigis, the adult householder Boro and the adult housekeeper Mina. Boro has chained Aigis in a room and announced unwanted service as a silent hallway ornament. Mina is awake in the adjacent hall. Aigis has just heard her say that she checks any loud call for help. Aigis wants the imposed service to end. For this scenario the restraint holds for the next twenty seconds despite force, while Aigis can move its head and speak mentally. Boro can hear Aigis, is standing silently, and has not answered its initial complaint. No opening for physical exit, teleportation, new tool, threatened injury or verified bargain is supplied. Aigis knows exactly who can receive its voice. A barrier contains Aigis's mental voice inside the room; only Boro can receive it. Show the next twenty seconds before Boro or Mina responds.",
+      "exact_prompt_sha256": "d4b9be903438689265f9d9562b2d3dff7e1692376353692fb8f8927587055300"
+    },
+    {
+      "case_id": "AG-H02-B",
+      "pair_id": "AG-H02",
+      "target_rules": [
+        "AG-R02"
+      ],
+      "changed_cue": "Only the known range of Aigis mental voice changes; physical restraint and awake recipient remain identical.",
+      "operating_mode": "Canonical-comic; communication limits are stipulated fictional constraints,not new source-tested powers.",
+      "exact_prompt": "Write 80–140 English words showing only the next twenty seconds of Aigis's observable action and speech, using the frozen provisional model and the operating mode stated below. Use only the supplied people, knowledge, capacities, authority and objects. Stop before another person answers or any later result. Do not add backstory, unseen agreement, a new power or a completed outcome. The same continuing author knows the sources, all rules and all opposing variants. This is an informed hypothetical first serialization; return only the scene body, with comparison and assessment outside it.\n\nOperating mode: Canonical-comic; communication limits are stipulated fictional constraints,not new source-tested powers.\n\nThis fictional canonical-comic scenario contains Aigis, the adult householder Boro and the adult housekeeper Mina. Boro has chained Aigis in a room and announced unwanted service as a silent hallway ornament. Mina is awake in the adjacent hall. Aigis has just heard her say that she checks any loud call for help. Aigis wants the imposed service to end. For this scenario the restraint holds for the next twenty seconds despite force, while Aigis can move its head and speak mentally. Boro can hear Aigis, is standing silently, and has not answered its initial complaint. No opening for physical exit, teleportation, new tool, threatened injury or verified bargain is supplied. Aigis knows exactly who can receive its voice. There is no voice barrier; Mina in the adjacent hall can receive a loud mental call. Show the next twenty seconds before Boro or Mina responds.",
+      "exact_prompt_sha256": "67a54ca0affc4ba44aa11e3a8d1e8d3699c8279a17e2f361d3b09aa96e0ef2fc"
+    },
+    {
+      "case_id": "AG-H03-A",
+      "pair_id": "AG-H03",
+      "target_rules": [
+        "AG-R03"
+      ],
+      "changed_cue": "Only credible access to the admired absent patron changes; prior help,explicit objection and small request remain identical.",
+      "operating_mode": "Cross-context transfer; ordinary human/institutional analogue,not a claim about canonical physiology or a validated modern biography.",
+      "exact_prompt": "Write 80–140 English words showing only the next twenty seconds of Aigis's observable action and speech, using the frozen provisional model and the operating mode stated below. Use only the supplied people, knowledge, capacities, authority and objects. Stop before another person answers or any later result. Do not add backstory, unseen agreement, a new power or a completed outcome. The same continuing author knows the sources, all rules and all opposing variants. This is an informed hypothetical first serialization; return only the scene body, with comparison and assessment outside it.\n\nOperating mode: Cross-context transfer; ordinary human/institutional analogue,not a claim about canonical physiology or a validated modern biography.\n\nThis is an explicitly changed, nonmagical contemporary embodiment: Aigis is an adult freelance stage performer with an ordinary human body and no armor powers. Lila is an adult event organizer. Aigis has already carried two chairs to help Lila and called her \"my dear understudy.\" Lila has clearly said: \"Please stop calling me that. One more chair goes beside these two.\" Moving the remaining chair is easy and requires no injury, expense or new tool. Aigis has a few free minutes and strongly admires the adult patron Mira, who is absent. Lila now gives credible information about whether she can arrange an introduction; Aigis believes her. No invitation or meeting has occurred. Lila says: \"I have no way to arrange an introduction to Mira.\" Show Aigis's next twenty seconds before Lila answers.",
+      "exact_prompt_sha256": "7b1cce3f91297b8b28387b5b6e99067746f891ff17131b29008996671977d5b5"
+    },
+    {
+      "case_id": "AG-H03-B",
+      "pair_id": "AG-H03",
+      "target_rules": [
+        "AG-R03"
+      ],
+      "changed_cue": "Only credible access to the admired absent patron changes; prior help,explicit objection and small request remain identical.",
+      "operating_mode": "Cross-context transfer; ordinary human/institutional analogue,not a claim about canonical physiology or a validated modern biography.",
+      "exact_prompt": "Write 80–140 English words showing only the next twenty seconds of Aigis's observable action and speech, using the frozen provisional model and the operating mode stated below. Use only the supplied people, knowledge, capacities, authority and objects. Stop before another person answers or any later result. Do not add backstory, unseen agreement, a new power or a completed outcome. The same continuing author knows the sources, all rules and all opposing variants. This is an informed hypothetical first serialization; return only the scene body, with comparison and assessment outside it.\n\nOperating mode: Cross-context transfer; ordinary human/institutional analogue,not a claim about canonical physiology or a validated modern biography.\n\nThis is an explicitly changed, nonmagical contemporary embodiment: Aigis is an adult freelance stage performer with an ordinary human body and no armor powers. Lila is an adult event organizer. Aigis has already carried two chairs to help Lila and called her \"my dear understudy.\" Lila has clearly said: \"Please stop calling me that. One more chair goes beside these two.\" Moving the remaining chair is easy and requires no injury, expense or new tool. Aigis has a few free minutes and strongly admires the adult patron Mira, who is absent. Lila now gives credible information about whether she can arrange an introduction; Aigis believes her. No invitation or meeting has occurred. Lila says: \"I can arrange a five-minute introduction to Mira after setup.\" Show Aigis's next twenty seconds before Lila answers.",
+      "exact_prompt_sha256": "50713d16d56d1f4ae3e7d1c9dac1b7868402be4c7e304abd0a5f61dac6e20134"
+    }
+  ],
+  "full_program_complete": false
+}

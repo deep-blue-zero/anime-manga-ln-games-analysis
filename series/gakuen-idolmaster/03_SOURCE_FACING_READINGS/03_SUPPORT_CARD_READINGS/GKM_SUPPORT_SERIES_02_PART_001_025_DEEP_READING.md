@@ -12,12 +12,17 @@ governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
 governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 created: '2026-08-23'
+version: "1.1"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15: STRENGTHEN of §3 with Kotone's inner lines and an inference label on the unnamed friend (HSCA-175), and STRENGTHEN of §6 with Rinami's own report of failing the little-sister role (GKM-SAA-274)."
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
 # GKM SUPPORT SERIES 02 PART 001–025 DEEP READING
+
+> **Revision record — v1.1, 2026-11-15 (source-to-analysis audit corrections).** STRENGTHEN only; no earlier wording is replaced. (1) HSCA-175: §3 adds Kotone's two inner lines (`adv_csprt-2-0001_01` L69, L78), which contradict her spoken agreement (L82), and labels the identification of Temari's unnamed friend as Misuzu a strong paired-part inference (`adv_csprt-2-0001_02` L44, L53). (2) GKM-SAA-274: §6 adds Rinami's `私はうまくできなかったから` (`adv_csprt-2-0004_02` L71) as her own report of failing the little-sister role, with the Love☆しすたぁず link marked as inference.
 
 ## 0. Scope, method, and principal finding
 
@@ -174,6 +179,8 @@ Her defense is diagnostically useful. She says the friend lacked motivation *but
 
 Kotone's conclusion—`めんどくさぁ`—is socially accurate. Temari wants the right to complain without granting Kotone the right to flatten Misuzu into “bad friend.”
 
+**Kotone's inner lines and the friend's identity (HSCA-175).** Before she speaks, Kotone privately thinks that anyone who watched Temari practise would say the same, because the practice is too hard (`ハードすぎるし`, `adv_csprt-2-0001_01` L69), and that saying so would only make things tiresome (L78). Her spoken agreement (L82) therefore contradicts her inner judgment. Temari defends the friend against an agreement Kotone did not hold, and the only outside observer privately sides with the friend's concern about Temari's training. Part 1 does not name the friend. Identifying her as Misuzu is a paired-part inference, and a strong one: in Part 2 Misuzu, speaking of `まりちゃん`, says she kept stopping Temari from practising (`adv_csprt-2-0001_02` L44, L53). The label keeps this section consistent with the OPEN treatment of the unnamed friend in §19.
+
 Part 2 provides Misuzu's side. China asks about unit activity. Misuzu admits she repeatedly stopped Temari from training even though she understood Temari was hardworking. She insists the intention was never malicious, but the relationship still ended in dissolution. China replies that both remain on the idol path and may cross again.
 
 Misuzu accepts the possibility warmly.
@@ -259,6 +266,8 @@ Rinami slows the movement down until China can execute it. The important pedagog
 A later visual lesson produces a “sisters” framing: energetic younger sister and dependable older sister. China objects—not because she rejects Rinami, but because she sees herself as an “eternal little sister” who has always been served by maids and wants to learn how to be dependable.
 
 The socioeconomic element matters. China's desire for competence is not only idol aspiration. It includes wanting skills that ordinary peers may acquire through family and daily responsibility.
+
+**Rinami's own report on the little-sister role (GKM-SAA-274).** When China calls herself an `永遠の妹`, Rinami answers that a cute, energetic little-sister manner suits China, then adds `私はうまくできなかったから` (`adv_csprt-2-0004_02` L65, L71). This is Rinami's own report of failing at a little-sister presentation. Read with Series 3, where she names that period `『Love☆しすたぁず』時代の私` (`adv_csprt-3-0064_03` L115), it most probably refers to the little-sister persona assigned to her first-year unit. The persona link is an inference; the scene does not name the unit. See Series 1 reading §6.1.
 
 ### Claim transitions
 

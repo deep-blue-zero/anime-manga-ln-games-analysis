@@ -1,0 +1,1619 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHIHIRO_CHARACTER_MONOGRAPH.md",
+    "bytes": 54274,
+    "sha256": "4c83df99700b9b105b3c2014b9f14fb7152836310add394fe54088b9500e10c2",
+    "git_blob_oid_of_actual_bytes": "9aa01cab29b1c84f280cbb37c9b661219a8b9870"
+  },
+  "historical_frozen_claim_and_endpoint_register": {
+    "schema": "BLUE_ARCHIVE_PHASE3_CHIHIRO_CLAIM_AND_ENDPOINT_REGISTER_V1",
+    "status": "AUTHOR_COMPLETE_BOUNDARY_ROOT_RECEIVING_PENDING",
+    "candidate": {
+      "working_artifact_relative_path": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/BLUE_ARCHIVE_CHIHIRO_CHARACTER_MONOGRAPH.md",
+      "byte_count": 52077,
+      "line_count": 224,
+      "sha256": "0ba83a8315db47cfa1839e94ffe8fdfd4920d00b78b4d942e46ffde38ab289c6",
+      "actual_byte_blob_oid": "90c55b3c7c43a968ce54a70c85c905206c74f06f"
+    },
+    "claims": [
+      {
+        "claim_id": "CH001",
+        "section": "1. Core thesis",
+        "saved_body_line": 25,
+        "sha256_utf8_line_no_terminator": "7c3c3c9e2f6d12370f674659b9708ad1f54a737a83ecbe6d6f038e4e40b7fecb",
+        "full_saved_paragraph": "Chihiro tries to make protection usable. A password must be stronger than the convenient one an adult can remember, but she permits a limited concession to memory. A maintenance window should inconvenience fewer users, but she admits that some people still want access then. A student club should be recognized for its expertise, yet a client will not listen without an adult whose status he already trusts. These are practical problems of living with others, not demonstrations that the cleverest person can remove every difficulty. Her characteristic strength is to translate a norm into an ordinary arrangement while keeping at least some of the arrangement's costs visible. [P9 L162–182][private] [20013:002 u0013–0027;003 u0025–0046;005 u0007–0010][private]",
+        "source_anchors": [
+          {
+            "label": "P9 L162–182",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "20013:002 u0013–0027;003 u0025–0046;005 u0007–0010",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH002",
+        "section": "1. Core thesis",
+        "saved_body_line": 27,
+        "sha256_utf8_line_no_terminator": "c74790f5413a9ca5b58d599a9bab1d4b1b357d16759aa02a7c3b2d8fb83a78f7",
+        "full_saved_paragraph": "That strength is vulnerable to self-exception. Anger, concern for Veritas's reputation and perceived restrictions on legitimate reporting lead her toward an unfair disclosure route that she herself condemns. In another peer context she rejects the idea that a technically impressive attack becomes acceptable because the defeated attackers belong to her own club. Both positions matter: she articulates a norm that can oppose group prestige, and she can fail that norm while trying to protect the group. A profile that calls her ethical cannot settle this contradiction, and a single failure cannot explain every kind of care she gives. [20013:006 u0020–0056][private] [G1503 s1u0021–0042][privacy]",
+        "source_anchors": [
+          {
+            "label": "20013:006 u0020–0056",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "G1503 s1u0021–0042",
+            "reference": "privacy",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH003",
+        "section": "1. Core thesis",
+        "saved_body_line": 29,
+        "sha256_utf8_line_no_terminator": "a6b5af1ed07048f8ebef75f12043f2b33b2d0f1e5f86dcea6b1b083b798b3193",
+        "full_saved_paragraph": "Her wanted life is also more specific than being useful. Electronics shopping is a hobby; coffee from a particular quiet vending machine tastes especially good after work; she wants ordinary birthdays protected and enjoys company, books, cooking and the outdoors. She can request somewhere to sleep rather than disappear into service. The camping repertoire brings those preferences into leadership and reveals another tension: a person who wants others to rest orders their attendance and withholds the camping plan, then later gives them a genuine option to stop. When the club subsequently asks her to rest, she refuses because work is important. Pleasure, effort, care, authority and stopping are therefore related questions, without becoming identical ones. [P9 L156/174–192][private] [20013 written HobbyJp/3387–3402][private] [E832 E001–003/E007–010][camp]",
+        "source_anchors": [
+          {
+            "label": "P9 L156/174–192",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "20013 written HobbyJp/3387–3402",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "E832 E001–003/E007–010",
+            "reference": "camp",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH004",
+        "section": "1. Core thesis",
+        "saved_body_line": 31,
+        "sha256_utf8_line_no_terminator": "bd62bffcd1da6d2268bae005fabcbe583292720411a7e7ffed4cda1355e9f2fc",
+        "full_saved_paragraph": "The public technical work makes these questions harder, rather than replacing them. Chihiro can acknowledge a fragile connection, infer a possible computational opening and implement a tactic that produces a local result. Her competence includes saying what is not known or not yet accomplished. The crisis does not make every later demand on her time appropriate, nor does her need for rest make her contribution illusory. Her mature literary function is to keep protection connected to finite workers, different recipients and permission to choose a life, while exposing the occasions on which her own practice loses that connection. [Pavane C002E017/E020–021][mirror] [Final C003E006 u0012–0013/0048–0066][ship]",
+        "source_anchors": [
+          {
+            "label": "Pavane C002E017/E020–021",
+            "reference": "mirror",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md"
+          },
+          {
+            "label": "Final C003E006 u0012–0013/0048–0066",
+            "reference": "ship",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH005",
+        "section": "2. Longitudinal arc and legitimate ordering",
+        "saved_body_line": 35,
+        "sha256_utf8_line_no_terminator": "29c39451578680a805edeeb371271cccf8f17ff7d0528e653870ab8e7c38d62b",
+        "full_saved_paragraph": "The private episodes support secure local sequences. An office-inspection request and password-transfer objection precede the teaching encounter. A request for supportive presence precedes a normal company visit, a spoken contract offer, thanks and a promise of coffee. Advance sleep precedes the midnight maintenance meeting, completion, coffee, dawn and narrated rest at Schale. The ethical episode goes from a concern about club conduct through backup and discovery to a next-morning news report and a private admission. These endings have different degrees of accomplishment: teaching is finished without a printed replacement password; a business offer is made without an audited year of service; maintenance is actually completed locally; acknowledgement and secrecy leave affected people outside the final conversation. [20013:002/003/005/006 complete paired arguments][private]",
+        "source_anchors": [
+          {
+            "label": "20013:002/003/005/006 complete paired arguments",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH006",
+        "section": "2. Longitudinal arc and legitimate ordering",
+        "saved_body_line": 37,
+        "sha256_utf8_line_no_terminator": "4c826d48ce8a4601cf5c096830d41d35b2802461b325f45e15d4d740c28ed234",
+        "full_saved_paragraph": "There is a useful limited callback between the promised coffee in003 and the prior-payment reminder in005. It supports relative continuity of an offer and a later familiar pleasure. It does not order every bond, place the disclosure before or after every group scene, or turn the documentary 2022-01-30 release into an in-world date. In particular, no global timeline permits the analyst to assert that the private failure is followed by GROUP1503 as its accomplished moral repair. One scene's norm and another scene's violation illuminate each other without supplying that chronology. [P9 L170–176][private] [20013:003 u0046;005 u0019][private] [G150 §2][privacy]",
+        "source_anchors": [
+          {
+            "label": "P9 L170–176",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "20013:003 u0046;005 u0019",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "G150 §2",
+            "reference": "privacy",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH007",
+        "section": "2. Longitudinal arc and legitimate ordering",
+        "saved_body_line": 39,
+        "sha256_utf8_line_no_terminator": "99b7c164004d26352726609175fc03bddefd3141efe688b2fcb792afaab25073",
+        "full_saved_paragraph": "The privacy group has its own afterstate. Planning and differently motivated recruitment precede unauthorized access, proposed falsification and panic copying. Chihiro returns on the incident's evening, reports a difficult defense, recognizes the attackers and rejects their consolation that Veritas has still won. Several days later two students repeat the false value, and Yuuka reports an earlier correction notice while still seeking the offender. The ending is therefore neither complete technical failure nor complete ethical recovery. Internal correction and continuing social circulation are both actual parts of the story. [G1501–1503 §2–3.6][privacy]",
+        "source_anchors": [
+          {
+            "label": "G1501–1503 §2–3.6",
+            "reference": "privacy",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH008",
+        "section": "2. Longitudinal arc and legitimate ordering",
+        "saved_body_line": 41,
+        "sha256_utf8_line_no_terminator": "6d7a599c5821d7f4eeac7874a9dd07974d6a693940f964875fe16422b6ccb153",
+        "full_saved_paragraph": "Pavane provides a more extensive public progression. Veritas promises remote help in the plan; Mirror-enabled counteraction and division of labor are later explained; Chihiro guides the party to the tower exterior and reasons about Alice's likely location. Attrition narrows what the coalition can do. Yuzu's observed hit and Chihiro's expressly hypothetical computational account open a possibility, and the elevator maneuver then yields reported local evasion paralysis and a local battle win. Each stage changes the evidence. A promised hack is not a completed bypass, a location inference is not a sighting, and a tested local tactic does not make all of the earlier assumptions instrumentally verified. [Pavane C002E012/E017–018/E020–021][pavane]",
+        "source_anchors": [
+          {
+            "label": "Pavane C002E012/E017–018/E020–021",
+            "reference": "pavane",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH009",
+        "section": "2. Longitudinal arc and legitimate ordering",
+        "saved_body_line": 43,
+        "sha256_utf8_line_no_terminator": "bd1d8ac46422aeade8f60b13e04d1e906e7b0c1c556b302103c671c5c9fd693f",
+        "full_saved_paragraph": "The Final arguments add emergency forecasts, ship analysis with fatigue explicitly voiced, and a successful link cut. They widen her public repertoire without establishing that crisis experience cured the private contradiction or justified permanent self-denial. The exact clocks differ, initial processor access is explicitly not control, and link severance succeeds through several teams' contributions. The current full Final account preserves the larger ending; this monograph gives Chihiro her bounded part in it rather than assigning her all rescue or treating one cut as the whole series ending. [Final C002E002 s2u0101–0155/s7u0058–0062][forecast] [Final C003E006][ship] [Final C004E004 u0011–0047][cut] [Final whole contextual argument][final]",
+        "source_anchors": [
+          {
+            "label": "Final C002E002 s2u0101–0155/s7u0058–0062",
+            "reference": "forecast",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E002_DEEP_READING.md"
+          },
+          {
+            "label": "Final C003E006",
+            "reference": "ship",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md"
+          },
+          {
+            "label": "Final C004E004 u0011–0047",
+            "reference": "cut",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E004_DEEP_READING.md"
+          },
+          {
+            "label": "Final whole contextual argument",
+            "reference": "final",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH010",
+        "section": "2. Longitudinal arc and legitimate ordering",
+        "saved_body_line": 45,
+        "sha256_utf8_line_no_terminator": "6fa7fd18c6bd5a402ea06b9b224d1bdee9658ad90cd8b33e5840522d4abb3e53",
+        "full_saved_paragraph": "Camping has an unusually decisive coda. Its NewYear local order includes a completed dinner and cleanup, an actual late choice to continue, the reached sunrise, the mural's public reception and one-week-later return to games. The simulated ten-kilogram improvement does not authenticate real bodily change. Chihiro's hoarse return from corporate visits and refusal of her peers' rest request complicate the outing's earlier advice. That reversal should survive the pleasure of the summit. An ending can preserve a meaningful experience while disproving the analyst's proposed permanent conversion. [E832 E007–010][camp]",
+        "source_anchors": [
+          {
+            "label": "E832 E007–010",
+            "reference": "camp",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH011",
+        "section": "3. Public self, private self, and who hears the norm",
+        "saved_body_line": 49,
+        "sha256_utf8_line_no_terminator": "ede98a2da29ee7089e2b4d7c153d7c9b0ee40f631bf5b220575968f025c7b3ba",
+        "full_saved_paragraph": "In the office Chihiro is a student teaching the adult responsible for important records. In a company she presents herself formally as a professional; in Veritas she is the vice-president who interrupts prestige-based excuses; in the private disclosure coda she asks a trusted adult whether he is disappointed. The difference is partly audience and partly practical goal. It does not require a concealed true self beneath a false professional mask. Her security norm can be sincere, her care can be real, and her acknowledgement can still occur in a conversation that omits the people affected by the act. [20013:002 u0013–0018;003 u0013–0036;006 u0047–0056][private] [G1503 s1u0040–0042][privacy]",
+        "source_anchors": [
+          {
+            "label": "20013:002 u0013–0018;003 u0013–0036;006 u0047–0056",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "G1503 s1u0040–0042",
+            "reference": "privacy",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH012",
+        "section": "3. Public self, private self, and who hears the norm",
+        "saved_body_line": 51,
+        "sha256_utf8_line_no_terminator": "dba428a78cd403a60d532ed2fd866c7f6749811be7dac1c53c1b4935f3c917d5",
+        "full_saved_paragraph": "The secrecy request changes what the club can receive. She wants to become a better example, but asks that the younger members not learn of the incident. This creates a gap between a private intention and public exemplary practice. Sensei's future-oriented response may help her continue trying; it does not show a revised curriculum, disclosure to peers, restored user privacy or an accountable public process. The vulnerable admission is consequential precisely because it is not automatically equivalent to those outcomes. Nor does the brief initial distancing from the anonymous hacker become an indefinitely sustained denial once the later acknowledgement is received. [20013:006 u0043–0056][private]",
+        "source_anchors": [
+          {
+            "label": "20013:006 u0043–0056",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH013",
+        "section": "3. Public self, private self, and who hears the norm",
+        "saved_body_line": 53,
+        "sha256_utf8_line_no_terminator": "b432fa65c688ed223225336cdc78714f8633be413c7e527ddc87cc879297adff",
+        "full_saved_paragraph": "The company scene tests another audience boundary. The president discounts students before Sensei's reputation changes the encounter, and states that the offer would not have been made to them alone. Chihiro anticipates that prejudice and arranges a normal introduction. Calling the adult a human backdoor both captures her ingenuity and makes trust sound like an obstacle to bypass. The source supports this instrumental tension without showing coercion, forged credentials or an enacted software intrusion. Her stated distinction between gaining trust and wrongdoing remains a norm that the later selected repertoire can test. [20013:003 u0010–0012/0025–0045][private]",
+        "source_anchors": [
+          {
+            "label": "20013:003 u0010–0012/0025–0045",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH014",
+        "section": "3. Public self, private self, and who hears the norm",
+        "saved_body_line": 55,
+        "sha256_utf8_line_no_terminator": "a8e76842096b1d9d35eaef1d70bc843fda5a09d89a8bb31e4674d2ceabc180fe",
+        "full_saved_paragraph": "Her quieter written address adds warmth and limits to the public corrector. She laughs about Maki's expected painting, wishes Sensei ordinary happy days, overlooks her own birthday and admits that she cannot know all of Himari's thoughts. None is merely evidence that a disciplinarian is secretly soft. They are positive relations and incomplete knowledge in their own contexts. Affection for Maki does not supply blanket assent to painting without asking; a birthday oversight does not diagnose chronic self-neglect; a claim of knowledge's freedom and weight does not give her unrestricted access to every secret. [20013 written3384/3387–3394][private]",
+        "source_anchors": [
+          {
+            "label": "20013 written3384/3387–3394",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH015",
+        "section": "3. Public self, private self, and who hears the norm",
+        "saved_body_line": 57,
+        "sha256_utf8_line_no_terminator": "ec0011b8f8a61afd0fbddbd75d4511a77b5f7a9592740d8c4568bbfa657ec452",
+        "full_saved_paragraph": "The camping and celebration peers resist a teacher-centered account of this self. Hare and Kotama give their own mixed evaluation of the outing; Maki wants a game contest partly to see Chihiro lose; the club asks Chihiro to rest; Noa hears her distinction between freedom and disorder. These people do more than confirm the adult's approval. Their actual taste, pressure, concern and conversation reveal what Chihiro's plans allow them to do and what they independently want from her. [E832 E007u0076–0102/E010s2u0016–0022][camp] [E842 E012u0022–0039/E015u0014–0038][party]",
+        "source_anchors": [
+          {
+            "label": "E832 E007u0076–0102/E010s2u0016–0022",
+            "reference": "camp",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          },
+          {
+            "label": "E842 E012u0022–0039/E015u0014–0038",
+            "reference": "party",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH016",
+        "section": "4. School and club role: protective work and divided authority",
+        "saved_body_line": 61,
+        "sha256_utf8_line_no_terminator": "15036717d20cee99e7280b3f0c6f85dea22750a02bf0fa1d8b4e6ca76e55b982",
+        "full_saved_paragraph": "Her Veritas role is secure at the stated source scope: the private introduction calls her vice leader, and GROUP1503 explicitly names the vice-president. The club's technical capability, her ethical instruction and its reputation are separate objects. GROUP1503 shows that she will defend the institution's records against her own members and refuse their appeal to club supremacy. It also leaves exact sanctions and restitution unprinted. Her local role is exercised in correction without the text supplying an entire disciplinary charter or proof of permanent compliance. [20013 ProfileIntroductionJp/3370][private] [G1503 s1u0021–0042][privacy]",
+        "source_anchors": [
+          {
+            "label": "20013 ProfileIntroductionJp/3370",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "G1503 s1u0021–0042",
+            "reference": "privacy",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH017",
+        "section": "4. School and club role: protective work and divided authority",
+        "saved_body_line": 63,
+        "sha256_utf8_line_no_terminator": "8b3ba59a6ae4ba78fd2284bec5e1dde6235efdf967c487c50e0d5295e1841dba",
+        "full_saved_paragraph": "The private company repertoire shows why institutional independence is incomplete. In003 her expertise gains a hearing through Schale's adult credibility. In006 she says she is often too busy to stay with the club while wishing to teach ethics. The insulting client's assumptions are not the only source of Veritas's poor reputation: she acknowledges that its own past conduct contributed. Concern for the group then shapes her evaluation of possible reporting, so professional boundaries, anger at apparent exploitation and the students' credit compete. This is a situated conflict with subjective judgments, rather than an analyst's proof that the only available course was disclosure. [20013:003 u0025–0038;006 whole thread/u0016–0033][private]",
+        "source_anchors": [
+          {
+            "label": "20013:003 u0025–0038;006 whole thread/u0016–0033",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH018",
+        "section": "4. School and club role: protective work and divided authority",
+        "saved_body_line": 65,
+        "sha256_utf8_line_no_terminator": "95f1f48a36d483bfe4ba3f89b2df87c3a3d45202f77a18008ac349f7df38d97e",
+        "full_saved_paragraph": "Her work involves trade-offs even without antagonism. Overnight scheduling acknowledges absent users who may prefer that same quiet period. She completes the task, shares its modest satisfaction and asks for rest. That gives usable responsibility a positive account in ordinary prose: explain what tonight's work is, prepare for uncertain hours, finish the local job and acknowledge finite bodies. It does not certify every maintenance decision, permanent security or an unrestricted right to use Schale's facilities. [20013:005 whole thread/u0002–0021/0038–0042][private]",
+        "source_anchors": [
+          {
+            "label": "20013:005 whole thread/u0002–0021/0038–0042",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH019",
+        "section": "4. School and club role: protective work and divided authority",
+        "saved_body_line": 67,
+        "sha256_utf8_line_no_terminator": "e0fcc397be9fa06625da12d5efd5242f4deda677cb0060857e4b597735bb79b3",
+        "full_saved_paragraph": "The outing changes the same leadership question from data to lives. Chihiro overrides an existing game commitment and reveals camping only at departure. Her report of Himari's permission and the equal electronics rule supply organizational and procedural reasons, but neither is the recipients' prior assent. She also leaves her own equipment, grants free rest, joins vegetable preparation, cooks food she wants to share and later offers a genuine stop option. These acts prevent an account of wholly indifferent domination. They also prevent the benefit from retroactively making the original order freely chosen. The analysis must preserve both institutional permission and participant choice at their actual moments. [E832 E001u0061–0067/E002u0021–0080/E003/E006–008][camp]",
+        "source_anchors": [
+          {
+            "label": "E832 E001u0061–0067/E002u0021–0080/E003/E006–008",
+            "reference": "camp",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH020",
+        "section": "4. School and club role: protective work and divided authority",
+        "saved_body_line": 69,
+        "sha256_utf8_line_no_terminator": "db84249152a63cf42b23d039d29392fd88147fccd37f074af72365983c8e4d3f",
+        "full_saved_paragraph": "The celebration supplies a concise institutional principle: freedom is not disorder, and another person remains responsible for that person's choices. Its practical context includes continuing maintenance after shallow sleep, a security interview announced but not shown, and work locally declared complete. Chihiro's memories of work with Rio and Himari and tentative reading of Himari's wish for reconciliation remain reports and interpretations. They cannot be expanded into a proved old alliance, a current settlement or a permanently Koyuki-proof system. A person charged with protection need not own every other person's decision, even where the institution keeps assigning her repair work. [E842 E014u0036–0047/E015u0004–0038][party]",
+        "source_anchors": [
+          {
+            "label": "E842 E014u0036–0047/E015u0004–0038",
+            "reference": "party",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH021",
+        "section": "4. School and club role: protective work and divided authority",
+        "saved_body_line": 71,
+        "sha256_utf8_line_no_terminator": "56c6f9fe7c0735c0874edc52195ad6439f91637408036f7bd03c001c860762e2",
+        "full_saved_paragraph": "That institutional question deserves its separate Veritas and Millennium homes. This character argument explains how Chihiro inhabits those duties and sometimes exceeds or fails them. It does not complete the collective constitution, authority/resource allocation, interclub privacy repair or every directed peer relation by placing them in her biography. Sparse rumor students, the client and Chronos reporter retain their exact local roles; a repeated generic role name does not merge their identities across unrelated sources.",
+        "source_anchors": [],
+        "argument_scope_if_no_inline_anchor": "Joined thesis, institutional duty separation or custody/conclusion at declared complete source scope; not fresh source observation",
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH022",
+        "section": "5. Ordinary life: quiet pleasures, bodily limits and wanted company",
+        "saved_body_line": 75,
+        "sha256_utf8_line_no_terminator": "0bcc40b67c97676247a9a2a9aa1bafde3b122f0bbd9dabe14fd735a233a207ba",
+        "full_saved_paragraph": "The vending machine is a particularly personal image. Chihiro values its quiet fulfillment of a role and compares that to her own work, but also wants Sensei to understand this coffee here, after this task. An invisible-service reading loses part of the scene if it stops at the analogy. She has chosen a favorite place, offers payment consistent with an earlier promise, enjoys conversation until dawn and requests somewhere to sleep. The pleasure is shared and situated; it need not be translated into a future rescue mechanism or a romantic conclusion to count. [20013:005 u0017–0042;written3396–3402][private]",
+        "source_anchors": [
+          {
+            "label": "20013:005 u0017–0042;written3396–3402",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH023",
+        "section": "5. Ordinary life: quiet pleasures, bodily limits and wanted company",
+        "saved_body_line": 77,
+        "sha256_utf8_line_no_terminator": "a7aa39e374c348b881cce50bef52ab1fe5c3d71d592a512a961f14f6253dae4c",
+        "full_saved_paragraph": "The exact mode matters. Thirteen timed bond units are labeled narration, while seven written special contexts carry corresponding coffee content. This supports a bounded association with Chihiro's written repertoire. It is not permission to repair the bond label, claim performed delivery or count a second independent coffee incident. The secure later request and narrated rest retain their force without such a repair. A mature account can describe a wanted taste while preserving uncertainty about how the source presents its speech. [P9 L198–205][private] [20013:005 u0025–0042;written3396–3402][private]",
+        "source_anchors": [
+          {
+            "label": "P9 L198–205",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "20013:005 u0025–0042;written3396–3402",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH024",
+        "section": "5. Ordinary life: quiet pleasures, bodily limits and wanted company",
+        "saved_body_line": 79,
+        "sha256_utf8_line_no_terminator": "753293e1102fae13aa8203e87c6c4be686ab3aa3de9ef110fde095fc08828321",
+        "full_saved_paragraph": "Electronics shopping has its own value because the profile names it as a hobby. It need not be reduced to obtaining equipment for others. The written birthday wish similarly values ordinary days, while the forgotten self-birthday produces embarrassment rather than a measured diagnosis. NewYear data sorting is an invitation; Christmas Eve's leisurely café is a possible setting; Maki's expected Halloween painting produces affection. These contexts widen her repertoire but are not a calendar of enacted annual meetings. The distinction between invitation, expectation and occurrence preserves quieter characterization instead of excluding it. [20013 HobbyJp;written3387–3394][private]",
+        "source_anchors": [
+          {
+            "label": "20013 HobbyJp;written3387–3394",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH025",
+        "section": "5. Ordinary life: quiet pleasures, bodily limits and wanted company",
+        "saved_body_line": 81,
+        "sha256_utf8_line_no_terminator": "9a5c5f4aeb0d807200eafda5f66903a6eb9f2d3585fd94835edde673d6772b2c",
+        "full_saved_paragraph": "Her outdoor taste has a concrete work-connected origin without becoming mere work. She says interest began when she searched for sleeping bags for all-night tasks. In camping she reads with Sensei, cooks mizutaki remembered from a work visit and admits uncertainty about her first outdoor preparation. Shared reading, the meal's warmth and flavor, and completed cleanup are actual outcomes. The meal is not simply nutritional discipline, and the book is not merely a lesson about replacing screens. Both have wanted content and company. [E832 E003u0032–0034/0067–0075/E007u0001–0060][camp]",
+        "source_anchors": [
+          {
+            "label": "E832 E003u0032–0034/0067–0075/E007u0001–0060",
+            "reference": "camp",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH026",
+        "section": "5. Ordinary life: quiet pleasures, bodily limits and wanted company",
+        "saved_body_line": 83,
+        "sha256_utf8_line_no_terminator": "0478fd5740418ca688a63b79861bbb57e7491bd7ca248acaed9e4d3736b1b12c",
+        "full_saved_paragraph": "The recipients' tastes have equal analytical standing. Hare says the outing is tiring and that food alone does not justify all the labor, while also recognizing a different attentional experience. Kotama values environmental sound and company while continuing to pursue overhearing. Maki's inspired mural is creative and has consequences when its imagined ownerless harmlessness meets an actual public audience. Chihiro may sincerely want them to experience what she enjoys; the account must not make her pleasure the universal standard by which their resistance becomes an error. [E832 E004u0053–0095/E005/E007u0069–0107/E009][camp]",
+        "source_anchors": [
+          {
+            "label": "E832 E004u0053–0095/E005/E007u0069–0107/E009",
+            "reference": "camp",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH027",
+        "section": "5. Ordinary life: quiet pleasures, bodily limits and wanted company",
+        "saved_body_line": 85,
+        "sha256_utf8_line_no_terminator": "5f4802cfbca48eae7e936e386762c6300aeb0ba20620b23d7e7c75cbdeaec310",
+        "full_saved_paragraph": "The actual stop option near the summit makes the later choice distinctive. Weather might prevent the sunrise, and Chihiro permits abandoning the climb. The students choose the path itself, using game language rather than renouncing games. They reach the view and express gratitude; the proposed breakfast remains a future choice rather than a consumed meal. This is a genuine positive ending at a particular moment. It coexists with mandatory attendance at the outset, fatigue, cold hands and the later return to indoor play. [E832 E008u0019–0023/0059–0116/E010s2u0026–0051][camp]",
+        "source_anchors": [
+          {
+            "label": "E832 E008u0019–0023/0059–0116/E010s2u0026–0051",
+            "reference": "camp",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH028",
+        "section": "5. Ordinary life: quiet pleasures, bodily limits and wanted company",
+        "saved_body_line": 87,
+        "sha256_utf8_line_no_terminator": "fd979eddfcaa1e03c360d98a3ad0363722504877effd1a0daa511e1adb83f01e",
+        "full_saved_paragraph": "At the celebration, BOOM provides another small reversal. Chihiro initially declines, Maki presses partly because she wants to see the senior lose, and Chihiro actually plays. She discovers stress relief and completes the game with her fists, without achieving a better time than her peers. Initial pressure does not disappear; neither does the new enjoyment. Promised firmware restoration is not separately shown. A failed superior score can still be a successful local discovery of pleasure, with no permanent conversion or general game devotion required. [E842 E012u0022–0039][party]",
+        "source_anchors": [
+          {
+            "label": "E842 E012u0022–0039",
+            "reference": "party",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH029",
+        "section": "5. Ordinary life: quiet pleasures, bodily limits and wanted company",
+        "saved_body_line": 89,
+        "sha256_utf8_line_no_terminator": "923bfdb41f776d2611f2be23b9f567fd218457831dd1a7e934b2c19b8ff57227",
+        "full_saved_paragraph": "Rest should be treated just as specifically. In private005 she sleeps in preparation and asks for the nap room after the task. In camping she wants Sensei to leave work aside, later becomes the recipient of peers' rest concern and refuses it. On the ship she explicitly asks that exhaustion be considered. These different moments establish no invariant self-erasing worker and no smooth growth toward perfect boundaries. They show different uses and failures of stopping across contexts. The wanted life includes being helpful and being allowed to be tired, with neither providing a universal rule for the other. [20013:005 whole thread/u0041–0042][private] [E832 E003u0067–0075/E010s2u0016–0022][camp] [Final C003E006 u0012–0013][ship]",
+        "source_anchors": [
+          {
+            "label": "20013:005 whole thread/u0041–0042",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "E832 E003u0067–0075/E010s2u0016–0022",
+            "reference": "camp",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          },
+          {
+            "label": "Final C003E006 u0012–0013",
+            "reference": "ship",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH030",
+        "section": "6. Crisis behavior: hypotheses, implementation and finite workers",
+        "saved_body_line": 93,
+        "sha256_utf8_line_no_terminator": "a1da8d9b89cd4c6e96cf6246bd8b80cbbba950345f1ce9babcf630c479899ffb",
+        "full_saved_paragraph": "Pavane's intervention preserves distributed agency. The initial plan assigns Veritas remote work but gives different tasks to Engineering, C&C and Game Development. Chihiro later credits Himari's Mirror preparation, reports using it to hack Eridu's network, thanks Sumire for help and asks the club to maintain a fragile path while she navigates. The firewall may cut that path, and Engineering's local weapon victory leaves its members exhausted. Chihiro's participation is real because she explains and implements a bounded enabling action, not because every system becomes hers to command. [Pavane C002E012 u0083–0134][pavane] [C002E017 s1u0002–0037/s2u0024–0051][mirror]",
+        "source_anchors": [
+          {
+            "label": "Pavane C002E012 u0083–0134",
+            "reference": "pavane",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md"
+          },
+          {
+            "label": "C002E017 s1u0002–0037/s2u0024–0051",
+            "reference": "mirror",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH031",
+        "section": "6. Crisis behavior: hypotheses, implementation and finite workers",
+        "saved_body_line": 95,
+        "sha256_utf8_line_no_terminator": "97ed8c3f38f0f93615c19f0728dfc428328951b757e7caae268132f4fdcd416b",
+        "full_saved_paragraph": "Tower arrival strengthens a lead without erasing epistemic limits. Chihiro guides the rear party to the exterior and argues that power concentration and the scale of a halo-destruction facility make Alice likely to be there. She does not see Alice through that argument. Rio's broad assessment that all defenses have been destroyed and her speculation that Sensei alone is the variable do not replace the visible student contributions. Chihiro's confident language is a reasoned inference at a moment, not proof of every technical or ontological premise. [Pavane C002E018 u0041–0097][tower]",
+        "source_anchors": [
+          {
+            "label": "Pavane C002E018 u0041–0097",
+            "reference": "tower",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E018_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH032",
+        "section": "6. Crisis behavior: hypotheses, implementation and finite workers",
+        "saved_body_line": 97,
+        "sha256_utf8_line_no_terminator": "67bfbb80c5c2443b29035f9015a6751d6a1598afa2443ba8607e4a0356cd023f",
+        "full_saved_paragraph": "The depleted coalition then gives her limits unusual importance. She inventories Engineering's inability to continue, Veritas's finite remote reach, the game club's lack of direct combat strength and C&C's exhaustion. The ensuing tactical possibility depends precisely on a game-club member's observation, so noncombat classification is not epistemic uselessness. Yuzu sees a momentary hit; Chihiro repeatedly marks the simultaneous-defense/evading explanation as hypothetical; Karin and Sensei offer conjectures about the load of gravity calculations. No instrumented budget or universal weak-point theorem follows. [Pavane C002E020 u0009–0016/0057–0088][hypothesis]",
+        "source_anchors": [
+          {
+            "label": "Pavane C002E020 u0009–0016/0057–0088",
+            "reference": "hypothesis",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E020_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH033",
+        "section": "6. Crisis behavior: hypotheses, implementation and finite workers",
+        "saved_body_line": 99,
+        "sha256_utf8_line_no_terminator": "3c1761891f89e9b0b79c485247b18bc51462d87067ea529e5ec29f53140a3a9c",
+        "full_saved_paragraph": "In021 she warns that the plan is difficult and theoretical, helps secure the group's agreement and guides it to a suitable location. Yuzu credits Momoi's earlier elevator idea; Chihiro reports hacking the cargo lift and orders a tenfold acceleration; Toki reports evasion paralysis; Nel wins locally. This afterstate is stronger than020's proposal. It still does not measure the commanded acceleration, prove the full allocation mechanism or medically clear the injured fighters. Technical ingenuity operates within a chosen risk whose recipients and bodily costs remain visible. Akane's explicit denial of Rio's teacher-command story protects both Chihiro's implementation and the other students' different authorships. [Pavane C002E021 u0026–0053/0074–0099/0100–0129][elevator]",
+        "source_anchors": [
+          {
+            "label": "Pavane C002E021 u0026–0053/0074–0099/0100–0129",
+            "reference": "elevator",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E021_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH034",
+        "section": "6. Crisis behavior: hypotheses, implementation and finite workers",
+        "saved_body_line": 101,
+        "sha256_utf8_line_no_terminator": "185ece1722e58e6094c0658af05928f8f428ea27d140e098857d46c64da5886f",
+        "full_saved_paragraph": "In Final's planning, Chihiro's roughly 300-hour critical-point estimate belongs beside low-confidence signal analysis, other speakers' two-week language and the different printed operation clock. The meeting reaches a target and urgency, without an exact reconciled clock model or a verified mechanism of personality change. This is another case where expertise makes action possible under uncertainty rather than removing uncertainty. The analyst should preserve the forecast's attribution, not retrospectively call it a validated prediction because later collective operations occur. [Final C002E002 s2u0101–0155/s7u0058–0062][forecast]",
+        "source_anchors": [
+          {
+            "label": "Final C002E002 s2u0101–0155/s7u0058–0062",
+            "reference": "forecast",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E002_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH035",
+        "section": "6. Crisis behavior: hypotheses, implementation and finite workers",
+        "saved_body_line": 103,
+        "sha256_utf8_line_no_terminator": "60200a78825bf1be77b833ed30f9a11cad3b1a3368ae7bd7f40ed58dc7d4a7e3",
+        "full_saved_paragraph": "Ship analysis distinguishes access and control. Chihiro reports code algorithm analysis while Kotama reports central-processor access, Hare thinks the unfamiliar language can be analyzed, and Himari says control has not yet been obtained. Chihiro's earlier request to consider fatigue remains part of this same useful work. Later, the final link cut depends on east/west strikes, the opened lower window, Akari's shot and Junko's destruction report before Chihiro and Kayoko confirm disconnection and Rio confirms stabilized suppression. The cut is achieved at one second; indefinite Ark control, permanent safety, the whole escape and every ground outcome are different questions. [Final C003E006 u0012–0013/0048–0075][ship] [Final C004E004 u0011–0047][cut]",
+        "source_anchors": [
+          {
+            "label": "Final C003E006 u0012–0013/0048–0075",
+            "reference": "ship",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md"
+          },
+          {
+            "label": "Final C004E004 u0011–0047",
+            "reference": "cut",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E004_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH036",
+        "section": "6. Crisis behavior: hypotheses, implementation and finite workers",
+        "saved_body_line": 105,
+        "sha256_utf8_line_no_terminator": "db7c14b562b4a5c19769ac940a271d3d282c1e991f39a353aeaca26c672ce038",
+        "full_saved_paragraph": "The local successful public acts do not erase ordinary adverse conduct or give a general warrant to access information. Conversely, the private unfair act does not make her cautious main hypotheses or actual work false. The synthesis preserves a finite expert whose knowledge can protect, persuade, mislead or intrude depending on the particular object, permitted route and recipient. It offers no operational model, all-context technical rank or prospective test score.",
+        "source_anchors": [],
+        "argument_scope_if_no_inline_anchor": "Joined thesis, institutional duty separation or custody/conclusion at declared complete source scope; not fresh source observation",
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH037",
+        "section": "7. Relationship with Sensei: correction, credibility, company and judgment",
+        "saved_body_line": 109,
+        "sha256_utf8_line_no_terminator": "5c62c94783bcabd8b68a25a20e6781cbd26aeb061c94bfe9aaf9cc25c0053909",
+        "full_saved_paragraph": "Their office encounter reverses the instruction direction without abolishing the adult's position. Chihiro corrects Sensei because his practices may affect students' records, not only because she wants to demonstrate cleverness. She initially considers his time, stops the proposed password transfer, reports a bounded negative inspection and spends several dozen minutes explaining safer habits. Sensei gives access and choice-dependent recognition. The completed teaching encounter supports concern and expertise; it does not supply later compliance, a new password or an inspected physical key hidden in a mailbox. [20013:002 whole thread/u0006–0034][private]",
+        "source_anchors": [
+          {
+            "label": "20013:002 whole thread/u0006–0034",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH038",
+        "section": "7. Relationship with Sensei: correction, credibility, company and judgment",
+        "saved_body_line": 111,
+        "sha256_utf8_line_no_terminator": "a19d528f61e76ef635300dbba7a6ab27cdf0c91d6892a0d874aa417de5be0ad4",
+        "full_saved_paragraph": "In the company visit Sensei's status is a resource that Chihiro cannot simply reproduce. She requests presence and answers, arranges the introduction and remains the negotiator. The president discounts student merit until the adult supplies credibility. Sensei's alternative assurances range in commitment and should not be accumulated into one comprehensive guarantee. Chihiro's thanks and promised coffee are both warm and connected to help; neither utility alone nor warmth alone exhausts the direction of the relation. [20013:003 whole thread/choices003–004/u0025–0046][private]",
+        "source_anchors": [
+          {
+            "label": "20013:003 whole thread/choices003–004/u0025–0046",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH039",
+        "section": "7. Relationship with Sensei: correction, credibility, company and judgment",
+        "saved_body_line": 113,
+        "sha256_utf8_line_no_terminator": "8a2f6b8939a8bc4da617136684389442febbad7e09218105b76d4e23ae20e51e",
+        "full_saved_paragraph": "Companionship during maintenance is requested and permitted. Sensei asks to observe; Chihiro warns it may be dull, gives the midnight appointment and advises sleeping ahead. She later shares a favorite taste and asks for the nap room. Their closeness can be described through time, chosen participation, pleasure and rest without asserting romance or interpreting every invitation as exploitation. A significant distinction from other scenes is that permission has particular objects: observation of this task and use of this space. Neither makes either person perpetually available. [20013:005 whole thread/u0017–0042][private]",
+        "source_anchors": [
+          {
+            "label": "20013:005 whole thread/u0017–0042",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH040",
+        "section": "7. Relationship with Sensei: correction, credibility, company and judgment",
+        "saved_body_line": 115,
+        "sha256_utf8_line_no_terminator": "472213fd86286df5e0e7f21f3f320d4f2a04aae5d112790791b95674cc78981d",
+        "full_saved_paragraph": "The disclosure admission turns toward moral judgment. Chihiro asks whether Sensei is disappointed; the available response looks toward doing better. Her complaint that adults are unfair follows that composure. It can register the difficulty of receiving indulgent encouragement rather than the condemnation she expects, without proving a hidden adult motive or an allegation of identical wrongdoing. Sensei's vice-president thought is inward, and reassurance is not user repair. The adult may help preserve a future intention while the relationship remains the private place where the incident is contained. [20013:006 choice005/u0051–0056][private]",
+        "source_anchors": [
+          {
+            "label": "20013:006 choice005/u0051–0056",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH041",
+        "section": "7. Relationship with Sensei: correction, credibility, company and judgment",
+        "saved_body_line": 117,
+        "sha256_utf8_line_no_terminator": "1bcefed5e3f330f6e7ef9d1dfd6ddeab53eed1451543d993147d9873edf6f341",
+        "full_saved_paragraph": "Camping adds practical help, reading, food and protection of privacy. Sensei participates in an ordered trip rather than authoring all its activities, helps cut vegetables and shares the fire/quiet company. Chihiro refuses his paper-work proposal because she wants rest, and objects to Kotama's hidden recorder. These acts preserve genuine care and a boundary that can benefit the adult. They coexist with other students' complaints and with inward offers or reactions that cannot all become heard dialogue. The teacher's favorable experience is one recipient's outcome, not a certificate that the plan was equally wanted by everyone. [E832 E002–003/E005u0060–0066/E006u0061–0096/E007][camp]",
+        "source_anchors": [
+          {
+            "label": "E832 E002–003/E005u0060–0066/E006u0061–0096/E007",
+            "reference": "camp",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH042",
+        "section": "7. Relationship with Sensei: correction, credibility, company and judgment",
+        "saved_body_line": 119,
+        "sha256_utf8_line_no_terminator": "9482d0caab3c4cda2bb2648efe1f821df0bf39a91606814f22fb55b9b9039f4f",
+        "full_saved_paragraph": "Her MAIN role also defeats a one-way teacher-helped-student script. She navigates, supplies hypotheses and implements work that Sensei could not be credited with merely because he is present. He assents to a team decision within printed choices; other students create and revise the plan. The adult's institutional and ethical responsibilities remain significant, especially around injury and time, without absorbing the authorship or independent judgment of the people who make the local success possible. [Pavane C002E017–021][mirror] [Final C004E004][cut]",
+        "source_anchors": [
+          {
+            "label": "Pavane C002E017–021",
+            "reference": "mirror",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md"
+          },
+          {
+            "label": "Final C004E004",
+            "reference": "cut",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E004_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH043",
+        "section": "8. Major peers and independent recipients",
+        "saved_body_line": 125,
+        "sha256_utf8_line_no_terminator": "e333308e4d9ea2835959ad17560b565089026b6d0a3332320f0edb5aa8fbb4e4",
+        "full_saved_paragraph": "GROUP150 retains different motives in the incident. Maki worries about her record and recruits through different appeals; Hare wants a drone test and later encounters specialization limits; Kotama offers data rhetoric and a teacher-facing denial. Chihiro's return does not retroactively make the whole sequence a simple lesson delivered by her. She reports the server defense, recognizes the attackers and rebukes their focus on technical victory. Their recognition and Maki's pardon request are local responses. The rumor students and Yuuka remain affected recipients whose later information differs from Chihiro's; there is no shown transfer of her knowledge to Yuuka. [G1501–1503 §3–4][privacy]",
+        "source_anchors": [
+          {
+            "label": "G1501–1503 §3–4",
+            "reference": "privacy",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH044",
+        "section": "8. Major peers and independent recipients",
+        "saved_body_line": 127,
+        "sha256_utf8_line_no_terminator": "65f415220731bb7ab0dcf634644f04a22d1726ec62ad0717427e7c3855613f42",
+        "full_saved_paragraph": "Camping makes the members receivers of both wanted care and unwanted arrangements. Chihiro's actual participation in cooking and preparation matters, but Hare and Kotama retain mixed judgments rather than gratitude that cancels fatigue. Maki's mural supplies artistic delight and a public explanation problem. Their later concern for Chihiro's hoarse voice reverses the care direction; she refuses their proposed rest. This is a reciprocal relation with asymmetrical authority and differing tastes, not a group of interchangeable pupils who simply learn to leave computers behind. [E832 E006–010][camp]",
+        "source_anchors": [
+          {
+            "label": "E832 E006–010",
+            "reference": "camp",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH045",
+        "section": "8. Major peers and independent recipients",
+        "saved_body_line": 129,
+        "sha256_utf8_line_no_terminator": "c534a818ad1fda01cbab19572fb9e55be799031322ad1b7cb316a5ffb2cea67e",
+        "full_saved_paragraph": "At the celebration, Maki's pressure and partly admitted wish to see Chihiro lose remain independent motives. Chihiro's game completion and stress relief do not make her the superior player. Her later question about Koyuki's hacking elicits an uncounted-materials explanation and a prospective interview; the examination is not performed on the page. A person can participate in games, want relief and still maintain a protective role. Maki, Koyuki and the other peers do not all receive that role as the same welcome or burden. [E842 E012u0022–0039/E014u0036–0047][party]",
+        "source_anchors": [
+          {
+            "label": "E842 E012u0022–0039/E014u0036–0047",
+            "reference": "party",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH046",
+        "section": "8. Major peers and independent recipients",
+        "saved_body_line": 133,
+        "sha256_utf8_line_no_terminator": "6dd77c8dc3fd3beb582a1e3605d8b7c688e2bf79ff2380bdac1f83bb721a5180",
+        "full_saved_paragraph": "Himari's familiar nickname for Chihiro and earnest astrology theory are actual peer texture, not failed versions of crisis competence. Chihiro reports returning a thick library book near its deadline; Himari says the blueprint was inside. The library-to-Seminar transfer is not shown. Chihiro identifies the design as the earlier astrology device, questions common destiny by birth stars and points out the contradiction between a twelve-sign account and Himari's Ophiuchus self-description. No inspected dataset, universal scientific superiority or whole-person dismissal of Himari follows. [G3103 u0041–0062][budget]",
+        "source_anchors": [
+          {
+            "label": "G3103 u0041–0062",
+            "reference": "budget",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH047",
+        "section": "8. Major peers and independent recipients",
+        "saved_body_line": 135,
+        "sha256_utf8_line_no_terminator": "a4c372eeaf16b8885b66a088b22d527ca5cd1fb1edd452abd1eacd6365d723c8",
+        "full_saved_paragraph": "Their public technical relation has a different form. Chihiro credits Himari's Mirror preparation; the coalition depends on its bounded countermeasure rather than the comic theory. In the written private repertoire she explicitly cannot read all Himari's thoughts. In the celebration she remembers work with Himari and Rio, qualifies whether they were friends and tentatively interprets a wish for reconciliation. Familiarity supports correction and practical collaboration; it does not let Chihiro certify another person's concealed motives or an accomplished relationship settlement. [Pavane C002E017 s1u0002–0016][mirror] [20013 written3384][private] [E842 E015u0020–0028][party]",
+        "source_anchors": [
+          {
+            "label": "Pavane C002E017 s1u0002–0016",
+            "reference": "mirror",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md"
+          },
+          {
+            "label": "20013 written3384",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "E842 E015u0020–0028",
+            "reference": "party",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH048",
+        "section": "8. Major peers and independent recipients",
+        "saved_body_line": 139,
+        "sha256_utf8_line_no_terminator": "ef6d6d72da033fa4ccb147bed1d294de8be17f39c2073648e02463f8f33dae0c",
+        "full_saved_paragraph": "Yuuka's refusal to alter her own record and weak credential practice coexist in GROUP150. The subsequent privacy harm cannot be blamed entirely on that weakness or erased by Chihiro's defense. Noa and Chihiro's quieter celebration exchange raises the difference between freedom, disorder and responsibility for another person's choices. Noa's wish for peaceful daily continuity is an independently wanted end; Chihiro's locally completed maintenance is not proof that the institution can deliver it permanently. Neither woman should be reduced to the other's security function. [G1502 s1u0002–0019/G1503s2][privacy] [E842 E015u0014–0038][party]",
+        "source_anchors": [
+          {
+            "label": "G1502 s1u0002–0019/G1503s2",
+            "reference": "privacy",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          },
+          {
+            "label": "E842 E015u0014–0038",
+            "reference": "party",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH049",
+        "section": "8. Major peers and independent recipients",
+        "saved_body_line": 141,
+        "sha256_utf8_line_no_terminator": "aacf6b77af73773789dd403ecfb358635f807ff7e769f11319fd67c67b12aaf7",
+        "full_saved_paragraph": "The sports comparison prevents a flawless guardian version of Chihiro. She voices a roster-permission objection and mundane alternative while the investigation still has an internal-IP/blocked-attack clue rather than a known culprit. Concealment advice and a logic-bomb counterfactual complicate her protective portrait. She refuses an imagined cheer request that the peers say was not made, so both a boundary and a mistaken premise remain. Her later bounded help and all-night company accompany recipient-shaped program revisions, while full consultation and data/security repair are unprinted. Firmness can be useful and can answer a premise that was never actually offered. [E817 E003/E007/E010–011 complete comparison][sports]",
+        "source_anchors": [
+          {
+            "label": "E817 E003/E007/E010–011 complete comparison",
+            "reference": "sports",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH050",
+        "section": "8. Major peers and independent recipients",
+        "saved_body_line": 145,
+        "sha256_utf8_line_no_terminator": "27ff9e975e6b7e5295b119b56da78d5f3a0227824880fada03cb265030b9b1fb",
+        "full_saved_paragraph": "Sumire's help, Himari's preparation, Engineering's hardware, Yuzu's observation, Momoi's idea, C&C's chosen action and Kayoko's confirmation each retain their own causal and relational place. Chihiro's implementation does not consume them as subordinates. Likewise, the private client, unknown users, Chronos reporter and rumor students are not background noise to an expert's inner growth. Their offers, reports, exposures and missing repair outcomes limit what an account of Chihiro can call successful. Where the source supplies only a local role or an interested report, it should remain exactly that; sparse evidence is required within the argument without manufacturing an independent biography or cross-scene identity. [20013:003/006][private] [G1503s2][privacy] [Pavane C002E017–021][pavane] [Final C004E004][cut]",
+        "source_anchors": [
+          {
+            "label": "20013:003/006",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "G1503s2",
+            "reference": "privacy",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          },
+          {
+            "label": "Pavane C002E017–021",
+            "reference": "pavane",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md"
+          },
+          {
+            "label": "Final C004E004",
+            "reference": "cut",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E004_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH051",
+        "section": "9. Language, written voice and source-mode limits",
+        "saved_body_line": 149,
+        "sha256_utf8_line_no_terminator": "ac966780f48057c98c645058efabf77520de1314f6caa7d913819d4f45f8c9a1",
+        "full_saved_paragraph": "Her register changes with the task. Plain 私/先生 and immediate password prohibitions address a familiar adult; 御社, responsibility and honest-service language face a client; 他人の個人情報 shifts a club's focus from prestige to affected people. The narrow concession 多少 matters because it permits some memorability without endorsing every weak convenience. 格別 values a particular taste after work. 不当な手段 names a failure of means rather than merely disappointment in results. 大人ってズルい belongs to the acknowledgement scene's relational turn, rather than an invariant hostile judgment of adults. [20013:002 u0022;003 u0014/0036;005 coffee;006 u0048–0053][private] [G1503s1u0040][privacy]",
+        "source_anchors": [
+          {
+            "label": "20013:002 u0022;003 u0014/0036;005 coffee;006 u0048–0053",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "G1503s1u0040",
+            "reference": "privacy",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH052",
+        "section": "9. Language, written voice and source-mode limits",
+        "saved_body_line": 151,
+        "sha256_utf8_line_no_terminator": "a2fee20e299da925053f795d6b95953021346eddf0bfff44bed351158251a4e4",
+        "full_saved_paragraph": "Backdoor language changes function across the private repertoire. In003 it first invites clandestine expectations, then the normal entrance and the adult's credibility reinterpret it as social access. In006 permitted professional access exposes a suspected collection mechanism, while a later anonymous disclosure creates different permission and publicity questions. The shared vocabulary makes an illuminating comparison, without allowing metaphor and intrusion to become the same act or establishing a chronological decline. The vending-machine comparison similarly joins quiet usefulness and a personal pleasure, rather than proving that an expert is only a tool. [20013:003 u0010–0012/0040–0045;005;006 u0020–0056][private]",
+        "source_anchors": [
+          {
+            "label": "20013:003 u0010–0012/0040–0045;005;006 u0020–0056",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH053",
+        "section": "9. Language, written voice and source-mode limits",
+        "saved_body_line": 153,
+        "sha256_utf8_line_no_terminator": "26c10851556202c6f891a142d722506c3514097752c329753d3ea0817d3962b5",
+        "full_saved_paragraph": "Three consequential private presentation limits remain. In003u0019 a company-side question is labeled Chihiro; in006u0002 a Veritas introduction is labeled the suspicious president; in005u0025–0037 timed coffee units are labeled narration. Discourse-function inferences may be qualified, but no silent speaker repair is claimed. The corresponding written coffee repertoire does not create performed audio or a second scene. Inward Sensei lines, duplicated choice replies and unmarked MomoTalk alternatives likewise cannot be assembled into a single heard script. [P9 L198–205][private]",
+        "source_anchors": [
+          {
+            "label": "P9 L198–205",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH054",
+        "section": "9. Language, written voice and source-mode limits",
+        "saved_body_line": 155,
+        "sha256_utf8_line_no_terminator": "3648b8dcbe9b78edf12211b631cff7780df18cb73cbd5ede81add0c71bacd7ac",
+        "full_saved_paragraph": "Public seams also constrain individual quotation. GROUP150's polite/plain shifts and empty Eimi person join remain qualified. Camping includes self-address and bear-like lines under event-local Rei, but the bear's presence is supported by the surrounding encounter and Sensei's recognition. Party015u0014 is headed Chihiro while addressing the Veritas-origin question; her secure subsequent answer supports the principle without repairing every heading. Pavane's helper and C&C labels have specific uncertainties, and Final's absent0071 and nonmonotone0095 position are preserved. Whole contextual meanings can be adequate while exact voice ownership remains narrower. [G150 §5][privacy] [E832 modes][camp] [E842 L123–124][party] [Pavane C002E017/E021 quarantines][mirror] [Final C003E006][ship]",
+        "source_anchors": [
+          {
+            "label": "G150 §5",
+            "reference": "privacy",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          },
+          {
+            "label": "E832 modes",
+            "reference": "camp",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          },
+          {
+            "label": "E842 L123–124",
+            "reference": "party",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+          },
+          {
+            "label": "Pavane C002E017/E021 quarantines",
+            "reference": "mirror",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md"
+          },
+          {
+            "label": "Final C003E006",
+            "reference": "ship",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH055",
+        "section": "9. Language, written voice and source-mode limits",
+        "saved_body_line": 157,
+        "sha256_utf8_line_no_terminator": "b00c3f952687c711c20b74ba7484b5e22b005af547fdfdc937f9f2502925a25d",
+        "full_saved_paragraph": "The profile and conditional contexts are written evidence, not runtime certainty. A ten-second assessment is not an inspected exploit; a server question is not a narrated explosion; a gun joke is not a shooting; seasonal invitation is not uptake. Shopping, fatigue, joking and affection are nevertheless positive character evidence in these modes. This synthesis has inspected no acting, prosody, audio, animation or costume pixels. It cannot claim how a performer delivers familiarity, frustration or tenderness, and no written-mode association changes that limit. [20013 written3371–3402][private]",
+        "source_anchors": [
+          {
+            "label": "20013 written3371–3402",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH056",
+        "section": "10. Competing readings and evidential judgment",
+        "saved_body_line": 163,
+        "sha256_utf8_line_no_terminator": "62b0bb6dbbc3b102be7d9840ace9bb319091865f6304c3ee1f33186fdda52118",
+        "full_saved_paragraph": "This reading has substantial support: the written ethical introduction, office teaching, limited usability concession, ordinary maintenance, GROUP150's refusal of prestige-based excuses and her tactical qualifications. It explains a real protective pattern. It fails as an all-context verdict against the unfair private act, secrecy, sports concealment advice and an outing that begins by overriding existing plans. The adequate revision preserves sincere responsibility with particular failures and unresolved outcomes. Her own condemnation is part of that responsibility, not evidence that the act did not occur. [20013:002/005/006/written][private] [G1503][privacy] [E817 E003][sports] [E832 E001–002][camp]",
+        "source_anchors": [
+          {
+            "label": "20013:002/005/006/written",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "G1503",
+            "reference": "privacy",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          },
+          {
+            "label": "E817 E003",
+            "reference": "sports",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+          },
+          {
+            "label": "E832 E001–002",
+            "reference": "camp",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH057",
+        "section": "10. Competing readings and evidential judgment",
+        "saved_body_line": 167,
+        "sha256_utf8_line_no_terminator": "55d1c716bf5367345cd474bd7e2f3ca6ec06579130aedbdac5bdb8b257c3e9ec",
+        "full_saved_paragraph": "The whistleblower reading recognizes anger at apparent exploitation and institutional obstacles; the hypocrite reading recognizes contradiction between teaching and methods. Neither should be used as a complete moral category. The former loses her own statement that the means were unfair and the unresolved recipient consequences. The latter loses earlier restraint, the refusal to excuse her club's attacks, acknowledgement and an intention to improve. The precise result is involvement strongly supported by the admission after a reported anonymous disclosure, without forensic reconstruction, legal adjudication or automatic redemption. Reassurance and secrecy leave the accountability question live. [20013:006 whole thread/u0016–0056][private] [G1503s1u0040–0042][privacy]",
+        "source_anchors": [
+          {
+            "label": "20013:006 whole thread/u0016–0056",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "G1503s1u0040–0042",
+            "reference": "privacy",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH058",
+        "section": "10. Competing readings and evidential judgment",
+        "saved_body_line": 171,
+        "sha256_utf8_line_no_terminator": "5eb791d4bd8ef01661c3e9f46bb81407582a591518f939c7a2ce8bb7aac5b934",
+        "full_saved_paragraph": "The quiet-machine comparison, limited club availability, hoarse refusal of rest and shallow sleep before continued maintenance support concern about how work occupies her life. Yet advance sleep, coffee, hobbies, a nap-room request, books, cooking and an explicit ship-fatigue request oppose total self-erasure. The question is how she grants stopping in particular settings and when she fails to grant it to herself or others. Her pleasures are evidence against a tool-only portrait, with intrinsic value independent of whether they improve future productivity. [20013:005/written][private] [E832 E003/E007/E010][camp] [E842 E015][party] [Final C003E006 u0012–0013][ship]",
+        "source_anchors": [
+          {
+            "label": "20013:005/written",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "E832 E003/E007/E010",
+            "reference": "camp",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          },
+          {
+            "label": "E842 E015",
+            "reference": "party",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+          },
+          {
+            "label": "Final C003E006 u0012–0013",
+            "reference": "ship",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH059",
+        "section": "10. Competing readings and evidential judgment",
+        "saved_body_line": 175,
+        "sha256_utf8_line_no_terminator": "694b627e0c7cf39ca9c9b612f03bce4baa7aaf55fe899f12226b020ebd7d0def",
+        "full_saved_paragraph": "The conversion reading retains successful tent work, reading, food, cleanup, sunrise and gratitude. The coercion reading retains overridden plans, undisclosed camping, device restrictions, labor and complaints. The complete ending prevents either from swallowing the other. A real late choice to continue differs from the initial order; actual pleasure differs from permanent agreement; the simulator coda defeats an assertion of measured real fitness improvement. Chihiro also helps with labor and offers a stop option, so indifference to all recipient wants is unsupported. Reciprocal rest concern followed by her refusal exposes a continuing tension rather than an accomplished cure. [E832 E001–010, including whole epilogue][camp]",
+        "source_anchors": [
+          {
+            "label": "E832 E001–010, including whole epilogue",
+            "reference": "camp",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH060",
+        "section": "10. Competing readings and evidential judgment",
+        "saved_body_line": 179,
+        "sha256_utf8_line_no_terminator": "398c3508850889712e352d7752640bad9c82506372fb0dbabee661b6808587e2",
+        "full_saved_paragraph": "The expert stereotype overstates local negative inspection, conditional ten-second speech, difficult server defense, fragile Mirror access, unmeasured computation and access before control. The assistant stereotype loses professional strategy, hypotheses, navigation, implementation and independently directed peer correction. Sensei's reputation is indispensable in the particular business scene, while student authorship is indispensable in the coalition. Neither relation can be universalized. The successful elevator effect and final link cut are genuine local achievements through different collaborators; they do not validate every diagnostic claim or collapse all work into the teacher's plan. [20013:002/003/written3375][private] [G1503][privacy] [Pavane C002E017–021][pavane] [Final C003E006/C004E004][ship]",
+        "source_anchors": [
+          {
+            "label": "20013:002/003/written3375",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "G1503",
+            "reference": "privacy",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          },
+          {
+            "label": "Pavane C002E017–021",
+            "reference": "pavane",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md"
+          },
+          {
+            "label": "Final C003E006/C004E004",
+            "reference": "ship",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH061",
+        "section": "10. Competing readings and evidential judgment",
+        "saved_body_line": 181,
+        "sha256_utf8_line_no_terminator": "90db9583f54b623c3c76aee952fb1a461109a230f6637873ca070a8095c0b0de",
+        "full_saved_paragraph": "The strongest synthesis is therefore conditional and literary: Chihiro's daily protection can translate knowledge into usable arrangements, yet care does not always remain attentive to whose choice, knowledge, rest or privacy is at issue. Ordinary preferences show what she wants to share and retain; consequential failures show what sharing and protection can cost. The source supports this connected argument without a fixed growth ladder, a diagnosis, a universal response rule or a claim that all of her future conflicts have been resolved.",
+        "source_anchors": [],
+        "argument_scope_if_no_inline_anchor": "Joined thesis, institutional duty separation or custody/conclusion at declared complete source scope; not fresh source observation",
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH062",
+        "section": "11. Evidence route, open gaps and completeness",
+        "saved_body_line": 185,
+        "sha256_utf8_line_no_terminator": "7f91a023aca01d982c71ccea5f64677be60881163b7f7b4532153f263cfe2e21",
+        "full_saved_paragraph": "The current normal private owner is the published admission/meaning route for four complete bond/whole-thread pairs and one written repertoire. The five complete individual analytical arguments were also personally received at their exact historically ROOT-accepted local bytes or unchanged accepted-body derivative. Their historical unadmitted producer statements remain history, and their detailed arguments retain choices, whole-thread conditions, codas and contrary interpretations. These are analytical inputs, not new primary reading. The separate source receipt binds public-safe artifact labels and the current normal owner without publishing machine paths or raw acquisition material. [P9 Cycle008/current qualification/complete family argument][private]",
+        "source_anchors": [
+          {
+            "label": "P9 Cycle008/current qualification/complete family argument",
+            "reference": "private",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH063",
+        "section": "11. Evidence route, open gaps and completeness",
+        "saved_body_line": 187,
+        "sha256_utf8_line_no_terminator": "da882792a895d5b5fe3c009e196d8b453819e5480c6f36d69a370c1c54a58611",
+        "full_saved_paragraph": "The complete public arguments include prior whole GROUP150/GROUP310, Pavane/Final contextual owners and sports/party custody, the complete newly received camping owner, bounded consequential public clauses, and whole small Pavane012/017/018/020/021 and FinalC002E002/C003E006/C004E004 owners. Search and home projections supplied routing, not automatic full reading. Exact worktree byte/hash/blob bindings are checked against the declared source snapshot; historical7489/c1/main comparands remain separate from the current 1bb source head. Mutable ROOT progress metadata is not used as a literary input or an unchanged-source claim.",
+        "source_anchors": [],
+        "argument_scope_if_no_inline_anchor": "Joined thesis, institutional duty separation or custody/conclusion at declared complete source scope; not fresh source observation",
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH064",
+        "section": "11. Evidence route, open gaps and completeness",
+        "saved_body_line": 189,
+        "sha256_utf8_line_no_terminator": "c922f2fdf389aae98f40fd3b32fb154724405cb215b5a56119101c3af8bc7de6",
+        "full_saved_paragraph": "No unprinted endpoint is necessary to support the bounded thesis, but those endpoints remain consequential open questions. The private client's signed instrument, payment, later service and user repair are unknown; the disclosure has no shown forensic/legal resolution; group correction has no demonstrated universal rumor removal; the outing has no durable lifestyle transformation; game relief has no completed restoration proof; crisis success has no universal control or personal medical clearance. The full eligible-cast, directed relationship and institutional obligations remain in their own required homes. This monograph does not complete them by comparison.",
+        "source_anchors": [],
+        "argument_scope_if_no_inline_anchor": "Joined thesis, institutional duty separation or custody/conclusion at declared complete source scope; not fresh source observation",
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      },
+      {
+        "claim_id": "CH065",
+        "section": "11. Evidence route, open gaps and completeness",
+        "saved_body_line": 208,
+        "sha256_utf8_line_no_terminator": "35eb0f727472490c786b0ddfff9e52c3faa64335339a3cb6319593fe27721da2",
+        "full_saved_paragraph": "All fourteen original gaps remain **OPEN**. Complete at this author boundary means a sustained eleven-section synthesis that carries its actual private/public endings, independent recipients, wanted lives and serious contrary explanations together. It does not mean source completeness without a boundary, performance completion, certified producer independence, model readiness, ROOT acceptance or canonical publication. ROOT's independent complete receiving and decision remain pending. No scope denominator, quarter milestone or new package credit is claimed by this saved draft.",
+        "source_anchors": [],
+        "argument_scope_if_no_inline_anchor": "Joined thesis, institutional duty separation or custody/conclusion at declared complete source scope; not fresh source observation",
+        "confidence": "HIGH_LOCAL_ACT_AND_MODE_BOUNDARY;MODERATE_JOINED_INTERPRETATION",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+      }
+    ],
+    "complete_source_endpoint_reviews": [
+      {
+        "endpoint_id": "EP01",
+        "source_ids": "L02/P09",
+        "complete_scope": "20013:002 and whole200130010",
+        "actual_positive_or_changed_endpoint": "Password transfer stopped; bounded negative intrusion report and actual teaching encounter",
+        "contrary_or_unfinished_tail": "Final password/compliance/physical key/security durability not printed",
+        "primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP02",
+        "source_ids": "L03/P09",
+        "complete_scope": "20013:003 and whole200130080",
+        "actual_positive_or_changed_endpoint": "Normal entrance and professional strategy yield spoken one-year offer; thanks/coffee promise",
+        "contrary_or_unfinished_tail": "Borrowed adult credibility, choice guarantees differ; signed instrument/payment/year of service absent",
+        "primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP03",
+        "source_ids": "L05/P09",
+        "complete_scope": "20013:005 and whole200130150",
+        "actual_positive_or_changed_endpoint": "Advance sleep/midnight, locally completed maintenance, familiar coffee, dawn and narrated sleep",
+        "contrary_or_unfinished_tail": "Excluded users acknowledged; thirteen narration/seven written contexts not independent/performed scenes",
+        "primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP04",
+        "source_ids": "L06/P09",
+        "complete_scope": "20013:006 and whole200130240",
+        "actual_positive_or_changed_endpoint": "Backup discovery, next-morning anonymous disclosure report, admission/condemnation and future intention",
+        "contrary_or_unfinished_tail": "Secrecy remains; personal-data publishing not established; forensic/legal/user repair not shown",
+        "primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP05",
+        "source_ids": "LW/P09",
+        "complete_scope": "Written20013 eight fields/34contexts3369–3402",
+        "actual_positive_or_changed_endpoint": "Norm, hobby, ordinary birthdays, uncertainty, Maki fondness, jokes and coffee texture all retained",
+        "contrary_or_unfinished_tail": "Conditional contexts not enacted calendar/confirmed exploit/fired gun; profile cannot cancel E006",
+        "primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP06",
+        "source_ids": "G15",
+        "complete_scope": "GROUP1501–1503, evening and several-days coda",
+        "actual_positive_or_changed_endpoint": "Unauthorized access/false proposal/publication, difficult defense report, internal ethics rebuke; ongoing rumor",
+        "contrary_or_unfinished_tail": "Sanctions/restoration/corrected universal audience/offender knowledge transfer toYuuka absent",
+        "primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP07",
+        "source_ids": "G31",
+        "complete_scope": "GROUP3103u0041–0062 and complete device ending",
+        "actual_positive_or_changed_endpoint": "Reported book return/direct theory disagreement/Ophiuchus contradiction; financial windfall survives elsewhere",
+        "contrary_or_unfinished_tail": "No library transfer shown; no dataset/scientific universalism/reliable prophecy or performed superiority",
+        "primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP08",
+        "source_ids": "E32",
+        "complete_scope": "EVENT832 all001–010",
+        "actual_positive_or_changed_endpoint": "Mandatory attendance/withheld plan followed by actual shared reading/cooking/dinner/cleanup; late stop option/chosen continuation/sunrise/public mural explanation",
+        "contrary_or_unfinished_tail": "Reciprocal rest refused; simulator10kg/game return defeats lasting fitness conversion; no breakfast eaten/erasure/blanket consent",
+        "primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP09",
+        "source_ids": "E42",
+        "complete_scope": "EVENT842012/014/015 and complete party argument",
+        "actual_positive_or_changed_endpoint": "Pressed BOOM play/stress relief/local completion without better time; maintenance declared complete/NewYear greeting",
+        "contrary_or_unfinished_tail": "Restoration/interview/reconciliation/permanent security unshown; shallow sleep and initial pressure retained",
+        "primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP10",
+        "source_ids": "E17",
+        "complete_scope": "EVENT817003/007/010–011",
+        "actual_positive_or_changed_endpoint": "Roster objection, conditional help, imagined cheer refusal, program revision and all-night company",
+        "contrary_or_unfinished_tail": "Mistaken premise/concealment advice/logic-bomb counterfactual; known culprit/complete security or consultation not shown",
+        "primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP11",
+        "source_ids": "P12/P17",
+        "complete_scope": "PavaneC002E012/E017",
+        "actual_positive_or_changed_endpoint": "Remote work planned, Mirror method reported, helper thanks and navigation; local weapon win peers stop exhausted",
+        "contrary_or_unfinished_tail": "Fragile path, conjectured seizure intent/retrieval log, full defenses and Alice return not completed",
+        "primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP12",
+        "source_ids": "P18",
+        "complete_scope": "PavaneC002E018",
+        "actual_positive_or_changed_endpoint": "Chihiro guides to exterior and reasons Alice likely there",
+        "contrary_or_unfinished_tail": "No sighting/facility proof; Rio all-defense/adult-variable claims interested",
+        "primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP13",
+        "source_ids": "P20/P21",
+        "complete_scope": "PavaneC002E020/E021",
+        "actual_positive_or_changed_endpoint": "Finite capacity inventory, observed hit/qualified compute hypothesis, student-origin plan/hack/evasion paralysis/local win",
+        "contrary_or_unfinished_tail": "Actual acceleration/forensic compute mechanism/medical clearance/full Toki state unproved",
+        "primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP14",
+        "source_ids": "F02",
+        "complete_scope": "FinalC002E002 whole meeting/record ending",
+        "actual_positive_or_changed_endpoint": "Tentative300hours amid lowconfidence mechanism/two-week/operation clock; local coalition assignments",
+        "contrary_or_unfinished_tail": "Clocks not reconciled; no validated model/full evacuation/Kuzunoha remedy",
+        "primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP15",
+        "source_ids": "F36",
+        "complete_scope": "FinalC003E006 whole ending",
+        "actual_positive_or_changed_endpoint": "Fatigue requested; algorithm/processor work, connection explicitly not control; further Kei warning",
+        "contrary_or_unfinished_tail": "No deployment proof/minimum staffing/ship origin or Alice ontology certification;0071absent/0095nonmonotone",
+        "primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP16",
+        "source_ids": "F44/F00",
+        "complete_scope": "FinalC004E004 plus fullFinal current argument",
+        "actual_positive_or_changed_endpoint": "Different ground/ship contributions converge on link severance at one second and local stable suppression",
+        "contrary_or_unfinished_tail": "Immediate cut not whole escape/permanent control/ground safety/soloChihiro credit",
+        "primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      }
+    ],
+    "eleven_headers": [
+      {
+        "line": 23,
+        "heading": "## 1. Core thesis"
+      },
+      {
+        "line": 33,
+        "heading": "## 2. Longitudinal arc and legitimate ordering"
+      },
+      {
+        "line": 47,
+        "heading": "## 3. Public self, private self, and who hears the norm"
+      },
+      {
+        "line": 59,
+        "heading": "## 4. School and club role: protective work and divided authority"
+      },
+      {
+        "line": 73,
+        "heading": "## 5. Ordinary life: quiet pleasures, bodily limits and wanted company"
+      },
+      {
+        "line": 91,
+        "heading": "## 6. Crisis behavior: hypotheses, implementation and finite workers"
+      },
+      {
+        "line": 107,
+        "heading": "## 7. Relationship with Sensei: correction, credibility, company and judgment"
+      },
+      {
+        "line": 121,
+        "heading": "## 8. Major peers and independent recipients"
+      },
+      {
+        "line": 147,
+        "heading": "## 9. Language, written voice and source-mode limits"
+      },
+      {
+        "line": 159,
+        "heading": "## 10. Competing readings and evidential judgment"
+      },
+      {
+        "line": 183,
+        "heading": "## 11. Evidence route, open gaps and completeness"
+      }
+    ],
+    "all14_gaps": [
+      {
+        "gap": "G01",
+        "state": "OPEN",
+        "saved_body_line": 193,
+        "full_contribution_and_limit": "| G01 ordinary/private breadth | Whole four pairs and written contexts retain care, quiet pleasure, fatigue, company, preparation, failure and secrecy. | No franchise-wide private ceiling or removal of other cast responsibilities. |"
+      },
+      {
+        "gap": "G02",
+        "state": "OPEN",
+        "saved_body_line": 194,
+        "full_contribution_and_limit": "| G02 Yuuka decision/office transfer | Direct group fairness/weak security, affected rumor and celebration maintenance are compared. | Yuuka's own longitudinal and directed Noa relation remain separate; no universal privacy repair. |"
+      },
+      {
+        "gap": "G03",
+        "state": "OPEN",
+        "saved_body_line": 195,
+        "full_contribution_and_limit": "| G03 Serika service/reciprocity | Work and payment/recognition distinctions permit only a bounded analogy. | No Serika wages, service recipients or aftermath is completed. |"
+      },
+      {
+        "gap": "G04",
+        "state": "OPEN",
+        "saved_body_line": 196,
+        "full_contribution_and_limit": "| G04 Hina accountability/ordinary contrast | Care, discretion and stopping remain separate questions. | Hina's named gift/privacy and public accountability responsibilities are not closed here. |"
+      },
+      {
+        "gap": "G05",
+        "state": "OPEN",
+        "saved_body_line": 197,
+        "full_contribution_and_limit": "| G05 Arius/PS68 ordinary aftermath | Crisis collaborators retain independent agency rather than a generic support function. | No livelihoods, medical/legal aftermath or full named-group repair. |"
+      },
+      {
+        "gap": "G06",
+        "state": "OPEN",
+        "saved_body_line": 198,
+        "full_contribution_and_limit": "| G06 cross-school ordinary repertoire | Electronics, coffee, birthdays, reading, food, games and rest remain intrinsically valuable. | No whole-school or cross-school prevalence claim. |"
+      },
+      {
+        "gap": "G07",
+        "state": "OPEN",
+        "saved_body_line": 199,
+        "full_contribution_and_limit": "| G07 chronology | Local midnight/dawn, next morning, coffee callback, group coda, NewYear/week-later and main progression are preserved. | No absolute private/group/event/MAIN alignment or universal ethical growth order. |"
+      },
+      {
+        "gap": "G08",
+        "state": "OPEN",
+        "saved_body_line": 200,
+        "full_contribution_and_limit": "| G08 event names/repeats |832/817/842 actual scopes and simulator/celebration modes are kept distinct. | No fused celebration or release-driven calendar; other event routes remain available at their actual scope. |"
+      },
+      {
+        "gap": "G09",
+        "state": "OPEN",
+        "saved_body_line": 201,
+        "full_contribution_and_limit": "| G09 actor/choice/audience | Literal private seams, coffee association, inward forms, alternatives and public drift constrain voice and knowledge. | No universal repair, all-branch enactment or automatic recipient hearing. |"
+      },
+      {
+        "gap": "G10",
+        "state": "OPEN",
+        "saved_body_line": 202,
+        "full_contribution_and_limit": "| G10 performance | Japanese written address, register, jokes and conditional contexts support textual argument. | No audio, prosody, acting, animation or pixels inspected. |"
+      },
+      {
+        "gap": "G11",
+        "state": "OPEN",
+        "saved_body_line": 203,
+        "full_contribution_and_limit": "| G11 Hoshino/Yume records | No analogy authenticates a historical notebook or office state. | Their memory, grief, records and death-causality obligations remain. |"
+      },
+      {
+        "gap": "G12",
+        "state": "OPEN",
+        "saved_body_line": 204,
+        "full_contribution_and_limit": "| G12 identity/system | Exact CH0160/20013 and actual local roles are retained. | No invented romanized identity, generic actor joins, device personhood or source-wide metadata repair. |"
+      },
+      {
+        "gap": "G13",
+        "state": "OPEN",
+        "saved_body_line": 205,
+        "full_contribution_and_limit": "| G13 institutions/outcomes | Teaching, offer, completed maintenance, reported disclosure, actual late choice, game completion and local crisis effects have different strengths. | Signed terms, revenue, user repair, lawful outcome, permanent security, medical clearance and universal consent remain unproved. |"
+      },
+      {
+        "gap": "G14",
+        "state": "OPEN",
+        "saved_body_line": 206,
+        "full_contribution_and_limit": "| G14 modes/outside selection | Written 34 contexts, timed coffee, forecasts/reports and operation 90000120 as an inquiry lead remain differentiated. | No unread operation meaning or unreceived event content manufactured; no mode continuity repair. |"
+      }
+    ],
+    "source_mode_limits": [
+      "report versus independently inspected mechanism",
+      "choice versus all-branch enactment",
+      "inward versus recipient-heard",
+      "timed written coffee versus performed/second incident",
+      "local completed effect versus durable outcome",
+      "metaphor versus intrusion",
+      "absolute chronology versus local relation",
+      "accepted analytical argument versus new primary",
+      "identity join/role/family versus package credit"
+    ],
+    "rival_readings": [
+      "flawless conscience",
+      "righteous whistleblower/irredeemable hypocrite",
+      "self-erased invisible worker",
+      "benign outdoor conversion/total coercion",
+      "universal expert/adult-dependent assistant"
+    ],
+    "ROOT_literary_receiving": "PENDING",
+    "sourcecount_is_completion": false,
+    "new_primary_raw_performed_model_credit": 0,
+    "scope_quarter_completion_credit": 0
+  },
+  "historical_coordinates": "Original saved coordinates remain frozen. Canonical exhaustive joins govern current retrieval. Old E832 physicalEOF statements are explicitly qualified by the separate exact appended erratum, without retroactive source or literary credit.",
+  "canonical_saved_line_mapping": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CHIHIRO_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+  "current_E832_custody_correction": {
+    "current_custody_qualification": "HistoricalL1–114 is not actual currentEOF; L115 is substantive Remaining duties. Later author362401 receivedL73–115, and ROOT independently received actualL115/necessary clipped literaryL87/L89. Original claims remain historical and are not retrospectively enlarged. No literary body correction or new primary/performed/model/scope credit follows.",
+    "exact_separate_original_erratum_tuple": {
+      "path": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/CHIHIRO_E832_ENDPOINT_AUTHOR_CUSTODY_ERRATUM_V1.json",
+      "bytes": 3142,
+      "sha256": "d9589ec0007a3b6077dfff3995107c47ec2dd5c14c95b81e7a546796fb4566e1",
+      "git_blob_oid_of_actual_bytes": "45f6347588b34a86b13785b48a852b13fc95a049",
+      "lines": 27
+    },
+    "exact_public_erratum_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CHIHIRO_E832_ENDPOINT_AUTHOR_CUSTODY_ERRATUM_V1.json",
+    "appended_unchanged_erratum_payload": {
+      "schema": "BLUE_ARCHIVE_CHIHIRO_E832_ENDPOINT_AUTHOR_CUSTODY_ERRATUM_V1",
+      "decision": "CORRECT_RECEIPT_DESCRIPTION_PRESERVE_IMMUTABLE_ORIGINALS",
+      "frozen_author_receipt": {
+        "relative_path": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/CHIHIRO_MONOGRAPH_AUTHOR_COMPLETE_READBACK_AND_FREEZE_RECEIPT_V1.json",
+        "byte_count": 4057,
+        "sha256": "e995857c461378ff963cc14c68ae3112a8e99ea7ba5935fbce06a6ba40a26dac"
+      },
+      "source": {
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 23709,
+        "line_count": 115,
+        "sha256": "aa8ea335644d12f74f0a268aa3cb03e8dcd1b51838cafa4bec8f66714a451e20",
+        "actual_byte_blob_oid": "c86f892caa1c88cfb9efacd14007408df834945b"
+      },
+      "incorrect_frozen_description": "Final115 empty; complete114 nonempty",
+      "corrected_description": "Current accepted source has115 splitlines; L115 is substantive Remaining duties through EOF.",
+      "actual_current_L115": "All ten episodes are CORE for this account's sustained pleasure/authority/afterstate comparison; mandatory workflow independently retains every selected object. D2 advances complete selected832 receiving. D5 proposes the seven exact ledger clauses without applying them. D1 uses prior accepted group meaning at the necessary contextual scope, D3 adds no bond/MM credit, D4 records event-language/mode observations without replacing written profile/costume coverage. G01/G06 gain ordinary repertoire, G09/G14 retain actor/mode seams, G13 gains limits on safety and actual outcomes. G07/G08 chronology/naming and G10 performance remain bounded; Yuuka's caricature does not settle G02, and no G03–05/G11/G12 completion is invented. All14 remain OPEN. Current ca965, architecture1.11/method1.10,480MAIN/266admitted/540subjects, models and Phase3unestablished remain unchanged. This scope is not admitted by this account; all proposals UNAPPLIED. MAIN_V002's whole-arc contextual and five-duty convergence remains incomplete. Sole fresh C substantive output; no shared/transport/QA/proof/hash writes. End of whole account.",
+      "author_receiving_qualification": "Historical3846f2 receiving was described as114nonempty plus empty115; its claimed final-line description cannot certify actual115. Prior complete substantive meaning remains adequate at recorded argument scope; present author personally received actualL73–115 through EOF in362401, including fullL115. This is a separate later analytical endpoint receiving, not retroactive original whole-body or new primary credit.",
+      "current_source_snapshot_qualification": "Worktree source remains at declared E32 tuple; ROOT latest publicationdbabbf95 and author historical1bb kept separate.",
+      "body_change": "NONE; no literary claim correction identified by this bounded check",
+      "required_canonical_derivative_action": "Qualify original custody line and append this exact later endpoint receiving; ROOT adjudication pending",
+      "frozen_originals_mutated": false,
+      "new_primary_native_performed_model_credit": 0,
+      "R_Git_global_writes": 0,
+      "scope_quarter_credit": 0
+    },
+    "ROOT_acceptance_authority": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CHIHIRO_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_source_or_literary_credit": 0
+}

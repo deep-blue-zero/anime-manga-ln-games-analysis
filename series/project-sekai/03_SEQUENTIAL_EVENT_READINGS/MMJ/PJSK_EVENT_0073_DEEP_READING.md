@@ -20,7 +20,7 @@ The complete 23-surface envelope has been read once at franchise scope: eight co
 
 **N25:** `NONE / I0 / R0`. **Leo/need:** `INCIDENTAL / LOW`, with indirect Ichika and Shiho references only. **VBS and WxS:** `NONE`. Unfounded-unit impact remains unassigned. MMJ Virtual Singers are Stage-SEKAI manifestations throughout; no N25 manifestation or cross-SEKAI knowledge transfer appears.
 
-The [routing ledger](../../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0073--拝啓あの頃のわたしへ) owns reusable discovery. The [release-impact ledger](../../04_LONGITUDINAL_LEDGERS/PJSK_RELEASE_IMPACT_LEDGER.md#ri-event-0073--拝啓あの頃のわたしへ) owns the bounded N25 I0 closure. Later MMJ integration must establish its main-story baseline and consume prior material routes chronologically before assigning this event a longitudinal impact or successor state.
+The [routing-ledger historical volume](../../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER_VOLUME_1_EVENT_0001_0090.md#event_0073--拝啓あの頃のわたしへ) owns reusable discovery. The [release-impact ledger](../../04_LONGITUDINAL_LEDGERS/PJSK_RELEASE_IMPACT_LEDGER.md#ri-event-0073--拝啓あの頃のわたしへ) owns the bounded N25 I0 closure. Later MMJ integration must establish its main-story baseline and consume prior material routes chronologically before assigning this event a longitudinal impact or successor state.
 
 ## 2. Envelope and chronology
 

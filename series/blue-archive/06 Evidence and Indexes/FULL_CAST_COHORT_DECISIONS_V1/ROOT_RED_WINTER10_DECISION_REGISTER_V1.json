@@ -1,0 +1,252 @@
+{
+ "public_derivative_provenance": {
+  "current_required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+  "current_ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+  "historical_status_rule": "Original pending/proposed/count fields below retain their dated witness scope. ROOT V3 accepts the preserved responsibilities with ten original operations, one duplicate absorption and five legacy-tracker allocations. Historical V2 N353/26 remains immutable; current required successor is355/29.",
+  "source_translation_rule": "Repository-relative, external-selected-corpus and immutable-local-custody references replace machine paths. Exact frozen byte/hash/blob tuples bind original payloads; these translated files have separately bound derivative tuples. Private witnesses are not publicly served.",
+  "written_source_qualification": "Written Japanese admitted pin a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; literal raw actor/locale/choice/report and conditional written modes retain original qualifications. No performed audiovisual receiving is claimed.",
+  "credit_rule": "Mechanical translation supplies zero new primary, performance, analytical-argument receiving or completed literary package credit.",
+  "original_input_reference": "immutable-local-custody://PHASE3_START_20261009/ROOT_RED_WINTER10_DECISION_REGISTER_V1.json",
+  "original_frozen_binding": {
+   "bytes": 11142,
+   "sha256": "5d5592dc5157c58078ca7bf76c0e426ea98964f7e50ce1009edd9e38964212ff",
+   "git_blob_sha1": "ed725598cd4bb99bb86ed54a110ff1266a768cfb"
+  }
+ },
+ "historical_payload": {
+  "schema": "BLUE_ARCHIVE_PHASE3_ROOT_RED_WINTER10_ELIGIBILITY_V1",
+  "characters": [
+   {
+    "candidate_unit_id": "P3-F081",
+    "related_dated_retrieval_duty": "P3-A061",
+    "subject": "Cherino",
+    "literal_raw_person_keys": "BA_PERSON_CHERINO",
+    "private_scope": "B10/MM10/W4; variants 10017|20009",
+    "target_package_key": "P3-CHAR-CHERINO",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_ROOT_ARGUMENT",
+    "canonical_adoption": "PENDING",
+    "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section2",
+    "literal_key_package_allocation_pending": false,
+    "mandatory_debt": "Actual eleven-section monograph, full relevant accepted public/private convergence, contrary outcomes, complete semantic acceptance and publication gates."
+   },
+   {
+    "candidate_unit_id": "P3-F140",
+    "related_dated_retrieval_duty": "P3-A142",
+    "subject": "Tomoe",
+    "literal_raw_person_keys": "BA_PERSON_TOMOE",
+    "private_scope": "B8/MM8/W4; variants 16007|20038",
+    "target_package_key": "P3-CHAR-TOMOE",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_ROOT_ARGUMENT",
+    "canonical_adoption": "PENDING",
+    "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section2",
+    "literal_key_package_allocation_pending": false,
+    "mandatory_debt": "Actual eleven-section monograph, full relevant accepted public/private convergence, contrary outcomes, complete semantic acceptance and publication gates."
+   },
+   {
+    "candidate_unit_id": "P3-F114",
+    "related_dated_retrieval_duty": "P3-A143",
+    "subject": "Marina",
+    "literal_raw_person_keys": "BA_PERSON_CH0270|BA_PERSON_MARINA",
+    "private_scope": "B7/MM7/W3; variants 10037|10103",
+    "target_package_key": "P3-CHAR-MARINA-TWO-KEY-BOUNDED",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_ROOT_ARGUMENT",
+    "canonical_adoption": "PENDING",
+    "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section2",
+    "literal_key_package_allocation_pending": true,
+    "mandatory_debt": "Actual eleven-section monograph, full relevant accepted public/private convergence, contrary outcomes, complete semantic acceptance and publication gates."
+   },
+   {
+    "candidate_unit_id": "P3-F125",
+    "related_dated_retrieval_duty": "P3-A131",
+    "subject": "Nodoka",
+    "literal_raw_person_keys": "BA_PERSON_NODOKA",
+    "private_scope": "B9/MM9/W4; variants 20010|26006",
+    "target_package_key": "P3-CHAR-NODOKA",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_ROOT_ARGUMENT",
+    "canonical_adoption": "PENDING",
+    "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section2",
+    "literal_key_package_allocation_pending": false,
+    "mandatory_debt": "Actual eleven-section monograph, full relevant accepted public/private convergence, contrary outcomes, complete semantic acceptance and publication gates."
+   },
+   {
+    "candidate_unit_id": "P3-F133",
+    "related_dated_retrieval_duty": "P3-A134",
+    "subject": "Shigure",
+    "literal_raw_person_keys": "BA_PERSON_SHIGURE",
+    "private_scope": "B8/MM8/W3; variants 10055|20031",
+    "target_package_key": "P3-CHAR-SHIGURE",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_ROOT_ARGUMENT",
+    "canonical_adoption": "PENDING",
+    "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section2",
+    "literal_key_package_allocation_pending": false,
+    "mandatory_debt": "Actual eleven-section monograph, full relevant accepted public/private convergence, contrary outcomes, complete semantic acceptance and publication gates."
+   },
+   {
+    "candidate_unit_id": "P3-F064",
+    "related_dated_retrieval_duty": "P3-A060",
+    "subject": "Minori",
+    "literal_raw_person_keys": "BA_PERSON_CH0214",
+    "private_scope": "B4/MM4/W1; variants 20026",
+    "target_package_key": "P3-CHAR-MINORI-CH0214",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_ROOT_ARGUMENT",
+    "canonical_adoption": "PENDING",
+    "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section2",
+    "literal_key_package_allocation_pending": false,
+    "mandatory_debt": "Actual eleven-section monograph, full relevant accepted public/private convergence, contrary outcomes, complete semantic acceptance and publication gates."
+   },
+   {
+    "candidate_unit_id": "P3-F040",
+    "related_dated_retrieval_duty": "P3-A418",
+    "subject": "Mel",
+    "literal_raw_person_keys": "BA_PERSON_CH0124",
+    "private_scope": "B4/MM4/W2; variants 10075",
+    "target_package_key": "P3-CHAR-MEL-CH0124",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_ROOT_ARGUMENT",
+    "canonical_adoption": "PENDING",
+    "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section2",
+    "literal_key_package_allocation_pending": false,
+    "mandatory_debt": "Actual eleven-section monograph, full relevant accepted public/private convergence, contrary outcomes, complete semantic acceptance and publication gates."
+   },
+   {
+    "candidate_unit_id": "P3-F022",
+    "related_dated_retrieval_duty": "P3-A132",
+    "subject": "Momiji",
+    "literal_raw_person_keys": "BA_PERSON_MOMIJI",
+    "private_scope": "B5/MM5/W2; variants 13013",
+    "target_package_key": "P3-CHAR-MOMIJI",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_ROOT_ARGUMENT",
+    "canonical_adoption": "PENDING",
+    "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section2",
+    "literal_key_package_allocation_pending": false,
+    "mandatory_debt": "Actual eleven-section monograph, full relevant accepted public/private convergence, contrary outcomes, complete semantic acceptance and publication gates."
+   },
+   {
+    "candidate_unit_id": "P3-F012",
+    "related_dated_retrieval_duty": "P3-A512",
+    "subject": "Takane",
+    "literal_raw_person_keys": "BA_PERSON_CH0229",
+    "private_scope": "B4/MM4/W2; variants 10131",
+    "target_package_key": "P3-CHAR-TAKANE-CH0229",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_ROOT_ARGUMENT",
+    "canonical_adoption": "PENDING",
+    "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section2",
+    "literal_key_package_allocation_pending": false,
+    "mandatory_debt": "Actual eleven-section monograph, full relevant accepted public/private convergence, contrary outcomes, complete semantic acceptance and publication gates."
+   },
+   {
+    "candidate_unit_id": "P3-F011",
+    "related_dated_retrieval_duty": "P3-A513",
+    "subject": "Yakumo",
+    "literal_raw_person_keys": "BA_PERSON_CH0228",
+    "private_scope": "B4/MM4/W2; variants 20052",
+    "target_package_key": "P3-CHAR-YAKUMO-CH0228",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_ROOT_ARGUMENT",
+    "canonical_adoption": "PENDING",
+    "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section2",
+    "literal_key_package_allocation_pending": false,
+    "mandatory_debt": "Actual eleven-section monograph, full relevant accepted public/private convergence, contrary outcomes, complete semantic acceptance and publication gates."
+   }
+  ],
+  "shared_questions": [
+   {
+    "candidate_unit_id": "P3-XRW-R001",
+    "kind": "DIRECTED_RELATIONSHIP",
+    "subject": "Mel ↔ Momiji",
+    "decision": "ELIGIBLE_REQUIRED",
+    "canonical_adoption": "PENDING",
+    "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section3"
+   },
+   {
+    "candidate_unit_id": "P3-XRW-R002",
+    "kind": "DIRECTED_RELATIONSHIP",
+    "subject": "Yakumo ↔ Takane",
+    "decision": "ELIGIBLE_REQUIRED",
+    "canonical_adoption": "PENDING",
+    "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section3"
+   },
+   {
+    "candidate_unit_id": "P3-XRW-I001",
+    "kind": "INSTITUTION",
+    "subject": "Red Winter Secretariat/security",
+    "decision": "ELIGIBLE_REQUIRED",
+    "canonical_adoption": "PENDING",
+    "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section3"
+   },
+   {
+    "candidate_unit_id": "P3-XRW-I002",
+    "kind": "INSTITUTION_ENSEMBLE",
+    "subject": "Class227",
+    "decision": "ELIGIBLE_REQUIRED",
+    "canonical_adoption": "PENDING",
+    "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section3"
+   },
+   {
+    "candidate_unit_id": "P3-XRW-I003",
+    "kind": "INSTITUTION",
+    "subject": "Knowledge Liberation Front",
+    "decision": "ELIGIBLE_REQUIRED",
+    "canonical_adoption": "PENDING",
+    "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section3"
+   },
+   {
+    "candidate_unit_id": "P3-XRW-I004",
+    "kind": "INSTITUTION",
+    "subject": "Publishing Club",
+    "decision": "ELIGIBLE_REQUIRED",
+    "canonical_adoption": "PENDING",
+    "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section3"
+   },
+   {
+    "candidate_unit_id": "P3-XRW-I005",
+    "kind": "INSTITUTION",
+    "subject": "Works Club",
+    "decision": "PENDING_COMPLETE_RELEVANT_OWNER_AND_ALLOCATION",
+    "canonical_adoption": "PENDING",
+    "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section3"
+   },
+   {
+    "candidate_unit_id": "P3-XRW-R003",
+    "kind": "DIRECTED_RELATIONSHIP",
+    "subject": "Nodoka ↔ Shigure",
+    "decision": "PENDING_DISTINCT_ALLOCATION",
+    "canonical_adoption": "PENDING",
+    "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section3"
+   },
+   {
+    "candidate_unit_id": "P3-XRW-I006",
+    "kind": "INSTITUTION",
+    "subject": "Red Winter school",
+    "decision": "PENDING_FULL_SCHOOL_CONVERGENCE_AND_ALLOCATION",
+    "canonical_adoption": "PENDING",
+    "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section3"
+   }
+  ],
+  "local_role_duties": "Required source-local coverage described in section4; structured current-index allocation remains pending. No global absence/personhood inference.",
+  "owner_roster_proposals": [
+   {
+    "owner": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1301_1303_DEEP_READING.md",
+    "decision": "COMPLETE_ROSTER_RECEIVED_ALLOCATION_PENDING"
+   },
+   {
+    "owner": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2801_2802_DEEP_READING.md",
+    "decision": "COMPLETE_ROSTER_RECEIVED_ALLOCATION_PENDING"
+   }
+  ],
+  "event_roster_duties": [
+   {
+    "owner": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_829/BLUE_ARCHIVE_EVENT_829_CONTEXTUALIZATION_CHECKPOINT.md",
+    "decision": "MANDATORY_PENDING_LITERAL_ROSTER_REVIEW"
+   },
+   {
+    "owner": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+    "decision": "MANDATORY_PENDING_LITERAL_ROSTER_REVIEW"
+   }
+  ],
+  "literary_completions_added": 0,
+  "package_denominator": null,
+  "quarter_reached": false,
+  "source_credit_added": 0,
+  "repository_writes": 0,
+  "publication": false
+ }
+}

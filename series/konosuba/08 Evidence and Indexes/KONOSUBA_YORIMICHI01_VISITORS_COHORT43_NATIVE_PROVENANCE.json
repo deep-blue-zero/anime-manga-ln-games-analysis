@@ -1,0 +1,210 @@
+{
+  "schema": "konosuba.cohort43.native-provenance.v1",
+  "recorded_utc": "2026-10-25T02:18:25.477944+00:00",
+  "source_bindings": [
+    {
+      "source_id": "YORI-01",
+      "native_filename": "Konosuba - Short Stories - Yorimichi.epub",
+      "native_bytes": 2395940,
+      "native_sha256": "71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594",
+      "OPF_member": "content.opf",
+      "OPF_sha256": "bd03e0d8867c7acaa7bec3a4a490d6287042c21f8c98ad5251537afbde2dd2de",
+      "language": [
+        "ja"
+      ],
+      "fresh_ZIP_CRC": "PASS"
+    },
+    {
+      "source_id": "YORI-02",
+      "native_filename": "Konosuba - Short Stories - Yorimichi 2.epub",
+      "native_bytes": 9172954,
+      "native_sha256": "f7b9051a4f2bea3033eea528477d4cc80cfdebe214d51d0764a3cf1eef352baf",
+      "OPF_member": "item/standard.opf",
+      "OPF_sha256": "3fb5c9ce87a43b9508b06e3f6258b80d45135c40db7c813fe5ddcef0a54cc071",
+      "language": [
+        "ja"
+      ],
+      "fresh_ZIP_CRC": "PASS"
+    }
+  ],
+  "units": [
+    {
+      "source_id": "YORI-01",
+      "component_id": "YORI-01-U012",
+      "member": "text/part0010.html",
+      "member_sha256": "d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f",
+      "native_member_bytes": 66587,
+      "paragraph_slots": 336,
+      "planned_ranges": [
+        [
+          1,
+          336
+        ]
+      ],
+      "planned_unique_P": 336,
+      "planned_all_P_slots_received": true
+    },
+    {
+      "source_id": "YORI-01",
+      "component_id": "YORI-01-U014",
+      "member": "text/part0012.html",
+      "member_sha256": "b21083b8523c2b3f6703e9dc1a7755285e821f14ba9c34d49edaa106ce50abc4",
+      "native_member_bytes": 70311,
+      "paragraph_slots": 353,
+      "planned_ranges": [
+        [
+          1,
+          353
+        ]
+      ],
+      "planned_unique_P": 353,
+      "planned_all_P_slots_received": true
+    },
+    {
+      "source_id": "YORI-01",
+      "component_id": "YORI-01-U018",
+      "member": "text/part0016.html",
+      "member_sha256": "63bed8223c62f387c1377bb6a969d24ba25db81aa7e3ec06cc48b9d6b2ecee62",
+      "native_member_bytes": 77868,
+      "paragraph_slots": 398,
+      "planned_ranges": [
+        [
+          1,
+          398
+        ]
+      ],
+      "planned_unique_P": 398,
+      "planned_all_P_slots_received": true
+    },
+    {
+      "source_id": "YORI-01",
+      "component_id": "YORI-01-U020",
+      "member": "text/part0018.html",
+      "member_sha256": "f98d101efb147882b8ab4b49837b148c19596a30310034d4c7e60e2a821e5ad6",
+      "native_member_bytes": 65395,
+      "paragraph_slots": 312,
+      "planned_ranges": [
+        [
+          1,
+          312
+        ]
+      ],
+      "planned_unique_P": 312,
+      "planned_all_P_slots_received": true
+    },
+    {
+      "source_id": "YORI-01",
+      "component_id": "YORI-01-U024",
+      "member": "text/part0022.html",
+      "member_sha256": "114f35a942b8917aa4b2ee0db34da1674f5ddc23eb6a7b8b2dd2f7bba20258fc",
+      "native_member_bytes": 85677,
+      "paragraph_slots": 472,
+      "planned_ranges": [
+        [
+          1,
+          472
+        ]
+      ],
+      "planned_unique_P": 472,
+      "planned_all_P_slots_received": true
+    },
+    {
+      "source_id": "YORI-01",
+      "component_id": "YORI-01-U026",
+      "member": "text/part0024.html",
+      "member_sha256": "29f0bb171e904e4c2fc26095f622d6113275109a97df5440a40ec54e94aa4f9b",
+      "native_member_bytes": 41613,
+      "paragraph_slots": 208,
+      "planned_ranges": [
+        [
+          1,
+          208
+        ]
+      ],
+      "planned_unique_P": 208,
+      "planned_all_P_slots_received": true
+    },
+    {
+      "source_id": "YORI-02",
+      "component_id": "YORI-02-U018",
+      "member": "item/xhtml/p-009.xhtml",
+      "member_sha256": "58b31875b6874b2f36e8b86f5f50e055c24ae77656cca417d9efa4ea127fb987",
+      "paragraph_slots": 331,
+      "planned_ranges": [
+        [
+          209,
+          245
+        ]
+      ],
+      "planned_unique_P": 37,
+      "planned_all_P_slots_received": false
+    }
+  ],
+  "actual_unique_current_P": 2116,
+  "actual_inline_ruby_occurrences": 2017,
+  "actual_native_member_count": 7,
+  "actual_source_objects": 2,
+  "actual_review_pages": 47,
+  "full_paragraph_projection_members": 6,
+  "bounded_members": 1,
+  "primary_YORI01": {
+    "P": 2079,
+    "ruby": 1988,
+    "pages": 46
+  },
+  "adaptive_YORI02": {
+    "P": 37,
+    "ruby": 29,
+    "pages": 1
+  },
+  "current_images_viewed": 0,
+  "current_nonparagraph_residual_credit": 0,
+  "current_whole_edition_credit": 0,
+  "receiving_receipt_pins": [
+    {
+      "file_role": "COHORT43_PRIMARY_NATIVE_RECEIVING_01.json",
+      "sha256": "3eea95963743e21d9a8be53a1c128abed6116b2ffa007e36f7f4b1a3be32e044",
+      "private_hash_binding_only": true
+    },
+    {
+      "file_role": "COHORT43_ADAPTIVE_NATIVE_RECEIVING_01.json",
+      "sha256": "b55aafd65c3654300c455adfde23d1cc6196e5abaf3e1a203a9e3990d79b4846",
+      "private_hash_binding_only": true
+    },
+    {
+      "file_role": "COHORT43_IDENTITY_CONTEXT_RECEIVING_01.json",
+      "sha256": "d9b27dbd754f93a67581bb56d5bebd2e61c1c583edb2835455cad8a76b331ea7",
+      "private_hash_binding_only": true
+    },
+    {
+      "file_role": "COHORT43_EXISTING_CONTEXT_RECEIVING_01.json",
+      "sha256": "0b0e5dbb5eeac8f1898d0be5882ed8f655b116c708769e3bc1d33e5d365f871e",
+      "private_hash_binding_only": true
+    },
+    {
+      "file_role": "COHORT43_IDENTITY_PREPARATION_QUALIFICATION_01.json",
+      "sha256": "49e7132c9a2b887b3bbb2347b0a7339a185450df5c284c7f891354af0e307133",
+      "private_hash_binding_only": true
+    },
+    {
+      "file_role": "COHORT43_PRIMARY_READING_FINDINGS_02.md",
+      "sha256": "411bbc8f515d8a7453638496e5212af61fc1d469f9b31bbb2d268b4d3318a8eb",
+      "private_hash_binding_only": true
+    }
+  ],
+  "literal_retrieval": {
+    "objects": 41,
+    "units_scanned": 2099,
+    "paragraphs_scanned": 109063,
+    "P_leads": 196,
+    "within_actual_YORI01_scope": 195,
+    "sole_outer_lead": "YORI02U018P227 within actual bounded209–245",
+    "sha256": "09b1d9bd789164361d91a569abf8c6edf1d0be42d7cf8ab4f9832d984ec8bdb1",
+    "technical_not_semantic_credit": true,
+    "no_absence_or_unique_person_proof": true
+  },
+  "access": "Source known, same informed root, possible pretraining. No independent human, statistical, native-speaker, acoustic or pristine-holdout claim. Retold history, mediated speech, intentions, narrator inference and performed actions stay distinct.",
+  "qualification": "Six complete YORI01 paragraph/ruby projections plus one bounded 37-P YORI02 projection. The bounded cache outside P209–245 is unreceived. No fresh image, nonparagraph-residual or whole-edition credit. Prior full YORI01 reading retains its dated receipt scope; derivative reinspection does not add independent observations.",
+  "private_native_payloads_not_published": true,
+  "full_program_complete": false
+}

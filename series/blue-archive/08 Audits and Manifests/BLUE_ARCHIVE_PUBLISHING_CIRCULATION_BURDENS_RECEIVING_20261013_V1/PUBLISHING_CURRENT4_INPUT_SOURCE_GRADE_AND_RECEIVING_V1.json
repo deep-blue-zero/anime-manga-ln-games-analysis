@@ -1,0 +1,275 @@
+{
+  "schema": "PUBLISHING_CURRENT4_COMPLETE_CORE_AND_ONE_CONSEQUENTIAL_SOURCE_GRADE_RECEIVING_V1",
+  "home": "P3-INST-PUBLISHING-CIRCULATION-BURDENS",
+  "body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_AND_BURDENS_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 39617,
+    "sha256": "3c034418c18746e86f85382c201e8e87cb119f6477f73630cd75497aa4813e5c",
+    "git_blob_oid_of_actual_bytes": "18282268b3973fde29dc34f1995cf4a394c57588"
+  },
+  "source_fixed_receiving_basis": "70db21c24b2a2e1e68b227b5ef278cfaeca32d3e",
+  "complete_original_source4_receiving_report_sanitized": {
+    "schema": "PUBLISHING_OWN_COMPLETE4_MAINTAINED_ARGUMENT_AND_NEW_INSTITUTION_QUESTION_RESULT_RECEIVING_V1",
+    "author": "/root/receive_middle_remaining",
+    "home": "P3-INST-PUBLISHING-CIRCULATION-BURDENS",
+    "source70db_fixed_receiving_snapshot": "70db21c24b2a2e1e68b227b5ef278cfaeca32d3e",
+    "source4_records": [
+      {
+        "source_id": "PS01",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_RED_WINTER7_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "bytes": 65295,
+        "sha256": "bcef31e175975f32307d589c151c9b270a72094df084999f92eda5d1b6fa2f57",
+        "git_blob_oid_of_actual_bytes": "4273490bb2734a80c174116cc8cbb20565bfd45f",
+        "physical_lines": 495,
+        "ROOT_current70db_metadata_receipt": {
+          "bytes": 11316,
+          "sha256": "03b68b1bef7c3125ea9b3529cbf447fab9432c68004bc6b4dccbadeccbccd61a",
+          "git_blob_oid_of_actual_bytes": "4a93b04ff09e954181f156c8801e32fa0497e165"
+        },
+        "custody_only_no_semantic_reading_credit": true,
+        "own_actual_grade": "COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_RECEIVING_THROUGH_EOF",
+        "tools_and_complete_ranges": [
+          [
+            "3be196",
+            1,
+            105
+          ],
+          [
+            "c8725f",
+            106,
+            195
+          ],
+          [
+            "ec86bf",
+            196,
+            285
+          ],
+          [
+            "5a008d",
+            286,
+            375
+          ],
+          [
+            "66a38b",
+            376,
+            495
+          ]
+        ],
+        "producer_scope": "RedWinter121: author18 complete canonical primary objects and103 attributed prior complete authorities; no personal primary replay here.",
+        "question": "How do wanted making, tool constraints, readership, work and refusal limit treating every Red Winter participant as a resource for Publishing?",
+        "positive": "Mel receives a working pen with delight, wants self-directed creation and sometimes company, and later works on the manuscript; Minori values reading and vanished labor traces, while other recipients have particular tastes, rest and limits. These are institutional material and recipient ends, even where no book is delivered.",
+        "counter": "Mel presses a declined portrait and is herself pulled after objections; help and later wanted company do not erase those acts. Minori stopped work over unpaid wages has no demonstrated wage settlement. Private reports of ordinary-tool scarcity are not an inventory audit.",
+        "finite": "Particular pen receiving, chosen manuscript help, wanted reading and stopped work are local endpoints. No completed publishing contract, portrait, café dream, wages, permanent assistant role or regional governance repair follows.",
+        "chronology_mode": "Local Mel previous-outing connection and written conditional contexts remain separate from public E829/E852. Fictional heroines and imagined peers are not observed acts or biography.",
+        "own_later_semantic_receiving_now_recorded_separately": true,
+        "opaque_local_beforeimage_evidence_id": "PS01_CONTROLLED_CURRENT70DB_MAINTAINED_ARGUMENT"
+      },
+      {
+        "source_id": "PS02",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_829/BLUE_ARCHIVE_EVENT_829_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 28281,
+        "sha256": "57117923544c6b734273ae6cd25ce51f124274a706c2c962acaa6fac1ef36885",
+        "git_blob_oid_of_actual_bytes": "5e68e89102efd8fa610420d572538db07cf35113",
+        "physical_lines": 160,
+        "ROOT_current70db_metadata_receipt": {
+          "bytes": 11316,
+          "sha256": "03b68b1bef7c3125ea9b3529cbf447fab9432c68004bc6b4dccbadeccbccd61a",
+          "git_blob_oid_of_actual_bytes": "4a93b04ff09e954181f156c8801e32fa0497e165"
+        },
+        "custody_only_no_semantic_reading_credit": true,
+        "own_actual_grade": "COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_RECEIVING_THROUGH_EOF",
+        "tools_and_complete_ranges": [
+          [
+            "ec4d4d",
+            1,
+            80
+          ],
+          [
+            "698792",
+            81,
+            160
+          ]
+        ],
+        "producer_scope": "EVENT829 producer complete15 canonical selected objects; original actor/unit/source forms retained, not personally replayed primary.",
+        "question": "When a wanted fan ending gains a deadline and institutional claims, whose making, criticism, rest, property and consent stay answerable?",
+        "positive": "Different readings, actual apologies, voluntarily renewed creation, recipient-assisted work, completed manuscript acceptance and Takane reading are positive. The missing original Luna22 stays unpublished in the represented account.",
+        "counter": "Sleep pressure, physical carrying refused as kidnapping, delayed recipient burdens, rejected political themes and Yakumo manuscript appropriation pressure qualify a simple collaboration story. Defeat withdraws the current manuscript claim but leaves the next-manuscript demand.",
+        "finite": "Completed manuscript/acceptance/reading are established local endpoints; a print run, sales, completed film, final rescission or universal censorship reform are not.",
+        "chronology_mode": "Four-day deadline and sequence are local, not world chronology. Claims of school rules/contracts are represented; legal text and enforcement validity are uninspected. Written actor seams persist.",
+        "own_later_semantic_receiving_now_recorded_separately": true,
+        "opaque_local_beforeimage_evidence_id": "PS02_CONTROLLED_CURRENT70DB_MAINTAINED_ARGUMENT"
+      },
+      {
+        "source_id": "PS03",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 38411,
+        "sha256": "14559582a911ee118c9663a60fadaf06193733082b980495f486ed7729098e4f",
+        "git_blob_oid_of_actual_bytes": "98586e8ee96bb670a38425a83a59bb41a61bbac3",
+        "physical_lines": 205,
+        "ROOT_current70db_metadata_receipt": {
+          "bytes": 11316,
+          "sha256": "03b68b1bef7c3125ea9b3529cbf447fab9432c68004bc6b4dccbadeccbccd61a",
+          "git_blob_oid_of_actual_bytes": "4a93b04ff09e954181f156c8801e32fa0497e165"
+        },
+        "custody_only_no_semantic_reading_credit": true,
+        "own_actual_grade": "COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_RECEIVING_THROUGH_EOF",
+        "tools_and_complete_ranges": [
+          [
+            "a4c979",
+            1,
+            70
+          ],
+          [
+            "87fe9b",
+            71,
+            140
+          ],
+          [
+            "1c7c42",
+            141,
+            205
+          ]
+        ],
+        "producer_scope": "EVENT852 producer complete10 canonical selected objects; reports/choices/actor seams retained, no primary or performed-voice replay.",
+        "question": "Can useful circulation and library permission make publishers answerable for deprivation leverage, editorial terms, false prestige and recipients who can change or withdraw?",
+        "positive": "Actual buyers/reader sharing, transmitted settlement, Mel accepting and beginning wanted original work, library approval, Mashiro actual liking and qualified exchange/oversight are meaningful differentiated gains.",
+        "counter": "Three-day foodlessness and demanded consignment under immediate-payment pressure precede a rejected9:1 proposal; final contract ratio is unprinted. False princess biography burdens Takane. Unread condemnation, threatened removal/force, withdrawn help and stopped Mika commission remain contrary endpoints.",
+        "finite": "Local library approval and reported settlement are stronger than merely prospective promises. Exchange proposal, possible future recommendations/criticism collection, liability and exact finances remain untested or unfinished.",
+        "chronology_mode": "Local days/search and participant reports do not date E829/private pools globally. Nagisa encouragement and Mashiro pressured interpretation differ; Ui personaldistance condition is not a general statute.",
+        "own_later_semantic_receiving_now_recorded_separately": true,
+        "opaque_local_beforeimage_evidence_id": "PS03_CONTROLLED_CURRENT70DB_MAINTAINED_ARGUMENT"
+      },
+      {
+        "source_id": "PS04",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_TAKANE_YAKUMO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "bytes": 47096,
+        "sha256": "ff7e1d8947fa3f52d3da19ef1d91fa3190bbcb81fceceffaa8b6431eb427b265",
+        "git_blob_oid_of_actual_bytes": "61e370b83fa3362cdadb5d3a85f3f6acdd90b754",
+        "physical_lines": 267,
+        "ROOT_current_custody_receipt": {
+          "bytes": 1063,
+          "sha256": "6c2ced66e20687b910bdab8a56dae708df392eb441c0fc2d5c2eb6425806e85c",
+          "git_blob_oid_of_actual_bytes": "8354e2ac0709faf6a65e42237345b08c013cc9be"
+        },
+        "custody_only_no_semantic_reading_credit": true,
+        "own_actual_grade": "COMPLETE_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_RECEIVING_THROUGH_EOF",
+        "tools_and_complete_ranges": [
+          [
+            "992da5",
+            1,
+            90
+          ],
+          [
+            "a7bf43",
+            91,
+            180
+          ],
+          [
+            "753bfc",
+            181,
+            267
+          ]
+        ],
+        "producer_scope": "Takane/Yakumo20 producer8BOND+8wholeMomoTalk+4written objects, all20 throughEOF with246 conditional written records; no personally new underlying primary credit.",
+        "question": "How do Publishing members own criticism/planning/reading and leisure ends differ from publicizing their bodies or consuming their time for circulation?",
+        "positive": "Takane shares actually prepared food and classic-match viewing, values criticism and photographs. Yakumo enjoys plans, rail/rest/bento and useful access; she refuses waste and extra timetable work. Reader paid continuation and local reported snow-photo sales are positive, with operating rights expressly not ownership.",
+        "counter": "Takane respects yet presses concealed-book privacy and dislikes an imposed princess performance despite a valued photo. Yakumo is pressured into a cold cover and requests reciprocity; worker wages, high-speed installation and permanent company are unfulfilled. Public appropriation and private budget limits must both remain.",
+        "finite": "Actual sharedmeal/highlights, returned extra food, refused sponsorship/interview/timetable work and reported sales bind finite ends. No legal operation transfer, paid wages, unlimited use of school prestige, completed adult snowangel or universal commercial success.",
+        "chronology_mode": "Whole thread codas/alternative launches stay exact, not new extra objects. Princess family speech is explicitly roleplay; costume852 conditions are not acted event scenes or an order between event/private sources.",
+        "own_later_semantic_receiving_now_recorded_separately": true,
+        "opaque_local_beforeimage_evidence_id": "PS04_CONTROLLED_CURRENT70DB_MAINTAINED_ARGUMENT"
+      }
+    ],
+    "actual_control_receiving": {
+      "tool": "9c2f48",
+      "method_lines": [
+        [
+          366,
+          409
+        ],
+        [
+          426,
+          460
+        ],
+        [
+          606,
+          640
+        ]
+      ],
+      "architecture_lines": [
+        [
+          577,
+          625
+        ],
+        [
+          645,
+          701
+        ]
+      ],
+      "control_copies_role": "Declared captured58a bytes; no fresh remote70db equality claimed for controls."
+    },
+    "grade_boundary": "Four complete maintained analytical arguments personally read; all underlying primary/family/object/actor/native/performance scopes remain producer-attributed. No fresh primary, source admission, original author, cleanroom or global appearance-absence claim. Hashes/copies are custody only.",
+    "current_source_qualification_boundaries": "Cycle008 current qualifiers supersede historical UNADMITTED/UNAPPLIED text at their stated roles. Existing61767 six-source qualifications and59334 GSC16 coffee qualification remain distinct: no GSC coffee comparator is newly used in this Publishing core. No original payload/qualifier rewrite.",
+    "all14_OPEN": true,
+    "models": 0,
+    "ROOT_independent_QA_acceptance_installation_publication": "PENDING",
+    "new_credit": 0
+  },
+  "sanitization_role": "Only four actual private relative delivery locators replaced by unique opaque IDs; all original analytical meanings, literal tuples, tools and grade boundaries retained with full private object/raw inverse.",
+  "current_actor_action_body_qualification": {
+    "PS04": "Yakumo refuses excess food and timetable work; adult refuses her perpetual-company proposal and later interview. Source normal and original role-free refusal list stay literal.",
+    "PS03": "Food is supplied before bargaining under foodlessness; no withheld meal or intentional starvation action inferred. Proposed9:1 refused, final terms unprinted, later settlement actual.",
+    "current_literal_body": "PUBCLAIM019/020 and T15 contain these operative correct meanings,39 other paragraphs/15ends unchanged.",
+    "source_grades_unchanged": true
+  },
+  "current_selected_consequential_E850": {
+    "operative": "Miyo refuses Teacher reading her wanted romance novels; Ritsu sculpture/materials and favorite-author affection are distinct. The complete inherited O094 wording is frozen history, qualified for this current use only.",
+    "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_850/BLUE_ARCHIVE_EVENT_850_CONTEXTUALIZATION_CHECKPOINT.md",
+    "bytes": 28418,
+    "sha256": "a5ea335dfd318422d128e6f5f8a6e0a5a041a88331bbf3839cb9c18a217edc9c",
+    "git_blob_oid_of_actual_bytes": "e213a371a863d781a16bb0fbcebcf888a83fff83",
+    "actual_own_selected_maintained_scope": {
+      "tool": "21d7bd",
+      "lines": [
+        81,
+        100
+      ],
+      "critical_line": 98,
+      "local_locator": "007u0063–0074"
+    },
+    "originals_source_grade_admission_unchanged": true
+  },
+  "source_core_count_role": "Four complete maintained analytical arguments, plus one consequential selected E850 carrier scope. Underlying121/15/10/20 and original common10526whole79selected remain attributed, overlapping counts not summed into new primary admissions.",
+  "purpose_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+  "claim_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT_LITERAL41_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+  "body_only_independent_QA": {
+    "original_whole_body_review": {
+      "evidence_id": "INDEPENDENT_PUBLISHING_CURRENT232_COMPLETE41_BODY_FIRST_LITERARY_AND_THREE_PRECISE_ACTOR_ACTION_LOCATION_FINDINGS_V1.json",
+      "bytes": 185812,
+      "sha256": "44d6d46322fc1842253e4a72083bb0fb838c40624c171c1ca6fa8f67d6e73cdb",
+      "git_blob_oid_of_actual_bytes": "e0192a32e992c7b5c7d5b6d1d79bb65cc9f958e2",
+      "role": "DATED_BODY_ONLY_FINDINGS_NOT_CURRENT_COMPONENT_PASS"
+    },
+    "current_V3_delta": {
+      "evidence_id": "INDEPENDENT_PUBLISHING_CURRENT_V3_EXACT3_LITERAL_ACTOR_ACTION_REPAIR_AND_FULL_BODY_RAW_RECOVERY_POSITIVE_QA_V1.json",
+      "bytes": 14550,
+      "sha256": "3a14771226c3bac1c64da9299ae85f3289f6329bd92c9f61904f7f8885b0c9e2",
+      "git_blob_oid_of_actual_bytes": "879ccd96a46073b5daaf4380e013268286457535",
+      "role": "CURRENT_BODY_ONLY_WITH_LIMITS; no source4/105/component/ROOT grade transfer"
+    }
+  },
+  "all14_OPEN": true,
+  "models": 0,
+  "current_ROOT_receiving_final_adoption_install_publication_MAIN": "PENDING; current70db fixed input basis only, no new runtime certificate.",
+  "current_source_PS01_wage_conflict_and_unprinted_settlement_qualification_V1": {
+    "exact_retained_pointer": "#/complete_original_source4_receiving_report_sanitized/source4_records/0/counter",
+    "retained_complete_literal_counter": "Mel presses a declined portrait and is herself pulled after objections; help and later wanted company do not erase those acts. Minori stopped work over unpaid wages has no demonstrated wage settlement. Private reports of ordinary-tool scarcity are not an inventory audit.",
+    "effective_complete_current_counter": "Mel presses a declined portrait and is herself pulled after objections; help and later wanted company do not erase those acts. Minori's stopped work over a wage conflict has no demonstrated wage settlement. Private reports of ordinary-tool scarcity are not an inventory audit.",
+    "application": "Only current use of the quoted original author counter: maintainedPS01L239 says wage conflict and actual stopped work, with no printed wages paid. This does not independently certify an unpaid-wage record or adjudication. The complete old private report and embedded original literal remain unchanged.",
+    "source_repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_RED_WINTER7_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "source_physical_line": 239,
+    "source_local_locator": "BA:bond:20026:002",
+    "actual_own_receiving": "ec86bf completemaintainedL196–285 including239, previously recorded complete495; no new underlying primary replay or grade.",
+    "body_current105_originals_unchanged": true
+  }
+}

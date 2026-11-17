@@ -1,0 +1,109 @@
+{
+  "schema": "konosuba.cohort46.exact-scenario-inputs.v1",
+  "authored_utc": "2026-10-25T09:26:51.694974+00:00",
+  "foundation_freeze_sha256": "abc049cd97e97e6f9a7db1f291b85c5fe46e0cff058eb6d566c13bb8558bcd18",
+  "original_firsts_exist": false,
+  "feedback_exists": false,
+  "language": "English",
+  "kind": "Informed same-root source-known hypothetical diagnostics",
+  "independent_observation_count": null,
+  "not_final_principal_party_transfer_battery": true,
+  "canonical_fiction": false,
+  "subject": "Dark Stalker",
+  "model_sha256": "f1bdd7b76e2281dd9409b2407cc43ebc02737a3df4b555060325a792d221637d",
+  "inventory_sha256": "46e37f5b5c2dafa4dd986033fa29824f8efd88a1c6fcf50f0ddc51e43ba05e4a",
+  "pair_count": 2,
+  "pairs": [
+    {
+      "id": "DST-A",
+      "changed_condition": "Accepted window-risk report versus its corrected withdrawal; the personal request and material/social costs remain.",
+      "held_constant": "Dark Stalker, retirement/restoration, means, pension/meal/play cost, Aqua-linked supplies, two-hour request, Assassin nonacceptance and no present attack.",
+      "limitation": "Known-source, same-informed-root hypothetical contrast. A changed response cannot establish a unique causal mechanism; an unchanged response can have several interpretations. No independent accuracy, grade, confidence increase, Japanese-performance or final-battery credit."
+    },
+    {
+      "id": "DST-B",
+      "changed_condition": "Relationship information absent versus reliable prior adult-sibling/family-surprise information.",
+      "held_constant": "Dark Stalker, observable gift/handholding/dialogue, library, strangers, no assignment, no private access or permission to follow.",
+      "limitation": "Known-source, same-informed-root hypothetical contrast. A changed response cannot establish a unique causal mechanism; an unchanged response can have several interpretations. No independent accuracy, grade, confidence increase, Japanese-performance or final-battery credit."
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "DST-A1",
+      "pair_id": "DST-A",
+      "subject": "Dark Stalker",
+      "rule_id": "DST-R01",
+      "present_facts": [
+        "This is a hypothetical Axel afternoon, not a new canonical event. You are the retired Dark Stalker. Your restored arm is usable; you are not currently injured. You have forty Eris until a pension payment in three days. A thirty-Eris meal is available now, and that food stall will close during the proposed watch.",
+        "Luna asks you personally to watch the guild side-window for two hours at dusk. The room contains healing supplies Aqua will use for townspeople. You had planned to watch a new play instead. You have your ordinary known skills, no extra equipment or free money, and no evidence of an attack taking place now.",
+        "Assassin is present and says she has a separate errand and has not agreed to join any watch. Luna has offered no pay or meal and has asked for an answer; no patrol has started.",
+        "Luna shows you the accepted inspection entry: two fresh attempts to force this window were found last night, no culprit is known, and no watch has yet been arranged."
+      ],
+      "other_speaker_line": "Luna: Can you take those two hours? I am asking you, and I still need to find someone if you decline.",
+      "exact_prompt": "Write one short English scene as Dark Stalker over the next minute, including what you say and do. You may include a brief private thought where the subject has access to it. Start from the supplied present state. End before any later outcome is known; do not add an analytical explanation.\n\nThis is a hypothetical Axel afternoon, not a new canonical event. You are the retired Dark Stalker. Your restored arm is usable; you are not currently injured. You have forty Eris until a pension payment in three days. A thirty-Eris meal is available now, and that food stall will close during the proposed watch.\n\nLuna asks you personally to watch the guild side-window for two hours at dusk. The room contains healing supplies Aqua will use for townspeople. You had planned to watch a new play instead. You have your ordinary known skills, no extra equipment or free money, and no evidence of an attack taking place now.\n\nAssassin is present and says she has a separate errand and has not agreed to join any watch. Luna has offered no pay or meal and has asked for an answer; no patrol has started.\n\nLuna shows you the accepted inspection entry: two fresh attempts to force this window were found last night, no culprit is known, and no watch has yet been arranged.\n\nLuna: Can you take those two hours? I am asking you, and I still need to find someone if you decline.\n",
+      "exact_prompt_pin": {
+        "file": "exact-inputs01/prompts/DST-A1.txt",
+        "bytes": 1363,
+        "sha256": "f9856e6eff63010048ec92060b385591fcc9dad0fe0914f1264a09bddfbf50d0"
+      }
+    },
+    {
+      "id": "DST-A2",
+      "pair_id": "DST-A",
+      "subject": "Dark Stalker",
+      "rule_id": "DST-R01",
+      "present_facts": [
+        "This is a hypothetical Axel afternoon, not a new canonical event. You are the retired Dark Stalker. Your restored arm is usable; you are not currently injured. You have forty Eris until a pension payment in three days. A thirty-Eris meal is available now, and that food stall will close during the proposed watch.",
+        "Luna asks you personally to watch the guild side-window for two hours at dusk. The room contains healing supplies Aqua will use for townspeople. You had planned to watch a new play instead. You have your ordinary known skills, no extra equipment or free money, and no evidence of an attack taking place now.",
+        "Assassin is present and says she has a separate errand and has not agreed to join any watch. Luna has offered no pay or meal and has asked for an answer; no patrol has started.",
+        "Luna shows you the corrected accepted inspection entry: the apparent forcing marks came from a loose branch, the window is repaired and locked, and the earlier threat report is withdrawn. She is still asking for the same two-hour precautionary watch."
+      ],
+      "other_speaker_line": "Luna: Can you take those two hours? I am asking you, and I still need to find someone if you decline.",
+      "exact_prompt": "Write one short English scene as Dark Stalker over the next minute, including what you say and do. You may include a brief private thought where the subject has access to it. Start from the supplied present state. End before any later outcome is known; do not add an analytical explanation.\n\nThis is a hypothetical Axel afternoon, not a new canonical event. You are the retired Dark Stalker. Your restored arm is usable; you are not currently injured. You have forty Eris until a pension payment in three days. A thirty-Eris meal is available now, and that food stall will close during the proposed watch.\n\nLuna asks you personally to watch the guild side-window for two hours at dusk. The room contains healing supplies Aqua will use for townspeople. You had planned to watch a new play instead. You have your ordinary known skills, no extra equipment or free money, and no evidence of an attack taking place now.\n\nAssassin is present and says she has a separate errand and has not agreed to join any watch. Luna has offered no pay or meal and has asked for an answer; no patrol has started.\n\nLuna shows you the corrected accepted inspection entry: the apparent forcing marks came from a loose branch, the window is repaired and locked, and the earlier threat report is withdrawn. She is still asking for the same two-hour precautionary watch.\n\nLuna: Can you take those two hours? I am asking you, and I still need to find someone if you decline.\n",
+      "exact_prompt_pin": {
+        "file": "exact-inputs01/prompts/DST-A2.txt",
+        "bytes": 1448,
+        "sha256": "e3bf17650667454cceb4a86251f9038e0c609da70330debf82b9b1ffc3fd581e"
+      }
+    },
+    {
+      "id": "DST-B1",
+      "pair_id": "DST-B",
+      "subject": "Dark Stalker",
+      "rule_id": "DST-R02",
+      "present_facts": [
+        "This is a hypothetical quiet library in Axel, not a canonical episode. You are Dark Stalker, browsing a shelf while two adult visitors stand at the next table. You do not know either visitor personally. They have not noticed your interest.",
+        "One gives the other a handmade bookmark, blushes and says, I wanted you to have this before Saturday. The other smiles, takes their hand briefly and answers, Then we should go together. You cannot hear any further explanation or see their private thoughts.",
+        "You have no work assignment involving them. You can remain at the shelf, walk away or speak. No one has granted permission to follow them elsewhere, and no later relationship outcome is supplied.",
+        "You have received no information about how the two visitors are related or what Saturday means."
+      ],
+      "other_speaker_line": "The second visitor, still smiling: Shall we tell the others, or keep it between us until then?",
+      "exact_prompt": "Write one short English scene as Dark Stalker over the next minute, including what you say and do. You may include a brief private thought where the subject has access to it. Start from the supplied present state. End before any later outcome is known; do not add an analytical explanation.\n\nThis is a hypothetical quiet library in Axel, not a canonical episode. You are Dark Stalker, browsing a shelf while two adult visitors stand at the next table. You do not know either visitor personally. They have not noticed your interest.\n\nOne gives the other a handmade bookmark, blushes and says, I wanted you to have this before Saturday. The other smiles, takes their hand briefly and answers, Then we should go together. You cannot hear any further explanation or see their private thoughts.\n\nYou have no work assignment involving them. You can remain at the shelf, walk away or speak. No one has granted permission to follow them elsewhere, and no later relationship outcome is supplied.\n\nYou have received no information about how the two visitors are related or what Saturday means.\n\nThe second visitor, still smiling: Shall we tell the others, or keep it between us until then?\n",
+      "exact_prompt_pin": {
+        "file": "exact-inputs01/prompts/DST-B1.txt",
+        "bytes": 1180,
+        "sha256": "3f1355b554d94a927e4cb0eaf845e699365b6c77baa18a3cc9c836bf4996d316"
+      }
+    },
+    {
+      "id": "DST-B2",
+      "pair_id": "DST-B",
+      "subject": "Dark Stalker",
+      "rule_id": "DST-R02",
+      "present_facts": [
+        "This is a hypothetical quiet library in Axel, not a canonical episode. You are Dark Stalker, browsing a shelf while two adult visitors stand at the next table. You do not know either visitor personally. They have not noticed your interest.",
+        "One gives the other a handmade bookmark, blushes and says, I wanted you to have this before Saturday. The other smiles, takes their hand briefly and answers, Then we should go together. You cannot hear any further explanation or see their private thoughts.",
+        "You have no work assignment involving them. You can remain at the shelf, walk away or speak. No one has granted permission to follow them elsewhere, and no later relationship outcome is supplied.",
+        "Immediately beforehand the librarian introduced these visitors to you as adult brother and sister preparing a surprise for their parents on Saturday. That identification is reliable for this hypothetical; no secret romance or false introduction is supplied."
+      ],
+      "other_speaker_line": "The second visitor, still smiling: Shall we tell the others, or keep it between us until then?",
+      "exact_prompt": "Write one short English scene as Dark Stalker over the next minute, including what you say and do. You may include a brief private thought where the subject has access to it. Start from the supplied present state. End before any later outcome is known; do not add an analytical explanation.\n\nThis is a hypothetical quiet library in Axel, not a canonical episode. You are Dark Stalker, browsing a shelf while two adult visitors stand at the next table. You do not know either visitor personally. They have not noticed your interest.\n\nOne gives the other a handmade bookmark, blushes and says, I wanted you to have this before Saturday. The other smiles, takes their hand briefly and answers, Then we should go together. You cannot hear any further explanation or see their private thoughts.\n\nYou have no work assignment involving them. You can remain at the shelf, walk away or speak. No one has granted permission to follow them elsewhere, and no later relationship outcome is supplied.\n\nImmediately beforehand the librarian introduced these visitors to you as adult brother and sister preparing a surprise for their parents on Saturday. That identification is reliable for this hypothetical; no secret romance or false introduction is supplied.\n\nThe second visitor, still smiling: Shall we tell the others, or keep it between us until then?\n",
+      "exact_prompt_pin": {
+        "file": "exact-inputs01/prompts/DST-B2.txt",
+        "bytes": 1342,
+        "sha256": "b93391c99b94e9b053d6c7fef7c979c629a0c5d11297290dc82e78a7eb9116bd"
+      }
+    }
+  ],
+  "status_time_basis": "This exact input bundle was authored after accepted foundation freeze and before any original response. Later first seals/diagnostics are separately recorded."
+}

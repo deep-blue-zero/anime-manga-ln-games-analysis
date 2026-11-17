@@ -1,0 +1,836 @@
+{
+  "schema": "TRIO_EXACT_C_ONLY_SIX_REGISTRY_V1",
+  "role": "REGISTRY",
+  "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_ORIGINAL_MEMBER_AND_COMPONENT_REGISTRY_V1.json",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "authority_control": {
+    "status": "canonical",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": false
+  },
+  "candidate_scope": "IMMUTABLE_C_CREATION_STAGE_ELIGIBLE_ANALYTICAL_AND_PROVENANCE_CANDIDATE",
+  "existing_duty": {
+    "package": "P3-REL-SHURO-KOKURIKO-AZAMI",
+    "home": "/homes/189",
+    "required_csv_physical_line": 191
+  },
+  "operative_stage": {
+    "readiness_V2": "ROOT_ADOPTED_WITH_LIMITS_EXISTING_RELATIONSHIP",
+    "body_V2_suffix": "ROOT_ADOPTED_WITH_LIMITS_EXACT_LITERAL",
+    "finite_retention_plan": "ROOT_ADOPTED_WITH_LIMITS",
+    "different_exact_six_QA": "PENDING",
+    "root_exact_six_new_bytes_adoption": "PENDING",
+    "repository_installation": "PENDING",
+    "publication": "PENDING"
+  },
+  "authority_scope": "These immutable creation-stage candidate records carry bounded maintained analytical and provenance authority for the existing directed trio relationship. Current installed repository authority, source admission, standalone and general model authority, identity adjudication and coverage or count changes remain outside this stage.",
+  "publication_utc": null,
+  "bound_prior_components": [
+    {
+      "role": "SOURCE",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "bytes": 20794,
+      "sha256": "a18ff402cbb7a847b39f59fa033b521bc61338d996fba60b6a1dc8ab9d6b1891"
+    },
+    {
+      "role": "BODY",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 14583,
+      "sha256": "4fa34bfc307c403cd5b8be2b8f8ab95e923a44bc975041a7aa7a55d3bc11da20"
+    },
+    {
+      "role": "AUTHOR",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_AUTHOR_READINESS_AND_LITERAL_BODY_HISTORY_V1.json",
+      "bytes": 133464,
+      "sha256": "07347f3890469d82520e6d9e1113e3c44dae4f45a326b58f2469eea428a182a4"
+    },
+    {
+      "role": "PEER",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_DIFFERENT_READINESS_AND_BODY_REVIEWS_V1.json",
+      "bytes": 114586,
+      "sha256": "c9592aebadcfab0b6b1dbea075115e1ee016664b1ac61f4f9ef70c83d8d5c156"
+    },
+    {
+      "role": "ROOT",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_ROOT_ADOPTION_AND_STAGE_PROVENANCE_V1.json",
+      "bytes": 20213,
+      "sha256": "306a0c9355a9ff12ac044c84daef3a2420b31e26ba8b2a6d758d10cf8afe5c8f"
+    }
+  ],
+  "original_member_registry": {
+    "T01": {
+      "role": "BODY",
+      "purpose": "adopted literal V2",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        12935
+      ],
+      "sha256": "824f8895bb782a006bf6aeffc4d648aa9f257ad3a2a6ef3da9f180768fce34d9",
+      "origin": {
+        "trio_exact_local_locator": "L010"
+      },
+      "retention": "EXACT_LITERAL_SUFFIX"
+    },
+    "T02": {
+      "role": "AUTHOR",
+      "purpose": "dated complete BODY V1",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        12914
+      ],
+      "sha256": "c0c3ee22c078da65fa3968644b87f35b48b7efdcf1577e97d3730cc2af885418",
+      "origin": {
+        "trio_exact_local_locator": "L004"
+      },
+      "retention": "EXACT_V2_INVERSE_VIA_T04_TWO_SPANS"
+    },
+    "T03": {
+      "role": "AUTHOR",
+      "purpose": "original BODY V1 composition and saved readback",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        7853
+      ],
+      "sha256": "a9cf501778090027d9eb721a8702fdc58049a56d9a2c81ea1687e5afda9cbc0d",
+      "origin": {
+        "trio_exact_local_locator": "L009"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "T04": {
+      "role": "AUTHOR",
+      "purpose": "exact BODY V2 two-literal precision and saved meaning",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        4950
+      ],
+      "sha256": "a02c47baf7dabbe6490bbf880b6bd715ee78f0be863008a29d878461c92ee92b",
+      "origin": {
+        "trio_exact_local_locator": "L028"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "T05": {
+      "role": "AUTHOR",
+      "purpose": "accepted V2 original readiness and claim modes",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        56129
+      ],
+      "sha256": "8cffd8918bf82033051071d06da2e0363798fff134b6507376959b40e497e016",
+      "origin": {
+        "trio_exact_local_locator": "L006"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "T06": {
+      "role": "AUTHOR",
+      "purpose": "original readiness terminal and dated precision/role history",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        9575
+      ],
+      "sha256": "dc265485224c142e0ae2405ac8d16b029590ed337bfd1f5525d747e81fd6866c",
+      "origin": {
+        "trio_exact_local_locator": "L033"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "T07": {
+      "role": "PEER",
+      "purpose": "whole BODY V1 QA terminal",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        4317
+      ],
+      "sha256": "86f8bdc522ae0f5b9e008664421336f3e180d7ac1d80bd0b8141ca5895c2598b",
+      "origin": {
+        "trio_exact_local_locator": "L011"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "T08": {
+      "role": "PEER",
+      "purpose": "whole BODY V1 literary QA",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        19375
+      ],
+      "sha256": "37af2aa82935be8d0941011ad2e048e9b87558b3d60a52170208c40ced60b7fe",
+      "origin": {
+        "trio_exact_local_locator": "L022"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "T09": {
+      "role": "PEER",
+      "purpose": "whole BODY V1 QA actual course",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        7907
+      ],
+      "sha256": "6c9a0fba458aa3ffd5b768064e8c5244157e29fdc7f7876ca3fe7edab4fa91ad",
+      "origin": {
+        "trio_exact_local_locator": "L021"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "T10": {
+      "role": "PEER",
+      "purpose": "whole BODY V1 QA saved readback",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        2695
+      ],
+      "sha256": "0d9f472372d0f32e6ec6aafc565a78f3d8ea89567104d1fd2094b2869242f4fd",
+      "origin": {
+        "trio_exact_local_locator": "L023"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "T11": {
+      "role": "PEER",
+      "purpose": "different BODY V2 finite QA terminal",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        2629
+      ],
+      "sha256": "628b3c7c3c847d448914702594e3081d2511cdc88fddd1355d05b848259b8ce9",
+      "origin": {
+        "trio_exact_local_locator": "L035"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "T12": {
+      "role": "PEER",
+      "purpose": "different BODY V2 finite QA complete verdict",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        6300
+      ],
+      "sha256": "35795fed0db91b8f1002e7c2a180d2086e8d2ed1836b55c153ec37168da6703d",
+      "origin": {
+        "trio_exact_local_locator": "L027"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "T13": {
+      "role": "PEER",
+      "purpose": "different original-readiness QA terminal",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        4493
+      ],
+      "sha256": "3a173bb43a46e82e6b671a3417e04abe955d1650e62ec06617ab1b4a03f57b00",
+      "origin": {
+        "trio_exact_local_locator": "L034"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "T14": {
+      "role": "PEER",
+      "purpose": "different original-readiness complete QA",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        23497
+      ],
+      "sha256": "5820e40ef26004d6d139261cfa619aad99a1624bda67d11e07a6f5c954afc01e",
+      "origin": {
+        "trio_exact_local_locator": "L007"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "T15": {
+      "role": "PEER",
+      "purpose": "different readiness actual course",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        14757
+      ],
+      "sha256": "1ac47ae053f771c7a4ec215dda4dcb6578813b2563937cc89ab74125f718bc44",
+      "origin": {
+        "trio_exact_local_locator": "L024"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "T16": {
+      "role": "PEER",
+      "purpose": "different readiness saved readback",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        3898
+      ],
+      "sha256": "b0dd64cb8ce4296eaaa4de365a97a237742a880ed99eaf7b48da1a688d49dabb",
+      "origin": {
+        "trio_exact_local_locator": "L030"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "T17": {
+      "role": "ROOT",
+      "purpose": "readiness adoption and separate BODY commission",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        6981
+      ],
+      "sha256": "a98ee51803fdb2c53896fa1fdf2a50a61f5927daf0533b7a61fdb8e334195b76",
+      "origin": {
+        "trio_exact_local_locator": "L005"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "T18": {
+      "role": "ROOT",
+      "purpose": "BODY V2 adoption and separate finite plan commission",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        7523
+      ],
+      "sha256": "2698c05e79b7c657a164d65867ae1bd38327c99bb196edf331e78c5d5859a761",
+      "origin": {
+        "trio_exact_local_locator": "L039"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "T19": {
+      "role": "SOURCE",
+      "purpose": "complete fourteen original actor/recipient claim modes and limits",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        16455
+      ],
+      "sha256": "3f2b9cd0169b9e64ec69663ba5321a2f49305e457e3c5db043ffab08c82cf410",
+      "origin": {
+        "trio_exact_local_locator": "L015"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "T20": {
+      "role": "AUTHOR",
+      "purpose": "actual original readiness course",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        12793
+      ],
+      "sha256": "168e19d6be0f25d9cf143bb3dc4a049eccf631b1f0617669b0157f696f771de7",
+      "origin": {
+        "trio_exact_local_locator": "L008"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "T21": {
+      "role": "AUTHOR",
+      "purpose": "original saved whole meaning and exact readiness precision readback",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        18301
+      ],
+      "sha256": "cd835ca715a2559097e97816ef5e7750c92955f21837ffb52682d787f9e52f15",
+      "origin": {
+        "trio_exact_local_locator": "L016"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "T22": {
+      "role": "AUTHOR",
+      "purpose": "original fresh readiness questions and role exposure",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        3978
+      ],
+      "sha256": "8150ccf47a84633492dc403e823aafb5084e82c9b5e5d05dd2c85f4876804d23",
+      "origin": {
+        "trio_exact_local_locator": "L013"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "P01": {
+      "role": "AUTHOR",
+      "purpose": "Original finite-plan questions and truthful prior exposure",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        1599
+      ],
+      "sha256": "f2b4fb7dace89b99d94cdbac15c9a323110b8923334155b6f3e051cd38dcce61",
+      "origin": {
+        "trio_exact_local_locator": "L040"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "P02": {
+      "role": "AUTHOR",
+      "purpose": "Complete finite-plan reasoning",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        5535
+      ],
+      "sha256": "38e1749685c537792e0ac7e973b07db1fbf27ac1a3290bfc97214486e3d7e0e0",
+      "origin": {
+        "trio_exact_local_locator": "L041"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "P03": {
+      "role": "AUTHOR",
+      "purpose": "Actual finite-plan receiving course",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        3947
+      ],
+      "sha256": "0b578861fe5ceea4ca52ae27067909d8521f8484b66ea44ae4f7e11ec6c05a05",
+      "origin": {
+        "trio_exact_local_locator": "L042"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "P04": {
+      "role": "AUTHOR",
+      "purpose": "Actual finite saved reasoning readback",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        2249
+      ],
+      "sha256": "465611bb22e16743ae8744a973a5bede01c51adb78d711841e9d6c0cabd15387",
+      "origin": {
+        "trio_exact_local_locator": "L043"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    }
+  },
+  "additional_stage_member_registry": {
+    "Q01": {
+      "role": "PEER",
+      "purpose": "Different finite plan questions and entering exposure",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        2241
+      ],
+      "sha256": "dc0b8792b30c13e9a259478a3fe0db91cc7e59f8a657a94e20937fa52e9b01f7",
+      "origin": {
+        "trio_exact_local_locator": "N001"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "Q02": {
+      "role": "PEER",
+      "purpose": "Different finite plan six answers and full documentary QA",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        17031
+      ],
+      "sha256": "e9fbcc42a50fc63f6e89a04de4dbb491106effbf2d43b5834b1a3aeb0b983550",
+      "origin": {
+        "trio_exact_local_locator": "N004"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "Q03": {
+      "role": "PEER",
+      "purpose": "Different finite plan actual meaning and custody course",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        4954
+      ],
+      "sha256": "40318868ce5d97e6e861db55333a98b9305650fcd9d993b236c24836c2267fcd",
+      "origin": {
+        "trio_exact_local_locator": "N005"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "Q04": {
+      "role": "PEER",
+      "purpose": "Different finite plan saved readback and frozen review disposition",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        4213
+      ],
+      "sha256": "b22811be915ea7925767f4f66e8df60a1b77363418b2009c4063468e5cd59f5a",
+      "origin": {
+        "trio_exact_local_locator": "N006"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "R01": {
+      "role": "ROOT",
+      "purpose": "Root actual finite plan adoption and separate six commission",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        6897
+      ],
+      "sha256": "fd496f4353214890aa58ea85ba57e57ec57cdef1641139ce9545cd2cab472371",
+      "origin": {
+        "trio_exact_local_locator": "N007"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "C01": {
+      "role": "AUTHOR",
+      "purpose": "Current composer fresh questions and prior role disclosure",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        1611
+      ],
+      "sha256": "f63b72cf2f91c4ffed574c775134015febe97e8c94ac579c5d0d08e3236776d9",
+      "origin": {
+        "trio_exact_local_locator": "N008"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    },
+    "C02": {
+      "role": "AUTHOR",
+      "purpose": "Current composer pre-write decisions and actual receiving",
+      "raw_byte_range_zero_based_half_open": [
+        0,
+        4510
+      ],
+      "sha256": "c2caeb4ca7456c5285da7d9fb094a0b5fd2441f7d456f7b4da972b58f966c4eb",
+      "origin": {
+        "trio_exact_local_locator": "N009"
+      },
+      "retention": "FULL_ORDERED_TYPED_RECORD_WITH_LOCATOR_DICTIONARY"
+    }
+  },
+  "logical_locator_registry": {
+    "L001": {
+      "basename": "BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+      "relation": "DECLARED_MAINTAINED_CONTEXT_CAPTURE_NOT_OPENED_FOR_THIS_PLAN",
+      "declared_account": "C001"
+    },
+    "L002": {
+      "basename": "BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+      "relation": "DECLARED_MAINTAINED_CONTEXT_CAPTURE_NOT_OPENED_FOR_THIS_PLAN",
+      "declared_account": "C002"
+    },
+    "L003": {
+      "basename": "BLUE_ARCHIVE_MAIN_V005_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "relation": "DECLARED_MAINTAINED_CONTEXT_CAPTURE_NOT_OPENED_FOR_THIS_PLAN",
+      "declared_account": "V005"
+    },
+    "L004": {
+      "basename": "SHURO_KOKURIKO_AZAMI_CONNECTED_RELATIONSHIP_BODY_V1.md",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T02"
+    },
+    "L005": {
+      "basename": "ROOT_ACTUAL_TRIO_EXISTING_REL_BOUNDED_READINESS_ADOPTION_WITH_LIMITS_AND_C_ONLY_BODY_COMMISSION_20261105_V1.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T17"
+    },
+    "L006": {
+      "basename": "OWN_TRIO_REL_COMPLETE_ORIGINAL_BOUNDED_READINESS_V2_EXACT_AFTERSTATE_AND_DIRECTED_ORIENTATION_PRECISION.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T05"
+    },
+    "L007": {
+      "basename": "OWN_COMPLETE_DIFFERENT_TRIO_ORIGINAL_READINESS_QA_EIGHT_SOURCE_GROUNDED_ANSWERS_RIVALS_AND_LIMITS_V1.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T14"
+    },
+    "L008": {
+      "basename": "OWN_TRIO_REL_ACTUAL_COMPLETE_MAINTAINED694_REUSE_FRESH304_CURRENT_DELTA_AND_RELATIONSHIP_CONTROLS_COURSE_V1.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T20"
+    },
+    "L009": {
+      "basename": "START_HERE_TRIO_CONNECTED_RELATIONSHIP_BODY_AND_ACTUAL_SAVED_READBACK_V1.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T03"
+    },
+    "L010": {
+      "basename": "SHURO_KOKURIKO_AZAMI_CONNECTED_RELATIONSHIP_BODY_V2.md",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T01"
+    },
+    "L011": {
+      "basename": "START_HERE_DIFFERENT_TRIO_CONNECTED_BODY_LITERARY_QA_FROZEN_PENDING_ROOT_V1.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T07"
+    },
+    "L012": {
+      "basename": "ROOT_ACTUAL_TRIO_EXISTING_HOME_METADATA_RECEIVING_AND_BOUNDED_ORIGINAL_READINESS_ONLY_COMMISSION_20261105_V1.json",
+      "relation": "DECLARED_LOCATOR_ONLY_TARGET_NOT_OPENED"
+    },
+    "L013": {
+      "basename": "OWN_TRIO_REL_EIGHT_FRESH_READINESS_QUESTIONS_ROLE_EXPOSURE_AND_BOUNDARIES_V1.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T22"
+    },
+    "L014": {
+      "basename": "OWN_TRIO_REL_ORIGINAL_BOUNDED_READINESS_COMPLETE_FROZEN_EXTERNAL_MANIFEST_V1.json",
+      "relation": "DECLARED_LOCATOR_ONLY_TARGET_NOT_OPENED"
+    },
+    "L015": {
+      "basename": "OWN_TRIO_REL_COMPLETE_FOURTEEN_LOCAL_CLAIM_MODES_ACTORS_RECIPIENTS_ENDPOINTS_AND_INFERENCE_LIMITS_V1.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T19"
+    },
+    "L016": {
+      "basename": "OWN_TRIO_REL_ACTUAL_SAVED_WHOLE_MEANING_READBACK_EXACT_V2_PRECISION_AND_LIMITS_V1.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T21"
+    },
+    "L017": {
+      "basename": "OWN_TRIO_REL_MODEST_DOCUMENTARY_PINS_REFERENCES_FOUR_LEAF_INVERSE_AND_INPUT_NOOP_V1.json",
+      "relation": "DECLARED_LOCATOR_ONLY_TARGET_NOT_OPENED"
+    },
+    "L018": {
+      "basename": "OWN_TRIO_REL_EXACT_AFTERSTATE_ORIENTATION_PRECISION_FULL_RAW_BEFORE_AFTER_PREWRITE_V1.json",
+      "relation": "DECLARED_LOCATOR_ONLY_TARGET_NOT_OPENED"
+    },
+    "L019": {
+      "basename": "OWN_TRIO_REL_COMPLETE_ORIGINAL_BOUNDED_READINESS_DIRECTED_ARGUMENT_EIGHT_ANSWERS_TWELVE_METHOD_RIVALS_ENDPOINTS_V1.json",
+      "relation": "DECLARED_LOCATOR_ONLY_TARGET_NOT_OPENED"
+    },
+    "L020": {
+      "basename": "OWN_FRESH_TRIO_CONNECTED_BODY_LITERARY_QUESTIONS_ROLE_AND_ACTUAL_EXPOSURE_V1.json",
+      "relation": "DECLARED_LOCATOR_ONLY_TARGET_NOT_OPENED"
+    },
+    "L021": {
+      "basename": "OWN_ACTUAL_TRIO_CONNECTED_BODY_LITERARY_COURSE_AND_EXACT_SOURCE_REUSE_V1.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T09"
+    },
+    "L022": {
+      "basename": "OWN_COMPLETE_DIFFERENT_TRIO_CONNECTED_BODY_LITERARY_QA_V1.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T08"
+    },
+    "L023": {
+      "basename": "OWN_ACTUAL_SAVED_TRIO_CONNECTED_BODY_LITERARY_QA_READBACK_V1.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T10"
+    },
+    "L024": {
+      "basename": "OWN_ACTUAL_FRESH262_MAINTAINED_CONTEXT_AND_FULL_ORIGINAL_READINESS_DIFFERENT_QA_COURSE_V1.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T15"
+    },
+    "L025": {
+      "basename": "BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+      "relation": "DECLARED_LOCATOR_ONLY_TARGET_NOT_OPENED"
+    },
+    "L026": {
+      "basename": "BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "relation": "DECLARED_LOCATOR_ONLY_TARGET_NOT_OPENED"
+    },
+    "L027": {
+      "basename": "EXACT_TRIO_BODY_V2_DIFFERENT_FINITE_QA_AND_WHOLE_BYTE_INVERSE.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T12"
+    },
+    "L028": {
+      "basename": "START_HERE_TRIO_CONNECTED_BODY_V2_EXACT_PRECISION_FROZEN_PENDING_FINITE_QA_V1.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T04"
+    },
+    "L029": {
+      "basename": "FRESH_FINITE_TRIO_BODY_V2_QUESTIONS_AND_EXPOSURE.json",
+      "relation": "DECLARED_LOCATOR_ONLY_TARGET_NOT_OPENED"
+    },
+    "L030": {
+      "basename": "OWN_ACTUAL_COMPLETE_SAVED_TRIO_DIFFERENT_QA_MEANING_READBACK_AND_LIMITS_V1.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T16"
+    },
+    "L031": {
+      "basename": "OWN_FROZEN_TRIO_DIFFERENT_READINESS_QA_EXTERNAL_MANIFEST_AND_FINITE_PIN_GUARD_V1.json",
+      "relation": "DECLARED_LOCATOR_ONLY_TARGET_NOT_OPENED"
+    },
+    "L032": {
+      "basename": "OWN_FRESH_TRIO_DIFFERENT_READINESS_QUESTIONS_ROLE_AND_EXPOSURE_BEFORE_ARGUMENT_V1.json",
+      "relation": "DECLARED_LOCATOR_ONLY_TARGET_NOT_OPENED"
+    },
+    "L033": {
+      "basename": "START_HERE_TRIO_REL_EXISTING_REQUIRED_HOME_COMPLETE_ORIGINAL_BOUNDED_READINESS_FROZEN_PENDING_DIFFERENT_QA_ROOT_V1.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T06"
+    },
+    "L034": {
+      "basename": "START_HERE_DIFFERENT_TRIO_EXISTING_HOME_READINESS_QA_FROZEN_PENDING_ROOT_V1.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T13"
+    },
+    "L035": {
+      "basename": "START_HERE_TRIO_BODY_V2_DIFFERENT_FINITE_QA_FROZEN_PENDING_ROOT.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T11"
+    },
+    "L036": {
+      "basename": "OWN_NAGUSA_P3_CHAR_F065_ORIGINAL_BOUNDED_READINESS_EXACT_POSITIVE_MANIFEST_V1.json",
+      "relation": "DECLARED_LOCATOR_ONLY_TARGET_NOT_OPENED"
+    },
+    "L037": {
+      "basename": "BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+      "relation": "DECLARED_LOCATOR_ONLY_TARGET_NOT_OPENED"
+    },
+    "L038": {
+      "basename": "BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "relation": "DECLARED_LOCATOR_ONLY_TARGET_NOT_OPENED"
+    },
+    "L039": {
+      "basename": "ROOT_ACTUAL_TRIO_EXACT_BODY_V2_ADOPTION_WITH_LIMITS_AND_FINITE_PLAN_ONLY_COMMISSION_20261105_V1.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "T18"
+    },
+    "L040": {
+      "basename": "FRESH_TRIO_FINITE_PLAN_QUESTIONS_AND_ACTUAL_EXPOSURE.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "P01"
+    },
+    "L041": {
+      "basename": "OWN_TRIO_FINITE_RETENTION_COMPLETE_REASONS_V1.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "P02"
+    },
+    "L042": {
+      "basename": "OWN_TRIO_FINITE_PLAN_ACTUAL_RECEIVING_COURSE_V1.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "P03"
+    },
+    "L043": {
+      "basename": "OWN_ACTUAL_TRIO_FINITE_PLAN_SAVED_REASONING_READBACK_V1.json",
+      "relation": "EXACT_ORIGINAL_MEMBER",
+      "member": "P04"
+    },
+    "N001": {
+      "basename": "OWN_TRIO_FINITE_PLAN_FRESH_QUESTIONS_AND_ACTUAL_ROLE_EXPOSURE_V1.json",
+      "relation": "EXACT_SELECTED_COMPOSITION_STAGE_LOCATOR",
+      "role": "PEER",
+      "logical_member": "Q01",
+      "purpose": "Different finite plan questions and entering exposure"
+    },
+    "N002": {
+      "basename": "START_HERE_TRIO_FINITE_RETENTION_PLAN_ONLY_FROZEN_PENDING_DIFFERENT_QA_ROOT_V1.json",
+      "relation": "DECLARED_GOVERNING_PLAN_AUTHOR_TERMINAL_EXACT_PIN"
+    },
+    "N003": {
+      "basename": "TRIO_EXACT_FINITE_26_MEMBER_RETENTION_PLAN_ONLY_V1.json",
+      "relation": "DECLARED_GOVERNING_FINITE_PLAN_EXACT_PIN"
+    },
+    "N004": {
+      "basename": "OWN_DIFFERENT_TRIO_FINITE_RETENTION_PLAN_COMPLETE_SIX_ANSWERS_AND_INDEPENDENT_REPLAY_QA_V1.json",
+      "relation": "EXACT_SELECTED_COMPOSITION_STAGE_LOCATOR",
+      "role": "PEER",
+      "logical_member": "Q02",
+      "purpose": "Different finite plan six answers and full documentary QA"
+    },
+    "N005": {
+      "basename": "OWN_TRIO_DIFFERENT_FINITE_PLAN_ACTUAL_MEANING_AND_CUSTODY_COURSE_V1.json",
+      "relation": "EXACT_SELECTED_COMPOSITION_STAGE_LOCATOR",
+      "role": "PEER",
+      "logical_member": "Q03",
+      "purpose": "Different finite plan actual meaning and custody course"
+    },
+    "N006": {
+      "basename": "START_HERE_DIFFERENT_TRIO_FINITE_RETENTION_PLAN_COMPLETE_QA_FROZEN_NO_MATERIAL_FINDING_ROOT_REQUIRED_V1.json",
+      "relation": "EXACT_SELECTED_COMPOSITION_STAGE_LOCATOR",
+      "role": "PEER",
+      "logical_member": "Q04",
+      "purpose": "Different finite plan saved readback and frozen review disposition"
+    },
+    "N007": {
+      "basename": "ROOT_TRIO_EXACT_FINITE_RETENTION_PLAN_ADOPTION_WITH_LIMITS_AND_C_ONLY_SIX_COMPOSITION_COMMISSION_20261105_V1.json",
+      "relation": "EXACT_SELECTED_COMPOSITION_STAGE_LOCATOR",
+      "role": "ROOT",
+      "logical_member": "R01",
+      "purpose": "Root actual finite plan adoption and separate six commission"
+    },
+    "N008": {
+      "basename": "OWN_TRIO_EXACT_SIX_COMPOSITION_FRESH_QUESTIONS_AND_ROLE_EXPOSURE_V1.json",
+      "relation": "EXACT_SELECTED_COMPOSITION_STAGE_LOCATOR",
+      "role": "AUTHOR",
+      "logical_member": "C01",
+      "purpose": "Current composer fresh questions and prior role disclosure"
+    },
+    "N009": {
+      "basename": "OWN_TRIO_EXACT_SIX_PREWRITE_COMPOSITION_REASONS_AND_ACTUAL_RECEIVING_V1.json",
+      "relation": "EXACT_SELECTED_COMPOSITION_STAGE_LOCATOR",
+      "role": "AUTHOR",
+      "logical_member": "C02",
+      "purpose": "Current composer pre-write decisions and actual receiving"
+    }
+  },
+  "adopted_plan_prior_role_design": {
+    "SOURCE": {
+      "proposed_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "function": "Complete authored source modes and actual graded maintained locator metadata, with limitations and actor distinctions.",
+      "selected": [
+        "T19"
+      ]
+    },
+    "BODY": {
+      "proposed_repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_SYNTHESIS.md",
+      "function": "Accepted V2 whole exact literal suffix. A first YAML block is for a future separate composition.",
+      "selected": [
+        "T01"
+      ]
+    },
+    "AUTHOR": {
+      "proposed_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_AUTHOR_READINESS_AND_LITERAL_BODY_HISTORY_V1.json",
+      "function": "Original distinct author stages, full readiness, exact BODY history, current finite selection reasons and its actual course.",
+      "selected": [
+        "T02",
+        "T03",
+        "T04",
+        "T05",
+        "T06",
+        "T20",
+        "T21",
+        "T22",
+        "P01",
+        "P02",
+        "P03",
+        "P04"
+      ]
+    },
+    "PEER": {
+      "proposed_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_DIFFERENT_READINESS_AND_BODY_REVIEWS_V1.json",
+      "function": "Complete genuinely different readiness, literary V1 and finite V2 judgments and their actual stage and independence.",
+      "selected": [
+        "T07",
+        "T08",
+        "T09",
+        "T10",
+        "T11",
+        "T12",
+        "T13",
+        "T14",
+        "T15",
+        "T16"
+      ]
+    },
+    "ROOT": {
+      "proposed_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_ROOT_ADOPTION_AND_STAGE_PROVENANCE_V1.json",
+      "function": "Actual distinct readiness and BODY decisions, controlling limits, and the later finite plan review stage only when actually separately adopted.",
+      "selected": [
+        "T17",
+        "T18"
+      ]
+    },
+    "REGISTRY": {
+      "proposed_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_ORIGINAL_MEMBER_AND_COMPONENT_REGISTRY_V1.json",
+      "function": "Logical original roster, exact bytes and hashes, locator semantics and later actual role binding.",
+      "selected": []
+    }
+  },
+  "current_role_order": [
+    "SOURCE",
+    "BODY",
+    "AUTHOR",
+    "PEER",
+    "ROOT",
+    "REGISTRY"
+  ],
+  "dependency_semantics": "Each physical binding records an actual complete earlier candidate at its intended repository path. Logical original-value references and declared prior plan evidence are scoped navigation with no self or reverse strong binding.",
+  "finite_scope": {
+    "package": "P3-REL-SHURO-KOKURIKO-AZAMI",
+    "home": "/homes/189",
+    "required_csv_physical_line": 191,
+    "existing_count_already_in_355": 1,
+    "changes": 0
+  }
+}

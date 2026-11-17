@@ -1,0 +1,907 @@
+{
+  "schema": "MOMOI_ACTUAL_ROOT_PRIVATE_V4_ADOPTION_TRUTHFUL_ORDERED_PUBLIC_REPORT_PROJECTION_V1",
+  "artifact_id": "ROOT_MOMOI_PRIVATE_V4_SEMANTIC_ADOPTION_20261015_V1",
+  "reporter": "/root/current_preflight_requirements",
+  "reporting_scope_at_preparation_20261103": {
+    "metadata_prepared": "2026-11-03",
+    "role": "C-only metadata proposal, using actually adopted privateV4; distinct public-byte QA and ROOT composed-byte adoption remain separate actual gates.",
+    "people_and_roles": "Original body/new105 author /root/publishing_shared7_review; original component and finite V4 reviewer /root/next_cast_source_preparation; this new reporter/composer /root/current_preflight_requirements; actual ROOT private8 adoption is separately attributed. No fresh independent literary review, source inspection or cryptographic ROOT signature is claimed.",
+    "source_grades": "Author3WHOLE715+3SELECTED503=1218; component peer6WHOLE1641; ROOT original body5WHOLE1189+FinalSELECTED150 and later selected162 separately. Frozen common105 original26WHOLE79SELECTED remains attributed. Metadata composition adds no primary/native/raw/AV/normal105 receiving.",
+    "historical_states": "Original BODYV2 header, new105NOT_AUTHORED and pending source/transport/review fields are complete dated creation history. OriginalV3 QA WITH_FINDINGS is not relabeled; currentfiniteV4 resolves the exact8 crown clauses and reuses the unchanged scope. PrivateROOT acceptance governs private8 only, not this public-byte proposal.",
+    "eight_crown_precision": "MOP102 was the direct custody error; the other seven actor/holder/collective precisions do not prove eight separate ownership acts. Collective recovery and Yuzu continued hold coexist with Momoi local win, reassurance, friendship, cleaning and play; her participation is not erased.",
+    "finite_actors": "Momoi gives the console TO Midori; probably-first remains tentative. Midori observes missing chip damage; Alice offers the bug hypothesis; Yuzu volunteers the later match and owns the unwanted celebrity afterstate. Alice invites Toki; club refusal and Toki later friend-choice remain distinct. Neru report, handover, payment and new game are separate endpoints.",
+    "ordinary_value": "Play, stories, sweets, drink, softness, naps, console memories, craft, service and chosen company retain intrinsic value independent of crisis payoff or finished product. Actual discomfort, refusal and unfinished work remain contrary evidence.",
+    "identity_and_scope": "One existing P3-CHAR-MOMOI/home54/F121, BA_PERSON_MOMOI variants13011/10094, no mandatory inside named duty, extraREL, identity join or registry repair.",
+    "ROOT_private_projection": "Only mechanical /checks array may be omitted from public ROOT report with exact ordered count/hash, private whole receipt and original member order; all12 ROOT warrants and every other member survive. The separate1202071 proof is only an existing metadata-bound opaque private witness, never read or copied here.",
+    "live_current_state": "Reported baseline152/355 and19/29 remains unchanged; next178. Currentmain/owner instructions govern publication and merges. Original October merge-reserved strings remain dated history. This preparation performs no R/shared/Git/provider operation.",
+    "gaps_models_credit": "All14 original gaps remainOPEN/models0; no new count, source admission, named/extraREL, identity, install/publication/runtime or merge credit."
+  },
+  "original_ROOT_authority": {
+    "private_witness_id": "MOMOI_ACTUAL_ROOT_PRIVATE_V4_438078",
+    "tuple": {
+      "bytes": 438078,
+      "sha256": "7561297d17a969ac28e1d28325aaabda4aa380d02fbf4aa2675c03fe39f7ed11",
+      "git_blob_oid_of_actual_bytes": "59bc72ea7b3dc0288c0a72eb7e1a17e5f14ec5de"
+    }
+  },
+  "ordered_member_selection": [
+    "schema",
+    "UTC",
+    "decision",
+    "current_manifest",
+    "current8",
+    "Root_prior_complete198_receiving",
+    "prior525_receiving",
+    "actual_whole_current8_manifest",
+    "actual_whole_current40_and14peerreasons",
+    "actual_whole_authorclosure",
+    "actual_whole_peercontract_and_template",
+    "actual_whole_finite_peerfinal",
+    "exact8and517literal",
+    "all105nonfiveobjects_literal",
+    "body60andSource1raw_NOOP",
+    "whole8raw_forward_inverse",
+    "whole14originalraw",
+    "original315markers",
+    "20copywholepins_verified",
+    "actual128typedobjects",
+    "actual105selectors",
+    "actual937reciprocaljoins",
+    "peer_current_manual",
+    "full34577_currentpeer_raw_recovered",
+    "own12_substantive_warrants",
+    "history",
+    "all14_original_gaps",
+    "models",
+    "published_count",
+    "required",
+    "named",
+    "named_required",
+    "public12_composition_and_distinctpublicbyteQA",
+    "new_count_source_admission_identity_named_extraREL_install_publication_runtime_merge_credit",
+    "R_Git_provider_shared_mutations",
+    "protected39_private9_access",
+    "check_count",
+    "failures"
+  ],
+  "original_complete_member_order": [
+    "schema",
+    "UTC",
+    "decision",
+    "current_manifest",
+    "current8",
+    "Root_prior_complete198_receiving",
+    "prior525_receiving",
+    "actual_whole_current8_manifest",
+    "actual_whole_current40_and14peerreasons",
+    "actual_whole_authorclosure",
+    "actual_whole_peercontract_and_template",
+    "actual_whole_finite_peerfinal",
+    "exact8and517literal",
+    "all105nonfiveobjects_literal",
+    "body60andSource1raw_NOOP",
+    "whole8raw_forward_inverse",
+    "whole14originalraw",
+    "original315markers",
+    "20copywholepins_verified",
+    "actual128typedobjects",
+    "actual105selectors",
+    "actual937reciprocaljoins",
+    "peer_current_manual",
+    "full34577_currentpeer_raw_recovered",
+    "own12_substantive_warrants",
+    "history",
+    "all14_original_gaps",
+    "models",
+    "published_count",
+    "required",
+    "named",
+    "named_required",
+    "public12_composition_and_distinctpublicbyteQA",
+    "new_count_source_admission_identity_named_extraREL_install_publication_runtime_merge_credit",
+    "R_Git_provider_shared_mutations",
+    "protected39_private9_access",
+    "check_count",
+    "checks",
+    "failures"
+  ],
+  "sole_mechanical_member_exclusion": {
+    "pointer": "/checks",
+    "type": "array",
+    "ordered_element_count": 6687,
+    "ordered_value_codec": "json.dumps ensure_asciiFalse separators(comma,colon) sort_keysFalse UTF8 noLF",
+    "ordered_value_sha256": "2d7659add6a0f361cadab0ad85c83150e83b2ad6ce9efcdaa5f6b5d025bc28eb",
+    "private_witness_id": "MOMOI_ACTUAL_ROOT_438078_MECHANICAL_CHECKS",
+    "complete_original_receipt_tuple": {
+      "bytes": 438078,
+      "sha256": "7561297d17a969ac28e1d28325aaabda4aa380d02fbf4aa2675c03fe39f7ed11",
+      "git_blob_oid_of_actual_bytes": "59bc72ea7b3dc0288c0a72eb7e1a17e5f14ec5de"
+    },
+    "reason": "Mechanical stream only. All12 ROOT substantive warrants and every other ordered member retained; whole original is privately bound and no payload target is dereferenced by this witness."
+  },
+  "complete_selected_original_ROOT_members_delivery_values_only_normalized": {
+    "schema": "ROOT_MOMOI_V4_COMPLETE525_LITERAL60_DISTINCT198_AND_CURRENT14_REASONS_PRIVATE8_LITERARY_ADOPTION_WITH_LIMITS_NO_PUBLIC12_COUNT_V1",
+    "UTC": "2026-10-15T07:52:19.016823+00:00",
+    "decision": "ADOPT_CURRENT_PRIVATE8_WITH_LIMITS_FOR_SEPARATE_REVIEWABLE_PUBLIC_COMPOSITION_ONLY",
+    "current_manifest": {
+      "C_path": "private-witness:MOMOI_LOCATION_9a8cb6ffcad0e844004c5770b7a25014d4f93f7291744f20e18d7d28f210e8e3",
+      "bytes": 18269,
+      "sha256": "0c72dd69adba5d87d2e64a2c236ff99ee7e6bbdc8f8be54c02c28ec709e30f25",
+      "git_blob_oid_of_actual_bytes": "c65fc9578ea1dc618d4ecbb1d637d7f2b4f6da7d"
+    },
+    "current8": [
+      {
+        "C_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MOMOI_CHARACTER_MONOGRAPH.md",
+        "bytes": 28571,
+        "sha256": "22b2c44b6c90b63f8389866d01aa95a31a8dd7fa8c5b1ac0a9e4e95201c6d597",
+        "git_blob_oid_of_actual_bytes": "d8f6fdbd97a0b1349c75b62c452186ad56e4e72c"
+      },
+      {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ALL105_NEW_PURPOSES_MOP000_MOP035_V1.json",
+        "bytes": 502785,
+        "sha256": "a2c862842e03664d1d1ac0124bfe14d845cba997a3dbe82e1cf5d3e8376847d0",
+        "git_blob_oid_of_actual_bytes": "4324004f606b5082058476398d91aef5713cb870"
+      },
+      {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ALL105_NEW_PURPOSES_MOP036_MOP070_V1.json",
+        "bytes": 627404,
+        "sha256": "21f1c2d8aa6a5f7675dfa7397efabf11f55a662f5714277b17ec0175db7fc433",
+        "git_blob_oid_of_actual_bytes": "e888ebdae3526ee25c8ec53362aba60d6a38b4b2"
+      },
+      {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ALL105_NEW_PURPOSES_MOP071_MOP104_V1.json",
+        "bytes": 812275,
+        "sha256": "8fb1afdb2ab45b5d3c7863a3325f527afcf5739df83e995319776ebd773509a6",
+        "git_blob_oid_of_actual_bytes": "53451cd06e1b4490b9f7cb6c19410d0cb2ef68ea"
+      },
+      {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_SOURCE6_COMPLETE12_QUESTIONS_GRADE_AND_CURRENT_QUALIFIERS_V1.json",
+        "bytes": 36573,
+        "sha256": "dbc867bdd3646c17fb96b2512f83d7eaa6177ec5afa4fa9b1e149df951e09b2e",
+        "git_blob_oid_of_actual_bytes": "2d3330c0a642824856612fc179cb56996018ac8b"
+      },
+      {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_CURRENT_COMPLETE_LITERAL60_SOURCE_QUESTION_PURPOSE_RIVAL_END_GAP_REGISTER_V1.json",
+        "bytes": 460773,
+        "sha256": "03fd5dd81081a4512ce14188be2013c3c663fc2fde6a9250c2cf736c7b7f7d63",
+        "git_blob_oid_of_actual_bytes": "06055fc769f1d9fa62ccd48852d00958a318226b"
+      },
+      {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ALL105_NEW_PURPOSE_EXACT_PART_BODY_RELATION_INDEX_V1.json",
+        "bytes": 345858,
+        "sha256": "dc7e57617a13eec2489e8074124dab871535d3b04f03d775a8219febbf358fcd",
+        "git_blob_oid_of_actual_bytes": "6b912c3fc7a2394d65c275879fb9c614b95d212a"
+      },
+      {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_CURRENT_EXACT8_ORIGINAL_CUSTODY_AND_CURRENT_GRAPH_TRANSPORT_V1.json",
+        "bytes": 19626,
+        "sha256": "197de4e4a81e743759be0ac71e6aeeca51afa8ad23d1310eea753ecfa3d27d62",
+        "git_blob_oid_of_actual_bytes": "50f51c09fe9e39d76fc4dd279dbd50a10710f500"
+      }
+    ],
+    "Root_prior_complete198_receiving": {
+      "C_path": "private-witness:MOMOI_LOCATION_83da3d7a3a2e55532a65a983c13a9c5c2efbe47e98b4bbe7a9365f2356a12c72",
+      "bytes": 1202071,
+      "sha256": "989855e8f163e787facc786d9059747fbbd31e0c2f29fe936ca5ed682a6f1b51",
+      "git_blob_oid_of_actual_bytes": "026f86aa5c6eb5340057cb2b7ebe1a063aa883d8"
+    },
+    "prior525_receiving": "Root95c14a complete525/60/uniquecontrols with own5WHOLE1189+Finalselected actualdisclosed scope",
+    "actual_whole_current8_manifest": "7cf7d6",
+    "actual_whole_current40_and14peerreasons": [
+      "927e25",
+      "f90f83"
+    ],
+    "actual_whole_authorclosure": "9f4438",
+    "actual_whole_peercontract_and_template": "6a3f39",
+    "actual_whole_finite_peerfinal": "151875",
+    "exact8and517literal": true,
+    "all105nonfiveobjects_literal": true,
+    "body60andSource1raw_NOOP": true,
+    "whole8raw_forward_inverse": [
+      {
+        "component": 0,
+        "mode": "RAW_NOOP",
+        "entire_raw_forward_inverse": true
+      },
+      {
+        "component": 1,
+        "mode": "CHANGED",
+        "entire_raw_forward_inverse": true
+      },
+      {
+        "component": 2,
+        "mode": "CHANGED",
+        "entire_raw_forward_inverse": true
+      },
+      {
+        "component": 3,
+        "mode": "CHANGED",
+        "entire_raw_forward_inverse": true
+      },
+      {
+        "component": 4,
+        "mode": "RAW_NOOP",
+        "entire_raw_forward_inverse": true
+      },
+      {
+        "component": 5,
+        "mode": "CHANGED",
+        "entire_raw_forward_inverse": true
+      },
+      {
+        "component": 6,
+        "mode": "CHANGED",
+        "entire_raw_forward_inverse": true
+      },
+      {
+        "component": 7,
+        "mode": "CHANGED",
+        "entire_raw_forward_inverse": true
+      }
+    ],
+    "whole14originalraw": [
+      {
+        "role": "frozen_11",
+        "bytes": 58865,
+        "sha256": "2e923d2763c8073d0d61d54acb78ce99d5bbe4edef0eb84efca38cd0783bab5d"
+      },
+      {
+        "role": "frozen_12",
+        "bytes": 53604,
+        "sha256": "9ffdf06d3991c7677bf1377a4e599dbd61136029c80220cb2b9540bca56d0735"
+      },
+      {
+        "role": "frozen_13",
+        "bytes": 55023,
+        "sha256": "7421defc4b0f32b5a3f603763d76cd744ba09a9bf40cd7a4e629d2efc2467bba"
+      },
+      {
+        "role": "frozen_14",
+        "bytes": 70082,
+        "sha256": "26b6f1b31df148c44134c599510f60cec5e58203bb9f60b2f964e56916cf8e5f"
+      },
+      {
+        "role": "frozen_15",
+        "bytes": 85986,
+        "sha256": "83870b947a0f25a459b4b0d8fec33a552bc0fe74b92e0ba62572fbe44e1e3d36"
+      },
+      {
+        "role": "frozen_16",
+        "bytes": 96346,
+        "sha256": "ade26f1d99ddfe1835a7a39a718816dd283c385945e0100893058c9835be945a"
+      },
+      {
+        "role": "frozen_17",
+        "bytes": 110226,
+        "sha256": "342d9319537817e2ebca80032572b88e24c889655d1d1b921df242164fd490c5"
+      },
+      {
+        "role": "frozen_18",
+        "bytes": 131988,
+        "sha256": "776d61eb17eb70111047e21a6cc38ebd0b58fdf3c93510de16786ca12a95e640"
+      },
+      {
+        "role": "frozen_19",
+        "bytes": 140190,
+        "sha256": "322e14ed4c07435f2ec419786f9551c47e55d99fceafff1a5ae81504e1311947"
+      },
+      {
+        "role": "frozen_20",
+        "bytes": 152450,
+        "sha256": "3408232ce6a8f0624ab792e92c01ca818aab2f5d4f682cc92ecc6e4596686309"
+      },
+      {
+        "role": "frozen_21",
+        "bytes": 83739,
+        "sha256": "81364d28d5da8a26c88fb390645099415f5b6db8723f9475a3ff6df5d783d387"
+      },
+      {
+        "role": "frozen_22",
+        "bytes": 405832,
+        "sha256": "c5554f1ad3d152529beeeab079fcb5a6a9e7ba26a6ef0f8fd2545af4c5c68bc3"
+      },
+      {
+        "role": "frozen_23",
+        "bytes": 549668,
+        "sha256": "2d3d97e0e0a8f5b6d5216bb2c6724c37eb73080df7567d58e74bb8e5da18dec1"
+      },
+      {
+        "role": "frozen_24",
+        "bytes": 707877,
+        "sha256": "370075d93bee086430bd29702eca9725fc3a9d09962f19fb2c2c7f01d2ccf9ba"
+      }
+    ],
+    "original315markers": {
+      "$whole_current_original_common105_row": 105,
+      "$whole_current_original_ROOT_record": 105,
+      "$whole_current_original_admitted_binding": 105
+    },
+    "20copywholepins_verified": true,
+    "actual128typedobjects": [
+      {
+        "pointer": "/component1/body",
+        "target_component": 0
+      },
+      {
+        "pointer": "/component2/body",
+        "target_component": 0
+      },
+      {
+        "pointer": "/component3/body",
+        "target_component": 0
+      },
+      {
+        "pointer": "/component4/body",
+        "target_component": 0
+      },
+      {
+        "pointer": "/component5/body",
+        "target_component": 0
+      },
+      {
+        "pointer": "/component5/source1",
+        "target_component": 4
+      },
+      {
+        "pointer": "/component5/full_body_reconstruction/exact_body_tuple",
+        "target_component": 0
+      },
+      {
+        "pointer": "/component5/purpose_component_bindings/0",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component5/purpose_component_bindings/1",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component5/purpose_component_bindings/2",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/body",
+        "target_component": 0
+      },
+      {
+        "pointer": "/component6/parts/0",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/parts/1",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/parts/2",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/source1",
+        "target_component": 4
+      },
+      {
+        "pointer": "/component6/register",
+        "target_component": 5
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/0/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/1/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/2/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/3/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/4/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/5/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/6/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/7/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/8/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/9/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/10/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/11/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/12/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/13/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/14/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/15/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/16/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/17/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/18/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/19/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/20/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/21/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/22/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/23/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/24/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/25/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/26/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/27/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/28/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/29/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/30/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/31/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/32/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/33/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/34/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/35/current_part_reference",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/36/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/37/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/38/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/39/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/40/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/41/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/42/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/43/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/44/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/45/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/46/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/47/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/48/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/49/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/50/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/51/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/52/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/53/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/54/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/55/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/56/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/57/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/58/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/59/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/60/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/61/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/62/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/63/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/64/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/65/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/66/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/67/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/68/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/69/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/70/current_part_reference",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/71/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/72/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/73/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/74/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/75/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/76/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/77/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/78/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/79/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/80/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/81/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/82/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/83/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/84/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/85/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/86/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/87/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/88/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/89/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/90/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/91/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/92/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/93/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/94/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/95/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/96/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/97/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/98/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/99/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/100/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/101/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/102/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/103/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component6/all105_complete_current_records/104/current_part_reference",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component7/exact_current_first7/0",
+        "target_component": 0
+      },
+      {
+        "pointer": "/component7/exact_current_first7/1",
+        "target_component": 1
+      },
+      {
+        "pointer": "/component7/exact_current_first7/2",
+        "target_component": 2
+      },
+      {
+        "pointer": "/component7/exact_current_first7/3",
+        "target_component": 3
+      },
+      {
+        "pointer": "/component7/exact_current_first7/4",
+        "target_component": 4
+      },
+      {
+        "pointer": "/component7/exact_current_first7/5",
+        "target_component": 5
+      },
+      {
+        "pointer": "/component7/exact_current_first7/6",
+        "target_component": 6
+      }
+    ],
+    "actual105selectors": 105,
+    "actual937reciprocaljoins": 937,
+    "peer_current_manual": {
+      "C_path": "private-witness:MOMOI_LOCATION_ea4f3dc40c4f1e53befce09f1716adcd4189c03f319716c4f030e8e2f16d8845",
+      "bytes": 34577,
+      "sha256": "97ca74c575717e0e626a23fdcdd82a7980fb642daf5fff43e76645c5bd9caab1",
+      "git_blob_oid_of_actual_bytes": "b97502c9814f7912e0a4eac02cfb9c2e58957ece"
+    },
+    "full34577_currentpeer_raw_recovered": true,
+    "own12_substantive_warrants": [
+      {
+        "topic": "Creative work",
+        "whole_own_reason": "The connected body preserves environmental storytelling, conventional-hero preferences and useful feedback alongside an unresolved method and renewed contradiction. Other writers’ completion does not supply Momoi’s finished script."
+      },
+      {
+        "topic": "Play and company",
+        "whole_own_reason": "The shown ending, local games and late companionship are achieved goods before a produced game or crisis result. Her wish to continue can coexist with another participant’s fatigue."
+      },
+      {
+        "topic": "Gifts and memory",
+        "whole_own_reason": "The console-giving direction is FROM Momoi TO Midori, with probably-first identification and Momoi’s remembered report still qualified. Material affection does not prove uninterrupted storage or the other sister’s entire inner history."
+      },
+      {
+        "topic": "Food and care",
+        "whole_own_reason": "Bought selection, presentation, actually consumed food and drink retain positive value without homemade authorship. Pressure, exhausted clearing and absent storage remain consequential contrary evidence."
+      },
+      {
+        "topic": "Rest methods",
+        "whole_own_reason": "Sincere wanted care and scientific/legal reassurance do not validate adverse machines. Actual stopping, soreness and deferred discussion distinguish local acts from clinical recovery or completed redesign."
+      },
+      {
+        "topic": "Agency and boundaries",
+        "whole_own_reason": "Yuzu’s refused attendance, limited watching and later volunteered match remain different choices. Momoi’s own lottery refusal, secrecy wish and bodily protest retain force without turning later enjoyment into permission."
+      },
+      {
+        "topic": "Arcade actors",
+        "whole_own_reason": "Midori’s missing-chip observation, Alice’s bug hypothesis and Yuzu’s perfect play/apology request keep separate actors and evidential modes. A local apology does not establish a permanent moderation rule or forensic diagnosis."
+      },
+      {
+        "topic": "Collective intervention",
+        "whole_own_reason": "The club’s refusal, Alice’s invitation and wanted help, Toki’s thanks and later choice to fight remain distinct. Momoi participates without absorbing all contribution or validating withheld commission risks."
+      },
+      {
+        "topic": "Crown attribution",
+        "whole_own_reason": "The eight exact corrections distinguish her particular win, reassurance, friendship, cleaning and play from collective recovery and Yuzu’s continued hold. MOP102 was the direct custody error; the other seven precisions do not prove eight separate ownership acts or erase her help."
+      },
+      {
+        "topic": "Institutions and ends",
+        "whole_own_reason": "A secured crown, interception and reported suspects/evidence are positive finite results. They do not provide Akira’s capture, conviction, completed Valkyrie handover, money, installed equipment or a finished game."
+      },
+      {
+        "topic": "Source scope",
+        "whole_own_reason": "My original target course is fiveWHOLE1189 maintained plus Final selected150 at body adoption, with later selected162 separately available. Author3WHOLE715+3SELECTED503=1218, peer6WHOLE1641 and original26WHOLE79SELECTED remain separate."
+      },
+      {
+        "topic": "Finite current adoption",
+        "whole_own_reason": "All original525 and unique controls were personally read; all198 complete distinct reasons were personally received, with full745745 raw independently recovered. Current40 values and14 finite reasons were personally received and full34577 raw recovered. Current private8 is adopted WITH_LIMITS only; all14OPEN/models0 and no source/count/publication credit."
+      }
+    ],
+    "history": "V3 WITH_FINDINGS and all originals/earlier pending author stages retained. CurrentV4 distinctfinitePASS and currentRootadoption govern only actual current8.",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "published_count": 152,
+    "required": 355,
+    "named": 19,
+    "named_required": 29,
+    "public12_composition_and_distinctpublicbyteQA": "PENDING",
+    "new_count_source_admission_identity_named_extraREL_install_publication_runtime_merge_credit": 0,
+    "R_Git_provider_shared_mutations": 0,
+    "protected39_private9_access": 0,
+    "check_count": 6687,
+    "failures": 0
+  }
+}

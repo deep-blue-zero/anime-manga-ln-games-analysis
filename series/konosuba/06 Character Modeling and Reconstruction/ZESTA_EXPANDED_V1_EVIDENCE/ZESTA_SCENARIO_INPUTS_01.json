@@ -1,0 +1,76 @@
+{
+  "schema": "KONOSUBA_ZESTA_INTERNAL_SCENARIO_INPUTS_V1",
+  "recorded_utc": "2026-10-20T10:08:25.726193+00:00",
+  "model_sha256": "f7c966bf93a3c788a697f9b2da55f01b6b221d52ca9a95d63df45401632de0a0",
+  "same_informed_root_author": true,
+  "source_known_hypothetical_only": true,
+  "cases": [
+    {
+      "id": "ZESTA-H01A",
+      "paired_with": "ZESTA-H01B",
+      "target_rules": [
+        "ZESTA-R01",
+        "ZESTA-R04"
+      ],
+      "packet": {
+        "frame": "Wholly hypothetical adult-only Axel church exchange, not canon.",
+        "actors": "Zesta and adult courier Rota.",
+        "known_to_Zesta": "Rota has met Aqua previously and Zesta knows this. Zesta is deciding whether to spend a free hour playing a card game next door; he has no other current duty. Rota reports that Aqua is at the east gate asking for help with a stuck handcart wheel. No injury or immediate physical threat is reported. The gate is a five-minute walk away. Zesta has no view of the gate and no magic giving remote knowledge.",
+        "evidence_variant": "Rota says: I personally recognized Aqua at the east gate five minutes ago and heard her ask for help with the wheel.",
+        "generation_request": "Give one brief Zesta reply and one sentence describing only his immediate chosen action, at most160Englishwords. He may investigate, act on the report, dismiss it or ask; do not force an ethical or epistemically optimal reply or a planned contrast. Do not make the report independently verified, invent injury, a spell, payment, a companion, a courier reply, actual arrival or completed repair. Preserve what he can know."
+      }
+    },
+    {
+      "id": "ZESTA-H01B",
+      "paired_with": "ZESTA-H01A",
+      "target_rules": [
+        "ZESTA-R01",
+        "ZESTA-R04"
+      ],
+      "packet": {
+        "frame": "Wholly hypothetical adult-only Axel church exchange, not canon.",
+        "actors": "Zesta and adult courier Rota.",
+        "known_to_Zesta": "Rota has met Aqua previously and Zesta knows this. Zesta is deciding whether to spend a free hour playing a card game next door; he has no other current duty. Rota reports that Aqua is at the east gate asking for help with a stuck handcart wheel. No injury or immediate physical threat is reported. The gate is a five-minute walk away. Zesta has no view of the gate and no magic giving remote knowledge.",
+        "evidence_variant": "Rota says: I have not been to the gate today. An unidentified passerby told me someone called Aqua was there asking for help with the wheel.",
+        "generation_request": "Give one brief Zesta reply and one sentence describing only his immediate chosen action, at most160Englishwords. He may investigate, act on the report, dismiss it or ask; do not force an ethical or epistemically optimal reply or a planned contrast. Do not make the report independently verified, invent injury, a spell, payment, a companion, a courier reply, actual arrival or completed repair. Preserve what he can know."
+      }
+    },
+    {
+      "id": "ZESTA-H02A",
+      "paired_with": "ZESTA-H02B",
+      "target_rules": [
+        "ZESTA-R02",
+        "ZESTA-R03"
+      ],
+      "packet": {
+        "frame": "Wholly hypothetical adult-only fantasy healing encounter at an Axel church. This is not real medical guidance or a canon event.",
+        "actors": "Zesta and adult traveler Oren.",
+        "known_to_Zesta": "Oren has an injured forearm and is seated within reach, with no attacker, suppression, competing patient or immediate hazard. Zesta has his ordinary energy, knows the directly applicable Heal spell and can perform it now. This packet explicitly supplies that one cast would close this particular wound. Oren asks for and accepts that healing. There is no payment, institutional condition or previous relationship.",
+        "recipient_statement_variant": "Oren says: Please heal this. Afterward, I would like to hear about joining your church.",
+        "generation_request": "Give one brief Zesta reply and one sentence describing only his immediate chosen action, at most160Englishwords. He may help, press, refuse or make a mistake; do not force an ideal response. If he actually casts Heal the stated local effect may be described, but do not add future service, membership, a new fee, another actor reply, moral eligibility for magic, a different spell or an invented restriction. Distinguish permission for healing from permission for recruitment."
+      }
+    },
+    {
+      "id": "ZESTA-H02B",
+      "paired_with": "ZESTA-H02A",
+      "target_rules": [
+        "ZESTA-R02",
+        "ZESTA-R03"
+      ],
+      "packet": {
+        "frame": "Wholly hypothetical adult-only fantasy healing encounter at an Axel church. This is not real medical guidance or a canon event.",
+        "actors": "Zesta and adult traveler Oren.",
+        "known_to_Zesta": "Oren has an injured forearm and is seated within reach, with no attacker, suppression, competing patient or immediate hazard. Zesta has his ordinary energy, knows the directly applicable Heal spell and can perform it now. This packet explicitly supplies that one cast would close this particular wound. Oren asks for and accepts that healing. There is no payment, institutional condition or previous relationship.",
+        "recipient_statement_variant": "Oren says: Please heal this. I do not want to hear about joining your church.",
+        "generation_request": "Give one brief Zesta reply and one sentence describing only his immediate chosen action, at most160Englishwords. He may help, press, refuse or make a mistake; do not force an ideal response. If he actually casts Heal the stated local effect may be described, but do not add future service, membership, a new fee, another actor reply, moral eligibility for magic, a different spell or an invented restriction. Distinguish permission for healing from permission for recruitment."
+      }
+    }
+  ],
+  "pair_controls_and_limits": [
+    "H01evidence_variant is the only differing field: direct familiar witness versus unidentified hearsay. Cheap opportunity to check means both variants could prompt a trip without evidential discrimination; identical action need not falsify particular devotion. Inspect claim strength and actual knowledge, not just departure. Explicit Aqua cue and same-author design prime the mechanism; generic religious devotion remains a rival.",
+    "H02recipient_statement_variant is the only differing field: invitation versus refusal of recruitment talk. Usable healing and its local efficacy are identical and explicit. No predetermined refusal, ethical floor or compulsory grudge effect. Inspect help and recruitment uptake separately; injury care is not settled by the ordinary farewell denial. Near-canonical priest/recruitment resemblance and generic pushy-cleric rival remain.",
+    "Same informed author knows source, rules, both variants and assessment contract. No separate runtime/judge, blinded variant, independent accuracy, exact causal identification, numerical grade or confidence gain."
+  ],
+  "assessment_contract": "Retain exact first bodies, including packet errors, overcoherence, failed contrasts and ordinary role/incentive rivals. No output regeneration or model repair after bodies. Report only disclosed internal exercise.",
+  "full_program_complete": false
+}

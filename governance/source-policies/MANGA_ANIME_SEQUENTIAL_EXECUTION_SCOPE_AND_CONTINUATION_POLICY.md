@@ -2,11 +2,12 @@
 title: Manga / Anime Sequential Execution Scope and Continuation Policy
 artifact_id: MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY
 artifact_type: sequential_execution_scope_policy
-version: 1.0
+version: 1.4
 status: canonical
 generation: V1
 scope: corpus-wide sequential analytical execution authorization, continuation, checkpointing, recovery, and stop semantics
 created: 2026-08-27
+last_updated: 2026-11-15
 maintainer: ChatGPT + user
 source_boundary: "Operational governance for sequential volume, episode, chapter, event, route, commu, movement, and comparable analytical units across the Manga / Anime corpus"
 supersedes: null
@@ -103,7 +104,7 @@ A source-unit transaction is not considered complete merely because its standalo
 
 1. source resolution and source lock;
 2. prospective entering boundary;
-3. full deep-reading artifact or equivalent canonical unit artifact;
+3. full deep-reading artifact or equivalent canonical unit artifact, with the independent analytical participation, critical review and reconciliation that the [topology policy](MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading) Section 4.1 requires of a substantive reading;
 4. required cumulative ledger/state updates;
 5. claim-revision or prediction adjudication where applicable;
 6. source locator/evidence/index updates where applicable;
@@ -111,6 +112,8 @@ A source-unit transaction is not considered complete merely because its standalo
 8. current-state/corpus-map advancement;
 9. update manifest, checkpoint, or equivalent transaction record where the project uses one;
 10. a clearly frozen endpoint and next-operation route.
+
+Item 3's participation requirement is binding under topology Section 4.1; a project architecture cannot set it aside.
 
 Only after the atomic unit is committed may `continuous_sequential` authorize movement to the next unit.
 
@@ -233,6 +236,8 @@ For example, processing `EVENT_0053-EVENT_0211` in one continuous run does **not
 
 Each source unit receives its own frozen entering and exiting boundary.
 
+The same discipline binds every participant in a multi-agent reading: specialists and reviewers see only the unit's authorized frontier, and topology Section 4.1.4 governs their exposure and prospective accounts.
+
 ## 4.5 Continuous authorization does not require one uninterrupted inference
 
 `continuous_sequential` is a **workflow authorization**, not a claim that one model inference, frontend message, agent process, or context window is guaranteed to remain alive through the entire terminal boundary.
@@ -333,6 +338,12 @@ This reduces context pressure, retrieval noise, prospective contamination, and a
 If live context and current canonical artifacts disagree, re-resolve authority from the corpus before proceeding.
 
 A remembered prior state is never sufficient reason to overwrite a newer mutable ledger or move a high-water mark backward.
+
+## 6.4 Cross-session execution and retrospective synthesis
+
+Local Work/Codex is the preferred owner of substantial sequential source work and its synchronized longitudinal state under the [long-series hybrid execution protocol](MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md). This does not require one uninterrupted session. A fresh session resumes from verified durable state under the same authorized source boundary and terminal limit.
+
+A closed source tranche may be handed to fresh cloud Pro for named retrospective monographs or syntheses. Use the [analytical handoff contract](MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md). Such a dispatch does not broaden sequential authorization, admit later knowledge into frozen readings, or transfer ownership of mutable ledgers without explicit coordination. Returned retrospective corrections are reconciled into appropriate current homes; historical prospective readings are not silently rewritten.
 
 ---
 
@@ -552,7 +563,9 @@ sequential_execution:
   run_state: active | completed | blocked | interrupted_pending_recovery
 ```
 
-This block is **operational state**, not literary evidence and not a substitute for the project's source inventory or prospective ledger.
+This block is **operational state**, not literary evidence and not a substitute for the project's source inventory or prospective ledger. Recover the owner instruction, permitted source units, and terminal limit from the existing run/checkpoint or handoff record before continuation. Changing this block to `active` is not evidence that permission was granted. The initiation policy Section 3.9.4 checks state consistency at admission; it does not authenticate the owner instruction or infer source-range membership from filenames.
+
+Use these key spellings exactly; variants such as `next_sequential_operation` or `next_operation` are not read by the repository validator. A `completed` run names no next candidate operation (`NONE` or an uppercase `NONE_` token). At a run's end the project either closes its lock with a run stop or keeps it OPEN with `run_state: completed`; the initiation policy's Section 3.8 defines both, and an OPEN lock never authorizes the next run by itself.
 
 When no continuous run is active, projects need not preserve stale `run_state: active` metadata merely because an earlier chat once requested a range. Completed or abandoned run metadata may be collapsed into manifests/audits according to the project's architecture.
 
@@ -573,3 +586,25 @@ The final default is deliberately simple:
 > **After interruption, observed canonical high-water mark outranks remembered conversational state.**
 
 This preserves user control for ordinary deep readings while making large sequential corpora—such as long manga runs, multi-season anime passes, and hundreds of live-service events—operationally tractable without sacrificing source discipline, authority integrity, or recoverability.
+
+---
+
+# Changelog
+
+## v1.4 — 2026-11-15 — Multi-agent source reading
+
+- Section 2 counts the independent participation, critical review and reconciliation required by topology Section 4.1 among a substantive unit's completion responsibilities, which a project architecture cannot set aside, and Section 4.4 extends prospective discipline to every participant. Execution modes, authorization and recovery are unchanged; topology Section 4.1.7 treats an unavailable independent route as a required-capability stop under Section 9.
+
+## v1.3 — 2026-10-15 — Admission consistency
+
+- Links run-state consistency to initiation Section 3.9.4 while preserving recoverable owner authorization in existing run and handoff records. No new approval stage or authorization vocabulary.
+
+## v1.2 — 2026-10-15 — Run-end state
+
+- Fixed the key spellings of the recommended `sequential_execution` block and stated how a completed run records its end, with the run stop defined by the initiation policy.
+- Preserved single-operation/continuous authorization and recovery semantics.
+
+## v1.1 — 2026-09-13 — Cross-session execution and synthesis dispatch
+
+- Added routing for local sequential work and bounded retrospective synthesis handoffs.
+- Preserved single-operation/continuous authorization, atomic closeout, source boundaries, and interruption recovery.

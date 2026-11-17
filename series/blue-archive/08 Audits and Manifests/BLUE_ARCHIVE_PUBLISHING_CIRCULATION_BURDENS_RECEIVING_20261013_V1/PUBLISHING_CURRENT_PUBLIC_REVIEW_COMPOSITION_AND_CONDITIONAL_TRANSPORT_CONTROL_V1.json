@@ -1,0 +1,362 @@
+{
+  "schema": "PUBLISHING_CURRENT_PUBLIC_REVIEW_COMPOSITION_AND_CONDITIONAL_TRANSPORT_CONTROL_V1",
+  "composer": "/root/m008_composition_review",
+  "composer_role": "Publishing full component reviewer and this metadata/opacity composer; not Publishing body/new105 author. Prior independent component QA remains at its original literary/source extent; this is authored composition, not self-independent QA.",
+  "current_public_file_count": 14,
+  "current_first13_components": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_AND_BURDENS_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 39617,
+      "sha256": "3c034418c18746e86f85382c201e8e87cb119f6477f73630cd75497aa4813e5c",
+      "git_blob_oid_of_actual_bytes": "18282268b3973fde29dc34f1995cf4a394c57588",
+      "component_role": "AUTHOR_BODY"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json",
+      "bytes": 271437,
+      "sha256": "7a87ce783ec58f393f76e22d4135a7485ee3d2a8787520f9cd2680604436f898",
+      "git_blob_oid_of_actual_bytes": "eee74b32b35958f094970df46b07777fa744e606",
+      "component_role": "PURPOSE_000_035"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json",
+      "bytes": 411418,
+      "sha256": "53619888c2aff2379f6ceb736b3a623f36e99f14383c06b9ac4035c08fab342f",
+      "git_blob_oid_of_actual_bytes": "e80ab83df285885240cac13306b06299c3ab80fc",
+      "component_role": "PURPOSE_036_070"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json",
+      "bytes": 576065,
+      "sha256": "d7acb895b80489546895ee610f15c331a5dbb493c693b06afef00d0182426fcf",
+      "git_blob_oid_of_actual_bytes": "7fde86e2cebf26fe77dd2d21e6a508d7f9fa361d",
+      "component_role": "PURPOSE_071_104"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+      "bytes": 124236,
+      "sha256": "269219831ab3222dfe5e640b5c25cad8851671ac75cf0e384597dd905b05123a",
+      "git_blob_oid_of_actual_bytes": "b93a21a8640fe5faa6e4819b01a4e6c6435e03df",
+      "component_role": "PURPOSE_INDEX"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT4_INPUT_SOURCE_GRADE_AND_RECEIVING_V1.json",
+      "bytes": 18320,
+      "sha256": "9ca8566266c695a42c6e83955f1f0af70e07256f699d02b98da1261afe4e0f85",
+      "git_blob_oid_of_actual_bytes": "411979530537839089b4fd2af96d768fdc2b68f4",
+      "component_role": "SOURCE4"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT_LITERAL41_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 493160,
+      "sha256": "3a3a9b03c28f3cbb2d93738679b38e9acd3c6b443d9d0a7b7df074627bd615ef",
+      "git_blob_oid_of_actual_bytes": "37ba2859e4c14e99c985134f5d1c67d0e673db00",
+      "component_role": "LITERAL_REGISTER"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_SAVED_BODY_AND_EXACT8_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 7149,
+      "sha256": "9c3c3aa454f58a75f6cd7b3d0bcfa8280df8c3f5159abf1c2ea7c7153b6dfac7",
+      "git_blob_oid_of_actual_bytes": "f1bfe1d22588c4f1913c4722415cbdeb10e03e17",
+      "component_role": "TRANSPORT"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/INDEPENDENT_PUBLISHING_CURRENT232_COMPLETE41_BODY_FIRST_LITERARY_AND_THREE_PRECISE_ACTOR_ACTION_LOCATION_FINDINGS_V1.json",
+      "bytes": 184491,
+      "sha256": "7b9e0c8f5a51148a95a5644626323e08ea46b09b64f8a8c06e9028aae60d1608",
+      "git_blob_oid_of_actual_bytes": "6ba6c7a49aa2b2ad8238cf1c35d9090d70880f24",
+      "component_role": "OLD232_HOLD_BODY_ONLY"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/INDEPENDENT_PUBLISHING_CURRENT_V3_EXACT3_LITERAL_ACTOR_ACTION_REPAIR_AND_FULL_BODY_RAW_RECOVERY_POSITIVE_QA_V1.json",
+      "bytes": 13833,
+      "sha256": "475cc0acd1920face5982fecb461b302a7c085d140b546fd9c26d4b17f9dc03e",
+      "git_blob_oid_of_actual_bytes": "10ecb81ac14a9ccf472295512374009a3d5ad481",
+      "component_role": "CURRENT232_EXACT3_BODY_REPAIR"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/INDEPENDENT_PUBLISHING_CURRENT41_ALL105_NEW_TARGET_MEANINGS_SOURCE4_EXACT8_COMPLETE_LITERARY_COMPONENT_MANUAL_QA_V1.json",
+      "bytes": 204578,
+      "sha256": "fdfe4eb2eeb401b7bb3a8ca066b6a6d52ccf3b2973eda24be27770b521b7217c",
+      "git_blob_oid_of_actual_bytes": "ca36d9c2bd66fc90b1ca7e553bcc34c9de75e234",
+      "component_role": "CURRENT41_NEW105_SOURCE4_EXACT8_FULL_COMPONENT"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_ACTUAL_ROOT_COMPLETE41_NEW105_SELECTED4_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "bytes": 42919,
+      "sha256": "c97d945a630461cce3c4a8c0deb83b360307ea250e37f8d310dbce2838f8a89d",
+      "git_blob_oid_of_actual_bytes": "956c1761db36420194ee20247e0783ca526e1816",
+      "component_role": "ACTUAL_ROOT_SIGNED_SEMANTIC_ADOPTION_VALUE_ONLY_DERIVATIVE"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT_PUBLIC_SOURCE_ORIGINAL_QA_AND_ROOT_PRIVATE_WITNESS_CUSTODY_V1.json",
+      "bytes": 14285,
+      "sha256": "823fb0d173f10ae80f91cefe3a705b7e8a7af90cbf167e61b3dfdbd3836c3faf",
+      "git_blob_oid_of_actual_bytes": "17bdf43c1324b4ed020d27f76c5d20ef64c91cec",
+      "component_role": "OPAQUE_ORIGINAL_CUSTODY"
+    }
+  ],
+  "actual_semantic_ROOT_adoption": {
+    "state": "ACTUAL_SIGNED_SEMANTIC_ADOPTION_WITH_LIMITS_COMPLETE_FOR_ORIGINAL_AUTHOR8_AND_METADATA_ONLY_PUBLIC14_COMPOSITION",
+    "original_signed_receipt": {
+      "opaque_private_witness_id": "PUBLISHING_ACTUAL_ROOT_SIGNED_ORIGINAL43197",
+      "bytes": 43197,
+      "sha256": "d6421614877fe38ed6ddf05d1d7bfcdffd7a9416f0e98fbd1c38d02ff3e37b85",
+      "git_blob_oid_of_actual_bytes": "079d6e21fc92b0a5f6d1c633b5880bb1b5d47882"
+    },
+    "current_value_only_public_derivative": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_ACTUAL_ROOT_COMPLETE41_NEW105_SELECTED4_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "bytes": 42919,
+      "sha256": "c97d945a630461cce3c4a8c0deb83b360307ea250e37f8d310dbce2838f8a89d",
+      "git_blob_oid_of_actual_bytes": "956c1761db36420194ee20247e0783ca526e1816"
+    },
+    "signature_extent": "Actual body232/literal41/new105fivefields/source4selected/currentdistinctQA and raw preservation accepted. The signature authorizes this composition; it does not sign these newly composed14 bytes."
+  },
+  "actual_metadata_body236": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_AND_BURDENS_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 39617,
+    "sha256": "3c034418c18746e86f85382c201e8e87cb119f6477f73630cd75497aa4813e5c",
+    "git_blob_oid_of_actual_bytes": "18282268b3973fde29dc34f1995cf4a394c57588",
+    "original232": {
+      "bytes": 39346,
+      "sha256": "d0d49c28cfc096d42ef22d2b2131015172d8a0d460e8beeb885b04ec7e005909",
+      "git_blob_oid_of_actual_bytes": "d9a55694b6173802fd2b4d1e4eb17f39e432a1fe"
+    },
+    "physical_lines": 236,
+    "metadata_only": "Retain institutional_synthesis/active_provisional; insert review_state/supersedes/superseded_by, flip existing authority boolean false, add canonical_home. No complete41 paragraph, eight rival, sixteen end or fourteen gap meaning changes.",
+    "offset_rule": "Every original post-frontmatter line moves+4; literal UTF8 offsets+271. All54 body tuple objects,79 singular line references,49 two-endpoint spans and full236 stored reconstruction are refreshed."
+  },
+  "current_reconstruction_rule": "Join exact236 register body_complete_reconstruction.lines with LF and append one final LF; equality actually executed. The complete original232 register and its old reconstruction remain exact private history.",
+  "dated_creation_history": {
+    "body_original232_lines": [
+      16,
+      18,
+      232
+    ],
+    "current236_lines": [
+      20,
+      22,
+      236
+    ],
+    "role": "All original author source/input70db and pending preparation statements remain literal. Original pending QA/ROOT/install scalars in body and authorJSONs are dated assembly history. Actual signed semantic adoption/current repair/current component QA govern current semantic use; public composition QA/byte adoption/install/runtime remain separate.",
+    "unsigned_template_snapshot": "The original unsigned plan60/76 receiving snapshot remains dated preparation history. Actual signed ROOT receipt has complete105/525/current41 receiving; no retrospective alteration."
+  },
+  "QA3_current_history_roles": [
+    {
+      "current_public_derivative": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/INDEPENDENT_PUBLISHING_CURRENT232_COMPLETE41_BODY_FIRST_LITERARY_AND_THREE_PRECISE_ACTOR_ACTION_LOCATION_FINDINGS_V1.json",
+        "bytes": 184491,
+        "sha256": "7b9e0c8f5a51148a95a5644626323e08ea46b09b64f8a8c06e9028aae60d1608",
+        "git_blob_oid_of_actual_bytes": "6ba6c7a49aa2b2ad8238cf1c35d9090d70880f24"
+      },
+      "original_private_witness_pin": {
+        "bytes": 185812,
+        "sha256": "44d6d46322fc1842253e4a72083bb0fb838c40624c171c1ca6fa8f67d6e73cdb",
+        "git_blob_oid_of_actual_bytes": "e0192a32e992c7b5c7d5b6d1d79bb65cc9f958e2"
+      },
+      "original_decision_literal": "HOLD_CURRENT232_COMPLETE41_BODY_ONLY_PENDING_TWO_SUPPORTED_FINDING_GROUPS_IN_THREE_LITERAL_LOCATIONS;NO_ALL105_COMPONENT_ROOT_ADOPTION_OR_PACKAGE_CREDIT",
+      "scope_role": "OLD232_HOLD_BODY_ONLY"
+    },
+    {
+      "current_public_derivative": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/INDEPENDENT_PUBLISHING_CURRENT_V3_EXACT3_LITERAL_ACTOR_ACTION_REPAIR_AND_FULL_BODY_RAW_RECOVERY_POSITIVE_QA_V1.json",
+        "bytes": 13833,
+        "sha256": "475cc0acd1920face5982fecb461b302a7c085d140b546fd9c26d4b17f9dc03e",
+        "git_blob_oid_of_actual_bytes": "10ecb81ac14a9ccf472295512374009a3d5ad481"
+      },
+      "original_private_witness_pin": {
+        "bytes": 14550,
+        "sha256": "3a14771226c3bac1c64da9299ae85f3289f6329bd92c9f61904f7f8885b0c9e2",
+        "git_blob_oid_of_actual_bytes": "879ccd96a46073b5daaf4380e013268286457535"
+      },
+      "original_decision_literal": "PASS_WITH_LIMITS_CURRENT232_COMPLETE41_BODY_ARGUMENT_BY_RETAINED_WHOLE_BODY_FIRST_REVIEW_AND_EXACT_CURRENT3_LITERAL_RECEIVING;ALL105_COMPONENT_ROOT_ADOPTION_INSTALLATION_PUBLICATION_SEPARATE",
+      "scope_role": "CURRENT232_EXACT3_BODY_REPAIR"
+    },
+    {
+      "current_public_derivative": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/INDEPENDENT_PUBLISHING_CURRENT41_ALL105_NEW_TARGET_MEANINGS_SOURCE4_EXACT8_COMPLETE_LITERARY_COMPONENT_MANUAL_QA_V1.json",
+        "bytes": 204578,
+        "sha256": "fdfe4eb2eeb401b7bb3a8ca066b6a6d52ccf3b2973eda24be27770b521b7217c",
+        "git_blob_oid_of_actual_bytes": "ca36d9c2bd66fc90b1ca7e553bcc34c9de75e234"
+      },
+      "original_private_witness_pin": {
+        "bytes": 205175,
+        "sha256": "d7913e6e35b29cbf033809ad08461a2a25b327db9c3029bb0e69bcd7164a6a6c",
+        "git_blob_oid_of_actual_bytes": "f822c2e3d48610c258d39fb3cf64419d314bed6d"
+      },
+      "original_decision_literal": "PASS_WITH_LIMITS_CURRENT_EXACT8_COMPLETE_NEW105_PURPOSE_AND_LITERAL41_COMPONENT_QA_NO_ROOT_ADOPTION",
+      "scope_role": "CURRENT41_NEW105_SOURCE4_EXACT8_FULL_COMPONENT"
+    }
+  ],
+  "old185812_HOLD_current_disposition": "Oldwhole232 body-only HOLD and its two finding groups/three loci remain literal historical reviewer findings. Current exact3 body repair14550 plus full current205175 componentQA resolve current use; old HOLD is not erased, relabelled or given new whole-source/105 credit.",
+  "current_actor_action_and_wage": "Yakumo timetable refusal is separate from adult perpetual-company/interview refusal. Supplied food is separate from bargaining under foodlessness; no withheld meal/clinical starvation claim. SourcePS01 wage conflict/stopped work is operative, with no certified nonpayment or settlement. Original unpaid-wage counter stays frozen at its retained pointer.",
+  "operative_source_PS01_qualification": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT4_INPUT_SOURCE_GRADE_AND_RECEIVING_V1.json",
+    "bytes": 18320,
+    "sha256": "9ca8566266c695a42c6e83955f1f0af70e07256f699d02b98da1261afe4e0f85",
+    "git_blob_oid_of_actual_bytes": "411979530537839089b4fd2af96d768fdc2b68f4",
+    "JSON_pointer": "/current_source_PS01_wage_conflict_and_unprinted_settlement_qualification_V1",
+    "operation": "Entire original operative qualifier unchanged; only body metadata pin refreshed."
+  },
+  "separate_current_source_dependencies": "Existing61767 six-source qualifiers and59334 old publishedGSC16 coffee scope stay separate, literal and bounded; no global source rewrite or extra participation join.",
+  "source_grade_roles": {
+    "author": "Four whole maintained analytical carriers plus consequential selected E850 at attributed written-report grade.",
+    "ROOT": "Actual signed ROOT selected4 scope and actual whole232 body/full41/new105/currentQA receiving; no transfer of authorwhole4 or primary/native/AV grades.",
+    "common105": "26whole79selected attributed originals; no fresh primary replay."
+  },
+  "actual_approved_opacity": {
+    "QA11_approval": {
+      "evidence_id": "ROOT_PUBLISHING_CURRENT_QA3_EXACT11_NAMED_VALUE_ONLY_SCALAR_APPROVAL_20261014_V1.json",
+      "bytes": 10428,
+      "sha256": "8f56ee35f23d4c2a45024a3aadd6c22ab3ec8b0ee316227b45416c09c598c8ce",
+      "git_blob_oid_of_actual_bytes": "6d0765daaed8262a0c487cf9050c1dce0e8787d6"
+    },
+    "ROOT3_approval": {
+      "evidence_id": "ROOT_PUBLISHING_ACTUAL_SIGNED_ROOT_QA_DELIVERY_EXACT3_VALUE_ONLY_APPROVAL_20261014_V1.json",
+      "bytes": 4074,
+      "sha256": "a5067d6b6b2999635e5681dc158bd642309e100510c7694631cb6281f2c059f2",
+      "git_blob_oid_of_actual_bytes": "ebd919675fa2b22ca76f152d7628dae5ffea1e0b"
+    },
+    "value_only_operations": 14,
+    "key_renames": 0,
+    "scope": "Exactly11 QA value loci and3 ROOT originalQA delivery loci; all original keys/order/decisions/grades/full payloads recoverable. No documentary locator creates a new public source dependency."
+  },
+  "actual_ROOT_prior8_raw_schema_guard": {
+    "opaque_private_witness_id": "ROOT_PUBLISHING_RAW_SCHEMA_CLOSURE1977_20261014_V1",
+    "bytes": 29857,
+    "sha256": "c7acf0efe8185156c0fd0ee3d5ec232b25de797b8edb43ba5aabd9493d710713",
+    "git_blob_oid_of_actual_bytes": "23452fa628e0c7237aa516ee8bb480ee4cc98b0e",
+    "predicate_count": 1977,
+    "findings": 0,
+    "scope": "Prior original8 raw/schema preservation only; no independent composition QA or fresh human source reading from guard."
+  },
+  "current_preparation_runtime_snapshot": {
+    "source_prefix": "a729",
+    "actual_required_named": [
+      145,
+      16
+    ],
+    "main_prefix": "67",
+    "main_required_named": [
+      133,
+      13
+    ],
+    "role": "ROOT reported operational preparation snapshot. No installation146 or runtime inheritance for this candidate."
+  },
+  "current_independent_composition_QA": "PENDING_DIFFERENT_AUTHOR_CURRENT_SAVED14_REVIEW",
+  "ROOT_current_composed14_byte_acceptance": "PENDING_PERSONAL_RECEIVING_AND_ACTUAL_SIGNATURE",
+  "final_freeze_guarded_install_index_preflight_provider_push_readback_new_head_CI": "PENDING_ROOT_ONLY",
+  "fixed_scope": {
+    "required": 355,
+    "named": 29,
+    "parents": 25,
+    "homes": 384,
+    "navigation": 788,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "next178": "UNREACHED",
+    "merge": "RESERVED"
+  },
+  "new_primary_source_admission_named_home_model_or_canonical_credit": 0,
+  "R_Git_provider_sharedmetadata_operations": 0,
+  "current_20261014_actual_composition_QA_and_ROOT_precursor14_shared7_byte_adoption_documentary_qualification_V2": {
+    "documentary_prepared_UTC": "2026-10-14T09:06:04.911258+00:00",
+    "composer": "/root/m008_composition_review",
+    "qualification_role": "Exactly one additive current documentary member. All original control keys, values, pending scalars and creation statements remain literal. The thirteen other public files are full-byte noops.",
+    "actual_distinct_public14_composition_QA": {
+      "opaque_private_witness_id": "INDEPENDENT_PUBLISHING_CURRENT236_EXACT14_METADATA_COMPOSITION_FULL_PRESERVATION_AND_TYPED_AUTHORITY_MANUAL_QA_RECEIPT_V1.json",
+      "bytes": 9527,
+      "sha256": "29617bc7c82cda006550ea2154553601696f3c7e09d16d0bb3d5096ad3a0a5e9",
+      "git_blob_oid_of_actual_bytes": "51fad63ffc01d7ccb25fa2f4cd73c4c0411f0db8",
+      "decision": "PASS_WITH_LIMITS_CURRENT236_EXACT14_METADATA_ONLY_COMPOSITION_FULL_RAW_PRESERVATION_AND_TYPED_SEMANTIC_AUTHORITY_FOR_ROOT_FINAL_RECEIVING",
+      "current_findings": [],
+      "actual_saved_mechanical_receipts": [
+        {
+          "opaque_private_witness_id": "INDEPENDENT_PUBLISHING_CURRENT236_PUBLIC14_ACTUAL_METADATA_GRAPH_ALL12_RAW_RECOVERIES_AND_DOCUMENTARY_SCOPE_MECHANICAL_QA_V1.json",
+          "bytes": 80553,
+          "sha256": "5a50475a2d8714bd34be819a223d2902a1646949fb08844af03c632e4b4baec1",
+          "git_blob_oid_of_actual_bytes": "2c7a4cabd06ffdd2ab2a4d0ae4704bd1f3fc640c",
+          "saved_predicate_count": 14573,
+          "findings": 0
+        },
+        {
+          "opaque_private_witness_id": "INDEPENDENT_PUBLISHING_CURRENT236_EXACT_APPROVED11QA3ROOT_AND_METADATA_AUTHORITY_SUPPLEMENTAL_MECHANICAL_QA_V2.json",
+          "bytes": 2016,
+          "sha256": "a4b40ac9f826cec871b4e9531cde0216553abcdd56ba8e025f347c4af21454b5",
+          "git_blob_oid_of_actual_bytes": "8b85f7e615bb99b59b5ab9f64d7dff0e911b38ab",
+          "saved_predicate_count": 33,
+          "findings": 0
+        }
+      ],
+      "scope": "Completed different-author current236 public14 metadata/opacity/current graph/full raw preservation review. Prior body/source/new105 literary judgments retain their original reviewer/grade; this does not claim new source/literary receiving."
+    },
+    "actual_distinct_shared7_documentary_QA": {
+      "opaque_private_witness_id": "INDEPENDENT_PUBLISHING146_CURRENT_A729_SHARED7_COMPLETE_DOCUMENTARY_MANUAL_QA_V1.json",
+      "bytes": 24412,
+      "sha256": "8a2ee57a778539a42a499f2eeea95eb7947bdeaac297ae1e24d5d73caaaf1c47",
+      "git_blob_oid_of_actual_bytes": "d9cbbc852ecdf29eaf859f8625797d0fe796a74c",
+      "actual_final_predicate_count": 666,
+      "findings": 0,
+      "scope": "ROOT-received completed distinct shared7 documentary/preservation QA. No shared7 bytes are changed or re-reviewed by this control composer."
+    },
+    "actual_ROOT_precursor14_shared7_byte_adoption": {
+      "opaque_private_witness_id": "ROOT_PUBLISHING_CURRENT14_SHARED7_ACTUAL_COMPOSED_BYTE_ADOPTION_20261014_V1.json",
+      "bytes": 26082,
+      "sha256": "37f0d4ce72e0e21a1c3f03ad6025562440274bc6e4d6bccd8e9448c55714e713",
+      "git_blob_oid_of_actual_bytes": "f32f1387caa42c9cd082ed538921b72db713d460",
+      "ROOT_decision": "ACCEPT_CURRENT14_PUBLIC_COMPOSITION_AND_EXACT7_DOCUMENTARY_METADATA_WITH_LIMITS_FOR_FINAL_QUALIFIED_CONTROL_AND_GUARDED_INSTALL_FREEZE",
+      "state": "ACTUAL_PRECURSOR14_AND_SHARED7_BYTE_ADOPTION_WITH_LIMITS_COMPLETE",
+      "accepted_precursor_public14_manifest": {
+        "bytes": 43470,
+        "sha256": "ba289eb126f600113943b68d64952d9d12649b59b631482f6cf786bcc46bc633",
+        "git_blob_oid_of_actual_bytes": "e08a7cd8417c350e1f34ab9f80ff836c69e94312"
+      },
+      "accepted_precursor_original_control": {
+        "opaque_private_witness_id": "PUBLISHING_ORIGINAL_PUBLIC_CONTROL17228_V1",
+        "bytes": 17228,
+        "sha256": "875a305e58cc03c954509fbfa242594de47736f6b061b71bacef58f5af8ae1f5",
+        "git_blob_oid_of_actual_bytes": "2ee49530cbc398812d11380f4dd1509260f65eda"
+      },
+      "accepted_shared7_manifest": {
+        "bytes": 11036,
+        "sha256": "70b0b0d25069227156bc75e2b6af7c651694d2095c0bf5e7fa179ef720ed0a15",
+        "git_blob_oid_of_actual_bytes": "c82d42c629f02cac844cc51326b529404b7066c4"
+      },
+      "accepted_scope": "Actual signed receipt accepts the saved original14 public composition and exact7 documentary metadata. It authorizes final qualified-control preparation and guarded freeze; it does not adopt or freeze these newly added control qualification bytes."
+    },
+    "current_effective_documentary_roles": {
+      "original_independent_composition_QA_pending_field": "DATED_CREATION_HISTORY_NOW_QUALIFIED_BY_ACTUAL9527_CURRENT14_QA",
+      "original_ROOT_composed14_byte_acceptance_pending_field": "DATED_CREATION_HISTORY_NOW_QUALIFIED_BY_ACTUAL26082_PRECURSOR14_SHARED7_BYTE_ADOPTION",
+      "original_author_and_old_QA_pending_states": "Retained exact at their dated body/source/component creation scopes. Actual signed semantic adoption, retained oldHOLD findings/current bodyrepair/full componentQA, current14 compositionQA and precursor byte adoption remain separate specific authorities; no retrospective regrade or historical erasure."
+    },
+    "new_control_bytes_covered_by_precursor_signature": false,
+    "remaining_separate_gates": {
+      "different_author_final_CONTROL_only_QA": "PENDING_CURRENT_SAVED_QUALIFIER_REVIEW",
+      "ROOT_final_CONTROL_receiving_and_exact21_freeze": "PENDING_ACTUAL_ROOT_FINAL_ACCEPTANCE",
+      "guarded_install_and_index_preflight": "PENDING_ROOT_ONLY",
+      "fresh_live_provider_publication_controls": "PENDING_ROOT_ONLY",
+      "normal_commit_push_and_complete_remote_readback": "PENDING_ROOT_ONLY",
+      "new_exact_head_SOURCE_HOUSEKEEPING_FINAL_CI": "PENDING_NEW_HEAD_NO_INHERITED_GREEN"
+    },
+    "unchanged_current13_body_source_purpose_QA_ROOT_custody_aliases": "Existing current_first13_components remains exact and resolves to thirteen unchanged actual bytes. No current control self-pin or new fifteenth public file.",
+    "source_and_meaning_limits": "Body236 complete41 arguments/new105525 fields, all original scopes/grades, sourcePS01 operative wage qualifier, retained three QA decisions, semantic ROOT value-only derivative and opaque custody remain unchanged. Primary/native/AV/source admissions and model/named/canonical completion credit remain zero.",
+    "actual_runtime_preparation_snapshot": {
+      "source_prefix": "a729",
+      "actual_required_named": [
+        145,
+        16
+      ],
+      "main_prefix": "67",
+      "main_required_named": [
+        133,
+        13
+      ],
+      "role": "ROOT reported published baseline only. No candidate146 installation/publication/runtime credit is granted by this qualifier."
+    },
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "merge_approval": "RESERVED",
+    "opaque_witness_scope": "Documentary private evidence IDs plus exact pins; not new unbound public source dependencies.",
+    "R_Git_provider_sharedmetadata_operations": 0
+  }
+}

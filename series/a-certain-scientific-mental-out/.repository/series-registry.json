@@ -1,0 +1,16 @@
+{
+  "series_id": "a-certain-scientific-mental-out",
+  "stable_slug": "a-certain-scientific-mental-out",
+  "canonical_title": "A Certain Scientific Mental Out",
+  "media": [
+    "MANGA"
+  ],
+  "repository_path": "series/a-certain-scientific-mental-out/",
+  "canonical_entrypoint": "series/a-certain-scientific-mental-out/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_UNREVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261107",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Distinct A Certain Scientific Mental Out manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison."
+}

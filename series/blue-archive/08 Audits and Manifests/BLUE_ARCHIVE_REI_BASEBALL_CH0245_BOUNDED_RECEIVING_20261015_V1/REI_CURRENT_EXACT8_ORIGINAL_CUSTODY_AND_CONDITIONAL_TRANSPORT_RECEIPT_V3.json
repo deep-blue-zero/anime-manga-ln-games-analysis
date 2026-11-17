@@ -1,0 +1,211 @@
+{
+  "schema": "REI_CURRENT_EXACT8_ORIGINAL_CUSTODY_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1",
+  "author": "/root/publishing_shared7_review",
+  "role": "BODY_AND_NEW105_AUTHOR_NOT_INDEPENDENT_SELF_QA",
+  "exact_current_first7": [
+    {
+      "C_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_CHARACTER_MONOGRAPH.md",
+      "bytes": 36632,
+      "sha256": "c81171441d97a67a18c9388101893249a4de8b76fc739e3f20860d9bb5361966",
+      "git_blob_oid_of_actual_bytes": "997eab62f2bf61cd2fddf801d586b219f1b85fa0"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_RECEIVING_20261015_V1/REI_ALL105_NEW_PURPOSES_RIP000_RIP035_V3.json",
+      "bytes": 431037,
+      "sha256": "5215edf6489eb738e6c6939e3f3ea2bd560d658a51e51235c84f30f9aab6c504",
+      "git_blob_oid_of_actual_bytes": "7c300bd62568e28433d745377cf9ea139c90f027"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_RECEIVING_20261015_V1/REI_ALL105_NEW_PURPOSES_RIP036_RIP070_V2.json",
+      "bytes": 557866,
+      "sha256": "e8c5006a65f62e5a8c63cb5a39234f1c88a59980574fe1c34ed79511837e46ba",
+      "git_blob_oid_of_actual_bytes": "349c19fc89b4eb5e876d0eb972dbc0250e0c9983"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_RECEIVING_20261015_V1/REI_ALL105_NEW_PURPOSES_RIP071_RIP104_V1.json",
+      "bytes": 747217,
+      "sha256": "c8eca8b197e9f012e34d99f541ea2c9715713669b775de3b962836e912ce2144",
+      "git_blob_oid_of_actual_bytes": "1163add66d063dbd9961f5f89cba4219b81b393f"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_RECEIVING_20261015_V1/REI_SOURCE12_COMPLETE12_QUESTIONS_CURRENT_QUALIFIERS_AND_ACTUAL_GRADE_RECEIVING_V1.json",
+      "bytes": 44479,
+      "sha256": "febcc3e1596aad3a8af72a9395decdfbde5b84be1167749c12f316b16c5799ee",
+      "git_blob_oid_of_actual_bytes": "20e86dbfdc244550c4fc260679b1ad365d49d9e0"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_RECEIVING_20261015_V1/REI_CURRENT173_COMPLETE_LITERAL65_SOURCE_QUESTION_PURPOSE_RIVAL_END_GAP_REGISTER_V3.json",
+      "bytes": 442673,
+      "sha256": "f00f2a14e1eb152ca454928870c3e8a23b7b11c47d5e5ba293e71c662dff13c0",
+      "git_blob_oid_of_actual_bytes": "1a1216838ffb91093172de96caed861df9c4cbf0"
+    },
+    {
+      "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_RECEIVING_20261015_V1/REI_ALL105_NEW_PURPOSE_EXACT_PART_AND_BODY_RELATION_INDEX_V3.json",
+      "bytes": 312153,
+      "sha256": "a133a4694002d754a207d171a29988eb3b5d562940104133513416bd1c908127",
+      "git_blob_oid_of_actual_bytes": "bcac951f89d44d9f0b6ee0cd32c482e99c88d407"
+    }
+  ],
+  "self_tuple_rule": "External author entry binds this eighth transport; no transport self hash.",
+  "original20_raw_input_custody_manifest": {
+    "C_path": "REI_PRIVATE_LOCATION_SHA256_32fbab49e1f2c79bf7fa190bcb4c3a060620e080d79a99e01752e96fc635ff6b",
+    "bytes": 18077,
+    "sha256": "e1623190975f016acc167fbfa4e1aa48acd83f753801130b38ef4e70f18b13ab",
+    "git_blob_oid_of_actual_bytes": "bab5be362536189bec0e1eab5c36edfda2c5c792"
+  },
+  "current14_original_whole_raw_recovery_proofs": [
+    {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_431d3d064993695a7c3d7d0234797706c145cd3424abf03d5741f8bddcd16729",
+      "bytes": 15230,
+      "sha256": "9a1bdd7ece0f8aba282a0ddb85120f86564058e383292764008f9da77b2cbdfb",
+      "git_blob_oid_of_actual_bytes": "d70733122f3e2a917ad3d7d8137c152429aa2787"
+    },
+    {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_2040039b0c39be9dd4662d26acf430d939cdb14a5af87f07b0ef5c627fb6f767",
+      "bytes": 15250,
+      "sha256": "15282538de47aa0f7bde06a34d8008f3563271c51be9f5a2ff286b71ddb7b531",
+      "git_blob_oid_of_actual_bytes": "fa20b09c9c682dd7cfee1bd1a99a2fc4c4cd23ae"
+    },
+    {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_176a6192ae2da1599ef7cb113ad48170d23e24bf2a19ddbab93de84db02483c3",
+      "bytes": 15250,
+      "sha256": "db079751102281f2ef576cf705ec171e4daf37a6c12350bd7a7962ad84546f61",
+      "git_blob_oid_of_actual_bytes": "77af4b12675dbc0eb6521fadd8921549e94f629c"
+    },
+    {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_45adf214094e42080d1bfc52e64c8db6c134110ecef135b0ae95ced39c6ed3f9",
+      "bytes": 15202,
+      "sha256": "577b3f4721ae4a27310a280e1e30f125cfdcef9fe7dadc2b7685386f7e58b8e2",
+      "git_blob_oid_of_actual_bytes": "30702bcb217df95e7c6e35acb2edbabdfec5f7d6"
+    },
+    {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_98daa659824ee628936b8fc8ee626d0a8f0111f4a72ba25d8e6e07dfebf8f084",
+      "bytes": 15138,
+      "sha256": "9a2fa64e71717a2468b10463f6509ed2d97dcdc454b5189a0a71ac08498c3945",
+      "git_blob_oid_of_actual_bytes": "9e6b859d28102a77379bcf9dd2634df5660db979"
+    },
+    {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_12300949f0c5f4c69b0d6635bc65afe11a14f4bc36353f66cae792a5f8e0d31d",
+      "bytes": 15150,
+      "sha256": "9403731034d62150f8c588876aa7f7378d632c2f26a98668620f2126fd74fd40",
+      "git_blob_oid_of_actual_bytes": "1442934a6f7497a5152973dc7a79c4751345640b"
+    },
+    {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_3c4c709179364831d10bb61467ff4732389e5b88768ff415f29f191ae6cca1f9",
+      "bytes": 15152,
+      "sha256": "027a01d117871cca8e22e6f1825d2bfd6e97453f7e9faf653c65838eaa2b213b",
+      "git_blob_oid_of_actual_bytes": "e88c138a1d15d977cdb1a11b5d44354dfc9f057b"
+    },
+    {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_bc2355788d22ec53eb96e0895373ba8de3dacba9ddfdcf2d344d3329094123a7",
+      "bytes": 15134,
+      "sha256": "6dd3ac7ddda1d4c9e51c90981881344f12672e79b8189d554e8377558b7ce6cc",
+      "git_blob_oid_of_actual_bytes": "689a3c6225552162068309280f2e2602650fa31d"
+    },
+    {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_5b3e3247d294073733caab3330b897f03aa01359c4dbb0bb5d36a44dbd113633",
+      "bytes": 15150,
+      "sha256": "ffdbdb8cc5d7179f3900e692a0fdffecdc813bf317ec13c5aa167f1134fe8b25",
+      "git_blob_oid_of_actual_bytes": "c1f15fd762e0a9be57709ebbea34a8a0407d7207"
+    },
+    {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_6d2c01104e0d17cc6cd222b748d9e971c1d7b886a2acb31f6adab83463e0a6e5",
+      "bytes": 15152,
+      "sha256": "59892b2c7fc522bd6ea385d219183dabaccf2c6a43e07dcd39badd0be29627cb",
+      "git_blob_oid_of_actual_bytes": "09577375e6747a3a7e4804966cb21d06d5396269"
+    },
+    {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_94af5a74bdc88e136d1619e7c17ad98ab2ec91708e40f0ae275ad866ce44e9b1",
+      "bytes": 8929,
+      "sha256": "650bc056342ed6c04d262ce3c97704539486cd9772350ef4a9a2dbe1348085d6",
+      "git_blob_oid_of_actual_bytes": "464606ad6ef0c63a68a57b835c3905e0abe49062"
+    },
+    {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_149939931d21fb293e77f6364e754296ef22d1054158c02d46bbe2a5fb314fa3",
+      "bytes": 234691,
+      "sha256": "5687518cb15b3f348f3e3487d49192c0e8f259f27b1f73cb02418e6e23fa1c28",
+      "git_blob_oid_of_actual_bytes": "5b4fff20c41225e7d006041388f3509d6ae826a1"
+    },
+    {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_0c6840c007a3bc199d3eb804b5a6bbf731e23296167f31bce271cb65ce80ab8f",
+      "bytes": 238117,
+      "sha256": "ec69d3dd9d48101500e69ce965afb1792bd4ffe97e8e500b6a1f69880eef56e0",
+      "git_blob_oid_of_actual_bytes": "b594e252b0c38abfabbc9c8042d129e5aed29b96"
+    },
+    {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_259f574fbd93a169e56b9191105d5c2ef3eb7f766aa482615fd95dfd9eaff8f3",
+      "bytes": 238716,
+      "sha256": "eb7f8258c0aef4651d000f392015455d370fc39727d020f531a7f9f825b8972b",
+      "git_blob_oid_of_actual_bytes": "5d4612200ed6aa3fa6609aa40a1bfc0af0ba9e5b"
+    }
+  ],
+  "immutable_current_body_source_QA_ROOT_inputs": {
+    "REI_REVIEWED_BODY_COMPLETE_SOURCE_QUESTION_MAP_V3.json": {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_d7b69a4dbf0341432e055e6ee7d41e391124465edeaa39123d3d387028e6f326",
+      "bytes": 165014,
+      "sha256": "931ff947daf028552b699fe85c273c53102496ebf15ad530b0eca07f2e00d3a5",
+      "git_blob_oid_of_actual_bytes": "7e5717f6270680390eab3eb4f5fa2df7976e97df"
+    },
+    "REI_SOURCE12_AUTHOR_ACTUAL_WHOLE_MAINTAINED_BOOK_V1.json": {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_d87e2510adb3d5a80e367aeef91345720f76b4896f9d7b47537d75ec4108d466",
+      "bytes": 19674,
+      "sha256": "a644fa59e8a8157c9bd8c71eb74ae72250f93633e3cf9fc1f31abce4e3cdecaa",
+      "git_blob_oid_of_actual_bytes": "844d36a13aa4be9585e4d1747ad9fd39ce65593b"
+    },
+    "REI_DISTINCT_BODY_ONLY_QA_ORIGINAL_FULL_MANUAL_V2.json": {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_e3873a6ad618968653c0ff2cd98999e3d90925a213a9c7b605b54357e73b4bc9",
+      "bytes": 206148,
+      "sha256": "171ea7e3e855af0643a048f1ea66f8c687ad999cccdfa7b86d648ad0aba5199c",
+      "git_blob_oid_of_actual_bytes": "39bf64c3fdbd26d16bbabcebc7172c04237ae769"
+    },
+    "ROOT_REI_BODY_ONLY_ACTUAL_GENUINE_NEW105_PERMISSION_V1.json": {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_a1dbfc903e58d06dbe49d946ff46b4b19bebeb070fafbc79142b6cdcc583dee7",
+      "bytes": 10071,
+      "sha256": "cb438e3fed5d504eb335adfe23292813f085cea5da684a11a14eb5b6c415fabd",
+      "git_blob_oid_of_actual_bytes": "4e886f90bc6a07962861b60889f15b872d1cda6d"
+    }
+  },
+  "actual_body_QA_reason_concurrence": {
+    "C_path": "REI_PRIVATE_LOCATION_SHA256_e0ac1e5b3b6ab12989ed4c522de59aea3bca0ba8dcc10f74d9a327b65ed36ded",
+    "bytes": 2358,
+    "sha256": "9edbcc5e3daad904ef1d4033dc050d95c1465acf1d13783b1820918bfb99a907",
+    "git_blob_oid_of_actual_bytes": "41aed27f40be45bd5981503f20477d4126688db4"
+  },
+  "body_geometry": "173 physical lines/65 full literal paragraphs, unchanged reviewed BODYV2 raw35417/4bf3dbf7; P026 teacher-option precision retained.",
+  "body_stage_metadata": "Original draft/bodypending/no105 prose is retained as creation-stage history. Actual10071 authorizes genuine new105 only; current exact8 component QA and ROOT package adoption remain separate.",
+  "original_payload_scope": "Full original11 wrappers and M0083 carriers include complete residuals/key order/raw inverse-forward. Minato3 outer tuples are references only; narrow61767 covers six own target qualifiers,59334 oldGSC16 coffee directions, not a replacement full105 corpus.",
+  "current_source_use_qualifiers": {
+    "O087": "Actual no-force one-week agreement and unpacking, not evidence that the week was fulfilled.",
+    "O094": "Teacher reading of Miyo wanted romance novels is refused; not Miyo authorship or refusal to write/share authored writing.",
+    "O096": "Reported foodlessness; food supplied before later bill/printing bargaining; contract follows rejected9:1, final agreed terms/ratio unprinted; no demonstrated deliberate withholding or clinical starvation mechanism.",
+    "actor_mode_chronology": "Original grades and local actors/modes retained; no inferred Rei attendance beyond actual own sources, shared calendar, universal audience, voice performance, registry join or global absence."
+  },
+  "no_stakes_exclusion": "All105 receive complete source-specific new question,positive,counter,finite endpoint and stronger trigger; quiet food, rest, making, kept objects and company are intrinsic, not discarded below crisis stakes.",
+  "author_saved_value_receiving": "PENDING_ACTUAL_ALL105_525_AND65_JOINS_UNIQUE_CONTROLS_READBACK; closure follows actual receiving.",
+  "fixed_home": {
+    "home_zero": 46,
+    "home_ordinal": 47,
+    "required_CSV_line": 48,
+    "family_key": "F071",
+    "required_id": "P3-CHAR-NOMASA-REI-CH0245",
+    "person": "BA_PERSON_CH0245",
+    "character": "CH0245",
+    "student_id": "10115",
+    "nominal_private_objects": "B4/MM4/W2",
+    "inside_named_duty": null,
+    "separate_REL307": "PENDING_NOT_COMPLETED_BY_THIS_CHARACTER_BODY"
+  },
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "inside_named_duty": null,
+  "separate_REL307": "PENDING",
+  "new_primary_native_raw_AV_normal105_admission_identity_count_model_runtime_merge_credit": 0,
+  "R_Git_provider_shared_protected39_private9_payload_access_or_writes": 0,
+  "current_public_metadata_preparation_qualification_20261015": {
+    "scope": "Original173 body_geometry string, author_saved_value_receiving pending statement and immutable original body/source/QA/ROOT tuples remain dated author-stage bases. Current exact_current_first7 binds actual composed afterimages; actual private8 semantic acceptance comes from the original ROOT15625, not this composer.",
+    "physical_lines": 181,
+    "literal_paragraphs": 65,
+    "preparation_date": "2026-10-15",
+    "current_byte_QA_ROOT_byte_adoption_install_count_publication_runtime": "NOT_GRANTED_AT_PREPARATION"
+  }
+}

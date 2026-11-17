@@ -2,15 +2,19 @@
 title: "Gakuen Idolmaster V2 — Tsukimura Temari Dialogue and Voice-Acting Close Reading"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "specialist dialogue-performance analysis"
-version: "2.0"
+version: "2.1"
 phase: "3 — Character-Core Readings / Audiovisual Baseline"
 character: "Tsukimura Temari / 月村手毬"
 created: "2026-08-15"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15 correction: REVISE of the Dear 035–037 address attribution in §0, §6.1 and §8 from the A1 text (the Producer initiates the given name); no audiovisual observation or metric changes."
 status: "canonical Phase-3 specialist AV reading"
 evidence_boundary: "four complete affection-story compilations, fourteen isolated Dear Idol episodes, seven complete song commus, exact Japanese dialogue sources, rendered expression/staging, and conservative scene-level audio proxies"
 ---
 
 # TSUKIMURA TEMARI — DIALOGUE AND VOICE-ACTING CLOSE READING
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** The same address misattribution corrected in the Temari core and AV baseline under GKM-SAA-006 also stood here. In A1 Temari asks for an honorific-free (`呼び捨て`) send-off and the Producer answers `月村` (`adv_dear_ttmr_035` L632–L650); the given name `手毬` is his own move after the victory (`adv_dear_ttmr_037` L417–L432). REVISE in §0, the §6.1 heading and text, and §8 (Producer). The metric phase key `first_name_sendoff` in the supporting data is a legacy label and is kept unchanged. Earlier wording is quoted in each dated note.
 
 ## 0. Specialist thesis
 
@@ -23,13 +27,15 @@ Early Temari treats vocal and bodily transitions as humiliating loss of control:
 - need is covered by insult, debt language, or renewed command;
 - softness is tolerated mainly when nobody can use it to fix her in the role of dependent child.
 
-Late Temari still moves rapidly among these modes, but the transitions no longer automatically threaten identity. She can request first-name intimacy, make a formal public address, become embarrassed, enjoy food, read the Producer’s tears, offer care, and name the next ambition inside one continuous sequence.
+Late Temari still moves rapidly among these modes, but the transitions no longer automatically threaten identity. She can request an honorific-free send-off, make a formal public address, become embarrassed, enjoy food, read the Producer’s tears, offer care, and name the next ambition inside one continuous sequence.
 
 The governing acting development is therefore:
 
 > **from involuntary state rupture to authored state-switching.**
 
 This does not mean every late performance is calm or healthy. It means Temari increasingly decides what a state change will communicate.
+
+*Correction (2026-11-15, GKM-SAA-006; same error outside named target), REVISE:* v2.0 read "She can request first-name intimacy". Her Dear 035 request is for honorific-free address; the given name comes from the Producer in Dear 037 (§6.1).
 
 ---
 
@@ -217,7 +223,7 @@ This is the point at which construction becomes pride:
 
 # 6. STEP4 / H.I.F.: chosen intimacy and public authorship
 
-## 6.1 Dear 035 — first-name sendoff
+## 6.1 Dear 035 — honorific-free sendoff
 
 Late Temari moves among comedic embarrassment, rivalry, softness, and determination without experiencing the shifts as catastrophic exposure.
 
@@ -227,9 +233,11 @@ Her request:
 
 is structurally new. Earlier intimacy often appears when control fails. Here Temari requests a precise relational form in advance of performance.
 
-The scene-level pause proxy decreases in the first-name/sendoff phase compared with the preceding comic integration. The request is vulnerable but decided.
+The scene-level pause proxy decreases in the sendoff phase (metric key `first_name_sendoff`) compared with the preceding comic integration. The request is vulnerable but decided.
 
 This is chosen dependence, not dependency erased.
+
+**Correction (2026-11-15, GKM-SAA-006; same error outside named target) — REVISE.** v2.0 titled this subsection "Dear 035 — first-name sendoff" and called the measured phase the "first-name/sendoff phase". Temari asks to be sent off, just this once, not as `月村さん` but `呼び捨て` (`adv_dear_ttmr_035` L632–L643). The Producer's single option is `月村` with a plain imperative (L647–L650). The given name follows only after the victory, on his initiative: he says he chose the wrong words at the send-off and, through a single option, says `手毬` (`adv_dear_ttmr_037` L417–L432), and Temari answers with a silent line and `はいっ` (L441–L450). `呼び捨て` could cover the given name, so her wish is ambiguous, but she did not name `手毬`. The acting observations above are unchanged; only the description of what she requested is corrected.
 
 ## 6.2 Dear 036 — titleholder address
 
@@ -313,7 +321,7 @@ The voice corpus confirms reciprocal co-authorship:
 
 - Temari asks how she appears;
 - accepts or rejects frames;
-- requests intimate naming;
+- requests honorific-free naming, to which the Producer later adds the given name on his own initiative (corrected 2026-11-15, GKM-SAA-006; v2.0 read "requests intimate naming");
 - makes received concepts public;
 - reads Producer affect;
 - offers care;

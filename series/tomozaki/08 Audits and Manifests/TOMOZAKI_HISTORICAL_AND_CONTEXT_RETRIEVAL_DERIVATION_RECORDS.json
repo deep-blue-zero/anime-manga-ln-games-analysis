@@ -1,0 +1,104 @@
+{
+  "schema": "tomozaki_historical_context_administrative_derivations/v1",
+  "artifact_type": "model_administrative_derivation_record",
+  "status": "canonical",
+  "release_state": "immutable_freeze",
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_primary_literary_authority": true,
+  "supersedes": [],
+  "superseded_by": [],
+  "model_derivations": [
+    {
+      "path": "series/tomozaki/07 Character Reconstruction Models/MICHAEL_ANDI_ATTRIBUTED_RETRIEVAL_MODEL.md",
+      "original_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_ORIGINAL_MODEL_AND_ROUTER_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "original_raw_identity": {
+        "path": ".scratch/historical_context_models_root_20261103/candidates/MICHAEL_ANDI_ATTRIBUTED_RETRIEVAL_MODEL.md",
+        "bytes": 6898,
+        "sha256": "d20b8135227a42e3193fbf9bb089bfe8ece9dabd52d9494cd2f1d7c77899a2d1"
+      },
+      "current_render_identity": {
+        "path": "series/tomozaki/07 Character Reconstruction Models/MICHAEL_ANDI_ATTRIBUTED_RETRIEVAL_MODEL.md",
+        "bytes": 8361,
+        "sha256": "d350f669c8e839b06d25aa89d0e4fb7cec236b531c76c150235c57045f27d7fe"
+      },
+      "core_definition": "Complete original bytes after closing YAML delimiter, including original leading whitespace and creation-stage closing prose.",
+      "core_bytes": 6465,
+      "original_core_sha256": "d7e75f0d09b35a7419dd0ea3de65ab1d08357569fe914d2e510ad74c7c34a43f",
+      "rendered_core_sha256": "d7e75f0d09b35a7419dd0ea3de65ab1d08357569fe914d2e510ad74c7c34a43f",
+      "core_bytes_equal": true,
+      "complete_unified_diff": "--- original/MICHAEL_ANDI_ATTRIBUTED_RETRIEVAL_MODEL.md\n+++ series/tomozaki/07 Character Reconstruction Models/MICHAEL_ANDI_ATTRIBUTED_RETRIEVAL_MODEL.md\n@@ -2,15 +2,25 @@\n artifact_type: character_reconstruction_model\n authority_class: derived_use_model\n do_not_use_as_primary_literary_authority: true\n-status: draft_noncurrent\n-release_state: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current_authority: true\n+status: canonical\n+release_state: mutable_active\n+repository_authority: true\n+do_not_use_as_current_authority: false\n model_kind: attributed_retrieval_constraint_model\n literary_basis_commit: b498a20457e4debeb70895fca8ebd37717e91017\n release_id: TOMOZAKI_JP_LN_V12_EDITION_1_20261103\n version: 1\n+\n+supersedes: []\n+superseded_by: []\n+operational_validation: BOUNDED_ATTRIBUTED_RETRIEVAL_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS\n+administrative_render_date: 2026-11-03\n+integration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_INTEGRATION_REVIEW.md\n+evidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_EVIDENCE_AND_REVIEW_PACKET.json\n ---\n+\n+> **Current bounded acceptance — 2026-11-03.** Root accepted this exact V1 core for attributed historical/document/testimony/reception retrieval after all 18 producer cases, 22 independent cases and the 45 concrete context results were acquired and reviewed. The complete original body is preserved below; its statements that review or acceptance were pending describe the historical candidate stage. Current authority, evidence and limits are routed by the [operator guide](TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_OPERATOR_GUIDE.md), [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_INTEGRATION_REVIEW.md) and [portable packet](../08%20Audits%20and%20Manifests/TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_EVIDENCE_AND_REVIEW_PACKET.json). This is manual source-bound retrieval, with no autonomous/current/posthumous persona, new Japanese dialogue, complete idiolect, acoustics, blind accuracy, global grade or terminal claim. Exact-head publication remains a separate integration step.\n+\n \n # Michael Andi — attributed document, testimony and reception retrieval model\n \n"
+    },
+    {
+      "path": "series/tomozaki/07 Character Reconstruction Models/HINAMI_NAGISA_ATTRIBUTED_RETRIEVAL_MODEL.md",
+      "original_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_ORIGINAL_MODEL_AND_ROUTER_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      },
+      "original_raw_identity": {
+        "path": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_NAGISA_ATTRIBUTED_RETRIEVAL_MODEL.md",
+        "bytes": 6375,
+        "sha256": "3d596a35984c112bc045ff88fec55e9022d183b2cd031eb4065b3848e16a67b6"
+      },
+      "current_render_identity": {
+        "path": "series/tomozaki/07 Character Reconstruction Models/HINAMI_NAGISA_ATTRIBUTED_RETRIEVAL_MODEL.md",
+        "bytes": 7838,
+        "sha256": "6bd3a9859628575bad5cdc9bd2bf4fe5b2749d73ce8ecedacbe78043d0ea810c"
+      },
+      "core_definition": "Complete original bytes after closing YAML delimiter, including original leading whitespace and creation-stage closing prose.",
+      "core_bytes": 5942,
+      "original_core_sha256": "ed3c1309d4202bf8ea074769ceb916cf249b05ff06dfe739cf392e4ea39598ff",
+      "rendered_core_sha256": "ed3c1309d4202bf8ea074769ceb916cf249b05ff06dfe739cf392e4ea39598ff",
+      "core_bytes_equal": true,
+      "complete_unified_diff": "--- original/HINAMI_NAGISA_ATTRIBUTED_RETRIEVAL_MODEL.md\n+++ series/tomozaki/07 Character Reconstruction Models/HINAMI_NAGISA_ATTRIBUTED_RETRIEVAL_MODEL.md\n@@ -2,15 +2,25 @@\n artifact_type: character_reconstruction_model\n authority_class: derived_use_model\n do_not_use_as_primary_literary_authority: true\n-status: draft_noncurrent\n-release_state: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current_authority: true\n+status: canonical\n+release_state: mutable_active\n+repository_authority: true\n+do_not_use_as_current_authority: false\n model_kind: attributed_retrieval_constraint_model\n literary_basis_commit: b498a20457e4debeb70895fca8ebd37717e91017\n release_id: TOMOZAKI_JP_LN_V12_EDITION_1_20261103\n version: 1\n+\n+supersedes: []\n+superseded_by: []\n+operational_validation: BOUNDED_ATTRIBUTED_RETRIEVAL_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS\n+administrative_render_date: 2026-11-03\n+integration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_INTEGRATION_REVIEW.md\n+evidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_EVIDENCE_AND_REVIEW_PACKET.json\n ---\n+\n+> **Current bounded acceptance — 2026-11-03.** Root accepted this exact V1 core for attributed historical/document/testimony/reception retrieval after all 18 producer cases, 22 independent cases and the 45 concrete context results were acquired and reviewed. The complete original body is preserved below; its statements that review or acceptance were pending describe the historical candidate stage. Current authority, evidence and limits are routed by the [operator guide](TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_OPERATOR_GUIDE.md), [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_INTEGRATION_REVIEW.md) and [portable packet](../08%20Audits%20and%20Manifests/TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_EVIDENCE_AND_REVIEW_PACKET.json). This is manual source-bound retrieval, with no autonomous/current/posthumous persona, new Japanese dialogue, complete idiolect, acoustics, blind accuracy, global grade or terminal claim. Exact-head publication remains a separate integration step.\n+\n \n # Hinami Nagisa — attributed historical retrieval model\n \n"
+    },
+    {
+      "path": "series/tomozaki/07 Character Reconstruction Models/HINAMI_YOKO_ATTRIBUTED_RETRIEVAL_MODEL.md",
+      "original_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_ORIGINAL_MODEL_AND_ROUTER_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      },
+      "original_raw_identity": {
+        "path": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_YOKO_ATTRIBUTED_RETRIEVAL_MODEL.md",
+        "bytes": 6298,
+        "sha256": "8984b35d510693c41aeed8d0030488f45696f1f4b64e410330bbfe656f31cb74"
+      },
+      "current_render_identity": {
+        "path": "series/tomozaki/07 Character Reconstruction Models/HINAMI_YOKO_ATTRIBUTED_RETRIEVAL_MODEL.md",
+        "bytes": 7761,
+        "sha256": "d21a1839517294fd7b7e168b091a887f923356438c4f99e7ab0b30a4669b9314"
+      },
+      "core_definition": "Complete original bytes after closing YAML delimiter, including original leading whitespace and creation-stage closing prose.",
+      "core_bytes": 5865,
+      "original_core_sha256": "c014407f3a8f46c16135697476a46fbf8f3ea7c0fbb578ed3dad92b2a4973e3f",
+      "rendered_core_sha256": "c014407f3a8f46c16135697476a46fbf8f3ea7c0fbb578ed3dad92b2a4973e3f",
+      "core_bytes_equal": true,
+      "complete_unified_diff": "--- original/HINAMI_YOKO_ATTRIBUTED_RETRIEVAL_MODEL.md\n+++ series/tomozaki/07 Character Reconstruction Models/HINAMI_YOKO_ATTRIBUTED_RETRIEVAL_MODEL.md\n@@ -2,15 +2,25 @@\n artifact_type: character_reconstruction_model\n authority_class: derived_use_model\n do_not_use_as_primary_literary_authority: true\n-status: draft_noncurrent\n-release_state: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current_authority: true\n+status: canonical\n+release_state: mutable_active\n+repository_authority: true\n+do_not_use_as_current_authority: false\n model_kind: attributed_retrieval_constraint_model\n literary_basis_commit: b498a20457e4debeb70895fca8ebd37717e91017\n release_id: TOMOZAKI_JP_LN_V12_EDITION_1_20261103\n version: 1\n+\n+supersedes: []\n+superseded_by: []\n+operational_validation: BOUNDED_ATTRIBUTED_RETRIEVAL_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS\n+administrative_render_date: 2026-11-03\n+integration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_INTEGRATION_REVIEW.md\n+evidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_EVIDENCE_AND_REVIEW_PACKET.json\n ---\n+\n+> **Current bounded acceptance — 2026-11-03.** Root accepted this exact V1 core for attributed historical/document/testimony/reception retrieval after all 18 producer cases, 22 independent cases and the 45 concrete context results were acquired and reviewed. The complete original body is preserved below; its statements that review or acceptance were pending describe the historical candidate stage. Current authority, evidence and limits are routed by the [operator guide](TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_OPERATOR_GUIDE.md), [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_INTEGRATION_REVIEW.md) and [portable packet](../08%20Audits%20and%20Manifests/TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_EVIDENCE_AND_REVIEW_PACKET.json). This is manual source-bound retrieval, with no autonomous/current/posthumous persona, new Japanese dialogue, complete idiolect, acoustics, blind accuracy, global grade or terminal claim. Exact-head publication remains a separate integration step.\n+\n \n # Hinami Yoko — attributed historical and contact retrieval model\n \n"
+    }
+  ],
+  "router_derivation": {
+    "path": "series/tomozaki/07 Character Reconstruction Models/TOMOZAKI_SUPPORTING_CONTEXT_ROUTER.json",
+    "original_record": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_ORIGINAL_MODEL_AND_ROUTER_RECORDS.json",
+      "json_pointer": "/records/3/value"
+    },
+    "original_raw_identity": {
+      "path": ".scratch/historical_context_models_root_20261103/candidates/TOMOZAKI_SUPPORTING_CONTEXT_ROUTER.json",
+      "bytes": 117521,
+      "sha256": "d00cabd119df5215ffa9d04444064b03a45cb068a659d0edf511c7df2280b637"
+    },
+    "current_render_identity": {
+      "path": "series/tomozaki/07 Character Reconstruction Models/TOMOZAKI_SUPPORTING_CONTEXT_ROUTER.json",
+      "bytes": 118468,
+      "sha256": "68b466cb1086dd71c48b7b097f8c9e698f8a9c79dc69d3804be45032eeb124cd"
+    },
+    "all45_complete_route_values_equal": true,
+    "all45_route_array_raw_bytes_equal": true,
+    "route_array_bytes": 114809,
+    "route_array_sha256": "18c18be86fb72adcc21792209d1b340291c5ef9e3165d75189c35206b0eb0c90",
+    "complete_unified_diff": "--- original/TOMOZAKI_SUPPORTING_CONTEXT_ROUTER.json\n+++ series/tomozaki/07 Character Reconstruction Models/TOMOZAKI_SUPPORTING_CONTEXT_ROUTER.json\n@@ -3,10 +3,10 @@\n   \"artifact_type\": \"character_reconstruction_model\",\n   \"authority_class\": \"derived_use_model\",\n   \"do_not_use_as_primary_literary_authority\": true,\n-  \"status\": \"draft_noncurrent\",\n-  \"release_state\": \"draft_noncurrent\",\n-  \"repository_authority\": false,\n-  \"do_not_use_as_current_authority\": true,\n+  \"status\": \"canonical\",\n+  \"release_state\": \"mutable_active\",\n+  \"repository_authority\": true,\n+  \"do_not_use_as_current_authority\": false,\n   \"model_kind\": \"attributed_context_retrieval_router\",\n   \"literary_basis\": \"b498a20457e4debeb70895fca8ebd37717e91017\",\n   \"source_boundary\": \"MainV01–V12 plus story-localV06.5/V08.5; V07SpecialEdition distinction retained.14witnesses.\",\n@@ -2437,5 +2437,13 @@\n     \"No complete voice, predictive accuracy, global grade or terminal closure.\",\n     \"No new publication/consent rights inferred from benefit, custody, group membership or later result.\"\n   ],\n-  \"review_state\": \"PENDING_INDEPENDENT_REVIEW_AND_ROOT_ACCEPTANCE\"\n+  \"review_state\": \"ACCEPTED_ROOT_SOURCE_BOUND_CONTEXT_RETRIEVAL_PUBLICATION_PENDING\",\n+  \"supersedes\": [],\n+  \"superseded_by\": [],\n+  \"release_id\": \"TOMOZAKI_JP_LN_V12_EDITION_1_20261103\",\n+  \"administrative_render_date\": \"2026-11-03\",\n+  \"operator_guide\": \"series/tomozaki/07 Character Reconstruction Models/TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_OPERATOR_GUIDE.md\",\n+  \"integration_review\": \"series/tomozaki/08 Audits and Manifests/TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_INTEGRATION_REVIEW.md\",\n+  \"evidence_and_review_packet\": \"series/tomozaki/08 Audits and Manifests/TOMOZAKI_HISTORICAL_AND_CONTEXT_RETRIEVAL_EVIDENCE_AND_REVIEW_PACKET.json\",\n+  \"current_acceptance_scope\": \"Manual source-bound context retrieval, with all 45 exact routes preserved. Historical review-state/pending values reside in the exact original record. CTX-03 routing-level history is supplemented by the complete actual independent HC-CX05 and 45 concrete results in the packet; no autonomous persona, full voice, global grade or terminal claim.\"\n }\n"
+  }
+}

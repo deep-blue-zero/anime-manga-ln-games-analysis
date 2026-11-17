@@ -1,0 +1,190 @@
+{
+  "schema": "KONOSUBA_EXP02_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+  "source_id": "EXP-02",
+  "accepted_utc": "2026-10-18T15:42:20.857727+00:00",
+  "native_filename": "Konosuba - Spin-off - Explosions - Volume 02.epub",
+  "native_bytes": 13672536,
+  "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+  "OPF_member": "item/standard.opf",
+  "OPF_sha256": "8b9c2234be2b37e1cae09b1b272f3326274fc3352268634677b2b9b341e6ae32",
+  "language": [
+    "ja"
+  ],
+  "colophon": "この素晴らしい世界に爆焔を！２ ゆんゆんのターン. Electronic issue2014-12-01; underlying print first edition2014-12-01. No explicit version number. Akatsuki Natsume author/Mishima Kurone illustration; full design and publisher credits separately read.",
+  "admission_sha256": "8e980e97636b77f7eec790ff9f38830f586b2a91a780fc9c07f5fab94f5440e3",
+  "admission_utc": "2026-10-18T14:18:19.361476+00:00",
+  "preceding_full_gate_source": "ca8fa360d1b8e75a06b1f36e30c6189514e96090",
+  "preceding_gate_sha256": "054b162820782cc07b5e86df3b766f4a72827b647cf4575cd9e5f024c4588533",
+  "preceding_fresh_reload_sha256": "0bdb793727c17319450049a1b40e05a0d5cb7fd417f68bb5690893ab7b33a737",
+  "complete_uncoded_seal_sha256": "0be80027e7ad5458d8b1e1ededf4b9ecd5a1e598fd203c5e15dd54fa7db68dbc",
+  "complete_uncoded_seal_utc": "2026-10-18T15:16:14.227298+00:00",
+  "actual_reading": {
+    "all_textual_components": 58,
+    "all_native_P_slots": 3189,
+    "principal_P_slots": 3140,
+    "other_P_slots": 49,
+    "separate_bonus_narrative": false,
+    "individually_identified_narrative_image_groups": [
+      {
+        "id": "EXP02-INTERLUDE-I",
+        "title": "序幕 アクア様、逃がしません！",
+        "native_units": [
+          "EXP-02-U018",
+          "EXP-02-U019",
+          "EXP-02-U020",
+          "EXP-02-U021"
+        ],
+        "native_images": [
+          "EXP-02-IMG023",
+          "EXP-02-IMG024",
+          "EXP-02-IMG025",
+          "EXP-02-IMG026"
+        ],
+        "viewpoint": "Cecily first person; reader access differs from Megumin",
+        "scope": "All four supplied full image-prose pages actually read; distinct component and continuous interpretation in report, not merely an empty-wrapper tick."
+      },
+      {
+        "id": "EXP02-INTERLUDE-II",
+        "title": "弐幕 アクア様、挫けません！",
+        "native_units": [
+          "EXP-02-U024",
+          "EXP-02-U025",
+          "EXP-02-U026",
+          "EXP-02-U027"
+        ],
+        "native_images": [
+          "EXP-02-IMG027",
+          "EXP-02-IMG028",
+          "EXP-02-IMG029",
+          "EXP-02-IMG030"
+        ],
+        "viewpoint": "Cecily first person; reader access differs from Megumin",
+        "scope": "All four supplied full image-prose pages actually read; distinct component and continuous interpretation in report, not merely an empty-wrapper tick."
+      },
+      {
+        "id": "EXP02-INTERLUDE-III",
+        "title": "参幕 アクア様、負けません！",
+        "native_units": [
+          "EXP-02-U033",
+          "EXP-02-U034",
+          "EXP-02-U035",
+          "EXP-02-U036"
+        ],
+        "native_images": [
+          "EXP-02-IMG031",
+          "EXP-02-IMG032",
+          "EXP-02-IMG033",
+          "EXP-02-IMG034"
+        ],
+        "viewpoint": "Cecily first person; reader access differs from Megumin",
+        "scope": "All four supplied full image-prose pages actually read; distinct component and continuous interpretation in report, not merely an empty-wrapper tick."
+      },
+      {
+        "id": "EXP02-INTERLUDE-IV",
+        "title": "肆幕 アクア様、幸せです！",
+        "native_units": [
+          "EXP-02-U039",
+          "EXP-02-U040",
+          "EXP-02-U041",
+          "EXP-02-U042"
+        ],
+        "native_images": [
+          "EXP-02-IMG035",
+          "EXP-02-IMG036",
+          "EXP-02-IMG037",
+          "EXP-02-IMG038"
+        ],
+        "viewpoint": "Cecily first person; reader access differs from Megumin",
+        "scope": "All four supplied full image-prose pages actually read; distinct component and continuous interpretation in report, not merely an empty-wrapper tick."
+      },
+      {
+        "id": "EXP02-INTERLUDE-FINAL",
+        "title": "終幕 アクア様、感謝します！",
+        "native_units": [
+          "EXP-02-U045",
+          "EXP-02-U046",
+          "EXP-02-U047",
+          "EXP-02-U048"
+        ],
+        "native_images": [
+          "EXP-02-IMG039",
+          "EXP-02-IMG040",
+          "EXP-02-IMG041",
+          "EXP-02-IMG042"
+        ],
+        "viewpoint": "Cecily first person; reader access differs from Megumin",
+        "scope": "All four supplied full image-prose pages actually read; distinct component and continuous interpretation in report, not merely an empty-wrapper tick."
+      },
+      {
+        "id": "EXP02-COMIC-PRESENT-REUNION",
+        "native_units": [
+          "EXP-02-U030",
+          "EXP-02-U031"
+        ],
+        "native_images": [
+          "EXP-02-IMG015",
+          "EXP-02-IMG016"
+        ],
+        "shared_prose_event": "U029P0344–0373",
+        "scope": "Actually read contemporary depiction of the same fall/reunion, not an additional event and not EXP01’s denied allegation."
+      }
+    ],
+    "individually_identified_embedded_narrative_groups": [
+      {
+        "id": "EXP02-EMBEDDED-SOLITARY-HERO-FABLE",
+        "native_units": [
+          "EXP-02-U013",
+          "EXP-02-U050"
+        ],
+        "scope": "One fictional picture-book story repeated and completed through prologue/epilogue; narrator/hero/villain/followers distinguished from actual current-world people."
+      }
+    ],
+    "integral_image_only_prose_pages": 20,
+    "all_native_images_actually_viewed": 50,
+    "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+    "all_native_local_and_archive_text_image_hash_joins_reverified": 108,
+    "fresh_native_ZIP_CRC": "PASS",
+    "image_individual_scopes_control": true
+  },
+  "source_first_sealed_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 59288,
+      "sha256": "8e980e97636b77f7eec790ff9f38830f586b2a91a780fc9c07f5fab94f5440e3"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 16249,
+      "sha256": "6a6fddd4ef6199575e840adf1cdc7d89d7101c2bb191234b9455a85bc332d634"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 165810,
+      "sha256": "588e7970ef92b10075cce49e720d9953b80f8af177d8a56357e2bd28d7f28823"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 45752,
+      "sha256": "468093c1c0050340eda78a0ce2fec39c9f1da6246dde9c30729aa15b5161500d"
+    },
+    {
+      "file": "UNCODED_IMAGE_SCOPE_CORRECTIONS.jsonl",
+      "bytes": 2767,
+      "sha256": "2d314ff44bcadb76a2b56ac8c5bfece25547e5587ab9bd0e730935b07f207a4e"
+    }
+  ],
+  "formal_coverage": {
+    "full_responsibilities": 17,
+    "selected_premises_not_census": 80,
+    "native_verified_short_form_context_witnesses": 93,
+    "local_unchanged_question_assessments": 7,
+    "append_only_decisions_across_ten_ledgers": 34,
+    "current_precision_qualifications": 46
+  },
+  "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+  "no_independent_second_full_pass_native_human_audio_claim": true,
+  "source_first_originals_remain_exact": true,
+  "original_four_scores_and_14_future_fields_unchanged": true,
+  "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING",
+  "midread_precision_context": "Entire uncoded pass sealed before all formal findings. Two append-only pre-seal image-scope corrections preserve original premature IMG012 description and loose IMG037 handoff shorthand, with actual later-view precision controlling current analysis. IMG021 hair-down Yunyun caption resolved by actual enlarged inspection before acknowledgment."
+}

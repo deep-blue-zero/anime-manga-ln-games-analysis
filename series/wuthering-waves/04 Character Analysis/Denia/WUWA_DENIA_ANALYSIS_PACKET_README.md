@@ -35,6 +35,8 @@ authority_adoption: owner_2026_09_09_text_audio_baseline
 
 # Denia reconstruction dossier — pre-audiovisual V0.1
 
+The [current-state router](WUWA_DENIA_CURRENT_STATE.md) is the primary current character entrypoint. This README retains packet-manifest, provenance, and reading-order responsibilities; the artifact-class layout does not change authority or completion state.
+
 ## Purpose
 
 This packet is a source-grounded reconstruction of **Denia / 达妮娅 / ダーニャ / 데니아** against the frozen *Wuthering Waves* 3.6.0 evidence generation. It applies the current Wuthering Waves character-analysis framework together with the proposed audiovisual collection and human-retrieval refinements that have not yet been committed to Git.
@@ -168,43 +170,43 @@ Public story names and search strings are navigation aids, not evidence. Any acq
 
 ## Packet contents and analytical responsibilities
 
-### 1. `WUWA_DENIA_CHARACTER_DEEP_DIVE_PRE_AV.md`
+### 1. `01 Evidence and Source-Facing/WUWA_DENIA_CHARACTER_DEEP_DIVE_PRE_AV.md`
 
 The source-facing interpretive center: identity, developmental architecture, lies, imitation, personhood, nihilism, usefulness, birthday, relationships, ordinary life, ethics, rival readings, and bounded predictions.
 
-### 2. `WUWA_DENIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md`
+### 2. `01 Evidence and Source-Facing/WUWA_DENIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md`
 
 A claim-level matrix separating source fact, stable observation, inference, candidate thesis, counterevidence, and future falsification target.
 
-### 3. `WUWA_DENIA_RELATIONSHIP_AND_STATE_PROFILE.md`
+### 3. `01 Evidence and Source-Facing/WUWA_DENIA_RELATIONSHIP_AND_STATE_PROFILE.md`
 
 The canonical local home for developmental states, recurring operational contexts, relationship transitions, recipient modifiers, and continuity limits.
 
-### 4. `WUWA_DENIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md`
+### 4. `01 Evidence and Source-Facing/WUWA_DENIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md`
 
 A source-fact / analytical-implication / extrapolation-limit profile covering sleep, food, games, classes, festivals, photography, motorcycles, music, color, study, gifts, humor, boredom, rest, and everyday social behavior.
 
-### 5. `WUWA_DENIA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md`
+### 5. `03 Audiovisual and Voice/WUWA_DENIA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md`
 
 Textual register and rhetoric plus bounded machine-acoustic accounting. No unreviewed acting interpretation.
 
-### 6. `WUWA_DENIA_IDENTITY_DECEPTION_AND_PERSONHOOD_PROFILE.md`
+### 6. `01 Evidence and Source-Facing/WUWA_DENIA_IDENTITY_DECEPTION_AND_PERSONHOOD_PROFILE.md`
 
 A Denia-specific specialist artifact covering uncertain origin, name, birthday, imitation, smile, memory, truth categories, creator/creation claims, replaceability, and the conditions under which a constructed social identity becomes answerable and real.
 
-### 7. `WUWA_DENIA_RECONSTRUCTIVE_PROFILE_PRE_AV.md`
+### 7. `02 Reconstruction/WUWA_DENIA_RECONSTRUCTIVE_PROFILE_PRE_AV.md`
 
 An operational model for state selection, decision rules, stable drives, vulnerabilities, relationship-conditioned behavior, ordinary-life prediction, speech constraints, and mandatory abstentions.
 
-### 8. `WUWA_DENIA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md`
+### 8. `04 Validation and Readiness/WUWA_DENIA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md`
 
 An adversarial test against nihilist flattening, “mask versus real self” simplification, liar archetype leakage, romance inflation, trauma-only readings, indiscriminate self-sacrifice, and unsupported AV/performance claims.
 
-### 9. `WUWA_DENIA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md`
+### 9. `03 Audiovisual and Voice/WUWA_DENIA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md`
 
 Defines which story, promotional, combat, and static witnesses should be collected and what claim each could change.
 
-### 10. `WUWA_DENIA_AV_HUMAN_RETRIEVAL_CROSSWALK.md`
+### 10. `03 Audiovisual and Voice/WUWA_DENIA_AV_HUMAN_RETRIEVAL_CROSSWALK.md`
 
 Maps AV targets to internal source locators, public chapter/quest families, dialogue anchors, expected witness types, search terms, mapping confidence, and future acquisition fields.
 
@@ -227,16 +229,16 @@ The README is the packet entrypoint and routing authority within this local work
 ## Recommended reading order
 
 1. This README.
-2. `WUWA_DENIA_CHARACTER_DEEP_DIVE_PRE_AV.md`.
-3. `WUWA_DENIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md`.
-4. `WUWA_DENIA_IDENTITY_DECEPTION_AND_PERSONHOOD_PROFILE.md`.
-5. `WUWA_DENIA_RELATIONSHIP_AND_STATE_PROFILE.md`.
-6. `WUWA_DENIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md`.
-7. `WUWA_DENIA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md`.
-8. `WUWA_DENIA_RECONSTRUCTIVE_PROFILE_PRE_AV.md`.
-9. `WUWA_DENIA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md`.
-10. `WUWA_DENIA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md`.
-11. `WUWA_DENIA_AV_HUMAN_RETRIEVAL_CROSSWALK.md`.
+2. `01 Evidence and Source-Facing/WUWA_DENIA_CHARACTER_DEEP_DIVE_PRE_AV.md`.
+3. `01 Evidence and Source-Facing/WUWA_DENIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md`.
+4. `01 Evidence and Source-Facing/WUWA_DENIA_IDENTITY_DECEPTION_AND_PERSONHOOD_PROFILE.md`.
+5. `01 Evidence and Source-Facing/WUWA_DENIA_RELATIONSHIP_AND_STATE_PROFILE.md`.
+6. `01 Evidence and Source-Facing/WUWA_DENIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md`.
+7. `03 Audiovisual and Voice/WUWA_DENIA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md`.
+8. `02 Reconstruction/WUWA_DENIA_RECONSTRUCTIVE_PROFILE_PRE_AV.md`.
+9. `04 Validation and Readiness/WUWA_DENIA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md`.
+10. `03 Audiovisual and Voice/WUWA_DENIA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md`.
+11. `03 Audiovisual and Voice/WUWA_DENIA_AV_HUMAN_RETRIEVAL_CROSSWALK.md`.
 
 For AV acquisition, reverse the last two only after reading the nomination responsibility: know **why** a witness is wanted before using the crosswalk to locate it.
 

@@ -2,15 +2,20 @@
 title: "Gakuen Idolmaster V2 — Tsukimura Temari Character-Core AV Revision Addendum"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "Phase-3 audiovisual revision addendum"
-version: "2.0"
+artifact_type: claim_revision_ledger
+version: "2.1"
 phase: "3 — Character-Core Readings / Audiovisual Baseline"
 character: "Tsukimura Temari / 月村手毬"
 created: "2026-08-15"
+revised: "2026-11-15"
+revision_note: "Source-to-analysis audit 2026-11-15 corrections: REVISE of the Dear 035–037 address attribution in §6 and REVISE (qualification) of the self-love evidence in §10; no new AV observation."
 status: "canonical revision layer; original textual core remains preserved"
 revises: "GKM_CORE_02_TSUKIMURA_TEMARI.md"
 ---
 
 # TSUKIMURA TEMARI — AV REVISION ADDENDUM
+
+> **Revision record — v2.1, 2026-11-15 (source-to-analysis audit corrections).** Two textual corrections from the source-to-analysis audit; no audiovisual material was re-inspected. §6: the given-name step in Dear 037 is the Producer's, not Temari's request (REVISE; GKM-SAA-006). §10: the self-love evidence is qualified by mediated belief, a pre-verdict U1 line and a rank-independent P1 anchor; unconditionality stays unresolved (REVISE; GKM-SAA-046). Earlier wording is quoted in each dated note.
 
 ## 0. Purpose
 
@@ -147,7 +152,7 @@ Evidence for Temari’s agency:
 
 - she asks how she appears in `アイヴイ`;
 - judges the Producer’s selection;
-- requests given-name address before the H.I.F. final;
+- requests an honorific-free (`呼び捨て`) send-off before the H.I.F. final;
 - receives `青い炎`, recognizes it, and makes it public;
 - reads his tears in Dear 037;
 - lends a handkerchief and returns care;
@@ -163,6 +168,8 @@ Unresolved risk:
 Revised formulation:
 
 > **reciprocal co-authorship inside persistent institutional asymmetry.**
+
+**Audit correction (2026-11-15, GKM-SAA-006) — REVISE.** v2.0's third agency item read: "requests given-name address before the H.I.F. final". Temari asks to be sent off, just this once, not as `月村さん` but `呼び捨て` (`adv_dear_ttmr_035` L632–L643); the Producer's single option is `月村` with a plain imperative (L647–L650). After the victory he reverts to `月村さん`, calls his send-off a wrong word choice and, again through a single option, says `手毬` before proposing ramen ahead of the meeting she has called (`adv_dear_ttmr_037` L242, L396–L432); she answers with a silent line and `はいっ` (L441–L450). Her de-honorification request stays in the agency list; the escalation to `手毬` is the Producer's own move and belongs to the reciprocity side of the formulation above. `呼び捨て` could cover the given name, so her wish is ambiguous, but she did not name `手毬`. The delivery of L441 and L450 is an optional AV question; the attribution is textual.
 
 ---
 
@@ -241,6 +248,8 @@ Temari’s `今日の私が一番好き` was treated as genuine but potentially 
 Dear 037’s ordinary setting, food, humor, care reversal, soft direct gaze, and present-tense grammar make the affirmation credible. It is not merely a public title speech.
 
 But the timing remains maximal success. Temari immediately opens another horizon. Later event/support and future-route evidence must test self-regard during prolonged nonachievement.
+
+**Audit correction (2026-11-15, GKM-SAA-046) — REVISE (qualification); unconditionality UNRESOLVED.** "The timing remains maximal success" is accurate for Dear 037 but not for every self-love statement. Textually, the Dear 037 affirmation rests on the Producer's earlier "we are alike" and on Temari's wish that both of them come to like her more (`adv_dear_ttmr_037` L452–L477); after the summer loss she says she can believe in herself because someone believes in her (`adv_dear_ttmr_027` L382–L427). In U1 her inner self-love line follows full effort and precedes the verdict (`adv_unit_01-04_20` L662–L671), and in one P1 branch she loves her own singing even if it is called self-praise (`adv_pstory_001_ttmr_before-audition-mid-normal-01` L60–L86, choice 2). These qualify the achievement-dependence; they do not establish self-regard through prolonged nonachievement. See core §5.4.
 
 ---
 

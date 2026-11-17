@@ -1,0 +1,68 @@
+{
+  "schema": "KONOSUBA_KOMEKKO_SOURCE_KNOWN_CONTRAST_SPEC_V1",
+  "sealed_utc": "2026-10-20T02:51:45.067648+00:00",
+  "model_file": "KOMEKKO_RECONSTRUCTION_MODEL_PRIVATE_DRAFT_01.md",
+  "model_bytes": 20844,
+  "model_sha256": "79dbef9175a1cedcab34ab19c618ddde23dd7e3802fc036abe31061814c52ea4",
+  "pairs": [
+    {
+      "id": "KM-K-H01",
+      "purpose": "Activity, food and current bodily state without treating feeding as automatic work recruitment.",
+      "rules": [
+        "KM-K-01",
+        "KM-K-02"
+      ],
+      "shared": "Megumin and Komekko are at home. A safe unfamiliar mechanical picture puzzle is available; Komekko found its moving pictures interesting. Megumin wants a small section completed before putting it away. No danger, punishment or urgent duty exists.",
+      "A_available": "Komekko is currently hungry. A simple meal is already prepared on the table. Megumin says she can eat after doing the section.",
+      "B_available": "Komekko has just eaten a large meal and is visibly sleepy. Megumin says that now she has eaten she should do the section.",
+      "predeclared_expectation": "A may ask to eat first or argue practically; B may ask to rest or continue only partially. Do not force both to finish as repayment or assume lack of puzzle ability. Exact tactic and eventual completion are underidentified.",
+      "discrimination_limit": "Hunger and satiation/sleep are stated bundles, not independently manipulated causes. Generic state sensitivity is a strong rival; no fitted timing or reward threshold."
+    },
+    {
+      "id": "KM-K-H02",
+      "purpose": "Refusal with and without an actual accessible resource.",
+      "rules": [
+        "KM-K-02",
+        "KM-K-03"
+      ],
+      "shared": "Komekko expects Megumin to scold her about leaving toys out. She is hungry and does not want the discussion. Megumin says there will be no snack until they have talked. The rooms and objects are familiar; no threat of harm exists.",
+      "A_available": "The nearby playroom is open, can be closed from inside and visibly contains her own permitted box of snacks.",
+      "B_available": "The nearby playroom is open and closable, but its snack box is visibly empty and no food is there.",
+      "predeclared_expectation": "A permits food-room retreat that weakens the snack threat. B may still refuse, bargain or seek another permitted source, but must not conjure snacks in the room or pretend the same food leverage exists.",
+      "discrimination_limit": "Actual feasibility explains much of any contrast. The source does not identify one unique fallback when supplies are absent, and the exercise must preserve that uncertainty."
+    },
+    {
+      "id": "KM-K-H03",
+      "purpose": "Allow selective giving and guarding without a universal kindness or hoarding law.",
+      "rules": [
+        "KM-K-02",
+        "KM-K-04"
+      ],
+      "shared": "Komekko has had an ordinary meal and owns a much-liked picture book. The book can be carried away; no urgent basic need, payment or adult order determines its transfer.",
+      "A_available": "Megumin is leaving for several nights, has no familiar reading with her and is quietly packing. Komekko can see her sister is reluctant to leave. No one asks for the book.",
+      "B_available": "Megumin is staying home. An unfamiliar visitor takes hold of the same book and says they want to carry it away without asking Komekko.",
+      "predeclared_expectation": "A permits an active offer or concrete comforting use of the book, alongside teasing or a return request. B permits holding it back or objecting to the unrequested taking. A is a supported possibility rather than a uniquely determined gift.",
+      "discrimination_limit": "Recipient, departure and permission are bundled. Ordinary ownership norms and generic care can yield the same contrast; this does not isolate attachment as a cause or prove that she always gives."
+    },
+    {
+      "id": "KM-K-H04",
+      "purpose": "Preserve accessible knowledge when reader-only truth changes.",
+      "rules": [
+        "KM-K-05",
+        "KM-K-06"
+      ],
+      "shared": "Komekko was not at a village errand. Megumin tells her, I helped stop the runaway cart; everyone was surprised. Komekko is asked at home what happened. Her only event access is that short account. She has not seen the cart, participants or a written record.",
+      "A_available": "No additional information reaches Komekko.",
+      "B_available": "No additional information reaches Komekko.",
+      "A_reader_only": "Unspecified what actually caused the stop.",
+      "B_reader_only": "An omniscient narrator tells the audience that Yunyun actually stopped the cart before Megumin arrived. Komekko does not receive that narration.",
+      "predeclared_expectation": "Both answers retain the same hearsay boundary and may use the same wording. Do not leak Yunyun's hidden act into Komekko's belief, fabricate witnessed details or prove mature causal understanding from her retelling.",
+      "discrimination_limit": "No behavioral separation is expected. This is an information-boundary check; the explicit source attribution instruction is itself a powerful rival explanation."
+    }
+  ],
+  "planned_actual_first_responses": 8,
+  "response_instructions": "Same informed root authors one first recorded answer per variant: bounded appraisal, feasible action, one or two short Japanese utterances, and an uncertainty/outcome limit. Use only the character-available packet; reader-only information does not enter her knowledge. Preserve the first body before evaluation.",
+  "provenance": "No other model, independent agent, human reviewer, blind source, separate model invocation or native-human language check. This informed internal exercise is not a validation score, new forecast generation or accuracy estimate.",
+  "formal_history_changes_authorized": false,
+  "canonical_adoption": false
+}

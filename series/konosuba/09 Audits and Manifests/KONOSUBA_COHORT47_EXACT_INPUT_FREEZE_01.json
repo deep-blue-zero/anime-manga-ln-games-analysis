@@ -1,0 +1,70 @@
+{
+  "schema": "konosuba.cohort47.source-safe-exact-input-freeze.v1",
+  "sealed_utc": "2026-10-25T12:02:43.228447+00:00",
+  "private_complete_freeze_sha256": "2ee56c303bb236f711cd1cc7142b8f0416fef58dadeb364ed301daddd851d027",
+  "foundation": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_FOUNDATION_FREEZE_01.json",
+    "sha256": "c004948bdfc448b96101c5249be6240ba2950726504d0d758dc7370d58aac28e"
+  },
+  "pins": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_A1_INPUT_01.json",
+      "bytes": 2049,
+      "sha256": "63e5a8dac2b73040052cb2b4b462dd94881fab4b8e1a9c07463917a57d6b0a22"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_A1_PROMPT_01.md",
+      "bytes": 1651,
+      "sha256": "77b21fb23eb25981929ac24e22b40e1fe02ba2eef5b9115c1aed726f82d2fbae"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_A2_INPUT_01.json",
+      "bytes": 2061,
+      "sha256": "93937eec1e58ecb7c25e236632089701a144bbee4f427bba7d116bcdd829f1a0"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_A2_PROMPT_01.md",
+      "bytes": 1663,
+      "sha256": "7dfc01c6f9d4ec572c9e0b484c3acec82e724a558363ea014d61f18f3c39c84c"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_B1_INPUT_01.json",
+      "bytes": 2191,
+      "sha256": "b2423c630bb750e49b643c6ba4c571e69e1411e755d729fb1bca0a4aa33e3a6d"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_B1_PROMPT_01.md",
+      "bytes": 1793,
+      "sha256": "d93fc0db7e6846d9e02295626cd9c0f387e80b6db316148498cd9f027293a652"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_B2_INPUT_01.json",
+      "bytes": 2201,
+      "sha256": "d388398713647964b4ac4d94667df895398559dcff541786f485975ac4794069"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_B2_PROMPT_01.md",
+      "bytes": 1803,
+      "sha256": "30f6f972a5f45c32dd2f78221f975ab59b4137e878b51f6f0e2290373c71a572"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEIDEL_EXACT_PAIR_PLAN_01.json",
+      "bytes": 2766,
+      "sha256": "41402085094d4dfd2c496b899aed4ac8e2a63bea7df51f6687ecb85ff5dd3d1b"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEIDEL_EXACT_INPUT_BUNDLE_01.json",
+      "bytes": 12544,
+      "sha256": "a511a2d5d8bf4ba514735b1213d540a5b85d2916ba4aae15a38246af753013b7"
+    }
+  ],
+  "scenarios": 4,
+  "dependent_pairs": 2,
+  "complete_original_review_pages": 4,
+  "complete_copyedit_review_pages": 2,
+  "firsts_at_seal": 0,
+  "all_pair_facts_known_to_same_root": true,
+  "source_known_same_informed_root": true,
+  "independent_observation_count": null,
+  "not_final_principal_party_transfer_battery": true
+}
